@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom.Canvas
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom.Canvas namespace provides interfaces for 2D rendering details qualification as well as options for filling and Path2D class
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.svg.dom.canvas/
 ---
 The **Aspose.Svg.Dom.Canvas** namespace provides interfaces for 2D rendering details qualification as well as options for filling and Path2D class.

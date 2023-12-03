@@ -11,14 +11,14 @@ url: /net/aspose.svg.rendering/svgrenderer/render/
 Defines method for rendering multiple [`SVGDocument`](../../../aspose.svg/svgdocument/)s into specific [`IDevice`](../../idevice/).
 
 ```csharp
-public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
+public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] sources)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
-| documents | SVGDocument[] | The documents to render. |
+| sources | SVGDocument[] | The SVG documents to render. |
 
 ### See Also
 
@@ -36,14 +36,14 @@ Defines a method for rendering multiple [`SVGDocument`](../../../aspose.svg/svgd
 
 ```csharp
 public override void Render(IDevice device, CancellationToken cancellationToken, 
-    params SVGDocument[] documents)
+    params SVGDocument[] sources)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | cancellationToken | CancellationToken | A cancellation token to observe while waiting for the task to complete. |
-| documents | SVGDocument[] | The documents to render. |
+| sources | SVGDocument[] | The SVG documents to render. |
 
 ### See Also
 

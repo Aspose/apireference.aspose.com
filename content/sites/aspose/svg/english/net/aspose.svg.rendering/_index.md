@@ -3,7 +3,7 @@ title: Aspose.Svg.Rendering
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Rendering namespace consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.svg.rendering/
 ---
 The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation.
@@ -19,7 +19,7 @@ The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as 
 | [GraphicContext](./graphiccontext/) | Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute. |
 | [PageSetup](./pagesetup/) | Represents a page setup object is used for configuration output page-set. |
 | [Renderer](./renderer/) | Represents a base class for all renderers and implemnts IDisposable interface. |
-| [Renderer&lt;TDocument&gt;](./renderer-1/) | Represents an abstract class for the all renderers. |
+| [Renderer&lt;TSource&gt;](./renderer-1/) | The base abstract class for all renderers. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [SvgRenderer](./svgrenderer/) | Represents SVG document renderer. |
 | [TextInfo](./textinfo/) | Contains information about rendered text. |

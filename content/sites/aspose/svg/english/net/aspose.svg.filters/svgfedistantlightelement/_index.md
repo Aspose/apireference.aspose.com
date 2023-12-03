@@ -3,7 +3,7 @@ title: SVGFEDistantLightElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Filters.SVGFEDistantLightElement class. The SVGFEDistantLightElement interface corresponds to the feDistantLight element
 type: docs
-weight: 3660
+weight: 5630
 url: /net/aspose.svg.filters/svgfedistantlightelement/
 ---
 ## SVGFEDistantLightElement class

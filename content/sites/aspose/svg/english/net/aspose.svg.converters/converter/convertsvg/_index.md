@@ -1,11 +1,187 @@
 ---
 title: Converter.ConvertSVG
 second_title: Aspose.SVG for .NET API Reference
-description: Converter method. Convert svg source to xps. Result is xps file
+description: Converter method. Convert svg document to xps.Result is xps file
 type: docs
 weight: 10
 url: /net/aspose.svg.converters/converter/convertsvg/
 ---
+## ConvertSVG(SVGDocument, XpsSaveOptions, string) {#convertsvg_5}
+
+Convert svg document to xps.Result is xps file.
+
+```csharp
+public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | SVGDocument | Conversion source. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [SVGDocument](../../../aspose.svg/svgdocument/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(Url, XpsSaveOptions, string) {#convertsvg_17}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | Source document URL. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Url](../../../aspose.svg/url/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(Url, Configuration, XpsSaveOptions, string) {#convertsvg_11}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | Source document URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Url](../../../aspose.svg/url/)
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, XpsSaveOptions, string) {#convertsvg_29}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, Configuration, XpsSaveOptions, string) {#convertsvg_23}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, string, XpsSaveOptions, string) {#convertsvg_41}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, string, Configuration, XpsSaveOptions, string) {#convertsvg_35}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_4}
 
 Convert svg source to xps. Result is xps file.
@@ -907,182 +1083,6 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 * class [Configuration](../../../aspose.svg/configuration/)
 * class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(SVGDocument, XpsSaveOptions, string) {#convertsvg_5}
-
-Convert svg document to xps.Result is xps file.
-
-```csharp
-public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | SVGDocument | Conversion source. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, XpsSaveOptions, string) {#convertsvg_17}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | Source document URL. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [Url](../../../aspose.svg/url/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, Configuration, XpsSaveOptions, string) {#convertsvg_11}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | Source document URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [Url](../../../aspose.svg/url/)
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, XpsSaveOptions, string) {#convertsvg_29}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, Configuration, XpsSaveOptions, string) {#convertsvg_23}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, XpsSaveOptions, string) {#convertsvg_41}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | Inline string svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, Configuration, XpsSaveOptions, string) {#convertsvg_35}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | Inline string svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
 * namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
 * assembly [Aspose.SVG](../../../)

@@ -3,7 +3,7 @@ title: SizingType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.SizingType enum. Represents the enumeration of page sizing types
 type: docs
-weight: 1270
+weight: 3240
 url: /net/aspose.svg.rendering/sizingtype/
 ---
 ## SizingType enumeration

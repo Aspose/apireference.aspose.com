@@ -3,7 +3,7 @@ title: ICanvasGradient Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Canvas.ICanvasGradient interface. Represents an opaque object describing a gradient
 type: docs
-weight: 20
+weight: 1990
 url: /net/aspose.svg.dom.canvas/icanvasgradient/
 ---
 ## ICanvasGradient interface

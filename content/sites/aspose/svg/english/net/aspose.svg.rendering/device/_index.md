@@ -3,7 +3,7 @@ title: Device Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Device class. Represents a base class for implementing rendering devices that are used to draw graphics in various formats and environments
 type: docs
-weight: 2370
+weight: 4340
 url: /net/aspose.svg.rendering/device/
 ---
 ## Device class

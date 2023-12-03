@@ -3,7 +3,7 @@ title: Aspose.Svg.Converters
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Converters namespace goal is easy access to conversion methods. It provides a wide range of conversions to the popular formats such as PDF XPS image formats etc. More specific conversion rendering saving user cases are presented by well known and documented low level API functions in subject oriented namespaces
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.svg.converters/
 ---
 The **Aspose.Svg.Converters** namespace goal is easy access to conversion methods. It provides a wide range of conversions to the popular formats, such as PDF, XPS, image formats, etc. More specific conversion (rendering, saving) user cases are presented by well known and documented low level API functions in subject oriented namespaces.

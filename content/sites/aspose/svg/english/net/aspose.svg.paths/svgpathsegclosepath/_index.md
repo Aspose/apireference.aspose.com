@@ -3,7 +3,7 @@ title: SVGPathSegClosePath Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Paths.SVGPathSegClosePath class. he SVGPathSegClosePath interface corresponds to a closepath z path data command
 type: docs
-weight: 3400
+weight: 5370
 url: /net/aspose.svg.paths/svgpathsegclosepath/
 ---
 ## SVGPathSegClosePath class

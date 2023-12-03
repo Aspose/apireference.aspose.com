@@ -3,7 +3,7 @@ title: Aspose.Svg.Rendering.Image
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Rendering.Image namespace provides specific device class as well as few rendering options classes responsible for rendering to raster formats jpeg png bmp gif tiff
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.svg.rendering.image/
 ---
 The **Aspose.Svg.Rendering.Image** namespace provides specific device class as well as few rendering options classes responsible for rendering to raster formats: jpeg, png, bmp, gif, tiff.

@@ -3,7 +3,7 @@ title: TextOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Image.TextOptions class. Represents text rendering options for ImageDevice
 type: docs
-weight: 2580
+weight: 4550
 url: /net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class

@@ -12,6 +12,7 @@ is_root: true
 | Namespace | Description |
 | --- | --- |
 | [Aspose.Svg](./aspose.svg/) | All classes in **Aspose.Svg.Dom.Svg** namespace are based on w3c SVG2 recommendations. Using this namespace, you can load, navigate or render the SVG file as per your requirements. |
+| [Aspose.Svg.Builder](./aspose.svg.builder/) | The **Aspose.Svg.Builder** namespace contains classes and interfaces for building and manipulating SVG (Scalable Vector Graphics) documents using the Aspose.SVG library. This namespace provides a rich set of builder classes that simplify the creation and modification of SVG elements and their attributes. These builders offer a fluent API, making the code more readable and maintainable. |
 | [Aspose.Svg.Collections](./aspose.svg.collections/) | The **Aspose.Svg.Collections** namespace consists of classes to represent, store and manipulate nodes and elements. |
 | [Aspose.Svg.Converters](./aspose.svg.converters/) | The **Aspose.Svg.Converters** namespace goal is easy access to conversion methods. It provides a wide range of conversions to the popular formats, such as PDF, XPS, image formats, etc. More specific conversion (rendering, saving) user cases are presented by well known and documented low level API functions in subject oriented namespaces. |
 | [Aspose.Svg.DataTypes](./aspose.svg.datatypes/) | The namespace provides access to all SVG specific data types. |

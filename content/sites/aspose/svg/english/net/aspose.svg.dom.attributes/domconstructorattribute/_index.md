@@ -3,7 +3,7 @@ title: DOMConstructorAttribute Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attributes.DOMConstructorAttribute class. Specifies a constructor that is defined by the W3C
 type: docs
-weight: 2250
+weight: 4220
 url: /net/aspose.svg.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class

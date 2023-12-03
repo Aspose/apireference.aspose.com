@@ -3,7 +3,7 @@ title: Aspose.Svg.Collections
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Collections namespace consists of classes to represent store and manipulate nodes and elements
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.svg.collections/
 ---
 The **Aspose.Svg.Collections** namespace consists of classes to represent, store and manipulate nodes and elements.
