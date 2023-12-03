@@ -3,7 +3,7 @@ title: DocumentType Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.DocumentType class. The DocumentType provides an interface to the list of entities that are defined for the document
 type: docs
-weight: 1550
+weight: 3520
 url: /net/aspose.svg.dom/documenttype/
 ---
 ## DocumentType class

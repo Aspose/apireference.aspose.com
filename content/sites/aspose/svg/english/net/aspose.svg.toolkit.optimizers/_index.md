@@ -3,7 +3,7 @@ title: Aspose.Svg.Toolkit.Optimizers
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Toolkit.Optimizers namespace contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes merging groups and reducing the size of path segments
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.svg.toolkit.optimizers/
 ---
 The **Aspose.Svg.Toolkit.Optimizers** namespace contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes, merging groups, and reducing the size of path segments.

@@ -3,7 +3,7 @@ title: SVGListBaseT Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Collections.SVGListBase1T class. This interface defines a base list of all SVG lists
 type: docs
-weight: 4130
+weight: 6100
 url: /net/aspose.svg.collections/svglistbase-1/
 ---
 ## SVGListBase&lt;T&gt; class

@@ -3,7 +3,7 @@ title: ErrorEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.ErrorEvent class. The ErrorEvent provides contextual information about an errors that occurred during runtime
 type: docs
-weight: 2000
+weight: 3970
 url: /net/aspose.svg.dom.events/errorevent/
 ---
 ## ErrorEvent class

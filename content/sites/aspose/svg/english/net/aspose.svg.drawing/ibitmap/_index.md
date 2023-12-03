@@ -3,7 +3,7 @@ title: IBitmap Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IBitmap interface. Represents a bitmap image
 type: docs
-weight: 120
+weight: 2090
 url: /net/aspose.svg.drawing/ibitmap/
 ---
 ## IBitmap interface

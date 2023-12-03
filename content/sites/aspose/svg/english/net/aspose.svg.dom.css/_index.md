@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom.Css
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom.Css namespace is for all CSS related manipulations. It concentrates around CSS property name - value pairs specified by CSS official documents
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.svg.dom.css/
 ---
 The **Aspose.Svg.Dom.Css** namespace is for all CSS related manipulations. It concentrates around CSS property name - value pairs specified by CSS official documents.

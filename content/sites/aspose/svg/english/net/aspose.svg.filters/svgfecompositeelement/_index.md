@@ -3,7 +3,7 @@ title: SVGFECompositeElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Filters.SVGFECompositeElement class. The SVGFECompositeElement interface corresponds to the feComposite element
 type: docs
-weight: 3620
+weight: 5590
 url: /net/aspose.svg.filters/svgfecompositeelement/
 ---
 ## SVGFECompositeElement class

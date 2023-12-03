@@ -3,7 +3,7 @@ title: ProtocolMessageFilter Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter class. Represents implementation of message filter by the resource protocol
 type: docs
-weight: 1010
+weight: 2980
 url: /net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class

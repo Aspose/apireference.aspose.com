@@ -3,7 +3,7 @@ title: ProcessingInstruction Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.ProcessingInstruction class. The ProcessingInstruction represents a processing instruction used in XML as a way to keep processor-specific information in the text of the document
 type: docs
-weight: 1720
+weight: 3690
 url: /net/aspose.svg.dom/processinginstruction/
 ---
 ## ProcessingInstruction class

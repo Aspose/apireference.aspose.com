@@ -3,7 +3,7 @@ title: Aspose.Svg.Window
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Window namespace is related for window object which represents a window containing a DOM document. It includes classes and interfaces related to active document address and browsing history
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.svg.window/
 ---
 The **Aspose.Svg.Window** namespace is related for window object which represents a window containing a DOM document. It includes classes and interfaces related to active document address and browsing history.

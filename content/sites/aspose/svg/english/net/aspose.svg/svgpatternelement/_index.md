@@ -3,7 +3,7 @@ title: SVGPatternElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGPatternElement class. The SVGPatternElement interface corresponds to the pattern element
 type: docs
-weight: 3080
+weight: 5050
 url: /net/aspose.svg/svgpatternelement/
 ---
 ## SVGPatternElement class

@@ -3,7 +3,7 @@ title: IMatrix Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IMatrix interface. Represents a matrix used for transformations
 type: docs
-weight: 190
+weight: 2160
 url: /net/aspose.svg.drawing/imatrix/
 ---
 ## IMatrix interface
