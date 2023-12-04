@@ -3,7 +3,7 @@ title: BaseRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the image recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 130
+weight: 120
 url: /net/aspose.ocr/baserecognitionsettings/
 ---
 ## BaseRecognitionSettings class
@@ -18,8 +18,7 @@ public class BaseRecognitionSettings
 
 | Name | Description |
 | --- | --- |
-| [BaseRecognitionSettings](baserecognitionsettings#constructor_1)(bool) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
-| [BaseRecognitionSettings](baserecognitionsettings#constructor)(Language, bool, float, int) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
+| [BaseRecognitionSettings](baserecognitionsettings)(Language) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
 
 ## Properties
 

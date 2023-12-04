@@ -6,13 +6,13 @@ type: docs
 weight: 70
 url: /net/aspose.ocr/asposeocr/imagehastext/
 ---
-## ImageHasText(string, string, RecognitionSettings, bool) {#imagehastext}
+## ImageHasText(string, string, RecognitionSettings, bool, bool) {#imagehastext}
 
 Check if the image contains the provided text fragment.
 
 ```csharp
 public bool ImageHasText(string fullPath, string text, RecognitionSettings settings = null, 
-    bool ignoreCase = true)
+    bool ignoreCase = true, bool autoSkew = true)
 ```
 
 | Parameter | Type | Description |
@@ -21,6 +21,7 @@ public bool ImageHasText(string fullPath, string text, RecognitionSettings setti
 | text | String | Text fragment for searching on the image. |
 | settings | RecognitionSettings | Recognition settings. |
 | ignoreCase | Boolean | True - means a case-insensitive search. |
+| autoSkew | Boolean | Enables the automatic image skew correction. |
 
 ### Return Value
 
@@ -39,12 +40,13 @@ Recognizes image with the ability to specify [`RecognitionSettings`](../../recog
 
 ---
 
-## ImageHasText(string, Regex, RecognitionSettings) {#imagehastext_1}
+## ImageHasText(string, Regex, RecognitionSettings, bool) {#imagehastext_1}
 
 Check if the image text matches the provided regular expression.
 
 ```csharp
-public bool ImageHasText(string fullPath, Regex regex, RecognitionSettings settings = null)
+public bool ImageHasText(string fullPath, Regex regex, RecognitionSettings settings = null, 
+    bool autoSkew = true)
 ```
 
 | Parameter | Type | Description |
@@ -52,6 +54,7 @@ public bool ImageHasText(string fullPath, Regex regex, RecognitionSettings setti
 | fullPath | String | Path to the image. |
 | regex | Regex | System.Text.RegularExpressions object with the provided pattern and options. |
 | settings | RecognitionSettings | Recognition settings. |
+| autoSkew | Boolean | Enables the automatic image skew correction. |
 
 ### Return Value
 

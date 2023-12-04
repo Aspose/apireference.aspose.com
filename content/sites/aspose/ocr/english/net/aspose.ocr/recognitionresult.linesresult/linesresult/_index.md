@@ -1,14 +1,14 @@
 ---
 title: LinesResult
 second_title: Aspose.OCR for .NET API Reference
-description: The default constructor.
+description: Constructor for LinesResult object.
 type: docs
 weight: 10
 url: /net/aspose.ocr/recognitionresult.linesresult/linesresult/
 ---
 ## RecognitionResult.LinesResult constructor
 
-The default constructor.
+Constructor for LinesResult object.
 
 ```csharp
 public LinesResult()

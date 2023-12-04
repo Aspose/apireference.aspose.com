@@ -6,45 +6,21 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/baserecognitionsettings/baserecognitionsettings/
 ---
-## BaseRecognitionSettings(Language, bool, float, int) {#constructor}
+## BaseRecognitionSettings constructor
 
 Initializes a new instance of the [`RecognitionSettings`](../../recognitionsettings) class with full set of properties.
 
 ```csharp
-public BaseRecognitionSettings(Language language = Language.None, bool autoSkew = true, 
-    float skewAngle = 0, int threshold = 0)
+public BaseRecognitionSettings(Language language = Language.None)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | language | Language | Language used for OCR. |
-| autoSkew | Boolean | Enable automatic image skew correction. |
-| skewAngle | Single | Set angle for image rotation. |
-| threshold | Int32 | Custom image binarization threshold |
 
 ### See Also
 
 * enum [Language](../../language)
-* class [BaseRecognitionSettings](../../baserecognitionsettings)
-* namespace [Aspose.OCR](../../baserecognitionsettings)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## BaseRecognitionSettings(bool) {#constructor_1}
-
-Initializes a new instance of the [`RecognitionSettings`](../../recognitionsettings) class with full set of properties.
-
-```csharp
-public BaseRecognitionSettings(bool autoSkew)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| autoSkew | Boolean | Enable automatic image skew correction. |
-
-### See Also
-
 * class [BaseRecognitionSettings](../../baserecognitionsettings)
 * namespace [Aspose.OCR](../../baserecognitionsettings)
 * assembly [Aspose.OCR](../../../)

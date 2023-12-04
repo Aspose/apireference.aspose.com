@@ -38,6 +38,7 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | --- | --- |
 | [AreasType](./areastype) | Determines the type of regions detected by the model. |
 | [CharactersAllowedType](./charactersallowedtype) | Determines the type of characters allowed for recognition result. |
+| [Country](./country) | For better passport recognition point the passport country. |
 | [DetectAreasMode](./detectareasmode) | Determines the type of neural network used for areas detection. |
 | [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
 | [Language](./language) | Languages used for OCR. ISO 639-2 Code |
