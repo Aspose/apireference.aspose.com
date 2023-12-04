@@ -19,8 +19,7 @@ public class RecognitionSettings : BaseRecognitionSettings
 | Name | Description |
 | --- | --- |
 | [RecognitionSettings](recognitionsettings#constructor)() | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with auto skew = true. |
-| [RecognitionSettings](recognitionsettings#constructor_2)(bool) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with auto skew. |
-| [RecognitionSettings](recognitionsettings#constructor_1)(Language, List&lt;Rectangle&gt;, bool, float, bool, int) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
+| [RecognitionSettings](recognitionsettings#constructor_1)(Language, List&lt;Rectangle&gt;, bool) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
 
 ## Properties
 
@@ -33,7 +32,7 @@ public class RecognitionSettings : BaseRecognitionSettings
 | [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/baserecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
 | [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
-| [RecognitionAreas](../../aspose.ocr/recognitionsettings/recognitionareas) { get; set; } | Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set !:AutoSkew properties will be ignored.  Disables AutoSkew. |
+| [RecognitionAreas](../../aspose.ocr/recognitionsettings/recognitionareas) { get; set; } | Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition.  Disables AutoSkew. |
 | [RecognizeSingleLine](../../aspose.ocr/recognitionsettings/recognizesingleline) { get; set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { get; set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 | [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |

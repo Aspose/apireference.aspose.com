@@ -6,13 +6,42 @@ type: docs
 weight: 170
 url: /net/aspose.ocr/asposeocr/recognizereceipt/
 ---
-## AsposeOcr.RecognizeReceipt method
+## RecognizeReceipt(OcrInput) {#recognizereceipt}
 
 Recognizes text on receipts.
 
 ```csharp
-public List<RecognitionResult> RecognizeReceipt(OcrInput input, 
-    ReceiptRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizeReceipt(OcrInput input)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+
+### Return Value
+
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
+
+### Remarks
+
+Recognizes invoice with the ability to specify [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## RecognizeReceipt(OcrInput, ReceiptRecognitionSettings) {#recognizereceipt_1}
+
+Recognizes text on receipts.
+
+```csharp
+public List<RecognitionResult> RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |

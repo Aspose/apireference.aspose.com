@@ -3,7 +3,7 @@ title: RecognitionResult.LinesResult
 second_title: Aspose.OCR for .NET API Reference
 description: Recognized text from row with row coordinates.
 type: docs
-weight: 110
+weight: 360
 url: /net/aspose.ocr/recognitionresult.linesresult/
 ---
 ## RecognitionResult.LinesResult class
@@ -18,7 +18,7 @@ public class LinesResult
 
 | Name | Description |
 | --- | --- |
-| [LinesResult](linesresult)() | The default constructor. |
+| [LinesResult](linesresult)() | Constructor for LinesResult object. |
 
 ## Properties
 

@@ -12,7 +12,7 @@ Compare the texts on the two images and return a number representing how similar
 
 ```csharp
 public float ImageTextDiff(string fullPath1, string fullPath2, RecognitionSettings settings = null, 
-    bool ignoreCase = true)
+    bool ignoreCase = true, bool autoSkew = true)
 ```
 
 | Parameter | Type | Description |
@@ -21,6 +21,7 @@ public float ImageTextDiff(string fullPath1, string fullPath2, RecognitionSettin
 | fullPath2 | String | Path to the second image. |
 | settings | RecognitionSettings | Recognition settings. |
 | ignoreCase | Boolean | True - means a case-insensitive search. |
+| autoSkew | Boolean | Enables the automatic image skew correction. |
 
 ### Return Value
 

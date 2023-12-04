@@ -6,13 +6,39 @@ type: docs
 weight: 110
 url: /net/aspose.ocr/asposeocr/recognizecharacters/
 ---
-## AsposeOcr.RecognizeCharacters method
+## RecognizeCharacters(OcrInput) {#recognizecharacters}
+
+Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+
+```csharp
+public List<CharacterRecognitionResult> RecognizeCharacters(OcrInput images)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+
+### Return Value
+
+List of [`CharacterRecognitionResult`](../../characterrecognitionresult) with detected symbols data.
+
+### See Also
+
+* class [CharacterRecognitionResult](../../characterrecognitionresult)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## RecognizeCharacters(OcrInput, DetectAreasMode, Language) {#recognizecharacters_1}
 
 Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
 
 ```csharp
 public List<CharacterRecognitionResult> RecognizeCharacters(OcrInput images, 
-    DetectAreasMode detectAreasMode = DetectAreasMode.DOCUMENT, Language language = Language.None)
+    DetectAreasMode detectAreasMode, Language language = Language.None)
 ```
 
 | Parameter | Type | Description |
