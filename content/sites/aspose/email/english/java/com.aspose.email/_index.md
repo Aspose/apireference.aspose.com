@@ -524,6 +524,10 @@ Contains Java API classes that enables to read and write Microsoft Outlook® docu
 | [MessageTrackingReport](../com.aspose.email/messagetrackingreport) | Represents the information to be included in the report. |
 | [MessageTrackingReportInfo](../com.aspose.email/messagetrackingreportinfo) | Represents an information about the message that was found by using the FindMessageTrackingReport |
 | [MessageTrackingReportTemplate](../com.aspose.email/messagetrackingreporttemplate) | Enumerates the types of report to display. |
+| [MessageValidationError](../com.aspose.email/messagevalidationerror) | Represents the message validation error information. |
+| [MessageValidationErrorType](../com.aspose.email/messagevalidationerrortype) | Enumerates the types of the message validation errors. |
+| [MessageValidationResult](../com.aspose.email/messagevalidationresult) | Represents the result of message validation. |
+| [MessageValidator](../com.aspose.email/messagevalidator) | The message validator. |
 | [Metered](../com.aspose.email/metered) | Provides methods to set metered key. |
 | [MhtFormatOptions](../com.aspose.email/mhtformatoptions) | Enumerates the Mht format options |
 | [MhtSaveOptions](../com.aspose.email/mhtsaveoptions) | Allows to specify additional options when saving MailMessage to Mhtml format. |
@@ -533,6 +537,8 @@ Contains Java API classes that enables to read and write Microsoft Outlook® docu
 | [MhtmlLoadOptions](../com.aspose.email/mhtmlloadoptions) | Allows to specify additional options when loading MailMessage from Mhtml format. |
 | [MimeException](../com.aspose.email/mimeexception) | Provides information about MIME errors |
 | [MimeHeader](../com.aspose.email/mimeheader) | Represents the mime header defined in RFC 2822. |
+| [MimeItemCopyEventArgs](../com.aspose.email/mimeitemcopyeventargs) | Represents event arguments related to a copying of a MailMessage object from one storage to another, either before the copy begins or after it is complete. |
+| [MimeItemCopyEventHandler](../com.aspose.email/mimeitemcopyeventhandler) | Represents a delegate for handling events related to the copying of Mime items, typically used in scenarios where a MailMessage object is copied from one storage to another. |
 | [ModificationSequenceField](../com.aspose.email/modificationsequencefield) | Defines set of values for selected field to search. |
 | [MonthlyRecurrencePattern](../com.aspose.email/monthlyrecurrencepattern) | Represents a recurrence pattern of monthly recurrence type. |
 | [MsgLoadOptions](../com.aspose.email/msgloadoptions) | Allows to specify additional options when loading MailMessage from Msg format. |
@@ -541,6 +547,8 @@ Contains Java API classes that enables to read and write Microsoft Outlook® docu
 | [NameValuePair](../com.aspose.email/namevaluepair) | An extended property. |
 | [NamedPropertyKind](../com.aspose.email/namedpropertykind) | Identifies [MessageObjectProperty](../com.aspose.email/messageobjectproperty) kind. |
 | [NetworkException](../com.aspose.email/networkexception) | Thrown if there is a network connection failure. |
+| [NewStorageEventArgs](../com.aspose.email/newstorageeventargs) | Represents arguments used in events that are raised after a new storage file is created or after it is processed. |
+| [NewStorageEventHandler](../com.aspose.email/newstorageeventhandler) | Represents a delegate for handling events that occur after a new storage file is created or processed. |
 | [NoteColor](../com.aspose.email/notecolor) | Specifies the suggested background color of the Note object |
 | [NoteSaveFormat](../com.aspose.email/notesaveformat) | Enumerates NoteSaveFormat |
 | [Notebook](../com.aspose.email/notebook) | https://docs.microsoft.com/en-us/graph/api/resources/notebook?view=graph-rest-1.0 A OneNote notebook. |
@@ -649,6 +657,7 @@ Contains Java API classes that enables to read and write Microsoft Outlook® docu
 | [SequenceSetField](../com.aspose.email/sequencesetfield) | Defines set of values for selected field to search. |
 | [ServerNotificationEventArgs](../com.aspose.email/servernotificationeventargs) | Contains event data for server notification. |
 | [ServicePointManager](../com.aspose.email/servicepointmanager) | Manages the collection of ServicePoint objects. |
+| [SignatureOptions](../com.aspose.email/signatureoptions) | This class allow the user to specify additional options when sign a message. |
 | [SimpleFormatter](../com.aspose.email/simpleformatter) | Represents the default implementation of IFormatter interface. |
 | [SimpleSeqSet](../com.aspose.email/simpleseqset) | Simple container for value to search. |
 | [SizeRange](../com.aspose.email/sizerange) | Represents the size range |

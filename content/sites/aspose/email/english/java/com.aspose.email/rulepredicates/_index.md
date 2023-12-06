@@ -3,7 +3,7 @@ title: RulePredicates
 second_title: Aspose.Email for Java API Reference
 description: Represents rule predicate
 type: docs
-weight: 616
+weight: 624
 url: /java/com.aspose.email/rulepredicates/
 ---
 
