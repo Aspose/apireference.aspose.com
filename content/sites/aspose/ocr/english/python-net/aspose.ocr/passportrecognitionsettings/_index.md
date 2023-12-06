@@ -27,6 +27,7 @@ The PassportRecognitionSettings type exposes the following members:
 |ignored_characters|Sets blacklist for recognition symbols.|
 |preprocessing_filters|Allows to prepare the image for OCR by adjusting pre-processing methods.|
 |allowed_characters|Allowed characters set. Determines the type of characters allowed for recognition result.|
+|country|Set the template for passport recognition and to extract the keywords.|
 
 ### See Also
 
