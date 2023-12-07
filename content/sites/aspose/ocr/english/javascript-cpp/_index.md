@@ -30,6 +30,7 @@ is_root: true
     * [~Rect](#module_Module..Rect) : <code>object</code>
         * [new Rect()](#new_module_Module..Rect_new)
     * [~VectorRect](#module_Module..VectorRect) : <code>Array.&lt;Rect&gt;</code>
+    * [~WasmAsposeOCRInputs](#module_Module..WasmAsposeOCRInputs) : <code>Array.&lt;WasmAsposeOCRInput&gt;</code>
     * [~WasmAsposeOCRRecognitionSettings](#module_Module..WasmAsposeOCRRecognitionSettings) : <code>object</code>
         * [new WasmAsposeOCRRecognitionSettings()](#new_module_Module..WasmAsposeOCRRecognitionSettings_new)
     * [~WasmAsposeOCRInput](#module_Module..WasmAsposeOCRInput) : <code>object</code>
@@ -87,7 +88,7 @@ xml: 2
 ### Module~CharactersAllowedType : <code>enum</code>
 (ENUM) Determines the type of characters allowed for recognition result.
 Used in the RecognitionSettings to indicate which characters will be recognized.
-ALL: 0, LATIN_ALPHABET: 1, DIGITS
+ALL: 0, LATIN_ALPHABET: 1, DIGITS: 2
 
 **Kind**: inner enum of [<code>Module</code>](#module_Module)  
 **Properties**
@@ -96,7 +97,7 @@ ALL: 0, LATIN_ALPHABET: 1, DIGITS
 | --- | --- | --- |
 | ALL | <code>int</code> | <code>0</code> | 
 | LATIN_ALPHABET | <code>int</code> | <code>1</code> | 
-| DIGITS | <code>int</code> | <code>DIGITS</code> | 
+| DIGITS | <code>int</code> | <code>2</code> | 
 
 <a name="module_Module..DetectAreasMode"></a>
 
@@ -127,8 +128,8 @@ Used in the RecognitionSettings to specify which type of image you want to recog
 | Name | Type | Default |
 | --- | --- | --- |
 | UNKNOWN | <code>int</code> | <code>0</code> | 
-| UNKNOWN | <code>int</code> | <code>1</code> | 
-| UNKNOWN | <code>int</code> | <code>2</code> | 
+| GRAYSCALE | <code>int</code> | <code>1</code> | 
+| RGB | <code>int</code> | <code>2</code> | 
 
 <a name="module_Module..Language"></a>
 
@@ -244,6 +245,10 @@ Empty constructor of Rect.
 <a name="module_Module..VectorRect"></a>
 
 ### Module~VectorRect : <code>Array.&lt;Rect&gt;</code>
+**Kind**: inner typedef of [<code>Module</code>](#module_Module)  
+<a name="module_Module..WasmAsposeOCRInputs"></a>
+
+### Module~WasmAsposeOCRInputs : <code>Array.&lt;WasmAsposeOCRInput&gt;</code>
 **Kind**: inner typedef of [<code>Module</code>](#module_Module)  
 <a name="module_Module..WasmAsposeOCRRecognitionSettings"></a>
 
