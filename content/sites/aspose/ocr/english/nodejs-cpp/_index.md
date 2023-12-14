@@ -1,7 +1,7 @@
 ---
-title: Aspose.OCR for JavaScript via C++
+title: Aspose.OCR for Node.js via C++
 weight: 12
-url: /javascript-cpp/
+url: /nodejs-cpp/
 keywords: 
 description: 
 is_root: true
@@ -329,5 +329,4 @@ Empty constructor of WasmAsposeOCRInput.
 | Name | Type |
 | --- | --- |
 | recognized_pages | <code>Array.&lt;WasmAsposeOCRRecognizedPage&gt;</code> | 
-
 

@@ -70,6 +70,21 @@ Aspose.OCR for JavaScript via C++ is a WASM library that allows developers to ad
 These are links to some useful resources:
 - [Aspose.OCR for JavaScript via C++ API Reference](/ocr/javascript-cpp/)
 
+
+## Aspose.OCR for Node.js via C++
+
+{{% alert color="primary" %}}
+
+![Aspose.OCR for Node.js via C++ Product Logo](home_6.png)
+
+
+Aspose.OCR for Node.js via C++ is a WASM library that allows developers to add OCR functionality to their applications without requiring any additional tool or API. Aspose.OCR for Node.js via C++ allows extracting text from images having different fonts and styles - saving the time and effort involved in developing an OCR solution from scratch.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+- [Aspose.OCR for Node.js via C++ API Reference](/ocr/nodejs-cpp/)
+
 ## Aspose.OCR for Python via .NET
 
 {{% alert color="primary" %}}
