@@ -10,9 +10,9 @@ url: /java/com.aspose.tex/inputzipdirectory/
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.tex.IInputWorkingDirectory](../../com.aspose.tex/iinputworkingdirectory)
+[com.aspose.tex.IInputWorkingDirectory](../../com.aspose.tex/iinputworkingdirectory), [com.aspose.tex.IFileCollector](../../com.aspose.tex/ifilecollector)
 ```
-public class InputZipDirectory implements IInputWorkingDirectory
+public class InputZipDirectory implements IInputWorkingDirectory, IFileCollector
 ```
 
 Implements the method for getting a file stream to write to when working directory is a ZIP archive.
@@ -26,6 +26,8 @@ Implements the method for getting a file stream to write to when working directo
 | Method | Description |
 | --- | --- |
 | [getFile(String fileName, String[] fullName, boolean searchSubdirectories)](#getFile-java.lang.String-java.lang.String---boolean-) | Returns the stream to read from. |
+| [getFileNamesByExtension(String extension)](#getFileNamesByExtension-java.lang.String-) | Returns the array of file names by an extension. |
+| [getFileNamesByExtension(String extension, String path)](#getFileNamesByExtension-java.lang.String-java.lang.String-) | Returns the array of file names by an extension. |
 | [close()](#close--) | Disposes the instance. |
 ### InputZipDirectory(InputStream zipStream, String basePath) {#InputZipDirectory-java.io.InputStream-java.lang.String-}
 ```
@@ -58,6 +60,37 @@ Returns the stream to read from.
 
 **Returns:**
 [TeXInputStream](../../com.aspose.tex/texinputstream) - The stream. The full file name via  fullName  parameter.
+### getFileNamesByExtension(String extension) {#getFileNamesByExtension-java.lang.String-}
+```
+public String[] getFileNamesByExtension(String extension)
+```
+
+
+Returns the array of file names by an extension.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| extension | java.lang.String | The file extension. |
+
+**Returns:**
+java.lang.String[] - The array of file names.
+### getFileNamesByExtension(String extension, String path) {#getFileNamesByExtension-java.lang.String-java.lang.String-}
+```
+public String[] getFileNamesByExtension(String extension, String path)
+```
+
+
+Returns the array of file names by an extension.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| extension | java.lang.String | The file extension. |
+| path | java.lang.String | The path inside the directory. |
+
+**Returns:**
+java.lang.String[] - The array of file names.
 ### close() {#close--}
 ```
 public void close()

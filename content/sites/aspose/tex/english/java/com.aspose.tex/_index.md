@@ -51,6 +51,7 @@ The **com.aspose.tex** is the root package for all classes that deal with TeX fi
 
 | Interface | Description |
 | --- | --- |
+| [IFileCollector](../com.aspose.tex/ifilecollector) | Defines methods for selecting collections of files. |
 | [IFileTerminal](../com.aspose.tex/ifileterminal) | Interface of terminals which actually are files. |
 | [IInputTerminal](../com.aspose.tex/iinputterminal) | Interface for abstract input terminal. |
 | [IInputWorkingDirectory](../com.aspose.tex/iinputworkingdirectory) | Interface of generalized input working directory. |

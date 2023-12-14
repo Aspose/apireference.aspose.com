@@ -35,6 +35,8 @@ Common options for rendering a LaTeX source code fragment.
 | [getErrorReport()](#getErrorReport--) | Gets the error report. |
 | [getRequiredInputDirectory()](#getRequiredInputDirectory--) | Gets the directory for the required input, e.g., packages that are beyond Aspose.TeX's LaTeX support. |
 | [setRequiredInputDirectory(IInputWorkingDirectory value)](#setRequiredInputDirectory-com.aspose.tex.IInputWorkingDirectory-) | Gets the directory for the required input, e.g., packages that are beyond Aspose.TeX's LaTeX support. |
+| [getMargin()](#getMargin--) | Gets the margin width. |
+| [setMargin(float value)](#setMargin-float-) | Sets the margin width. |
 ### FigureRendererOptions() {#FigureRendererOptions--}
 ```
 public FigureRendererOptions()
@@ -190,4 +192,27 @@ Gets the directory for the required input, e.g., packages that are beyond Aspose
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [IInputWorkingDirectory](../../com.aspose.tex/iinputworkingdirectory) | The directory for the required input. |
+
+### getMargin() {#getMargin--}
+```
+public float getMargin()
+```
+
+
+Gets the margin width.
+
+**Returns:**
+float - The margin width.
+### setMargin(float value) {#setMargin-float-}
+```
+public void setMargin(float value)
+```
+
+
+Sets the margin width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | The margin width. |
 
