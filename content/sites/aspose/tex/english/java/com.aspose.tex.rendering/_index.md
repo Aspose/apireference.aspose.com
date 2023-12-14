@@ -48,3 +48,4 @@ The **com.aspose.tex.rendering** package provides classes of available devices a
 | [PdfImageCompression](../com.aspose.tex.rendering/pdfimagecompression) | Specifies the type of compression applied to images in the PDF file. |
 | [PdfTextCompression](../com.aspose.tex.rendering/pdftextcompression) | Specifies a type of compression applied to all contents in the PDF file except images. |
 | [SmoothingMode](../com.aspose.tex.rendering/smoothingmode) | Specifies whether smoothing (antialiasing) is applied to lines and curves and the edges of filled areas. |
+| [TiffCompression](../com.aspose.tex.rendering/tiffcompression) | Enumerates TIFF compression schemes. |
