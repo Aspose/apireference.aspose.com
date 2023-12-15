@@ -3,7 +3,7 @@ title: FigureRendererOptions.RequiredInputDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: FigureRendererOptions property. Gets/sets the directory for the required input e.g. packages that are beyond Aspose.TeXs LaTeX support
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.tex.features/figurerendereroptions/requiredinputdirectory/
 ---
 ## FigureRendererOptions.RequiredInputDirectory property

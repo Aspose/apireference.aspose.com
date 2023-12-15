@@ -3,7 +3,7 @@ title: Interface IDataSource
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.IDataSource interface. The general data source interface
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.tex.plugins/idatasource/
 ---
 ## IDataSource interface

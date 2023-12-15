@@ -3,7 +3,7 @@ title: Class SvgFigureRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.SvgFigureRendererOptions class. The FigureRenderer plugins options to render a LaTeX figure in SVG
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.tex.plugins/svgfigurerendereroptions/
 ---
 ## SvgFigureRendererOptions class
@@ -28,6 +28,7 @@ public class SvgFigureRendererOptions : FigureRendererOptions
 | [ErrorReport](../../aspose.tex.features/figurerendereroptions/errorreport/) { get; } | Gets the error report. |
 | [InputDataCollection](../../aspose.tex.plugins/figurerendereroptions/inputdatacollection/) { get; } | Gets the collection of data sources. |
 | [LogStream](../../aspose.tex.features/figurerendereroptions/logstream/) { get; set; } | Gets/set the stream to write log output to. |
+| [Margin](../../aspose.tex.features/figurerendereroptions/margin/) { get; set; } | Gets/sets the margin width. |
 | override [OperationName](../../aspose.tex.plugins/svgfigurerendereroptions/operationname/) { get; } | Returns operation name. |
 | [OutputDataCollection](../../aspose.tex.plugins/figurerendereroptions/outputdatacollection/) { get; } | Gets collection of added targets for saving operation results. |
 | [Preamble](../../aspose.tex.features/figurerendereroptions/preamble/) { get; set; } | Gets/sets LaTeX document preamble. |

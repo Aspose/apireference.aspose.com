@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Pdf.PdfDevice class. Implements the interface for outputting text and graphic content to PDF document
 type: docs
-weight: 600
+weight: 620
 url: /net/aspose.tex.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

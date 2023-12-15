@@ -3,7 +3,7 @@ title: Class FigureRenderer
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.FigureRenderer class. FigureRenderer plugin class.  The example shows how to render a LaTeX fragment in PNG
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.tex.plugins/figurerenderer/
 ---
 ## FigureRenderer class
