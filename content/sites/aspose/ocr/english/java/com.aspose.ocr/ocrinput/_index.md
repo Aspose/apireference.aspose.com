@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for Java API Reference
 description: Main class for recognize text from images.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.ocr/ocrinput/
 ---
 

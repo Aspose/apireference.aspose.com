@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for Java API Reference
 description: The results of the image recognition.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.ocr/recognitionresult/
 ---
 
