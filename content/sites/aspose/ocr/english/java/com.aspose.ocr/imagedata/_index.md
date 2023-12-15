@@ -3,7 +3,7 @@ title: ImageData
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 16
+weight: 15
 url: /java/com.aspose.ocr/imagedata/
 ---
 

@@ -16,7 +16,6 @@ url: /java/com.aspose.ocr/
 | [CarPlateRecognitionSettings](../com.aspose.ocr/carplaterecognitionsettings) | Settings for the car number recognition Contains elements that allow customizing the recognition process |
 | [Character](../com.aspose.ocr/character) | Data about detected character. |
 | [CharacterRecognitionResult](../com.aspose.ocr/characterrecognitionresult) | Pages with detected characters data. |
-| [DocumentRecognitionSettings](../com.aspose.ocr/documentrecognitionsettings) | Settings for the pdf recognition. |
 | [IDCardRecognitionSettings](../com.aspose.ocr/idcardrecognitionsettings) | Settings for the ID Card recognition Contains elements that allow customizing the recognition process |
 | [ImageData](../com.aspose.ocr/imagedata) |  |
 | [ImageProcessing](../com.aspose.ocr/imageprocessing) | Helper class for Aspose OCR library. |

@@ -19,14 +19,12 @@ Settings for the car number recognition Contains elements that allow customizing
 | Constructor | Description |
 | --- | --- |
 | [CarPlateRecognitionSettings()](#CarPlateRecognitionSettings--) | Default constructor: set autoSkew true. |
-| [CarPlateRecognitionSettings(DocumentRecognitionSettings docSettings)](#CarPlateRecognitionSettings-com.aspose.ocr.DocumentRecognitionSettings-) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [setLanguage(Language language)](#setLanguage-com.aspose.ocr.Language-) |  |
 | [setIgnoredCharacters(String characters)](#setIgnoredCharacters-java.lang.String-) | Sets blacklist for recognition symbols. |
-| [setPreprocessingFilters(PreprocessingFilter preprocessingFilters)](#setPreprocessingFilters-com.aspose.ocr.PreprocessingFilter-) | Allows to prepare the image for OCR by adjusting pre-processing methods. |
 | [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType-) | Allowed characters set. |
 | [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean-) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 ### CarPlateRecognitionSettings() {#CarPlateRecognitionSettings--}
@@ -36,17 +34,6 @@ public CarPlateRecognitionSettings()
 
 
 Default constructor: set autoSkew true.
-
-### CarPlateRecognitionSettings(DocumentRecognitionSettings docSettings) {#CarPlateRecognitionSettings-com.aspose.ocr.DocumentRecognitionSettings-}
-```
-public CarPlateRecognitionSettings(DocumentRecognitionSettings docSettings)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| docSettings | [DocumentRecognitionSettings](../../com.aspose.ocr/documentrecognitionsettings) |  |
 
 ### setLanguage(Language language) {#setLanguage-com.aspose.ocr.Language-}
 ```
@@ -73,19 +60,6 @@ Sets blacklist for recognition symbols.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | characters | java.lang.String | Characters excluded from recognition. |
-
-### setPreprocessingFilters(PreprocessingFilter preprocessingFilters) {#setPreprocessingFilters-com.aspose.ocr.PreprocessingFilter-}
-```
-public void setPreprocessingFilters(PreprocessingFilter preprocessingFilters)
-```
-
-
-Allows to prepare the image for OCR by adjusting pre-processing methods.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| preprocessingFilters | [PreprocessingFilter](../../com.aspose.ocr/preprocessingfilter) | contains user preprocessing operations or null. |
 
 ### setAllowedCharacters(CharactersAllowedType allowedCharacters) {#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType-}
 ```

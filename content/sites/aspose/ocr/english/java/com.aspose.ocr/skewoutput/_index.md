@@ -3,7 +3,7 @@ title: SkewOutput
 second_title: Aspose.OCR for Java API Reference
 description: Data about skew angle in degrees and name of the file.
 type: docs
-weight: 28
+weight: 27
 url: /java/com.aspose.ocr/skewoutput/
 ---
 
