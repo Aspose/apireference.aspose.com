@@ -3,7 +3,7 @@ title: FigureRendererOptions.ShowTerminal
 second_title: Aspose.TeX for .NET API Reference
 description: FigureRendererOptions property. The flag that controls terminal output. If
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.tex.features/figurerendereroptions/showterminal/
 ---
 ## FigureRendererOptions.ShowTerminal property

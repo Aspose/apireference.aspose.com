@@ -3,7 +3,7 @@ title: Class MathRenderer
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.MathRenderer class. MathRenderer plugin class.  The example shows how to render a LaTeX formula in PNG
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.tex.plugins/mathrenderer/
 ---
 ## MathRenderer class

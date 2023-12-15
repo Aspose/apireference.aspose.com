@@ -25,6 +25,7 @@ The **Aspose.TeX.IO** namespace provides classes for I/O that TeX engine perform
 
 | Interface | Description |
 | --- | --- |
+| [IFileCollector](./ifilecollector/) | Defines methods for selecting collections of files. |
 | [IFileTerminal](./ifileterminal/) | Interface of terminals which actually are files. |
 | [IInputTerminal](./iinputterminal/) | Interface for abstract input terminal. |
 | [IInputWorkingDirectory](./iinputworkingdirectory/) | Interface of generalized input working directory. |

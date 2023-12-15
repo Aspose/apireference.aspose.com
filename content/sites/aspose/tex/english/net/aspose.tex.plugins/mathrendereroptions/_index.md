@@ -3,7 +3,7 @@ title: Class MathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.MathRendererOptions class. The options for the MathRenderer plugin
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.tex.plugins/mathrendereroptions/
 ---
 ## MathRendererOptions class
@@ -22,6 +22,7 @@ public abstract class MathRendererOptions : MathRendererOptions, IPluginOptions
 | [ErrorReport](../../aspose.tex.features/figurerendereroptions/errorreport/) { get; } | Gets the error report. |
 | [InputDataCollection](../../aspose.tex.plugins/mathrendereroptions/inputdatacollection/) { get; } | Gets the collection of data sources. |
 | [LogStream](../../aspose.tex.features/figurerendereroptions/logstream/) { get; set; } | Gets/set the stream to write log output to. |
+| [Margin](../../aspose.tex.features/figurerendereroptions/margin/) { get; set; } | Gets/sets the margin width. |
 | virtual [OperationName](../../aspose.tex.plugins/mathrendereroptions/operationname/) { get; } | Returns operation name. |
 | [OutputDataCollection](../../aspose.tex.plugins/mathrendereroptions/outputdatacollection/) { get; } | Gets collection of added targets for saving operation results. |
 | [Preamble](../../aspose.tex.features/figurerendereroptions/preamble/) { get; set; } | Gets/sets LaTeX document preamble. |

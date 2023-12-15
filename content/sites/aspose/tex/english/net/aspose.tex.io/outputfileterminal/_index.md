@@ -3,7 +3,7 @@ title: Class OutputFileTerminal
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.OutputFileTerminal class. Implements a terminal whose output is to be written to a file in some working directory
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.tex.io/outputfileterminal/
 ---
 ## OutputFileTerminal class

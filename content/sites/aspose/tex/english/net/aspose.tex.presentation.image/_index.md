@@ -18,5 +18,10 @@ The **Aspose.TeX.Presentation.Image** namespace provides classes for typesetting
 | [JpegSaveOptions](./jpegsaveoptions/) | Class representing options of saving to JPEG image(s). |
 | [PngSaveOptions](./pngsaveoptions/) | Class representing options of saving to PNG image(s). |
 | [TiffSaveOptions](./tiffsaveoptions/) | Class representing options of saving to TIFF image(s). |
+## Enumeration
+
+| Enumeration | Description |
+| --- | --- |
+| [TiffCompression](./tiffcompression/) | Enumerates TIFF compression schemes. |
 
 

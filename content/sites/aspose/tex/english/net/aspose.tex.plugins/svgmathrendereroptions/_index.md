@@ -3,7 +3,7 @@ title: Class SvgMathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.SvgMathRendererOptions class. The MathRenderer plugins options to render a math formula in SVG
 type: docs
-weight: 490
+weight: 500
 url: /net/aspose.tex.plugins/svgmathrendereroptions/
 ---
 ## SvgMathRendererOptions class
@@ -28,6 +28,7 @@ public class SvgMathRendererOptions : MathRendererOptions
 | [ErrorReport](../../aspose.tex.features/figurerendereroptions/errorreport/) { get; } | Gets the error report. |
 | [InputDataCollection](../../aspose.tex.plugins/mathrendereroptions/inputdatacollection/) { get; } | Gets the collection of data sources. |
 | [LogStream](../../aspose.tex.features/figurerendereroptions/logstream/) { get; set; } | Gets/set the stream to write log output to. |
+| [Margin](../../aspose.tex.features/figurerendereroptions/margin/) { get; set; } | Gets/sets the margin width. |
 | override [OperationName](../../aspose.tex.plugins/svgmathrendereroptions/operationname/) { get; } | Returns operation name. |
 | [OutputDataCollection](../../aspose.tex.plugins/mathrendereroptions/outputdatacollection/) { get; } | Gets collection of added targets for saving operation results. |
 | [Preamble](../../aspose.tex.features/figurerendereroptions/preamble/) { get; set; } | Gets/sets LaTeX document preamble. |

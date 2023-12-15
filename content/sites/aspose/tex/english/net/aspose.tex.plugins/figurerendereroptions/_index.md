@@ -3,7 +3,7 @@ title: Class FigureRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.FigureRendererOptions class. The options for the FigureRenderer plugin
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.tex.plugins/figurerendereroptions/
 ---
 ## FigureRendererOptions class
@@ -22,6 +22,7 @@ public abstract class FigureRendererOptions : FigureRendererOptions, IPluginOpti
 | [ErrorReport](../../aspose.tex.features/figurerendereroptions/errorreport/) { get; } | Gets the error report. |
 | [InputDataCollection](../../aspose.tex.plugins/figurerendereroptions/inputdatacollection/) { get; } | Gets the collection of data sources. |
 | [LogStream](../../aspose.tex.features/figurerendereroptions/logstream/) { get; set; } | Gets/set the stream to write log output to. |
+| [Margin](../../aspose.tex.features/figurerendereroptions/margin/) { get; set; } | Gets/sets the margin width. |
 | virtual [OperationName](../../aspose.tex.plugins/figurerendereroptions/operationname/) { get; } | Returns operation name. |
 | [OutputDataCollection](../../aspose.tex.plugins/figurerendereroptions/outputdatacollection/) { get; } | Gets collection of added targets for saving operation results. |
 | [Preamble](../../aspose.tex.features/figurerendereroptions/preamble/) { get; set; } | Gets/sets LaTeX document preamble. |

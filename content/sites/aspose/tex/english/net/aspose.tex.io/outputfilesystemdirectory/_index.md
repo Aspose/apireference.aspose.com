@@ -3,7 +3,7 @@ title: Class OutputFileSystemDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.OutputFileSystemDirectory class. Implements the regular file systems method for getting a file stream to write to
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.tex.io/outputfilesystemdirectory/
 ---
 ## OutputFileSystemDirectory class
@@ -26,6 +26,7 @@ public class OutputFileSystemDirectory : InputFileSystemDirectory, IOutputWorkin
 | --- | --- |
 | override [Dispose](../../aspose.tex.io/outputfilesystemdirectory/dispose/)() | Disposes the instance. |
 | [GetFile](../../aspose.tex.io/inputfilesystemdirectory/getfile/)(string, out string, bool) | Returns the stream to read from. |
+| [GetFileNamesByExtension](../../aspose.tex.io/inputfilesystemdirectory/getfilenamesbyextension/)(string, string) | Returns the array of file names by an extension. |
 | [GetOutputFile](../../aspose.tex.io/outputfilesystemdirectory/getoutputfile/)(string, out string) | Returns the stream to write to. |
 
 ### See Also

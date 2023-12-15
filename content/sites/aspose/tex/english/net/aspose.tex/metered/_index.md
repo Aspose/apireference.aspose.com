@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Metered class. Provides methods to set metered key
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.tex/metered/
 ---
 ## Metered class

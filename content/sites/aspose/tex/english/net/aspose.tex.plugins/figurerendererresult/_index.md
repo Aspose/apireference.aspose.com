@@ -3,7 +3,7 @@ title: Class FigureRendererResult
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.FigureRendererResult class. The MathRenderer plugins common result
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.tex.plugins/figurerendererresult/
 ---
 ## FigureRendererResult class

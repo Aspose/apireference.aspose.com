@@ -3,7 +3,7 @@ title: Interface IPluginOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.IPluginOptions interface. The general plugin options interface
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.tex.plugins/ipluginoptions/
 ---
 ## IPluginOptions interface

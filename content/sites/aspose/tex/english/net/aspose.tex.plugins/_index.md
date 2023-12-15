@@ -22,7 +22,7 @@ The **Aspose.TeX.Plugins** is a root namespace for all classes of Aspose.TeX.Plu
 | [PngMathRendererOptions](./pngmathrendereroptions/) | The MathRenderer plugin's options to render a math formula in PNG. |
 | [ResultContainer](./resultcontainer/) | The plugin execution result container. |
 | [StreamDataSource](./streamdatasource/) | The stream data source for plugin's load and save operations. |
-| [StringDataSource](./stringdatasource/) | The string data source for plugin's load and save operations. |
+| [StringDataSource](./stringdatasource/) | The string data source for plugin's load operations. |
 | [SvgFigureRendererOptions](./svgfigurerendereroptions/) | The FigureRenderer plugin's options to render a LaTeX figure in SVG. |
 | [SvgMathRendererOptions](./svgmathrendereroptions/) | The MathRenderer plugin's options to render a math formula in SVG. |
 ## Interfaces
