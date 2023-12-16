@@ -3,7 +3,7 @@ title: ISVGDeviceContextFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ISVGDeviceContextFactory interface. Represents a factory for creating SVG device contexts
 type: docs
-weight: 4440
+weight: 4460
 url: /net/aspose.svg.rendering/isvgdevicecontextfactory/
 ---
 ## ISVGDeviceContextFactory interface

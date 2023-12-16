@@ -3,7 +3,7 @@ title: FileCreateStreamProvider Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IO.FileCreateStreamProvider class. Represents FileStream implementation for providing streams to the rendering devices
 type: docs
-weight: 3020
+weight: 3040
 url: /net/aspose.svg.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class

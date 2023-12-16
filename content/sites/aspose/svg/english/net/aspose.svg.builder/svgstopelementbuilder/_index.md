@@ -3,7 +3,7 @@ title: SVGStopElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGStopElementBuilder class. Builder class for constructing an SVG stop element. The stop element is used within a gradient definition either linear or radial to define the color stops. This class provides methods to set various attributes specific to the stop element such as the offset and color
 type: docs
-weight: 1870
+weight: 1890
 url: /net/aspose.svg.builder/svgstopelementbuilder/
 ---
 ## SVGStopElementBuilder class

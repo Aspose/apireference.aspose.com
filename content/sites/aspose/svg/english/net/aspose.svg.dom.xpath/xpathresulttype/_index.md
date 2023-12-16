@@ -3,7 +3,7 @@ title: XPathResultType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.XPath.XPathResultType enum. An unsigned short indicating what type of result this is. If a specific type is specified then the result will be returned as the corresponding type using XPath type conversions where required and possible
 type: docs
-weight: 3800
+weight: 3820
 url: /net/aspose.svg.dom.xpath/xpathresulttype/
 ---
 ## XPathResultType enumeration

@@ -3,7 +3,7 @@ title: SVGViewElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGViewElementBuilder class. Builder class for creating an SVGViewElement which defines a view within an SVG document
 type: docs
-weight: 1970
+weight: 1990
 url: /net/aspose.svg.builder/svgviewelementbuilder/
 ---
 ## SVGViewElementBuilder class
@@ -36,8 +36,8 @@ public class SVGViewElementBuilder : SVGElementBuilder<SVGViewElement>, IAnimati
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGViewElement) |  |
 | [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [SetViewTarget](../../aspose.svg.builder/svgviewelementbuilder/setviewtarget/)(params string[]) | Sets the viewTarget attribute of the view element, specifying the target elements for the view. |
-| [SetZoomAndPan](../../aspose.svg.builder/svgviewelementbuilder/setzoomandpan/)(ZoomAndPan) | Sets the zoomAndPan attribute of the view element, specifying the zoom and pan behavior. |
+| [ViewTarget](../../aspose.svg.builder/svgviewelementbuilder/viewtarget/)(params string[]) | Sets the viewTarget attribute of the view element, specifying the target elements for the view. |
+| [ZoomAndPan](../../aspose.svg.builder/svgviewelementbuilder/zoomandpan/)(ZoomAndPan) | Sets the zoomAndPan attribute of the view element, specifying the zoom and pan behavior. |
 
 ### See Also
 

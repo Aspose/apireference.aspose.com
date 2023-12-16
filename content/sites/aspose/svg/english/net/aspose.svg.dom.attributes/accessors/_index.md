@@ -3,7 +3,7 @@ title: Accessors Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attributes.Accessors enum. Represents the enumeration of member accessors that is defined by the W3C
 type: docs
-weight: 4210
+weight: 4230
 url: /net/aspose.svg.dom.attributes/accessors/
 ---
 ## Accessors enumeration

@@ -3,7 +3,7 @@ title: IDiagnosticsBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Diagnostics.IDiagnosticsBuilder interface. An interface for configuring diagnostic tools
 type: docs
-weight: 2500
+weight: 2520
 url: /net/aspose.svg.diagnostics/idiagnosticsbuilder/
 ---
 ## IDiagnosticsBuilder interface

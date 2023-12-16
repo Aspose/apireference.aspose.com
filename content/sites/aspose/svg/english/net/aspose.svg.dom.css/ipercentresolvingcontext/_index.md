@@ -3,7 +3,7 @@ title: IPercentResolvingContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IPercentResolvingContext interface. Represents a context for resolving percentage values during layout calculations
 type: docs
-weight: 4400
+weight: 4420
 url: /net/aspose.svg.dom.css/ipercentresolvingcontext/
 ---
 ## IPercentResolvingContext interface

@@ -3,7 +3,7 @@ title: Attr Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attr class. The Attr interface represents an attribute in an Element object. Typically the allowable values for the attribute are defined in a schema associated with the document
 type: docs
-weight: 3460
+weight: 3480
 url: /net/aspose.svg.dom/attr/
 ---
 ## Attr class

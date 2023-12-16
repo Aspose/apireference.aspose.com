@@ -3,7 +3,7 @@ title: SVGTSpanElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGTSpanElement class. The SVGTSpanElement interface corresponds to the tspan element
 type: docs
-weight: 5230
+weight: 5250
 url: /net/aspose.svg/svgtspanelement/
 ---
 ## SVGTSpanElement class

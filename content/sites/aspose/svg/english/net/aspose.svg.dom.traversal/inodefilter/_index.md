@@ -3,7 +3,7 @@ title: INodeFilter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Traversal.INodeFilter interface. Filters are objects that know how to filter out nodes. If a NodeIterator or TreeWalker is given a NodeFilter it applies the filter before it returns the next node. If the filter says to accept the node the traversal logic returns it otherwise traversal looks for the next node and pretends that the node that was rejected was not there
 type: docs
-weight: 3850
+weight: 3870
 url: /net/aspose.svg.dom.traversal/inodefilter/
 ---
 ## INodeFilter interface

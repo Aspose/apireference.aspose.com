@@ -17,6 +17,8 @@ The **Aspose.Svg.Builder** namespace contains classes and interfaces for buildin
 | [ColorBuilder](./colorbuilder/) | A builder class for constructing color values in various formats. This class provides methods to set color values and build them into string representations that can be used in styling contexts, such as CSS or SVG attributes. |
 | [FilterValueListBuilder](./filtervaluelistbuilder/) | A builder class for creating a list of filter functions for SVG elements. |
 | [MaskBuilder](./maskbuilder/) | A builder class for creating CSS mask properties. This class allows for the construction of complex mask styles using various properties such as mask source, position, size, repeat style, and more. The resulting string can be used in CSS to define the masking behavior of an element. |
+| [OneOf&lt;T1,T2&gt;](./oneof-2/) | Represents a value that can be one of two distinct types, T1 or T2. |
+| [OneOf&lt;T1,T2,T3&gt;](./oneof-3/) | Represents a value that can be one of three distinct types, T1, T2, or T3. |
 | [PaintBuilder](./paintbuilder/) | A builder class for creating paint values for SVG elements. |
 | [PathBuilder](./pathbuilder/) | Builder class for creating SVG path data strings. |
 | [RuleBuilder](./rulebuilder/) | A builder class for constructing CSS style rules. This class is used to dynamically build a string of CSS styles by setting various attributes and their values. |

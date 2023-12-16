@@ -3,7 +3,7 @@ title: SpreadMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.SpreadMode enum. Specifies the spread mode used in rendering SVG and HTML
 type: docs
-weight: 2220
+weight: 2240
 url: /net/aspose.svg.drawing/spreadmode/
 ---
 ## SpreadMode enumeration

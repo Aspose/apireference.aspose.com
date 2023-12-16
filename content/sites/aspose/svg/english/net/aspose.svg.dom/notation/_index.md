@@ -3,7 +3,7 @@ title: Notation Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Notation class. Represents a notation declared in the DTD
 type: docs
-weight: 3680
+weight: 3700
 url: /net/aspose.svg.dom/notation/
 ---
 ## Notation class

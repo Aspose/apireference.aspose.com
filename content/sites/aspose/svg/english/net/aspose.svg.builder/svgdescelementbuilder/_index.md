@@ -3,7 +3,7 @@ title: SVGDescElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGDescElementBuilder class. Builder class for constructing an SVG desc element which is used to provide a description for SVG container elements. It enables the building of content within the desc element and provides methods to set various attributes specific to the desc element in SVG
 type: docs
-weight: 1680
+weight: 1700
 url: /net/aspose.svg.builder/svgdescelementbuilder/
 ---
 ## SVGDescElementBuilder class

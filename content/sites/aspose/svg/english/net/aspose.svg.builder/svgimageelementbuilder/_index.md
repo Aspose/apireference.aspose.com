@@ -3,7 +3,7 @@ title: SVGImageElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGImageElementBuilder class. Builder class for constructing an SVG image element. This element is used to embed images within SVG graphics. It provides methods to set various attributes specific to the image element and to add additional configurations like clip paths masks styles and scripts
 type: docs
-weight: 1730
+weight: 1750
 url: /net/aspose.svg.builder/svgimageelementbuilder/
 ---
 ## SVGImageElementBuilder class
