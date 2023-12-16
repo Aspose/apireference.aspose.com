@@ -3,7 +3,7 @@ title: Configuration Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Configuration class. Represents the configuration context object that is used to set up the environment settings for the application
 type: docs
-weight: 2510
+weight: 2530
 url: /net/aspose.svg/configuration/
 ---
 ## Configuration class

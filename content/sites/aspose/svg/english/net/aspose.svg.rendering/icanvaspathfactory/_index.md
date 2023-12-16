@@ -3,7 +3,7 @@ title: ICanvasPathFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ICanvasPathFactory interface. Represents a factory for creating canvas paths
 type: docs
-weight: 3180
+weight: 3200
 url: /net/aspose.svg.rendering/icanvaspathfactory/
 ---
 ## ICanvasPathFactory interface

@@ -3,7 +3,7 @@ title: ICSSPageRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSPageRule interface. The CSSPageRule interface represents a page rule within a CSS style sheet. The page rule is used to specify the dimensions orientation margins etc. of a page box for paged media
 type: docs
-weight: 2420
+weight: 2440
 url: /net/aspose.svg.dom.css/icsspagerule/
 ---
 ## ICSSPageRule interface

@@ -37,8 +37,8 @@ public class SVGFEMorphologyElementBuilder : SVGElementBuilder<SVGFEMorphologyEl
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(Document) |  |
 | virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(SVGFEMorphologyElement) |  |
 | [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(Document) |  |
-| [SetOperator](../../aspose.svg.builder/svgfemorphologyelementbuilder/setoperator/)(MorphologyOperator) | Sets the 'operator' attribute of the feMorphology element, specifying the type of morphological operation. |
-| [SetRadius](../../aspose.svg.builder/svgfemorphologyelementbuilder/setradius/)(double, double?) | Sets the 'radius' attribute of the feMorphology element, defining the radius for the morphological operation. |
+| [Operator](../../aspose.svg.builder/svgfemorphologyelementbuilder/operator/)(MorphologyOperator) | Sets the 'operator' attribute of the feMorphology element, specifying the type of morphological operation. |
+| [Radius](../../aspose.svg.builder/svgfemorphologyelementbuilder/radius/)(double, double?) | Sets the 'radius' attribute of the feMorphology element, defining the radius for the morphological operation. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: SVGElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGElement class. All of the SVG DOM interfaces that correspond directly to elements in the SVG language such as the SVGPathElement interface for the path element derive from the SVGElement interface
 type: docs
-weight: 4870
+weight: 4890
 url: /net/aspose.svg/svgelement/
 ---
 ## SVGElement class

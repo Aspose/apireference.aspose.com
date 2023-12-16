@@ -3,7 +3,7 @@ title: SVGDefsElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGDefsElementBuilder class. Builder class for constructing an SVG defs element which is used to define reusable elements. It enables the building of content within the defs element and provides methods to set various attributes specific to the defs element in SVG
 type: docs
-weight: 1670
+weight: 1690
 url: /net/aspose.svg.builder/svgdefselementbuilder/
 ---
 ## SVGDefsElementBuilder class

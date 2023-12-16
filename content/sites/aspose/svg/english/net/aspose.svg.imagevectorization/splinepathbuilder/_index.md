@@ -3,7 +3,7 @@ title: SplinePathBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.SplinePathBuilder class. The SplinePathBuilder class is responsible for building path segments SVGPathSeg from list of the trace points. This path builder is based on applying a Catmull-Roma spline to a set of smoothed and reduced path points
 type: docs
-weight: 6190
+weight: 6210
 url: /net/aspose.svg.imagevectorization/splinepathbuilder/
 ---
 ## SplinePathBuilder class

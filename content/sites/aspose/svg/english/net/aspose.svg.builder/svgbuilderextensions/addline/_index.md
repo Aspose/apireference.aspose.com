@@ -1,12 +1,56 @@
 ---
 title: SVGBuilderExtensions.AddLine
 second_title: Aspose.SVG for .NET API Reference
-description: SVGBuilderExtensions method. Adds a line element configuration to the builder
+description: SVGBuilderExtensions method. Adds a line element with specified start and end points and styles to the SVG builder
 type: docs
 weight: 350
 url: /net/aspose.svg.builder/svgbuilderextensions/addline/
 ---
-## SVGBuilderExtensions.AddLine&lt;TBuilder&gt; method
+## AddLine&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGLineElementBuilder&gt;) {#addline}
+
+Adds a 'line' element with specified start and end points, and styles to the SVG builder.
+
+```csharp
+public static TBuilder AddLine<TBuilder>(this TBuilder builder, 
+    OneOf<double, (double, LengthType)> x1 = null, OneOf<double, (double, LengthType)> y1 = null, 
+    OneOf<double, (double, LengthType)> x2 = null, OneOf<double, (double, LengthType)> y2 = null, 
+    OneOf<Color, Paint> fill = null, OneOf<Color, Paint> stroke = null, string id = null, 
+    Action<SVGLineElementBuilder> extend = null)
+    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
+```
+
+| Parameter | Description |
+| --- | --- |
+| TBuilder | The type of the SVG element builder, facilitating fluent API usage. |
+| builder | The SVG builder instance to which the 'line' element will be added. |
+| x1 | The x-coordinate of the start point of the line. Can be a double value or a tuple of double and LengthType. |
+| y1 | The y-coordinate of the start point of the line. Can be a double value or a tuple of double and LengthType. |
+| x2 | The x-coordinate of the end point of the line. Can be a double value or a tuple of double and LengthType. |
+| y2 | The y-coordinate of the end point of the line. Can be a double value or a tuple of double and LengthType. |
+| fill | The fill color or paint style for the line. Can be a Color or a Paint enum value. Optional parameter. |
+| stroke | The stroke color or paint style for the line. Can be a Color or a Paint enum value. Optional parameter. |
+| id | The unique identifier for the line element. Optional parameter. |
+| extend | An optional action to further configure the line element builder. |
+
+### Return Value
+
+The builder instance, allowing for method chaining.
+
+### See Also
+
+* class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
+* enum [LengthType](../../lengthtype/)
+* enum [Paint](../../paint/)
+* class [SVGLineElementBuilder](../../svglineelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## AddLine&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGLineElementBuilder&gt;) {#addline_1}
 
 Adds a 'line' element configuration to the builder.
 

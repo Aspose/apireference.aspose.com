@@ -3,7 +3,7 @@ title: DocumentLoadErrorEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.DocumentLoadErrorEvent class. The DocumentLoadErrorEvent occurres when the requested resource is not available
 type: docs
-weight: 3950
+weight: 3970
 url: /net/aspose.svg.dom.events/documentloaderrorevent/
 ---
 ## DocumentLoadErrorEvent class

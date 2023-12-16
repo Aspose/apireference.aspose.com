@@ -3,7 +3,7 @@ title: NamedNodeMap Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
 type: docs
-weight: 3440
+weight: 3460
 url: /net/aspose.svg.collections/namednodemap/
 ---
 ## NamedNodeMap class

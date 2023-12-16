@@ -3,7 +3,7 @@ title: SVGPathElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGPathElementBuilder class. Builder class for constructing an SVG path element which is used to define a path in an SVG document. This class provides methods to set various attributes specific to the path element and to build its content
 type: docs
-weight: 1790
+weight: 1810
 url: /net/aspose.svg.builder/svgpathelementbuilder/
 ---
 ## SVGPathElementBuilder class

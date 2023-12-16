@@ -3,7 +3,7 @@ title: RendererTSource Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Renderer1TSource class. The base abstract class for all renderers
 type: docs
-weight: 4380
+weight: 4400
 url: /net/aspose.svg.rendering/renderer-1/
 ---
 ## Renderer&lt;TSource&gt; class

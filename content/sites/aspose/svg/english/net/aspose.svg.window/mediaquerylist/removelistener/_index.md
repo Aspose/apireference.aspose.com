@@ -3,7 +3,7 @@ title: MediaQueryList.RemoveListener
 second_title: Aspose.SVG for .NET API Reference
 description: MediaQueryList method. Remove MediaQueryList matches state change event listener
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.svg.window/mediaquerylist/removelistener/
 ---
 ## MediaQueryList.RemoveListener method

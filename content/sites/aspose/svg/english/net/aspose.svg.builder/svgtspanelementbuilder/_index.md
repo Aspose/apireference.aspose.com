@@ -3,7 +3,7 @@ title: SVGTSpanElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGTSpanElementBuilder class. Builder class for creating an SVGTSpanElement which is used to position and style text within an SVG document
 type: docs
-weight: 1950
+weight: 1970
 url: /net/aspose.svg.builder/svgtspanelementbuilder/
 ---
 ## SVGTSpanElementBuilder class

@@ -3,7 +3,7 @@ title: SVGCircleElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGCircleElementBuilder class. Builder class for constructing an SVG circle element which is used to draw circles within SVG graphics. It enables the building of content within the circle element and provides methods to set various attributes specific to the circle element in SVG
 type: docs
-weight: 1650
+weight: 1670
 url: /net/aspose.svg.builder/svgcircleelementbuilder/
 ---
 ## SVGCircleElementBuilder class

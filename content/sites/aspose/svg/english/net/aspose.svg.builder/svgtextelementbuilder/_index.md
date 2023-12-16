@@ -3,7 +3,7 @@ title: SVGTextElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGTextElementBuilder class. Builder class for creating an SVGTextElement which is used to define text in an SVG document
 type: docs
-weight: 1920
+weight: 1940
 url: /net/aspose.svg.builder/svgtextelementbuilder/
 ---
 ## SVGTextElementBuilder class

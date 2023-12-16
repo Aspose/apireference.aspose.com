@@ -3,7 +3,7 @@ title: SVGRectElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGRectElementBuilder class. Builder class for constructing an SVG rect element. The rect element is used to create rectangles within SVG graphics. This class provides methods to set various attributes specific to the rect element including corner radii and dimensions
 type: docs
-weight: 1840
+weight: 1860
 url: /net/aspose.svg.builder/svgrectelementbuilder/
 ---
 ## SVGRectElementBuilder class

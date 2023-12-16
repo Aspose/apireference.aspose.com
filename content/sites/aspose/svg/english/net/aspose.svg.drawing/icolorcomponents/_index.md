@@ -3,7 +3,7 @@ title: IColorComponents Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IColorComponents interface. Declares method and properties for processing color components
 type: docs
-weight: 4310
+weight: 4330
 url: /net/aspose.svg.drawing/icolorcomponents/
 ---
 ## IColorComponents interface

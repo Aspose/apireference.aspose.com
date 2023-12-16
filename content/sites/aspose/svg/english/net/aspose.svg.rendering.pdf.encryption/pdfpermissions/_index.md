@@ -3,7 +3,7 @@ title: PdfPermissions Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Pdf.Encryption.PdfPermissions enum. This enum represents users permissions for a pdf
 type: docs
-weight: 4630
+weight: 4650
 url: /net/aspose.svg.rendering.pdf.encryption/pdfpermissions/
 ---
 ## PdfPermissions enumeration

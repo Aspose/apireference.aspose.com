@@ -3,7 +3,7 @@ title: MediaQueryList.Media
 second_title: Aspose.SVG for .NET API Reference
 description: MediaQueryList property. A string representing a serialized media query
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.svg.window/mediaquerylist/media/
 ---
 ## MediaQueryList.Media property
