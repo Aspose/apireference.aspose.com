@@ -1,6 +1,6 @@
 ---
 title: models
-second_title: Aspose.OCR for Python via .NET API Reference
+second_title: Aspose.OCR for Python via Java API Reference
 description: 
 type: docs
 weight: 271
@@ -517,4 +517,4 @@ Classes
 ### See Also
 
 * namespace [aspose](/ocr/python-java/aspose/)
-* assembly [Aspose.OCR](/ocr/python-java/)
+* assembly [Aspose](/ocr/python-java/)
