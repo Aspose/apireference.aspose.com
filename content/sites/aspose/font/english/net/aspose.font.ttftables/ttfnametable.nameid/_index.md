@@ -3,7 +3,7 @@ title: Enum TtfNameTable.NameId
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfNameTableNameId enum. Represents NameId
 type: docs
-weight: 1110
+weight: 1120
 url: /net/aspose.font.ttftables/ttfnametable.nameid/
 ---
 ## TtfNameTable.NameId enumeration

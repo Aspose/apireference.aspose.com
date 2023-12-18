@@ -3,7 +3,7 @@ title: Class Glyph
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Glyphs.Glyph class. Represents a Font glyph
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.font.glyphs/glyph/
 ---
 ## Glyph class
