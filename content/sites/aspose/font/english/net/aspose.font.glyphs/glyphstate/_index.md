@@ -3,7 +3,7 @@ title: Enum GlyphState
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Glyphs.GlyphState enum. Specifies the glyph state
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.font.glyphs/glyphstate/
 ---
 ## GlyphState enumeration

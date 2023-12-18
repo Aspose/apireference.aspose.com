@@ -3,7 +3,7 @@ title: Enum TtfGaspTable.RangeGaspBehaviorFlags
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfGaspTableRangeGaspBehaviorFlags enum. Flags describing desired rasterizer behavior
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.font.ttftables/ttfgasptable.rangegaspbehaviorflags/
 ---
 ## TtfGaspTable.RangeGaspBehaviorFlags enumeration

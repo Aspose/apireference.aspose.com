@@ -19,5 +19,6 @@ The **Aspose.Font.Exceptions** namespace provides classes describing exceptions 
 | [FontException](./fontexception/) | Represents common Font processing related exception. |
 | [FontNotSupportedOperationException](./fontnotsupportedoperationexception/) | Represents not supported operation exception. The exception can be thrown in case some operation is not supported for particular Font type. |
 | [LicenseRestrictionException](./licenserestrictionexception/) | Represents exception which can be thrown on attempt to execute functionality which is restricted in evaluation mode. |
+| [SvgConversionException](./svgconversionexception/) | Represents Font conversion exception. The exception can be thrown in case of errors during font conversion process. |
 
 

@@ -3,7 +3,7 @@ title: Interface IGlyphRenderer
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Renderers.IGlyphRenderer interface. Interface used to render glyphs
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.font.renderers/iglyphrenderer/
 ---
 ## IGlyphRenderer interface

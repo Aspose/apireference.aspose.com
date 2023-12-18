@@ -3,7 +3,7 @@ title: Class Version16Dot16
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfCommon.Version16Dot16 class. Reresents Version16Dot16 datatype
 type: docs
-weight: 850
+weight: 860
 url: /net/aspose.font.ttfcommon/version16dot16/
 ---
 ## Version16Dot16 class
