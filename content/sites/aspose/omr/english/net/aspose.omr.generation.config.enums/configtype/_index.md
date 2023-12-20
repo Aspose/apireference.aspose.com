@@ -54,6 +54,7 @@ public enum ConfigType
 | TableContent | `207` | [`TableContentConfig`](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig) |
 | CompositeGrid | `208` | [`CompositeGridConfig`](../../aspose.omr.generation.config.elements/compositegridconfig) |
 | ChoiceBoxAnswer | `209` | ChoiceBoxAnswerConfig |
+| PositionedBlock | `210` | [`PositionedBlockConfig`](../../aspose.omr.generation.config.elements.parents/positionedblockconfig) |
 
 ### See Also
 

@@ -11,7 +11,7 @@ url: /
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR for .NET Product Logo](logo_omr_net.svg)
+![Aspose.OMR for .NET Product Logo](logo_omr_net.png)
 
 **Welcome to the Aspose.OMR for .NET**
 
@@ -27,7 +27,7 @@ These are links to some useful resources:
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR for Java Product Logo](logo_omr_java.svg)
+![Aspose.OMR for Java Product Logo](logo_omr_java.png)
 
 **Welcome to the Aspose.OMR for Java**
 
@@ -44,7 +44,7 @@ These are links to some useful resources:
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR for C++ Product Logo](logo_omr_cpp.svg)
+![Aspose.OMR for C++ Product Logo](logo_omr_cpp.png)
 
 **Welcome to the Aspose.OMR for C++**
 
