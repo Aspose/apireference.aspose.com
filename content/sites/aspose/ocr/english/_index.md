@@ -97,3 +97,16 @@ Download Text Extraction Python Library for English, French, Spanish & Portugues
 
 These are links to some useful resources:
 - [Aspose.OCR for Python via .NET API Reference](/ocr/python-net/)
+
+## Aspose.OCR for Python via Java
+
+{{% alert color="primary" %}}
+
+![Aspose.OCR for Python via Java Product Logo](home_5.png)
+
+Powerful OCR (Optical Character Recognition) API that seamlessly integrates with your Python applications through Java.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+- [Aspose.OCR for Python via Java API Reference](/ocr/python-java/)
