@@ -147,6 +147,7 @@ Perform OCR for English, French, Spanish and Portuguese languages in your applic
 {{< blocks/product-item title="JAVA" href="/ocr/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/ocr/cpp/" class="btn-c" >}}
 {{< blocks/product-item title="PYTHON via .NET" href="/ocr/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="PYTHON via Java" href="/ocr/python-java/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
@@ -251,6 +252,8 @@ Compress archives and files into zip format as well as extract zip files to its 
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/zip/net/" class="btn-net" >}}
+{{< blocks/product-item title="JAVA" href="/zip/java/" class="btn-java" >}}
+{{< blocks/product-item title="Python via .NET" href="/zip/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
