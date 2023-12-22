@@ -3,7 +3,7 @@ title: RangeGaspBehaviorFlags
 second_title: Aspose.Font for Java API Reference
 description: Flags describing desired rasterizer behavior.
 type: docs
-weight: 122
+weight: 123
 url: /java/com.aspose.font/rangegaspbehaviorflags/
 ---
 **Inheritance:**

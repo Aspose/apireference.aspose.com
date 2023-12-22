@@ -65,6 +65,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [RenderingUtils](../com.aspose.font/renderingutils) | Provides utility methods for rendering. |
 | [SegmentPath](../com.aspose.font/segmentpath) | Represents rendering path. |
 | [StreamSource](../com.aspose.font/streamsource) | Defines a way to get a file stream when it is needed. |
+| [SvgConversionException](../com.aspose.font/svgconversionexception) | Represents Font conversion exception. |
 | [TransformationMatrix](../com.aspose.font/transformationmatrix) | Represents 3x3 matrix | A B 0 | | C D 0 | | TX TY 1 |. |
 | [TtcFontFileDefinition](../com.aspose.font/ttcfontfiledefinition) | Represents file definition for TTC Font. |
 | [TtcFontSource](../com.aspose.font/ttcfontsource) | Represents TTC Font source. |
