@@ -252,6 +252,8 @@ Compress archives and files into zip format as well as extract zip files to its 
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/zip/net/" class="btn-net" >}}
+{{< blocks/product-item title="JAVA" href="/zip/java/" class="btn-java" >}}
+{{< blocks/product-item title="Python via .NET" href="/zip/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
