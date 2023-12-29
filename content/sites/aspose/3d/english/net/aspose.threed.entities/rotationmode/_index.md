@@ -3,7 +3,7 @@ title: RotationMode
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 630
+weight: 660
 url: /net/aspose.threed.entities/rotationmode/
 ---
 ## RotationMode enumeration

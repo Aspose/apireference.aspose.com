@@ -3,7 +3,7 @@ title: MathUtils
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2630
+weight: 2660
 url: /net/aspose.threed.utilities/mathutils/
 ---
 ## MathUtils class

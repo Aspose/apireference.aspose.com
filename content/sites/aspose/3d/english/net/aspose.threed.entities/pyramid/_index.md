@@ -3,7 +3,7 @@ title: Pyramid
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 590
+weight: 620
 url: /net/aspose.threed.entities/pyramid/
 ---
 ## Pyramid class

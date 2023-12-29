@@ -3,7 +3,7 @@ title: IDescriptorSet
 second_title: Aspose.3D for Java API Reference
 description: The descriptor sets describes different resources that can be used to bind to the render pipeline like buffers textures
 type: docs
-weight: 224
+weight: 225
 url: /java/com.aspose.threed/idescriptorset/
 ---
 

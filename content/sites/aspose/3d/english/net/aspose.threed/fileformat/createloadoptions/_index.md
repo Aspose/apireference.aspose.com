@@ -3,7 +3,7 @@ title: CreateLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 530
+weight: 550
 url: /net/aspose.threed/fileformat/createloadoptions/
 ---
 ## FileFormat.CreateLoadOptions method

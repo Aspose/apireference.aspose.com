@@ -3,7 +3,7 @@ title: IOConfig
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1180
+weight: 1210
 url: /net/aspose.threed.formats/ioconfig/
 ---
 ## IOConfig class

@@ -3,7 +3,7 @@ title: Revision
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.threed/assetinfo/revision/
 ---
 ## AssetInfo.Revision property

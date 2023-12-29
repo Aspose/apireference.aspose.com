@@ -3,8 +3,8 @@ title: GlobalTransform class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /python-net/aspose.threed/globaltransform/
+weight: 100
+url: /aspose.threed/globaltransform/
 is_root: false
 ---
 

@@ -3,7 +3,7 @@ title: PdfFormat
 second_title: Aspose.3D for Java API Reference
 description: Adobes Portable Document Format
 type: docs
-weight: 112
+weight: 113
 url: /java/com.aspose.threed/pdfformat/
 ---
 
@@ -44,6 +44,7 @@ Adobe's Portable Document Format
 | [GLTF2_BINARY](#GLTF2-BINARY) | Khronos Group's glTF version 2.0 |
 | [GLTF_BINARY](#GLTF-BINARY) | Khronos Group's glTF in Binary format |
 | [HTML5](#HTML5) | HTML5 File |
+| [IFC](#IFC) | ISO 16739-1 Industry Foundation Classes data model. |
 | [MAYAASCII](#MAYAASCII) | Autodesk Maya in ASCII format |
 | [MAYA_BINARY](#MAYA-BINARY) | Autodesk Maya in Binary format |
 | [MICROSOFT3MF](#MICROSOFT3MF) | Microsoft 3D Manufacturing Format |
@@ -59,6 +60,7 @@ Adobe's Portable Document Format
 | [STL_BINARY](#STL-BINARY) | Binary STL file format |
 | [UNIVERSAL3D](#UNIVERSAL3D) | Universal3D file format |
 | [USD](#USD) | Universal Scene Description |
+| [USDA](#USDA) | Universal Scene Description in ASCII format. |
 | [USDZ](#USDZ) | Compressed Universal Scene Description |
 | [VRML](#VRML) | The Virtual Reality Modeling Language |
 | [WAVEFRONTOBJ](#WAVEFRONTOBJ) | Wavefront's Obj file format |
@@ -307,6 +309,14 @@ public static final FileFormat HTML5
 
 HTML5 File
 
+### IFC {#IFC}
+```
+public static final FileFormat IFC
+```
+
+
+ISO 16739-1 Industry Foundation Classes data model.
+
 ### MAYAASCII {#MAYAASCII}
 ```
 public static final FileFormat MAYAASCII
@@ -426,6 +436,14 @@ public static final FileFormat USD
 
 
 Universal Scene Description
+
+### USDA {#USDA}
+```
+public static final FileFormat USDA
+```
+
+
+Universal Scene Description in ASCII format.
 
 ### USDZ {#USDZ}
 ```
@@ -814,7 +832,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

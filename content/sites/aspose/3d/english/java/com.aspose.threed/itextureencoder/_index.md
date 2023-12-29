@@ -3,7 +3,7 @@ title: ITextureEncoder
 second_title: Aspose.3D for Java API Reference
 description: External texture encoder should implement this interface for encoding.
 type: docs
-weight: 240
+weight: 241
 url: /java/com.aspose.threed/itextureencoder/
 ---
 ```

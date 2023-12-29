@@ -3,7 +3,7 @@ title: RectangleShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible rectangular shape with rounding corners.
 type: docs
-weight: 134
+weight: 135
 url: /java/com.aspose.threed/rectangleshape/
 ---
 
@@ -406,7 +406,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

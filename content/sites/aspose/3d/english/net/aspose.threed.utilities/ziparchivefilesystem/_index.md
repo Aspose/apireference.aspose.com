@@ -3,7 +3,7 @@ title: ZipArchiveFileSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2820
+weight: 2850
 url: /net/aspose.threed.utilities/ziparchivefilesystem/
 ---
 ## ZipArchiveFileSystem class

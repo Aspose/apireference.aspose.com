@@ -3,7 +3,7 @@ title: RenderStage
 second_title: Aspose.3D for Java API Reference
 description: The render stage
 type: docs
-weight: 278
+weight: 281
 url: /java/com.aspose.threed/renderstage/
 ---
 
@@ -242,7 +242,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

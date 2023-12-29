@@ -3,7 +3,7 @@ title: PropertyFlags
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1710
+weight: 1740
 url: /net/aspose.threed/propertyflags/
 ---
 ## PropertyFlags enumeration

@@ -6,7 +6,47 @@ type: docs
 weight: 10
 url: /net/aspose.threed.utilities/watermark/decodewatermark/
 ---
-## Watermark.DecodeWatermark method
+## Watermark.DecodeWatermark method (1 of 2)
+
+Decode the watermark from a mesh
+
+```csharp
+public static string DecodeWatermark(Mesh input)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Mesh | The mesh to extract watermark |
+
+### Return Value
+
+Blind watermark or null if no watermark decoded.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| UnauthorizedAccessException | The mesh is protected by password, and provided password is incorrect. |
+
+### Examples
+
+The following code shows how to decode a blind watermark from a mesh saved in 3D file
+
+```csharp
+Mesh mesh = (Mesh)FileFormat.PLY.Decode("test.ply");
+String watermark = Watermark.DecodeWatermark(mesh);
+```
+
+### See Also
+
+* class [Mesh](../../../aspose.threed.entities/mesh)
+* class [Watermark](../../watermark)
+* namespace [Aspose.ThreeD.Utilities](../../watermark)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Watermark.DecodeWatermark method (2 of 2)
 
 Decode the watermark from a mesh
 

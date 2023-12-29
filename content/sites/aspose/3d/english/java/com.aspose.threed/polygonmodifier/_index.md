@@ -3,7 +3,7 @@ title: PolygonModifier
 second_title: Aspose.3D for Java API Reference
 description: Utilities to modify polygons
 type: docs
-weight: 123
+weight: 124
 url: /java/com.aspose.threed/polygonmodifier/
 ---
 
@@ -450,7 +450,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.utilities/vertexdeclaration/add_field/
+url: /aspose.threed.utilities/vertexdeclaration/add_field/
 is_root: false
 ---
 

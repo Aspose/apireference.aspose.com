@@ -3,7 +3,7 @@ title: Watermark
 second_title: Aspose.3D for Java API Reference
 description: Utility to encode/decode blind watermark  to/from a mesh.
 type: docs
-weight: 215
+weight: 216
 url: /java/com.aspose.threed/watermark/
 ---
 
@@ -18,7 +18,9 @@ Utility to encode/decode blind watermark to/from a mesh.
 
 | Method | Description |
 | --- | --- |
+| [decodeWatermark(Mesh input)](#decodeWatermark-com.aspose.threed.Mesh-) | Decode the watermark from a mesh |
 | [decodeWatermark(Mesh input, String password)](#decodeWatermark-com.aspose.threed.Mesh-java.lang.String-) | Decode the watermark from a mesh |
+| [encodeWatermark(Mesh input, String text)](#encodeWatermark-com.aspose.threed.Mesh-java.lang.String-) | Encode a text into mesh' blind watermark. |
 | [encodeWatermark(Mesh input, String text, String password)](#encodeWatermark-com.aspose.threed.Mesh-java.lang.String-java.lang.String-) | Encode a text into mesh' blind watermark. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
@@ -29,6 +31,21 @@ Utility to encode/decode blind watermark to/from a mesh.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### decodeWatermark(Mesh input) {#decodeWatermark-com.aspose.threed.Mesh-}
+```
+public static String decodeWatermark(Mesh input)
+```
+
+
+Decode the watermark from a mesh
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [Mesh](../../com.aspose.threed/mesh) | The mesh to extract watermark |
+
+**Returns:**
+java.lang.String - Blind watermark or null if no watermark decoded.
 ### decodeWatermark(Mesh input, String password) {#decodeWatermark-com.aspose.threed.Mesh-java.lang.String-}
 ```
 public static String decodeWatermark(Mesh input, String password)
@@ -45,6 +62,22 @@ Decode the watermark from a mesh
 
 **Returns:**
 java.lang.String - Blind watermark or null if no watermark decoded.
+### encodeWatermark(Mesh input, String text) {#encodeWatermark-com.aspose.threed.Mesh-java.lang.String-}
+```
+public static Mesh encodeWatermark(Mesh input, String text)
+```
+
+
+Encode a text into mesh' blind watermark.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [Mesh](../../com.aspose.threed/mesh) | Mesh to encode a blind watermark |
+| text | java.lang.String | Text to encode to the mesh |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - A new mesh instance with blind watermark encoded
 ### encodeWatermark(Mesh input, String text, String password) {#encodeWatermark-com.aspose.threed.Mesh-java.lang.String-java.lang.String-}
 ```
 public static Mesh encodeWatermark(Mesh input, String text, String password)
@@ -133,7 +166,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

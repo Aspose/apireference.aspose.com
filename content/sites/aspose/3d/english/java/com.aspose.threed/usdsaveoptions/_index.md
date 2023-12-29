@@ -3,7 +3,7 @@ title: UsdSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for USD/USDZ formats.
 type: docs
-weight: 186
+weight: 187
 url: /java/com.aspose.threed/usdsaveoptions/
 ---
 
@@ -361,7 +361,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

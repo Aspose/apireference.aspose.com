@@ -3,7 +3,7 @@ title: Material
 second_title: Aspose.3D for Java API Reference
 description: Material defines the parameters necessary for visual appearance of geometry.
 type: docs
-weight: 91
+weight: 92
 url: /java/com.aspose.threed/material/
 ---
 
@@ -307,7 +307,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: ReferenceMode
 second_title: Aspose.3D for Java API Reference
 description: defines how mapping information is stored and referenced by.
 type: docs
-weight: 276
+weight: 279
 url: /java/com.aspose.threed/referencemode/
 ---
 
@@ -233,7 +233,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

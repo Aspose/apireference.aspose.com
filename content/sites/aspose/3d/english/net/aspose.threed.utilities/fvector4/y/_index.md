@@ -1,17 +1,17 @@
 ---
-title: y
+title: Y
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
 weight: 40
 url: /net/aspose.threed.utilities/fvector4/y/
 ---
-## FVector4.y field
+## FVector4.Y field
 
 The y component.
 
 ```csharp
-public float y;
+public float Y;
 ```
 
 ### See Also

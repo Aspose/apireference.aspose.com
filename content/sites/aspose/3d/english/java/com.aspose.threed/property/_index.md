@@ -3,7 +3,7 @@ title: Property
 second_title: Aspose.3D for Java API Reference
 description: Class to hold user-defined properties.
 type: docs
-weight: 128
+weight: 129
 url: /java/com.aspose.threed/property/
 ---
 
@@ -283,7 +283,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

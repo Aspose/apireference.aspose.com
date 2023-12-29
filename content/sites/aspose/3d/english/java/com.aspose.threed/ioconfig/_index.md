@@ -3,7 +3,7 @@ title: IOConfig
 second_title: Aspose.3D for Java API Reference
 description: IO config for serialization/deserialization.
 type: docs
-weight: 75
+weight: 76
 url: /java/com.aspose.threed/ioconfig/
 ---
 
@@ -234,7 +234,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

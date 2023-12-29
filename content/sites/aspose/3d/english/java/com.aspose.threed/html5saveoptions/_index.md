@@ -3,7 +3,7 @@ title: Html5SaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for HTML5
 type: docs
-weight: 74
+weight: 75
 url: /java/com.aspose.threed/html5saveoptions/
 ---
 
@@ -522,7 +522,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: RenderFactory
 second_title: Aspose.3D for Java API Reference
 description: RenderFactory creates all resources that represented in rendering pipeline.
 type: docs
-weight: 137
+weight: 138
 url: /java/com.aspose.threed/renderfactory/
 ---
 
@@ -302,7 +302,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: Vector4
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2750
+weight: 2780
 url: /net/aspose.threed.utilities/vector4/
 ---
 ## Vector4 structure
@@ -43,10 +43,10 @@ public struct Vector4 : IComparable<Vector4>
 
 | Name | Description |
 | --- | --- |
-| [w](../../aspose.threed.utilities/vector4/w) | The w component. |
-| [x](../../aspose.threed.utilities/vector4/x) | The x component. |
-| [y](../../aspose.threed.utilities/vector4/y) | The y component. |
-| [z](../../aspose.threed.utilities/vector4/z) | The z component. |
+| [W](../../aspose.threed.utilities/vector4/w) | The w component. |
+| [X](../../aspose.threed.utilities/vector4/x) | The x component. |
+| [Y](../../aspose.threed.utilities/vector4/y) | The y component. |
+| [Z](../../aspose.threed.utilities/vector4/z) | The z component. |
 
 ### See Also
 

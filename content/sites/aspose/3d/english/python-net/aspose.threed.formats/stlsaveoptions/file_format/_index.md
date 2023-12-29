@@ -3,8 +3,8 @@ title: file_format property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /python-net/aspose.threed.formats/stlsaveoptions/file_format/
+weight: 60
+url: /aspose.threed.formats/stlsaveoptions/file_format/
 is_root: false
 ---
 

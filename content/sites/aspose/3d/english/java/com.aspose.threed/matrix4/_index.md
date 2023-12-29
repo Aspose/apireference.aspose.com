@@ -3,7 +3,7 @@ title: Matrix4
 second_title: Aspose.3D for Java API Reference
 description: 4x4 matrix implementation.
 type: docs
-weight: 93
+weight: 94
 url: /java/com.aspose.threed/matrix4/
 ---
 
@@ -694,7 +694,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

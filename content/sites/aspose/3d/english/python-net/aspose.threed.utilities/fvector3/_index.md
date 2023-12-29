@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.utilities/fvector3/
+url: /aspose.threed.utilities/fvector3/
 is_root: false
 ---
 
@@ -28,11 +28,9 @@ The FVector3 type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [ZERO](/3d/python-net/aspose.threed.utilities/fvector3/zero) | The Zero vector. |
+| [zero](/3d/python-net/aspose.threed.utilities/fvector3/zero) | The Zero vector. |
+| [one](/3d/python-net/aspose.threed.utilities/fvector3/one) | The unit scale vector with all components are all 1 |
 | [UNIT_SCALE](/3d/python-net/aspose.threed.utilities/fvector3/unit_scale) | The unit scale vector with all components are all 1 |
-| [x](/3d/python-net/aspose.threed.utilities/fvector3/x) | The x component. |
-| [y](/3d/python-net/aspose.threed.utilities/fvector3/y) | The y component. |
-| [z](/3d/python-net/aspose.threed.utilities/fvector3/z) | The y component. |
 
 
 ### Methods

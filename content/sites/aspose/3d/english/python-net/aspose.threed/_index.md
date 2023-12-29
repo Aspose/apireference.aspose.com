@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed/
+url: /aspose.threed/
 is_root: false
 ---
 
@@ -15,6 +15,7 @@ The base namespace of Aspose.3D
 | :- | :- |
 | [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) | The base class of all Aspose.ThreeD objects, all sub classes will support dynamic properties. |
 | [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) | Information of asset.<br/>Asset information can be attached to a [`Scene`](/3d/python-net/aspose.threed/scene).<br/>Child [`Scene`](/3d/python-net/aspose.threed/scene) can have its own [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) to override parent's definition. |
+| [`AxisSystem`](/3d/python-net/aspose.threed/axissystem) | Axis system is an combination of coordinate system, up vector and front vector. |
 | [`BonePose`](/3d/python-net/aspose.threed/bonepose) | The [`BonePose`](/3d/python-net/aspose.threed/bonepose) contains the transformation matrix for a bone node |
 | [`CustomObject`](/3d/python-net/aspose.threed/customobject) | Meta data or custom objects used in 3D files are managed by this class.<br/>All custom properties are saved as dynamic properties. |
 | [`Entity`](/3d/python-net/aspose.threed/entity) | The base class of all entities.<br/>Entity represents a concrete object that attached under a node like [`Light`](/3d/python-net/aspose.threed.entities/light)/[`Geometry`](/3d/python-net/aspose.threed.entities/geometry). |
@@ -41,7 +42,7 @@ The base namespace of Aspose.3D
 | Enumeration | Description |
 | :- | :- |
 | [`Axis`](/3d/python-net/aspose.threed/axis) | The coordinate axis. |
-| [`CoordinatedSystem`](/3d/python-net/aspose.threed/coordinatedsystem) | The left handed or right handed coordinate system. |
+| [`CoordinateSystem`](/3d/python-net/aspose.threed/coordinatesystem) | The left handed or right handed coordinate system. |
 | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) | File content type |
 | [`PoseType`](/3d/python-net/aspose.threed/posetype) | Pose type. |
 | [`PropertyFlags`](/3d/python-net/aspose.threed/propertyflags) | Property's flags |

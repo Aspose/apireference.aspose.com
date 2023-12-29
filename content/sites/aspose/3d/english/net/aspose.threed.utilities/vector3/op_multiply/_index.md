@@ -3,7 +3,7 @@ title: op_Multiply
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.threed.utilities/vector3/op_multiply/
 ---
 ## Vector3 Multiply operator (1 of 3)

@@ -1,17 +1,17 @@
 ---
-title: w
+title: W
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
 weight: 20
 url: /net/aspose.threed.utilities/vector4/w/
 ---
-## Vector4.w field
+## Vector4.W field
 
 The w component.
 
 ```csharp
-public double w;
+public double W;
 ```
 
 ### See Also

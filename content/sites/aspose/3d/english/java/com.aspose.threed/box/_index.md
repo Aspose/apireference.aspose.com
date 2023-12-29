@@ -3,7 +3,7 @@ title: Box
 second_title: Aspose.3D for Java API Reference
 description: Box.
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.threed/box/
 ---
 
@@ -567,7 +567,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

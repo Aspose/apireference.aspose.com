@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /python-net/aspose.threed.formats/plysaveoptions/
+url: /aspose.threed.formats/plysaveoptions/
 is_root: false
 ---
 
@@ -43,6 +43,7 @@ The PlySaveOptions type exposes the following members:
 | [vertex_element](/3d/python-net/aspose.threed.formats/plysaveoptions/vertex_element) | The element name for the vertex data, default value is "vertex" |
 | [face_element](/3d/python-net/aspose.threed.formats/plysaveoptions/face_element) | The element name for the face data, default value is "face" |
 | [face_property](/3d/python-net/aspose.threed.formats/plysaveoptions/face_property) | The property name for the face data, default value is "vertex_index" |
+| [axis_system](/3d/python-net/aspose.threed.formats/plysaveoptions/axis_system) | Gets or sets the axis system in the exported stl file. |
 
 
 

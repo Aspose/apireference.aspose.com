@@ -3,8 +3,8 @@ title: SIEMENS_JT8 property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /python-net/aspose.threed/fileformat/siemens_jt8/
+weight: 430
+url: /aspose.threed/fileformat/siemens_jt8/
 is_root: false
 ---
 

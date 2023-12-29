@@ -3,8 +3,8 @@ title: PLY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /python-net/aspose.threed.formats/rvmformat/ply/
+weight: 410
+url: /aspose.threed.formats/rvmformat/ply/
 is_root: false
 ---
 

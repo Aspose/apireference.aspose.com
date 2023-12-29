@@ -3,7 +3,7 @@ title: SetGeometricTranslation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 180
 url: /net/aspose.threed/transform/setgeometrictranslation/
 ---
 ## Transform.SetGeometricTranslation method

@@ -3,7 +3,7 @@ title: TriMeshT
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 740
+weight: 770
 url: /net/aspose.threed.entities/trimesh-1/
 ---
 ## TriMesh&lt;T&gt; class

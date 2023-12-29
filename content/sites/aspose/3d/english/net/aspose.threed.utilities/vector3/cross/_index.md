@@ -3,7 +3,7 @@ title: Cross
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.threed.utilities/vector3/cross/
 ---
 ## Vector3.Cross method

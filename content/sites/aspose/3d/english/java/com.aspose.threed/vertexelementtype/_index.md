@@ -3,7 +3,7 @@ title: VertexElementType
 second_title: Aspose.3D for Java API Reference
 description: The type of the vertex element defined how it will be used in modeling.
 type: docs
-weight: 288
+weight: 291
 url: /java/com.aspose.threed/vertexelementtype/
 ---
 
@@ -341,7 +341,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

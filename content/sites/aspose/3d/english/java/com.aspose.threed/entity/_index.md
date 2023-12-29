@@ -3,7 +3,7 @@ title: Entity
 second_title: Aspose.3D for Java API Reference
 description: The base class of all entities.
 type: docs
-weight: 49
+weight: 50
 url: /java/com.aspose.threed/entity/
 ---
 
@@ -325,7 +325,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

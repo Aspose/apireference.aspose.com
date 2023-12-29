@@ -3,7 +3,7 @@ title: MathUtils
 second_title: Aspose.3D for Java API Reference
 description: A set of useful mathematical utilities.
 type: docs
-weight: 92
+weight: 93
 url: /java/com.aspose.threed/mathutils/
 ---
 
@@ -248,7 +248,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

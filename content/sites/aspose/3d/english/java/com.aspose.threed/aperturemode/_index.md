@@ -3,7 +3,7 @@ title: ApertureMode
 second_title: Aspose.3D for Java API Reference
 description: Camera aperture modes.
 type: docs
-weight: 246
+weight: 247
 url: /java/com.aspose.threed/aperturemode/
 ---
 
@@ -242,7 +242,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

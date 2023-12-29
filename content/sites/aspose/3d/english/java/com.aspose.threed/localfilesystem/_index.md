@@ -3,7 +3,7 @@ title: LocalFileSystem
 second_title: Aspose.3D for Java API Reference
 description: The  will maps the read/write operations to local directory.
 type: docs
-weight: 90
+weight: 91
 url: /java/com.aspose.threed/localfilesystem/
 ---
 
@@ -143,7 +143,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

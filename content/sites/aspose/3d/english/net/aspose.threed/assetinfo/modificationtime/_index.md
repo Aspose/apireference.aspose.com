@@ -3,7 +3,7 @@ title: ModificationTime
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 140
 url: /net/aspose.threed/assetinfo/modificationtime/
 ---
 ## AssetInfo.ModificationTime property

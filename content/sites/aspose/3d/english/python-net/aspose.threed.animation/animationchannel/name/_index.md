@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.animation/animationchannel/name/
+url: /aspose.threed.animation/animationchannel/name/
 is_root: false
 ---
 

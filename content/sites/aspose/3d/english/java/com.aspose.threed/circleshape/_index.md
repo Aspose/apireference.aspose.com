@@ -3,7 +3,7 @@ title: CircleShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible circle profile which can be used to construct a mesh through
 type: docs
-weight: 28
+weight: 29
 url: /java/com.aspose.threed/circleshape/
 ---
 
@@ -370,7 +370,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

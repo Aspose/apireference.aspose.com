@@ -3,7 +3,7 @@ title: Circle
 second_title: Aspose.3D for Java API Reference
 description: A  curve consists of a set of points in the edge of the circle shape.
 type: docs
-weight: 27
+weight: 28
 url: /java/com.aspose.threed/circle/
 ---
 
@@ -384,7 +384,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

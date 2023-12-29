@@ -3,7 +3,7 @@ title: Dish
 second_title: Aspose.3D for Java API Reference
 description: Parameterized dish.
 type: docs
-weight: 41
+weight: 42
 url: /java/com.aspose.threed/dish/
 ---
 
@@ -514,7 +514,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

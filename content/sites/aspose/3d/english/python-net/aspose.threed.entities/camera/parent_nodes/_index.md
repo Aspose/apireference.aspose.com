@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /python-net/aspose.threed.entities/camera/parent_nodes/
+url: /aspose.threed.entities/camera/parent_nodes/
 is_root: false
 ---
 

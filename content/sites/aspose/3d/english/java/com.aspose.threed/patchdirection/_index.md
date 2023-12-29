@@ -3,7 +3,7 @@ title: PatchDirection
 second_title: Aspose.3D for Java API Reference
 description: Patchs U and V direction.
 type: docs
-weight: 109
+weight: 110
 url: /java/com.aspose.threed/patchdirection/
 ---
 
@@ -209,7 +209,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

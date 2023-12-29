@@ -3,7 +3,7 @@ title: TrapeziumShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible Trapezium shape defined by parameters.
 type: docs
-weight: 179
+weight: 180
 url: /java/com.aspose.threed/trapeziumshape/
 ---
 
@@ -431,7 +431,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

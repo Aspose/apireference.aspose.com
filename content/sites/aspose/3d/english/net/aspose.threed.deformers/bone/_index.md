@@ -3,7 +3,7 @@ title: Bone
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.threed.deformers/bone/
 ---
 ## Bone class
@@ -27,6 +27,7 @@ public class Bone : A3DObject
 | --- | --- |
 | [BoneTransform](../../aspose.threed.deformers/bone/bonetransform) { get; set; } | Gets or sets the transform matrix of the bone. |
 | [Item](../../aspose.threed.deformers/bone/item) { get; set; } |  |
+| [LinkMode](../../aspose.threed.deformers/bone/linkmode) { get; set; } | A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure. |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |
 | [Node](../../aspose.threed.deformers/bone/node) { get; set; } | Gets or sets the node. The bone node is the bone which skin attached to, the [`SkinDeformer`](../skindeformer) will use bone node to influence the displacement of the control points. Bone node usually has a [`Skeleton`](../../aspose.threed.entities/skeleton) attached, but it's not required. Attached [`Skeleton`](../../aspose.threed.entities/skeleton) is usually used by DCC software to show skeleton to user. |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |

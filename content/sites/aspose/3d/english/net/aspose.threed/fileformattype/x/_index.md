@@ -3,7 +3,7 @@ title: X
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.threed/fileformattype/x/
 ---
 ## FileFormatType.X field

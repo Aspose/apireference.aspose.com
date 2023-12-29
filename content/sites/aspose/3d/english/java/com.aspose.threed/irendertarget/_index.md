@@ -3,7 +3,7 @@ title: IRenderTarget
 second_title: Aspose.3D for Java API Reference
 description: The base interface of render target
 type: docs
-weight: 232
+weight: 233
 url: /java/com.aspose.threed/irendertarget/
 ---
 

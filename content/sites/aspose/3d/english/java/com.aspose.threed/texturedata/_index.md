@@ -3,7 +3,7 @@ title: TextureData
 second_title: Aspose.3D for Java API Reference
 description: This class contains the raw data and format definition of a texture.
 type: docs
-weight: 173
+weight: 174
 url: /java/com.aspose.threed/texturedata/
 ---
 
@@ -353,7 +353,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

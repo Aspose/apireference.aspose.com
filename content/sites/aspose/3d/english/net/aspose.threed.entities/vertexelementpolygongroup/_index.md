@@ -3,7 +3,7 @@ title: VertexElementPolygonGroup
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 870
 url: /net/aspose.threed.entities/vertexelementpolygongroup/
 ---
 ## VertexElementPolygonGroup class

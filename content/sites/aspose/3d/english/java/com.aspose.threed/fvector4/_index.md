@@ -3,7 +3,7 @@ title: FVector4
 second_title: Aspose.3D for Java API Reference
 description: A float vector with four components.
 type: docs
-weight: 58
+weight: 59
 url: /java/com.aspose.threed/fvector4/
 ---
 
@@ -334,7 +334,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

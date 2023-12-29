@@ -3,8 +3,8 @@ title: Pose class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /python-net/aspose.threed/pose/
+weight: 170
+url: /aspose.threed/pose/
 is_root: false
 ---
 

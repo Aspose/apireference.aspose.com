@@ -3,7 +3,7 @@ title: ShaderSource
 second_title: Aspose.3D for Java API Reference
 description: The source code of shader
 type: docs
-weight: 156
+weight: 157
 url: /java/com.aspose.threed/shadersource/
 ---
 
@@ -109,7 +109,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

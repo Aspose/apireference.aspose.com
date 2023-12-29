@@ -3,7 +3,7 @@ title: SetPreRotation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 160
+weight: 200
 url: /net/aspose.threed/transform/setprerotation/
 ---
 ## Transform.SetPreRotation method

@@ -3,7 +3,7 @@ title: Bone
 second_title: Aspose.3D for Java API Reference
 description: A bone defines the subset of the geometrys control point and defined blend weight for each control point.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.aspose.threed/bone/
 ---
 
@@ -29,6 +29,7 @@ A bone defines the subset of the geometry's control point, and defined blend wei
 | [get(int index)](#get-int-) | Gets the blend weight of specified control point |
 | [getBoneTransform()](#getBoneTransform--) | Gets the transform matrix of the bone. |
 | [getClass()](#getClass--) |  |
+| [getLinkMode()](#getLinkMode--) | A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure. |
 | [getName()](#getName--) | Gets the name. |
 | [getNode()](#getNode--) | Gets the node. |
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
@@ -43,6 +44,7 @@ A bone defines the subset of the geometry's control point, and defined blend wei
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
 | [set(int index, double value)](#set-int-double-) | Sets the blend weight of specified control point |
 | [setBoneTransform(Matrix4 value)](#setBoneTransform-com.aspose.threed.Matrix4-) | Sets the transform matrix of the bone. |
+| [setLinkMode(BoneLinkMode value)](#setLinkMode-com.aspose.threed.BoneLinkMode-) | A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure. |
 | [setName(String value)](#setName-java.lang.String-) | Sets the name. |
 | [setNode(Node value)](#setNode-com.aspose.threed.Node-) | Sets the node. |
 | [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
@@ -138,6 +140,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getLinkMode() {#getLinkMode--}
+```
+public BoneLinkMode getLinkMode()
+```
+
+
+A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure.
+
+**Returns:**
+[BoneLinkMode](../../com.aspose.threed/bonelinkmode)
 ### getName() {#getName--}
 ```
 public String getName()
@@ -301,6 +313,19 @@ Sets the transform matrix of the bone.
 | --- | --- | --- |
 | value | [Matrix4](../../com.aspose.threed/matrix4) | New value |
 
+### setLinkMode(BoneLinkMode value) {#setLinkMode-com.aspose.threed.BoneLinkMode-}
+```
+public void setLinkMode(BoneLinkMode value)
+```
+
+
+A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [BoneLinkMode](../../com.aspose.threed/bonelinkmode) | New value |
+
 ### setName(String value) {#setName-java.lang.String-}
 ```
 public void setName(String value)
@@ -388,7 +413,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

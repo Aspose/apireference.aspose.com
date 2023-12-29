@@ -3,7 +3,7 @@ title: ObjLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for wavefront obj
 type: docs
-weight: 104
+weight: 105
 url: /java/com.aspose.threed/objloadoptions/
 ---
 
@@ -347,7 +347,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

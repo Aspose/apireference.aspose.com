@@ -3,7 +3,7 @@ title: ITextureDecoder
 second_title: Aspose.3D for Java API Reference
 description: External texture decoder should implement this interface for decoding.
 type: docs
-weight: 239
+weight: 240
 url: /java/com.aspose.threed/itexturedecoder/
 ---
 ```

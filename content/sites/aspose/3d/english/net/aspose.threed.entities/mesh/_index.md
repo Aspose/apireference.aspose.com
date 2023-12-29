@@ -3,7 +3,7 @@ title: Mesh
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 450
+weight: 480
 url: /net/aspose.threed.entities/mesh/
 ---
 ## Mesh class
@@ -48,6 +48,7 @@ public class Mesh : Geometry, IEnumerable<int[]>, IMeshConvertible
 
 | Name | Description |
 | --- | --- |
+| static [DoBoolean](../../aspose.threed.entities/mesh/doboolean)(BooleanOperation, Mesh, Matrix4?, Mesh, Matrix4?) |  |
 | [AddElement](../../aspose.threed.entities/geometry/addelement)(VertexElement) | Adds an existing vertex element to current geometry |
 | [CreateElement](../../aspose.threed.entities/geometry/createelement)(VertexElementType) | Creates a vertex element with specified type and add it to the geometry. |
 | [CreateElement](../../aspose.threed.entities/geometry/createelement)(VertexElementType, MappingMode, ReferenceMode) | Creates a vertex element with specified type and add it to the geometry. |
@@ -66,10 +67,14 @@ public class Mesh : Geometry, IEnumerable<int[]>, IMeshConvertible
 | [GetPolygonSize](../../aspose.threed.entities/mesh/getpolygonsize)(int) | Gets the vertex count of the specified polygon. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
 | [GetVertexElementOfUV](../../aspose.threed.entities/geometry/getvertexelementofuv)(TextureMapping) | Gets a [`VertexElementUV`](../vertexelementuv) instance with given texture mapping type |
+| [Optimize](../../aspose.threed.entities/mesh/optimize)(bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 | [ToMesh](../../aspose.threed.entities/mesh/tomesh)() | Gets the Mesh instance from current entity. |
+| [operator &amp;](../../aspose.threed.entities/mesh/op_bitwiseand) | Calculate the intersection of two meshes |
+| [operator &#x7C;](../../aspose.threed.entities/mesh/op_bitwiseor) | Calculate the union of two meshes |
+| [operator -](../../aspose.threed.entities/mesh/op_subtraction) | Calculate the difference of two meshes |
 
 ### Examples
 

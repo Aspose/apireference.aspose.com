@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/
+url: /aspose.threed.entities/
 is_root: false
 ---
 
@@ -77,6 +77,7 @@ All geometry and entities are defined in this namespace
 | Enumeration | Description |
 | :- | :- |
 | [`ApertureMode`](/3d/python-net/aspose.threed.entities/aperturemode) | Camera aperture modes.<br/>The aperture mode determines which values drive the camera aperture. <br/>If the aperture mode is HorizAndVert, Horizontal, or Vertical, then the field of view is used. <br/>If the aperture mode is FocalLength, then the focal length is used. |
+| [`BooleanOperation`](/3d/python-net/aspose.threed.entities/booleanoperation) | Mesh's Boolean operation |
 | [`CurveDimension`](/3d/python-net/aspose.threed.entities/curvedimension) | The dimension of the curves. |
 | [`LightType`](/3d/python-net/aspose.threed.entities/lighttype) | Light types. |
 | [`MappingMode`](/3d/python-net/aspose.threed.entities/mappingmode) | Determines how the element is mapped to a surface. <br/>The [`MappingMode`](/3d/python-net/aspose.threed.entities/mappingmode) defined how [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) is mapped to the surface of geometry. |

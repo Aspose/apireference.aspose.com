@@ -3,7 +3,7 @@ title: CompareFunction
 second_title: Aspose.3D for Java API Reference
 description: The compare function used in depth/stencil testing.
 type: docs
-weight: 251
+weight: 254
 url: /java/com.aspose.threed/comparefunction/
 ---
 
@@ -278,7 +278,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

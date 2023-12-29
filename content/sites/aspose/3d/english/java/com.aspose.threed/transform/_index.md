@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.3D for Java API Reference
 description: A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost This is used by local transform.
 type: docs
-weight: 176
+weight: 177
 url: /java/com.aspose.threed/transform/
 ---
 
@@ -31,7 +31,12 @@ A transform contains information that allow access to object's translate/scale/r
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
 | [getRotation()](#getRotation--) | Gets the rotation represented in quaternion. |
+| [getRotationOffset()](#getRotationOffset--) | Gets the rotation offset |
+| [getRotationPivot()](#getRotationPivot--) | Gets the rotation pivot |
 | [getScale()](#getScale--) | Gets the scale |
+| [getScaling()](#getScaling--) | Gets the scaling |
+| [getScalingOffset()](#getScalingOffset--) | Gets the scaling offset |
+| [getScalingPivot()](#getScalingPivot--) | Gets the scaling pivot |
 | [getTransformMatrix()](#getTransformMatrix--) | Gets the transform matrix. |
 | [getTranslation()](#getTranslation--) | Gets the translation |
 | [hashCode()](#hashCode--) |  |
@@ -55,8 +60,13 @@ A transform contains information that allow access to object's translate/scale/r
 | [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
 | [setRotation(Quaternion value)](#setRotation-com.aspose.threed.Quaternion-) | Sets the rotation represented in quaternion. |
 | [setRotation(double rw, double rx, double ry, double rz)](#setRotation-double-double-double-double-) | Sets the rotation(as quaternion components) of current transform. |
+| [setRotationOffset(Vector3 value)](#setRotationOffset-com.aspose.threed.Vector3-) | Sets the rotation offset |
+| [setRotationPivot(Vector3 value)](#setRotationPivot-com.aspose.threed.Vector3-) | Sets the rotation pivot |
 | [setScale(Vector3 value)](#setScale-com.aspose.threed.Vector3-) | Sets the scale |
 | [setScale(double sx, double sy, double sz)](#setScale-double-double-double-) | Sets the scale of current transform. |
+| [setScaling(Vector3 value)](#setScaling-com.aspose.threed.Vector3-) | Sets the scaling |
+| [setScalingOffset(Vector3 value)](#setScalingOffset-com.aspose.threed.Vector3-) | Sets the scaling offset |
+| [setScalingPivot(Vector3 value)](#setScalingPivot-com.aspose.threed.Vector3-) | Sets the scaling pivot |
 | [setTransformMatrix(Matrix4 value)](#setTransformMatrix-com.aspose.threed.Matrix4-) | Sets the transform matrix. |
 | [setTranslation(Vector3 value)](#setTranslation-com.aspose.threed.Vector3-) | Sets the translation |
 | [setTranslation(double tx, double ty, double tz)](#setTranslation-double-double-double-) | Sets the translation of current transform. |
@@ -209,6 +219,26 @@ Gets the rotation represented in quaternion.
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion)
+### getRotationOffset() {#getRotationOffset--}
+```
+public Vector3 getRotationOffset()
+```
+
+
+Gets the rotation offset
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getRotationPivot() {#getRotationPivot--}
+```
+public Vector3 getRotationPivot()
+```
+
+
+Gets the rotation pivot
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
 ### getScale() {#getScale--}
 ```
 public Vector3 getScale()
@@ -216,6 +246,36 @@ public Vector3 getScale()
 
 
 Gets the scale
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getScaling() {#getScaling--}
+```
+public Vector3 getScaling()
+```
+
+
+Gets the scaling
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getScalingOffset() {#getScalingOffset--}
+```
+public Vector3 getScalingOffset()
+```
+
+
+Gets the scaling offset
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getScalingPivot() {#getScalingPivot--}
+```
+public Vector3 getScalingPivot()
+```
+
+
+Gets the scaling pivot
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -533,6 +593,32 @@ Sets the rotation(as quaternion components) of current transform.
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
+### setRotationOffset(Vector3 value) {#setRotationOffset-com.aspose.threed.Vector3-}
+```
+public void setRotationOffset(Vector3 value)
+```
+
+
+Sets the rotation offset
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
+### setRotationPivot(Vector3 value) {#setRotationPivot-com.aspose.threed.Vector3-}
+```
+public void setRotationPivot(Vector3 value)
+```
+
+
+Sets the rotation pivot
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
 ### setScale(Vector3 value) {#setScale-com.aspose.threed.Vector3-}
 ```
 public void setScale(Vector3 value)
@@ -563,6 +649,45 @@ Sets the scale of current transform.
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
+### setScaling(Vector3 value) {#setScaling-com.aspose.threed.Vector3-}
+```
+public void setScaling(Vector3 value)
+```
+
+
+Sets the scaling
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
+### setScalingOffset(Vector3 value) {#setScalingOffset-com.aspose.threed.Vector3-}
+```
+public void setScalingOffset(Vector3 value)
+```
+
+
+Sets the scaling offset
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
+### setScalingPivot(Vector3 value) {#setScalingPivot-com.aspose.threed.Vector3-}
+```
+public void setScalingPivot(Vector3 value)
+```
+
+
+Sets the scaling pivot
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
 ### setTransformMatrix(Matrix4 value) {#setTransformMatrix-com.aspose.threed.Matrix4-}
 ```
 public void setTransformMatrix(Matrix4 value)
@@ -626,7 +751,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

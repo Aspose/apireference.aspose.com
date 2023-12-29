@@ -3,7 +3,7 @@ title: PlySaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1300
+weight: 1330
 url: /net/aspose.threed.formats/plysaveoptions/
 ---
 ## PlySaveOptions class
@@ -25,6 +25,7 @@ public class PlySaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
+| [AxisSystem](../../aspose.threed.formats/plysaveoptions/axissystem) { get; set; } | Gets or sets the axis system in the exported stl file. |
 | [ColorComponents](../../aspose.threed.formats/plysaveoptions/colorcomponents) { get; set; } | The component names for vertex color, default value is ("red", "green", "blue") |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
 | [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |

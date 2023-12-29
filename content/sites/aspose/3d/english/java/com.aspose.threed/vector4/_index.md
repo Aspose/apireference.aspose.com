@@ -3,7 +3,7 @@ title: Vector4
 second_title: Aspose.3D for Java API Reference
 description: A vector with four components.
 type: docs
-weight: 189
+weight: 190
 url: /java/com.aspose.threed/vector4/
 ---
 
@@ -386,7 +386,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

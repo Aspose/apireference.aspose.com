@@ -3,7 +3,7 @@ title: Viewport
 second_title: Aspose.3D for Java API Reference
 description: A  contains at least one viewport for rendering the scene.
 type: docs
-weight: 214
+weight: 215
 url: /java/com.aspose.threed/viewport/
 ---
 
@@ -270,7 +270,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

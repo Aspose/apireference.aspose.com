@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /python-net/aspose.threed.entities/mesh/
+url: /aspose.threed.entities/mesh/
 is_root: false
 ---
 
@@ -77,6 +77,11 @@ The Mesh type exposes the following members:
 | [add_element](/3d/python-net/aspose.threed.entities/mesh/add_element/#aspose.threed.entities.VertexElement) | Adds an existing vertex element to current geometry |
 | [get_polygon_size](/3d/python-net/aspose.threed.entities/mesh/get_polygon_size/#int) | Gets the vertex count of the specified polygon. |
 | [to_mesh](/3d/python-net/aspose.threed.entities/mesh/to_mesh/#) | Gets the Mesh instance from current entity. |
+| [do_boolean](/3d/python-net/aspose.threed.entities/mesh/do_boolean/#aspose.threed.entities.BooleanOperation-aspose.threed.entities.Mesh-Nullable<Aspose.ThreeD.Utilities.Matrix4>-aspose.threed.entities.Mesh-Nullable<Aspose.ThreeD.Utilities.Matrix4>) |  |
+| [union](/3d/python-net/aspose.threed.entities/mesh/union/#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh) | Calculate the union of two meshes |
+| [difference](/3d/python-net/aspose.threed.entities/mesh/difference/#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh) | Calculate the difference of two meshes |
+| [intersect](/3d/python-net/aspose.threed.entities/mesh/intersect/#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh) | Calculate the intersection of two meshes |
+| [optimize](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
 
 
 

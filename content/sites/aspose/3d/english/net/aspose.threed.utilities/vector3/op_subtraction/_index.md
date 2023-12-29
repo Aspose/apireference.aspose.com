@@ -3,7 +3,7 @@ title: op_Subtraction
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.threed.utilities/vector3/op_subtraction/
 ---
 ## Vector3 UnaryNegation operator (1 of 2)

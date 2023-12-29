@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed/assetinfo/
+url: /aspose.threed/assetinfo/
 is_root: false
 ---
 
@@ -51,8 +51,10 @@ The AssetInfo type exposes the following members:
 | [comment](/3d/python-net/aspose.threed/assetinfo/comment) | Gets or sets the comment of this asset. |
 | [unit_name](/3d/python-net/aspose.threed/assetinfo/unit_name) | Gets or sets the unit of length used in this asset.<br/>e.g. cm/m/km/inch/feet |
 | [unit_scale_factor](/3d/python-net/aspose.threed/assetinfo/unit_scale_factor) | Gets or sets the scale factor to real-world meter. |
-| [coordinated_system](/3d/python-net/aspose.threed/assetinfo/coordinated_system) | Gets or sets the coordinate system used in this asset. |
+| [coordinate_system](/3d/python-net/aspose.threed/assetinfo/coordinate_system) | Gets or sets the coordinate system used in this asset. |
 | [up_vector](/3d/python-net/aspose.threed/assetinfo/up_vector) | Gets or sets the up-vector used in this asset. |
+| [front_vector](/3d/python-net/aspose.threed/assetinfo/front_vector) | Gets or sets the front-vector used in this asset. |
+| [axis_system](/3d/python-net/aspose.threed/assetinfo/axis_system) | Gets or sets the coordinate system/up vector/front vector of the asset info. |
 
 
 ### Methods

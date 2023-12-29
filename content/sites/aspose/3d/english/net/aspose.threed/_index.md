@@ -14,6 +14,7 @@ The base namespace of Aspose.3D
 | --- | --- |
 | [A3DObject](./a3dobject) | The base class of all Aspose.ThreeD objects, all sub classes will support dynamic properties. |
 | [AssetInfo](./assetinfo) | Information of asset. Asset information can be attached to a [`Scene`](../aspose.threed/scene). Child [`Scene`](../aspose.threed/scene) can have its own [`AssetInfo`](../aspose.threed/assetinfo) to override parent's definition. |
+| [AxisSystem](./axissystem) | Axis system is an combination of coordinate system, up vector and front vector. |
 | [BonePose](./bonepose) | The [`BonePose`](../aspose.threed/bonepose) contains the transformation matrix for a bone node |
 | [CustomObject](./customobject) | Meta data or custom objects used in 3D files are managed by this class. All custom properties are saved as dynamic properties. |
 | [Entity](./entity) | The base class of all entities. Entity represents a concrete object that attached under a node like [`Light`](../aspose.threed.entities/light)/[`Geometry`](../aspose.threed.entities/geometry). |
@@ -44,7 +45,7 @@ The base namespace of Aspose.3D
 | Enumeration | Description |
 | --- | --- |
 | [Axis](./axis) | The coordinate axis. |
-| [CoordinatedSystem](./coordinatedsystem) | The left handed or right handed coordinate system. |
+| [CoordinateSystem](./coordinatesystem) | The left handed or right handed coordinate system. |
 | [FileContentType](./filecontenttype) | File content type |
 | [PoseType](./posetype) | Pose type. |
 | [PropertyFlags](./propertyflags) | Property's flags |

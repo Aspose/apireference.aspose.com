@@ -3,7 +3,7 @@ title: GlobalTransform
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1410
+weight: 1440
 url: /net/aspose.threed/globaltransform/
 ---
 ## GlobalTransform class

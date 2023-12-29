@@ -3,7 +3,7 @@ title: FVector3
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2570
+weight: 2600
 url: /net/aspose.threed.utilities/fvector3/
 ---
 ## FVector3 structure
@@ -22,6 +22,13 @@ public struct FVector3
 | [FVector3](fvector3)(Vector4) | Initializes a new instance of the [`FVector4`](../fvector4). |
 | [FVector3](fvector3)(float, float, float) | Initializes a new instance of the [`FVector3`](../fvector3). |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| static [One](../../aspose.threed.utilities/fvector3/one) { get; } | The unit scale vector with all components are all 1 |
+| static [Zero](../../aspose.threed.utilities/fvector3/zero) { get; } | The Zero vector. |
+
 ## Methods
 
 | Name | Description |
@@ -38,11 +45,9 @@ public struct FVector3
 
 | Name | Description |
 | --- | --- |
-| static readonly [UnitScale](../../aspose.threed.utilities/fvector3/unitscale) | The unit scale vector with all components are all 1 |
-| static readonly [Zero](../../aspose.threed.utilities/fvector3/zero) | The Zero vector. |
-| [x](../../aspose.threed.utilities/fvector3/x) | The x component. |
-| [y](../../aspose.threed.utilities/fvector3/y) | The y component. |
-| [z](../../aspose.threed.utilities/fvector3/z) | The y component. |
+| [X](../../aspose.threed.utilities/fvector3/x) | The x component. |
+| [Y](../../aspose.threed.utilities/fvector3/y) | The y component. |
+| [Z](../../aspose.threed.utilities/fvector3/z) | The y component. |
 
 ### See Also
 

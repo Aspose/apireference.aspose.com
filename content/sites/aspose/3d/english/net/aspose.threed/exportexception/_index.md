@@ -3,7 +3,7 @@ title: ExportException
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 980
+weight: 1010
 url: /net/aspose.threed/exportexception/
 ---
 ## ExportException class

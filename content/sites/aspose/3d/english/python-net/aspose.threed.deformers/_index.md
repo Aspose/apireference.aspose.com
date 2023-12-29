@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.deformers/
+url: /aspose.threed.deformers/
 is_root: false
 ---
 
@@ -18,5 +18,11 @@ All deformer classes are defined in this namespace
 | [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) | A MorphTargetChannel is used by [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) to organize the target geometries.<br/>Some file formats like FBX support multiple channels in parallel. |
 | [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) | MorphTargetDeformer provides per-vertex animation.<br/>MorphTargetDeformer organize all targets via [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel), each channel can organize multiple targets.<br/>A common use of morph target deformer is to apply facial expression to a character.<br/>More details can be found at https://en.wikipedia.org/wiki/Morph_target_animation |
 | [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) | A skin deformer contains multiple bones to work, each bone blends a part of the geometry by control point's weights. |
+
+
+### Enumerations
+| Enumeration | Description |
+| :- | :- |
+| [`BoneLinkMode`](/3d/python-net/aspose.threed.deformers/bonelinkmode) | A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure. |
 
 

@@ -11,11 +11,12 @@ url: /net/aspose.threed.animation/animationnode/findbindpoint/
 Finds the bind point by name.
 
 ```csharp
-public BindPoint FindBindPoint(string name)
+public BindPoint FindBindPoint(A3DObject target, string name)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
+| target | A3DObject | Bind point's target to find. |
 | name | String | Bind point's name to find. |
 
 ### Return Value
@@ -25,6 +26,7 @@ The bind point.
 ### See Also
 
 * class [BindPoint](../../bindpoint)
+* class [A3DObject](../../../aspose.threed/a3dobject)
 * class [AnimationNode](../../animationnode)
 * namespace [Aspose.ThreeD.Animation](../../animationnode)
 * assembly [Aspose.3D](../../../)

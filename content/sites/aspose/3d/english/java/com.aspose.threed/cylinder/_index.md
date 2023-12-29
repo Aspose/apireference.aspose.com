@@ -3,7 +3,7 @@ title: Cylinder
 second_title: Aspose.3D for Java API Reference
 description: Parameterized Cylinder.
 type: docs
-weight: 36
+weight: 37
 url: /java/com.aspose.threed/cylinder/
 ---
 
@@ -778,7 +778,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

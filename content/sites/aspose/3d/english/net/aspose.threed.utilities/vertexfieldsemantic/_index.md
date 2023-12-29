@@ -3,7 +3,7 @@ title: VertexFieldSemantic
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2800
+weight: 2830
 url: /net/aspose.threed.utilities/vertexfieldsemantic/
 ---
 ## VertexFieldSemantic enumeration

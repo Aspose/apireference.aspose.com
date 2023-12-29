@@ -30,10 +30,12 @@ public class AssetInfo : A3DObject
 | [ApplicationVendor](../../aspose.threed/assetinfo/applicationvendor) { get; set; } | Gets or sets the application vendor's name |
 | [ApplicationVersion](../../aspose.threed/assetinfo/applicationversion) { get; set; } | Gets or sets the version of the application that created this asset. |
 | [Author](../../aspose.threed/assetinfo/author) { get; set; } | Gets or sets the author of this asset |
+| [AxisSystem](../../aspose.threed/assetinfo/axissystem) { get; set; } | Gets or sets the coordinate system/up vector/front vector of the asset info. |
 | [Comment](../../aspose.threed/assetinfo/comment) { get; set; } | Gets or sets the comment of this asset. |
-| [CoordinatedSystem](../../aspose.threed/assetinfo/coordinatedsystem) { get; set; } | Gets or sets the coordinate system used in this asset. |
+| [CoordinateSystem](../../aspose.threed/assetinfo/coordinatesystem) { get; set; } | Gets or sets the coordinate system used in this asset. |
 | [Copyright](../../aspose.threed/assetinfo/copyright) { get; set; } | Gets or sets the document's copyright |
 | [CreationTime](../../aspose.threed/assetinfo/creationtime) { get; set; } | Gets or Sets the creation time of this asset |
+| [FrontVector](../../aspose.threed/assetinfo/frontvector) { get; set; } | Gets or sets the front-vector used in this asset. |
 | [Keywords](../../aspose.threed/assetinfo/keywords) { get; set; } | Gets or sets the keywords of this asset |
 | [ModificationTime](../../aspose.threed/assetinfo/modificationtime) { get; set; } | Gets or Sets the modification time of this asset |
 | virtual [Name](../../aspose.threed/a3dobject/name) { get; set; } | Gets or sets the name. |

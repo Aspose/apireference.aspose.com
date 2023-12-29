@@ -3,7 +3,7 @@ title: ShaderMaterial
 second_title: Aspose.3D for Java API Reference
 description: A shader material allows to describe the material by external rendering engine or shader language.
 type: docs
-weight: 153
+weight: 154
 url: /java/com.aspose.threed/shadermaterial/
 ---
 
@@ -342,7 +342,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

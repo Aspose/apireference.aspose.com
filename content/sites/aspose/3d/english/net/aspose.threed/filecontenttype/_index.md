@@ -3,7 +3,7 @@ title: FileContentType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 990
+weight: 1020
 url: /net/aspose.threed/filecontenttype/
 ---
 ## FileContentType enumeration

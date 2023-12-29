@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.utilities/memoryfilesystem/file_names/
+url: /aspose.threed.utilities/memoryfilesystem/file_names/
 is_root: false
 ---
 

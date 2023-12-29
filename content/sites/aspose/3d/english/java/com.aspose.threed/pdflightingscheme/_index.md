@@ -3,7 +3,7 @@ title: PdfLightingScheme
 second_title: Aspose.3D for Java API Reference
 description: LightingScheme specifies the lighting to apply to 3D artwork.
 type: docs
-weight: 268
+weight: 271
 url: /java/com.aspose.threed/pdflightingscheme/
 ---
 
@@ -314,7 +314,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

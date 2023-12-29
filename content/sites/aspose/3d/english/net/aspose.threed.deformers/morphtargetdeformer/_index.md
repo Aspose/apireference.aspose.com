@@ -3,7 +3,7 @@ title: MorphTargetDeformer
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.threed.deformers/morphtargetdeformer/
 ---
 ## MorphTargetDeformer class

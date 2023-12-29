@@ -3,7 +3,7 @@ title: SetScale
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 220
 url: /net/aspose.threed/transform/setscale/
 ---
 ## Transform.SetScale method

@@ -3,7 +3,7 @@ title: DracoFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1090
+weight: 1120
 url: /net/aspose.threed.formats/dracoformat/
 ---
 ## DracoFormat class

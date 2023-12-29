@@ -3,7 +3,7 @@ title: RevolvedAreaSolid
 second_title: Aspose.3D for Java API Reference
 description: This class represents a solid model by revolving a cross section provided by a profile about an axis.
 type: docs
-weight: 144
+weight: 145
 url: /java/com.aspose.threed/revolvedareasolid/
 ---
 
@@ -457,7 +457,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: RotationOrder
 second_title: Aspose.3D for Java API Reference
 description: The order controls which rx ry rz are applied in the transformation matrix.
 type: docs
-weight: 280
+weight: 283
 url: /java/com.aspose.threed/rotationorder/
 ---
 
@@ -260,7 +260,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

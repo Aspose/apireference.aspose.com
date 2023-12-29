@@ -21,6 +21,9 @@ public enum Axis
 | XAxis | `0` | The X axis. |
 | YAxis | `1` | The Y axis. |
 | ZAxis | `2` | The Z axis. |
+| NegativeXAxis | `3` | The -X axis. |
+| NegativeYAxis | `4` | The -Y axis. |
+| NegativeZAxis | `5` | The -Z axis. |
 
 ### See Also
 

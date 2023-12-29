@@ -3,7 +3,7 @@ title: FrontFace
 second_title: Aspose.3D for Java API Reference
 description: Define front- and back-facing polygons
 type: docs
-weight: 260
+weight: 263
 url: /java/com.aspose.threed/frontface/
 ---
 
@@ -224,7 +224,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

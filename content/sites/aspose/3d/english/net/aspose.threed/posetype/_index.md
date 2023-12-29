@@ -3,7 +3,7 @@ title: PoseType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1500
+weight: 1530
 url: /net/aspose.threed/posetype/
 ---
 ## PoseType enumeration

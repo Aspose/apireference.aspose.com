@@ -3,7 +3,7 @@ title: Extension
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 490
+weight: 510
 url: /net/aspose.threed/fileformat/extension/
 ---
 ## FileFormat.Extension property

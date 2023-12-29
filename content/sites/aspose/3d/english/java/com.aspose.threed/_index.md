@@ -20,6 +20,7 @@ url: /java/com.aspose.threed/
 | [AnimationNode](../com.aspose.threed/animationnode) | Aspose.3D's supports animation hierarchy, each animation can be composed by several animations and animation's key-frame definition. |
 | [ArbitraryProfile](../com.aspose.threed/arbitraryprofile) | This class allows you to construct a 2D profile directly from arbitrary curve. |
 | [AssetInfo](../com.aspose.threed/assetinfo) | Information of asset. |
+| [AxisSystem](../com.aspose.threed/axissystem) | Axis system is an combination of coordinate system, up vector and front vector. |
 | [BindPoint](../com.aspose.threed/bindpoint) | A [BindPoint](../com.aspose.threed/bindpoint) is usually created on an object's property, some property types contains multiple component fields(like a Vector3 field), [BindPoint](../com.aspose.threed/bindpoint) will generate channel for each component field and connects the field to one or more keyframe sequence instance(s) through the channels. |
 | [Bone](../com.aspose.threed/bone) | A bone defines the subset of the geometry's control point, and defined blend weight for each control point. |
 | [BonePose](../com.aspose.threed/bonepose) | The [BonePose](../com.aspose.threed/bonepose) contains the transformation matrix for a bone node |
@@ -262,11 +263,13 @@ url: /java/com.aspose.threed/
 | [ApertureMode](../com.aspose.threed/aperturemode) | Camera aperture modes. |
 | [Axis](../com.aspose.threed/axis) | The coordinate axis. |
 | [BlendFactor](../com.aspose.threed/blendfactor) | Blend factor specify pixel arithmetic. |
+| [BoneLinkMode](../com.aspose.threed/bonelinkmode) | A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure. |
+| [BooleanOperation](../com.aspose.threed/booleanoperation) | Mesh's Boolean operation |
 | [BoundingBoxExtent](../com.aspose.threed/boundingboxextent) | The extent of the bounding box |
 | [ColladaTransformStyle](../com.aspose.threed/colladatransformstyle) | The node's transformation style of node |
 | [CompareFunction](../com.aspose.threed/comparefunction) | The compare function used in depth/stencil testing. |
 | [ComposeOrder](../com.aspose.threed/composeorder) | The order to compose transform matrix |
-| [CoordinatedSystem](../com.aspose.threed/coordinatedsystem) | The left handed or right handed coordinate system. |
+| [CoordinateSystem](../com.aspose.threed/coordinatesystem) | The left handed or right handed coordinate system. |
 | [CubeFace](../com.aspose.threed/cubeface) | Each face of the cube map texture |
 | [CurveDimension](../com.aspose.threed/curvedimension) | The dimension of the curves. |
 | [DracoCompressionLevel](../com.aspose.threed/dracocompressionlevel) | Compression level for draco file |

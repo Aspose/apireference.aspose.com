@@ -3,7 +3,7 @@ title: Text
 second_title: Aspose.3D for Java API Reference
 description: Text profile this profile describes contours using font and text.
 type: docs
-weight: 169
+weight: 170
 url: /java/com.aspose.threed/text/
 ---
 
@@ -393,7 +393,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

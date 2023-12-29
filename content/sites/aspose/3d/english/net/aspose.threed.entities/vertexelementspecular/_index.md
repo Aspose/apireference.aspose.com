@@ -3,7 +3,7 @@ title: VertexElementSpecular
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 860
+weight: 890
 url: /net/aspose.threed.entities/vertexelementspecular/
 ---
 ## VertexElementSpecular class

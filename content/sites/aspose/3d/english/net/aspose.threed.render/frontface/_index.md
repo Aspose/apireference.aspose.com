@@ -3,7 +3,7 @@ title: FrontFace
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1830
+weight: 1860
 url: /net/aspose.threed.render/frontface/
 ---
 ## FrontFace enumeration

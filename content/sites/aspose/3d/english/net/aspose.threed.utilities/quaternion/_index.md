@@ -3,7 +3,7 @@ title: Quaternion
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2670
+weight: 2700
 url: /net/aspose.threed.utilities/quaternion/
 ---
 ## Quaternion structure
@@ -57,10 +57,10 @@ public struct Quaternion
 | Name | Description |
 | --- | --- |
 | static readonly [Identity](../../aspose.threed.utilities/quaternion/identity) | The Identity quaternion. |
-| [w](../../aspose.threed.utilities/quaternion/w) | The w component. |
-| [x](../../aspose.threed.utilities/quaternion/x) | The x component. |
-| [y](../../aspose.threed.utilities/quaternion/y) | The y component. |
-| [z](../../aspose.threed.utilities/quaternion/z) | The z component. |
+| [W](../../aspose.threed.utilities/quaternion/w) | The w component. |
+| [X](../../aspose.threed.utilities/quaternion/x) | The x component. |
+| [Y](../../aspose.threed.utilities/quaternion/y) | The y component. |
+| [Z](../../aspose.threed.utilities/quaternion/z) | The z component. |
 
 ### See Also
 

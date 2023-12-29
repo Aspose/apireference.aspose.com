@@ -3,7 +3,7 @@ title: EllipseShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1540
+weight: 1570
 url: /net/aspose.threed.profiles/ellipseshape/
 ---
 ## EllipseShape class

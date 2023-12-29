@@ -3,7 +3,7 @@ title: PhongMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for blinn-phong shading model.
 type: docs
-weight: 115
+weight: 116
 url: /java/com.aspose.threed/phongmaterial/
 ---
 
@@ -581,7 +581,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

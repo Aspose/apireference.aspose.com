@@ -3,8 +3,8 @@ title: Transform class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /python-net/aspose.threed/transform/
+weight: 220
+url: /aspose.threed/transform/
 is_root: false
 ---
 
@@ -32,7 +32,12 @@ The Transform type exposes the following members:
 | [geometric_rotation](/3d/python-net/aspose.threed/transform/geometric_rotation) | Gets or sets the geometric Euler rotation(measured in degree). <br/>Geometric transformation only affects the entities attached and leave the child nodes unaffected.<br/>It will be merged as local transformation when you export the geometric transformation to file types that does not support it. |
 | [translation](/3d/python-net/aspose.threed/transform/translation) | Gets or sets the translation |
 | [scale](/3d/python-net/aspose.threed/transform/scale) | Gets or sets the scale |
+| [scaling](/3d/python-net/aspose.threed/transform/scaling) | Gets or sets the scaling |
+| [scaling_offset](/3d/python-net/aspose.threed/transform/scaling_offset) | Gets or sets the scaling offset |
+| [scaling_pivot](/3d/python-net/aspose.threed/transform/scaling_pivot) | Gets or sets the scaling pivot |
 | [pre_rotation](/3d/python-net/aspose.threed/transform/pre_rotation) | Gets or sets the pre-rotation represented in degree |
+| [rotation_offset](/3d/python-net/aspose.threed/transform/rotation_offset) | Gets or sets the rotation offset |
+| [rotation_pivot](/3d/python-net/aspose.threed/transform/rotation_pivot) | Gets or sets the rotation pivot |
 | [post_rotation](/3d/python-net/aspose.threed/transform/post_rotation) | Gets or sets the post-rotation represented in degree |
 | [euler_angles](/3d/python-net/aspose.threed/transform/euler_angles) | Gets or sets the rotation represented in Euler angles, measured in degree |
 | [rotation](/3d/python-net/aspose.threed/transform/rotation) | Gets or sets the rotation represented in quaternion. |

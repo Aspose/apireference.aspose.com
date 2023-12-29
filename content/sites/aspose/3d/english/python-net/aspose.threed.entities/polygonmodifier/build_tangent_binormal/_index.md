@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.entities/polygonmodifier/build_tangent_binormal/
+url: /aspose.threed.entities/polygonmodifier/build_tangent_binormal/
 is_root: false
 ---
 

@@ -3,7 +3,7 @@ title: ObjSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for wavefront obj file
 type: docs
-weight: 105
+weight: 106
 url: /java/com.aspose.threed/objsaveoptions/
 ---
 
@@ -25,6 +25,7 @@ Save options for wavefront obj file
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getApplyUnitScale()](#getApplyUnitScale--) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
+| [getAxisSystem()](#getAxisSystem--) | Gets the axis system in the exported file. |
 | [getClass()](#getClass--) |  |
 | [getEnableMaterials()](#getEnableMaterials--) | Gets whether import/export materials for each object |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
@@ -42,6 +43,7 @@ Save options for wavefront obj file
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setApplyUnitScale(boolean value)](#setApplyUnitScale-boolean-) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
+| [setAxisSystem(AxisSystem value)](#setAxisSystem-com.aspose.threed.AxisSystem-) | Sets the axis system in the exported file. |
 | [setEnableMaterials(boolean value)](#setEnableMaterials-boolean-) | Sets whether import/export materials for each object |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
@@ -90,6 +92,16 @@ Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitS
 
 **Returns:**
 boolean
+### getAxisSystem() {#getAxisSystem--}
+```
+public AxisSystem getAxisSystem()
+```
+
+
+Gets the axis system in the exported file.
+
+**Returns:**
+[AxisSystem](../../com.aspose.threed/axissystem)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -259,6 +271,19 @@ Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitS
 | --- | --- | --- |
 | value | boolean | New value |
 
+### setAxisSystem(AxisSystem value) {#setAxisSystem-com.aspose.threed.AxisSystem-}
+```
+public void setAxisSystem(AxisSystem value)
+```
+
+
+Sets the axis system in the exported file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value |
+
 ### setEnableMaterials(boolean value) {#setEnableMaterials-boolean-}
 ```
 public void setEnableMaterials(boolean value)
@@ -422,7 +447,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

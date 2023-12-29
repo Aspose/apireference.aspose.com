@@ -3,7 +3,7 @@ title: Profile
 second_title: Aspose.3D for Java API Reference
 description: 2D Profile in xy plane
 type: docs
-weight: 127
+weight: 128
 url: /java/com.aspose.threed/profile/
 ---
 
@@ -318,7 +318,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

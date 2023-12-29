@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/discreet3dssaveoptions/duplicated_name_counter_format/
+url: /aspose.threed.formats/discreet3dssaveoptions/duplicated_name_counter_format/
 is_root: false
 ---
 

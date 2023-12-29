@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.formats/rvmsaveoptions/file_note/
+url: /aspose.threed.formats/rvmsaveoptions/file_note/
 is_root: false
 ---
 

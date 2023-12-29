@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2590
+weight: 2620
 url: /net/aspose.threed.utilities/filesystem/
 ---
 ## FileSystem class

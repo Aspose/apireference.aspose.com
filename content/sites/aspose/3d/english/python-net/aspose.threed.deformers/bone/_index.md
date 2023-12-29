@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.deformers/bone/
+url: /aspose.threed.deformers/bone/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The Bone type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.deformers/bone/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.deformers/bone/properties) | Gets the collection of all properties. |
+| [link_mode](/3d/python-net/aspose.threed.deformers/bone/link_mode) | A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure. |
 | [weight_count](/3d/python-net/aspose.threed.deformers/bone/weight_count) | Gets the count of weight, this is automatically extended by [`Bone.set_weight`](/3d/python-net/aspose.threed.deformers/bone/set_weight) |
 | [transform](/3d/python-net/aspose.threed.deformers/bone/transform) | Gets or sets the transform matrix of the node containing the bone. |
 | [bone_transform](/3d/python-net/aspose.threed.deformers/bone/bone_transform) | Gets or sets the transform matrix of the bone. |

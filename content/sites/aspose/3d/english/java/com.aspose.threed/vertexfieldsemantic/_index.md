@@ -3,7 +3,7 @@ title: VertexFieldSemantic
 second_title: Aspose.3D for Java API Reference
 description: The semantic of the vertex field
 type: docs
-weight: 289
+weight: 292
 url: /java/com.aspose.threed/vertexfieldsemantic/
 ---
 
@@ -314,7 +314,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

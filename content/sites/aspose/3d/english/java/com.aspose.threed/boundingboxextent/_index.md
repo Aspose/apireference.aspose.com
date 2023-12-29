@@ -3,7 +3,7 @@ title: BoundingBoxExtent
 second_title: Aspose.3D for Java API Reference
 description: The extent of the bounding box
 type: docs
-weight: 249
+weight: 252
 url: /java/com.aspose.threed/boundingboxextent/
 ---
 
@@ -233,7 +233,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

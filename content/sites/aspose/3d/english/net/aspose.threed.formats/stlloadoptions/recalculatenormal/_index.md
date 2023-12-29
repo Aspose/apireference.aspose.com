@@ -3,7 +3,7 @@ title: RecalculateNormal
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.threed.formats/stlloadoptions/recalculatenormal/
 ---
 ## StlLoadOptions.RecalculateNormal property

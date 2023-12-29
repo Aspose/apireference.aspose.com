@@ -3,8 +3,8 @@ title: PatchDirectionType enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 640
-url: /python-net/aspose.threed.entities/patchdirectiontype/
+weight: 650
+url: /aspose.threed.entities/patchdirectiontype/
 is_root: false
 ---
 

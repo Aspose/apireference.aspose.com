@@ -3,7 +3,7 @@ title: RenderState
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2160
+weight: 2190
 url: /net/aspose.threed.render/renderstate/
 ---
 ## RenderState class

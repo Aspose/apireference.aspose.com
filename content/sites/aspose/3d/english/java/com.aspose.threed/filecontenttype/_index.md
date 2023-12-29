@@ -3,7 +3,7 @@ title: FileContentType
 second_title: Aspose.3D for Java API Reference
 description: File content type
 type: docs
-weight: 259
+weight: 262
 url: /java/com.aspose.threed/filecontenttype/
 ---
 
@@ -224,7 +224,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

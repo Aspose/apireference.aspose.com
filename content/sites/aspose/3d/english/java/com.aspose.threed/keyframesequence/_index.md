@@ -3,7 +3,7 @@ title: KeyframeSequence
 second_title: Aspose.3D for Java API Reference
 description: The sequence of key-frames it describes the transformation of a sampled value over time.
 type: docs
-weight: 82
+weight: 83
 url: /java/com.aspose.threed/keyframesequence/
 ---
 
@@ -338,7 +338,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: Mesh
 second_title: Aspose.3D for Java API Reference
 description: A mesh is made of many n-sided polygons.
 type: docs
-weight: 95
+weight: 96
 url: /java/com.aspose.threed/mesh/
 ---
 
@@ -38,6 +38,8 @@ A mesh is made of many n-sided polygons.
 | [createPolygon(int v1, int v2, int v3, int v4)](#createPolygon-int-int-int-int-) | Create a polygon with 4 vertices(quad) |
 | [createPolygon(int[] indices)](#createPolygon-int---) | Creates a new polygon with all vertices defined in `indices`. |
 | [createPolygon(int[] indices, int offset, int length)](#createPolygon-int---int-int-) | Creates a new polygon with all vertices defined in `indices`. |
+| [difference(Mesh a, Mesh b)](#difference-com.aspose.threed.Mesh-com.aspose.threed.Mesh-) | Calculate the difference of two meshes |
+| [doBoolean(BooleanOperation op, Mesh a, Matrix4 transformA, Mesh b, Matrix4 transformB)](#doBoolean-com.aspose.threed.BooleanOperation-com.aspose.threed.Mesh-com.aspose.threed.Matrix4-com.aspose.threed.Mesh-com.aspose.threed.Matrix4-) | Perform Boolean operation on two meshes |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [getBoundingBox()](#getBoundingBox--) | Gets the bounding box of current entity in its object space coordinate system. |
@@ -63,9 +65,11 @@ A mesh is made of many n-sided polygons.
 | [getVertexElements()](#getVertexElements--) | Gets all vertex elements |
 | [getVisible()](#getVisible--) | Gets if the geometry is visible |
 | [hashCode()](#hashCode--) |  |
+| [intersect(Mesh a, Mesh b)](#intersect-com.aspose.threed.Mesh-com.aspose.threed.Mesh-) | Calculate the intersection of two meshes |
 | [iterator()](#iterator--) | Gets the enumerator for each inner polygons. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [optimize(boolean vertexElements)](#optimize-boolean-) | Optimize the mesh's memory usage by eliminating duplicated control points |
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
 | [setCastShadows(boolean value)](#setCastShadows-boolean-) | Sets whether this geometry can cast shadow |
@@ -77,6 +81,7 @@ A mesh is made of many n-sided polygons.
 | [setVisible(boolean value)](#setVisible-boolean-) | Sets if the geometry is visible |
 | [toMesh()](#toMesh--) | Gets the Mesh instance from current entity. |
 | [toString()](#toString--) |  |
+| [union(Mesh a, Mesh b)](#union-com.aspose.threed.Mesh-com.aspose.threed.Mesh-) | Calculate the union of two meshes |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -257,6 +262,41 @@ Creates a new polygon with all vertices defined in `indices`. To create polygon 
 | offset | int | The offset of the first polygon index |
 | length | int | The length of the indices |
 
+### difference(Mesh a, Mesh b) {#difference-com.aspose.threed.Mesh-com.aspose.threed.Mesh-}
+```
+public static Mesh difference(Mesh a, Mesh b)
+```
+
+
+Calculate the difference of two meshes
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [Mesh](../../com.aspose.threed/mesh) | First mesh |
+| b | [Mesh](../../com.aspose.threed/mesh) | Second mesh |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - Result mesh
+### doBoolean(BooleanOperation op, Mesh a, Matrix4 transformA, Mesh b, Matrix4 transformB) {#doBoolean-com.aspose.threed.BooleanOperation-com.aspose.threed.Mesh-com.aspose.threed.Matrix4-com.aspose.threed.Mesh-com.aspose.threed.Matrix4-}
+```
+public static Mesh doBoolean(BooleanOperation op, Mesh a, Matrix4 transformA, Mesh b, Matrix4 transformB)
+```
+
+
+Perform Boolean operation on two meshes
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| op | [BooleanOperation](../../com.aspose.threed/booleanoperation) | The Boolean operation type. |
+| a | [Mesh](../../com.aspose.threed/mesh) | First mesh to operate. |
+| transformA | [Matrix4](../../com.aspose.threed/matrix4) | Transformation matrix of the first mesh |
+| b | [Mesh](../../com.aspose.threed/mesh) | Second mesh to operate |
+| transformB | [Matrix4](../../com.aspose.threed/matrix4) | Transformation matrix of the second mesh |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - The result mesh
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -329,14 +369,14 @@ Gets all control points
 java.util.List<com.aspose.threed.Vector4>
 ### getDeformers() {#getDeformers--}
 ```
-public Collection<Deformer> getDeformers()
+public List<Deformer> getDeformers()
 ```
 
 
 Gets all deformers associated with this geometry.
 
 **Returns:**
-java.util.Collection<com.aspose.threed.Deformer>
+java.util.List<com.aspose.threed.Deformer>
 ### getEdges() {#getEdges--}
 ```
 public List<Integer> getEdges()
@@ -537,6 +577,22 @@ public native int hashCode()
 
 **Returns:**
 int
+### intersect(Mesh a, Mesh b) {#intersect-com.aspose.threed.Mesh-com.aspose.threed.Mesh-}
+```
+public static Mesh intersect(Mesh a, Mesh b)
+```
+
+
+Calculate the intersection of two meshes
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [Mesh](../../com.aspose.threed/mesh) | First mesh |
+| b | [Mesh](../../com.aspose.threed/mesh) | Second mesh |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - Result mesh
 ### iterator() {#iterator--}
 ```
 public Iterator<int[]> iterator()
@@ -563,6 +619,21 @@ public final native void notifyAll()
 
 
 
+### optimize(boolean vertexElements) {#optimize-boolean-}
+```
+public Mesh optimize(boolean vertexElements)
+```
+
+
+Optimize the mesh's memory usage by eliminating duplicated control points
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vertexElements | boolean | Optimize duplicated vertex element data |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - New mesh instance with compact memory usage
 ### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
 ```
 public boolean removeProperty(Property property)
@@ -705,6 +776,22 @@ public String toString()
 
 **Returns:**
 java.lang.String
+### union(Mesh a, Mesh b) {#union-com.aspose.threed.Mesh-com.aspose.threed.Mesh-}
+```
+public static Mesh union(Mesh a, Mesh b)
+```
+
+
+Calculate the union of two meshes
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [Mesh](../../com.aspose.threed/mesh) | First mesh |
+| b | [Mesh](../../com.aspose.threed/mesh) | Second mesh |
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - Result mesh
 ### wait() {#wait--}
 ```
 public final void wait()
@@ -715,7 +802,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

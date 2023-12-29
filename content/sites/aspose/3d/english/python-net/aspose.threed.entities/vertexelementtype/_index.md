@@ -3,8 +3,8 @@ title: VertexElementType enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 710
-url: /python-net/aspose.threed.entities/vertexelementtype/
+weight: 720
+url: /aspose.threed.entities/vertexelementtype/
 is_root: false
 ---
 

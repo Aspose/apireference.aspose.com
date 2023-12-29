@@ -3,7 +3,7 @@ title: PlySaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for exporting scene as PLY file.
 type: docs
-weight: 120
+weight: 121
 url: /java/com.aspose.threed/plysaveoptions/
 ---
 
@@ -25,6 +25,7 @@ Save options for exporting scene as PLY file.
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAxisSystem()](#getAxisSystem--) | Gets the axis system in the exported stl file. |
 | [getClass()](#getClass--) |  |
 | [getColorComponents()](#getColorComponents--) | The component names for vertex color, default value is ("red", "green", "blue") |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
@@ -45,6 +46,7 @@ Save options for exporting scene as PLY file.
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setAxisSystem(AxisSystem value)](#setAxisSystem-com.aspose.threed.AxisSystem-) | Sets the axis system in the exported stl file. |
 | [setColorComponents(Tuple_3<String,String,String> value)](#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for vertex color, default value is ("red", "green", "blue") |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
@@ -100,6 +102,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getAxisSystem() {#getAxisSystem--}
+```
+public AxisSystem getAxisSystem()
+```
+
+
+Gets the axis system in the exported stl file.
+
+**Returns:**
+[AxisSystem](../../com.aspose.threed/axissystem)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -295,6 +307,19 @@ public final native void notifyAll()
 
 
 
+
+### setAxisSystem(AxisSystem value) {#setAxisSystem-com.aspose.threed.AxisSystem-}
+```
+public void setAxisSystem(AxisSystem value)
+```
+
+
+Sets the axis system in the exported stl file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value |
 
 ### setColorComponents(Tuple_3<String,String,String> value) {#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
 ```
@@ -511,7 +536,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

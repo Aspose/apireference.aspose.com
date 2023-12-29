@@ -3,7 +3,7 @@ title: Circle
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 260
+weight: 290
 url: /net/aspose.threed.entities/circle/
 ---
 ## Circle class

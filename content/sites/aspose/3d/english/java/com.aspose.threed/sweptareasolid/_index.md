@@ -3,7 +3,7 @@ title: SweptAreaSolid
 second_title: Aspose.3D for Java API Reference
 description: A  constructs a geometry by sweeping a profile along a directrix.
 type: docs
-weight: 167
+weight: 168
 url: /java/com.aspose.threed/sweptareasolid/
 ---
 
@@ -432,7 +432,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

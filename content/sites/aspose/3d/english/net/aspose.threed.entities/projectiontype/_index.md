@@ -3,7 +3,7 @@ title: ProjectionType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 610
 url: /net/aspose.threed.entities/projectiontype/
 ---
 ## ProjectionType enumeration

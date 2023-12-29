@@ -3,8 +3,8 @@ title: transform_matrix property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /python-net/aspose.threed/transform/transform_matrix/
+weight: 310
+url: /aspose.threed/transform/transform_matrix/
 is_root: false
 ---
 

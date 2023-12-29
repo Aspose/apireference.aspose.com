@@ -3,7 +3,7 @@ title: Vector2
 second_title: Aspose.3D for Java API Reference
 description: A vector with two components.
 type: docs
-weight: 187
+weight: 188
 url: /java/com.aspose.threed/vector2/
 ---
 
@@ -22,6 +22,7 @@ A vector with two components.
 | Constructor | Description |
 | --- | --- |
 | [Vector2(double s)](#Vector2-double-) | Initializes a new instance of the [Vector2](../../com.aspose.threed/vector2) struct. |
+| [Vector2(Vector3 s)](#Vector2-com.aspose.threed.Vector3-) | Initializes a new instance of the [Vector2](../../com.aspose.threed/vector2) struct. |
 | [Vector2(FVector2 vec)](#Vector2-com.aspose.threed.FVector2-) | Initializes a new instance of the [Vector2](../../com.aspose.threed/vector2) struct. |
 | [Vector2(double x, double y)](#Vector2-double-double-) | Initializes a new instance of the [Vector2](../../com.aspose.threed/vector2) struct. |
 | [Vector2()](#Vector2--) |  |
@@ -76,6 +77,19 @@ Initializes a new instance of the [Vector2](../../com.aspose.threed/vector2) str
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | double | S. |
+
+### Vector2(Vector3 s) {#Vector2-com.aspose.threed.Vector3-}
+```
+public Vector2(Vector3 s)
+```
+
+
+Initializes a new instance of the [Vector2](../../com.aspose.threed/vector2) struct.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| s | [Vector3](../../com.aspose.threed/vector3) | S. |
 
 ### Vector2(FVector2 vec) {#Vector2-com.aspose.threed.FVector2-}
 ```
@@ -473,7 +487,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

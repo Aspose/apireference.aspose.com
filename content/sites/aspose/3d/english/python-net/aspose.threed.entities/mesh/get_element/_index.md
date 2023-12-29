@@ -3,8 +3,8 @@ title: get_element method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /python-net/aspose.threed.entities/mesh/get_element/
+weight: 100
+url: /aspose.threed.entities/mesh/get_element/
 is_root: false
 ---
 

@@ -3,7 +3,7 @@ title: TrimmedCurve
 second_title: Aspose.3D for Java API Reference
 description: A bounded curve that trimmed the basis curve at both ends.
 type: docs
-weight: 182
+weight: 183
 url: /java/com.aspose.threed/trimmedcurve/
 ---
 
@@ -445,7 +445,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: CShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible C-shape profile that defined by parameters.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.threed/cshape/
 ---
 
@@ -456,7 +456,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

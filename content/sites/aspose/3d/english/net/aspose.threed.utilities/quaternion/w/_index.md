@@ -1,17 +1,17 @@
 ---
-title: w
+title: W
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
 weight: 80
 url: /net/aspose.threed.utilities/quaternion/w/
 ---
-## Quaternion.w field
+## Quaternion.W field
 
 The w component.
 
 ```csharp
-public double w;
+public double W;
 ```
 
 ### See Also

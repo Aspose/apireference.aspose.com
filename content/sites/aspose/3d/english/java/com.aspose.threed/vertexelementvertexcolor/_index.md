@@ -3,7 +3,7 @@ title: VertexElementVertexColor
 second_title: Aspose.3D for Java API Reference
 description: Defines the vertex color for specified components
 type: docs
-weight: 208
+weight: 209
 url: /java/com.aspose.threed/vertexelementvertexcolor/
 ---
 
@@ -303,7 +303,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

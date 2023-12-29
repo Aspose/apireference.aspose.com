@@ -3,7 +3,7 @@ title: XText
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 410
+weight: 430
 url: /net/aspose.threed/fileformat/xtext/
 ---
 ## FileFormat.XText field

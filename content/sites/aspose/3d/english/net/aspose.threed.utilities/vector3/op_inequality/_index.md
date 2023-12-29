@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.threed.utilities/vector3/op_inequality/
 ---
 ## Vector3 Inequality operator

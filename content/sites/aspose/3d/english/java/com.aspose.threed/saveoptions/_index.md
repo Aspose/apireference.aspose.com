@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.3D for Java API Reference
 description: The base class to configure options in file saving for different types
 type: docs
-weight: 149
+weight: 150
 url: /java/com.aspose.threed/saveoptions/
 ---
 
@@ -259,7 +259,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

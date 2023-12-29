@@ -3,7 +3,7 @@ title: STLBinary
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.threed/fileformat/stlbinary/
 ---
 ## FileFormat.STLBinary field

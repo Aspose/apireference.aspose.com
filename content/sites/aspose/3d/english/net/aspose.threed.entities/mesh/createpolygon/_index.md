@@ -3,7 +3,7 @@ title: CreatePolygon
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.threed.entities/mesh/createpolygon/
 ---
 ## Mesh.CreatePolygon method (1 of 4)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /python-net/aspose.threed.utilities/vector3/
+url: /aspose.threed.utilities/vector3/
 is_root: false
 ---
 
@@ -31,14 +31,22 @@ The Vector3 type exposes the following members:
 | :- | :- |
 | [length2](/3d/python-net/aspose.threed.utilities/vector3/length2) | Gets the square of the length. |
 | [length](/3d/python-net/aspose.threed.utilities/vector3/length) | Gets the length of this vector. |
-| [x](/3d/python-net/aspose.threed.utilities/vector3/x) | The x component. |
-| [y](/3d/python-net/aspose.threed.utilities/vector3/y) | The y component. |
-| [z](/3d/python-net/aspose.threed.utilities/vector3/z) | The z component. |
+| [zero](/3d/python-net/aspose.threed.utilities/vector3/zero) | Gets unit vector (0, 0, 0) |
+| [one](/3d/python-net/aspose.threed.utilities/vector3/one) | Gets unit vector (1, 1, 1) |
+| [unit_x](/3d/python-net/aspose.threed.utilities/vector3/unit_x) | Gets unit vector (1, 0, 0) |
+| [unit_y](/3d/python-net/aspose.threed.utilities/vector3/unit_y) | Gets unit vector (0, 1, 0) |
+| [unit_z](/3d/python-net/aspose.threed.utilities/vector3/unit_z) | Gets unit vector (0, 0, 1) |
 | [ORIGIN](/3d/python-net/aspose.threed.utilities/vector3/origin) | Gets the origin position. |
 | [UNIT_SCALE](/3d/python-net/aspose.threed.utilities/vector3/unit_scale) | Gets the unit scale vector. |
 | [X_AXIS](/3d/python-net/aspose.threed.utilities/vector3/x_axis) | Gets the X axis. |
 | [Y_AXIS](/3d/python-net/aspose.threed.utilities/vector3/y_axis) | Gets the Y axis. |
 | [Z_AXIS](/3d/python-net/aspose.threed.utilities/vector3/z_axis) | Gets the Z axis. |
+
+
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] |  |
 
 
 ### Methods

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/vector2/__init__/
+url: /aspose.threed.utilities/vector2/__init__/
 is_root: false
 ---
 
@@ -37,6 +37,23 @@ def __init__(self, s):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | s | float | S. |
+
+
+## __init__ {#aspose.threed.utilities.Vector3}
+
+Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct.
+
+
+
+```python
+def __init__(self, s):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| s | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | S. |
 
 
 ## __init__ {#aspose.threed.utilities.FVector2}

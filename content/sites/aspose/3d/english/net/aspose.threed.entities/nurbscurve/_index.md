@@ -3,7 +3,7 @@ title: NurbsCurve
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 460
+weight: 490
 url: /net/aspose.threed.entities/nurbscurve/
 ---
 ## NurbsCurve class

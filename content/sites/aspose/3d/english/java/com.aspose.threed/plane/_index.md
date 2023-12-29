@@ -3,7 +3,7 @@ title: Plane
 second_title: Aspose.3D for Java API Reference
 description: Parameterized plane.
 type: docs
-weight: 117
+weight: 118
 url: /java/com.aspose.threed/plane/
 ---
 
@@ -539,7 +539,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

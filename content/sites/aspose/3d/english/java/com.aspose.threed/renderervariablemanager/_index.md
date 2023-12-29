@@ -3,7 +3,7 @@ title: RendererVariableManager
 second_title: Aspose.3D for Java API Reference
 description: This class manages variables used in rendering
 type: docs
-weight: 143
+weight: 144
 url: /java/com.aspose.threed/renderervariablemanager/
 ---
 
@@ -392,7 +392,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

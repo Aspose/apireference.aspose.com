@@ -3,7 +3,7 @@ title: ITextureCubemap
 second_title: Aspose.3D for Java API Reference
 description: Cube map texture
 type: docs
-weight: 238
+weight: 239
 url: /java/com.aspose.threed/itexturecubemap/
 ---
 

@@ -3,7 +3,7 @@ title: AmfSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1030
+weight: 1060
 url: /net/aspose.threed.formats/amfsaveoptions/
 ---
 ## AmfSaveOptions class

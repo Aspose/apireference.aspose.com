@@ -3,7 +3,7 @@ title: CubeFaceDataT
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1750
+weight: 1780
 url: /net/aspose.threed.render/cubefacedata-1/
 ---
 ## CubeFaceData&lt;T&gt; structure

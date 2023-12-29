@@ -3,8 +3,8 @@ title: MAYA property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /python-net/aspose.threed/fileformattype/maya/
+weight: 140
+url: /aspose.threed/fileformattype/maya/
 is_root: false
 ---
 

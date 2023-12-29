@@ -3,7 +3,7 @@ title: BonePose
 second_title: Aspose.3D for Java API Reference
 description: The  contains the transformation matrix for a bone node
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.threed/bonepose/
 ---
 
@@ -184,7 +184,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

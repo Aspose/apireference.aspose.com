@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /python-net/aspose.threed.utilities/vector2/
+url: /aspose.threed.utilities/vector2/
 is_root: false
 ---
 
@@ -20,6 +20,7 @@ The Vector2 type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#float) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
+| [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#aspose.threed.utilities.Vector3) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
 | [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#aspose.threed.utilities.FVector2) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
 | [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#float-float) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
 | [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#) | Constructs a new instance of Vector2 |
@@ -31,8 +32,6 @@ The Vector2 type exposes the following members:
 | [u](/3d/python-net/aspose.threed.utilities/vector2/u) | Gets or sets the U component if the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) is used as a mapping coordinate.<br/>It's an alias of x component. |
 | [v](/3d/python-net/aspose.threed.utilities/vector2/v) | Gets or sets the V component if the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) is used as a mapping coordinate.<br/>It's an alias of y component. |
 | [length](/3d/python-net/aspose.threed.utilities/vector2/length) | Gets the length. |
-| [x](/3d/python-net/aspose.threed.utilities/vector2/x) | The x component. |
-| [y](/3d/python-net/aspose.threed.utilities/vector2/y) | The y component. |
 
 
 ### Methods

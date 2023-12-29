@@ -3,7 +3,7 @@ title: DracoSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1100
+weight: 1130
 url: /net/aspose.threed.formats/dracosaveoptions/
 ---
 ## DracoSaveOptions class

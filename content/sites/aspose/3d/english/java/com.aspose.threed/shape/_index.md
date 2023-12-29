@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.3D for Java API Reference
 description: The shape describes the deformation on a set of control points which is similar to the cluster deformer in Maya.
 type: docs
-weight: 160
+weight: 161
 url: /java/com.aspose.threed/shape/
 ---
 
@@ -263,14 +263,14 @@ Gets all control points
 java.util.List<com.aspose.threed.Vector4>
 ### getDeformers() {#getDeformers--}
 ```
-public Collection<Deformer> getDeformers()
+public List<Deformer> getDeformers()
 ```
 
 
 Gets all deformers associated with this geometry.
 
 **Returns:**
-java.util.Collection<com.aspose.threed.Deformer>
+java.util.List<com.aspose.threed.Deformer>
 ### getElement(VertexElementType type) {#getElement-com.aspose.threed.VertexElementType-}
 ```
 public VertexElement getElement(VertexElementType type)
@@ -594,7 +594,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

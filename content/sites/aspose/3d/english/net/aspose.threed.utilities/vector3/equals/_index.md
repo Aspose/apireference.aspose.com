@@ -3,7 +3,7 @@ title: Equals
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.threed.utilities/vector3/equals/
 ---
 ## Vector3.Equals method

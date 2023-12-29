@@ -3,7 +3,7 @@ title: DescriptorSetUpdater
 second_title: Aspose.3D for Java API Reference
 description: This class allows to update the  in a chain operation.
 type: docs
-weight: 38
+weight: 39
 url: /java/com.aspose.threed/descriptorsetupdater/
 ---
 
@@ -213,7 +213,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

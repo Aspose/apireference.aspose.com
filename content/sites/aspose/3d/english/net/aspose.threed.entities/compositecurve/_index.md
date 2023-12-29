@@ -3,7 +3,7 @@ title: CompositeCurve
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 270
+weight: 300
 url: /net/aspose.threed.entities/compositecurve/
 ---
 ## CompositeCurve class

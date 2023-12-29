@@ -3,7 +3,7 @@ title: JavaXImageCodec
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 80
+weight: 81
 url: /java/com.aspose.threed/javaximagecodec/
 ---
 
@@ -149,7 +149,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

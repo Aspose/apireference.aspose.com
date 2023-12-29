@@ -3,7 +3,7 @@ title: ParameterizedProfile
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1610
+weight: 1640
 url: /net/aspose.threed.profiles/parameterizedprofile/
 ---
 ## ParameterizedProfile class

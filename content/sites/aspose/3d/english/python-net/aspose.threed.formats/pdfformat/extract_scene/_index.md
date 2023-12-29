@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.formats/pdfformat/extract_scene/
+url: /aspose.threed.formats/pdfformat/extract_scene/
 is_root: false
 ---
 

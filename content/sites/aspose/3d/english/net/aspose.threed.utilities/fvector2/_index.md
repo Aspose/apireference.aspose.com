@@ -3,7 +3,7 @@ title: FVector2
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2560
+weight: 2590
 url: /net/aspose.threed.utilities/fvector2/
 ---
 ## FVector2 structure
@@ -40,8 +40,8 @@ public struct FVector2
 
 | Name | Description |
 | --- | --- |
-| [x](../../aspose.threed.utilities/fvector2/x) | The x component. |
-| [y](../../aspose.threed.utilities/fvector2/y) | The y component. |
+| [X](../../aspose.threed.utilities/fvector2/x) | The x component. |
+| [Y](../../aspose.threed.utilities/fvector2/y) | The y component. |
 
 ### See Also
 

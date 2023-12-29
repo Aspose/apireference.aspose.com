@@ -3,8 +3,8 @@ title: MappingMode enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 620
-url: /python-net/aspose.threed.entities/mappingmode/
+weight: 630
+url: /aspose.threed.entities/mappingmode/
 is_root: false
 ---
 

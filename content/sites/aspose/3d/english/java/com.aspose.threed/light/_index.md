@@ -3,7 +3,7 @@ title: Light
 second_title: Aspose.3D for Java API Reference
 description: The light illuminates the scene.
 type: docs
-weight: 86
+weight: 87
 url: /java/com.aspose.threed/light/
 ---
 
@@ -851,7 +851,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

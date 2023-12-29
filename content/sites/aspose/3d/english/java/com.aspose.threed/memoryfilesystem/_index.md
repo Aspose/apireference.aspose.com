@@ -3,7 +3,7 @@ title: MemoryFileSystem
 second_title: Aspose.3D for Java API Reference
 description: The  will maps the read/write operations to memory.
 type: docs
-weight: 94
+weight: 95
 url: /java/com.aspose.threed/memoryfilesystem/
 ---
 
@@ -163,7 +163,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

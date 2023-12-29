@@ -3,7 +3,7 @@ title: CompareFunction
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1730
+weight: 1760
 url: /net/aspose.threed.render/comparefunction/
 ---
 ## CompareFunction enumeration

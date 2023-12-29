@@ -3,7 +3,7 @@ title: LinearExtrusion
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 430
+weight: 460
 url: /net/aspose.threed.entities/linearextrusion/
 ---
 ## LinearExtrusion class

@@ -3,7 +3,7 @@ title: NurbsType
 second_title: Aspose.3D for Java API Reference
 description: NURBS types.
 type: docs
-weight: 266
+weight: 269
 url: /java/com.aspose.threed/nurbstype/
 ---
 
@@ -233,7 +233,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

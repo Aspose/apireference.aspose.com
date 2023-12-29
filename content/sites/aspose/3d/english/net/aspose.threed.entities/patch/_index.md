@@ -3,7 +3,7 @@ title: Patch
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 500
+weight: 530
 url: /net/aspose.threed.entities/patch/
 ---
 ## Patch class

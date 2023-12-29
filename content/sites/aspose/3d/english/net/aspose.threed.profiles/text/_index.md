@@ -3,7 +3,7 @@ title: Text
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1650
+weight: 1680
 url: /net/aspose.threed.profiles/text/
 ---
 ## Text class

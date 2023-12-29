@@ -3,7 +3,7 @@ title: SplitMeshPolicy
 second_title: Aspose.3D for Java API Reference
 description: Share vertex/control point data between sub-meshes or each sub-mesh has its own compacted data.
 type: docs
-weight: 282
+weight: 285
 url: /java/com.aspose.threed/splitmeshpolicy/
 ---
 
@@ -224,7 +224,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

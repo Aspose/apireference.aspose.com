@@ -3,7 +3,7 @@ title: IRenderWindow
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1930
+weight: 1960
 url: /net/aspose.threed.render/irenderwindow/
 ---
 ## IRenderWindow interface

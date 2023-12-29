@@ -3,7 +3,7 @@ title: Rect
 second_title: Aspose.3D for Java API Reference
 description: A class to represent the rectangle
 type: docs
-weight: 133
+weight: 134
 url: /java/com.aspose.threed/rect/
 ---
 
@@ -315,7 +315,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

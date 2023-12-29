@@ -3,7 +3,7 @@ title: PbrSpecularMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for physically based rendering based on diffuse color/specular/glossiness
 type: docs
-weight: 111
+weight: 112
 url: /java/com.aspose.threed/pbrspecularmaterial/
 ---
 
@@ -551,7 +551,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

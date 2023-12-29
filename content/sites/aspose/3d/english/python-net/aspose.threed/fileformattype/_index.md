@@ -3,8 +3,8 @@ title: FileFormatType class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /python-net/aspose.threed/fileformattype/
+weight: 90
+url: /aspose.threed/fileformattype/
 is_root: false
 ---
 
@@ -40,6 +40,7 @@ The FileFormatType type exposes the following members:
 | [USD](/3d/python-net/aspose.threed/fileformattype/usd) | Universal Scene Description |
 | [PCD](/3d/python-net/aspose.threed/fileformattype/pcd) | Point Cloud Data used by Point Cloud Library |
 | [XYZ](/3d/python-net/aspose.threed/fileformattype/xyz) | Xyz point cloud file |
+| [IFC](/3d/python-net/aspose.threed/fileformattype/ifc) | ISO 16739-1 Industry Foundation Classes data model. |
 | [SIEMENS_JT](/3d/python-net/aspose.threed/fileformattype/siemens_jt) | Siemens PLM Software NX's JT File |
 | [AMF](/3d/python-net/aspose.threed/fileformattype/amf) | Additive manufacturing file format |
 | [VRML](/3d/python-net/aspose.threed/fileformattype/vrml) | The Virtual Reality Modeling Language |

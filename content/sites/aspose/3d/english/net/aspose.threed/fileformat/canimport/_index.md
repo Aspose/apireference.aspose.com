@@ -3,7 +3,7 @@ title: CanImport
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 470
+weight: 490
 url: /net/aspose.threed/fileformat/canimport/
 ---
 ## FileFormat.CanImport property

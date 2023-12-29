@@ -3,7 +3,7 @@ title: IVertexBuffer
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2010
+weight: 2040
 url: /net/aspose.threed.render/ivertexbuffer/
 ---
 ## IVertexBuffer interface

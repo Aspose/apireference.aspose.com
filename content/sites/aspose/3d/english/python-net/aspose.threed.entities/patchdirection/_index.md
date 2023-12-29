@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 230
-url: /python-net/aspose.threed.entities/patchdirection/
+url: /aspose.threed.entities/patchdirection/
 is_root: false
 ---
 

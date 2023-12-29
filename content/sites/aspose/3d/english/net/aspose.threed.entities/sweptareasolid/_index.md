@@ -3,7 +3,7 @@ title: SweptAreaSolid
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 690
+weight: 720
 url: /net/aspose.threed.entities/sweptareasolid/
 ---
 ## SweptAreaSolid class

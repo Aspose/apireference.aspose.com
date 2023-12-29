@@ -3,7 +3,7 @@ title: SetGeometricRotation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 160
 url: /net/aspose.threed/transform/setgeometricrotation/
 ---
 ## Transform.SetGeometricRotation method

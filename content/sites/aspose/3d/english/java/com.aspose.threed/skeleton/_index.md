@@ -3,7 +3,7 @@ title: Skeleton
 second_title: Aspose.3D for Java API Reference
 description: The  is mainly used by CAD software to help designer to manipulate the transformation of skeletal structure its usually useless outside the CAD softwares.
 type: docs
-weight: 161
+weight: 162
 url: /java/com.aspose.threed/skeleton/
 ---
 
@@ -384,7 +384,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

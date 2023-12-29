@@ -3,7 +3,7 @@ title: Watermark
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2810
+weight: 2840
 url: /net/aspose.threed.utilities/watermark/
 ---
 ## Watermark class
@@ -18,7 +18,9 @@ public class Watermark
 
 | Name | Description |
 | --- | --- |
+| static [DecodeWatermark](../../aspose.threed.utilities/watermark/decodewatermark)(Mesh) | Decode the watermark from a mesh |
 | static [DecodeWatermark](../../aspose.threed.utilities/watermark/decodewatermark)(Mesh, string) | Decode the watermark from a mesh |
+| static [EncodeWatermark](../../aspose.threed.utilities/watermark/encodewatermark)(Mesh, string) | Encode a text into mesh' blind watermark. |
 | static [EncodeWatermark](../../aspose.threed.utilities/watermark/encodewatermark)(Mesh, string, string) | Encode a text into mesh' blind watermark. |
 
 ### Examples

@@ -3,7 +3,7 @@ title: Cos
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.threed.utilities/vector3/cos/
 ---
 ## Vector3.Cos method

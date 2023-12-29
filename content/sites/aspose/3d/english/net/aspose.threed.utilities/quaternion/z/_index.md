@@ -1,17 +1,17 @@
 ---
-title: z
+title: Z
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
 weight: 110
 url: /net/aspose.threed.utilities/quaternion/z/
 ---
-## Quaternion.z field
+## Quaternion.Z field
 
 The z component.
 
 ```csharp
-public double z;
+public double Z;
 ```
 
 ### See Also

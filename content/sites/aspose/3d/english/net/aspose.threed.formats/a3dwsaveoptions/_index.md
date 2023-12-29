@@ -3,7 +3,7 @@ title: A3dwSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1020
+weight: 1050
 url: /net/aspose.threed.formats/a3dwsaveoptions/
 ---
 ## A3dwSaveOptions class

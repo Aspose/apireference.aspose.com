@@ -3,7 +3,7 @@ title: FbxSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for Fbx file.
 type: docs
-weight: 60
+weight: 61
 url: /java/com.aspose.threed/fbxsaveoptions/
 ---
 
@@ -466,7 +466,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

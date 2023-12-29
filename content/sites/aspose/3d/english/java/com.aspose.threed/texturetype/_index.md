@@ -3,7 +3,7 @@ title: TextureType
 second_title: Aspose.3D for Java API Reference
 description: The type of the
 type: docs
-weight: 287
+weight: 290
 url: /java/com.aspose.threed/texturetype/
 ---
 
@@ -251,7 +251,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

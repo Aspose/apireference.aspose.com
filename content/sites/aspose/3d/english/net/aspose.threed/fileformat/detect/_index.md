@@ -3,7 +3,7 @@ title: Detect
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 460
 url: /net/aspose.threed/fileformat/detect/
 ---
 ## FileFormat.Detect method (1 of 2)

@@ -3,7 +3,7 @@ title: ColladaSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1040
+weight: 1070
 url: /net/aspose.threed.formats/colladasaveoptions/
 ---
 ## ColladaSaveOptions class

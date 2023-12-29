@@ -3,7 +3,7 @@ title: op_Equality
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.threed.utilities/vector3/op_equality/
 ---
 ## Vector3 Equality operator

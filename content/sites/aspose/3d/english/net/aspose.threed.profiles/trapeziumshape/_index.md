@@ -3,7 +3,7 @@ title: TrapeziumShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1660
+weight: 1690
 url: /net/aspose.threed.profiles/trapeziumshape/
 ---
 ## TrapeziumShape class

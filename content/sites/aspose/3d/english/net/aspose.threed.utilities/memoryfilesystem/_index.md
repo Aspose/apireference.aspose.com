@@ -3,7 +3,7 @@ title: MemoryFileSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2650
+weight: 2680
 url: /net/aspose.threed.utilities/memoryfilesystem/
 ---
 ## MemoryFileSystem class

@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.3D for Java API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 85
+weight: 86
 url: /java/com.aspose.threed/license/
 ---
 
@@ -151,7 +151,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

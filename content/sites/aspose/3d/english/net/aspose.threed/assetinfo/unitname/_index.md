@@ -3,7 +3,7 @@ title: UnitName
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 160
+weight: 180
 url: /net/aspose.threed/assetinfo/unitname/
 ---
 ## AssetInfo.UnitName property

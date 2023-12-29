@@ -3,7 +3,7 @@ title: BoundingBox
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2500
+weight: 2530
 url: /net/aspose.threed.utilities/boundingbox/
 ---
 ## BoundingBox structure
@@ -36,8 +36,15 @@ public struct BoundingBox
 | Name | Description |
 | --- | --- |
 | static [FromGeometry](../../aspose.threed.utilities/boundingbox/fromgeometry)(Geometry) | Construct a bounding box from given geometry |
+| [Contains](../../aspose.threed.utilities/boundingbox/contains)(Vector3) | Check if the point p is inside the bounding box |
 | override [Equals](../../aspose.threed.utilities/boundingbox/equals)(object) | Determines if two objects are equal |
 | override [GetHashCode](../../aspose.threed.utilities/boundingbox/gethashcode)() | Returns the hash code for this instance |
+| [Merge](../../aspose.threed.utilities/boundingbox/merge)(BoundingBox) | Merges the new box into the current bounding box. |
+| [Merge](../../aspose.threed.utilities/boundingbox/merge)(Vector3) | Merge current bounding box with given point |
+| [Merge](../../aspose.threed.utilities/boundingbox/merge)(Vector4) | Merge current bounding box with given point |
+| [Merge](../../aspose.threed.utilities/boundingbox/merge)(double, double, double) | Merge current bounding box with given point |
+| [OverlapsWith](../../aspose.threed.utilities/boundingbox/overlapswith)(BoundingBox) | Check if current bounding box overlaps with specified bounding box. |
+| [Scale](../../aspose.threed.utilities/boundingbox/scale)() | Calculates the absolute largest coordinate value of any contained point. |
 | override [ToString](../../aspose.threed.utilities/boundingbox/tostring)() | Gets the string representation of the bounding box. |
 | [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | Operator overloading for multiply |
 

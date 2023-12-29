@@ -3,7 +3,7 @@ title: UpVector
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 200
 url: /net/aspose.threed/assetinfo/upvector/
 ---
 ## AssetInfo.UpVector property

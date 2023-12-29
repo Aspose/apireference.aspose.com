@@ -3,7 +3,7 @@ title: SetTranslation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 230
 url: /net/aspose.threed/transform/settranslation/
 ---
 ## Transform.SetTranslation method

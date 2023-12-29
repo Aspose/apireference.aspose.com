@@ -3,7 +3,7 @@ title: InitializationException
 second_title: Aspose.3D for Java API Reference
 description: Exceptions in render pipeline initialization
 type: docs
-weight: 79
+weight: 80
 url: /java/com.aspose.threed/initializationexception/
 ---
 
@@ -272,7 +272,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

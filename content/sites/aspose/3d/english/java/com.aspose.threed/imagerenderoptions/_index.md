@@ -3,7 +3,7 @@ title: ImageRenderOptions
 second_title: Aspose.3D for Java API Reference
 description: Options for  and
 type: docs
-weight: 77
+weight: 78
 url: /java/com.aspose.threed/imagerenderoptions/
 ---
 
@@ -301,7 +301,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

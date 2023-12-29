@@ -3,7 +3,7 @@ title: Xyz
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 420
+weight: 440
 url: /net/aspose.threed/fileformat/xyz/
 ---
 ## FileFormat.Xyz field

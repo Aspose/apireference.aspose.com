@@ -3,7 +3,7 @@ title: RectangularTorus
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 600
+weight: 630
 url: /net/aspose.threed.entities/rectangulartorus/
 ---
 ## RectangularTorus class

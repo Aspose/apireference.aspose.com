@@ -3,7 +3,7 @@ title: GetFormatByExtension
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 450
+weight: 470
 url: /net/aspose.threed/fileformat/getformatbyextension/
 ---
 ## FileFormat.GetFormatByExtension method

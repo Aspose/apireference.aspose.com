@@ -3,7 +3,7 @@ title: HShape
 second_title: Aspose.3D for Java API Reference
 description: The  provides the defining parameters of an H or I shape.
 type: docs
-weight: 71
+weight: 72
 url: /java/com.aspose.threed/hshape/
 ---
 
@@ -581,7 +581,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

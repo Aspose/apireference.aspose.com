@@ -3,7 +3,7 @@ title: ShaderVariable
 second_title: Aspose.3D for Java API Reference
 description: Shader variable
 type: docs
-weight: 159
+weight: 160
 url: /java/com.aspose.threed/shadervariable/
 ---
 
@@ -142,7 +142,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

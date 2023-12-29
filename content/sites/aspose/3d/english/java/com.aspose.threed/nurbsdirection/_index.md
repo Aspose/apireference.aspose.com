@@ -3,7 +3,7 @@ title: NurbsDirection
 second_title: Aspose.3D for Java API Reference
 description: A 3D  has two direction the  and  the  defines data for each direction.
 type: docs
-weight: 102
+weight: 103
 url: /java/com.aspose.threed/nurbsdirection/
 ---
 
@@ -231,7 +231,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

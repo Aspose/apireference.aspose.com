@@ -3,7 +3,7 @@ title: Curve
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 290
+weight: 320
 url: /net/aspose.threed.entities/curve/
 ---
 ## Curve class

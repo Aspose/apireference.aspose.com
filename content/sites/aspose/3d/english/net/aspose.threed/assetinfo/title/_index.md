@@ -3,7 +3,7 @@ title: Title
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.threed/assetinfo/title/
 ---
 ## AssetInfo.Title property

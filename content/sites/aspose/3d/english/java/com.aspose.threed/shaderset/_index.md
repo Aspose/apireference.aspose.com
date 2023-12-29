@@ -3,7 +3,7 @@ title: ShaderSet
 second_title: Aspose.3D for Java API Reference
 description: Shader programs for each kind of materials
 type: docs
-weight: 155
+weight: 156
 url: /java/com.aspose.threed/shaderset/
 ---
 
@@ -223,7 +223,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

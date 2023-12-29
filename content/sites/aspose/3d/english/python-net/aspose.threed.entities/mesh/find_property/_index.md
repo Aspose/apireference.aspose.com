@@ -3,8 +3,8 @@ title: find_property method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /python-net/aspose.threed.entities/mesh/find_property/
+weight: 80
+url: /aspose.threed.entities/mesh/find_property/
 is_root: false
 ---
 

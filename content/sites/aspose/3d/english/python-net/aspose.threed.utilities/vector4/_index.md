@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /python-net/aspose.threed.utilities/vector4/
+url: /aspose.threed.utilities/vector4/
 is_root: false
 ---
 
@@ -25,15 +25,6 @@ The Vector4 type exposes the following members:
 | [__init__](/3d/python-net/aspose.threed.utilities/vector4/__init__/#float-float-float) | Initializes a new instance of the [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [__init__](/3d/python-net/aspose.threed.utilities/vector4/__init__/#float-float-float-float) | Initializes a new instance of the [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [__init__](/3d/python-net/aspose.threed.utilities/vector4/__init__/#) | Constructs a new instance of Vector4 |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [x](/3d/python-net/aspose.threed.utilities/vector4/x) | The x component. |
-| [y](/3d/python-net/aspose.threed.utilities/vector4/y) | The y component. |
-| [z](/3d/python-net/aspose.threed.utilities/vector4/z) | The z component. |
-| [w](/3d/python-net/aspose.threed.utilities/vector4/w) | The w component. |
 
 
 ### Methods

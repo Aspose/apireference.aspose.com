@@ -3,7 +3,7 @@ title: CreationTime
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.threed/assetinfo/creationtime/
 ---
 ## AssetInfo.CreationTime property

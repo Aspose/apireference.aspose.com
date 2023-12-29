@@ -3,7 +3,7 @@ title: FileFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1000
+weight: 1030
 url: /net/aspose.threed/fileformat/
 ---
 ## FileFormat class
@@ -66,6 +66,7 @@ public class FileFormat
 | static readonly [GLTF2_Binary](../../aspose.threed/fileformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | static readonly [GLTF_Binary](../../aspose.threed/fileformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | static readonly [HTML5](../../aspose.threed/fileformat/html5) | HTML5 File |
+| static readonly [IFC](../../aspose.threed/fileformat/ifc) | ISO 16739-1 Industry Foundation Classes data model. |
 | static readonly [MayaASCII](../../aspose.threed/fileformat/mayaascii) | Autodesk Maya in ASCII format |
 | static readonly [MayaBinary](../../aspose.threed/fileformat/mayabinary) | Autodesk Maya in Binary format |
 | static readonly [Microsoft3MF](../../aspose.threed/fileformat/microsoft3mf) | Microsoft 3D Manufacturing Format |
@@ -77,6 +78,7 @@ public class FileFormat
 | static readonly [STLBinary](../../aspose.threed/fileformat/stlbinary) | Binary STL file format |
 | static readonly [Universal3D](../../aspose.threed/fileformat/universal3d) | Universal3D file format |
 | static readonly [USD](../../aspose.threed/fileformat/usd) | Universal Scene Description |
+| static readonly [USDA](../../aspose.threed/fileformat/usda) | Universal Scene Description in ASCII format. |
 | static readonly [USDZ](../../aspose.threed/fileformat/usdz) | Compressed Universal Scene Description |
 | static readonly [VRML](../../aspose.threed/fileformat/vrml) | The Virtual Reality Modeling Language |
 | static readonly [WavefrontOBJ](../../aspose.threed/fileformat/wavefrontobj) | Wavefront's Obj file format |

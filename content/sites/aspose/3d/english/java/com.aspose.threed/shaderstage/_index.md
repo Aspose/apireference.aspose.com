@@ -3,7 +3,7 @@ title: ShaderStage
 second_title: Aspose.3D for Java API Reference
 description: Shader stage
 type: docs
-weight: 157
+weight: 158
 url: /java/com.aspose.threed/shaderstage/
 ---
 
@@ -149,7 +149,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

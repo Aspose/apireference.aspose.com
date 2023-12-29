@@ -3,7 +3,7 @@ title: TextureSlot
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2460
+weight: 2490
 url: /net/aspose.threed.shading/textureslot/
 ---
 ## TextureSlot class

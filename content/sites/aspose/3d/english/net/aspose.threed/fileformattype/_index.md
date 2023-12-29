@@ -3,7 +3,7 @@ title: FileFormatType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1010
+weight: 1040
 url: /net/aspose.threed/fileformattype/
 ---
 ## FileFormatType class
@@ -34,6 +34,7 @@ public sealed class FileFormatType
 | static readonly [FBX](../../aspose.threed/fileformattype/fbx) | FBX file format type |
 | static readonly [GLTF](../../aspose.threed/fileformattype/gltf) | Khronos Group's glTF |
 | static readonly [HTML5](../../aspose.threed/fileformattype/html5) | HTML5 File |
+| static readonly [IFC](../../aspose.threed/fileformattype/ifc) | ISO 16739-1 Industry Foundation Classes data model. |
 | static readonly [Maya](../../aspose.threed/fileformattype/maya) | Autodesk Maya format type |
 | static readonly [Microsoft3MF](../../aspose.threed/fileformattype/microsoft3mf) | 3D Manufacturing Format |
 | static readonly [Pcd](../../aspose.threed/fileformattype/pcd) | Point Cloud Data used by Point Cloud Library |

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.formats/dracoformat/
+url: /aspose.threed.formats/dracoformat/
 is_root: false
 ---
 
@@ -67,6 +67,7 @@ The DracoFormat type exposes the following members:
 | [RVM_TEXT](/3d/python-net/aspose.threed.formats/dracoformat/rvm_text) | AVEVA Plant Design Management System Model in text format |
 | [RVM_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/rvm_binary) | AVEVA Plant Design Management System Model in binary format |
 | [ASE](/3d/python-net/aspose.threed.formats/dracoformat/ase) | 3D Studio Max's ASCII Scene Exporter format. |
+| [IFC](/3d/python-net/aspose.threed.formats/dracoformat/ifc) | ISO 16739-1 Industry Foundation Classes data model. |
 | [SIEMENS_JT8](/3d/python-net/aspose.threed.formats/dracoformat/siemens_jt8) | Siemens JT File Version 8 |
 | [SIEMENS_JT9](/3d/python-net/aspose.threed.formats/dracoformat/siemens_jt9) | Siemens JT File Version 9 |
 | [AMF](/3d/python-net/aspose.threed.formats/dracoformat/amf) | Additive manufacturing file format |
@@ -75,6 +76,7 @@ The DracoFormat type exposes the following members:
 | [HTML5](/3d/python-net/aspose.threed.formats/dracoformat/html5) | HTML5 File |
 | [ZIP](/3d/python-net/aspose.threed.formats/dracoformat/zip) | Zip archive that contains other 3d file format. |
 | [USD](/3d/python-net/aspose.threed.formats/dracoformat/usd) | Universal Scene Description |
+| [USDA](/3d/python-net/aspose.threed.formats/dracoformat/usda) | Universal Scene Description in ASCII format. |
 | [USDZ](/3d/python-net/aspose.threed.formats/dracoformat/usdz) | Compressed Universal Scene Description |
 | [XYZ](/3d/python-net/aspose.threed.formats/dracoformat/xyz) | Xyz point cloud file |
 | [PCD](/3d/python-net/aspose.threed.formats/dracoformat/pcd) | PCL Point Cloud Data file in ASCII mode |

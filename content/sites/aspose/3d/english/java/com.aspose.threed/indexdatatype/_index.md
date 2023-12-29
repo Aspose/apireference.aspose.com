@@ -3,7 +3,7 @@ title: IndexDataType
 second_title: Aspose.3D for Java API Reference
 description: The data type of the elements in
 type: docs
-weight: 262
+weight: 265
 url: /java/com.aspose.threed/indexdatatype/
 ---
 
@@ -224,7 +224,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

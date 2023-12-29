@@ -3,7 +3,7 @@ title: SetRotation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 210
 url: /net/aspose.threed/transform/setrotation/
 ---
 ## Transform.SetRotation method

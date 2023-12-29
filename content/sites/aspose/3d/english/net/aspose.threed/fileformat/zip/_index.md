@@ -3,7 +3,7 @@ title: Zip
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 430
+weight: 450
 url: /net/aspose.threed/fileformat/zip/
 ---
 ## FileFormat.Zip field

@@ -3,7 +3,7 @@ title: BlendFactor
 second_title: Aspose.3D for Java API Reference
 description: Blend factor specify pixel arithmetic.
 type: docs
-weight: 248
+weight: 249
 url: /java/com.aspose.threed/blendfactor/
 ---
 
@@ -341,7 +341,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

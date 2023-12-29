@@ -3,7 +3,7 @@ title: TriMesh
 second_title: Aspose.3D for Java API Reference
 description: A TriMesh contains raw data that can be used by GPU directly.
 type: docs
-weight: 180
+weight: 181
 url: /java/com.aspose.threed/trimesh/
 ---
 
@@ -726,7 +726,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

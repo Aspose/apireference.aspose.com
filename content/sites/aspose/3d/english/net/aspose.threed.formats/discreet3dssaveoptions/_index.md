@@ -3,7 +3,7 @@ title: Discreet3dsSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1070
+weight: 1100
 url: /net/aspose.threed.formats/discreet3dssaveoptions/
 ---
 ## Discreet3dsSaveOptions class

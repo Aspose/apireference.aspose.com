@@ -3,8 +3,8 @@ title: node property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /python-net/aspose.threed.deformers/bone/node/
+weight: 120
+url: /aspose.threed.deformers/bone/node/
 is_root: false
 ---
 

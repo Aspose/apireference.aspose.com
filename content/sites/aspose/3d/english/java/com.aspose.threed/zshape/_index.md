@@ -3,7 +3,7 @@ title: ZShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible Z-shape profile defined by parameters.
 type: docs
-weight: 219
+weight: 220
 url: /java/com.aspose.threed/zshape/
 ---
 
@@ -481,7 +481,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

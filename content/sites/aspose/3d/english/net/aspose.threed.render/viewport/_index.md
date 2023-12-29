@@ -3,7 +3,7 @@ title: Viewport
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2310
+weight: 2340
 url: /net/aspose.threed.render/viewport/
 ---
 ## Viewport class

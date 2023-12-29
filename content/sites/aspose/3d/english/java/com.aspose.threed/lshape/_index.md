@@ -3,7 +3,7 @@ title: LShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible L-shape profile that defined by parameters.
 type: docs
-weight: 83
+weight: 84
 url: /java/com.aspose.threed/lshape/
 ---
 
@@ -456,7 +456,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

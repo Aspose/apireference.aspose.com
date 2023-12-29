@@ -3,7 +3,7 @@ title: UShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible U-shape defined by parameters.
 type: docs
-weight: 185
+weight: 186
 url: /java/com.aspose.threed/ushape/
 ---
 
@@ -481,7 +481,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

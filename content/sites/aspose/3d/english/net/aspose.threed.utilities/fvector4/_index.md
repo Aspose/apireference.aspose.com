@@ -3,7 +3,7 @@ title: FVector4
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2580
+weight: 2610
 url: /net/aspose.threed.utilities/fvector4/
 ---
 ## FVector4 structure
@@ -38,10 +38,10 @@ public struct FVector4
 
 | Name | Description |
 | --- | --- |
-| [w](../../aspose.threed.utilities/fvector4/w) | The w component. |
-| [x](../../aspose.threed.utilities/fvector4/x) | The x component. |
-| [y](../../aspose.threed.utilities/fvector4/y) | The y component. |
-| [z](../../aspose.threed.utilities/fvector4/z) | The z component. |
+| [W](../../aspose.threed.utilities/fvector4/w) | The w component. |
+| [X](../../aspose.threed.utilities/fvector4/x) | The x component. |
+| [Y](../../aspose.threed.utilities/fvector4/y) | The y component. |
+| [Z](../../aspose.threed.utilities/fvector4/z) | The z component. |
 
 ### See Also
 

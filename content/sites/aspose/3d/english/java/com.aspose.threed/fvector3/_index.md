@@ -3,7 +3,7 @@ title: FVector3
 second_title: Aspose.3D for Java API Reference
 description: A float vector with three components.
 type: docs
-weight: 57
+weight: 58
 url: /java/com.aspose.threed/fvector3/
 ---
 
@@ -30,7 +30,6 @@ A float vector with three components.
 | Field | Description |
 | --- | --- |
 | [UNIT_SCALE](#UNIT-SCALE) | The unit scale vector with all components are all 1 |
-| [ZERO](#ZERO) | The Zero vector. |
 | [x](#x) | The x component. |
 | [y](#y) | The y component. |
 | [z](#z) | The y component. |
@@ -45,6 +44,8 @@ A float vector with three components.
 | [cross(FVector3 rhs)](#cross-com.aspose.threed.FVector3-) | Cross product of two vectors |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
+| [getOne()](#getOne--) | The unit scale vector with all components are all 1 |
+| [getZero()](#getZero--) | The Zero vector. |
 | [hashCode()](#hashCode--) |  |
 | [mul(FVector3 a, float b)](#mul-com.aspose.threed.FVector3-float-) | \* Operator overloading |
 | [negative(FVector3 a)](#negative-com.aspose.threed.FVector3-) | \- Operator overloading |
@@ -110,14 +111,6 @@ public static final FVector3 UNIT_SCALE
 
 
 The unit scale vector with all components are all 1
-
-### ZERO {#ZERO}
-```
-public static final FVector3 ZERO
-```
-
-
-The Zero vector.
 
 ### x {#x}
 ```
@@ -237,6 +230,26 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getOne() {#getOne--}
+```
+public static FVector3 getOne()
+```
+
+
+The unit scale vector with all components are all 1
+
+**Returns:**
+[FVector3](../../com.aspose.threed/fvector3)
+### getZero() {#getZero--}
+```
+public static FVector3 getZero()
+```
+
+
+The Zero vector.
+
+**Returns:**
+[FVector3](../../com.aspose.threed/fvector3)
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -340,7 +353,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: U3dLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1370
+weight: 1400
 url: /net/aspose.threed.formats/u3dloadoptions/
 ---
 ## U3dLoadOptions class

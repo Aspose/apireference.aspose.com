@@ -3,8 +3,8 @@ title: CustomObject class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /python-net/aspose.threed/customobject/
+weight: 50
+url: /aspose.threed/customobject/
 is_root: false
 ---
 

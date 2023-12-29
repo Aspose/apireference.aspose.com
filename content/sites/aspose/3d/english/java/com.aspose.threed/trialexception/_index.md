@@ -3,7 +3,7 @@ title: TrialException
 second_title: Aspose.3D for Java API Reference
 description: This is raised in Scene.Open/Scene.Save when no licenses are applied.
 type: docs
-weight: 181
+weight: 182
 url: /java/com.aspose.threed/trialexception/
 ---
 
@@ -288,7 +288,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

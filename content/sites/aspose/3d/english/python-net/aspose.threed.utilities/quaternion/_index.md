@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.utilities/quaternion/
+url: /aspose.threed.utilities/quaternion/
 is_root: false
 ---
 
@@ -28,10 +28,6 @@ The Quaternion type exposes the following members:
 | :- | :- |
 | [length](/3d/python-net/aspose.threed.utilities/quaternion/length) | Gets the length of the quaternion |
 | [IDENTITY](/3d/python-net/aspose.threed.utilities/quaternion/identity) | The Identity quaternion. |
-| [w](/3d/python-net/aspose.threed.utilities/quaternion/w) | The w component. |
-| [x](/3d/python-net/aspose.threed.utilities/quaternion/x) | The x component. |
-| [y](/3d/python-net/aspose.threed.utilities/quaternion/y) | The y component. |
-| [z](/3d/python-net/aspose.threed.utilities/quaternion/z) | The z component. |
 
 
 ### Methods

@@ -3,7 +3,7 @@ title: PdfLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Options for PDF loading
 type: docs
-weight: 113
+weight: 114
 url: /java/com.aspose.threed/pdfloadoptions/
 ---
 
@@ -272,7 +272,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 
