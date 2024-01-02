@@ -1,14 +1,14 @@
 ---
 title: IfcImage.Entities
 second_title: Aspose.CAD for .NET API Reference
-description: IfcImage property. Gets all entities that exists in the image. Could be useful for walwing through them and check its properties
+description: IfcImage property. Gets all entities that exists on a drawing. Could be useful for walking through them and check its properties
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc/ifcimage/entities/
 ---
 ## IfcImage.Entities property
 
-Gets all entities that exists in the image. Could be useful for walwing through them and check its properties
+Gets all entities that exists on a drawing. Could be useful for walking through them and check its properties
 
 ```csharp
 public IEnumerable<IIfcEntity> Entities { get; }
@@ -16,16 +16,16 @@ public IEnumerable<IIfcEntity> Entities { get; }
 
 ### Property Value
 
-The entities dictionary. Key is a number of entity within the file, like #10 Value is entity instance
+A set of entity instances
 
 ## Examples
 
-Gets entities dictionary from the image.
+Gets entities set from a drawing.
 
 ```csharp
 using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
 {
-    var entities = ifcImage._entities
+    var entities = ifcImage.Entities
 }
 ```
 

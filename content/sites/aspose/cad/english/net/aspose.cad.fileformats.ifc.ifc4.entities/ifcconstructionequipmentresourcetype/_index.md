@@ -3,7 +3,7 @@ title: Class IfcConstructionEquipmentResourceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConstructionEquipmentResourceType class. IfcConstructionEquipmentResourceType
 type: docs
-weight: 23120
+weight: 23000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/
 ---
 ## IfcConstructionEquipmentResourceType class

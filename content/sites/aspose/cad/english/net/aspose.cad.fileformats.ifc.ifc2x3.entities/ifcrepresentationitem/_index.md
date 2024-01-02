@@ -3,7 +3,7 @@ title: Class IfcRepresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRepresentationItem class. Partial IIfc entity class
 type: docs
-weight: 16930
+weight: 16810
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/
 ---
 ## IfcRepresentationItem class

@@ -3,7 +3,7 @@ title: Class CadObjectAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadObjectAttribute class. CadObjectAttribute
 type: docs
-weight: 2910
+weight: 2940
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/
 ---
 ## CadObjectAttribute class

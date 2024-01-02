@@ -3,7 +3,7 @@ title: Class StlImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stl.StlImage class. STL image class
 type: docs
-weight: 34300
+weight: 34190
 url: /net/aspose.cad.fileformats.stl/stlimage/
 ---
 ## StlImage class
@@ -38,6 +38,7 @@ public class StlImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.stl/stlimage/width/) { get; } | Gets the image width. |
 
 ## Methods

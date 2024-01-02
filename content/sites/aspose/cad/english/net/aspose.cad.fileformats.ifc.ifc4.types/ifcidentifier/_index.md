@@ -3,7 +3,7 @@ title: Class IfcIdentifier
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcIdentifier class. IfcIdentifier
 type: docs
-weight: 31210
+weight: 31090
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcidentifier/
 ---
 ## IfcIdentifier class

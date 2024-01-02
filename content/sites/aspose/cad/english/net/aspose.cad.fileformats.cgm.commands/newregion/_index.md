@@ -3,7 +3,7 @@ title: Class NewRegion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.NewRegion class. Class3 ElementId10
 type: docs
-weight: 6120
+weight: 6170
 url: /net/aspose.cad.fileformats.cgm.commands/newregion/
 ---
 ## NewRegion class

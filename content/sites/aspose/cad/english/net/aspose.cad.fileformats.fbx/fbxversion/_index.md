@@ -3,7 +3,7 @@ title: Enum FbxVersion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Fbx.FbxVersion enum. FBX versions
 type: docs
-weight: 9990
+weight: 10030
 url: /net/aspose.cad.fileformats.fbx/fbxversion/
 ---
 ## FbxVersion enumeration

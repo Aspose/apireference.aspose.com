@@ -3,7 +3,7 @@ title: Class IfcFeatureElementSubtraction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFeatureElementSubtraction class. IfcFeatureElementSubtraction
 type: docs
-weight: 24500
+weight: 24380
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfeatureelementsubtraction/
 ---
 ## IfcFeatureElementSubtraction class

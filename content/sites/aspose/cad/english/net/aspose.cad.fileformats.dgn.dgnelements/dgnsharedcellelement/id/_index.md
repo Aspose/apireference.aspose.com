@@ -11,12 +11,8 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id/
 Gets the identifier.
 
 ```csharp
-public int Id { get; }
+public override string Id { get; }
 ```
-
-### Property Value
-
-The identifier.
 
 ### See Also
 

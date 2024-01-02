@@ -3,7 +3,7 @@ title: Class IfcDoor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDoor class. IfcDoor
 type: docs
-weight: 13730
+weight: 13610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoor/
 ---
 ## IfcDoor class

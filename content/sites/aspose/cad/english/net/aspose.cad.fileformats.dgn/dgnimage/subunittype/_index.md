@@ -3,7 +3,7 @@ title: DgnImage.SubUnitType
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage property. Gets current subunit type
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.fileformats.dgn/dgnimage/subunittype/
 ---
 ## DgnImage.SubUnitType property

@@ -3,7 +3,7 @@ title: Class EdgeJoin
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeJoin class. 
 type: docs
-weight: 5340
+weight: 5390
 url: /net/aspose.cad.fileformats.cgm.commands/edgejoin/
 ---
 ## EdgeJoin class

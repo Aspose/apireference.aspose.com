@@ -3,7 +3,7 @@ title: Class IfcElectricCurrentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricCurrentMeasure class. IfcElectricCurrentMeasure
 type: docs
-weight: 19500
+weight: 19380
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentmeasure/
 ---
 ## IfcElectricCurrentMeasure class

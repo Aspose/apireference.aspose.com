@@ -3,7 +3,7 @@ title: FbxImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: FbxImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.fileformats.fbx/fbximage/cachedata/
 ---
 ## FbxImage.CacheData method

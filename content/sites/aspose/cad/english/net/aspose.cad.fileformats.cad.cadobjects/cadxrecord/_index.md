@@ -3,7 +3,7 @@ title: Class CadXRecord
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadXRecord class. Class describing CadXRecord
 type: docs
-weight: 3380
+weight: 3410
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadxrecord/
 ---
 ## CadXRecord class
@@ -39,6 +39,7 @@ public class CadXRecord : CadBaseObject
 | [Objects](../../aspose.cad.fileformats.cad.cadobjects/cadxrecord/objects/) { get; set; } | Gets or sets the objects. Xrecord objects are used to store and manage arbitrary data. They are composed of DXF group codes with �normal object� groups(that is, non-xdata group codes), ranging from 1 through 369 for supported ranges.This object is similar in concept to xdata but is not limited by size or order. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

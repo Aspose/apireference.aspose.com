@@ -3,7 +3,7 @@ title: WriteSettings.JsonPostprocessor
 second_title: Aspose.CAD for .NET API Reference
 description: WriteSettings property. Gets or sets the callback used to postprocess the json text before parsing it
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.cad.fileformats.glb/writesettings/jsonpostprocessor/
 ---
 ## WriteSettings.JsonPostprocessor property

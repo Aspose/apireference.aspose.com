@@ -3,7 +3,7 @@ title: Class IfcCartesianPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCartesianPoint class. Partial IIfc entity class
 type: docs
-weight: 22600
+weight: 22480
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesianpoint/
 ---
 ## IfcCartesianPoint class

@@ -3,7 +3,7 @@ title: Class IfcLocalPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLocalPlacement class. Partial IIfc entity class
 type: docs
-weight: 25340
+weight: 25220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclocalplacement/
 ---
 ## IfcLocalPlacement class

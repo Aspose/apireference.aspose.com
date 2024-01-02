@@ -3,7 +3,7 @@ title: Class CapCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CapCommand class. 
 type: docs
-weight: 4860
+weight: 4910
 url: /net/aspose.cad.fileformats.cgm.commands/capcommand/
 ---
 ## CapCommand class

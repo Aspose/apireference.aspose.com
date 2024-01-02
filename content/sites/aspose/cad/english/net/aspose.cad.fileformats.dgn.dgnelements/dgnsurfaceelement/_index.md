@@ -3,7 +3,7 @@ title: Class DgnSurfaceElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSurfaceElement class. Represents surface element
 type: docs
-weight: 8840
+weight: 8890
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/
 ---
 ## DgnSurfaceElement class
@@ -21,7 +21,7 @@ public class DgnSurfaceElement : DgnDrawableEntityBase
 | [Boundaries](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/boundaries/) { get; } | Gets bound elements |
 | [BoundElementsCount](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/boundelementscount/) { get; } | Gets bound elements count |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [IsRational](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/isrational/) { get; } | Gets a value indicating whether the surface is rational |
 | [IsUniform](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/isuniform/) { get; set; } | Gets or sets a value indicating whether the surface is uniformed |
 | [Knot](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knot/) { get; } | Gets or sets knot |

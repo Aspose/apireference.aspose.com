@@ -3,7 +3,7 @@ title: Class CadMLeader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeader class. Class describing Cad multileader
 type: docs
-weight: 2780
+weight: 2810
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/
 ---
 ## CadMLeader class
@@ -25,6 +25,7 @@ public class CadMLeader : CadEntityBase
 | Name | Description |
 | --- | --- |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [ArrowHeadId1](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/arrowheadid1/) { get; set; } | Gets or sets arrow head ID. |
 | [ArrowHeadId2](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/arrowheadid2/) { get; set; } | Gets or sets the arrow head id2. |
 | [ArrowheadIndex](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/arrowheadindex/) { get; set; } | Gets or sets the index of the arrowhead. |
@@ -69,6 +70,7 @@ public class CadMLeader : CadEntityBase
 | [LeaderLineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/leaderlineweight/) { get; set; } | Gets or sets the leader line weight. |
 | [LeaderStyleId](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/leaderstyleid/) { get; set; } | Gets or sets leader style Id |
 | [LeaderType](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/leadertype/) { get; set; } | Gets or sets the type. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
@@ -85,7 +87,7 @@ public class CadMLeader : CadEntityBase
 | [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleDescription](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/styledescription/) { get; set; } | Gets or sets the style type. |
 | [TextAlignInIpe](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/textaligninipe/) { get; set; } | Gets or sets the text align in ipe. |
 | [TextAlignmentType](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/textalignmenttype/) { get; set; } | Gets or sets the type of the text alignment. |

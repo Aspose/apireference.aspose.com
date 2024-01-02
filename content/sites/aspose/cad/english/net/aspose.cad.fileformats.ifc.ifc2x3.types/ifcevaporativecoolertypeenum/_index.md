@@ -3,7 +3,7 @@ title: Enum IfcEvaporativeCoolerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcEvaporativeCoolerTypeEnum enum. IfcEvaporativeCoolerTypeEnum
 type: docs
-weight: 19640
+weight: 19520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcevaporativecoolertypeenum/
 ---
 ## IfcEvaporativeCoolerTypeEnum enumeration

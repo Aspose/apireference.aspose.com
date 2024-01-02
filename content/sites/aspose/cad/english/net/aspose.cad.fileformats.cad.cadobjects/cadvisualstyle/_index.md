@@ -3,7 +3,7 @@ title: Class CadVisualStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadVisualStyle class. Class describing CadVisualStyle
 type: docs
-weight: 3350
+weight: 3380
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/
 ---
 ## CadVisualStyle class
@@ -68,6 +68,7 @@ public class CadVisualStyle : CadBaseObject
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [ShadowType](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/shadowtype/) { get; set; } | Gets or sets the type of the shadow. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [Type](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/type/) { get; set; } | Gets or sets the type. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [VisualStyleParameters](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/visualstyleparameters/) { get; set; } | Gets or sets the visual style parameters. |

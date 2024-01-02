@@ -3,7 +3,7 @@ title: Class LightBuilder.Spot
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.LightBuilderSpot class. 
 type: docs
-weight: 11550
+weight: 11440
 url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder.spot/
 ---
 ## LightBuilder.Spot class

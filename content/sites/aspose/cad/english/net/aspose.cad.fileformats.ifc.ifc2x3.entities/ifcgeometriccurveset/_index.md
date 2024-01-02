@@ -3,7 +3,7 @@ title: Class IfcGeometricCurveSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGeometricCurveSet class. IfcGeometricCurveSet
 type: docs
-weight: 14690
+weight: 14570
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometriccurveset/
 ---
 ## IfcGeometricCurveSet class

@@ -3,7 +3,7 @@ title: Class LightBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.LightBuilder class. Represents the base class light object
 type: docs
-weight: 11520
+weight: 11410
 url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder/
 ---
 ## LightBuilder class

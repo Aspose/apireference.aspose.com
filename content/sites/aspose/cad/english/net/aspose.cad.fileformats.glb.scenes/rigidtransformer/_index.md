@@ -3,7 +3,7 @@ title: Class RigidTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.RigidTransformer class. Represents the transform of a Content. Applies the transform of a single NodeBuilder to the underlaying content
 type: docs
-weight: 11570
+weight: 11460
 url: /net/aspose.cad.fileformats.glb.scenes/rigidtransformer/
 ---
 ## RigidTransformer class

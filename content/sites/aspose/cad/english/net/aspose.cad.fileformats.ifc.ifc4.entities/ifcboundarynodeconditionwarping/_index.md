@@ -3,7 +3,7 @@ title: Class IfcBoundaryNodeConditionWarping
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundaryNodeConditionWarping class. IfcBoundaryNodeConditionWarping
 type: docs
-weight: 22350
+weight: 22230
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodeconditionwarping/
 ---
 ## IfcBoundaryNodeConditionWarping class

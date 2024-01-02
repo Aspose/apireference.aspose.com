@@ -3,7 +3,7 @@ title: Class MorphTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.MorphTransform class. 
 type: docs
-weight: 11820
+weight: 11710
 url: /net/aspose.cad.fileformats.glb.transforms/morphtransform/
 ---
 ## MorphTransform class

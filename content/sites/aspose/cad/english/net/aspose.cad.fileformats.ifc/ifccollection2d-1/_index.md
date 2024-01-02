@@ -3,7 +3,7 @@ title: Class IfcCollection2DT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IfcCollection2D1T class. IfcCollection2D
 type: docs
-weight: 33630
+weight: 33510
 url: /net/aspose.cad.fileformats.ifc/ifccollection2d-1/
 ---
 ## IfcCollection2D&lt;T&gt; class

@@ -3,7 +3,7 @@ title: Class TargetableFloat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TargetableFloat class. The targetable float. The targetable_float_type element is used to represent elements which contain a single float value which can be targeted for animation
 type: docs
-weight: 8320
+weight: 8370
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/targetablefloat/
 ---
 ## TargetableFloat class

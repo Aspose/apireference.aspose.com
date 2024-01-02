@@ -3,7 +3,7 @@ title: CadEntityBase.LayoutTabName
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the name of the layout tab
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/
 ---
 ## CadEntityBase.LayoutTabName property

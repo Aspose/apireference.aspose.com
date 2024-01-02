@@ -3,7 +3,7 @@ title: Class StepBSplineCurveWithKnots
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepBSplineCurveWithKnots class. BSplineCurveWithKnots class for STP file
 type: docs
-weight: 34420
+weight: 34310
 url: /net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/
 ---
 ## StepBSplineCurveWithKnots class

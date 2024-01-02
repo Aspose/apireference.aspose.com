@@ -20,7 +20,7 @@ The default point.
 
 ### See Also
 
-* class [Point3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
 * class [CadCircle](../)
 * namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)

@@ -3,7 +3,7 @@ title: Class LangAlt
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.LangAlt class. Represents XMP Language Alternative
 type: docs
-weight: 37230
+weight: 37170
 url: /net/aspose.cad.xmp/langalt/
 ---
 ## LangAlt class

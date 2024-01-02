@@ -3,7 +3,7 @@ title: Image.Width
 second_title: Aspose.CAD for .NET API Reference
 description: Image property. Gets the image width
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cad/image/width/
 ---
 ## Image.Width property

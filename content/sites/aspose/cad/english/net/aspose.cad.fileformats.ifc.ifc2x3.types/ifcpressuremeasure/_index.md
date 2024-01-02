@@ -3,7 +3,7 @@ title: Class IfcPressureMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPressureMeasure class. IfcPressureMeasure
 type: docs
-weight: 20700
+weight: 20580
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpressuremeasure/
 ---
 ## IfcPressureMeasure class

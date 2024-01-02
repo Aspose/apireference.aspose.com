@@ -3,7 +3,7 @@ title: Class CadCodeValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadCodeValue class. Code Value class
 type: docs
-weight: 1220
+weight: 1160
 url: /net/aspose.cad.fileformats.cad/cadcodevalue/
 ---
 ## CadCodeValue class

@@ -3,7 +3,7 @@ title: Enum AcDbObjectType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.AcDbObjectType enum. Internal Dwg entity type codes
 type: docs
-weight: 4310
+weight: 4340
 url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/acdbobjecttype/
 ---
 ## AcDbObjectType enumeration
@@ -137,17 +137,27 @@ public enum AcDbObjectType
 | SOLID_BACKGROUND | `123` | The solid background |
 | GRADIENT_BACKGROUND | `124` | The gradient background |
 | SKYLIGHT_BACKGROUND | `125` | The skyLight background |
-| VBA_PROJECT_500 | `126` | The project |
-| VISUALSTYLE | `127` | The visual style |
-| WIPEOUTVARIABLE | `128` | The wipe out variable |
-| XRECORD_500 | `129` | The record |
-| DGNUNDERLAY | `130` | The dgnunderlay |
-| DGNDEFINITION | `131` | The dgndefinition |
-| DWFUNDERLAY | `132` | The dwfunderlay |
-| DWFDEFINITION | `133` | The dwfdefinition |
-| PDFUNDERLAY | `134` | The pdfunderlay |
-| PDFDEFINITION | `135` | The pdfdefinition |
-| ACIDBLOCKREFERENCE | `136` | The block reference |
+| ACSH_BOX_CLASS | `126` | The Acsh Box Class |
+| ACSH_CONE_CLASS | `127` | The Acsh Cone Class |
+| ACSH_CYLINDER_CLASS | `128` | The Acsh Cylinder Class |
+| ACSH_PYRAMID_CLASS | `129` | The Acsh Pyramid Class |
+| ACSH_SPHERE_CLASS | `130` | The Acsh Sphere Class |
+| ACSH_TORUS_CLASS | `131` | The Acsh Torus Class |
+| ACSH_WEDGE_CLASS | `132` | The Acsh Wedge Class |
+| VBA_PROJECT_500 | `133` | The project |
+| VISUALSTYLE | `134` | The visual style |
+| WIPEOUTVARIABLE | `135` | The wipe out variable |
+| XRECORD_500 | `136` | The record |
+| DGNUNDERLAY | `137` | The dgnunderlay |
+| DGNDEFINITION | `138` | The dgndefinition |
+| DWFUNDERLAY | `139` | The dwfunderlay |
+| DWFDEFINITION | `140` | The dwfdefinition |
+| PDFUNDERLAY | `141` | The pdfunderlay |
+| PDFDEFINITION | `142` | The pdfdefinition |
+| AECIDBIMAGEDEF | `143` | The embedded image definition |
+| IMAGEDATA | `144` | The embedded image data |
+| EMBEDDEDIMAGE | `145` | The embedded image |
+| ACIDBLOCKREFERENCE | `146` | The block reference |
 | ACAD_PROXY_ENTITY | `498` | The ACAD_PROXY_ENTITY |
 | ACAD_PROXY_OBJECT | `499` | The ACAD_PROXY_OBJECT |
 | WIPEOUT | `509` | The wipe out |

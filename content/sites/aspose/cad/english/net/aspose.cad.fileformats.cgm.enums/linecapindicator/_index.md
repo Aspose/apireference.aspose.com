@@ -3,7 +3,7 @@ title: Enum LineCapIndicator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.LineCapIndicator enum. 
 type: docs
-weight: 7050
+weight: 7100
 url: /net/aspose.cad.fileformats.cgm.enums/linecapindicator/
 ---
 ## LineCapIndicator enumeration

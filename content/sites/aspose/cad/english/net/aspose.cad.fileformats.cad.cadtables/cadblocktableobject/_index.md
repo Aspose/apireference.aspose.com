@@ -3,7 +3,7 @@ title: Class CadBlockTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadBlockTableObject class. The Cad block table object
 type: docs
-weight: 4190
+weight: 4220
 url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/
 ---
 ## CadBlockTableObject class
@@ -42,6 +42,7 @@ public class CadBlockTableObject : CadOwnedObjectBase
 | [OriginalBlockName](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/originalblockname/) { get; } | Name of the original dynamic block, or real block name if it's not originated from dynamic block |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [XDataAppName](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/xdataappname/) { get; set; } | Gets or sets the xdata app name. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 | [XDataStringData](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/xdatastringdata/) { get; set; } | Gets or sets the xdata string data. |

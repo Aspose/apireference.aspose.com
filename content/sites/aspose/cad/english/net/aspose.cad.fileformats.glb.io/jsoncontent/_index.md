@@ -3,7 +3,7 @@ title: Struct JsonContent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IO.JsonContent struct. Represents an immutable json object stored in memory
 type: docs
-weight: 10860
+weight: 10760
 url: /net/aspose.cad.fileformats.glb.io/jsoncontent/
 ---
 ## JsonContent structure
@@ -27,18 +27,12 @@ public struct JsonContent : ICloneable, IEquatable<JsonContent>
 | static [CreateFrom](../../aspose.cad.fileformats.glb.io/jsoncontent/createfrom/#createfrom_2)(IConvertible) |  |
 | static [CreateFrom](../../aspose.cad.fileformats.glb.io/jsoncontent/createfrom/#createfrom)(IDictionary) |  |
 | static [CreateFrom](../../aspose.cad.fileformats.glb.io/jsoncontent/createfrom/#createfrom_1)(IList) |  |
-| static [Parse](../../aspose.cad.fileformats.glb.io/jsoncontent/parse/#parse_1)(JsonDocument) |  |
-| static [Parse](../../aspose.cad.fileformats.glb.io/jsoncontent/parse/#parse)(string, JsonDocumentOptions) | Parses a json text an converts it to a `JsonContent` |
-| static [Serialize](../../aspose.cad.fileformats.glb.io/jsoncontent/serialize/)(object, JsonSerializerOptions) | Converts the value of a specified type into a `JsonContent` using JsonSerializer. |
 | [DeepClone](../../aspose.cad.fileformats.glb.io/jsoncontent/deepclone/)() |  |
-| [Deserialize](../../aspose.cad.fileformats.glb.io/jsoncontent/deserialize/#deserialize)(Type, JsonSerializerOptions) |  |
-| [Deserialize&lt;T&gt;](../../aspose.cad.fileformats.glb.io/jsoncontent/deserialize/#deserialize_1)(JsonSerializerOptions) |  |
 | [Equals](../../aspose.cad.fileformats.glb.io/jsoncontent/equals/#equals)(JsonContent) |  |
 | override [Equals](../../aspose.cad.fileformats.glb.io/jsoncontent/equals/#equals_1)(object) |  |
 | override [GetHashCode](../../aspose.cad.fileformats.glb.io/jsoncontent/gethashcode/)() |  |
 | [GetNode](../../aspose.cad.fileformats.glb.io/jsoncontent/getnode/)(params IConvertible[]) |  |
 | [GetValue&lt;T&gt;](../../aspose.cad.fileformats.glb.io/jsoncontent/getvalue/)(params IConvertible[]) |  |
-| [ToJson](../../aspose.cad.fileformats.glb.io/jsoncontent/tojson/)(JsonSerializerOptions) |  |
 | static [AreEqualByContent](../../aspose.cad.fileformats.glb.io/jsoncontent/areequalbycontent/)(JsonContent, JsonContent, float) | Compares two `JsonContent` objects for equality. |
 | static [IsJsonSerializable](../../aspose.cad.fileformats.glb.io/jsoncontent/isjsonserializable/#isjsonserializable)(object) |  |
 | static [IsJsonSerializable](../../aspose.cad.fileformats.glb.io/jsoncontent/isjsonserializable/#isjsonserializable_1)(object, out object) |  |
@@ -46,7 +40,7 @@ public struct JsonContent : ICloneable, IEquatable<JsonContent>
 
 ## Remarks
 
-The data structure is stored in memory as a DOM, using standard objects and collections. Use [`Serialize`](./serialize/) and [`Deserialize`](./deserialize/) to convert to your types. Use [`Parse`](./parse/) and [`ToJson`](./tojson/) to convert from/to raw json text.
+The data structure is stored in memory as a DOM, using standard objects and collections. Use JsonSerializerSettings) and JsonSerializerSettings) to convert to your types. Use !:Parse(JsonDocument) and JsonSerializerSettings) to convert from/to raw json text.
 
 ### See Also
 

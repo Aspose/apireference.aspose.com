@@ -3,7 +3,7 @@ title: DgnImage.Entities
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage property. 
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.cad.fileformats.dgn/dgnimage/entities/
 ---
 ## DgnImage.Entities property

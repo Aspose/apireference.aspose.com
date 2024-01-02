@@ -3,7 +3,7 @@ title: Class IfcObjectDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcObjectDefinition class. Partial IIfc entity class
 type: docs
-weight: 25730
+weight: 25610
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/
 ---
 ## IfcObjectDefinition class

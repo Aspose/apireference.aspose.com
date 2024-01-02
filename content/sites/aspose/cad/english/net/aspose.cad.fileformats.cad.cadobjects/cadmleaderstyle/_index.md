@@ -3,7 +3,7 @@ title: Class CadMLeaderStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderStyle class. Class describing CadMLeaderStyle
 type: docs
-weight: 2830
+weight: 2860
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/
 ---
 ## CadMLeaderStyle class
@@ -26,6 +26,7 @@ public class CadMLeaderStyle : CadEntityBase
 | --- | --- |
 | [AlignSpace](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/alignspace/) { get; set; } | Gets or sets the align space. |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [ArrowheadId](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/arrowheadid/) { get; set; } | Gets or sets the arrowhead identifier. |
 | [ArrowheadSize](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/arrowheadsize/) { get; set; } | Gets or sets the size of the arrowhead. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
@@ -74,6 +75,7 @@ public class CadMLeaderStyle : CadEntityBase
 | [LeaderLineType](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/leaderlinetype/) { get; set; } | Gets or sets the type of the leader line. |
 | [LeaderLineTypeId](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/leaderlinetypeid/) { get; set; } | Gets or sets the leader line type identifier. |
 | [LeaderLineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/leaderlineweight/) { get; set; } | Gets or sets the leader line weight. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
@@ -95,7 +97,7 @@ public class CadMLeaderStyle : CadEntityBase
 | [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TextAlignAlwaysLeft](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textalignalwaysleft/) { get; set; } | Gets or sets the text align always left. |
 | [TextAlignmentType](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textalignmenttype/) { get; set; } | Gets or sets the type of the text alignment. |
 | [TextAngleType](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textangletype/) { get; set; } | Gets or sets the type of the text angle. |

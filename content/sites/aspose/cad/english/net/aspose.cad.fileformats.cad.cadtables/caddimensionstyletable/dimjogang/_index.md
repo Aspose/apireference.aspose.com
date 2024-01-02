@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimjogang
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets the dimtm  050
+description: CadDimensionStyleTable property. Gets or sets the angle of the transverse segment of the dimension line in a jogged radius dimension
 type: docs
 weight: 400
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimjogang/
 ---
 ## CadDimensionStyleTable.Dimjogang property
 
-Gets or sets the dimtm - 050
+Gets or sets the angle of the transverse segment of the dimension line in a jogged radius dimension.
 
 ```csharp
 public double Dimjogang { get; set; }

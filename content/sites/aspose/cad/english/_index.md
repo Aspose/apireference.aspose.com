@@ -36,7 +36,7 @@ Aspose.CAD for .NET is a cross-platform library, compatible with .NET Framework,
 
 These are links to some useful resources:
 - [Aspose.CAD for .NET API Reference](/cad/net/)
-
+- [Aspose.CAD for .NET API Tutorials](/tutorials/cad/net/)
 
 ## Aspose.CAD for Java
 
@@ -52,7 +52,6 @@ Aspose.CAD for Java is a cross-platform library, compatible with Java version 1.
 These are links to some useful resources:
 - [Aspose.CAD for Java API Reference](/cad/java/)
 
-
 ## Aspose.CAD for JasperReports
 
 {{% alert color="primary" %}}
@@ -64,4 +63,17 @@ Aspose.CAD for JasperReports is a library, compatible with JasperReports version
 {{% /alert %}}
 
 Following are the links to some useful resources you may need to accomplish your tasks.
-- [Aspose.CAD for JasperReports API Reference](/cad/jasperreports/)
+- [Aspose.CAD for JasperReports API Reference](/cad/jasperreports/) 
+
+## Aspose.CAD for Python via .NET
+
+{{% alert color="primary" %}}
+
+![Aspose.CAD for Python via .NET Product Logo](home_4.png)
+
+Aspose.CAD for Python via .NET is a cross-platform library, compatible with Python 3.x, with rich set of features and abilities described above. It is available through direct download and as a PyPi package.
+
+{{% /alert %}}
+
+Following are the links to some useful resources you may need to accomplish your tasks.
+- [Aspose.CAD for Python via .NET API Reference](/cad/python-net/)

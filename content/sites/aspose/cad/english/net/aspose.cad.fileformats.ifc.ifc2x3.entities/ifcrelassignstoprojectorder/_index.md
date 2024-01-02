@@ -3,7 +3,7 @@ title: Class IfcRelAssignsToProjectOrder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelAssignsToProjectOrder class. IfcRelAssignsToProjectOrder
 type: docs
-weight: 16480
+weight: 16360
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/
 ---
 ## IfcRelAssignsToProjectOrder class

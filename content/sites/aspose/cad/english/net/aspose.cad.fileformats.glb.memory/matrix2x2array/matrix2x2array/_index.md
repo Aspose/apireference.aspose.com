@@ -6,10 +6,10 @@ type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.glb.memory/matrix2x2array/matrix2x2array/
 ---
-## Matrix2x2Array(Memory&lt;byte&gt;, int, EncodingType, bool) {#constructor}
+## Matrix2x2Array(ArraySegment&lt;byte&gt;, int, EncodingType, bool) {#constructor}
 
 ```csharp
-public Matrix2x2Array(Memory<byte> source, int byteStride = 0, 
+public Matrix2x2Array(ArraySegment<byte> source, int byteStride = 0, 
     EncodingType encoding = EncodingType.FLOAT, bool normalized = false)
 ```
 
@@ -22,10 +22,10 @@ public Matrix2x2Array(Memory<byte> source, int byteStride = 0,
 
 ---
 
-## Matrix2x2Array(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
+## Matrix2x2Array(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
 
 ```csharp
-public Matrix2x2Array(Memory<byte> source, int byteOffset, int itemsCount, int byteStride, 
+public Matrix2x2Array(ArraySegment<byte> source, int byteOffset, int itemsCount, int byteStride, 
     EncodingType encoding, bool normalized)
 ```
 

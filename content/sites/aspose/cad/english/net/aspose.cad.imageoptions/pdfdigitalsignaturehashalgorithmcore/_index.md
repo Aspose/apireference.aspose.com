@@ -3,7 +3,7 @@ title: Enum PdfDigitalSignatureHashAlgorithmCore
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.PdfDigitalSignatureHashAlgorithmCore enum. Specifies digital hash algorithm used by digital signature
 type: docs
-weight: 36410
+weight: 36320
 url: /net/aspose.cad.imageoptions/pdfdigitalsignaturehashalgorithmcore/
 ---
 ## PdfDigitalSignatureHashAlgorithmCore enumeration

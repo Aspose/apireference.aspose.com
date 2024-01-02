@@ -6,10 +6,10 @@ type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.glb.memory/matrix4x4array/matrix4x4array/
 ---
-## Matrix4x4Array(Memory&lt;byte&gt;, int, EncodingType, bool) {#constructor}
+## Matrix4x4Array(ArraySegment&lt;byte&gt;, int, EncodingType, bool) {#constructor}
 
 ```csharp
-public Matrix4x4Array(Memory<byte> source, int byteStride = 0, 
+public Matrix4x4Array(ArraySegment<byte> source, int byteStride = 0, 
     EncodingType encoding = EncodingType.FLOAT, bool normalized = false)
 ```
 
@@ -22,10 +22,10 @@ public Matrix4x4Array(Memory<byte> source, int byteStride = 0,
 
 ---
 
-## Matrix4x4Array(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
+## Matrix4x4Array(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
 
 ```csharp
-public Matrix4x4Array(Memory<byte> source, int byteOffset, int itemsCount, int byteStride, 
+public Matrix4x4Array(ArraySegment<byte> source, int byteOffset, int itemsCount, int byteStride, 
     EncodingType encoding, bool normalized)
 ```
 

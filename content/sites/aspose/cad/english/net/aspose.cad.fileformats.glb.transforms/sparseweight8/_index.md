@@ -3,7 +3,7 @@ title: Struct SparseWeight8
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.SparseWeight8 struct. Represents a sparse collection of non zero weight values with a maximum of 8 weights
 type: docs
-weight: 11860
+weight: 11750
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/
 ---
 ## SparseWeight8 structure
@@ -29,7 +29,7 @@ public struct SparseWeight8 : IEquatable<SparseWeight8>
 | Name | Description |
 | --- | --- |
 | static [Add](../../aspose.cad.fileformats.glb.transforms/sparseweight8/add/)(ref SparseWeight8, ref SparseWeight8) | Adds *x* with *y* element wise. If there's more than 8 non zero result values, the 8 most representative values are taken. |
-| static [Blend](../../aspose.cad.fileformats.glb.transforms/sparseweight8/blend/)(ReadOnlySpan&lt;SparseWeight8&gt;, ReadOnlySpan&lt;float&gt;) |  |
+| static [Blend](../../aspose.cad.fileformats.glb.transforms/sparseweight8/blend/)(SparseWeight8[], float[]) |  |
 | static [Create](../../aspose.cad.fileformats.glb.transforms/sparseweight8/create/#create_5)(params (int Index, float Weight)[]) | Creates a new `SparseWeight8` from an indexed weight collection. If there's more than 8 weighted values, the 8 heaviest values are taken. |
 | static [Create](../../aspose.cad.fileformats.glb.transforms/sparseweight8/create/#create)(params float[]) | Creates a new `SparseWeight8` from a weights collection. If there's more than 8 non zero values, the 8 most representative values are taken. |
 | static [Create](../../aspose.cad.fileformats.glb.transforms/sparseweight8/create/#create_2)(IEnumerable&lt;(int Index, float Weight)&gt;) | Creates a new `SparseWeight8` from an indexed weight collection. If there's more than 8 weighted values, the 8 heaviest values are taken. |

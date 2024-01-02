@@ -1,14 +1,14 @@
 ---
 title: Struct QuaternionArray
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.QuaternionArray struct. Wraps an encoded Memory and exposes it as an IList
+description: Aspose.CAD.FileFormats.GLB.Memory.QuaternionArray struct. Wraps an encoded ArraySegment and exposes it as an IList
 type: docs
-weight: 11170
+weight: 11060
 url: /net/aspose.cad.fileformats.glb.memory/quaternionarray/
 ---
 ## QuaternionArray structure
 
-Wraps an encoded Memory and exposes it as an IList.
+Wraps an encoded ArraySegment and exposes it as an IList.
 
 ```csharp
 public struct QuaternionArray : IList<Quaternion>, IReadOnlyList<Quaternion>
@@ -18,8 +18,8 @@ public struct QuaternionArray : IList<Quaternion>, IReadOnlyList<Quaternion>
 
 | Name | Description |
 | --- | --- |
-| [QuaternionArray](quaternionarray/#constructor)(Memory&lt;byte&gt;, int, EncodingType, bool) |  |
-| [QuaternionArray](quaternionarray/#constructor_1)(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) |  |
+| [QuaternionArray](quaternionarray/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) |  |
+| [QuaternionArray](quaternionarray/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) |  |
 
 ## Properties
 

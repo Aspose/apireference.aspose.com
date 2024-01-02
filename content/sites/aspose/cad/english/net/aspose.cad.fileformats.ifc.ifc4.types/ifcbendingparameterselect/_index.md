@@ -3,7 +3,7 @@ title: Class IfcBendingParameterSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBendingParameterSelect class. IfcBendingParameterSelect
 type: docs
-weight: 29880
+weight: 29760
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbendingparameterselect/
 ---
 ## IfcBendingParameterSelect class

@@ -3,7 +3,7 @@ title: Class CadMLineStyleObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject.CadMLineStyleObject class. Class describing MLine Style object
 type: docs
-weight: 3680
+weight: 3700
 url: /net/aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/
 ---
 ## CadMLineStyleObject class
@@ -41,6 +41,7 @@ public class CadMLineStyleObject : CadBaseObject
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [StartAngle](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/startangle/) { get; set; } | Gets or sets the start angle. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleDescription](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/styledescription/) { get; set; } | Gets or sets the style description. |
 | [StyleName](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/stylename/) { get; set; } | Gets or sets the name of the style. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |

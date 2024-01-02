@@ -3,7 +3,7 @@ title: Class IfcWindowStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWindowStyle class. IfcWindowStyle
 type: docs
-weight: 29510
+weight: 29390
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowstyle/
 ---
 ## IfcWindowStyle class

@@ -3,7 +3,7 @@ title: Class CadShortParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadParameters.CadShortParameter class. The Cad short parameter
 type: docs
-weight: 4100
+weight: 4130
 url: /net/aspose.cad.fileformats.cad.cadparameters/cadshortparameter/
 ---
 ## CadShortParameter class

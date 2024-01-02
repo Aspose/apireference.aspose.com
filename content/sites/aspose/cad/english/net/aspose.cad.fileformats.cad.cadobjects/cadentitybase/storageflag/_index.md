@@ -3,7 +3,7 @@ title: CadEntityBase.StorageFlag
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value indicating that this entity has associated binary data in the data store
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/
 ---
 ## CadEntityBase.StorageFlag property
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/
 Gets or sets a value indicating that this entity has associated binary data in the data store.
 
 ```csharp
-public bool StorageFlag { get; set; }
+public override bool StorageFlag { get; set; }
 ```
 
 ### Property Value

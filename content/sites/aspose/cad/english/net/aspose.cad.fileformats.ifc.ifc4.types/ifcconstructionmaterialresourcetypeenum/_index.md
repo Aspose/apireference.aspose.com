@@ -3,7 +3,7 @@ title: Enum IfcConstructionMaterialResourceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcConstructionMaterialResourceTypeEnum enum. IfcConstructionMaterialResourceTypeEnum
 type: docs
-weight: 30220
+weight: 30100
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcconstructionmaterialresourcetypeenum/
 ---
 ## IfcConstructionMaterialResourceTypeEnum enumeration

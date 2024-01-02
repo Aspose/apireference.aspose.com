@@ -3,7 +3,7 @@ title: Enum IfcElectricApplianceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricApplianceTypeEnum enum. IfcElectricApplianceTypeEnum
 type: docs
-weight: 19450
+weight: 19330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricappliancetypeenum/
 ---
 ## IfcElectricApplianceTypeEnum enumeration

@@ -3,7 +3,7 @@ title: Class IfcPresentationStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPresentationStyle class. Partial IIfc entity class
 type: docs
-weight: 15850
+weight: 15730
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/
 ---
 ## IfcPresentationStyle class

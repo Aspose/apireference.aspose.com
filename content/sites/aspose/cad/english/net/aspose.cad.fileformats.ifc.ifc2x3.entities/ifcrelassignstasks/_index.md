@@ -3,7 +3,7 @@ title: Class IfcRelAssignsTasks
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelAssignsTasks class. IfcRelAssignsTasks
 type: docs
-weight: 16420
+weight: 16300
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstasks/
 ---
 ## IfcRelAssignsTasks class

@@ -3,7 +3,7 @@ title: DwfImage.UnitType
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage property. 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.dwf/dwfimage/unittype/
 ---
 ## DwfImage.UnitType property

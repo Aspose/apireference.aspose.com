@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.ThreeDS
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles 3D files format processing
 type: docs
-weight: 1170
+weight: 1140
 url: /net/aspose.cad.fileformats.threeds/
 ---
 The namespace handles 3D files format processing.

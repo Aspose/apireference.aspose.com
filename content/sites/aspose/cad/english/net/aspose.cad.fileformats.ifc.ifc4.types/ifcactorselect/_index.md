@@ -3,7 +3,7 @@ title: Class IfcActorSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcActorSelect class. IfcActorSelect
 type: docs
-weight: 29650
+weight: 29530
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcactorselect/
 ---
 ## IfcActorSelect class

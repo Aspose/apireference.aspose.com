@@ -3,7 +3,7 @@ title: Class StepFaceSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepFaceSurface class. FaceSurface class for STP file
 type: docs
-weight: 34630
+weight: 34520
 url: /net/aspose.cad.fileformats.stp.items/stepfacesurface/
 ---
 ## StepFaceSurface class

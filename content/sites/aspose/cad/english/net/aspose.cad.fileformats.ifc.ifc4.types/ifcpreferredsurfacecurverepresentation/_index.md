@@ -3,7 +3,7 @@ title: Enum IfcPreferredSurfaceCurveRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPreferredSurfaceCurveRepresentation enum. IfcPreferredSurfaceCurveRepresentation
 type: docs
-weight: 32110
+weight: 31990
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpreferredsurfacecurverepresentation/
 ---
 ## IfcPreferredSurfaceCurveRepresentation enumeration

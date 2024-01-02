@@ -3,7 +3,7 @@ title: Enum TextOrientation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.TextOrientation enum. Defines orientation of text
 type: docs
-weight: 33800
+weight: 33690
 url: /net/aspose.cad.fileformats.iges.drawables/textorientation/
 ---
 ## TextOrientation enumeration

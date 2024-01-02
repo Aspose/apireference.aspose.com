@@ -3,7 +3,7 @@ title: Class Faces
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Faces class. The faces. Faces are limited by one or more wires
 type: docs
-weight: 7590
+weight: 7640
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/faces/
 ---
 ## Faces class

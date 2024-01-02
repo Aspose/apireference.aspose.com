@@ -3,7 +3,7 @@ title: Class IfcPositiveRatioMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPositiveRatioMeasure class. IfcPositiveRatioMeasure
 type: docs
-weight: 32090
+weight: 31970
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveratiomeasure/
 ---
 ## IfcPositiveRatioMeasure class

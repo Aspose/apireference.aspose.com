@@ -3,7 +3,7 @@ title: Class IfcPileType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPileType class. IfcPileType
 type: docs
-weight: 26010
+weight: 25890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpiletype/
 ---
 ## IfcPileType class

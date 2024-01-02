@@ -3,7 +3,7 @@ title: Class IfcCompressorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCompressorType class. IfcCompressorType
 type: docs
-weight: 12980
+weight: 12860
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompressortype/
 ---
 ## IfcCompressorType class

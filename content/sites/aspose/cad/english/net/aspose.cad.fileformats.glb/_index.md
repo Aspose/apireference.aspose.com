@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles GLB files format processing
 type: docs
-weight: 700
+weight: 670
 url: /net/aspose.cad.fileformats.glb/
 ---
 The namespace handles GLB files format processing.
@@ -13,33 +13,19 @@ The namespace handles GLB files format processing.
 | Class | Description |
 | --- | --- |
 | [Accessor](./accessor/) |  |
-| [AccessorSparse](./accessorsparse/) | Sparse storage of accessor values that deviate from their initialization value. |
-| [AccessorSparseIndices](./accessorsparseindices/) | An object pointing to a buffer view containing the indices of deviating accessor values. The number of indices is equal to `accessor.sparse.count`. Indices **MUST** strictly increase. |
-| [AccessorSparseValues](./accessorsparsevalues/) | An object pointing to a buffer view containing the deviating accessor values. The number of elements is equal to `accessor.sparse.count` times number of components. The elements have the same component type as the base accessor. The elements are tightly packed. Data **MUST** be aligned following the same rules as the base accessor. |
-| [AgiArticulation](./agiarticulation/) |  |
-| [AgiArticulationStage](./agiarticulationstage/) | One stage of a model articulation definition. |
-| [AgiNodeArticulations](./aginodearticulations/) | glTF Extension for an individual node in a glTF model, to associate it with the model's root AGI_articulations object. |
-| [AgiNodeStkMetadata](./aginodestkmetadata/) | glTF Extension for an individual node in a glTF model, to associate it with the model's root AGI_stk_metadata object. |
-| [AgiRootArticulations](./agirootarticulations/) | glTF Extension that defines metadata for applying external analysis or effects to a model. |
-| [AgiRootStkMetadata](./agirootstkmetadata/) | glTF Extension that defines metadata for use with STK (Systems Tool Kit). |
-| [AgiStkSolarPanelGroup](./agistksolarpanelgroup/) |  |
 | [Animation](./animation/) | A keyframe animation. |
 | [AnimationChannel](./animationchannel/) |  |
 | [Asset](./asset/) | Metadata about the glTF asset. |
 | [Buffer](./buffer/) | A buffer points to binary geometry, animation, or skins. |
 | [BufferView](./bufferview/) | A view into a buffer generally representing a subset of the buffer. |
 | [Camera](./camera/) | A camera's projection. A node **MAY** reference a camera to apply a transform to place the camera in the scene. |
-| [CameraOrthographic](./cameraorthographic/) | An orthographic camera containing properties to create an orthographic projection matrix. |
-| [CameraPerspective](./cameraperspective/) | A perspective camera containing properties to create a perspective projection matrix. |
 | [ExtensionsFactory](./extensionsfactory/) | Global extensions manager. |
 | [ExtraProperties](./extraproperties/) | Represents the base class for all glTF 2 Schema objects. |
 | [FileReaderCallback](./filereadercallback/) | Callback used for loading associated files of current model. |
-| [FileWriterCallback](./filewritercallback/) | Callback used for saving associated files of the current model. |
 | [GlbData](./glbdata/) | The root object for a glTF asset. |
 | [GlbImage](./glbimage/) | Represents the base class of a serializable glTF schema2 object. Inherited by [`ExtraProperties`](../aspose.cad.fileformats.glb/extraproperties/). |
 | [ImageDecodeCallback](./imagedecodecallback/) | Callback used to intercept the loading of textures so they can be decoded by the client engine and uploaded to the GPU if neccesary. |
 | [ImageGlb](./imageglb/) | Image data used to create a texture. Image **MAY** be referenced by an URI (or IRI) or a buffer view index. |
-| [ImageWriterCallback](./imagewritercallback/) | Callback to control the image writing behavior. |
 | [JsonFilterCallback](./jsonfiltercallback/) | Callback used to preprocess and postprocess json before reading and after writing. |
 | [LogicalChildOfRoot](./logicalchildofroot/) | All gltf elements stored in ModelRoot must inherit from this class. |
 | [Material](./material/) | The material appearance of a primitive. |
@@ -55,8 +41,7 @@ The namespace handles GLB files format processing.
 | [TextureSampler](./texturesampler/) | Texture sampler properties for filtering and wrapping modes. |
 | [TextureTransform](./texturetransform/) | glTF extension that enables shifting and scaling UV coordinates on a per-texture basis |
 | [UriResolver](./uriresolver/) |  |
-| [WriteContext](./writecontext/) | Configuration settings for writing model files. |
-| [WriteSettings](./writesettings/) | Write settings and base class of [`WriteContext`](../aspose.cad.fileformats.glb/writecontext/) |
+| [WriteSettings](./writesettings/) | Write settings and base class of WriteContext |
 ## Structures
 
 | Structure | Description |
@@ -68,9 +53,7 @@ The namespace handles GLB files format processing.
 | Interface | Description |
 | --- | --- |
 | [IAnimationSampler&lt;T&gt;](./ianimationsampler-1/) | Represents an interface to a curve made of time-value points. |
-| [ICamera](./icamera/) | Common interface for [`CameraOrthographic`](../aspose.cad.fileformats.glb/cameraorthographic/) and [`CameraPerspective`](../aspose.cad.fileformats.glb/cameraperspective/). |
-| [IConvertibleToGltf2](./iconvertibletogltf2/) | Defines a method that converts the implementing reference to a [`GlbImage`](../aspose.cad.fileformats.glb/glbimage/) |
-| [IExtraProperties](./iextraproperties/) |  |
+| [ICamera](./icamera/) | Common interface for CameraOrthographic and CameraPerspective. |
 | [IMaterialParameter](./imaterialparameter/) |  |
 | [IVisualNodeContainer](./ivisualnodecontainer/) | Represents an abstract interface for a visual hierarchy. Implemented by [`Node`](../aspose.cad.fileformats.glb/node/) and [`Scene`](../aspose.cad.fileformats.glb/scene/). |
 ## Enumeration

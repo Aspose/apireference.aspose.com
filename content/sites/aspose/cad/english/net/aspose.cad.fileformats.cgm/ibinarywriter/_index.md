@@ -3,7 +3,7 @@ title: Interface IBinaryWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.IBinaryWriter interface. Writer interface to write binary values
 type: docs
-weight: 7120
+weight: 7170
 url: /net/aspose.cad.fileformats.cgm/ibinarywriter/
 ---
 ## IBinaryWriter interface

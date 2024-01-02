@@ -3,7 +3,7 @@ title: Class Mesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Mesh class. A set of primitives to be rendered. Its global transform is defined by a node that references it
 type: docs
-weight: 11220
+weight: 11110
 url: /net/aspose.cad.fileformats.glb/mesh/
 ---
 ## Mesh class

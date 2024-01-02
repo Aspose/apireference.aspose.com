@@ -3,7 +3,7 @@ title: Class TiffStreamWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.FileManagement.TiffStreamWriter class. Tiff stream writer
 type: docs
-weight: 35420
+weight: 35310
 url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/
 ---
 ## TiffStreamWriter class

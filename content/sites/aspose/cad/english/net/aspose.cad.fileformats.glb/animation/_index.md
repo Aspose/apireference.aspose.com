@@ -3,7 +3,7 @@ title: Class Animation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Animation class. A keyframe animation
 type: docs
-weight: 10130
+weight: 10080
 url: /net/aspose.cad.fileformats.glb/animation/
 ---
 ## Animation class

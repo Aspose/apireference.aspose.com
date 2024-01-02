@@ -3,7 +3,7 @@ title: Class U3dAuthorMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorMaterial class. 
 type: docs
-weight: 35710
+weight: 35600
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/
 ---
 ## U3dAuthorMaterial class

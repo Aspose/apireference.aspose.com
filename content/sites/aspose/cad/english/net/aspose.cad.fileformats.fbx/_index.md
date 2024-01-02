@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Fbx
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles FBX file format processing
 type: docs
-weight: 690
+weight: 660
 url: /net/aspose.cad.fileformats.fbx/
 ---
 The namespace handles FBX file format processing.

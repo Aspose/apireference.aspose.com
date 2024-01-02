@@ -14,7 +14,7 @@ public AnnotationEntityBuilder WithInsertionPoint(Point3D insertionPoint)
 
 ### See Also
 
-* class [Point3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
 * class [AnnotationEntityBuilder](../)
 * namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
 * assembly [Aspose.CAD](../../../)

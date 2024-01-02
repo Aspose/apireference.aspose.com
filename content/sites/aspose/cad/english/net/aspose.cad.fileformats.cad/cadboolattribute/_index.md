@@ -3,7 +3,7 @@ title: Class CadBoolAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadBoolAttribute class. class attribute for cad bool properties
 type: docs
-weight: 1200
+weight: 1140
 url: /net/aspose.cad.fileformats.cad/cadboolattribute/
 ---
 ## CadBoolAttribute class

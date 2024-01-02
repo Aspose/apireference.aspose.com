@@ -3,7 +3,7 @@ title: Class DgnSplineWeightFactorElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSplineWeightFactorElement class. Represents spline weight factor element
 type: docs
-weight: 8830
+weight: 8880
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsplineweightfactorelement/
 ---
 ## DgnSplineWeightFactorElement class
@@ -19,7 +19,7 @@ public class DgnSplineWeightFactorElement : DgnKnotWeightElement
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | [Weights](../../aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights/) { get; } | Gets or sets weights of knot |
 

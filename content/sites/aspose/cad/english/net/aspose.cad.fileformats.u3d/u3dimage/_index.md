@@ -3,7 +3,7 @@ title: Class U3dImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.U3dImage class. U3D image
 type: docs
-weight: 35820
+weight: 35710
 url: /net/aspose.cad.fileformats.u3d/u3dimage/
 ---
 ## U3dImage class
@@ -40,6 +40,7 @@ public class U3dImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.u3d/u3dimage/width/) { get; } | Gets the image width. |
 
 ## Methods

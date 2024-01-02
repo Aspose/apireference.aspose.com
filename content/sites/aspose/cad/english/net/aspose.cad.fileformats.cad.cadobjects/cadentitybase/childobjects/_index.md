@@ -3,7 +3,7 @@ title: CadEntityBase.ChildObjects
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the child entities that make up the current entity
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/
 ---
 ## CadEntityBase.ChildObjects property

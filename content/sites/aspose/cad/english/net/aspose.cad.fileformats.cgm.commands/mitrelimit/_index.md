@@ -3,7 +3,7 @@ title: Class MitreLimit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MitreLimit class. Class3 ElementId19
 type: docs
-weight: 6100
+weight: 6150
 url: /net/aspose.cad.fileformats.cgm.commands/mitrelimit/
 ---
 ## MitreLimit class

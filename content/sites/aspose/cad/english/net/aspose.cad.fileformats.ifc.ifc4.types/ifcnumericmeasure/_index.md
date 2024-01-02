@@ -3,7 +3,7 @@ title: Class IfcNumericMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcNumericMeasure class. IfcNumericMeasure
 type: docs
-weight: 31850
+weight: 31730
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcnumericmeasure/
 ---
 ## IfcNumericMeasure class

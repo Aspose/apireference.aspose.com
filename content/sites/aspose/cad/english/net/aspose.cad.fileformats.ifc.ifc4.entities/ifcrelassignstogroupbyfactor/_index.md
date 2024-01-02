@@ -3,7 +3,7 @@ title: Class IfcRelAssignsToGroupByFactor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelAssignsToGroupByFactor class. IfcRelAssignsToGroupByFactor
 type: docs
-weight: 27050
+weight: 26930
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstogroupbyfactor/
 ---
 ## IfcRelAssignsToGroupByFactor class

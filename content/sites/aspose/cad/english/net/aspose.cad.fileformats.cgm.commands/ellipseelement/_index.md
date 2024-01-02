@@ -3,7 +3,7 @@ title: Class EllipseElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EllipseElement class. Class4 ElementId17
 type: docs
-weight: 5420
+weight: 5470
 url: /net/aspose.cad.fileformats.cgm.commands/ellipseelement/
 ---
 ## EllipseElement class

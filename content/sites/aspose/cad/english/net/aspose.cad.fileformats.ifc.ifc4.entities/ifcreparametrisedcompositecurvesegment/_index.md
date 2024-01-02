@@ -3,7 +3,7 @@ title: Class IfcReparametrisedCompositeCurveSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcReparametrisedCompositeCurveSegment class. IfcReparametrisedCompositeCurveSegment
 type: docs
-weight: 27480
+weight: 27360
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/
 ---
 ## IfcReparametrisedCompositeCurveSegment class

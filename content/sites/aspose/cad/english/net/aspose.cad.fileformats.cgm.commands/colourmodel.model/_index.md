@@ -3,7 +3,7 @@ title: Enum ColourModel.Model
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourModelModel enum. 
 type: docs
-weight: 5110
+weight: 5160
 url: /net/aspose.cad.fileformats.cgm.commands/colourmodel.model/
 ---
 ## ColourModel.Model enumeration

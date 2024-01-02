@@ -3,7 +3,7 @@ title: Class IfcVibrationIsolatorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcVibrationIsolatorType class. IfcVibrationIsolatorType
 type: docs
-weight: 29370
+weight: 29250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvibrationisolatortype/
 ---
 ## IfcVibrationIsolatorType class

@@ -3,7 +3,7 @@ title: Interface ITextAsShapesOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.ITextAsShapesOptions interface. The TextAsShapes options
 type: docs
-weight: 36310
+weight: 36210
 url: /net/aspose.cad.imageoptions/itextasshapesoptions/
 ---
 ## ITextAsShapesOptions interface

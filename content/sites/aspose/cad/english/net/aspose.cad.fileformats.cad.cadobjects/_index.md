@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad file format base entities
 type: docs
-weight: 180
+weight: 130
 url: /net/aspose.cad.fileformats.cad.cadobjects/
 ---
 The namespace contains Cad file format base entities.
@@ -12,7 +12,7 @@ The namespace contains Cad file format base entities.
 
 | Class | Description |
 | --- | --- |
-| [Cad2DPoint](./cad2dpoint/) | The Cad 2 d point. |
+| [Cad2DPoint](./cad2dpoint/) | The Cad 2D point. |
 | [Cad2LineAngularDimension](./cad2lineangulardimension/) | The Cad angle dimension. |
 | [Cad3DFace](./cad3dface/) | Class that describes 3DFACE entity |
 | [Cad3DPoint](./cad3dpoint/) | The Cad point. |
@@ -27,8 +27,15 @@ The namespace contains Cad file format base entities.
 | [CadAcdsRecord](./cadacdsrecord/) | Class describing CadAcdsRecord |
 | [CadAcdsSchema](./cadacdsschema/) | Class describing CadAcdsSchema |
 | [CadAcidBlockReferenceEntity](./cadacidblockreferenceentity/) | The Cad AcidBlockReferenceEntity |
+| [CadAcshBoxClass](./cadacshboxclass/) | Class describing CadAcshBoxClass object. |
+| [CadAcshConeClass](./cadacshconeclass/) | Class describing CadAcshConeClass object. |
+| [CadAcshCylinderClass](./cadacshcylinderclass/) | Class describing CadAcshCylinderClass object. |
 | [CadAcshHistoryClass](./cadacshhistoryclass/) | Class describing CadAcshHistoryClass object. |
+| [CadAcshHistoryNode](./cadacshhistorynode/) | Class describing CadAcshHistoryNode object. |
 | [CadAcshPyramidClass](./cadacshpyramidclass/) | Class describing CadAcshPyramidClass object. |
+| [CadAcshSphereClass](./cadacshsphereclass/) | Class describing CadAcshSphereClass object. |
+| [CadAcshTorusClass](./cadacshtorusclass/) | Class describing CadAcshTorusClass object. |
+| [CadAcshWedgeClass](./cadacshwedgeclass/) | Class describing CadAcshWedgeClass object. |
 | [CadAlignedDimension](./cadaligneddimension/) | The Cad aligned dimension. |
 | [CadAngularDimension](./cadangulardimension/) | The Cad angular dimension. |
 | [CadApplicationCodes](./cadapplicationcodes/) | The Cad Application Defined Codes |
@@ -59,6 +66,7 @@ The namespace contains Cad file format base entities.
 | [CadDimensionOrdinate](./caddimensionordinate/) | The Cad dimension ordinate. |
 | [CadDwfUnderlay](./caddwfunderlay/) | Class describing CadDwfUnderlay |
 | [CadEllipse](./cadellipse/) | Class describing Cad ellipse |
+| [CadEmbeddedImage](./cadembeddedimage/) | Class describing Cad embedded image |
 | [CadEmbeddedObject](./cadembeddedobject/) | The Cad embedded object. |
 | [CadEmbeddedObjectContainer](./cadembeddedobjectcontainer/) | The embedded object Container |
 | [CadEntityBase](./cadentitybase/) | The Cad base entity object. |
@@ -79,7 +87,7 @@ The namespace contains Cad file format base entities.
 | [CadLightList](./cadlightlist/) | Class describing LIGHTLIST object. |
 | [CadLine](./cadline/) | Class describing Cad line |
 | [CadLoftedSurface](./cadloftedsurface/) | The Cad lofted surface. |
-| [CadLwPolyline](./cadlwpolyline/) | Class describing Cad lwPoliline |
+| [CadLwPolyline](./cadlwpolyline/) | Class describing Cad lwPolyline |
 | [CadMargin](./cadmargin/) | Class describing CadMargin |
 | [CadMaterial](./cadmaterial/) | Class describing CadMaterial |
 | [CadMesh](./cadmesh/) | Class describing CadMesh |
@@ -106,6 +114,7 @@ The namespace contains Cad file format base entities.
 | [CadPoint](./cadpoint/) | Class describing Cad Point |
 | [CadRadialDimension](./cadradialdimension/) | The Cad radial dimension. NOTE: This class is an exact copy of CadDiametricDimension except sublcass name |
 | [CadRasterImage](./cadrasterimage/) | Class describing Cad raster image |
+| [CadRasterImageData](./cadrasterimagedata/) | The Cad raster image data object. |
 | [CadRasterImageDef](./cadrasterimagedef/) | The Cad aster image definition object. |
 | [CadRasterImageDefReactor](./cadrasterimagedefreactor/) | The Cad raster image definition reactor object. |
 | [CadRay](./cadray/) | Class describing CadRay |
@@ -128,7 +137,6 @@ The namespace contains Cad file format base entities.
 | [CadTableContent](./cadtablecontent/) | Class describing TABLECONTENT object. |
 | [CadTableFormat](./cadtableformat/) | Class describing CadTableFormat |
 | [CadTableGeometry](./cadtablegeometry/) | Class describing TABLEGEOMETRY object. |
-| [CadTableStyle](./cadtablestyle/) | Class describing CadTableStyle |
 | [CadText](./cadtext/) | Class describing Cad text |
 | [CadThumbnailImage](./cadthumbnailimage/) | The Cad ThumbnailImage entity. |
 | [CadTolerance](./cadtolerance/) | The Cad tolerance. |

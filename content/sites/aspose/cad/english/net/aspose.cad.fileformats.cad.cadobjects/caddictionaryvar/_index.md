@@ -3,7 +3,7 @@ title: Class CadDictionaryVar
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadDictionaryVar class. Class describing DICTIONARYVAR object
 type: docs
-weight: 2500
+weight: 2520
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddictionaryvar/
 ---
 ## CadDictionaryVar class
@@ -36,6 +36,7 @@ public class CadDictionaryVar : CadBaseObject
 | [ObjectSchemaNumber](../../aspose.cad.fileformats.cad.cadobjects/caddictionaryvar/objectschemanumber/) { get; set; } | Gets or sets the object schema number. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [Value](../../aspose.cad.fileformats.cad.cadobjects/caddictionaryvar/value/) { get; set; } | Gets or sets value of variable. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |

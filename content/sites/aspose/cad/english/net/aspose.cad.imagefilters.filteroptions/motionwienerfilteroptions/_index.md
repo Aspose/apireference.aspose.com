@@ -3,7 +3,7 @@ title: Class MotionWienerFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageFilters.FilterOptions.MotionWienerFilterOptions class. Deconvolution filter options deblur motion
 type: docs
-weight: 36120
+weight: 36010
 url: /net/aspose.cad.imagefilters.filteroptions/motionwienerfilteroptions/
 ---
 ## MotionWienerFilterOptions class

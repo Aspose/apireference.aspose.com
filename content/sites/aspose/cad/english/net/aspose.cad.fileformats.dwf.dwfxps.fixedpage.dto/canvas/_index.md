@@ -3,7 +3,7 @@ title: Class Canvas
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.Canvas class. The canvas. The Canvas element groups elements together. Glyphs and Path elements can be grouped in a canvas in order to be identified as a unitas a hyperlink destination or to apply a composed property value to each child and ancestor element
 type: docs
-weight: 9120
+weight: 9160
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/canvas/
 ---
 ## Canvas class

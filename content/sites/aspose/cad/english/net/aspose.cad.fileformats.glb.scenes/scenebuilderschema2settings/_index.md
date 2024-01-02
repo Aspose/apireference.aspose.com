@@ -3,7 +3,7 @@ title: Struct SceneBuilderSchema2Settings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.SceneBuilderSchema2Settings struct. Defines configurable options for converting SceneBuilder to GlbImage
 type: docs
-weight: 11590
+weight: 11480
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilderschema2settings/
 ---
 ## SceneBuilderSchema2Settings structure

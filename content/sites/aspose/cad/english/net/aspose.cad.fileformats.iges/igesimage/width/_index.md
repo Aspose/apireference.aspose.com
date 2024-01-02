@@ -3,7 +3,7 @@ title: IgesImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: IgesImage property. Gets Image width
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.cad.fileformats.iges/igesimage/width/
 ---
 ## IgesImage.Width property

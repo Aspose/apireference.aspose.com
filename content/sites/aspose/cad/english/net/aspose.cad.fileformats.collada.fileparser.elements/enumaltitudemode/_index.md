@@ -3,7 +3,7 @@ title: Enum EnumAltitudeMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumAltitudeMode enum. The altitude mode. The legal values for the mode attribute on the altitude element in a geographic_location element
 type: docs
-weight: 7460
+weight: 7510
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumaltitudemode/
 ---
 ## EnumAltitudeMode enumeration

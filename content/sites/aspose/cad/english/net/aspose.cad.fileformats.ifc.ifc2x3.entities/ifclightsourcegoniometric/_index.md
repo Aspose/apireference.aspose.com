@@ -3,7 +3,7 @@ title: Class IfcLightSourceGoniometric
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLightSourceGoniometric class. IfcLightSourceGoniometric
 type: docs
-weight: 14990
+weight: 14870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcegoniometric/
 ---
 ## IfcLightSourceGoniometric class

@@ -3,7 +3,7 @@ title: Class IfcFooting
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFooting class. IfcFooting
 type: docs
-weight: 14600
+weight: 14480
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfooting/
 ---
 ## IfcFooting class

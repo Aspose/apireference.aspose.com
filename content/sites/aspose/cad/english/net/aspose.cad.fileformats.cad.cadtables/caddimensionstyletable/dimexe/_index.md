@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimexe
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimexe  044
+description: CadDimensionStyleTable property. Gets or sets the distance between extension line and dimension line
 type: docs
 weight: 330
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimexe/
 ---
 ## CadDimensionStyleTable.Dimexe property
 
-Gets or sets The dimexe - 044
+Gets or sets the distance between extension line and dimension line.
 
 ```csharp
 public double Dimexe { get; set; }

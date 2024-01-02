@@ -3,7 +3,7 @@ title: Class IfcTextureCoordinateGenerator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTextureCoordinateGenerator class. IfcTextureCoordinateGenerator
 type: docs
-weight: 29010
+weight: 28890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinategenerator/
 ---
 ## IfcTextureCoordinateGenerator class

@@ -3,7 +3,7 @@ title: Class JsonSerializable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IO.JsonSerializable class. Represents the base class of a serializable glTF schema2 object. Inherited by ExtraProperties
 type: docs
-weight: 10870
+weight: 10770
 url: /net/aspose.cad.fileformats.glb.io/jsonserializable/
 ---
 ## JsonSerializable class

@@ -3,7 +3,7 @@ title: Class CharacterSetIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterSetIndex class. 
 type: docs
-weight: 4930
+weight: 4980
 url: /net/aspose.cad.fileformats.cgm.commands/charactersetindex/
 ---
 ## CharacterSetIndex class

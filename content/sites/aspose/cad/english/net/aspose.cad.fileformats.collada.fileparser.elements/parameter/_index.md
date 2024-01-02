@@ -3,7 +3,7 @@ title: Class Parameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Parameter class. The parameter. The parameter element declares parametric information regarding its parent element
 type: docs
-weight: 8070
+weight: 8120
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/parameter/
 ---
 ## Parameter class

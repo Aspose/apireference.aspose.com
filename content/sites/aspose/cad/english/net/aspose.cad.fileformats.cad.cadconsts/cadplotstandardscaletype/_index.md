@@ -3,7 +3,7 @@ title: Enum CadPlotStandardScaleType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotStandardScaleType enum. Standard scale type. CadPlotSettings
 type: docs
-weight: 1560
+weight: 1510
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotstandardscaletype/
 ---
 ## CadPlotStandardScaleType enumeration

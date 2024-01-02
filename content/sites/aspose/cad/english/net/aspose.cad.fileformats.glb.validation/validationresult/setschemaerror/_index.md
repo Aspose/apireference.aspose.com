@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.glb.validation/validationresult/setschemaerror/
 ---
-## SetSchemaError(EndOfStreamException) {#setschemaerror_2}
+## SetSchemaError(EndOfStreamException) {#setschemaerror_1}
 
 ```csharp
 public void SetSchemaError(EndOfStreamException ex)
@@ -24,21 +24,6 @@ public void SetSchemaError(EndOfStreamException ex)
 
 ```csharp
 public void SetSchemaError(GlbData model, string error)
-```
-
-### See Also
-
-* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
-* class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## SetSchemaError(GlbData, JsonException) {#setschemaerror_1}
-
-```csharp
-public void SetSchemaError(GlbData model, JsonException ex)
 ```
 
 ### See Also

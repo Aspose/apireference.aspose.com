@@ -3,7 +3,7 @@ title: Class IfcSubContractResource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSubContractResource class. IfcSubContractResource
 type: docs
-weight: 17750
+weight: 17630
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsubcontractresource/
 ---
 ## IfcSubContractResource class

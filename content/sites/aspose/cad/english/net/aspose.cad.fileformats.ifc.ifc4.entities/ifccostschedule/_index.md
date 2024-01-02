@@ -3,7 +3,7 @@ title: Class IfcCostSchedule
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCostSchedule class. IfcCostSchedule
 type: docs
-weight: 23330
+weight: 23210
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostschedule/
 ---
 ## IfcCostSchedule class

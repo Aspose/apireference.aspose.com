@@ -3,7 +3,7 @@ title: Class IfcIndexedPolygonalFaceWithVoids
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedPolygonalFaceWithVoids class. IfcIndexedPolygonalFaceWithVoids
 type: docs
-weight: 25040
+weight: 24920
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolygonalfacewithvoids/
 ---
 ## IfcIndexedPolygonalFaceWithVoids class

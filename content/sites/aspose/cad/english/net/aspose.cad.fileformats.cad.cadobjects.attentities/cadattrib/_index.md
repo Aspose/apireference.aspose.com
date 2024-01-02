@@ -3,7 +3,7 @@ title: Class CadAttrib
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities.CadAttrib class. The Cad attrib
 type: docs
-weight: 1780
+weight: 1730
 url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/
 ---
 ## CadAttrib class
@@ -26,6 +26,7 @@ public class CadAttrib : CadXrecordObject
 | --- | --- |
 | [AlignmentPoint](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/alignmentpoint/) { get; set; } | Gets or sets the alignment point. |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
 | [AttribAlignmentPoint](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attribalignmentpoint/) { get; set; } | Gets or sets the alignment point. |
 | [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
@@ -60,6 +61,7 @@ public class CadAttrib : CadXrecordObject
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
 | [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
@@ -81,7 +83,7 @@ public class CadAttrib : CadXrecordObject
 | [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleType](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/styletype/) { get; set; } | Gets or sets the attribute string. |
 | [TextFlags](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textflags/) { get; set; } | Gets or sets the textFlags. |
 | [TextHeight](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textheight/) { get; set; } | Gets or sets the text height. |
@@ -94,7 +96,7 @@ public class CadAttrib : CadXrecordObject
 | [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | Gets or sets the transparency value for the entity. |
 | override [TypeName](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/typename/) { get; } | Gets the name of the type. |
 | [Version](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/version/) { get; set; } | Gets or sets the version. |
-| override [Visible](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/visible/) { get; set; } | Gets or sets a value indicating whether this !:CadBaseEntity is visible. |
+| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/) { get; set; } | Gets or sets a value indicating whether this [`CadEntityBase`](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/) is visible. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 | [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/xdirmissingflag/) { get; set; } | Gets or sets a value indicating that no XDictionary handle is stored for this entity. |
 

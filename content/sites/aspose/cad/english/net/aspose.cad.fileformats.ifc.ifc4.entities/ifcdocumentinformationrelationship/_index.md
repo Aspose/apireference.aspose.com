@@ -3,7 +3,7 @@ title: Class IfcDocumentInformationRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDocumentInformationRelationship class. IfcDocumentInformationRelationship
 type: docs
-weight: 23730
+weight: 23610
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformationrelationship/
 ---
 ## IfcDocumentInformationRelationship class

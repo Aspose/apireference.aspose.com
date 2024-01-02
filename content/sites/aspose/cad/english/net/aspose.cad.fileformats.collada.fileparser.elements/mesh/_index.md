@@ -3,7 +3,7 @@ title: Class Mesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Mesh class. The mesh. The mesh element contains vertex and primitive information sufficient to describe basic geometric meshes
 type: docs
-weight: 7990
+weight: 8040
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/mesh/
 ---
 ## Mesh class

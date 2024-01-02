@@ -3,7 +3,7 @@ title: Enum IfcSequenceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSequenceEnum enum. IfcSequenceEnum
 type: docs
-weight: 32570
+weight: 32450
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsequenceenum/
 ---
 ## IfcSequenceEnum enumeration

@@ -3,7 +3,7 @@ title: Enum CadFileFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadFileFormat enum. CAD file formats
 type: docs
-weight: 1350
+weight: 1290
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadfileformat/
 ---
 ## CadFileFormat enumeration

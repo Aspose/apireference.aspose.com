@@ -3,7 +3,7 @@ title: JsonContent.GetNode
 second_title: Aspose.CAD for .NET API Reference
 description: JsonContent method. 
 type: docs
-weight: 90
+weight: 60
 url: /net/aspose.cad.fileformats.glb.io/jsoncontent/getnode/
 ---
 ## JsonContent.GetNode method

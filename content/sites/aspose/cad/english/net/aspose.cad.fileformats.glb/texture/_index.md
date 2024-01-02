@@ -3,7 +3,7 @@ title: Class Texture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Texture class. A texture and its sampler
 type: docs
-weight: 11630
+weight: 11520
 url: /net/aspose.cad.fileformats.glb/texture/
 ---
 ## Texture class

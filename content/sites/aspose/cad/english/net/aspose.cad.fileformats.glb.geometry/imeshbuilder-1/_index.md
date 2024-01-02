@@ -3,7 +3,7 @@ title: Interface IMeshBuilderTMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.IMeshBuilder1TMaterial interface. Represents an utility class to help build meshes by adding primitives associated with a given material
 type: docs
-weight: 10370
+weight: 10290
 url: /net/aspose.cad.fileformats.glb.geometry/imeshbuilder-1/
 ---
 ## IMeshBuilder&lt;TMaterial&gt; interface

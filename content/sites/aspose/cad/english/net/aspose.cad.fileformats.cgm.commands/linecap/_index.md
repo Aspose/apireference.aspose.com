@@ -3,7 +3,7 @@ title: Class LineCap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineCap class. 
 type: docs
-weight: 5840
+weight: 5890
 url: /net/aspose.cad.fileformats.cgm.commands/linecap/
 ---
 ## LineCap class

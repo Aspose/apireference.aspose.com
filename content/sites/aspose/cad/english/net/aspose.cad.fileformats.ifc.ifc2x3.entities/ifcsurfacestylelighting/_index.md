@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleLighting
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceStyleLighting class. IfcSurfaceStyleLighting
 type: docs
-weight: 17820
+weight: 17700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/
 ---
 ## IfcSurfaceStyleLighting class

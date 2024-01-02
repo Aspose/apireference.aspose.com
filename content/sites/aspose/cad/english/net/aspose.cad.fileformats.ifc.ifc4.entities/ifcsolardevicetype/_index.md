@@ -3,7 +3,7 @@ title: Class IfcSolarDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSolarDeviceType class. IfcSolarDeviceType
 type: docs
-weight: 27910
+weight: 27790
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolardevicetype/
 ---
 ## IfcSolarDeviceType class

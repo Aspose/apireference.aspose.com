@@ -3,7 +3,7 @@ title: Class IfcElectricApplianceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcElectricApplianceType class. IfcElectricApplianceType
 type: docs
-weight: 13890
+weight: 13770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricappliancetype/
 ---
 ## IfcElectricApplianceType class

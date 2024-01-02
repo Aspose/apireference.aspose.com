@@ -3,7 +3,7 @@ title: FbxImage.Layouts
 second_title: Aspose.CAD for .NET API Reference
 description: FbxImage property. 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.fbx/fbximage/layouts/
 ---
 ## FbxImage.Layouts property

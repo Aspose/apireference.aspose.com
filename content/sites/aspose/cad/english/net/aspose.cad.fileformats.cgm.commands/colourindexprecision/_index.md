@@ -3,7 +3,7 @@ title: Class ColourIndexPrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourIndexPrecision class. 
 type: docs
-weight: 5090
+weight: 5140
 url: /net/aspose.cad.fileformats.cgm.commands/colourindexprecision/
 ---
 ## ColourIndexPrecision class

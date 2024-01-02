@@ -16,15 +16,10 @@ is_root: true
 | [Aspose.CAD.CadExceptions](./aspose.cad.cadexceptions/) | The namespace contains exceptions thrown by any of the core CAD components. |
 | [Aspose.CAD.CadExceptions.Compressors](./aspose.cad.cadexceptions.compressors/) | The namespace contains exceptions thrown by one of the compression algorithms supported. |
 | [Aspose.CAD.CadExceptions.ImageFormats](./aspose.cad.cadexceptions.imageformats/) | The namespace contains exceptions thrown by one of the file formats supported. |
-| [Aspose.CAD.Core.Watermark](./aspose.cad.core.watermark/) | The namespace contains classes for handling watermarks. |
-| [Aspose.CAD.Core.Watermark.Validator](./aspose.cad.core.watermark.validator/) | The namespace contains classes for validate watermarks. |
-| [Aspose.CAD.Dxf.Core.FileFormats.Cad.Writers](./aspose.cad.dxf.core.fileformats.cad.writers/) | The namespace contains the namespaces used to write Dxf formats. |
 | [Aspose.CAD.Exif](./aspose.cad.exif/) | The namespace contains EXIF related helper classes and methods. |
 | [Aspose.CAD.Exif.Enums](./aspose.cad.exif.enums/) | The namespace contains EXIF enumerations. |
-| [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](./aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/) | The namespace contains classes for handling the APS format. |
-| [Aspose.CAD.Exporters.IgesExporter.IgesDrawableExporter](./aspose.cad.exporters.igesexporter.igesdrawableexporter/) | The namespace contains methods for exporting PolyLine, BezierCurve, and Text from an IGES drawing to APS. |
 | [Aspose.CAD.FileFormats](./aspose.cad.fileformats/) | The namespace contains graphics files processing classes and methods. |
-| [Aspose.CAD.FileFormats.Bitmap](./aspose.cad.fileformats.bitmap/) | The namespace contains classes that can be used for holding any raster data independently of format. |
+| [Aspose.CAD.FileFormats.Aps](./aspose.cad.fileformats.aps/) | The namespace handles ApsGroup files format processing. |
 | [Aspose.CAD.FileFormats.Bmp](./aspose.cad.fileformats.bmp/) | The namespace handles BMP file format processing. |
 | [Aspose.CAD.FileFormats.Cad](./aspose.cad.fileformats.cad/) | The namespace handles Cad related file formats processing. |
 | [Aspose.CAD.FileFormats.Cad.CadConsts](./aspose.cad.fileformats.cad.cadconsts/) | The namespace contains Cad file format constants. |
@@ -57,6 +52,8 @@ is_root: true
 | [Aspose.CAD.FileFormats.Cad.Dwg.R2004](./aspose.cad.fileformats.cad.dwg.r2004/) | The namespace contains the class with the checksum of the section page data. |
 | [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](./aspose.cad.fileformats.cad.dwg.revhistory/) | The namespace handles the revision history of the DWG file. |
 | [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](./aspose.cad.fileformats.cad.dwg.summaryinfo/) | The namespace contains the class with the summary information data. |
+| [Aspose.CAD.FileFormats.Cad.Geometry](./aspose.cad.fileformats.cad.geometry/) | The namespace handles CAD geometry objects. |
+| [Aspose.CAD.FileFormats.Cad.WatermarkGuard](./aspose.cad.fileformats.cad.watermarkguard/) |  |
 | [Aspose.CAD.FileFormats.CF2](./aspose.cad.fileformats.cf2/) | The namespace handles CF2 related file formats processing. |
 | [Aspose.CAD.FileFormats.Cgm](./aspose.cad.fileformats.cgm/) | The namespace handles CGM files format processing. |
 | [Aspose.CAD.FileFormats.Cgm.Classes](./aspose.cad.fileformats.cgm.classes/) | The namespace contains entities of CGM classes. |
@@ -78,7 +75,7 @@ is_root: true
 | [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](./aspose.cad.fileformats.dwf.whip.objects.drawable.text/) | The namespace handles Dwf whip objects processing. |
 | [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](./aspose.cad.fileformats.dwf.whip.objects.service/) | The namespace handles Dwf whip objects processing. |
 | [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](./aspose.cad.fileformats.dwf.whip.objects.service.font/) | The namespace handles Dwf whip objects processing. |
-| [Aspose.CAD.FileFormats.Dwg.PageAndSection](./aspose.cad.fileformats.dwg.pageandsection/) |  |
+| [Aspose.CAD.FileFormats.Dwg.PageAndSection](./aspose.cad.fileformats.dwg.pageandsection/) | The namespace contains classes for processing of paged data storage in DWG. |
 | [Aspose.CAD.FileFormats.Fbx](./aspose.cad.fileformats.fbx/) | The namespace handles FBX file format processing. |
 | [Aspose.CAD.FileFormats.GLB](./aspose.cad.fileformats.glb/) | The namespace handles GLB files format processing. |
 | [Aspose.CAD.FileFormats.GLB.Animations](./aspose.cad.fileformats.glb.animations/) | The namespace contains entities of GLB animations. |
@@ -140,9 +137,12 @@ is_root: true
 | [Aspose.CAD.ImageFilters.FilterOptions](./aspose.cad.imagefilters.filteroptions/) | The namespace handles Filter options. |
 | [Aspose.CAD.ImageOptions](./aspose.cad.imageoptions/) | The namespace contains classes suitable for export, save or creation of different file formats. |
 | [Aspose.CAD.ImageOptions.SvgOptionsParameters](./aspose.cad.imageoptions.svgoptionsparameters/) | The namespace contains the namespaces contains the SVG bitmap parameters. |
+| [Aspose.CAD.Measurement](./aspose.cad.measurement/) | The namespace handles area and perimeter measurements. |
 | [Aspose.CAD.PaletteHelper](./aspose.cad.palettehelper/) | The namespace contains classes for adjustment of color palette to the image colors and visa versa. |
+| [Aspose.CAD.Primitives](./aspose.cad.primitives/) | The namespace handles generic primitives. |
 | [Aspose.CAD.Sources](./aspose.cad.sources/) | Namespace contains different stream sources which are suitable for input or output data flow. |
 | [Aspose.CAD.TimeProvision](./aspose.cad.timeprovision/) | The namespace contains classes that can be used to set up artificial timestamps for output files (only for output to DWF currently). |
+| [Aspose.CAD.WatermarkGuard](./aspose.cad.watermarkguard/) |  |
 | [Aspose.CAD.Xmp](./aspose.cad.xmp/) | The namespace contains XMP related helper classes and methods. |
 | [Aspose.CAD.Xmp.Schemas.DublinCore](./aspose.cad.xmp.schemas.dublincore/) | The namespace contains Dublin Core metadata related helper classes, constants and methods. |
 | [Aspose.CAD.Xmp.Schemas.Pdf](./aspose.cad.xmp.schemas.pdf/) | The namespace contains related helper classes, constants and methods used with Adobe PDF documents. |

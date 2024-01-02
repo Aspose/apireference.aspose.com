@@ -3,7 +3,7 @@ title: Class IfcDayInWeekNumber
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDayInWeekNumber class. IfcDayInWeekNumber
 type: docs
-weight: 30470
+weight: 30350
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdayinweeknumber/
 ---
 ## IfcDayInWeekNumber class

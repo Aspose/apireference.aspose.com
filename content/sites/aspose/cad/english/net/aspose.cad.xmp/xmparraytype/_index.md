@@ -3,7 +3,7 @@ title: Enum XmpArrayType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpArrayType enum. Represents array type in XmpArray
 type: docs
-weight: 37700
+weight: 37640
 url: /net/aspose.cad.xmp/xmparraytype/
 ---
 ## XmpArrayType enumeration

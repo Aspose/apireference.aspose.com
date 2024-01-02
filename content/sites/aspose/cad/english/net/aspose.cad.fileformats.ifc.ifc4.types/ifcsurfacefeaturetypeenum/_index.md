@@ -3,7 +3,7 @@ title: Enum IfcSurfaceFeatureTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSurfaceFeatureTypeEnum enum. IfcSurfaceFeatureTypeEnum
 type: docs
-weight: 32920
+weight: 32800
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsurfacefeaturetypeenum/
 ---
 ## IfcSurfaceFeatureTypeEnum enumeration

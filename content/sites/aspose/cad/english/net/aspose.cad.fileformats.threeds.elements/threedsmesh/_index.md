@@ -3,7 +3,7 @@ title: Class ThreeDSMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSMesh class. 
 type: docs
-weight: 35190
+weight: 35080
 url: /net/aspose.cad.fileformats.threeds.elements/threedsmesh/
 ---
 ## ThreeDSMesh class
@@ -32,6 +32,12 @@ public class ThreeDSMesh
 | [MappingCoordinates](../../aspose.cad.fileformats.threeds.elements/threedsmesh/mappingcoordinates/) { get; } |  |
 | [Name](../../aspose.cad.fileformats.threeds.elements/threedsmesh/name/) { get; set; } |  |
 | [Vertices](../../aspose.cad.fileformats.threeds.elements/threedsmesh/vertices/) { get; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [AddFace](../../aspose.cad.fileformats.threeds.elements/threedsmesh/addface/)(ushort, ushort, ushort, ushort) | Method for adding of the face with check of consistency of vertices indices. |
 
 ### See Also
 

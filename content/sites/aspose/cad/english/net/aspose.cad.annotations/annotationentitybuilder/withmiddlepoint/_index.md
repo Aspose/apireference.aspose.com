@@ -14,7 +14,7 @@ public AnnotationEntityBuilder WithMiddlePoint(Point3D middlePoint)
 
 ### See Also
 
-* class [Point3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
 * class [AnnotationEntityBuilder](../)
 * namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
 * assembly [Aspose.CAD](../../../)

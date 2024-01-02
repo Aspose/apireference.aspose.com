@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.DimblkHandle
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimblk  342
+description: CadDimensionStyleTable property. Gets or sets the handle for the block referenced by Dimblk
 type: docs
 weight: 240
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimblkhandle/
 ---
 ## CadDimensionStyleTable.DimblkHandle property
 
-Gets or sets The dimblk - 342
+Gets or sets the handle for the block referenced by Dimblk.
 
 ```csharp
 public string DimblkHandle { get; set; }

@@ -3,7 +3,7 @@ title: Class PrimitiveBuilderTMaterialTvGTvMTvS
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.PrimitiveBuilder4TMaterialTvGTvMTvS class. Represents an utility class to help build mesh primitives by adding points lines or triangles
 type: docs
-weight: 10500
+weight: 10420
 url: /net/aspose.cad.fileformats.glb.geometry/primitivebuilder-4/
 ---
 ## PrimitiveBuilder&lt;TMaterial,TvG,TvM,TvS&gt; class

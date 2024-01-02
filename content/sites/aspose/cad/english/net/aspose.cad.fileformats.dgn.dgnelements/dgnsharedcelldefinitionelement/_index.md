@@ -3,7 +3,7 @@ title: Class DgnSharedCellDefinitionElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSharedCellDefinitionElement class. Represents shared cell definition element
 type: docs
-weight: 8790
+weight: 8840
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/
 ---
 ## DgnSharedCellDefinitionElement class
@@ -20,7 +20,7 @@ public class DgnSharedCellDefinitionElement : DgnElementBase, ICompositeDgnEleme
 | --- | --- |
 | [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/childs/) { get; } | Gets childs of the composite element |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/name/) { get; } | Gets the name. |
 | [Totallength](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/totallength/) { get; } | Gets cell total length |

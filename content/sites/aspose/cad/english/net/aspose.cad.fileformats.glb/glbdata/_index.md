@@ -3,7 +3,7 @@ title: Class GlbData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.GlbData class. The root object for a glTF asset
 type: docs
-weight: 10790
+weight: 10710
 url: /net/aspose.cad.fileformats.glb/glbdata/
 ---
 ## GlbData class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.glb/glbdata/
 The root object for a glTF asset.
 
 ```csharp
-public class GlbData : ExtraProperties, IConvertibleToGltf2
+public class GlbData : ExtraProperties
 ```
 
 ## Properties
@@ -98,7 +98,6 @@ public class GlbData : ExtraProperties, IConvertibleToGltf2
 ### See Also
 
 * class [ExtraProperties](../extraproperties/)
-* interface [IConvertibleToGltf2](../iconvertibletogltf2/)
 * namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../)
 

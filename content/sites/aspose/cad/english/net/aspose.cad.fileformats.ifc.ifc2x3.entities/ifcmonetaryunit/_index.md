@@ -3,7 +3,7 @@ title: Class IfcMonetaryUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMonetaryUnit class. IfcMonetaryUnit
 type: docs
-weight: 15260
+weight: 15140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmonetaryunit/
 ---
 ## IfcMonetaryUnit class

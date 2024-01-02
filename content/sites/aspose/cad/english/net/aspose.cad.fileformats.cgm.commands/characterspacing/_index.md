@@ -3,7 +3,7 @@ title: Class CharacterSpacing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterSpacing class. 
 type: docs
-weight: 4960
+weight: 5010
 url: /net/aspose.cad.fileformats.cgm.commands/characterspacing/
 ---
 ## CharacterSpacing class

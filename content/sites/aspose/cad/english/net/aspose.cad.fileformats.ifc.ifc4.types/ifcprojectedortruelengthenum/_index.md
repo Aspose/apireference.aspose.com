@@ -3,7 +3,7 @@ title: Enum IfcProjectedOrTrueLengthEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcProjectedOrTrueLengthEnum enum. IfcProjectedOrTrueLengthEnum
 type: docs
-weight: 32210
+weight: 32090
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcprojectedortruelengthenum/
 ---
 ## IfcProjectedOrTrueLengthEnum enumeration

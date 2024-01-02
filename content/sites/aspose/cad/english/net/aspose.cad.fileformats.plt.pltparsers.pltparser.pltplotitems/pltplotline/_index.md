@@ -3,7 +3,7 @@ title: Class PltPlotLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotLine class. The PLT plot Line object
 type: docs
-weight: 34100
+weight: 33990
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotline/
 ---
 ## PltPlotLine class

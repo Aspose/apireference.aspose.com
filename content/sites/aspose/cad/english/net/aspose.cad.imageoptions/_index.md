@@ -3,7 +3,7 @@ title: Aspose.CAD.ImageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes suitable for export save or creation of different file formats
 type: docs
-weight: 1280
+weight: 1250
 url: /net/aspose.cad.imageoptions/
 ---
 The namespace contains classes suitable for export, save or creation of different file formats.
@@ -12,6 +12,7 @@ The namespace contains classes suitable for export, save or creation of differen
 
 | Class | Description |
 | --- | --- |
+| [ApsGroupOptions](./apsgroupoptions/) | The CGM options. |
 | [BmpOptions](./bmpoptions/) | The bmp file format creation options. |
 | [CadRasterizationOptions](./cadrasterizationoptions/) | The Cad rasterization options. |
 | [CadRenderResult](./cadrenderresult/) | Represents result of rendering |
@@ -26,7 +27,8 @@ The namespace contains classes suitable for export, save or creation of differen
 | [GlbOptions](./glboptions/) | The GLB options. |
 | [GltfOptions](./gltfoptions/) | The GLB options. |
 | [GraphicsOptions](./graphicsoptions/) | Represents graphics options for embedded bitmap. |
-| [IfcOptions](./ifcoptions/) | The STP options. |
+| [IfcOptions](./ifcoptions/) | The IFC options. |
+| [ImageOptionsBase](./imageoptionsbase/) | The image base options. |
 | [Jpeg2000Options](./jpeg2000options/) | The Jpeg2000 file format options. |
 | [JpegOptions](./jpegoptions/) | The jpeg file format create options. |
 | [Margins](./margins/) | Margins class. |

@@ -3,7 +3,7 @@ title: Class StreamSource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Sources.StreamSource class. Represents a stream source
 type: docs
-weight: 37070
+weight: 37000
 url: /net/aspose.cad.sources/streamsource/
 ---
 ## StreamSource class

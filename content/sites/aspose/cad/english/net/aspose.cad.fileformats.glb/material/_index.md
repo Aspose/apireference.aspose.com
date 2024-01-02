@@ -3,7 +3,7 @@ title: Class Material
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Material class. The material appearance of a primitive
 type: docs
-weight: 10950
+weight: 10840
 url: /net/aspose.cad.fileformats.glb/material/
 ---
 ## Material class

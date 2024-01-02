@@ -3,7 +3,7 @@ title: Class CadDoubleAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadDoubleAttribute class. class attribute for cad double properties
 type: docs
-weight: 1660
+weight: 1610
 url: /net/aspose.cad.fileformats.cad/caddoubleattribute/
 ---
 ## CadDoubleAttribute class

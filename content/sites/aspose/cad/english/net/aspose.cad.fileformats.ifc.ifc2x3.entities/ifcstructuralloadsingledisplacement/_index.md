@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadSingleDisplacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralLoadSingleDisplacement class. IfcStructuralLoadSingleDisplacement
 type: docs
-weight: 17520
+weight: 17400
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/
 ---
 ## IfcStructuralLoadSingleDisplacement class

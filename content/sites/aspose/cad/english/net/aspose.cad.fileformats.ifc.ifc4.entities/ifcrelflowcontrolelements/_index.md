@@ -3,7 +3,7 @@ title: Class IfcRelFlowControlElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelFlowControlElements class. IfcRelFlowControlElements
 type: docs
-weight: 27360
+weight: 27240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelflowcontrolelements/
 ---
 ## IfcRelFlowControlElements class

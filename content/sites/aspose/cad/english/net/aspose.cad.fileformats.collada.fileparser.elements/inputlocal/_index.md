@@ -3,7 +3,7 @@ title: Class InputLocal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InputLocal class. The input local. The input_local_type element is used to represent inputs that can only reference resources declared in the same document
 type: docs
-weight: 7730
+weight: 7780
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/inputlocal/
 ---
 ## InputLocal class

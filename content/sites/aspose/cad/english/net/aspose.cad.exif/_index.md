@@ -3,7 +3,7 @@ title: Aspose.CAD.Exif
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains EXIF related helper classes and methods
 type: docs
-weight: 90
+weight: 60
 url: /net/aspose.cad.exif/
 ---
 The namespace contains EXIF related helper classes and methods.

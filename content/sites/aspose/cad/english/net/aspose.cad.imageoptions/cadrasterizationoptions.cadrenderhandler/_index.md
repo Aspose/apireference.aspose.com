@@ -3,7 +3,7 @@ title: Delegate CadRasterizationOptions.CadRenderHandler
 second_title: Aspose.CAD for .NET API Reference
 description: Delegate to create handler to catch CadRenderResult
 type: docs
-weight: 36160
+weight: 36060
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions.cadrenderhandler/
 ---
 ## CadRasterizationOptions.CadRenderHandler delegate

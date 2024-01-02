@@ -3,7 +3,7 @@ title: Class CadLayout
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLayout class. The Cad layout object
 type: docs
-weight: 2710
+weight: 2740
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/
 ---
 ## CadLayout class
@@ -72,6 +72,7 @@ public class CadLayout : CadPlotSettings, IDrawingLayout<CadEntityBase>
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [StandardScaleType](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletype/) { get; set; } | Gets or sets the type of the standard scale. |
 | [StandardScaleTypeFactor](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletypefactor/) { get; set; } | Gets or sets the standard scale type factor. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TabOrder](../../aspose.cad.fileformats.cad.cadobjects/cadlayout/taborder/) { get; set; } | Gets or sets the tab order. |
 | [TopSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/topsize/) { get; set; } | Gets or sets the size of the top. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |

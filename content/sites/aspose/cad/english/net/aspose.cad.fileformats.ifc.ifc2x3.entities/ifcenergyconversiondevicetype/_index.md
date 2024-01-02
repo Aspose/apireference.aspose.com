@@ -3,7 +3,7 @@ title: Class IfcEnergyConversionDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEnergyConversionDeviceType class. IfcEnergyConversionDeviceType
 type: docs
-weight: 14090
+weight: 13970
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenergyconversiondevicetype/
 ---
 ## IfcEnergyConversionDeviceType class

@@ -3,7 +3,7 @@ title: Class BackgroundColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BackgroundColour class. 
 type: docs
-weight: 4720
+weight: 4770
 url: /net/aspose.cad.fileformats.cgm.commands/backgroundcolour/
 ---
 ## BackgroundColour class

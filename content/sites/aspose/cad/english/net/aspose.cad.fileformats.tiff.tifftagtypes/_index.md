@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Tiff.TiffTagTypes
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Tiff file format tag classes
 type: docs
-weight: 1230
+weight: 1200
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/
 ---
 The namespace contains Tiff file format tag classes.

@@ -3,7 +3,7 @@ title: Class IfcVirtualElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcVirtualElement class. IfcVirtualElement
 type: docs
-weight: 29380
+weight: 29260
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvirtualelement/
 ---
 ## IfcVirtualElement class

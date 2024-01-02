@@ -3,7 +3,7 @@ title: WriteSettings.MergeBuffers
 second_title: Aspose.CAD for .NET API Reference
 description: WriteSettings property. Gets or sets a value indicating whether to merge all the buffers in GlbImage.LogicalBuffers into a single buffer
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.cad.fileformats.glb/writesettings/mergebuffers/
 ---
 ## WriteSettings.MergeBuffers property

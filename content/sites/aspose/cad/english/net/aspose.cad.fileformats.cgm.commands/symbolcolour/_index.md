@@ -3,7 +3,7 @@ title: Class SymbolColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SymbolColour class. Class5 ElementId49
 type: docs
-weight: 6490
+weight: 6540
 url: /net/aspose.cad.fileformats.cgm.commands/symbolcolour/
 ---
 ## SymbolColour class

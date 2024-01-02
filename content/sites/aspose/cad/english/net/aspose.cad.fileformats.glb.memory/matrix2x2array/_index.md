@@ -1,14 +1,14 @@
 ---
 title: Struct Matrix2x2Array
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.Matrix2x2Array struct. Wraps an encoded Memory and exposes it as an IList
+description: Aspose.CAD.FileFormats.GLB.Memory.Matrix2x2Array struct. Wraps an encoded ArraySegment and exposes it as an IList
 type: docs
-weight: 11090
+weight: 10980
 url: /net/aspose.cad.fileformats.glb.memory/matrix2x2array/
 ---
 ## Matrix2x2Array structure
 
-Wraps an encoded Memory and exposes it as an IList.
+Wraps an encoded ArraySegment and exposes it as an IList.
 
 ```csharp
 public struct Matrix2x2Array : IList<Matrix3x2>, IReadOnlyList<Matrix3x2>
@@ -18,8 +18,8 @@ public struct Matrix2x2Array : IList<Matrix3x2>, IReadOnlyList<Matrix3x2>
 
 | Name | Description |
 | --- | --- |
-| [Matrix2x2Array](matrix2x2array/#constructor)(Memory&lt;byte&gt;, int, EncodingType, bool) |  |
-| [Matrix2x2Array](matrix2x2array/#constructor_1)(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) |  |
+| [Matrix2x2Array](matrix2x2array/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) |  |
+| [Matrix2x2Array](matrix2x2array/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) |  |
 
 ## Properties
 

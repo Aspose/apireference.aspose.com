@@ -3,7 +3,7 @@ title: Class EdgeClipping
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeClipping class. Class3 ElementId9
 type: docs
-weight: 5320
+weight: 5370
 url: /net/aspose.cad.fileformats.cgm.commands/edgeclipping/
 ---
 ## EdgeClipping class

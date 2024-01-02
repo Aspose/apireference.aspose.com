@@ -3,7 +3,7 @@ title: Class IfcTableRow
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTableRow class. IfcTableRow
 type: docs
-weight: 17970
+weight: 17850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctablerow/
 ---
 ## IfcTableRow class

@@ -3,7 +3,7 @@ title: Class Primitives
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Primitives class. The primitives. The primitives element represents primitive data for the primitive types. The primitives element contains indices that reference into the parents source elements referenced by the input elements
 type: docs
-weight: 8120
+weight: 8170
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/primitives/
 ---
 ## Primitives class

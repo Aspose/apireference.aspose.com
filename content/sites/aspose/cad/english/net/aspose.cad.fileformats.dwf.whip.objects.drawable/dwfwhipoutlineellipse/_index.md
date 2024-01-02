@@ -3,7 +3,7 @@ title: Class DwfWhipOutlineEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipOutlineEllipse class. Represents outline Ellipse just contour
 type: docs
-weight: 9600
+weight: 9640
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipoutlineellipse/
 ---
 ## DwfWhipOutlineEllipse class

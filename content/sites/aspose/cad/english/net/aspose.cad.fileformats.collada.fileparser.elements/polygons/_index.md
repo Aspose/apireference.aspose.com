@@ -3,7 +3,7 @@ title: Class Polygons
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Polygons class. The polygons. The polygons element provides the information needed to bind vertex attributes together and then organize those vertices into individual polygons. The polygons described can contain arbitrary numbers of vertices. These polygons may be self intersecting and may also contain holes
 type: docs
-weight: 8100
+weight: 8150
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/polygons/
 ---
 ## Polygons class

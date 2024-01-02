@@ -3,7 +3,7 @@ title: Enum PictureDescriptorElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.PictureDescriptorElement enum. 
 type: docs
-weight: 6940
+weight: 6990
 url: /net/aspose.cad.fileformats.cgm.elements/picturedescriptorelement/
 ---
 ## PictureDescriptorElement enumeration

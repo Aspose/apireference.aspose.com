@@ -3,7 +3,7 @@ title: Cad3DSolid.TypeName
 second_title: Aspose.CAD for .NET API Reference
 description: Cad3DSolid property. Gets the name of the type
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/typename/
 ---
 ## Cad3DSolid.TypeName property

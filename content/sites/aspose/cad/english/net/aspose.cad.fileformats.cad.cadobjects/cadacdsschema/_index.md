@@ -3,7 +3,7 @@ title: Class CadAcdsSchema
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcdsSchema class. Class describing CadAcdsSchema
 type: docs
-weight: 2210
+weight: 2160
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdsschema/
 ---
 ## CadAcdsSchema class
@@ -34,6 +34,7 @@ public class CadAcdsSchema : CadBaseAcds
 | [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadacdsschema/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

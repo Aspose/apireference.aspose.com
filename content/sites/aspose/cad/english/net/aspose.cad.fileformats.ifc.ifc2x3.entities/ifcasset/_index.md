@@ -3,7 +3,7 @@ title: Class IfcAsset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAsset class. IfcAsset
 type: docs
-weight: 12340
+weight: 12220
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/
 ---
 ## IfcAsset class

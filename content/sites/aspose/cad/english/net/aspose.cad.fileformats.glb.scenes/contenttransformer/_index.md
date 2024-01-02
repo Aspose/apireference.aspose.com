@@ -3,7 +3,7 @@ title: Class ContentTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.ContentTransformer class. Represents the transform of a Content. Applies a transform to the underlaying content object usually a Mesh a Camera or a light
 type: docs
-weight: 11480
+weight: 11370
 url: /net/aspose.cad.fileformats.glb.scenes/contenttransformer/
 ---
 ## ContentTransformer class

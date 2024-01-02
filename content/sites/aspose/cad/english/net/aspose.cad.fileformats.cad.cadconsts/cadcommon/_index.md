@@ -3,7 +3,7 @@ title: Class CadCommon
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadCommon class. General constant values for Cad file format
 type: docs
-weight: 1290
+weight: 1230
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadcommon/
 ---
 ## CadCommon class

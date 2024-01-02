@@ -3,7 +3,7 @@ title: Class Cad3DSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Cad3DSolid class. Class describing Cad 3DSolid
 type: docs
-weight: 2120
+weight: 2070
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/
 ---
 ## Cad3DSolid class
@@ -18,13 +18,14 @@ public class Cad3DSolid : CadObjectWithAcisData
 
 | Name | Description |
 | --- | --- |
-| [Cad3DSolid](cad3dsolid/)() | The default constructor. |
+| [Cad3DSolid](cad3dsolid/)() | Initializes a new instance of the `Cad3DSolid` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
 | [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
 | [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
@@ -46,6 +47,7 @@ public class Cad3DSolid : CadObjectWithAcisData
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
 | [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
@@ -56,6 +58,7 @@ public class Cad3DSolid : CadObjectWithAcisData
 | [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
 | [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyle/) { get; set; } | Gets or sets the plot style. Gets or sets the plot style handle. |
 | [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyleflag/) { get; set; } | Gets or sets a value the current plot style of the entity |
+| [Position](../../aspose.cad.fileformats.cad.cadobjects/cad3dsolid/position/) { get; set; } | Specifies the X, Y, Z coordinate for center of the base or center of the solid |
 | [ProprietaryData](../../aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/proprietarydata/) { get; } | Gets or sets the Proprietary data |
 | [ProprietaryDataParameterList](../../aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/proprietarydataparameterlist/) { get; set; } | Gets or sets the proprietary data parameter list. |
 | [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxybytescount/) { get; set; } | Gets or sets the proxy bytes count. |
@@ -64,7 +67,7 @@ public class Cad3DSolid : CadObjectWithAcisData
 | [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | Gets or sets the transparency value for the entity. |
 | override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cad3dsolid/typename/) { get; } | Gets the name of the type. |
 | virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/) { get; set; } | Gets or sets a value indicating whether this [`CadEntityBase`](../cadentitybase/) is visible. |

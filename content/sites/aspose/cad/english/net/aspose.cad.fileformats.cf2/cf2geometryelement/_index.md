@@ -3,7 +3,7 @@ title: Class CF2GeometryElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2GeometryElement class. The basic of the geometry elements
 type: docs
-weight: 910
+weight: 850
 url: /net/aspose.cad.fileformats.cf2/cf2geometryelement/
 ---
 ## CF2GeometryElement class

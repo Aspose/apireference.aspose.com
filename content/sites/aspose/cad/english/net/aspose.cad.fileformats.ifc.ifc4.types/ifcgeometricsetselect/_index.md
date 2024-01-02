@@ -3,7 +3,7 @@ title: Class IfcGeometricSetSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcGeometricSetSelect class. IfcGeometricSetSelect
 type: docs
-weight: 31110
+weight: 30990
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcgeometricsetselect/
 ---
 ## IfcGeometricSetSelect class

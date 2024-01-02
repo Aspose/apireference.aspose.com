@@ -3,7 +3,7 @@ title: GlbImage.Height
 second_title: Aspose.CAD for .NET API Reference
 description: GlbImage property. Gets the image height
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.cad.fileformats.glb/glbimage/height/
 ---
 ## GlbImage.Height property

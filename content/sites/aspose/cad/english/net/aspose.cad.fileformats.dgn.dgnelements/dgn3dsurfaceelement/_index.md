@@ -3,7 +3,7 @@ title: Class Dgn3DSurfaceElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.Dgn3DSurfaceElement class. Represents 3d surface or 3d solid element
 type: docs
-weight: 8580
+weight: 8630
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/
 ---
 ## Dgn3DSurfaceElement class
@@ -23,7 +23,7 @@ public class Dgn3DSurfaceElement : DgnCompoundElement
 | [CreationMethod](../../aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/creationmethod/) { get; } | Gets surface creation method |
 | [Elements](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/elements/) { get; } | Gets related elements |
 | [ElementsCount](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/elementscount/) { get; } | Gets or sets related elements count |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/minpoint/) { get; } | Gets the min point of object. |

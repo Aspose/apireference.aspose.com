@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/star
 Gets or sets the start tangent.
 
 ```csharp
-public Point2D? StartTangent { get; set; }
+public Point2D StartTangent { get; set; }
 ```
 
 ### Property Value
@@ -20,7 +20,7 @@ The start tangent.
 
 ### See Also
 
-* struct [Point2D](../../point2d/)
+* class [Point2D](../../../aspose.cad.primitives/point2d/)
 * class [CadBoundaryPathSpline](../)
 * namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)

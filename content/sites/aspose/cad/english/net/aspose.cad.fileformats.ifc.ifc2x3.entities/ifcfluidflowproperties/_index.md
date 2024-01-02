@@ -3,7 +3,7 @@ title: Class IfcFluidFlowProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFluidFlowProperties class. IfcFluidFlowProperties
 type: docs
-weight: 14590
+weight: 14470
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/
 ---
 ## IfcFluidFlowProperties class

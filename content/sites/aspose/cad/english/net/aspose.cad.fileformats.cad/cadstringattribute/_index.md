@@ -3,7 +3,7 @@ title: Class CadStringAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadStringAttribute class. class attribute for cad string properties
 type: docs
-weight: 4160
+weight: 4190
 url: /net/aspose.cad.fileformats.cad/cadstringattribute/
 ---
 ## CadStringAttribute class

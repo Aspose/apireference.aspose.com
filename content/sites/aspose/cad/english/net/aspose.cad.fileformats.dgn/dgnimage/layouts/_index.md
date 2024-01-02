@@ -3,7 +3,7 @@ title: DgnImage.Layouts
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage property. 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.dgn/dgnimage/layouts/
 ---
 ## DgnImage.Layouts property

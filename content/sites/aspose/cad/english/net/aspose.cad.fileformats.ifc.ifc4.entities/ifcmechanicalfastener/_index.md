@@ -3,7 +3,7 @@ title: Class IfcMechanicalFastener
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMechanicalFastener class. IfcMechanicalFastener
 type: docs
-weight: 25590
+weight: 25470
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/
 ---
 ## IfcMechanicalFastener class

@@ -3,7 +3,7 @@ title: Class Message
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Message class. 
 type: docs
-weight: 7160
+weight: 7210
 url: /net/aspose.cad.fileformats.cgm/message/
 ---
 ## Message class

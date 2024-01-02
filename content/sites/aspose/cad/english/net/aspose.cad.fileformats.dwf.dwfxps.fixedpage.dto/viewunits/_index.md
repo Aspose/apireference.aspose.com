@@ -3,7 +3,7 @@ title: Enum ViewUnits
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.ViewUnits enum. The view units. Specifies the relationship of the view coordinates to the containing coordinate space
 type: docs
-weight: 9430
+weight: 9470
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/viewunits/
 ---
 ## ViewUnits enumeration

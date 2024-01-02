@@ -3,7 +3,7 @@ title: Enum IfcSystemFurnitureElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSystemFurnitureElementTypeEnum enum. IfcSystemFurnitureElementTypeEnum
 type: docs
-weight: 32970
+weight: 32850
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsystemfurnitureelementtypeenum/
 ---
 ## IfcSystemFurnitureElementTypeEnum enumeration

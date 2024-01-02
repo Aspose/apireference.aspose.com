@@ -3,7 +3,7 @@ title: Class CadImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadImage class. Cad image class
 type: docs
-weight: 1690
+weight: 1640
 url: /net/aspose.cad.fileformats.cad/cadimage/
 ---
 ## CadImage class
@@ -65,6 +65,7 @@ public class CadImage : Image, IHasEntities<CadEntityBase>, IHasLayouts<CadLayou
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | [ViewPorts](../../aspose.cad.fileformats.cad/cadimage/viewports/) { get; set; } | Gets or sets the view ports. |
 | [Views](../../aspose.cad.fileformats.cad/cadimage/views/) { get; set; } | Gets or sets the views. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.cad/cadimage/width/) { get; } | Gets the image width. |
 
 ## Methods
@@ -86,6 +87,7 @@ public class CadImage : Image, IHasEntities<CadEntityBase>, IHasLayouts<CadLayou
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | override [ThrowIfCantExportToCad](../../aspose.cad.fileformats.cad/cadimage/throwifcantexporttocad/)(ImageOptionsBase, Exception) |  |
+| virtual [TryRemoveEntity](../../aspose.cad.fileformats.cad/cadimage/tryremoveentity/)(CadEntityBase) | Removes entity from blocks for DWG format. |
 | [UpdateSize](../../aspose.cad.fileformats.cad/cadimage/updatesize/)(bool) | Updates size of an image after changes, that may affect initial size, e.g. removing of entities. MinPoint, MaxPoint, Width and Height properties of image are updated. |
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class PathFigure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PathFigure class. The path figure. A PathFigure element is composed of a set of one or more line or curve segments. The segment elements define the shape of the path figure. The initial point of the first segment element is specified as the StartPoint attribute of the path figure. The last point of each segment element is the first point of the following segment element
 type: docs
-weight: 9290
+weight: 9330
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathfigure/
 ---
 ## PathFigure class

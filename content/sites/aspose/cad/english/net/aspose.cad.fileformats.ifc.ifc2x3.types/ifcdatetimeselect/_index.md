@@ -3,7 +3,7 @@ title: Class IfcDateTimeSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDateTimeSelect class. IfcDateTimeSelect
 type: docs
-weight: 19210
+weight: 19090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdatetimeselect/
 ---
 ## IfcDateTimeSelect class

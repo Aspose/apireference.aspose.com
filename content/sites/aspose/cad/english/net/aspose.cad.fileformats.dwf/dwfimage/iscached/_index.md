@@ -3,7 +3,7 @@ title: DwfImage.IsCached
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage property. Gets a value indicating whether objects data is cached currently and no data reading is required. Depending on the loading options only the necessary part of the data can be loaded into the cache from the image data. In this case we can use this property to determine that only part of the image data is loaded into the cache
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.cad.fileformats.dwf/dwfimage/iscached/
 ---
 ## DwfImage.IsCached property

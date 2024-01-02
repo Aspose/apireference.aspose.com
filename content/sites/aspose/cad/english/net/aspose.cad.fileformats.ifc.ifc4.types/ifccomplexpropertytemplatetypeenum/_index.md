@@ -3,7 +3,7 @@ title: Enum IfcComplexPropertyTemplateTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcComplexPropertyTemplateTypeEnum enum. IfcComplexPropertyTemplateTypeEnum
 type: docs
-weight: 30150
+weight: 30030
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccomplexpropertytemplatetypeenum/
 ---
 ## IfcComplexPropertyTemplateTypeEnum enumeration

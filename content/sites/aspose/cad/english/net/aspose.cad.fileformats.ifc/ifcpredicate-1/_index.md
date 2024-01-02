@@ -3,7 +3,7 @@ title: Delegate IfcPredicateT
 second_title: Aspose.CAD for .NET API Reference
 description: IfcPredicate
 type: docs
-weight: 33670
+weight: 33550
 url: /net/aspose.cad.fileformats.ifc/ifcpredicate-1/
 ---
 ## IfcPredicate&lt;T&gt; delegate

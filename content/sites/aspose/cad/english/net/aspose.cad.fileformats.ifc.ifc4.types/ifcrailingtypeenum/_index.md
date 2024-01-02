@@ -3,7 +3,7 @@ title: Enum IfcRailingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRailingTypeEnum enum. IfcRailingTypeEnum
 type: docs
-weight: 32300
+weight: 32180
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcrailingtypeenum/
 ---
 ## IfcRailingTypeEnum enumeration

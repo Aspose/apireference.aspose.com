@@ -3,7 +3,7 @@ title: Enum PdfCompliance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.PdfCompliance enum. Specifies the PDF compliance level to output file
 type: docs
-weight: 36390
+weight: 36300
 url: /net/aspose.cad.imageoptions/pdfcompliance/
 ---
 ## PdfCompliance enumeration

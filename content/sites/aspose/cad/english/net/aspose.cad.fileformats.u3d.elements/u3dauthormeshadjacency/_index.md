@@ -3,7 +3,7 @@ title: Class U3dAuthorMeshAdjacency
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorMeshAdjacency class. 
 type: docs
-weight: 35730
+weight: 35620
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormeshadjacency/
 ---
 ## U3dAuthorMeshAdjacency class

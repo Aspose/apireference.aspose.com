@@ -3,7 +3,7 @@ title: Class SvgImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Svg.SvgImage class. SVG image
 type: docs
-weight: 35140
+weight: 35030
 url: /net/aspose.cad.fileformats.svg/svgimage/
 ---
 ## SvgImage class
@@ -31,6 +31,7 @@ public sealed class SvgImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.svg/svgimage/width/) { get; } | Gets the image width. |
 
 ## Methods

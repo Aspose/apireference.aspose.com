@@ -3,7 +3,7 @@ title: Class IfcRelSequence
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelSequence class. IfcRelSequence
 type: docs
-weight: 27410
+weight: 27290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelsequence/
 ---
 ## IfcRelSequence class

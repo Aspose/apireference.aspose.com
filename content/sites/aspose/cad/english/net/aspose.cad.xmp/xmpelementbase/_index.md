@@ -3,7 +3,7 @@ title: Class XmpElementBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpElementBase class. Represents base xmp element contains attributes
 type: docs
-weight: 37710
+weight: 37650
 url: /net/aspose.cad.xmp/xmpelementbase/
 ---
 ## XmpElementBase class

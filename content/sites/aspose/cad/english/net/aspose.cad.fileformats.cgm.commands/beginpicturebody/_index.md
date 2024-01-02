@@ -3,7 +3,7 @@ title: Class BeginPictureBody
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginPictureBody class. 
 type: docs
-weight: 4810
+weight: 4860
 url: /net/aspose.cad.fileformats.cgm.commands/beginpicturebody/
 ---
 ## BeginPictureBody class

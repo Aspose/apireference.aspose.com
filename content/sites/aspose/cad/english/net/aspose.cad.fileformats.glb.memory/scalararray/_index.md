@@ -1,14 +1,14 @@
 ---
 title: Struct ScalarArray
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.ScalarArray struct. Wraps an encoded Memory and exposes it as an IList
+description: Aspose.CAD.FileFormats.GLB.Memory.ScalarArray struct. Wraps an encoded ArraySegment and exposes it as an IList
 type: docs
-weight: 11180
+weight: 11070
 url: /net/aspose.cad.fileformats.glb.memory/scalararray/
 ---
 ## ScalarArray structure
 
-Wraps an encoded Memory and exposes it as an IList.
+Wraps an encoded ArraySegment and exposes it as an IList.
 
 ```csharp
 public struct ScalarArray : IList<float>, IReadOnlyList<float>
@@ -18,8 +18,8 @@ public struct ScalarArray : IList<float>, IReadOnlyList<float>
 
 | Name | Description |
 | --- | --- |
-| [ScalarArray](scalararray/#constructor)(Memory&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the `ScalarArray` struct. |
-| [ScalarArray](scalararray/#constructor_1)(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) | Initializes a new instance of the `ScalarArray` struct. |
+| [ScalarArray](scalararray/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the `ScalarArray` struct. |
+| [ScalarArray](scalararray/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) | Initializes a new instance of the `ScalarArray` struct. |
 
 ## Properties
 

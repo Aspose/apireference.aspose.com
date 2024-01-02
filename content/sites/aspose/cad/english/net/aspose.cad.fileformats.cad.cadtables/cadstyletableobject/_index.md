@@ -3,7 +3,7 @@ title: Class CadStyleTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadStyleTableObject class. The Cad style table object
 type: docs
-weight: 4230
+weight: 4260
 url: /net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/
 ---
 ## CadStyleTableObject class
@@ -39,6 +39,7 @@ public class CadStyleTableObject : CadOwnedObjectBase
 | [PrimaryFontName](../../aspose.cad.fileformats.cad.cadtables/cadstyletableobject/primaryfontname/) { get; set; } | Gets or sets the primary font name. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleFlag](../../aspose.cad.fileformats.cad.cadtables/cadstyletableobject/styleflag/) { get; set; } | Gets or sets the style flag. |
 | [StyleName](../../aspose.cad.fileformats.cad.cadtables/cadstyletableobject/stylename/) { get; set; } | Gets or sets the style name. |
 | [TextGenerationFlag](../../aspose.cad.fileformats.cad.cadtables/cadstyletableobject/textgenerationflag/) { get; set; } | Gets or sets the text generation flag. |

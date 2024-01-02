@@ -3,7 +3,7 @@ title: Class Circle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Circle class. The circle
 type: docs
-weight: 7320
+weight: 7370
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/circle/
 ---
 ## Circle class

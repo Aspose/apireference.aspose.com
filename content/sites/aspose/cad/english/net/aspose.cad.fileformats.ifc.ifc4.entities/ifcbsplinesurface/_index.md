@@ -3,7 +3,7 @@ title: Class IfcBSplineSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBSplineSurface class. IfcBSplineSurface
 type: docs
-weight: 22190
+weight: 22070
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/
 ---
 ## IfcBSplineSurface class

@@ -3,7 +3,7 @@ title: Class XmpPackage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpPackage class. Represents base abstraction for XMP package
 type: docs
-weight: 37740
+weight: 37680
 url: /net/aspose.cad.xmp/xmppackage/
 ---
 ## XmpPackage class

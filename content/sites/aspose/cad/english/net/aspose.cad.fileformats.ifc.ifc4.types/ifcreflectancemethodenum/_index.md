@@ -3,7 +3,7 @@ title: Enum IfcReflectanceMethodEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcReflectanceMethodEnum enum. IfcReflectanceMethodEnum
 type: docs
-weight: 32360
+weight: 32240
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcreflectancemethodenum/
 ---
 ## IfcReflectanceMethodEnum enumeration

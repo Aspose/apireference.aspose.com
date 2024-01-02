@@ -3,7 +3,7 @@ title: Class IfcJunctionBoxType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcJunctionBoxType class. IfcJunctionBoxType
 type: docs
-weight: 25140
+weight: 25020
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcjunctionboxtype/
 ---
 ## IfcJunctionBoxType class

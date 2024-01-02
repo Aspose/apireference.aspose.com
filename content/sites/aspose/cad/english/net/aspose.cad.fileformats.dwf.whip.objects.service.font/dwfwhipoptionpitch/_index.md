@@ -3,7 +3,7 @@ title: Class DwfWhipOptionPitch
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font.DwfWhipOptionPitch class. Represents Font option pitch
 type: docs
-weight: 9950
+weight: 9990
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionpitch/
 ---
 ## DwfWhipOptionPitch class

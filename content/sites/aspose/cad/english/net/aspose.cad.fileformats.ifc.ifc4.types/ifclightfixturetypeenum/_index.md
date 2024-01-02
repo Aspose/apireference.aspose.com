@@ -3,7 +3,7 @@ title: Enum IfcLightFixtureTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLightFixtureTypeEnum enum. IfcLightFixtureTypeEnum
 type: docs
-weight: 31450
+weight: 31330
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclightfixturetypeenum/
 ---
 ## IfcLightFixtureTypeEnum enumeration

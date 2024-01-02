@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadTemperature
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralLoadTemperature class. IfcStructuralLoadTemperature
 type: docs
-weight: 28350
+weight: 28230
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadtemperature/
 ---
 ## IfcStructuralLoadTemperature class

@@ -3,7 +3,7 @@ title: Class ControlElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.ControlElements class. 
 type: docs
-weight: 6850
+weight: 6900
 url: /net/aspose.cad.fileformats.cgm.elements/controlelements/
 ---
 ## ControlElements class

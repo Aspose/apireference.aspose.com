@@ -3,7 +3,7 @@ title: DwfImage.RemoveElement
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage method. Removes graphic element from specified page. Provides the ability to remove a graphic element from the image. To remove it you need to specify the page index in Pages array from which the element should be removed and the index of the element in Entities array
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.fileformats.dwf/dwfimage/removeelement/
 ---
 ## DwfImage.RemoveElement method

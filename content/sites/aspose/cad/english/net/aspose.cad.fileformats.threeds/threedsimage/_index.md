@@ -3,7 +3,7 @@ title: Class ThreeDSImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.ThreeDSImage class. 3DS image class. Allows to load 3D models from 3DS files. In example below 3D model loaded from file and exported to PDF. The resulting PDF file will contain projection of 3D model occupying the entire page with margins
 type: docs
-weight: 35230
+weight: 35120
 url: /net/aspose.cad.fileformats.threeds/threedsimage/
 ---
 ## ThreeDSImage class
@@ -42,6 +42,7 @@ public class ThreeDSImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.threeds/threedsimage/width/) { get; } | Gets the image width. |
 
 ## Methods

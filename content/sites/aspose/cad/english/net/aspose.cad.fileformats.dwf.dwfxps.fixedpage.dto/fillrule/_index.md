@@ -3,7 +3,7 @@ title: Enum FillRule
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.FillRule enum. The fill rule. The FillRule attribute specifies a fill algorithm. The filling area of a geometry is defined by taking all of the contained path figures and applying the fill algorithm to determine the enclosed area. Fill algorithms determine how the intersecting areas of geometric shapes are combined to form a region
 type: docs
-weight: 9160
+weight: 9200
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/fillrule/
 ---
 ## FillRule enumeration

@@ -3,7 +3,7 @@ title: Class DgnArcBasedElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnArcBasedElement class. Represents base class for arcbased elements
 type: docs
-weight: 8590
+weight: 8640
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/
 ---
 ## DgnArcBasedElement class
@@ -19,7 +19,7 @@ public abstract class DgnArcBasedElement : DgnDrawingElementBaseQuaternion
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/minpoint/) { get; } | Gets the min point of object. |

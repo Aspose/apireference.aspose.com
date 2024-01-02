@@ -3,7 +3,7 @@ title: Class PltImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltImage class. PLT image class
 type: docs
-weight: 34010
+weight: 33900
 url: /net/aspose.cad.fileformats.plt/pltimage/
 ---
 ## PltImage class
@@ -34,6 +34,7 @@ public class PltImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.plt/pltimage/width/) { get; } | Gets the image width in points (72 points per inch). |
 
 ## Methods

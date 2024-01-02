@@ -3,7 +3,7 @@ title: Class IfcLanguageId
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLanguageId class. IfcLanguageId
 type: docs
-weight: 31370
+weight: 31250
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclanguageid/
 ---
 ## IfcLanguageId class

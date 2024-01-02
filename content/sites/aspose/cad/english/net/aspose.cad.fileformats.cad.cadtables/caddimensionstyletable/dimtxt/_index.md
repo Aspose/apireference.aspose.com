@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimtxt
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimtxt  140
+description: CadDimensionStyleTable property. Gets or sets the height of dimension text
 type: docs
 weight: 750
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtxt/
 ---
 ## CadDimensionStyleTable.Dimtxt property
 
-Gets or sets The dimtxt - 140
+Gets or sets the height of dimension text.
 
 ```csharp
 public double Dimtxt { get; set; }

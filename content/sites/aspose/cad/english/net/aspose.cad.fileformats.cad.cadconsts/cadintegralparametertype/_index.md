@@ -3,7 +3,7 @@ title: Enum CadIntegralParameterType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadIntegralParameterType enum. The Cad integral parameter type
 type: docs
-weight: 1430
+weight: 1370
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadintegralparametertype/
 ---
 ## CadIntegralParameterType enumeration

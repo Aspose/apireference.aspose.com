@@ -3,7 +3,7 @@ title: Class IfcShellBasedSurfaceModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcShellBasedSurfaceModel class. Partial IIfc entity class
 type: docs
-weight: 17160
+weight: 17040
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshellbasedsurfacemodel/
 ---
 ## IfcShellBasedSurfaceModel class

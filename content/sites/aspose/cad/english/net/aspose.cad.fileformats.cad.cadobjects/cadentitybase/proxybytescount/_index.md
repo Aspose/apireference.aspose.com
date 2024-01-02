@@ -3,7 +3,7 @@ title: CadEntityBase.ProxyBytesCount
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the proxy bytes count
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxybytescount/
 ---
 ## CadEntityBase.ProxyBytesCount property

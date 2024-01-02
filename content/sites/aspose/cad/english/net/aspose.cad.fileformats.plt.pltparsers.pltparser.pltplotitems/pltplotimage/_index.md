@@ -3,7 +3,7 @@ title: Class PltPlotImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotImage class. The PLT plot image object
 type: docs
-weight: 34090
+weight: 33980
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotimage/
 ---
 ## PltPlotImage class

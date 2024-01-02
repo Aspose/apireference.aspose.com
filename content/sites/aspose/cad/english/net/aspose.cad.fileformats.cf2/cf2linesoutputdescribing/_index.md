@@ -3,7 +3,7 @@ title: Class CF2LinesOutputDescribing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2LinesOutputDescribing class. Description of the line types output
 type: docs
-weight: 980
+weight: 920
 url: /net/aspose.cad.fileformats.cf2/cf2linesoutputdescribing/
 ---
 ## CF2LinesOutputDescribing class

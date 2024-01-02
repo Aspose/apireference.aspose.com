@@ -3,7 +3,7 @@ title: DgnImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.fileformats.dgn/dgnimage/cachedata/
 ---
 ## DgnImage.CacheData method

@@ -3,7 +3,7 @@ title: Class CgmImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.CgmImage class. Represents a CGM file in binary mode
 type: docs
-weight: 4470
+weight: 4520
 url: /net/aspose.cad.fileformats.cgm/cgmimage/
 ---
 ## CgmImage class
@@ -38,6 +38,7 @@ public class CgmImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.cgm/cgmimage/width/) { get; } |  |
 
 ## Methods

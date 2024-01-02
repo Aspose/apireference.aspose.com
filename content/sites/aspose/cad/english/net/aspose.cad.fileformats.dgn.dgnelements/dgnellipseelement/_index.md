@@ -3,7 +3,7 @@ title: Class DgnEllipseElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnEllipseElement class. Represents ellipse element
 type: docs
-weight: 8720
+weight: 8770
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnellipseelement/
 ---
 ## DgnEllipseElement class
@@ -19,7 +19,7 @@ public class DgnEllipseElement : DgnArcBasedElement
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/minpoint/) { get; } | Gets the min point of object. |

@@ -6,18 +6,18 @@ type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.glb.memory/integerarray/integerarray/
 ---
-## IntegerArray(Memory&lt;byte&gt;, IndexEncodingType) {#constructor}
+## IntegerArray(ArraySegment&lt;byte&gt;, IndexEncodingType) {#constructor}
 
 Initializes a new instance of the [`IntegerArray`](../) struct.
 
 ```csharp
-public IntegerArray(Memory<byte> source, 
+public IntegerArray(ArraySegment<byte> source, 
     IndexEncodingType encoding = IndexEncodingType.UNSIGNED_INT)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | Memory`1 | The array range to wrap. |
+| source | ArraySegment`1 | The array range to wrap. |
 | encoding | IndexEncodingType | Byte encoding. |
 
 ### See Also
@@ -29,17 +29,18 @@ public IntegerArray(Memory<byte> source,
 
 ---
 
-## IntegerArray(Memory&lt;byte&gt;, int, int, IndexEncodingType) {#constructor_1}
+## IntegerArray(ArraySegment&lt;byte&gt;, int, int, IndexEncodingType) {#constructor_1}
 
 Initializes a new instance of the [`IntegerArray`](../) struct.
 
 ```csharp
-public IntegerArray(Memory<byte> source, int byteOffset, int itemsCount, IndexEncodingType encoding)
+public IntegerArray(ArraySegment<byte> source, int byteOffset, int itemsCount, 
+    IndexEncodingType encoding)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | Memory`1 | The array range to wrap. |
+| source | ArraySegment`1 | The array range to wrap. |
 | byteOffset | Int32 | The zero-based index of the first Byte in *source*. |
 | itemsCount | Int32 | The number of UInt32 items in *source*. |
 | encoding | IndexEncodingType | Byte encoding. |

@@ -3,7 +3,7 @@ title: Struct U3dPositionConnectivity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dPositionConnectivity struct. The position connectivity used by line set analyzer
 type: docs
-weight: 35800
+weight: 35690
 url: /net/aspose.cad.fileformats.u3d.elements/u3dpositionconnectivity/
 ---
 ## U3dPositionConnectivity structure

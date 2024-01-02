@@ -3,7 +3,7 @@ title: Class IfcBoundaryCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundaryCurve class. IfcBoundaryCurve
 type: docs
-weight: 22310
+weight: 22190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycurve/
 ---
 ## IfcBoundaryCurve class

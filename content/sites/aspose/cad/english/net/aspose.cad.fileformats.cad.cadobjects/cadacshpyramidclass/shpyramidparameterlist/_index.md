@@ -3,7 +3,7 @@ title: CadAcshPyramidClass.ShPyramidParameterList
 second_title: Aspose.CAD for .NET API Reference
 description: CadAcshPyramidClass property. Gets or sets the sh pyramid parameter list
 type: docs
-weight: 30
+weight: 80
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/shpyramidparameterlist/
 ---
 ## CadAcshPyramidClass.ShPyramidParameterList property

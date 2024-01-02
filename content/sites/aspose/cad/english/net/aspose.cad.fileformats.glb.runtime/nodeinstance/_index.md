@@ -3,7 +3,7 @@ title: Class NodeInstance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.NodeInstance class. Defines a node of a scene graph in SceneInstance
 type: docs
-weight: 11410
+weight: 11300
 url: /net/aspose.cad.fileformats.glb.runtime/nodeinstance/
 ---
 ## NodeInstance class
@@ -30,7 +30,7 @@ public sealed class NodeInstance
 | Name | Description |
 | --- | --- |
 | [SetAnimationFrame](../../aspose.cad.fileformats.glb.runtime/nodeinstance/setanimationframe/#setanimationframe)(int, float) |  |
-| [SetAnimationFrame](../../aspose.cad.fileformats.glb.runtime/nodeinstance/setanimationframe/#setanimationframe_1)(ReadOnlySpan&lt;int&gt;, ReadOnlySpan&lt;float&gt;, ReadOnlySpan&lt;float&gt;) |  |
+| [SetAnimationFrame](../../aspose.cad.fileformats.glb.runtime/nodeinstance/setanimationframe/#setanimationframe_1)(int[], float[], float[]) |  |
 | [SetPoseTransform](../../aspose.cad.fileformats.glb.runtime/nodeinstance/setposetransform/)() |  |
 
 ### See Also

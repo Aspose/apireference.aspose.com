@@ -3,7 +3,7 @@ title: Class IfcStrippedOptional
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcStrippedOptional class. IfcStrippedOptional
 type: docs
-weight: 32840
+weight: 32720
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstrippedoptional/
 ---
 ## IfcStrippedOptional class

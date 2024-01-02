@@ -3,7 +3,7 @@ title: Class IfcSanitaryTerminal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSanitaryTerminal class. IfcSanitaryTerminal
 type: docs
-weight: 27670
+weight: 27550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsanitaryterminal/
 ---
 ## IfcSanitaryTerminal class

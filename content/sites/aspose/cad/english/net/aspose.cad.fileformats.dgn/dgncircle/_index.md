@@ -3,7 +3,7 @@ title: Class DgnCircle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnCircle class. Represents circle
 type: docs
-weight: 8520
+weight: 8570
 url: /net/aspose.cad.fileformats.dgn/dgncircle/
 ---
 ## DgnCircle class
@@ -26,7 +26,7 @@ public class DgnCircle : DgnArcBasedElement
 | --- | --- |
 | [Center](../../aspose.cad.fileformats.dgn/dgncircle/center/) { get; } | Gets center point of circle |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/minpoint/) { get; } | Gets the min point of object. |

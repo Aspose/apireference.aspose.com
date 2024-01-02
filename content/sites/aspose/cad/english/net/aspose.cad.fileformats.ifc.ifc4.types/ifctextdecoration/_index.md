@@ -3,7 +3,7 @@ title: Class IfcTextDecoration
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTextDecoration class. IfcTextDecoration
 type: docs
-weight: 33070
+weight: 32950
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctextdecoration/
 ---
 ## IfcTextDecoration class

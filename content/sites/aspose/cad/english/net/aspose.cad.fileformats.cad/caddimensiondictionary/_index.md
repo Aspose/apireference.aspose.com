@@ -3,7 +3,7 @@ title: Class CadDimensionDictionary
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadDimensionDictionary class. Dimension styles dictionary
 type: docs
-weight: 1650
+weight: 1600
 url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/
 ---
 ## CadDimensionDictionary class

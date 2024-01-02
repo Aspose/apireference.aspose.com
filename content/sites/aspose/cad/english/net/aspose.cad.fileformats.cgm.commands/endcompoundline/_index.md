@@ -3,7 +3,7 @@ title: Class EndCompoundLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EndCompoundLine class. 
 type: docs
-weight: 5460
+weight: 5510
 url: /net/aspose.cad.fileformats.cgm.commands/endcompoundline/
 ---
 ## EndCompoundLine class

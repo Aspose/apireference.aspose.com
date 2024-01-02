@@ -3,7 +3,7 @@ title: Class Camera
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Camera class. A cameras projection. A node MAY reference a camera to apply a transform to place the camera in the scene
 type: docs
-weight: 10250
+weight: 10200
 url: /net/aspose.cad.fileformats.glb/camera/
 ---
 ## Camera class

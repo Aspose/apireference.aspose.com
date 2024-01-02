@@ -3,7 +3,7 @@ title: Class IfcFillAreaStyleHatching
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFillAreaStyleHatching class. IfcFillAreaStyleHatching
 type: docs
-weight: 24520
+weight: 24400
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastylehatching/
 ---
 ## IfcFillAreaStyleHatching class

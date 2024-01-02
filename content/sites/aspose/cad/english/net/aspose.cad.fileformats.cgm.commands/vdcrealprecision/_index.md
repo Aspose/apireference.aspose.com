@@ -3,7 +3,7 @@ title: Class VdcRealPrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.VdcRealPrecision class. 
 type: docs
-weight: 6770
+weight: 6820
 url: /net/aspose.cad.fileformats.cgm.commands/vdcrealprecision/
 ---
 ## VdcRealPrecision class

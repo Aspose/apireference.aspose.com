@@ -3,7 +3,7 @@ title: JsonContent.op_Implicit
 second_title: Aspose.CAD for .NET API Reference
 description: JsonContent method. 
 type: docs
-weight: 140
+weight: 100
 url: /net/aspose.cad.fileformats.glb.io/jsoncontent/op_implicit/
 ---
 ## implicit operator {#op_implicit}

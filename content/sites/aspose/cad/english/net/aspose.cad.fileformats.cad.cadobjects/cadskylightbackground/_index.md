@@ -3,7 +3,7 @@ title: Class CadSkyLightBackGround
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSkyLightBackGround class. Class describing CadSkyLightBackGround object
 type: docs
-weight: 3150
+weight: 3190
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadskylightbackground/
 ---
 ## CadSkyLightBackGround class
@@ -36,6 +36,7 @@ public class CadSkyLightBackGround : CadBaseObject
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SkyLightBackGroundParameterList](../../aspose.cad.fileformats.cad.cadobjects/cadskylightbackground/skylightbackgroundparameterlist/) { get; set; } | Gets or sets the sky light back ground parameter list. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

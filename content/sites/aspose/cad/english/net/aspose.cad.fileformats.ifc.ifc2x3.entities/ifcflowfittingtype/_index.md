@@ -3,7 +3,7 @@ title: Class IfcFlowFittingType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFlowFittingType class. IfcFlowFittingType
 type: docs
-weight: 14460
+weight: 14340
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcflowfittingtype/
 ---
 ## IfcFlowFittingType class

@@ -3,7 +3,7 @@ title: Class IfcContextDependentUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcContextDependentUnit class. IfcContextDependentUnit
 type: docs
-weight: 23200
+weight: 23080
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/
 ---
 ## IfcContextDependentUnit class

@@ -3,7 +3,7 @@ title: Enum CadObjectTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadObjectTypeName enum. Contains Object names
 type: docs
-weight: 1500
+weight: 1450
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadobjecttypename/
 ---
 ## CadObjectTypeName enumeration
@@ -71,50 +71,51 @@ public enum CadObjectTypeName
 | GROUP | `50` | GROUP object |
 | IDBUFFER | `51` | IDBUFFER object |
 | IMAGEDEF | `52` | IMAGEDEF object |
-| IMAGEDEF_REACTOR | `53` | IMAGEDEF_REACTOR object |
-| LAYER_INDEX | `54` | LAYER_INDEX object |
-| LAYER_FILTER | `55` | LAYER_FILTER object |
-| LAYOUT | `56` | LAYOUT object |
-| LIGHTLIST | `57` | LIGHTLIST object |
-| MATERIAL | `58` | MATERIAL object |
-| MLINESTYLE | `59` | MLINESTYLE object |
-| OBJECT_PTR | `60` | OBJECT_PTR object |
-| PLOTSETTINGS | `61` | PLOTSETTINGS object |
-| RASTERVARIABLES | `62` | RASTERVARIABLES object |
-| RENDERENVIRONMENT | `63` | RENDERENVIRONMENT object |
-| RENDERGLOBAL | `64` | RENDERGLOBAL object |
-| MENTALRAYRENDERSETTINGS | `65` | MENTALRAYRENDERSETTINGS object |
-| RAPIDRTRENDERENVIRONMENT | `66` | The RAPIDRTRENDERENVIRONMENT object |
-| RAPIDRTRENDERSETTINGS | `67` | The RAPIDRTRENDERSETTINGS object |
-| SECTIONMANAGER | `68` | SECTIONMANAGER object |
-| SECTIONSETTINGS | `69` | The SECTIONSETTINGS object |
-| SECTION | `70` | SECTIONSETTINGS object |
-| SPATIAL_INDEX | `71` | SPATIAL_INDEX object |
-| SPATIAL_FILTER | `72` | SPATIAL_FILTER object |
-| SORTENTSTABLE | `73` | SORTENTSTABLE object |
-| SKYLIGHT_BACKGROUND | `74` | SKYLIGHT_BACKGROUND object |
-| TABLESTYLE | `75` | TABLESTYLE object |
-| UNDERLAYDEFINITION | `76` | UNDERLAYDEFINITION object |
-| VISUALSTYLE | `77` | VISUALSTYLE object |
-| ACDBDETAILVIEWSTYLE | `78` | The detailviewstyle object |
-| VBA_PROJECT | `79` | VBA_PROJECT object |
-| WIPEOUTVARIABLES | `80` | WIPEOUTVARIABLES object |
-| SUNSTUDY | `81` | The sunstudy object |
-| TABLECONTENT | `82` | The tablecontent object |
-| TABLEGEOMETRY | `83` | The tablegeometry object |
-| SUN | `84` | The sun object |
-| XRECORD | `85` | XRECORD object |
-| CELLSTYLEMAP | `86` | CELLSTYLEMAP object |
-| TABLEFORMAT | `87` | TABLEFORMAT object |
-| CONTENTFORMAT | `88` | CONTENTFORMAT object |
-| MARGIN | `89` | MARGIN object |
-| GRIDFORMAT | `90` | GRIDFORMAT object |
-| CELLMARGIN | `91` | CELLMARGIN object |
-| CELLSTYLE | `92` | CELLSTYLE object |
-| MLEADERSTYLE | `93` | MLEADERSTYLE object |
-| SCALE | `94` | The scale object |
-| ACDBSECTIONVIEWSTYLE | `95` | The acdbsectionviewstyle |
-| ACDBASSOCVARIABLE | `96` | The ACDBASSOCVARIABLE |
+| IMAGEDATA | `53` | IMAGEDEF object |
+| IMAGEDEF_REACTOR | `54` | IMAGEDEF_REACTOR object |
+| LAYER_INDEX | `55` | LAYER_INDEX object |
+| LAYER_FILTER | `56` | LAYER_FILTER object |
+| LAYOUT | `57` | LAYOUT object |
+| LIGHTLIST | `58` | LIGHTLIST object |
+| MATERIAL | `59` | MATERIAL object |
+| MLINESTYLE | `60` | MLINESTYLE object |
+| OBJECT_PTR | `61` | OBJECT_PTR object |
+| PLOTSETTINGS | `62` | PLOTSETTINGS object |
+| RASTERVARIABLES | `63` | RASTERVARIABLES object |
+| RENDERENVIRONMENT | `64` | RENDERENVIRONMENT object |
+| RENDERGLOBAL | `65` | RENDERGLOBAL object |
+| MENTALRAYRENDERSETTINGS | `66` | MENTALRAYRENDERSETTINGS object |
+| RAPIDRTRENDERENVIRONMENT | `67` | The RAPIDRTRENDERENVIRONMENT object |
+| RAPIDRTRENDERSETTINGS | `68` | The RAPIDRTRENDERSETTINGS object |
+| SECTIONMANAGER | `69` | SECTIONMANAGER object |
+| SECTIONSETTINGS | `70` | The SECTIONSETTINGS object |
+| SECTION | `71` | SECTIONSETTINGS object |
+| SPATIAL_INDEX | `72` | SPATIAL_INDEX object |
+| SPATIAL_FILTER | `73` | SPATIAL_FILTER object |
+| SORTENTSTABLE | `74` | SORTENTSTABLE object |
+| SKYLIGHT_BACKGROUND | `75` | SKYLIGHT_BACKGROUND object |
+| TABLESTYLE | `76` | TABLESTYLE object |
+| UNDERLAYDEFINITION | `77` | UNDERLAYDEFINITION object |
+| VISUALSTYLE | `78` | VISUALSTYLE object |
+| ACDBDETAILVIEWSTYLE | `79` | The detailviewstyle object |
+| VBA_PROJECT | `80` | VBA_PROJECT object |
+| WIPEOUTVARIABLES | `81` | WIPEOUTVARIABLES object |
+| SUNSTUDY | `82` | The sunstudy object |
+| TABLECONTENT | `83` | The tablecontent object |
+| TABLEGEOMETRY | `84` | The tablegeometry object |
+| SUN | `85` | The sun object |
+| XRECORD | `86` | XRECORD object |
+| CELLSTYLEMAP | `87` | CELLSTYLEMAP object |
+| TABLEFORMAT | `88` | TABLEFORMAT object |
+| CONTENTFORMAT | `89` | CONTENTFORMAT object |
+| MARGIN | `90` | MARGIN object |
+| GRIDFORMAT | `91` | GRIDFORMAT object |
+| CELLMARGIN | `92` | CELLMARGIN object |
+| CELLSTYLE | `93` | CELLSTYLE object |
+| MLEADERSTYLE | `94` | MLEADERSTYLE object |
+| SCALE | `95` | The scale object |
+| ACDBSECTIONVIEWSTYLE | `96` | The acdbsectionviewstyle |
+| ACDBASSOCVARIABLE | `97` | The ACDBASSOCVARIABLE |
 
 ### See Also
 

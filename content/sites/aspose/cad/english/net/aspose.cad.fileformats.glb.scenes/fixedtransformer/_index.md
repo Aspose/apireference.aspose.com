@@ -3,7 +3,7 @@ title: Class FixedTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.FixedTransformer class. Represents the transform of a Content. Applies a fixed Matrix4x4 transform to the underlaying content
 type: docs
-weight: 11500
+weight: 11390
 url: /net/aspose.cad.fileformats.glb.scenes/fixedtransformer/
 ---
 ## FixedTransformer class

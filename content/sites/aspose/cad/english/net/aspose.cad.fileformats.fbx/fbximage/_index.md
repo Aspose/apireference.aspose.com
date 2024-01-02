@@ -3,7 +3,7 @@ title: Class FbxImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Fbx.FbxImage class. Fbx Image class
 type: docs
-weight: 9970
+weight: 10010
 url: /net/aspose.cad.fileformats.fbx/fbximage/
 ---
 ## FbxImage class
@@ -24,7 +24,7 @@ public class FbxImage : Image, IHasEntities<DrawingEntity3D>,
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
 | virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
-| virtual [Depth](../../aspose.cad/image/depth/) { get; } | Gets the image depth. |
+| override [Depth](../../aspose.cad.fileformats.fbx/fbximage/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
 | [Entities](../../aspose.cad.fileformats.fbx/fbximage/entities/) { get; } |  |
 | override [Height](../../aspose.cad.fileformats.fbx/fbximage/height/) { get; } | Gets the image height. |
@@ -36,6 +36,7 @@ public class FbxImage : Image, IHasEntities<DrawingEntity3D>,
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | [Version](../../aspose.cad.fileformats.fbx/fbximage/version/) { get; } | Gets the image height. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.fbx/fbximage/width/) { get; } | Gets the image width. |
 
 ## Methods
@@ -55,6 +56,7 @@ public class FbxImage : Image, IHasEntities<DrawingEntity3D>,
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | virtual [ThrowIfCantExportToCad](../../aspose.cad/image/throwifcantexporttocad/)(ImageOptionsBase, Exception) | Throw exception if can`t export |
+| [TryRemoveEntity](../../aspose.cad.fileformats.fbx/fbximage/tryremoveentity/)(DrawingEntity3D) |  |
 
 ### See Also
 

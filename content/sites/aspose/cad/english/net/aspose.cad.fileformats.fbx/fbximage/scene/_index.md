@@ -3,13 +3,13 @@ title: FbxImage.Scene
 second_title: Aspose.CAD for .NET API Reference
 description: FbxImage property. 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.fbx/fbximage/scene/
 ---
 ## FbxImage.Scene property
 
 ```csharp
-public #=zI_lHinQiTOIZu6oB7i9_P9lGJQBGnxt2Tg== Scene { get; }
+public #=zrQOwPjfdfKYoEwfFFINvIZ6AnuYMYkKuAA== Scene { get; }
 ```
 
 ### See Also

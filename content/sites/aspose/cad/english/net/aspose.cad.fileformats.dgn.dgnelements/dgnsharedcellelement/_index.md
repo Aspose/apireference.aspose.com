@@ -3,7 +3,7 @@ title: Class DgnSharedCellElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSharedCellElement class. Represents shared cell definition element
 type: docs
-weight: 8800
+weight: 8850
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/
 ---
 ## DgnSharedCellElement class
@@ -20,7 +20,7 @@ public class DgnSharedCellElement : DgnDrawableEntityBase
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [Definition](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/definition/) { get; } | Gets the definition. |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id/) { get; } | Gets the identifier. (2 properties) |
+| override [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id/) { get; } | Gets the identifier. |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/minpoint/) { get; } | Gets the min point of object. |

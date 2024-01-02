@@ -3,7 +3,7 @@ title: Class IfcPhysicalComplexQuantity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPhysicalComplexQuantity class. IfcPhysicalComplexQuantity
 type: docs
-weight: 25970
+weight: 25850
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalcomplexquantity/
 ---
 ## IfcPhysicalComplexQuantity class

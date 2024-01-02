@@ -3,7 +3,7 @@ title: Class CadLineTypeTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadLineTypeTableObject class. The Cad line type table object
 type: docs
-weight: 4220
+weight: 4250
 url: /net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/
 ---
 ## CadLineTypeTableObject class
@@ -50,6 +50,7 @@ public class CadLineTypeTableObject : CadOwnedObjectBase
 | [ScaleLinetypeElementIndex](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/scalelinetypeelementindex/) { get; set; } | Gets or sets the index of the scale linetype element. |
 | [ShapeNumber](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/shapenumber/) { get; set; } | Gets or sets the shape number. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleReference](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/stylereference/) { get; set; } | Gets or sets the style reference. |
 | [TextStrings](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/textstrings/) { get; set; } | Gets or sets the text strings. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |

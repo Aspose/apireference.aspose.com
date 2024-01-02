@@ -3,7 +3,7 @@ title: Class IfcObjectPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcObjectPlacement class. Partial IIfc entity class
 type: docs
-weight: 15320
+weight: 15200
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectplacement/
 ---
 ## IfcObjectPlacement class

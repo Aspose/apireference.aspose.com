@@ -3,7 +3,7 @@ title: Enum IfcBuildingElementProxyTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcBuildingElementProxyTypeEnum enum. IfcBuildingElementProxyTypeEnum
 type: docs
-weight: 18860
+weight: 18740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbuildingelementproxytypeenum/
 ---
 ## IfcBuildingElementProxyTypeEnum enumeration

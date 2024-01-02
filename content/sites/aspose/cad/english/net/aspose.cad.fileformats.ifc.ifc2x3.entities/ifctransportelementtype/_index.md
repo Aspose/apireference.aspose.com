@@ -3,7 +3,7 @@ title: Class IfcTransportElementType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTransportElementType class. IfcTransportElementType
 type: docs
-weight: 18240
+weight: 18120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctransportelementtype/
 ---
 ## IfcTransportElementType class

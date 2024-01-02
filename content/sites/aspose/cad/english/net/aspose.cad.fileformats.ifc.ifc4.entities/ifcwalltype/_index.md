@@ -3,7 +3,7 @@ title: Class IfcWallType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWallType class. IfcWallType
 type: docs
-weight: 29440
+weight: 29320
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwalltype/
 ---
 ## IfcWallType class

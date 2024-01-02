@@ -3,7 +3,7 @@ title: WriteSettings.Validation
 second_title: Aspose.CAD for .NET API Reference
 description: WriteSettings property. Gets or sets a value indicating the level of validation applied when loading a file
 type: docs
-weight: 90
+weight: 70
 url: /net/aspose.cad.fileformats.glb/writesettings/validation/
 ---
 ## WriteSettings.Validation property

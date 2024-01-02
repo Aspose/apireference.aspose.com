@@ -3,7 +3,7 @@ title: Class IfcFurnitureStandard
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFurnitureStandard class. IfcFurnitureStandard
 type: docs
-weight: 14640
+weight: 14520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfurniturestandard/
 ---
 ## IfcFurnitureStandard class

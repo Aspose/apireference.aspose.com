@@ -3,7 +3,7 @@ title: Enum CadAcadVersion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadAcadVersion enum. Autocad version enum
 type: docs
-weight: 1230
+weight: 1170
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadacadversion/
 ---
 ## CadAcadVersion enumeration

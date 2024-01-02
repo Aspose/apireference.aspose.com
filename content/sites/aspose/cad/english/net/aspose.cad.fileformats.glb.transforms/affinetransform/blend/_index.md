@@ -9,8 +9,7 @@ url: /net/aspose.cad.fileformats.glb.transforms/affinetransform/blend/
 ## AffineTransform.Blend method
 
 ```csharp
-public static AffineTransform Blend(ReadOnlySpan<AffineTransform> transforms, 
-    ReadOnlySpan<float> weights)
+public static AffineTransform Blend(AffineTransform[] transforms, float[] weights)
 ```
 
 ### See Also

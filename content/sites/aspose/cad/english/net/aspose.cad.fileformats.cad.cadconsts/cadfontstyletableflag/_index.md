@@ -3,7 +3,7 @@ title: Enum CadFontStyleTableFlag
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadFontStyleTableFlag enum. Font style table flags
 type: docs
-weight: 1370
+weight: 1310
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadfontstyletableflag/
 ---
 ## CadFontStyleTableFlag enumeration

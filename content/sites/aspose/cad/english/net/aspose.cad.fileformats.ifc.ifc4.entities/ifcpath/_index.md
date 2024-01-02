@@ -3,7 +3,7 @@ title: Class IfcPath
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPath class. IfcPath
 type: docs
-weight: 25900
+weight: 25780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpath/
 ---
 ## IfcPath class

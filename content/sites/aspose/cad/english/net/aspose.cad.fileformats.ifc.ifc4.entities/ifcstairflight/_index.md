@@ -3,7 +3,7 @@ title: Class IfcStairFlight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStairFlight class. IfcStairFlight
 type: docs
-weight: 28080
+weight: 27960
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstairflight/
 ---
 ## IfcStairFlight class

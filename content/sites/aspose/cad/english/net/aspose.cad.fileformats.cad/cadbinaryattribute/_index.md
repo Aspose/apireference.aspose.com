@@ -3,7 +3,7 @@ title: Class CadBinaryAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadBinaryAttribute class. class attribute for cad binary properties
 type: docs
-weight: 1160
+weight: 1100
 url: /net/aspose.cad.fileformats.cad/cadbinaryattribute/
 ---
 ## CadBinaryAttribute class

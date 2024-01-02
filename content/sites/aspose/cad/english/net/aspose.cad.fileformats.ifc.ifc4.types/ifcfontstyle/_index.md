@@ -3,7 +3,7 @@ title: Class IfcFontStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFontStyle class. IfcFontStyle
 type: docs
-weight: 31020
+weight: 30900
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfontstyle/
 ---
 ## IfcFontStyle class

@@ -3,7 +3,7 @@ title: Enum TiffPhotometrics
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffPhotometrics enum. Photometric interpolation enum
 type: docs
-weight: 35340
+weight: 35230
 url: /net/aspose.cad.fileformats.tiff.enums/tiffphotometrics/
 ---
 ## TiffPhotometrics enumeration

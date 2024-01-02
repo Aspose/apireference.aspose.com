@@ -3,7 +3,7 @@ title: Class IfcInterceptorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcInterceptorType class. IfcInterceptorType
 type: docs
-weight: 25080
+weight: 24960
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinterceptortype/
 ---
 ## IfcInterceptorType class

@@ -3,7 +3,7 @@ title: Enum Precision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.Precision enum. 
 type: docs
-weight: 6310
+weight: 6360
 url: /net/aspose.cad.fileformats.cgm.commands/precision/
 ---
 ## Precision enumeration

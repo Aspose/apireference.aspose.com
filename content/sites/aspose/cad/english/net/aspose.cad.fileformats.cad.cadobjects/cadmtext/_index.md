@@ -3,7 +3,7 @@ title: Class CadMText
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMText class. Class describing Cad Mtext
 type: docs
-weight: 2850
+weight: 2880
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/
 ---
 ## CadMText class
@@ -27,6 +27,7 @@ public class CadMText : CadExtrudedEntityBase
 | [AdditionalText](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/additionaltext/) { get; set; } | Gets or sets the additional text. |
 | [AdditionalTextList](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/additionaltextlist/) { get; set; } | Gets or sets the additional text list. |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
 | [AttachmentPoint](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/attachmentpoint/) { get; set; } | Gets or sets the attachment point. |
 | [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
@@ -90,6 +91,7 @@ public class CadMText : CadExtrudedEntityBase
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
 | [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineSpacingStyle](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/linespacingstyle/) { get; set; } | Gets or sets the line spacing style. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
@@ -110,7 +112,7 @@ public class CadMText : CadExtrudedEntityBase
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
 | [SpacingFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/spacingfactor/) { get; set; } | Gets or sets the spacing factor. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [Text](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/text/) { get; set; } | Gets or sets the text. |
 | [TextStyleName](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/textstylename/) { get; set; } | Gets or sets the text style name. |
 | [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | Gets or sets the transparency value for the entity. |

@@ -3,7 +3,7 @@ title: Class IfcDuctSilencerType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDuctSilencerType class. IfcDuctSilencerType
 type: docs
-weight: 23880
+weight: 23760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcductsilencertype/
 ---
 ## IfcDuctSilencerType class

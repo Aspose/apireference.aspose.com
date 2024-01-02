@@ -3,7 +3,7 @@ title: Class IfcPreDefinedSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPreDefinedSymbol class. IfcPreDefinedSymbol
 type: docs
-weight: 15800
+weight: 15680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefinedsymbol/
 ---
 ## IfcPreDefinedSymbol class

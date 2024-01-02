@@ -3,7 +3,7 @@ title: Class ColladaImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.ColladaImage class. COLLADA image
 type: docs
-weight: 7170
+weight: 7220
 url: /net/aspose.cad.fileformats.collada/colladaimage/
 ---
 ## ColladaImage class
@@ -31,6 +31,7 @@ public sealed class ColladaImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.collada/colladaimage/width/) { get; } | Gets the image width. |
 
 ## Methods

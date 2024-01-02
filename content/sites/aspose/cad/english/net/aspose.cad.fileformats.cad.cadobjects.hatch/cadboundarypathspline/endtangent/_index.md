@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/endt
 Gets or sets the end tangent.
 
 ```csharp
-public Point2D? EndTangent { get; set; }
+public Point2D EndTangent { get; set; }
 ```
 
 ### Property Value
@@ -20,7 +20,7 @@ The end tangent.
 
 ### See Also
 
-* struct [Point2D](../../point2d/)
+* class [Point2D](../../../aspose.cad.primitives/point2d/)
 * class [CadBoundaryPathSpline](../)
 * namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)

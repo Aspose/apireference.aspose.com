@@ -3,7 +3,7 @@ title: Class IfcTimePeriod
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTimePeriod class. IfcTimePeriod
 type: docs
-weight: 29050
+weight: 28930
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/
 ---
 ## IfcTimePeriod class

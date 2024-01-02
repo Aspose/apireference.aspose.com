@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimtxsty
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The DIMTXSTY  340
+description: CadDimensionStyleTable property. Gets or sets the text style name of the dimension
 type: docs
 weight: 740
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtxsty/
 ---
 ## CadDimensionStyleTable.Dimtxsty property
 
-Gets or sets The DIMTXSTY - 340
+Gets or sets the text style name of the dimension.
 
 ```csharp
 public string Dimtxsty { get; set; }

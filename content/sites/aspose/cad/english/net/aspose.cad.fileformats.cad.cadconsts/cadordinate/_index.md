@@ -3,7 +3,7 @@ title: Enum CadOrdinate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadOrdinate enum. Cad Ordinate position
 type: docs
-weight: 1510
+weight: 1460
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadordinate/
 ---
 ## CadOrdinate enumeration

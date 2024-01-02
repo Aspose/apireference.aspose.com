@@ -3,7 +3,7 @@ title: Class IfcRotationalStiffnessSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRotationalStiffnessSelect class. IfcRotationalStiffnessSelect
 type: docs
-weight: 32480
+weight: 32360
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcrotationalstiffnessselect/
 ---
 ## IfcRotationalStiffnessSelect class

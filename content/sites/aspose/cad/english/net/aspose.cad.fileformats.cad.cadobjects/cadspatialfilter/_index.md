@@ -3,7 +3,7 @@ title: Class CadSpatialFilter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSpatialFilter class. Class describing SPATIAL_FILTER object
 type: docs
-weight: 3170
+weight: 3210
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/
 ---
 ## CadSpatialFilter class
@@ -44,6 +44,7 @@ public class CadSpatialFilter : CadBaseObject
 | [PointsNumber](../../aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/pointsnumber/) { get; set; } | Gets or sets the points number. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TransformationMatrices](../../aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/transformationmatrices/) { get; set; } | Gets or sets the transformation matrices. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |

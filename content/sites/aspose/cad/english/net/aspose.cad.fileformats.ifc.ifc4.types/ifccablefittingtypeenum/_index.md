@@ -3,7 +3,7 @@ title: Enum IfcCableFittingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCableFittingTypeEnum enum. IfcCableFittingTypeEnum
 type: docs
-weight: 30010
+weight: 29890
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccablefittingtypeenum/
 ---
 ## IfcCableFittingTypeEnum enumeration

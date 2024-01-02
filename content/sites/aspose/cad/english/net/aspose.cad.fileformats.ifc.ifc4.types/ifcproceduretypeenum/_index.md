@@ -3,7 +3,7 @@ title: Enum IfcProcedureTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcProcedureTypeEnum enum. IfcProcedureTypeEnum
 type: docs
-weight: 32150
+weight: 32030
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcproceduretypeenum/
 ---
 ## IfcProcedureTypeEnum enumeration

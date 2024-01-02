@@ -3,7 +3,7 @@ title: Struct AffineTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.AffineTransform struct. Represents an affine transform in 3D space with two mutually exclusive representantions
 type: docs
-weight: 11740
+weight: 11630
 url: /net/aspose.cad.fileformats.glb.transforms/affinetransform/
 ---
 ## AffineTransform structure
@@ -45,7 +45,7 @@ public struct AffineTransform : IEquatable<AffineTransform>
 
 | Name | Description |
 | --- | --- |
-| static [Blend](../../aspose.cad.fileformats.glb.transforms/affinetransform/blend/)(ReadOnlySpan&lt;AffineTransform&gt;, ReadOnlySpan&lt;float&gt;) |  |
+| static [Blend](../../aspose.cad.fileformats.glb.transforms/affinetransform/blend/)(AffineTransform[], float[]) |  |
 | static [CreateDecomposed](../../aspose.cad.fileformats.glb.transforms/affinetransform/createdecomposed/)(Matrix4x4) |  |
 | static [CreateFromAny](../../aspose.cad.fileformats.glb.transforms/affinetransform/createfromany/)(Matrix4x4?, Vector3?, Quaternion?, Vector3?) |  |
 | static [Multiply](../../aspose.cad.fileformats.glb.transforms/affinetransform/multiply/)(ref AffineTransform, ref AffineTransform) | Multiplies *a* by *b*. |

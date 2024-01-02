@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimlfac
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimlfac  144
+description: CadDimensionStyleTable property. Gets or sets a scale factor for linear dimension measurements
 type: docs
 weight: 430
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimlfac/
 ---
 ## CadDimensionStyleTable.Dimlfac property
 
-Gets or sets The dimlfac - 144
+Gets or sets a scale factor for linear dimension measurements.
 
 ```csharp
 public double Dimlfac { get; set; }

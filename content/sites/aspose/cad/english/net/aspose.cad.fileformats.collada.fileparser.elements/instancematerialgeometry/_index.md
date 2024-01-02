@@ -3,7 +3,7 @@ title: Class InstanceMaterialGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstanceMaterialGeometry class. The instance material. The instance_material element declares the instantiation of a COLLADA material resource
 type: docs
-weight: 7810
+weight: 7860
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/
 ---
 ## InstanceMaterialGeometry class

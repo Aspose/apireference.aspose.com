@@ -3,7 +3,7 @@ title: Class IfcThermalTransmittanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcThermalTransmittanceMeasure class. IfcThermalTransmittanceMeasure
 type: docs
-weight: 33160
+weight: 33040
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermaltransmittancemeasure/
 ---
 ## IfcThermalTransmittanceMeasure class

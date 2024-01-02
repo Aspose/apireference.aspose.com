@@ -3,7 +3,7 @@ title: Class IfcRelAssociatesConstraint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelAssociatesConstraint class. IfcRelAssociatesConstraint
 type: docs
-weight: 16540
+weight: 16420
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesconstraint/
 ---
 ## IfcRelAssociatesConstraint class

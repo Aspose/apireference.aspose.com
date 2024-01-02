@@ -3,7 +3,7 @@ title: Enum CadParameterType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadParameterType enum. Type of parsing parameters
 type: docs
-weight: 1520
+weight: 1470
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadparametertype/
 ---
 ## CadParameterType enumeration

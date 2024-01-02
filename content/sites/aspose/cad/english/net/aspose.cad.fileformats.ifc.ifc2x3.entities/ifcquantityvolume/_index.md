@@ -3,7 +3,7 @@ title: Class IfcQuantityVolume
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcQuantityVolume class. IfcQuantityVolume
 type: docs
-weight: 16200
+weight: 16080
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcquantityvolume/
 ---
 ## IfcQuantityVolume class

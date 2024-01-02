@@ -3,7 +3,7 @@ title: Enum IfcCompressorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCompressorTypeEnum enum. IfcCompressorTypeEnum
 type: docs
-weight: 30170
+weight: 30050
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccompressortypeenum/
 ---
 ## IfcCompressorTypeEnum enumeration

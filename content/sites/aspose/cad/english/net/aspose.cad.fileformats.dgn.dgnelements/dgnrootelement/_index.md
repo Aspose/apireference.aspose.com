@@ -3,7 +3,7 @@ title: Class DgnRootElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnRootElement class. Represents root element of a DGN file
 type: docs
-weight: 8770
+weight: 8820
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/
 ---
 ## DgnRootElement class
@@ -31,7 +31,7 @@ public class DgnRootElement : DgnElementBase
 | [AxisLockAngel](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axislockangel/) { get; } | Gets axis lock angel |
 | [AxisLockOrigin](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axislockorigin/) { get; } | Gets axis lock origin |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Is3D](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/is3d/) { get; } | Gets a value indicating whether the file is 3D model |
 | [KeyPointSnapDivisor](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/keypointsnapdivisor/) { get; } | Gets key point snap divisor |
 | [KeyPointSnapFlag](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/keypointsnapflag/) { get; } | Gets key point snap flag |

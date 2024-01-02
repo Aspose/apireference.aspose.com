@@ -3,7 +3,7 @@ title: Class ComplexTypeBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.ComplexTypeBase class. Represents base abstraction for XMP Complex value type
 type: docs
-weight: 37520
+weight: 37460
 url: /net/aspose.cad.xmp.types.complex/complextypebase/
 ---
 ## ComplexTypeBase class

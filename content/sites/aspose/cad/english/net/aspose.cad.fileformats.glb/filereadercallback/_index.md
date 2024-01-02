@@ -3,7 +3,7 @@ title: Delegate FileReaderCallback
 second_title: Aspose.CAD for .NET API Reference
 description: Callback used for loading associated files of current model
 type: docs
-weight: 10340
+weight: 10270
 url: /net/aspose.cad.fileformats.glb/filereadercallback/
 ---
 ## FileReaderCallback delegate

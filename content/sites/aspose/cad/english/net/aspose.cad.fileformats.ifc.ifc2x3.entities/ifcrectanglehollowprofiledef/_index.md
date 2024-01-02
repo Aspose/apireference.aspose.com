@@ -3,7 +3,7 @@ title: Class IfcRectangleHollowProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRectangleHollowProfileDef class. IfcRectangleHollowProfileDef
 type: docs
-weight: 16290
+weight: 16170
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/
 ---
 ## IfcRectangleHollowProfileDef class

@@ -3,7 +3,7 @@ title: Class XmpTrailerPi
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpTrailerPi class. Represents XMP trailer processing instruction
 type: docs
-weight: 37780
+weight: 37720
 url: /net/aspose.cad.xmp/xmptrailerpi/
 ---
 ## XmpTrailerPi class

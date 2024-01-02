@@ -3,7 +3,7 @@ title: Interface ICadObjectContainer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.ICadObjectContainer interface. Base interface for Cad objects
 type: docs
-weight: 3650
+weight: 3670
 url: /net/aspose.cad.fileformats.cad.cadobjects/icadobjectcontainer/
 ---
 ## ICadObjectContainer interface

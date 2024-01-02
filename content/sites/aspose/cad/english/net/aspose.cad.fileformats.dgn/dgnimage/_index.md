@@ -3,7 +3,7 @@ title: Class DgnImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnImage class. Dgn image class
 type: docs
-weight: 8940
+weight: 8990
 url: /net/aspose.cad.fileformats.dgn/dgnimage/
 ---
 ## DgnImage class
@@ -24,10 +24,10 @@ public class DgnImage : Image, IHasEntities<DgnDrawableEntityBase>,
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
 | virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
-| virtual [Depth](../../aspose.cad/image/depth/) { get; } | Gets the image depth. |
+| override [Depth](../../aspose.cad.fileformats.dgn/dgnimage/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
 | [Entities](../../aspose.cad.fileformats.dgn/dgnimage/entities/) { get; } |  |
-| override [Height](../../aspose.cad.fileformats.dgn/dgnimage/height/) { get; } | Gets the image height. |
+| override [Height](../../aspose.cad.fileformats.dgn/dgnimage/height/) { get; } | Gets the image height. Defines the Y-axis distance between the bottommost point of all graphical objects in the image and their topmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../aspose.cad/image/unittype/) |
 | [Is3DImage](../../aspose.cad.fileformats.dgn/dgnimage/is3dimage/) { get; } | Gets a value indicating whether file is 3D or not |
 | [IsCached](../../aspose.cad.fileformats.dgn/dgnimage/iscached/) { get; } | Gets a value indicating whether object's data is cached currently and no data reading is required. |
 | [Layouts](../../aspose.cad.fileformats.dgn/dgnimage/layouts/) { get; } |  |
@@ -41,7 +41,8 @@ public class DgnImage : Image, IHasEntities<DgnDrawableEntityBase>,
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | [Version](../../aspose.cad.fileformats.dgn/dgnimage/version/) { get; } | Gets DGN version of loaded image |
 | [Views](../../aspose.cad.fileformats.dgn/dgnimage/views/) { get; } | Gets the views. |
-| override [Width](../../aspose.cad.fileformats.dgn/dgnimage/width/) { get; } | Gets the image width. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
+| override [Width](../../aspose.cad.fileformats.dgn/dgnimage/width/) { get; } | Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../aspose.cad/image/unittype/) |
 
 ## Methods
 
@@ -60,6 +61,7 @@ public class DgnImage : Image, IHasEntities<DgnDrawableEntityBase>,
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | override [ThrowIfCantExportToCad](../../aspose.cad.fileformats.dgn/dgnimage/throwifcantexporttocad/)(ImageOptionsBase, Exception) |  |
+| [TryRemoveEntity](../../aspose.cad.fileformats.dgn/dgnimage/tryremoveentity/)(DgnDrawableEntityBase) |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: JsonContent.AreEqualByContent
 second_title: Aspose.CAD for .NET API Reference
 description: JsonContent method. Compares two JsonContent objects for equality
 type: docs
-weight: 120
+weight: 80
 url: /net/aspose.cad.fileformats.glb.io/jsoncontent/areequalbycontent/
 ---
 ## JsonContent.AreEqualByContent method
@@ -26,7 +26,7 @@ true if the objects are considered equal
 
 ## Remarks
 
-- Comparing json structures is tricky because the values are typeless, so when we parse a json DOM into memory we don't know which should be the right type to use for comparison. - Also, System.Text.JSon is roundtrip safe when used in Net Core, but it is not when used in Net Framework, so depending on the framework we use, floating point roundtrips will behave differently.
+- Comparing json structures is tricky because the values are typeless, so when we parse a json DOM into memory we don't know which should be the right type to use for comparison. - Also, Json is roundtrip safe when used in Net Core, but it is not when used in Net Framework, so depending on the framework we use, floating point roundtrips will behave differently.
 
 ### See Also
 

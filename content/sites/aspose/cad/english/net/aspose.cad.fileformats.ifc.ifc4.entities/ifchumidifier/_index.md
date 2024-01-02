@@ -3,7 +3,7 @@ title: Class IfcHumidifier
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcHumidifier class. IfcHumidifier
 type: docs
-weight: 24970
+weight: 24850
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifchumidifier/
 ---
 ## IfcHumidifier class

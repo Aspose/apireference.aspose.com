@@ -3,7 +3,7 @@ title: Class PltPlotWedge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotWedge class. The PLT plot wedge
 type: docs
-weight: 34140
+weight: 34030
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotwedge/
 ---
 ## PltPlotWedge class

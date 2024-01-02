@@ -3,7 +3,7 @@ title: Class IfcAdvancedBrepWithVoids
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAdvancedBrepWithVoids class. IfcAdvancedBrepWithVoids
 type: docs
-weight: 21910
+weight: 21790
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/
 ---
 ## IfcAdvancedBrepWithVoids class

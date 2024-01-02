@@ -3,7 +3,7 @@ title: Class Plane
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Plane class. The plane. Defines an infinite plane
 type: docs
-weight: 8090
+weight: 8140
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/plane/
 ---
 ## Plane class

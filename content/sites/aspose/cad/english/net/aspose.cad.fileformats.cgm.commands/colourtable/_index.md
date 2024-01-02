@@ -3,7 +3,7 @@ title: Class ColourTable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourTable class. 
 type: docs
-weight: 5150
+weight: 5200
 url: /net/aspose.cad.fileformats.cgm.commands/colourtable/
 ---
 ## ColourTable class

@@ -3,7 +3,7 @@ title: Class IfcPropertyEnumeration
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertyEnumeration class. IfcPropertyEnumeration
 type: docs
-weight: 26530
+weight: 26410
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeration/
 ---
 ## IfcPropertyEnumeration class

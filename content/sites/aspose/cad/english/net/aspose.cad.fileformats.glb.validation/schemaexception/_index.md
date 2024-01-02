@@ -3,7 +3,7 @@ title: Class SchemaException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.SchemaException class. Represents an exception produced by an invalid JSON document
 type: docs
-weight: 11910
+weight: 11800
 url: /net/aspose.cad.fileformats.glb.validation/schemaexception/
 ---
 ## SchemaException class

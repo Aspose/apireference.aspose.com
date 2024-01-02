@@ -3,7 +3,7 @@ title: Class CadExtrudedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadExtrudedSurface class. The Cad revolved surface
 type: docs
-weight: 2600
+weight: 2630
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/
 ---
 ## CadExtrudedSurface class
@@ -27,6 +27,7 @@ public class CadExtrudedSurface : CadPlaneSurface
 | [AlignAngle](../../aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/alignangle/) { get; set; } | Gets or sets the align angle. |
 | [AlignStartFlag](../../aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/alignstartflag/) { get; set; } | Gets or sets the align start flag. |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
 | [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
 | [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
@@ -56,6 +57,7 @@ public class CadExtrudedSurface : CadPlaneSurface
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
 | [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
@@ -79,7 +81,7 @@ public class CadExtrudedSurface : CadPlaneSurface
 | [SolidFlag](../../aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/solidflag/) { get; set; } | Gets or sets a value indicating whether solid flag. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
 | [StartDraftDistance](../../aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/startdraftdistance/) { get; set; } | Gets or sets the start draft distance. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [SweepAlignmentOption](../../aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/sweepalignmentoption/) { get; set; } | Gets or sets the sweep alignment option. |
 | [SweepEntityTransformComputedFlag](../../aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/sweepentitytransformcomputedflag/) { get; set; } | Gets or sets the sweep entity transform computed flag. |
 | [SweepVector](../../aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/sweepvector/) { get; set; } | Gets or sets sweep vector. |

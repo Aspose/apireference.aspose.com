@@ -3,7 +3,7 @@ title: Class IfcDerivedMeasureValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDerivedMeasureValue class. IfcDerivedMeasureValue
 type: docs
-weight: 30490
+weight: 30370
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcderivedmeasurevalue/
 ---
 ## IfcDerivedMeasureValue class

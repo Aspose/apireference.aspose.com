@@ -3,7 +3,7 @@ title: Class IfcConversionBasedUnitWithOffset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConversionBasedUnitWithOffset class. IfcConversionBasedUnitWithOffset
 type: docs
-weight: 23250
+weight: 23130
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunitwithoffset/
 ---
 ## IfcConversionBasedUnitWithOffset class

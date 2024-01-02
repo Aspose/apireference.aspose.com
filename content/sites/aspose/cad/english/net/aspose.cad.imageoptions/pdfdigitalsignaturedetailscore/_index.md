@@ -3,7 +3,7 @@ title: Class PdfDigitalSignatureDetailsCore
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.PdfDigitalSignatureDetailsCore class. Contains details for a PDF digital signature
 type: docs
-weight: 36400
+weight: 36310
 url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/
 ---
 ## PdfDigitalSignatureDetailsCore class

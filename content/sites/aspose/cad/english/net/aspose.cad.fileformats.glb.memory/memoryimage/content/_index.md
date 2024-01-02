@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.glb.memory/memoryimage/content/
 Gets the file bytes of the image.
 
 ```csharp
-public ReadOnlyMemory<byte> Content { get; }
+public byte[] Content { get; }
 ```
 
 ### See Also

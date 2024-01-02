@@ -3,7 +3,7 @@ title: Class IfcRelAssignsToProduct
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelAssignsToProduct class. IfcRelAssignsToProduct
 type: docs
-weight: 16470
+weight: 16350
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoproduct/
 ---
 ## IfcRelAssignsToProduct class

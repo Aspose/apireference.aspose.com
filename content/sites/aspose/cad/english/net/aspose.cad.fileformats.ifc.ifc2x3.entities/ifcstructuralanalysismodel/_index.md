@@ -3,7 +3,7 @@ title: Class IfcStructuralAnalysisModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralAnalysisModel class. IfcStructuralAnalysisModel
 type: docs
-weight: 17390
+weight: 17270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralanalysismodel/
 ---
 ## IfcStructuralAnalysisModel class

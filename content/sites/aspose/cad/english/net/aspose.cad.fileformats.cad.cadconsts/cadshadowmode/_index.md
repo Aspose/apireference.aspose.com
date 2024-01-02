@@ -3,7 +3,7 @@ title: Enum CadShadowMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadShadowMode enum. Shadow enumeration
 type: docs
-weight: 1620
+weight: 1570
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadowmode/
 ---
 ## CadShadowMode enumeration

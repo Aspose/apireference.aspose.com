@@ -3,7 +3,7 @@ title: Class CadIntAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadIntAttribute class. class attribute for cad int properties
 type: docs
-weight: 1700
+weight: 1650
 url: /net/aspose.cad.fileformats.cad/cadintattribute/
 ---
 ## CadIntAttribute class

@@ -1,14 +1,14 @@
 ---
 title: Struct IntegerArray
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.IntegerArray struct. Wraps an encoded Memory and exposes it as an IList
+description: Aspose.CAD.FileFormats.GLB.Memory.IntegerArray struct. Wraps an encoded ArraySegment and exposes it as an IList
 type: docs
-weight: 11080
+weight: 10970
 url: /net/aspose.cad.fileformats.glb.memory/integerarray/
 ---
 ## IntegerArray structure
 
-Wraps an encoded Memory and exposes it as an IList.
+Wraps an encoded ArraySegment and exposes it as an IList.
 
 ```csharp
 public struct IntegerArray : IList<uint>, IReadOnlyList<uint>
@@ -18,8 +18,8 @@ public struct IntegerArray : IList<uint>, IReadOnlyList<uint>
 
 | Name | Description |
 | --- | --- |
-| [IntegerArray](integerarray/#constructor)(Memory&lt;byte&gt;, IndexEncodingType) | Initializes a new instance of the `IntegerArray` struct. |
-| [IntegerArray](integerarray/#constructor_1)(Memory&lt;byte&gt;, int, int, IndexEncodingType) | Initializes a new instance of the `IntegerArray` struct. |
+| [IntegerArray](integerarray/#constructor)(ArraySegment&lt;byte&gt;, IndexEncodingType) | Initializes a new instance of the `IntegerArray` struct. |
+| [IntegerArray](integerarray/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, IndexEncodingType) | Initializes a new instance of the `IntegerArray` struct. |
 
 ## Properties
 

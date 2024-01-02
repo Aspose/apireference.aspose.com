@@ -3,7 +3,7 @@ title: CadEntityBase.LayerName
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the name of the layer the entity belongs to
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/
 ---
 ## CadEntityBase.LayerName property

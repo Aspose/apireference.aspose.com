@@ -3,7 +3,7 @@ title: DwfImage.Pages
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage property. Gets the DWF pages. Returns an array of all DWF pages that are contained in the DWF image. Each DWF page defines all its available graphical parameters and all the objects that are drawn on it
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.dwf/dwfimage/pages/
 ---
 ## DwfImage.Pages property

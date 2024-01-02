@@ -3,7 +3,7 @@ title: Class CadMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMaterial class. Class describing CadMaterial
 type: docs
-weight: 2870
+weight: 2900
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/
 ---
 ## CadMaterial class
@@ -129,6 +129,7 @@ public class CadMaterial : CadBaseObject
 | [SpecularMapMapperTilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapmappertilingmethod/) { get; set; } | Gets or sets the specular map mapper tiling method. |
 | [SpecularMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapmappertransformmatrix/) { get; set; } | Gets or sets the specular map mapper transform matrix. |
 | [SpecularMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapsource/) { get; set; } | Gets or sets the specular map source. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/tilingmethod/) { get; set; } | Gets or sets the tiling method. |
 | [Translucence](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/translucence/) { get; set; } | Gets or sets the translucence. |
 | [TransmittanceScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/transmittancescale/) { get; set; } | Gets or sets the transmittance scale. |

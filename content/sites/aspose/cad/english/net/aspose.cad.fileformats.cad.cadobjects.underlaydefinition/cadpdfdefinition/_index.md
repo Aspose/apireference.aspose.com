@@ -3,7 +3,7 @@ title: Class CadPdfDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition.CadPdfDefinition class. Class describing CadPdfDefinition
 type: docs
-weight: 3910
+weight: 3940
 url: /net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/cadpdfdefinition/
 ---
 ## CadPdfDefinition class
@@ -35,6 +35,7 @@ public class CadPdfDefinition : CadUnderlayDefinition
 | [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [UnderlayName](../../aspose.cad.fileformats.cad.cadobjects.underlaydefinition/cadunderlaydefinition/underlayname/) { get; set; } | Gets or sets the name of the underlay. |
 | [UnderlayPathAndFileName](../../aspose.cad.fileformats.cad.cadobjects.underlaydefinition/cadunderlaydefinition/underlaypathandfilename/) { get; set; } | Gets or sets the name of the underlay path and file. |

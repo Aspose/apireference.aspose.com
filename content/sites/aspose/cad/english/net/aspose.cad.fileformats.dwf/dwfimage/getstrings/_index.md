@@ -3,7 +3,7 @@ title: DwfImage.GetStrings
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage method. Gets all string values from image. Provides an opportunity to get the values of all text graphic elements present in the image in the form of an array of strings
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.fileformats.dwf/dwfimage/getstrings/
 ---
 ## DwfImage.GetStrings method

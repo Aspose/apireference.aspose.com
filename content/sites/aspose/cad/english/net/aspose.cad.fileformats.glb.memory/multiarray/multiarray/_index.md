@@ -9,7 +9,7 @@ url: /net/aspose.cad.fileformats.glb.memory/multiarray/multiarray/
 ## MultiArray constructor
 
 ```csharp
-public MultiArray(Memory<byte> source, int byteOffset, int itemsCount, int byteStride, 
+public MultiArray(ArraySegment<byte> source, int byteOffset, int itemsCount, int byteStride, 
     int dimensions, EncodingType encoding, bool normalized)
 ```
 

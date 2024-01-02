@@ -3,7 +3,7 @@ title: Class CgmPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.CgmPoint class. Represents a point parameter type
 type: docs
-weight: 4500
+weight: 4550
 url: /net/aspose.cad.fileformats.cgm.classes/cgmpoint/
 ---
 ## CgmPoint class

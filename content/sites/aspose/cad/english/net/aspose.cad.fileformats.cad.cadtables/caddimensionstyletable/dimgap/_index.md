@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimgap
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimgap  147
+description: CadDimensionStyleTable property. Gets or sets the distance around the dimension text when the dimension line breaks it
 type: docs
 weight: 390
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimgap/
 ---
 ## CadDimensionStyleTable.Dimgap property
 
-Gets or sets The dimgap - 147
+Gets or sets the distance around the dimension text when the dimension line breaks it.
 
 ```csharp
 public double Dimgap { get; set; }

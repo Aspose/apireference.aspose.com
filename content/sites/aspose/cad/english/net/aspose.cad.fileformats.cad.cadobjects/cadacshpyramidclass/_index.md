@@ -3,7 +3,7 @@ title: Class CadAcshPyramidClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcshPyramidClass class. Class describing CadAcshPyramidClass object
 type: docs
-weight: 2240
+weight: 2230
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/
 ---
 ## CadAcshPyramidClass class
@@ -30,14 +30,27 @@ public class CadAcshPyramidClass : CadDbEvalExpr
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
 | [DbEvalExprParameterList](../../aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/dbevalexprparameterlist/) { get; set; } | Gets or sets the database eval expr parameter list. |
 | [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [EvalExprMajor](../../aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/evalexprmajor/) { get; set; } | The major |
+| [EvalExprMinor](../../aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/evalexprminor/) { get; set; } | The minor |
+| [EvalExprNodeId](../../aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/evalexprnodeid/) { get; set; } | The node ID |
+| [EvalExprParentId](../../aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/evalexprparentid/) { get; set; } | The parent ID |
+| [EvalExprValueCode](../../aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/evalexprvaluecode/) { get; set; } | The value code |
 | [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [Height](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/height/) { get; set; } | The height |
+| [HistoryNode](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/historynode/) { get; set; } | The HistoryNode |
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Major](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/major/) { get; set; } | The major |
+| [Minor](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/minor/) { get; set; } | The minor |
 | [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
 | [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Radius](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/radius/) { get; set; } | The radius |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [ShHistoryNodeParameterList](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/shhistorynodeparameterlist/) { get; set; } | Gets or sets the sh history node parameter list. |
 | [ShPyramidParameterList](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/shpyramidparameterlist/) { get; set; } | Gets or sets the sh pyramid parameter list. |
+| [Sides](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/sides/) { get; set; } | The sides |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| [TopRadius](../../aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/topradius/) { get; set; } | The top radius |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

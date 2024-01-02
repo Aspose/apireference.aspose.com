@@ -3,7 +3,7 @@ title: Class IfcSphericalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSphericalSurface class. IfcSphericalSurface
 type: docs
-weight: 28040
+weight: 27920
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsphericalsurface/
 ---
 ## IfcSphericalSurface class

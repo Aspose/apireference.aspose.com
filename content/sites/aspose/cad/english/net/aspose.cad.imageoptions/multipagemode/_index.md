@@ -3,7 +3,7 @@ title: Enum MultiPageMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.MultiPageMode enum. Represents multipage mode
 type: docs
-weight: 36360
+weight: 36270
 url: /net/aspose.cad.imageoptions/multipagemode/
 ---
 ## MultiPageMode enumeration

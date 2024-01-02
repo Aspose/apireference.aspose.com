@@ -3,7 +3,7 @@ title: CadEntityBase.Childs
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/
 ---
 ## CadEntityBase.Childs property

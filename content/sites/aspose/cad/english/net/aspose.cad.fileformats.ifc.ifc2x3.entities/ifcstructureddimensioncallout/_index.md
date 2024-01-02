@@ -3,7 +3,7 @@ title: Class IfcStructuredDimensionCallout
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuredDimensionCallout class. IfcStructuredDimensionCallout
 type: docs
-weight: 17710
+weight: 17590
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructureddimensioncallout/
 ---
 ## IfcStructuredDimensionCallout class

@@ -3,7 +3,7 @@ title: Class IfcActorRole
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcActorRole class. IfcActorRole
 type: docs
-weight: 12070
+weight: 11950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/
 ---
 ## IfcActorRole class

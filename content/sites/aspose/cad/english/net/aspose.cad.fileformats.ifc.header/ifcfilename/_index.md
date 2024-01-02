@@ -3,7 +3,7 @@ title: Class IfcFileName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.Header.IfcFileName class. IfcFileName class represents file information for IFC
 type: docs
-weight: 12010
+weight: 11890
 url: /net/aspose.cad.fileformats.ifc.header/ifcfilename/
 ---
 ## IfcFileName class

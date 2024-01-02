@@ -3,7 +3,7 @@ title: Class IfcOutlet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOutlet class. IfcOutlet
 type: docs
-weight: 25860
+weight: 25740
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcoutlet/
 ---
 ## IfcOutlet class

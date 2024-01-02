@@ -3,7 +3,7 @@ title: GlbImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: GlbImage property. Gets the image width
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.glb/glbimage/width/
 ---
 ## GlbImage.Width property

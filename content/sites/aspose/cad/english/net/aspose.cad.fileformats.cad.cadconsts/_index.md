@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadConsts
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad file format constants
 type: docs
-weight: 170
+weight: 120
 url: /net/aspose.cad.fileformats.cad.cadconsts/
 ---
 The namespace contains Cad file format constants.
@@ -42,6 +42,7 @@ The namespace contains Cad file format constants.
 | [CadLayoutUcsOrthographicType](./cadlayoutucsorthographictype/) | Orthographic type of UCS. [`CadLayout`](../aspose.cad.fileformats.cad.cadobjects/cadlayout/) |
 | [CadLineSpacing](./cadlinespacing/) | The Cad line spacing. |
 | [CadLineSpacingType](./cadlinespacingtype/) | Cad Line spacing enum |
+| [CadLineStyle](./cadlinestyle/) | Line style |
 | [CadLwPolylineFlag](./cadlwpolylineflag/) | The Cad LWPOLYLINE flags. |
 | [CadMultiLineFlag](./cadmultilineflag/) | The Cad MULTILINE flags. |
 | [CadObjectTypeName](./cadobjecttypename/) | Contains Object names |

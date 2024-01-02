@@ -3,7 +3,7 @@ title: Class TextPrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextPrecision class. Class5 ElementId11
 type: docs
-weight: 6650
+weight: 6700
 url: /net/aspose.cad.fileformats.cgm.commands/textprecision/
 ---
 ## TextPrecision class

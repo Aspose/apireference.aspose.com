@@ -3,7 +3,7 @@ title: Class CadBinaryCodeValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadBinaryCodeValue class. Cad binary Code Value class
 type: docs
-weight: 1170
+weight: 1110
 url: /net/aspose.cad.fileformats.cad/cadbinarycodevalue/
 ---
 ## CadBinaryCodeValue class

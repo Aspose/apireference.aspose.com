@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.Polylines
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Polylines entities
 type: docs
-weight: 320
+weight: 270
 url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/
 ---
 The namespace contains Polylines entities.

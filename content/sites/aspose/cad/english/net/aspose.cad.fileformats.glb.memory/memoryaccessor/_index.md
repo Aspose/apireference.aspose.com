@@ -3,7 +3,7 @@ title: Class MemoryAccessor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.MemoryAccessor class. Wraps a ArraySegment decoding it and exposing its content as arrays of different types
 type: docs
-weight: 11140
+weight: 11030
 url: /net/aspose.cad.fileformats.glb.memory/memoryaccessor/
 ---
 ## MemoryAccessor class
@@ -40,6 +40,8 @@ public sealed class MemoryAccessor
 | static [VerifyAccessorBounds](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyaccessorbounds/)(MemoryAccessor, IReadOnlyList&lt;double&gt;, IReadOnlyList&lt;double&gt;) |  |
 | static [VerifyVertexIndices](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyvertexindices/)(MemoryAccessor, uint) |  |
 | static [VerifyWeightsSum](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyweightssum/)(MemoryAccessor, MemoryAccessor) |  |
+| static [_GetValue&lt;T&gt;](../../aspose.cad.fileformats.glb.memory/memoryaccessor/_getvalue/)(byte[], int) |  |
+| static [_SetValue&lt;T&gt;](../../aspose.cad.fileformats.glb.memory/memoryaccessor/_setvalue/)(byte[], int, T) |  |
 
 ### See Also
 

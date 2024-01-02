@@ -3,7 +3,7 @@ title: Enum ProjectType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpDm.ProjectType enum. Represents project type in XmpDynamicMediaPackage
 type: docs
-weight: 37340
+weight: 37280
 url: /net/aspose.cad.xmp.schemas.xmpdm/projecttype/
 ---
 ## ProjectType enumeration

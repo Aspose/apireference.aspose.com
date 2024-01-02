@@ -3,7 +3,7 @@ title: Enum TiffDataTypes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffDataTypes enum. The tiff data type enum
 type: docs
-weight: 35280
+weight: 35170
 url: /net/aspose.cad.fileformats.tiff.enums/tiffdatatypes/
 ---
 ## TiffDataTypes enumeration

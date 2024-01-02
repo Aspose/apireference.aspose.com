@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimunit
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimunit 270
+description: CadDimensionStyleTable property. Gets or sets the value that was used to set units but now is replaced with Dimlunit and Dimfrac
 type: docs
 weight: 780
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimunit/
 ---
 ## CadDimensionStyleTable.Dimunit property
 
-Gets or sets The dimunit 270
+Gets or sets the value, that was used to set units but now is replaced with Dimlunit and Dimfrac.
 
 ```csharp
 public short Dimunit { get; set; }

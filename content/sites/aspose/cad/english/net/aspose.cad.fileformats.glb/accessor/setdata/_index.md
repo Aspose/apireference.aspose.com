@@ -12,7 +12,7 @@ Associates this [`Accessor`](../) with a [`BufferView`](../../bufferview/)
 
 ```csharp
 public void SetData(BufferView buffer, int bufferByteOffset, int itemCount, 
-    DimensionType dimensions, EncodingType encoding, bool normalized)
+    DimensionType dimensions, EncodingType encoding, bool? normalized)
 ```
 
 | Parameter | Type | Description |
@@ -22,7 +22,7 @@ public void SetData(BufferView buffer, int bufferByteOffset, int itemCount,
 | itemCount | Int32 | The number of items in the accessor. |
 | dimensions | DimensionType | The [`DimensionType`](../../dimensiontype/) item type. |
 | encoding | EncodingType | The [`EncodingType`](../../encodingtype/) item encoding. |
-| normalized | Boolean | The item normalization mode. |
+| normalized | Nullable`1 | The item normalization mode. |
 
 ### See Also
 

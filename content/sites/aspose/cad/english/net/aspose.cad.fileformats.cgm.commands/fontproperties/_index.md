@@ -3,7 +3,7 @@ title: Class FontProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.FontProperties class. Class1 Element21
 type: docs
-weight: 5600
+weight: 5650
 url: /net/aspose.cad.fileformats.cgm.commands/fontproperties/
 ---
 ## FontProperties class

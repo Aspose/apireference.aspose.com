@@ -3,7 +3,7 @@ title: Class InterpolatedInterior
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.InterpolatedInterior class. Class5 ElementId43
 type: docs
-weight: 5800
+weight: 5850
 url: /net/aspose.cad.fileformats.cgm.commands/interpolatedinterior/
 ---
 ## InterpolatedInterior class

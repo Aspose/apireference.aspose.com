@@ -3,7 +3,7 @@ title: Class ColourModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourModel class. Class1 Element19
 type: docs
-weight: 5100
+weight: 5150
 url: /net/aspose.cad.fileformats.cgm.commands/colourmodel/
 ---
 ## ColourModel class

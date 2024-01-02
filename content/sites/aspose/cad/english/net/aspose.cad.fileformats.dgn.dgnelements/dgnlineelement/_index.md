@@ -3,7 +3,7 @@ title: Class DgnLineElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnLineElement class. Represents line
 type: docs
-weight: 8740
+weight: 8790
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/
 ---
 ## DgnLineElement class
@@ -19,7 +19,7 @@ public class DgnLineElement : DgnDrawableEntityBase
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint/) { get; } | Gets the min point of object. |

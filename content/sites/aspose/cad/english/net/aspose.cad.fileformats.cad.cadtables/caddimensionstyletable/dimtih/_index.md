@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimtih
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimtih  073
+description: CadDimensionStyleTable property. Gets or sets the position of dimension text inside the extension lines except ordinate dimensions. Possible values are 0 aligns text with the dimension line 1 horizontal text
 type: docs
 weight: 630
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtih/
 ---
 ## CadDimensionStyleTable.Dimtih property
 
-Gets or sets The dimtih - 073
+Gets or sets the position of dimension text inside the extension lines (except ordinate dimensions). Possible values are: 0 (aligns text with the dimension line), 1 (horizontal text).
 
 ```csharp
 public short? Dimtih { get; set; }

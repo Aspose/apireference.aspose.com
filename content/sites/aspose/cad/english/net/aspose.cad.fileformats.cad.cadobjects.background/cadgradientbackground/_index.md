@@ -3,7 +3,7 @@ title: Class CadGradientBackground
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Background.CadGradientBackground class. Class describing Gradient Background
 type: docs
-weight: 1800
+weight: 1750
 url: /net/aspose.cad.fileformats.cad.cadobjects.background/cadgradientbackground/
 ---
 ## CadGradientBackground class
@@ -41,6 +41,7 @@ public class CadGradientBackground : CadBaseObject
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [Rotation](../../aspose.cad.fileformats.cad.cadobjects.background/cadgradientbackground/rotation/) { get; set; } | Gets or sets the angle by which the gradient background will be rotated. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

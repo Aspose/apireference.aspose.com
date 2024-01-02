@@ -3,7 +3,7 @@ title: Class IfcWarpingStiffnessSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWarpingStiffnessSelect class. IfcWarpingStiffnessSelect
 type: docs
-weight: 33470
+weight: 33350
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingstiffnessselect/
 ---
 ## IfcWarpingStiffnessSelect class

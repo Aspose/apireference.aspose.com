@@ -3,7 +3,7 @@ title: CadEntityBase.XDirMissingFlag
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value indicating that no XDictionary handle is stored for this entity
 type: docs
-weight: 320
+weight: 340
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/xdirmissingflag/
 ---
 ## CadEntityBase.XDirMissingFlag property

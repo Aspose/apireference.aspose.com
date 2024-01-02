@@ -3,7 +3,7 @@ title: Class DgnTagValueElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTagValueElement class. Represents Tag Value element
 type: docs
-weight: 8870
+weight: 8920
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/
 ---
 ## DgnTagValueElement class
@@ -19,7 +19,7 @@ public class DgnTagValueElement : DgnElementBase
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | [TagIndex](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagindex/) { get; } | Gets tag index |
 | [TagLength](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/taglength/) { get; } | Gets tag length |

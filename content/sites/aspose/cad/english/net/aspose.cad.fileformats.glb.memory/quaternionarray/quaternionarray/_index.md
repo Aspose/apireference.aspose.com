@@ -6,10 +6,10 @@ type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.glb.memory/quaternionarray/quaternionarray/
 ---
-## QuaternionArray(Memory&lt;byte&gt;, int, EncodingType, bool) {#constructor}
+## QuaternionArray(ArraySegment&lt;byte&gt;, int, EncodingType, bool) {#constructor}
 
 ```csharp
-public QuaternionArray(Memory<byte> source, int byteStride = 0, 
+public QuaternionArray(ArraySegment<byte> source, int byteStride = 0, 
     EncodingType encoding = EncodingType.FLOAT, bool normalized = false)
 ```
 
@@ -22,10 +22,10 @@ public QuaternionArray(Memory<byte> source, int byteStride = 0,
 
 ---
 
-## QuaternionArray(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
+## QuaternionArray(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
 
 ```csharp
-public QuaternionArray(Memory<byte> source, int byteOffset, int itemsCount, int byteStride, 
+public QuaternionArray(ArraySegment<byte> source, int byteOffset, int itemsCount, int byteStride, 
     EncodingType encoding, bool normalized)
 ```
 

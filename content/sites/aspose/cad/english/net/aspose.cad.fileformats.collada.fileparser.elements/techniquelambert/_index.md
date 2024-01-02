@@ -3,7 +3,7 @@ title: Class TechniqueLambert
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TechniqueLambert class. The technique lambert. Produces a diffuse shaded surface that is independent of lighting
 type: docs
-weight: 8400
+weight: 8450
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquelambert/
 ---
 ## TechniqueLambert class

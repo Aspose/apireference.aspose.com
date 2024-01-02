@@ -3,7 +3,7 @@ title: Class CadMLeaderStyleObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderStyleObject class. The Cad MLeaderStyle
 type: docs
-weight: 2840
+weight: 2870
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/
 ---
 ## CadMLeaderStyleObject class
@@ -73,6 +73,7 @@ public class CadMLeaderStyleObject : CadBaseObject
 | [PropertyOverrideFlag](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/propertyoverrideflag/) { get; set; } |  |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleName](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/stylename/) { get; set; } |  |
 | [TextAlignInIPE](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/textaligninipe/) { get; set; } |  |
 | [TextAlignmentType](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/textalignmenttype/) { get; set; } |  |

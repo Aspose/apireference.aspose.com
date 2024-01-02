@@ -3,7 +3,7 @@ title: Image.Save
 second_title: Aspose.CAD for .NET API Reference
 description: Image method. Saves the image data to the underlying stream
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad/image/save/
 ---
 ## Save() {#save}
@@ -66,7 +66,7 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
 
 ### See Also
 
-* class [ImageOptionsBase](../../imageoptionsbase/)
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
 * class [Image](../)
 * namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
@@ -113,7 +113,7 @@ using (var ms = new MemoryStream())
 
 ### See Also
 
-* class [ImageOptionsBase](../../imageoptionsbase/)
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
 * class [Image](../)
 * namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)

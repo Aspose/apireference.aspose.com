@@ -3,7 +3,7 @@ title: Class IfcBurnerType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBurnerType class. IfcBurnerType
 type: docs
-weight: 22500
+weight: 22380
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcburnertype/
 ---
 ## IfcBurnerType class

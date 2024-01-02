@@ -3,7 +3,7 @@ title: Enum IfcDataOriginEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDataOriginEnum enum. IfcDataOriginEnum
 type: docs
-weight: 30430
+weight: 30310
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdataoriginenum/
 ---
 ## IfcDataOriginEnum enumeration

@@ -3,7 +3,7 @@ title: Class IfcDuctSegmentType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDuctSegmentType class. IfcDuctSegmentType
 type: docs
-weight: 23860
+weight: 23740
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcductsegmenttype/
 ---
 ## IfcDuctSegmentType class

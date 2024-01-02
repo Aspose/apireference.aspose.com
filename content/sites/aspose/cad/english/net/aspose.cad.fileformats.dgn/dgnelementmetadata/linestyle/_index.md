@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.dgn/dgnelementmetadata/linestyle/
 Gets or sets Line style
 
 ```csharp
-public DgnLineStyle LineStyle { get; set; }
+public CadLineStyle LineStyle { get; set; }
 ```
 
 ### See Also
 
-* enum [DgnLineStyle](../../dgnlinestyle/)
+* enum [CadLineStyle](../../../aspose.cad.fileformats.cad.cadconsts/cadlinestyle/)
 * class [DgnElementMetadata](../)
 * namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)

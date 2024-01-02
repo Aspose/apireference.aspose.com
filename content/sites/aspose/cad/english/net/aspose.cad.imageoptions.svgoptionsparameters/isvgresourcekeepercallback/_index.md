@@ -3,7 +3,7 @@ title: Interface ISvgResourceKeeperCallback
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.SvgOptionsParameters.ISvgResourceKeeperCallback interface. The svg callback interface
 type: docs
-weight: 36570
+weight: 36480
 url: /net/aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/
 ---
 ## ISvgResourceKeeperCallback interface

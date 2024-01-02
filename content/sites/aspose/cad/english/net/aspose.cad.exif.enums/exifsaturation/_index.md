@@ -3,7 +3,7 @@ title: Enum ExifSaturation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.Enums.ExifSaturation enum. exif saturation enum
 type: docs
-weight: 680
+weight: 650
 url: /net/aspose.cad.exif.enums/exifsaturation/
 ---
 ## ExifSaturation enumeration

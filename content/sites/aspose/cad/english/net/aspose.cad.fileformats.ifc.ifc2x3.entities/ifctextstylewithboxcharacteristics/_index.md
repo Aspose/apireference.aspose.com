@@ -3,7 +3,7 @@ title: Class IfcTextStyleWithBoxCharacteristics
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextStyleWithBoxCharacteristics class. IfcTextStyleWithBoxCharacteristics
 type: docs
-weight: 18100
+weight: 17980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/
 ---
 ## IfcTextStyleWithBoxCharacteristics class

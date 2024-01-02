@@ -3,7 +3,7 @@ title: Class CadAppIdDictionary
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadAppIdDictionary class. Collection of cad layouts
 type: docs
-weight: 1150
+weight: 1090
 url: /net/aspose.cad.fileformats.cad/cadappiddictionary/
 ---
 ## CadAppIdDictionary class

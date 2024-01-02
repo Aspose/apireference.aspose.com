@@ -3,7 +3,7 @@ title: Class IfcSimpleValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSimpleValue class. IfcSimpleValue
 type: docs
-weight: 21080
+weight: 20960
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsimplevalue/
 ---
 ## IfcSimpleValue class

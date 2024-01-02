@@ -3,7 +3,7 @@ title: Interface IVertexBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.IVertexBuilder interface. 
 type: docs
-weight: 10420
+weight: 10340
 url: /net/aspose.cad.fileformats.glb.geometry/ivertexbuilder/
 ---
 ## IVertexBuilder interface

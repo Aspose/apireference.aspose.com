@@ -3,7 +3,7 @@ title: Class IfcConnectionCurveGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConnectionCurveGeometry class. IfcConnectionCurveGeometry
 type: docs
-weight: 23040
+weight: 22920
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectioncurvegeometry/
 ---
 ## IfcConnectionCurveGeometry class

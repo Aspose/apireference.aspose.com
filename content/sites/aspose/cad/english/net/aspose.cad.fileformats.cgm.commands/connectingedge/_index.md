@@ -3,7 +3,7 @@ title: Class ConnectingEdge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ConnectingEdge class. Class4 ElementId21
 type: docs
-weight: 5190
+weight: 5240
 url: /net/aspose.cad.fileformats.cgm.commands/connectingedge/
 ---
 ## ConnectingEdge class

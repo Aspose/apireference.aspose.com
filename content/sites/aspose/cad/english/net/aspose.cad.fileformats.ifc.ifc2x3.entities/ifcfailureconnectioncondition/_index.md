@@ -3,7 +3,7 @@ title: Class IfcFailureConnectionCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFailureConnectionCondition class. IfcFailureConnectionCondition
 type: docs
-weight: 14300
+weight: 14180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfailureconnectioncondition/
 ---
 ## IfcFailureConnectionCondition class

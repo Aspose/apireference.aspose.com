@@ -3,7 +3,7 @@ title: Struct PointPrimitiveTVertexTmaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.PointPrimitive2TVertexTmaterial struct. 
 type: docs
-weight: 10490
+weight: 10410
 url: /net/aspose.cad.fileformats.glb.geometry/pointprimitive-2/
 ---
 ## PointPrimitive&lt;TVertex,Tmaterial&gt; structure

@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimexo
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimexo  042
+description: CadDimensionStyleTable property. Gets or sets the distance between extension lines and origin points
 type: docs
 weight: 340
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimexo/
 ---
 ## CadDimensionStyleTable.Dimexo property
 
-Gets or sets The dimexo - 042
+Gets or sets the distance between extension lines and origin points.
 
 ```csharp
 public double Dimexo { get; set; }

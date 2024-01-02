@@ -3,7 +3,7 @@ title: Class MakerNote
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.MakerNote class. Represents a single Maker Note record
 type: docs
-weight: 780
+weight: 750
 url: /net/aspose.cad.exif/makernote/
 ---
 ## MakerNote class

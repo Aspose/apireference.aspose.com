@@ -3,7 +3,7 @@ title: WriteSettings.JsonIndented
 second_title: Aspose.CAD for .NET API Reference
 description: WriteSettings property. Gets or sets a value indicating whether the JSON formatting will include indentation
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.cad.fileformats.glb/writesettings/jsonindented/
 ---
 ## WriteSettings.JsonIndented property

@@ -3,7 +3,7 @@ title: Class StepRepresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepRepresentationItem class. RepresentationItem class for STP file
 type: docs
-weight: 34870
+weight: 34760
 url: /net/aspose.cad.fileformats.stp.items/steprepresentationitem/
 ---
 ## StepRepresentationItem class

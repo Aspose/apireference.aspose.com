@@ -3,7 +3,7 @@ title: Class XmpBoolean
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Basic.XmpBoolean class. Represents XMP Boolean basic type
 type: docs
-weight: 37410
+weight: 37350
 url: /net/aspose.cad.xmp.types.basic/xmpboolean/
 ---
 ## XmpBoolean class

@@ -3,7 +3,7 @@ title: Class CadVportTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadVportTableObject class. viewPorts table class
 type: docs
-weight: 4270
+weight: 4300
 url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/
 ---
 ## CadVportTableObject class
@@ -64,6 +64,7 @@ public class CadVportTableObject : CadOwnedObjectBase
 | [SnapStyle](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snapstyle/) { get; set; } | Gets or sets the snap style. |
 | [SoftFrozenLayerObject](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/softfrozenlayerobject/) { get; set; } | Gets or sets the soft frozen layer object. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleSheet](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/stylesheet/) { get; set; } | Gets or sets the style sheet. |
 | [TableBrightness](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/tablebrightness/) { get; set; } | Gets or sets the brightness. |
 | [TableContrast](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/tablecontrast/) { get; set; } | Gets or sets the contrast. |

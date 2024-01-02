@@ -3,7 +3,7 @@ title: Class StructuredDataRecord.Member
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.StructuredDataRecordMember class. One entry in the structured data record
 type: docs
-weight: 4540
+weight: 4590
 url: /net/aspose.cad.fileformats.cgm.classes/structureddatarecord.member/
 ---
 ## StructuredDataRecord.Member class

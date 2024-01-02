@@ -3,7 +3,7 @@ title: Class IfcPropertySingleValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertySingleValue class. IfcPropertySingleValue
 type: docs
-weight: 16110
+weight: 15990
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/
 ---
 ## IfcPropertySingleValue class

@@ -3,7 +3,7 @@ title: CadEntityBase.LineScale
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the linetype scale factor of the entity
 type: docs
-weight: 170
+weight: 190
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/
 ---
 ## CadEntityBase.LineScale property

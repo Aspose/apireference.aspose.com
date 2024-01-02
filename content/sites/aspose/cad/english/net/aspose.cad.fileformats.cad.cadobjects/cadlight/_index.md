@@ -3,7 +3,7 @@ title: Class CadLight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLight class. Class describing CadLight
 type: docs
-weight: 2730
+weight: 2760
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/
 ---
 ## CadLight class
@@ -25,6 +25,7 @@ public class CadLight : CadEntityBase
 | Name | Description |
 | --- | --- |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
 | [AttenuationEndLimit](../../aspose.cad.fileformats.cad.cadobjects/cadlight/attenuationendlimit/) { get; set; } | Gets or sets the attenuation end limit. |
 | [AttenuationLimits](../../aspose.cad.fileformats.cad.cadobjects/cadlight/attenuationlimits/) { get; set; } | Gets or sets a value indicating whether [attenuation limits]. |
@@ -55,6 +56,7 @@ public class CadLight : CadEntityBase
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
 | [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LightName](../../aspose.cad.fileformats.cad.cadobjects/cadlight/lightname/) { get; set; } | Gets or sets the name of the light. |
 | [LightPosition](../../aspose.cad.fileformats.cad.cadobjects/cadlight/lightposition/) { get; set; } | Gets or sets the light position. |
 | [LightType](../../aspose.cad.fileformats.cad.cadobjects/cadlight/lighttype/) { get; set; } | Gets or sets the type of the light. |
@@ -78,7 +80,7 @@ public class CadLight : CadEntityBase
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
 | [Status](../../aspose.cad.fileformats.cad.cadobjects/cadlight/status/) { get; set; } | Gets or sets a value indicating whether this `CadLight` is status. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TargetLocation](../../aspose.cad.fileformats.cad.cadobjects/cadlight/targetlocation/) { get; set; } | Gets or sets the target location. |
 | [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | Gets or sets the transparency value for the entity. |
 | override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadlight/typename/) { get; } | Gets the name of the type. |

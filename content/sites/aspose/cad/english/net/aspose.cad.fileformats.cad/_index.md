@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles Cad related file formats processing
 type: docs
-weight: 160
+weight: 110
 url: /net/aspose.cad.fileformats.cad/
 ---
 The namespace handles Cad related file formats processing.
@@ -42,11 +42,6 @@ The namespace handles Cad related file formats processing.
 | [CadVportList](./cadvportlist/) | The cad viewport dictionary The following group codes apply to VPORT symbol table entries. The VPORT table is unique: it may contain several entries with the same name (indicating a multiple-viewport configuration). The entries corresponding to the active viewport configuration all have the name *ACTIVE. The first such entry describes the current viewport. Since the name is not unique, we use List as a container |
 | [DwgImage](./dwgimage/) | Dwg image class |
 | [DxfImage](./dxfimage/) | Dxf image class |
-## Interfaces
-
-| Interface | Description |
-| --- | --- |
-| [ICadGeometry](./icadgeometry/) | ICadGeometry class |
 ## Enumeration
 
 | Enumeration | Description |

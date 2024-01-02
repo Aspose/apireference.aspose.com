@@ -3,7 +3,7 @@ title: Class IfcRelVoidsElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelVoidsElement class. IfcRelVoidsElement
 type: docs
-weight: 27460
+weight: 27340
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelvoidselement/
 ---
 ## IfcRelVoidsElement class

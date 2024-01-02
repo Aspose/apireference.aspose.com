@@ -3,7 +3,7 @@ title: Class VdcExtent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.VdcExtent class. Class2 Element6
 type: docs
-weight: 6750
+weight: 6800
 url: /net/aspose.cad.fileformats.cgm.commands/vdcextent/
 ---
 ## VdcExtent class

@@ -3,7 +3,7 @@ title: Class IfcCoordinateReferenceSystem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCoordinateReferenceSystem class. IfcCoordinateReferenceSystem
 type: docs
-weight: 23310
+weight: 23190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/
 ---
 ## IfcCoordinateReferenceSystem class

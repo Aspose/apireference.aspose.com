@@ -3,7 +3,7 @@ title: Class CadPlotSettings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadPlotSettings class. The Cad Plot Settings object
 type: docs
-weight: 3000
+weight: 3030
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/
 ---
 ## CadPlotSettings class
@@ -60,6 +60,7 @@ public class CadPlotSettings : CadBaseObject
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [StandardScaleType](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletype/) { get; set; } | Gets or sets the type of the standard scale. |
 | [StandardScaleTypeFactor](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standardscaletypefactor/) { get; set; } | Gets or sets the standard scale type factor. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TopSize](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/topsize/) { get; set; } | Gets or sets the size of the top. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |

@@ -3,7 +3,7 @@ title: Class Accessor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Accessor class. 
 type: docs
-weight: 10000
+weight: 10050
 url: /net/aspose.cad.fileformats.glb/accessor/
 ---
 ## Accessor class
@@ -50,7 +50,7 @@ public sealed class Accessor : LogicalChildOfRoot
 | [GetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/getextension/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)(T) |  |
-| [SetData](../../aspose.cad.fileformats.glb/accessor/setdata/)(BufferView, int, int, DimensionType, EncodingType, bool) | Associates this `Accessor` with a [`BufferView`](../bufferview/) |
+| [SetData](../../aspose.cad.fileformats.glb/accessor/setdata/)(BufferView, int, int, DimensionType, EncodingType, bool?) | Associates this `Accessor` with a [`BufferView`](../bufferview/) |
 | [SetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/setextension/)(T) |  |
 | [SetIndexData](../../aspose.cad.fileformats.glb/accessor/setindexdata/#setindexdata_1)(MemoryAccessor) |  |
 | [SetIndexData](../../aspose.cad.fileformats.glb/accessor/setindexdata/#setindexdata)(BufferView, int, int, IndexEncodingType) | Associates this `Accessor` with a [`BufferView`](../bufferview/) |

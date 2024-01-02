@@ -3,7 +3,7 @@ title: Class DwfImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfImage class. DWF image class. Provides reading of DWF/DWFX format files their processing and their export to other formats
 type: docs
-weight: 9050
+weight: 9090
 url: /net/aspose.cad.fileformats.dwf/dwfimage/
 ---
 ## DwfImage class
@@ -23,7 +23,7 @@ public sealed class DwfImage : Image
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
 | virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
-| virtual [Depth](../../aspose.cad/image/depth/) { get; } | Gets the image depth. |
+| override [Depth](../../aspose.cad.fileformats.dwf/dwfimage/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
 | override [Height](../../aspose.cad.fileformats.dwf/dwfimage/height/) { get; } | Gets the image height. Defines the Y-axis distance between the bottommost point of all graphical objects in the image and their topmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../aspose.cad/image/unittype/) |
 | override [IsCached](../../aspose.cad.fileformats.dwf/dwfimage/iscached/) { get; } | Gets a value indicating whether object's data is cached currently and no data reading is required. Depending on the loading options only the necessary part of the data can be loaded into the cache from the image data. In this case, we can use this property to determine that only part of the image data is loaded into the cache. |
@@ -33,6 +33,7 @@ public sealed class DwfImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | override [UnitType](../../aspose.cad.fileformats.dwf/dwfimage/unittype/) { get; } |  |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.dwf/dwfimage/width/) { get; } | Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../aspose.cad/image/unittype/) |
 
 ## Methods

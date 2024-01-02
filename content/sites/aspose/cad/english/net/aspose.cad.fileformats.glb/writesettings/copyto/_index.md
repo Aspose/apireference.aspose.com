@@ -3,7 +3,7 @@ title: WriteSettings.CopyTo
 second_title: Aspose.CAD for .NET API Reference
 description: WriteSettings method. 
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.cad.fileformats.glb/writesettings/copyto/
 ---
 ## WriteSettings.CopyTo method

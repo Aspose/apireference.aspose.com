@@ -3,21 +3,26 @@ title: Aspose.CAD.FileFormats.Iges.Drawables
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles the IGES geometric representation of an entity or part of it
 type: docs
-weight: 930
+weight: 900
 url: /net/aspose.cad.fileformats.iges.drawables/
 ---
 The namespace handles the IGES geometric representation of an entity or part of it.
 
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [BezierCurve](./beziercurve/) | Provides intermediate Drawable representation in form of cubic Bezier curve |
+| [IgesDrawableBase](./igesdrawablebase/) | Provides a base class for intermediate representation of document entities in simple geometric form |
+| [Polygon](./polygon/) |  |
+| [Polyline](./polyline/) | Provides intermediate Drawable representation in form of segmented line |
+| [TextDrawable](./textdrawable/) | Provides intermediate Drawable representation of a text in a drawing |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [IBezierCurve](./ibeziercurve/) | Interface for cubic Bezier Curve geometry primitive |
-| [IDrawable](./idrawable/) | Parent Interface for Simple geometric represetation of an entity or its part |
 | [IDrawableProperties](./idrawableproperties/) | Interface for Non-geometric properties for geometric representations |
-| [IPolygon](./ipolygon/) | Interface for filled polygon (typically, triangle) geometry primitive |
-| [IPolyLine](./ipolyline/) | Interface for multi-segment line geometry primitive |
-| [IText](./itext/) | Interface for text primitive |
+| [IIgesDrawable](./iigesdrawable/) | Parent Interface for Simple geometric representation of an entity or its part |
 ## Enumeration
 
 | Enumeration | Description |

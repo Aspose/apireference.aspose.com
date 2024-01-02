@@ -3,7 +3,7 @@ title: Class XmpGuid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Derived.XmpGuid class. Represents XMP global unique identifier
 type: docs
-weight: 37630
+weight: 37570
 url: /net/aspose.cad.xmp.types.derived/xmpguid/
 ---
 ## XmpGuid class

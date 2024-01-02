@@ -3,7 +3,7 @@ title: Class VC
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.VC class. Represents the abstract VC parameter type
 type: docs
-weight: 4570
+weight: 4620
 url: /net/aspose.cad.fileformats.cgm.classes/vc/
 ---
 ## VC class

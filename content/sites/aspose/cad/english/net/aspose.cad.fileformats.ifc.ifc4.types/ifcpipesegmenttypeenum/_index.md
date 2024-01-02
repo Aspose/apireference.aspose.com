@@ -3,7 +3,7 @@ title: Enum IfcPipeSegmentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPipeSegmentTypeEnum enum. IfcPipeSegmentTypeEnum
 type: docs
-weight: 32010
+weight: 31890
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpipesegmenttypeenum/
 ---
 ## IfcPipeSegmentTypeEnum enumeration

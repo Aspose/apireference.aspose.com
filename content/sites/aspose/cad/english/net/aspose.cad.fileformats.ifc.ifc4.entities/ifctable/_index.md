@@ -3,7 +3,7 @@ title: Class IfcTable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTable class. IfcTable
 type: docs
-weight: 28780
+weight: 28660
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctable/
 ---
 ## IfcTable class

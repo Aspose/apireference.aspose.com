@@ -3,7 +3,7 @@ title: Class Polylist
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Polylist class. The POLYLIST. The POLYLIST element provides the information needed to bind vertex attributes together and then organize those vertices into individual polygons. The polygons described in POLYLIST can contain arbitrary numbers of vertices. Unlike the polygons element the POLYLIST element cannot contain polygons with holes
 type: docs
-weight: 8110
+weight: 8160
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/polylist/
 ---
 ## Polylist class

@@ -3,7 +3,7 @@ title: Class DgnCellHeaderElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnCellHeaderElement class. Represents cell header element
 type: docs
-weight: 8620
+weight: 8670
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/
 ---
 ## DgnCellHeaderElement class
@@ -21,7 +21,7 @@ public class DgnCellHeaderElement : DgnDrawableEntityBase, ICompositeDgnElement
 | [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/childs/) { get; } | Gets childs of the composite element |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [ClassBitmap](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/classbitmap/) { get; } | Gets cell's class bit map |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Levels](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/levels/) { get; } | Gets array of levels used in cell |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |

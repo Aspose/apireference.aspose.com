@@ -3,7 +3,7 @@ title: Class IfcAnnotationFillAreaOccurrence
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAnnotationFillAreaOccurrence class. IfcAnnotationFillAreaOccurrence
 type: docs
-weight: 12180
+weight: 12060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillareaoccurrence/
 ---
 ## IfcAnnotationFillAreaOccurrence class

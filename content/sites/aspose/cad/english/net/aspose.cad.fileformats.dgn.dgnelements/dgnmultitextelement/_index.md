@@ -3,7 +3,7 @@ title: Class DgnMultiTextElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnMultiTextElement class. Represents multiline text element
 type: docs
-weight: 8750
+weight: 8800
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/
 ---
 ## DgnMultiTextElement class
@@ -21,7 +21,7 @@ public class DgnMultiTextElement : DgnTextElement
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [FontId](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/fontid/) { get; } | Gets or sets font id |
 | [HeightMultiplier](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/heightmultiplier/) { get; } | Gets or sets char height in master units |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Justification](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/justification/) { get; } | Gets or sets justification |
 | [LengthMultiplier](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/lengthmultiplier/) { get; } | Gets or sets char width in master units |
 | [LinesNumber](../../aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/linesnumber/) { get; } | Gets number of lines |

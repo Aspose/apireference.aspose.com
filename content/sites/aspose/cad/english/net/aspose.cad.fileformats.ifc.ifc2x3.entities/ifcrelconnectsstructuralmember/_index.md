@@ -3,7 +3,7 @@ title: Class IfcRelConnectsStructuralMember
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelConnectsStructuralMember class. IfcRelConnectsStructuralMember
 type: docs
-weight: 16660
+weight: 16540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsstructuralmember/
 ---
 ## IfcRelConnectsStructuralMember class

@@ -3,7 +3,7 @@ title: Class Cad2DPointAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Cad2DPointAttribute class. class attribute for cad 2D point
 type: docs
-weight: 1120
+weight: 1060
 url: /net/aspose.cad.fileformats.cad/cad2dpointattribute/
 ---
 ## Cad2DPointAttribute class

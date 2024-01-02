@@ -3,7 +3,7 @@ title: Class IfcResourceConstraintRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcResourceConstraintRelationship class. IfcResourceConstraintRelationship
 type: docs
-weight: 27550
+weight: 27430
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourceconstraintrelationship/
 ---
 ## IfcResourceConstraintRelationship class

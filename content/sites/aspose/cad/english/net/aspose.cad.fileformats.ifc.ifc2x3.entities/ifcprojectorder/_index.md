@@ -3,7 +3,7 @@ title: Class IfcProjectOrder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProjectOrder class. IfcProjectOrder
 type: docs
-weight: 15960
+weight: 15840
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprojectorder/
 ---
 ## IfcProjectOrder class

@@ -3,7 +3,7 @@ title: Enum CgmFileFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.CgmFileFormat enum. Type of the cgm file format
 type: docs
-weight: 4460
+weight: 4510
 url: /net/aspose.cad.fileformats.cgm/cgmfileformat/
 ---
 ## CgmFileFormat enumeration

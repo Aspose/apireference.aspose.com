@@ -3,7 +3,7 @@ title: Class IfcElectricalCircuit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcElectricalCircuit class. IfcElectricalCircuit
 type: docs
-weight: 13970
+weight: 13850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalcircuit/
 ---
 ## IfcElectricalCircuit class

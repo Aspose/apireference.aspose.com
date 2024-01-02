@@ -3,7 +3,7 @@ title: Enum IfcChillerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcChillerTypeEnum enum. IfcChillerTypeEnum
 type: docs
-weight: 30050
+weight: 29930
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcchillertypeenum/
 ---
 ## IfcChillerTypeEnum enumeration

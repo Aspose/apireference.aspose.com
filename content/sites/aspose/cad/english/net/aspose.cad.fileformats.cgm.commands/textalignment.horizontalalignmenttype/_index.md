@@ -3,7 +3,7 @@ title: Enum TextAlignment.HorizontalAlignmentType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextAlignmentHorizontalAlignmentType enum. 
 type: docs
-weight: 6570
+weight: 6620
 url: /net/aspose.cad.fileformats.cgm.commands/textalignment.horizontalalignmenttype/
 ---
 ## TextAlignment.HorizontalAlignmentType enumeration

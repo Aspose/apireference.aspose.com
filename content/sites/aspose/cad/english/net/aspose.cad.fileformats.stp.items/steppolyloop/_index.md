@@ -3,7 +3,7 @@ title: Class StepPolyLoop
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepPolyLoop class. PolyLoop class for STP file
 type: docs
-weight: 34800
+weight: 34690
 url: /net/aspose.cad.fileformats.stp.items/steppolyloop/
 ---
 ## StepPolyLoop class

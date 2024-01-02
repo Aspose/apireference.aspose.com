@@ -3,7 +3,7 @@ title: Image.ThrowIfCantExportToCad
 second_title: Aspose.CAD for .NET API Reference
 description: Image method. Throw exception if cant export
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad/image/throwifcantexporttocad/
 ---
 ## Image.ThrowIfCantExportToCad method
@@ -21,7 +21,7 @@ public virtual void ThrowIfCantExportToCad(ImageOptionsBase options, Exception e
 
 ### See Also
 
-* class [ImageOptionsBase](../../imageoptionsbase/)
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
 * class [Image](../)
 * namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)

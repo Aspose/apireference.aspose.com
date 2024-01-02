@@ -3,7 +3,7 @@ title: Class IfcPreDefinedProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPreDefinedProperties class. IfcPreDefinedProperties
 type: docs
-weight: 26260
+weight: 26140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefinedproperties/
 ---
 ## IfcPreDefinedProperties class

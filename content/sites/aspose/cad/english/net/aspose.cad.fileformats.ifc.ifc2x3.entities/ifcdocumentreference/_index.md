@@ -3,7 +3,7 @@ title: Class IfcDocumentReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDocumentReference class. IfcDocumentReference
 type: docs
-weight: 13720
+weight: 13600
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentreference/
 ---
 ## IfcDocumentReference class

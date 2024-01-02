@@ -6,21 +6,7 @@ type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.glb.validation/validationresult/setmodelerror/
 ---
-## SetModelError(FormatException) {#setmodelerror_1}
-
-```csharp
-public void SetModelError(FormatException ex)
-```
-
-### See Also
-
-* class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## SetModelError(GlbData, ArgumentException) {#setmodelerror}
+## ValidationResult.SetModelError method
 
 ```csharp
 public void SetModelError(GlbData model, ArgumentException ex)

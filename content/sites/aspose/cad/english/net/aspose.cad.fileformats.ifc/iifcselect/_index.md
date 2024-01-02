@@ -3,7 +3,7 @@ title: Interface IIfcSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IIfcSelect interface. IIfcSelect is a base interface for all IFC select entities
 type: docs
-weight: 33600
+weight: 33480
 url: /net/aspose.cad.fileformats.ifc/iifcselect/
 ---
 ## IIfcSelect interface

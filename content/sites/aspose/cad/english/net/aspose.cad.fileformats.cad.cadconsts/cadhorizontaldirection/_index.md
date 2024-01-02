@@ -3,7 +3,7 @@ title: Enum CadHorizontalDirection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadHorizontalDirection enum. The Cad horizontal direcrtion
 type: docs
-weight: 1420
+weight: 1360
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadhorizontaldirection/
 ---
 ## CadHorizontalDirection enumeration

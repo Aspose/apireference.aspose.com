@@ -3,7 +3,7 @@ title: Class VertexAttributeAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexAttributeAttribute class. 
 type: docs
-weight: 10580
+weight: 10500
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexattributeattribute/
 ---
 ## VertexAttributeAttribute class

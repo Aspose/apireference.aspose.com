@@ -3,7 +3,7 @@ title: DgnImage.IsCached
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.dgn/dgnimage/iscached/
 ---
 ## DgnImage.IsCached property

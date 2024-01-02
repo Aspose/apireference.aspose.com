@@ -3,7 +3,7 @@ title: Class Line
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Line class. The line
 type: docs
-weight: 7930
+weight: 7980
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/line/
 ---
 ## Line class

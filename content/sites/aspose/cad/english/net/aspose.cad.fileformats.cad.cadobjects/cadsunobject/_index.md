@@ -3,7 +3,7 @@ title: Class CadSunObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSunObject class. The Cad sun object
 type: docs
-weight: 3210
+weight: 3250
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsunobject/
 ---
 ## CadSunObject class
@@ -45,6 +45,7 @@ public class CadSunObject : CadBaseObject
 | [ShadowType](../../aspose.cad.fileformats.cad.cadobjects/cadsunobject/shadowtype/) { get; set; } | Gets or sets the shadow type. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [Status](../../aspose.cad.fileformats.cad.cadobjects/cadsunobject/status/) { get; set; } | Gets or sets a value indicating whether status. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [Time](../../aspose.cad.fileformats.cad.cadobjects/cadsunobject/time/) { get; set; } | Gets or sets the time. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [VersionNumber](../../aspose.cad.fileformats.cad.cadobjects/cadsunobject/versionnumber/) { get; set; } | Gets or sets the version number. |

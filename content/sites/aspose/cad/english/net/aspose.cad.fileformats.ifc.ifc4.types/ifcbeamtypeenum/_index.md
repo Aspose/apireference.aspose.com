@@ -3,7 +3,7 @@ title: Enum IfcBeamTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBeamTypeEnum enum. IfcBeamTypeEnum
 type: docs
-weight: 29860
+weight: 29740
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbeamtypeenum/
 ---
 ## IfcBeamTypeEnum enumeration

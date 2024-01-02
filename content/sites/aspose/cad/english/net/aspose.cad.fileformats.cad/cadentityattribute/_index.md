@@ -3,7 +3,7 @@ title: Enum CadEntityAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadEntityAttribute enum. Entities enum
 type: docs
-weight: 1680
+weight: 1630
 url: /net/aspose.cad.fileformats.cad/cadentityattribute/
 ---
 ## CadEntityAttribute enumeration

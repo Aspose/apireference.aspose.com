@@ -3,7 +3,7 @@ title: Class CadDataTable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.DataTable.CadDataTable class. Class describing DATATABLE object
 type: docs
-weight: 3410
+weight: 3440
 url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/
 ---
 ## CadDataTable class
@@ -42,6 +42,7 @@ public class CadDataTable : CadBaseObject
 | [SoftPointerIdsHandle](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandle/) { get; set; } | Gets or sets the soft pointer ids handle. |
 | [SoftPointerIdsHandleToObjectValues](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandletoobjectvalues/) { get; set; } | Gets or sets the soft pointer ids handle to object values. |
 | [SoftPointerOwnserships](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointerownserships/) { get; set; } | Gets or sets the soft pointer ownserships. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TableName](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/tablename/) { get; set; } | Gets or sets the name of the table. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [ValidRowsNumber](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/validrowsnumber/) { get; set; } | Gets or sets the valid rows number. |

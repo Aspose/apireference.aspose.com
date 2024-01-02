@@ -3,7 +3,7 @@ title: CadEntityBase.IsAssocViewPortHandleSet
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets a value indicating whether associated view port handle is set
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/isassocviewporthandleset/
 ---
 ## CadEntityBase.IsAssocViewPortHandleSet property

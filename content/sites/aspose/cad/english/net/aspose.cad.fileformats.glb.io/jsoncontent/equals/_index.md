@@ -3,7 +3,7 @@ title: JsonContent.Equals
 second_title: Aspose.CAD for .NET API Reference
 description: JsonContent method. 
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.cad.fileformats.glb.io/jsoncontent/equals/
 ---
 ## Equals(object) {#equals_1}

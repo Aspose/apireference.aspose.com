@@ -3,7 +3,7 @@ title: Enum IfcProfileTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcProfileTypeEnum enum. IfcProfileTypeEnum
 type: docs
-weight: 20720
+weight: 20600
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcprofiletypeenum/
 ---
 ## IfcProfileTypeEnum enumeration

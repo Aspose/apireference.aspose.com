@@ -3,7 +3,7 @@ title: Class DgnSplinePoleElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSplinePoleElement class. Represents spline pole element
 type: docs
-weight: 8820
+weight: 8870
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/
 ---
 ## DgnSplinePoleElement class
@@ -25,7 +25,7 @@ public class DgnSplinePoleElement : DgnLineElement
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint/) { get; } | Gets the min point of object. |

@@ -3,7 +3,7 @@ title: Class DeviceViewport
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewport class. 
 type: docs
-weight: 5220
+weight: 5270
 url: /net/aspose.cad.fileformats.cgm.commands/deviceviewport/
 ---
 ## DeviceViewport class

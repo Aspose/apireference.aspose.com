@@ -3,7 +3,7 @@ title: Class IfcAbsorbedDoseMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAbsorbedDoseMeasure class. IfcAbsorbedDoseMeasure
 type: docs
-weight: 29600
+weight: 29480
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcabsorbeddosemeasure/
 ---
 ## IfcAbsorbedDoseMeasure class

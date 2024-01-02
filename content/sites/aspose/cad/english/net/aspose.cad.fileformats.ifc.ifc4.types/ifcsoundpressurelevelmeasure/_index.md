@@ -3,7 +3,7 @@ title: Class IfcSoundPressureLevelMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSoundPressureLevelMeasure class. IfcSoundPressureLevelMeasure
 type: docs
-weight: 32700
+weight: 32580
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsoundpressurelevelmeasure/
 ---
 ## IfcSoundPressureLevelMeasure class

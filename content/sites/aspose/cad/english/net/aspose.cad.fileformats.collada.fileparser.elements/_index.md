@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Collada.FileParser.Elements
 second_title: Aspose.CAD for .NET API Reference
 description: A parser for processing the elements of a Collada file
 type: docs
-weight: 560
+weight: 530
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/
 ---
 A parser for processing the elements of a Collada file.

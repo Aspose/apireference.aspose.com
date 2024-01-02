@@ -3,7 +3,7 @@ title: Enum JpegCompressionColorMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Jpeg.JpegCompressionColorMode enum. Сolor mode for jpeg images
 type: docs
-weight: 33840
+weight: 33730
 url: /net/aspose.cad.fileformats.jpeg/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration

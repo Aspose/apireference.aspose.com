@@ -3,7 +3,7 @@ title: Class IfcFanType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFanType class. IfcFanType
 type: docs
-weight: 24450
+weight: 24330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfantype/
 ---
 ## IfcFanType class

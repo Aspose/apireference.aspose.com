@@ -3,7 +3,7 @@ title: Enum IfcCostItemTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCostItemTypeEnum enum. IfcCostItemTypeEnum
 type: docs
-weight: 30290
+weight: 30170
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccostitemtypeenum/
 ---
 ## IfcCostItemTypeEnum enumeration

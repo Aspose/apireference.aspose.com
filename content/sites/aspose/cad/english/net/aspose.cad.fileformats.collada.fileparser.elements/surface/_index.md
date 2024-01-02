@@ -3,7 +3,7 @@ title: Class Surface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Surface class. The surface. A surface defines the attributes of a surface element. With rotate and translate the surface can be positioned to its right location
 type: docs
-weight: 8280
+weight: 8330
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/surface/
 ---
 ## Surface class

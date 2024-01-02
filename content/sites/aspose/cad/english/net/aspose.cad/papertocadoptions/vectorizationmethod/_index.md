@@ -3,7 +3,7 @@ title: PaperToCadOptions.VectorizationMethod
 second_title: Aspose.CAD for .NET API Reference
 description: PaperToCadOptions property. Pixel matching rule for validation
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.cad/papertocadoptions/vectorizationmethod/
 ---
 ## PaperToCadOptions.VectorizationMethod property

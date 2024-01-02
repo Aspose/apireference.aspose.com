@@ -3,7 +3,7 @@ title: Class IfcTaskTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTaskTime class. IfcTaskTime
 type: docs
-weight: 28840
+weight: 28720
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/
 ---
 ## IfcTaskTime class

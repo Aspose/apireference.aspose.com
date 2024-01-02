@@ -3,7 +3,7 @@ title: Class TiffLongType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.TiffTagTypes.TiffLongType class. The tiff long type
 type: docs
-weight: 35550
+weight: 35440
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tifflongtype/
 ---
 ## TiffLongType class

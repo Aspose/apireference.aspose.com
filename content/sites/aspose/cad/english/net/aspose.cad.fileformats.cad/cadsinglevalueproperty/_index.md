@@ -3,7 +3,7 @@ title: Class CadSingleValueProperty
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadSingleValueProperty class. Base class attribute for cad single value properties
 type: docs
-weight: 4140
+weight: 4170
 url: /net/aspose.cad.fileformats.cad/cadsinglevalueproperty/
 ---
 ## CadSingleValueProperty class

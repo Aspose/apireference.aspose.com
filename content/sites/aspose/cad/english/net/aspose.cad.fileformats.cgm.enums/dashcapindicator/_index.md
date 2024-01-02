@@ -3,7 +3,7 @@ title: Enum DashCapIndicator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.DashCapIndicator enum. 
 type: docs
-weight: 7020
+weight: 7070
 url: /net/aspose.cad.fileformats.cgm.enums/dashcapindicator/
 ---
 ## DashCapIndicator enumeration

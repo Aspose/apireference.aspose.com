@@ -3,7 +3,7 @@ title: Enum HatchStyleDefinition.HatchStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.HatchStyleDefinitionHatchStyle enum. 
 type: docs
-weight: 5710
+weight: 5760
 url: /net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition.hatchstyle/
 ---
 ## HatchStyleDefinition.HatchStyle enumeration

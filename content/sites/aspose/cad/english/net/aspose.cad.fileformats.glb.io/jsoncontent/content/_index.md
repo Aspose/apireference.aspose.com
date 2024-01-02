@@ -3,7 +3,7 @@ title: JsonContent.Content
 second_title: Aspose.CAD for .NET API Reference
 description: JsonContent property. Gets the dynamic json structure
 type: docs
-weight: 40
+weight: 20
 url: /net/aspose.cad.fileformats.glb.io/jsoncontent/content/
 ---
 ## JsonContent.Content property

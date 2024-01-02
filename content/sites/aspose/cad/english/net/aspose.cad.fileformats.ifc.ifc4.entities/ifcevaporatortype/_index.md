@@ -3,7 +3,7 @@ title: Class IfcEvaporatorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcEvaporatorType class. IfcEvaporatorType
 type: docs
-weight: 24210
+weight: 24090
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporatortype/
 ---
 ## IfcEvaporatorType class

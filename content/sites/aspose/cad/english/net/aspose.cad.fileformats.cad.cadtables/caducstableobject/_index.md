@@ -3,7 +3,7 @@ title: Class CadUcsTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadUcsTableObject class. ucsPorts table class
 type: docs
-weight: 4250
+weight: 4280
 url: /net/aspose.cad.fileformats.cad.cadtables/caducstableobject/
 ---
 ## CadUcsTableObject class
@@ -45,6 +45,7 @@ public class CadUcsTableObject : CadOwnedObjectBase
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [StandardFlagValues](../../aspose.cad.fileformats.cad.cadtables/caducstableobject/standardflagvalues/) { get; set; } | Gets or sets the standard flag values. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods

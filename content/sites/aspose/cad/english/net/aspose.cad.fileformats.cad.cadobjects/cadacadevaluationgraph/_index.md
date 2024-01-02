@@ -3,7 +3,7 @@ title: Class CadAcadEvaluationGraph
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcadEvaluationGraph class. Class describing ACAD_EVALUATION_GRAPH object
 type: docs
-weight: 2170
+weight: 2120
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/
 ---
 ## CadAcadEvaluationGraph class
@@ -37,6 +37,7 @@ public class CadAcadEvaluationGraph : CadBaseObject
 | [Objects](../../aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/objects/) { get; set; } | Gets or sets the objects. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

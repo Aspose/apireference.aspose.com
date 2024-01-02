@@ -3,7 +3,7 @@ title: Enum IfcStructuralSurfaceMemberTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcStructuralSurfaceMemberTypeEnum enum. IfcStructuralSurfaceMemberTypeEnum
 type: docs
-weight: 32890
+weight: 32770
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralsurfacemembertypeenum/
 ---
 ## IfcStructuralSurfaceMemberTypeEnum enumeration

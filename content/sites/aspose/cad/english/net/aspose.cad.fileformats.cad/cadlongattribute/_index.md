@@ -3,7 +3,7 @@ title: Class CadLongAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadLongAttribute class. class attribute for cad long properties
 type: docs
-weight: 1740
+weight: 1690
 url: /net/aspose.cad.fileformats.cad/cadlongattribute/
 ---
 ## CadLongAttribute class

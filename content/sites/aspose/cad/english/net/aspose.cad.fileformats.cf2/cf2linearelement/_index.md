@@ -3,7 +3,7 @@ title: Class CF2LinearElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2LinearElement class. The basic of the linear elements
 type: docs
-weight: 970
+weight: 910
 url: /net/aspose.cad.fileformats.cf2/cf2linearelement/
 ---
 ## CF2LinearElement class

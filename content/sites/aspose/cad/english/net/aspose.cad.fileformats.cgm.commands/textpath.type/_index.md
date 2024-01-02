@@ -3,7 +3,7 @@ title: Enum TextPath.Type
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextPathType enum. 
 type: docs
-weight: 6640
+weight: 6690
 url: /net/aspose.cad.fileformats.cgm.commands/textpath.type/
 ---
 ## TextPath.Type enumeration

@@ -3,7 +3,7 @@ title: Class IfcAirTerminal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAirTerminal class. IfcAirTerminal
 type: docs
-weight: 21930
+weight: 21810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcairterminal/
 ---
 ## IfcAirTerminal class

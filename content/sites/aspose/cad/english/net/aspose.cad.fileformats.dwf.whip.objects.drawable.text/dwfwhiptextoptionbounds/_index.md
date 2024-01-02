@@ -3,7 +3,7 @@ title: Class DwfWhipTextOptionBounds
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text.DwfWhipTextOptionBounds class. Represents Text option Bounds object
 type: docs
-weight: 9680
+weight: 9720
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionbounds/
 ---
 ## DwfWhipTextOptionBounds class

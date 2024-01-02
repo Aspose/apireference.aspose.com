@@ -3,7 +3,7 @@ title: Class CadSunStudy
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy.CadSunStudy class. Class describing SUNSTUDY object
 type: docs
-weight: 3840
+weight: 3860
 url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/
 ---
 ## CadSunStudy class
@@ -53,6 +53,7 @@ public class CadSunStudy : CadBaseObject
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [Spacing](../../aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/spacing/) { get; set; } | Gets or sets the spacing. |
 | [StartTime](../../aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/starttime/) { get; set; } | Gets or sets the start time. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [SunSetupName](../../aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/sunsetupname/) { get; set; } | Gets or sets the name of the sun setup. |
 | [SunStudyDates](../../aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/sunstudydates/) { get; set; } | Gets or sets the sun study dates. |
 | [TextStyleId](../../aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/textstyleid/) { get; set; } | Gets or sets the text style identifier. |

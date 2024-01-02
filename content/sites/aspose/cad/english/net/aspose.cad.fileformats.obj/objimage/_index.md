@@ -3,7 +3,7 @@ title: Class ObjImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Obj.ObjImage class. Represents an image in OBJ format. Contains information about bounds of the drawing materials vertices and shapes. Each shape contains information about set of faces with corresponding material vertex texture and normal indices
 type: docs
-weight: 33930
+weight: 33820
 url: /net/aspose.cad.fileformats.obj/objimage/
 ---
 ## ObjImage class
@@ -38,6 +38,7 @@ public class ObjImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.obj/objimage/width/) { get; } | Gets the width of the image. Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices. Minimal allowed width is 1. |
 
 ## Methods

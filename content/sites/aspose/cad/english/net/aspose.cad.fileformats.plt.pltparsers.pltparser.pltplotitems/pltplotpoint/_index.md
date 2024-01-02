@@ -3,7 +3,7 @@ title: Class PltPlotPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotPoint class. The PLT plot Point object
 type: docs
-weight: 34120
+weight: 34010
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotpoint/
 ---
 ## PltPlotPoint class

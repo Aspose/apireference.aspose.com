@@ -3,7 +3,7 @@ title: Class StepBoundedCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepBoundedCurve class. BoundedCurve class for STP file
 type: docs
-weight: 34430
+weight: 34320
 url: /net/aspose.cad.fileformats.stp.items/stepboundedcurve/
 ---
 ## StepBoundedCurve class

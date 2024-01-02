@@ -6,10 +6,10 @@ type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.glb.memory/matrix3x3array/matrix3x3array/
 ---
-## Matrix3x3Array(Memory&lt;byte&gt;, int, EncodingType, bool) {#constructor}
+## Matrix3x3Array(ArraySegment&lt;byte&gt;, int, EncodingType, bool) {#constructor}
 
 ```csharp
-public Matrix3x3Array(Memory<byte> source, int byteStride = 0, 
+public Matrix3x3Array(ArraySegment<byte> source, int byteStride = 0, 
     EncodingType encoding = EncodingType.FLOAT, bool normalized = false)
 ```
 
@@ -22,10 +22,10 @@ public Matrix3x3Array(Memory<byte> source, int byteStride = 0,
 
 ---
 
-## Matrix3x3Array(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
+## Matrix3x3Array(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) {#constructor_1}
 
 ```csharp
-public Matrix3x3Array(Memory<byte> source, int byteOffset, int itemsCount, int byteStride, 
+public Matrix3x3Array(ArraySegment<byte> source, int byteOffset, int itemsCount, int byteStride, 
     EncodingType encoding, bool normalized)
 ```
 

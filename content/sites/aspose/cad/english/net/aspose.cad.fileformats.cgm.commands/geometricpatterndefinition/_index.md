@@ -3,7 +3,7 @@ title: Class GeometricPatternDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.GeometricPatternDefinition class. 
 type: docs
-weight: 5660
+weight: 5710
 url: /net/aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/
 ---
 ## GeometricPatternDefinition class

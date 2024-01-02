@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains vertices entities
 type: docs
-weight: 370
+weight: 320
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/
 ---
 The namespace contains vertices entities.

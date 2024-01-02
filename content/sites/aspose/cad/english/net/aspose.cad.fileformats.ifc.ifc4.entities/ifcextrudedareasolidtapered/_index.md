@@ -3,7 +3,7 @@ title: Class IfcExtrudedAreaSolidTapered
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExtrudedAreaSolidTapered class. IfcExtrudedAreaSolidTapered
 type: docs
-weight: 24350
+weight: 24230
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/
 ---
 ## IfcExtrudedAreaSolidTapered class

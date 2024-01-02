@@ -3,7 +3,7 @@ title: Class IfcStyledItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStyledItem class. Partial IIfc entity class
 type: docs
-weight: 28490
+weight: 28370
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/
 ---
 ## IfcStyledItem class

@@ -3,7 +3,7 @@ title: Class StepSphericalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepSphericalSurface class. SphericalSurface class for STP file
 type: docs
-weight: 34910
+weight: 34800
 url: /net/aspose.cad.fileformats.stp.items/stepsphericalsurface/
 ---
 ## StepSphericalSurface class

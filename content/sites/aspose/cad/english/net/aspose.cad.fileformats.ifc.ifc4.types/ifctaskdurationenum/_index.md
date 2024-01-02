@@ -3,7 +3,7 @@ title: Enum IfcTaskDurationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTaskDurationEnum enum. IfcTaskDurationEnum
 type: docs
-weight: 32990
+weight: 32870
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctaskdurationenum/
 ---
 ## IfcTaskDurationEnum enumeration

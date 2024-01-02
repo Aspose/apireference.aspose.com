@@ -3,7 +3,7 @@ title: Enum AppendText.FinalType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.AppendTextFinalType enum. 
 type: docs
-weight: 4610
+weight: 4660
 url: /net/aspose.cad.fileformats.cgm.commands/appendtext.finaltype/
 ---
 ## AppendText.FinalType enumeration

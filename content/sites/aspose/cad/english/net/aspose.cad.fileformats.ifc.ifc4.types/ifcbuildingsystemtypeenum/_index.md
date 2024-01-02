@@ -3,7 +3,7 @@ title: Enum IfcBuildingSystemTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBuildingSystemTypeEnum enum. IfcBuildingSystemTypeEnum
 type: docs
-weight: 29970
+weight: 29850
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbuildingsystemtypeenum/
 ---
 ## IfcBuildingSystemTypeEnum enumeration

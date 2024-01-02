@@ -3,7 +3,7 @@ title: Struct VertexGeometryDelta
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexGeometryDelta struct. Defines a Vertex attribute with a Position a Normal and a Tangent
 type: docs
-weight: 10660
+weight: 10580
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/
 ---
 ## VertexGeometryDelta structure

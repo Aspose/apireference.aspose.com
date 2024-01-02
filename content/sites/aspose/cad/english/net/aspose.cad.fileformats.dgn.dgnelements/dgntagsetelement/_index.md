@@ -3,7 +3,7 @@ title: Class DgnTagSetElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTagSetElement class. Represents Tag Set Definition element
 type: docs
-weight: 8860
+weight: 8910
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/
 ---
 ## DgnTagSetElement class
@@ -19,7 +19,7 @@ public class DgnTagSetElement : DgnElementBase
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/id/) { get; } | Gets the identifier. (2 properties) |
+| override [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/id/) { get; } | Gets the identifier. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | [Tags](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/tags/) { get; } | Gets tags of the tag definition |
 

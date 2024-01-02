@@ -3,7 +3,7 @@ title: ICompositeDgnElement.AddChild
 second_title: Aspose.CAD for .NET API Reference
 description: ICompositeDgnElement method. Adds element as a child
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/addchild/
 ---
 ## ICompositeDgnElement.AddChild method

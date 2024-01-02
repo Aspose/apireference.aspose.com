@@ -3,7 +3,7 @@ title: Class DgnExtendedViewInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnExtendedViewInfo class. Represents view info
 type: docs
-weight: 8920
+weight: 8970
 url: /net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/
 ---
 ## DgnExtendedViewInfo class

@@ -3,7 +3,7 @@ title: Class IfcArbitraryProfileDefWithVoids
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcArbitraryProfileDefWithVoids class. IfcArbitraryProfileDefWithVoids
 type: docs
-weight: 22090
+weight: 21970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcarbitraryprofiledefwithvoids/
 ---
 ## IfcArbitraryProfileDefWithVoids class

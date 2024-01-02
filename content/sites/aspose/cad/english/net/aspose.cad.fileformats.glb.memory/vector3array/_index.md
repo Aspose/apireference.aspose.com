@@ -1,14 +1,14 @@
 ---
 title: Struct Vector3Array
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.Vector3Array struct. Wraps an encoded Memory and exposes it as an IList
+description: Aspose.CAD.FileFormats.GLB.Memory.Vector3Array struct. Wraps an encoded ArraySegment and exposes it as an IList
 type: docs
-weight: 11200
+weight: 11090
 url: /net/aspose.cad.fileformats.glb.memory/vector3array/
 ---
 ## Vector3Array structure
 
-Wraps an encoded Memory and exposes it as an IList.
+Wraps an encoded ArraySegment and exposes it as an IList.
 
 ```csharp
 public struct Vector3Array : IList<Vector3>, IReadOnlyList<Vector3>
@@ -18,8 +18,8 @@ public struct Vector3Array : IList<Vector3>, IReadOnlyList<Vector3>
 
 | Name | Description |
 | --- | --- |
-| [Vector3Array](vector3array/#constructor)(Memory&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the `Vector3Array` struct. |
-| [Vector3Array](vector3array/#constructor_1)(Memory&lt;byte&gt;, int, int, int, EncodingType, bool) | Initializes a new instance of the `Vector3Array` struct. |
+| [Vector3Array](vector3array/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the `Vector3Array` struct. |
+| [Vector3Array](vector3array/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) | Initializes a new instance of the `Vector3Array` struct. |
 
 ## Properties
 

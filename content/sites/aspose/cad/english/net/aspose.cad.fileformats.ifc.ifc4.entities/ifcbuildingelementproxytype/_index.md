@@ -3,7 +3,7 @@ title: Class IfcBuildingElementProxyType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBuildingElementProxyType class. IfcBuildingElementProxyType
 type: docs
-weight: 22450
+weight: 22330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingelementproxytype/
 ---
 ## IfcBuildingElementProxyType class

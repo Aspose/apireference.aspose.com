@@ -3,7 +3,7 @@ title: Delegate IfcSelectTInTOut
 second_title: Aspose.CAD for .NET API Reference
 description: IfcSelect
 type: docs
-weight: 33690
+weight: 33570
 url: /net/aspose.cad.fileformats.ifc/ifcselect-2/
 ---
 ## IfcSelect&lt;TIn,TOut&gt; delegate

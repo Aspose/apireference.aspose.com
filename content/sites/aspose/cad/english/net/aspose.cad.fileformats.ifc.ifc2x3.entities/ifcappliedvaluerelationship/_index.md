@@ -3,7 +3,7 @@ title: Class IfcAppliedValueRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAppliedValueRelationship class. IfcAppliedValueRelationship
 type: docs
-weight: 12260
+weight: 12140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/
 ---
 ## IfcAppliedValueRelationship class

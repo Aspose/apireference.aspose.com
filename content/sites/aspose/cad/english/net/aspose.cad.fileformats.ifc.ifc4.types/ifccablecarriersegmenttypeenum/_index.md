@@ -3,7 +3,7 @@ title: Enum IfcCableCarrierSegmentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCableCarrierSegmentTypeEnum enum. IfcCableCarrierSegmentTypeEnum
 type: docs
-weight: 30000
+weight: 29880
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccablecarriersegmenttypeenum/
 ---
 ## IfcCableCarrierSegmentTypeEnum enumeration

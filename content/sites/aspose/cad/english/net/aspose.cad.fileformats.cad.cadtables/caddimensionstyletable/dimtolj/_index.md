@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimtolj
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimtolj  283
+description: CadDimensionStyleTable property. Gets or sets the vertical justification for tolerance values relative to the text. Possible values are 0 bottom 1 middle 2 top
 type: docs
 weight: 700
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtolj/
 ---
 ## CadDimensionStyleTable.Dimtolj property
 
-Gets or sets The dimtolj - 283
+Gets or sets the vertical justification for tolerance values relative to the text. Possible values are: 0 (bottom), 1 (middle), 2 (top).
 
 ```csharp
 public short Dimtolj { get; set; }

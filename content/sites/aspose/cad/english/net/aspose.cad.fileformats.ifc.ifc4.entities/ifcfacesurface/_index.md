@@ -3,7 +3,7 @@ title: Class IfcFaceSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFaceSurface class. IfcFaceSurface
 type: docs
-weight: 24400
+weight: 24280
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacesurface/
 ---
 ## IfcFaceSurface class

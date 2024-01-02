@@ -3,7 +3,7 @@ title: Class IfcCsgSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCsgSelect class. IfcCsgSelect
 type: docs
-weight: 30340
+weight: 30220
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccsgselect/
 ---
 ## IfcCsgSelect class

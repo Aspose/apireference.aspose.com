@@ -3,7 +3,7 @@ title: Class Geometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Geometry class. The geometry. Geometry describes the visual shape and appearance of an object in the scene. The geometry element categorizes the declaration of geometric information.Geometry is a branch of mathematics that deals with the measurement properties and relationships of points lines angles surfaces and solids
 type: docs
-weight: 7700
+weight: 7750
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/geometry/
 ---
 ## Geometry class

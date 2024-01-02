@@ -3,7 +3,7 @@ title: Class InstanceGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstanceGeometry class. The instance geometry. The instance_geometry element declares the instantiation of a COLLADA geometry resource
 type: docs
-weight: 7770
+weight: 7820
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/
 ---
 ## InstanceGeometry class

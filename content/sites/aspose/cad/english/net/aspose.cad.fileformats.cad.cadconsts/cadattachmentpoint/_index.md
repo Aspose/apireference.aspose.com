@@ -3,7 +3,7 @@ title: Enum CadAttachmentPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadAttachmentPoint enum. The Cad attachment point
 type: docs
-weight: 1260
+weight: 1200
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadattachmentpoint/
 ---
 ## CadAttachmentPoint enumeration

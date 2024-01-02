@@ -3,7 +3,7 @@ title: Class CadTableNames
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadTableNames class. The Cad table names
 type: docs
-weight: 1630
+weight: 1580
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/
 ---
 ## CadTableNames class

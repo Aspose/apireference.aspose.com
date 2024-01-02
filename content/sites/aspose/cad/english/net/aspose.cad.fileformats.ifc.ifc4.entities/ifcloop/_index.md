@@ -3,7 +3,7 @@ title: Class IfcLoop
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLoop class. Partial IIfc entity class
 type: docs
-weight: 25350
+weight: 25230
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcloop/
 ---
 ## IfcLoop class

@@ -3,7 +3,7 @@ title: Interface IVertexGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.IVertexGeometry interface. Represents the interface that must be implemented by a geometry vertex fragment
 type: docs
-weight: 10550
+weight: 10470
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/
 ---
 ## IVertexGeometry interface

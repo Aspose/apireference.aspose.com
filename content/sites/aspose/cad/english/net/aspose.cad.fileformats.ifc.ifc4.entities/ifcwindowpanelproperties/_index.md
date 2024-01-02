@@ -3,7 +3,7 @@ title: Class IfcWindowPanelProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWindowPanelProperties class. IfcWindowPanelProperties
 type: docs
-weight: 29490
+weight: 29370
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/
 ---
 ## IfcWindowPanelProperties class

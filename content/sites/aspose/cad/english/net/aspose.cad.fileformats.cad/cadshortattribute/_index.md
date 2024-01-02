@@ -3,7 +3,7 @@ title: Class CadShortAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadShortAttribute class. class attribute for cad short properties
 type: docs
-weight: 4130
+weight: 4160
 url: /net/aspose.cad.fileformats.cad/cadshortattribute/
 ---
 ## CadShortAttribute class

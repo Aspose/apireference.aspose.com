@@ -3,7 +3,7 @@ title: Struct ThreeDSTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSTexture struct. 
 type: docs
-weight: 35210
+weight: 35100
 url: /net/aspose.cad.fileformats.threeds.elements/threedstexture/
 ---
 ## ThreeDSTexture structure

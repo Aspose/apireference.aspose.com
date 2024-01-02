@@ -3,7 +3,7 @@ title: Class DgnSymbologyLevelElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSymbologyLevelElement class. Represents Symbology element
 type: docs
-weight: 8850
+weight: 8900
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsymbologylevelelement/
 ---
 ## DgnSymbologyLevelElement class
@@ -19,7 +19,7 @@ public class DgnSymbologyLevelElement : DgnElementBase
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 
 ### See Also

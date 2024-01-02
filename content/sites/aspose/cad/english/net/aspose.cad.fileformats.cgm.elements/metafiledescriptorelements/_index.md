@@ -3,7 +3,7 @@ title: Class MetaFileDescriptorElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.MetaFileDescriptorElements class. 
 type: docs
-weight: 6930
+weight: 6980
 url: /net/aspose.cad.fileformats.cgm.elements/metafiledescriptorelements/
 ---
 ## MetaFileDescriptorElements class

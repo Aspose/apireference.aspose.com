@@ -3,7 +3,7 @@ title: Class CadSectionManager
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Section.CadSectionManager class. Class describing SectionManager object
 type: docs
-weight: 3810
+weight: 3830
 url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/
 ---
 ## CadSectionManager class
@@ -38,6 +38,7 @@ public class CadSectionManager : CadBaseObject
 | [SectionsNumber](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/sectionsnumber/) { get; set; } | Gets or sets the sections number. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SoftPointerIds](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/softpointerids/) { get; set; } | Gets or sets the soft pointer ids. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

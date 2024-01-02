@@ -3,7 +3,7 @@ title: Image.SaveAsync
 second_title: Aspose.CAD for .NET API Reference
 description: Image method. Saves the objects data to the specified file location in the specified file format according to save options
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.cad/image/saveasync/
 ---
 ## SaveAsync(string, ImageOptionsBase) {#saveasync_1}
@@ -39,7 +39,7 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
 
 ### See Also
 
-* class [ImageOptionsBase](../../imageoptionsbase/)
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
 * class [Image](../)
 * namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
@@ -86,7 +86,7 @@ using (var ms = new MemoryStream())
 
 ### See Also
 
-* class [ImageOptionsBase](../../imageoptionsbase/)
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
 * class [Image](../)
 * namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)

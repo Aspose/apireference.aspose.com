@@ -3,7 +3,7 @@ title: Enum TimeProvisionType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.TimeProvision.TimeProvisionType enum. Modes of artificial time operation
 type: docs
-weight: 37150
+weight: 37080
 url: /net/aspose.cad.timeprovision/timeprovisiontype/
 ---
 ## TimeProvisionType enumeration

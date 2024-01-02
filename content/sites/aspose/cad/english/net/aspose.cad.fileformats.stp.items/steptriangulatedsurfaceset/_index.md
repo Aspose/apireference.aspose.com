@@ -3,7 +3,7 @@ title: Class StepTriangulatedSurfaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTriangulatedSurfaceSet class. TriangulatedSurfaceSet class for STP file
 type: docs
-weight: 34990
+weight: 34880
 url: /net/aspose.cad.fileformats.stp.items/steptriangulatedsurfaceset/
 ---
 ## StepTriangulatedSurfaceSet class

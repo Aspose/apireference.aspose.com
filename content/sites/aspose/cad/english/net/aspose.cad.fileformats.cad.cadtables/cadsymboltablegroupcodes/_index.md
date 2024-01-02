@@ -3,7 +3,7 @@ title: Class CadSymbolTableGroupCodes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadSymbolTableGroupCodes class. Group codes that apply to all symbol tables
 type: docs
-weight: 4240
+weight: 4270
 url: /net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/
 ---
 ## CadSymbolTableGroupCodes class
@@ -36,6 +36,7 @@ public class CadSymbolTableGroupCodes : CadOwnedObjectBase, ICloneable
 | [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [SubClass](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/subclass/) { get; set; } | Gets or sets the sub class parameter. |
 | [SymbolTableParameters](../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/symboltableparameters/) { get; set; } | Gets or sets the symbol table parameters. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |

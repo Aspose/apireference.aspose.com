@@ -3,7 +3,7 @@ title: Class FontList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.FontList class. Class1 Element13
 type: docs
-weight: 5590
+weight: 5640
 url: /net/aspose.cad.fileformats.cgm.commands/fontlist/
 ---
 ## FontList class

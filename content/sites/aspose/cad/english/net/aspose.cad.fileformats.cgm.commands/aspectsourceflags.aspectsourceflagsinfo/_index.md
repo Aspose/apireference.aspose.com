@@ -3,7 +3,7 @@ title: Class AspectSourceFlags.AspectSourceFlagsInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.AspectSourceFlagsAspectSourceFlagsInfo class. 
 type: docs
-weight: 4700
+weight: 4750
 url: /net/aspose.cad.fileformats.cgm.commands/aspectsourceflags.aspectsourceflagsinfo/
 ---
 ## AspectSourceFlags.AspectSourceFlagsInfo class

@@ -3,7 +3,7 @@ title: Class DgnTextElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTextElement class. Represents text element
 type: docs
-weight: 8880
+weight: 8930
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/
 ---
 ## DgnTextElement class
@@ -21,7 +21,7 @@ public class DgnTextElement : DgnDrawingElementBaseQuaternion
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [FontId](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/fontid/) { get; } | Gets or sets font id |
 | [HeightMultiplier](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/heightmultiplier/) { get; } | Gets or sets char height in master units |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Justification](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/justification/) { get; } | Gets or sets justification |
 | [LengthMultiplier](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/lengthmultiplier/) { get; } | Gets or sets char width in master units |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/maxpoint/) { get; } | Gets the max point of object. |

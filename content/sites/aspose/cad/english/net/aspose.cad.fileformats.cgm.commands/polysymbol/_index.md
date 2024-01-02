@@ -3,7 +3,7 @@ title: Class PolySymbol
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PolySymbol class. Class4 ElementId27
 type: docs
-weight: 6260
+weight: 6310
 url: /net/aspose.cad.fileformats.cgm.commands/polysymbol/
 ---
 ## PolySymbol class

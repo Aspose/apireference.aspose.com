@@ -3,7 +3,7 @@ title: Struct EvaluatedTriangleTvGTvMTvS
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ToolKit.EvaluatedTriangle3TvGTvMTvS struct. 
 type: docs
-weight: 11720
+weight: 11610
 url: /net/aspose.cad.fileformats.glb.toolkit/evaluatedtriangle-3/
 ---
 ## EvaluatedTriangle&lt;TvG,TvM,TvS&gt; structure
@@ -25,7 +25,6 @@ public struct EvaluatedTriangle<TvG, TvM, TvS>
 
 | Name | Description |
 | --- | --- |
-| static [GetTrianglesFromMesh](../../aspose.cad.fileformats.glb.toolkit/evaluatedtriangle-3/gettrianglesfrommesh/)(Mesh, IGeometryTransform) |  |
 | static [TransformTextureCoordsByMaterial](../../aspose.cad.fileformats.glb.toolkit/evaluatedtriangle-3/transformtexturecoordsbymaterial/)(IEnumerable&lt;EvaluatedTriangle&gt;) |  |
 | [implicit operator](../../aspose.cad.fileformats.glb.toolkit/evaluatedtriangle-3/op_implicit/) |  |
 

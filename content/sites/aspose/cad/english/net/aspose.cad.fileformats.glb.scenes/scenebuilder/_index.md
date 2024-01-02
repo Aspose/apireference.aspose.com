@@ -3,7 +3,7 @@ title: Class SceneBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.SceneBuilder class. Represents the root scene for models cameras and lights
 type: docs
-weight: 11580
+weight: 11470
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/
 ---
 ## SceneBuilder class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/
 Represents the root scene for models, cameras and lights.
 
 ```csharp
-public class SceneBuilder : BaseBuilder, IConvertibleToGltf2
+public class SceneBuilder : BaseBuilder
 ```
 
 ## Constructors
@@ -61,7 +61,6 @@ public class SceneBuilder : BaseBuilder, IConvertibleToGltf2
 ### See Also
 
 * class [BaseBuilder](../../aspose.cad.fileformats.glb.geometry/basebuilder/)
-* interface [IConvertibleToGltf2](../../aspose.cad.fileformats.glb/iconvertibletogltf2/)
 * namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../)
 

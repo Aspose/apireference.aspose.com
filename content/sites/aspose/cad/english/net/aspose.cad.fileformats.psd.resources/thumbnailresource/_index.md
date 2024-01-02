@@ -3,7 +3,7 @@ title: Class ThumbnailResource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.Resources.ThumbnailResource class. The thumbnail resource block
 type: docs
-weight: 34250
+weight: 34140
 url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/
 ---
 ## ThumbnailResource class

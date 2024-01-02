@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimblk2
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets the dimblk2
+description: CadDimensionStyleTable property. Gets or sets the arrowhead for the second dimension line if Dimsah is 1
 type: docs
 weight: 220
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimblk2/
 ---
 ## CadDimensionStyleTable.Dimblk2 property
 
-Gets or sets the dimblk2.
+Gets or sets the arrowhead for the second dimension line if Dimsah is 1.
 
 ```csharp
 public string Dimblk2 { get; set; }
@@ -16,7 +16,7 @@ public string Dimblk2 { get; set; }
 
 ### Property Value
 
-The dimblk2.
+The arrowhead for the second dimension line if Dimsah is 1.
 
 ### See Also
 

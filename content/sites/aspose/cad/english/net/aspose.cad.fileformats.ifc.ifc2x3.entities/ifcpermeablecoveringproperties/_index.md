@@ -3,7 +3,7 @@ title: Class IfcPermeableCoveringProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPermeableCoveringProperties class. IfcPermeableCoveringProperties
 type: docs
-weight: 15500
+weight: 15380
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpermeablecoveringproperties/
 ---
 ## IfcPermeableCoveringProperties class

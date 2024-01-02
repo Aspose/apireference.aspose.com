@@ -3,7 +3,7 @@ title: Enum IfcBenchmarkEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcBenchmarkEnum enum. IfcBenchmarkEnum
 type: docs
-weight: 18800
+weight: 18680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbenchmarkenum/
 ---
 ## IfcBenchmarkEnum enumeration

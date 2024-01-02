@@ -3,7 +3,7 @@ title: Struct MemoryImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.MemoryImage struct. Represents an image file stored as an inmemory byte array
 type: docs
-weight: 11150
+weight: 11040
 url: /net/aspose.cad.fileformats.glb.memory/memoryimage/
 ---
 ## MemoryImage structure

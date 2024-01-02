@@ -3,7 +3,7 @@ title: Class UnknownResource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.Resources.UnknownResource class. The unknown resource. When a resource block is not recognized then this resource block is created
 type: docs
-weight: 34270
+weight: 34160
 url: /net/aspose.cad.fileformats.psd.resources/unknownresource/
 ---
 ## UnknownResource class

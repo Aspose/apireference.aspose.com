@@ -3,7 +3,7 @@ title: Class IfcEvaporativeCoolerType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEvaporativeCoolerType class. IfcEvaporativeCoolerType
 type: docs
-weight: 14140
+weight: 14020
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcevaporativecoolertype/
 ---
 ## IfcEvaporativeCoolerType class

@@ -3,7 +3,7 @@ title: Class IfcReinforcementBarProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcReinforcementBarProperties class. IfcReinforcementBarProperties
 type: docs
-weight: 16350
+weight: 16230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/
 ---
 ## IfcReinforcementBarProperties class

@@ -3,7 +3,7 @@ title: Enum CadPlotPaperUnits
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotPaperUnits enum. Plot paper units. CadPlotSettings
 type: docs
-weight: 1540
+weight: 1490
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotpaperunits/
 ---
 ## CadPlotPaperUnits enumeration

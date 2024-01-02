@@ -3,7 +3,7 @@ title: Class CadDimensionBaseR12
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadDimensionBaseR12 class. Represents dimension in old R12 format which stores all points in one place
 type: docs
-weight: 2520
+weight: 2540
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/
 ---
 ## CadDimensionBaseR12 class
@@ -26,6 +26,7 @@ public class CadDimensionBaseR12 : CadDimensionBase
 | --- | --- |
 | [ActualMeasurement](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/actualmeasurement/) { get; set; } | Gets or sets the actual measurement. |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
 | [ArrowSize](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/arrowsize/) { get; set; } | Gets or sets the size of the arrow. Evaluated by the size of solid (insert) entity that represents the arrow. The overall dimension scale factor is included. Setting of new size updates proper fields in the XData for dimension and changes the related solid (insert) objects. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
 | [AttachmentType](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/attachmenttype/) { get; set; } | Gets or sets the attachment type. |
@@ -61,6 +62,7 @@ public class CadDimensionBaseR12 : CadDimensionBase
 | [IsYordinate](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/isyordinate/) { get; } | Gets a value indicating whether this instance is yordinate. |
 | [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
 | [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
@@ -77,7 +79,7 @@ public class CadDimensionBaseR12 : CadDimensionBase
 | [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [StyleName](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/stylename/) { get; set; } | Gets or sets the style name. |
 | [Text](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/text/) { get; set; } | Gets or sets the text. |
 | [TextLineSpacing](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/textlinespacing/) { get; set; } | Gets or sets the text line spacing. |

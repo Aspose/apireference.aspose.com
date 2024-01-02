@@ -3,7 +3,7 @@ title: Class CadViewTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadViewTableObject class. viewPorts table class
 type: docs
-weight: 4260
+weight: 4290
 url: /net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/
 ---
 ## CadViewTableObject class
@@ -50,6 +50,7 @@ public class CadViewTableObject : CadOwnedObjectBase
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [RenderMode](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/rendermode/) { get; set; } | Gets or sets the render mode. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [SunHardOwnership](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/sunhardownership/) { get; set; } | Gets or sets the sun hard ownership. |
 | [TargetPoint](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/targetpoint/) { get; set; } | Gets or sets the target point. |
 | [TwistAngle](../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/twistangle/) { get; set; } | Gets or sets the twist angle. |

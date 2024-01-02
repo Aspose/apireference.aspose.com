@@ -3,7 +3,7 @@ title: Class IfcGeometricRepresentationSubContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGeometricRepresentationSubContext class. IfcGeometricRepresentationSubContext
 type: docs
-weight: 24880
+weight: 24760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationsubcontext/
 ---
 ## IfcGeometricRepresentationSubContext class

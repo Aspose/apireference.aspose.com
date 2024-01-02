@@ -3,7 +3,7 @@ title: Class CadAcDbObjectContextData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses.CadAcDbObjectContextData class. Class describing CadAcDbObjectContextData object
 type: docs
-weight: 3720
+weight: 3740
 url: /net/aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses/cadacdbobjectcontextdata/
 ---
 ## CadAcDbObjectContextData class
@@ -35,6 +35,7 @@ public class CadAcDbObjectContextData : CadBaseObject
 | [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

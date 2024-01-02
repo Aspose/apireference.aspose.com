@@ -3,7 +3,7 @@ title: GlbImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: GlbImage method. 
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad.fileformats.glb/glbimage/cachedata/
 ---
 ## GlbImage.CacheData method

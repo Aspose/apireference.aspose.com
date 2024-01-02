@@ -3,7 +3,7 @@ title: Enum KnownChannel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.KnownChannel enum. 
 type: docs
-weight: 11000
+weight: 10890
 url: /net/aspose.cad.fileformats.glb.materials/knownchannel/
 ---
 ## KnownChannel enumeration

@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadTables
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad file format table objects
 type: docs
-weight: 400
+weight: 350
 url: /net/aspose.cad.fileformats.cad.cadtables/
 ---
 The namespace contains Cad file format table objects.

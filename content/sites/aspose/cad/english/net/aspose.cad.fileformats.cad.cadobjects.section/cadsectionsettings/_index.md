@@ -3,7 +3,7 @@ title: Class CadSectionSettings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Section.CadSectionSettings class. Class describing SectionSettings object
 type: docs
-weight: 3820
+weight: 3840
 url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/
 ---
 ## CadSectionSettings class
@@ -38,6 +38,7 @@ public class CadSectionSettings : CadBaseObject
 | [SectionType](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/sectiontype/) { get; set; } | Gets or sets the type of the section. |
 | [SectionTypeSettings](../../aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/sectiontypesettings/) { get; set; } | Gets or sets the section type settings. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 

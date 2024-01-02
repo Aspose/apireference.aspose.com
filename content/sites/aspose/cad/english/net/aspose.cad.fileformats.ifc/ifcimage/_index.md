@@ -3,7 +3,7 @@ title: Class IfcImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IfcImage class. Represents an image in IFC format. Contains information about all entities and header information
 type: docs
-weight: 33660
+weight: 33540
 url: /net/aspose.cad.fileformats.ifc/ifcimage/
 ---
 ## IfcImage class
@@ -26,7 +26,7 @@ public class IfcImage : Image, IDrawingLayout<IIfcEntity>, IHasEntities<IIfcEnti
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
 | override [Depth](../../aspose.cad.fileformats.ifc/ifcimage/depth/) { get; } | Gets the depth. It is calculated from all the entities |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| [Entities](../../aspose.cad.fileformats.ifc/ifcimage/entities/) { get; } | Gets all entities that exists in the image. Could be useful for walwing through them and check its properties |
+| [Entities](../../aspose.cad.fileformats.ifc/ifcimage/entities/) { get; } | Gets all entities that exists on a drawing. Could be useful for walking through them and check its properties |
 | [Header](../../aspose.cad.fileformats.ifc/ifcimage/header/) { get; } | Gets the header. |
 | override [Height](../../aspose.cad.fileformats.ifc/ifcimage/height/) { get; } | Gets the image height. It is calculated from all the entities |
 | override [IsCached](../../aspose.cad.fileformats.ifc/ifcimage/iscached/) { get; } | Gets a value indicating whether object's data is cached currently and no data reading is required. At present time always returns true |
@@ -37,6 +37,7 @@ public class IfcImage : Image, IDrawingLayout<IIfcEntity>, IHasEntities<IIfcEnti
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.ifc/ifcimage/width/) { get; } | Gets the image width. It is calculated from all the entities |
 
 ## Methods
@@ -57,6 +58,7 @@ public class IfcImage : Image, IDrawingLayout<IIfcEntity>, IHasEntities<IIfcEnti
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | virtual [ThrowIfCantExportToCad](../../aspose.cad/image/throwifcantexporttocad/)(ImageOptionsBase, Exception) | Throw exception if can`t export |
+| [TryRemoveEntity](../../aspose.cad.fileformats.ifc/ifcimage/tryremoveentity/)(IIfcEntity) |  |
 
 ## Examples
 

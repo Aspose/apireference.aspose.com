@@ -3,7 +3,7 @@ title: Enum DwfWhipPNGGroup4ImageFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.DwfWhipPNGGroup4ImageFormat enum. Represents PNG group image format
 type: docs
-weight: 9490
+weight: 9530
 url: /net/aspose.cad.fileformats.dwf.whip/dwfwhippnggroup4imageformat/
 ---
 ## DwfWhipPNGGroup4ImageFormat enumeration

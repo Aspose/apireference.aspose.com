@@ -3,7 +3,7 @@ title: Class IfcModulusOfSubgradeReactionSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcModulusOfSubgradeReactionSelect class. IfcModulusOfSubgradeReactionSelect
 type: docs
-weight: 31740
+weight: 31620
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofsubgradereactionselect/
 ---
 ## IfcModulusOfSubgradeReactionSelect class

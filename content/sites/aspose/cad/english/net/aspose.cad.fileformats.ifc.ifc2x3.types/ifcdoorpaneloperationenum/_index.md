@@ -3,7 +3,7 @@ title: Enum IfcDoorPanelOperationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDoorPanelOperationEnum enum. IfcDoorPanelOperationEnum
 type: docs
-weight: 19350
+weight: 19230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdoorpaneloperationenum/
 ---
 ## IfcDoorPanelOperationEnum enumeration

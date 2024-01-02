@@ -3,7 +3,7 @@ title: DwfImage.AddElement
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage method. Adds graphic element to specified page. Provides an opportunity to add a new graphic element to the existing ones in the image. To add it you need to create a new graphic element and specify the index of the page in Pages array to which the element should be added
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad.fileformats.dwf/dwfimage/addelement/
 ---
 ## DwfImage.AddElement method

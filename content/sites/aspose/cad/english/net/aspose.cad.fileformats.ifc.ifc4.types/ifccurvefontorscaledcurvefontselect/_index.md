@@ -3,7 +3,7 @@ title: Class IfcCurveFontOrScaledCurveFontSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCurveFontOrScaledCurveFontSelect class. IfcCurveFontOrScaledCurveFontSelect
 type: docs
-weight: 30370
+weight: 30250
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccurvefontorscaledcurvefontselect/
 ---
 ## IfcCurveFontOrScaledCurveFontSelect class

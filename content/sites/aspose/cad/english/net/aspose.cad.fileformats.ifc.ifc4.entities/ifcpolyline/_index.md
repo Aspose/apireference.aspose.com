@@ -3,7 +3,7 @@ title: Class IfcPolyline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPolyline class. Partial IIfc entity class
 type: docs
-weight: 26200
+weight: 26080
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolyline/
 ---
 ## IfcPolyline class

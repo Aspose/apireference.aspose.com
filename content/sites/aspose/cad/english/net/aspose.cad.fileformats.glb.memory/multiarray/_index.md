@@ -1,14 +1,14 @@
 ---
 title: Struct MultiArray
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.MultiArray struct. Wraps an encoded Memory and exposes it as an IListSingle/
+description: Aspose.CAD.FileFormats.GLB.Memory.MultiArray struct. Wraps an encoded ArraySegment and exposes it as an IListSingle/
 type: docs
-weight: 11160
+weight: 11050
 url: /net/aspose.cad.fileformats.glb.memory/multiarray/
 ---
 ## MultiArray structure
 
-Wraps an encoded Memory and exposes it as an IList{Single[]}/&gt;.
+Wraps an encoded ArraySegment and exposes it as an IList{Single[]}/&gt;.
 
 ```csharp
 public struct MultiArray : IList<float[]>, IReadOnlyList<float[]>
@@ -18,7 +18,7 @@ public struct MultiArray : IList<float[]>, IReadOnlyList<float[]>
 
 | Name | Description |
 | --- | --- |
-| [MultiArray](multiarray/)(Memory&lt;byte&gt;, int, int, int, int, EncodingType, bool) |  |
+| [MultiArray](multiarray/)(ArraySegment&lt;byte&gt;, int, int, int, int, EncodingType, bool) |  |
 
 ## Properties
 

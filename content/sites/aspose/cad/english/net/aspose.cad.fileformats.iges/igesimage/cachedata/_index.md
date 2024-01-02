@@ -3,7 +3,7 @@ title: IgesImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: IgesImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.iges/igesimage/cachedata/
 ---
 ## IgesImage.CacheData method

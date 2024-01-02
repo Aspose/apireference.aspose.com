@@ -3,7 +3,7 @@ title: Interface IXmpType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.IXmpType interface. Base interface for XMP type
 type: docs
-weight: 37660
+weight: 37600
 url: /net/aspose.cad.xmp.types/ixmptype/
 ---
 ## IXmpType interface

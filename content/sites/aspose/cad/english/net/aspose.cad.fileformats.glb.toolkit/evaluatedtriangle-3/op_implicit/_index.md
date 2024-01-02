@@ -3,7 +3,7 @@ title: EvaluatedTriangle3.op_Implicit
 second_title: Aspose.CAD for .NET API Reference
 description: EvaluatedTriangle method. 
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.cad.fileformats.glb.toolkit/evaluatedtriangle-3/op_implicit/
 ---
 ## EvaluatedTriangle&lt;TvG,TvM,TvS&gt; Implicit operator

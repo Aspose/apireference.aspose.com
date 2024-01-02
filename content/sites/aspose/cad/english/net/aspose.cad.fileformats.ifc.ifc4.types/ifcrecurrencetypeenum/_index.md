@@ -3,7 +3,7 @@ title: Enum IfcRecurrenceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRecurrenceTypeEnum enum. IfcRecurrenceTypeEnum
 type: docs
-weight: 32350
+weight: 32230
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcrecurrencetypeenum/
 ---
 ## IfcRecurrenceTypeEnum enumeration

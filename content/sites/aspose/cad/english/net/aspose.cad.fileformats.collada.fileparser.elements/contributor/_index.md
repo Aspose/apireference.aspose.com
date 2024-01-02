@@ -3,7 +3,7 @@ title: Class Contributor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Contributor class. The contributor. The contributor element defines authoring information for asset management
 type: docs
-weight: 7360
+weight: 7410
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/contributor/
 ---
 ## Contributor class

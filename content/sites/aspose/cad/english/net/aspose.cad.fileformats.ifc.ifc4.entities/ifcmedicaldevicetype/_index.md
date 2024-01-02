@@ -3,7 +3,7 @@ title: Class IfcMedicalDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMedicalDeviceType class. IfcMedicalDeviceType
 type: docs
-weight: 25620
+weight: 25500
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmedicaldevicetype/
 ---
 ## IfcMedicalDeviceType class

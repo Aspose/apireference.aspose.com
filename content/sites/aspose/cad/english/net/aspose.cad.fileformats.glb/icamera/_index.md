@@ -3,12 +3,12 @@ title: Interface ICamera
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ICamera interface. Common interface for CameraOrthographic and CameraPerspective
 type: docs
-weight: 10820
+weight: 10740
 url: /net/aspose.cad.fileformats.glb/icamera/
 ---
 ## ICamera interface
 
-Common interface for [`CameraOrthographic`](../cameraorthographic/) and [`CameraPerspective`](../cameraperspective/).
+Common interface for CameraOrthographic and CameraPerspective.
 
 ```csharp
 public interface ICamera

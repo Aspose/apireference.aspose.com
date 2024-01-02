@@ -3,7 +3,7 @@ title: Class IfcRelAssociates
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelAssociates class. IfcRelAssociates
 type: docs
-weight: 27090
+weight: 26970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociates/
 ---
 ## IfcRelAssociates class

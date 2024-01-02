@@ -3,7 +3,7 @@ title: Class IfcCondenser
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCondenser class. IfcCondenser
 type: docs
-weight: 23000
+weight: 22880
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccondenser/
 ---
 ## IfcCondenser class

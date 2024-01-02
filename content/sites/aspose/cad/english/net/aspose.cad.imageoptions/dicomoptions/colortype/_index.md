@@ -11,7 +11,7 @@ url: /net/aspose.cad.imageoptions/dicomoptions/colortype/
 Gets or sets the type of the color.
 
 ```csharp
-public #=zWIrwcyihs7g5U4lS1OKvhsQLLcNbBm0yzl1GkDc= ColorType { get; set; }
+public #=zB9aW5KgfTS$Ejf$$VCEYkaeGo4JhszqvXiglc28= ColorType { get; set; }
 ```
 
 ### Property Value

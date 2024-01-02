@@ -20,11 +20,10 @@ public void SetAnimationFrame(int trackLogicalIndex, float time)
 
 ---
 
-## SetAnimationFrame(ReadOnlySpan&lt;int&gt;, ReadOnlySpan&lt;float&gt;, ReadOnlySpan&lt;float&gt;) {#setanimationframe_1}
+## SetAnimationFrame(int[], float[], float[]) {#setanimationframe_1}
 
 ```csharp
-public void SetAnimationFrame(ReadOnlySpan<int> track, ReadOnlySpan<float> time, 
-    ReadOnlySpan<float> weight)
+public void SetAnimationFrame(int[] track, float[] time, float[] weight)
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class IfcCooledBeam
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCooledBeam class. IfcCooledBeam
 type: docs
-weight: 23260
+weight: 23140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccooledbeam/
 ---
 ## IfcCooledBeam class

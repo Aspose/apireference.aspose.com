@@ -9,7 +9,7 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/
 ## DgnElementBase.Id property
 
 ```csharp
-public string Id { get; }
+public virtual string Id { get; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class IfcPropertyConstraintRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertyConstraintRelationship class. IfcPropertyConstraintRelationship
 type: docs
-weight: 16020
+weight: 15900
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/
 ---
 ## IfcPropertyConstraintRelationship class

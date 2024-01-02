@@ -11,12 +11,8 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/id/
 Gets the identifier.
 
 ```csharp
-public long Id { get; }
+public override string Id { get; }
 ```
-
-### Property Value
-
-The identifier.
 
 ### See Also
 

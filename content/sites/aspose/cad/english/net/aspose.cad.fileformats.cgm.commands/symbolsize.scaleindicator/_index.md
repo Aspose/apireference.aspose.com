@@ -3,7 +3,7 @@ title: Enum SymbolSize.ScaleIndicator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SymbolSizeScaleIndicator enum. 
 type: docs
-weight: 6540
+weight: 6590
 url: /net/aspose.cad.fileformats.cgm.commands/symbolsize.scaleindicator/
 ---
 ## SymbolSize.ScaleIndicator enumeration

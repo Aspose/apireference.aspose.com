@@ -3,7 +3,7 @@ title: Class IfcEquipmentStandard
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEquipmentStandard class. IfcEquipmentStandard
 type: docs
-weight: 14130
+weight: 14010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcequipmentstandard/
 ---
 ## IfcEquipmentStandard class

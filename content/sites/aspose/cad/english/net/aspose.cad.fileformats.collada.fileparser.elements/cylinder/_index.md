@@ -3,7 +3,7 @@ title: Class Cylinder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Cylinder class. The cylinder. Describes an unlimited cylindrical surface
 type: docs
-weight: 7420
+weight: 7470
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cylinder/
 ---
 ## Cylinder class

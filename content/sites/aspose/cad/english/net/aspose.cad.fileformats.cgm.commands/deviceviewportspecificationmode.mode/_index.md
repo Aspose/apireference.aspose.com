@@ -3,7 +3,7 @@ title: Enum DeviceViewportSpecificationMode.Mode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewportSpecificationModeMode enum. 
 type: docs
-weight: 5280
+weight: 5330
 url: /net/aspose.cad.fileformats.cgm.commands/deviceviewportspecificationmode.mode/
 ---
 ## DeviceViewportSpecificationMode.Mode enumeration

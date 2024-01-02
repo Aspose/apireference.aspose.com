@@ -3,7 +3,7 @@ title: Class IfcShadingDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcShadingDeviceType class. IfcShadingDeviceType
 type: docs
-weight: 27770
+weight: 27650
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshadingdevicetype/
 ---
 ## IfcShadingDeviceType class

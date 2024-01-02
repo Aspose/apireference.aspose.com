@@ -3,7 +3,7 @@ title: Class Ellipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Ellipse class. The ellipse
 type: docs
-weight: 7450
+weight: 7500
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/ellipse/
 ---
 ## Ellipse class

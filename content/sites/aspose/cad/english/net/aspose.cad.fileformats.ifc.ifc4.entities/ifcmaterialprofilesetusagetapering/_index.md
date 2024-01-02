@@ -3,7 +3,7 @@ title: Class IfcMaterialProfileSetUsageTapering
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialProfileSetUsageTapering class. IfcMaterialProfileSetUsageTapering
 type: docs
-weight: 25530
+weight: 25410
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusagetapering/
 ---
 ## IfcMaterialProfileSetUsageTapering class

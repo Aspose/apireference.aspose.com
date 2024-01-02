@@ -3,7 +3,7 @@ title: Class StpImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.StpImage class. STP image class
 type: docs
-weight: 35090
+weight: 34980
 url: /net/aspose.cad.fileformats.stp/stpimage/
 ---
 ## StpImage class
@@ -49,6 +49,7 @@ public class StpImage : Image
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | [UnsupportedSchemas](../../aspose.cad.fileformats.stp/stpimage/unsupportedschemas/) { get; } |  |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.stp/stpimage/width/) { get; } | Gets the image width. |
 
 ## Methods

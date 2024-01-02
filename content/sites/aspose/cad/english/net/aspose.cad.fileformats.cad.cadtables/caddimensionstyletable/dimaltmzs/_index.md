@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.DimAltMzs
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The DiaAltMzs
+description: CadDimensionStyleTable property. Gets or sets alternate subzero suffix for dimensions
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimaltmzs/
 ---
 ## CadDimensionStyleTable.DimAltMzs property
 
-Gets or sets The DiaAltMzs
+Gets or sets alternate sub-zero suffix for dimensions.
 
 ```csharp
 public string DimAltMzs { get; set; }

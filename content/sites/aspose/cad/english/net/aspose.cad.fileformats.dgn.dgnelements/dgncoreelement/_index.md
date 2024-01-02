@@ -3,7 +3,7 @@ title: Class DgnCoreElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnCoreElement class. Represents core element
 type: docs
-weight: 8650
+weight: 8700
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncoreelement/
 ---
 ## DgnCoreElement class
@@ -19,7 +19,7 @@ public class DgnCoreElement : DgnElementBase
 | Name | Description |
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 
 ### See Also

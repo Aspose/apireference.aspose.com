@@ -3,7 +3,7 @@ title: Class IfcAmountOfSubstanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAmountOfSubstanceMeasure class. IfcAmountOfSubstanceMeasure
 type: docs
-weight: 29720
+weight: 29600
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcamountofsubstancemeasure/
 ---
 ## IfcAmountOfSubstanceMeasure class

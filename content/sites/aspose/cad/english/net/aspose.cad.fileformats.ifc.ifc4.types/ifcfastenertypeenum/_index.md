@@ -3,7 +3,7 @@ title: Enum IfcFastenerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFastenerTypeEnum enum. IfcFastenerTypeEnum
 type: docs
-weight: 30950
+weight: 30830
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfastenertypeenum/
 ---
 ## IfcFastenerTypeEnum enumeration

@@ -3,7 +3,7 @@ title: Class AnimationChannel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AnimationChannel class. 
 type: docs
-weight: 10140
+weight: 10090
 url: /net/aspose.cad.fileformats.glb/animationchannel/
 ---
 ## AnimationChannel class

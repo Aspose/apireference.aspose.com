@@ -3,7 +3,7 @@ title: Class StepGeometricSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepGeometricSet class. Geometric Set class for STP file
 type: docs
-weight: 34680
+weight: 34570
 url: /net/aspose.cad.fileformats.stp.items/stepgeometricset/
 ---
 ## StepGeometricSet class

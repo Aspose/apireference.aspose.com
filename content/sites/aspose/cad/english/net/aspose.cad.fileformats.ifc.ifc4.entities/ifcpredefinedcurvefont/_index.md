@@ -3,7 +3,7 @@ title: Class IfcPreDefinedCurveFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPreDefinedCurveFont class. IfcPreDefinedCurveFont
 type: docs
-weight: 26240
+weight: 26120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefinedcurvefont/
 ---
 ## IfcPreDefinedCurveFont class

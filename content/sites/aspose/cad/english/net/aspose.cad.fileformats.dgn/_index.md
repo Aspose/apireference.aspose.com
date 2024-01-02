@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Dgn
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles DGN related file formats processing
 type: docs
-weight: 570
+weight: 540
 url: /net/aspose.cad.fileformats.dgn/
 ---
 The namespace handles DGN related file formats processing.
@@ -32,7 +32,6 @@ The namespace handles DGN related file formats processing.
 | [DgnElementType](./dgnelementtype/) | Element type |
 | [DgnFileVersion](./dgnfileversion/) | File format version |
 | [DgnJustificationType](./dgnjustificationtype/) | Justification type |
-| [DgnLineStyle](./dgnlinestyle/) | Line style |
 | [DgnSurface3DType](./dgnsurface3dtype/) | Represents 3d surface type |
 | [DgnSurfaceCreationMethod](./dgnsurfacecreationmethod/) | Represents creation method of 3d surface and 3d solid |
 | [DgnTagType](./dgntagtype/) | Represents dgn tag type |

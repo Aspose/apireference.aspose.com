@@ -9,7 +9,7 @@ url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/blend/
 ## SparseWeight8.Blend method
 
 ```csharp
-public static SparseWeight8 Blend(ReadOnlySpan<SparseWeight8> sparses, ReadOnlySpan<float> weight)
+public static SparseWeight8 Blend(SparseWeight8[] sparses, float[] weight)
 ```
 
 ### See Also

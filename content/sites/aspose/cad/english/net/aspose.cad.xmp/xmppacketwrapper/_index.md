@@ -3,7 +3,7 @@ title: Class XmpPacketWrapper
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpPacketWrapper class. Contains serialized xmp package including header and trailer
 type: docs
-weight: 37760
+weight: 37700
 url: /net/aspose.cad.xmp/xmppacketwrapper/
 ---
 ## XmpPacketWrapper class

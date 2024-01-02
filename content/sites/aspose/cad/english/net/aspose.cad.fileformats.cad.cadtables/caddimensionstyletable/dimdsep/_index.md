@@ -1,14 +1,14 @@
 ---
 title: CadDimensionStyleTable.Dimdsep
 second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets The dimdsep  278
+description: CadDimensionStyleTable property. Gets or sets a decimal separator. Decimal point is used be default
 type: docs
 weight: 320
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimdsep/
 ---
 ## CadDimensionStyleTable.Dimdsep property
 
-Gets or sets The dimdsep - 278
+Gets or sets a decimal separator. Decimal point is used be default.
 
 ```csharp
 public short Dimdsep { get; set; }

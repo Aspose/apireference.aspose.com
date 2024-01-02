@@ -3,7 +3,7 @@ title: Class IfcKinematicViscosityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcKinematicViscosityMeasure class. IfcKinematicViscosityMeasure
 type: docs
-weight: 20010
+weight: 19890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifckinematicviscositymeasure/
 ---
 ## IfcKinematicViscosityMeasure class

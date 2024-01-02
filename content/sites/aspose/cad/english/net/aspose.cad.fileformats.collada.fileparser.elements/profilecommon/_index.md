@@ -3,7 +3,7 @@ title: Class ProfileCommon
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ProfileCommon class. The profile common. Opens a block of COMMON platformspecific data types and technique declarations
 type: docs
-weight: 8150
+weight: 8200
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilecommon/
 ---
 ## ProfileCommon class

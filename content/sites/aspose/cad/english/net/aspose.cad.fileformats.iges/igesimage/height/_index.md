@@ -3,7 +3,7 @@ title: IgesImage.Height
 second_title: Aspose.CAD for .NET API Reference
 description: IgesImage property. Gets Image height
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.cad.fileformats.iges/igesimage/height/
 ---
 ## IgesImage.Height property

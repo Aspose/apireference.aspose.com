@@ -3,7 +3,7 @@ title: Enum PrimitiveType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.PrimitiveType enum. The topology type of primitives to render
 type: docs
-weight: 11270
+weight: 11160
 url: /net/aspose.cad.fileformats.glb/primitivetype/
 ---
 ## PrimitiveType enumeration

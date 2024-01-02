@@ -3,7 +3,7 @@ title: DwfImage.Height
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage property. Gets the image height. Defines the Yaxis distance between the bottommost point of all graphical objects in the image and their topmost point. The distance is measured in units corresponding to the value of the property UnitType
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.cad.fileformats.dwf/dwfimage/height/
 ---
 ## DwfImage.Height property

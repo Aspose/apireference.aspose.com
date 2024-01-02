@@ -3,7 +3,7 @@ title: Delegate UriResolver
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 11870
+weight: 11760
 url: /net/aspose.cad.fileformats.glb/uriresolver/
 ---
 ## UriResolver delegate

@@ -3,7 +3,7 @@ title: Class StepGeometricallyBoundedWireframeShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepGeometricallyBoundedWireframeShapeRepresentation class. ShapeRepresentation class
 type: docs
-weight: 34690
+weight: 34580
 url: /net/aspose.cad.fileformats.stp.items/stepgeometricallyboundedwireframeshaperepresentation/
 ---
 ## StepGeometricallyBoundedWireframeShapeRepresentation class

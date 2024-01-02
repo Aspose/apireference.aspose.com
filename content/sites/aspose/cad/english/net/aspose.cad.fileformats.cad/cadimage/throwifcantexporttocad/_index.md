@@ -14,7 +14,7 @@ public override void ThrowIfCantExportToCad(ImageOptionsBase options, Exception 
 
 ### See Also
 
-* class [ImageOptionsBase](../../../aspose.cad/imageoptionsbase/)
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
 * class [CadImage](../)
 * namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)

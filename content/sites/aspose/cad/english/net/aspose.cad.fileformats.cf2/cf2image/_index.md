@@ -3,7 +3,7 @@ title: Class CF2Image
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2Image class. CF2 image class
 type: docs
-weight: 920
+weight: 860
 url: /net/aspose.cad.fileformats.cf2/cf2image/
 ---
 ## CF2Image class
@@ -40,6 +40,7 @@ public sealed class CF2Image : Image
 | [SubSectons](../../aspose.cad.fileformats.cf2/cf2image/subsectons/) { get; } | Gets the sub sectons. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.cf2/cf2image/width/) { get; } | Gets the image width. |
 
 ## Methods

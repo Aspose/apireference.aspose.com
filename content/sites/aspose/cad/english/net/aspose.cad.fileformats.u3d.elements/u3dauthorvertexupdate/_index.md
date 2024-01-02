@@ -3,7 +3,7 @@ title: Struct U3dAuthorVertexUpdate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorVertexUpdate struct. The structure containing information on how vertex data is added to or removed from a mesh during mesh resolution changes
 type: docs
-weight: 35750
+weight: 35640
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/
 ---
 ## U3dAuthorVertexUpdate structure

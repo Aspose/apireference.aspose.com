@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.Helpers
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains CAD helper classes
 type: docs
-weight: 280
+weight: 230
 url: /net/aspose.cad.fileformats.cad.cadobjects.helpers/
 ---
 The namespace contains CAD helper classes.

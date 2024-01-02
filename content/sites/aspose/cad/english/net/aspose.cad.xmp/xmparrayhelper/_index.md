@@ -3,7 +3,7 @@ title: Class XmpArrayHelper
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpArrayHelper class. The helper class for processing RDF logic
 type: docs
-weight: 37690
+weight: 37630
 url: /net/aspose.cad.xmp/xmparrayhelper/
 ---
 ## XmpArrayHelper class

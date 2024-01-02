@@ -3,7 +3,7 @@ title: Class MeshPrimitive
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.MeshPrimitive class. Geometry to be rendered with the given material
 type: docs
-weight: 11240
+weight: 11130
 url: /net/aspose.cad.fileformats.glb/meshprimitive/
 ---
 ## MeshPrimitive class

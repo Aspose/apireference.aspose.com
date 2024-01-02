@@ -3,7 +3,7 @@ title: Class IfcPointOnCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPointOnCurve class. IfcPointOnCurve
 type: docs
-weight: 26150
+weight: 26030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpointoncurve/
 ---
 ## IfcPointOnCurve class

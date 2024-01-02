@@ -3,7 +3,7 @@ title: Class IfcPlateStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPlateStandardCase class. IfcPlateStandardCase
 type: docs
-weight: 26120
+weight: 26000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplatestandardcase/
 ---
 ## IfcPlateStandardCase class

@@ -3,7 +3,7 @@ title: Class IfcElectricChargeMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricChargeMeasure class. IfcElectricChargeMeasure
 type: docs
-weight: 19470
+weight: 19350
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricchargemeasure/
 ---
 ## IfcElectricChargeMeasure class

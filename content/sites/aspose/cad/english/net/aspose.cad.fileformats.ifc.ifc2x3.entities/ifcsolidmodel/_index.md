@@ -3,7 +3,7 @@ title: Class IfcSolidModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSolidModel class. Partial IIfc entity class
 type: docs
-weight: 17220
+weight: 17100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsolidmodel/
 ---
 ## IfcSolidModel class

@@ -3,7 +3,7 @@ title: Class CadGeoData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadGeoData class. Class describing GeoData object
 type: docs
-weight: 2620
+weight: 2650
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/
 ---
 ## CadGeoData class
@@ -59,6 +59,7 @@ public class CadGeoData : CadBaseObject
 | [SeaLevelElevation](../../aspose.cad.fileformats.cad.cadobjects/cadgeodata/sealevelelevation/) { get; set; } | Gets or sets the sea level elevation. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SourceMeshPoints](../../aspose.cad.fileformats.cad.cadobjects/cadgeodata/sourcemeshpoints/) { get; set; } | Gets or sets the source mesh points. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [UpDirection](../../aspose.cad.fileformats.cad.cadobjects/cadgeodata/updirection/) { get; set; } | Gets or sets up direction. |
 | [UserSpecifiedScaleFactor](../../aspose.cad.fileformats.cad.cadobjects/cadgeodata/userspecifiedscalefactor/) { get; set; } | Gets or sets the user specified scale factor. |

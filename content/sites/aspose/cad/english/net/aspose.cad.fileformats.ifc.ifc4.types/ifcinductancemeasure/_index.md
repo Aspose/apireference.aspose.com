@@ -3,7 +3,7 @@ title: Class IfcInductanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcInductanceMeasure class. IfcInductanceMeasure
 type: docs
-weight: 31230
+weight: 31110
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcinductancemeasure/
 ---
 ## IfcInductanceMeasure class

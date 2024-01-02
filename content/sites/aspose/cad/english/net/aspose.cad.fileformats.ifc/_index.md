@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Ifc
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles ifc file format processing
 type: docs
-weight: 840
+weight: 810
 url: /net/aspose.cad.fileformats.ifc/
 ---
 The namespace handles ifc file format processing.
@@ -27,5 +27,10 @@ The namespace handles ifc file format processing.
 | [IIfcEntity](./iifcentity/) | IIfcEntity is a base interface for all IFC entities |
 | [IIfcSelect](./iifcselect/) | IIfcSelect is a base interface for all IFC select entities |
 | [IIfcType](./iifctype/) | IIfcType interface is a base interface for all IFC types |
+## Enumeration
+
+| Enumeration | Description |
+| --- | --- |
+| [IfcVersion](./ifcversion/) |  |
 
 

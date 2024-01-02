@@ -3,7 +3,7 @@ title: Class IfcProjectedCRS
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcProjectedCRS class. IfcProjectedCRS
 type: docs
-weight: 26450
+weight: 26330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/
 ---
 ## IfcProjectedCRS class

@@ -3,7 +3,7 @@ title: Class StepShapeRepresentationRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepShapeRepresentationRelationship class. ShapeRepresentationRelationship class
 type: docs
-weight: 34900
+weight: 34790
 url: /net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/
 ---
 ## StepShapeRepresentationRelationship class

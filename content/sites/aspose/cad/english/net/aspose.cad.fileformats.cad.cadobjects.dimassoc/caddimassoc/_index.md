@@ -3,7 +3,7 @@ title: Class CadDimAssoc
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc.CadDimAssoc class. Class describing Cad DimAssoc
 type: docs
-weight: 3460
+weight: 3490
 url: /net/aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/
 ---
 ## CadDimAssoc class
@@ -39,6 +39,7 @@ public class CadDimAssoc : CadBaseObject
 | [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [RotatedDimensionType](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/rotateddimensiontype/) { get; set; } | Gets or sets the type of the rotated dimension. |
 | [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [TransSpaceFlag](../../aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/transspaceflag/) { get; set; } | Gets or sets the trans space flag. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |

@@ -3,7 +3,7 @@ title: Class SavePrimitiveContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SavePrimitiveContext class. Class3 ElementId11
 type: docs
-weight: 6400
+weight: 6450
 url: /net/aspose.cad.fileformats.cgm.commands/saveprimitivecontext/
 ---
 ## SavePrimitiveContext class

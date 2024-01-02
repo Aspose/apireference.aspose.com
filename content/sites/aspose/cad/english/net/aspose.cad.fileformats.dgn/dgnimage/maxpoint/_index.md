@@ -3,7 +3,7 @@ title: DgnImage.MaxPoint
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage property. Gets the max point
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad.fileformats.dgn/dgnimage/maxpoint/
 ---
 ## DgnImage.MaxPoint property

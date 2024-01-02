@@ -3,7 +3,7 @@ title: Class CadOsnapPointRef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc.CadOsnapPointRef class. Cad hatch pattern class
 type: docs
-weight: 3470
+weight: 3500
 url: /net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/
 ---
 ## CadOsnapPointRef class

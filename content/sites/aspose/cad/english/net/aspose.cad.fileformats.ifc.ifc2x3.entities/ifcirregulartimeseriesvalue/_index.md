@@ -3,7 +3,7 @@ title: Class IfcIrregularTimeSeriesValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcIrregularTimeSeriesValue class. IfcIrregularTimeSeriesValue
 type: docs
-weight: 14860
+weight: 14740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcirregulartimeseriesvalue/
 ---
 ## IfcIrregularTimeSeriesValue class

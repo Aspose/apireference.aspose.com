@@ -3,7 +3,7 @@ title: Class ObjVertexColor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Obj.VertexData.ObjVertexColor class. The OBJ vertex position and color
 type: docs
-weight: 33980
+weight: 33870
 url: /net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/
 ---
 ## ObjVertexColor class

@@ -18,7 +18,7 @@ public string AlternateWriteFileName { get; set; }
 
 if not sure about the image extension, using .* as extension will replace the extension with the appropiate one at the time of writing.
 
-For more advanced scenarios, you can also use: [`ImageWriteCallback`](../../writesettings/imagewritecallback/)
+For more advanced scenarios, you can also use: ImageWriteCallback
 
 ### See Also
 

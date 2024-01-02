@@ -3,7 +3,7 @@ title: Class CircularArcCentre
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CircularArcCentre class. Class4 ElementId15
 type: docs
-weight: 5000
+weight: 5050
 url: /net/aspose.cad.fileformats.cgm.commands/circulararccentre/
 ---
 ## CircularArcCentre class

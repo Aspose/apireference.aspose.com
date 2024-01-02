@@ -3,7 +3,7 @@ title: Class DgnShapeElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnShapeElement class. Represents shape element
 type: docs
-weight: 8780
+weight: 8830
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnshapeelement/
 ---
 ## DgnShapeElement class
@@ -20,7 +20,7 @@ public class DgnShapeElement : DgnLineElement
 | --- | --- |
 | virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [Filled](../../aspose.cad.fileformats.dgn.dgnelements/dgnshapeelement/filled/) { get; } | Gets a value indicating whether this `DgnShapeElement` is filled. |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint/) { get; } | Gets the max point of object. |
 | [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint/) { get; } | Gets the min point of object. |

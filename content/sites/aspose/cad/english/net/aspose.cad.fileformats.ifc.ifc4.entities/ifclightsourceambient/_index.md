@@ -3,7 +3,7 @@ title: Class IfcLightSourceAmbient
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLightSourceAmbient class. IfcLightSourceAmbient
 type: docs
-weight: 25280
+weight: 25160
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourceambient/
 ---
 ## IfcLightSourceAmbient class
