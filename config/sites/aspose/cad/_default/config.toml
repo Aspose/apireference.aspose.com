@@ -46,7 +46,7 @@ defaultContentLang = 'en'
 		  url = "/net/"
 		  weight = 10
     	[[languages.en.menu.main]]
-     	  name = "Aspose.CAD for .NET"
+     	  name = "Aspose.CAD for Java"
 		  url = "/java/"
 		  weight = 20
     	[[languages.en.menu.main]]
