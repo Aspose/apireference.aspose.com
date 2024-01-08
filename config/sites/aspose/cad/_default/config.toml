@@ -66,7 +66,7 @@ defaultContentLang = 'en'
     [languages.ru.menu]
     	[[languages.ru.menu.main]]
      	  name = "Aspose.CAD для .NET"
-		  url = "../net/ru/"
+		  url = "../ru/net/"
 		  weight = 10
     	[[languages.ru.menu.main]]
      	  name = "Aspose.CAD для Java"
@@ -89,7 +89,7 @@ defaultContentLang = 'en'
     [languages.zh.menu]
     	[[languages.zh.menu.main]]
      	  name = "用于 .NET 的 Aspose.CAD"
-		  url = "../net/zh/"
+		  url = "../zh/net/"
 		  weight = 10
     	[[languages.zh.menu.main]]
      	  name = "用于 Java 的 Aspose.CAD"
