@@ -40,18 +40,69 @@ defaultContentLang = 'en'
 	languageCode = "en"
     flag = "flag-us"
     weight = 10
+        [languages.en.menu]
+    	[[languages.en.menu.main]]
+     	  name = "Aspose.CAD for .NET"
+		  url = "/net/"
+		  weight = 10
+    	[[languages.en.menu.main]]
+     	  name = "Aspose.CAD for .NET"
+		  url = "/java/"
+		  weight = 20
+    	[[languages.en.menu.main]]
+     	  name = "Aspose.CAD for JasperReports"
+		  url = "/jasperreports/"
+		  weight = 30
+    	[[languages.en.menu.main]]
+     	  name = "Aspose.CAD for Python via .NET"
+		  url = "/python-net/"
+		  weight = 40
   [languages.ru]
     contentDir = 'content/sites/aspose/cad/russian'
     languageName = 'Русский'
 	languageCode = "ru"
     flag = "flag-ru"
     weight = 11
+    [languages.ru.menu]
+    	[[languages.ru.menu.main]]
+     	  name = "Aspose.CAD для .NET"
+		  url = "../net/ru/"
+		  weight = 10
+    	[[languages.ru.menu.main]]
+     	  name = "Aspose.CAD для Java"
+		  url = "../java/"
+		  weight = 20
+    	[[languages.ru.menu.main]]
+     	  name = "Aspose.CAD для JasperReports"
+		  url = "../jasperreports/"
+		  weight = 30
+    	[[languages.ru.menu.main]]
+     	  name = "Aspose.CAD для Python через .NET"
+		  url = "../python-net/"
+		  weight = 40
   [languages.zh]
     contentDir = 'content/sites/aspose/cad/chinese'
     languageName = "简体中文"
     languageCode = "zh"
     flag = "flag-cn"
     weight = 12
+    [languages.zh.menu]
+    	[[languages.zh.menu.main]]
+     	  name = "用于 .NET 的 Aspose.CAD"
+		  url = "../net/zh/"
+		  weight = 10
+    	[[languages.zh.menu.main]]
+     	  name = "用于 Java 的 Aspose.CAD"
+		  url = "../java/"
+		  weight = 20
+    	[[languages.zh.menu.main]]
+     	  name = "用于 JasperReports 的 Aspose.CAD"
+		  url = "../jasperreports/"
+		  weight = 30
+    	[[languages.zh.menu.main]]
+     	  name = "Aspose.CAD for Python 通过 .NET"
+		  url = "../python-net/"
+		  weight = 40
 
 
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
