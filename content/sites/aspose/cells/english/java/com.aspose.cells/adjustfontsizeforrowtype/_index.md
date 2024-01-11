@@ -1,7 +1,7 @@
 ---
 title: AdjustFontSizeForRowType
 second_title: Aspose.Cells for Java API Reference
-description: Represents what kind of rows should be ajusted.
+description: Represents which kind of rows should be ajusted.
 type: docs
 url: /java/com.aspose.cells/adjustfontsizeforrowtype/
 ---
@@ -12,7 +12,7 @@ java.lang.Object
 public final class AdjustFontSizeForRowType
 ```
 
-Represents what kind of rows should be ajusted.
+Represents which kind of rows should be ajusted.
 
 **Remarks**
 ## Fields
