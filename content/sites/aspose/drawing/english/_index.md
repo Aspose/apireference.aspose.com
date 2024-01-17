@@ -4,7 +4,7 @@ additionalTitle: Aspose API References
 type: docs
 url: /
 keywords: "System.Drawing, 2D graphic library, Aspose.Drawing Features, documentation"
-description: "Get an introduction to Aspose.Drawing for .NET, a complete 2D graphic library for building modern, desktop, mobile, cloud-enabled, internet-connected apps."
+description: "Get an introduction to Aspose.Drawing, a complete 2D graphic library for building modern, desktop, mobile, cloud-enabled, internet-connected apps."
 weight: 10
 ---
 ## Aspose.Drawing for .NET
@@ -21,3 +21,7 @@ Aspose.Drawing is a fully managed, cross-platform, complete 2D graphic library f
 These are links to some useful resources:
 - [Aspose.Drawing for .NET API Reference](/drawing/net/)
 
+## Aspose.Drawing for Java
+
+These are links to some useful resources:
+- [Aspose.Drawing for Java API Reference](/drawing/java/)
