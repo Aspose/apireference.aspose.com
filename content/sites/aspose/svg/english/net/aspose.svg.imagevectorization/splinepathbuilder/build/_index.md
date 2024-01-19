@@ -1,32 +1,29 @@
 ---
 title: SplinePathBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: SplinePathBuilder method. Builds path segments from the list of the trace points
+description: SplinePathBuilder method. Constructs a smooth path through a sequence of points by converting Centripetal CatmullRom splines into Bezier curves. This method ensures a natural and smooth transition through each point creating an SVG path that closely follows the provided trace
 type: docs
 weight: 50
 url: /net/aspose.svg.imagevectorization/splinepathbuilder/build/
 ---
 ## SplinePathBuilder.Build method
 
-Builds path segments from the list of the trace points.
+Constructs a smooth path through a sequence of points by converting Centripetal Catmull–Rom splines into Bezier curves. This method ensures a natural and smooth transition through each point, creating an SVG path that closely follows the provided trace.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| trace | IEnumerable`1 | The list of trace points |
-| path | SVGPathElement | The SVG path element where path segments will be added. |
+| trace | IEnumerable`1 | The sequence of points to be interpolated into a smooth path. |
 
 ### Return Value
 
-The list of the path segments [`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+A string representing the SVG path data, comprising Bezier curve commands and coordinates that approximate the Centripetal Catmull–Rom spline.
 
 ### See Also
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * class [SplinePathBuilder](../)
 * namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
