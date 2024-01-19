@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_2}
+## Vectorize(string) {#vectorize_1}
 
 Vectorizes raster image from the specified file.
 
@@ -31,7 +31,7 @@ The SVG document.
 
 ---
 
-## Vectorize(Stream) {#vectorize_1}
+## Vectorize(Stream) {#vectorize}
 
 Vectorizes raster image from the specified stream.
 
@@ -42,31 +42,6 @@ public SVGDocument Vectorize(Stream imageStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | The stream with image. |
-
-### Return Value
-
-The SVG document.
-
-### See Also
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageVectorizer](../)
-* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## Vectorize(Bitmap) {#vectorize}
-
-Vectorizes bitmap.
-
-```csharp
-public SVGDocument Vectorize(Bitmap image)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | Bitmap | The bitmap. |
 
 ### Return Value
 

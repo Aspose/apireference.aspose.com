@@ -1,14 +1,14 @@
 ---
 title: SplinePathBuilder Class
 second_title: Aspose.SVG for .NET API Reference
-description: Aspose.Svg.ImageVectorization.SplinePathBuilder class. The SplinePathBuilder class is responsible for building path segments SVGPathSeg from list of the trace points. This path builder is based on applying a Catmull-Roma spline to a set of smoothed and reduced path points
+description: Aspose.Svg.ImageVectorization.SplinePathBuilder class. The SplinePathBuilder class is designed to construct a smooth path by transforming Centripetal CatmullRom splines into Bezier curves. It offers a method to generate a path that smoothly interpolates through a set of points providing a balance between fidelity to the points and smoothness of the curve
 type: docs
 weight: 6210
 url: /net/aspose.svg.imagevectorization/splinepathbuilder/
 ---
 ## SplinePathBuilder class
 
-The `SplinePathBuilder` class is responsible for building path segments [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) from list of the trace points. This path builder is based on applying a Catmull-Roma spline to a set of smoothed and reduced path points..
+The `SplinePathBuilder` class is designed to construct a smooth path by transforming Centripetal Catmull–Rom splines into Bezier curves. It offers a method to generate a path that smoothly interpolates through a set of points, providing a balance between fidelity to the points and smoothness of the curve.
 
 ```csharp
 public class SplinePathBuilder : IPathBuilder
@@ -34,7 +34,7 @@ public class SplinePathBuilder : IPathBuilder
 
 | Name | Description |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Builds path segments from the list of the trace points. |
+| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(IEnumerable&lt;PointF&gt;) | Constructs a smooth path through a sequence of points by converting Centripetal Catmull–Rom splines into Bezier curves. This method ensures a natural and smooth transition through each point, creating an SVG path that closely follows the provided trace. |
 
 ### See Also
 

@@ -1,32 +1,29 @@
 ---
 title: IPathBuilder.Build
 second_title: Aspose.SVG for .NET API Reference
-description: IPathBuilder method. Builds path segments from the list of the trace points
+description: IPathBuilder method. Optimizes a given trace into an SVG path segment using the least number of line and Bezier curve commands for accurate representation
 type: docs
 weight: 10
 url: /net/aspose.svg.imagevectorization/ipathbuilder/build/
 ---
 ## IPathBuilder.Build method
 
-Builds path segments from the list of the trace points.
+Optimizes a given trace into an SVG path segment, using the least number of line and Bezier curve commands for accurate representation.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| trace | IEnumerable`1 | The list of trace points. |
-| path | SVGPathElement | The SVG path element where path segments will be added. |
+| trace | IEnumerable`1 | A sequence of points outlining the trace to be optimized into an SVG path. |
 
 ### Return Value
 
-The list of the path segments [`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+A string representing an SVG path segment, efficiently approximating the original trace with minimal line and Bezier curve commands.
 
 ### See Also
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * interface [IPathBuilder](../)
 * namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

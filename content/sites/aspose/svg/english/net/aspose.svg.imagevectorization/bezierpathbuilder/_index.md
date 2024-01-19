@@ -1,14 +1,14 @@
 ---
 title: BezierPathBuilder Class
 second_title: Aspose.SVG for .NET API Reference
-description: Aspose.Svg.ImageVectorization.BezierPathBuilder class. The SplinePathBuilder class is responsible for building path segments SVGPathSeg from list of the trace points. This path builder is based on using least-squares method to find Bezier control points for trace of points
+description: Aspose.Svg.ImageVectorization.BezierPathBuilder class. The BezierPathBuilder class is responsible for constructing a Bezier path from a given set of points. It approximates a trace of points with a Bezier curve optimizing the number of segments to closely match the original trace while minimizing complexity
 type: docs
 weight: 6130
 url: /net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class
 
-The [`SplinePathBuilder`](../splinepathbuilder/) class is responsible for building path segments [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) from list of the trace points. This path builder is based on using least-squares method to find Bezier control points for trace of points.
+The `BezierPathBuilder` class is responsible for constructing a Bezier path from a given set of points. It approximates a trace of points with a Bezier curve, optimizing the number of segments to closely match the original trace while minimizing complexity.
 
 ```csharp
 public class BezierPathBuilder : IPathBuilder
@@ -32,7 +32,7 @@ public class BezierPathBuilder : IPathBuilder
 
 | Name | Description |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Builds path segments from the list of the trace points. |
+| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(IEnumerable&lt;PointF&gt;) | Builds an optimized Bezier path from a sequence of trace points. The method approximates the given trace with a Bezier curve, using a combination of line and curve segments. It aims to minimize the number of segments while ensuring the path closely fits the original trace. |
 
 ### See Also
 

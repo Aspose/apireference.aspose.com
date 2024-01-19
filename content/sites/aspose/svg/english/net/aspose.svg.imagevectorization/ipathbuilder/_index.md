@@ -18,7 +18,7 @@ public interface IPathBuilder
 
 | Name | Description |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Builds path segments from the list of the trace points. |
+| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(IEnumerable&lt;PointF&gt;) | Optimizes a given trace into an SVG path segment, using the least number of line and Bezier curve commands for accurate representation. |
 
 ### See Also
 

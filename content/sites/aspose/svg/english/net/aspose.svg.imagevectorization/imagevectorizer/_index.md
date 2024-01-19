@@ -31,9 +31,8 @@ public class ImageVectorizer
 
 | Name | Description |
 | --- | --- |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(Bitmap) | Vectorizes bitmap. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(Stream) | Vectorizes raster image from the specified stream. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_2)(string) | Vectorizes raster image from the specified file. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(Stream) | Vectorizes raster image from the specified stream. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(string) | Vectorizes raster image from the specified file. |
 
 ### See Also
 
