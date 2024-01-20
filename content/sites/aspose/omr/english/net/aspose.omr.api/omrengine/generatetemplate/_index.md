@@ -3,7 +3,7 @@ title: GenerateTemplate
 second_title: Aspose.OMR for .NET API Reference
 description: Creates a template .omr and template image based on MemoryStream
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.omr.api/omrengine/generatetemplate/
 ---
 ## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) {#generatetemplate_2}

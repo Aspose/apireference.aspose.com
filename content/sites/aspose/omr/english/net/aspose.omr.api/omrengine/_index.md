@@ -24,6 +24,7 @@ public class OmrEngine
 
 | Name | Description |
 | --- | --- |
+| [AddPlugin](../../aspose.omr.api/omrengine/addplugin)(IPlugin) | Register new plugin |
 | [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings, Encoding) | Creates a template (.omr) and template image based on .json markup |
 | [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring)(string, GlobalPageSettings, ImageCollection) | Creates a template (.omr) and template image based on JSON markup |
 | [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_5)(string, Encoding) | Creates a template (.omr) and template image based on text markup |

@@ -22,7 +22,7 @@ public class TemplateProcessor
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize)(Stream, int) | Recognizing file from stream |
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_1)(Stream[], int) | Recognizing collection of files from streams |
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_2)(string, int) | Recognizes file |
-| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_3)(string[], int) | Recognizes file |
+| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_3)(string[], int) | Recognize multiple files as a single multipage file |
 | [RecognizeFolder](../../aspose.omr.api/templateprocessor/recognizefolder)(string, int) | Recognizes images from folder |
 
 ### Examples
@@ -30,7 +30,7 @@ public class TemplateProcessor
 ```csharp
 OmrEngine engine = new OmrEngine();
 TemplateProcessor templateProcessor = engine.GetTemplateProcessor(templatePath);
-RecognitionResult result = templateProcessor.RecognizeImage(imagePath);
+RecognitionResult result = templateProcessor.Recognize(imagePath);
 string csvResult = result.GetCsv();
 ```
 
