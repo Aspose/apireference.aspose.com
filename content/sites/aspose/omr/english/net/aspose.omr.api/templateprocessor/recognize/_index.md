@@ -34,7 +34,7 @@ The recognition result
 
 ## Recognize(string[], int) {#recognize_3}
 
-Recognizes file
+Recognize multiple files as a single multipage file
 
 ```csharp
 public RecognitionResult Recognize(string[] filePaths, int recognitionThreshold = -100)
@@ -42,7 +42,7 @@ public RecognitionResult Recognize(string[] filePaths, int recognitionThreshold 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePaths | String[] | The path of the file to recognize |
+| filePaths | String[] | The path of the files to recognize |
 | recognitionThreshold | Int32 | (Optional) The recognition threshold in range (0..100). Only elements filled above threshold will be counted as filled. |
 
 ### Return Value
