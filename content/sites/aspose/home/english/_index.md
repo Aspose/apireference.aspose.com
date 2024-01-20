@@ -298,7 +298,7 @@ Aspose.Drawing is a .NET graphics API that provides the capability of 2D drawing
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/drawing/net/" class="btn-net" >}}
-
+{{< blocks/product-item title="JAVA" href="/drawing/java/" class="btn-java" >}}
 {{< /blocks/product-card >}}
 
 {{% blocks/product-card title="**Aspose.Font**" href="font" %}}
