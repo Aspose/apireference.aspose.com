@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront class. Describes the front beginning cover sheet. Each document will have a separate sheet. The cover sheet should be printed on the PageMediaSize and PageMediaType used for the first page of the document. The cover sheet should be integrated into processing options such as DocumentDuplex DocumentNUp as indicated by the Option specified. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 890
+weight: 900
 url: /net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

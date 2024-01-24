@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginWidth
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginWidth class. Specifies the origin of a watermark relative to the origin of the
 type: docs
-weight: 2940
+weight: 2950
 url: /net/aspose.page.xps.xpsmetadata/pagewatermarkoriginwidth/
 ---
 ## PageWatermarkOriginWidth class

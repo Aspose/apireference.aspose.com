@@ -3,7 +3,7 @@ title: Enum XpsLineJoin
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsModel.XpsLineJoin enum. Valid values of Path elements StrokeLineJoin property
 type: docs
-weight: 3420
+weight: 3430
 url: /net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration

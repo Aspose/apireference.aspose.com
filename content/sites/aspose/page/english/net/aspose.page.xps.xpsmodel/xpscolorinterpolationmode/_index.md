@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode enum. Valid values of gradient brushes ColorInterpolationMode property
 type: docs
-weight: 3220
+weight: 3230
 url: /net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

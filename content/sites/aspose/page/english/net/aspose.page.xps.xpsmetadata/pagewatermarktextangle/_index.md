@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle class. Specifies the angle of the watermark text relative to the
 type: docs
-weight: 2950
+weight: 2960
 url: /net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

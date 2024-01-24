@@ -40,9 +40,18 @@ public sealed class PsDocument : Document
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Complete current page. |
 | [CropEps](../../aspose.page.eps/psdocument/cropeps/)(Stream, float[]) | Crops given `PsDocument` as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Draw an arbitrary path. |
+| [DrawArc](../../aspose.page.eps/psdocument/drawarc/)(double, double, double, double, double, double) | Draws an arc. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | Draw masked image. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | Draw image. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | Draw transformed image with background. |
+| [DrawLine](../../aspose.page.eps/psdocument/drawline/)(double, double, double, double) | Draws a line segment. |
+| [DrawOval](../../aspose.page.eps/psdocument/drawoval/)(double, double, double, double) | Draws an oval. |
+| [DrawPolygon](../../aspose.page.eps/psdocument/drawpolygon/#drawpolygon)(double[], double[], int) | Draws a poligone. |
+| [DrawPolygon](../../aspose.page.eps/psdocument/drawpolygon/#drawpolygon_1)(int[], int[], int) | Draws a polygon. |
+| [DrawPolyline](../../aspose.page.eps/psdocument/drawpolyline/#drawpolyline)(double[], double[], int) | Draws a polyline. |
+| [DrawPolyline](../../aspose.page.eps/psdocument/drawpolyline/#drawpolyline_1)(int[], int[], int) | Draws a polyline. |
+| [DrawRect](../../aspose.page.eps/psdocument/drawrect/)(double, double, double, double) | Draws a rectangle. |
+| [DrawRoundRect](../../aspose.page.eps/psdocument/drawroundrect/)(double, double, double, double, double, double) | Draws a round rectangle. |
 | [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | Draw transformed transparent image. If image doesn't have Alpha channel it will be drawn as opaque image |
 | [ExtractEpsBoundingBox](../../aspose.page.eps/psdocument/extractepsboundingbox/)() | Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist. |
 | [ExtractEpsSize](../../aspose.page.eps/psdocument/extractepssize/)() | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |
@@ -51,6 +60,12 @@ public sealed class PsDocument : Document
 | [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | Adds a text string by filling interrior of glyphs and drawing glyphs contours. |
 | [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, float[], DrFont, float, float, Brush, Pen) | Adds a text string by filling interrior of glyphs and drawing glyphs contours. |
 | [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_2)(string, float[], Font, float, float, Brush, Pen) | Adds a text string by filling interrior of glyphs and drawing glyphs contours. |
+| [FillArc](../../aspose.page.eps/psdocument/fillarc/)(double, double, double, double, double, double) | Fills an arc. |
+| [FillOval](../../aspose.page.eps/psdocument/filloval/)(double, double, double, double) | Fills an oval. |
+| [FillPolygon](../../aspose.page.eps/psdocument/fillpolygon/#fillpolygon)(double[], double[], int) | Fills a poligone. |
+| [FillPolygon](../../aspose.page.eps/psdocument/fillpolygon/#fillpolygon_1)(int[], int[], int) | Fills a poligone. |
+| [FillRect](../../aspose.page.eps/psdocument/fillrect/)(double, double, double, double) | Fills a rectangle. |
+| [FillRoundRect](../../aspose.page.eps/psdocument/fillroundrect/)(double, double, double, double, double, double) | Fills a round rectangle. |
 | [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, DrFont, float, float) | Adds a text string by filling interrior of glyphs. |
 | [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_6)(string, Font, float, float) | Adds a text string by filling interrior of glyphs. |
 | [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, DrFont, float, float, Brush) | Adds a text string by filling interrior of glyphs. |

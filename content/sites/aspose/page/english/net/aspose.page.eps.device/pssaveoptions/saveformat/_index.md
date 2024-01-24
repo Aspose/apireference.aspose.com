@@ -11,7 +11,7 @@ url: /net/aspose.page.eps.device/pssaveoptions/saveformat/
 The save format of resulting file.
 
 ```csharp
-public #=zuqdiob8BtlCxpcxJUa4ELR1hCrM2WRr9kw== SaveFormat { get; set; }
+public #=z21PDVBVWHGm6_D9_TDVah2ljQFz114$1sA== SaveFormat { get; set; }
 ```
 
 ### See Also

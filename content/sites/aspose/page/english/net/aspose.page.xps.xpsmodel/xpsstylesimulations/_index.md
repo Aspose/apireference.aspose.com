@@ -3,7 +3,7 @@ title: Enum XpsStyleSimulations
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsModel.XpsStyleSimulations enum. Valid values of Glyphs elements StyleSimulations property
 type: docs
-weight: 3600
+weight: 3610
 url: /net/aspose.page.xps.xpsmodel/xpsstylesimulations/
 ---
 ## XpsStyleSimulations enumeration
