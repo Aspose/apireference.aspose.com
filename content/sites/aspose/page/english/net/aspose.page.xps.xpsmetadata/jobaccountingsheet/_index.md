@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet class. Describes the accounting sheet to be output for the job. The accounting sheet should be output on the default PageMediaSize and using the default PageMediaType. The accounting sheet should to be isolated from the remainder of the job. This means that any finishing or processing options such as
 type: docs
-weight: 1360
+weight: 1370
 url: /net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

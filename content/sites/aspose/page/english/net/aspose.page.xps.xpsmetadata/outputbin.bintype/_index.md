@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType class. Defines constants for the
 type: docs
-weight: 1900
+weight: 1910
 url: /net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

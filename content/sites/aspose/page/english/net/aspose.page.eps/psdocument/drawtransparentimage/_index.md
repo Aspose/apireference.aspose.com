@@ -3,7 +3,7 @@ title: PsDocument.DrawTransparentImage
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draw transformed transparent image. If image doesnt have Alpha channel it will be drawn as opaque image
 type: docs
-weight: 120
+weight: 190
 url: /net/aspose.page.eps/psdocument/drawtransparentimage/
 ---
 ## PsDocument.DrawTransparentImage method

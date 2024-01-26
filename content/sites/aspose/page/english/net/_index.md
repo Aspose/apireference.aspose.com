@@ -22,6 +22,7 @@ is_root: true
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | The **Aspose.Page.Xps.Presentation** namespace provides base classes for rendering XPS document to other formats. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | The **Aspose.Page.Xps.Presentation.Image** namespace provides classes for rendering XPS document to an image. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | The **Aspose.Page.Xps.Presentation.Pdf** namespace provides classes for rendering XPS document to PDF document. |
+| [Aspose.Page.XPS.Presentation.Ps](./aspose.page.xps.presentation.ps/) | The **Aspose.Page.Ps.Presentation.Ps** namespace provides classes for rendering XPS document to PostScript. |
 | [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | The **Aspose.Page.Xps.XpsMetadata** namespace provides classes that describe metadata of XPS document. |
 | [Aspose.Page.XPS.XpsModel](./aspose.page.xps.xpsmodel/) | The **Aspose.Page.Xps.XpsModel** namespace provides classes that describe elements of XPS document. |
 

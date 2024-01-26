@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.Xps.XpsModel namespace provides classes that describe elements of XPS document
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.page.xps.xpsmodel/
 ---
 The **Aspose.Page.Xps.XpsModel** namespace provides classes that describe elements of XPS document.
