@@ -39,6 +39,7 @@ Main class for recognize text from images.
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String-) | Corrects text (replaces misspelled words). |
 | [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
+| [RecognizeHandwrittenText(OcrInput input)](#RecognizeHandwrittenText-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes handwritten text on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [Recognize(OcrInput input)](#Recognize-com.aspose.ocr.OcrInput-) | Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizeStreetPhoto(OcrInput input)](#RecognizeStreetPhoto-com.aspose.ocr.OcrInput-) | Recognizes text on street photos. |
 | [RecognizeFast(OcrInput input)](#RecognizeFast-com.aspose.ocr.OcrInput-) | Recognizes text on good quality image. |
