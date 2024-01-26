@@ -1,0 +1,27 @@
+﻿---
+title: debug property
+second_title: Aspose.Page for Python via .NET API References
+description: 
+type: docs
+weight: 50
+url: /python-net/aspose.page.eps.device/pssaveoptions/debug/
+is_root: false
+---
+
+## debug property
+
+
+Specifies whether debug information must be printed to standard output stream or not.
+### Definition:
+```python
+@property
+def debug(self):
+    ...
+@debug.setter
+def debug(self, value):
+    ...
+```
+
+### See Also
+* module [`aspose.page.eps.device`](../../)
+* class [`PsSaveOptions`](/page/python-net/aspose.page.eps.device/pssaveoptions)

@@ -1,0 +1,20 @@
+﻿---
+title: aspose.page.xps
+second_title: Aspose.Page for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.page.xps/
+is_root: false
+---
+
+The **Aspose.Page.XPS**  is a root namespace for all classes that deal with XPS document.
+
+### Classes
+| Class | Description |
+| :- | :- |
+| [`LoadOptions`](/page/python-net/aspose.page.xps/loadoptions) | Basic class for document loading options. |
+| [`XpsDocument`](/page/python-net/aspose.page.xps/xpsdocument) | Class incapsulating the main entity of XPS document that provides manipulation<br/>methods for any XPS element. |
+| [`XpsLoadOptions`](/page/python-net/aspose.page.xps/xpsloadoptions) | XPS document loading options. |
+
+
