@@ -21,6 +21,7 @@ Aspose.TeX, TeX dosya dizgisi için bir .NET kütüphanesidir. TeX girdisini XPS
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Aspose.TeX for .NET API Referansı](/tex/tr/net/)
+- [.NET API Eğitimleri için Aspose.TeX](/tutorials/tex/tr/net/)
 
 
 ## Java için Aspose.TeX
@@ -36,6 +37,7 @@ Aspose.TeX, TeX dosya dizgisi için bir Java kütüphanesidir. TeX girdisini XPS
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Java API Referansı için Aspose.TeX](/tex/java/)
+- [Java API Eğitimleri için Aspose.TeX](/tutorials/tex/tr/java/)
 
 
 ## C++ için Aspose.TeX

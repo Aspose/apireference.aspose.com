@@ -21,6 +21,7 @@ Aspose.TeX är ett .NET-bibliotek för typsättning av TeX-filer. Den kan presen
 
 Det här är länkar till några användbara resurser:
 - [Aspose.TeX för .NET API-referens](/tex/sv/net/)
+- [Handledning för Aspose.TeX för .NET API](/tutorials/tex/sv/net/)
 
 
 ## Aspose.TeX för Java
@@ -36,6 +37,7 @@ Aspose.TeX är ett Java-bibliotek för typsättning av TeX-filer. Den kan presen
 
 Det här är länkar till några användbara resurser:
 - [Aspose.TeX för Java API Referens](/tex/java/)
+- [Tutorials för Aspose.TeX för Java API](/tutorials/tex/sv/java/)
 
 
 ## Aspose.TeX för C++

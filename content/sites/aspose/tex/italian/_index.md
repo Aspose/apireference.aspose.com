@@ -21,6 +21,7 @@ Aspose.TeX è una libreria .NET per la composizione di file TeX. Può presentare
 
 Questi sono i link ad alcune risorse utili:
 - [Riferimento API Aspose.TeX per .NET](/tex/it/net/)
+- [Aspose.TeX per tutorial sull'API .NET](/tutorials/tex/it/net/)
 
 
 ## Aspose.TeX per Java
@@ -36,6 +37,7 @@ Aspose.TeX è una libreria Java per la composizione di file TeX. Può presentare
 
 Questi sono i link ad alcune risorse utili:
 - [Riferimento all'API di Aspose.TeX per Java](/tex/java/)
+- [Aspose.TeX per tutorial API Java](/tutorials/tex/it/java/)
 
 
 ## Aspose.TeX per C++

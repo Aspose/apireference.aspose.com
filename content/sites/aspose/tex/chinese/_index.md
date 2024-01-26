@@ -21,7 +21,7 @@ Aspose.TeX 是一个用于 TeX 文件排版的 .NET 库。 它可以以各种图
 
 这些是一些有用资源的链接：
 - [Aspose.TeX for .NET API 参考](/tex/zh/net/)
-
+- [Aspose.TeX for .NET API 教程](/tutorials/tex/zh/net/)
 
 ## Aspose.TeX for Java
 
@@ -36,6 +36,7 @@ Aspose.TeX 是一个用于 TeX 文件排版的 Java 库。 它可以以各种图
 
 这些是一些有用资源的链接：
 - [Aspose.TeX for Java API 参考](/tex/java/)
+- [Aspose.TeX Java API 教程](/tutorials/tex/zh/java/)
 
 
 ## Aspose.TeX for C++

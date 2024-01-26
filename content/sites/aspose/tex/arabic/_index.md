@@ -21,6 +21,7 @@ Aspose.TeX هي مكتبة .NET لتنضيد ملفات TeX. يمكنه تقدي
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.TeX لمرجع .NET API](/tex/ar/net/)
+- [Aspose.TeX لبرامج .NET API التعليمية](/tutorials/tex/ar/net/)
 
 
 ## Aspose.TeX للجافا
@@ -36,6 +37,7 @@ Aspose.TeX هي مكتبة جافا لتنضيد ملفات TeX. يمكنه تق
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.TeX لمرجع Java API](/tex/java/)
+- [Aspose.TeX لبرامج Java API التعليمية](/tutorials/tex/ar/java/)
 
 
 ## Aspose.TeX لـ C ++

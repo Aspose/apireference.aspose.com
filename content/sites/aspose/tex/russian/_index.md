@@ -21,6 +21,7 @@ Aspose.TeX — это библиотека .NET для набора файлов
 
 Это ссылки на некоторые полезные ресурсы:
 - [Справочник по API Aspose.TeX для .NET](/tex/ru/net/)
+- [Учебные пособия по Aspose.TeX для .NET API](/tutorials/tex/ru/net/)
 
 
 ## Aspose.TeX для Java
@@ -36,6 +37,7 @@ Aspose.TeX — это библиотека Java для набора файлов
 
 Это ссылки на некоторые полезные ресурсы:
 - [Справочник по API Aspose.TeX для Java](/tex/java/)
+- [Учебные пособия по Aspose.TeX для Java API](/tutorials/tex/ru/java/)
 
 
 ## Aspose.TeX для C++
