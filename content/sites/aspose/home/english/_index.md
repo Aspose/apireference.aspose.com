@@ -216,7 +216,7 @@ Load, create or edit Photoshop PSD & PSB files in your application. Currently av
 
 {{< blocks/product-item title=".NET" href="/psd/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/psd/java/" class="btn-java" >}}
-
+{{< blocks/product-item title="Python" href="/psd/python-net/" class="btn-python" >}}
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.OMR**" href="omr" >}}
