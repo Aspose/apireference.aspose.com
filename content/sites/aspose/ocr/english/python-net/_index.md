@@ -1,5 +1,5 @@
 ---
-title: Aspose.ocr for Python via .NET
+title: Aspose.OCR for Python via .NET
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
