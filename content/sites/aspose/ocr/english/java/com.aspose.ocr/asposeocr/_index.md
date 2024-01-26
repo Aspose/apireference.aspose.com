@@ -346,6 +346,18 @@ java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list w
 public ArrayList<RecognitionResult> RecognizeStreetPhoto(OcrInput input)
 ```
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### RecognizeHandwrittenText(OcrInput input) {#RecognizeHandwrittenText-com.aspose.ocr.OcrInput-}
+```
+public ArrayList<RecognitionResult> RecognizeHandwrittenText(OcrInput input)
+```
+
 
 Recognizes text on street photos. Extract text from street photos, traffic camera images, ID cards, driver licenses, and other images with sparse text and noisy/colored backgrounds. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
 
