@@ -21,6 +21,7 @@ Aspose.TeX is a .NET library for TeX files typesetting. It can present TeX input
 
 These are links to some useful resources:
 - [Aspose.TeX for .NET API Reference](/tex/net/)
+- [Aspose.TeX for .NET API Tutorials](/tutorials/words/net/)
 
 
 ## Aspose.TeX for Java
@@ -36,6 +37,7 @@ Aspose.TeX is a Java library for TeX files typesetting. It can present TeX input
 
 These are links to some useful resources:
 - [Aspose.TeX for Java API Reference](/tex/java/)
+- [Aspose.TeX for Java API Tutorials](/tutorials/tex/java/)
 
 
 ## Aspose.TeX for C++

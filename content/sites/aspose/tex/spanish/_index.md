@@ -21,6 +21,7 @@ Aspose.TeX es una biblioteca .NET para la composición tipográfica de archivos 
 
 Estos son enlaces a algunos recursos útiles:
 - [Referencia de la API de Aspose.TeX para .NET](/tex/es/net/)
+- [Tutoriales de API de Aspose.TeX para .NET](/tutorials/tex/es/net/)
 
 
 ## Aspose.TeX para Java
@@ -36,6 +37,7 @@ Aspose.TeX es una biblioteca Java para la composición tipográfica de archivos 
 
 Estos son enlaces a algunos recursos útiles:
 - [Referencia de la API de Aspose.TeX para Java](/tex/java/)
+- [Tutoriales de API de Aspose.TeX para Java](/tutorials/tex/es/java/)
 
 
 ## Aspose.TeX para C++

@@ -21,6 +21,7 @@ Aspose.TeX ist eine .NET-Bibliothek für den Satz von TeX-Dateien. Es kann TeX-E
 
 Dies sind Links zu einigen nützlichen Ressourcen:
 - [Aspose.TeX für .NET-API-Referenz](/tex/de/net/)
+- [Aspose.TeX für .NET API-Tutorials](/tutorials/tex/de/net/)
 
 
 ## Aspose.TeX für Java
@@ -36,6 +37,7 @@ Aspose.TeX ist eine Java-Bibliothek für den Satz von TeX-Dateien. Es kann TeX-E
 
 Dies sind Links zu einigen nützlichen Ressourcen:
 - [Aspose.TeX für Java-API-Referenz](/tex/java/)
+- [Aspose.TeX für Java API-Tutorials](/tutorials/tex/de/java/)
 
 
 ## Aspose.TeX für C++
