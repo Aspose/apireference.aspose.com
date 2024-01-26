@@ -242,6 +242,7 @@ Create or manipulate XPS files and convert XPS, PS & EPS files to PDF and image 
 {{< blocks/product-item title=".NET" href="/page/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/page/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/page/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="Python" href="/page/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
