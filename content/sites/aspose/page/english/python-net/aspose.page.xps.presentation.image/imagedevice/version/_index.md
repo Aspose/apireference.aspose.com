@@ -3,7 +3,7 @@ title: version property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 630
 url: /python-net/aspose.page.xps.presentation.image/imagedevice/version/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: values property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 240
 url: /python-net/aspose.page.eps.xmp/xmpmetadata/values/
 is_root: false
 ---

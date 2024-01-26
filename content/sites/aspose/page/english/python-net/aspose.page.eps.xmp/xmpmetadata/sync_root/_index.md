@@ -3,7 +3,7 @@ title: sync_root property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /python-net/aspose.page.eps.xmp/xmpmetadata/sync_root/
 is_root: false
 ---

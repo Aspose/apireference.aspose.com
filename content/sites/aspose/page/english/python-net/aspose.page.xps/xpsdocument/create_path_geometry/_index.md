@@ -27,23 +27,6 @@ def create_path_geometry(self):
 
 
 
-## create_path_geometry {#System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathFigure>}
-
-
-
-
-
-```python
-def create_path_geometry(self, path_figures):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| path_figures | System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathFigure> |  |
-
-
 ## create_path_geometry {#str}
 
 Creates a new path geometry specified with abbreviated form.
@@ -64,6 +47,23 @@ def create_path_geometry(self, abbreviated_geometry):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | abbreviated_geometry | str | Abbreviated form of path geometry. |
+
+
+## create_path_geometry {#System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathFigure>}
+
+
+
+
+
+```python
+def create_path_geometry(self, path_figures):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| path_figures | System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathFigure> |  |
 
 
 

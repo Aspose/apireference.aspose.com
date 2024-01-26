@@ -42,6 +42,8 @@ The XmpMetadata type exposes the following members:
 | [clear](/page/python-net/aspose.page.eps.xmp/xmpmetadata/clear/#) | Clears metadata. |
 | [contains](/page/python-net/aspose.page.eps.xmp/xmpmetadata/contains/#str) | Checks does key is contained in metadata. |
 | [remove](/page/python-net/aspose.page.eps.xmp/xmpmetadata/remove/#str) | Removes entry from metadata. |
+| [get_value](/page/python-net/aspose.page.eps.xmp/xmpmetadata/get_value/#str) | Gets data from metadata. |
+| [set_value](/page/python-net/aspose.page.eps.xmp/xmpmetadata/set_value/#str-aspose.page.eps.xmp.XmpValue) | Sets data to metadata. |
 | [contains_key](/page/python-net/aspose.page.eps.xmp/xmpmetadata/contains_key/#str) | Determines does this dictionary contasins specified key. |
 | [try_get_value](/page/python-net/aspose.page.eps.xmp/xmpmetadata/try_get_value/#str-any) | Tries to find key in the dictionary and retreives value if found. |
 | [set_array_item](/page/python-net/aspose.page.eps.xmp/xmpmetadata/set_array_item/#str-int-aspose.page.eps.xmp.XmpValue) | Sets value in an array. Previous value will be replaced with new one. |

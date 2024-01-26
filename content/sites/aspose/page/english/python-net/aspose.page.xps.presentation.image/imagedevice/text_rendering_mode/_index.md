@@ -3,7 +3,7 @@ title: text_rendering_mode property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 610
 url: /python-net/aspose.page.xps.presentation.image/imagedevice/text_rendering_mode/
 is_root: false
 ---

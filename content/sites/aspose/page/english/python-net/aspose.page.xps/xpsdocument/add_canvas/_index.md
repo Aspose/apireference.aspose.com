@@ -27,6 +27,28 @@ def add_canvas(self):
 
 
 
+## add_canvas {#aspose.page.xps.xpsmodel.XpsCanvas}
+
+Adds a canvas
+
+
+### Returns 
+
+
+Added canvas.
+
+
+```python
+def add_canvas(self, element):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| element | aspose.page.xps.xpsmodel.XpsCanvas | The canvas to be added. |
+
+
 
 ### See Also
 * module [`aspose.page.xps`](../../)

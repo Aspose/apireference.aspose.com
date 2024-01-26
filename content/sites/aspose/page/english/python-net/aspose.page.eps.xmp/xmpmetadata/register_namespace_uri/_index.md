@@ -3,7 +3,7 @@ title: register_namespace_uri method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /python-net/aspose.page.eps.xmp/xmpmetadata/register_namespace_uri/
 is_root: false
 ---

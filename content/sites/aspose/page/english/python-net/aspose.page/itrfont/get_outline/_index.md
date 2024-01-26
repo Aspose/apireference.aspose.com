@@ -3,7 +3,7 @@ title: get_outline method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 30
 url: /python-net/aspose.page/itrfont/get_outline/
 is_root: false
 ---

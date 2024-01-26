@@ -3,7 +3,7 @@ title: SaveOptions class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.page/saveoptions/
 is_root: false
 ---

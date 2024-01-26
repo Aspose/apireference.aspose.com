@@ -3,7 +3,7 @@ title: stroke property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 760
 url: /python-net/aspose.page.eps.device/pdfdevice/stroke/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: opacity_mask property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 570
+weight: 560
 url: /python-net/aspose.page.xps.presentation.image/imagedevice/opacity_mask/
 is_root: false
 ---

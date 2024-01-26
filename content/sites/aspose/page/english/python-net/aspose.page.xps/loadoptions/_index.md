@@ -3,7 +3,7 @@ title: LoadOptions class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /python-net/aspose.page.xps/loadoptions/
 is_root: false
 ---

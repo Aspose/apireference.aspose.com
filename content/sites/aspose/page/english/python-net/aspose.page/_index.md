@@ -17,10 +17,11 @@ The **Aspose.Page**  is a root namespace for all classes of Aspose.Page library 
 | [`Device`](/page/python-net/aspose.page/device) | This class encapsulates rendering of document to abstract device.<br/>Rendering of the document is performed page by page. |
 | [`Document`](/page/python-net/aspose.page/document) | A superclass for all encapsulated documents. |
 | [`ExternalFontCache`](/page/python-net/aspose.page/externalfontcache) | Use this class to obtain font encapsulation in a form that is accepted by [`Device`](/page/python-net/aspose.page/device). |
+| [`GraphicsFactory`](/page/python-net/aspose.page/graphicsfactory) | This class statically creates common graphics objects. |
 | [`IGlyph`](/page/python-net/aspose.page/iglyph) | This interface give access to main parameters of glyphs. |
 | [`IMultiPageDevice`](/page/python-net/aspose.page/imultipagedevice) | This interface contains methods for manipulating multi-paged device. |
 | [`IStreamable`](/page/python-net/aspose.page/istreamable) | This interface is used for dervices that renders document to a stream. |
-| [`ITrFont`](/page/python-net/aspose.page/itrfont) | This interface give access to main parameters of font. |
+| [`ITrFont`](/page/python-net/aspose.page/itrfont) | This interface gives access to main parameters of font. |
 | [`License`](/page/python-net/aspose.page/license) | Provides methods to license the component. |
 | [`Margins`](/page/python-net/aspose.page/margins) | This class encapsulates top, left, bottom and right margins. |
 | [`Metered`](/page/python-net/aspose.page/metered) | Provides methods to set metered key. |

@@ -26,7 +26,7 @@ The ExternalFontCache type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [fetch_dr_font](/page/python-net/aspose.page/externalfontcache/fetch_dr_font/#str-float-aspose.pydrawing.FontStyle) | Fetches [`DrFont`](/page/python-net/aspose.page.font/drfont) by font family name, size and style. |
-| [fetch_dr_font](/page/python-net/aspose.page/externalfontcache/fetch_dr_font/#str-float-aspose.pydrawing.FontStyle-str) | Fetches [`DrFont`](/page/python-net/aspose.page.font/drfont) by font family name, size, style and alternative font family name. |
+| [create_font_by_family_name](/page/python-net/aspose.page/externalfontcache/create_font_by_family_name/#str-float-aspose.pydrawing.FontStyle) | Creates Font by font family name, style and size. |
 
 
 

@@ -3,7 +3,7 @@ title: native_font property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 100
 url: /python-net/aspose.page/itrfont/native_font/
 is_root: false
 ---

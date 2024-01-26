@@ -28,7 +28,6 @@ The Device type exposes the following members:
 | [stroke](/page/python-net/aspose.page/device/stroke) | Returns or specifies current stroke. |
 | [paint](/page/python-net/aspose.page/device/paint) | Returns or specifies current paint. |
 | [opacity_mask](/page/python-net/aspose.page/device/opacity_mask) | Returns or specifies current opacity mask. |
-| [font](/page/python-net/aspose.page/device/font) | Returns or specifies current font. |
 | [char_tm](/page/python-net/aspose.page/device/char_tm) | Returns or specifies current characters transform. |
 | [text_rendering_mode](/page/python-net/aspose.page/device/text_rendering_mode) | Returns or specifies current text rendering mode. |
 | [text_stroke_width](/page/python-net/aspose.page/device/text_stroke_width) | Returns or specifies current text stroke width. |

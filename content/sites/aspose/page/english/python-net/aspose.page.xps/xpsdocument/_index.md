@@ -3,7 +3,7 @@ title: XpsDocument class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /python-net/aspose.page.xps/xpsdocument/
 is_root: false
 ---
@@ -34,6 +34,7 @@ The XpsDocument type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [utils](/page/python-net/aspose.page.xps/xpsdocument/utils) | Gets the object that provides utilities beyond the formal XPS manipulation API. |
 | [active_document](/page/python-net/aspose.page.xps/xpsdocument/active_document) | Gets the active document number. |
 | [active_page](/page/python-net/aspose.page.xps/xpsdocument/active_page) | Gets the active page number within the active document. |
 | [page](/page/python-net/aspose.page.xps/xpsdocument/page) | Returns an [`XpsPage`](/page/python-net/aspose.page.xps.xpsmodel/xpspage) instance for active page. |
@@ -51,6 +52,13 @@ The XpsDocument type exposes the following members:
 | [save](/page/python-net/aspose.page.xps/xpsdocument/save/#aspose.page.Device-aspose.page.SaveOptions) | Saves the document using the [`Device`](/page/python-net/aspose.page/device) instance. |
 | [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-aspose.page.Device-aspose.page.SaveOptions) | Merging XPS documents to PDF using the [`Device`](/page/python-net/aspose.page/device) instance. |
 | [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-io.RawIOBase) | Merging several XPS files to one XPS document. |
+| [add_canvas](/page/python-net/aspose.page.xps/xpsdocument/add_canvas/#aspose.page.xps.xpsmodel.XpsCanvas) | Adds a canvas |
+| [add_canvas](/page/python-net/aspose.page.xps/xpsdocument/add_canvas/#) | Adds a new canvas to the active page. |
+| [add_path](/page/python-net/aspose.page.xps/xpsdocument/add_path/#aspose.page.xps.xpsmodel.XpsPath) | Adds a path element |
+| [add_path](/page/python-net/aspose.page.xps/xpsdocument/add_path/#aspose.page.xps.xpsmodel.XpsPathGeometry) | Adds a new path to the active page. |
+| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#aspose.page.xps.xpsmodel.XpsGlyphs) | Adds a glyphs element |
+| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#str-float-aspose.pydrawing.FontStyle-float-float-str) | Adds new glyphs to the active page. |
+| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#aspose.page.xps.xpsmodel.XpsFont-float-float-float-str) | Adds new glyphs to the active page. |
 | [add_document](/page/python-net/aspose.page.xps/xpsdocument/add_document/#bool) | Adds an empty document with default page size. |
 | [add_document](/page/python-net/aspose.page.xps/xpsdocument/add_document/#float-float-bool) | Adds an empty document with the first page dimensions<br/>`width` and `height`. |
 | [insert_document](/page/python-net/aspose.page.xps/xpsdocument/insert_document/#int-bool) | Inserts an empty document with default page size<br/>at `index` position. |
@@ -63,13 +71,11 @@ The XpsDocument type exposes the following members:
 | [insert_page](/page/python-net/aspose.page.xps/xpsdocument/insert_page/#int-aspose.page.xps.xpsmodel.XpsPage-bool) | Inserts a page to the document at `index` position. |
 | [create_glyphs](/page/python-net/aspose.page.xps/xpsdocument/create_glyphs/#str-float-aspose.pydrawing.FontStyle-float-float-str) | Creates new glyphs. |
 | [create_glyphs](/page/python-net/aspose.page.xps/xpsdocument/create_glyphs/#aspose.page.xps.xpsmodel.XpsFont-float-float-float-str) | Creates new glyphs. |
-| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#str-float-aspose.pydrawing.FontStyle-float-float-str) | Adds new glyphs to the active page. |
-| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#aspose.page.xps.xpsmodel.XpsFont-float-float-float-str) | Adds new glyphs to the active page. |
 | [insert_glyphs](/page/python-net/aspose.page.xps/xpsdocument/insert_glyphs/#int-str-float-aspose.pydrawing.FontStyle-float-float-str) | Inserts new glyphs to the active page at `index` position. |
 | [insert_glyphs](/page/python-net/aspose.page.xps/xpsdocument/insert_glyphs/#int-aspose.page.xps.xpsmodel.XpsFont-float-float-float-str) | Inserts new glyphs to the active page at `index` position. |
+| [create_path_geometry](/page/python-net/aspose.page.xps/xpsdocument/create_path_geometry/#str) | Creates a new path geometry specified with abbreviated form. |
 | [create_path_geometry](/page/python-net/aspose.page.xps/xpsdocument/create_path_geometry/#) | Creates a new path geometry. |
 | [create_path_geometry](/page/python-net/aspose.page.xps/xpsdocument/create_path_geometry/#System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathFigure>) |  |
-| [create_path_geometry](/page/python-net/aspose.page.xps/xpsdocument/create_path_geometry/#str) | Creates a new path geometry specified with abbreviated form. |
 | [create_path_figure](/page/python-net/aspose.page.xps/xpsdocument/create_path_figure/#aspose.pydrawing.PointF-bool) | Creates a new path figure. |
 | [create_path_figure](/page/python-net/aspose.page.xps/xpsdocument/create_path_figure/#aspose.pydrawing.PointF-System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathSegment>-bool) |  |
 | [create_solid_color_brush](/page/python-net/aspose.page.xps/xpsdocument/create_solid_color_brush/#aspose.page.xps.xpsmodel.XpsColor) | Creates a new solid color brush. |
@@ -106,10 +112,8 @@ The XpsDocument type exposes the following members:
 | [remove_page](/page/python-net/aspose.page.xps/xpsdocument/remove_page/#aspose.page.xps.xpsmodel.XpsPage) | Removes a page from the document. |
 | [remove_page_at](/page/python-net/aspose.page.xps/xpsdocument/remove_page_at/#int) | Removes a page from the document at `index` position. |
 | [create_canvas](/page/python-net/aspose.page.xps/xpsdocument/create_canvas/#) | Creates a new canvas. |
-| [add_canvas](/page/python-net/aspose.page.xps/xpsdocument/add_canvas/#) | Adds a new canvas to the active page. |
 | [insert_canvas](/page/python-net/aspose.page.xps/xpsdocument/insert_canvas/#int) | Inserts a new canvas to the active page at `index` position. |
 | [create_path](/page/python-net/aspose.page.xps/xpsdocument/create_path/#aspose.page.xps.xpsmodel.XpsPathGeometry) | Creates a new path. |
-| [add_path](/page/python-net/aspose.page.xps/xpsdocument/add_path/#aspose.page.xps.xpsmodel.XpsPathGeometry) | Adds a new path to the active page. |
 | [insert_path](/page/python-net/aspose.page.xps/xpsdocument/insert_path/#int-aspose.page.xps.xpsmodel.XpsPathGeometry) | Inserts a new path to the active page at `index` position. |
 | [create_matrix](/page/python-net/aspose.page.xps/xpsdocument/create_matrix/#float-float-float-float-float-float) | Creates a new affine transformation matrix. |
 | [create_arc_segment](/page/python-net/aspose.page.xps/xpsdocument/create_arc_segment/#aspose.pydrawing.PointF-aspose.pydrawing.SizeF-float-bool-aspose.page.xps.xpsmodel.XpsSweepDirection-bool) | Creates a new elliptical arc segment. |

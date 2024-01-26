@@ -3,7 +3,7 @@ title: is_direct_rgb property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 640
 url: /python-net/aspose.page.eps.device/imagedevice/is_direct_rgb/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: text_rendering_mode property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 770
 url: /python-net/aspose.page.eps.device/pdfdevice/text_rendering_mode/
 is_root: false
 ---

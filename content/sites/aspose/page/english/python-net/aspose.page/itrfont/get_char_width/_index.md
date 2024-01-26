@@ -3,7 +3,7 @@ title: get_char_width method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 20
 url: /python-net/aspose.page/itrfont/get_char_width/
 is_root: false
 ---

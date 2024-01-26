@@ -3,7 +3,7 @@ title: is_fixed_size property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 190
 url: /python-net/aspose.page.eps.xmp/xmpmetadata/is_fixed_size/
 is_root: false
 ---

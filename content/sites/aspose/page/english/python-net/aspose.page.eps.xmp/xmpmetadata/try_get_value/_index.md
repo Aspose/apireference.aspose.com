@@ -3,7 +3,7 @@ title: try_get_value method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /python-net/aspose.page.eps.xmp/xmpmetadata/try_get_value/
 is_root: false
 ---

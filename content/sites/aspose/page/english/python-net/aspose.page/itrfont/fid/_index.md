@@ -3,7 +3,7 @@ title: fid property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 70
 url: /python-net/aspose.page/itrfont/fid/
 is_root: false
 ---

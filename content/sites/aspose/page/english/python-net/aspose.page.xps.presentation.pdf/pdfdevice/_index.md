@@ -39,7 +39,6 @@ The PdfDevice type exposes the following members:
 | [stroke](/page/python-net/aspose.page.xps.presentation.pdf/pdfdevice/stroke) | Gets/sets the stroke for drawing paths. |
 | [paint](/page/python-net/aspose.page.xps.presentation.pdf/pdfdevice/paint) | Gets/sets the brush for filling paths. |
 | [opacity_mask](/page/python-net/aspose.page.xps.presentation.pdf/pdfdevice/opacity_mask) | Gets/sets the brush for opacity mask. The mask applies over Paint or Strike. |
-| [font](/page/python-net/aspose.page.xps.presentation.pdf/pdfdevice/font) | Gets/sets the current font. |
 | [char_tm](/page/python-net/aspose.page.xps.presentation.pdf/pdfdevice/char_tm) | Returns or specifies current characters transform. |
 | [text_rendering_mode](/page/python-net/aspose.page.xps.presentation.pdf/pdfdevice/text_rendering_mode) | Returns or specifies current text rendering mode. |
 | [text_stroke_width](/page/python-net/aspose.page.xps.presentation.pdf/pdfdevice/text_stroke_width) | Returns or specifies current text stroke width. |

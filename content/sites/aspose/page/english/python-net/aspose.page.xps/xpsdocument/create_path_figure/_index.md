@@ -28,7 +28,7 @@ def create_path_figure(self, start_point, is_closed):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | start_point | aspose.pydrawing.PointF | The starting point for the first segment of the path figure. |
-| is_closed | bool | Specifies whether the path is closed. If set to true, the stroke is drawn<br/>"closed," that is, the last point in the last segment of the path figure is connected with<br/>the point specified in the StartPoint attribute, otherwise the stroke is drawn "open," and<br/>the last point is not connected to the start point. Only applicable if the path figure is<br/>used in a {Path} element that specifies a stroke. |
+| is_closed | bool | Specifies whether the path is closed. If set to true, the stroke is drawn<br/>"closed", that is, the last point in the last segment of the path figure is connected with<br/>the point specified in the StartPoint attribute, otherwise the stroke is drawn "open", and<br/>the last point is not connected to the start point. Only applicable if the path figure is<br/>used in a Path element that specifies a stroke. |
 
 
 ## create_path_figure {#aspose.pydrawing.PointF-System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathSegment>-bool}

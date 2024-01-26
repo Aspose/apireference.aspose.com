@@ -39,7 +39,6 @@ The PdfDevice type exposes the following members:
 | [stroke](/page/python-net/aspose.page.eps.device/pdfdevice/stroke) | Returns or specifies current stroke. |
 | [paint](/page/python-net/aspose.page.eps.device/pdfdevice/paint) | Returns or specifies current paint. |
 | [opacity_mask](/page/python-net/aspose.page.eps.device/pdfdevice/opacity_mask) | Returns or specifies current opacity mask. |
-| [font](/page/python-net/aspose.page.eps.device/pdfdevice/font) | Specifies current font. |
 | [char_tm](/page/python-net/aspose.page.eps.device/pdfdevice/char_tm) | Returns or specifies current characters transform. |
 | [text_rendering_mode](/page/python-net/aspose.page.eps.device/pdfdevice/text_rendering_mode) | Returns or specifies current text rendering mode. |
 | [text_stroke_width](/page/python-net/aspose.page.eps.device/pdfdevice/text_stroke_width) | Returns or specifies current text stroke width. |

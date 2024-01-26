@@ -3,7 +3,7 @@ title: set_array_item method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.page.eps.xmp/xmpmetadata/set_array_item/
 is_root: false
 ---

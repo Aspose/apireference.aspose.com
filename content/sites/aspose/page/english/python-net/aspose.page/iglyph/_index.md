@@ -3,7 +3,7 @@ title: IGlyph class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /python-net/aspose.page/iglyph/
 is_root: false
 ---

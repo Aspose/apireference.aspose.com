@@ -3,7 +3,7 @@ title: encoding property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 50
 url: /python-net/aspose.page/itrfont/encoding/
 is_root: false
 ---

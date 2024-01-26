@@ -3,7 +3,7 @@ title: opacity property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 570
 url: /python-net/aspose.page.xps.presentation.pdf/pdfdevice/opacity/
 is_root: false
 ---

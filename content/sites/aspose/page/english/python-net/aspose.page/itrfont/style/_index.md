@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 120
 url: /python-net/aspose.page/itrfont/style/
 is_root: false
 ---

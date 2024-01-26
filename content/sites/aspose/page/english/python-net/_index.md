@@ -22,6 +22,7 @@ is_root: true
 | [`aspose.page.xps.presentation`](/page/python-net/aspose.page.xps.presentation) | The **Aspose.Page.Xps.Presentation**  namespace provides base classes for rendering XPS<br/>document to other formats. |
 | [`aspose.page.xps.presentation.image`](/page/python-net/aspose.page.xps.presentation.image) | The **Aspose.Page.Xps.Presentation.Image**  namespace provides classes for rendering XPS<br/>document to an image. |
 | [`aspose.page.xps.presentation.pdf`](/page/python-net/aspose.page.xps.presentation.pdf) | The **Aspose.Page.Xps.Presentation.Pdf**  namespace provides classes for rendering XPS<br/>document to PDF document. |
+| [`aspose.page.xps.presentation.ps`](/page/python-net/aspose.page.xps.presentation.ps) | The **Aspose.Page.Ps.Presentation.Ps**  namespace provides classes for rendering XPS<br/>document to PostScript. |
 | [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata) | The **Aspose.Page.Xps.XpsMetadata**  namespace provides classes that describe metadata of XPS document. |
 | [`aspose.page.xps.xpsmodel`](/page/python-net/aspose.page.xps.xpsmodel) | The **Aspose.Page.Xps.XpsModel**  namespace provides classes that describe elements of XPS document. |
 

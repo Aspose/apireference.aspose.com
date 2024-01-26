@@ -3,7 +3,7 @@ title: text_stroke_width property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 630
 url: /python-net/aspose.page.xps.presentation.pdf/pdfdevice/text_stroke_width/
 is_root: false
 ---

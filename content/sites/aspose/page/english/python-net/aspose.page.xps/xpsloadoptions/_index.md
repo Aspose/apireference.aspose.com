@@ -3,7 +3,7 @@ title: XpsLoadOptions class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /python-net/aspose.page.xps/xpsloadoptions/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: is_synchronized property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 210
 url: /python-net/aspose.page.eps.xmp/xmpmetadata/is_synchronized/
 is_root: false
 ---

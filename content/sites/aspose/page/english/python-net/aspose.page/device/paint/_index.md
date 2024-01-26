@@ -3,7 +3,7 @@ title: paint property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 490
 url: /python-net/aspose.page/device/paint/
 is_root: false
 ---

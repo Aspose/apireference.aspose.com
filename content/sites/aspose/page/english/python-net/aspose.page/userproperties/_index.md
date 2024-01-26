@@ -3,7 +3,7 @@ title: UserProperties class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.page/userproperties/
 is_root: false
 ---

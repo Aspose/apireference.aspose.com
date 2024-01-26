@@ -3,7 +3,7 @@ title: size property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 750
 url: /python-net/aspose.page.eps.device/pdfdevice/size/
 is_root: false
 ---

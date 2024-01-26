@@ -8,6 +8,28 @@ url: /python-net/aspose.page.xps/xpsdocument/add_glyphs/
 is_root: false
 ---
 
+## add_glyphs {#aspose.page.xps.xpsmodel.XpsGlyphs}
+
+Adds a glyphs element
+
+
+### Returns 
+
+
+Added glyphs element.
+
+
+```python
+def add_glyphs(self, element):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| element | aspose.page.xps.xpsmodel.XpsGlyphs | The glyphs element to be added. |
+
+
 ## add_glyphs {#aspose.page.xps.xpsmodel.XpsFont-float-float-float-str}
 
 Adds new glyphs to the active page.

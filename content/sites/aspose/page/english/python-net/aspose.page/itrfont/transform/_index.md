@@ -3,7 +3,7 @@ title: transform property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 130
 url: /python-net/aspose.page/itrfont/transform/
 is_root: false
 ---
