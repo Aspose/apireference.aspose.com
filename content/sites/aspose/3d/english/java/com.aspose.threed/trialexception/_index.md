@@ -19,6 +19,7 @@ This is raised in Scene.Open/Scene.Save when no licenses are applied. You can tu
 | Constructor | Description |
 | --- | --- |
 | [TrialException(String msg)](#TrialException-java.lang.String-) | Constructor of [TrialException](../../com.aspose.threed/trialexception) |
+| [TrialException()](#TrialException--) | Constructor of [TrialException](../../com.aspose.threed/trialexception) |
 ## Methods
 
 | Method | Description |
@@ -58,6 +59,14 @@ Constructor of [TrialException](../../com.aspose.threed/trialexception)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | msg | java.lang.String |  |
+
+### TrialException() {#TrialException--}
+```
+public TrialException()
+```
+
+
+Constructor of [TrialException](../../com.aspose.threed/trialexception)
 
 ### addSuppressed(Throwable arg0) {#addSuppressed-java.lang.Throwable-}
 ```

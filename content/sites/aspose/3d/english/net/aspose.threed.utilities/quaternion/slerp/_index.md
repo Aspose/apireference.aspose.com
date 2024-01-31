@@ -1,27 +1,24 @@
 ---
-title: op_Division
+title: Slerp
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 250
-url: /net/aspose.threed.utilities/quaternion/op_division/
+weight: 70
+url: /net/aspose.threed.utilities/quaternion/slerp/
 ---
-## Quaternion Division operator
+## Quaternion.Slerp method
 
-Operator overloading for /
+Perform spherical linear interpolation between two values
 
 ```csharp
-public static Quaternion operator /(Quaternion lhs, double rhs)
+public static Quaternion Slerp(double t, Quaternion v1, Quaternion v2)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lhs | Quaternion | Left quaternion |
-| rhs | Double | Right quaternion |
-
-### Return Value
-
-Result quaternion
+| t | Double | t is between 0 to 1 |
+| v1 | Quaternion | First value |
+| v2 | Quaternion | Second value |
 
 ### See Also
 

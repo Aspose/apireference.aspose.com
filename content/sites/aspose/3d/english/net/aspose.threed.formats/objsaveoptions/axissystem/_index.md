@@ -8,7 +8,7 @@ url: /net/aspose.threed.formats/objsaveoptions/axissystem/
 ---
 ## ObjSaveOptions.AxisSystem property
 
-Gets or sets the axis system in the exported stl file.
+Gets or sets the axis system in the exported file.
 
 ```csharp
 public AxisSystem AxisSystem { get; set; }

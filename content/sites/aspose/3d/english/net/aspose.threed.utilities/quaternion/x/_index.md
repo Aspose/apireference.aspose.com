@@ -3,7 +3,7 @@ title: X
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.threed.utilities/quaternion/x/
 ---
 ## Quaternion.X field

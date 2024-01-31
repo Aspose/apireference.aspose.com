@@ -8,7 +8,7 @@ url: /net/aspose.threed.animation/animationnode/findbindpoint/
 ---
 ## AnimationNode.FindBindPoint method
 
-Finds the bind point by name.
+Finds the bind point by target and name.
 
 ```csharp
 public BindPoint FindBindPoint(A3DObject target, string name)

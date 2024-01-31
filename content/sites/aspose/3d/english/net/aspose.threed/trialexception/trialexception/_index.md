@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.threed/trialexception/trialexception/
 ---
-## TrialException constructor
+## TrialException constructor (1 of 2)
 
 Constructor of [`TrialException`](../../trialexception)
 
@@ -17,6 +17,22 @@ public TrialException(string msg)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | msg | String |  |
+
+### See Also
+
+* class [TrialException](../../trialexception)
+* namespace [Aspose.ThreeD](../../trialexception)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## TrialException constructor (2 of 2)
+
+Constructor of [`TrialException`](../../trialexception)
+
+```csharp
+public TrialException()
+```
 
 ### See Also
 

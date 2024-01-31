@@ -3,7 +3,7 @@ title: ToAngleAxis
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.threed.utilities/quaternion/toangleaxis/
 ---
 ## Quaternion.ToAngleAxis method

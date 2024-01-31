@@ -3,7 +3,7 @@ title: Inverse
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.threed.utilities/quaternion/inverse/
 ---
 ## Quaternion.Inverse method

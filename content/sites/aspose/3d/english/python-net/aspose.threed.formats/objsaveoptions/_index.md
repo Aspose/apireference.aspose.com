@@ -43,7 +43,7 @@ The ObjSaveOptions type exposes the following members:
 | [serialize_w](/3d/python-net/aspose.threed.formats/objsaveoptions/serialize_w) | Gets or sets whether serialize W component in model's vertex position. |
 | [enable_materials](/3d/python-net/aspose.threed.formats/objsaveoptions/enable_materials) | Gets or sets whether import/export materials for each object |
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/objsaveoptions/flip_coordinate_system) | Gets or sets whether flip coordinate system of control points/normal during importing/exporting. |
-| [axis_system](/3d/python-net/aspose.threed.formats/objsaveoptions/axis_system) | Gets or sets the axis system in the exported stl file. |
+| [axis_system](/3d/python-net/aspose.threed.formats/objsaveoptions/axis_system) | Gets or sets the axis system in the exported file. |
 
 
 

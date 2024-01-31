@@ -11,27 +11,6 @@ url: /net/aspose.threed.utilities/boundingbox/merge/
 Merge current bounding box with given point
 
 ```csharp
-public void Merge(Vector4 pt)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pt | Vector4 |  |
-
-### See Also
-
-* struct [Vector4](../../vector4)
-* struct [BoundingBox](../../boundingbox)
-* namespace [Aspose.ThreeD.Utilities](../../boundingbox)
-* assembly [Aspose.3D](../../../)
-
----
-
-## BoundingBox.Merge method (2 of 4)
-
-Merge current bounding box with given point
-
-```csharp
 public void Merge(Vector3 pt)
 ```
 
@@ -48,7 +27,7 @@ public void Merge(Vector3 pt)
 
 ---
 
-## BoundingBox.Merge method (3 of 4)
+## BoundingBox.Merge method (2 of 4)
 
 Merge current bounding box with given point
 
@@ -70,7 +49,7 @@ public void Merge(double x, double y, double z)
 
 ---
 
-## BoundingBox.Merge method (4 of 4)
+## BoundingBox.Merge method (3 of 4)
 
 Merges the new box into the current bounding box.
 
@@ -84,6 +63,27 @@ public void Merge(BoundingBox bb)
 
 ### See Also
 
+* struct [BoundingBox](../../boundingbox)
+* namespace [Aspose.ThreeD.Utilities](../../boundingbox)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## BoundingBox.Merge method (4 of 4)
+
+Merge current bounding box with given point
+
+```csharp
+public void Merge(Vector4 pt)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pt | Vector4 |  |
+
+### See Also
+
+* struct [Vector4](../../vector4)
 * struct [BoundingBox](../../boundingbox)
 * namespace [Aspose.ThreeD.Utilities](../../boundingbox)
 * assembly [Aspose.3D](../../../)

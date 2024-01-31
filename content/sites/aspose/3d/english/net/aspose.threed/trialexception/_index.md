@@ -18,6 +18,7 @@ public class TrialException : Exception
 
 | Name | Description |
 | --- | --- |
+| [TrialException](trialexception)() | Constructor of [`TrialException`](../trialexception) |
 | [TrialException](trialexception)(string) | Constructor of [`TrialException`](../trialexception) |
 
 ## Properties

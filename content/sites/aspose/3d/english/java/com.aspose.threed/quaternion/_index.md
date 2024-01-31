@@ -72,6 +72,7 @@ Quaternion is usually used to perform rotation in computer graphics.
 | [setx(double value)](#setx-double-) | The x component. |
 | [sety(double value)](#sety-double-) | The y component. |
 | [setz(double value)](#setz-double-) | The z component. |
+| [slerp(double t, Quaternion v1, Quaternion v2)](#slerp-double-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Perform spherical linear interpolation between two values |
 | [toAngleAxis(double[] angle, Vector3 axis)](#toAngleAxis-double---com.aspose.threed.Vector3-) | Decompose the quaternion to angle and axis |
 | [toMatrix()](#toMatrix--) | Convert the rotation presented by quaternion to transform matrix. |
 | [toString()](#toString--) | Gets the representation of quaternion in string |
@@ -611,6 +612,23 @@ The z component.
 | --- | --- | --- |
 | value | double | New value |
 
+### slerp(double t, Quaternion v1, Quaternion v2) {#slerp-double-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
+```
+public static Quaternion slerp(double t, Quaternion v1, Quaternion v2)
+```
+
+
+Perform spherical linear interpolation between two values
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| t | double | t is between 0 to 1 |
+| v1 | [Quaternion](../../com.aspose.threed/quaternion) | First value |
+| v2 | [Quaternion](../../com.aspose.threed/quaternion) | Second value |
+
+**Returns:**
+[Quaternion](../../com.aspose.threed/quaternion)
 ### toAngleAxis(double[] angle, Vector3 axis) {#toAngleAxis-double---com.aspose.threed.Vector3-}
 ```
 public void toAngleAxis(double[] angle, Vector3 axis)

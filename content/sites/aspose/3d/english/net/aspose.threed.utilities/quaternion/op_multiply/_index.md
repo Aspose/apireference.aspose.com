@@ -3,7 +3,7 @@ title: op_Multiply
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.threed.utilities/quaternion/op_multiply/
 ---
 ## Quaternion Multiply operator (1 of 5)

@@ -3,7 +3,7 @@ title: Y
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.threed.utilities/quaternion/y/
 ---
 ## Quaternion.Y field

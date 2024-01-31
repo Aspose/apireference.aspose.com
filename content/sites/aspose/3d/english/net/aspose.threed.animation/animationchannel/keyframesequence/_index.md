@@ -1,22 +1,18 @@
 ---
-title: GetEnumerator
+title: KeyframeSequence
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 50
-url: /net/aspose.threed.animation/animationchannel/getenumerator/
+weight: 30
+url: /net/aspose.threed.animation/animationchannel/keyframesequence/
 ---
-## AnimationChannel.GetEnumerator method
+## AnimationChannel.KeyframeSequence property
 
-Gets an enumerator to walk through all keyframe sequences inside this channel
+Gets associated keyframe sequence inside this channel
 
 ```csharp
-public IEnumerator<KeyframeSequence> GetEnumerator()
+public KeyframeSequence KeyframeSequence { get; set; }
 ```
-
-### Return Value
-
-Enumerator
 
 ### See Also
 

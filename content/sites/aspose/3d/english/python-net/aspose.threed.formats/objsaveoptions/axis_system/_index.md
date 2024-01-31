@@ -11,7 +11,7 @@ is_root: false
 ## axis_system property
 
 
-Gets or sets the axis system in the exported stl file.
+Gets or sets the axis system in the exported file.
 
 ### Remarks 
 
