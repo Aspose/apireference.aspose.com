@@ -20,20 +20,17 @@ from aspose.tex.plugins import MathRendererPlugin, PngMathRendererPluginOptions,
 
 #  Create MathRenderer.
 renderer = MathRendererPlugin()
+#  Create the PngMathRendererPluginOptions instance and set up options.
 options = PngMathRendererPluginOptions()
 options.background_color = Color.yellow
 options.text_color = Color.blue
 options.resolution = 150
 options.margin = 10.0
 options.preamble = "LaTeX preamble"
-
-#  Create the PngMathRendererPluginOptions instance and set up options.
-options = options
 #  Add a source formula.
 options.add_input_data_source(StringDataSource("LaTeX formula"))
 #  Create a stream to write the image to.
-outputPath = ""
-with open(outputPath, "wb") as stream:
+with open("output path", "wb") as stream:
     #  Add an output stream.
     options.add_output_data_target(StreamDataSource(stream))
     #  Run the process.

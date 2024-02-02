@@ -20,19 +20,16 @@ from aspose.tex.plugins import FigureRendererPlugin, PngFigureRendererPluginOpti
 
 #  Create FigureRenderer.
 renderer = FigureRendererPlugin()
+#  Create the PngFigureRendererOptions instance and set up options.
 options = PngFigureRendererPluginOptions()
 options.background_color = Color.yellow
 options.resolution = 150
 options.margin = 10.0
 options.preamble = "LaTeX preamble"
-
-#  Create the PngFigureRendererOptions instance and set up options.
-options = options
 #  Add an input LaTeX fragment.
 options.add_input_data_source(StringDataSource("LaTeX fragment"))
 #  Create a stream to write the image to.
-outputPath = ""
-with open(outputPath, "wb") as stream:
+with open("output path", "wb") as stream:
     #  Add an output stream.
     options.add_output_data_target(StreamDataSource(stream))
     #  Run the process.
