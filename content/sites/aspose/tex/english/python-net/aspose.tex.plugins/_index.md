@@ -19,7 +19,8 @@ The **Aspose.TeX.Plugins**  is a root namespace for all classes of Aspose.TeX.Pl
 | [`IDataSource`](/tex/python-net/aspose.tex.plugins/idatasource) | The general data source interface. |
 | [`IOperationResult`](/tex/python-net/aspose.tex.plugins/ioperationresult) | The general operation result interface. |
 | [`IPlugin`](/tex/python-net/aspose.tex.plugins/iplugin) | The general plugin interface. |
-| [`IPluginOptions`](/tex/python-net/aspose.tex.plugins/ipluginoptions) | The general plugin options interface. || [`MathRendererPlugin`](/tex/python-net/aspose.tex.plugins/mathrendererplugin) | MathRenderer plugin class. |
+| [`IPluginOptions`](/tex/python-net/aspose.tex.plugins/ipluginoptions) | The general plugin options interface. |
+| [`MathRendererPlugin`](/tex/python-net/aspose.tex.plugins/mathrendererplugin) | MathRenderer plugin class. |
 | [`MathRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/mathrendererpluginoptions) | The options for the [`MathRendererPlugin`](/tex/python-net/aspose.tex.plugins/mathrendererplugin) plugin. |
 | [`MathRendererPluginResult`](/tex/python-net/aspose.tex.plugins/mathrendererpluginresult) | The MathRenderer plugin's common result. |
 | [`PngFigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/pngfigurerendererpluginoptions) | The FigureRenderer plugin's options to render a LaTeX figure in PNG. |
