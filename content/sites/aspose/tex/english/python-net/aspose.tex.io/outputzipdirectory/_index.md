@@ -31,7 +31,7 @@ The OutputZipDirectory type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [get_file](/tex/python-net/aspose.tex.io/outputzipdirectory/get_file/#str-bool) | Returns the stream to read from. |
-| [get_file](/tex/python-net/aspose.tex.io/outputzipdirectory/get_file/#str) | Returns the stream to read from or to write to. |
+| [get_file](/tex/python-net/aspose.tex.io/outputzipdirectory/get_file/#str) | Returns the stream to read from. |
 | [get_output_file](/tex/python-net/aspose.tex.io/outputzipdirectory/get_output_file/#str) | Returns the stream to write to. |
 | [finish](/tex/python-net/aspose.tex.io/outputzipdirectory/finish/#) | Finalizes ZIP archive. |
 

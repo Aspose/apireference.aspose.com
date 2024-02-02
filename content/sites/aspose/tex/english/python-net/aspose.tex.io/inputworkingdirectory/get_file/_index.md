@@ -10,7 +10,7 @@ is_root: false
 
 ## get_file {#str}
 
-Returns the stream to read from or to write to.
+Returns the stream to read from.
 
 
 ### Returns 
@@ -32,7 +32,7 @@ def get_file(self, file_name):
 
 ## get_file {#str-bool}
 
-Returns the stream to read from or to write to.
+Returns the stream to read from.
 
 
 ### Returns 

@@ -10,7 +10,7 @@ is_root: false
 
 ## get_file {#str-bool}
 
-Returns the stream to read from or to write to. MUST NOT return a null object.
+Returns the stream to read from. MUST NOT return a null object.
 In case a stream cannot be returned, it MUST return a NamedStream object with a null Stream property value instead.
 
 

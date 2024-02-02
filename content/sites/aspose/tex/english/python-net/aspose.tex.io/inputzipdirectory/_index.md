@@ -31,7 +31,7 @@ The InputZipDirectory type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [get_file](/tex/python-net/aspose.tex.io/inputzipdirectory/get_file/#str-bool) | Returns the stream to read from. |
-| [get_file](/tex/python-net/aspose.tex.io/inputzipdirectory/get_file/#str) | Returns the stream to read from or to write to. |
+| [get_file](/tex/python-net/aspose.tex.io/inputzipdirectory/get_file/#str) | Returns the stream to read from. |
 | [get_file_names_by_extension](/tex/python-net/aspose.tex.io/inputzipdirectory/get_file_names_by_extension/#str-str) | Returns the array of file names by an extension. |
 
 

@@ -20,7 +20,7 @@ The IOutputWorkingDirectory type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [get_output_file](/tex/python-net/aspose.tex.io/ioutputworkingdirectory/get_output_file/#str) | Returns the stream to write to. MUST NOT return a null object.<br/>In case a stream cannot be returned, it MUST return a NamedStream object with a null Stream property value instead. |
-| [get_file](/tex/python-net/aspose.tex.io/ioutputworkingdirectory/get_file/#str-bool) | Returns the stream to read from or to write to. MUST NOT return a null object.<br/>In case a stream cannot be returned, it MUST return a NamedStream object with a null Stream property value instead. |
+| [get_file](/tex/python-net/aspose.tex.io/ioutputworkingdirectory/get_file/#str-bool) | Returns the stream to read from. MUST NOT return a null object.<br/>In case a stream cannot be returned, it MUST return a NamedStream object with a null Stream property value instead. |
 
 
 

@@ -19,8 +19,8 @@ The InputWorkingDirectory type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_file](/tex/python-net/aspose.tex.io/inputworkingdirectory/get_file/#str) | Returns the stream to read from or to write to. |
-| [get_file](/tex/python-net/aspose.tex.io/inputworkingdirectory/get_file/#str-bool) | Returns the stream to read from or to write to. |
+| [get_file](/tex/python-net/aspose.tex.io/inputworkingdirectory/get_file/#str) | Returns the stream to read from. |
+| [get_file](/tex/python-net/aspose.tex.io/inputworkingdirectory/get_file/#str-bool) | Returns the stream to read from. |
 
 
 
