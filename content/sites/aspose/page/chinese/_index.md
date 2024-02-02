@@ -21,6 +21,7 @@ Aspose.Page 是一个 .NET API，旨在允许开发人员使用 XPS 和 EPS/PS �
 
 这些是一些有用资源的链接：
 - [Aspose.Page for .NET API 参考](/page/zh/net/)
+- [Aspose.Page for .NET API 教程](/tutorials/page/zh/net/)
 
 
 ## Aspose.Page for Java
@@ -36,6 +37,7 @@ Aspose.Page 是一个 Java API，旨在允许开发人员使用 XPS 和 EPS/PS �
 
 这些是一些有用资源的链接：
 - [Aspose.Page for Java API 参考](/page/java/)
+- [Aspose.Page Java API 教程](/tutorials/page/zh/java/)
 
 
 ## Aspose.Page for C++

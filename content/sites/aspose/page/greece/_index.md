@@ -21,6 +21,7 @@ url: /el/
 
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
 - [Aspose.Page για Αναφορά API .NET](/page/el/net/)
+- [Aspose.Page για Εκμάθηση API .NET](/tutorials/page/el/net/)
 
 
 ## Aspose.Page για Java
@@ -36,6 +37,7 @@ url: /el/
 
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
 - [Aspose.Page for Java API Reference](/page/java/)
+- [Aspose.Page για Java API Tutorials](/tutorials/page/el/java/)
 
 
 ## Aspose.Page για C++

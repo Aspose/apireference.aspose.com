@@ -21,6 +21,7 @@ Aspose.Page is een .NET API en is gebouwd om ontwikkelaars in staat te stellen m
 
 Dit zijn links naar enkele nuttige bronnen:
 - [Aspose.Page voor .NET API-referentie](/page/nl/net/)
+- [Aspose.Page voor .NET API-zelfstudies](/tutorials/page/nl/net/)
 
 
 ## Aspose.Page voor Java
@@ -36,6 +37,7 @@ Aspose.Page is een Java API die is gebouwd om ontwikkelaars in staat te stellen 
 
 Dit zijn links naar enkele nuttige bronnen:
 - [Aspose.Page voor Java API-referentie](/page/java/)
+- [Aspose.Page voor Java API-tutorials](/tutorials/page/nl/java/)
 
 
 ## Aspose.Page voor C++

@@ -20,6 +20,7 @@ Aspose.Page bir .NET API'sidir ve geliştiricilerin XPS ve EPS/PS belgeleriyle �
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Aspose.Page for .NET API Referansı](/page/tr/net/)
+- [.NET API Eğitimleri için Aspose.Page](/tutorials/page/tr/net/)
 
 
 ## Java için Aspose.Page
@@ -35,6 +36,7 @@ Aspose.Page, geliştiricilerin XPS ve EPS/PS belgeleriyle çalışmasına izin v
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Java API Referansı için Aspose.Page](/page/java/)
+- [Java API Eğitimleri için Aspose.Page](/tutorials/page/tr/java/)
 
 
 ## C++ için Aspose.Page
