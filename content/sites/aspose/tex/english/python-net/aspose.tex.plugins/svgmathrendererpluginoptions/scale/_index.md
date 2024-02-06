@@ -1,0 +1,27 @@
+﻿---
+title: scale property
+second_title: Aspose.TeX for Python via .NET API References
+description: 
+type: docs
+weight: 140
+url: /python-net/aspose.tex.plugins/svgmathrendererpluginoptions/scale/
+is_root: false
+---
+
+## scale property
+
+
+Gets/set the scale. 1000 means 100%, 1200 means 120%, etc.
+### Definition:
+```python
+@property
+def scale(self):
+    ...
+@scale.setter
+def scale(self, value):
+    ...
+```
+
+### See Also
+* module [`aspose.tex.plugins`](../../)
+* class [`SvgMathRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/svgmathrendererpluginoptions)
