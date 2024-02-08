@@ -21,7 +21,7 @@ Aspose.TeX is a .NET library for TeX files typesetting. It can present TeX input
 
 These are links to some useful resources:
 - [Aspose.TeX for .NET API Reference](/tex/net/)
-- [Aspose.TeX for .NET API Tutorials](/tutorials/words/net/)
+- [Aspose.TeX for .NET API Tutorials](/tutorials/tex/net/)
 
 
 ## Aspose.TeX for Java
@@ -53,3 +53,17 @@ Aspose.TeX is a C++ library for TeX files typesetting. It can present TeX input 
 
 These are links to some useful resources:
 - [Aspose.TeX for C++ API Reference](/tex/cpp/)
+
+## Aspose.TeX for Python via .NET
+
+{{% alert color="primary" %}}
+
+![Aspose.TeX for Python logo](home_4.png)
+
+
+Aspose.TeX is a Python library for TeX files typesetting. It can present TeX input in various graphic formats like XPS, PDF, PNG, JPEG, TIFF and BMP. It also outputs tracing info like any other TeX engine does. The API provides various ways of passing TeX input and obtaining output. And, as an advanced feature, it lets you create your own TeX format if you wish to typeset a number of documents designed uniformly.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+- [Aspose.TeX for Python API Reference](/tex/python-net/)
