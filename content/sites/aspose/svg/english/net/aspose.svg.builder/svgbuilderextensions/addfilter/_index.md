@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /net/aspose.svg.builder/svgbuilderextensions/addfilter/
 ---
-## AddFilter&lt;TBuilder&gt;(this TBuilder, CoordinateUnits?, CoordinateUnits?, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGFilterElementBuilder&gt;) {#addfilter_1}
+## AddFilter&lt;TBuilder&gt;(this TBuilder, CoordinateUnits?, CoordinateUnits?, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFilterElementBuilder&gt;) {#addfilter_1}
 
 Adds a 'filter' element to the SVG builder, defining a filter effect that can be applied to SVG elements.
 
@@ -15,8 +15,8 @@ public static TBuilder AddFilter<TBuilder>(this TBuilder builder,
     CoordinateUnits? filterUnits = default, CoordinateUnits? primitiveUnits = default, 
     OneOf<double, (double, LengthType)> x = null, OneOf<double, (double, LengthType)> y = null, 
     OneOf<double, (double, LengthType)> width = null, 
-    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint> fill = null, 
-    OneOf<Color, Paint> stroke = null, string id = null, 
+    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint, string> fill = null, 
+    OneOf<Color, Paint, string> stroke = null, string id = null, 
     Action<SVGFilterElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
 ```
@@ -45,6 +45,7 @@ The builder instance, allowing for method chaining.
 * enum [CoordinateUnits](../../coordinateunits/)
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [LengthType](../../lengthtype/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGFilterElementBuilder](../../svgfilterelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)

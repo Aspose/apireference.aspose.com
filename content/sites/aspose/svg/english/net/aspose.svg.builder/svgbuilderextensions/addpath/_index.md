@@ -6,14 +6,14 @@ type: docs
 weight: 400
 url: /net/aspose.svg.builder/svgbuilderextensions/addpath/
 ---
-## AddPath&lt;TBuilder&gt;(this TBuilder, OneOf&lt;string, Action&lt;PathBuilder&gt;&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGPathElementBuilder&gt;) {#addpath}
+## AddPath&lt;TBuilder&gt;(this TBuilder, OneOf&lt;string, Action&lt;PathBuilder&gt;&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGPathElementBuilder&gt;) {#addpath}
 
 Adds a 'path' element to the SVG builder, specifying its path data and styles.
 
 ```csharp
 public static TBuilder AddPath<TBuilder>(this TBuilder builder, 
-    OneOf<string, Action<PathBuilder>> d, OneOf<Color, Paint> fill = null, 
-    OneOf<Color, Paint> stroke = null, string id = null, 
+    OneOf<string, Action<PathBuilder>> d, OneOf<Color, Paint, string> fill = null, 
+    OneOf<Color, Paint, string> stroke = null, string id = null, 
     Action<SVGPathElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IShapeElementBuilder
 ```
@@ -23,8 +23,8 @@ public static TBuilder AddPath<TBuilder>(this TBuilder builder,
 | TBuilder | The type of the SVG element builder, facilitating fluent API usage. |
 | builder | The SVG builder instance to which the 'path' element will be added. |
 | d | A OneOf type that can either be a string representing the path data or an action that configures a PathBuilder. |
-| fill | The fill color or paint style for the path. Can be a Color or a Paint enum value. Optional parameter. |
-| stroke | The stroke color or paint style for the path. Can be a Color or a Paint enum value. Optional parameter. |
+| fill | The fill color or paint style for the path. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
+| stroke | The stroke color or paint style for the path. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
 | id | The unique identifier for the path element. Optional parameter. |
 | extend | An optional action to further configure the path element builder. |
 
@@ -36,6 +36,7 @@ The builder instance, allowing for method chaining.
 
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * class [PathBuilder](../../pathbuilder/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGPathElementBuilder](../../svgpathelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
@@ -46,14 +47,14 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddPath&lt;TBuilder&gt;(this TBuilder, Action&lt;PathBuilder&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGPathElementBuilder&gt;) {#addpath_1}
+## AddPath&lt;TBuilder&gt;(this TBuilder, Action&lt;PathBuilder&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGPathElementBuilder&gt;) {#addpath_1}
 
 Overload of AddPath that takes an action to configure a PathBuilder directly.
 
 ```csharp
 public static TBuilder AddPath<TBuilder>(this TBuilder builder, Action<PathBuilder> d, 
-    OneOf<Color, Paint> fill = null, OneOf<Color, Paint> stroke = null, string id = null, 
-    Action<SVGPathElementBuilder> extend = null)
+    OneOf<Color, Paint, string> fill = null, OneOf<Color, Paint, string> stroke = null, 
+    string id = null, Action<SVGPathElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IShapeElementBuilder
 ```
 
@@ -62,8 +63,8 @@ public static TBuilder AddPath<TBuilder>(this TBuilder builder, Action<PathBuild
 | TBuilder | The type of the SVG element builder, facilitating fluent API usage. |
 | builder | The SVG builder instance to which the 'path' element will be added. |
 | d | An action that configures a PathBuilder to define the path data. |
-| fill | The fill color or paint style for the path. Can be a Color or a Paint enum value. Optional parameter. |
-| stroke | The stroke color or paint style for the path. Can be a Color or a Paint enum value. Optional parameter. |
+| fill | The fill color or paint style for the path. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
+| stroke | The stroke color or paint style for the path. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
 | id | The unique identifier for the path element. Optional parameter. |
 | extend | An optional action to further configure the path element builder. |
 
@@ -74,7 +75,7 @@ The builder instance, allowing for method chaining.
 ### See Also
 
 * class [PathBuilder](../../pathbuilder/)
-* class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGPathElementBuilder](../../svgpathelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)

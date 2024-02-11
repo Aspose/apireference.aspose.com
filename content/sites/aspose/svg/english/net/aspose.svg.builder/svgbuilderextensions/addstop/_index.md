@@ -14,7 +14,7 @@ Adds a 'stop' element to the gradient in the SVG builder, specifying color and o
 public static TBuilder AddStop<TBuilder>(this TBuilder builder, Color? stopColor = default, 
     double? stopOpacity = null, OneOf<double, (double, StopUnitType)> offset = null, 
     string id = null, Action<SVGStopElementBuilder> extend = null)
-    where TBuilder : ISVGElementBuilder, IShapeElementBuilder
+    where TBuilder : ISVGElementBuilder, IGradientStopElementBuilder
 ```
 
 | Parameter | Description |
@@ -37,7 +37,7 @@ The builder instance, allowing for method chaining.
 * enum [StopUnitType](../../stopunittype/)
 * class [SVGStopElementBuilder](../../svgstopelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
-* interface [IShapeElementBuilder](../../ishapeelementbuilder/)
+* interface [IGradientStopElementBuilder](../../igradientstopelementbuilder/)
 * class [SVGBuilderExtensions](../)
 * namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
 * assembly [Aspose.SVG](../../../)
