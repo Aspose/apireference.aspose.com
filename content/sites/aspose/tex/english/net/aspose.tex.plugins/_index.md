@@ -12,19 +12,19 @@ The **Aspose.TeX.Plugins** is a root namespace for all classes of Aspose.TeX.Plu
 
 | Class | Description |
 | --- | --- |
-| [FigureRenderer](./figurerenderer/) | FigureRenderer plugin class.  The example shows how to render a LaTeX fragment in PNG. |
-| [FigureRendererOptions](./figurerendereroptions/) | The options for the [`FigureRenderer`](../aspose.tex.plugins/figurerenderer/) plugin. |
-| [FigureRendererResult](./figurerendererresult/) | The MathRenderer plugin's common result. |
-| [MathRenderer](./mathrenderer/) | MathRenderer plugin class.  The example shows how to render a LaTeX formula in PNG. |
-| [MathRendererOptions](./mathrendereroptions/) | The options for the [`MathRenderer`](../aspose.tex.plugins/mathrenderer/) plugin. |
-| [MathRendererResult](./mathrendererresult/) | The MathRenderer plugin's common result. |
-| [PngFigureRendererOptions](./pngfigurerendereroptions/) | The FigureRenderer plugin's options to render a LaTeX figure in PNG. |
-| [PngMathRendererOptions](./pngmathrendereroptions/) | The MathRenderer plugin's options to render a math formula in PNG. |
+| [FigureRendererPlugin](./figurerendererplugin/) | The Figure Renderer plugin class.  The example shows how to render a LaTeX fragment in PNG. |
+| [FigureRendererPluginOptions](./figurerendererpluginoptions/) | The options for the [`FigureRendererPlugin`](../aspose.tex.plugins/figurerendererplugin/). |
+| [FigureRendererPluginResult](./figurerendererpluginresult/) | The Figure Renderer plugin's common result. |
+| [MathRendererPlugin](./mathrendererplugin/) | MathRenderer plugin class.  The example shows how to render a LaTeX formula in PNG. |
+| [MathRendererPluginOptions](./mathrendererpluginoptions/) | The options for the [`MathRendererPlugin`](../aspose.tex.plugins/mathrendererplugin/). |
+| [MathRendererPluginResult](./mathrendererpluginresult/) | The Math Renderer plugin's common result. |
+| [PngFigureRendererPluginOptions](./pngfigurerendererpluginoptions/) | The Figure Renderer plugin's options to render a LaTeX figure in PNG. |
+| [PngMathRendererPluginOptions](./pngmathrendererpluginoptions/) | The Math Renderer plugin's options to render a math formula in PNG. |
 | [ResultContainer](./resultcontainer/) | The plugin execution result container. |
 | [StreamDataSource](./streamdatasource/) | The stream data source for plugin's load and save operations. |
 | [StringDataSource](./stringdatasource/) | The string data source for plugin's load operations. |
-| [SvgFigureRendererOptions](./svgfigurerendereroptions/) | The FigureRenderer plugin's options to render a LaTeX figure in SVG. |
-| [SvgMathRendererOptions](./svgmathrendereroptions/) | The MathRenderer plugin's options to render a math formula in SVG. |
+| [SvgFigureRendererPluginOptions](./svgfigurerendererpluginoptions/) | The Figure Renderer plugin's options to render a LaTeX figure in SVG. |
+| [SvgMathRendererPluginOptions](./svgmathrendererpluginoptions/) | The Math Renderer plugin's options to render a math formula in SVG. |
 ## Interfaces
 
 | Interface | Description |

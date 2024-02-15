@@ -3,7 +3,7 @@ title: Class StringDataSource
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.StringDataSource class. The string data source for plugins load operations
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.tex.plugins/stringdatasource/
 ---
 ## StringDataSource class

@@ -16,7 +16,7 @@ public InputZipDirectory(Stream zipStream, string basePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| zipStream | Stream | The stream to write the archive to. |
+| zipStream | Stream | The stream to read the archive from. |
 | basePath | String | The base path inside the ZIP archive. |
 
 ### See Also

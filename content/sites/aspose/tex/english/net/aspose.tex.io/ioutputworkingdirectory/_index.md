@@ -18,7 +18,7 @@ public interface IOutputWorkingDirectory : IInputWorkingDirectory
 
 | Name | Description |
 | --- | --- |
-| [GetOutputFile](../../aspose.tex.io/ioutputworkingdirectory/getoutputfile/)(string, out string) | Returns the stream to write to. |
+| [GetOutputFile](../../aspose.tex.io/ioutputworkingdirectory/getoutputfile/)(string) | Returns the stream to write to. MUST NOT return a null object. In case a stream cannot be returned, it MUST return a NamedStream object with a null Stream property value instead. |
 
 ### See Also
 

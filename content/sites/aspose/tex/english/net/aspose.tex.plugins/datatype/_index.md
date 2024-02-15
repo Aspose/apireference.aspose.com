@@ -3,7 +3,7 @@ title: Enum DataType
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.DataType enum. Enumerates available data types for plugins I/O
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.tex.plugins/datatype/
 ---
 ## DataType enumeration

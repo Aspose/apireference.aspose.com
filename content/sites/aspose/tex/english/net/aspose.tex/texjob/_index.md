@@ -3,7 +3,7 @@ title: Class TeXJob
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.TeXJob class. Implements features of a TeX job
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.tex/texjob/
 ---
 ## TeXJob class

@@ -11,8 +11,7 @@ url: /net/aspose.tex.features/mathrenderer/render/
 Renders a math formula.
 
 ```csharp
-public void Render(string formula, Stream stream, MathRendererOptions mathRendererOptions, 
-    out SizeF size)
+public SizeF Render(string formula, Stream stream, MathRendererOptions mathRendererOptions)
 ```
 
 | Parameter | Type | Description |
@@ -20,7 +19,10 @@ public void Render(string formula, Stream stream, MathRendererOptions mathRender
 | formula | String | The formula LaTeX program. |
 | stream | Stream | The stream to write the output to. |
 | mathRendererOptions | MathRendererOptions | The rendering options. |
-| size | SizeF& | The output image size. |
+
+### Return Value
+
+The output image size.
 
 ### See Also
 

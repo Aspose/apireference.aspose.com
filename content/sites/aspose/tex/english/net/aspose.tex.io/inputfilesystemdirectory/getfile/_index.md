@@ -11,21 +11,21 @@ url: /net/aspose.tex.io/inputfilesystemdirectory/getfile/
 Returns the stream to read from.
 
 ```csharp
-public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
+public NamedStream GetFile(string fileName, bool searchSubdirectories = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String | The file name. |
-| fullName | String& | The full file name. |
 | searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. |
 
 ### Return Value
 
-The stream.
+The named stream.
 
 ### See Also
 
+* class [NamedStream](../../namedstream/)
 * class [InputFileSystemDirectory](../)
 * namespace [Aspose.TeX.IO](../../inputfilesystemdirectory/)
 * assembly [Aspose.TeX](../../../)

@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Pdf.PdfDevice class. Implements the interface for outputting text and graphic content to PDF document
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.tex.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
@@ -18,8 +18,8 @@ public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
 
 | Name | Description |
 | --- | --- |
-| [PdfDevice](pdfdevice/#constructor)() | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
-| [PdfDevice](pdfdevice/#constructor_1)(Stream) | Creates new instance. The output file will be written to specified stream. |
+| [PdfDevice](pdfdevice/#constructor)() | Creates a new instance. The output file will be written to the output working directory taking the job name as a file name. |
+| [PdfDevice](pdfdevice/#constructor_1)(Stream) | Creates a new instance. The output file will be written to specified stream. |
 
 ## Properties
 
@@ -47,7 +47,7 @@ public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | [EndFragment](../../aspose.tex.presentation.pdf/pdfdevice/endfragment/)() | Ends a fragment to rasterize. |
 | override [EndPage](../../aspose.tex.presentation.pdf/pdfdevice/endpage/)() | Finalizes a page. |
 | override [FillPath](../../aspose.tex.presentation.pdf/pdfdevice/fillpath/)(GraphicsPath) | Fill a path. |
-| override [Init](../../aspose.tex.presentation.pdf/pdfdevice/init/)() | Initializes device. |
+| override [Initialize](../../aspose.tex.presentation.pdf/pdfdevice/initialize/)() | Initializes the device. |
 | override [SetClip](../../aspose.tex.presentation.pdf/pdfdevice/setclip/)(GraphicsPath) | Sets the current clip path. |
 | override [SetTransform](../../aspose.tex.presentation.pdf/pdfdevice/settransform/)(Matrix) | Sets the current coordinate space transformation. |
 | override [ShowImage](../../aspose.tex.presentation.pdf/pdfdevice/showimage/)(PointF, SizeF, byte[]) | Shows a raster image. |
