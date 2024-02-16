@@ -12,7 +12,6 @@ url: /java/com.aspose.ocr.spellcheck/
 
 | Class | Description |
 | --- | --- |
-| [NotInitializedException](../com.aspose.ocr.spellcheck/notinitializedexception) |  |
 | [SpellCheckError](../com.aspose.ocr.spellcheck/spellcheckerror) | Representing misspelled word with additional data. |
 | [SuggestedWord](../com.aspose.ocr.spellcheck/suggestedword) | Spelling suggestion returned from GetSpellCheckErrorList. |
 

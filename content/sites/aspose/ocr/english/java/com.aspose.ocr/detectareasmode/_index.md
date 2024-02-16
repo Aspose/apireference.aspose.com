@@ -3,7 +3,7 @@ title: DetectAreasMode
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 30
+weight: 32
 url: /java/com.aspose.ocr/detectareasmode/
 ---
 
@@ -22,6 +22,7 @@ public enum DetectAreasMode extends Enum<DetectAreasMode>
 | [COMBINE](#COMBINE) | Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs. |
 | [TABLE](#TABLE) | Detects cells with text. |
 | [CURVED_TEXT](#CURVED-TEXT) | Detects lines and recognizes text on curved images. |
+| [TEXT_IN_WILD](#TEXT-IN-WILD) | A super-powerful neural network specialized in extracting words from low-quality images such as street photos, license plates, passport photos, meter photos, and photos with noisy backgrounds. |
 ## Methods
 
 | Method | Description |
@@ -75,6 +76,14 @@ public static final DetectAreasMode CURVED_TEXT
 
 
 Detects lines and recognizes text on curved images. Preferred mode for photos of book and magazine pages.
+
+### TEXT_IN_WILD {#TEXT-IN-WILD}
+```
+public static final DetectAreasMode TEXT_IN_WILD
+```
+
+
+A super-powerful neural network specialized in extracting words from low-quality images such as street photos, license plates, passport photos, meter photos, and photos with noisy backgrounds.
 
 ### values() {#values--}
 ```

@@ -13,12 +13,13 @@ url: /java/com.aspose.ocr/
 | Class | Description |
 | --- | --- |
 | [AsposeOCR](../com.aspose.ocr/asposeocr) | Main class for recognize text from images. |
+| [AsposeOCRException](../com.aspose.ocr/asposeocrexception) |  |
 | [CarPlateRecognitionSettings](../com.aspose.ocr/carplaterecognitionsettings) | Settings for the car number recognition Contains elements that allow customizing the recognition process |
 | [Character](../com.aspose.ocr/character) | Data about detected character. |
 | [CharacterRecognitionResult](../com.aspose.ocr/characterrecognitionresult) | Pages with detected characters data. |
-| [DocumentRecognitionSettings](../com.aspose.ocr/documentrecognitionsettings) | Settings for the pdf recognition. |
 | [IDCardRecognitionSettings](../com.aspose.ocr/idcardrecognitionsettings) | Settings for the ID Card recognition Contains elements that allow customizing the recognition process |
 | [ImageData](../com.aspose.ocr/imagedata) |  |
+| [ImageProcessing](../com.aspose.ocr/imageprocessing) | Helper class for Aspose OCR library. |
 | [InvoiceRecognitionSettings](../com.aspose.ocr/invoicerecognitionsettings) | Settings for the invoice recognition Contains elements that allow customizing the recognition process |
 | [License](../com.aspose.ocr/license) | License class for set and check license. |
 | [Logging](../com.aspose.ocr/logging) |  |
@@ -28,8 +29,9 @@ url: /java/com.aspose.ocr/
 | [ReceiptRecognitionSettings](../com.aspose.ocr/receiptrecognitionsettings) | Settings for the receipt recognition Contains elements that allow customizing the recognition process |
 | [RecognitionResult](../com.aspose.ocr/recognitionresult) | The results of the image recognition. |
 | [RecognitionResult.LinesResult](../com.aspose.ocr/recognitionresult.linesresult) |  |
-| [RecognitionSettings](../com.aspose.ocr/recognitionsettings) | Settings for the image recognition Contains elements that allow customizing the recognition process |
+| [RecognitionSettings](../com.aspose.ocr/recognitionsettings) | Settings for the image recognition. |
 | [RectangleOutput](../com.aspose.ocr/rectangleoutput) | Data about detected text areas or lines. |
+| [Resources](../com.aspose.ocr/resources) | Manage downloadable resources that enhance Aspose.OCR recognition capabilities. |
 | [SkewOutput](../com.aspose.ocr/skewoutput) | Data about skew angle in degrees and name of the file. |
 
 ## Enumerations

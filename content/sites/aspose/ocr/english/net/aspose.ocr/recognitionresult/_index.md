@@ -33,6 +33,7 @@ public class RecognitionResult
 | Name | Description |
 | --- | --- |
 | [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | Form JSON string with recognition results. |
+| [GetKeywords](../../aspose.ocr/recognitionresult/getkeywords)() | Get keywords from pasport (Test mode. Works only for MADAGASCAR passports). |
 | [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
 | [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
 | [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Form XML string with recognition results. |
