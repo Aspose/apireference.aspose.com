@@ -25,7 +25,7 @@ public class InputFileSystemDirectory : IFileCollector, IInputWorkingDirectory
 | Name | Description |
 | --- | --- |
 | virtual [Dispose](../../aspose.tex.io/inputfilesystemdirectory/dispose/)() | Disposes the instance. |
-| [GetFile](../../aspose.tex.io/inputfilesystemdirectory/getfile/)(string, out string, bool) | Returns the stream to read from. |
+| [GetFile](../../aspose.tex.io/inputfilesystemdirectory/getfile/)(string, bool) | Returns the stream to read from. |
 | [GetFileNamesByExtension](../../aspose.tex.io/inputfilesystemdirectory/getfilenamesbyextension/)(string, string) | Returns the array of file names by an extension. |
 
 ### See Also

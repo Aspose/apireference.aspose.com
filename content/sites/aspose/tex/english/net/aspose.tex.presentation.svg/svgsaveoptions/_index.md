@@ -3,7 +3,7 @@ title: Class SvgSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Svg.SvgSaveOptions class. Class representing options of saving to SVG
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.tex.presentation.svg/svgsaveoptions/
 ---
 ## SvgSaveOptions class

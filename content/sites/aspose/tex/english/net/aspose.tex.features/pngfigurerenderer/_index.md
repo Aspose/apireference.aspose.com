@@ -24,7 +24,7 @@ public sealed class PngFigureRenderer : FigureRenderer
 
 | Name | Description |
 | --- | --- |
-| [Render](../../aspose.tex.features/figurerenderer/render/)(string, Stream, FigureRendererOptions, out SizeF) | Renders some LaTeX code. |
+| [Render](../../aspose.tex.features/figurerenderer/render/)(string, Stream, FigureRendererOptions) | Renders some LaTeX code. |
 
 ### See Also
 

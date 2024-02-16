@@ -3,7 +3,7 @@ title: Class TeXExtension
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.TeXExtension class. Class defining constants to choose a TeX engine extension from
 type: docs
-weight: 750
+weight: 760
 url: /net/aspose.tex/texextension/
 ---
 ## TeXExtension class

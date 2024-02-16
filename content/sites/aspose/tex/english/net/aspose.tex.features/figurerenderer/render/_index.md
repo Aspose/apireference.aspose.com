@@ -11,8 +11,7 @@ url: /net/aspose.tex.features/figurerenderer/render/
 Renders some LaTeX code.
 
 ```csharp
-public void Render(string latexBody, Stream stream, FigureRendererOptions figureRendererOptions, 
-    out SizeF size)
+public SizeF Render(string latexBody, Stream stream, FigureRendererOptions figureRendererOptions)
 ```
 
 | Parameter | Type | Description |
@@ -20,7 +19,10 @@ public void Render(string latexBody, Stream stream, FigureRendererOptions figure
 | latexBody | String | The LaTeX file body. |
 | stream | Stream | The stream to write the output to. |
 | figureRendererOptions | FigureRendererOptions | The rendering options. |
-| size | SizeF& | The output image size. |
+
+### Return Value
+
+The output image size.
 
 ### See Also
 

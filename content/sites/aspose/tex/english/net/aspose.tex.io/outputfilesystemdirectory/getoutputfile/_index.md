@@ -11,20 +11,20 @@ url: /net/aspose.tex.io/outputfilesystemdirectory/getoutputfile/
 Returns the stream to write to.
 
 ```csharp
-public Stream GetOutputFile(string fileName, out string fullName)
+public NamedStream GetOutputFile(string fileName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String | The file name. |
-| fullName | String& | The full file name. |
 
 ### Return Value
 
-The stream.
+The named stream.
 
 ### See Also
 
+* class [NamedStream](../../namedstream/)
 * class [OutputFileSystemDirectory](../)
 * namespace [Aspose.TeX.IO](../../outputfilesystemdirectory/)
 * assembly [Aspose.TeX](../../../)

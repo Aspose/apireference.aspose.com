@@ -3,7 +3,7 @@ title: Class Device
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Device class. Implements the interface for outputting text and graphic content to abstract device. Rendering is performed page by page
 type: docs
-weight: 510
+weight: 520
 url: /net/aspose.tex.presentation/device/
 ---
 ## Device class
@@ -44,7 +44,7 @@ public abstract class Device
 | abstract [EndDocument](../../aspose.tex.presentation/device/enddocument/)() | Finalizes the whole document. |
 | abstract [EndPage](../../aspose.tex.presentation/device/endpage/)() | Finalizes a page. |
 | abstract [FillPath](../../aspose.tex.presentation/device/fillpath/)(GraphicsPath) | Fills a path. |
-| abstract [Init](../../aspose.tex.presentation/device/init/)() | Initializes device. |
+| abstract [Initialize](../../aspose.tex.presentation/device/initialize/)() | Initializes the device. |
 | abstract [SetClip](../../aspose.tex.presentation/device/setclip/)(GraphicsPath) | Sets the current clip path. |
 | abstract [SetTransform](../../aspose.tex.presentation/device/settransform/)(Matrix) | Sets the current coordinate space transformation. |
 | abstract [ShowImage](../../aspose.tex.presentation/device/showimage/)(PointF, SizeF, byte[]) | Shows a raster image. |

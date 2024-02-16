@@ -15,6 +15,7 @@ The **Aspose.TeX.IO** namespace provides classes for I/O that TeX engine perform
 | [InputConsoleTerminal](./inputconsoleterminal/) | Provides the console as a terminal input source. Wrapper for In. |
 | [InputFileSystemDirectory](./inputfilesystemdirectory/) | Implements the regular file system's method for getting a file stream to read from. |
 | [InputZipDirectory](./inputzipdirectory/) | Implements the method for getting a file stream to write to when working directory is a ZIP archive. |
+| [NamedStream](./namedstream/) | Associates a stream of a random nature with a name. |
 | [NondisposableMemoryStream](./nondisposablememorystream/) | The class that encapsulates a stream that cannot be disposed by calling the Dispose method, whether explicitly or implicitly. |
 | [OutputConsoleTerminal](./outputconsoleterminal/) | Provides the console as a terminal output destination. Wrapper for Out. |
 | [OutputFileSystemDirectory](./outputfilesystemdirectory/) | Implements the regular file system's method for getting a file stream to write to. |

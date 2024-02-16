@@ -3,7 +3,7 @@ title: Class SvgDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Svg.SvgDevice class. Implements the interface for outputting text and graphic content to PDF document
 type: docs
-weight: 690
+weight: 700
 url: /net/aspose.tex.presentation.svg/svgdevice/
 ---
 ## SvgDevice class
@@ -18,7 +18,7 @@ public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
 
 | Name | Description |
 | --- | --- |
-| [SvgDevice](svgdevice/)() | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
+| [SvgDevice](svgdevice/)() | Creates a new instance. The output file will be written to the output working directory taking the job name as a file name. |
 
 ## Properties
 
@@ -46,7 +46,7 @@ public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | [EndFragment](../../aspose.tex.presentation.svg/svgdevice/endfragment/)() | Ends a fragment to rasterize. |
 | override [EndPage](../../aspose.tex.presentation.svg/svgdevice/endpage/)() | Finalizes a page. |
 | override [FillPath](../../aspose.tex.presentation.svg/svgdevice/fillpath/)(GraphicsPath) | Fill a path. |
-| override [Init](../../aspose.tex.presentation.svg/svgdevice/init/)() | Initializes device. |
+| override [Initialize](../../aspose.tex.presentation.svg/svgdevice/initialize/)() | Initializes the device. |
 | override [SetClip](../../aspose.tex.presentation.svg/svgdevice/setclip/)(GraphicsPath) | Sets the current clip path. |
 | override [SetTransform](../../aspose.tex.presentation.svg/svgdevice/settransform/)(Matrix) | Sets the current coordinate space transformation. |
 | override [ShowImage](../../aspose.tex.presentation.svg/svgdevice/showimage/)(PointF, SizeF, byte[]) | Shows a raster image. |

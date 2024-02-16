@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Image.ImageDevice class. Implements the interface for outputting text and graphic content to images
 type: docs
-weight: 560
+weight: 570
 url: /net/aspose.tex.presentation.image/imagedevice/
 ---
 ## ImageDevice class
@@ -18,7 +18,7 @@ public class ImageDevice : Device
 
 | Name | Description |
 | --- | --- |
-| [ImageDevice](imagedevice/)(bool) | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
+| [ImageDevice](imagedevice/)(bool) | Creates a new instance. The output file will be written to the output working directory taking the job name as a file name. |
 
 ## Properties
 
@@ -45,7 +45,7 @@ public class ImageDevice : Device
 | override [EndDocument](../../aspose.tex.presentation.image/imagedevice/enddocument/)() | Finalizes the whole document. |
 | override [EndPage](../../aspose.tex.presentation.image/imagedevice/endpage/)() | Finalizes a page. |
 | override [FillPath](../../aspose.tex.presentation.image/imagedevice/fillpath/)(GraphicsPath) | Fill a path. |
-| override [Init](../../aspose.tex.presentation.image/imagedevice/init/)() | Initializes device. |
+| override [Initialize](../../aspose.tex.presentation.image/imagedevice/initialize/)() | Initializes the device. |
 | override [SetClip](../../aspose.tex.presentation.image/imagedevice/setclip/)(GraphicsPath) | Sets the current clip path. |
 | override [SetTransform](../../aspose.tex.presentation.image/imagedevice/settransform/)(Matrix) | Sets the current coordinate space transformation. |
 | override [ShowImage](../../aspose.tex.presentation.image/imagedevice/showimage/)(PointF, SizeF, byte[]) | Shows a raster image. |

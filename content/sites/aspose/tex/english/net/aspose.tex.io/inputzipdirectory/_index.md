@@ -25,7 +25,7 @@ public class InputZipDirectory : IFileCollector, IInputWorkingDirectory
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.tex.io/inputzipdirectory/dispose/)() | Disposes the instance. |
-| [GetFile](../../aspose.tex.io/inputzipdirectory/getfile/)(string, out string, bool) | Returns the stream to read from. |
+| [GetFile](../../aspose.tex.io/inputzipdirectory/getfile/)(string, bool) | Returns the stream to read from. |
 | [GetFileNamesByExtension](../../aspose.tex.io/inputzipdirectory/getfilenamesbyextension/)(string, string) | Returns the array of file names by an extension. |
 
 ### See Also

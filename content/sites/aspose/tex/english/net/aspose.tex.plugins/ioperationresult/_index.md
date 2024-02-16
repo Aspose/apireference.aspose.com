@@ -3,7 +3,7 @@ title: Interface IOperationResult
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.IOperationResult interface. The general operation result interface
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.tex.plugins/ioperationresult/
 ---
 ## IOperationResult interface

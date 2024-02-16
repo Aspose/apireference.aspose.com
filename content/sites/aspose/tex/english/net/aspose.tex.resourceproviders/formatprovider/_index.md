@@ -3,7 +3,7 @@ title: Class FormatProvider
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.ResourceProviders.FormatProvider class. Class providing TeX format
 type: docs
-weight: 730
+weight: 740
 url: /net/aspose.tex.resourceproviders/formatprovider/
 ---
 ## FormatProvider class

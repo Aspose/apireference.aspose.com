@@ -24,7 +24,7 @@ public abstract class MathRenderer
 
 | Name | Description |
 | --- | --- |
-| [Render](../../aspose.tex.features/mathrenderer/render/)(string, Stream, MathRendererOptions, out SizeF) | Renders a math formula. |
+| [Render](../../aspose.tex.features/mathrenderer/render/)(string, Stream, MathRendererOptions) | Renders a math formula. |
 
 ### See Also
 
