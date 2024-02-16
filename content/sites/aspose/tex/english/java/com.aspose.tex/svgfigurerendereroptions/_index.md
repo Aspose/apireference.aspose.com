@@ -3,7 +3,7 @@ title: SvgFigureRendererOptions
 second_title: Aspose.TeX for Java API Reference
 description: Options for rendering a LaTeX source code fragment to SVG.
 type: docs
-weight: 33
+weight: 34
 url: /java/com.aspose.tex/svgfigurerendereroptions/
 ---
 **Inheritance:**

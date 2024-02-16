@@ -1,36 +1,36 @@
 ---
-title: PngMathRendererOptions
+title: PngFigureRendererPluginOptions
 second_title: Aspose.TeX for Java API Reference
-description: The MathRenderer plugins options to render a math formula in PNG.
+description: The Figure Renderer plugins options to render a LaTeX figure in PNG.
 type: docs
-weight: 17
-url: /java/com.aspose.tex.plugins/pngmathrendereroptions/
+weight: 16
+url: /java/com.aspose.tex.plugins/pngfigurerendererpluginoptions/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.tex.FigureRendererOptions](../../com.aspose.tex/figurerendereroptions), [com.aspose.tex.MathRendererOptions](../../com.aspose.tex/mathrendereroptions), [com.aspose.tex.plugins.MathRendererOptions](../../com.aspose.tex.plugins/mathrendereroptions)
+java.lang.Object, [com.aspose.tex.FigureRendererOptions](../../com.aspose.tex/figurerendereroptions), [com.aspose.tex.plugins.FigureRendererPluginOptions](../../com.aspose.tex.plugins/figurerendererpluginoptions)
 
 **All Implemented Interfaces:**
 [com.aspose.tex.IRasterRendererOptions](../../com.aspose.tex/irasterrendereroptions)
 ```
-public class PngMathRendererOptions extends MathRendererOptions implements IRasterRendererOptions
+public class PngFigureRendererPluginOptions extends FigureRendererPluginOptions implements IRasterRendererOptions
 ```
 
-The MathRenderer plugin's options to render a math formula in PNG.
+The Figure Renderer plugin's options to render a LaTeX figure in PNG.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PngMathRendererOptions()](#PngMathRendererOptions--) | Creates a new instance. |
+| [PngFigureRendererPluginOptions()](#PngFigureRendererPluginOptions--) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getResolution()](#getResolution--) | Gets the image resolution. |
-| [setResolution(int value)](#setResolution-int-) | Sets the image resolution. |
+| [setResolution(int value)](#setResolution-int-) | Gets/sets the image resolution. |
 | [getOperationName()](#getOperationName--) | Returns the operation name. |
-### PngMathRendererOptions() {#PngMathRendererOptions--}
+### PngFigureRendererPluginOptions() {#PngFigureRendererPluginOptions--}
 ```
-public PngMathRendererOptions()
+public PngFigureRendererPluginOptions()
 ```
 
 
@@ -52,7 +52,7 @@ public void setResolution(int value)
 ```
 
 
-Sets the image resolution.
+Gets/sets the image resolution.
 
 **Parameters:**
 | Parameter | Type | Description |

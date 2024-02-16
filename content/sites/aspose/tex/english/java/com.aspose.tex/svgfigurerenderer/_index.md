@@ -3,7 +3,7 @@ title: SvgFigureRenderer
 second_title: Aspose.TeX for Java API Reference
 description: Implements rendering of some LaTeX compact content supposed to fit one page and then cropping it from the page as an SVG file.
 type: docs
-weight: 32
+weight: 33
 url: /java/com.aspose.tex/svgfigurerenderer/
 ---
 **Inheritance:**

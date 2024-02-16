@@ -24,6 +24,7 @@ The **com.aspose.tex** is the root package for all classes that deal with TeX fi
 | [MathRenderer](../com.aspose.tex/mathrenderer) | Implements rendering of math formula. |
 | [MathRendererOptions](../com.aspose.tex/mathrendereroptions) | Math formula common rendering options. |
 | [Metered](../com.aspose.tex/metered) | Provides methods to set metered key. |
+| [NamedInputStream](../com.aspose.tex/namedinputstream) | Combines a stream of a random nature with a name. |
 | [NondisposableInputStream](../com.aspose.tex/nondisposableinputstream) | The class that encapsulates a stream that cannot be closed by calling the  InputStream.close()  method. |
 | [NondisposableOutputStream](../com.aspose.tex/nondisposableoutputstream) | The class that encapsulates a stream that cannot be closed by calling the  OutputStream.close()  method. |
 | [OutputConsoleTerminal](../com.aspose.tex/outputconsoleterminal) | Provides the console as a terminal output destination. |
@@ -43,9 +44,10 @@ The **com.aspose.tex** is the root package for all classes that deal with TeX fi
 | [SvgMathRendererOptions](../com.aspose.tex/svgmathrendereroptions) | Math formula SVG rendering options. |
 | [TeXConfig](../com.aspose.tex/texconfig) | Class providing available TeX configurations. |
 | [TeXExtension](../com.aspose.tex/texextension) | Class defining constants to choose a TeX engine extension from. |
-| [TeXInputStream](../com.aspose.tex/texinputstream) | The class that encapsulates TeX specific features of stream reading. |
+| [TeXInputStream](../com.aspose.tex/texinputstream) | The class that encapsulates TeX specific features of stream reading and associates the stream with its name. |
 | [TeXJob](../com.aspose.tex/texjob) | Implements features of a TeX job. |
 | [TeXOptions](../com.aspose.tex/texoptions) | TeX file processing options class. |
+| [TeXOutputStream](../com.aspose.tex/texoutputstream) | The class that associates an output stream of a random nature with a name. |
 
 ## Interfaces
 

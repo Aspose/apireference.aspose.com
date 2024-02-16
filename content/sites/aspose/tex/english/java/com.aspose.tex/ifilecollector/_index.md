@@ -3,7 +3,7 @@ title: IFileCollector
 second_title: Aspose.TeX for Java API Reference
 description: Defines methods for selecting collections of files.
 type: docs
-weight: 41
+weight: 43
 url: /java/com.aspose.tex/ifilecollector/
 ---```
 public interface IFileCollector

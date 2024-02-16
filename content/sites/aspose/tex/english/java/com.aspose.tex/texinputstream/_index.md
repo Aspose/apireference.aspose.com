@@ -1,9 +1,9 @@
 ---
 title: TeXInputStream
 second_title: Aspose.TeX for Java API Reference
-description: The class that encapsulates TeX specific features of stream reading.
+description: The class that encapsulates TeX specific features of stream reading and associates the stream with its name.
 type: docs
-weight: 38
+weight: 39
 url: /java/com.aspose.tex/texinputstream/
 ---
 **Inheritance:**
@@ -12,16 +12,17 @@ java.lang.Object, java.io.InputStream
 public class TeXInputStream extends InputStream
 ```
 
-The class that encapsulates TeX specific features of stream reading.
+The class that encapsulates TeX specific features of stream reading and associates the stream with its name.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TeXInputStream(InputStream in)](#TeXInputStream-java.io.InputStream-) | Creates a new instance. |
+| [TeXInputStream(InputStream in, String fullName)](#TeXInputStream-java.io.InputStream-java.lang.String-) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [getFullName()](#getFullName--) | Gets the full name of the stream. |
 | [read()](#read--) | Reads the next byte of data from the input stream. |
 | [read(byte[] b)](#read-byte---) | Reads some number of bytes from the input stream and stores them into the buffer array  b . |
 | [read(byte[] b, int off, int len)](#read-byte---int-int-) | Reads up to  len  bytes of data from the input stream into an array of bytes. |
@@ -31,9 +32,9 @@ The class that encapsulates TeX specific features of stream reading.
 | [reset()](#reset--) | Repositions this stream to the position at the time the  mark  method was last called on this input stream. |
 | [skip(long n)](#skip-long-) | Skips over and discards  n  bytes of data from this input stream. |
 | [close()](#close--) | Sets the position of the underlying byte array stream to the beginning. |
-### TeXInputStream(InputStream in) {#TeXInputStream-java.io.InputStream-}
+### TeXInputStream(InputStream in, String fullName) {#TeXInputStream-java.io.InputStream-java.lang.String-}
 ```
-public TeXInputStream(InputStream in)
+public TeXInputStream(InputStream in, String fullName)
 ```
 
 
@@ -43,7 +44,18 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | in | java.io.InputStream | The Java native  InputStream  instance. |
+| fullName | java.lang.String | The full name. |
 
+### getFullName() {#getFullName--}
+```
+public String getFullName()
+```
+
+
+Gets the full name of the stream.
+
+**Returns:**
+java.lang.String - The full name of the stream.
 ### read() {#read--}
 ```
 public int read()

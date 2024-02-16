@@ -20,13 +20,13 @@ Implements the interface for outputting text and graphic content to PDF document
 
 | Constructor | Description |
 | --- | --- |
-| [PdfDevice()](#PdfDevice--) | Creates new instance. |
-| [PdfDevice(OutputStream stream)](#PdfDevice-java.io.OutputStream-) | Creates new instance. |
+| [PdfDevice()](#PdfDevice--) | Creates a new instance. |
+| [PdfDevice(OutputStream stream)](#PdfDevice-java.io.OutputStream-) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [init()](#init--) | Initializes device. |
+| [initialize()](#initialize--) | Initializes the device. |
 | [getPageCount()](#getPageCount--) | Gets the number of pages. |
 | [isReady()](#isReady--) | Shows if device is ready for output. |
 | [getDestinationName()](#getDestinationName--) | Gets destination name: output file name or device description. |
@@ -60,7 +60,7 @@ public PdfDevice()
 ```
 
 
-Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
+Creates a new instance. The output file will be written to the output working directory taking the job name as a file name.
 
 ### PdfDevice(OutputStream stream) {#PdfDevice-java.io.OutputStream-}
 ```
@@ -68,20 +68,20 @@ public PdfDevice(OutputStream stream)
 ```
 
 
-Creates new instance. The output file will be written to specified stream.
+Creates a new instance. The output file will be written to specified stream.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | java.io.OutputStream | The stream to write the output file to. |
 
-### init() {#init--}
+### initialize() {#initialize--}
 ```
-public void init()
+public void initialize()
 ```
 
 
-Initializes device.
+Initializes the device.
 
 ### getPageCount() {#getPageCount--}
 ```

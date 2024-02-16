@@ -3,7 +3,7 @@ title: IOutputWorkingDirectory
 second_title: Aspose.TeX for Java API Reference
 description: Interface of generalized output working directory.
 type: docs
-weight: 46
+weight: 48
 url: /java/com.aspose.tex/ioutputworkingdirectory/
 ---
 **All Implemented Interfaces:**
@@ -17,20 +17,19 @@ Interface of generalized output working directory.
 
 | Method | Description |
 | --- | --- |
-| [getOutputFile(String fileName, String[] fullName)](#getOutputFile-java.lang.String-java.lang.String---) | Returns the stream to write to. |
-### getOutputFile(String fileName, String[] fullName) {#getOutputFile-java.lang.String-java.lang.String---}
+| [getOutputFile(String fileName)](#getOutputFile-java.lang.String-) | Returns the stream to write to. |
+### getOutputFile(String fileName) {#getOutputFile-java.lang.String-}
 ```
-public abstract OutputStream getOutputFile(String fileName, String[] fullName)
+public abstract TeXOutputStream getOutputFile(String fileName)
 ```
 
 
-Returns the stream to write to.
+Returns the stream to write to. MUST NOT return null. In case a stream cannot be returned, it MUST return a NamedStream object with a null Stream property value instead.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | The file name. |
-| fullName | java.lang.String[] | The full file name. |
 
 **Returns:**
-java.io.OutputStream - The stream.
+[TeXOutputStream](../../com.aspose.tex/texoutputstream) - The named TeX output stream.

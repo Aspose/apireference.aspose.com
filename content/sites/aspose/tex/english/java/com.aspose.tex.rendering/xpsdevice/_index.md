@@ -20,13 +20,13 @@ Implements the interface for outputting text and graphic content to XPS document
 
 | Constructor | Description |
 | --- | --- |
-| [XpsDevice()](#XpsDevice--) | Creates new instance. |
-| [XpsDevice(OutputStream stream)](#XpsDevice-java.io.OutputStream-) | Creates new instance. |
+| [XpsDevice()](#XpsDevice--) | Creates a new instance. |
+| [XpsDevice(OutputStream stream)](#XpsDevice-java.io.OutputStream-) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [init()](#init--) | Initializes device. |
+| [initialize()](#initialize--) | Initializes the device. |
 | [getPageCount()](#getPageCount--) | Gets the number of pages. |
 | [isReady()](#isReady--) | Shows if device is ready for output. |
 | [getDestinationName()](#getDestinationName--) | Gets destination name: output file name or device description. |
@@ -60,7 +60,7 @@ public XpsDevice()
 ```
 
 
-Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
+Creates a new instance. The output file will be written to the output working directory taking the job name as a file name.
 
 ### XpsDevice(OutputStream stream) {#XpsDevice-java.io.OutputStream-}
 ```
@@ -68,20 +68,20 @@ public XpsDevice(OutputStream stream)
 ```
 
 
-Creates new instance. The output file will be written to specified stream.
+Creates a new instance. The output file will be written to specified stream.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | java.io.OutputStream | The stream to write the output file to. |
 
-### init() {#init--}
+### initialize() {#initialize--}
 ```
-public void init()
+public void initialize()
 ```
 
 
-Initializes device.
+Initializes the device.
 
 ### getPageCount() {#getPageCount--}
 ```

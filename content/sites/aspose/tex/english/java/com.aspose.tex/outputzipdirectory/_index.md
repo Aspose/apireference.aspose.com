@@ -3,7 +3,7 @@ title: OutputZipDirectory
 second_title: Aspose.TeX for Java API Reference
 description: Implements the method for getting a file stream to write to when working directory is a ZIP archive.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.tex/outputzipdirectory/
 ---
 **Inheritance:**
@@ -25,8 +25,8 @@ Implements the method for getting a file stream to write to when working directo
 
 | Method | Description |
 | --- | --- |
-| [getFile(String fileName, String[] fullName, boolean searchSubdirectories)](#getFile-java.lang.String-java.lang.String---boolean-) | Returns the stream to read from. |
-| [getOutputFile(String fileName, String[] fullName)](#getOutputFile-java.lang.String-java.lang.String---) | Returns the stream to write to. |
+| [getFile(String fileName, boolean searchSubdirectories)](#getFile-java.lang.String-boolean-) | Returns the stream to read from. |
+| [getOutputFile(String fileName)](#getOutputFile-java.lang.String-) | Returns the stream to write to. |
 | [finish()](#finish--) | Finalizes ZIP archive. |
 | [close()](#close--) | Disposes the instance. |
 ### OutputZipDirectory(OutputStream zipStream) {#OutputZipDirectory-java.io.OutputStream-}
@@ -42,9 +42,9 @@ Creates new instance.
 | --- | --- | --- |
 | zipStream | java.io.OutputStream | The stream to write the archive to. |
 
-### getFile(String fileName, String[] fullName, boolean searchSubdirectories) {#getFile-java.lang.String-java.lang.String---boolean-}
+### getFile(String fileName, boolean searchSubdirectories) {#getFile-java.lang.String-boolean-}
 ```
-public TeXInputStream getFile(String fileName, String[] fullName, boolean searchSubdirectories)
+public TeXInputStream getFile(String fileName, boolean searchSubdirectories)
 ```
 
 
@@ -54,14 +54,13 @@ Returns the stream to read from.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | The file name. |
-| fullName | java.lang.String[] | The full file name. |
 | searchSubdirectories | boolean | Indicates whether to look for a file in subdirectories. |
 
 **Returns:**
-[TeXInputStream](../../com.aspose.tex/texinputstream) - The stream.
-### getOutputFile(String fileName, String[] fullName) {#getOutputFile-java.lang.String-java.lang.String---}
+[TeXInputStream](../../com.aspose.tex/texinputstream) - The named TeX input stream.
+### getOutputFile(String fileName) {#getOutputFile-java.lang.String-}
 ```
-public OutputStream getOutputFile(String fileName, String[] fullName)
+public TeXOutputStream getOutputFile(String fileName)
 ```
 
 
@@ -71,10 +70,9 @@ Returns the stream to write to.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | The file name. |
-| fullName | java.lang.String[] | The full file name. |
 
 **Returns:**
-java.io.OutputStream - The stream. The full file name via  fullName  parameter.
+[TeXOutputStream](../../com.aspose.tex/texoutputstream) - The named TeX output stream.
 ### finish() {#finish--}
 ```
 public void finish()

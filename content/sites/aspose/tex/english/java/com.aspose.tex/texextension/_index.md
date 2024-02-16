@@ -3,7 +3,7 @@ title: TeXExtension
 second_title: Aspose.TeX for Java API Reference
 description: Class defining constants to choose a TeX engine extension from.
 type: docs
-weight: 37
+weight: 38
 url: /java/com.aspose.tex/texextension/
 ---
 **Inheritance:**

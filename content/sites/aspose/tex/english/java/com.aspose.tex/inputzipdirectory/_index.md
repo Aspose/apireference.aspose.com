@@ -25,7 +25,7 @@ Implements the method for getting a file stream to write to when working directo
 
 | Method | Description |
 | --- | --- |
-| [getFile(String fileName, String[] fullName, boolean searchSubdirectories)](#getFile-java.lang.String-java.lang.String---boolean-) | Returns the stream to read from. |
+| [getFile(String fileName, boolean searchSubdirectories)](#getFile-java.lang.String-boolean-) | Returns the stream to read from. |
 | [getFileNamesByExtension(String extension)](#getFileNamesByExtension-java.lang.String-) | Returns the array of file names by an extension. |
 | [getFileNamesByExtension(String extension, String path)](#getFileNamesByExtension-java.lang.String-java.lang.String-) | Returns the array of file names by an extension. |
 | [close()](#close--) | Disposes the instance. |
@@ -40,12 +40,12 @@ Creates new instance.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| zipStream | java.io.InputStream | The stream to write the archive to. |
+| zipStream | java.io.InputStream | Returns the stream to read from. |
 | basePath | java.lang.String | The base path inside the ZIP archive. |
 
-### getFile(String fileName, String[] fullName, boolean searchSubdirectories) {#getFile-java.lang.String-java.lang.String---boolean-}
+### getFile(String fileName, boolean searchSubdirectories) {#getFile-java.lang.String-boolean-}
 ```
-public TeXInputStream getFile(String fileName, String[] fullName, boolean searchSubdirectories)
+public TeXInputStream getFile(String fileName, boolean searchSubdirectories)
 ```
 
 
@@ -55,11 +55,10 @@ Returns the stream to read from.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | The file name. |
-| fullName | java.lang.String[] | The full file name. |
 | searchSubdirectories | boolean | Indicates whether to look for a file in subdirectories. |
 
 **Returns:**
-[TeXInputStream](../../com.aspose.tex/texinputstream) - The stream. The full file name via  fullName  parameter.
+[TeXInputStream](../../com.aspose.tex/texinputstream) - The named stream.
 ### getFileNamesByExtension(String extension) {#getFileNamesByExtension-java.lang.String-}
 ```
 public String[] getFileNamesByExtension(String extension)
