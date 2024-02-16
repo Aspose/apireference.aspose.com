@@ -3,7 +3,7 @@ title: PngMathRendererOptions
 second_title: Aspose.TeX for Java API Reference
 description: Math formula PNG rendering options.
 type: docs
-weight: 30
+weight: 31
 url: /java/com.aspose.tex/pngmathrendereroptions/
 ---
 **Inheritance:**

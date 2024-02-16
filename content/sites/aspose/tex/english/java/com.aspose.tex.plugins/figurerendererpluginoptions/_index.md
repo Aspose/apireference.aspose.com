@@ -1,28 +1,28 @@
 ---
-title: MathRendererOptions
+title: FigureRendererPluginOptions
 second_title: Aspose.TeX for Java API Reference
-description: The options for the MathRenderer plugin.
+description: The options for the Figure Renderer plugin.
 type: docs
-weight: 14
-url: /java/com.aspose.tex.plugins/mathrendereroptions/
+weight: 11
+url: /java/com.aspose.tex.plugins/figurerendererpluginoptions/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.tex.FigureRendererOptions](../../com.aspose.tex/figurerendereroptions), [com.aspose.tex.MathRendererOptions](../../com.aspose.tex/mathrendereroptions)
+java.lang.Object, [com.aspose.tex.FigureRendererOptions](../../com.aspose.tex/figurerendereroptions)
 
 **All Implemented Interfaces:**
 [com.aspose.tex.plugins.IPluginOptions](../../com.aspose.tex.plugins/ipluginoptions)
 ```
-public abstract class MathRendererOptions extends MathRendererOptions implements IPluginOptions
+public abstract class FigureRendererPluginOptions extends FigureRendererOptions implements IPluginOptions
 ```
 
-The options for the  MathRenderer  plugin.
+The options for the Figure Renderer plugin.
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getInputDataCollection()](#getInputDataCollection--) | Gets the collection of data sources. |
 | [addInputDataSource(IDataSource dataSource)](#addInputDataSource-com.aspose.tex.plugins.IDataSource-) | Adds a new data source to the collection. |
-| [getOutputDataCollection()](#getOutputDataCollection--) | Gets the collection of targets for saving operation results. |
+| [getOutputDataCollection()](#getOutputDataCollection--) | Gets the collection of added targets for saving operation results. |
 | [addOutputDataTarget(IDataSource dataTarget)](#addOutputDataTarget-com.aspose.tex.plugins.IDataSource-) | Adds a new input data target to the collection. |
 | [getOperationName()](#getOperationName--) | Returns the operation name. |
 ### getInputDataCollection() {#getInputDataCollection--}
@@ -54,10 +54,10 @@ public List<IDataSource> getOutputDataCollection()
 ```
 
 
-Gets the collection of targets for saving operation results.
+Gets the collection of added targets for saving operation results.
 
 **Returns:**
-java.util.List<com.aspose.tex.plugins.IDataSource> - The collection of targets for saving operation results.
+java.util.List<com.aspose.tex.plugins.IDataSource> - The collection of added targets for saving operation results.
 ### addOutputDataTarget(IDataSource dataTarget) {#addOutputDataTarget-com.aspose.tex.plugins.IDataSource-}
 ```
 public void addOutputDataTarget(IDataSource dataTarget)

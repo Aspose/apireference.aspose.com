@@ -3,7 +3,7 @@ title: TeXConfig
 second_title: Aspose.TeX for Java API Reference
 description: Class providing available TeX configurations.
 type: docs
-weight: 36
+weight: 37
 url: /java/com.aspose.tex/texconfig/
 ---
 **Inheritance:**

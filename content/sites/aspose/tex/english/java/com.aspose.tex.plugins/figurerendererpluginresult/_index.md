@@ -1,10 +1,10 @@
 ---
-title: FigureRendererResult
+title: FigureRendererPluginResult
 second_title: Aspose.TeX for Java API Reference
-description: The MathRenderer plugins common result.
+description: The Figure Renderer plugins common result.
 type: docs
 weight: 12
-url: /java/com.aspose.tex.plugins/figurerendererresult/
+url: /java/com.aspose.tex.plugins/figurerendererpluginresult/
 ---
 **Inheritance:**
 java.lang.Object
@@ -12,10 +12,10 @@ java.lang.Object
 **All Implemented Interfaces:**
 [com.aspose.tex.plugins.IOperationResult](../../com.aspose.tex.plugins/ioperationresult)
 ```
-public final class FigureRendererResult implements IOperationResult
+public final class FigureRendererPluginResult implements IOperationResult
 ```
 
-The MathRenderer plugin's common result.
+The Figure Renderer plugin's common result.
 ## Methods
 
 | Method | Description |

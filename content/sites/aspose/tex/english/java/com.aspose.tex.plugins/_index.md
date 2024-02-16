@@ -14,19 +14,19 @@ The **com.aspose.tex.plugins** package provides metered plugins and supplementar
 
 | Class | Description |
 | --- | --- |
-| [FigureRenderer](../com.aspose.tex.plugins/figurerenderer) | FigureRenderer plugin class. |
-| [FigureRendererOptions](../com.aspose.tex.plugins/figurerendereroptions) | The options for the  FigureRenderer  plugin. |
-| [FigureRendererResult](../com.aspose.tex.plugins/figurerendererresult) | The MathRenderer plugin's common result. |
-| [MathRenderer](../com.aspose.tex.plugins/mathrenderer) | MathRenderer plugin class. |
-| [MathRendererOptions](../com.aspose.tex.plugins/mathrendereroptions) | The options for the  MathRenderer  plugin. |
-| [MathRendererResult](../com.aspose.tex.plugins/mathrendererresult) | The MathRenderer plugin's common result. |
-| [PngFigureRendererOptions](../com.aspose.tex.plugins/pngfigurerendereroptions) | The FigureRenderer plugin's options to render a LaTeX figure in PNG. |
-| [PngMathRendererOptions](../com.aspose.tex.plugins/pngmathrendereroptions) | The MathRenderer plugin's options to render a math formula in PNG. |
+| [FigureRendererPlugin](../com.aspose.tex.plugins/figurerendererplugin) | The Figure Renderer plugin class. |
+| [FigureRendererPluginOptions](../com.aspose.tex.plugins/figurerendererpluginoptions) | The options for the Figure Renderer plugin. |
+| [FigureRendererPluginResult](../com.aspose.tex.plugins/figurerendererpluginresult) | The Figure Renderer plugin's common result. |
+| [MathRendererPlugin](../com.aspose.tex.plugins/mathrendererplugin) | MathRenderer plugin class. |
+| [MathRendererPluginOptions](../com.aspose.tex.plugins/mathrendererpluginoptions) | The options for the Math Renderer plugin. |
+| [MathRendererPluginResult](../com.aspose.tex.plugins/mathrendererpluginresult) | The MathRenderer plugin's common result. |
+| [PngFigureRendererPluginOptions](../com.aspose.tex.plugins/pngfigurerendererpluginoptions) | The Figure Renderer plugin's options to render a LaTeX figure in PNG. |
+| [PngMathRendererPluginOptions](../com.aspose.tex.plugins/pngmathrendererpluginoptions) | The Math Renderer plugin's options to render a math formula in PNG. |
 | [ResultContainer](../com.aspose.tex.plugins/resultcontainer) | The plugin execution result container. |
 | [StreamDataSource](../com.aspose.tex.plugins/streamdatasource) | The stream data source for plugin's save operations. |
 | [StringDataSource](../com.aspose.tex.plugins/stringdatasource) | The string data source for plugin's load operations. |
-| [SvgFigureRendererOptions](../com.aspose.tex.plugins/svgfigurerendereroptions) | The FigureRenderer plugin's options to render a LaTeX figure in SVG. |
-| [SvgMathRendererOptions](../com.aspose.tex.plugins/svgmathrendereroptions) | The MathRenderer plugin's options to render a math formula in SVG. |
+| [SvgFigureRendererPluginOptions](../com.aspose.tex.plugins/svgfigurerendererpluginoptions) | The Figure Renderer plugin's options to render a LaTeX figure in SVG. |
+| [SvgMathRendererPluginOptions](../com.aspose.tex.plugins/svgmathrendererpluginoptions) | The Math Renderer plugin's options to render a math formula in SVG. |
 
 ## Interfaces
 

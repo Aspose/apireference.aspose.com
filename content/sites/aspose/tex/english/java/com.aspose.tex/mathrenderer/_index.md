@@ -22,7 +22,7 @@ Implements rendering of math formula.
 
 | Method | Description |
 | --- | --- |
-| [render(String formula, OutputStream stream, MathRendererOptions mathRendererOptions, Size2D size)](#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-) | Renders a math formula. |
+| [render(String formula, OutputStream stream, MathRendererOptions mathRendererOptions)](#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-) | Renders a math formula. |
 ### MathRenderer() {#MathRenderer--}
 ```
 public MathRenderer()
@@ -31,9 +31,9 @@ public MathRenderer()
 
 Creates a new instance.
 
-### render(String formula, OutputStream stream, MathRendererOptions mathRendererOptions, Size2D size) {#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-}
+### render(String formula, OutputStream stream, MathRendererOptions mathRendererOptions) {#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-}
 ```
-public void render(String formula, OutputStream stream, MathRendererOptions mathRendererOptions, Size2D size)
+public Size2D render(String formula, OutputStream stream, MathRendererOptions mathRendererOptions)
 ```
 
 
@@ -45,5 +45,6 @@ Renders a math formula.
 | formula | java.lang.String | The formula LaTeX program. |
 | stream | java.io.OutputStream | The stream to write the output to. |
 | mathRendererOptions | [MathRendererOptions](../../com.aspose.tex/mathrendereroptions) | The rendering options. |
-| size | [Size2D](../../com.aspose.tex/size2d) | The output image size. |
 
+**Returns:**
+[Size2D](../../com.aspose.tex/size2d) - The output image size.

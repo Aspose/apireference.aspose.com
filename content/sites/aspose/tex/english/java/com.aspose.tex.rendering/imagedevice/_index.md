@@ -21,12 +21,12 @@ Implements the interface for outputting text and graphic content to image(s).
 | Constructor | Description |
 | --- | --- |
 | [ImageDevice()](#ImageDevice--) | Creates new instance. |
-| [ImageDevice(boolean whiteBackground)](#ImageDevice-boolean-) | Creates new instance. |
+| [ImageDevice(boolean whiteBackground)](#ImageDevice-boolean-) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [init()](#init--) | Initializes device. |
+| [initialize()](#initialize--) | Initializes the device. |
 | [getPageCount()](#getPageCount--) | Gets the number of pages. |
 | [isReady()](#isReady--) | Shows if device is ready for output. |
 | [getDestinationName()](#getDestinationName--) | Gets destination name: output file name or device description. |
@@ -67,20 +67,20 @@ public ImageDevice(boolean whiteBackground)
 ```
 
 
-Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
+Creates a new instance. The output file will be written to the output working directory taking the job name as a file name.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | whiteBackground | boolean | If true then fills white background on every page. |
 
-### init() {#init--}
+### initialize() {#initialize--}
 ```
-public void init()
+public void initialize()
 ```
 
 
-Initializes device.
+Initializes the device.
 
 ### getPageCount() {#getPageCount--}
 ```

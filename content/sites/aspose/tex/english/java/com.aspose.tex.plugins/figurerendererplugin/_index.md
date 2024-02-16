@@ -1,10 +1,10 @@
 ---
-title: FigureRenderer
+title: FigureRendererPlugin
 second_title: Aspose.TeX for Java API Reference
-description: FigureRenderer plugin class.
+description: The Figure Renderer plugin class.
 type: docs
 weight: 10
-url: /java/com.aspose.tex.plugins/figurerenderer/
+url: /java/com.aspose.tex.plugins/figurerendererplugin/
 ---
 **Inheritance:**
 java.lang.Object
@@ -12,20 +12,20 @@ java.lang.Object
 **All Implemented Interfaces:**
 [com.aspose.tex.plugins.IPlugin](../../com.aspose.tex.plugins/iplugin)
 ```
-public class FigureRenderer implements IPlugin
+public class FigureRendererPlugin implements IPlugin
 ```
 
-FigureRenderer plugin class.
+The Figure Renderer plugin class.
 
 --------------------
 
 The example shows how to render a LaTeX fragment in PNG.
 
 ```
-// Create FigureRenderer.
- FigureRenderer renderer = new FigureRenderer();
- // Create the PngFigureRendererOptions instance and set up options.
- PngFigureRendererOptions options = new PngFigureRendererOptions();
+// Create the Figure Renderer plugin.
+ FigureRendererPlugin renderer = new FigureRendererPlugin();
+ // Create the PngFigureRendererPluginOptions instance and set up options.
+ PngFigureRendererPluginOptions options = new PngFigureRendererPluginOptions();
  options.setBackgroundColor(Color.YELLOW);
  options.setResolution(150);
  options.setPreamble("\\usepackage[a6paper]{geometry} \\usepackage{pict2e} \\setlength{\\unitlength}{0.8cm}");
@@ -41,29 +41,29 @@ The example shows how to render a LaTeX fragment in PNG.
  final OutputStream stream = new FileOutputStream("d:\\output.png");
  try
  {
- 	// Add an output stream.
- 	options.addOutputDataTarget(new StreamDataSource(stream));
- 	// Run the process.
- 	ResultContainer result = renderer.process(options);
+ 	   // Add an output stream.
+ 	   options.addOutputDataTarget(new StreamDataSource(stream));
+ 	   // Run the process.
+ 	   ResultContainer result = renderer.process(options);
  }
  finally
  {
- 	stream.close();
+ 	   stream.close();
  }
 ```
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [FigureRenderer()](#FigureRenderer--) |  |
+| [FigureRendererPlugin()](#FigureRendererPlugin--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [process(IPluginOptions options)](#process-com.aspose.tex.plugins.IPluginOptions-) | Starts the FigureRenderer processing with the specified parameters. |
-### FigureRenderer() {#FigureRenderer--}
+| [process(IPluginOptions options)](#process-com.aspose.tex.plugins.IPluginOptions-) | Runs Figure Renderer processing with the specified parameters. |
+### FigureRendererPlugin() {#FigureRendererPlugin--}
 ```
-public FigureRenderer()
+public FigureRendererPlugin()
 ```
 
 
@@ -73,7 +73,7 @@ public ResultContainer process(IPluginOptions options)
 ```
 
 
-Starts the FigureRenderer processing with the specified parameters.
+Runs Figure Renderer processing with the specified parameters.
 
 **Parameters:**
 | Parameter | Type | Description |

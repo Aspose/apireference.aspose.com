@@ -22,7 +22,7 @@ Implements the interface for outputting text and graphic content to abstract dev
 
 | Method | Description |
 | --- | --- |
-| [init()](#init--) | Initializes device. |
+| [initialize()](#initialize--) | Initializes the device. |
 | [getPageCount()](#getPageCount--) | Gets the number of pages. |
 | [isReady()](#isReady--) | Shows if device is ready for output. |
 | [getDestinationName()](#getDestinationName--) | Gets destination name: output file name or device description. |
@@ -55,13 +55,13 @@ public Device()
 
 Creates a new instance.
 
-### init() {#init--}
+### initialize() {#initialize--}
 ```
-public abstract void init()
+public abstract void initialize()
 ```
 
 
-Initializes device.
+Initializes the device.
 
 ### getPageCount() {#getPageCount--}
 ```

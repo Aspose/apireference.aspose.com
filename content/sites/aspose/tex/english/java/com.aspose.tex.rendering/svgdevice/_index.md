@@ -20,12 +20,12 @@ Implements the interface for outputting text and graphic content to image(s).
 
 | Constructor | Description |
 | --- | --- |
-| [SvgDevice()](#SvgDevice--) | Creates new instance. |
+| [SvgDevice()](#SvgDevice--) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [init()](#init--) | Initializes device. |
+| [initialize()](#initialize--) | Initializes device. |
 | [getPageCount()](#getPageCount--) | Gets the number of pages. |
 | [isReady()](#isReady--) | Shows if device is ready for output. |
 | [getDestinationName()](#getDestinationName--) | Gets destination name: output file name or device description. |
@@ -60,11 +60,11 @@ public SvgDevice()
 ```
 
 
-Creates new instance. The output file will be written to the output working directory taking the job name as a file name.
+Creates a new instance. The output file will be written to the output working directory taking the job name as a file name.
 
-### init() {#init--}
+### initialize() {#initialize--}
 ```
-public void init()
+public void initialize()
 ```
 
 

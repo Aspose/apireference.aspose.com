@@ -1,10 +1,10 @@
 ---
-title: MathRenderer
+title: MathRendererPlugin
 second_title: Aspose.TeX for Java API Reference
 description: MathRenderer plugin class.
 type: docs
 weight: 13
-url: /java/com.aspose.tex.plugins/mathrenderer/
+url: /java/com.aspose.tex.plugins/mathrendererplugin/
 ---
 **Inheritance:**
 java.lang.Object
@@ -12,7 +12,7 @@ java.lang.Object
 **All Implemented Interfaces:**
 [com.aspose.tex.plugins.IPlugin](../../com.aspose.tex.plugins/iplugin)
 ```
-public class MathRenderer implements IPlugin
+public class MathRendererPlugin implements IPlugin
 ```
 
 MathRenderer plugin class.
@@ -22,10 +22,10 @@ MathRenderer plugin class.
 The example shows how to render a LaTeX formula in PNG.
 
 ```
-// Create MathRenderer.
- MathRenderer renderer = new MathRenderer();
- // Create the PngMathRendererOptions instance and set up options.
- PngMathRendererOptions options = new PngMathRendererOptions();
+// Create the Math Renderer plugin.
+ MathRendererPlugin renderer = new MathRendererPlugin();
+ // Create the PngMathRendererPLuginOptions instance and set up options.
+ PngMathRendererPluginOptions options = new PngMathRendererPluginOptions();
  options.setBackgroundColor(Color.YELLOW);
  options.setTextColor(Color.BLUE);
  options.setResolution(150);
@@ -51,15 +51,15 @@ The example shows how to render a LaTeX formula in PNG.
 
 | Constructor | Description |
 | --- | --- |
-| [MathRenderer()](#MathRenderer--) |  |
+| [MathRendererPlugin()](#MathRendererPlugin--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [process(IPluginOptions options)](#process-com.aspose.tex.plugins.IPluginOptions-) | Starts the MathRenderer processing with the specified parameters. |
-### MathRenderer() {#MathRenderer--}
+| [process(IPluginOptions options)](#process-com.aspose.tex.plugins.IPluginOptions-) | Runs Math Renderer processing with the specified parameters. |
+### MathRendererPlugin() {#MathRendererPlugin--}
 ```
-public MathRenderer()
+public MathRendererPlugin()
 ```
 
 
@@ -69,7 +69,7 @@ public ResultContainer process(IPluginOptions options)
 ```
 
 
-Starts the MathRenderer processing with the specified parameters.
+Runs Math Renderer processing with the specified parameters.
 
 **Parameters:**
 | Parameter | Type | Description |
