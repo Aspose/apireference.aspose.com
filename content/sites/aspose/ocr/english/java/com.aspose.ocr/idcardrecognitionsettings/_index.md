@@ -3,7 +3,7 @@ title: IDCardRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the ID Card recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 14
+weight: 15
 url: /java/com.aspose.ocr/idcardrecognitionsettings/
 ---
 

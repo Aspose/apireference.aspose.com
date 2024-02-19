@@ -1,9 +1,9 @@
 ---
 title: RecognitionSettings
 second_title: Aspose.OCR for Java API Reference
-description: Settings for the image recognition Contains elements that allow customizing the recognition process
+description: Settings for the image recognition.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.ocr/recognitionsettings/
 ---
 
@@ -13,12 +13,12 @@ java.lang.Object
 public class RecognitionSettings
 ```
 
-Settings for the image recognition Contains elements that allow customizing the recognition process
+Settings for the image recognition. Contains elements that allow customizing the recognition process.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [RecognitionSettings()](#RecognitionSettings--) | Default constructor: set recognitionAreas null, detectAreas true, autoSkew true, recognizeSingleLine false. |
+| [RecognitionSettings()](#RecognitionSettings--) | Default constructor: set recognitionAreas null, linesFiltration false, autoSkew false, recognizeSingleLine false. |
 | [RecognitionSettings(ArrayList<Rectangle> recognitionAreas, boolean recognizeSingleLine)](#RecognitionSettings-java.util.ArrayList-java.awt.Rectangle--boolean-) | Constructor allows to set all options. |
 | [RecognitionSettings(boolean recognizeSingleLine)](#RecognitionSettings-boolean-) | Constructor allows to set recognizeSingleLine. |
 | [RecognitionSettings(ReceiptRecognitionSettings recSettings)](#RecognitionSettings-com.aspose.ocr.ReceiptRecognitionSettings-) |  |
@@ -47,7 +47,7 @@ public RecognitionSettings()
 ```
 
 
-Default constructor: set recognitionAreas null, detectAreas true, autoSkew true, recognizeSingleLine false.
+Default constructor: set recognitionAreas null, linesFiltration false, autoSkew false, recognizeSingleLine false.
 
 ### RecognitionSettings(ArrayList<Rectangle> recognitionAreas, boolean recognizeSingleLine) {#RecognitionSettings-java.util.ArrayList-java.awt.Rectangle--boolean-}
 ```
@@ -233,7 +233,7 @@ Allowed characters set. Determines the array of characters allowed for recogniti
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| allowedCharacters | java.lang.String | contains array of characters. |
+| allowedCharacters | java.lang.String | contains string of characters. |
 
 ### setDetectAreasMode(DetectAreasMode detectAreasMode) {#setDetectAreasMode-com.aspose.ocr.DetectAreasMode-}
 ```
@@ -272,5 +272,5 @@ Detect images with white text on dark/black background and automatically choose 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. |
+| automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. True by default. |
 

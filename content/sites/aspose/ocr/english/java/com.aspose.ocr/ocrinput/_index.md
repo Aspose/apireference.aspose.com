@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for Java API Reference
 description: Main class for recognize text from images.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.ocr/ocrinput/
 ---
 
@@ -36,7 +36,7 @@ Main class for recognize text from images.
 | [add(int[] pixels, int width, int height, int bitsPerPixel)](#add-int---int-int-int-) | Add the decoded image to the list for recognition / processing. |
 | [add(InputStream stream)](#add-java.io.InputStream-) | Add the InputStream containing the image for recognition / processing. |
 | [add(InputStream stream, int startPage, int pagesCount)](#add-java.io.InputStream-int-int-) | Add the InputStream containing the multipage image for recognition / processing. |
-| [addBase64(String base64)](#addBase64-java.lang.String-) | Add the memory stream containing the image for recognition / processing. |
+| [addBase64(String base64)](#addBase64-java.lang.String-) | Add the base64 string containing the image for recognition / processing. |
 | [clear()](#clear--) | Set the amount of items for processing / recognition as 0. |
 | [size()](#size--) | Amount of items for processing / recognition. |
 | [get(int index)](#get-int-) | Returns information about processed / recognized image. |
@@ -126,7 +126,7 @@ Add the multipage images / documents for recognition / processing. The type of t
 | --- | --- | --- |
 | fullPath | java.lang.String | Path to the image/ document / folder / archive. |
 | startPage | int | The first page/image for processing / recognition. Use for documents, zip, folders. |
-| pagesCount | int | The total amount of pages/images for processing / recognition. Use for documents, zip, folders. Default = 1. |
+| pagesCount | int | The total amount of pages/images for processing / recognition. Use for documents, zip, folders. Default = all. |
 
 ### add(BufferedImage image, int startPage, int pagesCount) {#add-java.awt.image.BufferedImage-int-int-}
 ```
@@ -141,7 +141,7 @@ Add the BufferedImage containing the multipage image for recognition / processin
 | --- | --- | --- |
 | image | java.awt.image.BufferedImage | BufferedImage containing the multipage document. |
 | startPage | int | The first page/image for processing / recognition. Use for documents. |
-| pagesCount | int | The total amount of pages/images for processing / recognition. Use for documents. Default = 1. |
+| pagesCount | int | The total amount of pages/images for processing / recognition. Use for documents. Default = all. |
 
 ### add(int[] pixels, int width, int height, int bitsPerPixel) {#add-int---int-int-int-}
 ```
@@ -185,7 +185,7 @@ Add the InputStream containing the multipage image for recognition / processing.
 | --- | --- | --- |
 | stream | java.io.InputStream | InputStream containing the multipage document. |
 | startPage | int | The first page/image for processing / recognition. Use for documents. |
-| pagesCount | int | The total amount of pages/images for processing / recognition. Use for documents. Default = 1. |
+| pagesCount | int | The total amount of pages/images for processing / recognition. Use for documents. Default = all. |
 
 ### addBase64(String base64) {#addBase64-java.lang.String-}
 ```
@@ -193,7 +193,7 @@ public void addBase64(String base64)
 ```
 
 
-Add the memory stream containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor.
+Add the base64 string containing the image for recognition / processing. The type of the image must correspond to the type specified in the constructor.
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for Java API Reference
 description: The results of the image recognition.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.ocr/recognitionresult/
 ---
 
@@ -28,7 +28,7 @@ The results of the image recognition. Contains elements with recognition informa
 | [recognitionText](#recognitionText) | Recognition result of all page or one area. |
 | [recognitionAreasRectangles](#recognitionAreasRectangles) | List recognition results of a list of areas (Rectangles). |
 | [recognitionCharactersList](#recognitionCharactersList) | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
-| [skew](#skew) | List recognition results of a list of areas (Rectangles). |
+| [skew](#skew) | Skew angle of the image. |
 | [warnings](#warnings) | Gets or sets list of the warnings messages describing non-critical faults appeared during generation. |
 ## Methods
 
@@ -37,8 +37,8 @@ The results of the image recognition. Contains elements with recognition informa
 | [GetJson()](#GetJson--) | Form JSON string with recognition results. |
 | [GetXml()](#GetXml--) | Form JSON string with recognition results. |
 | [save(String fullFileName)](#save-java.lang.String-) | Saves the document in the plain text |
-| [save(String fullFileName, Format format)](#save-java.lang.String-com.aspose.ocr.Format-) | Saves the document in the plain text or Microsoft Word Text Document format. |
-| [saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Saves the corrected text in the document in the plain text or Microsoft Word Text Document format. |
+| [save(String fullFileName, Format format)](#save-java.lang.String-com.aspose.ocr.Format-) | Saves the document in the plain text or other document format. |
+| [saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Saves the corrected text in the document in the plain text or other format. |
 | [saveSpellCheckCorrectedText(String fullFileName, Format format)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-) | Saves the corrected with English dictionary text in the document in the plain text or Microsoft Word Text Document format. |
 | [getSpellCheckCorrectedText(SpellCheck.SpellCheckLanguage language)](#getSpellCheckCorrectedText-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [getSpellCheckCorrectedText()](#getSpellCheckCorrectedText--) | Corrects text (replaces misspelled words). |
@@ -101,7 +101,7 @@ public double skew
 ```
 
 
-List recognition results of a list of areas (Rectangles).
+Skew angle of the image.
 
 ### warnings {#warnings}
 ```
@@ -130,7 +130,7 @@ public String GetXml()
 Form JSON string with recognition results.
 
 **Returns:**
-java.lang.String - Recognition results as JSON string.
+java.lang.String - Recognition results as XML string.
 ### save(String fullFileName) {#save-java.lang.String-}
 ```
 public void save(String fullFileName)
@@ -150,12 +150,12 @@ public void save(String fullFileName, Format format)
 ```
 
 
-Saves the document in the plain text or Microsoft Word Text Document format.
+Saves the document in the plain text or other document format.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullFileName | java.lang.String | Filename with a path for saving recognition result |
+| fullFileName | java.lang.String | Filename with a path for saving recognition result. |
 | format | [Format](../../com.aspose.ocr/format) | Document format enum type of Format. |
 
 ### saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language) {#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage-}
@@ -164,14 +164,14 @@ public void saveSpellCheckCorrectedText(String fullFileName, Format format, Spel
 ```
 
 
-Saves the corrected text in the document in the plain text or Microsoft Word Text Document format.
+Saves the corrected text in the document in the plain text or other format.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullFileName | java.lang.String | Filename with a path for saving recognition result |
+| fullFileName | java.lang.String | Filename with a path for saving recognition result. |
 | format | [Format](../../com.aspose.ocr/format) | Document format enum type of Format. |
-| language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) | Dictionary for spell check |
+| language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) | Dictionary for spell check. |
 
 ### saveSpellCheckCorrectedText(String fullFileName, Format format) {#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-}
 ```
@@ -184,7 +184,7 @@ Saves the corrected with English dictionary text in the document in the plain te
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullFileName | java.lang.String | Filename with a path for saving recognition result |
+| fullFileName | java.lang.String | Filename with a path for saving recognition result. |
 | format | [Format](../../com.aspose.ocr/format) | Document format enum type of Format. |
 
 ### getSpellCheckCorrectedText(SpellCheck.SpellCheckLanguage language) {#getSpellCheckCorrectedText-com.aspose.ocr.SpellCheck.SpellCheckLanguage-}

@@ -3,7 +3,7 @@ title: CharacterRecognitionResult
 second_title: Aspose.OCR for Java API Reference
 description: Pages with detected characters data.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.ocr/characterrecognitionresult/
 ---
 

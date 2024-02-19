@@ -3,7 +3,7 @@ title: SpellCheckLanguage
 second_title: Aspose.OCR for Java API Reference
 description: Languages used for SpellCheck existing dictionaries.
 type: docs
-weight: 13
+weight: 12
 url: /java/com.aspose.ocr.spellcheck/spellchecklanguage/
 ---
 

@@ -3,7 +3,7 @@ title: CarPlateRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the car number recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.ocr/carplaterecognitionsettings/
 ---
 

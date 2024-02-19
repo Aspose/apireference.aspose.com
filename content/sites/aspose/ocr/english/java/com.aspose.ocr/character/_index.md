@@ -3,7 +3,7 @@ title: Character
 second_title: Aspose.OCR for Java API Reference
 description: Data about detected character.
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.ocr/character/
 ---
 

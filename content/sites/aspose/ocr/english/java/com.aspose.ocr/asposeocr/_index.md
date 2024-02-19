@@ -39,7 +39,6 @@ Main class for recognize text from images.
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String-) | Corrects text (replaces misspelled words). |
 | [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
-| [RecognizeHandwrittenText(OcrInput input)](#RecognizeHandwrittenText-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes handwritten text on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [Recognize(OcrInput input)](#Recognize-com.aspose.ocr.OcrInput-) | Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizeStreetPhoto(OcrInput input)](#RecognizeStreetPhoto-com.aspose.ocr.OcrInput-) | Recognizes text on street photos. |
 | [RecognizeFast(OcrInput input)](#RecognizeFast-com.aspose.ocr.OcrInput-) | Recognizes text on good quality image. |
@@ -48,6 +47,7 @@ Main class for recognize text from images.
 | [RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)](#RecognizeIDCard-com.aspose.ocr.OcrInput-com.aspose.ocr.IDCardRecognitionSettings-) | Recognizes ID card with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings)](#RecognizeCarPlate-com.aspose.ocr.OcrInput-com.aspose.ocr.CarPlateRecognitionSettings-) | Recognizes car plate with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
 | [RecognizePassport(OcrInput input, PassportRecognitionSettings settings)](#RecognizePassport-com.aspose.ocr.OcrInput-com.aspose.ocr.PassportRecognitionSettings-) | Recognizes passport with the ability to specify. |
+| [RecognizeHandwrittenText(OcrInput input)](#RecognizeHandwrittenText-com.aspose.ocr.OcrInput-) | Recognizes handwritten text on images. |
 | [CalculateSkew(OcrInput input)](#CalculateSkew-com.aspose.ocr.OcrInput-) | Calculates the skew angles of an images. |
 | [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean-) | Detects text areas on images. |
 | [RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)](#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language-) | Detects symbols on images. |
@@ -275,7 +275,7 @@ Allows to get multipage document from list of RecognitionResult objects with spe
 | fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
 | saveFormat | [Format](../../com.aspose.ocr/format) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult). objects. |
-| language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) |  |
+| language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) enum value. |
 
 ### CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language) {#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-}
 ```
@@ -344,18 +344,6 @@ java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list w
 ### RecognizeStreetPhoto(OcrInput input) {#RecognizeStreetPhoto-com.aspose.ocr.OcrInput-}
 ```
 public ArrayList<RecognitionResult> RecognizeStreetPhoto(OcrInput input)
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
-
-**Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
-### RecognizeHandwrittenText(OcrInput input) {#RecognizeHandwrittenText-com.aspose.ocr.OcrInput-}
-```
-public ArrayList<RecognitionResult> RecognizeHandwrittenText(OcrInput input)
 ```
 
 
@@ -460,6 +448,21 @@ Recognizes passport with the ability to specify. Supports GIF, PNG, JPEG, WBMP, 
 | --- | --- | --- |
 | input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
 | settings | [PassportRecognitionSettings](../../com.aspose.ocr/passportrecognitionsettings) | [PassportRecognitionSettings](../../com.aspose.ocr/passportrecognitionsettings). |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### RecognizeHandwrittenText(OcrInput input) {#RecognizeHandwrittenText-com.aspose.ocr.OcrInput-}
+```
+public ArrayList<RecognitionResult> RecognizeHandwrittenText(OcrInput input)
+```
+
+
+Recognizes handwritten text on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). The container with sources.. |
 
 **Returns:**
 java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
