@@ -24,8 +24,8 @@ The XpsDevice type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/__init__/#) | Creates new instance.<br/>The output file will be written to the output working<br/>directory taking the job name as a file name. |
-| [__init__](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/__init__/#io.RawIOBase) | Creates new instance.<br/>The output file will be written to specified stream. |
+| [__init__](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/__init__/#) | Creates a new instance.<br/>The output file will be written to the output working<br/>directory taking the job name as a file name. |
+| [__init__](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/__init__/#io.RawIOBase) | Creates a new instance.<br/>The output file will be written to specified stream. |
 
 
 ### Properties
@@ -43,7 +43,7 @@ The XpsDevice type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [init](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/init/#) | Initializes device. |
+| [initialize](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/initialize/#) | Initializes the device. |
 | [create](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/create/#) | Creates a copy of this device. |
 | [dispose](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/dispose/#) | Disposes this device instance. Finalizes this device instance graphics state,<br/>i.e. switches APS composing context to the ApsCanvas of the level higher then this<br/>device's graphics state ApsCanvas. |
 | [start_document](/tex/python-net/aspose.tex.presentation.xps/xpsdevice/start_document/#) | Starts the whole document. |

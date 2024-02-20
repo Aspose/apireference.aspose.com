@@ -20,13 +20,15 @@ from aspose.tex.plugins import MathRendererPlugin, PngMathRendererPluginOptions,
 
 #  Create MathRenderer.
 renderer = MathRendererPlugin()
-#  Create the PngMathRendererPluginOptions instance and set up options.
 options = PngMathRendererPluginOptions()
 options.background_color = Color.yellow
 options.text_color = Color.blue
 options.resolution = 150
 options.margin = 10.0
 options.preamble = "LaTeX preamble"
+
+#  Create the PngMathRendererPluginOptions instance and set up options.
+options = options
 #  Add a source formula.
 options.add_input_data_source(StringDataSource("LaTeX formula"))
 #  Create a stream to write the image to.
@@ -51,7 +53,7 @@ The MathRendererPlugin type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [process](/tex/python-net/aspose.tex.plugins/mathrendererplugin/process/#aspose.tex.plugins.IPluginOptions) | Starts the MathRenderer processing with the specified parameters. |
+| [process](/tex/python-net/aspose.tex.plugins/mathrendererplugin/process/#aspose.tex.plugins.IPluginOptions) | Runs Math Renderer processing with the specified parameters. |
 
 
 

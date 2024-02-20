@@ -10,7 +10,7 @@ is_root: false
 
 ## MathRendererPluginResult class
 
-The MathRenderer plugin's common result.
+The Math Renderer plugin's common result.
 
 
 

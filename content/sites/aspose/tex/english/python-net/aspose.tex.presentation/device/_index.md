@@ -32,7 +32,7 @@ The Device type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [init](/tex/python-net/aspose.tex.presentation/device/init/#) | Initializes device. |
+| [initialize](/tex/python-net/aspose.tex.presentation/device/initialize/#) | Initializes the device. |
 | [create](/tex/python-net/aspose.tex.presentation/device/create/#) | Creates a copy of this device. |
 | [dispose](/tex/python-net/aspose.tex.presentation/device/dispose/#) | Disposes the device. |
 | [start_document](/tex/python-net/aspose.tex.presentation/device/start_document/#) | Starts the whole document. |

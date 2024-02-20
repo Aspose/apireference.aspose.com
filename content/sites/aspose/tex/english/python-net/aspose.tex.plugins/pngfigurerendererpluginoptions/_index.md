@@ -10,7 +10,7 @@ is_root: false
 
 ## PngFigureRendererPluginOptions class
 
-The FigureRenderer plugin's options to render a LaTeX figure in PNG.
+The Figure Renderer plugin's options to render a LaTeX figure in PNG.
 
 
 

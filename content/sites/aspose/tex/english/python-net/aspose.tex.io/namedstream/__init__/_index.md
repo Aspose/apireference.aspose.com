@@ -23,7 +23,7 @@ def __init__(self, stream, full_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The stream. |
-| full_name | str | The stream name. |
+| full_name | str | The full name of the stream. |
 
 
 

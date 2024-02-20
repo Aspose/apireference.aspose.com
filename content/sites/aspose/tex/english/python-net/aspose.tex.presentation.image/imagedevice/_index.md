@@ -24,7 +24,8 @@ The ImageDevice type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/tex/python-net/aspose.tex.presentation.image/imagedevice/__init__/#bool) | Creates new instance.<br/>The output file will be written to the output working<br/>directory taking the job name as a file name. |
+| [__init__](/tex/python-net/aspose.tex.presentation.image/imagedevice/__init__/#) | Creates a new instance.<br/>The output file will be written to the output working<br/>directory taking the job name as a file name. |
+| [__init__](/tex/python-net/aspose.tex.presentation.image/imagedevice/__init__/#bool) | Creates a new instance.<br/>The output file will be written to the output working<br/>directory taking the job name as a file name. |
 
 
 ### Properties
@@ -43,7 +44,7 @@ The ImageDevice type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [init](/tex/python-net/aspose.tex.presentation.image/imagedevice/init/#) | Initializes device. |
+| [initialize](/tex/python-net/aspose.tex.presentation.image/imagedevice/initialize/#) | Initializes the device. |
 | [create](/tex/python-net/aspose.tex.presentation.image/imagedevice/create/#) | Creates a copy of this device. |
 | [dispose](/tex/python-net/aspose.tex.presentation.image/imagedevice/dispose/#) | Disposes this device instance. Finalizes this device instance graphics state,<br/>i.e. switches composing context to the level higher then this device's graphics state. |
 | [start_document](/tex/python-net/aspose.tex.presentation.image/imagedevice/start_document/#) | Starts the whole document. |

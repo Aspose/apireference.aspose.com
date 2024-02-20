@@ -23,7 +23,7 @@ The **Aspose.TeX.IO**  namespace provides classes for I/O that TeX engine perfor
 | [`InputFileSystemDirectory`](/tex/python-net/aspose.tex.io/inputfilesystemdirectory) | Implements the regular file system's method for getting a file stream to read from. |
 | [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory) | The basic class for input working directories. |
 | [`InputZipDirectory`](/tex/python-net/aspose.tex.io/inputzipdirectory) | Implements the method for getting a file stream to write to when working directory is a ZIP archive. |
-| [`NamedStream`](/tex/python-net/aspose.tex.io/namedstream) | Combines a stream of a random nature with a name. |
+| [`NamedStream`](/tex/python-net/aspose.tex.io/namedstream) | Associates a stream of a random nature with a name. |
 | [`NondisposableMemoryStream`](/tex/python-net/aspose.tex.io/nondisposablememorystream) | The class that encapsulates a stream that cannot be disposed by calling<br/>the System.IDisposable.Dispose method, whether explicitly or implicitly. |
 | [`OutputConsoleTerminal`](/tex/python-net/aspose.tex.io/outputconsoleterminal) | Provides the console as a terminal output destination. Wrapper for Out. |
 | [`OutputFileSystemDirectory`](/tex/python-net/aspose.tex.io/outputfilesystemdirectory) | Implements the regular file system's method for getting a file stream to write to. |

@@ -10,7 +10,7 @@ is_root: false
 
 ## PngMathRendererPluginOptions class
 
-The MathRenderer plugin's options to render a math formula in PNG.
+The Math Renderer plugin's options to render a math formula in PNG.
 
 
 

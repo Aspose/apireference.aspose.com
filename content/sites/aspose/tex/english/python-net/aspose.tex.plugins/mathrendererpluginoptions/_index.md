@@ -10,7 +10,7 @@ is_root: false
 
 ## MathRendererPluginOptions class
 
-The options for the [`MathRendererPlugin`](/tex/python-net/aspose.tex.plugins/mathrendererplugin) plugin.
+The options for the [`MathRendererPlugin`](/tex/python-net/aspose.tex.plugins/mathrendererplugin).
 
 
 

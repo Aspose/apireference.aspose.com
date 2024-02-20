@@ -10,7 +10,7 @@ is_root: false
 
 ## FigureRendererPluginOptions class
 
-The options for the FigureRenderer plugin.
+The options for the [`FigureRendererPlugin`](/tex/python-net/aspose.tex.plugins/figurerendererplugin).
 
 
 
@@ -48,4 +48,5 @@ The FigureRendererPluginOptions type exposes the following members:
 ### See Also
 * module [`aspose.tex.plugins`](..)
 * class [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+* class [`FigureRendererPlugin`](/tex/python-net/aspose.tex.plugins/figurerendererplugin)
 * class [`FigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/figurerendererpluginoptions)

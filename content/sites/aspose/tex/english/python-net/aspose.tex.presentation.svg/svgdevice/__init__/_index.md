@@ -10,7 +10,7 @@ is_root: false
 
 ## __init__ {#}
 
-Creates new instance.
+Creates a new instance.
 The output file will be written to the output working
 directory taking the job name as a file name.
 

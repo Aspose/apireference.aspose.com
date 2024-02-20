@@ -10,7 +10,7 @@ is_root: false
 
 ## SvgMathRendererPluginOptions class
 
-The MathRenderer plugin's options to render a math formula in SVG.
+The Math Renderer plugin's options to render a math formula in SVG.
 
 
 

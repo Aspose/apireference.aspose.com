@@ -10,7 +10,7 @@ is_root: false
 
 ## process {#aspose.tex.plugins.IPluginOptions}
 
-Starts the FigureRenderer processing with the specified parameters.
+Runs Figure Renderer processing with the specified parameters.
 
 
 ### Returns 

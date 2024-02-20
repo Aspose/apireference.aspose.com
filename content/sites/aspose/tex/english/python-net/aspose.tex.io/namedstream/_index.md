@@ -10,7 +10,7 @@ is_root: false
 
 ## NamedStream class
 
-Combines a stream of a random nature with a name.
+Associates a stream of a random nature with a name.
 
 
 
@@ -25,7 +25,7 @@ The NamedStream type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [full_name](/tex/python-net/aspose.tex.io/namedstream/full_name) | Gets the stream full name. |
+| [full_name](/tex/python-net/aspose.tex.io/namedstream/full_name) | Gets the full name of the stream. |
 | [stream](/tex/python-net/aspose.tex.io/namedstream/stream) | Gets the stream itself. |
 
 
