@@ -11,7 +11,7 @@ is_root: false
 ## full_name property
 
 
-Gets the stream full name.
+Gets the full name of the stream.
 ### Definition:
 ```python
 @property

@@ -10,7 +10,7 @@ is_root: false
 
 ## process {#aspose.tex.plugins.IPluginOptions}
 
-Starts the MathRenderer processing with the specified parameters.
+Runs Math Renderer processing with the specified parameters.
 
 
 ### Returns 

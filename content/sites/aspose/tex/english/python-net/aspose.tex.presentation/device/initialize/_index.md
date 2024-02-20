@@ -1,21 +1,21 @@
 ﻿---
-title: init method
+title: initialize method
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.tex.presentation/device/init/
+url: /python-net/aspose.tex.presentation/device/initialize/
 is_root: false
 ---
 
-## init {#}
+## initialize {#}
 
-Initializes device.
+Initializes the device.
 
 
 
 ```python
-def init(self):
+def initialize(self):
     ...
 ```
 

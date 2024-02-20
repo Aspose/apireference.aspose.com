@@ -8,9 +8,25 @@ url: /python-net/aspose.tex.presentation.image/imagedevice/__init__/
 is_root: false
 ---
 
+## __init__ {#}
+
+Creates a new instance.
+The output file will be written to the output working
+directory taking the job name as a file name.
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
+
 ## __init__ {#bool}
 
-Creates new instance.
+Creates a new instance.
 The output file will be written to the output working
 directory taking the job name as a file name.
 

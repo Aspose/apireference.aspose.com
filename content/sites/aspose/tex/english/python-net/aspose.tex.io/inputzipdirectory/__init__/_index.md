@@ -22,7 +22,7 @@ def __init__(self, zip_stream, base_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| zip_stream | io.RawIOBase | The stream to write the archive to. |
+| zip_stream | io.RawIOBase | The stream to read the archive from. |
 | base_path | str | The base path inside the ZIP archive. |
 
 

@@ -10,7 +10,7 @@ is_root: false
 
 ## SvgFigureRendererPluginOptions class
 
-The FigureRenderer plugin's options to render a LaTeX figure in SVG.
+The Figure Renderer plugin's options to render a LaTeX figure in SVG.
 
 
 

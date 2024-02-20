@@ -10,7 +10,7 @@ is_root: false
 
 ## FigureRendererPlugin class
 
-FigureRenderer plugin class.
+The Figure Renderer plugin class.
 
 The example shows how to render a LaTeX fragment in PNG.
 
@@ -18,14 +18,16 @@ The example shows how to render a LaTeX fragment in PNG.
 from aspose.pydrawing import Color
 from aspose.tex.plugins import FigureRendererPlugin, PngFigureRendererPluginOptions, StreamDataSource, StringDataSource
 
-#  Create FigureRenderer.
+#  Create the Figure Renderer.
 renderer = FigureRendererPlugin()
-#  Create the PngFigureRendererOptions instance and set up options.
 options = PngFigureRendererPluginOptions()
 options.background_color = Color.yellow
 options.resolution = 150
 options.margin = 10.0
 options.preamble = "LaTeX preamble"
+
+#  Create the PngFigureRendererPluginOptions instance and set up options.
+options = options
 #  Add an input LaTeX fragment.
 options.add_input_data_source(StringDataSource("LaTeX fragment"))
 #  Create a stream to write the image to.
@@ -50,7 +52,7 @@ The FigureRendererPlugin type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [process](/tex/python-net/aspose.tex.plugins/figurerendererplugin/process/#aspose.tex.plugins.IPluginOptions) | Starts the FigureRenderer processing with the specified parameters. |
+| [process](/tex/python-net/aspose.tex.plugins/figurerendererplugin/process/#aspose.tex.plugins.IPluginOptions) | Runs Figure Renderer processing with the specified parameters. |
 
 
 
