@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: Aspose.OCR for .NET API Reference
-description: Initializes a new instance of this class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.ocr/license/license/
 ---
 ## License constructor
 
-Initializes a new instance of this class.
+The default constructor.
 
 ```csharp
 public License()
@@ -25,12 +25,6 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-the component jar file:
-
-```csharp
-License license = new License();
-license.setLicense("MyLicense.lic");
-```
 
 ### See Also
 
