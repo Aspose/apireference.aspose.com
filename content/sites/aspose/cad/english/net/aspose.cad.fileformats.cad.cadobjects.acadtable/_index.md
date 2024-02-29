@@ -12,7 +12,16 @@ The namespace contains acad table objects.
 
 | Class | Description |
 | --- | --- |
+| [CadFormattedTableData](./cadformattedtabledata/) | The cad formatted table data |
+| [CadLinkedTableData](./cadlinkedtabledata/) | The cad linked table data |
 | [CadTableCell](./cadtablecell/) | The TableStyleCell data |
 | [CadTableEntity](./cadtableentity/) | The Cad table |
+| [CellContentGeometry](./cellcontentgeometry/) | The cell content geometry |
+| [FormattedTableCellRange](./formattedtablecellrange/) | The formatted table cell range |
+| [TableCustomData](./tablecustomdata/) | The linked table custom data |
+| [TableDataCell](./tabledatacell/) | The cad linked table cell data |
+| [TableDataCellContent](./tabledatacellcontent/) | The cad linked table cell content data |
+| [TableDataColumn](./tabledatacolumn/) | The cad linked table column data |
+| [TableDataRow](./tabledatarow/) | The cad linked table row data |
 
 

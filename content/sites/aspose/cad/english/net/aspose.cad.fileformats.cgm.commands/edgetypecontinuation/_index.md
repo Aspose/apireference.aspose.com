@@ -3,7 +3,7 @@ title: Class EdgeTypeContinuation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeTypeContinuation class. Class5 ElementId46
 type: docs
-weight: 5420
+weight: 5520
 url: /net/aspose.cad.fileformats.cgm.commands/edgetypecontinuation/
 ---
 ## EdgeTypeContinuation class

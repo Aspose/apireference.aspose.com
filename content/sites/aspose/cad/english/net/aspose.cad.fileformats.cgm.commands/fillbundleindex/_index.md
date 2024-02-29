@@ -3,7 +3,7 @@ title: Class FillBundleIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.FillBundleIndex class. Class5 ElementId21
 type: docs
-weight: 5600
+weight: 5700
 url: /net/aspose.cad.fileformats.cgm.commands/fillbundleindex/
 ---
 ## FillBundleIndex class

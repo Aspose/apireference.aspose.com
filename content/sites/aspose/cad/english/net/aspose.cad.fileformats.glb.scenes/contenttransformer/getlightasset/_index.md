@@ -3,7 +3,7 @@ title: ContentTransformer.GetLightAsset
 second_title: Aspose.CAD for .NET API Reference
 description: ContentTransformer method. It this ContentTransformer contains a LightBuilder
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.cad.fileformats.glb.scenes/contenttransformer/getlightasset/
 ---
 ## ContentTransformer.GetLightAsset method

@@ -3,7 +3,7 @@ title: Class DwgImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DwgImage class. Dwg image class
 type: docs
-weight: 4430
+weight: 4530
 url: /net/aspose.cad.fileformats.cad/dwgimage/
 ---
 ## DwgImage class

@@ -3,7 +3,7 @@ title: NodeCurveSamplers.Animation
 second_title: Aspose.CAD for .NET API Reference
 description: NodeCurveSamplers field. 
 type: docs
-weight: 80
+weight: 30
 url: /net/aspose.cad.fileformats.glb/nodecurvesamplers/animation/
 ---
 ## NodeCurveSamplers.Animation field

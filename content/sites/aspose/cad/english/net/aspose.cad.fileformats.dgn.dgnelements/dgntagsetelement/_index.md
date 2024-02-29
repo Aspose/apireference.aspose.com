@@ -3,7 +3,7 @@ title: Class DgnTagSetElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTagSetElement class. Represents Tag Set Definition element
 type: docs
-weight: 8910
+weight: 9010
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/
 ---
 ## DgnTagSetElement class

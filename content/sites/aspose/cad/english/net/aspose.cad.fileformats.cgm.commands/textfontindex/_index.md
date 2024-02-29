@@ -3,7 +3,7 @@ title: Class TextFontIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextFontIndex class. Class5 ElementId10
 type: docs
-weight: 6670
+weight: 6770
 url: /net/aspose.cad.fileformats.cgm.commands/textfontindex/
 ---
 ## TextFontIndex class

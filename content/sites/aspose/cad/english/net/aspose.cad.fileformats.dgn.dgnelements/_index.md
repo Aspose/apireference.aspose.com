@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Dgn.DgnElements
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Dgn elements
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.cad.fileformats.dgn.dgnelements/
 ---
 The namespace contains Dgn elements.

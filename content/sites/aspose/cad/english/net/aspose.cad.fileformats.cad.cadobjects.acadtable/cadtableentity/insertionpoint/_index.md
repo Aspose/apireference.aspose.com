@@ -3,7 +3,7 @@ title: CadTableEntity.InsertionPoint
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the insertion point
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/insertionpoint/
 ---
 ## CadTableEntity.InsertionPoint property

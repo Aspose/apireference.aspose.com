@@ -17,7 +17,7 @@ public void SetTrack(string track, ICurveSampler<T> curve)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | track | String | The name of the track. |
-| curve | ICurveSampler`1 | A [`ICurveSampler`](../../icurvesampler-1/) instance which also implements [`IConvertibleCurve`](../../iconvertiblecurve-1/), or null to remove a track. |
+| curve | ICurveSampler`1 | A [`ICurveSampler`](../../icurvesampler-1/) instance which also implements IConvertibleCurve, or null to remove a track. |
 
 ### See Also
 

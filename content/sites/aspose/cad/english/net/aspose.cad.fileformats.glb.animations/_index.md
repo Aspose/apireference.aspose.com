@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Animations
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB animations
 type: docs
-weight: 680
+weight: 690
 url: /net/aspose.cad.fileformats.glb.animations/
 ---
 The namespace contains entities of GLB animations.
@@ -19,7 +19,6 @@ The namespace contains entities of GLB animations.
 
 | Interface | Description |
 | --- | --- |
-| [IConvertibleCurve&lt;T&gt;](./iconvertiblecurve-1/) | Defines methods that convert the current curve to a Step, Linear or Spline curve. |
 | [ICurveSampler&lt;T&gt;](./icurvesampler-1/) | Defines a curve that can be sampled at any point. |
 
 

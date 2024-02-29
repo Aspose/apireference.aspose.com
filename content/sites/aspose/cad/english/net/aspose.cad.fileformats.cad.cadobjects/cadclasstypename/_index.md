@@ -3,7 +3,7 @@ title: Enum CadClassTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadClassTypeName enum. The Cad class type names
 type: docs
-weight: 2450
+weight: 2540
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadclasstypename/
 ---
 ## CadClassTypeName enumeration

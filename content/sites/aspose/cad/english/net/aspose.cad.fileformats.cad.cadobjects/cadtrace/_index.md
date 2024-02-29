@@ -3,7 +3,7 @@ title: Class CadTrace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadTrace class. TRACE class
 type: docs
-weight: 3330
+weight: 3420
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtrace/
 ---
 ## CadTrace class

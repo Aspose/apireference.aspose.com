@@ -3,7 +3,7 @@ title: RasterImage.Filter
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Filters the specified rectangle
 type: docs
-weight: 230
+weight: 220
 url: /net/aspose.cad/rasterimage/filter/
 ---
 ## RasterImage.Filter method

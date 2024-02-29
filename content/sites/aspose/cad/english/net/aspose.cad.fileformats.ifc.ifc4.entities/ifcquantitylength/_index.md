@@ -3,7 +3,7 @@ title: Class IfcQuantityLength
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcQuantityLength class. IfcQuantityLength
 type: docs
-weight: 26600
+weight: 26590
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitylength/
 ---
 ## IfcQuantityLength class

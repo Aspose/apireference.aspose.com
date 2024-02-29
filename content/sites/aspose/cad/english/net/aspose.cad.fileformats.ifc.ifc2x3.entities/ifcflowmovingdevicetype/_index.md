@@ -3,7 +3,7 @@ title: Class IfcFlowMovingDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFlowMovingDeviceType class. IfcFlowMovingDeviceType
 type: docs
-weight: 14380
+weight: 14370
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcflowmovingdevicetype/
 ---
 ## IfcFlowMovingDeviceType class

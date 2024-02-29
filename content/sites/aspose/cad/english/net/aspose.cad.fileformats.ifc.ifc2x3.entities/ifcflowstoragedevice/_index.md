@@ -3,7 +3,7 @@ title: Class IfcFlowStorageDevice
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFlowStorageDevice class. IfcFlowStorageDevice
 type: docs
-weight: 14410
+weight: 14400
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcflowstoragedevice/
 ---
 ## IfcFlowStorageDevice class

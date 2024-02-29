@@ -3,7 +3,7 @@ title: Class SolidColorBrush
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.SolidColorBrush class. The solid color brush. The SolidColorBrush element is used to fill defined geometric regions with a solid color. If there is an alpha component of the color it is combined in a multiplicative way with the corresponding Opacity attribute
 type: docs
-weight: 9410
+weight: 9510
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/solidcolorbrush/
 ---
 ## SolidColorBrush class

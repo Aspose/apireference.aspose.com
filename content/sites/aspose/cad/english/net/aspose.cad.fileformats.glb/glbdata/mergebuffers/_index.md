@@ -1,14 +1,14 @@
 ---
 title: GlbData.MergeBuffers
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Merges all the GlbImage.LogicalBuffers instances into a single big one
+description: GlbData method. Merges all the LogicalBuffers instances into a single big one
 type: docs
 weight: 420
 url: /net/aspose.cad.fileformats.glb/glbdata/mergebuffers/
 ---
 ## MergeBuffers() {#mergebuffers}
 
-Merges all the !:GlbImage.LogicalBuffers instances into a single big one.
+Merges all the [`LogicalBuffers`](../logicalbuffers/) instances into a single big one.
 
 ```csharp
 public void MergeBuffers()
@@ -24,7 +24,7 @@ public void MergeBuffers()
 
 When merging the buffers, it also adjusts the BufferView offsets so the data they point to remains the same.
 
-If images are required to be included in the binary, call !:GlbImage.MergeImages before calling `MergeBuffers`.
+If images are required to be included in the binary, call [`MergeImages`](../mergeimages/) before calling `MergeBuffers`.
 
 ### See Also
 
@@ -36,7 +36,7 @@ If images are required to be included in the binary, call !:GlbImage.MergeImages
 
 ## MergeBuffers(int) {#mergebuffers_1}
 
-Merges all the !:GlbImage.LogicalBuffers instances into buffers of *maxSize* size.
+Merges all the [`LogicalBuffers`](../logicalbuffers/) instances into buffers of *maxSize* size.
 
 ```csharp
 public void MergeBuffers(int maxSize)

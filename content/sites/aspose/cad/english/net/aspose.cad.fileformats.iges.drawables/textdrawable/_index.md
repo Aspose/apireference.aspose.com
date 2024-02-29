@@ -3,7 +3,7 @@ title: Class TextDrawable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.TextDrawable class. Provides intermediate Drawable representation of a text in a drawing
 type: docs
-weight: 33670
+weight: 33660
 url: /net/aspose.cad.fileformats.iges.drawables/textdrawable/
 ---
 ## TextDrawable class

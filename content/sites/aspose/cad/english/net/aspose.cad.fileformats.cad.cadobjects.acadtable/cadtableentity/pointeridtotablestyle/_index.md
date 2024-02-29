@@ -3,7 +3,7 @@ title: CadTableEntity.PointerIdTotablestyle
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the pointer id totablestyle
 type: docs
-weight: 140
+weight: 180
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtotablestyle/
 ---
 ## CadTableEntity.PointerIdTotablestyle property

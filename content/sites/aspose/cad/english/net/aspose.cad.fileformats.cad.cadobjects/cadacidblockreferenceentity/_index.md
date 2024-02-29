@@ -3,7 +3,7 @@ title: Class CadAcidBlockReferenceEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcidBlockReferenceEntity class. The Cad AcidBlockReferenceEntity
 type: docs
-weight: 2170
+weight: 2260
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacidblockreferenceentity/
 ---
 ## CadAcidBlockReferenceEntity class

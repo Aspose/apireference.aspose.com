@@ -3,7 +3,7 @@ title: Class CadRasterImageDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRasterImageDef class. The Cad aster image definition object
 type: docs
-weight: 3080
+weight: 3170
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/
 ---
 ## CadRasterImageDef class

@@ -3,7 +3,7 @@ title: Class DwfWhipTextOptionScoring
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text.DwfWhipTextOptionScoring class. Represents Text option Scoring
 type: docs
-weight: 9730
+weight: 9830
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionscoring/
 ---
 ## DwfWhipTextOptionScoring class

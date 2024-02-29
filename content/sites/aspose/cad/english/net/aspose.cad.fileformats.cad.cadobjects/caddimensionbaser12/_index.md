@@ -3,7 +3,7 @@ title: Class CadDimensionBaseR12
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadDimensionBaseR12 class. Represents dimension in old R12 format which stores all points in one place
 type: docs
-weight: 2540
+weight: 2630
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/
 ---
 ## CadDimensionBaseR12 class

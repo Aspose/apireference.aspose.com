@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.aps/apsgroupimage/pages/
 Image's pages
 
 ```csharp
-public #=zXL6gFZ9GaTIZAlWQ6siv5yY=[] Pages { get; }
+public #=z2pm4xy1DsJjK3rBrPlX24Dc=[] Pages { get; }
 ```
 
 ### See Also

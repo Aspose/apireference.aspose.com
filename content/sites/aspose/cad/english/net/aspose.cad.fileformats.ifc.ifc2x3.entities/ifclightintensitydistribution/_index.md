@@ -3,7 +3,7 @@ title: Class IfcLightIntensityDistribution
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLightIntensityDistribution class. IfcLightIntensityDistribution
 type: docs
-weight: 14830
+weight: 14820
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistribution/
 ---
 ## IfcLightIntensityDistribution class

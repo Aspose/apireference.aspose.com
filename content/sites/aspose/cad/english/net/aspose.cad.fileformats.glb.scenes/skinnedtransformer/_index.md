@@ -3,7 +3,7 @@ title: Class SkinnedTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.SkinnedTransformer class. Represents the transform of a Content. Applies the transforms of many NodeBuilder to the underlaying content
 type: docs
-weight: 11490
+weight: 11410
 url: /net/aspose.cad.fileformats.glb.scenes/skinnedtransformer/
 ---
 ## SkinnedTransformer class
@@ -30,8 +30,6 @@ public class SkinnedTransformer : ContentTransformer
 | override [DeepClone](../../aspose.cad.fileformats.glb.scenes/skinnedtransformer/deepclone/)(DeepCloneContext) |  |
 | override [GetArmatureRoot](../../aspose.cad.fileformats.glb.scenes/skinnedtransformer/getarmatureroot/)() |  |
 | [GetCameraAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getcameraasset/)() | It this [`ContentTransformer`](../contenttransformer/) contains a [`CameraBuilder`](../camerabuilder/) |
-| [GetGeometryAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getgeometryasset/)() | If this [`ContentTransformer`](../contenttransformer/) contains a [`IMeshBuilder`](../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/). |
-| [GetJointBindings](../../aspose.cad.fileformats.glb.scenes/skinnedtransformer/getjointbindings/)() |  |
 | [GetLightAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getlightasset/)() | It this [`ContentTransformer`](../contenttransformer/) contains a [`LightBuilder`](../lightbuilder/) |
 | override [GetPoseWorldMatrix](../../aspose.cad.fileformats.glb.scenes/skinnedtransformer/getposeworldmatrix/)() |  |
 | [GetWorldTransformer](../../aspose.cad.fileformats.glb.scenes/skinnedtransformer/getworldtransformer/)(string, float) |  |

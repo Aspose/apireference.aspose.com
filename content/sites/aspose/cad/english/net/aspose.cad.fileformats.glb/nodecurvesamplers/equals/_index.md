@@ -3,7 +3,7 @@ title: NodeCurveSamplers.Equals
 second_title: Aspose.CAD for .NET API Reference
 description: NodeCurveSamplers method. 
 type: docs
-weight: 100
+weight: 50
 url: /net/aspose.cad.fileformats.glb/nodecurvesamplers/equals/
 ---
 ## Equals(object) {#equals_1}

@@ -3,7 +3,7 @@ title: Class CadSolidBackground
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Background.CadSolidBackground class. Class describing Solid Background
 type: docs
-weight: 1760
+weight: 1850
 url: /net/aspose.cad.fileformats.cad.cadobjects.background/cadsolidbackground/
 ---
 ## CadSolidBackground class

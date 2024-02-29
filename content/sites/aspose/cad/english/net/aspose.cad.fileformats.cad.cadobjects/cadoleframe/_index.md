@@ -3,7 +3,7 @@ title: Class CadOleFrame
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadOleFrame class. The Cad OleFrame
 type: docs
-weight: 2990
+weight: 3080
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadoleframe/
 ---
 ## CadOleFrame class

@@ -3,7 +3,7 @@ title: Class NamePrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.NamePrecision class. 
 type: docs
-weight: 6160
+weight: 6260
 url: /net/aspose.cad.fileformats.cgm.commands/nameprecision/
 ---
 ## NamePrecision class

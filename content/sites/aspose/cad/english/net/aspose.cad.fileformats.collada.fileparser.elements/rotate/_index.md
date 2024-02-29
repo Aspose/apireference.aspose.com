@@ -3,7 +3,7 @@ title: Class Rotate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Rotate class. The rotate. The rotate element contains an angle and a mathematical vector that represents the axis of rotation
 type: docs
-weight: 8230
+weight: 8330
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/rotate/
 ---
 ## Rotate class

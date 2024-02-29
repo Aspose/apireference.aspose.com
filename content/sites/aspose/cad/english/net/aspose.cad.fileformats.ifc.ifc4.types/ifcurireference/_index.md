@@ -3,7 +3,7 @@ title: Class IfcURIReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcURIReference class. IfcURIReference
 type: docs
-weight: 33190
+weight: 33180
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcurireference/
 ---
 ## IfcURIReference class

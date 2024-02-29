@@ -3,7 +3,7 @@ title: Class IfcWasteTerminal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWasteTerminal class. IfcWasteTerminal
 type: docs
-weight: 29330
+weight: 29320
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwasteterminal/
 ---
 ## IfcWasteTerminal class

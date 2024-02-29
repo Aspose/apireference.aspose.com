@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexempty/setbindings/
 ---
-## SetBindings(ref SparseWeight8) {#setbindings}
+## VertexEmpty.SetBindings method
 
 ```csharp
 public void SetBindings(ref SparseWeight8 bindings)
@@ -15,20 +15,6 @@ public void SetBindings(ref SparseWeight8 bindings)
 ### See Also
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
-* struct [VertexEmpty](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## SetBindings(params (int Index, float Weight)[]) {#setbindings_1}
-
-```csharp
-public void SetBindings(params (int Index, float Weight)[] bindings)
-```
-
-### See Also
-
 * struct [VertexEmpty](../)
 * namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)

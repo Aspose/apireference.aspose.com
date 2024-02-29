@@ -3,7 +3,7 @@ title: Class IfcDocumentElectronicFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDocumentElectronicFormat class. IfcDocumentElectronicFormat
 type: docs
-weight: 13570
+weight: 13560
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/
 ---
 ## IfcDocumentElectronicFormat class

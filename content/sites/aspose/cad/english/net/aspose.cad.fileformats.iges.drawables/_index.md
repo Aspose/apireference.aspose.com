@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Iges.Drawables
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles the IGES geometric representation of an entity or part of it
 type: docs
-weight: 900
+weight: 910
 url: /net/aspose.cad.fileformats.iges.drawables/
 ---
 The namespace handles the IGES geometric representation of an entity or part of it.

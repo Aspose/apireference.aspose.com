@@ -3,7 +3,7 @@ title: Class IfcCondenserType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCondenserType class. IfcCondenserType
 type: docs
-weight: 12870
+weight: 12860
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccondensertype/
 ---
 ## IfcCondenserType class

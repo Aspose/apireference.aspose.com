@@ -3,7 +3,7 @@ title: Class CadMultiLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMultiLine class. The Cad multi line
 type: docs
-weight: 2920
+weight: 3010
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/
 ---
 ## CadMultiLine class

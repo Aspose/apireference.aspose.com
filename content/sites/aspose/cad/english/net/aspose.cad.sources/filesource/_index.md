@@ -3,7 +3,7 @@ title: Class FileSource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Sources.FileSource class. Represents a file source which is capable of files manipulation
 type: docs
-weight: 36990
+weight: 36980
 url: /net/aspose.cad.sources/filesource/
 ---
 ## FileSource class

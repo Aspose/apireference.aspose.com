@@ -3,7 +3,7 @@ title: SparseWeight8.Count
 second_title: Aspose.CAD for .NET API Reference
 description: SparseWeight8 property. 
 type: docs
-weight: 110
+weight: 10
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/count/
 ---
 ## SparseWeight8.Count property

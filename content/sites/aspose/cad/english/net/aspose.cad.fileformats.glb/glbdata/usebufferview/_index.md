@@ -1,14 +1,14 @@
 ---
 title: GlbData.UseBufferView
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a BufferView instance at GlbImage.LogicalBufferViews
+description: GlbData method. Creates or reuses a BufferView instance at LogicalBufferViews
 type: docs
-weight: 490
+weight: 500
 url: /net/aspose.cad.fileformats.glb/glbdata/usebufferview/
 ---
 ## UseBufferView(ArraySegment&lt;byte&gt;, int, BufferMode?) {#usebufferview_2}
 
-Creates or reuses a [`BufferView`](../../bufferview/) instance at !:GlbImage.LogicalBufferViews.
+Creates or reuses a [`BufferView`](../../bufferview/) instance at [`LogicalBufferViews`](../logicalbufferviews/).
 
 ```csharp
 public BufferView UseBufferView(ArraySegment<byte> data, int byteStride = 0, 
@@ -37,7 +37,7 @@ A [`BufferView`](../../bufferview/) instance.
 
 ## UseBufferView(byte[], int, int?, int, BufferMode?) {#usebufferview_1}
 
-Creates or reuses a [`BufferView`](../../bufferview/) instance at !:GlbImage.LogicalBufferViews.
+Creates or reuses a [`BufferView`](../../bufferview/) instance at [`LogicalBufferViews`](../logicalbufferviews/).
 
 ```csharp
 public BufferView UseBufferView(byte[] buffer, int byteOffset = 0, int? byteLength = null, 
@@ -68,7 +68,7 @@ A [`BufferView`](../../bufferview/) instance.
 
 ## UseBufferView(Buffer, int, int?, int, BufferMode?) {#usebufferview}
 
-Creates or reuses a [`BufferView`](../../bufferview/) instance at !:GlbImage.LogicalBufferViews.
+Creates or reuses a [`BufferView`](../../bufferview/) instance at [`LogicalBufferViews`](../logicalbufferviews/).
 
 ```csharp
 public BufferView UseBufferView(Buffer buffer, int byteOffset = 0, int? byteLength = null, 

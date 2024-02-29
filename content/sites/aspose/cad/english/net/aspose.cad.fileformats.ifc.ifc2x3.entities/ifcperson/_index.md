@@ -3,7 +3,7 @@ title: Class IfcPerson
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPerson class. IfcPerson
 type: docs
-weight: 15400
+weight: 15390
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/
 ---
 ## IfcPerson class

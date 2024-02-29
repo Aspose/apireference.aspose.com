@@ -3,7 +3,7 @@ title: Struct VertexColor2
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexColor2 struct. Defines a Vertex attribute with a two material Colors
 type: docs
-weight: 10540
+weight: 10510
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor2/
 ---
 ## VertexColor2 structure
@@ -41,7 +41,6 @@ public struct VertexColor2 : IEquatable<VertexColor2>, IVertexMaterial
 | [Subtract](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor2/subtract/)(IVertexMaterial) |  |
 | static [AreEqual](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor2/areequal/)(ref VertexColor2, ref VertexColor2) |  |
 | [operator ==](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor2/op_equality/) |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor2/op_implicit/) |  |
 | [operator !=](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor2/op_inequality/) |  |
 
 ## Fields

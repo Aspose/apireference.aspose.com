@@ -3,7 +3,7 @@ title: Class CadMLeaderStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderStyle class. Class describing CadMLeaderStyle
 type: docs
-weight: 2860
+weight: 2950
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/
 ---
 ## CadMLeaderStyle class

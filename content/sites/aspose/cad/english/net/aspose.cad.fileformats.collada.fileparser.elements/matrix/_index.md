@@ -3,7 +3,7 @@ title: Class Matrix
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Matrix class. The matrix. Matrix transformations embody mathematical changes to points within a coordinate systems or the coordinate system itself. The matrix element contains a 4by4 matrix of floatingpoint values
 type: docs
-weight: 8030
+weight: 8130
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/matrix/
 ---
 ## Matrix class

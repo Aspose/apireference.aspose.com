@@ -3,7 +3,7 @@ title: Class IfcAreaDensityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAreaDensityMeasure class. IfcAreaDensityMeasure
 type: docs
-weight: 29660
+weight: 29650
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcareadensitymeasure/
 ---
 ## IfcAreaDensityMeasure class

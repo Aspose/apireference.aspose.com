@@ -3,7 +3,7 @@ title: Class IfcQuantityWeight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcQuantityWeight class. IfcQuantityWeight
 type: docs
-weight: 26640
+weight: 26630
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityweight/
 ---
 ## IfcQuantityWeight class

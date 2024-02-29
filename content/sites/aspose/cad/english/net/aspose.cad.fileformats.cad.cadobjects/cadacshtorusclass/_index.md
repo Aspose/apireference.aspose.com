@@ -3,7 +3,7 @@ title: Class CadAcshTorusClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcshTorusClass class. Class describing CadAcshTorusClass object
 type: docs
-weight: 2250
+weight: 2340
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshtorusclass/
 ---
 ## CadAcshTorusClass class

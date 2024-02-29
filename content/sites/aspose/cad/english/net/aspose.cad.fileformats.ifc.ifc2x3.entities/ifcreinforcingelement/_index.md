@@ -3,7 +3,7 @@ title: Class IfcReinforcingElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcReinforcingElement class. IfcReinforcingElement
 type: docs
-weight: 16260
+weight: 16250
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingelement/
 ---
 ## IfcReinforcingElement class

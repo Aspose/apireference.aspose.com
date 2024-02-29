@@ -3,7 +3,7 @@ title: Class EdgeCap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeCap class. 
 type: docs
-weight: 5360
+weight: 5460
 url: /net/aspose.cad.fileformats.cgm.commands/edgecap/
 ---
 ## EdgeCap class

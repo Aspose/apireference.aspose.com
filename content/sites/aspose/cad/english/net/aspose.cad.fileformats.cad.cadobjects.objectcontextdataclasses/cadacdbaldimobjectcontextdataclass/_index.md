@@ -3,7 +3,7 @@ title: Class CadAcDbAlDimObjectContextDataClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses.CadAcDbAlDimObjectContextDataClass class. Class describing ACDB_ALDIMOBJECTCONTEXTDATA_CLASS object
 type: docs
-weight: 3710
+weight: 3800
 url: /net/aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses/cadacdbaldimobjectcontextdataclass/
 ---
 ## CadAcDbAlDimObjectContextDataClass class

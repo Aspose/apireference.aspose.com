@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Ifc.IFC4.Entities
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes and methods of IFC4 entities
 type: docs
-weight: 850
+weight: 860
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/
 ---
 The namespace contains classes and methods of IFC4 entities.

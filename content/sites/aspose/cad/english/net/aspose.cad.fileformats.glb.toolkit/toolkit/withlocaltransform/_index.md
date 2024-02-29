@@ -3,7 +3,7 @@ title: Toolkit.WithLocalTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 420
+weight: 340
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withlocaltransform/
 ---
 ## Toolkit.WithLocalTransform method

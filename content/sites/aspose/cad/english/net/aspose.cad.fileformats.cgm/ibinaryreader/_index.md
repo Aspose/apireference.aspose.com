@@ -3,7 +3,7 @@ title: Interface IBinaryReader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.IBinaryReader interface. Interface to read binary CGM files
 type: docs
-weight: 7160
+weight: 7260
 url: /net/aspose.cad.fileformats.cgm/ibinaryreader/
 ---
 ## IBinaryReader interface

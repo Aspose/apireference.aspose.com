@@ -3,7 +3,7 @@ title: Toolkit.CopyChannelsTo
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/copychannelsto/
 ---
 ## CopyChannelsTo(this Material, MaterialBuilder, params string[]) {#copychannelsto}

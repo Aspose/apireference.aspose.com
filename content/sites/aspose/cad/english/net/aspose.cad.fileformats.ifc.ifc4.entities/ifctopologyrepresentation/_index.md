@@ -3,7 +3,7 @@ title: Class IfcTopologyRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTopologyRepresentation class. IfcTopologyRepresentation
 type: docs
-weight: 28970
+weight: 28960
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctopologyrepresentation/
 ---
 ## IfcTopologyRepresentation class

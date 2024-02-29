@@ -3,7 +3,7 @@ title: Class CadSpatialIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSpatialIndex class. Class describing SPATIAL_INDEX object
 type: docs
-weight: 3220
+weight: 3310
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialindex/
 ---
 ## CadSpatialIndex class

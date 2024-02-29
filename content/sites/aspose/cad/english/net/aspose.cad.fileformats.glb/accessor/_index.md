@@ -3,7 +3,7 @@ title: Class Accessor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Accessor class. 
 type: docs
-weight: 10050
+weight: 10150
 url: /net/aspose.cad.fileformats.glb/accessor/
 ---
 ## Accessor class
@@ -25,8 +25,8 @@ public sealed class Accessor : LogicalChildOfRoot
 | [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
 | [Format](../../aspose.cad.fileformats.glb/accessor/format/) { get; } |  |
 | [IsSparse](../../aspose.cad.fileformats.glb/accessor/issparse/) { get; } | Gets a value indicating whether this `Accessor` has a sparse structure. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../glbimage/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbImage`](../glbimage/) instance that owns this object. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
 | [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
 | [Normalized](../../aspose.cad.fileformats.glb/accessor/normalized/) { get; } | Gets a value indicating whether the items values are normalized. |
 | [SourceBufferView](../../aspose.cad.fileformats.glb/accessor/sourcebufferview/) { get; } | Gets the [`BufferView`](../bufferview/) buffer that contains the items as an encoded byte array. |

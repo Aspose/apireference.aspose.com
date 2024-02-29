@@ -3,7 +3,7 @@ title: Enum IfcFlowInstrumentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFlowInstrumentTypeEnum enum. IfcFlowInstrumentTypeEnum
 type: docs
-weight: 30880
+weight: 30870
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcflowinstrumenttypeenum/
 ---
 ## IfcFlowInstrumentTypeEnum enumeration

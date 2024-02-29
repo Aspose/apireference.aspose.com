@@ -3,7 +3,7 @@ title: RasterImage.GetDefaultPixels
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Gets the default pixels array using partial pixel loader
 type: docs
-weight: 260
+weight: 250
 url: /net/aspose.cad/rasterimage/getdefaultpixels/
 ---
 ## RasterImage.GetDefaultPixels method

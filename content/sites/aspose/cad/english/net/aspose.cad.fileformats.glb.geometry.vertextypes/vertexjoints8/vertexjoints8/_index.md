@@ -20,20 +20,6 @@ public VertexJoints8(int jointIndex)
 
 ---
 
-## VertexJoints8(params (int JointIndex, float Weight)[]) {#constructor_2}
-
-```csharp
-public VertexJoints8(params (int JointIndex, float Weight)[] bindings)
-```
-
-### See Also
-
-* struct [VertexJoints8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
-* assembly [Aspose.CAD](../../../)
-
----
-
 ## VertexJoints8(ref SparseWeight8) {#constructor}
 
 ```csharp

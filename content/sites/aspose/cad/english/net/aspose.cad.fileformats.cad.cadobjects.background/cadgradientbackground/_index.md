@@ -3,7 +3,7 @@ title: Class CadGradientBackground
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Background.CadGradientBackground class. Class describing Gradient Background
 type: docs
-weight: 1750
+weight: 1840
 url: /net/aspose.cad.fileformats.cad.cadobjects.background/cadgradientbackground/
 ---
 ## CadGradientBackground class

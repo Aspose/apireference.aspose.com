@@ -3,7 +3,7 @@ title: Class IfcStair
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStair class. IfcStair
 type: docs
-weight: 27950
+weight: 27940
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstair/
 ---
 ## IfcStair class

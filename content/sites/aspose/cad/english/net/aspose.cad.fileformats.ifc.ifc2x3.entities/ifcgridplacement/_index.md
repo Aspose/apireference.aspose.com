@@ -3,7 +3,7 @@ title: Class IfcGridPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGridPlacement class. IfcGridPlacement
 type: docs
-weight: 14640
+weight: 14630
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridplacement/
 ---
 ## IfcGridPlacement class

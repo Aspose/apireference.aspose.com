@@ -3,7 +3,7 @@ title: Class IfcHalfSpaceSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcHalfSpaceSolid class. Partial IIfc entity class
 type: docs
-weight: 24820
+weight: 24810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifchalfspacesolid/
 ---
 ## IfcHalfSpaceSolid class

@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceStyle class. IfcSurfaceStyle
 type: docs
-weight: 17690
+weight: 17680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyle/
 ---
 ## IfcSurfaceStyle class

@@ -45,25 +45,4 @@ This method uses the [`WorldMatrix`](../../node/worldmatrix/) value of each join
 * namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
----
-
-## BindJoints((Node Joint, Matrix4x4 InverseBindMatrix)[]) {#bindjoints_2}
-
-Binds a bone armature of [`Node`](../../node/) to the associated skinned mesh.
-
-```csharp
-public void BindJoints((Node Joint, Matrix4x4 InverseBindMatrix)[] joints)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| joints | ValueTuple`2[] | A collection of [`Node`](../../node/) joints, where each joint has an Inverse Bind Matrix. |
-
-### See Also
-
-* class [Node](../../node/)
-* class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
 

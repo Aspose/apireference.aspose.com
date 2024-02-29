@@ -3,7 +3,7 @@ title: Class IfcLampType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLampType class. IfcLampType
 type: docs
-weight: 25080
+weight: 25070
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclamptype/
 ---
 ## IfcLampType class

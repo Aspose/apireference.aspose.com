@@ -3,7 +3,7 @@ title: Class CadRay
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRay class. Class describing CadRay
 type: docs
-weight: 3100
+weight: 3190
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadray/
 ---
 ## CadRay class

@@ -3,7 +3,7 @@ title: Class IfcMeasureValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMeasureValue class. IfcMeasureValue
 type: docs
-weight: 31520
+weight: 31510
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmeasurevalue/
 ---
 ## IfcMeasureValue class

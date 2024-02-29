@@ -3,7 +3,7 @@ title: Class IfcStructuralConnectionCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralConnectionCondition class. IfcStructuralConnectionCondition
 type: docs
-weight: 17290
+weight: 17280
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralconnectioncondition/
 ---
 ## IfcStructuralConnectionCondition class

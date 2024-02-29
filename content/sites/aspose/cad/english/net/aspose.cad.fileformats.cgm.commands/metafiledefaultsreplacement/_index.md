@@ -3,7 +3,7 @@ title: Class MetafileDefaultsReplacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MetafileDefaultsReplacement class. 
 type: docs
-weight: 6110
+weight: 6210
 url: /net/aspose.cad.fileformats.cgm.commands/metafiledefaultsreplacement/
 ---
 ## MetafileDefaultsReplacement class

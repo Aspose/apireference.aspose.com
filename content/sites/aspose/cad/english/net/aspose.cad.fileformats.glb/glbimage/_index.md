@@ -1,17 +1,15 @@
 ---
 title: Class GlbImage
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.GlbImage class. Represents the base class of a serializable glTF schema2 object. Inherited by ExtraProperties
+description: Aspose.CAD.FileFormats.GLB.GlbImage class. 
 type: docs
-weight: 10720
+weight: 10660
 url: /net/aspose.cad.fileformats.glb/glbimage/
 ---
 ## GlbImage class
 
-Represents the base class of a serializable glTF schema2 object. Inherited by [`ExtraProperties`](../extraproperties/).
-
 ```csharp
-public class GlbImage : Image
+public class GlbImage : GltfImageBase
 ```
 
 ## Constructors
@@ -28,24 +26,24 @@ public class GlbImage : Image
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
 | virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
-| [Data](../../aspose.cad.fileformats.glb/glbimage/data/) { get; } |  |
+| [Data](../../aspose.cad.fileformats.glb/gltfimagebase/data/) { get; } |  |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
-| override [Depth](../../aspose.cad.fileformats.glb/glbimage/depth/) { get; } | Gets the image depth. |
+| override [Depth](../../aspose.cad.fileformats.glb/gltfimagebase/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| override [Height](../../aspose.cad.fileformats.glb/glbimage/height/) { get; } | Gets the image height. |
-| override [IsCached](../../aspose.cad.fileformats.glb/glbimage/iscached/) { get; } |  |
+| override [Height](../../aspose.cad.fileformats.glb/gltfimagebase/height/) { get; } | Gets the image height. |
+| override [IsCached](../../aspose.cad.fileformats.glb/gltfimagebase/iscached/) { get; } |  |
 | [Palette](../../aspose.cad/image/palette/) { get; set; } | Gets or sets the color palette. |
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
-| override [Width](../../aspose.cad.fileformats.glb/glbimage/width/) { get; } | Gets the image width. |
+| override [Width](../../aspose.cad.fileformats.glb/gltfimagebase/width/) { get; } | Gets the image width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [CacheData](../../aspose.cad.fileformats.glb/glbimage/cachedata/)() |  |
+| override [CacheData](../../aspose.cad.fileformats.glb/gltfimagebase/cachedata/)() |  |
 | [CanSave](../../aspose.cad/image/cansave/)(ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
 | [Dispose](../../aspose.cad/disposableobject/dispose/)() | Disposes the current instance. |
 | virtual [GetStrings](../../aspose.cad/image/getstrings/)() | Gets all string values from image. |
@@ -61,7 +59,7 @@ public class GlbImage : Image
 
 ### See Also
 
-* class [Image](../../aspose.cad/image/)
+* class [GltfImageBase](../gltfimagebase/)
 * namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../)
 

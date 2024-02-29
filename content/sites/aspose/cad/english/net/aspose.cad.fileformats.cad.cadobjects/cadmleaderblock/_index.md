@@ -3,7 +3,7 @@ title: Class CadMLeaderBlock
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderBlock class. Class describing MLeader block
 type: docs
-weight: 2820
+weight: 2910
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderblock/
 ---
 ## CadMLeaderBlock class

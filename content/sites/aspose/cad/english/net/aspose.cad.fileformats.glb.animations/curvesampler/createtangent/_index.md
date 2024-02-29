@@ -3,7 +3,7 @@ title: CurveSampler.CreateTangent
 second_title: Aspose.CAD for .NET API Reference
 description: CurveSampler method. 
 type: docs
-weight: 40
+weight: 10
 url: /net/aspose.cad.fileformats.glb.animations/curvesampler/createtangent/
 ---
 ## CreateTangent(Vector3, Vector3, float) {#createtangent_2}

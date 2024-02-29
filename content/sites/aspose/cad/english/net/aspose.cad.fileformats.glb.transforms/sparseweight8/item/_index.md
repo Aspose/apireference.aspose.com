@@ -3,7 +3,7 @@ title: SparseWeight8.Item
 second_title: Aspose.CAD for .NET API Reference
 description: SparseWeight8 property. 
 type: docs
-weight: 130
+weight: 30
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/item/
 ---
 ## SparseWeight8 indexer

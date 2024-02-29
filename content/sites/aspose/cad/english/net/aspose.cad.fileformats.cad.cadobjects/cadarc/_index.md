@@ -3,7 +3,7 @@ title: Class CadArc
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadArc class. Class describing Cad ARC
 type: docs
-weight: 2310
+weight: 2400
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadarc/
 ---
 ## CadArc class

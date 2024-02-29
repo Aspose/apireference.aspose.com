@@ -3,7 +3,7 @@ title: Class IfcShapeModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcShapeModel class. IfcShapeModel
 type: docs
-weight: 17020
+weight: 17010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapemodel/
 ---
 ## IfcShapeModel class

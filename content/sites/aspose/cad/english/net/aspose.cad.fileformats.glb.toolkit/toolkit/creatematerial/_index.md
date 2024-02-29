@@ -3,7 +3,7 @@ title: Toolkit.CreateMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/creatematerial/
 ---
 ## Toolkit.CreateMaterial method

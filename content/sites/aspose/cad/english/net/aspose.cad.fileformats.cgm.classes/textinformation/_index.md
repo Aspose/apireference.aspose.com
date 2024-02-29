@@ -3,7 +3,7 @@ title: Class TextInformation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.TextInformation class. Information bundle of text elements
 type: docs
-weight: 4610
+weight: 4710
 url: /net/aspose.cad.fileformats.cgm.classes/textinformation/
 ---
 ## TextInformation class

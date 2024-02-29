@@ -3,7 +3,7 @@ title: Class CharacterOrientation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterOrientation class. 
 type: docs
-weight: 4970
+weight: 5070
 url: /net/aspose.cad.fileformats.cgm.commands/characterorientation/
 ---
 ## CharacterOrientation class

@@ -3,7 +3,7 @@ title: Class IfcRelCoversBldgElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelCoversBldgElements class. IfcRelCoversBldgElements
 type: docs
-weight: 16580
+weight: 16570
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelcoversbldgelements/
 ---
 ## IfcRelCoversBldgElements class

@@ -1,14 +1,14 @@
 ---
 title: GlbData.SaveGLTF
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Writes this GlbImage to a file in GLTF format
+description: GlbData method. Writes this GlbData to a file in GLTF format
 type: docs
 weight: 470
 url: /net/aspose.cad.fileformats.glb/glbdata/savegltf/
 ---
 ## SaveGLTF(string, WriteSettings) {#savegltf_1}
 
-Writes this [`GlbImage`](../../glbimage/) to a file in GLTF format.
+Writes this [`GlbData`](../) to a file in GLTF format.
 
 ```csharp
 public void SaveGLTF(string filePath, WriteSettings settings = null)
@@ -32,10 +32,11 @@ Satellite files like buffers and images are also saved with the file name format
 
 ---
 
-## SaveGLTF(Stream, Stream, string, WriteSettings) {#savegltf}
+## SaveGLTF(Stream, Stream, Stream, string, WriteSettings) {#savegltf}
 
 ```csharp
-public void SaveGLTF(Stream stream, Stream binStream, string name, WriteSettings settings = null)
+public void SaveGLTF(Stream stream, Stream gltfStream, Stream binStream, string name, 
+    WriteSettings settings = null)
 ```
 
 ### See Also

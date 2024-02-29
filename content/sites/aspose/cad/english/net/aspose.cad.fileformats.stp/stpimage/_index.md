@@ -3,7 +3,7 @@ title: Class StpImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.StpImage class. STP image class
 type: docs
-weight: 34980
+weight: 34970
 url: /net/aspose.cad.fileformats.stp/stpimage/
 ---
 ## StpImage class

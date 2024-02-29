@@ -3,7 +3,7 @@ title: Class DgnLineElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnLineElement class. Represents line
 type: docs
-weight: 8790
+weight: 8890
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/
 ---
 ## DgnLineElement class

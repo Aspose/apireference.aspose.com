@@ -3,7 +3,7 @@ title: Class SceneBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.SceneBuilder class. Represents the root scene for models cameras and lights
 type: docs
-weight: 11470
+weight: 11390
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/
 ---
 ## SceneBuilder class
@@ -42,12 +42,7 @@ public class SceneBuilder : BaseBuilder
 | [AddLight](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addlight/#addlight_1)(LightBuilder, AffineTransform) |  |
 | [AddLight](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addlight/#addlight)(LightBuilder, NodeBuilder) |  |
 | [AddNode](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addnode/)(NodeBuilder) |  |
-| [AddRigidMesh](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addrigidmesh/#addrigidmesh_2)(IMeshBuilder&lt;MaterialBuilder&gt;, AffineTransform) | Adds a mesh instance to the scene, at the given location. |
-| [AddRigidMesh](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addrigidmesh/#addrigidmesh)(IMeshBuilder&lt;MaterialBuilder&gt;, NodeBuilder) | Adds a mesh instance to the scene, attached to an animatable [`NodeBuilder`](../nodebuilder/) |
-| [AddRigidMesh](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addrigidmesh/#addrigidmesh_1)(IMeshBuilder&lt;MaterialBuilder&gt;, NodeBuilder, AffineTransform) | Adds a mesh instance to the scene, at the given location, relative to the given node. |
 | [AddScene](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addscene/)(SceneBuilder, Matrix4x4) | Copies the instances from *scene* to this `SceneBuilder` |
-| [AddSkinnedMesh](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addskinnedmesh/#addskinnedmesh_1)(IMeshBuilder&lt;MaterialBuilder&gt;, params (NodeBuilder Joint, Matrix4x4 InverseBindMatrix)[]) |  |
-| [AddSkinnedMesh](../../aspose.cad.fileformats.glb.scenes/scenebuilder/addskinnedmesh/#addskinnedmesh)(IMeshBuilder&lt;MaterialBuilder&gt;, Matrix4x4, params NodeBuilder[]) |  |
 | [ApplyBasisTransform](../../aspose.cad.fileformats.glb.scenes/scenebuilder/applybasistransform/)(Matrix4x4, string) | Applies a tranform the this `SceneBuilder`. |
 | [DeepClone](../../aspose.cad.fileformats.glb.scenes/scenebuilder/deepclone/)(bool) |  |
 | [FindArmatures](../../aspose.cad.fileformats.glb.scenes/scenebuilder/findarmatures/)() | Gets all the unique armatures used by this `SceneBuilder`. |

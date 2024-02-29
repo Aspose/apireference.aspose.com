@@ -3,7 +3,7 @@ title: Class IfcSurfaceTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceTexture class. IfcSurfaceTexture
 type: docs
-weight: 28550
+weight: 28540
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/
 ---
 ## IfcSurfaceTexture class

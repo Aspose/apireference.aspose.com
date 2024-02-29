@@ -3,7 +3,7 @@ title: Class IfcBoundingBox
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundingBox class. IfcBoundingBox
 type: docs
-weight: 22260
+weight: 22250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundingbox/
 ---
 ## IfcBoundingBox class

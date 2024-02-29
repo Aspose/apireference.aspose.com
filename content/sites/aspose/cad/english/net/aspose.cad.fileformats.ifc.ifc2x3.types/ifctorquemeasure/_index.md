@@ -3,7 +3,7 @@ title: Class IfcTorqueMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTorqueMeasure class. IfcTorqueMeasure
 type: docs
-weight: 21450
+weight: 21440
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctorquemeasure/
 ---
 ## IfcTorqueMeasure class

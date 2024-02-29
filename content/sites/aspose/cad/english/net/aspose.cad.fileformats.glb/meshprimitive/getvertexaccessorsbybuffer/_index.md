@@ -3,7 +3,7 @@ title: MeshPrimitive.GetVertexAccessorsByBuffer
 second_title: Aspose.CAD for .NET API Reference
 description: MeshPrimitive method. 
 type: docs
-weight: 160
+weight: 140
 url: /net/aspose.cad.fileformats.glb/meshprimitive/getvertexaccessorsbybuffer/
 ---
 ## MeshPrimitive.GetVertexAccessorsByBuffer method

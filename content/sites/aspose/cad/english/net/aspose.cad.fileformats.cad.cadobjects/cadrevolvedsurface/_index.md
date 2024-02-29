@@ -3,7 +3,7 @@ title: Class CadRevolvedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRevolvedSurface class. The Cad revolved surface
 type: docs
-weight: 3120
+weight: 3210
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/
 ---
 ## CadRevolvedSurface class

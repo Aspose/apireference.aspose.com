@@ -3,7 +3,7 @@ title: RasterImage.AdjustGamma
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Gammacorrection of an image
 type: docs
-weight: 170
+weight: 160
 url: /net/aspose.cad/rasterimage/adjustgamma/
 ---
 ## AdjustGamma(float, float, float) {#adjustgamma_1}

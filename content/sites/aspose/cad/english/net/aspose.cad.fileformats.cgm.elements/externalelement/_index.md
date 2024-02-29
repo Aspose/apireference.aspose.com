@@ -3,7 +3,7 @@ title: Enum ExternalElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.ExternalElement enum. 
 type: docs
-weight: 6930
+weight: 7030
 url: /net/aspose.cad.fileformats.cgm.elements/externalelement/
 ---
 ## ExternalElement enumeration

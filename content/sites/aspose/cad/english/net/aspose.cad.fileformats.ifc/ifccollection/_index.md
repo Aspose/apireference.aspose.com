@@ -3,7 +3,7 @@ title: Class IfcCollection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IfcCollection class. IfcCollection represents a collection of IFC elements
 type: docs
-weight: 33500
+weight: 33490
 url: /net/aspose.cad.fileformats.ifc/ifccollection/
 ---
 ## IfcCollection class

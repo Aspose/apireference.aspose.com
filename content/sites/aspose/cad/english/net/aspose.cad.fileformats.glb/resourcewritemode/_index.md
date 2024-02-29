@@ -3,7 +3,7 @@ title: Enum ResourceWriteMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ResourceWriteMode enum. Determines how resources are written
 type: docs
-weight: 11210
+weight: 11160
 url: /net/aspose.cad.fileformats.glb/resourcewritemode/
 ---
 ## ResourceWriteMode enumeration

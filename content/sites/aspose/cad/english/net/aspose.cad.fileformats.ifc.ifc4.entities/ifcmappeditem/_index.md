@@ -3,7 +3,7 @@ title: Class IfcMappedItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMappedItem class. Partial IIfc entity class
 type: docs
-weight: 25260
+weight: 25250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmappeditem/
 ---
 ## IfcMappedItem class

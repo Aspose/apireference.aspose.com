@@ -3,7 +3,7 @@ title: Class CadMLeaderContextData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderContextData class. Class describing context data for multileader
 type: docs
-weight: 2830
+weight: 2920
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/
 ---
 ## CadMLeaderContextData class

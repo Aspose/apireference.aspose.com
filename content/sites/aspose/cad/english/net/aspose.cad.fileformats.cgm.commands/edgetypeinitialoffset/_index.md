@@ -3,7 +3,7 @@ title: Class EdgeTypeInitialOffset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeTypeInitialOffset class. Class5 ElementId47
 type: docs
-weight: 5430
+weight: 5530
 url: /net/aspose.cad.fileformats.cgm.commands/edgetypeinitialoffset/
 ---
 ## EdgeTypeInitialOffset class

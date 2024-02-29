@@ -3,7 +3,7 @@ title: CadTableContent.FormatedTableDataParameters
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableContent property. Gets or sets the formated table data parameters
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formatedtabledataparameters/
 ---
 ## CadTableContent.FormatedTableDataParameters property

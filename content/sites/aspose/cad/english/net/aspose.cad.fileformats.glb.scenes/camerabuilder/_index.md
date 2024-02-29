@@ -3,7 +3,7 @@ title: Class CameraBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.CameraBuilder class. Represents an camera object
 type: docs
-weight: 11340
+weight: 11260
 url: /net/aspose.cad.fileformats.glb.scenes/camerabuilder/
 ---
 ## CameraBuilder class

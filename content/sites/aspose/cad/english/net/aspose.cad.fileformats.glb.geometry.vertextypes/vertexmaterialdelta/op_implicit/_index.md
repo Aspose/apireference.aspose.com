@@ -9,12 +9,12 @@ url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexmaterialdelta/op
 ## VertexMaterialDelta Implicit operator
 
 ```csharp
-public static implicit operator VertexMaterialDelta(
-    ref (Vector4 Color0Delta, Vector4 Color1Delta, Vector2 TextCoord0Delta, Vector2 TextCoord1Delta) tuple)
+public static implicit operator VertexMaterialDelta(ref VertexColor2Texture2Tuple tuple)
 ```
 
 ### See Also
 
+* struct [VertexColor2Texture2Tuple](../../../aspose.cad.fileformats.glb/vertexcolor2texture2tuple/)
 * struct [VertexMaterialDelta](../)
 * namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)

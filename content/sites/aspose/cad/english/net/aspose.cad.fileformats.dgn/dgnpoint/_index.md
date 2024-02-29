@@ -3,7 +3,7 @@ title: Class DgnPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnPoint class. Represents point for DGN format
 type: docs
-weight: 9010
+weight: 9110
 url: /net/aspose.cad.fileformats.dgn/dgnpoint/
 ---
 ## DgnPoint class

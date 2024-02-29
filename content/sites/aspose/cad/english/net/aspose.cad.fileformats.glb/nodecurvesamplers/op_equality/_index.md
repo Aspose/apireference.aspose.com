@@ -3,7 +3,7 @@ title: NodeCurveSamplers.op_Equality
 second_title: Aspose.CAD for .NET API Reference
 description: NodeCurveSamplers method. 
 type: docs
-weight: 160
+weight: 100
 url: /net/aspose.cad.fileformats.glb/nodecurvesamplers/op_equality/
 ---
 ## NodeCurveSamplers Equality operator

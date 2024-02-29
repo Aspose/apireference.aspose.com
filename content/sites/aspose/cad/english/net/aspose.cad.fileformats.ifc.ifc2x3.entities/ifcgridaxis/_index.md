@@ -3,7 +3,7 @@ title: Class IfcGridAxis
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGridAxis class. IfcGridAxis
 type: docs
-weight: 14630
+weight: 14620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/
 ---
 ## IfcGridAxis class

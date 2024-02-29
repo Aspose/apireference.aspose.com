@@ -3,7 +3,7 @@ title: Class IfcStructuralPlanarActionVarying
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralPlanarActionVarying class. IfcStructuralPlanarActionVarying
 type: docs
-weight: 17480
+weight: 17470
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaractionvarying/
 ---
 ## IfcStructuralPlanarActionVarying class

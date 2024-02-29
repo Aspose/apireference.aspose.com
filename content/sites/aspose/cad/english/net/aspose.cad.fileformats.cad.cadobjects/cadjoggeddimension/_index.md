@@ -3,7 +3,7 @@ title: Class CadJoggedDimension
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadJoggedDimension class. The cad jogged dimension
 type: docs
-weight: 2720
+weight: 2810
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadjoggeddimension/
 ---
 ## CadJoggedDimension class

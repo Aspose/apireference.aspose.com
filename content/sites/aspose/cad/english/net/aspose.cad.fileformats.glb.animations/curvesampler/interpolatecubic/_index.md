@@ -3,7 +3,7 @@ title: CurveSampler.InterpolateCubic
 second_title: Aspose.CAD for .NET API Reference
 description: CurveSampler method. 
 type: docs
-weight: 60
+weight: 20
 url: /net/aspose.cad.fileformats.glb.animations/curvesampler/interpolatecubic/
 ---
 ## InterpolateCubic(Vector3, Vector3, Vector3, Vector3, float) {#interpolatecubic_2}

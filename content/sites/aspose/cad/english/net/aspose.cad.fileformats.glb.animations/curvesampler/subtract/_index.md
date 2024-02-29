@@ -3,7 +3,7 @@ title: CurveSampler.Subtract
 second_title: Aspose.CAD for .NET API Reference
 description: CurveSampler method. 
 type: docs
-weight: 90
+weight: 40
 url: /net/aspose.cad.fileformats.glb.animations/curvesampler/subtract/
 ---
 ## CurveSampler.Subtract method

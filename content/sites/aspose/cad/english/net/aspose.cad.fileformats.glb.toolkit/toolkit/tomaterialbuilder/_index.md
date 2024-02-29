@@ -3,7 +3,7 @@ title: Toolkit.ToMaterialBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 180
+weight: 120
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/tomaterialbuilder/
 ---
 ## Toolkit.ToMaterialBuilder method

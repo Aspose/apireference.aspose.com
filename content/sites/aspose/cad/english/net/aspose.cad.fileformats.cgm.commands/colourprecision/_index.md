@@ -3,7 +3,7 @@ title: Class ColourPrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourPrecision class. 
 type: docs
-weight: 5170
+weight: 5270
 url: /net/aspose.cad.fileformats.cgm.commands/colourprecision/
 ---
 ## ColourPrecision class

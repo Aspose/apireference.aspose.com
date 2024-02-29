@@ -3,7 +3,7 @@ title: Class VertexBufferColumns
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexBufferColumns class. Represents a vertex buffer where every vertex attribute is represented as a vector column
 type: docs
-weight: 10440
+weight: 10430
 url: /net/aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/
 ---
 ## VertexBufferColumns class
@@ -46,13 +46,8 @@ public class VertexBufferColumns
 | --- | --- |
 | [AddMorphTarget](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/addmorphtarget/)() |  |
 | [GetCompatibleVertexType](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/getcompatiblevertextype/)() |  |
-| [GetVertex](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/getvertex/#getvertex)(Type, int) |  |
-| [GetVertex&lt;TvG,TvM&gt;](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/getvertex/#getvertex_1)(int) |  |
-| [GetVertex&lt;TvG,TvM,TvS&gt;](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/getvertex/#getvertex_2)(int) |  |
 | [IsolateColumns](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/isolatecolumns/)() | Performs an in-place copy of the contents of every column, which guarantees that the columns of this `VertexBufferColumns` are not shared by any other object and can be modified safely. |
 | [WithTransform](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/withtransform/)(IGeometryTransform) |  |
-| static [CalculateSmoothNormals](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/calculatesmoothnormals/)(IReadOnlyList&lt;(VertexBufferColumns Vertices, IEnumerable&lt;(int A, int B, int C)&gt; Indices)&gt;) |  |
-| static [CalculateTangents](../../aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/calculatetangents/)(IReadOnlyList&lt;(VertexBufferColumns Vertices, IEnumerable&lt;(int A, int B, int C)&gt; Indices)&gt;) |  |
 
 ## Remarks
 

@@ -3,7 +3,7 @@ title: Class IfcCurrencyRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCurrencyRelationship class. IfcCurrencyRelationship
 type: docs
-weight: 23290
+weight: 23280
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/
 ---
 ## IfcCurrencyRelationship class

@@ -3,7 +3,7 @@ title: Class Triangles
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Triangles class. The triangles. The triangles element provides the information needed to bind vertex attributes together and then organize those vertices into individual triangles. Each triangle described by the mesh has three vertices. The first triangle is formed from the first second and third vertices. The second triangle is formed from the fourth fifth and sixth vertices and so on
 type: docs
-weight: 8510
+weight: 8610
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/triangles/
 ---
 ## Triangles class

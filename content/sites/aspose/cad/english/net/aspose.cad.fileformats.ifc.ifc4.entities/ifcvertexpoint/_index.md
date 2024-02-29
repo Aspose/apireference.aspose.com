@@ -3,7 +3,7 @@ title: Class IfcVertexPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcVertexPoint class. IfcVertexPoint
 type: docs
-weight: 29230
+weight: 29220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvertexpoint/
 ---
 ## IfcVertexPoint class

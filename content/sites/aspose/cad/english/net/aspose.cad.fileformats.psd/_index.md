@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Psd
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles PSD file format processing
 type: docs
-weight: 1040
+weight: 1050
 url: /net/aspose.cad.fileformats.psd/
 ---
 The namespace handles PSD file format processing.

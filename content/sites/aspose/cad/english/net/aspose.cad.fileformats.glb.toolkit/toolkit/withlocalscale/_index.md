@@ -3,7 +3,7 @@ title: Toolkit.WithLocalScale
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 410
+weight: 330
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withlocalscale/
 ---
 ## Toolkit.WithLocalScale method

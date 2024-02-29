@@ -3,7 +3,7 @@ title: Class BitonalTile
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BitonalTile class. Class4 ElementId28
 type: docs
-weight: 4900
+weight: 5000
 url: /net/aspose.cad.fileformats.cgm.commands/bitonaltile/
 ---
 ## BitonalTile class

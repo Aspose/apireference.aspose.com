@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cgm.Commands
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of CGM commands
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.cad.fileformats.cgm.commands/
 ---
 The namespace contains entities of CGM commands.

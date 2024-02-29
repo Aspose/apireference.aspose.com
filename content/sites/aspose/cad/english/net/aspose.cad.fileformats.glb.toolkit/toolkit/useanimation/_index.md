@@ -3,7 +3,7 @@ title: Toolkit.UseAnimation
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 240
+weight: 160
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/useanimation/
 ---
 ## Toolkit.UseAnimation method

@@ -3,7 +3,7 @@ title: Enum IfcInventoryTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcInventoryTypeEnum enum. IfcInventoryTypeEnum
 type: docs
-weight: 31160
+weight: 31150
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcinventorytypeenum/
 ---
 ## IfcInventoryTypeEnum enumeration

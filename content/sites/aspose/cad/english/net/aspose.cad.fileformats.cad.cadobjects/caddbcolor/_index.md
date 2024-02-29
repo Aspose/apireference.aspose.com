@@ -3,7 +3,7 @@ title: Class CadDbColor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadDbColor class. Class describing DBCOLOR object
 type: docs
-weight: 2480
+weight: 2570
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddbcolor/
 ---
 ## CadDbColor class

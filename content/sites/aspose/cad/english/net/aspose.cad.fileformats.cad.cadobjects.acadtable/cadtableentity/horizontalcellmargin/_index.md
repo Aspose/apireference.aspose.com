@@ -3,7 +3,7 @@ title: CadTableEntity.HorizontalCellMargin
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the horizontal cell margin
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/horizontalcellmargin/
 ---
 ## CadTableEntity.HorizontalCellMargin property

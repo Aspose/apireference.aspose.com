@@ -3,7 +3,7 @@ title: Class IfcSphere
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSphere class. Partial IIfc entity class
 type: docs
-weight: 27910
+weight: 27900
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsphere/
 ---
 ## IfcSphere class

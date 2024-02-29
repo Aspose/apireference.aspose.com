@@ -3,7 +3,7 @@ title: ContentTransformer.GetPoseWorldMatrix
 second_title: Aspose.CAD for .NET API Reference
 description: ContentTransformer method. 
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.cad.fileformats.glb.scenes/contenttransformer/getposeworldmatrix/
 ---
 ## ContentTransformer.GetPoseWorldMatrix method

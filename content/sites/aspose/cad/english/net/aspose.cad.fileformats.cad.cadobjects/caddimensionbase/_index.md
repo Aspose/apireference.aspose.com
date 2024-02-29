@@ -3,7 +3,7 @@ title: Class CadDimensionBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadDimensionBase class. The CadDimension class
 type: docs
-weight: 2530
+weight: 2620
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/
 ---
 ## CadDimensionBase class

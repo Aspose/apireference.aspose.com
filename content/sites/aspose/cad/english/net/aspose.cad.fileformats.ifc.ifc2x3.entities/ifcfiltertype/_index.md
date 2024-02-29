@@ -3,7 +3,7 @@ title: Class IfcFilterType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFilterType class. IfcFilterType
 type: docs
-weight: 14290
+weight: 14280
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfiltertype/
 ---
 ## IfcFilterType class

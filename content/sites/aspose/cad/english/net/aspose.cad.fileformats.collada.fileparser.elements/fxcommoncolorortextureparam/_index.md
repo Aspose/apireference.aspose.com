@@ -3,7 +3,7 @@ title: Class FxCommonColorOrTextureParam
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonColorOrTextureParam class. The FX common color or texture parameter. References a predefined parameter
 type: docs
-weight: 7680
+weight: 7780
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/
 ---
 ## FxCommonColorOrTextureParam class

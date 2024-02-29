@@ -3,7 +3,7 @@ title: Class CellArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CellArray class. Class4 ElementId9
 type: docs
-weight: 4920
+weight: 5020
 url: /net/aspose.cad.fileformats.cgm.commands/cellarray/
 ---
 ## CellArray class

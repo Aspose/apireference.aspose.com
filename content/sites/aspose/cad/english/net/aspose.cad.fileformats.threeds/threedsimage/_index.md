@@ -3,7 +3,7 @@ title: Class ThreeDSImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.ThreeDSImage class. 3DS image class. Allows to load 3D models from 3DS files. In example below 3D model loaded from file and exported to PDF. The resulting PDF file will contain projection of 3D model occupying the entire page with margins
 type: docs
-weight: 35120
+weight: 35110
 url: /net/aspose.cad.fileformats.threeds/threedsimage/
 ---
 ## ThreeDSImage class

@@ -3,7 +3,7 @@ title: SceneBuilder.ToGltf2
 second_title: Aspose.CAD for .NET API Reference
 description: SceneBuilder method. Converts this SceneBuilder instance into a GlbImage instance
 type: docs
-weight: 150
+weight: 130
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/togltf2/
 ---
 ## ToGltf2() {#togltf2}

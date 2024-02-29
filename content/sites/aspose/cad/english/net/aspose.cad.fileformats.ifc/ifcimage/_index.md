@@ -3,7 +3,7 @@ title: Class IfcImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IfcImage class. Represents an image in IFC format. Contains information about all entities and header information
 type: docs
-weight: 33540
+weight: 33530
 url: /net/aspose.cad.fileformats.ifc/ifcimage/
 ---
 ## IfcImage class

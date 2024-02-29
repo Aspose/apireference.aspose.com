@@ -8,7 +8,7 @@ url: /net/aspose.cad.fileformats.glb/nodecurvesamplers/hastransformcurves/
 ---
 ## NodeCurveSamplers.HasTransformCurves property
 
-True if any of [`Scale`](../scale/), [`Rotation`](../rotation/) or [`Translation`](../translation/) is defined.
+True if any of Scale, Rotation or Translation is defined.
 
 ```csharp
 public bool HasTransformCurves { get; }

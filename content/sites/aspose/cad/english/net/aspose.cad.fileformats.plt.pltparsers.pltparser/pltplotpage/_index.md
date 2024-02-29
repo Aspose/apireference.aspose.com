@@ -3,7 +3,7 @@ title: Class PltPlotPage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotPage class. The PLT page with draw items
 type: docs
-weight: 34040
+weight: 34030
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser/pltplotpage/
 ---
 ## PltPlotPage class

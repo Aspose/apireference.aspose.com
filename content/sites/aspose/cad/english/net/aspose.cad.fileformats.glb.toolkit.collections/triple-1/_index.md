@@ -3,7 +3,7 @@ title: Struct TripleT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ToolKit.Collections.Triple1T struct. 
 type: docs
-weight: 11580
+weight: 11500
 url: /net/aspose.cad.fileformats.glb.toolkit.collections/triple-1/
 ---
 ## Triple&lt;T&gt; structure
@@ -33,7 +33,6 @@ public struct Triple<T> : IEquatable<Triple>, IReadOnlyList<T>
 | [Equals](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/equals/#equals)(Triple) |  |
 | [GetEnumerator](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/getenumerator/)() |  |
 | override [GetHashCode](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/gethashcode/)() |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/op_implicit/) |  |
 
 ## Fields
 

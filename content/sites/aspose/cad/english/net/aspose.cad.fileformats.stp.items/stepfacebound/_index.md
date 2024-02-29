@@ -3,7 +3,7 @@ title: Class StepFaceBound
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepFaceBound class. FaceBound class for STP file
 type: docs
-weight: 34500
+weight: 34490
 url: /net/aspose.cad.fileformats.stp.items/stepfacebound/
 ---
 ## StepFaceBound class

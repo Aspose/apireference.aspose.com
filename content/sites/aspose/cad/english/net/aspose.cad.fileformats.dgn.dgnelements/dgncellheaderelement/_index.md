@@ -3,7 +3,7 @@ title: Class DgnCellHeaderElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnCellHeaderElement class. Represents cell header element
 type: docs
-weight: 8670
+weight: 8770
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/
 ---
 ## DgnCellHeaderElement class

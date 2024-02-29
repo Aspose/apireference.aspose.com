@@ -3,7 +3,7 @@ title: Enum IfcOccupantTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcOccupantTypeEnum enum. IfcOccupantTypeEnum
 type: docs
-weight: 20370
+weight: 20360
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcoccupanttypeenum/
 ---
 ## IfcOccupantTypeEnum enumeration

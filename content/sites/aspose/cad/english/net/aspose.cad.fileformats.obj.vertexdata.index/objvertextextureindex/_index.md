@@ -3,7 +3,7 @@ title: Class ObjVertexTextureIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Obj.VertexData.Index.ObjVertexTextureIndex class. The OBJ vertex texture index
 type: docs
-weight: 33840
+weight: 33830
 url: /net/aspose.cad.fileformats.obj.vertexdata.index/objvertextextureindex/
 ---
 ## ObjVertexTextureIndex class

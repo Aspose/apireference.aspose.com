@@ -3,7 +3,7 @@ title: Class CadBreakData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadBreakData class. Class describing CadBreakData object
 type: docs
-weight: 2390
+weight: 2480
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbreakdata/
 ---
 ## CadBreakData class

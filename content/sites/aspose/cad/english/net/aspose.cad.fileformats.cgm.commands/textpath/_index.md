@@ -3,7 +3,7 @@ title: Class TextPath
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextPath class. 
 type: docs
-weight: 6680
+weight: 6780
 url: /net/aspose.cad.fileformats.cgm.commands/textpath/
 ---
 ## TextPath class

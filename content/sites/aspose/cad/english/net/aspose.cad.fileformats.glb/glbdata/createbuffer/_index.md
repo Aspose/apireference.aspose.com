@@ -1,14 +1,14 @@
 ---
 title: GlbData.CreateBuffer
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Buffer instance and adds it to GlbImage.LogicalBuffers
+description: GlbData method. Creates a new Buffer instance and adds it to LogicalBuffers
 type: docs
 weight: 290
 url: /net/aspose.cad.fileformats.glb/glbdata/createbuffer/
 ---
 ## GlbData.CreateBuffer method
 
-Creates a new [`Buffer`](../../buffer/) instance and adds it to !:GlbImage.LogicalBuffers.
+Creates a new [`Buffer`](../../buffer/) instance and adds it to [`LogicalBuffers`](../logicalbuffers/).
 
 ```csharp
 public Buffer CreateBuffer(int byteCount)

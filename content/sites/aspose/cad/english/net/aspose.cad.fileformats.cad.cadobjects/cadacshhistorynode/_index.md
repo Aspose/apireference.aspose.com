@@ -3,7 +3,7 @@ title: Class CadAcshHistoryNode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcshHistoryNode class. Class describing CadAcshHistoryNode object
 type: docs
-weight: 2220
+weight: 2310
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshhistorynode/
 ---
 ## CadAcshHistoryNode class

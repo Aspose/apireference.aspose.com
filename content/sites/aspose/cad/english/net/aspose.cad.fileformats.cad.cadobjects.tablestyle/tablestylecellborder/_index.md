@@ -3,7 +3,7 @@ title: Class TableStyleCellBorder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle.TableStyleCellBorder class. The TableStyleCellBorder data
 type: docs
-weight: 3900
+weight: 3990
 url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellborder/
 ---
 ## TableStyleCellBorder class

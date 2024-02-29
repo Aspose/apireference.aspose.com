@@ -3,7 +3,7 @@ title: Class SymbolLibraryIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SymbolLibraryIndex class. Class5 ElementId48
 type: docs
-weight: 6550
+weight: 6650
 url: /net/aspose.cad.fileformats.cgm.commands/symbollibraryindex/
 ---
 ## SymbolLibraryIndex class

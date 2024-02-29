@@ -3,7 +3,7 @@ title: Class Scene
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scene class. The root nodes of a scene
 type: docs
-weight: 11330
+weight: 11250
 url: /net/aspose.cad.fileformats.glb/scene/
 ---
 ## Scene class
@@ -20,8 +20,8 @@ public sealed class Scene : LogicalChildOfRoot, IVisualNodeContainer
 | --- | --- |
 | [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
 | [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../glbimage/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbImage`](../glbimage/) instance that owns this object. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
 | [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
 | [VisualChildren](../../aspose.cad.fileformats.glb/scene/visualchildren/) { get; } |  |
 
@@ -29,7 +29,7 @@ public sealed class Scene : LogicalChildOfRoot, IVisualNodeContainer
 
 | Name | Description |
 | --- | --- |
-| [CreateNode](../../aspose.cad.fileformats.glb/scene/createnode/)(string) | Creates a new [`Node`](../node/) instance, adds it to !:GlbImage.LogicalNodes and references it as a child in the current graph. |
+| [CreateNode](../../aspose.cad.fileformats.glb/scene/createnode/)(string) | Creates a new [`Node`](../node/) instance, adds it to [`LogicalNodes`](../glbdata/logicalnodes/) and references it as a child in the current graph. |
 | [GetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/getextension/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)(T) |  |

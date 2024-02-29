@@ -3,7 +3,7 @@ title: Class SceneInstance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.SceneInstance class. Represents a specific and independent state of a SceneTemplate
 type: docs
-weight: 11320
+weight: 11240
 url: /net/aspose.cad.fileformats.glb.runtime/sceneinstance/
 ---
 ## SceneInstance class
@@ -28,7 +28,7 @@ public sealed class SceneInstance : IReadOnlyList<DrawableInstance>
 
 | Name | Description |
 | --- | --- |
-| [GetDrawableInstance](../../aspose.cad.fileformats.glb.runtime/sceneinstance/getdrawableinstance/)(int) | Gets a [`DrawableInstance`](../drawableinstance/) object, where: - Name is the name of this drawable instance. Originally, it was the name of [`Node`](../../aspose.cad.fileformats.glb/node/). - MeshIndex is the logical Index of a [`Mesh`](../../aspose.cad.fileformats.glb/mesh/) in !:GlbImage.LogicalMeshes. - Transform is an [`IGeometryTransform`](../../aspose.cad.fileformats.glb.transforms/igeometrytransform/) that can be used to transform the [`Mesh`](../../aspose.cad.fileformats.glb/mesh/) into world space. |
+| [GetDrawableInstance](../../aspose.cad.fileformats.glb.runtime/sceneinstance/getdrawableinstance/)(int) | Gets a [`DrawableInstance`](../drawableinstance/) object, where: - Name is the name of this drawable instance. Originally, it was the name of [`Node`](../../aspose.cad.fileformats.glb/node/). - MeshIndex is the logical Index of a [`Mesh`](../../aspose.cad.fileformats.glb/mesh/) in [`LogicalMeshes`](../../aspose.cad.fileformats.glb/glbdata/logicalmeshes/). - Transform is an [`IGeometryTransform`](../../aspose.cad.fileformats.glb.transforms/igeometrytransform/) that can be used to transform the [`Mesh`](../../aspose.cad.fileformats.glb/mesh/) into world space. |
 | [GetEnumerator](../../aspose.cad.fileformats.glb.runtime/sceneinstance/getenumerator/)() |  |
 
 ### See Also

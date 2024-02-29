@@ -3,7 +3,7 @@ title: Class InstancePhysicsMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstancePhysicsMaterial class. The instance physics material
 type: docs
-weight: 7890
+weight: 7990
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancephysicsmaterial/
 ---
 ## InstancePhysicsMaterial class

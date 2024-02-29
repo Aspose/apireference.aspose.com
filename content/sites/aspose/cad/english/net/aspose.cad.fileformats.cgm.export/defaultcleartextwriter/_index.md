@@ -3,7 +3,7 @@ title: Class DefaultClearTextWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Export.DefaultClearTextWriter class. 
 type: docs
-weight: 7150
+weight: 7250
 url: /net/aspose.cad.fileformats.cgm.export/defaultcleartextwriter/
 ---
 ## DefaultClearTextWriter class

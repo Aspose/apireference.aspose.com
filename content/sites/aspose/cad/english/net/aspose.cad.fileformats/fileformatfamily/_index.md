@@ -3,7 +3,7 @@ title: Enum FileFormatFamily
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.FileFormatFamily enum. Represents available image families
 type: docs
-weight: 10040
+weight: 10140
 url: /net/aspose.cad.fileformats/fileformatfamily/
 ---
 ## FileFormatFamily enumeration

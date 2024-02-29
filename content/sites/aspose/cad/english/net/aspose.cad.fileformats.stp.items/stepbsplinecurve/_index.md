@@ -3,7 +3,7 @@ title: Class StepBSplineCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepBSplineCurve class. BSplineCurve class for STP file
 type: docs
-weight: 34290
+weight: 34280
 url: /net/aspose.cad.fileformats.stp.items/stepbsplinecurve/
 ---
 ## StepBSplineCurve class

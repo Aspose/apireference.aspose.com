@@ -3,7 +3,7 @@ title: Class CadSweptSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSweptSurface class. The Cad swept surface
 type: docs
-weight: 3260
+weight: 3350
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/
 ---
 ## CadSweptSurface class

@@ -3,7 +3,7 @@ title: Class IfcGeometricSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGeometricSet class. Partial IIfc entity class
 type: docs
-weight: 24770
+weight: 24760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricset/
 ---
 ## IfcGeometricSet class

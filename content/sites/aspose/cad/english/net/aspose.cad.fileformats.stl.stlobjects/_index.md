@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Stl.StlObjects
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes for STL models
 type: docs
-weight: 1080
+weight: 1090
 url: /net/aspose.cad.fileformats.stl.stlobjects/
 ---
 The namespace contains classes for STL models.

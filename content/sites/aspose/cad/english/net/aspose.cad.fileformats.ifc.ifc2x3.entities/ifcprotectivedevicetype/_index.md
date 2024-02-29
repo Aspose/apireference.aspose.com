@@ -3,7 +3,7 @@ title: Class IfcProtectiveDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProtectiveDeviceType class. IfcProtectiveDeviceType
 type: docs
-weight: 16010
+weight: 16000
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprotectivedevicetype/
 ---
 ## IfcProtectiveDeviceType class

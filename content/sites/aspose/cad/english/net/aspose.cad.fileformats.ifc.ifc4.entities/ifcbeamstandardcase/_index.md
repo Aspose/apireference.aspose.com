@@ -3,7 +3,7 @@ title: Class IfcBeamStandardCase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBeamStandardCase class. IfcBeamStandardCase
 type: docs
-weight: 22100
+weight: 22090
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbeamstandardcase/
 ---
 ## IfcBeamStandardCase class

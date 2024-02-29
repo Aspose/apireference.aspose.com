@@ -3,7 +3,7 @@ title: Class CadBlockRotateAction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockRotateAction class. Class describing BLOCKROTATEACTION object
 type: docs
-weight: 1940
+weight: 2030
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotateaction/
 ---
 ## CadBlockRotateAction class

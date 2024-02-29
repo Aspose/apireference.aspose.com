@@ -3,7 +3,7 @@ title: Class FillColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.FillColour class. 
 type: docs
-weight: 5610
+weight: 5710
 url: /net/aspose.cad.fileformats.cgm.commands/fillcolour/
 ---
 ## FillColour class

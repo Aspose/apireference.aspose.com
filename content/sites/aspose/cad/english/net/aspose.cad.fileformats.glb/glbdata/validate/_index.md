@@ -3,7 +3,7 @@ title: GlbData.Validate
 second_title: Aspose.CAD for .NET API Reference
 description: GlbData method. 
 type: docs
-weight: 560
+weight: 570
 url: /net/aspose.cad.fileformats.glb/glbdata/validate/
 ---
 ## GlbData.Validate method

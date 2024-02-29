@@ -3,7 +3,7 @@ title: Enum IfcAirTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcAirTerminalTypeEnum enum. IfcAirTerminalTypeEnum
 type: docs
-weight: 18540
+weight: 18530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcairterminaltypeenum/
 ---
 ## IfcAirTerminalTypeEnum enumeration

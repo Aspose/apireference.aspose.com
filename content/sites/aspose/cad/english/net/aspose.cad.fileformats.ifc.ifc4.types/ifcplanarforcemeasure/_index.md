@@ -3,7 +3,7 @@ title: Class IfcPlanarForceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPlanarForceMeasure class. IfcPlanarForceMeasure
 type: docs
-weight: 31900
+weight: 31890
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcplanarforcemeasure/
 ---
 ## IfcPlanarForceMeasure class

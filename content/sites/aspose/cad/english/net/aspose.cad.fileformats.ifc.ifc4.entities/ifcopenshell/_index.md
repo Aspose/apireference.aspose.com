@@ -3,7 +3,7 @@ title: Class IfcOpenShell
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOpenShell class. Partial IIfc entity class
 type: docs
-weight: 25670
+weight: 25660
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcopenshell/
 ---
 ## IfcOpenShell class

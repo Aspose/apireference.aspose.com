@@ -1,14 +1,14 @@
 ---
 title: GlbData.UseBuffer
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a Buffer instance at GlbImage.LogicalBuffers
+description: GlbData method. Creates or reuses a Buffer instance at LogicalBuffers
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.cad.fileformats.glb/glbdata/usebuffer/
 ---
 ## GlbData.UseBuffer method
 
-Creates or reuses a [`Buffer`](../../buffer/) instance at !:GlbImage.LogicalBuffers.
+Creates or reuses a [`Buffer`](../../buffer/) instance at [`LogicalBuffers`](../logicalbuffers/).
 
 ```csharp
 public Buffer UseBuffer(byte[] content)

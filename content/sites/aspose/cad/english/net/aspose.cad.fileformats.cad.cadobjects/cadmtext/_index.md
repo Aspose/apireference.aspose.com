@@ -3,7 +3,7 @@ title: Class CadMText
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMText class. Class describing Cad Mtext
 type: docs
-weight: 2880
+weight: 2970
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/
 ---
 ## CadMText class

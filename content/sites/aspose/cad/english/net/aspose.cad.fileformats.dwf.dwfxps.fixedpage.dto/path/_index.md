@@ -3,7 +3,7 @@ title: Class Path
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.Path class. The path. Defines a single graphical effect to be rendered to the page. It paints a geometry with a brush and draws a stroke around it
 type: docs
-weight: 9320
+weight: 9420
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/path/
 ---
 ## Path class

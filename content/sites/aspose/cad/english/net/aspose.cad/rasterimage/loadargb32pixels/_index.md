@@ -3,7 +3,7 @@ title: RasterImage.LoadArgb32Pixels
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Loads 32bit ARGB pixels
 type: docs
-weight: 300
+weight: 290
 url: /net/aspose.cad/rasterimage/loadargb32pixels/
 ---
 ## RasterImage.LoadArgb32Pixels method

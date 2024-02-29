@@ -3,7 +3,7 @@ title: MeshPrimitive.SetIndexAccessor
 second_title: Aspose.CAD for .NET API Reference
 description: MeshPrimitive method. 
 type: docs
-weight: 180
+weight: 160
 url: /net/aspose.cad.fileformats.glb/meshprimitive/setindexaccessor/
 ---
 ## MeshPrimitive.SetIndexAccessor method

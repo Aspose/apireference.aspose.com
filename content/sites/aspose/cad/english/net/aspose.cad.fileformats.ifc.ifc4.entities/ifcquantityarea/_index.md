@@ -3,7 +3,7 @@ title: Class IfcQuantityArea
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcQuantityArea class. IfcQuantityArea
 type: docs
-weight: 26580
+weight: 26570
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityarea/
 ---
 ## IfcQuantityArea class

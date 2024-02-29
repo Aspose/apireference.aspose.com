@@ -3,7 +3,7 @@ title: Class CadDimAssoc
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc.CadDimAssoc class. Class describing Cad DimAssoc
 type: docs
-weight: 3490
+weight: 3580
 url: /net/aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/
 ---
 ## CadDimAssoc class

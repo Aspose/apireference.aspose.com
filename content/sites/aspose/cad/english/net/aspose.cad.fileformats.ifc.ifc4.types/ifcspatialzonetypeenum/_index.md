@@ -3,7 +3,7 @@ title: Enum IfcSpatialZoneTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSpatialZoneTypeEnum enum. IfcSpatialZoneTypeEnum
 type: docs
-weight: 32630
+weight: 32620
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcspatialzonetypeenum/
 ---
 ## IfcSpatialZoneTypeEnum enumeration

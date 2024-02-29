@@ -3,7 +3,7 @@ title: Class RasterizationQuality
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.RasterizationQuality class. RasterizationQuality class
 type: docs
-weight: 36380
+weight: 36370
 url: /net/aspose.cad.imageoptions/rasterizationquality/
 ---
 ## RasterizationQuality class

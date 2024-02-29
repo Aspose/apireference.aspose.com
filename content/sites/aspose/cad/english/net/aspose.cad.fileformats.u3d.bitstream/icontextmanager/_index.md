@@ -3,7 +3,7 @@ title: Interface IContextManager
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.BitStream.IContextManager interface. IContextManager.cs This file defines the IContextManager interface. IContextManager is used to access the static and dynamic contexts used for the reading and writing of compressed data
 type: docs
-weight: 35530
+weight: 35520
 url: /net/aspose.cad.fileformats.u3d.bitstream/icontextmanager/
 ---
 ## IContextManager interface

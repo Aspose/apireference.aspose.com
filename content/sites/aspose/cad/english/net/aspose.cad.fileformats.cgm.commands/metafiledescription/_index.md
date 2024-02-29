@@ -3,7 +3,7 @@ title: Class MetafileDescription
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MetafileDescription class. 
 type: docs
-weight: 6120
+weight: 6220
 url: /net/aspose.cad.fileformats.cgm.commands/metafiledescription/
 ---
 ## MetafileDescription class

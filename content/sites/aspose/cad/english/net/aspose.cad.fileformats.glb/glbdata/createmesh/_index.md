@@ -1,14 +1,14 @@
 ---
 title: GlbData.CreateMesh
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Mesh instance and appends it to GlbImage.LogicalMeshes
+description: GlbData method. Creates a new Mesh instance and appends it to LogicalMeshes
 type: docs
 weight: 350
 url: /net/aspose.cad.fileformats.glb/glbdata/createmesh/
 ---
 ## GlbData.CreateMesh method
 
-Creates a new [`Mesh`](../../mesh/) instance and appends it to !:GlbImage.LogicalMeshes.
+Creates a new [`Mesh`](../../mesh/) instance and appends it to [`LogicalMeshes`](../logicalmeshes/).
 
 ```csharp
 public Mesh CreateMesh(string name = null)

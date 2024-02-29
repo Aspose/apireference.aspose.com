@@ -3,7 +3,7 @@ title: Class PltImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltImage class. PLT image class
 type: docs
-weight: 33900
+weight: 33890
 url: /net/aspose.cad.fileformats.plt/pltimage/
 ---
 ## PltImage class

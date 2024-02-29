@@ -3,7 +3,7 @@ title: Class CadGeoData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadGeoData class. Class describing GeoData object
 type: docs
-weight: 2650
+weight: 2740
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/
 ---
 ## CadGeoData class

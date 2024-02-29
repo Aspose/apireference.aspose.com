@@ -22,6 +22,25 @@ public bool ValidateImage(Stream stream)
 
 The success of operation.
 
+## Examples
+
+Image embedding and validation.
+
+```csharp
+string inputFileName = "Tyrannosaurus.dxf";
+string watermarkFileName = "Clock-Icon.png";
+string embeddedFileName = "Tyrannosaurus_embedded.dxf";
+
+var watermarkStream = new MemoryStream(File.ReadAllBytes(watermarkFileName));
+
+var inputImage = Image.Load(inputFileName);
+bool embedSuccess = inputImage.WatermarkGuardService.EmbedImage(watermarkStream);
+inputImage.Save(embeddedFileName, new DxfOptions());
+
+var embeddedImage = Image.Load(embeddedFileName);
+bool validateSuccess = embeddedImage.WatermarkGuardService.ValidateImage(watermarkStream);
+```
+
 ### See Also
 
 * interface [IWatermarkGuardService](../)

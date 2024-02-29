@@ -3,7 +3,7 @@ title: Class CadSkyLightBackGround
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSkyLightBackGround class. Class describing CadSkyLightBackGround object
 type: docs
-weight: 3190
+weight: 3280
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadskylightbackground/
 ---
 ## CadSkyLightBackGround class

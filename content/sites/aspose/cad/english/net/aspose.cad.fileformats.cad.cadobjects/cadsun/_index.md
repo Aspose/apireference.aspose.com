@@ -3,7 +3,7 @@ title: Class CadSun
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSun class. The Cad sun
 type: docs
-weight: 3240
+weight: 3330
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsun/
 ---
 ## CadSun class

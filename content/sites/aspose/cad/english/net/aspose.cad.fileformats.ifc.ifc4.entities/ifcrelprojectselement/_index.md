@@ -3,7 +3,7 @@ title: Class IfcRelProjectsElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelProjectsElement class. IfcRelProjectsElement
 type: docs
-weight: 27270
+weight: 27260
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelprojectselement/
 ---
 ## IfcRelProjectsElement class

@@ -3,7 +3,7 @@ title: SparseWeight8.Expand
 second_title: Aspose.CAD for .NET API Reference
 description: SparseWeight8 method. 
 type: docs
-weight: 330
+weight: 230
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/expand/
 ---
 ## SparseWeight8.Expand method

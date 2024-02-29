@@ -3,7 +3,7 @@ title: GlbData.UseImage
 second_title: Aspose.CAD for .NET API Reference
 description: GlbData method. Creates or reuses a Image instance
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.cad.fileformats.glb/glbdata/useimage/
 ---
 ## GlbData.UseImage method

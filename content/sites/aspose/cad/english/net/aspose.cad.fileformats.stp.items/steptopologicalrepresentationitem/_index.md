@@ -3,7 +3,7 @@ title: Class StepTopologicalRepresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTopologicalRepresentationItem class. TopologicalRepresentationItem class
 type: docs
-weight: 34860
+weight: 34850
 url: /net/aspose.cad.fileformats.stp.items/steptopologicalrepresentationitem/
 ---
 ## StepTopologicalRepresentationItem class

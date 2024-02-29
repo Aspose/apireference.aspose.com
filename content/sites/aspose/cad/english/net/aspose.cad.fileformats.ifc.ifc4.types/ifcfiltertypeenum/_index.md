@@ -3,7 +3,7 @@ title: Enum IfcFilterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFilterTypeEnum enum. IfcFilterTypeEnum
 type: docs
-weight: 30850
+weight: 30840
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfiltertypeenum/
 ---
 ## IfcFilterTypeEnum enumeration

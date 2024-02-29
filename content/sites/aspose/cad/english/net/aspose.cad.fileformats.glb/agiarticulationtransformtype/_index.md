@@ -3,7 +3,7 @@ title: Enum AgiArticulationTransformType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AgiArticulationTransformType enum. The type of motion applied by this articulation stage
 type: docs
-weight: 10060
+weight: 10160
 url: /net/aspose.cad.fileformats.glb/agiarticulationtransformtype/
 ---
 ## AgiArticulationTransformType enumeration

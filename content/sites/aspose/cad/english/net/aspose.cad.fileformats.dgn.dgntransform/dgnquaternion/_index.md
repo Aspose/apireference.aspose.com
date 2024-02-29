@@ -3,7 +3,7 @@ title: Class DgnQuaternion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnTransform.DgnQuaternion class. DgnQuaternion class
 type: docs
-weight: 9070
+weight: 9170
 url: /net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/
 ---
 ## DgnQuaternion class

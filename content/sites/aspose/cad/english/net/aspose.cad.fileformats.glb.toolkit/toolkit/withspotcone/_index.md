@@ -3,7 +3,7 @@ title: Toolkit.WithSpotCone
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Sets the cone angles for the Spot light
 type: docs
-weight: 570
+weight: 490
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withspotcone/
 ---
 ## Toolkit.WithSpotCone method

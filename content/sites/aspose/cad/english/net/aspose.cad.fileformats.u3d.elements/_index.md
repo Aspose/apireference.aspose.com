@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.U3d.Elements
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of U3D elements
 type: docs
-weight: 1230
+weight: 1240
 url: /net/aspose.cad.fileformats.u3d.elements/
 ---
 The namespace contains entities of U3D elements.

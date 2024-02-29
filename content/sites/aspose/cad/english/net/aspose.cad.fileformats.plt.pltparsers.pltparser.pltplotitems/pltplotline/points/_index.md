@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotli
 Gets the points.
 
 ```csharp
-public List<#=zvRAjW4tlxtb0gaBxk8sIsMo=> Points { get; }
+public List<#=zVbBoJb4EmGKD$dRSObWJ218=> Points { get; }
 ```
 
 ### Property Value

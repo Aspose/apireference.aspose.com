@@ -3,7 +3,7 @@ title: Enum IfcMechanicalFastenerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMechanicalFastenerTypeEnum enum. IfcMechanicalFastenerTypeEnum
 type: docs
-weight: 31530
+weight: 31520
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmechanicalfastenertypeenum/
 ---
 ## IfcMechanicalFastenerTypeEnum enumeration

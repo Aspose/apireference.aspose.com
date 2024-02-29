@@ -3,7 +3,7 @@ title: Class CadSection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSection class. Class describing CadSection
 type: docs
-weight: 3140
+weight: 3230
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/
 ---
 ## CadSection class

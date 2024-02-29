@@ -3,7 +3,7 @@ title: Class ArmatureInstance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.ArmatureInstance class. Represents the transform states of a collection of bones
 type: docs
-weight: 11230
+weight: 11180
 url: /net/aspose.cad.fileformats.glb.runtime/armatureinstance/
 ---
 ## ArmatureInstance class
@@ -26,12 +26,10 @@ public class ArmatureInstance
 
 | Name | Description |
 | --- | --- |
-| [SetAnimationFrame](../../aspose.cad.fileformats.glb.runtime/armatureinstance/setanimationframe/#setanimationframe_1)(params (int TrackIdx, float Time, float Weight)[]) |  |
-| [SetAnimationFrame](../../aspose.cad.fileformats.glb.runtime/armatureinstance/setanimationframe/#setanimationframe)(int, float, bool) | Sets the bone transforms from an animation frame. |
+| [SetAnimationFrame](../../aspose.cad.fileformats.glb.runtime/armatureinstance/setanimationframe/)(int, float, bool) | Sets the bone transforms from an animation frame. |
 | [SetLocalMatrix](../../aspose.cad.fileformats.glb.runtime/armatureinstance/setlocalmatrix/)(string, Matrix4x4) | Sets the matrix of a bone. |
 | [SetModelMatrix](../../aspose.cad.fileformats.glb.runtime/armatureinstance/setmodelmatrix/)(string, Matrix4x4) | Sets the matrix of a bone. |
 | [SetPoseTransforms](../../aspose.cad.fileformats.glb.runtime/armatureinstance/setposetransforms/)() | Resets the bone transforms to their default positions. |
-| static [SetAnimationFrame](../../aspose.cad.fileformats.glb.runtime/armatureinstance/setanimationframe/)(IEnumerable&lt;NodeInstance&gt;, params (int TrackIdx, float Time, float Weight)[]) |  |
 
 ### See Also
 

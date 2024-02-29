@@ -3,7 +3,7 @@ title: Class IfcRepresentationMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRepresentationMap class. Partial IIfc entity class
 type: docs
-weight: 27400
+weight: 27390
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/
 ---
 ## IfcRepresentationMap class

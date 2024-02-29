@@ -3,7 +3,7 @@ title: Class ColorDataUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stl.StlObjects.ColorDataUnit class. Customize the color of the surface
 type: docs
-weight: 34200
+weight: 34190
 url: /net/aspose.cad.fileformats.stl.stlobjects/colordataunit/
 ---
 ## ColorDataUnit class

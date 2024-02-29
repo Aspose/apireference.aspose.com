@@ -3,7 +3,7 @@ title: Class IfcFireSuppressionTerminalType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFireSuppressionTerminalType class. IfcFireSuppressionTerminalType
 type: docs
-weight: 24450
+weight: 24440
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfiresuppressionterminaltype/
 ---
 ## IfcFireSuppressionTerminalType class

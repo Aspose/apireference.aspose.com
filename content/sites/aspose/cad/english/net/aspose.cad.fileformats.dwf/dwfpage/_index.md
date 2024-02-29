@@ -3,7 +3,7 @@ title: Class DwfPage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfPage class. Represents base class for DWF page
 type: docs
-weight: 9130
+weight: 9230
 url: /net/aspose.cad.fileformats.dwf/dwfpage/
 ---
 ## DwfPage class

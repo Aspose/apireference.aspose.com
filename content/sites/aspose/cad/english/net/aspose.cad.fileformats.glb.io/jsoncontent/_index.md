@@ -3,7 +3,7 @@ title: Struct JsonContent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IO.JsonContent struct. Represents an immutable json object stored in memory
 type: docs
-weight: 10760
+weight: 10710
 url: /net/aspose.cad.fileformats.glb.io/jsoncontent/
 ---
 ## JsonContent structure

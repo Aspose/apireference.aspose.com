@@ -3,7 +3,7 @@ title: Class NonUniformRationalBSpline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.NonUniformRationalBSpline class. Class4 ElementId25
 type: docs
-weight: 6200
+weight: 6300
 url: /net/aspose.cad.fileformats.cgm.commands/nonuniformrationalbspline/
 ---
 ## NonUniformRationalBSpline class

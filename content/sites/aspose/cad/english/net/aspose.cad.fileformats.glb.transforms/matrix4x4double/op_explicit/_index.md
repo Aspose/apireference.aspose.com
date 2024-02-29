@@ -3,7 +3,7 @@ title: Matrix4x4Double.op_Explicit
 second_title: Aspose.CAD for .NET API Reference
 description: Matrix4x4Double method. Converts a Matrix4x4Double to a Matrix4x4
 type: docs
-weight: 280
+weight: 270
 url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4double/op_explicit/
 ---
 ## Matrix4x4Double Explicit operator

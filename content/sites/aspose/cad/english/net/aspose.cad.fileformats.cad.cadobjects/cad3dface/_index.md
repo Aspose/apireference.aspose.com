@@ -3,7 +3,7 @@ title: Class Cad3DFace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Cad3DFace class. Class that describes 3DFACE entity
 type: docs
-weight: 2050
+weight: 2140
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dface/
 ---
 ## Cad3DFace class

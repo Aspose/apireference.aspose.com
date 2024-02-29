@@ -3,7 +3,7 @@ title: Class ColourCalibration
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourCalibration class. Class1 Element20
 type: docs
-weight: 5120
+weight: 5220
 url: /net/aspose.cad.fileformats.cgm.commands/colourcalibration/
 ---
 ## ColourCalibration class

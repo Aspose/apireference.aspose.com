@@ -3,7 +3,7 @@ title: Class CadClassEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadClassEntity class. The Cad class entity
 type: docs
-weight: 2440
+weight: 2530
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/
 ---
 ## CadClassEntity class

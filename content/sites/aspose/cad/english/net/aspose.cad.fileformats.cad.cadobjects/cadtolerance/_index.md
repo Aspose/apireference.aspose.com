@@ -3,7 +3,7 @@ title: Class CadTolerance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadTolerance class. The Cad tolerance
 type: docs
-weight: 3320
+weight: 3410
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtolerance/
 ---
 ## CadTolerance class

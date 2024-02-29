@@ -3,7 +3,7 @@ title: SceneBuilder.ApplyBasisTransform
 second_title: Aspose.CAD for .NET API Reference
 description: SceneBuilder method. Applies a tranform the this SceneBuilder
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/applybasistransform/
 ---
 ## SceneBuilder.ApplyBasisTransform method

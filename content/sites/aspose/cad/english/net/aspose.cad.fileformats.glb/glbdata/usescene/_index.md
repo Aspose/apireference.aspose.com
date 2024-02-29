@@ -1,14 +1,14 @@
 ---
 title: GlbData.UseScene
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a Scene instance at GlbImage.LogicalScenes
+description: GlbData method. Creates or reuses a Scene instance at LogicalScenes
 type: docs
-weight: 510
+weight: 520
 url: /net/aspose.cad.fileformats.glb/glbdata/usescene/
 ---
 ## UseScene(int) {#usescene}
 
-Creates or reuses a [`Scene`](../../scene/) instance at !:GlbImage.LogicalScenes.
+Creates or reuses a [`Scene`](../../scene/) instance at [`LogicalScenes`](../logicalscenes/).
 
 ```csharp
 public Scene UseScene(int index)
@@ -16,7 +16,7 @@ public Scene UseScene(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | Int32 | The zero-based index of the [`Scene`](../../scene/) in !:GlbImage.LogicalScenes. |
+| index | Int32 | The zero-based index of the [`Scene`](../../scene/) in [`LogicalScenes`](../logicalscenes/). |
 
 ### Return Value
 
@@ -33,7 +33,7 @@ A [`Scene`](../../scene/) instance.
 
 ## UseScene(string) {#usescene_1}
 
-Creates or reuses a [`Scene`](../../scene/) instance that has the same *name* at !:GlbImage.LogicalScenes.
+Creates or reuses a [`Scene`](../../scene/) instance that has the same *name* at [`LogicalScenes`](../logicalscenes/).
 
 ```csharp
 public Scene UseScene(string name)

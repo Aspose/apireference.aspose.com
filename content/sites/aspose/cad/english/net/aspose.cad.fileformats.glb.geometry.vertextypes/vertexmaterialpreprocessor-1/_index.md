@@ -3,7 +3,7 @@ title: Delegate VertexMaterialPreprocessorTvM
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10630
+weight: 10590
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexmaterialpreprocessor-1/
 ---
 ## VertexMaterialPreprocessor&lt;TvM&gt; delegate

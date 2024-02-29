@@ -3,7 +3,7 @@ title: Class CadHeader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadHeader class. Class describing Cad header
 type: docs
-weight: 2680
+weight: 2770
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader/
 ---
 ## CadHeader class
@@ -29,7 +29,7 @@ public class CadHeader
 | [CustomProperties](../../aspose.cad.fileformats.cad.cadobjects/cadheader/customproperties/) { get; } | Gets the custom properties. |
 | [HeaderProperties](../../aspose.cad.fileformats.cad.cadobjects/cadheader/headerproperties/) { get; } | Gets or sets the header properties. |
 | [PropertiesSummaryInfoWrapper](../../aspose.cad.fileformats.cad.cadobjects/cadheader/propertiessummaryinfowrapper/) { get; } | Gets the summary information wrapper for [`HeaderProperties`](./headerproperties/). |
-| [SummaryInfo](../../aspose.cad.fileformats.cad.cadobjects/cadheader/summaryinfo/) { get; set; } | Gets the (DWG) summary information. |
+| [SummaryInfo](../../aspose.cad.fileformats.cad.cadobjects/cadheader/summaryinfo/) { get; } | Gets the (DWG) summary information. |
 
 ### See Also
 

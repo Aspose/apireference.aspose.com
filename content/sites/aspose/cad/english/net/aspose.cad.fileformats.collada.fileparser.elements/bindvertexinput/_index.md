@@ -3,7 +3,7 @@ title: Class BindVertexInput
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.BindVertexInput class. The bind vertex input. The bind_vertex_input element binds vertex inputs to effect parameters upon instantiation
 type: docs
-weight: 7290
+weight: 7390
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/
 ---
 ## BindVertexInput class

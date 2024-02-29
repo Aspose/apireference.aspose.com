@@ -3,7 +3,7 @@ title: Class SvgImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Svg.SvgImage class. SVG image
 type: docs
-weight: 35030
+weight: 35020
 url: /net/aspose.cad.fileformats.svg/svgimage/
 ---
 ## SvgImage class

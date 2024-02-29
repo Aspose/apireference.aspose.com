@@ -3,7 +3,7 @@ title: Struct AffineTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.AffineTransform struct. Represents an affine transform in 3D space with two mutually exclusive representantions
 type: docs
-weight: 11630
+weight: 11540
 url: /net/aspose.cad.fileformats.glb.transforms/affinetransform/
 ---
 ## AffineTransform structure
@@ -62,7 +62,7 @@ public struct AffineTransform : IEquatable<AffineTransform>
 | static [TransformNormal](../../aspose.cad.fileformats.glb.transforms/affinetransform/transformnormal/)(Vector3, ref AffineTransform) | Transforms a vector normal by a specified transform. |
 | static [TryInvert](../../aspose.cad.fileformats.glb.transforms/affinetransform/tryinvert/)(ref AffineTransform, out AffineTransform) | Inverts the specified transform. The return value indicates whether the operation succeeded. |
 | [operator ==](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_equality/) |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_implicit/#op_implicit_2) |  (3 operators) |
+| [implicit operator](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_implicit/#op_implicit) |  (2 operators) |
 | [operator !=](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_inequality/) |  |
 | [operator *](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_multiply/) |  |
 

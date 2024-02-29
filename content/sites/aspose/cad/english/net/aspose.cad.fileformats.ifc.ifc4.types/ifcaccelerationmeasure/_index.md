@@ -3,7 +3,7 @@ title: Class IfcAccelerationMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAccelerationMeasure class. IfcAccelerationMeasure
 type: docs
-weight: 29490
+weight: 29480
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcaccelerationmeasure/
 ---
 ## IfcAccelerationMeasure class

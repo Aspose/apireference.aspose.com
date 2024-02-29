@@ -3,7 +3,7 @@ title: Class CadRotatedDimension
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRotatedDimension class. The Cad rotated dimension
 type: docs
-weight: 3130
+weight: 3220
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/
 ---
 ## CadRotatedDimension class

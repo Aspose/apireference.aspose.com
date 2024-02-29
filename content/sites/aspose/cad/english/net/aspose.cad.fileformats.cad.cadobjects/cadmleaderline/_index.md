@@ -3,7 +3,7 @@ title: Class CadMLeaderLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderLine class. Class describing Cad multileader line
 type: docs
-weight: 2840
+weight: 2930
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/
 ---
 ## CadMLeaderLine class

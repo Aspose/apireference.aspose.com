@@ -3,7 +3,7 @@ title: Toolkit.ToSceneBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 200
+weight: 130
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/toscenebuilder/
 ---
 ## Toolkit.ToSceneBuilder method

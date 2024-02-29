@@ -3,7 +3,7 @@ title: Class IfcBooleanClippingResult
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBooleanClippingResult class. IfcBooleanClippingResult
 type: docs
-weight: 22160
+weight: 22150
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/
 ---
 ## IfcBooleanClippingResult class

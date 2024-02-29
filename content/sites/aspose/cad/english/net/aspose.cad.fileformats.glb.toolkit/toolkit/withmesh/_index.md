@@ -3,7 +3,7 @@ title: Toolkit.WithMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 450
+weight: 370
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withmesh/
 ---
 ## Toolkit.WithMesh method

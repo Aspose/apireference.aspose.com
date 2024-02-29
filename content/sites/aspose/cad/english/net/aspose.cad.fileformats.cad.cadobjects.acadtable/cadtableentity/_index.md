@@ -3,7 +3,7 @@ title: Class CadTableEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable.CadTableEntity class. The Cad table
 type: docs
-weight: 1710
+weight: 1730
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/
 ---
 ## CadTableEntity class
@@ -44,6 +44,7 @@ public class CadTableEntity : CadEntityBase
 | [FlagOverrideBorderColor](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverridebordercolor/) { get; set; } | Gets or sets the flag override border color. |
 | [FlagOverrideBorderLineWeight](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverrideborderlineweight/) { get; set; } | Gets or sets the flag override border line weight. |
 | [FlagOverrideBorderVisibility](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverridebordervisibility/) { get; set; } | Gets or sets the flag override border visibility. |
+| [FormattedTableData](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/formattedtabledata/) { get; set; } | The formatted table data |
 | [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
 | [HorizontalCellMargin](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/horizontalcellmargin/) { get; set; } | Gets or sets the horizontal cell margin. |
 | [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/hyperlink/) { get; set; } | Gets or sets a hyperlink to an entity and displays the hyperlink name or description (if one is specified). |
@@ -59,6 +60,9 @@ public class CadTableEntity : CadEntityBase
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
+| [LinkedDataDescription](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/linkeddatadescription/) { get; set; } | The linked data description |
+| [LinkedDataName](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/linkeddataname/) { get; set; } | The linked data name |
+| [LinkedTableData](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/linkedtabledata/) { get; set; } | The linked table data |
 | [LType](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/) { get; set; } | Gets or sets a value the current linetype of the entity. |
 | [Material](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/) { get; set; } | Gets or sets the material. |
 | [NumberOfColumns](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/numberofcolumns/) { get; set; } | Gets or sets the number of columns. |

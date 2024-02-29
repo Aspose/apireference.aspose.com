@@ -3,7 +3,7 @@ title: Class DwfImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfImage class. DWF image class. Provides reading of DWF/DWFX format files their processing and their export to other formats
 type: docs
-weight: 9090
+weight: 9190
 url: /net/aspose.cad.fileformats.dwf/dwfimage/
 ---
 ## DwfImage class

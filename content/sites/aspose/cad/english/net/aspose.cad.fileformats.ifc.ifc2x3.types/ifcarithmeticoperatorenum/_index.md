@@ -3,7 +3,7 @@ title: Enum IfcArithmeticOperatorEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcArithmeticOperatorEnum enum. IfcArithmeticOperatorEnum
 type: docs
-weight: 18630
+weight: 18620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcarithmeticoperatorenum/
 ---
 ## IfcArithmeticOperatorEnum enumeration

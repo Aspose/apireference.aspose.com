@@ -3,7 +3,7 @@ title: Class CadMLeaderNode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderNode class. Class describing Cad multileader node
 type: docs
-weight: 2850
+weight: 2940
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/
 ---
 ## CadMLeaderNode class

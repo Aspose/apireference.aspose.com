@@ -3,7 +3,7 @@ title: Class InteriorStyleSpecificationMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.InteriorStyleSpecificationMode class. 
 type: docs
-weight: 5840
+weight: 5940
 url: /net/aspose.cad.fileformats.cgm.commands/interiorstylespecificationmode/
 ---
 ## InteriorStyleSpecificationMode class

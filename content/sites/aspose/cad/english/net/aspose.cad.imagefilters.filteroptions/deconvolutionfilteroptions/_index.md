@@ -3,7 +3,7 @@ title: Class DeconvolutionFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageFilters.FilterOptions.DeconvolutionFilterOptions class. Deconvolution Filter Options abstract class
 type: docs
-weight: 35970
+weight: 35960
 url: /net/aspose.cad.imagefilters.filteroptions/deconvolutionfilteroptions/
 ---
 ## DeconvolutionFilterOptions class

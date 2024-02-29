@@ -3,7 +3,7 @@ title: Class IfcComplexProperty
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcComplexProperty class. IfcComplexProperty
 type: docs
-weight: 22800
+weight: 22790
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccomplexproperty/
 ---
 ## IfcComplexProperty class

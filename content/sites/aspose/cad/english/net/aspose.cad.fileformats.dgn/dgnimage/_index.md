@@ -3,7 +3,7 @@ title: Class DgnImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnImage class. Dgn image class
 type: docs
-weight: 8990
+weight: 9090
 url: /net/aspose.cad.fileformats.dgn/dgnimage/
 ---
 ## DgnImage class

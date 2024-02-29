@@ -3,7 +3,7 @@ title: SkinnedTransformer.GetWorldTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: SkinnedTransformer method. 
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.cad.fileformats.glb.scenes/skinnedtransformer/getworldtransformer/
 ---
 ## SkinnedTransformer.GetWorldTransformer method

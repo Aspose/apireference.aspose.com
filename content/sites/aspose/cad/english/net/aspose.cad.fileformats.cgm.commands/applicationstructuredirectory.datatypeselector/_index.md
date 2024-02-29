@@ -3,7 +3,7 @@ title: Enum ApplicationStructureDirectory.DataTypeSelector
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ApplicationStructureDirectoryDataTypeSelector enum. 
 type: docs
-weight: 4710
+weight: 4810
 url: /net/aspose.cad.fileformats.cgm.commands/applicationstructuredirectory.datatypeselector/
 ---
 ## ApplicationStructureDirectory.DataTypeSelector enumeration

@@ -3,7 +3,7 @@ title: Enum VdcType.Type
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.VdcTypeType enum. 
 type: docs
-weight: 6840
+weight: 6940
 url: /net/aspose.cad.fileformats.cgm.commands/vdctype.type/
 ---
 ## VdcType.Type enumeration

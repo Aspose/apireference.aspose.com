@@ -3,7 +3,7 @@ title: SparseWeight8.op_Inequality
 second_title: Aspose.CAD for .NET API Reference
 description: SparseWeight8 method. 
 type: docs
-weight: 400
+weight: 290
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/op_inequality/
 ---
 ## SparseWeight8 Inequality operator

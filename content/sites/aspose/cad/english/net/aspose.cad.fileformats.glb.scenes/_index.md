@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Scenes
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB scenes
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.cad.fileformats.glb.scenes/
 ---
 The namespace contains entities of GLB scenes.

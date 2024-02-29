@@ -3,7 +3,7 @@ title: Class Wires
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Wires class. The wires. Wires are a combination of one or more edges. A closed wire can limit a face
 type: docs
-weight: 8560
+weight: 8660
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/wires/
 ---
 ## Wires class

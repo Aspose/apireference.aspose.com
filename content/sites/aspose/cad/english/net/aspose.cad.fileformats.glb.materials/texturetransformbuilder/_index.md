@@ -3,7 +3,7 @@ title: Class TextureTransformBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.TextureTransformBuilder class. 
 type: docs
-weight: 10950
+weight: 10900
 url: /net/aspose.cad.fileformats.glb.materials/texturetransformbuilder/
 ---
 ## TextureTransformBuilder class

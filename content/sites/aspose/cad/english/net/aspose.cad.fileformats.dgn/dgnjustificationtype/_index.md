@@ -3,7 +3,7 @@ title: Enum DgnJustificationType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnJustificationType enum. Justification type
 type: docs
-weight: 9000
+weight: 9100
 url: /net/aspose.cad.fileformats.dgn/dgnjustificationtype/
 ---
 ## DgnJustificationType enumeration

@@ -3,7 +3,7 @@ title: Class IfcConstructionResource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConstructionResource class. IfcConstructionResource
 type: docs
-weight: 23050
+weight: 23040
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource/
 ---
 ## IfcConstructionResource class

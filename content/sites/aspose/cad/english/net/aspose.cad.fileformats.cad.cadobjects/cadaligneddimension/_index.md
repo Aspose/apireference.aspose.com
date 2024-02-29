@@ -3,7 +3,7 @@ title: Class CadAlignedDimension
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAlignedDimension class. The Cad aligned dimension
 type: docs
-weight: 2270
+weight: 2360
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/
 ---
 ## CadAlignedDimension class

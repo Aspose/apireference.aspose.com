@@ -3,7 +3,7 @@ title: Toolkit.WithDefault
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Initializes this Material instance with default material attributes
 type: docs
-weight: 320
+weight: 240
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withdefault/
 ---
 ## WithDefault(this Material) {#withdefault}

@@ -3,7 +3,7 @@ title: Class IfcDraughtingPreDefinedColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDraughtingPreDefinedColour class. IfcDraughtingPreDefinedColour
 type: docs
-weight: 13670
+weight: 13660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingpredefinedcolour/
 ---
 ## IfcDraughtingPreDefinedColour class

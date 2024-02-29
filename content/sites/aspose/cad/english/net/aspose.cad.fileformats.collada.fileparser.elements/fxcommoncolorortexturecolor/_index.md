@@ -3,7 +3,7 @@ title: Class FxCommonColorOrTextureColor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonColorOrTextureColor class. The FX common color or texture color. Contains four floatingpoint values describing the RGBA color
 type: docs
-weight: 7670
+weight: 7770
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/
 ---
 ## FxCommonColorOrTextureColor class

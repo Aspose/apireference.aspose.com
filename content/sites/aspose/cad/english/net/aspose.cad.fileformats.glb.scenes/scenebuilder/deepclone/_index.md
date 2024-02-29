@@ -3,7 +3,7 @@ title: SceneBuilder.DeepClone
 second_title: Aspose.CAD for .NET API Reference
 description: SceneBuilder method. 
 type: docs
-weight: 130
+weight: 110
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/deepclone/
 ---
 ## SceneBuilder.DeepClone method

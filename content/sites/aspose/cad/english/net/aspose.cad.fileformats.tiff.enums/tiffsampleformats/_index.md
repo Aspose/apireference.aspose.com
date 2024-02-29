@@ -3,7 +3,7 @@ title: Enum TiffSampleFormats
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Sample format enum
 type: docs
-weight: 35270
+weight: 35260
 url: /net/aspose.cad.fileformats.tiff.enums/tiffsampleformats/
 ---
 ## TiffSampleFormats enumeration

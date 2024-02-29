@@ -3,7 +3,7 @@ title: Class CadAcadEvaluationGraph
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcadEvaluationGraph class. Class describing ACAD_EVALUATION_GRAPH object
 type: docs
-weight: 2120
+weight: 2210
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/
 ---
 ## CadAcadEvaluationGraph class

@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.geometry/icadgeometrytext/position/
 Gets or sets the position.
 
 ```csharp
-public #=zHKc4Q8IaTVg4hRJuvPUBD_A= Position { get; set; }
+public #=zr_40Yw4jyGqldwTk_HccHYs= Position { get; set; }
 ```
 
 ### Property Value

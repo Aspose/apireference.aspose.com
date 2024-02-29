@@ -3,7 +3,7 @@ title: Class MeshPrimitive
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.MeshPrimitive class. Geometry to be rendered with the given material
 type: docs
-weight: 11130
+weight: 11080
 url: /net/aspose.cad.fileformats.glb/meshprimitive/
 ---
 ## MeshPrimitive class
@@ -36,10 +36,8 @@ public sealed class MeshPrimitive : ExtraProperties, IChildOf<Mesh>
 | [GetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/getextension/)() |  |
 | [GetIndexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/getindexaccessor/)() |  |
 | [GetIndices](../../aspose.cad.fileformats.glb/meshprimitive/getindices/)() | Gets the raw list of indices of this primitive. |
-| [GetLineIndices](../../aspose.cad.fileformats.glb/meshprimitive/getlineindices/)() | Decodes the raw indices and returns a list of indexed lines. |
 | [GetMorphTargetAccessors](../../aspose.cad.fileformats.glb/meshprimitive/getmorphtargetaccessors/)(int) |  |
 | [GetPointIndices](../../aspose.cad.fileformats.glb/meshprimitive/getpointindices/)() | Decodes the raw indices and returns a list of indexed points. |
-| [GetTriangleIndices](../../aspose.cad.fileformats.glb/meshprimitive/gettriangleindices/)() | Decodes the raw indices and returns a list of indexed triangles. |
 | [GetVertexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/getvertexaccessor/)(string) |  |
 | [GetVertexAccessorsByBuffer](../../aspose.cad.fileformats.glb/meshprimitive/getvertexaccessorsbybuffer/)(BufferView) |  |
 | [GetVertices](../../aspose.cad.fileformats.glb/meshprimitive/getvertices/)(string) |  |

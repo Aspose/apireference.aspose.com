@@ -3,7 +3,7 @@ title: Toolkit.WithVertexAccessor
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 600
+weight: 520
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withvertexaccessor/
 ---
 ## WithVertexAccessor(this MeshPrimitive, string, IReadOnlyList&lt;float&gt;) {#withvertexaccessor_4}

@@ -3,7 +3,7 @@ title: Toolkit.WithPBRSpecularGlossiness
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Initializes this Material instance with PBR Specular Glossiness attributes
 type: docs
-weight: 500
+weight: 420
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withpbrspecularglossiness/
 ---
 ## Toolkit.WithPBRSpecularGlossiness method

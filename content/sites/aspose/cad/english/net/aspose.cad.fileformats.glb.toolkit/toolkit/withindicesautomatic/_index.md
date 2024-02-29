@@ -3,7 +3,7 @@ title: Toolkit.WithIndicesAutomatic
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 350
+weight: 270
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withindicesautomatic/
 ---
 ## Toolkit.WithIndicesAutomatic method

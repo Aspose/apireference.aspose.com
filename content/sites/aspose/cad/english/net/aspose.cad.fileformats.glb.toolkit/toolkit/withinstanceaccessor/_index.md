@@ -3,7 +3,7 @@ title: Toolkit.WithInstanceAccessor
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 360
+weight: 280
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withinstanceaccessor/
 ---
 ## Toolkit.WithInstanceAccessor&lt;T&gt; method

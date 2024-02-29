@@ -3,7 +3,7 @@ title: Class Camera
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Camera class. A cameras projection. A node MAY reference a camera to apply a transform to place the camera in the scene
 type: docs
-weight: 10200
+weight: 10300
 url: /net/aspose.cad.fileformats.glb/camera/
 ---
 ## Camera class
@@ -20,8 +20,8 @@ public sealed class Camera : LogicalChildOfRoot
 | --- | --- |
 | [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
 | [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../glbimage/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbImage`](../glbimage/) instance that owns this object. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
 | [Matrix](../../aspose.cad.fileformats.glb/camera/matrix/) { get; } | Gets the projection matrix for the current [`Settings`](./settings/) |
 | [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
 | [Settings](../../aspose.cad.fileformats.glb/camera/settings/) { get; } |  |

@@ -3,7 +3,7 @@ title: CadTableContent.TableContentParameters
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableContent property. Gets or sets the table content parameters
 type: docs
-weight: 50
+weight: 90
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/tablecontentparameters/
 ---
 ## CadTableContent.TableContentParameters property

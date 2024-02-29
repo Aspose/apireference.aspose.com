@@ -1,14 +1,14 @@
 ---
 title: GlbData.CreateCamera
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Camera instance. and appends it to GlbImage.LogicalCameras
+description: GlbData method. Creates a new Camera instance. and appends it to LogicalCameras
 type: docs
 weight: 310
 url: /net/aspose.cad.fileformats.glb/glbdata/createcamera/
 ---
 ## GlbData.CreateCamera method
 
-Creates a new [`Camera`](../../camera/) instance. and appends it to !:GlbImage.LogicalCameras.
+Creates a new [`Camera`](../../camera/) instance. and appends it to [`LogicalCameras`](../logicalcameras/).
 
 ```csharp
 public Camera CreateCamera(string name = null)

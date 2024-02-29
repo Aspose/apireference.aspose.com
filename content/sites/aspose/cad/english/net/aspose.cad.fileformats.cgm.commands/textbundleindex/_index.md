@@ -3,7 +3,7 @@ title: Class TextBundleIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextBundleIndex class. Class5 ElementId9
 type: docs
-weight: 6640
+weight: 6740
 url: /net/aspose.cad.fileformats.cgm.commands/textbundleindex/
 ---
 ## TextBundleIndex class

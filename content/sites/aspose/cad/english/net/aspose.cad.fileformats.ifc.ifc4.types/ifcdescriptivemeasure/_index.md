@@ -3,7 +3,7 @@ title: Class IfcDescriptiveMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDescriptiveMeasure class. IfcDescriptiveMeasure
 type: docs
-weight: 30390
+weight: 30380
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdescriptivemeasure/
 ---
 ## IfcDescriptiveMeasure class

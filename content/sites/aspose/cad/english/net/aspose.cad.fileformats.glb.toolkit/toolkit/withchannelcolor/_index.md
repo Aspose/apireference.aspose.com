@@ -3,7 +3,7 @@ title: Toolkit.WithChannelColor
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 270
+weight: 190
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withchannelcolor/
 ---
 ## Toolkit.WithChannelColor method

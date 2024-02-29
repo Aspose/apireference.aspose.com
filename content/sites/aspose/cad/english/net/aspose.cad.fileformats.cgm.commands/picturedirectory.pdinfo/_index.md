@@ -3,7 +3,7 @@ title: Class PictureDirectory.PDInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PictureDirectoryPDInfo class. 
 type: docs
-weight: 6270
+weight: 6370
 url: /net/aspose.cad.fileformats.cgm.commands/picturedirectory.pdinfo/
 ---
 ## PictureDirectory.PDInfo class

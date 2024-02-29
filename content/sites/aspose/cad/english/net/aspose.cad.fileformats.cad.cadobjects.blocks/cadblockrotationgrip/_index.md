@@ -3,7 +3,7 @@ title: Class CadBlockRotationGrip
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockRotationGrip class. Class describing CadBlockRotationGrip object
 type: docs
-weight: 1950
+weight: 2040
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotationgrip/
 ---
 ## CadBlockRotationGrip class

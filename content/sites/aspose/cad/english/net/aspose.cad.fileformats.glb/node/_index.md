@@ -3,7 +3,7 @@ title: Class Node
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Node class. A node in the node hierarchy. When the node contains skin all mesh.primitives MUST contain JOINTS_0 and WEIGHTS_0 attributes. A node MAY have either a matrix or any combination of translation/rotation/scale TRS properties. TRS properties are converted to matrices and postmultiplied in the T  R  S order to compose the transformation matrix first the scale is applied to the vertices then the rotation and then the translation. If none are provided the transform is the identity. When a node is targeted for animation referenced by an animation.channel.target matrix MUST NOT be present
 type: docs
-weight: 11140
+weight: 11090
 url: /net/aspose.cad.fileformats.glb/node/
 ---
 ## Node class
@@ -26,8 +26,8 @@ public sealed class Node : LogicalChildOfRoot, IVisualNodeContainer
 | [IsTransformAnimated](../../aspose.cad.fileformats.glb/node/istransformanimated/) { get; } | Gets a value indicating whether this transform is affected by any animation. |
 | [LocalMatrix](../../aspose.cad.fileformats.glb/node/localmatrix/) { get; set; } | Gets or sets the local transform Matrix4x4 of this `Node`. |
 | [LocalTransform](../../aspose.cad.fileformats.glb/node/localtransform/) { get; set; } | Gets or sets the local Scale, Rotation and Translation of this `Node`. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../glbimage/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbImage`](../glbimage/) instance that owns this object. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
 | [Mesh](../../aspose.cad.fileformats.glb/node/mesh/) { get; set; } | Gets or sets the [`Mesh`](../mesh/) of this `Node`. |
 | [MorphWeights](../../aspose.cad.fileformats.glb/node/morphweights/) { get; } | Gets the Morph Weights of this `Node`. |
 | [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
@@ -43,7 +43,7 @@ public sealed class Node : LogicalChildOfRoot, IVisualNodeContainer
 
 | Name | Description |
 | --- | --- |
-| [CreateNode](../../aspose.cad.fileformats.glb/node/createnode/)(string) | Creates a new `Node` instance, adds it to !:GlbImage.LogicalNodes and references it as a child in the current graph. |
+| [CreateNode](../../aspose.cad.fileformats.glb/node/createnode/)(string) | Creates a new `Node` instance, adds it to [`LogicalNodes`](../glbdata/logicalnodes/) and references it as a child in the current graph. |
 | [GetCurveSamplers](../../aspose.cad.fileformats.glb/node/getcurvesamplers/)(Animation) |  |
 | [GetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/getextension/)() |  |
 | [GetGpuInstancing](../../aspose.cad.fileformats.glb/node/getgpuinstancing/)() |  |

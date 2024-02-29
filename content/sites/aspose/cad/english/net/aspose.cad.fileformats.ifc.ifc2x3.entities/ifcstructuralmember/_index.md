@@ -3,7 +3,7 @@ title: Class IfcStructuralMember
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralMember class. IfcStructuralMember
 type: docs
-weight: 17460
+weight: 17450
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralmember/
 ---
 ## IfcStructuralMember class

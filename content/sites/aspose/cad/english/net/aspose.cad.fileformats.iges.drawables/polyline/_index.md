@@ -3,7 +3,7 @@ title: Class Polyline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.Polyline class. Provides intermediate Drawable representation in form of segmented line
 type: docs
-weight: 33660
+weight: 33650
 url: /net/aspose.cad.fileformats.iges.drawables/polyline/
 ---
 ## Polyline class

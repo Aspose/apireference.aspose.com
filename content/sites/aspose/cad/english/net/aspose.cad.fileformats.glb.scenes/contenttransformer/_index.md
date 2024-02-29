@@ -3,7 +3,7 @@ title: Class ContentTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.ContentTransformer class. Represents the transform of a Content. Applies a transform to the underlaying content object usually a Mesh a Camera or a light
 type: docs
-weight: 11370
+weight: 11290
 url: /net/aspose.cad.fileformats.glb.scenes/contenttransformer/
 ---
 ## ContentTransformer class
@@ -30,7 +30,6 @@ public abstract class ContentTransformer
 | abstract [DeepClone](../../aspose.cad.fileformats.glb.scenes/contenttransformer/deepclone/)(DeepCloneContext) |  |
 | abstract [GetArmatureRoot](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getarmatureroot/)() | If this `ContentTransformer` uses a [`NodeBuilder`](../nodebuilder/) armature, it returns the root of the armature. |
 | [GetCameraAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getcameraasset/)() | It this `ContentTransformer` contains a [`CameraBuilder`](../camerabuilder/) |
-| [GetGeometryAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getgeometryasset/)() | If this `ContentTransformer` contains a [`IMeshBuilder`](../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/). |
 | [GetLightAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getlightasset/)() | It this `ContentTransformer` contains a [`LightBuilder`](../lightbuilder/) |
 | abstract [GetPoseWorldMatrix](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getposeworldmatrix/)() |  |
 | [UseMorphing](../../aspose.cad.fileformats.glb.scenes/contenttransformer/usemorphing/#usemorphing)() |  |

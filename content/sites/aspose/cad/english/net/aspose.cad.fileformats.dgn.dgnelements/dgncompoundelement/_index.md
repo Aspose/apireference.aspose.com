@@ -3,7 +3,7 @@ title: Class DgnCompoundElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnCompoundElement class. Represents compound element
 type: docs
-weight: 8680
+weight: 8780
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/
 ---
 ## DgnCompoundElement class

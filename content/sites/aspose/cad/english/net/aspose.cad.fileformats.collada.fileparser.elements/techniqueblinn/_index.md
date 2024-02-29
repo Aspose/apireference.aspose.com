@@ -3,7 +3,7 @@ title: Class TechniqueBlinn
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TechniqueBlinn class. The technique BLINN. Produces a shaded surface with a BLINN BRDF approximation
 type: docs
-weight: 8410
+weight: 8510
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueblinn/
 ---
 ## TechniqueBlinn class

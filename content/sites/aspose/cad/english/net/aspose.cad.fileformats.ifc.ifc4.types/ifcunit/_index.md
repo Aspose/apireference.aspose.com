@@ -3,7 +3,7 @@ title: Class IfcUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcUnit class. IfcUnit
 type: docs
-weight: 33200
+weight: 33190
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcunit/
 ---
 ## IfcUnit class

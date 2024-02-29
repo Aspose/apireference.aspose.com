@@ -3,7 +3,7 @@ title: SparseWeight8.Equals
 second_title: Aspose.CAD for .NET API Reference
 description: SparseWeight8 method. 
 type: docs
-weight: 320
+weight: 220
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/equals/
 ---
 ## Equals(object) {#equals_1}

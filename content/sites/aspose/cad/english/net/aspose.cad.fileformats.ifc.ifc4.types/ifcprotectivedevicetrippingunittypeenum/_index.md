@@ -3,7 +3,7 @@ title: Enum IfcProtectiveDeviceTrippingUnitTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcProtectiveDeviceTrippingUnitTypeEnum enum. IfcProtectiveDeviceTrippingUnitTypeEnum
 type: docs
-weight: 32140
+weight: 32130
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcprotectivedevicetrippingunittypeenum/
 ---
 ## IfcProtectiveDeviceTrippingUnitTypeEnum enumeration

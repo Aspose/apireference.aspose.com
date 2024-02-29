@@ -3,7 +3,7 @@ title: Struct ValueLocation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.ValueLocation struct. 
 type: docs
-weight: 11850
+weight: 11760
 url: /net/aspose.cad.fileformats.glb.validation/valuelocation/
 ---
 ## ValueLocation structure
@@ -12,12 +12,18 @@ url: /net/aspose.cad.fileformats.glb.validation/valuelocation/
 public struct ValueLocation
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [ValueLocation](valuelocation/)(ValueLocation, int) |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | override [ToString](../../aspose.cad.fileformats.glb.validation/valuelocation/tostring/)() |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.validation/valuelocation/op_implicit/#op_implicit) |  (6 operators) |
+| [implicit operator](../../aspose.cad.fileformats.glb.validation/valuelocation/op_implicit/#op_implicit_1) |  (5 operators) |
 
 ### See Also
 

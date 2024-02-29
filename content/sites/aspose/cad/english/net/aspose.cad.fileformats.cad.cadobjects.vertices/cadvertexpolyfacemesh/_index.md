@@ -3,7 +3,7 @@ title: Class CadVertexPolyFaceMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices.CadVertexPolyFaceMesh class. The Cad Vertex Poly Face Mesh
 type: docs
-weight: 4020
+weight: 4110
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexpolyfacemesh/
 ---
 ## CadVertexPolyFaceMesh class

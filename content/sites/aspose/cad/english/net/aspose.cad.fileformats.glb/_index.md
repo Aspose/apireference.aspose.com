@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles GLB files format processing
 type: docs
-weight: 670
+weight: 680
 url: /net/aspose.cad.fileformats.glb/
 ---
 The namespace handles GLB files format processing.
@@ -23,7 +23,9 @@ The namespace handles GLB files format processing.
 | [ExtraProperties](./extraproperties/) | Represents the base class for all glTF 2 Schema objects. |
 | [FileReaderCallback](./filereadercallback/) | Callback used for loading associated files of current model. |
 | [GlbData](./glbdata/) | The root object for a glTF asset. |
-| [GlbImage](./glbimage/) | Represents the base class of a serializable glTF schema2 object. Inherited by [`ExtraProperties`](../aspose.cad.fileformats.glb/extraproperties/). |
+| [GlbImage](./glbimage/) |  |
+| [GltfImage](./gltfimage/) |  |
+| [GltfImageBase](./gltfimagebase/) | Represents the base class of a serializable glTF schema2 object. Inherited by [`ExtraProperties`](../aspose.cad.fileformats.glb/extraproperties/). |
 | [ImageDecodeCallback](./imagedecodecallback/) | Callback used to intercept the loading of textures so they can be decoded by the client engine and uploaded to the GPU if neccesary. |
 | [ImageGlb](./imageglb/) | Image data used to create a texture. Image **MAY** be referenced by an URI (or IRI) or a buffer view index. |
 | [JsonFilterCallback](./jsonfiltercallback/) | Callback used to preprocess and postprocess json before reading and after writing. |
@@ -46,13 +48,21 @@ The namespace handles GLB files format processing.
 
 | Structure | Description |
 | --- | --- |
+| [AttributeFormatTuple](./attributeformattuple/) |  |
 | [MaterialChannel](./materialchannel/) | Represents a material sub-channel, which usually contains a texture. Use [`Channels`](../aspose.cad.fileformats.glb/material/channels/) and [`FindChannel`](../aspose.cad.fileformats.glb/material/findchannel/) to access it. |
 | [NodeCurveSamplers](./nodecurvesamplers/) | Represents an proxy to acccess the animation curves of a [`Node`](../aspose.cad.fileformats.glb/node/). Use [`GetCurveSamplers`](../aspose.cad.fileformats.glb/node/getcurvesamplers/) for access. |
+| [ValueLocationTuple](./valuelocationtuple/) |  |
+| [VertexBuilderTuple&lt;TvG,TvM,TvS&gt;](./vertexbuildertuple-3/) |  |
+| [VertexColor2Texture2Tuple](./vertexcolor2texture2tuple/) |  |
+| [VertexColor2TextureTuple](./vertexcolor2texturetuple/) |  |
+| [VertexColorTexture2Tuple](./vertexcolortexture2tuple/) |  |
+| [VertexColorTextureTuple](./vertexcolortexturetuple/) |  |
+| [VertexGeometryTuple](./vertexgeometrytuple/) |  |
+| [VertexTextureTuple](./vertextexturetuple/) |  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [IAnimationSampler&lt;T&gt;](./ianimationsampler-1/) | Represents an interface to a curve made of time-value points. |
 | [ICamera](./icamera/) | Common interface for CameraOrthographic and CameraPerspective. |
 | [IMaterialParameter](./imaterialparameter/) |  |
 | [IVisualNodeContainer](./ivisualnodecontainer/) | Represents an abstract interface for a visual hierarchy. Implemented by [`Node`](../aspose.cad.fileformats.glb/node/) and [`Scene`](../aspose.cad.fileformats.glb/scene/). |

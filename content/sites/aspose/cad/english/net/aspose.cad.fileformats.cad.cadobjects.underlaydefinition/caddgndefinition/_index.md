@@ -3,7 +3,7 @@ title: Class CadDgnDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition.CadDgnDefinition class. Class describing CadDgnDefinition
 type: docs
-weight: 3920
+weight: 4010
 url: /net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/caddgndefinition/
 ---
 ## CadDgnDefinition class

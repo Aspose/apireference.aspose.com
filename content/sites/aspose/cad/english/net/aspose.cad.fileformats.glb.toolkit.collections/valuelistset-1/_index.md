@@ -3,7 +3,7 @@ title: Class ValueListSetT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ToolKit.Collections.ValueListSet1T class. Represents A specialised list that requires all elements to be unique
 type: docs
-weight: 11590
+weight: 11510
 url: /net/aspose.cad.fileformats.glb.toolkit.collections/valuelistset-1/
 ---
 ## ValueListSet&lt;T&gt; class

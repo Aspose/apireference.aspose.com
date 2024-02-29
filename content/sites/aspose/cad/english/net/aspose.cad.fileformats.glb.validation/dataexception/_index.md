@@ -3,7 +3,7 @@ title: Class DataException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.DataException class. Represents an exception produced by invalid data
 type: docs
-weight: 11770
+weight: 11680
 url: /net/aspose.cad.fileformats.glb.validation/dataexception/
 ---
 ## DataException class

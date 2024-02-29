@@ -3,7 +3,7 @@ title: SkinnedTransformer.GetPoseWorldMatrix
 second_title: Aspose.CAD for .NET API Reference
 description: SkinnedTransformer method. 
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.cad.fileformats.glb.scenes/skinnedtransformer/getposeworldmatrix/
 ---
 ## SkinnedTransformer.GetPoseWorldMatrix method

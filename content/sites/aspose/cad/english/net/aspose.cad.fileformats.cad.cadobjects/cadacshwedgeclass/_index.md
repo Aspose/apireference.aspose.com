@@ -3,7 +3,7 @@ title: Class CadAcshWedgeClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcshWedgeClass class. Class describing CadAcshWedgeClass object
 type: docs
-weight: 2260
+weight: 2350
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshwedgeclass/
 ---
 ## CadAcshWedgeClass class

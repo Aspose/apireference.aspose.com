@@ -3,7 +3,7 @@ title: Class BeginCompoundTextPath
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginCompoundTextPath class. 
 type: docs
-weight: 4820
+weight: 4920
 url: /net/aspose.cad.fileformats.cgm.commands/begincompoundtextpath/
 ---
 ## BeginCompoundTextPath class

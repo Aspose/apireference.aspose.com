@@ -3,7 +3,7 @@ title: Class Margins
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.Margins class. Margins class
 type: docs
-weight: 36260
+weight: 36250
 url: /net/aspose.cad.imageoptions/margins/
 ---
 ## Margins class

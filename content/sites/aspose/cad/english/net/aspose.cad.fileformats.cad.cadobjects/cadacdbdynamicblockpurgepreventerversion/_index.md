@@ -3,7 +3,7 @@ title: Class CadAcDbDynamicBlockPurgePreventerVersion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcDbDynamicBlockPurgePreventerVersion class. Class describing ACDB_DYNAMICBLOCKPURGEPREVENTER_VERSION object
 type: docs
-weight: 2110
+weight: 2200
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdbdynamicblockpurgepreventerversion/
 ---
 ## CadAcDbDynamicBlockPurgePreventerVersion class

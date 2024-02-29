@@ -3,7 +3,7 @@ title: Enum AcDbObjectType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.AcDbObjectType enum. Internal Dwg entity type codes
 type: docs
-weight: 4340
+weight: 4430
 url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/acdbobjecttype/
 ---
 ## AcDbObjectType enumeration
@@ -96,9 +96,10 @@ public enum AcDbObjectType
 | VBA_PROJECT | `81` | The visual basic project |
 | LAYOUT | `82` | The layout |
 | ACAD_TABLE | `83` | The table |
-| CELLSTYLEMAP | `84` | The cell style map |
-| DBCOLOR | `85` | The color |
-| DICTIONARYVAR | `86` | The dictionary entity |
+| TABLECONTENT | `84` | The table content |
+| CELLSTYLEMAP | `85` | The cell style map |
+| DBCOLOR | `86` | The color |
+| DICTIONARYVAR | `87` | The dictionary entity |
 | FIELD | `88` | The field |
 | GROUP_500 | `89` | The group |
 | HATCH_500 | `90` | The hatch |

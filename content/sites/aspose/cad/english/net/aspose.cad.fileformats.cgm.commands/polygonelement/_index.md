@@ -3,7 +3,7 @@ title: Class PolygonElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PolygonElement class. Class4 ElementId7
 type: docs
-weight: 6320
+weight: 6420
 url: /net/aspose.cad.fileformats.cgm.commands/polygonelement/
 ---
 ## PolygonElement class

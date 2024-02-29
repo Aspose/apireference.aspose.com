@@ -3,7 +3,7 @@ title: Class DgnElementMetadata
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElementMetadata class. Represents summary of a file element was read
 type: docs
-weight: 8590
+weight: 8690
 url: /net/aspose.cad.fileformats.dgn/dgnelementmetadata/
 ---
 ## DgnElementMetadata class

@@ -3,7 +3,7 @@ title: Class Origin
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Origin class. The origin. Describes the origin of an object frame. The origin is given by a position in 3D space
 type: docs
-weight: 8100
+weight: 8200
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/origin/
 ---
 ## Origin class

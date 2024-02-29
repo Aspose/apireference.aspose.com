@@ -3,7 +3,7 @@ title: Class IfcCostItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCostItem class. IfcCostItem
 type: docs
-weight: 23200
+weight: 23190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostitem/
 ---
 ## IfcCostItem class

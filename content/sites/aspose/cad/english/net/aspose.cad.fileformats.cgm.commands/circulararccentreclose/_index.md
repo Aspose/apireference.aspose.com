@@ -3,7 +3,7 @@ title: Class CircularArcCentreClose
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CircularArcCentreClose class. Class4 ElementId16
 type: docs
-weight: 5060
+weight: 5160
 url: /net/aspose.cad.fileformats.cgm.commands/circulararccentreclose/
 ---
 ## CircularArcCentreClose class

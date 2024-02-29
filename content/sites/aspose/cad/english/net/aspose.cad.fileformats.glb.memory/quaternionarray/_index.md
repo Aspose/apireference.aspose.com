@@ -3,7 +3,7 @@ title: Struct QuaternionArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.QuaternionArray struct. Wraps an encoded ArraySegment and exposes it as an IList
 type: docs
-weight: 11060
+weight: 11010
 url: /net/aspose.cad.fileformats.glb.memory/quaternionarray/
 ---
 ## QuaternionArray structure

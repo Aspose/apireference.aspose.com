@@ -3,7 +3,7 @@ title: Class PrimitivesWithHoles
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.PrimitivesWithHoles class. The primitives with holes. Describes a primitives that contains one or more holes
 type: docs
-weight: 8180
+weight: 8280
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/
 ---
 ## PrimitivesWithHoles class

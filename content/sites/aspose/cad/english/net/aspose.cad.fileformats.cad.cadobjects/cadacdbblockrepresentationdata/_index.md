@@ -3,7 +3,7 @@ title: Class CadAcDbBlockRepresentationData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcDbBlockRepresentationData class. Class describing ACDB_BLOCKREPRESENTATION_DATA object
 type: docs
-weight: 2100
+weight: 2190
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdbblockrepresentationdata/
 ---
 ## CadAcDbBlockRepresentationData class

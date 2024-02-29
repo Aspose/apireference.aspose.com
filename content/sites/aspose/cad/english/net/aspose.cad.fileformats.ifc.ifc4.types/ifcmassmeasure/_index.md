@@ -3,7 +3,7 @@ title: Class IfcMassMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMassMeasure class. IfcMassMeasure
 type: docs
-weight: 31490
+weight: 31480
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmassmeasure/
 ---
 ## IfcMassMeasure class

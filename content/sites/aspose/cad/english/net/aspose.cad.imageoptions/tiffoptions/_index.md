@@ -3,7 +3,7 @@ title: Class TiffOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.TiffOptions class. The tiff file format options. Note that width and height tags will get overwritten on image creation by width and height parameters so there is no need to specify them directly. Note that many options return a default value but that does not mean that this option is set explicitly as a tag value. To verify the tag is present use Tags property or the corresponding IsTagPresent method
 type: docs
-weight: 36520
+weight: 36510
 url: /net/aspose.cad.imageoptions/tiffoptions/
 ---
 ## TiffOptions class
@@ -85,6 +85,7 @@ public class TiffOptions : ImageOptionsBase
 | [UserWatermarkText](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/) { get; set; } | Text for user-generated watermark |
 | [ValidTagCount](../../aspose.cad.imageoptions/tiffoptions/validtagcount/) { get; } | Gets the valid tag count. This is not the total tags count but the number of tags which may be preserved. |
 | [VectorRasterizationOptions](../../aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
+| [WatermarkGuardOptions](../../aspose.cad.imageoptions/imageoptionsbase/watermarkguardoptions/) { get; set; } | Gets or sets the blind watermark options. |
 | override [XmpData](../../aspose.cad.imageoptions/tiffoptions/xmpdata/) { get; set; } | Gets or sets the XMP metadata container. |
 | [Xposition](../../aspose.cad.imageoptions/tiffoptions/xposition/) { get; set; } | Gets or sets the x position. |
 | [Xresolution](../../aspose.cad.imageoptions/tiffoptions/xresolution/) { get; set; } | Gets or sets the x resolution. |

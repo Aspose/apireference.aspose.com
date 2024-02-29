@@ -3,7 +3,7 @@ title: Enum TextureInterpolationFilter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.TextureInterpolationFilter enum. Magnification filter
 type: docs
-weight: 11530
+weight: 11450
 url: /net/aspose.cad.fileformats.glb/textureinterpolationfilter/
 ---
 ## TextureInterpolationFilter enumeration

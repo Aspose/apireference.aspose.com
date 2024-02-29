@@ -3,7 +3,7 @@ title: Class IfcAxis2Placement3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAxis2Placement3D class. Partial IIfc entity class
 type: docs
-weight: 22040
+weight: 22030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis2placement3d/
 ---
 ## IfcAxis2Placement3D class

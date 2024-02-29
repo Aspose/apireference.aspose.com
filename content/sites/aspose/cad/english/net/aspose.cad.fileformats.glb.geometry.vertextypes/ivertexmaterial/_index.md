@@ -3,7 +3,7 @@ title: Interface IVertexMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.IVertexMaterial interface. Represents the interface that must be implemented by a material vertex fragment
 type: docs
-weight: 10480
+weight: 10460
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/
 ---
 ## IVertexMaterial interface

@@ -3,7 +3,7 @@ title: Toolkit.WithOrthographicCamera
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 480
+weight: 400
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withorthographiccamera/
 ---
 ## Toolkit.WithOrthographicCamera method

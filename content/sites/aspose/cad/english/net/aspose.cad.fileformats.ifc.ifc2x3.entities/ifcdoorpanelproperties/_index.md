@@ -3,7 +3,7 @@ title: Class IfcDoorPanelProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDoorPanelProperties class. IfcDoorPanelProperties
 type: docs
-weight: 13630
+weight: 13620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorpanelproperties/
 ---
 ## IfcDoorPanelProperties class

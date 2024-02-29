@@ -3,7 +3,7 @@ title: Class Point2D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Primitives.Point2D class. The 2D point
 type: docs
-weight: 36820
+weight: 36810
 url: /net/aspose.cad.primitives/point2d/
 ---
 ## Point2D class

@@ -3,7 +3,7 @@ title: Class CadXrecordObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities.CadXrecordObject class. Class describing Xrecord object
 type: docs
-weight: 1740
+weight: 1830
 url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/
 ---
 ## CadXrecordObject class

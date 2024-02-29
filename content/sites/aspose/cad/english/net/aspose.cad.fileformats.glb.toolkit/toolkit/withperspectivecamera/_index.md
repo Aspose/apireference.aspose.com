@@ -3,7 +3,7 @@ title: Toolkit.WithPerspectiveCamera
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 510
+weight: 430
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withperspectivecamera/
 ---
 ## Toolkit.WithPerspectiveCamera method

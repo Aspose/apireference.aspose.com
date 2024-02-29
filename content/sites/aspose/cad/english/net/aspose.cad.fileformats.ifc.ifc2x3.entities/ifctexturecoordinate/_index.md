@@ -3,7 +3,7 @@ title: Class IfcTextureCoordinate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextureCoordinate class. IfcTextureCoordinate
 type: docs
-weight: 17990
+weight: 17980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinate/
 ---
 ## IfcTextureCoordinate class

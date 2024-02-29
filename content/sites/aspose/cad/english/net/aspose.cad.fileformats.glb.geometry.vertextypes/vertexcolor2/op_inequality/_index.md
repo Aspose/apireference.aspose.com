@@ -3,7 +3,7 @@ title: VertexColor2.op_Inequality
 second_title: Aspose.CAD for .NET API Reference
 description: VertexColor2 method. 
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor2/op_inequality/
 ---
 ## VertexColor2 Inequality operator

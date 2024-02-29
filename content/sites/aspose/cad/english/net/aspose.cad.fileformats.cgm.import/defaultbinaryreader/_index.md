@@ -3,7 +3,7 @@ title: Class DefaultBinaryReader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Import.DefaultBinaryReader class. 
 type: docs
-weight: 7190
+weight: 7290
 url: /net/aspose.cad.fileformats.cgm.import/defaultbinaryreader/
 ---
 ## DefaultBinaryReader class

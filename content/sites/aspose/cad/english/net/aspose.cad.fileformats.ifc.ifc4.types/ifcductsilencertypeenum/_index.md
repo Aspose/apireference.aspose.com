@@ -3,7 +3,7 @@ title: Enum IfcDuctSilencerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDuctSilencerTypeEnum enum. IfcDuctSilencerTypeEnum
 type: docs
-weight: 30580
+weight: 30570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcductsilencertypeenum/
 ---
 ## IfcDuctSilencerTypeEnum enumeration

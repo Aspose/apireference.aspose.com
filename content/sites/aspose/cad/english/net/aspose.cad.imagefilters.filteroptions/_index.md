@@ -3,7 +3,7 @@ title: Aspose.CAD.ImageFilters.FilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles Filter options
 type: docs
-weight: 1240
+weight: 1250
 url: /net/aspose.cad.imagefilters.filteroptions/
 ---
 The namespace handles Filter options.

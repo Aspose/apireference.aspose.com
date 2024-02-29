@@ -3,7 +3,7 @@ title: Class CadCellMargin
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadCellMargin class. Class describing CadCellMargin
 type: docs
-weight: 2400
+weight: 2490
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcellmargin/
 ---
 ## CadCellMargin class

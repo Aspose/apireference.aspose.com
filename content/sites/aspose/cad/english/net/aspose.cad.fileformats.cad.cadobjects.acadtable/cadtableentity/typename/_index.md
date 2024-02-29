@@ -3,7 +3,7 @@ title: CadTableEntity.TypeName
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets the name of the type
 type: docs
-weight: 200
+weight: 240
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/typename/
 ---
 ## CadTableEntity.TypeName property

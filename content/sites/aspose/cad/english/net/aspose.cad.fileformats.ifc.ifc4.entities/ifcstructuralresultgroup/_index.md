@@ -3,7 +3,7 @@ title: Class IfcStructuralResultGroup
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralResultGroup class. IfcStructuralResultGroup
 type: docs
-weight: 28300
+weight: 28290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralresultgroup/
 ---
 ## IfcStructuralResultGroup class

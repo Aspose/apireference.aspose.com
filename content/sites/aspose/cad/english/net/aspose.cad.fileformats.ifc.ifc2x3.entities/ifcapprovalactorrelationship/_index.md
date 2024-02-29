@@ -3,7 +3,7 @@ title: Class IfcApprovalActorRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcApprovalActorRelationship class. IfcApprovalActorRelationship
 type: docs
-weight: 12160
+weight: 12150
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalactorrelationship/
 ---
 ## IfcApprovalActorRelationship class

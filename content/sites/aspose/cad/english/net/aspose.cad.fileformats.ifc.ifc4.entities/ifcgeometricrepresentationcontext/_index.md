@@ -3,7 +3,7 @@ title: Class IfcGeometricRepresentationContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGeometricRepresentationContext class. IfcGeometricRepresentationContext
 type: docs
-weight: 24740
+weight: 24730
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationcontext/
 ---
 ## IfcGeometricRepresentationContext class

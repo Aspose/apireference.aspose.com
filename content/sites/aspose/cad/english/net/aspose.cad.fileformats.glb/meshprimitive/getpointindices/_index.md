@@ -3,7 +3,7 @@ title: MeshPrimitive.GetPointIndices
 second_title: Aspose.CAD for .NET API Reference
 description: MeshPrimitive method. Decodes the raw indices and returns a list of indexed points
 type: docs
-weight: 130
+weight: 120
 url: /net/aspose.cad.fileformats.glb/meshprimitive/getpointindices/
 ---
 ## MeshPrimitive.GetPointIndices method

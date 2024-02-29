@@ -3,7 +3,7 @@ title: Class Translate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Translate class. The translate. The translate element contains a mathematical vector that represents the distance along the X Y and Zaxes
 type: docs
-weight: 8500
+weight: 8600
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/translate/
 ---
 ## Translate class

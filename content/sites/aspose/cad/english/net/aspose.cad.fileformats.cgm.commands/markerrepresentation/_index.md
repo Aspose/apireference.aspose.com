@@ -3,7 +3,7 @@ title: Class MarkerRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MarkerRepresentation class. 
 type: docs
-weight: 6020
+weight: 6120
 url: /net/aspose.cad.fileformats.cgm.commands/markerrepresentation/
 ---
 ## MarkerRepresentation class

@@ -3,7 +3,7 @@ title: Class IfcEdgeFeature
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEdgeFeature class. IfcEdgeFeature
 type: docs
-weight: 13750
+weight: 13740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgefeature/
 ---
 ## IfcEdgeFeature class

@@ -3,7 +3,7 @@ title: Struct VertexJoints8
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexJoints8 struct. Defines a Vertex attribute with up to 65535 bone joints and 8 weights
 type: docs
-weight: 10610
+weight: 10570
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/
 ---
 ## VertexJoints8 structure
@@ -11,14 +11,13 @@ url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/
 Defines a Vertex attribute with up to 65535 bone joints and 8 weights.
 
 ```csharp
-public struct VertexJoints8 : IEquatable<VertexJoints8>, IVertexSkinning
+public struct VertexJoints8 : IEquatable<VertexJoints8>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [VertexJoints8](vertexjoints8/#constructor_2)(params (int JointIndex, float Weight)[]) |  |
 | [VertexJoints8](vertexjoints8/#constructor_1)(int) |  |
 | [VertexJoints8](vertexjoints8/#constructor)(ref SparseWeight8) |  |
 
@@ -34,11 +33,9 @@ public struct VertexJoints8 : IEquatable<VertexJoints8>, IVertexSkinning
 | --- | --- |
 | override [Equals](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/equals/#equals_1)(object) |  |
 | [Equals](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/equals/#equals)(VertexJoints8) |  |
-| [GetBinding](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/getbinding/)(int) |  |
 | [GetBindings](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/getbindings/)() |  |
 | override [GetHashCode](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/gethashcode/)() |  |
-| [SetBindings](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/setbindings/#setbindings_1)(params (int Index, float Weight)[]) |  |
-| [SetBindings](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/setbindings/#setbindings)(ref SparseWeight8) |  |
+| [SetBindings](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/setbindings/)(ref SparseWeight8) |  |
 | static [AreEqual](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/areequal/)(ref VertexJoints8, ref VertexJoints8) |  |
 | [operator ==](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/op_equality/) |  |
 | [operator !=](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/op_inequality/) |  |
@@ -54,7 +51,6 @@ public struct VertexJoints8 : IEquatable<VertexJoints8>, IVertexSkinning
 
 ### See Also
 
-* interface [IVertexSkinning](../ivertexskinning/)
 * namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../)
 

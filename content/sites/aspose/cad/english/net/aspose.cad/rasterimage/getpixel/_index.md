@@ -3,7 +3,7 @@ title: RasterImage.GetPixel
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Gets an image pixel
 type: docs
-weight: 280
+weight: 270
 url: /net/aspose.cad/rasterimage/getpixel/
 ---
 ## RasterImage.GetPixel method

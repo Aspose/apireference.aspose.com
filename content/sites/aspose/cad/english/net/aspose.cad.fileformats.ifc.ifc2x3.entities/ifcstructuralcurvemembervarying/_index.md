@@ -3,7 +3,7 @@ title: Class IfcStructuralCurveMemberVarying
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralCurveMemberVarying class. IfcStructuralCurveMemberVarying
 type: docs
-weight: 17320
+weight: 17310
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralcurvemembervarying/
 ---
 ## IfcStructuralCurveMemberVarying class

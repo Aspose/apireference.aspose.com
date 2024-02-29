@@ -3,7 +3,7 @@ title: Class IfcClassificationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcClassificationItem class. IfcClassificationItem
 type: docs
-weight: 12710
+weight: 12700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/
 ---
 ## IfcClassificationItem class

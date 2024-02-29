@@ -3,7 +3,7 @@ title: Enum CharacterSetList.Type
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterSetListType enum. 
 type: docs
-weight: 5000
+weight: 5100
 url: /net/aspose.cad.fileformats.cgm.commands/charactersetlist.type/
 ---
 ## CharacterSetList.Type enumeration

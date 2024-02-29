@@ -3,7 +3,7 @@ title: Class IfcEnvironmentalImpactValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEnvironmentalImpactValue class. IfcEnvironmentalImpactValue
 type: docs
-weight: 13990
+weight: 13980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/
 ---
 ## IfcEnvironmentalImpactValue class

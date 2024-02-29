@@ -3,7 +3,7 @@ title: Class IfcCrewResource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCrewResource class. IfcCrewResource
 type: docs
-weight: 23250
+weight: 23240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/
 ---
 ## IfcCrewResource class

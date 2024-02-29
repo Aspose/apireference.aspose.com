@@ -3,7 +3,7 @@ title: Class CadPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadPoint class. Class describing Cad Point
 type: docs
-weight: 3040
+weight: 3130
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadpoint/
 ---
 ## CadPoint class

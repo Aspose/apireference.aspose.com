@@ -1,14 +1,14 @@
 ---
 title: GlbData.WriteGLB
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Writes this GlbImage to a Byte array in GLB format
+description: GlbData method. Writes this GlbData to a Byte array in GLB format
 type: docs
-weight: 540
+weight: 550
 url: /net/aspose.cad.fileformats.glb/glbdata/writeglb/
 ---
 ## WriteGLB(WriteSettings) {#writeglb}
 
-Writes this [`GlbImage`](../../glbimage/) to a Byte array in GLB format.
+Writes this [`GlbData`](../) to a Byte array in GLB format.
 
 ```csharp
 public ArraySegment<byte> WriteGLB(WriteSettings settings = null)
@@ -33,7 +33,7 @@ A Byte array containing a GLB file.
 
 ## WriteGLB(Stream, WriteSettings) {#writeglb_1}
 
-Writes this [`GlbImage`](../../glbimage/) to a Stream in GLB format.
+Writes this [`GlbData`](../) to a Stream in GLB format.
 
 ```csharp
 public void WriteGLB(Stream stream, WriteSettings settings = null)

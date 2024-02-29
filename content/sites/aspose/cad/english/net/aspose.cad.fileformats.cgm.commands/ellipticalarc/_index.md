@@ -3,7 +3,7 @@ title: Class EllipticalArc
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EllipticalArc class. Class4 ElementId18
 type: docs
-weight: 5480
+weight: 5580
 url: /net/aspose.cad.fileformats.cgm.commands/ellipticalarc/
 ---
 ## EllipticalArc class

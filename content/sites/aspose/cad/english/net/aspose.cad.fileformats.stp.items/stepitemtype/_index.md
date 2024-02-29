@@ -3,7 +3,7 @@ title: Enum StepItemType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepItemType enum. ItemType RepresentationItem enum for STP file
 type: docs
-weight: 34590
+weight: 34580
 url: /net/aspose.cad.fileformats.stp.items/stepitemtype/
 ---
 ## StepItemType enumeration

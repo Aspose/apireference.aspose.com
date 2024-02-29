@@ -3,7 +3,7 @@ title: CadOle2Frame.VersionNumber
 second_title: Aspose.CAD for .NET API Reference
 description: CadOle2Frame property. Gets or sets the version number
 type: docs
-weight: 110
+weight: 150
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/versionnumber/
 ---
 ## CadOle2Frame.VersionNumber property

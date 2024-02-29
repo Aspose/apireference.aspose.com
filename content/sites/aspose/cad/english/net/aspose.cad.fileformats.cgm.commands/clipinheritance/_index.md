@@ -3,7 +3,7 @@ title: Class ClipInheritance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ClipInheritance class. Class8 ElementId3
 type: docs
-weight: 5090
+weight: 5190
 url: /net/aspose.cad.fileformats.cgm.commands/clipinheritance/
 ---
 ## ClipInheritance class

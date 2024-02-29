@@ -1,14 +1,14 @@
 ---
 title: Class GltfOptions
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.GltfOptions class. The GLB options
+description: Aspose.CAD.ImageOptions.GltfOptions class. The GLTF options
 type: docs
-weight: 36180
+weight: 36170
 url: /net/aspose.cad.imageoptions/gltfoptions/
 ---
 ## GltfOptions class
 
-The GLB options.
+The GLTF options.
 
 ```csharp
 public class GltfOptions : ImageOptionsBase
@@ -36,6 +36,7 @@ public class GltfOptions : ImageOptionsBase
 | [UserWatermarkColor](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarkcolor/) { get; set; } | Color for user-generated watermark |
 | [UserWatermarkText](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/) { get; set; } | Text for user-generated watermark |
 | [VectorRasterizationOptions](../../aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
+| [WatermarkGuardOptions](../../aspose.cad.imageoptions/imageoptionsbase/watermarkguardoptions/) { get; set; } | Gets or sets the blind watermark options. |
 | virtual [XmpData](../../aspose.cad.imageoptions/imageoptionsbase/xmpdata/) { get; set; } | Gets or sets the XMP metadata container. |
 
 ### See Also

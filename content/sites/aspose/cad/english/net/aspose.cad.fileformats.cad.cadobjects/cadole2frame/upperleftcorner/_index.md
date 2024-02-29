@@ -3,7 +3,7 @@ title: CadOle2Frame.UpperLeftCorner
 second_title: Aspose.CAD for .NET API Reference
 description: CadOle2Frame property. Gets or sets the upper left corner
 type: docs
-weight: 100
+weight: 130
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperleftcorner/
 ---
 ## CadOle2Frame.UpperLeftCorner property

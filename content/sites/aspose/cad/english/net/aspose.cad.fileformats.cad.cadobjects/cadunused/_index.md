@@ -3,7 +3,7 @@ title: Class CadUnused
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadUnused class. Represents CadUnused object
 type: docs
-weight: 3350
+weight: 3440
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadunused/
 ---
 ## CadUnused class

@@ -3,7 +3,7 @@ title: Toolkit.CreateBufferView
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/createbufferview/
 ---
 ## Toolkit.CreateBufferView&lt;T&gt; method

@@ -3,7 +3,7 @@ title: Class IfcClassificationSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcClassificationSelect class. IfcClassificationSelect
 type: docs
-weight: 29960
+weight: 29950
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcclassificationselect/
 ---
 ## IfcClassificationSelect class

@@ -3,7 +3,7 @@ title: Class CameraBuilder.Perspective
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.CameraBuilderPerspective class. 
 type: docs
-weight: 11360
+weight: 11280
 url: /net/aspose.cad.fileformats.glb.scenes/camerabuilder.perspective/
 ---
 ## CameraBuilder.Perspective class

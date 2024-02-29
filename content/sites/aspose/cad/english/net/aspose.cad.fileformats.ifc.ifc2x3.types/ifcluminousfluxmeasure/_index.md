@@ -3,7 +3,7 @@ title: Class IfcLuminousFluxMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcLuminousFluxMeasure class. IfcLuminousFluxMeasure
 type: docs
-weight: 20070
+weight: 20060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcluminousfluxmeasure/
 ---
 ## IfcLuminousFluxMeasure class

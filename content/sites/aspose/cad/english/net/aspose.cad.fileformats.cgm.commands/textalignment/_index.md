@@ -3,7 +3,7 @@ title: Class TextAlignment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextAlignment class. 
 type: docs
-weight: 6610
+weight: 6710
 url: /net/aspose.cad.fileformats.cgm.commands/textalignment/
 ---
 ## TextAlignment class

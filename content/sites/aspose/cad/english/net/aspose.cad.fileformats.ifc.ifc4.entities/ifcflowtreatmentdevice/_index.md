@@ -3,7 +3,7 @@ title: Class IfcFlowTreatmentDevice
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFlowTreatmentDevice class. IfcFlowTreatmentDevice
 type: docs
-weight: 24630
+weight: 24620
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowtreatmentdevice/
 ---
 ## IfcFlowTreatmentDevice class

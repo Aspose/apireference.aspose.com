@@ -3,7 +3,7 @@ title: CadTableContent.LinkedTableDataParameters
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableContent property. Gets or sets the linked table data parameters
 type: docs
-weight: 40
+weight: 70
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linkedtabledataparameters/
 ---
 ## CadTableContent.LinkedTableDataParameters property

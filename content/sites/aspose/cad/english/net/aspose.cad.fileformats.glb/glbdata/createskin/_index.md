@@ -1,14 +1,14 @@
 ---
 title: GlbData.CreateSkin
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Skin instance and adds it to GlbImage.LogicalSkins
+description: GlbData method. Creates a new Skin instance and adds it to LogicalSkins
 type: docs
 weight: 370
 url: /net/aspose.cad.fileformats.glb/glbdata/createskin/
 ---
 ## GlbData.CreateSkin method
 
-Creates a new [`Skin`](../../skin/) instance and adds it to !:GlbImage.LogicalSkins.
+Creates a new [`Skin`](../../skin/) instance and adds it to [`LogicalSkins`](../logicalskins/).
 
 ```csharp
 public Skin CreateSkin(string name = null)

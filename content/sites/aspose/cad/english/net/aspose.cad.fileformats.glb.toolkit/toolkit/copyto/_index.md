@@ -3,7 +3,7 @@ title: Toolkit.CopyTo
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/copyto/
 ---
 ## CopyTo(this Material, MaterialBuilder) {#copyto}

@@ -3,7 +3,7 @@ title: Class TextureSampler
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.TextureSampler class. Texture sampler properties for filtering and wrapping modes
 type: docs
-weight: 11550
+weight: 11470
 url: /net/aspose.cad.fileformats.glb/texturesampler/
 ---
 ## TextureSampler class
@@ -20,8 +20,8 @@ public sealed class TextureSampler : LogicalChildOfRoot
 | --- | --- |
 | [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
 | [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../glbimage/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbImage`](../glbimage/) instance that owns this object. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
 | [MagFilter](../../aspose.cad.fileformats.glb/texturesampler/magfilter/) { get; } | Gets the texture magnification filter. |
 | [MinFilter](../../aspose.cad.fileformats.glb/texturesampler/minfilter/) { get; } | Gets the texture minification filter. |
 | [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |

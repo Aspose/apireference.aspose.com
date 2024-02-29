@@ -3,7 +3,7 @@ title: Toolkit.WithLocalRotation
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 400
+weight: 320
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withlocalrotation/
 ---
 ## Toolkit.WithLocalRotation method

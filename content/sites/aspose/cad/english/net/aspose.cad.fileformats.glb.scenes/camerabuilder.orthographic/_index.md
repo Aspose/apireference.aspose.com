@@ -3,7 +3,7 @@ title: Class CameraBuilder.Orthographic
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.CameraBuilderOrthographic class. 
 type: docs
-weight: 11350
+weight: 11270
 url: /net/aspose.cad.fileformats.glb.scenes/camerabuilder.orthographic/
 ---
 ## CameraBuilder.Orthographic class

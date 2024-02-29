@@ -3,7 +3,7 @@ title: Class DwfWhipFilledEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipFilledEllipse class. Represents Filled Ellipse
 type: docs
-weight: 9580
+weight: 9680
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipfilledellipse/
 ---
 ## DwfWhipFilledEllipse class

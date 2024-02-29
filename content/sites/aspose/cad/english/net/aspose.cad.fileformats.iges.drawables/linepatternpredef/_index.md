@@ -3,7 +3,7 @@ title: Enum LinePatternPredef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.LinePatternPredef enum. Defines line style
 type: docs
-weight: 33640
+weight: 33630
 url: /net/aspose.cad.fileformats.iges.drawables/linepatternpredef/
 ---
 ## LinePatternPredef enumeration

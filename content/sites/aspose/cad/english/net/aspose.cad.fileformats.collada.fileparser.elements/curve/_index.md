@@ -3,7 +3,7 @@ title: Class Curve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Curve class. The curve
 type: docs
-weight: 7450
+weight: 7550
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/curve/
 ---
 ## Curve class

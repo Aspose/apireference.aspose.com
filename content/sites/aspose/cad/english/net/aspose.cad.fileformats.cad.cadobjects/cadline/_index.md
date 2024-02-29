@@ -3,7 +3,7 @@ title: Class CadLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLine class. Class describing Cad line
 type: docs
-weight: 2780
+weight: 2870
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadline/
 ---
 ## CadLine class

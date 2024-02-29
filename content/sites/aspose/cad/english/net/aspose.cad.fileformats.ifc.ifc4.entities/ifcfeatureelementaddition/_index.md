@@ -3,7 +3,7 @@ title: Class IfcFeatureElementAddition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFeatureElementAddition class. IfcFeatureElementAddition
 type: docs
-weight: 24370
+weight: 24360
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfeatureelementaddition/
 ---
 ## IfcFeatureElementAddition class

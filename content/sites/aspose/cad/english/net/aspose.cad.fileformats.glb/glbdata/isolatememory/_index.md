@@ -16,7 +16,7 @@ public void IsolateMemory()
 
 ## Remarks
 
-[`Buffer`](../../buffer/) instances can be created using external Byte arrays, which can potentially be shared with other instances. Editing these arrays directly can lead to data corruption. This method refreshes all internal memory buffers, by copying the data into newly allocated buffers. This ensures that at this point, all memory buffers are not shared and of exclusive use of this [`GlbImage`](../../glbimage/) instance.
+[`Buffer`](../../buffer/) instances can be created using external Byte arrays, which can potentially be shared with other instances. Editing these arrays directly can lead to data corruption. This method refreshes all internal memory buffers, by copying the data into newly allocated buffers. This ensures that at this point, all memory buffers are not shared and of exclusive use of this [`GlbData`](../) instance.
 
 ### See Also
 

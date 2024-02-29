@@ -3,7 +3,7 @@ title: Class IfcExternalReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcExternalReference class. IfcExternalReference
 type: docs
-weight: 14050
+weight: 14040
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/
 ---
 ## IfcExternalReference class

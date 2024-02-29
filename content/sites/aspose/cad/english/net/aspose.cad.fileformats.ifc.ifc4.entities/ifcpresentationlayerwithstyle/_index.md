@@ -3,7 +3,7 @@ title: Class IfcPresentationLayerWithStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPresentationLayerWithStyle class. IfcPresentationLayerWithStyle
 type: docs
-weight: 26190
+weight: 26180
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/
 ---
 ## IfcPresentationLayerWithStyle class

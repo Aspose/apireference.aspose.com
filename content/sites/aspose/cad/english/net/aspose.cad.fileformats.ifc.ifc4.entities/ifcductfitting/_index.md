@@ -3,7 +3,7 @@ title: Class IfcDuctFitting
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDuctFitting class. IfcDuctFitting
 type: docs
-weight: 23710
+weight: 23700
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcductfitting/
 ---
 ## IfcDuctFitting class

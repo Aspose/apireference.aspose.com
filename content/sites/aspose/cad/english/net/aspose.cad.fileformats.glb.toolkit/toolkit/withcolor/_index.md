@@ -3,7 +3,7 @@ title: Toolkit.WithColor
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Defines the light color intensity and range for the current PunctualLight
 type: docs
-weight: 310
+weight: 230
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withcolor/
 ---
 ## Toolkit.WithColor method

@@ -3,7 +3,7 @@ title: Class IfcPolygonalFaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPolygonalFaceSet class. Partial IIfc entity class
 type: docs
-weight: 26070
+weight: 26060
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/
 ---
 ## IfcPolygonalFaceSet class

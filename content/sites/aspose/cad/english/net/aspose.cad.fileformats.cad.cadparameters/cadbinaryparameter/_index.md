@@ -3,7 +3,7 @@ title: Class CadBinaryParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadParameters.CadBinaryParameter class. The Cad binary parameter
 type: docs
-weight: 4060
+weight: 4150
 url: /net/aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/
 ---
 ## CadBinaryParameter class

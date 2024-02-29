@@ -3,7 +3,7 @@ title: Class CadBlockPointParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockPointParameter class. Class describing Block Point Parameter
 type: docs
-weight: 1930
+weight: 2020
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockpointparameter/
 ---
 ## CadBlockPointParameter class

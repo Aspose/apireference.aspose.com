@@ -3,7 +3,7 @@ title: Class IfcElementComponentType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcElementComponentType class. IfcElementComponentType
 type: docs
-weight: 13900
+weight: 13890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementcomponenttype/
 ---
 ## IfcElementComponentType class

@@ -3,7 +3,7 @@ title: Class IfcMaterialLayerWithOffsets
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialLayerWithOffsets class. IfcMaterialLayerWithOffsets
 type: docs
-weight: 25360
+weight: 25350
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayerwithoffsets/
 ---
 ## IfcMaterialLayerWithOffsets class

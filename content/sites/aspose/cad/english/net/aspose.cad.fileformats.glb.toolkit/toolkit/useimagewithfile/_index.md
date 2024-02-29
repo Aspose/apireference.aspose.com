@@ -3,7 +3,7 @@ title: Toolkit.UseImageWithFile
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Creates or reuses an GlbImage with the file set by filePath
 type: docs
-weight: 260
+weight: 180
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/useimagewithfile/
 ---
 ## Toolkit.UseImageWithFile method

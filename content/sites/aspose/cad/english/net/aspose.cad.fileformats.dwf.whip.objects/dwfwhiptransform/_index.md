@@ -3,7 +3,7 @@ title: Class DwfWhipTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipTransform class. Represents transform of scene
 type: docs
-weight: 9810
+weight: 9910
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/
 ---
 ## DwfWhipTransform class

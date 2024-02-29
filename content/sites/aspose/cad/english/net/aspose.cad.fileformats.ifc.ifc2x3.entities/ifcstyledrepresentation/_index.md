@@ -3,7 +3,7 @@ title: Class IfcStyledRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStyledRepresentation class. IfcStyledRepresentation
 type: docs
-weight: 17620
+weight: 17610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyledrepresentation/
 ---
 ## IfcStyledRepresentation class

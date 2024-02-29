@@ -3,7 +3,7 @@ title: Class CadBaseInfinityEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadBaseInfinityEntity class. Class describing CadBaseInfinityEntity
 type: docs
-weight: 2340
+weight: 2430
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity/
 ---
 ## CadBaseInfinityEntity class

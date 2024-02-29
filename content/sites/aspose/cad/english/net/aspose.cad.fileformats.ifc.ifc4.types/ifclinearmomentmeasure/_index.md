@@ -3,7 +3,7 @@ title: Class IfcLinearMomentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLinearMomentMeasure class. IfcLinearMomentMeasure
 type: docs
-weight: 31360
+weight: 31350
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclinearmomentmeasure/
 ---
 ## IfcLinearMomentMeasure class

@@ -3,7 +3,7 @@ title: Class LibraryCameras
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.LibraryCameras class. The library cameras. Provides a library in which to place camera elements
 type: docs
-weight: 7930
+weight: 8030
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarycameras/
 ---
 ## LibraryCameras class

@@ -3,7 +3,7 @@ title: SceneBuilder.LoadAllScenes
 second_title: Aspose.CAD for .NET API Reference
 description: SceneBuilder method. 
 type: docs
-weight: 170
+weight: 150
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/loadallscenes/
 ---
 ## SceneBuilder.LoadAllScenes method

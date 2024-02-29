@@ -3,7 +3,7 @@ title: Enum IfcStructuralSurfaceActivityTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcStructuralSurfaceActivityTypeEnum enum. IfcStructuralSurfaceActivityTypeEnum
 type: docs
-weight: 32760
+weight: 32750
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralsurfaceactivitytypeenum/
 ---
 ## IfcStructuralSurfaceActivityTypeEnum enumeration

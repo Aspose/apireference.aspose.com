@@ -3,7 +3,7 @@ title: Struct AttributeFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.AttributeFormat struct. Defines the formatting in which a byte sequence can be encoded/decoded to attribute elements
 type: docs
-weight: 10960
+weight: 10910
 url: /net/aspose.cad.fileformats.glb.memory/attributeformat/
 ---
 ## AttributeFormat structure
@@ -38,7 +38,7 @@ public struct AttributeFormat : IEquatable<AttributeFormat>
 | override [GetHashCode](../../aspose.cad.fileformats.glb.memory/attributeformat/gethashcode/)() |  |
 | static [AreEqual](../../aspose.cad.fileformats.glb.memory/attributeformat/areequal/)(AttributeFormat, AttributeFormat) |  |
 | [operator ==](../../aspose.cad.fileformats.glb.memory/attributeformat/op_equality/) |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.memory/attributeformat/op_implicit/#op_implicit_1) |  (4 operators) |
+| [implicit operator](../../aspose.cad.fileformats.glb.memory/attributeformat/op_implicit/#op_implicit_2) |  (3 operators) |
 | [operator !=](../../aspose.cad.fileformats.glb.memory/attributeformat/op_inequality/) |  |
 
 ## Fields

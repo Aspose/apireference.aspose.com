@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.geometry/icadgeometrypolyline/points/
 Gets or sets the points.
 
 ```csharp
-public #=zHKc4Q8IaTVg4hRJuvPUBD_A=[] Points { get; set; }
+public #=zr_40Yw4jyGqldwTk_HccHYs=[] Points { get; set; }
 ```
 
 ### Property Value

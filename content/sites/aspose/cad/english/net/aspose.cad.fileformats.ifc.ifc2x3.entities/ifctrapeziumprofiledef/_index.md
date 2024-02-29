@@ -3,7 +3,7 @@ title: Class IfcTrapeziumProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTrapeziumProfileDef class. Partial IIfc entity class
 type: docs
-weight: 18130
+weight: 18120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/
 ---
 ## IfcTrapeziumProfileDef class

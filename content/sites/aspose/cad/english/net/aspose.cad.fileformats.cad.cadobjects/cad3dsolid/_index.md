@@ -3,7 +3,7 @@ title: Class Cad3DSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Cad3DSolid class. Class describing Cad 3DSolid
 type: docs
-weight: 2070
+weight: 2160
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/
 ---
 ## Cad3DSolid class

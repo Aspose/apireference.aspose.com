@@ -3,7 +3,7 @@ title: GlbData.GetSatellitePaths
 second_title: Aspose.CAD for .NET API Reference
 description: GlbData method. Gets the list of satellite / dependency files for a given glTF file. This includes binary blobs and texture images
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.cad.fileformats.glb/glbdata/getsatellitepaths/
 ---
 ## GlbData.GetSatellitePaths method

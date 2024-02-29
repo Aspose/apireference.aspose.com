@@ -3,7 +3,7 @@ title: Class DxfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.DxfOptions class. The SVG file format creation options
 type: docs
-weight: 36120
+weight: 36110
 url: /net/aspose.cad.imageoptions/dxfoptions/
 ---
 ## DxfOptions class
@@ -41,6 +41,7 @@ public class DxfOptions : ImageOptionsBase, ITextAsLinesOptions
 | [UserWatermarkText](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/) { get; set; } | Text for user-generated watermark |
 | [VectorRasterizationOptions](../../aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
 | [Version](../../aspose.cad.imageoptions/dxfoptions/version/) { get; set; } | Version of output DXF format |
+| [WatermarkGuardOptions](../../aspose.cad.imageoptions/imageoptionsbase/watermarkguardoptions/) { get; set; } | Gets or sets the blind watermark options. |
 | virtual [XmpData](../../aspose.cad.imageoptions/imageoptionsbase/xmpdata/) { get; set; } | Gets or sets the XMP metadata container. |
 
 ### See Also

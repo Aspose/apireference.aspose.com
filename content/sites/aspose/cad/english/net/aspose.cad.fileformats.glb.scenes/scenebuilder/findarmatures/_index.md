@@ -3,7 +3,7 @@ title: SceneBuilder.FindArmatures
 second_title: Aspose.CAD for .NET API Reference
 description: SceneBuilder method. Gets all the unique armatures used by this SceneBuilder
 type: docs
-weight: 140
+weight: 120
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/findarmatures/
 ---
 ## SceneBuilder.FindArmatures method

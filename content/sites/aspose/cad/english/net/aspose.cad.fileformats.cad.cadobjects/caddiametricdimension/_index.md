@@ -3,7 +3,7 @@ title: Class CadDiametricDimension
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadDiametricDimension class. The Cad diameter dimension. NOTE This class is an exact copy of CadRadialDimension except sublcass name
 type: docs
-weight: 2510
+weight: 2600
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddiametricdimension/
 ---
 ## CadDiametricDimension class

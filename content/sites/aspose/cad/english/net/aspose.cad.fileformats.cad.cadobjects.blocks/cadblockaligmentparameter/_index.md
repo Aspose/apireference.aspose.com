@@ -3,7 +3,7 @@ title: Class CadBlockAligmentParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockAligmentParameter class. Class describing block aligment parameter
 type: docs
-weight: 1820
+weight: 1910
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaligmentparameter/
 ---
 ## CadBlockAligmentParameter class

@@ -3,7 +3,7 @@ title: Class IfcStructuralItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralItem class. IfcStructuralItem
 type: docs
-weight: 17330
+weight: 17320
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralitem/
 ---
 ## IfcStructuralItem class

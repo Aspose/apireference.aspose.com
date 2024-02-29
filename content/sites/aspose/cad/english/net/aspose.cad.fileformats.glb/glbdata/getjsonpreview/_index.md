@@ -1,14 +1,14 @@
 ---
 title: GlbData.GetJsonPreview
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Gets the JSON document of this GlbImage
+description: GlbData method. Gets the JSON document of this GlbData
 type: docs
 weight: 400
 url: /net/aspose.cad.fileformats.glb/glbdata/getjsonpreview/
 ---
 ## GlbData.GetJsonPreview method
 
-Gets the JSON document of this [`GlbImage`](../../glbimage/).
+Gets the JSON document of this [`GlbData`](../).
 
 ```csharp
 public string GetJsonPreview()

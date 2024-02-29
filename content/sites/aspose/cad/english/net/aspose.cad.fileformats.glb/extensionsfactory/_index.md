@@ -3,7 +3,7 @@ title: Class ExtensionsFactory
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ExtensionsFactory class. Global extensions manager
 type: docs
-weight: 10250
+weight: 10350
 url: /net/aspose.cad.fileformats.glb/extensionsfactory/
 ---
 ## ExtensionsFactory class

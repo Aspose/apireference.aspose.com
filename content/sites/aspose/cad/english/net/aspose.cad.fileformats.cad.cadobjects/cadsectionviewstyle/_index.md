@@ -3,7 +3,7 @@ title: Class CadSectionViewStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSectionViewStyle class. Class describing CadSectionViewStyle
 type: docs
-weight: 3150
+weight: 3240
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/
 ---
 ## CadSectionViewStyle class

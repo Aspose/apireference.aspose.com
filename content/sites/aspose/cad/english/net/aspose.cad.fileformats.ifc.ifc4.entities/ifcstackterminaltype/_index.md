@@ -3,7 +3,7 @@ title: Class IfcStackTerminalType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStackTerminalType class. IfcStackTerminalType
 type: docs
-weight: 27940
+weight: 27930
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstackterminaltype/
 ---
 ## IfcStackTerminalType class

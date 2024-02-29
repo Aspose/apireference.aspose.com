@@ -3,7 +3,7 @@ title: VertexBufferColumns.IsolateColumns
 second_title: Aspose.CAD for .NET API Reference
 description: VertexBufferColumns method. Performs an inplace copy of the contents of every column which guarantees that the columns of this VertexBufferColumns are not shared by any other object and can be modified safely
 type: docs
-weight: 190
+weight: 180
 url: /net/aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/isolatecolumns/
 ---
 ## VertexBufferColumns.IsolateColumns method

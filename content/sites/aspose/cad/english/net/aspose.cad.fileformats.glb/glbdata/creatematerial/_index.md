@@ -1,14 +1,14 @@
 ---
 title: GlbData.CreateMaterial
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Material instance and appends it to GlbImage.LogicalMaterials
+description: GlbData method. Creates a new Material instance and appends it to LogicalMaterials
 type: docs
 weight: 340
 url: /net/aspose.cad.fileformats.glb/glbdata/creatematerial/
 ---
 ## GlbData.CreateMaterial method
 
-Creates a new [`Material`](../../material/) instance and appends it to !:GlbImage.LogicalMaterials.
+Creates a new [`Material`](../../material/) instance and appends it to [`LogicalMaterials`](../logicalmaterials/).
 
 ```csharp
 public Material CreateMaterial(string name = null)

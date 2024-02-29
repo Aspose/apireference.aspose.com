@@ -3,7 +3,7 @@ title: Enum EncodingType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.EncodingType enum. The datatype of the accessors components
 type: docs
-weight: 10240
+weight: 10340
 url: /net/aspose.cad.fileformats.glb/encodingtype/
 ---
 ## EncodingType enumeration

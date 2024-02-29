@@ -3,7 +3,7 @@ title: RasterImage.SetResolution
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Sets the resolution for this RasterImage
 type: docs
-weight: 470
+weight: 460
 url: /net/aspose.cad/rasterimage/setresolution/
 ---
 ## RasterImage.SetResolution method

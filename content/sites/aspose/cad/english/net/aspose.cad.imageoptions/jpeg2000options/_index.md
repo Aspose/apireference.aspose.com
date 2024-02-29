@@ -3,7 +3,7 @@ title: Class Jpeg2000Options
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.Jpeg2000Options class. The Jpeg2000 file format options
 type: docs
-weight: 36240
+weight: 36230
 url: /net/aspose.cad.imageoptions/jpeg2000options/
 ---
 ## Jpeg2000Options class
@@ -39,6 +39,7 @@ public class Jpeg2000Options : ImageOptionsBase
 | [UserWatermarkColor](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarkcolor/) { get; set; } | Color for user-generated watermark |
 | [UserWatermarkText](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/) { get; set; } | Text for user-generated watermark |
 | [VectorRasterizationOptions](../../aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
+| [WatermarkGuardOptions](../../aspose.cad.imageoptions/imageoptionsbase/watermarkguardoptions/) { get; set; } | Gets or sets the blind watermark options. |
 | virtual [XmpData](../../aspose.cad.imageoptions/imageoptionsbase/xmpdata/) { get; set; } | Gets or sets the XMP metadata container. |
 
 ### See Also

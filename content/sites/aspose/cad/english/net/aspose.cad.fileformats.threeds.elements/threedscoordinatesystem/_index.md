@@ -3,7 +3,7 @@ title: Struct ThreeDSCoordinateSystem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSCoordinateSystem struct. 
 type: docs
-weight: 35040
+weight: 35030
 url: /net/aspose.cad.fileformats.threeds.elements/threedscoordinatesystem/
 ---
 ## ThreeDSCoordinateSystem structure

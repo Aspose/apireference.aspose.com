@@ -3,7 +3,7 @@ title: Class DwfWhipViewPort
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipViewPort class. Represents view port
 type: docs
-weight: 9820
+weight: 9920
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/
 ---
 ## DwfWhipViewPort class

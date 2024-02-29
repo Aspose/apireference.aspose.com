@@ -3,7 +3,7 @@ title: Toolkit.WithSkin
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 540
+weight: 460
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withskin/
 ---
 ## Toolkit.WithSkin method

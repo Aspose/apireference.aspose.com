@@ -3,7 +3,7 @@ title: Class StepToroidalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepToroidalSurface class. ToroidalSurface class for STP file
 type: docs
-weight: 34870
+weight: 34860
 url: /net/aspose.cad.fileformats.stp.items/steptoroidalsurface/
 ---
 ## StepToroidalSurface class

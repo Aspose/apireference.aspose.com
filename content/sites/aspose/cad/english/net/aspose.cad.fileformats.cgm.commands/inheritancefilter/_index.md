@@ -3,7 +3,7 @@ title: Class InheritanceFilter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.InheritanceFilter class. Class8 ElementId2
 type: docs
-weight: 5790
+weight: 5890
 url: /net/aspose.cad.fileformats.cgm.commands/inheritancefilter/
 ---
 ## InheritanceFilter class

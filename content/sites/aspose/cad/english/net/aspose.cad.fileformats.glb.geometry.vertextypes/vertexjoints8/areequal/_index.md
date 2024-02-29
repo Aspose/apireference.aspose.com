@@ -3,7 +3,7 @@ title: VertexJoints8.AreEqual
 second_title: Aspose.CAD for .NET API Reference
 description: VertexJoints8 method. 
 type: docs
-weight: 120
+weight: 110
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/areequal/
 ---
 ## VertexJoints8.AreEqual method

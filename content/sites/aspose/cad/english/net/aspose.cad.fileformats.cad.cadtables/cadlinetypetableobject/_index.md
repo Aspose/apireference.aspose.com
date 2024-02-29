@@ -3,7 +3,7 @@ title: Class CadLineTypeTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadLineTypeTableObject class. The Cad line type table object
 type: docs
-weight: 4250
+weight: 4340
 url: /net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/
 ---
 ## CadLineTypeTableObject class

@@ -3,7 +3,7 @@ title: Enum JfifDensityUnits
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Jpeg.JfifDensityUnits enum. The jfif density units
 type: docs
-weight: 33720
+weight: 33710
 url: /net/aspose.cad.fileformats.jpeg/jfifdensityunits/
 ---
 ## JfifDensityUnits enumeration

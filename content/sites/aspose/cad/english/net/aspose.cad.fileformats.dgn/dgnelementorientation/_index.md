@@ -3,7 +3,7 @@ title: Enum DgnElementOrientation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElementOrientation enum. Represents element orientation
 type: docs
-weight: 8600
+weight: 8700
 url: /net/aspose.cad.fileformats.dgn/dgnelementorientation/
 ---
 ## DgnElementOrientation enumeration

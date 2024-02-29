@@ -3,7 +3,7 @@ title: Class CadCircle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadCircle class. Class describing Cad circle
 type: docs
-weight: 2430
+weight: 2520
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcircle/
 ---
 ## CadCircle class

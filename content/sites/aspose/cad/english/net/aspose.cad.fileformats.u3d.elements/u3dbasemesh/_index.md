@@ -3,7 +3,7 @@ title: Class U3dBaseMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dBaseMesh class. 
 type: docs
-weight: 35650
+weight: 35640
 url: /net/aspose.cad.fileformats.u3d.elements/u3dbasemesh/
 ---
 ## U3dBaseMesh class

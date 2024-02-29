@@ -3,7 +3,7 @@ title: Class DelimiterElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.DelimiterElements class. 
 type: docs
-weight: 6920
+weight: 7020
 url: /net/aspose.cad.fileformats.cgm.elements/delimiterelements/
 ---
 ## DelimiterElements class

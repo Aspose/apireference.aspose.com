@@ -3,7 +3,7 @@ title: Class DwfWhipObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipObject class. Represents base whip object
 type: docs
-weight: 9800
+weight: 9900
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/
 ---
 ## DwfWhipObject class

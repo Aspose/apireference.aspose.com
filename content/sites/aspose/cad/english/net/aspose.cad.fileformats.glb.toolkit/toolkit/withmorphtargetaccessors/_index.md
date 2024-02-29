@@ -3,7 +3,7 @@ title: Toolkit.WithMorphTargetAccessors
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 470
+weight: 390
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withmorphtargetaccessors/
 ---
 ## Toolkit.WithMorphTargetAccessors method

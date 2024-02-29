@@ -3,7 +3,7 @@ title: Class CadBlockAligmentGrip
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockAligmentGrip class. Class describing CadBlockAligmentGrip object
 type: docs
-weight: 1810
+weight: 1900
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaligmentgrip/
 ---
 ## CadBlockAligmentGrip class

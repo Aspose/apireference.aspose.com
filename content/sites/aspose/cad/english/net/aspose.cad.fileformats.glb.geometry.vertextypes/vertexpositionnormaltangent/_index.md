@@ -3,7 +3,7 @@ title: Struct VertexPositionNormalTangent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexPositionNormalTangent struct. Defines a Vertex attribute with a Position a Normal and a Tangent
 type: docs
-weight: 10660
+weight: 10620
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexpositionnormaltangent/
 ---
 ## VertexPositionNormalTangent structure

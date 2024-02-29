@@ -3,7 +3,7 @@ title: Class IfcMaterialProfile
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialProfile class. IfcMaterialProfile
 type: docs
-weight: 25380
+weight: 25370
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/
 ---
 ## IfcMaterialProfile class

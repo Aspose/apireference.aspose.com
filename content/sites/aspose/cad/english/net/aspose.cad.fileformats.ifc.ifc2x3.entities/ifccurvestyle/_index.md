@@ -3,7 +3,7 @@ title: Class IfcCurveStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCurveStyle class. IfcCurveStyle
 type: docs
-weight: 13280
+weight: 13270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/
 ---
 ## IfcCurveStyle class

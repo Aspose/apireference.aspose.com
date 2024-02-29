@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Png
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles PNG file format processing
 type: docs
-weight: 1030
+weight: 1040
 url: /net/aspose.cad.fileformats.png/
 ---
 The namespace handles PNG file format processing.

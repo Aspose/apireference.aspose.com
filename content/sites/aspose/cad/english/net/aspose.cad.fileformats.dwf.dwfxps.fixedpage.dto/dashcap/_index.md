@@ -3,7 +3,7 @@ title: Enum DashCap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.DashCap enum. The dash cap. The effective render transform of the path being stroked is used to transform the control points of the contour of the dash
 type: docs
-weight: 9180
+weight: 9280
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/dashcap/
 ---
 ## DashCap enumeration

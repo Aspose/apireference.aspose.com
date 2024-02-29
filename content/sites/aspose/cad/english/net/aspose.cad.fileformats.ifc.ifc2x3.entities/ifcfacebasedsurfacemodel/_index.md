@@ -3,7 +3,7 @@ title: Class IfcFaceBasedSurfaceModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFaceBasedSurfaceModel class. Partial IIfc entity class
 type: docs
-weight: 14120
+weight: 14110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacebasedsurfacemodel/
 ---
 ## IfcFaceBasedSurfaceModel class

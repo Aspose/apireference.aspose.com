@@ -3,7 +3,7 @@ title: Class EdgeColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeColour class. 
 type: docs
-weight: 5380
+weight: 5480
 url: /net/aspose.cad.fileformats.cgm.commands/edgecolour/
 ---
 ## EdgeColour class

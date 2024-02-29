@@ -3,7 +3,7 @@ title: NodeCurveSamplers.GetLocalTransform
 second_title: Aspose.CAD for .NET API Reference
 description: NodeCurveSamplers method. 
 type: docs
-weight: 120
+weight: 70
 url: /net/aspose.cad.fileformats.glb/nodecurvesamplers/getlocaltransform/
 ---
 ## NodeCurveSamplers.GetLocalTransform method

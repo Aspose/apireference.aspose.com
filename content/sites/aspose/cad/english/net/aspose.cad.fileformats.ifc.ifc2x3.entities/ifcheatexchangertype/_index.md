@@ -3,7 +3,7 @@ title: Class IfcHeatExchangerType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcHeatExchangerType class. IfcHeatExchangerType
 type: docs
-weight: 14670
+weight: 14660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcheatexchangertype/
 ---
 ## IfcHeatExchangerType class

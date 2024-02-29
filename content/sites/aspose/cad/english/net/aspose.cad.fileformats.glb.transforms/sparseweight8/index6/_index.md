@@ -3,7 +3,7 @@ title: SparseWeight8.Index6
 second_title: Aspose.CAD for .NET API Reference
 description: SparseWeight8 field. 
 type: docs
-weight: 220
+weight: 120
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/index6/
 ---
 ## SparseWeight8.Index6 field

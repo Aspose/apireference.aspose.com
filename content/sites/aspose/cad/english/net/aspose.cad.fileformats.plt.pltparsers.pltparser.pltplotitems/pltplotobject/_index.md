@@ -3,7 +3,7 @@ title: Class PltPlotObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotObject class. The base PLT plot object
 type: docs
-weight: 34000
+weight: 33990
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotobject/
 ---
 ## PltPlotObject class

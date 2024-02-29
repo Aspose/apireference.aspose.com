@@ -3,7 +3,7 @@ title: Enum IfcThermalLoadSourceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcThermalLoadSourceEnum enum. IfcThermalLoadSourceEnum
 type: docs
-weight: 21360
+weight: 21350
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermalloadsourceenum/
 ---
 ## IfcThermalLoadSourceEnum enumeration

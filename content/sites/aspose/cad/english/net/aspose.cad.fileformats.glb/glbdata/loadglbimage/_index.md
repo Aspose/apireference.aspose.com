@@ -1,14 +1,14 @@
 ---
 title: GlbData.LoadGlbImage
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Reads a GlbImage instance from a path pointing to a GLB or a GLTF file
+description: GlbData method. Reads a GlbData instance from a path pointing to a GLB or a GLTF file
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.glb/glbdata/loadglbimage/
 ---
 ## GlbData.LoadGlbImage method
 
-Reads a [`GlbImage`](../../glbimage/) instance from a path pointing to a GLB or a GLTF file
+Reads a [`GlbData`](../) instance from a path pointing to a GLB or a GLTF file
 
 ```csharp
 public static GlbData LoadGlbImage(string filePath, ReadSettings settings = null)
@@ -21,7 +21,7 @@ public static GlbData LoadGlbImage(string filePath, ReadSettings settings = null
 
 ### Return Value
 
-A [`GlbImage`](../../glbimage/) instance.
+A [`GlbData`](../) instance.
 
 ## Remarks
 

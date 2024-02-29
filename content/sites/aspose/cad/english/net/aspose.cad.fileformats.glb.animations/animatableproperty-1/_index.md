@@ -3,7 +3,7 @@ title: Class AnimatablePropertyT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Animations.AnimatableProperty1T class. Represents a property value that can be animated using ICurveSampler
 type: docs
-weight: 10110
+weight: 10210
 url: /net/aspose.cad.fileformats.glb.animations/animatableproperty-1/
 ---
 ## AnimatableProperty&lt;T&gt; class

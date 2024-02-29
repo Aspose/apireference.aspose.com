@@ -3,7 +3,7 @@ title: Class ObjImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Obj.ObjImage class. Represents an image in OBJ format. Contains information about bounds of the drawing materials vertices and shapes. Each shape contains information about set of faces with corresponding material vertex texture and normal indices
 type: docs
-weight: 33820
+weight: 33810
 url: /net/aspose.cad.fileformats.obj/objimage/
 ---
 ## ObjImage class

@@ -3,7 +3,7 @@ title: Enum PngColorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Png.PngColorType enum. Represents the PNG image color type
 type: docs
-weight: 34060
+weight: 34050
 url: /net/aspose.cad.fileformats.png/pngcolortype/
 ---
 ## PngColorType enumeration

@@ -3,7 +3,7 @@ title: Toolkit.WithDoubleSide
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 330
+weight: 250
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withdoubleside/
 ---
 ## Toolkit.WithDoubleSide method

@@ -3,7 +3,7 @@ title: CadTableEntity.PointerIdToOwnerBlock
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the pointer id to owner block
 type: docs
-weight: 130
+weight: 170
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtoownerblock/
 ---
 ## CadTableEntity.PointerIdToOwnerBlock property

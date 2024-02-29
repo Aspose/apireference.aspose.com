@@ -3,7 +3,7 @@ title: Class CircleElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CircleElement class. Class4 ElementId12
 type: docs
-weight: 5020
+weight: 5120
 url: /net/aspose.cad.fileformats.cgm.commands/circleelement/
 ---
 ## CircleElement class

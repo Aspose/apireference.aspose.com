@@ -3,7 +3,7 @@ title: Class ImageBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.ImageBuilder class. Represents an image that can be used at PrimaryImage and FallbackImage
 type: docs
-weight: 10880
+weight: 10830
 url: /net/aspose.cad.fileformats.glb.materials/imagebuilder/
 ---
 ## ImageBuilder class

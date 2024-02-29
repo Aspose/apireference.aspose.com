@@ -3,7 +3,7 @@ title: Class LibraryGeometries
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.LibraryGeometries class. The library geometries. The library_geometries element declares a module of geometry elements
 type: docs
-weight: 7950
+weight: 8050
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarygeometries/
 ---
 ## LibraryGeometries class

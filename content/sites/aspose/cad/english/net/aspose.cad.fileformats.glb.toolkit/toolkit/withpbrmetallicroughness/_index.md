@@ -3,7 +3,7 @@ title: Toolkit.WithPBRMetallicRoughness
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Initializes this Material instance with PBR Metallic Roughness attributes
 type: docs
-weight: 490
+weight: 410
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withpbrmetallicroughness/
 ---
 ## WithPBRMetallicRoughness(this Material) {#withpbrmetallicroughness}

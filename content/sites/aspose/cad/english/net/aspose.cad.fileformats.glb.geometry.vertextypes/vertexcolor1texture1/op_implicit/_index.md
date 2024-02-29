@@ -9,11 +9,12 @@ url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor1texture1/o
 ## VertexColor1Texture1 Implicit operator
 
 ```csharp
-public static implicit operator VertexColor1Texture1((Vector4 Color, Vector2 Tex) tuple)
+public static implicit operator VertexColor1Texture1(VertexColorTextureTuple tuple)
 ```
 
 ### See Also
 
+* struct [VertexColorTextureTuple](../../../aspose.cad.fileformats.glb/vertexcolortexturetuple/)
 * struct [VertexColor1Texture1](../)
 * namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)

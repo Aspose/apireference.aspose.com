@@ -3,7 +3,7 @@ title: Enum ClipInheritance.Value
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ClipInheritanceValue enum. 
 type: docs
-weight: 5100
+weight: 5200
 url: /net/aspose.cad.fileformats.cgm.commands/clipinheritance.value/
 ---
 ## ClipInheritance.Value enumeration

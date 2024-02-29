@@ -3,7 +3,7 @@ title: Class CadAcadProxyEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcadProxyEntity class. Class describing CadAcadProxyEntity
 type: docs
-weight: 2130
+weight: 2220
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/
 ---
 ## CadAcadProxyEntity class

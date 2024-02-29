@@ -3,7 +3,7 @@ title: Toolkit.GetDiffuseColor
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 130
+weight: 70
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/getdiffusecolor/
 ---
 ## Toolkit.GetDiffuseColor method

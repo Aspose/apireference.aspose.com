@@ -3,7 +3,7 @@ title: Class IfcDoorLiningProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDoorLiningProperties class. IfcDoorLiningProperties
 type: docs
-weight: 13620
+weight: 13610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/
 ---
 ## IfcDoorLiningProperties class

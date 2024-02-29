@@ -3,7 +3,7 @@ title: Class CadHeader.SummaryInfoWrapper
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadHeaderSummaryInfoWrapper class. The summary info wrapper for Cad Dxf and Dwg header
 type: docs
-weight: 2690
+weight: 2780
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/
 ---
 ## CadHeader.SummaryInfoWrapper class

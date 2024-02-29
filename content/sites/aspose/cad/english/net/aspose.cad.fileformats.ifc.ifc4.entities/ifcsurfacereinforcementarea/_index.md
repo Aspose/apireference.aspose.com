@@ -3,7 +3,7 @@ title: Class IfcSurfaceReinforcementArea
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceReinforcementArea class. IfcSurfaceReinforcementArea
 type: docs
-weight: 28480
+weight: 28470
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/
 ---
 ## IfcSurfaceReinforcementArea class

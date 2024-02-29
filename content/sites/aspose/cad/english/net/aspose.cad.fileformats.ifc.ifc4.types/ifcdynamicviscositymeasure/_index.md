@@ -3,7 +3,7 @@ title: Class IfcDynamicViscosityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDynamicViscosityMeasure class. IfcDynamicViscosityMeasure
 type: docs
-weight: 30600
+weight: 30590
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdynamicviscositymeasure/
 ---
 ## IfcDynamicViscosityMeasure class

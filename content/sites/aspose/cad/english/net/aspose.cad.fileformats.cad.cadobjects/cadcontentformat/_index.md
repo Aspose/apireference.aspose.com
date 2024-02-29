@@ -3,7 +3,7 @@ title: Class CadContentFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadContentFormat class. Class describing CadContentFormat
 type: docs
-weight: 2460
+weight: 2550
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcontentformat/
 ---
 ## CadContentFormat class

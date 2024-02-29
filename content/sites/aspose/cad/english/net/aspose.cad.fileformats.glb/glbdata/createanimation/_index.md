@@ -1,14 +1,14 @@
 ---
 title: GlbData.CreateAnimation
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Animation instance and adds it to GlbImage.LogicalAnimations
+description: GlbData method. Creates a new Animation instance and adds it to LogicalAnimations
 type: docs
 weight: 280
 url: /net/aspose.cad.fileformats.glb/glbdata/createanimation/
 ---
 ## GlbData.CreateAnimation method
 
-Creates a new [`Animation`](../../animation/) instance and adds it to !:GlbImage.LogicalAnimations.
+Creates a new [`Animation`](../../animation/) instance and adds it to [`LogicalAnimations`](../logicalanimations/).
 
 ```csharp
 public Animation CreateAnimation(string name = null)

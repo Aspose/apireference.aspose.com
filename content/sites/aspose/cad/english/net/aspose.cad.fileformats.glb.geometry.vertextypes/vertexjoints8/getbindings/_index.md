@@ -3,7 +3,7 @@ title: VertexJoints8.GetBindings
 second_title: Aspose.CAD for .NET API Reference
 description: VertexJoints8 method. 
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/getbindings/
 ---
 ## VertexJoints8.GetBindings method

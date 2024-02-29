@@ -3,7 +3,7 @@ title: Class CadSpline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSpline class. Class describing Cad SPLINE
 type: docs
-weight: 3230
+weight: 3320
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/
 ---
 ## CadSpline class

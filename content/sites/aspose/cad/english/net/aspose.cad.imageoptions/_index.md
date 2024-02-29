@@ -3,7 +3,7 @@ title: Aspose.CAD.ImageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes suitable for export save or creation of different file formats
 type: docs
-weight: 1250
+weight: 1260
 url: /net/aspose.cad.imageoptions/
 ---
 The namespace contains classes suitable for export, save or creation of different file formats.
@@ -25,7 +25,7 @@ The namespace contains classes suitable for export, save or creation of differen
 | [FbxOptions](./fbxoptions/) | The Fbx options. |
 | [GifOptions](./gifoptions/) | The gif file format creation options. |
 | [GlbOptions](./glboptions/) | The GLB options. |
-| [GltfOptions](./gltfoptions/) | The GLB options. |
+| [GltfOptions](./gltfoptions/) | The GLTF options. |
 | [GraphicsOptions](./graphicsoptions/) | Represents graphics options for embedded bitmap. |
 | [IfcOptions](./ifcoptions/) | The IFC options. |
 | [ImageOptionsBase](./imageoptionsbase/) | The image base options. |

@@ -3,7 +3,7 @@ title: Class SkinnedTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.SkinnedTransform class. 
 type: docs
-weight: 11740
+weight: 11650
 url: /net/aspose.cad.fileformats.glb.transforms/skinnedtransform/
 ---
 ## SkinnedTransform class

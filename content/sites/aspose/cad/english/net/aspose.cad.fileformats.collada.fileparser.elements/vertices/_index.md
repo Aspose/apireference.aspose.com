@@ -3,7 +3,7 @@ title: Class Vertices
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Vertices class. The vertices. The vertices element declares the attributes and identity of meshvertices. The vertices element describes meshvertices in a mesh geometry. The meshvertices represent the positionidentity of the vertices comprising the mesh and other vertex attributes that are invariant to tessellation
 type: docs
-weight: 8540
+weight: 8640
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/vertices/
 ---
 ## Vertices class

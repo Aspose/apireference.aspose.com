@@ -3,7 +3,7 @@ title: Class IfcRelSchedulesCostItems
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelSchedulesCostItems class. IfcRelSchedulesCostItems
 type: docs
-weight: 16720
+weight: 16710
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelschedulescostitems/
 ---
 ## IfcRelSchedulesCostItems class

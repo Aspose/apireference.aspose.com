@@ -3,7 +3,7 @@ title: SceneBuilder.CreateFrom
 second_title: Aspose.CAD for .NET API Reference
 description: SceneBuilder method. 
 type: docs
-weight: 160
+weight: 140
 url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/createfrom/
 ---
 ## CreateFrom(GlbData) {#createfrom_1}

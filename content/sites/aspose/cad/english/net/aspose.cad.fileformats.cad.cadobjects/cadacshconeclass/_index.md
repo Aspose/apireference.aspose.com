@@ -3,7 +3,7 @@ title: Class CadAcshConeClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcshConeClass class. Class describing CadAcshConeClass object
 type: docs
-weight: 2190
+weight: 2280
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshconeclass/
 ---
 ## CadAcshConeClass class

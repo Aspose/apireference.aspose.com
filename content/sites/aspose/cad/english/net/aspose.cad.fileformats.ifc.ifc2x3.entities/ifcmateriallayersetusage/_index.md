@@ -3,7 +3,7 @@ title: Class IfcMaterialLayerSetUsage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMaterialLayerSetUsage class. IfcMaterialLayerSetUsage
 type: docs
-weight: 15020
+weight: 15010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayersetusage/
 ---
 ## IfcMaterialLayerSetUsage class

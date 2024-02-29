@@ -3,7 +3,7 @@ title: Enum IfcDistributionSystemEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDistributionSystemEnum enum. IfcDistributionSystemEnum
 type: docs
-weight: 30450
+weight: 30440
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdistributionsystemenum/
 ---
 ## IfcDistributionSystemEnum enumeration

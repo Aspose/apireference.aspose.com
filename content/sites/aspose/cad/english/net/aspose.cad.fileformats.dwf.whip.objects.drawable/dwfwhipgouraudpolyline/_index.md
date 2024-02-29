@@ -3,7 +3,7 @@ title: Class DwfWhipGouraudPolyline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipGouraudPolyline class. DwfWhipGouraudPolyline class
 type: docs
-weight: 9600
+weight: 9700
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpolyline/
 ---
 ## DwfWhipGouraudPolyline class

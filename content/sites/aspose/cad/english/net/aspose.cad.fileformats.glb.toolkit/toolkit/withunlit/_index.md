@@ -3,7 +3,7 @@ title: Toolkit.WithUnlit
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Initializes this Material instance with Unlit attributes
 type: docs
-weight: 590
+weight: 510
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withunlit/
 ---
 ## Toolkit.WithUnlit method

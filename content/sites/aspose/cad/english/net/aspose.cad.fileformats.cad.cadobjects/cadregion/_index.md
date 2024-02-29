@@ -3,7 +3,7 @@ title: Class CadRegion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRegion class. The region entity
 type: docs
-weight: 3110
+weight: 3200
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadregion/
 ---
 ## CadRegion class

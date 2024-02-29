@@ -3,7 +3,7 @@ title: Class IfcUnitAssignment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcUnitAssignment class. IfcUnitAssignment
 type: docs
-weight: 29130
+weight: 29120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcunitassignment/
 ---
 ## IfcUnitAssignment class

@@ -3,7 +3,7 @@ title: Enum IfcWindowStyleOperationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWindowStyleOperationEnum enum. IfcWindowStyleOperationEnum
 type: docs
-weight: 33400
+weight: 33390
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwindowstyleoperationenum/
 ---
 ## IfcWindowStyleOperationEnum enumeration

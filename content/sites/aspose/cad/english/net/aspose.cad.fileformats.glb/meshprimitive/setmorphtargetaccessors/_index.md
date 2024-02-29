@@ -3,7 +3,7 @@ title: MeshPrimitive.SetMorphTargetAccessors
 second_title: Aspose.CAD for .NET API Reference
 description: MeshPrimitive method. 
 type: docs
-weight: 190
+weight: 170
 url: /net/aspose.cad.fileformats.glb/meshprimitive/setmorphtargetaccessors/
 ---
 ## MeshPrimitive.SetMorphTargetAccessors method

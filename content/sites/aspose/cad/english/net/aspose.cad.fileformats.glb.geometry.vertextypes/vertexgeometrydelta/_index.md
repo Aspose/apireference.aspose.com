@@ -3,7 +3,7 @@ title: Struct VertexGeometryDelta
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexGeometryDelta struct. Defines a Vertex attribute with a Position a Normal and a Tangent
 type: docs
-weight: 10580
+weight: 10550
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/
 ---
 ## VertexGeometryDelta structure
@@ -36,7 +36,7 @@ public struct VertexGeometryDelta : IEquatable<VertexGeometryDelta>, IVertexGeom
 | [TryGetTangent](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/trygettangent/)(out Vector4) |  |
 | static [AreEqual](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/areequal/)(ref VertexGeometryDelta, ref VertexGeometryDelta) |  |
 | [operator ==](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/op_equality/) |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/op_implicit/#op_implicit) |  (3 operators) |
+| [implicit operator](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/op_implicit/#op_implicit_1) |  (2 operators) |
 | [operator !=](../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/op_inequality/) |  |
 
 ## Fields

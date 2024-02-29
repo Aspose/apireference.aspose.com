@@ -3,7 +3,7 @@ title: Enum TileMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.TileMode enum. The tile mode. Specifies how tiling is performed in the filled geometry
 type: docs
-weight: 9450
+weight: 9550
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/tilemode/
 ---
 ## TileMode enumeration

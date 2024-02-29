@@ -3,7 +3,7 @@ title: Class IfcCurveBoundedPlane
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCurveBoundedPlane class. IfcCurveBoundedPlane
 type: docs
-weight: 23330
+weight: 23320
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/
 ---
 ## IfcCurveBoundedPlane class

@@ -3,7 +3,7 @@ title: Class IfcWarpingConstantMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWarpingConstantMeasure class. IfcWarpingConstantMeasure
 type: docs
-weight: 33330
+weight: 33320
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingconstantmeasure/
 ---
 ## IfcWarpingConstantMeasure class

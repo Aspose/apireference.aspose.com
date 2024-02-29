@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader/summaryinfo/
 Gets the (DWG) summary information.
 
 ```csharp
-public SummaryInfoData SummaryInfo { get; set; }
+public SummaryInfoData SummaryInfo { get; }
 ```
 
 ### Property Value

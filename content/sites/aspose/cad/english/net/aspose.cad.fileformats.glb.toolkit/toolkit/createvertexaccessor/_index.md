@@ -3,7 +3,7 @@ title: Toolkit.CreateVertexAccessor
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 80
+weight: 50
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/createvertexaccessor/
 ---
 ## Toolkit.CreateVertexAccessor method

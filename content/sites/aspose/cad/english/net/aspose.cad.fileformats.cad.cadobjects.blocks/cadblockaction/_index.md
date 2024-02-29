@@ -3,7 +3,7 @@ title: Class CadBlockAction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockAction class. Class describing BLOCKACTION object
 type: docs
-weight: 1790
+weight: 1880
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaction/
 ---
 ## CadBlockAction class

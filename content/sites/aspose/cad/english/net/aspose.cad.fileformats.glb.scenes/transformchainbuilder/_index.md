@@ -3,7 +3,7 @@ title: Struct TransformChainBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.TransformChainBuilder struct. 
 type: docs
-weight: 11500
+weight: 11420
 url: /net/aspose.cad.fileformats.glb.scenes/transformchainbuilder/
 ---
 ## TransformChainBuilder structure

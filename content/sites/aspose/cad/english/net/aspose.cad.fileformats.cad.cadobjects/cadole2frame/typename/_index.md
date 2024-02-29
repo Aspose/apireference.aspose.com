@@ -3,7 +3,7 @@ title: CadOle2Frame.TypeName
 second_title: Aspose.CAD for .NET API Reference
 description: CadOle2Frame property. Gets the name of the type
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/typename/
 ---
 ## CadOle2Frame.TypeName property

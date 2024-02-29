@@ -3,7 +3,7 @@ title: Class IfcCurveStyleFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCurveStyleFont class. IfcCurveStyleFont
 type: docs
-weight: 23360
+weight: 23350
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefont/
 ---
 ## IfcCurveStyleFont class

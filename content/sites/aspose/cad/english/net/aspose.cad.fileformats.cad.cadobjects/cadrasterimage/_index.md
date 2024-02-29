@@ -3,7 +3,7 @@ title: Class CadRasterImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRasterImage class. Class describing Cad raster image
 type: docs
-weight: 3060
+weight: 3150
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/
 ---
 ## CadRasterImage class

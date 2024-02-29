@@ -3,7 +3,7 @@ title: Class CadBoundaryPathCircularArc
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPathCircularArc class. The Cad boundary path circular arc
 type: docs
-weight: 3530
+weight: 3620
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/
 ---
 ## CadBoundaryPathCircularArc class

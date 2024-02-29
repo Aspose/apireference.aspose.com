@@ -3,7 +3,7 @@ title: Class DgnArcElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnArcElement class. Represents arc element
 type: docs
-weight: 8650
+weight: 8750
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnarcelement/
 ---
 ## DgnArcElement class

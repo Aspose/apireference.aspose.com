@@ -3,7 +3,7 @@ title: CadTableEntity.TableDataVersionNumber
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the table data version number
 type: docs
-weight: 180
+weight: 220
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tabledataversionnumber/
 ---
 ## CadTableEntity.TableDataVersionNumber property

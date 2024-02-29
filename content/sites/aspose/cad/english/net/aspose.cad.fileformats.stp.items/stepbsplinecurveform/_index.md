@@ -3,7 +3,7 @@ title: Enum StepBSplineCurveForm
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepBSplineCurveForm enum. BSplineCurveForm enum for STP file
 type: docs
-weight: 34300
+weight: 34290
 url: /net/aspose.cad.fileformats.stp.items/stepbsplinecurveform/
 ---
 ## StepBSplineCurveForm enumeration

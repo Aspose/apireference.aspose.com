@@ -3,7 +3,7 @@ title: CadOle2Frame.OleDataEnd
 second_title: Aspose.CAD for .NET API Reference
 description: CadOle2Frame property. Gets or sets the OLE data end
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/oledataend/
 ---
 ## CadOle2Frame.OleDataEnd property

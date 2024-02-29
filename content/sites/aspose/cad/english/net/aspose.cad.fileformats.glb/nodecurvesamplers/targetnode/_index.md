@@ -3,7 +3,7 @@ title: NodeCurveSamplers.TargetNode
 second_title: Aspose.CAD for .NET API Reference
 description: NodeCurveSamplers field. 
 type: docs
-weight: 90
+weight: 40
 url: /net/aspose.cad.fileformats.glb/nodecurvesamplers/targetnode/
 ---
 ## NodeCurveSamplers.TargetNode field

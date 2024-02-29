@@ -3,7 +3,7 @@ title: Class IfcApproval
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcApproval class. IfcApproval
 type: docs
-weight: 21930
+weight: 21920
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/
 ---
 ## IfcApproval class

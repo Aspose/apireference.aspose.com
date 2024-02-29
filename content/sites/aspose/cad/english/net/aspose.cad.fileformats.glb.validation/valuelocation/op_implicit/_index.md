@@ -3,10 +3,10 @@ title: ValueLocation.op_Implicit
 second_title: Aspose.CAD for .NET API Reference
 description: ValueLocation method. 
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.cad.fileformats.glb.validation/valuelocation/op_implicit/
 ---
-## implicit operator {#op_implicit}
+## implicit operator {#op_implicit_1}
 
 ```csharp
 public static implicit operator ValueLocation(int index)
@@ -20,7 +20,7 @@ public static implicit operator ValueLocation(int index)
 
 ---
 
-## implicit operator {#op_implicit_1}
+## implicit operator {#op_implicit_2}
 
 ```csharp
 public static implicit operator ValueLocation(int? index)
@@ -34,7 +34,7 @@ public static implicit operator ValueLocation(int? index)
 
 ---
 
-## implicit operator {#op_implicit_2}
+## implicit operator {#op_implicit_3}
 
 ```csharp
 public static implicit operator ValueLocation(string name)
@@ -48,14 +48,15 @@ public static implicit operator ValueLocation(string name)
 
 ---
 
-## implicit operator {#op_implicit_3}
+## implicit operator {#op_implicit}
 
 ```csharp
-public static implicit operator ValueLocation((string name, int index) tuple)
+public static implicit operator ValueLocation(ValueLocationTuple tuple)
 ```
 
 ### See Also
 
+* struct [ValueLocationTuple](../../../aspose.cad.fileformats.glb/valuelocationtuple/)
 * struct [ValueLocation](../)
 * namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
@@ -63,20 +64,6 @@ public static implicit operator ValueLocation((string name, int index) tuple)
 ---
 
 ## implicit operator {#op_implicit_4}
-
-```csharp
-public static implicit operator ValueLocation((string name, int? index) tuple)
-```
-
-### See Also
-
-* struct [ValueLocation](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## implicit operator {#op_implicit_5}
 
 ```csharp
 public static implicit operator string(ValueLocation location)

@@ -3,7 +3,7 @@ title: Class DwfWhipLineStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineStyle class. Represents line style
 type: docs
-weight: 9880
+weight: 9980
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/
 ---
 ## DwfWhipLineStyle class

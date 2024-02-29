@@ -3,7 +3,7 @@ title: Class CadTableGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadTableGeometry class. Class describing TABLEGEOMETRY object
 type: docs
-weight: 3290
+weight: 3380
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/
 ---
 ## CadTableGeometry class

@@ -3,7 +3,7 @@ title: RasterImage.Crop
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Cropping the image
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.cad/rasterimage/crop/
 ---
 ## Crop(Rectangle) {#crop}

@@ -3,7 +3,7 @@ title: Enum IfcTendonAnchorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTendonAnchorTypeEnum enum. IfcTendonAnchorTypeEnum
 type: docs
-weight: 32910
+weight: 32900
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctendonanchortypeenum/
 ---
 ## IfcTendonAnchorTypeEnum enumeration

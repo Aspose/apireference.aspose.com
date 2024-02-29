@@ -3,7 +3,7 @@ title: RasterImage.LoadPartialArgb32Pixels
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Loads 32bit ARGB pixels partially by packs
 type: docs
-weight: 320
+weight: 310
 url: /net/aspose.cad/rasterimage/loadpartialargb32pixels/
 ---
 ## RasterImage.LoadPartialArgb32Pixels method

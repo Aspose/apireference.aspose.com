@@ -3,7 +3,7 @@ title: Class CadPolygonMeshVertex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices.CadPolygonMeshVertex class. The Cad polygon mesh vertex
 type: docs
-weight: 4000
+weight: 4090
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadpolygonmeshvertex/
 ---
 ## CadPolygonMeshVertex class

@@ -3,7 +3,7 @@ title: Class CadAttDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities.CadAttDef class. Class describing Cad AttributeDefinitions
 type: docs
-weight: 1720
+weight: 1810
 url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/
 ---
 ## CadAttDef class

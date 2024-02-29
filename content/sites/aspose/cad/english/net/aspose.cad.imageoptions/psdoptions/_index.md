@@ -3,7 +3,7 @@ title: Class PsdOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.PsdOptions class. The psd file format create options
 type: docs
-weight: 36370
+weight: 36360
 url: /net/aspose.cad.imageoptions/psdoptions/
 ---
 ## PsdOptions class
@@ -42,6 +42,7 @@ public class PsdOptions : ImageOptionsBase
 | [UserWatermarkText](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/) { get; set; } | Text for user-generated watermark |
 | [VectorRasterizationOptions](../../aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
 | [Version](../../aspose.cad.imageoptions/psdoptions/version/) { get; set; } | Gets or sets the psd file version. |
+| [WatermarkGuardOptions](../../aspose.cad.imageoptions/imageoptionsbase/watermarkguardoptions/) { get; set; } | Gets or sets the blind watermark options. |
 | override [XmpData](../../aspose.cad.imageoptions/psdoptions/xmpdata/) { get; set; } | Get or set XMP data container |
 
 ### See Also

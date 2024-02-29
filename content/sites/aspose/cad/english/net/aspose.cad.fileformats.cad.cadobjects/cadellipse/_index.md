@@ -3,7 +3,7 @@ title: Class CadEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadEllipse class. Class describing Cad ellipse
 type: docs
-weight: 2570
+weight: 2660
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadellipse/
 ---
 ## CadEllipse class

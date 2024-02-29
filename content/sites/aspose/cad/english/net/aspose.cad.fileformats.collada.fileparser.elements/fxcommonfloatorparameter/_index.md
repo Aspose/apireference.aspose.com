@@ -3,7 +3,7 @@ title: Class FxCommonFloatOrParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonFloatOrParameter class. The FX common float or parameter. Describes the scalar attributes of fixedfunction SHADER elements
 type: docs
-weight: 7700
+weight: 7800
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameter/
 ---
 ## FxCommonFloatOrParameter class

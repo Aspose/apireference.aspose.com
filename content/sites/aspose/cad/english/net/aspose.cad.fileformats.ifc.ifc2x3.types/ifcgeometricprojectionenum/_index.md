@@ -3,7 +3,7 @@ title: Enum IfcGeometricProjectionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcGeometricProjectionEnum enum. IfcGeometricProjectionEnum
 type: docs
-weight: 19690
+weight: 19680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcgeometricprojectionenum/
 ---
 ## IfcGeometricProjectionEnum enumeration

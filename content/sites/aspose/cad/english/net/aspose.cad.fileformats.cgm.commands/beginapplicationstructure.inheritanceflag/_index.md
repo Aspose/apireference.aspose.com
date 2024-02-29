@@ -3,7 +3,7 @@ title: Enum BeginApplicationStructure.InheritanceFlag
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginApplicationStructureInheritanceFlag enum. 
 type: docs
-weight: 4790
+weight: 4890
 url: /net/aspose.cad.fileformats.cgm.commands/beginapplicationstructure.inheritanceflag/
 ---
 ## BeginApplicationStructure.InheritanceFlag enumeration

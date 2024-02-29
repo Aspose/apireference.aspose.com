@@ -3,7 +3,7 @@ title: Class IfcRelConnects
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelConnects class. IfcRelConnects
 type: docs
-weight: 27040
+weight: 27030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects/
 ---
 ## IfcRelConnects class

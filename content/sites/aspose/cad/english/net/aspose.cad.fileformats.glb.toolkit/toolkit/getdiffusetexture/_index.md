@@ -3,7 +3,7 @@ title: Toolkit.GetDiffuseTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 140
+weight: 80
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/getdiffusetexture/
 ---
 ## Toolkit.GetDiffuseTexture method

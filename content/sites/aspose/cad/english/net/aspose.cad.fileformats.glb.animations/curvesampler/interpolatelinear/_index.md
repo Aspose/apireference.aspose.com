@@ -3,7 +3,7 @@ title: CurveSampler.InterpolateLinear
 second_title: Aspose.CAD for .NET API Reference
 description: CurveSampler method. 
 type: docs
-weight: 70
+weight: 30
 url: /net/aspose.cad.fileformats.glb.animations/curvesampler/interpolatelinear/
 ---
 ## CurveSampler.InterpolateLinear method

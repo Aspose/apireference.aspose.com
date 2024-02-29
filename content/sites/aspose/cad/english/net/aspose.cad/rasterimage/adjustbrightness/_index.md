@@ -3,7 +3,7 @@ title: RasterImage.AdjustBrightness
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Adjust of a brightness for image
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.cad/rasterimage/adjustbrightness/
 ---
 ## RasterImage.AdjustBrightness method

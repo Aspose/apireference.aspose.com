@@ -3,7 +3,7 @@ title: Class CadAcdsSchema
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcdsSchema class. Class describing CadAcdsSchema
 type: docs
-weight: 2160
+weight: 2250
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdsschema/
 ---
 ## CadAcdsSchema class

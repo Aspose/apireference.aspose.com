@@ -3,7 +3,7 @@ title: Class DwfWhipLineWeight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineWeight class. Represents weight of line
 type: docs
-weight: 9890
+weight: 9990
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplineweight/
 ---
 ## DwfWhipLineWeight class

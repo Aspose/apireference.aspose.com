@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Tiff.InstanceFactory
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Tiff file format tag factory helper classes and interfaces
 type: docs
-weight: 1190
+weight: 1200
 url: /net/aspose.cad.fileformats.tiff.instancefactory/
 ---
 The namespace contains Tiff file format tag factory helper classes and interfaces.

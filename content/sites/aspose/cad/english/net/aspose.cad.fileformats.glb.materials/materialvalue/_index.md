@@ -3,7 +3,7 @@ title: Struct MaterialValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.MaterialValue struct. 
 type: docs
-weight: 10920
+weight: 10870
 url: /net/aspose.cad.fileformats.glb.materials/materialvalue/
 ---
 ## MaterialValue structure

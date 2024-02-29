@@ -3,7 +3,7 @@ title: Class IfcLineIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLineIndex class. IfcLineIndex
 type: docs
-weight: 31340
+weight: 31330
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclineindex/
 ---
 ## IfcLineIndex class

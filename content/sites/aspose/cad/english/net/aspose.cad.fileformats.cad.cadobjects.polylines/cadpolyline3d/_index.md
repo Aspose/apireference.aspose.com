@@ -3,7 +3,7 @@ title: Class CadPolyline3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Polylines.CadPolyline3D class. The Cad polyline 3 d
 type: docs
-weight: 3800
+weight: 3890
 url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/
 ---
 ## CadPolyline3D class

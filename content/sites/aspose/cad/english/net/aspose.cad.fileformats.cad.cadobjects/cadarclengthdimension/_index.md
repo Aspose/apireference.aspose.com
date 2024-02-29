@@ -3,7 +3,7 @@ title: Class CadArcLengthDimension
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadArcLengthDimension class. The cad arc length dimension
 type: docs
-weight: 2320
+weight: 2410
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/
 ---
 ## CadArcLengthDimension class

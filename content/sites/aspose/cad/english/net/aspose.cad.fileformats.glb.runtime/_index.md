@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Runtime
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB runtimes
 type: docs
-weight: 750
+weight: 760
 url: /net/aspose.cad.fileformats.glb.runtime/
 ---
 The namespace contains entities of GLB runtimes.
@@ -27,9 +27,6 @@ The namespace contains entities of GLB runtimes.
 | Interface | Description |
 | --- | --- |
 | [IDrawableTemplate](./idrawabletemplate/) |  |
-| [IMeshDecoder&lt;TMaterial&gt;](./imeshdecoder-1/) | Exposes an API to allow decoding a geometry mesh. |
-| [IMeshPrimitiveDecoder](./imeshprimitivedecoder/) | Exposes an API to get geometry data from a mesh primitive |
-| [IMeshPrimitiveDecoder&lt;TMaterial&gt;](./imeshprimitivedecoder-1/) | Exposes an API to get geometry data from a mesh primitive |
 ## Enumeration
 
 | Enumeration | Description |

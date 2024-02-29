@@ -3,7 +3,7 @@ title: Class BufferView
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.BufferView class. A view into a buffer generally representing a subset of the buffer
 type: docs
-weight: 10190
+weight: 10290
 url: /net/aspose.cad.fileformats.glb/bufferview/
 ---
 ## BufferView class
@@ -25,8 +25,8 @@ public sealed class BufferView : LogicalChildOfRoot
 | [IsDataBuffer](../../aspose.cad.fileformats.glb/bufferview/isdatabuffer/) { get; } | Gets a value indicating whether this `BufferView` defines a general purpose data buffer. |
 | [IsIndexBuffer](../../aspose.cad.fileformats.glb/bufferview/isindexbuffer/) { get; } | Gets a value indicating whether this `BufferView` defines a GPU Ready Index Buffer. |
 | [IsVertexBuffer](../../aspose.cad.fileformats.glb/bufferview/isvertexbuffer/) { get; } | Gets a value indicating whether this `BufferView` defines a GPU Ready Vertex Buffer. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../glbimage/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbImage`](../glbimage/) instance that owns this object. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
 | [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
 
 ## Methods

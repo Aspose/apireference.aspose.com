@@ -3,7 +3,7 @@ title: Enum UnitType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.UnitType enum. Represents unit types
 type: docs
-weight: 36550
+weight: 36540
 url: /net/aspose.cad.imageoptions/unittype/
 ---
 ## UnitType enumeration

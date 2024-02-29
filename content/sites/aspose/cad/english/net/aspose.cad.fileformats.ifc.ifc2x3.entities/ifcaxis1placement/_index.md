@@ -3,7 +3,7 @@ title: Class IfcAxis1Placement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAxis1Placement class. IfcAxis1Placement
 type: docs
-weight: 12240
+weight: 12230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/
 ---
 ## IfcAxis1Placement class

@@ -3,7 +3,7 @@ title: Class IfcWorkSchedule
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWorkSchedule class. IfcWorkSchedule
 type: docs
-weight: 29440
+weight: 29430
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkschedule/
 ---
 ## IfcWorkSchedule class

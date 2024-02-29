@@ -1,14 +1,14 @@
 ---
 title: LogicalChildOfRoot.LogicalIndex
 second_title: Aspose.CAD for .NET API Reference
-description: LogicalChildOfRoot property. Gets the zerobased index of this object in the Logical resources of GlbImage
+description: LogicalChildOfRoot property. Gets the zerobased index of this object in the Logical resources of GlbData
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/
 ---
 ## LogicalChildOfRoot.LogicalIndex property
 
-Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../../glbimage/).
+Gets the zero-based index of this object in the Logical resources of [`GlbData`](../../glbdata/).
 
 ```csharp
 public int LogicalIndex { get; }

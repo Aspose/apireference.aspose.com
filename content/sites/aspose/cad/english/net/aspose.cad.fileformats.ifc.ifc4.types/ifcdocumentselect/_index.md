@@ -3,7 +3,7 @@ title: Class IfcDocumentSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDocumentSelect class. IfcDocumentSelect
 type: docs
-weight: 30470
+weight: 30460
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdocumentselect/
 ---
 ## IfcDocumentSelect class

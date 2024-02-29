@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Tiff
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles Tiff file format processing
 type: docs
-weight: 1160
+weight: 1170
 url: /net/aspose.cad.fileformats.tiff/
 ---
 The namespace handles Tiff file format processing.

@@ -3,7 +3,7 @@ title: RasterImage.BinarizeFixed
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Binarization of an image with predefined threshold
 type: docs
-weight: 190
+weight: 180
 url: /net/aspose.cad/rasterimage/binarizefixed/
 ---
 ## RasterImage.BinarizeFixed method

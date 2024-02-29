@@ -3,7 +3,7 @@ title: Class InstanceBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.InstanceBuilder class. Represents an element within Instances
 type: docs
-weight: 11400
+weight: 11320
 url: /net/aspose.cad.fileformats.glb.scenes/instancebuilder/
 ---
 ## InstanceBuilder class

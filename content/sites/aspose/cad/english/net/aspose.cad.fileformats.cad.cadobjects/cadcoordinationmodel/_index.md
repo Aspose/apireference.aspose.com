@@ -3,7 +3,7 @@ title: Class CadCoordinationModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadCoordinationModel class. Class describing Coordination Model
 type: docs
-weight: 2470
+weight: 2560
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/
 ---
 ## CadCoordinationModel class

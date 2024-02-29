@@ -3,7 +3,7 @@ title: Class CadPlotSettings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadPlotSettings class. The Cad Plot Settings object
 type: docs
-weight: 3030
+weight: 3120
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/
 ---
 ## CadPlotSettings class

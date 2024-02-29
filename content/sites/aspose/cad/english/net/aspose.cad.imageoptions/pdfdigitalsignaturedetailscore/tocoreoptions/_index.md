@@ -11,7 +11,7 @@ url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/tocoreoptions/
 Converts to core options
 
 ```csharp
-public #=zI8L4sAp1CVmu5FrG3ExHPwKZAGzMS24rO1xxZc9BzmOW ToCoreOptions()
+public #=z4PXYFgzjfPQRk29ZZcSEoHnpVr6j$3wphgGl4k_QBoGC ToCoreOptions()
 ```
 
 ### See Also

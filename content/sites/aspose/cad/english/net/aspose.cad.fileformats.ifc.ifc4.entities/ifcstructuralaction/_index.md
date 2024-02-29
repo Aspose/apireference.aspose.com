@@ -3,7 +3,7 @@ title: Class IfcStructuralAction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralAction class. IfcStructuralAction
 type: docs
-weight: 27990
+weight: 27980
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralaction/
 ---
 ## IfcStructuralAction class

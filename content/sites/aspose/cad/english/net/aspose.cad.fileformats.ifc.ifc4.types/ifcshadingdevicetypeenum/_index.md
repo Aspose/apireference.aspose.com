@@ -3,7 +3,7 @@ title: Enum IfcShadingDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcShadingDeviceTypeEnum enum. IfcShadingDeviceTypeEnum
 type: docs
-weight: 32460
+weight: 32450
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcshadingdevicetypeenum/
 ---
 ## IfcShadingDeviceTypeEnum enumeration

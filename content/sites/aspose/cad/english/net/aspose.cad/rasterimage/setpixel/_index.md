@@ -3,7 +3,7 @@ title: RasterImage.SetPixel
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Sets an image pixel for the specified position
 type: docs
-weight: 460
+weight: 450
 url: /net/aspose.cad/rasterimage/setpixel/
 ---
 ## RasterImage.SetPixel method

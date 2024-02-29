@@ -3,7 +3,7 @@ title: Class Geometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.Geometry class. The geometry. Geometries are used to build visual representations of geometric shapes. The smallest atomic unit in a geometry is a segment. Segments can be lines or curves. One or more segments are combined into a path figure definition. A path figure is a single shape comprised of continuous segments. One or more path figures collectively define an entire path geometry. A path geometry MAY define the fill algorithm to be used on the component path figures
 type: docs
-weight: 9230
+weight: 9330
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/geometry/
 ---
 ## Geometry class

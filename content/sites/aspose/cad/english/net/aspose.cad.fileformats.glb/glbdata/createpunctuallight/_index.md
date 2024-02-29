@@ -1,14 +1,14 @@
 ---
 title: GlbData.CreatePunctualLight
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new PunctualLight instance and adds it to GlbImage.LogicalPunctualLights
+description: GlbData method. Creates a new PunctualLight instance and adds it to LogicalPunctualLights
 type: docs
 weight: 360
 url: /net/aspose.cad.fileformats.glb/glbdata/createpunctuallight/
 ---
 ## CreatePunctualLight(PunctualLightType) {#createpunctuallight}
 
-Creates a new [`PunctualLight`](../../punctuallight/) instance and adds it to !:GlbImage.LogicalPunctualLights.
+Creates a new [`PunctualLight`](../../punctuallight/) instance and adds it to [`LogicalPunctualLights`](../logicalpunctuallights/).
 
 ```csharp
 public PunctualLight CreatePunctualLight(PunctualLightType lightType)
@@ -34,7 +34,7 @@ A [`PunctualLight`](../../punctuallight/) instance.
 
 ## CreatePunctualLight(string, PunctualLightType) {#createpunctuallight_1}
 
-Creates a new [`PunctualLight`](../../punctuallight/) instance. and adds it to !:GlbImage.LogicalPunctualLights.
+Creates a new [`PunctualLight`](../../punctuallight/) instance. and adds it to [`LogicalPunctualLights`](../logicalpunctuallights/).
 
 ```csharp
 public PunctualLight CreatePunctualLight(string name, PunctualLightType lightType)

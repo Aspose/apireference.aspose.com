@@ -3,7 +3,7 @@ title: Class UIntDescending
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.UIntDescending class. Defines a custom comparer for uint type to sort elements in descending order
 type: docs
-weight: 35700
+weight: 35690
 url: /net/aspose.cad.fileformats.u3d.elements/uintdescending/
 ---
 ## UIntDescending class

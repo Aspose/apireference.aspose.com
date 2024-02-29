@@ -3,7 +3,7 @@ title: RasterImage.Resize
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Resizes the image
 type: docs
-weight: 380
+weight: 370
 url: /net/aspose.cad/rasterimage/resize/
 ---
 ## Resize(int, int, ResizeType) {#resize_1}

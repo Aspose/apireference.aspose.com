@@ -3,7 +3,7 @@ title: Enum IfcFanTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFanTypeEnum enum. IfcFanTypeEnum
 type: docs
-weight: 30820
+weight: 30810
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfantypeenum/
 ---
 ## IfcFanTypeEnum enumeration

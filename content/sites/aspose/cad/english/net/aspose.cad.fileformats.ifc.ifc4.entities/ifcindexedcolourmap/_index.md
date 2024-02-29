@@ -3,7 +3,7 @@ title: Class IfcIndexedColourMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedColourMap class. IfcIndexedColourMap
 type: docs
-weight: 24890
+weight: 24880
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/
 ---
 ## IfcIndexedColourMap class

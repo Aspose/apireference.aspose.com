@@ -1,14 +1,14 @@
 ---
 title: GlbData.ReadGLB
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Reads a GlbImage instance from a Stream representing a GLB file
+description: GlbData method. Reads a GlbData instance from a Stream representing a GLB file
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.glb/glbdata/readglb/
 ---
 ## GlbData.ReadGLB method
 
-Reads a [`GlbImage`](../../glbimage/) instance from a Stream representing a GLB file
+Reads a [`GlbData`](../) instance from a Stream representing a GLB file
 
 ```csharp
 public static GlbData ReadGLB(Stream stream, ReadSettings settings = null)
@@ -21,7 +21,7 @@ public static GlbData ReadGLB(Stream stream, ReadSettings settings = null)
 
 ### Return Value
 
-A [`GlbImage`](../../glbimage/) instance.
+A [`GlbData`](../) instance.
 
 ### See Also
 

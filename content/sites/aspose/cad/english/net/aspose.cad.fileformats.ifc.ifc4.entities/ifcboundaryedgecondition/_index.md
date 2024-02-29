@@ -3,7 +3,7 @@ title: Class IfcBoundaryEdgeCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundaryEdgeCondition class. IfcBoundaryEdgeCondition
 type: docs
-weight: 22200
+weight: 22190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/
 ---
 ## IfcBoundaryEdgeCondition class

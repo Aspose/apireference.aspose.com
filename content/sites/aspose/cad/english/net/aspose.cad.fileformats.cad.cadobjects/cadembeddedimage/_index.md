@@ -3,7 +3,7 @@ title: Class CadEmbeddedImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadEmbeddedImage class. Class describing Cad embedded image
 type: docs
-weight: 2580
+weight: 2670
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadembeddedimage/
 ---
 ## CadEmbeddedImage class

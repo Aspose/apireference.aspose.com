@@ -3,7 +3,7 @@ title: Class IfcSchedulingTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSchedulingTime class. IfcSchedulingTime
 type: docs
-weight: 27570
+weight: 27560
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/
 ---
 ## IfcSchedulingTime class

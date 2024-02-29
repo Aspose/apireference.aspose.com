@@ -3,7 +3,7 @@ title: Class CadAcDbAssocVariable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcDbAssocVariable class. Class describing Ac Db Assoc Network
 type: docs
-weight: 2090
+weight: 2180
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdbassocvariable/
 ---
 ## CadAcDbAssocVariable class

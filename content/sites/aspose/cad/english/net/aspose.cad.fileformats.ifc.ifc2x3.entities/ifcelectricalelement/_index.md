@@ -3,7 +3,7 @@ title: Class IfcElectricalElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcElectricalElement class. IfcElectricalElement
 type: docs
-weight: 13860
+weight: 13850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalelement/
 ---
 ## IfcElectricalElement class

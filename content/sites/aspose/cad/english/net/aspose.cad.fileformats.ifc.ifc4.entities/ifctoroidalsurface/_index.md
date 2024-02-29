@@ -3,7 +3,7 @@ title: Class IfcToroidalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcToroidalSurface class. IfcToroidalSurface
 type: docs
-weight: 28980
+weight: 28970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctoroidalsurface/
 ---
 ## IfcToroidalSurface class

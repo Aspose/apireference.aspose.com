@@ -3,7 +3,7 @@ title: Class StepVector
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepVector class. Vector class for STP file
 type: docs
-weight: 34930
+weight: 34920
 url: /net/aspose.cad.fileformats.stp.items/stepvector/
 ---
 ## StepVector class

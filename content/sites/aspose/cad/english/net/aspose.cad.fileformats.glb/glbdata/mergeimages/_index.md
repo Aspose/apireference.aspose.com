@@ -1,14 +1,14 @@
 ---
 title: GlbData.MergeImages
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Transfers all the GlbImage.LogicalImages content into BufferView instances
+description: GlbData method. Transfers all the LogicalImages content into BufferView instances
 type: docs
 weight: 430
 url: /net/aspose.cad.fileformats.glb/glbdata/mergeimages/
 ---
 ## GlbData.MergeImages method
 
-Transfers all the !:GlbImage.LogicalImages content into [`BufferView`](../../bufferview/) instances
+Transfers all the [`LogicalImages`](../logicalimages/) content into [`BufferView`](../../bufferview/) instances
 
 ```csharp
 public void MergeImages()

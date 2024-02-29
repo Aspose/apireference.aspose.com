@@ -3,7 +3,7 @@ title: Class IfcOpeningElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcOpeningElement class. IfcOpeningElement
 type: docs
-weight: 15270
+weight: 15260
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopeningelement/
 ---
 ## IfcOpeningElement class

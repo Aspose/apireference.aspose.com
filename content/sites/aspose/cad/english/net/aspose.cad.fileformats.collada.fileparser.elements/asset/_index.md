@@ -3,7 +3,7 @@ title: Class Asset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Asset class. The COLLADA asset. The asset element defines asset management information regarding its parent element
 type: docs
-weight: 7250
+weight: 7350
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/asset/
 ---
 ## Asset class

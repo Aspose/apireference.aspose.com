@@ -3,7 +3,7 @@ title: Enum IfcElectricMotorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcElectricMotorTypeEnum enum. IfcElectricMotorTypeEnum
 type: docs
-weight: 30690
+weight: 30680
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricmotortypeenum/
 ---
 ## IfcElectricMotorTypeEnum enumeration

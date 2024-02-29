@@ -3,7 +3,7 @@ title: MeshPrimitive.GetVertices
 second_title: Aspose.CAD for .NET API Reference
 description: MeshPrimitive method. 
 type: docs
-weight: 170
+weight: 150
 url: /net/aspose.cad.fileformats.glb/meshprimitive/getvertices/
 ---
 ## MeshPrimitive.GetVertices method

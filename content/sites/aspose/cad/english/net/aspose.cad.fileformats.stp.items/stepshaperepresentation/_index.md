@@ -3,7 +3,7 @@ title: Class StepShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepShapeRepresentation class. ShapeRepresentation class
 type: docs
-weight: 34780
+weight: 34770
 url: /net/aspose.cad.fileformats.stp.items/stepshaperepresentation/
 ---
 ## StepShapeRepresentation class

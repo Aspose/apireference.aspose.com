@@ -3,7 +3,7 @@ title: Toolkit.FindNode
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Finds a Node by name in the current graph
 type: docs
-weight: 120
+weight: 60
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/findnode/
 ---
 ## FindNode(this Scene, Predicate&lt;Node&gt;) {#findnode_1}

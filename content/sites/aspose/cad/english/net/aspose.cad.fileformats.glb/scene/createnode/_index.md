@@ -1,14 +1,14 @@
 ---
 title: Scene.CreateNode
 second_title: Aspose.CAD for .NET API Reference
-description: Scene method. Creates a new Node instance adds it to GlbImage.LogicalNodes and references it as a child in the current graph
+description: Scene method. Creates a new Node instance adds it to LogicalNodes and references it as a child in the current graph
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.glb/scene/createnode/
 ---
 ## Scene.CreateNode method
 
-Creates a new [`Node`](../../node/) instance, adds it to !:GlbImage.LogicalNodes and references it as a child in the current graph.
+Creates a new [`Node`](../../node/) instance, adds it to [`LogicalNodes`](../../glbdata/logicalnodes/) and references it as a child in the current graph.
 
 ```csharp
 public Node CreateNode(string name = null)

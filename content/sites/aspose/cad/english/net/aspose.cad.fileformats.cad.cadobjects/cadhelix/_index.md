@@ -3,7 +3,7 @@ title: Class CadHelix
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadHelix class. Class describing CadHelix
 type: docs
-weight: 2700
+weight: 2790
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadhelix/
 ---
 ## CadHelix class

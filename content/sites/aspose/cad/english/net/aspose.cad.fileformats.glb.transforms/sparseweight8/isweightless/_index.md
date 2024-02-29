@@ -3,7 +3,7 @@ title: SparseWeight8.IsWeightless
 second_title: Aspose.CAD for .NET API Reference
 description: SparseWeight8 property. Gets a value indicating whether all the weights in this SparseWeight8 are zero
 type: docs
-weight: 120
+weight: 20
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/isweightless/
 ---
 ## SparseWeight8.IsWeightless property

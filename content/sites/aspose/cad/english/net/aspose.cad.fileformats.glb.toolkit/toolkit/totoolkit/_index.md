@@ -3,7 +3,7 @@ title: Toolkit.ToToolkit
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 230
+weight: 150
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/totoolkit/
 ---
 ## Toolkit.ToToolkit method

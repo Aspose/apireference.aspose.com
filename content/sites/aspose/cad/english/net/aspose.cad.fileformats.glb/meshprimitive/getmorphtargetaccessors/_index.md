@@ -3,7 +3,7 @@ title: MeshPrimitive.GetMorphTargetAccessors
 second_title: Aspose.CAD for .NET API Reference
 description: MeshPrimitive method. 
 type: docs
-weight: 120
+weight: 110
 url: /net/aspose.cad.fileformats.glb/meshprimitive/getmorphtargetaccessors/
 ---
 ## MeshPrimitive.GetMorphTargetAccessors method

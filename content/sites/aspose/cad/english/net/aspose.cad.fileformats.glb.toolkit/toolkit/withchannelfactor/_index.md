@@ -3,7 +3,7 @@ title: Toolkit.WithChannelFactor
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 280
+weight: 200
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withchannelfactor/
 ---
 ## Toolkit.WithChannelFactor method

@@ -1,14 +1,14 @@
 ---
 title: GlbData.UseTextureSampler
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a TextureSampler instance at GlbImage.LogicalTextureSamplers
+description: GlbData method. Creates or reuses a TextureSampler instance at LogicalTextureSamplers
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.cad.fileformats.glb/glbdata/usetexturesampler/
 ---
 ## GlbData.UseTextureSampler method
 
-Creates or reuses a [`TextureSampler`](../../texturesampler/) instance at !:GlbImage.LogicalTextureSamplers.
+Creates or reuses a [`TextureSampler`](../../texturesampler/) instance at [`LogicalTextureSamplers`](../logicaltexturesamplers/).
 
 ```csharp
 public TextureSampler UseTextureSampler(TextureWrapMode ws, TextureWrapMode wt, 

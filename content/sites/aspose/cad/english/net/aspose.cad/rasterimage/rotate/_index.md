@@ -3,7 +3,7 @@ title: RasterImage.Rotate
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Rotate image around the center
 type: docs
-weight: 390
+weight: 380
 url: /net/aspose.cad/rasterimage/rotate/
 ---
 ## RasterImage.Rotate method

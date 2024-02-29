@@ -3,7 +3,7 @@ title: Class InstanceImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstanceImage class. The instance image
 type: docs
-weight: 7830
+weight: 7930
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instanceimage/
 ---
 ## InstanceImage class

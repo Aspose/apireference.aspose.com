@@ -3,7 +3,7 @@ title: Class CadXLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadXLine class. Class describing CadXLine
 type: docs
-weight: 3400
+weight: 3490
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadxline/
 ---
 ## CadXLine class

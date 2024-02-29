@@ -3,7 +3,7 @@ title: Class CadStyleTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadStyleTableObject class. The Cad style table object
 type: docs
-weight: 4260
+weight: 4350
 url: /net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/
 ---
 ## CadStyleTableObject class

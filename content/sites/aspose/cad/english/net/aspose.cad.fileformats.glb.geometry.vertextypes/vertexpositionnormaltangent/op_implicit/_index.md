@@ -9,12 +9,12 @@ url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexpositionnormalta
 ## VertexPositionNormalTangent Implicit operator
 
 ```csharp
-public static implicit operator VertexPositionNormalTangent(
-    ref (Vector3 Pos, Vector3 Nrm, Vector4 Tgt) tuple)
+public static implicit operator VertexPositionNormalTangent(ref VertexGeometryTuple tuple)
 ```
 
 ### See Also
 
+* struct [VertexGeometryTuple](../../../aspose.cad.fileformats.glb/vertexgeometrytuple/)
 * struct [VertexPositionNormalTangent](../)
 * namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)

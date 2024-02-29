@@ -3,7 +3,7 @@ title: Class DwfWhipLineCapStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineCapStyle class. Represents line cap style
 type: docs
-weight: 9860
+weight: 9960
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/
 ---
 ## DwfWhipLineCapStyle class

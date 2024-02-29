@@ -3,7 +3,7 @@ title: Enum IfcLaborResourceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLaborResourceTypeEnum enum. IfcLaborResourceTypeEnum
 type: docs
-weight: 31230
+weight: 31220
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclaborresourcetypeenum/
 ---
 ## IfcLaborResourceTypeEnum enumeration

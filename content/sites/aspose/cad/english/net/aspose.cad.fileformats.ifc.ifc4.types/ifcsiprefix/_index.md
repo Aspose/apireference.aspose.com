@@ -3,7 +3,7 @@ title: Enum IfcSIPrefix
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSIPrefix enum. IfcSIPrefix
 type: docs
-weight: 32370
+weight: 32360
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsiprefix/
 ---
 ## IfcSIPrefix enumeration

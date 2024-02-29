@@ -3,7 +3,7 @@ title: Class CameraOpticsTechniqueCommonOrthographic
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.CameraOpticsTechniqueCommonOrthographic class. The camera optics technique common orthographic. Describes the field of view of an orthographic camera
 type: docs
-weight: 7350
+weight: 7450
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/
 ---
 ## CameraOpticsTechniqueCommonOrthographic class

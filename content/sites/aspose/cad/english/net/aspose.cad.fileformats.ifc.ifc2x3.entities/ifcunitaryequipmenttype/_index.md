@@ -3,7 +3,7 @@ title: Class IfcUnitaryEquipmentType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcUnitaryEquipmentType class. IfcUnitaryEquipmentType
 type: docs
-weight: 18210
+weight: 18200
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcunitaryequipmenttype/
 ---
 ## IfcUnitaryEquipmentType class

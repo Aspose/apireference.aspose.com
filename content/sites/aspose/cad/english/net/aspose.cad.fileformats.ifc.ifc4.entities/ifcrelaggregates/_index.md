@@ -3,7 +3,7 @@ title: Class IfcRelAggregates
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelAggregates class. IfcRelAggregates
 type: docs
-weight: 26880
+weight: 26870
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelaggregates/
 ---
 ## IfcRelAggregates class

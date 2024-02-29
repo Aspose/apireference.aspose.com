@@ -3,7 +3,7 @@ title: Class DgnCircle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnCircle class. Represents circle
 type: docs
-weight: 8570
+weight: 8670
 url: /net/aspose.cad.fileformats.dgn/dgncircle/
 ---
 ## DgnCircle class

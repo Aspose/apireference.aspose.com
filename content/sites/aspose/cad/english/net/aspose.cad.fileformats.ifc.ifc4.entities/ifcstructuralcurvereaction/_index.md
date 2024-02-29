@@ -3,7 +3,7 @@ title: Class IfcStructuralCurveReaction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralCurveReaction class. IfcStructuralCurveReaction
 type: docs
-weight: 28080
+weight: 28070
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurvereaction/
 ---
 ## IfcStructuralCurveReaction class

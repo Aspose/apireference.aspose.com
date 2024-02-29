@@ -3,7 +3,7 @@ title: Class AnimationChannel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AnimationChannel class. 
 type: docs
-weight: 10090
+weight: 10190
 url: /net/aspose.cad.fileformats.glb/animationchannel/
 ---
 ## AnimationChannel class
@@ -18,7 +18,7 @@ public sealed class AnimationChannel : ExtraProperties, IChildOf<Animation>
 | --- | --- |
 | [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
 | [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/animationchannel/logicalindex/) { get; } | Gets the zero-based index of this [`Animation`](../animation/) at !:GlbImage.LogicalAnimations |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/animationchannel/logicalindex/) { get; } | Gets the zero-based index of this [`Animation`](../animation/) at [`LogicalAnimations`](../glbdata/logicalanimations/) |
 | [LogicalParent](../../aspose.cad.fileformats.glb/animationchannel/logicalparent/) { get; } | Gets the [`Animation`](../animation/) instance that owns this object. |
 | [TargetNode](../../aspose.cad.fileformats.glb/animationchannel/targetnode/) { get; } | Gets the [`Node`](../node/) which property is to be bound with this animation. |
 | [TargetNodePath](../../aspose.cad.fileformats.glb/animationchannel/targetnodepath/) { get; } | Gets which property of the [`Node`](../node/) pointed by [`TargetNode`](./targetnode/) is to be bound with this animation. |
@@ -28,11 +28,6 @@ public sealed class AnimationChannel : ExtraProperties, IChildOf<Animation>
 | Name | Description |
 | --- | --- |
 | [GetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/getextension/)() |  |
-| [GetMorphSampler](../../aspose.cad.fileformats.glb/animationchannel/getmorphsampler/)() |  |
-| [GetRotationSampler](../../aspose.cad.fileformats.glb/animationchannel/getrotationsampler/)() |  |
-| [GetScaleSampler](../../aspose.cad.fileformats.glb/animationchannel/getscalesampler/)() |  |
-| [GetSparseMorphSampler](../../aspose.cad.fileformats.glb/animationchannel/getsparsemorphsampler/)() |  |
-| [GetTranslationSampler](../../aspose.cad.fileformats.glb/animationchannel/gettranslationsampler/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)(T) |  |
 | [SetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/setextension/)(T) |  |

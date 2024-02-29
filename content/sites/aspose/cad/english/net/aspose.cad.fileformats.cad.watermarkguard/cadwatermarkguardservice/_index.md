@@ -3,7 +3,7 @@ title: Class CadWatermarkGuardService
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.WatermarkGuard.CadWatermarkGuardService class. 
 type: docs
-weight: 4490
+weight: 4590
 url: /net/aspose.cad.fileformats.cad.watermarkguard/cadwatermarkguardservice/
 ---
 ## CadWatermarkGuardService class

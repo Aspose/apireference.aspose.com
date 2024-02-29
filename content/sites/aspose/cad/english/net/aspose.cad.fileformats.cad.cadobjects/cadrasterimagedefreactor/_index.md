@@ -3,7 +3,7 @@ title: Class CadRasterImageDefReactor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRasterImageDefReactor class. The Cad raster image definition reactor object
 type: docs
-weight: 3090
+weight: 3180
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedefreactor/
 ---
 ## CadRasterImageDefReactor class

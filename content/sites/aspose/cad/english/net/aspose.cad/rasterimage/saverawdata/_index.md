@@ -3,7 +3,7 @@ title: RasterImage.SaveRawData
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Saves the raw data
 type: docs
-weight: 430
+weight: 420
 url: /net/aspose.cad/rasterimage/saverawdata/
 ---
 ## RasterImage.SaveRawData method

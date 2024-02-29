@@ -3,7 +3,7 @@ title: Class IfcStructuralPointAction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralPointAction class. IfcStructuralPointAction
 type: docs
-weight: 28260
+weight: 28250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralpointaction/
 ---
 ## IfcStructuralPointAction class

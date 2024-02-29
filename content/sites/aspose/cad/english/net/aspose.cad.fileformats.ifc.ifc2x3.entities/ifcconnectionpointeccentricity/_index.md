@@ -3,7 +3,7 @@ title: Class IfcConnectionPointEccentricity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConnectionPointEccentricity class. IfcConnectionPointEccentricity
 type: docs
-weight: 12940
+weight: 12930
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointeccentricity/
 ---
 ## IfcConnectionPointEccentricity class

@@ -3,7 +3,7 @@ title: Matrix4x4Double.op_Multiply
 second_title: Aspose.CAD for .NET API Reference
 description: Matrix4x4Double method. Multiplies a matrix by another matrix
 type: docs
-weight: 310
+weight: 300
 url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4double/op_multiply/
 ---
 ## Matrix4x4Double Multiply operator

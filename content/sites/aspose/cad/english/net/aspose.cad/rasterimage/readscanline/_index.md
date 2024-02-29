@@ -3,7 +3,7 @@ title: RasterImage.ReadScanLine
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Reads the whole scan line by the specified scan line index
 type: docs
-weight: 360
+weight: 350
 url: /net/aspose.cad/rasterimage/readscanline/
 ---
 ## RasterImage.ReadScanLine method

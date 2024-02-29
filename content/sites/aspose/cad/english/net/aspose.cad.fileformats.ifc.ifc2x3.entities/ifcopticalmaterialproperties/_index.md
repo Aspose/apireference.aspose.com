@@ -3,7 +3,7 @@ title: Class IfcOpticalMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcOpticalMaterialProperties class. IfcOpticalMaterialProperties
 type: docs
-weight: 15280
+weight: 15270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/
 ---
 ## IfcOpticalMaterialProperties class

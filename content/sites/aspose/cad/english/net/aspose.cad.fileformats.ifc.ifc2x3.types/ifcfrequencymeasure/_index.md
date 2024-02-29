@@ -3,7 +3,7 @@ title: Class IfcFrequencyMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcFrequencyMeasure class. IfcFrequencyMeasure
 type: docs
-weight: 19670
+weight: 19660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfrequencymeasure/
 ---
 ## IfcFrequencyMeasure class

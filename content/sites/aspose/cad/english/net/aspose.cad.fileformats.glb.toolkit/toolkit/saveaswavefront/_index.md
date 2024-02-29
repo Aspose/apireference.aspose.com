@@ -3,7 +3,7 @@ title: Toolkit.SaveAsWavefront
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 170
+weight: 110
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/saveaswavefront/
 ---
 ## SaveAsWavefront(this GlbData, string) {#saveaswavefront}

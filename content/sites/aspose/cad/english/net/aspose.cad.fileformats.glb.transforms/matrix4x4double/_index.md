@@ -3,7 +3,7 @@ title: Struct Matrix4x4Double
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.Matrix4x4Double struct. 
 type: docs
-weight: 11680
+weight: 11590
 url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4double/
 ---
 ## Matrix4x4Double structure
@@ -24,7 +24,6 @@ public struct Matrix4x4Double : IEquatable<Matrix4x4Double>
 | Name | Description |
 | --- | --- |
 | static [Identity](../../aspose.cad.fileformats.glb.transforms/matrix4x4double/identity/) { get; } | Returns the multiplicative identity matrix. |
-| [Translation](../../aspose.cad.fileformats.glb.transforms/matrix4x4double/translation/) { get; set; } | Gets or sets the translation component of this matrix. |
 
 ## Methods
 

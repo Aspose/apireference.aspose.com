@@ -3,7 +3,7 @@ title: RasterImage.LoadPixels
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Loads pixels
 type: docs
-weight: 340
+weight: 330
 url: /net/aspose.cad/rasterimage/loadpixels/
 ---
 ## RasterImage.LoadPixels method

@@ -3,7 +3,7 @@ title: Class IfcGeneralProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGeneralProfileProperties class. IfcGeneralProfileProperties
 type: docs
-weight: 14560
+weight: 14550
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/
 ---
 ## IfcGeneralProfileProperties class

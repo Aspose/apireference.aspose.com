@@ -3,7 +3,7 @@ title: RasterImage.GetDefaultArgb32Pixels
 second_title: Aspose.CAD for .NET API Reference
 description: RasterImage method. Gets the default 32bit ARGB pixels array
 type: docs
-weight: 250
+weight: 240
 url: /net/aspose.cad/rasterimage/getdefaultargb32pixels/
 ---
 ## RasterImage.GetDefaultArgb32Pixels method

@@ -3,7 +3,7 @@ title: Class IfcActionRequest
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcActionRequest class. IfcActionRequest
 type: docs
-weight: 11930
+weight: 11920
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactionrequest/
 ---
 ## IfcActionRequest class

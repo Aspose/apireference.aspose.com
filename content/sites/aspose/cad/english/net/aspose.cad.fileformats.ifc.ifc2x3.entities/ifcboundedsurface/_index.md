@@ -3,7 +3,7 @@ title: Class IfcBoundedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBoundedSurface class. IfcBoundedSurface
 type: docs
-weight: 12420
+weight: 12410
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundedsurface/
 ---
 ## IfcBoundedSurface class

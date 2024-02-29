@@ -3,7 +3,7 @@ title: Toolkit.WithChannelTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 300
+weight: 220
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withchanneltexture/
 ---
 ## WithChannelTexture(this Material, string, int, string) {#withchanneltexture_1}

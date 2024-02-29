@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Ifc.Header
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of IFC header
 type: docs
-weight: 820
+weight: 830
 url: /net/aspose.cad.fileformats.ifc.header/
 ---
 The namespace contains entities of IFC header.

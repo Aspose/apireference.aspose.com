@@ -3,7 +3,7 @@ title: Struct U3dLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dLine struct. 
 type: docs
-weight: 35670
+weight: 35660
 url: /net/aspose.cad.fileformats.u3d.elements/u3dline/
 ---
 ## U3dLine structure

@@ -3,7 +3,7 @@ title: Toolkit.UseImageWithContent
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. Creates or reuses an GlbImage with the image content set by image
 type: docs
-weight: 250
+weight: 170
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/useimagewithcontent/
 ---
 ## Toolkit.UseImageWithContent method

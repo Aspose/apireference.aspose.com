@@ -3,7 +3,7 @@ title: CadTableEntity.TextStyleName
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the text style name
 type: docs
-weight: 190
+weight: 230
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/textstylename/
 ---
 ## CadTableEntity.TextStyleName property

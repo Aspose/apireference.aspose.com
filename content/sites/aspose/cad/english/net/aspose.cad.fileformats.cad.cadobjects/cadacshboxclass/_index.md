@@ -3,7 +3,7 @@ title: Class CadAcshBoxClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcshBoxClass class. Class describing CadAcshBoxClass object
 type: docs
-weight: 2180
+weight: 2270
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshboxclass/
 ---
 ## CadAcshBoxClass class

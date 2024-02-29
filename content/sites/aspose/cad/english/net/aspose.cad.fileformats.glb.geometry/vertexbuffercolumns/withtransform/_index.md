@@ -3,7 +3,7 @@ title: VertexBufferColumns.WithTransform
 second_title: Aspose.CAD for .NET API Reference
 description: VertexBufferColumns method. 
 type: docs
-weight: 200
+weight: 190
 url: /net/aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/withtransform/
 ---
 ## VertexBufferColumns.WithTransform method

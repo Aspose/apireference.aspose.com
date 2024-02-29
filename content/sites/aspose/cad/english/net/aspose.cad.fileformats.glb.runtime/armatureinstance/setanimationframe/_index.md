@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.glb.runtime/armatureinstance/setanimationframe/
 ---
-## SetAnimationFrame(int, float, bool) {#setanimationframe}
+## ArmatureInstance.SetAnimationFrame method
 
 Sets the bone transforms from an animation frame.
 
@@ -22,36 +22,6 @@ public void SetAnimationFrame(int trackLogicalIndex, float time, bool looped = t
 
 ### See Also
 
-* class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## SetAnimationFrame(params (int TrackIdx, float Time, float Weight)[]) {#setanimationframe_1}
-
-```csharp
-public void SetAnimationFrame(params (int TrackIdx, float Time, float Weight)[] blended)
-```
-
-### See Also
-
-* class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## SetAnimationFrame(IEnumerable&lt;NodeInstance&gt;, params (int TrackIdx, float Time, float Weight)[])
-
-```csharp
-public static void SetAnimationFrame(IEnumerable<NodeInstance> nodes, 
-    params (int TrackIdx, float Time, float Weight)[] blended)
-```
-
-### See Also
-
-* class [NodeInstance](../../nodeinstance/)
 * class [ArmatureInstance](../)
 * namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)

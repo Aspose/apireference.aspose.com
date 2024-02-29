@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadSingleForceWarping
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralLoadSingleForceWarping class. IfcStructuralLoadSingleForceWarping
 type: docs
-weight: 28210
+weight: 28200
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforcewarping/
 ---
 ## IfcStructuralLoadSingleForceWarping class

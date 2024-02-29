@@ -3,7 +3,7 @@ title: Class IfcSpace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSpace class. IfcSpace
 type: docs
-weight: 27810
+weight: 27800
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspace/
 ---
 ## IfcSpace class

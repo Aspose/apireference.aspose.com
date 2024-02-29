@@ -3,7 +3,7 @@ title: CadTableEntity.VerticalCellMargin
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the vertical cell margin
 type: docs
-weight: 210
+weight: 250
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/verticalcellmargin/
 ---
 ## CadTableEntity.VerticalCellMargin property

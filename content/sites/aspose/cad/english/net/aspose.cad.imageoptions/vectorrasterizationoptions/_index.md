@@ -3,7 +3,7 @@ title: Class VectorRasterizationOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.VectorRasterizationOptions class. The vector rasterization options
 type: docs
-weight: 36560
+weight: 36550
 url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/
 ---
 ## VectorRasterizationOptions class

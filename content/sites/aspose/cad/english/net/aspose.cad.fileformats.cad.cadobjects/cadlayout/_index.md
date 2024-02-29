@@ -3,7 +3,7 @@ title: Class CadLayout
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLayout class. The Cad layout object
 type: docs
-weight: 2740
+weight: 2830
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/
 ---
 ## CadLayout class

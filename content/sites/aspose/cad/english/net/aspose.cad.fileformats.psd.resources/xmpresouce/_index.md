@@ -3,7 +3,7 @@ title: Class XmpResouce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.Resources.XmpResouce class. Represents the XMP metadata resource
 type: docs
-weight: 34170
+weight: 34160
 url: /net/aspose.cad.fileformats.psd.resources/xmpresouce/
 ---
 ## XmpResouce class
@@ -30,7 +30,6 @@ public sealed class XmpResouce : ResourceBlock
 | [Name](../../aspose.cad.fileformats.psd/resourceblock/name/) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
 | [Signature](../../aspose.cad.fileformats.psd/resourceblock/signature/) { get; } | Gets the resource signature. Should be always '8BIM'. |
 | [Size](../../aspose.cad.fileformats.psd/resourceblock/size/) { get; } | Gets the resource block size in bytes including its data. |
-| [XmpData](../../aspose.cad.fileformats.psd.resources/xmpresouce/xmpdata/) { get; set; } | Get or set XMP data container |
 
 ## Methods
 

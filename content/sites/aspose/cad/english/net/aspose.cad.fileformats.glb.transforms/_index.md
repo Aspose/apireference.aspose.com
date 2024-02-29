@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Transforms
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB transformations
 type: docs
-weight: 790
+weight: 800
 url: /net/aspose.cad.fileformats.glb.transforms/
 ---
 The namespace contains entities of GLB transformations.

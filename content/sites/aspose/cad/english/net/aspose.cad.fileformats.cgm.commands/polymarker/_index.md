@@ -3,7 +3,7 @@ title: Class PolyMarker
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PolyMarker class. Class4 ElementId3
 type: docs
-weight: 6300
+weight: 6400
 url: /net/aspose.cad.fileformats.cgm.commands/polymarker/
 ---
 ## PolyMarker class

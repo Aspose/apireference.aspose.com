@@ -3,7 +3,7 @@ title: Class CadSeqend
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSeqend class. Class describing Cad SEQEND. For CadConsts.CadSubClassName.SEQEND type
 type: docs
-weight: 3160
+weight: 3250
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadseqend/
 ---
 ## CadSeqend class

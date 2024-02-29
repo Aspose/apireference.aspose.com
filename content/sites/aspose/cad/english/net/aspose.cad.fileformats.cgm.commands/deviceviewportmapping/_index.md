@@ -3,7 +3,7 @@ title: Class DeviceViewportMapping
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewportMapping class. 
 type: docs
-weight: 5280
+weight: 5380
 url: /net/aspose.cad.fileformats.cgm.commands/deviceviewportmapping/
 ---
 ## DeviceViewportMapping class

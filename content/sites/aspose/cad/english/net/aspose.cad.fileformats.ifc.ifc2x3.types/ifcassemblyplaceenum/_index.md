@@ -3,7 +3,7 @@ title: Enum IfcAssemblyPlaceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcAssemblyPlaceEnum enum. IfcAssemblyPlaceEnum
 type: docs
-weight: 18640
+weight: 18630
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcassemblyplaceenum/
 ---
 ## IfcAssemblyPlaceEnum enumeration

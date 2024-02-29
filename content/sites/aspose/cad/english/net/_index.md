@@ -52,6 +52,7 @@ is_root: true
 | [Aspose.CAD.FileFormats.Cad.Dwg.R2004](./aspose.cad.fileformats.cad.dwg.r2004/) | The namespace contains the class with the checksum of the section page data. |
 | [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](./aspose.cad.fileformats.cad.dwg.revhistory/) | The namespace handles the revision history of the DWG file. |
 | [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](./aspose.cad.fileformats.cad.dwg.summaryinfo/) | The namespace contains the class with the summary information data. |
+| [Aspose.CAD.FileFormats.Cad.Dwg.VbaProject](./aspose.cad.fileformats.cad.dwg.vbaproject/) |  |
 | [Aspose.CAD.FileFormats.Cad.Geometry](./aspose.cad.fileformats.cad.geometry/) | The namespace handles CAD geometry objects. |
 | [Aspose.CAD.FileFormats.Cad.WatermarkGuard](./aspose.cad.fileformats.cad.watermarkguard/) |  |
 | [Aspose.CAD.FileFormats.CF2](./aspose.cad.fileformats.cf2/) | The namespace handles CF2 related file formats processing. |
@@ -143,24 +144,5 @@ is_root: true
 | [Aspose.CAD.Sources](./aspose.cad.sources/) | Namespace contains different stream sources which are suitable for input or output data flow. |
 | [Aspose.CAD.TimeProvision](./aspose.cad.timeprovision/) | The namespace contains classes that can be used to set up artificial timestamps for output files (only for output to DWF currently). |
 | [Aspose.CAD.WatermarkGuard](./aspose.cad.watermarkguard/) |  |
-| [Aspose.CAD.Xmp](./aspose.cad.xmp/) | The namespace contains XMP related helper classes and methods. |
-| [Aspose.CAD.Xmp.Schemas.DublinCore](./aspose.cad.xmp.schemas.dublincore/) | The namespace contains Dublin Core metadata related helper classes, constants and methods. |
-| [Aspose.CAD.Xmp.Schemas.Pdf](./aspose.cad.xmp.schemas.pdf/) | The namespace contains related helper classes, constants and methods used with Adobe PDF documents. |
-| [Aspose.CAD.Xmp.Schemas.Photoshop](./aspose.cad.xmp.schemas.photoshop/) | The namespace contains related helper classes, constants and methods used by Adobe Photoshop. |
-| [Aspose.CAD.Xmp.Schemas.XmpBaseSchema](./aspose.cad.xmp.schemas.xmpbaseschema/) | The namespace contains the XMP Basic Schema related helper classes, constants and methods that provide basic descriptive information. |
-| [Aspose.CAD.Xmp.Schemas.XmpDm](./aspose.cad.xmp.schemas.xmpdm/) | The namespace contains XMP related helper classes, constants and methods used by the Adobe dynamic media group. |
-| [Aspose.CAD.Xmp.Schemas.XmpMm](./aspose.cad.xmp.schemas.xmpmm/) | The namespace contains related helper classes, constants and methods that is primarily used by digital asset management (DAM) systems. |
-| [Aspose.CAD.Xmp.Schemas.XmpRm](./aspose.cad.xmp.schemas.xmprm/) | The namespace contains related to rights management helper classes, constants and methods. These properties specify information regarding the legal restrictions associated with a resource. |
-| [Aspose.CAD.Xmp.Types](./aspose.cad.xmp.types/) | The namespace contains classes that represent the values of XMP properties in three basic categories: basic types, complex and derived types. |
-| [Aspose.CAD.Xmp.Types.Basic](./aspose.cad.xmp.types.basic/) | The namespace contains classes that represent the basic type values of XMP properties. |
-| [Aspose.CAD.Xmp.Types.Complex](./aspose.cad.xmp.types.complex/) | The namespace contains classes that represent the complex type values of XMP properties. |
-| [Aspose.CAD.Xmp.Types.Complex.Colorant](./aspose.cad.xmp.types.complex.colorant/) | The namespace contains classes that represent the structures containing the characteristics of a colorant (swatch) used in a document. |
-| [Aspose.CAD.Xmp.Types.Complex.Dimensions](./aspose.cad.xmp.types.complex.dimensions/) | The namespace contains classes that represent the structure containing dimensions for a drawn object. |
-| [Aspose.CAD.Xmp.Types.Complex.Font](./aspose.cad.xmp.types.complex.font/) | The namespace contains classes that represent the structure containing the characteristics of a font used in a document. |
-| [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](./aspose.cad.xmp.types.complex.resourceevent/) | The namespace contains class that is a high level event that occured in the processing of this document. |
-| [Aspose.CAD.Xmp.Types.Complex.ResourceRef](./aspose.cad.xmp.types.complex.resourceref/) | The namespace contains class that is a multiple part reference to a resource. Used to indicate prior versions, originals of renditions, originals for derived documents, and so on. |
-| [Aspose.CAD.Xmp.Types.Complex.Thumbnail](./aspose.cad.xmp.types.complex.thumbnail/) | The namespace contains class that is a thumbnail image for a file. |
-| [Aspose.CAD.Xmp.Types.Complex.Version](./aspose.cad.xmp.types.complex.version/) | The namespace contains classes that describe one version of a document. |
-| [Aspose.CAD.Xmp.Types.Derived](./aspose.cad.xmp.types.derived/) | The namespace contains classes that represent the derived type values of XMP properties. |
 
 

@@ -3,7 +3,7 @@ title: Class FixedTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.FixedTransformer class. Represents the transform of a Content. Applies a fixed Matrix4x4 transform to the underlaying content
 type: docs
-weight: 11390
+weight: 11310
 url: /net/aspose.cad.fileformats.glb.scenes/fixedtransformer/
 ---
 ## FixedTransformer class
@@ -32,7 +32,6 @@ public class FixedTransformer : ContentTransformer
 | override [DeepClone](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/deepclone/)(DeepCloneContext) |  |
 | override [GetArmatureRoot](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/getarmatureroot/)() |  |
 | [GetCameraAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getcameraasset/)() | It this [`ContentTransformer`](../contenttransformer/) contains a [`CameraBuilder`](../camerabuilder/) |
-| [GetGeometryAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getgeometryasset/)() | If this [`ContentTransformer`](../contenttransformer/) contains a [`IMeshBuilder`](../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/). |
 | [GetLightAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getlightasset/)() | It this [`ContentTransformer`](../contenttransformer/) contains a [`LightBuilder`](../lightbuilder/) |
 | override [GetPoseWorldMatrix](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/getposeworldmatrix/)() |  |
 | [UseMorphing](../../aspose.cad.fileformats.glb.scenes/contenttransformer/usemorphing/)() |  |

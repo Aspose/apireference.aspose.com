@@ -3,7 +3,7 @@ title: Class BeginMetafile
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginMetafile class. 
 type: docs
-weight: 4840
+weight: 4940
 url: /net/aspose.cad.fileformats.cgm.commands/beginmetafile/
 ---
 ## BeginMetafile class

@@ -3,7 +3,7 @@ title: Class CgmColor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.CgmColor class. Represents a color parameter type
 type: docs
-weight: 4540
+weight: 4640
 url: /net/aspose.cad.fileformats.cgm.classes/cgmcolor/
 ---
 ## CgmColor class

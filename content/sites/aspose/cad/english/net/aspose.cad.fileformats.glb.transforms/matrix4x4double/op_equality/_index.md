@@ -3,7 +3,7 @@ title: Matrix4x4Double.op_Equality
 second_title: Aspose.CAD for .NET API Reference
 description: Matrix4x4Double method. Returns a boolean indicating whether the given two matrices are equal
 type: docs
-weight: 270
+weight: 260
 url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4double/op_equality/
 ---
 ## Matrix4x4Double Equality operator

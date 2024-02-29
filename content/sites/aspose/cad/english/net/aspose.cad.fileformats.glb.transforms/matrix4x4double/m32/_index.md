@@ -3,7 +3,7 @@ title: Matrix4x4Double.M32
 second_title: Aspose.CAD for .NET API Reference
 description: Matrix4x4Double field. Value at row 3 column 2 of the matrix
 type: docs
-weight: 170
+weight: 160
 url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4double/m32/
 ---
 ## Matrix4x4Double.M32 field

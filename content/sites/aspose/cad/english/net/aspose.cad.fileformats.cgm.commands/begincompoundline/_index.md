@@ -3,7 +3,7 @@ title: Class BeginCompoundLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginCompoundLine class. 
 type: docs
-weight: 4810
+weight: 4910
 url: /net/aspose.cad.fileformats.cgm.commands/begincompoundline/
 ---
 ## BeginCompoundLine class

@@ -3,7 +3,7 @@ title: Class CadOle2Frame
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadOle2Frame class. The Cad OLE2FRAME
 type: docs
-weight: 2980
+weight: 3070
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/
 ---
 ## CadOle2Frame class
@@ -40,6 +40,7 @@ public class CadOle2Frame : CadEntityBase
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |
 | [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorvalue/) { get; set; } | Gets or sets the true color value (RGB) of the entity. |
 | [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [Extents](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/extents/) { get; set; } | The extents |
 | [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
 | [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/hyperlink/) { get; set; } | Gets or sets a hyperlink to an entity and displays the hyperlink name or description (if one is specified). |
 | virtual [Id](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/id/) { get; set; } | Gets the identifier. |
@@ -53,6 +54,7 @@ public class CadOle2Frame : CadEntityBase
 | [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
 | [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
 | [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
+| [LowerLeftCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerleftcorner/) { get; set; } | Gets or sets the lower left corner. |
 | [LowerRightCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerrightcorner/) { get; set; } | Gets or sets the lower right corner. |
 | [LType](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/) { get; set; } | Gets or sets a value the current linetype of the entity. |
 | [Material](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/) { get; set; } | Gets or sets the material. |
@@ -72,7 +74,9 @@ public class CadOle2Frame : CadEntityBase
 | [TileModeDescriptor](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/tilemodedescriptor/) { get; set; } | Gets or sets the tile mode descriptor. |
 | [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | Gets or sets the transparency value for the entity. |
 | override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/typename/) { get; } | Gets the name of the type. |
+| [Unknown1](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/unknown1/) { get; set; } | The unknown byte |
 | [UpperLeftCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperleftcorner/) { get; set; } | Gets or sets the upper left corner. |
+| [UpperRightCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperrightcorner/) { get; set; } | Gets or sets the upper right corner. |
 | [VersionNumber](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/versionnumber/) { get; set; } | Gets or sets the version number. |
 | virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/) { get; set; } | Gets or sets a value indicating whether this [`CadEntityBase`](../cadentitybase/) is visible. |
 | [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |

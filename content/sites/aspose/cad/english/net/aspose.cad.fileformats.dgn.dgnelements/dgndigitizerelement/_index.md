@@ -3,7 +3,7 @@ title: Class DgnDigitizerElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnDigitizerElement class. Represents digitizer element
 type: docs
-weight: 8720
+weight: 8820
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/
 ---
 ## DgnDigitizerElement class

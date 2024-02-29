@@ -3,7 +3,7 @@ title: CadOle2Frame.LowerRightCorner
 second_title: Aspose.CAD for .NET API Reference
 description: CadOle2Frame property. Gets or sets the lower right corner
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerrightcorner/
 ---
 ## CadOle2Frame.LowerRightCorner property

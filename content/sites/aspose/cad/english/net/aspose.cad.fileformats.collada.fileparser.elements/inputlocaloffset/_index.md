@@ -3,7 +3,7 @@ title: Class InputLocalOffset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InputLocalOffset class. The input local offset. The input_local_offset_type element is used to represent indexed inputs that can only reference resources declared in the same document
 type: docs
-weight: 7790
+weight: 7890
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/
 ---
 ## InputLocalOffset class

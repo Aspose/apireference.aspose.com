@@ -3,7 +3,7 @@ title: Class Mesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Mesh class. A set of primitives to be rendered. Its global transform is defined by a node that references it
 type: docs
-weight: 11110
+weight: 11060
 url: /net/aspose.cad.fileformats.glb/mesh/
 ---
 ## Mesh class
@@ -21,8 +21,8 @@ public sealed class Mesh : LogicalChildOfRoot
 | [AllPrimitivesHaveJoints](../../aspose.cad.fileformats.glb/mesh/allprimitiveshavejoints/) { get; } |  |
 | [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
 | [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbImage`](../glbimage/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbImage`](../glbimage/) instance that owns this object. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
 | [MorphWeights](../../aspose.cad.fileformats.glb/mesh/morphweights/) { get; } |  |
 | [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
 | [Primitives](../../aspose.cad.fileformats.glb/mesh/primitives/) { get; } |  |

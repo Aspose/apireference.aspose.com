@@ -3,7 +3,7 @@ title: Matrix4x4Double.Equals
 second_title: Aspose.CAD for .NET API Reference
 description: Matrix4x4Double method. Returns a boolean indicating whether this matrix instance is equal to the other given matrix
 type: docs
-weight: 240
+weight: 230
 url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4double/equals/
 ---
 ## Equals(Matrix4x4Double) {#equals}

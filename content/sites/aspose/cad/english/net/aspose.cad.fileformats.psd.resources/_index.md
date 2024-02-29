@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Psd.Resources
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Psd related resource elements
 type: docs
-weight: 1050
+weight: 1060
 url: /net/aspose.cad.fileformats.psd.resources/
 ---
 The namespace contains Psd related resource elements.

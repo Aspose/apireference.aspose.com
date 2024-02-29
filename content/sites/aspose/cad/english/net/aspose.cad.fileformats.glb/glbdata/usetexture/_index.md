@@ -1,14 +1,14 @@
 ---
 title: GlbData.UseTexture
 second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a Texture instance at GlbImage.LogicalTextures
+description: GlbData method. Creates or reuses a Texture instance at LogicalTextures
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.cad.fileformats.glb/glbdata/usetexture/
 ---
 ## UseTexture(ImageGlb, TextureSampler) {#usetexture_1}
 
-Creates or reuses a [`Texture`](../../texture/) instance at !:GlbImage.LogicalTextures.
+Creates or reuses a [`Texture`](../../texture/) instance at [`LogicalTextures`](../logicaltextures/).
 
 ```csharp
 public Texture UseTexture(ImageGlb primary, TextureSampler sampler = null)
@@ -36,7 +36,7 @@ A [`Texture`](../../texture/) instance.
 
 ## UseTexture(ImageGlb, ImageGlb, TextureSampler) {#usetexture}
 
-Creates or reuses a [`Texture`](../../texture/) instance at !:GlbImage.LogicalTextures.
+Creates or reuses a [`Texture`](../../texture/) instance at [`LogicalTextures`](../logicaltextures/).
 
 ```csharp
 public Texture UseTexture(ImageGlb primary, ImageGlb fallback, TextureSampler sampler = null)

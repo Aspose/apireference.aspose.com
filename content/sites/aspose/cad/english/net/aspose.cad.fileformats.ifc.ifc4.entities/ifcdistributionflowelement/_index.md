@@ -3,7 +3,7 @@ title: Class IfcDistributionFlowElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDistributionFlowElement class. IfcDistributionFlowElement
 type: docs
-weight: 23560
+weight: 23550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionflowelement/
 ---
 ## IfcDistributionFlowElement class

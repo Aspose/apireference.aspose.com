@@ -3,7 +3,7 @@ title: Class CadBlockScaleAction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockScaleAction class. Class describing BLOCKSCALEACTION object
 type: docs
-weight: 1970
+weight: 2060
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockscaleaction/
 ---
 ## CadBlockScaleAction class

@@ -3,7 +3,7 @@ title: Toolkit.GetVertexColumns
 second_title: Aspose.CAD for .NET API Reference
 description: Toolkit method. 
 type: docs
-weight: 160
+weight: 100
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/getvertexcolumns/
 ---
 ## Toolkit.GetVertexColumns method

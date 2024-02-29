@@ -3,7 +3,7 @@ title: Class Accessor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Accessor class. The accessor. The accessor element declares an access pattern to one of the array elements FLOAT_ARRAY INT_ARRAY NAME_ARRAY BOOL_ARRAY TOKEN_ARRAY and IDREF_ARRAY. The accessor element describes access to arrays that are organized in either an interleaved or noninterleaved manner depending on the offset and stride attributes
 type: docs
-weight: 7230
+weight: 7330
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/accessor/
 ---
 ## Accessor class

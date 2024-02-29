@@ -3,7 +3,7 @@ title: Class IfcBeamType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBeamType class. IfcBeamType
 type: docs
-weight: 12290
+weight: 12280
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbeamtype/
 ---
 ## IfcBeamType class

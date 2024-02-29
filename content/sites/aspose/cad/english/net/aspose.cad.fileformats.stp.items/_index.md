@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Stp.Items
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains elements for STP files
 type: docs
-weight: 1100
+weight: 1110
 url: /net/aspose.cad.fileformats.stp.items/
 ---
 The namespace contains elements for STP files.

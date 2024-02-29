@@ -3,7 +3,7 @@ title: Class IfcPermit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPermit class. IfcPermit
 type: docs
-weight: 25820
+weight: 25810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpermit/
 ---
 ## IfcPermit class

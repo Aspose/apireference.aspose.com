@@ -3,7 +3,7 @@ title: CadTableEntity.SuppressTitle
 second_title: Aspose.CAD for .NET API Reference
 description: CadTableEntity property. Gets or sets the suppress title
 type: docs
-weight: 160
+weight: 200
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppresstitle/
 ---
 ## CadTableEntity.SuppressTitle property

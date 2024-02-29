@@ -3,7 +3,7 @@ title: Class CadObjectWithAcisData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadObjectWithAcisData class. Base class for CAD entity which contains ACIS data
 type: docs
-weight: 2970
+weight: 3060
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/
 ---
 ## CadObjectWithAcisData class

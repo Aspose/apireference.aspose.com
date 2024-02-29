@@ -3,7 +3,7 @@ title: Struct U3dAuthorFace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorFace struct. The face of the author progressive mesh
 type: docs
-weight: 35550
+weight: 35540
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorface/
 ---
 ## U3dAuthorFace structure

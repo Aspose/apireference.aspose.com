@@ -9,11 +9,12 @@ url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertextexture2/op_impl
 ## VertexTexture2 Implicit operator
 
 ```csharp
-public static implicit operator VertexTexture2((Vector2 Tex0, Vector2 Tex1) tuple)
+public static implicit operator VertexTexture2(VertexTextureTuple tuple)
 ```
 
 ### See Also
 
+* struct [VertexTextureTuple](../../../aspose.cad.fileformats.glb/vertextexturetuple/)
 * struct [VertexTexture2](../)
 * namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)

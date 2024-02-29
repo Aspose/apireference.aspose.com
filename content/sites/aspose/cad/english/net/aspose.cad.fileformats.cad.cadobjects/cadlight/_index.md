@@ -3,7 +3,7 @@ title: Class CadLight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLight class. Class describing CadLight
 type: docs
-weight: 2760
+weight: 2850
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/
 ---
 ## CadLight class

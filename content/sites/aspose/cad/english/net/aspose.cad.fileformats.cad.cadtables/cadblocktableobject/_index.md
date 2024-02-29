@@ -3,7 +3,7 @@ title: Class CadBlockTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadBlockTableObject class. The Cad block table object
 type: docs
-weight: 4220
+weight: 4310
 url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/
 ---
 ## CadBlockTableObject class

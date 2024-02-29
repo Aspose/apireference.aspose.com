@@ -3,7 +3,7 @@ title: Class IfcPropertyReferenceValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertyReferenceValue class. IfcPropertyReferenceValue
 type: docs
-weight: 15960
+weight: 15950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyreferencevalue/
 ---
 ## IfcPropertyReferenceValue class

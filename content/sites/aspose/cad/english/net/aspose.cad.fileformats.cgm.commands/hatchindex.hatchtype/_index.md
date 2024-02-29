@@ -3,7 +3,7 @@ title: Enum HatchIndex.HatchType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.HatchIndexHatchType enum. 
 type: docs
-weight: 5740
+weight: 5840
 url: /net/aspose.cad.fileformats.cgm.commands/hatchindex.hatchtype/
 ---
 ## HatchIndex.HatchType enumeration

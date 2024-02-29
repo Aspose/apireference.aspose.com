@@ -3,7 +3,7 @@ title: Class LibraryEffects
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.LibraryEffects class. The library effects. The library_effects element declares a module of effect elements
 type: docs
-weight: 7940
+weight: 8040
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/libraryeffects/
 ---
 ## LibraryEffects class

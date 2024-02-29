@@ -3,7 +3,7 @@ title: Class CadMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMaterial class. Class describing CadMaterial
 type: docs
-weight: 2900
+weight: 2990
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/
 ---
 ## CadMaterial class

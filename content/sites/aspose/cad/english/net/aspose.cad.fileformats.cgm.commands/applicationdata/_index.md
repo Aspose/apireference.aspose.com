@@ -3,7 +3,7 @@ title: Class ApplicationData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ApplicationData class. 
 type: docs
-weight: 4670
+weight: 4770
 url: /net/aspose.cad.fileformats.cgm.commands/applicationdata/
 ---
 ## ApplicationData class

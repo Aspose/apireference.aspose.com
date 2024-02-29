@@ -3,7 +3,7 @@ title: Class IfcBSplineCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBSplineCurve class. Partial IIfc entity class
 type: docs
-weight: 12270
+weight: 12260
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbsplinecurve/
 ---
 ## IfcBSplineCurve class
