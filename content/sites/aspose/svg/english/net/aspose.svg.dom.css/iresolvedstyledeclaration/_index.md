@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IResolvedStyleDeclaration interface. Represents a resolved style declaration that provides access to various style properties
 type: docs
-weight: 4430
+weight: 4440
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/
 ---
 ## IResolvedStyleDeclaration interface
@@ -18,6 +18,7 @@ public interface IResolvedStyleDeclaration : IDisposable
 
 | Name | Description |
 | --- | --- |
+| [AlignmentBaseline](../../aspose.svg.dom.css/iresolvedstyledeclaration/alignmentbaseline/) { get; } | Gets the alignment baseline value. |
 | [BaselineShift](../../aspose.svg.dom.css/iresolvedstyledeclaration/baselineshift/) { get; } | Gets the shift of the baseline of an element. |
 | [ClipRule](../../aspose.svg.dom.css/iresolvedstyledeclaration/cliprule/) { get; } | Gets the clip rule for shapes. |
 | [Cx](../../aspose.svg.dom.css/iresolvedstyledeclaration/cx/) { get; } | Gets the x-coordinate of the center of an ellipse or circle. |

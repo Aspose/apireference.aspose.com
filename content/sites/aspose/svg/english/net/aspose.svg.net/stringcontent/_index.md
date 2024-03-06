@@ -3,7 +3,7 @@ title: StringContent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.StringContent class. Represents content based on a string
 type: docs
-weight: 2950
+weight: 3000
 url: /net/aspose.svg.net/stringcontent/
 ---
 ## StringContent class

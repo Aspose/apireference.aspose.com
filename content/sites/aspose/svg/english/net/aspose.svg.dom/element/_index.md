@@ -3,7 +3,7 @@ title: Element Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Element class. The Element interface represents an element in an HTML or XML document
 type: docs
-weight: 3570
+weight: 3580
 url: /net/aspose.svg.dom/element/
 ---
 ## Element class
@@ -29,7 +29,7 @@ public class Element : Node, IChildNode, IParentNode
 | [ChildElementCount](../../aspose.svg.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes.. |
 | [Children](../../aspose.svg.dom/element/children/) { get; } | Returns the child elements of current element. |
-| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
+| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } |  |
 | [ClassName](../../aspose.svg.dom/element/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | The first child of this node. If there is no such node, this returns null. |
 | [FirstElementChild](../../aspose.svg.dom/element/firstelementchild/) { get; } | Returns the first child element node of this element. null if this element has no child elements. |

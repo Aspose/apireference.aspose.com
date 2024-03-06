@@ -3,7 +3,7 @@ title: IPathBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.IPathBuilder interface. The IPathBuilder interface is responsible for building path segments SVGPathSeg from list of the trace points
 type: docs
-weight: 6200
+weight: 6210
 url: /net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface

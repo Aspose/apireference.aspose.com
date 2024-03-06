@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Cy
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the y-coordinate of the center of an ellipse or circle
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/cy/
 ---
 ## IResolvedStyleDeclaration.Cy property

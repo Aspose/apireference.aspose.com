@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Width
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the width value
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/width/
 ---
 ## IResolvedStyleDeclaration.Width property

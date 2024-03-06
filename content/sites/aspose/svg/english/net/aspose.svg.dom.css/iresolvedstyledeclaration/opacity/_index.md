@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Opacity
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the opacity of an element
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/opacity/
 ---
 ## IResolvedStyleDeclaration.Opacity property

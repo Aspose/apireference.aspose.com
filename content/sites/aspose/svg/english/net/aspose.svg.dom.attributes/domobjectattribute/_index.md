@@ -3,7 +3,7 @@ title: DOMObjectAttribute Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attributes.DOMObjectAttribute class. Specifies that object is marked with this attribute is defined by the W3C
 type: docs
-weight: 4290
+weight: 4300
 url: /net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class

@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.ClipRule
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the clip rule for shapes
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/cliprule/
 ---
 ## IResolvedStyleDeclaration.ClipRule property

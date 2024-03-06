@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Visibility
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the visibility of an element
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/visibility/
 ---
 ## IResolvedStyleDeclaration.Visibility property

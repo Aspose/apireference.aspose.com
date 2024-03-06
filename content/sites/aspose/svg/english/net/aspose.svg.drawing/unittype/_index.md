@@ -3,7 +3,7 @@ title: UnitType Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.UnitType class. Specifies the unit of measurement
 type: docs
-weight: 3420
+weight: 3430
 url: /net/aspose.svg.drawing/unittype/
 ---
 ## UnitType class

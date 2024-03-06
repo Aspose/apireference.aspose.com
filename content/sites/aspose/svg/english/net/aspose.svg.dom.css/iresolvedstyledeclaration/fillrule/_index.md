@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.FillRule
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the fill rule for shapes
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/fillrule/
 ---
 ## IResolvedStyleDeclaration.FillRule property

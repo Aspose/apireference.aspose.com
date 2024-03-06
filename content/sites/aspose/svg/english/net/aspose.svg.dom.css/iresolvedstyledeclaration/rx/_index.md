@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Rx
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the x-radius of an ellipse or horizontal radius of an ellipse or circle
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/rx/
 ---
 ## IResolvedStyleDeclaration.Rx property

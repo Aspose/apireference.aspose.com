@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Y
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the y-coordinate value
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/y/
 ---
 ## IResolvedStyleDeclaration.Y property
