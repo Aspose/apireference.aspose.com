@@ -37,7 +37,7 @@ The builder instance for chaining.
 
 ---
 
-## AddUse&lt;TBuilder&gt;(this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGUseElementBuilder&gt;) {#adduse_1}
+## AddUse&lt;TBuilder&gt;(this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGUseElementBuilder&gt;) {#adduse_1}
 
 Adds a 'use' element to the SVG builder, allowing for the reuse of an existing element defined elsewhere in the SVG.
 
@@ -45,8 +45,9 @@ Adds a 'use' element to the SVG builder, allowing for the reuse of an existing e
 public static TBuilder AddUse<TBuilder>(this TBuilder builder, string href = null, 
     OneOf<double, (double, LengthType)> x = null, OneOf<double, (double, LengthType)> y = null, 
     OneOf<double, (double, LengthType)> width = null, 
-    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint> fill = null, 
-    OneOf<Color, Paint> stroke = null, string id = null, Action<SVGUseElementBuilder> extend = null)
+    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint, string> fill = null, 
+    OneOf<Color, Paint, string> stroke = null, string id = null, 
+    Action<SVGUseElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, ICompositeElementBuilder
 ```
 
@@ -59,8 +60,8 @@ public static TBuilder AddUse<TBuilder>(this TBuilder builder, string href = nul
 | y | The y-coordinate where the reused element is placed. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | width | The width of the reused element. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | height | The height of the reused element. Can be a double or a ValueTuple with LengthType. Optional parameter. |
-| fill | The fill color or paint for the element. Optional parameter. |
-| stroke | The stroke color or paint for the element. Optional parameter. |
+| fill | The fill color, paint or paint server id for the element. Optional parameter. |
+| stroke | The stroke color, paint or paint server id for the element. Optional parameter. |
 | id | The unique identifier for the element. Optional parameter. |
 | extend | An optional action to further configure the SVGUseElementBuilder. |
 
@@ -72,6 +73,7 @@ The builder instance, allowing for method chaining.
 
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [LengthType](../../lengthtype/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGUseElementBuilder](../../svguseelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)

@@ -6,7 +6,7 @@ type: docs
 weight: 350
 url: /net/aspose.svg.builder/svgbuilderextensions/addline/
 ---
-## AddLine&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGLineElementBuilder&gt;) {#addline}
+## AddLine&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGLineElementBuilder&gt;) {#addline}
 
 Adds a 'line' element with specified start and end points, and styles to the SVG builder.
 
@@ -14,8 +14,8 @@ Adds a 'line' element with specified start and end points, and styles to the SVG
 public static TBuilder AddLine<TBuilder>(this TBuilder builder, 
     OneOf<double, (double, LengthType)> x1 = null, OneOf<double, (double, LengthType)> y1 = null, 
     OneOf<double, (double, LengthType)> x2 = null, OneOf<double, (double, LengthType)> y2 = null, 
-    OneOf<Color, Paint> fill = null, OneOf<Color, Paint> stroke = null, string id = null, 
-    Action<SVGLineElementBuilder> extend = null)
+    OneOf<Color, Paint, string> fill = null, OneOf<Color, Paint, string> stroke = null, 
+    string id = null, Action<SVGLineElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IShapeElementBuilder
 ```
 
@@ -27,8 +27,8 @@ public static TBuilder AddLine<TBuilder>(this TBuilder builder,
 | y1 | The y-coordinate of the start point of the line. Can be a double value or a tuple of double and LengthType. |
 | x2 | The x-coordinate of the end point of the line. Can be a double value or a tuple of double and LengthType. |
 | y2 | The y-coordinate of the end point of the line. Can be a double value or a tuple of double and LengthType. |
-| fill | The fill color or paint style for the line. Can be a Color or a Paint enum value. Optional parameter. |
-| stroke | The stroke color or paint style for the line. Can be a Color or a Paint enum value. Optional parameter. |
+| fill | The fill color or paint style for the line. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
+| stroke | The stroke color or paint style for the line. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
 | id | The unique identifier for the line element. Optional parameter. |
 | extend | An optional action to further configure the line element builder. |
 
@@ -40,6 +40,7 @@ The builder instance, allowing for method chaining.
 
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [LengthType](../../lengthtype/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGLineElementBuilder](../../svglineelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)

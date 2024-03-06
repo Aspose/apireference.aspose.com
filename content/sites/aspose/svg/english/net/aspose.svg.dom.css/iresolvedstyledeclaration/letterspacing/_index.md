@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.LetterSpacing
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the additional space between characters in a text
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/letterspacing/
 ---
 ## IResolvedStyleDeclaration.LetterSpacing property

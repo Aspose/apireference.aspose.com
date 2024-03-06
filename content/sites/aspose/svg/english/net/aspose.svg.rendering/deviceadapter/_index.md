@@ -3,7 +3,7 @@ title: DeviceAdapter Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.DeviceAdapter class. Represents a device adapter that adapts the interface of the wrapped device
 type: docs
-weight: 4380
+weight: 4390
 url: /net/aspose.svg.rendering/deviceadapter/
 ---
 ## DeviceAdapter class

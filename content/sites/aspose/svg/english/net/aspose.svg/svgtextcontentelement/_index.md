@@ -3,7 +3,7 @@ title: SVGTextContentElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGTextContentElement class. The SVGTextContentElement is inherited by various text-related interfaces such as SVGTextElement SVGTSpanElement SVGTRefElement SVGAltGlyphElement and SVGTextPathElement. For the methods on this interface that refer to an index to a character or a number of characters these references are to be interpreted as an index to a UTF-16 code unit or a number of UTF-16 code units respectively. This is for consistency with DOM Level 2 Core where methods on the CharacterData interface use UTF-16 code units as indexes and counts within the character data.Thus for example if the text content of a text element is a single non-BMP character such as U10000 then invoking getNumberOfChars on that element will return 2 since there are two UTF-16 code unitsthe surrogate pair used to represent that one character
 type: docs
-weight: 5200
+weight: 5210
 url: /net/aspose.svg/svgtextcontentelement/
 ---
 ## SVGTextContentElement class
@@ -23,7 +23,7 @@ public class SVGTextContentElement : SVGGraphicsElement
 | [ChildElementCount](../../aspose.svg.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes.. |
 | [Children](../../aspose.svg.dom/element/children/) { get; } | Returns the child elements of current element. |
-| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
+| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } |  |
 | [ClassName](../../aspose.svg/svgelement/classname/) { get; } | Corresponds to attribute ‘class’ on the given element. |
 | [ClassName](../../aspose.svg.dom/element/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [FarthestViewportElement](../../aspose.svg/svggraphicselement/farthestviewportelement/) { get; } | The farthest ancestor ‘svg’ element. Null if the current element is the outermost svg element. |

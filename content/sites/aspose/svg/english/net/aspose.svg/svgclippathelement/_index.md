@@ -3,7 +3,7 @@ title: SVGClipPathElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGClipPathElement class. The SVGClipPathElement interface corresponds to the clipPath element
 type: docs
-weight: 4830
+weight: 4840
 url: /net/aspose.svg/svgclippathelement/
 ---
 ## SVGClipPathElement class
@@ -23,7 +23,7 @@ public class SVGClipPathElement : SVGElement, ISVGUnitTypes
 | [ChildElementCount](../../aspose.svg.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes.. |
 | [Children](../../aspose.svg.dom/element/children/) { get; } | Returns the child elements of current element. |
-| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
+| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } |  |
 | [ClassName](../../aspose.svg/svgelement/classname/) { get; } | Corresponds to attribute ‘class’ on the given element. |
 | [ClassName](../../aspose.svg.dom/element/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [ClipPathUnits](../../aspose.svg/svgclippathelement/clippathunits/) { get; } | Corresponds to attribute ‘clipPathUnits’ on the given ‘clipPath’ element. Takes one of the constants defined in SVGUnitTypes. |

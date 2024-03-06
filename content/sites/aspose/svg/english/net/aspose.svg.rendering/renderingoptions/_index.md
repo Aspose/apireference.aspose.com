@@ -3,7 +3,7 @@ title: RenderingOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.RenderingOptions class. Represents rendering options
 type: docs
-weight: 3250
+weight: 3260
 url: /net/aspose.svg.rendering/renderingoptions/
 ---
 ## RenderingOptions class

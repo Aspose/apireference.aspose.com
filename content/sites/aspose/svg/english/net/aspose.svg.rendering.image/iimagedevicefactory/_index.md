@@ -3,7 +3,7 @@ title: IImageDeviceFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Image.IImageDeviceFactory interface. Represents a factory for creating image devices
 type: docs
-weight: 4540
+weight: 4550
 url: /net/aspose.svg.rendering.image/iimagedevicefactory/
 ---
 ## IImageDeviceFactory interface

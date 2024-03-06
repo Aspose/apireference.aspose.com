@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.FontKerning
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the kerning behavior of a font
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/fontkerning/
 ---
 ## IResolvedStyleDeclaration.FontKerning property

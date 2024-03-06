@@ -3,7 +3,7 @@ title: BezierPathBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.BezierPathBuilder class. The BezierPathBuilder class is responsible for constructing a Bezier path from a given set of points. It approximates a trace of points with a Bezier curve optimizing the number of segments to closely match the original trace while minimizing complexity
 type: docs
-weight: 6130
+weight: 6140
 url: /net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class

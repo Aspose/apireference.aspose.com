@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Fill
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration method. Gets the brush used for filling shapes
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/fill/
 ---
 ## IResolvedStyleDeclaration.Fill method

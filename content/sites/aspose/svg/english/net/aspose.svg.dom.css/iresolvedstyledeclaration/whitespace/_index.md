@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.WhiteSpace
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the white space handling behavior within an element
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/whitespace/
 ---
 ## IResolvedStyleDeclaration.WhiteSpace property

@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /net/aspose.svg/svgdocument/save/
 ---
-## Save(Url) {#save_3}
+## Save(Url) {#save_6}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -33,7 +33,7 @@ public void Save(Url url)
 
 ---
 
-## Save(string) {#save_6}
+## Save(string) {#save_9}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -59,28 +59,28 @@ public void Save(string path)
 
 ---
 
-## Save(IOutputStorage) {#save}
+## Save(ResourceHandler) {#save_3}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
 ```csharp
-public void Save(IOutputStorage outputStorage)
+public void Save(ResourceHandler resourceHandler)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/). |
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string, SVGSaveFormat) {#save_7}
+## Save(string, SVGSaveFormat) {#save_10}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -108,22 +108,22 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(IOutputStorage, SVGSaveFormat) {#save_1}
+## Save(ResourceHandler, SVGSaveFormat) {#save_4}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
+public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/). |
 | saveFormat | SVGSaveFormat | Format in which document is saved. |
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)
@@ -131,7 +131,7 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(string, SVGSaveOptions) {#save_8}
+## Save(string, SVGSaveOptions) {#save_11}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -159,22 +159,22 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(IOutputStorage, SVGSaveOptions) {#save_2}
+## Save(ResourceHandler, SVGSaveOptions) {#save_5}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/). |
 | saveOptions | SVGSaveOptions | SVG save options. |
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
 * namespace [Aspose.Svg](../../../aspose.svg/)
@@ -182,7 +182,7 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(Url, SVGSaveFormat) {#save_4}
+## Save(Url, SVGSaveFormat) {#save_7}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -211,7 +211,7 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(Url, SVGSaveOptions) {#save_5}
+## Save(Url, SVGSaveOptions) {#save_8}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 

@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.StrokeLinejoin
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the stroke line join value
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/strokelinejoin/
 ---
 ## IResolvedStyleDeclaration.StrokeLinejoin property

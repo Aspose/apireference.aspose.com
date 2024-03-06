@@ -6,7 +6,7 @@ type: docs
 weight: 530
 url: /net/aspose.svg.builder/svgbuilderextensions/addtext/
 ---
-## AddText&lt;TBuilder&gt;(this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, FontStyle?, string, FontWeight?, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGTextElementBuilder&gt;) {#addtext_1}
+## AddText&lt;TBuilder&gt;(this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, FontStyle?, string, FontWeight?, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGTextElementBuilder&gt;) {#addtext_1}
 
 Adds a 'text' element with specified content and attributes to the SVG builder.
 
@@ -14,9 +14,9 @@ Adds a 'text' element with specified content and attributes to the SVG builder.
 public static TBuilder AddText<TBuilder>(this TBuilder builder, string content, 
     OneOf<double, (double, LengthType)> x = null, OneOf<double, (double, LengthType)> y = null, 
     OneOf<double, (double, LengthType)> fontSize = null, FontStyle? fontStyle = default, 
-    string fontFamily = null, FontWeight? fontWeight = default, OneOf<Color, Paint> fill = null, 
-    OneOf<Color, Paint> stroke = null, string id = null, 
-    Action<SVGTextElementBuilder> extend = null)
+    string fontFamily = null, FontWeight? fontWeight = default, 
+    OneOf<Color, Paint, string> fill = null, OneOf<Color, Paint, string> stroke = null, 
+    string id = null, Action<SVGTextElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, ICompositeElementBuilder
 ```
 
@@ -31,8 +31,8 @@ public static TBuilder AddText<TBuilder>(this TBuilder builder, string content,
 | fontStyle | The font style for the text (e.g., normal, italic, oblique). |
 | fontFamily | The font family for the text (e.g., Arial, Verdana). |
 | fontWeight | The weight (thickness) of the font (e.g., normal, bold). |
-| fill | The fill color or paint style for the text. Can be a Color or a Paint enum value. |
-| stroke | The stroke color or paint style for the text. Can be a Color or a Paint enum value. |
+| fill | The fill color or paint style for the text. Can be a Color or a Paint enum value or paint server ID. |
+| stroke | The stroke color or paint style for the text. Can be a Color or a Paint enum value or paint server ID. |
 | id | The unique identifier for the text element. |
 | extend | An optional action to further configure the text element builder. |
 
@@ -46,6 +46,7 @@ The builder instance for chaining further additions or configurations.
 * enum [LengthType](../../lengthtype/)
 * enum [FontStyle](../../fontstyle/)
 * enum [FontWeight](../../fontweight/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGTextElementBuilder](../../svgtextelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)

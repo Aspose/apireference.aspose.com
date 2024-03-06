@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Cx
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the x-coordinate of the center of an ellipse or circle
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/cx/
 ---
 ## IResolvedStyleDeclaration.Cx property

@@ -3,7 +3,7 @@ title: SVGMaskElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGMaskElement class. The SVGMaskElement interface corresponds to the mask element
 type: docs
-weight: 5030
+weight: 5040
 url: /net/aspose.svg/svgmaskelement/
 ---
 ## SVGMaskElement class
@@ -23,7 +23,7 @@ public class SVGMaskElement : SVGElement, ISVGTests, ISVGUnitTypes
 | [ChildElementCount](../../aspose.svg.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes.. |
 | [Children](../../aspose.svg.dom/element/children/) { get; } | Returns the child elements of current element. |
-| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
+| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } |  |
 | [ClassName](../../aspose.svg/svgelement/classname/) { get; } | Corresponds to attribute ‘class’ on the given element. |
 | [ClassName](../../aspose.svg.dom/element/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | The first child of this node. If there is no such node, this returns null. |

@@ -6,7 +6,7 @@ type: docs
 weight: 210
 url: /net/aspose.svg.builder/svgbuilderextensions/addfeflood/
 ---
-## AddFeFlood&lt;TBuilder&gt;(this TBuilder, Color?, double?, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGFEFloodElementBuilder&gt;) {#addfeflood_1}
+## AddFeFlood&lt;TBuilder&gt;(this TBuilder, Color?, double?, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEFloodElementBuilder&gt;) {#addfeflood_1}
 
 Adds an 'feFlood' element to the SVG builder, creating a uniform flood color effect over the entire filter subregion.
 
@@ -15,8 +15,8 @@ public static TBuilder AddFeFlood<TBuilder>(this TBuilder builder, Color? floodC
     double? floodOpacity = null, string result = null, 
     OneOf<double, (double, LengthType)> x = null, OneOf<double, (double, LengthType)> y = null, 
     OneOf<double, (double, LengthType)> width = null, 
-    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint> fill = null, 
-    OneOf<Color, Paint> stroke = null, string id = null, 
+    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint, string> fill = null, 
+    OneOf<Color, Paint, string> stroke = null, string id = null, 
     Action<SVGFEFloodElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
 ```
@@ -32,8 +32,8 @@ public static TBuilder AddFeFlood<TBuilder>(this TBuilder builder, Color? floodC
 | y | The y-coordinate of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | width | The width of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | height | The height of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
-| fill | The fill color or paint for the element. Optional parameter. |
-| stroke | The stroke color or paint for the element. Optional parameter. |
+| fill | The fill color, paint or paint server id for the element. Optional parameter. |
+| stroke | The stroke color, paint or paint server id for the element. Optional parameter. |
 | id | The unique identifier for the filter primitive element. Optional parameter. |
 | extend | An optional action to further configure the SVGFEFloodElementBuilder. |
 
@@ -45,6 +45,7 @@ The builder instance, allowing for method chaining.
 
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [LengthType](../../lengthtype/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGFEFloodElementBuilder](../../svgfefloodelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)

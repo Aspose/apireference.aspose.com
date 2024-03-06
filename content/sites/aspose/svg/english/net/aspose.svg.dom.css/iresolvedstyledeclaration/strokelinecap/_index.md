@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.StrokeLinecap
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the stroke line cap value
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/strokelinecap/
 ---
 ## IResolvedStyleDeclaration.StrokeLinecap property

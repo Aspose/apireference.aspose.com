@@ -6,7 +6,7 @@ type: docs
 weight: 120
 url: /net/aspose.svg.builder/svgbuilderextensions/addellipse/
 ---
-## AddEllipse&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGEllipseElementBuilder&gt;) {#addellipse}
+## AddEllipse&lt;TBuilder&gt;(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGEllipseElementBuilder&gt;) {#addellipse}
 
 Adds an 'ellipse' element to the SVG builder, specifying its center, radii, and styles.
 
@@ -14,8 +14,8 @@ Adds an 'ellipse' element to the SVG builder, specifying its center, radii, and 
 public static TBuilder AddEllipse<TBuilder>(this TBuilder builder, 
     OneOf<double, (double, LengthType)> cx = null, OneOf<double, (double, LengthType)> cy = null, 
     OneOf<double, (double, LengthType)> rx = null, OneOf<double, (double, LengthType)> ry = null, 
-    OneOf<Color, Paint> fill = null, OneOf<Color, Paint> stroke = null, string id = null, 
-    Action<SVGEllipseElementBuilder> extend = null)
+    OneOf<Color, Paint, string> fill = null, OneOf<Color, Paint, string> stroke = null, 
+    string id = null, Action<SVGEllipseElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IShapeElementBuilder
 ```
 
@@ -27,8 +27,8 @@ public static TBuilder AddEllipse<TBuilder>(this TBuilder builder,
 | cy | The y-coordinate of the center of the ellipse. Can be a double value or a tuple of double and LengthType. |
 | rx | The x-radius of the ellipse. Can be a double value or a tuple of double and LengthType. |
 | ry | The y-radius of the ellipse. Can be a double value or a tuple of double and LengthType. |
-| fill | The fill color or paint style for the ellipse. Can be a Color or a Paint enum value. Optional parameter. |
-| stroke | The stroke color or paint style for the ellipse. Can be a Color or a Paint enum value. Optional parameter. |
+| fill | The fill color or paint style for the ellipse. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
+| stroke | The stroke color or paint style for the ellipse. Can be a Color or a Paint enum value or paint server ID. Optional parameter. |
 | id | The unique identifier for the ellipse element. Optional parameter. |
 | extend | An optional action to further configure the ellipse element builder. |
 
@@ -40,6 +40,7 @@ The builder instance, allowing for method chaining.
 
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [LengthType](../../lengthtype/)
+* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGEllipseElementBuilder](../../svgellipseelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)

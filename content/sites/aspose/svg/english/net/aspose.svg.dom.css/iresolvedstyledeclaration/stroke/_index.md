@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.Stroke
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration method. Gets the brush used for stroking shapes
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/stroke/
 ---
 ## IResolvedStyleDeclaration.Stroke method

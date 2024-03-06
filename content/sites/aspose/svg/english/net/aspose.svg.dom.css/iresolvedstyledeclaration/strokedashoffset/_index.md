@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration.StrokeDashoffset
 second_title: Aspose.SVG for .NET API Reference
 description: IResolvedStyleDeclaration property. Gets the stroke dash offset value
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/strokedashoffset/
 ---
 ## IResolvedStyleDeclaration.StrokeDashoffset property

@@ -3,7 +3,7 @@ title: IPath Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.IPath interface. Represents a path for defining shapes or outlines
 type: docs
-weight: 3220
+weight: 3230
 url: /net/aspose.svg.rendering/ipath/
 ---
 ## IPath interface
