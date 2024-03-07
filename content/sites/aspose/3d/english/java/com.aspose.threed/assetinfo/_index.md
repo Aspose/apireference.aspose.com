@@ -13,7 +13,15 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public class AssetInfo extends A3DObject
 ```
 
-Information of asset. Asset information can be attached to a [Scene](../../com.aspose.threed/scene). Child [Scene](../../com.aspose.threed/scene) can have its own [AssetInfo](../../com.aspose.threed/assetinfo) to override parent's definition.
+Information of asset. Asset information can be attached to a [Scene](../../com.aspose.threed/scene). Child [Scene](../../com.aspose.threed/scene) can have its own [AssetInfo](../../com.aspose.threed/assetinfo) to override parent's definition. **Example:** The following code shows how to read asset info from a fbx file:
+
+```
+Scene scene = Scene.fromFile("test.fbx");
+     System.out.printf("The file is created at %s by %s %s",
+          scene.getAssetInfo().getCreationTime(),
+          scene.getAssetInfo().getApplicationName(),
+          scene.getAssetInfo().getApplicationVersion());
+```
 ## Constructors
 
 | Constructor | Description |
@@ -353,7 +361,7 @@ public double getUnitScaleFactor()
 ```
 
 
-Gets the scale factor to real-world meter.
+Gets the scale factor to real-world meter. **Remarks:** This is ignored during serialization if the unit name is null.
 
 **Returns:**
 double
@@ -692,7 +700,7 @@ Sets the scale factor to real-world meter.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | New value |
+| value | double | New value **Remarks:** This is ignored during serialization if the unit name is null. |
 
 ### setUpVector(Axis value) {#setUpVector-com.aspose.threed.Axis-}
 ```

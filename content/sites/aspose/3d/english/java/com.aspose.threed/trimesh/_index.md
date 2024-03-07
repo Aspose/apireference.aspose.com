@@ -26,6 +26,7 @@ A TriMesh contains raw data that can be used by GPU directly. This class is a ut
 
 | Method | Description |
 | --- | --- |
+| [addTriangle(int a, int b, int c)](#addTriangle-int-int-int-) | Add a new triangle |
 | [beginVertex()](#beginVertex--) | Begin adding vertex |
 | [copyFrom(TriMesh input, VertexDeclaration vd)](#copyFrom-com.aspose.threed.TriMesh-com.aspose.threed.VertexDeclaration-) | Copy the [TriMesh](../../com.aspose.threed/trimesh) from input with new vertex layout |
 | [endVertex()](#endVertex--) | End adding vertex |
@@ -80,8 +81,11 @@ A TriMesh contains raw data that can be used by GPU directly. This class is a ut
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 | [write16bIndicesTo(Stream stream)](#write16bIndicesTo-com.aspose.csporter.helpers.Stream-) | Write the indices data as 16bit integer to the stream |
+| [write16bIndicesTo(OutputStream stream)](#write16bIndicesTo-java.io.OutputStream-) | Write the indices data as 16bit integer to the stream |
 | [write32bIndicesTo(Stream stream)](#write32bIndicesTo-com.aspose.csporter.helpers.Stream-) | Write the indices data as 32bit integer to the stream |
+| [write32bIndicesTo(OutputStream stream)](#write32bIndicesTo-java.io.OutputStream-) | Write the indices data as 32bit integer to the stream |
 | [writeVerticesTo(Stream stream)](#writeVerticesTo-com.aspose.csporter.helpers.Stream-) | Write vertices data to the specified stream |
+| [writeVerticesTo(OutputStream stream)](#writeVerticesTo-java.io.OutputStream-) | Write vertices data to the specified stream |
 ### TriMesh(String name, VertexDeclaration declaration) {#TriMesh-java.lang.String-com.aspose.threed.VertexDeclaration-}
 ```
 public TriMesh(String name, VertexDeclaration declaration)
@@ -95,6 +99,21 @@ Initialize an instance of [TriMesh](../../com.aspose.threed/trimesh)
 | --- | --- | --- |
 | name | java.lang.String | The name of this TriMesh |
 | declaration | [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) | The vertex's declaration |
+
+### addTriangle(int a, int b, int c) {#addTriangle-int-int-int-}
+```
+public void addTriangle(int a, int b, int c)
+```
+
+
+Add a new triangle
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | int | The index of first vertex |
+| b | int | The index of second vertex |
+| c | int | The index of third vertex |
 
 ### beginVertex() {#beginVertex--}
 ```
@@ -121,7 +140,19 @@ Copy the [TriMesh](../../com.aspose.threed/trimesh) from input with new vertex l
 | vd | [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) | The new vertex declaration of the output TriMesh |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh) - A new TriMesh instance with new vertex declaration.
+[TriMesh](../../com.aspose.threed/trimesh) - A new TriMesh instance with new vertex declaration. **Example:**
+
+```
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+  VertexDeclaration vd = new VertexDeclaration();
+  vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
+  vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.NORMAL);
+  vd.addField(VertexFieldDataType.F_VECTOR2, VertexFieldSemantic.UV);
+  //convert a mesh to TriMesh, the layout is automatically inferred from input mesh
+  var oldTriMesh = TriMesh.fromMesh((new Sphere()).toMesh());
+  //now create a new TriMesh from old TriMesh, using explicit memory layout defined by vd
+  var newTriMesh = TriMesh.copyFrom(oldTriMesh, vd);
+```
 ### endVertex() {#endVertex--}
 ```
 public void endVertex()
@@ -174,7 +205,20 @@ Create a TriMesh from given mesh object, the vertex declaration are based on the
 | mesh | [Mesh](../../com.aspose.threed/mesh) |  |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh)
+[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh) **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
+      var mesh = (new Sphere()).toMesh();
+      var triMesh = TriMesh.fromMesh(mesh);
+      //save it to a stream, 115 vertices * 32bytes per vertex
+      var stream = new ByteArrayOutputStream();
+      try(var s = Stream.wrap(stream)) {
+          triMesh.writeVerticesTo(s);
+          //save indices as ushort to stream, 504 indices * 2 bytes per index
+          triMesh.write16bIndicesTo(s);
+      }
+```
 ### fromMesh(Mesh mesh, boolean useFloat) {#fromMesh-com.aspose.threed.Mesh-boolean-}
 ```
 public static TriMesh fromMesh(Mesh mesh, boolean useFloat)
@@ -190,7 +234,20 @@ Create a TriMesh from given mesh object, the vertex declaration are based on the
 | useFloat | boolean | Use float type instead of double type for each vertex element component. |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh)
+[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh) **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
+      var mesh = (new Sphere()).toMesh();
+      var triMesh = TriMesh.fromMesh(mesh);
+      //save it to a stream, 115 vertices * 32bytes per vertex
+      var stream = new ByteArrayOutputStream();
+      try(var s = Stream.wrap(stream)) {
+          triMesh.writeVerticesTo(s);
+          //save indices as ushort to stream, 504 indices * 2 bytes per index
+          triMesh.write16bIndicesTo(s);
+      }
+```
 ### fromMesh(VertexDeclaration declaration, Mesh mesh) {#fromMesh-com.aspose.threed.VertexDeclaration-com.aspose.threed.Mesh-}
 ```
 public static TriMesh fromMesh(VertexDeclaration declaration, Mesh mesh)
@@ -202,11 +259,29 @@ Create a TriMesh from given mesh object with given vertex layout.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| declaration | [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) |  |
-| mesh | [Mesh](../../com.aspose.threed/mesh) |  |
+| declaration | [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) | Vertex's type definition, or memory layout |
+| mesh | [Mesh](../../com.aspose.threed/mesh) | Source mesh |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh)
+[TriMesh](../../com.aspose.threed/trimesh) - Instance of TriMesh converted from input mesh with specified vertex's memory layout **Example:**
+
+```
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+      VertexDeclaration vd = new VertexDeclaration();
+      vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
+      vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.NORMAL);
+      vd.addField(VertexFieldDataType.F_VECTOR2, VertexFieldSemantic.UV);
+      //convert a mesh to tri-mesh using specified memory layout
+      var mesh = (new Sphere()).toMesh();
+      var triMesh = TriMesh.fromMesh(vd, mesh);
+      //save it to a stream, 115 vertices * 32bytes per vertex
+      var stream = new ByteArrayOutputStream();
+      try(var s = Stream.wrap(stream)) {
+          triMesh.writeVerticesTo(s);
+          //save indices as ushort to stream, 504 indices * 2 bytes per index
+          triMesh.write16bIndicesTo(s);
+      }
+```
 ### fromRawData(VertexDeclaration vd, byte[] vertices, int[] indices, boolean generateVertexMapping) {#fromRawData-com.aspose.threed.VertexDeclaration-byte---int---boolean-}
 ```
 public static TriMesh fromRawData(VertexDeclaration vd, byte[] vertices, int[] indices, boolean generateVertexMapping)
@@ -224,14 +299,39 @@ Create TriMesh from raw data
 | generateVertexMapping | boolean | Generate [Vertex](../../com.aspose.threed/vertex) for each vertex, which is not necessary for just serialization/deserialization. |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) instance that encapsulated the input byte array.
+[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) instance that encapsulated the input byte array. **Remarks:** The returned TriMesh will not copy the input byte array for performance, external changes on the array will be reflected to this instance. **Example:** The following code shows how to construct a TriMesh from raw bytes, this is useful when build your own 3D format
+
+```
+var indices = new int[] { 0,  1,  2 };
+  var vertices = new byte[]{
+      0, 0, 0, 191,
+      0, 0, 0, 0,
+      0, 0, 0, 191,
+      0, 0, 0, 191,
+      0, 0, 0, 0,
+      0, 0, 0, 63,
+      0, 0, 0, 63,
+      0, 0, 0, 0,
+      0, 0, 0, 63
+  };
+  VertexDeclaration vd = new VertexDeclaration();
+  vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Position);
+  var triMesh = TriMesh.FromRawData(vd, vertices, indices, true);
+```
 ### getBoundingBox() {#getBoundingBox--}
 ```
 public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system.
+Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+
+```
+Entity entity = new Sphere();
+     entity.setRadius(10);
+     var bbox = entity.getBoundingBox();
+     System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
+```
 
 **Returns:**
 [BoundingBox](../../com.aspose.threed/boundingbox)
@@ -762,7 +862,44 @@ Write the indices data as 16bit integer to the stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream | **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
+      var mesh = (new Sphere()).toMesh();
+      var triMesh = TriMesh.fromMesh(mesh);
+      //save it to a stream, 115 vertices * 32bytes per vertex
+      var stream = new ByteArrayOutputStream();
+      try(var s = Stream.wrap(stream)) {
+          triMesh.writeVerticesTo(s);
+          //save indices as ushort to stream, 504 indices * 2 bytes per index
+          triMesh.write16bIndicesTo(s);
+      }
+``` |
+
+### write16bIndicesTo(OutputStream stream) {#write16bIndicesTo-java.io.OutputStream-}
+```
+public void write16bIndicesTo(OutputStream stream)
+```
+
+
+Write the indices data as 16bit integer to the stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh    
+     var mesh = (new Sphere()).toMesh();    
+     var triMesh = TriMesh.fromMesh(mesh);    
+     //save it to a stream, 115 vertices * 32bytes per vertex    
+     var stream = new ByteArrayOutputStream();    
+     triMesh.writeVerticesTo(stream);    
+     //save indices as ushort to stream, 504 indices * 2 bytes per index    
+     triMesh.write16bIndicesTo(stream);
+``` |
 
 ### write32bIndicesTo(Stream stream) {#write32bIndicesTo-com.aspose.csporter.helpers.Stream-}
 ```
@@ -775,7 +912,44 @@ Write the indices data as 32bit integer to the stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream | **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
+      var mesh = (new Sphere()).toMesh();
+      var triMesh = TriMesh.fromMesh(mesh);
+      //save it to a stream, 115 vertices * 32bytes per vertex
+      var stream = new ByteArrayOutputStream();
+      try(var s = Stream.wrap(stream)) {
+          triMesh.writeVerticesTo(s);
+          //save indices as ushort to stream, 504 indices * 2 bytes per index
+          triMesh.write32bIndicesTo(s);
+      }
+``` |
+
+### write32bIndicesTo(OutputStream stream) {#write32bIndicesTo-java.io.OutputStream-}
+```
+public void write32bIndicesTo(OutputStream stream)
+```
+
+
+Write the indices data as 32bit integer to the stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh    
+      var mesh = (new Sphere()).toMesh();    
+      var triMesh = TriMesh.fromMesh(mesh);    
+      //save it to a stream, 115 vertices * 32bytes per vertex    
+      var stream = new ByteArrayOutputStream();    
+      triMesh.writeVerticesTo(stream);    
+      //save indices as ushort to stream, 504 indices * 2 bytes per index    
+      triMesh.write32bIndicesTo(stream);
+``` |
 
 ### writeVerticesTo(Stream stream) {#writeVerticesTo-com.aspose.csporter.helpers.Stream-}
 ```
@@ -788,5 +962,42 @@ Write vertices data to the specified stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | The stream that the vertices data will be written to |
+| stream | com.aspose.csporter.helpers.Stream | The stream that the vertices data will be written to **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
+      var mesh = (new Sphere()).toMesh();
+      var triMesh = TriMesh.fromMesh(mesh);
+      //save it to a stream, 115 vertices * 32bytes per vertex
+      var stream = new ByteArrayOutputStream();
+      try(var s = Stream.wrap(stream)) {
+          triMesh.writeVerticesTo(s);
+          //save indices as ushort to stream, 504 indices * 2 bytes per index
+          triMesh.write16bIndicesTo(s);
+      }
+``` |
+
+### writeVerticesTo(OutputStream stream) {#writeVerticesTo-java.io.OutputStream-}
+```
+public void writeVerticesTo(OutputStream stream)
+```
+
+
+Write vertices data to the specified stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | The stream that the vertices data will be written to **Example:**
+
+```
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh    
+      var mesh = (new Sphere()).toMesh();    
+      var triMesh = TriMesh.fromMesh(mesh);    
+      //save it to a stream, 115 vertices * 32bytes per vertex    
+      var stream = new ByteArrayOutputStream();    
+      triMesh.writeVerticesTo(stream);    
+      //save indices as ushort to stream, 504 indices * 2 bytes per index    
+      triMesh.write16bIndicesTo(stream);
+``` |
 

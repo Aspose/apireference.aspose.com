@@ -1,7 +1,7 @@
 ---
 title: BindPoint
 second_title: Aspose.3D for Java API Reference
-description: A  is usually created on an objects property some property types contains multiple component fieldslike a Vector3 field  will generate channel for each component field and connects the field to one or more keyframe sequence instances through the channels.
+description: A  is usually created on an objects property some property types contains multiple component fieldslike a Vector3 field   will generate channel for each component field and connects the field to one or more keyframe sequence instances through the channels.
 type: docs
 weight: 19
 url: /java/com.aspose.threed/bindpoint/

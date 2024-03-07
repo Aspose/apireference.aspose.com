@@ -126,7 +126,7 @@ Creates a vertex element with specified type and add it to the geometry.
 | type | [VertexElementType](../../com.aspose.threed/vertexelementtype) | Vertex element type |
 
 **Returns:**
-[VertexElement](../../com.aspose.threed/vertexelement) - Created element.
+[VertexElement](../../com.aspose.threed/vertexelement) - Created element. **Remarks:** If type is [VertexElementType.UV](../../com.aspose.threed/vertexelementtype\#UV), a [VertexElementUV](../../com.aspose.threed/vertexelementuv) with texture mapping type to [TextureMapping.DIFFUSE](../../com.aspose.threed/texturemapping\#DIFFUSE) will be created.
 ### createElement(VertexElementType type, MappingMode mappingMode, ReferenceMode referenceMode) {#createElement-com.aspose.threed.VertexElementType-com.aspose.threed.MappingMode-com.aspose.threed.ReferenceMode-}
 ```
 public VertexElement createElement(VertexElementType type, MappingMode mappingMode, ReferenceMode referenceMode)
@@ -143,7 +143,7 @@ Creates a vertex element with specified type and add it to the geometry.
 | referenceMode | [ReferenceMode](../../com.aspose.threed/referencemode) | Default reference mode |
 
 **Returns:**
-[VertexElement](../../com.aspose.threed/vertexelement) - Created element.
+[VertexElement](../../com.aspose.threed/vertexelement) - Created element. **Remarks:** If type is [VertexElementType.UV](../../com.aspose.threed/vertexelementtype\#UV), a [VertexElementUV](../../com.aspose.threed/vertexelementuv) with texture mapping type to [TextureMapping.DIFFUSE](../../com.aspose.threed/texturemapping\#DIFFUSE) will be created.
 ### createElementUV(TextureMapping uvMapping) {#createElementUV-com.aspose.threed.TextureMapping-}
 ```
 public VertexElementUV createElementUV(TextureMapping uvMapping)
@@ -227,7 +227,14 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system.
+Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+
+```
+Entity entity = new Sphere();
+     entity.setRadius(10);
+     var bbox = entity.getBoundingBox();
+     System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
+```
 
 **Returns:**
 [BoundingBox](../../com.aspose.threed/boundingbox)

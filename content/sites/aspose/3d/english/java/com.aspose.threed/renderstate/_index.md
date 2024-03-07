@@ -1,7 +1,7 @@
 ---
 title: RenderState
 second_title: Aspose.3D for Java API Reference
-description: Render state for building the pipeline The changes made on render state will not affect the created pipeline instances.
+description: Render state for building the pipeline  The changes made on render state will not affect the created pipeline instances.
 type: docs
 weight: 141
 url: /java/com.aspose.threed/renderstate/

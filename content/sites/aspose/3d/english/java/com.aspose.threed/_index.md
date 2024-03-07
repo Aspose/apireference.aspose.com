@@ -107,7 +107,7 @@ url: /java/com.aspose.threed/
 | [Node](../com.aspose.threed/node) | Represents an element in the scene graph. |
 | [NurbsCurve](../com.aspose.threed/nurbscurve) | [NURBS curve][] is a curve represented by NURBS(Non-uniform rational basis spline), A NURBS curve is defined by its [NurbsCurve.\#getOrder](../com.aspose.threed/nurbscurve\#getOrder), a set of weighted [Geometry.\#getControlPoints](../com.aspose.threed/geometry\#getControlPoints) and a [NurbsCurve.\#getKnotVectors](../com.aspose.threed/nurbscurve\#getKnotVectors) The w component in control point is used as control point's weight, whatever it is a [CurveDimension.\#TWO\_DIMENSIONAL](../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) or [CurveDimension.\#THREE\_DIMENSIONAL](../com.aspose.threed/curvedimension\#THREE-DIMENSIONAL)[NURBS curve]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
 | [NurbsDirection](../com.aspose.threed/nurbsdirection) | A 3D [NurbsSurface](../com.aspose.threed/nurbssurface) has two direction, the [NurbsSurface.\#getU](../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.\#getV](../com.aspose.threed/nurbssurface\#getV), the [NurbsDirection](../com.aspose.threed/nurbsdirection) defines data for each direction. |
-| [NurbsSurface](../com.aspose.threed/nurbssurface) | [NurbsSurface](../com.aspose.threed/nurbssurface) is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A [NurbsSurface](../com.aspose.threed/nurbssurface) is defined by two [NurbsDirection](../com.aspose.threed/nurbsdirection) [NurbsSurface.\#getU](../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.\#getV](../com.aspose.threed/nurbssurface\#getV).[NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
+| [NurbsSurface](../com.aspose.threed/nurbssurface) | [NurbsSurface](../com.aspose.threed/nurbssurface) is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A [NurbsSurface](../com.aspose.threed/nurbssurface) is defined by two [NurbsDirection](../com.aspose.threed/nurbsdirection)[NurbsSurface.\#getU](../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.\#getV](../com.aspose.threed/nurbssurface\#getV).[NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
 | [ObjLoadOptions](../com.aspose.threed/objloadoptions) | Load options for wavefront obj |
 | [ObjSaveOptions](../com.aspose.threed/objsaveoptions) | Save options for wavefront obj file |
 | [ParameterizedProfile](../com.aspose.threed/parameterizedprofile) | The base class of all parameterized profiles. |
@@ -126,7 +126,7 @@ url: /java/com.aspose.threed/
 | [PlyLoadOptions](../com.aspose.threed/plyloadoptions) | Load options for PLY files |
 | [PlySaveOptions](../com.aspose.threed/plysaveoptions) | Save options for exporting scene as PLY file. |
 | [PointCloud](../com.aspose.threed/pointcloud) | The point cloud contains no topology information but only the control points and the vertex elements. |
-| [PolygonBuilder](../com.aspose.threed/polygonbuilder) | A helper class to build polygon for [Mesh](../com.aspose.threed/mesh) |
+| [PolygonBuilder](../com.aspose.threed/polygonbuilder) | A helper class to build polygon for [Mesh](../com.aspose.threed/mesh) **Example:** |
 | [PolygonModifier](../com.aspose.threed/polygonmodifier) | Utilities to modify polygons |
 | [Pose](../com.aspose.threed/pose) | The pose is used to store transformation matrix when the geometry is skinned. |
 | [PostProcessing](../com.aspose.threed/postprocessing) | The post-processing effects |
@@ -154,7 +154,7 @@ url: /java/com.aspose.threed/
 | [RvmSaveOptions](../com.aspose.threed/rvmsaveoptions) | Save options for Aveva PDMS RVM file. |
 | [SPIRVSource](../com.aspose.threed/spirvsource) | The compiled shader in SPIR-V format. |
 | [SaveOptions](../com.aspose.threed/saveoptions) | The base class to configure options in file saving for different types |
-| [Scene](../com.aspose.threed/scene) | A scene is a top-level object that contains the nodes, geometries, materials, textures, animation, poses, sub-scenes and etc. |
+| [Scene](../com.aspose.threed/scene) |  |
 | [SceneObject](../com.aspose.threed/sceneobject) | The root class of objects that will be stored inside a scene. |
 | [ShaderException](../com.aspose.threed/shaderexception) | Shader related exceptions |
 | [ShaderMaterial](../com.aspose.threed/shadermaterial) | A shader material allows to describe the material by external rendering engine or shader language. |

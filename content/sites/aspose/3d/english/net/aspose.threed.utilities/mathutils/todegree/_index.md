@@ -57,7 +57,7 @@ The degree value.
 ### Examples
 
 ```csharp
-var deg = MathUtils.ToDegree(0.3);
+var deg = MathUtils.ToDegree(0.3f);
 Console.WriteLine($"Degree = {deg}");
 ```
 

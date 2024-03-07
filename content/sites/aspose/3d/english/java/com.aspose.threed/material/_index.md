@@ -16,7 +16,18 @@ java.lang.Iterable
 public abstract class Material extends A3DObject implements Iterable<TextureSlot>
 ```
 
-Material defines the parameters necessary for visual appearance of geometry. Aspose.3D provides shading model for [LambertMaterial](../../com.aspose.threed/lambertmaterial), [PhongMaterial](../../com.aspose.threed/phongmaterial) and [ShaderMaterial](../../com.aspose.threed/shadermaterial)
+Material defines the parameters necessary for visual appearance of geometry. Aspose.3D provides shading model for [LambertMaterial](../../com.aspose.threed/lambertmaterial), [PhongMaterial](../../com.aspose.threed/phongmaterial) and [ShaderMaterial](../../com.aspose.threed/shadermaterial) **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     for(var slot : mat)
+     {
+         System.out.printf("Texture slot %s = %s", slot.getSlotName(), slot.getTexture());
+     }
+```
 ## Fields
 
 | Field | Description |
@@ -179,7 +190,15 @@ Gets the texture from the specified slot, it can be material's property name or 
 | slotName | java.lang.String | Slot name. |
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase) - The texture.
+[TextureBase](../../com.aspose.threed/texturebase) - The texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     tex = (Texture)mat.getTexture(Material.MAP_DIFFUSE);
+```
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -285,7 +304,14 @@ Sets the texture to specified slot
 | Parameter | Type | Description |
 | --- | --- | --- |
 | slotName | java.lang.String | Slot name. |
-| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. |
+| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_NORMAL, tex);
+``` |
 
 ### toString() {#toString--}
 ```

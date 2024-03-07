@@ -18,7 +18,7 @@ public Vector3 GeometricRotation { get; set; }
 
 ```csharp
 Node node = new Node();
-node.Transform.GeometricRotation = new Vector3(90, 0, 0);
+node.getTransform().setGeometricRotation(new Vector3(90, 0, 0));
 ```
 
 ### See Also

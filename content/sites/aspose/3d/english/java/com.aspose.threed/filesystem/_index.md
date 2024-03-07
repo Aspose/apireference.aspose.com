@@ -16,7 +16,17 @@ java.io.Closeable
 public abstract class FileSystem implements Closeable
 ```
 
-File system encapsulation. Aspose.3D will use this to read/write dependencies.
+File system encapsulation. Aspose.3D will use this to read/write dependencies. **Example:** The following code shows how to import file, and provide dependent files in a given directory
+
+```
+var inputFile = "input.fbx";
+     var format = FileFormat.detect(inputFile);
+     //create a load options instance and specify a zip file system
+     var opt = format.createLoadOptions();
+     opt.setFileSystem(new LocalFileSystem("textures/"));
+     //load the file
+     var scene = Scene.fromFile(inputFile, opt);
+```
 ## Constructors
 
 | Constructor | Description |

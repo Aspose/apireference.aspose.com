@@ -46,7 +46,7 @@ Represents an element in the scene graph. A scene graph is a tree of Node object
 | [getEntity()](#getEntity--) | Gets the first entity attached to this node, if sets, will clear other entities. |
 | [getExcluded()](#getExcluded--) | Gets whether to exclude this node and all child nodes/entities during exporting. |
 | [getGlobalTransform()](#getGlobalTransform--) | Gets the global transform. |
-| [getMaterial()](#getMaterial--) | Gets the first material associated with this node, if sets, will clear other materials |
+| [getMaterial()](#getMaterial--) | Gets the first material associated with this node, if sets, will clear other materials **Example:** |
 | [getMaterials()](#getMaterials--) | Gets the materials associated with this node. |
 | [getMetaDatas()](#getMetaDatas--) | Gets the meta data defined in this node. |
 | [getName()](#getName--) | Gets the name. |
@@ -55,7 +55,7 @@ Represents an element in the scene graph. A scene graph is a tree of Node object
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
 | [getScene()](#getScene--) | Gets the scene that this object belongs to |
 | [getTransform()](#getTransform--) | Gets the local transform. |
-| [getVisible()](#getVisible--) | Gets to show the node |
+| [getVisible()](#getVisible--) | Gets to show the node **Example:** The following code shows how to create a invisible node |
 | [hashCode()](#hashCode--) |  |
 | [merge(Node node)](#merge-com.aspose.threed.Node-) | Detach everything under the node and attach them to current node. |
 | [notify()](#notify--) |  |
@@ -125,7 +125,21 @@ Walks through all descendant nodes(including the current node) and call the visi
 | visitor | [NodeVisitor](../../com.aspose.threed/nodevisitor) | Visitor callback to visit the node |
 
 **Returns:**
-boolean - true means visitor has broke the walk through.
+boolean - true means visitor has broke the walk through. **Example:** The following code shows how to get all meshes from a scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     List<Mesh> meshes = new ArrayList<Mesh>();
+     scene.getRootNode().accept(new NodeVisitor() {
+         @Override
+         public boolean call(Node node) {
+             if(node.Entity instanceof Mesh)
+                 meshes.add(((Mesh)node).getEntity());
+             //continue searching
+             return true;
+         }
+     });
+```
 ### addChildNode(Node node) {#addChildNode-com.aspose.threed.Node-}
 ```
 public void addChildNode(Node node)
@@ -137,7 +151,14 @@ Add a child node to this node
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | [Node](../../com.aspose.threed/node) | The child node to be attached |
+| node | [Node](../../com.aspose.threed/node) | The child node to be attached **Example:** The following code shows how to get all meshes from a scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     var newNode = new Node();
+     //add a new node manually
+     scene.getRootNode().addChildNode(newNode);
+``` |
 
 ### addEntity(Entity entity) {#addEntity-com.aspose.threed.Entity-}
 ```
@@ -161,7 +182,14 @@ public Node createChildNode()
 Creates a child node
 
 **Returns:**
-[Node](../../com.aspose.threed/node) - The new child node.
+[Node](../../com.aspose.threed/node) - The new child node. **Example:** The following code shows how to create a new child node under root node
+
+```
+Scene scene = new Scene();
+     Node node = scene.getRootNode().createChildNode();
+     node.setEntity(new Box());
+     scene.save("output.fbx");
+```
 ### createChildNode(Entity entity) {#createChildNode-com.aspose.threed.Entity-}
 ```
 public Node createChildNode(Entity entity)
@@ -176,7 +204,13 @@ Create a new child node with given entity attached
 | entity | [Entity](../../com.aspose.threed/entity) | Default entity attached to the node |
 
 **Returns:**
-[Node](../../com.aspose.threed/node) - The new child node.
+[Node](../../com.aspose.threed/node) - The new child node. **Example:** The following code shows how to create a new child node under root node
+
+```
+Scene scene = new Scene();
+     Node node = scene.getRootNode().createChildNode(new Box());
+     scene.save("output.fbx");
+```
 ### createChildNode(String nodeName) {#createChildNode-java.lang.String-}
 ```
 public Node createChildNode(String nodeName)
@@ -191,7 +225,14 @@ Create a new child node with given node name
 | nodeName | java.lang.String | The new child node's name |
 
 **Returns:**
-[Node](../../com.aspose.threed/node) - The new child node.
+[Node](../../com.aspose.threed/node) - The new child node. **Example:** The following code shows how to create a new child node under root node
+
+```
+Scene scene = new Scene();
+     Node node = scene.getRootNode().createChildNode("new node");
+     node.setEntity(new Box());
+     scene.save("output.fbx");
+```
 ### createChildNode(String nodeName, Entity entity) {#createChildNode-java.lang.String-com.aspose.threed.Entity-}
 ```
 public Node createChildNode(String nodeName, Entity entity)
@@ -254,7 +295,16 @@ Evaluate the global transform, include the geometric transform or not.
 | withGeometricTransform | boolean | Whether the geometric transform is needed. |
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4) - The global transform matrix.
+[Matrix4](../../com.aspose.threed/matrix4) - The global transform matrix. **Example:** The following code shows how to read the node's global transform matrix.
+
+```
+Scene scene = new Scene();
+     var boxNode = scene.getRootNode().createChildNode(new Box());
+     //place the box at (10, 0, 0)
+     boxNode.getTransform().setTranslation(new Vector3(10, 0, 0));
+     Matrix4 mat = boxNode.evaluateGlobalTransform(true);
+     System.out.printf("The box's global transform matrix is %s", mat);
+```
 ### findProperty(String propertyName) {#findProperty-java.lang.String-}
 ```
 public Property findProperty(String propertyName)
@@ -304,7 +354,13 @@ Gets the child node at specified index.
 | index | int | Index. |
 
 **Returns:**
-[Node](../../com.aspose.threed/node) - The child.
+[Node](../../com.aspose.threed/node) - The child. **Example:** The following code shows how to get a child node at specified index.
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     var node = scene.getRootNode().getChild(0);
+     System.out.printf("The first node of the file is %s", node.getName());
+```
 ### getChild(String nodeName) {#getChild-java.lang.String-}
 ```
 public Node getChild(String nodeName)
@@ -319,14 +375,28 @@ Gets the child node with the specified name
 | nodeName | java.lang.String | The child name to find. |
 
 **Returns:**
-[Node](../../com.aspose.threed/node) - The child.
+[Node](../../com.aspose.threed/node) - The child. **Example:** The following code shows how to get a child node with specified name
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     var node = scene.getRootNode().getChild("box");
+     System.out.printf("The box node's translation is %s", node.getTransform().getTranslation());
+```
 ### getChildNodes() {#getChildNodes--}
 ```
 public List<Node> getChildNodes()
 ```
 
 
-Gets the children nodes.
+Gets the children nodes. **Example:** The following code shows how to enumerate child node of root node
+
+```
+Scene scene = Scene.fromFile("test.fbx");
+     for(var child : scene.getRootNode().getChildNodes())
+     {
+         //do your business
+     }
+```
 
 **Returns:**
 java.util.List<com.aspose.threed.Node>
@@ -356,7 +426,14 @@ public Entity getEntity()
 ```
 
 
-Gets the first entity attached to this node, if sets, will clear other entities.
+Gets the first entity attached to this node, if sets, will clear other entities. **Example:** The following code shows how to create a new child node under root node
+
+```
+Scene scene = new Scene();
+     Node node = scene.getRootNode().createChildNode("new node");
+     node.setEntity(new Box());
+     scene.save("output.fbx");
+```
 
 **Returns:**
 [Entity](../../com.aspose.threed/entity)
@@ -366,7 +443,14 @@ public boolean getExcluded()
 ```
 
 
-Gets whether to exclude this node and all child nodes/entities during exporting.
+Gets whether to exclude this node and all child nodes/entities during exporting. **Example:** The following code shows how to exclude specified node from exporting
+
+```
+Scene scene = new Scene();
+     scene.getRootNode().createChildNode("excluded", new Box()).setExcluded(true);
+     scene.getRootNode().createChildNode("not excluded", new Box());
+     scene.save("output.usdz");
+```
 
 **Returns:**
 boolean
@@ -376,7 +460,16 @@ public GlobalTransform getGlobalTransform()
 ```
 
 
-Gets the global transform.
+Gets the global transform. **Example:** The following code shows how to read node's global transform
+
+```
+Scene scene = new Scene();
+     var boxNode = scene.getRootNode().createChildNode(new Box());
+     //place the box at (10, 0, 0)
+     boxNode.getTransform().setTranslation(new Vector3(10, 0, 0));
+     var global = boxNode.getGlobalTransform();
+     System.out.printf("The box's position in world coordinate is %s", global.getTranslation());
+```
 
 **Returns:**
 [GlobalTransform](../../com.aspose.threed/globaltransform)
@@ -386,7 +479,13 @@ public Material getMaterial()
 ```
 
 
-Gets the first material associated with this node, if sets, will clear other materials
+Gets the first material associated with this node, if sets, will clear other materials **Example:**
+
+```
+Scene scene = new Scene();
+     var node = scene.getRootNode().createChildNode(new Box());
+     node.setMaterial(new LambertMaterial());
+```
 
 **Returns:**
 [Material](../../com.aspose.threed/material)
@@ -471,7 +570,14 @@ public Transform getTransform()
 ```
 
 
-Gets the local transform.
+Gets the local transform. **Example:** The following code shows how to change the transform of the node:
+
+```
+Scene scene = new Scene();
+     var boxNode = scene.getRootNode().createChildNode(new Box());
+     //place the box at (10, 0, 0)
+     boxNode.getTransform().setTranslation(new Vector3(10, 0, 0));
+```
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
@@ -481,7 +587,14 @@ public boolean getVisible()
 ```
 
 
-Gets to show the node
+Gets to show the node **Example:** The following code shows how to create a invisible node
+
+```
+Scene scene = new Scene();
+     Node node = scene.getRootNode().createChildNode("test-node", new Box());
+     node.setVisible(false);
+     scene.save("output.fbx");
+```
 
 **Returns:**
 boolean
@@ -506,7 +619,14 @@ Detach everything under the node and attach them to current node.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | [Node](../../com.aspose.threed/node) |  |
+| node | [Node](../../com.aspose.threed/node) | **Example:** The following code shows how to merge two 3D files into one file
+
+```
+Scene scene1 = Scene.fromFile("scene1.fbx");
+     Scene scene2 = Scene.fromFile("scene2.fbx");
+     scene1.getRootNode().merge(scene2.getRootNode());
+     scene1.save("merged.fbx");
+``` |
 
 ### notify() {#notify--}
 ```
@@ -608,7 +728,14 @@ Sets the first entity attached to this node, if sets, will clear other entities.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Entity](../../com.aspose.threed/entity) | New value |
+| value | [Entity](../../com.aspose.threed/entity) | New value **Example:** The following code shows how to create a new child node under root node
+
+```
+Scene scene = new Scene();
+     Node node = scene.getRootNode().createChildNode("new node");
+     node.setEntity(new Box());
+     scene.save("output.fbx");
+``` |
 
 ### setExcluded(boolean value) {#setExcluded-boolean-}
 ```
@@ -621,7 +748,14 @@ Sets whether to exclude this node and all child nodes/entities during exporting.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | New value |
+| value | boolean | New value **Example:** The following code shows how to exclude specified node from exporting
+
+```
+Scene scene = new Scene();
+     scene.getRootNode().createChildNode("excluded", new Box()).setExcluded(true);
+     scene.getRootNode().createChildNode("not excluded", new Box());
+     scene.save("output.usdz");
+``` |
 
 ### setMaterial(Material value) {#setMaterial-com.aspose.threed.Material-}
 ```
@@ -634,7 +768,13 @@ Sets the first material associated with this node, if sets, will clear other mat
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Material](../../com.aspose.threed/material) | New value |
+| value | [Material](../../com.aspose.threed/material) | New value **Example:**
+
+```
+Scene scene = new Scene();
+     var node = scene.getRootNode().createChildNode(new Box());
+     node.setMaterial(new LambertMaterial());
+``` |
 
 ### setName(String value) {#setName-java.lang.String-}
 ```
@@ -687,7 +827,14 @@ Sets to show the node
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | New value |
+| value | boolean | New value **Example:** The following code shows how to create a invisible node
+
+```
+Scene scene = new Scene();
+     Node node = scene.getRootNode().createChildNode("test-node", new Box());
+     node.setVisible(false);
+     scene.save("output.fbx");
+``` |
 
 ### toString() {#toString--}
 ```

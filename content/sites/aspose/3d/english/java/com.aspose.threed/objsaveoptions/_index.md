@@ -98,7 +98,7 @@ public AxisSystem getAxisSystem()
 ```
 
 
-Gets the axis system in the exported file.
+Gets the axis system in the exported file. **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature.
 
 **Returns:**
 [AxisSystem](../../com.aspose.threed/axissystem)
@@ -282,7 +282,7 @@ Sets the axis system in the exported file.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value |
+| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature. |
 
 ### setEnableMaterials(boolean value) {#setEnableMaterials-boolean-}
 ```

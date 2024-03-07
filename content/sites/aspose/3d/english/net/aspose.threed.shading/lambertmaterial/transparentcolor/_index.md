@@ -23,6 +23,11 @@ var mat = new LambertMaterial();
 mat.TransparentColor = new Vector3(0.3, 0.5, 0.2);
 ```
 
+```csharp
+var mat = new LambertMaterial();
+mat.setTransparentColor(new Vector3(0.3, 0.5, 0.2));
+```
+
 color of the transparent.
 
 ### See Also

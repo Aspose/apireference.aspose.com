@@ -16,8 +16,30 @@ public static TriMesh FromMesh(VertexDeclaration declaration, Mesh mesh)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| declaration | VertexDeclaration |  |
-| mesh | Mesh |  |
+| declaration | VertexDeclaration | Vertex's type definition, or memory layout |
+| mesh | Mesh | Source mesh |
+
+### Return Value
+
+Instance of TriMesh converted from input mesh with specified vertex's memory layout
+
+### Examples
+
+```csharp
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+VertexDeclaration vd = new VertexDeclaration();
+vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Position);
+vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Normal);
+vd.AddField(VertexFieldDataType.FVector2, VertexFieldSemantic.UV);
+//convert a mesh to tri-mesh using specified memory layout  
+var mesh = (new Sphere()).ToMesh();
+var triMesh = TriMesh.FromMesh(vd, mesh);
+//save it to a stream, 115 vertices * 32bytes per vertex
+var stream = new MemoryStream();
+triMesh.WriteVerticesTo(stream);
+//save indices as ushort to stream, 504 indices * 2 bytes per index
+triMesh.Write16bIndicesTo(stream);
+```
 
 ### See Also
 
@@ -45,6 +67,18 @@ public static TriMesh FromMesh(Mesh mesh, bool useFloat = true)
 ### Return Value
 
 The [`TriMesh`](../../trimesh) generated from given [`Mesh`](../../mesh)
+
+### Examples
+
+```csharp
+//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
+var triMesh = TriMesh.FromMesh(new Sphere().ToMesh());
+//save it to a stream, 115 vertices * 32bytes per vertex
+var stream = new MemoryStream();
+triMesh.WriteVerticesTo(stream);
+//save indices as ushort to stream, 504 indices * 2 bytes per index
+triMesh.Write16bIndicesTo(stream);
+```
 
 ### See Also
 

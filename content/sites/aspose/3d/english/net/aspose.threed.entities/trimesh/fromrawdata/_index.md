@@ -30,6 +30,28 @@ The [`TriMesh`](../../trimesh) instance that encapsulated the input byte array.
 
 The returned TriMesh will not copy the input byte array for performance, external changes on the array will be reflected to this instance.
 
+### Examples
+
+The following code shows how to construct a TriMesh from raw bytes, this is useful when build your own 3D format
+
+```csharp
+var indices = new int[] { 0,  1,  2 };
+var vertices = new byte[]{
+    0, 0, 0, 191,
+    0, 0, 0, 0,
+    0, 0, 0, 191,
+    0, 0, 0, 191,
+    0, 0, 0, 0,
+    0, 0, 0, 63,
+    0, 0, 0, 63,
+    0, 0, 0, 0,
+    0, 0, 0, 63
+};
+VertexDeclaration vd = new VertexDeclaration();
+vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Position);
+var triMesh = TriMesh.FromRawData(vd, vertices, indices, true);
+```
+
 ### See Also
 
 * class [VertexDeclaration](../../../aspose.threed.utilities/vertexdeclaration)

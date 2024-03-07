@@ -65,7 +65,7 @@ using (var stream = new FileStream("input.fbx", FileMode.Open))
 {
     var opt = new FbxLoadOptions();
     opt.LookupPaths.Add("textures");
-    scene.Open(stream, FileFormat.FBX7400ASCII);
+    scene.Open(stream, opt);
 }
 ```
 

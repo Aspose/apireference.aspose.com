@@ -60,13 +60,7 @@ Use this method to load a license from a stream.
 ### Example 
 
 
-```python
-from aspose.threed import License
 
-license = License()
-license.set_license(myStream)
-
-```
 
 
 

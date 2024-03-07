@@ -29,6 +29,21 @@ def optimize(self, vertex_elements):
 | :- | :- | :- |
 | vertex_elements | bool | Optimize duplicated vertex element data |
 
+### Example 
+
+
+The following code shows how to eliminate duplicated control points from an unoptimized mesh:
+
+```python
+from aspose.threed.entities import Sphere
+
+# Sphere.ToMesh generates 117 control points
+mesh = Sphere().to_mesh()
+# After optimized, there're only 86 control points, polygon indices are also remapped.
+optimized = mesh.optimize(True)
+
+```
+
 
 
 ### See Also

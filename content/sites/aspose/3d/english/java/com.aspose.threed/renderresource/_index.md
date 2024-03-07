@@ -1,7 +1,7 @@
 ---
 title: RenderResource
 second_title: Aspose.3D for Java API Reference
-description: The abstract class of all render resources All render resources will be disposed when the renderer is released.
+description: The abstract class of all render resources  All render resources will be disposed when the renderer is released.
 type: docs
 weight: 140
 url: /java/com.aspose.threed/renderresource/

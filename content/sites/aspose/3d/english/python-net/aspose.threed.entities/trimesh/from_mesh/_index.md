@@ -16,7 +16,7 @@ Create a TriMesh from given mesh object with given vertex layout.
 ### Returns 
 
 
-
+Instance of TriMesh converted from input mesh with specified vertex's memory layout
 
 
 ```python
@@ -27,8 +27,8 @@ def from_mesh(self, declaration, mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| declaration | aspose.threed.utilities.VertexDeclaration |  |
-| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |  |
+| declaration | aspose.threed.utilities.VertexDeclaration | Vertex's type definition, or memory layout |
+| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | Source mesh |
 
 
 ## from_mesh {#aspose.threed.entities.Mesh-bool}

@@ -13,7 +13,25 @@ java.lang.Object, [com.aspose.threed.FileSystem](../../com.aspose.threed/filesys
 public class MemoryFileSystem extends FileSystem
 ```
 
-The [MemoryFileSystem](../../com.aspose.threed/memoryfilesystem) will maps the read/write operations to memory.
+The [MemoryFileSystem](../../com.aspose.threed/memoryfilesystem) will maps the read/write operations to memory. **Example:** The following code shows how to export file to memory, includes the dependent file by using MemoryFileSystem.
+
+```
+//create a scene with material
+     Scene scene = new Scene();
+     scene.getRootNode().createChildNode(new Box()).setMaterial(new LambertMaterial());
+     //create a save option and specify the file system, so the dependent file will be written to memory
+     var opt = FileFormat.WAVEFRONTOBJ.createSaveOptions();
+     var mfs = new MemoryFileSystem();
+     opt.setFileSystem(mfs);
+     //obj's material file name is associated with the obj's file name, so we need a explicit name.
+     opt.setFileName("test.obj");
+     try (var ms = new MemoryStream())
+     {
+         scene.save(ms, opt);
+     }
+     //the test.obj was written to variable ms, and we can also get the test.mtl file content by
+     var materialFile = mfs.getFileContent("test.mtl");
+```
 ## Constructors
 
 | Constructor | Description |

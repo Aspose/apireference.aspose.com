@@ -108,7 +108,7 @@ public AxisSystem getAxisSystem()
 ```
 
 
-Gets the axis system in the exported stl file.
+Gets the axis system in the exported stl file. **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature.
 
 **Returns:**
 [AxisSystem](../../com.aspose.threed/axissystem)
@@ -319,7 +319,7 @@ Sets the axis system in the exported stl file.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value |
+| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature. |
 
 ### setColorComponents(Tuple_3<String,String,String> value) {#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
 ```

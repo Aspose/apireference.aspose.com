@@ -296,7 +296,15 @@ Gets the texture from the specified slot, it can be material's property name or 
 | slotName | java.lang.String | Slot name. |
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase) - The texture.
+[TextureBase](../../com.aspose.threed/texturebase) - The texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     tex = (Texture)mat.getTexture(Material.MAP_DIFFUSE);
+```
 ### getTransparency() {#getTransparency--}
 ```
 public double getTransparency()
@@ -516,7 +524,14 @@ Sets the texture to specified slot
 | Parameter | Type | Description |
 | --- | --- | --- |
 | slotName | java.lang.String | Slot name. |
-| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. |
+| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_NORMAL, tex);
+``` |
 
 ### setTransparency(double value) {#setTransparency-double-}
 ```

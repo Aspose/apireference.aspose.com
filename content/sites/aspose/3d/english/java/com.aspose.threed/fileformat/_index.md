@@ -80,7 +80,7 @@ File format definition
 | [getCanExport()](#getCanExport--) | Gets whether Aspose.3D supports export scene to current file format. |
 | [getCanImport()](#getCanImport--) | Gets whether Aspose.3D supports import scene from current file format. |
 | [getClass()](#getClass--) |  |
-| [getContentType()](#getContentType--) | Gets file format content type |
+| [getContentType()](#getContentType--) | Gets file format content type **Example:** |
 | [getExtension()](#getExtension--) | Gets the extension name of this type. |
 | [getExtensions()](#getExtensions--) | Gets the extension names of this type. |
 | [getFileFormatType()](#getFileFormatType--) | Gets file format type |
@@ -525,7 +525,13 @@ Detect the file format from data stream, file name is optional for guessing type
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream |  |
-| fileName | java.lang.String |  |
+| fileName | java.lang.String | **Example:**
+
+```
+byte[] bytes = new byte[100];//take the bytes from your source
+     var fmt = FileFormat.detect(new MemoryStream(bytes), "input-file");
+     System.out.printf("Input data format: %s", fmt);
+``` |
 
 **Returns:**
 [FileFormat](../../com.aspose.threed/fileformat)
@@ -540,7 +546,12 @@ Detect the file format from file name, file must be readable so Aspose.3D can de
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String |  |
+| fileName | java.lang.String | **Example:**
+
+```
+var fmt = FileFormat.detect("input.fbx");
+     System.out.printf("Input file format: %s", fmt);
+``` |
 
 **Returns:**
 [FileFormat](../../com.aspose.threed/fileformat)
@@ -565,7 +576,14 @@ public boolean getCanExport()
 ```
 
 
-Gets whether Aspose.3D supports export scene to current file format.
+Gets whether Aspose.3D supports export scene to current file format. **Example:** The following code shows how to check if exporting to specified format is supported.
+
+```
+var outputFormat = ".glb";
+     var format = FileFormat.getFormatByExtension(outputFormat);
+     if (format.getCanExport())
+         System.out.printf("Can export to %s", outputFormat);
+```
 
 **Returns:**
 boolean
@@ -575,7 +593,14 @@ public boolean getCanImport()
 ```
 
 
-Gets whether Aspose.3D supports import scene from current file format.
+Gets whether Aspose.3D supports import scene from current file format. **Example:** The following code shows how to check if importing from specified format is supported.
+
+```
+var outputFormat = ".glb";
+     var format = FileFormat.getFormatByExtension(outputFormat);
+     if (format.getCanImport())
+         System.out.printf("Can import from %s", outputFormat);
+```
 
 **Returns:**
 boolean
@@ -595,7 +620,15 @@ public FileContentType getContentType()
 ```
 
 
-Gets file format content type
+Gets file format content type **Example:**
+
+```
+var format = FileFormat.MAYA_BINARY;
+     if (format.getContentType() == FileContentType.BINARY)
+         System.out.printf("%s is binary format", format);
+     else
+         System.out.printf("%s is text-based format", format);
+```
 
 **Returns:**
 [FileContentType](../../com.aspose.threed/filecontenttype)
@@ -605,7 +638,12 @@ public String getExtension()
 ```
 
 
-Gets the extension name of this type.
+Gets the extension name of this type. **Example:**
+
+```
+var format = FileFormat.MAYA_BINARY;
+     System.out.printf("Extension of %s is %s", format, format.getExtension());
+```
 
 **Returns:**
 java.lang.String
@@ -643,7 +681,17 @@ Gets the preferred file format from the file extension name The extension name s
 | extensionName | java.lang.String |  |
 
 **Returns:**
-[FileFormat](../../com.aspose.threed/fileformat) - Instance of [FileFormat](../../com.aspose.threed/fileformat), otherwise null returned.
+[FileFormat](../../com.aspose.threed/fileformat) - Instance of [FileFormat](../../com.aspose.threed/fileformat), otherwise null returned. **Example:** The following code shows how to save scene to memory using specified format
+
+```
+Scene scene = new Scene(new Box());
+     var outputFormat = ".glb";
+     var format = FileFormat.getFormatByExtension(outputFormat);
+     var output = new ByteArrayOutputStream();
+     try(var stream = Stream.wrap(output)) {
+         scene.save(stream);
+     }
+```
 ### getVersion() {#getVersion--}
 ```
 public Version getVersion()

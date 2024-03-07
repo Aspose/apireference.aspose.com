@@ -13,7 +13,17 @@ java.lang.Object, [com.aspose.threed.FileSystem](../../com.aspose.threed/filesys
 public class LocalFileSystem extends FileSystem
 ```
 
-The [LocalFileSystem](../../com.aspose.threed/localfilesystem) will maps the read/write operations to local directory.
+The [LocalFileSystem](../../com.aspose.threed/localfilesystem) will maps the read/write operations to local directory. **Example:** The following code shows how to import file, and provide dependent files in a given directory
+
+```
+var inputFile = "input.fbx";
+     var format = FileFormat.detect(inputFile);
+     //create a load options instance and specify a zip file system
+     var opt = format.createLoadOptions();
+     opt.setFileSystem(new LocalFileSystem("textures/"));
+     //load the file
+     var scene = Scene.fromFile(inputFile, opt);
+```
 ## Constructors
 
 | Constructor | Description |

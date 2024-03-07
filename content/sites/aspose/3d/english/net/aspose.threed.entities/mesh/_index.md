@@ -72,6 +72,7 @@ public class Mesh : Geometry, IEnumerable<int[]>, IMeshConvertible
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 | [ToMesh](../../aspose.threed.entities/mesh/tomesh)() | Gets the Mesh instance from current entity. |
+| [Triangulate](../../aspose.threed.entities/mesh/triangulate)() | Return triangulated mesh |
 | [operator &amp;](../../aspose.threed.entities/mesh/op_bitwiseand) | Calculate the intersection of two meshes |
 | [operator &#x7C;](../../aspose.threed.entities/mesh/op_bitwiseor) | Calculate the union of two meshes |
 | [operator -](../../aspose.threed.entities/mesh/op_subtraction) | Calculate the difference of two meshes |

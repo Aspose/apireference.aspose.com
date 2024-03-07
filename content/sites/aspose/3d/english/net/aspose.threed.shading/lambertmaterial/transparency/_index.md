@@ -23,6 +23,11 @@ var mat = new LambertMaterial();
 mat.Transparency = 0.3;
 ```
 
+```csharp
+var mat = new LambertMaterial();
+mat.setTransparency(0.3);
+```
+
 transparency factor.
 
 ### See Also

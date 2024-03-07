@@ -13,7 +13,18 @@ java.lang.Object
 public class TextureSlot
 ```
 
-Texture slot in [Material](../../com.aspose.threed/material), can be enumerated through material instance.
+Texture slot in [Material](../../com.aspose.threed/material), can be enumerated through material instance. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     for(var slot : mat)
+     {
+         System.out.printf("Texture slot %s = %s", slot.getSlotName(), slot.getTexture());
+     }
+```
 ## Methods
 
 | Method | Description |

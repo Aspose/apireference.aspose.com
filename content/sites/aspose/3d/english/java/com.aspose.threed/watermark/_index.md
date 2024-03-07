@@ -13,7 +13,13 @@ java.lang.Object
 public class Watermark
 ```
 
-Utility to encode/decode blind watermark to/from a mesh.
+Utility to encode/decode blind watermark to/from a mesh. **Example:** The following code shows how to encode a blind watermark into a mesh and decode it.
+
+```
+Mesh mesh = (new Cylinder()).toMesh();
+     Mesh encodedMesh = Watermark.encodeWatermark(mesh, "Hello", null);
+     String watermark = Watermark.decodeWatermark(encodedMesh, null);
+```
 ## Methods
 
 | Method | Description |
@@ -77,7 +83,13 @@ Encode a text into mesh' blind watermark.
 | text | java.lang.String | Text to encode to the mesh |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh) - A new mesh instance with blind watermark encoded
+[Mesh](../../com.aspose.threed/mesh) - A new mesh instance with blind watermark encoded **Example:** The following code shows how to encode a blind watermark into a mesh and save to ply file
+
+```
+Mesh mesh = (new Cylinder()).toMesh();
+     Mesh encodedMesh = Watermark.encodeWatermark(mesh, "Hello");
+     new Scene(encodedMesh).save("test.ply");
+```
 ### encodeWatermark(Mesh input, String text, String password) {#encodeWatermark-com.aspose.threed.Mesh-java.lang.String-java.lang.String-}
 ```
 public static Mesh encodeWatermark(Mesh input, String text, String password)
@@ -94,7 +106,13 @@ Encode a text into mesh' blind watermark.
 | password | java.lang.String | Password to protect the watermark, it's optional |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh) - A new mesh instance with blind watermark encoded
+[Mesh](../../com.aspose.threed/mesh) - A new mesh instance with blind watermark encoded **Example:** The following code shows how to encode a blind watermark into a mesh and save to ply file
+
+```
+Mesh mesh = (new Cylinder()).toMesh();
+     var encodedMesh = Watermark.encodeWatermark(mesh, "Hello", "password");
+     new Scene(encodedMesh).save("test.ply");
+```
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

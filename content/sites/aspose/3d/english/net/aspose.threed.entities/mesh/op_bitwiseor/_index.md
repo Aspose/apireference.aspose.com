@@ -3,7 +3,7 @@ title: op_BitwiseOr
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.threed.entities/mesh/op_bitwiseor/
 ---
 ## Mesh BitwiseOr operator

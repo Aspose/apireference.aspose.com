@@ -16,7 +16,23 @@ java.lang.Iterable, [com.aspose.threed.IMeshConvertible](../../com.aspose.threed
 public class Mesh extends Geometry implements Iterable<int[]>, IMeshConvertible
 ```
 
-A mesh is made of many n-sided polygons.
+A mesh is made of many n-sided polygons. **Example:** To add a polygon in mesh:
+
+```
+Mesh mesh = new Mesh();
+  int[] indices = new int[] {0, 1, 2};
+  mesh.createPolygon(indices);
+```
+
+Travel through all polygons in mesh:
+
+```
+Mesh mesh = new Mesh();
+  for(int[] polygon : mesh)
+  {
+      //deal with polygon
+  }
+```
 ## Constructors
 
 | Constructor | Description |
@@ -81,6 +97,7 @@ A mesh is made of many n-sided polygons.
 | [setVisible(boolean value)](#setVisible-boolean-) | Sets if the geometry is visible |
 | [toMesh()](#toMesh--) | Gets the Mesh instance from current entity. |
 | [toString()](#toString--) |  |
+| [triangulate()](#triangulate--) | Return triangulated mesh |
 | [union(Mesh a, Mesh b)](#union-com.aspose.threed.Mesh-com.aspose.threed.Mesh-) | Calculate the union of two meshes |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -153,7 +170,7 @@ Creates a vertex element with specified type and add it to the geometry.
 | type | [VertexElementType](../../com.aspose.threed/vertexelementtype) | Vertex element type |
 
 **Returns:**
-[VertexElement](../../com.aspose.threed/vertexelement) - Created element.
+[VertexElement](../../com.aspose.threed/vertexelement) - Created element. **Remarks:** If type is [VertexElementType.UV](../../com.aspose.threed/vertexelementtype\#UV), a [VertexElementUV](../../com.aspose.threed/vertexelementuv) with texture mapping type to [TextureMapping.DIFFUSE](../../com.aspose.threed/texturemapping\#DIFFUSE) will be created.
 ### createElement(VertexElementType type, MappingMode mappingMode, ReferenceMode referenceMode) {#createElement-com.aspose.threed.VertexElementType-com.aspose.threed.MappingMode-com.aspose.threed.ReferenceMode-}
 ```
 public VertexElement createElement(VertexElementType type, MappingMode mappingMode, ReferenceMode referenceMode)
@@ -170,7 +187,7 @@ Creates a vertex element with specified type and add it to the geometry.
 | referenceMode | [ReferenceMode](../../com.aspose.threed/referencemode) | Default reference mode |
 
 **Returns:**
-[VertexElement](../../com.aspose.threed/vertexelement) - Created element.
+[VertexElement](../../com.aspose.threed/vertexelement) - Created element. **Remarks:** If type is [VertexElementType.UV](../../com.aspose.threed/vertexelementtype\#UV), a [VertexElementUV](../../com.aspose.threed/vertexelementuv) with texture mapping type to [TextureMapping.DIFFUSE](../../com.aspose.threed/texturemapping\#DIFFUSE) will be created.
 ### createElementUV(TextureMapping uvMapping) {#createElementUV-com.aspose.threed.TextureMapping-}
 ```
 public VertexElementUV createElementUV(TextureMapping uvMapping)
@@ -245,7 +262,12 @@ Creates a new polygon with all vertices defined in `indices`. To create polygon 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| indices | int[] | Array of the polygon indices, each index points to a control point that forms the polygon. |
+| indices | int[] | Array of the polygon indices, each index points to a control point that forms the polygon. **Example:**
+
+```
+int[] indices = new int[] {0, 1, 2};
+  mesh.createPolygon(indices);
+``` |
 
 ### createPolygon(int[] indices, int offset, int length) {#createPolygon-int---int-int-}
 ```
@@ -260,7 +282,12 @@ Creates a new polygon with all vertices defined in `indices`. To create polygon 
 | --- | --- | --- |
 | indices | int[] | Array of the polygon indices, each index points to a control point that forms the polygon. |
 | offset | int | The offset of the first polygon index |
-| length | int | The length of the indices |
+| length | int | The length of the indices **Example:**
+
+```
+int[] indices = new int[] {0, 1, 2};
+  mesh.createPolygon(indices);
+``` |
 
 ### difference(Mesh a, Mesh b) {#difference-com.aspose.threed.Mesh-com.aspose.threed.Mesh-}
 ```
@@ -333,7 +360,14 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system.
+Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+
+```
+Entity entity = new Sphere();
+     entity.setRadius(10);
+     var bbox = entity.getBoundingBox();
+     System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
+```
 
 **Returns:**
 [BoundingBox](../../com.aspose.threed/boundingbox)
@@ -633,7 +667,14 @@ Optimize the mesh's memory usage by eliminating duplicated control points
 | vertexElements | boolean | Optimize duplicated vertex element data |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh) - New mesh instance with compact memory usage
+[Mesh](../../com.aspose.threed/mesh) - New mesh instance with compact memory usage **Example:** The following code shows how to eliminate duplicated control points from an unoptimized mesh:
+
+```
+//Sphere.ToMesh generates 117 control points
+  Mesh mesh = (new Sphere()).toMesh();
+  //After optimized, there're only 86 control points, polygon indices are also remapped.
+  Mesh optimized = mesh.optimize(true);
+```
 ### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
 ```
 public boolean removeProperty(Property property)
@@ -776,6 +817,23 @@ public String toString()
 
 **Returns:**
 java.lang.String
+### triangulate() {#triangulate--}
+```
+public Mesh triangulate()
+```
+
+
+Return triangulated mesh
+
+**Returns:**
+[Mesh](../../com.aspose.threed/mesh) - Current mesh if current mesh is already triangulated, otherwise a new triangulated mesh will be calculated and returned **Example:** The following code shows how to triangulate a mesh:
+
+```
+//The plane mesh has only one polygon with 4 control points
+  var mesh = (new Plane()).ToMesh();
+  //After triangulated, the new mesh's rectangle will become 2 triangles.
+  var triangulated = mesh.Triangulate();
+```
 ### union(Mesh a, Mesh b) {#union-com.aspose.threed.Mesh-com.aspose.threed.Mesh-}
 ```
 public static Mesh union(Mesh a, Mesh b)

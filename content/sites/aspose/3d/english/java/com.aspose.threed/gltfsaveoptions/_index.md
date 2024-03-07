@@ -187,7 +187,7 @@ public String getExternalDracoEncoder()
 ```
 
 
-Use external draco encoder to accelerate the draco compression speed.
+Use external draco encoder to accelerate the draco compression speed. **Remarks:** Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk.
 
 **Returns:**
 java.lang.String
@@ -426,7 +426,7 @@ Use external draco encoder to accelerate the draco compression speed.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | New value |
+| value | java.lang.String | New value **Remarks:** Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk. |
 
 ### setFallbackNormal(Vector3 value) {#setFallbackNormal-com.aspose.threed.Vector3-}
 ```

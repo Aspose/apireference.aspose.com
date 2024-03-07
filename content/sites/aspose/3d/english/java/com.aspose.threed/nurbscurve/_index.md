@@ -1,7 +1,7 @@
 ---
 title: NurbsCurve
 second_title: Aspose.3D for Java API Reference
-description: NURBS curve is a curve represented by NURBSNon-uniform rational basis spline A NURBS curve is defined by its  a set of weighted  and a  The w component in control point is used as control points weight whatever it is a  or
+description: NURBS curve is a curve represented by NURBSNon-uniform rational basis spline  A NURBS curve is defined by its  a set of weighted  and a  The w component in control point is used as control points weight whatever it is a  or
 type: docs
 weight: 102
 url: /java/com.aspose.threed/nurbscurve/
@@ -165,7 +165,14 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system.
+Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+
+```
+Entity entity = new Sphere();
+     entity.setRadius(10);
+     var bbox = entity.getBoundingBox();
+     System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
+```
 
 **Returns:**
 [BoundingBox](../../com.aspose.threed/boundingbox)
@@ -215,7 +222,7 @@ public CurveDimension getDimension()
 ```
 
 
-Gets the curve's dimension.
+Gets the curve's dimension. **Remarks:** For a [CurveDimension.TWO\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) curve, the z component in control point is unused.
 
 **Returns:**
 [CurveDimension](../../com.aspose.threed/curvedimension)
@@ -437,7 +444,7 @@ Sets the curve's dimension.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [CurveDimension](../../com.aspose.threed/curvedimension) | New value |
+| value | [CurveDimension](../../com.aspose.threed/curvedimension) | New value **Remarks:** For a [CurveDimension.TWO\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) curve, the z component in control point is unused. |
 
 ### setExcluded(boolean value) {#setExcluded-boolean-}
 ```

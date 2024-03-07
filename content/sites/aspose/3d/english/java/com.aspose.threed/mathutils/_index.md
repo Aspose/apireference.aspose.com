@@ -52,7 +52,15 @@ Clamp value to range [min, max]
 | max | double | Maximum value. |
 
 **Returns:**
-double - The value between [min, max]
+double - The value between [min, max] **Example:**
+
+```
+double val = 195;
+     //Clamp value to [0, 100]
+     double clampedValue = MathUtils.clamp(val, 0, 100);
+     //This will output 100
+     System.out.printf("Value = %d", val);
+```
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -118,7 +126,12 @@ Convert a [Vector3](../../com.aspose.threed/vector3) from radian to degree.
 | radian | [Vector3](../../com.aspose.threed/vector3) | The radian value. |
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3) - The degree value.
+[Vector3](../../com.aspose.threed/vector3) - The degree value. **Example:**
+
+```
+Vector3 degrees = MathUtils.toDegree(new Vector3(0.34, 0.9, 0.2));
+     System.out.printf("Degrees = %s", degrees);
+```
 ### toDegree(double radian) {#toDegree-double-}
 ```
 public static double toDegree(double radian)
@@ -133,7 +146,12 @@ Convert a number from radian to degree
 | radian | double | The radian value. |
 
 **Returns:**
-double - The degree value.
+double - The degree value. **Example:**
+
+```
+var deg = MathUtils.toDegree(0.3);
+     System.out.printf("Degrees = %s", deg);
+```
 ### toDegree(double x, double y, double z) {#toDegree-double-double-double-}
 ```
 public static Vector3 toDegree(double x, double y, double z)
@@ -165,7 +183,12 @@ Convert a number from radian to degree
 | radian | float | The radian value. |
 
 **Returns:**
-float - The degree value.
+float - The degree value. **Example:**
+
+```
+var deg = MathUtils.toDegree(0.3f);
+     System.out.printf("Degrees = %s", deg);
+```
 ### toRadian(Vector3 degree) {#toRadian-com.aspose.threed.Vector3-}
 ```
 public static Vector3 toRadian(Vector3 degree)
@@ -180,7 +203,12 @@ Convert a [Vector3](../../com.aspose.threed/vector3) from degree to radian
 | degree | [Vector3](../../com.aspose.threed/vector3) | The degree value. |
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3) - The radian value.
+[Vector3](../../com.aspose.threed/vector3) - The radian value. **Example:**
+
+```
+Vector3 radians = MathUtils.toRadian(new Vector3(90, 134, 0));
+     System.out.printf("Radians = %s", radians);
+```
 ### toRadian(double degree) {#toRadian-double-}
 ```
 public static double toRadian(double degree)
@@ -195,7 +223,12 @@ Convert a number from degree to radian
 | degree | double | The degree value. |
 
 **Returns:**
-double - The radian value.
+double - The radian value. **Example:**
+
+```
+var rad = MathUtils.toRadian(0.3);
+     System.out.printf("Radian = %d", rad);
+```
 ### toRadian(double x, double y, double z) {#toRadian-double-double-double-}
 ```
 public static Vector3 toRadian(double x, double y, double z)
@@ -227,7 +260,12 @@ Convert a number from degree to radian
 | degree | float | The degree value. |
 
 **Returns:**
-float - The radian value.
+float - The radian value. **Example:**
+
+```
+var rad = MathUtils.toRadian(0.3);
+     System.out.printf("Radian = %d", rad);
+```
 ### toString() {#toString--}
 ```
 public String toString()

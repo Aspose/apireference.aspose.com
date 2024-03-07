@@ -3,7 +3,7 @@ title: ReadVector3
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.threed.entities/trimesh/readvector3/
 ---
 ## TriMesh.ReadVector3 method

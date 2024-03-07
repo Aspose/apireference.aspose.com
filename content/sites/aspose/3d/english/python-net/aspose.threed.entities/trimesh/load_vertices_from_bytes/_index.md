@@ -31,6 +31,11 @@ def load_vertices_from_bytes(self, vertices_in_bytes):
 
 
 
+### Example 
+
+
+The following code shows how to create an empty TriMesh and manually load vertices from raw bytes.
+
 
 
 ### See Also

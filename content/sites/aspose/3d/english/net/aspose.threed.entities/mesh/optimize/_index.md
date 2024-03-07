@@ -22,6 +22,17 @@ public Mesh Optimize(bool vertexElements)
 
 New mesh instance with compact memory usage
 
+### Examples
+
+The following code shows how to eliminate duplicated control points from an unoptimized mesh:
+
+```csharp
+//Sphere.ToMesh generates 117 control points
+var mesh = (new Sphere()).ToMesh();
+//After optimized, there're only 86 control points, polygon indices are also remapped.
+var optimized = mesh.Optimize(true);
+```
+
 ### See Also
 
 * class [Mesh](../../mesh)
