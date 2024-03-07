@@ -1,14 +1,14 @@
 ---
 title: WriteInConfig
 second_title: Aspose.OMR for .NET API Reference
-description: Represents Write-In element. Used for handwritten fields. Upon recognition clipped as picture and placed in folder.
+description: Represents Write-In element. Used for handwriten fields. Upon recognition clipped as picture and placed in folder.
 type: docs
 weight: 630
 url: /net/aspose.omr.generation.config.elements/writeinconfig/
 ---
 ## WriteInConfig class
 
-Represents Write-In element. Used for handwritten fields. Upon recognition clipped as picture and placed in folder.
+Represents Write-In element. Used for handwriten fields. Upon recognition clipped as picture and placed in folder.
 
 ```csharp
 public class WriteInConfig : BaseConfig
