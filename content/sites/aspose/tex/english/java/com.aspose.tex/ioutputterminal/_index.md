@@ -3,7 +3,7 @@ title: IOutputTerminal
 second_title: Aspose.TeX for Java API Reference
 description: Interface for abstract output terminal.
 type: docs
-weight: 47
+weight: 46
 url: /java/com.aspose.tex/ioutputterminal/
 ---```
 public interface IOutputTerminal

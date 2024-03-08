@@ -3,7 +3,7 @@ title: TeXOptions
 second_title: Aspose.TeX for Java API Reference
 description: TeX file processing options class.
 type: docs
-weight: 41
+weight: 40
 url: /java/com.aspose.tex/texoptions/
 ---
 **Inheritance:**

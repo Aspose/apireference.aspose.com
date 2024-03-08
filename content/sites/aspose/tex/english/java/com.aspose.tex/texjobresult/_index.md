@@ -3,7 +3,7 @@ title: TeXJobResult
 second_title: Aspose.TeX for Java API Reference
 description: Lists possible results of a TeX job.
 type: docs
-weight: 51
+weight: 50
 url: /java/com.aspose.tex/texjobresult/
 ---
 **Inheritance:**

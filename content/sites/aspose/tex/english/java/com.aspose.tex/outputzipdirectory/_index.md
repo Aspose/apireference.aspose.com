@@ -3,7 +3,7 @@ title: OutputZipDirectory
 second_title: Aspose.TeX for Java API Reference
 description: Implements the method for getting a file stream to write to when working directory is a ZIP archive.
 type: docs
-weight: 27
+weight: 26
 url: /java/com.aspose.tex/outputzipdirectory/
 ---
 **Inheritance:**

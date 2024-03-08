@@ -3,7 +3,7 @@ title: IInputWorkingDirectory
 second_title: Aspose.TeX for Java API Reference
 description: Interface of generalized input working directory.
 type: docs
-weight: 46
+weight: 45
 url: /java/com.aspose.tex/iinputworkingdirectory/
 ---```
 public interface IInputWorkingDirectory

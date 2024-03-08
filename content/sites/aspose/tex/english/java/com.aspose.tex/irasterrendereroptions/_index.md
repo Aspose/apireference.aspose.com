@@ -3,7 +3,7 @@ title: IRasterRendererOptions
 second_title: Aspose.TeX for Java API Reference
 description: The interface that defines properties of a raster image renderer.
 type: docs
-weight: 49
+weight: 48
 url: /java/com.aspose.tex/irasterrendereroptions/
 ---```
 public interface IRasterRendererOptions
