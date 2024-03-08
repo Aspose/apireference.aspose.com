@@ -3,7 +3,7 @@ title: OutputMemoryTerminal
 second_title: Aspose.TeX for Java API Reference
 description: Provides a memory stream as a terminal output destination.
 type: docs
-weight: 26
+weight: 25
 url: /java/com.aspose.tex/outputmemoryterminal/
 ---
 **Inheritance:**

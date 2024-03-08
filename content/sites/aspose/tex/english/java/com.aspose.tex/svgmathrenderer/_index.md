@@ -3,7 +3,7 @@ title: SvgMathRenderer
 second_title: Aspose.TeX for Java API Reference
 description: Implements rendering of math formula to SVG.
 type: docs
-weight: 35
+weight: 34
 url: /java/com.aspose.tex/svgmathrenderer/
 ---
 **Inheritance:**

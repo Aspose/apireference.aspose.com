@@ -3,7 +3,7 @@ title: TeXOutputStream
 second_title: Aspose.TeX for Java API Reference
 description: The class that associates an output stream of a random nature with a name.
 type: docs
-weight: 42
+weight: 41
 url: /java/com.aspose.tex/texoutputstream/
 ---
 **Inheritance:**

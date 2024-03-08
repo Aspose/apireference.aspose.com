@@ -3,7 +3,7 @@ title: TeXInputStream
 second_title: Aspose.TeX for Java API Reference
 description: The class that encapsulates TeX specific features of stream reading and associates the stream with its name.
 type: docs
-weight: 39
+weight: 38
 url: /java/com.aspose.tex/texinputstream/
 ---
 **Inheritance:**

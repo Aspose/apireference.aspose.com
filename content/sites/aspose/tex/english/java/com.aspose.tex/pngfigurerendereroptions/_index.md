@@ -3,7 +3,7 @@ title: PngFigureRendererOptions
 second_title: Aspose.TeX for Java API Reference
 description: Options for rendering a LaTeX source code fragment to PNG.
 type: docs
-weight: 29
+weight: 28
 url: /java/com.aspose.tex/pngfigurerendereroptions/
 ---
 **Inheritance:**

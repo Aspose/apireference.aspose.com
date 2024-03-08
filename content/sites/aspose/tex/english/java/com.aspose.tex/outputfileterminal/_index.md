@@ -3,7 +3,7 @@ title: OutputFileTerminal
 second_title: Aspose.TeX for Java API Reference
 description: Implements a terminal whose output is to be written to a file in some working directory.
 type: docs
-weight: 25
+weight: 24
 url: /java/com.aspose.tex/outputfileterminal/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TeXJob
 second_title: Aspose.TeX for Java API Reference
 description: Implements features of a TeX job.
 type: docs
-weight: 40
+weight: 39
 url: /java/com.aspose.tex/texjob/
 ---
 **Inheritance:**

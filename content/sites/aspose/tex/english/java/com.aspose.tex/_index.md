@@ -24,7 +24,6 @@ The **com.aspose.tex** is the root package for all classes that deal with TeX fi
 | [MathRenderer](../com.aspose.tex/mathrenderer) | Implements rendering of math formula. |
 | [MathRendererOptions](../com.aspose.tex/mathrendereroptions) | Math formula common rendering options. |
 | [Metered](../com.aspose.tex/metered) | Provides methods to set metered key. |
-| [NamedInputStream](../com.aspose.tex/namedinputstream) | Combines a stream of a random nature with a name. |
 | [NondisposableInputStream](../com.aspose.tex/nondisposableinputstream) | The class that encapsulates a stream that cannot be closed by calling the  InputStream.close()  method. |
 | [NondisposableOutputStream](../com.aspose.tex/nondisposableoutputstream) | The class that encapsulates a stream that cannot be closed by calling the  OutputStream.close()  method. |
 | [OutputConsoleTerminal](../com.aspose.tex/outputconsoleterminal) | Provides the console as a terminal output destination. |

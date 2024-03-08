@@ -3,7 +3,7 @@ title: PngFigureRenderer
 second_title: Aspose.TeX for Java API Reference
 description: Implements rendering of some LaTeX compact content supposed to fit one page and then cropping it from the page as a PNG image.
 type: docs
-weight: 28
+weight: 27
 url: /java/com.aspose.tex/pngfigurerenderer/
 ---
 **Inheritance:**
