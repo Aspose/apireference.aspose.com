@@ -19,3 +19,4 @@ Aspose.GIS for .NET 专为使 .NET 开发人员轻松处理以各种文件格式
 
 这些是一些有用资源的链接：
 - [Aspose.GIS for .NET API 参考](/gis/zh/net/)
+- [Aspose.GIS for .NET API 教程](/tutorials/gis/zh/net/)

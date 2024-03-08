@@ -19,3 +19,4 @@ url: /el/
 
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
 - [Αναφορά Aspose.GIS για .NET API](/gis/el/net/)
+- [Aspose.GIS για Εκπαιδευτικά προγράμματα API .NET](/tutorials/gis/el/net/)

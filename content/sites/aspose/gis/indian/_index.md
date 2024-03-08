@@ -19,3 +19,4 @@ url: /hi/
 
 ये कुछ उपयोगी संसाधनों के लिंक हैं:
 - [.NET API संदर्भ के लिए Aspose.GIS](/gis/hi/net/)
+- [.NET API ट्यूटोरियल के लिए Aspose.GIS](/tutorials/gis/hi/net/)
