@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.deformers/morphtargetchannel/properties/
+url: /aspose.threed.deformers/morphtargetchannel/properties/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed.deformers`](../../)
+* class [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

@@ -3,7 +3,7 @@ title: ResetChannels
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.threed.animation/bindpoint/resetchannels/
 ---
 ## BindPoint.ResetChannels method

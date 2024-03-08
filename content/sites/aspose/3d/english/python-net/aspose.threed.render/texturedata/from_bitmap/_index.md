@@ -8,9 +8,9 @@ url: /python-net/aspose.threed.render/texturedata/from_bitmap/
 is_root: false
 ---
 
-## from_bitmap(bitmap) {#aspose.pydrawing.Bitmap}
+## from_bitmap {#aspose.pydrawing.Bitmap}
 
-Convert a Bitmap to [TextureData](/3d/python-net/aspose.threed.render/texturedata)
+Convert a Bitmap to [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)
 
 
 ### Returns 
@@ -32,5 +32,5 @@ def from_bitmap(self, bitmap):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [TextureData](/3d/python-net/aspose.threed.render/texturedata)
+* module [`aspose.threed.render`](../../)
+* class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.render/renderer/enable_shadows/
+url: /aspose.threed.render/renderer/enable_shadows/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def enable_shadows(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

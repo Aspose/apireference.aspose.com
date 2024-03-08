@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.profiles/cshape/depth/
+url: /aspose.threed.profiles/cshape/depth/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def depth(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [CShape](/3d/python-net/aspose.threed.profiles/cshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)

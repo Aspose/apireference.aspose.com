@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/dish/__init__/
+url: /aspose.threed.entities/dish/__init__/
 is_root: false
 ---
 
-## Dish() {#}
+## __init__ {#}
 
 Create a new dish instance with default radius(10) and default height(5)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Dish(radius, height) {#float-float}
+## __init__ {#float-float}
 
 Create a new dish instance with specified radius and height
 
@@ -40,7 +40,7 @@ def __init__(self, radius, height):
 | height | float | The height of the dish |
 
 
-## Dish(name, radius, height, width_segments, height_segments) {#str-float-float-int-int}
+## __init__ {#str-float-float-int-int}
 
 Create a new dish instance with specified radius and height
 
@@ -63,5 +63,5 @@ def __init__(self, name, radius, height, width_segments, height_segments):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Dish](/3d/python-net/aspose.threed.entities/dish)
+* module [`aspose.threed.entities`](../../)
+* class [`Dish`](/3d/python-net/aspose.threed.entities/dish)

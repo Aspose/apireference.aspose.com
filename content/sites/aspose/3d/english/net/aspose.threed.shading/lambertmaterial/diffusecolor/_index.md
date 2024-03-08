@@ -16,7 +16,19 @@ public Vector3 DiffuseColor { get; set; }
 
 ### Property Value
 
-The diffuse.
+The
+
+```csharp
+var mat = new LambertMaterial();
+mat.DiffuseColor = new Vector3(1, 0, 0);
+```
+
+```csharp
+var mat = new LambertMaterial();
+mat.setDiffuseColor(new Vector3(1, 0, 0));
+```
+
+diffuse.
 
 ### See Also
 

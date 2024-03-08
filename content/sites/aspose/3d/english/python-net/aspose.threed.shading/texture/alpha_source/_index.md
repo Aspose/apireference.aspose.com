@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /python-net/aspose.threed.shading/texture/alpha_source/
+url: /aspose.threed.shading/texture/alpha_source/
 is_root: false
 ---
 
@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets whether the texture defines the alpha channel.
-Default value is [AlphaSource.NONE](/3d/python-net/aspose.threed.shading/alphasource#NONE)
+Default value is [`AlphaSource.NONE`](/3d/python-net/aspose.threed.shading/alphasource#NONE)
 ### Definition:
 ```python
 @property
@@ -24,6 +24,6 @@ def alpha_source(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [AlphaSource](/3d/python-net/aspose.threed.shading/alphasource)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* module [`aspose.threed.shading`](../../)
+* class [`AlphaSource`](/3d/python-net/aspose.threed.shading/alphasource)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)

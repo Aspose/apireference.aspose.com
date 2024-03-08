@@ -3,7 +3,7 @@ title: PropertyCollection
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1680
+weight: 1730
 url: /net/aspose.threed/propertycollection/
 ---
 ## PropertyCollection class

@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/plane/__init__/
+url: /aspose.threed.entities/plane/__init__/
 is_root: false
 ---
 
-## Plane() {#}
+## __init__ {#}
 
-Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane) with default size 1x1.
+Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane) with default size 1x1.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Plane(length, width) {#float-float}
+## __init__ {#float-float}
 
-Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane).
+Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane).
 
 
 
@@ -40,9 +40,9 @@ def __init__(self, length, width):
 | width | float | Width of the plane. |
 
 
-## Plane(name, length, width, length_segments, width_segments) {#str-float-float-int-int}
+## __init__ {#str-float-float-int-int}
 
-Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane).
+Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane).
 
 
 
@@ -63,5 +63,5 @@ def __init__(self, name, length, width, length_segments, width_segments):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Plane](/3d/python-net/aspose.threed.entities/plane)
+* module [`aspose.threed.entities`](../../)
+* class [`Plane`](/3d/python-net/aspose.threed.entities/plane)

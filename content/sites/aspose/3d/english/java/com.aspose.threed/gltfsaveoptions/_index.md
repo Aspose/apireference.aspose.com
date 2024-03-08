@@ -3,7 +3,7 @@ title: GltfSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for glTF format.
 type: docs
-weight: 69
+weight: 71
 url: /java/com.aspose.threed/gltfsaveoptions/
 ---
 
@@ -25,11 +25,13 @@ Save options for glTF format.
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getApplyUnitScale()](#getApplyUnitScale--) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [getBufferFile()](#getBufferFile--) | The file name of the external buffer file used to store binary data. |
 | [getClass()](#getClass--) |  |
 | [getDracoCompression()](#getDracoCompression--) | Gets whether to enable draco compression |
 | [getEmbedAssets()](#getEmbedAssets--) | Embed all external assets as base64 into single file in ASCII mode, default value is false. |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getExternalDracoEncoder()](#getExternalDracoEncoder--) | Use external draco encoder to accelerate the draco compression speed. |
 | [getFallbackNormal()](#getFallbackNormal--) | When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
@@ -46,10 +48,12 @@ Save options for glTF format.
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setApplyUnitScale(boolean value)](#setApplyUnitScale-boolean-) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [setBufferFile(String value)](#setBufferFile-java.lang.String-) | The file name of the external buffer file used to store binary data. |
 | [setDracoCompression(boolean value)](#setDracoCompression-boolean-) | Sets whether to enable draco compression |
 | [setEmbedAssets(boolean value)](#setEmbedAssets-boolean-) | Embed all external assets as base64 into single file in ASCII mode, default value is false. |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setExternalDracoEncoder(String value)](#setExternalDracoEncoder-java.lang.String-) | Use external draco encoder to accelerate the draco compression speed. |
 | [setFallbackNormal(Vector3 value)](#setFallbackNormal-com.aspose.threed.Vector3-) | When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
@@ -107,6 +111,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getApplyUnitScale() {#getApplyUnitScale--}
+```
+public boolean getApplyUnitScale()
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
+
+**Returns:**
+boolean
 ### getBufferFile() {#getBufferFile--}
 ```
 public String getBufferFile()
@@ -157,13 +171,23 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getExternalDracoEncoder() {#getExternalDracoEncoder--}
 ```
 public String getExternalDracoEncoder()
 ```
 
 
-Use external draco encoder to accelerate the draco compression speed.
+Use external draco encoder to accelerate the draco compression speed. **Remarks:** Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk.
 
 **Returns:**
 java.lang.String
@@ -313,6 +337,19 @@ public final native void notifyAll()
 
 
 
+### setApplyUnitScale(boolean value) {#setApplyUnitScale-boolean-}
+```
+public void setApplyUnitScale(boolean value)
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
 ### setBufferFile(String value) {#setBufferFile-java.lang.String-}
 ```
 public void setBufferFile(String value)
@@ -365,6 +402,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
 
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
 ### setExternalDracoEncoder(String value) {#setExternalDracoEncoder-java.lang.String-}
 ```
 public void setExternalDracoEncoder(String value)
@@ -376,7 +426,7 @@ Use external draco encoder to accelerate the draco compression speed.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | New value |
+| value | java.lang.String | New value **Remarks:** Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk. |
 
 ### setFallbackNormal(Vector3 value) {#setFallbackNormal-com.aspose.threed.Vector3-}
 ```
@@ -541,7 +591,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed/bonepose/node/
+url: /aspose.threed/bonepose/node/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [BonePose](/3d/python-net/aspose.threed/bonepose)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`BonePose`](/3d/python-net/aspose.threed/bonepose)
+* class [`Node`](/3d/python-net/aspose.threed/node)

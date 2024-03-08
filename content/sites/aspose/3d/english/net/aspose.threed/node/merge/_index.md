@@ -18,6 +18,17 @@ public void Merge(Node node)
 | --- | --- | --- |
 | node | Node |  |
 
+### Examples
+
+The following code shows how to merge two 3D files into one file
+
+```csharp
+Scene scene1 = Scene.FromFile("scene1.fbx");
+Scene scene2 = Scene.FromFile("scene2.fbx");
+scene1.RootNode.Merge(scene2.RootNode);
+scene1.Save("merged.fbx");
+```
+
 ### See Also
 
 * class [Node](../../node)

@@ -3,7 +3,7 @@ title: VertexElementDoublesTemplate
 second_title: Aspose.3D for Java API Reference
 description: A helper class for defining concrete  implementations.
 type: docs
-weight: 188
+weight: 195
 url: /java/com.aspose.threed/vertexelementdoublestemplate/
 ---
 
@@ -273,7 +273,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

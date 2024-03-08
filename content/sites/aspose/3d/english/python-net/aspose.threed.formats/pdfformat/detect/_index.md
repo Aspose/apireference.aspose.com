@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/pdfformat/detect/
+url: /aspose.threed.formats/pdfformat/detect/
 is_root: false
 ---
 
-## detect(file_name) {#str}
+## detect {#str}
 
 Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header.
 
@@ -41,7 +41,7 @@ print(f"Input file format: {fmt}")
 ```
 
 
-## detect(stream, file_name) {#io.RawIOBase-str}
+## detect {#io.RawIOBase-str}
 
 Detect the file format from data stream, file name is optional for guessing types that has no magic header.
 
@@ -69,6 +69,7 @@ def detect(self, stream, file_name):
 ```python
 from aspose.threed import FileFormat
 from io import BytesIO
+import bytearray
 
 bytes = bytearray(100)
 fmt = FileFormat.detect(BytesIO(bytes), "input-file")
@@ -79,5 +80,5 @@ print(f"Input data format: {fmt}")
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

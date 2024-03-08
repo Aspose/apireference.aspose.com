@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /python-net/aspose.threed.profiles/trapeziumshape/scene/
+url: /aspose.threed.profiles/trapeziumshape/scene/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def scene(self):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
-* class [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)
+* class [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape)

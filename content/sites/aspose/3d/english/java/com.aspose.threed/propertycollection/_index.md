@@ -3,7 +3,7 @@ title: PropertyCollection
 second_title: Aspose.3D for Java API Reference
 description: The collection of properties
 type: docs
-weight: 126
+weight: 130
 url: /java/com.aspose.threed/propertycollection/
 ---
 
@@ -218,7 +218,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

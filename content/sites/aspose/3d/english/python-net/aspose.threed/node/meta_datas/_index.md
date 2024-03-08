@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 240
-url: /python-net/aspose.threed/node/meta_datas/
+url: /aspose.threed/node/meta_datas/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def meta_datas(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.utilities/vector4/set/
+url: /aspose.threed.utilities/vector4/set/
 is_root: false
 ---
 
-## set(new_x, new_y, new_z) {#float-float-float}
+## set {#float-float-float}
 
 Sets vector's xyz components at a time, w will be set to 1
 
@@ -27,7 +27,7 @@ def set(self, new_x, new_y, new_z):
 | new_z | float | New Z component. |
 
 
-## set(new_x, new_y, new_z, new_w) {#float-float-float-float}
+## set {#float-float-float-float}
 
 Sets vector's all components at a time
 
@@ -49,5 +49,5 @@ def set(self, new_x, new_y, new_z, new_w):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector4](/3d/python-net/aspose.threed.utilities/vector4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4)

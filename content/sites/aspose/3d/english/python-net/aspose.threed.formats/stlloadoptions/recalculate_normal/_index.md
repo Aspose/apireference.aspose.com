@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /python-net/aspose.threed.formats/stlloadoptions/recalculate_normal/
+url: /aspose.threed.formats/stlloadoptions/recalculate_normal/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def recalculate_normal(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions)

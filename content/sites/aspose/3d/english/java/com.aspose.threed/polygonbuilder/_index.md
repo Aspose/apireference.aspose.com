@@ -1,9 +1,9 @@
 ---
 title: PolygonBuilder
 second_title: Aspose.3D for Java API Reference
-description: A helper class to build polygon for
+description: A helper class to build polygon for  Example
 type: docs
-weight: 119
+weight: 123
 url: /java/com.aspose.threed/polygonbuilder/
 ---
 
@@ -13,7 +13,27 @@ java.lang.Object
 public final class PolygonBuilder
 ```
 
-A helper class to build polygon for [Mesh](../../com.aspose.threed/mesh)
+A helper class to build polygon for [Mesh](../../com.aspose.threed/mesh) **Example:**
+
+```
+Mesh mesh = new Mesh();
+  PolygonBuilder builder = new PolygonBuilder(mesh);
+  builder.begin();
+  builder.addVertex(0);
+  builder.addVertex(1);
+  builder.addVertex(2);
+  builder.end();
+```
+
+Equals to :
+
+```
+Mesh mesh = new Mesh();
+  int[] indices = new int[] {0, 1, 2};
+  mesh.createPolygon(indices);
+```
+
+If all indices are ready to use, [Mesh](../../com.aspose.threed/mesh) is preferred, otherwise [PolygonBuilder](../../com.aspose.threed/polygonbuilder) would be a better choice.
 ## Constructors
 
 | Constructor | Description |
@@ -148,7 +168,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

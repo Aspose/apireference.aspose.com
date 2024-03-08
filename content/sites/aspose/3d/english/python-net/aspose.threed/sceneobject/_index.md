@@ -3,8 +3,8 @@ title: SceneObject class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /python-net/aspose.threed/sceneobject/
+weight: 210
+url: /aspose.threed/sceneobject/
 is_root: false
 ---
 
@@ -14,8 +14,8 @@ The root class of objects that will be stored inside a scene.
 
 
 
-**Inheritance:** [SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -32,15 +32,15 @@ The SceneObject type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed/sceneobject/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed/sceneobject/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed/sceneobject/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed/sceneobject/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed/sceneobject/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [remove_property](/3d/python-net/aspose.threed/sceneobject/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed/sceneobject/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed/sceneobject/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed/sceneobject/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed/sceneobject/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

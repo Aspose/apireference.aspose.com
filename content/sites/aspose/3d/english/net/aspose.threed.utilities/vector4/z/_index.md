@@ -1,17 +1,17 @@
 ---
-title: z
+title: Z
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
 weight: 50
 url: /net/aspose.threed.utilities/vector4/z/
 ---
-## Vector4.z field
+## Vector4.Z field
 
 The z component.
 
 ```csharp
-public double z;
+public double Z;
 ```
 
 ### See Also

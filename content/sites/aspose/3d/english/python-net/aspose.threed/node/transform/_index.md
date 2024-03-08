@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 290
-url: /python-net/aspose.threed/node/transform/
+url: /aspose.threed/node/transform/
 is_root: false
 ---
 
@@ -37,6 +37,6 @@ def transform(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
-* class [Transform](/3d/python-net/aspose.threed/transform)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)

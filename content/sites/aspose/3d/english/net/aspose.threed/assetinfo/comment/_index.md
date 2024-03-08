@@ -3,7 +3,7 @@ title: Comment
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.threed/assetinfo/comment/
 ---
 ## AssetInfo.Comment property

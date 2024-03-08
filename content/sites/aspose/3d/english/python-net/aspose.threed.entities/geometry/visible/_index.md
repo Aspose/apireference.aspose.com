@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /python-net/aspose.threed.entities/geometry/visible/
+url: /aspose.threed.entities/geometry/visible/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def visible(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* module [`aspose.threed.entities`](../../)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)

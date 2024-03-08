@@ -3,7 +3,7 @@ title: ShaderException
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2130
+weight: 2230
 url: /net/aspose.threed.render/shaderexception/
 ---
 ## ShaderException class

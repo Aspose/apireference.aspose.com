@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.profiles/hshape/__init__/
+url: /aspose.threed.profiles/hshape/__init__/
 is_root: false
 ---
 
-## HShape() {#}
+## __init__ {#}
 
-Constructor of [HShape](/3d/python-net/aspose.threed.profiles/hshape)
+Constructor of [`HShape`](/3d/python-net/aspose.threed.profiles/hshape)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HShape](/3d/python-net/aspose.threed.profiles/hshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`HShape`](/3d/python-net/aspose.threed.profiles/hshape)

@@ -3,7 +3,7 @@ title: ITextureCubemap
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1940
+weight: 2000
 url: /net/aspose.threed.render/itexturecubemap/
 ---
 ## ITextureCubemap interface
@@ -21,10 +21,10 @@ public interface ITextureCubemap : ITextureUnit
 | [Load](../../aspose.threed.render/itexturecubemap/load)(CubeFaceData&lt;TextureData&gt;) |  |
 | [Load](../../aspose.threed.render/itexturecubemap/load)(CubeFace, TextureData) | Load the data into specified face |
 | [LoadFromFiles](../../aspose.threed.render/itexturecubemap/loadfromfiles)(CubeFaceData&lt;string&gt;) |  |
-| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFaceData&lt;Bitmap&gt;) |  |
-| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFace, Bitmap) | Save the specified side to memory |
-| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFaceData&lt;string&gt;, ImageFormat) |  |
-| [ToBitmap](../../aspose.threed.render/itexturecubemap/tobitmap)(CubeFace) | Convert the texture unit to Bitmap instance |
+| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFaceData&lt;TextureData&gt;) |  |
+| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFace, TextureData) | Save the specified side to memory |
+| [Save](../../aspose.threed.render/itexturecubemap/save)(CubeFaceData&lt;string&gt;, string) |  |
+| [ToBitmap](../../aspose.threed.render/itexturecubemap/tobitmap)(CubeFace) | Convert the texture unit to [`TextureData`](../texturedata) instance |
 
 ### See Also
 

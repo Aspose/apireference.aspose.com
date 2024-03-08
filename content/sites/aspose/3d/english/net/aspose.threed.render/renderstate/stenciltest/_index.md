@@ -3,7 +3,7 @@ title: StencilTest
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 180
 url: /net/aspose.threed.render/renderstate/stenciltest/
 ---
 ## RenderState.StencilTest property

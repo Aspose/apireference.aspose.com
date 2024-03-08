@@ -3,7 +3,7 @@ title: SetTranslation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 230
 url: /net/aspose.threed/transform/settranslation/
 ---
 ## Transform.SetTranslation method
@@ -19,6 +19,13 @@ public Transform SetTranslation(double tx, double ty, double tz)
 | tx | Double |  |
 | ty | Double |  |
 | tz | Double |  |
+
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetTranslation(10, 0, 0);
+```
 
 ### See Also
 

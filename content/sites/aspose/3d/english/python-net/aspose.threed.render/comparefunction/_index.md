@@ -3,8 +3,8 @@ title: CompareFunction enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /python-net/aspose.threed.render/comparefunction/
+weight: 450
+url: /aspose.threed.render/comparefunction/
 is_root: false
 ---
 
@@ -31,4 +31,4 @@ The CompareFunction type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

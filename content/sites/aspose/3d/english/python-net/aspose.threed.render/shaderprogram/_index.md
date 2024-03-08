@@ -3,8 +3,8 @@ title: ShaderProgram class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /python-net/aspose.threed.render/shaderprogram/
+weight: 350
+url: /aspose.threed.render/shaderprogram/
 is_root: false
 ---
 
@@ -18,4 +18,4 @@ The ShaderProgram type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

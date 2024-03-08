@@ -3,7 +3,7 @@ title: Subject
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.threed/assetinfo/subject/
 ---
 ## AssetInfo.Subject property

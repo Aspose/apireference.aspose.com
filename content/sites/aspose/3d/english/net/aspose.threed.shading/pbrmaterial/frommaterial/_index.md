@@ -18,6 +18,17 @@ public static PbrMaterial FromMaterial(Material material)
 | --- | --- | --- |
 | material | Material |  |
 
+### Examples
+
+```csharp
+var mat = new LambertMaterial();
+var tex = new Texture();
+tex.FileName = "diffuse.png";
+mat.SetTexture(Material.MapDiffuse, tex);
+mat.DiffuseColor = new Vector3(0.3, 0.9, 0.4);
+PbrMaterial pbr = PbrMaterial.FromMaterial(mat);
+```
+
 ### See Also
 
 * class [Material](../../material)

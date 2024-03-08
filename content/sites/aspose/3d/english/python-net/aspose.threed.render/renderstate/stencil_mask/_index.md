@@ -3,8 +3,8 @@ title: stencil_mask property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /python-net/aspose.threed.render/renderstate/stencil_mask/
+weight: 180
+url: /aspose.threed.render/renderstate/stencil_mask/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def stencil_mask(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

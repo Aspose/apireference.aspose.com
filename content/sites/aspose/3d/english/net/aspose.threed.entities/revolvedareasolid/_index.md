@@ -3,7 +3,7 @@ title: RevolvedAreaSolid
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 620
+weight: 650
 url: /net/aspose.threed.entities/revolvedareasolid/
 ---
 ## RevolvedAreaSolid class

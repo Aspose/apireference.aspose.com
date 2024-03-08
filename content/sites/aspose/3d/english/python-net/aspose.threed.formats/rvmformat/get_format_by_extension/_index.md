@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.formats/rvmformat/get_format_by_extension/
+url: /aspose.threed.formats/rvmformat/get_format_by_extension/
 is_root: false
 ---
 
-## get_format_by_extension(extension_name) {#str}
+## get_format_by_extension {#str}
 
 Gets the preferred file format from the file extension name
 The extension name should starts with a dot('.').
@@ -17,7 +17,7 @@ The extension name should starts with a dot('.').
 ### Returns 
 
 
-Instance of [FileFormat](/3d/python-net/aspose.threed/fileformat), otherwise null returned.
+Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), otherwise null returned.
 
 
 ```python
@@ -51,6 +51,6 @@ with BytesIO() as ms:
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

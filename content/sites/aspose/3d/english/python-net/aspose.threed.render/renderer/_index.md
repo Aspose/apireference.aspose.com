@@ -3,8 +3,8 @@ title: Renderer class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /python-net/aspose.threed.render/renderer/
+weight: 310
+url: /aspose.threed.render/renderer/
 is_root: false
 ---
 
@@ -27,7 +27,7 @@ The Renderer type exposes the following members:
 | [post_processings](/3d/python-net/aspose.threed.render/renderer/post_processings) | Active post-processing chain |
 | [enable_shadows](/3d/python-net/aspose.threed.render/renderer/enable_shadows) | Gets or sets whether to enable shadows. |
 | [render_target](/3d/python-net/aspose.threed.render/renderer/render_target) | Specify the render target that the following render operations will be performed on. |
-| [node](/3d/python-net/aspose.threed.render/renderer/node) | Gets or sets the [Renderer.node](/3d/python-net/aspose.threed.render/renderer#node) instance used to provide world transform matrix. |
+| [node](/3d/python-net/aspose.threed.render/renderer/node) | Gets or sets the [`Renderer.node`](/3d/python-net/aspose.threed.render/renderer#node) instance used to provide world transform matrix. |
 | [frustum](/3d/python-net/aspose.threed.render/renderer/frustum) | Gets or sets the frustum that used to provide view matrix. |
 | [render_stage](/3d/python-net/aspose.threed.render/renderer/render_stage) | Gets the current render stage. |
 | [material](/3d/python-net/aspose.threed.render/renderer/material) | Gets or sets the material that used to provide material information used by shaders. |
@@ -38,15 +38,15 @@ The Renderer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clear_cache()](/3d/python-net/aspose.threed.render/renderer/clear_cache/#) | Manually clear the cache.<br/>Aspose.3D will cache some objects like materials/geometries into internal types that compatible with the render pipeline.<br/>This should be manually called when scene has major changes. |
-| [get_post_processing(name)](/3d/python-net/aspose.threed.render/renderer/get_post_processing/#str) | Gets a built-in post-processor that supported by the renderer. |
-| [execute(post_processing, result)](/3d/python-net/aspose.threed.render/renderer/execute/#PostProcessing-IRenderTarget) | Execute an post processing on specified render target |
-| [create_renderer()](/3d/python-net/aspose.threed.render/renderer/create_renderer/#) | Creates a new [Renderer](/3d/python-net/aspose.threed.render/renderer) with default profile. |
-| [register_entity_renderer(renderer)](/3d/python-net/aspose.threed.render/renderer/register_entity_renderer/#EntityRenderer) | Register the entity renderer for specified entity |
-| [render(render_target)](/3d/python-net/aspose.threed.render/renderer/render/#IRenderTarget) | Render the specified target |
+| [clear_cache](/3d/python-net/aspose.threed.render/renderer/clear_cache/#) | Manually clear the cache.<br/>Aspose.3D will cache some objects like materials/geometries into internal types that compatible with the render pipeline.<br/>This should be manually called when scene has major changes. |
+| [get_post_processing](/3d/python-net/aspose.threed.render/renderer/get_post_processing/#str) | Gets a built-in post-processor that supported by the renderer. |
+| [execute](/3d/python-net/aspose.threed.render/renderer/execute/#aspose.threed.render.PostProcessing-aspose.threed.render.IRenderTarget) | Execute an post processing on specified render target |
+| [create_renderer](/3d/python-net/aspose.threed.render/renderer/create_renderer/#) | Creates a new [`Renderer`](/3d/python-net/aspose.threed.render/renderer) with default profile. |
+| [register_entity_renderer](/3d/python-net/aspose.threed.render/renderer/register_entity_renderer/#aspose.threed.render.EntityRenderer) | Register the entity renderer for specified entity |
+| [render](/3d/python-net/aspose.threed.render/renderer/render/#aspose.threed.render.IRenderTarget) | Render the specified target |
 
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](..)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1270
+weight: 1300
 url: /net/aspose.threed.formats/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -28,6 +28,7 @@ public class PdfSaveOptions : SaveOptions
 | [BackgroundColor](../../aspose.threed.formats/pdfsaveoptions/backgroundcolor) { get; set; } | Background color of the 3D view in PDF file. |
 | [EmbedTextures](../../aspose.threed.formats/pdfsaveoptions/embedtextures) { get; set; } | Embed the external textures into the PDF file, default value is false. |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [FaceColor](../../aspose.threed.formats/pdfsaveoptions/facecolor) { get; set; } | Gets or sets the face color to be used when rendering the 3D content. This is only relevant only when the [`RenderMode`](./rendermode) has a value of Illustration. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |

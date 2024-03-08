@@ -3,8 +3,8 @@ title: StencilState class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /python-net/aspose.threed.render/stencilstate/
+weight: 390
+url: /aspose.threed.render/stencilstate/
 is_root: false
 ---
 
@@ -27,4 +27,4 @@ The StencilState type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

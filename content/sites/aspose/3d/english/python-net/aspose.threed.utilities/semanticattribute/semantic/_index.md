@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.utilities/semanticattribute/semantic/
+url: /aspose.threed.utilities/semanticattribute/semantic/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def semantic(self):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
-* class [VertexFieldSemantic](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic)
+* module [`aspose.threed.utilities`](../../)
+* class [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)
+* class [`VertexFieldSemantic`](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic)

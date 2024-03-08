@@ -3,7 +3,7 @@ title: Data
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.threed.render/texturedata/data/
 ---
 ## TextureData.Data property

@@ -3,7 +3,7 @@ title: Entity
 second_title: Aspose.3D for Java API Reference
 description: The base class of all entities.
 type: docs
-weight: 49
+weight: 50
 url: /java/com.aspose.threed/entity/
 ---
 
@@ -97,7 +97,14 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system.
+Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+
+```
+Entity entity = new Sphere();
+     entity.setRadius(10);
+     var bbox = entity.getBoundingBox();
+     System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
+```
 
 **Returns:**
 [BoundingBox](../../com.aspose.threed/boundingbox)
@@ -325,7 +332,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

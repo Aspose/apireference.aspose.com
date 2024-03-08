@@ -13,7 +13,15 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public class AssetInfo extends A3DObject
 ```
 
-Information of asset. Asset information can be attached to a [Scene](../../com.aspose.threed/scene). Child [Scene](../../com.aspose.threed/scene) can have its own [AssetInfo](../../com.aspose.threed/assetinfo) to override parent's definition.
+Information of asset. Asset information can be attached to a [Scene](../../com.aspose.threed/scene). Child [Scene](../../com.aspose.threed/scene) can have its own [AssetInfo](../../com.aspose.threed/assetinfo) to override parent's definition. **Example:** The following code shows how to read asset info from a fbx file:
+
+```
+Scene scene = Scene.fromFile("test.fbx");
+     System.out.printf("The file is created at %s by %s %s",
+          scene.getAssetInfo().getCreationTime(),
+          scene.getAssetInfo().getApplicationName(),
+          scene.getAssetInfo().getApplicationVersion());
+```
 ## Constructors
 
 | Constructor | Description |
@@ -31,11 +39,13 @@ Information of asset. Asset information can be attached to a [Scene](../../com.a
 | [getApplicationVendor()](#getApplicationVendor--) | Gets the application vendor's name |
 | [getApplicationVersion()](#getApplicationVersion--) | Gets the version of the application that created this asset. |
 | [getAuthor()](#getAuthor--) | Gets the author of this asset |
+| [getAxisSystem()](#getAxisSystem--) | Gets the coordinate system/up vector/front vector of the asset info. |
 | [getClass()](#getClass--) |  |
 | [getComment()](#getComment--) | Gets the comment of this asset. |
-| [getCoordinatedSystem()](#getCoordinatedSystem--) | Gets the coordinate system used in this asset. |
+| [getCoordinateSystem()](#getCoordinateSystem--) | Gets the coordinate system used in this asset. |
 | [getCopyright()](#getCopyright--) | Gets the document's copyright |
 | [getCreationTime()](#getCreationTime--) | Gets or Sets the creation time of this asset |
+| [getFrontVector()](#getFrontVector--) | Gets the front-vector used in this asset. |
 | [getKeywords()](#getKeywords--) | Gets the keywords of this asset |
 | [getModificationTime()](#getModificationTime--) | Gets or Sets the modification time of this asset |
 | [getName()](#getName--) | Gets the name. |
@@ -58,10 +68,12 @@ Information of asset. Asset information can be attached to a [Scene](../../com.a
 | [setApplicationVendor(String value)](#setApplicationVendor-java.lang.String-) | Sets the application vendor's name |
 | [setApplicationVersion(String value)](#setApplicationVersion-java.lang.String-) | Sets the version of the application that created this asset. |
 | [setAuthor(String value)](#setAuthor-java.lang.String-) | Sets the author of this asset |
+| [setAxisSystem(AxisSystem value)](#setAxisSystem-com.aspose.threed.AxisSystem-) | Sets the coordinate system/up vector/front vector of the asset info. |
 | [setComment(String value)](#setComment-java.lang.String-) | Sets the comment of this asset. |
-| [setCoordinatedSystem(CoordinatedSystem value)](#setCoordinatedSystem-com.aspose.threed.CoordinatedSystem-) | Sets the coordinate system used in this asset. |
+| [setCoordinateSystem(CoordinateSystem value)](#setCoordinateSystem-com.aspose.threed.CoordinateSystem-) | Sets the coordinate system used in this asset. |
 | [setCopyright(String value)](#setCopyright-java.lang.String-) | Sets the document's copyright |
 | [setCreationTime(Calendar value)](#setCreationTime-java.util.Calendar-) | Gets or Sets the creation time of this asset |
+| [setFrontVector(Axis value)](#setFrontVector-com.aspose.threed.Axis-) | Sets the front-vector used in this asset. |
 | [setKeywords(String value)](#setKeywords-java.lang.String-) | Sets the keywords of this asset |
 | [setModificationTime(Calendar value)](#setModificationTime-java.util.Calendar-) | Gets or Sets the modification time of this asset |
 | [setName(String value)](#setName-java.lang.String-) | Sets the name. |
@@ -178,6 +190,16 @@ Gets the author of this asset
 
 **Returns:**
 java.lang.String
+### getAxisSystem() {#getAxisSystem--}
+```
+public AxisSystem getAxisSystem()
+```
+
+
+Gets the coordinate system/up vector/front vector of the asset info.
+
+**Returns:**
+[AxisSystem](../../com.aspose.threed/axissystem)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -198,16 +220,16 @@ Gets the comment of this asset.
 
 **Returns:**
 java.lang.String
-### getCoordinatedSystem() {#getCoordinatedSystem--}
+### getCoordinateSystem() {#getCoordinateSystem--}
 ```
-public CoordinatedSystem getCoordinatedSystem()
+public CoordinateSystem getCoordinateSystem()
 ```
 
 
 Gets the coordinate system used in this asset.
 
 **Returns:**
-[CoordinatedSystem](../../com.aspose.threed/coordinatedsystem)
+[CoordinateSystem](../../com.aspose.threed/coordinatesystem)
 ### getCopyright() {#getCopyright--}
 ```
 public String getCopyright()
@@ -228,6 +250,16 @@ Gets or Sets the creation time of this asset
 
 **Returns:**
 java.util.Calendar
+### getFrontVector() {#getFrontVector--}
+```
+public Axis getFrontVector()
+```
+
+
+Gets the front-vector used in this asset.
+
+**Returns:**
+[Axis](../../com.aspose.threed/axis)
 ### getKeywords() {#getKeywords--}
 ```
 public String getKeywords()
@@ -329,7 +361,7 @@ public double getUnitScaleFactor()
 ```
 
 
-Gets the scale factor to real-world meter.
+Gets the scale factor to real-world meter. **Remarks:** This is ignored during serialization if the unit name is null.
 
 **Returns:**
 double
@@ -474,6 +506,19 @@ Sets the author of this asset
 | --- | --- | --- |
 | value | java.lang.String | New value |
 
+### setAxisSystem(AxisSystem value) {#setAxisSystem-com.aspose.threed.AxisSystem-}
+```
+public void setAxisSystem(AxisSystem value)
+```
+
+
+Sets the coordinate system/up vector/front vector of the asset info.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value |
+
 ### setComment(String value) {#setComment-java.lang.String-}
 ```
 public void setComment(String value)
@@ -487,9 +532,9 @@ Sets the comment of this asset.
 | --- | --- | --- |
 | value | java.lang.String | New value |
 
-### setCoordinatedSystem(CoordinatedSystem value) {#setCoordinatedSystem-com.aspose.threed.CoordinatedSystem-}
+### setCoordinateSystem(CoordinateSystem value) {#setCoordinateSystem-com.aspose.threed.CoordinateSystem-}
 ```
-public void setCoordinatedSystem(CoordinatedSystem value)
+public void setCoordinateSystem(CoordinateSystem value)
 ```
 
 
@@ -498,7 +543,7 @@ Sets the coordinate system used in this asset.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [CoordinatedSystem](../../com.aspose.threed/coordinatedsystem) | New value |
+| value | [CoordinateSystem](../../com.aspose.threed/coordinatesystem) | New value |
 
 ### setCopyright(String value) {#setCopyright-java.lang.String-}
 ```
@@ -525,6 +570,19 @@ Gets or Sets the creation time of this asset
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.util.Calendar | New value |
+
+### setFrontVector(Axis value) {#setFrontVector-com.aspose.threed.Axis-}
+```
+public void setFrontVector(Axis value)
+```
+
+
+Sets the front-vector used in this asset.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Axis](../../com.aspose.threed/axis) | New value |
 
 ### setKeywords(String value) {#setKeywords-java.lang.String-}
 ```
@@ -642,7 +700,7 @@ Sets the scale factor to real-world meter.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | New value |
+| value | double | New value **Remarks:** This is ignored during serialization if the unit name is null. |
 
 ### setUpVector(Axis value) {#setUpVector-com.aspose.threed.Axis-}
 ```
@@ -690,7 +748,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed.formats/discreet3dssaveoptions/export_light/
+url: /aspose.threed.formats/discreet3dssaveoptions/export_light/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def export_light(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)

@@ -3,8 +3,8 @@ title: primitive_to_mesh property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /python-net/aspose.threed.formats/usdsaveoptions/primitive_to_mesh/
+weight: 100
+url: /aspose.threed.formats/usdsaveoptions/primitive_to_mesh/
 is_root: false
 ---
 
@@ -25,5 +25,5 @@ def primitive_to_mesh(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [UsdSaveOptions](/3d/python-net/aspose.threed.formats/usdsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions)

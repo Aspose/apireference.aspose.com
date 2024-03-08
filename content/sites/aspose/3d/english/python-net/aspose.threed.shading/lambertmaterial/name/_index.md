@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /python-net/aspose.threed.shading/lambertmaterial/name/
+url: /aspose.threed.shading/lambertmaterial/name/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)

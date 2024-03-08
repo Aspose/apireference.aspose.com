@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /python-net/aspose.threed.entities/camera/projection_type/
+url: /aspose.threed.entities/camera/projection_type/
 is_root: false
 ---
 
@@ -24,6 +24,6 @@ def projection_type(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Camera](/3d/python-net/aspose.threed.entities/camera)
-* class [ProjectionType](/3d/python-net/aspose.threed.entities/projectiontype)
+* module [`aspose.threed.entities`](../../)
+* class [`Camera`](/3d/python-net/aspose.threed.entities/camera)
+* class [`ProjectionType`](/3d/python-net/aspose.threed.entities/projectiontype)

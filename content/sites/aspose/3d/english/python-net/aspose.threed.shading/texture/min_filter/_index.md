@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /python-net/aspose.threed.shading/texture/min_filter/
+url: /aspose.threed.shading/texture/min_filter/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def min_filter(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
-* class [TextureFilter](/3d/python-net/aspose.threed.shading/texturefilter)
+* module [`aspose.threed.shading`](../../)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)
+* class [`TextureFilter`](/3d/python-net/aspose.threed.shading/texturefilter)

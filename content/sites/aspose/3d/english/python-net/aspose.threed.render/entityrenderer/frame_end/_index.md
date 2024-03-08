@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.render/entityrenderer/frame_end/
+url: /aspose.threed.render/entityrenderer/frame_end/
 is_root: false
 ---
 
-## frame_end(renderer, render_queue) {#Renderer-IRenderQueue}
+## frame_end {#aspose.threed.render.Renderer-aspose.threed.render.IRenderQueue}
 
 Ends rendering a frame
 
@@ -22,11 +22,11 @@ def frame_end(self, renderer, render_queue):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| renderer | [Renderer](/3d/python-net/aspose.threed.render/renderer) | Current renderer |
-| render_queue | [IRenderQueue](/3d/python-net/aspose.threed.render/irenderqueue) | Render queue |
+| renderer | [`Renderer`](/3d/python-net/aspose.threed.render/renderer) | Current renderer |
+| render_queue | [`IRenderQueue`](/3d/python-net/aspose.threed.render/irenderqueue) | Render queue |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)

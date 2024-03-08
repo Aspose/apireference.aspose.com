@@ -3,8 +3,8 @@ title: reuse_primitive_mesh property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /python-net/aspose.threed.formats/fbxsaveoptions/reuse_primitive_mesh/
+weight: 140
+url: /aspose.threed.formats/fbxsaveoptions/reuse_primitive_mesh/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def reuse_primitive_mesh(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)

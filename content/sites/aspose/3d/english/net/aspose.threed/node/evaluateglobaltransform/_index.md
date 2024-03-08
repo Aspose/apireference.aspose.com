@@ -18,6 +18,23 @@ public Matrix4 EvaluateGlobalTransform(bool withGeometricTransform)
 | --- | --- | --- |
 | withGeometricTransform | Boolean | Whether the geometric transform is needed. |
 
+### Return Value
+
+The global transform matrix.
+
+### Examples
+
+The following code shows how to read the node's global transform matrix.
+
+```csharp
+Scene scene = new Scene();
+var boxNode = scene.RootNode.CreateChildNode(new Box());
+//place the box at (10, 0, 0)
+boxNode.Transform.Translation = new Vector3(10, 0, 0);
+Matrix4 mat = boxNode.EvaluateGlobalTransform(true);
+Console.WriteLine($"The box's global transform matrix is {mat}");
+```
+
 ### See Also
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/quaternion/__init__/
+url: /aspose.threed.utilities/quaternion/__init__/
 is_root: false
 ---
 
-## Quaternion() {#}
+## __init__ {#}
 
 Constructs a new instance of Quaternion
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Quaternion(w, x, y, z) {#float-float-float-float}
+## __init__ {#float-float-float-float}
 
-Initializes a new instance of the [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) class.
+Initializes a new instance of the [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) class.
 
 
 
@@ -44,5 +44,5 @@ def __init__(self, w, x, y, z):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

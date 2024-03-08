@@ -3,7 +3,7 @@ title: Extension
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 490
+weight: 510
 url: /net/aspose.threed/fileformat/extension/
 ---
 ## FileFormat.Extension property
@@ -12,6 +12,13 @@ Gets the extension name of this type.
 
 ```csharp
 public string Extension { get; }
+```
+
+### Examples
+
+```csharp
+var format = FileFormat.MayaBinary;
+Console.WriteLine($"Extension of {format} is {format.Extension}");
 ```
 
 ### See Also

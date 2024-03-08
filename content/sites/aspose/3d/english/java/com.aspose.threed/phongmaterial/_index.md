@@ -3,7 +3,7 @@ title: PhongMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for blinn-phong shading model.
 type: docs
-weight: 113
+weight: 116
 url: /java/com.aspose.threed/phongmaterial/
 ---
 
@@ -38,7 +38,7 @@ Material for blinn-phong shading model.
 | [getAmbientColor()](#getAmbientColor--) | Gets the ambient color |
 | [getClass()](#getClass--) |  |
 | [getDiffuseColor()](#getDiffuseColor--) | Gets the diffuse color |
-| [getEmissiveColor()](#getEmissiveColor--) | Gets the emissive color |
+| [getEmissiveColor()](#getEmissiveColor--) | Gets the emissive color **Example:** |
 | [getName()](#getName--) | Gets the name. |
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
@@ -200,7 +200,12 @@ public Vector3 getEmissiveColor()
 ```
 
 
-Gets the emissive color
+Gets the emissive color **Example:**
+
+```
+var mat = new LambertMaterial();
+     mat.setEmissiveColor(new Vector3(1, 1, 1));
+```
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -303,7 +308,15 @@ Gets the texture from the specified slot, it can be material's property name or 
 | slotName | java.lang.String | Slot name. |
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase) - The texture.
+[TextureBase](../../com.aspose.threed/texturebase) - The texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     tex = (Texture)mat.getTexture(Material.MAP_DIFFUSE);
+```
 ### getTransparency() {#getTransparency--}
 ```
 public double getTransparency()
@@ -427,7 +440,12 @@ Sets the emissive color
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+var mat = new LambertMaterial();
+     mat.setEmissiveColor(new Vector3(1, 1, 1));
+``` |
 
 ### setName(String value) {#setName-java.lang.String-}
 ```
@@ -533,7 +551,14 @@ Sets the texture to specified slot
 | Parameter | Type | Description |
 | --- | --- | --- |
 | slotName | java.lang.String | Slot name. |
-| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. |
+| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_NORMAL, tex);
+``` |
 
 ### setTransparency(double value) {#setTransparency-double-}
 ```
@@ -581,7 +606,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

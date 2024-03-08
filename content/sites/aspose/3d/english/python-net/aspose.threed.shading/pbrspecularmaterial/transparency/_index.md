@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /python-net/aspose.threed.shading/pbrspecularmaterial/transparency/
+url: /aspose.threed.shading/pbrspecularmaterial/transparency/
 is_root: false
 ---
 
@@ -25,5 +25,5 @@ def transparency(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrSpecularMaterial`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)

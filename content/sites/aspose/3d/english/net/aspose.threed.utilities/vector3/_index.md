@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2650
+weight: 2770
 url: /net/aspose.threed.utilities/vector3/
 ---
 ## Vector3 structure
@@ -18,7 +18,6 @@ public struct Vector3 : IComparable<Vector3>
 
 | Name | Description |
 | --- | --- |
-| [Vector3](vector3)(Color) | Initializes a new instance of the [`Vector3`](../vector3) struct. |
 | [Vector3](vector3)(double) | Initializes a new instance of the [`Vector3`](../vector3) struct. |
 | [Vector3](vector3)(FVector3) | Initializes a new instance of the [`Vector3`](../vector3) struct. |
 | [Vector3](vector3)(Vector4) | Initializes a new instance of the [`Vector3`](../vector3) struct. |
@@ -28,6 +27,12 @@ public struct Vector3 : IComparable<Vector3>
 
 | Name | Description |
 | --- | --- |
+| static [One](../../aspose.threed.utilities/vector3/one) { get; } | Gets unit vector (1, 1, 1) |
+| static [UnitX](../../aspose.threed.utilities/vector3/unitx) { get; } | Gets unit vector (1, 0, 0) |
+| static [UnitY](../../aspose.threed.utilities/vector3/unity) { get; } | Gets unit vector (0, 1, 0) |
+| static [UnitZ](../../aspose.threed.utilities/vector3/unitz) { get; } | Gets unit vector (0, 0, 1) |
+| static [Zero](../../aspose.threed.utilities/vector3/zero) { get; } | Gets unit vector (0, 0, 0) |
+| [Item](../../aspose.threed.utilities/vector3/item) { get; set; } |  |
 | [Length](../../aspose.threed.utilities/vector3/length) { get; } | Gets the length of this vector. |
 | [Length2](../../aspose.threed.utilities/vector3/length2) { get; } | Gets the square of the length. |
 
@@ -48,7 +53,7 @@ public struct Vector3 : IComparable<Vector3>
 | [Sin](../../aspose.threed.utilities/vector3/sin)() | Calculates sine on each component |
 | override [ToString](../../aspose.threed.utilities/vector3/tostring)() | Returns a String that represents the current [`Vector3`](../vector3). |
 | [operator +](../../aspose.threed.utilities/vector3/op_addition) | Operator overloading for + |
-| [operator /](../../aspose.threed.utilities/vector3/op_division) | Operator overloading for / |
+| [operator /](../../aspose.threed.utilities/vector3/op_division) | Operator overloading for / (2 operators) |
 | [operator ==](../../aspose.threed.utilities/vector3/op_equality) | Equal operator for Vector3 |
 | [explicit operator](../../aspose.threed.utilities/vector3/op_explicit) |  |
 | [operator !=](../../aspose.threed.utilities/vector3/op_inequality) | Not-equal operator for Vector3 |
@@ -59,14 +64,9 @@ public struct Vector3 : IComparable<Vector3>
 
 | Name | Description |
 | --- | --- |
-| static readonly [Origin](../../aspose.threed.utilities/vector3/origin) | Gets the origin position. |
-| static readonly [UnitScale](../../aspose.threed.utilities/vector3/unitscale) | Gets the unit scale vector. |
-| static readonly [XAxis](../../aspose.threed.utilities/vector3/xaxis) | Gets the X axis. |
-| static readonly [YAxis](../../aspose.threed.utilities/vector3/yaxis) | Gets the Y axis. |
-| static readonly [ZAxis](../../aspose.threed.utilities/vector3/zaxis) | Gets the Z axis. |
-| [x](../../aspose.threed.utilities/vector3/x) | The x component. |
-| [y](../../aspose.threed.utilities/vector3/y) | The y component. |
-| [z](../../aspose.threed.utilities/vector3/z) | The z component. |
+| [X](../../aspose.threed.utilities/vector3/x) | The x component. |
+| [Y](../../aspose.threed.utilities/vector3/y) | The y component. |
+| [Z](../../aspose.threed.utilities/vector3/z) | The z component. |
 
 ### See Also
 

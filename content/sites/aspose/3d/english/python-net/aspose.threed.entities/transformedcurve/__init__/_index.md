@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/transformedcurve/__init__/
+url: /aspose.threed.entities/transformedcurve/__init__/
 is_root: false
 ---
 
-## TransformedCurve() {#}
+## __init__ {#}
 
-The constructor of [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## TransformedCurve(basis_curve, transformation) {#Curve-aspose.threed.utilities.Matrix4}
+## __init__ {#aspose.threed.entities.Curve-aspose.threed.utilities.Matrix4}
 
-The constructor of [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)
 
 
 
@@ -36,11 +36,11 @@ def __init__(self, basis_curve, transformation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| basis_curve | [Curve](/3d/python-net/aspose.threed.entities/curve) |  |
+| basis_curve | [`Curve`](/3d/python-net/aspose.threed.entities/curve) |  |
 | transformation | aspose.threed.utilities.Matrix4 |  |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+* module [`aspose.threed.entities`](../../)
+* class [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)

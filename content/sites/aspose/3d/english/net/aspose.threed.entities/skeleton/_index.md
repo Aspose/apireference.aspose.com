@@ -3,7 +3,7 @@ title: Skeleton
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 650
+weight: 680
 url: /net/aspose.threed.entities/skeleton/
 ---
 ## Skeleton class

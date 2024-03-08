@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.formats/dracoformat/
+url: /aspose.threed.formats/dracoformat/
 is_root: false
 ---
 
@@ -14,8 +14,8 @@ Google Draco format
 
 
 
-**Inheritance:** [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat) → 
-[FileFormat](/3d/python-net/aspose.threed/fileformat)
+**Inheritance:** [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat) → 
+[`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 
 
 
@@ -24,6 +24,7 @@ The DracoFormat type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [version](/3d/python-net/aspose.threed.formats/dracoformat/version) | Gets file format version |
 | [can_export](/3d/python-net/aspose.threed.formats/dracoformat/can_export) | Gets whether Aspose.3D supports export scene to current file format. |
 | [can_import](/3d/python-net/aspose.threed.formats/dracoformat/can_import) | Gets whether Aspose.3D supports import scene from current file format. |
 | [extension](/3d/python-net/aspose.threed.formats/dracoformat/extension) | Gets the extension name of this type. |
@@ -66,6 +67,7 @@ The DracoFormat type exposes the following members:
 | [RVM_TEXT](/3d/python-net/aspose.threed.formats/dracoformat/rvm_text) | AVEVA Plant Design Management System Model in text format |
 | [RVM_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/rvm_binary) | AVEVA Plant Design Management System Model in binary format |
 | [ASE](/3d/python-net/aspose.threed.formats/dracoformat/ase) | 3D Studio Max's ASCII Scene Exporter format. |
+| [IFC](/3d/python-net/aspose.threed.formats/dracoformat/ifc) | ISO 16739-1 Industry Foundation Classes data model. |
 | [SIEMENS_JT8](/3d/python-net/aspose.threed.formats/dracoformat/siemens_jt8) | Siemens JT File Version 8 |
 | [SIEMENS_JT9](/3d/python-net/aspose.threed.formats/dracoformat/siemens_jt9) | Siemens JT File Version 9 |
 | [AMF](/3d/python-net/aspose.threed.formats/dracoformat/amf) | Additive manufacturing file format |
@@ -74,6 +76,7 @@ The DracoFormat type exposes the following members:
 | [HTML5](/3d/python-net/aspose.threed.formats/dracoformat/html5) | HTML5 File |
 | [ZIP](/3d/python-net/aspose.threed.formats/dracoformat/zip) | Zip archive that contains other 3d file format. |
 | [USD](/3d/python-net/aspose.threed.formats/dracoformat/usd) | Universal Scene Description |
+| [USDA](/3d/python-net/aspose.threed.formats/dracoformat/usda) | Universal Scene Description in ASCII format. |
 | [USDZ](/3d/python-net/aspose.threed.formats/dracoformat/usdz) | Compressed Universal Scene Description |
 | [XYZ](/3d/python-net/aspose.threed.formats/dracoformat/xyz) | Xyz point cloud file |
 | [PCD](/3d/python-net/aspose.threed.formats/dracoformat/pcd) | PCL Point Cloud Data file in ASCII mode |
@@ -83,20 +86,20 @@ The DracoFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/dracoformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect(file_name)](/3d/python-net/aspose.threed.formats/dracoformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [decode(file_name)](/3d/python-net/aspose.threed.formats/dracoformat/decode/#str) | Decode the point cloud or mesh from specified file name |
-| [decode(data)](/3d/python-net/aspose.threed.formats/dracoformat/decode/#bytes) | Decode the point cloud or mesh from memory data |
-| [encode(entity, stream, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-io.RawIOBase-DracoSaveOptions) | Encode the entity to specified stream |
-| [encode(entity, file_name, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-str-DracoSaveOptions) | Encode the entity to specified file |
-| [encode(entity, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-DracoSaveOptions) | Encode the entity to Draco raw data |
-| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/dracoformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options()](/3d/python-net/aspose.threed.formats/dracoformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options()](/3d/python-net/aspose.threed.formats/dracoformat/create_save_options/#) | Create a default save options for this file format |
+| [detect](/3d/python-net/aspose.threed.formats/dracoformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect](/3d/python-net/aspose.threed.formats/dracoformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [decode](/3d/python-net/aspose.threed.formats/dracoformat/decode/#str) | Decode the point cloud or mesh from specified file name |
+| [decode](/3d/python-net/aspose.threed.formats/dracoformat/decode/#bytes) | Decode the point cloud or mesh from memory data |
+| [encode](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.Entity-io.RawIOBase-aspose.threed.formats.DracoSaveOptions) | Encode the entity to specified stream |
+| [encode](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.Entity-str-aspose.threed.formats.DracoSaveOptions) | Encode the entity to specified file |
+| [encode](/3d/python-net/aspose.threed.formats/dracoformat/encode/#aspose.threed.Entity-aspose.threed.formats.DracoSaveOptions) | Encode the entity to Draco raw data |
+| [get_format_by_extension](/3d/python-net/aspose.threed.formats/dracoformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [create_load_options](/3d/python-net/aspose.threed.formats/dracoformat/create_load_options/#) | Create a default load options for this file format |
+| [create_save_options](/3d/python-net/aspose.threed.formats/dracoformat/create_save_options/#) | Create a default save options for this file format |
 
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed.formats`](..)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

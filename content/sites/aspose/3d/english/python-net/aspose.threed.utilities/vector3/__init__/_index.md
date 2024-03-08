@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/vector3/__init__/
+url: /aspose.threed.utilities/vector3/__init__/
 is_root: false
 ---
 
-## Vector3() {#}
+## __init__ {#}
 
 Constructs a new instance of Vector3
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Vector3(vec) {#FVector3}
+## __init__ {#aspose.threed.utilities.FVector3}
 
-Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct.
+Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
@@ -36,29 +36,12 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [FVector3](/3d/python-net/aspose.threed.utilities/fvector3) | The x coordinate. |
+| vec | [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3) | The x coordinate. |
 
 
-## Vector3(color) {#aspose.pydrawing.Color}
+## __init__ {#float}
 
-Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct.
-
-
-
-```python
-def __init__(self, color):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| color | aspose.pydrawing.Color | Color. |
-
-
-## Vector3(v) {#float}
-
-Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct.
+Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
@@ -73,9 +56,9 @@ def __init__(self, v):
 | v | float | V. |
 
 
-## Vector3(vec4) {#Vector4}
+## __init__ {#aspose.threed.utilities.Vector4}
 
-Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct.
+Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
@@ -87,12 +70,12 @@ def __init__(self, vec4):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec4 | [Vector4](/3d/python-net/aspose.threed.utilities/vector4) | Vec4. |
+| vec4 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | Vec4. |
 
 
-## Vector3(x, y, z) {#float-float-float}
+## __init__ {#float-float-float}
 
-Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct.
+Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
 
 
@@ -111,5 +94,5 @@ def __init__(self, x, y, z):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

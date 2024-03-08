@@ -3,8 +3,8 @@ title: save_extras property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /python-net/aspose.threed.formats/gltfsaveoptions/save_extras/
+weight: 180
+url: /aspose.threed.formats/gltfsaveoptions/save_extras/
 is_root: false
 ---
 
@@ -25,5 +25,5 @@ def save_extras(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)

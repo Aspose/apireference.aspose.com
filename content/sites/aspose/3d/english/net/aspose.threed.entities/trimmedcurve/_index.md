@@ -3,7 +3,7 @@ title: TrimmedCurve
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 750
+weight: 780
 url: /net/aspose.threed.entities/trimmedcurve/
 ---
 ## TrimmedCurve class

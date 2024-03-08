@@ -3,7 +3,7 @@ title: Vector4
 second_title: Aspose.3D for Java API Reference
 description: A vector with four components.
 type: docs
-weight: 183
+weight: 190
 url: /java/com.aspose.threed/vector4/
 ---
 
@@ -21,7 +21,6 @@ A vector with four components.
 
 | Constructor | Description |
 | --- | --- |
-| [Vector4(Color color)](#Vector4-java.awt.Color-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
 | [Vector4(Vector3 vec, double w)](#Vector4-com.aspose.threed.Vector3-double-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
 | [Vector4(Vector3 vec)](#Vector4-com.aspose.threed.Vector3-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
 | [Vector4(FVector4 vec)](#Vector4-com.aspose.threed.FVector4-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
@@ -59,19 +58,6 @@ A vector with four components.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Vector4(Color color) {#Vector4-java.awt.Color-}
-```
-public Vector4(Color color)
-```
-
-
-Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | java.awt.Color | Color. |
-
 ### Vector4(Vector3 vec, double w) {#Vector4-com.aspose.threed.Vector3-double-}
 ```
 public Vector4(Vector3 vec, double w)
@@ -400,7 +386,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

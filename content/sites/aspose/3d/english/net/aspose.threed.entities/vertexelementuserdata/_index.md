@@ -3,7 +3,7 @@ title: VertexElementUserData
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 910
+weight: 940
 url: /net/aspose.threed.entities/vertexelementuserdata/
 ---
 ## VertexElementUserData class

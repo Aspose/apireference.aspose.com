@@ -80,6 +80,7 @@ All geometry and entities are defined in this namespace
 | Enumeration | Description |
 | --- | --- |
 | [ApertureMode](./aperturemode) | Camera aperture modes. The aperture mode determines which values drive the camera aperture. If the aperture mode is HorizAndVert, Horizontal, or Vertical, then the field of view is used. If the aperture mode is FocalLength, then the focal length is used. |
+| [BooleanOperation](./booleanoperation) | Mesh's Boolean operation |
 | [CurveDimension](./curvedimension) | The dimension of the curves. |
 | [LightType](./lighttype) | Light types. |
 | [MappingMode](./mappingmode) | Determines how the element is mapped to a surface. The [`MappingMode`](../aspose.threed.entities/mappingmode) defined how [`VertexElement`](../aspose.threed.entities/vertexelement) is mapped to the surface of geometry. |

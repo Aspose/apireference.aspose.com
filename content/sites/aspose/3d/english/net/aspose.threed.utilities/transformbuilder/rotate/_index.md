@@ -18,6 +18,14 @@ public TransformBuilder Rotate(Quaternion q)
 | --- | --- | --- |
 | q | Quaternion |  |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Rotate(Quaternion.FromEulerAngle(0, Math.PI, 0));
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * struct [Quaternion](../../quaternion)

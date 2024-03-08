@@ -6,12 +6,37 @@ type: docs
 weight: 10
 url: /net/aspose.threed.formats/plyformat/decode/
 ---
-## PlyFormat.Decode method (1 of 2)
+## PlyFormat.Decode method (1 of 4)
 
 Decode a point cloud or mesh from the specified stream.
 
 ```csharp
-public Geometry Decode(string fileName, PlyLoadOptions opt = null)
+public Geometry Decode(string fileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | The input stream |
+
+### Return Value
+
+A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
+
+### See Also
+
+* class [Geometry](../../../aspose.threed.entities/geometry)
+* class [PlyFormat](../../plyformat)
+* namespace [Aspose.ThreeD.Formats](../../plyformat)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## PlyFormat.Decode method (2 of 4)
+
+Decode a point cloud or mesh from the specified stream.
+
+```csharp
+public Geometry Decode(string fileName, PlyLoadOptions opt)
 ```
 
 | Parameter | Type | Description |
@@ -33,12 +58,37 @@ A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspo
 
 ---
 
-## PlyFormat.Decode method (2 of 2)
+## PlyFormat.Decode method (3 of 4)
 
 Decode a point cloud or mesh from the specified stream.
 
 ```csharp
-public Geometry Decode(Stream stream, PlyLoadOptions opt = null)
+public Geometry Decode(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The input stream |
+
+### Return Value
+
+A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
+
+### See Also
+
+* class [Geometry](../../../aspose.threed.entities/geometry)
+* class [PlyFormat](../../plyformat)
+* namespace [Aspose.ThreeD.Formats](../../plyformat)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## PlyFormat.Decode method (4 of 4)
+
+Decode a point cloud or mesh from the specified stream.
+
+```csharp
+public Geometry Decode(Stream stream, PlyLoadOptions opt)
 ```
 
 | Parameter | Type | Description |

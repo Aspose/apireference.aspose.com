@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed/globaltransform/euler_angles/
+url: /aspose.threed/globaltransform/euler_angles/
 is_root: false
 ---
 
@@ -32,6 +32,6 @@ def euler_angles(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed`](../../)
+* class [`GlobalTransform`](/3d/python-net/aspose.threed/globaltransform)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

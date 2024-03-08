@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.animation/animationchannel/default_value/
+url: /aspose.threed.animation/animationchannel/default_value/
 is_root: false
 ---
 
@@ -26,5 +26,5 @@ def default_value(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationChannel](/3d/python-net/aspose.threed.animation/animationchannel)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationChannel`](/3d/python-net/aspose.threed.animation/animationchannel)

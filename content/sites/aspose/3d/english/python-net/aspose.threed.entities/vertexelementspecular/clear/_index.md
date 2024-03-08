@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.entities/vertexelementspecular/clear/
+url: /aspose.threed.entities/vertexelementspecular/clear/
 is_root: false
 ---
 
-## clear() {#}
+## clear {#}
 
 Removes all elements from the direct and the index arrays.
 
@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular)

@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.render/renderparameters/__init__/
+url: /aspose.threed.render/renderparameters/__init__/
 is_root: false
 ---
 
-## RenderParameters(double_buffering, color_bits, depth_bits, stencil_bits) {#bool-int-int-int}
+## __init__ {#bool-int-int-int}
 
-Initialize an instance of [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)
+Initialize an instance of [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat)
 
 
 
@@ -30,6 +30,6 @@ def __init__(self, double_buffering, color_bits, depth_bits, stencil_bits):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)
-* class [RenderParameters](/3d/python-net/aspose.threed.render/renderparameters)
+* module [`aspose.threed.render`](../../)
+* class [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat)
+* class [`RenderParameters`](/3d/python-net/aspose.threed.render/renderparameters)

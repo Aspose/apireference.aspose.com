@@ -3,7 +3,7 @@ title: Matrix4
 second_title: Aspose.3D for Java API Reference
 description: 4x4 matrix implementation.
 type: docs
-weight: 91
+weight: 94
 url: /java/com.aspose.threed/matrix4/
 ---
 
@@ -16,7 +16,15 @@ com.aspose.csporter.helpers.Struct, java.io.Serializable
 public final class Matrix4 implements Struct<Matrix4>, Serializable
 ```
 
-4x4 matrix implementation.
+4x4 matrix implementation. **Example:**
+
+```
+Matrix4 mat = Matrix4.rotateFromEuler(90, 0, 0);
+      Matrix4 mat2 = Matrix4.translate(0, 10, -50);
+      Matrix4 transform = Matrix4.mul(mat2, mat);
+      Vector4 pos = new Vector4(10, 9, 0, 1);
+      Vector4 transformed = Matrix4.mul(transform, pos);
+```
 ## Constructors
 
 | Constructor | Description |
@@ -125,7 +133,17 @@ Initializes a new instance of the [Matrix4](../../com.aspose.threed/matrix4) str
 | m30 | double | M30. |
 | m31 | double | M31. |
 | m32 | double | M32. |
-| m33 | double | M33. |
+| m33 | double | M33. **Example:**
+
+```
+var mat = new Matrix4(
+         1, 0, 0, 0,
+         0, 1, 0, 0,
+         0, 0, 1, 0,
+         10, 20, 0, 1);
+     var pos = new Vector3(10, 0, -1);
+     var transformed = Matrix4.mul(mat, pos);
+``` |
 
 ### Matrix4(FMatrix4 m) {#Matrix4-com.aspose.threed.FMatrix4-}
 ```
@@ -311,7 +329,15 @@ Concatenates the two matrices
 | m2 | [Matrix4](../../com.aspose.threed/matrix4) | M2. |
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4) - New matrix4
+[Matrix4](../../com.aspose.threed/matrix4) - New matrix4 **Example:**
+
+```
+Matrix4 t = Matrix4.translate(0, 10, 9);
+     Matrix4 s = Matrix4.scale(10, 10, 10);
+     Matrix4 transform = t.concatenate(s);
+     Vector3 pos = new Vector3(10, 0, -1);
+     Vector3 transformed = Matrix4.mul(transform, pos);
+```
 ### copyFrom(Matrix4 src) {#copyFrom-com.aspose.threed.Matrix4-}
 ```
 public void copyFrom(Matrix4 src)
@@ -406,7 +432,13 @@ public Matrix4 inverse()
 Inverses this instance.
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4) - Inverse matrix4
+[Matrix4](../../com.aspose.threed/matrix4) - Inverse matrix4 **Example:** The following code shows how to inverse a matrix
+
+```
+Matrix4 t = Matrix4.translate(0, 10, 9);
+     Matrix4 mat = t.inverse();
+     System.out.printf("Inversed Matrix: %s", mat);
+```
 ### mul(Matrix4 lhs, Matrix4 rhs) {#mul-com.aspose.threed.Matrix4-com.aspose.threed.Matrix4-}
 ```
 public static Matrix4 mul(Matrix4 lhs, Matrix4 rhs)
@@ -508,7 +540,13 @@ Create a rotation matrix from a quaternion
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| q | [Quaternion](../../com.aspose.threed/quaternion) | Rotation quaternion |
+| q | [Quaternion](../../com.aspose.threed/quaternion) | Rotation quaternion **Example:** The following code shows how to create a matrix for rotate operation.
+
+```
+var t = Matrix4.rotate(Quaternion.fromAngleAxis(Math.PI, Vector3.getUnitY()));
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -524,7 +562,13 @@ Create a rotation matrix by rotation angle and axis
 | Parameter | Type | Description |
 | --- | --- | --- |
 | angle | double | Rotate angle in radian |
-| axis | [Vector3](../../com.aspose.threed/vector3) | Rotation axis |
+| axis | [Vector3](../../com.aspose.threed/vector3) | Rotation axis **Example:** The following code shows how to create a matrix for rotate operation.
+
+```
+var t = Matrix4.rotate(Math.PI, new Vector3(0, 1, 0));
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -539,7 +583,13 @@ Create a rotation matrix from Euler angle
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| eul | [Vector3](../../com.aspose.threed/vector3) | Rotation in radian |
+| eul | [Vector3](../../com.aspose.threed/vector3) | Rotation in radian **Example:** The following code shows how to create a matrix for rotate operation.
+
+```
+var t = Matrix4.rotateFromEuler(new Vector3(0, Math.PI, 0));
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -556,7 +606,13 @@ Create a rotation matrix from Euler angle
 | --- | --- | --- |
 | rx | double | Rotation in x axis in radian |
 | ry | double | Rotation in y axis in radian |
-| rz | double | Rotation in z axis in radian |
+| rz | double | Rotation in z axis in radian **Example:** The following code shows how to create a matrix for rotate operation.
+
+```
+var t = Matrix4.rotateFromEuler(0, Math.PI, 0);
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -571,7 +627,13 @@ Creates a matrix that scales along the x-axis, the y-axis and the z-axis.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| s | [Vector3](../../com.aspose.threed/vector3) | Scaling factories applies to the x-axis, the y-axis and the z-axis |
+| s | [Vector3](../../com.aspose.threed/vector3) | Scaling factories applies to the x-axis, the y-axis and the z-axis **Example:** The following code shows how to create a matrix for scale operation.
+
+```
+var t = Matrix4.scale(new Vector3(10, 10, 10));
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -586,7 +648,13 @@ Creates a matrix that scales along the x-axis, the y-axis and the z-axis.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| s | double | Scaling factories applies to all axex |
+| s | double | Scaling factories applies to all axex **Example:** The following code shows how to create a matrix for scale operation.
+
+```
+var t = Matrix4.scale(10);
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -603,7 +671,13 @@ Creates a matrix that scales along the x-axis, the y-axis and the z-axis.
 | --- | --- | --- |
 | sx | double | Scaling factories applies to the x-axis |
 | sy | double | Scaling factories applies to the y-axis |
-| sz | double | Scaling factories applies to the z-axis |
+| sz | double | Scaling factories applies to the z-axis **Example:** The following code shows how to create a matrix for scale operation.
+
+```
+var t = Matrix4.scale(10, 20, 10);
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -653,7 +727,13 @@ Creates a matrix that translates along the x-axis, the y-axis and the z-axis
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| t | [Vector3](../../com.aspose.threed/vector3) | Translate offset |
+| t | [Vector3](../../com.aspose.threed/vector3) | Translate offset **Example:** The following code shows how to create a matrix for translate operation.
+
+```
+Matrix4 t = Matrix4.translate(new Vector3(10, 0, 0));
+     Vector3 pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -670,7 +750,13 @@ Creates a matrix that translates along the x-axis, the y-axis and the z-axis
 | --- | --- | --- |
 | tx | double | X-coordinate offset |
 | ty | double | Y-coordinate offset |
-| tz | double | Z-coordinate offset |
+| tz | double | Z-coordinate offset **Example:** The following code shows how to create a matrix for translate operation.
+
+```
+var t = Matrix4.translate(10, 0, 0);
+     var pos = new Vector3(1, 1, 10);
+     System.out.printf("Transformed: %s", Matrix4.mul(t, pos));
+``` |
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -683,7 +769,13 @@ public Matrix4 transpose()
 Transposes this instance.
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4) - The transposed matrix.
+[Matrix4](../../com.aspose.threed/matrix4) - The transposed matrix. **Example:** The following code shows how to transpose a matrix
+
+```
+Matrix4 t = Matrix4.translate(0, 10, 9);
+     Matrix4 mat = t.transpose();
+     System.out.printf("Transposed Matrix: %s", mat);
+```
 ### wait() {#wait--}
 ```
 public final void wait()
@@ -694,7 +786,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.entities/vertexelementpolygongroup/set_data/
+url: /aspose.threed.entities/vertexelementpolygongroup/set_data/
 is_root: false
 ---
 
-## set_data(data) {#list}
+## set_data {#list}
 
 Load data
 
@@ -27,5 +27,5 @@ def set_data(self, data):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementPolygonGroup](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementPolygonGroup`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)

@@ -3,7 +3,7 @@ title: FbxLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for Fbx format.
 type: docs
-weight: 59
+weight: 60
 url: /java/com.aspose.threed/fbxloadoptions/
 ---
 
@@ -286,7 +286,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

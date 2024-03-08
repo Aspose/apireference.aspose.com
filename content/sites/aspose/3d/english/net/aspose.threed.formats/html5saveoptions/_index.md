@@ -3,7 +3,7 @@ title: Html5SaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1170
+weight: 1200
 url: /net/aspose.threed.formats/html5saveoptions/
 ---
 ## Html5SaveOptions class
@@ -26,6 +26,7 @@ public class Html5SaveOptions : SaveOptions
 | --- | --- |
 | [CameraPosition](../../aspose.threed.formats/html5saveoptions/cameraposition) { get; set; } | Gets or sets the initial position of the camera, default value is (10, 10, 10) |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [FarPlane](../../aspose.threed.formats/html5saveoptions/farplane) { get; set; } | Gets or sets the far plane of the camera, default value is 1000. |
 | [FieldOfView](../../aspose.threed.formats/html5saveoptions/fieldofview) { get; set; } | Gets or sets the field of the view, default value is 45, measured in degree. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |

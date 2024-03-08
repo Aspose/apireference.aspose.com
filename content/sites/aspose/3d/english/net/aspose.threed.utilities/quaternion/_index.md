@@ -3,7 +3,7 @@ title: Quaternion
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2590
+weight: 2700
 url: /net/aspose.threed.utilities/quaternion/
 ---
 ## Quaternion structure
@@ -35,6 +35,7 @@ public struct Quaternion
 | static [FromEulerAngle](../../aspose.threed.utilities/quaternion/fromeulerangle)(double, double, double) | Creates quaternion from given Euler angle |
 | static [FromRotation](../../aspose.threed.utilities/quaternion/fromrotation)(Vector3, Vector3) | Creates a quaternion that rotate from original to destination direction |
 | static [Interpolate](../../aspose.threed.utilities/quaternion/interpolate)(float, Quaternion, Quaternion) | Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to. |
+| static [Slerp](../../aspose.threed.utilities/quaternion/slerp)(double, Quaternion, Quaternion) | Perform spherical linear interpolation between two values |
 | [Concat](../../aspose.threed.utilities/quaternion/concat)(Quaternion) | Concatenate two quaternions |
 | [Conjugate](../../aspose.threed.utilities/quaternion/conjugate)() | Returns a conjugate quaternion of current quaternion |
 | [Dot](../../aspose.threed.utilities/quaternion/dot)(Quaternion) | Dots product |
@@ -57,10 +58,10 @@ public struct Quaternion
 | Name | Description |
 | --- | --- |
 | static readonly [Identity](../../aspose.threed.utilities/quaternion/identity) | The Identity quaternion. |
-| [w](../../aspose.threed.utilities/quaternion/w) | The w component. |
-| [x](../../aspose.threed.utilities/quaternion/x) | The x component. |
-| [y](../../aspose.threed.utilities/quaternion/y) | The y component. |
-| [z](../../aspose.threed.utilities/quaternion/z) | The z component. |
+| [W](../../aspose.threed.utilities/quaternion/w) | The w component. |
+| [X](../../aspose.threed.utilities/quaternion/x) | The x component. |
+| [Y](../../aspose.threed.utilities/quaternion/y) | The y component. |
+| [Z](../../aspose.threed.utilities/quaternion/z) | The z component. |
 
 ### See Also
 

@@ -54,4 +54,20 @@ Aspose.3D for Python via .NET API is user-friendly and can be deployed with any 
 These are links to some useful resources:
 - [Aspose.3D for Python via .NET API Reference](/3d/python-net/)
 
+## Aspose.3D for Node.js via Java
+
+{{% alert color="primary" %}} 
+
+![Aspose.3D for Node.js via Java Product Logo](home_4.png)
+
+Aspose.3D for Node.js via Java is a class library project that enables your applications to connect with 3D formats automatically without 3D modeling and rendering software being installed. The Aspose.3D API lets engineers read, convert, build, alter and control the substance of the 3D document formats.
+
+The API is user friendly and saves time and money than creating a similar solution from scratch.
+
+{{% /alert %}} 
+
+
+These are links to some useful resources:
+- [Aspose.3D for Node.js via Java API Reference](/3d/nodejs-java/)
+
 

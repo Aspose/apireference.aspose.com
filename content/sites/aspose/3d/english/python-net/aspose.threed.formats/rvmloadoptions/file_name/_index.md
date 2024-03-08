@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.formats/rvmloadoptions/file_name/
+url: /aspose.threed.formats/rvmloadoptions/file_name/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions)

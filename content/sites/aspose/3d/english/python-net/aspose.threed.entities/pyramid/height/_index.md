@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /python-net/aspose.threed.entities/pyramid/height/
+url: /aspose.threed.entities/pyramid/height/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def height(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Pyramid](/3d/python-net/aspose.threed.entities/pyramid)
+* module [`aspose.threed.entities`](../../)
+* class [`Pyramid`](/3d/python-net/aspose.threed.entities/pyramid)

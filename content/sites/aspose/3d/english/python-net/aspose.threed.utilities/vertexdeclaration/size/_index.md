@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /python-net/aspose.threed.utilities/vertexdeclaration/size/
+url: /aspose.threed.utilities/vertexdeclaration/size/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def size(self):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
+* module [`aspose.threed.utilities`](../../)
+* class [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

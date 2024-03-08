@@ -3,7 +3,7 @@ title: FVector2
 second_title: Aspose.3D for Java API Reference
 description: A float vector with two components.
 type: docs
-weight: 56
+weight: 57
 url: /java/com.aspose.threed/fvector2/
 ---
 
@@ -34,6 +34,7 @@ A float vector with two components.
 
 | Method | Description |
 | --- | --- |
+| [add(FVector2 a, FVector2 b)](#add-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | \+ Operator overloading |
 | [clone()](#clone--) |  |
 | [copyFrom(FVector2 src)](#copyFrom-com.aspose.threed.FVector2-) |  |
 | [create(FVector2 v)](#create-com.aspose.threed.FVector2-) | Explicit conversion operator to cast FVector2 to Vector2 |
@@ -41,6 +42,7 @@ A float vector with two components.
 | [equals(Object obj)](#equals-java.lang.Object-) | Check if two vectors are equal |
 | [getClass()](#getClass--) |  |
 | [hashCode()](#hashCode--) | Gets the hash code of this instance |
+| [mul(FVector2 a, float b)](#mul-com.aspose.threed.FVector2-float-) | \* operator overloading |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [op_eq(FVector2 a, FVector2 b)](#op-eq-com.aspose.threed.FVector2-com.aspose.threed.FVector2-) | == Operator overloading |
@@ -99,6 +101,22 @@ public float y
 
 The y component.
 
+### add(FVector2 a, FVector2 b) {#add-com.aspose.threed.FVector2-com.aspose.threed.FVector2-}
+```
+public static FVector2 add(FVector2 a, FVector2 b)
+```
+
+
+\+ Operator overloading
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [FVector2](../../com.aspose.threed/fvector2) |  |
+| b | [FVector2](../../com.aspose.threed/fvector2) |  |
+
+**Returns:**
+[FVector2](../../com.aspose.threed/fvector2)
 ### clone() {#clone--}
 ```
 public FVector2 clone()
@@ -187,6 +205,22 @@ Gets the hash code of this instance
 
 **Returns:**
 int
+### mul(FVector2 a, float b) {#mul-com.aspose.threed.FVector2-float-}
+```
+public static FVector2 mul(FVector2 a, float b)
+```
+
+
+\* operator overloading
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [FVector2](../../com.aspose.threed/fvector2) |  |
+| b | float |  |
+
+**Returns:**
+[FVector2](../../com.aspose.threed/fvector2)
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -271,7 +305,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

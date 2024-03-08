@@ -3,7 +3,7 @@ title: SkeletonType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 660
+weight: 690
 url: /net/aspose.threed.entities/skeletontype/
 ---
 ## SkeletonType enumeration

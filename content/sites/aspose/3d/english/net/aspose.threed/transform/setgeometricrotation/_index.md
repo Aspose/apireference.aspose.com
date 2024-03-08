@@ -3,7 +3,7 @@ title: SetGeometricRotation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 160
 url: /net/aspose.threed/transform/setgeometricrotation/
 ---
 ## Transform.SetGeometricRotation method
@@ -12,6 +12,13 @@ Sets the geometric Euler rotation(measured in degree). Geometric transformation 
 
 ```csharp
 public Transform SetGeometricRotation(double rx, double ry, double rz)
+```
+
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetGeometricRotation(90, 0, 0);
 ```
 
 ### See Also

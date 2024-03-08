@@ -3,7 +3,7 @@ title: ImportException
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1440
+weight: 1470
 url: /net/aspose.threed/importexception/
 ---
 ## ImportException class

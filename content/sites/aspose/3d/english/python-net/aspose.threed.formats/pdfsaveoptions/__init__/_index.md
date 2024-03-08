@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.formats/pdfsaveoptions/__init__/
+url: /aspose.threed.formats/pdfsaveoptions/__init__/
 is_root: false
 ---
 
-## PdfSaveOptions() {#}
+## __init__ {#}
 
-Constructor of [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+Constructor of [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)

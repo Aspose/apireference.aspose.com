@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/discreet3dsloadoptions/
+url: /aspose.threed.formats/discreet3dsloadoptions/
 is_root: false
 ---
 
@@ -14,9 +14,9 @@ Load options for 3DS file.
 
 
 
-**Inheritance:** [Discreet3dsLoadOptions](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The Discreet3dsLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Discreet3dsLoadOptions()](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions/__init__/#) | Constructor of [Discreet3dsLoadOptions](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions/__init__/#) | Constructor of [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) |
 
 
 ### Properties
@@ -43,7 +43,7 @@ The Discreet3dsLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [Discreet3dsLoadOptions](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)

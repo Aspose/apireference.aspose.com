@@ -6,27 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.threed.utilities/vector4/vector4/
 ---
-## Vector4 constructor (1 of 6)
-
-Initializes a new instance of the [`Vector4`](../../vector4) struct.
-
-```csharp
-public Vector4(Color color)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | Color | Color. |
-
-### See Also
-
-* struct [Vector4](../../vector4)
-* namespace [Aspose.ThreeD.Utilities](../../vector4)
-* assembly [Aspose.3D](../../../)
-
----
-
-## Vector4 constructor (2 of 6)
+## Vector4 constructor (1 of 5)
 
 Initializes a new instance of the [`Vector4`](../../vector4) struct.
 
@@ -48,7 +28,7 @@ public Vector4(Vector3 vec, double w)
 
 ---
 
-## Vector4 constructor (3 of 6)
+## Vector4 constructor (2 of 5)
 
 Initializes a new instance of the [`Vector4`](../../vector4) struct.
 
@@ -69,7 +49,7 @@ public Vector4(Vector3 vec)
 
 ---
 
-## Vector4 constructor (4 of 6)
+## Vector4 constructor (3 of 5)
 
 Initializes a new instance of the [`Vector4`](../../vector4) struct.
 
@@ -90,7 +70,7 @@ public Vector4(FVector4 vec)
 
 ---
 
-## Vector4 constructor (5 of 6)
+## Vector4 constructor (4 of 5)
 
 Initializes a new instance of the [`Vector4`](../../vector4) struct.
 
@@ -112,7 +92,7 @@ public Vector4(double x, double y, double z)
 
 ---
 
-## Vector4 constructor (6 of 6)
+## Vector4 constructor (5 of 5)
 
 Initializes a new instance of the [`Vector4`](../../vector4) struct.
 

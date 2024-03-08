@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /python-net/aspose.threed.shading/pbrmaterial/metallic_factor/
+url: /aspose.threed.shading/pbrmaterial/metallic_factor/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def metallic_factor(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial)

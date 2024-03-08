@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 310
-url: /python-net/aspose.threed.entities/revolvedareasolid/
+url: /aspose.threed.entities/revolvedareasolid/
 is_root: false
 ---
 
@@ -14,10 +14,10 @@ This class represents a solid model by revolving a cross section provided by a p
 
 
 
-**Inheritance:** [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -26,7 +26,7 @@ The RevolvedAreaSolid type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RevolvedAreaSolid()](/3d/python-net/aspose.threed.entities/revolvedareasolid/__init__/#) | Initialize an SceneObject. |
+| [__init__](/3d/python-net/aspose.threed.entities/revolvedareasolid/__init__/#) | Initialize an SceneObject. |
 
 
 ### Properties
@@ -48,20 +48,20 @@ The RevolvedAreaSolid type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/revolvedareasolid/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/revolvedareasolid/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.entities/revolvedareasolid/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/revolvedareasolid/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh()](/3d/python-net/aspose.threed.entities/revolvedareasolid/to_mesh/#) | Convert the [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh. |
+| [remove_property](/3d/python-net/aspose.threed.entities/revolvedareasolid/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.entities/revolvedareasolid/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.entities/revolvedareasolid/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.entities/revolvedareasolid/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [to_mesh](/3d/python-net/aspose.threed.entities/revolvedareasolid/to_mesh/#) | Convert the [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

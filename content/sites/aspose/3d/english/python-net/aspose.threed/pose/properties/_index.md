@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /python-net/aspose.threed/pose/properties/
+url: /aspose.threed/pose/properties/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Pose](/3d/python-net/aspose.threed/pose)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed`](../../)
+* class [`Pose`](/3d/python-net/aspose.threed/pose)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

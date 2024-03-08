@@ -6,12 +6,34 @@ type: docs
 weight: 20
 url: /net/aspose.threed.formats/plyformat/encode/
 ---
-## PlyFormat.Encode method (1 of 2)
+## PlyFormat.Encode method (1 of 4)
 
 Encode the entity and save the result into the stream.
 
 ```csharp
-public void Encode(Entity entity, Stream stream, PlySaveOptions opt = null)
+public void Encode(Entity entity, Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| entity | Entity | The entity to encode |
+| stream | Stream | The stream to write to, this method will not close this stream |
+
+### See Also
+
+* class [Entity](../../../aspose.threed/entity)
+* class [PlyFormat](../../plyformat)
+* namespace [Aspose.ThreeD.Formats](../../plyformat)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## PlyFormat.Encode method (2 of 4)
+
+Encode the entity and save the result into the stream.
+
+```csharp
+public void Encode(Entity entity, Stream stream, PlySaveOptions opt)
 ```
 
 | Parameter | Type | Description |
@@ -30,12 +52,34 @@ public void Encode(Entity entity, Stream stream, PlySaveOptions opt = null)
 
 ---
 
-## PlyFormat.Encode method (2 of 2)
+## PlyFormat.Encode method (3 of 4)
 
 Encode the entity and save the result into an external file.
 
 ```csharp
-public void Encode(Entity entity, string fileName, PlySaveOptions opt = null)
+public void Encode(Entity entity, string fileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| entity | Entity | The entity to encode |
+| fileName | String | The file to write to |
+
+### See Also
+
+* class [Entity](../../../aspose.threed/entity)
+* class [PlyFormat](../../plyformat)
+* namespace [Aspose.ThreeD.Formats](../../plyformat)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## PlyFormat.Encode method (4 of 4)
+
+Encode the entity and save the result into an external file.
+
+```csharp
+public void Encode(Entity entity, string fileName, PlySaveOptions opt)
 ```
 
 | Parameter | Type | Description |

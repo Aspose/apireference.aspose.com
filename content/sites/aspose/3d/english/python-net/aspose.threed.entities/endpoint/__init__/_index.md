@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/endpoint/__init__/
+url: /aspose.threed.entities/endpoint/__init__/
 is_root: false
 ---
 
-## EndPoint() {#}
+## __init__ {#}
 
 Constructs a new instance of EndPoint
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## EndPoint(point) {#aspose.threed.utilities.Vector3}
+## __init__ {#aspose.threed.utilities.Vector3}
 
-Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point.
+Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point.
 
 
 
@@ -39,9 +39,9 @@ def __init__(self, point):
 | point | aspose.threed.utilities.Vector3 |  |
 
 
-## EndPoint(v) {#float}
+## __init__ {#float}
 
-Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter.
+Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter.
 
 
 
@@ -58,5 +58,5 @@ def __init__(self, v):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
+* module [`aspose.threed.entities`](../../)
+* class [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint)

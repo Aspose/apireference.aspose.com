@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed.entities/linearextrusion/to_mesh/
+url: /aspose.threed.entities/linearextrusion/to_mesh/
 is_root: false
 ---
 
-## to_mesh() {#}
+## to_mesh {#}
 
 Convert the extrusion to mesh.
 
@@ -29,5 +29,5 @@ def to_mesh(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+* module [`aspose.threed.entities`](../../)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)

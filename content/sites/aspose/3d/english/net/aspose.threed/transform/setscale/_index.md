@@ -3,7 +3,7 @@ title: SetScale
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 220
 url: /net/aspose.threed/transform/setscale/
 ---
 ## Transform.SetScale method
@@ -19,6 +19,13 @@ public Transform SetScale(double sx, double sy, double sz)
 | sx | Double |  |
 | sy | Double |  |
 | sz | Double |  |
+
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetScale(2, 2, 2);
+```
 
 ### See Also
 

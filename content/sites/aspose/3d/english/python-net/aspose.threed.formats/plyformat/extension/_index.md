@@ -3,8 +3,8 @@ title: extension property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 600
-url: /python-net/aspose.threed.formats/plyformat/extension/
+weight: 620
+url: /aspose.threed.formats/plyformat/extension/
 is_root: false
 ---
 
@@ -31,5 +31,5 @@ def extension(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

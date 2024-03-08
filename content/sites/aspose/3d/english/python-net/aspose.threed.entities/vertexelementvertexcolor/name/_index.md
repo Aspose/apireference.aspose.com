@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.entities/vertexelementvertexcolor/name/
+url: /aspose.threed.entities/vertexelementvertexcolor/name/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)

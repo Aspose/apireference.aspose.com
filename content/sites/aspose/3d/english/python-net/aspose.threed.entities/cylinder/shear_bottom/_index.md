@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /python-net/aspose.threed.entities/cylinder/shear_bottom/
+url: /aspose.threed.entities/cylinder/shear_bottom/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def shear_bottom(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

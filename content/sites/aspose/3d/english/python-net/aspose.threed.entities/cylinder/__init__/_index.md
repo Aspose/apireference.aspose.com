@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/cylinder/__init__/
+url: /aspose.threed.entities/cylinder/__init__/
 is_root: false
 ---
 
-## Cylinder() {#}
+## __init__ {#}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Cylinder(radius, height) {#float-float}
+## __init__ {#float-float}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -40,9 +40,9 @@ def __init__(self, radius, height):
 | height | float | Height. |
 
 
-## Cylinder(radius_top, radius_bottom, height) {#float-float-float}
+## __init__ {#float-float-float}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -59,9 +59,9 @@ def __init__(self, radius_top, radius_bottom, height):
 | height | float | Height. |
 
 
-## Cylinder(radius_top, radius_bottom, height, radial_segments, height_segments, open_ended) {#float-float-float-int-int-bool}
+## __init__ {#float-float-float-int-int-bool}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -81,9 +81,9 @@ def __init__(self, radius_top, radius_bottom, height, radial_segments, height_se
 | open_ended | bool | If set to `true` the cylinder would have no bottom/top caps.. |
 
 
-## Cylinder(name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length) {#str-float-float-float-int-int-bool-float-float}
+## __init__ {#str-float-float-float-int-int-bool-float-float}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -108,5 +108,5 @@ def __init__(self, name, radius_top, radius_bottom, height, radial_segments, hei
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)

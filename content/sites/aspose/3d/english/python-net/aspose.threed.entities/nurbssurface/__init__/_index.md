@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/nurbssurface/__init__/
+url: /aspose.threed.entities/nurbssurface/__init__/
 is_root: false
 ---
 
-## NurbsSurface() {#}
+## __init__ {#}
 
-Initializes a new instance of the [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) class.
+Initializes a new instance of the [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## NurbsSurface(name) {#str}
+## __init__ {#str}
 
-Initializes a new instance of the [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) class.
+Initializes a new instance of the [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface)

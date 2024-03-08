@@ -3,7 +3,7 @@ title: SetGeometricTranslation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 180
 url: /net/aspose.threed/transform/setgeometrictranslation/
 ---
 ## Transform.SetGeometricTranslation method
@@ -12,6 +12,13 @@ Sets the geometric translation. Geometric transformation only affects the entiti
 
 ```csharp
 public Transform SetGeometricTranslation(double x, double y, double z)
+```
+
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetGeometricTranslation(10, 0, 0);
 ```
 
 ### See Also

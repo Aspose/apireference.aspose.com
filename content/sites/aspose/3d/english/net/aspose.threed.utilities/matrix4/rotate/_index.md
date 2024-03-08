@@ -19,6 +19,16 @@ public static Matrix4 Rotate(double angle, Vector3 axis)
 | angle | Double | Rotate angle in radian |
 | axis | Vector3 | Rotation axis |
 
+### Examples
+
+The following code shows how to create a matrix for rotate operation.
+
+```csharp
+var t = Matrix4.Rotate(Math.PI, new Vector3(0, 1, 0));
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)
@@ -39,6 +49,16 @@ public static Matrix4 Rotate(Quaternion q)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | q | Quaternion | Rotation quaternion |
+
+### Examples
+
+The following code shows how to create a matrix for rotate operation.
+
+```csharp
+var t = Matrix4.Rotate(Quaternion.FromAngleAxis(Math.PI, Vector3.YAxis));
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
 
 ### See Also
 

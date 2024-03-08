@@ -11,11 +11,12 @@ url: /net/aspose.threed.render/irendertarget/size/
 Gets or sets the size of the render target.
 
 ```csharp
-public Size Size { get; set; }
+public Vector2 Size { get; set; }
 ```
 
 ### See Also
 
+* struct [Vector2](../../../aspose.threed.utilities/vector2)
 * interface [IRenderTarget](../../irendertarget)
 * namespace [Aspose.ThreeD.Render](../../irendertarget)
 * assembly [Aspose.3D](../../../)

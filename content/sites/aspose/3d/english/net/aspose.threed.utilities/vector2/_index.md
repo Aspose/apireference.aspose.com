@@ -3,7 +3,7 @@ title: Vector2
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2640
+weight: 2760
 url: /net/aspose.threed.utilities/vector2/
 ---
 ## Vector2 structure
@@ -20,6 +20,7 @@ public struct Vector2 : IComparable<Vector2>
 | --- | --- |
 | [Vector2](vector2)(double) | Initializes a new instance of the [`Vector2`](../vector2) struct. |
 | [Vector2](vector2)(FVector2) | Initializes a new instance of the [`Vector2`](../vector2) struct. |
+| [Vector2](vector2)(Vector3) | Initializes a new instance of the [`Vector2`](../vector2) struct. |
 | [Vector2](vector2)(double, double) | Initializes a new instance of the [`Vector2`](../vector2) struct. |
 
 ## Properties
@@ -54,8 +55,8 @@ public struct Vector2 : IComparable<Vector2>
 
 | Name | Description |
 | --- | --- |
-| [x](../../aspose.threed.utilities/vector2/x) | The x component. |
-| [y](../../aspose.threed.utilities/vector2/y) | The y component. |
+| [X](../../aspose.threed.utilities/vector2/x) | The x component. |
+| [Y](../../aspose.threed.utilities/vector2/y) | The y component. |
 
 ### See Also
 

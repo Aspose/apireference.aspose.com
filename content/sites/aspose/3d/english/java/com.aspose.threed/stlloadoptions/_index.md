@@ -3,7 +3,7 @@ title: StlLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for STL
 type: docs
-weight: 161
+weight: 166
 url: /java/com.aspose.threed/stlloadoptions/
 ---
 
@@ -311,7 +311,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

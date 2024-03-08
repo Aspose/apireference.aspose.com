@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.3D for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 94
+weight: 97
 url: /java/com.aspose.threed/metered/
 ---
 
@@ -148,7 +148,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

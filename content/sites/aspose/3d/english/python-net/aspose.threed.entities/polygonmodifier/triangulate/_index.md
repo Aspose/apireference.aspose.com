@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed.entities/polygonmodifier/triangulate/
+url: /aspose.threed.entities/polygonmodifier/triangulate/
 is_root: false
 ---
 
-## triangulate(scene) {#Scene}
+## triangulate {#aspose.threed.Scene}
 
 Convert all polygon-based meshes into full triangle mesh
 
@@ -22,10 +22,10 @@ def triangulate(self, scene):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene to process |
+| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to process |
 
 
-## triangulate(mesh) {#Mesh}
+## triangulate {#aspose.threed.entities.Mesh}
 
 Convert a polygon-based mesh into full triangle mesh
 
@@ -44,10 +44,10 @@ def triangulate(self, mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [Mesh](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
+| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
 
 
-## triangulate(control_points) {#list}
+## triangulate {#list}
 
 
 
@@ -64,7 +64,7 @@ def triangulate(self, control_points):
 | control_points | list |  |
 
 
-## triangulate(control_points, polygons) {#list-list}
+## triangulate {#list-list}
 
 
 
@@ -82,7 +82,7 @@ def triangulate(self, control_points, polygons):
 | polygons | list |  |
 
 
-## triangulate(control_points, polygon) {#list-list}
+## triangulate {#list-list}
 
 
 
@@ -100,7 +100,7 @@ def triangulate(self, control_points, polygon):
 | polygon | list |  |
 
 
-## triangulate(control_points, polygons, generate_normals, nor_out) {#list-list-bool-any}
+## triangulate {#list-list-bool-any}
 
 
 
@@ -122,5 +122,5 @@ def triangulate(self, control_points, polygons, generate_normals, nor_out):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PolygonModifier](/3d/python-net/aspose.threed.entities/polygonmodifier)
+* module [`aspose.threed.entities`](../../)
+* class [`PolygonModifier`](/3d/python-net/aspose.threed.entities/polygonmodifier)

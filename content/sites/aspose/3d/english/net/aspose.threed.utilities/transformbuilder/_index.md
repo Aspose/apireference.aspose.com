@@ -3,7 +3,7 @@ title: TransformBuilder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2630
+weight: 2750
 url: /net/aspose.threed.utilities/transformbuilder/
 ---
 ## TransformBuilder class
@@ -50,6 +50,18 @@ public class TransformBuilder
 | [Scale](../../aspose.threed.utilities/transformbuilder/scale)(double, double, double) | Chain a scaling transform matrix |
 | [Translate](../../aspose.threed.utilities/transformbuilder/translate)(Vector3) | Chain a translation transform |
 | [Translate](../../aspose.threed.utilities/transformbuilder/translate)(double, double, double) | Chain a translation transform |
+
+### Examples
+
+The following code shows how to create a matrix by a set of operation
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Translate(10, 20, 0);
+tb.Scale(10, 10, 10);
+tb.RotateEulerDegree(90, 0, 0);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
 
 ### See Also
 

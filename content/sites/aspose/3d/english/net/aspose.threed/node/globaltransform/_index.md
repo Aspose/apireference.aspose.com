@@ -18,6 +18,19 @@ public GlobalTransform GlobalTransform { get; }
 
 The global transform.
 
+### Examples
+
+The following code shows how to read node's global transform
+
+```csharp
+Scene scene = new Scene();
+var boxNode = scene.RootNode.CreateChildNode(new Box());
+//place the box at (10, 0, 0)
+boxNode.Transform.Translation = new Vector3(10, 0, 0);
+var global = boxNode.GlobalTransform;
+Console.WriteLine($"The box's position in world coordinate is {global.Translation}");
+```
+
 ### See Also
 
 * class [GlobalTransform](../../globaltransform)

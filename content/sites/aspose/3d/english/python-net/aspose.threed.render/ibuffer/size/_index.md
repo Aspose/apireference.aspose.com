@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.render/ibuffer/size/
+url: /aspose.threed.render/ibuffer/size/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def size(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IBuffer](/3d/python-net/aspose.threed.render/ibuffer)
+* module [`aspose.threed.render`](../../)
+* class [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer)

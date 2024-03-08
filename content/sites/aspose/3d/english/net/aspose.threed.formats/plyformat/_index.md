@@ -3,7 +3,7 @@ title: PlyFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1280
+weight: 1310
 url: /net/aspose.threed.formats/plyformat/
 ---
 ## PlyFormat class
@@ -32,8 +32,12 @@ public class PlyFormat : FileFormat
 | --- | --- |
 | [CreateLoadOptions](../../aspose.threed/fileformat/createloadoptions)() | Create a default load options for this file format |
 | [CreateSaveOptions](../../aspose.threed/fileformat/createsaveoptions)() | Create a default save options for this file format |
+| [Decode](../../aspose.threed.formats/plyformat/decode)(Stream) | Decode a point cloud or mesh from the specified stream. |
+| [Decode](../../aspose.threed.formats/plyformat/decode)(string) | Decode a point cloud or mesh from the specified stream. |
 | [Decode](../../aspose.threed.formats/plyformat/decode)(Stream, PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
 | [Decode](../../aspose.threed.formats/plyformat/decode)(string, PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
+| [Encode](../../aspose.threed.formats/plyformat/encode)(Entity, Stream) | Encode the entity and save the result into the stream. |
+| [Encode](../../aspose.threed.formats/plyformat/encode)(Entity, string) | Encode the entity and save the result into an external file. |
 | [Encode](../../aspose.threed.formats/plyformat/encode)(Entity, Stream, PlySaveOptions) | Encode the entity and save the result into the stream. |
 | [Encode](../../aspose.threed.formats/plyformat/encode)(Entity, string, PlySaveOptions) | Encode the entity and save the result into an external file. |
 | override [ToString](../../aspose.threed/fileformat/tostring)() | Formats to string |

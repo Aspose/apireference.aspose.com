@@ -18,6 +18,18 @@ public IList<Node> ChildNodes { get; }
 
 The nodes.
 
+### Examples
+
+The following code shows how to enumerate child node of root node
+
+```csharp
+Scene scene = Scene.FromFile("test.fbx");
+foreach(var child in scene.RootNode.ChildNodes)
+{
+    //do your business
+}
+```
+
 ### See Also
 
 * class [Node](../../node)

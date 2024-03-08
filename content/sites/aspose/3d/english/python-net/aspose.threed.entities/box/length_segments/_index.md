@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.entities/box/length_segments/
+url: /aspose.threed.entities/box/length_segments/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def length_segments(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Box](/3d/python-net/aspose.threed.entities/box)
+* module [`aspose.threed.entities`](../../)
+* class [`Box`](/3d/python-net/aspose.threed.entities/box)

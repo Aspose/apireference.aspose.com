@@ -3,7 +3,7 @@ title: Normalize
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.threed.utilities/vector3/normalize/
 ---
 ## Vector3.Normalize method

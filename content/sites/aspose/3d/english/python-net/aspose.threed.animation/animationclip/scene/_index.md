@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.animation/animationclip/scene/
+url: /aspose.threed.animation/animationclip/scene/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def scene(self):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

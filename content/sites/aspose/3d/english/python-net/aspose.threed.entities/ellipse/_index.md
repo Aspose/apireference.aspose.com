@@ -4,21 +4,21 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed.entities/ellipse/
+url: /aspose.threed.entities/ellipse/
 is_root: false
 ---
 
 ## Ellipse class
 
-An [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) defines a set of points that form the shape of ellipse.
+An [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) defines a set of points that form the shape of ellipse.
 
 
 
-**Inheritance:** [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,8 +27,8 @@ The Ellipse type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Ellipse()](/3d/python-net/aspose.threed.entities/ellipse/__init__/#) | Constructor of [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) |
-| [Ellipse(semi_axis1, semi_axis2)](/3d/python-net/aspose.threed.entities/ellipse/__init__/#float-float) | Constructor of [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) |
+| [__init__](/3d/python-net/aspose.threed.entities/ellipse/__init__/#) | Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) |
+| [__init__](/3d/python-net/aspose.threed.entities/ellipse/__init__/#float-float) | Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) |
 
 
 ### Properties
@@ -48,20 +48,20 @@ The Ellipse type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/ellipse/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/ellipse/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.entities/ellipse/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.entities/ellipse/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/ellipse/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.entities/ellipse/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/ellipse/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [remove_property](/3d/python-net/aspose.threed.entities/ellipse/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.entities/ellipse/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.entities/ellipse/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.entities/ellipse/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.entities/ellipse/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.entities/ellipse/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/ellipse/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Ellipse](/3d/python-net/aspose.threed.entities/ellipse)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

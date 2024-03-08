@@ -3,7 +3,7 @@ title: Cancellation
 second_title: Aspose.3D for Java API Reference
 description: This class allows you to manually abort a load/save task.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.threed/cancellation/
 ---
 
@@ -118,7 +118,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

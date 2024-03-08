@@ -3,8 +3,8 @@ title: CullFaceMode enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /python-net/aspose.threed.render/cullfacemode/
+weight: 470
+url: /aspose.threed.render/cullfacemode/
 is_root: false
 ---
 
@@ -26,4 +26,4 @@ The CullFaceMode type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

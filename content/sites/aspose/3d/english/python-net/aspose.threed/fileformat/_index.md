@@ -3,8 +3,8 @@ title: FileFormat class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /python-net/aspose.threed/fileformat/
+weight: 80
+url: /aspose.threed/fileformat/
 is_root: false
 ---
 
@@ -19,6 +19,7 @@ The FileFormat type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [version](/3d/python-net/aspose.threed/fileformat/version) | Gets file format version |
 | [can_export](/3d/python-net/aspose.threed/fileformat/can_export) | Gets whether Aspose.3D supports export scene to current file format. |
 | [can_import](/3d/python-net/aspose.threed/fileformat/can_import) | Gets whether Aspose.3D supports import scene from current file format. |
 | [extension](/3d/python-net/aspose.threed/fileformat/extension) | Gets the extension name of this type. |
@@ -61,6 +62,7 @@ The FileFormat type exposes the following members:
 | [RVM_TEXT](/3d/python-net/aspose.threed/fileformat/rvm_text) | AVEVA Plant Design Management System Model in text format |
 | [RVM_BINARY](/3d/python-net/aspose.threed/fileformat/rvm_binary) | AVEVA Plant Design Management System Model in binary format |
 | [ASE](/3d/python-net/aspose.threed/fileformat/ase) | 3D Studio Max's ASCII Scene Exporter format. |
+| [IFC](/3d/python-net/aspose.threed/fileformat/ifc) | ISO 16739-1 Industry Foundation Classes data model. |
 | [SIEMENS_JT8](/3d/python-net/aspose.threed/fileformat/siemens_jt8) | Siemens JT File Version 8 |
 | [SIEMENS_JT9](/3d/python-net/aspose.threed/fileformat/siemens_jt9) | Siemens JT File Version 9 |
 | [AMF](/3d/python-net/aspose.threed/fileformat/amf) | Additive manufacturing file format |
@@ -69,6 +71,7 @@ The FileFormat type exposes the following members:
 | [HTML5](/3d/python-net/aspose.threed/fileformat/html5) | HTML5 File |
 | [ZIP](/3d/python-net/aspose.threed/fileformat/zip) | Zip archive that contains other 3d file format. |
 | [USD](/3d/python-net/aspose.threed/fileformat/usd) | Universal Scene Description |
+| [USDA](/3d/python-net/aspose.threed/fileformat/usda) | Universal Scene Description in ASCII format. |
 | [USDZ](/3d/python-net/aspose.threed/fileformat/usdz) | Compressed Universal Scene Description |
 | [XYZ](/3d/python-net/aspose.threed/fileformat/xyz) | Xyz point cloud file |
 | [PCD](/3d/python-net/aspose.threed/fileformat/pcd) | PCL Point Cloud Data file in ASCII mode |
@@ -78,13 +81,13 @@ The FileFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect(stream, file_name)](/3d/python-net/aspose.threed/fileformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect(file_name)](/3d/python-net/aspose.threed/fileformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options()](/3d/python-net/aspose.threed/fileformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options()](/3d/python-net/aspose.threed/fileformat/create_save_options/#) | Create a default save options for this file format |
+| [detect](/3d/python-net/aspose.threed/fileformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect](/3d/python-net/aspose.threed/fileformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [get_format_by_extension](/3d/python-net/aspose.threed/fileformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [create_load_options](/3d/python-net/aspose.threed/fileformat/create_load_options/#) | Create a default load options for this file format |
+| [create_save_options](/3d/python-net/aspose.threed/fileformat/create_save_options/#) | Create a default save options for this file format |
 
 
 
 ### See Also
-* module [aspose.threed](..)
+* module [`aspose.threed`](..)

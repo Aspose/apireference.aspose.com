@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.entities/vertexelementuv/reference_mode/
+url: /aspose.threed.entities/vertexelementuv/reference_mode/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def reference_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode)
-* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)
+* module [`aspose.threed.entities`](../../)
+* class [`ReferenceMode`](/3d/python-net/aspose.threed.entities/referencemode)
+* class [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv)

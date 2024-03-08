@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /python-net/aspose.threed.entities/nurbssurface/vertex_elements/
+url: /aspose.threed.entities/nurbssurface/vertex_elements/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def vertex_elements(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface)

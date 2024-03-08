@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /python-net/aspose.threed.entities/dish/properties/
+url: /aspose.threed.entities/dish/properties/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Dish](/3d/python-net/aspose.threed.entities/dish)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed.entities`](../../)
+* class [`Dish`](/3d/python-net/aspose.threed.entities/dish)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

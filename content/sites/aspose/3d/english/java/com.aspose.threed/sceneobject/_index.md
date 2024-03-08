@@ -3,7 +3,7 @@ title: SceneObject
 second_title: Aspose.3D for Java API Reference
 description: The root class of objects that will be stored inside a scene.
 type: docs
-weight: 147
+weight: 152
 url: /java/com.aspose.threed/sceneobject/
 ---
 
@@ -251,7 +251,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

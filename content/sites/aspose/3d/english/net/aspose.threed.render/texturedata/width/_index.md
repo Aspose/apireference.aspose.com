@@ -3,7 +3,7 @@ title: Width
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.threed.render/texturedata/width/
 ---
 ## TextureData.Width property

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.render/itexture1d/
+url: /aspose.threed.render/itexture1d/
 is_root: false
 ---
 
@@ -36,13 +36,14 @@ The ITexture1D type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [save(path, format)](/3d/python-net/aspose.threed.render/itexture1d/save/#str-aspose.pydrawing.imaging.ImageFormat) | Save the texture content to external file. |
-| [save(bitmap)](/3d/python-net/aspose.threed.render/itexture1d/save/#aspose.pydrawing.Bitmap) | Save the texture content to external file. |
-| [load(bitmap)](/3d/python-net/aspose.threed.render/itexture1d/load/#TextureData) | Load texture content from specified Bitmap |
-| [to_bitmap()](/3d/python-net/aspose.threed.render/itexture1d/to_bitmap/#) | Convert the texture unit to Bitmap instance |
+| [save](/3d/python-net/aspose.threed.render/itexture1d/save/#str-str) | Save the texture content to external file. |
+| [save](/3d/python-net/aspose.threed.render/itexture1d/save/#aspose.threed.render.TextureData) | Save the texture content to external file. |
+| [load](/3d/python-net/aspose.threed.render/itexture1d/load/#aspose.threed.render.TextureData) | Load texture content from specified Bitmap |
+| [to_bitmap](/3d/python-net/aspose.threed.render/itexture1d/to_bitmap/#) | Convert the texture unit to [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) instance |
 
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* module [`aspose.threed.render`](..)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)
+* class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

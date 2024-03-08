@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.render/glslsource/compute_shader/
+url: /aspose.threed.render/glslsource/compute_shader/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def compute_shader(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [GLSLSource](/3d/python-net/aspose.threed.render/glslsource)
+* module [`aspose.threed.render`](../../)
+* class [`GLSLSource`](/3d/python-net/aspose.threed.render/glslsource)

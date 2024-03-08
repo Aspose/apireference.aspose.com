@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.entities/sphere/cast_shadows/
+url: /aspose.threed.entities/sphere/cast_shadows/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def cast_shadows(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Sphere](/3d/python-net/aspose.threed.entities/sphere)
+* module [`aspose.threed.entities`](../../)
+* class [`Sphere`](/3d/python-net/aspose.threed.entities/sphere)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /python-net/aspose.threed.render/renderer/fallback_entity_renderer/
+url: /aspose.threed.render/renderer/fallback_entity_renderer/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def fallback_entity_renderer(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

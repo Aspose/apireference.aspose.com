@@ -3,7 +3,7 @@ title: ToMesh
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.threed.entities/mesh/tomesh/
 ---
 ## Mesh.ToMesh method

@@ -3,7 +3,7 @@ title: XLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: The Load options for DirectX X files.
 type: docs
-weight: 212
+weight: 219
 url: /java/com.aspose.threed/xloadoptions/
 ---
 
@@ -277,7 +277,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

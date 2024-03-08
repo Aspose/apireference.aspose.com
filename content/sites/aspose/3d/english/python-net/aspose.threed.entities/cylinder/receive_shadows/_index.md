@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /python-net/aspose.threed.entities/cylinder/receive_shadows/
+url: /aspose.threed.entities/cylinder/receive_shadows/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def receive_shadows(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)

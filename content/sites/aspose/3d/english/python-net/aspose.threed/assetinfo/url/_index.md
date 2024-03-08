@@ -3,8 +3,8 @@ title: url property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /python-net/aspose.threed/assetinfo/url/
+weight: 280
+url: /aspose.threed/assetinfo/url/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def url(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
+* module [`aspose.threed`](../../)
+* class [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)

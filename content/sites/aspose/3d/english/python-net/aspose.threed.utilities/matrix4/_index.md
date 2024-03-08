@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.utilities/matrix4/
+url: /aspose.threed.utilities/matrix4/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The Matrix4 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Matrix4(r0, r1, r2, r3)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#Vector4-Vector4-Vector4-Vector4) | Constructs matrix from 4 rows. |
-| [Matrix4(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float) | Initializes a new instance of the [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
-| [Matrix4(m)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#FMatrix4) | Construct [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) from an [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) instance |
-| [Matrix4(m)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#list) | Initializes a new instance of the [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
-| [Matrix4()](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#) | Constructs a new instance of Matrix4 |
+| [__init__](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#aspose.threed.utilities.Vector4-aspose.threed.utilities.Vector4-aspose.threed.utilities.Vector4-aspose.threed.utilities.Vector4) | Constructs matrix from 4 rows. |
+| [__init__](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float) | Initializes a new instance of the [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
+| [__init__](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#aspose.threed.utilities.FMatrix4) | Construct [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) from an [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) instance |
+| [__init__](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#list) | Initializes a new instance of the [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
+| [__init__](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#) | Constructs a new instance of Matrix4 |
 
 
 ### Properties
@@ -52,22 +52,22 @@ The Matrix4 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [translate(t)](/3d/python-net/aspose.threed.utilities/matrix4/translate/#Vector3) | Creates a matrix that translates along the x-axis, the y-axis and the z-axis |
-| [translate(tx, ty, tz)](/3d/python-net/aspose.threed.utilities/matrix4/translate/#float-float-float) | Creates a matrix that translates along the x-axis, the y-axis and the z-axis |
-| [scale(s)](/3d/python-net/aspose.threed.utilities/matrix4/scale/#Vector3) | Creates a matrix that scales along the x-axis, the y-axis and the z-axis. |
-| [scale(s)](/3d/python-net/aspose.threed.utilities/matrix4/scale/#float) | Creates a matrix that scales along the x-axis, the y-axis and the z-axis. |
-| [scale(sx, sy, sz)](/3d/python-net/aspose.threed.utilities/matrix4/scale/#float-float-float) | Creates a matrix that scales along the x-axis, the y-axis and the z-axis. |
-| [rotate_from_euler(eul)](/3d/python-net/aspose.threed.utilities/matrix4/rotate_from_euler/#Vector3) | Create a rotation matrix from Euler angle |
-| [rotate_from_euler(rx, ry, rz)](/3d/python-net/aspose.threed.utilities/matrix4/rotate_from_euler/#float-float-float) | Create a rotation matrix from Euler angle |
-| [rotate(angle, axis)](/3d/python-net/aspose.threed.utilities/matrix4/rotate/#float-Vector3) | Create a rotation matrix by rotation angle and axis |
-| [rotate(q)](/3d/python-net/aspose.threed.utilities/matrix4/rotate/#Quaternion) | Create a rotation matrix from a quaternion |
-| [concatenate(m2)](/3d/python-net/aspose.threed.utilities/matrix4/concatenate/#Matrix4) | Concatenates the two matrices |
-| [transpose()](/3d/python-net/aspose.threed.utilities/matrix4/transpose/#) | Transposes this instance. |
-| [normalize()](/3d/python-net/aspose.threed.utilities/matrix4/normalize/#) | Normalizes this instance. |
-| [inverse()](/3d/python-net/aspose.threed.utilities/matrix4/inverse/#) | Inverses this instance. |
-| [set_trs(translation, rotation, scale)](/3d/python-net/aspose.threed.utilities/matrix4/set_trs/#Vector3-Vector3-Vector3) | Initializes the matrix with translation/rotation/scale |
-| [to_array()](/3d/python-net/aspose.threed.utilities/matrix4/to_array/#) | Converts matrix to array. |
-| [decompose(translation, scaling, rotation)](/3d/python-net/aspose.threed.utilities/matrix4/decompose/#any-any-any) |  |
+| [translate](/3d/python-net/aspose.threed.utilities/matrix4/translate/#aspose.threed.utilities.Vector3) | Creates a matrix that translates along the x-axis, the y-axis and the z-axis |
+| [translate](/3d/python-net/aspose.threed.utilities/matrix4/translate/#float-float-float) | Creates a matrix that translates along the x-axis, the y-axis and the z-axis |
+| [scale](/3d/python-net/aspose.threed.utilities/matrix4/scale/#aspose.threed.utilities.Vector3) | Creates a matrix that scales along the x-axis, the y-axis and the z-axis. |
+| [scale](/3d/python-net/aspose.threed.utilities/matrix4/scale/#float) | Creates a matrix that scales along the x-axis, the y-axis and the z-axis. |
+| [scale](/3d/python-net/aspose.threed.utilities/matrix4/scale/#float-float-float) | Creates a matrix that scales along the x-axis, the y-axis and the z-axis. |
+| [rotate_from_euler](/3d/python-net/aspose.threed.utilities/matrix4/rotate_from_euler/#aspose.threed.utilities.Vector3) | Create a rotation matrix from Euler angle |
+| [rotate_from_euler](/3d/python-net/aspose.threed.utilities/matrix4/rotate_from_euler/#float-float-float) | Create a rotation matrix from Euler angle |
+| [rotate](/3d/python-net/aspose.threed.utilities/matrix4/rotate/#float-aspose.threed.utilities.Vector3) | Create a rotation matrix by rotation angle and axis |
+| [rotate](/3d/python-net/aspose.threed.utilities/matrix4/rotate/#aspose.threed.utilities.Quaternion) | Create a rotation matrix from a quaternion |
+| [concatenate](/3d/python-net/aspose.threed.utilities/matrix4/concatenate/#aspose.threed.utilities.Matrix4) | Concatenates the two matrices |
+| [transpose](/3d/python-net/aspose.threed.utilities/matrix4/transpose/#) | Transposes this instance. |
+| [normalize](/3d/python-net/aspose.threed.utilities/matrix4/normalize/#) | Normalizes this instance. |
+| [inverse](/3d/python-net/aspose.threed.utilities/matrix4/inverse/#) | Inverses this instance. |
+| [set_trs](/3d/python-net/aspose.threed.utilities/matrix4/set_trs/#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3) | Initializes the matrix with translation/rotation/scale |
+| [to_array](/3d/python-net/aspose.threed.utilities/matrix4/to_array/#) | Converts matrix to array. |
+| [decompose](/3d/python-net/aspose.threed.utilities/matrix4/decompose/#any-any-any) |  |
 
 
 
@@ -86,6 +86,6 @@ transformed = transform * pos
 ```
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](..)
+* class [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

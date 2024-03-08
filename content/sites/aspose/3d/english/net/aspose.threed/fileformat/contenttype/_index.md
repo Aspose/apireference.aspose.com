@@ -3,7 +3,7 @@ title: ContentType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 480
+weight: 500
 url: /net/aspose.threed/fileformat/contenttype/
 ---
 ## FileFormat.ContentType property
@@ -12,6 +12,16 @@ Gets file format content type
 
 ```csharp
 public FileContentType ContentType { get; }
+```
+
+### Examples
+
+```csharp
+var format = FileFormat.MayaBinary;
+if (format.ContentType == FileContentType.Binary)
+    Console.WriteLine($"{format} is binary format");
+else
+    Console.WriteLine($"{format} is text-based format");
 ```
 
 ### See Also

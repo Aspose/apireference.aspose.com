@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.profiles/cshape/
+url: /aspose.threed.profiles/cshape/
 is_root: false
 ---
 
@@ -15,12 +15,12 @@ The center position of the profile is in the center of the bounding box.
 
 
 
-**Inheritance:** [CShape](/3d/python-net/aspose.threed.profiles/cshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`CShape`](/3d/python-net/aspose.threed.profiles/cshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -29,7 +29,7 @@ The CShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CShape()](/3d/python-net/aspose.threed.profiles/cshape/__init__/#) | Constructor of [CShape](/3d/python-net/aspose.threed.profiles/cshape) |
+| [__init__](/3d/python-net/aspose.threed.profiles/cshape/__init__/#) | Constructor of [`CShape`](/3d/python-net/aspose.threed.profiles/cshape) |
 
 
 ### Properties
@@ -51,22 +51,22 @@ The CShape type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.profiles/cshape/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.profiles/cshape/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.profiles/cshape/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.profiles/cshape/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.profiles/cshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.profiles/cshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.profiles/cshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [get_extent()](/3d/python-net/aspose.threed.profiles/cshape/get_extent/#) | Gets the extent in x and y dimension. |
+| [remove_property](/3d/python-net/aspose.threed.profiles/cshape/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.profiles/cshape/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.profiles/cshape/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.profiles/cshape/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.profiles/cshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.profiles/cshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.profiles/cshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [get_extent](/3d/python-net/aspose.threed.profiles/cshape/get_extent/#) | Gets the extent in x and y dimension. |
 
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [CShape](/3d/python-net/aspose.threed.profiles/cshape)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

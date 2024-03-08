@@ -3,7 +3,7 @@ title: PbrMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for physically based rendering based on albedo color/metallic/roughness
 type: docs
-weight: 108
+weight: 111
 url: /java/com.aspose.threed/pbrmaterial/
 ---
 
@@ -19,7 +19,7 @@ Material for physically based rendering based on albedo color/metallic/roughness
 | Constructor | Description |
 | --- | --- |
 | [PbrMaterial()](#PbrMaterial--) | Construct a default PBR material instance |
-| [PbrMaterial(Color albedo)](#PbrMaterial-java.awt.Color-) | Construct a default PBR material with specified albedo color value. |
+| [PbrMaterial(Vector3 albedo)](#PbrMaterial-com.aspose.threed.Vector3-) | Construct a default PBR material with specified albedo color value. |
 ## Fields
 
 | Field | Description |
@@ -86,9 +86,9 @@ public PbrMaterial()
 
 Construct a default PBR material instance
 
-### PbrMaterial(Color albedo) {#PbrMaterial-java.awt.Color-}
+### PbrMaterial(Vector3 albedo) {#PbrMaterial-com.aspose.threed.Vector3-}
 ```
-public PbrMaterial(Color albedo)
+public PbrMaterial(Vector3 albedo)
 ```
 
 
@@ -97,7 +97,7 @@ Construct a default PBR material with specified albedo color value.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| albedo | java.awt.Color | The default albedo color value |
+| albedo | [Vector3](../../com.aspose.threed/vector3) | The default albedo color value |
 
 ### MAP_AMBIENT {#MAP-AMBIENT}
 ```
@@ -180,7 +180,16 @@ Allow convert other material to PbrMaterial
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| material | [Material](../../com.aspose.threed/material) |  |
+| material | [Material](../../com.aspose.threed/material) | **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     mat.setDiffuseColor(new Vector3(0.3, 0.9, 0.4));
+     PbrMaterial pbr = PbrMaterial.fromMaterial(mat);
+``` |
 
 **Returns:**
 [PbrMaterial](../../com.aspose.threed/pbrmaterial)
@@ -353,7 +362,15 @@ Gets the texture from the specified slot, it can be material's property name or 
 | slotName | java.lang.String | Slot name. |
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase) - The texture.
+[TextureBase](../../com.aspose.threed/texturebase) - The texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     tex = (Texture)mat.getTexture(Material.MAP_DIFFUSE);
+```
 ### getTransparency() {#getTransparency--}
 ```
 public double getTransparency()
@@ -612,7 +629,14 @@ Sets the texture to specified slot
 | Parameter | Type | Description |
 | --- | --- | --- |
 | slotName | java.lang.String | Slot name. |
-| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. |
+| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_NORMAL, tex);
+``` |
 
 ### setTransparency(double value) {#setTransparency-double-}
 ```
@@ -647,7 +671,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,7 +3,7 @@ title: U3dLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for universal 3d
 type: docs
-weight: 177
+weight: 184
 url: /java/com.aspose.threed/u3dloadoptions/
 ---
 
@@ -272,7 +272,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

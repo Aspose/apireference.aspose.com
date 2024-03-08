@@ -14,6 +14,14 @@ Gets the rotation represented in Euler angles, measured in degree
 public Vector3 EulerAngles { get; }
 ```
 
+### Examples
+
+```csharp
+Scene scene = Scene.FromFile("test.fbx");
+var tr = scene.RootNode.GlobalTransform;
+Console.WriteLine($"EulerAngles = {tr.EulerAngles}");
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

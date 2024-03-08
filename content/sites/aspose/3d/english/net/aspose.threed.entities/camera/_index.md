@@ -3,7 +3,7 @@ title: Camera
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 250
+weight: 280
 url: /net/aspose.threed.entities/camera/
 ---
 ## Camera class

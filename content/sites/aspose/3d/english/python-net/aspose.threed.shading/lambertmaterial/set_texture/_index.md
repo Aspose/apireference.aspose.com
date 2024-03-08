@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.shading/lambertmaterial/set_texture/
+url: /aspose.threed.shading/lambertmaterial/set_texture/
 is_root: false
 ---
 
-## set_texture(slot_name, texture) {#str-TextureBase}
+## set_texture {#str-aspose.threed.shading.TextureBase}
 
 Sets the texture to specified slot
 
@@ -23,7 +23,7 @@ def set_texture(self, slot_name, texture):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | slot_name | str | Slot name. |
-| texture | [TextureBase](/3d/python-net/aspose.threed.shading/texturebase) | Texture. |
+| texture | [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase) | Texture. |
 
 ### Example 
 
@@ -41,5 +41,5 @@ mat.set_texture(Material.MAP_NORMAL, tex)
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)

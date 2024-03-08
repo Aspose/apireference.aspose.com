@@ -3,7 +3,7 @@ title: PatchDirectionType
 second_title: Aspose.3D for Java API Reference
 description: Patch directions types.
 type: docs
-weight: 258
+weight: 270
 url: /java/com.aspose.threed/patchdirectiontype/
 ---
 
@@ -275,7 +275,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.profiles/cshape/__init__/
+url: /aspose.threed.profiles/cshape/__init__/
 is_root: false
 ---
 
-## CShape() {#}
+## __init__ {#}
 
-Constructor of [CShape](/3d/python-net/aspose.threed.profiles/cshape)
+Constructor of [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [CShape](/3d/python-net/aspose.threed.profiles/cshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)

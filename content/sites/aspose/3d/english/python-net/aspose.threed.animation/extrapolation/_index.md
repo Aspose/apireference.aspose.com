@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.animation/extrapolation/
+url: /aspose.threed.animation/extrapolation/
 is_root: false
 ---
 
@@ -25,4 +25,4 @@ The Extrapolation type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.animation](..)
+* module [`aspose.threed.animation`](..)

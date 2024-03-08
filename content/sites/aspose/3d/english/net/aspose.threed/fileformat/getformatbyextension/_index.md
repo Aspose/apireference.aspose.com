@@ -3,7 +3,7 @@ title: GetFormatByExtension
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 450
+weight: 470
 url: /net/aspose.threed/fileformat/getformatbyextension/
 ---
 ## FileFormat.GetFormatByExtension method
@@ -17,6 +17,24 @@ public static FileFormat GetFormatByExtension(string extensionName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | extensionName | String |  |
+
+### Return Value
+
+Instance of [`FileFormat`](../../fileformat), otherwise null returned.
+
+### Examples
+
+The following code shows how to save scene to memory using specified format
+
+```csharp
+Scene scene = new Scene(new Box());
+var outputFormat = ".glb";
+var format = FileFormat.GetFormatByExtension(outputFormat);
+using(var ms = new MemoryStream())
+{
+    scene.Save(ms, format);
+}
+```
 
 ### See Also
 

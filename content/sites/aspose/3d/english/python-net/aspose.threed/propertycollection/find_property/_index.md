@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed/propertycollection/find_property/
+url: /aspose.threed/propertycollection/find_property/
 is_root: false
 ---
 
-## find_property(property) {#str}
+## find_property {#str}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
@@ -34,5 +34,5 @@ def find_property(self, property):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed`](../../)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

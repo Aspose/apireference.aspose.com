@@ -3,7 +3,7 @@ title: TextureBase
 second_title: Aspose.3D for Java API Reference
 description: Base class for all concrete textures.
 type: docs
-weight: 166
+weight: 172
 url: /java/com.aspose.threed/texturebase/
 ---
 
@@ -551,7 +551,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

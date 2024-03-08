@@ -3,7 +3,7 @@ title: U3dSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for universal 3d
 type: docs
-weight: 178
+weight: 185
 url: /java/com.aspose.threed/u3dsaveoptions/
 ---
 
@@ -29,6 +29,7 @@ Save options for universal 3d
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
 | [getExportNormals()](#getExportNormals--) | Gets whether to export normal data. |
 | [getExportTextureCoordinates()](#getExportTextureCoordinates--) | Gets whether to export texture coordinates. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getExportVertexDiffuse()](#getExportVertexDiffuse--) | Gets whether to export vertex's diffuse color. |
 | [getExportVertexSpecular()](#getExportVertexSpecular--) | Gets whether to export vertex' specular color. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
@@ -45,6 +46,7 @@ Save options for universal 3d
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportNormals(boolean value)](#setExportNormals-boolean-) | Sets whether to export normal data. |
 | [setExportTextureCoordinates(boolean value)](#setExportTextureCoordinates-boolean-) | Sets whether to export texture coordinates. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setExportVertexDiffuse(boolean value)](#setExportVertexDiffuse-boolean-) | Sets whether to export vertex's diffuse color. |
 | [setExportVertexSpecular(boolean value)](#setExportVertexSpecular-boolean-) | Sets whether to export vertex' specular color. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
@@ -127,6 +129,16 @@ public boolean getExportTextureCoordinates()
 
 
 Gets whether to export texture coordinates.
+
+**Returns:**
+boolean
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
 
 **Returns:**
 boolean
@@ -298,6 +310,19 @@ Sets whether to export texture coordinates.
 | --- | --- | --- |
 | value | boolean | New value |
 
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
 ### setExportVertexDiffuse(boolean value) {#setExportVertexDiffuse-boolean-}
 ```
 public void setExportVertexDiffuse(boolean value)
@@ -422,7 +447,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

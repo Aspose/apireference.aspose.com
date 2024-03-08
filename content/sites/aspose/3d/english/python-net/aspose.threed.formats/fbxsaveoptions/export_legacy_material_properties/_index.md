@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.formats/fbxsaveoptions/export_legacy_material_properties/
+url: /aspose.threed.formats/fbxsaveoptions/export_legacy_material_properties/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def export_legacy_material_properties(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)

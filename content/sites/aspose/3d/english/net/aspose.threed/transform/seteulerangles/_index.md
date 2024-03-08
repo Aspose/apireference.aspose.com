@@ -3,7 +3,7 @@ title: SetEulerAngles
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 150
 url: /net/aspose.threed/transform/seteulerangles/
 ---
 ## Transform.SetEulerAngles method
@@ -19,6 +19,13 @@ public Transform SetEulerAngles(double rx, double ry, double rz)
 | rx | Double |  |
 | ry | Double |  |
 | rz | Double |  |
+
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetEulerAngles(90, 0, 0);
+```
 
 ### See Also
 

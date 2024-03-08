@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /python-net/aspose.threed.render/renderstate/polygon_mode/
+url: /aspose.threed.render/renderstate/polygon_mode/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def polygon_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PolygonMode](/3d/python-net/aspose.threed.render/polygonmode)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`PolygonMode`](/3d/python-net/aspose.threed.render/polygonmode)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

@@ -3,7 +3,7 @@ title: DracoCompression
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.threed.formats/gltfsaveoptions/dracocompression/
 ---
 ## GltfSaveOptions.DracoCompression property

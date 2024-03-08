@@ -3,7 +3,7 @@ title: SetRotation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 210
 url: /net/aspose.threed/transform/setrotation/
 ---
 ## Transform.SetRotation method
@@ -20,6 +20,13 @@ public Transform SetRotation(double rw, double rx, double ry, double rz)
 | rx | Double |  |
 | ry | Double |  |
 | rz | Double |  |
+
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetRotation(1, 0, 0, 0);
+```
 
 ### See Also
 

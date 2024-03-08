@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.render/ipipeline/
+url: /aspose.threed.render/ipipeline/
 is_root: false
 ---
 
@@ -18,4 +18,4 @@ The IPipeline type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

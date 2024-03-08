@@ -3,7 +3,7 @@ title: WindowHandle
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2240
+weight: 2350
 url: /net/aspose.threed.render/windowhandle/
 ---
 ## WindowHandle class

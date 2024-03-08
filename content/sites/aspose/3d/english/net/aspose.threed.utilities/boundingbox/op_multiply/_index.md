@@ -3,7 +3,7 @@ title: op_Multiply
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 170
 url: /net/aspose.threed.utilities/boundingbox/op_multiply/
 ---
 ## BoundingBox Multiply operator

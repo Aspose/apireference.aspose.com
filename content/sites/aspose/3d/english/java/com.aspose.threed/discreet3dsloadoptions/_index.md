@@ -3,7 +3,7 @@ title: Discreet3dsLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for 3DS file.
 type: docs
-weight: 39
+weight: 40
 url: /java/com.aspose.threed/discreet3dsloadoptions/
 ---
 
@@ -322,7 +322,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

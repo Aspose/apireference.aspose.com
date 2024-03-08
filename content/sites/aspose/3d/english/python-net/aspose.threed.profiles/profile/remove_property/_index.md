@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.profiles/profile/remove_property/
+url: /aspose.threed.profiles/profile/remove_property/
 is_root: false
 ---
 
-## remove_property(property) {#Property}
+## remove_property {#aspose.threed.Property}
 
 Removes a dynamic property.
 
@@ -27,10 +27,10 @@ def remove_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | [Property](/3d/python-net/aspose.threed/property) | Which property to remove |
+| property | [`Property`](/3d/python-net/aspose.threed/property) | Which property to remove |
 
 
-## remove_property(property) {#str}
+## remove_property {#str}
 
 Remove the specified property identified by name
 
@@ -54,5 +54,5 @@ def remove_property(self, property):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
+* module [`aspose.threed.profiles`](../../)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)

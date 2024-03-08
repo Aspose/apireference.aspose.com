@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /python-net/aspose.threed.entities/shape/name/
+url: /aspose.threed.entities/shape/name/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Shape](/3d/python-net/aspose.threed.entities/shape)
+* module [`aspose.threed.entities`](../../)
+* class [`Shape`](/3d/python-net/aspose.threed.entities/shape)

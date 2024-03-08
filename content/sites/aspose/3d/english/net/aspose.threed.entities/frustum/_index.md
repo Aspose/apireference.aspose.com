@@ -3,7 +3,7 @@ title: Frustum
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 380
 url: /net/aspose.threed.entities/frustum/
 ---
 ## Frustum class

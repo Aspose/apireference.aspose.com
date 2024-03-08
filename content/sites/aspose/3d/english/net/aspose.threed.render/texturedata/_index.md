@@ -3,7 +3,7 @@ title: TextureData
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2210
+weight: 2320
 url: /net/aspose.threed.render/texturedata/
 ---
 ## TextureData class
@@ -19,7 +19,8 @@ public class TextureData
 | Name | Description |
 | --- | --- |
 | [TextureData](texturedata)() | Constructor of [`TextureData`](../texturedata) |
-| [TextureData](texturedata)(int, int, int, int, PixelFormat, byte[]) | Constructor of [`TextureData`](../texturedata) (2 constructors) |
+| [TextureData](texturedata)(int, int, PixelFormat) | Constructs a new [`TextureData`](../texturedata) and allocate pixel data. |
+| [TextureData](texturedata)(int, int, int, int, PixelFormat, byte[]) | Constructor of [`TextureData`](../texturedata) |
 
 ## Properties
 
@@ -36,10 +37,15 @@ public class TextureData
 
 | Name | Description |
 | --- | --- |
-| static [FromBitmap](../../aspose.threed.render/texturedata/frombitmap)(Bitmap) | Convert a Bitmap to [`TextureData`](../texturedata) |
 | static [FromFile](../../aspose.threed.render/texturedata/fromfile)(string) | Load a texture from file |
 | static [FromStream](../../aspose.threed.render/texturedata/fromstream)(Stream) | Load a texture from stream |
-| [ToBitmap](../../aspose.threed.render/texturedata/tobitmap)() | Convert the TextureData to a Bitmap instance. |
+| [MapPixels](../../aspose.threed.render/texturedata/mappixels)(PixelMapMode) | Map all pixels for read/write |
+| [MapPixels](../../aspose.threed.render/texturedata/mappixels)(PixelMapMode, PixelFormat) | Map all pixels for read/write in given pixel format |
+| [MapPixels](../../aspose.threed.render/texturedata/mappixels)(Rect, PixelMapMode, PixelFormat) | Map pixels addressed by rect for reading/writing in given pixel format |
+| [Save](../../aspose.threed.render/texturedata/save)(string) | Save texture data into image file |
+| [Save](../../aspose.threed.render/texturedata/save)(Stream, string) | Save texture data into specified image format |
+| [Save](../../aspose.threed.render/texturedata/save)(string, string) | Save texture data into image file |
+| [TransformPixelFormat](../../aspose.threed.render/texturedata/transformpixelformat)(PixelFormat) | Transform pixel's layout to new pixel format. |
 
 ### See Also
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.entities/frustum/near_plane/
+url: /aspose.threed.entities/frustum/near_plane/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def near_plane(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Frustum](/3d/python-net/aspose.threed.entities/frustum)
+* module [`aspose.threed.entities`](../../)
+* class [`Frustum`](/3d/python-net/aspose.threed.entities/frustum)

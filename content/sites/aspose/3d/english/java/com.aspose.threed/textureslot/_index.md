@@ -3,7 +3,7 @@ title: TextureSlot
 second_title: Aspose.3D for Java API Reference
 description: Texture slot in  can be enumerated through material instance.
 type: docs
-weight: 168
+weight: 175
 url: /java/com.aspose.threed/textureslot/
 ---
 
@@ -13,7 +13,18 @@ java.lang.Object
 public class TextureSlot
 ```
 
-Texture slot in [Material](../../com.aspose.threed/material), can be enumerated through material instance.
+Texture slot in [Material](../../com.aspose.threed/material), can be enumerated through material instance. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     for(var slot : mat)
+     {
+         System.out.printf("Texture slot %s = %s", slot.getSlotName(), slot.getTexture());
+     }
+```
 ## Methods
 
 | Method | Description |
@@ -120,7 +131,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

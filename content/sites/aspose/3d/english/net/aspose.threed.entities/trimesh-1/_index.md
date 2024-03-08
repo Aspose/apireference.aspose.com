@@ -3,7 +3,7 @@ title: TriMeshT
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 740
+weight: 770
 url: /net/aspose.threed.entities/trimesh-1/
 ---
 ## TriMesh&lt;T&gt; class
@@ -47,6 +47,7 @@ public class TriMesh<T> : TriMesh
 | Name | Description |
 | --- | --- |
 | static [FromMesh](../../aspose.threed.entities/trimesh`1/frommesh)(Mesh) | Create a TriMesh from given mesh object with automatically generated vertex layout. |
+| [AddTriangle](../../aspose.threed.entities/trimesh/addtriangle)(int, int, int) | Add a new triangle |
 | [BeginVertex](../../aspose.threed.entities/trimesh/beginvertex)() | Begin adding vertex |
 | [EndVertex](../../aspose.threed.entities/trimesh/endvertex)() | End adding vertex |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |

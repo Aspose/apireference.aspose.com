@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed/scene/open/
+url: /aspose.threed/scene/open/
 is_root: false
 ---
 
-## open(stream) {#io.RawIOBase}
+## open {#io.RawIOBase}
 
 Opens the scene from given stream
 
@@ -39,7 +39,7 @@ with open("input.fbx", "rb") as stream:
 ```
 
 
-## open(file_name) {#str}
+## open {#str}
 
 Opens the scene from given path
 
@@ -69,7 +69,7 @@ scene.open("input.fbx")
 ```
 
 
-## open(file_name, options) {#str-aspose.threed.formats.LoadOptions}
+## open {#str-aspose.threed.formats.LoadOptions}
 
 Opens the scene from given path using specified file format.
 
@@ -105,5 +105,5 @@ scene.open("input.fbx", opts)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

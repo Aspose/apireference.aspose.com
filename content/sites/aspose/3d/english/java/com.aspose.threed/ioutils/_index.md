@@ -3,7 +3,7 @@ title: IOUtils
 second_title: Aspose.3D for Java API Reference
 description: Utilities to write matrix/vector to binary writer
 type: docs
-weight: 75
+weight: 77
 url: /java/com.aspose.threed/ioutils/
 ---
 
@@ -117,7 +117,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

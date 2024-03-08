@@ -22,6 +22,16 @@ public Matrix4 Concatenate(Matrix4 m2)
 
 New matrix4
 
+### Examples
+
+```csharp
+var t = Matrix4.Translate(0, 10, 9);
+var s = Matrix4.Scale(10, 10, 10);
+var transform = t.Concatenate(s);
+var pos = new Vector3(10, 0, -1);
+var transformed = transform * pos;
+```
+
 ### See Also
 
 * struct [Matrix4](../../matrix4)

@@ -26,6 +26,7 @@ Aspose.3D's supports animation hierarchy, each animation can be composed by seve
 | --- | --- |
 | [createBindPoint(A3DObject obj, String propName)](#createBindPoint-com.aspose.threed.A3DObject-java.lang.String-) | Creates a BindPoint based on the property data type. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [findBindPoint(A3DObject target, String name)](#findBindPoint-com.aspose.threed.A3DObject-java.lang.String-) | Finds the bind point by target and name. |
 | [findBindPoint(String name)](#findBindPoint-java.lang.String-) | Finds the bind point by name. |
 | [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [getBindPoint(A3DObject target, String propName, boolean create)](#getBindPoint-com.aspose.threed.A3DObject-java.lang.String-boolean-) | Gets the animation bind point on given property. |
@@ -100,6 +101,22 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### findBindPoint(A3DObject target, String name) {#findBindPoint-com.aspose.threed.A3DObject-java.lang.String-}
+```
+public BindPoint findBindPoint(A3DObject target, String name)
+```
+
+
+Finds the bind point by target and name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| target | [A3DObject](../../com.aspose.threed/a3dobject) | Bind point's target to find. |
+| name | java.lang.String | Bind point's name to find. |
+
+**Returns:**
+[BindPoint](../../com.aspose.threed/bindpoint) - The bind point.
 ### findBindPoint(String name) {#findBindPoint-java.lang.String-}
 ```
 public BindPoint findBindPoint(String name)
@@ -350,7 +367,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

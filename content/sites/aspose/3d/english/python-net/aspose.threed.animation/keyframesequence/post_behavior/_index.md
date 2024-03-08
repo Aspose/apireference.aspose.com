@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.animation/keyframesequence/post_behavior/
+url: /aspose.threed.animation/keyframesequence/post_behavior/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def post_behavior(self):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* module [`aspose.threed.animation`](../../)
+* class [`Extrapolation`](/3d/python-net/aspose.threed.animation/extrapolation)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

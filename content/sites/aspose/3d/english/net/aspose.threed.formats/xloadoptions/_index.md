@@ -3,7 +3,7 @@ title: XLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1400
+weight: 1430
 url: /net/aspose.threed.formats/xloadoptions/
 ---
 ## XLoadOptions class

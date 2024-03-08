@@ -3,7 +3,7 @@ title: ScaleY
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.threed.utilities/relativerectangle/scaley/
 ---
 ## RelativeRectangle.ScaleY property

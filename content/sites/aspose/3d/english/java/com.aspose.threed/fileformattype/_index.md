@@ -3,7 +3,7 @@ title: FileFormatType
 second_title: Aspose.3D for Java API Reference
 description: File format type
 type: docs
-weight: 62
+weight: 63
 url: /java/com.aspose.threed/fileformattype/
 ---
 
@@ -28,6 +28,7 @@ File format type
 | [FBX](#FBX) | FBX file format type |
 | [GLTF](#GLTF) | Khronos Group's glTF |
 | [HTML5](#HTML5) | HTML5 File |
+| [IFC](#IFC) | ISO 16739-1 Industry Foundation Classes data model. |
 | [MAYA](#MAYA) | Autodesk Maya format type |
 | [MICROSOFT3MF](#MICROSOFT3MF) | 3D Manufacturing Format |
 | [PCD](#PCD) | Point Cloud Data used by Point Cloud Library |
@@ -136,6 +137,14 @@ public static final FileFormatType HTML5
 
 
 HTML5 File
+
+### IFC {#IFC}
+```
+public static final FileFormatType IFC
+```
+
+
+ISO 16739-1 Industry Foundation Classes data model.
 
 ### MAYA {#MAYA}
 ```
@@ -338,7 +347,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

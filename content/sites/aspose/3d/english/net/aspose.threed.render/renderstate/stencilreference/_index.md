@@ -3,7 +3,7 @@ title: StencilReference
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 170
 url: /net/aspose.threed.render/renderstate/stencilreference/
 ---
 ## RenderState.StencilReference property

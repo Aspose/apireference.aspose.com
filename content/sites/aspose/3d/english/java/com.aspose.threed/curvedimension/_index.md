@@ -3,7 +3,7 @@ title: CurveDimension
 second_title: Aspose.3D for Java API Reference
 description: The dimension of the curves.
 type: docs
-weight: 246
+weight: 258
 url: /java/com.aspose.threed/curvedimension/
 ---
 
@@ -224,7 +224,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

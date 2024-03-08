@@ -3,7 +3,7 @@ title: MappingMode
 second_title: Aspose.3D for Java API Reference
 description: Determines how the element is mapped to a surface.
 type: docs
-weight: 256
+weight: 268
 url: /java/com.aspose.threed/mappingmode/
 ---
 
@@ -251,7 +251,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

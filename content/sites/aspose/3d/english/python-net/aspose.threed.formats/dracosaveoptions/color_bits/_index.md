@@ -3,8 +3,8 @@ title: color_bits property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /python-net/aspose.threed.formats/dracosaveoptions/color_bits/
+weight: 40
+url: /aspose.threed.formats/dracosaveoptions/color_bits/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def color_bits(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions)

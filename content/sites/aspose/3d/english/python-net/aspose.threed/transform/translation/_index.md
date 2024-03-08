@@ -3,8 +3,8 @@ title: translation property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /python-net/aspose.threed/transform/translation/
+weight: 320
+url: /aspose.threed/transform/translation/
 is_root: false
 ---
 
@@ -35,6 +35,6 @@ def translation(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Transform](/3d/python-net/aspose.threed/transform)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed`](../../)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

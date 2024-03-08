@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed/a3dobject/__init__/
+url: /aspose.threed/a3dobject/__init__/
 is_root: false
 ---
 
-## A3DObject() {#}
+## __init__ {#}
 
-Initializes a new instance of the [A3DObject](/3d/python-net/aspose.threed/a3dobject) class with no name.
+Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class with no name.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## A3DObject(name) {#str}
+## __init__ {#str}
 
-Initializes a new instance of the [A3DObject](/3d/python-net/aspose.threed/a3dobject) class.
+Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* module [`aspose.threed`](../../)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)

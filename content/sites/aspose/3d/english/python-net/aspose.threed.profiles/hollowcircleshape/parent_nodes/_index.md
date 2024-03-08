@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /python-net/aspose.threed.profiles/hollowcircleshape/parent_nodes/
+url: /aspose.threed.profiles/hollowcircleshape/parent_nodes/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HollowCircleShape](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`HollowCircleShape`](/3d/python-net/aspose.threed.profiles/hollowcircleshape)

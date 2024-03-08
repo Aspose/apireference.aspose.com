@@ -8,14 +8,15 @@ url: /net/aspose.threed.render/itexturecubemap/tobitmap/
 ---
 ## ITextureCubemap.ToBitmap method
 
-Convert the texture unit to Bitmap instance
+Convert the texture unit to [`TextureData`](../../texturedata) instance
 
 ```csharp
-public Bitmap ToBitmap(CubeFace side)
+public TextureData ToBitmap(CubeFace side)
 ```
 
 ### See Also
 
+* class [TextureData](../../texturedata)
 * enum [CubeFace](../../cubeface)
 * interface [ITextureCubemap](../../itexturecubemap)
 * namespace [Aspose.ThreeD.Render](../../itexturecubemap)

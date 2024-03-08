@@ -3,7 +3,7 @@ title: VerticesToArray
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.threed.entities/trimesh/verticestoarray/
 ---
 ## TriMesh.VerticesToArray method

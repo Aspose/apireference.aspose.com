@@ -3,7 +3,7 @@ title: ScissorTest
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /net/aspose.threed.render/renderstate/scissortest/
 ---
 ## RenderState.ScissorTest property

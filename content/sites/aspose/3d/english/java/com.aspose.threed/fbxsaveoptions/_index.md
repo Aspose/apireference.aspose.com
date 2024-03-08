@@ -3,7 +3,7 @@ title: FbxSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for Fbx file.
 type: docs
-weight: 60
+weight: 61
 url: /java/com.aspose.threed/fbxsaveoptions/
 ---
 
@@ -30,6 +30,7 @@ Save options for Fbx file.
 | [getEnableCompression()](#getEnableCompression--) | Compression large binary data in the FBX file(e.g. |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
 | [getExportLegacyMaterialProperties()](#getExportLegacyMaterialProperties--) | Gets whether export legacy material properties, used for back compatibility. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
 | [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
 | [getFileSystem()](#getFileSystem--) | Allow user to handle how to manage the external dependencies during load/save. |
@@ -46,6 +47,7 @@ Save options for Fbx file.
 | [setEnableCompression(boolean value)](#setEnableCompression-boolean-) | Compression large binary data in the FBX file(e.g. |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportLegacyMaterialProperties(boolean value)](#setExportLegacyMaterialProperties-boolean-) | Sets whether export legacy material properties, used for back compatibility. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
 | [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
 | [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
@@ -146,6 +148,16 @@ public boolean getExportLegacyMaterialProperties()
 
 
 Gets whether export legacy material properties, used for back compatibility. This option is turned on by default.
+
+**Returns:**
+boolean
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
 
 **Returns:**
 boolean
@@ -317,6 +329,19 @@ Sets whether export legacy material properties, used for back compatibility. Thi
 | --- | --- | --- |
 | value | boolean | New value |
 
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
 ### setFileName(String value) {#setFileName-java.lang.String-}
 ```
 public void setFileName(String value)
@@ -441,7 +466,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

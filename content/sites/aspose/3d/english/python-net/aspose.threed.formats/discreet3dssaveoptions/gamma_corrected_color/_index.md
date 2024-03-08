@@ -3,8 +3,8 @@ title: gamma_corrected_color property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /python-net/aspose.threed.formats/discreet3dssaveoptions/gamma_corrected_color/
+weight: 140
+url: /aspose.threed.formats/discreet3dssaveoptions/gamma_corrected_color/
 is_root: false
 ---
 
@@ -25,5 +25,5 @@ def gamma_corrected_color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)

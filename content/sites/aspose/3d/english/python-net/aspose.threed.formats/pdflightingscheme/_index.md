@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /python-net/aspose.threed.formats/pdflightingscheme/
+url: /aspose.threed.formats/pdflightingscheme/
 is_root: false
 ---
 
@@ -35,4 +35,4 @@ The PdfLightingScheme type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
+* module [`aspose.threed.formats`](..)

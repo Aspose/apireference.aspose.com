@@ -3,7 +3,7 @@ title: CustomObject
 second_title: Aspose.3D for Java API Reference
 description: Meta data or custom objects used in 3D files are managed by this class.
 type: docs
-weight: 35
+weight: 36
 url: /java/com.aspose.threed/customobject/
 ---
 
@@ -240,7 +240,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

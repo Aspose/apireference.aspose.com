@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed/globaltransform/transform_matrix/
+url: /aspose.threed/globaltransform/transform_matrix/
 is_root: false
 ---
 
@@ -32,6 +32,6 @@ def transform_matrix(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed`](../../)
+* class [`GlobalTransform`](/3d/python-net/aspose.threed/globaltransform)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

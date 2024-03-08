@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /python-net/aspose.threed.shading/texturebase/wrap_mode_w/
+url: /aspose.threed.shading/texturebase/wrap_mode_w/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def wrap_mode_w(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
-* class [WrapMode](/3d/python-net/aspose.threed.shading/wrapmode)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)
+* class [`WrapMode`](/3d/python-net/aspose.threed.shading/wrapmode)

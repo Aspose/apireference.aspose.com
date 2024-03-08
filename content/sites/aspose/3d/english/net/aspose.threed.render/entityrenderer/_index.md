@@ -3,7 +3,7 @@ title: EntityRenderer
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1780
+weight: 1830
 url: /net/aspose.threed.render/entityrenderer/
 ---
 ## EntityRenderer class

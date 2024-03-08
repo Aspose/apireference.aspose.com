@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.profiles/profile/set_property/
+url: /aspose.threed.profiles/profile/set_property/
 is_root: false
 ---
 
-## set_property(property, value) {#str-any}
+## set_property {#str-any}
 
 Sets the value of specified property
 
@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
+* module [`aspose.threed.profiles`](../../)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)

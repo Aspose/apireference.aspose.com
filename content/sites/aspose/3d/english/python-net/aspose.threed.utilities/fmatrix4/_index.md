@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.utilities/fmatrix4/
+url: /aspose.threed.utilities/fmatrix4/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The FMatrix4 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FMatrix4(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33)](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float) | Initialize the instance of [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) |
-| [FMatrix4(mat)](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#Matrix4) | Initialize the instance of [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) from a [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
-| [FMatrix4(r0, r1, r2, r3)](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#FVector4-FVector4-FVector4-FVector4) | Constructs matrix from 4 rows. |
-| [FMatrix4()](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#) | Constructs a new instance of FMatrix4 |
+| [__init__](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float) | Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) |
+| [__init__](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#aspose.threed.utilities.Matrix4) | Initialize the instance of [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) from a [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
+| [__init__](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4) | Constructs matrix from 4 rows. |
+| [__init__](/3d/python-net/aspose.threed.utilities/fmatrix4/__init__/#) | Constructs a new instance of FMatrix4 |
 
 
 ### Properties
@@ -50,14 +50,14 @@ The FMatrix4 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [concatenate(m2)](/3d/python-net/aspose.threed.utilities/fmatrix4/concatenate/#FMatrix4) | Concatenates the two matrices |
-| [concatenate(m2)](/3d/python-net/aspose.threed.utilities/fmatrix4/concatenate/#Matrix4) | Concatenates the two matrices |
-| [transpose()](/3d/python-net/aspose.threed.utilities/fmatrix4/transpose/#) | Transposes this instance. |
-| [inverse()](/3d/python-net/aspose.threed.utilities/fmatrix4/inverse/#) | Calculate the inverse matrix of current instance. |
+| [concatenate](/3d/python-net/aspose.threed.utilities/fmatrix4/concatenate/#aspose.threed.utilities.FMatrix4) | Concatenates the two matrices |
+| [concatenate](/3d/python-net/aspose.threed.utilities/fmatrix4/concatenate/#aspose.threed.utilities.Matrix4) | Concatenates the two matrices |
+| [transpose](/3d/python-net/aspose.threed.utilities/fmatrix4/transpose/#) | Transposes this instance. |
+| [inverse](/3d/python-net/aspose.threed.utilities/fmatrix4/inverse/#) | Calculate the inverse matrix of current instance. |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](..)
+* class [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

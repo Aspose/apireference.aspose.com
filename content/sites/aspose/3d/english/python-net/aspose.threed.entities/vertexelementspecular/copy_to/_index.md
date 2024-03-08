@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.entities/vertexelementspecular/copy_to/
+url: /aspose.threed.entities/vertexelementspecular/copy_to/
 is_root: false
 ---
 
-## copy_to(target) {#VertexElementVector4}
+## copy_to {#aspose.threed.entities.VertexElementVector4}
 
 Copies data to specified element
 
@@ -22,10 +22,10 @@ def copy_to(self, target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) | Target. |
+| target | [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) | Target. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular)

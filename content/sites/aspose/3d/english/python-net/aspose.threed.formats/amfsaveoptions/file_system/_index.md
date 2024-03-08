@@ -3,8 +3,8 @@ title: file_system property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /python-net/aspose.threed.formats/amfsaveoptions/file_system/
+weight: 80
+url: /aspose.threed.formats/amfsaveoptions/file_system/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def file_system(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+* module [`aspose.threed.formats`](../../)
+* class [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)

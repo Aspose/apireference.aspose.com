@@ -3,7 +3,7 @@ title: DracoCompressionLevel
 second_title: Aspose.3D for Java API Reference
 description: Compression level for draco file
 type: docs
-weight: 247
+weight: 259
 url: /java/com.aspose.threed/dracocompressionlevel/
 ---
 
@@ -242,7 +242,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

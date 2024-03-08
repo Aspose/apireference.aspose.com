@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /python-net/aspose.threed.entities/patch/receive_shadows/
+url: /aspose.threed.entities/patch/receive_shadows/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def receive_shadows(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Patch](/3d/python-net/aspose.threed.entities/patch)
+* module [`aspose.threed.entities`](../../)
+* class [`Patch`](/3d/python-net/aspose.threed.entities/patch)

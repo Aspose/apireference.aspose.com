@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.animation/keyframe/bias/
+url: /aspose.threed.animation/keyframe/bias/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def bias(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyFrame`](/3d/python-net/aspose.threed.animation/keyframe)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.entities/ellipse/get_entity_renderer_key/
+url: /aspose.threed.entities/ellipse/get_entity_renderer_key/
 is_root: false
 ---
 
-## get_entity_renderer_key() {#}
+## get_entity_renderer_key {#}
 
 Gets the key of the entity renderer registered in the renderer
 
@@ -29,6 +29,6 @@ def get_entity_renderer_key(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Ellipse](/3d/python-net/aspose.threed.entities/ellipse)
-* class [EntityRendererKey](/3d/python-net/aspose.threed.render/entityrendererkey)
+* module [`aspose.threed.entities`](../../)
+* class [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
+* class [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey)

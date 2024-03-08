@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 230
-url: /python-net/aspose.threed.formats/rvmformat/
+url: /aspose.threed.formats/rvmformat/
 is_root: false
 ---
 
@@ -14,8 +14,8 @@ The RVM Format
 
 
 
-**Inheritance:** [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat) → 
-[FileFormat](/3d/python-net/aspose.threed/fileformat)
+**Inheritance:** [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat) → 
+[`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 
 
 
@@ -24,6 +24,7 @@ The RvmFormat type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [version](/3d/python-net/aspose.threed.formats/rvmformat/version) | Gets file format version |
 | [can_export](/3d/python-net/aspose.threed.formats/rvmformat/can_export) | Gets whether Aspose.3D supports export scene to current file format. |
 | [can_import](/3d/python-net/aspose.threed.formats/rvmformat/can_import) | Gets whether Aspose.3D supports import scene from current file format. |
 | [extension](/3d/python-net/aspose.threed.formats/rvmformat/extension) | Gets the extension name of this type. |
@@ -66,6 +67,7 @@ The RvmFormat type exposes the following members:
 | [RVM_TEXT](/3d/python-net/aspose.threed.formats/rvmformat/rvm_text) | AVEVA Plant Design Management System Model in text format |
 | [RVM_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/rvm_binary) | AVEVA Plant Design Management System Model in binary format |
 | [ASE](/3d/python-net/aspose.threed.formats/rvmformat/ase) | 3D Studio Max's ASCII Scene Exporter format. |
+| [IFC](/3d/python-net/aspose.threed.formats/rvmformat/ifc) | ISO 16739-1 Industry Foundation Classes data model. |
 | [SIEMENS_JT8](/3d/python-net/aspose.threed.formats/rvmformat/siemens_jt8) | Siemens JT File Version 8 |
 | [SIEMENS_JT9](/3d/python-net/aspose.threed.formats/rvmformat/siemens_jt9) | Siemens JT File Version 9 |
 | [AMF](/3d/python-net/aspose.threed.formats/rvmformat/amf) | Additive manufacturing file format |
@@ -74,6 +76,7 @@ The RvmFormat type exposes the following members:
 | [HTML5](/3d/python-net/aspose.threed.formats/rvmformat/html5) | HTML5 File |
 | [ZIP](/3d/python-net/aspose.threed.formats/rvmformat/zip) | Zip archive that contains other 3d file format. |
 | [USD](/3d/python-net/aspose.threed.formats/rvmformat/usd) | Universal Scene Description |
+| [USDA](/3d/python-net/aspose.threed.formats/rvmformat/usda) | Universal Scene Description in ASCII format. |
 | [USDZ](/3d/python-net/aspose.threed.formats/rvmformat/usdz) | Compressed Universal Scene Description |
 | [XYZ](/3d/python-net/aspose.threed.formats/rvmformat/xyz) | Xyz point cloud file |
 | [PCD](/3d/python-net/aspose.threed.formats/rvmformat/pcd) | PCL Point Cloud Data file in ASCII mode |
@@ -83,17 +86,17 @@ The RvmFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/rvmformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
-| [detect(file_name)](/3d/python-net/aspose.threed.formats/rvmformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [load_attributes(scene, file_name, prefix)](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#Scene-str-str) | Load the attributes from specified file name |
-| [load_attributes(scene, stream, prefix)](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#Scene-io.RawIOBase-str) | Load the attributes from specified stream |
-| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/rvmformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
-| [create_load_options()](/3d/python-net/aspose.threed.formats/rvmformat/create_load_options/#) | Create a default load options for this file format |
-| [create_save_options()](/3d/python-net/aspose.threed.formats/rvmformat/create_save_options/#) | Create a default save options for this file format |
+| [detect](/3d/python-net/aspose.threed.formats/rvmformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect](/3d/python-net/aspose.threed.formats/rvmformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
+| [load_attributes](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#aspose.threed.Scene-str-str) | Load the attributes from specified file name |
+| [load_attributes](/3d/python-net/aspose.threed.formats/rvmformat/load_attributes/#aspose.threed.Scene-io.RawIOBase-str) | Load the attributes from specified stream |
+| [get_format_by_extension](/3d/python-net/aspose.threed.formats/rvmformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
+| [create_load_options](/3d/python-net/aspose.threed.formats/rvmformat/create_load_options/#) | Create a default load options for this file format |
+| [create_save_options](/3d/python-net/aspose.threed.formats/rvmformat/create_save_options/#) | Create a default save options for this file format |
 
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](..)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

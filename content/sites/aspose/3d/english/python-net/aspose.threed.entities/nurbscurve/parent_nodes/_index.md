@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /python-net/aspose.threed.entities/nurbscurve/parent_nodes/
+url: /aspose.threed.entities/nurbscurve/parent_nodes/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve)

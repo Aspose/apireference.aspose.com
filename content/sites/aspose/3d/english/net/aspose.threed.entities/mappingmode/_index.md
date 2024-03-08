@@ -3,7 +3,7 @@ title: MappingMode
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 470
 url: /net/aspose.threed.entities/mappingmode/
 ---
 ## MappingMode enumeration

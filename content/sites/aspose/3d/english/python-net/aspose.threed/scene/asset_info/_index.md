@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed/scene/asset_info/
+url: /aspose.threed/scene/asset_info/
 is_root: false
 ---
 
@@ -36,6 +36,6 @@ def asset_info(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

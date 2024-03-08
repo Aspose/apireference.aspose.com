@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.entities/line/from_points/
+url: /aspose.threed.entities/line/from_points/
 is_root: false
 ---
 
-## from_points(points) {#list}
+## from_points {#list}
 
-Construct a [Line](/3d/python-net/aspose.threed.entities/line) instance from a set of points.
+Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a set of points.
 
 
 ### Returns 
@@ -32,5 +32,5 @@ def from_points(self, points):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Line](/3d/python-net/aspose.threed.entities/line)
+* module [`aspose.threed.entities`](../../)
+* class [`Line`](/3d/python-net/aspose.threed.entities/line)

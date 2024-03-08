@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /python-net/aspose.threed.formats/objloadoptions/scale/
+url: /aspose.threed.formats/objloadoptions/scale/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def scale(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions)

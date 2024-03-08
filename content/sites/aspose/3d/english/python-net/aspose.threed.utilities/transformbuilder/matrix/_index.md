@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /python-net/aspose.threed.utilities/transformbuilder/matrix/
+url: /aspose.threed.utilities/transformbuilder/matrix/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def matrix(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

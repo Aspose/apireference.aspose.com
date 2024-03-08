@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed/property/get_bind_point/
+url: /aspose.threed/property/get_bind_point/
 is_root: false
 ---
 
-## get_bind_point(anim, create) {#aspose.threed.animation.AnimationNode-bool}
+## get_bind_point {#aspose.threed.animation.AnimationNode-bool}
 
 Gets the property bind point on specified animation instance.
 
@@ -33,6 +33,6 @@ def get_bind_point(self, anim, create):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
-* class [Property](/3d/python-net/aspose.threed/property)
+* module [`aspose.threed`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)
+* class [`Property`](/3d/python-net/aspose.threed/property)

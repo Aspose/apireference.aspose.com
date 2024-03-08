@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed/bonepose/is_local/
+url: /aspose.threed/bonepose/is_local/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def is_local(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [BonePose](/3d/python-net/aspose.threed/bonepose)
+* module [`aspose.threed`](../../)
+* class [`BonePose`](/3d/python-net/aspose.threed/bonepose)

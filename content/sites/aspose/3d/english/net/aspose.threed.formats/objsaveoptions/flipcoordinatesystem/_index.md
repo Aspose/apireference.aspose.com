@@ -3,7 +3,7 @@ title: FlipCoordinateSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.threed.formats/objsaveoptions/flipcoordinatesystem/
 ---
 ## ObjSaveOptions.FlipCoordinateSystem property

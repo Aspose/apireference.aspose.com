@@ -19,6 +19,14 @@ public TransformBuilder RotateDegree(double angle, Vector3 axis)
 | angle | Double | The angle to rotate in degree |
 | axis | Vector3 | The axis to rotate |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.RotateDegree(90, Vector3.YAxis);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.entities/nurbsdirection/type/
+url: /aspose.threed.entities/nurbsdirection/type/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection)
-* class [NurbsType](/3d/python-net/aspose.threed.entities/nurbstype)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsDirection`](/3d/python-net/aspose.threed.entities/nurbsdirection)
+* class [`NurbsType`](/3d/python-net/aspose.threed.entities/nurbstype)

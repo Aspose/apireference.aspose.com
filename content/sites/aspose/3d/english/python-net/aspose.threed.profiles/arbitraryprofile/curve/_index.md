@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /python-net/aspose.threed.profiles/arbitraryprofile/curve/
+url: /aspose.threed.profiles/arbitraryprofile/curve/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def curve(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
+* module [`aspose.threed.profiles`](../../)
+* class [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/matrix4/__init__/
+url: /aspose.threed.utilities/matrix4/__init__/
 is_root: false
 ---
 
-## Matrix4() {#}
+## __init__ {#}
 
 Constructs a new instance of Matrix4
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Matrix4(m) {#FMatrix4}
+## __init__ {#aspose.threed.utilities.FMatrix4}
 
-Construct [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) from an [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) instance
+Construct [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) from an [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) instance
 
 
 
@@ -36,12 +36,12 @@ def __init__(self, m):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m | [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) |  |
+| m | [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) |  |
 
 
-## Matrix4(m) {#list}
+## __init__ {#list}
 
-Initializes a new instance of the [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) struct.
+Initializes a new instance of the [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) struct.
 
 
 
@@ -56,7 +56,7 @@ def __init__(self, m):
 | m | list | M. |
 
 
-## Matrix4(r0, r1, r2, r3) {#Vector4-Vector4-Vector4-Vector4}
+## __init__ {#aspose.threed.utilities.Vector4-aspose.threed.utilities.Vector4-aspose.threed.utilities.Vector4-aspose.threed.utilities.Vector4}
 
 Constructs matrix from 4 rows.
 
@@ -70,15 +70,15 @@ def __init__(self, r0, r1, r2, r3):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| r0 | [Vector4](/3d/python-net/aspose.threed.utilities/vector4) | R0. |
-| r1 | [Vector4](/3d/python-net/aspose.threed.utilities/vector4) | R1. |
-| r2 | [Vector4](/3d/python-net/aspose.threed.utilities/vector4) | R2. |
-| r3 | [Vector4](/3d/python-net/aspose.threed.utilities/vector4) | R3. |
+| r0 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R0. |
+| r1 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R1. |
+| r2 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R2. |
+| r3 | [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4) | R3. |
 
 
-## Matrix4(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
+## __init__ {#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float}
 
-Initializes a new instance of the [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) struct.
+Initializes a new instance of the [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) struct.
 
 
 
@@ -110,6 +110,6 @@ def __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](../../)
+* class [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.utilities/quaternion/to_angle_axis/
+url: /aspose.threed.utilities/quaternion/to_angle_axis/
 is_root: false
 ---
 
-## to_angle_axis(angle, axis) {#any-any}
+## to_angle_axis {#any-any}
 
 
 
@@ -28,5 +28,5 @@ def to_angle_axis(self, angle, axis):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

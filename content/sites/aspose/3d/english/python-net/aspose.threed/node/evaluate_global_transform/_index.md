@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed/node/evaluate_global_transform/
+url: /aspose.threed/node/evaluate_global_transform/
 is_root: false
 ---
 
-## evaluate_global_transform(with_geometric_transform) {#bool}
+## evaluate_global_transform {#bool}
 
 Evaluate the global transform, include the geometric transform or not.
 
@@ -51,6 +51,6 @@ print(f"The box's global transform matrix is {mat}")
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)
+* class [`Node`](/3d/python-net/aspose.threed/node)

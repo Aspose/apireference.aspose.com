@@ -26,6 +26,7 @@ public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFo
 
 ### See Also
 
+* enum [PixelFormat](../../pixelformat)
 * class [TextureData](../../texturedata)
 * namespace [Aspose.ThreeD.Render](../../texturedata)
 * assembly [Aspose.3D](../../../)
@@ -34,21 +35,17 @@ public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFo
 
 ## TextureData constructor (2 of 3)
 
-Constructor of [`TextureData`](../../texturedata)
+Constructs a new [`TextureData`](../../texturedata) and allocate pixel data.
 
 ```csharp
-public TextureData(int width, int height, int stride, int bytesPerPixel, PixelFormat pixelFormat, 
-    byte[] data)
+public TextureData(int width, int height, PixelFormat pixelFormat)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | width | Int32 |  |
 | height | Int32 |  |
-| stride | Int32 |  |
-| bytesPerPixel | Int32 |  |
 | pixelFormat | PixelFormat |  |
-| data | Byte[] |  |
 
 ### See Also
 

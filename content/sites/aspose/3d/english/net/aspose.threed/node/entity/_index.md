@@ -18,6 +18,17 @@ public Entity Entity { get; set; }
 
 The node entity.
 
+### Examples
+
+The following code shows how to create a new child node under root node
+
+```csharp
+Scene scene = new Scene();
+Node node = scene.RootNode.CreateChildNode("new node");
+node.Entity = new Box();
+scene.Save("output.fbx");
+```
+
 ### See Also
 
 * class [Entity](../../entity)

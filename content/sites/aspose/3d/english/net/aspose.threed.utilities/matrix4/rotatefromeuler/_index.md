@@ -18,6 +18,16 @@ public static Matrix4 RotateFromEuler(Vector3 eul)
 | --- | --- | --- |
 | eul | Vector3 | Rotation in radian |
 
+### Examples
+
+The following code shows how to create a matrix for rotate operation.
+
+```csharp
+var t = Matrix4.RotateFromEuler(new Vector3(0, Math.PI, 0));
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)
@@ -40,6 +50,16 @@ public static Matrix4 RotateFromEuler(double rx, double ry, double rz)
 | rx | Double | Rotation in x axis in radian |
 | ry | Double | Rotation in y axis in radian |
 | rz | Double | Rotation in z axis in radian |
+
+### Examples
+
+The following code shows how to create a matrix for rotate operation.
+
+```csharp
+var t = Matrix4.RotateFromEuler(0, Math.PI, 0);
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
 
 ### See Also
 

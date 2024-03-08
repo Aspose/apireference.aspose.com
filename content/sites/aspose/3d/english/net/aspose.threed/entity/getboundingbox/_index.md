@@ -14,6 +14,16 @@ Gets the bounding box of current entity in its object space coordinate system.
 public BoundingBox GetBoundingBox()
 ```
 
+### Examples
+
+The following code shows how to calculate the bounding box of a shape
+
+```csharp
+Entity entity = new Sphere() { Radius = 10 };
+var bbox = entity.GetBoundingBox();
+Console.WriteLine($"The bounding box of the entity is {bbox.Minimum} ~ {bbox.Maximum}");
+```
+
 ### See Also
 
 * struct [BoundingBox](../../../aspose.threed.utilities/boundingbox)

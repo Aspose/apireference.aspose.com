@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /python-net/aspose.threed.render/iindexbuffer/
+url: /aspose.threed.render/iindexbuffer/
 is_root: false
 ---
 
@@ -27,15 +27,15 @@ The IIndexBuffer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [load_data(mesh)](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#aspose.threed.entities.TriMesh) | Load indice data from [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) |
-| [load_data(indices)](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#list) | Load indice data |
-| [load_data(indices)](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#list) | Load indice data |
-| [load_data(indices)](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#list) | Load indice data |
-| [load_data(data)](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#bytes) | Load the data into current buffer |
+| [load_data](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#aspose.threed.entities.TriMesh) | Load indice data from [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
+| [load_data](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#list) | Load indice data |
+| [load_data](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#list) | Load indice data |
+| [load_data](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#list) | Load indice data |
+| [load_data](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#bytes) | Load the data into current buffer |
 
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [IBuffer](/3d/python-net/aspose.threed.render/ibuffer)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.render`](..)
+* class [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.render/itexture1d/save/
+url: /aspose.threed.render/itexture1d/save/
 is_root: false
 ---
 
-## save(bitmap) {#aspose.pydrawing.Bitmap}
+## save {#aspose.threed.render.TextureData}
 
 Save the texture content to external file.
 
@@ -22,10 +22,10 @@ def save(self, bitmap):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| bitmap | aspose.pydrawing.Bitmap | Result bitmap to save. |
+| bitmap | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) | Result bitmap to save. |
 
 
-## save(path, format) {#str-aspose.pydrawing.imaging.ImageFormat}
+## save {#str-str}
 
 Save the texture content to external file.
 
@@ -40,7 +40,7 @@ def save(self, path, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | path | str | File name to save. |
-| format | aspose.pydrawing.imaging.ImageFormat | Image format |
+| format | str | Image format |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -51,5 +51,5 @@ def save(self, path, format):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITexture1D](/3d/python-net/aspose.threed.render/itexture1d)
+* module [`aspose.threed.render`](../../)
+* class [`ITexture1D`](/3d/python-net/aspose.threed.render/itexture1d)

@@ -3,8 +3,8 @@ title: transform_style property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /python-net/aspose.threed.formats/colladasaveoptions/transform_style/
+weight: 100
+url: /aspose.threed.formats/colladasaveoptions/transform_style/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def transform_style(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
-* class [ColladaTransformStyle](/3d/python-net/aspose.threed.formats/colladatransformstyle)
+* module [`aspose.threed.formats`](../../)
+* class [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+* class [`ColladaTransformStyle`](/3d/python-net/aspose.threed.formats/colladatransformstyle)

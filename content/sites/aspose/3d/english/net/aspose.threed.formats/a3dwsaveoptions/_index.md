@@ -3,7 +3,7 @@ title: A3dwSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1020
+weight: 1050
 url: /net/aspose.threed.formats/a3dwsaveoptions/
 ---
 ## A3dwSaveOptions class
@@ -26,6 +26,7 @@ public class A3dwSaveOptions : SaveOptions
 | --- | --- |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
 | [ExportMetaData](../../aspose.threed.formats/a3dwsaveoptions/exportmetadata) { get; set; } | Export meta data associated with Scene/Node to client Default value is true |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |

@@ -3,7 +3,7 @@ title: FromScale
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.threed.utilities/relativerectangle/fromscale/
 ---
 ## RelativeRectangle.FromScale method

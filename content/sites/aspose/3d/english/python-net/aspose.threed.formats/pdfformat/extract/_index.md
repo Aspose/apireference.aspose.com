@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.formats/pdfformat/extract/
+url: /aspose.threed.formats/pdfformat/extract/
 is_root: false
 ---
 
-## extract(file_name, password) {#str-bytes}
+## extract {#str-bytes}
 
 Extract raw 3D content from PDF file.
 
@@ -31,7 +31,7 @@ def extract(self, file_name, password):
 | password | bytes |  |
 
 
-## extract(stream, password) {#io.RawIOBase-bytes}
+## extract {#io.RawIOBase-bytes}
 
 Extract raw 3D content from PDF stream.
 
@@ -56,5 +56,5 @@ def extract(self, stream, password):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

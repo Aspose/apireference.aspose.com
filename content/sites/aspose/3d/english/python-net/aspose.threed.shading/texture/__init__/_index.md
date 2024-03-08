@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.shading/texture/__init__/
+url: /aspose.threed.shading/texture/__init__/
 is_root: false
 ---
 
-## Texture() {#}
+## __init__ {#}
 
-Initializes a new instance of the [Texture](/3d/python-net/aspose.threed.shading/texture) class.
+Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Texture(name) {#str}
+## __init__ {#str}
 
-Initializes a new instance of the [Texture](/3d/python-net/aspose.threed.shading/texture) class.
+Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* module [`aspose.threed.shading`](../../)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)

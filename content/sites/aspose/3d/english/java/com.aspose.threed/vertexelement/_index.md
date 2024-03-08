@@ -3,7 +3,7 @@ title: VertexElement
 second_title: Aspose.3D for Java API Reference
 description: Base class of vertex elements.
 type: docs
-weight: 186
+weight: 193
 url: /java/com.aspose.threed/vertexelement/
 ---
 
@@ -237,7 +237,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

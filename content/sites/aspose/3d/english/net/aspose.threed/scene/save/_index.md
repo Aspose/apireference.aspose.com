@@ -19,6 +19,18 @@ public void Save(Stream stream, FileFormat format)
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | format | FileFormat | Format. |
 
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+using(var ms = new MemoryStream())
+{
+    scene.Save(ms, FileFormat.USDZ);
+}
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)
@@ -42,6 +54,19 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 | format | FileFormat | Format. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+var cts = new CancellationTokenSource();
+using(var ms = new MemoryStream())
+{
+    scene.Save(ms, FileFormat.USDZ, cts.Token);
+}
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)
@@ -63,6 +88,20 @@ public void Save(Stream stream, SaveOptions options)
 | --- | --- | --- |
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | options | SaveOptions | More detailed configuration to save the stream. |
+
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+var opt = new UsdSaveOptions();
+opt.PrimitiveToMesh = true;
+using(var ms = new MemoryStream())
+{
+    scene.Save(ms, opt);
+}
+```
 
 ### See Also
 
@@ -87,6 +126,21 @@ public void Save(Stream stream, SaveOptions options, CancellationToken cancellat
 | options | SaveOptions | More detailed configuration to save the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+var cts = new CancellationTokenSource();
+var opt = new UsdSaveOptions();
+opt.PrimitiveToMesh = true;
+using(var ms = new MemoryStream())
+{
+    scene.Save(ms, opt, cts.Token);
+}
+```
+
 ### See Also
 
 * class [SaveOptions](../../../aspose.threed.formats/saveoptions)
@@ -108,6 +162,15 @@ public void Save(string fileName)
 | --- | --- | --- |
 | fileName | String | File name. |
 
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+scene.Save("output.usdz");
+```
+
 ### See Also
 
 * class [Scene](../../scene)
@@ -128,6 +191,15 @@ public void Save(string fileName, FileFormat format)
 | --- | --- | --- |
 | fileName | String | File name. |
 | format | FileFormat | Format. |
+
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+scene.Save("output.usdz", FileFormat.USDZ);
+```
 
 ### See Also
 
@@ -152,6 +224,16 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 | format | FileFormat | Format. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+var cts = new CancellationTokenSource();
+Scene scene = Scene.FromFile("input.fbx");
+scene.Save("output.usdz", FileFormat.USDZ, cts.Token);
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)
@@ -173,6 +255,17 @@ public void Save(string fileName, SaveOptions options)
 | --- | --- | --- |
 | fileName | String | File name. |
 | options | SaveOptions | More detailed configuration to save the stream. |
+
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+var scene = Scene.FromFile("input.fbx");
+var opts = new UsdSaveOptions();
+opts.PrimitiveToMesh = true;
+scene.Save("output.usdz", opts);
+```
 
 ### See Also
 
@@ -196,6 +289,18 @@ public void Save(string fileName, SaveOptions options, CancellationToken cancell
 | fileName | String | File name. |
 | options | SaveOptions | More detailed configuration to save the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
+
+### Examples
+
+The following code shows how to save scene
+
+```csharp
+var cts = new CancellationTokenSource();
+var scene = Scene.FromFile("input.fbx");
+var opts = new UsdSaveOptions();
+opts.PrimitiveToMesh = true;
+scene.Save("output.usdz", opts, cts.Token);
+```
 
 ### See Also
 

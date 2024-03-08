@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.render/iindexbuffer/count/
+url: /aspose.threed.render/iindexbuffer/count/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def count(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IIndexBuffer](/3d/python-net/aspose.threed.render/iindexbuffer)
+* module [`aspose.threed.render`](../../)
+* class [`IIndexBuffer`](/3d/python-net/aspose.threed.render/iindexbuffer)

@@ -18,6 +18,16 @@ public Matrix4 Transpose()
 
 The transposed matrix.
 
+### Examples
+
+The following code shows how to transpose a matrix
+
+```csharp
+var t = Matrix4.Translate(0, 10, 9);
+var mat = t.Transpose();
+Console.WriteLine($"Transposed Matrix: {mat}");
+```
+
 ### See Also
 
 * struct [Matrix4](../../matrix4)

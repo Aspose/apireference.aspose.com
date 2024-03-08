@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.entities/revolvedareasolid/angle_end/
+url: /aspose.threed.entities/revolvedareasolid/angle_end/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def angle_end(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* module [`aspose.threed.entities`](../../)
+* class [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid)

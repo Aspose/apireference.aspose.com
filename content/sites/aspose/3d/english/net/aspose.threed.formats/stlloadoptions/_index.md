@@ -3,7 +3,7 @@ title: StlLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1350
+weight: 1380
 url: /net/aspose.threed.formats/stlloadoptions/
 ---
 ## StlLoadOptions class
@@ -29,7 +29,6 @@ public class StlLoadOptions : LoadOptions
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |
-| [FlipCoordinateSystem](../../aspose.threed.formats/stlloadoptions/flipcoordinatesystem) { get; set; } | Gets or sets whether to flip coordinate system of control points/normal during importing. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [RecalculateNormal](../../aspose.threed.formats/stlloadoptions/recalculatenormal) { get; set; } | Ignore the normal data that stored in STL file and recalculate the normal data based on the vertex position. Default value is false |
 

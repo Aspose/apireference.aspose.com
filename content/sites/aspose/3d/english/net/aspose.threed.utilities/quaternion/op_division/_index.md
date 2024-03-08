@@ -3,7 +3,7 @@ title: op_Division
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.threed.utilities/quaternion/op_division/
 ---
 ## Quaternion Division operator

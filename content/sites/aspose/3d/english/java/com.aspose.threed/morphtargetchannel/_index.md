@@ -3,7 +3,7 @@ title: MorphTargetChannel
 second_title: Aspose.3D for Java API Reference
 description: A MorphTargetChannel is used by  to organize the target geometries.
 type: docs
-weight: 96
+weight: 99
 url: /java/com.aspose.threed/morphtargetchannel/
 ---
 
@@ -13,7 +13,7 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public class MorphTargetChannel extends A3DObject
 ```
 
-A MorphTargetChannel is used by [MorphTargetDeformer](../../com.aspose.threed/morphtargetdeformer) to organize the target geometries. Some file formats like FBX support multiple channels in parallel.
+A MorphTargetChannel is used by [MorphTargetDeformer](../../com.aspose.threed/morphtargetdeformer) to organize the target geometries. Some file formats like FBX support multiple channels in parallel. **Remarks:** Weight is between 0 and 1.0, and default weight for target is 0.0;
 ## Constructors
 
 | Constructor | Description |
@@ -376,7 +376,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

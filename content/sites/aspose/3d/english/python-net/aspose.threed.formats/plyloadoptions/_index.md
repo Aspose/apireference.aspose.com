@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /python-net/aspose.threed.formats/plyloadoptions/
+url: /aspose.threed.formats/plyloadoptions/
 is_root: false
 ---
 
@@ -14,9 +14,9 @@ Load options for PLY files
 
 
 
-**Inheritance:** [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The PlyLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PlyLoadOptions()](/3d/python-net/aspose.threed.formats/plyloadoptions/__init__/#) | Constructor of [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/plyloadoptions/__init__/#) | Constructor of [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) |
 
 
 ### Properties
@@ -41,7 +41,7 @@ The PlyLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
-* class [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions)

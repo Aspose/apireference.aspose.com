@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/dracoformat/decode/
+url: /aspose.threed.formats/dracoformat/decode/
 is_root: false
 ---
 
-## decode(file_name) {#str}
+## decode {#str}
 
 Decode the point cloud or mesh from specified file name
 
@@ -16,7 +16,7 @@ Decode the point cloud or mesh from specified file name
 ### Returns 
 
 
-A [Mesh](/3d/python-net/aspose.threed.entities/mesh) or [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the file content
+A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the file content
 
 
 ```python
@@ -30,7 +30,7 @@ def decode(self, file_name):
 | file_name | str | The file name contains the drc file |
 
 
-## decode(data) {#bytes}
+## decode {#bytes}
 
 Decode the point cloud or mesh from memory data
 
@@ -38,7 +38,7 @@ Decode the point cloud or mesh from memory data
 ### Returns 
 
 
-A [Mesh](/3d/python-net/aspose.threed.entities/mesh) or [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the content
+A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the content
 
 
 ```python
@@ -54,8 +54,8 @@ def decode(self, data):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)

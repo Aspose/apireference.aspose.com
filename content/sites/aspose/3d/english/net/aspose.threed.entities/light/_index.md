@@ -3,7 +3,7 @@ title: Light
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 400
+weight: 430
 url: /net/aspose.threed.entities/light/
 ---
 ## Light class

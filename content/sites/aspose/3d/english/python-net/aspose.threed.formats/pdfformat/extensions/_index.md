@@ -3,8 +3,8 @@ title: extensions property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 610
-url: /python-net/aspose.threed.formats/pdfformat/extensions/
+weight: 630
+url: /aspose.threed.formats/pdfformat/extensions/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def extensions(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

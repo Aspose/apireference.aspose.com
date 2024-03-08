@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.entities/skeleton/size/
+url: /aspose.threed.entities/skeleton/size/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def size(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Skeleton](/3d/python-net/aspose.threed.entities/skeleton)
+* module [`aspose.threed.entities`](../../)
+* class [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton)

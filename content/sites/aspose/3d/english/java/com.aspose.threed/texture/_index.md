@@ -3,7 +3,7 @@ title: Texture
 second_title: Aspose.3D for Java API Reference
 description: This class defines the texture from an external file.
 type: docs
-weight: 165
+weight: 171
 url: /java/com.aspose.threed/texture/
 ---
 
@@ -635,7 +635,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

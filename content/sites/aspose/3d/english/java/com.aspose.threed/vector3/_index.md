@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for Java API Reference
 description: A vector with three components.
 type: docs
-weight: 182
+weight: 189
 url: /java/com.aspose.threed/vector3/
 ---
 
@@ -23,7 +23,6 @@ A vector with three components.
 | --- | --- |
 | [Vector3(double x, double y, double z)](#Vector3-double-double-double-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3(FVector3 vec)](#Vector3-com.aspose.threed.FVector3-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
-| [Vector3(Color color)](#Vector3-java.awt.Color-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3(double v)](#Vector3-double-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3(Vector4 vec4)](#Vector3-com.aspose.threed.Vector4-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3()](#Vector3--) |  |
@@ -52,12 +51,19 @@ A vector with three components.
 | [cos()](#cos--) | Calculates cosine on each component |
 | [create(Vector3 v)](#create-com.aspose.threed.Vector3-) | Explicit conversion operator to cast Vector3 to FVector3 |
 | [cross(Vector3 rhs)](#cross-com.aspose.threed.Vector3-) | Cross product of two vectors |
+| [div(Vector3 lhs, Vector3 rhs)](#div-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Operator overloading for / |
 | [div(Vector3 lhs, double rhs)](#div-com.aspose.threed.Vector3-double-) | Operator overloading for / |
 | [dot(Vector3 rhs)](#dot-com.aspose.threed.Vector3-) | Gets the dot product of two vectors |
 | [equals(Object obj)](#equals-java.lang.Object-) | Check if two vector3 equals |
+| [get(int idx)](#get-int-) | Gets vector's component by index. |
 | [getClass()](#getClass--) |  |
 | [getLength()](#getLength--) | Gets the length of this vector. |
 | [getLength2()](#getLength2--) | Gets the square of the length. |
+| [getOne()](#getOne--) | Gets unit vector (1, 1, 1) |
+| [getUnitX()](#getUnitX--) | Gets unit vector (1, 0, 0) |
+| [getUnitY()](#getUnitY--) | Gets unit vector (0, 1, 0) |
+| [getUnitZ()](#getUnitZ--) | Gets unit vector (0, 0, 1) |
+| [getZero()](#getZero--) | Gets unit vector (0, 0, 0) |
 | [hashCode()](#hashCode--) | Gets the hash code of Vector3 |
 | [mul(Vector3 lhs, Vector3 rhs)](#mul-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Operator overloading for \* |
 | [mul(Vector3 lhs, double rhs)](#mul-com.aspose.threed.Vector3-double-) | Operator overloading for \* |
@@ -69,6 +75,7 @@ A vector with three components.
 | [op_eq(Vector3 lhs, Vector3 rhs)](#op-eq-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Equal operator for Vector3 |
 | [op_ne(Vector3 lhs, Vector3 rhs)](#op-ne-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Not-equal operator for Vector3 |
 | [set(double newX, double newY, double newZ)](#set-double-double-double-) | Sets the x/y/z component in one call. |
+| [set(int idx, double value)](#set-int-double-) | Sets vector's component by index. |
 | [sin()](#sin--) | Calculates sine on each component |
 | [sub(Vector3 lhs, Vector3 rhs)](#sub-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Operator overloading for - (minus) |
 | [toString()](#toString--) | Returns a java.lang.String that represents the current [Vector3](../../com.aspose.threed/vector3). |
@@ -102,19 +109,6 @@ Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) str
 | Parameter | Type | Description |
 | --- | --- | --- |
 | vec | [FVector3](../../com.aspose.threed/fvector3) | The x coordinate. |
-
-### Vector3(Color color) {#Vector3-java.awt.Color-}
-```
-public Vector3(Color color)
-```
-
-
-Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | java.awt.Color | Color. |
 
 ### Vector3(double v) {#Vector3-double-}
 ```
@@ -337,6 +331,22 @@ Cross product of two vectors
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3) - Cross product of two [Vector3](../../com.aspose.threed/vector3)s.
+### div(Vector3 lhs, Vector3 rhs) {#div-com.aspose.threed.Vector3-com.aspose.threed.Vector3-}
+```
+public static Vector3 div(Vector3 lhs, Vector3 rhs)
+```
+
+
+Operator overloading for /
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhs | [Vector3](../../com.aspose.threed/vector3) | The left vector |
+| rhs | [Vector3](../../com.aspose.threed/vector3) | The right vector |
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - Result vector
 ### div(Vector3 lhs, double rhs) {#div-com.aspose.threed.Vector3-double-}
 ```
 public static Vector3 div(Vector3 lhs, double rhs)
@@ -383,6 +393,21 @@ Check if two vector3 equals
 
 **Returns:**
 boolean - True if all components are identically equal.
+### get(int idx) {#get-int-}
+```
+public double get(int idx)
+```
+
+
+Gets vector's component by index.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| idx | int |  |
+
+**Returns:**
+double
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -413,6 +438,56 @@ Gets the square of the length.
 
 **Returns:**
 double
+### getOne() {#getOne--}
+```
+public static Vector3 getOne()
+```
+
+
+Gets unit vector (1, 1, 1)
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getUnitX() {#getUnitX--}
+```
+public static Vector3 getUnitX()
+```
+
+
+Gets unit vector (1, 0, 0)
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getUnitY() {#getUnitY--}
+```
+public static Vector3 getUnitY()
+```
+
+
+Gets unit vector (0, 1, 0)
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getUnitZ() {#getUnitZ--}
+```
+public static Vector3 getUnitZ()
+```
+
+
+Gets unit vector (0, 0, 1)
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getZero() {#getZero--}
+```
+public static Vector3 getZero()
+```
+
+
+Gets unit vector (0, 0, 0)
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -559,6 +634,20 @@ Sets the x/y/z component in one call.
 | newY | double | The y component. |
 | newZ | double | The z component. |
 
+### set(int idx, double value) {#set-int-double-}
+```
+public void set(int idx, double value)
+```
+
+
+Sets vector's component by index.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| idx | int |  |
+| value | double | New value |
+
 ### sin() {#sin--}
 ```
 public Vector3 sin()
@@ -605,7 +694,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

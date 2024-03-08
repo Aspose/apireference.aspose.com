@@ -3,7 +3,7 @@ title: RvmLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for AVEVA Plant Design Management Systems RVM file.
 type: docs
-weight: 142
+weight: 147
 url: /java/com.aspose.threed/rvmloadoptions/
 ---
 
@@ -486,7 +486,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

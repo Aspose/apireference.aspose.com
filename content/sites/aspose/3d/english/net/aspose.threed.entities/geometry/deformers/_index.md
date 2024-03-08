@@ -11,7 +11,7 @@ url: /net/aspose.threed.entities/geometry/deformers/
 Gets all deformers associated with this geometry.
 
 ```csharp
-public ICollection<Deformer> Deformers { get; }
+public IList<Deformer> Deformers { get; }
 ```
 
 ### Property Value

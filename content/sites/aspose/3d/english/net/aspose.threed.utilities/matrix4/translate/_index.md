@@ -18,6 +18,16 @@ public static Matrix4 Translate(Vector3 t)
 | --- | --- | --- |
 | t | Vector3 | Translate offset |
 
+### Examples
+
+The following code shows how to create a matrix for translate operation.
+
+```csharp
+var t = Matrix4.Translate(new Vector3(10, 0, 0));
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)
@@ -40,6 +50,16 @@ public static Matrix4 Translate(double tx, double ty, double tz)
 | tx | Double | X-coordinate offset |
 | ty | Double | Y-coordinate offset |
 | tz | Double | Z-coordinate offset |
+
+### Examples
+
+The following code shows how to create a matrix for translate operation.
+
+```csharp
+var t = Matrix4.Translate(10, 0, 0);
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
 
 ### See Also
 

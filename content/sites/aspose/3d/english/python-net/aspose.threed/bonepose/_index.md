@@ -3,14 +3,14 @@ title: BonePose class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /python-net/aspose.threed/bonepose/
+weight: 40
+url: /aspose.threed/bonepose/
 is_root: false
 ---
 
 ## BonePose class
 
-The [BonePose](/3d/python-net/aspose.threed/bonepose) contains the transformation matrix for a bone node
+The [`BonePose`](/3d/python-net/aspose.threed/bonepose) contains the transformation matrix for a bone node
 
 
 
@@ -19,7 +19,7 @@ The BonePose type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [BonePose()](/3d/python-net/aspose.threed/bonepose/__init__/#) | Constructs a new instance of BonePose |
+| [__init__](/3d/python-net/aspose.threed/bonepose/__init__/#) | Constructs a new instance of BonePose |
 
 
 ### Properties
@@ -32,5 +32,5 @@ The BonePose type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [BonePose](/3d/python-net/aspose.threed/bonepose)
+* module [`aspose.threed`](..)
+* class [`BonePose`](/3d/python-net/aspose.threed/bonepose)

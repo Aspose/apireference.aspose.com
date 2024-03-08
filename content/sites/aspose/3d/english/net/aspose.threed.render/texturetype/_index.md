@@ -3,7 +3,7 @@ title: TextureType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2220
+weight: 2330
 url: /net/aspose.threed.render/texturetype/
 ---
 ## TextureType enumeration

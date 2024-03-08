@@ -3,14 +3,14 @@ title: TextureType enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /python-net/aspose.threed.render/texturetype/
+weight: 600
+url: /aspose.threed.render/texturetype/
 is_root: false
 ---
 
 ## TextureType enumeration
 
-The type of the [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+The type of the [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)
 
 
 
@@ -28,5 +28,5 @@ The TextureType type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* module [`aspose.threed.render`](..)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)

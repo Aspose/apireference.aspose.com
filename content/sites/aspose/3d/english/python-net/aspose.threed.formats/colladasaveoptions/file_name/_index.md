@@ -3,8 +3,8 @@ title: file_name property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /python-net/aspose.threed.formats/colladasaveoptions/file_name/
+weight: 60
+url: /aspose.threed.formats/colladasaveoptions/file_name/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)

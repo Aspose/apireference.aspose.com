@@ -3,8 +3,8 @@ title: high_precise_color property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /python-net/aspose.threed.formats/discreet3dssaveoptions/high_precise_color/
+weight: 150
+url: /aspose.threed.formats/discreet3dssaveoptions/high_precise_color/
 is_root: false
 ---
 
@@ -25,5 +25,5 @@ def high_precise_color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)

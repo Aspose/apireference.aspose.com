@@ -14,6 +14,13 @@ Gets or sets the geometric scaling. Geometric transformation only affects the en
 public Vector3 GeometricScaling { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.GeometricScaling = new Vector3(2, 2, 2);
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

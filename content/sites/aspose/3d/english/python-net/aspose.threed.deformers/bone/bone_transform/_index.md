@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /python-net/aspose.threed.deformers/bone/bone_transform/
+url: /aspose.threed.deformers/bone/bone_transform/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def bone_transform(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [Bone](/3d/python-net/aspose.threed.deformers/bone)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.deformers`](../../)
+* class [`Bone`](/3d/python-net/aspose.threed.deformers/bone)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

@@ -3,14 +3,14 @@ title: TextureMapping enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 700
-url: /python-net/aspose.threed.entities/texturemapping/
+weight: 710
+url: /aspose.threed.entities/texturemapping/
 is_root: false
 ---
 
 ## TextureMapping enumeration
 
-The texture mapping type for [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)
+The texture mapping type for [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv)
 Describes which kind of texture mapping is used.
 
 
@@ -36,5 +36,5 @@ The TextureMapping type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv)

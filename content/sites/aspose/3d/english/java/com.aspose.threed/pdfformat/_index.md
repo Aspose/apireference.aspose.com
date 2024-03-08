@@ -3,7 +3,7 @@ title: PdfFormat
 second_title: Aspose.3D for Java API Reference
 description: Adobes Portable Document Format
 type: docs
-weight: 110
+weight: 113
 url: /java/com.aspose.threed/pdfformat/
 ---
 
@@ -44,6 +44,7 @@ Adobe's Portable Document Format
 | [GLTF2_BINARY](#GLTF2-BINARY) | Khronos Group's glTF version 2.0 |
 | [GLTF_BINARY](#GLTF-BINARY) | Khronos Group's glTF in Binary format |
 | [HTML5](#HTML5) | HTML5 File |
+| [IFC](#IFC) | ISO 16739-1 Industry Foundation Classes data model. |
 | [MAYAASCII](#MAYAASCII) | Autodesk Maya in ASCII format |
 | [MAYA_BINARY](#MAYA-BINARY) | Autodesk Maya in Binary format |
 | [MICROSOFT3MF](#MICROSOFT3MF) | Microsoft 3D Manufacturing Format |
@@ -59,6 +60,7 @@ Adobe's Portable Document Format
 | [STL_BINARY](#STL-BINARY) | Binary STL file format |
 | [UNIVERSAL3D](#UNIVERSAL3D) | Universal3D file format |
 | [USD](#USD) | Universal Scene Description |
+| [USDA](#USDA) | Universal Scene Description in ASCII format. |
 | [USDZ](#USDZ) | Compressed Universal Scene Description |
 | [VRML](#VRML) | The Virtual Reality Modeling Language |
 | [WAVEFRONTOBJ](#WAVEFRONTOBJ) | Wavefront's Obj file format |
@@ -86,7 +88,7 @@ Adobe's Portable Document Format
 | [getCanExport()](#getCanExport--) | Gets whether Aspose.3D supports export scene to current file format. |
 | [getCanImport()](#getCanImport--) | Gets whether Aspose.3D supports import scene from current file format. |
 | [getClass()](#getClass--) |  |
-| [getContentType()](#getContentType--) | Gets file format content type |
+| [getContentType()](#getContentType--) | Gets file format content type **Example:** |
 | [getExtension()](#getExtension--) | Gets the extension name of this type. |
 | [getExtensions()](#getExtensions--) | Gets the extension names of this type. |
 | [getFileFormatType()](#getFileFormatType--) | Gets file format type |
@@ -307,6 +309,14 @@ public static final FileFormat HTML5
 
 HTML5 File
 
+### IFC {#IFC}
+```
+public static final FileFormat IFC
+```
+
+
+ISO 16739-1 Industry Foundation Classes data model.
+
 ### MAYAASCII {#MAYAASCII}
 ```
 public static final FileFormat MAYAASCII
@@ -427,6 +437,14 @@ public static final FileFormat USD
 
 Universal Scene Description
 
+### USDA {#USDA}
+```
+public static final FileFormat USDA
+```
+
+
+Universal Scene Description in ASCII format.
+
 ### USDZ {#USDZ}
 ```
 public static final FileFormat USDZ
@@ -515,7 +533,13 @@ Detect the file format from data stream, file name is optional for guessing type
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream |  |
-| fileName | java.lang.String |  |
+| fileName | java.lang.String | **Example:**
+
+```
+byte[] bytes = new byte[100];//take the bytes from your source
+     var fmt = FileFormat.detect(new MemoryStream(bytes), "input-file");
+     System.out.printf("Input data format: %s", fmt);
+``` |
 
 **Returns:**
 [FileFormat](../../com.aspose.threed/fileformat)
@@ -530,7 +554,12 @@ Detect the file format from file name, file must be readable so Aspose.3D can de
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String |  |
+| fileName | java.lang.String | **Example:**
+
+```
+var fmt = FileFormat.detect("input.fbx");
+     System.out.printf("Input file format: %s", fmt);
+``` |
 
 **Returns:**
 [FileFormat](../../com.aspose.threed/fileformat)
@@ -679,7 +708,14 @@ public boolean getCanExport()
 ```
 
 
-Gets whether Aspose.3D supports export scene to current file format.
+Gets whether Aspose.3D supports export scene to current file format. **Example:** The following code shows how to check if exporting to specified format is supported.
+
+```
+var outputFormat = ".glb";
+     var format = FileFormat.getFormatByExtension(outputFormat);
+     if (format.getCanExport())
+         System.out.printf("Can export to %s", outputFormat);
+```
 
 **Returns:**
 boolean
@@ -689,7 +725,14 @@ public boolean getCanImport()
 ```
 
 
-Gets whether Aspose.3D supports import scene from current file format.
+Gets whether Aspose.3D supports import scene from current file format. **Example:** The following code shows how to check if importing from specified format is supported.
+
+```
+var outputFormat = ".glb";
+     var format = FileFormat.getFormatByExtension(outputFormat);
+     if (format.getCanImport())
+         System.out.printf("Can import from %s", outputFormat);
+```
 
 **Returns:**
 boolean
@@ -709,7 +752,15 @@ public FileContentType getContentType()
 ```
 
 
-Gets file format content type
+Gets file format content type **Example:**
+
+```
+var format = FileFormat.MAYA_BINARY;
+     if (format.getContentType() == FileContentType.BINARY)
+         System.out.printf("%s is binary format", format);
+     else
+         System.out.printf("%s is text-based format", format);
+```
 
 **Returns:**
 [FileContentType](../../com.aspose.threed/filecontenttype)
@@ -719,7 +770,12 @@ public String getExtension()
 ```
 
 
-Gets the extension name of this type.
+Gets the extension name of this type. **Example:**
+
+```
+var format = FileFormat.MAYA_BINARY;
+     System.out.printf("Extension of %s is %s", format, format.getExtension());
+```
 
 **Returns:**
 java.lang.String
@@ -757,7 +813,17 @@ Gets the preferred file format from the file extension name The extension name s
 | extensionName | java.lang.String |  |
 
 **Returns:**
-[FileFormat](../../com.aspose.threed/fileformat)
+[FileFormat](../../com.aspose.threed/fileformat) - Instance of [FileFormat](../../com.aspose.threed/fileformat), otherwise null returned. **Example:** The following code shows how to save scene to memory using specified format
+
+```
+Scene scene = new Scene(new Box());
+     var outputFormat = ".glb";
+     var format = FileFormat.getFormatByExtension(outputFormat);
+     var output = new ByteArrayOutputStream();
+     try(var stream = Stream.wrap(output)) {
+         scene.save(stream);
+     }
+```
 ### getVersion() {#getVersion--}
 ```
 public Version getVersion()
@@ -814,7 +880,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

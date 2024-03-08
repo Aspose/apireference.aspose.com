@@ -3,7 +3,7 @@ title: Axis
 second_title: Aspose.3D for Java API Reference
 description: The coordinate axis.
 type: docs
-weight: 238
+weight: 248
 url: /java/com.aspose.threed/axis/
 ---
 
@@ -18,9 +18,12 @@ The coordinate axis.
 
 | Field | Description |
 | --- | --- |
-| [X_AXIS](#X-AXIS) | The X axis. |
-| [Y_AXIS](#Y-AXIS) | The Y axis. |
-| [Z_AXIS](#Z-AXIS) | The Z axis. |
+| [NEGATIVE_X_AXIS](#NEGATIVE-X-AXIS) | The -X axis. |
+| [NEGATIVE_Y_AXIS](#NEGATIVE-Y-AXIS) | The -Y axis. |
+| [NEGATIVE_Z_AXIS](#NEGATIVE-Z-AXIS) | The -Z axis. |
+| [X_AXIS](#X-AXIS) | The +X axis. |
+| [Y_AXIS](#Y-AXIS) | The +Y axis. |
+| [Z_AXIS](#Z-AXIS) | The +Z axis. |
 ## Methods
 
 | Method | Description |
@@ -42,13 +45,37 @@ The coordinate axis.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### NEGATIVE_X_AXIS {#NEGATIVE-X-AXIS}
+```
+public static final Axis NEGATIVE_X_AXIS
+```
+
+
+The -X axis.
+
+### NEGATIVE_Y_AXIS {#NEGATIVE-Y-AXIS}
+```
+public static final Axis NEGATIVE_Y_AXIS
+```
+
+
+The -Y axis.
+
+### NEGATIVE_Z_AXIS {#NEGATIVE-Z-AXIS}
+```
+public static final Axis NEGATIVE_Z_AXIS
+```
+
+
+The -Z axis.
+
 ### X_AXIS {#X-AXIS}
 ```
 public static final Axis X_AXIS
 ```
 
 
-The X axis.
+The +X axis.
 
 ### Y_AXIS {#Y-AXIS}
 ```
@@ -56,7 +83,7 @@ public static final Axis Y_AXIS
 ```
 
 
-The Y axis.
+The +Y axis.
 
 ### Z_AXIS {#Z-AXIS}
 ```
@@ -64,7 +91,7 @@ public static final Axis Z_AXIS
 ```
 
 
-The Z axis.
+The +Z axis.
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
 ```
@@ -233,7 +260,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

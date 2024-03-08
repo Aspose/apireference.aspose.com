@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 590
-url: /python-net/aspose.threed.entities/aperturemode/
+url: /aspose.threed.entities/aperturemode/
 is_root: false
 ---
 
@@ -30,4 +30,4 @@ The ApertureMode type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
+* module [`aspose.threed.entities`](..)

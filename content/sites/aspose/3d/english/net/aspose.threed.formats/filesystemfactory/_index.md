@@ -3,7 +3,7 @@ title: FileSystemFactory
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1130
+weight: 1160
 url: /net/aspose.threed.formats/filesystemfactory/
 ---
 ## FileSystemFactory delegate

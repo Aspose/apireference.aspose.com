@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.entities/vertexelementvertexcolor/set_indices/
+url: /aspose.threed.entities/vertexelementvertexcolor/set_indices/
 is_root: false
 ---
 
-## set_indices(data) {#list}
+## set_indices {#list}
 
 Load indices
 
@@ -27,5 +27,5 @@ def set_indices(self, data):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)

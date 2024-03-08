@@ -3,8 +3,8 @@ title: file_format property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /python-net/aspose.threed.formats/u3dsaveoptions/file_format/
+weight: 100
+url: /aspose.threed.formats/u3dsaveoptions/file_format/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def file_format(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions)

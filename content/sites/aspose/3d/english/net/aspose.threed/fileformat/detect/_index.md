@@ -3,7 +3,7 @@ title: Detect
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 460
 url: /net/aspose.threed/fileformat/detect/
 ---
 ## FileFormat.Detect method (1 of 2)
@@ -18,6 +18,14 @@ public static FileFormat Detect(Stream stream, string fileName)
 | --- | --- | --- |
 | stream | Stream |  |
 | fileName | String |  |
+
+### Examples
+
+```csharp
+byte[] bytes = new byte[100];//take the bytes from your source
+var fmt = FileFormat.Detect(new MemoryStream(bytes), "input-file");
+Console.WriteLine($"Input data format: {fmt}");
+```
 
 ### See Also
 
@@ -38,6 +46,13 @@ public static FileFormat Detect(string fileName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String |  |
+
+### Examples
+
+```csharp
+var fmt = FileFormat.Detect("input.fbx");
+Console.WriteLine($"Input file format: {fmt}");
+```
 
 ### See Also
 

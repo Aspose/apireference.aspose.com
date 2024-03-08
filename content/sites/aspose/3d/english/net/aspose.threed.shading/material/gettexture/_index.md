@@ -22,6 +22,16 @@ public TextureBase GetTexture(string slotName)
 
 The texture.
 
+### Examples
+
+```csharp
+var mat = new LambertMaterial();
+var tex = new Texture();
+tex.FileName = "diffuse.png";
+mat.SetTexture(Material.MapDiffuse, tex);
+tex = (Texture)mat.GetTexture(Material.MapDiffuse);
+```
+
 ### See Also
 
 * class [TextureBase](../../texturebase)

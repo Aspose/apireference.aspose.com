@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/
+url: /aspose.threed.utilities/ziparchivefilesystem/__init__/
 is_root: false
 ---
 
-## ZipArchiveFileSystem(stream) {#io.RawIOBase}
+## __init__ {#io.RawIOBase}
 
-Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
+Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
 
 
 
@@ -25,9 +25,9 @@ def __init__(self, stream):
 | stream | io.RawIOBase |  |
 
 
-## ZipArchiveFileSystem(file_name) {#str}
+## __init__ {#str}
 
-Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a file name.
+Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a file name.
 
 
 
@@ -42,9 +42,9 @@ def __init__(self, file_name):
 | file_name | str |  |
 
 
-## ZipArchiveFileSystem(stream, base_dir) {#io.RawIOBase-str}
+## __init__ {#io.RawIOBase-str}
 
-Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
+Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
 
 
 
@@ -62,5 +62,5 @@ def __init__(self, stream, base_dir):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.shading/pbrmaterial/albedo/
+url: /aspose.threed.shading/pbrmaterial/albedo/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def albedo(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

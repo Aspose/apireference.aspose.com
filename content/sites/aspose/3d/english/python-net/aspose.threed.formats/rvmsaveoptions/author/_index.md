@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.formats/rvmsaveoptions/author/
+url: /aspose.threed.formats/rvmsaveoptions/author/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def author(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmSaveOptions](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions)

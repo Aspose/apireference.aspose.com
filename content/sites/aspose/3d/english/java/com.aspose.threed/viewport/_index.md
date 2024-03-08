@@ -3,7 +3,7 @@ title: Viewport
 second_title: Aspose.3D for Java API Reference
 description: A  contains at least one viewport for rendering the scene.
 type: docs
-weight: 208
+weight: 215
 url: /java/com.aspose.threed/viewport/
 ---
 
@@ -32,7 +32,7 @@ A [IRenderTarget](../../com.aspose.threed/irendertarget) contains at least one v
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setArea(RelativeRectangle value)](#setArea-com.aspose.threed.RelativeRectangle-) | Sets the area of the viewport in render target. |
-| [setBackgroundColor(Color value)](#setBackgroundColor-java.awt.Color-) | Sets the background color of the viewport. |
+| [setBackgroundColor(Vector3 value)](#setBackgroundColor-com.aspose.threed.Vector3-) | Sets the background color of the viewport. |
 | [setDepthClear(float value)](#setDepthClear-float-) | Sets the depth value used when clear the viewport with depth buffer bit set. |
 | [setEnabled(boolean value)](#setEnabled-boolean-) | Enable or disable this viewport. |
 | [setFrustum(Frustum value)](#setFrustum-com.aspose.threed.Frustum-) | Sets the camera of this [Viewport](../../com.aspose.threed/viewport) |
@@ -78,14 +78,14 @@ Gets the area of the viewport in render target.
 [RelativeRectangle](../../com.aspose.threed/relativerectangle)
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
-public Color getBackgroundColor()
+public Vector3 getBackgroundColor()
 ```
 
 
 Gets the background color of the viewport.
 
 **Returns:**
-java.awt.Color
+[Vector3](../../com.aspose.threed/vector3)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -185,9 +185,9 @@ Sets the area of the viewport in render target.
 | --- | --- | --- |
 | value | [RelativeRectangle](../../com.aspose.threed/relativerectangle) | New value |
 
-### setBackgroundColor(Color value) {#setBackgroundColor-java.awt.Color-}
+### setBackgroundColor(Vector3 value) {#setBackgroundColor-com.aspose.threed.Vector3-}
 ```
-public void setBackgroundColor(Color value)
+public void setBackgroundColor(Vector3 value)
 ```
 
 
@@ -196,7 +196,7 @@ Sets the background color of the viewport.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.awt.Color | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
 
 ### setDepthClear(float value) {#setDepthClear-float-}
 ```
@@ -270,7 +270,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

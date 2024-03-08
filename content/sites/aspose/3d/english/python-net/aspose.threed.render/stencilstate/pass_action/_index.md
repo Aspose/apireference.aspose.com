@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.render/stencilstate/pass_action/
+url: /aspose.threed.render/stencilstate/pass_action/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def pass_action(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [StencilAction](/3d/python-net/aspose.threed.render/stencilaction)
-* class [StencilState](/3d/python-net/aspose.threed.render/stencilstate)
+* module [`aspose.threed.render`](../../)
+* class [`StencilAction`](/3d/python-net/aspose.threed.render/stencilaction)
+* class [`StencilState`](/3d/python-net/aspose.threed.render/stencilstate)

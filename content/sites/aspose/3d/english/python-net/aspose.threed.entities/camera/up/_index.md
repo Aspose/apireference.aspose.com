@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 320
-url: /python-net/aspose.threed.entities/camera/up/
+url: /aspose.threed.entities/camera/up/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def up(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Camera](/3d/python-net/aspose.threed.entities/camera)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.entities`](../../)
+* class [`Camera`](/3d/python-net/aspose.threed.entities/camera)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

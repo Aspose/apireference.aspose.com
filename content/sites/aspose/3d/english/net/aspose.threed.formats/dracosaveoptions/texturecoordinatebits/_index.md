@@ -3,7 +3,7 @@ title: TextureCoordinateBits
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.threed.formats/dracosaveoptions/texturecoordinatebits/
 ---
 ## DracoSaveOptions.TextureCoordinateBits property

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.entities/vertexelementpolygongroup/copy_to/
+url: /aspose.threed.entities/vertexelementpolygongroup/copy_to/
 is_root: false
 ---
 
-## copy_to(target) {#VertexElementIntsTemplate}
+## copy_to {#aspose.threed.entities.VertexElementIntsTemplate}
 
 Copies data to specified element
 
@@ -22,10 +22,10 @@ def copy_to(self, target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate) | Target. |
+| target | [`VertexElementIntsTemplate`](/3d/python-net/aspose.threed.entities/vertexelementintstemplate) | Target. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementPolygonGroup](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementPolygonGroup`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)

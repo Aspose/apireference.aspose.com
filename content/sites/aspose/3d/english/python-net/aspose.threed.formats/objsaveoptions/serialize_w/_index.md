@@ -3,8 +3,8 @@ title: serialize_w property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /python-net/aspose.threed.formats/objsaveoptions/serialize_w/
+weight: 140
+url: /aspose.threed.formats/objsaveoptions/serialize_w/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def serialize_w(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions)

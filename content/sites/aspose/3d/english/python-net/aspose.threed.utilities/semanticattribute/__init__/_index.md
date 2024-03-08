@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/semanticattribute/__init__/
+url: /aspose.threed.utilities/semanticattribute/__init__/
 is_root: false
 ---
 
-## SemanticAttribute(semantic) {#VertexFieldSemantic}
+## __init__ {#aspose.threed.utilities.VertexFieldSemantic}
 
-Initialize a [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
+Initialize a [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)
 
 
 
@@ -22,12 +22,12 @@ def __init__(self, semantic):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| semantic | [VertexFieldSemantic](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic) | The semantic of the struct's field. |
+| semantic | [`VertexFieldSemantic`](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic) | The semantic of the struct's field. |
 
 
-## SemanticAttribute(semantic, alias) {#VertexFieldSemantic-str}
+## __init__ {#aspose.threed.utilities.VertexFieldSemantic-str}
 
-Initialize a [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
+Initialize a [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)
 
 
 
@@ -39,11 +39,11 @@ def __init__(self, semantic, alias):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| semantic | [VertexFieldSemantic](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic) | The semantic of the struct's field. |
+| semantic | [`VertexFieldSemantic`](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic) | The semantic of the struct's field. |
 | alias | str | Alias of the field. |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
+* module [`aspose.threed.utilities`](../../)
+* class [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)

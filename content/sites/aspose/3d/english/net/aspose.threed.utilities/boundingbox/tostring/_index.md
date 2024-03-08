@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 160
 url: /net/aspose.threed.utilities/boundingbox/tostring/
 ---
 ## BoundingBox.ToString method

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /python-net/aspose.threed.entities/rectangulartorus/parent_nodes/
+url: /aspose.threed.entities/rectangulartorus/parent_nodes/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+* module [`aspose.threed.entities`](../../)
+* class [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)

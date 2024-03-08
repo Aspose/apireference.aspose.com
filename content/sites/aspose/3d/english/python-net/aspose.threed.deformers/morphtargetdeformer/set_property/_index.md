@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.deformers/morphtargetdeformer/set_property/
+url: /aspose.threed.deformers/morphtargetdeformer/set_property/
 is_root: false
 ---
 
-## set_property(property, value) {#str-any}
+## set_property {#str-any}
 
 Sets the value of specified property
 
@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
+* module [`aspose.threed.deformers`](../../)
+* class [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)

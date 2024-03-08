@@ -3,7 +3,7 @@ title: VertexElementMaterial
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 820
+weight: 850
 url: /net/aspose.threed.entities/vertexelementmaterial/
 ---
 ## VertexElementMaterial class

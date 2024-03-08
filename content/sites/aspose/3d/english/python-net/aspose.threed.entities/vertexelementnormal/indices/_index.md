@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed.entities/vertexelementnormal/indices/
+url: /aspose.threed.entities/vertexelementnormal/indices/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def indices(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal)

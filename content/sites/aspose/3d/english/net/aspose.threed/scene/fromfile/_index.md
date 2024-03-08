@@ -21,6 +21,15 @@ public static Scene FromFile(string fileName, FileFormat format,
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to create a scene from a file
+
+```csharp
+var cts = new CancellationTokenSource();
+Scene scene = Scene.FromFile("input.fbx", FileFormat.FBX7400ASCII, cts.Token);
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)
@@ -45,6 +54,17 @@ public static Scene FromFile(string fileName, LoadOptions options,
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to create a scene from a file
+
+```csharp
+var cts = new CancellationTokenSource();
+var opt = new FbxLoadOptions();
+opt.LookupPaths.Add("textures");
+Scene scene = Scene.FromFile("input.fbx", opt, cts.Token);
+```
+
 ### See Also
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions)
@@ -66,6 +86,14 @@ public static Scene FromFile(string fileName)
 | --- | --- | --- |
 | fileName | String | File name. |
 
+### Examples
+
+The following code shows how to create a scene from a file
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+```
+
 ### See Also
 
 * class [Scene](../../scene)
@@ -86,6 +114,15 @@ public static Scene FromFile(string fileName, CancellationToken cancellationToke
 | --- | --- | --- |
 | fileName | String | File name. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Examples
+
+The following code shows how to create a scene from a file
+
+```csharp
+var cts = new CancellationTokenSource();
+Scene scene = Scene.FromFile("input.fbx", cts.Token);
+```
 
 ### See Also
 

@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/sphere/__init__/
+url: /aspose.threed.entities/sphere/__init__/
 is_root: false
 ---
 
-## Sphere() {#}
+## __init__ {#}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) with default radius 1.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) with default radius 1.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Sphere(radius) {#float}
+## __init__ {#float}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class with specified radius.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius.
 
 
 
@@ -39,9 +39,9 @@ def __init__(self, radius):
 | radius | float | Radius. |
 
 
-## Sphere(radius, width_segments, height_segments) {#float-int-int}
+## __init__ {#float-int-int}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments.
 
 
 
@@ -58,9 +58,9 @@ def __init__(self, radius, width_segments, height_segments):
 | height_segments | int | Height segments. |
 
 
-## Sphere(name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length) {#str-float-int-int-float-float-float-float}
+## __init__ {#str-float-int-int-float-float-float-float}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class.
 
 
 
@@ -84,5 +84,5 @@ def __init__(self, name, radius, width_segments, height_segments, phi_start, phi
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Sphere](/3d/python-net/aspose.threed.entities/sphere)
+* module [`aspose.threed.entities`](../../)
+* class [`Sphere`](/3d/python-net/aspose.threed.entities/sphere)

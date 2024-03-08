@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 310
-url: /python-net/aspose.threed.entities/light/scene/
+url: /aspose.threed.entities/light/scene/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def scene(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Light](/3d/python-net/aspose.threed.entities/light)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed.entities`](../../)
+* class [`Light`](/3d/python-net/aspose.threed.entities/light)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

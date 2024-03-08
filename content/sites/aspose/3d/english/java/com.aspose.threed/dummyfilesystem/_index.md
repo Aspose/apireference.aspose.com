@@ -3,7 +3,7 @@ title: DummyFileSystem
 second_title: Aspose.3D for Java API Reference
 description: Read/write operations are dummy operations.
 type: docs
-weight: 45
+weight: 46
 url: /java/com.aspose.threed/dummyfilesystem/
 ---
 
@@ -13,7 +13,23 @@ java.lang.Object, [com.aspose.threed.FileSystem](../../com.aspose.threed/filesys
 public class DummyFileSystem extends FileSystem
 ```
 
-Read/write operations are dummy operations.
+Read/write operations are dummy operations. **Example:** The following code shows how to export file to memory, and ignore all dependent file generation.
+
+```
+//create a scene with material
+     Scene scene = new Scene();
+     scene.getRootNode().createChildNode(new Box()).setMaterial(new LambertMaterial());
+     //create a save option and specify the file system, so the dependent file will be written to memory
+     var opt = FileFormat.WAVEFRONTOBJ.createSaveOptions();
+     var dfs = new DummyFileSystem();
+     opt.setFileSystem(dfs);
+     //obj's material file name is associated with the obj's file name, so we need a explicit name.
+     opt.setFileName("test.obj");
+     try (var ms = new MemoryStream())
+     {
+         scene.save(ms, opt);
+     }
+```
 ## Constructors
 
 | Constructor | Description |
@@ -136,7 +152,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

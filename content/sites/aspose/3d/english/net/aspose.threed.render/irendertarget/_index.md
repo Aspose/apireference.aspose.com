@@ -3,7 +3,7 @@ title: IRenderTarget
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1890
+weight: 1940
 url: /net/aspose.threed.render/irendertarget/
 ---
 ## IRenderTarget interface
@@ -27,7 +27,7 @@ public interface IRenderTarget : IDisposable
 | --- | --- |
 | [CreateViewport](../../aspose.threed.render/irendertarget/createviewport)(Camera) | Create a viewport in specified camera perspective. |
 | [CreateViewport](../../aspose.threed.render/irendertarget/createviewport)(Camera, RelativeRectangle) | Create a viewport with position/size in specified camera perspective. |
-| [CreateViewport](../../aspose.threed.render/irendertarget/createviewport)(Camera, Color, RelativeRectangle) | Create a viewport with specified background color and position/size in specified camera perspective. |
+| [CreateViewport](../../aspose.threed.render/irendertarget/createviewport)(Camera, Vector3, RelativeRectangle) | Create a viewport with specified background color and position/size in specified camera perspective. |
 
 ### See Also
 

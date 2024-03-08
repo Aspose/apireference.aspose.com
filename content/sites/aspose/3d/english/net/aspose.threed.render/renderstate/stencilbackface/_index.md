@@ -3,7 +3,7 @@ title: StencilBackFace
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.threed.render/renderstate/stencilbackface/
 ---
 ## RenderState.StencilBackFace property

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.formats/objloadoptions/
+url: /aspose.threed.formats/objloadoptions/
 is_root: false
 ---
 
@@ -14,9 +14,9 @@ Load options for wavefront obj
 
 
 
-**Inheritance:** [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The ObjLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ObjLoadOptions()](/3d/python-net/aspose.threed.formats/objloadoptions/__init__/#) | Constructor of [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/objloadoptions/__init__/#) | Constructor of [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions) |
 
 
 ### Properties
@@ -44,7 +44,7 @@ The ObjLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
-* class [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions)

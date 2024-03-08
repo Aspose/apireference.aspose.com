@@ -3,8 +3,8 @@ title: extent property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /python-net/aspose.threed.utilities/boundingbox/extent/
+weight: 110
+url: /aspose.threed.utilities/boundingbox/extent/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def extent(self):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
-* class [BoundingBoxExtent](/3d/python-net/aspose.threed.utilities/boundingboxextent)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox)
+* class [`BoundingBoxExtent`](/3d/python-net/aspose.threed.utilities/boundingboxextent)

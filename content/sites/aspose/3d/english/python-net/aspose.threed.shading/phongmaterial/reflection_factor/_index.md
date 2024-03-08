@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /python-net/aspose.threed.shading/phongmaterial/reflection_factor/
+url: /aspose.threed.shading/phongmaterial/reflection_factor/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def reflection_factor(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)

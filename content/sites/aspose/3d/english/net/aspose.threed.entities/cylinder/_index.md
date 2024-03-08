@@ -3,7 +3,7 @@ title: Cylinder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 310
+weight: 340
 url: /net/aspose.threed.entities/cylinder/
 ---
 ## Cylinder class

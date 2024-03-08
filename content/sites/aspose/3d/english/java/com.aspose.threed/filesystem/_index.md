@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Aspose.3D for Java API Reference
 description: File system encapsulation.
 type: docs
-weight: 63
+weight: 64
 url: /java/com.aspose.threed/filesystem/
 ---
 
@@ -16,7 +16,17 @@ java.io.Closeable
 public abstract class FileSystem implements Closeable
 ```
 
-File system encapsulation. Aspose.3D will use this to read/write dependencies.
+File system encapsulation. Aspose.3D will use this to read/write dependencies. **Example:** The following code shows how to import file, and provide dependent files in a given directory
+
+```
+var inputFile = "input.fbx";
+     var format = FileFormat.detect(inputFile);
+     //create a load options instance and specify a zip file system
+     var opt = format.createLoadOptions();
+     opt.setFileSystem(new LocalFileSystem("textures/"));
+     //load the file
+     var scene = Scene.fromFile(inputFile, opt);
+```
 ## Constructors
 
 | Constructor | Description |
@@ -139,7 +149,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

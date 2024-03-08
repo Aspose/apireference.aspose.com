@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /python-net/aspose.threed.entities/trimesh/read_double/
+url: /aspose.threed.entities/trimesh/read_double/
 is_root: false
 ---
 
-## read_double(idx, field) {#int-aspose.threed.utilities.VertexField}
+## read_double {#int-aspose.threed.utilities.VertexField}
 
 Read the double field
 
@@ -33,5 +33,5 @@ def read_double(self, idx, field):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.animation/keyframe/out_tangent/
+url: /aspose.threed.animation/keyframe/out_tangent/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def out_tangent(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyFrame`](/3d/python-net/aspose.threed.animation/keyframe)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

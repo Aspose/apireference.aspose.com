@@ -3,7 +3,7 @@ title: EntityRendererFeatures
 second_title: Aspose.3D for Java API Reference
 description: The extra features that the entity renderer will provide
 type: docs
-weight: 51
+weight: 52
 url: /java/com.aspose.threed/entityrendererfeatures/
 ---
 
@@ -149,7 +149,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

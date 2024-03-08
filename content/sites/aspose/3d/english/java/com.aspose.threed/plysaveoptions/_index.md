@@ -3,7 +3,7 @@ title: PlySaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for exporting scene as PLY file.
 type: docs
-weight: 117
+weight: 121
 url: /java/com.aspose.threed/plysaveoptions/
 ---
 
@@ -25,9 +25,11 @@ Save options for exporting scene as PLY file.
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAxisSystem()](#getAxisSystem--) | Gets the axis system in the exported stl file. |
 | [getClass()](#getClass--) |  |
 | [getColorComponents()](#getColorComponents--) | The component names for vertex color, default value is ("red", "green", "blue") |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFaceElement()](#getFaceElement--) | The element name for the face data, default value is "face" |
 | [getFaceProperty()](#getFaceProperty--) | The property name for the face data, default value is "vertex\_index" |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
@@ -44,8 +46,10 @@ Save options for exporting scene as PLY file.
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setAxisSystem(AxisSystem value)](#setAxisSystem-com.aspose.threed.AxisSystem-) | Sets the axis system in the exported stl file. |
 | [setColorComponents(Tuple_3<String,String,String> value)](#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for vertex color, default value is ("red", "green", "blue") |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFaceElement(String value)](#setFaceElement-java.lang.String-) | The element name for the face data, default value is "face" |
 | [setFaceProperty(String value)](#setFaceProperty-java.lang.String-) | The property name for the face data, default value is "vertex\_index" |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
@@ -98,6 +102,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getAxisSystem() {#getAxisSystem--}
+```
+public AxisSystem getAxisSystem()
+```
+
+
+Gets the axis system in the exported stl file. **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature.
+
+**Returns:**
+[AxisSystem](../../com.aspose.threed/axissystem)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -128,6 +142,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getFaceElement() {#getFaceElement--}
 ```
 public String getFaceElement()
@@ -284,6 +308,19 @@ public final native void notifyAll()
 
 
 
+### setAxisSystem(AxisSystem value) {#setAxisSystem-com.aspose.threed.AxisSystem-}
+```
+public void setAxisSystem(AxisSystem value)
+```
+
+
+Sets the axis system in the exported stl file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature. |
+
 ### setColorComponents(Tuple_3<String,String,String> value) {#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
 ```
 public void setColorComponents(Tuple_3<String,String,String> value)
@@ -309,6 +346,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setFaceElement(String value) {#setFaceElement-java.lang.String-}
 ```
@@ -486,7 +536,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

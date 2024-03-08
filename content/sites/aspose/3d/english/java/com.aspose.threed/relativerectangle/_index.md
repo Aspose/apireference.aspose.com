@@ -1,9 +1,9 @@
 ---
 title: RelativeRectangle
 second_title: Aspose.3D for Java API Reference
-description: Relative rectangle The formula between relative component to absolute value is Scale  Reference Width  offset So if we want it to represent an absolute value leave all scale fields zero and use offset fields instead.
+description: Relative rectangle  The formula between relative component to absolute value is  Scale  Reference Width  offset  So if we want it to represent an absolute value leave all scale fields zero and use offset fields instead.
 type: docs
-weight: 132
+weight: 137
 url: /java/com.aspose.threed/relativerectangle/
 ---
 
@@ -21,6 +21,7 @@ Relative rectangle The formula between relative component to absolute value is: 
 
 | Constructor | Description |
 | --- | --- |
+| [RelativeRectangle(int left, int top, int width, int height)](#RelativeRectangle-int-int-int-int-) | Construct a [RelativeRectangle](../../com.aspose.threed/relativerectangle) |
 | [RelativeRectangle()](#RelativeRectangle--) |  |
 ## Methods
 
@@ -50,12 +51,27 @@ Relative rectangle The formula between relative component to absolute value is: 
 | [setScaleWidth(float value)](#setScaleWidth-float-) | Relative width |
 | [setScaleX(float value)](#setScaleX-float-) | Relative coordinate X |
 | [setScaleY(float value)](#setScaleY-float-) | Relative coordinate Y |
-| [toAbsolute(Dimension rect)](#toAbsolute-java.awt.Dimension-) | Convert the relative rectangle to absolute rectangle |
-| [toAbsolute(Rectangle rect)](#toAbsolute-java.awt.Rectangle-) | Convert the relative rectangle to absolute rectangle |
+| [toAbsolute(int left, int top, int width, int height)](#toAbsolute-int-int-int-int-) | Convert the relative rectangle to absolute rectangle |
 | [toString()](#toString--) | Converts the value of this instance to a java.lang.String. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### RelativeRectangle(int left, int top, int width, int height) {#RelativeRectangle-int-int-int-int-}
+```
+public RelativeRectangle(int left, int top, int width, int height)
+```
+
+
+Construct a [RelativeRectangle](../../com.aspose.threed/relativerectangle)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| left | int |  |
+| top | int |  |
+| width | int |  |
+| height | int |  |
+
 ### RelativeRectangle() {#RelativeRectangle--}
 ```
 public RelativeRectangle()
@@ -338,24 +354,9 @@ Relative coordinate Y
 | --- | --- | --- |
 | value | float | New value |
 
-### toAbsolute(Dimension rect) {#toAbsolute-java.awt.Dimension-}
+### toAbsolute(int left, int top, int width, int height) {#toAbsolute-int-int-int-int-}
 ```
-public Rectangle toAbsolute(Dimension rect)
-```
-
-
-Convert the relative rectangle to absolute rectangle
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | java.awt.Dimension |  |
-
-**Returns:**
-java.awt.Rectangle
-### toAbsolute(Rectangle rect) {#toAbsolute-java.awt.Rectangle-}
-```
-public Rectangle toAbsolute(Rectangle rect)
+public Rect toAbsolute(int left, int top, int width, int height)
 ```
 
 
@@ -364,10 +365,13 @@ Convert the relative rectangle to absolute rectangle
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | java.awt.Rectangle |  |
+| left | int | Left of the rectangle |
+| top | int | Top of the rectangle |
+| width | int | Width of the rectangle |
+| height | int | Height of the rectangle |
 
 **Returns:**
-java.awt.Rectangle
+[Rect](../../com.aspose.threed/rect)
 ### toString() {#toString--}
 ```
 public String toString()
@@ -388,7 +392,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

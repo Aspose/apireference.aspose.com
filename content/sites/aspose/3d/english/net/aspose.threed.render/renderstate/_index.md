@@ -3,7 +3,7 @@ title: RenderState
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2090
+weight: 2190
 url: /net/aspose.threed.render/renderstate/
 ---
 ## RenderState class
@@ -34,7 +34,6 @@ public class RenderState : IComparable<RenderState>, IDisposable
 | [DestinationBlendFactor](../../aspose.threed.render/renderstate/destinationblendfactor) { get; set; } | Gets or sets how the color is blended. |
 | [FrontFace](../../aspose.threed.render/renderstate/frontface) { get; set; } | Gets or sets which order is front face. |
 | [PolygonMode](../../aspose.threed.render/renderstate/polygonmode) { get; set; } | Gets or sets the polygon's render mode. |
-| [ScissorBox](../../aspose.threed.render/renderstate/scissorbox) { get; set; } | Gets or sets the scissor box |
 | [ScissorTest](../../aspose.threed.render/renderstate/scissortest) { get; set; } | Enable or disable scissor test |
 | [SourceBlendFactor](../../aspose.threed.render/renderstate/sourceblendfactor) { get; set; } | Gets or sets how the color is blended. |
 | [StencilBackFace](../../aspose.threed.render/renderstate/stencilbackface) { get; } | Gets the stencil state for back face. |

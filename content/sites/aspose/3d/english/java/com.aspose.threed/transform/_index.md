@@ -1,9 +1,9 @@
 ---
 title: Transform
 second_title: Aspose.3D for Java API Reference
-description: A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost This is used by local transform.
+description: A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost  This is used by local transform.
 type: docs
-weight: 170
+weight: 177
 url: /java/com.aspose.threed/transform/
 ---
 
@@ -13,7 +13,14 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public class Transform extends A3DObject
 ```
 
-A transform contains information that allow access to object's translate/scale/rotation or transform matrix at minimum cost This is used by local transform.
+A transform contains information that allow access to object's translate/scale/rotation or transform matrix at minimum cost This is used by local transform. **Example:** The following code shows how to change the transform of the node:
+
+```
+Scene scene = new Scene();
+     var boxNode = scene.getRootNode().createChildNode(new Box());
+     //place the box at (10, 0, 0)
+     boxNode.getTransform().setTranslation(new Vector3(10, 0, 0));
+```
 ## Methods
 
 | Method | Description |
@@ -21,19 +28,24 @@ A transform contains information that allow access to object's translate/scale/r
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [getClass()](#getClass--) |  |
-| [getEulerAngles()](#getEulerAngles--) | Gets the rotation represented in Euler angles, measured in degree |
+| [getEulerAngles()](#getEulerAngles--) | Gets the rotation represented in Euler angles, measured in degree **Example:** |
 | [getGeometricRotation()](#getGeometricRotation--) | Gets the geometric Euler rotation(measured in degree). |
 | [getGeometricScaling()](#getGeometricScaling--) | Gets the geometric scaling. |
 | [getGeometricTranslation()](#getGeometricTranslation--) | Gets the geometric translation. |
 | [getName()](#getName--) | Gets the name. |
-| [getPostRotation()](#getPostRotation--) | Gets the post-rotation represented in degree |
-| [getPreRotation()](#getPreRotation--) | Gets the pre-rotation represented in degree |
+| [getPostRotation()](#getPostRotation--) | Gets the post-rotation represented in degree **Example:** |
+| [getPreRotation()](#getPreRotation--) | Gets the pre-rotation represented in degree **Example:** |
 | [getProperties()](#getProperties--) | Gets the collection of all properties. |
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
 | [getRotation()](#getRotation--) | Gets the rotation represented in quaternion. |
+| [getRotationOffset()](#getRotationOffset--) | Gets the rotation offset |
+| [getRotationPivot()](#getRotationPivot--) | Gets the rotation pivot |
 | [getScale()](#getScale--) | Gets the scale |
+| [getScaling()](#getScaling--) | Gets the scaling **Example:** |
+| [getScalingOffset()](#getScalingOffset--) | Gets the scaling offset |
+| [getScalingPivot()](#getScalingPivot--) | Gets the scaling pivot |
 | [getTransformMatrix()](#getTransformMatrix--) | Gets the transform matrix. |
-| [getTranslation()](#getTranslation--) | Gets the translation |
+| [getTranslation()](#getTranslation--) | Gets the translation **Example:** |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -49,14 +61,19 @@ A transform contains information that allow access to object's translate/scale/r
 | [setGeometricTranslation(double x, double y, double z)](#setGeometricTranslation-double-double-double-) | Sets the geometric translation. |
 | [setName(String value)](#setName-java.lang.String-) | Sets the name. |
 | [setPostRotation(Vector3 value)](#setPostRotation-com.aspose.threed.Vector3-) | Sets the post-rotation represented in degree |
-| [setPostRotation(double rx, double ry, double rz)](#setPostRotation-double-double-double-) | Sets the post-rotation represented in degree |
+| [setPostRotation(double rx, double ry, double rz)](#setPostRotation-double-double-double-) | Sets the post-rotation represented in degree **Example:** |
 | [setPreRotation(Vector3 value)](#setPreRotation-com.aspose.threed.Vector3-) | Sets the pre-rotation represented in degree |
-| [setPreRotation(double rx, double ry, double rz)](#setPreRotation-double-double-double-) | Sets the pre-rotation represented in degree |
+| [setPreRotation(double rx, double ry, double rz)](#setPreRotation-double-double-double-) | Sets the pre-rotation represented in degree **Example:** |
 | [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
 | [setRotation(Quaternion value)](#setRotation-com.aspose.threed.Quaternion-) | Sets the rotation represented in quaternion. |
 | [setRotation(double rw, double rx, double ry, double rz)](#setRotation-double-double-double-double-) | Sets the rotation(as quaternion components) of current transform. |
+| [setRotationOffset(Vector3 value)](#setRotationOffset-com.aspose.threed.Vector3-) | Sets the rotation offset |
+| [setRotationPivot(Vector3 value)](#setRotationPivot-com.aspose.threed.Vector3-) | Sets the rotation pivot |
 | [setScale(Vector3 value)](#setScale-com.aspose.threed.Vector3-) | Sets the scale |
 | [setScale(double sx, double sy, double sz)](#setScale-double-double-double-) | Sets the scale of current transform. |
+| [setScaling(Vector3 value)](#setScaling-com.aspose.threed.Vector3-) | Sets the scaling |
+| [setScalingOffset(Vector3 value)](#setScalingOffset-com.aspose.threed.Vector3-) | Sets the scaling offset |
+| [setScalingPivot(Vector3 value)](#setScalingPivot-com.aspose.threed.Vector3-) | Sets the scaling pivot |
 | [setTransformMatrix(Matrix4 value)](#setTransformMatrix-com.aspose.threed.Matrix4-) | Sets the transform matrix. |
 | [setTranslation(Vector3 value)](#setTranslation-com.aspose.threed.Vector3-) | Sets the translation |
 | [setTranslation(double tx, double ty, double tz)](#setTranslation-double-double-double-) | Sets the translation of current transform. |
@@ -110,7 +127,12 @@ public Vector3 getEulerAngles()
 ```
 
 
-Gets the rotation represented in Euler angles, measured in degree
+Gets the rotation represented in Euler angles, measured in degree **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setEulerAngles(new Vector3(90, 0, 0));
+```
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -130,7 +152,12 @@ public Vector3 getGeometricScaling()
 ```
 
 
-Gets the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+Gets the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform.setGeometricScaling(new Vector3(2, 2, 2));
+```
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -140,7 +167,12 @@ public Vector3 getGeometricTranslation()
 ```
 
 
-Gets the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+Gets the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setGeometricTranslation(new Vector3(10, 0, 0));
+```
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -160,7 +192,12 @@ public Vector3 getPostRotation()
 ```
 
 
-Gets the post-rotation represented in degree
+Gets the post-rotation represented in degree **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setPostRotation(new Vector3(90, 0, 0));
+```
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -170,7 +207,12 @@ public Vector3 getPreRotation()
 ```
 
 
-Gets the pre-rotation represented in degree
+Gets the pre-rotation represented in degree **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setPreRotation(new Vector3(90, 0, 0));
+```
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -205,10 +247,35 @@ public Quaternion getRotation()
 ```
 
 
-Gets the rotation represented in quaternion.
+Gets the rotation represented in quaternion. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setRotation(new Quaternion(1, 0, 0, 0));
+```
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion)
+### getRotationOffset() {#getRotationOffset--}
+```
+public Vector3 getRotationOffset()
+```
+
+
+Gets the rotation offset
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getRotationPivot() {#getRotationPivot--}
+```
+public Vector3 getRotationPivot()
+```
+
+
+Gets the rotation pivot
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
 ### getScale() {#getScale--}
 ```
 public Vector3 getScale()
@@ -219,13 +286,53 @@ Gets the scale
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
+### getScaling() {#getScaling--}
+```
+public Vector3 getScaling()
+```
+
+
+Gets the scaling **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setScaling(new Vector3(2, 2, 2));
+```
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getScalingOffset() {#getScalingOffset--}
+```
+public Vector3 getScalingOffset()
+```
+
+
+Gets the scaling offset
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getScalingPivot() {#getScalingPivot--}
+```
+public Vector3 getScalingPivot()
+```
+
+
+Gets the scaling pivot
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
 ### getTransformMatrix() {#getTransformMatrix--}
 ```
 public Matrix4 getTransformMatrix()
 ```
 
 
-Gets the transform matrix.
+Gets the transform matrix. **Remarks:** Assign on this will reset the [getTranslation](../../com.aspose.threed/transform\#getTranslation), [getScale](../../com.aspose.threed/transform\#getScale) and [getRotation](../../com.aspose.threed/transform\#getRotation), the [getGeometricRotation](../../com.aspose.threed/transform\#getGeometricRotation), [getGeometricScaling](../../com.aspose.threed/transform\#getGeometricScaling) and [getGeometricTranslation](../../com.aspose.threed/transform\#getGeometricTranslation) will not be affected. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setTransformMatrix(Matrix4.getIdentity());
+```
 
 **Returns:**
 [Matrix4](../../com.aspose.threed/matrix4)
@@ -235,7 +342,12 @@ public Vector3 getTranslation()
 ```
 
 
-Gets the translation
+Gets the translation **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setTranslation(new Vector3(10, 0, 0));
+```
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -306,7 +418,12 @@ Sets the rotation represented in Euler angles, measured in degree
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setEulerAngles(new Vector3(90, 0, 0));
+``` |
 
 ### setEulerAngles(double rx, double ry, double rz) {#setEulerAngles-double-double-double-}
 ```
@@ -321,7 +438,12 @@ Sets the Euler angles in degrees of current transform.
 | --- | --- | --- |
 | rx | double |  |
 | ry | double |  |
-| rz | double |  |
+| rz | double | **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setEulerAngles(90, 0, 0);
+``` |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
@@ -344,7 +466,12 @@ public Transform setGeometricRotation(double rx, double ry, double rz)
 ```
 
 
-Sets the geometric Euler rotation(measured in degree). Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+Sets the geometric Euler rotation(measured in degree). Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setGeometricRotation(90, 0, 0);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -366,7 +493,12 @@ Sets the geometric scaling. Geometric transformation only affects the entities a
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform.setGeometricScaling(new Vector3(2, 2, 2));
+``` |
 
 ### setGeometricScaling(double sx, double sy, double sz) {#setGeometricScaling-double-double-double-}
 ```
@@ -374,7 +506,12 @@ public Transform setGeometricScaling(double sx, double sy, double sz)
 ```
 
 
-Sets the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+Sets the geometric scaling. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setGeometricScaling(2, 2, 2);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -396,7 +533,12 @@ Sets the geometric translation. Geometric transformation only affects the entiti
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setGeometricTranslation(new Vector3(10, 0, 0));
+``` |
 
 ### setGeometricTranslation(double x, double y, double z) {#setGeometricTranslation-double-double-double-}
 ```
@@ -404,7 +546,12 @@ public Transform setGeometricTranslation(double x, double y, double z)
 ```
 
 
-Sets the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+Sets the geometric translation. Geometric transformation only affects the entities attached and leave the child nodes unaffected. It will be merged as local transformation when you export the geometric transformation to file types that does not support it. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setGeometricTranslation(10, 0, 0);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -439,7 +586,12 @@ Sets the post-rotation represented in degree
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setPostRotation(new Vector3(90, 0, 0));
+``` |
 
 ### setPostRotation(double rx, double ry, double rz) {#setPostRotation-double-double-double-}
 ```
@@ -447,7 +599,12 @@ public Transform setPostRotation(double rx, double ry, double rz)
 ```
 
 
-Sets the post-rotation represented in degree
+Sets the post-rotation represented in degree **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setPostRotation(90, 0, 0);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -469,7 +626,12 @@ Sets the pre-rotation represented in degree
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setPreRotation(new Vector3(90, 0, 0));
+``` |
 
 ### setPreRotation(double rx, double ry, double rz) {#setPreRotation-double-double-double-}
 ```
@@ -477,7 +639,12 @@ public Transform setPreRotation(double rx, double ry, double rz)
 ```
 
 
-Sets the pre-rotation represented in degree
+Sets the pre-rotation represented in degree **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setPreRotation(90, 0, 0);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -513,7 +680,12 @@ Sets the rotation represented in quaternion.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Quaternion](../../com.aspose.threed/quaternion) | New value |
+| value | [Quaternion](../../com.aspose.threed/quaternion) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setRotation(new Quaternion(1, 0, 0, 0));
+``` |
 
 ### setRotation(double rw, double rx, double ry, double rz) {#setRotation-double-double-double-double-}
 ```
@@ -529,10 +701,41 @@ Sets the rotation(as quaternion components) of current transform.
 | rw | double |  |
 | rx | double |  |
 | ry | double |  |
-| rz | double |  |
+| rz | double | **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setRotation(1, 0, 0, 0);
+``` |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
+### setRotationOffset(Vector3 value) {#setRotationOffset-com.aspose.threed.Vector3-}
+```
+public void setRotationOffset(Vector3 value)
+```
+
+
+Sets the rotation offset
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
+### setRotationPivot(Vector3 value) {#setRotationPivot-com.aspose.threed.Vector3-}
+```
+public void setRotationPivot(Vector3 value)
+```
+
+
+Sets the rotation pivot
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
 ### setScale(Vector3 value) {#setScale-com.aspose.threed.Vector3-}
 ```
 public void setScale(Vector3 value)
@@ -559,10 +762,59 @@ Sets the scale of current transform.
 | --- | --- | --- |
 | sx | double |  |
 | sy | double |  |
-| sz | double |  |
+| sz | double | **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setScale(2, 2, 2);
+``` |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
+### setScaling(Vector3 value) {#setScaling-com.aspose.threed.Vector3-}
+```
+public void setScaling(Vector3 value)
+```
+
+
+Sets the scaling
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setScaling(new Vector3(2, 2, 2));
+``` |
+
+### setScalingOffset(Vector3 value) {#setScalingOffset-com.aspose.threed.Vector3-}
+```
+public void setScalingOffset(Vector3 value)
+```
+
+
+Sets the scaling offset
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
+### setScalingPivot(Vector3 value) {#setScalingPivot-com.aspose.threed.Vector3-}
+```
+public void setScalingPivot(Vector3 value)
+```
+
+
+Sets the scaling pivot
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
 ### setTransformMatrix(Matrix4 value) {#setTransformMatrix-com.aspose.threed.Matrix4-}
 ```
 public void setTransformMatrix(Matrix4 value)
@@ -574,7 +826,12 @@ Sets the transform matrix.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Matrix4](../../com.aspose.threed/matrix4) | New value |
+| value | [Matrix4](../../com.aspose.threed/matrix4) | New value **Remarks:** Assign on this will reset the [getTranslation](../../com.aspose.threed/transform\#getTranslation), [getScale](../../com.aspose.threed/transform\#getScale) and [getRotation](../../com.aspose.threed/transform\#getRotation), the [getGeometricRotation](../../com.aspose.threed/transform\#getGeometricRotation), [getGeometricScaling](../../com.aspose.threed/transform\#getGeometricScaling) and [getGeometricTranslation](../../com.aspose.threed/transform\#getGeometricTranslation) will not be affected. **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setTransformMatrix(Matrix4.getIdentity());
+``` |
 
 ### setTranslation(Vector3 value) {#setTranslation-com.aspose.threed.Vector3-}
 ```
@@ -587,7 +844,12 @@ Sets the translation
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setTranslation(new Vector3(10, 0, 0));
+``` |
 
 ### setTranslation(double tx, double ty, double tz) {#setTranslation-double-double-double-}
 ```
@@ -602,7 +864,12 @@ Sets the translation of current transform.
 | --- | --- | --- |
 | tx | double |  |
 | ty | double |  |
-| tz | double |  |
+| tz | double | **Example:**
+
+```
+Node node = new Node();
+     node.getTransform().setTranslation(10, 0, 0);
+``` |
 
 **Returns:**
 [Transform](../../com.aspose.threed/transform)
@@ -626,7 +893,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

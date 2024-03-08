@@ -1,9 +1,9 @@
 ---
 title: Scene
 second_title: Aspose.3D for Java API Reference
-description: A scene is a top-level object that contains the nodes geometries materials textures animation poses sub-scenes and etc.
+description: 
 type: docs
-weight: 146
+weight: 151
 url: /java/com.aspose.threed/scene/
 ---
 
@@ -12,16 +12,14 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 ```
 public class Scene extends SceneObject
 ```
-
-A scene is a top-level object that contains the nodes, geometries, materials, textures, animation, poses, sub-scenes and etc. Scene can have sub-scenes, acts as multiple-document support in files like collada/blender/fbx Node hierarchy can be accessed through [getRootNode](../../com.aspose.threed/scene\#getRootNode) [getLibrary](../../com.aspose.threed/scene\#getLibrary) is used to keep a reference of unattached objects during serialization(like meta data or custom objects) so it can be used as a library.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Scene()](#Scene--) | Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class. |
 | [Scene(Entity entity)](#Scene-com.aspose.threed.Entity-) | Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class with an entity attached to a new node. |
 | [Scene(Scene parentScene, String name)](#Scene-com.aspose.threed.Scene-java.lang.String-) | Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class as a sub-scene. |
 | [Scene(String fileName)](#Scene-java.lang.String-) | Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class and open the file immediately. |
+| [Scene()](#Scene--) | Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class. |
 ## Fields
 
 | Field | Description |
@@ -47,9 +45,15 @@ A scene is a top-level object that contains the nodes, geometries, materials, te
 | [fromStream(Stream stream, FileFormat format, Cancellation cancellationToken)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
 | [fromStream(Stream stream, LoadOptions options)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
 | [fromStream(Stream stream, LoadOptions options, Cancellation cancellationToken)](#fromStream-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
+| [fromStream(InputStream stream)](#fromStream-java.io.InputStream-) | Opens the scene from given stream |
+| [fromStream(InputStream stream, Cancellation cancellationToken)](#fromStream-java.io.InputStream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
+| [fromStream(InputStream stream, FileFormat format)](#fromStream-java.io.InputStream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
+| [fromStream(InputStream stream, FileFormat format, Cancellation cancellationToken)](#fromStream-java.io.InputStream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
+| [fromStream(InputStream stream, LoadOptions options)](#fromStream-java.io.InputStream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
+| [fromStream(InputStream stream, LoadOptions options, Cancellation cancellationToken)](#fromStream-java.io.InputStream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
 | [getAnimationClip(String name)](#getAnimationClip-java.lang.String-) | Gets a named [AnimationClip](../../com.aspose.threed/animationclip) |
 | [getAnimationClips()](#getAnimationClips--) | Gets all [AnimationClip](../../com.aspose.threed/animationclip) defined in the scene. |
-| [getAssetInfo()](#getAssetInfo--) | Gets the top-level asset information |
+| [getAssetInfo()](#getAssetInfo--) | Gets the top-level asset information **Example:** The following code shows how to read the application information from a FBX file: |
 | [getClass()](#getClass--) |  |
 | [getCurrentAnimationClip()](#getCurrentAnimationClip--) | Gets the active [AnimationClip](../../com.aspose.threed/animationclip) |
 | [getLibrary()](#getLibrary--) | Objects that not directly used in scene hierarchy can be defined in Library. |
@@ -69,6 +73,12 @@ A scene is a top-level object that contains the nodes, geometries, materials, te
 | [open(Stream stream, FileFormat format, Cancellation cancellationToken)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
 | [open(Stream stream, LoadOptions options)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
 | [open(Stream stream, LoadOptions options, Cancellation cancellationToken)](#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
+| [open(InputStream stream)](#open-java.io.InputStream-) | Opens the scene from given stream |
+| [open(InputStream stream, Cancellation cancellationToken)](#open-java.io.InputStream-com.aspose.threed.Cancellation-) | Opens the scene from given stream |
+| [open(InputStream stream, FileFormat format)](#open-java.io.InputStream-com.aspose.threed.FileFormat-) | Opens the scene from given stream using specified file format. |
+| [open(InputStream stream, FileFormat format, Cancellation cancellationToken)](#open-java.io.InputStream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified file format. |
+| [open(InputStream stream, LoadOptions options)](#open-java.io.InputStream-com.aspose.threed.LoadOptions-) | Opens the scene from given stream using specified IO config. |
+| [open(InputStream stream, LoadOptions options, Cancellation cancellationToken)](#open-java.io.InputStream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given stream using specified IO config. |
 | [open(String fileName)](#open-java.lang.String-) | Opens the scene from given path |
 | [open(String fileName, Cancellation cancellationToken)](#open-java.lang.String-com.aspose.threed.Cancellation-) | Opens the scene from given path |
 | [open(String fileName, FileFormat format)](#open-java.lang.String-com.aspose.threed.FileFormat-) | Opens the scene from given path using specified file format. |
@@ -77,15 +87,19 @@ A scene is a top-level object that contains the nodes, geometries, materials, te
 | [open(String fileName, LoadOptions options, Cancellation cancellationToken)](#open-java.lang.String-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given path using specified file format. |
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
-| [render(Camera camera, BufferedImage bitmap)](#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-) | Render the scene into bitmap from given camera's perspective. |
-| [render(Camera camera, BufferedImage bitmap, ImageRenderOptions options)](#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-com.aspose.threed.ImageRenderOptions-) | Render the scene into bitmap from given camera's perspective. |
+| [render(Camera camera, TextureData bitmap)](#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-) | Render the scene into bitmap from given camera's perspective. |
+| [render(Camera camera, TextureData bitmap, ImageRenderOptions options)](#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-com.aspose.threed.ImageRenderOptions-) | Render the scene into bitmap from given camera's perspective. |
 | [render(Camera camera, String fileName)](#render-com.aspose.threed.Camera-java.lang.String-) | Render the scene into external file from given camera's perspective. |
-| [render(Camera camera, String fileName, Dimension size, String format)](#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-) | Render the scene into external file from given camera's perspective. |
-| [render(Camera camera, String fileName, Dimension size, String format, ImageRenderOptions options)](#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-com.aspose.threed.ImageRenderOptions-) | Render the scene into external file from given camera's perspective. |
+| [render(Camera camera, String fileName, Vector2 size, String format)](#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-) | Render the scene into external file from given camera's perspective. |
+| [render(Camera camera, String fileName, Vector2 size, String format, ImageRenderOptions options)](#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-com.aspose.threed.ImageRenderOptions-) | Render the scene into external file from given camera's perspective. |
 | [save(Stream stream, FileFormat format)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-) | Saves the scene to stream using specified file format. |
 | [save(Stream stream, FileFormat format, Cancellation cancellationToken)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
 | [save(Stream stream, SaveOptions options)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-) | Saves the scene to stream using specified file format. |
 | [save(Stream stream, SaveOptions options, Cancellation cancellationToken)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
+| [save(OutputStream stream, FileFormat format)](#save-java.io.OutputStream-com.aspose.threed.FileFormat-) | Saves the scene to stream using specified file format. |
+| [save(OutputStream stream, FileFormat format, Cancellation cancellationToken)](#save-java.io.OutputStream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
+| [save(OutputStream stream, SaveOptions options)](#save-java.io.OutputStream-com.aspose.threed.SaveOptions-) | Saves the scene to stream using specified file format. |
+| [save(OutputStream stream, SaveOptions options, Cancellation cancellationToken)](#save-java.io.OutputStream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
 | [save(String fileName)](#save-java.lang.String-) | Saves the scene to specified path using specified file format. |
 | [save(String fileName, FileFormat format)](#save-java.lang.String-com.aspose.threed.FileFormat-) | Saves the scene to specified path using specified file format. |
 | [save(String fileName, FileFormat format, Cancellation cancellationToken)](#save-java.lang.String-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Saves the scene to specified path using specified file format. |
@@ -99,14 +113,6 @@ A scene is a top-level object that contains the nodes, geometries, materials, te
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Scene() {#Scene--}
-```
-public Scene()
-```
-
-
-Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class.
-
 ### Scene(Entity entity) {#Scene-com.aspose.threed.Entity-}
 ```
 public Scene(Entity entity)
@@ -118,7 +124,11 @@ Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class w
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| entity | [Entity](../../com.aspose.threed/entity) | The initial entity that attached to the scene |
+| entity | [Entity](../../com.aspose.threed/entity) | The initial entity that attached to the scene **Example:** The following code shows how to create a [getScene](../../com.aspose.threed/scene\#getScene) directly from an [Entity](../../com.aspose.threed/entity):
+
+```
+var scene = new Scene(new Box());
+``` |
 
 ### Scene(Scene parentScene, String name) {#Scene-com.aspose.threed.Scene-java.lang.String-}
 ```
@@ -146,6 +156,14 @@ Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class a
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File's name to open. |
+
+### Scene() {#Scene--}
+```
+public Scene()
+```
+
+
+Initializes a new instance of the [Scene](../../com.aspose.threed/scene) class.
 
 ### VERSION {#VERSION}
 ```
@@ -217,7 +235,11 @@ Opens the scene from given path
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String | File name. |
+| fileName | java.lang.String | File name. **Example:** The following code shows how to create a scene from a file
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -233,7 +255,12 @@ Opens the scene from given path
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a file
+
+```
+var cts = new Cancellation();
+     Scene scene = Scene.fromFile("input.fbx", cts);
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -249,7 +276,12 @@ Opens the scene from given path using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. **Example:** The following code shows how to create a scene from a file
+
+```
+var cts = new Cancellation();
+     Scene scene = Scene.fromFile("input.fbx", FileFormat.FBX7400ASCII, cts);
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -266,7 +298,12 @@ Opens the scene from given path using specified file format.
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a file
+
+```
+var cts = new Cancellation();
+     Scene scene = Scene.fromFile("input.fbx", FileFormat.FBX7400ASCII, cts);
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -282,7 +319,14 @@ Opens the scene from given path using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. **Example:** The following code shows how to create a scene from a file
+
+```
+var cts = new Cancellation();
+     var opt = new FbxLoadOptions();
+     opt.getLookupPaths().add("textures");
+     Scene scene = Scene.fromFile("input.fbx", opt, cts);
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -299,7 +343,14 @@ Opens the scene from given path using specified file format.
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a file
+
+```
+var cts = new Cancellation();
+     var opt = new FbxLoadOptions();
+     opt.getLookupPaths().add("textures");
+     Scene scene = Scene.fromFile("input.fbx", opt, cts);
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -314,7 +365,16 @@ Opens the scene from given stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. **Example:** The following code shows how to create a scene from a stream with a cancellation token source
+
+```
+var cts = new Cancellation();
+     try(InputStream input = new FileInputStream("input.fbx")) {
+         try(Stream stream = Stream.wrap(input)) {
+             Scene scene = Scene.fromStream(stream, cts);
+         }
+      }
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -330,7 +390,16 @@ Opens the scene from given stream
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a stream with a cancellation token source
+
+```
+var cts = new Cancellation();
+     try(InputStream input = new FileInputStream("input.fbx")) {
+         try(Stream stream = Stream.wrap(input)) {
+             Scene scene = Scene.fromStream(stream, cts);
+         }
+      }
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -346,7 +415,15 @@ Opens the scene from given stream using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. **Example:** The following code shows how to create a scene from a stream
+
+```
+try(InputStream input = new FileInputStream("input.fbx")) {
+          try(Stream stream = Stream.wrap(input)) {
+              Scene scene = Scene.fromStream(stream);
+          }
+      }
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -363,7 +440,15 @@ Opens the scene from given stream using specified file format.
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a stream
+
+```
+try(InputStream input = new FileInputStream("input.fbx")) {
+          try(Stream stream = Stream.wrap(input)) {
+              Scene scene = Scene.fromStream(stream);
+          }
+      }
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -379,7 +464,17 @@ Opens the scene from given stream using specified IO config.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. **Example:** The following code shows how to create a scene from a stream with load options
+
+```
+var opts = new FbxLoadOptions();
+     opts.getLookupPaths().add("textures");
+     try(InputStream input = new FileInputStream("input.fbx")) {
+         try(Stream stream = Stream.wrap(input)) {
+             Scene scene = Scene.fromStream(stream, opts);
+         }
+      }
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -396,7 +491,156 @@ Opens the scene from given stream using specified IO config.
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a stream with load options
+
+```
+var opts = new FbxLoadOptions();
+     opts.getLookupPaths().add("textures");
+     try(InputStream input = new FileInputStream("input.fbx")) {
+         try(Stream stream = Stream.wrap(input)) {
+             Scene scene = Scene.fromStream(stream, opts);
+         }
+      }
+``` |
+
+**Returns:**
+[Scene](../../com.aspose.threed/scene)
+### fromStream(InputStream stream) {#fromStream-java.io.InputStream-}
+```
+public static Scene fromStream(InputStream stream)
+```
+
+
+Opens the scene from given stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. **Example:** The following code shows how to create a scene from a stream with a cancellation token source
+
+```
+var cts = new Cancellation();    
+     try(InputStream input = new FileInputStream("input.fbx")) {    
+         Scene scene = Scene.fromStream(input);    
+      }
+``` |
+
+**Returns:**
+[Scene](../../com.aspose.threed/scene)
+### fromStream(InputStream stream, Cancellation cancellationToken) {#fromStream-java.io.InputStream-com.aspose.threed.Cancellation-}
+```
+public static Scene fromStream(InputStream stream, Cancellation cancellationToken)
+```
+
+
+Opens the scene from given stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a stream with a cancellation token source
+
+```
+var cts = new Cancellation();    
+     try(InputStream input = new FileInputStream("input.fbx")) {    
+         Scene scene = Scene.fromStream(input, cts);    
+      }
+``` |
+
+**Returns:**
+[Scene](../../com.aspose.threed/scene)
+### fromStream(InputStream stream, FileFormat format) {#fromStream-java.io.InputStream-com.aspose.threed.FileFormat-}
+```
+public static Scene fromStream(InputStream stream, FileFormat format)
+```
+
+
+Opens the scene from given stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. **Example:** The following code shows how to create a scene from a stream
+
+```
+try(InputStream input = new FileInputStream("input.fbx")) {    
+          Scene scene = Scene.fromStream(input);    
+      }
+``` |
+
+**Returns:**
+[Scene](../../com.aspose.threed/scene)
+### fromStream(InputStream stream, FileFormat format, Cancellation cancellationToken) {#fromStream-java.io.InputStream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
+```
+public static Scene fromStream(InputStream stream, FileFormat format, Cancellation cancellationToken)
+```
+
+
+Opens the scene from given stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a stream
+
+```
+try(InputStream input = new FileInputStream("input.fbx")) {    
+          Scene scene = Scene.fromStream(input);    
+      }
+``` |
+
+**Returns:**
+[Scene](../../com.aspose.threed/scene)
+### fromStream(InputStream stream, LoadOptions options) {#fromStream-java.io.InputStream-com.aspose.threed.LoadOptions-}
+```
+public static Scene fromStream(InputStream stream, LoadOptions options)
+```
+
+
+Opens the scene from given stream using specified IO config.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. **Example:** The following code shows how to create a scene from a stream with load options
+
+```
+var opts = new FbxLoadOptions();    
+     opts.getLookupPaths().add("textures");    
+     try(InputStream input = new FileInputStream("input.fbx")) {    
+         Scene scene = Scene.fromStream(input, opts);    
+      }
+``` |
+
+**Returns:**
+[Scene](../../com.aspose.threed/scene)
+### fromStream(InputStream stream, LoadOptions options, Cancellation cancellationToken) {#fromStream-java.io.InputStream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
+```
+public static Scene fromStream(InputStream stream, LoadOptions options, Cancellation cancellationToken)
+```
+
+
+Opens the scene from given stream using specified IO config.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to create a scene from a stream with load options
+
+```
+var opts = new FbxLoadOptions();    
+     opts.getLookupPaths().add("textures");    
+     try(InputStream input = new FileInputStream("input.fbx")) {    
+         Scene scene = Scene.fromStream(input, opts);    
+      }
+``` |
 
 **Returns:**
 [Scene](../../com.aspose.threed/scene)
@@ -431,7 +675,14 @@ public AssetInfo getAssetInfo()
 ```
 
 
-Gets the top-level asset information
+Gets the top-level asset information **Example:** The following code shows how to read the application information from a FBX file:
+
+```
+Scene scene = Scene.fromFile("test.fbx");
+     System.out.printf("The FBX file is created by %s %s",
+         scene.getAssetInfo().getApplicationName(),
+         scene.getAssetInfo().getApplicationVersion());
+```
 
 **Returns:**
 [AssetInfo](../../com.aspose.threed/assetinfo)
@@ -516,7 +767,13 @@ public Node getRootNode()
 ```
 
 
-Gets the root node of the scene.
+Gets the root node of the scene. **Example:** The following code shows how to create a node with Box entity attached to the root node.
+
+```
+Scene scene = new Scene();
+     scene.getRootNode().createChildNode(new Box());
+     scene.save("box.stl");
+```
 
 **Returns:**
 [Node](../../com.aspose.threed/node)
@@ -577,7 +834,16 @@ Opens the scene from given stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
+| stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. **Example:** The following code shows how to open a scene from stream
+
+```
+var scene = new Scene();
+     try(var fs = new FileInputStream("input.fbx")) {
+         try (var stream = Stream.wrap(fs)) {
+             scene.open(stream);
+         }
+     }
+``` |
 
 ### open(Stream stream, Cancellation cancellationToken) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.Cancellation-}
 ```
@@ -591,7 +857,17 @@ Opens the scene from given stream
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from stream with a cancellation token
+
+```
+var scene = new Scene();
+     Cancellation cts = new Cancellation();
+     try(var fs = new FileInputStream("input.fbx")) {
+         try (var stream = Stream.wrap(fs)) {
+             scene.open(stream, cts);
+         }
+     }
+``` |
 
 ### open(Stream stream, FileFormat format) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-}
 ```
@@ -605,7 +881,16 @@ Opens the scene from given stream using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. **Example:** The following code shows how to open a scene from stream
+
+```
+Scene scene = new Scene();
+     try(var fs = new FileInputStream("input.fbx")) {
+         try (var stream = Stream.wrap(fs)) {
+             scene.open(stream, FileFormat.GLTF2);
+         }
+     }
+``` |
 
 ### open(Stream stream, FileFormat format, Cancellation cancellationToken) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
 ```
@@ -620,7 +905,16 @@ Opens the scene from given stream using specified file format.
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from stream
+
+```
+Scene scene = new Scene();
+     try(var fs = new FileInputStream("input.fbx")) {
+         try (var stream = Stream.wrap(fs)) {
+             scene.open(stream, FileFormat.GLTF2);
+         }
+     }
+``` |
 
 ### open(Stream stream, LoadOptions options) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-}
 ```
@@ -634,7 +928,18 @@ Opens the scene from given stream using specified IO config.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. **Example:** The following code shows how to open a scene from stream with extra load options
+
+```
+Scene scene = new Scene();
+     try(var fs = new FileInputStream("input.fbx")) {
+         try (var stream = Stream.wrap(fs)) {
+             var opt = new FbxLoadOptions();
+             opt.getLookupPaths().add("textures");
+             scene.open(stream, opt);
+         }
+     }
+``` |
 
 ### open(Stream stream, LoadOptions options, Cancellation cancellationToken) {#open-com.aspose.csporter.helpers.Stream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
 ```
@@ -649,7 +954,150 @@ Opens the scene from given stream using specified IO config.
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from stream with extra load options
+
+```
+Scene scene = new Scene();
+     try(var fs = new FileInputStream("input.fbx")) {
+         try (var stream = Stream.wrap(fs)) {
+             var opt = new FbxLoadOptions();
+             opt.getLookupPaths().add("textures");
+             scene.open(stream, opt);
+         }
+     }
+``` |
+
+### open(InputStream stream) {#open-java.io.InputStream-}
+```
+public void open(InputStream stream)
+```
+
+
+Opens the scene from given stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. **Example:** The following code shows how to open a scene from stream
+
+```
+var scene = new Scene();    
+     try(var fs = new FileInputStream("input.fbx")) {    
+         scene.open(fs);    
+     }
+``` |
+
+### open(InputStream stream, Cancellation cancellationToken) {#open-java.io.InputStream-com.aspose.threed.Cancellation-}
+```
+public void open(InputStream stream, Cancellation cancellationToken)
+```
+
+
+Opens the scene from given stream
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from stream with a cancellation token
+
+```
+var scene = new Scene();    
+     Cancellation cts = new Cancellation();    
+     try(var fs = new FileInputStream("input.fbx")) {    
+         scene.open(fs, cts);    
+     }
+``` |
+
+### open(InputStream stream, FileFormat format) {#open-java.io.InputStream-com.aspose.threed.FileFormat-}
+```
+public void open(InputStream stream, FileFormat format)
+```
+
+
+Opens the scene from given stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. **Example:** The following code shows how to open a scene from stream
+
+```
+Scene scene = new Scene();    
+     try(var fs = new FileInputStream("input.fbx")) {    
+         scene.open(fs, FileFormat.GLTF2);    
+     }
+``` |
+
+### open(InputStream stream, FileFormat format, Cancellation cancellationToken) {#open-java.io.InputStream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
+```
+public void open(InputStream stream, FileFormat format, Cancellation cancellationToken)
+```
+
+
+Opens the scene from given stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from stream
+
+```
+Scene scene = new Scene();    
+     try(var fs = new FileInputStream("input.fbx")) {    
+         scene.open(fs, FileFormat.GLTF2);    
+     }
+``` |
+
+### open(InputStream stream, LoadOptions options) {#open-java.io.InputStream-com.aspose.threed.LoadOptions-}
+```
+public void open(InputStream stream, LoadOptions options)
+```
+
+
+Opens the scene from given stream using specified IO config.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. **Example:** The following code shows how to open a scene from stream with extra load options
+
+```
+Scene scene = new Scene();    
+     try(var fs = new FileInputStream("input.fbx")) {    
+         var opt = new FbxLoadOptions();    
+         opt.getLookupPaths().add("textures");    
+         scene.open(fs, opt);    
+     }
+``` |
+
+### open(InputStream stream, LoadOptions options, Cancellation cancellationToken) {#open-java.io.InputStream-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
+```
+public void open(InputStream stream, LoadOptions options, Cancellation cancellationToken)
+```
+
+
+Opens the scene from given stream using specified IO config.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | Input stream, user is responsible for closing the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from stream with extra load options
+
+```
+Scene scene = new Scene();    
+     try(var fs = new FileInputStream("input.fbx")) {    
+         var opt = new FbxLoadOptions();    
+         opt.getLookupPaths().add("textures");    
+         scene.open(fs, opt);    
+     }
+``` |
 
 ### open(String fileName) {#open-java.lang.String-}
 ```
@@ -662,7 +1110,12 @@ Opens the scene from given path
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String | File name. |
+| fileName | java.lang.String | File name. **Example:** The following code shows how to open a scene from file name
+
+```
+Scene scene = new Scene();
+     scene.open("input.fbx");
+``` |
 
 ### open(String fileName, Cancellation cancellationToken) {#open-java.lang.String-com.aspose.threed.Cancellation-}
 ```
@@ -676,7 +1129,13 @@ Opens the scene from given path
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from file name and a cancellation token source
+
+```
+var cts = new Cancellation();
+     Scene scene = new Scene();
+     scene.open("input.fbx", cts);
+``` |
 
 ### open(String fileName, FileFormat format) {#open-java.lang.String-com.aspose.threed.FileFormat-}
 ```
@@ -690,7 +1149,13 @@ Opens the scene from given path using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | File format. **Example:** The following code shows how to open a scene from file name with a cancellation token
+
+```
+Scene scene = new Scene();
+     Cancellation cts = new Cancellation();
+     scene.open("input.fbx", FileFormat.FBX7400ASCII, cts);
+``` |
 
 ### open(String fileName, FileFormat format, Cancellation cancellationToken) {#open-java.lang.String-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
 ```
@@ -705,7 +1170,13 @@ Opens the scene from given path using specified file format.
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | File format. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from file name with a cancellation token
+
+```
+Scene scene = new Scene();
+     Cancellation cts = new Cancellation();
+     scene.open("input.fbx", FileFormat.FBX7400ASCII, cts);
+``` |
 
 ### open(String fileName, LoadOptions options) {#open-java.lang.String-com.aspose.threed.LoadOptions-}
 ```
@@ -719,7 +1190,14 @@ Opens the scene from given path using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
+| options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. **Example:** The following code shows how to open a scene from file name with extra load options
+
+```
+Scene scene = new Scene();
+     var opts = new FbxLoadOptions();
+     opts.getLookupPaths().add("textures");
+     scene.open("input.fbx", opts);
+``` |
 
 ### open(String fileName, LoadOptions options, Cancellation cancellationToken) {#open-java.lang.String-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-}
 ```
@@ -734,7 +1212,15 @@ Opens the scene from given path using specified file format.
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
 | options | [LoadOptions](../../com.aspose.threed/loadoptions) | More detailed configuration to open the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the load task **Example:** The following code shows how to open a scene from file name with extra load options and cancellation token
+
+```
+var cts = new Cancellation();
+     Scene scene = new Scene();
+     var opts = new FbxLoadOptions();
+     opts.getLookupPaths().add("textures");
+     scene.Open("input.fbx", opts, cts);
+``` |
 
 ### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
 ```
@@ -766,23 +1252,9 @@ Remove the specified property identified by name
 
 **Returns:**
 boolean
-### render(Camera camera, BufferedImage bitmap) {#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-}
+### render(Camera camera, TextureData bitmap) {#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-}
 ```
-public void render(Camera camera, BufferedImage bitmap)
-```
-
-
-Render the scene into bitmap from given camera's perspective.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
-| bitmap | java.awt.image.BufferedImage | Target of the rendered result |
-
-### render(Camera camera, BufferedImage bitmap, ImageRenderOptions options) {#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-com.aspose.threed.ImageRenderOptions-}
-```
-public void render(Camera camera, BufferedImage bitmap, ImageRenderOptions options)
+public void render(Camera camera, TextureData bitmap)
 ```
 
 
@@ -792,7 +1264,21 @@ Render the scene into bitmap from given camera's perspective.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
-| bitmap | java.awt.image.BufferedImage | Target of the rendered result |
+| bitmap | [TextureData](../../com.aspose.threed/texturedata) | Target of the rendered result |
+
+### render(Camera camera, TextureData bitmap, ImageRenderOptions options) {#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-com.aspose.threed.ImageRenderOptions-}
+```
+public void render(Camera camera, TextureData bitmap, ImageRenderOptions options)
+```
+
+
+Render the scene into bitmap from given camera's perspective.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
+| bitmap | [TextureData](../../com.aspose.threed/texturedata) | Target of the rendered result |
 | options | [ImageRenderOptions](../../com.aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
 
 ### render(Camera camera, String fileName) {#render-com.aspose.threed.Camera-java.lang.String-}
@@ -809,9 +1295,9 @@ Render the scene into external file from given camera's perspective. The default
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
 | fileName | java.lang.String | The file name of output file |
 
-### render(Camera camera, String fileName, Dimension size, String format) {#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-}
+### render(Camera camera, String fileName, Vector2 size, String format) {#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-}
 ```
-public void render(Camera camera, String fileName, Dimension size, String format)
+public void render(Camera camera, String fileName, Vector2 size, String format)
 ```
 
 
@@ -822,12 +1308,12 @@ Render the scene into external file from given camera's perspective.
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
 | fileName | java.lang.String | The file name of output file |
-| size | java.awt.Dimension | The size of final rendered image |
+| size | [Vector2](../../com.aspose.threed/vector2) | The size of final rendered image |
 | format | java.lang.String | The image format of the output file |
 
-### render(Camera camera, String fileName, Dimension size, String format, ImageRenderOptions options) {#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-com.aspose.threed.ImageRenderOptions-}
+### render(Camera camera, String fileName, Vector2 size, String format, ImageRenderOptions options) {#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-com.aspose.threed.ImageRenderOptions-}
 ```
-public void render(Camera camera, String fileName, Dimension size, String format, ImageRenderOptions options)
+public void render(Camera camera, String fileName, Vector2 size, String format, ImageRenderOptions options)
 ```
 
 
@@ -838,7 +1324,7 @@ Render the scene into external file from given camera's perspective.
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
 | fileName | java.lang.String | The file name of output file |
-| size | java.awt.Dimension | The size of final rendered image |
+| size | [Vector2](../../com.aspose.threed/vector2) | The size of final rendered image |
 | format | java.lang.String | The image format of the output file |
 | options | [ImageRenderOptions](../../com.aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
 
@@ -854,7 +1340,15 @@ Saves the scene to stream using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| format | [FileFormat](../../com.aspose.threed/fileformat) | Format. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | Format. **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     try(var ms = new ByteArrayOutputStream())
+     {
+         scene.save(ms, FileFormat.USDZ);
+     }
+``` |
 
 ### save(Stream stream, FileFormat format, Cancellation cancellationToken) {#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
 ```
@@ -869,7 +1363,16 @@ Saves the scene to stream using specified file format.
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | Format. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     var cts = new Cancellation();
+     try(var ms = new ByteArrayOutputStream())
+     {
+         scene.save(ms, FileFormat.USDZ, cts);
+     }
+``` |
 
 ### save(Stream stream, SaveOptions options) {#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-}
 ```
@@ -883,7 +1386,17 @@ Saves the scene to stream using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
-| options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. |
+| options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     var opt = new UsdSaveOptions();
+     opt.setPrimitiveToMesh(true);
+     try(var ms = new ByteArrayOutputStream())
+     {
+         scene.save(ms, opt);
+     }
+``` |
 
 ### save(Stream stream, SaveOptions options, Cancellation cancellationToken) {#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-}
 ```
@@ -898,7 +1411,114 @@ Saves the scene to stream using specified file format.
 | --- | --- | --- |
 | stream | com.aspose.csporter.helpers.Stream | Input stream, user is responsible for closing the stream. |
 | options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     var cts = new Cancellation();
+     var opt = new UsdSaveOptions();
+     opt.setPrimitiveToMesh(true);
+     try(var ms = new ByteArrayOutputStream())
+     {
+         scene.save(ms, opt, cts);
+     }
+``` |
+
+### save(OutputStream stream, FileFormat format) {#save-java.io.OutputStream-com.aspose.threed.FileFormat-}
+```
+public void save(OutputStream stream, FileFormat format)
+```
+
+
+Saves the scene to stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | Input stream, user is responsible for closing the stream. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | Format. **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");    
+     try(var ms = new ByteArrayOutputStream())    
+     {    
+         scene.save(ms, FileFormat.USDZ);    
+     }
+``` |
+
+### save(OutputStream stream, FileFormat format, Cancellation cancellationToken) {#save-java.io.OutputStream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
+```
+public void save(OutputStream stream, FileFormat format, Cancellation cancellationToken)
+```
+
+
+Saves the scene to stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | Input stream, user is responsible for closing the stream. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | Format. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");    
+     var cts = new Cancellation();    
+     try(var ms = new ByteArrayOutputStream())    
+     {    
+         scene.save(ms, FileFormat.USDZ, cts);    
+     }
+``` |
+
+### save(OutputStream stream, SaveOptions options) {#save-java.io.OutputStream-com.aspose.threed.SaveOptions-}
+```
+public void save(OutputStream stream, SaveOptions options)
+```
+
+
+Saves the scene to stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | Input stream, user is responsible for closing the stream. |
+| options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");    
+     var opt = new UsdSaveOptions();    
+     opt.setPrimitiveToMesh(true);    
+     try(var ms = new ByteArrayOutputStream())    
+     {    
+         scene.save(ms, opt);    
+     }
+``` |
+
+### save(OutputStream stream, SaveOptions options, Cancellation cancellationToken) {#save-java.io.OutputStream-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-}
+```
+public void save(OutputStream stream, SaveOptions options, Cancellation cancellationToken)
+```
+
+
+Saves the scene to stream using specified file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | Input stream, user is responsible for closing the stream. |
+| options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");    
+     var cts = new Cancellation();    
+     var opt = new UsdSaveOptions();    
+     opt.setPrimitiveToMesh(true);    
+     try(var ms = new ByteArrayOutputStream())    
+     {    
+         scene.save(ms, opt, cts);    
+     }
+``` |
 
 ### save(String fileName) {#save-java.lang.String-}
 ```
@@ -911,7 +1531,12 @@ Saves the scene to specified path using specified file format.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String | File name. |
+| fileName | java.lang.String | File name. **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     scene.save("output.usdz");
+``` |
 
 ### save(String fileName, FileFormat format) {#save-java.lang.String-com.aspose.threed.FileFormat-}
 ```
@@ -925,7 +1550,12 @@ Saves the scene to specified path using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| format | [FileFormat](../../com.aspose.threed/fileformat) | Format. |
+| format | [FileFormat](../../com.aspose.threed/fileformat) | Format. **Example:** The following code shows how to save scene
+
+```
+Scene scene = Scene.fromFile("input.fbx");
+     scene.save("output.usdz", FileFormat.USDZ);
+``` |
 
 ### save(String fileName, FileFormat format, Cancellation cancellationToken) {#save-java.lang.String-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-}
 ```
@@ -940,7 +1570,13 @@ Saves the scene to specified path using specified file format.
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
 | format | [FileFormat](../../com.aspose.threed/fileformat) | Format. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task **Example:** The following code shows how to save scene
+
+```
+var cts = new Cancellation();
+     Scene scene = Scene.fromFile("input.fbx");
+     scene.save("output.usdz", FileFormat.USDZ, cts);
+``` |
 
 ### save(String fileName, SaveOptions options) {#save-java.lang.String-com.aspose.threed.SaveOptions-}
 ```
@@ -954,7 +1590,14 @@ Saves the scene to specified path using specified file format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
-| options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. |
+| options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. **Example:** The following code shows how to save scene
+
+```
+var scene = Scene.fromFile("input.fbx");
+     var opts = new UsdSaveOptions();
+     opts.setPrimitiveToMesh(true);
+     scene.save("output.usdz", opts);
+``` |
 
 ### save(String fileName, SaveOptions options, Cancellation cancellationToken) {#save-java.lang.String-com.aspose.threed.SaveOptions-com.aspose.threed.Cancellation-}
 ```
@@ -969,7 +1612,15 @@ Saves the scene to specified path using specified file format.
 | --- | --- | --- |
 | fileName | java.lang.String | File name. |
 | options | [SaveOptions](../../com.aspose.threed/saveoptions) | More detailed configuration to save the stream. |
-| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task |
+| cancellationToken | [Cancellation](../../com.aspose.threed/cancellation) | Cancellation token to the save task **Example:** The following code shows how to save scene
+
+```
+var cts = new Cancellation();
+     var scene = Scene.fromFile("input.fbx");
+     var opts = new UsdSaveOptions();
+     opts.setPrimitiveToMesh(true);
+     scene.save("output.usdz", opts, cts);
+``` |
 
 ### setAssetInfo(AssetInfo value) {#setAssetInfo-com.aspose.threed.AssetInfo-}
 ```
@@ -982,7 +1633,14 @@ Sets the top-level asset information
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [AssetInfo](../../com.aspose.threed/assetinfo) | New value |
+| value | [AssetInfo](../../com.aspose.threed/assetinfo) | New value **Example:** The following code shows how to read the application information from a FBX file:
+
+```
+Scene scene = Scene.fromFile("test.fbx");
+     System.out.printf("The FBX file is created by %s %s",
+         scene.getAssetInfo().getApplicationName(),
+         scene.getAssetInfo().getApplicationVersion());
+``` |
 
 ### setCurrentAnimationClip(AnimationClip value) {#setCurrentAnimationClip-com.aspose.threed.AnimationClip-}
 ```
@@ -1044,7 +1702,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

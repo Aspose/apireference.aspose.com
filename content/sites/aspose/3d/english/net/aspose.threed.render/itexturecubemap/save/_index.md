@@ -9,7 +9,7 @@ url: /net/aspose.threed.render/itexturecubemap/save/
 ## ITextureCubemap.Save method (1 of 3)
 
 ```csharp
-public void Save(CubeFaceData<string> path, ImageFormat format)
+public void Save(CubeFaceData<string> path, string format)
 ```
 
 ### See Also
@@ -24,12 +24,13 @@ public void Save(CubeFaceData<string> path, ImageFormat format)
 ## ITextureCubemap.Save method (2 of 3)
 
 ```csharp
-public void Save(CubeFaceData<Bitmap> bitmap)
+public void Save(CubeFaceData<TextureData> bitmap)
 ```
 
 ### See Also
 
 * struct [CubeFaceData&lt;T&gt;](../../cubefacedata-1)
+* class [TextureData](../../texturedata)
 * interface [ITextureCubemap](../../itexturecubemap)
 * namespace [Aspose.ThreeD.Render](../../itexturecubemap)
 * assembly [Aspose.3D](../../../)
@@ -41,17 +42,18 @@ public void Save(CubeFaceData<Bitmap> bitmap)
 Save the specified side to memory
 
 ```csharp
-public void Save(CubeFace side, Bitmap bitmap)
+public void Save(CubeFace side, TextureData bitmap)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | side | CubeFace |  |
-| bitmap | Bitmap |  |
+| bitmap | TextureData |  |
 
 ### See Also
 
 * enum [CubeFace](../../cubeface)
+* class [TextureData](../../texturedata)
 * interface [ITextureCubemap](../../itexturecubemap)
 * namespace [Aspose.ThreeD.Render](../../itexturecubemap)
 * assembly [Aspose.3D](../../../)

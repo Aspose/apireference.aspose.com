@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.animation/animationclip/
+url: /aspose.threed.animation/animationclip/
 is_root: false
 ---
 
@@ -15,9 +15,9 @@ The scene can have one or more animation clips.
 
 
 
-**Inheritance:** [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -26,8 +26,8 @@ The AnimationClip type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [AnimationClip()](/3d/python-net/aspose.threed.animation/animationclip/__init__/#) | Initializes a new instance of the [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) class. |
-| [AnimationClip(name)](/3d/python-net/aspose.threed.animation/animationclip/__init__/#str) | Initializes a new instance of the [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) class. |
+| [__init__](/3d/python-net/aspose.threed.animation/animationclip/__init__/#) | Initializes a new instance of the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) class. |
+| [__init__](/3d/python-net/aspose.threed.animation/animationclip/__init__/#str) | Initializes a new instance of the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) class. |
 
 
 ### Properties
@@ -45,17 +45,17 @@ The AnimationClip type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.animation/animationclip/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.animation/animationclip/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.animation/animationclip/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.animation/animationclip/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.animation/animationclip/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [create_animation_node(node_name)](/3d/python-net/aspose.threed.animation/animationclip/create_animation_node/#str) | A shorthand function to create and register the animation node on current clip. |
+| [remove_property](/3d/python-net/aspose.threed.animation/animationclip/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.animation/animationclip/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.animation/animationclip/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.animation/animationclip/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.animation/animationclip/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [create_animation_node](/3d/python-net/aspose.threed.animation/animationclip/create_animation_node/#str) | A shorthand function to create and register the animation node on current clip. |
 
 
 
 ### See Also
-* module [aspose.threed.animation](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.animation`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.shading/lambertmaterial/get_texture/
+url: /aspose.threed.shading/lambertmaterial/get_texture/
 is_root: false
 ---
 
-## get_texture(slot_name) {#str}
+## get_texture {#str}
 
 Gets the texture from the specified slot, it can be material's property name or shader's parameter name
 
@@ -33,19 +33,19 @@ def get_texture(self, slot_name):
 
 
 ```python
+from aspose import pycore
 from aspose.threed.shading import LambertMaterial, Material, Texture
-import aspose.pycore
 
 mat = LambertMaterial()
 tex = Texture()
 tex.file_name = "diffuse.png"
 mat.set_texture(Material.MAP_DIFFUSE, tex)
-tex = aspose.pycore.cast(Aspose.ThreeD.Shading.Texture, mat.get_texture(Material.MAP_DIFFUSE))
+tex = pycore.cast(Texture, mat.get_texture(Material.MAP_DIFFUSE))
 
 ```
 
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)

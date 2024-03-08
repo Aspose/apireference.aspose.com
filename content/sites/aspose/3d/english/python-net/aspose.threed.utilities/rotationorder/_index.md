@@ -3,8 +3,8 @@ title: RotationOrder enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /python-net/aspose.threed.utilities/rotationorder/
+weight: 300
+url: /aspose.threed.utilities/rotationorder/
 is_root: false
 ---
 
@@ -29,4 +29,4 @@ The RotationOrder type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
+* module [`aspose.threed.utilities`](..)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.entities/vertexelementnormal/clear/
+url: /aspose.threed.entities/vertexelementnormal/clear/
 is_root: false
 ---
 
-## clear() {#}
+## clear {#}
 
 Removes all elements from the direct and the index arrays.
 
@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.shading/phongmaterial/
+url: /aspose.threed.shading/phongmaterial/
 is_root: false
 ---
 
@@ -14,10 +14,10 @@ Material for blinn-phong shading model.
 
 
 
-**Inheritance:** [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) → 
-[LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial) → 
-[Material](/3d/python-net/aspose.threed.shading/material) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) → 
+[`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial) → 
+[`Material`](/3d/python-net/aspose.threed.shading/material) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -26,8 +26,8 @@ The PhongMaterial type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PhongMaterial()](/3d/python-net/aspose.threed.shading/phongmaterial/__init__/#) | Initializes a new instance of the [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) class. |
-| [PhongMaterial(name)](/3d/python-net/aspose.threed.shading/phongmaterial/__init__/#str) | Initializes a new instance of the [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) class. |
+| [__init__](/3d/python-net/aspose.threed.shading/phongmaterial/__init__/#) | Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class. |
+| [__init__](/3d/python-net/aspose.threed.shading/phongmaterial/__init__/#str) | Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class. |
 
 
 ### Properties
@@ -35,11 +35,11 @@ The PhongMaterial type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/phongmaterial/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/phongmaterial/properties) | Gets the collection of all properties. |
-| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/phongmaterial/map_specular) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
-| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/phongmaterial/map_diffuse) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
-| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/phongmaterial/map_emissive) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
-| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/phongmaterial/map_ambient) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
-| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/phongmaterial/map_normal) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
+| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/phongmaterial/map_specular) | Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
+| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/phongmaterial/map_diffuse) | Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
+| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/phongmaterial/map_emissive) | Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
+| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/phongmaterial/map_ambient) | Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
+| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/phongmaterial/map_normal) | Used in [`Material.set_texture`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
 | [emissive_color](/3d/python-net/aspose.threed.shading/phongmaterial/emissive_color) | Gets or sets the emissive color |
 | [ambient_color](/3d/python-net/aspose.threed.shading/phongmaterial/ambient_color) | Gets or sets the ambient color |
 | [diffuse_color](/3d/python-net/aspose.threed.shading/phongmaterial/diffuse_color) | Gets or sets the diffuse color |
@@ -55,19 +55,19 @@ The PhongMaterial type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.shading/phongmaterial/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.shading/phongmaterial/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.shading/phongmaterial/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.shading/phongmaterial/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.shading/phongmaterial/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_texture(slot_name)](/3d/python-net/aspose.threed.shading/phongmaterial/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
-| [set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/phongmaterial/set_texture/#str-TextureBase) | Sets the texture to specified slot |
+| [remove_property](/3d/python-net/aspose.threed.shading/phongmaterial/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.shading/phongmaterial/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.shading/phongmaterial/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.shading/phongmaterial/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.shading/phongmaterial/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_texture](/3d/python-net/aspose.threed.shading/phongmaterial/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
+| [set_texture](/3d/python-net/aspose.threed.shading/phongmaterial/set_texture/#str-aspose.threed.shading.TextureBase) | Sets the texture to specified slot |
 
 
 
 ### See Also
-* module [aspose.threed.shading](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* module [`aspose.threed.shading`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)

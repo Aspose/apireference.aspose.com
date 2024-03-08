@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2510
+weight: 2620
 url: /net/aspose.threed.utilities/filesystem/
 ---
 ## FileSystem class
@@ -21,6 +21,20 @@ public abstract class FileSystem : IDisposable
 | virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | Dispose the File system and release its resources. |
 | abstract [ReadFile](../../aspose.threed.utilities/filesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
 | abstract [WriteFile](../../aspose.threed.utilities/filesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |
+
+### Examples
+
+The following code shows how to import file, and provide dependent files in a given directory
+
+```csharp
+var inputFile = "input.fbx";
+var format = FileFormat.Detect(inputFile);
+//create a load options instance and specify a zip file system
+var opt = format.CreateLoadOptions();
+opt.FileSystem = new LocalFileSystem("textures/");
+//load the file
+var scene = Scene.FromFile(inputFile, opt);
+```
 
 ### See Also
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.entities/vertexelementtangent/data/
+url: /aspose.threed.entities/vertexelementtangent/data/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def data(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent)

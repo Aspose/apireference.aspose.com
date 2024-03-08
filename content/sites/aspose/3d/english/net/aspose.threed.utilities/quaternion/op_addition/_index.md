@@ -3,7 +3,7 @@ title: op_Addition
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.threed.utilities/quaternion/op_addition/
 ---
 ## Quaternion Addition operator

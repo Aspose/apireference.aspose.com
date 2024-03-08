@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.utilities/relativerectangle/offset_height/
+url: /aspose.threed.utilities/relativerectangle/offset_height/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def offset_height(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle)
+* module [`aspose.threed.utilities`](../../)
+* class [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle)

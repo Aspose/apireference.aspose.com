@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /python-net/aspose.threed.entities/dish/height_segments/
+url: /aspose.threed.entities/dish/height_segments/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def height_segments(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Dish](/3d/python-net/aspose.threed.entities/dish)
+* module [`aspose.threed.entities`](../../)
+* class [`Dish`](/3d/python-net/aspose.threed.entities/dish)

@@ -3,10 +3,10 @@ title: op_Division
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.threed.utilities/vector3/op_division/
 ---
-## Vector3 Division operator
+## Vector3 Division operator (1 of 2)
 
 Operator overloading for /
 
@@ -18,6 +18,31 @@ public static Vector3 operator /(Vector3 lhs, double rhs)
 | --- | --- | --- |
 | lhs | Vector3 | The left vector |
 | rhs | Double | The right double value |
+
+### Return Value
+
+Result vector
+
+### See Also
+
+* struct [Vector3](../../vector3)
+* namespace [Aspose.ThreeD.Utilities](../../vector3)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Vector3 Division operator (2 of 2)
+
+Operator overloading for /
+
+```csharp
+public static Vector3 operator /(Vector3 lhs, Vector3 rhs)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhs | Vector3 | The left vector |
+| rhs | Vector3 | The right vector |
 
 ### Return Value
 

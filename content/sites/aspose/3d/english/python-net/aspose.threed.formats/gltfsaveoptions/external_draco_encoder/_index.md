@@ -3,8 +3,8 @@ title: external_draco_encoder property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /python-net/aspose.threed.formats/gltfsaveoptions/external_draco_encoder/
+weight: 90
+url: /aspose.threed.formats/gltfsaveoptions/external_draco_encoder/
 is_root: false
 ---
 
@@ -28,5 +28,5 @@ def external_draco_encoder(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)

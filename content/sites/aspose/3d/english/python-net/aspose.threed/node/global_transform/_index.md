@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /python-net/aspose.threed/node/global_transform/
+url: /aspose.threed/node/global_transform/
 is_root: false
 ---
 
@@ -39,6 +39,6 @@ def global_transform(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`GlobalTransform`](/3d/python-net/aspose.threed/globaltransform)
+* class [`Node`](/3d/python-net/aspose.threed/node)

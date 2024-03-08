@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 290
-url: /python-net/aspose.threed.entities/cylinder/theta_length/
+url: /aspose.threed.entities/cylinder/theta_length/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def theta_length(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)

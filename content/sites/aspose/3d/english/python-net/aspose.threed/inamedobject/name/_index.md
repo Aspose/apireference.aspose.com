@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed/inamedobject/name/
+url: /aspose.threed/inamedobject/name/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def name(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [INamedObject](/3d/python-net/aspose.threed/inamedobject)
+* module [`aspose.threed`](../../)
+* class [`INamedObject`](/3d/python-net/aspose.threed/inamedobject)

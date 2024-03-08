@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.utilities/transformbuilder/compose/
+url: /aspose.threed.utilities/transformbuilder/compose/
 is_root: false
 ---
 
-## compose(m) {#Matrix4}
+## compose {#aspose.threed.utilities.Matrix4}
 
 Append or prepend the argument to internal matrix.
 
@@ -22,10 +22,10 @@ def compose(self, m):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m | [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) |  |
+| m | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

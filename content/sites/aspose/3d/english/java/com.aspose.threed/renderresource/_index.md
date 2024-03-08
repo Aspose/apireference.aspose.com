@@ -1,9 +1,9 @@
 ---
 title: RenderResource
 second_title: Aspose.3D for Java API Reference
-description: The abstract class of all render resources All render resources will be disposed when the renderer is released.
+description: The abstract class of all render resources  All render resources will be disposed when the renderer is released.
 type: docs
-weight: 135
+weight: 140
 url: /java/com.aspose.threed/renderresource/
 ---
 
@@ -121,7 +121,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

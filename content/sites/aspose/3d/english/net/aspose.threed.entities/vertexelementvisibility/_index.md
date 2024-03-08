@@ -3,7 +3,7 @@ title: VertexElementVisibility
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 950
+weight: 980
 url: /net/aspose.threed.entities/vertexelementvisibility/
 ---
 ## VertexElementVisibility class

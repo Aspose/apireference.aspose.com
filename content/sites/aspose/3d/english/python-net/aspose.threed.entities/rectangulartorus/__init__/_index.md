@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/rectangulartorus/__init__/
+url: /aspose.threed.entities/rectangulartorus/__init__/
 is_root: false
 ---
 
-## RectangularTorus() {#}
+## __init__ {#}
 
-Constructor of [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## RectangularTorus(name) {#str}
+## __init__ {#str}
 
-Constructor of [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+* module [`aspose.threed.entities`](../../)
+* class [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)

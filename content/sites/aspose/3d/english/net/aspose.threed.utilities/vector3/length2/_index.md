@@ -3,7 +3,7 @@ title: Length2
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.threed.utilities/vector3/length2/
 ---
 ## Vector3.Length2 property

@@ -3,7 +3,7 @@ title: RotationOrder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2610
+weight: 2730
 url: /net/aspose.threed.utilities/rotationorder/
 ---
 ## RotationOrder enumeration
@@ -18,12 +18,12 @@ public enum RotationOrder
 
 | Name | Value | Description |
 | --- | --- | --- |
-| XYZ | `0` |  |
-| XZY | `1` |  |
-| YZX | `2` |  |
-| YXZ | `3` |  |
-| ZXY | `4` |  |
-| ZYX | `5` |  |
+| XYZ | `0` | Rotate in X,Y,Z order |
+| XZY | `1` | Rotate in X,Z,Y order |
+| YZX | `2` | Rotate in Y,Z,X order |
+| YXZ | `3` | Rotate in Y,X,Z order |
+| ZXY | `4` | Rotate in Z,X,Y order |
+| ZYX | `5` | Rotate in Z,Y,X order |
 
 ### See Also
 

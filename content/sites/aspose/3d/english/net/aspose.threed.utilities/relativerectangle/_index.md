@@ -3,7 +3,7 @@ title: RelativeRectangle
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2600
+weight: 2720
 url: /net/aspose.threed.utilities/relativerectangle/
 ---
 ## RelativeRectangle structure
@@ -13,6 +13,12 @@ Relative rectangle The formula between relative component to absolute value is: 
 ```csharp
 public struct RelativeRectangle
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [RelativeRectangle](relativerectangle)(int, int, int, int) | Construct a [`RelativeRectangle`](../relativerectangle) |
 
 ## Properties
 
@@ -32,8 +38,7 @@ public struct RelativeRectangle
 | Name | Description |
 | --- | --- |
 | static [FromScale](../../aspose.threed.utilities/relativerectangle/fromscale)(float, float, float, float) | Construct a [`RelativeRectangle`](../relativerectangle) with all offset fields zero and scale fields from given parameters. |
-| [ToAbsolute](../../aspose.threed.utilities/relativerectangle/toabsolute)(Rectangle) | Convert the relative rectangle to absolute rectangle |
-| [ToAbsolute](../../aspose.threed.utilities/relativerectangle/toabsolute)(Size) | Convert the relative rectangle to absolute rectangle |
+| [ToAbsolute](../../aspose.threed.utilities/relativerectangle/toabsolute)(int, int, int, int) | Convert the relative rectangle to absolute rectangle |
 | override [ToString](../../aspose.threed.utilities/relativerectangle/tostring)() | Converts the value of this instance to a String. |
 
 ### See Also

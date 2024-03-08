@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /python-net/aspose.threed/transform/geometric_scaling/
+url: /aspose.threed/transform/geometric_scaling/
 is_root: false
 ---
 
@@ -37,6 +37,6 @@ def geometric_scaling(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Transform](/3d/python-net/aspose.threed/transform)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed`](../../)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

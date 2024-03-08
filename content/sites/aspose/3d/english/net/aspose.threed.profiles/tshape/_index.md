@@ -3,7 +3,7 @@ title: TShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1630
+weight: 1670
 url: /net/aspose.threed.profiles/tshape/
 ---
 ## TShape class

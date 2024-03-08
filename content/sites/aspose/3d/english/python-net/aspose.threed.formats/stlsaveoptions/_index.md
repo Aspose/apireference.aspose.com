@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /python-net/aspose.threed.formats/stlsaveoptions/
+url: /aspose.threed.formats/stlsaveoptions/
 is_root: false
 ---
 
@@ -14,9 +14,9 @@ Save options for STL
 
 
 
-**Inheritance:** [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The StlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [StlSaveOptions()](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#) | Initializes of a new [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
-| [StlSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#FileContentType) | Initializes of a new [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
+| [__init__](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
+| [__init__](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#aspose.threed.FileContentType) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
 
 
 ### Properties
@@ -37,12 +37,14 @@ The StlSaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/stlsaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/stlsaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/stlsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/stlsaveoptions/export_textures) | Try to copy textures used in scene to output directory. |
+| [axis_system](/3d/python-net/aspose.threed.formats/stlsaveoptions/axis_system) | Gets or sets the axis system in the exported stl file. |
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/stlsaveoptions/flip_coordinate_system) | Gets or sets whether flip coordinate system of control points/normal during exporting. |
 
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
-* class [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions)

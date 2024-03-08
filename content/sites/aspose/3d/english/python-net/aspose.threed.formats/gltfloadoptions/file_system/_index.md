@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.formats/gltfloadoptions/file_system/
+url: /aspose.threed.formats/gltfloadoptions/file_system/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def file_system(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
-* class [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
+* class [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions)

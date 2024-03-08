@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /python-net/aspose.threed.profiles/mirroredprofile/name/
+url: /aspose.threed.profiles/mirroredprofile/name/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [MirroredProfile](/3d/python-net/aspose.threed.profiles/mirroredprofile)
+* module [`aspose.threed.profiles`](../../)
+* class [`MirroredProfile`](/3d/python-net/aspose.threed.profiles/mirroredprofile)

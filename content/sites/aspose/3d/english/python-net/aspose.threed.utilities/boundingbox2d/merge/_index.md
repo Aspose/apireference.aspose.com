@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.utilities/boundingbox2d/merge/
+url: /aspose.threed.utilities/boundingbox2d/merge/
 is_root: false
 ---
 
-## merge(pt) {#Vector2}
+## merge {#aspose.threed.utilities.Vector2}
 
 Merges the new box into the current bounding box.
 
@@ -22,10 +22,10 @@ def merge(self, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt | [Vector2](/3d/python-net/aspose.threed.utilities/vector2) |  |
+| pt | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) |  |
 
 
-## merge(bb) {#BoundingBox2D}
+## merge {#aspose.threed.utilities.BoundingBox2D}
 
 Merges the new box into the current bounding box.
 
@@ -39,10 +39,10 @@ def merge(self, bb):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| bb | [BoundingBox2D](/3d/python-net/aspose.threed.utilities/boundingbox2d) |  |
+| bb | [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox2D](/3d/python-net/aspose.threed.utilities/boundingbox2d)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d)

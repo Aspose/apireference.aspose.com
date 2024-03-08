@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 240
-url: /python-net/aspose.threed.entities/trimesh/write_16b_indices_to/
+url: /aspose.threed.entities/trimesh/write_16b_indices_to/
 is_root: false
 ---
 
-## write_16b_indices_to(stream) {#io.RawIOBase}
+## write_16b_indices_to {#io.RawIOBase}
 
 Write the indices data as 16bit integer to the stream
 
@@ -27,5 +27,5 @@ def write_16b_indices_to(self, stream):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

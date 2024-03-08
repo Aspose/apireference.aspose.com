@@ -3,7 +3,7 @@ title: LightType
 second_title: Aspose.3D for Java API Reference
 description: Light types.
 type: docs
-weight: 255
+weight: 267
 url: /java/com.aspose.threed/lighttype/
 ---
 
@@ -251,7 +251,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

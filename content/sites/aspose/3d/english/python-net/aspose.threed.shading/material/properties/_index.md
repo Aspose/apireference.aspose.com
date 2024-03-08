@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.shading/material/properties/
+url: /aspose.threed.shading/material/properties/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed.shading`](../../)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

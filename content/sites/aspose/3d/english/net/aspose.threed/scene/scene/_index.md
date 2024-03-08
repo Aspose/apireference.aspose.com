@@ -34,6 +34,14 @@ public Scene(Entity entity)
 | --- | --- | --- |
 | entity | Entity | The initial entity that attached to the scene |
 
+### Examples
+
+The following code shows how to create a [`Scene`](../../scene) directly from an [`Entity`](../../entity):
+
+```csharp
+var scene = new Scene(new Box());
+```
+
 ### See Also
 
 * class [Entity](../../entity)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.formats/discreet3dsloadoptions/lookup_paths/
+url: /aspose.threed.formats/discreet3dsloadoptions/lookup_paths/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def lookup_paths(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsLoadOptions](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)

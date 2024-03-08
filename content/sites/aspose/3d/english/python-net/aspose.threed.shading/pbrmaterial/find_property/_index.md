@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.shading/pbrmaterial/find_property/
+url: /aspose.threed.shading/pbrmaterial/find_property/
 is_root: false
 ---
 
-## find_property(property_name) {#str}
+## find_property {#str}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
@@ -34,5 +34,5 @@ def find_property(self, property_name):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial)

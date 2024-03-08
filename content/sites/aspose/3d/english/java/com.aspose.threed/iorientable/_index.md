@@ -3,7 +3,7 @@ title: IOrientable
 second_title: Aspose.3D for Java API Reference
 description: Orientable entities shall implement this interface.
 type: docs
-weight: 223
+weight: 230
 url: /java/com.aspose.threed/iorientable/
 ---
 ```

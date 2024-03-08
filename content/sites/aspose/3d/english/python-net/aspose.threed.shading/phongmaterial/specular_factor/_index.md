@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 230
-url: /python-net/aspose.threed.shading/phongmaterial/specular_factor/
+url: /aspose.threed.shading/phongmaterial/specular_factor/
 is_root: false
 ---
 
@@ -25,5 +25,5 @@ def specular_factor(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)

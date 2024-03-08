@@ -3,7 +3,7 @@ title: FaceProperty
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.threed.formats/plysaveoptions/faceproperty/
 ---
 ## PlySaveOptions.FaceProperty property

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.entities/rectangulartorus/angle_start/
+url: /aspose.threed.entities/rectangulartorus/angle_start/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def angle_start(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+* module [`aspose.threed.entities`](../../)
+* class [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)

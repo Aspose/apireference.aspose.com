@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/objloadoptions/encoding/
+url: /aspose.threed.formats/objloadoptions/encoding/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def encoding(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions)

@@ -3,7 +3,7 @@ title: VertexElementVertexColor
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 930
+weight: 960
 url: /net/aspose.threed.entities/vertexelementvertexcolor/
 ---
 ## VertexElementVertexColor class

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.formats/gltfloadoptions/
+url: /aspose.threed.formats/gltfloadoptions/
 is_root: false
 ---
 
@@ -14,9 +14,9 @@ Load options for glTF format
 
 
 
-**Inheritance:** [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The GltfLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [GltfLoadOptions()](/3d/python-net/aspose.threed.formats/gltfloadoptions/__init__/#) | Constructor of [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/gltfloadoptions/__init__/#) | Constructor of [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions) |
 
 
 ### Properties
@@ -41,7 +41,7 @@ The GltfLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)

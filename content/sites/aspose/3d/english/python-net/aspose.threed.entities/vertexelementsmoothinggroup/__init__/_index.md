@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/vertexelementsmoothinggroup/__init__/
+url: /aspose.threed.entities/vertexelementsmoothinggroup/__init__/
 is_root: false
 ---
 
-## VertexElementSmoothingGroup() {#}
+## __init__ {#}
 
-Initializes a new instance of the [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) class.
+Initializes a new instance of the [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup)

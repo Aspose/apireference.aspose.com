@@ -1,17 +1,17 @@
 ---
-title: x
+title: X
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
 weight: 30
 url: /net/aspose.threed.utilities/fvector4/x/
 ---
-## FVector4.x field
+## FVector4.X field
 
 The x component.
 
 ```csharp
-public float x;
+public float X;
 ```
 
 ### See Also

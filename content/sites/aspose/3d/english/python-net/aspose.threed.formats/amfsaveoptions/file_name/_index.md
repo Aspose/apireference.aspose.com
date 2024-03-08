@@ -3,8 +3,8 @@ title: file_name property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /python-net/aspose.threed.formats/amfsaveoptions/file_name/
+weight: 70
+url: /aspose.threed.formats/amfsaveoptions/file_name/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions)

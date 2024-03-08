@@ -3,7 +3,7 @@ title: EndPoint
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 340
+weight: 370
 url: /net/aspose.threed.entities/endpoint/
 ---
 ## EndPoint structure

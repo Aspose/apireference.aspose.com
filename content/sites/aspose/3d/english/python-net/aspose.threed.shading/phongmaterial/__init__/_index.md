@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.shading/phongmaterial/__init__/
+url: /aspose.threed.shading/phongmaterial/__init__/
 is_root: false
 ---
 
-## PhongMaterial() {#}
+## __init__ {#}
 
-Initializes a new instance of the [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) class.
+Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## PhongMaterial(name) {#str}
+## __init__ {#str}
 
-Initializes a new instance of the [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) class.
+Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)

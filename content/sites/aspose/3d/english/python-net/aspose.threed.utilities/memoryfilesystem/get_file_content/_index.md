@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.utilities/memoryfilesystem/get_file_content/
+url: /aspose.threed.utilities/memoryfilesystem/get_file_content/
 is_root: false
 ---
 
-## get_file_content(file_name) {#str}
+## get_file_content {#str}
 
 Returns the raw content of the specified file.
 Throw FileNotFoundException if the specified file is not existing.
@@ -33,5 +33,5 @@ def get_file_content(self, file_name):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem)

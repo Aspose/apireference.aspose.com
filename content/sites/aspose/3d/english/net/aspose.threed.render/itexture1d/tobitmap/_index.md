@@ -8,14 +8,15 @@ url: /net/aspose.threed.render/itexture1d/tobitmap/
 ---
 ## ITexture1D.ToBitmap method
 
-Convert the texture unit to Bitmap instance
+Convert the texture unit to [`TextureData`](../../texturedata) instance
 
 ```csharp
-public Bitmap ToBitmap()
+public TextureData ToBitmap()
 ```
 
 ### See Also
 
+* class [TextureData](../../texturedata)
 * interface [ITexture1D](../../itexture1d)
 * namespace [Aspose.ThreeD.Render](../../itexture1d)
 * assembly [Aspose.3D](../../../)

@@ -3,7 +3,7 @@ title: SourceBlendFactor
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.threed.render/renderstate/sourceblendfactor/
 ---
 ## RenderState.SourceBlendFactor property

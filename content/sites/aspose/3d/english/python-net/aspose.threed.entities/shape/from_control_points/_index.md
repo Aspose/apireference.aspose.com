@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.entities/shape/from_control_points/
+url: /aspose.threed.entities/shape/from_control_points/
 is_root: false
 ---
 
-## from_control_points(control_points) {#list}
+## from_control_points {#list}
 
 Create a shape with specified control points with a default indices.
 
@@ -32,5 +32,5 @@ def from_control_points(self, control_points):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Shape](/3d/python-net/aspose.threed.entities/shape)
+* module [`aspose.threed.entities`](../../)
+* class [`Shape`](/3d/python-net/aspose.threed.entities/shape)

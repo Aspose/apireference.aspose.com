@@ -3,7 +3,7 @@ title: VertexFieldDataType
 second_title: Aspose.3D for Java API Reference
 description: Vertex fields data type
 type: docs
-weight: 207
+weight: 214
 url: /java/com.aspose.threed/vertexfielddatatype/
 ---
 
@@ -230,7 +230,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

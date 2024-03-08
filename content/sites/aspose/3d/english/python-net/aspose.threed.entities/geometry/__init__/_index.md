@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/geometry/__init__/
+url: /aspose.threed.entities/geometry/__init__/
 is_root: false
 ---
 
-## Geometry(name) {#str}
+## __init__ {#str}
 
-Initializes a new instance of the [Geometry](/3d/python-net/aspose.threed.entities/geometry) class.
+Initializes a new instance of the [`Geometry`](/3d/python-net/aspose.threed.entities/geometry) class.
 
 
 
@@ -27,5 +27,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* module [`aspose.threed.entities`](../../)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)

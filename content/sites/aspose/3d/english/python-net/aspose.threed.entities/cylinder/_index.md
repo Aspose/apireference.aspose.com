@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.entities/cylinder/
+url: /aspose.threed.entities/cylinder/
 is_root: false
 ---
 
@@ -15,11 +15,11 @@ It can also be used to represent the cone when one of radiusTop/radiusBottom is 
 
 
 
-**Inheritance:** [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) → 
-[Primitive](/3d/python-net/aspose.threed.entities/primitive) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) → 
+[`Primitive`](/3d/python-net/aspose.threed.entities/primitive) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,11 +28,11 @@ The Cylinder type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Cylinder()](/3d/python-net/aspose.threed.entities/cylinder/__init__/#) | Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class. |
-| [Cylinder(radius, height)](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float) | Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class. |
-| [Cylinder(radius_top, radius_bottom, height)](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float-float) | Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class. |
-| [Cylinder(radius_top, radius_bottom, height, radial_segments, height_segments, open_ended)](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float-float-int-int-bool) | Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class. |
-| [Cylinder(name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length)](/3d/python-net/aspose.threed.entities/cylinder/__init__/#str-float-float-float-int-int-bool-float-float) | Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/cylinder/__init__/#) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float-float) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/cylinder/__init__/#float-float-float-int-int-bool) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/cylinder/__init__/#str-float-float-float-int-int-bool-float-float) | Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class. |
 
 
 ### Properties
@@ -56,7 +56,7 @@ The Cylinder type exposes the following members:
 | [height](/3d/python-net/aspose.threed.entities/cylinder/height) | Gets or sets the height of the cylinder. |
 | [radial_segments](/3d/python-net/aspose.threed.entities/cylinder/radial_segments) | Gets or sets the radial segments. |
 | [height_segments](/3d/python-net/aspose.threed.entities/cylinder/height_segments) | Gets or sets the height segments. |
-| [open_ended](/3d/python-net/aspose.threed.entities/cylinder/open_ended) | Gets or sets a value indicating whether this [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) open ended.<br/>The default value is false. |
+| [open_ended](/3d/python-net/aspose.threed.entities/cylinder/open_ended) | Gets or sets a value indicating whether this [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) open ended.<br/>The default value is false. |
 | [theta_start](/3d/python-net/aspose.threed.entities/cylinder/theta_start) | Gets or sets the theta start.<br/>The default value is 0. |
 | [theta_length](/3d/python-net/aspose.threed.entities/cylinder/theta_length) | Gets or sets the length of the theta.<br/>The default value is 2π. |
 
@@ -64,21 +64,21 @@ The Cylinder type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/cylinder/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/cylinder/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.entities/cylinder/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.entities/cylinder/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/cylinder/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.entities/cylinder/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/cylinder/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh()](/3d/python-net/aspose.threed.entities/cylinder/to_mesh/#) | Convert current object to mesh |
+| [remove_property](/3d/python-net/aspose.threed.entities/cylinder/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.entities/cylinder/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.entities/cylinder/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.entities/cylinder/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.entities/cylinder/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.entities/cylinder/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/cylinder/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [to_mesh](/3d/python-net/aspose.threed.entities/cylinder/to_mesh/#) | Convert current object to mesh |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Primitive`](/3d/python-net/aspose.threed.entities/primitive)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

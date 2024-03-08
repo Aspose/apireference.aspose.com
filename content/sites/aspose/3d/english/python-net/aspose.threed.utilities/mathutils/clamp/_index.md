@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.utilities/mathutils/clamp/
+url: /aspose.threed.utilities/mathutils/clamp/
 is_root: false
 ---
 
-## clamp(val, min, max) {#float-float-float}
+## clamp {#float-float-float}
 
 Clamp value to range [min, max]
 
@@ -34,5 +34,5 @@ def clamp(self, val, min, max):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [MathUtils](/3d/python-net/aspose.threed.utilities/mathutils)
+* module [`aspose.threed.utilities`](../../)
+* class [`MathUtils`](/3d/python-net/aspose.threed.utilities/mathutils)

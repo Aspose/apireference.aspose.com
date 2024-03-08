@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /python-net/aspose.threed.entities/light/light_type/
+url: /aspose.threed.entities/light/light_type/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def light_type(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Light](/3d/python-net/aspose.threed.entities/light)
-* class [LightType](/3d/python-net/aspose.threed.entities/lighttype)
+* module [`aspose.threed.entities`](../../)
+* class [`Light`](/3d/python-net/aspose.threed.entities/light)
+* class [`LightType`](/3d/python-net/aspose.threed.entities/lighttype)

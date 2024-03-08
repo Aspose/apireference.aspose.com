@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 240
-url: /python-net/aspose.threed.formats/rvmloadoptions/
+url: /aspose.threed.formats/rvmloadoptions/
 is_root: false
 ---
 
@@ -14,9 +14,9 @@ Load options for AVEVA Plant Design Management System's RVM file.
 
 
 
-**Inheritance:** [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The RvmLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RvmLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#FileContentType) | Construct a [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
-| [RvmLoadOptions()](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#) | Construct a [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
+| [__init__](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#aspose.threed.FileContentType) | Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
+| [__init__](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#) | Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
 
 
 ### Properties
@@ -50,7 +50,7 @@ The RvmLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
-* class [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions)

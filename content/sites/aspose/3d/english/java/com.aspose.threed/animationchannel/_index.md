@@ -26,6 +26,7 @@ A channel maps property's component field to a set of keyframe sequences
 | [getClass()](#getClass--) |  |
 | [getComponentType()](#getComponentType--) | Gets the component field's type |
 | [getDefaultValue()](#getDefaultValue--) | Gets the Default value of the channel. |
+| [getKeyframeSequence()](#getKeyframeSequence--) | Gets associated keyframe sequence inside this channel |
 | [getKeyframeSequences()](#getKeyframeSequences--) | Gets all keyframe sequences inside this channel |
 | [getName()](#getName--) | Gets the name of the channel |
 | [hashCode()](#hashCode--) |  |
@@ -33,6 +34,7 @@ A channel maps property's component field to a set of keyframe sequences
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setDefaultValue(Object value)](#setDefaultValue-java.lang.Object-) | Sets the Default value of the channel. |
+| [setKeyframeSequence(KeyframeSequence value)](#setKeyframeSequence-com.aspose.threed.KeyframeSequence-) | Gets associated keyframe sequence inside this channel |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -95,6 +97,16 @@ Gets the Default value of the channel. If a channel has no keyframe sequences co
 
 **Returns:**
 java.lang.Object
+### getKeyframeSequence() {#getKeyframeSequence--}
+```
+public KeyframeSequence getKeyframeSequence()
+```
+
+
+Gets associated keyframe sequence inside this channel
+
+**Returns:**
+[KeyframeSequence](../../com.aspose.threed/keyframesequence)
 ### getKeyframeSequences() {#getKeyframeSequences--}
 ```
 public List<KeyframeSequence> getKeyframeSequences()
@@ -164,6 +176,19 @@ Sets the Default value of the channel. If a channel has no keyframe sequences co
 | --- | --- | --- |
 | value | java.lang.Object | New value |
 
+### setKeyframeSequence(KeyframeSequence value) {#setKeyframeSequence-com.aspose.threed.KeyframeSequence-}
+```
+public void setKeyframeSequence(KeyframeSequence value)
+```
+
+
+Gets associated keyframe sequence inside this channel
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [KeyframeSequence](../../com.aspose.threed/keyframesequence) | New value |
+
 ### toString() {#toString--}
 ```
 public String toString()
@@ -184,7 +209,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

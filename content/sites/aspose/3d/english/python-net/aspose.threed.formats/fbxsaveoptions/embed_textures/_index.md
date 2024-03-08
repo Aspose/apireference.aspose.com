@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.formats/fbxsaveoptions/embed_textures/
+url: /aspose.threed.formats/fbxsaveoptions/embed_textures/
 is_root: false
 ---
 
@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets whether to embed the texture to the final output file.
-FBX Exporter will try to find the texture's raw data from [IOConfig.file_system](/3d/python-net/aspose.threed.formats/ioconfig#file_system), and embed the file to final FBX file.
+FBX Exporter will try to find the texture's raw data from [`IOConfig.file_system`](/3d/python-net/aspose.threed.formats/ioconfig#file_system), and embed the file to final FBX file.
 Default value is false.
 ### Definition:
 ```python
@@ -25,5 +25,5 @@ def embed_textures(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)

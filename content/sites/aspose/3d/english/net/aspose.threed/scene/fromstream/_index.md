@@ -21,6 +21,17 @@ public static Scene FromStream(Stream stream, FileFormat format,
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to create a scene from a stream
+
+```csharp
+using(var stream = new FileStream("input.fbx", FileMode.Open))
+{
+    Scene scene = Scene.FromStream(stream);
+}
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)
@@ -45,6 +56,19 @@ public static Scene FromStream(Stream stream, LoadOptions options,
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to create a scene from a stream with load options
+
+```csharp
+var opts = new FbxLoadOptions();
+opts.LookupPaths.Add("textures");
+using(var stream = new FileStream("input.fbx", FileMode.Open))
+{
+    Scene scene = Scene.FromStream(stream, opts);
+}
+```
+
 ### See Also
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions)
@@ -66,6 +90,18 @@ public static Scene FromStream(Stream stream, CancellationToken cancellationToke
 | --- | --- | --- |
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Examples
+
+The following code shows how to create a scene from a stream with a cancellation token source
+
+```csharp
+var cts = new CancellationTokenSource();
+using(var stream = new FileStream("input.fbx", FileMode.Open))
+{
+    Scene scene = Scene.FromStream(stream, cts.Token);
+}
+```
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2400
+weight: 2510
 url: /net/aspose.threed/transform/
 ---
 ## Transform class
@@ -27,7 +27,11 @@ public class Transform : A3DObject
 | [PreRotation](../../aspose.threed/transform/prerotation) { get; set; } | Gets or sets the pre-rotation represented in degree |
 | [Properties](../../aspose.threed/a3dobject/properties) { get; } | Gets the collection of all properties. |
 | [Rotation](../../aspose.threed/transform/rotation) { get; set; } | Gets or sets the rotation represented in quaternion. |
-| [Scale](../../aspose.threed/transform/scale) { get; set; } | Gets or sets the scale |
+| [RotationOffset](../../aspose.threed/transform/rotationoffset) { get; set; } | Gets or sets the rotation offset |
+| [RotationPivot](../../aspose.threed/transform/rotationpivot) { get; set; } | Gets or sets the rotation pivot |
+| [Scaling](../../aspose.threed/transform/scaling) { get; set; } | Gets or sets the scaling |
+| [ScalingOffset](../../aspose.threed/transform/scalingoffset) { get; set; } | Gets or sets the scaling offset |
+| [ScalingPivot](../../aspose.threed/transform/scalingpivot) { get; set; } | Gets or sets the scaling pivot |
 | [TransformMatrix](../../aspose.threed/transform/transformmatrix) { get; set; } | Gets or sets the transform matrix. |
 | [Translation](../../aspose.threed/transform/translation) { get; set; } | Gets or sets the translation |
 
@@ -49,6 +53,17 @@ public class Transform : A3DObject
 | [SetRotation](../../aspose.threed/transform/setrotation)(double, double, double, double) | Sets the rotation(as quaternion components) of current transform. |
 | [SetScale](../../aspose.threed/transform/setscale)(double, double, double) | Sets the scale of current transform. |
 | [SetTranslation](../../aspose.threed/transform/settranslation)(double, double, double) | Sets the translation of current transform. |
+
+### Examples
+
+The following code shows how to change the transform of the node:
+
+```csharp
+Scene scene = new Scene();
+var boxNode = scene.RootNode.CreateChildNode(new Box());
+//place the box at (10, 0, 0)
+boxNode.Transform.Translation = new Vector3(10, 0, 0);
+```
 
 ### See Also
 

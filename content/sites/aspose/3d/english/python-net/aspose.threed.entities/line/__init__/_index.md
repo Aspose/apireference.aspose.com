@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.entities/line/__init__/
+url: /aspose.threed.entities/line/__init__/
 is_root: false
 ---
 
-## Line() {#}
+## __init__ {#}
 
-Initializes a new instance of the [Line](/3d/python-net/aspose.threed.entities/line) class.
+Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Line(name) {#str}
+## __init__ {#str}
 
-Initializes a new instance of the [Line](/3d/python-net/aspose.threed.entities/line) class.
+Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Line](/3d/python-net/aspose.threed.entities/line)
+* module [`aspose.threed.entities`](../../)
+* class [`Line`](/3d/python-net/aspose.threed.entities/line)

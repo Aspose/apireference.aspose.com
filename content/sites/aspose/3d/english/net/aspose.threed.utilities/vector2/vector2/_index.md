@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.threed.utilities/vector2/vector2/
 ---
-## Vector2 constructor (1 of 3)
+## Vector2 constructor (1 of 4)
 
 Initializes a new instance of the [`Vector2`](../../vector2) struct.
 
@@ -26,7 +26,28 @@ public Vector2(double s)
 
 ---
 
-## Vector2 constructor (2 of 3)
+## Vector2 constructor (2 of 4)
+
+Initializes a new instance of the [`Vector2`](../../vector2) struct.
+
+```csharp
+public Vector2(Vector3 s)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| s | Vector3 | S. |
+
+### See Also
+
+* struct [Vector3](../../vector3)
+* struct [Vector2](../../vector2)
+* namespace [Aspose.ThreeD.Utilities](../../vector2)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Vector2 constructor (3 of 4)
 
 Initializes a new instance of the [`Vector2`](../../vector2) struct.
 
@@ -47,7 +68,7 @@ public Vector2(FVector2 vec)
 
 ---
 
-## Vector2 constructor (3 of 3)
+## Vector2 constructor (4 of 4)
 
 Initializes a new instance of the [`Vector2`](../../vector2) struct.
 

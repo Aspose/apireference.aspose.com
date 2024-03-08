@@ -3,7 +3,7 @@ title: StencilMask
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 160
 url: /net/aspose.threed.render/renderstate/stencilmask/
 ---
 ## RenderState.StencilMask property

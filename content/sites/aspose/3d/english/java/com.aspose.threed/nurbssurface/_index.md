@@ -1,9 +1,9 @@
 ---
 title: NurbsSurface
 second_title: Aspose.3D for Java API Reference
-description: is a surface represented by NURBSNon-uniform rational basis spline A  is defined by two   and .
+description: is a surface represented by NURBSNon-uniform rational basis spline  A  is defined by two  and .
 type: docs
-weight: 101
+weight: 104
 url: /java/com.aspose.threed/nurbssurface/
 ---
 
@@ -16,7 +16,7 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public class NurbsSurface extends Geometry implements IMeshConvertible
 ```
 
-[NurbsSurface](../../com.aspose.threed/nurbssurface) is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A [NurbsSurface](../../com.aspose.threed/nurbssurface) is defined by two [NurbsDirection](../../com.aspose.threed/nurbsdirection) [getU](../../com.aspose.threed/nurbssurface\#getU) and [getV](../../com.aspose.threed/nurbssurface\#getV). The w component in control point is used as control point's weight whatever the direction's type is a [CurveDimension.TWO\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) or [CurveDimension.THREE\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#THREE-DIMENSIONAL)
+[NurbsSurface](../../com.aspose.threed/nurbssurface) is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A [NurbsSurface](../../com.aspose.threed/nurbssurface) is defined by two [NurbsDirection](../../com.aspose.threed/nurbsdirection)[getU](../../com.aspose.threed/nurbssurface\#getU) and [getV](../../com.aspose.threed/nurbssurface\#getV). The w component in control point is used as control point's weight whatever the direction's type is a [CurveDimension.TWO\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) or [CurveDimension.THREE\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#THREE-DIMENSIONAL)
 
 
 [NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline
@@ -133,7 +133,7 @@ Creates a vertex element with specified type and add it to the geometry.
 | type | [VertexElementType](../../com.aspose.threed/vertexelementtype) | Vertex element type |
 
 **Returns:**
-[VertexElement](../../com.aspose.threed/vertexelement) - Created element.
+[VertexElement](../../com.aspose.threed/vertexelement) - Created element. **Remarks:** If type is [VertexElementType.UV](../../com.aspose.threed/vertexelementtype\#UV), a [VertexElementUV](../../com.aspose.threed/vertexelementuv) with texture mapping type to [TextureMapping.DIFFUSE](../../com.aspose.threed/texturemapping\#DIFFUSE) will be created.
 ### createElement(VertexElementType type, MappingMode mappingMode, ReferenceMode referenceMode) {#createElement-com.aspose.threed.VertexElementType-com.aspose.threed.MappingMode-com.aspose.threed.ReferenceMode-}
 ```
 public VertexElement createElement(VertexElementType type, MappingMode mappingMode, ReferenceMode referenceMode)
@@ -150,7 +150,7 @@ Creates a vertex element with specified type and add it to the geometry.
 | referenceMode | [ReferenceMode](../../com.aspose.threed/referencemode) | Default reference mode |
 
 **Returns:**
-[VertexElement](../../com.aspose.threed/vertexelement) - Created element.
+[VertexElement](../../com.aspose.threed/vertexelement) - Created element. **Remarks:** If type is [VertexElementType.UV](../../com.aspose.threed/vertexelementtype\#UV), a [VertexElementUV](../../com.aspose.threed/vertexelementuv) with texture mapping type to [TextureMapping.DIFFUSE](../../com.aspose.threed/texturemapping\#DIFFUSE) will be created.
 ### createElementUV(TextureMapping uvMapping) {#createElementUV-com.aspose.threed.TextureMapping-}
 ```
 public VertexElementUV createElementUV(TextureMapping uvMapping)
@@ -219,7 +219,14 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system.
+Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+
+```
+Entity entity = new Sphere();
+     entity.setRadius(10);
+     var bbox = entity.getBoundingBox();
+     System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
+```
 
 **Returns:**
 [BoundingBox](../../com.aspose.threed/boundingbox)
@@ -255,14 +262,14 @@ Gets all control points
 java.util.List<com.aspose.threed.Vector4>
 ### getDeformers() {#getDeformers--}
 ```
-public Collection<Deformer> getDeformers()
+public List<Deformer> getDeformers()
 ```
 
 
 Gets all deformers associated with this geometry.
 
 **Returns:**
-java.util.Collection<com.aspose.threed.Deformer>
+java.util.List<com.aspose.threed.Deformer>
 ### getElement(VertexElementType type) {#getElement-com.aspose.threed.VertexElementType-}
 ```
 public VertexElement getElement(VertexElementType type)
@@ -606,7 +613,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

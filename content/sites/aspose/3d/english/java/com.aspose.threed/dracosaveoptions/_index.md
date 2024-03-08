@@ -3,7 +3,7 @@ title: DracoSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for Google draco files
 type: docs
-weight: 43
+weight: 44
 url: /java/com.aspose.threed/dracosaveoptions/
 ---
 
@@ -24,10 +24,12 @@ Save options for Google draco files
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getApplyUnitScale()](#getApplyUnitScale--) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [getClass()](#getClass--) |  |
 | [getColorBits()](#getColorBits--) | Quantization bits for vertex color, default value is 10 |
 | [getCompressionLevel()](#getCompressionLevel--) | Compression level, default value is [DracoCompressionLevel.STANDARD](../../com.aspose.threed/dracocompressionlevel\#STANDARD) |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
 | [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
 | [getFileSystem()](#getFileSystem--) | Allow user to handle how to manage the external dependencies during load/save. |
@@ -40,9 +42,11 @@ Save options for Google draco files
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setApplyUnitScale(boolean value)](#setApplyUnitScale-boolean-) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [setColorBits(int value)](#setColorBits-int-) | Quantization bits for vertex color, default value is 10 |
 | [setCompressionLevel(DracoCompressionLevel value)](#setCompressionLevel-com.aspose.threed.DracoCompressionLevel-) | Compression level, default value is [DracoCompressionLevel.STANDARD](../../com.aspose.threed/dracocompressionlevel\#STANDARD) |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
 | [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
 | [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
@@ -75,6 +79,16 @@ public boolean equals(Object arg0)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getApplyUnitScale() {#getApplyUnitScale--}
+```
+public boolean getApplyUnitScale()
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
 
 **Returns:**
 boolean
@@ -118,6 +132,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getFileFormat() {#getFileFormat--}
 ```
 public FileFormat getFileFormat()
@@ -234,6 +258,19 @@ public final native void notifyAll()
 
 
 
+### setApplyUnitScale(boolean value) {#setApplyUnitScale-boolean-}
+```
+public void setApplyUnitScale(boolean value)
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
 ### setColorBits(int value) {#setColorBits-int-}
 ```
 public void setColorBits(int value)
@@ -272,6 +309,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setFileName(String value) {#setFileName-java.lang.String-}
 ```
@@ -397,7 +447,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -3,8 +3,8 @@ title: scissor_test property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /python-net/aspose.threed.render/renderstate/scissor_test/
+weight: 140
+url: /aspose.threed.render/renderstate/scissor_test/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def scissor_test(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

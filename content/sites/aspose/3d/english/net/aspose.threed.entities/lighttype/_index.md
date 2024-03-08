@@ -3,7 +3,7 @@ title: LightType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 410
+weight: 440
 url: /net/aspose.threed.entities/lighttype/
 ---
 ## LightType enumeration

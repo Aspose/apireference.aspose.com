@@ -3,7 +3,7 @@ title: Deformer
 second_title: Aspose.3D for Java API Reference
 description: Base class for  and
 type: docs
-weight: 37
+weight: 38
 url: /java/com.aspose.threed/deformer/
 ---
 
@@ -242,7 +242,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -14,6 +14,13 @@ Gets or sets the scale
 public Vector3 Scale { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.Scale = new Vector3(2, 2, 2);
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

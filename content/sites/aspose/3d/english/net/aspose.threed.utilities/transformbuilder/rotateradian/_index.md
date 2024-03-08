@@ -19,6 +19,14 @@ public TransformBuilder RotateRadian(double angle, Vector3 axis)
 | angle | Double | The angle to rotate in radian |
 | axis | Vector3 | The axis to rotate |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.RotateRadian(Math.PI, Vector3.YAxis);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)
@@ -40,6 +48,14 @@ public void RotateRadian(Vector3 rot, RotationOrder order)
 | --- | --- | --- |
 | rot | Vector3 | Rotation in radian |
 | order | RotationOrder |  |
+
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.RotateRadian(new Vector3(0.3, 0.4, 0.1), RotationOrder.YZX);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
 
 ### See Also
 

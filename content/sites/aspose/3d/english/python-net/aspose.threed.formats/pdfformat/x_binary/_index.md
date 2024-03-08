@@ -3,8 +3,8 @@ title: X_BINARY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /python-net/aspose.threed.formats/pdfformat/x_binary/
+weight: 560
+url: /aspose.threed.formats/pdfformat/x_binary/
 is_root: false
 ---
 
@@ -14,5 +14,5 @@ is_root: false
 DirectX X File in binary format
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

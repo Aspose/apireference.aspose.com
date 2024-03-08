@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /python-net/aspose.threed.render/renderer/preset_shaders/
+url: /aspose.threed.render/renderer/preset_shaders/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def preset_shaders(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PresetShaders](/3d/python-net/aspose.threed.render/presetshaders)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`PresetShaders`](/3d/python-net/aspose.threed.render/presetshaders)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

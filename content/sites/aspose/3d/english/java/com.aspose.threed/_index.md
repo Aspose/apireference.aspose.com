@@ -20,6 +20,7 @@ url: /java/com.aspose.threed/
 | [AnimationNode](../com.aspose.threed/animationnode) | Aspose.3D's supports animation hierarchy, each animation can be composed by several animations and animation's key-frame definition. |
 | [ArbitraryProfile](../com.aspose.threed/arbitraryprofile) | This class allows you to construct a 2D profile directly from arbitrary curve. |
 | [AssetInfo](../com.aspose.threed/assetinfo) | Information of asset. |
+| [AxisSystem](../com.aspose.threed/axissystem) | Axis system is an combination of coordinate system, up vector and front vector. |
 | [BindPoint](../com.aspose.threed/bindpoint) | A [BindPoint](../com.aspose.threed/bindpoint) is usually created on an object's property, some property types contains multiple component fields(like a Vector3 field), [BindPoint](../com.aspose.threed/bindpoint) will generate channel for each component field and connects the field to one or more keyframe sequence instance(s) through the channels. |
 | [Bone](../com.aspose.threed/bone) | A bone defines the subset of the geometry's control point, and defined blend weight for each control point. |
 | [BonePose](../com.aspose.threed/bonepose) | The [BonePose](../com.aspose.threed/bonepose) contains the transformation matrix for a bone node |
@@ -67,6 +68,7 @@ url: /java/com.aspose.threed/
 | [FileFormat](../com.aspose.threed/fileformat) | File format definition |
 | [FileFormatType](../com.aspose.threed/fileformattype) | File format type |
 | [FileSystem](../com.aspose.threed/filesystem) | File system encapsulation. |
+| [FontFile](../com.aspose.threed/fontfile) | Font file contains definitions for glyphs, this is used to create text profile. |
 | [Frustum](../com.aspose.threed/frustum) | The base class of [Camera](../com.aspose.threed/camera) and [Light](../com.aspose.threed/light) |
 | [GLSLSource](../com.aspose.threed/glslsource) | The source code of shaders in GLSL |
 | [Geometry](../com.aspose.threed/geometry) | The base class of all renderable geometric objects (like [Mesh](../com.aspose.threed/mesh), [NurbsSurface](../com.aspose.threed/nurbssurface), [Patch](../com.aspose.threed/patch) and etc.). |
@@ -82,6 +84,7 @@ url: /java/com.aspose.threed/
 | [ImageRenderOptions](../com.aspose.threed/imagerenderoptions) | Options for [Scene](../com.aspose.threed/scene) and [Scene](../com.aspose.threed/scene) |
 | [ImportException](../com.aspose.threed/importexception) | Exception when Aspose.3D failed to open the specified source |
 | [InitializationException](../com.aspose.threed/initializationexception) | Exceptions in render pipeline initialization |
+| [JavaXImageCodec](../com.aspose.threed/javaximagecodec) |  |
 | [KeyFrame](../com.aspose.threed/keyframe) | A key frame is mainly defined by a time and a value, for some interpolation types, tangent/tension/bias/continuity is also used by calculating the final sampled value. |
 | [KeyframeSequence](../com.aspose.threed/keyframesequence) | The sequence of key-frames, it describes the transformation of a sampled value over time. |
 | [LShape](../com.aspose.threed/lshape) | IFC compatible L-shape profile that defined by parameters. |
@@ -102,9 +105,9 @@ url: /java/com.aspose.threed/
 | [MorphTargetChannel](../com.aspose.threed/morphtargetchannel) | A MorphTargetChannel is used by [MorphTargetDeformer](../com.aspose.threed/morphtargetdeformer) to organize the target geometries. |
 | [MorphTargetDeformer](../com.aspose.threed/morphtargetdeformer) | MorphTargetDeformer provides per-vertex animation. |
 | [Node](../com.aspose.threed/node) | Represents an element in the scene graph. |
-| [NurbsCurve](../com.aspose.threed/nurbscurve) | [NURBS curve][] is a curve represented by NURBS(Non-uniform rational basis spline), A NURBS curve is defined by its com.aspose.threed.NurbsCurve\#getOrder, a set of weighted com.aspose.threed.Geometry\#getControlPoints and a com.aspose.threed.NurbsCurve\#getKnotVectors The w component in control point is used as control point's weight, whatever it is a com.aspose.threed.CurveDimension\#TWO\_DIMENSIONAL or com.aspose.threed.CurveDimension\#THREE\_DIMENSIONAL [NURBS curve]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
-| [NurbsDirection](../com.aspose.threed/nurbsdirection) | A 3D com.aspose.threed.NurbsSurface has two direction, the com.aspose.threed.NurbsSurface\#getU and com.aspose.threed.NurbsSurface\#getV, the com.aspose.threed.NurbsDirection defines data for each direction. |
-| [NurbsSurface](../com.aspose.threed/nurbssurface) | com.aspose.threed.NurbsSurface is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A com.aspose.threed.NurbsSurface is defined by two com.aspose.threed.NurbsDirection com.aspose.threed.NurbsSurface\#getU and com.aspose.threed.NurbsSurface\#getV. [NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
+| [NurbsCurve](../com.aspose.threed/nurbscurve) | [NURBS curve][] is a curve represented by NURBS(Non-uniform rational basis spline), A NURBS curve is defined by its [NurbsCurve.\#getOrder](../com.aspose.threed/nurbscurve\#getOrder), a set of weighted [Geometry.\#getControlPoints](../com.aspose.threed/geometry\#getControlPoints) and a [NurbsCurve.\#getKnotVectors](../com.aspose.threed/nurbscurve\#getKnotVectors) The w component in control point is used as control point's weight, whatever it is a [CurveDimension.\#TWO\_DIMENSIONAL](../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) or [CurveDimension.\#THREE\_DIMENSIONAL](../com.aspose.threed/curvedimension\#THREE-DIMENSIONAL)[NURBS curve]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
+| [NurbsDirection](../com.aspose.threed/nurbsdirection) | A 3D [NurbsSurface](../com.aspose.threed/nurbssurface) has two direction, the [NurbsSurface.\#getU](../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.\#getV](../com.aspose.threed/nurbssurface\#getV), the [NurbsDirection](../com.aspose.threed/nurbsdirection) defines data for each direction. |
+| [NurbsSurface](../com.aspose.threed/nurbssurface) | [NurbsSurface](../com.aspose.threed/nurbssurface) is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A [NurbsSurface](../com.aspose.threed/nurbssurface) is defined by two [NurbsDirection](../com.aspose.threed/nurbsdirection)[NurbsSurface.\#getU](../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.\#getV](../com.aspose.threed/nurbssurface\#getV).[NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
 | [ObjLoadOptions](../com.aspose.threed/objloadoptions) | Load options for wavefront obj |
 | [ObjSaveOptions](../com.aspose.threed/objsaveoptions) | Save options for wavefront obj file |
 | [ParameterizedProfile](../com.aspose.threed/parameterizedprofile) | The base class of all parameterized profiles. |
@@ -117,12 +120,13 @@ url: /java/com.aspose.threed/
 | [PdfLoadOptions](../com.aspose.threed/pdfloadoptions) | Options for PDF loading |
 | [PdfSaveOptions](../com.aspose.threed/pdfsaveoptions) | The save options in PDF exporting. |
 | [PhongMaterial](../com.aspose.threed/phongmaterial) | Material for blinn-phong shading model. |
+| [PixelMapping](../com.aspose.threed/pixelmapping) |  |
 | [Plane](../com.aspose.threed/plane) | Parameterized plane. |
 | [PlyFormat](../com.aspose.threed/plyformat) | The PLY format. |
 | [PlyLoadOptions](../com.aspose.threed/plyloadoptions) | Load options for PLY files |
 | [PlySaveOptions](../com.aspose.threed/plysaveoptions) | Save options for exporting scene as PLY file. |
 | [PointCloud](../com.aspose.threed/pointcloud) | The point cloud contains no topology information but only the control points and the vertex elements. |
-| [PolygonBuilder](../com.aspose.threed/polygonbuilder) | A helper class to build polygon for [Mesh](../com.aspose.threed/mesh) |
+| [PolygonBuilder](../com.aspose.threed/polygonbuilder) | A helper class to build polygon for [Mesh](../com.aspose.threed/mesh) **Example:** |
 | [PolygonModifier](../com.aspose.threed/polygonmodifier) | Utilities to modify polygons |
 | [Pose](../com.aspose.threed/pose) | The pose is used to store transformation matrix when the geometry is skinned. |
 | [PostProcessing](../com.aspose.threed/postprocessing) | The post-processing effects |
@@ -133,6 +137,7 @@ url: /java/com.aspose.threed/
 | [PushConstant](../com.aspose.threed/pushconstant) | A utility to provide data to shader through push constant. |
 | [Pyramid](../com.aspose.threed/pyramid) | Parameterized pyramid. |
 | [Quaternion](../com.aspose.threed/quaternion) | Quaternion is usually used to perform rotation in computer graphics. |
+| [Rect](../com.aspose.threed/rect) | A class to represent the rectangle |
 | [RectangleShape](../com.aspose.threed/rectangleshape) | IFC compatible rectangular shape with rounding corners. |
 | [RectangularTorus](../com.aspose.threed/rectangulartorus) | Parameterized rectangular torus. |
 | [RelativeRectangle](../com.aspose.threed/relativerectangle) | Relative rectangle The formula between relative component to absolute value is: Scale \* (Reference Width) + offset So if we want it to represent an absolute value, leave all scale fields zero, and use offset fields instead. |
@@ -149,7 +154,7 @@ url: /java/com.aspose.threed/
 | [RvmSaveOptions](../com.aspose.threed/rvmsaveoptions) | Save options for Aveva PDMS RVM file. |
 | [SPIRVSource](../com.aspose.threed/spirvsource) | The compiled shader in SPIR-V format. |
 | [SaveOptions](../com.aspose.threed/saveoptions) | The base class to configure options in file saving for different types |
-| [Scene](../com.aspose.threed/scene) | A scene is a top-level object that contains the nodes, geometries, materials, textures, animation, poses, sub-scenes and etc. |
+| [Scene](../com.aspose.threed/scene) |  |
 | [SceneObject](../com.aspose.threed/sceneobject) | The root class of objects that will be stored inside a scene. |
 | [ShaderException](../com.aspose.threed/shaderexception) | Shader related exceptions |
 | [ShaderMaterial](../com.aspose.threed/shadermaterial) | A shader material allows to describe the material by external rendering engine or shader language. |
@@ -168,8 +173,10 @@ url: /java/com.aspose.threed/
 | [StlSaveOptions](../com.aspose.threed/stlsaveoptions) | Save options for STL |
 | [SweptAreaSolid](../com.aspose.threed/sweptareasolid) | A [SweptAreaSolid](../com.aspose.threed/sweptareasolid) constructs a geometry by sweeping a profile along a directrix. |
 | [TShape](../com.aspose.threed/tshape) | IFC compatible T-shape defined by parameters. |
+| [Text](../com.aspose.threed/text) | Text profile, this profile describes contours using font and text. |
 | [Texture](../com.aspose.threed/texture) | This class defines the texture from an external file. |
 | [TextureBase](../com.aspose.threed/texturebase) | Base class for all concrete textures. |
+| [TextureCodec](../com.aspose.threed/texturecodec) | Class to manage encoders and decoders for textures. |
 | [TextureData](../com.aspose.threed/texturedata) | This class contains the raw data and format definition of a texture. |
 | [TextureSlot](../com.aspose.threed/textureslot) | Texture slot in [Material](../com.aspose.threed/material), can be enumerated through material instance. |
 | [Torus](../com.aspose.threed/torus) | Parameterized torus. |
@@ -239,7 +246,10 @@ url: /java/com.aspose.threed/
 | [IRenderWindow](../com.aspose.threed/irenderwindow) | IRenderWindow represents the native window created by operating system that supports rendering. |
 | [ITexture1D](../com.aspose.threed/itexture1d) | 1D texture |
 | [ITexture2D](../com.aspose.threed/itexture2d) | 2D texture |
+| [ITextureCodec](../com.aspose.threed/itexturecodec) | Codec for textures |
 | [ITextureCubemap](../com.aspose.threed/itexturecubemap) | Cube map texture |
+| [ITextureDecoder](../com.aspose.threed/itexturedecoder) | External texture decoder should implement this interface for decoding. |
+| [ITextureEncoder](../com.aspose.threed/itextureencoder) | External texture encoder should implement this interface for encoding. |
 | [ITextureUnit](../com.aspose.threed/itextureunit) | [ITextureUnit](../com.aspose.threed/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader, where the [Texture](../com.aspose.threed/texture) only represents a reference to an external file. |
 | [IVertexBuffer](../com.aspose.threed/ivertexbuffer) | The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline |
 | [MaterialConverter](../com.aspose.threed/materialconverter) | Custom converter to convert the geometry's original material to GLTF's PBR material. |
@@ -253,11 +263,13 @@ url: /java/com.aspose.threed/
 | [ApertureMode](../com.aspose.threed/aperturemode) | Camera aperture modes. |
 | [Axis](../com.aspose.threed/axis) | The coordinate axis. |
 | [BlendFactor](../com.aspose.threed/blendfactor) | Blend factor specify pixel arithmetic. |
+| [BoneLinkMode](../com.aspose.threed/bonelinkmode) | A bone's link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure. |
+| [BooleanOperation](../com.aspose.threed/booleanoperation) | Mesh's Boolean operation |
 | [BoundingBoxExtent](../com.aspose.threed/boundingboxextent) | The extent of the bounding box |
 | [ColladaTransformStyle](../com.aspose.threed/colladatransformstyle) | The node's transformation style of node |
 | [CompareFunction](../com.aspose.threed/comparefunction) | The compare function used in depth/stencil testing. |
 | [ComposeOrder](../com.aspose.threed/composeorder) | The order to compose transform matrix |
-| [CoordinatedSystem](../com.aspose.threed/coordinatedsystem) | The left handed or right handed coordinate system. |
+| [CoordinateSystem](../com.aspose.threed/coordinatesystem) | The left handed or right handed coordinate system. |
 | [CubeFace](../com.aspose.threed/cubeface) | Each face of the cube map texture |
 | [CurveDimension](../com.aspose.threed/curvedimension) | The dimension of the curves. |
 | [DracoCompressionLevel](../com.aspose.threed/dracocompressionlevel) | Compression level for draco file |
@@ -275,6 +287,7 @@ url: /java/com.aspose.threed/
 | [PdfLightingScheme](../com.aspose.threed/pdflightingscheme) | LightingScheme specifies the lighting to apply to 3D artwork. |
 | [PdfRenderMode](../com.aspose.threed/pdfrendermode) | Render mode specifies the style in which the 3D artwork is rendered. |
 | [PixelFormat](../com.aspose.threed/pixelformat) | The pixel's format used in texture unit. |
+| [PixelMapMode](../com.aspose.threed/pixelmapmode) |  |
 | [PolygonMode](../com.aspose.threed/polygonmode) | The polygon rasterization mode |
 | [PoseType](../com.aspose.threed/posetype) | Pose type. |
 | [PresetShaders](../com.aspose.threed/presetshaders) | This defines the preset internal shaders used by the renderer. |
@@ -282,10 +295,8 @@ url: /java/com.aspose.threed/
 | [ReferenceMode](../com.aspose.threed/referencemode) | [ReferenceMode](../com.aspose.threed/referencemode) defines how mapping information is stored and referenced by. |
 | [RenderQueueGroupId](../com.aspose.threed/renderqueuegroupid) | The group id of render queue |
 | [RenderStage](../com.aspose.threed/renderstage) | The render stage |
-| [RenderingAPI](../com.aspose.threed/renderingapi) | Commonly used rendering APIs |
 | [RotationMode](../com.aspose.threed/rotationmode) | The frustum's rotation mode |
 | [RotationOrder](../com.aspose.threed/rotationorder) | The order controls which rx ry rz are applied in the transformation matrix. |
-| [ShadingLanguage](../com.aspose.threed/shadinglanguage) | Commonly used shading languages |
 | [SkeletonType](../com.aspose.threed/skeletontype) | [Skeleton](../com.aspose.threed/skeleton)'s types. |
 | [SplitMeshPolicy](../com.aspose.threed/splitmeshpolicy) | Share vertex/control point data between sub-meshes or each sub-mesh has its own compacted data. |
 | [StencilAction](../com.aspose.threed/stencilaction) | The stencil test actions |

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.utilities/transformbuilder/rotate_euler_radian/
+url: /aspose.threed.utilities/transformbuilder/rotate_euler_radian/
 is_root: false
 ---
 
-## rotate_euler_radian(r) {#Vector3}
+## rotate_euler_radian {#aspose.threed.utilities.Vector3}
 
 Chain a rotation by Euler angles in radian
 
@@ -22,13 +22,14 @@ def rotate_euler_radian(self, r):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| r | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) |  |
+| r | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
 
 ### Example 
 
 
 ```python
 from aspose.threed.utilities import TransformBuilder, Vector3
+import math
 
 tb = TransformBuilder()
 tb.rotate_euler_radian(Vector3(0, math.pi, 0))
@@ -37,7 +38,7 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## rotate_euler_radian(x, y, z) {#float-float-float}
+## rotate_euler_radian {#float-float-float}
 
 Chain a rotation by Euler angles in radian
 
@@ -60,6 +61,7 @@ def rotate_euler_radian(self, x, y, z):
 
 ```python
 from aspose.threed.utilities import TransformBuilder
+import math
 
 tb = TransformBuilder()
 tb.rotate_euler_radian(0, math.pi, 0)
@@ -70,5 +72,5 @@ print(f"Transform Matrix: {tb.matrix}")
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

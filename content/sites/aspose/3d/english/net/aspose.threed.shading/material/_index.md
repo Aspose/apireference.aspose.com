@@ -3,7 +3,7 @@ title: Material
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2290
+weight: 2400
 url: /net/aspose.threed.shading/material/
 ---
 ## Material class
@@ -44,6 +44,19 @@ public abstract class Material : A3DObject, IEnumerable<TextureSlot>
 | const [MapEmissive](../../aspose.threed.shading/material/mapemissive) | Used in [`SetTexture`](./settexture) to assign a emissive texture mapping. |
 | const [MapNormal](../../aspose.threed.shading/material/mapnormal) | Used in [`SetTexture`](./settexture) to assign a normal texture mapping. |
 | const [MapSpecular](../../aspose.threed.shading/material/mapspecular) | Used in [`SetTexture`](./settexture) to assign a specular texture mapping. |
+
+### Examples
+
+```csharp
+var mat = new LambertMaterial();
+var tex = new Texture();
+tex.FileName = "diffuse.png";
+mat.SetTexture(Material.MapDiffuse, tex);
+foreach(var slot in mat)
+{
+    Console.WriteLine($"Texture slot {slot.SlotName} = {slot.Texture}");
+}
+```
 
 ### See Also
 

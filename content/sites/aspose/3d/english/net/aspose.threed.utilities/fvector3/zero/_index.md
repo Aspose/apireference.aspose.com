@@ -6,12 +6,12 @@ type: docs
 weight: 30
 url: /net/aspose.threed.utilities/fvector3/zero/
 ---
-## FVector3.Zero field
+## FVector3.Zero property
 
 The Zero vector.
 
 ```csharp
-public static readonly FVector3 Zero;
+public static FVector3 Zero { get; }
 ```
 
 ### See Also

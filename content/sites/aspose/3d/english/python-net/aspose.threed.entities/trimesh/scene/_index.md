@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 350
-url: /python-net/aspose.threed.entities/trimesh/scene/
+url: /aspose.threed.entities/trimesh/scene/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def scene(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

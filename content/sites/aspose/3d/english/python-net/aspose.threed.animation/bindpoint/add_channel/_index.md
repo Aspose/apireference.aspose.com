@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.animation/bindpoint/add_channel/
+url: /aspose.threed.animation/bindpoint/add_channel/
 is_root: false
 ---
 
-## add_channel(name, value) {#str-any}
+## add_channel {#str-any}
 
 Adds the specified channel property.
 
@@ -31,7 +31,7 @@ def add_channel(self, name, value):
 | value | any | Value. |
 
 
-## add_channel(name, type, value) {#str-Type-any}
+## add_channel {#str-Type-any}
 
 
 
@@ -52,5 +52,5 @@ def add_channel(self, name, type, value):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
+* module [`aspose.threed.animation`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

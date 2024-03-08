@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.entities/vertexelementedgecrease/clear/
+url: /aspose.threed.entities/vertexelementedgecrease/clear/
 is_root: false
 ---
 
-## clear() {#}
+## clear {#}
 
 Removes all elements from the direct and the index arrays.
 
@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementEdgeCrease](/3d/python-net/aspose.threed.entities/vertexelementedgecrease)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementEdgeCrease`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease)

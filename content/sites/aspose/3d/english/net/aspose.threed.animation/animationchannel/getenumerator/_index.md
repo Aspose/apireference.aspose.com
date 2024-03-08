@@ -3,7 +3,7 @@ title: GetEnumerator
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.threed.animation/animationchannel/getenumerator/
 ---
 ## AnimationChannel.GetEnumerator method

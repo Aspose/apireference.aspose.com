@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed.shading/shadertechnique/shader_entry/
+url: /aspose.threed.shading/shadertechnique/shader_entry/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def shader_entry(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique)
+* module [`aspose.threed.shading`](../../)
+* class [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique)

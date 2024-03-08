@@ -3,7 +3,7 @@ title: PlyLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Load options for PLY files
 type: docs
-weight: 116
+weight: 120
 url: /java/com.aspose.threed/plyloadoptions/
 ---
 
@@ -272,7 +272,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

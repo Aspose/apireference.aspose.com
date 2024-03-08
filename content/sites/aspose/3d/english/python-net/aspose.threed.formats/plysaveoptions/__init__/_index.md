@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.formats/plysaveoptions/__init__/
+url: /aspose.threed.formats/plysaveoptions/__init__/
 is_root: false
 ---
 
-## PlySaveOptions() {#}
+## __init__ {#}
 
-Constructor of [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions)
+Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions)
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## PlySaveOptions(content_type) {#FileContentType}
+## __init__ {#aspose.threed.FileContentType}
 
-Constructor of [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions)
+Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions)
 
 
 
@@ -36,10 +36,10 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [FileContentType](/3d/python-net/aspose.threed/filecontenttype) |  |
+| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) |  |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions)

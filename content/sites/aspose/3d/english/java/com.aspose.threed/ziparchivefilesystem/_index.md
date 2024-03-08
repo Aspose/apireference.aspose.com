@@ -3,7 +3,7 @@ title: ZipArchiveFileSystem
 second_title: Aspose.3D for Java API Reference
 description: File system to provide to the read-only access to speicified zip file or zip stream.
 type: docs
-weight: 214
+weight: 221
 url: /java/com.aspose.threed/ziparchivefilesystem/
 ---
 
@@ -13,7 +13,17 @@ java.lang.Object, [com.aspose.threed.FileSystem](../../com.aspose.threed/filesys
 public class ZipArchiveFileSystem extends FileSystem
 ```
 
-File system to provide to the read-only access to speicified zip file or zip stream. File system will be disposed after the open/save operation.
+File system to provide to the read-only access to speicified zip file or zip stream. File system will be disposed after the open/save operation. **Example:** The following code shows how to import file, and provide dependent files in a zip archive file.
+
+```
+var inputFile = "input.fbx";
+     var format = FileFormat.detect(inputFile);
+     //create a load options instance and specify a zip file system
+     var opt = format.createLoadOptions();
+     opt.setFileSystem(new ZipArchiveFileSystem("textures.zip"));
+     //load the file
+     var scene = Scene.fromFile(inputFile, opt);
+```
 ## Constructors
 
 | Constructor | Description |
@@ -172,7 +182,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

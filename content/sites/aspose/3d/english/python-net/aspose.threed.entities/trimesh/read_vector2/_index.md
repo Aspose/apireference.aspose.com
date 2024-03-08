@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /python-net/aspose.threed.entities/trimesh/read_vector2/
+url: /aspose.threed.entities/trimesh/read_vector2/
 is_root: false
 ---
 
-## read_vector2(idx, field) {#int-aspose.threed.utilities.VertexField}
+## read_vector2 {#int-aspose.threed.utilities.VertexField}
 
 Read the vector2 field
 
@@ -33,6 +33,6 @@ def read_vector2(self, idx, field):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

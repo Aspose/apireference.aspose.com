@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.profiles/lshape/get_property/
+url: /aspose.threed.profiles/lshape/get_property/
 is_root: false
 ---
 
-## get_property(property) {#str}
+## get_property {#str}
 
 Get the value of specified property
 
@@ -32,5 +32,5 @@ def get_property(self, property):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [LShape](/3d/python-net/aspose.threed.profiles/lshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`LShape`](/3d/python-net/aspose.threed.profiles/lshape)

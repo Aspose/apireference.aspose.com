@@ -3,8 +3,8 @@ title: TextureData class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /python-net/aspose.threed.render/texturedata/
+weight: 410
+url: /aspose.threed.render/texturedata/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The TextureData type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-aspose.pydrawing.imaging.PixelFormat-bytes) | Constructor of [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
-| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-PixelFormat-bytes) | Constructor of [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
-| [TextureData()](/3d/python-net/aspose.threed.render/texturedata/__init__/#) | Constructor of [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
+| [__init__](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-aspose.threed.render.PixelFormat-bytes) | Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |
+| [__init__](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-aspose.threed.render.PixelFormat) | Constructs a new [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) and allocate pixel data. |
+| [__init__](/3d/python-net/aspose.threed.render/texturedata/__init__/#) | Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |
 
 
 ### Properties
@@ -38,13 +38,18 @@ The TextureData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_bitmap(bitmap)](/3d/python-net/aspose.threed.render/texturedata/from_bitmap/#aspose.pydrawing.Bitmap) | Convert a Bitmap to [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
-| [to_bitmap()](/3d/python-net/aspose.threed.render/texturedata/to_bitmap/#) | Convert the TextureData to a Bitmap instance. |
-| [from_stream(stream)](/3d/python-net/aspose.threed.render/texturedata/from_stream/#io.RawIOBase) | Load a texture from stream |
-| [from_file(file_name)](/3d/python-net/aspose.threed.render/texturedata/from_file/#str) | Load a texture from file |
+| [save](/3d/python-net/aspose.threed.render/texturedata/save/#io.RawIOBase-str) | Save texture data into specified image format |
+| [save](/3d/python-net/aspose.threed.render/texturedata/save/#str) | Save texture data into image file |
+| [save](/3d/python-net/aspose.threed.render/texturedata/save/#str-str) | Save texture data into image file |
+| [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.PixelMapMode) | Map all pixels for read/write |
+| [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat) | Map all pixels for read/write in given pixel format |
+| [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.utilities.Rect-aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat) | Map pixels addressed by rect for reading/writing in given pixel format |
+| [from_stream](/3d/python-net/aspose.threed.render/texturedata/from_stream/#io.RawIOBase) | Load a texture from stream |
+| [from_file](/3d/python-net/aspose.threed.render/texturedata/from_file/#str) | Load a texture from file |
+| [transform_pixel_format](/3d/python-net/aspose.threed.render/texturedata/transform_pixel_format/#aspose.threed.render.PixelFormat) | Transform pixel's layout to new pixel format. |
 
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [TextureData](/3d/python-net/aspose.threed.render/texturedata)
+* module [`aspose.threed.render`](..)
+* class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

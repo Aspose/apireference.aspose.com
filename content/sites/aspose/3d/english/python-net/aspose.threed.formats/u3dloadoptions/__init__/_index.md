@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.formats/u3dloadoptions/__init__/
+url: /aspose.threed.formats/u3dloadoptions/__init__/
 is_root: false
 ---
 
-## U3dLoadOptions() {#}
+## __init__ {#}
 
-Constructor of [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions)
+Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions)

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /python-net/aspose.threed/scene/save/
+url: /aspose.threed/scene/save/
 is_root: false
 ---
 
-## save(file_name) {#str}
+## save {#str}
 
 Saves the scene to specified path using specified file format.
 
@@ -38,7 +38,7 @@ scene.save("output.usdz")
 ```
 
 
-## save(stream, format) {#io.RawIOBase-FileFormat}
+## save {#io.RawIOBase-aspose.threed.FileFormat}
 
 Saves the scene to stream using specified file format.
 
@@ -53,7 +53,7 @@ def save(self, stream, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
-| format | [FileFormat](/3d/python-net/aspose.threed/fileformat) | Format. |
+| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
 
 ### Example 
 
@@ -71,7 +71,7 @@ with BytesIO() as ms:
 ```
 
 
-## save(stream, options) {#io.RawIOBase-aspose.threed.formats.SaveOptions}
+## save {#io.RawIOBase-aspose.threed.formats.SaveOptions}
 
 Saves the scene to stream using specified file format.
 
@@ -107,7 +107,7 @@ with BytesIO() as ms:
 ```
 
 
-## save(file_name, format) {#str-FileFormat}
+## save {#str-aspose.threed.FileFormat}
 
 Saves the scene to specified path using specified file format.
 
@@ -122,7 +122,7 @@ def save(self, file_name, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | File name. |
-| format | [FileFormat](/3d/python-net/aspose.threed/fileformat) | Format. |
+| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
 
 ### Example 
 
@@ -138,7 +138,7 @@ scene.save("output.usdz", FileFormat.USDZ)
 ```
 
 
-## save(file_name, options) {#str-aspose.threed.formats.SaveOptions}
+## save {#str-aspose.threed.formats.SaveOptions}
 
 Saves the scene to specified path using specified file format.
 
@@ -174,5 +174,5 @@ scene.save("output.usdz", opts)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

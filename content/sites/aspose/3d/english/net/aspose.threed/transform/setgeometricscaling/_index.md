@@ -3,7 +3,7 @@ title: SetGeometricScaling
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 170
 url: /net/aspose.threed/transform/setgeometricscaling/
 ---
 ## Transform.SetGeometricScaling method
@@ -12,6 +12,13 @@ Sets the geometric scaling. Geometric transformation only affects the entities a
 
 ```csharp
 public Transform SetGeometricScaling(double sx, double sy, double sz)
+```
+
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetGeometricScaling(2, 2, 2);
 ```
 
 ### See Also

@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.utilities/quaternion/from_euler_angle/
+url: /aspose.threed.utilities/quaternion/from_euler_angle/
 is_root: false
 ---
 
-## from_euler_angle(euler_angle) {#Vector3}
+## from_euler_angle {#aspose.threed.utilities.Vector3}
 
 Creates quaternion from given Euler angle
 
@@ -27,10 +27,10 @@ def from_euler_angle(self, euler_angle):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| euler_angle | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Euler angle in radian |
+| euler_angle | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Euler angle in radian |
 
 
-## from_euler_angle(pitch, yaw, roll) {#float-float-float}
+## from_euler_angle {#float-float-float}
 
 Creates quaternion from given Euler angle
 
@@ -56,5 +56,5 @@ def from_euler_angle(self, pitch, yaw, roll):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

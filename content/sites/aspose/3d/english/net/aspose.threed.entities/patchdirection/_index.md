@@ -3,7 +3,7 @@ title: PatchDirection
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 510
+weight: 540
 url: /net/aspose.threed.entities/patchdirection/
 ---
 ## PatchDirection class

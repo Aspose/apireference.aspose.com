@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed.profiles/arbitraryprofile/parent_node/
+url: /aspose.threed.profiles/arbitraryprofile/parent_node/
 is_root: false
 ---
 
@@ -23,6 +23,6 @@ def parent_node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed.profiles`](../../)
+* class [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* class [`Node`](/3d/python-net/aspose.threed/node)

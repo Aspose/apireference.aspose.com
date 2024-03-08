@@ -3,7 +3,7 @@ title: ITexture1D
 second_title: Aspose.3D for Java API Reference
 description: 1D texture
 type: docs
-weight: 229
+weight: 236
 url: /java/com.aspose.threed/itexture1d/
 ---
 
@@ -19,9 +19,9 @@ public interface ITexture1D extends ITextureUnit
 | Method | Description |
 | --- | --- |
 | [load(TextureData bitmap)](#load-com.aspose.threed.TextureData-) | Load texture content from specified Bitmap |
-| [save(BufferedImage bitmap)](#save-java.awt.image.BufferedImage-) | Save the texture content to external file. |
+| [save(TextureData bitmap)](#save-com.aspose.threed.TextureData-) | Save the texture content to external file. |
 | [save(String path, String format)](#save-java.lang.String-java.lang.String-) | Save the texture content to external file. |
-| [toBitmap()](#toBitmap--) | Convert the texture unit to java.awt.image.BufferedImage instance |
+| [toBitmap()](#toBitmap--) | Convert the texture unit to [TextureData](../../com.aspose.threed/texturedata) instance |
 ### load(TextureData bitmap) {#load-com.aspose.threed.TextureData-}
 ```
 public abstract void load(TextureData bitmap)
@@ -35,9 +35,9 @@ Load texture content from specified Bitmap
 | --- | --- | --- |
 | bitmap | [TextureData](../../com.aspose.threed/texturedata) |  |
 
-### save(BufferedImage bitmap) {#save-java.awt.image.BufferedImage-}
+### save(TextureData bitmap) {#save-com.aspose.threed.TextureData-}
 ```
-public abstract void save(BufferedImage bitmap)
+public abstract void save(TextureData bitmap)
 ```
 
 
@@ -46,7 +46,7 @@ Save the texture content to external file.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bitmap | java.awt.image.BufferedImage | Result bitmap to save. |
+| bitmap | [TextureData](../../com.aspose.threed/texturedata) | Result bitmap to save. |
 
 ### save(String path, String format) {#save-java.lang.String-java.lang.String-}
 ```
@@ -64,11 +64,11 @@ Save the texture content to external file.
 
 ### toBitmap() {#toBitmap--}
 ```
-public abstract BufferedImage toBitmap()
+public abstract TextureData toBitmap()
 ```
 
 
-Convert the texture unit to java.awt.image.BufferedImage instance
+Convert the texture unit to [TextureData](../../com.aspose.threed/texturedata) instance
 
 **Returns:**
-java.awt.image.BufferedImage
+[TextureData](../../com.aspose.threed/texturedata)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.deformers/skindeformer/properties/
+url: /aspose.threed.deformers/skindeformer/properties/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
-* class [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer)
+* module [`aspose.threed.deformers`](../../)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)
+* class [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer)

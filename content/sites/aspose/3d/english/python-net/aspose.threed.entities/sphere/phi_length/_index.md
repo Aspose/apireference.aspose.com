@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /python-net/aspose.threed.entities/sphere/phi_length/
+url: /aspose.threed.entities/sphere/phi_length/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def phi_length(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Sphere](/3d/python-net/aspose.threed.entities/sphere)
+* module [`aspose.threed.entities`](../../)
+* class [`Sphere`](/3d/python-net/aspose.threed.entities/sphere)

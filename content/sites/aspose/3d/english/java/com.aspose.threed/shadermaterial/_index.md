@@ -3,7 +3,7 @@ title: ShaderMaterial
 second_title: Aspose.3D for Java API Reference
 description: A shader material allows to describe the material by external rendering engine or shader language.
 type: docs
-weight: 149
+weight: 154
 url: /java/com.aspose.threed/shadermaterial/
 ---
 
@@ -214,7 +214,15 @@ Gets the texture from the specified slot, it can be material's property name or 
 | slotName | java.lang.String | Slot name. |
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase) - The texture.
+[TextureBase](../../com.aspose.threed/texturebase) - The texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_DIFFUSE, tex);
+     tex = (Texture)mat.getTexture(Material.MAP_DIFFUSE);
+```
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -320,7 +328,14 @@ Sets the texture to specified slot
 | Parameter | Type | Description |
 | --- | --- | --- |
 | slotName | java.lang.String | Slot name. |
-| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. |
+| texture | [TextureBase](../../com.aspose.threed/texturebase) | Texture. **Example:**
+
+```
+var mat = new LambertMaterial();
+     var tex = new Texture();
+     tex.setFileName("diffuse.png");
+     mat.setTexture(Material.MAP_NORMAL, tex);
+``` |
 
 ### toString() {#toString--}
 ```
@@ -342,7 +357,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

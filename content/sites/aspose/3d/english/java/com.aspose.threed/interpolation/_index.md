@@ -3,7 +3,7 @@ title: Interpolation
 second_title: Aspose.3D for Java API Reference
 description: The key frames interpolation type.
 type: docs
-weight: 254
+weight: 266
 url: /java/com.aspose.threed/interpolation/
 ---
 
@@ -260,7 +260,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

@@ -18,6 +18,16 @@ public Matrix4 Inverse()
 
 Inverse matrix4
 
+### Examples
+
+The following code shows how to inverse a matrix
+
+```csharp
+var t = Matrix4.Translate(0, 10, 9);
+var mat = t.Inverse();
+Console.WriteLine($"Inversed Matrix: {mat}");
+```
+
 ### See Also
 
 * struct [Matrix4](../../matrix4)

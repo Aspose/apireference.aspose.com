@@ -3,7 +3,7 @@ title: op_Explicit
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.threed.utilities/vector3/op_explicit/
 ---
 ## Vector3 Explicit operator

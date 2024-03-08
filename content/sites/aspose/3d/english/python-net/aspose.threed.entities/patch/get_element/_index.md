@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.entities/patch/get_element/
+url: /aspose.threed.entities/patch/get_element/
 is_root: false
 ---
 
-## get_element(type) {#VertexElementType}
+## get_element {#aspose.threed.entities.VertexElementType}
 
 Gets a vertex element with specified type
 
@@ -16,7 +16,7 @@ Gets a vertex element with specified type
 ### Returns 
 
 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) instance if found, otherwise null will be returned.
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) instance if found, otherwise null will be returned.
 
 
 ```python
@@ -27,11 +27,11 @@ def get_element(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [VertexElementType](/3d/python-net/aspose.threed.entities/vertexelementtype) | which vertex element type to find |
+| type | [`VertexElementType`](/3d/python-net/aspose.threed.entities/vertexelementtype) | which vertex element type to find |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Patch](/3d/python-net/aspose.threed.entities/patch)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* module [`aspose.threed.entities`](../../)
+* class [`Patch`](/3d/python-net/aspose.threed.entities/patch)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)

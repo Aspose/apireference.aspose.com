@@ -3,7 +3,7 @@ title: Equals
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 210
 url: /net/aspose.threed.render/renderstate/equals/
 ---
 ## RenderState.Equals method

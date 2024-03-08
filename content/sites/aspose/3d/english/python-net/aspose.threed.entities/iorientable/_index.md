@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /python-net/aspose.threed.entities/iorientable/
+url: /aspose.threed.entities/iorientable/
 is_root: false
 ---
 
@@ -25,4 +25,4 @@ The IOrientable type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
+* module [`aspose.threed.entities`](..)

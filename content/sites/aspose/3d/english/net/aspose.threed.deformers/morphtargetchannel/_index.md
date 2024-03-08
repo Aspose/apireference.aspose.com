@@ -3,7 +3,7 @@ title: MorphTargetChannel
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /net/aspose.threed.deformers/morphtargetchannel/
 ---
 ## MorphTargetChannel class

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.animation/animationchannel/
+url: /aspose.threed.animation/animationchannel/
 is_root: false
 ---
 
@@ -28,9 +28,9 @@ The AnimationChannel type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_keyframe_sequence(sequence)](/3d/python-net/aspose.threed.animation/animationchannel/add_keyframe_sequence/#KeyframeSequence) | Adds keyframe sequence to this channel |
+| [add_keyframe_sequence](/3d/python-net/aspose.threed.animation/animationchannel/add_keyframe_sequence/#aspose.threed.animation.KeyframeSequence) | Adds keyframe sequence to this channel |
 
 
 
 ### See Also
-* module [aspose.threed.animation](..)
+* module [`aspose.threed.animation`](..)

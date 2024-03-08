@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.animation/animationclip/create_animation_node/
+url: /aspose.threed.animation/animationclip/create_animation_node/
 is_root: false
 ---
 
-## create_animation_node(node_name) {#str}
+## create_animation_node {#str}
 
 A shorthand function to create and register the animation node on current clip.
 
@@ -32,5 +32,5 @@ def create_animation_node(self, node_name):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)

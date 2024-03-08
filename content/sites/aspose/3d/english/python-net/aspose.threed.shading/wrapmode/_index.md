@@ -3,8 +3,8 @@ title: WrapMode enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /python-net/aspose.threed.shading/wrapmode/
+weight: 130
+url: /aspose.threed.shading/wrapmode/
 is_root: false
 ---
 
@@ -28,4 +28,4 @@ The WrapMode type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.shading](..)
+* module [`aspose.threed.shading`](..)

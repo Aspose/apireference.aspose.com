@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /python-net/aspose.threed.profiles/rectangleshape/rounding_radius/
+url: /aspose.threed.profiles/rectangleshape/rounding_radius/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def rounding_radius(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape)

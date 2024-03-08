@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed.render/viewport/render_target/
+url: /aspose.threed.render/viewport/render_target/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def render_target(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget)
-* class [Viewport](/3d/python-net/aspose.threed.render/viewport)
+* module [`aspose.threed.render`](../../)
+* class [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget)
+* class [`Viewport`](/3d/python-net/aspose.threed.render/viewport)

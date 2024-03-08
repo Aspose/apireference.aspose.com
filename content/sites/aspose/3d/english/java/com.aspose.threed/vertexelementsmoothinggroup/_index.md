@@ -3,7 +3,7 @@ title: VertexElementSmoothingGroup
 second_title: Aspose.3D for Java API Reference
 description: A smoothing group is a group of polygons in a polygon mesh which should appear to form a smooth surface.
 type: docs
-weight: 195
+weight: 202
 url: /java/com.aspose.threed/vertexelementsmoothinggroup/
 ---
 
@@ -303,7 +303,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

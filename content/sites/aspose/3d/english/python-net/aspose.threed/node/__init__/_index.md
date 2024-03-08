@@ -4,13 +4,13 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed/node/__init__/
+url: /aspose.threed/node/__init__/
 is_root: false
 ---
 
-## Node() {#}
+## __init__ {#}
 
-Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class.
+Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
@@ -22,9 +22,9 @@ def __init__(self):
 
 
 
-## Node(name) {#str}
+## __init__ {#str}
 
-Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class.
+Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
@@ -39,9 +39,9 @@ def __init__(self, name):
 | name | str | Name. |
 
 
-## Node(name, entity) {#str-Entity}
+## __init__ {#str-aspose.threed.Entity}
 
-Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class.
+Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
@@ -54,10 +54,10 @@ def __init__(self, name, entity):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str | Name. |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | Default entity. |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity. |
 
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)

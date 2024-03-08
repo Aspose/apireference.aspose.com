@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /python-net/aspose.threed.render/renderer/render_factory/
+url: /aspose.threed.render/renderer/render_factory/
 is_root: false
 ---
 
@@ -20,6 +20,6 @@ def render_factory(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

@@ -3,8 +3,8 @@ title: flip_coordinate_system property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /python-net/aspose.threed.formats/stlsaveoptions/flip_coordinate_system/
+weight: 90
+url: /aspose.threed.formats/stlsaveoptions/flip_coordinate_system/
 is_root: false
 ---
 
@@ -23,5 +23,5 @@ def flip_coordinate_system(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions)

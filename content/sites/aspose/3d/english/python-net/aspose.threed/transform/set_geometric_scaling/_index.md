@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed/transform/set_geometric_scaling/
+url: /aspose.threed/transform/set_geometric_scaling/
 is_root: false
 ---
 
-## set_geometric_scaling(sx, sy, sz) {#float-float-float}
+## set_geometric_scaling {#float-float-float}
 
 Sets the geometric scaling. 
 Geometric transformation only affects the entities attached and leave the child nodes unaffected.
@@ -42,5 +42,5 @@ node.transform.set_geometric_scaling(2, 2, 2)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Transform](/3d/python-net/aspose.threed/transform)
+* module [`aspose.threed`](../../)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)

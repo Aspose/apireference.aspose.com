@@ -3,7 +3,7 @@ title: ObjSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1220
+weight: 1250
 url: /net/aspose.threed.formats/objsaveoptions/
 ---
 ## ObjSaveOptions class
@@ -24,8 +24,11 @@ public class ObjSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
+| [ApplyUnitScale](../../aspose.threed.formats/objsaveoptions/applyunitscale) { get; set; } | Apply [`UnitScaleFactor`](../../aspose.threed/assetinfo/unitscalefactor) to the mesh. Default value is false. |
+| [AxisSystem](../../aspose.threed.formats/objsaveoptions/axissystem) { get; set; } | Gets or sets the axis system in the exported file. |
 | [EnableMaterials](../../aspose.threed.formats/objsaveoptions/enablematerials) { get; set; } | Gets or sets whether import/export materials for each object |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |

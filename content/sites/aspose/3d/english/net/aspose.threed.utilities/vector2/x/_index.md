@@ -1,17 +1,17 @@
 ---
-title: x
+title: X
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
 weight: 50
 url: /net/aspose.threed.utilities/vector2/x/
 ---
-## Vector2.x field
+## Vector2.X field
 
 The x component.
 
 ```csharp
-public double x;
+public double X;
 ```
 
 ### See Also

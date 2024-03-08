@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.shading/shadertechnique/
+url: /aspose.threed.shading/shadertechnique/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ The ShaderTechnique type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ShaderTechnique()](/3d/python-net/aspose.threed.shading/shadertechnique/__init__/#) | Initializes a new instance of the [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique) class. |
+| [__init__](/3d/python-net/aspose.threed.shading/shadertechnique/__init__/#) | Initializes a new instance of the [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique) class. |
 
 
 ### Properties
@@ -38,10 +38,10 @@ The ShaderTechnique type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_binding(property, shader_parameter)](/3d/python-net/aspose.threed.shading/shadertechnique/add_binding/#str-str) | Binds the dynamic property to shader parameter |
+| [add_binding](/3d/python-net/aspose.threed.shading/shadertechnique/add_binding/#str-str) | Binds the dynamic property to shader parameter |
 
 
 
 ### See Also
-* module [aspose.threed.shading](..)
-* class [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique)
+* module [`aspose.threed.shading`](..)
+* class [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique)

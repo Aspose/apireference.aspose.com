@@ -42,7 +42,6 @@ public class BindPoint : A3DObject
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
 | [GetChannel](../../aspose.threed.animation/bindpoint/getchannel)(string) | Gets channel by given name |
 | [GetKeyframeSequence](../../aspose.threed.animation/bindpoint/getkeyframesequence)(string) | Gets the first keyframe sequence in specified channel |
-| [GetKeyframeSequences](../../aspose.threed.animation/bindpoint/getkeyframesequences)(string) | Gets all keyframe sequences in specified channel |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |

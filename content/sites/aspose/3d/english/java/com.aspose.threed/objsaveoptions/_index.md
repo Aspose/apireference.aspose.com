@@ -3,7 +3,7 @@ title: ObjSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for wavefront obj file
 type: docs
-weight: 103
+weight: 106
 url: /java/com.aspose.threed/objsaveoptions/
 ---
 
@@ -24,9 +24,12 @@ Save options for wavefront obj file
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getApplyUnitScale()](#getApplyUnitScale--) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
+| [getAxisSystem()](#getAxisSystem--) | Gets the axis system in the exported file. |
 | [getClass()](#getClass--) |  |
 | [getEnableMaterials()](#getEnableMaterials--) | Gets whether import/export materials for each object |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
 | [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
 | [getFileSystem()](#getFileSystem--) | Allow user to handle how to manage the external dependencies during load/save. |
@@ -39,8 +42,11 @@ Save options for wavefront obj file
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setApplyUnitScale(boolean value)](#setApplyUnitScale-boolean-) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
+| [setAxisSystem(AxisSystem value)](#setAxisSystem-com.aspose.threed.AxisSystem-) | Sets the axis system in the exported file. |
 | [setEnableMaterials(boolean value)](#setEnableMaterials-boolean-) | Sets whether import/export materials for each object |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
 | [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
 | [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
@@ -76,6 +82,26 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getApplyUnitScale() {#getApplyUnitScale--}
+```
+public boolean getApplyUnitScale()
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
+
+**Returns:**
+boolean
+### getAxisSystem() {#getAxisSystem--}
+```
+public AxisSystem getAxisSystem()
+```
+
+
+Gets the axis system in the exported file. **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature.
+
+**Returns:**
+[AxisSystem](../../com.aspose.threed/axissystem)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -106,6 +132,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getFileFormat() {#getFileFormat--}
 ```
 public FileFormat getFileFormat()
@@ -222,6 +258,32 @@ public final native void notifyAll()
 
 
 
+### setApplyUnitScale(boolean value) {#setApplyUnitScale-boolean-}
+```
+public void setApplyUnitScale(boolean value)
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### setAxisSystem(AxisSystem value) {#setAxisSystem-com.aspose.threed.AxisSystem-}
+```
+public void setAxisSystem(AxisSystem value)
+```
+
+
+Sets the axis system in the exported file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [AxisSystem](../../com.aspose.threed/axissystem) | New value **Remarks:** FlipCoordinateSystem must be enabled to utilize this feature. |
+
 ### setEnableMaterials(boolean value) {#setEnableMaterials-boolean-}
 ```
 public void setEnableMaterials(boolean value)
@@ -247,6 +309,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setFileName(String value) {#setFileName-java.lang.String-}
 ```
@@ -372,7 +447,7 @@ public final void wait()
 
 ### wait(long arg0) {#wait-long-}
 ```
-public final native void wait(long arg0)
+public final void wait(long arg0)
 ```
 
 

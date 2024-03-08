@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.render/itextureunit/depth/
+url: /aspose.threed.render/itextureunit/depth/
 is_root: false
 ---
 
@@ -20,5 +20,5 @@ def depth(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)

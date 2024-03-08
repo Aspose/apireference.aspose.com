@@ -4,11 +4,11 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.deformers/bone/get_weight/
+url: /aspose.threed.deformers/bone/get_weight/
 is_root: false
 ---
 
-## get_weight(index) {#int}
+## get_weight {#int}
 
 Gets the weight for control point specified by index
 
@@ -32,5 +32,5 @@ def get_weight(self, index):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [Bone](/3d/python-net/aspose.threed.deformers/bone)
+* module [`aspose.threed.deformers`](../../)
+* class [`Bone`](/3d/python-net/aspose.threed.deformers/bone)
