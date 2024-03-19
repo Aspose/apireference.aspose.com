@@ -3,7 +3,7 @@ title: ObjLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1240
+weight: 1720
 url: /net/aspose.threed.formats/objloadoptions/
 ---
 ## ObjLoadOptions class

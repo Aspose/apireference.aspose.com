@@ -3,7 +3,7 @@ title: AnimationNode
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 2770
 url: /net/aspose.threed.animation/animationnode/
 ---
 ## AnimationNode class

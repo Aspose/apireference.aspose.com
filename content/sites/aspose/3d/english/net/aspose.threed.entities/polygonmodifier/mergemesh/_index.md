@@ -22,6 +22,20 @@ public static Mesh MergeMesh(Scene scene)
 
 The merged mesh
 
+### Examples
+
+The following code shows how to merge all objects from a scene into a single mesh.
+
+```csharp
+//Input file may contains multiple objects
+var scene = Scene.FromFile("input.fbx");
+//now merge them into a single mesh
+Mesh merged = PolygonModifier.MergeMesh(scene);
+//then we save it to a file with only one mesh
+var newScene = new Scene(merged);
+newScene.Save("test.obj");
+```
+
 ### See Also
 
 * class [Mesh](../../mesh)
@@ -63,6 +77,20 @@ public static Mesh MergeMesh(Node node)
 ### Return Value
 
 Merged mesh
+
+### Examples
+
+The following code shows how to merge all objects from nodes into a single mesh.
+
+```csharp
+//Input file may contains multiple objects
+var scene = Scene.FromFile("input.fbx");
+//now merge them into a single mesh
+Mesh merged = PolygonModifier.MergeMesh(scene.RootNode);
+//then we save it to a file with only one mesh
+var newScene = new Scene(merged);
+newScene.Save("test.obj");
+```
 
 ### See Also
 

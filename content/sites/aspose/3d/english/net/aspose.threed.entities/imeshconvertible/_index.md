@@ -3,7 +3,7 @@ title: IMeshConvertible
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 410
+weight: 2040
 url: /net/aspose.threed.entities/imeshconvertible/
 ---
 ## IMeshConvertible interface

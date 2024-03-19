@@ -3,7 +3,7 @@ title: Interpolation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 2730
 url: /net/aspose.threed.animation/interpolation/
 ---
 ## Interpolation enumeration

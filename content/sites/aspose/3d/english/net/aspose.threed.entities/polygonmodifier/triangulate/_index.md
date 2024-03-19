@@ -18,6 +18,21 @@ public static void Triangulate(Scene scene)
 | --- | --- | --- |
 | scene | Scene | The scene to process |
 
+### Examples
+
+The following code shows how to merge all objects from a scene into a single mesh.
+
+```csharp
+var mesh = new Cylinder().ToMesh();
+
+//Triangulate this quadrangle-based mesh to triangle-based 
+mesh = PolygonModifier.Triangulate(mesh);
+
+var scene = new Scene(mesh);
+
+      scene.Save("test.obj");
+```
+
 ### See Also
 
 * class [Scene](../../../aspose.threed/scene)
@@ -42,6 +57,21 @@ public static Mesh Triangulate(Mesh mesh)
 ### Return Value
 
 The generated new triangle mesh
+
+### Examples
+
+The following code shows how to merge all objects from a scene into a single mesh.
+
+```csharp
+var mesh = new Cylinder().ToMesh();
+
+//Triangulate this quadrangle-based mesh to triangle-based 
+mesh = PolygonModifier.Triangulate(mesh);
+
+var scene = new Scene(mesh);
+
+      scene.Save("test.obj");
+```
 
 ### See Also
 

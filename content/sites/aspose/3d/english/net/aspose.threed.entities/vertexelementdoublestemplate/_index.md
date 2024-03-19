@@ -3,7 +3,7 @@ title: VertexElementDoublesTemplate
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 810
+weight: 2490
 url: /net/aspose.threed.entities/vertexelementdoublestemplate/
 ---
 ## VertexElementDoublesTemplate class

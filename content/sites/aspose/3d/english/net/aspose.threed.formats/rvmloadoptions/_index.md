@@ -3,7 +3,7 @@ title: RvmLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1350
+weight: 1540
 url: /net/aspose.threed.formats/rvmloadoptions/
 ---
 ## RvmLoadOptions class
@@ -39,6 +39,21 @@ public class RvmLoadOptions : LoadOptions
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [RectangularTorusSegments](../../aspose.threed.formats/rvmloadoptions/rectangulartorussegments) { get; set; } | Gets or sets the number of rectangular torus' radial segments, default value is 20 |
 | [TorusTubularSegments](../../aspose.threed.formats/rvmloadoptions/torustubularsegments) { get; set; } | Gets or sets the number of torus' tubular segments, default value is 20 |
+
+### Examples
+
+The following code shows how to customize the tessellation parameters for primitive geometries imported from RVM file using RvmLoadOptions.
+
+```csharp
+RvmLoadOptions opt = new RvmLoadOptions();
+opt.RectangularTorusSegments = 30;
+opt.CylinderRadialSegments = 20;
+opt.DishLatitudeSegments = 20;
+opt.DishLongitudeSegments = 20;
+opt.CenterScene = true;
+var scene = Scene.FromFile("input.rvm", opt);
+scene.Save("output.obj");
+```
 
 ### See Also
 

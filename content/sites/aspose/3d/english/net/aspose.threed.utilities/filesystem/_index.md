@@ -3,7 +3,7 @@ title: FileSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2620
+weight: 1230
 url: /net/aspose.threed.utilities/filesystem/
 ---
 ## FileSystem class
@@ -18,6 +18,11 @@ public abstract class FileSystem : IDisposable
 
 | Name | Description |
 | --- | --- |
+| static [CreateDummyFileSystem](../../aspose.threed.utilities/filesystem/createdummyfilesystem)() | Create a dummy file system, read/write operations are dummy operations. |
+| static [CreateLocalFileSystem](../../aspose.threed.utilities/filesystem/createlocalfilesystem)(string) | Initialize a new [`FileSystem`](../filesystem) that only access local directory. All file read/write on this FileSystem instance will be mapped to specified directory. |
+| static [CreateMemoryFileSystem](../../aspose.threed.utilities/filesystem/creatememoryfilesystem)(IDictionary&lt;string, MemoryStream&gt;) |  |
+| static [CreateZipFileSystem](../../aspose.threed.utilities/filesystem/createzipfilesystem)(string) | File system to provide to the read-only access to speicified zip file or zip stream. File system will be disposed after the open/save operation. |
+| static [CreateZipFileSystem](../../aspose.threed.utilities/filesystem/createzipfilesystem)(Stream, string) | Create a file system to provide to the read-only access to speicified zip file or zip stream. File system will be disposed after the open/save operation. |
 | virtual [Dispose](../../aspose.threed.utilities/filesystem/dispose)() | Dispose the File system and release its resources. |
 | abstract [ReadFile](../../aspose.threed.utilities/filesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
 | abstract [WriteFile](../../aspose.threed.utilities/filesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |

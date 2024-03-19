@@ -16,7 +16,23 @@ public List<Scene> ExtractScene(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String |  |
+| fileName | String | File name of input PDF file |
+
+### Return Value
+
+List of decoded 3D scenes that supported by Aspose.3D
+
+### Examples
+
+The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
+
+```csharp
+var scenes = FileFormat.PDF.ExtractScene("input.pdf");
+for(int i = 0; i < scenes.Count; i++) 
+{
+    scenes[i].Save($"output-{i}.obj");
+}
+```
 
 ### See Also
 
@@ -37,8 +53,24 @@ public List<Scene> ExtractScene(string fileName, byte[] password)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String |  |
-| password | Byte[] |  |
+| fileName | String | File name of input PDF file |
+| password | Byte[] | Password of the PDF file |
+
+### Return Value
+
+List of decoded 3D scenes that supported by Aspose.3D
+
+### Examples
+
+The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
+
+```csharp
+var scenes = FileFormat.PDF.ExtractScene("input.pdf");
+for(int i = 0; i < scenes.Count; i++) 
+{
+    scenes[i].Save($"output-{i}.obj");
+}
+```
 
 ### See Also
 
@@ -59,8 +91,24 @@ public List<Scene> ExtractScene(Stream stream, byte[] password = null)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream |  |
-| password | Byte[] |  |
+| stream | Stream | Stream of input PDF file |
+| password | Byte[] | Password of the PDF file |
+
+### Return Value
+
+List of decoded 3D scenes that supported by Aspose.3D
+
+### Examples
+
+The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
+
+```csharp
+var scenes = FileFormat.PDF.ExtractScene("input.pdf");
+for(int i = 0; i < scenes.Count; i++) 
+{
+    scenes[i].Save($"output-{i}.obj");
+}
+```
 
 ### See Also
 

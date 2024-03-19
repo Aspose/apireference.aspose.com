@@ -3,7 +3,7 @@ title: PbrMaterial
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2410
+weight: 330
 url: /net/aspose.threed.shading/pbrmaterial/
 ---
 ## PbrMaterial class

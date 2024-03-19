@@ -3,7 +3,7 @@ title: KeyFrame
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 2800
 url: /net/aspose.threed.animation/keyframe/
 ---
 ## KeyFrame class

@@ -3,7 +3,7 @@ title: Property
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1720
+weight: 40
 url: /net/aspose.threed/property/
 ---
 ## Property class

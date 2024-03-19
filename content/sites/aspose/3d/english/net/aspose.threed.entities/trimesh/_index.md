@@ -3,7 +3,7 @@ title: TriMesh
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 760
+weight: 2380
 url: /net/aspose.threed.entities/trimesh/
 ---
 ## TriMesh class
@@ -72,6 +72,28 @@ public class TriMesh : Entity, IEnumerable<Vertex>
 | [Write16bIndicesTo](../../aspose.threed.entities/trimesh/write16bindicesto)(Stream) | Write the indices data as 16bit integer to the stream |
 | [Write32bIndicesTo](../../aspose.threed.entities/trimesh/write32bindicesto)(Stream) | Write the indices data as 32bit integer to the stream |
 | [WriteVerticesTo](../../aspose.threed.entities/trimesh/writeverticesto)(Stream) | Write vertices data to the specified stream |
+
+### Examples
+
+The following code shows how to create a TriMesh with custom memory layout, and export it to file.
+
+```csharp
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+VertexDeclaration vd = new VertexDeclaration();
+vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Position);
+vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Normal);
+vd.AddField(VertexFieldDataType.FVector2, VertexFieldSemantic.UV);
+//convert a mesh to tri-mesh using specified memory layout  
+var mesh = (new Sphere()).ToMesh();
+var triMesh = TriMesh.FromMesh(vd, mesh);
+//save it to a stream, 115 vertices * 32bytes per vertex
+using (var stream = new FileStream("output.bin", FileMode.Create))
+{
+    triMesh.WriteVerticesTo(stream);
+    //save indices as ushort to stream, 504 indices * 2 bytes per index
+    triMesh.Write16bIndicesTo(stream);
+}
+```
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1480
+weight: 80
 url: /net/aspose.threed/license/
 ---
 ## License class

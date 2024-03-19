@@ -3,7 +3,7 @@ title: TransformedCurve
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 750
+weight: 1980
 url: /net/aspose.threed.entities/transformedcurve/
 ---
 ## TransformedCurve class

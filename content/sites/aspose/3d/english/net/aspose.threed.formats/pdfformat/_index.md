@@ -3,7 +3,7 @@ title: PdfFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1260
+weight: 1740
 url: /net/aspose.threed.formats/pdfformat/
 ---
 ## PdfFormat class
@@ -38,6 +38,18 @@ public class PdfFormat : FileFormat
 | [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene)(Stream, byte[]) | Extract raw 3D content from PDF stream. |
 | [ExtractScene](../../aspose.threed.formats/pdfformat/extractscene)(string, byte[]) | Extract 3D scenes from PDF file. |
 | override [ToString](../../aspose.threed/fileformat/tostring)() | Formats to string |
+
+### Examples
+
+The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
+
+```csharp
+var scenes = FileFormat.PDF.ExtractScene("input.pdf");
+for(int i = 0; i < scenes.Count; i++) 
+{
+    scenes[i].Save($"output-{i}.obj");
+}
+```
 
 ### See Also
 

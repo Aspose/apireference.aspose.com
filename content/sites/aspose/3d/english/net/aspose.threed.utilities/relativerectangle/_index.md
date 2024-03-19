@@ -3,7 +3,7 @@ title: RelativeRectangle
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2720
+weight: 1430
 url: /net/aspose.threed.utilities/relativerectangle/
 ---
 ## RelativeRectangle structure

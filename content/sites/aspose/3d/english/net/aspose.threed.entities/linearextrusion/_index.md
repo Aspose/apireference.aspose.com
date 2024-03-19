@@ -3,7 +3,7 @@ title: LinearExtrusion
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 460
+weight: 2080
 url: /net/aspose.threed.entities/linearextrusion/
 ---
 ## LinearExtrusion class
@@ -51,6 +51,43 @@ public class LinearExtrusion : Entity, IMeshConvertible
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 | [ToMesh](../../aspose.threed.entities/linearextrusion/tomesh)() | Convert the extrusion to mesh. |
+
+### Examples
+
+The following code shows how to use LinearExtrusion to extrude a shape into a solid model.
+
+```csharp
+using Aspose.ThreeD;
+using Aspose.ThreeD.Entities;
+using Aspose.ThreeD.Utilities;
+using Aspose.ThreeD.Profiles;
+
+//Create a new 3D scene
+Scene scene = new Scene();
+
+// Initialize the base profile to be extruded
+var profile = new RectangleShape()
+{
+	RoundingRadius = 0.3
+};
+
+// Create left node
+var left = scene.RootNode.CreateChildNode();
+left.CreateChildNode(new Box(0.01, 3, 3));
+
+// Create right node
+var right = scene.RootNode.CreateChildNode();
+right.CreateChildNode(new Box(0.01, 3, 3));
+right.Transform.Translation = new Vector3(5, 0, 0);
+
+//Perform linear extrusion on left node using center and slices property
+left.CreateChildNode(new LinearExtrusion(profile, 10) { Center = false, Slices = 3, Twist = 20.0 });
+
+// Perform linear extrusion on left node using center and slices property
+right.CreateChildNode(new LinearExtrusion(profile, 10) { Center = true, Slices = 3, Twist = 90.0 });
+
+scene
+```
 
 ### See Also
 

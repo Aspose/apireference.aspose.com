@@ -3,7 +3,7 @@ title: MaterialConverter
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1230
+weight: 1650
 url: /net/aspose.threed.formats/materialconverter/
 ---
 ## MaterialConverter delegate

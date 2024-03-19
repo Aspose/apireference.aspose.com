@@ -3,7 +3,7 @@ title: GltfEmbeddedImageFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1170
+weight: 1640
 url: /net/aspose.threed.formats/gltfembeddedimageformat/
 ---
 ## GltfEmbeddedImageFormat enumeration

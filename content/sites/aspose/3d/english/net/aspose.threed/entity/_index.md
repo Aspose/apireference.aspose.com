@@ -3,7 +3,7 @@ title: Entity
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1000
+weight: 170
 url: /net/aspose.threed/entity/
 ---
 ## Entity class

@@ -16,8 +16,12 @@ public static FVector3 operator *(FVector3 a, float b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | FVector3 |  |
-| b | Single |  |
+| a | FVector3 | First vector |
+| b | Single | Second vector |
+
+### Return Value
+
+The product of two vectors
 
 ### See Also
 

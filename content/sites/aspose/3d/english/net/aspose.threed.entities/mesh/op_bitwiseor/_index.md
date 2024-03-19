@@ -23,6 +23,16 @@ public static Mesh operator |(Mesh a, Mesh b)
 
 Result mesh
 
+### Examples
+
+The following code shows how to union two meshes into one mesh:
+
+```csharp
+var box1 = new Box(10, 10, 1).ToMesh();
+var box2 = new Box(1, 1, 10).ToMesh();
+var merged = box1 | box2;
+```
+
 ### See Also
 
 * class [Mesh](../../mesh)

@@ -3,7 +3,7 @@ title: ApertureMode
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 250
+weight: 1910
 url: /net/aspose.threed.entities/aperturemode/
 ---
 ## ApertureMode enumeration

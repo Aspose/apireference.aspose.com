@@ -3,7 +3,7 @@ title: SplitMeshPolicy
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 710
+weight: 2120
 url: /net/aspose.threed.entities/splitmeshpolicy/
 ---
 ## SplitMeshPolicy enumeration

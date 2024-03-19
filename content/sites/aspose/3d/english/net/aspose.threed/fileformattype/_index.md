@@ -3,7 +3,7 @@ title: FileFormatType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1040
+weight: 180
 url: /net/aspose.threed/fileformattype/
 ---
 ## FileFormatType class

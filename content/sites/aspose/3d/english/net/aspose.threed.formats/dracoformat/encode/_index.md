@@ -20,6 +20,18 @@ public void Encode(Entity entity, Stream stream, DracoSaveOptions options = null
 | stream | Stream | The stream that encoded data will be written to |
 | options | DracoSaveOptions | Extra options for encoding the point cloud |
 
+### Examples
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into Draco format
+byte[] draco = FileFormat.Draco.Encode(mesh);
+//decode mesh from Draco format
+Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
+```
+
 ### See Also
 
 * class [Entity](../../../aspose.threed/entity)
@@ -43,6 +55,18 @@ public void Encode(Entity entity, string fileName, DracoSaveOptions options = nu
 | entity | Entity | The entity to be encoded |
 | fileName | String | The file name to be written |
 | options | DracoSaveOptions | Extra options for encoding the point cloud |
+
+### Examples
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into Draco format
+byte[] draco = FileFormat.Draco.Encode(mesh);
+//decode mesh from Draco format
+Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
+```
 
 ### See Also
 
@@ -70,6 +94,18 @@ public byte[] Encode(Entity entity, DracoSaveOptions options = null)
 ### Return Value
 
 The encoded draco data represented in bytes
+
+### Examples
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into Draco format
+byte[] draco = FileFormat.Draco.Encode(mesh);
+//decode mesh from Draco format
+Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
+```
 
 ### See Also
 

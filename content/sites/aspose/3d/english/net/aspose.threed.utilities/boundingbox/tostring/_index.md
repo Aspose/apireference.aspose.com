@@ -14,6 +14,10 @@ Gets the string representation of the bounding box.
 public override string ToString()
 ```
 
+### Return Value
+
+The string representation of the bounding box.
+
 ### See Also
 
 * struct [BoundingBox](../../boundingbox)

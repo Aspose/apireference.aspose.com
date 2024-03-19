@@ -3,7 +3,7 @@ title: DracoFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1120
+weight: 1580
 url: /net/aspose.threed.formats/dracoformat/
 ---
 ## DracoFormat class
@@ -38,6 +38,18 @@ public class DracoFormat : FileFormat
 | [Encode](../../aspose.threed.formats/dracoformat/encode)(Entity, Stream, DracoSaveOptions) | Encode the entity to specified stream |
 | [Encode](../../aspose.threed.formats/dracoformat/encode)(Entity, string, DracoSaveOptions) | Encode the entity to specified file |
 | override [ToString](../../aspose.threed/fileformat/tostring)() | Formats to string |
+
+### Examples
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into Draco format
+byte[] draco = FileFormat.Draco.Encode(mesh);
+//decode mesh from Draco format
+Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
+```
 
 ### See Also
 

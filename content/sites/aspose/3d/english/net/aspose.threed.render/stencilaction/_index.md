@@ -3,7 +3,7 @@ title: StencilAction
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2290
+weight: 840
 url: /net/aspose.threed.render/stencilaction/
 ---
 ## StencilAction enumeration

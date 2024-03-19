@@ -3,12 +3,12 @@ title: FileSystemFactory
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1160
+weight: 1680
 url: /net/aspose.threed.formats/filesystemfactory/
 ---
 ## FileSystemFactory delegate
 
-[`SaveOptions`](../saveoptions) and [`LoadOptions`](../loadoptions) will create a [`LocalFileSystem`](../../aspose.threed.utilities/localfilesystem) for default. This can be a security issue in server environment. Use your own [`FileSystemFactory`](../filesystemfactory) to [`FileSystemFactory`](../ioconfig/filesystemfactory) to improve server side security.
+[`SaveOptions`](../saveoptions) and [`LoadOptions`](../loadoptions) will create a LocalFileSystem for default. This can be a security issue in server environment. Use your own [`FileSystemFactory`](../filesystemfactory) to [`FileSystemFactory`](../ioconfig/filesystemfactory) to improve server side security.
 
 ```csharp
 public delegate FileSystem FileSystemFactory();

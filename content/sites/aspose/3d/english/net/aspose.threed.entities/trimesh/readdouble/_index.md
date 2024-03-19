@@ -19,6 +19,10 @@ public double ReadDouble(int idx, VertexField field)
 | idx | Int32 | The index of vertex to read |
 | field | VertexField | The field with a float/double compatible data type |
 
+### Return Value
+
+Double value of specified vertex's field
+
 ### See Also
 
 * class [VertexField](../../../aspose.threed.utilities/vertexfield)

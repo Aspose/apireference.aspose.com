@@ -3,7 +3,7 @@ title: VertexFieldDataType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2820
+weight: 1480
 url: /net/aspose.threed.utilities/vertexfielddatatype/
 ---
 ## VertexFieldDataType enumeration

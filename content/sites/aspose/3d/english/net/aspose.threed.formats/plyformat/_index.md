@@ -3,7 +3,7 @@ title: PlyFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1310
+weight: 1790
 url: /net/aspose.threed.formats/plyformat/
 ---
 ## PlyFormat class
@@ -41,6 +41,25 @@ public class PlyFormat : FileFormat
 | [Encode](../../aspose.threed.formats/plyformat/encode)(Entity, Stream, PlySaveOptions) | Encode the entity and save the result into the stream. |
 | [Encode](../../aspose.threed.formats/plyformat/encode)(Entity, string, PlySaveOptions) | Encode the entity and save the result into an external file. |
 | override [ToString](../../aspose.threed/fileformat/tostring)() | Formats to string |
+
+### Examples
+
+The following code shows how to encode a mesh into PLY file:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into PLY format
+FileFormat.PLY.Encode(mesh, "sphere.ply");
+```
+
+The following code shows how to decode a mesh from a PLY file:
+
+```csharp
+//Generate a test file for decoding
+FileFormat.PLY.Encode(new Sphere(), "sphere.ply");
+//Decode the file
+var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
+```
 
 ### See Also
 

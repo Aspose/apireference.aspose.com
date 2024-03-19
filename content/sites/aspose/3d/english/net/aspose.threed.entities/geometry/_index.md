@@ -3,7 +3,7 @@ title: Geometry
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 390
+weight: 2030
 url: /net/aspose.threed.entities/geometry/
 ---
 ## Geometry class

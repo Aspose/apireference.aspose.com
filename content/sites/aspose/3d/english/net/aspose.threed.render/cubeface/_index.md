@@ -3,7 +3,7 @@ title: CubeFace
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1770
+weight: 590
 url: /net/aspose.threed.render/cubeface/
 ---
 ## CubeFace enumeration

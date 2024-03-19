@@ -3,7 +3,7 @@ title: PostProcessing
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2110
+weight: 680
 url: /net/aspose.threed.render/postprocessing/
 ---
 ## PostProcessing class

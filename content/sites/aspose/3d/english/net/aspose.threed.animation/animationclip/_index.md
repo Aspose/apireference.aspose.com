@@ -3,7 +3,7 @@ title: AnimationClip
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 2720
 url: /net/aspose.threed.animation/animationclip/
 ---
 ## AnimationClip class

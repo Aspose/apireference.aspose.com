@@ -22,6 +22,18 @@ public Geometry Decode(string fileName)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance depends on the file content
 
+### Examples
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into Draco format
+byte[] draco = FileFormat.Draco.Encode(mesh);
+//decode mesh from Draco format
+Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
+```
+
 ### See Also
 
 * class [Geometry](../../../aspose.threed.entities/geometry)
@@ -46,6 +58,18 @@ public Geometry Decode(byte[] data)
 ### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance depends on the content
+
+### Examples
+
+The following code shows how to encode and decode a Mesh to/from byte array:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into Draco format
+byte[] draco = FileFormat.Draco.Encode(mesh);
+//decode mesh from Draco format
+Mesh decodedMesh = (Mesh)FileFormat.Draco.Decode(draco);
+```
 
 ### See Also
 

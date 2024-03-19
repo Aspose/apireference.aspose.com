@@ -3,7 +3,7 @@ title: BooleanOperation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 260
+weight: 2090
 url: /net/aspose.threed.entities/booleanoperation/
 ---
 ## BooleanOperation enumeration

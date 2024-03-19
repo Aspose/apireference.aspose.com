@@ -16,8 +16,24 @@ public List<byte[]> Extract(string fileName, byte[] password = null)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String |  |
-| password | Byte[] |  |
+| fileName | String | File name of input PDF file |
+| password | Byte[] | Password of the PDF file |
+
+### Return Value
+
+A list of all 3D contents in bytes, including the formats that Aspose.3D don't supported.
+
+### Examples
+
+The following code shows how to extract all raw 3D contents from a 3D PDF file, and write them to files.
+
+```csharp
+var raw3DContents = FileFormat.PDF.Extract("input.pdf");
+for (int i = 0; i < raw3DContents.Count; i++)
+{
+    File.WriteAllBytes("raw-3d-" + i, raw3DContents[i]);
+}
+```
 
 ### See Also
 
@@ -37,8 +53,24 @@ public List<byte[]> Extract(Stream stream, byte[] password = null)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream |  |
-| password | Byte[] |  |
+| stream | Stream | Stream of input PDF file |
+| password | Byte[] | Password of the PDF file |
+
+### Return Value
+
+A list of all 3D contents in bytes, including the formats that Aspose.3D don't supported.
+
+### Examples
+
+The following code shows how to extract all raw 3D contents from a 3D PDF file, and write them to files.
+
+```csharp
+var raw3DContents = FileFormat.PDF.Extract("input.pdf");
+for (int i = 0; i < raw3DContents.Count; i++)
+{
+    File.WriteAllBytes("raw-3d-" + i, raw3DContents[i]);
+}
+```
 
 ### See Also
 

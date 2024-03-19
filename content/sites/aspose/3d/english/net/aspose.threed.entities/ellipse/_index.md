@@ -3,7 +3,7 @@ title: Ellipse
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 360
+weight: 1970
 url: /net/aspose.threed.entities/ellipse/
 ---
 ## Ellipse class

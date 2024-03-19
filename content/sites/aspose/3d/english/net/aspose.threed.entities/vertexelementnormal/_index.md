@@ -3,7 +3,7 @@ title: VertexElementNormal
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 860
+weight: 2570
 url: /net/aspose.threed.entities/vertexelementnormal/
 ---
 ## VertexElementNormal class

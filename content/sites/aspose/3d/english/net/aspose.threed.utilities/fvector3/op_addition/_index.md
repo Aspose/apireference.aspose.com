@@ -16,8 +16,8 @@ public static FVector3 operator +(FVector3 a, FVector3 b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | FVector3 |  |
-| b | FVector3 |  |
+| a | FVector3 | First vector |
+| b | FVector3 | Second vector |
 
 ### See Also
 

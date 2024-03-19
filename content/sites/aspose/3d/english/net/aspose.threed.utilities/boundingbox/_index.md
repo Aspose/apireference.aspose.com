@@ -3,7 +3,7 @@ title: BoundingBox
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2530
+weight: 1260
 url: /net/aspose.threed.utilities/boundingbox/
 ---
 ## BoundingBox structure
@@ -25,6 +25,8 @@ public struct BoundingBox
 
 | Name | Description |
 | --- | --- |
+| static [Infinite](../../aspose.threed.utilities/boundingbox/infinite) { get; } | The infinite bounding box |
+| static [Null](../../aspose.threed.utilities/boundingbox/null) { get; } | The null bounding box |
 | [Center](../../aspose.threed.utilities/boundingbox/center) { get; } | The center of the bounding box. |
 | [Extent](../../aspose.threed.utilities/boundingbox/extent) { get; } | Gets the extent of the bounding box. |
 | [Maximum](../../aspose.threed.utilities/boundingbox/maximum) { get; } | The maximum corner of the bounding box |
@@ -46,14 +48,17 @@ public struct BoundingBox
 | [OverlapsWith](../../aspose.threed.utilities/boundingbox/overlapswith)(BoundingBox) | Check if current bounding box overlaps with specified bounding box. |
 | [Scale](../../aspose.threed.utilities/boundingbox/scale)() | Calculates the absolute largest coordinate value of any contained point. |
 | override [ToString](../../aspose.threed.utilities/boundingbox/tostring)() | Gets the string representation of the bounding box. |
-| [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | Operator overloading for multiply |
+| [operator *](../../aspose.threed.utilities/boundingbox/op_multiply) | Operator overloading for multiply, new bounding box's minimum and maximum corner will be transformed by the matrix. |
 
-## Fields
+### Examples
 
-| Name | Description |
-| --- | --- |
-| static readonly [Infinite](../../aspose.threed.utilities/boundingbox/infinite) | The infinite bounding box |
-| static readonly [Null](../../aspose.threed.utilities/boundingbox/null) | The null bounding box |
+The following code shows how to get a bounding box from an Entity instance.
+
+```csharp
+var sphere = new Sphere();
+var boundingBox = sphere.GetBoundingBox();
+Console.WriteLine("Bounding box = " + boundingBox);
+```
 
 ### See Also
 

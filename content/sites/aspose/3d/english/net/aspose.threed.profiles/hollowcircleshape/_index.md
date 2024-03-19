@@ -3,7 +3,7 @@ title: HollowCircleShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1600
+weight: 1090
 url: /net/aspose.threed.profiles/hollowcircleshape/
 ---
 ## HollowCircleShape class

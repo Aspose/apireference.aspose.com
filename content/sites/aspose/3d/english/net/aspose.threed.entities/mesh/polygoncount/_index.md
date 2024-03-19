@@ -18,6 +18,15 @@ public int PolygonCount { get; }
 
 The polygon count.
 
+### Examples
+
+The following code shows how to get the number of mesh' polygons.
+
+```csharp
+var mesh = (new Sphere()).ToMesh();
+Console.WriteLine("Mesh's polygon count = " + mesh.PolygonCount);
+```
+
 ### See Also
 
 * class [Mesh](../../mesh)

@@ -3,7 +3,7 @@ title: PdfLightingScheme
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1270
+weight: 1770
 url: /net/aspose.threed.formats/pdflightingscheme/
 ---
 ## PdfLightingScheme enumeration

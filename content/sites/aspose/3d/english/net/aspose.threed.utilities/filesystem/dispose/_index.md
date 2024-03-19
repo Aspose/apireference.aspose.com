@@ -3,7 +3,7 @@ title: Dispose
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 10
+weight: 50
 url: /net/aspose.threed.utilities/filesystem/dispose/
 ---
 ## FileSystem.Dispose method

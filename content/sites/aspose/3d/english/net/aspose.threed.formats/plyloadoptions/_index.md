@@ -3,7 +3,7 @@ title: PlyLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1320
+weight: 1800
 url: /net/aspose.threed.formats/plyloadoptions/
 ---
 ## PlyLoadOptions class

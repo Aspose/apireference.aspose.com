@@ -3,7 +3,7 @@ title: BonePose
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 160
+weight: 150
 url: /net/aspose.threed/bonepose/
 ---
 ## BonePose class

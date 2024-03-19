@@ -3,7 +3,7 @@ title: PlySaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1330
+weight: 1810
 url: /net/aspose.threed.formats/plysaveoptions/
 ---
 ## PlySaveOptions class

@@ -3,7 +3,7 @@ title: VertexElementMaterial
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 850
+weight: 2610
 url: /net/aspose.threed.entities/vertexelementmaterial/
 ---
 ## VertexElementMaterial class
@@ -37,6 +37,19 @@ public class VertexElementMaterial : VertexElement
 | override [Clear](../../aspose.threed.entities/vertexelementmaterial/clear)() | Removes all elements from the direct and the index arrays. |
 | [SetIndices](../../aspose.threed.entities/vertexelement/setindices)(int[]) | Load indices |
 | override [ToString](../../aspose.threed.entities/vertexelement/tostring)() | String representation of vertex element. |
+
+### Examples
+
+The following code shows how to assign different material to different face of a box.
+
+```csharp
+// Create a mesh of box(A box is composed by 6 planes)
+Mesh box = (new Box()).ToMesh();
+// Create a material element on this mesh
+VertexElementMaterial mat = (VertexElementMaterial)box.CreateElement(VertexElementType.Material, MappingMode.Polygon, ReferenceMode.Index);
+// And specify different material index for each plane
+mat.Indices.AddRange(new int[] { 0, 1, 2, 3, 4, 5 });
+```
 
 ### See Also
 

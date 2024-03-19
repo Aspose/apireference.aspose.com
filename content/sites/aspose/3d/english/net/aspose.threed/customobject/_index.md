@@ -3,7 +3,7 @@ title: CustomObject
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 160
 url: /net/aspose.threed/customobject/
 ---
 ## CustomObject class

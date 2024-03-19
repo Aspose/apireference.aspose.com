@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 450
+weight: 2230
 url: /net/aspose.threed.entities/line/
 ---
 ## Line class

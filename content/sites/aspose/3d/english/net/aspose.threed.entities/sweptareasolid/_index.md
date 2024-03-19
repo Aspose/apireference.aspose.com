@@ -3,7 +3,7 @@ title: SweptAreaSolid
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 720
+weight: 2370
 url: /net/aspose.threed.entities/sweptareasolid/
 ---
 ## SweptAreaSolid class
@@ -47,6 +47,27 @@ public class SweptAreaSolid : Entity, IMeshConvertible
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 | [ToMesh](../../aspose.threed.entities/sweptareasolid/tomesh)() | Convert current object to mesh |
+
+### Examples
+
+The following code shows how to modeling an solid entity by sweeping a C-shape on a circle
+
+```csharp
+var directrix = new Circle(20);
+var shape = new CShape();
+
+var swept = new SweptAreaSolid()
+{
+  Shape = shape,
+  Directrix = directrix,
+  StartPoint = EndPoint.FromDegree(0),
+  EndPoint = EndPoint.FromDegree(130)
+};
+
+var scene = new Scene();
+scene.RootNode.CreateChildNode(swept);
+scene.Save("swept.obj");
+```
 
 ### See Also
 

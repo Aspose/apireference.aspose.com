@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1300
+weight: 1780
 url: /net/aspose.threed.formats/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

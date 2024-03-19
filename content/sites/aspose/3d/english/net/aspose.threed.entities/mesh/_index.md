@@ -3,7 +3,7 @@ title: Mesh
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 480
+weight: 2100
 url: /net/aspose.threed.entities/mesh/
 ---
 ## Mesh class

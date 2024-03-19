@@ -3,7 +3,7 @@ title: NurbsSurface
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 510
+weight: 2170
 url: /net/aspose.threed.entities/nurbssurface/
 ---
 ## NurbsSurface class

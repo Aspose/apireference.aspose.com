@@ -3,7 +3,7 @@ title: GltfSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1190
+weight: 1660
 url: /net/aspose.threed.formats/gltfsaveoptions/
 ---
 ## GltfSaveOptions class

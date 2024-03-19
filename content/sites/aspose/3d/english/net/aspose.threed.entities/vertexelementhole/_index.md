@@ -3,7 +3,7 @@ title: VertexElementHole
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 830
+weight: 2500
 url: /net/aspose.threed.entities/vertexelementhole/
 ---
 ## VertexElementHole class

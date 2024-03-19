@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.threed.utilities/boundingbox/infinite/
 ---
-## BoundingBox.Infinite field
+## BoundingBox.Infinite property
 
 The infinite bounding box
 
 ```csharp
-public static readonly BoundingBox Infinite;
+public static BoundingBox Infinite { get; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: CoordinateSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 130
 url: /net/aspose.threed/coordinatesystem/
 ---
 ## CoordinateSystem enumeration
