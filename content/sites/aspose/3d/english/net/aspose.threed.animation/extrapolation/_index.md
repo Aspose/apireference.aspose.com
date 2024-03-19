@@ -3,7 +3,7 @@ title: Extrapolation
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 2790
 url: /net/aspose.threed.animation/extrapolation/
 ---
 ## Extrapolation class

@@ -3,7 +3,7 @@ title: ReadFile
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 60
 url: /net/aspose.threed.utilities/filesystem/readfile/
 ---
 ## FileSystem.ReadFile method
@@ -18,6 +18,16 @@ public abstract Stream ReadFile(string fileName, IOConfig options)
 | --- | --- | --- |
 | fileName | String |  |
 | options | IOConfig |  |
+
+### Return Value
+
+Stream for reading the file.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| FileNotFoundException | The implementation throws this exception when failed to open the file for reading. |
 
 ### See Also
 

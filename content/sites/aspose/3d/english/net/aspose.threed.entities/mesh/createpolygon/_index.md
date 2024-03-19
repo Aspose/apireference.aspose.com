@@ -22,7 +22,10 @@ public void CreatePolygon(int[] indices, int offset, int length)
 
 ### Examples
 
+The following code shows how to create a new polygon with control point's indices.
+
 ```csharp
+var mesh = new Mesh();
 int[] indices = new int[] {0, 1, 2};
 mesh.CreatePolygon(indices);
 ```
@@ -50,6 +53,7 @@ public void CreatePolygon(int[] indices)
 ### Examples
 
 ```csharp
+var mesh = new Mesh();
 int[] indices = new int[] {0, 1, 2};
 mesh.CreatePolygon(indices);
 ```
@@ -77,6 +81,15 @@ public void CreatePolygon(int v1, int v2, int v3, int v4)
 | v3 | Int32 | Index of the third vertex |
 | v4 | Int32 | Index of the fourth vertex |
 
+### Examples
+
+The following code shows how to create a new polygon with control point's indices.
+
+```csharp
+var mesh = new Mesh();
+mesh.CreatePolygon(0, 1, 2, 3);
+```
+
 ### See Also
 
 * class [Mesh](../../mesh)
@@ -98,6 +111,15 @@ public void CreatePolygon(int v1, int v2, int v3)
 | v1 | Int32 | Index of the first vertex |
 | v2 | Int32 | Index of the second vertex |
 | v3 | Int32 | Index of the third vertex |
+
+### Examples
+
+The following code shows how to create a new polygon with control point's indices.
+
+```csharp
+var mesh = new Mesh();
+mesh.CreatePolygon(0, 1, 2);
+```
 
 ### See Also
 

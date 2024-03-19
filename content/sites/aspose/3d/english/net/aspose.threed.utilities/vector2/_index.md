@@ -3,7 +3,7 @@ title: Vector2
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2760
+weight: 1380
 url: /net/aspose.threed.utilities/vector2/
 ---
 ## Vector2 structure

@@ -3,7 +3,7 @@ title: Rect
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2710
+weight: 1420
 url: /net/aspose.threed.utilities/rect/
 ---
 ## Rect structure

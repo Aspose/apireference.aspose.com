@@ -3,7 +3,7 @@ title: ITextureCodec
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1990
+weight: 1000
 url: /net/aspose.threed.render/itexturecodec/
 ---
 ## ITextureCodec interface

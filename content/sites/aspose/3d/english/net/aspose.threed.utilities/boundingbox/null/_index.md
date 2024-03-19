@@ -6,12 +6,12 @@ type: docs
 weight: 30
 url: /net/aspose.threed.utilities/boundingbox/null/
 ---
-## BoundingBox.Null field
+## BoundingBox.Null property
 
 The null bounding box
 
 ```csharp
-public static readonly BoundingBox Null;
+public static BoundingBox Null { get; }
 ```
 
 ### See Also

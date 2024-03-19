@@ -3,7 +3,7 @@ title: GLSLSource
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1870
+weight: 920
 url: /net/aspose.threed.render/glslsource/
 ---
 ## GLSLSource class

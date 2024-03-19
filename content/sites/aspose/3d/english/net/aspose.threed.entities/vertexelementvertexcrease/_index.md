@@ -3,7 +3,7 @@ title: VertexElementVertexCrease
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 970
+weight: 2530
 url: /net/aspose.threed.entities/vertexelementvertexcrease/
 ---
 ## VertexElementVertexCrease class

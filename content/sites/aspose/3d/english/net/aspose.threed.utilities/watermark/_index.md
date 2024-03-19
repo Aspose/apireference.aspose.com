@@ -3,7 +3,7 @@ title: Watermark
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2840
+weight: 1500
 url: /net/aspose.threed.utilities/watermark/
 ---
 ## Watermark class

@@ -3,7 +3,7 @@ title: FMatrix4
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2580
+weight: 1280
 url: /net/aspose.threed.utilities/fmatrix4/
 ---
 ## FMatrix4 structure
@@ -22,6 +22,12 @@ public struct FMatrix4
 | [FMatrix4](fmatrix4)(FVector4, FVector4, FVector4, FVector4) | Constructs matrix from 4 rows. |
 | [FMatrix4](fmatrix4)(float, float, float, float, float, float, float, float, float, float, float, float, float, float, float, float) | Initialize the instance of [`FMatrix4`](../fmatrix4) |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| static [Identity](../../aspose.threed.utilities/fmatrix4/identity) { get; } | The identity matrix |
+
 ## Methods
 
 | Name | Description |
@@ -36,7 +42,6 @@ public struct FMatrix4
 
 | Name | Description |
 | --- | --- |
-| static readonly [Identity](../../aspose.threed.utilities/fmatrix4/identity) | The identity matrix |
 | [m00](../../aspose.threed.utilities/fmatrix4/m00) | The m00. |
 | [m01](../../aspose.threed.utilities/fmatrix4/m01) | The m01. |
 | [m02](../../aspose.threed.utilities/fmatrix4/m02) | The m02. |

@@ -3,7 +3,7 @@ title: Text
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1680
+weight: 1170
 url: /net/aspose.threed.profiles/text/
 ---
 ## Text class
@@ -45,6 +45,21 @@ public class Text : Profile
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
+
+### Examples
+
+The following code shows how to create a 3D mesh from text using specified font file.
+
+```csharp
+var font = FontFile.FromFile(@"CascadiaCode-Regular.otf");
+var text = new Text();
+text.Font = font;
+text.Content = "ABC";
+text.FontSize = 10;
+var linear = new LinearExtrusion(text, 10).ToMesh();
+var scene = new Scene(linear);
+scene.Save(@"test.stl");
+```
 
 ### See Also
 

@@ -22,6 +22,28 @@ public static void SplitMesh(Node node, SplitMeshPolicy policy, bool createChild
 | createChildNodes | Boolean | Create child nodes for each sub-mesh. |
 | removeOldMesh | Boolean | Remove the old mesh after split, if this parameter is false, the old and new meshes will co-exists. |
 
+### Examples
+
+The following code shows how to split a box into sub meshes using material indices.
+
+```csharp
+// Create a mesh of box(A box is composed by 6 planes)
+Mesh box = (new Box()).ToMesh();
+// Create a material element on this mesh
+VertexElementMaterial mat = (VertexElementMaterial)box.CreateElement(VertexElementType.Material, MappingMode.Polygon, ReferenceMode.Index);
+// And specify different material index for each plane
+mat.Indices.AddRange(new int[] { 0, 1, 2, 3, 4, 5 });
+// Now split it into 6 sub meshes, we specified 6 different materials on each plane, each plane will become a sub mesh.
+// We used the CloneData policy, each plane will has the same control point information or control point-based vertex element information.
+Mesh[] planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CloneData);
+
+// Now split it into 2 sub meshes, first mesh will contains 0/1/2 planes, and second mesh will contains the 3/4/5th planes.
+mat.Indices.Clear();
+mat.Indices.AddRange(new int[] { 0, 0, 0, 1, 1, 1 });
+// We used the CompactData policy, each plane will has its own control point information or control point-based vertex element information.
+planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CompactData);
+```
+
 ### See Also
 
 * class [Node](../../../aspose.threed/node)
@@ -46,6 +68,28 @@ public static void SplitMesh(Scene scene, SplitMeshPolicy policy, bool removeOld
 | policy | SplitMeshPolicy |  |
 | removeOldMesh | Boolean |  |
 
+### Examples
+
+The following code shows how to split a box into sub meshes using material indices.
+
+```csharp
+// Create a mesh of box(A box is composed by 6 planes)
+Mesh box = (new Box()).ToMesh();
+// Create a material element on this mesh
+VertexElementMaterial mat = (VertexElementMaterial)box.CreateElement(VertexElementType.Material, MappingMode.Polygon, ReferenceMode.Index);
+// And specify different material index for each plane
+mat.Indices.AddRange(new int[] { 0, 1, 2, 3, 4, 5 });
+// Now split it into 6 sub meshes, we specified 6 different materials on each plane, each plane will become a sub mesh.
+// We used the CloneData policy, each plane will has the same control point information or control point-based vertex element information.
+Mesh[] planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CloneData);
+
+// Now split it into 2 sub meshes, first mesh will contains 0/1/2 planes, and second mesh will contains the 3/4/5th planes.
+mat.Indices.Clear();
+mat.Indices.AddRange(new int[] { 0, 0, 0, 1, 1, 1 });
+// We used the CompactData policy, each plane will has its own control point information or control point-based vertex element information.
+planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CompactData);
+```
+
 ### See Also
 
 * class [Scene](../../../aspose.threed/scene)
@@ -62,6 +106,32 @@ Split mesh into sub-meshes by [`VertexElementMaterial`](../../vertexelementmater
 
 ```csharp
 public static Mesh[] SplitMesh(Mesh mesh, SplitMeshPolicy policy)
+```
+
+### Return Value
+
+New splitted meshes
+
+### Examples
+
+The following code shows how to split a box into sub meshes using material indices.
+
+```csharp
+// Create a mesh of box(A box is composed by 6 planes)
+Mesh box = (new Box()).ToMesh();
+// Create a material element on this mesh
+VertexElementMaterial mat = (VertexElementMaterial)box.CreateElement(VertexElementType.Material, MappingMode.Polygon, ReferenceMode.Index);
+// And specify different material index for each plane
+mat.Indices.AddRange(new int[] { 0, 1, 2, 3, 4, 5 });
+// Now split it into 6 sub meshes, we specified 6 different materials on each plane, each plane will become a sub mesh.
+// We used the CloneData policy, each plane will has the same control point information or control point-based vertex element information.
+Mesh[] planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CloneData);
+
+// Now split it into 2 sub meshes, first mesh will contains 0/1/2 planes, and second mesh will contains the 3/4/5th planes.
+mat.Indices.Clear();
+mat.Indices.AddRange(new int[] { 0, 0, 0, 1, 1, 1 });
+// We used the CompactData policy, each plane will has its own control point information or control point-based vertex element information.
+planes = PolygonModifier.SplitMesh(box, SplitMeshPolicy.CompactData);
 ```
 
 ### See Also

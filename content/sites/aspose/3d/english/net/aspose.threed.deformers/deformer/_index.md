@@ -3,7 +3,7 @@ title: Deformer
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 210
+weight: 2670
 url: /net/aspose.threed.deformers/deformer/
 ---
 ## Deformer class

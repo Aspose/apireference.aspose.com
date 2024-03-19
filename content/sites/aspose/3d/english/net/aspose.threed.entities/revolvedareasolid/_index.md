@@ -3,7 +3,7 @@ title: RevolvedAreaSolid
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 650
+weight: 2330
 url: /net/aspose.threed.entities/revolvedareasolid/
 ---
 ## RevolvedAreaSolid class
@@ -48,6 +48,55 @@ public class RevolvedAreaSolid : Entity, IMeshConvertible
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 | [ToMesh](../../aspose.threed.entities/revolvedareasolid/tomesh)() | Convert the [`RevolvedAreaSolid`](../revolvedareasolid) into a mesh. |
+
+### Examples
+
+The following code shows how to use RevolvedAreaSolid to revolve a shape into a solid model.
+
+```csharp
+using Aspose.ThreeD;
+using Aspose.ThreeD.Entities;
+using Aspose.ThreeD.Utilities;
+using Aspose.ThreeD.Profiles;
+
+//Create a new 3D scene
+Scene scene = new Scene();
+
+// Initialize the base profile to be revolved
+var profile = new RectangleShape()
+{
+    RoundingRadius = 0.3
+};
+//create a RevolvedAreaSolid instance 
+var revolved = new RevolvedAreaSolid()
+{
+  Shape = profile,
+  Origin = new Vector3(1, 0, 0),
+  AngleStart = 0,
+  AngleEnd = Math.PI
+};
+scene.RootNode.CreateChildNode(revolved);
+
+scene.Save("revolved.obj");
+```
+
+```csharp
+//Create a new 3D scene
+Scene scene = new Scene();
+
+// Initialize the base profile to be extruded
+var profile = new RectangleShape();
+profile.setRoundingRadius(0.3);
+
+var revolved = new RevolvedAreaSolid();
+revolved.setShape(profile);
+revolved.setOrigin(new Vector3(1, 0, 0));
+revolved.setAngleStart(0);
+revolved.setAngleEnd(Math.PI);
+scene.getRootNode().createChildNode(revolved);
+
+scene.save("revolved.obj");
+```
 
 ### See Also
 

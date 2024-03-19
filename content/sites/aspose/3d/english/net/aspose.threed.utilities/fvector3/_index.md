@@ -3,7 +3,7 @@ title: FVector3
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2600
+weight: 1300
 url: /net/aspose.threed.utilities/fvector3/
 ---
 ## FVector3 structure

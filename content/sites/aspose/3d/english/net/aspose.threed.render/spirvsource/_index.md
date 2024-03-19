@@ -3,7 +3,7 @@ title: SPIRVSource
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2220
+weight: 930
 url: /net/aspose.threed.render/spirvsource/
 ---
 ## SPIRVSource class

@@ -3,7 +3,7 @@ title: ShaderProgram
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2240
+weight: 890
 url: /net/aspose.threed.render/shaderprogram/
 ---
 ## ShaderProgram class

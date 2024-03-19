@@ -19,6 +19,10 @@ public FVector2 ReadFVector2(int idx, VertexField field)
 | idx | Int32 | The index of vertex to read |
 | field | VertexField | The field with a Vector2/FVector2 data type |
 
+### Return Value
+
+FVector2 of specified vertex's field
+
 ### See Also
 
 * struct [FVector2](../../../aspose.threed.utilities/fvector2)

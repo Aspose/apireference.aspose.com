@@ -3,7 +3,7 @@ title: ITextureUnit
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2030
+weight: 630
 url: /net/aspose.threed.render/itextureunit/
 ---
 ## ITextureUnit interface

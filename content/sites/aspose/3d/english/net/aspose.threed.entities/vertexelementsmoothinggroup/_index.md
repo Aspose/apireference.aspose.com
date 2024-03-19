@@ -3,7 +3,7 @@ title: VertexElementSmoothingGroup
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 880
+weight: 2600
 url: /net/aspose.threed.entities/vertexelementsmoothinggroup/
 ---
 ## VertexElementSmoothingGroup class

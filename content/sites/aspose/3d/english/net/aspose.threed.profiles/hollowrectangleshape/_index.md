@@ -3,7 +3,7 @@ title: HollowRectangleShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1610
+weight: 1100
 url: /net/aspose.threed.profiles/hollowrectangleshape/
 ---
 ## HollowRectangleShape class

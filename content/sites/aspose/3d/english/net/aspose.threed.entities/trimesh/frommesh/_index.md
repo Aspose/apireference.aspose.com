@@ -25,6 +25,8 @@ Instance of TriMesh converted from input mesh with specified vertex's memory lay
 
 ### Examples
 
+The following code shows how to create a TriMesh with custom memory layout, and export it to file.
+
 ```csharp
 //Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
 VertexDeclaration vd = new VertexDeclaration();
@@ -35,10 +37,12 @@ vd.AddField(VertexFieldDataType.FVector2, VertexFieldSemantic.UV);
 var mesh = (new Sphere()).ToMesh();
 var triMesh = TriMesh.FromMesh(vd, mesh);
 //save it to a stream, 115 vertices * 32bytes per vertex
-var stream = new MemoryStream();
-triMesh.WriteVerticesTo(stream);
-//save indices as ushort to stream, 504 indices * 2 bytes per index
-triMesh.Write16bIndicesTo(stream);
+using (var stream = new FileStream("output.bin", FileMode.Create))
+{
+    triMesh.WriteVerticesTo(stream);
+    //save indices as ushort to stream, 504 indices * 2 bytes per index
+    triMesh.Write16bIndicesTo(stream);
+}
 ```
 
 ### See Also
@@ -70,14 +74,24 @@ The [`TriMesh`](../../trimesh) generated from given [`Mesh`](../../mesh)
 
 ### Examples
 
+The following code shows how to create a TriMesh with custom memory layout, and export it to file.
+
 ```csharp
-//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
-var triMesh = TriMesh.FromMesh(new Sphere().ToMesh());
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+VertexDeclaration vd = new VertexDeclaration();
+vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Position);
+vd.AddField(VertexFieldDataType.FVector3, VertexFieldSemantic.Normal);
+vd.AddField(VertexFieldDataType.FVector2, VertexFieldSemantic.UV);
+//convert a mesh to tri-mesh using specified memory layout  
+var mesh = (new Sphere()).ToMesh();
+var triMesh = TriMesh.FromMesh(vd, mesh);
 //save it to a stream, 115 vertices * 32bytes per vertex
-var stream = new MemoryStream();
-triMesh.WriteVerticesTo(stream);
-//save indices as ushort to stream, 504 indices * 2 bytes per index
-triMesh.Write16bIndicesTo(stream);
+using (var stream = new FileStream("output.bin", FileMode.Create))
+{
+    triMesh.WriteVerticesTo(stream);
+    //save indices as ushort to stream, 504 indices * 2 bytes per index
+    triMesh.Write16bIndicesTo(stream);
+}
 ```
 
 ### See Also

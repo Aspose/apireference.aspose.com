@@ -18,6 +18,20 @@ public bool Contains(Vector3 p)
 | --- | --- | --- |
 | p | Vector3 | The point to test |
 
+### Return Value
+
+True if the point is inside the bounding box
+
+### Examples
+
+The following code shows how to check if a point is inside the bounding box.
+
+```csharp
+var boundingBox = new BoundingBox(0, 0, 0, 10, 10, 10);
+var pt = new Vector3(4, 4, 4);
+Console.WriteLine("Bounding box overlaps = " + boundingBox.Contains(pt));
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)

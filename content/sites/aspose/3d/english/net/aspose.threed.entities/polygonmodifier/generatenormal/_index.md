@@ -14,6 +14,10 @@ Generate normal data from Mesh definition
 public static VertexElementNormal GenerateNormal(Mesh mesh)
 ```
 
+### Return Value
+
+[`VertexElementNormal`](../../vertexelementnormal) instance with normal data.
+
 ### See Also
 
 * class [VertexElementNormal](../../vertexelementnormal)

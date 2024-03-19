@@ -19,6 +19,18 @@ public static Scene Scale(Scene scene, Vector3 scale)
 | scene | Scene | The scene to scale |
 | scale | Vector3 | The scale factor |
 
+### Examples
+
+The following code shows how to scale all geometries in scene by 10 times.
+
+```csharp
+//Load a test file for scaling
+var scene = Scene.FromFile("input.fbx");
+//scale all geometries 10 times.
+PolygonModifier.Scale(scene, new Vector3(10, 10, 10));
+scene.Save("test.obj");
+```
+
 ### See Also
 
 * class [Scene](../../../aspose.threed/scene)
@@ -41,6 +53,18 @@ public static void Scale(Node node, Vector3 scale)
 | --- | --- | --- |
 | node | Node | The node to scale |
 | scale | Vector3 | The scale factor |
+
+### Examples
+
+The following code shows how to scale all geometries in scene by 10 times.
+
+```csharp
+//Load a test file for scaling
+var scene = Scene.FromFile("input.fbx");
+//scale all geometries 10 times.
+PolygonModifier.Scale(scene.RootNode, new Vector3(10, 10, 10));
+scene.Save("test.obj");
+```
 
 ### See Also
 

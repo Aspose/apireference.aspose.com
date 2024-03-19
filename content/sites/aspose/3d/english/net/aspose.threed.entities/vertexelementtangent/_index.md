@@ -3,7 +3,7 @@ title: VertexElementTangent
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 900
+weight: 2580
 url: /net/aspose.threed.entities/vertexelementtangent/
 ---
 ## VertexElementTangent class

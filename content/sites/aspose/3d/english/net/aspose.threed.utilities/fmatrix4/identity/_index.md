@@ -6,12 +6,12 @@ type: docs
 weight: 20
 url: /net/aspose.threed.utilities/fmatrix4/identity/
 ---
-## FMatrix4.Identity field
+## FMatrix4.Identity property
 
 The identity matrix
 
 ```csharp
-public static readonly FMatrix4 Identity;
+public static FMatrix4 Identity { get; }
 ```
 
 ### See Also

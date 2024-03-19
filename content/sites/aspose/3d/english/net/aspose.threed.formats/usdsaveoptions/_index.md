@@ -3,7 +3,7 @@ title: UsdSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1420
+weight: 1860
 url: /net/aspose.threed.formats/usdsaveoptions/
 ---
 ## UsdSaveOptions class

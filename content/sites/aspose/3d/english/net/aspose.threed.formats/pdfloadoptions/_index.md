@@ -3,7 +3,7 @@ title: PdfLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1280
+weight: 1750
 url: /net/aspose.threed.formats/pdfloadoptions/
 ---
 ## PdfLoadOptions class

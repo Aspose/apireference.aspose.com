@@ -8,7 +8,7 @@ url: /net/aspose.threed.utilities/boundingbox/op_multiply/
 ---
 ## BoundingBox Multiply operator
 
-Operator overloading for multiply
+Operator overloading for multiply, new bounding box's minimum and maximum corner will be transformed by the matrix.
 
 ```csharp
 public static BoundingBox operator *(BoundingBox bbox, Matrix4 mat)
@@ -16,8 +16,12 @@ public static BoundingBox operator *(BoundingBox bbox, Matrix4 mat)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bbox | BoundingBox |  |
-| mat | Matrix4 |  |
+| bbox | BoundingBox | The input bounding box. |
+| mat | Matrix4 | The matrix used to transform the bounding box's corners |
+
+### Return Value
+
+The product of bounding box and transform matrix.
 
 ### See Also
 

@@ -14,6 +14,10 @@ Returns the hash code for this instance
 public override int GetHashCode()
 ```
 
+### Return Value
+
+The hash code of the bounding box
+
 ### See Also
 
 * struct [BoundingBox](../../boundingbox)

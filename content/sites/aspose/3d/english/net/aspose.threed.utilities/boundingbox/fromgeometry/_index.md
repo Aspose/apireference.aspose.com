@@ -18,6 +18,16 @@ public static BoundingBox FromGeometry(Geometry geometry)
 | --- | --- | --- |
 | geometry | Geometry |  |
 
+### Examples
+
+The following code shows how to construct a bounding box from a geometry instance.
+
+```csharp
+var sphere = (new Sphere()).ToMesh();
+var boundingBox = BoundingBox.FromGeometry(sphere);
+Console.WriteLine("Bounding box = " + boundingBox);
+```
+
 ### See Also
 
 * class [Geometry](../../../aspose.threed.entities/geometry)

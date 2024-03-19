@@ -3,7 +3,7 @@ title: VertexElementWeight
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 990
+weight: 2640
 url: /net/aspose.threed.entities/vertexelementweight/
 ---
 ## VertexElementWeight class

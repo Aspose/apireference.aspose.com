@@ -3,7 +3,7 @@ title: RectangleShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1660
+weight: 1160
 url: /net/aspose.threed.profiles/rectangleshape/
 ---
 ## RectangleShape class

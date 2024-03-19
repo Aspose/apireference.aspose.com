@@ -3,7 +3,7 @@ title: Discreet3dsLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1090
+weight: 1880
 url: /net/aspose.threed.formats/discreet3dsloadoptions/
 ---
 ## Discreet3dsLoadOptions class

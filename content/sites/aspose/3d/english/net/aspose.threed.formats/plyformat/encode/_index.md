@@ -19,6 +19,16 @@ public void Encode(Entity entity, Stream stream)
 | entity | Entity | The entity to encode |
 | stream | Stream | The stream to write to, this method will not close this stream |
 
+### Examples
+
+The following code shows how to encode a mesh into PLY file:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into PLY format
+FileFormat.PLY.Encode(mesh, "sphere.ply");
+```
+
 ### See Also
 
 * class [Entity](../../../aspose.threed/entity)
@@ -41,6 +51,16 @@ public void Encode(Entity entity, Stream stream, PlySaveOptions opt)
 | entity | Entity | The entity to encode |
 | stream | Stream | The stream to write to, this method will not close this stream |
 | opt | PlySaveOptions | Save options |
+
+### Examples
+
+The following code shows how to encode a mesh into PLY file:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into PLY format
+FileFormat.PLY.Encode(mesh, "sphere.ply");
+```
 
 ### See Also
 
@@ -65,6 +85,16 @@ public void Encode(Entity entity, string fileName)
 | entity | Entity | The entity to encode |
 | fileName | String | The file to write to |
 
+### Examples
+
+The following code shows how to encode a mesh into PLY file:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into PLY format
+FileFormat.PLY.Encode(mesh, "sphere.ply");
+```
+
 ### See Also
 
 * class [Entity](../../../aspose.threed/entity)
@@ -87,6 +117,16 @@ public void Encode(Entity entity, string fileName, PlySaveOptions opt)
 | entity | Entity | The entity to encode |
 | fileName | String | The file to write to |
 | opt | PlySaveOptions | Save options |
+
+### Examples
+
+The following code shows how to encode a mesh into PLY file:
+
+```csharp
+Mesh mesh = (new Sphere()).ToMesh();
+//encode mesh into PLY format
+FileFormat.PLY.Encode(mesh, "sphere.ply");
+```
 
 ### See Also
 

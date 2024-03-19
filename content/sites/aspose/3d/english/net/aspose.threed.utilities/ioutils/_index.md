@@ -3,7 +3,7 @@ title: IOUtils
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2640
+weight: 1240
 url: /net/aspose.threed.utilities/ioutils/
 ---
 ## IOUtils class

@@ -3,7 +3,7 @@ title: ITextureCubemap
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2000
+weight: 610
 url: /net/aspose.threed.render/itexturecubemap/
 ---
 ## ITextureCubemap interface

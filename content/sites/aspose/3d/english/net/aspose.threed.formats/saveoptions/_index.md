@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1370
+weight: 1700
 url: /net/aspose.threed.formats/saveoptions/
 ---
 ## SaveOptions class

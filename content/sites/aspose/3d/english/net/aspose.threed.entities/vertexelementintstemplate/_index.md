@@ -3,7 +3,7 @@ title: VertexElementIntsTemplate
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 2480
 url: /net/aspose.threed.entities/vertexelementintstemplate/
 ---
 ## VertexElementIntsTemplate class

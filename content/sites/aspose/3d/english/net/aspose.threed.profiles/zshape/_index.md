@@ -3,7 +3,7 @@ title: ZShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1710
+weight: 1210
 url: /net/aspose.threed.profiles/zshape/
 ---
 ## ZShape class

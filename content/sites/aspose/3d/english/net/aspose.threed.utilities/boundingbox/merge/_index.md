@@ -16,7 +16,17 @@ public void Merge(Vector4 pt)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pt | Vector4 |  |
+| pt | Vector4 | The point to be merged into the bounding box |
+
+### Examples
+
+The following code shows how to merge a point to bounding box.
+
+```csharp
+var boundingBox = BoundingBox.Null;
+boundingBox.Merge(new Vector4(1, 10, -1));
+Console.WriteLine("Bounding box = " + boundingBox);
+```
 
 ### See Also
 
@@ -37,7 +47,17 @@ public void Merge(Vector3 pt)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pt | Vector3 |  |
+| pt | Vector3 | The point to be merged into the bounding box |
+
+### Examples
+
+The following code shows how to merge a point to bounding box.
+
+```csharp
+var boundingBox = BoundingBox.Null;
+boundingBox.Merge(new Vector3(1, 10, -1));
+Console.WriteLine("Bounding box = " + boundingBox);
+```
 
 ### See Also
 
@@ -58,9 +78,19 @@ public void Merge(double x, double y, double z)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | Double |  |
-| y | Double |  |
-| z | Double |  |
+| x | Double | The point to be merged into the bounding box |
+| y | Double | The point to be merged into the bounding box |
+| z | Double | The point to be merged into the bounding box |
+
+### Examples
+
+The following code shows how to merge a point to bounding box.
+
+```csharp
+var boundingBox = BoundingBox.Null;
+boundingBox.Merge(1, 10, -1);
+Console.WriteLine("Bounding box = " + boundingBox);
+```
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: RvmSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1360
+weight: 1550
 url: /net/aspose.threed.formats/rvmsaveoptions/
 ---
 ## RvmSaveOptions class
@@ -37,6 +37,26 @@ public class RvmSaveOptions : SaveOptions
 | [FileNote](../../aspose.threed.formats/rvmsaveoptions/filenote) { get; set; } | File note in the file header. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
+
+### Examples
+
+The following code shows how to export attribute in RVM.
+
+```csharp
+Scene scene = new Scene();
+var box = new Box().ToMesh();
+//node's name is required to export attributes
+var boxNode = scene.RootNode.CreateChildNode("box", box);
+boxNode.SetProperty("rvm:Price", 12.0);
+boxNode.SetProperty("rvm:Weight", 30.0);
+var opt = new RvmSaveOptions();
+//Properties with rvm: prefix will be exported.
+opt.ExportAttributes = true;
+opt.AttributePrefix = "rvm:";
+opt.Author = "Aspose.3D";
+opt.FileNote = "Test attribute export";
+scene.Save("output.rvm", opt);
+```
 
 ### See Also
 

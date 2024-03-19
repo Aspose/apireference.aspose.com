@@ -18,6 +18,20 @@ public bool OverlapsWith(BoundingBox box)
 | --- | --- | --- |
 | box | BoundingBox | The other bounding box to test |
 
+### Return Value
+
+True if the current bounding box overlaps with the given one.
+
+### Examples
+
+The following code shows how to check if two bounding boxes overlaps with each other.
+
+```csharp
+var boundingBox = new BoundingBox(0, 0, 0, 10, 10, 10);
+var bbox2 = new BoundingBox(1, 1, 1, 11, 11, 11);
+Console.WriteLine("Bounding box overlaps = " + boundingBox.OverlapsWith(bbox2));
+```
+
 ### See Also
 
 * struct [BoundingBox](../../boundingbox)

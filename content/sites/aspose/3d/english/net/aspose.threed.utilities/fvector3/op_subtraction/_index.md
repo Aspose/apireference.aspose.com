@@ -16,7 +16,11 @@ public static FVector3 operator -(FVector3 a)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | FVector3 |  |
+| a | FVector3 | Input vector |
+
+### Return Value
+
+The negative vector
 
 ### See Also
 
@@ -36,8 +40,12 @@ public static FVector3 operator -(FVector3 a, FVector3 b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | FVector3 |  |
-| b | FVector3 |  |
+| a | FVector3 | First vector |
+| b | FVector3 | Second vector |
+
+### Return Value
+
+The difference of two vectors
 
 ### See Also
 

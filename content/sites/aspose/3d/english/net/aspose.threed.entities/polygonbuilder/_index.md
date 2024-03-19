@@ -3,7 +3,7 @@ title: PolygonBuilder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 2220
 url: /net/aspose.threed.entities/polygonbuilder/
 ---
 ## PolygonBuilder class

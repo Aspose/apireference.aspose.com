@@ -14,6 +14,10 @@ Gets the string representation of [`TriMesh`](../../trimesh)
 public override string ToString()
 ```
 
+### Return Value
+
+The string representation
+
 ### See Also
 
 * class [TriMesh](../../trimesh)

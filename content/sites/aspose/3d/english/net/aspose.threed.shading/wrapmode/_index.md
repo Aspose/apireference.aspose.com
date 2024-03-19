@@ -3,7 +3,7 @@ title: WrapMode
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2500
+weight: 390
 url: /net/aspose.threed.shading/wrapmode/
 ---
 ## WrapMode enumeration

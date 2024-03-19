@@ -14,6 +14,10 @@ Gets the hash code of this instance
 public override int GetHashCode()
 ```
 
+### Return Value
+
+The hash code of the vector.
+
 ### See Also
 
 * struct [FVector2](../../fvector2)

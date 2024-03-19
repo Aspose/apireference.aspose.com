@@ -3,7 +3,7 @@ title: ExtrapolationType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 2760
 url: /net/aspose.threed.animation/extrapolationtype/
 ---
 ## ExtrapolationType enumeration

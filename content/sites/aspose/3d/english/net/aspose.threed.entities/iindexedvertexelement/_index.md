@@ -3,7 +3,7 @@ title: IIndexedVertexElement
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 400
+weight: 2450
 url: /net/aspose.threed.entities/iindexedvertexelement/
 ---
 ## IIndexedVertexElement interface

@@ -3,7 +3,7 @@ title: A3DObject
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.threed/a3dobject/
 ---
 ## A3DObject class

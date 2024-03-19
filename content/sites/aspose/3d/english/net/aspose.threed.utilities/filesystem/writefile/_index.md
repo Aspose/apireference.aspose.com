@@ -3,7 +3,7 @@ title: WriteFile
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 70
 url: /net/aspose.threed.utilities/filesystem/writefile/
 ---
 ## FileSystem.WriteFile method
@@ -18,6 +18,10 @@ public abstract Stream WriteFile(string fileName, IOConfig options)
 | --- | --- | --- |
 | fileName | String |  |
 | options | IOConfig |  |
+
+### Return Value
+
+Stream for writing the file
 
 ### See Also
 

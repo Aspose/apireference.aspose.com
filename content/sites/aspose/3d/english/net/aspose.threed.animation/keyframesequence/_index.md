@@ -3,7 +3,7 @@ title: KeyframeSequence
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 2810
 url: /net/aspose.threed.animation/keyframesequence/
 ---
 ## KeyframeSequence class

@@ -3,7 +3,7 @@ title: WeightedMode
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 2740
 url: /net/aspose.threed.animation/weightedmode/
 ---
 ## WeightedMode enumeration

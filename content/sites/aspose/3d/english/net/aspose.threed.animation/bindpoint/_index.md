@@ -3,7 +3,7 @@ title: BindPoint
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 2780
 url: /net/aspose.threed.animation/bindpoint/
 ---
 ## BindPoint class

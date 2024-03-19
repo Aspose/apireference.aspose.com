@@ -3,7 +3,7 @@ title: InitializationException
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2060
+weight: 540
 url: /net/aspose.threed.render/initializationexception/
 ---
 ## InitializationException class

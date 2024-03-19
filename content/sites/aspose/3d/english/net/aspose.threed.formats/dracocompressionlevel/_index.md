@@ -3,7 +3,7 @@ title: DracoCompressionLevel
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1110
+weight: 1590
 url: /net/aspose.threed.formats/dracocompressionlevel/
 ---
 ## DracoCompressionLevel enumeration

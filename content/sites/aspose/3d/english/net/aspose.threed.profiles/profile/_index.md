@@ -3,7 +3,7 @@ title: Profile
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1650
+weight: 1140
 url: /net/aspose.threed.profiles/profile/
 ---
 ## Profile class

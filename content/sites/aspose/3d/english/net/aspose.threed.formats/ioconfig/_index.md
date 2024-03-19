@@ -3,7 +3,7 @@ title: IOConfig
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1210
+weight: 1690
 url: /net/aspose.threed.formats/ioconfig/
 ---
 ## IOConfig class
@@ -23,7 +23,7 @@ public class IOConfig
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |
 | [LookupPaths](../../aspose.threed.formats/ioconfig/lookuppaths) { get; set; } | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-| static [FileSystemFactory](../../aspose.threed.formats/ioconfig/filesystemfactory) { get; set; } | Gets or sets the factory class for FileSystem. The default factory will create [`LocalFileSystem`](../../aspose.threed.utilities/localfilesystem) which is not suitable for server environment. |
+| static [FileSystemFactory](../../aspose.threed.formats/ioconfig/filesystemfactory) { get; set; } | Gets or sets the factory class for FileSystem. The default factory will create LocalFileSystem which is not suitable for server environment. |
 
 ### See Also
 

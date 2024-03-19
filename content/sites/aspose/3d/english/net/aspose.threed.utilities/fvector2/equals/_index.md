@@ -18,6 +18,10 @@ public bool Equals(FVector2 rhs)
 | --- | --- | --- |
 | rhs | FVector2 |  |
 
+### Return Value
+
+True if all components are equal.
+
 ### See Also
 
 * struct [FVector2](../../fvector2)
@@ -37,6 +41,10 @@ public override bool Equals(object obj)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | obj | Object |  |
+
+### Return Value
+
+True if input is a vector and all components are equal.
 
 ### See Also
 

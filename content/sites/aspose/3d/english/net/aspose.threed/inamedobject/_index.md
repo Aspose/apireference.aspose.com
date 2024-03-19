@@ -3,7 +3,7 @@ title: INamedObject
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1450
+weight: 10
 url: /net/aspose.threed/inamedobject/
 ---
 ## INamedObject interface

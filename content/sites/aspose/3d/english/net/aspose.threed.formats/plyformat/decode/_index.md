@@ -22,6 +22,17 @@ public Geometry Decode(string fileName)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
 
+### Examples
+
+The following code shows how to decode a mesh from a PLY file:
+
+```csharp
+//Generate a test file for decoding
+FileFormat.PLY.Encode(new Sphere(), "sphere.ply");
+//Decode the file
+var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
+```
+
 ### See Also
 
 * class [Geometry](../../../aspose.threed.entities/geometry)
@@ -47,6 +58,17 @@ public Geometry Decode(string fileName, PlyLoadOptions opt)
 ### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
+
+### Examples
+
+The following code shows how to decode a mesh from a PLY file:
+
+```csharp
+//Generate a test file for decoding
+FileFormat.PLY.Encode(new Sphere(), "sphere.ply");
+//Decode the file
+var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
+```
 
 ### See Also
 
@@ -74,6 +96,17 @@ public Geometry Decode(Stream stream)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
 
+### Examples
+
+The following code shows how to decode a mesh from a PLY file:
+
+```csharp
+//Generate a test file for decoding
+FileFormat.PLY.Encode(new Sphere(), "sphere.ply");
+//Decode the file
+var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
+```
+
 ### See Also
 
 * class [Geometry](../../../aspose.threed.entities/geometry)
@@ -99,6 +132,17 @@ public Geometry Decode(Stream stream, PlyLoadOptions opt)
 ### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh) or [`PointCloud`](../../../aspose.threed.entities/pointcloud) instance
+
+### Examples
+
+The following code shows how to decode a mesh from a PLY file:
+
+```csharp
+//Generate a test file for decoding
+FileFormat.PLY.Encode(new Sphere(), "sphere.ply");
+//Decode the file
+var mesh = (Mesh)FileFormat.PLY.Decode("sphere.ply")
+```
 
 ### See Also
 

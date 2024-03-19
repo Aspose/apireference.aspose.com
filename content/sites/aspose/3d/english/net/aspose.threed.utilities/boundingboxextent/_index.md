@@ -3,7 +3,7 @@ title: BoundingBoxExtent
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2550
+weight: 1250
 url: /net/aspose.threed.utilities/boundingboxextent/
 ---
 ## BoundingBoxExtent enumeration

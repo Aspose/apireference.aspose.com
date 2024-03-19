@@ -16,8 +16,12 @@ public static bool operator ==(FVector2 a, FVector2 b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | FVector2 |  |
-| b | FVector2 |  |
+| a | FVector2 | First vector |
+| b | FVector2 | Second vector |
+
+### Return Value
+
+True if all components are equal.
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ObjSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1250
+weight: 1730
 url: /net/aspose.threed.formats/objsaveoptions/
 ---
 ## ObjSaveOptions class

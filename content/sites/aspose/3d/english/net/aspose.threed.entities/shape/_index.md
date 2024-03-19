@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 670
+weight: 2340
 url: /net/aspose.threed.entities/shape/
 ---
 ## Shape class

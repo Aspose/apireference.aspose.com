@@ -3,7 +3,7 @@ title: VertexElementBinormal
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 800
+weight: 2560
 url: /net/aspose.threed.entities/vertexelementbinormal/
 ---
 ## VertexElementBinormal class

@@ -3,7 +3,7 @@ title: ParseException
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2690
+weight: 1410
 url: /net/aspose.threed.utilities/parseexception/
 ---
 ## ParseException class

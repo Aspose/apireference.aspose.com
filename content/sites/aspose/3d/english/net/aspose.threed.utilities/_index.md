@@ -12,12 +12,9 @@ All utility classes are defined in this namespace.
 
 | Class | Description |
 | --- | --- |
-| [DummyFileSystem](./dummyfilesystem) | Read/write operations are dummy operations. |
 | [FileSystem](./filesystem) | File system encapsulation. Aspose.3D will use this to read/write dependencies. |
 | [IOUtils](./ioutils) | Utilities to write matrix/vector to binary writer |
-| [LocalFileSystem](./localfilesystem) | The [`LocalFileSystem`](../aspose.threed.utilities/localfilesystem) will maps the read/write operations to local directory. |
 | [MathUtils](./mathutils) | A set of useful mathematical utilities. |
-| [MemoryFileSystem](./memoryfilesystem) | The [`MemoryFileSystem`](../aspose.threed.utilities/memoryfilesystem) will maps the read/write operations to memory. |
 | [ParseException](./parseexception) | Exception when Aspose.3D failed to parse the input. |
 | [SemanticAttribute](./semanticattribute) | Allow user to use their own structure for static declaration of [`VertexDeclaration`](../aspose.threed.utilities/vertexdeclaration) |
 | [TransformBuilder](./transformbuilder) | The [`TransformBuilder`](../aspose.threed.utilities/transformbuilder) is used to build transform matrix by a chain of transformations. |
@@ -25,7 +22,6 @@ All utility classes are defined in this namespace.
 | [VertexDeclaration](./vertexdeclaration) | The declaration of a custom defined vertex's structure |
 | [VertexField](./vertexfield) | Vertex's field memory layout description. |
 | [Watermark](./watermark) | Utility to encode/decode blind watermark to/from a mesh. |
-| [ZipArchiveFileSystem](./ziparchivefilesystem) | File system to provide to the read-only access to speicified zip file or zip stream. File system will be disposed after the open/save operation. |
 ## Interfaces
 
 | Interface | Description |

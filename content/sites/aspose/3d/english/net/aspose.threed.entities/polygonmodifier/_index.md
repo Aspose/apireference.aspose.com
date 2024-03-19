@@ -3,7 +3,7 @@ title: PolygonModifier
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 590
+weight: 2110
 url: /net/aspose.threed.entities/polygonmodifier/
 ---
 ## PolygonModifier class

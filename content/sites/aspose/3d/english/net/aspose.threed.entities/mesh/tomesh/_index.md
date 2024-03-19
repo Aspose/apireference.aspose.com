@@ -14,6 +14,10 @@ Gets the Mesh instance from current entity.
 public Mesh ToMesh()
 ```
 
+### Return Value
+
+Returns current instance.
+
 ### See Also
 
 * class [Mesh](../../mesh)

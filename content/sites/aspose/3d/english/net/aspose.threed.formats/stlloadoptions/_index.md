@@ -3,7 +3,7 @@ title: StlLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1380
+weight: 1820
 url: /net/aspose.threed.formats/stlloadoptions/
 ---
 ## StlLoadOptions class

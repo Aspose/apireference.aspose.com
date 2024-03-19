@@ -3,7 +3,7 @@ title: FbxSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1150
+weight: 1620
 url: /net/aspose.threed.formats/fbxsaveoptions/
 ---
 ## FbxSaveOptions class

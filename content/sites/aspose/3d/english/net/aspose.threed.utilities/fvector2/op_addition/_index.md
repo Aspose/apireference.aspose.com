@@ -16,8 +16,12 @@ public static FVector2 operator +(FVector2 a, FVector2 b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | FVector2 |  |
-| b | FVector2 |  |
+| a | FVector2 | First vector |
+| b | FVector2 | Second vector |
+
+### Return Value
+
+The sum of two vectors.
 
 ### See Also
 
