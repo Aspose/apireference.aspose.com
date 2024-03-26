@@ -11,7 +11,7 @@ url: /net/aspose.ocr/recognitionresult/skew/
 Gets skew angle.
 
 ```csharp
-public float Skew { get; }
+public float Skew { get; set; }
 ```
 
 ### See Also

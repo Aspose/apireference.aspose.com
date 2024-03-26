@@ -24,8 +24,8 @@ public class RecognitionResult
 | [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Gets list recognition results of a list of areas (Rectangles). |
 | [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
 | [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Gets a list of recognition results with a list of rows (Rectangles). |
-| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; } | Gets recognition result in one string. |
-| [Skew](../../aspose.ocr/recognitionresult/skew) { get; } | Gets skew angle. |
+| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; set; } | Gets recognition result in one string. |
+| [Skew](../../aspose.ocr/recognitionresult/skew) { get; set; } | Gets skew angle. |
 | [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Gets list of the warning messages describing non-critical faults appeared during generation. |
 
 ## Methods

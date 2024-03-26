@@ -42,7 +42,7 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [Country](./country) | For better passport recognition point the passport country. |
 | [DetectAreasMode](./detectareasmode) | Determines the type of neural network used for areas detection. |
 | [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
-| [Language](./language) | Languages used for OCR. ISO 639-2 Code |
+| [Language](./language) | Languages used for OCR. ISO 939-3 Code. |
 | [LoggingLevel](./logginglevel) | Defines the type of logs to display. |
 | [PixelType](./pixeltype) | Determines the type of the pixel data for image recognition. |
 | [SaveFormat](./saveformat) | For recognition result saving |

@@ -27,7 +27,7 @@ public RecognitionSettings()
 Initializes a new instance of the [`RecognitionSettings`](../../recognitionsettings) class with full set of properties.
 
 ```csharp
-public RecognitionSettings(Language language = Language.None, 
+public RecognitionSettings(Language language = Language.ExtLatin, 
     List<Rectangle> recognitionAreas = null, bool recognizeSingleLine = false)
 ```
 
