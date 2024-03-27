@@ -68,7 +68,7 @@ Manipulate Outlook files and email protocols in your application. Includes 6 ind
 {{< blocks/product-card title="**Aspose.Slides**" href="/slides/" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit or convert PowerPoint presentations in your application. Includes 7 individual products for various platforms.
+Create, edit or convert PowerPoint presentations in your application. Includes 9 individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/slides/net/" class="btn-net" >}}
