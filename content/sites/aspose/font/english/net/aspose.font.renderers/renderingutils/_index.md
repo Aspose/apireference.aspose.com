@@ -18,8 +18,10 @@ public static class RenderingUtils
 
 | Name | Description |
 | --- | --- |
-| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext)(Font, string, double) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
-| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext_1)(Font, string, double, LineSpacingType, int, int) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
+| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext)(Font, GlyphId[], double) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
+| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext_2)(Font, string, double) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
+| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext_1)(Font, GlyphId[], double, LineSpacingType, int, int) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
+| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext_3)(Font, string, double, LineSpacingType, int, int) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
 
 ## Other Members
 

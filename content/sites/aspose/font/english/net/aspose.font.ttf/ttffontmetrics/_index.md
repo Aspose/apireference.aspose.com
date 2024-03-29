@@ -41,7 +41,8 @@ public class TtfFontMetrics : FontMetrics
 | virtual [GetTypoAscender](../../aspose.font/fontmetrics/gettypoascender/)(double) | Returns descender for specific Font size. |
 | virtual [GetTypoDescender](../../aspose.font/fontmetrics/gettypodescender/)(double) | Returns descender for specific Font size. |
 | virtual [GetTypoLineGap](../../aspose.font/fontmetrics/gettypolinegap/)(double) | Returns line gap for specific Font size. |
-| override [MeasureString](../../aspose.font.ttf/ttffontmetrics/measurestring/)(string, double) | Measures string and returns string width. |
+| override [MeasureString](../../aspose.font.ttf/ttffontmetrics/measurestring/#measurestring)(string, double) | Measures string and returns string width. |
+| [MeasureString](../../aspose.font.ttf/ttffontmetrics/measurestring/#measurestring_1)(uint[], double) | Measures text represented as array of character codes and returns string width. |
 
 ### See Also
 
