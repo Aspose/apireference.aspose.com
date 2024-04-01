@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation class. Describes the orientation of the physical media sheet. https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2540
+weight: 2600
 url: /net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

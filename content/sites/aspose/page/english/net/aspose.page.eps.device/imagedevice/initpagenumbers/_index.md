@@ -3,7 +3,7 @@ title: ImageDevice.InitPageNumbers
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice method. Initializes numbers of pages to output
 type: docs
-weight: 340
+weight: 50
 url: /net/aspose.page.eps.device/imagedevice/initpagenumbers/
 ---
 ## ImageDevice.InitPageNumbers method

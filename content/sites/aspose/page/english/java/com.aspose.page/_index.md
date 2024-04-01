@@ -3,7 +3,7 @@ title: com.aspose.page
 second_title: Aspose.Page for Java API Reference
 description: The Aspose.Page is a root package for all classes of Aspose.Page library which are either directly in it like Device or indirectly through several subpackages.
 type: docs
-weight: 14
+weight: 13
 url: /java/com.aspose.page/
 ---
 

@@ -3,7 +3,7 @@ title: XpsDocument.CreatePolyBezierSegment
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new set of cubic Bézier curves
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.page.xps/xpsdocument/createpolybeziersegment/
 ---
 ## XpsDocument.CreatePolyBezierSegment method

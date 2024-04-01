@@ -3,7 +3,7 @@ title: XpsDocument.CreateIccProfile
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new ICC profile resource out of ICC profile file located at the iccProfilePath
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.page.xps/xpsdocument/createiccprofile/
 ---
 ## CreateIccProfile(string) {#createiccprofile_1}

@@ -3,7 +3,7 @@ title: Class PsConverterOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.PsConverterOptions class. Represents options for PsConverter plugin
 type: docs
-weight: 400
+weight: 450
 url: /net/aspose.page.plugins/psconverteroptions/
 ---
 ## PsConverterOptions class

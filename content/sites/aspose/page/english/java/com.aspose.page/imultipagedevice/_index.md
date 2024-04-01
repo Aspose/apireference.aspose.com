@@ -14,12 +14,30 @@ This interface contains methods for manipulating multi-paged device.
 
 | Method | Description |
 | --- | --- |
-| [initPageNumbers()](#initPageNumbers--) | Initializes numbers of pages to render. |
-| [openPage(String title)](#openPage-java.lang.String-) | Makes necessary preparation of the device before page rendering. |
-| [openPage(float width, float height)](#openPage-float-float-) | Makes necessary preparation of the device before page rendering. |
 | [closePage()](#closePage--) | Makes necessary preparation of the device after page has been rendered. |
-| [updatePageParameters(IMultiPageDevice device)](#updatePageParameters-com.aspose.page.IMultiPageDevice-) | Updates page parameters from other multi-paged device. |
 | [getCurrentPageNumber()](#getCurrentPageNumber--) | Gets current page number. |
+| [initPageNumbers()](#initPageNumbers--) | Initializes numbers of pages to render. |
+| [openPage(float width, float height)](#openPage-float-float-) | Makes necessary preparation of the device before page rendering. |
+| [openPage(String title)](#openPage-java.lang.String-) | Makes necessary preparation of the device before page rendering. |
+| [updatePageParameters(IMultiPageDevice device)](#updatePageParameters-com.aspose.page.IMultiPageDevice-) | Updates page parameters from other multi-paged device. |
+### closePage() {#closePage--}
+```
+public abstract void closePage()
+```
+
+
+Makes necessary preparation of the device after page has been rendered.
+
+### getCurrentPageNumber() {#getCurrentPageNumber--}
+```
+public abstract int getCurrentPageNumber()
+```
+
+
+Gets current page number.
+
+**Returns:**
+int - Current page number.
 ### initPageNumbers() {#initPageNumbers--}
 ```
 public abstract void initPageNumbers()
@@ -28,21 +46,6 @@ public abstract void initPageNumbers()
 
 Initializes numbers of pages to render.
 
-### openPage(String title) {#openPage-java.lang.String-}
-```
-public abstract boolean openPage(String title)
-```
-
-
-Makes necessary preparation of the device before page rendering.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| title | java.lang.String | The page title. |
-
-**Returns:**
-boolean - True if page is from requested range, otherwise false. Used in devices that can render specified array of page numbers.
 ### openPage(float width, float height) {#openPage-float-float-}
 ```
 public abstract boolean openPage(float width, float height)
@@ -59,14 +62,21 @@ Makes necessary preparation of the device before page rendering.
 
 **Returns:**
 boolean - Returns true if opened page has a number that falls in a range of selected page numbers and false otherwise.
-### closePage() {#closePage--}
+### openPage(String title) {#openPage-java.lang.String-}
 ```
-public abstract void closePage()
+public abstract boolean openPage(String title)
 ```
 
 
-Makes necessary preparation of the device after page has been rendered.
+Makes necessary preparation of the device before page rendering.
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| title | java.lang.String | The page title. |
+
+**Returns:**
+boolean - True if page is from requested range, otherwise false. Used in devices that can render specified array of page numbers.
 ### updatePageParameters(IMultiPageDevice device) {#updatePageParameters-com.aspose.page.IMultiPageDevice-}
 ```
 public abstract void updatePageParameters(IMultiPageDevice device)
@@ -80,13 +90,3 @@ Updates page parameters from other multi-paged device.
 | --- | --- | --- |
 | device | [IMultiPageDevice](../../com.aspose.page/imultipagedevice) | Another instance of the same device. |
 
-### getCurrentPageNumber() {#getCurrentPageNumber--}
-```
-public abstract int getCurrentPageNumber()
-```
-
-
-Gets current page number.
-
-**Returns:**
-int - Current page number.

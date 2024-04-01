@@ -3,7 +3,7 @@ title: PdfDevice.VERSION
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Version property key
 type: docs
-weight: 480
+weight: 250
 url: /net/aspose.page.eps.device/pdfdevice/version/
 ---
 ## PdfDevice.VERSION field

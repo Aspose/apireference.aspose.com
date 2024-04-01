@@ -35,13 +35,13 @@ Property value.
 Gets string property value. If requested property is absent, returns provided default value.
 
 ```csharp
-public virtual string GetProperty(string key, string def)
+public virtual string GetProperty(string key, string defValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | The name of property. |
-| def | String | Default value of property. |
+| defValue | String | Default value of property. |
 
 ### Return Value
 

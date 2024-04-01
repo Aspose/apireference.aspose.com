@@ -3,7 +3,7 @@ title: XpsDocument.Add
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Adds a content element Canvas Path or Glyphs
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.page.xps/xpsdocument/add/
 ---
 ## XpsDocument.Add&lt;T&gt; method

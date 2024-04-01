@@ -33,10 +33,21 @@ Describes the  PageOutputColor  feature options.
 
 | Method | Description |
 | --- | --- |
+| [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Adds a list of items to the end of this option's item list. |
 | [add(PageOutputColor.IPageOutputColorOptionItem[] items)](#add-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-) | Adds an array of  IPageOutputColorOptionItem  instances to the option. |
+| [clone()](#clone--) | Clones this option instance. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Gets the element name. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setDeviceBitsPerPixel(int deviceBitsPerPixel)](#setDeviceBitsPerPixel-int-) | Sets a  DeviceBitsPerPixel  scored property value. |
 | [setDriverBitsPerPixel(int driverBitsPerPixel)](#setDriverBitsPerPixel-int-) | Sets a  DriverBitsPerPixel  scored property value. |
-| [clone()](#clone--) | Clones this option instance. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PageOutputColorOption(String optionName, PageOutputColor.IPageOutputColorOptionItem[] items) {#PageOutputColorOption-java.lang.String-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-}
 ```
 public PageOutputColorOption(String optionName, PageOutputColor.IPageOutputColorOptionItem[] items)
@@ -49,7 +60,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem[] | An arbitrary array of  IPageOutputColorOptionItem  instances. |
+| items | [IPageOutputColorOptionItem\[\]](../../com.aspose.xps.metadata/ipageoutputcoloroptionitem) | An arbitrary array of  IPageOutputColorOptionItem  instances. |
 
 ### PageOutputColorOption(PageOutputColor.PageOutputColorOption option) {#PageOutputColorOption-com.aspose.xps.metadata.PageOutputColor.PageOutputColorOption-}
 ```
@@ -88,6 +99,19 @@ public static PageOutputColor.PageOutputColorOption Monochrome
 
 Specifies the output should be in monochrome (Black).
 
+### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
+```
+public void add(IOptionItem[] items)
+```
+
+
+Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| items | [IOptionItem\[\]](../../com.aspose.xps.metadata/ioptionitem) | List of items to add. |
+
 ### add(PageOutputColor.IPageOutputColorOptionItem[] items) {#add-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-}
 ```
 public PageOutputColor.PageOutputColorOption add(PageOutputColor.IPageOutputColorOptionItem[] items)
@@ -99,10 +123,81 @@ Adds an array of  IPageOutputColorOptionItem  instances to the option.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem[] | An arbitrary array of  IPageOutputColorOptionItem  instances. |
+| items | [IPageOutputColorOptionItem\[\]](../../com.aspose.xps.metadata/ipageoutputcoloroptionitem) | An arbitrary array of  IPageOutputColorOptionItem  instances. |
 
 **Returns:**
 [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This options instance.
+### clone() {#clone--}
+```
+public PageOutputColor.PageOutputColorOption clone()
+```
+
+
+Clones this option instance. The shortcut to the cloneing constructor.
+
+**Returns:**
+[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - The clone of this option instance.
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the element name.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setDeviceBitsPerPixel(int deviceBitsPerPixel) {#setDeviceBitsPerPixel-int-}
 ```
 public PageOutputColor.PageOutputColorOption setDeviceBitsPerPixel(int deviceBitsPerPixel)
@@ -133,13 +228,48 @@ Sets a  DriverBitsPerPixel  scored property value.
 
 **Returns:**
 [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This option instance.
-### clone() {#clone--}
+### toString() {#toString--}
 ```
-public PageOutputColor.PageOutputColorOption clone()
+public String toString()
 ```
 
 
-Clones this option instance. The shortcut to the cloneing constructor.
+
 
 **Returns:**
-[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - The clone of this option instance.
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

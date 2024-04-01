@@ -3,7 +3,7 @@ title: Class InputBin.BinType
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.InputBinBinType class. Defines constants for the
 type: docs
-weight: 1250
+weight: 1310
 url: /net/aspose.page.xps.xpsmetadata/inputbin.bintype/
 ---
 ## InputBin.BinType class

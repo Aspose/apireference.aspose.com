@@ -3,7 +3,7 @@ title: XpsDocument.CreateLinearGradientBrush
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new linear gradient brush
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.page.xps/xpsdocument/createlineargradientbrush/
 ---
 ## CreateLinearGradientBrush(List&lt;XpsGradientStop&gt;, PointF, PointF) {#createlineargradientbrush}

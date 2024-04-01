@@ -3,7 +3,7 @@ title: XpsDocument.CreateGradientStop
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new gradient stop
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.page.xps/xpsdocument/creategradientstop/
 ---
 ## CreateGradientStop(XpsColor, float) {#creategradientstop}

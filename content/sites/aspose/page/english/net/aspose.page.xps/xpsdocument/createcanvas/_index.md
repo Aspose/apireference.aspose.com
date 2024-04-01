@@ -3,7 +3,7 @@ title: XpsDocument.CreateCanvas
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new canvas
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.page.xps/xpsdocument/createcanvas/
 ---
 ## XpsDocument.CreateCanvas method

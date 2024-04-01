@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack class. Describes the back ending cover sheet. Each document will have a separate sheet. The cover sheet should be printed on the PageMediaSize and PageMediaType used for the final page of the document. The cover sheet should be integrated into processing options such as DocumentDuplex DocumentNUp as indicated by the Option specified. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 870
+weight: 930
 url: /net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

@@ -3,7 +3,7 @@ title: PdfDevice.SetHyperlinkTarget
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Sets the hyperlink with an external URI as its target
 type: docs
-weight: 300
+weight: 100
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/sethyperlinktarget/
 ---
 ## SetHyperlinkTarget(string) {#sethyperlinktarget_1}

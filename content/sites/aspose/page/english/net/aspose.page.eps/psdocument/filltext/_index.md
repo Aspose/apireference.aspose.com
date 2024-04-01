@@ -3,7 +3,7 @@ title: PsDocument.FillText
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds a text string by filling interrior of glyphs
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.page.eps/psdocument/filltext/
 ---
 ## FillText(string, Font, float, float) {#filltext_6}

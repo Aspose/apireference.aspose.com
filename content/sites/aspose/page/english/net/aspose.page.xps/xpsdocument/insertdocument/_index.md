@@ -3,7 +3,7 @@ title: XpsDocument.InsertDocument
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Inserts an empty document with default page size at index position
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.page.xps/xpsdocument/insertdocument/
 ---
 ## InsertDocument(int, bool) {#insertdocument}

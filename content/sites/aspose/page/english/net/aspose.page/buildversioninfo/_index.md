@@ -3,7 +3,7 @@ title: Class BuildVersionInfo
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.BuildVersionInfo class. This class provides information about current product build
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.page/buildversioninfo/
 ---
 ## BuildVersionInfo class

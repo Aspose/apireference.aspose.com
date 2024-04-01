@@ -3,7 +3,7 @@ title: Class StreamResult
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.StreamResult class. Represents operation result in the form of Stream
 type: docs
-weight: 450
+weight: 500
 url: /net/aspose.page.plugins/streamresult/
 ---
 ## StreamResult class

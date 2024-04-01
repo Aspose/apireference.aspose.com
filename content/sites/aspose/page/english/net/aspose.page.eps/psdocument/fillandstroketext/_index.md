@@ -3,7 +3,7 @@ title: PsDocument.FillAndStrokeText
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds a text string by filling interrior of glyphs and drawing glyphs contours
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.page.eps/psdocument/fillandstroketext/
 ---
 ## FillAndStrokeText(string, Font, float, float, Brush, Pen) {#fillandstroketext_3}

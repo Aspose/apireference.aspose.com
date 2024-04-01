@@ -16,9 +16,9 @@ This interface give access to main parameters of glyph.
 | --- | --- |
 | [getAdvanceWidth()](#getAdvanceWidth--) | Gets advanced width of the glyph. |
 | [getCharCode()](#getCharCode--) | Gets char code of the glyph. |
-| [getLeftSideBearing()](#getLeftSideBearing--) | Gets left side bearing of the glyph. |
 | [getCharName()](#getCharName--) | Gets character name. |
 | [getGlyphVector()](#getGlyphVector--) | Gets glyphs vectors. |
+| [getLeftSideBearing()](#getLeftSideBearing--) | Gets left side bearing of the glyph. |
 ### getAdvanceWidth() {#getAdvanceWidth--}
 ```
 public abstract float getAdvanceWidth()
@@ -39,16 +39,6 @@ Gets char code of the glyph.
 
 **Returns:**
 char - A char code.
-### getLeftSideBearing() {#getLeftSideBearing--}
-```
-public abstract float getLeftSideBearing()
-```
-
-
-Gets left side bearing of the glyph.
-
-**Returns:**
-float - Left side bearing of the glyph.
 ### getCharName() {#getCharName--}
 ```
 public abstract String getCharName()
@@ -69,3 +59,13 @@ Gets glyphs vectors.
 
 **Returns:**
 java.awt.font.GlyphVector - Glyphs vectors.
+### getLeftSideBearing() {#getLeftSideBearing--}
+```
+public abstract float getLeftSideBearing()
+```
+
+
+Gets left side bearing of the glyph.
+
+**Returns:**
+float - Left side bearing of the glyph.

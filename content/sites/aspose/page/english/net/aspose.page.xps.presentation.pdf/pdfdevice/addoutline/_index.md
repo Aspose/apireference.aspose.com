@@ -3,7 +3,7 @@ title: PdfDevice.AddOutline
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Adds an outline item with the last object as its target
 type: docs
-weight: 120
+weight: 40
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/addoutline/
 ---
 ## AddOutline(int, string) {#addoutline}

@@ -18,7 +18,7 @@ Provides methods to set metered key.
 
 In this example, an attempt will be made to set metered public and private key
 
-```java
+```
 The component jar file:
   
  	Metered matered = new Metered();
@@ -33,11 +33,20 @@ The component jar file:
 
 | Method | Description |
 | --- | --- |
-| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key |
 | [clearMeteredLicense()](#clearMeteredLicense--) | Cleans metered license |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [flush()](#flush--) | Flushes count data on the server. |
-| [getConsumptionQuantity()](#getConsumptionQuantity--) | Gets consumption file size |
+| [getClass()](#getClass--) |  |
 | [getConsumptionCredit()](#getConsumptionCredit--) | Gets consumption credit |
+| [getConsumptionQuantity()](#getConsumptionQuantity--) | Gets consumption file size |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Metered() {#Metered--}
 ```
 public Metered()
@@ -45,6 +54,93 @@ public Metered()
 
 
 Initializes a new instance of this class.
+
+### clearMeteredLicense() {#clearMeteredLicense--}
+```
+public static void clearMeteredLicense()
+```
+
+
+Cleans metered license
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### flush() {#flush--}
+```
+public static void flush()
+```
+
+
+Flushes count data on the server. Used only for debug purposes.
+
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getConsumptionCredit() {#getConsumptionCredit--}
+```
+public static double getConsumptionCredit()
+```
+
+
+Gets consumption credit
+
+**Returns:**
+double - consumption quantity
+### getConsumptionQuantity() {#getConsumptionQuantity--}
+```
+public static double getConsumptionQuantity()
+```
+
+
+Gets consumption file size
+
+**Returns:**
+double - consumption quantity
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### setMeteredKey(String publicKey, String privateKey) {#setMeteredKey-java.lang.String-java.lang.String-}
 ```
@@ -60,39 +156,48 @@ Sets metered public and private key
 | publicKey | java.lang.String | public key |
 | privateKey | java.lang.String | private key |
 
-### clearMeteredLicense() {#clearMeteredLicense--}
+### toString() {#toString--}
 ```
-public static void clearMeteredLicense()
-```
-
-
-Cleans metered license
-
-### flush() {#flush--}
-```
-public static void flush()
+public String toString()
 ```
 
 
-Flushes count data on the server. Used only for debug purposes.
 
-### getConsumptionQuantity() {#getConsumptionQuantity--}
-```
-public static double getConsumptionQuantity()
-```
-
-
-Gets consumption file size
 
 **Returns:**
-double - consumption quantity
-### getConsumptionCredit() {#getConsumptionCredit--}
+java.lang.String
+### wait() {#wait--}
 ```
-public static double getConsumptionCredit()
+public final void wait()
 ```
 
 
-Gets consumption credit
 
-**Returns:**
-double - consumption quantity
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

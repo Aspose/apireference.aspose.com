@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.Device.PdfSaveOptions class. This class contains input and output streams and other options necessary for managing conversion process
 type: docs
-weight: 70
+weight: 110
 url: /net/aspose.page.eps.device/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

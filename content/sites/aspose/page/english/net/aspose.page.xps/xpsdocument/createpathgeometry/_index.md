@@ -3,7 +3,7 @@ title: XpsDocument.CreatePathGeometry
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new path geometry
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.page.xps/xpsdocument/createpathgeometry/
 ---
 ## CreatePathGeometry() {#createpathgeometry}

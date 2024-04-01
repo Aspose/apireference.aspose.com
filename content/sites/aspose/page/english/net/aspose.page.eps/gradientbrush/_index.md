@@ -3,7 +3,7 @@ title: Class GradientBrush
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.GradientBrush class. This class is used for encapsulating LinearGradientBrush and PathGradientBrush with possibility to set wrap mode to clamp. Native gradient brushes always throw an exception when someone tries to set WrapMode property to WrapMode.Clamp
 type: docs
-weight: 100
+weight: 150
 url: /net/aspose.page.eps/gradientbrush/
 ---
 ## GradientBrush class

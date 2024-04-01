@@ -11,11 +11,12 @@ url: /net/aspose.page.plugins/psconvertertoimageoptions/size/
 Gets/sets the size of the resulting image.
 
 ```csharp
-public Size? Size { get; set; }
+public Size Size { get; set; }
 ```
 
 ### See Also
 
+* class [Size](../../../aspose.page.drawing/size/)
 * class [PsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../psconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)

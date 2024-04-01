@@ -3,7 +3,7 @@ title: Class PageConstants
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PageConstants class. This class defines a set of constants which describe a page. Convenience objects are provided for various margins orientations rescaling and standard page sizes
 type: docs
-weight: 120
+weight: 170
 url: /net/aspose.page.eps/pageconstants/
 ---
 ## PageConstants class
@@ -42,7 +42,7 @@ public class PageConstants
 | const [MARGINS_MEDIUM](../../aspose.page.eps/pageconstants/margins_medium/) | "Medium" page margins value |
 | const [MARGINS_SMALL](../../aspose.page.eps/pageconstants/margins_small/) | "Small" page margins value |
 | const [MARGINS_ZERO](../../aspose.page.eps/pageconstants/margins_zero/) | "Zero" page margins value |
-| const [ORIENTATION](../../aspose.page.eps/pageconstants/orientation/) | Orientation key |
+| const [ORIENTATION](../../aspose.page.eps/pageconstants/orientation/) | Orientation key, for the named orienation of page, Portret or Landscape. |
 | const [ORIENTATION_BEST_FIT](../../aspose.page.eps/pageconstants/orientation_best_fit/) | "Best fit" orientation value |
 | const [ORIENTATION_LANDSCAPE](../../aspose.page.eps/pageconstants/orientation_landscape/) | "Landscape" orientation value |
 | const [ORIENTATION_PORTRAIT](../../aspose.page.eps/pageconstants/orientation_portrait/) | "Portrait" orientation value |
@@ -58,6 +58,7 @@ public class PageConstants
 | const [SIZE_LEGAL](../../aspose.page.eps/pageconstants/size_legal/) | "Legal" page size value |
 | const [SIZE_LETTER](../../aspose.page.eps/pageconstants/size_letter/) | "Letter" page size value |
 | const [TRANSPARENT](../../aspose.page.eps/pageconstants/transparent/) | Transparent background key |
+| const [VIEWING_ORIENTATION](../../aspose.page.eps/pageconstants/viewing_orientation/) | Viewing orientation key, for rotation matrix distinguishing orientation of content on the page. The default viewing orientation matrix is identity. |
 
 ### See Also
 

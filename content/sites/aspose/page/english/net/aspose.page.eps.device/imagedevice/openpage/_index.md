@@ -3,7 +3,7 @@ title: ImageDevice.OpenPage
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice method. Makes necessary preparation of the device before page rendering
 type: docs
-weight: 360
+weight: 60
 url: /net/aspose.page.eps.device/imagedevice/openpage/
 ---
 ## OpenPage(string) {#openpage_1}

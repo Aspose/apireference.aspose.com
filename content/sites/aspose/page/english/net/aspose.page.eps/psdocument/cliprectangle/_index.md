@@ -3,7 +3,7 @@ title: PsDocument.ClipRectangle
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds clipping rectangle to current graphics state
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.page.eps/psdocument/cliprectangle/
 ---
 ## PsDocument.ClipRectangle method

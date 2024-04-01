@@ -74,6 +74,26 @@ public PsDocument(Stream outPsStream, PsSaveOptions options, int numberOfPages)
 
 ---
 
+## PsDocument(string) {#constructor_4}
+
+Initializes [`PsDocument`](../) with an input PS/EPS file.
+
+```csharp
+public PsDocument(string psFilePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| psFilePath | String | PS/EPS file path. |
+
+### See Also
+
+* class [PsDocument](../)
+* namespace [Aspose.Page.EPS](../../psdocument/)
+* assembly [Aspose.Page](../../../)
+
+---
+
 ## PsDocument(Stream) {#constructor}
 
 Initializes [`PsDocument`](../) with a stream of PS/EPS file.

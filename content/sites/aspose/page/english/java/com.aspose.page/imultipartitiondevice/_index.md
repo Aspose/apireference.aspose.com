@@ -17,9 +17,17 @@ Basic interface for multi-partition device.
 
 | Method | Description |
 | --- | --- |
+| [closePartition()](#closePartition--) | Accomplishes the current document partition. |
 | [getCurrentRelativePageNumber()](#getCurrentRelativePageNumber--) | Returns the relative number of the current page within the current document partition. |
 | [openPartition()](#openPartition--) | Starts the new document partition. |
-| [closePartition()](#closePartition--) | Accomplishes the current document partition. |
+### closePartition() {#closePartition--}
+```
+public abstract void closePartition()
+```
+
+
+Accomplishes the current document partition.
+
 ### getCurrentRelativePageNumber() {#getCurrentRelativePageNumber--}
 ```
 public abstract int getCurrentRelativePageNumber()
@@ -37,12 +45,4 @@ public abstract void openPartition()
 
 
 Starts the new document partition.
-
-### closePartition() {#closePartition--}
-```
-public abstract void closePartition()
-```
-
-
-Accomplishes the current document partition.
 

@@ -3,7 +3,7 @@ title: com.aspose.xps.metadata
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps.metadata package provides classes that describe metadata of XPS document.
 type: docs
-weight: 13
+weight: 17
 url: /java/com.aspose.xps.metadata/
 ---
 

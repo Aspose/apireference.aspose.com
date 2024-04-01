@@ -3,7 +3,7 @@ title: PdfDevice.ToString
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Returns the name of device type
 type: docs
-weight: 270
+weight: 70
 url: /net/aspose.page.eps.device/pdfdevice/tostring/
 ---
 ## PdfDevice.ToString method

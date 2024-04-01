@@ -3,7 +3,7 @@ title: PdfDevice.EMBED_FONTS
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Embed font in document property key
 type: docs
-weight: 360
+weight: 130
 url: /net/aspose.page.eps.device/pdfdevice/embed_fonts/
 ---
 ## PdfDevice.EMBED_FONTS field

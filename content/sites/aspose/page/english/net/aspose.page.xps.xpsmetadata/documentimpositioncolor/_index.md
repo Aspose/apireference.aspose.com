@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor class. Application content labeled with the specified named color MUST appear on all color separations. https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 960
+weight: 1020
 url: /net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

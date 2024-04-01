@@ -3,7 +3,7 @@ title: PageConstants.GetMargins
 second_title: Aspose.Page for .NET API Reference
 description: PageConstants method. Gets page margins values Predefined page margins namePredefined page margins values
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.page.eps/pageconstants/getmargins/
 ---
 ## GetMargins(string) {#getmargins_1}

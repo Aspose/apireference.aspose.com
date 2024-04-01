@@ -3,7 +3,7 @@ title: XpsDocument.CreateGlyphs
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates new glyphs
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.page.xps/xpsdocument/createglyphs/
 ---
 ## CreateGlyphs(string, float, FontStyle, float, float, string) {#createglyphs_1}

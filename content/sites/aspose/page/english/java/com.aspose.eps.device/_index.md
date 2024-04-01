@@ -3,7 +3,7 @@ title: com.aspose.eps.device
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.eps.device package provides classes of possible devices and save options that can be used while converting PS/EPS to other formats.
 type: docs
-weight: 10
+weight: 11
 url: /java/com.aspose.eps.device/
 ---
 

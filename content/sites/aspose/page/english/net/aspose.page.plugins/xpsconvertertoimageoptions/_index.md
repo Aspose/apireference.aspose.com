@@ -3,7 +3,7 @@ title: Class XpsConverterToImageOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.XpsConverterToImageOptions class. Represents XPS to Image converter options for XpsConverter plugin
 type: docs
-weight: 490
+weight: 540
 url: /net/aspose.page.plugins/xpsconvertertoimageoptions/
 ---
 ## XpsConverterToImageOptions class

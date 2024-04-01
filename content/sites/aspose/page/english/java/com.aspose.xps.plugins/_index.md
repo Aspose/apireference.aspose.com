@@ -3,7 +3,7 @@ title: com.aspose.xps.plugins
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps.plugins contains XPS plugins classes.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.xps.plugins/
 ---
 

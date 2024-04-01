@@ -16,6 +16,7 @@ public SmoothingMode? SmoothingMode { get; set; }
 
 ### See Also
 
+* enum [SmoothingMode](../../../aspose.page.drawing.drawing2d/smoothingmode/)
 * class [PsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../psconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)

@@ -3,7 +3,7 @@ title: Class DrFont
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Font.DrFont class. Use this class instead of GDI Font
 type: docs
-weight: 220
+weight: 270
 url: /net/aspose.page.font/drfont/
 ---
 ## DrFont class

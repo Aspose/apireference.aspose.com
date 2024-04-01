@@ -3,7 +3,7 @@ title: PsDocument.ClipText
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds clip from an outline of given text in given font
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.page.eps/psdocument/cliptext/
 ---
 ## PsDocument.ClipText method

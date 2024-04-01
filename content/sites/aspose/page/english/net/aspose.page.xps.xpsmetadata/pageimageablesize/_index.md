@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize class. Describes the imaged canvas for layout and rendering. This will be reported based on PageMediaSize and PageOrientation. https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2250
+weight: 2310
 url: /net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

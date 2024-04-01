@@ -3,7 +3,7 @@ title: XpsDocument.CreateSolidColorBrush
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new solid color brush
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.page.xps/xpsdocument/createsolidcolorbrush/
 ---
 ## CreateSolidColorBrush(XpsColor) {#createsolidcolorbrush}

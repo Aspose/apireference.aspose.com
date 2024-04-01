@@ -3,7 +3,7 @@ title: XpsDocument.AddCanvas
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Adds a new canvas to the active page
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.page.xps/xpsdocument/addcanvas/
 ---
 ## XpsDocument.AddCanvas method

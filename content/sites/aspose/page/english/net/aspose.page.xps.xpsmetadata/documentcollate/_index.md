@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate class. Describes the collating characteristics of the output. All pages in each individual document are collated. DocumentCollate and JobCollateAlldocuments are mutually exclusive. The behavior and implementation of whether both or only one of these keywords is implemented is left to the driver. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcollate
 type: docs
-weight: 850
+weight: 910
 url: /net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

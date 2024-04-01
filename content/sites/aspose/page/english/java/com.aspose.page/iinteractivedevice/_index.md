@@ -14,36 +14,10 @@ The interface defining interactive features processing methods.
 
 | Method | Description |
 | --- | --- |
-| [setHyperlinkTarget(String targetUri)](#setHyperlinkTarget-java.lang.String-) | Set the hyperlink with an external URI as its target. |
-| [setHyperlinkTarget(int targetPageNumber)](#setHyperlinkTarget-int-) | Set the hyperlink with a page number as its target. |
 | [addOutline(int outlineLevel, String description)](#addOutline-int-java.lang.String-) | Adds an outline item with the last object as its target. |
 | [addOutline(Point2D origin, int outlineLevel, String description)](#addOutline-java.awt.geom.Point2D-int-java.lang.String-) | Adds an outline item with the origin point as its target. |
-### setHyperlinkTarget(String targetUri) {#setHyperlinkTarget-java.lang.String-}
-```
-public abstract void setHyperlinkTarget(String targetUri)
-```
-
-
-Set the hyperlink with an external URI as its target.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| targetUri | java.lang.String | The target external URI. |
-
-### setHyperlinkTarget(int targetPageNumber) {#setHyperlinkTarget-int-}
-```
-public abstract void setHyperlinkTarget(int targetPageNumber)
-```
-
-
-Set the hyperlink with a page number as its target.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| targetPageNumber | int | The target page number. |
-
+| [setHyperlinkTarget(int targetPageNumber)](#setHyperlinkTarget-int-) | Set the hyperlink with a page number as its target. |
+| [setHyperlinkTarget(String targetUri)](#setHyperlinkTarget-java.lang.String-) | Set the hyperlink with an external URI as its target. |
 ### addOutline(int outlineLevel, String description) {#addOutline-int-java.lang.String-}
 ```
 public abstract void addOutline(int outlineLevel, String description)
@@ -72,4 +46,30 @@ Adds an outline item with the origin point as its target.
 | origin | java.awt.geom.Point2D | The target origin. |
 | outlineLevel | int | The outline level. |
 | description | java.lang.String | The item description. |
+
+### setHyperlinkTarget(int targetPageNumber) {#setHyperlinkTarget-int-}
+```
+public abstract void setHyperlinkTarget(int targetPageNumber)
+```
+
+
+Set the hyperlink with a page number as its target.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| targetPageNumber | int | The target page number. |
+
+### setHyperlinkTarget(String targetUri) {#setHyperlinkTarget-java.lang.String-}
+```
+public abstract void setHyperlinkTarget(String targetUri)
+```
+
+
+Set the hyperlink with an external URI as its target.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| targetUri | java.lang.String | The target external URI. |
 

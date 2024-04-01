@@ -35,13 +35,13 @@ Property value.
 Gets integer property value. If requested property is absent, returns provided default value.
 
 ```csharp
-public virtual int GetPropertyInt(string key, int def)
+public virtual int GetPropertyInt(string key, int defValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | The name of property. |
-| def | Int32 | Default value of property. |
+| defValue | Int32 | Default value of property. |
 
 ### Return Value
 

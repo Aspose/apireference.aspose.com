@@ -37,12 +37,80 @@ In the bytes arrays output datasource (byte [][]) one bytes array contains an im
 
 | Method | Description |
 | --- | --- |
-| [process(IPluginOptions options)](#process-com.aspose.page.plugins.IPluginOptions-) | Starts the PsConverter processing with the specified parameters. |
 | [dispose()](#dispose--) | Implementation of IDisposable. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [process(IPluginOptions options)](#process-com.aspose.page.plugins.IPluginOptions-) | Starts the PsConverter processing with the specified parameters. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PsConverter() {#PsConverter--}
 ```
 public PsConverter()
 ```
+
+
+### dispose() {#dispose--}
+```
+public final void dispose()
+```
+
+
+Implementation of IDisposable.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
 
 
 ### process(IPluginOptions options) {#process-com.aspose.page.plugins.IPluginOptions-}
@@ -60,11 +128,48 @@ Starts the PsConverter processing with the specified parameters.
 
 **Returns:**
 [ResultContainer](../../com.aspose.page.plugins/resultcontainer) - An ResultContainer object containing the result of the operation.
-### dispose() {#dispose--}
+### toString() {#toString--}
 ```
-public final void dispose()
+public String toString()
 ```
 
 
-Implementation of IDisposable.
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

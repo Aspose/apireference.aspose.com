@@ -3,7 +3,7 @@ title: PsDocument.FillRect
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Fills a rectangle
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.page.eps/psdocument/fillrect/
 ---
 ## PsDocument.FillRect method

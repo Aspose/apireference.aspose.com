@@ -35,13 +35,13 @@ Property value.
 Gets double property value. If requested property is absent, returns provided default value.
 
 ```csharp
-public virtual double GetPropertyDouble(string key, double def)
+public virtual double GetPropertyDouble(string key, double defValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | The name of property. |
-| def | Double | Default value of property. |
+| defValue | Double | Default value of property. |
 
 ### Return Value
 

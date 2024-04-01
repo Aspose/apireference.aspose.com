@@ -3,7 +3,7 @@ title: Class InputBin.FeedType
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedType class. Defines constants for the
 type: docs
-weight: 1280
+weight: 1340
 url: /net/aspose.page.xps.xpsmetadata/inputbin.feedtype/
 ---
 ## InputBin.FeedType class

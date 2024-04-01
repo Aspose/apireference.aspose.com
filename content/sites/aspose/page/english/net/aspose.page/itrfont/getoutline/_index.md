@@ -3,7 +3,7 @@ title: ITrFont.GetOutline
 second_title: Aspose.Page for .NET API Reference
 description: ITrFont method. Returns an outline of glyph in specified location
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.page/itrfont/getoutline/
 ---
 ## ITrFont.GetOutline method

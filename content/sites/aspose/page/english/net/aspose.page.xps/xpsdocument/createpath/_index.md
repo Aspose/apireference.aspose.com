@@ -3,7 +3,7 @@ title: XpsDocument.CreatePath
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new path
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.page.xps/xpsdocument/createpath/
 ---
 ## XpsDocument.CreatePath method

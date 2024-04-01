@@ -3,7 +3,7 @@ title: ITrFont.Transform
 second_title: Aspose.Page for .NET API Reference
 description: ITrFont property. Returns font transform
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.page/itrfont/transform/
 ---
 ## ITrFont.Transform property

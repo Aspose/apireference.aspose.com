@@ -3,7 +3,7 @@ title: ImageDevice.PAGE_MARGINS
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice field. Page margins property key
 type: docs
-weight: 570
+weight: 160
 url: /net/aspose.page.eps.device/imagedevice/page_margins/
 ---
 ## ImageDevice.PAGE_MARGINS field

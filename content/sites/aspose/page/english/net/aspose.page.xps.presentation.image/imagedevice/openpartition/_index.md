@@ -3,7 +3,7 @@ title: ImageDevice.OpenPartition
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice method. Starts a new document partition
 type: docs
-weight: 240
+weight: 80
 url: /net/aspose.page.xps.presentation.image/imagedevice/openpartition/
 ---
 ## ImageDevice.OpenPartition method

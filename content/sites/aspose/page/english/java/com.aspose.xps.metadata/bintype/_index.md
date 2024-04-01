@@ -20,11 +20,33 @@ Defines constants for the  BinType  scored property value.
 
 | Field | Description |
 | --- | --- |
+| [Finisher](#Finisher) | Finisher bin. |
 | [MailBox](#MailBox) | MailBox bin. |
+| [None](#None) | None of the above. |
 | [Sorter](#Sorter) | Sorter bin. |
 | [Stacker](#Stacker) | Stacker bin. |
-| [Finisher](#Finisher) | Finisher bin. |
-| [None](#None) | None of the above. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Gets the element name. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### Finisher {#Finisher}
+```
+public static OutputBin.BinType Finisher
+```
+
+
+Finisher bin.
+
 ### MailBox {#MailBox}
 ```
 public static OutputBin.BinType MailBox
@@ -32,6 +54,14 @@ public static OutputBin.BinType MailBox
 
 
 MailBox bin.
+
+### None {#None}
+```
+public static OutputBin.BinType None
+```
+
+
+None of the above.
 
 ### Sorter {#Sorter}
 ```
@@ -49,19 +79,109 @@ public static OutputBin.BinType Stacker
 
 Stacker bin.
 
-### Finisher {#Finisher}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public static OutputBin.BinType Finisher
-```
-
-
-Finisher bin.
-
-### None {#None}
-```
-public static OutputBin.BinType None
+public boolean equals(Object arg0)
 ```
 
 
-None of the above.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the element name.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

@@ -36,13 +36,13 @@ Property value.
 Gets margins property value. If requested property is absent, returns provided default value.
 
 ```csharp
-public virtual Margins GetPropertyMargins(string key, Margins def)
+public virtual Margins GetPropertyMargins(string key, Margins defValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | The name of property. |
-| def | Margins | Default value of property. |
+| defValue | Margins | Default value of property. |
 
 ### Return Value
 

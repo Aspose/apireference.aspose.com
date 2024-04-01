@@ -26,16 +26,27 @@ The `Float` class defines dimensions specified in float coordinates.
 
 | Field | Description |
 | --- | --- |
-| [width](#width) | The width of this `Size2D`. |
 | [height](#height) | The height of this `Size2D`. |
+| [width](#width) | The width of this `Size2D`. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setSize(float w, float h)](#setSize-float-float-) | Sets the dimensions of this `Size2D` to the specified `float` values. |
-| [setSize(double w, double h)](#setSize-double-double-) | \{@inheritDoc\} |
-| [getWidth()](#getWidth--) | \{@inheritDoc\} |
+| [clone()](#clone--) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getHeight()](#getHeight--) | \{@inheritDoc\} |
+| [getWidth()](#getWidth--) | \{@inheritDoc\} |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setSize(double w, double h)](#setSize-double-double-) | \{@inheritDoc\} |
+| [setSize(float w, float h)](#setSize-float-float-) | Sets the dimensions of this `Size2D` to the specified `float` values. |
+| [setSize(Dimension2D arg0)](#setSize-java.awt.geom.Dimension2D-) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Float() {#Float--}
 ```
 public Float()
@@ -58,14 +69,6 @@ Creates the Size2D instance.
 | width | float | The width. |
 | height | float | The height. |
 
-### width {#width}
-```
-public float width
-```
-
-
-The width of this `Size2D`.
-
 ### height {#height}
 ```
 public float height
@@ -74,19 +77,94 @@ public float height
 
 The height of this `Size2D`.
 
-### setSize(float w, float h) {#setSize-float-float-}
+### width {#width}
 ```
-public void setSize(float w, float h)
+public float width
 ```
 
 
-Sets the dimensions of this `Size2D` to the specified `float` values.
+The width of this `Size2D`.
+
+### clone() {#clone--}
+```
+public Object clone()
+```
+
+
+
+
+**Returns:**
+java.lang.Object
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| w | float | The width of this `Size2D` |
-| h | float | The height of this `Size2D` |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getHeight() {#getHeight--}
+```
+public double getHeight()
+```
+
+
+
+
+**Returns:**
+double
+### getWidth() {#getWidth--}
+```
+public double getWidth()
+```
+
+
+
+
+**Returns:**
+double
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### setSize(double w, double h) {#setSize-double-double-}
 ```
@@ -102,23 +180,75 @@ public void setSize(double w, double h)
 | w | double |  |
 | h | double |  |
 
-### getWidth() {#getWidth--}
+### setSize(float w, float h) {#setSize-float-float-}
 ```
-public double getWidth()
+public void setSize(float w, float h)
+```
+
+
+Sets the dimensions of this `Size2D` to the specified `float` values.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| w | float | The width of this `Size2D` |
+| h | float | The height of this `Size2D` |
+
+### setSize(Dimension2D arg0) {#setSize-java.awt.geom.Dimension2D-}
+```
+public void setSize(Dimension2D arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.awt.geom.Dimension2D |  |
+
+### toString() {#toString--}
+```
+public String toString()
 ```
 
 
 
 
 **Returns:**
-double
-### getHeight() {#getHeight--}
+java.lang.String
+### wait() {#wait--}
 ```
-public double getHeight()
+public final void wait()
 ```
 
 
 
 
-**Returns:**
-double
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

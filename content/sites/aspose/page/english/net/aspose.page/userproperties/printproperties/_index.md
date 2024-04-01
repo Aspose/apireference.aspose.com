@@ -3,7 +3,7 @@ title: UserProperties.PrintProperties
 second_title: Aspose.Page for .NET API Reference
 description: UserProperties method. 
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.page/userproperties/printproperties/
 ---
 ## UserProperties.PrintProperties method

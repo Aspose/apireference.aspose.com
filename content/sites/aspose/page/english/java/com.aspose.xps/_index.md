@@ -3,7 +3,7 @@ title: com.aspose.xps
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps is a root package for all classes that deal with XPS document.
 type: docs
-weight: 19
+weight: 15
 url: /java/com.aspose.xps/
 ---
 
@@ -14,6 +14,7 @@ The **com.aspose.xps** is a root package for all classes that deal with XPS docu
 
 | Class | Description |
 | --- | --- |
+| [DocumentUtils](../com.aspose.xps/documentutils) | This class provides utilities beyond the formal XPS manipulation API. |
 | [LoadOptions](../com.aspose.xps/loadoptions) | Basic class for document loading options. |
 | [Size2D](../com.aspose.xps/size2d) | The `Size2D` class describes dimensions  (w x h) . |
 | [Size2D.Float](../com.aspose.xps/size2d.float) | The `Float` class defines dimensions specified in float coordinates. |
@@ -64,6 +65,7 @@ The **com.aspose.xps** is a root package for all classes that deal with XPS docu
 
 | Enum | Description |
 | --- | --- |
+| [ImageMode](../com.aspose.xps/imagemode) | Lists options of fitting image within a box. |
 | [XpsColorInterpolationMode](../com.aspose.xps/xpscolorinterpolationmode) | Valid values of gradient brushes' ColorInterpolationMode property. |
 | [XpsDashCap](../com.aspose.xps/xpsdashcap) | Valid values of Path element's StrokeDashCap property. |
 | [XpsEdgeMode](../com.aspose.xps/xpsedgemode) | Valid values of Canvas element's RenderOptions.EdgeMode property. |

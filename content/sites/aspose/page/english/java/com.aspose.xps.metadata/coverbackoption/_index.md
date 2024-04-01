@@ -17,11 +17,34 @@ Describes the  JobPrimaryCoverBack  feature options.
 
 | Field | Description |
 | --- | --- |
+| [BlankCover](#BlankCover) | Specifies a blank cover sheet should be printed. |
 | [NoCover](#NoCover) | Specifies no cover will be output. |
 | [PrintBack](#PrintBack) | Specifies the cover indicated by "CoverBackSource" should be printed on the back side of the cover sheet. |
 | [PrintBoth](#PrintBoth) | Specifies the cover indicated by "CoverBackSource" may be printed on either sides of the cover sheet. |
 | [PrintFront](#PrintFront) | Specifies the cover indicated by "CoverBackSource" should be printed on the front side of the cover sheet. |
-| [BlankCover](#BlankCover) | Specifies a blank cover sheet should be printed. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Adds a list of items to the end of this option's item list. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Gets the element name. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### BlankCover {#BlankCover}
+```
+public static JobPrimaryCoverBack.CoverBackOption BlankCover
+```
+
+
+Specifies a blank cover sheet should be printed.
+
 ### NoCover {#NoCover}
 ```
 public static JobPrimaryCoverBack.CoverBackOption NoCover
@@ -54,11 +77,122 @@ public static JobPrimaryCoverBack.CoverBackOption PrintFront
 
 Specifies the cover indicated by "CoverBackSource" should be printed on the front side of the cover sheet. If a  JobPrimaryCoverBackSource   ParameterInit  element is not specified, this Option should be ignored.
 
-### BlankCover {#BlankCover}
+### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
 ```
-public static JobPrimaryCoverBack.CoverBackOption BlankCover
+public void add(IOptionItem[] items)
 ```
 
 
-Specifies a blank cover sheet should be printed.
+Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| items | [IOptionItem\[\]](../../com.aspose.xps.metadata/ioptionitem) | List of items to add. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the element name.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

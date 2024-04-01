@@ -3,7 +3,7 @@ title: ImageDevice.ClosePartition
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice method. Accomplished the document partition
 type: docs
-weight: 140
+weight: 50
 url: /net/aspose.page.xps.presentation.image/imagedevice/closepartition/
 ---
 ## ImageDevice.ClosePartition method

@@ -3,7 +3,7 @@ title: PdfDevice.TRANSPARENT
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Transparent property key
 type: docs
-weight: 470
+weight: 240
 url: /net/aspose.page.eps.device/pdfdevice/transparent/
 ---
 ## PdfDevice.TRANSPARENT field

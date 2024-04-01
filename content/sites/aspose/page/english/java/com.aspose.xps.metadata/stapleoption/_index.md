@@ -22,6 +22,7 @@ Describes the  JobStapleAllDocuments  and  DocumentStaple  features options.
 
 | Field | Description |
 | --- | --- |
+| [None](#None) | Specifies no stapling. |
 | [SaddleStitch](#SaddleStitch) | Specifies saddle stitch stapling. |
 | [StapleBottomLeft](#StapleBottomLeft) | Specifies a single staple in the bottom, left corner. |
 | [StapleBottomRight](#StapleBottomRight) | Specifies a single staple in the bottom, right corner. |
@@ -29,16 +30,26 @@ Describes the  JobStapleAllDocuments  and  DocumentStaple  features options.
 | [StapleDualLeft](#StapleDualLeft) | Specifies two staples along the left edge. |
 | [StapleDualRight](#StapleDualRight) | Specifies two staples along the right edge. |
 | [StapleDualTop](#StapleDualTop) | Specifies two staples along the top edge |
-| [None](#None) | Specifies no stapling. |
 | [StapleTopLeft](#StapleTopLeft) | Specifies a single staple in the top, left corner. |
 | [StapleTopRight](#StapleTopRight) | Specifies a single staple in the top, right corner. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Adds a list of items to the end of this option's item list. |
 | [add(Staple.IStapleOptionItem[] items)](#add-com.aspose.xps.metadata.Staple.IStapleOptionItem...-) | Adds an array of  IStapleOptionItem  instances to the feature. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Gets the element name. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setAngle(int angle)](#setAngle-int-) | Sets an  Angle  scored property value. |
 | [setSheetCapacity(int sheetCapacity)](#setSheetCapacity-int-) | Sets an  SheetCapacity  scored property value. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### StapleOption(String optionName, Staple.IStapleOptionItem[] items) {#StapleOption-java.lang.String-com.aspose.xps.metadata.Staple.IStapleOptionItem...-}
 ```
 public StapleOption(String optionName, Staple.IStapleOptionItem[] items)
@@ -51,7 +62,15 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.Staple.IStapleOptionItem[] | An arbitrary array of  IStapleOptionItem  instances. |
+| items | [IStapleOptionItem\[\]](../../com.aspose.xps.metadata/istapleoptionitem) | An arbitrary array of  IStapleOptionItem  instances. |
+
+### None {#None}
+```
+public static Staple.StapleOption None
+```
+
+
+Specifies no stapling.
 
 ### SaddleStitch {#SaddleStitch}
 ```
@@ -109,14 +128,6 @@ public static Staple.StapleOption StapleDualTop
 
 Specifies two staples along the top edge
 
-### None {#None}
-```
-public static Staple.StapleOption None
-```
-
-
-Specifies no stapling.
-
 ### StapleTopLeft {#StapleTopLeft}
 ```
 public static Staple.StapleOption StapleTopLeft
@@ -133,6 +144,19 @@ public static Staple.StapleOption StapleTopRight
 
 Specifies a single staple in the top, right corner.
 
+### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
+```
+public void add(IOptionItem[] items)
+```
+
+
+Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| items | [IOptionItem\[\]](../../com.aspose.xps.metadata/ioptionitem) | List of items to add. |
+
 ### add(Staple.IStapleOptionItem[] items) {#add-com.aspose.xps.metadata.Staple.IStapleOptionItem...-}
 ```
 public Staple.StapleOption add(Staple.IStapleOptionItem[] items)
@@ -144,10 +168,71 @@ Adds an array of  IStapleOptionItem  instances to the feature.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.Staple.IStapleOptionItem[] | An arbitrary array of  IStapleOptionItem  instances. |
+| items | [IStapleOptionItem\[\]](../../com.aspose.xps.metadata/istapleoptionitem) | An arbitrary array of  IStapleOptionItem  instances. |
 
 **Returns:**
 [StapleOption](../../com.aspose.xps.metadata/stapleoption) - This options instance.
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the element name.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setAngle(int angle) {#setAngle-int-}
 ```
 public Staple.StapleOption setAngle(int angle)
@@ -178,3 +263,48 @@ Sets an  SheetCapacity  scored property value.
 
 **Returns:**
 [StapleOption](../../com.aspose.xps.metadata/stapleoption) - This option instance.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

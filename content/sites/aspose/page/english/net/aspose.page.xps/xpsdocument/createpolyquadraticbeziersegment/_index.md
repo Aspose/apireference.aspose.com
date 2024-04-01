@@ -3,7 +3,7 @@ title: XpsDocument.CreatePolyQuadraticBezierSegment
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new set of quadratic Bézier curves from the previous point in the path figure through a set of vertices using specified control points
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.page.xps/xpsdocument/createpolyquadraticbeziersegment/
 ---
 ## XpsDocument.CreatePolyQuadraticBezierSegment method

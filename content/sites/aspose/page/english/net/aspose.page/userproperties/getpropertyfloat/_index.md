@@ -35,13 +35,13 @@ Property value.
 Gets float property value. If requested property is absent, returns provided default value.
 
 ```csharp
-public virtual float GetPropertyFloat(string key, float def)
+public virtual float GetPropertyFloat(string key, float defValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | The name of property. |
-| def | Single | Default value of property. |
+| defValue | Single | Default value of property. |
 
 ### Return Value
 

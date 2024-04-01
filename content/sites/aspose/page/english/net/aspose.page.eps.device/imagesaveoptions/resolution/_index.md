@@ -3,7 +3,7 @@ title: ImageSaveOptions.Resolution
 second_title: Aspose.Page for .NET API Reference
 description: ImageSaveOptions property. Gets/sets the image resolution
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.page.eps.device/imagesaveoptions/resolution/
 ---
 ## ImageSaveOptions.Resolution property

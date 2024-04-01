@@ -3,7 +3,7 @@ title: PsDocument.DrawRoundRect
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draws a round rectangle
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.page.eps/psdocument/drawroundrect/
 ---
 ## PsDocument.DrawRoundRect method

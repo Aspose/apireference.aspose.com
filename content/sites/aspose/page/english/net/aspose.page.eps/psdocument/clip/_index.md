@@ -3,7 +3,7 @@ title: PsDocument.Clip
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds clip to current graphics state
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.page.eps/psdocument/clip/
 ---
 ## PsDocument.Clip method

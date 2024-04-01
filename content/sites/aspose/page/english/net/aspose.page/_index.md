@@ -12,6 +12,7 @@ The **Aspose.Page** is a root namespace for all classes of Aspose.Page library w
 
 | Class | Description |
 | --- | --- |
+| [BaseTrFont](./basetrfont/) | This abstract class gives access to main parameters of font. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [Device](./device/) | This class encapsulates rendering of document to abstract device. Rendering of the document is performed page by page. |
 | [Document](./document/) | A superclass for all encapsulated documents. |
@@ -28,7 +29,7 @@ The **Aspose.Page** is a root namespace for all classes of Aspose.Page library w
 | [IGlyph](./iglyph/) | This interface give access to main parameters of glyphs. |
 | [IMultiPageDevice](./imultipagedevice/) | This interface contains methods for manipulating multi-paged device. |
 | [IStreamable](./istreamable/) | This interface is used for dervices that renders document to a stream. |
-| [ITrFont](./itrfont/) | This interface give access to main parameters of font. |
+| [ITrFont](./itrfont/) | This interface gives access to main parameters of font. |
 ## Enumeration
 
 | Enumeration | Description |

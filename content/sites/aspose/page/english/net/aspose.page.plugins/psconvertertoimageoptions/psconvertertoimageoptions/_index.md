@@ -36,6 +36,7 @@ public PsConverterToImageOptions(ImageFormat imageFormat)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
 * class [PsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../psconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)
@@ -56,6 +57,7 @@ public PsConverterToImageOptions(Size size)
 
 ### See Also
 
+* class [Size](../../../aspose.page.drawing/size/)
 * class [PsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../psconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)
@@ -77,6 +79,8 @@ public PsConverterToImageOptions(ImageFormat imageFormat, Size size)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
+* class [Size](../../../aspose.page.drawing/size/)
 * class [PsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../psconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)

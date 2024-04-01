@@ -3,7 +3,7 @@ title: Class FileResult
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.FileResult class. Represents operation result in the form of string path to file
 type: docs
-weight: 340
+weight: 390
 url: /net/aspose.page.plugins/fileresult/
 ---
 ## FileResult class

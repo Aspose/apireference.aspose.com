@@ -3,7 +3,7 @@ title: Class ExternalFontCache
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.ExternalFontCache class. Use this class to obtain font encapsulation in a form that is accepted by Device
 type: docs
-weight: 210
+weight: 260
 url: /net/aspose.page/externalfontcache/
 ---
 ## ExternalFontCache class
@@ -24,7 +24,7 @@ public class ExternalFontCache
 
 | Name | Description |
 | --- | --- |
-| [FetchDrFont](../../aspose.page/externalfontcache/fetchdrfont/)(string, float, FontStyle, string) | Fetches [`DrFont`](../../aspose.page.font/drfont/) by font family name, size, style and alternative font family name. |
+| static [CreateFontByFamilyName](../../aspose.page/externalfontcache/createfontbyfamilyname/)(string, float, FontStyle) | Creates Font by font family name, style and size. |
 | static [FetchDrFont](../../aspose.page/externalfontcache/fetchdrfont/)(string, float, FontStyle) | Fetches [`DrFont`](../../aspose.page.font/drfont/) by font family name, size and style. |
 
 ### See Also

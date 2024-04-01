@@ -3,7 +3,7 @@ title: Class PsDocument
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PsDocument class. This class encapsulates PS/EPS documents
 type: docs
-weight: 140
+weight: 190
 url: /net/aspose.page.eps/psdocument/
 ---
 ## PsDocument class
@@ -19,6 +19,7 @@ public sealed class PsDocument : Document
 | Name | Description |
 | --- | --- |
 | [PsDocument](psdocument/#constructor)(Stream) | Initializes `PsDocument` with a stream of PS/EPS file. |
+| [PsDocument](psdocument/#constructor_4)(string) | Initializes `PsDocument` with an input PS/EPS file. |
 | [PsDocument](psdocument/#constructor_1)(Stream, PsSaveOptions) | Initializes empty `PsDocument` with initialized page. |
 | [PsDocument](psdocument/#constructor_2)(Stream, PsSaveOptions, bool) | Initializes empty `PsDocument`. |
 | [PsDocument](psdocument/#constructor_3)(Stream, PsSaveOptions, int) | Initializes empty `PsDocument` when the number of Postscript document pages is known in advance. |
@@ -27,6 +28,7 @@ public sealed class PsDocument : Document
 
 | Name | Description |
 | --- | --- |
+| [InputStream](../../aspose.page.eps/psdocument/inputstream/) { get; set; } | Gets or sets an input stream of PS/EPS file. |
 | [NumberOfPages](../../aspose.page.eps/psdocument/numberofpages/) { get; } | Returns the number of pages in resulting PDF document. |
 
 ## Methods
@@ -94,6 +96,9 @@ public sealed class PsDocument : Document
 | [Save](../../aspose.page.eps/psdocument/save/#save)() | Saves given `PsDocument` as EPS file. This method is used only when PsDocument was created from scratch. |
 | [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | Saves given `PsDocument` as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added. |
 | override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | Saves PS/EPS file to a device. |
+| [SaveAsImage](../../aspose.page.eps/psdocument/saveasimage/)(ImageSaveOptions) | Saves PS/EPS file to images bytes arrays. |
+| [SaveAsPdf](../../aspose.page.eps/psdocument/saveaspdf/#saveaspdf)(Stream, PdfSaveOptions) | Saves PS/EPS file to PDF stream. |
+| [SaveAsPdf](../../aspose.page.eps/psdocument/saveaspdf/#saveaspdf_1)(string, PdfSaveOptions) | Saves PS/EPS file to PDF file. |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | Adds scale to current graphics state (scale current matrix). |
 | [SetPageDevice](../../aspose.page.eps/psdocument/setpagedevice/)(Dictionary&lt;string, object&gt;) | Sets page device parameters (see operator "setpagedevice" PostScript spesification). Among these can be page size and color etc. |
 | [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | Sets page size. To create pages with different sizes in one document use [`SetPageDevice`](./setpagedevice/) method just after this method. |

@@ -3,7 +3,7 @@ title: Class XmpValue
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.XMP.XmpValue class. Represents XMP value
 type: docs
-weight: 200
+weight: 250
 url: /net/aspose.page.eps.xmp/xmpvalue/
 ---
 ## XmpValue class
