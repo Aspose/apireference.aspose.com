@@ -31,10 +31,10 @@ Represents a series of connected lines and curves.
 | Method | Description |
 | --- | --- |
 | [getFillMode()](#getFillMode--) | Gets a FillMode enumeration that determines how the interiors of shapes in this GraphicsPath are filled. |
-| [setFillMode(int value)](#setFillMode-int-) | Sets a FillMode enumeration that determines how the interiors of shapes in this GraphicsPath are filled. |
+| [setFillMode(int value)](#setFillMode-int-) | Gets or sets a FillMode enumeration that determines how the interiors of shapes in this GraphicsPath are filled. |
 | [getPathData()](#getPathData--) | Gets a [PathData](../../com.aspose.drawing.drawing2d/pathdata) that encapsulates arrays of points and types for this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) |
-| [getPointCount()](#getPointCount--) | Gets the number of elements in the `P:PathPoints` or the `P:PathTypes` array. |
-| [getPathTypes()](#getPathTypes--) | Gets the types of the corresponding points in the `P:PathPoints` array. |
+| [getPointCount()](#getPointCount--) | Gets the number of elements in the `PathPoints` or the `PathTypes` array. |
+| [getPathTypes()](#getPathTypes--) | Gets the types of the corresponding points in the `PathPoints` array. |
 | [getPathPoints()](#getPathPoints--) | Gets the points in the path. |
 | [dispose()](#dispose--) | Releases all resources used by this GraphicsPath. |
 | [deepClone()](#deepClone--) | Make a copy of the current path object. |
@@ -75,6 +75,7 @@ Represents a series of connected lines and curves.
 | [getBounds()](#getBounds--) | Returns a rectangle that bounds this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [getBounds(Matrix matrix)](#getBounds-com.aspose.drawing.drawing2d.Matrix-) | Returns a rectangle that bounds this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) when this path is transformed by the specified [Matrix](../../com.aspose.drawing.drawing2d/matrix). |
 | [getBounds(Matrix matrix, Pen pen)](#getBounds-com.aspose.drawing.drawing2d.Matrix-com.aspose.drawing.Pen-) | Returns a rectangle that bounds this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) when the current path is transformed by the specified [Matrix](../../com.aspose.drawing.drawing2d/matrix) and drawn with the specified [Pen](../../com.aspose.drawing/pen). |
+| [getLastPoint()](#getLastPoint--) | Gets the last point in the PathPoints array of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [flatten()](#flatten--) | Converts each curve in this path into a sequence of connected line segments. |
 | [flatten(Matrix matrix)](#flatten-com.aspose.drawing.drawing2d.Matrix-) | Applies the specified transform and then converts each curve in this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [flatten(Matrix matrix, float flatness)](#flatten-com.aspose.drawing.drawing2d.Matrix-float-) | Converts each curve in this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) into a sequence of connected line segments. |
@@ -82,17 +83,23 @@ Represents a series of connected lines and curves.
 | [widen(Pen pen, Matrix matrix)](#widen-com.aspose.drawing.Pen-com.aspose.drawing.drawing2d.Matrix-) | Adds an additional outline to the [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [widen(Pen pen, Matrix matrix, float flatness)](#widen-com.aspose.drawing.Pen-com.aspose.drawing.drawing2d.Matrix-float-) | Replaces this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) with curves that enclose the area that is filled when this path is drawn by the specified pen. |
 | [closeAllFigures()](#closeAllFigures--) | Closes all open figures in this path and starts a new figure. |
-| [reset()](#reset--) | Empties the `drawing2d.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) and `drawing2d.GraphicsPath.PathTypes`([.getPathTypes](../../null/\#getPathTypes)) arrays and sets the [FillMode](../../com.aspose.drawing.drawing2d/fillmode) to `F:System.Drawing.drawing2d.FillMode.Alternate`. |
-| [reverse()](#reverse--) | Reverses the order of points in the `drawing2d.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) array of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
+| [reset()](#reset--) | Empties the `Drawing2D.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) and `Drawing2D.GraphicsPath.PathTypes`([.getPathTypes](../../null/\#getPathTypes)) arrays and sets the [FillMode](../../com.aspose.drawing.drawing2d/fillmode) to `System.Drawing.Drawing2D.FillMode.Alternate`. |
+| [reverse()](#reverse--) | Reverses the order of points in the `Drawing2D.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) array of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [setMarkers()](#setMarkers--) | Sets a marker on this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [isOutlineVisible(PointF point, Pen pen)](#isOutlineVisible-com.aspose.drawing.PointF-com.aspose.drawing.Pen-) | Indicates whether the specified point is contained within (under) the outline of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) when drawn with the specified [Pen](../../com.aspose.drawing/pen). |
+| [isVisible(float x, float y)](#isVisible-float-float-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
+| [isVisible(float x, float y, Graphics graphics)](#isVisible-float-float-com.aspose.drawing.Graphics-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics). |
+| [isVisible(int x, int y)](#isVisible-int-int-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
+| [isVisible(int x, int y, Graphics graphics)](#isVisible-int-int-com.aspose.drawing.Graphics-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics). |
+| [isVisible(Point point)](#isVisible-com.aspose.drawing.Point-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
+| [isVisible(Point point, Graphics graphics)](#isVisible-com.aspose.drawing.Point-com.aspose.drawing.Graphics-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics). |
 | [isVisible(PointF point)](#isVisible-com.aspose.drawing.PointF-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
+| [isVisible(PointF point, Graphics graphics)](#isVisible-com.aspose.drawing.PointF-com.aspose.drawing.Graphics-) | Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics). |
 | [warp(PointF[] destPoints, RectangleF srcRect)](#warp-com.aspose.drawing.PointF---com.aspose.drawing.RectangleF-) | Applies a warp transform, defined by a rectangle and a parallelogram, to this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)](#warp-com.aspose.drawing.PointF---com.aspose.drawing.RectangleF-com.aspose.drawing.drawing2d.Matrix-) | Applies a warp transform, defined by a rectangle and a parallelogram, to this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, int warpMode)](#warp-com.aspose.drawing.PointF---com.aspose.drawing.RectangleF-com.aspose.drawing.drawing2d.Matrix-int-) | Applies a warp transform, defined by a rectangle and a parallelogram, to this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, int warpMode, float flatness)](#warp-com.aspose.drawing.PointF---com.aspose.drawing.RectangleF-com.aspose.drawing.drawing2d.Matrix-int-float-) | Applies a warp transform, defined by a rectangle and a parallelogram, to this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath). |
 | [getFigures()](#getFigures--) | Gets the path figures. |
-| [getLastPoint()](#getLastPoint--) |  |
 ### GraphicsPath() {#GraphicsPath--}
 ```
 public GraphicsPath()
@@ -196,12 +203,12 @@ public final void setFillMode(int value)
 ```
 
 
-Sets a FillMode enumeration that determines how the interiors of shapes in this GraphicsPath are filled.
+Gets or sets a FillMode enumeration that determines how the interiors of shapes in this GraphicsPath are filled.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | a FillMode enumeration that determines how the interiors of shapes in this GraphicsPath are filled. |
+| value | int |  |
 
 ### getPathData() {#getPathData--}
 ```
@@ -214,27 +221,27 @@ Gets a [PathData](../../com.aspose.drawing.drawing2d/pathdata) that encapsulates
 Value: A [PathData](../../com.aspose.drawing.drawing2d/pathdata) that encapsulates arrays for both the points and types for this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
 
 **Returns:**
-[PathData](../../com.aspose.drawing.drawing2d/pathdata) - a [PathData](../../com.aspose.drawing.drawing2d/pathdata) that encapsulates arrays of points and types for this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath)
+[PathData](../../com.aspose.drawing.drawing2d/pathdata)
 ### getPointCount() {#getPointCount--}
 ```
 public final int getPointCount()
 ```
 
 
-Gets the number of elements in the `P:PathPoints` or the `P:PathTypes` array.
+Gets the number of elements in the `PathPoints` or the `PathTypes` array.
 
 **Returns:**
-int - An integer that specifies the number of elements in the `P:PathPoints` or the `P:PathTypes` array.
+int - An integer that specifies the number of elements in the `PathPoints` or the `PathTypes` array.
 ### getPathTypes() {#getPathTypes--}
 ```
 public final byte[] getPathTypes()
 ```
 
 
-Gets the types of the corresponding points in the `P:PathPoints` array.
+Gets the types of the corresponding points in the `PathPoints` array.
 
 **Returns:**
-byte[] - the types of the corresponding points in the `P:PathPoints` array.
+byte[]
 ### getPathPoints() {#getPathPoints--}
 ```
 public final PointF[] getPathPoints()
@@ -797,6 +804,16 @@ Returns a rectangle that bounds this [GraphicsPath](../../com.aspose.drawing.dra
 
 **Returns:**
 [RectangleF](../../com.aspose.drawing/rectanglef) - A [RectangleF](../../com.aspose.drawing/rectanglef) that represents a rectangle that bounds this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
+### getLastPoint() {#getLastPoint--}
+```
+public final PointF getLastPoint()
+```
+
+
+Gets the last point in the PathPoints array of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
+
+**Returns:**
+[PointF](../../com.aspose.drawing/pointf) - The last point in the PathPoints array of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
 ### flatten() {#flatten--}
 ```
 public final void flatten()
@@ -892,7 +909,7 @@ public final void reset()
 ```
 
 
-Empties the `drawing2d.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) and `drawing2d.GraphicsPath.PathTypes`([.getPathTypes](../../null/\#getPathTypes)) arrays and sets the [FillMode](../../com.aspose.drawing.drawing2d/fillmode) to `F:System.Drawing.drawing2d.FillMode.Alternate`.
+Empties the `Drawing2D.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) and `Drawing2D.GraphicsPath.PathTypes`([.getPathTypes](../../null/\#getPathTypes)) arrays and sets the [FillMode](../../com.aspose.drawing.drawing2d/fillmode) to `System.Drawing.Drawing2D.FillMode.Alternate`.
 
 ### reverse() {#reverse--}
 ```
@@ -900,7 +917,7 @@ public final void reverse()
 ```
 
 
-Reverses the order of points in the `drawing2d.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) array of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
+Reverses the order of points in the `Drawing2D.GraphicsPath.PathPoints`([.getPathPoints](../../null/\#getPathPoints)) array of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
 
 ### setMarkers() {#setMarkers--}
 ```
@@ -926,6 +943,103 @@ Indicates whether the specified point is contained within (under) the outline of
 
 **Returns:**
 boolean - This method returns `true` if the specified point is contained within the outline of this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) when drawn with the specified [Pen](../../com.aspose.drawing/pen); otherwise, `false`.
+### isVisible(float x, float y) {#isVisible-float-float-}
+```
+public final boolean isVisible(float x, float y)
+```
+
+
+Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | float | The X coordinate of the point to test. |
+| y | float | The Y coordinate of the point to test. |
+
+**Returns:**
+boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
+### isVisible(float x, float y, Graphics graphics) {#isVisible-float-float-com.aspose.drawing.Graphics-}
+```
+public final boolean isVisible(float x, float y, Graphics graphics)
+```
+
+
+Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | float | The X coordinate of the point to test. |
+| y | float | The Y coordinate of the point to test. |
+| graphics | [Graphics](../../com.aspose.drawing/graphics) | The [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) for which to test visibility. |
+
+**Returns:**
+boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
+### isVisible(int x, int y) {#isVisible-int-int-}
+```
+public final boolean isVisible(int x, int y)
+```
+
+
+Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | int | The X coordinate of the point to test. |
+| y | int | The Y coordinate of the point to test. |
+
+**Returns:**
+boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
+### isVisible(int x, int y, Graphics graphics) {#isVisible-int-int-com.aspose.drawing.Graphics-}
+```
+public final boolean isVisible(int x, int y, Graphics graphics)
+```
+
+
+Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | int | The X coordinate of the point to test. |
+| y | int | The Y coordinate of the point to test. |
+| graphics | [Graphics](../../com.aspose.drawing/graphics) | The [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) for which to test visibility. |
+
+**Returns:**
+boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
+### isVisible(Point point) {#isVisible-com.aspose.drawing.Point-}
+```
+public final boolean isVisible(Point point)
+```
+
+
+Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| point | [Point](../../com.aspose.drawing/point) | A [Point](../../com.aspose.drawing/point) that represents the point to test. |
+
+**Returns:**
+boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
+### isVisible(Point point, Graphics graphics) {#isVisible-com.aspose.drawing.Point-com.aspose.drawing.Graphics-}
+```
+public final boolean isVisible(Point point, Graphics graphics)
+```
+
+
+Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| point | [Point](../../com.aspose.drawing/point) | A [Point](../../com.aspose.drawing/point) that represents the point to test. |
+| graphics | [Graphics](../../com.aspose.drawing/graphics) | The [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) for which to test visibility. |
+
+**Returns:**
+boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
 ### isVisible(PointF point) {#isVisible-com.aspose.drawing.PointF-}
 ```
 public final boolean isVisible(PointF point)
@@ -938,6 +1052,22 @@ Indicates whether the specified point is contained within this [GraphicsPath](..
 | Parameter | Type | Description |
 | --- | --- | --- |
 | point | [PointF](../../com.aspose.drawing/pointf) | A [PointF](../../com.aspose.drawing/pointf) that represents the point to test. |
+
+**Returns:**
+boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
+### isVisible(PointF point, Graphics graphics) {#isVisible-com.aspose.drawing.PointF-com.aspose.drawing.Graphics-}
+```
+public final boolean isVisible(PointF point, Graphics graphics)
+```
+
+
+Indicates whether the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath), using the specified [Graphics](../../com.aspose.drawing/graphics).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| point | [PointF](../../com.aspose.drawing/pointf) | A [PointF](../../com.aspose.drawing/pointf) that represents the point to test. |
+| graphics | [Graphics](../../com.aspose.drawing/graphics) | The [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath) for which to test visibility. |
 
 **Returns:**
 boolean - This method returns `true` if the specified point is contained within this [GraphicsPath](../../com.aspose.drawing.drawing2d/graphicspath); otherwise, `false`.
@@ -1001,7 +1131,7 @@ Applies a warp transform, defined by a rectangle and a parallelogram, to this [G
 | srcRect | [RectangleF](../../com.aspose.drawing/rectanglef) | A [RectangleF](../../com.aspose.drawing/rectanglef) that represents the rectangle that is transformed to the parallelogram defined by `destPoints`. |
 | matrix | [Matrix](../../com.aspose.drawing.drawing2d/matrix) | A [Matrix](../../com.aspose.drawing.drawing2d/matrix) that specifies a geometric transform to apply to the path. |
 | warpMode | int | A [WarpMode](../../com.aspose.drawing.drawing2d/warpmode) enumeration that specifies whether this warp operation uses perspective or bilinear mode. |
-| flatness | float | A value from 0 through 1 that specifies how flat the resulting path is. For more information, see the `M:System.Drawing.drawing2d.GraphicsPath.Flatten` methods. |
+| flatness | float | A value from 0 through 1 that specifies how flat the resulting path is. For more information, see the `M:System.Drawing.Drawing2D.GraphicsPath.Flatten` methods. |
 
 ### getFigures() {#getFigures--}
 ```
@@ -1013,13 +1143,3 @@ Gets the path figures.
 
 **Returns:**
 com.aspose.imaging.Figure[] - The path figures.
-### getLastPoint() {#getLastPoint--}
-```
-public PointF getLastPoint()
-```
-
-
-
-
-**Returns:**
-[PointF](../../com.aspose.drawing/pointf)

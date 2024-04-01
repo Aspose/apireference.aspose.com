@@ -3,7 +3,7 @@ title: StringTrimming
 second_title: Aspose.Drawing for Java API Reference
 description: Specifies how to trim characters from a string that does not completely fit into a layout shape.
 type: docs
-weight: 48
+weight: 49
 url: /java/com.aspose.drawing/stringtrimming/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: FontDefinitionExt
 second_title: Aspose.Drawing for Java API Reference
 description: Class contains font definition
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.drawing/fontdefinitionext/
 ---
 **Inheritance:**
@@ -59,7 +59,7 @@ Gets the font family name.
 Value: The font family name.
 
 **Returns:**
-java.lang.String - the font family name.
+java.lang.String
 ### getStyle() {#getStyle--}
 ```
 public final String getStyle()
@@ -71,7 +71,7 @@ Gets the font style.
 Value: The font style.
 
 **Returns:**
-java.lang.String - the font style.
+java.lang.String
 ### getFontName() {#getFontName--}
 ```
 public final String getFontName()
@@ -83,7 +83,7 @@ Gets the name of the font.
 Value: The name of the font.
 
 **Returns:**
-java.lang.String - the name of the font.
+java.lang.String
 ### getPostscriptName() {#getPostscriptName--}
 ```
 public final String getPostscriptName()
@@ -95,7 +95,7 @@ Gets the postscript name of the font.
 Value: The postscript name of the font.
 
 **Returns:**
-java.lang.String - the postscript name of the font.
+java.lang.String
 ### getType() {#getType--}
 ```
 public final int getType()
@@ -107,7 +107,7 @@ Gets the font type.
 Value: The font type.
 
 **Returns:**
-int - the font type.
+int
 ### getFontFile() {#getFontFile--}
 ```
 public final FontFileDefinition getFontFile()
@@ -119,7 +119,7 @@ Gets the font file.
 Value: The font file.
 
 **Returns:**
-com.aspose.fonts.sources.FontFileDefinition - the font file.
+com.aspose.fonts.sources.FontFileDefinition
 ### getFileName() {#getFileName--}
 ```
 public final String getFileName()
@@ -131,7 +131,7 @@ Gets the name of the file.
 Value: The name of the file.
 
 **Returns:**
-java.lang.String - the name of the file.
+java.lang.String
 ### getFont() {#getFont--}
 ```
 public final IFont getFont()

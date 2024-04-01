@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.Drawing for Java API Reference
 description: Defines a particular format for text including font face size and style attributes.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.drawing/font/
 ---
 **Inheritance:**
@@ -44,7 +44,7 @@ Defines a particular format for text, including font face, size, and style attri
 | [getStrikeout()](#getStrikeout--) | Gets a value indicating whether this [Font](../../com.aspose.drawing/font) specifies a horizontal line through the font. |
 | [getUnderline()](#getUnderline--) | Gets a value indicating whether this [Font](../../com.aspose.drawing/font) is underlined. |
 | [getStyle()](#getStyle--) | Gets style information for this [Font](../../com.aspose.drawing/font). |
-| [getSize()](#getSize--) | Gets the em-size of this [Font](../../com.aspose.drawing/font) measured in the units specified by the `P:Font.Unit` property. |
+| [getSize()](#getSize--) | Gets the em-size of this [Font](../../com.aspose.drawing/font) measured in the units specified by the `Font.Unit` property. |
 | [getSizeInPoints()](#getSizeInPoints--) | Gets the em-size, in points, of this [Font](../../com.aspose.drawing/font). |
 | [getUnit()](#getUnit--) | Gets the unit of measure for this [Font](../../com.aspose.drawing/font). |
 | [getHeight_Rename_Namesake()](#getHeight-Rename-Namesake--) | Gets the line spacing of this font. |
@@ -332,10 +332,10 @@ public float getSize()
 ```
 
 
-Gets the em-size of this [Font](../../com.aspose.drawing/font) measured in the units specified by the `P:Font.Unit` property.
+Gets the em-size of this [Font](../../com.aspose.drawing/font) measured in the units specified by the `Font.Unit` property.
 
 **Returns:**
-float - the em-size of this [Font](../../com.aspose.drawing/font) measured in the units specified by the \{@code P:Font.
+float - the em-size of this [Font](../../com.aspose.drawing/font) measured in the units specified by the \{@code Font.
 ### getSizeInPoints() {#getSizeInPoints--}
 ```
 public float getSizeInPoints()

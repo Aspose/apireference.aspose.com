@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: Aspose.Drawing for Java API Reference
 description: Defines a brush of a single color.
 type: docs
-weight: 43
+weight: 44
 url: /java/com.aspose.drawing/solidbrush/
 ---
 **Inheritance:**

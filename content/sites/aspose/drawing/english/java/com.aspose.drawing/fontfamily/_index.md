@@ -3,7 +3,7 @@ title: FontFamily
 second_title: Aspose.Drawing for Java API Reference
 description: Defines a group of type faces having a similar basic design and certain variations in styles.
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.drawing/fontfamily/
 ---
 **Inheritance:**

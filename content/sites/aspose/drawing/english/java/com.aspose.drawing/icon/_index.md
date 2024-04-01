@@ -3,7 +3,7 @@ title: Icon
 second_title: Aspose.Drawing for Java API Reference
 description: Represents a Windows icon which is a small bitmap image that is used to represent an object.
 type: docs
-weight: 28
+weight: 29
 url: /java/com.aspose.drawing/icon/
 ---
 **Inheritance:**
@@ -33,12 +33,12 @@ Represents a Windows icon, which is a small bitmap image that is used to represe
 
 | Method | Description |
 | --- | --- |
-| [extractAssociatedIcon(String filePath)](#extractAssociatedIcon-java.lang.String-) | Returns an icon representation of an image that is contained in the specified file. |
-| [fromHandle(byte[] handle)](#fromHandle-byte---) | Creates a GDI+ [Icon](../../com.aspose.drawing/icon) from the specified Windows handle to an icon (HICON). |
 | [getHandle()](#getHandle--) | Gets the handle for this [Icon](../../com.aspose.drawing/icon). |
 | [getHeight()](#getHeight--) | Gets the height of this [Icon](../../com.aspose.drawing/icon). |
 | [getSize()](#getSize--) | Gets the size of this [Icon](../../com.aspose.drawing/icon). |
 | [getWidth()](#getWidth--) | Gets the width of this [Icon](../../com.aspose.drawing/icon). |
+| [extractAssociatedIcon(String filePath)](#extractAssociatedIcon-java.lang.String-) | Returns an icon representation of an image that is contained in the specified file. |
+| [fromHandle(byte[] handle)](#fromHandle-byte---) | Creates a GDI+ [Icon](../../com.aspose.drawing/icon) from the specified Windows handle to an icon (HICON). |
 | [deepClone()](#deepClone--) | Clones the [Icon](../../com.aspose.drawing/icon), creating a duplicate image. |
 | [dispose()](#dispose--) | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [save(OutputStream outputStream)](#save-java.io.OutputStream-) | Saves this [Icon](../../com.aspose.drawing/icon) to the specified output java.io.InputStream. |
@@ -171,6 +171,54 @@ Initializes a new instance of the [Icon](../../com.aspose.drawing/icon) class fr
 | width | int | The width, in pixels, of the icon. |
 | height | int | The height, in pixels, of the icon. |
 
+### getHandle() {#getHandle--}
+```
+public System.IntPtr getHandle()
+```
+
+
+Gets the handle for this [Icon](../../com.aspose.drawing/icon). This is not a copy of the handle; do not free it.
+
+Value: The Windows handle for the icon.
+
+**Returns:**
+com.aspose.ms.System.IntPtr
+### getHeight() {#getHeight--}
+```
+public int getHeight()
+```
+
+
+Gets the height of this [Icon](../../com.aspose.drawing/icon).
+
+Value: The height of this [Icon](../../com.aspose.drawing/icon).
+
+**Returns:**
+int
+### getSize() {#getSize--}
+```
+public Size getSize()
+```
+
+
+Gets the size of this [Icon](../../com.aspose.drawing/icon).
+
+Value: A `Size`([.getSize](../../null/\#getSize)) structure that specifies the width and height of this [Icon](../../com.aspose.drawing/icon).
+
+**Returns:**
+[Size](../../com.aspose.drawing/size)
+### getWidth() {#getWidth--}
+```
+public int getWidth()
+```
+
+
+Gets the width of this [Icon](../../com.aspose.drawing/icon).
+
+Value: The width of this [Icon](../../com.aspose.drawing/icon).
+
+**Returns:**
+int
 ### extractAssociatedIcon(String filePath) {#extractAssociatedIcon-java.lang.String-}
 ```
 public static Icon extractAssociatedIcon(String filePath)
@@ -201,54 +249,6 @@ Creates a GDI+ [Icon](../../com.aspose.drawing/icon) from the specified Windows 
 
 **Returns:**
 [Icon](../../com.aspose.drawing/icon) - The [Icon](../../com.aspose.drawing/icon) this method creates.
-### getHandle() {#getHandle--}
-```
-public System.IntPtr getHandle()
-```
-
-
-Gets the handle for this [Icon](../../com.aspose.drawing/icon). This is not a copy of the handle; do not free it.
-
-Value: The Windows handle for the icon.
-
-**Returns:**
-com.aspose.ms.System.IntPtr - the handle for this [Icon](../../com.aspose.drawing/icon).
-### getHeight() {#getHeight--}
-```
-public int getHeight()
-```
-
-
-Gets the height of this [Icon](../../com.aspose.drawing/icon).
-
-Value: The height of this [Icon](../../com.aspose.drawing/icon).
-
-**Returns:**
-int - the height of this [Icon](../../com.aspose.drawing/icon).
-### getSize() {#getSize--}
-```
-public Size getSize()
-```
-
-
-Gets the size of this [Icon](../../com.aspose.drawing/icon).
-
-Value: A `Size`([.getSize](../../null/\#getSize)) structure that specifies the width and height of this [Icon](../../com.aspose.drawing/icon).
-
-**Returns:**
-[Size](../../com.aspose.drawing/size) - the size of this [Icon](../../com.aspose.drawing/icon).
-### getWidth() {#getWidth--}
-```
-public int getWidth()
-```
-
-
-Gets the width of this [Icon](../../com.aspose.drawing/icon).
-
-Value: The width of this [Icon](../../com.aspose.drawing/icon).
-
-**Returns:**
-int - the width of this [Icon](../../com.aspose.drawing/icon).
 ### deepClone() {#deepClone--}
 ```
 public Object deepClone()

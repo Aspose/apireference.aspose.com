@@ -17,7 +17,7 @@ Represents the fonts installed on the system. This class cannot be inherited.
 
 | Constructor | Description |
 | --- | --- |
-| [InstalledFontCollection()](#InstalledFontCollection--) | Initializes a new instance of the [InstalledFontCollection](../../com.aspose.drawing.text/installedfontcollection) class. |
+| [InstalledFontCollection()](#InstalledFontCollection--) | Removes families from the global system fonts collection. |
 ## Methods
 
 | Method | Description |
@@ -30,7 +30,7 @@ public InstalledFontCollection()
 ```
 
 
-Initializes a new instance of the [InstalledFontCollection](../../com.aspose.drawing.text/installedfontcollection) class.
+Removes families from the global system fonts collection.
 
 ### addFamilies(FontFamily[] families) {#addFamilies-com.aspose.drawing.FontFamily---}
 ```

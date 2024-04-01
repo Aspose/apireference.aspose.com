@@ -3,7 +3,7 @@ title: Point
 second_title: Aspose.Drawing for Java API Reference
 description: Represents an ordered pair of integer x- and y-coordinates that defines a point in a two-dimensional plane.
 type: docs
-weight: 35
+weight: 36
 url: /java/com.aspose.drawing/point/
 ---
 **Inheritance:**
@@ -28,7 +28,7 @@ Represents an ordered pair of integer x- and y-coordinates that defines a point 
 
 | Field | Description |
 | --- | --- |
-| [EMPTY](#EMPTY) | Represents a [Point](../../com.aspose.drawing/point) that has `P:Point.X` and `P:Point.Y` values set to zero. |
+| [EMPTY](#EMPTY) | Represents a [Point](../../com.aspose.drawing/point) that has `Point.X` and `Point.Y` values set to zero. |
 ## Methods
 
 | Method | Description |
@@ -110,7 +110,7 @@ public static final Point EMPTY
 ```
 
 
-Represents a [Point](../../com.aspose.drawing/point) that has `P:Point.X` and `P:Point.Y` values set to zero.
+Represents a [Point](../../com.aspose.drawing/point) that has `Point.X` and `Point.Y` values set to zero.
 
 ### to_PointF(Point p) {#to-PointF-com.aspose.drawing.Point-}
 ```
@@ -180,7 +180,7 @@ public static boolean op_Equality(Point left, Point right)
 ```
 
 
-Compares two [Point](../../com.aspose.drawing/point) objects. The result specifies whether the values of the `P:Point.X` and `P:Point.Y` properties of the two [Point](../../com.aspose.drawing/point) objects are equal.
+Compares two [Point](../../com.aspose.drawing/point) objects. The result specifies whether the values of the `Point.X` and `Point.Y` properties of the two [Point](../../com.aspose.drawing/point) objects are equal.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -189,14 +189,14 @@ Compares two [Point](../../com.aspose.drawing/point) objects. The result specifi
 | right | [Point](../../com.aspose.drawing/point) | Second [Point](../../com.aspose.drawing/point) to compare. |
 
 **Returns:**
-boolean - true if the `P:Point.X` and `P:Point.Y` values of `left` and `right` are equal; otherwise, false.
+boolean - true if the `Point.X` and `Point.Y` values of `left` and `right` are equal; otherwise, false.
 ### op_Inequality(Point left, Point right) {#op-Inequality-com.aspose.drawing.Point-com.aspose.drawing.Point-}
 ```
 public static boolean op_Inequality(Point left, Point right)
 ```
 
 
-Compares two [Point](../../com.aspose.drawing/point) objects. The result specifies whether the values of the `P:Point.X` or `P:Point.Y` properties of the two [Point](../../com.aspose.drawing/point) objects are unequal.
+Compares two [Point](../../com.aspose.drawing/point) objects. The result specifies whether the values of the `Point.X` or `Point.Y` properties of the two [Point](../../com.aspose.drawing/point) objects are unequal.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -205,7 +205,7 @@ Compares two [Point](../../com.aspose.drawing/point) objects. The result specifi
 | right | [Point](../../com.aspose.drawing/point) | Second [Point](../../com.aspose.drawing/point) to compare. |
 
 **Returns:**
-boolean - true if the values of either the `P:Point.X` properties or the `P:Point.Y` properties of `left` and `right` differ; otherwise, false.
+boolean - true if the values of either the `Point.X` properties or the `Point.Y` properties of `left` and `right` differ; otherwise, false.
 ### add(Point pt, Size sz) {#add-com.aspose.drawing.Point-com.aspose.drawing.Size-}
 ```
 public static Point add(Point pt, Size sz)

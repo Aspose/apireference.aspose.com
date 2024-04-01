@@ -29,24 +29,24 @@ Defines a graphic metafile. A metafile contains records that describe a sequence
 
 | Method | Description |
 | --- | --- |
-| [getMetafileHeader(InputStream stream)](#getMetafileHeader-java.io.InputStream-) | Returns the [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) associated with the specified [Metafile](../../com.aspose.drawing.imaging/metafile). |
-| [getMetafileHeader(String fileName)](#getMetafileHeader-java.lang.String-) | Returns the [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) associated with the specified [Metafile](../../com.aspose.drawing.imaging/metafile). |
 | [getWidth()](#getWidth--) | Gets the width, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile). |
 | [getHeight()](#getHeight--) | Gets the height, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile). |
-| [getRawFormat()](#getRawFormat--) | Gets the file format of this com.aspose.imaging.Image. |
-| [getPixelFormat()](#getPixelFormat--) | Gets the pixel format for this com.aspose.imaging.Image. |
-| [getPalette()](#getPalette--) | Gets the color palette used for this com.aspose.imaging.Image. |
-| [setPalette(ColorPalette value)](#setPalette-com.aspose.drawing.imaging.ColorPalette-) | Sets the color palette used for this com.aspose.imaging.Image. |
-| [getFrameDimensionsList()](#getFrameDimensionsList--) | Gets an array of GUIDs that represent the dimensions of frames within this com.aspose.imaging.Image. |
-| [getPropertyIdList()](#getPropertyIdList--) | Gets IDs of the property items stored in this com.aspose.imaging.Image. |
-| [getPropertyItems()](#getPropertyItems--) | Gets all the property items (pieces of metadata) stored in this com.aspose.imaging.Image. |
-| [rotateFlip(int rotateFlipType)](#rotateFlip-int-) | This method rotates, flips, or rotates and flips the com.aspose.imaging.Image. |
+| [getRawFormat()](#getRawFormat--) | Gets the file format of this [Image](../../com.aspose.drawing/image). |
+| [getPixelFormat()](#getPixelFormat--) | Gets the pixel format for this [Image](../../com.aspose.drawing/image). |
+| [getPalette()](#getPalette--) | Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image). |
+| [setPalette(ColorPalette value)](#setPalette-com.aspose.drawing.imaging.ColorPalette-) | Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image). |
+| [getFrameDimensionsList()](#getFrameDimensionsList--) | Gets an array of GUIDs that represent the dimensions of frames within this [Image](../../com.aspose.drawing/image). |
+| [getPropertyIdList()](#getPropertyIdList--) | Gets IDs of the property items stored in this [Image](../../com.aspose.drawing/image). |
+| [getPropertyItems()](#getPropertyItems--) | Gets all the property items (pieces of metadata) stored in this [Image](../../com.aspose.drawing/image). |
+| [getMetafileHeader(InputStream stream)](#getMetafileHeader-java.io.InputStream-) | Returns the [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) associated with the specified [Metafile](../../com.aspose.drawing.imaging/metafile). |
+| [getMetafileHeader(String fileName)](#getMetafileHeader-java.lang.String-) | Returns the [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) associated with the specified [Metafile](../../com.aspose.drawing.imaging/metafile). |
+| [rotateFlip(int rotateFlipType)](#rotateFlip-int-) | This method rotates, flips, or rotates and flips the [Image](../../com.aspose.drawing/image). |
 | [getHenhmetafile()](#getHenhmetafile--) | Returns a Windows handle to an enhanced [Metafile](../../com.aspose.drawing.imaging/metafile). |
 | [playRecord(int recordType, int flags, int dataSize, byte[] dataArray)](#playRecord-int-int-int-byte---) | Plays an individual metafile record. |
 | [getMetafileHeader()](#getMetafileHeader--) | Returns the [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) associated with this [Metafile](../../com.aspose.drawing.imaging/metafile). |
-| [getPropertyItem(int propid)](#getPropertyItem-int-) | Gets the specified property item from this com.aspose.imaging.Image. |
-| [removePropertyItem(int propid)](#removePropertyItem-int-) | Removes the specified property item from this com.aspose.imaging.Image. |
-| [setPropertyItem(PropertyItem propitem)](#setPropertyItem-com.aspose.drawing.imaging.PropertyItem-) | Stores a property item (piece of metadata) in this com.aspose.imaging.Image. |
+| [getPropertyItem(int propid)](#getPropertyItem-int-) | Gets the specified property item from this [Image](../../com.aspose.drawing/image). |
+| [removePropertyItem(int propid)](#removePropertyItem-int-) | Removes the specified property item from this [Image](../../com.aspose.drawing/image). |
+| [setPropertyItem(PropertyItem propitem)](#setPropertyItem-com.aspose.drawing.imaging.PropertyItem-) | Stores a property item (piece of metadata) in this [Image](../../com.aspose.drawing/image). |
 ### Metafile(byte[] henhmetafile, boolean deleteEmf) {#Metafile-byte---boolean-}
 ```
 public Metafile(byte[] henhmetafile, boolean deleteEmf)
@@ -161,6 +161,99 @@ Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/me
 | frameUnit | int | A [MetafileFrameUnit](../../com.aspose.drawing.imaging/metafileframeunit) that specifies the unit of measure for frameRect. |
 | type | int | An [EmfType](../../com.aspose.drawing.imaging/emftype) that specifies the format of the [Metafile](../../com.aspose.drawing.imaging/metafile). |
 
+### getWidth() {#getWidth--}
+```
+public int getWidth()
+```
+
+
+Gets the width, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile).
+
+**Returns:**
+int
+### getHeight() {#getHeight--}
+```
+public int getHeight()
+```
+
+
+Gets the height, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile).
+
+**Returns:**
+int - the height, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile).
+### getRawFormat() {#getRawFormat--}
+```
+public ImageFormat getRawFormat()
+```
+
+
+Gets the file format of this [Image](../../com.aspose.drawing/image).
+
+**Returns:**
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - The [ImageFormat](../../com.aspose.drawing.imaging/imageformat) that represents the file format of this [Image](../../com.aspose.drawing/image).
+### getPixelFormat() {#getPixelFormat--}
+```
+public int getPixelFormat()
+```
+
+
+Gets the pixel format for this [Image](../../com.aspose.drawing/image).
+
+**Returns:**
+int - A `PixelFormat`([Image.getPixelFormat](../../com.aspose.drawing/image\#getPixelFormat)) that represents the pixel format for this [Image](../../com.aspose.drawing/image).
+### getPalette() {#getPalette--}
+```
+public ColorPalette getPalette()
+```
+
+
+Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image).
+
+**Returns:**
+[ColorPalette](../../com.aspose.drawing.imaging/colorpalette) - A [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) that represents the color palette used for this [Image](../../com.aspose.drawing/image).
+### setPalette(ColorPalette value) {#setPalette-com.aspose.drawing.imaging.ColorPalette-}
+```
+public void setPalette(ColorPalette value)
+```
+
+
+Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) |  |
+
+### getFrameDimensionsList() {#getFrameDimensionsList--}
+```
+public UUID[] getFrameDimensionsList()
+```
+
+
+Gets an array of GUIDs that represent the dimensions of frames within this [Image](../../com.aspose.drawing/image).
+
+**Returns:**
+java.util.UUID[] - An array of GUIDs that specify the dimensions of frames within this [Image](../../com.aspose.drawing/image) from most significant to least significant.
+### getPropertyIdList() {#getPropertyIdList--}
+```
+public int[] getPropertyIdList()
+```
+
+
+Gets IDs of the property items stored in this [Image](../../com.aspose.drawing/image).
+
+**Returns:**
+int[] - An array of the property IDs, one for each property item stored in this image.
+### getPropertyItems() {#getPropertyItems--}
+```
+public PropertyItem[] getPropertyItems()
+```
+
+
+Gets all the property items (pieces of metadata) stored in this [Image](../../com.aspose.drawing/image).
+
+**Returns:**
+com.aspose.drawing.imaging.PropertyItem[] - An array of [PropertyItem](../../com.aspose.drawing.imaging/propertyitem) objects, one for each property item stored in the image.
 ### getMetafileHeader(InputStream stream) {#getMetafileHeader-java.io.InputStream-}
 ```
 public static MetafileHeader getMetafileHeader(InputStream stream)
@@ -191,106 +284,13 @@ Returns the [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) as
 
 **Returns:**
 [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) - The [MetafileHeader](../../com.aspose.drawing.imaging/metafileheader) associated with the specified [Metafile](../../com.aspose.drawing.imaging/metafile).
-### getWidth() {#getWidth--}
-```
-public int getWidth()
-```
-
-
-Gets the width, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile).
-
-**Returns:**
-int - the width, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile).
-### getHeight() {#getHeight--}
-```
-public int getHeight()
-```
-
-
-Gets the height, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile).
-
-**Returns:**
-int - the height, in pixels, of this [Metafile](../../com.aspose.drawing.imaging/metafile).
-### getRawFormat() {#getRawFormat--}
-```
-public ImageFormat getRawFormat()
-```
-
-
-Gets the file format of this com.aspose.imaging.Image.
-
-**Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - The [ImageFormat](../../com.aspose.drawing.imaging/imageformat) that represents the file format of this com.aspose.imaging.Image.
-### getPixelFormat() {#getPixelFormat--}
-```
-public int getPixelFormat()
-```
-
-
-Gets the pixel format for this com.aspose.imaging.Image.
-
-**Returns:**
-int - A `PixelFormat`(com.aspose.imaging.Image\#getPixelFormat.getPixelFormat) that represents the pixel format for this com.aspose.imaging.Image.
-### getPalette() {#getPalette--}
-```
-public ColorPalette getPalette()
-```
-
-
-Gets the color palette used for this com.aspose.imaging.Image.
-
-**Returns:**
-[ColorPalette](../../com.aspose.drawing.imaging/colorpalette) - A [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) that represents the color palette used for this com.aspose.imaging.Image.
-### setPalette(ColorPalette value) {#setPalette-com.aspose.drawing.imaging.ColorPalette-}
-```
-public void setPalette(ColorPalette value)
-```
-
-
-Sets the color palette used for this com.aspose.imaging.Image.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) | the color palette used for this com.aspose.imaging.Image. |
-
-### getFrameDimensionsList() {#getFrameDimensionsList--}
-```
-public UUID[] getFrameDimensionsList()
-```
-
-
-Gets an array of GUIDs that represent the dimensions of frames within this com.aspose.imaging.Image.
-
-**Returns:**
-java.util.UUID[] - An array of GUIDs that specify the dimensions of frames within this com.aspose.imaging.Image from most significant to least significant.
-### getPropertyIdList() {#getPropertyIdList--}
-```
-public int[] getPropertyIdList()
-```
-
-
-Gets IDs of the property items stored in this com.aspose.imaging.Image.
-
-**Returns:**
-int[] - An array of the property IDs, one for each property item stored in this image.
-### getPropertyItems() {#getPropertyItems--}
-```
-public PropertyItem[] getPropertyItems()
-```
-
-
-Gets all the property items (pieces of metadata) stored in this com.aspose.imaging.Image.
-
-**Returns:**
-com.aspose.drawing.imaging.PropertyItem[] - An array of [PropertyItem](../../com.aspose.drawing.imaging/propertyitem) objects, one for each property item stored in the image.
 ### rotateFlip(int rotateFlipType) {#rotateFlip-int-}
 ```
 public void rotateFlip(int rotateFlipType)
 ```
 
 
-This method rotates, flips, or rotates and flips the com.aspose.imaging.Image.
+This method rotates, flips, or rotates and flips the [Image](../../com.aspose.drawing/image).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -339,7 +339,7 @@ public PropertyItem getPropertyItem(int propid)
 ```
 
 
-Gets the specified property item from this com.aspose.imaging.Image.
+Gets the specified property item from this [Image](../../com.aspose.drawing/image).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -354,7 +354,7 @@ public void removePropertyItem(int propid)
 ```
 
 
-Removes the specified property item from this com.aspose.imaging.Image.
+Removes the specified property item from this [Image](../../com.aspose.drawing/image).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -367,7 +367,7 @@ public void setPropertyItem(PropertyItem propitem)
 ```
 
 
-Stores a property item (piece of metadata) in this com.aspose.imaging.Image.
+Stores a property item (piece of metadata) in this [Image](../../com.aspose.drawing/image).
 
 **Parameters:**
 | Parameter | Type | Description |

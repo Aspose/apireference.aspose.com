@@ -26,12 +26,12 @@ Specifies a range of character positions within a string.
 
 | Method | Description |
 | --- | --- |
+| [getFirst()](#getFirst--) | Gets or sets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange). |
+| [setFirst(int value)](#setFirst-int-) | Gets or sets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange). |
+| [getLength()](#getLength--) | Gets or sets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange). |
+| [setLength(int value)](#setLength-int-) | Gets or sets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange). |
 | [op_Equality(CharacterRange cr1, CharacterRange cr2)](#op-Equality-com.aspose.drawing.CharacterRange-com.aspose.drawing.CharacterRange-) | Compares two [CharacterRange](../../com.aspose.drawing/characterrange) objects. |
 | [op_Inequality(CharacterRange cr1, CharacterRange cr2)](#op-Inequality-com.aspose.drawing.CharacterRange-com.aspose.drawing.CharacterRange-) | Compares two [CharacterRange](../../com.aspose.drawing/characterrange) objects. |
-| [getFirst()](#getFirst--) | Gets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange). |
-| [setFirst(int value)](#setFirst-int-) | Sets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange). |
-| [getLength()](#getLength--) | Gets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange). |
-| [setLength(int value)](#setLength-int-) | Sets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange). |
 | [equals(Object obj)](#equals-java.lang.Object-) | Gets a value indicating whether this object is equivalent to the specified object. |
 | [hashCode()](#hashCode--) | Returns the hash code for this instance. |
 | [CloneTo(CharacterRange that)](#CloneTo-com.aspose.drawing.CharacterRange-) |  |
@@ -56,6 +56,60 @@ Initializes a new instance of the [CharacterRange](../../com.aspose.drawing/char
 | --- | --- | --- |
 | first | int | The position of the first character in the range. For example, if First is set to 0, the first position of the range is position 0 in the string. |
 | length | int | The number of positions in the range. |
+
+### getFirst() {#getFirst--}
+```
+public final int getFirst()
+```
+
+
+Gets or sets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+Value: The first position of this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+**Returns:**
+int
+### setFirst(int value) {#setFirst-int-}
+```
+public final void setFirst(int value)
+```
+
+
+Gets or sets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+Value: The first position of this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### getLength() {#getLength--}
+```
+public final int getLength()
+```
+
+
+Gets or sets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+Value: The number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+**Returns:**
+int
+### setLength(int value) {#setLength-int-}
+```
+public final void setLength(int value)
+```
+
+
+Gets or sets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+Value: The number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### op_Equality(CharacterRange cr1, CharacterRange cr2) {#op-Equality-com.aspose.drawing.CharacterRange-com.aspose.drawing.CharacterRange-}
 ```
@@ -89,60 +143,6 @@ Compares two [CharacterRange](../../com.aspose.drawing/characterrange) objects. 
 
 **Returns:**
 boolean - `true` to indicate the either the First or Length values of the two CharacterRange objects differ; otherwise, `false`.
-### getFirst() {#getFirst--}
-```
-public final int getFirst()
-```
-
-
-Gets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-Value: The first position of this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-**Returns:**
-int - the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange).
-### setFirst(int value) {#setFirst-int-}
-```
-public final void setFirst(int value)
-```
-
-
-Sets the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-Value: The first position of this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | the position in the string of the first character of this [CharacterRange](../../com.aspose.drawing/characterrange). |
-
-### getLength() {#getLength--}
-```
-public final int getLength()
-```
-
-
-Gets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-Value: The number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-**Returns:**
-int - the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
-### setLength(int value) {#setLength-int-}
-```
-public final void setLength(int value)
-```
-
-
-Sets the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-Value: The number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | the number of positions in this [CharacterRange](../../com.aspose.drawing/characterrange). |
-
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)

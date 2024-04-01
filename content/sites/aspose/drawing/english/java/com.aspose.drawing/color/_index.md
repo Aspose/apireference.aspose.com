@@ -171,16 +171,6 @@ Represents an ARGB (alpha, red, green, blue) color.
 | [getWhiteSmoke()](#getWhiteSmoke--) | Gets a system-defined color that has an ARGB value of \#FFF5F5F5. |
 | [getYellow()](#getYellow--) | Gets a system-defined color that has an ARGB value of \#FFFFFF00. |
 | [getYellowGreen()](#getYellowGreen--) | Gets a system-defined color that has an ARGB value of \#FF9ACD32. |
-| [fromArgb(int argb)](#fromArgb-int-) | Creates a [Color](../../com.aspose.drawing/color) structure from a 32-bit ARGB value. |
-| [fromArgb(int alpha, Color baseColor)](#fromArgb-int-com.aspose.drawing.Color-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified [Color](../../com.aspose.drawing/color) structure, but with the new specified alpha value. |
-| [fromArgb(int red, int green, int blue)](#fromArgb-int-int-int-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified 8-bit color values (red, green, and blue). |
-| [fromArgb(int alpha, int red, int green, int blue)](#fromArgb-int-int-int-int-) | Creates a Color structure from the four ARGB component (alpha, red, green, and blue) values. |
-| [fromKnownColor(int color)](#fromKnownColor-int-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified predefined color. |
-| [fromName(String name)](#fromName-java.lang.String-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified name of a predefined color. |
-| [op_Equality(Color left, Color right)](#op-Equality-com.aspose.drawing.Color-com.aspose.drawing.Color-) | Tests whether two specified [Color](../../com.aspose.drawing/color) structures are equivalent. |
-| [op_Inequality(Color left, Color right)](#op-Inequality-com.aspose.drawing.Color-com.aspose.drawing.Color-) | Tests whether two specified [Color](../../com.aspose.drawing/color) structures are different. |
-| [isEquals(Color obj1, Color obj2)](#isEquals-com.aspose.drawing.Color-com.aspose.drawing.Color-) |  |
-| [getEmpty()](#getEmpty--) |  |
 | [getA()](#getA--) | Gets the alpha component value of this [Color](../../com.aspose.drawing/color) structure. |
 | [getR()](#getR--) | Gets the red component value of this [Color](../../com.aspose.drawing/color) structure. |
 | [getG()](#getG--) | Gets the green component value of this [Color](../../com.aspose.drawing/color) structure. |
@@ -190,6 +180,14 @@ Represents an ARGB (alpha, red, green, blue) color.
 | [isNamedColor()](#isNamedColor--) | Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a named color or a member of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration. |
 | [isSystemColor()](#isSystemColor--) | Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a system color. |
 | [getName()](#getName--) | Gets the name of this [Color](../../com.aspose.drawing/color). |
+| [fromArgb(int argb)](#fromArgb-int-) | Creates a [Color](../../com.aspose.drawing/color) structure from a 32-bit ARGB value. |
+| [fromArgb(int alpha, Color baseColor)](#fromArgb-int-com.aspose.drawing.Color-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified [Color](../../com.aspose.drawing/color) structure, but with the new specified alpha value. |
+| [fromArgb(int red, int green, int blue)](#fromArgb-int-int-int-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified 8-bit color values (red, green, and blue). |
+| [fromArgb(int alpha, int red, int green, int blue)](#fromArgb-int-int-int-int-) | Creates a Color structure from the four ARGB component (alpha, red, green, and blue) values. |
+| [fromKnownColor(int color)](#fromKnownColor-int-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified predefined color. |
+| [fromName(String name)](#fromName-java.lang.String-) | Creates a [Color](../../com.aspose.drawing/color) structure from the specified name of a predefined color. |
+| [op_Equality(Color left, Color right)](#op-Equality-com.aspose.drawing.Color-com.aspose.drawing.Color-) | Tests whether two specified [Color](../../com.aspose.drawing/color) structures are equivalent. |
+| [op_Inequality(Color left, Color right)](#op-Inequality-com.aspose.drawing.Color-com.aspose.drawing.Color-) | Tests whether two specified [Color](../../com.aspose.drawing/color) structures are different. |
 | [equals(Color other)](#equals-com.aspose.drawing.Color-) | Tests whether the specified color is equivalent to this color. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Tests whether the specified object is equivalent to this color. |
 | [toArgb()](#toArgb--) | Gets the 32-bit ARGB value of this Color structure. |
@@ -199,6 +197,8 @@ Represents an ARGB (alpha, red, green, blue) color.
 | [toKnownColor()](#toKnownColor--) | Gets the [KnownColor](../../com.aspose.drawing/knowncolor) value of this [Color](../../com.aspose.drawing/color) structure. |
 | [toString()](#toString--) | Returns a String that represents this instance. |
 | [hashCode()](#hashCode--) | Returns a hash code for this instance. |
+| [isEquals(Color obj1, Color obj2)](#isEquals-com.aspose.drawing.Color-com.aspose.drawing.Color-) |  |
+| [getEmpty()](#getEmpty--) |  |
 | [CloneTo(Color that)](#CloneTo-com.aspose.drawing.Color-) |  |
 | [Clone()](#Clone--) |  |
 ### Color() {#Color--}
@@ -1625,6 +1625,104 @@ Gets a system-defined color that has an ARGB value of \#FF9ACD32.
 
 **Returns:**
 [Color](../../com.aspose.drawing/color) - A [Color](../../com.aspose.drawing/color) representing a system-defined color. `1`
+### getA() {#getA--}
+```
+public final int getA()
+```
+
+
+Gets the alpha component value of this [Color](../../com.aspose.drawing/color) structure.
+
+**Returns:**
+int - The alpha component value of this [Color](../../com.aspose.drawing/color).
+### getR() {#getR--}
+```
+public final int getR()
+```
+
+
+Gets the red component value of this [Color](../../com.aspose.drawing/color) structure.
+
+**Returns:**
+int - The red component value of this [Color](../../com.aspose.drawing/color).
+### getG() {#getG--}
+```
+public final int getG()
+```
+
+
+Gets the green component value of this [Color](../../com.aspose.drawing/color) structure.
+
+**Returns:**
+int - The green component value of this [Color](../../com.aspose.drawing/color).
+### getB() {#getB--}
+```
+public final int getB()
+```
+
+
+Gets the blue component value of this [Color](../../com.aspose.drawing/color) structure.
+
+**Returns:**
+int - The blue component value of this [Color](../../com.aspose.drawing/color).
+### isKnownColor() {#isKnownColor--}
+```
+public final boolean isKnownColor()
+```
+
+
+Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a predefined color. Predefined colors are represented by the elements of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration.
+
+Value: `true` if this [Color](../../com.aspose.drawing/color) was created from a predefined color by using either the `M:Color.FromName(System.String)` method or the `M:Color.FromKnownColor(System.Drawing.KnownColor)` method; otherwise, `false`.
+
+**Returns:**
+boolean
+### isEmpty() {#isEmpty--}
+```
+public final boolean isEmpty()
+```
+
+
+Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is uninitialized.
+
+Value: This property returns true if this color is uninitialized; otherwise, false.
+
+**Returns:**
+boolean
+### isNamedColor() {#isNamedColor--}
+```
+public final boolean isNamedColor()
+```
+
+
+Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a named color or a member of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration.
+
+Value: `true` if this [Color](../../com.aspose.drawing/color) was created by using either the `M:Color.FromName(System.String)` method or the `M:Color.FromKnownColor(System.Drawing.KnownColor)` method; otherwise, `false`.
+
+**Returns:**
+boolean
+### isSystemColor() {#isSystemColor--}
+```
+public final boolean isSystemColor()
+```
+
+
+Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a system color. A system color is a color that is used in a Windows display element. System colors are represented by elements of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration.
+
+Value: `true` if this [Color](../../com.aspose.drawing/color) was created from a system color by using either the `M:Color.FromName(System.String)` method or the `M:Color.FromKnownColor(System.Drawing.KnownColor)` method; otherwise, `false`.
+
+**Returns:**
+boolean
+### getName() {#getName--}
+```
+public final String getName()
+```
+
+
+Gets the name of this [Color](../../com.aspose.drawing/color).
+
+**Returns:**
+java.lang.String
 ### fromArgb(int argb) {#fromArgb-int-}
 ```
 public static Color fromArgb(int argb)
@@ -1753,130 +1851,6 @@ Tests whether two specified [Color](../../com.aspose.drawing/color) structures a
 
 **Returns:**
 boolean - `true` if the two [Color](../../com.aspose.drawing/color) structures are different; otherwise, `false`.
-### isEquals(Color obj1, Color obj2) {#isEquals-com.aspose.drawing.Color-com.aspose.drawing.Color-}
-```
-public static boolean isEquals(Color obj1, Color obj2)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj1 | [Color](../../com.aspose.drawing/color) |  |
-| obj2 | [Color](../../com.aspose.drawing/color) |  |
-
-**Returns:**
-boolean
-### getEmpty() {#getEmpty--}
-```
-public static Color getEmpty()
-```
-
-
-
-
-**Returns:**
-[Color](../../com.aspose.drawing/color)
-### getA() {#getA--}
-```
-public final int getA()
-```
-
-
-Gets the alpha component value of this [Color](../../com.aspose.drawing/color) structure.
-
-**Returns:**
-int - The alpha component value of this [Color](../../com.aspose.drawing/color).
-### getR() {#getR--}
-```
-public final int getR()
-```
-
-
-Gets the red component value of this [Color](../../com.aspose.drawing/color) structure.
-
-**Returns:**
-int - The red component value of this [Color](../../com.aspose.drawing/color).
-### getG() {#getG--}
-```
-public final int getG()
-```
-
-
-Gets the green component value of this [Color](../../com.aspose.drawing/color) structure.
-
-**Returns:**
-int - The green component value of this [Color](../../com.aspose.drawing/color).
-### getB() {#getB--}
-```
-public final int getB()
-```
-
-
-Gets the blue component value of this [Color](../../com.aspose.drawing/color) structure.
-
-**Returns:**
-int - The blue component value of this [Color](../../com.aspose.drawing/color).
-### isKnownColor() {#isKnownColor--}
-```
-public final boolean isKnownColor()
-```
-
-
-Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a predefined color. Predefined colors are represented by the elements of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration.
-
-Value: `true` if this [Color](../../com.aspose.drawing/color) was created from a predefined color by using either the `M:Color.FromName(System.String)` method or the `M:Color.FromKnownColor(System.Drawing.KnownColor)` method; otherwise, `false`.
-
-**Returns:**
-boolean - a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a predefined color.
-### isEmpty() {#isEmpty--}
-```
-public final boolean isEmpty()
-```
-
-
-Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is uninitialized.
-
-Value: This property returns true if this color is uninitialized; otherwise, false.
-
-**Returns:**
-boolean - a value indicating whether this [Color](../../com.aspose.drawing/color) structure is uninitialized.
-### isNamedColor() {#isNamedColor--}
-```
-public final boolean isNamedColor()
-```
-
-
-Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a named color or a member of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration.
-
-Value: `true` if this [Color](../../com.aspose.drawing/color) was created by using either the `M:Color.FromName(System.String)` method or the `M:Color.FromKnownColor(System.Drawing.KnownColor)` method; otherwise, `false`.
-
-**Returns:**
-boolean - a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a named color or a member of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration.
-### isSystemColor() {#isSystemColor--}
-```
-public final boolean isSystemColor()
-```
-
-
-Gets a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a system color. A system color is a color that is used in a Windows display element. System colors are represented by elements of the [KnownColor](../../com.aspose.drawing/knowncolor) enumeration.
-
-Value: `true` if this [Color](../../com.aspose.drawing/color) was created from a system color by using either the `M:Color.FromName(System.String)` method or the `M:Color.FromKnownColor(System.Drawing.KnownColor)` method; otherwise, `false`.
-
-**Returns:**
-boolean - a value indicating whether this [Color](../../com.aspose.drawing/color) structure is a system color.
-### getName() {#getName--}
-```
-public final String getName()
-```
-
-
-Gets the name of this [Color](../../com.aspose.drawing/color).
-
-**Returns:**
-java.lang.String - the name of this [Color](../../com.aspose.drawing/color).
 ### equals(Color other) {#equals-com.aspose.drawing.Color-}
 ```
 public final boolean equals(Color other)
@@ -1977,6 +1951,32 @@ Returns a hash code for this instance.
 
 **Returns:**
 int - A hash code for this instance, suitable for use in hashing algorithms and data structures like a hash table.
+### isEquals(Color obj1, Color obj2) {#isEquals-com.aspose.drawing.Color-com.aspose.drawing.Color-}
+```
+public static boolean isEquals(Color obj1, Color obj2)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj1 | [Color](../../com.aspose.drawing/color) |  |
+| obj2 | [Color](../../com.aspose.drawing/color) |  |
+
+**Returns:**
+boolean
+### getEmpty() {#getEmpty--}
+```
+public static Color getEmpty()
+```
+
+
+
+
+**Returns:**
+[Color](../../com.aspose.drawing/color)
 ### CloneTo(Color that) {#CloneTo-com.aspose.drawing.Color-}
 ```
 public void CloneTo(Color that)

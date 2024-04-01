@@ -40,7 +40,7 @@ Provides a callback method for deciding when the `DrawImage` method should prema
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| callbackdata | com.aspose.ms.System.IntPtr | Internal pointer that specifies data for the callback method. This parameter is not passed by all `DrawImage` overloads. You can test for its absence by checking for the value `F:System.IntPtr.Zero`. |
+| callbackdata | com.aspose.ms.System.IntPtr | Internal pointer that specifies data for the callback method. This parameter is not passed by all `DrawImage` overloads. You can test for its absence by checking for the value `System.IntPtr.Zero`. |
 
 **Returns:**
 boolean - This method returns true if it decides that the `DrawImage` method should prematurely stop execution. Otherwise it returns false to indicate that the `DrawImage` method should continue execution.

@@ -46,7 +46,7 @@ Initializes a new instance of the [Blend](../../com.aspose.drawing.drawing2d/ble
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| count | int | The number of elements in the `P:Blend.Factors` and `P:Blend.Positions` arrays. |
+| count | int | The number of elements in the `Blend.Factors` and `Blend.Positions` arrays. |
 
 ### getFactors() {#getFactors--}
 ```

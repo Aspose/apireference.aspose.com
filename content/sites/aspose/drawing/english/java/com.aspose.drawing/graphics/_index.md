@@ -3,7 +3,7 @@ title: Graphics
 second_title: Aspose.Drawing for Java API Reference
 description: Encapsulates drawing surface.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.drawing/graphics/
 ---
 **Inheritance:**
@@ -244,8 +244,6 @@ Encapsulates drawing surface.
 | [enumerateMetafile(Metafile metafile, RectangleF destRect, RectangleF srcRect, int srcUnit, Graphics.EnumerateMetafileProcByte callback, byte[] bytes)](#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.RectangleF-com.aspose.drawing.RectangleF-int-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---) | Sends the records of a selected rectangle from a [Metafile](../../com.aspose.drawing.imaging/metafile), one at a time, to a callback method for display in a specified rectangle. |
 | [enumerateMetafile(Metafile metafile, Rectangle destRect, Graphics.EnumerateMetafileProcByte callback, byte[] callbackData, ImageAttributes imageAttr)](#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.Rectangle-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---com.aspose.drawing.imaging.ImageAttributes-) | Sends the records of the specified [Metafile](../../com.aspose.drawing.imaging/metafile), one at a time, to a callback method for display in a specified rectangle using specified image attributes. |
 | [addMetafileComment(byte[] data)](#addMetafileComment-byte---) | Adds a comment to the current [Metafile](../../com.aspose.drawing.imaging/metafile). |
-| [beginUpdate()](#beginUpdate--) |  |
-| [endUpdate()](#endUpdate--) |  |
 | [getImage()](#getImage--) |  |
 ### fromImage(Image image) {#fromImage-com.aspose.drawing.Image-}
 ```
@@ -548,7 +546,7 @@ public final int getPageUnit()
 Gets the unit of measure used for page coordinates in this [Graphics](../../com.aspose.drawing/graphics).
 
 **Returns:**
-int - One of the [GraphicsUnit](../../com.aspose.drawing/graphicsunit) values other than `F:GraphicsUnit.World`.
+int - One of the [GraphicsUnit](../../com.aspose.drawing/graphicsunit) values other than `GraphicsUnit.World`.
 ### setPageUnit(int value) {#setPageUnit-int-}
 ```
 public final void setPageUnit(int value)
@@ -2255,7 +2253,7 @@ Measures the specified string when drawn with the specified [Font](../../com.asp
 | font | [Font](../../com.aspose.drawing/font) | [Font](../../com.aspose.drawing/font) that defines the text format of the string. |
 
 **Returns:**
-[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `P:Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter.
+[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter.
 ### measureString(String text, Font font, SizeF layoutArea) {#measureString-java.lang.String-com.aspose.drawing.Font-com.aspose.drawing.SizeF-}
 ```
 public final SizeF measureString(String text, Font font, SizeF layoutArea)
@@ -2272,7 +2270,7 @@ Measures the specified string when drawn with the specified [Font](../../com.asp
 | layoutArea | [SizeF](../../com.aspose.drawing/sizef) | [SizeF](../../com.aspose.drawing/sizef) structure that specifies the maximum layout area for the text. |
 
 **Returns:**
-[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `P:Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter.
+[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter.
 ### measureString(String text, Font font, int width) {#measureString-java.lang.String-com.aspose.drawing.Font-int-}
 ```
 public final SizeF measureString(String text, Font font, int width)
@@ -2289,7 +2287,7 @@ Measures the specified string when drawn with the specified [Font](../../com.asp
 | width | int | Maximum width of the string in pixels. |
 
 **Returns:**
-[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `P:Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter.
+[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter.
 ### measureString(String text, Font font, PointF origin, StringFormat stringFormat) {#measureString-java.lang.String-com.aspose.drawing.Font-com.aspose.drawing.PointF-com.aspose.drawing.StringFormat-}
 ```
 public final SizeF measureString(String text, Font font, PointF origin, StringFormat stringFormat)
@@ -2307,7 +2305,7 @@ Measures the specified string when drawn with the specified [Font](../../com.asp
 | stringFormat | [StringFormat](../../com.aspose.drawing/stringformat) | [StringFormat](../../com.aspose.drawing/stringformat) that represents formatting information, such as line spacing, for the string. |
 
 **Returns:**
-[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `P:Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter and the `stringFormat` parameter.
+[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `Graphics.PageUnit` property, of the string specified by the `text` parameter as drawn with the `font` parameter and the `stringFormat` parameter.
 ### measureString(String text, Font font, int width, StringFormat format) {#measureString-java.lang.String-com.aspose.drawing.Font-int-com.aspose.drawing.StringFormat-}
 ```
 public final SizeF measureString(String text, Font font, int width, StringFormat format)
@@ -2325,7 +2323,7 @@ Measures the specified string when drawn with the specified [Font](../../com.asp
 | format | [StringFormat](../../com.aspose.drawing/stringformat) | [StringFormat](../../com.aspose.drawing/stringformat) that represents formatting information, such as line spacing, for the string. |
 
 **Returns:**
-[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `P:Graphics.PageUnit` property, of the string specified in the `text` parameter as drawn with the `font` parameter and the `format` parameter.
+[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `Graphics.PageUnit` property, of the string specified in the `text` parameter as drawn with the `font` parameter and the `format` parameter.
 ### measureString(String text, Font font, SizeF layoutArea, StringFormat stringFormat) {#measureString-java.lang.String-com.aspose.drawing.Font-com.aspose.drawing.SizeF-com.aspose.drawing.StringFormat-}
 ```
 public final SizeF measureString(String text, Font font, SizeF layoutArea, StringFormat stringFormat)
@@ -2343,7 +2341,7 @@ Measures the specified string when drawn with the specified [Font](../../com.asp
 | stringFormat | [StringFormat](../../com.aspose.drawing/stringformat) | [StringFormat](../../com.aspose.drawing/stringformat) that represents formatting information, such as line spacing, for the string. |
 
 **Returns:**
-[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `P:Graphics.PageUnit` property, of the string specified in the `text` parameter as drawn with the `font` parameter and the `stringFormat` parameter.
+[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `Graphics.PageUnit` property, of the string specified in the `text` parameter as drawn with the `font` parameter and the `stringFormat` parameter.
 ### measureString(String text, Font font, SizeF layoutArea, StringFormat stringFormat, int[] charactersFitted, int[] linesFilled) {#measureString-java.lang.String-com.aspose.drawing.Font-com.aspose.drawing.SizeF-com.aspose.drawing.StringFormat-int---int---}
 ```
 public final SizeF measureString(String text, Font font, SizeF layoutArea, StringFormat stringFormat, int[] charactersFitted, int[] linesFilled)
@@ -2363,7 +2361,7 @@ Measures the specified string when drawn with the specified [Font](../../com.asp
 | linesFilled | int[] | Number of text lines in the string. |
 
 **Returns:**
-[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `P:Graphics.PageUnit` property, of the string specified in the `text` parameter as drawn with the `font` parameter and the `stringFormat` parameter.
+[SizeF](../../com.aspose.drawing/sizef) - This method returns a [SizeF](../../com.aspose.drawing/sizef) structure that represents the size, in the units specified by the `Graphics.PageUnit` property, of the string specified in the `text` parameter as drawn with the `font` parameter and the `stringFormat` parameter.
 ### measureCharacterRanges(String text, Font font, RectangleF layoutRect, StringFormat stringFormat) {#measureCharacterRanges-java.lang.String-com.aspose.drawing.Font-com.aspose.drawing.RectangleF-com.aspose.drawing.StringFormat-}
 ```
 public final Region[] measureCharacterRanges(String text, Font font, RectangleF layoutRect, StringFormat stringFormat)
@@ -2971,7 +2969,7 @@ Sends the records in the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destPoint | [PointF](../../com.aspose.drawing/pointf) | [PointF](../../com.aspose.drawing/pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass byte[]\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 | imageAttr | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
 
 ### enumerateMetafile(Metafile metafile, PointF destPoint, Graphics.EnumerateMetafileProcByte callback, byte[] callbackData) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.PointF-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---}
@@ -2988,7 +2986,7 @@ Sends the records in the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destPoint | [PointF](../../com.aspose.drawing/pointf) | [PointF](../../com.aspose.drawing/pointf) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass byte[]\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 
 ### enumerateMetafile(Metafile metafile, PointF[] destPoints, Graphics.EnumerateMetafileProcByte callback) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.PointF---com.aspose.drawing.Graphics.EnumerateMetafileProcByte-}
 ```
@@ -3050,7 +3048,7 @@ Sends the records in the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destPoint | [Point](../../com.aspose.drawing/point) | [Point](../../com.aspose.drawing/point) structure that specifies the location of the upper-left corner of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 | imageAttr | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
 
 ### enumerateMetafile(Metafile metafile, RectangleF destRect, Graphics.EnumerateMetafileProcByte callback) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.RectangleF-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-}
@@ -3082,7 +3080,7 @@ Sends the records of the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destRect | [RectangleF](../../com.aspose.drawing/rectanglef) | [RectangleF](../../com.aspose.drawing/rectanglef) structure that specifies the location and size of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 
 ### enumerateMetafile(Metafile metafile, RectangleF destRect, Graphics.EnumerateMetafileProcByte callback, byte[] callbackData, ImageAttributes imageAttr) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.RectangleF-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---com.aspose.drawing.imaging.ImageAttributes-}
 ```
@@ -3098,7 +3096,7 @@ Sends the records of the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destRect | [RectangleF](../../com.aspose.drawing/rectanglef) | [RectangleF](../../com.aspose.drawing/rectanglef) structure that specifies the location and size of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 | imageAttr | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
 
 ### enumerateMetafile(Metafile metafile, Rectangle destRect, Graphics.EnumerateMetafileProcByte callback) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.Rectangle-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-}
@@ -3145,7 +3143,7 @@ Sends the records in the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destPoints | [PointF\[\]](../../com.aspose.drawing/pointf) | Array of three [PointF](../../com.aspose.drawing/pointf) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 
 ### enumerateMetafile(Metafile metafile, Point[] destPoints, Graphics.EnumerateMetafileProcByte callback, byte[] callbackData) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.Point---com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---}
 ```
@@ -3161,7 +3159,7 @@ Sends the records in the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destPoints | [Point\[\]](../../com.aspose.drawing/point) | Array of three [Point](../../com.aspose.drawing/point) structures that define a parallelogram that determines the size and location of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 
 ### enumerateMetafile(Metafile metafile, Point[] destPoints, Graphics.EnumerateMetafileProcByte callback) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.Point---com.aspose.drawing.Graphics.EnumerateMetafileProcByte-}
 ```
@@ -3194,7 +3192,7 @@ Sends the records in a selected rectangle from a [Metafile](../../com.aspose.dra
 | srcRect | [Rectangle](../../com.aspose.drawing/rectangle) | [Rectangle](../../com.aspose.drawing/rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | int | Member of the[GraphicsUnit](../../com.aspose.drawing/graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the `srcRect` parameter contains. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 | imageAttr | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
 
 ### enumerateMetafile(Metafile metafile, Point[] destPoints, Rectangle srcRect, int srcUnit, Graphics.EnumerateMetafileProcByte callback, byte[] callbackData) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.Point---com.aspose.drawing.Rectangle-int-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---}
@@ -3213,7 +3211,7 @@ Sends the records in a selected rectangle from a [Metafile](../../com.aspose.dra
 | srcRect | [Rectangle](../../com.aspose.drawing/rectangle) | [Rectangle](../../com.aspose.drawing/rectangle) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | srcUnit | int | Member of the[GraphicsUnit](../../com.aspose.drawing/graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the `srcRect` parameter contains. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 
 ### enumerateMetafile(Metafile metafile, Point[] destPoints, Rectangle srcRect, int srcUnit, Graphics.EnumerateMetafileProcByte callback) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.Point---com.aspose.drawing.Rectangle-int-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-}
 ```
@@ -3248,7 +3246,7 @@ Sends the records in a selected rectangle from a [Metafile](../../com.aspose.dra
 | srcRect | [RectangleF](../../com.aspose.drawing/rectanglef) | [RectangleF](../../com.aspose.drawing/rectanglef) structure that specifies the portion of the metafile, relative to its upper-left corner, to draw. |
 | unit | int | Member of the[GraphicsUnit](../../com.aspose.drawing/graphicsunit) enumeration that specifies the unit of measure used to determine the portion of the metafile that the rectangle specified by the `srcRect` parameter contains. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 | imageAttr | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
 
 ### enumerateMetafile(Metafile metafile, PointF[] destPoints, RectangleF srcRect, int srcUnit, Graphics.EnumerateMetafileProcByte callback, byte[] bytes) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.PointF---com.aspose.drawing.RectangleF-int-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---}
@@ -3461,7 +3459,7 @@ Sends the records of the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destRect | [Rectangle](../../com.aspose.drawing/rectangle) | [RectangleF](../../com.aspose.drawing/rectanglef) structure that specifies the location and size of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 
 ### enumerateMetafile(Metafile metafile, PointF destPoint, RectangleF srcRect, int unit, Graphics.EnumerateMetafileProcByte callback, byte[] bytes, ImageAttributes imageAttr) {#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.PointF-com.aspose.drawing.RectangleF-int-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---com.aspose.drawing.imaging.ImageAttributes-}
 ```
@@ -3566,7 +3564,7 @@ Sends the records of the specified [Metafile](../../com.aspose.drawing.imaging/m
 | metafile | [Metafile](../../com.aspose.drawing.imaging/metafile) | [Metafile](../../com.aspose.drawing.imaging/metafile) to enumerate. |
 | destRect | [Rectangle](../../com.aspose.drawing/rectangle) | [Rectangle](../../com.aspose.drawing/rectangle) structure that specifies the location and size of the drawn metafile. |
 | callback | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) | [EnumerateMetafileProcByte](../../com.aspose.drawing/enumeratemetafileprocbyte) delegate that specifies the method to which the metafile records are sent. |
-| callbackData | byte[] | Internal pointer that is required, but ignored. You can pass IntPtr\#Zero.Zero for this parameter. |
+| callbackData | byte[] |  |
 | imageAttr | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) | [ImageAttributes](../../com.aspose.drawing.imaging/imageattributes) that specifies image attribute information for the drawn image. |
 
 ### addMetafileComment(byte[] data) {#addMetafileComment-byte---}
@@ -3581,22 +3579,6 @@ Adds a comment to the current [Metafile](../../com.aspose.drawing.imaging/metafi
 | Parameter | Type | Description |
 | --- | --- | --- |
 | data | byte[] | Array of bytes that contains the comment. |
-
-### beginUpdate() {#beginUpdate--}
-```
-public void beginUpdate()
-```
-
-
-
-
-### endUpdate() {#endUpdate--}
-```
-public void endUpdate()
-```
-
-
-
 
 ### getImage() {#getImage--}
 ```

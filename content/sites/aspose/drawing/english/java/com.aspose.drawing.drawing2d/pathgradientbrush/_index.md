@@ -26,29 +26,29 @@ Encapsulates a [Brush](../../com.aspose.drawing/brush) object that fills the int
 
 | Method | Description |
 | --- | --- |
-| [getCenterColor()](#getCenterColor--) | Gets the color at the center of the path gradient. |
-| [setCenterColor(Color value)](#setCenterColor-com.aspose.drawing.Color-) | Sets the color at the center of the path gradient. |
-| [getSurroundColors()](#getSurroundColors--) | Gets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills. |
-| [setSurroundColors(Color[] value)](#setSurroundColors-com.aspose.drawing.Color---) | Sets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills. |
-| [getCenterPoint()](#getCenterPoint--) | Gets the center point of the path gradient. |
-| [setCenterPoint(PointF value)](#setCenterPoint-com.aspose.drawing.PointF-) | Sets the center point of the path gradient. |
+| [getCenterColor()](#getCenterColor--) | Gets or sets the color at the center of the path gradient. |
+| [setCenterColor(Color value)](#setCenterColor-com.aspose.drawing.Color-) | Gets or sets the color at the center of the path gradient. |
+| [getSurroundColors()](#getSurroundColors--) | Gets or sets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills. |
+| [setSurroundColors(Color[] value)](#setSurroundColors-com.aspose.drawing.Color---) | Gets or sets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills. |
+| [getCenterPoint()](#getCenterPoint--) | Gets or sets the center point of the path gradient. |
+| [setCenterPoint(PointF value)](#setCenterPoint-com.aspose.drawing.PointF-) | Gets or sets the center point of the path gradient. |
 | [getRectangle()](#getRectangle--) | Gets a bounding rectangle for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
-| [getBlend()](#getBlend--) | Gets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
-| [setBlend(Blend value)](#setBlend-com.aspose.drawing.drawing2d.Blend-) | Sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
-| [getInterpolationColors()](#getInterpolationColors--) | Gets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
-| [setInterpolationColors(ColorBlend value)](#setInterpolationColors-com.aspose.drawing.drawing2d.ColorBlend-) | Sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
-| [getTransform()](#getTransform--) | Gets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
-| [setTransform(Matrix value)](#setTransform-com.aspose.drawing.drawing2d.Matrix-) | Sets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
-| [getFocusScales()](#getFocusScales--) | Gets the focus point for the gradient falloff. |
-| [setFocusScales(PointF value)](#setFocusScales-com.aspose.drawing.PointF-) | Sets the focus point for the gradient falloff. |
-| [getWrapMode()](#getWrapMode--) | Gets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
-| [setWrapMode(int value)](#setWrapMode-int-) | Sets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
+| [getBlend()](#getBlend--) | Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
+| [setBlend(Blend value)](#setBlend-com.aspose.drawing.drawing2d.Blend-) | Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
+| [getInterpolationColors()](#getInterpolationColors--) | Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
+| [setInterpolationColors(ColorBlend value)](#setInterpolationColors-com.aspose.drawing.drawing2d.ColorBlend-) | Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
+| [getTransform()](#getTransform--) | Gets or sets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
+| [setTransform(Matrix value)](#setTransform-com.aspose.drawing.drawing2d.Matrix-) | Gets or sets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
+| [getFocusScales()](#getFocusScales--) | Gets or sets the focus point for the gradient falloff. |
+| [setFocusScales(PointF value)](#setFocusScales-com.aspose.drawing.PointF-) | Gets or sets the focus point for the gradient falloff. |
+| [getWrapMode()](#getWrapMode--) | Gets or sets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
+| [setWrapMode(int value)](#setWrapMode-int-) | Gets or sets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
 | [deepClone()](#deepClone--) | Creates an exact copy of this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
 | [setSigmaBellShape(float focus)](#setSigmaBellShape-float-) | Creates a gradient brush that changes color starting from the center of the path outward to the path's boundary. |
 | [setSigmaBellShape(float focus, float scale)](#setSigmaBellShape-float-float-) | Creates a gradient brush that changes color starting from the center of the path outward to the path's boundary. |
 | [setBlendTriangularShape(float focus)](#setBlendTriangularShape-float-) | Creates a gradient with a center color and a linear falloff to one surrounding color. |
 | [setBlendTriangularShape(float focus, float scale)](#setBlendTriangularShape-float-float-) | Creates a gradient with a center color and a linear falloff to each surrounding color. |
-| [resetTransform()](#resetTransform--) | Resets the `P:PathGradientBrush.Transform` property to identity. |
+| [resetTransform()](#resetTransform--) | Resets the `PathGradientBrush.Transform` property to identity. |
 | [multiplyTransform(Matrix matrix)](#multiplyTransform-com.aspose.drawing.drawing2d.Matrix-) | Updates the brush's transformation matrix with the product of brush's transformation matrix multiplied by another matrix. |
 | [multiplyTransform(Matrix matrix, int order)](#multiplyTransform-com.aspose.drawing.drawing2d.Matrix-int-) | Updates the brush's transformation matrix with the product of the brush's transformation matrix multiplied by another matrix. |
 | [translateTransform(float dx, float dy)](#translateTransform-float-float-) | Applies the specified translation to the local geometric transform. |
@@ -130,22 +130,22 @@ public Color getCenterColor()
 ```
 
 
-Gets the color at the center of the path gradient.
+Gets or sets the color at the center of the path gradient.
 
 **Returns:**
-[Color](../../com.aspose.drawing/color) - the color at the center of the path gradient.
+[Color](../../com.aspose.drawing/color)
 ### setCenterColor(Color value) {#setCenterColor-com.aspose.drawing.Color-}
 ```
 public void setCenterColor(Color value)
 ```
 
 
-Sets the color at the center of the path gradient.
+Gets or sets the color at the center of the path gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Color](../../com.aspose.drawing/color) | the color at the center of the path gradient. |
+| value | [Color](../../com.aspose.drawing/color) |  |
 
 ### getSurroundColors() {#getSurroundColors--}
 ```
@@ -153,22 +153,22 @@ public Color[] getSurroundColors()
 ```
 
 
-Gets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills.
+Gets or sets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills.
 
 **Returns:**
-com.aspose.drawing.Color[] - an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills.
+com.aspose.drawing.Color[]
 ### setSurroundColors(Color[] value) {#setSurroundColors-com.aspose.drawing.Color---}
 ```
 public void setSurroundColors(Color[] value)
 ```
 
 
-Sets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills.
+Gets or sets an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Color\[\]](../../com.aspose.drawing/color) | an array of colors that correspond to the points in the path this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush) fills. |
+| value | [Color\[\]](../../com.aspose.drawing/color) |  |
 
 ### getCenterPoint() {#getCenterPoint--}
 ```
@@ -176,22 +176,22 @@ public PointF getCenterPoint()
 ```
 
 
-Gets the center point of the path gradient.
+Gets or sets the center point of the path gradient.
 
 **Returns:**
-[PointF](../../com.aspose.drawing/pointf) - the center point of the path gradient.
+[PointF](../../com.aspose.drawing/pointf)
 ### setCenterPoint(PointF value) {#setCenterPoint-com.aspose.drawing.PointF-}
 ```
 public void setCenterPoint(PointF value)
 ```
 
 
-Sets the center point of the path gradient.
+Gets or sets the center point of the path gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [PointF](../../com.aspose.drawing/pointf) | the center point of the path gradient. |
+| value | [PointF](../../com.aspose.drawing/pointf) |  |
 
 ### getRectangle() {#getRectangle--}
 ```
@@ -202,29 +202,29 @@ public RectangleF getRectangle()
 Gets a bounding rectangle for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
 
 **Returns:**
-[RectangleF](../../com.aspose.drawing/rectanglef) - a bounding rectangle for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
+[RectangleF](../../com.aspose.drawing/rectanglef)
 ### getBlend() {#getBlend--}
 ```
 public Blend getBlend()
 ```
 
 
-Gets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
+Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
 
 **Returns:**
-[Blend](../../com.aspose.drawing.drawing2d/blend) - a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
+[Blend](../../com.aspose.drawing.drawing2d/blend)
 ### setBlend(Blend value) {#setBlend-com.aspose.drawing.drawing2d.Blend-}
 ```
 public void setBlend(Blend value)
 ```
 
 
-Sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
+Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Blend](../../com.aspose.drawing.drawing2d/blend) | a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
+| value | [Blend](../../com.aspose.drawing.drawing2d/blend) |  |
 
 ### getInterpolationColors() {#getInterpolationColors--}
 ```
@@ -232,22 +232,22 @@ public ColorBlend getInterpolationColors()
 ```
 
 
-Gets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
+Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
 
 **Returns:**
-[ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) - a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
+[ColorBlend](../../com.aspose.drawing.drawing2d/colorblend)
 ### setInterpolationColors(ColorBlend value) {#setInterpolationColors-com.aspose.drawing.drawing2d.ColorBlend-}
 ```
 public void setInterpolationColors(ColorBlend value)
 ```
 
 
-Sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
+Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) | a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
+| value | [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) |  |
 
 ### getTransform() {#getTransform--}
 ```
@@ -255,22 +255,22 @@ public Matrix getTransform()
 ```
 
 
-Gets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
+Gets or sets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
 
 **Returns:**
-[Matrix](../../com.aspose.drawing.drawing2d/matrix) - a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
+[Matrix](../../com.aspose.drawing.drawing2d/matrix)
 ### setTransform(Matrix value) {#setTransform-com.aspose.drawing.drawing2d.Matrix-}
 ```
 public void setTransform(Matrix value)
 ```
 
 
-Sets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
+Gets or sets a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Matrix](../../com.aspose.drawing.drawing2d/matrix) | a copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
+| value | [Matrix](../../com.aspose.drawing.drawing2d/matrix) |  |
 
 ### getFocusScales() {#getFocusScales--}
 ```
@@ -278,22 +278,22 @@ public PointF getFocusScales()
 ```
 
 
-Gets the focus point for the gradient falloff.
+Gets or sets the focus point for the gradient falloff.
 
 **Returns:**
-[PointF](../../com.aspose.drawing/pointf) - the focus point for the gradient falloff.
+[PointF](../../com.aspose.drawing/pointf)
 ### setFocusScales(PointF value) {#setFocusScales-com.aspose.drawing.PointF-}
 ```
 public void setFocusScales(PointF value)
 ```
 
 
-Sets the focus point for the gradient falloff.
+Gets or sets the focus point for the gradient falloff.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [PointF](../../com.aspose.drawing/pointf) | the focus point for the gradient falloff. |
+| value | [PointF](../../com.aspose.drawing/pointf) |  |
 
 ### getWrapMode() {#getWrapMode--}
 ```
@@ -301,22 +301,22 @@ public int getWrapMode()
 ```
 
 
-Gets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
+Gets or sets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
 
 **Returns:**
-int - a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
+int
 ### setWrapMode(int value) {#setWrapMode-int-}
 ```
 public void setWrapMode(int value)
 ```
 
 
-Sets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
+Gets or sets a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | a `WrapMode`([.getWrapMode](../../null/\#getWrapMode)/[.setWrapMode(int)](../../null/\#setWrapMode-int-)) that indicates the wrap mode for this [PathGradientBrush](../../com.aspose.drawing.drawing2d/pathgradientbrush). |
+| value | int |  |
 
 ### deepClone() {#deepClone--}
 ```
@@ -388,7 +388,7 @@ public void resetTransform()
 ```
 
 
-Resets the `P:PathGradientBrush.Transform` property to identity.
+Resets the `PathGradientBrush.Transform` property to identity.
 
 ### multiplyTransform(Matrix matrix) {#multiplyTransform-com.aspose.drawing.drawing2d.Matrix-}
 ```

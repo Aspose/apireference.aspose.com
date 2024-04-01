@@ -29,25 +29,25 @@ Encapsulates a [Brush](../../com.aspose.drawing/brush) with a linear gradient. T
 
 | Method | Description |
 | --- | --- |
-| [getLinearColors()](#getLinearColors--) | Gets the starting and ending colors of the gradient. |
-| [setLinearColors(Color[] value)](#setLinearColors-com.aspose.drawing.Color---) | Sets the starting and ending colors of the gradient. |
+| [getLinearColors()](#getLinearColors--) | Gets or sets the starting and ending colors of the gradient. |
+| [setLinearColors(Color[] value)](#setLinearColors-com.aspose.drawing.Color---) | Gets or sets the starting and ending colors of the gradient. |
 | [getRectangle()](#getRectangle--) | Gets a rectangular region that defines the starting and ending points of the gradient. |
-| [getGammaCorrection()](#getGammaCorrection--) | Gets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
-| [setGammaCorrection(boolean value)](#setGammaCorrection-boolean-) | Sets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
-| [getBlend()](#getBlend--) | Gets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
-| [setBlend(Blend value)](#setBlend-com.aspose.drawing.drawing2d.Blend-) | Sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
-| [getInterpolationColors()](#getInterpolationColors--) | Gets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
-| [setInterpolationColors(ColorBlend value)](#setInterpolationColors-com.aspose.drawing.drawing2d.ColorBlend-) | Sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
-| [getWrapMode()](#getWrapMode--) | Gets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
-| [setWrapMode(int value)](#setWrapMode-int-) | Sets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
-| [getTransform()](#getTransform--) | Gets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
-| [setTransform(Matrix value)](#setTransform-com.aspose.drawing.drawing2d.Matrix-) | Sets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| [getGammaCorrection()](#getGammaCorrection--) | Gets or sets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| [setGammaCorrection(boolean value)](#setGammaCorrection-boolean-) | Gets or sets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| [getBlend()](#getBlend--) | Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
+| [setBlend(Blend value)](#setBlend-com.aspose.drawing.drawing2d.Blend-) | Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
+| [getInterpolationColors()](#getInterpolationColors--) | Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
+| [setInterpolationColors(ColorBlend value)](#setInterpolationColors-com.aspose.drawing.drawing2d.ColorBlend-) | Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
+| [getWrapMode()](#getWrapMode--) | Gets or sets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| [setWrapMode(int value)](#setWrapMode-int-) | Gets or sets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| [getTransform()](#getTransform--) | Gets or sets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| [setTransform(Matrix value)](#setTransform-com.aspose.drawing.drawing2d.Matrix-) | Gets or sets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
 | [deepClone()](#deepClone--) | Creates an exact copy of this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
 | [setSigmaBellShape(float focus)](#setSigmaBellShape-float-) | Creates a gradient falloff based on a bell-shaped curve. |
 | [setSigmaBellShape(float focus, float scale)](#setSigmaBellShape-float-float-) | Creates a gradient falloff based on a bell-shaped curve. |
 | [setBlendTriangularShape(float focus)](#setBlendTriangularShape-float-) | Creates a linear gradient with a center color and a linear falloff to a single color on both ends. |
 | [setBlendTriangularShape(float focus, float scale)](#setBlendTriangularShape-float-float-) | Creates a linear gradient with a center color and a linear falloff to a single color on both ends. |
-| [resetTransform()](#resetTransform--) | Resets the `P:LinearGradientBrush.Transform` property to identity. |
+| [resetTransform()](#resetTransform--) | Resets the `LinearGradientBrush.Transform` property to identity. |
 | [multiplyTransform(Matrix matrix)](#multiplyTransform-com.aspose.drawing.drawing2d.Matrix-) | Multiplies the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that represents the local geometric transform of this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush) by the specified [Matrix](../../com.aspose.drawing.drawing2d/matrix) by prepending the specified [Matrix](../../com.aspose.drawing.drawing2d/matrix). |
 | [multiplyTransform(Matrix matrix, int order)](#multiplyTransform-com.aspose.drawing.drawing2d.Matrix-int-) | Multiplies the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that represents the local geometric transform of this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush) by the specified [Matrix](../../com.aspose.drawing.drawing2d/matrix) in the specified order. |
 | [translateTransform(float dx, float dy)](#translateTransform-float-float-) | Translates the local geometric transform by the specified dimensions. |
@@ -192,22 +192,22 @@ public Color[] getLinearColors()
 ```
 
 
-Gets the starting and ending colors of the gradient.
+Gets or sets the starting and ending colors of the gradient.
 
 **Returns:**
-com.aspose.drawing.Color[] - the starting and ending colors of the gradient.
+com.aspose.drawing.Color[]
 ### setLinearColors(Color[] value) {#setLinearColors-com.aspose.drawing.Color---}
 ```
 public void setLinearColors(Color[] value)
 ```
 
 
-Sets the starting and ending colors of the gradient.
+Gets or sets the starting and ending colors of the gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Color\[\]](../../com.aspose.drawing/color) | the starting and ending colors of the gradient. |
+| value | [Color\[\]](../../com.aspose.drawing/color) |  |
 
 ### getRectangle() {#getRectangle--}
 ```
@@ -218,29 +218,29 @@ public RectangleF getRectangle()
 Gets a rectangular region that defines the starting and ending points of the gradient.
 
 **Returns:**
-[RectangleF](../../com.aspose.drawing/rectanglef) - a rectangular region that defines the starting and ending points of the gradient.
+[RectangleF](../../com.aspose.drawing/rectanglef)
 ### getGammaCorrection() {#getGammaCorrection--}
 ```
 public boolean getGammaCorrection()
 ```
 
 
-Gets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+Gets or sets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
 
 **Returns:**
-boolean - a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+boolean
 ### setGammaCorrection(boolean value) {#setGammaCorrection-boolean-}
 ```
 public void setGammaCorrection(boolean value)
 ```
 
 
-Sets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+Gets or sets a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | a value indicating whether gamma correction is enabled for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| value | boolean |  |
 
 ### getBlend() {#getBlend--}
 ```
@@ -248,22 +248,22 @@ public Blend getBlend()
 ```
 
 
-Gets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
+Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
 
 **Returns:**
-[Blend](../../com.aspose.drawing.drawing2d/blend) - a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
+[Blend](../../com.aspose.drawing.drawing2d/blend)
 ### setBlend(Blend value) {#setBlend-com.aspose.drawing.drawing2d.Blend-}
 ```
 public void setBlend(Blend value)
 ```
 
 
-Sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
+Gets or sets a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Blend](../../com.aspose.drawing.drawing2d/blend) | a `Blend`([.getBlend](../../null/\#getBlend)/[.setBlend(Blend)](../../null/\#setBlend-Blend-)) that specifies positions and factors that define a custom falloff for the gradient. |
+| value | [Blend](../../com.aspose.drawing.drawing2d/blend) |  |
 
 ### getInterpolationColors() {#getInterpolationColors--}
 ```
@@ -271,22 +271,22 @@ public ColorBlend getInterpolationColors()
 ```
 
 
-Gets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
+Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
 
 **Returns:**
-[ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) - a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
+[ColorBlend](../../com.aspose.drawing.drawing2d/colorblend)
 ### setInterpolationColors(ColorBlend value) {#setInterpolationColors-com.aspose.drawing.drawing2d.ColorBlend-}
 ```
 public void setInterpolationColors(ColorBlend value)
 ```
 
 
-Sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
+Gets or sets a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) | a [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) that defines a multicolor linear gradient. |
+| value | [ColorBlend](../../com.aspose.drawing.drawing2d/colorblend) |  |
 
 ### getWrapMode() {#getWrapMode--}
 ```
@@ -294,22 +294,22 @@ public int getWrapMode()
 ```
 
 
-Gets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+Gets or sets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
 
 **Returns:**
-int - a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+int
 ### setWrapMode(int value) {#setWrapMode-int-}
 ```
 public void setWrapMode(int value)
 ```
 
 
-Sets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+Gets or sets a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | a `WrapMode` enumeration that indicates the wrap mode for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| value | int |  |
 
 ### getTransform() {#getTransform--}
 ```
@@ -317,22 +317,22 @@ public Matrix getTransform()
 ```
 
 
-Gets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+Gets or sets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
 
 **Returns:**
-[Matrix](../../com.aspose.drawing.drawing2d/matrix) - a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+[Matrix](../../com.aspose.drawing.drawing2d/matrix)
 ### setTransform(Matrix value) {#setTransform-com.aspose.drawing.drawing2d.Matrix-}
 ```
 public void setTransform(Matrix value)
 ```
 
 
-Sets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
+Gets or sets a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Matrix](../../com.aspose.drawing.drawing2d/matrix) | a copy [Matrix](../../com.aspose.drawing.drawing2d/matrix) that defines a local geometric transform for this [LinearGradientBrush](../../com.aspose.drawing.drawing2d/lineargradientbrush). |
+| value | [Matrix](../../com.aspose.drawing.drawing2d/matrix) |  |
 
 ### deepClone() {#deepClone--}
 ```
@@ -404,7 +404,7 @@ public void resetTransform()
 ```
 
 
-Resets the `P:LinearGradientBrush.Transform` property to identity.
+Resets the `LinearGradientBrush.Transform` property to identity.
 
 ### multiplyTransform(Matrix matrix) {#multiplyTransform-com.aspose.drawing.drawing2d.Matrix-}
 ```

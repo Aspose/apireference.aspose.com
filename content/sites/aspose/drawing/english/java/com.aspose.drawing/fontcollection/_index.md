@@ -3,7 +3,7 @@ title: FontCollection
 second_title: Aspose.Drawing for Java API Reference
 description: Provides a base class for installed and private font collections.
 type: docs
-weight: 21
+weight: 22
 url: /java/com.aspose.drawing/fontcollection/
 ---
 **Inheritance:**

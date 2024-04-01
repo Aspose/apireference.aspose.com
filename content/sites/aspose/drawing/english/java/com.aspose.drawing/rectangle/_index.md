@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.Drawing for Java API Reference
 description: Stores a set of four integers that represent the location and size of a rectangle.
 type: docs
-weight: 37
+weight: 38
 url: /java/com.aspose.drawing/rectangle/
 ---
 **Inheritance:**
@@ -482,7 +482,7 @@ public final boolean isEmpty()
 Gets a value indicating whether all numeric properties of this [Rectangle](../../com.aspose.drawing/rectangle) have values of zero.
 
 **Returns:**
-boolean - This property returns `true` if the `P:Rectangle.Width`, `P:Rectangle.Height`, `P:Rectangle.X`, and `P:Rectangle.Y` properties of this [Rectangle](../../com.aspose.drawing/rectangle) all have values of zero; otherwise, `false`.
+boolean - This property returns `true` if the `Rectangle.Width`, `Rectangle.Height`, `Rectangle.X`, and `Rectangle.Y` properties of this [Rectangle](../../com.aspose.drawing/rectangle) all have values of zero; otherwise, `false`.
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)

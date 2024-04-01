@@ -139,4 +139,4 @@ public UUID getGuid()
 Gets a globally unique identifier (GUID) that identifies an image encoder parameter category.
 
 **Returns:**
-java.util.UUID - a globally unique identifier (GUID) that identifies an image encoder parameter category.
+java.util.UUID

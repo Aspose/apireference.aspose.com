@@ -51,7 +51,7 @@ public static FrameDimension getTime()
 Gets the time dimension.
 
 **Returns:**
-[FrameDimension](../../com.aspose.drawing.imaging/framedimension) - the time dimension.
+[FrameDimension](../../com.aspose.drawing.imaging/framedimension)
 ### getResolution() {#getResolution--}
 ```
 public static FrameDimension getResolution()
@@ -61,7 +61,7 @@ public static FrameDimension getResolution()
 Gets the resolution dimension.
 
 **Returns:**
-[FrameDimension](../../com.aspose.drawing.imaging/framedimension) - the resolution dimension.
+[FrameDimension](../../com.aspose.drawing.imaging/framedimension)
 ### getPage() {#getPage--}
 ```
 public static FrameDimension getPage()
@@ -71,7 +71,7 @@ public static FrameDimension getPage()
 Gets the page dimension.
 
 **Returns:**
-[FrameDimension](../../com.aspose.drawing.imaging/framedimension) - the page dimension.
+[FrameDimension](../../com.aspose.drawing.imaging/framedimension)
 ### getGuid() {#getGuid--}
 ```
 public UUID getGuid()
@@ -81,7 +81,7 @@ public UUID getGuid()
 Gets a globally unique identifier (GUID) that represents this [FrameDimension](../../com.aspose.drawing.imaging/framedimension) object.
 
 **Returns:**
-java.util.UUID - a globally unique identifier (GUID) that represents this [FrameDimension](../../com.aspose.drawing.imaging/framedimension) object.
+java.util.UUID
 ### equals(Object o) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object o)

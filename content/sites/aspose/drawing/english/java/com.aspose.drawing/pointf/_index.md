@@ -3,7 +3,7 @@ title: PointF
 second_title: Aspose.Drawing for Java API Reference
 description: Represents an ordered pair of floating-point x- and y-coordinates that defines a point in a two-dimensional plane.
 type: docs
-weight: 36
+weight: 37
 url: /java/com.aspose.drawing/pointf/
 ---
 **Inheritance:**
@@ -140,7 +140,7 @@ public static boolean op_Equality(PointF left, PointF right)
 ```
 
 
-Compares two [PointF](../../com.aspose.drawing/pointf) structures. The result specifies whether the values of the `P:PointF.X` and `P:PointF.Y` properties of the two [PointF](../../com.aspose.drawing/pointf) structures are equal.
+Compares two [PointF](../../com.aspose.drawing/pointf) structures. The result specifies whether the values of the `PointF.X` and `PointF.Y` properties of the two [PointF](../../com.aspose.drawing/pointf) structures are equal.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -149,7 +149,7 @@ Compares two [PointF](../../com.aspose.drawing/pointf) structures. The result sp
 | right | [PointF](../../com.aspose.drawing/pointf) | Second [PointF](../../com.aspose.drawing/pointf) to compare. |
 
 **Returns:**
-boolean - true if the `P:PointF.X` and `P:PointF.Y` values of the left and right [PointF](../../com.aspose.drawing/pointf) structures are equal; otherwise, false.
+boolean - true if the `PointF.X` and `PointF.Y` values of the left and right [PointF](../../com.aspose.drawing/pointf) structures are equal; otherwise, false.
 ### op_Inequality(PointF left, PointF right) {#op-Inequality-com.aspose.drawing.PointF-com.aspose.drawing.PointF-}
 ```
 public static boolean op_Inequality(PointF left, PointF right)
@@ -165,7 +165,7 @@ Determines whether the coordinates of the specified points are not equal.
 | right | [PointF](../../com.aspose.drawing/pointf) | Second [PointF](../../com.aspose.drawing/pointf) to compare. |
 
 **Returns:**
-boolean - true to indicate the `P:PointF.X` and `P:PointF.Y` values of `left` and `right` are not equal; otherwise, false.
+boolean - true to indicate the `PointF.X` and `PointF.Y` values of `left` and `right` are not equal; otherwise, false.
 ### add(PointF orig, Size size) {#add-com.aspose.drawing.PointF-com.aspose.drawing.Size-}
 ```
 public static PointF add(PointF orig, Size size)
