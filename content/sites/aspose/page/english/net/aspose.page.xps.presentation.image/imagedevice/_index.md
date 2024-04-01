@@ -28,6 +28,7 @@ public class ImageDevice : Device, IMultiPageDevice
 | --- | --- |
 | virtual [CurrentPageNumber](../../aspose.page.xps.presentation.image/imagedevice/currentpagenumber/) { get; } | Returns the absolute number of the current page within the document. |
 | virtual [CurrentRelativePageNumber](../../aspose.page.xps.presentation.image/imagedevice/currentrelativepagenumber/) { get; } | Returns the relative number of the current page within the current partition. |
+| [Result](../../aspose.page.xps.presentation.image/imagedevice/result/) { get; } | Returns the resulting images byte arrays. The first dimension is for inner documents and the second one is for pages within inner documents. |
 
 ## Methods
 
