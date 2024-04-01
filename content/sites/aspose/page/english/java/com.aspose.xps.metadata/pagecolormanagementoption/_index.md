@@ -13,6 +13,7 @@ public static final class PageColorManagement.PageColorManagementOption extends 
 ```
 
 Describes the  PageColorManagement  feature options.
+
 ## Fields
 
 | Field | Description |

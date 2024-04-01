@@ -13,6 +13,7 @@ public static final class PageOutputQuality.PageOutputQualityOption extends Opti
 ```
 
 Defines  PageOutputQuality  feature options.
+
 ## Fields
 
 | Field | Description |

@@ -16,6 +16,7 @@ public class ScoredProperty extends CompositePrintTicketElement implements IOpti
 ```
 
 The class that implements a common PrintTicket  ScoredProperty . The base class for all schema-defined scored properties. A  ScoredProperty  element declares a property that is intrinsic to an  Option  definition. Such properties should be compared when evaluating how closely a requested  Option  matches a device-supported  Option . https://docs.microsoft.com/en-us/windows/win32/printdocs/scoredproperty
+
 ## Constructors
 
 | Constructor | Description |
@@ -49,7 +50,6 @@ Creates a new instance.
 | --- | --- | --- |
 | name | java.lang.String | A property name. |
 | parameterRef | [ParameterRef](../../com.aspose.xps.metadata/parameterref) | A  ParameterRef  instance. |
-
 ### ScoredProperty(String name, Value value, IScoredPropertyItem[] items) {#ScoredProperty-java.lang.String-com.aspose.xps.metadata.Value-com.aspose.xps.metadata.IScoredPropertyItem...-}
 ```
 public ScoredProperty(String name, Value value, IScoredPropertyItem[] items)

@@ -5,7 +5,8 @@ description: Defines the interface for setting page numbers for conversion.
 type: docs
 weight: 23
 url: /java/com.aspose.page/imultipagesaveoptions/
----```
+---
+```
 public interface IMultiPageSaveOptions
 ```
 

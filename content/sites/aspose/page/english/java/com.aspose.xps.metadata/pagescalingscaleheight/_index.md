@@ -16,6 +16,7 @@ public final class PageScalingScaleHeight extends IntegerParameterInit implement
 ```
 
 Specifies the scaling factor in the  ImageableSizeHeight  direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingscaleheight
+
 ## Constructors
 
 | Constructor | Description |

@@ -13,6 +13,7 @@ public static final class PageNegativeImage.PageNegativeImageOption extends Opti
 ```
 
 Defines  PageNegativeImage  feature options.
+
 ## Fields
 
 | Field | Description |

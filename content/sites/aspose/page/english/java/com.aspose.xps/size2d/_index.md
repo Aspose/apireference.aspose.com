@@ -43,7 +43,6 @@ This class is only the abstract superclass for all objects that store 2D dimensi
 public Size2D()
 ```
 
-
 ### clone() {#clone--}
 ```
 public Object clone()
@@ -196,4 +195,3 @@ public final void wait(long arg0, int arg1)
 | --- | --- | --- |
 | arg0 | long |  |
 | arg1 | int |  |
-

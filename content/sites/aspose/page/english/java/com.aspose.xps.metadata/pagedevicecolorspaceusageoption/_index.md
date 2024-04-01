@@ -13,6 +13,7 @@ public static final class PageDeviceColorSpaceUsage.PageDeviceColorSpaceUsageOpt
 ```
 
 Describes the  PageDeviceColorSpaceUsage  feature options.
+
 ## Fields
 
 | Field | Description |
@@ -38,7 +39,6 @@ Describes the  PageDeviceColorSpaceUsage  feature options.
 ```
 public static PageDeviceColorSpaceUsage.PageDeviceColorSpaceUsageOption MatchToDefault
 ```
-
 
 If the device determines that the profile specified by the  PageDeviceColorSpaceProfileURI  parameter can be used as a device color space profile, all elements using the same profile are treated as already being specified in device color space. All other elements MUST use the profile specified for that element. If the profile cannot be used as a device color space profile, elements using the profile MUST be color managed like any other element using the color profile.
 

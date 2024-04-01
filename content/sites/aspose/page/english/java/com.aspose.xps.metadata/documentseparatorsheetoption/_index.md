@@ -13,6 +13,7 @@ public static final class DocumentSeparatorSheet.DocumentSeparatorSheetOption ex
 ```
 
 Describes the  DocumentSeparatorSheet  feature options.
+
 ## Fields
 
 | Field | Description |

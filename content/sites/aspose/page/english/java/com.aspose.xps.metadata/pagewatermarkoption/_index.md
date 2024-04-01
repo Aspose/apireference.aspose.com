@@ -16,6 +16,7 @@ public static final class PageWatermark.PageWatermarkOption extends Option imple
 ```
 
 Describes the  PageWatermark  features options.
+
 ## Constructors
 
 | Constructor | Description |
@@ -96,7 +97,6 @@ Adds a list of items to the end of this option's item list. Each one must be a  
 ```
 public PageWatermark.PageWatermarkOption add(PageWatermark.IPageWatermarkOptionItem[] items)
 ```
-
 
 Adds an array of  IPageWatermarkOptionItem  instances to the option.
 

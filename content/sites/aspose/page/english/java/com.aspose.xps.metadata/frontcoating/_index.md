@@ -16,6 +16,7 @@ public static final class PageMediaType.FrontCoating extends ScoredProperty impl
 ```
 
 Defines constants for the  FrontCoating  scored property value.
+
 ## Fields
 
 | Field | Description |

@@ -16,6 +16,7 @@ public static final class JobErrorSheet.ErrorSheetWhen extends Feature implement
 ```
 
 Describes inner  ErrorSheetWhen  feature.
+
 ## Constructors
 
 | Constructor | Description |

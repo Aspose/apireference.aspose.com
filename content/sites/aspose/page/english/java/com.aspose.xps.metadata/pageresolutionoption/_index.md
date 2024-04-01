@@ -16,6 +16,7 @@ public static final class PageResolution.PageResolutionOption extends Option imp
 ```
 
 Describes the  PageResolution  features options.
+
 ## Constructors
 
 | Constructor | Description |
@@ -70,7 +71,6 @@ Adds a list of items to the end of this option's item list. Each one must be a  
 ```
 public PageResolution.PageResolutionOption add(PageResolution.IPageResolutionOptionItem[] items)
 ```
-
 
 Adds an array of  IPageResolutionOptionItem  instances to the option.
 
@@ -154,14 +154,12 @@ Sets a  ResolutionX  scored property value.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | resolutionX | int | A  ResolutionX  scored property value. |
-
 **Returns:**
 [PageResolutionOption](../../com.aspose.xps.metadata/pageresolutionoption) - This option instance.
 ### setResolutionY(int resolutionY) {#setResolutionY-int-}
 ```
 public PageResolution.PageResolutionOption setResolutionY(int resolutionY)
 ```
-
 
 Sets a  ResolutionY  scored property value.
 

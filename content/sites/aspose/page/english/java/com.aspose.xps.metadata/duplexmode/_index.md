@@ -13,6 +13,7 @@ public static final class Duplex.DuplexMode extends ScoredProperty
 ```
 
 Defines possible values of the  DuplexOption 's  DuplexMode  scored property.
+
 ## Fields
 
 | Field | Description |

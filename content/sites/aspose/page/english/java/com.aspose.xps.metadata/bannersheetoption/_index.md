@@ -13,6 +13,7 @@ public static final class JobPrimaryBannerSheet.BannerSheetOption extends Option
 ```
 
 Represents options of the  JobPrimaryBannerSheet  feature.
+
 ## Fields
 
 | Field | Description |
@@ -63,7 +64,6 @@ Specifies the standard (device defined) banner sheet should be output.
 ```
 public void add(IOptionItem[] items)
 ```
-
 
 Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
 
@@ -177,4 +177,5 @@ public final void wait(long arg0, int arg1)
 | --- | --- | --- |
 | arg0 | long |  |
 | arg1 | int |  |
+
 

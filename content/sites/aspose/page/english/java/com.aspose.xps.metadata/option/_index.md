@@ -16,6 +16,7 @@ public class Option extends CompositePrintTicketElement implements IFeatureItem
 ```
 
 The class that implements a common PrintTicket  Option . The base class for all schema-defined options. An Option element contains all of the  Property  and  ScoredProperty  elements associated with this option. https://docs.microsoft.com/en-us/windows/win32/printdocs/option
+
 ## Constructors
 
 | Constructor | Description |
@@ -82,7 +83,6 @@ Creates a clone option instance.
 ```
 public void add(IOptionItem[] items)
 ```
-
 
 Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
 

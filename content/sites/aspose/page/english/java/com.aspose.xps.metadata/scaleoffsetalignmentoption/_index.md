@@ -13,6 +13,7 @@ public static final class PageScaling.ScaleOffsetAlignmentOption extends Option
 ```
 
 Describes the  ScaleOffsetAlignment  features options. Specifies the alignment of the scaled content.
+
 ## Fields
 
 | Field | Description |

@@ -16,6 +16,7 @@ public static final class JobErrorSheet.ErrorSheetOption extends Option implemen
 ```
 
 Describes the  JobErrorSheet  feature options.
+
 ## Fields
 
 | Field | Description |
@@ -43,8 +44,8 @@ Describes the  JobErrorSheet  feature options.
 public JobErrorSheet.ErrorSheetOption Custom
 ```
 
-
 Specifies a custom error sheet should be output. If a  JobErrorSheetSource   ParameterInit  element is not specified, this Option should be ignored.
+
 
 ### None {#None}
 ```

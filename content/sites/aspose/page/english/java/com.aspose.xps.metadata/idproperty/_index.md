@@ -13,6 +13,7 @@ public class IDProperty extends Property
 ```
 
 The base class for  JobID  and  DocumentID  properties classes.
+
 ## Methods
 
 | Method | Description |
@@ -132,4 +133,5 @@ public final void wait(long arg0, int arg1)
 | --- | --- | --- |
 | arg0 | long |  |
 | arg1 | int |  |
+
 

@@ -41,7 +41,6 @@ Describes the  JobRollCutAtEndOfJob  and  DocumentRollCut  features options.
 public static RollCut.RollCutOption Banner
 ```
 
-
 Specifies cutting method for banner ( DocumentRollCut  only).
 
 ### CutSheetAtImageEdge {#CutSheetAtImageEdge}

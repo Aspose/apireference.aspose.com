@@ -13,6 +13,7 @@ public static final class JobBindAllDocuments.BindingOption extends Option
 ```
 
 Describes the  JobBindAllDocuments  feature options.
+
 ## Constructors
 
 | Constructor | Description |

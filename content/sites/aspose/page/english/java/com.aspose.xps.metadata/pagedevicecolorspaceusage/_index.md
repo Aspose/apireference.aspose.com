@@ -16,6 +16,7 @@ public final class PageDeviceColorSpaceUsage extends Feature implements IJobPrin
 ```
 
 In conjunction with the  PageDeviceColorSpaceProfileURI  parameter, this parameter defines the rendering behavior for elements presented in a device color space. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedevicecolorspaceusage
+
 ## Constructors
 
 | Constructor | Description |

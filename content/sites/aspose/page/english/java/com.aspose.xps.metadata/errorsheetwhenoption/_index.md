@@ -13,6 +13,7 @@ public static final class JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption exte
 ```
 
 Describes the  ErrorSheetWhen  feature options.
+
 ## Fields
 
 | Field | Description |
