@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet class. Describes the banner sheet to be output for a particular document. The banner sheet should be output on the default PageMediaSize and using the default PageMediaType. The banner sheet should be also isolated from the remainder of the job. This means that any finishing or processing options such as DocumentDuplex DocumentStaple or DocumentBinding should not include the banner sheet. The banner sheet may or may not be isolated from the remainder of the job. This means that any job finishing or processing options may include the document banner sheet. The banner sheet should occur as the first sheet of the document. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 770
+weight: 830
 url: /net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Document class. A superclass for all encapsulated documents
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.page/document/
 ---
 ## Document class

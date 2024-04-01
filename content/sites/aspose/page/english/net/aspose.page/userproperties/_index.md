@@ -3,7 +3,7 @@ title: Class UserProperties
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.UserProperties class. Special property class which allows typed properties to be set and returned. It also allows the hookup of two default property objects to be searched if this property object does not contain the property
 type: docs
-weight: 540
+weight: 590
 url: /net/aspose.page/userproperties/
 ---
 ## UserProperties class
@@ -44,6 +44,8 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyInt](../../aspose.page/userproperties/getpropertyint/#getpropertyint_1)(string, int) | Gets integer property value. If requested property is absent, returns provided default value. |
 | virtual [GetPropertyMargins](../../aspose.page/userproperties/getpropertymargins/#getpropertymargins)(string) | Gets margins property value. |
 | virtual [GetPropertyMargins](../../aspose.page/userproperties/getpropertymargins/#getpropertymargins_1)(string, Margins) | Gets margins property value. If requested property is absent, returns provided default value. |
+| virtual [GetPropertyMatrix](../../aspose.page/userproperties/getpropertymatrix/#getpropertymatrix)(string) | Gets matrix property value. |
+| virtual [GetPropertyMatrix](../../aspose.page/userproperties/getpropertymatrix/#getpropertymatrix_1)(string, Matrix) | Gets matrix property value. If requested property is absent, returns provided default value. |
 | virtual [GetPropertyRectangle](../../aspose.page/userproperties/getpropertyrectangle/#getpropertyrectangle)(string) | Gets rectangle property value. |
 | virtual [GetPropertyRectangle](../../aspose.page/userproperties/getpropertyrectangle/#getpropertyrectangle_1)(string, RectangleF) | Gets rectangle property value. If requested property is absent, returns provided default value. |
 | virtual [GetPropertySize](../../aspose.page/userproperties/getpropertysize/#getpropertysize)(string) | Gets size property value. |
@@ -60,19 +62,21 @@ public class UserProperties : Dictionary<string, object>
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_4)(string, float) | Sets float property value. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_3)(string, int) | Sets integer property value. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty)(string, Margins) | Sets margins property value. |
-| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_6)(string, Rectangle) | Sets rectangle property value. |
-| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_7)(string, Size) | Sets size property value. |
-| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_8)(string, string) | Sets string property value. |
-| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_9)(string, string[]) | Sets string array property value. |
+| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_6)(string, Matrix) | Sets matrix property value. |
+| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_7)(string, Rectangle) | Sets rectangle property value. |
+| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_8)(string, Size) | Sets size property value. |
+| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_9)(string, string) | Sets string property value. |
+| virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_10)(string, string[]) | Sets string array property value. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(Dictionary&lt;string, object&gt;, string, bool) | Sets boolean property value in specified properties table. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(Dictionary&lt;string, object&gt;, string, Color) | Sets color property value in specified properties table. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_2)(Dictionary&lt;string, object&gt;, string, double) | Sets double property value in specified properties table. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_4)(Dictionary&lt;string, object&gt;, string, float) | Sets float property value in specified properties table. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_3)(Dictionary&lt;string, object&gt;, string, int) | Sets integer property value in specified properties table. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty)(Dictionary&lt;string, object&gt;, string, Margins) | Sets margins property value in specified properties table. |
-| static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_6)(Dictionary&lt;string, object&gt;, string, Rectangle) | Sets rectangle property value in specified properties table. |
-| static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_7)(Dictionary&lt;string, object&gt;, string, Size) | Sets size property value in specified properties table. |
-| static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_8)(Dictionary&lt;string, object&gt;, string, string[]) | Sets string array property value in specified properties table. |
+| static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_6)(Dictionary&lt;string, object&gt;, string, Matrix) | Sets matrix property value in specified properties table. |
+| static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_7)(Dictionary&lt;string, object&gt;, string, Rectangle) | Sets rectangle property value in specified properties table. |
+| static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_8)(Dictionary&lt;string, object&gt;, string, Size) | Sets size property value in specified properties table. |
+| static [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_9)(Dictionary&lt;string, object&gt;, string, string[]) | Sets string array property value in specified properties table. |
 
 ### See Also
 

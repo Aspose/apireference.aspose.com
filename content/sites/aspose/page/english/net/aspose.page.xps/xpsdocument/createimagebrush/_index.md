@@ -3,7 +3,7 @@ title: XpsDocument.CreateImageBrush
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new image brush
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.page.xps/xpsdocument/createimagebrush/
 ---
 ## CreateImageBrush(XpsImage, RectangleF, RectangleF) {#createimagebrush}

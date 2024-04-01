@@ -3,7 +3,7 @@ title: ITrFont.FontType
 second_title: Aspose.Page for .NET API Reference
 description: ITrFont property. Returns a type of font in Adobe classification
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.page/itrfont/fonttype/
 ---
 ## ITrFont.FontType property

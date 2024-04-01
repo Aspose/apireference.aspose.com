@@ -3,7 +3,7 @@ title: Class PsConverterToImageOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.PsConverterToImageOptions class. Represents PS/EPS to Image converter options for PsConverter plugin
 type: docs
-weight: 410
+weight: 460
 url: /net/aspose.page.plugins/psconvertertoimageoptions/
 ---
 ## PsConverterToImageOptions class

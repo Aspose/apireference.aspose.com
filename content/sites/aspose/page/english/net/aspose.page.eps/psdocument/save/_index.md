@@ -3,7 +3,7 @@ title: PsDocument.Save
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Saves PS/EPS file to a device
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}
@@ -11,6 +11,7 @@ url: /net/aspose.page.eps/psdocument/save/
 Saves PS/EPS file to a device.
 
 ```csharp
+[Obsolete("Save is deprecated beginning from 24.3, please use SaveAsPdf or SaveAsImage instead. In 24.6 this method will be hidden")]
 public override void Save(Device device, SaveOptions options)
 ```
 

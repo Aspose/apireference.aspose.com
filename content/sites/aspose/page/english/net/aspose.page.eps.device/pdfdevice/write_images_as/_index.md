@@ -3,7 +3,7 @@ title: PdfDevice.WRITE_IMAGES_AS
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Format of images property key
 type: docs
-weight: 500
+weight: 270
 url: /net/aspose.page.eps.device/pdfdevice/write_images_as/
 ---
 ## PdfDevice.WRITE_IMAGES_AS field

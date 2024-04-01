@@ -3,7 +3,7 @@ title: XpsDocument.CreateArcSegment
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new elliptical arc segment
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.page.xps/xpsdocument/createarcsegment/
 ---
 ## XpsDocument.CreateArcSegment method

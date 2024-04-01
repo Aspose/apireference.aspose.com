@@ -1,14 +1,14 @@
 ---
 title: Interface ITrFont
 second_title: Aspose.Page for .NET API Reference
-description: Aspose.Page.ITrFont interface. This interface give access to main parameters of font
+description: Aspose.Page.ITrFont interface. This interface gives access to main parameters of font
 type: docs
-weight: 260
+weight: 310
 url: /net/aspose.page/itrfont/
 ---
 ## ITrFont interface
 
-This interface give access to main parameters of font.
+This interface gives access to main parameters of font.
 
 ```csharp
 public interface ITrFont
@@ -22,7 +22,6 @@ public interface ITrFont
 | [Encoding](../../aspose.page/itrfont/encoding/) { get; } | Returns enbcoding array. |
 | [EncodingTable](../../aspose.page/itrfont/encodingtable/) { get; } | Returns the name of the encoding. |
 | [FID](../../aspose.page/itrfont/fid/) { get; } | Returns font identificator. |
-| [Font](../../aspose.page/itrfont/font/) { get; } | Returns DrFont corresponding to this font. |
 | [FontName](../../aspose.page/itrfont/fontname/) { get; } | Returns font name. |
 | [FontType](../../aspose.page/itrfont/fonttype/) { get; } | Returns a type of font in Adobe classification. |
 | [NativeFont](../../aspose.page/itrfont/nativefont/) { get; } | Returns System.Drawing.Font corresponding to this font. |

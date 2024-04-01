@@ -3,10 +3,10 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page for .NET API Reference
 description: UserProperties method. Sets string property value
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.page/userproperties/setproperty/
 ---
-## SetProperty(string, string) {#setproperty_8}
+## SetProperty(string, string) {#setproperty_9}
 
 Sets string property value.
 
@@ -31,7 +31,7 @@ A property.
 
 ---
 
-## SetProperty(string, string[]) {#setproperty_9}
+## SetProperty(string, string[]) {#setproperty_10}
 
 Sets string array property value.
 
@@ -56,7 +56,7 @@ A property.
 
 ---
 
-## SetProperty(Dictionary&lt;string, object&gt;, string, string[]) {#setproperty_8}
+## SetProperty(Dictionary&lt;string, object&gt;, string, string[]) {#setproperty_9}
 
 Sets string array property value in specified properties table.
 
@@ -133,7 +133,7 @@ A property.
 
 ---
 
-## SetProperty(string, Rectangle) {#setproperty_6}
+## SetProperty(string, Rectangle) {#setproperty_7}
 
 Sets rectangle property value.
 
@@ -158,7 +158,7 @@ A property.
 
 ---
 
-## SetProperty(Dictionary&lt;string, object&gt;, string, Rectangle) {#setproperty_6}
+## SetProperty(Dictionary&lt;string, object&gt;, string, Rectangle) {#setproperty_7}
 
 Sets rectangle property value in specified properties table.
 
@@ -237,7 +237,7 @@ A property.
 
 ---
 
-## SetProperty(string, Size) {#setproperty_7}
+## SetProperty(string, Size) {#setproperty_8}
 
 Sets size property value.
 
@@ -262,7 +262,7 @@ A property.
 
 ---
 
-## SetProperty(Dictionary&lt;string, object&gt;, string, Size) {#setproperty_7}
+## SetProperty(Dictionary&lt;string, object&gt;, string, Size) {#setproperty_8}
 
 Sets size property value in specified properties table.
 
@@ -479,6 +479,57 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | properties | Dictionary`2 | The properties table. |
 | key | String | The name of property. |
 | value | Boolean | The value of property. |
+
+### Return Value
+
+A property.
+
+### See Also
+
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## SetProperty(string, Matrix) {#setproperty_6}
+
+Sets matrix property value.
+
+```csharp
+public virtual object SetProperty(string key, Matrix value)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | String | The name of property. |
+| value | Matrix | The value of property. |
+
+### Return Value
+
+A property.
+
+### See Also
+
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## SetProperty(Dictionary&lt;string, object&gt;, string, Matrix) {#setproperty_6}
+
+Sets matrix property value in specified properties table.
+
+```csharp
+public static object SetProperty(Dictionary<string, object> properties, string key, Matrix value)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| properties | Dictionary`2 | The properties table. |
+| key | String | The name of property. |
+| value | Matrix | The value of property. |
 
 ### Return Value
 

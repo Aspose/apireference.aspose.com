@@ -21,6 +21,7 @@ Aspose.Page は .NET API であり、開発者が XPS および EPS/PS ドキュ
 
 これらは、いくつかの有用なリソースへのリンクです。
 - [Aspose.Page for .NET API リファレンス](/page/ja/net/)
+- [Aspose.Page for .NET API チュートリアル](/tutorials/page/ja/net/)
 
 
 ## Aspose.Page for Java
@@ -36,6 +37,7 @@ Aspose.Page は、開発者が XPS および EPS/PS ドキュメントを操作�
 
 これらは、いくつかの有用なリソースへのリンクです。
 - [Aspose.Page for Java API リファレンス](/page/java/)
+- [Aspose.Page for Java API チュートリアル](/tutorials/page/ja/java/)
 
 
 ## Aspose.Page for C++

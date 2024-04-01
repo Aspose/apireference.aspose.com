@@ -18,9 +18,32 @@ Represents options of the  JobPrimaryBannerSheet  feature.
 
 | Field | Description |
 | --- | --- |
+| [Custom](#Custom) | Specifies a custom banner sheet should be output. |
 | [None](#None) | Specifies no banner sheet should be output. |
 | [Standard](#Standard) | Specifies the standard (device defined) banner sheet should be output. |
-| [Custom](#Custom) | Specifies a custom banner sheet should be output. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Adds a list of items to the end of this option's item list. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Gets the element name. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### Custom {#Custom}
+```
+public static JobPrimaryBannerSheet.BannerSheetOption Custom
+```
+
+
+Specifies a custom banner sheet should be output. If a  JobPrimaryBannerSheetSource   ParameterInit  element is not specified, this Option should be ignored.
+
 ### None {#None}
 ```
 public static JobPrimaryBannerSheet.BannerSheetOption None
@@ -37,11 +60,122 @@ public static JobPrimaryBannerSheet.BannerSheetOption Standard
 
 Specifies the standard (device defined) banner sheet should be output.
 
-### Custom {#Custom}
+### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
 ```
-public static JobPrimaryBannerSheet.BannerSheetOption Custom
+public void add(IOptionItem[] items)
 ```
 
-Specifies a custom banner sheet should be output. If a  JobPrimaryBannerSheetSource   ParameterInit  element is not specified, this Option should be ignored.
+Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| items | [IOptionItem\[\]](../../com.aspose.xps.metadata/ioptionitem) | List of items to add. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the element name.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 
 

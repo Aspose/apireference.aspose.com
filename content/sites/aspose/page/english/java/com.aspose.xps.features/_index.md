@@ -3,7 +3,7 @@ title: com.aspose.xps.features
 second_title: Aspose.Page for Java API Reference
 description: 
 type: docs
-weight: 12
+weight: 16
 url: /java/com.aspose.xps.features/
 ---
 

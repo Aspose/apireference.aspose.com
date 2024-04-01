@@ -3,7 +3,7 @@ title: com.aspose.xps.rendering
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps.rendering package provides base classes for rendering XPS document to other formats.
 type: docs
-weight: 18
+weight: 19
 url: /java/com.aspose.xps.rendering/
 ---
 
@@ -23,6 +23,7 @@ The **com.aspose.xps.rendering** package provides base classes for rendering XPS
 | [PdfEncryptionDetails](../com.aspose.xps.rendering/pdfencryptiondetails) | Contains details for a pdf encryption. |
 | [PdfSaveOptions](../com.aspose.xps.rendering/pdfsaveoptions) | Class for XPS-as-PDF saving options. |
 | [PngSaveOptions](../com.aspose.xps.rendering/pngsaveoptions) | Class for XPS-as-PNG saving options. |
+| [PsDevice](../com.aspose.xps.rendering/psdevice) | Class incapsulating PostScript composing device. |
 | [TiffSaveOptions](../com.aspose.xps.rendering/tiffsaveoptions) | Class for XPS-as-TIFF saving options. |
 
 ## Enumerations

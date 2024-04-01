@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.Xps.Presentation.Image namespace provides classes for rendering XPS document to an image
 type: docs
-weight: 100
+weight: 130
 url: /net/aspose.page.xps.presentation.image/
 ---
 The **Aspose.Page.Xps.Presentation.Image** namespace provides classes for rendering XPS document to an image.

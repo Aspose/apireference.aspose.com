@@ -3,7 +3,7 @@ title: PdfDevice.OpenPage
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Makes necessary preparation of the device before page rendering
 type: docs
-weight: 180
+weight: 60
 url: /net/aspose.page.eps.device/pdfdevice/openpage/
 ---
 ## OpenPage(string) {#openpage_1}

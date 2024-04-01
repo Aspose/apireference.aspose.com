@@ -16,7 +16,6 @@ public static final class PageMediaSize.PageMediaSizeOption extends Option imple
 ```
 
 Describes the  PageMediaSize  feature options.
-
 ## Constructors
 
 | Constructor | Description |
@@ -27,21 +26,22 @@ Describes the  PageMediaSize  feature options.
 
 | Field | Description |
 | --- | --- |
+| [BusinessCard](#BusinessCard) | Business Card |
+| [CreditCard](#CreditCard) | Credit Card |
 | [CustomMediaSize](#CustomMediaSize) | Specifies a custom media size. |
-| [PSCustomMediaSize](#PSCustomMediaSize) | Specifies a custom media size (PostScript specific). |
 | [ISOA0](#ISOA0) | ISOA0 |
 | [ISOA1](#ISOA1) | ISOA1 |
 | [ISOA10](#ISOA10) | ISOA10 |
 | [ISOA2](#ISOA2) | ISOA2 |
 | [ISOA3](#ISOA3) | ISOA3 |
-| [ISOA3Rotated](#ISOA3Rotated) | ISOA3 rotated |
 | [ISOA3Extra](#ISOA3Extra) | ISOA3 extra |
+| [ISOA3Rotated](#ISOA3Rotated) | ISOA3 rotated |
 | [ISOA4](#ISOA4) | ISOA4 |
-| [ISOA4Rotated](#ISOA4Rotated) | ISOA4 rotated |
 | [ISOA4Extra](#ISOA4Extra) | ISOA4 extra |
+| [ISOA4Rotated](#ISOA4Rotated) | ISOA4 rotated |
 | [ISOA5](#ISOA5) | ISOA5 |
-| [ISOA5Rotated](#ISOA5Rotated) | ISOA5 rotated |
 | [ISOA5Extra](#ISOA5Extra) | ISOA5 extra |
+| [ISOA5Rotated](#ISOA5Rotated) | ISOA5 rotated |
 | [ISOA6](#ISOA6) | ISOA6 |
 | [ISOA6Rotated](#ISOA6Rotated) | ISOA6 rotated |
 | [ISOA7](#ISOA7) | ISOA7 |
@@ -70,15 +70,14 @@ Describes the  PageMediaSize  feature options.
 | [ISOC5](#ISOC5) | ISOC5 |
 | [ISOC5Envelope](#ISOC5Envelope) | ISOC5 envelope |
 | [ISOC6](#ISOC6) | ISOC6 |
-| [ISOC6Envelope](#ISOC6Envelope) | ISOC6 envelope |
 | [ISOC6C5Envelope](#ISOC6C5Envelope) | ISOC6C5 envelope |
+| [ISOC6Envelope](#ISOC6Envelope) | ISOC6 envelope |
 | [ISOC7](#ISOC7) | ISOC7 |
 | [ISOC8](#ISOC8) | ISOC8 |
 | [ISOC9](#ISOC9) | ISOC9 |
 | [ISODLEnvelope](#ISODLEnvelope) | ISODL envelope |
 | [ISODLEnvelopeRotated](#ISODLEnvelopeRotated) | ISODL envelope rotated |
 | [ISOSRA3](#ISOSRA3) | ISOSRA3 |
-| [JapanQuadrupleHagakiPostcard](#JapanQuadrupleHagakiPostcard) | Japan Quadruple Hagaki Postcard |
 | [JISB0](#JISB0) | JISB0 |
 | [JISB1](#JISB1) | JISB1 |
 | [JISB10](#JISB10) | JISB10 |
@@ -93,20 +92,37 @@ Describes the  PageMediaSize  feature options.
 | [JISB7](#JISB7) | JISB7 |
 | [JISB8](#JISB8) | JISB8 |
 | [JISB9](#JISB9) | JISB9 |
+| [Japan2LPhoto](#Japan2LPhoto) | Japan 2L Photo |
 | [JapanChou3Envelope](#JapanChou3Envelope) | Japan Chou3 envelope |
 | [JapanChou3EnvelopeRotated](#JapanChou3EnvelopeRotated) | Japan Chou3 envelope rotated |
 | [JapanChou4Envelope](#JapanChou4Envelope) | Japan Chou4 envelope |
 | [JapanChou4EnvelopeRotated](#JapanChou4EnvelopeRotated) | Japan Chou4 envelope rotated |
+| [JapanDoubleHagakiPostcard](#JapanDoubleHagakiPostcard) | Japan Double Hagaki Postcard |
+| [JapanDoubleHagakiPostcardRotated](#JapanDoubleHagakiPostcardRotated) | Japan Double Hagaki Postcard rotated |
 | [JapanHagakiPostcard](#JapanHagakiPostcard) | Japan Hagaki Postcard |
 | [JapanHagakiPostcardRotated](#JapanHagakiPostcardRotated) | Japan Hagaki Postcard rotated |
 | [JapanKaku2Envelope](#JapanKaku2Envelope) | Japan Kaku2 envelope |
 | [JapanKaku2EnvelopeRotated](#JapanKaku2EnvelopeRotated) | Japan Kaku2 envelope rotated |
 | [JapanKaku3Envelope](#JapanKaku3Envelope) | Japan Kaku3 envelope |
 | [JapanKaku3EnvelopeRotated](#JapanKaku3EnvelopeRotated) | Japan Kaku3 envelope rotated |
+| [JapanLPhoto](#JapanLPhoto) | Japan L Photo |
+| [JapanQuadrupleHagakiPostcard](#JapanQuadrupleHagakiPostcard) | Japan Quadruple Hagaki Postcard |
+| [JapanYou1Envelope](#JapanYou1Envelope) | Japan You1 envelope |
+| [JapanYou2Envelope](#JapanYou2Envelope) | Japan You2 envelope |
+| [JapanYou3Envelope](#JapanYou3Envelope) | Japan You3 envelope |
 | [JapanYou4Envelope](#JapanYou4Envelope) | Japan You4 envelope |
+| [JapanYou4EnvelopeRotated](#JapanYou4EnvelopeRotated) | Japan You4 envelope rotated |
+| [JapanYou6Envelope](#JapanYou6Envelope) | Japan You6 envelope |
+| [JapanYou6EnvelopeRotated](#JapanYou6EnvelopeRotated) | Japan You6 envelope rotated |
 | [NorthAmerica10x11](#NorthAmerica10x11) | North America 10x11 |
+| [NorthAmerica10x12](#NorthAmerica10x12) | North America 10x12 |
 | [NorthAmerica10x14](#NorthAmerica10x14) | North America 10x14 |
 | [NorthAmerica11x17](#NorthAmerica11x17) | North America 11x17 |
+| [NorthAmerica14x17](#NorthAmerica14x17) | North America 14x17 |
+| [NorthAmerica4x6](#NorthAmerica4x6) | North America 4x6 |
+| [NorthAmerica4x8](#NorthAmerica4x8) | North America 4x8 |
+| [NorthAmerica5x7](#NorthAmerica5x7) | North America 5x7 |
+| [NorthAmerica8x10](#NorthAmerica8x10) | North America 8x10 |
 | [NorthAmerica9x11](#NorthAmerica9x11) | North America 9x11 |
 | [NorthAmericaArchitectureASheet](#NorthAmericaArchitectureASheet) | North America Architecture A sheet |
 | [NorthAmericaArchitectureBSheet](#NorthAmericaArchitectureBSheet) | North America Architecture B sheet |
@@ -122,17 +138,17 @@ Describes the  PageMediaSize  feature options.
 | [NorthAmericaLegal](#NorthAmericaLegal) | North America Legal |
 | [NorthAmericaLegalExtra](#NorthAmericaLegalExtra) | North America Legal extra |
 | [NorthAmericaLetter](#NorthAmericaLetter) | North America Letter |
-| [NorthAmericaLetterRotated](#NorthAmericaLetterRotated) | North America Letter rotated |
 | [NorthAmericaLetterExtra](#NorthAmericaLetterExtra) | North America Letter extra |
 | [NorthAmericaLetterPlus](#NorthAmericaLetterPlus) | North America Letter Plus |
+| [NorthAmericaLetterRotated](#NorthAmericaLetterRotated) | North America Letter rotated |
 | [NorthAmericaMonarchEnvelope](#NorthAmericaMonarchEnvelope) | North America Monarch envelope |
 | [NorthAmericaNote](#NorthAmericaNote) | North America Note |
 | [NorthAmericaNumber10Envelope](#NorthAmericaNumber10Envelope) | North America Number 10 envelope |
 | [NorthAmericaNumber10EnvelopeRotated](#NorthAmericaNumber10EnvelopeRotated) | North America Number 10 envelope rotated |
-| [NorthAmericaNumber9Envelope](#NorthAmericaNumber9Envelope) | North America Number 9 envelope |
 | [NorthAmericaNumber11Envelope](#NorthAmericaNumber11Envelope) | North America Number 11 envelope |
 | [NorthAmericaNumber12Envelope](#NorthAmericaNumber12Envelope) | North America Number 12 envelope |
 | [NorthAmericaNumber14Envelope](#NorthAmericaNumber14Envelope) | North America Number 14 envelope |
+| [NorthAmericaNumber9Envelope](#NorthAmericaNumber9Envelope) | North America Number 9 envelope |
 | [NorthAmericaPersonalEnvelope](#NorthAmericaPersonalEnvelope) | North America Personal envelope |
 | [NorthAmericaQuarto](#NorthAmericaQuarto) | North America Quarto |
 | [NorthAmericaStatement](#NorthAmericaStatement) | North America Statement |
@@ -140,22 +156,22 @@ Describes the  PageMediaSize  feature options.
 | [NorthAmericaSuperB](#NorthAmericaSuperB) | North America Super B |
 | [NorthAmericaTabloid](#NorthAmericaTabloid) | North America Tabloid |
 | [NorthAmericaTabloidExtra](#NorthAmericaTabloidExtra) | North America Tabloid extra |
-| [OtherMetricA4Plus](#OtherMetricA4Plus) | Other Metric A4 Plus |
 | [OtherMetricA3Plus](#OtherMetricA3Plus) | Other Metric A3 Plus |
+| [OtherMetricA4Plus](#OtherMetricA4Plus) | Other Metric A4 Plus |
 | [OtherMetricFolio](#OtherMetricFolio) | Other Metric Folio |
 | [OtherMetricInviteEnvelope](#OtherMetricInviteEnvelope) | Other Metric Invite envelope |
 | [OtherMetricItalianEnvelope](#OtherMetricItalianEnvelope) | Other Metric Italian envelope |
-| [PRC1Envelope](#PRC1Envelope) | PRC1 envelope |
-| [PRC1EnvelopeRotated](#PRC1EnvelopeRotated) | PRC1 envelope rotated |
 | [PRC10Envelope](#PRC10Envelope) | PRC10 envelope |
 | [PRC10EnvelopeRotated](#PRC10EnvelopeRotated) | PRC10 envelope rotated |
 | [PRC16K](#PRC16K) | PRC16K |
 | [PRC16KRotated](#PRC16KRotated) | PRC16K rotated |
+| [PRC1Envelope](#PRC1Envelope) | PRC1 envelope |
+| [PRC1EnvelopeRotated](#PRC1EnvelopeRotated) | PRC1 envelope rotated |
 | [PRC2Envelope](#PRC2Envelope) | PRC2 envelope |
 | [PRC2EnvelopeRotated](#PRC2EnvelopeRotated) | PRC2 envelope rotated |
 | [PRC32K](#PRC32K) | PRC32K |
-| [PRC32KRotated](#PRC32KRotated) | PRC32K rotated |
 | [PRC32KBig](#PRC32KBig) | PRC32K big |
+| [PRC32KRotated](#PRC32KRotated) | PRC32K rotated |
 | [PRC3Envelope](#PRC3Envelope) | PRC3 envelope |
 | [PRC3EnvelopeRotated](#PRC3EnvelopeRotated) | PRC3 envelope rotated |
 | [PRC4Envelope](#PRC4Envelope) | PRC4 envelope |
@@ -170,6 +186,7 @@ Describes the  PageMediaSize  feature options.
 | [PRC8EnvelopeRotated](#PRC8EnvelopeRotated) | PRC8 envelope rotated |
 | [PRC9Envelope](#PRC9Envelope) | PRC9 envelope |
 | [PRC9EnvelopeRotated](#PRC9EnvelopeRotated) | PRC9 envelope rotated |
+| [PSCustomMediaSize](#PSCustomMediaSize) | Specifies a custom media size (PostScript specific). |
 | [Roll06Inch](#Roll06Inch) | Roll 06 inch |
 | [Roll08Inch](#Roll08Inch) | Roll 08 inch |
 | [Roll12Inch](#Roll12Inch) | Roll 12 inch |
@@ -180,32 +197,25 @@ Describes the  PageMediaSize  feature options.
 | [Roll30Inch](#Roll30Inch) | Roll 30 inch |
 | [Roll36Inch](#Roll36Inch) | Roll 36 inch |
 | [Roll54Inch](#Roll54Inch) | Roll 54 inch |
-| [JapanDoubleHagakiPostcard](#JapanDoubleHagakiPostcard) | Japan Double Hagaki Postcard |
-| [JapanDoubleHagakiPostcardRotated](#JapanDoubleHagakiPostcardRotated) | Japan Double Hagaki Postcard rotated |
-| [JapanLPhoto](#JapanLPhoto) | Japan L Photo |
-| [Japan2LPhoto](#Japan2LPhoto) | Japan 2L Photo |
-| [JapanYou1Envelope](#JapanYou1Envelope) | Japan You1 envelope |
-| [JapanYou2Envelope](#JapanYou2Envelope) | Japan You2 envelope |
-| [JapanYou3Envelope](#JapanYou3Envelope) | Japan You3 envelope |
-| [JapanYou4EnvelopeRotated](#JapanYou4EnvelopeRotated) | Japan You4 envelope rotated |
-| [JapanYou6Envelope](#JapanYou6Envelope) | Japan You6 envelope |
-| [JapanYou6EnvelopeRotated](#JapanYou6EnvelopeRotated) | Japan You6 envelope rotated |
-| [NorthAmerica4x6](#NorthAmerica4x6) | North America 4x6 |
-| [NorthAmerica4x8](#NorthAmerica4x8) | North America 4x8 |
-| [NorthAmerica5x7](#NorthAmerica5x7) | North America 5x7 |
-| [NorthAmerica8x10](#NorthAmerica8x10) | North America 8x10 |
-| [NorthAmerica10x12](#NorthAmerica10x12) | North America 10x12 |
-| [NorthAmerica14x17](#NorthAmerica14x17) | North America 14x17 |
-| [BusinessCard](#BusinessCard) | Business Card |
-| [CreditCard](#CreditCard) | Credit Card |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Adds a list of items to the end of this option's item list. |
 | [add(PageMediaSize.IPageMediaSizeOptionItem[] items)](#add-com.aspose.xps.metadata.PageMediaSize.IPageMediaSizeOptionItem...-) | Adds items to the options. |
-| [setMediaSizeWidth(int mediaSizeWidth)](#setMediaSizeWidth-int-) | Adds the  MediaSizeWidth  scored property value. |
-| [setMediaSizeHeight(int mediaSizeHeight)](#setMediaSizeHeight-int-) | Adds the  MediaSizeWidth  scored property value. |
 | [clone()](#clone--) | Clones this option instance. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Gets the element name. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setMediaSizeHeight(int mediaSizeHeight)](#setMediaSizeHeight-int-) | Adds the  MediaSizeWidth  scored property value. |
+| [setMediaSizeWidth(int mediaSizeWidth)](#setMediaSizeWidth-int-) | Adds the  MediaSizeWidth  scored property value. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PageMediaSizeOption(String name, PageMediaSize.IPageMediaSizeOptionItem[] items) {#PageMediaSizeOption-java.lang.String-com.aspose.xps.metadata.PageMediaSize.IPageMediaSizeOptionItem...-}
 ```
 public PageMediaSizeOption(String name, PageMediaSize.IPageMediaSizeOptionItem[] items)
@@ -218,7 +228,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | The option name. |
-| items | com.aspose.xps.metadata.PageMediaSize.IPageMediaSizeOptionItem[] | The option items. |
+| items | [IPageMediaSizeOptionItem\[\]](../../com.aspose.xps.metadata/ipagemediasizeoptionitem) | The option items. |
 
 ### PageMediaSizeOption(PageMediaSize.PageMediaSizeOption option) {#PageMediaSizeOption-com.aspose.xps.metadata.PageMediaSize.PageMediaSizeOption-}
 ```
@@ -233,19 +243,29 @@ Clones this option instance.
 | --- | --- | --- |
 | option | [PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) | An instance to clone. |
 
+### BusinessCard {#BusinessCard}
+```
+public static PageMediaSize.PageMediaSizeOption BusinessCard
+```
+
+
+Business Card
+
+### CreditCard {#CreditCard}
+```
+public static PageMediaSize.PageMediaSizeOption CreditCard
+```
+
+
+Credit Card
+
 ### CustomMediaSize {#CustomMediaSize}
 ```
 public static PageMediaSize.PageMediaSizeOption CustomMediaSize
 ```
 
+
 Specifies a custom media size. Must be validated against  DeviceMediaSize .
-
-### PSCustomMediaSize {#PSCustomMediaSize}
-```
-public static PageMediaSize.PageMediaSizeOption PSCustomMediaSize
-```
-
-Specifies a custom media size (PostScript specific). Must be validated against  DeviceMediaSize .
 
 ### ISOA0 {#ISOA0}
 ```
@@ -287,14 +307,6 @@ public static PageMediaSize.PageMediaSizeOption ISOA3
 
 ISOA3
 
-### ISOA3Rotated {#ISOA3Rotated}
-```
-public static PageMediaSize.PageMediaSizeOption ISOA3Rotated
-```
-
-
-ISOA3 rotated
-
 ### ISOA3Extra {#ISOA3Extra}
 ```
 public static PageMediaSize.PageMediaSizeOption ISOA3Extra
@@ -302,6 +314,14 @@ public static PageMediaSize.PageMediaSizeOption ISOA3Extra
 
 
 ISOA3 extra
+
+### ISOA3Rotated {#ISOA3Rotated}
+```
+public static PageMediaSize.PageMediaSizeOption ISOA3Rotated
+```
+
+
+ISOA3 rotated
 
 ### ISOA4 {#ISOA4}
 ```
@@ -311,14 +331,6 @@ public static PageMediaSize.PageMediaSizeOption ISOA4
 
 ISOA4
 
-### ISOA4Rotated {#ISOA4Rotated}
-```
-public static PageMediaSize.PageMediaSizeOption ISOA4Rotated
-```
-
-
-ISOA4 rotated
-
 ### ISOA4Extra {#ISOA4Extra}
 ```
 public static PageMediaSize.PageMediaSizeOption ISOA4Extra
@@ -326,6 +338,14 @@ public static PageMediaSize.PageMediaSizeOption ISOA4Extra
 
 
 ISOA4 extra
+
+### ISOA4Rotated {#ISOA4Rotated}
+```
+public static PageMediaSize.PageMediaSizeOption ISOA4Rotated
+```
+
+
+ISOA4 rotated
 
 ### ISOA5 {#ISOA5}
 ```
@@ -335,14 +355,6 @@ public static PageMediaSize.PageMediaSizeOption ISOA5
 
 ISOA5
 
-### ISOA5Rotated {#ISOA5Rotated}
-```
-public static PageMediaSize.PageMediaSizeOption ISOA5Rotated
-```
-
-
-ISOA5 rotated
-
 ### ISOA5Extra {#ISOA5Extra}
 ```
 public static PageMediaSize.PageMediaSizeOption ISOA5Extra
@@ -350,6 +362,14 @@ public static PageMediaSize.PageMediaSizeOption ISOA5Extra
 
 
 ISOA5 extra
+
+### ISOA5Rotated {#ISOA5Rotated}
+```
+public static PageMediaSize.PageMediaSizeOption ISOA5Rotated
+```
+
+
+ISOA5 rotated
 
 ### ISOA6 {#ISOA6}
 ```
@@ -575,14 +595,6 @@ public static PageMediaSize.PageMediaSizeOption ISOC6
 
 ISOC6
 
-### ISOC6Envelope {#ISOC6Envelope}
-```
-public static PageMediaSize.PageMediaSizeOption ISOC6Envelope
-```
-
-
-ISOC6 envelope
-
 ### ISOC6C5Envelope {#ISOC6C5Envelope}
 ```
 public static PageMediaSize.PageMediaSizeOption ISOC6C5Envelope
@@ -590,6 +602,14 @@ public static PageMediaSize.PageMediaSizeOption ISOC6C5Envelope
 
 
 ISOC6C5 envelope
+
+### ISOC6Envelope {#ISOC6Envelope}
+```
+public static PageMediaSize.PageMediaSizeOption ISOC6Envelope
+```
+
+
+ISOC6 envelope
 
 ### ISOC7 {#ISOC7}
 ```
@@ -638,14 +658,6 @@ public static PageMediaSize.PageMediaSizeOption ISOSRA3
 
 
 ISOSRA3
-
-### JapanQuadrupleHagakiPostcard {#JapanQuadrupleHagakiPostcard}
-```
-public static PageMediaSize.PageMediaSizeOption JapanQuadrupleHagakiPostcard
-```
-
-
-Japan Quadruple Hagaki Postcard
 
 ### JISB0 {#JISB0}
 ```
@@ -759,6 +771,14 @@ public static PageMediaSize.PageMediaSizeOption JISB9
 
 JISB9
 
+### Japan2LPhoto {#Japan2LPhoto}
+```
+public static PageMediaSize.PageMediaSizeOption Japan2LPhoto
+```
+
+
+Japan 2L Photo
+
 ### JapanChou3Envelope {#JapanChou3Envelope}
 ```
 public static PageMediaSize.PageMediaSizeOption JapanChou3Envelope
@@ -790,6 +810,22 @@ public static PageMediaSize.PageMediaSizeOption JapanChou4EnvelopeRotated
 
 
 Japan Chou4 envelope rotated
+
+### JapanDoubleHagakiPostcard {#JapanDoubleHagakiPostcard}
+```
+public static PageMediaSize.PageMediaSizeOption JapanDoubleHagakiPostcard
+```
+
+
+Japan Double Hagaki Postcard
+
+### JapanDoubleHagakiPostcardRotated {#JapanDoubleHagakiPostcardRotated}
+```
+public static PageMediaSize.PageMediaSizeOption JapanDoubleHagakiPostcardRotated
+```
+
+
+Japan Double Hagaki Postcard rotated
 
 ### JapanHagakiPostcard {#JapanHagakiPostcard}
 ```
@@ -839,6 +875,46 @@ public static PageMediaSize.PageMediaSizeOption JapanKaku3EnvelopeRotated
 
 Japan Kaku3 envelope rotated
 
+### JapanLPhoto {#JapanLPhoto}
+```
+public static PageMediaSize.PageMediaSizeOption JapanLPhoto
+```
+
+
+Japan L Photo
+
+### JapanQuadrupleHagakiPostcard {#JapanQuadrupleHagakiPostcard}
+```
+public static PageMediaSize.PageMediaSizeOption JapanQuadrupleHagakiPostcard
+```
+
+
+Japan Quadruple Hagaki Postcard
+
+### JapanYou1Envelope {#JapanYou1Envelope}
+```
+public static PageMediaSize.PageMediaSizeOption JapanYou1Envelope
+```
+
+
+Japan You1 envelope
+
+### JapanYou2Envelope {#JapanYou2Envelope}
+```
+public static PageMediaSize.PageMediaSizeOption JapanYou2Envelope
+```
+
+
+Japan You2 envelope
+
+### JapanYou3Envelope {#JapanYou3Envelope}
+```
+public static PageMediaSize.PageMediaSizeOption JapanYou3Envelope
+```
+
+
+Japan You3 envelope
+
 ### JapanYou4Envelope {#JapanYou4Envelope}
 ```
 public static PageMediaSize.PageMediaSizeOption JapanYou4Envelope
@@ -847,6 +923,30 @@ public static PageMediaSize.PageMediaSizeOption JapanYou4Envelope
 
 Japan You4 envelope
 
+### JapanYou4EnvelopeRotated {#JapanYou4EnvelopeRotated}
+```
+public static PageMediaSize.PageMediaSizeOption JapanYou4EnvelopeRotated
+```
+
+
+Japan You4 envelope rotated
+
+### JapanYou6Envelope {#JapanYou6Envelope}
+```
+public static PageMediaSize.PageMediaSizeOption JapanYou6Envelope
+```
+
+
+Japan You6 envelope
+
+### JapanYou6EnvelopeRotated {#JapanYou6EnvelopeRotated}
+```
+public static PageMediaSize.PageMediaSizeOption JapanYou6EnvelopeRotated
+```
+
+
+Japan You6 envelope rotated
+
 ### NorthAmerica10x11 {#NorthAmerica10x11}
 ```
 public static PageMediaSize.PageMediaSizeOption NorthAmerica10x11
@@ -854,6 +954,14 @@ public static PageMediaSize.PageMediaSizeOption NorthAmerica10x11
 
 
 North America 10x11
+
+### NorthAmerica10x12 {#NorthAmerica10x12}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmerica10x12
+```
+
+
+North America 10x12
 
 ### NorthAmerica10x14 {#NorthAmerica10x14}
 ```
@@ -870,6 +978,46 @@ public static PageMediaSize.PageMediaSizeOption NorthAmerica11x17
 
 
 North America 11x17
+
+### NorthAmerica14x17 {#NorthAmerica14x17}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmerica14x17
+```
+
+
+North America 14x17
+
+### NorthAmerica4x6 {#NorthAmerica4x6}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmerica4x6
+```
+
+
+North America 4x6
+
+### NorthAmerica4x8 {#NorthAmerica4x8}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmerica4x8
+```
+
+
+North America 4x8
+
+### NorthAmerica5x7 {#NorthAmerica5x7}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmerica5x7
+```
+
+
+North America 5x7
+
+### NorthAmerica8x10 {#NorthAmerica8x10}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmerica8x10
+```
+
+
+North America 8x10
 
 ### NorthAmerica9x11 {#NorthAmerica9x11}
 ```
@@ -991,14 +1139,6 @@ public static PageMediaSize.PageMediaSizeOption NorthAmericaLetter
 
 North America Letter
 
-### NorthAmericaLetterRotated {#NorthAmericaLetterRotated}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmericaLetterRotated
-```
-
-
-North America Letter rotated
-
 ### NorthAmericaLetterExtra {#NorthAmericaLetterExtra}
 ```
 public static PageMediaSize.PageMediaSizeOption NorthAmericaLetterExtra
@@ -1014,6 +1154,14 @@ public static PageMediaSize.PageMediaSizeOption NorthAmericaLetterPlus
 
 
 North America Letter Plus
+
+### NorthAmericaLetterRotated {#NorthAmericaLetterRotated}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmericaLetterRotated
+```
+
+
+North America Letter rotated
 
 ### NorthAmericaMonarchEnvelope {#NorthAmericaMonarchEnvelope}
 ```
@@ -1047,14 +1195,6 @@ public static PageMediaSize.PageMediaSizeOption NorthAmericaNumber10EnvelopeRota
 
 North America Number 10 envelope rotated
 
-### NorthAmericaNumber9Envelope {#NorthAmericaNumber9Envelope}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmericaNumber9Envelope
-```
-
-
-North America Number 9 envelope
-
 ### NorthAmericaNumber11Envelope {#NorthAmericaNumber11Envelope}
 ```
 public static PageMediaSize.PageMediaSizeOption NorthAmericaNumber11Envelope
@@ -1078,6 +1218,14 @@ public static PageMediaSize.PageMediaSizeOption NorthAmericaNumber14Envelope
 
 
 North America Number 14 envelope
+
+### NorthAmericaNumber9Envelope {#NorthAmericaNumber9Envelope}
+```
+public static PageMediaSize.PageMediaSizeOption NorthAmericaNumber9Envelope
+```
+
+
+North America Number 9 envelope
 
 ### NorthAmericaPersonalEnvelope {#NorthAmericaPersonalEnvelope}
 ```
@@ -1135,14 +1283,6 @@ public static PageMediaSize.PageMediaSizeOption NorthAmericaTabloidExtra
 
 North America Tabloid extra
 
-### OtherMetricA4Plus {#OtherMetricA4Plus}
-```
-public static PageMediaSize.PageMediaSizeOption OtherMetricA4Plus
-```
-
-
-Other Metric A4 Plus
-
 ### OtherMetricA3Plus {#OtherMetricA3Plus}
 ```
 public static PageMediaSize.PageMediaSizeOption OtherMetricA3Plus
@@ -1150,6 +1290,14 @@ public static PageMediaSize.PageMediaSizeOption OtherMetricA3Plus
 
 
 Other Metric A3 Plus
+
+### OtherMetricA4Plus {#OtherMetricA4Plus}
+```
+public static PageMediaSize.PageMediaSizeOption OtherMetricA4Plus
+```
+
+
+Other Metric A4 Plus
 
 ### OtherMetricFolio {#OtherMetricFolio}
 ```
@@ -1174,22 +1322,6 @@ public static PageMediaSize.PageMediaSizeOption OtherMetricItalianEnvelope
 
 
 Other Metric Italian envelope
-
-### PRC1Envelope {#PRC1Envelope}
-```
-public static PageMediaSize.PageMediaSizeOption PRC1Envelope
-```
-
-
-PRC1 envelope
-
-### PRC1EnvelopeRotated {#PRC1EnvelopeRotated}
-```
-public static PageMediaSize.PageMediaSizeOption PRC1EnvelopeRotated
-```
-
-
-PRC1 envelope rotated
 
 ### PRC10Envelope {#PRC10Envelope}
 ```
@@ -1223,6 +1355,22 @@ public static PageMediaSize.PageMediaSizeOption PRC16KRotated
 
 PRC16K rotated
 
+### PRC1Envelope {#PRC1Envelope}
+```
+public static PageMediaSize.PageMediaSizeOption PRC1Envelope
+```
+
+
+PRC1 envelope
+
+### PRC1EnvelopeRotated {#PRC1EnvelopeRotated}
+```
+public static PageMediaSize.PageMediaSizeOption PRC1EnvelopeRotated
+```
+
+
+PRC1 envelope rotated
+
 ### PRC2Envelope {#PRC2Envelope}
 ```
 public static PageMediaSize.PageMediaSizeOption PRC2Envelope
@@ -1247,14 +1395,6 @@ public static PageMediaSize.PageMediaSizeOption PRC32K
 
 PRC32K
 
-### PRC32KRotated {#PRC32KRotated}
-```
-public static PageMediaSize.PageMediaSizeOption PRC32KRotated
-```
-
-
-PRC32K rotated
-
 ### PRC32KBig {#PRC32KBig}
 ```
 public static PageMediaSize.PageMediaSizeOption PRC32KBig
@@ -1262,6 +1402,14 @@ public static PageMediaSize.PageMediaSizeOption PRC32KBig
 
 
 PRC32K big
+
+### PRC32KRotated {#PRC32KRotated}
+```
+public static PageMediaSize.PageMediaSizeOption PRC32KRotated
+```
+
+
+PRC32K rotated
 
 ### PRC3Envelope {#PRC3Envelope}
 ```
@@ -1375,6 +1523,14 @@ public static PageMediaSize.PageMediaSizeOption PRC9EnvelopeRotated
 
 PRC9 envelope rotated
 
+### PSCustomMediaSize {#PSCustomMediaSize}
+```
+public static PageMediaSize.PageMediaSizeOption PSCustomMediaSize
+```
+
+
+Specifies a custom media size (PostScript specific). Must be validated against  DeviceMediaSize .
+
 ### Roll06Inch {#Roll06Inch}
 ```
 public static PageMediaSize.PageMediaSizeOption Roll06Inch
@@ -1455,149 +1611,18 @@ public static PageMediaSize.PageMediaSizeOption Roll54Inch
 
 Roll 54 inch
 
-### JapanDoubleHagakiPostcard {#JapanDoubleHagakiPostcard}
+### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
 ```
-public static PageMediaSize.PageMediaSizeOption JapanDoubleHagakiPostcard
-```
-
-
-Japan Double Hagaki Postcard
-
-### JapanDoubleHagakiPostcardRotated {#JapanDoubleHagakiPostcardRotated}
-```
-public static PageMediaSize.PageMediaSizeOption JapanDoubleHagakiPostcardRotated
+public void add(IOptionItem[] items)
 ```
 
 
-Japan Double Hagaki Postcard rotated
+Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
 
-### JapanLPhoto {#JapanLPhoto}
-```
-public static PageMediaSize.PageMediaSizeOption JapanLPhoto
-```
-
-
-Japan L Photo
-
-### Japan2LPhoto {#Japan2LPhoto}
-```
-public static PageMediaSize.PageMediaSizeOption Japan2LPhoto
-```
-
-
-Japan 2L Photo
-
-### JapanYou1Envelope {#JapanYou1Envelope}
-```
-public static PageMediaSize.PageMediaSizeOption JapanYou1Envelope
-```
-
-
-Japan You1 envelope
-
-### JapanYou2Envelope {#JapanYou2Envelope}
-```
-public static PageMediaSize.PageMediaSizeOption JapanYou2Envelope
-```
-
-
-Japan You2 envelope
-
-### JapanYou3Envelope {#JapanYou3Envelope}
-```
-public static PageMediaSize.PageMediaSizeOption JapanYou3Envelope
-```
-
-
-Japan You3 envelope
-
-### JapanYou4EnvelopeRotated {#JapanYou4EnvelopeRotated}
-```
-public static PageMediaSize.PageMediaSizeOption JapanYou4EnvelopeRotated
-```
-
-
-Japan You4 envelope rotated
-
-### JapanYou6Envelope {#JapanYou6Envelope}
-```
-public static PageMediaSize.PageMediaSizeOption JapanYou6Envelope
-```
-
-
-Japan You6 envelope
-
-### JapanYou6EnvelopeRotated {#JapanYou6EnvelopeRotated}
-```
-public static PageMediaSize.PageMediaSizeOption JapanYou6EnvelopeRotated
-```
-
-
-Japan You6 envelope rotated
-
-### NorthAmerica4x6 {#NorthAmerica4x6}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmerica4x6
-```
-
-
-North America 4x6
-
-### NorthAmerica4x8 {#NorthAmerica4x8}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmerica4x8
-```
-
-
-North America 4x8
-
-### NorthAmerica5x7 {#NorthAmerica5x7}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmerica5x7
-```
-
-
-North America 5x7
-
-### NorthAmerica8x10 {#NorthAmerica8x10}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmerica8x10
-```
-
-
-North America 8x10
-
-### NorthAmerica10x12 {#NorthAmerica10x12}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmerica10x12
-```
-
-
-North America 10x12
-
-### NorthAmerica14x17 {#NorthAmerica14x17}
-```
-public static PageMediaSize.PageMediaSizeOption NorthAmerica14x17
-```
-
-
-North America 14x17
-
-### BusinessCard {#BusinessCard}
-```
-public static PageMediaSize.PageMediaSizeOption BusinessCard
-```
-
-
-Business Card
-
-### CreditCard {#CreditCard}
-```
-public static PageMediaSize.PageMediaSizeOption CreditCard
-```
-
-
-Credit Card
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| items | [IOptionItem\[\]](../../com.aspose.xps.metadata/ioptionitem) | List of items to add. |
 
 ### add(PageMediaSize.IPageMediaSizeOptionItem[] items) {#add-com.aspose.xps.metadata.PageMediaSize.IPageMediaSizeOptionItem...-}
 ```
@@ -1610,38 +1635,10 @@ Adds items to the options.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.PageMediaSize.IPageMediaSizeOptionItem[] | Items to add. |
+| items | [IPageMediaSizeOptionItem\[\]](../../com.aspose.xps.metadata/ipagemediasizeoptionitem) | Items to add. |
 
 **Returns:**
 [PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - This options.
-### setMediaSizeWidth(int mediaSizeWidth) {#setMediaSizeWidth-int-}
-```
-public PageMediaSize.PageMediaSizeOption setMediaSizeWidth(int mediaSizeWidth)
-```
-
-Adds the  MediaSizeWidth  scored property value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mediaSizeWidth | int | A  MediaSizeWidth  scored property value. |
-
-**Returns:**
-[PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - This option.
-### setMediaSizeHeight(int mediaSizeHeight) {#setMediaSizeHeight-int-}
-```
-public PageMediaSize.PageMediaSizeOption setMediaSizeHeight(int mediaSizeHeight)
-```
-
-Adds the  MediaSizeWidth  scored property value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mediaSizeHeight | int | A  MediaSizeHeight  scored property value. |
-
-**Returns:**
-[PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - This option.
 ### clone() {#clone--}
 ```
 public PageMediaSize.PageMediaSizeOption clone()
@@ -1652,3 +1649,139 @@ Clones this option instance. The shortcut to the cloneing constructor.
 
 **Returns:**
 [PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - The clone of this option instance.
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the element name.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setMediaSizeHeight(int mediaSizeHeight) {#setMediaSizeHeight-int-}
+```
+public PageMediaSize.PageMediaSizeOption setMediaSizeHeight(int mediaSizeHeight)
+```
+
+
+Adds the  MediaSizeWidth  scored property value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| mediaSizeHeight | int | A  MediaSizeHeight  scored property value. |
+
+**Returns:**
+[PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - This option.
+### setMediaSizeWidth(int mediaSizeWidth) {#setMediaSizeWidth-int-}
+```
+public PageMediaSize.PageMediaSizeOption setMediaSizeWidth(int mediaSizeWidth)
+```
+
+
+Adds the  MediaSizeWidth  scored property value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| mediaSizeWidth | int | A  MediaSizeWidth  scored property value. |
+
+**Returns:**
+[PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - This option.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

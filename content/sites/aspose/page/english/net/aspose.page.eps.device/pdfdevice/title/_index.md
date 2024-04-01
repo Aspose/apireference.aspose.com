@@ -3,7 +3,7 @@ title: PdfDevice.TITLE
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Title property value
 type: docs
-weight: 460
+weight: 230
 url: /net/aspose.page.eps.device/pdfdevice/title/
 ---
 ## PdfDevice.TITLE field

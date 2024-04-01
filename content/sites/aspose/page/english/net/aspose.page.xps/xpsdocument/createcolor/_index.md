@@ -3,7 +3,7 @@ title: XpsDocument.CreateColor
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new color
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.page.xps/xpsdocument/createcolor/
 ---
 ## CreateColor(Color) {#createcolor_5}

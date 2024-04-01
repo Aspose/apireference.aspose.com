@@ -3,7 +3,7 @@ title: ImageDevice.ImagesBytes
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice property. Returns resulting images in bytes one byte array for one page
 type: docs
-weight: 80
+weight: 30
 url: /net/aspose.page.eps.device/imagedevice/imagesbytes/
 ---
 ## ImageDevice.ImagesBytes property

@@ -35,13 +35,13 @@ Property value.
 Gets color property value. If requested property is absent, returns provided default value.
 
 ```csharp
-public virtual Color GetPropertyColor(string key, Color def)
+public virtual Color GetPropertyColor(string key, Color defValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | The name of property. |
-| def | Color | Default value of property. |
+| defValue | Color | Default value of property. |
 
 ### Return Value
 

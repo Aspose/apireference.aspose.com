@@ -3,7 +3,7 @@ title: XpsDocument.AddOutlineEntry
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Adds an outline entry to the document
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.page.xps/xpsdocument/addoutlineentry/
 ---
 ## XpsDocument.AddOutlineEntry method

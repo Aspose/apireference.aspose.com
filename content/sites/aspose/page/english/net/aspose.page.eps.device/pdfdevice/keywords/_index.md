@@ -3,7 +3,7 @@ title: PdfDevice.KEYWORDS
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Keywords property value
 type: docs
-weight: 410
+weight: 180
 url: /net/aspose.page.eps.device/pdfdevice/keywords/
 ---
 ## PdfDevice.KEYWORDS field

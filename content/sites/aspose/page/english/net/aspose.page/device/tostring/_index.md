@@ -3,7 +3,7 @@ title: Device.ToString
 second_title: Aspose.Page for .NET API Reference
 description: Device method. Returns the name of device type
 type: docs
-weight: 530
+weight: 20
 url: /net/aspose.page/device/tostring/
 ---
 ## Device.ToString method

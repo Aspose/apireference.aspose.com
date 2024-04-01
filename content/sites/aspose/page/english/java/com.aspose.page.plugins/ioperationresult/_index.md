@@ -14,13 +14,33 @@ General operation result interface that defines common methods that concrete plu
 
 | Method | Description |
 | --- | --- |
+| [getData()](#getData--) | Gets raw data. |
+| [isByteArray()](#isByteArray--) | Indicates whether the result is a bytes array. |
 | [isFile()](#isFile--) | Indicates whether the result is a path to an output file. |
 | [isStream()](#isStream--) | Indicates whether the result is an output stream. |
 | [isString()](#isString--) | Indicates whether the result is a text string. |
-| [isByteArray()](#isByteArray--) | Indicates whether the result is a bytes array. |
-| [getData()](#getData--) | Gets raw data. |
 | [toFile()](#toFile--) | Tries to convert the result to the file. |
 | [toStream()](#toStream--) | Tries to convert the result to a stream object. |
+### getData() {#getData--}
+```
+public abstract Object getData()
+```
+
+
+Gets raw data.
+
+**Returns:**
+java.lang.Object - An object representing output data.
+### isByteArray() {#isByteArray--}
+```
+public abstract boolean isByteArray()
+```
+
+
+Indicates whether the result is a bytes array.
+
+**Returns:**
+boolean -  true  if the result is a bytes array; otherwise  false .
 ### isFile() {#isFile--}
 ```
 public abstract boolean isFile()
@@ -51,26 +71,6 @@ Indicates whether the result is a text string.
 
 **Returns:**
 boolean - true if the result is a string; otherwise false.
-### isByteArray() {#isByteArray--}
-```
-public abstract boolean isByteArray()
-```
-
-
-Indicates whether the result is a bytes array.
-
-**Returns:**
-boolean -  true  if the result is a bytes array; otherwise  false .
-### getData() {#getData--}
-```
-public abstract Object getData()
-```
-
-
-Gets raw data.
-
-**Returns:**
-java.lang.Object - An object representing output data.
 ### toFile() {#toFile--}
 ```
 public abstract String toFile()

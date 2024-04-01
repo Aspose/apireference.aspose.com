@@ -3,7 +3,7 @@ title: Class ByteArrayResult
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.ByteArrayResult class. Represents operation result in the form of the bytes array
 type: docs
-weight: 310
+weight: 360
 url: /net/aspose.page.plugins/bytearrayresult/
 ---
 ## ByteArrayResult class

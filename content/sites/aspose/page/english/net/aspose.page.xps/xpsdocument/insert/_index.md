@@ -3,7 +3,7 @@ title: XpsDocument.Insert
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Inserts an element Canvas Path or Glyphs to the active page at index position
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.page.xps/xpsdocument/insert/
 ---
 ## XpsDocument.Insert&lt;T&gt; method

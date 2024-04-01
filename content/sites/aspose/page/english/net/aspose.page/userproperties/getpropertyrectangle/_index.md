@@ -3,7 +3,7 @@ title: UserProperties.GetPropertyRectangle
 second_title: Aspose.Page for .NET API Reference
 description: UserProperties method. Gets rectangle property value
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.page/userproperties/getpropertyrectangle/
 ---
 ## GetPropertyRectangle(string) {#getpropertyrectangle}
@@ -35,13 +35,13 @@ Property value.
 Gets rectangle property value. If requested property is absent, returns provided default value.
 
 ```csharp
-public virtual RectangleF GetPropertyRectangle(string key, RectangleF def)
+public virtual RectangleF GetPropertyRectangle(string key, RectangleF defValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | The name of property. |
-| def | RectangleF | Default value of property. |
+| defValue | RectangleF | Default value of property. |
 
 ### Return Value
 

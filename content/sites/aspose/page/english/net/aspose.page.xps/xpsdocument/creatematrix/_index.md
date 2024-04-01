@@ -3,7 +3,7 @@ title: XpsDocument.CreateMatrix
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new affine transformation matrix
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.page.xps/xpsdocument/creatematrix/
 ---
 ## XpsDocument.CreateMatrix method

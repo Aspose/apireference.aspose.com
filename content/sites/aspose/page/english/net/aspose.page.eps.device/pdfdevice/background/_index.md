@@ -3,7 +3,7 @@ title: PdfDevice.BACKGROUND
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Background property key
 type: docs
-weight: 330
+weight: 100
 url: /net/aspose.page.eps.device/pdfdevice/background/
 ---
 ## PdfDevice.BACKGROUND field

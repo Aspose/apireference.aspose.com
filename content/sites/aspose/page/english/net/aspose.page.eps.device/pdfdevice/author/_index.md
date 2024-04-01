@@ -3,7 +3,7 @@ title: PdfDevice.AUTHOR
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Author property value
 type: docs
-weight: 320
+weight: 90
 url: /net/aspose.page.eps.device/pdfdevice/author/
 ---
 ## PdfDevice.AUTHOR field

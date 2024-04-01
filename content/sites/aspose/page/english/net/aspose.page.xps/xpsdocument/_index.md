@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsDocument class. Class incapsulating the main entity of XPS document that provides manipulation methods for any XPS element
 type: docs
-weight: 710
+weight: 770
 url: /net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class
@@ -34,6 +34,7 @@ public sealed class XpsDocument : Document, IDisposable
 | [Page](../../aspose.page.xps/xpsdocument/page/) { get; } | Returns an [`XpsPage`](../../aspose.page.xps.xpsmodel/xpspage/) instance for active page. |
 | [PageCount](../../aspose.page.xps/xpsdocument/pagecount/) { get; } | Returns the number of pages in the active document. |
 | [TotalPageCount](../../aspose.page.xps/xpsdocument/totalpagecount/) { get; } | Returns total number of pages in all documents inside XPS document. |
+| [Utils](../../aspose.page.xps/xpsdocument/utils/) { get; } | Gets the object that provides utilities beyond the formal XPS manipulation API. |
 
 ## Methods
 
@@ -111,6 +112,9 @@ public sealed class XpsDocument : Document, IDisposable
 | [Save](../../aspose.page.xps/xpsdocument/save/#save_1)(Stream) | Saves XPS document to stream. |
 | [Save](../../aspose.page.xps/xpsdocument/save/#save_2)(string) | Saves XPS document to XPS file located at the *path*. |
 | override [Save](../../aspose.page.xps/xpsdocument/save/#save)(Device, SaveOptions) | Saves the document using the [`Device`](../../aspose.page/device/) instance. |
+| [SaveAsImage](../../aspose.page.xps/xpsdocument/saveasimage/)(ImageSaveOptions) | Saves the document in a bitmap image format. |
+| [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/)(Stream, PdfSaveOptions) | Saves the document in PDF format. |
+| [SaveAsPs](../../aspose.page.xps/xpsdocument/saveasps/)(Stream, PsSaveOptions) | Saves the document in PS format. |
 | [SelectActiveDocument](../../aspose.page.xps/xpsdocument/selectactivedocument/)(int) | Selects an active document for editing. |
 | [SelectActivePage](../../aspose.page.xps/xpsdocument/selectactivepage/)(int) | Selects an active document page for editing. |
 | [SetDocumentPrintTicket](../../aspose.page.xps/xpsdocument/setdocumentprintticket/)(int, DocumentPrintTicket) | Links the *printTicket* to the document indexed by *documentIndex*. |

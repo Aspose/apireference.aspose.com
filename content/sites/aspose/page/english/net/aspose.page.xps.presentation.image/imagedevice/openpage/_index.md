@@ -3,7 +3,7 @@ title: ImageDevice.OpenPage
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice method. Starts a new page with the specifies title
 type: docs
-weight: 230
+weight: 80
 url: /net/aspose.page.xps.presentation.image/imagedevice/openpage/
 ---
 ## OpenPage(string) {#openpage_1}

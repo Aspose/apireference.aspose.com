@@ -3,7 +3,7 @@ title: ImageSaveOptions.SmoothingMode
 second_title: Aspose.Page for .NET API Reference
 description: ImageSaveOptions property. Gets/sets the smoothing mode
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode/
 ---
 ## ImageSaveOptions.SmoothingMode property

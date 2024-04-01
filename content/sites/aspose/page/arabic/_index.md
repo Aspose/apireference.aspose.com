@@ -21,6 +21,7 @@ Aspose.Page هو NET API ومصمم للسماح للمطورين بالعمل �
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.Page لمرجع NET API](/page/ar/net/)
+- [Aspose.Page لبرامج .NET API التعليمية](/tutorials/page/ar/net/)
 
 
 ## Aspose.Page لجافا
@@ -36,7 +37,7 @@ Aspose.Page هي واجهة برمجة تطبيقات Java مصممة للسما
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.Page لمرجع Java API](/page/java/)
-
+- [Aspose.Page لبرامج Java API التعليمية](/tutorials/page/ar/java/)
 
 ## Aspose.Page لـ C ++
 

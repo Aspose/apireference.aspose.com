@@ -3,7 +3,7 @@ title: XpsDocument.CreateFont
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new TrueType font resource
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.page.xps/xpsdocument/createfont/
 ---
 ## CreateFont(string, FontStyle) {#createfont_1}

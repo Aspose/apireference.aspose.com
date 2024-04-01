@@ -3,7 +3,7 @@ title: PdfDevice.OpenPartition
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Starts a new document partition
 type: docs
-weight: 240
+weight: 90
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/openpartition/
 ---
 ## PdfDevice.OpenPartition method

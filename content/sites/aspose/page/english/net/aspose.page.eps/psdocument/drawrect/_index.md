@@ -3,7 +3,7 @@ title: PsDocument.DrawRect
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draws a rectangle
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.page.eps/psdocument/drawrect/
 ---
 ## PsDocument.DrawRect method

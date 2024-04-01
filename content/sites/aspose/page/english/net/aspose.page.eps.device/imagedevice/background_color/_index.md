@@ -3,7 +3,7 @@ title: ImageDevice.BACKGROUND_COLOR
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice field. Background color property key
 type: docs
-weight: 510
+weight: 100
 url: /net/aspose.page.eps.device/imagedevice/background_color/
 ---
 ## ImageDevice.BACKGROUND_COLOR field

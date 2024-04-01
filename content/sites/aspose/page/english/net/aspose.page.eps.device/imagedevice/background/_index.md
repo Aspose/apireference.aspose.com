@@ -3,7 +3,7 @@ title: ImageDevice.BACKGROUND
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice field. Background property key
 type: docs
-weight: 500
+weight: 90
 url: /net/aspose.page.eps.device/imagedevice/background/
 ---
 ## ImageDevice.BACKGROUND field

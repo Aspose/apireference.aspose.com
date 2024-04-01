@@ -3,7 +3,7 @@ title: XpsDocument.CreateVisualBrush
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Creates a new visual brush
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.page.xps/xpsdocument/createvisualbrush/
 ---
 ## XpsDocument.CreateVisualBrush method

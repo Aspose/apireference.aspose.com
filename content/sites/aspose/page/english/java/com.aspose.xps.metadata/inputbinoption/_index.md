@@ -28,18 +28,29 @@ Describes the  JobInputBin ,  DocumentInputBin  and  PageInputBin  features opti
 | Field | Description |
 | --- | --- |
 | [AutoSelect](#AutoSelect) | Device will automatically choose best option based on configuration. |
-| [Manual](#Manual) | Specifies the default manual feed bin. |
-| [Cassette](#Cassette) | Specifies the feed bin is a cassette. |
-| [Tractor](#Tractor) | Specifies the feed bin is a tractor. |
 | [AutoSheetFeeder](#AutoSheetFeeder) | Device Input tray for Inkjet Printers. |
+| [Cassette](#Cassette) | Specifies the feed bin is a cassette. |
+| [Manual](#Manual) | Specifies the default manual feed bin. |
+| [Tractor](#Tractor) | Specifies the feed bin is a tractor. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Adds a list of items to the end of this option's item list. |
 | [add(InputBin.IInputBinOptionItem[] items)](#add-com.aspose.xps.metadata.InputBin.IInputBinOptionItem...-) | Adds an array of  IInputBinOptionItem  instances to the option. |
+| [clone()](#clone--) | Clones this option instance. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | Gets the element name. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setMediaCapacity(int mediaCapacity)](#setMediaCapacity-int-) | Sets a  MediaCapacity  scored property value. |
 | [setMediaSheetCapacity(int mediaSheetCapacity)](#setMediaSheetCapacity-int-) | Sets a  MediaSheetCapacity  scored property value. |
-| [clone()](#clone--) | Clones this option instance. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### InputBinOption(String optionName, InputBin.IInputBinOptionItem[] items) {#InputBinOption-java.lang.String-com.aspose.xps.metadata.InputBin.IInputBinOptionItem...-}
 ```
 public InputBinOption(String optionName, InputBin.IInputBinOptionItem[] items)
@@ -52,7 +63,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.InputBin.IInputBinOptionItem[] | An arbitrary array of  IInputBinOptionItem  instances. |
+| items | [IInputBinOptionItem\[\]](../../com.aspose.xps.metadata/iinputbinoptionitem) | An arbitrary array of  IInputBinOptionItem  instances. |
 
 ### InputBinOption(InputBin.InputBinOption option) {#InputBinOption-com.aspose.xps.metadata.InputBin.InputBinOption-}
 ```
@@ -75,13 +86,13 @@ public static InputBin.InputBinOption AutoSelect
 
 Device will automatically choose best option based on configuration.
 
-### Manual {#Manual}
+### AutoSheetFeeder {#AutoSheetFeeder}
 ```
-public static InputBin.InputBinOption Manual
+public static InputBin.InputBinOption AutoSheetFeeder
 ```
 
 
-Specifies the default manual feed bin.
+Device Input tray for Inkjet Printers.
 
 ### Cassette {#Cassette}
 ```
@@ -91,6 +102,14 @@ public static InputBin.InputBinOption Cassette
 
 Specifies the feed bin is a cassette.
 
+### Manual {#Manual}
+```
+public static InputBin.InputBinOption Manual
+```
+
+
+Specifies the default manual feed bin.
+
 ### Tractor {#Tractor}
 ```
 public static InputBin.InputBinOption Tractor
@@ -99,13 +118,18 @@ public static InputBin.InputBinOption Tractor
 
 Specifies the feed bin is a tractor.
 
-### AutoSheetFeeder {#AutoSheetFeeder}
+### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
 ```
-public static InputBin.InputBinOption AutoSheetFeeder
+public void add(IOptionItem[] items)
 ```
 
 
-Device Input tray for Inkjet Printers.
+Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| items | [IOptionItem\[\]](../../com.aspose.xps.metadata/ioptionitem) | List of items to add. |
 
 ### add(InputBin.IInputBinOptionItem[] items) {#add-com.aspose.xps.metadata.InputBin.IInputBinOptionItem...-}
 ```
@@ -117,10 +141,81 @@ Adds an array of  IInputBinOptionItem  instances to the option.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.InputBin.IInputBinOptionItem[] | An arbitrary array of  IInputBinOptionItem  instances. |
+| items | [IInputBinOptionItem\[\]](../../com.aspose.xps.metadata/iinputbinoptionitem) | An arbitrary array of  IInputBinOptionItem  instances. |
 
 **Returns:**
 [InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - This options instance.
+### clone() {#clone--}
+```
+public InputBin.InputBinOption clone()
+```
+
+
+Clones this option instance. The shortcut to the cloneing constructor.
+
+**Returns:**
+[InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - The clone of this option instance.
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the element name.
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setMediaCapacity(int mediaCapacity) {#setMediaCapacity-int-}
 ```
 public InputBin.InputBinOption setMediaCapacity(int mediaCapacity)
@@ -149,13 +244,48 @@ Sets a  MediaSheetCapacity  scored property value.
 
 **Returns:**
 [InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - This option instance.
-### clone() {#clone--}
+### toString() {#toString--}
 ```
-public InputBin.InputBinOption clone()
+public String toString()
 ```
 
 
-Clones this option instance. The shortcut to the cloneing constructor.
+
 
 **Returns:**
-[InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - The clone of this option instance.
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

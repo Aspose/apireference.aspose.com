@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.Feature class. The class that incapsulates a common Print Schema feature. The base class for all schemadefined features. A
 type: docs
-weight: 1110
+weight: 1170
 url: /net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

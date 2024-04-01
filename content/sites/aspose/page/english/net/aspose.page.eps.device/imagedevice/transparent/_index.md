@@ -3,7 +3,7 @@ title: ImageDevice.TRANSPARENT
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice field. Transparent property key
 type: docs
-weight: 600
+weight: 190
 url: /net/aspose.page.eps.device/imagedevice/transparent/
 ---
 ## ImageDevice.TRANSPARENT field

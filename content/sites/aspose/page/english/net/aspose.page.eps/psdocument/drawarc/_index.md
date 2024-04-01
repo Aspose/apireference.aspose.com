@@ -3,7 +3,7 @@ title: PsDocument.DrawArc
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Draws an arc
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.page.eps/psdocument/drawarc/
 ---
 ## PsDocument.DrawArc method

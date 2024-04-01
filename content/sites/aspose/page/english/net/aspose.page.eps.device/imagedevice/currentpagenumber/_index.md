@@ -3,7 +3,7 @@ title: ImageDevice.CurrentPageNumber
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice property. Current page number
 type: docs
-weight: 50
+weight: 20
 url: /net/aspose.page.eps.device/imagedevice/currentpagenumber/
 ---
 ## ImageDevice.CurrentPageNumber property

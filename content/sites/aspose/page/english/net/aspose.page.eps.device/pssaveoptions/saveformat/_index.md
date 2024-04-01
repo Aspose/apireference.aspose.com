@@ -11,11 +11,12 @@ url: /net/aspose.page.eps.device/pssaveoptions/saveformat/
 The save format of resulting file.
 
 ```csharp
-public #=z21PDVBVWHGm6_D9_TDVah2ljQFz114$1sA== SaveFormat { get; set; }
+public PsSaveFormat SaveFormat { get; set; }
 ```
 
 ### See Also
 
+* enum [PsSaveFormat](../../pssaveformat/)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Page.EPS.Device](../../pssaveoptions/)
 * assembly [Aspose.Page](../../../)

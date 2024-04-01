@@ -3,7 +3,7 @@ title: com.aspose.eps
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.eps is a root package for all classes that deal with PS/EPS files.
 type: docs
-weight: 11
+weight: 10
 url: /java/com.aspose.eps/
 ---
 

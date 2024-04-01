@@ -3,7 +3,7 @@ title: Class SaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.SaveOptions class. This class contains options necessary for managing conversion process
 type: docs
-weight: 510
+weight: 560
 url: /net/aspose.page/saveoptions/
 ---
 ## SaveOptions class

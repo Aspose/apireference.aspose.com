@@ -3,7 +3,7 @@ title: PdfDevice.ClosePage
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Accomplishes the page
 type: docs
-weight: 130
+weight: 50
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/closepage/
 ---
 ## PdfDevice.ClosePage method

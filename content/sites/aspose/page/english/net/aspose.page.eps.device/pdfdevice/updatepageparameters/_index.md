@@ -3,7 +3,7 @@ title: PdfDevice.UpdatePageParameters
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Updates page parameters from other multipaged device
 type: docs
-weight: 300
+weight: 80
 url: /net/aspose.page.eps.device/pdfdevice/updatepageparameters/
 ---
 ## PdfDevice.UpdatePageParameters method

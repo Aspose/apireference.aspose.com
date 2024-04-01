@@ -3,7 +3,7 @@ title: PdfDevice.EMBED_FONTS_AS
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. What font type is used for embedding property key
 type: docs
-weight: 370
+weight: 140
 url: /net/aspose.page.eps.device/pdfdevice/embed_fonts_as/
 ---
 ## PdfDevice.EMBED_FONTS_AS field

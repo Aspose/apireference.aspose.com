@@ -3,7 +3,7 @@ title: PdfDevice.InitPageNumbers
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice method. Initializes numbers of pages to output
 type: docs
-weight: 220
+weight: 70
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/initpagenumbers/
 ---
 ## PdfDevice.InitPageNumbers method

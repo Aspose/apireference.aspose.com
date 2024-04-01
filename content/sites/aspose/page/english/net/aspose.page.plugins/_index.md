@@ -3,7 +3,7 @@ title: Aspose.Page.Plugins
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.Plugins is a root namespace for all classes of Aspose.Page.Plugins classes which are either directly in it like PsConverter or indirectly through several subnamespaces
 type: docs
-weight: 60
+weight: 90
 url: /net/aspose.page.plugins/
 ---
 The **Aspose.Page.Plugins** is a root namespace for all classes of Aspose.Page.Plugins classes which are either directly in it like **PsConverter** or indirectly through several subnamespaces.

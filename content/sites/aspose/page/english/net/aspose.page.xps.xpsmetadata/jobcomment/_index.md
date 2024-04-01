@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobComment class. Specifies a comment associated with the job. Example Please deliver to room 1234 when completed. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1450
+weight: 1510
 url: /net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

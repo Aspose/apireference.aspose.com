@@ -3,7 +3,7 @@ title: PageConstants.GetSize
 second_title: Aspose.Page for .NET API Reference
 description: PageConstants method. Calculates page size in Portrait page orientation predefined page sizeCalculated page size
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.page.eps/pageconstants/getsize/
 ---
 ## GetSize(string) {#getsize_1}

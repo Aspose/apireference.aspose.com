@@ -3,7 +3,7 @@ title: Class PngSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.Presentation.Image.PngSaveOptions class. Class for XPSasPNG saving options
 type: docs
-weight: 610
+weight: 680
 url: /net/aspose.page.xps.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class
@@ -27,6 +27,7 @@ public class PngSaveOptions : ImageSaveOptions
 | [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
 | virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Specifies whether debug information must be printed to standard output stream or not. |
 | virtual [Exceptions](../../aspose.page/saveoptions/exceptions/) { get; } | Returns a list of suppressed conversion errors If !:SuppressErrors is true. |
+| [ImageSize](../../aspose.page.xps.presentation.image/imagesaveoptions/imagesize/) { get; set; } | Gets/sets the size of the output images in pixels. |
 | [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode/) { get; set; } | Gets/sets the interpolation mode. |
 | [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel/) { get; set; } | The Quality category specifies the level of compression for an image. Available values are 0 to 100. The lower the number specified, the higher the compression and therefore the lower the quality of the image. 0 value results in lowest quality image, while 100 results in highest. |
 | [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers/) { get; set; } | Gets/sets the array of numbers of pages to convert. |

@@ -3,7 +3,7 @@ title: ImageDevice.UpdatePageParameters
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice method. Updates the current page parameters
 type: docs
-weight: 350
+weight: 100
 url: /net/aspose.page.xps.presentation.image/imagedevice/updatepageparameters/
 ---
 ## ImageDevice.UpdatePageParameters method

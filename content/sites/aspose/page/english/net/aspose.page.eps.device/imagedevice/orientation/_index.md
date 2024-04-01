@@ -3,7 +3,7 @@ title: ImageDevice.ORIENTATION
 second_title: Aspose.Page for .NET API Reference
 description: ImageDevice field. Orientation property key
 type: docs
-weight: 560
+weight: 150
 url: /net/aspose.page.eps.device/imagedevice/orientation/
 ---
 ## ImageDevice.ORIENTATION field

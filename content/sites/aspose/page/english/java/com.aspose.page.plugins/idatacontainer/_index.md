@@ -14,18 +14,8 @@ General data container interface that defines common methods that concrete data 
 
 | Method | Description |
 | --- | --- |
-| [getDataCollection()](#getDataCollection--) | Gets collection of data sources |
 | [addDataSource(IDataSource dataSource)](#addDataSource-com.aspose.page.plugins.IDataSource-) | Adds new data source to the collection |
-### getDataCollection() {#getDataCollection--}
-```
-public abstract List<IDataSource> getDataCollection()
-```
-
-
-Gets collection of data sources
-
-**Returns:**
-java.util.List<com.aspose.page.plugins.IDataSource>
+| [getDataCollection()](#getDataCollection--) | Gets collection of data sources |
 ### addDataSource(IDataSource dataSource) {#addDataSource-com.aspose.page.plugins.IDataSource-}
 ```
 public abstract void addDataSource(IDataSource dataSource)
@@ -39,3 +29,13 @@ Adds new data source to the collection
 | --- | --- | --- |
 | dataSource | [IDataSource](../../com.aspose.page.plugins/idatasource) |  |
 
+### getDataCollection() {#getDataCollection--}
+```
+public abstract List<IDataSource> getDataCollection()
+```
+
+
+Gets collection of data sources
+
+**Returns:**
+java.util.List<com.aspose.page.plugins.IDataSource>

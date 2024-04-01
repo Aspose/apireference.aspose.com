@@ -3,7 +3,7 @@ title: XpsDocument.AddPath
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Adds a new path to the active page
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.page.xps/xpsdocument/addpath/
 ---
 ## XpsDocument.AddPath method

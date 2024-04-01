@@ -3,7 +3,7 @@ title: PdfDevice.OutputStream
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice property. Specifies or returns an output stream
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.page.eps.device/pdfdevice/outputstream/
 ---
 ## PdfDevice.OutputStream property

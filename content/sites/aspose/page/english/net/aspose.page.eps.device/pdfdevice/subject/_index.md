@@ -3,7 +3,7 @@ title: PdfDevice.SUBJECT
 second_title: Aspose.Page for .NET API Reference
 description: PdfDevice field. Subject property value
 type: docs
-weight: 450
+weight: 220
 url: /net/aspose.page.eps.device/pdfdevice/subject/
 ---
 ## PdfDevice.SUBJECT field
