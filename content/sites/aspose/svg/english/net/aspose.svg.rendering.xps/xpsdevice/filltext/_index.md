@@ -3,7 +3,7 @@ title: XpsDevice.FillText
 second_title: Aspose.SVG for .NET API Reference
 description: XpsDevice method. Fills the specified text string at the specified location
 type: docs
-weight: 130
+weight: 20
 url: /net/aspose.svg.rendering.xps/xpsdevice/filltext/
 ---
 ## XpsDevice.FillText method
@@ -22,5 +22,5 @@ public override void FillText(string text, PointF pt)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)

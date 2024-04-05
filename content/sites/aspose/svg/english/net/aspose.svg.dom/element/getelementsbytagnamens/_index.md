@@ -3,7 +3,7 @@ title: Element.GetElementsByTagNameNS
 second_title: Aspose.SVG for .NET API Reference
 description: Element method. Returns a NodeList of all the descendant Elements with a given local name and namespace URI in document order
 type: docs
-weight: 300
+weight: 290
 url: /net/aspose.svg.dom/element/getelementsbytagnamens/
 ---
 ## Element.GetElementsByTagNameNS method

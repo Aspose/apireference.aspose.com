@@ -21,12 +21,6 @@ public class FileSystemResourceHandler : ResourceHandler
 | [FileSystemResourceHandler](filesystemresourcehandler/#constructor_1)(string) | Initializes a new instance of the `FileSystemResourceHandler` class. |
 | [FileSystemResourceHandler](filesystemresourcehandler/#constructor)(Url) | Initializes a new instance of the `FileSystemResourceHandler` class. |
 
-## Properties
-
-| Name | Description |
-| --- | --- |
-| [MainResourceOutputUrl](../../aspose.svg.saving.resourcehandlers/filesystemresourcehandler/mainresourceoutputurl/) { get; } |  |
-
 ## Methods
 
 | Name | Description |

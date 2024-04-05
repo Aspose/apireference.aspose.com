@@ -3,7 +3,7 @@ title: PdfDevice.FillText
 second_title: Aspose.SVG for .NET API Reference
 description: PdfDevice method. Fills the specified text string at the specified location
 type: docs
-weight: 140
+weight: 20
 url: /net/aspose.svg.rendering.pdf/pdfdevice/filltext/
 ---
 ## PdfDevice.FillText method
@@ -22,5 +22,5 @@ public override void FillText(string text, PointF pt)
 ### See Also
 
 * class [PdfDevice](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)

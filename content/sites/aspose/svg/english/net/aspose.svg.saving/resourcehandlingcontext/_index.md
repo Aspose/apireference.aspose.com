@@ -18,9 +18,7 @@ public class ResourceHandlingContext
 
 | Name | Description |
 | --- | --- |
-| [InternalResourceHandlingContext](../../aspose.svg.saving/resourcehandlingcontext/internalresourcehandlingcontext/) { get; } |  |
 | [ParentResource](../../aspose.svg.saving/resourcehandlingcontext/parentresource/) { get; } | Returns a [`Resource`](../resource/) that contains a reference to the [`Resource`](../resource/) currently being processed. |
-| [ResourceManager](../../aspose.svg.saving/resourcehandlingcontext/resourcemanager/) { get; } |  |
 
 ### See Also
 
