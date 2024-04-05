@@ -50,7 +50,7 @@ public class PdfDevice : DeviceAdapter
 | virtual [EndElement](../../aspose.svg.rendering/deviceadapter/endelement/)(Element) | Ends rendering of the element. |
 | virtual [EndPage](../../aspose.svg.rendering/deviceadapter/endpage/)() | Ends rendering of the current page. |
 | virtual [Fill](../../aspose.svg.rendering/deviceadapter/fill/)(FillRule) | Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths, it fills the insides of all subpaths, considered together. This method terminates current path. |
-| virtual [FillText](../../aspose.svg.rendering/deviceadapter/filltext/)(string, PointF) | Fills the specified text string at the specified location. |
+| override [FillText](../../aspose.svg.rendering.pdf/pdfdevice/filltext/)(string, PointF) | Fills the specified text string at the specified location. |
 | virtual [Flush](../../aspose.svg.rendering/deviceadapter/flush/)() | Flushes all data to output stream. |
 | virtual [LineTo](../../aspose.svg.rendering/deviceadapter/lineto/)(PointF) | Appends a straight line segment from the current point to the point (pt). The new current point is pt. |
 | virtual [MoveTo](../../aspose.svg.rendering/deviceadapter/moveto/)(PointF) | Begins a new subpath by moving the current point to coordinates of the parameter pt, omitting any connecting line segment. If the previous path construction method in the current path was also "MoveTo", the new "MoveTo" overrides it; no vestige of the previous "MoveTo" operation remains in the path. |

@@ -3,7 +3,7 @@ title: ResourceHandlingContext.ParentResource
 second_title: Aspose.SVG for .NET API Reference
 description: ResourceHandlingContext property. Returns a Resource that contains a reference to the Resource currently being processed
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.svg.saving/resourcehandlingcontext/parentresource/
 ---
 ## ResourceHandlingContext.ParentResource property

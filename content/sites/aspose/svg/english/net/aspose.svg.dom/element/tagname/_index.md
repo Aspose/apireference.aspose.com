@@ -3,7 +3,7 @@ title: Element.TagName
 second_title: Aspose.SVG for .NET API Reference
 description: Element property. The name of the element
 type: docs
-weight: 200
+weight: 190
 url: /net/aspose.svg.dom/element/tagname/
 ---
 ## Element.TagName property

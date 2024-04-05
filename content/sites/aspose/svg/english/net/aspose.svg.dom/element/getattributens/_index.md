@@ -3,7 +3,7 @@ title: Element.GetAttributeNS
 second_title: Aspose.SVG for .NET API Reference
 description: Element method. Retrieves an attribute value by local name and namespace URI
 type: docs
-weight: 270
+weight: 260
 url: /net/aspose.svg.dom/element/getattributens/
 ---
 ## Element.GetAttributeNS method
