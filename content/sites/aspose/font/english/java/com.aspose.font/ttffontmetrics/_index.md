@@ -19,6 +19,7 @@ Represents TTF Font metrics.
 | --- | --- |
 | [getGlyphWidth(GlyphId glyphId)](#getGlyphWidth-com.aspose.font.GlyphId-) | Returns glyphs width by glyph id. |
 | [measureString(String unicode, double fontSize)](#measureString-java.lang.String-double-) | Measures string and returns string width. |
+| [measureString(long[] charCodes, double fontSize)](#measureString-long---double-) | Measures text represented as array of character codes and returns string width. |
 | [getAscender()](#getAscender--) | Gets ascender value. |
 | [setAscender(double value)](#setAscender-double-) | Sets ascender value. |
 | [getDescender()](#getDescender--) | Gets descender value. |
@@ -61,6 +62,22 @@ Measures string and returns string width.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | unicode | java.lang.String | Unicode string. |
+| fontSize | double | Font size. |
+
+**Returns:**
+double - String width.
+### measureString(long[] charCodes, double fontSize) {#measureString-long---double-}
+```
+public double measureString(long[] charCodes, double fontSize)
+```
+
+
+Measures text represented as array of character codes and returns string width.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| charCodes | long[] | Text string represented as array of character codes. |
 | fontSize | double | Font size. |
 
 **Returns:**

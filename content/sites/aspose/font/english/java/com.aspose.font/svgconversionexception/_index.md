@@ -39,7 +39,7 @@ Initializes new  SvgConversionException  object.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | java.lang.String |  |
+| message | java.lang.String | A message that describes the error. |
 
 ### SvgConversionException(String message, RuntimeException innerException) {#SvgConversionException-java.lang.String-java.lang.RuntimeException-}
 ```
