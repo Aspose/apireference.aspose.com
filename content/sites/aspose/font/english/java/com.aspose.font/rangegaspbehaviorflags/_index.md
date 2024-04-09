@@ -115,7 +115,7 @@ Returns the integer value corresponding to a set of flags.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| flags | java.util.EnumSet<com.aspose.font.RangeGaspBehaviorFlags> |  |
+| flags | java.util.EnumSet<com.aspose.font.RangeGaspBehaviorFlags> | A set of flags. |
 
 **Returns:**
 int - The integer value corresponding to a set of flags.

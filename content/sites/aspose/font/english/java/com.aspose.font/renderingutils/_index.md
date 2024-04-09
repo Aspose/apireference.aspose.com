@@ -19,6 +19,8 @@ Provides utility methods for rendering.
 | --- | --- |
 | [drawText(Font font, String text, double fontSize)](#drawText-com.aspose.font.Font-java.lang.String-double-) | Rendering text in BitMap. |
 | [drawText(Font font, String text, double fontSize, RenderingUtils.LineSpacingType lineSpacingType, int lineSpacingValue, int maxWidth)](#drawText-com.aspose.font.Font-java.lang.String-double-com.aspose.font.RenderingUtils.LineSpacingType-int-int-) | Rendering text in BitMap. |
+| [drawText(Font font, GlyphId[] glyphIds, double fontSize)](#drawText-com.aspose.font.Font-com.aspose.font.GlyphId---double-) | Rendering text in BitMap. |
+| [drawText(Font font, GlyphId[] glyphIds, double fontSize, RenderingUtils.LineSpacingType lineSpacingType, int lineSpacingValue, int maxWidth)](#drawText-com.aspose.font.Font-com.aspose.font.GlyphId---double-com.aspose.font.RenderingUtils.LineSpacingType-int-int-) | Rendering text in BitMap. |
 ### drawText(Font font, String text, double fontSize) {#drawText-com.aspose.font.Font-java.lang.String-double-}
 ```
 public static InputStream drawText(Font font, String text, double fontSize)
@@ -56,3 +58,40 @@ Rendering text in BitMap.
 
 **Returns:**
 java.io.InputStream - The PNG image with the text as a stream of bytes.
+### drawText(Font font, GlyphId[] glyphIds, double fontSize) {#drawText-com.aspose.font.Font-com.aspose.font.GlyphId---double-}
+```
+public static InputStream drawText(Font font, GlyphId[] glyphIds, double fontSize)
+```
+
+
+Rendering text in BitMap. Return result in PNG-format as stream of bytes
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | [Font](../../com.aspose.font/font) | Font |
+| glyphIds | [GlyphId\[\]](../../com.aspose.font/glyphid) | Text represented as array of glyph identifiers |
+| fontSize | double | Font size |
+
+**Returns:**
+java.io.InputStream - Image in PNG format as stream of bytes
+### drawText(Font font, GlyphId[] glyphIds, double fontSize, RenderingUtils.LineSpacingType lineSpacingType, int lineSpacingValue, int maxWidth) {#drawText-com.aspose.font.Font-com.aspose.font.GlyphId---double-com.aspose.font.RenderingUtils.LineSpacingType-int-int-}
+```
+public static InputStream drawText(Font font, GlyphId[] glyphIds, double fontSize, RenderingUtils.LineSpacingType lineSpacingType, int lineSpacingValue, int maxWidth)
+```
+
+
+Rendering text in BitMap. Return result in PNG-format as stream of bytes
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | [Font](../../com.aspose.font/font) | Font |
+| glyphIds | [GlyphId\[\]](../../com.aspose.font/glyphid) | Text represented as array of glyph identifiers |
+| fontSize | double | Font size |
+| lineSpacingType | [RenderingUtils.LineSpacingType](../../com.aspose.font/renderingutils.linespacingtype) | Type of line spacing. Number of pixels or percent of font height |
+| lineSpacingValue | int | Value of line spacing |
+| maxWidth | int | Max width in pixels for image |
+
+**Returns:**
+java.io.InputStream - Image in PNG format as stream of bytes
