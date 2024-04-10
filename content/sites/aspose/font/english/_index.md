@@ -52,7 +52,7 @@ These are links to some useful resources:
 
 - [Aspose.Font for C++ API Reference](/font/cpp/)
 
-## Aspose.Font for JavaScript
+## Aspose.Font for JavaScript via C++
 
 {{% alert color="primary" %}}
 
@@ -65,4 +65,4 @@ Aspose.Font for JavaScript via C++ is a font manipulation API which lets you wor
 
 These are links to some useful resources:
 
-- [Aspose.Font for C++ API Reference](/font/javascriptcpp/)
+- [Aspose.Font for JavaScript via C++ API Reference](/font/javascriptcpp/)
