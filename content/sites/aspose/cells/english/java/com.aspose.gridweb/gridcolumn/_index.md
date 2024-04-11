@@ -18,14 +18,12 @@ Represents a single column in a worksheet.
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getCaption()](#getCaption--) |  |
 | [getClass()](#getClass--) |  |
 | [getHidden()](#getHidden--) | Indicates whether the column is hidden. |
 | [getIndex()](#getIndex--) | Gets the index of this column. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setCaption(String value)](#setCaption-java.lang.String-) |  |
 | [setHidden(boolean value)](#setHidden-boolean-) | Indicates whether the column is hidden. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -46,16 +44,6 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getCaption() {#getCaption--}
-```
-public String getCaption()
-```
-
-
-
-
-**Returns:**
-java.lang.String
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -111,19 +99,6 @@ public final native void notifyAll()
 
 
 
-
-### setCaption(String value) {#setCaption-java.lang.String-}
-```
-public void setCaption(String value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
 
 ### setHidden(boolean value) {#setHidden-boolean-}
 ```
