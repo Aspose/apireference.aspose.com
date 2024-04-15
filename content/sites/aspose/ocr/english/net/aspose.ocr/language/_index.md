@@ -159,6 +159,7 @@ public enum Language
 | Ruf | `138` | Luguru alphabet |
 | Srp_hrv | `139` | Serbo-Croatian alphabet |
 | None | `140` | Multi-language (latin alphabet + diacritic) support |
+| Ara | `141` | Arabic alphabet |
 
 ### See Also
 
