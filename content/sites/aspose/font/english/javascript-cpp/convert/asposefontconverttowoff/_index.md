@@ -1,6 +1,6 @@
 ---
 title: AsposeFontConvertToWOFF
-second_title: Aspose.PDF for JavaScript via C++
+second_title: Aspose.Font for JavaScript via C++
 description: Converts the Font into woff format
 type: docs
 weight: 10
