@@ -3,7 +3,7 @@ title: SizeF
 second_title: Aspose.Drawing for Java API Reference
 description: Stores an ordered pair of floating-point numbers typically the width and height of a rectangle.
 type: docs
-weight: 42
+weight: 43
 url: /java/com.aspose.drawing/sizef/
 ---
 **Inheritance:**

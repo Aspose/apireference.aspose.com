@@ -35,13 +35,13 @@ Encapsulates a bitmap, which consists of the pixel data for a graphics image and
 | [getHeight()](#getHeight--) | Gets the height, in pixels, of this Bitmap. |
 | [getRawFormat()](#getRawFormat--) | Gets the file format of this [Image](../../com.aspose.drawing/image). |
 | [getPixelFormat()](#getPixelFormat--) | Gets the pixel format for this [Image](../../com.aspose.drawing/image). |
-| [getPalette()](#getPalette--) | Gets the color palette used for this [Image](../../com.aspose.drawing/image). |
-| [setPalette(ColorPalette value)](#setPalette-com.aspose.drawing.imaging.ColorPalette-) | Sets the color palette used for this [Image](../../com.aspose.drawing/image). |
+| [getPalette()](#getPalette--) | Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image). |
+| [setPalette(ColorPalette value)](#setPalette-com.aspose.drawing.imaging.ColorPalette-) | Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image). |
 | [getFrameDimensionsList()](#getFrameDimensionsList--) | Gets an array of GUIDs that represent the dimensions of frames within this [Image](../../com.aspose.drawing/image). |
 | [getPropertyIdList()](#getPropertyIdList--) | Gets IDs of the property items stored in this [Image](../../com.aspose.drawing/image). |
 | [getPropertyItems()](#getPropertyItems--) | Gets all the property items (pieces of metadata) stored in this [Image](../../com.aspose.drawing/image). |
 | [deepClone(Rectangle rect, int format)](#deepClone-com.aspose.drawing.Rectangle-int-) | Creates a copy of the section of this [Bitmap](../../com.aspose.drawing/bitmap) defined by [Rectangle](../../com.aspose.drawing/rectangle) structure and with a specified `PixelFormat`([Image.getPixelFormat](../../com.aspose.drawing/image\#getPixelFormat)) enumeration. |
-| [deepClone(RectangleF rect, int format)](#deepClone-com.aspose.drawing.RectangleF-int-) | Creates a copy of the section of this [Bitmap](../../com.aspose.drawing/bitmap) defined with a specified ImagingPixelFormat enumeration. |
+| [deepClone(RectangleF rect, int format)](#deepClone-com.aspose.drawing.RectangleF-int-) | Creates a copy of the section of this [Bitmap](../../com.aspose.drawing/bitmap) defined with a specified [PixelFormat](../../com.aspose.drawing.imaging/pixelformat) enumeration. |
 | [setResolution(float xDpi, float yDpi)](#setResolution-float-float-) | Sets the resolution for this [Bitmap](../../com.aspose.drawing/bitmap). |
 | [lockBits(Rectangle rect, int flags, int format)](#lockBits-com.aspose.drawing.Rectangle-int-int-) | Locks a [Bitmap](../../com.aspose.drawing/bitmap) into system memory. |
 | [unlockBits(BitmapData bitmapData)](#unlockBits-com.aspose.drawing.imaging.BitmapData-) | Unlocks this [Bitmap](../../com.aspose.drawing/bitmap) from system memory. |
@@ -210,7 +210,7 @@ public int getWidth()
 Gets the width, in pixels, of this Bitmap.
 
 **Returns:**
-int - the width, in pixels, of this Bitmap.
+int
 ### getHeight() {#getHeight--}
 ```
 public int getHeight()
@@ -220,7 +220,7 @@ public int getHeight()
 Gets the height, in pixels, of this Bitmap.
 
 **Returns:**
-int - the height, in pixels, of this Bitmap.
+int
 ### getRawFormat() {#getRawFormat--}
 ```
 public ImageFormat getRawFormat()
@@ -247,7 +247,7 @@ public ColorPalette getPalette()
 ```
 
 
-Gets the color palette used for this [Image](../../com.aspose.drawing/image).
+Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image).
 
 **Returns:**
 [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) - A [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) that represents the color palette used for this [Image](../../com.aspose.drawing/image).
@@ -257,12 +257,12 @@ public void setPalette(ColorPalette value)
 ```
 
 
-Sets the color palette used for this [Image](../../com.aspose.drawing/image).
+Gets or sets the color palette used for this [Image](../../com.aspose.drawing/image).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) | the color palette used for this [Image](../../com.aspose.drawing/image). |
+| value | [ColorPalette](../../com.aspose.drawing.imaging/colorpalette) |  |
 
 ### getFrameDimensionsList() {#getFrameDimensionsList--}
 ```
@@ -316,13 +316,13 @@ public final Bitmap deepClone(RectangleF rect, int format)
 ```
 
 
-Creates a copy of the section of this [Bitmap](../../com.aspose.drawing/bitmap) defined with a specified ImagingPixelFormat enumeration.
+Creates a copy of the section of this [Bitmap](../../com.aspose.drawing/bitmap) defined with a specified [PixelFormat](../../com.aspose.drawing.imaging/pixelformat) enumeration.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | [RectangleF](../../com.aspose.drawing/rectanglef) | Defines the portion of this [Bitmap](../../com.aspose.drawing/bitmap) to copy. |
-| format | int | Specifies the ImagingPixelFormat enumeration for the destination [Bitmap](../../com.aspose.drawing/bitmap). |
+| format | int | Specifies the [PixelFormat](../../com.aspose.drawing.imaging/pixelformat) enumeration for the destination [Bitmap](../../com.aspose.drawing/bitmap). |
 
 **Returns:**
 [Bitmap](../../com.aspose.drawing/bitmap) - The [Bitmap](../../com.aspose.drawing/bitmap) that this method creates.

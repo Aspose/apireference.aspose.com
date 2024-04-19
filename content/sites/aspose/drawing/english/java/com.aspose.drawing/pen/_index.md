@@ -3,7 +3,7 @@ title: Pen
 second_title: Aspose.Drawing for Java API Reference
 description: Defines an object used to draw lines and curves.
 type: docs
-weight: 33
+weight: 34
 url: /java/com.aspose.drawing/pen/
 ---
 **Inheritance:**
@@ -28,38 +28,38 @@ Defines an object used to draw lines and curves.
 
 | Method | Description |
 | --- | --- |
-| [getColor()](#getColor--) | Gets the color of this [Pen](../../com.aspose.drawing/pen). |
-| [setColor(Color value)](#setColor-com.aspose.drawing.Color-) | Sets the color of this [Pen](../../com.aspose.drawing/pen). |
-| [getBrush()](#getBrush--) | Gets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen). |
-| [setBrush(Brush value)](#setBrush-com.aspose.drawing.Brush-) | Sets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen). |
-| [getCompoundArray()](#getCompoundArray--) | Gets an array of values that specifies a compound pen. |
-| [setCompoundArray(float[] value)](#setCompoundArray-float---) | Sets an array of values that specifies a compound pen. |
-| [getWidth()](#getWidth--) | Gets the width of this Pen, in units of the Graphics object used for com.aspose.drawing. |
-| [setWidth(float value)](#setWidth-float-) | Sets the width of this Pen, in units of the Graphics object used for com.aspose.drawing. |
-| [getStartCap()](#getStartCap--) | Gets the cap style used at the beginning of lines drawn with this Pen. |
-| [setStartCap(int value)](#setStartCap-int-) | Sets the cap style used at the beginning of lines drawn with this Pen. |
-| [getEndCap()](#getEndCap--) | Gets the cap style used at the end of lines drawn with this Pen. |
-| [setEndCap(int value)](#setEndCap-int-) | Sets the cap style used at the end of lines drawn with this Pen. |
-| [getLineJoin()](#getLineJoin--) | Gets the join style for the ends of two consecutive lines drawn with this Pen. |
-| [setLineJoin(int value)](#setLineJoin-int-) | Sets the join style for the ends of two consecutive lines drawn with this Pen. |
-| [getMiterLimit()](#getMiterLimit--) | Gets the limit of the thickness of the join on a mitered corner. |
-| [setMiterLimit(float value)](#setMiterLimit-float-) | Sets the limit of the thickness of the join on a mitered corner. |
-| [getAlignment()](#getAlignment--) | Gets the alignment for this [Pen](../../com.aspose.drawing/pen). |
-| [setAlignment(int value)](#setAlignment-int-) | Sets the alignment for this [Pen](../../com.aspose.drawing/pen). |
-| [getTransform()](#getTransform--) | Gets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen). |
-| [setTransform(Matrix value)](#setTransform-com.aspose.drawing.drawing2d.Matrix-) | Sets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen). |
-| [getCustomStartCap()](#getCustomStartCap--) | Gets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
-| [setCustomStartCap(CustomLineCap value)](#setCustomStartCap-com.aspose.drawing.drawing2d.CustomLineCap-) | Sets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
-| [getCustomEndCap()](#getCustomEndCap--) | Gets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
-| [setCustomEndCap(CustomLineCap value)](#setCustomEndCap-com.aspose.drawing.drawing2d.CustomLineCap-) | Sets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
-| [getDashCap()](#getDashCap--) | Gets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
-| [setDashCap(int value)](#setDashCap-int-) | Sets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
-| [getDashOffset()](#getDashOffset--) | Gets the distance from the start of a line to the beginning of a dash pattern. |
-| [setDashOffset(float value)](#setDashOffset-float-) | Sets the distance from the start of a line to the beginning of a dash pattern. |
-| [getDashPattern()](#getDashPattern--) | Gets an array of custom dashes and spaces. |
-| [setDashPattern(float[] value)](#setDashPattern-float---) | Sets an array of custom dashes and spaces. |
-| [getDashStyle()](#getDashStyle--) | Gets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
-| [setDashStyle(int value)](#setDashStyle-int-) | Sets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [getColor()](#getColor--) | Gets or sets the color of this [Pen](../../com.aspose.drawing/pen). |
+| [setColor(Color value)](#setColor-com.aspose.drawing.Color-) | Gets or sets the color of this [Pen](../../com.aspose.drawing/pen). |
+| [getBrush()](#getBrush--) | Gets or sets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen). |
+| [setBrush(Brush value)](#setBrush-com.aspose.drawing.Brush-) | Gets or sets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen). |
+| [getCompoundArray()](#getCompoundArray--) | Gets or sets an array of values that specifies a compound pen. |
+| [setCompoundArray(float[] value)](#setCompoundArray-float---) | Gets or sets an array of values that specifies a compound pen. |
+| [getWidth()](#getWidth--) | Gets or sets the width of this Pen, in units of the Graphics object used for drawing. |
+| [setWidth(float value)](#setWidth-float-) | Gets or sets the width of this Pen, in units of the Graphics object used for drawing. |
+| [getStartCap()](#getStartCap--) | Gets or sets the cap style used at the beginning of lines drawn with this Pen. |
+| [setStartCap(int value)](#setStartCap-int-) | Gets or sets the cap style used at the beginning of lines drawn with this Pen. |
+| [getEndCap()](#getEndCap--) | Gets or sets the cap style used at the end of lines drawn with this Pen. |
+| [setEndCap(int value)](#setEndCap-int-) | Gets or sets the cap style used at the end of lines drawn with this Pen. |
+| [getLineJoin()](#getLineJoin--) | Gets or sets the join style for the ends of two consecutive lines drawn with this Pen. |
+| [setLineJoin(int value)](#setLineJoin-int-) | Gets or sets the join style for the ends of two consecutive lines drawn with this Pen. |
+| [getMiterLimit()](#getMiterLimit--) | Gets or sets the limit of the thickness of the join on a mitered corner. |
+| [setMiterLimit(float value)](#setMiterLimit-float-) | Gets or sets the limit of the thickness of the join on a mitered corner. |
+| [getAlignment()](#getAlignment--) | Gets or sets the alignment for this [Pen](../../com.aspose.drawing/pen). |
+| [setAlignment(int value)](#setAlignment-int-) | Gets or sets the alignment for this [Pen](../../com.aspose.drawing/pen). |
+| [getTransform()](#getTransform--) | Gets or sets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen). |
+| [setTransform(Matrix value)](#setTransform-com.aspose.drawing.drawing2d.Matrix-) | Gets or sets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen). |
+| [getCustomStartCap()](#getCustomStartCap--) | Gets or sets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [setCustomStartCap(CustomLineCap value)](#setCustomStartCap-com.aspose.drawing.drawing2d.CustomLineCap-) | Gets or sets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [getCustomEndCap()](#getCustomEndCap--) | Gets or sets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [setCustomEndCap(CustomLineCap value)](#setCustomEndCap-com.aspose.drawing.drawing2d.CustomLineCap-) | Gets or sets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [getDashCap()](#getDashCap--) | Gets or sets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [setDashCap(int value)](#setDashCap-int-) | Gets or sets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [getDashOffset()](#getDashOffset--) | Gets or sets the distance from the start of a line to the beginning of a dash pattern. |
+| [setDashOffset(float value)](#setDashOffset-float-) | Gets or sets the distance from the start of a line to the beginning of a dash pattern. |
+| [getDashPattern()](#getDashPattern--) | Gets or sets an array of custom dashes and spaces. |
+| [setDashPattern(float[] value)](#setDashPattern-float---) | Gets or sets an array of custom dashes and spaces. |
+| [getDashStyle()](#getDashStyle--) | Gets or sets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| [setDashStyle(int value)](#setDashStyle-int-) | Gets or sets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
 | [getPenType()](#getPenType--) | Gets the style of lines drawn with this Pen. |
 | [dispose()](#dispose--) | Releases all resources used by this Pen. |
 | [deepClone()](#deepClone--) | Creates an exact copy of this [Pen](../../com.aspose.drawing/pen). |
@@ -133,26 +133,26 @@ public final Color getColor()
 ```
 
 
-Gets the color of this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the color of this [Pen](../../com.aspose.drawing/pen).
 
 Value: A `Color`([.getColor](../../null/\#getColor)/[.setColor(Color)](../../null/\#setColor-Color-)) structure that represents the color of this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
-[Color](../../com.aspose.drawing/color) - the color of this [Pen](../../com.aspose.drawing/pen).
+[Color](../../com.aspose.drawing/color)
 ### setColor(Color value) {#setColor-com.aspose.drawing.Color-}
 ```
 public final void setColor(Color value)
 ```
 
 
-Sets the color of this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the color of this [Pen](../../com.aspose.drawing/pen).
 
 Value: A `Color`([.getColor](../../null/\#getColor)/[.setColor(Color)](../../null/\#setColor-Color-)) structure that represents the color of this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Color](../../com.aspose.drawing/color) | the color of this [Pen](../../com.aspose.drawing/pen). |
+| value | [Color](../../com.aspose.drawing/color) |  |
 
 ### getBrush() {#getBrush--}
 ```
@@ -160,22 +160,22 @@ public final Brush getBrush()
 ```
 
 
-Gets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
-[Brush](../../com.aspose.drawing/brush) - the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen).
+[Brush](../../com.aspose.drawing/brush)
 ### setBrush(Brush value) {#setBrush-com.aspose.drawing.Brush-}
 ```
 public final void setBrush(Brush value)
 ```
 
 
-Sets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Brush](../../com.aspose.drawing/brush) | the Brush that determines attributes of this [Pen](../../com.aspose.drawing/pen). |
+| value | [Brush](../../com.aspose.drawing/brush) |  |
 
 ### getCompoundArray() {#getCompoundArray--}
 ```
@@ -183,7 +183,7 @@ public final float[] getCompoundArray()
 ```
 
 
-Gets an array of values that specifies a compound pen. A compound pen draws a compound line made up of parallel lines and spaces.
+Gets or sets an array of values that specifies a compound pen. A compound pen draws a compound line made up of parallel lines and spaces.
 
 **Returns:**
 float[] - An array of real numbers that specifies the compound array. The elements in the array must be in increasing order, not less than 0, and not greater than 1.
@@ -193,12 +193,12 @@ public final void setCompoundArray(float[] value)
 ```
 
 
-Sets an array of values that specifies a compound pen. A compound pen draws a compound line made up of parallel lines and spaces.
+Gets or sets an array of values that specifies a compound pen. A compound pen draws a compound line made up of parallel lines and spaces.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float[] | an array of values that specifies a compound pen. |
+| value | float[] |  |
 
 ### getWidth() {#getWidth--}
 ```
@@ -206,22 +206,22 @@ public final float getWidth()
 ```
 
 
-Gets the width of this Pen, in units of the Graphics object used for com.aspose.drawing.
+Gets or sets the width of this Pen, in units of the Graphics object used for drawing.
 
 **Returns:**
-float - the width of this Pen, in units of the Graphics object used for com.aspose.drawing.
+float
 ### setWidth(float value) {#setWidth-float-}
 ```
 public final void setWidth(float value)
 ```
 
 
-Sets the width of this Pen, in units of the Graphics object used for com.aspose.drawing.
+Gets or sets the width of this Pen, in units of the Graphics object used for drawing.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | the width of this Pen, in units of the Graphics object used for com.aspose.drawing. |
+| value | float |  |
 
 ### getStartCap() {#getStartCap--}
 ```
@@ -229,22 +229,22 @@ public final int getStartCap()
 ```
 
 
-Gets the cap style used at the beginning of lines drawn with this Pen.
+Gets or sets the cap style used at the beginning of lines drawn with this Pen.
 
 **Returns:**
-int - the cap style used at the beginning of lines drawn with this Pen.
+int
 ### setStartCap(int value) {#setStartCap-int-}
 ```
 public final void setStartCap(int value)
 ```
 
 
-Sets the cap style used at the beginning of lines drawn with this Pen.
+Gets or sets the cap style used at the beginning of lines drawn with this Pen.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the cap style used at the beginning of lines drawn with this Pen. |
+| value | int |  |
 
 ### getEndCap() {#getEndCap--}
 ```
@@ -252,22 +252,22 @@ public final int getEndCap()
 ```
 
 
-Gets the cap style used at the end of lines drawn with this Pen.
+Gets or sets the cap style used at the end of lines drawn with this Pen.
 
 **Returns:**
-int - the cap style used at the end of lines drawn with this Pen.
+int
 ### setEndCap(int value) {#setEndCap-int-}
 ```
 public final void setEndCap(int value)
 ```
 
 
-Sets the cap style used at the end of lines drawn with this Pen.
+Gets or sets the cap style used at the end of lines drawn with this Pen.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the cap style used at the end of lines drawn with this Pen. |
+| value | int |  |
 
 ### getLineJoin() {#getLineJoin--}
 ```
@@ -275,21 +275,21 @@ public final int getLineJoin()
 ```
 
 
-Gets the join style for the ends of two consecutive lines drawn with this Pen.
+Gets or sets the join style for the ends of two consecutive lines drawn with this Pen.
 
 --------------------
 
 At the moment Miter join actually works as MiterClipped.
 
 **Returns:**
-int - the join style for the ends of two consecutive lines drawn with this Pen.
+int
 ### setLineJoin(int value) {#setLineJoin-int-}
 ```
 public final void setLineJoin(int value)
 ```
 
 
-Sets the join style for the ends of two consecutive lines drawn with this Pen.
+Gets or sets the join style for the ends of two consecutive lines drawn with this Pen.
 
 --------------------
 
@@ -298,7 +298,7 @@ At the moment Miter join actually works as MiterClipped.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the join style for the ends of two consecutive lines drawn with this Pen. |
+| value | int |  |
 
 ### getMiterLimit() {#getMiterLimit--}
 ```
@@ -306,22 +306,22 @@ public final float getMiterLimit()
 ```
 
 
-Gets the limit of the thickness of the join on a mitered corner.
+Gets or sets the limit of the thickness of the join on a mitered corner.
 
 **Returns:**
-float - the limit of the thickness of the join on a mitered corner.
+float
 ### setMiterLimit(float value) {#setMiterLimit-float-}
 ```
 public final void setMiterLimit(float value)
 ```
 
 
-Sets the limit of the thickness of the join on a mitered corner.
+Gets or sets the limit of the thickness of the join on a mitered corner.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | the limit of the thickness of the join on a mitered corner. |
+| value | float |  |
 
 ### getAlignment() {#getAlignment--}
 ```
@@ -329,7 +329,7 @@ public final int getAlignment()
 ```
 
 
-Gets the alignment for this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the alignment for this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
 int - A [PenAlignment](../../com.aspose.drawing.drawing2d/penalignment) that represents the alignment for this [Pen](../../com.aspose.drawing/pen).
@@ -339,12 +339,12 @@ public final void setAlignment(int value)
 ```
 
 
-Sets the alignment for this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the alignment for this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the alignment for this [Pen](../../com.aspose.drawing/pen). |
+| value | int |  |
 
 ### getTransform() {#getTransform--}
 ```
@@ -352,26 +352,26 @@ public final Matrix getTransform()
 ```
 
 
-Gets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen).
+Gets or sets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen).
 
 Value: A copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that represents the geometric transformation for this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
-[Matrix](../../com.aspose.drawing.drawing2d/matrix) - a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen).
+[Matrix](../../com.aspose.drawing.drawing2d/matrix)
 ### setTransform(Matrix value) {#setTransform-com.aspose.drawing.drawing2d.Matrix-}
 ```
 public final void setTransform(Matrix value)
 ```
 
 
-Sets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen).
+Gets or sets a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen).
 
 Value: A copy of the [Matrix](../../com.aspose.drawing.drawing2d/matrix) that represents the geometric transformation for this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Matrix](../../com.aspose.drawing.drawing2d/matrix) | a copy of the geometric transformation for this [Pen](../../com.aspose.drawing/pen). |
+| value | [Matrix](../../com.aspose.drawing.drawing2d/matrix) |  |
 
 ### getCustomStartCap() {#getCustomStartCap--}
 ```
@@ -379,7 +379,7 @@ public final CustomLineCap getCustomStartCap()
 ```
 
 
-Gets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
 [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) - A [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) that represents the cap used at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen).
@@ -389,12 +389,12 @@ public final void setCustomStartCap(CustomLineCap value)
 ```
 
 
-Sets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) | a custom cap to use at the beginning of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| value | [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) |  |
 
 ### getCustomEndCap() {#getCustomEndCap--}
 ```
@@ -402,7 +402,7 @@ public final CustomLineCap getCustomEndCap()
 ```
 
 
-Gets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
 [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) - A [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) that represents the cap used at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen).
@@ -412,12 +412,12 @@ public final void setCustomEndCap(CustomLineCap value)
 ```
 
 
-Sets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) | a custom cap to use at the end of lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| value | [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) |  |
 
 ### getDashCap() {#getDashCap--}
 ```
@@ -425,7 +425,7 @@ public final int getDashCap()
 ```
 
 
-Gets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
 int - One of the `DashCap`([.getDashCap](../../null/\#getDashCap)/[.setDashCap(int)](../../null/\#setDashCap-int-)) values that represents the cap style used at the beginning and end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
@@ -435,12 +435,12 @@ public final void setDashCap(int value)
 ```
 
 
-Sets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the cap style used at the end of the dashes that make up dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| value | int |  |
 
 ### getDashOffset() {#getDashOffset--}
 ```
@@ -448,7 +448,7 @@ public final float getDashOffset()
 ```
 
 
-Gets the distance from the start of a line to the beginning of a dash pattern.
+Gets or sets the distance from the start of a line to the beginning of a dash pattern.
 
 **Returns:**
 float - The distance from the start of a line to the beginning of a dash pattern.
@@ -458,12 +458,12 @@ public final void setDashOffset(float value)
 ```
 
 
-Sets the distance from the start of a line to the beginning of a dash pattern.
+Gets or sets the distance from the start of a line to the beginning of a dash pattern.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | the distance from the start of a line to the beginning of a dash pattern. |
+| value | float |  |
 
 ### getDashPattern() {#getDashPattern--}
 ```
@@ -471,7 +471,7 @@ public final float[] getDashPattern()
 ```
 
 
-Gets an array of custom dashes and spaces.
+Gets or sets an array of custom dashes and spaces.
 
 **Returns:**
 float[] - An array of real numbers that specifies the lengths of alternating dashes and spaces in dashed lines.
@@ -481,12 +481,12 @@ public final void setDashPattern(float[] value)
 ```
 
 
-Sets an array of custom dashes and spaces.
+Gets or sets an array of custom dashes and spaces.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float[] | an array of custom dashes and spaces. |
+| value | float[] |  |
 
 ### getDashStyle() {#getDashStyle--}
 ```
@@ -494,7 +494,7 @@ public final int getDashStyle()
 ```
 
 
-Gets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
 int - A `DashStyle`([.getDashStyle](../../null/\#getDashStyle)/[.setDashStyle(int)](../../null/\#setDashStyle-int-)) that represents the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
@@ -504,12 +504,12 @@ public final void setDashStyle(int value)
 ```
 
 
-Sets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
+Gets or sets the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the style used for dashed lines drawn with this [Pen](../../com.aspose.drawing/pen). |
+| value | int |  |
 
 ### getPenType() {#getPenType--}
 ```
@@ -522,7 +522,7 @@ Gets the style of lines drawn with this Pen.
 Value: A `PenType`([.getPenType](../../null/\#getPenType)) enumeration that specifies the style of lines drawn with this [Pen](../../com.aspose.drawing/pen).
 
 **Returns:**
-int - the style of lines drawn with this Pen.
+int
 ### dispose() {#dispose--}
 ```
 public final void dispose()

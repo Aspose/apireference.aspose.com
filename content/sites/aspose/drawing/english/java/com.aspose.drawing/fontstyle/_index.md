@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.Drawing for Java API Reference
 description: Specifies style information applied to text.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.drawing/fontstyle/
 ---
 **Inheritance:**

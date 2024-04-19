@@ -35,24 +35,24 @@ Specifies the different patterns available for [HatchBrush](../../com.aspose.dra
 | [Percent75](#Percent75) | Specifies a 75-percent hatch. |
 | [Percent80](#Percent80) | Specifies a 80-percent hatch. |
 | [Percent90](#Percent90) | Specifies a 90-percent hatch. |
-| [LightDownwardDiagonal](#LightDownwardDiagonal) | Specifies diagonal lines that slant to the right from top points to bottom points and are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, but are not antialiased. |
-| [LightUpwardDiagonal](#LightUpwardDiagonal) | Specifies diagonal lines that slant to the left from top points to bottom points and are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, but they are not antialiased. |
-| [DarkDownwardDiagonal](#DarkDownwardDiagonal) | Specifies diagonal lines that slant to the right from top points to bottom points, are spaced 50 percent closer together than, and are twice the width of `F:System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`. |
-| [DarkUpwardDiagonal](#DarkUpwardDiagonal) | Specifies diagonal lines that slant to the left from top points to bottom points, are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are twice its width, but the lines are not antialiased. |
-| [WideDownwardDiagonal](#WideDownwardDiagonal) | Specifies diagonal lines that slant to the right from top points to bottom points, have the same spacing as hatch style `F:System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, and are triple its width, but are not antialiased. |
-| [WideUpwardDiagonal](#WideUpwardDiagonal) | Specifies diagonal lines that slant to the left from top points to bottom points, have the same spacing as hatch style `F:System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are triple its width, but are not antialiased. |
-| [LightVertical](#LightVertical) | Specifies vertical lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Vertical`. |
-| [LightHorizontal](#LightHorizontal) | Specifies horizontal lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Horizontal`. |
-| [NarrowVertical](#NarrowVertical) | Specifies vertical lines that are spaced 75 percent closer together than hatch style `F:System.Drawing.drawing2d.HatchStyle.Vertical` (or 25 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.LightVertical`). |
-| [NarrowHorizontal](#NarrowHorizontal) | Specifies horizontal lines that are spaced 75 percent closer together than hatch style `F:System.Drawing.drawing2d.HatchStyle.Horizontal` (or 25 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.LightHorizontal`). |
-| [DarkVertical](#DarkVertical) | Specifies vertical lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Vertical` and are twice its width. |
-| [DarkHorizontal](#DarkHorizontal) | Specifies horizontal lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Horizontal` and are twice the width of `F:System.Drawing.drawing2d.HatchStyle.Horizontal`. |
+| [LightDownwardDiagonal](#LightDownwardDiagonal) | Specifies diagonal lines that slant to the right from top points to bottom points and are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, but are not antialiased. |
+| [LightUpwardDiagonal](#LightUpwardDiagonal) | Specifies diagonal lines that slant to the left from top points to bottom points and are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, but they are not antialiased. |
+| [DarkDownwardDiagonal](#DarkDownwardDiagonal) | Specifies diagonal lines that slant to the right from top points to bottom points, are spaced 50 percent closer together than, and are twice the width of `System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`. |
+| [DarkUpwardDiagonal](#DarkUpwardDiagonal) | Specifies diagonal lines that slant to the left from top points to bottom points, are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are twice its width, but the lines are not antialiased. |
+| [WideDownwardDiagonal](#WideDownwardDiagonal) | Specifies diagonal lines that slant to the right from top points to bottom points, have the same spacing as hatch style `System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, and are triple its width, but are not antialiased. |
+| [WideUpwardDiagonal](#WideUpwardDiagonal) | Specifies diagonal lines that slant to the left from top points to bottom points, have the same spacing as hatch style `System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are triple its width, but are not antialiased. |
+| [LightVertical](#LightVertical) | Specifies vertical lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Vertical`. |
+| [LightHorizontal](#LightHorizontal) | Specifies horizontal lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Horizontal`. |
+| [NarrowVertical](#NarrowVertical) | Specifies vertical lines that are spaced 75 percent closer together than hatch style `System.Drawing.drawing2d.HatchStyle.Vertical` (or 25 percent closer together than `System.Drawing.drawing2d.HatchStyle.LightVertical`). |
+| [NarrowHorizontal](#NarrowHorizontal) | Specifies horizontal lines that are spaced 75 percent closer together than hatch style `System.Drawing.drawing2d.HatchStyle.Horizontal` (or 25 percent closer together than `System.Drawing.drawing2d.HatchStyle.LightHorizontal`). |
+| [DarkVertical](#DarkVertical) | Specifies vertical lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Vertical` and are twice its width. |
+| [DarkHorizontal](#DarkHorizontal) | Specifies horizontal lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Horizontal` and are twice the width of `System.Drawing.drawing2d.HatchStyle.Horizontal`. |
 | [DashedDownwardDiagonal](#DashedDownwardDiagonal) | Specifies dashed diagonal lines, that slant to the right from top points to bottom points. |
 | [DashedUpwardDiagonal](#DashedUpwardDiagonal) | Specifies dashed diagonal lines, that slant to the left from top points to bottom points. |
 | [DashedHorizontal](#DashedHorizontal) | Specifies dashed horizontal lines. |
 | [DashedVertical](#DashedVertical) | Specifies dashed vertical lines. |
 | [SmallConfetti](#SmallConfetti) | Specifies a hatch that has the appearance of confetti. |
-| [LargeConfetti](#LargeConfetti) | Specifies a hatch that has the appearance of confetti, and is composed of larger pieces than `F:System.Drawing.drawing2d.HatchStyle.SmallConfetti`. |
+| [LargeConfetti](#LargeConfetti) | Specifies a hatch that has the appearance of confetti, and is composed of larger pieces than `System.Drawing.drawing2d.HatchStyle.SmallConfetti`. |
 | [ZigZag](#ZigZag) | Specifies horizontal lines that are composed of zigzags. |
 | [Wave](#Wave) | Specifies horizontal lines that are composed of tildes. |
 | [DiagonalBrick](#DiagonalBrick) | Specifies a hatch that has the appearance of layered bricks that slant to the left from top points to bottom points. |
@@ -65,14 +65,14 @@ Specifies the different patterns available for [HatchBrush](../../com.aspose.dra
 | [Shingle](#Shingle) | Specifies a hatch that has the appearance of diagonally layered shingles that slant to the right from top points to bottom points. |
 | [Trellis](#Trellis) | Specifies a hatch that has the appearance of a trellis. |
 | [Sphere](#Sphere) | Specifies a hatch that has the appearance of spheres laid adjacent to one another. |
-| [SmallGrid](#SmallGrid) | Specifies horizontal and vertical lines that cross and are spaced 50 percent closer together than hatch style `F:System.Drawing.drawing2d.HatchStyle.Cross`. |
+| [SmallGrid](#SmallGrid) | Specifies horizontal and vertical lines that cross and are spaced 50 percent closer together than hatch style `System.Drawing.drawing2d.HatchStyle.Cross`. |
 | [SmallCheckerBoard](#SmallCheckerBoard) | Specifies a hatch that has the appearance of a checkerboard. |
-| [LargeCheckerBoard](#LargeCheckerBoard) | Specifies a hatch that has the appearance of a checkerboard with squares that are twice the size of `F:System.Drawing.drawing2d.HatchStyle.SmallCheckerBoard`. |
+| [LargeCheckerBoard](#LargeCheckerBoard) | Specifies a hatch that has the appearance of a checkerboard with squares that are twice the size of `System.Drawing.drawing2d.HatchStyle.SmallCheckerBoard`. |
 | [OutlinedDiamond](#OutlinedDiamond) | Specifies forward diagonal and backward diagonal lines that cross but are not antialiased. |
 | [SolidDiamond](#SolidDiamond) | Specifies a hatch that has the appearance of a checkerboard placed diagonally. |
-| [LargeGrid](#LargeGrid) | Specifies the hatch style `F:System.Drawing.drawing2d.HatchStyle.Cross`. |
-| [Min](#Min) | Specifies hatch style `F:System.Drawing.drawing2d.HatchStyle.Horizontal`. |
-| [Max](#Max) | Specifies hatch style `F:System.Drawing.drawing2d.HatchStyle.SolidDiamond`. |
+| [LargeGrid](#LargeGrid) | Specifies the hatch style `System.Drawing.drawing2d.HatchStyle.Cross`. |
+| [Min](#Min) | Specifies hatch style `System.Drawing.drawing2d.HatchStyle.Horizontal`. |
+| [Max](#Max) | Specifies hatch style `System.Drawing.drawing2d.HatchStyle.SolidDiamond`. |
 ### Horizontal {#Horizontal}
 ```
 public static final int Horizontal
@@ -223,7 +223,7 @@ public static final int LightDownwardDiagonal
 ```
 
 
-Specifies diagonal lines that slant to the right from top points to bottom points and are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, but are not antialiased.
+Specifies diagonal lines that slant to the right from top points to bottom points and are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, but are not antialiased.
 
 ### LightUpwardDiagonal {#LightUpwardDiagonal}
 ```
@@ -231,7 +231,7 @@ public static final int LightUpwardDiagonal
 ```
 
 
-Specifies diagonal lines that slant to the left from top points to bottom points and are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, but they are not antialiased.
+Specifies diagonal lines that slant to the left from top points to bottom points and are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, but they are not antialiased.
 
 ### DarkDownwardDiagonal {#DarkDownwardDiagonal}
 ```
@@ -239,7 +239,7 @@ public static final int DarkDownwardDiagonal
 ```
 
 
-Specifies diagonal lines that slant to the right from top points to bottom points, are spaced 50 percent closer together than, and are twice the width of `F:System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`. This hatch pattern is not antialiased.
+Specifies diagonal lines that slant to the right from top points to bottom points, are spaced 50 percent closer together than, and are twice the width of `System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`. This hatch pattern is not antialiased.
 
 ### DarkUpwardDiagonal {#DarkUpwardDiagonal}
 ```
@@ -247,7 +247,7 @@ public static final int DarkUpwardDiagonal
 ```
 
 
-Specifies diagonal lines that slant to the left from top points to bottom points, are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are twice its width, but the lines are not antialiased.
+Specifies diagonal lines that slant to the left from top points to bottom points, are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are twice its width, but the lines are not antialiased.
 
 ### WideDownwardDiagonal {#WideDownwardDiagonal}
 ```
@@ -255,7 +255,7 @@ public static final int WideDownwardDiagonal
 ```
 
 
-Specifies diagonal lines that slant to the right from top points to bottom points, have the same spacing as hatch style `F:System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, and are triple its width, but are not antialiased.
+Specifies diagonal lines that slant to the right from top points to bottom points, have the same spacing as hatch style `System.Drawing.drawing2d.HatchStyle.ForwardDiagonal`, and are triple its width, but are not antialiased.
 
 ### WideUpwardDiagonal {#WideUpwardDiagonal}
 ```
@@ -263,7 +263,7 @@ public static final int WideUpwardDiagonal
 ```
 
 
-Specifies diagonal lines that slant to the left from top points to bottom points, have the same spacing as hatch style `F:System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are triple its width, but are not antialiased.
+Specifies diagonal lines that slant to the left from top points to bottom points, have the same spacing as hatch style `System.Drawing.drawing2d.HatchStyle.BackwardDiagonal`, and are triple its width, but are not antialiased.
 
 ### LightVertical {#LightVertical}
 ```
@@ -271,7 +271,7 @@ public static final int LightVertical
 ```
 
 
-Specifies vertical lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Vertical`.
+Specifies vertical lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Vertical`.
 
 ### LightHorizontal {#LightHorizontal}
 ```
@@ -279,7 +279,7 @@ public static final int LightHorizontal
 ```
 
 
-Specifies horizontal lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Horizontal`.
+Specifies horizontal lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Horizontal`.
 
 ### NarrowVertical {#NarrowVertical}
 ```
@@ -287,7 +287,7 @@ public static final int NarrowVertical
 ```
 
 
-Specifies vertical lines that are spaced 75 percent closer together than hatch style `F:System.Drawing.drawing2d.HatchStyle.Vertical` (or 25 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.LightVertical`).
+Specifies vertical lines that are spaced 75 percent closer together than hatch style `System.Drawing.drawing2d.HatchStyle.Vertical` (or 25 percent closer together than `System.Drawing.drawing2d.HatchStyle.LightVertical`).
 
 ### NarrowHorizontal {#NarrowHorizontal}
 ```
@@ -295,7 +295,7 @@ public static final int NarrowHorizontal
 ```
 
 
-Specifies horizontal lines that are spaced 75 percent closer together than hatch style `F:System.Drawing.drawing2d.HatchStyle.Horizontal` (or 25 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.LightHorizontal`).
+Specifies horizontal lines that are spaced 75 percent closer together than hatch style `System.Drawing.drawing2d.HatchStyle.Horizontal` (or 25 percent closer together than `System.Drawing.drawing2d.HatchStyle.LightHorizontal`).
 
 ### DarkVertical {#DarkVertical}
 ```
@@ -303,7 +303,7 @@ public static final int DarkVertical
 ```
 
 
-Specifies vertical lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Vertical` and are twice its width.
+Specifies vertical lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Vertical` and are twice its width.
 
 ### DarkHorizontal {#DarkHorizontal}
 ```
@@ -311,7 +311,7 @@ public static final int DarkHorizontal
 ```
 
 
-Specifies horizontal lines that are spaced 50 percent closer together than `F:System.Drawing.drawing2d.HatchStyle.Horizontal` and are twice the width of `F:System.Drawing.drawing2d.HatchStyle.Horizontal`.
+Specifies horizontal lines that are spaced 50 percent closer together than `System.Drawing.drawing2d.HatchStyle.Horizontal` and are twice the width of `System.Drawing.drawing2d.HatchStyle.Horizontal`.
 
 ### DashedDownwardDiagonal {#DashedDownwardDiagonal}
 ```
@@ -359,7 +359,7 @@ public static final int LargeConfetti
 ```
 
 
-Specifies a hatch that has the appearance of confetti, and is composed of larger pieces than `F:System.Drawing.drawing2d.HatchStyle.SmallConfetti`.
+Specifies a hatch that has the appearance of confetti, and is composed of larger pieces than `System.Drawing.drawing2d.HatchStyle.SmallConfetti`.
 
 ### ZigZag {#ZigZag}
 ```
@@ -463,7 +463,7 @@ public static final int SmallGrid
 ```
 
 
-Specifies horizontal and vertical lines that cross and are spaced 50 percent closer together than hatch style `F:System.Drawing.drawing2d.HatchStyle.Cross`.
+Specifies horizontal and vertical lines that cross and are spaced 50 percent closer together than hatch style `System.Drawing.drawing2d.HatchStyle.Cross`.
 
 ### SmallCheckerBoard {#SmallCheckerBoard}
 ```
@@ -479,7 +479,7 @@ public static final int LargeCheckerBoard
 ```
 
 
-Specifies a hatch that has the appearance of a checkerboard with squares that are twice the size of `F:System.Drawing.drawing2d.HatchStyle.SmallCheckerBoard`.
+Specifies a hatch that has the appearance of a checkerboard with squares that are twice the size of `System.Drawing.drawing2d.HatchStyle.SmallCheckerBoard`.
 
 ### OutlinedDiamond {#OutlinedDiamond}
 ```
@@ -503,7 +503,7 @@ public static final int LargeGrid
 ```
 
 
-Specifies the hatch style `F:System.Drawing.drawing2d.HatchStyle.Cross`.
+Specifies the hatch style `System.Drawing.drawing2d.HatchStyle.Cross`.
 
 ### Min {#Min}
 ```
@@ -511,7 +511,7 @@ public static final int Min
 ```
 
 
-Specifies hatch style `F:System.Drawing.drawing2d.HatchStyle.Horizontal`.
+Specifies hatch style `System.Drawing.drawing2d.HatchStyle.Horizontal`.
 
 ### Max {#Max}
 ```
@@ -519,5 +519,5 @@ public static final int Max
 ```
 
 
-Specifies hatch style `F:System.Drawing.drawing2d.HatchStyle.SolidDiamond`.
+Specifies hatch style `System.Drawing.drawing2d.HatchStyle.SolidDiamond`.
 

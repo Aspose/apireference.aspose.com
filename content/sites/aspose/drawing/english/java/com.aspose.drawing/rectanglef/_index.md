@@ -3,7 +3,7 @@ title: RectangleF
 second_title: Aspose.Drawing for Java API Reference
 description: Stores a set of four floating-point numbers that represent the location and size of a rectangle.
 type: docs
-weight: 38
+weight: 39
 url: /java/com.aspose.drawing/rectanglef/
 ---
 **Inheritance:**
@@ -37,7 +37,7 @@ Stores a set of four floating-point numbers that represent the location and size
 | [union(RectangleF a, RectangleF b)](#union-com.aspose.drawing.RectangleF-com.aspose.drawing.RectangleF-) | Creates the smallest possible third rectangle that can contain both of two rectangles that form a union. |
 | [isEquals(RectangleF obj1, RectangleF obj2)](#isEquals-com.aspose.drawing.RectangleF-com.aspose.drawing.RectangleF-) |  |
 | [getEmpty()](#getEmpty--) |  |
-| [isEmpty()](#isEmpty--) | Gets a value indicating whether the `P:RectangleF.Width` or `P:RectangleF.Height` property of this [RectangleF](../../com.aspose.drawing/rectanglef) has a value of zero. |
+| [isEmpty()](#isEmpty--) | Gets a value indicating whether the `RectangleF.Width` or `RectangleF.Height` property of this [RectangleF](../../com.aspose.drawing/rectanglef) has a value of zero. |
 | [getX()](#getX--) | Gets the x-coordinate of the upper-left corner of this RectangleF structure. |
 | [setX(float value)](#setX-float-) | Sets the x-coordinate of the upper-left corner of this RectangleF structure. |
 | [getY()](#getY--) | Gets the x-coordinate of the upper-left corner of this RectangleF structure. |
@@ -152,7 +152,7 @@ Tests whether two [RectangleF](../../com.aspose.drawing/rectanglef) structures h
 | right | [RectangleF](../../com.aspose.drawing/rectanglef) | The [RectangleF](../../com.aspose.drawing/rectanglef) structure that is to the right of the equality operator. |
 
 **Returns:**
-boolean - This operator returns true if the two specified [RectangleF](../../com.aspose.drawing/rectanglef) structures have equal `P:RectangleF.X`, `P:RectangleF.Y`, `P:RectangleF.Width`, and `P:RectangleF.Height` properties.
+boolean - This operator returns true if the two specified [RectangleF](../../com.aspose.drawing/rectanglef) structures have equal `RectangleF.X`, `RectangleF.Y`, `RectangleF.Width`, and `RectangleF.Height` properties.
 ### op_Inequality(RectangleF left, RectangleF right) {#op-Inequality-com.aspose.drawing.RectangleF-com.aspose.drawing.RectangleF-}
 ```
 public static boolean op_Inequality(RectangleF left, RectangleF right)
@@ -168,7 +168,7 @@ Tests whether two [RectangleF](../../com.aspose.drawing/rectanglef) structures d
 | right | [RectangleF](../../com.aspose.drawing/rectanglef) | The [RectangleF](../../com.aspose.drawing/rectanglef) structure that is to the right of the inequality operator. |
 
 **Returns:**
-boolean - This operator returns true if any of the `P:RectangleF.X`, `P:RectangleF.Y`, `P:RectangleF.Width`, or `P:RectangleF.Height` properties of the two [Rectangle](../../com.aspose.drawing/rectangle) structures are unequal; otherwise false.
+boolean - This operator returns true if any of the `RectangleF.X`, `RectangleF.Y`, `RectangleF.Width`, or `RectangleF.Height` properties of the two [Rectangle](../../com.aspose.drawing/rectangle) structures are unequal; otherwise false.
 ### fromLTRB(float left, float top, float right, float bottom) {#fromLTRB-float-float-float-float-}
 ```
 public static RectangleF fromLTRB(float left, float top, float right, float bottom)
@@ -268,10 +268,10 @@ public final boolean isEmpty()
 ```
 
 
-Gets a value indicating whether the `P:RectangleF.Width` or `P:RectangleF.Height` property of this [RectangleF](../../com.aspose.drawing/rectanglef) has a value of zero.
+Gets a value indicating whether the `RectangleF.Width` or `RectangleF.Height` property of this [RectangleF](../../com.aspose.drawing/rectanglef) has a value of zero.
 
 **Returns:**
-boolean - This property returns true if the `P:RectangleF.Width` or `P:RectangleF.Height` property of this [RectangleF](../../com.aspose.drawing/rectanglef) has a value of zero; otherwise, false.
+boolean - This property returns true if the `RectangleF.Width` or `P:RectangleF.Height` property of this [RectangleF](../../com.aspose.drawing/rectanglef) has a value of zero; otherwise, false.
 ### getX() {#getX--}
 ```
 public final float getX()

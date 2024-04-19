@@ -3,7 +3,7 @@ title: MeteredExt
 second_title: Aspose.Drawing for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 32
+weight: 33
 url: /java/com.aspose.drawing/meteredext/
 ---
 **Inheritance:**

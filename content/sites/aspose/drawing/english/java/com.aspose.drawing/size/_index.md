@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.Drawing for Java API Reference
 description: Stores an ordered pair of integers typically the width and height of a rectangle.
 type: docs
-weight: 41
+weight: 42
 url: /java/com.aspose.drawing/size/
 ---
 **Inheritance:**

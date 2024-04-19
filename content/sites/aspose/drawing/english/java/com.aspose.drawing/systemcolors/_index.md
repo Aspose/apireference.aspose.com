@@ -3,7 +3,7 @@ title: SystemColors
 second_title: Aspose.Drawing for Java API Reference
 description: Each property of the  class is a  structure that is the color of a Windows display element.
 type: docs
-weight: 49
+weight: 50
 url: /java/com.aspose.drawing/systemcolors/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: KnownColor
 second_title: Aspose.Drawing for Java API Reference
 description: Specifies the known system colors.
 type: docs
-weight: 30
+weight: 31
 url: /java/com.aspose.drawing/knowncolor/
 ---
 **Inheritance:**

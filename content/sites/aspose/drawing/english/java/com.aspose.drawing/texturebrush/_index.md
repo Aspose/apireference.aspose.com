@@ -3,7 +3,7 @@ title: TextureBrush
 second_title: Aspose.Drawing for Java API Reference
 description: Each property of the TextureBrush class is a Brush object that uses an image to fill the interior of a shape.
 type: docs
-weight: 52
+weight: 53
 url: /java/com.aspose.drawing/texturebrush/
 ---
 **Inheritance:**

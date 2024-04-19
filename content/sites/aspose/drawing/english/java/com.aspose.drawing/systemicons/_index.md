@@ -3,7 +3,7 @@ title: SystemIcons
 second_title: Aspose.Drawing for Java API Reference
 description: Each property of the SystemIcons class is an  object for Windows system-wide icons.
 type: docs
-weight: 51
+weight: 52
 url: /java/com.aspose.drawing/systemicons/
 ---
 **Inheritance:**

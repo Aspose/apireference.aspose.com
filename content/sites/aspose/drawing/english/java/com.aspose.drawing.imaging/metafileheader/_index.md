@@ -44,7 +44,7 @@ public int getType()
 Gets the type of the associated [Metafile](../../com.aspose.drawing.imaging/metafile)
 
 **Returns:**
-int - the type of the associated [Metafile](../../com.aspose.drawing.imaging/metafile)
+int
 ### getEmfPlusHeaderSize() {#getEmfPlusHeaderSize--}
 ```
 public int getEmfPlusHeaderSize()
@@ -54,7 +54,7 @@ public int getEmfPlusHeaderSize()
 Gets the size, in bytes, of the enhanced metafile plus header file.
 
 **Returns:**
-int - the size, in bytes, of the enhanced metafile plus header file.
+int
 ### getWmfHeader() {#getWmfHeader--}
 ```
 public MetaHeader getWmfHeader()
@@ -64,7 +64,7 @@ public MetaHeader getWmfHeader()
 Gets the Windows metafile (WMF) header file for the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-[MetaHeader](../../com.aspose.drawing.imaging/metaheader) - the Windows metafile (WMF) header file for the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+[MetaHeader](../../com.aspose.drawing.imaging/metaheader)
 ### getBounds() {#getBounds--}
 ```
 public Rectangle getBounds()
@@ -74,7 +74,7 @@ public Rectangle getBounds()
 Gets a [Rectangle](../../com.aspose.drawing/rectangle) that bounds the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-[Rectangle](../../com.aspose.drawing/rectangle) - a [Rectangle](../../com.aspose.drawing/rectangle) that bounds the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+[Rectangle](../../com.aspose.drawing/rectangle)
 ### getDpiX() {#getDpiX--}
 ```
 public float getDpiX()
@@ -84,7 +84,7 @@ public float getDpiX()
 Gets the horizontal resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-float - the horizontal resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+float
 ### getDpiY() {#getDpiY--}
 ```
 public float getDpiY()
@@ -94,7 +94,7 @@ public float getDpiY()
 Gets the vertical resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-float - the vertical resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+float
 ### getVersion() {#getVersion--}
 ```
 public int getVersion()
@@ -104,7 +104,7 @@ public int getVersion()
 Gets the version number of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-int - the version number of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+int
 ### getMetafileSize() {#getMetafileSize--}
 ```
 public int getMetafileSize()
@@ -114,7 +114,7 @@ public int getMetafileSize()
 Gets the size, in bytes, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-int - the size, in bytes, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+int
 ### getLogicalDpiX() {#getLogicalDpiX--}
 ```
 public int getLogicalDpiX()
@@ -124,7 +124,7 @@ public int getLogicalDpiX()
 Gets the logical horizontal resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-int - the logical horizontal resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+int
 ### getLogicalDpiY() {#getLogicalDpiY--}
 ```
 public int getLogicalDpiY()
@@ -134,7 +134,7 @@ public int getLogicalDpiY()
 Gets the logical vertical resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
 
 **Returns:**
-int - the logical vertical resolution, in dots per inch, of the associated [Metafile](../../com.aspose.drawing.imaging/metafile).
+int
 ### isDisplay() {#isDisplay--}
 ```
 public boolean isDisplay()

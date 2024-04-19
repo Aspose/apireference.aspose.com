@@ -581,7 +581,7 @@ Sets the wrap mode and color used to decide how to tile a texture across a shape
 | Parameter | Type | Description |
 | --- | --- | --- |
 | mode | int | An element of [WrapMode](../../com.aspose.drawing.drawing2d/wrapmode) that specifies how repeated copies of an image are used to tile an area. |
-| color | [Color](../../com.aspose.drawing/color) | An [Color](../../com.aspose.drawing/color) object that specifies the color of pixels outside of a rendered image. This color is visible if the mode parameter is set to `F:WrapMode.Clamp` and the source rectangle passed to `Graphics.DrawImage` is larger than the image itself. |
+| color | [Color](../../com.aspose.drawing/color) | An [Color](../../com.aspose.drawing/color) object that specifies the color of pixels outside of a rendered image. This color is visible if the mode parameter is set to `WrapMode.Clamp` and the source rectangle passed to `Graphics.DrawImage` is larger than the image itself. |
 
 ### setWrapMode(int mode, Color color, boolean clamp) {#setWrapMode-int-com.aspose.drawing.Color-boolean-}
 ```
@@ -595,7 +595,7 @@ Sets the wrap mode and color used to decide how to tile a texture across a shape
 | Parameter | Type | Description |
 | --- | --- | --- |
 | mode | int | An element of [WrapMode](../../com.aspose.drawing.drawing2d/wrapmode) that specifies how repeated copies of an image are used to tile an area. |
-| color | [Color](../../com.aspose.drawing/color) | A color object that specifies the color of pixels outside of a rendered image. This color is visible if the mode parameter is set to `F:WrapMode.Clamp` and the source rectangle passed to `Graphics.DrawImage` is larger than the image itself. |
+| color | [Color](../../com.aspose.drawing/color) | A color object that specifies the color of pixels outside of a rendered image. This color is visible if the mode parameter is set to `WrapMode.Clamp` and the source rectangle passed to `Graphics.DrawImage` is larger than the image itself. |
 | clamp | boolean | This parameter has no effect. Set it to false. |
 
 ### getAdjustedPalette(ColorPalette palette, int type) {#getAdjustedPalette-com.aspose.drawing.imaging.ColorPalette-int-}

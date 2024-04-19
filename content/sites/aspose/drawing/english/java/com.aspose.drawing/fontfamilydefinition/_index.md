@@ -3,13 +3,13 @@ title: FontFamilyDefinition
 second_title: Aspose.Drawing for Java API Reference
 description: The font family definition.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.drawing/fontfamilydefinition/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.drawing.FontCollection](../../com.aspose.drawing/fontcollection)
+java.lang.Object
 ```
-public class FontFamilyDefinition extends FontCollection
+public class FontFamilyDefinition
 ```
 
 The font family definition.

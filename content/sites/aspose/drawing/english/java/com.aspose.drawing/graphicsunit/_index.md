@@ -3,7 +3,7 @@ title: GraphicsUnit
 second_title: Aspose.Drawing for Java API Reference
 description: Specifies the unit of measure for the given data.
 type: docs
-weight: 27
+weight: 28
 url: /java/com.aspose.drawing/graphicsunit/
 ---
 **Inheritance:**

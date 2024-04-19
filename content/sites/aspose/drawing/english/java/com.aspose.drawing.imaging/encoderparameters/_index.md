@@ -26,8 +26,8 @@ Encapsulates an array of [EncoderParameter](../../com.aspose.drawing.imaging/enc
 
 | Method | Description |
 | --- | --- |
-| [getParam()](#getParam--) | Gets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects. |
-| [setParam(EncoderParameter[] value)](#setParam-com.aspose.drawing.imaging.EncoderParameter---) | Sets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects. |
+| [getParam()](#getParam--) | Gets or sets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects. |
+| [setParam(EncoderParameter[] value)](#setParam-com.aspose.drawing.imaging.EncoderParameter---) | Gets or sets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects. |
 | [dispose()](#dispose--) | Releases all resources used by this [EncoderParameters](../../com.aspose.drawing.imaging/encoderparameters) object. |
 ### EncoderParameters(int count) {#EncoderParameters-int-}
 ```
@@ -56,7 +56,7 @@ public EncoderParameter[] getParam()
 ```
 
 
-Gets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects.
+Gets or sets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects.
 
 **Returns:**
 com.aspose.drawing.imaging.EncoderParameter[] - The array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects.
@@ -66,12 +66,12 @@ public void setParam(EncoderParameter[] value)
 ```
 
 
-Sets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects.
+Gets or sets an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [EncoderParameter\[\]](../../com.aspose.drawing.imaging/encoderparameter) | an array of [EncoderParameter](../../com.aspose.drawing.imaging/encoderparameter) objects. |
+| value | [EncoderParameter\[\]](../../com.aspose.drawing.imaging/encoderparameter) |  |
 
 ### dispose() {#dispose--}
 ```

@@ -27,14 +27,14 @@ Encapsulates a custom user-defined line cap.
 
 | Method | Description |
 | --- | --- |
-| [getStrokeJoin()](#getStrokeJoin--) | Gets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined. |
-| [setStrokeJoin(int value)](#setStrokeJoin-int-) | Sets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined. |
-| [getBaseCap()](#getBaseCap--) | Gets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based. |
-| [setBaseCap(int value)](#setBaseCap-int-) | Sets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based. |
-| [getBaseInset()](#getBaseInset--) | Gets the distance between the cap and the line. |
-| [setBaseInset(float value)](#setBaseInset-float-) | Sets the distance between the cap and the line. |
-| [getWidthScale()](#getWidthScale--) | Gets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object. |
-| [setWidthScale(float value)](#setWidthScale-float-) | Sets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object. |
+| [getStrokeJoin()](#getStrokeJoin--) | Gets or sets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined. |
+| [setStrokeJoin(int value)](#setStrokeJoin-int-) | Gets or sets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined. |
+| [getBaseCap()](#getBaseCap--) | Gets or sets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based. |
+| [setBaseCap(int value)](#setBaseCap-int-) | Gets or sets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based. |
+| [getBaseInset()](#getBaseInset--) | Gets or sets the distance between the cap and the line. |
+| [setBaseInset(float value)](#setBaseInset-float-) | Gets or sets the distance between the cap and the line. |
+| [getWidthScale()](#getWidthScale--) | Gets or sets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object. |
+| [setWidthScale(float value)](#setWidthScale-float-) | Gets or sets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object. |
 | [dispose()](#dispose--) | Releases all resources used by this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object. |
 | [deepClone()](#deepClone--) | Creates an exact copy of this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap). |
 | [setStrokeCaps(int startCap, int endCap)](#setStrokeCaps-int-int-) | Sets the caps used to start and end lines that make up this custom cap. |
@@ -92,22 +92,22 @@ public final int getStrokeJoin()
 ```
 
 
-Gets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined.
+Gets or sets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined.
 
 **Returns:**
-int - the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined.
+int
 ### setStrokeJoin(int value) {#setStrokeJoin-int-}
 ```
 public final void setStrokeJoin(int value)
 ```
 
 
-Sets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined.
+Gets or sets the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the [LineJoin](../../com.aspose.drawing.drawing2d/linejoin) enumeration that determines how lines that compose this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) object are joined. |
+| value | int |  |
 
 ### getBaseCap() {#getBaseCap--}
 ```
@@ -115,22 +115,22 @@ public final int getBaseCap()
 ```
 
 
-Gets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based.
+Gets or sets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based.
 
 **Returns:**
-int - the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based.
+int
 ### setBaseCap(int value) {#setBaseCap-int-}
 ```
 public final void setBaseCap(int value)
 ```
 
 
-Sets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based.
+Gets or sets the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | the [LineCap](../../com.aspose.drawing.drawing2d/linecap) enumeration on which this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) is based. |
+| value | int |  |
 
 ### getBaseInset() {#getBaseInset--}
 ```
@@ -138,22 +138,22 @@ public final float getBaseInset()
 ```
 
 
-Gets the distance between the cap and the line.
+Gets or sets the distance between the cap and the line.
 
 **Returns:**
-float - the distance between the cap and the line.
+float
 ### setBaseInset(float value) {#setBaseInset-float-}
 ```
 public final void setBaseInset(float value)
 ```
 
 
-Sets the distance between the cap and the line.
+Gets or sets the distance between the cap and the line.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | the distance between the cap and the line. |
+| value | float |  |
 
 ### getWidthScale() {#getWidthScale--}
 ```
@@ -161,22 +161,22 @@ public final float getWidthScale()
 ```
 
 
-Gets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object.
+Gets or sets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object.
 
 **Returns:**
-float - the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object.
+float
 ### setWidthScale(float value) {#setWidthScale-float-}
 ```
 public final void setWidthScale(float value)
 ```
 
 
-Sets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object.
+Gets or sets the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | the amount by which to scale this [CustomLineCap](../../com.aspose.drawing.drawing2d/customlinecap) Class object with respect to the width of the [Pen](../../com.aspose.drawing/pen) object. |
+| value | float |  |
 
 ### dispose() {#dispose--}
 ```

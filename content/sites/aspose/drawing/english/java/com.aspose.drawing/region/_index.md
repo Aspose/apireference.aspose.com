@@ -3,7 +3,7 @@ title: Region
 second_title: Aspose.Drawing for Java API Reference
 description: Describes the interior of a graphics shape composed of rectangles and paths.
 type: docs
-weight: 39
+weight: 40
 url: /java/com.aspose.drawing/region/
 ---
 **Inheritance:**
@@ -328,7 +328,7 @@ Updates this [Region](../../com.aspose.drawing/region) to the union minus the in
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | [RectangleF](../../com.aspose.drawing/rectanglef) | The [RectangleF](../../com.aspose.drawing/rectanglef) structure to `M:Region.Xor(drawing2d.GraphicsPath)` with this [Region](../../com.aspose.drawing/region). |
+| rect | [RectangleF](../../com.aspose.drawing/rectanglef) | The [RectangleF](../../com.aspose.drawing/rectanglef) structure to `M:Region.Xor(Drawing2D.GraphicsPath)` with this [Region](../../com.aspose.drawing/region). |
 
 ### xor(Rectangle rect) {#xor-com.aspose.drawing.Rectangle-}
 ```

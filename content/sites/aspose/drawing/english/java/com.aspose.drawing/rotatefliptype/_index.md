@@ -3,7 +3,7 @@ title: RotateFlipType
 second_title: Aspose.Drawing for Java API Reference
 description: Specifies the direction of an images rotation and the axis used to flip the image.
 type: docs
-weight: 40
+weight: 41
 url: /java/com.aspose.drawing/rotatefliptype/
 ---
 **Inheritance:**

@@ -42,5 +42,5 @@ public static final int EmfPlusDual
 ```
 
 
-Specifies that all EMF+ records in the metafile are associated with an alternate EMF record. Metafiles of type `F:EmfType.EmfPlusDual` can be displayed by GDI or by GDI+.
+Specifies that all EMF+ records in the metafile are associated with an alternate EMF record. Metafiles of type `EmfType.EmfPlusDual` can be displayed by GDI or by GDI+.
 

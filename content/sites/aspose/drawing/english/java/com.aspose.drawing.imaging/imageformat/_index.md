@@ -58,7 +58,7 @@ public static ImageFormat getMemoryBmp()
 Gets a memory bitmap image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - a memory bitmap image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getBmp() {#getBmp--}
 ```
 public static ImageFormat getBmp()
@@ -68,7 +68,7 @@ public static ImageFormat getBmp()
 Gets the bitmap (BMP) image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the bitmap (BMP) image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getEmf() {#getEmf--}
 ```
 public static ImageFormat getEmf()
@@ -78,7 +78,7 @@ public static ImageFormat getEmf()
 Gets the enhanced metafile (EMF) image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the enhanced metafile (EMF) image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getWmf() {#getWmf--}
 ```
 public static ImageFormat getWmf()
@@ -88,7 +88,7 @@ public static ImageFormat getWmf()
 Gets the Windows metafile (WMF) image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the Windows metafile (WMF) image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getGif() {#getGif--}
 ```
 public static ImageFormat getGif()
@@ -98,7 +98,7 @@ public static ImageFormat getGif()
 Gets the Graphics Interchange Format (GIF) image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the Graphics Interchange Format (GIF) image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getJpeg() {#getJpeg--}
 ```
 public static ImageFormat getJpeg()
@@ -108,7 +108,7 @@ public static ImageFormat getJpeg()
 Gets the Joint Photographic Experts Group (JPEG) image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the Joint Photographic Experts Group (JPEG) image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getPng() {#getPng--}
 ```
 public static ImageFormat getPng()
@@ -118,7 +118,7 @@ public static ImageFormat getPng()
 Gets the W3C Portable Network Graphics (PNG) image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the W3C Portable Network Graphics (PNG) image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getTiff() {#getTiff--}
 ```
 public static ImageFormat getTiff()
@@ -128,7 +128,7 @@ public static ImageFormat getTiff()
 Gets the Tagged Image File Format (TIFF) image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the Tagged Image File Format (TIFF) image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getExif() {#getExif--}
 ```
 public static ImageFormat getExif()
@@ -138,7 +138,7 @@ public static ImageFormat getExif()
 Gets the Exchangeable Image File (EXIF) format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the Exchangeable Image File (EXIF) format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getIcon() {#getIcon--}
 ```
 public static ImageFormat getIcon()
@@ -148,7 +148,7 @@ public static ImageFormat getIcon()
 Gets the Windows icon image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.drawing.imaging/imageformat) - the Windows icon image format.
+[ImageFormat](../../com.aspose.drawing.imaging/imageformat)
 ### getGuid() {#getGuid--}
 ```
 public UUID getGuid()
@@ -158,7 +158,7 @@ public UUID getGuid()
 Gets a java.util.UUID structure that represents this [ImageFormat](../../com.aspose.drawing.imaging/imageformat) object.
 
 **Returns:**
-java.util.UUID - a java.util.UUID
+java.util.UUID
 ### equals(Object o) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object o)

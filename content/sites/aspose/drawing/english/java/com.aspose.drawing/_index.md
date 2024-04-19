@@ -24,6 +24,7 @@ Aspose.Drawing is a graphics API that provides the capability of 2D drawings ide
 | [ContentAlignment](../com.aspose.drawing/contentalignment) | Specifies alignment of content on the drawing surface. |
 | [CopyPixelOperation](../com.aspose.drawing/copypixeloperation) | Determines how the source color in a copy pixel operation is combined with the destination color to result in a final color. |
 | [DrawingSettings](../com.aspose.drawing/drawingsettings) | Allows to adjust the behavior of the drawing library in case of using of some features that are not yet implemented completely. |
+| [Features](../com.aspose.drawing/features) | Features of Aspose.Drawing library. |
 | [Font](../com.aspose.drawing/font) | Defines a particular format for text, including font face, size, and style attributes. |
 | [FontCollection](../com.aspose.drawing/fontcollection) | Provides a base class for installed and private font collections. |
 | [FontDefinitionExt](../com.aspose.drawing/fontdefinitionext) | Class contains font definition, |

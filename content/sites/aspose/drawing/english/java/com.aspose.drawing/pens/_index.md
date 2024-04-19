@@ -3,7 +3,7 @@ title: Pens
 second_title: Aspose.Drawing for Java API Reference
 description: Pens for all the standard colors.
 type: docs
-weight: 34
+weight: 35
 url: /java/com.aspose.drawing/pens/
 ---
 **Inheritance:**

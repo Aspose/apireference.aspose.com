@@ -3,7 +3,7 @@ title: SystemFonts
 second_title: Aspose.Drawing for Java API Reference
 description: Specifies the fonts used to display text in Windows display elements.
 type: docs
-weight: 50
+weight: 51
 url: /java/com.aspose.drawing/systemfonts/
 ---
 **Inheritance:**
