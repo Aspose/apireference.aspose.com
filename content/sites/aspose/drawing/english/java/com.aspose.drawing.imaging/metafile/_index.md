@@ -23,6 +23,7 @@ Defines a graphic metafile. A metafile contains records that describe a sequence
 | [Metafile(String filename, byte[] referenceHdc)](#Metafile-java.lang.String-byte---) | Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/metafile) class from the specified file name. |
 | [Metafile(InputStream stream)](#Metafile-java.io.InputStream-) | Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/metafile) class from the specified data stream. |
 | [Metafile(InputStream stream, byte[] referenceHdc)](#Metafile-java.io.InputStream-byte---) | Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/metafile) class from the specified data stream and a Windows handle to a device context. |
+| [Metafile(System.IO.Stream stream, int type)](#Metafile-com.aspose.ms.System.IO.Stream-int-) | Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/metafile) class from the specified data stream and a Windows handle to a device context. |
 | [Metafile(InputStream stream, byte[] referenceHdc, int type)](#Metafile-java.io.InputStream-byte---int-) | Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/metafile) class from the specified data stream, a Windows handle to a device context, and an [EmfType](../../com.aspose.drawing.imaging/emftype) enumeration that specifies the format of the [Metafile](../../com.aspose.drawing.imaging/metafile). |
 | [Metafile(InputStream stream, byte[] referenceHdc, RectangleF frameRect, int frameUnit, int type)](#Metafile-java.io.InputStream-byte---com.aspose.drawing.RectangleF-int-int-) | Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/metafile) class from the specified data stream, a Windows handle to a device context, and an [EmfType](../../com.aspose.drawing.imaging/emftype) enumeration that specifies the format of the [Metafile](../../com.aspose.drawing.imaging/metafile). |
 ## Methods
@@ -128,6 +129,20 @@ Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/me
 | --- | --- | --- |
 | stream | java.io.InputStream | A InputStream that contains the data for this [Metafile](../../com.aspose.drawing.imaging/metafile). |
 | referenceHdc | byte[] | A Windows handle to a device context of the [Metafile](../../com.aspose.drawing.imaging/metafile) object. |
+
+### Metafile(System.IO.Stream stream, int type) {#Metafile-com.aspose.ms.System.IO.Stream-int-}
+```
+public Metafile(System.IO.Stream stream, int type)
+```
+
+
+Initializes a new instance of the [Metafile](../../com.aspose.drawing.imaging/metafile) class from the specified data stream and a Windows handle to a device context. />.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | com.aspose.ms.System.IO.Stream | A InputStream that contains the data for this [Metafile](../../com.aspose.drawing.imaging/metafile). |
+| type | int | must be int 1. |
 
 ### Metafile(InputStream stream, byte[] referenceHdc, int type) {#Metafile-java.io.InputStream-byte---int-}
 ```

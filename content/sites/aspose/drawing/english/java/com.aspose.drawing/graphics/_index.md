@@ -20,7 +20,6 @@ Encapsulates drawing surface.
 
 | Method | Description |
 | --- | --- |
-| [fromImage(Image image)](#fromImage-com.aspose.drawing.Image-) | Creates a new Graphics from the specified Image. |
 | [fromHwnd(byte[] hwnd)](#fromHwnd-byte---) | Creates a new [Graphics](../../com.aspose.drawing/graphics) from the specified handle to a window. |
 | [isInBeginUpdateCall()](#isInBeginUpdateCall--) |  |
 | [setInBeginUpdateCall(boolean inBeginUpdateCall)](#setInBeginUpdateCall-boolean-) |  |
@@ -58,6 +57,7 @@ Encapsulates drawing surface.
 | [setTextRenderingHint(int value)](#setTextRenderingHint-int-) | Sets the rendering mode for text associated with this [Graphics](../../com.aspose.drawing/graphics). |
 | [getTransform()](#getTransform--) | Gets a copy of the geometric world transformation for this [Graphics](../../com.aspose.drawing/graphics). |
 | [setTransform(Matrix value)](#setTransform-com.aspose.drawing.drawing2d.Matrix-) | Sets a copy of the geometric world transformation for this [Graphics](../../com.aspose.drawing/graphics). |
+| [fromImage(Image image)](#fromImage-com.aspose.drawing.Image-) | Creates a new Graphics from the specified Image. |
 | [copyFromScreen(Point upperLeftSource, Point upperLeftDestination, Size blockRegionSize)](#copyFromScreen-com.aspose.drawing.Point-com.aspose.drawing.Point-com.aspose.drawing.Size-) | Performs a bit-block transfer of color data, corresponding to a rectangle of pixels, from the screen to the drawing surface of the [Graphics](../../com.aspose.drawing/graphics). |
 | [copyFromScreen(int sourceX, int sourceY, int destinationX, int destinationY, Size blockRegionSize, int copyPixelOperation)](#copyFromScreen-int-int-int-int-com.aspose.drawing.Size-int-) | Performs a bit-block transfer of the color data, corresponding to a rectangle of pixels, from the screen to the drawing surface of the [Graphics](../../com.aspose.drawing/graphics). |
 | [copyFromScreen(Point upperLeftSource, Point upperLeftDestination, Size blockRegionSize, int copyPixelOperation)](#copyFromScreen-com.aspose.drawing.Point-com.aspose.drawing.Point-com.aspose.drawing.Size-int-) | Performs a bit-block transfer of color data, corresponding to a rectangle of pixels, from the screen to the drawing surface of the [Graphics](../../com.aspose.drawing/graphics). |
@@ -245,21 +245,6 @@ Encapsulates drawing surface.
 | [enumerateMetafile(Metafile metafile, Rectangle destRect, Graphics.EnumerateMetafileProcByte callback, byte[] callbackData, ImageAttributes imageAttr)](#enumerateMetafile-com.aspose.drawing.imaging.Metafile-com.aspose.drawing.Rectangle-com.aspose.drawing.Graphics.EnumerateMetafileProcByte-byte---com.aspose.drawing.imaging.ImageAttributes-) | Sends the records of the specified [Metafile](../../com.aspose.drawing.imaging/metafile), one at a time, to a callback method for display in a specified rectangle using specified image attributes. |
 | [addMetafileComment(byte[] data)](#addMetafileComment-byte---) | Adds a comment to the current [Metafile](../../com.aspose.drawing.imaging/metafile). |
 | [getImage()](#getImage--) |  |
-### fromImage(Image image) {#fromImage-com.aspose.drawing.Image-}
-```
-public static Graphics fromImage(Image image)
-```
-
-
-Creates a new Graphics from the specified Image.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | [Image](../../com.aspose.drawing/image) | Image from which to create the new Graphics. |
-
-**Returns:**
-[Graphics](../../com.aspose.drawing/graphics) - A new Graphics for the specified Image.
 ### fromHwnd(byte[] hwnd) {#fromHwnd-byte---}
 ```
 public static Graphics fromHwnd(byte[] hwnd)
@@ -706,6 +691,21 @@ Sets a copy of the geometric world transformation for this [Graphics](../../com.
 | --- | --- | --- |
 | value | [Matrix](../../com.aspose.drawing.drawing2d/matrix) | a copy of the geometric world transformation for this [Graphics](../../com.aspose.drawing/graphics). |
 
+### fromImage(Image image) {#fromImage-com.aspose.drawing.Image-}
+```
+public static Graphics fromImage(Image image)
+```
+
+
+Creates a new Graphics from the specified Image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | [Image](../../com.aspose.drawing/image) | Image from which to create the new Graphics. |
+
+**Returns:**
+[Graphics](../../com.aspose.drawing/graphics) - A new Graphics for the specified Image.
 ### copyFromScreen(Point upperLeftSource, Point upperLeftDestination, Size blockRegionSize) {#copyFromScreen-com.aspose.drawing.Point-com.aspose.drawing.Point-com.aspose.drawing.Size-}
 ```
 public final void copyFromScreen(Point upperLeftSource, Point upperLeftDestination, Size blockRegionSize)
