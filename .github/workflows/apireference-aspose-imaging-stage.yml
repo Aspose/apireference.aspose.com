@@ -50,7 +50,7 @@ jobs:
 
       # Also specifies the theme we want to use
       - name: Build
-        run: hugo --configDir config/sites/aspose/imaging --environment staging --minify
+        run: hugo --configDir config/sites/aspose/imaging --environment staging --minify --panicOnWarning
         
       - name: Deploy apireference2.aspose.com(imaging)(Stage) to S3
         run: hugo --configDir config/sites/aspose/imaging --environment staging deploy --target "Stage" --maxDeletes -1
