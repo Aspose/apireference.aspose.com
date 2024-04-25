@@ -3,7 +3,7 @@ title: Enum RenderingUtils.LineSpacingType
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Renderers.RenderingUtilsLineSpacingType enum. Line Spacing Type. Number of pixels or percent of font height
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.font.renderers/renderingutils.linespacingtype/
 ---
 ## RenderingUtils.LineSpacingType enumeration

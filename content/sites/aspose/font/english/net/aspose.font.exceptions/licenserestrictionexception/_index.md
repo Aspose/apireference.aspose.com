@@ -3,7 +3,7 @@ title: Class LicenseRestrictionException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.LicenseRestrictionException class. Represents exception which can be thrown on attempt to execute functionality which is restricted in evaluation mode
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.font.exceptions/licenserestrictionexception/
 ---
 ## LicenseRestrictionException class

@@ -3,7 +3,7 @@ title: Struct TtfGaspTable.GaspRange
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfGaspTableGaspRange struct. The array of GaspRange records provides recommended behaviors for various ppem sizes
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.font.ttftables/ttfgasptable.gasprange/
 ---
 ## TtfGaspTable.GaspRange structure

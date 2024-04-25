@@ -3,7 +3,7 @@ title: Class TtfCffTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfCffTable class. Represents cff table of the TTF Font file
 type: docs
-weight: 910
+weight: 920
 url: /net/aspose.font.ttftables/ttfcfftable/
 ---
 ## TtfCffTable class
