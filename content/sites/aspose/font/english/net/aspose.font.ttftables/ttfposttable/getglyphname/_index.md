@@ -20,7 +20,7 @@ public string GetGlyphName(uint glyphIndex)
 
 ### Return Value
 
-Glyph name.
+Glyph name. When no PostScript name information is provided for the glyphs in this font file, returns null.
 
 ### See Also
 

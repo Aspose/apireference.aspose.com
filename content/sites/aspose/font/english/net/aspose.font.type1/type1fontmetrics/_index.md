@@ -3,7 +3,7 @@ title: Class Type1FontMetrics
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Type1.Type1FontMetrics class. Represents Type1 Font metrics
 type: docs
-weight: 1270
+weight: 1280
 url: /net/aspose.font.type1/type1fontmetrics/
 ---
 ## Type1FontMetrics class

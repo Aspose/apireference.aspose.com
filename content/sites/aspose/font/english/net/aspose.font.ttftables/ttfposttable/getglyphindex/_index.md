@@ -20,7 +20,7 @@ public uint GetGlyphIndex(string glyphName)
 
 ### Return Value
 
-Glyph index.
+Glyph index. When no PostScript name information is provided for the glyphs in this font file, returns the index 0, which is the undefined glyph or ".notdef" glyph
 
 ### See Also
 
