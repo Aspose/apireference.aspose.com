@@ -72,7 +72,7 @@ jobs:
         run: ls ${{ github.workspace }}/public
       - name: Prepare public folder
         run: |
-            find ${{ github.workspace }}/public -iname 'sitemap.xml' -execdir mv -i '{}' adapters.xml \;
+            find ${{ github.workspace }}/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;
             mv ${{ github.workspace }}/total.imaging.sitemap public/sitemap.xml;
       - name: Deploy apireference2.aspose.com(imaging)(Stage) to S3
         run: hugo --configDir config/sites/aspose/imaging --environment staging deploy --target "Stage" --maxDeletes=0 --force
