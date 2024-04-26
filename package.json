@@ -4,7 +4,7 @@
   "description": "Aspose API References.",
   "main": "none.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "configure": "node scripts/configure.js"
   },
   "author": "",
   "license": "UNLICENSED",
