@@ -68,6 +68,8 @@ jobs:
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/sites/aspose/imaging --config "config.json" --environment staging --minify --cleanDestinationDir
+      - name: List directory contents
+        run: ls
       - name: Prepare public folder
         run: |
             find /home/runner/work/apireference.aspose.com/apireference.aspose.com/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;=
