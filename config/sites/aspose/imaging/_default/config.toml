@@ -44,7 +44,7 @@ defaultContentLang = 'en'
     [languages.en.menu]
     	[[languages.en.menu.main]]
      	  name = "Aspose.Imaging for .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.en.menu.main]]
      	  name = "Aspose.Imaging for Java"
@@ -67,7 +67,7 @@ defaultContentLang = 'en'
     [languages.ru.menu]
     	[[languages.ru.menu.main]]
      	  name = "Aspose.Imaging для .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.ru.menu.main]]
      	  name = "Aspose.Imaging для Java"
@@ -90,7 +90,7 @@ defaultContentLang = 'en'
     [languages.zh.menu]
     	[[languages.zh.menu.main]]
      	  name = "用于 .NET 的 Aspose.Imaging"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.zh.menu.main]]
      	  name = "用于 Java 的 Aspose.Imaging"
@@ -113,7 +113,7 @@ defaultContentLang = 'en'
     [languages.ar.menu]
     	[[languages.ar.menu.main]]
      	  name = "Aspose.Imaging لـ .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.ar.menu.main]]
      	  name = "Aspose.Imaging لـ Java"
@@ -136,7 +136,7 @@ defaultContentLang = 'en'
     [languages.fr.menu]
     	[[languages.fr.menu.main]]
      	  name = "Aspose.Imaging pour .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.fr.menu.main]]
      	  name = "Aspose.Imaging pour Java"
@@ -159,7 +159,7 @@ defaultContentLang = 'en'
     [languages.de.menu]
     	[[languages.de.menu.main]]
      	  name = "Aspose.Imaging für .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.de.menu.main]]
      	  name = "Aspose.Imaging für Java"
@@ -182,7 +182,7 @@ defaultContentLang = 'en'
     [languages.it.menu]
     	[[languages.it.menu.main]]
      	  name = "Aspose.Imaging per .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.it.menu.main]]
      	  name = "Aspose.Imaging per Java"
@@ -205,7 +205,7 @@ defaultContentLang = 'en'
     [languages.es.menu]
     	[[languages.es.menu.main]]
      	  name = "Aspose.Imaging para .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.es.menu.main]]
      	  name = "Aspose.Imaging para Java"
@@ -228,7 +228,7 @@ defaultContentLang = 'en'
     [languages.sv.menu]
     	[[languages.sv.menu.main]]
      	  name = "Aspose.Imaging för .NET"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.sv.menu.main]]
      	  name = "Aspose.Imaging för Java"
@@ -251,7 +251,7 @@ defaultContentLang = 'en'
     [languages.tr.menu]
     	[[languages.tr.menu.main]]
      	  name = ".NET için Aspose.Imaging"
-		  url = "/net/"
+		  url = "./net/"
 		  weight = 10
     	[[languages.tr.menu.main]]
      	  name = "Java için Aspose.Imaging"
