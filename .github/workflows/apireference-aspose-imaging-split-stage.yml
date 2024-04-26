@@ -56,6 +56,8 @@ jobs:
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
         run:  npm install -D --save postcss-cli
+      - name: Print Checkout Directory
+        run: echo "Checkout directory is located at ${{ github.workspace }}"
       - name: Configure build environment
         env:
           CONFIGURE_ONE_PRODUCT: ${{ matrix.configure_one_product }}
