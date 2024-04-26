@@ -10,7 +10,10 @@
   "license": "UNLICENSED",
   "private": true,
   "devDependencies": {
-    "autoprefixer": "^9.8.0",
-    "postcss-cli": "^9.1.0"
+    "ci": "^2.2.0",
+    "dotenv": "latest",
+    "js-yaml": "latest",
+    "npm-run-all": "latest",
+    "path": "^0.12.7"
   }
 }
