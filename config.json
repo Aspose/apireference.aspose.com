@@ -1,0 +1,9 @@
+{
+    "ignoreFiles": [
+        "/cpp/",
+        "/java/",
+        "/net/",
+        "/python-net/",
+    ],
+    "one_product": "python-java"
+}
