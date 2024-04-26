@@ -16,7 +16,6 @@ public static final class PageMediaType.PrePrinted extends ScoredProperty implem
 ```
 
 Defines constants for the  PrePrinted  scored property value.
-
 ## Fields
 
 | Field | Description |

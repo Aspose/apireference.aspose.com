@@ -36,6 +36,7 @@ public XpsConverterToImageOptions(ImageFormat imageFormat)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
 * class [XpsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../xpsconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)
@@ -77,6 +78,7 @@ public XpsConverterToImageOptions(ImageFormat imageFormat, Size size)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
 * class [XpsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../xpsconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)

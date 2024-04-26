@@ -3,7 +3,7 @@ title: Class XpsConverterToPdfOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.XpsConverterToPdfOptions class. Represents XPS to PDF converter options for XpsConverter plugin
 type: docs
-weight: 550
+weight: 900
 url: /net/aspose.page.plugins/xpsconvertertopdfoptions/
 ---
 ## XpsConverterToPdfOptions class

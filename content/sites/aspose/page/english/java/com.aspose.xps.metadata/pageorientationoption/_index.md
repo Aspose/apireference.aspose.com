@@ -13,7 +13,6 @@ public static final class PageOrientation.PageOrientationOption extends Option
 ```
 
 Describes the  PageOrientation  feature options.
-
 ## Fields
 
 | Field | Description |

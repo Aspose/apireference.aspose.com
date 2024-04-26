@@ -16,6 +16,7 @@ public Size PageSize { get; set; }
 
 ### See Also
 
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Page.EPS.Device](../../pssaveoptions/)
 * assembly [Aspose.Page](../../../)

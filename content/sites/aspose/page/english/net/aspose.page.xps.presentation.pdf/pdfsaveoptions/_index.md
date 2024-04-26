@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.Presentation.Pdf.PdfSaveOptions class. Class for XPSasPDF saving options
 type: docs
-weight: 740
+weight: 1090
 url: /net/aspose.page.xps.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -33,6 +33,7 @@ public class PdfSaveOptions : SaveOptions
 | [OutlineTreeExpansionLevel](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel/) { get; set; } | Specifies up to what level the document outline should be expanded when the PDF file is opened in a viewer. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on. Default is 1. |
 | [OutlineTreeHeight](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeheight/) { get; set; } | Specifies the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, ans so on. Default is 10. |
 | [PageNumbers](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/pagenumbers/) { get; set; } | Gets/sets the array of numbers of pages to convert. |
+| [Size](../../aspose.page/saveoptions/size/) { get; set; } | Gets/sets the size of the image. |
 | virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. If false the first error will terminate the program. |
 | [TextCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/textcompression/) { get; set; } | Specifies compression type to be used for all content streams except images. Default is Flate. |
 

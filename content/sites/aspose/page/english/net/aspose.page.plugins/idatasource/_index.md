@@ -3,7 +3,7 @@ title: Interface IDataSource
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.IDataSource interface. General data source interface that defines common members that concrete data sources should implement
 type: docs
-weight: 400
+weight: 750
 url: /net/aspose.page.plugins/idatasource/
 ---
 ## IDataSource interface

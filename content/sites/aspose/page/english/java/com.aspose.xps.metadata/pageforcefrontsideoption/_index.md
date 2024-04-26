@@ -13,7 +13,6 @@ public static final class PageForceFrontSide.PageForceFrontSideOption extends Op
 ```
 
 Describes the  PageForceFrontSide  feature options.
-
 ## Fields
 
 | Field | Description |

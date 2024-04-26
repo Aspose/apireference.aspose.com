@@ -3,7 +3,7 @@ title: PsDocument.SaveAsImage
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Saves PS/EPS file to images bytes arrays
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.page.eps/psdocument/saveasimage/
 ---
 ## PsDocument.SaveAsImage method

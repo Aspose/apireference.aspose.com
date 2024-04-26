@@ -3,7 +3,7 @@ title: PsDocument.ResizeEps
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Resizes given PsDocument as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing BoundingBox or new one will be created. Page transformation matrix also will be set
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.page.eps/psdocument/resizeeps/
 ---
 ## PsDocument.ResizeEps method
@@ -22,6 +22,7 @@ public void ResizeEps(Stream epsStream, SizeF newSizeInUnits, Units units)
 
 ### See Also
 
+* struct [SizeF](../../../aspose.page.drawing/sizef/)
 * enum [Units](../../../aspose.page/units/)
 * class [PsDocument](../)
 * namespace [Aspose.Page.EPS](../../psdocument/)

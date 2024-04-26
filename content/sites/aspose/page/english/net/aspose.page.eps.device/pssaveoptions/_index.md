@@ -3,7 +3,7 @@ title: Class PsSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.Device.PsSaveOptions class. This class contains options necessary for managing process of converting document to PostScript PS or Encapsulated PostScript EPS file
 type: docs
-weight: 130
+weight: 480
 url: /net/aspose.page.eps.device/pssaveoptions/
 ---
 ## PsSaveOptions class
@@ -35,6 +35,7 @@ public class PsSaveOptions : SaveOptions
 | [Margins](../../aspose.page.eps.device/pssaveoptions/margins/) { get; set; } | The margins of the page. |
 | [PageSize](../../aspose.page.eps.device/pssaveoptions/pagesize/) { get; set; } | The size of the page. |
 | [SaveFormat](../../aspose.page.eps.device/pssaveoptions/saveformat/) { get; set; } | The save format of resulting file. |
+| [Size](../../aspose.page/saveoptions/size/) { get; set; } | Gets/sets the size of the image. |
 | virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. If false the first error will terminate the program. |
 | [Transparent](../../aspose.page.eps.device/pssaveoptions/transparent/) { get; set; } | Indicates if background is transparent. |
 

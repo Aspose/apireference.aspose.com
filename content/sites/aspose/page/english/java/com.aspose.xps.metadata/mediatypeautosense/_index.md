@@ -16,7 +16,6 @@ public static final class InputBin.MediaTypeAutoSense extends ScoredProperty imp
 ```
 
 Defines constants for the  MediaTypeAutoSense  scored property value.
-
 ## Fields
 
 | Field | Description |

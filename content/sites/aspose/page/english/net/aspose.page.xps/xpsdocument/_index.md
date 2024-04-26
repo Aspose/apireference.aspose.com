@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsDocument class. Class incapsulating the main entity of XPS document that provides manipulation methods for any XPS element
 type: docs
-weight: 770
+weight: 1120
 url: /net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class
@@ -103,7 +103,10 @@ public sealed class XpsDocument : Document, IDisposable
 | [InsertPage](../../aspose.page.xps/xpsdocument/insertpage/#insertpage_2)(int, float, float, bool) | Inserts an empty page to the document with specified *width* and *height* at *index* position. |
 | [InsertPath](../../aspose.page.xps/xpsdocument/insertpath/)(int, XpsPathGeometry) | Inserts a new path to the active page at *index* position. |
 | [Merge](../../aspose.page.xps/xpsdocument/merge/#merge_1)(string[], Stream) | Merging several XPS files to one XPS document. |
+| [Merge](../../aspose.page.xps/xpsdocument/merge/#merge_2)(string[], string) | Merging several XPS files to one XPS document. |
 | [Merge](../../aspose.page.xps/xpsdocument/merge/#merge)(string[], Device, SaveOptions) | Merging XPS documents to PDF using the [`Device`](../../aspose.page/device/) instance. |
+| [MergeToPdf](../../aspose.page.xps/xpsdocument/mergetopdf/#mergetopdf)(Stream, string[], SaveOptions) | Merging XPS documents to PDF using the [`Device`](../../aspose.page/device/) instance. |
+| [MergeToPdf](../../aspose.page.xps/xpsdocument/mergetopdf/#mergetopdf_1)(string, string[], SaveOptions) | Merging XPS documents to PDF using the [`Device`](../../aspose.page/device/) instance. |
 | [Remove&lt;T&gt;](../../aspose.page.xps/xpsdocument/remove/)(T) | Removes an element from the active page. |
 | [RemoveAt](../../aspose.page.xps/xpsdocument/removeat/)(int) | Removes an element at *index* position from the active page. |
 | [RemoveDocumentAt](../../aspose.page.xps/xpsdocument/removedocumentat/)(int) | Removes a document at *index* position. |
@@ -113,7 +116,8 @@ public sealed class XpsDocument : Document, IDisposable
 | [Save](../../aspose.page.xps/xpsdocument/save/#save_2)(string) | Saves XPS document to XPS file located at the *path*. |
 | override [Save](../../aspose.page.xps/xpsdocument/save/#save)(Device, SaveOptions) | Saves the document using the [`Device`](../../aspose.page/device/) instance. |
 | [SaveAsImage](../../aspose.page.xps/xpsdocument/saveasimage/)(ImageSaveOptions) | Saves the document in a bitmap image format. |
-| [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/)(Stream, PdfSaveOptions) | Saves the document in PDF format. |
+| [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/#saveaspdf)(Stream, PdfSaveOptions) | Saves the document in PDF format. |
+| [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/#saveaspdf_1)(string, PdfSaveOptions) | Saves the document in PDF format. |
 | [SaveAsPs](../../aspose.page.xps/xpsdocument/saveasps/)(Stream, PsSaveOptions) | Saves the document in PS format. |
 | [SelectActiveDocument](../../aspose.page.xps/xpsdocument/selectactivedocument/)(int) | Selects an active document for editing. |
 | [SelectActivePage](../../aspose.page.xps/xpsdocument/selectactivepage/)(int) | Selects an active document page for editing. |

@@ -3,7 +3,7 @@ title: XpsDocument.SelectActiveDocument
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Selects an active document for editing
 type: docs
-weight: 560
+weight: 570
 url: /net/aspose.page.xps/xpsdocument/selectactivedocument/
 ---
 ## XpsDocument.SelectActiveDocument method

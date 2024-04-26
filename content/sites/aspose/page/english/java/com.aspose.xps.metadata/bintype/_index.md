@@ -16,7 +16,6 @@ public static final class OutputBin.BinType extends ScoredProperty implements Ou
 ```
 
 Defines constants for the  BinType  scored property value.
-
 ## Fields
 
 | Field | Description |

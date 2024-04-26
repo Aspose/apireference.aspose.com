@@ -11,6 +11,7 @@ url: /net/aspose.page.xps/xpsdocument/merge/
 Merging XPS documents to PDF using the [`Device`](../../../aspose.page/device/) instance.
 
 ```csharp
+[Obsolete("Save is deprecated beginning from 24.3, please use MergeToPdf instead. In 24.6 this method will be hidden")]
 public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 ```
 
@@ -24,6 +25,27 @@ public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 
 * class [Device](../../../aspose.page/device/)
 * class [SaveOptions](../../../aspose.page/saveoptions/)
+* class [XpsDocument](../)
+* namespace [Aspose.Page.XPS](../../xpsdocument/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## Merge(string[], string) {#merge_2}
+
+Merging several XPS files to one XPS document.
+
+```csharp
+public void Merge(string[] filesForMerge, string outXpsFilePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filesForMerge | String[] | XPS files for merging with this document. |
+| outXpsFilePath | String | An output Xps file path. |
+
+### See Also
+
 * class [XpsDocument](../)
 * namespace [Aspose.Page.XPS](../../xpsdocument/)
 * assembly [Aspose.Page](../../../)

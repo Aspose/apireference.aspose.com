@@ -13,4 +13,3 @@ public static interface InputBin.IInputBinItem extends IFeatureItem
 ```
 
 The interface of any  JobInputBin ,  DocumentInputBin  and  PageInputBin  feature item.
-

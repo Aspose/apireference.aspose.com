@@ -16,7 +16,6 @@ public static final class InputBin.FeedFace extends Property implements InputBin
 ```
 
 Defines constants for the  FeedFace  scored property value.
-
 ## Fields
 
 | Field | Description |

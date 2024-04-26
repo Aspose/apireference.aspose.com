@@ -64,13 +64,13 @@ Adds a list of items to the end of this option's item list. Each one must be a  
 public OutputBin.OutputBinOption add(OutputBin.IOutputBinOptionItem[] items)
 ```
 
+
 Adds an array of  IOutputBinOptionItem  instances to the feature.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | items | [IOutputBinOptionItem\[\]](../../com.aspose.xps.metadata/ioutputbinoptionitem) | An arbitrary array of  IOutputBinOptionItem  instances. |
-
 
 **Returns:**
 [OutputBinOption](../../com.aspose.xps.metadata/outputbinoption) - This options instance.
@@ -139,6 +139,7 @@ public final native void notifyAll()
 ```
 public OutputBin.OutputBinOption setMediaSheetCapacity(int mediaSheetCapacity)
 ```
+
 
 Sets a  MediaSheetCapacity  scored property value.
 

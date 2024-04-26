@@ -13,4 +13,3 @@ public static interface JobBindAllDocuments.IBindingOptionItem extends IOptionIt
 ```
 
 The interface of any  BindingOption  item.
-

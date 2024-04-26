@@ -43,7 +43,7 @@ public ImageSaveOptions(ImageFormat imageFormat)
 
 ---
 
-## ImageSaveOptions(Size) {#constructor_2}
+## ImageSaveOptions(Size) {#constructor_3}
 
 Initializes a new instance of the [`ImageSaveOptions`](../) with with specified size of the image.
 
@@ -57,14 +57,14 @@ public ImageSaveOptions(Size size)
 
 ### See Also
 
-* class [Size](../../../aspose.page.drawing/size/)
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [ImageSaveOptions](../)
 * namespace [Aspose.Page.EPS.Device](../../imagesaveoptions/)
 * assembly [Aspose.Page](../../../)
 
 ---
 
-## ImageSaveOptions(Size, ImageFormat) {#constructor_3}
+## ImageSaveOptions(Size, ImageFormat) {#constructor_4}
 
 Initializes a new instance of the [`ImageSaveOptions`](../) with with specified size of the image and image format.
 
@@ -79,7 +79,7 @@ public ImageSaveOptions(Size size, ImageFormat imageFormat)
 
 ### See Also
 
-* class [Size](../../../aspose.page.drawing/size/)
+* struct [Size](../../../aspose.page.drawing/size/)
 * enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
 * class [ImageSaveOptions](../)
 * namespace [Aspose.Page.EPS.Device](../../imagesaveoptions/)
@@ -87,7 +87,51 @@ public ImageSaveOptions(Size size, ImageFormat imageFormat)
 
 ---
 
-## ImageSaveOptions(Size, ImageFormat, bool) {#constructor_4}
+## ImageSaveOptions(ImageFormat, bool) {#constructor_2}
+
+Initializes a new instance of the [`ImageSaveOptions`](../) with with specified image format.
+
+```csharp
+public ImageSaveOptions(ImageFormat imageFormat, bool supressErrors)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFormat | ImageFormat | The format of the image. |
+| supressErrors | Boolean | Specifies whether errors must be suppressed or not. If true suppressed errors are added to !:Exceptions list. |
+
+### See Also
+
+* enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
+* class [ImageSaveOptions](../)
+* namespace [Aspose.Page.EPS.Device](../../imagesaveoptions/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## ImageSaveOptions(Size, bool) {#constructor_6}
+
+Initializes a new instance of the [`ImageSaveOptions`](../) with with specified size.
+
+```csharp
+public ImageSaveOptions(Size size, bool supressErrors)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | Size | The image size. |
+| supressErrors | Boolean | Specifies whether errors must be suppressed or not. If true suppressed errors are added to !:Exceptions list. |
+
+### See Also
+
+* struct [Size](../../../aspose.page.drawing/size/)
+* class [ImageSaveOptions](../)
+* namespace [Aspose.Page.EPS.Device](../../imagesaveoptions/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## ImageSaveOptions(Size, ImageFormat, bool) {#constructor_5}
 
 Initializes a new instance of the [`ImageSaveOptions`](../) with with specified size of the image and image format.
 
@@ -103,7 +147,7 @@ public ImageSaveOptions(Size size, ImageFormat imageFormat, bool supressErrors)
 
 ### See Also
 
-* class [Size](../../../aspose.page.drawing/size/)
+* struct [Size](../../../aspose.page.drawing/size/)
 * enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
 * class [ImageSaveOptions](../)
 * namespace [Aspose.Page.EPS.Device](../../imagesaveoptions/)
@@ -111,7 +155,7 @@ public ImageSaveOptions(Size size, ImageFormat imageFormat, bool supressErrors)
 
 ---
 
-## ImageSaveOptions(bool) {#constructor_5}
+## ImageSaveOptions(bool) {#constructor_7}
 
 Initializes a new instance of the [`ImageSaveOptions`](../) with default value for flag Debug (false).
 

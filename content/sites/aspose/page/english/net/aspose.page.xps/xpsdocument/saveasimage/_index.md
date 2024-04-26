@@ -3,7 +3,7 @@ title: XpsDocument.SaveAsImage
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Saves the document in a bitmap image format
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.page.xps/xpsdocument/saveasimage/
 ---
 ## XpsDocument.SaveAsImage method

@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.Device.PdfDevice class. This class encapsulates rendering of document to PDF
 type: docs
-weight: 100
+weight: 450
 url: /net/aspose.page.eps.device/pdfdevice/
 ---
 ## PdfDevice class

@@ -3,7 +3,7 @@ title: Enum ImageFormat
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Drawing.Imaging.ImageFormat enum. 
 type: docs
-weight: 60
+weight: 320
 url: /net/aspose.page.drawing.imaging/imageformat/
 ---
 ## ImageFormat enumeration

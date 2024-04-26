@@ -11,7 +11,7 @@ url: /net/aspose.page.plugins/xpsconvertertoimageoptions/size/
 Gets/sets the size of the resulting image.
 
 ```csharp
-public Size? Size { get; set; }
+public Size Size { get; set; }
 ```
 
 ### See Also

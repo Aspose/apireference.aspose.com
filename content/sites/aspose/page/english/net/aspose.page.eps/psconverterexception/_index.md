@@ -3,7 +3,7 @@ title: Class PsConverterException
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PsConverterException class. This class contains information about an error that is thrown while PS file is converted to PDF document
 type: docs
-weight: 180
+weight: 530
 url: /net/aspose.page.eps/psconverterexception/
 ---
 ## PsConverterException class

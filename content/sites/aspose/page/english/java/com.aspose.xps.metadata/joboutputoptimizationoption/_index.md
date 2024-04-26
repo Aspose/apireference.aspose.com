@@ -13,7 +13,6 @@ public static final class JobOutputOptimization.JobOutputOptimizationOption exte
 ```
 
 Describes the  JobOutputOptimization  feature options.
-
 ## Fields
 
 | Field | Description |

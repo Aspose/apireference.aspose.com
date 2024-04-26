@@ -16,7 +16,6 @@ public static final class PageScaling.ScaleOffsetAlignment extends Feature imple
 ```
 
 Describes inner  ScaleOffsetAlignment  feature.
-
 ## Constructors
 
 | Constructor | Description |

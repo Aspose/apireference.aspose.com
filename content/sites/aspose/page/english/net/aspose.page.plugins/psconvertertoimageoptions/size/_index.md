@@ -16,7 +16,7 @@ public Size Size { get; set; }
 
 ### See Also
 
-* class [Size](../../../aspose.page.drawing/size/)
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [PsConverterToImageOptions](../)
 * namespace [Aspose.Page.Plugins](../../psconvertertoimageoptions/)
 * assembly [Aspose.Page](../../../)

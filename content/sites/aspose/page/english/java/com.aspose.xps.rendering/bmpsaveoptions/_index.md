@@ -31,6 +31,7 @@ Class for XPS-as-BMP saving options.
 | [getJpegQualityLevel()](#getJpegQualityLevel--) | Returns the value specifying the level of compression for an image. |
 | [getPageNumbers()](#getPageNumbers--) | Gets the array of numbers of pages to render. |
 | [getResolution()](#getResolution--) | Gets the image resolution. |
+| [getSize()](#getSize--) | Gets a size of the page or image. |
 | [getSmoothingMode()](#getSmoothingMode--) | Gets the smoothing mode. |
 | [getTextRenderingHint()](#getTextRenderingHint--) | Gets the text rendering hint. |
 | [hashCode()](#hashCode--) |  |
@@ -45,6 +46,7 @@ Class for XPS-as-BMP saving options.
 | [setJpegQualityLevel(int value)](#setJpegQualityLevel-int-) | Sets the value specifying the level of compression for an image. |
 | [setPageNumbers(int[] value)](#setPageNumbers-int---) | Sets the array of numbers of pages to render. |
 | [setResolution(float value)](#setResolution-float-) | Sets the image resolution. |
+| [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page or image. |
 | [setSmoothingMode(SmoothingMode value)](#setSmoothingMode-com.aspose.xps.rendering.SmoothingMode-) | Sets the smoothing mode. |
 | [setSupressErrors(boolean supressErrors)](#setSupressErrors-boolean-) | Specifies the flag that indicates whether errors will be suppressed during conversion. |
 | [setTextRenderingHint(TextRenderingHint value)](#setTextRenderingHint-com.aspose.xps.rendering.TextRenderingHint-) | Sets the text rendering hint. |
@@ -155,6 +157,16 @@ Gets the image resolution.
 
 **Returns:**
 float - The image resolution.
+### getSize() {#getSize--}
+```
+public Dimension getSize()
+```
+
+
+Gets a size of the page or image.
+
+**Returns:**
+java.awt.Dimension - A size of the page or image.
 ### getSmoothingMode() {#getSmoothingMode--}
 ```
 public SmoothingMode getSmoothingMode()
@@ -311,6 +323,19 @@ Sets the image resolution.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | float | The image resolution. |
+
+### setSize(Dimension size) {#setSize-java.awt.Dimension-}
+```
+public void setSize(Dimension size)
+```
+
+
+Specifies a size of the page or image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | java.awt.Dimension | Size of the page or image. |
 
 ### setSmoothingMode(SmoothingMode value) {#setSmoothingMode-com.aspose.xps.rendering.SmoothingMode-}
 ```

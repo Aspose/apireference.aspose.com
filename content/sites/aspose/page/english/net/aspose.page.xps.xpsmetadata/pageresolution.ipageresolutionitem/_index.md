@@ -3,7 +3,7 @@ title: Interface PageResolution.IPageResolutionItem
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionIPageResolutionItem interface. The interface of any PageResolution feature item
 type: docs
-weight: 2740
+weight: 3090
 url: /net/aspose.page.xps.xpsmetadata/pageresolution.ipageresolutionitem/
 ---
 ## PageResolution.IPageResolutionItem interface

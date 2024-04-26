@@ -3,7 +3,7 @@ title: Aspose.Page.EPS.Device
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.EPS.Device namespace provides classes of possible devices and save options that can be used while converting PS/EPS to other formats
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.page.eps.device/
 ---
 The **Aspose.Page.EPS.Device** namespace provides classes of possible devices and save options that can be used while converting PS/EPS to other formats.

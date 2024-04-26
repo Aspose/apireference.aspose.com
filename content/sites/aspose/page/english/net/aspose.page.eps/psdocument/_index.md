@@ -3,7 +3,7 @@ title: Class PsDocument
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PsDocument class. This class encapsulates PS/EPS documents
 type: docs
-weight: 190
+weight: 540
 url: /net/aspose.page.eps/psdocument/
 ---
 ## PsDocument class
@@ -80,6 +80,8 @@ public sealed class PsDocument : Document
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | Gets stroke of current graphics state. |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn't exist. |
 | [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | Merges PS/EPS files to a device. |
+| [MergeToPdf](../../aspose.page.eps/psdocument/mergetopdf/#mergetopdf)(Stream, string[], SaveOptions) | Merges PS/EPS files to a device. |
+| [MergeToPdf](../../aspose.page.eps/psdocument/mergetopdf/#mergetopdf_1)(string, string[], SaveOptions) | Merges PS/EPS files to a device. |
 | [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | Creates new page with document's size and make it current one. |
 | [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage)(float, float) | Creates new page and make it current one. |
 | [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, DrFont, float, float) | Adds a text string by drawing glyphs contours. |

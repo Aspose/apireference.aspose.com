@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.Device.ImageDevice class. This class encapsulates rendering of document to image
 type: docs
-weight: 80
+weight: 430
 url: /net/aspose.page.eps.device/imagedevice/
 ---
 ## ImageDevice class

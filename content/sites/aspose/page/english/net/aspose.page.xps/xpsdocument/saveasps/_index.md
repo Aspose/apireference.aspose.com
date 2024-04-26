@@ -3,7 +3,7 @@ title: XpsDocument.SaveAsPs
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Saves the document in PS format
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.page.xps/xpsdocument/saveasps/
 ---
 ## XpsDocument.SaveAsPs method

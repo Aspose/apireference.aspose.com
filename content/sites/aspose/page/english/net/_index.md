@@ -15,6 +15,7 @@ is_root: true
 | [Aspose.Page.Drawing](./aspose.page.drawing/) | The **Aspose.Page.Drawing** is a root namespace for System.Drawing wrapper classes. |
 | [Aspose.Page.Drawing.Drawing2D](./aspose.page.drawing.drawing2d/) | The **Aspose.Page.Drawing.Drawing2D** is a root namespace for System.Drawing.Drawing2D wrapper classes. |
 | [Aspose.Page.Drawing.Imaging](./aspose.page.drawing.imaging/) | The **Aspose.Page.Drawing.Imaging** is a root namespace for System.Drawing.Imaging wrapper classes. |
+| [Aspose.Page.Drawing.Text](./aspose.page.drawing.text/) |  |
 | [Aspose.Page.EPS](./aspose.page.eps/) | The **Aspose.Page.EPS** is a root namespace for all classes that deal with PS/EPS files. |
 | [Aspose.Page.EPS.Device](./aspose.page.eps.device/) | The **Aspose.Page.EPS.Device** namespace provides classes of possible devices and save options that can be used while converting PS/EPS to other formats. |
 | [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | The **Aspose.Page.EPS.XMP** namespace provides classes for reading, changing XMP metadata in EPS files. |

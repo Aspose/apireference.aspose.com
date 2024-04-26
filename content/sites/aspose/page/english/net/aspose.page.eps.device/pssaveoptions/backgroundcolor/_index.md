@@ -16,6 +16,7 @@ public Color? BackgroundColor { get; set; }
 
 ### See Also
 
+* struct [Color](../../../aspose.page.drawing/color/)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Page.EPS.Device](../../pssaveoptions/)
 * assembly [Aspose.Page](../../../)

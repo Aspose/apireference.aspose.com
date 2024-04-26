@@ -16,7 +16,6 @@ public class Value extends PrintTicketElement implements IScoredPropertyItem, IP
 ```
 
 The base class that incapsulates a  Property  or a  ScoredProperty  value in a PrintTicket document. A Value element associates a literal with a type. https://docs.microsoft.com/en-us/windows/win32/printdocs/value
-
 ## Methods
 
 | Method | Description |

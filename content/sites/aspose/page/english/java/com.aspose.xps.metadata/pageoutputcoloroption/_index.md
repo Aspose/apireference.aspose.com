@@ -16,7 +16,6 @@ public static final class PageOutputColor.PageOutputColorOption extends Option i
 ```
 
 Describes the  PageOutputColor  feature options.
-
 ## Constructors
 
 | Constructor | Description |
@@ -118,6 +117,7 @@ Adds a list of items to the end of this option's item list. Each one must be a  
 public PageOutputColor.PageOutputColorOption add(PageOutputColor.IPageOutputColorOptionItem[] items)
 ```
 
+
 Adds an array of  IPageOutputColorOptionItem  instances to the option.
 
 **Parameters:**
@@ -210,12 +210,14 @@ Sets a  DeviceBitsPerPixel  scored property value.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | deviceBitsPerPixel | int | A  DeviceBitsPerPixel  scored property value. |
+
 **Returns:**
 [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This option instance.
 ### setDriverBitsPerPixel(int driverBitsPerPixel) {#setDriverBitsPerPixel-int-}
 ```
 public PageOutputColor.PageOutputColorOption setDriverBitsPerPixel(int driverBitsPerPixel)
 ```
+
 
 Sets a  DriverBitsPerPixel  scored property value.
 

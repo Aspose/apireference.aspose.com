@@ -3,7 +3,7 @@ title: Aspose.Page.Font
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.Font namespace contains classes for fonts manipulation
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.page.font/
 ---
 The **Aspose.Page.Font** namespace contains classes for fonts manipulation.

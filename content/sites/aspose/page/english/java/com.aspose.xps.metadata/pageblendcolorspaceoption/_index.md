@@ -13,7 +13,6 @@ public static final class PageBlendColorSpace.PageBlendColorSpaceOption extends 
 ```
 
 Describes the  PageBlendColorSpace  feature options.
-
 ## Fields
 
 | Field | Description |

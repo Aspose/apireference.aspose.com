@@ -13,7 +13,6 @@ public static final class NUp.PresentationDirection.PresentationDirectionOption 
 ```
 
 Describes the  PresentationDirection  feature options.
-
 ## Fields
 
 | Field | Description |

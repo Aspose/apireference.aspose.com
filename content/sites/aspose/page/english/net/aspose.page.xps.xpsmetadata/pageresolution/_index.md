@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageResolution class. Defines the page resolution of printed output as either a qualitative value or as dots per inch or both. https//docs.microsoft.com/enus/windows/win32/printdocs/pageresolution
 type: docs
-weight: 2730
+weight: 3080
 url: /net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

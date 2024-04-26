@@ -16,7 +16,6 @@ public static final class PageMediaType.Recycled extends ScoredProperty implemen
 ```
 
 Defines constants for the  Recycled  scored property value.
-
 ## Fields
 
 | Field | Description |

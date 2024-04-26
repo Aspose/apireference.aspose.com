@@ -33,6 +33,7 @@ This class contains options necessary for managing conversion process.
 | [getMargins()](#getMargins--) |  |
 | [getPageSize()](#getPageSize--) |  |
 | [getSaveFormat()](#getSaveFormat--) |  |
+| [getSize()](#getSize--) | Gets a size of the page or image. |
 | [hashCode()](#hashCode--) |  |
 | [isDebug()](#isDebug--) | Gets the flag that allows output of warnings and messages during conversion. |
 | [isEmbedFonts()](#isEmbedFonts--) | Indicates whether to embed used fonts in PS document |
@@ -49,6 +50,7 @@ This class contains options necessary for managing conversion process.
 | [setMargins(Insets margins)](#setMargins-java.awt.Insets-) |  |
 | [setPageSize(Dimension pageSize)](#setPageSize-java.awt.Dimension-) |  |
 | [setSaveFormat(PsSaveFormat saveFormat)](#setSaveFormat-com.aspose.eps.device.PsSaveFormat-) | Specify save format of resulting file |
+| [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page or image. |
 | [setSupressErrors(boolean supressErrors)](#setSupressErrors-boolean-) | Specifies the flag that indicates whether errors will be suppressed during conversion. |
 | [setTransparent(boolean transparent)](#setTransparent-boolean-) |  |
 | [toString()](#toString--) |  |
@@ -181,6 +183,16 @@ public PsSaveFormat getSaveFormat()
 
 **Returns:**
 [PsSaveFormat](../../com.aspose.eps.device/pssaveformat) - save format of resulting file
+### getSize() {#getSize--}
+```
+public Dimension getSize()
+```
+
+
+Gets a size of the page or image.
+
+**Returns:**
+java.awt.Dimension - A size of the page or image.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -363,6 +375,19 @@ Specify save format of resulting file
 | Parameter | Type | Description |
 | --- | --- | --- |
 | saveFormat | [PsSaveFormat](../../com.aspose.eps.device/pssaveformat) | Format of resulting file |
+
+### setSize(Dimension size) {#setSize-java.awt.Dimension-}
+```
+public void setSize(Dimension size)
+```
+
+
+Specifies a size of the page or image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | java.awt.Dimension | Size of the page or image. |
 
 ### setSupressErrors(boolean supressErrors) {#setSupressErrors-boolean-}
 ```

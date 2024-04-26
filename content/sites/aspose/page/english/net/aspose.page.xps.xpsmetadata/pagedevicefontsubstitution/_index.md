@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitution class. Describes the enabled/disabled state of device font substitution. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicefontsubstitution
 type: docs
-weight: 2250
+weight: 2600
 url: /net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution/
 ---
 ## PageDeviceFontSubstitution class
