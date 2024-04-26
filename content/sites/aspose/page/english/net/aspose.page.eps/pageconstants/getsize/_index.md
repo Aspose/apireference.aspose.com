@@ -16,6 +16,7 @@ public static Size GetSize(string size)
 
 ### See Also
 
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [PageConstants](../)
 * namespace [Aspose.Page.EPS](../../pageconstants/)
 * assembly [Aspose.Page](../../../)
@@ -32,6 +33,7 @@ public static Size GetSize(string size, string orientation)
 
 ### See Also
 
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [PageConstants](../)
 * namespace [Aspose.Page.EPS](../../pageconstants/)
 * assembly [Aspose.Page](../../../)
@@ -48,6 +50,7 @@ public static Size GetSize(Size size, string orientation)
 
 ### See Also
 
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [PageConstants](../)
 * namespace [Aspose.Page.EPS](../../pageconstants/)
 * assembly [Aspose.Page](../../../)

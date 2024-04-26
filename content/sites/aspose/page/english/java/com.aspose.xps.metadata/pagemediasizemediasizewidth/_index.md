@@ -16,7 +16,6 @@ public final class PageMediaSizeMediaSizeWidth extends IntegerParameterInit impl
 ```
 
 Specifies the dimension  MediaSizeHeight  direction for the Custom  MediaSize  option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizewidth
-
 ## Constructors
 
 | Constructor | Description |

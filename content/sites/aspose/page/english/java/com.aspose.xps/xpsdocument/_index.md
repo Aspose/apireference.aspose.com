@@ -119,7 +119,9 @@ Class incapsulating the main entity of XPS document that provides manipulation m
 | [insertPath(int index, XpsPathGeometry data)](#insertPath-int-com.aspose.xps.XpsPathGeometry-) | Inserts a new path to the active page at  index  position. |
 | [isLicensed()](#isLicensed--) | Indicates whether Aspose.Page for Java product license is accessed and valid. |
 | [merge(String[] filesForMerge, OutputStream outStream)](#merge-java.lang.String---java.io.OutputStream-) | Merging several XPS files into one XPS document. |
+| [merge(String[] filesForMerge, String outXpsFilePath)](#merge-java.lang.String---java.lang.String-) | Merging several XPS files into one XPS document. |
 | [mergeToPdf(String[] filesForMerge, OutputStream stream, SaveOptions options)](#mergeToPdf-java.lang.String---java.io.OutputStream-com.aspose.page.SaveOptions-) | Merging XPS documents to PDF using the  Device  instance. |
+| [mergeToPdf(String[] filesForMerge, String outPdfFilePath, SaveOptions options)](#mergeToPdf-java.lang.String---java.lang.String-com.aspose.page.SaveOptions-) | Merging XPS documents to PDF using the  Device  instance. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [removeAt(int index)](#removeAt-int-) | Removes an element at  index  position from the active page. |
@@ -131,7 +133,9 @@ Class incapsulating the main entity of XPS document that provides manipulation m
 | [save(String path)](#save-java.lang.String-) | Saves XPS document to the XPS file located at the  path . |
 | [saveAsImage(ImageSaveOptions options)](#saveAsImage-com.aspose.xps.rendering.ImageSaveOptions-) | Saves the document in a bitmap image format. |
 | [saveAsPdf(OutputStream stream, PdfSaveOptions options)](#saveAsPdf-java.io.OutputStream-com.aspose.xps.rendering.PdfSaveOptions-) | Saves the document in PDF format. |
+| [saveAsPdf(String outPdfFilePath, PdfSaveOptions options)](#saveAsPdf-java.lang.String-com.aspose.xps.rendering.PdfSaveOptions-) | Saves the document in PDF format. |
 | [saveAsPs(OutputStream stream, PsSaveOptions options)](#saveAsPs-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-) | Saves the document in PS format. |
+| [saveAsPs(String outPsFilePath, PsSaveOptions options)](#saveAsPs-java.lang.String-com.aspose.eps.device.PsSaveOptions-) | Saves the document in PostSscript format. |
 | [selectActiveDocument(int documentNumber)](#selectActiveDocument-int-) | Selects an active document for editing. |
 | [selectActivePage(int pageNumber)](#selectActivePage-int-) | Selects an active document page for editing. |
 | [setDocumentPrintTicket(int documentIndex, DocumentPrintTicket printTicket)](#setDocumentPrintTicket-int-com.aspose.xps.metadata.DocumentPrintTicket-) | Links the  printTicket  to the document indexed by  documentIndex . |
@@ -1558,6 +1562,20 @@ Merging several XPS files into one XPS document.
 | filesForMerge | java.lang.String[] | XPS files for merging with this document. |
 | outStream | java.io.OutputStream | The output stream where to save merged XPS documents. |
 
+### merge(String[] filesForMerge, String outXpsFilePath) {#merge-java.lang.String---java.lang.String-}
+```
+public void merge(String[] filesForMerge, String outXpsFilePath)
+```
+
+
+Merging several XPS files into one XPS document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filesForMerge | java.lang.String[] | XPS files for merging with this document. |
+| outXpsFilePath | java.lang.String | The output XPS file path. |
+
 ### mergeToPdf(String[] filesForMerge, OutputStream stream, SaveOptions options) {#mergeToPdf-java.lang.String---java.io.OutputStream-com.aspose.page.SaveOptions-}
 ```
 public void mergeToPdf(String[] filesForMerge, OutputStream stream, SaveOptions options)
@@ -1571,6 +1589,21 @@ Merging XPS documents to PDF using the  Device  instance.
 | --- | --- | --- |
 | filesForMerge | java.lang.String[] | XPS files for merging with this document to an output device. |
 | stream | java.io.OutputStream | The output stream to write the resulting PDF to. |
+| options | [SaveOptions](../../com.aspose.page/saveoptions) | Document saving options. |
+
+### mergeToPdf(String[] filesForMerge, String outPdfFilePath, SaveOptions options) {#mergeToPdf-java.lang.String---java.lang.String-com.aspose.page.SaveOptions-}
+```
+public void mergeToPdf(String[] filesForMerge, String outPdfFilePath, SaveOptions options)
+```
+
+
+Merging XPS documents to PDF using the  Device  instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filesForMerge | java.lang.String[] | XPS files for merging with this document to an output device. |
+| outPdfFilePath | java.lang.String | The output PDF filepath. |
 | options | [SaveOptions](../../com.aspose.page/saveoptions) | Document saving options. |
 
 ### notify() {#notify--}
@@ -1716,6 +1749,20 @@ Saves the document in PDF format.
 | stream | java.io.OutputStream | The stream to write the output PDF file to. |
 | options | [PdfSaveOptions](../../com.aspose.xps.rendering/pdfsaveoptions) | Options for saving the document in PDF format. |
 
+### saveAsPdf(String outPdfFilePath, PdfSaveOptions options) {#saveAsPdf-java.lang.String-com.aspose.xps.rendering.PdfSaveOptions-}
+```
+public void saveAsPdf(String outPdfFilePath, PdfSaveOptions options)
+```
+
+
+Saves the document in PDF format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outPdfFilePath | java.lang.String | The output PDF file path. |
+| options | [PdfSaveOptions](../../com.aspose.xps.rendering/pdfsaveoptions) | Options for saving the document in PDF format. |
+
 ### saveAsPs(OutputStream stream, PsSaveOptions options) {#saveAsPs-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-}
 ```
 public void saveAsPs(OutputStream stream, PsSaveOptions options)
@@ -1729,6 +1776,20 @@ Saves the document in PS format.
 | --- | --- | --- |
 | stream | java.io.OutputStream | The stream to write the output PS file to. |
 | options | [PsSaveOptions](../../com.aspose.eps.device/pssaveoptions) | Options for saving the document in PS format. |
+
+### saveAsPs(String outPsFilePath, PsSaveOptions options) {#saveAsPs-java.lang.String-com.aspose.eps.device.PsSaveOptions-}
+```
+public void saveAsPs(String outPsFilePath, PsSaveOptions options)
+```
+
+
+Saves the document in PostSscript format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outPsFilePath | java.lang.String | The output PostScript file path. |
+| options | [PsSaveOptions](../../com.aspose.eps.device/pssaveoptions) | Options for saving the document in PDF format. |
 
 ### selectActiveDocument(int documentNumber) {#selectActiveDocument-int-}
 ```

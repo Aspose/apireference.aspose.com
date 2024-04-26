@@ -22,7 +22,7 @@ public PdfSaveOptions()
 
 ---
 
-## PdfSaveOptions(bool) {#constructor_1}
+## PdfSaveOptions(bool) {#constructor_2}
 
 Initializes a new instance of the [`PdfSaveOptions`](../) class with default values for flag !:Debug (false).
 
@@ -36,6 +36,49 @@ public PdfSaveOptions(bool supressErrors)
 
 ### See Also
 
+* class [PdfSaveOptions](../)
+* namespace [Aspose.Page.EPS.Device](../../pdfsaveoptions/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## PdfSaveOptions(Size) {#constructor_1}
+
+Initializes a new instance of the [`PdfSaveOptions`](../) with with specified size of the page.
+
+```csharp
+public PdfSaveOptions(Size size)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | Size | The page size. |
+
+### See Also
+
+* struct [Size](../../../aspose.page.drawing/size/)
+* class [PdfSaveOptions](../)
+* namespace [Aspose.Page.EPS.Device](../../pdfsaveoptions/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## PdfSaveOptions(bool, Size) {#constructor_3}
+
+Initializes a new instance of the [`PdfSaveOptions`](../) class with default values for flag !:Debug (false) and with specified size of the page.
+
+```csharp
+public PdfSaveOptions(bool supressErrors, Size size)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| supressErrors | Boolean | Specifies whether errors must be suppressed or not. If true suppressed errors are added to !:Exceptions list. |
+| size | Size | The page size. |
+
+### See Also
+
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [PdfSaveOptions](../)
 * namespace [Aspose.Page.EPS.Device](../../pdfsaveoptions/)
 * assembly [Aspose.Page](../../../)

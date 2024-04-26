@@ -3,7 +3,7 @@ title: Class StreamDataSource
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.StreamDataSource class. Represents stream data source for load and save operations of a plugin
 type: docs
-weight: 490
+weight: 840
 url: /net/aspose.page.plugins/streamdatasource/
 ---
 ## StreamDataSource class

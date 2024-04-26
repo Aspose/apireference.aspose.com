@@ -3,7 +3,7 @@ title: Class TiffSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.Presentation.Image.TiffSaveOptions class. Class for XPSasTIFF saving options
 type: docs
-weight: 690
+weight: 1040
 url: /net/aspose.page.xps.presentation.image/tiffsaveoptions/
 ---
 ## TiffSaveOptions class
@@ -33,6 +33,7 @@ public class TiffSaveOptions : ImageSaveOptions
 | [Multipage](../../aspose.page.xps.presentation.image/tiffsaveoptions/multipage/) { get; set; } | Gets/sets the flag that defines if multiple images should be saved in a single multipage TIFF file. |
 | [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers/) { get; set; } | Gets/sets the array of numbers of pages to convert. |
 | [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution/) { get; set; } | Gets/sets the image resolution. |
+| [Size](../../aspose.page/saveoptions/size/) { get; set; } | Gets/sets the size of the image. |
 | [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode/) { get; set; } | Gets/sets the smoothing mode. |
 | virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. If false the first error will terminate the program. |
 | [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint/) { get; set; } | Gets/sets the text rendering hint. |

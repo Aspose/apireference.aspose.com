@@ -21,6 +21,8 @@ This class contains options necessary for managing conversion process.
 | [ImageSaveOptions(ImageFormat imageFormat)](#ImageSaveOptions-com.aspose.page.ImageFormat-) | Initializes new instance of  ImageSaveOptions  with specified image format. |
 | [ImageSaveOptions(Dimension size)](#ImageSaveOptions-java.awt.Dimension-) | Initializes new instance of  ImageSaveOptions  with specified size of the image. |
 | [ImageSaveOptions(Dimension size, ImageFormat imageFormat)](#ImageSaveOptions-java.awt.Dimension-com.aspose.page.ImageFormat-) | Initializes new instance of  ImageSaveOptions  with specified size of the image and image format. |
+| [ImageSaveOptions(ImageFormat imageFormat, boolean supressErrors)](#ImageSaveOptions-com.aspose.page.ImageFormat-boolean-) | Initializes new instance of  ImageSaveOptions  with specified image format and suppressErrors flag. |
+| [ImageSaveOptions(Dimension size, boolean supressErrors)](#ImageSaveOptions-java.awt.Dimension-boolean-) | Initializes new instance of  ImageSaveOptions  with specified size of the image and suppressErrors flag. |
 | [ImageSaveOptions(Dimension size, ImageFormat imageFormat, boolean supressErrors)](#ImageSaveOptions-java.awt.Dimension-com.aspose.page.ImageFormat-boolean-) | Initializes new instance of  ImageSaveOptions  with specified size of the image, image format and suppressErrors flag. |
 | [ImageSaveOptions(boolean supressErrors)](#ImageSaveOptions-boolean-) | Initialize new instance of  ImageSaveOptions  class with default values for flag  debug  (false). |
 ## Methods
@@ -34,7 +36,7 @@ This class contains options necessary for managing conversion process.
 | [getImageFormat()](#getImageFormat--) | Gets an image format for resulting image. |
 | [getJpegQualityLevel()](#getJpegQualityLevel--) | Returns the value specifying the level of compression for an image. |
 | [getResolution()](#getResolution--) | Returns the resolution of the resulting image. |
-| [getSize()](#getSize--) | Gets a size of the page. |
+| [getSize()](#getSize--) | Gets a size of the page or image. |
 | [getSmoothingMode()](#getSmoothingMode--) | Gets smoothing mode. |
 | [hashCode()](#hashCode--) |  |
 | [isDebug()](#isDebug--) | Gets the flag that allows output of warnings and messages during conversion. |
@@ -46,7 +48,7 @@ This class contains options necessary for managing conversion process.
 | [setImageFormat(ImageFormat imageFormat)](#setImageFormat-com.aspose.page.ImageFormat-) | Specifies an image format for resulting image. |
 | [setJpegQualityLevel(int value)](#setJpegQualityLevel-int-) | Sets the value specifying the level of compression for an image. |
 | [setResolution(float resolution)](#setResolution-float-) | Specifies resolution of resulting image. |
-| [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page. |
+| [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page or image. |
 | [setSmoothingMode(SmoothingMode smoothingMode)](#setSmoothingMode-com.aspose.eps.device.SmoothingMode-) | Sets smoothing mode. |
 | [setSupressErrors(boolean supressErrors)](#setSupressErrors-boolean-) | Specifies the flag that indicates whether errors will be suppressed during conversion. |
 | [toString()](#toString--) |  |
@@ -85,7 +87,7 @@ Initializes new instance of  ImageSaveOptions  with specified size of the image.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| size | java.awt.Dimension | image size. |
+| size | java.awt.Dimension | Image size. |
 
 ### ImageSaveOptions(Dimension size, ImageFormat imageFormat) {#ImageSaveOptions-java.awt.Dimension-com.aspose.page.ImageFormat-}
 ```
@@ -100,6 +102,34 @@ Initializes new instance of  ImageSaveOptions  with specified size of the image 
 | --- | --- | --- |
 | size | java.awt.Dimension | Image size. |
 | imageFormat | [ImageFormat](../../com.aspose.page/imageformat) | Format of the image. |
+
+### ImageSaveOptions(ImageFormat imageFormat, boolean supressErrors) {#ImageSaveOptions-com.aspose.page.ImageFormat-boolean-}
+```
+public ImageSaveOptions(ImageFormat imageFormat, boolean supressErrors)
+```
+
+
+Initializes new instance of  ImageSaveOptions  with specified image format and suppressErrors flag.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFormat | [ImageFormat](../../com.aspose.page/imageformat) | Format of the image. |
+| supressErrors | boolean | If true conversion will be continued despite of non-critical errors. |
+
+### ImageSaveOptions(Dimension size, boolean supressErrors) {#ImageSaveOptions-java.awt.Dimension-boolean-}
+```
+public ImageSaveOptions(Dimension size, boolean supressErrors)
+```
+
+
+Initializes new instance of  ImageSaveOptions  with specified size of the image and suppressErrors flag.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | java.awt.Dimension | Image size. |
+| supressErrors | boolean | If true conversion will be continued despite of non-critical errors. |
 
 ### ImageSaveOptions(Dimension size, ImageFormat imageFormat, boolean supressErrors) {#ImageSaveOptions-java.awt.Dimension-com.aspose.page.ImageFormat-boolean-}
 ```
@@ -210,10 +240,10 @@ public Dimension getSize()
 ```
 
 
-Gets a size of the page.
+Gets a size of the page or image.
 
 **Returns:**
-java.awt.Dimension - A size of the image.
+java.awt.Dimension - A size of the page or image.
 ### getSmoothingMode() {#getSmoothingMode--}
 ```
 public SmoothingMode getSmoothingMode()
@@ -341,12 +371,12 @@ public void setSize(Dimension size)
 ```
 
 
-Specifies a size of the page.
+Specifies a size of the page or image.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| size | java.awt.Dimension | Size of the image. |
+| size | java.awt.Dimension | Size of the page or image. |
 
 ### setSmoothingMode(SmoothingMode smoothingMode) {#setSmoothingMode-com.aspose.eps.device.SmoothingMode-}
 ```

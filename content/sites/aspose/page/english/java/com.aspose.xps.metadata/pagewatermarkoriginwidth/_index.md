@@ -16,7 +16,6 @@ public final class PageWatermarkOriginWidth extends IntegerParameterInit impleme
 ```
 
 Specifies the origin of a watermark relative to the origin of the  PageImageableSize . https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarkoriginwidth
-
 ## Constructors
 
 | Constructor | Description |

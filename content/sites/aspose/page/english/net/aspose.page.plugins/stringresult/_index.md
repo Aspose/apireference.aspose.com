@@ -3,7 +3,7 @@ title: Class StringResult
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.StringResult class. Represents operation result in the form of string
 type: docs
-weight: 510
+weight: 860
 url: /net/aspose.page.plugins/stringresult/
 ---
 ## StringResult class

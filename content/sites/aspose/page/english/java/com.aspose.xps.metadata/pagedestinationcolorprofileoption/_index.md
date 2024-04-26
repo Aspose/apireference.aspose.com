@@ -13,7 +13,6 @@ public static final class PageDestinationColorProfile.PageDestinationColorProfil
 ```
 
 Describes the  PageDestinationColorProfile  feature options.
-
 ## Fields
 
 | Field | Description |

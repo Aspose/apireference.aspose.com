@@ -16,7 +16,6 @@ public static final class InputBin.FeedType extends ScoredProperty implements In
 ```
 
 Defines constants for the  FeedType  scored property value.
-
 ## Fields
 
 | Field | Description |

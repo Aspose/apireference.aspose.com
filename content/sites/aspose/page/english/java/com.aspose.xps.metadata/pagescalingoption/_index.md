@@ -16,7 +16,6 @@ public static final class PageScaling.PageScalingOption extends Option implement
 ```
 
 Describes the  PageScaling  features options.
-
 ## Fields
 
 | Field | Description |
@@ -64,12 +63,14 @@ Specifies a custom square scaling should be applied to the Application Media Siz
 public static PageScaling.PageScalingOption FitApplicationBleedSizeToPageImageableSize
 ```
 
+
 Specifies the application bleed size should be scaled to the  PageImageableSize  preserving the aspect ratio.
 
 ### FitApplicationContentSizeToPageImageableSize {#FitApplicationContentSizeToPageImageableSize}
 ```
 public static PageScaling.PageScalingOption FitApplicationContentSizeToPageImageableSize
 ```
+
 
 Specifies the application content size should be scaled to the  PageImageableSize  preserving the aspect ratio.
 
@@ -78,12 +79,14 @@ Specifies the application content size should be scaled to the  PageImageableSiz
 public static PageScaling.PageScalingOption FitApplicationMediaSizeToPageImageableSize
 ```
 
+
 Specifies the application media size should be scaled to the  PageImageableSize  preserving the aspect ratio.
 
 ### FitApplicationMediaSizeToPageMediaSize {#FitApplicationMediaSizeToPageMediaSize}
 ```
 public static PageScaling.PageScalingOption FitApplicationMediaSizeToPageMediaSize
 ```
+
 
 Specifies the application media size should be scaled to the  PageMediaSize  preserving the aspect ratio.
 

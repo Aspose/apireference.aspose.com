@@ -3,7 +3,7 @@ title: Aspose.Page.EPS
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.EPS is a root namespace for all classes that deal with PS/EPS files
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.page.eps/
 ---
 The **Aspose.Page.EPS** is a root namespace for all classes that deal with PS/EPS files.

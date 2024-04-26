@@ -16,7 +16,6 @@ public static final class PageMediaType.PageMediaTypeOption extends Option imple
 ```
 
 Describes the  PageMediaType  feature options.
-
 ## Constructors
 
 | Constructor | Description |
@@ -351,6 +350,7 @@ Adds a list of items to the end of this option's item list. Each one must be a  
 public PageMediaType.PageMediaTypeOption add(PageMediaType.IPageMediaTypeOptionItem[] items)
 ```
 
+
 Adds an array of  IPageMediaTypeOptionItem  instances to the option.
 
 **Parameters:**
@@ -435,6 +435,7 @@ public final native void notifyAll()
 ```
 public PageMediaType.PageMediaTypeOption setWeight(int weight)
 ```
+
 
 Sets a  Weight  scored property value.
 

@@ -3,7 +3,7 @@ title: Class FileDataSource
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.FileDataSource class. Represents file data source for load and save operations of a plugin
 type: docs
-weight: 380
+weight: 730
 url: /net/aspose.page.plugins/filedatasource/
 ---
 ## FileDataSource class

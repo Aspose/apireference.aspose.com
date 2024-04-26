@@ -16,7 +16,6 @@ public final class PageMediaType extends Feature implements IJobPrintTicketItem,
 ```
 
 Describes the  MediaType  options and the characteristics of each option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediatype
-
 ## Constructors
 
 | Constructor | Description |

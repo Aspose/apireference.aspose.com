@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod enum. Valid values of gradient brushes SpreadMethod property
 type: docs
-weight: 3660
+weight: 4010
 url: /net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

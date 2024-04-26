@@ -35,6 +35,7 @@ Class for XPS-as-PDF saving options.
 | [getOutlineTreeExpansionLevel()](#getOutlineTreeExpansionLevel--) | Gets up to what level the document outline should be expanded when the PDF file is opened in a viewer. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on. |
 | [getOutlineTreeHeight()](#getOutlineTreeHeight--) | Gets the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, and so on. |
 | [getPageNumbers()](#getPageNumbers--) | Gets the array of numbers of pages to render. |
+| [getSize()](#getSize--) | Gets a size of the page or image. |
 | [getTextCompression()](#getTextCompression--) | Returns the compression type to be used for all content streams except images. |
 | [hashCode()](#hashCode--) |  |
 | [isDebug()](#isDebug--) | Gets the flag that allows output of warnings and messages during conversion. |
@@ -49,6 +50,7 @@ Class for XPS-as-PDF saving options.
 | [setOutlineTreeExpansionLevel(int value)](#setOutlineTreeExpansionLevel-int-) | Sets up to what level the document outline should be expanded when the PDF file is opened in a viewer. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on. |
 | [setOutlineTreeHeight(int value)](#setOutlineTreeHeight-int-) | Sets the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, and so on. |
 | [setPageNumbers(int[] value)](#setPageNumbers-int---) | Sets the array of numbers of pages to render. |
+| [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page or image. |
 | [setSupressErrors(boolean supressErrors)](#setSupressErrors-boolean-) | Specifies the flag that indicates whether errors will be suppressed during conversion. |
 | [setTextCompression(PdfTextCompression value)](#setTextCompression-com.aspose.xps.rendering.PdfTextCompression-) | Sets the compression type to be used for all content streams except images. |
 | [toString()](#toString--) |  |
@@ -168,6 +170,16 @@ Gets the array of numbers of pages to render.
 
 **Returns:**
 int[] - Numbers of pages.
+### getSize() {#getSize--}
+```
+public Dimension getSize()
+```
+
+
+Gets a size of the page or image.
+
+**Returns:**
+java.awt.Dimension - A size of the page or image.
 ### getTextCompression() {#getTextCompression--}
 ```
 public PdfTextCompression getTextCompression()
@@ -327,6 +339,19 @@ Sets the array of numbers of pages to render.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int[] | Numbers of pages. |
+
+### setSize(Dimension size) {#setSize-java.awt.Dimension-}
+```
+public void setSize(Dimension size)
+```
+
+
+Specifies a size of the page or image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | java.awt.Dimension | Size of the page or image. |
 
 ### setSupressErrors(boolean supressErrors) {#setSupressErrors-boolean-}
 ```

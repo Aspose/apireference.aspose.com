@@ -19,6 +19,8 @@ This class contains options necessary for managing conversion process.
 | --- | --- |
 | [SaveOptions()](#SaveOptions--) | Initialize new SaveOptions instance with default values for flags  suppressErrors  (true) and  debug  (false). |
 | [SaveOptions(boolean supressErrors)](#SaveOptions-boolean-) | Initialize new SaveOptions instance with default value for flag  debug  (false). |
+| [SaveOptions(Dimension size)](#SaveOptions-java.awt.Dimension-) | Initializes new instance of  SaveOptions  with specified size. |
+| [SaveOptions(boolean supressErrors, Dimension size)](#SaveOptions-boolean-java.awt.Dimension-) | Initialize new SaveOptions instance with default value for flag  debug  (false) and with specified size. |
 ## Methods
 
 | Method | Description |
@@ -28,6 +30,7 @@ This class contains options necessary for managing conversion process.
 | [getClass()](#getClass--) |  |
 | [getExceptions()](#getExceptions--) | Returns a list of non-critical errors. |
 | [getJpegQualityLevel()](#getJpegQualityLevel--) | Returns the value specifying the level of compression for an image. |
+| [getSize()](#getSize--) | Gets a size of the page or image. |
 | [hashCode()](#hashCode--) |  |
 | [isDebug()](#isDebug--) | Gets the flag that allows output of warnings and messages during conversion. |
 | [isSupressErrors()](#isSupressErrors--) | Returns a value indicating whether errors will be suppressed during conversion. |
@@ -36,6 +39,7 @@ This class contains options necessary for managing conversion process.
 | [setAdditionalFontsFolders(String[] fontsFolders)](#setAdditionalFontsFolders-java.lang.String---) | Specifies additional fonts folders where converter should find fonts for input document. |
 | [setDebug(boolean debug)](#setDebug-boolean-) | Specifies the flag that allows output of warnings and messages during conversion. |
 | [setJpegQualityLevel(int value)](#setJpegQualityLevel-int-) | Sets the value specifying the level of compression for an image. |
+| [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page or image. |
 | [setSupressErrors(boolean supressErrors)](#setSupressErrors-boolean-) | Specifies the flag that indicates whether errors will be suppressed during conversion. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -61,6 +65,33 @@ Initialize new SaveOptions instance with default value for flag  debug  (false).
 | Parameter | Type | Description |
 | --- | --- | --- |
 | supressErrors | boolean | If true conversion will be continued despite of non-critical errors. |
+
+### SaveOptions(Dimension size) {#SaveOptions-java.awt.Dimension-}
+```
+public SaveOptions(Dimension size)
+```
+
+
+Initializes new instance of  SaveOptions  with specified size.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | java.awt.Dimension | The size. |
+
+### SaveOptions(boolean supressErrors, Dimension size) {#SaveOptions-boolean-java.awt.Dimension-}
+```
+public SaveOptions(boolean supressErrors, Dimension size)
+```
+
+
+Initialize new SaveOptions instance with default value for flag  debug  (false) and with specified size.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| supressErrors | boolean | If true conversion will be continued despite of non-critical errors. |
+| size | java.awt.Dimension | The size. |
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
@@ -117,6 +148,16 @@ Returns the value specifying the level of compression for an image. Available va
 
 **Returns:**
 int - The value specifying the level of compression for an image.
+### getSize() {#getSize--}
+```
+public Dimension getSize()
+```
+
+
+Gets a size of the page or image.
+
+**Returns:**
+java.awt.Dimension - A size of the page or image.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -201,6 +242,19 @@ Sets the value specifying the level of compression for an image. Available value
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | The value specifying the level of compression for an image. |
+
+### setSize(Dimension size) {#setSize-java.awt.Dimension-}
+```
+public void setSize(Dimension size)
+```
+
+
+Specifies a size of the page or image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | java.awt.Dimension | Size of the page or image. |
 
 ### setSupressErrors(boolean supressErrors) {#setSupressErrors-boolean-}
 ```

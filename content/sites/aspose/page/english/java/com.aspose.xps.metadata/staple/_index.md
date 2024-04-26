@@ -13,7 +13,6 @@ public abstract class Staple extends Feature
 ```
 
 The base class for  JobStapleAllDocuments  and  DocumentStaple  features classes.
-
 ## Methods
 
 | Method | Description |
@@ -147,5 +146,4 @@ public final void wait(long arg0, int arg1)
 | --- | --- | --- |
 | arg0 | long |  |
 | arg1 | int |  |
-
 

@@ -3,7 +3,7 @@ title: Interface IPlugin
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.IPlugin interface. General plugin interface that defines common methods that concrete plugin should implement
 type: docs
-weight: 420
+weight: 770
 url: /net/aspose.page.plugins/iplugin/
 ---
 ## IPlugin interface

@@ -13,4 +13,3 @@ public static interface InputBin.IInputBinOptionItem extends IOptionItem
 ```
 
 The interface of any  InputBinOption  item.
-

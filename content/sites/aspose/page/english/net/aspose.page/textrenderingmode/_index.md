@@ -3,7 +3,7 @@ title: Enum TextRenderingMode
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.TextRenderingMode enum. This enum contains possible values for text rendering mode
 type: docs
-weight: 570
+weight: 920
 url: /net/aspose.page/textrenderingmode/
 ---
 ## TextRenderingMode enumeration

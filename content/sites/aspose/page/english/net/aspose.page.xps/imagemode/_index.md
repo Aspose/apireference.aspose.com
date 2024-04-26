@@ -3,7 +3,7 @@ title: Enum ImageMode
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.ImageMode enum. Lists the options of fitting image within a box
 type: docs
-weight: 620
+weight: 970
 url: /net/aspose.page.xps/imagemode/
 ---
 ## ImageMode enumeration

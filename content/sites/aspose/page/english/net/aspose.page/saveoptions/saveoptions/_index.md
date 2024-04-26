@@ -22,7 +22,7 @@ public SaveOptions()
 
 ---
 
-## SaveOptions(bool) {#constructor_1}
+## SaveOptions(bool) {#constructor_2}
 
 Initializes a new instance of the [`SaveOptions`](../) class with default value for flag [`Debug`](../debug/) (false).
 
@@ -36,6 +36,49 @@ public SaveOptions(bool supressErrors)
 
 ### See Also
 
+* class [SaveOptions](../)
+* namespace [Aspose.Page](../../saveoptions/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## SaveOptions(Size) {#constructor_1}
+
+Initializes a new instance of the [`SaveOptions`](../) with with specified size of the page.
+
+```csharp
+public SaveOptions(Size size)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | Size | The page size. |
+
+### See Also
+
+* struct [Size](../../../aspose.page.drawing/size/)
+* class [SaveOptions](../)
+* namespace [Aspose.Page](../../saveoptions/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## SaveOptions(bool, Size) {#constructor_3}
+
+Initializes a new instance of the [`SaveOptions`](../) class with default value for flag [`Debug`](../debug/) (false) and with specified size of the page.
+
+```csharp
+public SaveOptions(bool supressErrors, Size size)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| supressErrors | Boolean | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [`Exceptions`](../exceptions/) list. |
+| size | Size | The page size. |
+
+### See Also
+
+* struct [Size](../../../aspose.page.drawing/size/)
 * class [SaveOptions](../)
 * namespace [Aspose.Page](../../saveoptions/)
 * assembly [Aspose.Page](../../../)

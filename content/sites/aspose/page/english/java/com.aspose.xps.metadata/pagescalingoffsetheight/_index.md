@@ -16,7 +16,6 @@ public final class PageScalingOffsetHeight extends IntegerParameterInit implemen
 ```
 
 Specifies the scaling offset in the  ImageableSizeWidth  direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingoffsetheight
-
 ## Constructors
 
 | Constructor | Description |

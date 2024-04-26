@@ -3,7 +3,7 @@ title: Class HyperlinkCollector
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.Features.HyperlinkCollector class. The class provides collecting hyperlinked XPS elements from the current page of an XPS document
 type: docs
-weight: 610
+weight: 960
 url: /net/aspose.page.xps.features/hyperlinkcollector/
 ---
 ## HyperlinkCollector class

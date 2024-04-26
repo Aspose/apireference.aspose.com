@@ -11,6 +11,7 @@ url: /net/aspose.page.eps/psdocument/merge/
 Merges PS/EPS files to a device.
 
 ```csharp
+[Obsolete("Save is deprecated beginning from 24.3, please use MergeToPdf instead. In 24.6 this method will be hidden")]
 public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 ```
 

@@ -13,7 +13,6 @@ public static final class Collate.CollateOption extends Option
 ```
 
 Describes the  DocumentCollate  and  JobCollateAllDocuments  features options.
-
 ## Fields
 
 | Field | Description |

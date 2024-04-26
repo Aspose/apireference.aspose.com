@@ -13,7 +13,6 @@ public static final class Staple.StapleOption extends Option
 ```
 
 Describes the  JobStapleAllDocuments  and  DocumentStaple  features options.
-
 ## Constructors
 
 | Constructor | Description |
@@ -163,6 +162,7 @@ Adds a list of items to the end of this option's item list. Each one must be a  
 public Staple.StapleOption add(Staple.IStapleOptionItem[] items)
 ```
 
+
 Adds an array of  IStapleOptionItem  instances to the feature.
 
 **Parameters:**
@@ -238,6 +238,7 @@ public final native void notifyAll()
 public Staple.StapleOption setAngle(int angle)
 ```
 
+
 Sets an  Angle  scored property value.
 
 **Parameters:**
@@ -251,6 +252,7 @@ Sets an  Angle  scored property value.
 ```
 public Staple.StapleOption setSheetCapacity(int sheetCapacity)
 ```
+
 
 Sets an  SheetCapacity  scored property value.
 

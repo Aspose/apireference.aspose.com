@@ -13,7 +13,6 @@ public static final class JobPrimaryCoverBack.CoverBackOption extends Option
 ```
 
 Describes the  JobPrimaryCoverBack  feature options.
-
 ## Fields
 
 | Field | Description |
@@ -59,12 +58,14 @@ Specifies no cover will be output.
 public static JobPrimaryCoverBack.CoverBackOption PrintBack
 ```
 
+
 Specifies the cover indicated by "CoverBackSource" should be printed on the back side of the cover sheet. If a  JobPrimaryCoverBackSource   ParameterInit  element is not specified, this Option should be ignored.
 
 ### PrintBoth {#PrintBoth}
 ```
 public static JobPrimaryCoverBack.CoverBackOption PrintBoth
 ```
+
 
 Specifies the cover indicated by "CoverBackSource" may be printed on either sides of the cover sheet. If a  JobPrimaryCoverBackSource   ParameterInit  element is not specified, this Option should be ignored.
 
@@ -73,10 +74,10 @@ Specifies the cover indicated by "CoverBackSource" may be printed on either side
 public static JobPrimaryCoverBack.CoverBackOption PrintFront
 ```
 
+
 Specifies the cover indicated by "CoverBackSource" should be printed on the front side of the cover sheet. If a  JobPrimaryCoverBackSource   ParameterInit  element is not specified, this Option should be ignored.
 
 ### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
-
 ```
 public void add(IOptionItem[] items)
 ```

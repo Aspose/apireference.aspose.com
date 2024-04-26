@@ -13,4 +13,3 @@ public static interface PageResolution.IPageResolutionOptionItem extends IOption
 ```
 
 The interface of any  PageResolutionOption  item.
-

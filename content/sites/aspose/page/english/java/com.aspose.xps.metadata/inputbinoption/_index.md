@@ -16,7 +16,6 @@ public static final class InputBin.InputBinOption extends Option implements Inpu
 ```
 
 Describes the  JobInputBin ,  DocumentInputBin  and  PageInputBin  features options.
-
 ## Constructors
 
 | Constructor | Description |
@@ -136,6 +135,7 @@ Adds a list of items to the end of this option's item list. Each one must be a  
 public InputBin.InputBinOption add(InputBin.IInputBinOptionItem[] items)
 ```
 
+
 Adds an array of  IInputBinOptionItem  instances to the option.
 
 **Parameters:**
@@ -221,6 +221,7 @@ public final native void notifyAll()
 public InputBin.InputBinOption setMediaCapacity(int mediaCapacity)
 ```
 
+
 Sets a  MediaCapacity  scored property value.
 
 **Parameters:**
@@ -234,6 +235,7 @@ Sets a  MediaCapacity  scored property value.
 ```
 public InputBin.InputBinOption setMediaSheetCapacity(int mediaSheetCapacity)
 ```
+
 
 Sets a  MediaSheetCapacity  scored property value.
 

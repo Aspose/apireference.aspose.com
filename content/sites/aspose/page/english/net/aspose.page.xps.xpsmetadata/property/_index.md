@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.Property class. The class that implements a common PrintTicket
 type: docs
-weight: 3110
+weight: 3460
 url: /net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

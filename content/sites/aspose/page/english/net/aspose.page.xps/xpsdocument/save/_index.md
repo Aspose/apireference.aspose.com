@@ -3,7 +3,7 @@ title: XpsDocument.Save
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Saves XPS document to XPS file located at the path
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.page.xps/xpsdocument/save/
 ---
 ## Save(string) {#save_2}
@@ -51,6 +51,7 @@ public void Save(Stream stream)
 Saves the document using the [`Device`](../../../aspose.page/device/) instance.
 
 ```csharp
+[Obsolete("Save is deprecated beginning from 24.3, please use SaveAsPdf or SaveAsImage instead. In 24.6 this method will be hidden")]
 public override void Save(Device device, SaveOptions options)
 ```
 

@@ -13,4 +13,3 @@ public static interface PageWatermark.IPageWatermarkItem extends IFeatureItem
 ```
 
 The interface of any  PageWatermark  feature item.
-

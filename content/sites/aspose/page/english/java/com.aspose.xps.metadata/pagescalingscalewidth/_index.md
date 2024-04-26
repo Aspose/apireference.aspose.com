@@ -16,7 +16,6 @@ public final class PageScalingScaleWidth extends IntegerParameterInit implements
 ```
 
 Specifies the scaling factor in the  ImageableSizeWidth  direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingscalewidth
-
 ## Constructors
 
 | Constructor | Description |

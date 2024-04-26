@@ -3,7 +3,7 @@ title: PsDocument.SaveAsPdf
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Saves PS/EPS file to PDF file
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.page.eps/psdocument/saveaspdf/
 ---
 ## SaveAsPdf(string, PdfSaveOptions) {#saveaspdf_1}

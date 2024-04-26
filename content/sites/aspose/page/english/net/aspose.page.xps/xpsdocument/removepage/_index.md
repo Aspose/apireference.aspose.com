@@ -3,7 +3,7 @@ title: XpsDocument.RemovePage
 second_title: Aspose.Page for .NET API Reference
 description: XpsDocument method. Removes a page from the document
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.page.xps/xpsdocument/removepage/
 ---
 ## XpsDocument.RemovePage method

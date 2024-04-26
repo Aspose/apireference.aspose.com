@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty class. The class that implements a common PrintTicket
 type: docs
-weight: 3150
+weight: 3500
 url: /net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

@@ -16,7 +16,6 @@ public static final class InputBin.FeedDirection extends Property implements Inp
 ```
 
 Defines constants for the  FeedDirection  scored property value.
-
 ## Fields
 
 | Field | Description |
