@@ -69,7 +69,7 @@ jobs:
       - name: Build
         run: hugo --configDir config/sites/aspose/imaging --config "config.json" --environment staging --minify --cleanDestinationDir
       - name: List directory contents
-        run: ls
+        run: ls ${{ github.workspace }}/public
       - name: Prepare public folder
         run: |
             find /home/runner/work/apireference.aspose.com/apireference.aspose.com/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;=
