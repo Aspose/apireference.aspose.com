@@ -63,7 +63,7 @@ jobs:
           CONFIGURE_ONE_PRODUCT: ${{ matrix.configure_one_product }}
         run: npm run configure
       - name: Display config.json
-        run: cat /home/runner/work/apireference.aspose.com/apireference.aspose.com/config.json
+        run: cat ${{ github.workspace }}/config.json
 
       # Also specifies the theme we want to use
       - name: Build
@@ -72,8 +72,8 @@ jobs:
         run: ls ${{ github.workspace }}/public
       - name: Prepare public folder
         run: |
-            find /home/runner/work/apireference.aspose.com/apireference.aspose.com/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;=
-            mv /home/runner/work/apireference.aspose.com/apireference.aspose.com/total.imaging.sitemap public/sitemap.xml;       
+            find ${{ github.workspace }}/public -iname 'sitemap.xml' -execdir mv -i '{}' adapters.xml \;
+            mv ${{ github.workspace }}/total.imaging.sitemap public/sitemap.xml;
       - name: Deploy apireference2.aspose.com(imaging)(Stage) to S3
         run: hugo --configDir config/sites/aspose/imaging --environment staging deploy --target "Stage" --maxDeletes -1
         env:
