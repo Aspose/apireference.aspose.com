@@ -3,7 +3,7 @@
         "/cpp/",
         "/java/",
         "/net/",
-        "/python-net/",
+        "/python-net/"
     ],
     "one_product": "python-java"
 }
