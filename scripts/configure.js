@@ -48,7 +48,7 @@ async function configure_one_product() {
 
 const project_dir = path.dirname(__dirname)
 const languages_file = path.join(project_dir, 'config', '_default', 'languages.yaml')
-const content_dir = path.join(project_dir, 'content', 'sites', 'aspose', process.env.FAMILY, 'english')
+const content_dir = path.join(project_dir, 'content', 'sites', 'aspose', process.env.CONFIGURE_FAMILY, 'english')
 const config_file = path.join(project_dir, 'config.json')
 let config = {}
 
