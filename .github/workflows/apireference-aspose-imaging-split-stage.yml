@@ -56,8 +56,6 @@ jobs:
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
         run:  npm install -D --save postcss-cli
-      - name: Print Checkout Directory
-        run: echo "Checkout directory is located at ${{ github.workspace }}"
       - name: Configure build environment
         env:
           CONFIGURE_ONE_PRODUCT: ${{ matrix.configure_one_product }}
@@ -69,8 +67,6 @@ jobs:
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/sites/aspose/imaging --config "config.json" --environment staging --minify --cleanDestinationDir
-      - name: List directory contents
-        run: ls ${{ github.workspace }}/public
       - name: Prepare public folder
         run: |
             find ${{ github.workspace }}/public -iname 'sitemap.xml' -execdir mv -i '{}' ${{ matrix.configure_one_product }}.xml \;
