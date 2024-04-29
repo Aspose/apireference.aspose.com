@@ -44,7 +44,7 @@ jobs:
           repository: Aspose/api-theme
           token: ${{ secrets.REPO_TOKEN }}
           fetch-depth: 0
-          ref: beta
+          ref: imaging
           path: themes/api-theme      
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
