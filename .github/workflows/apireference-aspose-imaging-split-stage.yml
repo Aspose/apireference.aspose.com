@@ -61,6 +61,7 @@ jobs:
       - name: Configure build environment
         env:
           CONFIGURE_ONE_PRODUCT: ${{ matrix.configure_one_product }}
+          FAMILY: imaging
         run: npm run configure
       - name: Display config.json
         run: cat ${{ github.workspace }}/config.json
