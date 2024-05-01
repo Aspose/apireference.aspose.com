@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR
 second_title: Aspose.OCR for .NET API Reference
-description: The Aspose.OCR contains tools for image recognition skew correction text areas detection and spell check.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.ocr/
 ---
-The **Aspose.OCR** contains tools for image recognition, skew correction, text areas detection and spell check.
+
 
 ## Classes
 
@@ -31,6 +31,7 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [RecognitionResult](./recognitionresult) | The results of the image recognition. Contains elements with recognition information and methods for result export. |
 | [RecognitionSettings](./recognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |
 | [RectangleOutput](./rectangleoutput) | Data about detected text areas or lines. |
+| [Resources](./resources) | Manage downloadable resources that enhance Aspose.OCR recognition capabilities. |
 | [SkewOutput](./skewoutput) | Data about skew angle in degrees and name of the file. |
 ## Enumeration
 
@@ -41,7 +42,7 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [Country](./country) | For better passport recognition point the passport country. |
 | [DetectAreasMode](./detectareasmode) | Determines the type of neural network used for areas detection. |
 | [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
-| [Language](./language) | Languages used for OCR. ISO 639-2 Code |
+| [Language](./language) | Languages used for OCR. ISO 939-3 Code. |
 | [LoggingLevel](./logginglevel) | Defines the type of logs to display. |
 | [PixelType](./pixeltype) | Determines the type of the pixel data for image recognition. |
 | [SaveFormat](./saveformat) | For recognition result saving |

@@ -1,17 +1,17 @@
 ---
-title: RecognizeStreetPhoto
+title: RecognizeHandwrittenText
 second_title: Aspose.OCR for .NET API Reference
-description: Recognizes text on street photos.
+description: Recognizes handwritten text on images.
 type: docs
-weight: 190
-url: /net/aspose.ocr/asposeocr/recognizestreetphoto/
+weight: 130
+url: /net/aspose.ocr/asposeocr/recognizehandwrittentext/
 ---
-## AsposeOcr.RecognizeStreetPhoto method
+## AsposeOcr.RecognizeHandwrittenText method
 
-Recognizes text on street photos.
+Recognizes handwritten text on images.
 
 ```csharp
-public List<RecognitionResult> RecognizeStreetPhoto(OcrInput input)
+public List<RecognitionResult> RecognizeHandwrittenText(OcrInput input)
 ```
 
 | Parameter | Type | Description |
@@ -24,7 +24,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ### Remarks
 
-Extract text from street photos, traffic camera images, ID cards, driver licenses, and other images with sparse text and noisy/colored backgrounds. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
+Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 

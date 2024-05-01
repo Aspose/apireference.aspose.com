@@ -24,8 +24,8 @@ public class RecognitionResult
 | [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Gets list recognition results of a list of areas (Rectangles). |
 | [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
 | [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Gets a list of recognition results with a list of rows (Rectangles). |
-| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; } | Gets recognition result in one string. |
-| [Skew](../../aspose.ocr/recognitionresult/skew) { get; } | Gets skew angle. |
+| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; set; } | Gets recognition result in one string. |
+| [Skew](../../aspose.ocr/recognitionresult/skew) { get; set; } | Gets skew angle. |
 | [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Gets list of the warning messages describing non-critical faults appeared during generation. |
 
 ## Methods
@@ -33,6 +33,7 @@ public class RecognitionResult
 | Name | Description |
 | --- | --- |
 | [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | Form JSON string with recognition results. |
+| [GetKeywords](../../aspose.ocr/recognitionresult/getkeywords)() | Get keywords from pasport (Test mode. Works only for MADAGASCAR passports). |
 | [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
 | [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
 | [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Form XML string with recognition results. |

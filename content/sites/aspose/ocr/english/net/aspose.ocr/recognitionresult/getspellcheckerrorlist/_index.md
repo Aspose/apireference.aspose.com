@@ -3,7 +3,7 @@ title: GetSpellCheckErrorList
 second_title: Aspose.OCR for .NET API Reference
 description: Find the misspelled words with suggested spellings for a given input text.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.ocr/recognitionresult/getspellcheckerrorlist/
 ---
 ## RecognitionResult.GetSpellCheckErrorList method

@@ -32,6 +32,36 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ---
 
+## Recognize(OcrInput, RecognitionSettings, CancellationToken) {#recognize_2}
+
+Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
+
+```csharp
+public List<RecognitionResult> Recognize(OcrInput images, RecognitionSettings settings, 
+    CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| settings | RecognitionSettings | Recognition settings [`RecognitionSettings`](../../recognitionsettings). |
+| cancellationToken | CancellationToken | CancellationToken object. |
+
+### Return Value
+
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* class [OcrInput](../../ocrinput)
+* class [RecognitionSettings](../../recognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
 ## Recognize(OcrInput, RecognitionSettings) {#recognize_1}
 
 Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.

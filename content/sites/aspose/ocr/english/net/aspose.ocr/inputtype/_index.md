@@ -3,7 +3,7 @@ title: InputType
 second_title: Aspose.OCR for .NET API Reference
 description: Types of image/ documents for processing / recognition.
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.ocr/inputtype/
 ---
 ## InputType enumeration

@@ -3,7 +3,7 @@ title: SkewOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Data about skew angle in degrees and name of the file.
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.ocr/skewoutput/
 ---
 ## SkewOutput class

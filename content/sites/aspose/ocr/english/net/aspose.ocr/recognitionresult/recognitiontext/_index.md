@@ -11,7 +11,7 @@ url: /net/aspose.ocr/recognitionresult/recognitiontext/
 Gets recognition result in one string.
 
 ```csharp
-public string RecognitionText { get; }
+public string RecognitionText { get; set; }
 ```
 
 ### See Also
