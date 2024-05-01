@@ -160,6 +160,9 @@ public enum Language
 | Srp_hrv | `139` | Serbo-Croatian alphabet |
 | None | `140` | Multi-language (latin alphabet + diacritic) support |
 | Ara | `141` | Arabic alphabet |
+| Pes | `142` | Persian (Farsi) alphabet |
+| Urd | `143` | Urdu alphabet |
+| Uig | `144` | Uyghur alphabet |
 
 ### See Also
 
