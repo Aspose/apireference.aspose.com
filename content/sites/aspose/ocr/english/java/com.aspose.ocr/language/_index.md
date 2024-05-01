@@ -158,6 +158,9 @@ public enum Language extends Enum<Language>
 | [Srp_hrv](#Srp-hrv) | Serbo-Croatian alphabet |
 | [None](#None) | Multi-language (latin alphabet + diacritic) support |
 | [Ara](#Ara) | Arabic alphabet |
+| [Pes](#Pes) | Persian (Farsi) alphabet |
+| [Urd](#Urd) | Urdu alphabet |
+| [Uig](#Uig) | Uyghur alphabet |
 ## Methods
 
 | Method | Description |
@@ -1299,6 +1302,30 @@ public static final Language Ara
 
 
 Arabic alphabet
+
+### Pes {#Pes}
+```
+public static final Language Pes
+```
+
+
+Persian (Farsi) alphabet
+
+### Urd {#Urd}
+```
+public static final Language Urd
+```
+
+
+Urdu alphabet
+
+### Uig {#Uig}
+```
+public static final Language Uig
+```
+
+
+Uyghur alphabet
 
 ### values() {#values--}
 ```
