@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.dgn/dgntag/default_tag_value/
+url: /python-net/aspose.cad.fileformats.dgn/dgntag/default_tag_value/
 is_root: false
 ---
 

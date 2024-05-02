@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ IfcAnnotationSurface
 **Inheritance:** [`IfcAnnotationSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -32,15 +32,17 @@ The IfcAnnotationSurface type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/entity_label) | Gets the entity label. |
-| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/item) | Item |
-| [texture_coordinates](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/texture_coordinates) | TextureCoordinates |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/item) |  |
+| [texture_coordinates](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/texture_coordinates) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcAnnotationSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)

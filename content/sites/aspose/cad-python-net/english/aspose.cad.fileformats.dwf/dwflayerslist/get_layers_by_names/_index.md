@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.dwf/dwflayerslist/get_layers_by_names/
+url: /python-net/aspose.cad.fileformats.dwf/dwflayerslist/get_layers_by_names/
 is_root: false
 ---
 

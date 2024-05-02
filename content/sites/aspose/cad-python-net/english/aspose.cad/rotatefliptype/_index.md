@@ -3,8 +3,8 @@ title: RotateFlipType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 760
-url: /aspose.cad/rotatefliptype/
+weight: 840
+url: /python-net/aspose.cad/rotatefliptype/
 is_root: false
 ---
 

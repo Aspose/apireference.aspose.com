@@ -3,8 +3,8 @@ title: attribute_bit_long_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/attribute_bit_long_list/
+weight: 70
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/attribute_bit_long_list/
 is_root: false
 ---
 

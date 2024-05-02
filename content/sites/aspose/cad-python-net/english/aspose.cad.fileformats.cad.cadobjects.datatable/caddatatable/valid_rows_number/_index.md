@@ -3,8 +3,8 @@ title: valid_rows_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/valid_rows_number/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/valid_rows_number/
 is_root: false
 ---
 

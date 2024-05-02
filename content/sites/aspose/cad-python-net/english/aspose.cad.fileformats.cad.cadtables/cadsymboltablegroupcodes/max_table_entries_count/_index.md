@@ -3,8 +3,8 @@ title: max_table_entries_count property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/max_table_entries_count/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/max_table_entries_count/
 is_root: false
 ---
 

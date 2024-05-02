@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.tiff/tiffsrational/denominator/
+url: /python-net/aspose.cad.fileformats.tiff/tiffsrational/denominator/
 is_root: false
 ---
 

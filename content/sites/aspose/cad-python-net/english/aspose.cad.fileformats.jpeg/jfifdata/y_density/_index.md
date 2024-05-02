@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.fileformats.jpeg/jfifdata/y_density/
+url: /python-net/aspose.cad.fileformats.jpeg/jfifdata/y_density/
 is_root: false
 ---
 

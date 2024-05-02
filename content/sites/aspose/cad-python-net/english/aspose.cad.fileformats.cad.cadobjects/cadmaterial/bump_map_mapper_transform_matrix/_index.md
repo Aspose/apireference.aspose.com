@@ -3,8 +3,8 @@ title: bump_map_mapper_transform_matrix property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/bump_map_mapper_transform_matrix/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/bump_map_mapper_transform_matrix/
 is_root: false
 ---
 

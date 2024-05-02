@@ -3,15 +3,13 @@ title: semi_axis1 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcellipse/semi_axis1/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcellipse/semi_axis1/
 is_root: false
 ---
 
 ## semi_axis1 property
 
-
-SemiAxis1
 ### Definition:
 ```python
 @property

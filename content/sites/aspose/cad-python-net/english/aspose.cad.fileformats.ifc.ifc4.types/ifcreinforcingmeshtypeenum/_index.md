@@ -3,8 +3,8 @@ title: IfcReinforcingMeshTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3400
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingmeshtypeenum/
+weight: 3410
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingmeshtypeenum/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The IfcReinforcingMeshTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

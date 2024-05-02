@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/ipartialargb32pixelloader/process/
+url: /python-net/aspose.cad/ipartialargb32pixelloader/process/
 is_root: false
 ---
 

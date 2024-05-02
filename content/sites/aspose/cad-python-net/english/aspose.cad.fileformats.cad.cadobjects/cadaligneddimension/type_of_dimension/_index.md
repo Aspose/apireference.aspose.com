@@ -3,8 +3,8 @@ title: type_of_dimension property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 620
-url: /aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/type_of_dimension/
+weight: 700
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/type_of_dimension/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: IPartialArgb32PixelLoader class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad/ipartialargb32pixelloader/
+weight: 240
+url: /python-net/aspose.cad/ipartialargb32pixelloader/
 is_root: false
 ---
 

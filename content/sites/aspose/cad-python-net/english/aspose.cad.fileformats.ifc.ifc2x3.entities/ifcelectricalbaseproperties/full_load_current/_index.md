@@ -3,15 +3,13 @@ title: full_load_current property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/full_load_current/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/full_load_current/
 is_root: false
 ---
 
 ## full_load_current property
 
-
-FullLoadCurrent
 ### Definition:
 ```python
 @property

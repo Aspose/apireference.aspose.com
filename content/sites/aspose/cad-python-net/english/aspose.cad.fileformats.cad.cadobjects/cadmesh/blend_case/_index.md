@@ -3,8 +3,8 @@ title: blend_case property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadmesh/blend_case/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmesh/blend_case/
 is_root: false
 ---
 

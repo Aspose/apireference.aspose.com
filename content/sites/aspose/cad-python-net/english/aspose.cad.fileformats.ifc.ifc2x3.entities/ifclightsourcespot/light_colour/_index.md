@@ -3,15 +3,13 @@ title: light_colour property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcespot/light_colour/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcespot/light_colour/
 is_root: false
 ---
 
 ## light_colour property
 
-
-LightColour
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3760
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcMechanicalFastener
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,18 +36,20 @@ The IfcMechanicalFastener type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/tag) | Tag |
-| [nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/nominal_diameter) | NominalDiameter |
-| [nominal_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/nominal_length) | NominalLength |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/tag) |  |
+| [nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/nominal_diameter) |  |
+| [nominal_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/nominal_length) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener/predefined_type) |  |
 
 
 
@@ -55,7 +57,7 @@ The IfcMechanicalFastener type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement)
 * class [`IfcElementComponent`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementcomponent)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcMechanicalFastener`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastener)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)

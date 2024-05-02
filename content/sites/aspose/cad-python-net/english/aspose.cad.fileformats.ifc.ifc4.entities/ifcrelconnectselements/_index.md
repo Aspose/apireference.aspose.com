@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5340
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcRelConnectsElements
 [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects) → 
 [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,20 +33,22 @@ The IfcRelConnectsElements type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/description) | Description |
-| [connection_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/connection_geometry) | ConnectionGeometry |
-| [relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/relating_element) | RelatingElement |
-| [related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/related_element) | RelatedElement |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/description) |  |
+| [connection_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/connection_geometry) |  |
+| [relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/relating_element) |  |
+| [related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/related_element) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects)
 * class [`IfcRelConnectsElements`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements)
 * class [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship)

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/attribute_definitions_count/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/attribute_definitions_count/
 is_root: false
 ---
 

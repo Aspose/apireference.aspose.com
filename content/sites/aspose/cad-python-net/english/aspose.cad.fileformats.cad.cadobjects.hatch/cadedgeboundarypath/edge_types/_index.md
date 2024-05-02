@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/edge_types/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/edge_types/
 is_root: false
 ---
 

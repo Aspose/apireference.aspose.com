@@ -3,8 +3,8 @@ title: name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/name/
+weight: 120
+url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/name/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: IfcPermeableCoveringOperationEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3140
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcpermeablecoveringoperationenum/
+weight: 3150
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpermeablecoveringoperationenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcPermeableCoveringOperationEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| GRILL | GRILL |
-| LOUVER | LOUVER |
-| SCREEN | SCREEN |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| GRILL |  |
+| LOUVER |  |
+| SCREEN |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

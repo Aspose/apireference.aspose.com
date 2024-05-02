@@ -3,8 +3,8 @@ title: scale_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.imageoptions/cadrasterizationoptions/scale_method/
+weight: 280
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/scale_method/
 is_root: false
 ---
 

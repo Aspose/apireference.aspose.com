@@ -3,8 +3,8 @@ title: big_font_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadtables/cadstyletableobject/big_font_name/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/big_font_name/
 is_root: false
 ---
 

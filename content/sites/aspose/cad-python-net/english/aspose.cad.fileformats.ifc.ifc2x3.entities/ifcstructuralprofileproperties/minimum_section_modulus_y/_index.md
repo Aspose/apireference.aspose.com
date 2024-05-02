@@ -3,15 +3,13 @@ title: minimum_section_modulus_y property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/minimum_section_modulus_y/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/minimum_section_modulus_y/
 is_root: false
 ---
 
 ## minimum_section_modulus_y property
 
-
-MinimumSectionModulusY
 ### Definition:
 ```python
 @property

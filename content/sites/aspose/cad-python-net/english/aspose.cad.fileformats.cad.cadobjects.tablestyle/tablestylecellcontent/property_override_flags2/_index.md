@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/property_override_flags2/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/property_override_flags2/
 is_root: false
 ---
 

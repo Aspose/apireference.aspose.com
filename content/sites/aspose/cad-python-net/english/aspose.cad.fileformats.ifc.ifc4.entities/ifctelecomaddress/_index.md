@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 7040
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcTelecomAddress
 
 **Inheritance:** [`IfcTelecomAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress) → 
 [`IfcAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,17 +31,19 @@ The IfcTelecomAddress type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/entity_label) | Gets the entity label. |
-| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/purpose) | Purpose |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/description) | Description |
-| [user_defined_purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/user_defined_purpose) | UserDefinedPurpose |
-| [pager_number](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/pager_number) | PagerNumber |
-| [www_home_page_url](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/www_home_page_url) | WWWHomePageURL |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/purpose) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/description) |  |
+| [user_defined_purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/user_defined_purpose) |  |
+| [pager_number](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/pager_number) |  |
+| [www_home_page_url](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/www_home_page_url) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcTelecomAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress)

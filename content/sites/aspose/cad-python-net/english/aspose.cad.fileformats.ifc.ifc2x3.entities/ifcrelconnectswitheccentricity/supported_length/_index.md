@@ -3,15 +3,13 @@ title: supported_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectswitheccentricity/supported_length/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectswitheccentricity/supported_length/
 is_root: false
 ---
 
 ## supported_length property
 
-
-SupportedLength
 ### Definition:
 ```python
 @property

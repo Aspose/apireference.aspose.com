@@ -3,8 +3,8 @@ title: is_empty property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad/sizef/is_empty/
+weight: 100
+url: /python-net/aspose.cad/sizef/is_empty/
 is_root: false
 ---
 

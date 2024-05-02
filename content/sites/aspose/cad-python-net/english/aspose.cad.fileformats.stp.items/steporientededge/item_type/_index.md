@@ -3,8 +3,8 @@ title: item_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.stp.items/steporientededge/item_type/
+weight: 70
+url: /python-net/aspose.cad.fileformats.stp.items/steporientededge/item_type/
 is_root: false
 ---
 

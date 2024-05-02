@@ -3,15 +3,13 @@ title: closed property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/closed/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/closed/
 is_root: false
 ---
 
 ## closed property
 
-
-Closed
 ### Definition:
 ```python
 @property

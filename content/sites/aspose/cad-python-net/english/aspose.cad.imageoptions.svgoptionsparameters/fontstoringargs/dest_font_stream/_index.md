@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/dest_font_stream/
+url: /python-net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/dest_font_stream/
 is_root: false
 ---
 

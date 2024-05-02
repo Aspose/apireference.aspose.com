@@ -3,8 +3,8 @@ title: IfcEvaporatorTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2710
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcevaporatortypeenum/
+weight: 2720
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcevaporatortypeenum/
 is_root: false
 ---
 
@@ -19,14 +19,14 @@ The IfcEvaporatorTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| DIRECTEXPANSION | DIRECTEXPANSION |
-| DIRECTEXPANSIONSHELLANDTUBE | DIRECTEXPANSIONSHELLANDTUBE |
-| DIRECTEXPANSIONTUBEINTUBE | DIRECTEXPANSIONTUBEINTUBE |
-| DIRECTEXPANSIONBRAZEDPLATE | DIRECTEXPANSIONBRAZEDPLATE |
-| FLOODEDSHELLANDTUBE | FLOODEDSHELLANDTUBE |
-| SHELLANDCOIL | SHELLANDCOIL |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| DIRECTEXPANSION |  |
+| DIRECTEXPANSIONSHELLANDTUBE |  |
+| DIRECTEXPANSIONTUBEINTUBE |  |
+| DIRECTEXPANSIONBRAZEDPLATE |  |
+| FLOODEDSHELLANDTUBE |  |
+| SHELLANDCOIL |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

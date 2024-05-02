@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1320
-url: /aspose.cad.fileformats.collada.fileparser.elements/enumorthograthicitems/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/enumorthograthicitems/
 is_root: false
 ---
 

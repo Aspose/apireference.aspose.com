@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6410
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcStructuralLoadCase
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,23 +35,25 @@ The IfcStructuralLoadCase type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/object_type) | ObjectType |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/predefined_type) | PredefinedType |
-| [action_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/action_type) | ActionType |
-| [action_source](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/action_source) | ActionSource |
-| [coefficient](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/coefficient) | Coefficient |
-| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/purpose) | Purpose |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/object_type) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/predefined_type) |  |
+| [action_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/action_type) |  |
+| [action_source](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/action_source) |  |
+| [coefficient](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/coefficient) |  |
+| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/purpose) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGroup`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgroup)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)

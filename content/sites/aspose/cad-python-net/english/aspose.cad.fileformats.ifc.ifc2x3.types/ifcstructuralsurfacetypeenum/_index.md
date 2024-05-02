@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3010
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcstructuralsurfacetypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstructuralsurfacetypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcStructuralSurfaceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BENDING_ELEMENT | BENDING_ELEMENT |
-| MEMBRANE_ELEMENT | MEMBRANE_ELEMENT |
-| SHELL | SHELL |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BENDING_ELEMENT |  |
+| MEMBRANE_ELEMENT |  |
+| SHELL |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

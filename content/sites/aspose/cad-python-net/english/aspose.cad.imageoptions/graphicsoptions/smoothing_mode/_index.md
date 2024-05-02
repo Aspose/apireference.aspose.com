@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.imageoptions/graphicsoptions/smoothing_mode/
+url: /python-net/aspose.cad.imageoptions/graphicsoptions/smoothing_mode/
 is_root: false
 ---
 

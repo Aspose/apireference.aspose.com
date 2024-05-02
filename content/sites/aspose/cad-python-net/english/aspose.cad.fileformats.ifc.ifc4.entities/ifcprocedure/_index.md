@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4510
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcProcedure
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,21 +34,23 @@ The IfcProcedure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/object_type) | ObjectType |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/identification) | Identification |
-| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/long_description) | LongDescription |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/object_type) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/identification) |  |
+| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/long_description) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/predefined_type) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcProcedure`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure)

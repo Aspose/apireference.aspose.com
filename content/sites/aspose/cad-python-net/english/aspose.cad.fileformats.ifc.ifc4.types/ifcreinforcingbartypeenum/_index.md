@@ -3,8 +3,8 @@ title: IfcReinforcingBarTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3390
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingbartypeenum/
+weight: 3400
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingbartypeenum/
 is_root: false
 ---
 
@@ -19,16 +19,16 @@ The IfcReinforcingBarTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ANCHORING | ANCHORING |
-| EDGE | EDGE |
-| LIGATURE | LIGATURE |
-| MAIN | MAIN |
-| PUNCHING | PUNCHING |
-| RING | RING |
-| SHEAR | SHEAR |
-| STUD | STUD |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ANCHORING |  |
+| EDGE |  |
+| LIGATURE |  |
+| MAIN |  |
+| PUNCHING |  |
+| RING |  |
+| SHEAR |  |
+| STUD |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

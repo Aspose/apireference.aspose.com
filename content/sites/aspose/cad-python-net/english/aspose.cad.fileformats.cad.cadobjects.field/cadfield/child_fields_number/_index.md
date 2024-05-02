@@ -3,8 +3,8 @@ title: child_fields_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/child_fields_number/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/child_fields_number/
 is_root: false
 ---
 

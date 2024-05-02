@@ -3,8 +3,8 @@ title: cutting_plane_line_weight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/cutting_plane_line_weight/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/cutting_plane_line_weight/
 is_root: false
 ---
 

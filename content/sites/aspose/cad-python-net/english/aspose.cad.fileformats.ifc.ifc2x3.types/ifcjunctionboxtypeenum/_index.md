@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2440
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcjunctionboxtypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcjunctionboxtypeenum/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The IfcJunctionBoxTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

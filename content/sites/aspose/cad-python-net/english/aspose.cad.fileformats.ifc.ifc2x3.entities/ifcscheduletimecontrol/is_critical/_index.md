@@ -3,15 +3,13 @@ title: is_critical property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/is_critical/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/is_critical/
 is_root: false
 ---
 
 ## is_critical property
 
-
-IsCritical
 ### Definition:
 ```python
 @property

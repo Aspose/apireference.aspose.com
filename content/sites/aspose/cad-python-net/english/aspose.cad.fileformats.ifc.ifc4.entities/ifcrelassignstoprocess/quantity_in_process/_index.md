@@ -3,15 +3,13 @@ title: quantity_in_process property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstoprocess/quantity_in_process/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstoprocess/quantity_in_process/
 is_root: false
 ---
 
 ## quantity_in_process property
 
-
-QuantityInProcess
 ### Definition:
 ```python
 @property

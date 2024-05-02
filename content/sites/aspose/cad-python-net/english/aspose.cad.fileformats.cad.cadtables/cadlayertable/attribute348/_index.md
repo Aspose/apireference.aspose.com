@@ -3,8 +3,8 @@ title: attribute348 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.cad.cadtables/cadlayertable/attribute348/
+weight: 60
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadlayertable/attribute348/
 is_root: false
 ---
 

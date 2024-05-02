@@ -3,8 +3,8 @@ title: IfcWarpingConstantMeasure class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1880
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingconstantmeasure/
+weight: 1890
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingconstantmeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcWarpingConstantMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingconstantmeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingconstantmeasure/value) |  |
 
 
 

@@ -3,15 +3,13 @@ title: number_of_risers property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstairflight/number_of_risers/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstairflight/number_of_risers/
 is_root: false
 ---
 
 ## number_of_risers property
 
-
-NumberOfRisers
 ### Definition:
 ```python
 @property

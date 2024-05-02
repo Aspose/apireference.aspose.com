@@ -3,8 +3,8 @@ title: range_block_low property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/range_block_low/
+weight: 140
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/range_block_low/
 is_root: false
 ---
 

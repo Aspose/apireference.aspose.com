@@ -3,8 +3,8 @@ title: properties_u property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/properties_u/
+weight: 200
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/properties_u/
 is_root: false
 ---
 

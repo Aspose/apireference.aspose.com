@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.cad.fileformats.cf2/cf2image/order_secton/
+url: /python-net/aspose.cad.fileformats.cf2/cf2image/order_secton/
 is_root: false
 ---
 

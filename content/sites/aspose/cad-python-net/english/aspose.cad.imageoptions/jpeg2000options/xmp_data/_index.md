@@ -3,8 +3,8 @@ title: xmp_data property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.imageoptions/jpeg2000options/xmp_data/
+weight: 180
+url: /python-net/aspose.cad.imageoptions/jpeg2000options/xmp_data/
 is_root: false
 ---
 
@@ -25,4 +25,4 @@ def xmp_data(self, value):
 ### See Also
 * module [`aspose.cad.imageoptions`](../../)
 * class [`Jpeg2000Options`](/cad/python-net/aspose.cad.imageoptions/jpeg2000options)
-* class [`XmpPacketWrapper`](/cad/python-net/aspose.cad.xmp/xmppacketwrapper)
+* class [`XmpPacketWrapper`](/cad/python-net/aspose.cad/xmppacketwrapper)

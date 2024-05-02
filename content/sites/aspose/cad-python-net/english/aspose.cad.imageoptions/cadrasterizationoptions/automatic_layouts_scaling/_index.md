@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imageoptions/cadrasterizationoptions/automatic_layouts_scaling/
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/automatic_layouts_scaling/
 is_root: false
 ---
 

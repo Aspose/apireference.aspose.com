@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5990
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcTendonAnchor
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,16 +38,18 @@ The IfcTendonAnchor type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/tag) | Tag |
-| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/steel_grade) | SteelGrade |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/tag) |  |
+| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendonanchor/steel_grade) |  |
 
 
 
@@ -56,7 +58,7 @@ The IfcTendonAnchor type exposes the following members:
 * class [`IfcBuildingElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelement)
 * class [`IfcBuildingElementComponent`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProduct`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct)

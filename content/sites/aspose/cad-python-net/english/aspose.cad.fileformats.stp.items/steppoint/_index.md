@@ -3,8 +3,8 @@ title: StepPoint class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.stp.items/steppoint/
+weight: 490
+url: /python-net/aspose.cad.fileformats.stp.items/steppoint/
 is_root: false
 ---
 
@@ -27,6 +27,7 @@ The StepPoint type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steppoint/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steppoint/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steppoint/id) |  |
 
 
 

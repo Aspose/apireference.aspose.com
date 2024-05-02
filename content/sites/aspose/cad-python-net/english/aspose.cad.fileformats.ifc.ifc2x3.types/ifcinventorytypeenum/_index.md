@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2430
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcinventorytypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcinventorytypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcInventoryTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ASSETINVENTORY | ASSETINVENTORY |
-| SPACEINVENTORY | SPACEINVENTORY |
-| FURNITUREINVENTORY | FURNITUREINVENTORY |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ASSETINVENTORY |  |
+| SPACEINVENTORY |  |
+| FURNITUREINVENTORY |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

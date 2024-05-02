@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.header/ifcfilename/originating_system/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcfilename/originating_system/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the originating system.
+
+### Example 
+
+
+
 ### Definition:
 ```python
 @property

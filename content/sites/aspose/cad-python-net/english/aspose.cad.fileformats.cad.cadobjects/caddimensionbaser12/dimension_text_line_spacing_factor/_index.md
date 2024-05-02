@@ -3,8 +3,8 @@ title: dimension_text_line_spacing_factor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/dimension_text_line_spacing_factor/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/dimension_text_line_spacing_factor/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: IfcProjectionElementTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3270
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcprojectionelementtypeenum/
+weight: 3280
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcprojectionelementtypeenum/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The IfcProjectionElementTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

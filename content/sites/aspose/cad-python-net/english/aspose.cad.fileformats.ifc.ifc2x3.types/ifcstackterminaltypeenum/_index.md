@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2960
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcstackterminaltypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstackterminaltypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcStackTerminalTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BIRDCAGE | BIRDCAGE |
-| COWL | COWL |
-| RAINWATERHOPPER | RAINWATERHOPPER |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BIRDCAGE |  |
+| COWL |  |
+| RAINWATERHOPPER |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

@@ -3,15 +3,13 @@ title: relaxation_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/relaxation_value/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/relaxation_value/
 is_root: false
 ---
 
 ## relaxation_value property
 
-
-RelaxationValue
 ### Definition:
 ```python
 @property

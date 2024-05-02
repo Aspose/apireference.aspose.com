@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/preview_image_data/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/preview_image_data/
 is_root: false
 ---
 

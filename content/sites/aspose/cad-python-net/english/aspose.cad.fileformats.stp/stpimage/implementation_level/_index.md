@@ -3,8 +3,8 @@ title: implementation_level property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.stp/stpimage/implementation_level/
+weight: 220
+url: /python-net/aspose.cad.fileformats.stp/stpimage/implementation_level/
 is_root: false
 ---
 

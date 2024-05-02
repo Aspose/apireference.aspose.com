@@ -3,15 +3,13 @@ title: status_time property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctasktimerecurring/status_time/
+weight: 240
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktimerecurring/status_time/
 is_root: false
 ---
 
 ## status_time property
 
-
-StatusTime
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1010
-url: /aspose.cad.exif/exifdata/spectral_sensitivity/
+url: /python-net/aspose.cad.exif/exifdata/spectral_sensitivity/
 is_root: false
 ---
 

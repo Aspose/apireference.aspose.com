@@ -3,8 +3,8 @@ title: first_circle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/first_circle/
+weight: 40
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/first_circle/
 is_root: false
 ---
 

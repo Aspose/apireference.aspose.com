@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.imageoptions/cadrasterizationoptions/border_x/
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/border_x/
 is_root: false
 ---
 

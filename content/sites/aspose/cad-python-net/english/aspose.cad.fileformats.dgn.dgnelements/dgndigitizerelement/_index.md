@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ Represents digitizer element
 
 
 **Inheritance:** [`DgnDigitizerElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement) → 
-[`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+[`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 
 
 
@@ -30,6 +30,8 @@ The DgnDigitizerElement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [id](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/childs) | Gets the collection of a nested entities. |
 | [metadata](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/metadata) | Gets element metadata |
 
 
@@ -37,4 +39,4 @@ The DgnDigitizerElement type exposes the following members:
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](..)
 * class [`DgnDigitizerElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement)
-* class [`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+* class [`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)

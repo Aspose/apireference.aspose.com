@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.imageoptions/fbxoptions/pc_3_file/
+url: /python-net/aspose.cad.imageoptions/fbxoptions/pc_3_file/
 is_root: false
 ---
 

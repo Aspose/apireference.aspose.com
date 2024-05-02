@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.dgn/
+url: /python-net/aspose.cad.fileformats.dgn/
 is_root: false
 ---
 
@@ -34,7 +34,6 @@ The namespace handles DGN related file formats processing.
 | [`DgnElementType`](/cad/python-net/aspose.cad.fileformats.dgn/dgnelementtype) | Element type |
 | [`DgnFileVersion`](/cad/python-net/aspose.cad.fileformats.dgn/dgnfileversion) | File format version |
 | [`DgnJustificationType`](/cad/python-net/aspose.cad.fileformats.dgn/dgnjustificationtype) | Justification type |
-| [`DgnLineStyle`](/cad/python-net/aspose.cad.fileformats.dgn/dgnlinestyle) | Line style |
 | [`DgnSurface3DType`](/cad/python-net/aspose.cad.fileformats.dgn/dgnsurface3dtype) | Represents 3d surface type |
 | [`DgnSurfaceCreationMethod`](/cad/python-net/aspose.cad.fileformats.dgn/dgnsurfacecreationmethod) | Represents creation method of 3d surface and 3d solid |
 | [`DgnTagType`](/cad/python-net/aspose.cad.fileformats.dgn/dgntagtype) | Represents dgn tag type |

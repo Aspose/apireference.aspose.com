@@ -3,8 +3,8 @@ title: StepShapeRepresentationRelationship class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/
+weight: 620
+url: /python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/
 is_root: false
 ---
 
@@ -34,9 +34,10 @@ The StepShapeRepresentationRelationship type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/id) |  |
 | [text](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/text) |  |
-| [representation_item1](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/representation_item1) |  |
-| [representation_item2](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/representation_item2) |  |
+| [rep1](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/rep1) |  |
+| [rep2](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/rep2) |  |
 
 
 

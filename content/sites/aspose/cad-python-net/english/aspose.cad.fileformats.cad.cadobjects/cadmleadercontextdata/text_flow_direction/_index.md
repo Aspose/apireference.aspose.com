@@ -3,8 +3,8 @@ title: text_flow_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 680
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_flow_direction/
+weight: 770
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_flow_direction/
 is_root: false
 ---
 

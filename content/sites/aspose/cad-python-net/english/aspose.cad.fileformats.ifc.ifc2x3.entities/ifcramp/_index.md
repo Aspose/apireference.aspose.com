@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4220
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcRamp
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,16 +36,18 @@ The IfcRamp type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/tag) | Tag |
-| [shape_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/shape_type) | ShapeType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/tag) |  |
+| [shape_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/shape_type) |  |
 
 
 
@@ -53,7 +55,7 @@ The IfcRamp type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcBuildingElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelement)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProduct`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct)

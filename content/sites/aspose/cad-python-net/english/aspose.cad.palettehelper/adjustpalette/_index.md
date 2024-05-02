@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.palettehelper/adjustpalette/
+url: /python-net/aspose.cad.palettehelper/adjustpalette/
 is_root: false
 ---
 

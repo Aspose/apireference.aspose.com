@@ -3,15 +3,13 @@ title: volume_on_related_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volume_on_related_element/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volume_on_related_element/
 is_root: false
 ---
 
 ## volume_on_related_element property
 
-
-VolumeOnRelatedElement
 ### Definition:
 ```python
 @property

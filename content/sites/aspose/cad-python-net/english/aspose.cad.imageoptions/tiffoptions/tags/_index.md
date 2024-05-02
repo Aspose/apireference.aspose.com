@@ -3,8 +3,8 @@ title: tags property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
-url: /aspose.cad.imageoptions/tiffoptions/tags/
+weight: 560
+url: /python-net/aspose.cad.imageoptions/tiffoptions/tags/
 is_root: false
 ---
 

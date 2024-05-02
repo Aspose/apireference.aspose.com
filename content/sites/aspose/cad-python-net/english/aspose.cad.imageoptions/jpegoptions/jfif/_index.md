@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.imageoptions/jpegoptions/jfif/
+url: /python-net/aspose.cad.imageoptions/jpegoptions/jfif/
 is_root: false
 ---
 

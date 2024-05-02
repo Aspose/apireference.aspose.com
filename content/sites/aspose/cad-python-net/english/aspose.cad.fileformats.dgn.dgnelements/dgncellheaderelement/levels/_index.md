@@ -3,8 +3,8 @@ title: levels property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/levels/
+weight: 70
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/levels/
 is_root: false
 ---
 

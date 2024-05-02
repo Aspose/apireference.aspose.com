@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/carbon_content/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/carbon_content/
 is_root: false
 ---
 
 ## carbon_content property
 
-
-CarbonContent
 ### Definition:
 ```python
 @property

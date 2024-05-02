@@ -3,15 +3,13 @@ title: referenced_time_series property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseriesreferencerelationship/referenced_time_series/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseriesreferencerelationship/referenced_time_series/
 is_root: false
 ---
 
 ## referenced_time_series property
 
-
-ReferencedTimeSeries
 ### Definition:
 ```python
 @property

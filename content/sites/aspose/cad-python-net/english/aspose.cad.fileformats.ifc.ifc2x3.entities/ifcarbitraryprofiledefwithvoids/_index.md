@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 300
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ IfcArbitraryProfileDefWithVoids
 **Inheritance:** [`IfcArbitraryProfileDefWithVoids`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids) → 
 [`IfcArbitraryClosedProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryclosedprofiledef) → 
 [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -32,10 +32,12 @@ The IfcArbitraryProfileDefWithVoids type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/entity_label) | Gets the entity label. |
-| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/profile_type) | ProfileType |
-| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/profile_name) | ProfileName |
-| [outer_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/outer_curve) | OuterCurve |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/profile_type) |  |
+| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/profile_name) |  |
+| [outer_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/outer_curve) |  |
 
 
 
@@ -43,5 +45,5 @@ The IfcArbitraryProfileDefWithVoids type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcArbitraryClosedProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryclosedprofiledef)
 * class [`IfcArbitraryProfileDefWithVoids`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef)

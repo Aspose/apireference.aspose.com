@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.u3d/u3dimage/
+url: /python-net/aspose.cad.fileformats.u3d/u3dimage/
 is_root: false
 ---
 
@@ -38,24 +38,25 @@ The U3dImage type exposes the following members:
 | [bounds](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/bounds) | Gets the image bounds. |
 | [container](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/container) | Gets the [`Image`](/cad/python-net/aspose.cad/image) container. |
 | [height](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/height) | Gets the image height. |
+| [depth](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/depth) | Gets the depth. |
 | [palette](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/palette) | Gets or sets the color palette. |
 | [size](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/size) | Gets the image size. |
 | [width](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/width) | Gets the image width. |
-| [has_background_color](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/has_background_color) | Gets or sets a value indicating whether image has background color. |
-| [background_color](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/background_color) | Gets or sets a value for the background color. |
 | [unit_type](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/unit_type) | Gets current unit type. |
 | [unitless_default_unit_type](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/unitless_default_unit_type) | Assumed unit type when UnitType is set to Unitless |
-| [depth](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/depth) | Gets the depth. |
-| [u_3d](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/u_3d) |  |
+| [annotation_service](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/annotation_service) | Gets the annotation service. |
+| [watermark_guard_service](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/watermark_guard_service) |  |
 | [base_mesh](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/base_mesh) |  |
+| [author_mesh](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/author_mesh) |  |
+| [author_line_set](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/author_line_set) |  |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
 | [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#) | Saves the image data to the underlying stream. |
-| [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#str-aspose.cad.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#io.RawIOBase-aspose.cad.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#str-aspose.cad.imageoptions.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#io.RawIOBase-aspose.cad.imageoptions.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#io.RawIOBase) | Saves the object's data to the specified stream. |
 | [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#str) | Saves the object's data to the specified file location. |
 | [save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/save/#str-bool) | Saves the object's data to the specified file location. |
@@ -68,10 +69,12 @@ The U3dImage type exposes the following members:
 | [load](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/load/#str-aspose.cad.LoadOptions) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/load/#str) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/load/#io.RawIOBase-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
+| [load](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/load/#io.RawIOBase-str-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
 | [load](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/load/#io.RawIOBase) | Loads a new image from the specified stream. |
 | [cache_data](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/cache_data/#) | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamSupporter.data_stream_container`](/cad/python-net/aspose.cad/datastreamsupporter#data_stream_container). |
 | [get_strings](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/get_strings/#) | Gets all string values from image. |
-| [can_save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/can_save/#aspose.cad.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [can_save](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/can_save/#aspose.cad.imageoptions.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [update_image](/cad/python-net/aspose.cad.fileformats.u3d/u3dimage/update_image/#aspose.cad.fileformats.u3d.elements.U3dBaseMesh-aspose.cad.fileformats.u3d.elements.U3dAuthorMesh-aspose.cad.fileformats.u3d.elements.U3dAuthorLineSet) |  |
 
 
 

@@ -3,8 +3,8 @@ title: ucs_orthographic_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/ucs_orthographic_type/
+weight: 590
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucs_orthographic_type/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad/codepagesconverthelper/get_int_code/
+url: /python-net/aspose.cad/codepagesconverthelper/get_int_code/
 is_root: false
 ---
 

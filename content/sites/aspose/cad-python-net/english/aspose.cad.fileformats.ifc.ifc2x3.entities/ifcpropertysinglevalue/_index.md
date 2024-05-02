@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4080
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ IfcPropertySingleValue
 **Inheritance:** [`IfcPropertySingleValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue) → 
 [`IfcSimpleProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsimpleproperty) → 
 [`IfcProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -32,17 +32,19 @@ The IfcPropertySingleValue type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/description) | Description |
-| [nominal_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/nominal_value) | NominalValue |
-| [unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/unit) | Unit |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/description) |  |
+| [nominal_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/nominal_value) |  |
+| [unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/unit) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty)
 * class [`IfcPropertySingleValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue)
 * class [`IfcSimpleProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsimpleproperty)

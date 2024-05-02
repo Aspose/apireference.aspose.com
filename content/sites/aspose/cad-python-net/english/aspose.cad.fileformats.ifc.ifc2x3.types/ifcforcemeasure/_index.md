@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 490
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcforcemeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcforcemeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcForceMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcforcemeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcforcemeasure/value) |  |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5890
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ IfcSectionReinforcementProperties
 **Inheritance:** [`IfcSectionReinforcementProperties`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties) → 
 [`IfcPreDefinedProperties`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefinedproperties) → 
 [`IfcPropertyAbstraction`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -32,18 +32,20 @@ The IfcSectionReinforcementProperties type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/entity_label) | Gets the entity label. |
-| [longitudinal_start_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/longitudinal_start_position) | LongitudinalStartPosition |
-| [longitudinal_end_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/longitudinal_end_position) | LongitudinalEndPosition |
-| [transverse_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/transverse_position) | TransversePosition |
-| [reinforcement_role](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/reinforcement_role) | ReinforcementRole |
-| [section_definition](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/section_definition) | SectionDefinition |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [longitudinal_start_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/longitudinal_start_position) |  |
+| [longitudinal_end_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/longitudinal_end_position) |  |
+| [transverse_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/transverse_position) |  |
+| [reinforcement_role](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/reinforcement_role) |  |
+| [section_definition](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/section_definition) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPreDefinedProperties`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefinedproperties)
 * class [`IfcPropertyAbstraction`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction)
 * class [`IfcSectionReinforcementProperties`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties)

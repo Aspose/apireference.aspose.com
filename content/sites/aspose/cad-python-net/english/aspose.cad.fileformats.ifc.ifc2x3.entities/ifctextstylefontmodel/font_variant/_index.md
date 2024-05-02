@@ -3,15 +3,13 @@ title: font_variant property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefontmodel/font_variant/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefontmodel/font_variant/
 is_root: false
 ---
 
 ## font_variant property
 
-
-FontVariant
 ### Definition:
 ```python
 @property

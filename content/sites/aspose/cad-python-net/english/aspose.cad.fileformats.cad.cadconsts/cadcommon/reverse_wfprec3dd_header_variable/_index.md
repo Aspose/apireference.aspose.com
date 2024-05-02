@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.cad.fileformats.cad.cadconsts/cadcommon/reverse_wfprec3dd_header_variable/
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadcommon/reverse_wfprec3dd_header_variable/
 is_root: false
 ---
 

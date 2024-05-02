@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/transform_matrix/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/transform_matrix/
 is_root: false
 ---
 

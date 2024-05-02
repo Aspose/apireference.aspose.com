@@ -3,8 +3,8 @@ title: IfcEngineTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2690
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcenginetypeenum/
+weight: 2700
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcenginetypeenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcEngineTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| EXTERNALCOMBUSTION | EXTERNALCOMBUSTION |
-| INTERNALCOMBUSTION | INTERNALCOMBUSTION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| EXTERNALCOMBUSTION |  |
+| INTERNALCOMBUSTION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

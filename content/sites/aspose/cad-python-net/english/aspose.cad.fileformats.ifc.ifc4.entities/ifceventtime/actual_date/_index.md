@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/actual_date/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/actual_date/
 is_root: false
 ---
 
 ## actual_date property
 
-
-ActualDate
 ### Definition:
 ```python
 @property

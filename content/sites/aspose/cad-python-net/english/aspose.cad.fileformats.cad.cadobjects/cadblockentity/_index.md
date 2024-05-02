@@ -3,8 +3,8 @@ title: CadBlockEntity class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadblockentity/
+weight: 340
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/
 is_root: false
 ---
 
@@ -59,7 +59,7 @@ The CadBlockEntity type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_entity](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/add_entity/#aspose.cad.fileformats.cad.cadobjects.CadBaseEntity) | Adds the entity. |
+| [add_entity](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/add_entity/#aspose.cad.fileformats.cad.cadobjects.CadEntityBase) | Adds the entity. |
 
 
 

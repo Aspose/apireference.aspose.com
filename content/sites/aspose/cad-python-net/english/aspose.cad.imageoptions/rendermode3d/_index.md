@@ -3,8 +3,8 @@ title: RenderMode3D enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 380
-url: /aspose.cad.imageoptions/rendermode3d/
+weight: 530
+url: /python-net/aspose.cad.imageoptions/rendermode3d/
 is_root: false
 ---
 

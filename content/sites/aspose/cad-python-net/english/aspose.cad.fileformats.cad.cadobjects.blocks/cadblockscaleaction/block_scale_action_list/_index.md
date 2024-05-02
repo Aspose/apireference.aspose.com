@@ -3,8 +3,8 @@ title: block_scale_action_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockscaleaction/block_scale_action_list/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockscaleaction/block_scale_action_list/
 is_root: false
 ---
 

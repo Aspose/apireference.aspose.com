@@ -3,8 +3,8 @@ title: light_position property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.fileformats.cad.cadobjects/cadlight/light_position/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlight/light_position/
 is_root: false
 ---
 

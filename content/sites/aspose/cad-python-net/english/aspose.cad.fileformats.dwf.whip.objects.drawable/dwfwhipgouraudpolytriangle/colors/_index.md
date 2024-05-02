@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpolytriangle/colors/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpolytriangle/colors/
 is_root: false
 ---
 

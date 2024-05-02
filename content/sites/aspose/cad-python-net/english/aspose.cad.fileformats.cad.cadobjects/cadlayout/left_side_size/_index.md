@@ -3,8 +3,8 @@ title: left_side_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/left_side_size/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/left_side_size/
 is_root: false
 ---
 

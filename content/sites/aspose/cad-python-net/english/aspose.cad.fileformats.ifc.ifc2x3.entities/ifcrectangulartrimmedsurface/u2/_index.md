@@ -3,15 +3,13 @@ title: u2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/u2/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/u2/
 is_root: false
 ---
 
 ## u2 property
 
-
-U2
 ### Definition:
 ```python
 @property

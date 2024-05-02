@@ -3,8 +3,8 @@ title: suppress_header_row property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppress_header_row/
+weight: 610
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppress_header_row/
 is_root: false
 ---
 

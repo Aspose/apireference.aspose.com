@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.dwg.r2004/sectionpagedatachecksum/
+url: /python-net/aspose.cad.fileformats.cad.dwg.r2004/sectionpagedatachecksum/
 is_root: false
 ---
 

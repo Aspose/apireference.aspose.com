@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.cadexceptions/limitmemoryexception/reduce_memory_factor/
+url: /python-net/aspose.cad.cadexceptions/limitmemoryexception/reduce_memory_factor/
 is_root: false
 ---
 

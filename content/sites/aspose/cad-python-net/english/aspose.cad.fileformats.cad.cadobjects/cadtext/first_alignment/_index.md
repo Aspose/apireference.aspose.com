@@ -3,8 +3,8 @@ title: first_alignment property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects/cadtext/first_alignment/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtext/first_alignment/
 is_root: false
 ---
 

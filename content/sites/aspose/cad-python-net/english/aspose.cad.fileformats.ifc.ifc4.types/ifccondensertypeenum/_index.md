@@ -3,8 +3,8 @@ title: IfcCondenserTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2270
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifccondensertypeenum/
+weight: 2280
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifccondensertypeenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcCondenserTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AIRCOOLED | AIRCOOLED |
-| EVAPORATIVECOOLED | EVAPORATIVECOOLED |
-| WATERCOOLED | WATERCOOLED |
-| WATERCOOLEDBRAZEDPLATE | WATERCOOLEDBRAZEDPLATE |
-| WATERCOOLEDSHELLCOIL | WATERCOOLEDSHELLCOIL |
-| WATERCOOLEDSHELLTUBE | WATERCOOLEDSHELLTUBE |
-| WATERCOOLEDTUBEINTUBE | WATERCOOLEDTUBEINTUBE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| AIRCOOLED |  |
+| EVAPORATIVECOOLED |  |
+| WATERCOOLED |  |
+| WATERCOOLEDBRAZEDPLATE |  |
+| WATERCOOLEDSHELLCOIL |  |
+| WATERCOOLEDSHELLTUBE |  |
+| WATERCOOLEDTUBEINTUBE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

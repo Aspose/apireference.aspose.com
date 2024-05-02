@@ -3,15 +3,15 @@ title: dimblk_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimblk_handle/
+weight: 330
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimblk_handle/
 is_root: false
 ---
 
 ## dimblk_handle property
 
 
-Gets or sets The dimblk - 342
+Gets or sets the handle for the block referenced by Dimblk.
 ### Definition:
 ```python
 @property

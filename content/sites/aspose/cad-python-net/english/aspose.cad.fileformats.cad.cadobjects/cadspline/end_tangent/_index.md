@@ -3,8 +3,8 @@ title: end_tangent property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/end_tangent/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/end_tangent/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: definition13 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects/caddimensionordinate/definition13/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddimensionordinate/definition13/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: relating_applied_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesappliedvalue/relating_applied_value/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesappliedvalue/relating_applied_value/
 is_root: false
 ---
 
 ## relating_applied_value property
 
-
-RelatingAppliedValue
 ### Definition:
 ```python
 @property

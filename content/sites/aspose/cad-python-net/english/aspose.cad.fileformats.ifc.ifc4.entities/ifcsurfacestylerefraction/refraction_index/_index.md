@@ -3,15 +3,13 @@ title: refraction_index property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerefraction/refraction_index/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerefraction/refraction_index/
 is_root: false
 ---
 
 ## refraction_index property
 
-
-RefractionIndex
 ### Definition:
 ```python
 @property

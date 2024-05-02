@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 810
-url: /aspose.cad/color/lavender_blush/
+url: /python-net/aspose.cad/color/lavender_blush/
 is_root: false
 ---
 

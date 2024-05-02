@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1330
-url: /aspose.cad.exif/jpegexifdata/white_point/
+url: /python-net/aspose.cad.exif/jpegexifdata/white_point/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: primary_axis property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnellipseelement/primary_axis/
+weight: 90
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnellipseelement/primary_axis/
 is_root: false
 ---
 

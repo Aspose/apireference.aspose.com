@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/bind_vertex_input/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/bind_vertex_input/
 is_root: false
 ---
 

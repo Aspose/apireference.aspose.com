@@ -3,8 +3,8 @@ title: StepOrientedEdge class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.fileformats.stp.items/steporientededge/
+weight: 450
+url: /python-net/aspose.cad.fileformats.stp.items/steporientededge/
 is_root: false
 ---
 
@@ -34,6 +34,7 @@ The StepOrientedEdge type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steporientededge/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steporientededge/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steporientededge/id) |  |
 | [edge_start](/cad/python-net/aspose.cad.fileformats.stp.items/steporientededge/edge_start) |  |
 | [edge_end](/cad/python-net/aspose.cad.fileformats.stp.items/steporientededge/edge_end) |  |
 | [edge_element](/cad/python-net/aspose.cad.fileformats.stp.items/steporientededge/edge_element) |  |

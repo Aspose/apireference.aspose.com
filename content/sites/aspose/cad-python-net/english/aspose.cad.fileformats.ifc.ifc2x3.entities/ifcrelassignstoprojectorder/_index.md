@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4450
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcRelAssignsToProjectOrder
 [`IfcRelAssigns`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassigns) → 
 [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelationship) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,19 +34,21 @@ The IfcRelAssignsToProjectOrder type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/description) | Description |
-| [related_objects_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/related_objects_type) | RelatedObjectsType |
-| [relating_control](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/relating_control) | RelatingControl |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/description) |  |
+| [related_objects_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/related_objects_type) |  |
+| [relating_control](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder/relating_control) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRelAssigns`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassigns)
 * class [`IfcRelAssignsToControl`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstocontrol)
 * class [`IfcRelAssignsToProjectOrder`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprojectorder)

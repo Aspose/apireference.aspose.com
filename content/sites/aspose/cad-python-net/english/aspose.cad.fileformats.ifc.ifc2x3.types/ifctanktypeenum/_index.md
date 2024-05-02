@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3050
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifctanktypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctanktypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcTankTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| PREFORMED | PREFORMED |
-| SECTIONAL | SECTIONAL |
-| EXPANSION | EXPANSION |
-| PRESSUREVESSEL | PRESSUREVESSEL |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| PREFORMED |  |
+| SECTIONAL |  |
+| EXPANSION |  |
+| PRESSUREVESSEL |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

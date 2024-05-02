@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/
 is_root: false
 ---
 
@@ -25,6 +25,5 @@ The namespace contains Cad Hatch entities and their elements.
 | [`CadReservedForFutureValues`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues) | The reserved for future values |
 | [`ICadBoundaryPath`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypath) | The Cad  boundary path. |
 | [`ICadBoundaryPathEntity`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypathentity) | The Cad boundary path entity interface. |
-| [`Point2D`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.hatch/point2d) | The 2D point. |
 
 

@@ -3,8 +3,8 @@ title: ucs_table_record_handle_when_ucs_named property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 560
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/ucs_table_record_handle_when_ucs_named/
+weight: 610
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucs_table_record_handle_when_ucs_named/
 is_root: false
 ---
 

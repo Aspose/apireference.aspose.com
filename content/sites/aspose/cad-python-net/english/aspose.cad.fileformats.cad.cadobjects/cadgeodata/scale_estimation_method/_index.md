@@ -3,8 +3,8 @@ title: scale_estimation_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/scale_estimation_method/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/scale_estimation_method/
 is_root: false
 ---
 

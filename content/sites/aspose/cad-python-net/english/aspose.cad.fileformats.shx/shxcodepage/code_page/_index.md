@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.shx/shxcodepage/code_page/
+url: /python-net/aspose.cad.fileformats.shx/shxcodepage/code_page/
 is_root: false
 ---
 

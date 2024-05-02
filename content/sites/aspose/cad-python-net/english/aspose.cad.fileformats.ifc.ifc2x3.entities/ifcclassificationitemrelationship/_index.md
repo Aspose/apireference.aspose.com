@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 810
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcClassificationItemRelationship
 
 
 **Inheritance:** [`IfcClassificationItemRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,12 +30,14 @@ The IfcClassificationItemRelationship type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/entity_label) | Gets the entity label. |
-| [relating_item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/relating_item) | RelatingItem |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [relating_item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/relating_item) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcClassificationItemRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

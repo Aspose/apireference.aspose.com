@@ -3,8 +3,8 @@ title: type_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/type_name/
+weight: 560
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/type_name/
 is_root: false
 ---
 

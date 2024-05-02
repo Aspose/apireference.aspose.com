@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 530
-url: /aspose.cad/rastercachedimage/height/
+url: /python-net/aspose.cad/rastercachedimage/height/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the image height.
+
+### Example 
+
+
+Prints drawing's height
 ### Definition:
 ```python
 @property

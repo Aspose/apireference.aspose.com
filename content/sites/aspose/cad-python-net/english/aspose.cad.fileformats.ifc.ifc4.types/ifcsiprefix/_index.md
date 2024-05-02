@@ -3,8 +3,8 @@ title: IfcSIPrefix enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3430
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcsiprefix/
+weight: 3440
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcsiprefix/
 is_root: false
 ---
 
@@ -19,22 +19,22 @@ The IfcSIPrefix type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| EXA | EXA |
-| PETA | PETA |
-| TERA | TERA |
-| GIGA | GIGA |
-| MEGA | MEGA |
-| KILO | KILO |
-| HECTO | HECTO |
-| DECA | DECA |
-| DECI | DECI |
-| CENTI | CENTI |
-| MILLI | MILLI |
-| MICRO | MICRO |
-| NANO | NANO |
-| PICO | PICO |
-| FEMTO | FEMTO |
-| ATTO | ATTO |
+| EXA |  |
+| PETA |  |
+| TERA |  |
+| GIGA |  |
+| MEGA |  |
+| KILO |  |
+| HECTO |  |
+| DECA |  |
+| DECI |  |
+| CENTI |  |
+| MILLI |  |
+| MICRO |  |
+| NANO |  |
+| PICO |  |
+| FEMTO |  |
+| ATTO |  |
 
 
 

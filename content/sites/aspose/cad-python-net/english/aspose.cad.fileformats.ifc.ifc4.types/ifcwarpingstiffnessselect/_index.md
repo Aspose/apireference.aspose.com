@@ -3,8 +3,8 @@ title: IfcWarpingStiffnessSelect class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1900
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingstiffnessselect/
+weight: 1910
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingstiffnessselect/
 is_root: false
 ---
 

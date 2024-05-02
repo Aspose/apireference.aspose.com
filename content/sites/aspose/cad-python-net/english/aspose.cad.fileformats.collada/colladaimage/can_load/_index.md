@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.collada/colladaimage/can_load/
+url: /python-net/aspose.cad.fileformats.collada/colladaimage/can_load/
 is_root: false
 ---
 
@@ -29,6 +29,11 @@ def can_load(self, file_path):
 | :- | :- | :- |
 | file_path | str | The file path. |
 
+### Example 
+
+
+Checks whether loading of a drawing is possible
+
 
 ## can_load {#io.RawIOBase}
 
@@ -50,6 +55,11 @@ def can_load(self, stream):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The stream to load from. |
+
+### Example 
+
+
+Checks whether loading of a drawing is possible from the stream specified
 
 
 ## can_load {#str-aspose.cad.LoadOptions}
@@ -74,6 +84,11 @@ def can_load(self, file_path, load_options):
 | file_path | str | The file path. |
 | load_options | [`LoadOptions`](/cad/python-net/aspose.cad/loadoptions) | The load options. |
 
+### Example 
+
+
+Checks whether loading of a drawing is possible with specified encoding
+
 
 ## can_load {#io.RawIOBase-aspose.cad.LoadOptions}
 
@@ -96,6 +111,11 @@ def can_load(self, stream, load_options):
 | :- | :- | :- |
 | stream | io.RawIOBase | The stream to load from. |
 | load_options | [`LoadOptions`](/cad/python-net/aspose.cad/loadoptions) | The load options. |
+
+### Example 
+
+
+Checks whether loading of a drawing is possible from the stream specified with a corresponding encoding
 
 
 

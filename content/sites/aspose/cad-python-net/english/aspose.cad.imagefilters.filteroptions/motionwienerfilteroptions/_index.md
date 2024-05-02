@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.imagefilters.filteroptions/motionwienerfilteroptions/
+url: /python-net/aspose.cad.imagefilters.filteroptions/motionwienerfilteroptions/
 is_root: false
 ---
 

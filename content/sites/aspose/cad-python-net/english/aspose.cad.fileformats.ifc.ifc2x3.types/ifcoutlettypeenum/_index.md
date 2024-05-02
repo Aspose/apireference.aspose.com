@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2580
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcoutlettypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcoutlettypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcOutletTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AUDIOVISUALOUTLET | AUDIOVISUALOUTLET |
-| COMMUNICATIONSOUTLET | COMMUNICATIONSOUTLET |
-| POWEROUTLET | POWEROUTLET |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| AUDIOVISUALOUTLET |  |
+| COMMUNICATIONSOUTLET |  |
+| POWEROUTLET |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

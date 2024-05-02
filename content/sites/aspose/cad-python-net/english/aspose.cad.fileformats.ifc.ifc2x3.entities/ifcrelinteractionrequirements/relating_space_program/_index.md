@@ -3,15 +3,13 @@ title: relating_space_program property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/relating_space_program/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/relating_space_program/
 is_root: false
 ---
 
 ## relating_space_program property
 
-
-RelatingSpaceProgram
 ### Definition:
 ```python
 @property

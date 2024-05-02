@@ -3,8 +3,8 @@ title: plot_style property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad.fileformats.cad.cadobjects/caddimensionbase/plot_style/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/plot_style/
 is_root: false
 ---
 
@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets or sets the plot style.
+Gets or sets the plot style handle.
+
+### Remarks 
+
+
+Present if the value of [`CadEntityBase.plot_style_flag`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadentitybase#plot_style_flag) is 3.
 ### Definition:
 ```python
 @property

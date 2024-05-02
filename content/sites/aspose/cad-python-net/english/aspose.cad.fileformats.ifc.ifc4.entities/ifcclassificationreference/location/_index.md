@@ -3,15 +3,13 @@ title: location property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/location/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/location/
 is_root: false
 ---
 
 ## location property
 
-
-Location
 ### Definition:
 ```python
 @property

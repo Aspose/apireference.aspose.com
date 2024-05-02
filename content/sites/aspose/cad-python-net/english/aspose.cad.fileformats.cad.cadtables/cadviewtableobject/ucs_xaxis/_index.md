@@ -3,8 +3,8 @@ title: ucs_xaxis property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucs_xaxis/
+weight: 390
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucs_xaxis/
 is_root: false
 ---
 

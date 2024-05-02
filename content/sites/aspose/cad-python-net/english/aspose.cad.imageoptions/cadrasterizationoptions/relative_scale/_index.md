@@ -3,8 +3,8 @@ title: relative_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.imageoptions/cadrasterizationoptions/relative_scale/
+weight: 260
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/relative_scale/
 is_root: false
 ---
 

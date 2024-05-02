@@ -3,8 +3,8 @@ title: reference_vector property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/reference_vector/
+weight: 550
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/reference_vector/
 is_root: false
 ---
 

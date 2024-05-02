@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 870
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Partial IIfc entity class
 
 **Inheritance:** [`IfcColourRgb`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb) → 
 [`IfcColourSpecification`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourspecification) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,11 +31,13 @@ The IfcColourRgb type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/name) | Name |
-| [red](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/red) | Red |
-| [green](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/green) | Green |
-| [blue](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/blue) | Blue |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/name) |  |
+| [red](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/red) |  |
+| [green](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/green) |  |
+| [blue](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/blue) |  |
 
 
 
@@ -43,4 +45,4 @@ The IfcColourRgb type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcColourRgb`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb)
 * class [`IfcColourSpecification`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourspecification)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

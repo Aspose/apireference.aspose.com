@@ -3,8 +3,8 @@ title: RasterCachedImage class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad/rastercachedimage/
+weight: 460
+url: /python-net/aspose.cad/rastercachedimage/
 is_root: false
 ---
 
@@ -33,14 +33,14 @@ The RasterCachedImage type exposes the following members:
 | [bounds](/cad/python-net/aspose.cad/rastercachedimage/bounds) | Gets the image bounds. |
 | [container](/cad/python-net/aspose.cad/rastercachedimage/container) | Gets the [`Image`](/cad/python-net/aspose.cad/image) container. |
 | [height](/cad/python-net/aspose.cad/rastercachedimage/height) | Gets the image height. |
+| [depth](/cad/python-net/aspose.cad/rastercachedimage/depth) | Gets the image depth. |
 | [palette](/cad/python-net/aspose.cad/rastercachedimage/palette) | Gets or sets the color palette. |
 | [size](/cad/python-net/aspose.cad/rastercachedimage/size) | Gets the image size. |
 | [width](/cad/python-net/aspose.cad/rastercachedimage/width) | Gets the image width. |
-| [has_background_color](/cad/python-net/aspose.cad/rastercachedimage/has_background_color) | Gets or sets a value indicating whether image has background color. |
-| [background_color](/cad/python-net/aspose.cad/rastercachedimage/background_color) | Gets or sets a value for the background color. |
 | [unit_type](/cad/python-net/aspose.cad/rastercachedimage/unit_type) | Gets current unit type. |
 | [unitless_default_unit_type](/cad/python-net/aspose.cad/rastercachedimage/unitless_default_unit_type) | Assumed unit type when UnitType is set to Unitless |
-| [xmp_data](/cad/python-net/aspose.cad/rastercachedimage/xmp_data) | Gets or sets the XMP metadata. |
+| [annotation_service](/cad/python-net/aspose.cad/rastercachedimage/annotation_service) | Gets the annotation service. |
+| [watermark_guard_service](/cad/python-net/aspose.cad/rastercachedimage/watermark_guard_service) |  |
 | [raw_indexed_color_converter](/cad/python-net/aspose.cad/rastercachedimage/raw_indexed_color_converter) | Gets or sets the indexed color converter |
 | [raw_custom_color_converter](/cad/python-net/aspose.cad/rastercachedimage/raw_custom_color_converter) | Gets or sets the custom color converter |
 | [raw_fallback_index](/cad/python-net/aspose.cad/rastercachedimage/raw_fallback_index) | Gets or sets the fallback index to use when palette index is out of bounds |
@@ -60,8 +60,8 @@ The RasterCachedImage type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [save](/cad/python-net/aspose.cad/rastercachedimage/save/#) | Saves the image data to the underlying stream. |
-| [save](/cad/python-net/aspose.cad/rastercachedimage/save/#str-aspose.cad.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save](/cad/python-net/aspose.cad/rastercachedimage/save/#io.RawIOBase-aspose.cad.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad/rastercachedimage/save/#str-aspose.cad.imageoptions.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad/rastercachedimage/save/#io.RawIOBase-aspose.cad.imageoptions.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save](/cad/python-net/aspose.cad/rastercachedimage/save/#io.RawIOBase) | Saves the object's data to the specified stream. |
 | [save](/cad/python-net/aspose.cad/rastercachedimage/save/#str) | Saves the object's data to the specified file location. |
 | [save](/cad/python-net/aspose.cad/rastercachedimage/save/#str-bool) | Saves the object's data to the specified file location. |
@@ -74,6 +74,7 @@ The RasterCachedImage type exposes the following members:
 | [load](/cad/python-net/aspose.cad/rastercachedimage/load/#str-aspose.cad.LoadOptions) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad/rastercachedimage/load/#str) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad/rastercachedimage/load/#io.RawIOBase-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
+| [load](/cad/python-net/aspose.cad/rastercachedimage/load/#io.RawIOBase-str-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
 | [load](/cad/python-net/aspose.cad/rastercachedimage/load/#io.RawIOBase) | Loads a new image from the specified stream. |
 | [dither](/cad/python-net/aspose.cad/rastercachedimage/dither/#aspose.cad.DitheringMethod-int-aspose.cad.IColorPalette) | Performs dithering on the current image. |
 | [dither](/cad/python-net/aspose.cad/rastercachedimage/dither/#aspose.cad.DitheringMethod-int) | Performs dithering on the current image. |
@@ -89,7 +90,7 @@ The RasterCachedImage type exposes the following members:
 | [write_scan_line](/cad/python-net/aspose.cad/rastercachedimage/write_scan_line/#int-list) | Writes the whole scan line to the specified scan line index. |
 | [cache_data](/cad/python-net/aspose.cad/rastercachedimage/cache_data/#) | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamSupporter.data_stream_container`](/cad/python-net/aspose.cad/datastreamsupporter#data_stream_container). |
 | [get_strings](/cad/python-net/aspose.cad/rastercachedimage/get_strings/#) | Gets all string values from image. |
-| [can_save](/cad/python-net/aspose.cad/rastercachedimage/can_save/#aspose.cad.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [can_save](/cad/python-net/aspose.cad/rastercachedimage/can_save/#aspose.cad.imageoptions.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
 | [get_default_pixels](/cad/python-net/aspose.cad/rastercachedimage/get_default_pixels/#aspose.cad.Rectangle-aspose.cad.IPartialArgb32PixelLoader) | Gets the default pixels array using partial pixel loader. |
 | [binarize_otsu](/cad/python-net/aspose.cad/rastercachedimage/binarize_otsu/#) | Binarization of an image with Otsu thresholding |
 | [binarize_bradley](/cad/python-net/aspose.cad/rastercachedimage/binarize_bradley/#float) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |

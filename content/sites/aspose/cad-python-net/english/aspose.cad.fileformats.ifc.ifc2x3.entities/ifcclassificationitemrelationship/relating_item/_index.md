@@ -3,15 +3,13 @@ title: relating_item property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/relating_item/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/relating_item/
 is_root: false
 ---
 
 ## relating_item property
 
-
-RelatingItem
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1880
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcElectricFlowStorageDeviceType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,15 +38,17 @@ The IfcElectricFlowStorageDeviceType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/element_type) | ElementType |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/element_type) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype/predefined_type) |  |
 
 
 
@@ -56,7 +58,7 @@ The IfcElectricFlowStorageDeviceType type exposes the following members:
 * class [`IfcDistributionFlowElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdistributionflowelementtype)
 * class [`IfcElectricFlowStorageDeviceType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricflowstoragedevicetype)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementtype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFlowStorageDeviceType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcflowstoragedevicetype)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)

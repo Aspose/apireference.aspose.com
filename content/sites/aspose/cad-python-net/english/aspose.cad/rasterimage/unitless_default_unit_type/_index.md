@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 670
-url: /aspose.cad/rasterimage/unitless_default_unit_type/
+url: /python-net/aspose.cad/rasterimage/unitless_default_unit_type/
 is_root: false
 ---
 

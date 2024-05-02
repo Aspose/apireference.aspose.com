@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2750
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcFixedReferenceSweptAreaSolid
 [`IfcSolidModel`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolidmodel) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,19 +34,21 @@ The IfcFixedReferenceSweptAreaSolid type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/entity_label) | Gets the entity label. |
-| [swept_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/swept_area) | SweptArea |
-| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/position) | Position |
-| [directrix](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/directrix) | Directrix |
-| [start_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/start_param) | StartParam |
-| [end_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/end_param) | EndParam |
-| [fixed_reference](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/fixed_reference) | FixedReference |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [swept_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/swept_area) |  |
+| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/position) |  |
+| [directrix](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/directrix) |  |
+| [start_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/start_param) |  |
+| [end_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/end_param) |  |
+| [fixed_reference](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/fixed_reference) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFixedReferenceSweptAreaSolid`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

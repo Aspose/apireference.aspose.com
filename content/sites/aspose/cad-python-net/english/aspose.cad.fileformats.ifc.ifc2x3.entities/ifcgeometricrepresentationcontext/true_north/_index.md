@@ -3,15 +3,13 @@ title: true_north property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/true_north/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/true_north/
 is_root: false
 ---
 
 ## true_north property
 
-
-TrueNorth
 ### Definition:
 ```python
 @property

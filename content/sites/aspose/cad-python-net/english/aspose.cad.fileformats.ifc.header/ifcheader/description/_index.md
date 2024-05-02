@@ -4,14 +4,14 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.header/ifcheader/description/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcheader/description/
 is_root: false
 ---
 
 ## description property
 
 
-Gets or sets the description.
+Gets or sets the description property for IFC.
 ### Definition:
 ```python
 @property

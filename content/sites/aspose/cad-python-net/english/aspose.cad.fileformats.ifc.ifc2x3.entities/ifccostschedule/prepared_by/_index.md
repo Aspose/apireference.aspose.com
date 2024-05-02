@@ -3,15 +3,13 @@ title: prepared_by property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostschedule/prepared_by/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostschedule/prepared_by/
 is_root: false
 ---
 
 ## prepared_by property
 
-
-PreparedBy
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: paper_image_origin property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/paper_image_origin/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/paper_image_origin/
 is_root: false
 ---
 

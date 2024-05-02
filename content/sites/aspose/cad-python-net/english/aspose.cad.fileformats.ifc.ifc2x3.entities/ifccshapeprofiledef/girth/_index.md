@@ -3,15 +3,13 @@ title: girth property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/girth/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/girth/
 is_root: false
 ---
 
 ## girth property
 
-
-Girth
 ### Definition:
 ```python
 @property

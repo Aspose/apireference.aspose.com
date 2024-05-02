@@ -3,15 +3,13 @@ title: type_identifier property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/type_identifier/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/type_identifier/
 is_root: false
 ---
 
 ## type_identifier property
 
-
-TypeIdentifier
 ### Definition:
 ```python
 @property

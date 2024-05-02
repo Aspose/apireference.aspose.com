@@ -3,8 +3,8 @@ title: bool_flag_specifying property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/bool_flag_specifying/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/bool_flag_specifying/
 is_root: false
 ---
 

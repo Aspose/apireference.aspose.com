@@ -3,15 +3,13 @@ title: elevation_of_terrain property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcbuilding/elevation_of_terrain/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuilding/elevation_of_terrain/
 is_root: false
 ---
 
 ## elevation_of_terrain property
 
-
-ElevationOfTerrain
 ### Definition:
 ```python
 @property

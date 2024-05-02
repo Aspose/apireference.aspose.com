@@ -3,8 +3,8 @@ title: DitheringMethod enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 620
-url: /aspose.cad/ditheringmethod/
+weight: 690
+url: /python-net/aspose.cad/ditheringmethod/
 is_root: false
 ---
 

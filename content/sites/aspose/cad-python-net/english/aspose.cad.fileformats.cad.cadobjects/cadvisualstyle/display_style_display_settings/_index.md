@@ -3,8 +3,8 @@ title: display_style_display_settings property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/display_style_display_settings/
+weight: 130
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/display_style_display_settings/
 is_root: false
 ---
 

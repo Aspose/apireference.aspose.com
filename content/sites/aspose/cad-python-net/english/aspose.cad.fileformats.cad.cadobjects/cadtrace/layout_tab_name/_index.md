@@ -3,8 +3,8 @@ title: layout_tab_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadtrace/layout_tab_name/
+weight: 300
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtrace/layout_tab_name/
 is_root: false
 ---
 

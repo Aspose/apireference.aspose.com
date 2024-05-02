@@ -3,8 +3,8 @@ title: enable_dogleg property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/enable_dogleg/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/enable_dogleg/
 is_root: false
 ---
 

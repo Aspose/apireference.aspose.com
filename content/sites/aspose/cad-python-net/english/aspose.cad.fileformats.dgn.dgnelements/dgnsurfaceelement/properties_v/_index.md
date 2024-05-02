@@ -3,8 +3,8 @@ title: properties_v property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/properties_v/
+weight: 210
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/properties_v/
 is_root: false
 ---
 

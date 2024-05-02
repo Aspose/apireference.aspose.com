@@ -3,15 +3,13 @@ title: submitted_on property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccostschedule/submitted_on/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostschedule/submitted_on/
 is_root: false
 ---
 
 ## submitted_on property
 
-
-SubmittedOn
 ### Definition:
 ```python
 @property

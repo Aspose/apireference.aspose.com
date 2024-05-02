@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.cad/rasterimage/dither/
+url: /python-net/aspose.cad/rasterimage/dither/
 is_root: false
 ---
 

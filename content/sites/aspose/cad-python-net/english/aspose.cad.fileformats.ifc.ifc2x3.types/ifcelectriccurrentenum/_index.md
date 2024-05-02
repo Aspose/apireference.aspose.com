@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2170
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentenum/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The IfcElectricCurrentEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ALTERNATING | ALTERNATING |
-| DIRECT | DIRECT |
-| NOTDEFINED | NOTDEFINED |
+| ALTERNATING |  |
+| DIRECT |  |
+| NOTDEFINED |  |
 
 
 

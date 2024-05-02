@@ -3,8 +3,8 @@ title: StringFormatFlags enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 810
-url: /aspose.cad/stringformatflags/
+weight: 890
+url: /python-net/aspose.cad/stringformatflags/
 is_root: false
 ---
 

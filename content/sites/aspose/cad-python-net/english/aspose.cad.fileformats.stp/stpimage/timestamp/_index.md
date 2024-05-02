@@ -3,8 +3,8 @@ title: timestamp property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.stp/stpimage/timestamp/
+weight: 320
+url: /python-net/aspose.cad.fileformats.stp/stpimage/timestamp/
 is_root: false
 ---
 

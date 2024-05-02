@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6930
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcSystemFurnitureElementType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,22 +36,24 @@ The IfcSystemFurnitureElementType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/element_type) | ElementType |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/element_type) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/predefined_type) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFurnishingElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfurnishingelementtype)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot)

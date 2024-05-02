@@ -3,15 +3,13 @@ title: related_approval property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalrelationship/related_approval/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalrelationship/related_approval/
 is_root: false
 ---
 
 ## related_approval property
 
-
-RelatedApproval
 ### Definition:
 ```python
 @property

@@ -3,15 +3,20 @@ title: storage_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/storage_flag/
+weight: 620
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/storage_flag/
 is_root: false
 ---
 
 ## storage_flag property
 
 
-The StorageFlag
+Gets or sets a value indicating that this entity has associated binary data in the data store.
+
+### Remarks 
+
+
+This flag is always false for [`CadAcadVersion.AC1024`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadacadversion#AC1024) and earlier versions.
 ### Definition:
 ```python
 @property

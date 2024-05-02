@@ -3,8 +3,8 @@ title: StepLine class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.stp.items/stepline/
+weight: 420
+url: /python-net/aspose.cad.fileformats.stp.items/stepline/
 is_root: false
 ---
 
@@ -34,6 +34,7 @@ The StepLine type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepline/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepline/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepline/id) |  |
 | [point](/cad/python-net/aspose.cad.fileformats.stp.items/stepline/point) |  |
 | [vector](/cad/python-net/aspose.cad.fileformats.stp.items/stepline/vector) |  |
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/curve/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/curve/
 is_root: false
 ---
 

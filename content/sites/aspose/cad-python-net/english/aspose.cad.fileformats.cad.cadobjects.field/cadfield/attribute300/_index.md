@@ -3,8 +3,8 @@ title: attribute300 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute300/
+weight: 60
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute300/
 is_root: false
 ---
 

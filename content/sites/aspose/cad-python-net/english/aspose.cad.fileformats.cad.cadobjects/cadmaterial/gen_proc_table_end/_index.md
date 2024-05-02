@@ -3,8 +3,8 @@ title: gen_proc_table_end property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_table_end/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_table_end/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: mapping_coordinates property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.threeds.elements/threedsmesh/mapping_coordinates/
+weight: 110
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsmesh/mapping_coordinates/
 is_root: false
 ---
 

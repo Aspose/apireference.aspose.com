@@ -3,15 +3,13 @@ title: outer property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacetedbrepwithvoids/outer/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacetedbrepwithvoids/outer/
 is_root: false
 ---
 
 ## outer property
 
-
-Outer
 ### Definition:
 ```python
 @property

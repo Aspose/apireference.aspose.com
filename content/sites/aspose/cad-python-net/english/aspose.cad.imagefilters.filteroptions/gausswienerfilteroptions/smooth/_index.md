@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
+url: /python-net/aspose.cad.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: CadPlotPaperUnits enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.fileformats.cad.cadconsts/cadplotpaperunits/
+weight: 340
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadplotpaperunits/
 is_root: false
 ---
 

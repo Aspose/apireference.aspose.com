@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/centre_of_gravity_in_x/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/centre_of_gravity_in_x/
 is_root: false
 ---
 
 ## centre_of_gravity_in_x property
 
-
-CentreOfGravityInX
 ### Definition:
 ```python
 @property

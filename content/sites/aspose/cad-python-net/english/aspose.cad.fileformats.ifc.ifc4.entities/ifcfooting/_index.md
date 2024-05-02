@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2940
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcFooting
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,16 +36,18 @@ The IfcFooting type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/tag) | Tag |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/tag) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting/predefined_type) |  |
 
 
 
@@ -53,7 +55,7 @@ The IfcFooting type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcBuildingElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingelement)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFooting`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfooting)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)

@@ -3,8 +3,8 @@ title: primary_font_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadtables/cadstyletableobject/primary_font_name/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/primary_font_name/
 is_root: false
 ---
 

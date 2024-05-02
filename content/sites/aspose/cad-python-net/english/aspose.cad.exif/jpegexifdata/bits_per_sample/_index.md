@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.exif/jpegexifdata/bits_per_sample/
+url: /python-net/aspose.cad.exif/jpegexifdata/bits_per_sample/
 is_root: false
 ---
 

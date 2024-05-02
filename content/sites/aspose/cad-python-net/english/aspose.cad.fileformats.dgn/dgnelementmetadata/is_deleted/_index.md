@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.dgn/dgnelementmetadata/is_deleted/
+url: /python-net/aspose.cad.fileformats.dgn/dgnelementmetadata/is_deleted/
 is_root: false
 ---
 

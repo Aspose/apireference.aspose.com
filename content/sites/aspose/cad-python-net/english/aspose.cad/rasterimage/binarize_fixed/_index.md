@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad/rasterimage/binarize_fixed/
+url: /python-net/aspose.cad/rasterimage/binarize_fixed/
 is_root: false
 ---
 

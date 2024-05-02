@@ -3,8 +3,8 @@ title: linked_data_parameters property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linked_data_parameters/
+weight: 150
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linked_data_parameters/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: owning_user property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/owning_user/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/owning_user/
 is_root: false
 ---
 
 ## owning_user property
 
-
-OwningUser
 ### Definition:
 ```python
 @property

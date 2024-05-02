@@ -3,8 +3,8 @@ title: IfcFurnitureTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2830
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcfurnituretypeenum/
+weight: 2840
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcfurnituretypeenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcFurnitureTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CHAIR | CHAIR |
-| TABLE | TABLE |
-| DESK | DESK |
-| BED | BED |
-| FILECABINET | FILECABINET |
-| SHELF | SHELF |
-| SOFA | SOFA |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CHAIR |  |
+| TABLE |  |
+| DESK |  |
+| BED |  |
+| FILECABINET |  |
+| SHELF |  |
+| SOFA |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

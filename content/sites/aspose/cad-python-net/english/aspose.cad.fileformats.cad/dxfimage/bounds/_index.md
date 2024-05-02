@@ -3,8 +3,8 @@ title: bounds property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.cad/dxfimage/bounds/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/bounds/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the image bounds.
+
+### Example 
+
+
+Custom processing of a drawing depending on its bounds
 ### Definition:
 ```python
 @property

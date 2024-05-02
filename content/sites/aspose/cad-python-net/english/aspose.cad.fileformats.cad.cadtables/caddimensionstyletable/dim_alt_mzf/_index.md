@@ -3,15 +3,15 @@ title: dim_alt_mzf property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dim_alt_mzf/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dim_alt_mzf/
 is_root: false
 ---
 
 ## dim_alt_mzf property
 
 
-Gets or sets The DimAltMzf
+Gets or sets alternate sub-zero factor for dimensions.
 ### Definition:
 ```python
 @property

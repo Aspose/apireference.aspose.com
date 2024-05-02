@@ -3,8 +3,8 @@ title: StepLoop class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.stp.items/steploop/
+weight: 430
+url: /python-net/aspose.cad.fileformats.stp.items/steploop/
 is_root: false
 ---
 
@@ -27,6 +27,7 @@ The StepLoop type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steploop/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steploop/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steploop/id) |  |
 
 
 

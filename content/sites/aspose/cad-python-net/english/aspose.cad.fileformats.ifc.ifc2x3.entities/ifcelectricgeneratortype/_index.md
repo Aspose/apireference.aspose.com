@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1890
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcElectricGeneratorType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,15 +38,17 @@ The IfcElectricGeneratorType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/element_type) | ElementType |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/element_type) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/predefined_type) |  |
 
 
 
@@ -57,7 +59,7 @@ The IfcElectricGeneratorType type exposes the following members:
 * class [`IfcElectricGeneratorType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementtype)
 * class [`IfcEnergyConversionDeviceType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenergyconversiondevicetype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)
 * class [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject)

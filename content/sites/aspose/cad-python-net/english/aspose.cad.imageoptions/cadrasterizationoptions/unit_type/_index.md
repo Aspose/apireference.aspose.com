@@ -3,8 +3,8 @@ title: unit_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.imageoptions/cadrasterizationoptions/unit_type/
+weight: 310
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/unit_type/
 is_root: false
 ---
 

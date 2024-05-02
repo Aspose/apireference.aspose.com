@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /aspose.cad/matrix/m31/
+url: /python-net/aspose.cad/matrix/m31/
 is_root: false
 ---
 

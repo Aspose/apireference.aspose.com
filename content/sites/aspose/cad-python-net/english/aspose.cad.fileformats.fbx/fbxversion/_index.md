@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.fbx/fbxversion/
+url: /python-net/aspose.cad.fileformats.fbx/fbxversion/
 is_root: false
 ---
 
@@ -28,6 +28,7 @@ The FbxVersion type exposes the following members:
 | V_7_3 | FBX 2013 version |
 | V_7_4 | FBX 2014-15 version |
 | V_7_5 | FBX 2016-19 version |
+| V_7_7 | FBX 2019-2020 version |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/iindexedcolorconverter/fill_indexedto_indexed_map/
+url: /python-net/aspose.cad/iindexedcolorconverter/fill_indexedto_indexed_map/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: cast_shadows property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadobjects/cadlight/cast_shadows/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlight/cast_shadows/
 is_root: false
 ---
 

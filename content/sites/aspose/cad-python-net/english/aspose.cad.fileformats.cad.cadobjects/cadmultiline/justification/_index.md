@@ -3,8 +3,8 @@ title: justification property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects/cadmultiline/justification/
+weight: 270
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/justification/
 is_root: false
 ---
 

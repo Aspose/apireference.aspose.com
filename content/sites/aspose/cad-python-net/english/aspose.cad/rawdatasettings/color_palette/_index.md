@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad/rawdatasettings/color_palette/
+url: /python-net/aspose.cad/rawdatasettings/color_palette/
 is_root: false
 ---
 

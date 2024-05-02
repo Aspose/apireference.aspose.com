@@ -3,8 +3,8 @@ title: length_multiplier property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/length_multiplier/
+weight: 90
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/length_multiplier/
 is_root: false
 ---
 

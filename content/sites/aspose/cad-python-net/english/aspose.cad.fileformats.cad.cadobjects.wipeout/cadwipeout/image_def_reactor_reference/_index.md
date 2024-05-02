@@ -3,8 +3,8 @@ title: image_def_reactor_reference property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/image_def_reactor_reference/
+weight: 280
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/image_def_reactor_reference/
 is_root: false
 ---
 

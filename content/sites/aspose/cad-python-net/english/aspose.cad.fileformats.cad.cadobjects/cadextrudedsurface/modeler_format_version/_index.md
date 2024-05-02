@@ -3,8 +3,8 @@ title: modeler_format_version property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 380
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/modeler_format_version/
+weight: 450
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/modeler_format_version/
 is_root: false
 ---
 

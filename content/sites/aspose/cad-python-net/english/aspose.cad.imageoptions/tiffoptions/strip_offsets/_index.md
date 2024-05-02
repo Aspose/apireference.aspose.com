@@ -3,8 +3,8 @@ title: strip_offsets property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.imageoptions/tiffoptions/strip_offsets/
+weight: 540
+url: /python-net/aspose.cad.imageoptions/tiffoptions/strip_offsets/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: header property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.ifc/ifcimage/header/
+weight: 190
+url: /python-net/aspose.cad.fileformats.ifc/ifcimage/header/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the header.
+
+### Example 
+
+
+Gets the header from the image.
 ### Definition:
 ```python
 @property

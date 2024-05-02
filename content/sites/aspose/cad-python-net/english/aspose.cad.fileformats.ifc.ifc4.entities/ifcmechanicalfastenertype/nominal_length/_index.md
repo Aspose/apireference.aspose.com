@@ -3,15 +3,13 @@ title: nominal_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastenertype/nominal_length/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastenertype/nominal_length/
 is_root: false
 ---
 
 ## nominal_length property
 
-
-NominalLength
 ### Definition:
 ```python
 @property

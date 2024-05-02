@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.imageoptions/rdoptimizersettings/max_q/
+url: /python-net/aspose.cad.imageoptions/rdoptimizersettings/max_q/
 is_root: false
 ---
 

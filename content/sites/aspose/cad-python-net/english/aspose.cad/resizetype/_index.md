@@ -3,8 +3,8 @@ title: ResizeType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 750
-url: /aspose.cad/resizetype/
+weight: 830
+url: /python-net/aspose.cad/resizetype/
 is_root: false
 ---
 

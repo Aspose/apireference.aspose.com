@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 7070
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ IfcTendonAnchorType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -37,15 +37,17 @@ The IfcTendonAnchorType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/element_type) | ElementType |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/element_type) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendonanchortype/predefined_type) |  |
 
 
 
@@ -53,7 +55,7 @@ The IfcTendonAnchorType type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcElementComponentType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementcomponenttype)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcReinforcingElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingelementtype)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot)

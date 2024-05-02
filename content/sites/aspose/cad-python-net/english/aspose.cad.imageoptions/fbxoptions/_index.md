@@ -3,8 +3,8 @@ title: FbxOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.imageoptions/fbxoptions/
+weight: 150
+url: /python-net/aspose.cad.imageoptions/fbxoptions/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ The Fbx options.
 
 
 **Inheritance:** [`FbxOptions`](/cad/python-net/aspose.cad.imageoptions/fbxoptions) → 
-[`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+[`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 
 
 
@@ -24,7 +24,7 @@ The FbxOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cad/python-net/aspose.cad.imageoptions/fbxoptions/__init__/#) | Initializes a new instance of the [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase) class. |
+| [__init__](/cad/python-net/aspose.cad.imageoptions/fbxoptions/__init__/#) | Initializes a new instance of the [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase) class. |
 
 
 ### Properties
@@ -38,8 +38,10 @@ The FbxOptions type exposes the following members:
 | [palette](/cad/python-net/aspose.cad.imageoptions/fbxoptions/palette) | Gets or sets the color palette. |
 | [resolution_settings](/cad/python-net/aspose.cad.imageoptions/fbxoptions/resolution_settings) | Gets or sets the resolution settings. |
 | [vector_rasterization_options](/cad/python-net/aspose.cad.imageoptions/fbxoptions/vector_rasterization_options) | Gets or sets the vector rasterization options. |
+| [watermark_guard_options](/cad/python-net/aspose.cad.imageoptions/fbxoptions/watermark_guard_options) | Gets or sets the blind watermark options. |
 | [timeout](/cad/python-net/aspose.cad.imageoptions/fbxoptions/timeout) | Timeout value for export operation (in milliseconds) |
 | [pc_3_file](/cad/python-net/aspose.cad.imageoptions/fbxoptions/pc_3_file) | Gets or sets the PC3 file full name. |
+| [render_to_graphics_bound](/cad/python-net/aspose.cad.imageoptions/fbxoptions/render_to_graphics_bound) | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [user_watermark_text](/cad/python-net/aspose.cad.imageoptions/fbxoptions/user_watermark_text) | Text for user-generated watermark |
 | [user_watermark_color](/cad/python-net/aspose.cad.imageoptions/fbxoptions/user_watermark_color) | Color for user-generated watermark |
 
@@ -48,4 +50,4 @@ The FbxOptions type exposes the following members:
 ### See Also
 * module [`aspose.cad.imageoptions`](..)
 * class [`FbxOptions`](/cad/python-net/aspose.cad.imageoptions/fbxoptions)
-* class [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+* class [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)

@@ -3,8 +3,8 @@ title: height_multiplier property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/height_multiplier/
+weight: 60
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/height_multiplier/
 is_root: false
 ---
 

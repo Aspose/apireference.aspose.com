@@ -3,15 +3,16 @@ title: dimclre property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimclre/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimclre/
 is_root: false
 ---
 
 ## dimclre property
 
 
-Gets or sets The dimclre - 177
+Gets or sets color to dimension extension lines.
+Possible values are 1-225 (color index), 0 - by block, 256 - by layer.
 ### Definition:
 ```python
 @property

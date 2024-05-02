@@ -3,8 +3,8 @@ title: illumination_model property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 430
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/illumination_model/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/illumination_model/
 is_root: false
 ---
 

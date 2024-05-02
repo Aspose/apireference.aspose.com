@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects/cadblockentity/block_model_segregated/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/block_model_segregated/
 is_root: false
 ---
 

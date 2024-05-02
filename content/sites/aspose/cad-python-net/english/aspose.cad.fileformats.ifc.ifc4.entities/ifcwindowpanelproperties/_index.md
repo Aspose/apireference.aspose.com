@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 7660
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcWindowPanelProperties
 [`IfcPropertySetDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition) → 
 [`IfcPropertyDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,22 +34,24 @@ The IfcWindowPanelProperties type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/description) | Description |
-| [operation_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/operation_type) | OperationType |
-| [panel_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/panel_position) | PanelPosition |
-| [frame_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/frame_depth) | FrameDepth |
-| [frame_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/frame_thickness) | FrameThickness |
-| [shape_aspect_style](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/shape_aspect_style) | ShapeAspectStyle |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/description) |  |
+| [operation_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/operation_type) |  |
+| [panel_position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/panel_position) |  |
+| [frame_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/frame_depth) |  |
+| [frame_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/frame_thickness) |  |
+| [shape_aspect_style](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/shape_aspect_style) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPreDefinedPropertySet`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefinedpropertyset)
 * class [`IfcPropertyDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition)
 * class [`IfcPropertySetDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition)

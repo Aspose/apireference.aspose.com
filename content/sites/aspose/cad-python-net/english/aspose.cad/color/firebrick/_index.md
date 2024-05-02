@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 590
-url: /aspose.cad/color/firebrick/
+url: /python-net/aspose.cad/color/firebrick/
 is_root: false
 ---
 

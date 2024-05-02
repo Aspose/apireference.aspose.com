@@ -3,8 +3,8 @@ title: StreamContainer class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad/streamcontainer/
+weight: 550
+url: /python-net/aspose.cad/streamcontainer/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad/rectangle/intersect/
+url: /python-net/aspose.cad/rectangle/intersect/
 is_root: false
 ---
 

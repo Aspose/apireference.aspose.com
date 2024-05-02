@@ -3,8 +3,8 @@ title: flag_for_table_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flag_for_table_value/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flag_for_table_value/
 is_root: false
 ---
 

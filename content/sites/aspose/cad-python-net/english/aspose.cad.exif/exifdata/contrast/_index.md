@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.exif/exifdata/contrast/
+url: /python-net/aspose.cad.exif/exifdata/contrast/
 is_root: false
 ---
 

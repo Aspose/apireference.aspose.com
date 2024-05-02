@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 890
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcmassflowratemeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcmassflowratemeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcMassFlowRateMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcmassflowratemeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcmassflowratemeasure/value) |  |
 
 
 

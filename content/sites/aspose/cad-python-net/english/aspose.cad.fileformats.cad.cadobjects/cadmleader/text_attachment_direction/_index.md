@@ -3,8 +3,8 @@ title: text_attachment_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 650
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/text_attachment_direction/
+weight: 730
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/text_attachment_direction/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: specular_map_mapper_projection_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 970
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_mapper_projection_method/
+weight: 1060
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_mapper_projection_method/
 is_root: false
 ---
 

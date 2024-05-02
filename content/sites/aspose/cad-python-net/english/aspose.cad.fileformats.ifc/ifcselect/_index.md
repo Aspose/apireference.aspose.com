@@ -4,13 +4,13 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.fileformats.ifc/ifcselect/
+url: /python-net/aspose.cad.fileformats.ifc/ifcselect/
 is_root: false
 ---
 
 ## IfcSelect class
 
-IfcSelect
+IfcSelect is a base abstract class for all IFC select entities
 
 
 

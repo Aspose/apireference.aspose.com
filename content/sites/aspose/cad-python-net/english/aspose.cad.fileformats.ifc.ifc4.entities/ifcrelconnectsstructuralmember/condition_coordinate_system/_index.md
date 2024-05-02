@@ -3,15 +3,13 @@ title: condition_coordinate_system property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/condition_coordinate_system/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/condition_coordinate_system/
 is_root: false
 ---
 
 ## condition_coordinate_system property
 
-
-ConditionCoordinateSystem
 ### Definition:
 ```python
 @property

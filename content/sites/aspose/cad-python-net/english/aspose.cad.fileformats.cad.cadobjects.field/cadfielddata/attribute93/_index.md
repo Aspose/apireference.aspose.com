@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute93/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute93/
 is_root: false
 ---
 

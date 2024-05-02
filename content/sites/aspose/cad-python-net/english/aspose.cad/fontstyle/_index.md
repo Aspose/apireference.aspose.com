@@ -3,8 +3,8 @@ title: FontStyle enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 650
-url: /aspose.cad/fontstyle/
+weight: 730
+url: /python-net/aspose.cad/fontstyle/
 is_root: false
 ---
 

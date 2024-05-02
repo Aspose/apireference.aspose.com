@@ -3,8 +3,8 @@ title: hatch_string property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatch_string/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatch_string/
 is_root: false
 ---
 

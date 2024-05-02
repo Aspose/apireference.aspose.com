@@ -3,8 +3,8 @@ title: ignored_boundaries property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/ignored_boundaries/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/ignored_boundaries/
 is_root: false
 ---
 

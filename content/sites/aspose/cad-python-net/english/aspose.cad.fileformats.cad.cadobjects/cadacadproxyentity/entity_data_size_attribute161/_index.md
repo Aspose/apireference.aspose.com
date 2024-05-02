@@ -3,8 +3,8 @@ title: entity_data_size_attribute161 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/entity_data_size_attribute161/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/entity_data_size_attribute161/
 is_root: false
 ---
 

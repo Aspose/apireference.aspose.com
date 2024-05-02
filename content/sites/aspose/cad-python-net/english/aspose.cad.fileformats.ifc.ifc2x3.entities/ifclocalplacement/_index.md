@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3010
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Partial IIfc entity class
 
 **Inheritance:** [`IfcLocalPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement) → 
 [`IfcObjectPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectplacement) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,14 +31,16 @@ The IfcLocalPlacement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/entity_label) | Gets the entity label. |
-| [placement_rel_to](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/placement_rel_to) | PlacementRelTo |
-| [relative_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/relative_placement) | RelativePlacement |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [placement_rel_to](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/placement_rel_to) |  |
+| [relative_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement/relative_placement) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcLocalPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocalplacement)
 * class [`IfcObjectPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectplacement)

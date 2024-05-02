@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4280
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcPlate
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,16 +36,18 @@ The IfcPlate type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/tag) | Tag |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/tag) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/predefined_type) |  |
 
 
 
@@ -53,7 +55,7 @@ The IfcPlate type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcBuildingElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingelement)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcPlate`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate)

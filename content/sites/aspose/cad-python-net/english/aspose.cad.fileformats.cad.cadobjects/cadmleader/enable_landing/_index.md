@@ -3,8 +3,8 @@ title: enable_landing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/enable_landing/
+weight: 350
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/enable_landing/
 is_root: false
 ---
 

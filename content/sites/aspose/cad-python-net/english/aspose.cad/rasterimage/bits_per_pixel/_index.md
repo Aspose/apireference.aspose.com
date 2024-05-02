@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 450
-url: /aspose.cad/rasterimage/bits_per_pixel/
+url: /python-net/aspose.cad/rasterimage/bits_per_pixel/
 is_root: false
 ---
 

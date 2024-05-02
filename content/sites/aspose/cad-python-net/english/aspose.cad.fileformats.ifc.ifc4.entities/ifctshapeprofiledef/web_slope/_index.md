@@ -3,15 +3,13 @@ title: web_slope property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctshapeprofiledef/web_slope/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctshapeprofiledef/web_slope/
 is_root: false
 ---
 
 ## web_slope property
 
-
-WebSlope
 ### Definition:
 ```python
 @property

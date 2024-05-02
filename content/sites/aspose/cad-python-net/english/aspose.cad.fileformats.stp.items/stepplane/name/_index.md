@@ -3,8 +3,8 @@ title: name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.stp.items/stepplane/name/
+weight: 50
+url: /python-net/aspose.cad.fileformats.stp.items/stepplane/name/
 is_root: false
 ---
 

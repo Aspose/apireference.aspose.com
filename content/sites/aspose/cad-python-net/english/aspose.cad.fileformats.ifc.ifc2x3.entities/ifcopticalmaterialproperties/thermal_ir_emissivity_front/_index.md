@@ -3,15 +3,13 @@ title: thermal_ir_emissivity_front property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/thermal_ir_emissivity_front/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/thermal_ir_emissivity_front/
 is_root: false
 ---
 
 ## thermal_ir_emissivity_front property
 
-
-ThermalIrEmissivityFront
 ### Definition:
 ```python
 @property

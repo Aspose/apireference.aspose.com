@@ -3,8 +3,8 @@ title: representation_items property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/representation_items/
+weight: 70
+url: /python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/representation_items/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: two_sided_material property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1040
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/two_sided_material/
+weight: 1140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/two_sided_material/
 is_root: false
 ---
 

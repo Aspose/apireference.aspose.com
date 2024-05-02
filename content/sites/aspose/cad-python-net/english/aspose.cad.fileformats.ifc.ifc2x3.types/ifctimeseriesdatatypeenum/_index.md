@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3100
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifctimeseriesdatatypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctimeseriesdatatypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcTimeSeriesDataTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONTINUOUS | CONTINUOUS |
-| DISCRETE | DISCRETE |
-| DISCRETEBINARY | DISCRETEBINARY |
-| PIECEWISEBINARY | PIECEWISEBINARY |
-| PIECEWISECONSTANT | PIECEWISECONSTANT |
-| PIECEWISECONTINUOUS | PIECEWISECONTINUOUS |
-| NOTDEFINED | NOTDEFINED |
+| CONTINUOUS |  |
+| DISCRETE |  |
+| DISCRETEBINARY |  |
+| PIECEWISEBINARY |  |
+| PIECEWISECONSTANT |  |
+| PIECEWISECONTINUOUS |  |
+| NOTDEFINED |  |
 
 
 

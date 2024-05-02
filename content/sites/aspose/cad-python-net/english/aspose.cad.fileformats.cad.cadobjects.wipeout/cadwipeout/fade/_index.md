@@ -3,8 +3,8 @@ title: fade property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/fade/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/fade/
 is_root: false
 ---
 

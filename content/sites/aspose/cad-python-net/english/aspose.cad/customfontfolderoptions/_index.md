@@ -3,8 +3,8 @@ title: CustomFontFolderOptions enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 610
-url: /aspose.cad/customfontfolderoptions/
+weight: 680
+url: /python-net/aspose.cad/customfontfolderoptions/
 is_root: false
 ---
 

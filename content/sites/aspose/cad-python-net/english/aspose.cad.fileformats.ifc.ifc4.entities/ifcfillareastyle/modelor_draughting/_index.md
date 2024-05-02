@@ -3,15 +3,13 @@ title: modelor_draughting property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyle/modelor_draughting/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyle/modelor_draughting/
 is_root: false
 ---
 
 ## modelor_draughting property
 
-
-ModelorDraughting
 ### Definition:
 ```python
 @property

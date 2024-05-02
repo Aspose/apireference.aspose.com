@@ -3,15 +3,13 @@ title: end_param property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/end_param/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/end_param/
 is_root: false
 ---
 
 ## end_param property
 
-
-EndParam
 ### Definition:
 ```python
 @property

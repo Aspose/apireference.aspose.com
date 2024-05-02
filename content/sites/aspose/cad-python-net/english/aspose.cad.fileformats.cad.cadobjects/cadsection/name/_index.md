@@ -3,8 +3,8 @@ title: name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/name/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/name/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 370
-url: /aspose.cad.imageoptions/tiffoptions/photometric/
+url: /python-net/aspose.cad.imageoptions/tiffoptions/photometric/
 is_root: false
 ---
 

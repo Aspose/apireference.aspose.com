@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1690
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcairterminalboxtypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcairterminalboxtypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcAirTerminalBoxTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONSTANTFLOW | CONSTANTFLOW |
-| VARIABLEFLOWPRESSUREDEPENDANT | VARIABLEFLOWPRESSUREDEPENDANT |
-| VARIABLEFLOWPRESSUREINDEPENDANT | VARIABLEFLOWPRESSUREINDEPENDANT |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONSTANTFLOW |  |
+| VARIABLEFLOWPRESSUREDEPENDANT |  |
+| VARIABLEFLOWPRESSUREINDEPENDANT |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

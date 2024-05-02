@@ -3,8 +3,8 @@ title: hatch_scale_or_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatch_scale_or_spacing/
+weight: 350
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatch_scale_or_spacing/
 is_root: false
 ---
 

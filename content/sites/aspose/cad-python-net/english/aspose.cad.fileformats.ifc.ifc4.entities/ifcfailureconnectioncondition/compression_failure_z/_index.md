@@ -3,15 +3,13 @@ title: compression_failure_z property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_z/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_z/
 is_root: false
 ---
 
 ## compression_failure_z property
 
-
-CompressionFailureZ
 ### Definition:
 ```python
 @property

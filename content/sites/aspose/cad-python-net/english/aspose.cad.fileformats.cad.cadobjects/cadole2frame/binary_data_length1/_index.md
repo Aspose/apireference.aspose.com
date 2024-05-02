@@ -3,8 +3,8 @@ title: binary_data_length1 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.cad.cadobjects/cadole2frame/binary_data_length1/
+weight: 110
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/binary_data_length1/
 is_root: false
 ---
 

@@ -3,15 +3,15 @@ title: dimtxt property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 800
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtxt/
+weight: 820
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtxt/
 is_root: false
 ---
 
 ## dimtxt property
 
 
-Gets or sets The dimtxt  - 140
+Gets or sets the height of dimension text.
 ### Definition:
 ```python
 @property

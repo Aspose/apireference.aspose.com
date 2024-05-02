@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.dgn/dgncircle/center/
+url: /python-net/aspose.cad.fileformats.dgn/dgncircle/center/
 is_root: false
 ---
 

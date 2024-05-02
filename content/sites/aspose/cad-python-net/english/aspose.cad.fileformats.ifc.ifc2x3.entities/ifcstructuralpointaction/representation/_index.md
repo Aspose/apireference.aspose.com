@@ -3,15 +3,13 @@ title: representation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralpointaction/representation/
+weight: 170
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralpointaction/representation/
 is_root: false
 ---
 
 ## representation property
 
-
-Representation
 ### Definition:
 ```python
 @property

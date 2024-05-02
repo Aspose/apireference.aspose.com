@@ -3,8 +3,8 @@ title: strings property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/strings/
+weight: 210
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/strings/
 is_root: false
 ---
 

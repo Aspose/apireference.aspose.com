@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.fileformats.cad.cadconsts/cadentitytypename/
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadentitytypename/
 is_root: false
 ---
 
@@ -79,6 +79,8 @@ The CadEntityTypeName type exposes the following members:
 | SWEPTSURFACE | Swept surface |
 | LOFTEDSURFACE | The lofted surface |
 | ACIDBLOCKREFERENCE | ACIDBLOCKREFERENCE |
+| ARC_DIMENSION | ARC_DIMENSION entity |
+| EMBEDDEDIMAGE | EMBEDDED IMAGE entity |
 
 
 

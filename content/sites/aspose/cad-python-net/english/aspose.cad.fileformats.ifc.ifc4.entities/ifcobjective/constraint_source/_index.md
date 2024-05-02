@@ -3,15 +3,13 @@ title: constraint_source property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcobjective/constraint_source/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjective/constraint_source/
 is_root: false
 ---
 
 ## constraint_source property
 
-
-ConstraintSource
 ### Definition:
 ```python
 @property

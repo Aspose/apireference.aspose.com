@@ -3,15 +3,13 @@ title: map_zone property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_zone/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_zone/
 is_root: false
 ---
 
 ## map_zone property
 
-
-MapZone
 ### Definition:
 ```python
 @property

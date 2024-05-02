@@ -3,8 +3,8 @@ title: custom_print_scale_denominator property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/custom_print_scale_denominator/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/custom_print_scale_denominator/
 is_root: false
 ---
 

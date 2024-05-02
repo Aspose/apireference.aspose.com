@@ -3,8 +3,8 @@ title: dog_leg_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadernode/dog_leg_length/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/dog_leg_length/
 is_root: false
 ---
 

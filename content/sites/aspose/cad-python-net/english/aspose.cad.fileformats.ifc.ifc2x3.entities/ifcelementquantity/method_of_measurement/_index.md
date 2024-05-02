@@ -3,15 +3,13 @@ title: method_of_measurement property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementquantity/method_of_measurement/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementquantity/method_of_measurement/
 is_root: false
 ---
 
 ## method_of_measurement property
 
-
-MethodOfMeasurement
 ### Definition:
 ```python
 @property

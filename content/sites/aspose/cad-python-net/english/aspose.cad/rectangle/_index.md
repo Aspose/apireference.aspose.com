@@ -3,8 +3,8 @@ title: Rectangle class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /aspose.cad/rectangle/
+weight: 490
+url: /python-net/aspose.cad/rectangle/
 is_root: false
 ---
 

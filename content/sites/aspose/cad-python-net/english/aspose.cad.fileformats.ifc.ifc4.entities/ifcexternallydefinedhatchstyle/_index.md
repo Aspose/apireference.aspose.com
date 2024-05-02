@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2480
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcExternallyDefinedHatchStyle
 
 **Inheritance:** [`IfcExternallyDefinedHatchStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle) → 
 [`IfcExternalReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,15 +31,17 @@ The IfcExternallyDefinedHatchStyle type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/entity_label) | Gets the entity label. |
-| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/location) | Location |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/identification) | Identification |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/location) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/identification) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/name) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcExternalReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference)
 * class [`IfcExternallyDefinedHatchStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle)

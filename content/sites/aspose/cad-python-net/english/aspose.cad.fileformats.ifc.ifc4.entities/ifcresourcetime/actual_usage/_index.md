@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/actual_usage/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/actual_usage/
 is_root: false
 ---
 
 ## actual_usage property
 
-
-ActualUsage
 ### Definition:
 ```python
 @property

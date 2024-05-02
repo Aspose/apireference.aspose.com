@@ -3,8 +3,8 @@ title: arrow_start_symbol_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/arrow_start_symbol_handle/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/arrow_start_symbol_handle/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: longitudinal_bar_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_spacing/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_spacing/
 is_root: false
 ---
 
 ## longitudinal_bar_spacing property
 
-
-LongitudinalBarSpacing
 ### Definition:
 ```python
 @property

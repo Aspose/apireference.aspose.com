@@ -3,8 +3,8 @@ title: hash_algorithm property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/hash_algorithm/
+weight: 30
+url: /python-net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/hash_algorithm/
 is_root: false
 ---
 

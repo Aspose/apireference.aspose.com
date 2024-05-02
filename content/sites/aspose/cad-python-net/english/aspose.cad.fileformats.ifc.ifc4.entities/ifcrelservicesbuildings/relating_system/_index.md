@@ -3,15 +3,13 @@ title: relating_system property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelservicesbuildings/relating_system/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelservicesbuildings/relating_system/
 is_root: false
 ---
 
 ## relating_system property
 
-
-RelatingSystem
 ### Definition:
 ```python
 @property

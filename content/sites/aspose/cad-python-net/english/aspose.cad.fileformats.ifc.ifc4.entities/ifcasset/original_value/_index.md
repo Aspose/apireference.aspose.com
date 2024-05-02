@@ -3,15 +3,13 @@ title: original_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcasset/original_value/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasset/original_value/
 is_root: false
 ---
 
 ## original_value property
 
-
-OriginalValue
 ### Definition:
 ```python
 @property

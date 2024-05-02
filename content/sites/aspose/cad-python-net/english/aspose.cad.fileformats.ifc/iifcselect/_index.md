@@ -4,13 +4,13 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad.fileformats.ifc/iifcselect/
+url: /python-net/aspose.cad.fileformats.ifc/iifcselect/
 is_root: false
 ---
 
 ## IIfcSelect class
 
-IIfcSelect
+IIfcSelect is a base interface for all IFC select entities
 
 
 

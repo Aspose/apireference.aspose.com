@@ -3,15 +3,13 @@ title: polygonal_boundary property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalboundedhalfspace/polygonal_boundary/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalboundedhalfspace/polygonal_boundary/
 is_root: false
 ---
 
 ## polygonal_boundary property
 
-
-PolygonalBoundary
 ### Definition:
 ```python
 @property

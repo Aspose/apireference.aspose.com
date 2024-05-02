@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/rtvs_properties_prefix/
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/rtvs_properties_prefix/
 is_root: false
 ---
 

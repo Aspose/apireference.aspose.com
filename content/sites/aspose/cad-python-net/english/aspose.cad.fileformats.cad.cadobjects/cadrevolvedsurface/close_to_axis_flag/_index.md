@@ -3,8 +3,8 @@ title: close_to_axis_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/close_to_axis_flag/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/close_to_axis_flag/
 is_root: false
 ---
 

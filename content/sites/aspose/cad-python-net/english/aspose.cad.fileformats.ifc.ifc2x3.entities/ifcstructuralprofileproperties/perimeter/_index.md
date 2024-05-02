@@ -3,15 +3,13 @@ title: perimeter property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/perimeter/
+weight: 180
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/perimeter/
 is_root: false
 ---
 
 ## perimeter property
 
-
-Perimeter
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1620
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcCurveBoundedPlane
 [`IfcSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurface) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,9 +34,11 @@ The IfcCurveBoundedPlane type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/entity_label) | Gets the entity label. |
-| [basis_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/basis_surface) | BasisSurface |
-| [outer_boundary](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/outer_boundary) | OuterBoundary |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [basis_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/basis_surface) |  |
+| [outer_boundary](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/outer_boundary) |  |
 
 
 
@@ -44,7 +46,7 @@ The IfcCurveBoundedPlane type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcBoundedSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundedsurface)
 * class [`IfcCurveBoundedPlane`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)
 * class [`IfcSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurface)

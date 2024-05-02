@@ -3,15 +3,13 @@ title: solar_transmittance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/solar_transmittance/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/solar_transmittance/
 is_root: false
 ---
 
 ## solar_transmittance property
 
-
-SolarTransmittance
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: camera_plottable property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.cad.cadtables/cadviewtableobject/camera_plottable/
+weight: 130
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/camera_plottable/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /aspose.cad/matrix/type_general_transform/
+url: /python-net/aspose.cad/matrix/type_general_transform/
 is_root: false
 ---
 

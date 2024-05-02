@@ -3,15 +3,13 @@ title: start_profile property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/start_profile/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/start_profile/
 is_root: false
 ---
 
 ## start_profile property
 
-
-StartProfile
 ### Definition:
 ```python
 @property

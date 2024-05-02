@@ -4,9 +4,23 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadobjects/cadarc/__init__/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarc/__init__/
 is_root: false
 ---
+
+## __init__ {#}
+
+Initializes a new instance of the [`CadArc`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadarc) class.
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
 
 ## __init__ {#aspose.cad.fileformats.cad.cadobjects.Cad3DPoint-float-float-float}
 

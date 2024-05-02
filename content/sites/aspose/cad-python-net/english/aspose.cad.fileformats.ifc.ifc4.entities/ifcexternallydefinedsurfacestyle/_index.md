@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2490
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcExternallyDefinedSurfaceStyle
 
 **Inheritance:** [`IfcExternallyDefinedSurfaceStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle) → 
 [`IfcExternalReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,15 +31,17 @@ The IfcExternallyDefinedSurfaceStyle type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/entity_label) | Gets the entity label. |
-| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/location) | Location |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/identification) | Identification |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/location) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/identification) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/name) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcExternalReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference)
 * class [`IfcExternallyDefinedSurfaceStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle)

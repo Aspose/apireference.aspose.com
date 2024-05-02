@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_top_border_color/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_top_border_color/
 is_root: false
 ---
 

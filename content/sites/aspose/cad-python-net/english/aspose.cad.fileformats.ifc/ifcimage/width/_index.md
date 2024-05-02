@@ -3,8 +3,8 @@ title: width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.ifc/ifcimage/width/
+weight: 290
+url: /python-net/aspose.cad.fileformats.ifc/ifcimage/width/
 is_root: false
 ---
 
@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the image width.
+It is calculated from all the entities
+
+### Example 
+
+
+Gets the width of the image.
 ### Definition:
 ```python
 @property

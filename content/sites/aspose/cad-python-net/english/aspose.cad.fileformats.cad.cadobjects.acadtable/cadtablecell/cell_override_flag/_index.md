@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_override_flag/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_override_flag/
 is_root: false
 ---
 

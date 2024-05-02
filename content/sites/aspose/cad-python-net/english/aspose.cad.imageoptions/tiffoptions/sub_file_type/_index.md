@@ -3,8 +3,8 @@ title: sub_file_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad.imageoptions/tiffoptions/sub_file_type/
+weight: 550
+url: /python-net/aspose.cad.imageoptions/tiffoptions/sub_file_type/
 is_root: false
 ---
 

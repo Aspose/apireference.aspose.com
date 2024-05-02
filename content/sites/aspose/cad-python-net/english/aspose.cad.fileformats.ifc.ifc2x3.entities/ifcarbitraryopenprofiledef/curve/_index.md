@@ -3,15 +3,13 @@ title: curve property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryopenprofiledef/curve/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryopenprofiledef/curve/
 is_root: false
 ---
 
 ## curve property
 
-
-Curve
 ### Definition:
 ```python
 @property

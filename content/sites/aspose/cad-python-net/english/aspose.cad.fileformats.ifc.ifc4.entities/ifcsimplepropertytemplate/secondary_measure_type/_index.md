@@ -3,15 +3,13 @@ title: secondary_measure_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/secondary_measure_type/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/secondary_measure_type/
 is_root: false
 ---
 
 ## secondary_measure_type property
 
-
-SecondaryMeasureType
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: orientation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.stp.items/stepfacebound/orientation/
+weight: 70
+url: /python-net/aspose.cad.fileformats.stp.items/stepfacebound/orientation/
 is_root: false
 ---
 

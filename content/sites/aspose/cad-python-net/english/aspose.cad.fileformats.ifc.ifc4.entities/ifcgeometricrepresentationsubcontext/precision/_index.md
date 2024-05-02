@@ -3,15 +3,13 @@ title: precision property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationsubcontext/precision/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationsubcontext/precision/
 is_root: false
 ---
 
 ## precision property
 
-
-Precision
 ### Definition:
 ```python
 @property

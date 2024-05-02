@@ -3,8 +3,8 @@ title: definition_point1 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/definition_point1/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/definition_point1/
 is_root: false
 ---
 

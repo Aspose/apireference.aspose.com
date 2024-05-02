@@ -3,8 +3,8 @@ title: attribute040 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute040/
+weight: 90
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute040/
 is_root: false
 ---
 

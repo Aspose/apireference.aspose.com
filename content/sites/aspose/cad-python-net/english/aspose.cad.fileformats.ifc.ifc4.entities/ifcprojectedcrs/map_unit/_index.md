@@ -3,15 +3,13 @@ title: map_unit property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_unit/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_unit/
 is_root: false
 ---
 
 ## map_unit property
 
-
-MapUnit
 ### Definition:
 ```python
 @property

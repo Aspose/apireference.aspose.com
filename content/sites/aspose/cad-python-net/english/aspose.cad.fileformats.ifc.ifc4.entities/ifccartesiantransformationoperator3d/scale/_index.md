@@ -3,15 +3,13 @@ title: scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator3d/scale/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator3d/scale/
 is_root: false
 ---
 
 ## scale property
 
-
-Scale
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: scale_y property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects/caddwfunderlay/scale_y/
+weight: 490
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddwfunderlay/scale_y/
 is_root: false
 ---
 

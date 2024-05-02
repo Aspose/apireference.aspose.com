@@ -3,8 +3,8 @@ title: organization property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.stp/stpimage/organization/
+weight: 260
+url: /python-net/aspose.cad.fileformats.stp/stpimage/organization/
 is_root: false
 ---
 

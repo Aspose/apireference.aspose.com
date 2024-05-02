@@ -3,15 +3,13 @@ title: relating_monetary_unit property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/relating_monetary_unit/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/relating_monetary_unit/
 is_root: false
 ---
 
 ## relating_monetary_unit property
 
-
-RelatingMonetaryUnit
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: shadow_mode property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/shadow_mode/
+weight: 580
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/shadow_mode/
 is_root: false
 ---
 

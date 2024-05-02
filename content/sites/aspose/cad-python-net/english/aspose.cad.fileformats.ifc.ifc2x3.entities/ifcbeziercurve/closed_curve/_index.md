@@ -3,15 +3,13 @@ title: closed_curve property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbeziercurve/closed_curve/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbeziercurve/closed_curve/
 is_root: false
 ---
 
 ## closed_curve property
 
-
-ClosedCurve
 ### Definition:
 ```python
 @property

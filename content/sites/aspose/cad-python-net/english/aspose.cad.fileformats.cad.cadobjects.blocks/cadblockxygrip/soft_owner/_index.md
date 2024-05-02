@@ -3,8 +3,8 @@ title: soft_owner property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockxygrip/soft_owner/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockxygrip/soft_owner/
 is_root: false
 ---
 

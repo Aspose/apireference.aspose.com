@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad/cache/max_disk_space_for_cache/
+url: /python-net/aspose.cad/cache/max_disk_space_for_cache/
 is_root: false
 ---
 

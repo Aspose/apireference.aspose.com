@@ -3,8 +3,8 @@ title: view_label_alignment property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_label_alignment/
+weight: 510
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_label_alignment/
 is_root: false
 ---
 

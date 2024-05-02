@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2820
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcFlowMeter
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,16 +38,18 @@ The IfcFlowMeter type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/tag) | Tag |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/tag) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/predefined_type) |  |
 
 
 
@@ -56,7 +58,7 @@ The IfcFlowMeter type exposes the following members:
 * class [`IfcDistributionElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionelement)
 * class [`IfcDistributionFlowElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionflowelement)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFlowController`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowcontroller)
 * class [`IfcFlowMeter`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)

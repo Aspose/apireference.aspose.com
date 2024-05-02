@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.imageoptions/multipageoptions/mode/
+url: /python-net/aspose.cad.imageoptions/multipageoptions/mode/
 is_root: false
 ---
 

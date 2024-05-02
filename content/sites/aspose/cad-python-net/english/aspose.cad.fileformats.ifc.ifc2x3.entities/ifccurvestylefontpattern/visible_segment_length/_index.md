@@ -3,15 +3,13 @@ title: visible_segment_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefontpattern/visible_segment_length/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefontpattern/visible_segment_length/
 is_root: false
 ---
 
 ## visible_segment_length property
 
-
-VisibleSegmentLength
 ### Definition:
 ```python
 @property

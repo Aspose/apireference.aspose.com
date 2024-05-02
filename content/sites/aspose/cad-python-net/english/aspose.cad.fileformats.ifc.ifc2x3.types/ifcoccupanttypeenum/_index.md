@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2570
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcoccupanttypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcoccupanttypeenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcOccupantTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ASSIGNEE | ASSIGNEE |
-| ASSIGNOR | ASSIGNOR |
-| LESSEE | LESSEE |
-| LESSOR | LESSOR |
-| LETTINGAGENT | LETTINGAGENT |
-| OWNER | OWNER |
-| TENANT | TENANT |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ASSIGNEE |  |
+| ASSIGNOR |  |
+| LESSEE |  |
+| LESSOR |  |
+| LETTINGAGENT |  |
+| OWNER |  |
+| TENANT |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

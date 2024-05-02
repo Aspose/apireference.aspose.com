@@ -3,15 +3,13 @@ title: fraction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/fraction/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/fraction/
 is_root: false
 ---
 
 ## fraction property
 
-
-Fraction
 ### Definition:
 ```python
 @property

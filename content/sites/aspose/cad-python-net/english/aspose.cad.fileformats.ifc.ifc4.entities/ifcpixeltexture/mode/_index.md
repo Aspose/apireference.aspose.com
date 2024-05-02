@@ -3,15 +3,13 @@ title: mode property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpixeltexture/mode/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpixeltexture/mode/
 is_root: false
 ---
 
 ## mode property
 
-
-Mode
 ### Definition:
 ```python
 @property

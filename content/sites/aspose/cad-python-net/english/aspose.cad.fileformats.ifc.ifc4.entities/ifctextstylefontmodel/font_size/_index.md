@@ -3,15 +3,13 @@ title: font_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/font_size/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/font_size/
 is_root: false
 ---
 
 ## font_size property
 
-
-FontSize
 ### Definition:
 ```python
 @property

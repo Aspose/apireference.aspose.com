@@ -3,8 +3,8 @@ title: StepToroidalSurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.fileformats.stp.items/steptoroidalsurface/
+weight: 740
+url: /python-net/aspose.cad.fileformats.stp.items/steptoroidalsurface/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepToroidalSurface type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steptoroidalsurface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steptoroidalsurface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steptoroidalsurface/id) |  |
 | [toroidal_surface](/cad/python-net/aspose.cad.fileformats.stp.items/steptoroidalsurface/toroidal_surface) |  |
 | [major_radius](/cad/python-net/aspose.cad.fileformats.stp.items/steptoroidalsurface/major_radius) |  |
 | [minor_radius](/cad/python-net/aspose.cad.fileformats.stp.items/steptoroidalsurface/minor_radius) |  |

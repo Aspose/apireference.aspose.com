@@ -3,8 +3,8 @@ title: proxy_bytes_count property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/proxy_bytes_count/
+weight: 570
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/proxy_bytes_count/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the proxy bytes count.
+
+### Remarks 
+
+
+Equals null if this entity is not a Proxy Entity.
 ### Definition:
 ```python
 @property

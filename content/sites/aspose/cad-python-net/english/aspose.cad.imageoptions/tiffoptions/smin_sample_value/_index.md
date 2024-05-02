@@ -3,8 +3,8 @@ title: smin_sample_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad.imageoptions/tiffoptions/smin_sample_value/
+weight: 500
+url: /python-net/aspose.cad.imageoptions/tiffoptions/smin_sample_value/
 is_root: false
 ---
 

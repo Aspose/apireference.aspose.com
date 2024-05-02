@@ -3,8 +3,8 @@ title: CadRenderResult class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.imageoptions/cadrenderresult/
+weight: 40
+url: /python-net/aspose.cad.imageoptions/cadrenderresult/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4320
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcReinforcementBarProperties
 
 
 **Inheritance:** [`IfcReinforcementBarProperties`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,17 +30,19 @@ The IfcReinforcementBarProperties type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/entity_label) | Gets the entity label. |
-| [total_cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/total_cross_section_area) | TotalCrossSectionArea |
-| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/steel_grade) | SteelGrade |
-| [bar_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/bar_surface) | BarSurface |
-| [effective_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/effective_depth) | EffectiveDepth |
-| [nominal_bar_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/nominal_bar_diameter) | NominalBarDiameter |
-| [bar_count](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/bar_count) | BarCount |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [total_cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/total_cross_section_area) |  |
+| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/steel_grade) |  |
+| [bar_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/bar_surface) |  |
+| [effective_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/effective_depth) |  |
+| [nominal_bar_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/nominal_bar_diameter) |  |
+| [bar_count](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/bar_count) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcReinforcementBarProperties`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties)

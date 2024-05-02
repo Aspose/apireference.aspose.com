@@ -3,8 +3,8 @@ title: object_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/object_handle/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/object_handle/
 is_root: false
 ---
 

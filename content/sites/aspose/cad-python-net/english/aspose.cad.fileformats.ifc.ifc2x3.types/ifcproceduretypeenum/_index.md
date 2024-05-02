@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2660
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcproceduretypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcproceduretypeenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcProcedureTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ADVICE_CAUTION | ADVICE_CAUTION |
-| ADVICE_NOTE | ADVICE_NOTE |
-| ADVICE_WARNING | ADVICE_WARNING |
-| CALIBRATION | CALIBRATION |
-| DIAGNOSTIC | DIAGNOSTIC |
-| SHUTDOWN | SHUTDOWN |
-| STARTUP | STARTUP |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ADVICE_CAUTION |  |
+| ADVICE_NOTE |  |
+| ADVICE_WARNING |  |
+| CALIBRATION |  |
+| DIAGNOSTIC |  |
+| SHUTDOWN |  |
+| STARTUP |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

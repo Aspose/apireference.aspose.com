@@ -3,15 +3,13 @@ title: notation_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationnotationfacet/notation_value/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationnotationfacet/notation_value/
 is_root: false
 ---
 
 ## notation_value property
 
-
-NotationValue
 ### Definition:
 ```python
 @property

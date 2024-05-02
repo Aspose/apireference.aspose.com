@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.imageoptions/bmpoptions/layers/
+url: /python-net/aspose.cad.imageoptions/bmpoptions/layers/
 is_root: false
 ---
 

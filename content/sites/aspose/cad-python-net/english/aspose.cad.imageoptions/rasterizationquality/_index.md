@@ -3,8 +3,8 @@ title: RasterizationQuality class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.imageoptions/rasterizationquality/
+weight: 350
+url: /python-net/aspose.cad.imageoptions/rasterizationquality/
 is_root: false
 ---
 

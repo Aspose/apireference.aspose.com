@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/rectangle/ceiling/
+url: /python-net/aspose.cad/rectangle/ceiling/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: creating_actor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjective/creating_actor/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjective/creating_actor/
 is_root: false
 ---
 
 ## creating_actor property
 
-
-CreatingActor
 ### Definition:
 ```python
 @property

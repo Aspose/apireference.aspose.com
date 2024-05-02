@@ -3,8 +3,8 @@ title: opacity_map_mapper_transform_matrix property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 670
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacity_map_mapper_transform_matrix/
+weight: 760
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacity_map_mapper_transform_matrix/
 is_root: false
 ---
 

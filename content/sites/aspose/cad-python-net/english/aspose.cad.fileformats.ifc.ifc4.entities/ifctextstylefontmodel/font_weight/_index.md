@@ -3,15 +3,13 @@ title: font_weight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/font_weight/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/font_weight/
 is_root: false
 ---
 
 ## font_weight property
 
-
-FontWeight
 ### Definition:
 ```python
 @property

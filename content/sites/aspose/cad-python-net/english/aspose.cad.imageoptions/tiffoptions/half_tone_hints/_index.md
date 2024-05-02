@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /aspose.cad.imageoptions/tiffoptions/half_tone_hints/
+url: /python-net/aspose.cad.imageoptions/tiffoptions/half_tone_hints/
 is_root: false
 ---
 

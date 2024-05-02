@@ -4,20 +4,14 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/childs/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/childs/
 is_root: false
 ---
 
 ## childs property
 
 
-Gets childs of the composite element
-### Definition:
-```python
-@property
-def childs(self):
-    ...
-```
+Gets the collection of a nested entities.
 
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](../../)

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ IfcAsymmetricIShapeProfileDef
 **Inheritance:** [`IfcAsymmetricIShapeProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef) → 
 [`IfcParameterizedProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef) → 
 [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -32,28 +32,30 @@ The IfcAsymmetricIShapeProfileDef type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/entity_label) | Gets the entity label. |
-| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/profile_type) | ProfileType |
-| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/profile_name) | ProfileName |
-| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/position) | Position |
-| [bottom_flange_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_width) | BottomFlangeWidth |
-| [overall_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/overall_depth) | OverallDepth |
-| [web_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/web_thickness) | WebThickness |
-| [bottom_flange_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_thickness) | BottomFlangeThickness |
-| [bottom_flange_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_fillet_radius) | BottomFlangeFilletRadius |
-| [top_flange_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_width) | TopFlangeWidth |
-| [top_flange_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_thickness) | TopFlangeThickness |
-| [top_flange_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_fillet_radius) | TopFlangeFilletRadius |
-| [bottom_flange_edge_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_edge_radius) | BottomFlangeEdgeRadius |
-| [bottom_flange_slope](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_slope) | BottomFlangeSlope |
-| [top_flange_edge_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_edge_radius) | TopFlangeEdgeRadius |
-| [top_flange_slope](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_slope) | TopFlangeSlope |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/profile_type) |  |
+| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/profile_name) |  |
+| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/position) |  |
+| [bottom_flange_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_width) |  |
+| [overall_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/overall_depth) |  |
+| [web_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/web_thickness) |  |
+| [bottom_flange_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_thickness) |  |
+| [bottom_flange_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_fillet_radius) |  |
+| [top_flange_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_width) |  |
+| [top_flange_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_thickness) |  |
+| [top_flange_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_fillet_radius) |  |
+| [bottom_flange_edge_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_edge_radius) |  |
+| [bottom_flange_slope](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_slope) |  |
+| [top_flange_edge_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_edge_radius) |  |
+| [top_flange_slope](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_slope) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcAsymmetricIShapeProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcParameterizedProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef)
 * class [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef)

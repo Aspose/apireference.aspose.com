@@ -3,8 +3,8 @@ title: light_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadlight/light_name/
+weight: 390
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlight/light_name/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1350
-url: /aspose.cad.exif/jpegexifdata/y_cb_cr_coefficients/
+url: /python-net/aspose.cad.exif/jpegexifdata/y_cb_cr_coefficients/
 is_root: false
 ---
 

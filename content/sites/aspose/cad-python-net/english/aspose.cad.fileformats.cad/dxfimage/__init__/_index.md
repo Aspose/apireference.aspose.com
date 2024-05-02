@@ -4,22 +4,25 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad/dxfimage/__init__/
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## __init__ {#aspose.cad.fileformats.cad.cadconsts.CadAcadVersion}
 
 Initializes a new instance of the [`DxfImage`](/cad/python-net/aspose.cad.fileformats.cad/dxfimage) class.
 
 
 
 ```python
-def __init__(self):
+def __init__(self, cad_version):
     ...
 ```
 
 
+| Parameter | Type | Description |
+| :- | :- | :- |
+| cad_version | aspose.cad.fileformats.cad.cadconsts.CadAcadVersion |  |
 
 
 

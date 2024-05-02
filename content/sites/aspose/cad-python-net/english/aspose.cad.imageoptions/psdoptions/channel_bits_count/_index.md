@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imageoptions/psdoptions/channel_bits_count/
+url: /python-net/aspose.cad.imageoptions/psdoptions/channel_bits_count/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/radius/
+weight: 190
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/radius/
 is_root: false
 ---
 
 ## radius property
 
-
-Radius
 ### Definition:
 ```python
 @property

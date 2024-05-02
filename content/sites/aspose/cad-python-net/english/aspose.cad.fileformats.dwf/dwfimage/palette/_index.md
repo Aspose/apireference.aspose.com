@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 240
-url: /aspose.cad.fileformats.dwf/dwfimage/palette/
+url: /python-net/aspose.cad.fileformats.dwf/dwfimage/palette/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the color palette.
+
+### Example 
+
+
+Asserts DGN drawing contains palette
 ### Definition:
 ```python
 @property

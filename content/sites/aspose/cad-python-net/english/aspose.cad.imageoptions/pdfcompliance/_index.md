@@ -3,8 +3,8 @@ title: PdfCompliance enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.imageoptions/pdfcompliance/
+weight: 490
+url: /python-net/aspose.cad.imageoptions/pdfcompliance/
 is_root: false
 ---
 

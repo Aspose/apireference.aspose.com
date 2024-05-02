@@ -3,15 +3,13 @@ title: overall_width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcwindow/overall_width/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindow/overall_width/
 is_root: false
 ---
 
 ## overall_width property
 
-
-OverallWidth
 ### Definition:
 ```python
 @property

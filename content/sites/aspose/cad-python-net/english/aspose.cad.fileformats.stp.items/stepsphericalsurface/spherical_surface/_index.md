@@ -3,8 +3,8 @@ title: spherical_surface property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.stp.items/stepsphericalsurface/spherical_surface/
+weight: 80
+url: /python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/spherical_surface/
 is_root: false
 ---
 

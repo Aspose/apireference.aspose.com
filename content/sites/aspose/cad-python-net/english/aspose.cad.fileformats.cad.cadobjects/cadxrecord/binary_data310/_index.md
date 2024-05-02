@@ -3,8 +3,8 @@ title: binary_data310 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadxrecord/binary_data310/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadxrecord/binary_data310/
 is_root: false
 ---
 

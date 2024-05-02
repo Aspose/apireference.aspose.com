@@ -3,15 +3,13 @@ title: entity_label property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc/iifcentity/entity_label/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc/iifcentity/entity_label/
 is_root: false
 ---
 
 ## entity_label property
 
-
-Gets the entity label.
 ### Definition:
 ```python
 @property

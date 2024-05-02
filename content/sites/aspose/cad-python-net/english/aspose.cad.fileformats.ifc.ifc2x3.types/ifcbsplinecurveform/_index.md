@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1770
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcbsplinecurveform/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbsplinecurveform/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcBSplineCurveForm type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| POLYLINE_FORM | POLYLINE_FORM |
-| CIRCULAR_ARC | CIRCULAR_ARC |
-| ELLIPTIC_ARC | ELLIPTIC_ARC |
-| PARABOLIC_ARC | PARABOLIC_ARC |
-| HYPERBOLIC_ARC | HYPERBOLIC_ARC |
-| UNSPECIFIED | UNSPECIFIED |
+| POLYLINE_FORM |  |
+| CIRCULAR_ARC |  |
+| ELLIPTIC_ARC |  |
+| PARABOLIC_ARC |  |
+| HYPERBOLIC_ARC |  |
+| UNSPECIFIED |  |
 
 
 

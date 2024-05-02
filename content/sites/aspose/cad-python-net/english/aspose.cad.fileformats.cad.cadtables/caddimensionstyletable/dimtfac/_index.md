@@ -3,15 +3,15 @@ title: dimtfac property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 660
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtfac/
+weight: 680
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtfac/
 is_root: false
 ---
 
 ## dimtfac property
 
 
-Gets or sets The dimtfac - 146
+Gets or sets a scale factor for the text height of fractions and tolerance values relative to the dimension text height.
 ### Definition:
 ```python
 @property

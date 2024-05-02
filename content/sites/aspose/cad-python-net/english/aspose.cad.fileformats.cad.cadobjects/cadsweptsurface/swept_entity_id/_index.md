@@ -3,8 +3,8 @@ title: swept_entity_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 630
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/swept_entity_id/
+weight: 700
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/swept_entity_id/
 is_root: false
 ---
 

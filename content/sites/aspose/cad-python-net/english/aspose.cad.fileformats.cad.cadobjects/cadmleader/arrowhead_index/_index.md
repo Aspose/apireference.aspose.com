@@ -3,8 +3,8 @@ title: arrowhead_index property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/arrowhead_index/
+weight: 90
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/arrowhead_index/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/main_object_subent_type/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/main_object_subent_type/
 is_root: false
 ---
 

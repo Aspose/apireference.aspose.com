@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 350
-url: /aspose.cad/rastercachedimage/save_cmyk_pixels/
+url: /python-net/aspose.cad/rastercachedimage/save_cmyk_pixels/
 is_root: false
 ---
 

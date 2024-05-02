@@ -3,8 +3,8 @@ title: m_text_style_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/m_text_style_id/
+weight: 610
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/m_text_style_id/
 is_root: false
 ---
 

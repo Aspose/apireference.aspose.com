@@ -3,8 +3,8 @@ title: object_id350 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
-url: /aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/object_id350/
+weight: 480
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/object_id350/
 is_root: false
 ---
 

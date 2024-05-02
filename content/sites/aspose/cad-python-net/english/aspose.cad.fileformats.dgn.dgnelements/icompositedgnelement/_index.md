@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 320
-url: /aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/
 is_root: false
 ---
 
@@ -19,15 +19,17 @@ The ICompositeDgnElement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/childs) | Gets childs of the composite element |
+| [id](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/childs) | Gets the collection of a nested entities. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_child](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/add_child/#aspose.cad.fileformats.dgn.dgnelements.DgnElement) | Adds element as a child |
+| [add_child](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/add_child/#aspose.cad.fileformats.dgn.dgnelements.DgnElementBase) | Adds element as a child |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](..)
+* class [`IDrawingEntity`](/cad/python-net/aspose.cad/idrawingentity)

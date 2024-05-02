@@ -3,8 +3,8 @@ title: material property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadobjects/caddgnunderlay/material/
+weight: 380
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddgnunderlay/material/
 is_root: false
 ---
 

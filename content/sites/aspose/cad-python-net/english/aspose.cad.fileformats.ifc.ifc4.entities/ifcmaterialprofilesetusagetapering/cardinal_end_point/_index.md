@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusagetapering/cardinal_end_point/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusagetapering/cardinal_end_point/
 is_root: false
 ---
 
 ## cardinal_end_point property
 
-
-CardinalEndPoint
 ### Definition:
 ```python
 @property

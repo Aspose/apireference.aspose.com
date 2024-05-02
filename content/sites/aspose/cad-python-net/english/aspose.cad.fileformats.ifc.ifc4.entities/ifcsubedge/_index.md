@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6700
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcSubedge
 [`IfcEdge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedge) → 
 [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctopologicalrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,17 +33,19 @@ The IfcSubedge type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/entity_label) | Gets the entity label. |
-| [edge_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/edge_start) | EdgeStart |
-| [edge_end](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/edge_end) | EdgeEnd |
-| [parent_edge](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/parent_edge) | ParentEdge |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [edge_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/edge_start) |  |
+| [edge_end](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/edge_end) |  |
+| [parent_edge](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/parent_edge) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcEdge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedge)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)
 * class [`IfcSubedge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge)
 * class [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctopologicalrepresentationitem)

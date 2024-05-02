@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.stp.items/stepaxis2placement2d/
+url: /python-net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepAxis2Placement2D type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/id) |  |
 | [location](/cad/python-net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/location) |  |
 | [ref_direction](/cad/python-net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/ref_direction) |  |
 

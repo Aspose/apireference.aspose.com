@@ -3,15 +3,13 @@ title: user_defined_grade property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/user_defined_grade/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/user_defined_grade/
 is_root: false
 ---
 
 ## user_defined_grade property
 
-
-UserDefinedGrade
 ### Definition:
 ```python
 @property

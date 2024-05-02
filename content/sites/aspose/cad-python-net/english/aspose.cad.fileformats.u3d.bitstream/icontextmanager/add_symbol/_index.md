@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad.fileformats.u3d.bitstream/icontextmanager/add_symbol/
+url: /python-net/aspose.cad.fileformats.u3d.bitstream/icontextmanager/add_symbol/
 is_root: false
 ---
 

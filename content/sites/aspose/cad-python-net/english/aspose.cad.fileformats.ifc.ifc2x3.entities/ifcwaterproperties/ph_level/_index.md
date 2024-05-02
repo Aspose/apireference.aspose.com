@@ -3,15 +3,13 @@ title: ph_level property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/ph_level/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/ph_level/
 is_root: false
 ---
 
 ## ph_level property
 
-
-PHLevel
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: transmittance_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1030
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/transmittance_scale/
+weight: 1130
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/transmittance_scale/
 is_root: false
 ---
 

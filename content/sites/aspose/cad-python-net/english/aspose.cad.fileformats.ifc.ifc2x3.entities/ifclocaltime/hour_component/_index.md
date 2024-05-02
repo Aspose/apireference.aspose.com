@@ -3,15 +3,13 @@ title: hour_component property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/hour_component/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/hour_component/
 is_root: false
 ---
 
 ## hour_component property
 
-
-HourComponent
 ### Definition:
 ```python
 @property

@@ -3,15 +3,15 @@ title: dimexe property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimexe/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimexe/
 is_root: false
 ---
 
 ## dimexe property
 
 
-Gets or sets The dimexe - 044
+Gets or sets the distance between extension line and dimension line.
 ### Definition:
 ```python
 @property

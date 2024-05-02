@@ -3,15 +3,13 @@ title: texture_transform property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/texture_transform/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/texture_transform/
 is_root: false
 ---
 
 ## texture_transform property
 
-
-TextureTransform
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: transform_matrix_sweep property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 610
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/transform_matrix_sweep/
+weight: 680
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/transform_matrix_sweep/
 is_root: false
 ---
 

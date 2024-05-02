@@ -3,15 +3,16 @@ title: dimtm property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 700
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtm/
+weight: 720
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtm/
 is_root: false
 ---
 
 ## dimtm property
 
 
-Gets or sets The dimtm - 048
+Gets or sets the minimum tolerance limit for dimension text.
+Applied when Dimtol or Dimlim is on.
 ### Definition:
 ```python
 @property

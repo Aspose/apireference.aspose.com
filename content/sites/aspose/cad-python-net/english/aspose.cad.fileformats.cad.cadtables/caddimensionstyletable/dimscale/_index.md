@@ -3,15 +3,16 @@ title: dimscale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 580
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimscale/
+weight: 600
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimscale/
 is_root: false
 ---
 
 ## dimscale property
 
 
-Gets or sets The dimscale - 040
+Gets or sets the scale of the dimension.
+Applicable to the sizes, distances, and offsets but not to the measured lengths, coordinates, and angles.
 ### Definition:
 ```python
 @property

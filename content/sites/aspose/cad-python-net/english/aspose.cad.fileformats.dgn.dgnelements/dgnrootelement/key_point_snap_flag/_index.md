@@ -3,8 +3,8 @@ title: key_point_snap_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/key_point_snap_flag/
+weight: 190
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/key_point_snap_flag/
 is_root: false
 ---
 

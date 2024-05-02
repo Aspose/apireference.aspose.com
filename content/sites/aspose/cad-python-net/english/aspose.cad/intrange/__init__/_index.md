@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad/intrange/__init__/
+url: /python-net/aspose.cad/intrange/__init__/
 is_root: false
 ---
 

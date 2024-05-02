@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 880
-url: /aspose.cad.exif/jpegexifdata/lens_specification/
+url: /python-net/aspose.cad.exif/jpegexifdata/lens_specification/
 is_root: false
 ---
 

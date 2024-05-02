@@ -3,8 +3,8 @@ title: font_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/font_id/
+weight: 50
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/font_id/
 is_root: false
 ---
 

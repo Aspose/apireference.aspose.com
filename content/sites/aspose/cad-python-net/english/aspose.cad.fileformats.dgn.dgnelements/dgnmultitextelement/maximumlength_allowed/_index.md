@@ -3,8 +3,8 @@ title: maximumlength_allowed property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/maximumlength_allowed/
+weight: 140
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/maximumlength_allowed/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: face_opacity_level property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/face_opacity_level/
+weight: 380
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/face_opacity_level/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.cadexceptions.imageformats/psdimageresourceexception/resource/
+url: /python-net/aspose.cad.cadexceptions.imageformats/psdimageresourceexception/resource/
 is_root: false
 ---
 

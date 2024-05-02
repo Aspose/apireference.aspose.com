@@ -3,15 +3,13 @@ title: vertical_datum property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/vertical_datum/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/vertical_datum/
 is_root: false
 ---
 
 ## vertical_datum property
 
-
-VerticalDatum
 ### Definition:
 ```python
 @property

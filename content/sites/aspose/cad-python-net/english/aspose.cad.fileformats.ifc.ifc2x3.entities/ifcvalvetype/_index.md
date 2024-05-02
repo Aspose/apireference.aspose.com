@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6310
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcValveType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,15 +38,17 @@ The IfcValveType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/element_type) | ElementType |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/element_type) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/predefined_type) |  |
 
 
 
@@ -55,7 +57,7 @@ The IfcValveType type exposes the following members:
 * class [`IfcDistributionElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdistributionelementtype)
 * class [`IfcDistributionFlowElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdistributionflowelementtype)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementtype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFlowControllerType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcflowcontrollertype)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)

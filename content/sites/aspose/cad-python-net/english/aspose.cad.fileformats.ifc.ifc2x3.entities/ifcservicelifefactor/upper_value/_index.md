@@ -3,15 +3,13 @@ title: upper_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcservicelifefactor/upper_value/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcservicelifefactor/upper_value/
 is_root: false
 ---
 
 ## upper_value property
 
-
-UpperValue
 ### Definition:
 ```python
 @property

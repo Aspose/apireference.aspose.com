@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1000
-url: /aspose.cad.exif/jpegexifdata/photometric_interpretation/
+url: /python-net/aspose.cad.exif/jpegexifdata/photometric_interpretation/
 is_root: false
 ---
 

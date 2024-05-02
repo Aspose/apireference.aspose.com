@@ -3,8 +3,8 @@ title: vector_rasterization_options property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.imageoptions/webpoptions/vector_rasterization_options/
+weight: 180
+url: /python-net/aspose.cad.imageoptions/webpoptions/vector_rasterization_options/
 is_root: false
 ---
 

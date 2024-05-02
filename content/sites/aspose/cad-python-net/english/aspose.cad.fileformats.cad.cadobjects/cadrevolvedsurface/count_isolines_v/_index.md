@@ -3,8 +3,8 @@ title: count_isolines_v property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/count_isolines_v/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/count_isolines_v/
 is_root: false
 ---
 

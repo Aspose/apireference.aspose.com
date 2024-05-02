@@ -3,8 +3,8 @@ title: unit_direction_vector property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity/unit_direction_vector/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity/unit_direction_vector/
 is_root: false
 ---
 

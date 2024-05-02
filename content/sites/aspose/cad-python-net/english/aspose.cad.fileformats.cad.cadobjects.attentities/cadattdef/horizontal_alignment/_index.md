@@ -3,8 +3,8 @@ title: horizontal_alignment property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/horizontal_alignment/
+weight: 310
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/horizontal_alignment/
 is_root: false
 ---
 

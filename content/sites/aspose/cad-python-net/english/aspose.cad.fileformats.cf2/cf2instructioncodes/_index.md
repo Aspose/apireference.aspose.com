@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.cad.fileformats.cf2/cf2instructioncodes/
+url: /python-net/aspose.cad.fileformats.cf2/cf2instructioncodes/
 is_root: false
 ---
 

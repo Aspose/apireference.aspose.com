@@ -3,8 +3,8 @@ title: has_mapping_coordinates property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.threeds.elements/threedsmesh/has_mapping_coordinates/
+weight: 80
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsmesh/has_mapping_coordinates/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: referenced_document property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/referenced_document/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/referenced_document/
 is_root: false
 ---
 
 ## referenced_document property
 
-
-ReferencedDocument
 ### Definition:
 ```python
 @property

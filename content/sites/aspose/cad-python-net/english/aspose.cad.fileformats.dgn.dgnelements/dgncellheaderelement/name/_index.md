@@ -3,8 +3,8 @@ title: name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/name/
+weight: 110
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/name/
 is_root: false
 ---
 

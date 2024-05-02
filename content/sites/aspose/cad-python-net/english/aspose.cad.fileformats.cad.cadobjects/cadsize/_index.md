@@ -3,8 +3,8 @@ title: CadSize class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1040
-url: /aspose.cad.fileformats.cad.cadobjects/cadsize/
+weight: 1140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsize/
 is_root: false
 ---
 

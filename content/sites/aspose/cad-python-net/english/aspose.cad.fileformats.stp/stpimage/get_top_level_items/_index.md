@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.fileformats.stp/stpimage/get_top_level_items/
+url: /python-net/aspose.cad.fileformats.stp/stpimage/get_top_level_items/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: constant_attenuation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcespot/constant_attenuation/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcespot/constant_attenuation/
 is_root: false
 ---
 
 ## constant_attenuation property
 
-
-ConstantAttenuation
 ### Definition:
 ```python
 @property

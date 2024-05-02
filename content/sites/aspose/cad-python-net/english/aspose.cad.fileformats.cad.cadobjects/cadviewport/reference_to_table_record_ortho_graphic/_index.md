@@ -3,8 +3,8 @@ title: reference_to_table_record_ortho_graphic property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 570
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/reference_to_table_record_ortho_graphic/
+weight: 640
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/reference_to_table_record_ortho_graphic/
 is_root: false
 ---
 

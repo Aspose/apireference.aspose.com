@@ -3,8 +3,8 @@ title: StepConic class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.stp.items/stepconic/
+weight: 160
+url: /python-net/aspose.cad.fileformats.stp.items/stepconic/
 is_root: false
 ---
 
@@ -28,6 +28,7 @@ The StepConic type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepconic/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepconic/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepconic/id) |  |
 
 
 

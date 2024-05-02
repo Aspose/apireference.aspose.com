@@ -3,8 +3,8 @@ title: License class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad/license/
+weight: 340
+url: /python-net/aspose.cad/license/
 is_root: false
 ---
 

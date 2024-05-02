@@ -3,8 +3,8 @@ title: image_contrast property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadrasterimage/image_contrast/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/image_contrast/
 is_root: false
 ---
 

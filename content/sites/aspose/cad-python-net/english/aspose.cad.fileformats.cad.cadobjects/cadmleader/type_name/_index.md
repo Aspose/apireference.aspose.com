@@ -3,8 +3,8 @@ title: type_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 750
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/type_name/
+weight: 830
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/type_name/
 is_root: false
 ---
 

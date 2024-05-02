@@ -3,15 +3,13 @@ title: top_flange_fillet_radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasymmetricishapeprofiledef/top_flange_fillet_radius/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasymmetricishapeprofiledef/top_flange_fillet_radius/
 is_root: false
 ---
 
 ## top_flange_fillet_radius property
 
-
-TopFlangeFilletRadius
 ### Definition:
 ```python
 @property

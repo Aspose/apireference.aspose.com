@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad/loadoptions/unload_on_dispose/
+url: /python-net/aspose.cad/loadoptions/unload_on_dispose/
 is_root: false
 ---
 

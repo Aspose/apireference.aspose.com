@@ -3,8 +3,8 @@ title: number_of_vertices property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadobjects/cadmultiline/number_of_vertices/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/number_of_vertices/
 is_root: false
 ---
 

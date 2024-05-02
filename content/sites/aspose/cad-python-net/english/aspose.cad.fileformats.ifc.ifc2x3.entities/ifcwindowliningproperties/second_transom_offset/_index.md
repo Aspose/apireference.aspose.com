@@ -3,15 +3,13 @@ title: second_transom_offset property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_transom_offset/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_transom_offset/
 is_root: false
 ---
 
 ## second_transom_offset property
 
-
-SecondTransomOffset
 ### Definition:
 ```python
 @property

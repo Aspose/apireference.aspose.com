@@ -3,8 +3,8 @@ title: LinePatternPredef enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.iges.drawables/linepatternpredef/
+weight: 80
+url: /python-net/aspose.cad.fileformats.iges.drawables/linepatternpredef/
 is_root: false
 ---
 

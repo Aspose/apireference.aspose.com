@@ -3,15 +3,13 @@ title: related_port property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsports/related_port/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsports/related_port/
 is_root: false
 ---
 
 ## related_port property
 
-
-RelatedPort
 ### Definition:
 ```python
 @property

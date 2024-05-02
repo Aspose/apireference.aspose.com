@@ -3,8 +3,8 @@ title: dogleg_vector property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadernode/dogleg_vector/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/dogleg_vector/
 is_root: false
 ---
 

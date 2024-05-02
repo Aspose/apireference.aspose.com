@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imageoptions/pngoptions/bit_depth/
+url: /python-net/aspose.cad.imageoptions/pngoptions/bit_depth/
 is_root: false
 ---
 

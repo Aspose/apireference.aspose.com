@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.fileformats.iges/igesimage/container/
+url: /python-net/aspose.cad.fileformats.iges/igesimage/container/
 is_root: false
 ---
 
@@ -17,6 +17,11 @@ Gets the [`Image`](/cad/python-net/aspose.cad/image) container.
 
 
 If this property is not null it indicates the image is contained whithin another image.
+
+### Example 
+
+
+Gets root (top-level) drawing where current drawing is nested in
 ### Definition:
 ```python
 @property

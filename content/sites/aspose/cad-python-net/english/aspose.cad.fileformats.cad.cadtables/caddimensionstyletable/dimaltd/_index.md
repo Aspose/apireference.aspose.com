@@ -3,15 +3,16 @@ title: dimaltd property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimaltd/
+weight: 150
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimaltd/
 is_root: false
 ---
 
 ## dimaltd property
 
 
-Gets or sets The dimaltd - 171
+Gets or sets the number of decimal places in alternate units. 
+If Dimalt is turned on, this value sets the number of digits displayed after the decimal point.
 ### Definition:
 ```python
 @property

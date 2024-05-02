@@ -3,15 +3,13 @@ title: point_parameter property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointoncurve/point_parameter/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointoncurve/point_parameter/
 is_root: false
 ---
 
 ## point_parameter property
 
-
-PointParameter
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3170
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ IfcMechanicalFastenerType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -37,14 +37,16 @@ The IfcMechanicalFastenerType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/element_type) | ElementType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype/element_type) |  |
 
 
 
@@ -52,7 +54,7 @@ The IfcMechanicalFastenerType type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcElementComponentType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementcomponenttype)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementtype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFastenerType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfastenertype)
 * class [`IfcMechanicalFastenerType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastenertype)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)

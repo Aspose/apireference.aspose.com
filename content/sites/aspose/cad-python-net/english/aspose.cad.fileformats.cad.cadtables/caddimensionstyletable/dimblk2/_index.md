@@ -3,15 +3,15 @@ title: dimblk2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimblk2/
+weight: 300
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimblk2/
 is_root: false
 ---
 
 ## dimblk2 property
 
 
-Gets or sets the dimblk2.
+Gets or sets the arrowhead for the second dimension line if Dimsah is 1.
 ### Definition:
 ```python
 @property

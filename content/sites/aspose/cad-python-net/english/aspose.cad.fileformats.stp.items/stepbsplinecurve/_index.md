@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.stp.items/stepbsplinecurve/
+url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/
 is_root: false
 ---
 
@@ -29,6 +29,7 @@ The StepBSplineCurve type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/id) |  |
 | [degree](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/degree) |  |
 | [control_points_list](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/control_points_list) |  |
 | [curve_form](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/curve_form) |  |

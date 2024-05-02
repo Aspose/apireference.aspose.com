@@ -3,15 +3,15 @@ title: layer_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/layer_name/
+weight: 300
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/layer_name/
 is_root: false
 ---
 
 ## layer_name property
 
 
-Gets or sets the name of the layer.
+Gets or sets the name of the layer the entity belongs to.
 ### Definition:
 ```python
 @property

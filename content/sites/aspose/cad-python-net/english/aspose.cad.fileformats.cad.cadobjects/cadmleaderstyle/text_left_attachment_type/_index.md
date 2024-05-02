@@ -3,8 +3,8 @@ title: text_left_attachment_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 780
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/text_left_attachment_type/
+weight: 850
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/text_left_attachment_type/
 is_root: false
 ---
 

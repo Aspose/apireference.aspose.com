@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.imageoptions/gifoptions/is_palette_sorted/
+url: /python-net/aspose.cad.imageoptions/gifoptions/is_palette_sorted/
 is_root: false
 ---
 

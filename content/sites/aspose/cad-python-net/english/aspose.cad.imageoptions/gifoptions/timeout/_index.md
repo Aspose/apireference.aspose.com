@@ -3,8 +3,8 @@ title: timeout property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.imageoptions/gifoptions/timeout/
+weight: 180
+url: /python-net/aspose.cad.imageoptions/gifoptions/timeout/
 is_root: false
 ---
 

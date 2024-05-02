@@ -3,8 +3,8 @@ title: m_line_style_elements property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/m_line_style_elements/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/m_line_style_elements/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: view_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 560
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/view_direction/
+weight: 590
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/view_direction/
 is_root: false
 ---
 

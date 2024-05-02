@@ -3,8 +3,8 @@ title: sweep_entity_transform_commuted_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 600
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/sweep_entity_transform_commuted_flag/
+weight: 670
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/sweep_entity_transform_commuted_flag/
 is_root: false
 ---
 

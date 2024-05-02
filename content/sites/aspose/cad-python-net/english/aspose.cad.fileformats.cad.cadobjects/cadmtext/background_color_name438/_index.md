@@ -3,8 +3,8 @@ title: background_color_name438 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/background_color_name438/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/background_color_name438/
 is_root: false
 ---
 

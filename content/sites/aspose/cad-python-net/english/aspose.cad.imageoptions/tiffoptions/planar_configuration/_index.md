@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 380
-url: /aspose.cad.imageoptions/tiffoptions/planar_configuration/
+url: /python-net/aspose.cad.imageoptions/tiffoptions/planar_configuration/
 is_root: false
 ---
 

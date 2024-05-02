@@ -3,8 +3,8 @@ title: target_format property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.imageoptions/wmfoptions/target_format/
+weight: 110
+url: /python-net/aspose.cad.imageoptions/wmfoptions/target_format/
 is_root: false
 ---
 

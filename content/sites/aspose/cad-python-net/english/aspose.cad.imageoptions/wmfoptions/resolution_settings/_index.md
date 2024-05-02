@@ -3,8 +3,8 @@ title: resolution_settings property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.imageoptions/wmfoptions/resolution_settings/
+weight: 80
+url: /python-net/aspose.cad.imageoptions/wmfoptions/resolution_settings/
 is_root: false
 ---
 

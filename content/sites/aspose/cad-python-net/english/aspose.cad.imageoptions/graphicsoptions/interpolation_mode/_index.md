@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imageoptions/graphicsoptions/interpolation_mode/
+url: /python-net/aspose.cad.imageoptions/graphicsoptions/interpolation_mode/
 is_root: false
 ---
 

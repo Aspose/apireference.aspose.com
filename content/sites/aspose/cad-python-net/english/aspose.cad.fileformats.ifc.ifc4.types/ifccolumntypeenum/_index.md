@@ -3,8 +3,8 @@ title: IfcColumnTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2230
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifccolumntypeenum/
+weight: 2240
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifccolumntypeenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcColumnTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| COLUMN | COLUMN |
-| PILASTER | PILASTER |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| COLUMN |  |
+| PILASTER |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

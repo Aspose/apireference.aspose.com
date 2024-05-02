@@ -3,8 +3,8 @@ title: IRasterImageArgb32PixelLoader class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad/irasterimageargb32pixelloader/
+weight: 280
+url: /python-net/aspose.cad/irasterimageargb32pixelloader/
 is_root: false
 ---
 

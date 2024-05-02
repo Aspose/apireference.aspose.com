@@ -3,8 +3,8 @@ title: text_just_h property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 610
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/text_just_h/
+weight: 680
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/text_just_h/
 is_root: false
 ---
 

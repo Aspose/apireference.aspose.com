@@ -3,8 +3,8 @@ title: surface_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/surface_type/
+weight: 120
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/surface_type/
 is_root: false
 ---
 

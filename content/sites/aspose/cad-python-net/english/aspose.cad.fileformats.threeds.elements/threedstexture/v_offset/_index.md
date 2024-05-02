@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.threeds.elements/threedstexture/v_offset/
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedstexture/v_offset/
 is_root: false
 ---
 

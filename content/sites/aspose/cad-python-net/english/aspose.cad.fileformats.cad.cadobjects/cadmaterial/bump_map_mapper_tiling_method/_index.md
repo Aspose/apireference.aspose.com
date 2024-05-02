@@ -3,8 +3,8 @@ title: bump_map_mapper_tiling_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/bump_map_mapper_tiling_method/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/bump_map_mapper_tiling_method/
 is_root: false
 ---
 

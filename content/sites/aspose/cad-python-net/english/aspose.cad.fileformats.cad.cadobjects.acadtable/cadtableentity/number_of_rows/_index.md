@@ -3,8 +3,8 @@ title: number_of_rows property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/number_of_rows/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/number_of_rows/
 is_root: false
 ---
 

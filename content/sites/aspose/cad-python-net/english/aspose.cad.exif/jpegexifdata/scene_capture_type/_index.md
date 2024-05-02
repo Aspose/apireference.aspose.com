@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1120
-url: /aspose.cad.exif/jpegexifdata/scene_capture_type/
+url: /python-net/aspose.cad.exif/jpegexifdata/scene_capture_type/
 is_root: false
 ---
 

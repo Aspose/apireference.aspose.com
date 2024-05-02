@@ -3,15 +3,13 @@ title: y_dim property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctrapeziumprofiledef/y_dim/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctrapeziumprofiledef/y_dim/
 is_root: false
 ---
 
 ## y_dim property
 
-
-YDim
 ### Definition:
 ```python
 @property

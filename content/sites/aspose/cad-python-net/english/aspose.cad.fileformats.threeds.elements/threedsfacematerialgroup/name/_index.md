@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.threeds.elements/threedsfacematerialgroup/name/
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsfacematerialgroup/name/
 is_root: false
 ---
 

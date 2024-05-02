@@ -3,8 +3,8 @@ title: diffuse_transform_matrix property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffuse_transform_matrix/
+weight: 380
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffuse_transform_matrix/
 is_root: false
 ---
 

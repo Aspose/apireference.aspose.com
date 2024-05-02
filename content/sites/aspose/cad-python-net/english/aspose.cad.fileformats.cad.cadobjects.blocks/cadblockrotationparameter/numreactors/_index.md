@@ -3,8 +3,8 @@ title: numreactors property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotationparameter/numreactors/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotationparameter/numreactors/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1760
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcassemblyplaceenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcassemblyplaceenum/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The IfcAssemblyPlaceEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| SITE | SITE |
-| FACTORY | FACTORY |
-| NOTDEFINED | NOTDEFINED |
+| SITE |  |
+| FACTORY |  |
+| NOTDEFINED |  |
 
 
 

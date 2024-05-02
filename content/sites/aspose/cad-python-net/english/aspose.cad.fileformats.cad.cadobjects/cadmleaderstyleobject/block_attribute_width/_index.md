@@ -3,8 +3,8 @@ title: block_attribute_width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/block_attribute_width/
+weight: 270
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/block_attribute_width/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: CadPolylineFlag enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadconsts/cadpolylineflag/
+weight: 380
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadpolylineflag/
 is_root: false
 ---
 

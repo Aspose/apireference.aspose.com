@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 310
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcdescriptivemeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdescriptivemeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcDescriptiveMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdescriptivemeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdescriptivemeasure/value) |  |
 
 
 

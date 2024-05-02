@@ -3,8 +3,8 @@ title: extrusion_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects/cadtext/extrusion_direction/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtext/extrusion_direction/
 is_root: false
 ---
 

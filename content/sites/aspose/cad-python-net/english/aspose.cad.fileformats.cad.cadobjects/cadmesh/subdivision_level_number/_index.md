@@ -3,8 +3,8 @@ title: subdivision_level_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad.cadobjects/cadmesh/subdivision_level_number/
+weight: 540
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmesh/subdivision_level_number/
 is_root: false
 ---
 

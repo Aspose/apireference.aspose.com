@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3260
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcNamedUnit
 
 
 **Inheritance:** [`IfcNamedUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -24,13 +24,15 @@ The IfcNamedUnit type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/entity_label) | Gets the entity label. |
-| [dimensions](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/dimensions) | Dimensions |
-| [unit_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/unit_type) | UnitType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [dimensions](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/dimensions) |  |
+| [unit_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/unit_type) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcNamedUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit)

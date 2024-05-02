@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axis_lock_angel/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axis_lock_angel/
 is_root: false
 ---
 

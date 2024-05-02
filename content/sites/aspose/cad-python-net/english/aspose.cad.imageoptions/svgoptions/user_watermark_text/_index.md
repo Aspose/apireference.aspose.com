@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.cad.imageoptions/svgoptions/user_watermark_text/
+url: /python-net/aspose.cad.imageoptions/svgoptions/user_watermark_text/
 is_root: false
 ---
 

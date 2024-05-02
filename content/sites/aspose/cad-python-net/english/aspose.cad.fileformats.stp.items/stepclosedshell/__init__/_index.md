@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.stp.items/stepclosedshell/__init__/
+url: /python-net/aspose.cad.fileformats.stp.items/stepclosedshell/__init__/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str-System.Collections.Generic.List<StepAdvancedFace>}
+## __init__ {#str-System.Collections.Generic.List<StepFace>}
 
 Constructs a new instance of StepClosedShell
 
@@ -37,7 +37,7 @@ def __init__(self, name, faces):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str |  |
-| faces | System.Collections.Generic.List<StepAdvancedFace> |  |
+| faces | System.Collections.Generic.List<StepFace> |  |
 
 
 

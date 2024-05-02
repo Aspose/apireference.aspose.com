@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4720
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcPropertyReferenceValue
 [`IfcSimpleProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimpleproperty) → 
 [`IfcProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty) → 
 [`IfcPropertyAbstraction`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,17 +33,19 @@ The IfcPropertyReferenceValue type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/description) | Description |
-| [usage_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/usage_name) | UsageName |
-| [property_reference](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/property_reference) | PropertyReference |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/description) |  |
+| [usage_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/usage_name) |  |
+| [property_reference](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue/property_reference) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty)
 * class [`IfcPropertyAbstraction`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction)
 * class [`IfcPropertyReferenceValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyreferencevalue)

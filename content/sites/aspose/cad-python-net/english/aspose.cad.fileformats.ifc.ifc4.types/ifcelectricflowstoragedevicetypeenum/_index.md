@@ -3,8 +3,8 @@ title: IfcElectricFlowStorageDeviceTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2630
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcelectricflowstoragedevicetypeenum/
+weight: 2640
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricflowstoragedevicetypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcElectricFlowStorageDeviceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BATTERY | BATTERY |
-| CAPACITORBANK | CAPACITORBANK |
-| HARMONICFILTER | HARMONICFILTER |
-| INDUCTORBANK | INDUCTORBANK |
-| UPS | UPS |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BATTERY |  |
+| CAPACITORBANK |  |
+| HARMONICFILTER |  |
+| INDUCTORBANK |  |
+| UPS |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

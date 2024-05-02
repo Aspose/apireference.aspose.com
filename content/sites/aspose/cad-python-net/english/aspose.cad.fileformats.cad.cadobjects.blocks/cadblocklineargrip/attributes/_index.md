@@ -3,8 +3,8 @@ title: attributes property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblocklineargrip/attributes/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblocklineargrip/attributes/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: StepEdgeLoop class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.stp.items/stepedgeloop/
+weight: 250
+url: /python-net/aspose.cad.fileformats.stp.items/stepedgeloop/
 is_root: false
 ---
 
@@ -34,6 +34,7 @@ The StepEdgeLoop type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgeloop/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgeloop/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgeloop/id) |  |
 | [edge_list](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgeloop/edge_list) |  |
 
 

@@ -3,15 +3,13 @@ title: poisson_ratio property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/poisson_ratio/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/poisson_ratio/
 is_root: false
 ---
 
 ## poisson_ratio property
 
-
-PoissonRatio
 ### Definition:
 ```python
 @property

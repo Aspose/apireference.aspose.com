@@ -3,8 +3,8 @@ title: WmfOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.imageoptions/wmfoptions/
+weight: 460
+url: /python-net/aspose.cad.imageoptions/wmfoptions/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ The wmf file format creation options.
 
 
 **Inheritance:** [`WmfOptions`](/cad/python-net/aspose.cad.imageoptions/wmfoptions) → 
-[`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+[`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 
 
 
@@ -39,8 +39,10 @@ The WmfOptions type exposes the following members:
 | [palette](/cad/python-net/aspose.cad.imageoptions/wmfoptions/palette) | Gets or sets the color palette. |
 | [resolution_settings](/cad/python-net/aspose.cad.imageoptions/wmfoptions/resolution_settings) | Gets or sets the resolution settings. |
 | [vector_rasterization_options](/cad/python-net/aspose.cad.imageoptions/wmfoptions/vector_rasterization_options) | Gets or sets the vector rasterization options. |
+| [watermark_guard_options](/cad/python-net/aspose.cad.imageoptions/wmfoptions/watermark_guard_options) | Gets or sets the blind watermark options. |
 | [timeout](/cad/python-net/aspose.cad.imageoptions/wmfoptions/timeout) | Timeout value for export operation (in milliseconds) |
 | [pc_3_file](/cad/python-net/aspose.cad.imageoptions/wmfoptions/pc_3_file) | Gets or sets the PC3 file full name. |
+| [render_to_graphics_bound](/cad/python-net/aspose.cad.imageoptions/wmfoptions/render_to_graphics_bound) | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [user_watermark_text](/cad/python-net/aspose.cad.imageoptions/wmfoptions/user_watermark_text) | Text for user-generated watermark |
 | [user_watermark_color](/cad/python-net/aspose.cad.imageoptions/wmfoptions/user_watermark_color) | Color for user-generated watermark |
 | [bits_per_pixel](/cad/python-net/aspose.cad.imageoptions/wmfoptions/bits_per_pixel) | Gets or sets the image bits per pixel count. |
@@ -49,5 +51,5 @@ The WmfOptions type exposes the following members:
 
 ### See Also
 * module [`aspose.cad.imageoptions`](..)
-* class [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+* class [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 * class [`WmfOptions`](/cad/python-net/aspose.cad.imageoptions/wmfoptions)

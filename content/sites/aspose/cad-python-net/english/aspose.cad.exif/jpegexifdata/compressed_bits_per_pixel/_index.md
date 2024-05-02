@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.cad.exif/jpegexifdata/compressed_bits_per_pixel/
+url: /python-net/aspose.cad.exif/jpegexifdata/compressed_bits_per_pixel/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2220
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricmotortypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricmotortypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcElectricMotorTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| DC | DC |
-| INDUCTION | INDUCTION |
-| POLYPHASE | POLYPHASE |
-| RELUCTANCESYNCHRONOUS | RELUCTANCESYNCHRONOUS |
-| SYNCHRONOUS | SYNCHRONOUS |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| DC |  |
+| INDUCTION |  |
+| POLYPHASE |  |
+| RELUCTANCESYNCHRONOUS |  |
+| SYNCHRONOUS |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

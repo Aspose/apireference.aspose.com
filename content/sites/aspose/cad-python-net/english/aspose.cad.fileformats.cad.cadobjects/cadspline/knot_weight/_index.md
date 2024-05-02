@@ -3,8 +3,8 @@ title: knot_weight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/knot_weight/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/knot_weight/
 is_root: false
 ---
 

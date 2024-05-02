@@ -3,8 +3,8 @@ title: tiling_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1010
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/tiling_method/
+weight: 1110
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/tiling_method/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2360
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcEvaporativeCoolerType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,15 +38,17 @@ The IfcEvaporativeCoolerType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/element_type) | ElementType |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/element_type) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/predefined_type) |  |
 
 
 
@@ -56,7 +58,7 @@ The IfcEvaporativeCoolerType type exposes the following members:
 * class [`IfcDistributionFlowElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionflowelementtype)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype)
 * class [`IfcEnergyConversionDeviceType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcenergyconversiondevicetype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcEvaporativeCoolerType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot)

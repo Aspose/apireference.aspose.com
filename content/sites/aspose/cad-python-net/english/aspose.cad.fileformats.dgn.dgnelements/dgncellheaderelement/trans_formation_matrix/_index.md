@@ -3,8 +3,8 @@ title: trans_formation_matrix property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/trans_formation_matrix/
+weight: 160
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/trans_formation_matrix/
 is_root: false
 ---
 

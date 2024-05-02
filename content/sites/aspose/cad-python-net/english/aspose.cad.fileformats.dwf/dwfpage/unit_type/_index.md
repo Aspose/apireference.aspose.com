@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.fileformats.dwf/dwfpage/unit_type/
+url: /python-net/aspose.cad.fileformats.dwf/dwfpage/unit_type/
 is_root: false
 ---
 

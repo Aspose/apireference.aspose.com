@@ -3,15 +3,13 @@ title: flange_edge_radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flange_edge_radius/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flange_edge_radius/
 is_root: false
 ---
 
 ## flange_edge_radius property
 
-
-FlangeEdgeRadius
 ### Definition:
 ```python
 @property

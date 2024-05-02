@@ -3,8 +3,8 @@ title: attribute_102_values property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute_102_values/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute_102_values/
 is_root: false
 ---
 

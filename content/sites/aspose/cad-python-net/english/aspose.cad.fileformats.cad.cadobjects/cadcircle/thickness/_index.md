@@ -3,8 +3,8 @@ title: thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadcircle/thickness/
+weight: 480
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadcircle/thickness/
 is_root: false
 ---
 

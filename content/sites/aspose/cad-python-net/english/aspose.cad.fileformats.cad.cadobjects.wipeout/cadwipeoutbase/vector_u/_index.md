@@ -3,8 +3,8 @@ title: vector_u property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/vector_u/
+weight: 570
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/vector_u/
 is_root: false
 ---
 

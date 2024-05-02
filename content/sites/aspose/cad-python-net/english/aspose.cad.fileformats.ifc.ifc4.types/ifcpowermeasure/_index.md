@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1200
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcpowermeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpowermeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcPowerMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpowermeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpowermeasure/value) |  |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.ifc.ifc4.types/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/
 is_root: false
 ---
 
@@ -168,6 +168,7 @@ The namespace contains classes and methods of IFC4 types.
 | [`IfcSpecularExponent`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcspecularexponent) | IfcSpecularExponent |
 | [`IfcSpecularHighlightSelect`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcspecularhighlightselect) | IfcSpecularHighlightSelect |
 | [`IfcSpecularRoughness`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcspecularroughness) | IfcSpecularRoughness |
+| [`IfcStrippedOptional`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcstrippedoptional) | IfcStrippedOptional |
 | [`IfcStructuralActivityAssignmentSelect`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralactivityassignmentselect) | IfcStructuralActivityAssignmentSelect |
 | [`IfcStyleAssignmentSelect`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcstyleassignmentselect) | IfcStyleAssignmentSelect |
 | [`IfcSurfaceOrFaceSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcsurfaceorfacesurface) | IfcSurfaceOrFaceSurface |

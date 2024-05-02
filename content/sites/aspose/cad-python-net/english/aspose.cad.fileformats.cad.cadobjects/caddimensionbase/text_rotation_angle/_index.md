@@ -3,8 +3,8 @@ title: text_rotation_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 560
-url: /aspose.cad.fileformats.cad.cadobjects/caddimensionbase/text_rotation_angle/
+weight: 640
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/text_rotation_angle/
 is_root: false
 ---
 

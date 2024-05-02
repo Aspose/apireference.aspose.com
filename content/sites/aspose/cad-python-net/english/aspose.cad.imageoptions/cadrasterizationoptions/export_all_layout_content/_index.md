@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad.imageoptions/cadrasterizationoptions/export_all_layout_content/
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/export_all_layout_content/
 is_root: false
 ---
 

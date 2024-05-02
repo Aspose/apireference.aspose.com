@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4620
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcProjectedCRS
 
 **Inheritance:** [`IfcProjectedCRS`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs) → 
 [`IfcCoordinateReferenceSystem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,19 +31,21 @@ The IfcProjectedCRS type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/description) | Description |
-| [geodetic_datum](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/geodetic_datum) | GeodeticDatum |
-| [vertical_datum](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/vertical_datum) | VerticalDatum |
-| [map_projection](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_projection) | MapProjection |
-| [map_zone](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_zone) | MapZone |
-| [map_unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_unit) | MapUnit |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/description) |  |
+| [geodetic_datum](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/geodetic_datum) |  |
+| [vertical_datum](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/vertical_datum) |  |
+| [map_projection](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_projection) |  |
+| [map_zone](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_zone) |  |
+| [map_unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_unit) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcCoordinateReferenceSystem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcProjectedCRS`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs)

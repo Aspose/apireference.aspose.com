@@ -3,8 +3,8 @@ title: StepSphericalSurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 460
-url: /aspose.cad.fileformats.stp.items/stepsphericalsurface/
+weight: 630
+url: /python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepSphericalSurface type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/id) |  |
 | [spherical_surface](/cad/python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/spherical_surface) |  |
 | [radius](/cad/python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/radius) |  |
 | [axis](/cad/python-net/aspose.cad.fileformats.stp.items/stepsphericalsurface/axis) |  |

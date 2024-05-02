@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.cad.imageoptions/svgoptions/source/
+url: /python-net/aspose.cad.imageoptions/svgoptions/source/
 is_root: false
 ---
 

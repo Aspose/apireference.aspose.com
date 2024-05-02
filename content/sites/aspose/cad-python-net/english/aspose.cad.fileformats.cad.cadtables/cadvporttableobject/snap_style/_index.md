@@ -3,8 +3,8 @@ title: snap_style property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snap_style/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snap_style/
 is_root: false
 ---
 

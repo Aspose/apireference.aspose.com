@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/attrib_def_soft_pointer/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/attrib_def_soft_pointer/
 is_root: false
 ---
 

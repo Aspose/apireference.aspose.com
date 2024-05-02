@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotbezier/
+url: /python-net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotbezier/
 is_root: false
 ---
 

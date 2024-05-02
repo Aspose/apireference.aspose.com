@@ -3,8 +3,8 @@ title: IfcMedicalDeviceTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3040
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcmedicaldevicetypeenum/
+weight: 3050
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcmedicaldevicetypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcMedicalDeviceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AIRSTATION | AIRSTATION |
-| FEEDAIRUNIT | FEEDAIRUNIT |
-| OXYGENGENERATOR | OXYGENGENERATOR |
-| OXYGENPLANT | OXYGENPLANT |
-| VACUUMSTATION | VACUUMSTATION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| AIRSTATION |  |
+| FEEDAIRUNIT |  |
+| OXYGENGENERATOR |  |
+| OXYGENPLANT |  |
+| VACUUMSTATION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

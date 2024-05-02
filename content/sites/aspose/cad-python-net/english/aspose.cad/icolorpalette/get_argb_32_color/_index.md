@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/icolorpalette/get_argb_32_color/
+url: /python-net/aspose.cad/icolorpalette/get_argb_32_color/
 is_root: false
 ---
 

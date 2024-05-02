@@ -3,15 +3,13 @@ title: source_description property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/source_description/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/source_description/
 is_root: false
 ---
 
 ## source_description property
 
-
-SourceDescription
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: thermal_expansion_coefficient property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/thermal_expansion_coefficient/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/thermal_expansion_coefficient/
 is_root: false
 ---
 
 ## thermal_expansion_coefficient property
 
-
-ThermalExpansionCoefficient
 ### Definition:
 ```python
 @property

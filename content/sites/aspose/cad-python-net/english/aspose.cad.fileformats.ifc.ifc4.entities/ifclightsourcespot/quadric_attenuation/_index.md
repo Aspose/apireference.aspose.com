@@ -3,15 +3,13 @@ title: quadric_attenuation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/quadric_attenuation/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/quadric_attenuation/
 is_root: false
 ---
 
 ## quadric_attenuation property
 
-
-QuadricAttenuation
 ### Definition:
 ```python
 @property

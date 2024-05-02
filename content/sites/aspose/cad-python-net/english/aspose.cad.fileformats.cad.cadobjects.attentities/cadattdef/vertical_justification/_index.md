@@ -3,8 +3,8 @@ title: vertical_justification property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 670
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/vertical_justification/
+weight: 730
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/vertical_justification/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: align_space property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/align_space/
+weight: 50
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/align_space/
 is_root: false
 ---
 

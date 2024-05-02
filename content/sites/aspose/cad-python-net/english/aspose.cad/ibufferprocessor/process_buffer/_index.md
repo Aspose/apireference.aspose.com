@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/ibufferprocessor/process_buffer/
+url: /python-net/aspose.cad/ibufferprocessor/process_buffer/
 is_root: false
 ---
 

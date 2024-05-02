@@ -3,8 +3,8 @@ title: IfcAnalysisTheoryTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2010
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcanalysistheorytypeenum/
+weight: 2020
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcanalysistheorytypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcAnalysisTheoryTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| FIRST_ORDER_THEORY | FIRST_ORDER_THEORY |
-| SECOND_ORDER_THEORY | SECOND_ORDER_THEORY |
-| THIRD_ORDER_THEORY | THIRD_ORDER_THEORY |
-| FULL_NONLINEAR_THEORY | FULL_NONLINEAR_THEORY |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| FIRST_ORDER_THEORY |  |
+| SECOND_ORDER_THEORY |  |
+| THIRD_ORDER_THEORY |  |
+| FULL_NONLINEAR_THEORY |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

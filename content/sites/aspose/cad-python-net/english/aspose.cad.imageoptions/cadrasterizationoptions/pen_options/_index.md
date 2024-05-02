@@ -3,8 +3,8 @@ title: pen_options property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.imageoptions/cadrasterizationoptions/pen_options/
+weight: 230
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/pen_options/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the pen options.
+
+### Example 
+
+
+Sets up "squared" pen
 ### Definition:
 ```python
 @property

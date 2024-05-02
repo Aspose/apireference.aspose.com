@@ -3,15 +3,13 @@ title: global_or_local property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructurallinearactionvarying/global_or_local/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructurallinearactionvarying/global_or_local/
 is_root: false
 ---
 
 ## global_or_local property
 
-
-GlobalOrLocal
 ### Definition:
 ```python
 @property
@@ -24,5 +22,4 @@ def global_or_local(self, value):
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](../../)
-* class [`IfcGlobalOrLocalEnum`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcglobalorlocalenum)
 * class [`IfcStructuralLinearActionVarying`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructurallinearactionvarying)

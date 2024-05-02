@@ -4,13 +4,13 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.header/ifcfilename/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcfilename/
 is_root: false
 ---
 
 ## IfcFileName class
 
-IfcFileName
+IfcFileName class represents file information for IFC
 
 
 
@@ -30,6 +30,11 @@ The IfcFileName type exposes the following members:
 | [preprocessor_version](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcfilename/preprocessor_version) | Gets or sets the preprocessor version. |
 | [originating_system](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcfilename/originating_system) | Gets or sets the originating system. |
 | [authorization](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcfilename/authorization) | Gets or sets the authorization. |
+
+
+
+### Example 
+
 
 
 

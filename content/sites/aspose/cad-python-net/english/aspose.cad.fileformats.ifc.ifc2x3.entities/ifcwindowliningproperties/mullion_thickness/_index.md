@@ -3,15 +3,13 @@ title: mullion_thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/mullion_thickness/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/mullion_thickness/
 is_root: false
 ---
 
 ## mullion_thickness property
 
-
-MullionThickness
 ### Definition:
 ```python
 @property

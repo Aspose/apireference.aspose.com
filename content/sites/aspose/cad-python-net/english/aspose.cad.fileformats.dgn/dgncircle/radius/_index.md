@@ -3,8 +3,8 @@ title: radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.dgn/dgncircle/radius/
+weight: 120
+url: /python-net/aspose.cad.fileformats.dgn/dgncircle/radius/
 is_root: false
 ---
 

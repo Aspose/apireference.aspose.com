@@ -3,15 +3,13 @@ title: interference_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interference_type/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interference_type/
 is_root: false
 ---
 
 ## interference_type property
 
-
-InterferenceType
 ### Definition:
 ```python
 @property

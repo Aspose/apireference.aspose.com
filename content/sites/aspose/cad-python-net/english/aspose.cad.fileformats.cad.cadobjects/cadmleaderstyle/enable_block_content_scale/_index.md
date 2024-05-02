@@ -3,8 +3,8 @@ title: enable_block_content_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/enable_block_content_scale/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/enable_block_content_scale/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/write_u_short/
+url: /python-net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/write_u_short/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: flow_condition_single_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flow_condition_single_value/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flow_condition_single_value/
 is_root: false
 ---
 
 ## flow_condition_single_value property
 
-
-FlowConditionSingleValue
 ### Definition:
 ```python
 @property

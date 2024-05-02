@@ -3,8 +3,8 @@ title: StringAlignment enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 790
-url: /aspose.cad/stringalignment/
+weight: 870
+url: /python-net/aspose.cad/stringalignment/
 is_root: false
 ---
 

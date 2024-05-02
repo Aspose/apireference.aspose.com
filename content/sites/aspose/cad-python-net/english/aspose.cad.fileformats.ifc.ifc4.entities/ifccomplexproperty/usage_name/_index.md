@@ -3,15 +3,13 @@ title: usage_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccomplexproperty/usage_name/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccomplexproperty/usage_name/
 is_root: false
 ---
 
 ## usage_name property
 
-
-UsageName
 ### Definition:
 ```python
 @property

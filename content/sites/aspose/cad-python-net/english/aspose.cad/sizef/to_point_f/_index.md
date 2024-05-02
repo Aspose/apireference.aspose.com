@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad/sizef/to_point_f/
+url: /python-net/aspose.cad/sizef/to_point_f/
 is_root: false
 ---
 

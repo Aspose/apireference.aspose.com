@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadheader/summary_info/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadheader/summary_info/
 is_root: false
 ---
 
@@ -16,9 +16,6 @@ Gets the (DWG) summary information.
 ```python
 @property
 def summary_info(self):
-    ...
-@summary_info.setter
-def summary_info(self, value):
     ...
 ```
 

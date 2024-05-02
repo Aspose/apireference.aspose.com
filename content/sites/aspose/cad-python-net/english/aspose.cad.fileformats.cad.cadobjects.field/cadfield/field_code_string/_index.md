@@ -3,8 +3,8 @@ title: field_code_string property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/field_code_string/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/field_code_string/
 is_root: false
 ---
 

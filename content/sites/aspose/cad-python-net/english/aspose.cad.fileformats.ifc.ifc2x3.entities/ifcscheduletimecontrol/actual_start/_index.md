@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_start/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_start/
 is_root: false
 ---
 
 ## actual_start property
 
-
-ActualStart
 ### Definition:
 ```python
 @property

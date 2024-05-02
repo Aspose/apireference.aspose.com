@@ -3,8 +3,8 @@ title: db_eval_expr_parameter_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipgrip/db_eval_expr_parameter_list/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipgrip/db_eval_expr_parameter_list/
 is_root: false
 ---
 

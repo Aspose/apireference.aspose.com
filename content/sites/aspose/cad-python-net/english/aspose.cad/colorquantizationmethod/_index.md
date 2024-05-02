@@ -3,8 +3,8 @@ title: ColorQuantizationMethod enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 600
-url: /aspose.cad/colorquantizationmethod/
+weight: 670
+url: /python-net/aspose.cad/colorquantizationmethod/
 is_root: false
 ---
 

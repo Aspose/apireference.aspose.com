@@ -3,15 +3,13 @@ title: reflectance_colour property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylelighting/reflectance_colour/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylelighting/reflectance_colour/
 is_root: false
 ---
 
 ## reflectance_colour property
 
-
-ReflectanceColour
 ### Definition:
 ```python
 @property

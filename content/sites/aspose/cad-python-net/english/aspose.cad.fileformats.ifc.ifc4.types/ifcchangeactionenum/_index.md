@@ -3,8 +3,8 @@ title: IfcChangeActionEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2190
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcchangeactionenum/
+weight: 2200
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcchangeactionenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcChangeActionEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| NOCHANGE | NOCHANGE |
-| MODIFIED | MODIFIED |
-| ADDED | ADDED |
-| DELETED | DELETED |
-| NOTDEFINED | NOTDEFINED |
+| NOCHANGE |  |
+| MODIFIED |  |
+| ADDED |  |
+| DELETED |  |
+| NOTDEFINED |  |
 
 
 

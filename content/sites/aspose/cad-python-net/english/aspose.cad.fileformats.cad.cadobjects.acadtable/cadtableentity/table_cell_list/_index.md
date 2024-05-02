@@ -3,8 +3,8 @@ title: table_cell_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 520
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/table_cell_list/
+weight: 630
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/table_cell_list/
 is_root: false
 ---
 

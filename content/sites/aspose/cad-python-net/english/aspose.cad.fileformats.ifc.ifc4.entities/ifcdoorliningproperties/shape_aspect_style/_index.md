@@ -3,15 +3,13 @@ title: shape_aspect_style property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/shape_aspect_style/
+weight: 170
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/shape_aspect_style/
 is_root: false
 ---
 
 ## shape_aspect_style property
 
-
-ShapeAspectStyle
 ### Definition:
 ```python
 @property

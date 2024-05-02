@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad/sizef/__init__/
+url: /python-net/aspose.cad/sizef/__init__/
 is_root: false
 ---
 
@@ -72,6 +72,25 @@ def __init__(self, width, height):
 | :- | :- | :- |
 | width | float | The width component of the new [`SizeF`](/cad/python-net/aspose.cad/sizef). |
 | height | float | The height component of the new [`SizeF`](/cad/python-net/aspose.cad/sizef). |
+
+
+## __init__ {#float-float-float}
+
+Initializes a new instance of the [`SizeF`](/cad/python-net/aspose.cad/sizef) struct.
+
+
+
+```python
+def __init__(self, width, height, depth):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| width | float | The width. |
+| height | float | The height. |
+| depth | float | The depth. |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadconsts/
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/
 is_root: false
 ---
 
@@ -31,6 +31,7 @@ The namespace contains Cad file format constants.
 | [`CadEntityCoordinates`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadentitycoordinates) | The Cad entity coordinates. |
 | [`CadEntitySpaceMode`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadentityspacemode) | The Cad entity space mode. |
 | [`CadEntityTypeName`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadentitytypename) | Contains Entity names |
+| [`CadFileFormat`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadfileformat) | CAD file formats |
 | [`CadFillSetting`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadfillsetting) | The Cad fill setting. |
 | [`CadFontStyleTableFlag`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadfontstyletableflag) | Font style table flags. |
 | [`CadGroupCodeTypes`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadgroupcodetypes) | Cad group code value types |
@@ -43,6 +44,7 @@ The namespace contains Cad file format constants.
 | [`CadLayoutUcsOrthographicType`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype) | Orthographic type of UCS.<br/>[`CadLayout`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout) |
 | [`CadLineSpacing`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadlinespacing) | The Cad line spacing. |
 | [`CadLineSpacingType`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadlinespacingtype) | Cad Line spacing enum |
+| [`CadLineStyle`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadlinestyle) | Line style |
 | [`CadLwPolylineFlag`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadlwpolylineflag) | The Cad LWPOLYLINE flags. |
 | [`CadMultiLineFlag`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadmultilineflag) | The Cad MULTILINE flags. |
 | [`CadObjectTypeName`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadobjecttypename) | Contains Object names |
@@ -59,6 +61,5 @@ The namespace contains Cad file format constants.
 | [`CadShadePlotResolutionLevel`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotresolutionlevel) | ShadePlot resolution level.<br/>[`CadPlotSettings`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings) |
 | [`CadShadowMode`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadshadowmode) | Shadow enumeration |
 | [`CadTableSymbols`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadtablesymbols) | Contains TABLE Types |
-| [`DxfFileFormat`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/dxffileformat) | DXF file formats |
 
 

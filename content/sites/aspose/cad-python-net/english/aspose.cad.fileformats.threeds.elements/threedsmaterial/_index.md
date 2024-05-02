@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.threeds.elements/threedsmaterial/
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/
 is_root: false
 ---
 
@@ -24,6 +24,9 @@ The ThreeDSMaterial type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [name](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/name) |  |
+| [ambient_color](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/ambient_color) |  |
+| [diffuse_color](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/diffuse_color) |  |
+| [specular_color](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/specular_color) |  |
 | [shininess_percent](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/shininess_percent) |  |
 | [shininess_2_percent](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/shininess_2_percent) |  |
 | [transparency_percent](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/transparency_percent) |  |

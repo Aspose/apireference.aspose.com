@@ -3,8 +3,8 @@ title: width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad/sizef/width/
+weight: 110
+url: /python-net/aspose.cad/sizef/width/
 is_root: false
 ---
 

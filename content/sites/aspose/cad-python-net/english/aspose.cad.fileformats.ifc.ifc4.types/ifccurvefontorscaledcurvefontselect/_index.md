@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifccurvefontorscaledcurvefontselect/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifccurvefontorscaledcurvefontselect/
 is_root: false
 ---
 

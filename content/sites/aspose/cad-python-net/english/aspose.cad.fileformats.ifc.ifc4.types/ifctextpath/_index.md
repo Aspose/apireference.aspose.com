@@ -3,8 +3,8 @@ title: IfcTextPath enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3740
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctextpath/
+weight: 3750
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctextpath/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcTextPath type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| LEFT | LEFT |
-| RIGHT | RIGHT |
-| UP | UP |
-| DOWN | DOWN |
+| LEFT |  |
+| RIGHT |  |
+| UP |  |
+| DOWN |  |
 
 
 

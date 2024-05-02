@@ -3,8 +3,8 @@ title: weights property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/weights/
+weight: 250
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/weights/
 is_root: false
 ---
 

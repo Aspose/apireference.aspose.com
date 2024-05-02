@@ -3,8 +3,8 @@ title: perspective_lens_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/perspective_lens_length/
+weight: 560
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/perspective_lens_length/
 is_root: false
 ---
 

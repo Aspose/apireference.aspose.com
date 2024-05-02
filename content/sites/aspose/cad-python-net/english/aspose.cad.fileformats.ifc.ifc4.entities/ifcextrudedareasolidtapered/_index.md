@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2520
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcExtrudedAreaSolidTapered
 [`IfcSolidModel`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolidmodel) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,18 +35,20 @@ The IfcExtrudedAreaSolidTapered type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/entity_label) | Gets the entity label. |
-| [swept_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/swept_area) | SweptArea |
-| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/position) | Position |
-| [extruded_direction](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/extruded_direction) | ExtrudedDirection |
-| [depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/depth) | Depth |
-| [end_swept_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/end_swept_area) | EndSweptArea |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [swept_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/swept_area) |  |
+| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/position) |  |
+| [extruded_direction](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/extruded_direction) |  |
+| [depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/depth) |  |
+| [end_swept_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/end_swept_area) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcExtrudedAreaSolid`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolid)
 * class [`IfcExtrudedAreaSolidTapered`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)

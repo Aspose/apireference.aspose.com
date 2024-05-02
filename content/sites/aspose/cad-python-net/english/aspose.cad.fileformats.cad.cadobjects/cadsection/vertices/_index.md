@@ -3,8 +3,8 @@ title: vertices property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/vertices/
+weight: 580
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/vertices/
 is_root: false
 ---
 

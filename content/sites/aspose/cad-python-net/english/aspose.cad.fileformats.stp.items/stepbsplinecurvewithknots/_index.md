@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/
+url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/
 is_root: false
 ---
 
@@ -37,6 +37,7 @@ The StepBSplineCurveWithKnots type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/id) |  |
 | [degree](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/degree) |  |
 | [control_points_list](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/control_points_list) |  |
 | [curve_form](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/curve_form) |  |

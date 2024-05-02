@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.collada.fileparser.elements/brep/curves/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/brep/curves/
 is_root: false
 ---
 

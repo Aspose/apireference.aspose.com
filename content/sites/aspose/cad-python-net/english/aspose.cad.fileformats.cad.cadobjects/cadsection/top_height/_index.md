@@ -3,8 +3,8 @@ title: top_height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/top_height/
+weight: 540
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/top_height/
 is_root: false
 ---
 

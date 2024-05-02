@@ -3,8 +3,8 @@ title: attributes property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblock1ptparameters/attributes/
+weight: 70
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblock1ptparameters/attributes/
 is_root: false
 ---
 

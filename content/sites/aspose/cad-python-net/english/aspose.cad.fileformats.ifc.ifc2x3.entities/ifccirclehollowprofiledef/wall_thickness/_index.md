@@ -3,15 +3,13 @@ title: wall_thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccirclehollowprofiledef/wall_thickness/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccirclehollowprofiledef/wall_thickness/
 is_root: false
 ---
 
 ## wall_thickness property
 
-
-WallThickness
 ### Definition:
 ```python
 @property

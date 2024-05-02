@@ -3,15 +3,13 @@ title: mapped_representation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationmap/mapped_representation/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationmap/mapped_representation/
 is_root: false
 ---
 
 ## mapped_representation property
 
-
-MappedRepresentation
 ### Definition:
 ```python
 @property

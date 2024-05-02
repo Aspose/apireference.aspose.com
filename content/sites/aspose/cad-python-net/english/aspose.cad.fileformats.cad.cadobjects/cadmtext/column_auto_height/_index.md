@@ -3,8 +3,8 @@ title: column_auto_height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/column_auto_height/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/column_auto_height/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: StepCylindricalSurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.stp.items/stepcylindricalsurface/
+weight: 200
+url: /python-net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepCylindricalSurface type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/id) |  |
 | [position](/cad/python-net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/position) |  |
 | [radius](/cad/python-net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/radius) |  |
 

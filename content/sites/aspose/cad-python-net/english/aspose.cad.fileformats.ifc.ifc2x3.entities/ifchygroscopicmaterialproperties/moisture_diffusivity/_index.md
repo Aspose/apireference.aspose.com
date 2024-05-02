@@ -3,15 +3,13 @@ title: moisture_diffusivity property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/moisture_diffusivity/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/moisture_diffusivity/
 is_root: false
 ---
 
 ## moisture_diffusivity property
 
-
-MoistureDiffusivity
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: attributes property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/attributes/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/attributes/
 is_root: false
 ---
 

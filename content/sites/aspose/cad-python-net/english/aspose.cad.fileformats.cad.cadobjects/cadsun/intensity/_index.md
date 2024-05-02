@@ -3,8 +3,8 @@ title: intensity property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadsun/intensity/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsun/intensity/
 is_root: false
 ---
 

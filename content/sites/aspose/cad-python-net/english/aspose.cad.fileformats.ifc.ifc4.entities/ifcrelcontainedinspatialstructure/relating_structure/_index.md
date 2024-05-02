@@ -3,15 +3,13 @@ title: relating_structure property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/relating_structure/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/relating_structure/
 is_root: false
 ---
 
 ## relating_structure property
 
-
-RelatingStructure
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5540
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcRelInterferesElements
 [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects) → 
 [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,22 +33,24 @@ The IfcRelInterferesElements type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/description) | Description |
-| [relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/relating_element) | RelatingElement |
-| [related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/related_element) | RelatedElement |
-| [interference_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interference_geometry) | InterferenceGeometry |
-| [interference_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interference_type) | InterferenceType |
-| [implied_order](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/implied_order) | ImpliedOrder |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/description) |  |
+| [relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/relating_element) |  |
+| [related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/related_element) |  |
+| [interference_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interference_geometry) |  |
+| [interference_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interference_type) |  |
+| [implied_order](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/implied_order) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects)
 * class [`IfcRelInterferesElements`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements)
 * class [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship)

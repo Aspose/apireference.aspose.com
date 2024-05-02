@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects.helpers/cad3dpointhelper/max/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.helpers/cad3dpointhelper/max/
 is_root: false
 ---
 

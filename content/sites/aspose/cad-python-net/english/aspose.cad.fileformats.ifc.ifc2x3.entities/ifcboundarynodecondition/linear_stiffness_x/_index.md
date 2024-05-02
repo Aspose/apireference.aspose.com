@@ -3,15 +3,13 @@ title: linear_stiffness_x property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarynodecondition/linear_stiffness_x/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarynodecondition/linear_stiffness_x/
 is_root: false
 ---
 
 ## linear_stiffness_x property
 
-
-LinearStiffnessX
 ### Definition:
 ```python
 @property

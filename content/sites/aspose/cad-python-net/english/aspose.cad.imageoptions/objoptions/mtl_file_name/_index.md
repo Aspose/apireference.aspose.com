@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.imageoptions/objoptions/mtl_file_name/
+url: /python-net/aspose.cad.imageoptions/objoptions/mtl_file_name/
 is_root: false
 ---
 

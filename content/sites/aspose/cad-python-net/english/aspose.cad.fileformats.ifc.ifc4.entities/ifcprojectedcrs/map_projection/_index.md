@@ -3,15 +3,13 @@ title: map_projection property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_projection/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/map_projection/
 is_root: false
 ---
 
 ## map_projection property
 
-
-MapProjection
 ### Definition:
 ```python
 @property

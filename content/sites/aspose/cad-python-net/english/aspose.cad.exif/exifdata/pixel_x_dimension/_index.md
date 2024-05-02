@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 880
-url: /aspose.cad.exif/exifdata/pixel_x_dimension/
+url: /python-net/aspose.cad.exif/exifdata/pixel_x_dimension/
 is_root: false
 ---
 

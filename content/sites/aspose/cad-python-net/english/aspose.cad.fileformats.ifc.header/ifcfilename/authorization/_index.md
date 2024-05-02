@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.header/ifcfilename/authorization/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcfilename/authorization/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the authorization.
+
+### Example 
+
+
+
 ### Definition:
 ```python
 @property

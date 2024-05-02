@@ -3,8 +3,8 @@ title: twist_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
-url: /aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/twist_flag/
+weight: 620
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/twist_flag/
 is_root: false
 ---
 

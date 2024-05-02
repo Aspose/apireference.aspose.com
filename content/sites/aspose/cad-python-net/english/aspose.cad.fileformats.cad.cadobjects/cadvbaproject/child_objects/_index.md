@@ -3,8 +3,8 @@ title: child_objects property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects/cadvbaproject/child_objects/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadvbaproject/child_objects/
 is_root: false
 ---
 

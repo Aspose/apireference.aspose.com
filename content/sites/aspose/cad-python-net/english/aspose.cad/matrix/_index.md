@@ -3,8 +3,8 @@ title: Matrix class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad/matrix/
+weight: 360
+url: /python-net/aspose.cad/matrix/
 is_root: false
 ---
 

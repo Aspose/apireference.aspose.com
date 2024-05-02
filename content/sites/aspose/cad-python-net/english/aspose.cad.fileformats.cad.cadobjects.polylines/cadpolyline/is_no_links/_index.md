@@ -3,15 +3,20 @@ title: is_no_links property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline/is_no_links/
+weight: 270
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline/is_no_links/
 is_root: false
 ---
 
 ## is_no_links property
 
 
-The IsNoLinks
+Gets or sets a value indicating that the entity has no links.
+
+### Remarks 
+
+
+For versions [`CadAcadVersion.AC1018`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadacadversion#AC1018) and later, this value is always true (links are not used).
 ### Definition:
 ```python
 @property

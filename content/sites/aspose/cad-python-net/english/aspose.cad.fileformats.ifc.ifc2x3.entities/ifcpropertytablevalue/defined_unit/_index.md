@@ -3,15 +3,13 @@ title: defined_unit property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/defined_unit/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/defined_unit/
 is_root: false
 ---
 
 ## defined_unit property
 
-
-DefinedUnit
 ### Definition:
 ```python
 @property

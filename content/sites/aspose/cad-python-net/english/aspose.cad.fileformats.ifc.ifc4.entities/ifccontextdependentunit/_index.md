@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1370
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcContextDependentUnit
 
 **Inheritance:** [`IfcContextDependentUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit) → 
 [`IfcNamedUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,15 +31,17 @@ The IfcContextDependentUnit type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/entity_label) | Gets the entity label. |
-| [dimensions](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/dimensions) | Dimensions |
-| [unit_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/unit_type) | UnitType |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [dimensions](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/dimensions) |  |
+| [unit_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/unit_type) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/name) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcContextDependentUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcNamedUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit)

@@ -3,8 +3,8 @@ title: StepDefinitionalRepresentation class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/
+weight: 210
+url: /python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/
 is_root: false
 ---
 
@@ -25,6 +25,7 @@ The StepDefinitionalRepresentation type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
+| [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/__init__/#) | Constructs a new instance of StepDefinitionalRepresentation |
 | [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/__init__/#str-System.Collections.Generic.List<StepRepresentationItem>) | Constructs a new instance of StepDefinitionalRepresentation |
 
 
@@ -33,7 +34,9 @@ The StepDefinitionalRepresentation type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/id) |  |
 | [representation_items](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/representation_items) |  |
+| [definition_context](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/definition_context) |  |
 
 
 

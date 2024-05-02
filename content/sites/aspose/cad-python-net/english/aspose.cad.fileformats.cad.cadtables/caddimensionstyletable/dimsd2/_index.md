@@ -3,15 +3,16 @@ title: dimsd2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 600
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimsd2/
+weight: 620
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimsd2/
 is_root: false
 ---
 
 ## dimsd2 property
 
 
-Gets or sets The dimsd2 - 282
+Gets or sets the suppression of the second dimension line and arrowhead. 
+Possible values are: 0 (not suppressed), 1 (suppressed).
 ### Definition:
 ```python
 @property

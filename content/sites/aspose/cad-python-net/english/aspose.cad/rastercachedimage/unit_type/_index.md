@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 660
-url: /aspose.cad/rastercachedimage/unit_type/
+url: /python-net/aspose.cad/rastercachedimage/unit_type/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets current unit type.
+
+### Example 
+
+
+Normalize export page size despite of unit type defined on drawing
 ### Definition:
 ```python
 @property

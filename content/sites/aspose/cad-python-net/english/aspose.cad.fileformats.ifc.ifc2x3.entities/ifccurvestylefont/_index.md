@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1380
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcCurveStyleFont
 
 
 **Inheritance:** [`IfcCurveStyleFont`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,12 +30,14 @@ The IfcCurveStyleFont type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont/name) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcCurveStyleFont`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefont)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

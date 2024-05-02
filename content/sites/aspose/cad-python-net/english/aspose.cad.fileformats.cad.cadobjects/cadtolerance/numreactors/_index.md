@@ -3,8 +3,8 @@ title: numreactors property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadobjects/cadtolerance/numreactors/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtolerance/numreactors/
 is_root: false
 ---
 

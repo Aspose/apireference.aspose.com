@@ -3,15 +3,13 @@ title: thermodynamic_temperature_exponent property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/thermodynamic_temperature_exponent/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/thermodynamic_temperature_exponent/
 is_root: false
 ---
 
 ## thermodynamic_temperature_exponent property
 
-
-ThermodynamicTemperatureExponent
 ### Definition:
 ```python
 @property

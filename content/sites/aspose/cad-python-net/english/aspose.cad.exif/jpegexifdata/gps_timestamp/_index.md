@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 720
-url: /aspose.cad.exif/jpegexifdata/gps_timestamp/
+url: /python-net/aspose.cad.exif/jpegexifdata/gps_timestamp/
 is_root: false
 ---
 

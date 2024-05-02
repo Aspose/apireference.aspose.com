@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad/colorpalettehelper/get_downscale_palette/
+url: /python-net/aspose.cad/colorpalettehelper/get_downscale_palette/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: sweep_vector property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 580
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/sweep_vector/
+weight: 650
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/sweep_vector/
 is_root: false
 ---
 

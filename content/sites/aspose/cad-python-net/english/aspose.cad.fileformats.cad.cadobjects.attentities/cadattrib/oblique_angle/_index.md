@@ -3,8 +3,8 @@ title: oblique_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 460
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/oblique_angle/
+weight: 530
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/oblique_angle/
 is_root: false
 ---
 

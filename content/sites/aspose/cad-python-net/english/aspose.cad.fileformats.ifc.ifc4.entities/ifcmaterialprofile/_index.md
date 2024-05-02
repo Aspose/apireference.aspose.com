@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3670
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcMaterialProfile
 
 **Inheritance:** [`IfcMaterialProfile`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile) → 
 [`IfcMaterialDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,19 +31,21 @@ The IfcMaterialProfile type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/description) | Description |
-| [material](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/material) | Material |
-| [profile](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/profile) | Profile |
-| [priority](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/priority) | Priority |
-| [category](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/category) | Category |
-| [to_material_profile_set](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/to_material_profile_set) | ToMaterialProfileSet |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/description) |  |
+| [material](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/material) |  |
+| [profile](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/profile) |  |
+| [priority](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/priority) |  |
+| [category](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/category) |  |
+| [to_material_profile_set](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/to_material_profile_set) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcMaterialDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition)
 * class [`IfcMaterialProfile`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile)

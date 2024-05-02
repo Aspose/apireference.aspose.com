@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/cad_version/
+url: /python-net/aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/cad_version/
 is_root: false
 ---
 

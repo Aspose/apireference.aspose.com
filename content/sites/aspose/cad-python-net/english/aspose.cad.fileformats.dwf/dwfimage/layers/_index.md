@@ -4,14 +4,21 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /aspose.cad.fileformats.dwf/dwfimage/layers/
+url: /python-net/aspose.cad.fileformats.dwf/dwfimage/layers/
 is_root: false
 ---
 
 ## layers property
 
 
-Gets layers
+Gets DWF pages layers.
+Returns the enumerable collection of DWF layers.
+The DWF data can be assigned to a specific DWF layer, which is a grouping drawing objects.
+
+### Example 
+
+
+Exports specified layers.
 ### Definition:
 ```python
 @property

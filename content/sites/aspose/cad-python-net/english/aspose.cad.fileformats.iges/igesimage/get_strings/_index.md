@@ -3,8 +3,8 @@ title: get_strings method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.iges/igesimage/get_strings/
+weight: 60
+url: /python-net/aspose.cad.fileformats.iges/igesimage/get_strings/
 is_root: false
 ---
 

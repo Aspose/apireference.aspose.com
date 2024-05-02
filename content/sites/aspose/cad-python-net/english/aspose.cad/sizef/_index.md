@@ -3,8 +3,8 @@ title: SizeF class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 520
-url: /aspose.cad/sizef/
+weight: 530
+url: /python-net/aspose.cad/sizef/
 is_root: false
 ---
 
@@ -22,6 +22,7 @@ The SizeF type exposes the following members:
 | [__init__](/cad/python-net/aspose.cad/sizef/__init__/#aspose.cad.SizeF) | Initializes a new instance of the [`SizeF`](/cad/python-net/aspose.cad/sizef) structure from the specified [`SizeF`](/cad/python-net/aspose.cad/sizef). |
 | [__init__](/cad/python-net/aspose.cad/sizef/__init__/#aspose.cad.PointF) | Initializes a new instance of the [`SizeF`](/cad/python-net/aspose.cad/sizef) structure from the specified [`PointF`](/cad/python-net/aspose.cad/pointf). |
 | [__init__](/cad/python-net/aspose.cad/sizef/__init__/#float-float) | Initializes a new instance of the [`SizeF`](/cad/python-net/aspose.cad/sizef) structure from the specified dimensions. |
+| [__init__](/cad/python-net/aspose.cad/sizef/__init__/#float-float-float) | Initializes a new instance of the [`SizeF`](/cad/python-net/aspose.cad/sizef) struct. |
 | [__init__](/cad/python-net/aspose.cad/sizef/__init__/#) | Constructs a new instance of SizeF |
 
 
@@ -32,6 +33,7 @@ The SizeF type exposes the following members:
 | [is_empty](/cad/python-net/aspose.cad/sizef/is_empty) | Gets a value indicating whether this [`SizeF`](/cad/python-net/aspose.cad/sizef) has zero width and height. |
 | [width](/cad/python-net/aspose.cad/sizef/width) | Gets or sets the horizontal component of this [`SizeF`](/cad/python-net/aspose.cad/sizef). |
 | [height](/cad/python-net/aspose.cad/sizef/height) | Gets or sets the vertical component of this [`SizeF`](/cad/python-net/aspose.cad/sizef). |
+| [depth](/cad/python-net/aspose.cad/sizef/depth) | Gets or sets the depth. |
 
 
 ### Methods

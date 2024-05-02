@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad/image/get_file_format/
+url: /python-net/aspose.cad/image/get_file_format/
 is_root: false
 ---
 
@@ -36,15 +36,6 @@ The file format determined does not mean that the specified image may be loaded.
 
 Determines whether file is a DWG drawing
 
-```python
-from aspose.cad import FileFormat, Image
-
-fileFormat = Image.get_file_format("file.dwg")
-if fileFormat >= FileFormat.CAD_R010 and fileFormat <= FileFormat.CAD_R2010:
-    print("This is a DWG drawing")
-
-```
-
 
 ## get_file_format {#io.RawIOBase}
 
@@ -73,16 +64,6 @@ The file format determined does not mean that the specified image may be loaded.
 
 
 Determines whether a stream contains a DXF drawing
-
-```python
-from aspose.cad import FileFormat, Image
-
-with open("file.dxf", "rb") as f:
-    fileFormat = Image.get_file_format(f)
-    if fileFormat >= FileFormat.DXF_CAD_R010 and fileFormat <= FileFormat.DXF_CAD_R2010:
-        print("This is a DXF drawing")
-
-```
 
 
 

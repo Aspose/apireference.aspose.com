@@ -3,15 +3,15 @@ title: dim_alt_mzs property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dim_alt_mzs/
+weight: 90
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dim_alt_mzs/
 is_root: false
 ---
 
 ## dim_alt_mzs property
 
 
-Gets or sets The DiaAltMzs
+Gets or sets alternate sub-zero suffix for dimensions.
 ### Definition:
 ```python
 @property

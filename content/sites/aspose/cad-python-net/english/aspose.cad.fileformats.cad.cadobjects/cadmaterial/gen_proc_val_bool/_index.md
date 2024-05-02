@@ -3,8 +3,8 @@ title: gen_proc_val_bool property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_val_bool/
+weight: 430
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_val_bool/
 is_root: false
 ---
 

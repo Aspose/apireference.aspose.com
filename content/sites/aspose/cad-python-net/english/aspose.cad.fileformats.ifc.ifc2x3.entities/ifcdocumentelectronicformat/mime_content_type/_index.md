@@ -3,15 +3,13 @@ title: mime_content_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_content_type/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_content_type/
 is_root: false
 ---
 
 ## mime_content_type property
 
-
-MimeContentType
 ### Definition:
 ```python
 @property

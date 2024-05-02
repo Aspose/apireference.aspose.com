@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1010
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcConnectionCurveGeometry
 
 **Inheritance:** [`IfcConnectionCurveGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry) → 
 [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectiongeometry) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,9 +31,11 @@ The IfcConnectionCurveGeometry type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/entity_label) | Gets the entity label. |
-| [curve_on_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curve_on_relating_element) | CurveOnRelatingElement |
-| [curve_on_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curve_on_related_element) | CurveOnRelatedElement |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [curve_on_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curve_on_relating_element) |  |
+| [curve_on_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curve_on_related_element) |  |
 
 
 
@@ -41,4 +43,4 @@ The IfcConnectionCurveGeometry type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcConnectionCurveGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry)
 * class [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectiongeometry)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

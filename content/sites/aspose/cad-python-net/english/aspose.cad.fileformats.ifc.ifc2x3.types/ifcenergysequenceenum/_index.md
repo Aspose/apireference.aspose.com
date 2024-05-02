@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2260
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcenergysequenceenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcenergysequenceenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcEnergySequenceEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| PRIMARY | PRIMARY |
-| SECONDARY | SECONDARY |
-| TERTIARY | TERTIARY |
-| AUXILIARY | AUXILIARY |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| PRIMARY |  |
+| SECONDARY |  |
+| TERTIARY |  |
+| AUXILIARY |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

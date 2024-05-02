@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3510
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcPhysicalComplexQuantity
 
 **Inheritance:** [`IfcPhysicalComplexQuantity`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity) → 
 [`IfcPhysicalQuantity`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,17 +31,19 @@ The IfcPhysicalComplexQuantity type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/description) | Description |
-| [discrimination](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/discrimination) | Discrimination |
-| [quality](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/quality) | Quality |
-| [usage](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/usage) | Usage |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/description) |  |
+| [discrimination](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/discrimination) |  |
+| [quality](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/quality) |  |
+| [usage](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/usage) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPhysicalComplexQuantity`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity)
 * class [`IfcPhysicalQuantity`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity)

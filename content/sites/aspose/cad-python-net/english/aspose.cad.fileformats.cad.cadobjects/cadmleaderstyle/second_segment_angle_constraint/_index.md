@@ -3,8 +3,8 @@ title: second_segment_angle_constraint property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 670
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/second_segment_angle_constraint/
+weight: 740
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/second_segment_angle_constraint/
 is_root: false
 ---
 

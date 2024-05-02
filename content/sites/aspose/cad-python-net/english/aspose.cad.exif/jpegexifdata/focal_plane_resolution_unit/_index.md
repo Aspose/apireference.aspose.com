@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.cad.exif/jpegexifdata/focal_plane_resolution_unit/
+url: /python-net/aspose.cad.exif/jpegexifdata/focal_plane_resolution_unit/
 is_root: false
 ---
 

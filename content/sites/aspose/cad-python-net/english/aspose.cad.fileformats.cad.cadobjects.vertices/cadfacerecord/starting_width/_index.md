@@ -3,8 +3,8 @@ title: starting_width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/starting_width/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/starting_width/
 is_root: false
 ---
 

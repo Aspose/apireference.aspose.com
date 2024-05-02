@@ -3,8 +3,8 @@ title: proprietary_data property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/proprietary_data/
+weight: 540
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/proprietary_data/
 is_root: false
 ---
 

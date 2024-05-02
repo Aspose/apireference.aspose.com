@@ -3,8 +3,8 @@ title: IfcSwitchingDeviceTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3670
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcswitchingdevicetypeenum/
+weight: 3680
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcswitchingdevicetypeenum/
 is_root: false
 ---
 
@@ -19,17 +19,17 @@ The IfcSwitchingDeviceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONTACTOR | CONTACTOR |
-| DIMMERSWITCH | DIMMERSWITCH |
-| EMERGENCYSTOP | EMERGENCYSTOP |
-| KEYPAD | KEYPAD |
-| MOMENTARYSWITCH | MOMENTARYSWITCH |
-| SELECTORSWITCH | SELECTORSWITCH |
-| STARTER | STARTER |
-| SWITCHDISCONNECTOR | SWITCHDISCONNECTOR |
-| TOGGLESWITCH | TOGGLESWITCH |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONTACTOR |  |
+| DIMMERSWITCH |  |
+| EMERGENCYSTOP |  |
+| KEYPAD |  |
+| MOMENTARYSWITCH |  |
+| SELECTORSWITCH |  |
+| STARTER |  |
+| SWITCHDISCONNECTOR |  |
+| TOGGLESWITCH |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad/loadoptions/specified_mif_encoding/
+url: /python-net/aspose.cad/loadoptions/specified_mif_encoding/
 is_root: false
 ---
 

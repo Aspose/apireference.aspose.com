@@ -3,8 +3,8 @@ title: style_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/style_name/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleobject/style_name/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: format_string_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/format_string_length/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/format_string_length/
 is_root: false
 ---
 

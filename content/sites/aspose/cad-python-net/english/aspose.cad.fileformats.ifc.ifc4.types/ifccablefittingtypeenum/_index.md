@@ -3,8 +3,8 @@ title: IfcCableFittingTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2170
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifccablefittingtypeenum/
+weight: 2180
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifccablefittingtypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcCableFittingTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONNECTOR | CONNECTOR |
-| ENTRY | ENTRY |
-| EXIT | EXIT |
-| JUNCTION | JUNCTION |
-| TRANSITION | TRANSITION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONNECTOR |  |
+| ENTRY |  |
+| EXIT |  |
+| JUNCTION |  |
+| TRANSITION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

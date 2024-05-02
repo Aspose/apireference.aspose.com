@@ -3,8 +3,8 @@ title: point_location property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.fileformats.cad.cadobjects/cadpoint/point_location/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadpoint/point_location/
 is_root: false
 ---
 

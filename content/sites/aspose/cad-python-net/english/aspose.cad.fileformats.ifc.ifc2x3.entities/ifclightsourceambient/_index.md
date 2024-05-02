@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2940
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcLightSourceAmbient
 [`IfcLightSource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,17 +33,19 @@ The IfcLightSourceAmbient type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/name) | Name |
-| [light_colour](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/light_colour) | LightColour |
-| [ambient_intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/ambient_intensity) | AmbientIntensity |
-| [intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/intensity) | Intensity |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/name) |  |
+| [light_colour](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/light_colour) |  |
+| [ambient_intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/ambient_intensity) |  |
+| [intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient/intensity) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem)
 * class [`IfcLightSource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource)
 * class [`IfcLightSourceAmbient`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourceambient)

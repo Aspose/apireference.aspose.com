@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 970
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofrotationalsubgradereactionmeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofrotationalsubgradereactionmeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcModulusOfRotationalSubgradeReactionMeasure type exposes the following mem
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofrotationalsubgradereactionmeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofrotationalsubgradereactionmeasure/value) |  |
 
 
 

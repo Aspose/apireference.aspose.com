@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.iges.drawables/idrawableproperties/unit_to_mm_rate/
+url: /python-net/aspose.cad.fileformats.iges.drawables/idrawableproperties/unit_to_mm_rate/
 is_root: false
 ---
 

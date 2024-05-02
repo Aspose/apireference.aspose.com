@@ -3,8 +3,8 @@ title: standard_scale_type_factor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 380
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standard_scale_type_factor/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standard_scale_type_factor/
 is_root: false
 ---
 

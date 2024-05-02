@@ -3,8 +3,8 @@ title: has_new_status property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/has_new_status/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/has_new_status/
 is_root: false
 ---
 

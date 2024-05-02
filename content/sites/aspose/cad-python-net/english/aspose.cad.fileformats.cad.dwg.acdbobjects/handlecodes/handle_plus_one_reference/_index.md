@@ -1,14 +1,14 @@
 ﻿---
-title: handle_plus_one_reference property
+title: HANDLE_PLUS_ONE_REFERENCE property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_plus_one_reference/
+url: /python-net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_plus_one_reference/
 is_root: false
 ---
 
-## handle_plus_one_reference property
+## HANDLE_PLUS_ONE_REFERENCE property
 
 
 The handle plus one reference. Code - 6

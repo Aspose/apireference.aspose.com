@@ -3,8 +3,8 @@ title: shininess_2_percent property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.threeds.elements/threedsmaterial/shininess_2_percent/
+weight: 80
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/shininess_2_percent/
 is_root: false
 ---
 

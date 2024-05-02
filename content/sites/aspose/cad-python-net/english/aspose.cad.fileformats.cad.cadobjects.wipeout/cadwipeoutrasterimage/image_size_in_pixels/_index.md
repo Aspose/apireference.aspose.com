@@ -3,8 +3,8 @@ title: image_size_in_pixels property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/image_size_in_pixels/
+weight: 300
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/image_size_in_pixels/
 is_root: false
 ---
 

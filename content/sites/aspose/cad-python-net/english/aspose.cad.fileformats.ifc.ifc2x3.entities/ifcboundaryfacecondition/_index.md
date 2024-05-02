@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 470
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcBoundaryFaceCondition
 
 **Inheritance:** [`IfcBoundaryFaceCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition) → 
 [`IfcBoundaryCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarycondition) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,11 +31,13 @@ The IfcBoundaryFaceCondition type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/name) | Name |
-| [linear_stiffness_by_area_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linear_stiffness_by_area_x) | LinearStiffnessByAreaX |
-| [linear_stiffness_by_area_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linear_stiffness_by_area_y) | LinearStiffnessByAreaY |
-| [linear_stiffness_by_area_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linear_stiffness_by_area_z) | LinearStiffnessByAreaZ |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/name) |  |
+| [linear_stiffness_by_area_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linear_stiffness_by_area_x) |  |
+| [linear_stiffness_by_area_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linear_stiffness_by_area_y) |  |
+| [linear_stiffness_by_area_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linear_stiffness_by_area_z) |  |
 
 
 
@@ -43,4 +45,4 @@ The IfcBoundaryFaceCondition type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcBoundaryCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarycondition)
 * class [`IfcBoundaryFaceCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

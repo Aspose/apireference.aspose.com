@@ -3,8 +3,8 @@ title: north_direction_vector property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/north_direction_vector/
+weight: 280
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/north_direction_vector/
 is_root: false
 ---
 

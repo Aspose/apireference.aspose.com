@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 300
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcderivedmeasurevalue/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcderivedmeasurevalue/
 is_root: false
 ---
 

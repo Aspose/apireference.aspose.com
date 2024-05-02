@@ -3,8 +3,8 @@ title: duplicate_record_cloning_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/duplicate_record_cloning_flag/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/duplicate_record_cloning_flag/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.cad.imageoptions/svgoptions/text_as_shapes/
+url: /python-net/aspose.cad.imageoptions/svgoptions/text_as_shapes/
 is_root: false
 ---
 
@@ -12,7 +12,19 @@ is_root: false
 
 
 Gets or sets a value indicating whether text must be converted as shapes.
-By default text will be converted as shapes.
+By default text will be converted to shapes, so it won't be selectable.
+
+### Example 
+
+
+using (var img = Image.Load(file))
+{
+CadRasterizationOptions cadRasterizationOptions = new CadRasterizationOptions();
+SvgOptions opt = new SvgOptions();
+opt.TextAsShapes = true;
+opt.VectorRasterizationOptions = cadRasterizationOptions;
+img.Save(outFile, opt);
+}
 ### Definition:
 ```python
 @property

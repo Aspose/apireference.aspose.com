@@ -3,15 +3,13 @@ title: ref_elevation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsite/ref_elevation/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsite/ref_elevation/
 is_root: false
 ---
 
 ## ref_elevation property
 
-
-RefElevation
 ### Definition:
 ```python
 @property

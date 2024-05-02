@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2250
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcelementcompositionenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelementcompositionenum/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The IfcElementCompositionEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| COMPLEX | COMPLEX |
-| ELEMENT | ELEMENT |
-| PARTIAL | PARTIAL |
+| COMPLEX |  |
+| ELEMENT |  |
+| PARTIAL |  |
 
 
 

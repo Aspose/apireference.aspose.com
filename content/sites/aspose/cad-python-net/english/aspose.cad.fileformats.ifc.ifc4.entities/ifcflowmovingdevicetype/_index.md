@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2850
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ IfcFlowMovingDeviceType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,14 +31,16 @@ The IfcFlowMovingDeviceType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/tag) | Tag |
-| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/element_type) | ElementType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/tag) |  |
+| [element_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype/element_type) |  |
 
 
 
@@ -47,7 +49,7 @@ The IfcFlowMovingDeviceType type exposes the following members:
 * class [`IfcDistributionElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionelementtype)
 * class [`IfcDistributionFlowElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionflowelementtype)
 * class [`IfcElementType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFlowMovingDeviceType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmovingdevicetype)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot)

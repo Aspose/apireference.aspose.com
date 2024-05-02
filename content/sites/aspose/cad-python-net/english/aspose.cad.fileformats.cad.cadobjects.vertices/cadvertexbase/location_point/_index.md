@@ -3,8 +3,8 @@ title: location_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/location_point/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/location_point/
 is_root: false
 ---
 

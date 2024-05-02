@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1540
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcCrewResource
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,17 +35,19 @@ The IfcCrewResource type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/object_type) | ObjectType |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/identification) | Identification |
-| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/long_description) | LongDescription |
-| [usage](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/usage) | Usage |
-| [base_quantity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/base_quantity) | BaseQuantity |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/object_type) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/identification) |  |
+| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/long_description) |  |
+| [usage](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/usage) |  |
+| [base_quantity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/base_quantity) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource/predefined_type) |  |
 
 
 
@@ -53,7 +55,7 @@ The IfcCrewResource type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcConstructionResource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource)
 * class [`IfcCrewResource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresource)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcResource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresource)

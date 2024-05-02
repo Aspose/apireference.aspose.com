@@ -3,8 +3,8 @@ title: IfcTrimmingSelect class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1800
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctrimmingselect/
+weight: 1810
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctrimmingselect/
 is_root: false
 ---
 

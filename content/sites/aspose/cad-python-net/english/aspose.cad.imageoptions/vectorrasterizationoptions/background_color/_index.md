@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imageoptions/vectorrasterizationoptions/background_color/
+url: /python-net/aspose.cad.imageoptions/vectorrasterizationoptions/background_color/
 is_root: false
 ---
 

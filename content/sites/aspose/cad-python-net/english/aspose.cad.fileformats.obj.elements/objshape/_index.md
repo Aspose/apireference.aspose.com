@@ -4,13 +4,14 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.obj.elements/objshape/
+url: /python-net/aspose.cad.fileformats.obj.elements/objshape/
 is_root: false
 ---
 
 ## ObjShape class
 
-ObjShape class
+Represents a shape object for OBJ format. 
+Contains information about set of faces with corresponding material, vertex, texture, and normal indices.
 
 
 

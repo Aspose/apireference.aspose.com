@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4580
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcRelConnectsPathElements
 [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnects) → 
 [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelationship) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,22 +34,24 @@ The IfcRelConnectsPathElements type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/description) | Description |
-| [connection_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/connection_geometry) | ConnectionGeometry |
-| [relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/relating_element) | RelatingElement |
-| [related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/related_element) | RelatedElement |
-| [related_connection_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/related_connection_type) | RelatedConnectionType |
-| [relating_connection_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/relating_connection_type) | RelatingConnectionType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/description) |  |
+| [connection_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/connection_geometry) |  |
+| [relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/relating_element) |  |
+| [related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/related_element) |  |
+| [related_connection_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/related_connection_type) |  |
+| [relating_connection_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/relating_connection_type) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnects)
 * class [`IfcRelConnectsElements`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectselements)
 * class [`IfcRelConnectsPathElements`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements)

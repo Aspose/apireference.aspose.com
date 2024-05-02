@@ -3,8 +3,8 @@ title: attribute280 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipparameter/attribute280/
+weight: 60
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipparameter/attribute280/
 is_root: false
 ---
 

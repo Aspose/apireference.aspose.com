@@ -3,15 +3,13 @@ title: dimensions property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunitwithoffset/dimensions/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunitwithoffset/dimensions/
 is_root: false
 ---
 
 ## dimensions property
 
-
-Dimensions
 ### Definition:
 ```python
 @property

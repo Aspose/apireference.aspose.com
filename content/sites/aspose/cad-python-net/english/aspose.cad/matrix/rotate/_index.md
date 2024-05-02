@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad/matrix/rotate/
+url: /python-net/aspose.cad/matrix/rotate/
 is_root: false
 ---
 

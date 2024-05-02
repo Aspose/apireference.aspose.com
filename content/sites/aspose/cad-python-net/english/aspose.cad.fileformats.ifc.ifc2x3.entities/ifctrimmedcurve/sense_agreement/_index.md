@@ -3,15 +3,13 @@ title: sense_agreement property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/sense_agreement/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/sense_agreement/
 is_root: false
 ---
 
 ## sense_agreement property
 
-
-SenseAgreement
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: variable_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects/cadacdbassocvariable/variable_name/
+weight: 180
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacdbassocvariable/variable_name/
 is_root: false
 ---
 

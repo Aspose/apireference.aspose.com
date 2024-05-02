@@ -3,8 +3,8 @@ title: ColorMatrixFlag enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 590
-url: /aspose.cad/colormatrixflag/
+weight: 660
+url: /python-net/aspose.cad/colormatrixflag/
 is_root: false
 ---
 

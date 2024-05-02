@@ -3,8 +3,8 @@ title: end_draft_distance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/end_draft_distance/
+weight: 280
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/end_draft_distance/
 is_root: false
 ---
 

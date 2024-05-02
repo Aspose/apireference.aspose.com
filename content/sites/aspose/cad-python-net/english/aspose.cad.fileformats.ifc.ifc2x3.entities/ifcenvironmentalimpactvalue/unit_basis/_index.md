@@ -3,15 +3,13 @@ title: unit_basis property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/unit_basis/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/unit_basis/
 is_root: false
 ---
 
 ## unit_basis property
 
-
-UnitBasis
 ### Definition:
 ```python
 @property

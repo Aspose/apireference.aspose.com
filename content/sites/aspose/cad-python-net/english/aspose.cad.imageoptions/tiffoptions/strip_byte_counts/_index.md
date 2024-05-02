@@ -3,8 +3,8 @@ title: strip_byte_counts property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 520
-url: /aspose.cad.imageoptions/tiffoptions/strip_byte_counts/
+weight: 530
+url: /python-net/aspose.cad.imageoptions/tiffoptions/strip_byte_counts/
 is_root: false
 ---
 

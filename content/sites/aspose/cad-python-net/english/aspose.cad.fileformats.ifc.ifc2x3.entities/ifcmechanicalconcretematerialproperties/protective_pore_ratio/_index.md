@@ -3,15 +3,13 @@ title: protective_pore_ratio property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/protective_pore_ratio/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/protective_pore_ratio/
 is_root: false
 ---
 
 ## protective_pore_ratio property
 
-
-ProtectivePoreRatio
 ### Definition:
 ```python
 @property

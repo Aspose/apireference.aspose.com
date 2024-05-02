@@ -3,8 +3,8 @@ title: dimension_object_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/dimension_object_id/
+weight: 110
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/dimension_object_id/
 is_root: false
 ---
 

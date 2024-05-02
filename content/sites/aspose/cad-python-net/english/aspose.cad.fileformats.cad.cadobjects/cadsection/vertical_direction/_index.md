@@ -3,8 +3,8 @@ title: vertical_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/vertical_direction/
+weight: 570
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/vertical_direction/
 is_root: false
 ---
 

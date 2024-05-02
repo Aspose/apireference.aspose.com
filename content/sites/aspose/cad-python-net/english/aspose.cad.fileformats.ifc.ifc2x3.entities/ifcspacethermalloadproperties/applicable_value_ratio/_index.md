@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/applicable_value_ratio/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/applicable_value_ratio/
 is_root: false
 ---
 
 ## applicable_value_ratio property
 
-
-ApplicableValueRatio
 ### Definition:
 ```python
 @property

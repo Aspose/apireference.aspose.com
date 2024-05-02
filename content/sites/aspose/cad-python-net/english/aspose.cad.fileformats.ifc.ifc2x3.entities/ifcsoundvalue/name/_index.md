@@ -3,15 +3,13 @@ title: name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/name/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/name/
 is_root: false
 ---
 
 ## name property
 
-
-Name
 ### Definition:
 ```python
 @property

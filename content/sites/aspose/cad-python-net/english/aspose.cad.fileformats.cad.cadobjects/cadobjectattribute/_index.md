@@ -3,8 +3,8 @@ title: CadObjectAttribute class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 830
-url: /aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/
+weight: 900
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ CadObjectAttribute
 
 
 **Inheritance:** [`CadObjectAttribute`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute) → 
-[`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
+[`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
 
 
 
@@ -40,8 +40,15 @@ The CadObjectAttribute type exposes the following members:
 | [attribute_values](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/attribute_values) | Gets or sets the attribute values. |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [get_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/get_uid/#) | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [set_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/set_uid/#str) | Sets |
+
+
 
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadobjects`](..)
-* class [`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
 * class [`CadObjectAttribute`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute)
+* class [`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)

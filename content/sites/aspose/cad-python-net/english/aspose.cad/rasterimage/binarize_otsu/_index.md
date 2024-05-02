@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad/rasterimage/binarize_otsu/
+url: /python-net/aspose.cad/rasterimage/binarize_otsu/
 is_root: false
 ---
 

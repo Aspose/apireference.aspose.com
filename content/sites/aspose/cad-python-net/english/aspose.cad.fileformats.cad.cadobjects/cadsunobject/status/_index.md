@@ -3,8 +3,8 @@ title: status property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadsunobject/status/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsunobject/status/
 is_root: false
 ---
 

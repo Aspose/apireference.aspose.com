@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.cadexceptions/compressorexception/
+url: /python-net/aspose.cad.cadexceptions/compressorexception/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5020
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcRectangleHollowProfileDef
 [`IfcRectangleProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangleprofiledef) → 
 [`IfcParameterizedProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef) → 
 [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,21 +33,23 @@ The IfcRectangleHollowProfileDef type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/entity_label) | Gets the entity label. |
-| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/profile_type) | ProfileType |
-| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/profile_name) | ProfileName |
-| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/position) | Position |
-| [x_dim](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/x_dim) | XDim |
-| [y_dim](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/y_dim) | YDim |
-| [wall_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/wall_thickness) | WallThickness |
-| [inner_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/inner_fillet_radius) | InnerFilletRadius |
-| [outer_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/outer_fillet_radius) | OuterFilletRadius |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/profile_type) |  |
+| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/profile_name) |  |
+| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/position) |  |
+| [x_dim](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/x_dim) |  |
+| [y_dim](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/y_dim) |  |
+| [wall_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/wall_thickness) |  |
+| [inner_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/inner_fillet_radius) |  |
+| [outer_fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/outer_fillet_radius) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcParameterizedProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef)
 * class [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef)
 * class [`IfcRectangleHollowProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef)

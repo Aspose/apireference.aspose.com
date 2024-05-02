@@ -3,15 +3,13 @@ title: long_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcspace/long_name/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspace/long_name/
 is_root: false
 ---
 
 ## long_name property
 
-
-LongName
 ### Definition:
 ```python
 @property

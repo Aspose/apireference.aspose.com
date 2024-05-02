@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3480
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcLightSourcePositional
 [`IfcLightSource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,22 +33,24 @@ The IfcLightSourcePositional type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/name) | Name |
-| [light_colour](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/light_colour) | LightColour |
-| [ambient_intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/ambient_intensity) | AmbientIntensity |
-| [intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/intensity) | Intensity |
-| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/position) | Position |
-| [radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/radius) | Radius |
-| [constant_attenuation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/constant_attenuation) | ConstantAttenuation |
-| [distance_attenuation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/distance_attenuation) | DistanceAttenuation |
-| [quadric_attenuation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/quadric_attenuation) | QuadricAttenuation |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/name) |  |
+| [light_colour](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/light_colour) |  |
+| [ambient_intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/ambient_intensity) |  |
+| [intensity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/intensity) |  |
+| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/position) |  |
+| [radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/radius) |  |
+| [constant_attenuation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/constant_attenuation) |  |
+| [distance_attenuation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/distance_attenuation) |  |
+| [quadric_attenuation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/quadric_attenuation) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcLightSource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource)
 * class [`IfcLightSourcePositional`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional)

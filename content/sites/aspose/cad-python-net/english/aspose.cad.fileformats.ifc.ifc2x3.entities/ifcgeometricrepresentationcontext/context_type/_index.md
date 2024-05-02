@@ -3,15 +3,13 @@ title: context_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/context_type/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/context_type/
 is_root: false
 ---
 
 ## context_type property
 
-
-ContextType
 ### Definition:
 ```python
 @property

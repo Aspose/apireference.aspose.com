@@ -3,15 +3,13 @@ title: y_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/y_length/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/y_length/
 is_root: false
 ---
 
 ## y_length property
 
-
-YLength
 ### Definition:
 ```python
 @property

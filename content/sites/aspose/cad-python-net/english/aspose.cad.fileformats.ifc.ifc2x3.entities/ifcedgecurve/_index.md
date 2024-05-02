@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1830
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcEdgeCurve
 [`IfcEdge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge) → 
 [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,11 +33,13 @@ The IfcEdgeCurve type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/entity_label) | Gets the entity label. |
-| [edge_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/edge_start) | EdgeStart |
-| [edge_end](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/edge_end) | EdgeEnd |
-| [edge_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/edge_geometry) | EdgeGeometry |
-| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/same_sense) | SameSense |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [edge_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/edge_start) |  |
+| [edge_end](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/edge_end) |  |
+| [edge_geometry](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/edge_geometry) |  |
+| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/same_sense) |  |
 
 
 
@@ -45,6 +47,6 @@ The IfcEdgeCurve type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcEdge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge)
 * class [`IfcEdgeCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
 * class [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem)

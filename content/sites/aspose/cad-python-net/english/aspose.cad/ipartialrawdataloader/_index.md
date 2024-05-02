@@ -3,8 +3,8 @@ title: IPartialRawDataLoader class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad/ipartialrawdataloader/
+weight: 260
+url: /python-net/aspose.cad/ipartialrawdataloader/
 is_root: false
 ---
 

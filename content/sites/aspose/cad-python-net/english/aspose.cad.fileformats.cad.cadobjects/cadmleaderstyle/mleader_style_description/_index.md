@@ -3,8 +3,8 @@ title: mleader_style_description property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 570
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/mleader_style_description/
+weight: 640
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/mleader_style_description/
 is_root: false
 ---
 

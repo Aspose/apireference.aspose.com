@@ -3,8 +3,8 @@ title: is_uniform property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/is_uniform/
+weight: 80
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/is_uniform/
 is_root: false
 ---
 

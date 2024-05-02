@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1240
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcConnectionPointGeometry
 
 **Inheritance:** [`IfcConnectionPointGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry) → 
 [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectiongeometry) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,9 +31,11 @@ The IfcConnectionPointGeometry type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/entity_label) | Gets the entity label. |
-| [point_on_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/point_on_relating_element) | PointOnRelatingElement |
-| [point_on_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/point_on_related_element) | PointOnRelatedElement |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [point_on_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/point_on_relating_element) |  |
+| [point_on_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/point_on_related_element) |  |
 
 
 
@@ -41,4 +43,4 @@ The IfcConnectionPointGeometry type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectiongeometry)
 * class [`IfcConnectionPointGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

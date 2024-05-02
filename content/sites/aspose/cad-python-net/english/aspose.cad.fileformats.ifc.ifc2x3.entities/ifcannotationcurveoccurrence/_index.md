@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcAnnotationCurveOccurrence
 [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence) → 
 [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,9 +33,11 @@ The IfcAnnotationCurveOccurrence type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/entity_label) | Gets the entity label. |
-| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/item) | Item |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/item) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence/name) |  |
 
 
 
@@ -43,6 +45,6 @@ The IfcAnnotationCurveOccurrence type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcAnnotationCurveOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence)
 * class [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
 * class [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem)

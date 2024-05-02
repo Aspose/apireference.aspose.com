@@ -3,8 +3,8 @@ title: IfcPreferredSurfaceCurveRepresentation enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3220
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcpreferredsurfacecurverepresentation/
+weight: 3230
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpreferredsurfacecurverepresentation/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The IfcPreferredSurfaceCurveRepresentation type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CURVE3D | CURVE3D |
-| PCURVE_S1 | PCURVE_S1 |
-| PCURVE_S2 | PCURVE_S2 |
+| CURVE3D |  |
+| PCURVE_S1 |  |
+| PCURVE_S2 |  |
 
 
 

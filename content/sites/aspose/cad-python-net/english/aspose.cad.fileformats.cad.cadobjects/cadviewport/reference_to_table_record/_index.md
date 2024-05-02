@@ -3,8 +3,8 @@ title: reference_to_table_record property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 560
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/reference_to_table_record/
+weight: 630
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/reference_to_table_record/
 is_root: false
 ---
 

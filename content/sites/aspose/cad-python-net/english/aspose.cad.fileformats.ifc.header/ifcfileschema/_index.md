@@ -4,13 +4,13 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.ifc.header/ifcfileschema/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcfileschema/
 is_root: false
 ---
 
 ## IfcFileSchema class
 
-IfcFileSchema
+IfcFileSchema represents IFC schema identifiers
 
 
 
@@ -20,6 +20,11 @@ The IfcFileSchema type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcfileschema/__init__/#) | Constructs a new instance of IfcFileSchema |
+
+
+
+### Example 
+
 
 
 

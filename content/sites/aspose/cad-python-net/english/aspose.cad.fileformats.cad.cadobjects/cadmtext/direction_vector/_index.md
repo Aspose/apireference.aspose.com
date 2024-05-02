@@ -3,8 +3,8 @@ title: direction_vector property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/direction_vector/
+weight: 500
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/direction_vector/
 is_root: false
 ---
 

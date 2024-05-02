@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_duration/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_duration/
 is_root: false
 ---
 
 ## actual_duration property
 
-
-ActualDuration
 ### Definition:
 ```python
 @property

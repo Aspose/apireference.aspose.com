@@ -4,14 +4,14 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.ifc/ifccollection/type_of_t/
+url: /python-net/aspose.cad.fileformats.ifc/ifccollection/type_of_t/
 is_root: false
 ---
 
 ## type_of_t property
 
 
-Gets or sets the type of t.
+Gets or sets the type of items in the collection.
 ### Definition:
 ```python
 @property

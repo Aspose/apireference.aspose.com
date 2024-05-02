@@ -3,8 +3,8 @@ title: unitless_default_unit_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.u3d/u3dimage/unitless_default_unit_type/
+weight: 250
+url: /python-net/aspose.cad.fileformats.u3d/u3dimage/unitless_default_unit_type/
 is_root: false
 ---
 

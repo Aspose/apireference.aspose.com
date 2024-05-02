@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1730
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcDoorStyle
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,24 +34,26 @@ The IfcDoorStyle type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/applicable_occurrence) | ApplicableOccurrence |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/tag) | Tag |
-| [operation_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/operation_type) | OperationType |
-| [construction_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/construction_type) | ConstructionType |
-| [parameter_takes_precedence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/parameter_takes_precedence) | ParameterTakesPrecedence |
-| [sizeable](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/sizeable) | Sizeable |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/applicable_occurrence) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/tag) |  |
+| [operation_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/operation_type) |  |
+| [construction_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/construction_type) |  |
+| [parameter_takes_precedence](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/parameter_takes_precedence) |  |
+| [sizeable](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle/sizeable) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcDoorStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorstyle)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)
 * class [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject)

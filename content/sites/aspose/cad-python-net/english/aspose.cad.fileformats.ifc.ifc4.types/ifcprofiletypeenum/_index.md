@@ -3,8 +3,8 @@ title: IfcProfileTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3240
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcprofiletypeenum/
+weight: 3250
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcprofiletypeenum/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The IfcProfileTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CURVE | CURVE |
-| AREA | AREA |
+| CURVE |  |
+| AREA |  |
 
 
 

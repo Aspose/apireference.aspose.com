@@ -3,8 +3,8 @@ title: specular_map_blend_factor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 940
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_blend_factor/
+weight: 1030
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_blend_factor/
 is_root: false
 ---
 

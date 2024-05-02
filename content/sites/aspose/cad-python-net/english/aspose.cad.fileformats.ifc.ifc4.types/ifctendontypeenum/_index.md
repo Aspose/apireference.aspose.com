@@ -3,8 +3,8 @@ title: IfcTendonTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3730
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctendontypeenum/
+weight: 3740
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctendontypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcTendonTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BAR | BAR |
-| COATED | COATED |
-| STRAND | STRAND |
-| WIRE | WIRE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BAR |  |
+| COATED |  |
+| STRAND |  |
+| WIRE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

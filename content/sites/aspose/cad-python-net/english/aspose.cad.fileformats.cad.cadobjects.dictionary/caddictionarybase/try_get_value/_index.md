@@ -3,8 +3,8 @@ title: try_get_value method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/try_get_value/
+weight: 50
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/try_get_value/
 is_root: false
 ---
 

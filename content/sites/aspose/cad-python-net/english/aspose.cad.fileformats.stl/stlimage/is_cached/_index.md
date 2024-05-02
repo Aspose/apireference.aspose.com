@@ -3,8 +3,8 @@ title: is_cached property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.stl/stlimage/is_cached/
+weight: 190
+url: /python-net/aspose.cad.fileformats.stl/stlimage/is_cached/
 is_root: false
 ---
 

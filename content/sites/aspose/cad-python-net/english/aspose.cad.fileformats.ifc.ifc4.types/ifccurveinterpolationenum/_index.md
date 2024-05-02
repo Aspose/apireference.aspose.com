@@ -3,8 +3,8 @@ title: IfcCurveInterpolationEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2410
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifccurveinterpolationenum/
+weight: 2420
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifccurveinterpolationenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcCurveInterpolationEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| LINEAR | LINEAR |
-| LOG_LINEAR | LOG_LINEAR |
-| LOG_LOG | LOG_LOG |
-| NOTDEFINED | NOTDEFINED |
+| LINEAR |  |
+| LOG_LINEAR |  |
+| LOG_LOG |  |
+| NOTDEFINED |  |
 
 
 

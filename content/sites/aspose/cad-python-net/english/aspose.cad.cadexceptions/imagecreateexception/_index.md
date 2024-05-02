@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.cadexceptions/imagecreateexception/
+url: /python-net/aspose.cad.cadexceptions/imagecreateexception/
 is_root: false
 ---
 

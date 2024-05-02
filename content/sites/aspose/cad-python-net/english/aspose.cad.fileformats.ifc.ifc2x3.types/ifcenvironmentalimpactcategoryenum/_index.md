@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2270
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcenvironmentalimpactcategoryenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcenvironmentalimpactcategoryenum/
 is_root: false
 ---
 
@@ -19,14 +19,14 @@ The IfcEnvironmentalImpactCategoryEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| COMBINEDVALUE | COMBINEDVALUE |
-| DISPOSAL | DISPOSAL |
-| EXTRACTION | EXTRACTION |
-| INSTALLATION | INSTALLATION |
-| MANUFACTURE | MANUFACTURE |
-| TRANSPORTATION | TRANSPORTATION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| COMBINEDVALUE |  |
+| DISPOSAL |  |
+| EXTRACTION |  |
+| INSTALLATION |  |
+| MANUFACTURE |  |
+| TRANSPORTATION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

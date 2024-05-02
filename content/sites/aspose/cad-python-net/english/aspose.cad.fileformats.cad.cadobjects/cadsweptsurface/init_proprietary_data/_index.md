@@ -3,8 +3,8 @@ title: init_proprietary_data method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 20
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/init_proprietary_data/
+weight: 30
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/init_proprietary_data/
 is_root: false
 ---
 

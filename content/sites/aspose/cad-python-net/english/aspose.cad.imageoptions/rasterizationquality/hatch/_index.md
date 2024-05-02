@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.imageoptions/rasterizationquality/hatch/
+url: /python-net/aspose.cad.imageoptions/rasterizationquality/hatch/
 is_root: false
 ---
 

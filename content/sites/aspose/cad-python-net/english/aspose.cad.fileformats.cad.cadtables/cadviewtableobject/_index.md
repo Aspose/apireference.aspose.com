@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad.fileformats.cad.cadtables/cadviewtableobject/
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/
 is_root: false
 ---
 
@@ -15,8 +15,8 @@ viewPorts table class
 
 
 **Inheritance:** [`CadViewTableObject`](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject) → 
-[`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) → 
-[`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
+[`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) → 
+[`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
 
 
 
@@ -39,6 +39,7 @@ The CadViewTableObject type exposes the following members:
 | [attribute_102_values](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/attribute_102_values) | Gets or sets the attribute102 values. |
 | [numreactors](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/numreactors) | The Numreactors |
 | [reactors](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/reactors) | Get or sets the reactors handle |
+| [storage_flag](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/storage_flag) | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [hard_owner](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/hard_owner) | Gets or sets the hard owner. |
 | [soft_owner](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/soft_owner) | Gets or sets the soft owner. |
 | [is_soft_owner_set](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/is_soft_owner_set) | Gets a value indicating whether soft owner is set. |
@@ -68,11 +69,23 @@ The CadViewTableObject type exposes the following members:
 | [elevation](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/elevation) | Gets or sets the elevation. |
 | [ucs_handle](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucs_handle) | Gets or sets the ucs handle. |
 | [ucs_base_handle](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucs_base_handle) | Gets or sets the ucs base handle. |
+| [use_default_lights](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/use_default_lights) | Gets or sets the use default lights. |
+| [default_lighting_type](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/default_lighting_type) | Gets or sets the default lighting type. |
+| [brightness](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/brightness) | Gets or sets the brightness. |
+| [contrast](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/contrast) | Gets or sets the contrast. |
+| [abient_color](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/abient_color) | Gets or sets the abient color. |
+
+
+### Methods
+| Method | Description |
+| :- | :- |
+| [get_uid](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/get_uid/#) | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [set_uid](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/set_uid/#str) | Sets |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadtables`](..)
-* class [`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
-* class [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned)
+* class [`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
+* class [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase)
 * class [`CadViewTableObject`](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject)

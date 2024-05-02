@@ -3,8 +3,8 @@ title: image_def_reference property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/image_def_reference/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/image_def_reference/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: x_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/x_scale/
+weight: 170
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/x_scale/
 is_root: false
 ---
 

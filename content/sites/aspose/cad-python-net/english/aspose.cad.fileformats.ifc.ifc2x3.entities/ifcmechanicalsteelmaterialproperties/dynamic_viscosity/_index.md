@@ -3,15 +3,13 @@ title: dynamic_viscosity property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/dynamic_viscosity/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/dynamic_viscosity/
 is_root: false
 ---
 
 ## dynamic_viscosity property
 
-
-DynamicViscosity
 ### Definition:
 ```python
 @property

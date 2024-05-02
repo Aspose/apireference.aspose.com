@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcone/bottom_radius/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcone/bottom_radius/
 is_root: false
 ---
 
 ## bottom_radius property
 
-
-BottomRadius
 ### Definition:
 ```python
 @property

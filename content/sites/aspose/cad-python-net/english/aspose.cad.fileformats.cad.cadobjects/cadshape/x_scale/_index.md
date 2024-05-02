@@ -3,8 +3,8 @@ title: x_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /aspose.cad.fileformats.cad.cadobjects/cadshape/x_scale/
+weight: 550
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadshape/x_scale/
 is_root: false
 ---
 

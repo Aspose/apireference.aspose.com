@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1290
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcConstructionEquipmentResourceType
 [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,17 +35,19 @@ The IfcConstructionEquipmentResourceType type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/description) | Description |
-| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/applicable_occurrence) | ApplicableOccurrence |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/identification) | Identification |
-| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/long_description) | LongDescription |
-| [resource_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/resource_type) | ResourceType |
-| [base_quantity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/base_quantity) | BaseQuantity |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/description) |  |
+| [applicable_occurrence](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/applicable_occurrence) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/identification) |  |
+| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/long_description) |  |
+| [resource_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/resource_type) |  |
+| [base_quantity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/base_quantity) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/predefined_type) |  |
 
 
 
@@ -53,7 +55,7 @@ The IfcConstructionEquipmentResourceType type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcConstructionEquipmentResourceType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype)
 * class [`IfcConstructionResourceType`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresourcetype)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot)
 * class [`IfcTypeObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject)

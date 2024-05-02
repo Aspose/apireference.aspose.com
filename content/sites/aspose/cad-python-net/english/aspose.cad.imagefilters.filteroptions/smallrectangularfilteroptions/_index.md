@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.imagefilters.filteroptions/smallrectangularfilteroptions/
+url: /python-net/aspose.cad.imagefilters.filteroptions/smallrectangularfilteroptions/
 is_root: false
 ---
 

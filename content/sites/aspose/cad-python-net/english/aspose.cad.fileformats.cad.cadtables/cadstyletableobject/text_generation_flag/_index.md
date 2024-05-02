@@ -3,8 +3,8 @@ title: text_generation_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadtables/cadstyletableobject/text_generation_flag/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/text_generation_flag/
 is_root: false
 ---
 

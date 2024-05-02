@@ -3,8 +3,8 @@ title: IfcConstructionMaterialResourceTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2310
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcconstructionmaterialresourcetypeenum/
+weight: 2320
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcconstructionmaterialresourcetypeenum/
 is_root: false
 ---
 
@@ -19,17 +19,17 @@ The IfcConstructionMaterialResourceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AGGREGATES | AGGREGATES |
-| CONCRETE | CONCRETE |
-| DRYWALL | DRYWALL |
-| FUEL | FUEL |
-| GYPSUM | GYPSUM |
-| MASONRY | MASONRY |
-| METAL | METAL |
-| PLASTIC | PLASTIC |
-| WOOD | WOOD |
-| NOTDEFINED | NOTDEFINED |
-| USERDEFINED | USERDEFINED |
+| AGGREGATES |  |
+| CONCRETE |  |
+| DRYWALL |  |
+| FUEL |  |
+| GYPSUM |  |
+| MASONRY |  |
+| METAL |  |
+| PLASTIC |  |
+| WOOD |  |
+| NOTDEFINED |  |
+| USERDEFINED |  |
 
 
 

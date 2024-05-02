@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2600
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcFailureConnectionCondition
 
 **Inheritance:** [`IfcFailureConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition) → 
 [`IfcStructuralConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnectioncondition) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,19 +31,21 @@ The IfcFailureConnectionCondition type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/name) | Name |
-| [tension_failure_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tension_failure_x) | TensionFailureX |
-| [tension_failure_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tension_failure_y) | TensionFailureY |
-| [tension_failure_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tension_failure_z) | TensionFailureZ |
-| [compression_failure_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_x) | CompressionFailureX |
-| [compression_failure_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_y) | CompressionFailureY |
-| [compression_failure_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_z) | CompressionFailureZ |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/name) |  |
+| [tension_failure_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tension_failure_x) |  |
+| [tension_failure_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tension_failure_y) |  |
+| [tension_failure_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tension_failure_z) |  |
+| [compression_failure_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_x) |  |
+| [compression_failure_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_y) |  |
+| [compression_failure_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compression_failure_z) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFailureConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition)
 * class [`IfcStructuralConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnectioncondition)

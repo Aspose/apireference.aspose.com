@@ -3,8 +3,8 @@ title: shapes property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.obj.elements/objroot/shapes/
+weight: 50
+url: /python-net/aspose.cad.fileformats.obj.elements/objroot/shapes/
 is_root: false
 ---
 

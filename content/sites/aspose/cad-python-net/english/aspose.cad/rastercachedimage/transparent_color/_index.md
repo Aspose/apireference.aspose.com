@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 650
-url: /aspose.cad/rastercachedimage/transparent_color/
+url: /python-net/aspose.cad/rastercachedimage/transparent_color/
 is_root: false
 ---
 

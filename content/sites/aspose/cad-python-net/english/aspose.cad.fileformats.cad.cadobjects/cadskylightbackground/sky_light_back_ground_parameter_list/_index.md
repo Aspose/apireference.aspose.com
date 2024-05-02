@@ -3,8 +3,8 @@ title: sky_light_back_ground_parameter_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadobjects/cadskylightbackground/sky_light_back_ground_parameter_list/
+weight: 150
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadskylightbackground/sky_light_back_ground_parameter_list/
 is_root: false
 ---
 

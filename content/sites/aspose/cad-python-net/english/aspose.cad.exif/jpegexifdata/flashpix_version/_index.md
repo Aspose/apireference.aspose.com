@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 370
-url: /aspose.cad.exif/jpegexifdata/flashpix_version/
+url: /python-net/aspose.cad.exif/jpegexifdata/flashpix_version/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: CadEntityAttribute enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad/cadentityattribute/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad/cadentityattribute/
 is_root: false
 ---
 
@@ -323,6 +323,8 @@ The CadEntityAttribute type exposes the following members:
 | CAD1071 | The Cad 1071. |
 | CAD009 | The Cad009 |
 | CAD349 | Hard-pointer ID to visual style while creating 3D solid primitives. The default value is NULL |
+| CAD466 | The cad466 |
+| CAD467 | The cad467 |
 
 
 

@@ -3,15 +3,13 @@ title: green property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgb/green/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgb/green/
 is_root: false
 ---
 
 ## green property
 
-
-Green
 ### Definition:
 ```python
 @property

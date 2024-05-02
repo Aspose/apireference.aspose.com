@@ -3,15 +3,13 @@ title: depth property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/depth/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/depth/
 is_root: false
 ---
 
 ## depth property
 
-
-Depth
 ### Definition:
 ```python
 @property

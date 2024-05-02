@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6500
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcWorkPlan
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,28 +35,30 @@ The IfcWorkPlan type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/object_type) | ObjectType |
-| [identifier](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/identifier) | Identifier |
-| [creation_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/creation_date) | CreationDate |
-| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/purpose) | Purpose |
-| [duration](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/duration) | Duration |
-| [total_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/total_float) | TotalFloat |
-| [start_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/start_time) | StartTime |
-| [finish_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/finish_time) | FinishTime |
-| [work_control_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/work_control_type) | WorkControlType |
-| [user_defined_control_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/user_defined_control_type) | UserDefinedControlType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/object_type) |  |
+| [identifier](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/identifier) |  |
+| [creation_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/creation_date) |  |
+| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/purpose) |  |
+| [duration](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/duration) |  |
+| [total_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/total_float) |  |
+| [start_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/start_time) |  |
+| [finish_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/finish_time) |  |
+| [work_control_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/work_control_type) |  |
+| [user_defined_control_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkplan/user_defined_control_type) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcControl`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)

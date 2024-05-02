@@ -3,8 +3,8 @@ title: map_u_tile property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/map_u_tile/
+weight: 570
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/map_u_tile/
 is_root: false
 ---
 

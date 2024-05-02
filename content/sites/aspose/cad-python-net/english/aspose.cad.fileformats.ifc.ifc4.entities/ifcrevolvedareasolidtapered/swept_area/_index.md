@@ -3,15 +3,13 @@ title: swept_area property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrevolvedareasolidtapered/swept_area/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrevolvedareasolidtapered/swept_area/
 is_root: false
 ---
 
 ## swept_area property
 
-
-SweptArea
 ### Definition:
 ```python
 @property

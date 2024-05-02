@@ -3,8 +3,8 @@ title: U3dFace class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.u3d.elements/u3dface/
+weight: 120
+url: /python-net/aspose.cad.fileformats.u3d.elements/u3dface/
 is_root: false
 ---
 
@@ -23,6 +23,7 @@ The U3dFace type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [shading_id](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dface/shading_id) |  |
 | [positions](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dface/positions) |  |
 | [normals](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dface/normals) |  |
 | [diffuse_colors](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dface/diffuse_colors) |  |

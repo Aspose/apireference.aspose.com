@@ -3,8 +3,8 @@ title: numreactors property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilityparameter/numreactors/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilityparameter/numreactors/
 is_root: false
 ---
 

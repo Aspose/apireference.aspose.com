@@ -3,8 +3,8 @@ title: embedded_objects_container property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/embedded_objects_container/
+weight: 390
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/embedded_objects_container/
 is_root: false
 ---
 

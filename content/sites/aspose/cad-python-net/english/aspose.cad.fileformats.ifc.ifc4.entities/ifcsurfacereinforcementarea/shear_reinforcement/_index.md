@@ -3,15 +3,13 @@ title: shear_reinforcement property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/shear_reinforcement/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/shear_reinforcement/
 is_root: false
 ---
 
 ## shear_reinforcement property
 
-
-ShearReinforcement
 ### Definition:
 ```python
 @property

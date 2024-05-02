@@ -3,8 +3,8 @@ title: row_count property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
-url: /aspose.cad.fileformats.cad.cadobjects/cadinsertobject/row_count/
+weight: 480
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/row_count/
 is_root: false
 ---
 

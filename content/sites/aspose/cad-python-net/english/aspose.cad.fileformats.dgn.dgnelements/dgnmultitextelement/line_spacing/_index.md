@@ -3,8 +3,8 @@ title: line_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/line_spacing/
+weight: 100
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/line_spacing/
 is_root: false
 ---
 

@@ -4,13 +4,13 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadtables/cadstyletableobject/__init__/
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/__init__/
 is_root: false
 ---
 
 ## __init__ {#}
 
-Initializes a new instance of the [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) class.
+Initializes a new instance of the [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) class.
 
 
 
@@ -25,5 +25,5 @@ def __init__(self):
 
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadtables`](../../)
-* class [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned)
+* class [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase)
 * class [`CadStyleTableObject`](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject)

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5420
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcRelContainedInSpatialStructure
 [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects) → 
 [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,18 +33,20 @@ The IfcRelContainedInSpatialStructure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/description) | Description |
-| [relating_structure](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/relating_structure) | RelatingStructure |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/description) |  |
+| [relating_structure](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure/relating_structure) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects)
 * class [`IfcRelContainedInSpatialStructure`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcontainedinspatialstructure)
 * class [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship)

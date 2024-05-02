@@ -3,8 +3,8 @@ title: image_fade property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.fileformats.cad.cadobjects/cadrasterimage/image_fade/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/image_fade/
 is_root: false
 ---
 

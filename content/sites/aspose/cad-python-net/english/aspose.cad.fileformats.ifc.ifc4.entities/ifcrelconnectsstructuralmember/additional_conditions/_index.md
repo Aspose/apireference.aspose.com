@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/additional_conditions/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/additional_conditions/
 is_root: false
 ---
 
 ## additional_conditions property
 
-
-AdditionalConditions
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: init method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/init/
+weight: 40
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/init/
 is_root: false
 ---
 

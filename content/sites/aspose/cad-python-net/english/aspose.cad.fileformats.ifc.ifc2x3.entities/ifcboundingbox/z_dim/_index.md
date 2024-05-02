@@ -3,15 +3,13 @@ title: z_dim property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/z_dim/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/z_dim/
 is_root: false
 ---
 
 ## z_dim property
 
-
-ZDim
 ### Definition:
 ```python
 @property

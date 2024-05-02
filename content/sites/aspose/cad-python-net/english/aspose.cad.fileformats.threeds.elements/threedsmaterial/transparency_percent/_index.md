@@ -3,8 +3,8 @@ title: transparency_percent property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.threeds.elements/threedsmaterial/transparency_percent/
+weight: 130
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsmaterial/transparency_percent/
 is_root: false
 ---
 

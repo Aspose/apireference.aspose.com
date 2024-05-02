@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcAdvancedBrepWithVoids
 [`IfcSolidModel`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolidmodel) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,8 +35,10 @@ The IfcAdvancedBrepWithVoids type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/entity_label) | Gets the entity label. |
-| [outer](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/outer) | Outer |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [outer](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids/outer) |  |
 
 
 
@@ -44,7 +46,7 @@ The IfcAdvancedBrepWithVoids type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcAdvancedBrep`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrep)
 * class [`IfcAdvancedBrepWithVoids`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrepwithvoids)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcManifoldSolidBrep`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmanifoldsolidbrep)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

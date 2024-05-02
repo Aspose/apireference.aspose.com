@@ -3,8 +3,8 @@ title: dim_assoc_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/dim_assoc_handle/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/dim_assoc_handle/
 is_root: false
 ---
 

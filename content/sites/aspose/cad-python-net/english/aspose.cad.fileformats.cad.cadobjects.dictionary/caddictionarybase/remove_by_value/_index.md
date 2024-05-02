@@ -3,8 +3,8 @@ title: remove_by_value method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 20
-url: /aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/remove_by_value/
+weight: 30
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/remove_by_value/
 is_root: false
 ---
 

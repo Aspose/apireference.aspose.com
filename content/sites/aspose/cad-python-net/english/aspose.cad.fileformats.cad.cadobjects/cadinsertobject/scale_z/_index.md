@@ -3,8 +3,8 @@ title: scale_z property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad.fileformats.cad.cadobjects/cadinsertobject/scale_z/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/scale_z/
 is_root: false
 ---
 

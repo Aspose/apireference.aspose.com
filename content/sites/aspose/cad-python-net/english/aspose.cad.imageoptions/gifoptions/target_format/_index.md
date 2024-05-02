@@ -3,8 +3,8 @@ title: target_format property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.imageoptions/gifoptions/target_format/
+weight: 170
+url: /python-net/aspose.cad.imageoptions/gifoptions/target_format/
 is_root: false
 ---
 

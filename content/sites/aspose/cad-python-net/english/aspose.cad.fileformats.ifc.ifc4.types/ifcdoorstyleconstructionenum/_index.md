@@ -3,8 +3,8 @@ title: IfcDoorStyleConstructionEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2540
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcdoorstyleconstructionenum/
+weight: 2550
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcdoorstyleconstructionenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcDoorStyleConstructionEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ALUMINIUM | ALUMINIUM |
-| HIGH_GRADE_STEEL | HIGH_GRADE_STEEL |
-| STEEL | STEEL |
-| WOOD | WOOD |
-| ALUMINIUM_WOOD | ALUMINIUM_WOOD |
-| ALUMINIUM_PLASTIC | ALUMINIUM_PLASTIC |
-| PLASTIC | PLASTIC |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ALUMINIUM |  |
+| HIGH_GRADE_STEEL |  |
+| STEEL |  |
+| WOOD |  |
+| ALUMINIUM_WOOD |  |
+| ALUMINIUM_PLASTIC |  |
+| PLASTIC |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

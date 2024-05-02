@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1730
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcanalysismodeltypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcanalysismodeltypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcAnalysisModelTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| IN_PLANE_LOADING_2D | IN_PLANE_LOADING_2D |
-| OUT_PLANE_LOADING_2D | OUT_PLANE_LOADING_2D |
-| LOADING_3D | LOADING_3D |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| IN_PLANE_LOADING_2D |  |
+| OUT_PLANE_LOADING_2D |  |
+| LOADING_3D |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

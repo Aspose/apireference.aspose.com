@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/
 is_root: false
 ---
 
@@ -16,8 +16,8 @@ Class describing FIELD object.
 
 **Inheritance:** [`CadField`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield) → 
 [`CadBaseObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject) → 
-[`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) → 
-[`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
+[`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) → 
+[`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
 
 
 
@@ -40,6 +40,7 @@ The CadField type exposes the following members:
 | [attribute_102_values](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute_102_values) | Gets or sets the attribute102 values. |
 | [numreactors](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/numreactors) | The Numreactors |
 | [reactors](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/reactors) | Get or sets the reactors handle |
+| [storage_flag](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/storage_flag) | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [hard_owner](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/hard_owner) | Gets or sets the hard owner. |
 | [soft_owner](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/soft_owner) | Gets or sets the soft owner. |
 | [is_soft_owner_set](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/is_soft_owner_set) | Gets a value indicating whether soft owner is set. |
@@ -65,10 +66,17 @@ The CadField type exposes the following members:
 | [child_fields_number](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/child_fields_number) | Gets or sets the child fields number. |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [get_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/get_uid/#) | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [set_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/set_uid/#str) | Sets |
+
+
 
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadobjects.field`](..)
-* class [`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
 * class [`CadBaseObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject)
-* class [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned)
 * class [`CadField`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield)
+* class [`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
+* class [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase)

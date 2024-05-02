@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.imageoptions/margins/left/
+url: /python-net/aspose.cad.imageoptions/margins/left/
 is_root: false
 ---
 

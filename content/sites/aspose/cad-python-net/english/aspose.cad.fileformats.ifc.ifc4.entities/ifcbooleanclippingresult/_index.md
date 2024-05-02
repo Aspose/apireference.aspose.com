@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 450
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcBooleanClippingResult
 [`IfcBooleanResult`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanresult) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,10 +33,12 @@ The IfcBooleanClippingResult type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/entity_label) | Gets the entity label. |
-| [operator](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/operator) | Operator |
-| [first_operand](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/first_operand) | FirstOperand |
-| [second_operand](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/second_operand) | SecondOperand |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [operator](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/operator) |  |
+| [first_operand](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/first_operand) |  |
+| [second_operand](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult/second_operand) |  |
 
 
 
@@ -44,6 +46,6 @@ The IfcBooleanClippingResult type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcBooleanClippingResult`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanclippingresult)
 * class [`IfcBooleanResult`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanresult)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

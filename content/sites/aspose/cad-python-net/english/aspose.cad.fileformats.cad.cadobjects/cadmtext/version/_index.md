@@ -3,8 +3,8 @@ title: version property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 910
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/version/
+weight: 980
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/version/
 is_root: false
 ---
 

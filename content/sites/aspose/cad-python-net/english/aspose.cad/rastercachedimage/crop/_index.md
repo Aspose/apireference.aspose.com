@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad/rastercachedimage/crop/
+url: /python-net/aspose.cad/rastercachedimage/crop/
 is_root: false
 ---
 

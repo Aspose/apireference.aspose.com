@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2970
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcstairflighttypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstairflighttypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcStairFlightTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| STRAIGHT | STRAIGHT |
-| WINDER | WINDER |
-| SPIRAL | SPIRAL |
-| CURVED | CURVED |
-| FREEFORM | FREEFORM |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| STRAIGHT |  |
+| WINDER |  |
+| SPIRAL |  |
+| CURVED |  |
+| FREEFORM |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

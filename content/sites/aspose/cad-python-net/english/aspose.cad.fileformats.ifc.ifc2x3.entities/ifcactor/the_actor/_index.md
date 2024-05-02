@@ -3,15 +3,13 @@ title: the_actor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactor/the_actor/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactor/the_actor/
 is_root: false
 ---
 
 ## the_actor property
 
-
-TheActor
 ### Definition:
 ```python
 @property

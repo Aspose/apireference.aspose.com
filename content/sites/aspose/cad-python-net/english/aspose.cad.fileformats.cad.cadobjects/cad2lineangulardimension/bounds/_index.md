@@ -3,8 +3,8 @@ title: bounds property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/bounds/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/bounds/
 is_root: false
 ---
 

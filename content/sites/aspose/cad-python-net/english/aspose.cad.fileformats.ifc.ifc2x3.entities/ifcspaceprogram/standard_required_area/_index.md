@@ -3,15 +3,13 @@ title: standard_required_area property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/standard_required_area/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/standard_required_area/
 is_root: false
 ---
 
 ## standard_required_area property
 
-
-StandardRequiredArea
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: CadShadePlotResolutionLevel enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadconsts/cadshadeplotresolutionlevel/
+weight: 410
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotresolutionlevel/
 is_root: false
 ---
 

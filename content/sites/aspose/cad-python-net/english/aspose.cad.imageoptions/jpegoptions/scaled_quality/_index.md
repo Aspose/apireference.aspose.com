@@ -3,8 +3,8 @@ title: scaled_quality property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.imageoptions/jpegoptions/scaled_quality/
+weight: 180
+url: /python-net/aspose.cad.imageoptions/jpegoptions/scaled_quality/
 is_root: false
 ---
 

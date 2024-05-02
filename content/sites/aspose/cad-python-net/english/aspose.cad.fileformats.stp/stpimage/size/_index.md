@@ -3,8 +3,8 @@ title: size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.stp/stpimage/size/
+weight: 310
+url: /python-net/aspose.cad.fileformats.stp/stpimage/size/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the image size.
+
+### Example 
+
+
+Processes a drawing if it is not empty
 ### Definition:
 ```python
 @property

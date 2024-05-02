@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3410
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcOrientedEdge
 [`IfcEdge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge) → 
 [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,18 +33,20 @@ The IfcOrientedEdge type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/entity_label) | Gets the entity label. |
-| [edge_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/edge_start) | EdgeStart |
-| [edge_end](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/edge_end) | EdgeEnd |
-| [edge_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/edge_element) | EdgeElement |
-| [orientation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/orientation) | Orientation |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [edge_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/edge_start) |  |
+| [edge_end](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/edge_end) |  |
+| [edge_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/edge_element) |  |
+| [orientation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/orientation) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcEdge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcOrientedEdge`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
 * class [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem)

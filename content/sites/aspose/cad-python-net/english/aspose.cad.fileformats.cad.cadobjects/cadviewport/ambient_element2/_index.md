@@ -3,8 +3,8 @@ title: ambient_element2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/ambient_element2/
+weight: 60
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/ambient_element2/
 is_root: false
 ---
 

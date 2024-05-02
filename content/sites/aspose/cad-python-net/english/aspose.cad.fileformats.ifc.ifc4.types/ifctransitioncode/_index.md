@@ -3,8 +3,8 @@ title: IfcTransitionCode enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3770
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctransitioncode/
+weight: 3780
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctransitioncode/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcTransitionCode type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| DISCONTINUOUS | DISCONTINUOUS |
-| CONTINUOUS | CONTINUOUS |
-| CONTSAMEGRADIENT | CONTSAMEGRADIENT |
-| CONTSAMEGRADIENTSAMECURVATURE | CONTSAMEGRADIENTSAMECURVATURE |
+| DISCONTINUOUS |  |
+| CONTINUOUS |  |
+| CONTSAMEGRADIENT |  |
+| CONTSAMEGRADIENTSAMECURVATURE |  |
 
 
 

@@ -3,15 +3,13 @@ title: the_organization property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/the_organization/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/the_organization/
 is_root: false
 ---
 
 ## the_organization property
 
-
-TheOrganization
 ### Definition:
 ```python
 @property

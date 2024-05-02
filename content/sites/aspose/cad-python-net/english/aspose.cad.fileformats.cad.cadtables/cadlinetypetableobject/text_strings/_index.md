@@ -3,8 +3,8 @@ title: text_strings property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/text_strings/
+weight: 330
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/text_strings/
 is_root: false
 ---
 

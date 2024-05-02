@@ -3,15 +3,13 @@ title: formula property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/formula/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/formula/
 is_root: false
 ---
 
 ## formula property
 
-
-Formula
 ### Definition:
 ```python
 @property

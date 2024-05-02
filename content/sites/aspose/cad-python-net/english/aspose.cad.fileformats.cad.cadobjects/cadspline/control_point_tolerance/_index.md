@@ -3,8 +3,8 @@ title: control_point_tolerance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/control_point_tolerance/
+weight: 180
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/control_point_tolerance/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: IfcTemperatureGradientMeasure class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1600
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctemperaturegradientmeasure/
+weight: 1610
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctemperaturegradientmeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcTemperatureGradientMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctemperaturegradientmeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctemperaturegradientmeasure/value) |  |
 
 
 

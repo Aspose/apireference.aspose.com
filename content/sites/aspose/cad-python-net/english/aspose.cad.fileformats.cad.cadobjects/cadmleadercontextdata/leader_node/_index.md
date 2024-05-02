@@ -3,8 +3,8 @@ title: leader_node property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/leader_node/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/leader_node/
 is_root: false
 ---
 

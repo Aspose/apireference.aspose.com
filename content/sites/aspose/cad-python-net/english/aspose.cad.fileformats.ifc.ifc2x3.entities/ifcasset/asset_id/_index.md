@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/asset_id/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/asset_id/
 is_root: false
 ---
 
 ## asset_id property
 
-
-AssetID
 ### Definition:
 ```python
 @property

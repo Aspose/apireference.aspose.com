@@ -3,8 +3,8 @@ title: current_annotation_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/current_annotation_scale/
+weight: 180
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/current_annotation_scale/
 is_root: false
 ---
 

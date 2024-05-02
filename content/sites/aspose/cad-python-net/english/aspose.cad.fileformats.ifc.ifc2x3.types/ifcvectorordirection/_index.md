@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1580
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcvectorordirection/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcvectorordirection/
 is_root: false
 ---
 

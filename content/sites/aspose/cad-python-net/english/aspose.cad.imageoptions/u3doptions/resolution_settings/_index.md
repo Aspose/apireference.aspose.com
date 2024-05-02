@@ -3,8 +3,8 @@ title: resolution_settings property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.imageoptions/u3doptions/resolution_settings/
+weight: 70
+url: /python-net/aspose.cad.imageoptions/u3doptions/resolution_settings/
 is_root: false
 ---
 

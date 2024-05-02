@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1320
-url: /aspose.cad.exif/jpegexifdata/white_balance/
+url: /python-net/aspose.cad.exif/jpegexifdata/white_balance/
 is_root: false
 ---
 

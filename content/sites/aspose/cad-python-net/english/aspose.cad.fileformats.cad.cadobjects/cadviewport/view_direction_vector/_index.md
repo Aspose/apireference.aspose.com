@@ -3,8 +3,8 @@ title: view_direction_vector property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 770
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/view_direction_vector/
+weight: 840
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/view_direction_vector/
 is_root: false
 ---
 

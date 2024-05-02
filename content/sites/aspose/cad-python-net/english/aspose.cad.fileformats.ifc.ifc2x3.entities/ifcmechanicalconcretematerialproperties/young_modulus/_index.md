@@ -3,15 +3,13 @@ title: young_modulus property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/young_modulus/
+weight: 170
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/young_modulus/
 is_root: false
 ---
 
 ## young_modulus property
 
-
-YoungModulus
 ### Definition:
 ```python
 @property

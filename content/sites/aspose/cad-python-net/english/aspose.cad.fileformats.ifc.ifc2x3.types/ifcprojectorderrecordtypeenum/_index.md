@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2680
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcprojectorderrecordtypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcprojectorderrecordtypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcProjectOrderRecordTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CHANGE | CHANGE |
-| MAINTENANCE | MAINTENANCE |
-| MOVE | MOVE |
-| PURCHASE | PURCHASE |
-| WORK | WORK |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CHANGE |  |
+| MAINTENANCE |  |
+| MOVE |  |
+| PURCHASE |  |
+| WORK |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

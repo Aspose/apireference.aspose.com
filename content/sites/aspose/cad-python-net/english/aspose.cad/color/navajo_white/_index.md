@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1160
-url: /aspose.cad/color/navajo_white/
+url: /python-net/aspose.cad/color/navajo_white/
 is_root: false
 ---
 

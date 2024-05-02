@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5650
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcReparametrisedCompositeCurveSegment
 [`IfcCompositeCurveSegment`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,18 +33,20 @@ The IfcReparametrisedCompositeCurveSegment type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/entity_label) | Gets the entity label. |
-| [transition](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/transition) | Transition |
-| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/same_sense) | SameSense |
-| [parent_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/parent_curve) | ParentCurve |
-| [param_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/param_length) | ParamLength |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [transition](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/transition) |  |
+| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/same_sense) |  |
+| [parent_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/parent_curve) |  |
+| [param_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/param_length) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcCompositeCurveSegment`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcReparametrisedCompositeCurveSegment`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

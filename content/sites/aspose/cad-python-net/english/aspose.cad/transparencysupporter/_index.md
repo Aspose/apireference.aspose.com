@@ -3,8 +3,8 @@ title: TransparencySupporter class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
-url: /aspose.cad/transparencysupporter/
+weight: 560
+url: /python-net/aspose.cad/transparencysupporter/
 is_root: false
 ---
 

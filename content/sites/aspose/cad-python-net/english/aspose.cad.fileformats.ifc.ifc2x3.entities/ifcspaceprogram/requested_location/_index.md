@@ -3,15 +3,13 @@ title: requested_location property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/requested_location/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/requested_location/
 is_root: false
 ---
 
 ## requested_location property
 
-
-RequestedLocation
 ### Definition:
 ```python
 @property

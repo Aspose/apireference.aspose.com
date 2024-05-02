@@ -3,8 +3,8 @@ title: file_encoding property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad.fileformats.cad/dxfimage/file_encoding/
+weight: 310
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/file_encoding/
 is_root: false
 ---
 

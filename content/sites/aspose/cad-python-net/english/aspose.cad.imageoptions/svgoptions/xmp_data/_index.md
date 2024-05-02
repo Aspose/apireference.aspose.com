@@ -3,8 +3,8 @@ title: xmp_data property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.imageoptions/svgoptions/xmp_data/
+weight: 230
+url: /python-net/aspose.cad.imageoptions/svgoptions/xmp_data/
 is_root: false
 ---
 
@@ -25,4 +25,4 @@ def xmp_data(self, value):
 ### See Also
 * module [`aspose.cad.imageoptions`](../../)
 * class [`SvgOptions`](/cad/python-net/aspose.cad.imageoptions/svgoptions)
-* class [`XmpPacketWrapper`](/cad/python-net/aspose.cad.xmp/xmppacketwrapper)
+* class [`XmpPacketWrapper`](/cad/python-net/aspose.cad/xmppacketwrapper)

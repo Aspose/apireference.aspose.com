@@ -3,15 +3,13 @@ title: name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/name/
+weight: 180
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/name/
 is_root: false
 ---
 
 ## name property
 
-
-Name
 ### Definition:
 ```python
 @property

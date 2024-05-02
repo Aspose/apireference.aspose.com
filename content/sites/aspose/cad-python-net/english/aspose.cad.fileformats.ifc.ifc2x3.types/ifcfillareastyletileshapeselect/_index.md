@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 440
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcfillareastyletileshapeselect/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfillareastyletileshapeselect/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: minimum_plate_thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/minimum_plate_thickness/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/minimum_plate_thickness/
 is_root: false
 ---
 
 ## minimum_plate_thickness property
 
-
-MinimumPlateThickness
 ### Definition:
 ```python
 @property

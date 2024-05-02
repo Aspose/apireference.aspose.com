@@ -3,8 +3,8 @@ title: is_modified_for_recompute property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/is_modified_for_recompute/
+weight: 410
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/is_modified_for_recompute/
 is_root: false
 ---
 

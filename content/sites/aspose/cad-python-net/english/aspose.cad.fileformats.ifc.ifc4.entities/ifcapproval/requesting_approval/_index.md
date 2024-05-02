@@ -3,15 +3,13 @@ title: requesting_approval property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/requesting_approval/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/requesting_approval/
 is_root: false
 ---
 
 ## requesting_approval property
 
-
-RequestingApproval
 ### Definition:
 ```python
 @property

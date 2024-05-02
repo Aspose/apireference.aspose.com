@@ -3,8 +3,8 @@ title: IDrawableProperties class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.iges.drawables/idrawableproperties/
+weight: 20
+url: /python-net/aspose.cad.fileformats.iges.drawables/idrawableproperties/
 is_root: false
 ---
 

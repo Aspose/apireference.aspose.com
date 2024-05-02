@@ -3,8 +3,8 @@ title: is_soft_owner_set property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/is_soft_owner_set/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/is_soft_owner_set/
 is_root: false
 ---
 

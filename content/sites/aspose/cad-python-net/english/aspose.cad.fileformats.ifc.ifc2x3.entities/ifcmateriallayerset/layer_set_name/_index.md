@@ -3,15 +3,13 @@ title: layer_set_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayerset/layer_set_name/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayerset/layer_set_name/
 is_root: false
 ---
 
 ## layer_set_name property
 
-
-LayerSetName
 ### Definition:
 ```python
 @property

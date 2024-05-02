@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5030
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcScheduleTimeControl
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,38 +34,40 @@ The IfcScheduleTimeControl type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/object_type) | ObjectType |
-| [actual_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_start) | ActualStart |
-| [early_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/early_start) | EarlyStart |
-| [late_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/late_start) | LateStart |
-| [schedule_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_start) | ScheduleStart |
-| [actual_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_finish) | ActualFinish |
-| [early_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/early_finish) | EarlyFinish |
-| [late_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/late_finish) | LateFinish |
-| [schedule_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_finish) | ScheduleFinish |
-| [schedule_duration](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_duration) | ScheduleDuration |
-| [actual_duration](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_duration) | ActualDuration |
-| [remaining_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/remaining_time) | RemainingTime |
-| [free_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/free_float) | FreeFloat |
-| [total_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/total_float) | TotalFloat |
-| [is_critical](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/is_critical) | IsCritical |
-| [status_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/status_time) | StatusTime |
-| [start_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/start_float) | StartFloat |
-| [finish_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/finish_float) | FinishFloat |
-| [completion](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/completion) | Completion |
-| [schedule_time_control_assigned](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_time_control_assigned) | ScheduleTimeControlAssigned |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/object_type) |  |
+| [actual_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_start) |  |
+| [early_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/early_start) |  |
+| [late_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/late_start) |  |
+| [schedule_start](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_start) |  |
+| [actual_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_finish) |  |
+| [early_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/early_finish) |  |
+| [late_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/late_finish) |  |
+| [schedule_finish](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_finish) |  |
+| [schedule_duration](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_duration) |  |
+| [actual_duration](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/actual_duration) |  |
+| [remaining_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/remaining_time) |  |
+| [free_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/free_float) |  |
+| [total_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/total_float) |  |
+| [is_critical](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/is_critical) |  |
+| [status_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/status_time) |  |
+| [start_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/start_float) |  |
+| [finish_float](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/finish_float) |  |
+| [completion](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/completion) |  |
+| [schedule_time_control_assigned](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_time_control_assigned) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcControl`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)

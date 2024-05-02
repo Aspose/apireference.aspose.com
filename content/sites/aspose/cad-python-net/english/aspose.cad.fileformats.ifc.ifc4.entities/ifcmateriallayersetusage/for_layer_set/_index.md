@@ -3,15 +3,13 @@ title: for_layer_set property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/for_layer_set/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/for_layer_set/
 is_root: false
 ---
 
 ## for_layer_set property
 
-
-ForLayerSet
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: text_color property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 670
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/text_color/
+weight: 750
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/text_color/
 is_root: false
 ---
 

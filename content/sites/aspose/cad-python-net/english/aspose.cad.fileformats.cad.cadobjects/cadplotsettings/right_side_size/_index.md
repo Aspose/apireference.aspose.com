@@ -3,8 +3,8 @@ title: right_side_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/right_side_size/
+weight: 330
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/right_side_size/
 is_root: false
 ---
 

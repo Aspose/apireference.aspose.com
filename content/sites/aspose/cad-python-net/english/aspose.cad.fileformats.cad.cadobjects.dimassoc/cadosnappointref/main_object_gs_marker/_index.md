@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/main_object_gs_marker/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/main_object_gs_marker/
 is_root: false
 ---
 

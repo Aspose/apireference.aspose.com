@@ -3,15 +3,13 @@ title: head_depth2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/head_depth2/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/head_depth2/
 is_root: false
 ---
 
 ## head_depth2 property
 
-
-HeadDepth2
 ### Definition:
 ```python
 @property

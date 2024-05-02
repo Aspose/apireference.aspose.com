@@ -4,13 +4,15 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.ifc.header/iifcheaderitem/
+url: /python-net/aspose.cad.fileformats.ifc.header/iifcheaderitem/
 is_root: false
 ---
 
 ## IIfcHeaderItem class
 
-IIfcHeaderItem
+IIfcHeaderItem is a base interface for all header items for IFC
+like IfcFileSchema, IfcFileName, IfcFileDescription
+which contains general information about IFC
 
 
 

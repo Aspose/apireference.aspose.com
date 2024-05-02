@@ -3,15 +3,13 @@ title: electronic_format property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/electronic_format/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/electronic_format/
 is_root: false
 ---
 
 ## electronic_format property
 
-
-ElectronicFormat
 ### Definition:
 ```python
 @property

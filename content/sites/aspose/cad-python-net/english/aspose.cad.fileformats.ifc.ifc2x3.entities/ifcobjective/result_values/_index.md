@@ -3,15 +3,13 @@ title: result_values property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjective/result_values/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjective/result_values/
 is_root: false
 ---
 
 ## result_values property
 
-
-ResultValues
 ### Definition:
 ```python
 @property

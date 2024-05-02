@@ -3,8 +3,8 @@ title: uc_ss property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /aspose.cad.fileformats.cad/cadimage/uc_ss/
+weight: 460
+url: /python-net/aspose.cad.fileformats.cad/cadimage/uc_ss/
 is_root: false
 ---
 

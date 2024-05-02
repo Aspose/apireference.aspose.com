@@ -3,8 +3,8 @@ title: StepVertexPoint class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
-url: /aspose.cad.fileformats.stp.items/stepvertexpoint/
+weight: 820
+url: /python-net/aspose.cad.fileformats.stp.items/stepvertexpoint/
 is_root: false
 ---
 
@@ -34,6 +34,7 @@ The StepVertexPoint type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepvertexpoint/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepvertexpoint/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepvertexpoint/id) |  |
 | [location](/cad/python-net/aspose.cad.fileformats.stp.items/stepvertexpoint/location) |  |
 
 

@@ -3,15 +3,15 @@ title: transparency property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadoleframe/transparency/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadoleframe/transparency/
 is_root: false
 ---
 
 ## transparency property
 
 
-Gets or sets the transparency.
+Gets or sets the transparency value for the entity.
 ### Definition:
 ```python
 @property

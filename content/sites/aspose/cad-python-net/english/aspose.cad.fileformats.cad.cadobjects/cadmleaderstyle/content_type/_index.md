@@ -3,8 +3,8 @@ title: content_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/content_type/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/content_type/
 is_root: false
 ---
 

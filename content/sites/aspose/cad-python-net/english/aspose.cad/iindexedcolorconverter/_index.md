@@ -3,8 +3,8 @@ title: IIndexedColorConverter class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad/iindexedcolorconverter/
+weight: 210
+url: /python-net/aspose.cad/iindexedcolorconverter/
 is_root: false
 ---
 

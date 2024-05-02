@@ -3,15 +3,13 @@ title: purpose property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadgroup/purpose/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadgroup/purpose/
 is_root: false
 ---
 
 ## purpose property
 
-
-Purpose
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: context_identifier property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/context_identifier/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/context_identifier/
 is_root: false
 ---
 
 ## context_identifier property
 
-
-ContextIdentifier
 ### Definition:
 ```python
 @property

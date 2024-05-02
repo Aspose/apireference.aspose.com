@@ -3,8 +3,8 @@ title: face_list_items property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadmesh/face_list_items/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmesh/face_list_items/
 is_root: false
 ---
 

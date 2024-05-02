@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.cad.fileformats.stp.items/stepclosedshell/
+url: /python-net/aspose.cad.fileformats.stp.items/stepclosedshell/
 is_root: false
 ---
 
@@ -27,7 +27,7 @@ The StepClosedShell type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepclosedshell/__init__/#) | Constructs a new instance of StepClosedShell |
-| [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepclosedshell/__init__/#str-System.Collections.Generic.List<StepAdvancedFace>) | Constructs a new instance of StepClosedShell |
+| [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepclosedshell/__init__/#str-System.Collections.Generic.List<StepFace>) | Constructs a new instance of StepClosedShell |
 
 
 ### Properties
@@ -35,6 +35,7 @@ The StepClosedShell type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepclosedshell/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepclosedshell/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepclosedshell/id) |  |
 | [faces](/cad/python-net/aspose.cad.fileformats.stp.items/stepclosedshell/faces) |  |
 
 

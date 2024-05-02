@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6070
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcTextStyleWithBoxCharacteristics
 
 
 **Inheritance:** [`IfcTextStyleWithBoxCharacteristics`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,16 +30,18 @@ The IfcTextStyleWithBoxCharacteristics type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/entity_label) | Gets the entity label. |
-| [box_height](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_height) | BoxHeight |
-| [box_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_width) | BoxWidth |
-| [box_slant_angle](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_slant_angle) | BoxSlantAngle |
-| [box_rotate_angle](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_rotate_angle) | BoxRotateAngle |
-| [character_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/character_spacing) | CharacterSpacing |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [box_height](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_height) |  |
+| [box_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_width) |  |
+| [box_slant_angle](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_slant_angle) |  |
+| [box_rotate_angle](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_rotate_angle) |  |
+| [character_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/character_spacing) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcTextStyleWithBoxCharacteristics`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics)

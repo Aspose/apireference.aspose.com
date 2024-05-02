@@ -3,8 +3,8 @@ title: start_draft_magnitude property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/start_draft_magnitude/
+weight: 580
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/start_draft_magnitude/
 is_root: false
 ---
 

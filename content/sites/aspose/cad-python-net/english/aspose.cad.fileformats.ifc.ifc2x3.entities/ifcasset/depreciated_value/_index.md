@@ -3,15 +3,13 @@ title: depreciated_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/depreciated_value/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/depreciated_value/
 is_root: false
 ---
 
 ## depreciated_value property
 
-
-DepreciatedValue
 ### Definition:
 ```python
 @property

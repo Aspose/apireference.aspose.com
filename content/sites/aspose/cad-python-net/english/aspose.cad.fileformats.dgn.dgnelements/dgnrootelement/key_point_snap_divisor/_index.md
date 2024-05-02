@@ -3,8 +3,8 @@ title: key_point_snap_divisor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/key_point_snap_divisor/
+weight: 180
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/key_point_snap_divisor/
 is_root: false
 ---
 

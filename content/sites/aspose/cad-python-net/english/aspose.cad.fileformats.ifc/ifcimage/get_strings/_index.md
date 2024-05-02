@@ -3,14 +3,15 @@ title: get_strings method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc/ifcimage/get_strings/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc/ifcimage/get_strings/
 is_root: false
 ---
 
 ## get_strings {#}
 
 Gets all string values from image.
+Can be useful to get some text from the image
 
 
 ### Returns 
@@ -25,6 +26,11 @@ def get_strings(self):
 ```
 
 
+
+### Example 
+
+
+Gets all string from the image.
 
 
 

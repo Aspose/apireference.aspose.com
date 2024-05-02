@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad/imageresizesettings/filter_type/
+url: /python-net/aspose.cad/imageresizesettings/filter_type/
 is_root: false
 ---
 

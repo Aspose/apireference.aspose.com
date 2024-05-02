@@ -3,15 +3,13 @@ title: relating_constraint property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relating_constraint/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relating_constraint/
 is_root: false
 ---
 
 ## relating_constraint property
 
-
-RelatingConstraint
 ### Definition:
 ```python
 @property

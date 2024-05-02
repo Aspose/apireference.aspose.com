@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.dgn/dgnimage/
+url: /python-net/aspose.cad.fileformats.dgn/dgnimage/
 is_root: false
 ---
 
@@ -31,18 +31,19 @@ The DgnImage type exposes the following members:
 | [is_cached](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/is_cached) | Gets a value indicating whether object's data is cached currently and no data reading is required. |
 | [bounds](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/bounds) | Gets the image bounds. |
 | [container](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/container) | Gets the [`Image`](/cad/python-net/aspose.cad/image) container. |
-| [height](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/height) | Gets the image height. |
+| [height](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/height) | Gets the image height.<br/>Defines the Y-axis distance between the bottommost point of all graphical objects in the image and their topmost point.<br/>The distance is measured in units corresponding to the value of the property [`Image.unit_type`](/cad/python-net/aspose.cad/image#unit_type) |
+| [depth](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/depth) | Gets the image depth. |
 | [palette](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/palette) | Gets or sets the color palette. |
 | [size](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/size) | Gets the image size. |
-| [width](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/width) | Gets the image width. |
-| [has_background_color](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/has_background_color) | Gets or sets a value indicating whether image has background color. |
-| [background_color](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/background_color) | Gets or sets a value for the background color. |
+| [width](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/width) | Gets the image width.<br/>Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point.<br/>The distance is measured in units corresponding to the value of the property [`Image.unit_type`](/cad/python-net/aspose.cad/image#unit_type) |
 | [unit_type](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/unit_type) | Gets current unit type. |
 | [unitless_default_unit_type](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/unitless_default_unit_type) | Assumed unit type when UnitType is set to Unitless |
+| [annotation_service](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/annotation_service) | Gets the annotation service. |
+| [watermark_guard_service](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/watermark_guard_service) |  |
+| [entities](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/entities) |  |
 | [sub_unit_type](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/sub_unit_type) | Gets current sub-unit type. |
 | [version](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/version) | Gets DGN version of loaded image |
 | [is_3d_image](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/is_3d_image) | Gets a value indicating whether file is 3D or not |
-| [elements](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/elements) | Gets elements were read from source file |
 | [tags](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/tags) | Gets the tags. |
 | [max_point](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/max_point) | Gets the max point. |
 | [min_point](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/min_point) | Gets the min point. |
@@ -53,8 +54,8 @@ The DgnImage type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#) | Saves the image data to the underlying stream. |
-| [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#str-aspose.cad.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#io.RawIOBase-aspose.cad.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#str-aspose.cad.imageoptions.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#io.RawIOBase-aspose.cad.imageoptions.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#io.RawIOBase) | Saves the object's data to the specified stream. |
 | [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#str) | Saves the object's data to the specified file location. |
 | [save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/save/#str-bool) | Saves the object's data to the specified file location. |
@@ -67,10 +68,12 @@ The DgnImage type exposes the following members:
 | [load](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/load/#str-aspose.cad.LoadOptions) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/load/#str) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/load/#io.RawIOBase-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
+| [load](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/load/#io.RawIOBase-str-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
 | [load](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/load/#io.RawIOBase) | Loads a new image from the specified stream. |
 | [cache_data](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/cache_data/#) | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamSupporter.data_stream_container`](/cad/python-net/aspose.cad/datastreamsupporter#data_stream_container). |
 | [get_strings](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/get_strings/#) | Gets all string values from image. |
-| [can_save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/can_save/#aspose.cad.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [can_save](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/can_save/#aspose.cad.imageoptions.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [try_remove_entity](/cad/python-net/aspose.cad.fileformats.dgn/dgnimage/try_remove_entity/#aspose.cad.fileformats.dgn.dgnelements.DgnDrawableEntityBase) |  |
 
 
 

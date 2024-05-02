@@ -3,15 +3,13 @@ title: mesh_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/mesh_length/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/mesh_length/
 is_root: false
 ---
 
 ## mesh_length property
 
-
-MeshLength
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.stp.items/stepconicalsurface/radius/
+weight: 80
+url: /python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/radius/
 is_root: false
 ---
 

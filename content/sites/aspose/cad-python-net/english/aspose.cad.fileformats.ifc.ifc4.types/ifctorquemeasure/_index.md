@@ -3,8 +3,8 @@ title: IfcTorqueMeasure class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1780
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctorquemeasure/
+weight: 1790
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctorquemeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcTorqueMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctorquemeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctorquemeasure/value) |  |
 
 
 

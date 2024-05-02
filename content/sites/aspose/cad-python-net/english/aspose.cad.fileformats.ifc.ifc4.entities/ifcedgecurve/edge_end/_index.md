@@ -3,15 +3,13 @@ title: edge_end property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcedgecurve/edge_end/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedgecurve/edge_end/
 is_root: false
 ---
 
 ## edge_end property
 
-
-EdgeEnd
 ### Definition:
 ```python
 @property

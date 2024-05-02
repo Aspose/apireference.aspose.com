@@ -3,8 +3,8 @@ title: pdf_product_location property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.imageoptions/cadrasterizationoptions/pdf_product_location/
+weight: 220
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/pdf_product_location/
 is_root: false
 ---
 

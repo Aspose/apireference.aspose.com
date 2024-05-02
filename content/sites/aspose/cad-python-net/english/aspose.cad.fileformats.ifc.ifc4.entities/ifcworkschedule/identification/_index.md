@@ -3,15 +3,13 @@ title: identification property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcworkschedule/identification/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkschedule/identification/
 is_root: false
 ---
 
 ## identification property
 
-
-Identification
 ### Definition:
 ```python
 @property

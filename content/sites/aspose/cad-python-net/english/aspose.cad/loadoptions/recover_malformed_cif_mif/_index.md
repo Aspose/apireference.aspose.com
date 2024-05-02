@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad/loadoptions/recover_malformed_cif_mif/
+url: /python-net/aspose.cad/loadoptions/recover_malformed_cif_mif/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3090
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcGridPlacement
 
 **Inheritance:** [`IfcGridPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement) → 
 [`IfcObjectPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,14 +31,16 @@ The IfcGridPlacement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/entity_label) | Gets the entity label. |
-| [placement_location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placement_location) | PlacementLocation |
-| [placement_ref_direction](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placement_ref_direction) | PlacementRefDirection |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [placement_location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placement_location) |  |
+| [placement_ref_direction](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placement_ref_direction) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGridPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement)
 * class [`IfcObjectPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement)

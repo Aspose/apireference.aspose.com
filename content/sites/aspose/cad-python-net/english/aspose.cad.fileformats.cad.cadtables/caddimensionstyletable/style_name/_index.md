@@ -3,15 +3,15 @@ title: style_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 940
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/style_name/
+weight: 970
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/style_name/
 is_root: false
 ---
 
 ## style_name property
 
 
-Gets or sets The style name - 002
+Gets or sets the dimension style name.
 ### Definition:
 ```python
 @property

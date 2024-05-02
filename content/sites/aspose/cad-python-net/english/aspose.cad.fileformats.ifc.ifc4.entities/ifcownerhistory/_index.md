@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4050
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcOwnerHistory
 
 
 **Inheritance:** [`IfcOwnerHistory`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,19 +30,21 @@ The IfcOwnerHistory type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/entity_label) | Gets the entity label. |
-| [owning_user](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/owning_user) | OwningUser |
-| [owning_application](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/owning_application) | OwningApplication |
-| [state](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/state) | State |
-| [change_action](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/change_action) | ChangeAction |
-| [last_modified_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/last_modified_date) | LastModifiedDate |
-| [last_modifying_user](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/last_modifying_user) | LastModifyingUser |
-| [last_modifying_application](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/last_modifying_application) | LastModifyingApplication |
-| [creation_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/creation_date) | CreationDate |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [owning_user](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/owning_user) |  |
+| [owning_application](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/owning_application) |  |
+| [state](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/state) |  |
+| [change_action](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/change_action) |  |
+| [last_modified_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/last_modified_date) |  |
+| [last_modifying_user](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/last_modifying_user) |  |
+| [last_modifying_application](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/last_modifying_application) |  |
+| [creation_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/creation_date) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcOwnerHistory`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory)

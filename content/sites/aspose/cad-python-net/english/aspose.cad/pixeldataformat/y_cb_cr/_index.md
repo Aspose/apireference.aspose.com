@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.cad/pixeldataformat/y_cb_cr/
+url: /python-net/aspose.cad/pixeldataformat/y_cb_cr/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: v1 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/v1/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/v1/
 is_root: false
 ---
 
 ## v1 property
 
-
-V1
 ### Definition:
 ```python
 @property

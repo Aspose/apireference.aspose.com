@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 810
-url: /aspose.cad.exif/jpegexifdata/is_big_endian/
+url: /python-net/aspose.cad.exif/jpegexifdata/is_big_endian/
 is_root: false
 ---
 

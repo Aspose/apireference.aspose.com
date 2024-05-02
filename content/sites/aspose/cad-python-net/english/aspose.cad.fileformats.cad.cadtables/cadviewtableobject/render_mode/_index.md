@@ -3,8 +3,8 @@ title: render_mode property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadtables/cadviewtableobject/render_mode/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/render_mode/
 is_root: false
 ---
 

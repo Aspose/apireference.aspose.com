@@ -3,8 +3,8 @@ title: default_line_weight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad/dxfimage/default_line_weight/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/default_line_weight/
 is_root: false
 ---
 

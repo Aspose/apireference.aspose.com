@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad/rawdatasettings/custom_color_converter/
+url: /python-net/aspose.cad/rawdatasettings/custom_color_converter/
 is_root: false
 ---
 

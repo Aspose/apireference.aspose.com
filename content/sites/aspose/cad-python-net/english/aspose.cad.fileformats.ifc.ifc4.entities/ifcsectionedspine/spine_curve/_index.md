@@ -3,15 +3,13 @@ title: spine_curve property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/spine_curve/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/spine_curve/
 is_root: false
 ---
 
 ## spine_curve property
 
-
-SpineCurve
 ### Definition:
 ```python
 @property

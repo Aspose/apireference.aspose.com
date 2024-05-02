@@ -3,8 +3,8 @@ title: GifOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.imageoptions/gifoptions/
+weight: 160
+url: /python-net/aspose.cad.imageoptions/gifoptions/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ The gif file format creation options.
 
 
 **Inheritance:** [`GifOptions`](/cad/python-net/aspose.cad.imageoptions/gifoptions) → 
-[`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+[`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 
 
 
@@ -39,8 +39,10 @@ The GifOptions type exposes the following members:
 | [palette](/cad/python-net/aspose.cad.imageoptions/gifoptions/palette) | Gets or sets the color palette. |
 | [resolution_settings](/cad/python-net/aspose.cad.imageoptions/gifoptions/resolution_settings) | Gets or sets the resolution settings. |
 | [vector_rasterization_options](/cad/python-net/aspose.cad.imageoptions/gifoptions/vector_rasterization_options) | Gets or sets the vector rasterization options. |
+| [watermark_guard_options](/cad/python-net/aspose.cad.imageoptions/gifoptions/watermark_guard_options) | Gets or sets the blind watermark options. |
 | [timeout](/cad/python-net/aspose.cad.imageoptions/gifoptions/timeout) | Timeout value for export operation (in milliseconds) |
 | [pc_3_file](/cad/python-net/aspose.cad.imageoptions/gifoptions/pc_3_file) | Gets or sets the PC3 file full name. |
+| [render_to_graphics_bound](/cad/python-net/aspose.cad.imageoptions/gifoptions/render_to_graphics_bound) | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [user_watermark_text](/cad/python-net/aspose.cad.imageoptions/gifoptions/user_watermark_text) | Text for user-generated watermark |
 | [user_watermark_color](/cad/python-net/aspose.cad.imageoptions/gifoptions/user_watermark_color) | Color for user-generated watermark |
 | [do_palette_correction](/cad/python-net/aspose.cad.imageoptions/gifoptions/do_palette_correction) | Gets or sets a value indicating whether palette correction is applied. |
@@ -56,4 +58,4 @@ The GifOptions type exposes the following members:
 ### See Also
 * module [`aspose.cad.imageoptions`](..)
 * class [`GifOptions`](/cad/python-net/aspose.cad.imageoptions/gifoptions)
-* class [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+* class [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)

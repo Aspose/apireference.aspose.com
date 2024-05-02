@@ -3,8 +3,8 @@ title: has_set_last_leader_line_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadernode/has_set_last_leader_line_point/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/has_set_last_leader_line_point/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: ref_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.stp.items/stepaxis2placement/ref_direction/
+weight: 70
+url: /python-net/aspose.cad.fileformats.stp.items/stepaxis2placement/ref_direction/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: plot_paper_units property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_paper_units/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_paper_units/
 is_root: false
 ---
 

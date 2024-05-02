@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1130
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcplanarforcemeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcplanarforcemeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcPlanarForceMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcplanarforcemeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcplanarforcemeasure/value) |  |
 
 
 

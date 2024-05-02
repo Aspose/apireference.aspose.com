@@ -3,8 +3,8 @@ title: object_ids property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/object_ids/
+weight: 310
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/object_ids/
 is_root: false
 ---
 

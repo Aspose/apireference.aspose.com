@@ -3,15 +3,13 @@ title: layer_thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayerwithoffsets/layer_thickness/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayerwithoffsets/layer_thickness/
 is_root: false
 ---
 
 ## layer_thickness property
 
-
-LayerThickness
 ### Definition:
 ```python
 @property

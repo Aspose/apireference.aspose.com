@@ -3,15 +3,13 @@ title: jurisdiction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcinventory/jurisdiction/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinventory/jurisdiction/
 is_root: false
 ---
 
 ## jurisdiction property
 
-
-Jurisdiction
 ### Definition:
 ```python
 @property

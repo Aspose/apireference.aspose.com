@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 410
-url: /aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/
 is_root: false
 ---
 

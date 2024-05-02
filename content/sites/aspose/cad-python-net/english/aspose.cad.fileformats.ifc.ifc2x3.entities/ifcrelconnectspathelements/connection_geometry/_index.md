@@ -3,15 +3,13 @@ title: connection_geometry property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/connection_geometry/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectspathelements/connection_geometry/
 is_root: false
 ---
 
 ## connection_geometry property
 
-
-ConnectionGeometry
 ### Definition:
 ```python
 @property

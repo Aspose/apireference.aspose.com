@@ -3,8 +3,8 @@ title: text_start_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 640
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/text_start_point/
+weight: 710
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/text_start_point/
 is_root: false
 ---
 

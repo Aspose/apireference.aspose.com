@@ -3,15 +3,16 @@ title: dimse2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 620
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimse2/
+weight: 640
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimse2/
 is_root: false
 ---
 
 ## dimse2 property
 
 
-Gets or sets The dimse2 - 076
+Gets or sets the suppression of the second extension line. 
+Possible values are: 0 (not suppressed), 1 (suppressed).
 ### Definition:
 ```python
 @property

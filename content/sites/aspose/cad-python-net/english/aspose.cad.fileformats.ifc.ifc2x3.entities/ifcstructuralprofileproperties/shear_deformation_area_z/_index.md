@@ -3,15 +3,13 @@ title: shear_deformation_area_z property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/shear_deformation_area_z/
+weight: 250
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/shear_deformation_area_z/
 is_root: false
 ---
 
 ## shear_deformation_area_z property
 
-
-ShearDeformationAreaZ
 ### Definition:
 ```python
 @property

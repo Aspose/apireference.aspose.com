@@ -3,8 +3,8 @@ title: StepProductDefinitionFormation class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.stp.items/stepproductdefinitionformation/
+weight: 540
+url: /python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionformation/
 is_root: false
 ---
 
@@ -33,6 +33,7 @@ The StepProductDefinitionFormation type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionformation/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionformation/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionformation/id) |  |
 | [product](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionformation/product) |  |
 | [description](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionformation/description) |  |
 

@@ -3,8 +3,8 @@ title: has_m_text property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/has_m_text/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/has_m_text/
 is_root: false
 ---
 

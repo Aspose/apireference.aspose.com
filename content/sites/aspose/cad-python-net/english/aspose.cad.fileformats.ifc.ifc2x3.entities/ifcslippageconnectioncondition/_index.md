@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5180
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcSlippageConnectionCondition
 
 **Inheritance:** [`IfcSlippageConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition) → 
 [`IfcStructuralConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralconnectioncondition) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,16 +31,18 @@ The IfcSlippageConnectionCondition type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/name) | Name |
-| [slippage_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippage_x) | SlippageX |
-| [slippage_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippage_y) | SlippageY |
-| [slippage_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippage_z) | SlippageZ |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/name) |  |
+| [slippage_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippage_x) |  |
+| [slippage_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippage_y) |  |
+| [slippage_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippage_z) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcSlippageConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition)
 * class [`IfcStructuralConnectionCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralconnectioncondition)

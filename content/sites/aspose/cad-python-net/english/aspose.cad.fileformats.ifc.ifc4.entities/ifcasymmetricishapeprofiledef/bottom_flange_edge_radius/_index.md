@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_edge_radius/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottom_flange_edge_radius/
 is_root: false
 ---
 
 ## bottom_flange_edge_radius property
 
-
-BottomFlangeEdgeRadius
 ### Definition:
 ```python
 @property

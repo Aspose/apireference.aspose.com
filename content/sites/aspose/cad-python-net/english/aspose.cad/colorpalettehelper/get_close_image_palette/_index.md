@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad/colorpalettehelper/get_close_image_palette/
+url: /python-net/aspose.cad/colorpalettehelper/get_close_image_palette/
 is_root: false
 ---
 

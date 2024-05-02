@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ Represents root element of a DGN file
 
 
 **Inheritance:** [`DgnRootElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement) → 
-[`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+[`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 
 
 
@@ -24,6 +24,8 @@ The DgnRootElement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [id](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/childs) | Gets the collection of a nested entities. |
 | [metadata](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/metadata) | Gets element metadata |
 | [is_3d](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/is_3d) | Gets a value indicating whether the file is 3D model |
 | [scale](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/scale) | Gets global scale factor |
@@ -49,5 +51,5 @@ The DgnRootElement type exposes the following members:
 
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](..)
-* class [`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+* class [`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 * class [`DgnRootElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement)

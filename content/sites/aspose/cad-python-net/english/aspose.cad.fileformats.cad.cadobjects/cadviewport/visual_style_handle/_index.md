@@ -3,8 +3,8 @@ title: visual_style_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 880
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/visual_style_handle/
+weight: 950
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/visual_style_handle/
 is_root: false
 ---
 

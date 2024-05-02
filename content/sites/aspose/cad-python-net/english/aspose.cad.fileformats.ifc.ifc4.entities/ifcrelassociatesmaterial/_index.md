@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5320
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcRelAssociatesMaterial
 [`IfcRelAssociates`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociates) → 
 [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,18 +33,20 @@ The IfcRelAssociatesMaterial type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/description) | Description |
-| [relating_material](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/relating_material) | RelatingMaterial |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/description) |  |
+| [relating_material](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial/relating_material) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRelAssociates`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociates)
 * class [`IfcRelAssociatesMaterial`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesmaterial)
 * class [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship)

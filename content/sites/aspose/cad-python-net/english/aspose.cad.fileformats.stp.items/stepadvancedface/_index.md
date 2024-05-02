@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad.fileformats.stp.items/stepadvancedface/
+url: /python-net/aspose.cad.fileformats.stp.items/stepadvancedface/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepAdvancedFace type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepadvancedface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepadvancedface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepadvancedface/id) |  |
 | [bounds](/cad/python-net/aspose.cad.fileformats.stp.items/stepadvancedface/bounds) |  |
 | [face_geometry](/cad/python-net/aspose.cad.fileformats.stp.items/stepadvancedface/face_geometry) |  |
 | [same_sense](/cad/python-net/aspose.cad.fileformats.stp.items/stepadvancedface/same_sense) |  |

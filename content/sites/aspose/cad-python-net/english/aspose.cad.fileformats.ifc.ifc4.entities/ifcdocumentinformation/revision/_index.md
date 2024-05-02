@@ -3,15 +3,13 @@ title: revision property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/revision/
+weight: 170
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/revision/
 is_root: false
 ---
 
 ## revision property
 
-
-Revision
 ### Definition:
 ```python
 @property

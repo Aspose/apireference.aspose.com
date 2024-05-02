@@ -3,15 +3,13 @@ title: day_component property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/day_component/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/day_component/
 is_root: false
 ---
 
 ## day_component property
 
-
-DayComponent
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 940
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcmomentofinertiameasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmomentofinertiameasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcMomentOfInertiaMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmomentofinertiameasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmomentofinertiameasure/value) |  |
 
 
 

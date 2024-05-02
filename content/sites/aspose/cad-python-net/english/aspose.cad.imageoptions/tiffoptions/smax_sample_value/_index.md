@@ -3,8 +3,8 @@ title: smax_sample_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /aspose.cad.imageoptions/tiffoptions/smax_sample_value/
+weight: 490
+url: /python-net/aspose.cad.imageoptions/tiffoptions/smax_sample_value/
 is_root: false
 ---
 

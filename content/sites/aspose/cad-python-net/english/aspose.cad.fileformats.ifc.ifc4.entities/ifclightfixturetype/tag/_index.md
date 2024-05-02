@@ -3,15 +3,13 @@ title: tag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclightfixturetype/tag/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightfixturetype/tag/
 is_root: false
 ---
 
 ## tag property
 
-
-Tag
 ### Definition:
 ```python
 @property

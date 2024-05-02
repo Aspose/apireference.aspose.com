@@ -3,15 +3,13 @@ title: first_transom_offset property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/first_transom_offset/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/first_transom_offset/
 is_root: false
 ---
 
 ## first_transom_offset property
 
-
-FirstTransomOffset
 ### Definition:
 ```python
 @property

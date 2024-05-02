@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.fileformats.dgn/dgnelementproperties/is_snapable/
+url: /python-net/aspose.cad.fileformats.dgn/dgnelementproperties/is_snapable/
 is_root: false
 ---
 

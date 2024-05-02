@@ -3,8 +3,8 @@ title: hard_owner property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 870
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/hard_owner/
+weight: 890
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/hard_owner/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 390
-url: /aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterparameter/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterparameter/
 is_root: false
 ---
 

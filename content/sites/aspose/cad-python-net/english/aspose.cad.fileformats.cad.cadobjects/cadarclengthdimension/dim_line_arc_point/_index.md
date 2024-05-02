@@ -3,8 +3,8 @@ title: dim_line_arc_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/dim_line_arc_point/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/dim_line_arc_point/
 is_root: false
 ---
 

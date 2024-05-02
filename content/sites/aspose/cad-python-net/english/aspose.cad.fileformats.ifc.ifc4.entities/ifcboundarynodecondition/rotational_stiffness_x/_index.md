@@ -3,15 +3,13 @@ title: rotational_stiffness_x property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/rotational_stiffness_x/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/rotational_stiffness_x/
 is_root: false
 ---
 
 ## rotational_stiffness_x property
 
-
-RotationalStiffnessX
 ### Definition:
 ```python
 @property

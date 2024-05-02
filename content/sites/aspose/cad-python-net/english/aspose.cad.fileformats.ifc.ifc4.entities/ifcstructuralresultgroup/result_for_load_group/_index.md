@@ -3,15 +3,13 @@ title: result_for_load_group property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralresultgroup/result_for_load_group/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralresultgroup/result_for_load_group/
 is_root: false
 ---
 
 ## result_for_load_group property
 
-
-ResultForLoadGroup
 ### Definition:
 ```python
 @property

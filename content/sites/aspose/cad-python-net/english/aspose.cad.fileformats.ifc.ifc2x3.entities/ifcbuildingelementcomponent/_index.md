@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 560
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcBuildingElementComponent
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,15 +30,17 @@ The IfcBuildingElementComponent type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/tag) | Tag |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent/tag) |  |
 
 
 
@@ -47,7 +49,7 @@ The IfcBuildingElementComponent type exposes the following members:
 * class [`IfcBuildingElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelement)
 * class [`IfcBuildingElementComponent`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProduct`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct)

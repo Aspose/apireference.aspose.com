@@ -3,8 +3,8 @@ title: IfcTransformerTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3760
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctransformertypeenum/
+weight: 3770
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctransformertypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcTransformerTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CURRENT | CURRENT |
-| FREQUENCY | FREQUENCY |
-| INVERTER | INVERTER |
-| RECTIFIER | RECTIFIER |
-| VOLTAGE | VOLTAGE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CURRENT |  |
+| FREQUENCY |  |
+| INVERTER |  |
+| RECTIFIER |  |
+| VOLTAGE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

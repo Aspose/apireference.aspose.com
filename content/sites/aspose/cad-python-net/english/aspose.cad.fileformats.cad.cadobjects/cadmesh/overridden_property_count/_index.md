@@ -3,8 +3,8 @@ title: overridden_property_count property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadobjects/cadmesh/overridden_property_count/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmesh/overridden_property_count/
 is_root: false
 ---
 

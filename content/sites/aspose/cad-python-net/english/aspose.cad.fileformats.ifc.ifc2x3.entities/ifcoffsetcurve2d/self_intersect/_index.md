@@ -3,15 +3,13 @@ title: self_intersect property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcoffsetcurve2d/self_intersect/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcoffsetcurve2d/self_intersect/
 is_root: false
 ---
 
 ## self_intersect property
 
-
-SelfIntersect
 ### Definition:
 ```python
 @property

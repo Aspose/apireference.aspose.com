@@ -3,8 +3,8 @@ title: get_bounds method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad/dxfimage/get_bounds/
+weight: 60
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/get_bounds/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ def get_bounds(self):
 
 
 
-## get_bounds {#aspose.cad.fileformats.cad.cadobjects.CadBaseEntity}
+## get_bounds {#aspose.cad.fileformats.cad.cadobjects.CadEntityBase}
 
 Fills Bounds property (contains minimum and maximum point) for entity.
 
@@ -36,7 +36,7 @@ def get_bounds(self, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | aspose.cad.fileformats.cad.cadobjects.CadBaseEntity |  |
+| entity | aspose.cad.fileformats.cad.cadobjects.CadEntityBase |  |
 
 
 

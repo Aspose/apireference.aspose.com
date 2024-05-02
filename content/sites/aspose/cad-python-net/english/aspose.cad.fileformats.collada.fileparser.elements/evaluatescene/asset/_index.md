@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.collada.fileparser.elements/evaluatescene/asset/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/evaluatescene/asset/
 is_root: false
 ---
 

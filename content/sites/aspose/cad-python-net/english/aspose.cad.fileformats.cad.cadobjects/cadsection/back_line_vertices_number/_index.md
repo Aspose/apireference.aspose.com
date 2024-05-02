@@ -3,8 +3,8 @@ title: back_line_vertices_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/back_line_vertices_number/
+weight: 110
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/back_line_vertices_number/
 is_root: false
 ---
 

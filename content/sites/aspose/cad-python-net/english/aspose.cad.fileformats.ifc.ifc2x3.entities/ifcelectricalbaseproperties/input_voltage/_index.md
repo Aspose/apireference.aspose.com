@@ -3,15 +3,13 @@ title: input_voltage property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/input_voltage/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/input_voltage/
 is_root: false
 ---
 
 ## input_voltage property
 
-
-InputVoltage
 ### Definition:
 ```python
 @property

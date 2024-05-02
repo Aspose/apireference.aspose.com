@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.cf2/cf2aux/line_type_definitions/
+url: /python-net/aspose.cad.fileformats.cf2/cf2aux/line_type_definitions/
 is_root: false
 ---
 

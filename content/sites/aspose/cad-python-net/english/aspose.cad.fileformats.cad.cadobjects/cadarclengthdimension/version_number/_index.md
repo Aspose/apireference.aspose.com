@@ -3,8 +3,8 @@ title: version_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 700
-url: /aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/version_number/
+weight: 780
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/version_number/
 is_root: false
 ---
 

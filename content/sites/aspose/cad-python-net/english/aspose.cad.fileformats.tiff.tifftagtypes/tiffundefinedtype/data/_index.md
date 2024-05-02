@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/data/
+url: /python-net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/data/
 is_root: false
 ---
 

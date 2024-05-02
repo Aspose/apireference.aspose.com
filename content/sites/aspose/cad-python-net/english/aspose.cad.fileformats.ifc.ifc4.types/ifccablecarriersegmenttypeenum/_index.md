@@ -3,8 +3,8 @@ title: IfcCableCarrierSegmentTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2160
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifccablecarriersegmenttypeenum/
+weight: 2170
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifccablecarriersegmenttypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcCableCarrierSegmentTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CABLELADDERSEGMENT | CABLELADDERSEGMENT |
-| CABLETRAYSEGMENT | CABLETRAYSEGMENT |
-| CABLETRUNKINGSEGMENT | CABLETRUNKINGSEGMENT |
-| CONDUITSEGMENT | CONDUITSEGMENT |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CABLELADDERSEGMENT |  |
+| CABLETRAYSEGMENT |  |
+| CABLETRUNKINGSEGMENT |  |
+| CONDUITSEGMENT |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

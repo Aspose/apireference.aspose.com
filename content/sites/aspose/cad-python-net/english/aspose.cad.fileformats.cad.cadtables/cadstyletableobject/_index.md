@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.cad.cadtables/cadstyletableobject/
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/
 is_root: false
 ---
 
@@ -15,8 +15,8 @@ The Cad style table object.
 
 
 **Inheritance:** [`CadStyleTableObject`](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject) → 
-[`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) → 
-[`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
+[`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) → 
+[`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
 
 
 
@@ -25,7 +25,7 @@ The CadStyleTableObject type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/__init__/#) | Initializes a new instance of the [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) class. |
+| [__init__](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/__init__/#) | Initializes a new instance of the [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) class. |
 
 
 ### Properties
@@ -39,6 +39,7 @@ The CadStyleTableObject type exposes the following members:
 | [attribute_102_values](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/attribute_102_values) | Gets or sets the attribute102 values. |
 | [numreactors](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/numreactors) | The Numreactors |
 | [reactors](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/reactors) | Get or sets the reactors handle |
+| [storage_flag](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/storage_flag) | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [hard_owner](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/hard_owner) | Gets or sets the hard owner. |
 | [soft_owner](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/soft_owner) | Gets or sets the soft owner. |
 | [is_soft_owner_set](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/is_soft_owner_set) | Gets a value indicating whether soft owner is set. |
@@ -53,9 +54,16 @@ The CadStyleTableObject type exposes the following members:
 | [width_factor](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/width_factor) | Gets or sets the width factor. |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [get_uid](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/get_uid/#) | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [set_uid](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/set_uid/#str) | Sets |
+
+
 
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadtables`](..)
-* class [`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
-* class [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned)
+* class [`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
+* class [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase)
 * class [`CadStyleTableObject`](/cad/python-net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject)

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/generation_option_flag/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/generation_option_flag/
 is_root: false
 ---
 

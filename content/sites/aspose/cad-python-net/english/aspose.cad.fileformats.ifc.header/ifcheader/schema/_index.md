@@ -4,14 +4,14 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.header/ifcheader/schema/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcheader/schema/
 is_root: false
 ---
 
 ## schema property
 
 
-Gets or sets the schema.
+Gets or sets the schema property for IFC.
 ### Definition:
 ```python
 @property

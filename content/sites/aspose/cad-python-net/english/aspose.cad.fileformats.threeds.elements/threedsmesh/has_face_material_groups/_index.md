@@ -3,8 +3,8 @@ title: has_face_material_groups property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.threeds.elements/threedsmesh/has_face_material_groups/
+weight: 60
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsmesh/has_face_material_groups/
 is_root: false
 ---
 

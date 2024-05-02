@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 330
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcdatetime/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcdatetime/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcDateTime type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcdatetime/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcdatetime/value) |  |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /aspose.cad.exif/exifdata/gain_control/
+url: /python-net/aspose.cad.exif/exifdata/gain_control/
 is_root: false
 ---
 

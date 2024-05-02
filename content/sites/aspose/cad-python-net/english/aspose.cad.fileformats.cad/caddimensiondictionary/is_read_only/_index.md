@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad.fileformats.cad/caddimensiondictionary/is_read_only/
+url: /python-net/aspose.cad.fileformats.cad/caddimensiondictionary/is_read_only/
 is_root: false
 ---
 

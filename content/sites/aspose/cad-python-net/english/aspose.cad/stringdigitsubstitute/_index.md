@@ -3,8 +3,8 @@ title: StringDigitSubstitute enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 800
-url: /aspose.cad/stringdigitsubstitute/
+weight: 880
+url: /python-net/aspose.cad/stringdigitsubstitute/
 is_root: false
 ---
 

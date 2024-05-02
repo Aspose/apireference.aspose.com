@@ -3,15 +3,13 @@ title: tag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmesh/tag/
+weight: 200
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmesh/tag/
 is_root: false
 ---
 
 ## tag property
 
-
-Tag
 ### Definition:
 ```python
 @property

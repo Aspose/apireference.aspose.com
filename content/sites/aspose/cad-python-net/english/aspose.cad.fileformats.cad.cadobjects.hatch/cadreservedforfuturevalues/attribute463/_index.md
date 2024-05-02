@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute463/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute463/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad/
+url: /python-net/aspose.cad/
 is_root: false
 ---
 
@@ -25,11 +25,14 @@ The namespace is the core for nested namespaces and the most basic objects used 
 | [`ColorTranslator`](/cad/python-net/aspose.cad/colortranslator) | Translates colors to and from GDI+ Color structures. This class cannot be inherited. |
 | [`DataStreamSupporter`](/cad/python-net/aspose.cad/datastreamsupporter) | The data stream container. |
 | [`DisposableObject`](/cad/python-net/aspose.cad/disposableobject) | Represents disposable object. |
+| [`DrawingEntity3D`](/cad/python-net/aspose.cad/drawingentity3d) |  |
+| [`FileFormatMetadataAttribute`](/cad/python-net/aspose.cad/fileformatmetadataattribute) |  |
 | [`FileStreamContainer`](/cad/python-net/aspose.cad/filestreamcontainer) | Helper for file stream processing. |
 | [`IAdvancedBufferProcessor`](/cad/python-net/aspose.cad/iadvancedbufferprocessor) | The advanced buffer processor. |
 | [`IBufferProcessor`](/cad/python-net/aspose.cad/ibufferprocessor) | The buffer processor. |
 | [`IColorConverter`](/cad/python-net/aspose.cad/icolorconverter) | The color converter. |
 | [`IColorPalette`](/cad/python-net/aspose.cad/icolorpalette) | The color palette interface. |
+| [`IDrawingEntity`](/cad/python-net/aspose.cad/idrawingentity) | Represents basic interface for any object of any drawing. |
 | [`IIndexedColorConverter`](/cad/python-net/aspose.cad/iindexedcolorconverter) | The color converter for indexed image formats. |
 | [`IKeyedObject`](/cad/python-net/aspose.cad/ikeyedobject) | Represents interface for objects with keys. |
 | [`IObjectWithBounds`](/cad/python-net/aspose.cad/iobjectwithbounds) | Represents an object with bounds. |
@@ -41,9 +44,7 @@ The namespace is the core for nested namespaces and the most basic objects used 
 | [`IRasterImagePixelLoader`](/cad/python-net/aspose.cad/irasterimagepixelloader) | The raster image pixel loader. |
 | [`IRasterImageRawDataLoader`](/cad/python-net/aspose.cad/irasterimagerawdataloader) | The raster image raw data loader. |
 | [`Image`](/cad/python-net/aspose.cad/image) | The image is the base class for all type of drawings. |
-| [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase) | The image base options. |
 | [`ImageResizeSettings`](/cad/python-net/aspose.cad/imageresizesettings) | Image resize settings class |
-| [`InputAttribute`](/cad/python-net/aspose.cad/inputattribute) |  |
 | [`IntRange`](/cad/python-net/aspose.cad/intrange) | Class for representing sequence of elements |
 | [`License`](/cad/python-net/aspose.cad/license) | Provides methods to license the component. |
 | [`LoadOptions`](/cad/python-net/aspose.cad/loadoptions) | Represents the loading options. |
@@ -53,7 +54,7 @@ The namespace is the core for nested namespaces and the most basic objects used 
 | [`NonGenericDictionary`](/cad/python-net/aspose.cad/nongenericdictionary) | Represents a non generic dictionary. |
 | [`NonGenericList`](/cad/python-net/aspose.cad/nongenericlist) | Non generic list of objects |
 | [`ObjectWithBounds`](/cad/python-net/aspose.cad/objectwithbounds) | The object having bounds. |
-| [`OutputAttribute`](/cad/python-net/aspose.cad/outputattribute) |  |
+| [`PaperToCadOptions`](/cad/python-net/aspose.cad/papertocadoptions) |  |
 | [`PixelDataFormat`](/cad/python-net/aspose.cad/pixeldataformat) | The pixel data format. |
 | [`Point`](/cad/python-net/aspose.cad/point) | Represents an ordered pair of integer x- and y-coordinates that defines a point in a two-dimensional plane. |
 | [`PointF`](/cad/python-net/aspose.cad/pointf) | Represents an ordered pair of floating-point x- and y-coordinates that defines a point in a two-dimensional plane. |
@@ -68,6 +69,12 @@ The namespace is the core for nested namespaces and the most basic objects used 
 | [`Source`](/cad/python-net/aspose.cad/source) | The source is used to contain all relevant information for an object pipe. |
 | [`StreamContainer`](/cad/python-net/aspose.cad/streamcontainer) | Represents stream container which contains the stream and provides stream processing routines. |
 | [`TransparencySupporter`](/cad/python-net/aspose.cad/transparencysupporter) | The object supporting transparency. |
+| [`Vector2F`](/cad/python-net/aspose.cad/vector2f) | Vector with 2 float parameters |
+| [`Vector3F`](/cad/python-net/aspose.cad/vector3f) | Vector with 3 float parameters |
+| [`Vector4F`](/cad/python-net/aspose.cad/vector4f) | Vector with 4 float parameters |
+| [`VectorizationOptions`](/cad/python-net/aspose.cad/vectorizationoptions) |  |
+| [`WatermarkGuardOptions`](/cad/python-net/aspose.cad/watermarkguardoptions) |  |
+| [`XmpPacketWrapper`](/cad/python-net/aspose.cad/xmppacketwrapper) | Contains serialized XMP package including header and trailer. |
 
 
 ### Enumerations
@@ -82,6 +89,7 @@ The namespace is the core for nested namespaces and the most basic objects used 
 | [`DitheringMethod`](/cad/python-net/aspose.cad/ditheringmethod) | Dithering method. |
 | [`DitheringMethods`](/cad/python-net/aspose.cad/ditheringmethods) | The dithering methods used to control color conversion. |
 | [`FileFormat`](/cad/python-net/aspose.cad/fileformat) | One of supported CAD file formats. |
+| [`FileFormatCategory`](/cad/python-net/aspose.cad/fileformatcategory) |  |
 | [`FontStyle`](/cad/python-net/aspose.cad/fontstyle) | Specifies style information applied to text. |
 | [`GraphicsUnit`](/cad/python-net/aspose.cad/graphicsunit) | Specifies the unit of measure for the given data. |
 | [`HotkeyPrefix`](/cad/python-net/aspose.cad/hotkeyprefix) | Specifies the type of display for hot-key prefixes that relate to text. |
@@ -101,5 +109,6 @@ The namespace is the core for nested namespaces and the most basic objects used 
 | [`StringFormatFlags`](/cad/python-net/aspose.cad/stringformatflags) | Specifies the display and layout information for text strings. |
 | [`StringTrimming`](/cad/python-net/aspose.cad/stringtrimming) | Specifies how to trim characters from a string that does not completely fit into a layout shape. |
 | [`TextRenderingHint`](/cad/python-net/aspose.cad/textrenderinghint) | Specifies the quality of text rendering. |
+| [`VectorizationMethod`](/cad/python-net/aspose.cad/vectorizationmethod) | Pixel matching rule for validation |
 
 

@@ -3,8 +3,8 @@ title: is_single_use property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/is_single_use/
+weight: 390
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/is_single_use/
 is_root: false
 ---
 

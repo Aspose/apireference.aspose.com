@@ -3,8 +3,8 @@ title: StepPCurve class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.stp.items/steppcurve/
+weight: 460
+url: /python-net/aspose.cad.fileformats.stp.items/steppcurve/
 is_root: false
 ---
 
@@ -26,7 +26,7 @@ The StepPCurve type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/steppcurve/__init__/#str) | Constructs a new instance of StepPCurve |
+| [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/steppcurve/__init__/#str-aspose.cad.fileformats.stp.items.StepElementarySurface-aspose.cad.fileformats.stp.items.StepDefinitionalRepresentation) | Constructs a new instance of StepPCurve |
 
 
 ### Properties
@@ -34,6 +34,7 @@ The StepPCurve type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steppcurve/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steppcurve/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steppcurve/id) |  |
 | [surface](/cad/python-net/aspose.cad.fileformats.stp.items/steppcurve/surface) |  |
 | [representation](/cad/python-net/aspose.cad.fileformats.stp.items/steppcurve/representation) |  |
 

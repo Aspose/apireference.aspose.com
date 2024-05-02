@@ -3,8 +3,8 @@ title: clip_boundaries property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/clip_boundaries/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/clip_boundaries/
 is_root: false
 ---
 

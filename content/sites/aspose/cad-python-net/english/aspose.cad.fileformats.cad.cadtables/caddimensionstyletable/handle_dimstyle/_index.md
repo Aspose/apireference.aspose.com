@@ -3,8 +3,8 @@ title: handle_dimstyle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 860
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/handle_dimstyle/
+weight: 880
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/handle_dimstyle/
 is_root: false
 ---
 

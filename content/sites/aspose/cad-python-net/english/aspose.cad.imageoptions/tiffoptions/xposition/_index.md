@@ -3,8 +3,8 @@ title: xposition property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 660
-url: /aspose.cad.imageoptions/tiffoptions/xposition/
+weight: 680
+url: /python-net/aspose.cad.imageoptions/tiffoptions/xposition/
 is_root: false
 ---
 

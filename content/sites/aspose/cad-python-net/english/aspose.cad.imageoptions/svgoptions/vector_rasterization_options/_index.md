@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.cad.imageoptions/svgoptions/vector_rasterization_options/
+url: /python-net/aspose.cad.imageoptions/svgoptions/vector_rasterization_options/
 is_root: false
 ---
 

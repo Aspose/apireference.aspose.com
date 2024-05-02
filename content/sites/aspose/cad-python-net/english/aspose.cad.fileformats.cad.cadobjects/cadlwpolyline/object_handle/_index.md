@@ -3,8 +3,8 @@ title: object_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/object_handle/
+weight: 410
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/object_handle/
 is_root: false
 ---
 

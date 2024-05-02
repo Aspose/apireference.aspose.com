@@ -3,8 +3,8 @@ title: is_not_annotative property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 610
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/is_not_annotative/
+weight: 680
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/is_not_annotative/
 is_root: false
 ---
 

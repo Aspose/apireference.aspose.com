@@ -3,15 +3,13 @@ title: primary_unit property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/primary_unit/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/primary_unit/
 is_root: false
 ---
 
 ## primary_unit property
 
-
-PrimaryUnit
 ### Definition:
 ```python
 @property

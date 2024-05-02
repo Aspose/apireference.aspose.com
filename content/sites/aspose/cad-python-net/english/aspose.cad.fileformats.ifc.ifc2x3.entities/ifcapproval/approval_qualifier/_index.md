@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approval_qualifier/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approval_qualifier/
 is_root: false
 ---
 
 ## approval_qualifier property
 
-
-ApprovalQualifier
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/text/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/text/
 is_root: false
 ---
 

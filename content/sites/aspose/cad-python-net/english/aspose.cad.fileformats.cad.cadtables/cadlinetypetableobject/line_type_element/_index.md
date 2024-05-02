@@ -3,8 +3,8 @@ title: line_type_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/line_type_element/
+weight: 150
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/line_type_element/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.imageoptions/pdfdocumentoptions/digital_signature_details/
+url: /python-net/aspose.cad.imageoptions/pdfdocumentoptions/digital_signature_details/
 is_root: false
 ---
 

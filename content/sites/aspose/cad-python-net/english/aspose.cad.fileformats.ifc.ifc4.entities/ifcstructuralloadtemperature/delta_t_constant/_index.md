@@ -3,15 +3,13 @@ title: delta_t_constant property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadtemperature/delta_t_constant/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadtemperature/delta_t_constant/
 is_root: false
 ---
 
 ## delta_t_constant property
 
-
-DeltaTConstant
 ### Definition:
 ```python
 @property

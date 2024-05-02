@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/rastercachedimage/adjust_brightness/
+url: /python-net/aspose.cad/rastercachedimage/adjust_brightness/
 is_root: false
 ---
 

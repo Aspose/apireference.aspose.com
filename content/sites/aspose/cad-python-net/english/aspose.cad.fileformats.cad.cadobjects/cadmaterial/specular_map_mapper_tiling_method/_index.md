@@ -3,8 +3,8 @@ title: specular_map_mapper_tiling_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 980
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_mapper_tiling_method/
+weight: 1070
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_mapper_tiling_method/
 is_root: false
 ---
 

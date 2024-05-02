@@ -3,15 +3,13 @@ title: late_finish property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/late_finish/
+weight: 170
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/late_finish/
 is_root: false
 ---
 
 ## late_finish property
 
-
-LateFinish
 ### Definition:
 ```python
 @property

@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalactorrelationship/approval/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalactorrelationship/approval/
 is_root: false
 ---
 
 ## approval property
 
-
-Approval
 ### Definition:
 ```python
 @property

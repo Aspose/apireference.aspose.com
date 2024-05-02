@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad/nongenericdictionary/keys/
+url: /python-net/aspose.cad/nongenericdictionary/keys/
 is_root: false
 ---
 

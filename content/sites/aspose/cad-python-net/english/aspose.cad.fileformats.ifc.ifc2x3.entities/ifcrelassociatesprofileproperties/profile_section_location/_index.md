@@ -3,15 +3,13 @@ title: profile_section_location property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/profile_section_location/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/profile_section_location/
 is_root: false
 ---
 
 ## profile_section_location property
 
-
-ProfileSectionLocation
 ### Definition:
 ```python
 @property

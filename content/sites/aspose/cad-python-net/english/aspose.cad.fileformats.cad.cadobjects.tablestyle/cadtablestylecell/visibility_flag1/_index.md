@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibility_flag1/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibility_flag1/
 is_root: false
 ---
 

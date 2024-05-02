@@ -3,8 +3,8 @@ title: edge_style_model property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edge_style_model/
+weight: 310
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edge_style_model/
 is_root: false
 ---
 

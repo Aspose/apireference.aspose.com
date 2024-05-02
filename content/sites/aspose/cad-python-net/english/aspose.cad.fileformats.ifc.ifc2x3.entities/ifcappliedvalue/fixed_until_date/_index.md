@@ -3,15 +3,13 @@ title: fixed_until_date property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/fixed_until_date/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/fixed_until_date/
 is_root: false
 ---
 
 ## fixed_until_date property
 
-
-FixedUntilDate
 ### Definition:
 ```python
 @property

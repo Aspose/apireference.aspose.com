@@ -3,8 +3,8 @@ title: IfcPumpTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3310
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcpumptypeenum/
+weight: 3320
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpumptypeenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcPumpTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CIRCULATOR | CIRCULATOR |
-| ENDSUCTION | ENDSUCTION |
-| SPLITCASE | SPLITCASE |
-| SUBMERSIBLEPUMP | SUBMERSIBLEPUMP |
-| SUMPPUMP | SUMPPUMP |
-| VERTICALINLINE | VERTICALINLINE |
-| VERTICALTURBINE | VERTICALTURBINE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CIRCULATOR |  |
+| ENDSUCTION |  |
+| SPLITCASE |  |
+| SUBMERSIBLEPUMP |  |
+| SUMPPUMP |  |
+| VERTICALINLINE |  |
+| VERTICALTURBINE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

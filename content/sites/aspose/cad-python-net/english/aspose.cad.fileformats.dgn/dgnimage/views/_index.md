@@ -3,8 +3,8 @@ title: views property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.dgn/dgnimage/views/
+weight: 300
+url: /python-net/aspose.cad.fileformats.dgn/dgnimage/views/
 is_root: false
 ---
 

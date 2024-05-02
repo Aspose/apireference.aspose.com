@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 980
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcConditionCriterion
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,14 +34,16 @@ The IfcConditionCriterion type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/object_type) | ObjectType |
-| [criterion](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/criterion) | Criterion |
-| [criterion_date_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/criterion_date_time) | CriterionDateTime |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/object_type) |  |
+| [criterion](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/criterion) |  |
+| [criterion_date_time](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/criterion_date_time) |  |
 
 
 
@@ -49,7 +51,7 @@ The IfcConditionCriterion type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcConditionCriterion`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion)
 * class [`IfcControl`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)

@@ -3,15 +3,16 @@ title: dimtih property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 680
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtih/
+weight: 700
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtih/
 is_root: false
 ---
 
 ## dimtih property
 
 
-Gets or sets The dimtih - 073
+Gets or sets the position of dimension text inside the extension lines (except ordinate dimensions).
+Possible values are: 0 (aligns text with the dimension line),  1 (horizontal text).
 ### Definition:
 ```python
 @property

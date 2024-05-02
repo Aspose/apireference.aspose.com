@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5370
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcRelConnectsPorts
 [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects) → 
 [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,20 +33,22 @@ The IfcRelConnectsPorts type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/description) | Description |
-| [relating_port](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/relating_port) | RelatingPort |
-| [related_port](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/related_port) | RelatedPort |
-| [realizing_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/realizing_element) | RealizingElement |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/description) |  |
+| [relating_port](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/relating_port) |  |
+| [related_port](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/related_port) |  |
+| [realizing_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports/realizing_element) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRelConnects`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnects)
 * class [`IfcRelConnectsPorts`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsports)
 * class [`IfcRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship)

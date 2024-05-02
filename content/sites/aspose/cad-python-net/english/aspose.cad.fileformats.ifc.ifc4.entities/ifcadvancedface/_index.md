@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcAdvancedFace
 [`IfcFace`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcface) → 
 [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctopologicalrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,16 +34,18 @@ The IfcAdvancedFace type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/entity_label) | Gets the entity label. |
-| [face_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/face_surface) | FaceSurface |
-| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/same_sense) | SameSense |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [face_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/face_surface) |  |
+| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/same_sense) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcAdvancedFace`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcFace`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcface)
 * class [`IfcFaceSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacesurface)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

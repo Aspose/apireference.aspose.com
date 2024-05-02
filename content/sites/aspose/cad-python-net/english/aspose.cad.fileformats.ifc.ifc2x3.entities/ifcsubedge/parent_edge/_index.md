@@ -3,15 +3,13 @@ title: parent_edge property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsubedge/parent_edge/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsubedge/parent_edge/
 is_root: false
 ---
 
 ## parent_edge property
 
-
-ParentEdge
 ### Definition:
 ```python
 @property

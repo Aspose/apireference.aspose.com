@@ -3,15 +3,13 @@ title: hardness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/hardness/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/hardness/
 is_root: false
 ---
 
 ## hardness property
 
-
-Hardness
 ### Definition:
 ```python
 @property

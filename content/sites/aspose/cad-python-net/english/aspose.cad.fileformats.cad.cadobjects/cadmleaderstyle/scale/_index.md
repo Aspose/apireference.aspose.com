@@ -3,8 +3,8 @@ title: scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 660
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/scale/
+weight: 730
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/scale/
 is_root: false
 ---
 

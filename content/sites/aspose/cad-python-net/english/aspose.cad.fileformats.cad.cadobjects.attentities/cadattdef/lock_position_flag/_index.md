@@ -3,8 +3,8 @@ title: lock_position_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/lock_position_flag/
+weight: 460
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/lock_position_flag/
 is_root: false
 ---
 

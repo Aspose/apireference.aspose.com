@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imageoptions/pdfdocumentoptions/compliance/
+url: /python-net/aspose.cad.imageoptions/pdfdocumentoptions/compliance/
 is_root: false
 ---
 

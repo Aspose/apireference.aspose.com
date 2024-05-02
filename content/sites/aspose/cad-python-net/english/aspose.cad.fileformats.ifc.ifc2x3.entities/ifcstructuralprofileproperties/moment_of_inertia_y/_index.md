@@ -3,15 +3,13 @@ title: moment_of_inertia_y property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/moment_of_inertia_y/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/moment_of_inertia_y/
 is_root: false
 ---
 
 ## moment_of_inertia_y property
 
-
-MomentOfInertiaY
 ### Definition:
 ```python
 @property

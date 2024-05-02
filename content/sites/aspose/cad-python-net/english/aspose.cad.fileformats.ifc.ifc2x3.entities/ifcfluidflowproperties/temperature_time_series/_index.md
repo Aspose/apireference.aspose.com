@@ -3,15 +3,13 @@ title: temperature_time_series property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/temperature_time_series/
+weight: 190
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/temperature_time_series/
 is_root: false
 ---
 
 ## temperature_time_series property
 
-
-TemperatureTimeSeries
 ### Definition:
 ```python
 @property

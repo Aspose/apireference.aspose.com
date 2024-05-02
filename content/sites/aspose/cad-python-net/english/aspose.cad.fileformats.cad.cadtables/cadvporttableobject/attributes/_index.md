@@ -3,8 +3,8 @@ title: attributes property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/attributes/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/attributes/
 is_root: false
 ---
 

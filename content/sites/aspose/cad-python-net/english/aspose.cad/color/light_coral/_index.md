@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 850
-url: /aspose.cad/color/light_coral/
+url: /python-net/aspose.cad/color/light_coral/
 is_root: false
 ---
 

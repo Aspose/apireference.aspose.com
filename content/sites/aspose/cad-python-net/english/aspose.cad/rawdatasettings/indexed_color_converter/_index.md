@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad/rawdatasettings/indexed_color_converter/
+url: /python-net/aspose.cad/rawdatasettings/indexed_color_converter/
 is_root: false
 ---
 

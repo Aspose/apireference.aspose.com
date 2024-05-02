@@ -3,8 +3,8 @@ title: width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 890
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/width/
+weight: 960
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/width/
 is_root: false
 ---
 

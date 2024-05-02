@@ -3,8 +3,8 @@ title: ImageFilterType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 680
-url: /aspose.cad/imagefiltertype/
+weight: 760
+url: /python-net/aspose.cad/imagefiltertype/
 is_root: false
 ---
 

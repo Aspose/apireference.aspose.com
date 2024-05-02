@@ -3,8 +3,8 @@ title: suppress_title property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppress_title/
+weight: 620
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppress_title/
 is_root: false
 ---
 

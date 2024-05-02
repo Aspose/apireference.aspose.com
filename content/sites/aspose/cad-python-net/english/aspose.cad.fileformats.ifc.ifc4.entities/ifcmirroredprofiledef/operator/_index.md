@@ -3,15 +3,13 @@ title: operator property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmirroredprofiledef/operator/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmirroredprofiledef/operator/
 is_root: false
 ---
 
 ## operator property
 
-
-Operator
 ### Definition:
 ```python
 @property

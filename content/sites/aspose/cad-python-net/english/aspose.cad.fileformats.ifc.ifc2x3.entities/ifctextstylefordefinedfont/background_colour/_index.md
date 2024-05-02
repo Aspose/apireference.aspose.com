@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/background_colour/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/background_colour/
 is_root: false
 ---
 
 ## background_colour property
 
-
-BackgroundColour
 ### Definition:
 ```python
 @property

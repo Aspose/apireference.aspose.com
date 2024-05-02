@@ -3,15 +3,13 @@ title: minute_offset property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minute_offset/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minute_offset/
 is_root: false
 ---
 
 ## minute_offset property
 
-
-MinuteOffset
 ### Definition:
 ```python
 @property

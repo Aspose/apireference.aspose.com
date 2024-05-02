@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /aspose.cad/filestreamcontainer/is_stream_disposed_on_close/
+url: /python-net/aspose.cad/filestreamcontainer/is_stream_disposed_on_close/
 is_root: false
 ---
 

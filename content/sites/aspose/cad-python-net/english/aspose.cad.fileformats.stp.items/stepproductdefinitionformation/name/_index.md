@@ -3,8 +3,8 @@ title: name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.stp.items/stepproductdefinitionformation/name/
+weight: 60
+url: /python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionformation/name/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: grid_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/grid_spacing/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/grid_spacing/
 is_root: false
 ---
 

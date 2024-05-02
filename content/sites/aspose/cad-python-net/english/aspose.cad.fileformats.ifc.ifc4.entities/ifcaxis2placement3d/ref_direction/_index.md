@@ -3,15 +3,13 @@ title: ref_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis2placement3d/ref_direction/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis2placement3d/ref_direction/
 is_root: false
 ---
 
 ## ref_direction property
 
-
-RefDirection
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: frame_depth property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpermeablecoveringproperties/frame_depth/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpermeablecoveringproperties/frame_depth/
 is_root: false
 ---
 
 ## frame_depth property
 
-
-FrameDepth
 ### Definition:
 ```python
 @property

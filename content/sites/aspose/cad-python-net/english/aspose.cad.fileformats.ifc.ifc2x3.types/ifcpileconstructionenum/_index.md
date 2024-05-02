@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2610
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcpileconstructionenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpileconstructionenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcPileConstructionEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CAST_IN_PLACE | CAST_IN_PLACE |
-| COMPOSITE | COMPOSITE |
-| PRECAST_CONCRETE | PRECAST_CONCRETE |
-| PREFAB_STEEL | PREFAB_STEEL |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CAST_IN_PLACE |  |
+| COMPOSITE |  |
+| PRECAST_CONCRETE |  |
+| PREFAB_STEEL |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

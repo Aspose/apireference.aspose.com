@@ -3,15 +3,13 @@ title: x_axis_abscissa property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/x_axis_abscissa/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/x_axis_abscissa/
 is_root: false
 ---
 
 ## x_axis_abscissa property
 
-
-XAxisAbscissa
 ### Definition:
 ```python
 @property

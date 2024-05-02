@@ -3,8 +3,8 @@ title: start_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects/cadarc/start_angle/
+weight: 500
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarc/start_angle/
 is_root: false
 ---
 

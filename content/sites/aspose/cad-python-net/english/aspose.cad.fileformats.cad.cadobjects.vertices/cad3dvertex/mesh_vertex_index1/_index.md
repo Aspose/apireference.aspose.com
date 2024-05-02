@@ -3,8 +3,8 @@ title: mesh_vertex_index1 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/mesh_vertex_index1/
+weight: 380
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/mesh_vertex_index1/
 is_root: false
 ---
 

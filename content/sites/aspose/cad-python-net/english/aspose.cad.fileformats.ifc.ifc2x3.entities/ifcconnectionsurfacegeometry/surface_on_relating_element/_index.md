@@ -3,15 +3,13 @@ title: surface_on_relating_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/surface_on_relating_element/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/surface_on_relating_element/
 is_root: false
 ---
 
 ## surface_on_relating_element property
 
-
-SurfaceOnRelatingElement
 ### Definition:
 ```python
 @property

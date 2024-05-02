@@ -3,15 +3,17 @@ title: dimaltf property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimaltf/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimaltf/
 is_root: false
 ---
 
 ## dimaltf property
 
 
-Gets or sets The dimaltf -143
+Gets or sets the multiplier for the alternate units. 
+If Dimalt is turned on, this value sets the factor of multiplying linear dimensions. 
+Represents the number of millimeters in an inch.
 ### Definition:
 ```python
 @property

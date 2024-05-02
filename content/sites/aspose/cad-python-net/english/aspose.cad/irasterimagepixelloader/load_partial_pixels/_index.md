@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/irasterimagepixelloader/load_partial_pixels/
+url: /python-net/aspose.cad/irasterimagepixelloader/load_partial_pixels/
 is_root: false
 ---
 

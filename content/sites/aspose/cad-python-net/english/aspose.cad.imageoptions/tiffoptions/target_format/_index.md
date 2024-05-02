@@ -3,8 +3,8 @@ title: target_format property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 560
-url: /aspose.cad.imageoptions/tiffoptions/target_format/
+weight: 570
+url: /python-net/aspose.cad.imageoptions/tiffoptions/target_format/
 is_root: false
 ---
 

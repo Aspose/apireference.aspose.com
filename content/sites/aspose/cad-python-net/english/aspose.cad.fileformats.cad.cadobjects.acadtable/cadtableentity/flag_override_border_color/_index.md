@@ -3,8 +3,8 @@ title: flag_override_border_color property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flag_override_border_color/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flag_override_border_color/
 is_root: false
 ---
 

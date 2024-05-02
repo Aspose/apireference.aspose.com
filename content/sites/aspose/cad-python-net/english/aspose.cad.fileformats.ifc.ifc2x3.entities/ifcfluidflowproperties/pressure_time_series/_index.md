@@ -3,15 +3,13 @@ title: pressure_time_series property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/pressure_time_series/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/pressure_time_series/
 is_root: false
 ---
 
 ## pressure_time_series property
 
-
-PressureTimeSeries
 ### Definition:
 ```python
 @property

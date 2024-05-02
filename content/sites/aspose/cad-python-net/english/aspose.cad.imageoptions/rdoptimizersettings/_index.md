@@ -3,8 +3,8 @@ title: RdOptimizerSettings class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.imageoptions/rdoptimizersettings/
+weight: 360
+url: /python-net/aspose.cad.imageoptions/rdoptimizersettings/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad/colorpalettehelper/get_uniform_color_palette/
+url: /python-net/aspose.cad/colorpalettehelper/get_uniform_color_palette/
 is_root: false
 ---
 

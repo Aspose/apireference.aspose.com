@@ -3,8 +3,8 @@ title: custom_print_scale_numerator property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/custom_print_scale_numerator/
+weight: 120
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/custom_print_scale_numerator/
 is_root: false
 ---
 

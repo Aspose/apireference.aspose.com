@@ -3,8 +3,8 @@ title: identifier_height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifier_height/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifier_height/
 is_root: false
 ---
 

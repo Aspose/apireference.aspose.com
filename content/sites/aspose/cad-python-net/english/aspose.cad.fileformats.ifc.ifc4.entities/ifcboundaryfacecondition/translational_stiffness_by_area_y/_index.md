@@ -3,15 +3,13 @@ title: translational_stiffness_by_area_y property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryfacecondition/translational_stiffness_by_area_y/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryfacecondition/translational_stiffness_by_area_y/
 is_root: false
 ---
 
 ## translational_stiffness_by_area_y property
 
-
-TranslationalStiffnessByAreaY
 ### Definition:
 ```python
 @property

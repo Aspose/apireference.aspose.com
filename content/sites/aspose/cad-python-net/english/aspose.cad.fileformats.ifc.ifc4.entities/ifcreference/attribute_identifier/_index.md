@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/attribute_identifier/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/attribute_identifier/
 is_root: false
 ---
 
 ## attribute_identifier property
 
-
-AttributeIdentifier
 ### Definition:
 ```python
 @property

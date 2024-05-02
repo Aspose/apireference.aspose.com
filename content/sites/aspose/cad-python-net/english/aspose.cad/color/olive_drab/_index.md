@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1200
-url: /aspose.cad/color/olive_drab/
+url: /python-net/aspose.cad/color/olive_drab/
 is_root: false
 ---
 

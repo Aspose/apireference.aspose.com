@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2990
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ Partial IIfc entity class
 [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurve) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,16 +33,18 @@ The IfcLine type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/entity_label) | Gets the entity label. |
-| [pnt](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/pnt) | Pnt |
-| [dir](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/dir) | Dir |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [pnt](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/pnt) |  |
+| [dir](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/dir) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurve)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem)
 * class [`IfcLine`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)

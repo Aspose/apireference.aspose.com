@@ -3,15 +3,13 @@ title: scope property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/scope/
+weight: 180
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/scope/
 is_root: false
 ---
 
 ## scope property
 
-
-Scope
 ### Definition:
 ```python
 @property

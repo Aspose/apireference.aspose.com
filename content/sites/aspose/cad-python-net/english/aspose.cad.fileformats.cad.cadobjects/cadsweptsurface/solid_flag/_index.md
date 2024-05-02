@@ -3,8 +3,8 @@ title: solid_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/solid_flag/
+weight: 610
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/solid_flag/
 is_root: false
 ---
 

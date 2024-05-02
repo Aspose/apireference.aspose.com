@@ -3,15 +3,13 @@ title: global_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/global_id/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/global_id/
 is_root: false
 ---
 
 ## global_id property
 
-
-GlobalId
 ### Definition:
 ```python
 @property

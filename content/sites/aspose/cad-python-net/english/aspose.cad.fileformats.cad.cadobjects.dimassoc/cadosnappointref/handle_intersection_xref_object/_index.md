@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/handle_intersection_xref_object/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/handle_intersection_xref_object/
 is_root: false
 ---
 

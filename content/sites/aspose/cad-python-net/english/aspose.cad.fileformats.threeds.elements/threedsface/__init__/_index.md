@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.threeds.elements/threedsface/__init__/
+url: /python-net/aspose.cad.fileformats.threeds.elements/threedsface/__init__/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.cad.fileformats.threeds.elements.ThreeDSPolygon-int}
+## __init__ {#aspose.cad.fileformats.threeds.elements.ThreeDSPoly-int}
 
 Constructs a new instance of ThreeDSFace
 
@@ -36,7 +36,7 @@ def __init__(self, poly, face_info):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| poly | [`ThreeDSPolygon`](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedspolygon) |  |
+| poly | [`ThreeDSPoly`](/cad/python-net/aspose.cad.fileformats.threeds.elements/threedspoly) |  |
 | face_info | int |  |
 
 

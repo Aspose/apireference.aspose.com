@@ -3,15 +3,13 @@ title: size_in_y property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcplanarextent/size_in_y/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplanarextent/size_in_y/
 is_root: false
 ---
 
 ## size_in_y property
 
-
-SizeInY
 ### Definition:
 ```python
 @property

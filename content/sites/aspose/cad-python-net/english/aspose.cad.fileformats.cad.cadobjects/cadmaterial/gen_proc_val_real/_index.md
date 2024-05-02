@@ -3,8 +3,8 @@ title: gen_proc_val_real property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_val_real/
+weight: 480
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_val_real/
 is_root: false
 ---
 

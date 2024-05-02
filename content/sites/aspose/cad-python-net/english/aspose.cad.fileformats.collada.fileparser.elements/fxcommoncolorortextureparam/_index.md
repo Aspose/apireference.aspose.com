@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 350
-url: /aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/
 is_root: false
 ---
 

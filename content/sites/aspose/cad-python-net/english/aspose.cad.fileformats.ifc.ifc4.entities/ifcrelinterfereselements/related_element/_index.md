@@ -3,15 +3,13 @@ title: related_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/related_element/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/related_element/
 is_root: false
 ---
 
 ## related_element property
 
-
-RelatedElement
 ### Definition:
 ```python
 @property

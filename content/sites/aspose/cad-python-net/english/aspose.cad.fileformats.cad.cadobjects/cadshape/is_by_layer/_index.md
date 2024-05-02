@@ -3,15 +3,20 @@ title: is_by_layer property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadshape/is_by_layer/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadshape/is_by_layer/
 is_root: false
 ---
 
 ## is_by_layer property
 
 
-The IsByLayer
+Gets or sets a value indicating that the entity has linetype set by layer.
+
+### Remarks 
+
+
+This flag is always false, except for versions [`CadAcadVersion.AC1012`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadacadversion#AC1012) and [`CadAcadVersion.AC1014`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadacadversion#AC1014).
 ### Definition:
 ```python
 @property

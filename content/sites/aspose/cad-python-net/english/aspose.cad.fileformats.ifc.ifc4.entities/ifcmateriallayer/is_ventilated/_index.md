@@ -3,15 +3,13 @@ title: is_ventilated property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayer/is_ventilated/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayer/is_ventilated/
 is_root: false
 ---
 
 ## is_ventilated property
 
-
-IsVentilated
 ### Definition:
 ```python
 @property

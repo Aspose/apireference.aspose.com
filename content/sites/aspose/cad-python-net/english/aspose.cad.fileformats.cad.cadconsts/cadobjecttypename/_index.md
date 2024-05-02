@@ -3,8 +3,8 @@ title: CadObjectTypeName enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.cad.cadconsts/cadobjecttypename/
+weight: 300
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadobjecttypename/
 is_root: false
 ---
 
@@ -72,6 +72,7 @@ The CadObjectTypeName type exposes the following members:
 | GROUP | GROUP object |
 | IDBUFFER | IDBUFFER object |
 | IMAGEDEF | IMAGEDEF object |
+| IMAGEDATA | IMAGEDEF object |
 | IMAGEDEF_REACTOR | IMAGEDEF_REACTOR object |
 | LAYER_INDEX | LAYER_INDEX object |
 | LAYER_FILTER | LAYER_FILTER object |

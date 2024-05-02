@@ -3,8 +3,8 @@ title: StepTopologicalRepresentationItem class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad.fileformats.stp.items/steptopologicalrepresentationitem/
+weight: 730
+url: /python-net/aspose.cad.fileformats.stp.items/steptopologicalrepresentationitem/
 is_root: false
 ---
 
@@ -26,6 +26,7 @@ The StepTopologicalRepresentationItem type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steptopologicalrepresentationitem/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steptopologicalrepresentationitem/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steptopologicalrepresentationitem/id) |  |
 
 
 

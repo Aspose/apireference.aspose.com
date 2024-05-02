@@ -3,8 +3,8 @@ title: style_reference property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/style_reference/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/style_reference/
 is_root: false
 ---
 

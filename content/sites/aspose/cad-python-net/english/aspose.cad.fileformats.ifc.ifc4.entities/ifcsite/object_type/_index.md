@@ -3,15 +3,13 @@ title: object_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsite/object_type/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsite/object_type/
 is_root: false
 ---
 
 ## object_type property
 
-
-ObjectType
 ### Definition:
 ```python
 @property

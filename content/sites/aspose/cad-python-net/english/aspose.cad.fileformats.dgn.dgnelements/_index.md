@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.dgn.dgnelements/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/
 is_root: false
 ---
 
@@ -24,9 +24,9 @@ The namespace contains Dgn elements.
 | [`DgnCurveLineElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncurvelineelement) | Represents curve line element element |
 | [`DgnDigitizerElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement) | Represents digitizer element |
 | [`DgnDimensionElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndimensionelement) | Represents dimension |
-| [`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase) | Represents base class for drawing Dgn elements |
+| [`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase) | Represents base class for drawing Dgn elements |
 | [`DgnDrawingElementBaseQuaternion`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion) | DgnDrawingElementBase class |
-| [`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement) | Represents base class for all elements |
+| [`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase) | Represents base class for all elements |
 | [`DgnEllipseElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnellipseelement) | Represents ellipse element |
 | [`DgnKnotWeightElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement) | Knot weight element |
 | [`DgnLineElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnlineelement) | Represents line |

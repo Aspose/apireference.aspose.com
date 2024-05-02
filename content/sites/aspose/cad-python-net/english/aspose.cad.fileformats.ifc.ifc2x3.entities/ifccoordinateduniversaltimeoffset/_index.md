@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1210
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcCoordinatedUniversalTimeOffset
 
 
 **Inheritance:** [`IfcCoordinatedUniversalTimeOffset`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,14 +30,16 @@ The IfcCoordinatedUniversalTimeOffset type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/entity_label) | Gets the entity label. |
-| [hour_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/hour_offset) | HourOffset |
-| [minute_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minute_offset) | MinuteOffset |
-| [sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/sense) | Sense |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [hour_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/hour_offset) |  |
+| [minute_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minute_offset) |  |
+| [sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/sense) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcCoordinatedUniversalTimeOffset`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

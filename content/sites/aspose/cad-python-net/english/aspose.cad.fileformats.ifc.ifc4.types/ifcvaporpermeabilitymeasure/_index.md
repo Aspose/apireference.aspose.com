@@ -3,8 +3,8 @@ title: IfcVaporPermeabilityMeasure class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1840
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcvaporpermeabilitymeasure/
+weight: 1850
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcvaporpermeabilitymeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcVaporPermeabilityMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcvaporpermeabilitymeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcvaporpermeabilitymeasure/value) |  |
 
 
 

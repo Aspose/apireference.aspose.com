@@ -3,8 +3,8 @@ title: counter_clockwize property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadobjects/cadarc/counter_clockwize/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarc/counter_clockwize/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: IColorPalette class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad/icolorpalette/
+weight: 190
+url: /python-net/aspose.cad/icolorpalette/
 is_root: false
 ---
 

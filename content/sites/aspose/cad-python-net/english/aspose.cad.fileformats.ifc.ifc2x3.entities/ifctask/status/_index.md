@@ -3,15 +3,13 @@ title: status property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctask/status/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctask/status/
 is_root: false
 ---
 
 ## status property
 
-
-Status
 ### Definition:
 ```python
 @property

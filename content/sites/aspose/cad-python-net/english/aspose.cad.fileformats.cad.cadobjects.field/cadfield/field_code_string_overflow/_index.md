@@ -3,8 +3,8 @@ title: field_code_string_overflow property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/field_code_string_overflow/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/field_code_string_overflow/
 is_root: false
 ---
 

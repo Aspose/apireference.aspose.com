@@ -3,8 +3,8 @@ title: attrib_alignment_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attrib_alignment_point/
+weight: 90
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attrib_alignment_point/
 is_root: false
 ---
 

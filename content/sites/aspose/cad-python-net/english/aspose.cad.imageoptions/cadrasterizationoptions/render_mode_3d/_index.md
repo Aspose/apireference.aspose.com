@@ -3,8 +3,8 @@ title: render_mode_3d property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.imageoptions/cadrasterizationoptions/render_mode_3d/
+weight: 270
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/render_mode_3d/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: LoadOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad/loadoptions/
+weight: 350
+url: /python-net/aspose.cad/loadoptions/
 is_root: false
 ---
 
@@ -34,6 +34,7 @@ The LoadOptions type exposes the following members:
 | [recover_malformed_cif_mif](/cad/python-net/aspose.cad/loadoptions/recover_malformed_cif_mif) | Whether to recover non-escaped CIF (U+XXXX) and MIF (M+nXXXX) character notations |
 | [ignore_errors](/cad/python-net/aspose.cad/loadoptions/ignore_errors) | Whether to ignore load errors. |
 | [errors](/cad/python-net/aspose.cad/loadoptions/errors) | Gets the list of loading errors. |
+| [vectorization_options](/cad/python-net/aspose.cad/loadoptions/vectorization_options) | Gets or sets the Vectorization options. |
 
 
 

@@ -3,15 +3,13 @@ title: minimum_circuit_current property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/minimum_circuit_current/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/minimum_circuit_current/
 is_root: false
 ---
 
 ## minimum_circuit_current property
 
-
-MinimumCircuitCurrent
 ### Definition:
 ```python
 @property

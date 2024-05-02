@@ -3,8 +3,8 @@ title: insertion_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 580
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/insertion_point/
+weight: 640
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/insertion_point/
 is_root: false
 ---
 

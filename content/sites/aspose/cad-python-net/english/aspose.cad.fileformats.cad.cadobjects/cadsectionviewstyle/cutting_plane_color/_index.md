@@ -3,8 +3,8 @@ title: cutting_plane_color property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/cutting_plane_color/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/cutting_plane_color/
 is_root: false
 ---
 

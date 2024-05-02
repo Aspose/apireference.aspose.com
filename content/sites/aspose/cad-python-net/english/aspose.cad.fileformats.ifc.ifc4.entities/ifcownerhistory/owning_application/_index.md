@@ -3,15 +3,13 @@ title: owning_application property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/owning_application/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/owning_application/
 is_root: false
 ---
 
 ## owning_application property
 
-
-OwningApplication
 ### Definition:
 ```python
 @property

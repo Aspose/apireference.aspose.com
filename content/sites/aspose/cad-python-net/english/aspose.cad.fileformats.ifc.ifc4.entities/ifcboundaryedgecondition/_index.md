@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 490
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcBoundaryEdgeCondition
 
 **Inheritance:** [`IfcBoundaryEdgeCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition) → 
 [`IfcBoundaryCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycondition) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,14 +31,16 @@ The IfcBoundaryEdgeCondition type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/name) | Name |
-| [translational_stiffness_by_length_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/translational_stiffness_by_length_x) | TranslationalStiffnessByLengthX |
-| [translational_stiffness_by_length_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/translational_stiffness_by_length_y) | TranslationalStiffnessByLengthY |
-| [translational_stiffness_by_length_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/translational_stiffness_by_length_z) | TranslationalStiffnessByLengthZ |
-| [rotational_stiffness_by_length_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotational_stiffness_by_length_x) | RotationalStiffnessByLengthX |
-| [rotational_stiffness_by_length_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotational_stiffness_by_length_y) | RotationalStiffnessByLengthY |
-| [rotational_stiffness_by_length_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotational_stiffness_by_length_z) | RotationalStiffnessByLengthZ |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/name) |  |
+| [translational_stiffness_by_length_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/translational_stiffness_by_length_x) |  |
+| [translational_stiffness_by_length_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/translational_stiffness_by_length_y) |  |
+| [translational_stiffness_by_length_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/translational_stiffness_by_length_z) |  |
+| [rotational_stiffness_by_length_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotational_stiffness_by_length_x) |  |
+| [rotational_stiffness_by_length_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotational_stiffness_by_length_y) |  |
+| [rotational_stiffness_by_length_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotational_stiffness_by_length_z) |  |
 
 
 
@@ -46,4 +48,4 @@ The IfcBoundaryEdgeCondition type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcBoundaryCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycondition)
 * class [`IfcBoundaryEdgeCondition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad/cmykcolor/to_cmyk/
+url: /python-net/aspose.cad/cmykcolor/to_cmyk/
 is_root: false
 ---
 

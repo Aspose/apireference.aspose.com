@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /aspose.cad.fileformats.tiff.tifftagtypes/tiffslongtype/values_container/
+url: /python-net/aspose.cad.fileformats.tiff.tifftagtypes/tiffslongtype/values_container/
 is_root: false
 ---
 

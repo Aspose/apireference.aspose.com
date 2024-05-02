@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 990
-url: /aspose.cad.fileformats.collada.fileparser.elements/spline/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/spline/
 is_root: false
 ---
 

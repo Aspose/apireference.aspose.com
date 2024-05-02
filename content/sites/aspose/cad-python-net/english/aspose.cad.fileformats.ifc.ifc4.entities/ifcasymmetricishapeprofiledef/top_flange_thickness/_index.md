@@ -3,15 +3,13 @@ title: top_flange_thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_thickness/
+weight: 180
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/top_flange_thickness/
 is_root: false
 ---
 
 ## top_flange_thickness property
 
-
-TopFlangeThickness
 ### Definition:
 ```python
 @property

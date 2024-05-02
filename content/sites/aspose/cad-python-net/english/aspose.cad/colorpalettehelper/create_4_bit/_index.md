@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/colorpalettehelper/create_4_bit/
+url: /python-net/aspose.cad/colorpalettehelper/create_4_bit/
 is_root: false
 ---
 

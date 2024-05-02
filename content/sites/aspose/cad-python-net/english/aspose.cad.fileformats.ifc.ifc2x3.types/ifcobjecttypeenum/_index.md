@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2550
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcobjecttypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcobjecttypeenum/
 is_root: false
 ---
 
@@ -19,14 +19,14 @@ The IfcObjectTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| PRODUCT | PRODUCT |
-| PROCESS | PROCESS |
-| CONTROL | CONTROL |
-| RESOURCE | RESOURCE |
-| ACTOR | ACTOR |
-| GROUP | GROUP |
-| PROJECT | PROJECT |
-| NOTDEFINED | NOTDEFINED |
+| PRODUCT |  |
+| PROCESS |  |
+| CONTROL |  |
+| RESOURCE |  |
+| ACTOR |  |
+| GROUP |  |
+| PROJECT |  |
+| NOTDEFINED |  |
 
 
 

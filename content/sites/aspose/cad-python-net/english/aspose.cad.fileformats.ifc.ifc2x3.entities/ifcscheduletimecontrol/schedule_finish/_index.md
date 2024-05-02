@@ -3,15 +3,13 @@ title: schedule_finish property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_finish/
+weight: 240
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_finish/
 is_root: false
 ---
 
 ## schedule_finish property
 
-
-ScheduleFinish
 ### Definition:
 ```python
 @property

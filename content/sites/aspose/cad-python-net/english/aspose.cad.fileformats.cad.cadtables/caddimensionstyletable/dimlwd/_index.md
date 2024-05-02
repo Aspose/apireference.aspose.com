@@ -3,15 +3,16 @@ title: dimlwd property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimlwd/
+weight: 550
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimlwd/
 is_root: false
 ---
 
 ## dimlwd property
 
 
-Gets or sets The dimlwd - 371
+Gets or sets the lineweight of dimension lines.
+Possible values are: -3 (default LWDEFAULT value), -2 (by block), -1 (by layer).
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: ObjOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.imageoptions/objoptions/
+weight: 280
+url: /python-net/aspose.cad.imageoptions/objoptions/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ The OBJ options.
 
 
 **Inheritance:** [`ObjOptions`](/cad/python-net/aspose.cad.imageoptions/objoptions) → 
-[`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+[`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 
 
 
@@ -24,7 +24,7 @@ The ObjOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/cad/python-net/aspose.cad.imageoptions/objoptions/__init__/#) | Initializes a new instance of the [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase) class. |
+| [__init__](/cad/python-net/aspose.cad.imageoptions/objoptions/__init__/#) | Initializes a new instance of the [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase) class. |
 
 
 ### Properties
@@ -38,16 +38,19 @@ The ObjOptions type exposes the following members:
 | [palette](/cad/python-net/aspose.cad.imageoptions/objoptions/palette) | Gets or sets the color palette. |
 | [resolution_settings](/cad/python-net/aspose.cad.imageoptions/objoptions/resolution_settings) | Gets or sets the resolution settings. |
 | [vector_rasterization_options](/cad/python-net/aspose.cad.imageoptions/objoptions/vector_rasterization_options) | Gets or sets the vector rasterization options. |
+| [watermark_guard_options](/cad/python-net/aspose.cad.imageoptions/objoptions/watermark_guard_options) | Gets or sets the blind watermark options. |
 | [timeout](/cad/python-net/aspose.cad.imageoptions/objoptions/timeout) | Timeout value for export operation (in milliseconds) |
 | [pc_3_file](/cad/python-net/aspose.cad.imageoptions/objoptions/pc_3_file) | Gets or sets the PC3 file full name. |
+| [render_to_graphics_bound](/cad/python-net/aspose.cad.imageoptions/objoptions/render_to_graphics_bound) | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [user_watermark_text](/cad/python-net/aspose.cad.imageoptions/objoptions/user_watermark_text) | Text for user-generated watermark |
 | [user_watermark_color](/cad/python-net/aspose.cad.imageoptions/objoptions/user_watermark_color) | Color for user-generated watermark |
 | [mtl_file_name](/cad/python-net/aspose.cad.imageoptions/objoptions/mtl_file_name) | Gets or sets the MTL file name. |
 | [mtl_file_stream](/cad/python-net/aspose.cad.imageoptions/objoptions/mtl_file_stream) | Gets or sets the MTL stream to output mtl file to. |
+| [pen_width](/cad/python-net/aspose.cad.imageoptions/objoptions/pen_width) | Gets or sets the pen width. |
 
 
 
 ### See Also
 * module [`aspose.cad.imageoptions`](..)
-* class [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+* class [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 * class [`ObjOptions`](/cad/python-net/aspose.cad.imageoptions/objoptions)

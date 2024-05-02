@@ -3,8 +3,8 @@ title: tile_mode_descriptor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 430
-url: /aspose.cad.fileformats.cad.cadobjects/cadole2frame/tile_mode_descriptor/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/tile_mode_descriptor/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 830
-url: /aspose.cad.fileformats.collada.fileparser.elements/polylist/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/polylist/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4770
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcPropertyTableValue
 [`IfcSimpleProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimpleproperty) → 
 [`IfcProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty) → 
 [`IfcPropertyAbstraction`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,19 +33,21 @@ The IfcPropertyTableValue type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/description) | Description |
-| [expression](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/expression) | Expression |
-| [defining_unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/defining_unit) | DefiningUnit |
-| [defined_unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/defined_unit) | DefinedUnit |
-| [curve_interpolation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/curve_interpolation) | CurveInterpolation |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/description) |  |
+| [expression](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/expression) |  |
+| [defining_unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/defining_unit) |  |
+| [defined_unit](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/defined_unit) |  |
+| [curve_interpolation](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/curve_interpolation) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcProperty`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty)
 * class [`IfcPropertyAbstraction`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction)
 * class [`IfcPropertyTableValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue)

@@ -3,8 +3,8 @@ title: Metered class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad/metered/
+weight: 370
+url: /python-net/aspose.cad/metered/
 is_root: false
 ---
 
@@ -26,6 +26,8 @@ The Metered type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [set_metered_key](/cad/python-net/aspose.cad/metered/set_metered_key/#str-str) | Sets metered public and private key.<br/>If you purchase metered license, when start application, this API should be called, normally, this is enough. <br/>However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, <br/>to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
+| [get_product_name](/cad/python-net/aspose.cad/metered/get_product_name/#) |  |
+| [is_metered_licensed](/cad/python-net/aspose.cad/metered/is_metered_licensed/#) | Check whether metered is licensed |
 
 
 

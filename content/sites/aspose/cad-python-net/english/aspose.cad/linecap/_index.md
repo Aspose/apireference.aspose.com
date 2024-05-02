@@ -3,8 +3,8 @@ title: LineCap enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 710
-url: /aspose.cad/linecap/
+weight: 790
+url: /python-net/aspose.cad/linecap/
 is_root: false
 ---
 

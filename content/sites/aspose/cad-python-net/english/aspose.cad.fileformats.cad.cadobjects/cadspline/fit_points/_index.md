@@ -3,8 +3,8 @@ title: fit_points property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/fit_points/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/fit_points/
 is_root: false
 ---
 

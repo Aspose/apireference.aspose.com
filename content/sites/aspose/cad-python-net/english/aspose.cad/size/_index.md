@@ -3,8 +3,8 @@ title: Size class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad/size/
+weight: 520
+url: /python-net/aspose.cad/size/
 is_root: false
 ---
 

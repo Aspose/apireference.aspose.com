@@ -3,8 +3,8 @@ title: CadFontStyleTableFlag enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadconsts/cadfontstyletableflag/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadfontstyletableflag/
 is_root: false
 ---
 

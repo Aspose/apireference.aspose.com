@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/
+url: /python-net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/
 is_root: false
 ---
 

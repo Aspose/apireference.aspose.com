@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2780
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcreinforcingbarroleenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcreinforcingbarroleenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcReinforcingBarRoleEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| MAIN | MAIN |
-| SHEAR | SHEAR |
-| LIGATURE | LIGATURE |
-| STUD | STUD |
-| PUNCHING | PUNCHING |
-| EDGE | EDGE |
-| RING | RING |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| MAIN |  |
+| SHEAR |  |
+| LIGATURE |  |
+| STUD |  |
+| PUNCHING |  |
+| EDGE |  |
+| RING |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

@@ -3,8 +3,8 @@ title: IObjectWithBounds class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad/iobjectwithbounds/
+weight: 230
+url: /python-net/aspose.cad/iobjectwithbounds/
 is_root: false
 ---
 

@@ -3,15 +3,15 @@ title: color_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/color_value/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/color_value/
 is_root: false
 ---
 
 ## color_value property
 
 
-Gets or sets the color value.
+Gets or sets the true color value (RGB) of the entity.
 ### Definition:
 ```python
 @property

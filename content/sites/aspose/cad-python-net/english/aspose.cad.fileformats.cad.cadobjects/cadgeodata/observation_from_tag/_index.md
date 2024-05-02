@@ -3,8 +3,8 @@ title: observation_from_tag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/observation_from_tag/
+weight: 330
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/observation_from_tag/
 is_root: false
 ---
 

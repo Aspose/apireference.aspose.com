@@ -3,8 +3,8 @@ title: section_state property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/section_state/
+weight: 490
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/section_state/
 is_root: false
 ---
 

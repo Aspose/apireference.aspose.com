@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad/icolorpalette/is_compact_palette/
+url: /python-net/aspose.cad/icolorpalette/is_compact_palette/
 is_root: false
 ---
 

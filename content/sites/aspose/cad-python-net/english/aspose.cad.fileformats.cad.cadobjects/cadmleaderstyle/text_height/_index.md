@@ -3,8 +3,8 @@ title: text_height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 770
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/text_height/
+weight: 840
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/text_height/
 is_root: false
 ---
 

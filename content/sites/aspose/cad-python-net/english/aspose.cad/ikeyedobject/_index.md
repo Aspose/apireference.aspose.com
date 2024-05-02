@@ -3,8 +3,8 @@ title: IKeyedObject class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad/ikeyedobject/
+weight: 220
+url: /python-net/aspose.cad/ikeyedobject/
 is_root: false
 ---
 

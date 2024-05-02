@@ -4,13 +4,13 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc/iifctype/
+url: /python-net/aspose.cad.fileformats.ifc/iifctype/
 is_root: false
 ---
 
 ## IIfcType class
 
-IIfcType
+IIfcType interface is a base interface for all IFC types
 
 
 

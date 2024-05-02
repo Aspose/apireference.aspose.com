@@ -3,8 +3,8 @@ title: rotation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.imageoptions/gifoptions/rotation/
+weight: 150
+url: /python-net/aspose.cad.imageoptions/gifoptions/rotation/
 is_root: false
 ---
 

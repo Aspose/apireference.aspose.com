@@ -3,8 +3,8 @@ title: second_alignment_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadtext/second_alignment_point/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtext/second_alignment_point/
 is_root: false
 ---
 

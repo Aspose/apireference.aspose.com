@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.cad/color/burly_wood/
+url: /python-net/aspose.cad/color/burly_wood/
 is_root: false
 ---
 

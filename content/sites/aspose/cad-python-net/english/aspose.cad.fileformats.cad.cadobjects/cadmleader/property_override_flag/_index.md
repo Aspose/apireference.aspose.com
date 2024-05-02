@@ -3,8 +3,8 @@ title: property_override_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/property_override_flag/
+weight: 610
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/property_override_flag/
 is_root: false
 ---
 

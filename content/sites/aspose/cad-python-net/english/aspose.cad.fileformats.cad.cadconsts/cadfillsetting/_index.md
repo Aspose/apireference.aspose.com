@@ -3,8 +3,8 @@ title: CadFillSetting enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadconsts/cadfillsetting/
+weight: 150
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadfillsetting/
 is_root: false
 ---
 

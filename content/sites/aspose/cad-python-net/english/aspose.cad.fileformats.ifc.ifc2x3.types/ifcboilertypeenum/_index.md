@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1800
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcboilertypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcboilertypeenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcBoilerTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| WATER | WATER |
-| STEAM | STEAM |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| WATER |  |
+| STEAM |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

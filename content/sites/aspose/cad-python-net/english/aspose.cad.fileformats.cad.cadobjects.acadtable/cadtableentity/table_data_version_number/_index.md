@@ -3,8 +3,8 @@ title: table_data_version_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/table_data_version_number/
+weight: 640
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/table_data_version_number/
 is_root: false
 ---
 

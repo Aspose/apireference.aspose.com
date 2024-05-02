@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.imageoptions/rasterizationquality/text_thickness_normalization/
+url: /python-net/aspose.cad.imageoptions/rasterizationquality/text_thickness_normalization/
 is_root: false
 ---
 

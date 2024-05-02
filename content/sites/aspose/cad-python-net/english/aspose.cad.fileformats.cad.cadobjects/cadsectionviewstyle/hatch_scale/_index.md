@@ -3,8 +3,8 @@ title: hatch_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/hatch_scale/
+weight: 330
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/hatch_scale/
 is_root: false
 ---
 

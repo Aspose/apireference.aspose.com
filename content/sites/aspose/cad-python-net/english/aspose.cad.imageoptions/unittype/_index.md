@@ -3,8 +3,8 @@ title: UnitType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.imageoptions/unittype/
+weight: 550
+url: /python-net/aspose.cad.imageoptions/unittype/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: data_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmetric/data_value/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmetric/data_value/
 is_root: false
 ---
 
 ## data_value property
 
-
-DataValue
 ### Definition:
 ```python
 @property

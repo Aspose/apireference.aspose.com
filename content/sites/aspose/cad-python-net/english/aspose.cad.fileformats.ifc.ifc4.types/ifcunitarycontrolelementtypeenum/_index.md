@@ -3,8 +3,8 @@ title: IfcUnitaryControlElementTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3820
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcunitarycontrolelementtypeenum/
+weight: 3830
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcunitarycontrolelementtypeenum/
 is_root: false
 ---
 
@@ -19,16 +19,16 @@ The IfcUnitaryControlElementTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ALARMPANEL | ALARMPANEL |
-| CONTROLPANEL | CONTROLPANEL |
-| GASDETECTIONPANEL | GASDETECTIONPANEL |
-| INDICATORPANEL | INDICATORPANEL |
-| MIMICPANEL | MIMICPANEL |
-| HUMIDISTAT | HUMIDISTAT |
-| THERMOSTAT | THERMOSTAT |
-| WEATHERSTATION | WEATHERSTATION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ALARMPANEL |  |
+| CONTROLPANEL |  |
+| GASDETECTIONPANEL |  |
+| INDICATORPANEL |  |
+| MIMICPANEL |  |
+| HUMIDISTAT |  |
+| THERMOSTAT |  |
+| WEATHERSTATION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

@@ -3,8 +3,8 @@ title: palette property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.u3d/u3dimage/palette/
+weight: 220
+url: /python-net/aspose.cad.fileformats.u3d/u3dimage/palette/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the color palette.
+
+### Example 
+
+
+Asserts DGN drawing contains palette
 ### Definition:
 ```python
 @property

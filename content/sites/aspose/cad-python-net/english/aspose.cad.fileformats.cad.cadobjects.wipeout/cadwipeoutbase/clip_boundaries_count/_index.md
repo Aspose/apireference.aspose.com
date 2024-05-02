@@ -3,8 +3,8 @@ title: clip_boundaries_count property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/clip_boundaries_count/
+weight: 150
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/clip_boundaries_count/
 is_root: false
 ---
 

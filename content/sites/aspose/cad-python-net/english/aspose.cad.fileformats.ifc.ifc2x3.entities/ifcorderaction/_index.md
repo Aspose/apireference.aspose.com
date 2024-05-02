@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3380
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcOrderAction
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,24 +35,26 @@ The IfcOrderAction type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/object_type) | ObjectType |
-| [task_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/task_id) | TaskId |
-| [status](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/status) | Status |
-| [work_method](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/work_method) | WorkMethod |
-| [is_milestone](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/is_milestone) | IsMilestone |
-| [priority](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/priority) | Priority |
-| [action_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/action_id) | ActionID |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/object_type) |  |
+| [task_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/task_id) |  |
+| [status](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/status) |  |
+| [work_method](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/work_method) |  |
+| [is_milestone](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/is_milestone) |  |
+| [priority](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/priority) |  |
+| [action_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/action_id) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcOrderAction`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction)

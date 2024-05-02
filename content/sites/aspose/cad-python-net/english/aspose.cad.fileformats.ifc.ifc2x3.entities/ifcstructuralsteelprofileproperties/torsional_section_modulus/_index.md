@@ -3,15 +3,13 @@ title: torsional_section_modulus property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/torsional_section_modulus/
+weight: 310
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/torsional_section_modulus/
 is_root: false
 ---
 
 ## torsional_section_modulus property
 
-
-TorsionalSectionModulus
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: normal_mapper_transform property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 590
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/normal_mapper_transform/
+weight: 680
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/normal_mapper_transform/
 is_root: false
 ---
 

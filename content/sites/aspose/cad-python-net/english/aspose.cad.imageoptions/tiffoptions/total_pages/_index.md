@@ -3,8 +3,8 @@ title: total_pages property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 600
-url: /aspose.cad.imageoptions/tiffoptions/total_pages/
+weight: 610
+url: /python-net/aspose.cad.imageoptions/tiffoptions/total_pages/
 is_root: false
 ---
 

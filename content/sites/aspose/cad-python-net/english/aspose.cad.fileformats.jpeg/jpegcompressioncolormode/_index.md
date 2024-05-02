@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.jpeg/jpegcompressioncolormode/
+url: /python-net/aspose.cad.fileformats.jpeg/jpegcompressioncolormode/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: use_subset_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/use_subset_flag/
+weight: 390
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/use_subset_flag/
 is_root: false
 ---
 

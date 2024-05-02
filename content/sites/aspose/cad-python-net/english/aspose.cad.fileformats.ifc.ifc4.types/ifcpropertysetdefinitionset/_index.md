@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1280
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysetdefinitionset/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysetdefinitionset/
 is_root: false
 ---
 

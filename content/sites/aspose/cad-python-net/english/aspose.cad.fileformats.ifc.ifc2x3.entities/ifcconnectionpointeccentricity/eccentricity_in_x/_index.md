@@ -3,15 +3,13 @@ title: eccentricity_in_x property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointeccentricity/eccentricity_in_x/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointeccentricity/eccentricity_in_x/
 is_root: false
 ---
 
 ## eccentricity_in_x property
 
-
-EccentricityInX
 ### Definition:
 ```python
 @property

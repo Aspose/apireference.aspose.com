@@ -3,8 +3,8 @@ title: hatch_transparency property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/hatch_transparency/
+weight: 340
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/hatch_transparency/
 is_root: false
 ---
 

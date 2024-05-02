@@ -3,15 +3,13 @@ title: given_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/given_name/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/given_name/
 is_root: false
 ---
 
 ## given_name property
 
-
-GivenName
 ### Definition:
 ```python
 @property

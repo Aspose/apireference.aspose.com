@@ -3,8 +3,8 @@ title: StepEdgeCurve class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.stp.items/stepedgecurve/
+weight: 240
+url: /python-net/aspose.cad.fileformats.stp.items/stepedgecurve/
 is_root: false
 ---
 
@@ -34,6 +34,7 @@ The StepEdgeCurve type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgecurve/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgecurve/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgecurve/id) |  |
 | [edge_start](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgecurve/edge_start) |  |
 | [edge_end](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgecurve/edge_end) |  |
 | [edge_geometry](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgecurve/edge_geometry) |  |

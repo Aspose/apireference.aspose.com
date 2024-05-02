@@ -3,15 +3,13 @@ title: unit property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/unit/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/unit/
 is_root: false
 ---
 
 ## unit property
 
-
-Unit
 ### Definition:
 ```python
 @property

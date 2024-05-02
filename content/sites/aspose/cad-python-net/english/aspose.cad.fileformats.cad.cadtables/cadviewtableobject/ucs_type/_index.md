@@ -3,8 +3,8 @@ title: ucs_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucs_type/
+weight: 380
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucs_type/
 is_root: false
 ---
 

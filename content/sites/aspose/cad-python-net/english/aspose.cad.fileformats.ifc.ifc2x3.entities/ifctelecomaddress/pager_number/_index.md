@@ -3,15 +3,13 @@ title: pager_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctelecomaddress/pager_number/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctelecomaddress/pager_number/
 is_root: false
 ---
 
 ## pager_number property
 
-
-PagerNumber
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: total_replacement_cost property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/total_replacement_cost/
+weight: 190
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/total_replacement_cost/
 is_root: false
 ---
 
 ## total_replacement_cost property
 
-
-TotalReplacementCost
 ### Definition:
 ```python
 @property

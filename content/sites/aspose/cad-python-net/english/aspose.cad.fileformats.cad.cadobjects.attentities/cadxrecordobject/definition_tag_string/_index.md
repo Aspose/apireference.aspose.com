@@ -3,8 +3,8 @@ title: definition_tag_string property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/definition_tag_string/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/definition_tag_string/
 is_root: false
 ---
 

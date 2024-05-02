@@ -3,8 +3,8 @@ title: StepVertex class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad.fileformats.stp.items/stepvertex/
+weight: 810
+url: /python-net/aspose.cad.fileformats.stp.items/stepvertex/
 is_root: false
 ---
 
@@ -27,6 +27,7 @@ The StepVertex type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepvertex/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepvertex/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepvertex/id) |  |
 
 
 

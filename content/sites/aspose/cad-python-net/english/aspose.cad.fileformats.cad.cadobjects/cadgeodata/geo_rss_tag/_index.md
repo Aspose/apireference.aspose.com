@@ -3,8 +3,8 @@ title: geo_rss_tag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/geo_rss_tag/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/geo_rss_tag/
 is_root: false
 ---
 

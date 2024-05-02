@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/
 is_root: false
 ---
 
@@ -15,8 +15,8 @@ B-spline curve element
 
 
 **Inheritance:** [`DgnBSplineCurveElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement) → 
-[`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase) → 
-[`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+[`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase) → 
+[`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 
 
 
@@ -25,6 +25,8 @@ The DgnBSplineCurveElement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [id](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/childs) | Gets the collection of a nested entities. |
 | [metadata](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/metadata) | Gets element metadata |
 | [min_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/min_point) | Gets the min point of object. |
 | [max_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/max_point) | Gets the max point of object. |
@@ -40,5 +42,5 @@ The DgnBSplineCurveElement type exposes the following members:
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](..)
 * class [`DgnBSplineCurveElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement)
-* class [`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase)
-* class [`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+* class [`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase)
+* class [`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)

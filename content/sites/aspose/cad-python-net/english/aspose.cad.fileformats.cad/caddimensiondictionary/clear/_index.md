@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.cad/caddimensiondictionary/clear/
+url: /python-net/aspose.cad.fileformats.cad/caddimensiondictionary/clear/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1490
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcDimensionCurve
 [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence) → 
 [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,9 +34,11 @@ The IfcDimensionCurve type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/entity_label) | Gets the entity label. |
-| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/item) | Item |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/item) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/name) |  |
 
 
 
@@ -45,6 +47,6 @@ The IfcDimensionCurve type exposes the following members:
 * class [`IfcAnnotationCurveOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationcurveoccurrence)
 * class [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence)
 * class [`IfcDimensionCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
 * class [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem)

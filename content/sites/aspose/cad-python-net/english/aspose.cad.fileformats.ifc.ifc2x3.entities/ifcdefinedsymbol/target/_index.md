@@ -3,15 +3,13 @@ title: target property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdefinedsymbol/target/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdefinedsymbol/target/
 is_root: false
 ---
 
 ## target property
 
-
-Target
 ### Definition:
 ```python
 @property

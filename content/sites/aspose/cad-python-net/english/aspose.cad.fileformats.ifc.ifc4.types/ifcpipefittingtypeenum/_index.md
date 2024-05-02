@@ -3,8 +3,8 @@ title: IfcPipeFittingTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3190
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcpipefittingtypeenum/
+weight: 3200
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpipefittingtypeenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcPipeFittingTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BEND | BEND |
-| CONNECTOR | CONNECTOR |
-| ENTRY | ENTRY |
-| EXIT | EXIT |
-| JUNCTION | JUNCTION |
-| OBSTRUCTION | OBSTRUCTION |
-| TRANSITION | TRANSITION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BEND |  |
+| CONNECTOR |  |
+| ENTRY |  |
+| EXIT |  |
+| JUNCTION |  |
+| OBSTRUCTION |  |
+| TRANSITION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

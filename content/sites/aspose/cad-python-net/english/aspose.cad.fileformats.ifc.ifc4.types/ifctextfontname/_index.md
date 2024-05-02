@@ -3,8 +3,8 @@ title: IfcTextFontName class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1650
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctextfontname/
+weight: 1660
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctextfontname/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcTextFontName type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctextfontname/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctextfontname/value) |  |
 
 
 

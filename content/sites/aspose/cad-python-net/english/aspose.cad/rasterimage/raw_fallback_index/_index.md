@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 610
-url: /aspose.cad/rasterimage/raw_fallback_index/
+url: /python-net/aspose.cad/rasterimage/raw_fallback_index/
 is_root: false
 ---
 

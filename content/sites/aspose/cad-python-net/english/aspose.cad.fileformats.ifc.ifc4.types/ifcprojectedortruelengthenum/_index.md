@@ -3,8 +3,8 @@ title: IfcProjectedOrTrueLengthEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3260
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcprojectedortruelengthenum/
+weight: 3270
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcprojectedortruelengthenum/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The IfcProjectedOrTrueLengthEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| PROJECTED_LENGTH | PROJECTED_LENGTH |
-| TRUE_LENGTH | TRUE_LENGTH |
+| PROJECTED_LENGTH |  |
+| TRUE_LENGTH |  |
 
 
 

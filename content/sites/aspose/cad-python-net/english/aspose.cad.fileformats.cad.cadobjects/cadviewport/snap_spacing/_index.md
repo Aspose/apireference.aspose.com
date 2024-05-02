@@ -3,8 +3,8 @@ title: snap_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 640
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/snap_spacing/
+weight: 710
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/snap_spacing/
 is_root: false
 ---
 

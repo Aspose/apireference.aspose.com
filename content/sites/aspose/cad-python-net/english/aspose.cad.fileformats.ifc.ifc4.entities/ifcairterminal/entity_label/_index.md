@@ -3,8 +3,8 @@ title: entity_label property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcairterminal/entity_label/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcairterminal/entity_label/
 is_root: false
 ---
 
@@ -12,10 +12,14 @@ is_root: false
 
 
 Gets the entity label.
+Each entity has its label, which is unique and represents it in the file
 ### Definition:
 ```python
 @property
 def entity_label(self):
+    ...
+@entity_label.setter
+def entity_label(self, value):
     ...
 ```
 

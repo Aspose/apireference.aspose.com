@@ -3,8 +3,8 @@ title: shade_plot_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shade_plot_handle/
+weight: 350
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/shade_plot_handle/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: length_exponent property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/length_exponent/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/length_exponent/
 is_root: false
 ---
 
 ## length_exponent property
 
-
-LengthExponent
 ### Definition:
 ```python
 @property

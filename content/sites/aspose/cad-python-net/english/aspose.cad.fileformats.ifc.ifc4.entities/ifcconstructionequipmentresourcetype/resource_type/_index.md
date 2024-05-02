@@ -3,15 +3,13 @@ title: resource_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/resource_type/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionequipmentresourcetype/resource_type/
 is_root: false
 ---
 
 ## resource_type property
 
-
-ResourceType
 ### Definition:
 ```python
 @property

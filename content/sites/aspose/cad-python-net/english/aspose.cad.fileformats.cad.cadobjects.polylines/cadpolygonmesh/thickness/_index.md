@@ -3,8 +3,8 @@ title: thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/thickness/
+weight: 540
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/thickness/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: proxy_data property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /aspose.cad.fileformats.cad.cadobjects/cadtext/proxy_data/
+weight: 440
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtext/proxy_data/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the proxy data.
+
+### Remarks 
+
+
+This array is empty if this entity is not a Proxy Entity
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.cadexceptions.imageformats/jpegexception/
+url: /python-net/aspose.cad.cadexceptions.imageformats/jpegexception/
 is_root: false
 ---
 

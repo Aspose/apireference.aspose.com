@@ -3,15 +3,13 @@ title: relating_library property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociateslibrary/relating_library/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociateslibrary/relating_library/
 is_root: false
 ---
 
 ## relating_library property
 
-
-RelatingLibrary
 ### Definition:
 ```python
 @property

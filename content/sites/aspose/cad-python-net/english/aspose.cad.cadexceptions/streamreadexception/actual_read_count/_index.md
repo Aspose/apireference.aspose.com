@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.cadexceptions/streamreadexception/actual_read_count/
+url: /python-net/aspose.cad.cadexceptions/streamreadexception/actual_read_count/
 is_root: false
 ---
 

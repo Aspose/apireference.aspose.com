@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.stp.items/stepshaperepresentation/__init__/
+url: /python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/__init__/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str-System.Collections.Generic.List<StepAxis2Placement3D>}
+## __init__ {#str-System.Collections.Generic.List<StepRepresentationItem>}
 
 Constructs a new instance of StepShapeRepresentation
 
@@ -37,7 +37,7 @@ def __init__(self, name, items):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str |  |
-| items | System.Collections.Generic.List<StepAxis2Placement3D> |  |
+| items | System.Collections.Generic.List<StepRepresentationItem> |  |
 
 
 

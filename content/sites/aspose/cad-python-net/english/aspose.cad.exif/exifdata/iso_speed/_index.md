@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 720
-url: /aspose.cad.exif/exifdata/iso_speed/
+url: /python-net/aspose.cad.exif/exifdata/iso_speed/
 is_root: false
 ---
 

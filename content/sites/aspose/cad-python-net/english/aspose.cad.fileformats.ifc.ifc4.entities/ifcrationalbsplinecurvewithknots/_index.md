@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5000
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcRationalBSplineCurveWithKnots
 [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurve) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,12 +36,14 @@ The IfcRationalBSplineCurveWithKnots type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/entity_label) | Gets the entity label. |
-| [degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/degree) | Degree |
-| [curve_form](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/curve_form) | CurveForm |
-| [closed_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/closed_curve) | ClosedCurve |
-| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/self_intersect) | SelfIntersect |
-| [knot_spec](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/knot_spec) | KnotSpec |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/degree) |  |
+| [curve_form](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/curve_form) |  |
+| [closed_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/closed_curve) |  |
+| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/self_intersect) |  |
+| [knot_spec](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/knot_spec) |  |
 
 
 
@@ -51,7 +53,7 @@ The IfcRationalBSplineCurveWithKnots type exposes the following members:
 * class [`IfcBSplineCurveWithKnots`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots)
 * class [`IfcBoundedCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundedcurve)
 * class [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurve)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRationalBSplineCurveWithKnots`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

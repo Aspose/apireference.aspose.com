@@ -3,8 +3,8 @@ title: text_line_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 570
-url: /aspose.cad.fileformats.cad.cadobjects/cadradialdimension/text_line_spacing/
+weight: 650
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadradialdimension/text_line_spacing/
 is_root: false
 ---
 

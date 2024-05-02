@@ -3,8 +3,8 @@ title: soft_pointer_to_ac_db_navisworks_model_def property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/soft_pointer_to_ac_db_navisworks_model_def/
+weight: 440
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/soft_pointer_to_ac_db_navisworks_model_def/
 is_root: false
 ---
 

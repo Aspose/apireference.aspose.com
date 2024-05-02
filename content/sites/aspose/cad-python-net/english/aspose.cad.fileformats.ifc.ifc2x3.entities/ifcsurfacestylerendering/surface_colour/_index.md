@@ -3,15 +3,13 @@ title: surface_colour property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/surface_colour/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/surface_colour/
 is_root: false
 ---
 
 ## surface_colour property
 
-
-SurfaceColour
 ### Definition:
 ```python
 @property

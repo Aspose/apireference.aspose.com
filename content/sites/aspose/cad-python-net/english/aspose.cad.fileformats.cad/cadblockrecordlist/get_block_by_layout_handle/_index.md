@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.cad/cadblockrecordlist/get_block_by_layout_handle/
+url: /python-net/aspose.cad.fileformats.cad/cadblockrecordlist/get_block_by_layout_handle/
 is_root: false
 ---
 

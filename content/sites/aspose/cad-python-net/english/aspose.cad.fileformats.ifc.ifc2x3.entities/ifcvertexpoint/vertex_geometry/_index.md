@@ -3,15 +3,13 @@ title: vertex_geometry property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexpoint/vertex_geometry/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexpoint/vertex_geometry/
 is_root: false
 ---
 
 ## vertex_geometry property
 
-
-VertexGeometry
 ### Definition:
 ```python
 @property

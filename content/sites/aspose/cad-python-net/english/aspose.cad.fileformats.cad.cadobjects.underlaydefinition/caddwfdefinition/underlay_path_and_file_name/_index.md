@@ -3,8 +3,8 @@ title: underlay_path_and_file_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects.underlaydefinition/caddwfdefinition/underlay_path_and_file_name/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/caddwfdefinition/underlay_path_and_file_name/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: fillet_radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifczshapeprofiledef/fillet_radius/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifczshapeprofiledef/fillet_radius/
 is_root: false
 ---
 
 ## fillet_radius property
 
-
-FilletRadius
 ### Definition:
 ```python
 @property

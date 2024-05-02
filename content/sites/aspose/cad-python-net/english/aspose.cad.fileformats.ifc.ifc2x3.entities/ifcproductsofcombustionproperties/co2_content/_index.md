@@ -3,15 +3,13 @@ title: co2_content property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/co2_content/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/co2_content/
 is_root: false
 ---
 
 ## co2_content property
 
-
-CO2Content
 ### Definition:
 ```python
 @property

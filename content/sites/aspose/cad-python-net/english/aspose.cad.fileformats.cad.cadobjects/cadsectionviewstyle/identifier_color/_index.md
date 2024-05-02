@@ -3,8 +3,8 @@ title: identifier_color property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifier_color/
+weight: 350
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifier_color/
 is_root: false
 ---
 

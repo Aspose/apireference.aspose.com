@@ -3,8 +3,8 @@ title: identifier_position property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifier_position/
+weight: 390
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifier_position/
 is_root: false
 ---
 

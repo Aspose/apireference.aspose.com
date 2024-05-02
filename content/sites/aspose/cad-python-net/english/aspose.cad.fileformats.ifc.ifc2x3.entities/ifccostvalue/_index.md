@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1240
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcCostValue
 
 **Inheritance:** [`IfcCostValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue) → 
 [`IfcAppliedValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,15 +31,17 @@ The IfcCostValue type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/description) | Description |
-| [applied_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/applied_value) | AppliedValue |
-| [unit_basis](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/unit_basis) | UnitBasis |
-| [applicable_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/applicable_date) | ApplicableDate |
-| [fixed_until_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/fixed_until_date) | FixedUntilDate |
-| [cost_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/cost_type) | CostType |
-| [condition](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/condition) | Condition |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/description) |  |
+| [applied_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/applied_value) |  |
+| [unit_basis](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/unit_basis) |  |
+| [applicable_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/applicable_date) |  |
+| [fixed_until_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/fixed_until_date) |  |
+| [cost_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/cost_type) |  |
+| [condition](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/condition) |  |
 
 
 
@@ -47,4 +49,4 @@ The IfcCostValue type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcAppliedValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue)
 * class [`IfcCostValue`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

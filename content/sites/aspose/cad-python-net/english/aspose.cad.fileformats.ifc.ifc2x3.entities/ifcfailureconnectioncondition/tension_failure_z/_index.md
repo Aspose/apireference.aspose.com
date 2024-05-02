@@ -3,15 +3,13 @@ title: tension_failure_z property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfailureconnectioncondition/tension_failure_z/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfailureconnectioncondition/tension_failure_z/
 is_root: false
 ---
 
 ## tension_failure_z property
 
-
-TensionFailureZ
 ### Definition:
 ```python
 @property

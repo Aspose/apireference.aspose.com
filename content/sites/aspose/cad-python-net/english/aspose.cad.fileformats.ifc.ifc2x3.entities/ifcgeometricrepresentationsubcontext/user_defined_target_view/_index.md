@@ -3,15 +3,13 @@ title: user_defined_target_view property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/user_defined_target_view/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/user_defined_target_view/
 is_root: false
 ---
 
 ## user_defined_target_view property
 
-
-UserDefinedTargetView
 ### Definition:
 ```python
 @property

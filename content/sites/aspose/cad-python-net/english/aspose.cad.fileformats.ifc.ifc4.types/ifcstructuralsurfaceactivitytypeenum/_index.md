@@ -3,8 +3,8 @@ title: IfcStructuralSurfaceActivityTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3620
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralsurfaceactivitytypeenum/
+weight: 3630
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralsurfaceactivitytypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcStructuralSurfaceActivityTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONST | CONST |
-| BILINEAR | BILINEAR |
-| DISCRETE | DISCRETE |
-| ISOCONTOUR | ISOCONTOUR |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONST |  |
+| BILINEAR |  |
+| DISCRETE |  |
+| ISOCONTOUR |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

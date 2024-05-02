@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.imageoptions/cadrasterizationoptions/embed_background/
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/embed_background/
 is_root: false
 ---
 

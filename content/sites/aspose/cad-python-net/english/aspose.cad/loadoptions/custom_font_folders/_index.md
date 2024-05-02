@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad/loadoptions/custom_font_folders/
+url: /python-net/aspose.cad/loadoptions/custom_font_folders/
 is_root: false
 ---
 

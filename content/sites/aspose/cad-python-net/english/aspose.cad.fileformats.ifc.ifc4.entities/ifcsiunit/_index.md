@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5830
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcSIUnit
 
 **Inheritance:** [`IfcSIUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit) → 
 [`IfcNamedUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,16 +31,18 @@ The IfcSIUnit type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/entity_label) | Gets the entity label. |
-| [dimensions](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/dimensions) | Dimensions |
-| [unit_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/unit_type) | UnitType |
-| [prefix](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/prefix) | Prefix |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [dimensions](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/dimensions) |  |
+| [unit_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/unit_type) |  |
+| [prefix](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/prefix) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/name) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcNamedUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit)
 * class [`IfcSIUnit`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit)

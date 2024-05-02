@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 410
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ Partial IIfc entity class
 [`IfcCsgPrimitive3D`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccsgprimitive3d) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,11 +33,13 @@ The IfcBlock type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/entity_label) | Gets the entity label. |
-| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/position) | Position |
-| [x_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/x_length) | XLength |
-| [y_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/y_length) | YLength |
-| [z_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/z_length) | ZLength |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [position](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/position) |  |
+| [x_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/x_length) |  |
+| [y_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/y_length) |  |
+| [z_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/z_length) |  |
 
 
 
@@ -45,6 +47,6 @@ The IfcBlock type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcBlock`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock)
 * class [`IfcCsgPrimitive3D`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccsgprimitive3d)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)

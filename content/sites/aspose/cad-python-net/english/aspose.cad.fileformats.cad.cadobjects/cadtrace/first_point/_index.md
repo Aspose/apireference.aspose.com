@@ -3,8 +3,8 @@ title: first_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects/cadtrace/first_point/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtrace/first_point/
 is_root: false
 ---
 

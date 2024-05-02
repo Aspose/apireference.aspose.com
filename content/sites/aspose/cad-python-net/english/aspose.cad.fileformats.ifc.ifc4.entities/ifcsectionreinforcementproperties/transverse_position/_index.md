@@ -3,15 +3,13 @@ title: transverse_position property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/transverse_position/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/transverse_position/
 is_root: false
 ---
 
 ## transverse_position property
 
-
-TransversePosition
 ### Definition:
 ```python
 @property

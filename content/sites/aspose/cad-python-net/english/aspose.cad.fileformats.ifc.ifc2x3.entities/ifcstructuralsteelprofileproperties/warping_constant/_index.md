@@ -3,15 +3,13 @@ title: warping_constant property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/warping_constant/
+weight: 320
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/warping_constant/
 is_root: false
 ---
 
 ## warping_constant property
 
-
-WarpingConstant
 ### Definition:
 ```python
 @property

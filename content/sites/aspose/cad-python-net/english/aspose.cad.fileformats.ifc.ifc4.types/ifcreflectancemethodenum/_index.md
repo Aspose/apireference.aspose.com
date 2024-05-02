@@ -3,8 +3,8 @@ title: IfcReflectanceMethodEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3360
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcreflectancemethodenum/
+weight: 3370
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcreflectancemethodenum/
 is_root: false
 ---
 
@@ -19,16 +19,16 @@ The IfcReflectanceMethodEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BLINN | BLINN |
-| FLAT | FLAT |
-| GLASS | GLASS |
-| MATT | MATT |
-| METAL | METAL |
-| MIRROR | MIRROR |
-| PHONG | PHONG |
-| PLASTIC | PLASTIC |
-| STRAUSS | STRAUSS |
-| NOTDEFINED | NOTDEFINED |
+| BLINN |  |
+| FLAT |  |
+| GLASS |  |
+| MATT |  |
+| METAL |  |
+| MIRROR |  |
+| PHONG |  |
+| PLASTIC |  |
+| STRAUSS |  |
+| NOTDEFINED |  |
 
 
 

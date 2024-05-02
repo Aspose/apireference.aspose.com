@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2260
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcElementQuantity
 [`IfcPropertySetDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition) → 
 [`IfcPropertyDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,19 +34,21 @@ The IfcElementQuantity type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/description) | Description |
-| [method_of_measurement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/method_of_measurement) | MethodOfMeasurement |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/description) |  |
+| [method_of_measurement](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/method_of_measurement) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcElementQuantity`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPropertyDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition)
 * class [`IfcPropertySetDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition)
 * class [`IfcQuantitySet`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityset)

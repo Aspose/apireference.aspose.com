@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 310
-url: /aspose.cad/rasterimage/resize/
+url: /python-net/aspose.cad/rasterimage/resize/
 is_root: false
 ---
 

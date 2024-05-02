@@ -3,8 +3,8 @@ title: soft_owner property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad.fileformats.cad.cadobjects/cadjoggeddimension/soft_owner/
+weight: 620
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadjoggeddimension/soft_owner/
 is_root: false
 ---
 

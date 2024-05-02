@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcterminatorsymbol/annotated_curve/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcterminatorsymbol/annotated_curve/
 is_root: false
 ---
 
 ## annotated_curve property
 
-
-AnnotatedCurve
 ### Definition:
 ```python
 @property

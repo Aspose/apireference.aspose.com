@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: shear_centre_z property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/shear_centre_z/
+weight: 230
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/shear_centre_z/
 is_root: false
 ---
 
 ## shear_centre_z property
 
-
-ShearCentreZ
 ### Definition:
 ```python
 @property

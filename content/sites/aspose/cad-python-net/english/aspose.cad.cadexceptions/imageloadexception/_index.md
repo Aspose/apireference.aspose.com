@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.cadexceptions/imageloadexception/
+url: /python-net/aspose.cad.cadexceptions/imageloadexception/
 is_root: false
 ---
 

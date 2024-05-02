@@ -3,8 +3,8 @@ title: Jpeg2000Options class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.imageoptions/jpeg2000options/
+weight: 240
+url: /python-net/aspose.cad.imageoptions/jpeg2000options/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ The Jpeg2000 file format options.
 
 
 **Inheritance:** [`Jpeg2000Options`](/cad/python-net/aspose.cad.imageoptions/jpeg2000options) → 
-[`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+[`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 
 
 
@@ -39,8 +39,10 @@ The Jpeg2000Options type exposes the following members:
 | [palette](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/palette) | Gets or sets the color palette. |
 | [resolution_settings](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/resolution_settings) | Gets or sets the resolution settings. |
 | [vector_rasterization_options](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/vector_rasterization_options) | Gets or sets the vector rasterization options. |
+| [watermark_guard_options](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/watermark_guard_options) | Gets or sets the blind watermark options. |
 | [timeout](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/timeout) | Timeout value for export operation (in milliseconds) |
 | [pc_3_file](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/pc_3_file) | Gets or sets the PC3 file full name. |
+| [render_to_graphics_bound](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/render_to_graphics_bound) | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [user_watermark_text](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/user_watermark_text) | Text for user-generated watermark |
 | [user_watermark_color](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/user_watermark_color) | Color for user-generated watermark |
 | [comments](/cad/python-net/aspose.cad.imageoptions/jpeg2000options/comments) | Gets or sets the Jpeg comment markers. |
@@ -50,5 +52,5 @@ The Jpeg2000Options type exposes the following members:
 
 ### See Also
 * module [`aspose.cad.imageoptions`](..)
-* class [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+* class [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 * class [`Jpeg2000Options`](/cad/python-net/aspose.cad.imageoptions/jpeg2000options)

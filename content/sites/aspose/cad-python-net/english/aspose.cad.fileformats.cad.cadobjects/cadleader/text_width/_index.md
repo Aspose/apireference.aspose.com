@@ -3,8 +3,8 @@ title: text_width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 520
-url: /aspose.cad.fileformats.cad.cadobjects/cadleader/text_width/
+weight: 620
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadleader/text_width/
 is_root: false
 ---
 

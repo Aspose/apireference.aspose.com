@@ -3,15 +3,20 @@ title: l_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 630
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/l_type/
+weight: 700
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/l_type/
 is_root: false
 ---
 
 ## l_type property
 
 
-The LType
+Gets or sets a value the current linetype of the entity.
+
+### Remarks 
+
+
+This property is always 0 for versions earlier than [`CadAcadVersion.AC1015`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadacadversion#AC1015).
 ### Definition:
 ```python
 @property

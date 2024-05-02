@@ -3,15 +3,13 @@ title: isothermal_moisture_capacity property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/isothermal_moisture_capacity/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/isothermal_moisture_capacity/
 is_root: false
 ---
 
 ## isothermal_moisture_capacity property
 
-
-IsothermalMoistureCapacity
 ### Definition:
 ```python
 @property

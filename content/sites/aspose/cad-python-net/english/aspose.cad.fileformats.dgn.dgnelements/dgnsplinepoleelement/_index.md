@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/
 is_root: false
 ---
 
@@ -16,8 +16,8 @@ Represents spline pole element
 
 **Inheritance:** [`DgnSplinePoleElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement) → 
 [`DgnLineElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnlineelement) → 
-[`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase) → 
-[`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+[`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase) → 
+[`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 
 
 
@@ -32,6 +32,8 @@ The DgnSplinePoleElement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [id](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/childs) | Gets the collection of a nested entities. |
 | [metadata](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/metadata) | Gets element metadata |
 | [min_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/min_point) | Gets the min point of object. |
 | [max_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/max_point) | Gets the max point of object. |
@@ -41,7 +43,7 @@ The DgnSplinePoleElement type exposes the following members:
 
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](..)
-* class [`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase)
-* class [`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+* class [`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase)
+* class [`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 * class [`DgnLineElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnlineelement)
 * class [`DgnSplinePoleElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement)

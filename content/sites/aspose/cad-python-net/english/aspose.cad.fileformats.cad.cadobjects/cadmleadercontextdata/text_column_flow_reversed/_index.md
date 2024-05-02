@@ -3,8 +3,8 @@ title: text_column_flow_reversed property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 630
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_column_flow_reversed/
+weight: 720
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_column_flow_reversed/
 is_root: false
 ---
 

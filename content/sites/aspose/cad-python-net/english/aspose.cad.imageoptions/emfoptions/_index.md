@@ -3,8 +3,8 @@ title: EmfOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.imageoptions/emfoptions/
+weight: 140
+url: /python-net/aspose.cad.imageoptions/emfoptions/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ The EMF file format creation options.
 
 
 **Inheritance:** [`EmfOptions`](/cad/python-net/aspose.cad.imageoptions/emfoptions) → 
-[`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+[`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 
 
 
@@ -39,8 +39,10 @@ The EmfOptions type exposes the following members:
 | [palette](/cad/python-net/aspose.cad.imageoptions/emfoptions/palette) | Gets or sets the color palette. |
 | [resolution_settings](/cad/python-net/aspose.cad.imageoptions/emfoptions/resolution_settings) | Gets or sets the resolution settings. |
 | [vector_rasterization_options](/cad/python-net/aspose.cad.imageoptions/emfoptions/vector_rasterization_options) | Gets or sets the vector rasterization options. |
+| [watermark_guard_options](/cad/python-net/aspose.cad.imageoptions/emfoptions/watermark_guard_options) | Gets or sets the blind watermark options. |
 | [timeout](/cad/python-net/aspose.cad.imageoptions/emfoptions/timeout) | Timeout value for export operation (in milliseconds) |
 | [pc_3_file](/cad/python-net/aspose.cad.imageoptions/emfoptions/pc_3_file) | Gets or sets the PC3 file full name. |
+| [render_to_graphics_bound](/cad/python-net/aspose.cad.imageoptions/emfoptions/render_to_graphics_bound) | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [user_watermark_text](/cad/python-net/aspose.cad.imageoptions/emfoptions/user_watermark_text) | Text for user-generated watermark |
 | [user_watermark_color](/cad/python-net/aspose.cad.imageoptions/emfoptions/user_watermark_color) | Color for user-generated watermark |
 | [compress](/cad/python-net/aspose.cad.imageoptions/emfoptions/compress) | Gets or sets a value indicating whether this instance is compressed. |
@@ -50,4 +52,4 @@ The EmfOptions type exposes the following members:
 ### See Also
 * module [`aspose.cad.imageoptions`](..)
 * class [`EmfOptions`](/cad/python-net/aspose.cad.imageoptions/emfoptions)
-* class [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+* class [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)

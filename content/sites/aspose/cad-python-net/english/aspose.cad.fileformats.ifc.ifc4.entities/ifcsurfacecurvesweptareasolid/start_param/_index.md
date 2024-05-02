@@ -3,15 +3,13 @@ title: start_param property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/start_param/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/start_param/
 is_root: false
 ---
 
 ## start_param property
 
-
-StartParam
 ### Definition:
 ```python
 @property

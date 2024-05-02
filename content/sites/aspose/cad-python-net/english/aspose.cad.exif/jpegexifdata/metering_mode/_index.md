@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 950
-url: /aspose.cad.exif/jpegexifdata/metering_mode/
+url: /python-net/aspose.cad.exif/jpegexifdata/metering_mode/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: secondary_attributes_or_attribute_definitions_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/secondary_attributes_or_attribute_definitions_number/
+weight: 600
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/secondary_attributes_or_attribute_definitions_number/
 is_root: false
 ---
 

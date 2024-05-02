@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2070
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcdocumentconfidentialityenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdocumentconfidentialityenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcDocumentConfidentialityEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| PUBLIC | PUBLIC |
-| RESTRICTED | RESTRICTED |
-| CONFIDENTIAL | CONFIDENTIAL |
-| PERSONAL | PERSONAL |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| PUBLIC |  |
+| RESTRICTED |  |
+| CONFIDENTIAL |  |
+| PERSONAL |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

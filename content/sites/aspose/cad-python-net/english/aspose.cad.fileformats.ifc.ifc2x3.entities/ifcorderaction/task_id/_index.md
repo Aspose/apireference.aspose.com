@@ -3,15 +3,13 @@ title: task_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/task_id/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/task_id/
 is_root: false
 ---
 
 ## task_id property
 
-
-TaskId
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: hook_line_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects/cadleader/hook_line_flag/
+weight: 280
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadleader/hook_line_flag/
 is_root: false
 ---
 

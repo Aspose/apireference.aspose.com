@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad/colorpalettehelper/
+url: /python-net/aspose.cad/colorpalettehelper/
 is_root: false
 ---
 

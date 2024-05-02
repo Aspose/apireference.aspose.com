@@ -3,8 +3,8 @@ title: sub_class_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/sub_class_name/
+weight: 610
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/sub_class_name/
 is_root: false
 ---
 

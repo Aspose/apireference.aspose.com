@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1930
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcconstraintenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcconstraintenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcConstraintEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| HARD | HARD |
-| SOFT | SOFT |
-| ADVISORY | ADVISORY |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| HARD |  |
+| SOFT |  |
+| ADVISORY |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

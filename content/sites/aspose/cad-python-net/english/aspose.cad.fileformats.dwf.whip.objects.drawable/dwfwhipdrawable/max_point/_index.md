@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/max_point/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/max_point/
 is_root: false
 ---
 

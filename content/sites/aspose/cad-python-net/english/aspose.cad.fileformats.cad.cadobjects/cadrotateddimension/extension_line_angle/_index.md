@@ -3,8 +3,8 @@ title: extension_line_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/extension_line_angle/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/extension_line_angle/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: last_leader_vertex property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.cad.cadobjects/cadleader/last_leader_vertex/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadleader/last_leader_vertex/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: IfcURIReference class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1810
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcurireference/
+weight: 1820
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcurireference/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcURIReference type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcurireference/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcurireference/value) |  |
 
 
 

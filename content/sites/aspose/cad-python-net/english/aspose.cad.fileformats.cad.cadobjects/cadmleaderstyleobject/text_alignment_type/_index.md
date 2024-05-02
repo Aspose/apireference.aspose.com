@@ -3,8 +3,8 @@ title: text_alignment_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/text_alignment_type/
+weight: 570
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/text_alignment_type/
 is_root: false
 ---
 

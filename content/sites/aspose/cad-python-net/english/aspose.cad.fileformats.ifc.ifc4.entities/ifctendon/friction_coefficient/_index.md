@@ -3,15 +3,13 @@ title: friction_coefficient property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/friction_coefficient/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/friction_coefficient/
 is_root: false
 ---
 
 ## friction_coefficient property
 
-
-FrictionCoefficient
 ### Definition:
 ```python
 @property

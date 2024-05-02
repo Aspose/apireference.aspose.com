@@ -3,8 +3,8 @@ title: CadHeaderAttribute enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/
 is_root: false
 ---
 
@@ -342,6 +342,9 @@ The CadHeaderAttribute type exposes the following members:
 | DIMALTMZS | The DIMALTMZS |
 | DIMMZF | The DIMMZF |
 | DIMMZS | The DIMMZS |
+| TSTACKALIGN | The TSTACKALIGN |
+| TSTACKSIZE | The TSTACKSIZE |
+| DICTIONARY_LIGHTLIST | The DICTIONARY_LIGHTLIST |
 
 
 

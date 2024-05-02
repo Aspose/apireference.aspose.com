@@ -3,8 +3,8 @@ title: SeekOrigin enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 770
-url: /aspose.cad/seekorigin/
+weight: 850
+url: /python-net/aspose.cad/seekorigin/
 is_root: false
 ---
 

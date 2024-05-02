@@ -4,13 +4,15 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.obj/objimage/get_shapes/
+url: /python-net/aspose.cad.fileformats.obj/objimage/get_shapes/
 is_root: false
 ---
 
 ## get_shapes {#}
 
-Gets drawing shapes
+Gets data about drawable shapes for OBJ image.
+Each shape contains information about its name, material and faces.
+ObjFace includes data about correspoinding vertex, texture, and normal indices.
 
 
 
@@ -20,6 +22,11 @@ def get_shapes(self):
 ```
 
 
+
+### Example 
+
+
+Prints the quantity of faces in each shape.
 
 
 

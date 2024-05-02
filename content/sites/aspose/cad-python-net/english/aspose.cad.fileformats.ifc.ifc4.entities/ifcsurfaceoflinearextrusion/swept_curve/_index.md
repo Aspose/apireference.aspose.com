@@ -3,15 +3,13 @@ title: swept_curve property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceoflinearextrusion/swept_curve/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceoflinearextrusion/swept_curve/
 is_root: false
 ---
 
 ## swept_curve property
 
-
-SweptCurve
 ### Definition:
 ```python
 @property

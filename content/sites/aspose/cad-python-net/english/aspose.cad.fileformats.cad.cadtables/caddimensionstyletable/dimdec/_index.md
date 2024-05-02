@@ -3,15 +3,15 @@ title: dimdec property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimdec/
+weight: 380
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimdec/
 is_root: false
 ---
 
 ## dimdec property
 
 
-Gets or sets The dimdec 271
+Gets or sets the number of decimal places displayed for the primary units of a dimension.
 ### Definition:
 ```python
 @property

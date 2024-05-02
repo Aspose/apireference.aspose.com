@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.cad.fileformats.psd.resources/thumbnail4resource/width/
+url: /python-net/aspose.cad.fileformats.psd.resources/thumbnail4resource/width/
 is_root: false
 ---
 

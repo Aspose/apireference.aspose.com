@@ -3,8 +3,8 @@ title: MatrixOrder enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 720
-url: /aspose.cad/matrixorder/
+weight: 800
+url: /python-net/aspose.cad/matrixorder/
 is_root: false
 ---
 

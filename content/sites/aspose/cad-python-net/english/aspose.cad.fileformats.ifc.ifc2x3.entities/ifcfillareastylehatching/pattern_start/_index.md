@@ -3,15 +3,13 @@ title: pattern_start property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastylehatching/pattern_start/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastylehatching/pattern_start/
 is_root: false
 ---
 
 ## pattern_start property
 
-
-PatternStart
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1270
-url: /aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermagfilter/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermagfilter/
 is_root: false
 ---
 

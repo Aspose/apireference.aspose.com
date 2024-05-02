@@ -3,8 +3,8 @@ title: MifCodePageDecoder class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /aspose.cad/mifcodepagedecoder/
+weight: 380
+url: /python-net/aspose.cad/mifcodepagedecoder/
 is_root: false
 ---
 

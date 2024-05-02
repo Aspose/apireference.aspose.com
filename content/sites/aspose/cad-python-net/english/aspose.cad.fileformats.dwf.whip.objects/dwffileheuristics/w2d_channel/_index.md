@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.dwf.whip.objects/dwffileheuristics/w2d_channel/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects/dwffileheuristics/w2d_channel/
 is_root: false
 ---
 

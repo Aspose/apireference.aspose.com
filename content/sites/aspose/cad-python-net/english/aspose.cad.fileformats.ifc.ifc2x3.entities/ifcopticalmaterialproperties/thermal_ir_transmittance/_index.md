@@ -3,15 +3,13 @@ title: thermal_ir_transmittance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/thermal_ir_transmittance/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/thermal_ir_transmittance/
 is_root: false
 ---
 
 ## thermal_ir_transmittance property
 
-
-ThermalIrTransmittance
 ### Definition:
 ```python
 @property

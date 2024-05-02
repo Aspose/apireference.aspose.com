@@ -3,15 +3,13 @@ title: zone property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/zone/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/zone/
 is_root: false
 ---
 
 ## zone property
 
-
-Zone
 ### Definition:
 ```python
 @property

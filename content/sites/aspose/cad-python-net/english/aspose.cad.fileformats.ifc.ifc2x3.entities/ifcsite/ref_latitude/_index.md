@@ -3,15 +3,13 @@ title: ref_latitude property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsite/ref_latitude/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsite/ref_latitude/
 is_root: false
 ---
 
 ## ref_latitude property
 
-
-RefLatitude
 ### Definition:
 ```python
 @property

@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteralwithextent/box_alignment/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteralwithextent/box_alignment/
 is_root: false
 ---
 
 ## box_alignment property
 
-
-BoxAlignment
 ### Definition:
 ```python
 @property

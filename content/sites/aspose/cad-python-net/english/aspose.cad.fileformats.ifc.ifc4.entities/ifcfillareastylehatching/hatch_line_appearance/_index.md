@@ -3,15 +3,13 @@ title: hatch_line_appearance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastylehatching/hatch_line_appearance/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastylehatching/hatch_line_appearance/
 is_root: false
 ---
 
 ## hatch_line_appearance property
 
-
-HatchLineAppearance
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: indicator_color411 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/indicator_color411/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/indicator_color411/
 is_root: false
 ---
 

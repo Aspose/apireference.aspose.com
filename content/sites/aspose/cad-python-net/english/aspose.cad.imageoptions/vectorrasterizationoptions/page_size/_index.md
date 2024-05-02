@@ -3,8 +3,8 @@ title: page_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.imageoptions/vectorrasterizationoptions/page_size/
+weight: 130
+url: /python-net/aspose.cad.imageoptions/vectorrasterizationoptions/page_size/
 is_root: false
 ---
 

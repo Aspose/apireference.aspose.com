@@ -3,8 +3,8 @@ title: text property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/text/
+weight: 80
+url: /python-net/aspose.cad.fileformats.stp.items/stepshaperepresentationrelationship/text/
 is_root: false
 ---
 

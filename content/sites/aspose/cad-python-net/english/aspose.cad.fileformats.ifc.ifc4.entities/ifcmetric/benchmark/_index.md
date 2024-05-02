@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/benchmark/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/benchmark/
 is_root: false
 ---
 
 ## benchmark property
 
-
-Benchmark
 ### Definition:
 ```python
 @property
@@ -24,5 +22,4 @@ def benchmark(self, value):
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](../../)
-* class [`IfcBenchmarkEnum`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcbenchmarkenum)
 * class [`IfcMetric`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric)

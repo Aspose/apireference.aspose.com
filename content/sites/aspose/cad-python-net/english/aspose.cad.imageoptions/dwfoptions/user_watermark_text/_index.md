@@ -3,8 +3,8 @@ title: user_watermark_text property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.imageoptions/dwfoptions/user_watermark_text/
+weight: 160
+url: /python-net/aspose.cad.imageoptions/dwfoptions/user_watermark_text/
 is_root: false
 ---
 

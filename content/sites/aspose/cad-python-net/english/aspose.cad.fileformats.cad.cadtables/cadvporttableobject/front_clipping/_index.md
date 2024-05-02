@@ -3,8 +3,8 @@ title: front_clipping property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/front_clipping/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/front_clipping/
 is_root: false
 ---
 

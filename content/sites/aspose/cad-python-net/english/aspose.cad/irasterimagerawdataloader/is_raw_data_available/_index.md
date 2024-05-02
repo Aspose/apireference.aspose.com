@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad/irasterimagerawdataloader/is_raw_data_available/
+url: /python-net/aspose.cad/irasterimagerawdataloader/is_raw_data_available/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5980
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcTendon
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,24 +38,26 @@ The IfcTendon type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/tag) | Tag |
-| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/steel_grade) | SteelGrade |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/predefined_type) | PredefinedType |
-| [nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/nominal_diameter) | NominalDiameter |
-| [cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/cross_section_area) | CrossSectionArea |
-| [tension_force](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/tension_force) | TensionForce |
-| [pre_stress](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/pre_stress) | PreStress |
-| [friction_coefficient](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/friction_coefficient) | FrictionCoefficient |
-| [anchorage_slip](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/anchorage_slip) | AnchorageSlip |
-| [min_curvature_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/min_curvature_radius) | MinCurvatureRadius |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/tag) |  |
+| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/steel_grade) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/predefined_type) |  |
+| [nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/nominal_diameter) |  |
+| [cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/cross_section_area) |  |
+| [tension_force](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/tension_force) |  |
+| [pre_stress](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/pre_stress) |  |
+| [friction_coefficient](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/friction_coefficient) |  |
+| [anchorage_slip](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/anchorage_slip) |  |
+| [min_curvature_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/min_curvature_radius) |  |
 
 
 
@@ -64,7 +66,7 @@ The IfcTendon type exposes the following members:
 * class [`IfcBuildingElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelement)
 * class [`IfcBuildingElementComponent`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProduct`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct)

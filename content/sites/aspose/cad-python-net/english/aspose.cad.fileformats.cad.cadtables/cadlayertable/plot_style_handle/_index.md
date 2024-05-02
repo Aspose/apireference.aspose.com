@@ -3,8 +3,8 @@ title: plot_style_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadtables/cadlayertable/plot_style_handle/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadlayertable/plot_style_handle/
 is_root: false
 ---
 

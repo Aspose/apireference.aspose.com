@@ -3,8 +3,8 @@ title: yposition property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 680
-url: /aspose.cad.imageoptions/tiffoptions/yposition/
+weight: 700
+url: /python-net/aspose.cad.imageoptions/tiffoptions/yposition/
 is_root: false
 ---
 

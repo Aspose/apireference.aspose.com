@@ -3,8 +3,8 @@ title: StepDirection class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.stp.items/stepdirection/
+weight: 220
+url: /python-net/aspose.cad.fileformats.stp.items/stepdirection/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepDirection type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepdirection/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepdirection/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepdirection/id) |  |
 | [x](/cad/python-net/aspose.cad.fileformats.stp.items/stepdirection/x) |  |
 | [y](/cad/python-net/aspose.cad.fileformats.stp.items/stepdirection/y) |  |
 | [z](/cad/python-net/aspose.cad.fileformats.stp.items/stepdirection/z) |  |

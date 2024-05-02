@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.u3d.bitstream/icontextmanager/
+url: /python-net/aspose.cad.fileformats.u3d.bitstream/icontextmanager/
 is_root: false
 ---
 

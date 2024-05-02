@@ -3,15 +3,13 @@ title: target_crs property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/target_crs/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/target_crs/
 is_root: false
 ---
 
 ## target_crs property
 
-
-TargetCRS
 ### Definition:
 ```python
 @property

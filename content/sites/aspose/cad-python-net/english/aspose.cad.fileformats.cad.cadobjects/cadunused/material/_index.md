@@ -3,8 +3,8 @@ title: material property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.cad.cadobjects/cadunused/material/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadunused/material/
 is_root: false
 ---
 

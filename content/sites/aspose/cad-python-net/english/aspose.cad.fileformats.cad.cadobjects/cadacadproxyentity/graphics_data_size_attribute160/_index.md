@@ -3,8 +3,8 @@ title: graphics_data_size_attribute160 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/graphics_data_size_attribute160/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/graphics_data_size_attribute160/
 is_root: false
 ---
 

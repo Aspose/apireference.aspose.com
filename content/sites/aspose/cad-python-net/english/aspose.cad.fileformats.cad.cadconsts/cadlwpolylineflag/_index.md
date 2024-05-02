@@ -3,8 +3,8 @@ title: CadLwPolylineFlag enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.fileformats.cad.cadconsts/cadlwpolylineflag/
+weight: 280
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadlwpolylineflag/
 is_root: false
 ---
 

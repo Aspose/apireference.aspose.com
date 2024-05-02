@@ -3,15 +3,13 @@ title: user_defined_control_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/user_defined_control_type/
+weight: 180
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/user_defined_control_type/
 is_root: false
 ---
 
 ## user_defined_control_type property
 
-
-UserDefinedControlType
 ### Definition:
 ```python
 @property

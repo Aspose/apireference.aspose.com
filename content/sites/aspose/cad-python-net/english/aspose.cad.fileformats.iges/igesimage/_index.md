@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.iges/igesimage/
+url: /python-net/aspose.cad.fileformats.iges/igesimage/
 is_root: false
 ---
 
@@ -32,21 +32,23 @@ The IgesImage type exposes the following members:
 | [bounds](/cad/python-net/aspose.cad.fileformats.iges/igesimage/bounds) | Gets the image bounds. |
 | [container](/cad/python-net/aspose.cad.fileformats.iges/igesimage/container) | Gets the [`Image`](/cad/python-net/aspose.cad/image) container. |
 | [height](/cad/python-net/aspose.cad.fileformats.iges/igesimage/height) | Gets Image height |
+| [depth](/cad/python-net/aspose.cad.fileformats.iges/igesimage/depth) | Gets the image depth. |
 | [palette](/cad/python-net/aspose.cad.fileformats.iges/igesimage/palette) | Gets or sets the color palette. |
 | [size](/cad/python-net/aspose.cad.fileformats.iges/igesimage/size) | Gets the image size. |
 | [width](/cad/python-net/aspose.cad.fileformats.iges/igesimage/width) | Gets Image width |
-| [has_background_color](/cad/python-net/aspose.cad.fileformats.iges/igesimage/has_background_color) | Gets or sets a value indicating whether image has background color. |
-| [background_color](/cad/python-net/aspose.cad.fileformats.iges/igesimage/background_color) | Gets or sets a value for the background color. |
 | [unit_type](/cad/python-net/aspose.cad.fileformats.iges/igesimage/unit_type) | Gets current unit type. |
 | [unitless_default_unit_type](/cad/python-net/aspose.cad.fileformats.iges/igesimage/unitless_default_unit_type) | Assumed unit type when UnitType is set to Unitless |
+| [annotation_service](/cad/python-net/aspose.cad.fileformats.iges/igesimage/annotation_service) | Gets the annotation service. |
+| [watermark_guard_service](/cad/python-net/aspose.cad.fileformats.iges/igesimage/watermark_guard_service) |  |
+| [entities](/cad/python-net/aspose.cad.fileformats.iges/igesimage/entities) |  |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
 | [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#) | Saves the image data to the underlying stream. |
-| [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#str-aspose.cad.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#io.RawIOBase-aspose.cad.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#str-aspose.cad.imageoptions.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#io.RawIOBase-aspose.cad.imageoptions.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#io.RawIOBase) | Saves the object's data to the specified stream. |
 | [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#str) | Saves the object's data to the specified file location. |
 | [save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/save/#str-bool) | Saves the object's data to the specified file location. |
@@ -59,11 +61,12 @@ The IgesImage type exposes the following members:
 | [load](/cad/python-net/aspose.cad.fileformats.iges/igesimage/load/#str-aspose.cad.LoadOptions) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.iges/igesimage/load/#str) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.iges/igesimage/load/#io.RawIOBase-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
+| [load](/cad/python-net/aspose.cad.fileformats.iges/igesimage/load/#io.RawIOBase-str-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
 | [load](/cad/python-net/aspose.cad.fileformats.iges/igesimage/load/#io.RawIOBase) | Loads a new image from the specified stream. |
 | [cache_data](/cad/python-net/aspose.cad.fileformats.iges/igesimage/cache_data/#) | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamSupporter.data_stream_container`](/cad/python-net/aspose.cad/datastreamsupporter#data_stream_container). |
 | [get_strings](/cad/python-net/aspose.cad.fileformats.iges/igesimage/get_strings/#) | Gets all string values from image. |
-| [can_save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/can_save/#aspose.cad.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
-| [get_drawables](/cad/python-net/aspose.cad.fileformats.iges/igesimage/get_drawables/#) | Gets geometric representation of the document |
+| [can_save](/cad/python-net/aspose.cad.fileformats.iges/igesimage/can_save/#aspose.cad.imageoptions.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [try_remove_entity](/cad/python-net/aspose.cad.fileformats.iges/igesimage/try_remove_entity/#aspose.cad.fileformats.iges.drawables.IgesDrawableBase) |  |
 
 
 

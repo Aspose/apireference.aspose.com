@@ -3,8 +3,8 @@ title: axis_y_of_ucs property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/axis_y_of_ucs/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/axis_y_of_ucs/
 is_root: false
 ---
 

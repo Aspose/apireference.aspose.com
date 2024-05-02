@@ -3,8 +3,8 @@ title: vertical_height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 920
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/vertical_height/
+weight: 990
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/vertical_height/
 is_root: false
 ---
 

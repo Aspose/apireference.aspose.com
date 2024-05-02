@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1750
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcarithmeticoperatorenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcarithmeticoperatorenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcArithmeticOperatorEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ADD | ADD |
-| DIVIDE | DIVIDE |
-| MULTIPLY | MULTIPLY |
-| SUBTRACT | SUBTRACT |
+| ADD |  |
+| DIVIDE |  |
+| MULTIPLY |  |
+| SUBTRACT |  |
 
 
 

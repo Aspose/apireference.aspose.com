@@ -3,15 +3,13 @@ title: v_closed property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/v_closed/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/v_closed/
 is_root: false
 ---
 
 ## v_closed property
 
-
-VClosed
 ### Definition:
 ```python
 @property

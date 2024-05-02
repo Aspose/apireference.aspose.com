@@ -3,8 +3,8 @@ title: image_size_v property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.cad.cadobjects/cadrasterimage/image_size_v/
+weight: 340
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/image_size_v/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: flag1 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/flag1/
+weight: 330
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/flag1/
 is_root: false
 ---
 

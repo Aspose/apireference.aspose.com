@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.imageoptions/multipageoptions/output_layers_names/
+url: /python-net/aspose.cad.imageoptions/multipageoptions/output_layers_names/
 is_root: false
 ---
 

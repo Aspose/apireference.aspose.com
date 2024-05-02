@@ -3,8 +3,8 @@ title: data_stream_container property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.u3d/u3dimage/data_stream_container/
+weight: 170
+url: /python-net/aspose.cad.fileformats.u3d/u3dimage/data_stream_container/
 is_root: false
 ---
 

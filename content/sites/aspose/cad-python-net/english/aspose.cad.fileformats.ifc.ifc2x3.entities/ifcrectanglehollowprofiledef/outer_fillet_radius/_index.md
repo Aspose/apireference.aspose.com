@@ -3,15 +3,13 @@ title: outer_fillet_radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/outer_fillet_radius/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/outer_fillet_radius/
 is_root: false
 ---
 
 ## outer_fillet_radius property
 
-
-OuterFilletRadius
 ### Definition:
 ```python
 @property

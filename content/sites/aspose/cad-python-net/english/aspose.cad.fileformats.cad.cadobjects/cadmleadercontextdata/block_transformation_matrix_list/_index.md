@@ -3,8 +3,8 @@ title: block_transformation_matrix_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/block_transformation_matrix_list/
+weight: 180
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/block_transformation_matrix_list/
 is_root: false
 ---
 

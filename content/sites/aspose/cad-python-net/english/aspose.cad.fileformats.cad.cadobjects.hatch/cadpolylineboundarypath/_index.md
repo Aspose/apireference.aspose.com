@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 580
-url: /aspose.cad/rastercachedimage/raw_custom_color_converter/
+url: /python-net/aspose.cad/rastercachedimage/raw_custom_color_converter/
 is_root: false
 ---
 

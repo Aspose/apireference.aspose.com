@@ -3,15 +3,13 @@ title: expression property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/expression/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/expression/
 is_root: false
 ---
 
 ## expression property
 
-
-Expression
 ### Definition:
 ```python
 @property

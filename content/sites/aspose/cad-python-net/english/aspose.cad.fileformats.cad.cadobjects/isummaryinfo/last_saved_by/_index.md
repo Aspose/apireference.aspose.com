@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects/isummaryinfo/last_saved_by/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo/last_saved_by/
 is_root: false
 ---
 

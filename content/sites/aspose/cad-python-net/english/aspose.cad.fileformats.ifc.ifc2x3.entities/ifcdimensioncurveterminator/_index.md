@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1510
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcDimensionCurveTerminator
 [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence) → 
 [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,11 +35,13 @@ The IfcDimensionCurveTerminator type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/entity_label) | Gets the entity label. |
-| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/item) | Item |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/name) | Name |
-| [annotated_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/annotated_curve) | AnnotatedCurve |
-| [role](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/role) | Role |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/item) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/name) |  |
+| [annotated_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/annotated_curve) |  |
+| [role](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/role) |  |
 
 
 
@@ -48,7 +50,7 @@ The IfcDimensionCurveTerminator type exposes the following members:
 * class [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence)
 * class [`IfcAnnotationSymbolOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsymboloccurrence)
 * class [`IfcDimensionCurveTerminator`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
 * class [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem)
 * class [`IfcTerminatorSymbol`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcterminatorsymbol)

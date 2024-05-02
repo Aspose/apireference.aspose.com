@@ -3,15 +3,13 @@ title: property_reference property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyreferencevalue/property_reference/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyreferencevalue/property_reference/
 is_root: false
 ---
 
 ## property_reference property
 
-
-PropertyReference
 ### Definition:
 ```python
 @property

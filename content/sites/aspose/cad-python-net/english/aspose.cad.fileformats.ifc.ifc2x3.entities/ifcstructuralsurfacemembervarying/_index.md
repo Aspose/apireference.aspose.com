@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5670
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ IfcStructuralSurfaceMemberVarying
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -37,23 +37,25 @@ The IfcStructuralSurfaceMemberVarying type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/representation) | Representation |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/predefined_type) | PredefinedType |
-| [thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/thickness) | Thickness |
-| [varying_thickness_location](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/varying_thickness_location) | VaryingThicknessLocation |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/representation) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/predefined_type) |  |
+| [thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/thickness) |  |
+| [varying_thickness_location](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/varying_thickness_location) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProduct`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct)

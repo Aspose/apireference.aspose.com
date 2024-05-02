@@ -3,15 +3,13 @@ title: finish_float property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/finish_float/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/finish_float/
 is_root: false
 ---
 
 ## finish_float property
 
-
-FinishFloat
 ### Definition:
 ```python
 @property

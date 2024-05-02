@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.cad/pixeldataformat/rgb_indexed_4_bpp/
+url: /python-net/aspose.cad/pixeldataformat/rgb_indexed_4_bpp/
 is_root: false
 ---
 

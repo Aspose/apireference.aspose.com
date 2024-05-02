@@ -3,8 +3,8 @@ title: direction_y property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadtables/caducstableobject/direction_y/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caducstableobject/direction_y/
 is_root: false
 ---
 

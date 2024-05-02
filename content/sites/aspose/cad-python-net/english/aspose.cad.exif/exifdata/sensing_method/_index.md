@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 960
-url: /aspose.cad.exif/exifdata/sensing_method/
+url: /python-net/aspose.cad.exif/exifdata/sensing_method/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: indicator_transparency property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/indicator_transparency/
+weight: 270
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/indicator_transparency/
 is_root: false
 ---
 

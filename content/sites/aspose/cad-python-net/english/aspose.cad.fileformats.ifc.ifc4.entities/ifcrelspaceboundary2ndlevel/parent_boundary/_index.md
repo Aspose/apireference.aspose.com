@@ -3,15 +3,13 @@ title: parent_boundary property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary2ndlevel/parent_boundary/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary2ndlevel/parent_boundary/
 is_root: false
 ---
 
 ## parent_boundary property
 
-
-ParentBoundary
 ### Definition:
 ```python
 @property

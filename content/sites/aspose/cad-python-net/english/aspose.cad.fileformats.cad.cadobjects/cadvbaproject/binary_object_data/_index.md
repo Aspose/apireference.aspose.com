@@ -3,8 +3,8 @@ title: binary_object_data property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadvbaproject/binary_object_data/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadvbaproject/binary_object_data/
 is_root: false
 ---
 

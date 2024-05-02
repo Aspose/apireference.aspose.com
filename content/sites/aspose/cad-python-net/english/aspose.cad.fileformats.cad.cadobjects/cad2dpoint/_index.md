@@ -4,13 +4,13 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadobjects/cad2dpoint/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/
 is_root: false
 ---
 
 ## Cad2DPoint class
 
-The Cad 2 d point.
+The Cad 2D point.
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 290
-url: /aspose.cad/rastercachedimage/read_scan_line/
+url: /python-net/aspose.cad/rastercachedimage/read_scan_line/
 is_root: false
 ---
 

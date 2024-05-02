@@ -3,8 +3,8 @@ title: max_extents property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/max_extents/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/max_extents/
 is_root: false
 ---
 

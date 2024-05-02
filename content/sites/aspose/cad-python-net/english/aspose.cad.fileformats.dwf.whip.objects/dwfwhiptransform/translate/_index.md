@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/translate/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/translate/
 is_root: false
 ---
 

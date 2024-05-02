@@ -3,15 +3,13 @@ title: ultimate_stress property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/ultimate_stress/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/ultimate_stress/
 is_root: false
 ---
 
 ## ultimate_stress property
 
-
-UltimateStress
 ### Definition:
 ```python
 @property

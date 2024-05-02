@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 950
-url: /aspose.cad.fileformats.collada.fileparser.elements/skew/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/skew/
 is_root: false
 ---
 

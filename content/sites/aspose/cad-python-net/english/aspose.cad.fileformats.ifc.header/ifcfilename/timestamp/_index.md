@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad.fileformats.ifc.header/ifcfilename/timestamp/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcfilename/timestamp/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the timestamp.
+
+### Example 
+
+
+
 ### Definition:
 ```python
 @property

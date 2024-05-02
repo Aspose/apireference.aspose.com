@@ -3,8 +3,8 @@ title: CadMultiLineFlag enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.fileformats.cad.cadconsts/cadmultilineflag/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadmultilineflag/
 is_root: false
 ---
 

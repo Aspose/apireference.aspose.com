@@ -3,8 +3,8 @@ title: CadHatchBoundaryType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadconsts/cadhatchboundarytype/
+weight: 180
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadhatchboundarytype/
 is_root: false
 ---
 

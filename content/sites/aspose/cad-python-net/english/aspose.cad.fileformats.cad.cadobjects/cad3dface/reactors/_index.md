@@ -3,8 +3,8 @@ title: reactors property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad.fileformats.cad.cadobjects/cad3dface/reactors/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cad3dface/reactors/
 is_root: false
 ---
 

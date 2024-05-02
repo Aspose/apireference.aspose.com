@@ -3,8 +3,8 @@ title: table_contrast property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/table_contrast/
+weight: 480
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/table_contrast/
 is_root: false
 ---
 

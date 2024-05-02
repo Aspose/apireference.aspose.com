@@ -3,8 +3,8 @@ title: save method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.plt/pltimage/save/
+weight: 90
+url: /python-net/aspose.cad.fileformats.plt/pltimage/save/
 is_root: false
 ---
 
@@ -20,6 +20,11 @@ def save(self):
 ```
 
 
+
+### Example 
+
+
+Saves all changes made to drawing. Note: Only DXF is currently supported
 
 
 ## save {#io.RawIOBase}
@@ -56,7 +61,7 @@ def save(self, file_path):
 | file_path | str | The file path to save the object's data to. |
 
 
-## save {#str-aspose.cad.ImageOptionsBase}
+## save {#str-aspose.cad.imageoptions.ImageOptionsBase}
 
 Saves the object's data to the specified file location in the specified file format according to save options.
 
@@ -71,10 +76,15 @@ def save(self, file_path, options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_path | str | The file path. |
-| options | [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase) | The options. |
+| options | aspose.cad.imageoptions.ImageOptionsBase | The options. |
+
+### Example 
 
 
-## save {#io.RawIOBase-aspose.cad.ImageOptionsBase}
+Exports drawing to BMP with specified size
+
+
+## save {#io.RawIOBase-aspose.cad.imageoptions.ImageOptionsBase}
 
 Saves the image's data to the specified stream in the specified file format according to save options.
 
@@ -89,7 +99,7 @@ def save(self, stream, options_base):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The stream to save the image's data to. |
-| options_base | [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase) | The save options. |
+| options_base | aspose.cad.imageoptions.ImageOptionsBase | The save options. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -98,6 +108,11 @@ def save(self, stream, options_base):
 | [`ImageSaveException`](/cad/python-net/aspose.cad.cadexceptions/imagesaveexception) | Image export failed. |
 
 
+
+### Example 
+
+
+Exports drawing to JPEG format and rotate it by 90 degrees then writes to memory stream
 
 
 ## save {#str-bool}

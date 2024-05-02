@@ -3,15 +3,13 @@ title: start_float property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/start_float/
+weight: 270
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/start_float/
 is_root: false
 ---
 
 ## start_float property
 
-
-StartFloat
 ### Definition:
 ```python
 @property

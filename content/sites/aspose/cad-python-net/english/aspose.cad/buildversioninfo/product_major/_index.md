@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad/buildversioninfo/product_major/
+url: /python-net/aspose.cad/buildversioninfo/product_major/
 is_root: false
 ---
 

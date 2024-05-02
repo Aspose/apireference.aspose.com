@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 870
-url: /aspose.cad.fileformats.collada.fileparser.elements/profilecommon/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/profilecommon/
 is_root: false
 ---
 

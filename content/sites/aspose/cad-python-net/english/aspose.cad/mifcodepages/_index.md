@@ -3,8 +3,8 @@ title: MifCodePages enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 730
-url: /aspose.cad/mifcodepages/
+weight: 810
+url: /python-net/aspose.cad/mifcodepages/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: geometry_settings_object_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects/cadsection/geometry_settings_object_handle/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsection/geometry_settings_object_handle/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: path_entity_transform_comuted_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/path_entity_transform_comuted_flag/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/path_entity_transform_comuted_flag/
 is_root: false
 ---
 

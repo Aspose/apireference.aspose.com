@@ -3,8 +3,8 @@ title: min_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.dgn/dgnimage/min_point/
+weight: 220
+url: /python-net/aspose.cad.fileformats.dgn/dgnimage/min_point/
 is_root: false
 ---
 

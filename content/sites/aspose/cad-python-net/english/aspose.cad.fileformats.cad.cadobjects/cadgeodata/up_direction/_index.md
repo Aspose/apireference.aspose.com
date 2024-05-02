@@ -3,8 +3,8 @@ title: up_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/up_direction/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/up_direction/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: ref_longitude property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsite/ref_longitude/
+weight: 170
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsite/ref_longitude/
 is_root: false
 ---
 
 ## ref_longitude property
 
-
-RefLongitude
 ### Definition:
 ```python
 @property

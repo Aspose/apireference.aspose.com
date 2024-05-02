@@ -3,15 +3,13 @@ title: lining_thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/lining_thickness/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/lining_thickness/
 is_root: false
 ---
 
 ## lining_thickness property
 
-
-LiningThickness
 ### Definition:
 ```python
 @property

@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_curve/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_curve/
 is_root: false
 ---
 
 ## axis_curve property
 
-
-AxisCurve
 ### Definition:
 ```python
 @property

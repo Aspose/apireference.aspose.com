@@ -3,15 +3,13 @@ title: diffuse_transmission_colour property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/diffuse_transmission_colour/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/diffuse_transmission_colour/
 is_root: false
 ---
 
 ## diffuse_transmission_colour property
 
-
-DiffuseTransmissionColour
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: IRasterImageRawDataLoader class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad/irasterimagerawdataloader/
+weight: 300
+url: /python-net/aspose.cad/irasterimagerawdataloader/
 is_root: false
 ---
 

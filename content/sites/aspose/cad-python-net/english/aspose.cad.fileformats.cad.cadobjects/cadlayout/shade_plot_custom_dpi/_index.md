@@ -3,8 +3,8 @@ title: shade_plot_custom_dpi property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/shade_plot_custom_dpi/
+weight: 460
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/shade_plot_custom_dpi/
 is_root: false
 ---
 

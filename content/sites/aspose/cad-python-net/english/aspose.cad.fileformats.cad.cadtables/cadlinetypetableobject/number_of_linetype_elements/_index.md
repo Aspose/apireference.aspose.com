@@ -3,8 +3,8 @@ title: number_of_linetype_elements property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/number_of_linetype_elements/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/number_of_linetype_elements/
 is_root: false
 ---
 

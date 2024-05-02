@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/agreement_flag/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/agreement_flag/
 is_root: false
 ---
 
 ## agreement_flag property
 
-
-AgreementFlag
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: cad_osnap_point_refs property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/cad_osnap_point_refs/
+weight: 90
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/cad_osnap_point_refs/
 is_root: false
 ---
 

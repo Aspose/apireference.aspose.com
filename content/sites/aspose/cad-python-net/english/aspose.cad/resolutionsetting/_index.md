@@ -3,8 +3,8 @@ title: ResolutionSetting class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad/resolutionsetting/
+weight: 510
+url: /python-net/aspose.cad/resolutionsetting/
 is_root: false
 ---
 

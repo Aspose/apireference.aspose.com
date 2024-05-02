@@ -3,8 +3,8 @@ title: StepShapeRepresentation class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad.fileformats.stp.items/stepshaperepresentation/
+weight: 610
+url: /python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The StepShapeRepresentation type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/__init__/#) | Constructs a new instance of StepShapeRepresentation |
-| [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/__init__/#str-System.Collections.Generic.List<StepAxis2Placement3D>) | Constructs a new instance of StepShapeRepresentation |
+| [__init__](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/__init__/#str-System.Collections.Generic.List<StepRepresentationItem>) | Constructs a new instance of StepShapeRepresentation |
 
 
 ### Properties
@@ -33,7 +33,8 @@ The StepShapeRepresentation type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/name) |  |
-| [sha_items](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/sha_items) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/id) |  |
+| [shape_items](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/shape_items) |  |
 | [representation_context](/cad/python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/representation_context) |  |
 
 

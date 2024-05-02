@@ -3,8 +3,8 @@ title: page_setup_wizard_hard_pointer_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/page_setup_wizard_hard_pointer_id/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/page_setup_wizard_hard_pointer_id/
 is_root: false
 ---
 

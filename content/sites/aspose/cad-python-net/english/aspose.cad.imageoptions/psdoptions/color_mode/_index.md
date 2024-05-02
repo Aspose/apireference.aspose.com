@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.imageoptions/psdoptions/color_mode/
+url: /python-net/aspose.cad.imageoptions/psdoptions/color_mode/
 is_root: false
 ---
 

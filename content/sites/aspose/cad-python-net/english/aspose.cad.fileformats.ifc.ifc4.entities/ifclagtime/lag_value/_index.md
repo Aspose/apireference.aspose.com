@@ -3,15 +3,13 @@ title: lag_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/lag_value/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/lag_value/
 is_root: false
 ---
 
 ## lag_value property
 
-
-LagValue
 ### Definition:
 ```python
 @property

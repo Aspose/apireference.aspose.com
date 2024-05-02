@@ -3,15 +3,13 @@ title: profile_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profile_name/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profile_name/
 is_root: false
 ---
 
 ## profile_name property
 
-
-ProfileName
 ### Definition:
 ```python
 @property

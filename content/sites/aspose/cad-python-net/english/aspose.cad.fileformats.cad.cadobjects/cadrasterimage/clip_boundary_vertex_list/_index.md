@@ -3,8 +3,8 @@ title: clip_boundary_vertex_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects/cadrasterimage/clip_boundary_vertex_list/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/clip_boundary_vertex_list/
 is_root: false
 ---
 

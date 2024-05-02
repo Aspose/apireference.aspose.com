@@ -3,8 +3,8 @@ title: IfcSpatialZoneTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3550
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcspatialzonetypeenum/
+weight: 3560
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcspatialzonetypeenum/
 is_root: false
 ---
 
@@ -19,16 +19,16 @@ The IfcSpatialZoneTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONSTRUCTION | CONSTRUCTION |
-| FIRESAFETY | FIRESAFETY |
-| LIGHTING | LIGHTING |
-| OCCUPANCY | OCCUPANCY |
-| SECURITY | SECURITY |
-| THERMAL | THERMAL |
-| TRANSPORT | TRANSPORT |
-| VENTILATION | VENTILATION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONSTRUCTION |  |
+| FIRESAFETY |  |
+| LIGHTING |  |
+| OCCUPANCY |  |
+| SECURITY |  |
+| THERMAL |  |
+| TRANSPORT |  |
+| VENTILATION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

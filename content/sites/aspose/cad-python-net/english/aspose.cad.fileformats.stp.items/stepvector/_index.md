@@ -3,8 +3,8 @@ title: StepVector class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.stp.items/stepvector/
+weight: 800
+url: /python-net/aspose.cad.fileformats.stp.items/stepvector/
 is_root: false
 ---
 
@@ -33,6 +33,7 @@ The StepVector type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepvector/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepvector/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepvector/id) |  |
 | [direction](/cad/python-net/aspose.cad.fileformats.stp.items/stepvector/direction) |  |
 | [length](/cad/python-net/aspose.cad.fileformats.stp.items/stepvector/length) |  |
 

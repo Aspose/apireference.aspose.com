@@ -3,8 +3,8 @@ title: soft_pointer_ownserships property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/soft_pointer_ownserships/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/soft_pointer_ownserships/
 is_root: false
 ---
 

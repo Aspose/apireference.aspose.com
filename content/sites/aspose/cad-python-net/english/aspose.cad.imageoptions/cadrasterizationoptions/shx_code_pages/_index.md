@@ -3,8 +3,8 @@ title: shx_code_pages property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.imageoptions/cadrasterizationoptions/shx_code_pages/
+weight: 290
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/shx_code_pages/
 is_root: false
 ---
 

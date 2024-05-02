@@ -3,8 +3,8 @@ title: max_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/max_point/
+weight: 120
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/max_point/
 is_root: false
 ---
 

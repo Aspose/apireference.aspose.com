@@ -3,8 +3,8 @@ title: draft_start_distance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/draft_start_distance/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/draft_start_distance/
 is_root: false
 ---
 

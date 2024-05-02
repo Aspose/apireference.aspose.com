@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects/isummaryinfo/modified_date_time/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo/modified_date_time/
 is_root: false
 ---
 

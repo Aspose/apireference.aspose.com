@@ -3,8 +3,8 @@ title: IfcStructuralCurveActivityTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3600
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralcurveactivitytypeenum/
+weight: 3610
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralcurveactivitytypeenum/
 is_root: false
 ---
 
@@ -19,15 +19,15 @@ The IfcStructuralCurveActivityTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONST | CONST |
-| LINEAR | LINEAR |
-| POLYGONAL | POLYGONAL |
-| EQUIDISTANT | EQUIDISTANT |
-| SINUS | SINUS |
-| PARABOLA | PARABOLA |
-| DISCRETE | DISCRETE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONST |  |
+| LINEAR |  |
+| POLYGONAL |  |
+| EQUIDISTANT |  |
+| SINUS |  |
+| PARABOLA |  |
+| DISCRETE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

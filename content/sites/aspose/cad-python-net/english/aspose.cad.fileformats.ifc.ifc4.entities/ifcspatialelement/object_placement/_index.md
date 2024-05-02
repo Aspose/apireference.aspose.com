@@ -3,15 +3,13 @@ title: object_placement property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialelement/object_placement/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialelement/object_placement/
 is_root: false
 ---
 
 ## object_placement property
 
-
-ObjectPlacement
 ### Definition:
 ```python
 @property

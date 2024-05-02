@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.cad/image/is_cached/
+url: /python-net/aspose.cad/image/is_cached/
 is_root: false
 ---
 

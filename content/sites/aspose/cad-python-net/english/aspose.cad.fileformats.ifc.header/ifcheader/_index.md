@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.header/ifcheader/
+url: /python-net/aspose.cad.fileformats.ifc.header/ifcheader/
 is_root: false
 ---
 
@@ -25,9 +25,9 @@ The IfcHeader type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcheader/description) | Gets or sets the description. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcheader/name) | Gets or sets the name. |
-| [schema](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcheader/schema) | Gets or sets the schema. |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcheader/description) | Gets or sets the description property for IFC. |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcheader/name) | Gets or sets the name property for IFC. |
+| [schema](/cad/python-net/aspose.cad.fileformats.ifc.header/ifcheader/schema) | Gets or sets the schema property for IFC. |
 
 
 

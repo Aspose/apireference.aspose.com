@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/active_pattering_scale/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/active_pattering_scale/
 is_root: false
 ---
 

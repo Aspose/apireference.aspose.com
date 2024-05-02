@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.cad.exif/jpegexifdata/common_tags/
+url: /python-net/aspose.cad.exif/jpegexifdata/common_tags/
 is_root: false
 ---
 

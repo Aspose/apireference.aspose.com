@@ -3,15 +3,13 @@ title: mime_subtype property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_subtype/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_subtype/
 is_root: false
 ---
 
 ## mime_subtype property
 
-
-MimeSubtype
 ### Definition:
 ```python
 @property

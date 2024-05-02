@@ -3,8 +3,8 @@ title: height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.ifc/ifcimage/height/
+weight: 200
+url: /python-net/aspose.cad.fileformats.ifc/ifcimage/height/
 is_root: false
 ---
 
@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the image height.
+It is calculated from all the entities
+
+### Example 
+
+
+Gets the height of the image.
 ### Definition:
 ```python
 @property

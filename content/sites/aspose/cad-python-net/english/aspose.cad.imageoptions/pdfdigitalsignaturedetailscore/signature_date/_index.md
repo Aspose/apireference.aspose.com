@@ -3,8 +3,8 @@ title: signature_date property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/signature_date/
+weight: 60
+url: /python-net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/signature_date/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: originating_system property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.fileformats.stp/stpimage/originating_system/
+weight: 270
+url: /python-net/aspose.cad.fileformats.stp/stpimage/originating_system/
 is_root: false
 ---
 

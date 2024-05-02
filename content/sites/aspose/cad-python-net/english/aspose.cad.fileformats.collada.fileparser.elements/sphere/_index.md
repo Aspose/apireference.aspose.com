@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 980
-url: /aspose.cad.fileformats.collada.fileparser.elements/sphere/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/sphere/
 is_root: false
 ---
 

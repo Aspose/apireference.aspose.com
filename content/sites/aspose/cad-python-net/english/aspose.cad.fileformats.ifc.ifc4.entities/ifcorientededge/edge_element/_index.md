@@ -3,15 +3,13 @@ title: edge_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcorientededge/edge_element/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcorientededge/edge_element/
 is_root: false
 ---
 
 ## edge_element property
 
-
-EdgeElement
 ### Definition:
 ```python
 @property

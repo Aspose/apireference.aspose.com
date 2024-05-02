@@ -3,8 +3,8 @@ title: view_ports property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.cad/cadimage/view_ports/
+weight: 490
+url: /python-net/aspose.cad.fileformats.cad/cadimage/view_ports/
 is_root: false
 ---
 

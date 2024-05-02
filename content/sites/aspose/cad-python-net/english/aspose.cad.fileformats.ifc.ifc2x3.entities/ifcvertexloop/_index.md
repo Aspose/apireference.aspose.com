@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6350
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcVertexLoop
 [`IfcLoop`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcloop) → 
 [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,14 +33,16 @@ The IfcVertexLoop type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/entity_label) | Gets the entity label. |
-| [loop_vertex](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/loop_vertex) | LoopVertex |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [loop_vertex](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexloop/loop_vertex) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcLoop`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcloop)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
 * class [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem)

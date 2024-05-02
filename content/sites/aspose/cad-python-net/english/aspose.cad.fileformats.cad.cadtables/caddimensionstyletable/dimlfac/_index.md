@@ -3,15 +3,15 @@ title: dimlfac property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimlfac/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimlfac/
 is_root: false
 ---
 
 ## dimlfac property
 
 
-Gets or sets The dimlfac - 144
+Gets or sets a scale factor for linear dimension measurements.
 ### Definition:
 ```python
 @property

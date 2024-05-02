@@ -3,8 +3,8 @@ title: vector_v property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 520
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/vector_v/
+weight: 590
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/vector_v/
 is_root: false
 ---
 

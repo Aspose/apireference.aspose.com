@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.stl/stlimage/
+url: /python-net/aspose.cad.fileformats.stl/stlimage/
 is_root: false
 ---
 
@@ -38,13 +38,15 @@ The StlImage type exposes the following members:
 | [bounds](/cad/python-net/aspose.cad.fileformats.stl/stlimage/bounds) | Gets the image bounds. |
 | [container](/cad/python-net/aspose.cad.fileformats.stl/stlimage/container) | Gets the [`Image`](/cad/python-net/aspose.cad/image) container. |
 | [height](/cad/python-net/aspose.cad.fileformats.stl/stlimage/height) | Gets the image height. |
+| [depth](/cad/python-net/aspose.cad.fileformats.stl/stlimage/depth) | Gets the image depth. |
 | [palette](/cad/python-net/aspose.cad.fileformats.stl/stlimage/palette) | Gets or sets the color palette. |
 | [size](/cad/python-net/aspose.cad.fileformats.stl/stlimage/size) | Gets the image size. |
 | [width](/cad/python-net/aspose.cad.fileformats.stl/stlimage/width) | Gets the image width. |
-| [has_background_color](/cad/python-net/aspose.cad.fileformats.stl/stlimage/has_background_color) | Gets or sets a value indicating whether image has background color. |
-| [background_color](/cad/python-net/aspose.cad.fileformats.stl/stlimage/background_color) | Gets or sets a value for the background color. |
 | [unit_type](/cad/python-net/aspose.cad.fileformats.stl/stlimage/unit_type) | Gets current unit type. |
 | [unitless_default_unit_type](/cad/python-net/aspose.cad.fileformats.stl/stlimage/unitless_default_unit_type) | Assumed unit type when UnitType is set to Unitless |
+| [annotation_service](/cad/python-net/aspose.cad.fileformats.stl/stlimage/annotation_service) | Gets the annotation service. |
+| [watermark_guard_service](/cad/python-net/aspose.cad.fileformats.stl/stlimage/watermark_guard_service) |  |
+| [header](/cad/python-net/aspose.cad.fileformats.stl/stlimage/header) | Gets or sets the image header. |
 | [facets](/cad/python-net/aspose.cad.fileformats.stl/stlimage/facets) | Gets or sets the image facet objects. |
 
 
@@ -52,8 +54,8 @@ The StlImage type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#) | Saves the image data to the underlying stream. |
-| [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#str-aspose.cad.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#io.RawIOBase-aspose.cad.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#str-aspose.cad.imageoptions.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#io.RawIOBase-aspose.cad.imageoptions.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#io.RawIOBase) | Saves the object's data to the specified stream. |
 | [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#str) | Saves the object's data to the specified file location. |
 | [save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/save/#str-bool) | Saves the object's data to the specified file location. |
@@ -66,10 +68,11 @@ The StlImage type exposes the following members:
 | [load](/cad/python-net/aspose.cad.fileformats.stl/stlimage/load/#str-aspose.cad.LoadOptions) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.stl/stlimage/load/#str) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad.fileformats.stl/stlimage/load/#io.RawIOBase-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
+| [load](/cad/python-net/aspose.cad.fileformats.stl/stlimage/load/#io.RawIOBase-str-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
 | [load](/cad/python-net/aspose.cad.fileformats.stl/stlimage/load/#io.RawIOBase) | Loads a new image from the specified stream. |
 | [cache_data](/cad/python-net/aspose.cad.fileformats.stl/stlimage/cache_data/#) | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamSupporter.data_stream_container`](/cad/python-net/aspose.cad/datastreamsupporter#data_stream_container). |
 | [get_strings](/cad/python-net/aspose.cad.fileformats.stl/stlimage/get_strings/#) | Gets all string values from image. |
-| [can_save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/can_save/#aspose.cad.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [can_save](/cad/python-net/aspose.cad.fileformats.stl/stlimage/can_save/#aspose.cad.imageoptions.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.cad.cadparameters/cadshortparameter/type/
+url: /python-net/aspose.cad.fileformats.cad.cadparameters/cadshortparameter/type/
 is_root: false
 ---
 

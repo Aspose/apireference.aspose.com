@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad/iadvancedbufferprocessor/finish_rows/
+url: /python-net/aspose.cad/iadvancedbufferprocessor/finish_rows/
 is_root: false
 ---
 

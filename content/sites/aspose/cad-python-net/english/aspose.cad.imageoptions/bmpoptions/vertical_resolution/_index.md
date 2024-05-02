@@ -3,8 +3,8 @@ title: vertical_resolution property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.imageoptions/bmpoptions/vertical_resolution/
+weight: 180
+url: /python-net/aspose.cad.imageoptions/bmpoptions/vertical_resolution/
 is_root: false
 ---
 

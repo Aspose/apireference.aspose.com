@@ -3,8 +3,8 @@ title: text_align_in_ipe property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 620
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/text_align_in_ipe/
+weight: 700
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/text_align_in_ipe/
 is_root: false
 ---
 

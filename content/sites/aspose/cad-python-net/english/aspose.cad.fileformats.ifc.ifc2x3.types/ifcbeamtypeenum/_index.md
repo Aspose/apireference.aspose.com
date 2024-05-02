@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1780
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcbeamtypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbeamtypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcBeamTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BEAM | BEAM |
-| JOIST | JOIST |
-| LINTEL | LINTEL |
-| T_BEAM | T_BEAM |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BEAM |  |
+| JOIST |  |
+| LINTEL |  |
+| T_BEAM |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

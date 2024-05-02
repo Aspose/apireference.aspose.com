@@ -3,15 +3,13 @@ title: water_impermeability property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/water_impermeability/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/water_impermeability/
 is_root: false
 ---
 
 ## water_impermeability property
 
-
-WaterImpermeability
 ### Definition:
 ```python
 @property

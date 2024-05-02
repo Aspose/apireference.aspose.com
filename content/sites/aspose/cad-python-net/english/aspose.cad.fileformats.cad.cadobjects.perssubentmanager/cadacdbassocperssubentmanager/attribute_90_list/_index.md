@@ -3,8 +3,8 @@ title: attribute_90_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/attribute_90_list/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/attribute_90_list/
 is_root: false
 ---
 

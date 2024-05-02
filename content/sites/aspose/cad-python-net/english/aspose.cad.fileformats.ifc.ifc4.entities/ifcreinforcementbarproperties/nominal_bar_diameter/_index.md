@@ -3,15 +3,13 @@ title: nominal_bar_diameter property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/nominal_bar_diameter/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/nominal_bar_diameter/
 is_root: false
 ---
 
 ## nominal_bar_diameter property
 
-
-NominalBarDiameter
 ### Definition:
 ```python
 @property

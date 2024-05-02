@@ -3,8 +3,8 @@ title: ucs_table_record_handle_when_orthographic_ucs property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/ucs_table_record_handle_when_orthographic_ucs/
+weight: 600
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucs_table_record_handle_when_orthographic_ucs/
 is_root: false
 ---
 

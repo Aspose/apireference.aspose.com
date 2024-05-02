@@ -3,8 +3,8 @@ title: orthographic_type_origin property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadtables/caducstableobject/orthographic_type_origin/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caducstableobject/orthographic_type_origin/
 is_root: false
 ---
 

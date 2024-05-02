@@ -3,15 +3,13 @@ title: version property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/version/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/version/
 is_root: false
 ---
 
 ## version property
 
-
-Version
 ### Definition:
 ```python
 @property

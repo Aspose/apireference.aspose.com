@@ -1,0 +1,50 @@
+﻿---
+title: ApplicationStructureAttribute constructor
+second_title: Aspose.CAD for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.cad.fileformats.cgm.commands/applicationstructureattribute/__init__/
+is_root: false
+---
+
+## __init__ {#aspose.cad.fileformats.cgm.CgmFile}
+
+Constructs a new instance of ApplicationStructureAttribute
+
+
+
+```python
+def __init__(self, container):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| container | [`CgmFile`](/cad/python-net/aspose.cad.fileformats.cgm/cgmfile) |  |
+
+
+## __init__ {#aspose.cad.fileformats.cgm.CgmFile-str-aspose.cad.fileformats.cgm.classes.StructuredDataRecord}
+
+Constructs a new instance of ApplicationStructureAttribute
+
+
+
+```python
+def __init__(self, container, attribute_type, sdr):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| container | [`CgmFile`](/cad/python-net/aspose.cad.fileformats.cgm/cgmfile) |  |
+| attribute_type | str |  |
+| sdr | aspose.cad.fileformats.cgm.classes.StructuredDataRecord |  |
+
+
+
+### See Also
+* module [`aspose.cad.fileformats.cgm.commands`](../../)
+* class [`ApplicationStructureAttribute`](/cad/python-net/aspose.cad.fileformats.cgm.commands/applicationstructureattribute)

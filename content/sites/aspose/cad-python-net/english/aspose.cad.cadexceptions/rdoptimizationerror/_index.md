@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.cadexceptions/rdoptimizationerror/
+url: /python-net/aspose.cad.cadexceptions/rdoptimizationerror/
 is_root: false
 ---
 

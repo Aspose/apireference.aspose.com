@@ -3,15 +3,13 @@ title: number_of_treads property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstairflight/number_of_treads/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstairflight/number_of_treads/
 is_root: false
 ---
 
 ## number_of_treads property
 
-
-NumberOfTreads
 ### Definition:
 ```python
 @property

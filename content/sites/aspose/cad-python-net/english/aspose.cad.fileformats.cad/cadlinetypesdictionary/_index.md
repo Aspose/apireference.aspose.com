@@ -3,8 +3,8 @@ title: CadLineTypesDictionary class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad/cadlinetypesdictionary/
+weight: 180
+url: /python-net/aspose.cad.fileformats.cad/cadlinetypesdictionary/
 is_root: false
 ---
 

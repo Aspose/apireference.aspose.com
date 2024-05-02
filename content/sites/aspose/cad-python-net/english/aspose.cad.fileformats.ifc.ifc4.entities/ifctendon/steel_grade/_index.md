@@ -3,15 +3,13 @@ title: steel_grade property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/steel_grade/
+weight: 200
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/steel_grade/
 is_root: false
 ---
 
 ## steel_grade property
 
-
-SteelGrade
 ### Definition:
 ```python
 @property

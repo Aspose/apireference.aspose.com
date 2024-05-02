@@ -3,8 +3,8 @@ title: contrast property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects/cadpdfunderlay/contrast/
+weight: 180
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadpdfunderlay/contrast/
 is_root: false
 ---
 

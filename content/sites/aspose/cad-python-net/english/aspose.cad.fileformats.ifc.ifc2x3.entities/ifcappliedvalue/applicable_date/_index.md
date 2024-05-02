@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/applicable_date/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/applicable_date/
 is_root: false
 ---
 
 ## applicable_date property
 
-
-ApplicableDate
 ### Definition:
 ```python
 @property

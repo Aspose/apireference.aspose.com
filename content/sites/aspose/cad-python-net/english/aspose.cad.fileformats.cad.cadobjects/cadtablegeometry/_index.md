@@ -3,8 +3,8 @@ title: CadTableGeometry class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1150
-url: /aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/
+weight: 1250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/
 is_root: false
 ---
 
@@ -16,8 +16,8 @@ Class describing TABLEGEOMETRY object.
 
 **Inheritance:** [`CadTableGeometry`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry) → 
 [`CadBaseObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject) → 
-[`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) → 
-[`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
+[`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) → 
+[`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
 
 
 
@@ -40,6 +40,7 @@ The CadTableGeometry type exposes the following members:
 | [attribute_102_values](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/attribute_102_values) | Gets or sets the attribute102 values. |
 | [numreactors](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/numreactors) | The Numreactors |
 | [reactors](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/reactors) | Get or sets the reactors handle |
+| [storage_flag](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/storage_flag) | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [hard_owner](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/hard_owner) | Gets or sets the hard owner. |
 | [soft_owner](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/soft_owner) | Gets or sets the soft owner. |
 | [is_soft_owner_set](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/is_soft_owner_set) | Gets a value indicating whether soft owner is set. |
@@ -48,10 +49,17 @@ The CadTableGeometry type exposes the following members:
 | [table_geometry_params](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/table_geometry_params) | Gets or sets the table geometry parameters. |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [get_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/get_uid/#) | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [set_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/set_uid/#str) | Sets |
+
+
 
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadobjects`](..)
-* class [`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
 * class [`CadBaseObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject)
-* class [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned)
+* class [`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
+* class [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase)
 * class [`CadTableGeometry`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry)

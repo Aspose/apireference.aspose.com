@@ -3,13 +3,15 @@ title: has_materials property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.threeds/threedsimage/has_materials/
+weight: 180
+url: /python-net/aspose.cad.fileformats.threeds/threedsimage/has_materials/
 is_root: false
 ---
 
 ## has_materials property
 
+
+Gets a value indicating whether object has materials.
 ### Definition:
 ```python
 @property

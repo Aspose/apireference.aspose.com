@@ -3,8 +3,8 @@ title: update_size method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad/dxfimage/update_size/
+weight: 120
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/update_size/
 is_root: false
 ---
 

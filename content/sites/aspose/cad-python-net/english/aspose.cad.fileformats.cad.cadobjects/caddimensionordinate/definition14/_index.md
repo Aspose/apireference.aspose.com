@@ -3,8 +3,8 @@ title: definition14 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects/caddimensionordinate/definition14/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddimensionordinate/definition14/
 is_root: false
 ---
 

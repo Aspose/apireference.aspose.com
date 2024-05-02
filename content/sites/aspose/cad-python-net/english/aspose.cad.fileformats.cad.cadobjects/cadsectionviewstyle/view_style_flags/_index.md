@@ -3,8 +3,8 @@ title: view_style_flags property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_style_flags/
+weight: 580
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_style_flags/
 is_root: false
 ---
 

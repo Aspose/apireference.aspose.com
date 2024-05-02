@@ -3,8 +3,8 @@ title: Cad3DPointHelper class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 10
-url: /aspose.cad.fileformats.cad.cadobjects.helpers/cad3dpointhelper/
+weight: 20
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.helpers/cad3dpointhelper/
 is_root: false
 ---
 

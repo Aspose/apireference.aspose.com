@@ -3,15 +3,13 @@ title: rib_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/rib_spacing/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/rib_spacing/
 is_root: false
 ---
 
 ## rib_spacing property
 
-
-RibSpacing
 ### Definition:
 ```python
 @property

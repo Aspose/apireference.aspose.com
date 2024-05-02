@@ -3,15 +3,13 @@ title: wet_bulb_temperature_single_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/wet_bulb_temperature_single_value/
+weight: 230
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/wet_bulb_temperature_single_value/
 is_root: false
 ---
 
 ## wet_bulb_temperature_single_value property
 
-
-WetBulbTemperatureSingleValue
 ### Definition:
 ```python
 @property

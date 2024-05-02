@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad.fileformats.stp.items/stepcircle/
+url: /python-net/aspose.cad.fileformats.stp.items/stepcircle/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepCircle type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepcircle/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepcircle/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepcircle/id) |  |
 | [position](/cad/python-net/aspose.cad.fileformats.stp.items/stepcircle/position) |  |
 | [radius](/cad/python-net/aspose.cad.fileformats.stp.items/stepcircle/radius) |  |
 

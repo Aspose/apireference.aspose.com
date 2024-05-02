@@ -3,15 +3,13 @@ title: publisher property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryinformation/publisher/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryinformation/publisher/
 is_root: false
 ---
 
 ## publisher property
 
-
-Publisher
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: text_align property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/text_align/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/text_align/
 is_root: false
 ---
 
 ## text_align property
 
-
-TextAlign
 ### Definition:
 ```python
 @property

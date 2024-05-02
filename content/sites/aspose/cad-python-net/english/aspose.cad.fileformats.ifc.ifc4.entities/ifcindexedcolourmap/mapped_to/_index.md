@@ -3,15 +3,13 @@ title: mapped_to property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/mapped_to/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/mapped_to/
 is_root: false
 ---
 
 ## mapped_to property
 
-
-MappedTo
 ### Definition:
 ```python
 @property

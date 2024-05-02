@@ -3,8 +3,8 @@ title: IfcDiscreteAccessoryTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2460
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcdiscreteaccessorytypeenum/
+weight: 2470
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcdiscreteaccessorytypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcDiscreteAccessoryTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ANCHORPLATE | ANCHORPLATE |
-| BRACKET | BRACKET |
-| SHOE | SHOE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ANCHORPLATE |  |
+| BRACKET |  |
+| SHOE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

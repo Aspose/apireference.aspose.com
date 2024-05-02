@@ -3,8 +3,8 @@ title: arrow_symbol_extension_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/arrow_symbol_extension_length/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/arrow_symbol_extension_length/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: StepEllipse class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.stp.items/stepellipse/
+weight: 270
+url: /python-net/aspose.cad.fileformats.stp.items/stepellipse/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepEllipse type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepellipse/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepellipse/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepellipse/id) |  |
 | [position](/cad/python-net/aspose.cad.fileformats.stp.items/stepellipse/position) |  |
 | [semi_axis1](/cad/python-net/aspose.cad.fileformats.stp.items/stepellipse/semi_axis1) |  |
 | [semi_axis2](/cad/python-net/aspose.cad.fileformats.stp.items/stepellipse/semi_axis2) |  |

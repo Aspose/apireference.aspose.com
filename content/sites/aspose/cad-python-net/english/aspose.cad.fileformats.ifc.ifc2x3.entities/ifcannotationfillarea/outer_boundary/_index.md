@@ -3,15 +3,13 @@ title: outer_boundary property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillarea/outer_boundary/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillarea/outer_boundary/
 is_root: false
 ---
 
 ## outer_boundary property
 
-
-OuterBoundary
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: destabilizing_load property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstructurallinearaction/destabilizing_load/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructurallinearaction/destabilizing_load/
 is_root: false
 ---
 
 ## destabilizing_load property
 
-
-DestabilizingLoad
 ### Definition:
 ```python
 @property

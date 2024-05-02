@@ -3,15 +3,15 @@ title: line_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.fileformats.cad.cadobjects/cadlight/line_scale/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlight/line_scale/
 is_root: false
 ---
 
 ## line_scale property
 
 
-Gets or sets the line scale.
+Gets or sets the linetype scale factor of the entity.
 ### Definition:
 ```python
 @property

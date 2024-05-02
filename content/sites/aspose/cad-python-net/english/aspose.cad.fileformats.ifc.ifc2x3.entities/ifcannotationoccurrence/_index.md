@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ IfcAnnotationOccurrence
 **Inheritance:** [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence) → 
 [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -26,15 +26,17 @@ The IfcAnnotationOccurrence type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/entity_label) | Gets the entity label. |
-| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/item) | Item |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/name) | Name |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/item) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/name) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcAnnotationOccurrence`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
 * class [`IfcStyledItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem)

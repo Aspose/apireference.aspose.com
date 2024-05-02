@@ -3,15 +3,13 @@ title: rotational_displacement_rx property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotational_displacement_rx/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotational_displacement_rx/
 is_root: false
 ---
 
 ## rotational_displacement_rx property
 
-
-RotationalDisplacementRX
 ### Definition:
 ```python
 @property

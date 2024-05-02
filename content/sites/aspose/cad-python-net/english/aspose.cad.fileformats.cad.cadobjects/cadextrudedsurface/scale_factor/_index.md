@@ -3,8 +3,8 @@ title: scale_factor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/scale_factor/
+weight: 560
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/scale_factor/
 is_root: false
 ---
 

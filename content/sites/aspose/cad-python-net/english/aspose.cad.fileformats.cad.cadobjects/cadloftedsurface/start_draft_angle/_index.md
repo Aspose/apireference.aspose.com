@@ -3,8 +3,8 @@ title: start_draft_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/start_draft_angle/
+weight: 570
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/start_draft_angle/
 is_root: false
 ---
 

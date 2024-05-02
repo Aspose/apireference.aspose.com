@@ -3,15 +3,13 @@ title: phase property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcproject/phase/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproject/phase/
 is_root: false
 ---
 
 ## phase property
 
-
-Phase
 ### Definition:
 ```python
 @property

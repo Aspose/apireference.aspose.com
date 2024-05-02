@@ -3,8 +3,8 @@ title: definition_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/definition_point/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/definition_point/
 is_root: false
 ---
 

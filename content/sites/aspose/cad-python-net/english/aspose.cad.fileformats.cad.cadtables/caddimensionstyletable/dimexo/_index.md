@@ -3,15 +3,15 @@ title: dimexo property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimexo/
+weight: 430
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimexo/
 is_root: false
 ---
 
 ## dimexo property
 
 
-Gets or sets The dimexo - 042
+Gets or sets the distance between extension lines and origin points.
 ### Definition:
 ```python
 @property

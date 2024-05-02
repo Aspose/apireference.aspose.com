@@ -3,8 +3,8 @@ title: pointer_id_totablestyle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointer_id_totablestyle/
+weight: 530
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointer_id_totablestyle/
 is_root: false
 ---
 

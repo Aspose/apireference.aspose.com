@@ -3,8 +3,8 @@ title: width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad/image/width/
+weight: 230
+url: /python-net/aspose.cad/image/width/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the image width.
+
+### Example 
+
+
+Prints drawing's width
 ### Definition:
 ```python
 @property

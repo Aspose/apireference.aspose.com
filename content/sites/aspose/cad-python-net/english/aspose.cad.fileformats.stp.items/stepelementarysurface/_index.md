@@ -3,8 +3,8 @@ title: StepElementarySurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.stp.items/stepelementarysurface/
+weight: 260
+url: /python-net/aspose.cad.fileformats.stp.items/stepelementarysurface/
 is_root: false
 ---
 
@@ -28,6 +28,7 @@ The StepElementarySurface type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepelementarysurface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepelementarysurface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepelementarysurface/id) |  |
 | [position](/cad/python-net/aspose.cad.fileformats.stp.items/stepelementarysurface/position) |  |
 
 

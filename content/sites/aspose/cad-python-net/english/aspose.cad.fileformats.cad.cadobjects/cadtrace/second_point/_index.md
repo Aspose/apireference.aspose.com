@@ -3,8 +3,8 @@ title: second_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadobjects/cadtrace/second_point/
+weight: 430
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtrace/second_point/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: TiffOptionsError enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.imageoptions/tiffoptionserror/
+weight: 540
+url: /python-net/aspose.cad.imageoptions/tiffoptionserror/
 is_root: false
 ---
 

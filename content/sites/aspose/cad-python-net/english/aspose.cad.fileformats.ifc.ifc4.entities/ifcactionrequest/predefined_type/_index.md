@@ -3,15 +3,13 @@ title: predefined_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcactionrequest/predefined_type/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactionrequest/predefined_type/
 is_root: false
 ---
 
 ## predefined_type property
 
-
-PredefinedType
 ### Definition:
 ```python
 @property
@@ -25,4 +23,3 @@ def predefined_type(self, value):
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](../../)
 * class [`IfcActionRequest`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactionrequest)
-* class [`IfcActionRequestTypeEnum`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcactionrequesttypeenum)

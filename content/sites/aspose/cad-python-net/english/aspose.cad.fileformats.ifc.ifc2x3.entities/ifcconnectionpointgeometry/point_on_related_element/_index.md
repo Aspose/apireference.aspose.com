@@ -3,15 +3,13 @@ title: point_on_related_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointgeometry/point_on_related_element/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointgeometry/point_on_related_element/
 is_root: false
 ---
 
 ## point_on_related_element property
 
-
-PointOnRelatedElement
 ### Definition:
 ```python
 @property

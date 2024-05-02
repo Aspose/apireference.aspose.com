@@ -3,8 +3,8 @@ title: application_entity_class_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/application_entity_class_id/
+weight: 60
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/application_entity_class_id/
 is_root: false
 ---
 

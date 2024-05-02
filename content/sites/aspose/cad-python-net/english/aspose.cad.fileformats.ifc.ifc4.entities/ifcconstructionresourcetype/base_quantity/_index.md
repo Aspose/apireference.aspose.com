@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresourcetype/base_quantity/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresourcetype/base_quantity/
 is_root: false
 ---
 
 ## base_quantity property
 
-
-BaseQuantity
 ### Definition:
 ```python
 @property

@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/boiling_point/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/boiling_point/
 is_root: false
 ---
 
 ## boiling_point property
 
-
-BoilingPoint
 ### Definition:
 ```python
 @property

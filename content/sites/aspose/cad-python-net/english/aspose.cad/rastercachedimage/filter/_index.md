@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad/rastercachedimage/filter/
+url: /python-net/aspose.cad/rastercachedimage/filter/
 is_root: false
 ---
 

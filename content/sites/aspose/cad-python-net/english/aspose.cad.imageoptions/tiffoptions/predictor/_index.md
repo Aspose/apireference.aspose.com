@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 390
-url: /aspose.cad.imageoptions/tiffoptions/predictor/
+url: /python-net/aspose.cad.imageoptions/tiffoptions/predictor/
 is_root: false
 ---
 

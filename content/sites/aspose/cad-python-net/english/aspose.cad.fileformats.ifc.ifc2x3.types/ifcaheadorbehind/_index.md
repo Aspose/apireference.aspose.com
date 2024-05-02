@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1680
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcaheadorbehind/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcaheadorbehind/
 is_root: false
 ---
 
@@ -19,8 +19,8 @@ The IfcAheadOrBehind type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AHEAD | AHEAD |
-| BEHIND | BEHIND |
+| AHEAD |  |
+| BEHIND |  |
 
 
 

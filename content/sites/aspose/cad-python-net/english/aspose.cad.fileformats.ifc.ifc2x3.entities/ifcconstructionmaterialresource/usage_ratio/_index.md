@@ -3,15 +3,13 @@ title: usage_ratio property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionmaterialresource/usage_ratio/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionmaterialresource/usage_ratio/
 is_root: false
 ---
 
 ## usage_ratio property
 
-
-UsageRatio
 ### Definition:
 ```python
 @property

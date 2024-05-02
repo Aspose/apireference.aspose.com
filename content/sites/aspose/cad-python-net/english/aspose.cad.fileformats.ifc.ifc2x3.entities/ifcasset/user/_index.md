@@ -3,15 +3,13 @@ title: user property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/user/
+weight: 200
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/user/
 is_root: false
 ---
 
 ## user property
 
-
-User
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: schedule_time_control_assigned property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_time_control_assigned/
+weight: 260
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_time_control_assigned/
 is_root: false
 ---
 
 ## schedule_time_control_assigned property
 
-
-ScheduleTimeControlAssigned
 ### Definition:
 ```python
 @property

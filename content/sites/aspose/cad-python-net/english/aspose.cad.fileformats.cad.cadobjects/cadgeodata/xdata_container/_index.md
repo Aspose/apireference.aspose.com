@@ -3,8 +3,8 @@ title: xdata_container property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 430
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/xdata_container/
+weight: 460
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/xdata_container/
 is_root: false
 ---
 

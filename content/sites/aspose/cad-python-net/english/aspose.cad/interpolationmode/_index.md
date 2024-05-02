@@ -3,8 +3,8 @@ title: InterpolationMode enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 690
-url: /aspose.cad/interpolationmode/
+weight: 770
+url: /python-net/aspose.cad/interpolationmode/
 is_root: false
 ---
 

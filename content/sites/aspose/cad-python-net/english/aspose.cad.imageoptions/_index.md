@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.imageoptions/
+url: /python-net/aspose.cad.imageoptions/
 is_root: false
 ---
 
@@ -13,16 +13,29 @@ The namespace contains classes suitable for export, save or creation of differen
 ### Classes
 | Class | Description |
 | :- | :- |
+| [`ApsGroupOptions`](/cad/python-net/aspose.cad.imageoptions/apsgroupoptions) | The CGM options. |
 | [`BmpOptions`](/cad/python-net/aspose.cad.imageoptions/bmpoptions) | The bmp file format creation options. |
 | [`CadRasterizationOptions`](/cad/python-net/aspose.cad.imageoptions/cadrasterizationoptions) | The Cad rasterization options. |
 | [`CadRenderResult`](/cad/python-net/aspose.cad.imageoptions/cadrenderresult) | Represents result of rendering |
+| [`CgmOptions`](/cad/python-net/aspose.cad.imageoptions/cgmoptions) | The CGM options. |
 | [`DicomOptions`](/cad/python-net/aspose.cad.imageoptions/dicomoptions) | The DICOM file format creation options. |
 | [`DwfOptions`](/cad/python-net/aspose.cad.imageoptions/dwfoptions) | The DWF options. |
-| [`DxfOptions`](/cad/python-net/aspose.cad.imageoptions/dxfoptions) | The SVG file format creation options. |
+| [`DwgConvertOptions`](/cad/python-net/aspose.cad.imageoptions/dwgconvertoptions) | Options to convert a DWG or DXF file to DWG - preserving the content as it is. |
+| [`DwgOptionsBase`](/cad/python-net/aspose.cad.imageoptions/dwgoptionsbase) | The base DWG file format creation options. |
+| [`DwgRenderOptions`](/cad/python-net/aspose.cad.imageoptions/dwgrenderoptions) |  |
+| [`DxfConvertOptions`](/cad/python-net/aspose.cad.imageoptions/dxfconvertoptions) | Options to convert DWG or DXF file to DXF format - preserving the content as it is. |
+| [`DxfOptionsBase`](/cad/python-net/aspose.cad.imageoptions/dxfoptionsbase) | The DXF file format creation basic options. |
+| [`DxfRenderOptions`](/cad/python-net/aspose.cad.imageoptions/dxfrenderoptions) | Options to render a file and store the rendered result to DXF - content is not preserved, but rendered to shapes. |
 | [`EmfOptions`](/cad/python-net/aspose.cad.imageoptions/emfoptions) | The EMF file format creation options. |
 | [`FbxOptions`](/cad/python-net/aspose.cad.imageoptions/fbxoptions) | The Fbx options. |
 | [`GifOptions`](/cad/python-net/aspose.cad.imageoptions/gifoptions) | The gif file format creation options. |
+| [`GlbOptions`](/cad/python-net/aspose.cad.imageoptions/glboptions) | The GLB options. |
+| [`GltfOptions`](/cad/python-net/aspose.cad.imageoptions/gltfoptions) | The GLTF options. |
 | [`GraphicsOptions`](/cad/python-net/aspose.cad.imageoptions/graphicsoptions) | Represents graphics options for embedded bitmap. |
+| [`ITextAsLinesOptions`](/cad/python-net/aspose.cad.imageoptions/itextaslinesoptions) | The TextAsLines options. |
+| [`ITextAsShapesOptions`](/cad/python-net/aspose.cad.imageoptions/itextasshapesoptions) | The TextAsShapes options. |
+| [`IfcOptions`](/cad/python-net/aspose.cad.imageoptions/ifcoptions) | The IFC options. |
+| [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase) | The image base options. |
 | [`Jpeg2000Options`](/cad/python-net/aspose.cad.imageoptions/jpeg2000options) | The Jpeg2000 file format options. |
 | [`JpegOptions`](/cad/python-net/aspose.cad.imageoptions/jpegoptions) | The jpeg file format create options. |
 | [`Margins`](/cad/python-net/aspose.cad.imageoptions/margins) | Margins class. |
@@ -37,6 +50,7 @@ The namespace contains classes suitable for export, save or creation of differen
 | [`RasterizationQuality`](/cad/python-net/aspose.cad.imageoptions/rasterizationquality) | RasterizationQuality class |
 | [`RdOptimizerSettings`](/cad/python-net/aspose.cad.imageoptions/rdoptimizersettings) | RD optimizer settings class |
 | [`RenderResult`](/cad/python-net/aspose.cad.imageoptions/renderresult) | Represents information with results of rendering |
+| [`StlOptions`](/cad/python-net/aspose.cad.imageoptions/stloptions) | The STL options. |
 | [`StpOptions`](/cad/python-net/aspose.cad.imageoptions/stpoptions) | The STP options. |
 | [`SvgOptions`](/cad/python-net/aspose.cad.imageoptions/svgoptions) | The SVG file format creation options. |
 | [`ThreeDSOptions`](/cad/python-net/aspose.cad.imageoptions/threedsoptions) | The 3DS options. |
@@ -50,10 +64,11 @@ The namespace contains classes suitable for export, save or creation of differen
 ### Enumerations
 | Enumeration | Description |
 | :- | :- |
+| [`DxfOutputVersion`](/cad/python-net/aspose.cad.imageoptions/dxfoutputversion) | Specifies version of DXF file |
 | [`MultiPageMode`](/cad/python-net/aspose.cad.imageoptions/multipagemode) | Represents multipage mode |
 | [`PdfCompliance`](/cad/python-net/aspose.cad.imageoptions/pdfcompliance) | Specifies the PDF compliance level to output file. |
 | [`PdfDigitalSignatureHashAlgorithmCore`](/cad/python-net/aspose.cad.imageoptions/pdfdigitalsignaturehashalgorithmcore) | Specifies digital hash algorithm used by digital signature. |
-| [`RasterizationQualityValue`](/cad/python-net/aspose.cad.imageoptions/rasterizationqualityvalue) | RasterizationQuality |
+| [`RasterizationQualityValue`](/cad/python-net/aspose.cad.imageoptions/rasterizationqualityvalue) | Copy of RasterizationQualityValue enum for use in Aspose.SVG for <br/>avoiding of dependency from Aspose.CAD.ImageOptions namespace. |
 | [`RenderErrorCode`](/cad/python-net/aspose.cad.imageoptions/rendererrorcode) | Represents possible missing sections in CAD file |
 | [`RenderMode3D`](/cad/python-net/aspose.cad.imageoptions/rendermode3d) |  |
 | [`TiffOptionsError`](/cad/python-net/aspose.cad.imageoptions/tiffoptionserror) | The tiff options error codes. |

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1230
-url: /aspose.cad.exif/jpegexifdata/subject_distance/
+url: /python-net/aspose.cad.exif/jpegexifdata/subject_distance/
 is_root: false
 ---
 

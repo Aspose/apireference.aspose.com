@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3390
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcLibraryReference
 
 **Inheritance:** [`IfcLibraryReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference) → 
 [`IfcExternalReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,18 +31,20 @@ The IfcLibraryReference type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/entity_label) | Gets the entity label. |
-| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/location) | Location |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/identification) | Identification |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/description) | Description |
-| [language](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/language) | Language |
-| [referenced_library](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/referenced_library) | ReferencedLibrary |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/location) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/identification) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/description) |  |
+| [language](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/language) |  |
+| [referenced_library](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/referenced_library) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcExternalReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference)
 * class [`IfcLibraryReference`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference)

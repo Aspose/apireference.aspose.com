@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 800
-url: /aspose.cad.fileformats.collada.fileparser.elements/parametriccurves/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/parametriccurves/
 is_root: false
 ---
 

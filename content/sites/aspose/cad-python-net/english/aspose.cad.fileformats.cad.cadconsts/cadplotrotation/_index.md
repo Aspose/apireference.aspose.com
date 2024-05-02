@@ -3,8 +3,8 @@ title: CadPlotRotation enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadconsts/cadplotrotation/
+weight: 350
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadplotrotation/
 is_root: false
 ---
 

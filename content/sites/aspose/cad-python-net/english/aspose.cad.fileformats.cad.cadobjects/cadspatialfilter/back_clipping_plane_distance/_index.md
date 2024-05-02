@@ -3,8 +3,8 @@ title: back_clipping_plane_distance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/back_clipping_plane_distance/
+weight: 80
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/back_clipping_plane_distance/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.cad.fileformats.dwf/dwfimage/data_stream_container/
+url: /python-net/aspose.cad.fileformats.dwf/dwfimage/data_stream_container/
 is_root: false
 ---
 

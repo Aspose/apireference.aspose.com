@@ -3,8 +3,8 @@ title: RectangleF class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad/rectanglef/
+weight: 500
+url: /python-net/aspose.cad/rectanglef/
 is_root: false
 ---
 

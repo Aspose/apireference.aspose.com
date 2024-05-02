@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4360
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/
 is_root: false
 ---
 
@@ -23,7 +23,7 @@ IfcReinforcingMesh
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -38,24 +38,26 @@ The IfcReinforcingMesh type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/representation) | Representation |
-| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/tag) | Tag |
-| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/steel_grade) | SteelGrade |
-| [mesh_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/mesh_length) | MeshLength |
-| [mesh_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/mesh_width) | MeshWidth |
-| [longitudinal_bar_nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_nominal_diameter) | LongitudinalBarNominalDiameter |
-| [transverse_bar_nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/transverse_bar_nominal_diameter) | TransverseBarNominalDiameter |
-| [longitudinal_bar_cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_cross_section_area) | LongitudinalBarCrossSectionArea |
-| [transverse_bar_cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/transverse_bar_cross_section_area) | TransverseBarCrossSectionArea |
-| [longitudinal_bar_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_spacing) | LongitudinalBarSpacing |
-| [transverse_bar_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/transverse_bar_spacing) | TransverseBarSpacing |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/representation) |  |
+| [tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/tag) |  |
+| [steel_grade](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/steel_grade) |  |
+| [mesh_length](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/mesh_length) |  |
+| [mesh_width](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/mesh_width) |  |
+| [longitudinal_bar_nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_nominal_diameter) |  |
+| [transverse_bar_nominal_diameter](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/transverse_bar_nominal_diameter) |  |
+| [longitudinal_bar_cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_cross_section_area) |  |
+| [transverse_bar_cross_section_area](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/transverse_bar_cross_section_area) |  |
+| [longitudinal_bar_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_spacing) |  |
+| [transverse_bar_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/transverse_bar_spacing) |  |
 
 
 
@@ -64,7 +66,7 @@ The IfcReinforcingMesh type exposes the following members:
 * class [`IfcBuildingElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelement)
 * class [`IfcBuildingElementComponent`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementcomponent)
 * class [`IfcElement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProduct`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct)

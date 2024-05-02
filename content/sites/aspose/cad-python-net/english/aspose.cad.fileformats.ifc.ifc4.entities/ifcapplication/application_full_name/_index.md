@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcapplication/application_full_name/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapplication/application_full_name/
 is_root: false
 ---
 
 ## application_full_name property
 
-
-ApplicationFullName
 ### Definition:
 ```python
 @property

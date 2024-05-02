@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 240
-url: /aspose.cad/color/blanched_almond/
+url: /python-net/aspose.cad/color/blanched_almond/
 is_root: false
 ---
 

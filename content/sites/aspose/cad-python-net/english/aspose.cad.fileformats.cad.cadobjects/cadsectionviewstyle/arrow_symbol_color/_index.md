@@ -3,8 +3,8 @@ title: arrow_symbol_color property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/arrow_symbol_color/
+weight: 90
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/arrow_symbol_color/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.cad.fileformats.stp.items/stepcartesianpoint/
+url: /python-net/aspose.cad.fileformats.stp.items/stepcartesianpoint/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepCartesianPoint type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepcartesianpoint/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepcartesianpoint/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepcartesianpoint/id) |  |
 | [x](/cad/python-net/aspose.cad.fileformats.stp.items/stepcartesianpoint/x) |  |
 | [y](/cad/python-net/aspose.cad.fileformats.stp.items/stepcartesianpoint/y) |  |
 | [z](/cad/python-net/aspose.cad.fileformats.stp.items/stepcartesianpoint/z) |  |

@@ -3,8 +3,8 @@ title: start_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad.fileformats.cad.cadobjects/cadhelix/start_point/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadhelix/start_point/
 is_root: false
 ---
 

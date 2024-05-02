@@ -3,8 +3,8 @@ title: text_landing_gap property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 700
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_landing_gap/
+weight: 790
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_landing_gap/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: work_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/work_method/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/work_method/
 is_root: false
 ---
 
 ## work_method property
 
-
-WorkMethod
 ### Definition:
 ```python
 @property

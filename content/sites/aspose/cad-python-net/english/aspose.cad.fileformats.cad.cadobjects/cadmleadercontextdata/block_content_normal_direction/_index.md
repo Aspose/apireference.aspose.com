@@ -3,8 +3,8 @@ title: block_content_normal_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/block_content_normal_direction/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/block_content_normal_direction/
 is_root: false
 ---
 

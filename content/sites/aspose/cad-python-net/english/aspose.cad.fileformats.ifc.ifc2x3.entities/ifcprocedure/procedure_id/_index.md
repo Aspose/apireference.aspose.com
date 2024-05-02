@@ -3,15 +3,13 @@ title: procedure_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprocedure/procedure_id/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprocedure/procedure_id/
 is_root: false
 ---
 
 ## procedure_id property
 
-
-ProcedureID
 ### Definition:
 ```python
 @property

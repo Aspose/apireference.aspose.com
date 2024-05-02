@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1660
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcDocumentElectronicFormat
 
 
 **Inheritance:** [`IfcDocumentElectronicFormat`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,14 +30,16 @@ The IfcDocumentElectronicFormat type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/entity_label) | Gets the entity label. |
-| [file_extension](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/file_extension) | FileExtension |
-| [mime_content_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_content_type) | MimeContentType |
-| [mime_subtype](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_subtype) | MimeSubtype |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [file_extension](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/file_extension) |  |
+| [mime_content_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_content_type) |  |
+| [mime_subtype](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mime_subtype) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcDocumentElectronicFormat`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

@@ -3,8 +3,8 @@ title: RawDataSettings class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad/rawdatasettings/
+weight: 480
+url: /python-net/aspose.cad/rawdatasettings/
 is_root: false
 ---
 

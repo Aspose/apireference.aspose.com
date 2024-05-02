@@ -1,14 +1,14 @@
 ﻿---
-title: hard_pointer_reference property
+title: HARD_POINTER_REFERENCE property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/hard_pointer_reference/
+url: /python-net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/hard_pointer_reference/
 is_root: false
 ---
 
-## hard_pointer_reference property
+## HARD_POINTER_REFERENCE property
 
 
 Hard pointer reference: the referencing object needs the referenced object, but both are

@@ -3,15 +3,13 @@ title: last_modified_date property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/last_modified_date/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/last_modified_date/
 is_root: false
 ---
 
 ## last_modified_date property
 
-
-LastModifiedDate
 ### Definition:
 ```python
 @property

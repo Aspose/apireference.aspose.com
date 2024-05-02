@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipimage/layer_index/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipimage/layer_index/
 is_root: false
 ---
 

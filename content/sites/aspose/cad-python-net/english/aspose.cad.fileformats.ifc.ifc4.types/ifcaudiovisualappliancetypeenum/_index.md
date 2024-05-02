@@ -3,8 +3,8 @@ title: IfcAudioVisualApplianceTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2040
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcaudiovisualappliancetypeenum/
+weight: 2050
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcaudiovisualappliancetypeenum/
 is_root: false
 ---
 
@@ -19,19 +19,19 @@ The IfcAudioVisualApplianceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AMPLIFIER | AMPLIFIER |
-| CAMERA | CAMERA |
-| DISPLAY | DISPLAY |
-| MICROPHONE | MICROPHONE |
-| PLAYER | PLAYER |
-| PROJECTOR | PROJECTOR |
-| RECEIVER | RECEIVER |
-| SPEAKER | SPEAKER |
-| SWITCHER | SWITCHER |
-| TELEPHONE | TELEPHONE |
-| TUNER | TUNER |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| AMPLIFIER |  |
+| CAMERA |  |
+| DISPLAY |  |
+| MICROPHONE |  |
+| PLAYER |  |
+| PROJECTOR |  |
+| RECEIVER |  |
+| SPEAKER |  |
+| SWITCHER |  |
+| TELEPHONE |  |
+| TUNER |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

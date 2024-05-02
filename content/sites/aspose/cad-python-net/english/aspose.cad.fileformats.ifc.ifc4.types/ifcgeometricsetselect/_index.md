@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 570
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcgeometricsetselect/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcgeometricsetselect/
 is_root: false
 ---
 

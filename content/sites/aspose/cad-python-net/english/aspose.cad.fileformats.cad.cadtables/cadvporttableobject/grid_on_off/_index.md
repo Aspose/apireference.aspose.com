@@ -3,8 +3,8 @@ title: grid_on_off property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/grid_on_off/
+weight: 220
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/grid_on_off/
 is_root: false
 ---
 

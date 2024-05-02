@@ -3,15 +3,13 @@ title: delta_t_y property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/delta_t_y/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/delta_t_y/
 is_root: false
 ---
 
 ## delta_t_y property
 
-
-DeltaT_Y
 ### Definition:
 ```python
 @property

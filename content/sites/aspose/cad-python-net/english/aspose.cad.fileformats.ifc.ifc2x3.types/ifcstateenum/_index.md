@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2990
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcstateenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstateenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcStateEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| READWRITE | READWRITE |
-| READONLY | READONLY |
-| LOCKED | LOCKED |
-| READWRITELOCKED | READWRITELOCKED |
-| READONLYLOCKED | READONLYLOCKED |
+| READWRITE |  |
+| READONLY |  |
+| LOCKED |  |
+| READWRITELOCKED |  |
+| READONLYLOCKED |  |
 
 
 

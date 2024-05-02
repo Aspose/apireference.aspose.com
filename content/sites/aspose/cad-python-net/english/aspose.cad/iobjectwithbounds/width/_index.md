@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad/iobjectwithbounds/width/
+url: /python-net/aspose.cad/iobjectwithbounds/width/
 is_root: false
 ---
 

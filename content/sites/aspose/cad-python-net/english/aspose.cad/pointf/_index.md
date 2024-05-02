@@ -3,8 +3,8 @@ title: PointF class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad/pointf/
+weight: 450
+url: /python-net/aspose.cad/pointf/
 is_root: false
 ---
 

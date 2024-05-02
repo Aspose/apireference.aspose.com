@@ -3,8 +3,8 @@ title: weight_params property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 580
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/weight_params/
+weight: 680
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/weight_params/
 is_root: false
 ---
 

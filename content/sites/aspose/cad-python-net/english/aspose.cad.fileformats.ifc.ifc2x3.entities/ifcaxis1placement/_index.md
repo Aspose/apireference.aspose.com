@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 330
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcAxis1Placement
 [`IfcPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplacement) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,16 +33,18 @@ The IfcAxis1Placement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/entity_label) | Gets the entity label. |
-| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/location) | Location |
-| [axis](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/axis) | Axis |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [location](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/location) |  |
+| [axis](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement/axis) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcAxis1Placement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis1placement)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationitem)
 * class [`IfcPlacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplacement)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)

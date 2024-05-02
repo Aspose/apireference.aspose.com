@@ -3,15 +3,13 @@ title: parent_profile property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcderivedprofiledef/parent_profile/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcderivedprofiledef/parent_profile/
 is_root: false
 ---
 
 ## parent_profile property
 
-
-ParentProfile
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 340
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ Partial IIfc entity class
 [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurve) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -28,11 +28,13 @@ The IfcBSplineCurve type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/entity_label) | Gets the entity label. |
-| [degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/degree) | Degree |
-| [curve_form](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/curve_form) | CurveForm |
-| [closed_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/closed_curve) | ClosedCurve |
-| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/self_intersect) | SelfIntersect |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/degree) |  |
+| [curve_form](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/curve_form) |  |
+| [closed_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/closed_curve) |  |
+| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/self_intersect) |  |
 
 
 
@@ -41,6 +43,6 @@ The IfcBSplineCurve type exposes the following members:
 * class [`IfcBSplineCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve)
 * class [`IfcBoundedCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundedcurve)
 * class [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurve)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

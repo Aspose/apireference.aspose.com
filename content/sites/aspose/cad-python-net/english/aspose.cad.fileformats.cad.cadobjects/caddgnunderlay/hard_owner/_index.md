@@ -3,8 +3,8 @@ title: hard_owner property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects/caddgnunderlay/hard_owner/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/caddgnunderlay/hard_owner/
 is_root: false
 ---
 

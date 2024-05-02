@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 850
-url: /aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/
 is_root: false
 ---
 

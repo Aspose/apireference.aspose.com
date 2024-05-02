@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1210
-url: /aspose.cad.fileformats.collada.fileparser.elements/vertices/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/vertices/
 is_root: false
 ---
 

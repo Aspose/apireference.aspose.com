@@ -3,15 +3,13 @@ title: web_thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/web_thickness/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/web_thickness/
 is_root: false
 ---
 
 ## web_thickness property
 
-
-WebThickness
 ### Definition:
 ```python
 @property

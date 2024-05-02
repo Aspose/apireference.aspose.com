@@ -3,15 +3,13 @@ title: initial_stress property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/initial_stress/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/initial_stress/
 is_root: false
 ---
 
 ## initial_stress property
 
-
-InitialStress
 ### Definition:
 ```python
 @property

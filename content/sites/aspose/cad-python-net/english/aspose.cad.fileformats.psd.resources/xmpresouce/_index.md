@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.psd.resources/xmpresouce/
+url: /python-net/aspose.cad.fileformats.psd.resources/xmpresouce/
 is_root: false
 ---
 
@@ -37,7 +37,6 @@ The XmpResouce type exposes the following members:
 | [size](/cad/python-net/aspose.cad.fileformats.psd.resources/xmpresouce/size) | Gets the resource block size in bytes including its data. |
 | [minimal_version](/cad/python-net/aspose.cad.fileformats.psd.resources/xmpresouce/minimal_version) | Gets the minimal required psd version. |
 | [RESOUCE_BLOCK_SIGNATURE](/cad/python-net/aspose.cad.fileformats.psd.resources/xmpresouce/resouce_block_signature) | The resource signature. |
-| [xmp_data](/cad/python-net/aspose.cad.fileformats.psd.resources/xmpresouce/xmp_data) | Get or set XMP data container |
 
 
 ### Methods

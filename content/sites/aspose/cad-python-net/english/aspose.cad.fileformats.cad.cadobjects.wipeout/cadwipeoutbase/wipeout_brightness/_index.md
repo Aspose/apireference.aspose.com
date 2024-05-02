@@ -3,8 +3,8 @@ title: wipeout_brightness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/wipeout_brightness/
+weight: 600
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/wipeout_brightness/
 is_root: false
 ---
 

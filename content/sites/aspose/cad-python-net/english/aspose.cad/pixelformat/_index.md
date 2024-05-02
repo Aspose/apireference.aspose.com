@@ -3,8 +3,8 @@ title: PixelFormat enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 740
-url: /aspose.cad/pixelformat/
+weight: 820
+url: /python-net/aspose.cad/pixelformat/
 is_root: false
 ---
 

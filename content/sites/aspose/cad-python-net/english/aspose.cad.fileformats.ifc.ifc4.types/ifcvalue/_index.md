@@ -3,8 +3,8 @@ title: IfcValue class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1830
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcvalue/
+weight: 1840
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcvalue/
 is_root: false
 ---
 

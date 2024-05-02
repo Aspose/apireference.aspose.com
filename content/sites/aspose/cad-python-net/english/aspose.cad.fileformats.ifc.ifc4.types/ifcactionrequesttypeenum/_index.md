@@ -3,8 +3,8 @@ title: IfcActionRequestTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1910
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcactionrequesttypeenum/
+weight: 1920
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcactionrequesttypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcActionRequestTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| EMAIL | EMAIL |
-| FAX | FAX |
-| PHONE | PHONE |
-| POST | POST |
-| VERBAL | VERBAL |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| EMAIL |  |
+| FAX |  |
+| PHONE |  |
+| POST |  |
+| VERBAL |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

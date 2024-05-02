@@ -3,15 +3,13 @@ title: y_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangularpyramid/y_length/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangularpyramid/y_length/
 is_root: false
 ---
 
 ## y_length property
 
-
-YLength
 ### Definition:
 ```python
 @property

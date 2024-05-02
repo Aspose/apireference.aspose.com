@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.psd.resources/thumbnail4resource/validate_values/
+url: /python-net/aspose.cad.fileformats.psd.resources/thumbnail4resource/validate_values/
 is_root: false
 ---
 

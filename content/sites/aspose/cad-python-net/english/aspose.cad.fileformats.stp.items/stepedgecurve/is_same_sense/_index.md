@@ -3,8 +3,8 @@ title: is_same_sense property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.stp.items/stepedgecurve/is_same_sense/
+weight: 70
+url: /python-net/aspose.cad.fileformats.stp.items/stepedgecurve/is_same_sense/
 is_root: false
 ---
 

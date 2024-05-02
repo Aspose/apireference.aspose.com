@@ -3,15 +3,13 @@ title: schedule_duration property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_duration/
+weight: 230
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/schedule_duration/
 is_root: false
 ---
 
 ## schedule_duration property
 
-
-ScheduleDuration
 ### Definition:
 ```python
 @property

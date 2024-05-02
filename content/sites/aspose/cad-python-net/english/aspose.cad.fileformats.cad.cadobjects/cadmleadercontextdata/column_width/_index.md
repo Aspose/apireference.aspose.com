@@ -3,8 +3,8 @@ title: column_width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/column_width/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/column_width/
 is_root: false
 ---
 

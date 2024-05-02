@@ -3,8 +3,8 @@ title: CadSectionViewStyle class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1010
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/
+weight: 1110
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/
 is_root: false
 ---
 
@@ -16,8 +16,8 @@ Class describing CadSectionViewStyle
 
 **Inheritance:** [`CadSectionViewStyle`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle) → 
 [`CadBaseObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject) → 
-[`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) → 
-[`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
+[`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) → 
+[`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
 
 
 
@@ -40,6 +40,7 @@ The CadSectionViewStyle type exposes the following members:
 | [attribute_102_values](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/attribute_102_values) | Gets or sets the attribute102 values. |
 | [numreactors](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/numreactors) | The Numreactors |
 | [reactors](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/reactors) | Get or sets the reactors handle |
+| [storage_flag](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/storage_flag) | Gets or sets a value indicating that this entity has associated binary data in the data store. |
 | [hard_owner](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/hard_owner) | Gets or sets the hard owner. |
 | [soft_owner](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/soft_owner) | Gets or sets the soft owner. |
 | [is_soft_owner_set](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/is_soft_owner_set) | Gets a value indicating whether soft owner is set. |
@@ -88,11 +89,18 @@ The CadSectionViewStyle type exposes the following members:
 | [view_label_text_style_handle](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_label_text_style_handle) | The View Label Text Style Handle |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [get_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/get_uid/#) | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [set_uid](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/set_uid/#str) | Sets |
+
+
 
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadobjects`](..)
-* class [`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase)
 * class [`CadBaseObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject)
-* class [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned)
+* class [`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase)
+* class [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase)
 * class [`CadSectionViewStyle`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle)
 * class [`CadXRecord`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadxrecord)

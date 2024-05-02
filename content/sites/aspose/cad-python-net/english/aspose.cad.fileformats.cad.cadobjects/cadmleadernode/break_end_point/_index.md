@@ -3,8 +3,8 @@ title: break_end_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadernode/break_end_point/
+weight: 130
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/break_end_point/
 is_root: false
 ---
 

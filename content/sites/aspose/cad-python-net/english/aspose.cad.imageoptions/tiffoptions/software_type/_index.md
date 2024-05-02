@@ -3,8 +3,8 @@ title: software_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
-url: /aspose.cad.imageoptions/tiffoptions/software_type/
+weight: 510
+url: /python-net/aspose.cad.imageoptions/tiffoptions/software_type/
 is_root: false
 ---
 

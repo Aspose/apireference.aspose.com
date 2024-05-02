@@ -3,8 +3,8 @@ title: CadShadowMode enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadconsts/cadshadowmode/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadshadowmode/
 is_root: false
 ---
 

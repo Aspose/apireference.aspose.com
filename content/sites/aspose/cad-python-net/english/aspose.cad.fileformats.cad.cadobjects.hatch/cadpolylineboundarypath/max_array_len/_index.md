@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/max_array_len/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/max_array_len/
 is_root: false
 ---
 

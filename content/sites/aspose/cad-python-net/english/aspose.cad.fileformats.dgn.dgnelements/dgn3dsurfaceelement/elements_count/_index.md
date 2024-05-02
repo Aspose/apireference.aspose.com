@@ -3,8 +3,8 @@ title: elements_count property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/elements_count/
+weight: 70
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/elements_count/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: rational property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/rational/
+weight: 550
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/rational/
 is_root: false
 ---
 

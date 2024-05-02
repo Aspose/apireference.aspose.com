@@ -3,8 +3,8 @@ title: min_extents property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/min_extents/
+weight: 270
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/min_extents/
 is_root: false
 ---
 

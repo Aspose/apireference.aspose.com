@@ -3,8 +3,8 @@ title: specular_map_file_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 950
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_file_name/
+weight: 1040
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/specular_map_file_name/
 is_root: false
 ---
 

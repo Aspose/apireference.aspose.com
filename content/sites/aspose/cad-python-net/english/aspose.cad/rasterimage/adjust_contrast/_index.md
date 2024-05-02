@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad/rasterimage/adjust_contrast/
+url: /python-net/aspose.cad/rasterimage/adjust_contrast/
 is_root: false
 ---
 

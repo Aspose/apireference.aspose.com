@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolyline/min_point/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolyline/min_point/
 is_root: false
 ---
 

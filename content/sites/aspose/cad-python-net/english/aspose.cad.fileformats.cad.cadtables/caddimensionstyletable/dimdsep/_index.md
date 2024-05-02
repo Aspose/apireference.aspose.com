@@ -3,15 +3,16 @@ title: dimdsep property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimdsep/
+weight: 410
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimdsep/
 is_root: false
 ---
 
 ## dimdsep property
 
 
-Gets or sets The dimdsep - 278
+Gets or sets a decimal separator. 
+Decimal point is used be default.
 ### Definition:
 ```python
 @property

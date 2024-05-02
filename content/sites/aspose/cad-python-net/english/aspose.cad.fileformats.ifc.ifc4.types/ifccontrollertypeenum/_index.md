@@ -3,8 +3,8 @@ title: IfcControllerTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2330
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifccontrollertypeenum/
+weight: 2340
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifccontrollertypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcControllerTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| FLOATING | FLOATING |
-| PROGRAMMABLE | PROGRAMMABLE |
-| PROPORTIONAL | PROPORTIONAL |
-| MULTIPOSITION | MULTIPOSITION |
-| TWOPOSITION | TWOPOSITION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| FLOATING |  |
+| PROGRAMMABLE |  |
+| PROPORTIONAL |  |
+| MULTIPOSITION |  |
+| TWOPOSITION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

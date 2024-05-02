@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad/matrix/transform_points/
+url: /python-net/aspose.cad/matrix/transform_points/
 is_root: false
 ---
 

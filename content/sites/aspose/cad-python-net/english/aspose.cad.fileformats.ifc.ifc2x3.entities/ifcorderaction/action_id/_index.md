@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/action_id/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/action_id/
 is_root: false
 ---
 
 ## action_id property
 
-
-ActionID
 ### Definition:
 ```python
 @property

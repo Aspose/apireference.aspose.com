@@ -3,8 +3,8 @@ title: CadDimensionDictionary class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad/caddimensiondictionary/
+weight: 120
+url: /python-net/aspose.cad.fileformats.cad/caddimensiondictionary/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: life_cycle_phase property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperformancehistory/life_cycle_phase/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperformancehistory/life_cycle_phase/
 is_root: false
 ---
 
 ## life_cycle_phase property
 
-
-LifeCyclePhase
 ### Definition:
 ```python
 @property

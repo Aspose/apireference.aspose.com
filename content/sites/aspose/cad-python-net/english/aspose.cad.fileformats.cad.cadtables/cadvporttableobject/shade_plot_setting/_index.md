@@ -3,8 +3,8 @@ title: shade_plot_setting property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/shade_plot_setting/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/shade_plot_setting/
 is_root: false
 ---
 

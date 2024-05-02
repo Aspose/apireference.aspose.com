@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4010
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcPropertyDependencyRelationship
 
 
 **Inheritance:** [`IfcPropertyDependencyRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,16 +30,18 @@ The IfcPropertyDependencyRelationship type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/entity_label) | Gets the entity label. |
-| [depending_property](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/depending_property) | DependingProperty |
-| [dependant_property](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/dependant_property) | DependantProperty |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/description) | Description |
-| [expression](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/expression) | Expression |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [depending_property](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/depending_property) |  |
+| [dependant_property](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/dependant_property) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/description) |  |
+| [expression](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/expression) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPropertyDependencyRelationship`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship)

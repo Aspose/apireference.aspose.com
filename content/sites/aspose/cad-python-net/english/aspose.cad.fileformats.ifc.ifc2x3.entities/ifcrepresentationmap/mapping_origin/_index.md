@@ -3,15 +3,13 @@ title: mapping_origin property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationmap/mapping_origin/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationmap/mapping_origin/
 is_root: false
 ---
 
 ## mapping_origin property
 
-
-MappingOrigin
 ### Definition:
 ```python
 @property

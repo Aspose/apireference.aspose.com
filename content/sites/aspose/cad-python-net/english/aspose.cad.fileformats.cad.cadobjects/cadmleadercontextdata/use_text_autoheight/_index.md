@@ -3,8 +3,8 @@ title: use_text_autoheight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 830
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/use_text_autoheight/
+weight: 920
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/use_text_autoheight/
 is_root: false
 ---
 

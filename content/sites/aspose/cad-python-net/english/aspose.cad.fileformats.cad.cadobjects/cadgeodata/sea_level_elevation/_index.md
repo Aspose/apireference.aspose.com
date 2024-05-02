@@ -3,8 +3,8 @@ title: sea_level_elevation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/sea_level_elevation/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/sea_level_elevation/
 is_root: false
 ---
 

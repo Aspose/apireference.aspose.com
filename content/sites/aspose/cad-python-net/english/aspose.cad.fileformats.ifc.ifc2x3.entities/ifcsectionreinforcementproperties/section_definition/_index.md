@@ -3,15 +3,13 @@ title: section_definition property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/section_definition/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/section_definition/
 is_root: false
 ---
 
 ## section_definition property
 
-
-SectionDefinition
 ### Definition:
 ```python
 @property

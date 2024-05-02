@@ -3,8 +3,8 @@ title: curve_degree property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/curve_degree/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/curve_degree/
 is_root: false
 ---
 

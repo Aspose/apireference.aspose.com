@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3270
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcworkcontroltypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcworkcontroltypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcWorkControlTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ACTUAL | ACTUAL |
-| BASELINE | BASELINE |
-| PLANNED | PLANNED |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ACTUAL |  |
+| BASELINE |  |
+| PLANNED |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

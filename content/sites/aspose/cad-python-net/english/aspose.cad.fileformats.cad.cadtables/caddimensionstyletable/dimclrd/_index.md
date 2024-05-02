@@ -3,15 +3,16 @@ title: dimclrd property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimclrd/
+weight: 350
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimclrd/
 is_root: false
 ---
 
 ## dimclrd property
 
 
-Gets or sets The dimclrd - 176
+Gets or sets color to dimension lines, arrowheads, and dimension leader lines.
+Possible values are 1-225 (color index), 0 - by block, 256 - by layer.
 ### Definition:
 ```python
 @property

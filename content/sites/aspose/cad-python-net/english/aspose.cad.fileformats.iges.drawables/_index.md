@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.iges.drawables/
+url: /python-net/aspose.cad.fileformats.iges.drawables/
 is_root: false
 ---
 
@@ -13,11 +13,13 @@ The namespace handles the IGES geometric representation of an entity or part of 
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`IBezierCurve`](/cad/python-net/aspose.cad.fileformats.iges.drawables/ibeziercurve) | Interface for cubic Bezier Curve geometry primitive |
-| [`IDrawable`](/cad/python-net/aspose.cad.fileformats.iges.drawables/idrawable) | Parent Interface for Simple geometric represetation of an entity or its part |
+| [`BezierCurve`](/cad/python-net/aspose.cad.fileformats.iges.drawables/beziercurve) | Provides intermediate Drawable representation in form of cubic Bezier curve |
 | [`IDrawableProperties`](/cad/python-net/aspose.cad.fileformats.iges.drawables/idrawableproperties) | Interface for Non-geometric properties for geometric representations |
-| [`IPolyLine`](/cad/python-net/aspose.cad.fileformats.iges.drawables/ipolyline) | Interface for multi-segment line geometry primitive |
-| [`IText`](/cad/python-net/aspose.cad.fileformats.iges.drawables/itext) | Interface for text primitive |
+| [`IIgesDrawable`](/cad/python-net/aspose.cad.fileformats.iges.drawables/iigesdrawable) | Parent Interface for Simple geometric representation of an entity or its part |
+| [`IgesDrawableBase`](/cad/python-net/aspose.cad.fileformats.iges.drawables/igesdrawablebase) | Provides a base class for intermediate representation of document entities in simple geometric form |
+| [`Polygon`](/cad/python-net/aspose.cad.fileformats.iges.drawables/polygon) |  |
+| [`Polyline`](/cad/python-net/aspose.cad.fileformats.iges.drawables/polyline) | Provides intermediate Drawable representation in form of segmented line |
+| [`TextDrawable`](/cad/python-net/aspose.cad.fileformats.iges.drawables/textdrawable) | Provides intermediate Drawable representation of a text in a drawing |
 
 
 ### Enumerations

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3080
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ IfcGridAxis
 
 
 **Inheritance:** [`IfcGridAxis`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,14 +30,16 @@ The IfcGridAxis type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/entity_label) | Gets the entity label. |
-| [axis_tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_tag) | AxisTag |
-| [axis_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_curve) | AxisCurve |
-| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/same_sense) | SameSense |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [axis_tag](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_tag) |  |
+| [axis_curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_curve) |  |
+| [same_sense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/same_sense) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGridAxis`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis)

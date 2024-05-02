@@ -3,8 +3,8 @@ title: format_string property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/format_string/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/format_string/
 is_root: false
 ---
 

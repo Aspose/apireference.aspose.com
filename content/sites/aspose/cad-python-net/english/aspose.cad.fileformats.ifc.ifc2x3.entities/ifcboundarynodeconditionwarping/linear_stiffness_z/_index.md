@@ -3,15 +3,13 @@ title: linear_stiffness_z property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarynodeconditionwarping/linear_stiffness_z/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarynodeconditionwarping/linear_stiffness_z/
 is_root: false
 ---
 
 ## linear_stiffness_z property
 
-
-LinearStiffnessZ
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: fill_style_target property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillareaoccurrence/fill_style_target/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillareaoccurrence/fill_style_target/
 is_root: false
 ---
 
 ## fill_style_target property
 
-
-FillStyleTarget
 ### Definition:
 ```python
 @property

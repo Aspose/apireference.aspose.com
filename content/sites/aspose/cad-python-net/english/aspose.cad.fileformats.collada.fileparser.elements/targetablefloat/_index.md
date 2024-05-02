@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1040
-url: /aspose.cad.fileformats.collada.fileparser.elements/targetablefloat/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/targetablefloat/
 is_root: false
 ---
 

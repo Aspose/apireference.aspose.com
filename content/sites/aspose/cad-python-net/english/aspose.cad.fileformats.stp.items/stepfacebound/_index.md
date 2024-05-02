@@ -3,8 +3,8 @@ title: StepFaceBound class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.stp.items/stepfacebound/
+weight: 290
+url: /python-net/aspose.cad.fileformats.stp.items/stepfacebound/
 is_root: false
 ---
 
@@ -33,6 +33,7 @@ The StepFaceBound type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacebound/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacebound/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacebound/id) |  |
 | [bound](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacebound/bound) |  |
 | [orientation](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacebound/orientation) |  |
 

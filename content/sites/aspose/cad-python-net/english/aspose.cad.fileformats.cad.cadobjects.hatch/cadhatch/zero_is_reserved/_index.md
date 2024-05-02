@@ -3,8 +3,8 @@ title: zero_is_reserved property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 750
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/zero_is_reserved/
+weight: 820
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/zero_is_reserved/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/degree/
+url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/degree/
 is_root: false
 ---
 

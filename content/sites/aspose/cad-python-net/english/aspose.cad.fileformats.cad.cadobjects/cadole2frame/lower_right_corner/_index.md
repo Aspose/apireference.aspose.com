@@ -3,8 +3,8 @@ title: lower_right_corner property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.fileformats.cad.cadobjects/cadole2frame/lower_right_corner/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/lower_right_corner/
 is_root: false
 ---
 

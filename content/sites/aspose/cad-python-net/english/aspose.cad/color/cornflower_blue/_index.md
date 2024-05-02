@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 330
-url: /aspose.cad/color/cornflower_blue/
+url: /python-net/aspose.cad/color/cornflower_blue/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: conversion_factor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/conversion_factor/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/conversion_factor/
 is_root: false
 ---
 
 ## conversion_factor property
 
-
-ConversionFactor
 ### Definition:
 ```python
 @property

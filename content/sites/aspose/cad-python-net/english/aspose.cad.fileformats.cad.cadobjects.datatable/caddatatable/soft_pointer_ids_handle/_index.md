@@ -3,8 +3,8 @@ title: soft_pointer_ids_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/soft_pointer_ids_handle/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/soft_pointer_ids_handle/
 is_root: false
 ---
 

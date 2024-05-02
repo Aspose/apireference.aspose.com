@@ -3,8 +3,8 @@ title: refraction_map_source property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 870
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/refraction_map_source/
+weight: 960
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/refraction_map_source/
 is_root: false
 ---
 

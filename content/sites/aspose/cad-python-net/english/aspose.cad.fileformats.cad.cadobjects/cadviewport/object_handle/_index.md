@@ -3,8 +3,8 @@ title: object_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 460
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/object_handle/
+weight: 530
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/object_handle/
 is_root: false
 ---
 

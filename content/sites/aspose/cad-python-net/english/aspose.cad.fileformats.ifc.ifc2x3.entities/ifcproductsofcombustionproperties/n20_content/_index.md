@@ -3,15 +3,13 @@ title: n20_content property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/n20_content/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/n20_content/
 is_root: false
 ---
 
 ## n20_content property
 
-
-N20Content
 ### Definition:
 ```python
 @property

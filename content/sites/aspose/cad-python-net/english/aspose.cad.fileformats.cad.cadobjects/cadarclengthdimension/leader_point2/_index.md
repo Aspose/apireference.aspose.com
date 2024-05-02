@@ -3,8 +3,8 @@ title: leader_point2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/leader_point2/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/leader_point2/
 is_root: false
 ---
 

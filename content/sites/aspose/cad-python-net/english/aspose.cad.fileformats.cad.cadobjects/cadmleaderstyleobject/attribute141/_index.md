@@ -3,8 +3,8 @@ title: attribute141 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute141/
+weight: 150
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute141/
 is_root: false
 ---
 

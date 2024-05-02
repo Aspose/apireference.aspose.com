@@ -3,8 +3,8 @@ title: cad_acds property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.fileformats.cad/dxfimage/cad_acds/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/cad_acds/
 is_root: false
 ---
 

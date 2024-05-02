@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 570
-url: /aspose.cad/rastercachedimage/palette/
+url: /python-net/aspose.cad/rastercachedimage/palette/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the color palette.
+
+### Example 
+
+
+Asserts DGN drawing contains palette
 ### Definition:
 ```python
 @property

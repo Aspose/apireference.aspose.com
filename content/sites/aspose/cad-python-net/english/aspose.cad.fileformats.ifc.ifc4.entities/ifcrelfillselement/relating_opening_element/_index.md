@@ -3,15 +3,13 @@ title: relating_opening_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelfillselement/relating_opening_element/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelfillselement/relating_opening_element/
 is_root: false
 ---
 
 ## relating_opening_element property
 
-
-RelatingOpeningElement
 ### Definition:
 ```python
 @property

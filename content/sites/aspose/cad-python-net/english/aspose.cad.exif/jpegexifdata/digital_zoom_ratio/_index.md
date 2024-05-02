@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.cad.exif/jpegexifdata/digital_zoom_ratio/
+url: /python-net/aspose.cad.exif/jpegexifdata/digital_zoom_ratio/
 is_root: false
 ---
 

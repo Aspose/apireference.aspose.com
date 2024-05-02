@@ -3,15 +3,13 @@ title: minimum_section_modulus_z property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/minimum_section_modulus_z/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/minimum_section_modulus_z/
 is_root: false
 ---
 
 ## minimum_section_modulus_z property
 
-
-MinimumSectionModulusZ
 ### Definition:
 ```python
 @property

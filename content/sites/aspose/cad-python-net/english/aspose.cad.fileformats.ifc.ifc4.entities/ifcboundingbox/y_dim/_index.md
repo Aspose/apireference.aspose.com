@@ -3,15 +3,13 @@ title: y_dim property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcboundingbox/y_dim/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundingbox/y_dim/
 is_root: false
 ---
 
 ## y_dim property
 
-
-YDim
 ### Definition:
 ```python
 @property

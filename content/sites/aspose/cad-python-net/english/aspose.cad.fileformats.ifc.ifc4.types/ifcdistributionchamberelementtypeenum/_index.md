@@ -3,8 +3,8 @@ title: IfcDistributionChamberElementTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2470
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcdistributionchamberelementtypeenum/
+weight: 2480
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcdistributionchamberelementtypeenum/
 is_root: false
 ---
 
@@ -19,16 +19,16 @@ The IfcDistributionChamberElementTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| FORMEDDUCT | FORMEDDUCT |
-| INSPECTIONCHAMBER | INSPECTIONCHAMBER |
-| INSPECTIONPIT | INSPECTIONPIT |
-| MANHOLE | MANHOLE |
-| METERCHAMBER | METERCHAMBER |
-| SUMP | SUMP |
-| TRENCH | TRENCH |
-| VALVECHAMBER | VALVECHAMBER |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| FORMEDDUCT |  |
+| INSPECTIONCHAMBER |  |
+| INSPECTIONPIT |  |
+| MANHOLE |  |
+| METERCHAMBER |  |
+| SUMP |  |
+| TRENCH |  |
+| VALVECHAMBER |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

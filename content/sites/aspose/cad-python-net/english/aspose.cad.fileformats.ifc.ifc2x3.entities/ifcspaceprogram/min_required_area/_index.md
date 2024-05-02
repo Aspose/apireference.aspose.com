@@ -3,15 +3,13 @@ title: min_required_area property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/min_required_area/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/min_required_area/
 is_root: false
 ---
 
 ## min_required_area property
 
-
-MinRequiredArea
 ### Definition:
 ```python
 @property

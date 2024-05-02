@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad/resolutionsetting/vertical_resolution/
+url: /python-net/aspose.cad/resolutionsetting/vertical_resolution/
 is_root: false
 ---
 

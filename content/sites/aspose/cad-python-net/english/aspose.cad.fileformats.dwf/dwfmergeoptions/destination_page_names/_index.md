@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.dwf/dwfmergeoptions/destination_page_names/
+url: /python-net/aspose.cad.fileformats.dwf/dwfmergeoptions/destination_page_names/
 is_root: false
 ---
 

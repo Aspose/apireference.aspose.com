@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad/matrix/type_general_rotation/
+url: /python-net/aspose.cad/matrix/type_general_rotation/
 is_root: false
 ---
 

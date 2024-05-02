@@ -3,8 +3,8 @@ title: IfcLoadGroupTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3010
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcloadgrouptypeenum/
+weight: 3020
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcloadgrouptypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcLoadGroupTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| LOAD_GROUP | LOAD_GROUP |
-| LOAD_CASE | LOAD_CASE |
-| LOAD_COMBINATION | LOAD_COMBINATION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| LOAD_GROUP |  |
+| LOAD_CASE |  |
+| LOAD_COMBINATION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1830
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifccablecarrierfittingtypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccablecarrierfittingtypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcCableCarrierFittingTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BEND | BEND |
-| CROSS | CROSS |
-| REDUCER | REDUCER |
-| TEE | TEE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BEND |  |
+| CROSS |  |
+| REDUCER |  |
+| TEE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

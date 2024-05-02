@@ -3,8 +3,8 @@ title: source property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.imageoptions/pngoptions/source/
+weight: 140
+url: /python-net/aspose.cad.imageoptions/pngoptions/source/
 is_root: false
 ---
 

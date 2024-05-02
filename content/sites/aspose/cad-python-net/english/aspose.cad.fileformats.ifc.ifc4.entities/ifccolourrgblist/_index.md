@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1020
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcColourRgbList
 
 **Inheritance:** [`IfcColourRgbList`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist) → 
 [`IfcPresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,12 +31,14 @@ The IfcColourRgbList type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/entity_label) | Gets the entity label. |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcColourRgbList`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationitem)

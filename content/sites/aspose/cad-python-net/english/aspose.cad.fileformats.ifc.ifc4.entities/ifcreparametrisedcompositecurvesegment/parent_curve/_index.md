@@ -3,15 +3,13 @@ title: parent_curve property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/parent_curve/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/parent_curve/
 is_root: false
 ---
 
 ## parent_curve property
 
-
-ParentCurve
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: reflection_colour property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/reflection_colour/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/reflection_colour/
 is_root: false
 ---
 
 ## reflection_colour property
 
-
-ReflectionColour
 ### Definition:
 ```python
 @property

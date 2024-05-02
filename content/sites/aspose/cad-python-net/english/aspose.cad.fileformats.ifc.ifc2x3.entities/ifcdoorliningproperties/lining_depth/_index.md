@@ -3,15 +3,13 @@ title: lining_depth property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/lining_depth/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/lining_depth/
 is_root: false
 ---
 
 ## lining_depth property
 
-
-LiningDepth
 ### Definition:
 ```python
 @property

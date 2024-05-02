@@ -3,8 +3,8 @@ title: bend_l_type_handle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/bend_l_type_handle/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/bend_l_type_handle/
 is_root: false
 ---
 

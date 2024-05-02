@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 490
-url: /aspose.cad.exif/jpegexifdata/gps_dest_bearing/
+url: /python-net/aspose.cad.exif/jpegexifdata/gps_dest_bearing/
 is_root: false
 ---
 

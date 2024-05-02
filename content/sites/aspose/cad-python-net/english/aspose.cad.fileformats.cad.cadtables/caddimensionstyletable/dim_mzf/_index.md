@@ -3,15 +3,15 @@ title: dim_mzf property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dim_mzf/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dim_mzf/
 is_root: false
 ---
 
 ## dim_mzf property
 
 
-Gets or sets The DimMzf
+Gets or sets sub-zero factor for dimensions.
 ### Definition:
 ```python
 @property

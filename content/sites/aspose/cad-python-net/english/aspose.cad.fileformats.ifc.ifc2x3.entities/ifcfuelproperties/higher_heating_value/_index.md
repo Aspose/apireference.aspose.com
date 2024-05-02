@@ -3,15 +3,13 @@ title: higher_heating_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/higher_heating_value/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/higher_heating_value/
 is_root: false
 ---
 
 ## higher_heating_value property
 
-
-HigherHeatingValue
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/intrange/get_array_one_item_from_index/
+url: /python-net/aspose.cad/intrange/get_array_one_item_from_index/
 is_root: false
 ---
 

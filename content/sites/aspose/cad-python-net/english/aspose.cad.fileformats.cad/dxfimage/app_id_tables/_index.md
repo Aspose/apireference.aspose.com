@@ -3,8 +3,8 @@ title: app_id_tables property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad/dxfimage/app_id_tables/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/app_id_tables/
 is_root: false
 ---
 

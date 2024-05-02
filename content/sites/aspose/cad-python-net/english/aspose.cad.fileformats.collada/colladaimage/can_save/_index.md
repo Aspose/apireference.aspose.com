@@ -4,11 +4,11 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.collada/colladaimage/can_save/
+url: /python-net/aspose.cad.fileformats.collada/colladaimage/can_save/
 is_root: false
 ---
 
-## can_save {#aspose.cad.ImageOptionsBase}
+## can_save {#aspose.cad.imageoptions.ImageOptionsBase}
 
 Determines whether image can be saved to the specified file format represented by the passed save options.
 
@@ -27,7 +27,12 @@ def can_save(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase) | The save options to use. |
+| options | aspose.cad.imageoptions.ImageOptionsBase | The save options to use. |
+
+### Example 
+
+
+Checks whether export is possible to BMP with default options
 
 
 

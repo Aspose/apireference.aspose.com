@@ -3,8 +3,8 @@ title: lines_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/lines_number/
+weight: 110
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/lines_number/
 is_root: false
 ---
 

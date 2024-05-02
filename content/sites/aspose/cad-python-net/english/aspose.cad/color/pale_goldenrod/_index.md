@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1240
-url: /aspose.cad/color/pale_goldenrod/
+url: /python-net/aspose.cad/color/pale_goldenrod/
 is_root: false
 ---
 

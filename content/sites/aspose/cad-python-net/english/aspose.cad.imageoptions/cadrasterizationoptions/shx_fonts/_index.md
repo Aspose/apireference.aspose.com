@@ -3,8 +3,8 @@ title: shx_fonts property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.imageoptions/cadrasterizationoptions/shx_fonts/
+weight: 300
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/shx_fonts/
 is_root: false
 ---
 

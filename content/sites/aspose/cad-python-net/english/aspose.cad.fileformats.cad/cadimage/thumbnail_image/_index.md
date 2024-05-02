@@ -3,8 +3,8 @@ title: thumbnail_image property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad/cadimage/thumbnail_image/
+weight: 450
+url: /python-net/aspose.cad.fileformats.cad/cadimage/thumbnail_image/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3200
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcvibrationisolatortypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcvibrationisolatortypeenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcVibrationIsolatorTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| COMPRESSION | COMPRESSION |
-| SPRING | SPRING |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| COMPRESSION |  |
+| SPRING |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

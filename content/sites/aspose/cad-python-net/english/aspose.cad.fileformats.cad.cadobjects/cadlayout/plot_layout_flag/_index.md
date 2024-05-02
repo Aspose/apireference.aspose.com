@@ -3,8 +3,8 @@ title: plot_layout_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_layout_flag/
+weight: 340
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_layout_flag/
 is_root: false
 ---
 

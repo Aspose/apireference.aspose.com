@@ -3,15 +3,15 @@ title: dimrnd property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 560
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimrnd/
+weight: 580
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimrnd/
 is_root: false
 ---
 
 ## dimrnd property
 
 
-Gets or sets The dimrnd - 045
+Gets or sets rounding precision for dimension distance (except angular dimensions).
 ### Definition:
 ```python
 @property

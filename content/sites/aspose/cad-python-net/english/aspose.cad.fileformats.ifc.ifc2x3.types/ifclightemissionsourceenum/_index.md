@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2480
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifclightemissionsourceenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclightemissionsourceenum/
 is_root: false
 ---
 
@@ -19,17 +19,17 @@ The IfcLightEmissionSourceEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| COMPACTFLUORESCENT | COMPACTFLUORESCENT |
-| FLUORESCENT | FLUORESCENT |
-| HIGHPRESSUREMERCURY | HIGHPRESSUREMERCURY |
-| HIGHPRESSURESODIUM | HIGHPRESSURESODIUM |
-| LIGHTEMITTINGDIODE | LIGHTEMITTINGDIODE |
-| LOWPRESSURESODIUM | LOWPRESSURESODIUM |
-| LOWVOLTAGEHALOGEN | LOWVOLTAGEHALOGEN |
-| MAINVOLTAGEHALOGEN | MAINVOLTAGEHALOGEN |
-| METALHALIDE | METALHALIDE |
-| TUNGSTENFILAMENT | TUNGSTENFILAMENT |
-| NOTDEFINED | NOTDEFINED |
+| COMPACTFLUORESCENT |  |
+| FLUORESCENT |  |
+| HIGHPRESSUREMERCURY |  |
+| HIGHPRESSURESODIUM |  |
+| LIGHTEMITTINGDIODE |  |
+| LOWPRESSURESODIUM |  |
+| LOWVOLTAGEHALOGEN |  |
+| MAINVOLTAGEHALOGEN |  |
+| METALHALIDE |  |
+| TUNGSTENFILAMENT |  |
+| NOTDEFINED |  |
 
 
 

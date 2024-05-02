@@ -3,8 +3,8 @@ title: leade_line_color property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/leade_line_color/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/leade_line_color/
 is_root: false
 ---
 

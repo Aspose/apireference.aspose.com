@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcquantityarea/area_value/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcquantityarea/area_value/
 is_root: false
 ---
 
 ## area_value property
 
-
-AreaValue
 ### Definition:
 ```python
 @property

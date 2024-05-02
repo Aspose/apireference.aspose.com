@@ -3,8 +3,8 @@ title: user_watermark_color property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.imageoptions/gifoptions/user_watermark_color/
+weight: 190
+url: /python-net/aspose.cad.imageoptions/gifoptions/user_watermark_color/
 is_root: false
 ---
 

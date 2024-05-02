@@ -3,8 +3,8 @@ title: disposed property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.dwf/dwfimage/disposed/
+weight: 190
+url: /python-net/aspose.cad.fileformats.dwf/dwfimage/disposed/
 is_root: false
 ---
 

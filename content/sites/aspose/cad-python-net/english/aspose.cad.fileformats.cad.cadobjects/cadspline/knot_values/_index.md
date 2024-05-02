@@ -3,8 +3,8 @@ title: knot_values property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.cad.cadobjects/cadspline/knot_values/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspline/knot_values/
 is_root: false
 ---
 

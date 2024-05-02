@@ -3,8 +3,8 @@ title: snap_rotation_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 380
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snap_rotation_angle/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snap_rotation_angle/
 is_root: false
 ---
 

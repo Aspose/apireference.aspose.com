@@ -3,8 +3,8 @@ title: authorization property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.stp/stpimage/authorization/
+weight: 130
+url: /python-net/aspose.cad.fileformats.stp/stpimage/authorization/
 is_root: false
 ---
 

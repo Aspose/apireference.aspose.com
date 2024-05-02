@@ -3,8 +3,8 @@ title: color_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/color_name/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/color_name/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the name of the color.
+
+### Remarks 
+
+
+Presented if a color from the Color Books has been selected for the entity.
 ### Definition:
 ```python
 @property

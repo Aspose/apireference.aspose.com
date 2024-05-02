@@ -3,15 +3,13 @@ title: velocity_time_series property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/velocity_time_series/
+weight: 220
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/velocity_time_series/
 is_root: false
 ---
 
 ## velocity_time_series property
 
-
-VelocityTimeSeries
 ### Definition:
 ```python
 @property

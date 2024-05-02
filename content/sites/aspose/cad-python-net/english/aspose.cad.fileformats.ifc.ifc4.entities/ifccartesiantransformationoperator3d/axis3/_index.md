@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator3d/axis3/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator3d/axis3/
 is_root: false
 ---
 
 ## axis3 property
 
-
-Axis3
 ### Definition:
 ```python
 @property

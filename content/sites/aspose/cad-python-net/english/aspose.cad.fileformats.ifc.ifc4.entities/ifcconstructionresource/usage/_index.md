@@ -3,15 +3,13 @@ title: usage property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource/usage/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource/usage/
 is_root: false
 ---
 
 ## usage property
 
-
-Usage
 ### Definition:
 ```python
 @property

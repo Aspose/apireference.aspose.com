@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1260
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcConnectionVolumeGeometry
 
 **Inheritance:** [`IfcConnectionVolumeGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry) → 
 [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectiongeometry) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,9 +31,11 @@ The IfcConnectionVolumeGeometry type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/entity_label) | Gets the entity label. |
-| [volume_on_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volume_on_relating_element) | VolumeOnRelatingElement |
-| [volume_on_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volume_on_related_element) | VolumeOnRelatedElement |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [volume_on_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volume_on_relating_element) |  |
+| [volume_on_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volume_on_related_element) |  |
 
 
 
@@ -41,4 +43,4 @@ The IfcConnectionVolumeGeometry type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectiongeometry)
 * class [`IfcConnectionVolumeGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

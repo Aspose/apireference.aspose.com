@@ -3,8 +3,8 @@ title: preprocessor_version property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.fileformats.stp/stpimage/preprocessor_version/
+weight: 290
+url: /python-net/aspose.cad.fileformats.stp/stpimage/preprocessor_version/
 is_root: false
 ---
 

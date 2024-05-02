@@ -3,8 +3,8 @@ title: IfcSequenceEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3480
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcsequenceenum/
+weight: 3490
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcsequenceenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcSequenceEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| START_START | START_START |
-| START_FINISH | START_FINISH |
-| FINISH_START | FINISH_START |
-| FINISH_FINISH | FINISH_FINISH |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| START_START |  |
+| START_FINISH |  |
+| FINISH_START |  |
+| FINISH_FINISH |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

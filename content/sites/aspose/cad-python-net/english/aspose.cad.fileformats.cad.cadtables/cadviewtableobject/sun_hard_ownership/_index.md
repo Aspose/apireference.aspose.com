@@ -3,8 +3,8 @@ title: sun_hard_ownership property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.cad.cadtables/cadviewtableobject/sun_hard_ownership/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/sun_hard_ownership/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: process_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctasktype/process_type/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktype/process_type/
 is_root: false
 ---
 
 ## process_type property
 
-
-ProcessType
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: relating_context property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreldeclares/relating_context/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreldeclares/relating_context/
 is_root: false
 ---
 
 ## relating_context property
 
-
-RelatingContext
 ### Definition:
 ```python
 @property

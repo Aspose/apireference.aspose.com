@@ -3,8 +3,8 @@ title: indirect_dump_scale property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/indirect_dump_scale/
+weight: 530
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/indirect_dump_scale/
 is_root: false
 ---
 

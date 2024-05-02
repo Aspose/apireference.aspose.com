@@ -3,15 +3,13 @@ title: temperature_single_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/temperature_single_value/
+weight: 180
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/temperature_single_value/
 is_root: false
 ---
 
 ## temperature_single_value property
 
-
-TemperatureSingleValue
 ### Definition:
 ```python
 @property

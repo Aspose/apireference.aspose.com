@@ -3,8 +3,8 @@ title: IfcThermalConductivityMeasure class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1690
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcthermalconductivitymeasure/
+weight: 1700
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermalconductivitymeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcThermalConductivityMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermalconductivitymeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermalconductivitymeasure/value) |  |
 
 
 

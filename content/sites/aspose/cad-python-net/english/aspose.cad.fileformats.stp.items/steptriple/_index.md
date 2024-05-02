@@ -3,8 +3,8 @@ title: StepTriple class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.stp.items/steptriple/
+weight: 780
+url: /python-net/aspose.cad.fileformats.stp.items/steptriple/
 is_root: false
 ---
 
@@ -28,6 +28,7 @@ The StepTriple type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steptriple/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steptriple/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steptriple/id) |  |
 | [x](/cad/python-net/aspose.cad.fileformats.stp.items/steptriple/x) |  |
 | [y](/cad/python-net/aspose.cad.fileformats.stp.items/steptriple/y) |  |
 | [z](/cad/python-net/aspose.cad.fileformats.stp.items/steptriple/z) |  |

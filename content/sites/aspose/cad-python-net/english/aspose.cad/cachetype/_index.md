@@ -3,8 +3,8 @@ title: CacheType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 560
-url: /aspose.cad/cachetype/
+weight: 630
+url: /python-net/aspose.cad/cachetype/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: IColorConverter class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad/icolorconverter/
+weight: 180
+url: /python-net/aspose.cad/icolorconverter/
 is_root: false
 ---
 

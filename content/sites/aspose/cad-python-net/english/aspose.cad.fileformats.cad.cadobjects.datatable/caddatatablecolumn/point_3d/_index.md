@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/point_3d/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/point_3d/
 is_root: false
 ---
 

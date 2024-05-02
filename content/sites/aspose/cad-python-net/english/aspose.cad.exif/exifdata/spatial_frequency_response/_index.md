@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1000
-url: /aspose.cad.exif/exifdata/spatial_frequency_response/
+url: /python-net/aspose.cad.exif/exifdata/spatial_frequency_response/
 is_root: false
 ---
 

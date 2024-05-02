@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cell_fill_color/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cell_fill_color/
 is_root: false
 ---
 

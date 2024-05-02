@@ -3,8 +3,8 @@ title: rotation_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 530
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/rotation_angle/
+weight: 590
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/rotation_angle/
 is_root: false
 ---
 

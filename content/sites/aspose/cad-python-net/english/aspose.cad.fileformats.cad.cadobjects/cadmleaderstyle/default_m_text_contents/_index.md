@@ -3,8 +3,8 @@ title: default_m_text_contents property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/default_m_text_contents/
+weight: 300
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/default_m_text_contents/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 860
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ IfcCenterLineProfileDef
 **Inheritance:** [`IfcCenterLineProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef) → 
 [`IfcArbitraryOpenProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcarbitraryopenprofiledef) → 
 [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -32,11 +32,13 @@ The IfcCenterLineProfileDef type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/entity_label) | Gets the entity label. |
-| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/profile_type) | ProfileType |
-| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/profile_name) | ProfileName |
-| [curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/curve) | Curve |
-| [thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/thickness) | Thickness |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/profile_type) |  |
+| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/profile_name) |  |
+| [curve](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/curve) |  |
+| [thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/thickness) |  |
 
 
 
@@ -44,5 +46,5 @@ The IfcCenterLineProfileDef type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcArbitraryOpenProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcarbitraryopenprofiledef)
 * class [`IfcCenterLineProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef)

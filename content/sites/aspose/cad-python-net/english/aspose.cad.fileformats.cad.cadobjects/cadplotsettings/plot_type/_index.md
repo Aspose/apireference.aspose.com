@@ -3,8 +3,8 @@ title: plot_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plot_type/
+weight: 270
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plot_type/
 is_root: false
 ---
 

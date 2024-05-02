@@ -3,8 +3,8 @@ title: IfcFireSuppressionTerminalTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2780
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcfiresuppressionterminaltypeenum/
+weight: 2790
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcfiresuppressionterminaltypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcFireSuppressionTerminalTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BREECHINGINLET | BREECHINGINLET |
-| FIREHYDRANT | FIREHYDRANT |
-| HOSEREEL | HOSEREEL |
-| SPRINKLER | SPRINKLER |
-| SPRINKLERDEFLECTOR | SPRINKLERDEFLECTOR |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BREECHINGINLET |  |
+| FIREHYDRANT |  |
+| HOSEREEL |  |
+| SPRINKLER |  |
+| SPRINKLERDEFLECTOR |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

@@ -3,15 +3,13 @@ title: world_coordinate_system property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationcontext/world_coordinate_system/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationcontext/world_coordinate_system/
 is_root: false
 ---
 
 ## world_coordinate_system property
 
-
-WorldCoordinateSystem
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.exif/jpegexifdata/color_space/
+url: /python-net/aspose.cad.exif/jpegexifdata/color_space/
 is_root: false
 ---
 

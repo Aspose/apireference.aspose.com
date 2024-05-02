@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.cad/pixeldataformat/grayscale/
+url: /python-net/aspose.cad/pixeldataformat/grayscale/
 is_root: false
 ---
 

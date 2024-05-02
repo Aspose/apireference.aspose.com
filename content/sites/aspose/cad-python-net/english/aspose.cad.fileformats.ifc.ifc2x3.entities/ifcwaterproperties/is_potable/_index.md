@@ -3,15 +3,13 @@ title: is_potable property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/is_potable/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/is_potable/
 is_root: false
 ---
 
 ## is_potable property
 
-
-IsPotable
 ### Definition:
 ```python
 @property

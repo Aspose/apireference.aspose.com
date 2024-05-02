@@ -3,8 +3,8 @@ title: middle_text_location property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 430
-url: /aspose.cad.fileformats.cad.cadobjects/cadangulardimension/middle_text_location/
+weight: 510
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadangulardimension/middle_text_location/
 is_root: false
 ---
 

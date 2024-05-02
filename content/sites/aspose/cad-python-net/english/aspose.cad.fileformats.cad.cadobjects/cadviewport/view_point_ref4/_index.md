@@ -3,8 +3,8 @@ title: view_point_ref4 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 820
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/view_point_ref4/
+weight: 890
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/view_point_ref4/
 is_root: false
 ---
 

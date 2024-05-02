@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/
 is_root: false
 ---
 
@@ -15,8 +15,8 @@ Represents cell header element
 
 
 **Inheritance:** [`DgnCellHeaderElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement) → 
-[`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase) → 
-[`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+[`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase) → 
+[`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 
 
 
@@ -25,6 +25,8 @@ The DgnCellHeaderElement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [id](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/childs) | Gets childs of the composite element |
 | [metadata](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/metadata) | Gets element metadata |
 | [min_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/min_point) | Gets the min point of object. |
 | [max_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/max_point) | Gets the max point of object. |
@@ -38,18 +40,17 @@ The DgnCellHeaderElement type exposes the following members:
 | [x_scale](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/x_scale) | Gets cell's x scale |
 | [y_scale](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/y_scale) | Gets cell's y scale |
 | [rotation](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/rotation) | Gets cell's rotation angle |
-| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/childs) | Gets childs of the composite element |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_child](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/add_child/#aspose.cad.fileformats.dgn.dgnelements.DgnElement) | Adds element as a child |
+| [add_child](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/add_child/#aspose.cad.fileformats.dgn.dgnelements.DgnElementBase) | Adds element as a child |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](..)
 * class [`DgnCellHeaderElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement)
-* class [`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase)
-* class [`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+* class [`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase)
+* class [`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)

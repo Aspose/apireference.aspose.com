@@ -3,8 +3,8 @@ title: row_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects/cadinsertobject/row_spacing/
+weight: 490
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/row_spacing/
 is_root: false
 ---
 

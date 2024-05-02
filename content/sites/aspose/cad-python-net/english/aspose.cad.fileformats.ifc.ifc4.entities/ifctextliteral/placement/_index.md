@@ -3,15 +3,13 @@ title: placement property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteral/placement/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteral/placement/
 is_root: false
 ---
 
 ## placement property
 
-
-Placement
 ### Definition:
 ```python
 @property

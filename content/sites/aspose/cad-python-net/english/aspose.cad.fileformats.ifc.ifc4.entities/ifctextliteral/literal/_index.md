@@ -3,15 +3,13 @@ title: literal property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteral/literal/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteral/literal/
 is_root: false
 ---
 
 ## literal property
 
-
-Literal
 ### Definition:
 ```python
 @property

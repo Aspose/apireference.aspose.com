@@ -3,8 +3,8 @@ title: IfcShadingDeviceTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3490
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcshadingdevicetypeenum/
+weight: 3500
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcshadingdevicetypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcShadingDeviceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| JALOUSIE | JALOUSIE |
-| SHUTTER | SHUTTER |
-| AWNING | AWNING |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| JALOUSIE |  |
+| SHUTTER |  |
+| AWNING |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

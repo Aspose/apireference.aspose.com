@@ -3,8 +3,8 @@ title: block_action_parameter_list property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchaction/block_action_parameter_list/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchaction/block_action_parameter_list/
 is_root: false
 ---
 

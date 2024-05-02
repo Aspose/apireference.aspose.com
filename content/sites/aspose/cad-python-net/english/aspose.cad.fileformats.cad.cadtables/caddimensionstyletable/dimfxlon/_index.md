@@ -3,15 +3,16 @@ title: dimfxlon property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimfxlon/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimfxlon/
 is_root: false
 ---
 
 ## dimfxlon property
 
 
-Gets or sets the DIMFXLON.
+Gets or sets whether the lengths of the extension are fixed.
+If the value is true (1), the lengths of the extension lines are set in DIMFXL.
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: NonGenericList class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad/nongenericlist/
+weight: 400
+url: /python-net/aspose.cad/nongenericlist/
 is_root: false
 ---
 

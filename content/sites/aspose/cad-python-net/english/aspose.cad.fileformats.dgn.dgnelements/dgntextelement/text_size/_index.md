@@ -3,8 +3,8 @@ title: text_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.dgn.dgnelements/dgntextelement/text_size/
+weight: 160
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/text_size/
 is_root: false
 ---
 

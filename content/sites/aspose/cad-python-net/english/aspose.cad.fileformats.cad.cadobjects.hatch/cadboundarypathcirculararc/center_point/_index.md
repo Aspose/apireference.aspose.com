@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/center_point/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/center_point/
 is_root: false
 ---
 
@@ -25,4 +25,4 @@ def center_point(self, value):
 ### See Also
 * module [`aspose.cad.fileformats.cad.cadobjects.hatch`](../../)
 * class [`CadBoundaryPathCircularArc`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc)
-* class [`Point2D`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects.hatch/point2d)
+* class [`Point2D`](/cad/python-net/aspose.cad.primitives/point2d)

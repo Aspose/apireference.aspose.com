@@ -3,15 +3,13 @@ title: specular_highlight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/specular_highlight/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/specular_highlight/
 is_root: false
 ---
 
 ## specular_highlight property
 
-
-SpecularHighlight
 ### Definition:
 ```python
 @property

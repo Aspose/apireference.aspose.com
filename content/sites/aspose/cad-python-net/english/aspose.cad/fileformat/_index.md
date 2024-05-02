@@ -3,8 +3,8 @@ title: FileFormat enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 640
-url: /aspose.cad/fileformat/
+weight: 710
+url: /python-net/aspose.cad/fileformat/
 is_root: false
 ---
 
@@ -28,38 +28,30 @@ The FileFormat type exposes the following members:
 | TIFF | Tiff file format. |
 | PSD | Psd file format. |
 | JPEG2000 | Jpeg2000 file format. |
-| DJVU | Djvu file format |
 | WEBP | The Webp file format. |
 | EMF | The Emf file format. |
 | DICOM | The Dicom file format. |
 | SVG | The Svg file format. |
 | WMF | The Wmf file format. |
 | DNG | The Dng file format. |
-| ODG | The Odg file format. |
-| CDR | The Cdr file format. |
-| CMX | The Cmx file format. |
-| OTG | The Otg file format. |
-| HTML_5_CANVAS | The Html5 file format. |
-| EPS | The Eps file format. |
 | APNG | The Apng file format. |
 | TGA | The Tga file format. |
-| EMZ | The Emz file format. |
-| WMZ | The Wmz file format. |
-| SVGZ | The Svgz file format. |
-| F_ODG | The FOdg file format. |
 | PDF | The PDF file format. |
+| CAD_R1_1 | The DWG Cad R1.1. |
+| CAD_R1_2 | The DWG Cad R1.2. |
+| CAD_R1_4 | The DWG Cad R1.4. |
+| CAD_R2_0 | The DWG Cad R2.0. |
+| CAD_R2_10 | The DWG Cad R2.10. |
+| CAD_R2_21 | The DWG Cad R2.21. |
+| CAD_R2_22 | The DWG Cad R2.22/AC1001. |
+| CAD_R2_5 | The DWG Cad R2.5. |
+| CAD_R2_6 | The DWG Cad R2.6. |
 | CAD_R9 | The DWG Cad R9. |
 | CAD_R010 | The DWG Cad R10. |
-| CAD_R011 | The DWG Cad R11. |
-| CAD_R012 | The DWG Cad R12. |
+| CAD_R011_012 | The DWG Cad R11/R12. |
 | CAD_R013 | The DWG Cad R13. |
+| CAD_R013C_3 | The DWG Cad R13. |
 | CAD_R014 | The DWG Cad R14. |
-| CAD_R015 | The DWG Cad R15. |
-| CAD_R021 | The DWG Cad R21. |
-| CAD_R0221 | The DWG Cad R221. |
-| CAD_R0222 | The DWG Cad R222. |
-| CAD_R025 | The DWG Cad R25. |
-| CAD_R026 | The DWG Cad R26. |
 | CAD_R2000 | The DWG Cad R2000. |
 | CAD_R2004 | The DWG Cad R2004. |
 | CAD_R2007 | The DWG Cad R2007. |
@@ -93,33 +85,38 @@ The FileFormat type exposes the following members:
 | DWF | The DWF format. |
 | IGES | The IGES format. |
 | PLT | The PLT format. |
+| DWT_CAD_R1_1 | The DWT Cad R1.1. |
+| DWT_CAD_R1_2 | The DWT Cad R1.2. |
+| DWT_CAD_R1_4 | The DWT Cad R1.4. |
+| DWT_CAD_R2_0 | The DWT Cad R2.0. |
+| DWT_CAD_R2_10 | The DWT Cad R2.10. |
+| DWT_CAD_R2_21 | The DWT Cad R2.21. |
+| DWT_CAD_R2_22 | The DWT Cad R2.22/AC1001. |
+| DWT_CAD_R2_5 | The DWT Cad R2.5. |
+| DWT_CAD_R2_6 | The DWT Cad R2.6. |
+| DWT_CAD_R9 | The DWT Cad R9. |
 | DWT_CAD_R010 | The DWT Cad R10. |
-| DWT_CAD_R012 | The DWT Cad R12 |
-| DWT_CAD_R014 | The CAD Release 2018 file format. |
-| DWT_CAD_R015 | The DWT Cad R15 |
-| DWT_CAD_R021 | The DWT Cad R021 |
-| DWT_CAD_R0221 | The DWT Cad R0221 |
-| DWT_CAD_R0222 | The DWT Cad R0222 |
-| DWT_CAD_R025 | The DWT Cad R025 |
-| DWT_CAD_R026 | The DWT Cad R026 |
-| DWT_CAD_R9 | The DWT Cad R9 |
-| DWT_CAD_R10 | The DWT Cad R10 |
-| DWT_CAD_R11 | The DWT Cad R11 |
-| DWT_CAD_R13 | The DWT Cad R13 |
-| DWT_CAD_R14 | The DWT cad R14 |
-| DWT_CAD_R2000 | The DWT cad R2000 |
-| DWT_CAD_R2004 | The DWT cad R2004 |
-| DWT_CAD_R2007 | The DWT cad R2007 |
-| DWT_CAD_R2010 | The DWT cad R2010 |
-| DWT_CAD_R2013 | The DWT cad R2013 |
+| DWT_CAD_R011_012 | The DWT Cad R11/R12. |
+| DWT_CAD_R013 | The DWT Cad R13. |
+| DWT_CAD_R014 | The DWT Cad R14. |
+| DWT_CAD_R2000 | The DWT Cad R2000. |
+| DWT_CAD_R2004 | The DWT Cad R2004. |
+| DWT_CAD_R2007 | The DWT Cad R2007. |
+| DWT_CAD_R2010 | The DWT Cad R2010. |
+| DWT_CAD_R2013 | The DWT Cad R2013. |
+| DWT_CAD_R2018 | The DWT Cad R2018. |
 | CF2 | The CF2 file format |
 | OBJ | The OBJ file format |
 | IFC4 | The IFC version 4 file format |
 | FBX | Fbx file format. |
+| APS_GROUP | ApsGroup - multi page APS + fonts serialized to XML |
 | DWFX | The Dwfx file format |
 | COLLADA | COLLADA file format. |
 | DXB | The AutoDesk DXB 1.0 file format |
 | STP | The STP file format. |
+| CGM | The CGM file format. |
+| GLB | The GLB file format. |
+| GLTF | The GLTF file format. |
 | U3D | The Universal 3D (U3D) file format |
 | THREE_DS | The 3DS format. |
 

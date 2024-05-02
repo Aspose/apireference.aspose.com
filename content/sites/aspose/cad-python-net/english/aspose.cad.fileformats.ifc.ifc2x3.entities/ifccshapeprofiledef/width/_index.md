@@ -3,15 +3,13 @@ title: width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/width/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/width/
 is_root: false
 ---
 
 ## width property
 
-
-Width
 ### Definition:
 ```python
 @property

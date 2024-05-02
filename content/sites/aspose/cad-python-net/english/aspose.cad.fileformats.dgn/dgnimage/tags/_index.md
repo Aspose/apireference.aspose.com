@@ -3,8 +3,8 @@ title: tags property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.dgn/dgnimage/tags/
+weight: 260
+url: /python-net/aspose.cad.fileformats.dgn/dgnimage/tags/
 is_root: false
 ---
 

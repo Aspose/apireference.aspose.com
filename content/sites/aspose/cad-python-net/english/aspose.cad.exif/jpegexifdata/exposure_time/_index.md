@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 320
-url: /aspose.cad.exif/jpegexifdata/exposure_time/
+url: /python-net/aspose.cad.exif/jpegexifdata/exposure_time/
 is_root: false
 ---
 

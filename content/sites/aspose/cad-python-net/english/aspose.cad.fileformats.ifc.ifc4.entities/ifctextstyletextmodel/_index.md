@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 7160
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcTextStyleTextModel
 
 **Inheritance:** [`IfcTextStyleTextModel`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel) → 
 [`IfcPresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,19 +31,21 @@ The IfcTextStyleTextModel type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/entity_label) | Gets the entity label. |
-| [text_indent](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_indent) | TextIndent |
-| [text_align](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_align) | TextAlign |
-| [text_decoration](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_decoration) | TextDecoration |
-| [letter_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/letter_spacing) | LetterSpacing |
-| [word_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/word_spacing) | WordSpacing |
-| [text_transform](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_transform) | TextTransform |
-| [line_height](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/line_height) | LineHeight |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [text_indent](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_indent) |  |
+| [text_align](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_align) |  |
+| [text_decoration](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_decoration) |  |
+| [letter_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/letter_spacing) |  |
+| [word_spacing](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/word_spacing) |  |
+| [text_transform](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/text_transform) |  |
+| [line_height](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/line_height) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationitem)
 * class [`IfcTextStyleTextModel`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel)

@@ -3,15 +3,15 @@ title: space_mode property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.cad.cadobjects/cadrasterimage/space_mode/
+weight: 580
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/space_mode/
 is_root: false
 ---
 
 ## space_mode property
 
 
-Gets or sets the space mode.
+Gets or sets a value indicating which space the entity belongs to.
 ### Definition:
 ```python
 @property

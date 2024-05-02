@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2810
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcInventory
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,24 +34,26 @@ The IfcInventory type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/object_type) | ObjectType |
-| [is_grouped_by](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/is_grouped_by) | IsGroupedBy |
-| [inventory_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/inventory_type) | InventoryType |
-| [jurisdiction](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/jurisdiction) | Jurisdiction |
-| [last_update_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/last_update_date) | LastUpdateDate |
-| [current_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/current_value) | CurrentValue |
-| [original_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/original_value) | OriginalValue |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/object_type) |  |
+| [is_grouped_by](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/is_grouped_by) |  |
+| [inventory_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/inventory_type) |  |
+| [jurisdiction](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/jurisdiction) |  |
+| [last_update_date](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/last_update_date) |  |
+| [current_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/current_value) |  |
+| [original_value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/original_value) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGroup`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgroup)
 * class [`IfcInventory`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)

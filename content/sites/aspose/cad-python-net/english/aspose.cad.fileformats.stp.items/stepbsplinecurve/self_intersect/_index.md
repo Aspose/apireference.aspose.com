@@ -3,8 +3,8 @@ title: self_intersect property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.stp.items/stepbsplinecurve/self_intersect/
+weight: 100
+url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinecurve/self_intersect/
 is_root: false
 ---
 

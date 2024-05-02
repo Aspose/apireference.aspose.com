@@ -3,8 +3,8 @@ title: gradient_color_tint property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/gradient_color_tint/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/gradient_color_tint/
 is_root: false
 ---
 

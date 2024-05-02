@@ -3,8 +3,8 @@ title: scanner_model property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.imageoptions/tiffoptions/scanner_model/
+weight: 480
+url: /python-net/aspose.cad.imageoptions/tiffoptions/scanner_model/
 is_root: false
 ---
 

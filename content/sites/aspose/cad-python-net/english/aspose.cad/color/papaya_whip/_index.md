@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1280
-url: /aspose.cad/color/papaya_whip/
+url: /python-net/aspose.cad/color/papaya_whip/
 is_root: false
 ---
 

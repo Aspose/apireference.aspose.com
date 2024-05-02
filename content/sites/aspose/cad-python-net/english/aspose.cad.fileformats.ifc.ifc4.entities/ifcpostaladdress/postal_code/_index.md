@@ -3,15 +3,13 @@ title: postal_code property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/postal_code/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/postal_code/
 is_root: false
 ---
 
 ## postal_code property
 
-
-PostalCode
 ### Definition:
 ```python
 @property

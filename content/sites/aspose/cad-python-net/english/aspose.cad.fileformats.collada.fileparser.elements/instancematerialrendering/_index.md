@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 540
-url: /aspose.cad.fileformats.collada.fileparser.elements/instancematerialrendering/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialrendering/
 is_root: false
 ---
 

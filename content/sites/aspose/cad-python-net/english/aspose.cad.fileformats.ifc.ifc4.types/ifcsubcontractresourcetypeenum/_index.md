@@ -3,8 +3,8 @@ title: IfcSubContractResourceTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3640
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcsubcontractresourcetypeenum/
+weight: 3650
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcsubcontractresourcetypeenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcSubContractResourceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| PURCHASE | PURCHASE |
-| WORK | WORK |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| PURCHASE |  |
+| WORK |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

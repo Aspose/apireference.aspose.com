@@ -3,8 +3,8 @@ title: resolution_unit property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
-url: /aspose.cad.imageoptions/tiffoptions/resolution_unit/
+weight: 420
+url: /python-net/aspose.cad.imageoptions/tiffoptions/resolution_unit/
 is_root: false
 ---
 

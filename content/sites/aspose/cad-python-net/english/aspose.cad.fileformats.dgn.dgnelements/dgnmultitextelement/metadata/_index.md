@@ -3,8 +3,8 @@ title: metadata property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/metadata/
+weight: 150
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/metadata/
 is_root: false
 ---
 

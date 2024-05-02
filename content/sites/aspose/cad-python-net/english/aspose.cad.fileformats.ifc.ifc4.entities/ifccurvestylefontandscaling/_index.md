@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1660
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcCurveStyleFontAndScaling
 
 **Inheritance:** [`IfcCurveStyleFontAndScaling`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling) → 
 [`IfcPresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,15 +31,17 @@ The IfcCurveStyleFontAndScaling type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/entity_label) | Gets the entity label. |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/name) | Name |
-| [curve_font](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curve_font) | CurveFont |
-| [curve_font_scaling](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curve_font_scaling) | CurveFontScaling |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/name) |  |
+| [curve_font](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curve_font) |  |
+| [curve_font_scaling](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curve_font_scaling) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcCurveStyleFontAndScaling`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationitem)

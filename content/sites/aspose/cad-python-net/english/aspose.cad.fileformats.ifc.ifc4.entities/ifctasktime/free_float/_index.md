@@ -3,15 +3,13 @@ title: free_float property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/free_float/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/free_float/
 is_root: false
 ---
 
 ## free_float property
 
-
-FreeFloat
 ### Definition:
 ```python
 @property

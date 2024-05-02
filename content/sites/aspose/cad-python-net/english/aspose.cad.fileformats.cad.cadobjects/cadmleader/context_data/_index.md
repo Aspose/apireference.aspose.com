@@ -3,8 +3,8 @@ title: context_data property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/context_data/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/context_data/
 is_root: false
 ---
 

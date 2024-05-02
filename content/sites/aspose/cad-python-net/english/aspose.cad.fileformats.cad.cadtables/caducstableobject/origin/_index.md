@@ -3,8 +3,8 @@ title: origin property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadtables/caducstableobject/origin/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caducstableobject/origin/
 is_root: false
 ---
 

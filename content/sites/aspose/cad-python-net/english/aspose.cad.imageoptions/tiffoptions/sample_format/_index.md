@@ -3,8 +3,8 @@ title: sample_format property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad.imageoptions/tiffoptions/sample_format/
+weight: 450
+url: /python-net/aspose.cad.imageoptions/tiffoptions/sample_format/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: view_hard_pointer_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/view_hard_pointer_id/
+weight: 400
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/view_hard_pointer_id/
 is_root: false
 ---
 

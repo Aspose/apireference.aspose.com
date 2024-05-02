@@ -3,15 +3,13 @@ title: instance_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/instance_name/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/instance_name/
 is_root: false
 ---
 
 ## instance_name property
 
-
-InstanceName
 ### Definition:
 ```python
 @property

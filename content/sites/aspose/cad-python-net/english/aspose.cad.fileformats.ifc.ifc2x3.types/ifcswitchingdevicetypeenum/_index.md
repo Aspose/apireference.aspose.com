@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3040
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcswitchingdevicetypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcswitchingdevicetypeenum/
 is_root: false
 ---
 
@@ -19,13 +19,13 @@ The IfcSwitchingDeviceTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONTACTOR | CONTACTOR |
-| EMERGENCYSTOP | EMERGENCYSTOP |
-| STARTER | STARTER |
-| SWITCHDISCONNECTOR | SWITCHDISCONNECTOR |
-| TOGGLESWITCH | TOGGLESWITCH |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONTACTOR |  |
+| EMERGENCYSTOP |  |
+| STARTER |  |
+| SWITCHDISCONNECTOR |  |
+| TOGGLESWITCH |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

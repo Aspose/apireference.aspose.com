@@ -3,8 +3,8 @@ title: sections_number property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/sections_number/
+weight: 160
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/sections_number/
 is_root: false
 ---
 

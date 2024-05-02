@@ -3,8 +3,8 @@ title: min_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/min_point/
+weight: 70
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/min_point/
 is_root: false
 ---
 

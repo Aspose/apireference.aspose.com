@@ -3,8 +3,8 @@ title: target_dwf_interface property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.imageoptions/dwfoptions/target_dwf_interface/
+weight: 120
+url: /python-net/aspose.cad.imageoptions/dwfoptions/target_dwf_interface/
 is_root: false
 ---
 

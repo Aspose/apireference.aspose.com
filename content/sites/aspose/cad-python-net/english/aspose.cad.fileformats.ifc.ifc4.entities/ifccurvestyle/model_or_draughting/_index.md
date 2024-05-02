@@ -3,15 +3,13 @@ title: model_or_draughting property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestyle/model_or_draughting/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestyle/model_or_draughting/
 is_root: false
 ---
 
 ## model_or_draughting property
 
-
-ModelOrDraughting
 ### Definition:
 ```python
 @property

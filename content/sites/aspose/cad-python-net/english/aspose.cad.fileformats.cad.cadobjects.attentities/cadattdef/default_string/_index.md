@@ -3,8 +3,8 @@ title: default_string property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/default_string/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/default_string/
 is_root: false
 ---
 

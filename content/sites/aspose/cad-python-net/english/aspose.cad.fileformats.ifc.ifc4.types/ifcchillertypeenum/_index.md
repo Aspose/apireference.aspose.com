@@ -3,8 +3,8 @@ title: IfcChillerTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2200
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcchillertypeenum/
+weight: 2210
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcchillertypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcChillerTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AIRCOOLED | AIRCOOLED |
-| WATERCOOLED | WATERCOOLED |
-| HEATRECOVERY | HEATRECOVERY |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| AIRCOOLED |  |
+| WATERCOOLED |  |
+| HEATRECOVERY |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

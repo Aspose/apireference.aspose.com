@@ -3,8 +3,8 @@ title: formated_table_data_parameters property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formated_table_data_parameters/
+weight: 110
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formated_table_data_parameters/
 is_root: false
 ---
 

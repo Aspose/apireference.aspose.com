@@ -3,8 +3,8 @@ title: CodePages enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 570
-url: /aspose.cad/codepages/
+weight: 640
+url: /python-net/aspose.cad/codepages/
 is_root: false
 ---
 

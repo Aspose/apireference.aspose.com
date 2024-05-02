@@ -4,13 +4,15 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.cad.fileformats.dwf/dwfimage/get_strings/
+url: /python-net/aspose.cad.fileformats.dwf/dwfimage/get_strings/
 is_root: false
 ---
 
 ## get_strings {#}
 
 Gets all string values from image.
+Provides an opportunity to get the values of all text graphic elements present
+in the image in the form of an array of strings.
 
 
 ### Returns 
@@ -25,6 +27,11 @@ def get_strings(self):
 ```
 
 
+
+### Example 
+
+
+Retrieves values of all text graphic elements an prints it out to the console.
 
 
 

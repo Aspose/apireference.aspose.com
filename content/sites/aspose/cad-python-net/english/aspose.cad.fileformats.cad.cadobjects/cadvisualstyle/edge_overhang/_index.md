@@ -3,8 +3,8 @@ title: edge_overhang property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edge_overhang/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edge_overhang/
 is_root: false
 ---
 

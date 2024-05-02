@@ -3,8 +3,8 @@ title: knot_spec property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/knot_spec/
+weight: 100
+url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinecurvewithknots/knot_spec/
 is_root: false
 ---
 

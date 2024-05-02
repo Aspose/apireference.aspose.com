@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2530
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcmotorconnectiontypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmotorconnectiontypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcMotorConnectionTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BELTDRIVE | BELTDRIVE |
-| COUPLING | COUPLING |
-| DIRECTDRIVE | DIRECTDRIVE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BELTDRIVE |  |
+| COUPLING |  |
+| DIRECTDRIVE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

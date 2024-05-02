@@ -3,8 +3,8 @@ title: StepConicalSurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.stp.items/stepconicalsurface/
+weight: 170
+url: /python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepConicalSurface type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/id) |  |
 | [conical_surface](/cad/python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/conical_surface) |  |
 | [radius](/cad/python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/radius) |  |
 | [semi_angle](/cad/python-net/aspose.cad.fileformats.stp.items/stepconicalsurface/semi_angle) |  |

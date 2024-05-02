@@ -3,8 +3,8 @@ title: plot_origin property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_origin/
+weight: 350
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_origin/
 is_root: false
 ---
 

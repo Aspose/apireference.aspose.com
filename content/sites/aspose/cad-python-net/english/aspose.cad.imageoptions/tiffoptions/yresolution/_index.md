@@ -3,8 +3,8 @@ title: yresolution property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 690
-url: /aspose.cad.imageoptions/tiffoptions/yresolution/
+weight: 710
+url: /python-net/aspose.cad.imageoptions/tiffoptions/yresolution/
 is_root: false
 ---
 

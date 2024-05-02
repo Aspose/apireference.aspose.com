@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 990
-url: /aspose.cad.exif/exifdata/shutter_speed_value/
+url: /python-net/aspose.cad.exif/exifdata/shutter_speed_value/
 is_root: false
 ---
 

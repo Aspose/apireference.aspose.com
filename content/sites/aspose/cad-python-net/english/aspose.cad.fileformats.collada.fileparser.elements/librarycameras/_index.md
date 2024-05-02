@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 600
-url: /aspose.cad.fileformats.collada.fileparser.elements/librarycameras/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/librarycameras/
 is_root: false
 ---
 

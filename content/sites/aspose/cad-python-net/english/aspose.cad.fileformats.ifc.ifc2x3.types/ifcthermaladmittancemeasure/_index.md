@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1450
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermaladmittancemeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermaladmittancemeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcThermalAdmittanceMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermaladmittancemeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermaladmittancemeasure/value) |  |
 
 
 

@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/caused_by/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/caused_by/
 is_root: false
 ---
 
 ## caused_by property
 
-
-CausedBy
 ### Definition:
 ```python
 @property

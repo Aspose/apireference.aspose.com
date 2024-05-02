@@ -3,8 +3,8 @@ title: text_angle_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 640
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/text_angle_type/
+weight: 720
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/text_angle_type/
 is_root: false
 ---
 

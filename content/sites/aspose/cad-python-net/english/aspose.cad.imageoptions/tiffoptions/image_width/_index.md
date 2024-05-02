@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.cad.imageoptions/tiffoptions/image_width/
+url: /python-net/aspose.cad.imageoptions/tiffoptions/image_width/
 is_root: false
 ---
 

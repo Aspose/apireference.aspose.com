@@ -3,8 +3,8 @@ title: coordinate_system_definition_string property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/coordinate_system_definition_string/
+weight: 120
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/coordinate_system_definition_string/
 is_root: false
 ---
 

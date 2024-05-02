@@ -3,15 +3,13 @@ title: relating_profile_properties property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/relating_profile_properties/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/relating_profile_properties/
 is_root: false
 ---
 
 ## relating_profile_properties property
 
-
-RelatingProfileProperties
 ### Definition:
 ```python
 @property

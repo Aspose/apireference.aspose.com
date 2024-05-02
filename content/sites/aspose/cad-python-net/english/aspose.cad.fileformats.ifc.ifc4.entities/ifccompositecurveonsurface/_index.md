@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcCompositeCurveOnSurface
 [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurve) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,8 +35,10 @@ The IfcCompositeCurveOnSurface type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/entity_label) | Gets the entity label. |
-| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/self_intersect) | SelfIntersect |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/self_intersect) |  |
 
 
 
@@ -46,6 +48,6 @@ The IfcCompositeCurveOnSurface type exposes the following members:
 * class [`IfcCompositeCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurve)
 * class [`IfcCompositeCurveOnSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface)
 * class [`IfcCurve`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurve)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

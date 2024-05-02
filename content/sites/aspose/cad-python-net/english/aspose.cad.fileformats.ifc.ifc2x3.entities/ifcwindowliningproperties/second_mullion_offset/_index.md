@@ -3,15 +3,13 @@ title: second_mullion_offset property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_mullion_offset/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_mullion_offset/
 is_root: false
 ---
 
 ## second_mullion_offset property
 
-
-SecondMullionOffset
 ### Definition:
 ```python
 @property

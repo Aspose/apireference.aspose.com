@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4570
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/
 is_root: false
 ---
 
@@ -15,7 +15,7 @@ Partial IIfc entity class
 
 
 **Inheritance:** [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -30,13 +30,15 @@ The IfcProfileDef type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/entity_label) | Gets the entity label. |
-| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profile_type) | ProfileType |
-| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profile_name) | ProfileName |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [profile_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profile_type) |  |
+| [profile_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profile_name) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcProfileDef`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef)

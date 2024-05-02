@@ -3,8 +3,8 @@ title: edge_opacity_level property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edge_opacity_level/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edge_opacity_level/
 is_root: false
 ---
 

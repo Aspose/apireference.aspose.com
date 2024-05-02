@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.exif.enums/exifexposureprogram/
+url: /python-net/aspose.cad.exif.enums/exifexposureprogram/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: viewport_clipping_object_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 860
-url: /aspose.cad.fileformats.cad.cadobjects/cadviewport/viewport_clipping_object_id/
+weight: 930
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport/viewport_clipping_object_id/
 is_root: false
 ---
 

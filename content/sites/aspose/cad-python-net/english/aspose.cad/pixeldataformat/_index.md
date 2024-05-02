@@ -3,8 +3,8 @@ title: PixelDataFormat class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad/pixeldataformat/
+weight: 430
+url: /python-net/aspose.cad/pixeldataformat/
 is_root: false
 ---
 

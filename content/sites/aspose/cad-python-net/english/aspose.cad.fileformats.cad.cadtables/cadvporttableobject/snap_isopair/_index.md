@@ -3,8 +3,8 @@ title: snap_isopair property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snap_isopair/
+weight: 370
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snap_isopair/
 is_root: false
 ---
 

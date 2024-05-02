@@ -3,8 +3,8 @@ title: shadow_map_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad.cadobjects/cadlight/shadow_map_size/
+weight: 540
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlight/shadow_map_size/
 is_root: false
 ---
 

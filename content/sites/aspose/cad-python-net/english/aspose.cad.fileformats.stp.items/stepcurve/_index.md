@@ -3,8 +3,8 @@ title: StepCurve class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.stp.items/stepcurve/
+weight: 190
+url: /python-net/aspose.cad.fileformats.stp.items/stepcurve/
 is_root: false
 ---
 
@@ -27,6 +27,7 @@ The StepCurve type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepcurve/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepcurve/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepcurve/id) |  |
 
 
 

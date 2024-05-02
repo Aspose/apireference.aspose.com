@@ -3,8 +3,8 @@ title: class_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/class_id/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/class_id/
 is_root: false
 ---
 

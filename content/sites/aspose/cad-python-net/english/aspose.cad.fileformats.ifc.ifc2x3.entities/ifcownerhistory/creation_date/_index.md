@@ -3,15 +3,13 @@ title: creation_date property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/creation_date/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/creation_date/
 is_root: false
 ---
 
 ## creation_date property
 
-
-CreationDate
 ### Definition:
 ```python
 @property

@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/alkalinity_concentration/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/alkalinity_concentration/
 is_root: false
 ---
 
 ## alkalinity_concentration property
 
-
-AlkalinityConcentration
 ### Definition:
 ```python
 @property

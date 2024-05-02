@@ -4,9 +4,23 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadobjects/cadrasterimage/__init__/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/__init__/
 is_root: false
 ---
+
+## __init__ {#}
+
+Initializes a new instance of the [`CadRasterImage`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage) class.
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
 
 ## __init__ {#aspose.cad.fileformats.cad.cadobjects.CadRasterImageDef-aspose.cad.fileformats.cad.cadobjects.Cad3DPoint-aspose.cad.fileformats.cad.cadobjects.Cad3DPoint-aspose.cad.fileformats.cad.cadobjects.Cad3DPoint}
 

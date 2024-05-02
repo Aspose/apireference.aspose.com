@@ -3,8 +3,8 @@ title: host_block_table_record property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/host_block_table_record/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/host_block_table_record/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3920
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ Partial IIfc entity class
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,22 +33,24 @@ The IfcProject type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/object_type) | ObjectType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/object_type) |  |
 | [unit_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/unit_type) | Gets the type of the unit. |
-| [long_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/long_name) | LongName |
-| [phase](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/phase) | Phase |
-| [units_in_context](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/units_in_context) | UnitsInContext |
+| [long_name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/long_name) |  |
+| [phase](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/phase) |  |
+| [units_in_context](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/units_in_context) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject)

@@ -3,15 +3,13 @@ title: molecular_weight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/molecular_weight/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/molecular_weight/
 is_root: false
 ---
 
 ## molecular_weight property
 
-
-MolecularWeight
 ### Definition:
 ```python
 @property

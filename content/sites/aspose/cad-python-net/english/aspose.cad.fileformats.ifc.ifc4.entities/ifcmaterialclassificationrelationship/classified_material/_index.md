@@ -3,15 +3,13 @@ title: classified_material property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialclassificationrelationship/classified_material/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialclassificationrelationship/classified_material/
 is_root: false
 ---
 
 ## classified_material property
 
-
-ClassifiedMaterial
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: VectorRasterizationOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /aspose.cad.imageoptions/vectorrasterizationoptions/
+weight: 440
+url: /python-net/aspose.cad.imageoptions/vectorrasterizationoptions/
 is_root: false
 ---
 
@@ -25,6 +25,7 @@ The VectorRasterizationOptions type exposes the following members:
 | [page_height](/cad/python-net/aspose.cad.imageoptions/vectorrasterizationoptions/page_height) | Gets or sets the page height. |
 | [page_size](/cad/python-net/aspose.cad.imageoptions/vectorrasterizationoptions/page_size) | Gets or sets the page size. |
 | [page_width](/cad/python-net/aspose.cad.imageoptions/vectorrasterizationoptions/page_width) | Gets or sets the page width. |
+| [page_depth](/cad/python-net/aspose.cad.imageoptions/vectorrasterizationoptions/page_depth) | Gets or sets the page depth. |
 | [background_color](/cad/python-net/aspose.cad.imageoptions/vectorrasterizationoptions/background_color) | Gets or sets a background color. |
 | [embed_background](/cad/python-net/aspose.cad.imageoptions/vectorrasterizationoptions/embed_background) | Wether background of color not equal to default background color of output format (white for PDF and SVG, transparent for raster) should be embedded into output image (if not embedded, background will be default of the output render system, but color of the content that depend on background color will be rendered using stated background color) |
 | [draw_color](/cad/python-net/aspose.cad.imageoptions/vectorrasterizationoptions/draw_color) | Gets or sets a foreground color. |

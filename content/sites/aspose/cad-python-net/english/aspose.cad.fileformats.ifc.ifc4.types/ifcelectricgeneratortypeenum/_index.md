@@ -3,8 +3,8 @@ title: IfcElectricGeneratorTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2640
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcelectricgeneratortypeenum/
+weight: 2650
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricgeneratortypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcElectricGeneratorTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CHP | CHP |
-| ENGINEGENERATOR | ENGINEGENERATOR |
-| STANDALONE | STANDALONE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CHP |  |
+| ENGINEGENERATOR |  |
+| STANDALONE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

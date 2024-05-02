@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1020
-url: /aspose.cad/color/medium_aquamarine/
+url: /python-net/aspose.cad/color/medium_aquamarine/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: visibility_mode property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
-url: /aspose.cad.imageoptions/cadrasterizationoptions/visibility_mode/
+weight: 320
+url: /python-net/aspose.cad.imageoptions/cadrasterizationoptions/visibility_mode/
 is_root: false
 ---
 

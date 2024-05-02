@@ -3,15 +3,13 @@ title: intensity property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/intensity/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/intensity/
 is_root: false
 ---
 
 ## intensity property
 
-
-Intensity
 ### Definition:
 ```python
 @property

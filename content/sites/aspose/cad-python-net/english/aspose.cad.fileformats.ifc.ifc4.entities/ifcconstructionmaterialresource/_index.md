@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1300
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/
 is_root: false
 ---
 
@@ -20,7 +20,7 @@ IfcConstructionMaterialResource
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -35,17 +35,19 @@ The IfcConstructionMaterialResource type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/object_type) | ObjectType |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/identification) | Identification |
-| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/long_description) | LongDescription |
-| [usage](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/usage) | Usage |
-| [base_quantity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/base_quantity) | BaseQuantity |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/predefined_type) | PredefinedType |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/object_type) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/identification) |  |
+| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/long_description) |  |
+| [usage](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/usage) |  |
+| [base_quantity](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/base_quantity) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource/predefined_type) |  |
 
 
 
@@ -53,7 +55,7 @@ The IfcConstructionMaterialResource type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcConstructionMaterialResource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionmaterialresource)
 * class [`IfcConstructionResource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcResource`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresource)

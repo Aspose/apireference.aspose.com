@@ -3,8 +3,8 @@ title: image_display_prop property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/image_display_prop/
+weight: 300
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/image_display_prop/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/
 is_root: false
 ---
 
@@ -16,8 +16,8 @@ Represents base class for arc-based elements
 
 **Inheritance:** [`DgnArcBasedElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement) → 
 [`DgnDrawingElementBaseQuaternion`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion) → 
-[`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase) → 
-[`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+[`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase) → 
+[`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)
 
 
 
@@ -26,6 +26,8 @@ The DgnArcBasedElement type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [id](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/childs) | Gets the collection of a nested entities. |
 | [metadata](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/metadata) | Gets element metadata |
 | [min_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/min_point) | Gets the min point of object. |
 | [max_point](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/max_point) | Gets the max point of object. |
@@ -42,6 +44,6 @@ The DgnArcBasedElement type exposes the following members:
 ### See Also
 * module [`aspose.cad.fileformats.dgn.dgnelements`](..)
 * class [`DgnArcBasedElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement)
-* class [`DgnDrawingElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase)
+* class [`DgnDrawableEntityBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase)
 * class [`DgnDrawingElementBaseQuaternion`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion)
-* class [`DgnElement`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelement)
+* class [`DgnElementBase`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase)

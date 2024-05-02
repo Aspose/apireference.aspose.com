@@ -3,8 +3,8 @@ title: gen_proc_val_color_rgb property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_val_color_rgb/
+weight: 460
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/gen_proc_val_color_rgb/
 is_root: false
 ---
 

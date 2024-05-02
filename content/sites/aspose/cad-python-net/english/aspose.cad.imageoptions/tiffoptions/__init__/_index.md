@@ -4,9 +4,24 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.imageoptions/tiffoptions/__init__/
+url: /python-net/aspose.cad.imageoptions/tiffoptions/__init__/
 is_root: false
 ---
+
+## __init__ {#}
+
+Initializes a new instance of the [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) class.
+By default little endian convention is used. No compression. Rgb profile
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
 
 ## __init__ {#aspose.cad.fileformats.tiff.enums.TiffExpectedFormat}
 

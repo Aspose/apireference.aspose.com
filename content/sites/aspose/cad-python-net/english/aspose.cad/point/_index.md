@@ -3,8 +3,8 @@ title: Point class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 430
-url: /aspose.cad/point/
+weight: 440
+url: /python-net/aspose.cad/point/
 is_root: false
 ---
 

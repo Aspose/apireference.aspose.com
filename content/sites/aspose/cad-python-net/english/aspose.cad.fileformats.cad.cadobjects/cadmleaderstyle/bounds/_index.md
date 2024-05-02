@@ -3,8 +3,8 @@ title: bounds property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/bounds/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/bounds/
 is_root: false
 ---
 

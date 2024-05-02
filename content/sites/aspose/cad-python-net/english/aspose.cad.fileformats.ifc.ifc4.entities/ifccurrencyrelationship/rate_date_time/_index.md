@@ -3,15 +3,13 @@ title: rate_date_time property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/rate_date_time/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/rate_date_time/
 is_root: false
 ---
 
 ## rate_date_time property
 
-
-RateDateTime
 ### Definition:
 ```python
 @property

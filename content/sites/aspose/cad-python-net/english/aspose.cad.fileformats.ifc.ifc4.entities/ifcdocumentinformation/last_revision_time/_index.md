@@ -3,15 +3,13 @@ title: last_revision_time property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/last_revision_time/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/last_revision_time/
 is_root: false
 ---
 
 ## last_revision_time property
 
-
-LastRevisionTime
 ### Definition:
 ```python
 @property

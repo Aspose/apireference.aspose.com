@@ -3,8 +3,8 @@ title: model_transform_coordinates property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/model_transform_coordinates/
+weight: 340
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/model_transform_coordinates/
 is_root: false
 ---
 

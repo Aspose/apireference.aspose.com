@@ -3,8 +3,8 @@ title: CadHelixLimitation enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/
 is_root: false
 ---
 

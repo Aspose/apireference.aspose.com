@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/license/set_license/
+url: /python-net/aspose.cad/license/set_license/
 is_root: false
 ---
 
@@ -60,13 +60,7 @@ Use this method to load a license from a stream.
 ### Example 
 
 
-```python
-from aspose.cad import License
 
-license = License()
-license.set_license(myStream)
-
-```
 
 
 

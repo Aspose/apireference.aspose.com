@@ -3,8 +3,8 @@ title: display_enabled_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/display_enabled_flag/
+weight: 110
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/display_enabled_flag/
 is_root: false
 ---
 

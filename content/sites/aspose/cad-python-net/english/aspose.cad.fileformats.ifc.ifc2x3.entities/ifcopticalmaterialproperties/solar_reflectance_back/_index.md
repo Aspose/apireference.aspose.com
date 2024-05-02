@@ -3,15 +3,13 @@ title: solar_reflectance_back property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/solar_reflectance_back/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/solar_reflectance_back/
 is_root: false
 ---
 
 ## solar_reflectance_back property
 
-
-SolarReflectanceBack
 ### Definition:
 ```python
 @property

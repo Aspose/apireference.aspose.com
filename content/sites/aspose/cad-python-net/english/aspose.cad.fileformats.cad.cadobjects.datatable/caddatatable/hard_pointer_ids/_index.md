@@ -3,8 +3,8 @@ title: hard_pointer_ids property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/hard_pointer_ids/
+weight: 130
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/hard_pointer_ids/
 is_root: false
 ---
 

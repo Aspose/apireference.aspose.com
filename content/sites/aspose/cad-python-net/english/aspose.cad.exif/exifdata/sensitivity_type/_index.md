@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 970
-url: /aspose.cad.exif/exifdata/sensitivity_type/
+url: /python-net/aspose.cad.exif/exifdata/sensitivity_type/
 is_root: false
 ---
 

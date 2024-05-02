@@ -3,15 +3,13 @@ title: early_finish property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/early_finish/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/early_finish/
 is_root: false
 ---
 
 ## early_finish property
 
-
-EarlyFinish
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: schedule_start property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctasktimerecurring/schedule_start/
+weight: 230
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktimerecurring/schedule_start/
 is_root: false
 ---
 
 ## schedule_start property
 
-
-ScheduleStart
 ### Definition:
 ```python
 @property

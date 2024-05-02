@@ -3,15 +3,13 @@ title: tension_force property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/tension_force/
+weight: 220
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/tension_force/
 is_root: false
 ---
 
 ## tension_force property
 
-
-TensionForce
 ### Definition:
 ```python
 @property

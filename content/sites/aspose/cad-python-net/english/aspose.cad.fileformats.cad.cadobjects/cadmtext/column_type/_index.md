@@ -3,8 +3,8 @@ title: column_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/column_type/
+weight: 460
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/column_type/
 is_root: false
 ---
 

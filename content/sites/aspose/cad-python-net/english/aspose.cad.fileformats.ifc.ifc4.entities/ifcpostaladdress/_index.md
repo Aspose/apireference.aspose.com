@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4390
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcPostalAddress
 
 **Inheritance:** [`IfcPostalAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress) → 
 [`IfcAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,21 +31,23 @@ The IfcPostalAddress type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/entity_label) | Gets the entity label. |
-| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/purpose) | Purpose |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/description) | Description |
-| [user_defined_purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/user_defined_purpose) | UserDefinedPurpose |
-| [internal_location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/internal_location) | InternalLocation |
-| [postal_box](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/postal_box) | PostalBox |
-| [town](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/town) | Town |
-| [region](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/region) | Region |
-| [postal_code](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/postal_code) | PostalCode |
-| [country](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/country) | Country |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/purpose) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/description) |  |
+| [user_defined_purpose](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/user_defined_purpose) |  |
+| [internal_location](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/internal_location) |  |
+| [postal_box](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/postal_box) |  |
+| [town](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/town) |  |
+| [region](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/region) |  |
+| [postal_code](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/postal_code) |  |
+| [country](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/country) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPostalAddress`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress)

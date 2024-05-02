@@ -3,8 +3,8 @@ title: page_setup_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/page_setup_name/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/page_setup_name/
 is_root: false
 ---
 

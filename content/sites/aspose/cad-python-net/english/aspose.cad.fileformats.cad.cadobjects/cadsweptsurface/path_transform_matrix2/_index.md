@@ -3,8 +3,8 @@ title: path_transform_matrix2 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/path_transform_matrix2/
+weight: 490
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/path_transform_matrix2/
 is_root: false
 ---
 

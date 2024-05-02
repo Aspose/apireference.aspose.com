@@ -3,8 +3,8 @@ title: U3dAuthorMaterial class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 10
-url: /aspose.cad.fileformats.u3d.elements/u3dauthormaterial/
+weight: 60
+url: /python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/
 is_root: false
 ---
 
@@ -23,9 +23,13 @@ The U3dAuthorMaterial type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [diffuse_colors](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/diffuse_colors) |  |
-| [specular_colors](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/specular_colors) |  |
-| [texture_layers_count](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/texture_layers_count) |  |
+| [material_attributes](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/material_attributes) |  |
+| [num_texture_layers](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/num_texture_layers) |  |
+| [original_shading_id](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/original_shading_id) |  |
+| [has_diffuse_colors](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/has_diffuse_colors) |  |
+| [has_specular_colors](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/has_specular_colors) |  |
+| [tex_coord_dimensions](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/tex_coord_dimensions) |  |
+| [has_normals](/cad/python-net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/has_normals) |  |
 
 
 

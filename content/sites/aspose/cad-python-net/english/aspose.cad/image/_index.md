@@ -3,8 +3,8 @@ title: Image class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad/image/
+weight: 310
+url: /python-net/aspose.cad/image/
 is_root: false
 ---
 
@@ -31,21 +31,22 @@ The Image type exposes the following members:
 | [bounds](/cad/python-net/aspose.cad/image/bounds) | Gets the image bounds. |
 | [container](/cad/python-net/aspose.cad/image/container) | Gets the [`Image`](/cad/python-net/aspose.cad/image) container. |
 | [height](/cad/python-net/aspose.cad/image/height) | Gets the image height. |
+| [depth](/cad/python-net/aspose.cad/image/depth) | Gets the image depth. |
 | [palette](/cad/python-net/aspose.cad/image/palette) | Gets or sets the color palette. |
 | [size](/cad/python-net/aspose.cad/image/size) | Gets the image size. |
 | [width](/cad/python-net/aspose.cad/image/width) | Gets the image width. |
-| [has_background_color](/cad/python-net/aspose.cad/image/has_background_color) | Gets or sets a value indicating whether image has background color. |
-| [background_color](/cad/python-net/aspose.cad/image/background_color) | Gets or sets a value for the background color. |
 | [unit_type](/cad/python-net/aspose.cad/image/unit_type) | Gets current unit type. |
 | [unitless_default_unit_type](/cad/python-net/aspose.cad/image/unitless_default_unit_type) | Assumed unit type when UnitType is set to Unitless |
+| [annotation_service](/cad/python-net/aspose.cad/image/annotation_service) | Gets the annotation service. |
+| [watermark_guard_service](/cad/python-net/aspose.cad/image/watermark_guard_service) |  |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
 | [save](/cad/python-net/aspose.cad/image/save/#) | Saves the image data to the underlying stream. |
-| [save](/cad/python-net/aspose.cad/image/save/#str-aspose.cad.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save](/cad/python-net/aspose.cad/image/save/#io.RawIOBase-aspose.cad.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad/image/save/#str-aspose.cad.imageoptions.ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save](/cad/python-net/aspose.cad/image/save/#io.RawIOBase-aspose.cad.imageoptions.ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save](/cad/python-net/aspose.cad/image/save/#io.RawIOBase) | Saves the object's data to the specified stream. |
 | [save](/cad/python-net/aspose.cad/image/save/#str) | Saves the object's data to the specified file location. |
 | [save](/cad/python-net/aspose.cad/image/save/#str-bool) | Saves the object's data to the specified file location. |
@@ -58,10 +59,11 @@ The Image type exposes the following members:
 | [load](/cad/python-net/aspose.cad/image/load/#str-aspose.cad.LoadOptions) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad/image/load/#str) | Loads a new image from the specified file. |
 | [load](/cad/python-net/aspose.cad/image/load/#io.RawIOBase-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
+| [load](/cad/python-net/aspose.cad/image/load/#io.RawIOBase-str-aspose.cad.LoadOptions) | Loads a new image from the specified stream. |
 | [load](/cad/python-net/aspose.cad/image/load/#io.RawIOBase) | Loads a new image from the specified stream. |
 | [cache_data](/cad/python-net/aspose.cad/image/cache_data/#) | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamSupporter.data_stream_container`](/cad/python-net/aspose.cad/datastreamsupporter#data_stream_container). |
 | [get_strings](/cad/python-net/aspose.cad/image/get_strings/#) | Gets all string values from image. |
-| [can_save](/cad/python-net/aspose.cad/image/can_save/#aspose.cad.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [can_save](/cad/python-net/aspose.cad/image/can_save/#aspose.cad.imageoptions.ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
 
 
 

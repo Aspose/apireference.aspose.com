@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3020
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcsurfaceside/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsurfaceside/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The IfcSurfaceSide type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| POSITIVE | POSITIVE |
-| NEGATIVE | NEGATIVE |
-| BOTH | BOTH |
+| POSITIVE |  |
+| NEGATIVE |  |
+| BOTH |  |
 
 
 

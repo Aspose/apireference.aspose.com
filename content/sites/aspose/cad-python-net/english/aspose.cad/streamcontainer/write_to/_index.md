@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad/streamcontainer/write_to/
+url: /python-net/aspose.cad/streamcontainer/write_to/
 is_root: false
 ---
 

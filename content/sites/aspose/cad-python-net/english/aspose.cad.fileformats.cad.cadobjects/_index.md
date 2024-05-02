@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.cad.cadobjects/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/
 is_root: false
 ---
 
@@ -13,7 +13,7 @@ The namespace contains Cad file format base entities.
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`Cad2DPoint`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint) | The Cad 2 d point. |
+| [`Cad2DPoint`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint) | The Cad 2D point. |
 | [`Cad2LineAngularDimension`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension) | The Cad angle dimension. |
 | [`Cad3DFace`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cad3dface) | Class that describes 3DFACE entity |
 | [`Cad3DPoint`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint) | The Cad point. |
@@ -28,22 +28,26 @@ The namespace contains Cad file format base entities.
 | [`CadAcdsRecord`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacdsrecord) | Class describing CadAcdsRecord |
 | [`CadAcdsSchema`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacdsschema) | Class describing CadAcdsSchema |
 | [`CadAcidBlockReferenceEntity`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacidblockreferenceentity) | The Cad AcidBlockReferenceEntity |
+| [`CadAcshBoxClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshboxclass) | Class describing CadAcshBoxClass object. |
+| [`CadAcshConeClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshconeclass) | Class describing CadAcshConeClass object. |
+| [`CadAcshCylinderClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshcylinderclass) | Class describing CadAcshCylinderClass object. |
 | [`CadAcshHistoryClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshhistoryclass) | Class describing CadAcshHistoryClass object. |
+| [`CadAcshHistoryNode`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshhistorynode) | Class describing CadAcshHistoryNode object. |
 | [`CadAcshPyramidClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass) | Class describing CadAcshPyramidClass object. |
+| [`CadAcshSphereClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshsphereclass) | Class describing CadAcshSphereClass object. |
+| [`CadAcshTorusClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshtorusclass) | Class describing CadAcshTorusClass object. |
+| [`CadAcshWedgeClass`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadacshwedgeclass) | Class describing CadAcshWedgeClass object. |
 | [`CadAlignedDimension`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension) | The Cad aligned dimension. |
 | [`CadAngularDimension`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadangulardimension) | The Cad angular dimension. |
 | [`CadApplicationCodes`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes) | The Cad Application Defined Codes |
 | [`CadApplicationCodesContainer`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodescontainer) | The CadApplicationCodes Container |
 | [`CadArc`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadarc) | Class describing Cad ARC |
 | [`CadArcLengthDimension`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension) | The cad arc length dimension |
-| [`CadBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbase) | Base class for Cad objects |
 | [`CadBaseAcds`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseacds) | Base class for Cad objects |
-| [`CadBaseEntity`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseentity) | The Cad base entity object. |
-| [`CadBaseExtrudedEntity`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseextrudedentity) | The Cad base extruded entity object. |
 | [`CadBaseInfinityEntity`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity) | Class describing CadBaseInfinityEntity |
 | [`CadBaseObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject) | Base class for Cad objects |
-| [`CadBaseOwned`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbaseowned) | The Cad base owned object. |
 | [`CadBlockEntity`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadblockentity) | The Cad block entity. |
+| [`CadBlockNameEntity`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadblocknameentity) | The BlockName Entity |
 | [`CadBody`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbody) | The Cad body. |
 | [`CadBreakData`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadbreakdata) | Class describing CadBreakData object. |
 | [`CadCellMargin`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadcellmargin) | Class describing CadCellMargin |
@@ -63,8 +67,11 @@ The namespace contains Cad file format base entities.
 | [`CadDimensionOrdinate`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/caddimensionordinate) | The Cad dimension ordinate. |
 | [`CadDwfUnderlay`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/caddwfunderlay) | Class describing CadDwfUnderlay |
 | [`CadEllipse`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadellipse) | Class describing Cad ellipse |
+| [`CadEmbeddedImage`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadembeddedimage) | Class describing Cad embedded image |
 | [`CadEmbeddedObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobject) | The Cad embedded object. |
 | [`CadEmbeddedObjectContainer`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobjectcontainer) | The embedded object Container |
+| [`CadEntityBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadentitybase) | The Cad base entity object. |
+| [`CadExtrudedEntityBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedentitybase) | The Cad base extruded entity object. |
 | [`CadExtrudedSurface`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface) | The Cad revolved surface. |
 | [`CadFieldList`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadfieldlist) | Class describing CadFieldList object. |
 | [`CadGeoData`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata) | Class describing GeoData object. |
@@ -81,7 +88,7 @@ The namespace contains Cad file format base entities.
 | [`CadLightList`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadlightlist) | Class describing LIGHTLIST object. |
 | [`CadLine`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadline) | Class describing Cad line |
 | [`CadLoftedSurface`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface) | The Cad lofted surface. |
-| [`CadLwPolyline`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline) | Class describing Cad lwPoliline |
+| [`CadLwPolyline`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline) | Class describing Cad lwPolyline |
 | [`CadMLeader`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader) | Class describing Cad multileader |
 | [`CadMLeaderBlock`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderblock) | Class describing MLeader block |
 | [`CadMLeaderContextData`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata) | Class describing context data for multileader |
@@ -96,16 +103,19 @@ The namespace contains Cad file format base entities.
 | [`CadMultiLine`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadmultiline) | The Cad multi line. |
 | [`CadMultiLineVectorBlock`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock) | Cad mline vector block |
 | [`CadObjectAttribute`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute) | CadObjectAttribute |
+| [`CadObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase) | Base class for Cad objects |
 | [`CadObjectPtr`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectptr) | Class describing OBJECT_PTR object. |
 | [`CadObjectWithAcisData`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata) | Base class for CAD entity which contains ACIS data |
 | [`CadOle2Frame`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadole2frame) | The Cad OLE2FRAME. |
 | [`CadOleFrame`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadoleframe) | The Cad OleFrame. |
+| [`CadOwnedObjectBase`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase) | The Cad base owned object. |
 | [`CadPdfUnderlay`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadpdfunderlay) | Class describing CadPdfUnderlay |
 | [`CadPlaneSurface`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadplanesurface) | The Cad surface base. |
 | [`CadPlotSettings`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings) | The Cad Plot Settings object. |
 | [`CadPoint`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadpoint) | Class describing Cad Point |
 | [`CadRadialDimension`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadradialdimension) | The Cad radial dimension.<br/>NOTE: This class is an exact copy of CadDiametricDimension except sublcass name |
 | [`CadRasterImage`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage) | Class describing Cad raster image |
+| [`CadRasterImageData`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedata) | The Cad raster image data object. |
 | [`CadRasterImageDef`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef) | The Cad aster image definition object. |
 | [`CadRasterImageDefReactor`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedefreactor) | The Cad raster image definition reactor object. |
 | [`CadRay`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadray) | Class describing CadRay |
@@ -128,7 +138,6 @@ The namespace contains Cad file format base entities.
 | [`CadTableContent`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent) | Class describing TABLECONTENT object. |
 | [`CadTableFormat`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtableformat) | Class describing CadTableFormat |
 | [`CadTableGeometry`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry) | Class describing TABLEGEOMETRY object. |
-| [`CadTableStyle`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtablestyle) | Class describing CadTableStyle |
 | [`CadText`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtext) | Class describing Cad text |
 | [`CadThumbnailImage`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage) | The Cad ThumbnailImage entity. |
 | [`CadTolerance`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadtolerance) | The Cad tolerance. |
@@ -138,11 +147,13 @@ The namespace contains Cad file format base entities.
 | [`CadVbaProject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadvbaproject) | Class describing VBA_PROJECT object. |
 | [`CadViewport`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadviewport) | The Cad view port. |
 | [`CadVisualStyle`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle) | Class describing CadVisualStyle |
+| [`CadVloVlObject`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadvlovlobject) | Class describing VLO-VL object (unknown object) |
 | [`CadWipeoutVariables`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadwipeoutvariables) | Class describing WIPEOUTVARIABLES object. |
 | [`CadXLine`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadxline) | Class describing CadXLine |
 | [`CadXRecord`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadxrecord) | Class describing CadXRecord |
 | [`CadXdata`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadxdata) | The Cad xdata. |
 | [`CadXdataContainer`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer) | The Xdata Container |
+| [`ICadObjectContainer`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/icadobjectcontainer) | Base interface for Cad objects |
 | [`ISummaryInfo`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo) | The Cad SummaryInfo interface. |
 
 

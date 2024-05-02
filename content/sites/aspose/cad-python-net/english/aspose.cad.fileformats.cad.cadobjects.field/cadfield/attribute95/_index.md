@@ -3,8 +3,8 @@ title: attribute95 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute95/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute95/
 is_root: false
 ---
 

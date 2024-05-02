@@ -3,8 +3,8 @@ title: IfcSurfaceOrFaceSurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1580
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcsurfaceorfacesurface/
+weight: 1590
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcsurfaceorfacesurface/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/color_data/
+url: /python-net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/color_data/
 is_root: false
 ---
 

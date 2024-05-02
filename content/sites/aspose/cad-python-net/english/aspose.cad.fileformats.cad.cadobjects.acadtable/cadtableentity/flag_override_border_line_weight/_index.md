@@ -3,8 +3,8 @@ title: flag_override_border_line_weight property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flag_override_border_line_weight/
+weight: 230
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flag_override_border_line_weight/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: completion property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/completion/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/completion/
 is_root: false
 ---
 
 ## completion property
 
-
-Completion
 ### Definition:
 ```python
 @property

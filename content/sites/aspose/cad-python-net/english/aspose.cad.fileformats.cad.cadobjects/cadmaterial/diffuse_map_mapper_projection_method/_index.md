@@ -3,8 +3,8 @@ title: diffuse_map_mapper_projection_method property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffuse_map_mapper_projection_method/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffuse_map_mapper_projection_method/
 is_root: false
 ---
 

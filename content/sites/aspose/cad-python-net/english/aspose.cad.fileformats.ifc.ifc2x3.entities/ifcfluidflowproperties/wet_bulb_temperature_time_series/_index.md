@@ -3,15 +3,13 @@ title: wet_bulb_temperature_time_series property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/wet_bulb_temperature_time_series/
+weight: 240
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/wet_bulb_temperature_time_series/
 is_root: false
 ---
 
 ## wet_bulb_temperature_time_series property
 
-
-WetBulbTemperatureTimeSeries
 ### Definition:
 ```python
 @property

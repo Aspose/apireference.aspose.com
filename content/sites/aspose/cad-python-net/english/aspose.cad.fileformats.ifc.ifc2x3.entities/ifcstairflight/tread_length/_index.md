@@ -3,15 +3,13 @@ title: tread_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstairflight/tread_length/
+weight: 170
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstairflight/tread_length/
 is_root: false
 ---
 
 ## tread_length property
 
-
-TreadLength
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_flag_value/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_flag_value/
 is_root: false
 ---
 

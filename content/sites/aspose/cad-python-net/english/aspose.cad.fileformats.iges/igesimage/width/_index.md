@@ -3,8 +3,8 @@ title: width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.iges/igesimage/width/
+weight: 250
+url: /python-net/aspose.cad.fileformats.iges/igesimage/width/
 is_root: false
 ---
 

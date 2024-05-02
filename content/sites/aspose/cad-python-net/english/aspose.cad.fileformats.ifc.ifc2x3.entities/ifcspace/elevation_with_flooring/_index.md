@@ -3,15 +3,13 @@ title: elevation_with_flooring property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspace/elevation_with_flooring/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspace/elevation_with_flooring/
 is_root: false
 ---
 
 ## elevation_with_flooring property
 
-
-ElevationWithFlooring
 ### Definition:
 ```python
 @property

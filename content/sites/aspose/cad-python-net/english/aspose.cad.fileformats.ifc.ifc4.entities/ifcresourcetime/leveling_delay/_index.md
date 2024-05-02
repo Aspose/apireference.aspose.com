@@ -3,15 +3,13 @@ title: leveling_delay property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/leveling_delay/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/leveling_delay/
 is_root: false
 ---
 
 ## leveling_delay property
 
-
-LevelingDelay
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: letter_spacing property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/letter_spacing/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/letter_spacing/
 is_root: false
 ---
 
 ## letter_spacing property
 
-
-LetterSpacing
 ### Definition:
 ```python
 @property

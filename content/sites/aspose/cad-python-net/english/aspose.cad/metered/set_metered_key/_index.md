@@ -3,8 +3,8 @@ title: set_metered_key method
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 20
-url: /aspose.cad/metered/set_metered_key/
+weight: 40
+url: /python-net/aspose.cad/metered/set_metered_key/
 is_root: false
 ---
 

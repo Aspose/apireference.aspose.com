@@ -4,13 +4,14 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.cad.fileformats.obj.elements/objface/
+url: /python-net/aspose.cad.fileformats.obj.elements/objface/
 is_root: false
 ---
 
 ## ObjFace class
 
-The OBJ face.
+Represents the face object for OBJ image.
+It stores indices of vertex, texture and normal.
 
 
 

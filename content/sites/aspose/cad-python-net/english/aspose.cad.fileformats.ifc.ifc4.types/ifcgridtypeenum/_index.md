@@ -3,8 +3,8 @@ title: IfcGridTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2870
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcgridtypeenum/
+weight: 2880
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcgridtypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcGridTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| RECTANGULAR | RECTANGULAR |
-| RADIAL | RADIAL |
-| TRIANGULAR | TRIANGULAR |
-| IRREGULAR | IRREGULAR |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| RECTANGULAR |  |
+| RADIAL |  |
+| TRIANGULAR |  |
+| IRREGULAR |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

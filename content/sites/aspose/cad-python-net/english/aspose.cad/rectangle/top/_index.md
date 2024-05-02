@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 230
-url: /aspose.cad/rectangle/top/
+url: /python-net/aspose.cad/rectangle/top/
 is_root: false
 ---
 

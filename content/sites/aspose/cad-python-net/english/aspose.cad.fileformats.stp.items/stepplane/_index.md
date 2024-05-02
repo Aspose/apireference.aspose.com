@@ -3,8 +3,8 @@ title: StepPlane class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /aspose.cad.fileformats.stp.items/stepplane/
+weight: 480
+url: /python-net/aspose.cad.fileformats.stp.items/stepplane/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepPlane type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepplane/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepplane/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepplane/id) |  |
 | [position](/cad/python-net/aspose.cad.fileformats.stp.items/stepplane/position) |  |
 
 

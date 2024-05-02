@@ -3,8 +3,8 @@ title: top_text_attachment_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 600
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/top_text_attachment_direction/
+weight: 640
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/top_text_attachment_direction/
 is_root: false
 ---
 

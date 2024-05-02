@@ -3,8 +3,8 @@ title: first_corner property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.cad.cadobjects/cad3dface/first_corner/
+weight: 190
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cad3dface/first_corner/
 is_root: false
 ---
 

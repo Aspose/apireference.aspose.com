@@ -3,15 +3,13 @@ title: related_structural_connection property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/related_structural_connection/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/related_structural_connection/
 is_root: false
 ---
 
 ## related_structural_connection property
 
-
-RelatedStructuralConnection
 ### Definition:
 ```python
 @property

@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccostvalue/category/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostvalue/category/
 is_root: false
 ---
 
 ## category property
 
-
-Category
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: background_color_rgb426 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /aspose.cad.fileformats.cad.cadobjects/cadmtext/background_color_rgb426/
+weight: 290
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmtext/background_color_rgb426/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: quaternion_rotations property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.dgn/dgncircle/quaternion_rotations/
+weight: 110
+url: /python-net/aspose.cad.fileformats.dgn/dgncircle/quaternion_rotations/
 is_root: false
 ---
 

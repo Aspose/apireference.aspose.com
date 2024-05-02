@@ -3,8 +3,8 @@ title: plane_y_axis_direction property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 460
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/plane_y_axis_direction/
+weight: 530
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/plane_y_axis_direction/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: proxy_bytes_count property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/proxy_bytes_count/
+weight: 460
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/proxy_bytes_count/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the proxy bytes count.
+
+### Remarks 
+
+
+Equals null if this entity is not a Proxy Entity.
 ### Definition:
 ```python
 @property

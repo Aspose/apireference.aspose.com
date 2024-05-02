@@ -3,8 +3,8 @@ title: StepProductDefinitionShape class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.stp.items/stepproductdefinitionshape/
+weight: 550
+url: /python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/
 is_root: false
 ---
 
@@ -33,6 +33,7 @@ The StepProductDefinitionShape type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/id) |  |
 | [definition](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/definition) |  |
 | [description](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/description) |  |
 

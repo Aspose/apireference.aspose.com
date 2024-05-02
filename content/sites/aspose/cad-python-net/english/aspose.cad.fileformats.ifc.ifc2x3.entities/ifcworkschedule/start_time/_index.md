@@ -3,15 +3,13 @@ title: start_time property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkschedule/start_time/
+weight: 160
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkschedule/start_time/
 is_root: false
 ---
 
 ## start_time property
 
-
-StartTime
 ### Definition:
 ```python
 @property

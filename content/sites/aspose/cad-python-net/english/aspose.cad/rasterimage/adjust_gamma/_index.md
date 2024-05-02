@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad/rasterimage/adjust_gamma/
+url: /python-net/aspose.cad/rasterimage/adjust_gamma/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: StepFaceSurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
-url: /aspose.cad.fileformats.stp.items/stepfacesurface/
+weight: 310
+url: /python-net/aspose.cad.fileformats.stp.items/stepfacesurface/
 is_root: false
 ---
 
@@ -28,6 +28,7 @@ The StepFaceSurface type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacesurface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacesurface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacesurface/id) |  |
 | [bounds](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacesurface/bounds) |  |
 | [face_geometry](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacesurface/face_geometry) |  |
 | [same_sense](/cad/python-net/aspose.cad.fileformats.stp.items/stepfacesurface/same_sense) |  |

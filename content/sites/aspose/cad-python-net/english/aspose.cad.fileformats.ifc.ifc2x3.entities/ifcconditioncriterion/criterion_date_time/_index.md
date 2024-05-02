@@ -3,15 +3,13 @@ title: criterion_date_time property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/criterion_date_time/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/criterion_date_time/
 is_root: false
 ---
 
 ## criterion_date_time property
 
-
-CriterionDateTime
 ### Definition:
 ```python
 @property

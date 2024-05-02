@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5560
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcStructuralPlanarAction
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,26 +36,28 @@ The IfcStructuralPlanarAction type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/object_type) | ObjectType |
-| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/object_placement) | ObjectPlacement |
-| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/representation) | Representation |
-| [applied_load](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/applied_load) | AppliedLoad |
-| [global_or_local](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/global_or_local) | GlobalOrLocal |
-| [assigned_to_structural_item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/assigned_to_structural_item) | AssignedToStructuralItem |
-| [destabilizing_load](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/destabilizing_load) | DestabilizingLoad |
-| [caused_by](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/caused_by) | CausedBy |
-| [projected_or_true](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/projected_or_true) | ProjectedOrTrue |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/object_type) |  |
+| [object_placement](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/object_placement) |  |
+| [representation](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/representation) |  |
+| [applied_load](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/applied_load) |  |
+| [global_or_local](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/global_or_local) |  |
+| [assigned_to_structural_item](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/assigned_to_structural_item) |  |
+| [destabilizing_load](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/destabilizing_load) |  |
+| [caused_by](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/caused_by) |  |
+| [projected_or_true](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/projected_or_true) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition)
 * class [`IfcProduct`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct)

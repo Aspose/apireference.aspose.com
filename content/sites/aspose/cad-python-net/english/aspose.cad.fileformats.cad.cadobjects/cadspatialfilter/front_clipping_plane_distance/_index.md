@@ -3,8 +3,8 @@ title: front_clipping_plane_distance property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/front_clipping_plane_distance/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/front_clipping_plane_distance/
 is_root: false
 ---
 

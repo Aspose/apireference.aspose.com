@@ -3,8 +3,8 @@ title: transformation_matrices property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/transformation_matrices/
+weight: 260
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/transformation_matrices/
 is_root: false
 ---
 

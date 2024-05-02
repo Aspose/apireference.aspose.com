@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 380
-url: /aspose.cad/rastercachedimage/set_argb_32_pixel/
+url: /python-net/aspose.cad/rastercachedimage/set_argb_32_pixel/
 is_root: false
 ---
 

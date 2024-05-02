@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 830
-url: /aspose.cad/color/lemon_chiffon/
+url: /python-net/aspose.cad/color/lemon_chiffon/
 is_root: false
 ---
 

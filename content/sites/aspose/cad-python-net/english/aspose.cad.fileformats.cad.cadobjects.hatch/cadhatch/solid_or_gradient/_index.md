@@ -3,8 +3,8 @@ title: solid_or_gradient property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 660
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/solid_or_gradient/
+weight: 730
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/solid_or_gradient/
 is_root: false
 ---
 

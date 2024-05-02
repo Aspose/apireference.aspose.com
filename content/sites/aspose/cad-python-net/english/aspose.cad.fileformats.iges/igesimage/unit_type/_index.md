@@ -3,8 +3,8 @@ title: unit_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /aspose.cad.fileformats.iges/igesimage/unit_type/
+weight: 220
+url: /python-net/aspose.cad.fileformats.iges/igesimage/unit_type/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets current unit type.
+
+### Example 
+
+
+Normalize export page size despite of unit type defined on drawing
 ### Definition:
 ```python
 @property

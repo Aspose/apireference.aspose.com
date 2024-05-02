@@ -3,15 +3,13 @@ title: line_height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/line_height/
+weight: 70
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/line_height/
 is_root: false
 ---
 
 ## line_height property
 
-
-LineHeight
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6460
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ IfcWindowLiningProperties
 [`IfcPropertySetDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition) → 
 [`IfcPropertyDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,26 +33,28 @@ The IfcWindowLiningProperties type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/description) | Description |
-| [lining_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/lining_depth) | LiningDepth |
-| [lining_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/lining_thickness) | LiningThickness |
-| [transom_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/transom_thickness) | TransomThickness |
-| [mullion_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/mullion_thickness) | MullionThickness |
-| [first_transom_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/first_transom_offset) | FirstTransomOffset |
-| [second_transom_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_transom_offset) | SecondTransomOffset |
-| [first_mullion_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/first_mullion_offset) | FirstMullionOffset |
-| [second_mullion_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_mullion_offset) | SecondMullionOffset |
-| [shape_aspect_style](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/shape_aspect_style) | ShapeAspectStyle |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/description) |  |
+| [lining_depth](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/lining_depth) |  |
+| [lining_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/lining_thickness) |  |
+| [transom_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/transom_thickness) |  |
+| [mullion_thickness](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/mullion_thickness) |  |
+| [first_transom_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/first_transom_offset) |  |
+| [second_transom_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_transom_offset) |  |
+| [first_mullion_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/first_mullion_offset) |  |
+| [second_mullion_offset](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/second_mullion_offset) |  |
+| [shape_aspect_style](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/shape_aspect_style) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcPropertyDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition)
 * class [`IfcPropertySetDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition)
 * class [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot)

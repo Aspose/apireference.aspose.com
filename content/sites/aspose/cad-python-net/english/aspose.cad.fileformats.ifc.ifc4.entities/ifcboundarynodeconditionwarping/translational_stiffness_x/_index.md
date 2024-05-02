@@ -3,15 +3,13 @@ title: translational_stiffness_x property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodeconditionwarping/translational_stiffness_x/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodeconditionwarping/translational_stiffness_x/
 is_root: false
 ---
 
 ## translational_stiffness_x property
 
-
-TranslationalStiffnessX
 ### Definition:
 ```python
 @property

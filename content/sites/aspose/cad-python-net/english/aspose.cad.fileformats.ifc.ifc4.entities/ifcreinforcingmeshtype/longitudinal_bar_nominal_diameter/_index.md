@@ -3,15 +3,13 @@ title: longitudinal_bar_nominal_diameter property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinal_bar_nominal_diameter/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinal_bar_nominal_diameter/
 is_root: false
 ---
 
 ## longitudinal_bar_nominal_diameter property
 
-
-LongitudinalBarNominalDiameter
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: palette property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.imageoptions/svgoptions/palette/
+weight: 80
+url: /python-net/aspose.cad.imageoptions/svgoptions/palette/
 is_root: false
 ---
 

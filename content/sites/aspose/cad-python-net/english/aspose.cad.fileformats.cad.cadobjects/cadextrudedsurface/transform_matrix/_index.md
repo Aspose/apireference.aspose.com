@@ -3,8 +3,8 @@ title: transform_matrix property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 590
-url: /aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/transform_matrix/
+weight: 660
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/transform_matrix/
 is_root: false
 ---
 

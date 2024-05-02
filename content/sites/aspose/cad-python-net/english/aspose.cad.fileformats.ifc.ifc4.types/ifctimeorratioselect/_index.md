@@ -3,8 +3,8 @@ title: IfcTimeOrRatioSelect class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1760
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctimeorratioselect/
+weight: 1770
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctimeorratioselect/
 is_root: false
 ---
 

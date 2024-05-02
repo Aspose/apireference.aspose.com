@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.cad.fileformats.stp.items/stepbsplinesurface/
+url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinesurface/
 is_root: false
 ---
 
@@ -35,6 +35,7 @@ The StepBsplineSurface type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinesurface/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinesurface/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinesurface/id) |  |
 | [control_points_list](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinesurface/control_points_list) |  |
 | [bspline_surface](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinesurface/bspline_surface) |  |
 | [knot_spec](/cad/python-net/aspose.cad.fileformats.stp.items/stepbsplinesurface/knot_spec) |  |

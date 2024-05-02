@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 2860
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifcsanitaryterminaltypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsanitaryterminaltypeenum/
 is_root: false
 ---
 
@@ -19,18 +19,18 @@ The IfcSanitaryTerminalTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BATH | BATH |
-| BIDET | BIDET |
-| CISTERN | CISTERN |
-| SHOWER | SHOWER |
-| SINK | SINK |
-| SANITARYFOUNTAIN | SANITARYFOUNTAIN |
-| TOILETPAN | TOILETPAN |
-| URINAL | URINAL |
-| WASHHANDBASIN | WASHHANDBASIN |
-| WCSEAT | WCSEAT |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| BATH |  |
+| BIDET |  |
+| CISTERN |  |
+| SHOWER |  |
+| SINK |  |
+| SANITARYFOUNTAIN |  |
+| TOILETPAN |  |
+| URINAL |  |
+| WASHHANDBASIN |  |
+| WCSEAT |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

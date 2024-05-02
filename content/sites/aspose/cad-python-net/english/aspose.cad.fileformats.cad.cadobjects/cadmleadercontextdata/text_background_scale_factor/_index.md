@@ -3,8 +3,8 @@ title: text_background_scale_factor property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 600
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_background_scale_factor/
+weight: 690
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_background_scale_factor/
 is_root: false
 ---
 

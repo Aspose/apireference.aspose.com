@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.imagefilters.filteroptions/motionwienerfilteroptions/grayscale/
+url: /python-net/aspose.cad.imagefilters.filteroptions/motionwienerfilteroptions/grayscale/
 is_root: false
 ---
 

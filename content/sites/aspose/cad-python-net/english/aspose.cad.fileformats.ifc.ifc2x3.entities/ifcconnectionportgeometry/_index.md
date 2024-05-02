@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1050
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcConnectionPortGeometry
 
 **Inheritance:** [`IfcConnectionPortGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry) → 
 [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectiongeometry) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,10 +31,12 @@ The IfcConnectionPortGeometry type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/entity_label) | Gets the entity label. |
-| [location_at_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/location_at_relating_element) | LocationAtRelatingElement |
-| [location_at_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/location_at_related_element) | LocationAtRelatedElement |
-| [profile_of_port](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/profile_of_port) | ProfileOfPort |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [location_at_relating_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/location_at_relating_element) |  |
+| [location_at_related_element](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/location_at_related_element) |  |
+| [profile_of_port](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/profile_of_port) |  |
 
 
 
@@ -42,4 +44,4 @@ The IfcConnectionPortGeometry type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
 * class [`IfcConnectionGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectiongeometry)
 * class [`IfcConnectionPortGeometry`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)

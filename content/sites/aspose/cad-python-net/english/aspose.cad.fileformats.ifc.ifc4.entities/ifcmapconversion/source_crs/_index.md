@@ -3,15 +3,13 @@ title: source_crs property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/source_crs/
+weight: 100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/source_crs/
 is_root: false
 ---
 
 ## source_crs property
 
-
-SourceCRS
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: TiffOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /aspose.cad.imageoptions/tiffoptions/
+weight: 420
+url: /python-net/aspose.cad.imageoptions/tiffoptions/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ Note that many options return a default value but that does not mean that this o
 
 
 **Inheritance:** [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) → 
-[`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+[`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 
 
 
@@ -28,6 +28,7 @@ The TiffOptions type exposes the following members:
 | :- | :- |
 | [__init__](/cad/python-net/aspose.cad.imageoptions/tiffoptions/__init__/#aspose.cad.fileformats.tiff.enums.TiffExpectedFormat-aspose.cad.fileformats.tiff.enums.TiffByteOrder) | Initializes a new instance of the [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) class. |
 | [__init__](/cad/python-net/aspose.cad.imageoptions/tiffoptions/__init__/#aspose.cad.fileformats.tiff.enums.TiffExpectedFormat) | Initializes a new instance of the [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) class. By default little endian convention is used. |
+| [__init__](/cad/python-net/aspose.cad.imageoptions/tiffoptions/__init__/#) | Initializes a new instance of the [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) class.<br/>By default little endian convention is used. No compression. Rgb profile |
 | [__init__](/cad/python-net/aspose.cad.imageoptions/tiffoptions/__init__/#aspose.cad.imageoptions.TiffOptions) | Initializes a new instance of the [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) class. |
 | [__init__](/cad/python-net/aspose.cad.imageoptions/tiffoptions/__init__/#list) | Initializes a new instance of the [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) class. |
 
@@ -43,8 +44,10 @@ The TiffOptions type exposes the following members:
 | [palette](/cad/python-net/aspose.cad.imageoptions/tiffoptions/palette) | Gets or sets the color palette. |
 | [resolution_settings](/cad/python-net/aspose.cad.imageoptions/tiffoptions/resolution_settings) | Gets or sets the resolution settings. |
 | [vector_rasterization_options](/cad/python-net/aspose.cad.imageoptions/tiffoptions/vector_rasterization_options) | Gets or sets the vector rasterization options. |
+| [watermark_guard_options](/cad/python-net/aspose.cad.imageoptions/tiffoptions/watermark_guard_options) | Gets or sets the blind watermark options. |
 | [timeout](/cad/python-net/aspose.cad.imageoptions/tiffoptions/timeout) | Timeout value for export operation (in milliseconds) |
 | [pc_3_file](/cad/python-net/aspose.cad.imageoptions/tiffoptions/pc_3_file) | Gets or sets the PC3 file full name. |
+| [render_to_graphics_bound](/cad/python-net/aspose.cad.imageoptions/tiffoptions/render_to_graphics_bound) | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [user_watermark_text](/cad/python-net/aspose.cad.imageoptions/tiffoptions/user_watermark_text) | Text for user-generated watermark |
 | [user_watermark_color](/cad/python-net/aspose.cad.imageoptions/tiffoptions/user_watermark_color) | Color for user-generated watermark |
 | [is_valid](/cad/python-net/aspose.cad.imageoptions/tiffoptions/is_valid) | Gets a value indicating whether the [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions) have been properly configured. Use Validate method as to find the failure reason. |
@@ -112,5 +115,5 @@ The TiffOptions type exposes the following members:
 
 ### See Also
 * module [`aspose.cad.imageoptions`](..)
-* class [`ImageOptionsBase`](/cad/python-net/aspose.cad/imageoptionsbase)
+* class [`ImageOptionsBase`](/cad/python-net/aspose.cad.imageoptions/imageoptionsbase)
 * class [`TiffOptions`](/cad/python-net/aspose.cad.imageoptions/tiffoptions)

@@ -3,8 +3,8 @@ title: view_label_attachment property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 490
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_label_attachment/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_label_attachment/
 is_root: false
 ---
 

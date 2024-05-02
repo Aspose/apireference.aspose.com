@@ -3,8 +3,8 @@ title: current_style_sheet property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/current_style_sheet/
+weight: 100
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/current_style_sheet/
 is_root: false
 ---
 

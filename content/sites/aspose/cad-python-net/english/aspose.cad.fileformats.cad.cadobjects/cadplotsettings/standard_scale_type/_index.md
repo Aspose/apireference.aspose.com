@@ -3,8 +3,8 @@ title: standard_scale_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standard_scale_type/
+weight: 390
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/standard_scale_type/
 is_root: false
 ---
 

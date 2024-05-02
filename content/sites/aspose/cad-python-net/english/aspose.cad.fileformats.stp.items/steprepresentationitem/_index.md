@@ -3,8 +3,8 @@ title: StepRepresentationItem class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.stp.items/steprepresentationitem/
+weight: 570
+url: /python-net/aspose.cad.fileformats.stp.items/steprepresentationitem/
 is_root: false
 ---
 
@@ -21,6 +21,7 @@ The StepRepresentationItem type exposes the following members:
 | :- | :- |
 | [item_type](/cad/python-net/aspose.cad.fileformats.stp.items/steprepresentationitem/item_type) |  |
 | [name](/cad/python-net/aspose.cad.fileformats.stp.items/steprepresentationitem/name) |  |
+| [id](/cad/python-net/aspose.cad.fileformats.stp.items/steprepresentationitem/id) |  |
 
 
 

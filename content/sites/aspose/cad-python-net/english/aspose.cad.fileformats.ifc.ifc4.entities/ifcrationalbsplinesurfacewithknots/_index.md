@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5010
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/
 is_root: false
 ---
 
@@ -21,7 +21,7 @@ IfcRationalBSplineSurfaceWithKnots
 [`IfcSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurface) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -36,14 +36,16 @@ The IfcRationalBSplineSurfaceWithKnots type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/entity_label) | Gets the entity label. |
-| [u_degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/u_degree) | UDegree |
-| [v_degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/v_degree) | VDegree |
-| [surface_form](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/surface_form) | SurfaceForm |
-| [u_closed](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/u_closed) | UClosed |
-| [v_closed](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/v_closed) | VClosed |
-| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/self_intersect) | SelfIntersect |
-| [knot_spec](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/knot_spec) | KnotSpec |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [u_degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/u_degree) |  |
+| [v_degree](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/v_degree) |  |
+| [surface_form](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/surface_form) |  |
+| [u_closed](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/u_closed) |  |
+| [v_closed](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/v_closed) |  |
+| [self_intersect](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/self_intersect) |  |
+| [knot_spec](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots/knot_spec) |  |
 
 
 
@@ -52,7 +54,7 @@ The IfcRationalBSplineSurfaceWithKnots type exposes the following members:
 * class [`IfcBSplineSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface)
 * class [`IfcBSplineSurfaceWithKnots`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots)
 * class [`IfcBoundedSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundedsurface)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRationalBSplineSurfaceWithKnots`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinesurfacewithknots)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

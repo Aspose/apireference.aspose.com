@@ -3,8 +3,8 @@ title: end_draft_magnitude property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/end_draft_magnitude/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/end_draft_magnitude/
 is_root: false
 ---
 

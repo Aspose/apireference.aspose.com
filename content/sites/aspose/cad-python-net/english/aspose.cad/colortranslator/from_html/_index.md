@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.cad/colortranslator/from_html/
+url: /python-net/aspose.cad/colortranslator/from_html/
 is_root: false
 ---
 

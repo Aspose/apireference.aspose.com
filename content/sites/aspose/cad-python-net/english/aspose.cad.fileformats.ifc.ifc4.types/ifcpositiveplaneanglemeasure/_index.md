@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1180
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveplaneanglemeasure/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveplaneanglemeasure/
 is_root: false
 ---
 
@@ -25,7 +25,7 @@ The IfcPositivePlaneAngleMeasure type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveplaneanglemeasure/value) | Gets or sets the value. |
+| [value](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveplaneanglemeasure/value) |  |
 
 
 

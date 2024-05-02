@@ -3,15 +3,13 @@ title: invisible_segment_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontpattern/invisible_segment_length/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontpattern/invisible_segment_length/
 is_root: false
 ---
 
 ## invisible_segment_length property
 
-
-InvisibleSegmentLength
 ### Definition:
 ```python
 @property

@@ -3,15 +3,13 @@ title: referenced_library property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/referenced_library/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/referenced_library/
 is_root: false
 ---
 
 ## referenced_library property
 
-
-ReferencedLibrary
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: start_width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/start_width/
+weight: 490
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/start_width/
 is_root: false
 ---
 

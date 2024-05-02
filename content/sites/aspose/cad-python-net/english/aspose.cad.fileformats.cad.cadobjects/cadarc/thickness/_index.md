@@ -3,8 +3,8 @@ title: thickness property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
-url: /aspose.cad.fileformats.cad.cadobjects/cadarc/thickness/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadarc/thickness/
 is_root: false
 ---
 

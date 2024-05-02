@@ -3,15 +3,13 @@ title: y_dim property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/y_dim/
+weight: 130
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/y_dim/
 is_root: false
 ---
 
 ## y_dim property
 
-
-YDim
 ### Definition:
 ```python
 @property

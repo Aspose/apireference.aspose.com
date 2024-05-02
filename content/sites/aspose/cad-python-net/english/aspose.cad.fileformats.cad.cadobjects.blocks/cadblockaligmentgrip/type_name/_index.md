@@ -3,8 +3,8 @@ title: type_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaligmentgrip/type_name/
+weight: 240
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaligmentgrip/type_name/
 is_root: false
 ---
 

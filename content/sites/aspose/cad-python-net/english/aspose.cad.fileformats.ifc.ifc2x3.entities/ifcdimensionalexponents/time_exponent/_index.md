@@ -3,15 +3,13 @@ title: time_exponent property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 100
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/time_exponent/
+weight: 120
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/time_exponent/
 is_root: false
 ---
 
 ## time_exponent property
 
-
-TimeExponent
 ### Definition:
 ```python
 @property

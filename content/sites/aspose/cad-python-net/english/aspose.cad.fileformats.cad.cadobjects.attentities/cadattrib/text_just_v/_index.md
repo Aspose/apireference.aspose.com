@@ -3,8 +3,8 @@ title: text_just_v property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 620
-url: /aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/text_just_v/
+weight: 690
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/text_just_v/
 is_root: false
 ---
 

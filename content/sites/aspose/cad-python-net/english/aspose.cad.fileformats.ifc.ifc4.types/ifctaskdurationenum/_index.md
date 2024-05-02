@@ -3,8 +3,8 @@ title: IfcTaskDurationEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3700
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifctaskdurationenum/
+weight: 3710
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifctaskdurationenum/
 is_root: false
 ---
 
@@ -19,9 +19,9 @@ The IfcTaskDurationEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ELAPSEDTIME | ELAPSEDTIME |
-| WORKTIME | WORKTIME |
-| NOTDEFINED | NOTDEFINED |
+| ELAPSEDTIME |  |
+| WORKTIME |  |
+| NOTDEFINED |  |
 
 
 

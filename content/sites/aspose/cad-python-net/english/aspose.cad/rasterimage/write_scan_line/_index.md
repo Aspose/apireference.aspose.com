@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 420
-url: /aspose.cad/rasterimage/write_scan_line/
+url: /python-net/aspose.cad/rasterimage/write_scan_line/
 is_root: false
 ---
 

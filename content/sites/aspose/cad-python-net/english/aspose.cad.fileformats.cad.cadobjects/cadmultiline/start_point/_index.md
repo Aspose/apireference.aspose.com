@@ -3,8 +3,8 @@ title: start_point property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
-url: /aspose.cad.fileformats.cad.cadobjects/cadmultiline/start_point/
+weight: 500
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/start_point/
 is_root: false
 ---
 

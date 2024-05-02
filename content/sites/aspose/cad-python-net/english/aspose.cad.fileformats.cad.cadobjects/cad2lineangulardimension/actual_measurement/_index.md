@@ -3,8 +3,8 @@ title: actual_measurement property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/actual_measurement/
+weight: 50
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/actual_measurement/
 is_root: false
 ---
 

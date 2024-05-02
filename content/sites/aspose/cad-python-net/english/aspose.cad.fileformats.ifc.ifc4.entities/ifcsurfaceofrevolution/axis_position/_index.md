@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceofrevolution/axis_position/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceofrevolution/axis_position/
 is_root: false
 ---
 
 ## axis_position property
 
-
-AxisPosition
 ### Definition:
 ```python
 @property

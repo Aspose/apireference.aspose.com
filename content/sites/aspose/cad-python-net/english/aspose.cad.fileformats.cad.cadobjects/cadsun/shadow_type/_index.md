@@ -3,8 +3,8 @@ title: shadow_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
-url: /aspose.cad.fileformats.cad.cadobjects/cadsun/shadow_type/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsun/shadow_type/
 is_root: false
 ---
 

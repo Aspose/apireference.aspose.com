@@ -3,15 +3,13 @@ title: units_in_context property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcproject/units_in_context/
+weight: 140
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproject/units_in_context/
 is_root: false
 ---
 
 ## units_in_context property
 
-
-UnitsInContext
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: plot_paper_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_paper_size/
+weight: 360
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadlayout/plot_paper_size/
 is_root: false
 ---
 

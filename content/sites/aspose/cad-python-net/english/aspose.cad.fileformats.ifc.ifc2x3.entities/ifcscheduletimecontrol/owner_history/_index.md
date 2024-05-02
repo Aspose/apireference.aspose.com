@@ -3,15 +3,13 @@ title: owner_history property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/owner_history/
+weight: 210
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/owner_history/
 is_root: false
 ---
 
 ## owner_history property
 
-
-OwnerHistory
 ### Definition:
 ```python
 @property

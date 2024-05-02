@@ -3,8 +3,8 @@ title: IfcElectricDistributionBoardTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2620
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcelectricdistributionboardtypeenum/
+weight: 2630
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricdistributionboardtypeenum/
 is_root: false
 ---
 
@@ -19,12 +19,12 @@ The IfcElectricDistributionBoardTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CONSUMERUNIT | CONSUMERUNIT |
-| DISTRIBUTIONBOARD | DISTRIBUTIONBOARD |
-| MOTORCONTROLCENTRE | MOTORCONTROLCENTRE |
-| SWITCHBOARD | SWITCHBOARD |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CONSUMERUNIT |  |
+| DISTRIBUTIONBOARD |  |
+| MOTORCONTROLCENTRE |  |
+| SWITCHBOARD |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

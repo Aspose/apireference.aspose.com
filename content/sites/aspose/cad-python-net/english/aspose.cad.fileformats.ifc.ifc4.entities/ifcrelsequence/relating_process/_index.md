@@ -3,15 +3,13 @@ title: relating_process property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrelsequence/relating_process/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelsequence/relating_process/
 is_root: false
 ---
 
 ## relating_process property
 
-
-RelatingProcess
 ### Definition:
 ```python
 @property

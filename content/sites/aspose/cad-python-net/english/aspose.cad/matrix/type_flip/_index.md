@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.cad/matrix/type_flip/
+url: /python-net/aspose.cad/matrix/type_flip/
 is_root: false
 ---
 

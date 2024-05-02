@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad/image/bounds/
+url: /python-net/aspose.cad/image/bounds/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the image bounds.
+
+### Example 
+
+
+Custom processing of a drawing depending on its bounds
 ### Definition:
 ```python
 @property

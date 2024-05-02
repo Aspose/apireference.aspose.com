@@ -3,8 +3,8 @@ title: hatch_pattern_type property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatch_pattern_type/
+weight: 340
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatch_pattern_type/
 is_root: false
 ---
 

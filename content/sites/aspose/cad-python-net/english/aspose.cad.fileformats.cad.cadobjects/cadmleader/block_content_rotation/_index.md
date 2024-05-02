@@ -3,8 +3,8 @@ title: block_content_rotation property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleader/block_content_rotation/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleader/block_content_rotation/
 is_root: false
 ---
 

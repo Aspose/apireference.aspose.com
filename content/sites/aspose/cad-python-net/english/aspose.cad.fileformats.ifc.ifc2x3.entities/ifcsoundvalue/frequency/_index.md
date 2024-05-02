@@ -3,15 +3,13 @@ title: frequency property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/frequency/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/frequency/
 is_root: false
 ---
 
 ## frequency property
 
-
-Frequency
 ### Definition:
 ```python
 @property

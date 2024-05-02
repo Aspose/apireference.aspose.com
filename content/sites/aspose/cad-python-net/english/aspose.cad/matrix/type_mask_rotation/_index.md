@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.cad/matrix/type_mask_rotation/
+url: /python-net/aspose.cad/matrix/type_mask_rotation/
 is_root: false
 ---
 

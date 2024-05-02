@@ -3,15 +3,13 @@ title: proportional_stress property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/proportional_stress/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/proportional_stress/
 is_root: false
 ---
 
 ## proportional_stress property
 
-
-ProportionalStress
 ### Definition:
 ```python
 @property

@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontstyle/is_underlined/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontstyle/is_underlined/
 is_root: false
 ---
 

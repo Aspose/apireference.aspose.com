@@ -3,15 +3,13 @@ title: repeat_s property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcimagetexture/repeat_s/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcimagetexture/repeat_s/
 is_root: false
 ---
 
 ## repeat_s property
 
-
-RepeatS
 ### Definition:
 ```python
 @property

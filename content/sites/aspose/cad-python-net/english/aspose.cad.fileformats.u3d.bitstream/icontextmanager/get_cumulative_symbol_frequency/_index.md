@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.fileformats.u3d.bitstream/icontextmanager/get_cumulative_symbol_frequency/
+url: /python-net/aspose.cad.fileformats.u3d.bitstream/icontextmanager/get_cumulative_symbol_frequency/
 is_root: false
 ---
 

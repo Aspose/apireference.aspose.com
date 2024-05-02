@@ -3,15 +3,13 @@ title: exchange_rate property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/exchange_rate/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/exchange_rate/
 is_root: false
 ---
 
 ## exchange_rate property
 
-
-ExchangeRate
 ### Definition:
 ```python
 @property

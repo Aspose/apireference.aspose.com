@@ -3,8 +3,8 @@ title: top_size property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
-url: /aspose.cad.fileformats.cad.cadobjects/cadplotsettings/top_size/
+weight: 420
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/top_size/
 is_root: false
 ---
 

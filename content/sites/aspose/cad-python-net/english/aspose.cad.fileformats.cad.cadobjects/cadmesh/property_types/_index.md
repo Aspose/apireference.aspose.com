@@ -3,8 +3,8 @@ title: property_types property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadobjects/cadmesh/property_types/
+weight: 430
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmesh/property_types/
 is_root: false
 ---
 

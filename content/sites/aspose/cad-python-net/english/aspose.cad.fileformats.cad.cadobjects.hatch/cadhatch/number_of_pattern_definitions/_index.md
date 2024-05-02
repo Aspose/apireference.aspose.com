@@ -3,8 +3,8 @@ title: number_of_pattern_definitions property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 470
-url: /aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/number_of_pattern_definitions/
+weight: 540
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/number_of_pattern_definitions/
 is_root: false
 ---
 

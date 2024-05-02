@@ -3,8 +3,8 @@ title: StringTrimming enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 820
-url: /aspose.cad/stringtrimming/
+weight: 900
+url: /python-net/aspose.cad/stringtrimming/
 is_root: false
 ---
 

@@ -3,15 +3,13 @@ title: importance_rating property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/importance_rating/
+weight: 90
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/importance_rating/
 is_root: false
 ---
 
 ## importance_rating property
 
-
-ImportanceRating
 ### Definition:
 ```python
 @property

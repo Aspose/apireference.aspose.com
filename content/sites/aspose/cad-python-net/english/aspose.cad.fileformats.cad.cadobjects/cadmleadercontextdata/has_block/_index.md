@@ -3,8 +3,8 @@ title: has_block property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/has_block/
+weight: 310
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/has_block/
 is_root: false
 ---
 

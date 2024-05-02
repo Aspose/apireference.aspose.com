@@ -3,15 +3,20 @@ title: x_dir_missing_flag property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/x_dir_missing_flag/
+weight: 580
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/x_dir_missing_flag/
 is_root: false
 ---
 
 ## x_dir_missing_flag property
 
 
-The XDirMissingFlag
+Gets or sets a value indicating that no XDictionary handle is stored for this entity.
+
+### Remarks 
+
+
+This flag is always false for [`CadAcadVersion.AC1015`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadacadversion#AC1015) and earlier versions.
 ### Definition:
 ```python
 @property

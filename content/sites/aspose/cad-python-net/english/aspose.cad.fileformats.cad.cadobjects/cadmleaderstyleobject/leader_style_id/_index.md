@@ -3,8 +3,8 @@ title: leader_style_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/leader_style_id/
+weight: 470
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/leader_style_id/
 is_root: false
 ---
 

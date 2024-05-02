@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1040
-url: /aspose.cad.exif/jpegexifdata/primary_chromaticities/
+url: /python-net/aspose.cad.exif/jpegexifdata/primary_chromaticities/
 is_root: false
 ---
 

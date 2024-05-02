@@ -3,14 +3,15 @@ title: RasterizationQualityValue enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.imageoptions/rasterizationqualityvalue/
+weight: 510
+url: /python-net/aspose.cad.imageoptions/rasterizationqualityvalue/
 is_root: false
 ---
 
 ## RasterizationQualityValue enumeration
 
-RasterizationQuality
+Copy of RasterizationQualityValue enum for use in Aspose.SVG for 
+avoiding of dependency from Aspose.CAD.ImageOptions namespace.
 
 
 

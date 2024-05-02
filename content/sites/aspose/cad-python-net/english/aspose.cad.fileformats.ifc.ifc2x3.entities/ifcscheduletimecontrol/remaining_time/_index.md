@@ -3,15 +3,13 @@ title: remaining_time property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/remaining_time/
+weight: 220
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/remaining_time/
 is_root: false
 ---
 
 ## remaining_time property
 
-
-RemainingTime
 ### Definition:
 ```python
 @property

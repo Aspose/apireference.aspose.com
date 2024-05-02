@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_tag/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axis_tag/
 is_root: false
 ---
 
 ## axis_tag property
 
-
-AxisTag
 ### Definition:
 ```python
 @property

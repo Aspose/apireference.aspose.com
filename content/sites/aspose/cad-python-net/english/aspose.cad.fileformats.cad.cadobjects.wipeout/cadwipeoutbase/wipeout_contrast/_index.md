@@ -3,8 +3,8 @@ title: wipeout_contrast property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/wipeout_contrast/
+weight: 610
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/wipeout_contrast/
 is_root: false
 ---
 

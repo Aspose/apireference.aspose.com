@@ -3,15 +3,13 @@ title: hatch_line_angle property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastylehatching/hatch_line_angle/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastylehatching/hatch_line_angle/
 is_root: false
 ---
 
 ## hatch_line_angle property
 
-
-HatchLineAngle
 ### Definition:
 ```python
 @property

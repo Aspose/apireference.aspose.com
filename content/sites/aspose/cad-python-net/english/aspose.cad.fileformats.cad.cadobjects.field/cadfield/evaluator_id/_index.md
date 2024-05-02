@@ -3,8 +3,8 @@ title: evaluator_id property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects.field/cadfield/evaluator_id/
+weight: 200
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/evaluator_id/
 is_root: false
 ---
 

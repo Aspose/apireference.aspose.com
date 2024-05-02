@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 4610
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcProjectOrder
 [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject) → 
 [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition) → 
 [`IfcRoot`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,23 +34,25 @@ The IfcProjectOrder type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/entity_label) | Gets the entity label. |
-| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/global_id) | GlobalId |
-| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/owner_history) | OwnerHistory |
-| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/name) | Name |
-| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/description) | Description |
-| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/object_type) | ObjectType |
-| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/identification) | Identification |
-| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/predefined_type) | PredefinedType |
-| [status](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/status) | Status |
-| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/long_description) | LongDescription |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [global_id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/global_id) |  |
+| [owner_history](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/owner_history) |  |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/name) |  |
+| [description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/description) |  |
+| [object_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/object_type) |  |
+| [identification](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/identification) |  |
+| [predefined_type](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/predefined_type) |  |
+| [status](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/status) |  |
+| [long_description](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/long_description) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcControl`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontrol)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcObject`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject)
 * class [`IfcObjectDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition)
 * class [`IfcProjectOrder`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder)

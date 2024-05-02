@@ -3,15 +3,13 @@ title: curve_width property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestyle/curve_width/
+weight: 60
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestyle/curve_width/
 is_root: false
 ---
 
 ## curve_width property
 
-
-CurveWidth
 ### Definition:
 ```python
 @property

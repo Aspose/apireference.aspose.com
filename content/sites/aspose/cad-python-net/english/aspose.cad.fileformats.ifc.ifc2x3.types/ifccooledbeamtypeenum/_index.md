@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 1950
-url: /aspose.cad.fileformats.ifc.ifc2x3.types/ifccooledbeamtypeenum/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccooledbeamtypeenum/
 is_root: false
 ---
 
@@ -19,10 +19,10 @@ The IfcCooledBeamTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ACTIVE | ACTIVE |
-| PASSIVE | PASSIVE |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| ACTIVE |  |
+| PASSIVE |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

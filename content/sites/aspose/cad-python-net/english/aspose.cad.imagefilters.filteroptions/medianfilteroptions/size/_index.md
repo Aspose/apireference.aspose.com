@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.cad.imagefilters.filteroptions/medianfilteroptions/size/
+url: /python-net/aspose.cad.imagefilters.filteroptions/medianfilteroptions/size/
 is_root: false
 ---
 

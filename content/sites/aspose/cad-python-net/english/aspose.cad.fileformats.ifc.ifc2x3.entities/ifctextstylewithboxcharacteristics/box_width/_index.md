@@ -4,14 +4,12 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_width/
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/box_width/
 is_root: false
 ---
 
 ## box_width property
 
-
-BoxWidth
 ### Definition:
 ```python
 @property

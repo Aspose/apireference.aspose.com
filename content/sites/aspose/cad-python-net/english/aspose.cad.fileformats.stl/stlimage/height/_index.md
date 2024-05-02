@@ -3,8 +3,8 @@ title: height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /aspose.cad.fileformats.stl/stlimage/height/
+weight: 180
+url: /python-net/aspose.cad.fileformats.stl/stlimage/height/
 is_root: false
 ---
 
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets the image height.
+
+### Example 
+
+
+Prints drawing's height
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: soft_frozen_layer_object property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
-url: /aspose.cad.fileformats.cad.cadtables/cadvporttableobject/soft_frozen_layer_object/
+weight: 430
+url: /python-net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/soft_frozen_layer_object/
 is_root: false
 ---
 

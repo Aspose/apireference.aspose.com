@@ -3,8 +3,8 @@ title: pointer_id_to_owner_block property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointer_id_to_owner_block/
+weight: 520
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointer_id_to_owner_block/
 is_root: false
 ---
 

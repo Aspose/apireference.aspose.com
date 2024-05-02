@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/section_geometry_settings_end_data_marker/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/section_geometry_settings_end_data_marker/
 is_root: false
 ---
 

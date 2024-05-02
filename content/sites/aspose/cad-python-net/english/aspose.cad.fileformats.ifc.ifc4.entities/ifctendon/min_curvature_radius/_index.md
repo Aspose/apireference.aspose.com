@@ -3,15 +3,13 @@ title: min_curvature_radius property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/min_curvature_radius/
+weight: 110
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/min_curvature_radius/
 is_root: false
 ---
 
 ## min_curvature_radius property
 
-
-MinCurvatureRadius
 ### Definition:
 ```python
 @property

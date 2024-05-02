@@ -3,8 +3,8 @@ title: points_2d property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /aspose.cad.fileformats.cad.cadobjects/cadunderlay/points_2d/
+weight: 430
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/points_2d/
 is_root: false
 ---
 

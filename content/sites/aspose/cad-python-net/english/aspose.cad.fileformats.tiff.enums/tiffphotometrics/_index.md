@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.cad.fileformats.tiff.enums/tiffphotometrics/
+url: /python-net/aspose.cad.fileformats.tiff.enums/tiffphotometrics/
 is_root: false
 ---
 

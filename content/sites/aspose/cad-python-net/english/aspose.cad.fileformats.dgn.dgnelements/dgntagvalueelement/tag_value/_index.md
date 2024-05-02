@@ -3,8 +3,8 @@ title: tag_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tag_value/
+weight: 90
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tag_value/
 is_root: false
 ---
 

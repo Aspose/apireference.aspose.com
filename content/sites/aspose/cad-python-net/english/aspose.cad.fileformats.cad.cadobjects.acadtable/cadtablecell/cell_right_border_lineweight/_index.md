@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_right_border_lineweight/
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cell_right_border_lineweight/
 is_root: false
 ---
 

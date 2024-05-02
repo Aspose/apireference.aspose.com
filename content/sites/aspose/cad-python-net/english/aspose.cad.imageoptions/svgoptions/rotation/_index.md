@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.imageoptions/svgoptions/rotation/
+url: /python-net/aspose.cad.imageoptions/svgoptions/rotation/
 is_root: false
 ---
 

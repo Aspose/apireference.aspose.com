@@ -3,8 +3,8 @@ title: face_point_indexes1 property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /aspose.cad.fileformats.cad.cadobjects/cadgeodata/face_point_indexes1/
+weight: 170
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/face_point_indexes1/
 is_root: false
 ---
 

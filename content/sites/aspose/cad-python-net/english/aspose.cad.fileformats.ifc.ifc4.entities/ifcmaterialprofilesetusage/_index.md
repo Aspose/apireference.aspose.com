@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 3690
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ IfcMaterialProfileSetUsage
 
 **Inheritance:** [`IfcMaterialProfileSetUsage`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage) → 
 [`IfcMaterialUsageDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -31,15 +31,17 @@ The IfcMaterialProfileSetUsage type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/entity_label) | Gets the entity label. |
-| [for_profile_set](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/for_profile_set) | ForProfileSet |
-| [cardinal_point](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/cardinal_point) | CardinalPoint |
-| [reference_extent](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/reference_extent) | ReferenceExtent |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [for_profile_set](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/for_profile_set) |  |
+| [cardinal_point](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/cardinal_point) |  |
+| [reference_extent](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/reference_extent) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcMaterialProfileSetUsage`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage)
 * class [`IfcMaterialUsageDefinition`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition)

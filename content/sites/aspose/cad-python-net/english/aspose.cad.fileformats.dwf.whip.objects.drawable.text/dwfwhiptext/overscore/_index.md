@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/overscore/
+url: /python-net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/overscore/
 is_root: false
 ---
 

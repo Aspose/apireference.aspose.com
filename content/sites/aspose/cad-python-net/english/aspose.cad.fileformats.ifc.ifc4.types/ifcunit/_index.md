@@ -3,8 +3,8 @@ title: IfcUnit class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 1820
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcunit/
+weight: 1830
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcunit/
 is_root: false
 ---
 

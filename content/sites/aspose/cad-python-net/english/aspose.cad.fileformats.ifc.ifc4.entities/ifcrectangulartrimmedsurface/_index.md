@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 5050
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcRectangularTrimmedSurface
 [`IfcSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurface) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,21 +34,23 @@ The IfcRectangularTrimmedSurface type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/entity_label) | Gets the entity label. |
-| [basis_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/basis_surface) | BasisSurface |
-| [u1](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/u1) | U1 |
-| [v1](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/v1) | V1 |
-| [u2](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/u2) | U2 |
-| [v2](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/v2) | V2 |
-| [usense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/usense) | Usense |
-| [vsense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/vsense) | Vsense |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [basis_surface](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/basis_surface) |  |
+| [u1](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/u1) |  |
+| [v1](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/v1) |  |
+| [u2](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/u2) |  |
+| [v2](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/v2) |  |
+| [usense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/usense) |  |
+| [vsense](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/vsense) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcBoundedSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundedsurface)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRectangularTrimmedSurface`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

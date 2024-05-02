@@ -3,15 +3,13 @@ title: velocity_single_value property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/velocity_single_value/
+weight: 210
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/velocity_single_value/
 is_root: false
 ---
 
 ## velocity_single_value property
 
-
-VelocitySingleValue
 ### Definition:
 ```python
 @property

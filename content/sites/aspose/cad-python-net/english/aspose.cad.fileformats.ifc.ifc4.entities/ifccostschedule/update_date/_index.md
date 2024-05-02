@@ -3,15 +3,13 @@ title: update_date property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccostschedule/update_date/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostschedule/update_date/
 is_root: false
 ---
 
 ## update_date property
 
-
-UpdateDate
 ### Definition:
 ```python
 @property

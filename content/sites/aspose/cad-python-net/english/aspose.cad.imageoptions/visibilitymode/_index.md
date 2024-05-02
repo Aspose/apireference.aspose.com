@@ -3,8 +3,8 @@ title: VisibilityMode enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
-url: /aspose.cad.imageoptions/visibilitymode/
+weight: 560
+url: /python-net/aspose.cad.imageoptions/visibilitymode/
 is_root: false
 ---
 

@@ -3,8 +3,8 @@ title: text_use_word_break property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 790
-url: /aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_use_word_break/
+weight: 880
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/text_use_word_break/
 is_root: false
 ---
 

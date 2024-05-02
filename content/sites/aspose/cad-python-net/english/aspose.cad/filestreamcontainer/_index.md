@@ -3,8 +3,8 @@ title: FileStreamContainer class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad/filestreamcontainer/
+weight: 150
+url: /python-net/aspose.cad/filestreamcontainer/
 is_root: false
 ---
 

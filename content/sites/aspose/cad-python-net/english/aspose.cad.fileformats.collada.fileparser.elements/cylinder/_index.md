@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.cad.fileformats.collada.fileparser.elements/cylinder/
+url: /python-net/aspose.cad.fileformats.collada.fileparser.elements/cylinder/
 is_root: false
 ---
 

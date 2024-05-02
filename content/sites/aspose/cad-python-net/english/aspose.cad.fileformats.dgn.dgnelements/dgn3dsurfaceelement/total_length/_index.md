@@ -3,8 +3,8 @@ title: total_length property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/total_length/
+weight: 130
+url: /python-net/aspose.cad.fileformats.dgn.dgnelements/dgn3dsurfaceelement/total_length/
 is_root: false
 ---
 

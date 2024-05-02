@@ -3,8 +3,8 @@ title: vertical_cell_margin property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 570
-url: /aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/vertical_cell_margin/
+weight: 680
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/vertical_cell_margin/
 is_root: false
 ---
 

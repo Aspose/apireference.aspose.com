@@ -3,8 +3,8 @@ title: refraction_map_file_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 820
-url: /aspose.cad.fileformats.cad.cadobjects/cadmaterial/refraction_map_file_name/
+weight: 910
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/refraction_map_file_name/
 is_root: false
 ---
 

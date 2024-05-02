@@ -3,8 +3,8 @@ title: layout_tab_name property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/layout_tab_name/
+weight: 310
+url: /python-net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/layout_tab_name/
 is_root: false
 ---
 

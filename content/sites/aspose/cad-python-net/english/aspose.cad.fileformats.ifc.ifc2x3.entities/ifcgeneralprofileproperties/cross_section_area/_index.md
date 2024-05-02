@@ -3,15 +3,13 @@ title: cross_section_area property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/cross_section_area/
+weight: 40
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/cross_section_area/
 is_root: false
 ---
 
 ## cross_section_area property
 
-
-CrossSectionArea
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: height property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /aspose.cad.fileformats.cad/cadimage/height/
+weight: 320
+url: /python-net/aspose.cad.fileformats.cad/cadimage/height/
 is_root: false
 ---
 

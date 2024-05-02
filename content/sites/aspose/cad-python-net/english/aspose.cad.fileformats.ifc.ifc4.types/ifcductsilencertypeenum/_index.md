@@ -3,8 +3,8 @@ title: IfcDuctSilencerTypeEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 2600
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcductsilencertypeenum/
+weight: 2610
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcductsilencertypeenum/
 is_root: false
 ---
 
@@ -19,11 +19,11 @@ The IfcDuctSilencerTypeEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| FLATOVAL | FLATOVAL |
-| RECTANGULAR | RECTANGULAR |
-| ROUND | ROUND |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| FLATOVAL |  |
+| RECTANGULAR |  |
+| ROUND |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

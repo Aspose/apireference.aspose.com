@@ -3,8 +3,8 @@ title: class_entities property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
-url: /aspose.cad.fileformats.cad/cadimage/class_entities/
+weight: 210
+url: /python-net/aspose.cad.fileformats.cad/cadimage/class_entities/
 is_root: false
 ---
 

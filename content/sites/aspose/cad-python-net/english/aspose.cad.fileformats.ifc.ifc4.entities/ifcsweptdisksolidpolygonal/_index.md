@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 6870
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/
 is_root: false
 ---
 
@@ -19,7 +19,7 @@ IfcSweptDiskSolidPolygonal
 [`IfcSolidModel`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolidmodel) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -34,19 +34,21 @@ The IfcSweptDiskSolidPolygonal type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/entity_label) | Gets the entity label. |
-| [directrix](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/directrix) | Directrix |
-| [radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/radius) | Radius |
-| [inner_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/inner_radius) | InnerRadius |
-| [start_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/start_param) | StartParam |
-| [end_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/end_param) | EndParam |
-| [fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/fillet_radius) | FilletRadius |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [directrix](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/directrix) |  |
+| [radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/radius) |  |
+| [inner_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/inner_radius) |  |
+| [start_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/start_param) |  |
+| [end_param](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/end_param) |  |
+| [fillet_radius](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/fillet_radius) |  |
 
 
 
 ### See Also
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)
 * class [`IfcSolidModel`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolidmodel)

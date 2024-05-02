@@ -3,15 +3,17 @@ title: dimatfit property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimatfit/
+weight: 250
+url: /python-net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimatfit/
 is_root: false
 ---
 
 ## dimatfit property
 
 
-Gets or sets The dimatfit - 289
+Gets or sets the mode for the arranging dimension text and arrows when there is not enough space.
+Possible values are: 0 (text and arrows will be outside extension lines), 1 (arrows will be moved first), 
+2 (text will be moved first), 3 (the best move of arrows or text will be applied).
 ### Definition:
 ```python
 @property

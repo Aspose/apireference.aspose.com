@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 820
-url: /aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ Partial IIfc entity class
 [`IfcCartesianTransformationOperator`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator) → 
 [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem) → 
 [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem) → 
-[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+[`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 
 
 
@@ -33,11 +33,13 @@ The IfcCartesianTransformationOperator2D type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/entity_label) | Gets the entity label. |
-| [axis1](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/axis1) | Axis1 |
-| [axis2](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/axis2) | Axis2 |
-| [local_origin](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/local_origin) | LocalOrigin |
-| [scale](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/scale) | Scale |
+| [id](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/id) | Gets the unique identifier of an object inside a drawing. |
+| [childs](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/childs) | Gets the collection of a nested entities. |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/entity_label) | Gets the entity label.<br/>Each entity has its label, which is unique and represents it in the file |
+| [axis1](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/axis1) |  |
+| [axis2](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/axis2) |  |
+| [local_origin](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/local_origin) |  |
+| [scale](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d/scale) |  |
 
 
 
@@ -45,6 +47,6 @@ The IfcCartesianTransformationOperator2D type exposes the following members:
 * module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
 * class [`IfcCartesianTransformationOperator`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator)
 * class [`IfcCartesianTransformationOperator2D`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator2d)
-* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcEntityBase`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentitybase)
 * class [`IfcGeometricRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationitem)
 * class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem)

@@ -3,15 +3,13 @@ title: skill_set property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifclaborresource/skill_set/
+weight: 150
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclaborresource/skill_set/
 is_root: false
 ---
 
 ## skill_set property
 
-
-SkillSet
 ### Definition:
 ```python
 @property

@@ -3,8 +3,8 @@ title: active_page property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /aspose.cad.fileformats.cad/dxfimage/active_page/
+weight: 140
+url: /python-net/aspose.cad.fileformats.cad/dxfimage/active_page/
 is_root: false
 ---
 

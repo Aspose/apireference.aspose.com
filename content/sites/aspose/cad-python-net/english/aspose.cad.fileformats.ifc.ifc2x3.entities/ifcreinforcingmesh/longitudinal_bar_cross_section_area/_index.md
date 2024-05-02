@@ -3,15 +3,13 @@ title: longitudinal_bar_cross_section_area property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_cross_section_area/
+weight: 80
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinal_bar_cross_section_area/
 is_root: false
 ---
 
 ## longitudinal_bar_cross_section_area property
 
-
-LongitudinalBarCrossSectionArea
 ### Definition:
 ```python
 @property

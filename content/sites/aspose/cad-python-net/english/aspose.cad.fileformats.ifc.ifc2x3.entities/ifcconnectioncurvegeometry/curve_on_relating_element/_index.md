@@ -3,15 +3,13 @@ title: curve_on_relating_element property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curve_on_relating_element/
+weight: 50
+url: /python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curve_on_relating_element/
 is_root: false
 ---
 
 ## curve_on_relating_element property
 
-
-CurveOnRelatingElement
 ### Definition:
 ```python
 @property

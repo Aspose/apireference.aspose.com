@@ -3,8 +3,8 @@ title: IfcObjectiveEnum enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 3090
-url: /aspose.cad.fileformats.ifc.ifc4.types/ifcobjectiveenum/
+weight: 3100
+url: /python-net/aspose.cad.fileformats.ifc.ifc4.types/ifcobjectiveenum/
 is_root: false
 ---
 
@@ -19,19 +19,19 @@ The IfcObjectiveEnum type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CODECOMPLIANCE | CODECOMPLIANCE |
-| CODEWAIVER | CODEWAIVER |
-| DESIGNINTENT | DESIGNINTENT |
-| EXTERNAL | EXTERNAL |
-| HEALTHANDSAFETY | HEALTHANDSAFETY |
-| MERGECONFLICT | MERGECONFLICT |
-| MODELVIEW | MODELVIEW |
-| PARAMETER | PARAMETER |
-| REQUIREMENT | REQUIREMENT |
-| SPECIFICATION | SPECIFICATION |
-| TRIGGERCONDITION | TRIGGERCONDITION |
-| USERDEFINED | USERDEFINED |
-| NOTDEFINED | NOTDEFINED |
+| CODECOMPLIANCE |  |
+| CODEWAIVER |  |
+| DESIGNINTENT |  |
+| EXTERNAL |  |
+| HEALTHANDSAFETY |  |
+| MERGECONFLICT |  |
+| MODELVIEW |  |
+| PARAMETER |  |
+| REQUIREMENT |  |
+| SPECIFICATION |  |
+| TRIGGERCONDITION |  |
+| USERDEFINED |  |
+| NOTDEFINED |  |
 
 
 

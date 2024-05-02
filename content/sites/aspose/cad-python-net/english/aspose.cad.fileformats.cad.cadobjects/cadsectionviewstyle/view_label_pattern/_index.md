@@ -3,8 +3,8 @@ title: view_label_pattern property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
-url: /aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_label_pattern/
+weight: 540
+url: /python-net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/view_label_pattern/
 is_root: false
 ---
 
