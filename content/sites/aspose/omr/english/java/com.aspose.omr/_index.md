@@ -47,6 +47,7 @@ The  **com.aspose.omr** package provides classes for creating and recognizing om
 
 | Enum | Description |
 | --- | --- |
+| [Alignment](../com.aspose.omr/alignment) |  |
 | [BubbleSize](../com.aspose.omr/bubblesize) |  |
 | [DrawingColor](../com.aspose.omr/drawingcolor) | Color used in template generation |
 | [FontStyle](../com.aspose.omr/fontstyle) |  |

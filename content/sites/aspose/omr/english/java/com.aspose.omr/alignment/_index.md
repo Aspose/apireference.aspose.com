@@ -1,29 +1,25 @@
 ---
-title: PaperSize
+title: Alignment
 second_title: Aspose.OMR for Java API Reference
-description: Supported Paper sizes
+description: 
 type: docs
-weight: 36
-url: /java/com.aspose.omr/papersize/
+weight: 32
+url: /java/com.aspose.omr/alignment/
 ---
 
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 ```
-public enum PaperSize extends Enum<PaperSize>
+public enum Alignment extends Enum<Alignment>
 ```
-
-Supported Paper sizes
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [A4](#A4) | A4 size(2480 x 3508 pixels) |
-| [Legal](#Legal) | Legal size(2551 x 4205 pixels) |
-| [Letter](#Letter) | Letter size(2551 x 3295 pixels) |
-| [Tabloid](#Tabloid) | Tabloid, 11" x 17" size(3295 x 5102) |
-| [p8519](#p8519) | 8.5" x 19" size(2551 x 5702) |
-| [p8521](#p8521) | 8.5 x 21" size(2551 x 6302) |
+| [Center](#Center) |  |
+| [Left](#Left) |  |
+| [Right](#Right) |  |
+| [undefined](#undefined) |  |
 ## Methods
 
 | Method | Description |
@@ -44,53 +40,29 @@ Supported Paper sizes
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### A4 {#A4}
+### Center {#Center}
 ```
-public static final PaperSize A4
-```
-
-
-A4 size(2480 x 3508 pixels)
-
-### Legal {#Legal}
-```
-public static final PaperSize Legal
+public static final Alignment Center
 ```
 
 
-Legal size(2551 x 4205 pixels)
-
-### Letter {#Letter}
+### Left {#Left}
 ```
-public static final PaperSize Letter
+public static final Alignment Left
 ```
 
 
-Letter size(2551 x 3295 pixels)
-
-### Tabloid {#Tabloid}
+### Right {#Right}
 ```
-public static final PaperSize Tabloid
+public static final Alignment Right
 ```
 
 
-Tabloid, 11" x 17" size(3295 x 5102)
-
-### p8519 {#p8519}
+### undefined {#undefined}
 ```
-public static final PaperSize p8519
+public static final Alignment undefined
 ```
 
-
-8.5" x 19" size(2551 x 5702)
-
-### p8521 {#p8521}
-```
-public static final PaperSize p8521
-```
-
-
-8.5 x 21" size(2551 x 6302)
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
 ```
@@ -216,7 +188,7 @@ public String toString()
 java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String-}
 ```
-public static PaperSize valueOf(String name)
+public static Alignment valueOf(String name)
 ```
 
 
@@ -228,17 +200,17 @@ public static PaperSize valueOf(String name)
 | name | java.lang.String |  |
 
 **Returns:**
-[PaperSize](../../com.aspose.omr/papersize)
+[Alignment](../../com.aspose.omr/alignment)
 ### values() {#values--}
 ```
-public static PaperSize[] values()
+public static Alignment[] values()
 ```
 
 
 
 
 **Returns:**
-com.aspose.omr.PaperSize[]
+com.aspose.omr.Alignment[]
 ### wait() {#wait--}
 ```
 public final void wait()
