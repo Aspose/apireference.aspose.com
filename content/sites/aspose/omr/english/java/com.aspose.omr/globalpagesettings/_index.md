@@ -25,6 +25,7 @@ The global settings applicable to all page elements.
 | --- | --- |
 | [BubbleColor](#BubbleColor) | Color for each bubble on the page |
 | [BubbleSize](#BubbleSize) |  |
+| [FontColor](#FontColor) | Color of all the text symbols Can be overridden by specifying color in the text element itself |
 | [FontFamily](#FontFamily) | The family of the Font |
 | [FontSize](#FontSize) | The size of the Font |
 | [FontStyle](#FontStyle) | The style of the Font |
@@ -61,6 +62,14 @@ Color for each bubble on the page
 public BubbleSize BubbleSize
 ```
 
+
+### FontColor {#FontColor}
+```
+public DrawingColor FontColor
+```
+
+
+Color of all the text symbols Can be overridden by specifying color in the text element itself
 
 ### FontFamily {#FontFamily}
 ```

@@ -3,7 +3,7 @@ title: BubbleSize
 second_title: Aspose.OMR for Java API Reference
 description: 
 type: docs
-weight: 32
+weight: 33
 url: /java/com.aspose.omr/bubblesize/
 ---
 

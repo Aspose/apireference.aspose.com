@@ -3,7 +3,7 @@ title: DrawingColor
 second_title: Aspose.OMR for Java API Reference
 description: Color used in template generation
 type: docs
-weight: 33
+weight: 34
 url: /java/com.aspose.omr/drawingcolor/
 ---
 
@@ -164,6 +164,7 @@ Color used in template generation
 | Method | Description |
 | --- | --- |
 | [<T>valueOf(Class<T> arg0, String arg1)](#-T-valueOf-java.lang.Class-T--java.lang.String-) |  |
+| [ToSystem(DrawingColor color)](#ToSystem-com.aspose.omr.DrawingColor-) |  |
 | [compareTo(E arg0)](#compareTo-E-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
@@ -1323,6 +1324,21 @@ public static T <T>valueOf(Class<T> arg0, String arg1)
 
 **Returns:**
 T
+### ToSystem(DrawingColor color) {#ToSystem-com.aspose.omr.DrawingColor-}
+```
+public static System.Drawing.Color ToSystem(DrawingColor color)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | [DrawingColor](../../com.aspose.omr/drawingcolor) |  |
+
+**Returns:**
+com.aspose.ms.System.Drawing.Color
 ### compareTo(E arg0) {#compareTo-E-}
 ```
 public final int compareTo(E arg0)

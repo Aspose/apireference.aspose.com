@@ -1,9 +1,9 @@
 ---
 title: FontStyle
 second_title: Aspose.OMR for Java API Reference
-description: Style of text used in font
+description: 
 type: docs
-weight: 34
+weight: 35
 url: /java/com.aspose.omr/fontstyle/
 ---
 
