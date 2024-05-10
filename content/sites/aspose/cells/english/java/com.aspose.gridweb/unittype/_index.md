@@ -22,16 +22,16 @@ Specifies the unit of measurement.
 
 | Field | Description |
 | --- | --- |
-| [CM](#CM) |  |
-| [EM](#EM) |  |
-| [EX](#EX) |  |
-| [INCH](#INCH) |  |
-| [MM](#MM) |  |
-| [PERCENTAGE](#PERCENTAGE) |  |
-| [PICA](#PICA) |  |
-| [PIXEL](#PIXEL) |  |
-| [POINT](#POINT) |  |
-| [Point](#Point) |  |
+| [CM](#CM) | A centimeter. |
+| [EM](#EM) | A unit of font width relative to its parent element's font. For example, if the font size of a phrase is 2em and it is within a paragraph whose font size is 10px, then the font size of the phrase is 20px. Refer to the World Wide Web Consortium Website for more information. |
+| [EX](#EX) | A unit of font height relative to its parent element's font. Refer to the World Wide Web Consortium Website for more information. |
+| [INCH](#INCH) | An inch. |
+| [MM](#MM) | A millimeter. |
+| [PERCENTAGE](#PERCENTAGE) | A percentage. |
+| [PICA](#PICA) | A pica. |
+| [PIXEL](#PIXEL) | A pixel. |
+| [POINT](#POINT) | A point. |
+| [Point](#Point) | Alias for POINT. |
 ## Methods
 
 | Method | Description |
@@ -57,11 +57,15 @@ public static int CM
 ```
 
 
+A centimeter.
+
 ### EM {#EM}
 ```
 public static int EM
 ```
 
+
+A unit of font width relative to its parent element's font. For example, if the font size of a phrase is 2em and it is within a paragraph whose font size is 10px, then the font size of the phrase is 20px. Refer to the World Wide Web Consortium Website for more information.
 
 ### EX {#EX}
 ```
@@ -69,11 +73,15 @@ public static int EX
 ```
 
 
+A unit of font height relative to its parent element's font. Refer to the World Wide Web Consortium Website for more information.
+
 ### INCH {#INCH}
 ```
 public static int INCH
 ```
 
+
+An inch.
 
 ### MM {#MM}
 ```
@@ -81,11 +89,15 @@ public static int MM
 ```
 
 
+A millimeter.
+
 ### PERCENTAGE {#PERCENTAGE}
 ```
 public static int PERCENTAGE
 ```
 
+
+A percentage.
 
 ### PICA {#PICA}
 ```
@@ -93,11 +105,15 @@ public static int PICA
 ```
 
 
+A pica.
+
 ### PIXEL {#PIXEL}
 ```
 public static int PIXEL
 ```
 
+
+A pixel.
 
 ### POINT {#POINT}
 ```
@@ -105,11 +121,15 @@ public static int POINT
 ```
 
 
+A point.
+
 ### Point {#Point}
 ```
 public static int Point
 ```
 
+
+Alias for POINT.
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
