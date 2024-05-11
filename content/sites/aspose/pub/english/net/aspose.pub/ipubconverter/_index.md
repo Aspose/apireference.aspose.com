@@ -18,7 +18,8 @@ public interface IPubConverter
 
 | Name | Description |
 | --- | --- |
-| [ConvertToFormat](../../aspose.pub/ipubconverter/converttoformat/)(Document, string, PubExportFormats) | Converts PUB document into format specified and saves result to file located at the *fileName*. |
+| [ConvertToFormat](../../aspose.pub/ipubconverter/converttoformat/#converttoformat)(Document, Stream, PubExportFormats) | Converts PUB document into format specified and saves result into stream passed. |
+| [ConvertToFormat](../../aspose.pub/ipubconverter/converttoformat/#converttoformat_1)(Document, string, PubExportFormats) | Converts PUB document into format specified and saves result to file located at the *fileName*. |
 
 ### See Also
 
