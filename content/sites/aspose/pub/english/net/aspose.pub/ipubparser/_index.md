@@ -1,0 +1,28 @@
+---
+title: Interface IPubParser
+second_title: Aspose.PUB for .NET API Reference
+description: Aspose.Pub.IPubParser interface. Declares functionality which parses publisher file and returns Document object as result of parsing
+type: docs
+weight: 140
+url: /net/aspose.pub/ipubparser/
+---
+## IPubParser interface
+
+Declares functionality which parses publisher file and returns [`Document`](../document/) object as result of parsing.
+
+```csharp
+public interface IPubParser
+```
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Parse](../../aspose.pub/ipubparser/parse/)() | Parses publisher file and returns [`Document`](../document/)object as result of parsing. |
+
+### See Also
+
+* namespace [Aspose.Pub](../../aspose.pub/)
+* assembly [Aspose.PUB](../../)
+
+

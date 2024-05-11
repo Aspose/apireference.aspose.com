@@ -1,0 +1,31 @@
+---
+title: Enum AlignmentType
+second_title: Aspose.PUB for .NET API Reference
+description: Aspose.Pub.AlignmentType enum. Type of alignment
+type: docs
+weight: 10
+url: /net/aspose.pub/alignmenttype/
+---
+## AlignmentType enumeration
+
+Type of alignment
+
+```csharp
+public enum AlignmentType : byte
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Left | `0` | Left alignment |
+| Right | `1` | Right alignment |
+| Center | `2` | Center alignment |
+| Justify | `6` | Justify alignment |
+
+### See Also
+
+* namespace [Aspose.Pub](../../aspose.pub/)
+* assembly [Aspose.PUB](../../)
+
+
