@@ -48,14 +48,25 @@ jobs:
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
         run:  npm install -D --save postcss-cli
-      - name: Cache Hugo resources - Markdown and HTML
-        id: cache-markdown-html
+      - name: Cache Hugo resources - Markdown
+        id: cache-markdown
         uses: actions/cache@v2
         with:
           path: |
             ~/.cache/hugo
             ./public
-          key: ${{ runner.os }}-hugo-md-html-${{ hashFiles('**/*.md', '**/*.html') }}
+          key: ${{ runner.os }}-hugo-md-${{ hashFiles('**/*.md') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+
+      - name: Cache Hugo resources - HTML
+        id: cache-html
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cache/hugo
+            ./public
+          key: ${{ runner.os }}-hugo-html-${{ hashFiles('**/*.html') }}
           restore-keys: |
             ${{ runner.os }}-hugo-
 
