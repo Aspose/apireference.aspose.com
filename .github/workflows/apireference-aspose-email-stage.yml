@@ -52,7 +52,7 @@ jobs:
         with:
           path: /home/runner/.cache/hugo_cache    # <-- with hugo version v0.116.0 and above
           # path: /tmp/hugo_cache                 # <-- with hugo version < v0.116.0
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum', timeout: 240) }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
       # Also specifies the theme we want to use
