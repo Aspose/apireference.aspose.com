@@ -48,7 +48,15 @@ jobs:
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
         run:  npm install -D --save postcss-cli
-
+      - name: Cache Hugo resources
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cache/hugo
+            ./public
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/*.md', '**/*.html', '**/*.js', '**/*.css') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/sites/aspose/email --environment staging --minify
