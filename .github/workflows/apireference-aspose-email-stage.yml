@@ -48,38 +48,13 @@ jobs:
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
         run:  npm install -D --save postcss-cli
-      - name: Cache Hugo resources - Markdown
-        id: cache-markdown
-        uses: actions/cache@v2
+      - uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/hugo
-            ./public
-          key: ${{ runner.os }}-hugo-md-${{ hashFiles('content/sites/aspose/email/**/*.md') }}
+          path: /home/runner/.cache/hugo_cache    # <-- with hugo version v0.116.0 and above
+          # path: /tmp/hugo_cache                 # <-- with hugo version < v0.116.0
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
-            ${{ runner.os }}-hugo-
-
-      - name: Cache Hugo resources - HTML
-        id: cache-html
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cache/hugo
-            ./public
-          key: ${{ runner.os }}-hugo-html-${{ hashFiles('**/*.html') }}
-          restore-keys: |
-            ${{ runner.os }}-hugo-
-
-      - name: Cache Hugo resources - JS and CSS
-        id: cache-js-css
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cache/hugo
-            ./public
-          key: ${{ runner.os }}-hugo-js-css-${{ hashFiles('**/*.js', '**/*.css') }}
-          restore-keys: |
-            ${{ runner.os }}-hugo-
+            ${{ runner.os }}-hugomod-
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/sites/aspose/email --environment staging --minify
