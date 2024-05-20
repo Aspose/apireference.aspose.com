@@ -55,7 +55,7 @@ jobs:
           path: |
             ~/.cache/hugo
             ./public
-          key: ${{ runner.os }}-hugo-md-${{ hashFiles('**/*.md') }}
+          key: ${{ runner.os }}-hugo-md-${{ hashFiles('content/sites/aspose/email/**/*.md') }}
           restore-keys: |
             ${{ runner.os }}-hugo-
 
