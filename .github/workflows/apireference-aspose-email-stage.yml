@@ -54,7 +54,7 @@ jobs:
           path: |
             ~/.cache/hugo
             ./public
-          key: ${{ runner.os }}-hugo-${{ hashFiles('**/*.md', '**/*.html', '**/*.js', '**/*.css') }}
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/*.md', '**/*.html') }}-${{ hashFiles('**/*.js', '**/*.css') }}
           restore-keys: |
             ${{ runner.os }}-hugo-
       # Also specifies the theme we want to use
