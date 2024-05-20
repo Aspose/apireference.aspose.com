@@ -20,8 +20,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
+    runs-on: macos-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -42,26 +41,15 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.125.0'
+          hugo-version: 0.101.0
           extended: true
-      - name: Debug go.sum files
-        run: |
-          find . -name 'go.sum' | xargs -I {} stat {}          
       - name: Install Dependicies1
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
         run:  npm install -D --save postcss-cli
-      - uses: actions/cache@v4
-        with:
-          path: /home/runner/.cache/hugo_cache    # <-- with hugo version v0.116.0 and above
-          # path: /tmp/hugo_cache                 # <-- with hugo version < v0.116.0
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
       # Also specifies the theme we want to use
       - name: Build
-        run: hugo --configDir config/sites/aspose/email --environment staging --minify
-        
+        run: hugo --configDir config/sites/aspose/email --environment staging --minify        
       - name: Deploy apireference2.aspose.com(email)(Stage) to S3
         run: hugo --configDir config/sites/aspose/email --environment staging deploy --target "Stage" --maxDeletes 0
         env:
