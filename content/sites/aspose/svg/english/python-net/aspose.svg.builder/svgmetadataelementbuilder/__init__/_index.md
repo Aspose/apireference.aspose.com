@@ -1,0 +1,28 @@
+﻿---
+title: SVGMetadataElementBuilder constructor
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.svg.builder/svgmetadataelementbuilder/__init__/
+is_root: false
+---
+
+## __init__ {#}
+
+Constructs a new instance of SVGMetadataElementBuilder
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [`aspose.svg.builder`](../../)
+* class [`SVGMetadataElementBuilder`](/svg/python-net/aspose.svg.builder/svgmetadataelementbuilder)
