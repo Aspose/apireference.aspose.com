@@ -4,7 +4,7 @@ second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.svg/configuration/get_service/
+url: /python-net/aspose.svg/configuration/get_service/
 is_root: false
 ---
 
@@ -28,4 +28,4 @@ def get_service(self, service_type):
 
 ### See Also
 * module [`aspose.svg`](../../)
-* class [`Configuration`](./aspose.svg/configuration)
+* class [`Configuration`](/svg/python-net/aspose.svg/configuration)

@@ -4,7 +4,7 @@ second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.svg/configuration/security/
+url: /python-net/aspose.svg/configuration/security/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def security(self, value):
 
 ### See Also
 * module [`aspose.svg`](../../)
-* class [`Configuration`](./aspose.svg/configuration)
-* class [`Sandbox`](./aspose.svg/sandbox)
+* class [`Configuration`](/svg/python-net/aspose.svg/configuration)
+* class [`Sandbox`](/svg/python-net/aspose.svg/sandbox)

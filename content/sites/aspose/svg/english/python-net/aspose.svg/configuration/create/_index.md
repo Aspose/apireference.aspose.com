@@ -4,7 +4,7 @@ second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.svg/configuration/create/
+url: /python-net/aspose.svg/configuration/create/
 is_root: false
 ---
 
@@ -30,4 +30,4 @@ def create(self):
 
 ### See Also
 * module [`aspose.svg`](../../)
-* class [`Configuration`](./aspose.svg/configuration)
+* class [`Configuration`](/svg/python-net/aspose.svg/configuration)
