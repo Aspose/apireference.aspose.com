@@ -1,0 +1,25 @@
+﻿---
+title: href property
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 630
+url: /aspose.svg/svgscriptelement/href/
+is_root: false
+---
+
+## href property
+
+
+Corresponds to attribute ‘xlink:href’ on the given element.
+### Definition:
+```python
+@property
+def href(self):
+    ...
+```
+
+### See Also
+* module [`aspose.svg`](../../)
+* class [`SVGAnimatedString`](./aspose.svg.datatypes/svganimatedstring)
+* class [`SVGScriptElement`](./aspose.svg/svgscriptelement)

@@ -1,0 +1,18 @@
+﻿---
+title: PATHSEG_CURVETO_QUADRATIC_REL property
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 120
+url: /aspose.svg.paths/svgpathseglinetoabs/pathseg_curveto_quadratic_rel/
+is_root: false
+---
+
+## PATHSEG_CURVETO_QUADRATIC_REL property
+
+
+Corresponds to a "relative quadratic Bézier curveto" (q) path data command.
+
+### See Also
+* module [`aspose.svg.paths`](../../)
+* class [`SVGPathSegLinetoAbs`](./aspose.svg.paths/svgpathseglinetoabs)

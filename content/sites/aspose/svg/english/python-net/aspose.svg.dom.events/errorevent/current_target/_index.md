@@ -1,0 +1,31 @@
+﻿---
+title: current_target property
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 150
+url: /aspose.svg.dom.events/errorevent/current_target/
+is_root: false
+---
+
+## current_target property
+
+
+Used to indicate the [`IEventTarget`](./aspose.svg.dom.events/ieventtarget) whose [`IEventListener`](./aspose.svg.dom.events/ieventlistener)s are currently being processed.
+This is particularly useful during capturing and bubbling.
+### Definition:
+```python
+@property
+def current_target(self):
+    ...
+@current_target.setter
+def current_target(self, value):
+    ...
+```
+
+### See Also
+* module [`aspose.svg.dom.events`](../../)
+* class [`ErrorEvent`](./aspose.svg.dom.events/errorevent)
+* class [`EventTarget`](./aspose.svg.dom/eventtarget)
+* class [`IEventListener`](./aspose.svg.dom.events/ieventlistener)
+* class [`IEventTarget`](./aspose.svg.dom.events/ieventtarget)

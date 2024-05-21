@@ -1,0 +1,18 @@
+﻿---
+title: DOCUMENT_FRAGMENT_NODE property
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 220
+url: /aspose.svg.dom/attr/document_fragment_node/
+is_root: false
+---
+
+## DOCUMENT_FRAGMENT_NODE property
+
+
+A document fragment node
+
+### See Also
+* module [`aspose.svg.dom`](../../)
+* class [`Attr`](./aspose.svg.dom/attr)
