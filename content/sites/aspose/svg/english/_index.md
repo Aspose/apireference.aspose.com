@@ -30,7 +30,7 @@ These are links to some useful resources:
 
 {{% alert color="primary" %}} 
 
-![Aspose.SVG for Python via .NET Product Logo](home_2.svg)
+![Aspose.SVG for Python via .NET Product Logo](home_2.png)
 
 The Aspose.SVG for Python via .NET API Reference is a powerful tool for Python developers to work with SVG documents programmatically. This API enables the creation, modification, and manipulation of SVG files, offering features for SVG generation, formatting, and transformation. It supports a wide range of tasks, from automating SVG workflows to performing complex SVG manipulations, with detailed documentation and code samples to guide developers.
 
