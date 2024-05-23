@@ -3,7 +3,7 @@ title: Interface IFileTerminal
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.IFileTerminal interface. Interface of terminals which actually are files
 type: docs
-weight: 160
+weight: 190
 url: /net/aspose.tex.io/ifileterminal/
 ---
 ## IFileTerminal interface

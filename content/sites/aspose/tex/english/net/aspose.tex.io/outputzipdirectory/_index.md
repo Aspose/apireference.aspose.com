@@ -3,7 +3,7 @@ title: Class OutputZipDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.OutputZipDirectory class. Implements the method for getting a file stream to write to when working directory is a ZIP archive
 type: docs
-weight: 300
+weight: 330
 url: /net/aspose.tex.io/outputzipdirectory/
 ---
 ## OutputZipDirectory class

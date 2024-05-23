@@ -3,7 +3,7 @@ title: Class PngMathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.PngMathRendererOptions class. Math formula PNG rendering options
 type: docs
-weight: 100
+weight: 130
 url: /net/aspose.tex.features/pngmathrendereroptions/
 ---
 ## PngMathRendererOptions class

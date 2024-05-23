@@ -3,7 +3,7 @@ title: Class MathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.MathRendererOptions class. Math formula common rendering options
 type: docs
-weight: 60
+weight: 90
 url: /net/aspose.tex.features/mathrendereroptions/
 ---
 ## MathRendererOptions class

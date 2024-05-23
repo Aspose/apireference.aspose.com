@@ -3,7 +3,7 @@ title: Interface IInputWorkingDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.IInputWorkingDirectory interface. Interface of generalized input working directory
 type: docs
-weight: 180
+weight: 210
 url: /net/aspose.tex.io/iinputworkingdirectory/
 ---
 ## IInputWorkingDirectory interface
