@@ -3,7 +3,7 @@ title: Class SvgFigureRendererPluginOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.SvgFigureRendererPluginOptions class. The Figure Renderer plugins options to render a LaTeX figure in SVG
 type: docs
-weight: 500
+weight: 530
 url: /net/aspose.tex.plugins/svgfigurerendererpluginoptions/
 ---
 ## SvgFigureRendererPluginOptions class

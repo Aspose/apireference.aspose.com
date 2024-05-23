@@ -3,7 +3,7 @@ title: Interface IFileCollector
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.IFileCollector interface. Defines methods for selecting collections of files
 type: docs
-weight: 150
+weight: 180
 url: /net/aspose.tex.io/ifilecollector/
 ---
 ## IFileCollector interface

@@ -3,7 +3,7 @@ title: Class Device
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Device class. Implements the interface for outputting text and graphic content to abstract device. Rendering is performed page by page
 type: docs
-weight: 520
+weight: 550
 url: /net/aspose.tex.presentation/device/
 ---
 ## Device class

@@ -3,7 +3,7 @@ title: Interface IPlugin
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.IPlugin interface. The general plugin interface
 type: docs
-weight: 400
+weight: 430
 url: /net/aspose.tex.plugins/iplugin/
 ---
 ## IPlugin interface

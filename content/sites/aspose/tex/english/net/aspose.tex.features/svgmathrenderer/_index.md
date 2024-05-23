@@ -3,7 +3,7 @@ title: Class SvgMathRenderer
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.SvgMathRenderer class. Implements rendering of math formula to SVG
 type: docs
-weight: 130
+weight: 160
 url: /net/aspose.tex.features/svgmathrenderer/
 ---
 ## SvgMathRenderer class

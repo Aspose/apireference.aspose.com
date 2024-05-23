@@ -3,7 +3,7 @@ title: Class PngFigureRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.PngFigureRendererOptions class. Options for rendering a LaTeX source code fragment to PNG
 type: docs
-weight: 80
+weight: 110
 url: /net/aspose.tex.features/pngfigurerendereroptions/
 ---
 ## PngFigureRendererOptions class

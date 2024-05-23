@@ -3,7 +3,7 @@ title: Class StreamDataSource
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.StreamDataSource class. The stream data source for plugins load and save operations
 type: docs
-weight: 480
+weight: 510
 url: /net/aspose.tex.plugins/streamdatasource/
 ---
 ## StreamDataSource class

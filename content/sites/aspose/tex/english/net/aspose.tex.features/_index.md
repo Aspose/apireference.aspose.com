@@ -14,6 +14,8 @@ The **Aspose.TeX.Features** namespace provides additional TeX(LaTeX) features.
 | --- | --- |
 | [FigureRenderer](./figurerenderer/) | Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page. |
 | [FigureRendererOptions](./figurerendereroptions/) | Common options for rendering a LaTeX source code fragment. |
+| [LaTeXRepairer](./latexrepairer/) | Implements LaTeX files repair feature. |
+| [LaTeXRepairerOptions](./latexrepaireroptions/) | The class to provide options to the LaTeX Repairer. |
 | [MathRenderer](./mathrenderer/) | Implements rendering of math formula. |
 | [MathRendererOptions](./mathrendereroptions/) | Math formula common rendering options. |
 | [PngFigureRenderer](./pngfigurerenderer/) | Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as a PNG image. |
@@ -28,6 +30,7 @@ The **Aspose.TeX.Features** namespace provides additional TeX(LaTeX) features.
 
 | Interface | Description |
 | --- | --- |
+| [IGuessPackageCallback](./iguesspackagecallback/) | Defines the interface for an external method to guess a required LaTeX package by command name. |
 | [IRasterRendererOptions](./irasterrendereroptions/) | The interface that defines properties of a raster image renderer. |
 
 
