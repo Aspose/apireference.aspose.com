@@ -42,7 +42,7 @@ async function configure_one_product() {
         .filter(f => f.stat.isDirectory())
         .map(f => f.name)
 
-    config.ignoreFiles = exclusion.map(i => `^${i}/`)
+    config.ignoreFiles = exclusion.map(i => `/${i}/`)
     config.one_product = process.env.CONFIGURE_ONE_PRODUCT
 }
 
