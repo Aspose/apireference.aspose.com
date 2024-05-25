@@ -43,6 +43,10 @@ async function configure_one_product() {
         .map(f => f.name)
 
     config.ignoreFiles = exclusion.map(i => `^${i}`)
+    if(process.env.CONFIGURE_ONE_PRODUCT == 'adapters')
+    {
+        config.ignoreFiles.push(`/((?!adapters/).)*$`)
+    }
     config.one_product = process.env.CONFIGURE_ONE_PRODUCT
 }
 
