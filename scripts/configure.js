@@ -33,7 +33,7 @@ async function configure_one_product() {
     }
 
     const exclusion = (await Promise.all((await fs.readdir(content_dir))
-        .filter(f => f !== process.env.CONFIGURE_ONE_PRODUCT && f !== 'adapters')
+        .filter(f => f !== process.env.CONFIGURE_ONE_PRODUCT)
         .map(async f => ({
             name: f,
             stat: await fs.stat(path.join(content_dir, f))
@@ -42,7 +42,7 @@ async function configure_one_product() {
         .filter(f => f.stat.isDirectory())
         .map(f => f.name)
 
-    config.ignoreFiles = exclusion.map(i => `/${i}/`)
+    config.ignoreFiles = exclusion.map(i => `^/${i}/`)
     config.one_product = process.env.CONFIGURE_ONE_PRODUCT
 }
 
