@@ -50,6 +50,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [GlyphStringId](../com.aspose.font/glyphstringid) | Represents string glyph id. |
 | [GlyphUInt32Id](../com.aspose.font/glyphuint32id) | Represents integer glyph id. |
 | [HelpersFactory](../com.aspose.font/helpersfactory) | Creates objects related to TtfHelpers namespace |
+| [IncorrectFontDataException](../com.aspose.font/incorrectfontdataexception) | Represents exceptions for cases when some values of Font object are invalid. |
 | [License](../com.aspose.font/license) | Provides methods to license the component. |
 | [LicenseFlags](../com.aspose.font/licenseflags) | Represents a helper wrapper for an embedding flags from 'OS/2' table (field fsType). |
 | [LicenseRestrictionException](../com.aspose.font/licenserestrictionexception) | Represents exception which can be thrown on attempt to execute functionality which is restricted in evaluation mode. |
@@ -65,7 +66,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [RenderingUtils](../com.aspose.font/renderingutils) | Provides utility methods for rendering. |
 | [SegmentPath](../com.aspose.font/segmentpath) | Represents rendering path. |
 | [StreamSource](../com.aspose.font/streamsource) | Defines a way to get a file stream when it is needed. |
-| [SvgConversionException](../com.aspose.font/svgconversionexception) | Represents Font conversion exception. |
+| [SvgConversionException](../com.aspose.font/svgconversionexception) | Represents Font conversion exception for SVG format. |
 | [TransformationMatrix](../com.aspose.font/transformationmatrix) | Represents 3x3 matrix | A B 0 | | C D 0 | | TX TY 1 |. |
 | [TtcFontFileDefinition](../com.aspose.font/ttcfontfiledefinition) | Represents file definition for TTC Font. |
 | [TtcFontSource](../com.aspose.font/ttcfontsource) | Represents TTC Font source. |

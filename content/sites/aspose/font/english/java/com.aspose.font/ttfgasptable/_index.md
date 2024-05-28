@@ -3,7 +3,7 @@ title: TtfGaspTable
 second_title: Aspose.Font for Java API Reference
 description: Represents gasp table of the TTF Font file.
 type: docs
-weight: 81
+weight: 82
 url: /java/com.aspose.font/ttfgasptable/
 ---
 **Inheritance:**

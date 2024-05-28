@@ -3,7 +3,7 @@ title: NameId
 second_title: Aspose.Font for Java API Reference
 description: Represents NameId enumeration.
 type: docs
-weight: 121
+weight: 122
 url: /java/com.aspose.font/nameid/
 ---
 **Inheritance:**
