@@ -3,7 +3,7 @@ title: IEncodingParameters
 second_title: Aspose.Font for Java API Reference
 description: Common interface to support encoding parameters.
 type: docs
-weight: 103
+weight: 104
 url: /java/com.aspose.font/iencodingparameters/
 ---```
 public interface IEncodingParameters

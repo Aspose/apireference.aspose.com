@@ -3,7 +3,7 @@ title: TtfPostTable
 second_title: Aspose.Font for Java API Reference
 description: Represents post table of the TTF font file
 type: docs
-weight: 91
+weight: 92
 url: /java/com.aspose.font/ttfposttable/
 ---
 **Inheritance:**
@@ -156,7 +156,7 @@ Gets glyph name by glyph index.
 | glyphIndex | long | Glyph index. |
 
 **Returns:**
-java.lang.String - Glyph name.
+java.lang.String - Glyph name. When no PostScript name information is provided for the glyphs in this font file, returns null.
 ### getGlyphIndex(String glyphName) {#getGlyphIndex-java.lang.String-}
 ```
 public long getGlyphIndex(String glyphName)
@@ -171,7 +171,7 @@ Gets glyph index by glyph name.
 | glyphName | java.lang.String | Glyph name. |
 
 **Returns:**
-long - Glyph index
+long - Glyph index. When no PostScript name information is provided for the glyphs in this font file, returns the index 0, which is the undefined glyph or ".notdef" glyph.
 ### getAllGlyphIndexesForGlyphName(String glyphName) {#getAllGlyphIndexesForGlyphName-java.lang.String-}
 ```
 public long[] getAllGlyphIndexesForGlyphName(String glyphName)

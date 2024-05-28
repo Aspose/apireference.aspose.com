@@ -3,7 +3,7 @@ title: TtfCMapFormat4Table
 second_title: Aspose.Font for Java API Reference
 description: Represents Format4 CMap subtable of the TTF Font file.
 type: docs
-weight: 69
+weight: 70
 url: /java/com.aspose.font/ttfcmapformat4table/
 ---
 **Inheritance:**

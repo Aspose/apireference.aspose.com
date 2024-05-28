@@ -3,7 +3,7 @@ title: LineTo
 second_title: Aspose.Font for Java API Reference
 description: Represents LineTo operation.
 type: docs
-weight: 49
+weight: 50
 url: /java/com.aspose.font/lineto/
 ---
 **Inheritance:**

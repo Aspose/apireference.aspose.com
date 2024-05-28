@@ -3,7 +3,7 @@ title: IFontSaver
 second_title: Aspose.Font for Java API Reference
 description: Defines an interface for Font save functionality.
 type: docs
-weight: 108
+weight: 109
 url: /java/com.aspose.font/ifontsaver/
 ---```
 public interface IFontSaver

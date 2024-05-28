@@ -1,9 +1,9 @@
 ---
 title: SvgConversionException
 second_title: Aspose.Font for Java API Reference
-description: Represents Font conversion exception.
+description: Represents Font conversion exception for SVG format.
 type: docs
-weight: 61
+weight: 62
 url: /java/com.aspose.font/svgconversionexception/
 ---
 **Inheritance:**
@@ -12,7 +12,7 @@ java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeExc
 public class SvgConversionException extends FontException
 ```
 
-Represents Font conversion exception. The exception can be thrown in case of errors during font conversion process.
+Represents Font conversion exception for SVG format. The exception can be thrown in case of errors during font conversion process.
 ## Constructors
 
 | Constructor | Description |
