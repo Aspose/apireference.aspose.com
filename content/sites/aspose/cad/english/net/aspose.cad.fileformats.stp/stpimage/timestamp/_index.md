@@ -3,7 +3,7 @@ title: StpImage.Timestamp
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.cad.fileformats.stp/stpimage/timestamp/
 ---
 ## StpImage.Timestamp property

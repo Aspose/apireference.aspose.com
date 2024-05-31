@@ -3,7 +3,7 @@ title: Class IfcNormalisedRatioMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcNormalisedRatioMeasure class. IfcNormalisedRatioMeasure
 type: docs
-weight: 20300
+weight: 20320
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcnormalisedratiomeasure/
 ---
 ## IfcNormalisedRatioMeasure class

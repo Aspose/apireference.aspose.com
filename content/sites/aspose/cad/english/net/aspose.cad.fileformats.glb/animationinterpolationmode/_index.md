@@ -3,7 +3,7 @@ title: Enum AnimationInterpolationMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AnimationInterpolationMode enum. Interpolation algorithm
 type: docs
-weight: 10200
+weight: 10220
 url: /net/aspose.cad.fileformats.glb/animationinterpolationmode/
 ---
 ## AnimationInterpolationMode enumeration

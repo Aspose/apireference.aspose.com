@@ -3,7 +3,7 @@ title: BitmapImage.LoadOptions
 second_title: Aspose.CAD for .NET API Reference
 description: BitmapImage property. Options this image was loaded with
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.cad.fileformats.bitmap/bitmapimage/loadoptions/
 ---
 ## BitmapImage.LoadOptions property

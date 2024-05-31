@@ -3,7 +3,7 @@ title: Class ShxCodePage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.SHX.ShxCodePage class. Represents pair of SHX file and corresponding code page
 type: docs
-weight: 34170
+weight: 34190
 url: /net/aspose.cad.fileformats.shx/shxcodepage/
 ---
 ## ShxCodePage class

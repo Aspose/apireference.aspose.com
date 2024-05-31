@@ -3,7 +3,7 @@ title: Enum IfcSensorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSensorTypeEnum enum. IfcSensorTypeEnum
 type: docs
-weight: 20890
+weight: 20910
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsensortypeenum/
 ---
 ## IfcSensorTypeEnum enumeration

@@ -3,7 +3,7 @@ title: Class EllipticalArcClose
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EllipticalArcClose class. Class4 ElementId19
 type: docs
-weight: 5590
+weight: 5600
 url: /net/aspose.cad.fileformats.cgm.commands/ellipticalarcclose/
 ---
 ## EllipticalArcClose class

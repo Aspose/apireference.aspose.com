@@ -3,7 +3,7 @@ title: Class ControlVertices
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ControlVertices class. The control vertices. It is used to describe the CVs of the spline
 type: docs
-weight: 7520
+weight: 7530
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/controlvertices/
 ---
 ## ControlVertices class

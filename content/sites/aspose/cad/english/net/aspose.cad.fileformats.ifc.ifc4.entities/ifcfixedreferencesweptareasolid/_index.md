@@ -3,7 +3,7 @@ title: Class IfcFixedReferenceSweptAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFixedReferenceSweptAreaSolid class. IfcFixedReferenceSweptAreaSolid
 type: docs
-weight: 24450
+weight: 24470
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/
 ---
 ## IfcFixedReferenceSweptAreaSolid class

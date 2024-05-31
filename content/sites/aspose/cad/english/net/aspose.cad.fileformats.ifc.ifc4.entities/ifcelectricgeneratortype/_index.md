@@ -3,7 +3,7 @@ title: Class IfcElectricGeneratorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcElectricGeneratorType class. IfcElectricGeneratorType
 type: docs
-weight: 23860
+weight: 23880
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelectricgeneratortype/
 ---
 ## IfcElectricGeneratorType class

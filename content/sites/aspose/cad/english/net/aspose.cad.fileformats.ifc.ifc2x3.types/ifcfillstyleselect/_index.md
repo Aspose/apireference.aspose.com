@@ -3,7 +3,7 @@ title: Class IfcFillStyleSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcFillStyleSelect class. IfcFillStyleSelect
 type: docs
-weight: 19550
+weight: 19570
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfillstyleselect/
 ---
 ## IfcFillStyleSelect class

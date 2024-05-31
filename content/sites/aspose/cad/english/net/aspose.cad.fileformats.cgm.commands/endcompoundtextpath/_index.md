@@ -3,7 +3,7 @@ title: Class EndCompoundTextPath
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EndCompoundTextPath class. 
 type: docs
-weight: 5620
+weight: 5630
 url: /net/aspose.cad.fileformats.cgm.commands/endcompoundtextpath/
 ---
 ## EndCompoundTextPath class

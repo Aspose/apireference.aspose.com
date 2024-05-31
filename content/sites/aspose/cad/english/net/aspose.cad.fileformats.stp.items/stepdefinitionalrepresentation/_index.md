@@ -3,7 +3,7 @@ title: Class StepDefinitionalRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepDefinitionalRepresentation class. DefinitionalRepresentation class for STP file
 type: docs
-weight: 34410
+weight: 34520
 url: /net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/
 ---
 ## StepDefinitionalRepresentation class

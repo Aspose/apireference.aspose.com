@@ -3,7 +3,7 @@ title: Class IfcTimeSeries
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTimeSeries class. IfcTimeSeries
 type: docs
-weight: 18030
+weight: 18050
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/
 ---
 ## IfcTimeSeries class

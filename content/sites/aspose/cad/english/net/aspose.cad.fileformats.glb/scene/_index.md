@@ -3,7 +3,7 @@ title: Class Scene
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scene class. The root nodes of a scene
 type: docs
-weight: 11250
+weight: 11270
 url: /net/aspose.cad.fileformats.glb/scene/
 ---
 ## Scene class

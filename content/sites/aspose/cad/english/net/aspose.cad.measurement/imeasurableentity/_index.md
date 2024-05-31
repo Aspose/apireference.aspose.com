@@ -3,7 +3,7 @@ title: Interface IMeasurableEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Measurement.IMeasurableEntity interface. Represents the measurable entity
 type: docs
-weight: 36680
+weight: 36970
 url: /net/aspose.cad.measurement/imeasurableentity/
 ---
 ## IMeasurableEntity interface

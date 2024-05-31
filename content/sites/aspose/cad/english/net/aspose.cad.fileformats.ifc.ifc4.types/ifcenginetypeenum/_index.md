@@ -3,7 +3,7 @@ title: Enum IfcEngineTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcEngineTypeEnum enum. IfcEngineTypeEnum
 type: docs
-weight: 30750
+weight: 30770
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcenginetypeenum/
 ---
 ## IfcEngineTypeEnum enumeration

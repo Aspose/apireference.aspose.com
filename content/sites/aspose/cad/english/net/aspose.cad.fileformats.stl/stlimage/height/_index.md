@@ -3,7 +3,7 @@ title: StlImage.Height
 second_title: Aspose.CAD for .NET API Reference
 description: StlImage property. Gets the image height
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.cad.fileformats.stl/stlimage/height/
 ---
 ## StlImage.Height property

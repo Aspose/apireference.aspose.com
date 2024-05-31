@@ -3,7 +3,7 @@ title: Class StepCircle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepCircle class. Circle class for STP file
 type: docs
-weight: 34340
+weight: 34420
 url: /net/aspose.cad.fileformats.stp.items/stepcircle/
 ---
 ## StepCircle class

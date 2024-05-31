@@ -3,7 +3,7 @@ title: Enum IfcKnotType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcKnotType enum. IfcKnotType
 type: docs
-weight: 31200
+weight: 31220
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcknottype/
 ---
 ## IfcKnotType enumeration

@@ -3,7 +3,7 @@ title: Class IfcEntityBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IfcEntityBase class. IfcEntity is a base abstract class for all IFC entities
 type: docs
-weight: 33520
+weight: 33540
 url: /net/aspose.cad.fileformats.ifc/ifcentitybase/
 ---
 ## IfcEntityBase class

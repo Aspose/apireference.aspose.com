@@ -3,7 +3,7 @@ title: Class IfcServiceLifeFactor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcServiceLifeFactor class. IfcServiceLifeFactor
 type: docs
-weight: 16990
+weight: 17010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcservicelifefactor/
 ---
 ## IfcServiceLifeFactor class

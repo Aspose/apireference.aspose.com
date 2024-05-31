@@ -3,7 +3,7 @@ title: Class IfcRelOverridesProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelOverridesProperties class. IfcRelOverridesProperties
 type: docs
-weight: 16680
+weight: 16700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreloverridesproperties/
 ---
 ## IfcRelOverridesProperties class

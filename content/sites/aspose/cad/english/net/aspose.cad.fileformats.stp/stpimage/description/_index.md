@@ -3,7 +3,7 @@ title: StpImage.Description
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.stp/stpimage/description/
 ---
 ## StpImage.Description property

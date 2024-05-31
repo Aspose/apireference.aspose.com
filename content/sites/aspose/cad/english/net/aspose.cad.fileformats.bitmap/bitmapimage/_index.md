@@ -3,7 +3,7 @@ title: Class BitmapImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Bitmap.BitmapImage class. Versatile class used for holding any raster data independently of format
 type: docs
-weight: 860
+weight: 800
 url: /net/aspose.cad.fileformats.bitmap/bitmapimage/
 ---
 ## BitmapImage class
@@ -14,12 +14,6 @@ Versatile class used for holding any raster data independently of format.
 public class BitmapImage : Image
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [BitmapImage](bitmapimage/)(int, int) |  |
-
 ## Properties
 
 | Name | Description |
@@ -28,7 +22,7 @@ public class BitmapImage : Image
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
 | virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
-| [Data](../../aspose.cad.fileformats.bitmap/bitmapimage/data/) { get; set; } |  |
+| [Data](../../aspose.cad.fileformats.bitmap/bitmapimage/data/) { get; } |  |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
 | virtual [Depth](../../aspose.cad/image/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
@@ -39,6 +33,7 @@ public class BitmapImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
 | virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.bitmap/bitmapimage/width/) { get; } | Gets the image width. |
 
 ## Methods

@@ -3,7 +3,7 @@ title: Class IfcElementQuantity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcElementQuantity class. IfcElementQuantity
 type: docs
-weight: 23960
+weight: 23980
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/
 ---
 ## IfcElementQuantity class

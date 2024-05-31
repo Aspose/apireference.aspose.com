@@ -3,7 +3,7 @@ title: Class IfcThermalMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcThermalMaterialProperties class. IfcThermalMaterialProperties
 type: docs
-weight: 18020
+weight: 18040
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/
 ---
 ## IfcThermalMaterialProperties class

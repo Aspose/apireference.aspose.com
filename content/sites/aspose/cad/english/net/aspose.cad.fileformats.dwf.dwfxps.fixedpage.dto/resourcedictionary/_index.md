@@ -3,7 +3,7 @@ title: Class ResourceDictionary
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.ResourceDictionary class. The resource dictionary. The FixedPage.Resources and Canvas.Resources property elements contain exactly one ResourceDictionary element. A resource dictionary contains resource definition element entries. Each resource definition has a key specified in the xKey attribute that is unique within the scope of the resource dictionary. The xKey attribute is included in the Resource Dictionary
 type: docs
-weight: 9490
+weight: 9510
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/
 ---
 ## ResourceDictionary class

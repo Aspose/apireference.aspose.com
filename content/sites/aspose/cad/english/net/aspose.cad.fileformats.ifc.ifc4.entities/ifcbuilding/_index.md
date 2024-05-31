@@ -3,7 +3,7 @@ title: Class IfcBuilding
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBuilding class. IfcBuilding
 type: docs
-weight: 22270
+weight: 22290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuilding/
 ---
 ## IfcBuilding class

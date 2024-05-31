@@ -3,7 +3,7 @@ title: Class IfcLShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 14750
+weight: 14770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclshapeprofiledef/
 ---
 ## IfcLShapeProfileDef class

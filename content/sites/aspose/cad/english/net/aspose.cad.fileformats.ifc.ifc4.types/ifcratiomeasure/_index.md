@@ -3,7 +3,7 @@ title: Class IfcRatioMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRatioMeasure class. IfcRatioMeasure
 type: docs
-weight: 32200
+weight: 32220
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcratiomeasure/
 ---
 ## IfcRatioMeasure class

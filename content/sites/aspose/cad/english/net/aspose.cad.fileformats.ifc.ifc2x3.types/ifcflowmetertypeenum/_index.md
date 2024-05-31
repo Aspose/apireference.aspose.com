@@ -3,7 +3,7 @@ title: Enum IfcFlowMeterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcFlowMeterTypeEnum enum. IfcFlowMeterTypeEnum
 type: docs
-weight: 19600
+weight: 19620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcflowmetertypeenum/
 ---
 ## IfcFlowMeterTypeEnum enumeration

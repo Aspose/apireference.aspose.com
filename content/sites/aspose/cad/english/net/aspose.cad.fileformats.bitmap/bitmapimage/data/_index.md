@@ -3,13 +3,13 @@ title: BitmapImage.Data
 second_title: Aspose.CAD for .NET API Reference
 description: BitmapImage property. 
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.cad.fileformats.bitmap/bitmapimage/data/
 ---
 ## BitmapImage.Data property
 
 ```csharp
-public int[] Data { get; set; }
+public int[] Data { get; }
 ```
 
 ### See Also

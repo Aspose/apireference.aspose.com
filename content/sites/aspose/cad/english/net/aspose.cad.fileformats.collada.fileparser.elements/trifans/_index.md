@@ -3,7 +3,7 @@ title: Class Trifans
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Trifans class. The TRIFANS. The TRIFANS element provides the information needed to bind vertex attributes together and then organize those vertices into connected triangles. Each triangle described by the mesh has three vertices. The first triangle is formed from first second and third vertices. Each subsequent triangle is formed from the current vertex reusing the first and the previous vertices
 type: docs
-weight: 8620
+weight: 8630
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/trifans/
 ---
 ## Trifans class

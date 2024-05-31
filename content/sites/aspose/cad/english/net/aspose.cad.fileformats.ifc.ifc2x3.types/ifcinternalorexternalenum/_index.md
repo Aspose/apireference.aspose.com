@@ -3,7 +3,7 @@ title: Enum IfcInternalOrExternalEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcInternalOrExternalEnum enum. IfcInternalOrExternalEnum
 type: docs
-weight: 19830
+weight: 19850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcinternalorexternalenum/
 ---
 ## IfcInternalOrExternalEnum enumeration

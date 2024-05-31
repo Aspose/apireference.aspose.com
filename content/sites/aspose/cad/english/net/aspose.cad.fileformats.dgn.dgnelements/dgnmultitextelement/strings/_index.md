@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/strings/
 Gets lines
 
 ```csharp
-public DgnTextElement[] Strings { get; }
+public List<DgnDrawableEntityBase> Strings { get; }
 ```
 
 ### See Also
 
-* class [DgnTextElement](../../dgntextelement/)
+* class [DgnDrawableEntityBase](../../dgndrawableentitybase/)
 * class [DgnMultiTextElement](../)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)

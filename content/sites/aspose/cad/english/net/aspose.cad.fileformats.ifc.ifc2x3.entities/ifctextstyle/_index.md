@@ -3,7 +3,7 @@ title: Class IfcTextStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextStyle class. Partial IIfc entity class
 type: docs
-weight: 17930
+weight: 17950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyle/
 ---
 ## IfcTextStyle class

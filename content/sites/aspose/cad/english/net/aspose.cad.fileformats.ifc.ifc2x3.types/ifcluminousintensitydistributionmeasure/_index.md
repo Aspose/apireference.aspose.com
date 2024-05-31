@@ -3,7 +3,7 @@ title: Class IfcLuminousIntensityDistributionMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcLuminousIntensityDistributionMeasure class. IfcLuminousIntensityDistributionMeasure
 type: docs
-weight: 20070
+weight: 20090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcluminousintensitydistributionmeasure/
 ---
 ## IfcLuminousIntensityDistributionMeasure class

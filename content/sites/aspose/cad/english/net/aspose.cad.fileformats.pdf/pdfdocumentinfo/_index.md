@@ -3,7 +3,7 @@ title: Class PdfDocumentInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Pdf.PdfDocumentInfo class. This class represents set of metadata for document description
 type: docs
-weight: 33880
+weight: 33900
 url: /net/aspose.cad.fileformats.pdf/pdfdocumentinfo/
 ---
 ## PdfDocumentInfo class

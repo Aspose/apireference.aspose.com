@@ -3,7 +3,7 @@ title: Class DwfWhipFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipFont class. Represents Font
 type: docs
-weight: 9940
+weight: 9960
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/
 ---
 ## DwfWhipFont class

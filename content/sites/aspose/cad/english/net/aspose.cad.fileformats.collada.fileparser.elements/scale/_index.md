@@ -3,7 +3,7 @@ title: Class Scale
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Scale class. The scale. The scale element contains a mathematical vector that represents the relative proportions of the X Y and Z axes of a coordinated system
 type: docs
-weight: 8340
+weight: 8350
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/scale/
 ---
 ## Scale class

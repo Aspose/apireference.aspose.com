@@ -3,7 +3,7 @@ title: Class TechniquePhong
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TechniquePhong class. The technique PHONG. Produces a shaded surface where the specular reflection is shaded according the PHONG BRDF approximation
 type: docs
-weight: 8570
+weight: 8580
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquephong/
 ---
 ## TechniquePhong class

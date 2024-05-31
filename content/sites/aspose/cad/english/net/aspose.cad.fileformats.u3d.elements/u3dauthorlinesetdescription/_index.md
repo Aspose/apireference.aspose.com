@@ -3,7 +3,7 @@ title: Class U3dAuthorLineSetDescription
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorLineSetDescription class. The author progressive line set description
 type: docs
-weight: 35580
+weight: 35840
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorlinesetdescription/
 ---
 ## U3dAuthorLineSetDescription class

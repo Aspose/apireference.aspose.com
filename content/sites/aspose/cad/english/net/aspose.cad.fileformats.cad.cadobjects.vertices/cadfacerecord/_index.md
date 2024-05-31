@@ -3,7 +3,7 @@ title: Class CadFaceRecord
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices.CadFaceRecord class. The Cad face record
 type: docs
-weight: 4080
+weight: 4090
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/
 ---
 ## CadFaceRecord class

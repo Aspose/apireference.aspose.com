@@ -3,7 +3,7 @@ title: Enum LineCap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.LineCap enum. The line cap. Specifies the appearance of line caps
 type: docs
-weight: 9370
+weight: 9390
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/linecap/
 ---
 ## LineCap enumeration

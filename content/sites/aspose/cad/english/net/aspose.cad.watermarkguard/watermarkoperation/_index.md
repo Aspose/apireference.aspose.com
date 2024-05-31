@@ -3,7 +3,7 @@ title: Enum WatermarkOperation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.WatermarkGuard.WatermarkOperation enum. The Watermark operation
 type: docs
-weight: 37150
+weight: 37440
 url: /net/aspose.cad.watermarkguard/watermarkoperation/
 ---
 ## WatermarkOperation enumeration

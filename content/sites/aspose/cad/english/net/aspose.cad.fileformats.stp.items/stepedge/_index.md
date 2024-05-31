@@ -3,7 +3,7 @@ title: Class StepEdge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepEdge class. Edge class for STP file
 type: docs
-weight: 34430
+weight: 34550
 url: /net/aspose.cad.fileformats.stp.items/stepedge/
 ---
 ## StepEdge class

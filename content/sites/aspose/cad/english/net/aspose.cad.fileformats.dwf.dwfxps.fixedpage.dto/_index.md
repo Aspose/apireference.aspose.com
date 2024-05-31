@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of FixedPage DTO model
 type: docs
-weight: 590
+weight: 600
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/
 ---
 The namespace contains entities of FixedPage DTO model.

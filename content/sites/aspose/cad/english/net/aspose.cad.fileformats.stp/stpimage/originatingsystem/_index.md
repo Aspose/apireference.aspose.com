@@ -3,7 +3,7 @@ title: StpImage.OriginatingSystem
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.fileformats.stp/stpimage/originatingsystem/
 ---
 ## StpImage.OriginatingSystem property

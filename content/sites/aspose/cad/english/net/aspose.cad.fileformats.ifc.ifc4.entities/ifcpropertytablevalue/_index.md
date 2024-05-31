@@ -3,7 +3,7 @@ title: Class IfcPropertyTableValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertyTableValue class. IfcPropertyTableValue
 type: docs
-weight: 26470
+weight: 26490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/
 ---
 ## IfcPropertyTableValue class

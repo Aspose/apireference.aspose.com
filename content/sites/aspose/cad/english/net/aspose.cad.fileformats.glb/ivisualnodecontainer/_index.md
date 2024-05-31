@@ -3,7 +3,7 @@ title: Interface IVisualNodeContainer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IVisualNodeContainer interface. Represents an abstract interface for a visual hierarchy. Implemented by Node and Scene
 type: docs
-weight: 10730
+weight: 10750
 url: /net/aspose.cad.fileformats.glb/ivisualnodecontainer/
 ---
 ## IVisualNodeContainer interface

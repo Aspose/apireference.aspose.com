@@ -3,7 +3,7 @@ title: Class IfcVoidingFeature
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcVoidingFeature class. IfcVoidingFeature
 type: docs
-weight: 29270
+weight: 29290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvoidingfeature/
 ---
 ## IfcVoidingFeature class

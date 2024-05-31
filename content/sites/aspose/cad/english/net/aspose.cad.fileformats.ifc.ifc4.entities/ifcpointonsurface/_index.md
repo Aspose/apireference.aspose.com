@@ -3,7 +3,7 @@ title: Class IfcPointOnSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPointOnSurface class. IfcPointOnSurface
 type: docs
-weight: 26030
+weight: 26050
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpointonsurface/
 ---
 ## IfcPointOnSurface class

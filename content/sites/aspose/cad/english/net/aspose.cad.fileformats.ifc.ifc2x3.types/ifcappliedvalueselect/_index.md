@@ -3,7 +3,7 @@ title: Class IfcAppliedValueSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcAppliedValueSelect class. IfcAppliedValueSelect
 type: docs
-weight: 18600
+weight: 18620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcappliedvalueselect/
 ---
 ## IfcAppliedValueSelect class

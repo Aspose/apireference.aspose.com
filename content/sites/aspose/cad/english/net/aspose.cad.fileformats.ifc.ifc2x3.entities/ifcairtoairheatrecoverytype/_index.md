@@ -3,7 +3,7 @@ title: Class IfcAirToAirHeatRecoveryType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAirToAirHeatRecoveryType class. IfcAirToAirHeatRecoveryType
 type: docs
-weight: 11990
+weight: 12010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcairtoairheatrecoverytype/
 ---
 ## IfcAirToAirHeatRecoveryType class

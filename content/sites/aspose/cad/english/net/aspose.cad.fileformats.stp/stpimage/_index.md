@@ -3,7 +3,7 @@ title: Class StpImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.StpImage class. STP image class
 type: docs
-weight: 34970
+weight: 35230
 url: /net/aspose.cad.fileformats.stp/stpimage/
 ---
 ## StpImage class
@@ -28,6 +28,7 @@ public class StpImage : Image
 | [Author](../../aspose.cad.fileformats.stp/stpimage/author/) { get; set; } |  |
 | [Authorization](../../aspose.cad.fileformats.stp/stpimage/authorization/) { get; set; } |  |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
+| [Collections](../../aspose.cad.fileformats.stp/stpimage/collections/) { get; } | Useful collections for simplification of iterating through STP data. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
 | virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |

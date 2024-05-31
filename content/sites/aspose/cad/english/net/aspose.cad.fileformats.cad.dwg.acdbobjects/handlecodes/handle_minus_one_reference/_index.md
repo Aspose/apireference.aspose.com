@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_minus_on
 The handle minus one reference. Code - 8
 
 ```csharp
-public static int HANDLE_MINUS_ONE_REFERENCE;
+public const int HANDLE_MINUS_ONE_REFERENCE;
 ```
 
 ### See Also

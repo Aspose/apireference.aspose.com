@@ -3,7 +3,7 @@ title: Class IfcPresentationLayerAssignment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPresentationLayerAssignment class. Partial IIfc entity class
 type: docs
-weight: 15700
+weight: 15720
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationlayerassignment/
 ---
 ## IfcPresentationLayerAssignment class

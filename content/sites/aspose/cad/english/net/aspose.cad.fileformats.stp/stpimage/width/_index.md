@@ -3,7 +3,7 @@ title: StpImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. Gets the image width
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.cad.fileformats.stp/stpimage/width/
 ---
 ## StpImage.Width property

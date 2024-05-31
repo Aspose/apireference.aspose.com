@@ -3,7 +3,7 @@ title: StpImage.UnsupportedSchemas
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.fileformats.stp/stpimage/unsupportedschemas/
 ---
 ## StpImage.UnsupportedSchemas property

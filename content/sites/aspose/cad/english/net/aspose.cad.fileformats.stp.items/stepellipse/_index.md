@@ -3,7 +3,7 @@ title: Class StepEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepEllipse class. Ellipse class for STP file
 type: docs
-weight: 34470
+weight: 34590
 url: /net/aspose.cad.fileformats.stp.items/stepellipse/
 ---
 ## StepEllipse class

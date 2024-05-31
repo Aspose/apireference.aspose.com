@@ -3,7 +3,7 @@ title: Class IfcThermodynamicTemperatureMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcThermodynamicTemperatureMeasure class. IfcThermodynamicTemperatureMeasure
 type: docs
-weight: 33040
+weight: 33060
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermodynamictemperaturemeasure/
 ---
 ## IfcThermodynamicTemperatureMeasure class

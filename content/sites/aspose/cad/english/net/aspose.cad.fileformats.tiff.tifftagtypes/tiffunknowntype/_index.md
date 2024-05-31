@@ -3,7 +3,7 @@ title: Class TiffUnknownType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.TiffTagTypes.TiffUnknownType class. The unknown tiff type. In case the tiff tag cannot be recognized this type is instantinated
 type: docs
-weight: 35510
+weight: 35770
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/
 ---
 ## TiffUnknownType class

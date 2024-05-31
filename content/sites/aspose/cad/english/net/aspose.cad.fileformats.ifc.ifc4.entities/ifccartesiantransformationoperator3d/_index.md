@@ -3,7 +3,7 @@ title: Class IfcCartesianTransformationOperator3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCartesianTransformationOperator3D class. Partial IIfc entity class
 type: docs
-weight: 22540
+weight: 22560
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator3d/
 ---
 ## IfcCartesianTransformationOperator3D class

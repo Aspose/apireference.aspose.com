@@ -3,7 +3,7 @@ title: Class Cad2DVertex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices.Cad2DVertex class. The Cad 2 d vertex
 type: docs
-weight: 4060
+weight: 4070
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cad2dvertex/
 ---
 ## Cad2DVertex class

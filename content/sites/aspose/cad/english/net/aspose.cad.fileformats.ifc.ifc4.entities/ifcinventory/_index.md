@@ -3,7 +3,7 @@ title: Class IfcInventory
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcInventory class. IfcInventory
 type: docs
-weight: 24970
+weight: 24990
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinventory/
 ---
 ## IfcInventory class

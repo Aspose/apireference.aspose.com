@@ -3,7 +3,7 @@ title: Class IfcCostValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCostValue class. IfcCostValue
 type: docs
-weight: 23210
+weight: 23230
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostvalue/
 ---
 ## IfcCostValue class

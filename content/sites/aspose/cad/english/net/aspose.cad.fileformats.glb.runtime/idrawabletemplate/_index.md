@@ -3,7 +3,7 @@ title: Interface IDrawableTemplate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.IDrawableTemplate interface. 
 type: docs
-weight: 11200
+weight: 11220
 url: /net/aspose.cad.fileformats.glb.runtime/idrawabletemplate/
 ---
 ## IDrawableTemplate interface

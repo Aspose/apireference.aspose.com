@@ -3,7 +3,7 @@ title: BitmapImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: BitmapImage property. Gets the image width
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.cad.fileformats.bitmap/bitmapimage/width/
 ---
 ## BitmapImage.Width property

@@ -3,7 +3,7 @@ title: Class DwfWhipPolymarker
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipPolymarker class. A drawing object describing a POLYMARKER a set of points
 type: docs
-weight: 9790
+weight: 9810
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolymarker/
 ---
 ## DwfWhipPolymarker class

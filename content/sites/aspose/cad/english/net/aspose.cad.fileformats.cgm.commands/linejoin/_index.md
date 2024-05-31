@@ -3,7 +3,7 @@ title: Class LineJoin
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineJoin class. 
 type: docs
-weight: 6020
+weight: 6030
 url: /net/aspose.cad.fileformats.cgm.commands/linejoin/
 ---
 ## LineJoin class

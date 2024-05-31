@@ -3,7 +3,7 @@ title: Class IfcDate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDate class. IfcDate
 type: docs
-weight: 30310
+weight: 30330
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdate/
 ---
 ## IfcDate class

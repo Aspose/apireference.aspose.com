@@ -3,7 +3,7 @@ title: Class DwfImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfImage class. DWF image class. Provides reading of DWF/DWFX format files their processing and their export to other formats
 type: docs
-weight: 9190
+weight: 9210
 url: /net/aspose.cad.fileformats.dwf/dwfimage/
 ---
 ## DwfImage class
@@ -32,7 +32,7 @@ public sealed class DwfImage : Image
 | [Palette](../../aspose.cad/image/palette/) { get; set; } | Gets or sets the color palette. |
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
-| override [UnitType](../../aspose.cad.fileformats.dwf/dwfimage/unittype/) { get; } |  |
+| override [UnitType](../../aspose.cad.fileformats.dwf/dwfimage/unittype/) { get; } | Gets current unit type. |
 | virtual [WatermarkGuardService](../../aspose.cad/image/watermarkguardservice/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.dwf/dwfimage/width/) { get; } | Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../aspose.cad/image/unittype/) |
 

@@ -3,7 +3,7 @@ title: ImageOptionsBase.XmpData
 second_title: Aspose.CAD for .NET API Reference
 description: ImageOptionsBase property. Gets or sets the XMP metadata container
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.cad.imageoptions/imageoptionsbase/xmpdata/
 ---
 ## ImageOptionsBase.XmpData property

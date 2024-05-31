@@ -3,7 +3,7 @@ title: Class AppendText
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.AppendText class. Class4 ElementId6
 type: docs
-weight: 4750
+weight: 4760
 url: /net/aspose.cad.fileformats.cgm.commands/appendtext/
 ---
 ## AppendText class

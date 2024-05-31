@@ -3,7 +3,7 @@ title: Class DefaultBinaryWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Export.DefaultBinaryWriter class. 
 type: docs
-weight: 7240
+weight: 7250
 url: /net/aspose.cad.fileformats.cgm.export/defaultbinarywriter/
 ---
 ## DefaultBinaryWriter class

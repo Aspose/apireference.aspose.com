@@ -3,7 +3,7 @@ title: Class VdcType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.VdcType class. 
 type: docs
-weight: 6930
+weight: 6940
 url: /net/aspose.cad.fileformats.cgm.commands/vdctype/
 ---
 ## VdcType class

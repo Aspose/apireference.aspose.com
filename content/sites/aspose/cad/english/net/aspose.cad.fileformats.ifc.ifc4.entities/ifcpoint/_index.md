@@ -3,7 +3,7 @@ title: Class IfcPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPoint class. Partial IIfc entity class
 type: docs
-weight: 26010
+weight: 26030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpoint/
 ---
 ## IfcPoint class

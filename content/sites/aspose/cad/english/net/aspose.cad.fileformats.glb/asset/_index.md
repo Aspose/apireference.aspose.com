@@ -3,7 +3,7 @@ title: Class Asset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Asset class. Metadata about the glTF asset
 type: docs
-weight: 10250
+weight: 10270
 url: /net/aspose.cad.fileformats.glb/asset/
 ---
 ## Asset class

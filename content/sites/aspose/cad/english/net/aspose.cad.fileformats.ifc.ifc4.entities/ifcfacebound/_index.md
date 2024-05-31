@@ -3,7 +3,7 @@ title: Class IfcFaceBound
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFaceBound class. Partial IIfc entity class
 type: docs
-weight: 24250
+weight: 24270
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebound/
 ---
 ## IfcFaceBound class

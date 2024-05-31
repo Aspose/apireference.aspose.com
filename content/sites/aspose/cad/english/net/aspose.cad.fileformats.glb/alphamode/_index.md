@@ -3,7 +3,7 @@ title: Enum AlphaMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AlphaMode enum. The alpha rendering mode of the material
 type: docs
-weight: 10170
+weight: 10190
 url: /net/aspose.cad.fileformats.glb/alphamode/
 ---
 ## AlphaMode enumeration

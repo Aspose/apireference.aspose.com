@@ -3,7 +3,7 @@ title: Enum IfcElectricHeaterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricHeaterTypeEnum enum. IfcElectricHeaterTypeEnum
 type: docs
-weight: 19410
+weight: 19430
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricheatertypeenum/
 ---
 ## IfcElectricHeaterTypeEnum enumeration

@@ -3,7 +3,7 @@ title: Class IfcPropertyTemplateDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertyTemplateDefinition class. IfcPropertyTemplateDefinition
 type: docs
-weight: 26490
+weight: 26510
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytemplatedefinition/
 ---
 ## IfcPropertyTemplateDefinition class

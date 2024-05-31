@@ -3,7 +3,7 @@ title: ImageOptionsBase.WatermarkGuardOptions
 second_title: Aspose.CAD for .NET API Reference
 description: ImageOptionsBase property. Gets or sets the blind watermark options
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.imageoptions/imageoptionsbase/watermarkguardoptions/
 ---
 ## ImageOptionsBase.WatermarkGuardOptions property

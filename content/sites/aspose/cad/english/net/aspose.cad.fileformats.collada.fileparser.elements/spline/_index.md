@@ -3,7 +3,7 @@ title: Class Spline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Spline class. The spline. The spline element contains control vertex information sufficient to describe basic splines
 type: docs
-weight: 8420
+weight: 8430
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/spline/
 ---
 ## Spline class

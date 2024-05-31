@@ -3,7 +3,7 @@ title: CadBlockTableObject.XDataAppName
 second_title: Aspose.CAD for .NET API Reference
 description: CadBlockTableObject property. Gets or sets the xdata app name
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/xdataappname/
 ---
 ## CadBlockTableObject.XDataAppName property

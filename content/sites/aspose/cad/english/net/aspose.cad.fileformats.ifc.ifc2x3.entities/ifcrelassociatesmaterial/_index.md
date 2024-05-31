@@ -3,7 +3,7 @@ title: Class IfcRelAssociatesMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelAssociatesMaterial class. IfcRelAssociatesMaterial
 type: docs
-weight: 16440
+weight: 16460
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesmaterial/
 ---
 ## IfcRelAssociatesMaterial class

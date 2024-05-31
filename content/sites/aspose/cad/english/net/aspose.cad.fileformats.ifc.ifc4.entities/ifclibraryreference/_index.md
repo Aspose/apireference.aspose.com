@@ -3,7 +3,7 @@ title: Class IfcLibraryReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLibraryReference class. IfcLibraryReference
 type: docs
-weight: 25090
+weight: 25110
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/
 ---
 ## IfcLibraryReference class

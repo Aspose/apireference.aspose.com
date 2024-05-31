@@ -3,7 +3,7 @@ title: Class MaximumColourIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MaximumColourIndex class. 
 type: docs
-weight: 6170
+weight: 6180
 url: /net/aspose.cad.fileformats.cgm.commands/maximumcolourindex/
 ---
 ## MaximumColourIndex class

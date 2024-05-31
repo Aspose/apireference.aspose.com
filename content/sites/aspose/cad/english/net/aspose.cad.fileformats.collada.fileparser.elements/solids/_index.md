@@ -3,7 +3,7 @@ title: Class Solids
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Solids class. The solids. This element defines all the solids used in the BREP structure
 type: docs
-weight: 8390
+weight: 8400
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/solids/
 ---
 ## Solids class

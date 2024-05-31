@@ -3,7 +3,7 @@ title: Class NormalDataUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stl.StlObjects.NormalDataUnit class. Normal to the surface
 type: docs
-weight: 34200
+weight: 34220
 url: /net/aspose.cad.fileformats.stl.stlobjects/normaldataunit/
 ---
 ## NormalDataUnit class
@@ -18,7 +18,7 @@ public class NormalDataUnit
 
 | Name | Description |
 | --- | --- |
-| [NormalDataUnit](normaldataunit/)() | The default constructor. |
+| [NormalDataUnit](normaldataunit/)(float, float, float) |  |
 
 ### See Also
 

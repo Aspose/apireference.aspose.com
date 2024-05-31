@@ -3,7 +3,7 @@ title: Struct U3dPoly
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dPoly struct. 
 type: docs
-weight: 35670
+weight: 35930
 url: /net/aspose.cad.fileformats.u3d.elements/u3dpoly/
 ---
 ## U3dPoly structure

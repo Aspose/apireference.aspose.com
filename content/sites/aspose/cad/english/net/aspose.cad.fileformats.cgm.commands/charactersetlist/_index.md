@@ -3,7 +3,7 @@ title: Class CharacterSetList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterSetList class. Class1 Element14
 type: docs
-weight: 5090
+weight: 5100
 url: /net/aspose.cad.fileformats.cgm.commands/charactersetlist/
 ---
 ## CharacterSetList class

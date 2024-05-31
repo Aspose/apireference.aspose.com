@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains the STP model classes
 type: docs
-weight: 1130
+weight: 1150
 url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/
 ---
 The namespace contains the STP model classes.

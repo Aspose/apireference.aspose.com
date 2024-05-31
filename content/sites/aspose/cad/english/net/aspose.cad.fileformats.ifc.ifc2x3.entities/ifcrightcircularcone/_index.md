@@ -3,7 +3,7 @@ title: Class IfcRightCircularCone
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRightCircularCone class. Partial IIfc entity class
 type: docs
-weight: 16850
+weight: 16870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcone/
 ---
 ## IfcRightCircularCone class

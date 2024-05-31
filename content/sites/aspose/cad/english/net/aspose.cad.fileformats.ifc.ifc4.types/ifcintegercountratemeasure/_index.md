@@ -3,7 +3,7 @@ title: Class IfcIntegerCountRateMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcIntegerCountRateMeasure class. IfcIntegerCountRateMeasure
 type: docs
-weight: 31120
+weight: 31140
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcintegercountratemeasure/
 ---
 ## IfcIntegerCountRateMeasure class

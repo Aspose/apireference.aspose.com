@@ -3,7 +3,7 @@ title: Class IfcElementAssemblyType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcElementAssemblyType class. IfcElementAssemblyType
 type: docs
-weight: 23930
+weight: 23950
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementassemblytype/
 ---
 ## IfcElementAssemblyType class

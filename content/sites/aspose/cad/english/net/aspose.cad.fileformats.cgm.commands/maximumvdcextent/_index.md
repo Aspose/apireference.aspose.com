@@ -3,7 +3,7 @@ title: Class MaximumVdcExtent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MaximumVdcExtent class. 
 type: docs
-weight: 6180
+weight: 6190
 url: /net/aspose.cad.fileformats.cgm.commands/maximumvdcextent/
 ---
 ## MaximumVdcExtent class

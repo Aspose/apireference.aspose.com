@@ -3,7 +3,7 @@ title: Class IfcStructuralCurveConnection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralCurveConnection class. IfcStructuralCurveConnection
 type: docs
-weight: 17290
+weight: 17310
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralcurveconnection/
 ---
 ## IfcStructuralCurveConnection class

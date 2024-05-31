@@ -3,7 +3,7 @@ title: Struct VertexColorTexture2Tuple
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.VertexColorTexture2Tuple struct. 
 type: docs
-weight: 11810
+weight: 11830
 url: /net/aspose.cad.fileformats.glb/vertexcolortexture2tuple/
 ---
 ## VertexColorTexture2Tuple structure

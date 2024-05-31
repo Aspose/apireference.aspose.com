@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_plus_one
 The handle plus one reference. Code - 6
 
 ```csharp
-public static int HANDLE_PLUS_ONE_REFERENCE;
+public const int HANDLE_PLUS_ONE_REFERENCE;
 ```
 
 ### See Also

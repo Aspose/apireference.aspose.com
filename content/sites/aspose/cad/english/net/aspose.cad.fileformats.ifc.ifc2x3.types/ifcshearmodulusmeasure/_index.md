@@ -3,7 +3,7 @@ title: Class IfcShearModulusMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcShearModulusMeasure class. IfcShearModulusMeasure
 type: docs
-weight: 20930
+weight: 20950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcshearmodulusmeasure/
 ---
 ## IfcShearModulusMeasure class

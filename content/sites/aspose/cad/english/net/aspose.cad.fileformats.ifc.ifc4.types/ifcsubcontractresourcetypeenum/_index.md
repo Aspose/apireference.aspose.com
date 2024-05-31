@@ -3,7 +3,7 @@ title: Enum IfcSubContractResourceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSubContractResourceTypeEnum enum. IfcSubContractResourceTypeEnum
 type: docs
-weight: 32780
+weight: 32800
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsubcontractresourcetypeenum/
 ---
 ## IfcSubContractResourceTypeEnum enumeration

@@ -3,7 +3,7 @@ title: Class IfcPreDefinedItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPreDefinedItem class. Partial IIfc entity class
 type: docs
-weight: 15650
+weight: 15670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefineditem/
 ---
 ## IfcPreDefinedItem class

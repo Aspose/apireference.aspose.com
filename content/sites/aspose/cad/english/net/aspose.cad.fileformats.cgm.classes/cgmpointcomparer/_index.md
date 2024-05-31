@@ -3,7 +3,7 @@ title: Class CgmPointComparer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.CgmPointComparer class. Comparer to sort CGMPoints to the leftest upper corner
 type: docs
-weight: 4660
+weight: 4670
 url: /net/aspose.cad.fileformats.cgm.classes/cgmpointcomparer/
 ---
 ## CgmPointComparer class

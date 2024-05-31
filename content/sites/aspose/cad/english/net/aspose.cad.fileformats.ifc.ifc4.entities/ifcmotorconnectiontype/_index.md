@@ -3,7 +3,7 @@ title: Class IfcMotorConnectionType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMotorConnectionType class. IfcMotorConnectionType
 type: docs
-weight: 25570
+weight: 25590
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmotorconnectiontype/
 ---
 ## IfcMotorConnectionType class

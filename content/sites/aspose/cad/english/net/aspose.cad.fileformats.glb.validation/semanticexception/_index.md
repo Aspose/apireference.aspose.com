@@ -3,7 +3,7 @@ title: Class SemanticException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.SemanticException class. Represents an esception produced by invalid values
 type: docs
-weight: 11720
+weight: 11740
 url: /net/aspose.cad.fileformats.glb.validation/semanticexception/
 ---
 ## SemanticException class

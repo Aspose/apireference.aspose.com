@@ -3,7 +3,7 @@ title: Class IfcThermalResistanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcThermalResistanceMeasure class. IfcThermalResistanceMeasure
 type: docs
-weight: 33020
+weight: 33040
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermalresistancemeasure/
 ---
 ## IfcThermalResistanceMeasure class

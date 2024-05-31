@@ -3,7 +3,7 @@ title: Enum IfcAirToAirHeatRecoveryTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAirToAirHeatRecoveryTypeEnum enum. IfcAirToAirHeatRecoveryTypeEnum
 type: docs
-weight: 29570
+weight: 29590
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcairtoairheatrecoverytypeenum/
 ---
 ## IfcAirToAirHeatRecoveryTypeEnum enumeration

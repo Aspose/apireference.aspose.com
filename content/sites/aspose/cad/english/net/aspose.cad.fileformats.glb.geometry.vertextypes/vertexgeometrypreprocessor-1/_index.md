@@ -3,7 +3,7 @@ title: Delegate VertexGeometryPreprocessorTvG
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10560
+weight: 10580
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrypreprocessor-1/
 ---
 ## VertexGeometryPreprocessor&lt;TvG&gt; delegate

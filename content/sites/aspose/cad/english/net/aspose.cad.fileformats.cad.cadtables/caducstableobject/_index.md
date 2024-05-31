@@ -3,7 +3,7 @@ title: Class CadUcsTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadUcsTableObject class. ucsPorts table class
 type: docs
-weight: 4370
+weight: 4380
 url: /net/aspose.cad.fileformats.cad.cadtables/caducstableobject/
 ---
 ## CadUcsTableObject class

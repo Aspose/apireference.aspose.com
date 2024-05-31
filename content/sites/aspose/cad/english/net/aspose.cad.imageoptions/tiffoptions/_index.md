@@ -3,7 +3,7 @@ title: Class TiffOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.TiffOptions class. The tiff file format options. Note that width and height tags will get overwritten on image creation by width and height parameters so there is no need to specify them directly. Note that many options return a default value but that does not mean that this option is set explicitly as a tag value. To verify the tag is present use Tags property or the corresponding IsTagPresent method
 type: docs
-weight: 36510
+weight: 36800
 url: /net/aspose.cad.imageoptions/tiffoptions/
 ---
 ## TiffOptions class
@@ -60,6 +60,7 @@ public class TiffOptions : ImageOptionsBase
 | [Photometric](../../aspose.cad.imageoptions/tiffoptions/photometric/) { get; set; } | Gets or sets the photometric. |
 | [PlanarConfiguration](../../aspose.cad.imageoptions/tiffoptions/planarconfiguration/) { get; set; } | Gets or sets the planar configuration. |
 | [Predictor](../../aspose.cad.imageoptions/tiffoptions/predictor/) { get; set; } | Gets or sets the predictor for LZW compression. |
+| [RenderToGraphicsBound](../../aspose.cad.imageoptions/imageoptionsbase/rendertographicsbound/) { get; set; } | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | override [ResolutionSettings](../../aspose.cad.imageoptions/tiffoptions/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
 | [ResolutionUnit](../../aspose.cad.imageoptions/tiffoptions/resolutionunit/) { get; set; } | Gets or sets the resolution unit. |
 | [Rotation](../../aspose.cad.imageoptions/imageoptionsbase/rotation/) { get; set; } | Gets or sets the parameter for rotate, flip, or rotate and flip the image.. |

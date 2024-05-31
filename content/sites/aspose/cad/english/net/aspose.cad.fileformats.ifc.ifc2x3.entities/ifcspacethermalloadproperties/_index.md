@@ -3,7 +3,7 @@ title: Class IfcSpaceThermalLoadProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSpaceThermalLoadProperties class. IfcSpaceThermalLoadProperties
 type: docs
-weight: 17150
+weight: 17170
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/
 ---
 ## IfcSpaceThermalLoadProperties class

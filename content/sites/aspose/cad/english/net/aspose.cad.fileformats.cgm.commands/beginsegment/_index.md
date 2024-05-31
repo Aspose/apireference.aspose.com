@@ -3,7 +3,7 @@ title: Class BeginSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginSegment class. 
 type: docs
-weight: 4980
+weight: 4990
 url: /net/aspose.cad.fileformats.cgm.commands/beginsegment/
 ---
 ## BeginSegment class

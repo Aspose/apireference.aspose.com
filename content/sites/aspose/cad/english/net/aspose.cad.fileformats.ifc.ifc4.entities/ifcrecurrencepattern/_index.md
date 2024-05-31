@@ -3,7 +3,7 @@ title: Class IfcRecurrencePattern
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRecurrencePattern class. IfcRecurrencePattern
 type: docs
-weight: 26760
+weight: 26780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/
 ---
 ## IfcRecurrencePattern class

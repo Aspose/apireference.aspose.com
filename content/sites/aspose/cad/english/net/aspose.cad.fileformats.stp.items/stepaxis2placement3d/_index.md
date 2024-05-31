@@ -3,7 +3,7 @@ title: Class StepAxis2Placement3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepAxis2Placement3D class. Axis2Placement3D class for STP file
 type: docs
-weight: 34270
+weight: 34350
 url: /net/aspose.cad.fileformats.stp.items/stepaxis2placement3d/
 ---
 ## StepAxis2Placement3D class

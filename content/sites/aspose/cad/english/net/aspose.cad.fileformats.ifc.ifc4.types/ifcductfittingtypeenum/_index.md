@@ -3,7 +3,7 @@ title: Enum IfcDuctFittingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDuctFittingTypeEnum enum. IfcDuctFittingTypeEnum
 type: docs
-weight: 30550
+weight: 30570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcductfittingtypeenum/
 ---
 ## IfcDuctFittingTypeEnum enumeration

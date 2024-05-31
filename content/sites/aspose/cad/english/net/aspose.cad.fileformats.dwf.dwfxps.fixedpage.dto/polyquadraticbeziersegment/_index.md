@@ -3,7 +3,7 @@ title: Class PolyQuadraticBezierSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PolyQuadraticBezierSegment class. The poly quadratic bezier segment. A series of quadratic BÉZIER segments
 type: docs
-weight: 9470
+weight: 9490
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polyquadraticbeziersegment/
 ---
 ## PolyQuadraticBezierSegment class

@@ -3,7 +3,7 @@ title: Class IfcFlowSegmentType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFlowSegmentType class. IfcFlowSegmentType
 type: docs
-weight: 24570
+weight: 24590
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowsegmenttype/
 ---
 ## IfcFlowSegmentType class

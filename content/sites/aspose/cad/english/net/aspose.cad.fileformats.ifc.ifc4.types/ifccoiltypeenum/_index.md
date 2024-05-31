@@ -3,7 +3,7 @@ title: Enum IfcCoilTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCoilTypeEnum enum. IfcCoilTypeEnum
 type: docs
-weight: 29960
+weight: 29980
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccoiltypeenum/
 ---
 ## IfcCoilTypeEnum enumeration

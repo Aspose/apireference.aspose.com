@@ -3,7 +3,7 @@ title: Class IfcDistributionSystem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDistributionSystem class. IfcDistributionSystem
 type: docs
-weight: 23580
+weight: 23600
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionsystem/
 ---
 ## IfcDistributionSystem class

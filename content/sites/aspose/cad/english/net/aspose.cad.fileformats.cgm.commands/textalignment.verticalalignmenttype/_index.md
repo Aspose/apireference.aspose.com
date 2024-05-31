@@ -3,7 +3,7 @@ title: Enum TextAlignment.VerticalAlignmentType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextAlignmentVerticalAlignmentType enum. 
 type: docs
-weight: 6730
+weight: 6740
 url: /net/aspose.cad.fileformats.cgm.commands/textalignment.verticalalignmenttype/
 ---
 ## TextAlignment.VerticalAlignmentType enumeration

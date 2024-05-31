@@ -3,7 +3,7 @@ title: Class Toolkit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ToolKit.Toolkit class. 
 type: docs
-weight: 11530
+weight: 11550
 url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/
 ---
 ## Toolkit class

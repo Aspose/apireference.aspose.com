@@ -3,7 +3,7 @@ title: Class IfcDocumentInformation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDocumentInformation class. IfcDocumentInformation
 type: docs
-weight: 13570
+weight: 13590
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/
 ---
 ## IfcDocumentInformation class

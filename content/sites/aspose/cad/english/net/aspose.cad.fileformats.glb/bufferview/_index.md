@@ -3,7 +3,7 @@ title: Class BufferView
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.BufferView class. A view into a buffer generally representing a subset of the buffer
 type: docs
-weight: 10290
+weight: 10310
 url: /net/aspose.cad.fileformats.glb/bufferview/
 ---
 ## BufferView class

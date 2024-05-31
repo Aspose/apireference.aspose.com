@@ -3,7 +3,7 @@ title: Class IfcProjectionElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcProjectionElement class. IfcProjectionElement
 type: docs
-weight: 26330
+weight: 26350
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectionelement/
 ---
 ## IfcProjectionElement class

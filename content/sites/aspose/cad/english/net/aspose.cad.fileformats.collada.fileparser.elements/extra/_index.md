@@ -3,7 +3,7 @@ title: Class Extra
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Extra class. The COLLADA asset extra. The extra element declares additional information regarding its parent element
 type: docs
-weight: 7730
+weight: 7740
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/extra/
 ---
 ## Extra class

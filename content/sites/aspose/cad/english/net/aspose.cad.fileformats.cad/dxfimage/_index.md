@@ -3,7 +3,7 @@ title: Class DxfImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfImage class. Dxf image class
 type: docs
-weight: 4540
+weight: 4550
 url: /net/aspose.cad.fileformats.cad/dxfimage/
 ---
 ## DxfImage class

@@ -3,7 +3,7 @@ title: Class CadViewList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadViewList class. The cad view dictionary The following group codes apply to VPORT symbol table entries. The VPORT table is unique it may contain several entries with the same name indicating a multipleviewport configuration. The entries corresponding to the active viewport configuration all have the name ACTIVE. The first such entry describes the current viewport. Since the name is not unique we use List as a container
 type: docs
-weight: 4410
+weight: 4420
 url: /net/aspose.cad.fileformats.cad/cadviewlist/
 ---
 ## CadViewList class

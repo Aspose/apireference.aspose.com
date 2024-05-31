@@ -146,6 +146,7 @@ The namespace contains Cad file format base entities.
 | [CadVbaProject](./cadvbaproject/) | Class describing VBA_PROJECT object. |
 | [CadViewport](./cadviewport/) | The Cad view port. |
 | [CadVisualStyle](./cadvisualstyle/) | Class describing CadVisualStyle |
+| [CadVloVlObject](./cadvlovlobject/) | Class describing VLO-VL object (unknown object) |
 | [CadWipeoutVariables](./cadwipeoutvariables/) | Class describing WIPEOUTVARIABLES object. |
 | [CadXdata](./cadxdata/) | The Cad xdata. |
 | [CadXdataContainer](./cadxdatacontainer/) | The Xdata Container |

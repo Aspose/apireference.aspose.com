@@ -3,7 +3,7 @@ title: Class DgnSplineKnotElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSplineKnotElement class. Represents spline knot element
 type: docs
-weight: 8960
+weight: 8970
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsplineknotelement/
 ---
 ## DgnSplineKnotElement class

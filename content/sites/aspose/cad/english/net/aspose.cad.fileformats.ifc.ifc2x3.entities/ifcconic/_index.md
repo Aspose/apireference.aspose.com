@@ -3,7 +3,7 @@ title: Class IfcConic
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConic class. Partial IIfc entity class
 type: docs
-weight: 12890
+weight: 12910
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconic/
 ---
 ## IfcConic class

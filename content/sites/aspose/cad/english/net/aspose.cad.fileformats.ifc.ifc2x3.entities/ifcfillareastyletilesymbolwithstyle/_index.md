@@ -3,7 +3,7 @@ title: Class IfcFillAreaStyleTileSymbolWithStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFillAreaStyleTileSymbolWithStyle class. IfcFillAreaStyleTileSymbolWithStyle
 type: docs
-weight: 14260
+weight: 14280
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyletilesymbolwithstyle/
 ---
 ## IfcFillAreaStyleTileSymbolWithStyle class

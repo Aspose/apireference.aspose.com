@@ -3,7 +3,7 @@ title: Class CadBoundaryPathCircularEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPathCircularEllipse class. The Cad boundary path circular ellipse
 type: docs
-weight: 3630
+weight: 3640
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/
 ---
 ## CadBoundaryPathCircularEllipse class

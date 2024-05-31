@@ -3,7 +3,7 @@ title: Class IfcProductRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcProductRepresentation class. Partial IIfc entity class
 type: docs
-weight: 26260
+weight: 26280
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproductrepresentation/
 ---
 ## IfcProductRepresentation class

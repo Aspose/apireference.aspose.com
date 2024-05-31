@@ -3,7 +3,7 @@ title: Enum IfcDiscreteAccessoryTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDiscreteAccessoryTypeEnum enum. IfcDiscreteAccessoryTypeEnum
 type: docs
-weight: 30410
+weight: 30430
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdiscreteaccessorytypeenum/
 ---
 ## IfcDiscreteAccessoryTypeEnum enumeration

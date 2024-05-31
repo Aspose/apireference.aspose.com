@@ -3,7 +3,7 @@ title: Class U3dAuthorMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorMesh class. 
 type: docs
-weight: 35600
+weight: 35860
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormesh/
 ---
 ## U3dAuthorMesh class

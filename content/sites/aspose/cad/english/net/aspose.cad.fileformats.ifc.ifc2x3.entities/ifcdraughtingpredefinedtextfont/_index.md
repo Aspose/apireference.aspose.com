@@ -3,7 +3,7 @@ title: Class IfcDraughtingPreDefinedTextFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDraughtingPreDefinedTextFont class. IfcDraughtingPreDefinedTextFont
 type: docs
-weight: 13680
+weight: 13700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingpredefinedtextfont/
 ---
 ## IfcDraughtingPreDefinedTextFont class

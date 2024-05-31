@@ -3,7 +3,7 @@ title: Class IfcFileDescription
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.Header.IfcFileDescription class. IfcFileDescription class represents description and implementation level for IFC
 type: docs
-weight: 11870
+weight: 11890
 url: /net/aspose.cad.fileformats.ifc.header/ifcfiledescription/
 ---
 ## IfcFileDescription class

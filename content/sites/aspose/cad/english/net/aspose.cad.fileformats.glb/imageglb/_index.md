@@ -3,7 +3,7 @@ title: Class ImageGlb
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ImageGlb class. Image data used to create a texture. Image MAY be referenced by an URI or IRI or a buffer view index
 type: docs
-weight: 10750
+weight: 10770
 url: /net/aspose.cad.fileformats.glb/imageglb/
 ---
 ## ImageGlb class

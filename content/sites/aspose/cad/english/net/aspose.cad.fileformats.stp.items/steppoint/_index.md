@@ -3,7 +3,7 @@ title: Class StepPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepPoint class. Point class for STP file
 type: docs
-weight: 34670
+weight: 34830
 url: /net/aspose.cad.fileformats.stp.items/steppoint/
 ---
 ## StepPoint class

@@ -3,7 +3,7 @@ title: Class Nurbs
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Nurbs class. The NURBS. Describes a NURBS curve in 3D space
 type: docs
-weight: 8170
+weight: 8180
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/nurbs/
 ---
 ## Nurbs class

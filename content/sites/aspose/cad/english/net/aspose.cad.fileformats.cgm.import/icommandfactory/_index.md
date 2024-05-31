@@ -3,7 +3,7 @@ title: Interface ICommandFactory
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Import.ICommandFactory interface. Factory interface to create commands
 type: docs
-weight: 7300
+weight: 7310
 url: /net/aspose.cad.fileformats.cgm.import/icommandfactory/
 ---
 ## ICommandFactory interface

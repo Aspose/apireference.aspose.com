@@ -3,7 +3,7 @@ title: Class IfcRelSpaceBoundary1stLevel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelSpaceBoundary1stLevel class. IfcRelSpaceBoundary1stLevel
 type: docs
-weight: 27310
+weight: 27330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary1stlevel/
 ---
 ## IfcRelSpaceBoundary1stLevel class

@@ -3,7 +3,7 @@ title: Class CadDictionaryBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary.CadDictionaryBase class. Class describing DICTIONARY base object
 type: docs
-weight: 3560
+weight: 3570
 url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/
 ---
 ## CadDictionaryBase class

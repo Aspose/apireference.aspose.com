@@ -3,7 +3,7 @@ title: Class Collada
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Collada class. The COLLADA element declares the root of the document that comprises some of the content in the COLLADA schema
 type: docs
-weight: 7480
+weight: 7490
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/collada/
 ---
 ## Collada class

@@ -3,7 +3,7 @@ title: Class VbaProjectData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.VbaProject.VbaProjectData class. 
 type: docs
-weight: 4520
+weight: 4530
 url: /net/aspose.cad.fileformats.cad.dwg.vbaproject/vbaprojectdata/
 ---
 ## VbaProjectData class

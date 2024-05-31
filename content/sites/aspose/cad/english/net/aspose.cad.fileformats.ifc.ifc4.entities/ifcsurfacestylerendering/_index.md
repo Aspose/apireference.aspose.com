@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleRendering
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceStyleRendering class. IfcSurfaceStyleRendering
 type: docs
-weight: 28510
+weight: 28530
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/
 ---
 ## IfcSurfaceStyleRendering class

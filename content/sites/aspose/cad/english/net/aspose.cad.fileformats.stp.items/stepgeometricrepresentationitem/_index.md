@@ -3,7 +3,7 @@ title: Class StepGeometricRepresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepGeometricRepresentationItem class. Geometric RepresentationItem class for STP file
 type: docs
-weight: 34550
+weight: 34700
 url: /net/aspose.cad.fileformats.stp.items/stepgeometricrepresentationitem/
 ---
 ## StepGeometricRepresentationItem class

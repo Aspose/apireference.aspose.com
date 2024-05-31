@@ -3,7 +3,7 @@ title: Class IfcRelConnectsWithRealizingElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelConnectsWithRealizingElements class. IfcRelConnectsWithRealizingElements
 type: docs
-weight: 16550
+weight: 16570
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectswithrealizingelements/
 ---
 ## IfcRelConnectsWithRealizingElements class

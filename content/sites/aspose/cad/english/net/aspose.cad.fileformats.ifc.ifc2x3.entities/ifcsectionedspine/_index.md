@@ -3,7 +3,7 @@ title: Class IfcSectionedSpine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSectionedSpine class. Partial IIfc entity class
 type: docs
-weight: 16960
+weight: 16980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionedspine/
 ---
 ## IfcSectionedSpine class

@@ -3,7 +3,7 @@ title: Enum IfcElectricTimeControlTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricTimeControlTypeEnum enum. IfcElectricTimeControlTypeEnum
 type: docs
-weight: 19440
+weight: 19460
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectrictimecontroltypeenum/
 ---
 ## IfcElectricTimeControlTypeEnum enumeration

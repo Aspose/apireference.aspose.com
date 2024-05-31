@@ -3,7 +3,7 @@ title: Enum IfcObjectTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcObjectTypeEnum enum. IfcObjectTypeEnum
 type: docs
-weight: 31740
+weight: 31760
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcobjecttypeenum/
 ---
 ## IfcObjectTypeEnum enumeration

@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/hard_pointer_re
 Hard pointer reference: the referencing object needs the referenced object, but both are owned by another object. Code - 5
 
 ```csharp
-public static int HARD_POINTER_REFERENCE;
+public const int HARD_POINTER_REFERENCE;
 ```
 
 ### See Also

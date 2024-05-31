@@ -3,7 +3,7 @@ title: Class ProfileCommonTechnique
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ProfileCommonTechnique class. The profile common technique. Holds a description of the textures samplers SHADERS parameters and passes necessary for rendering this effect using one method
 type: docs
-weight: 8310
+weight: 8320
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilecommontechnique/
 ---
 ## ProfileCommonTechnique class

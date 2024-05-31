@@ -3,7 +3,7 @@ title: Class IfcSoundPowerMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSoundPowerMeasure class. IfcSoundPowerMeasure
 type: docs
-weight: 32560
+weight: 32580
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsoundpowermeasure/
 ---
 ## IfcSoundPowerMeasure class

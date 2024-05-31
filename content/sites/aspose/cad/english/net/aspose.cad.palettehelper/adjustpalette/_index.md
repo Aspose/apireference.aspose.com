@@ -3,7 +3,7 @@ title: Class AdjustPalette
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.PaletteHelper.AdjustPalette class. Color palette adjustment class
 type: docs
-weight: 36750
+weight: 37040
 url: /net/aspose.cad.palettehelper/adjustpalette/
 ---
 ## AdjustPalette class

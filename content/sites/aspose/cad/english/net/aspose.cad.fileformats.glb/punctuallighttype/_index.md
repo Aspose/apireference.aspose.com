@@ -3,7 +3,7 @@ title: Enum PunctualLightType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.PunctualLightType enum. Defines all the types of PunctualLight types
 type: docs
-weight: 11140
+weight: 11160
 url: /net/aspose.cad.fileformats.glb/punctuallighttype/
 ---
 ## PunctualLightType enumeration

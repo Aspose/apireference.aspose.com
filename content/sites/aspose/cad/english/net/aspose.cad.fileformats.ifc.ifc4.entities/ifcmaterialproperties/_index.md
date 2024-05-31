@@ -3,7 +3,7 @@ title: Class IfcMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialProperties class. IfcMaterialProperties
 type: docs
-weight: 25420
+weight: 25440
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialproperties/
 ---
 ## IfcMaterialProperties class

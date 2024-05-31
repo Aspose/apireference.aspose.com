@@ -3,7 +3,7 @@ title: StlImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: StlImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad.fileformats.stl/stlimage/cachedata/
 ---
 ## StlImage.CacheData method

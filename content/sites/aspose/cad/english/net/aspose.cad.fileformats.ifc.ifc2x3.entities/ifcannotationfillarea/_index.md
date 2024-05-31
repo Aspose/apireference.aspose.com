@@ -3,7 +3,7 @@ title: Class IfcAnnotationFillArea
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAnnotationFillArea class. IfcAnnotationFillArea
 type: docs
-weight: 12040
+weight: 12060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillarea/
 ---
 ## IfcAnnotationFillArea class

@@ -3,7 +3,7 @@ title: Struct ValueLocationTuple
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ValueLocationTuple struct. 
 type: docs
-weight: 11770
+weight: 11790
 url: /net/aspose.cad.fileformats.glb/valuelocationtuple/
 ---
 ## ValueLocationTuple structure

@@ -3,7 +3,7 @@ title: Enum StepKnotType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepKnotType enum. KnotType enum for STP file
 type: docs
-weight: 34590
+weight: 34750
 url: /net/aspose.cad.fileformats.stp.items/stepknottype/
 ---
 ## StepKnotType enumeration

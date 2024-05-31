@@ -3,7 +3,7 @@ title: Class ApsGroupOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.ApsGroupOptions class. The CGM options
 type: docs
-weight: 36020
+weight: 36280
 url: /net/aspose.cad.imageoptions/apsgroupoptions/
 ---
 ## ApsGroupOptions class
@@ -28,6 +28,7 @@ public class ApsGroupOptions : ImageOptionsBase
 | [Layers](../../aspose.cad.imageoptions/imageoptionsbase/layers/) { get; set; } | Gets or sets a of layer names must be exported. All data will be exported without layers if names is not sets. |
 | virtual [Palette](../../aspose.cad.imageoptions/imageoptionsbase/palette/) { get; set; } | Gets or sets the color palette. |
 | [Pc3File](../../aspose.cad.imageoptions/imageoptionsbase/pc3file/) { get; set; } | Gets or sets the PC3 file full name. |
+| [RenderToGraphicsBound](../../aspose.cad.imageoptions/imageoptionsbase/rendertographicsbound/) { get; set; } | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | virtual [ResolutionSettings](../../aspose.cad.imageoptions/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
 | [Rotation](../../aspose.cad.imageoptions/imageoptionsbase/rotation/) { get; set; } | Gets or sets the parameter for rotate, flip, or rotate and flip the image.. |
 | [Source](../../aspose.cad.imageoptions/imageoptionsbase/source/) { get; set; } | Gets or sets the source to create image in. |

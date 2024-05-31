@@ -3,7 +3,7 @@ title: CadBlockTableObject.IsAnonymous
 second_title: Aspose.CAD for .NET API Reference
 description: CadBlockTableObject property. Gets or sets the Anonymous
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/isanonymous/
 ---
 ## CadBlockTableObject.IsAnonymous property

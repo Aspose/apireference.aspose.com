@@ -3,7 +3,7 @@ title: Class IfcSurfaceCurveSweptAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceCurveSweptAreaSolid class. IfcSurfaceCurveSweptAreaSolid
 type: docs
-weight: 28430
+weight: 28450
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/
 ---
 ## IfcSurfaceCurveSweptAreaSolid class

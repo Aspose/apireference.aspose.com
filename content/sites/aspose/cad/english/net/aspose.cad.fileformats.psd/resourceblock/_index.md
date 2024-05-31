@@ -3,7 +3,7 @@ title: Class ResourceBlock
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.ResourceBlock class. The resource block
 type: docs
-weight: 34090
+weight: 34110
 url: /net/aspose.cad.fileformats.psd/resourceblock/
 ---
 ## ResourceBlock class

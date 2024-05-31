@@ -3,7 +3,7 @@ title: Struct DrawableInstance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.DrawableInstance struct. 
 type: docs
-weight: 11190
+weight: 11210
 url: /net/aspose.cad.fileformats.glb.runtime/drawableinstance/
 ---
 ## DrawableInstance structure

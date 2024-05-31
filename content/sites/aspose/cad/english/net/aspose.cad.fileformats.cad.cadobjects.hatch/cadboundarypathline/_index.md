@@ -3,7 +3,7 @@ title: Class CadBoundaryPathLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPathLine class. The Cad boundary path line
 type: docs
-weight: 3640
+weight: 3650
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/
 ---
 ## CadBoundaryPathLine class

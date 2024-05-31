@@ -3,7 +3,7 @@ title: Class IfcAnnotationSurfaceOccurrence
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAnnotationSurfaceOccurrence class. IfcAnnotationSurfaceOccurrence
 type: docs
-weight: 12080
+weight: 12100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurfaceoccurrence/
 ---
 ## IfcAnnotationSurfaceOccurrence class

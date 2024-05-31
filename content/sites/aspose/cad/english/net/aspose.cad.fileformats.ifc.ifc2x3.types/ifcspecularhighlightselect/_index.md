@@ -3,7 +3,7 @@ title: Class IfcSpecularHighlightSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSpecularHighlightSelect class. IfcSpecularHighlightSelect
 type: docs
-weight: 21060
+weight: 21080
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcspecularhighlightselect/
 ---
 ## IfcSpecularHighlightSelect class

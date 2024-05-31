@@ -3,7 +3,7 @@ title: Enum PolygonSet.EdgeFlag
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PolygonSetEdgeFlag enum. 
 type: docs
-weight: 6440
+weight: 6450
 url: /net/aspose.cad.fileformats.cgm.commands/polygonset.edgeflag/
 ---
 ## PolygonSet.EdgeFlag enumeration

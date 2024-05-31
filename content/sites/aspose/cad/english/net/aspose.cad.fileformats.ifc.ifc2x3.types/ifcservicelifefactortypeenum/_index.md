@@ -3,7 +3,7 @@ title: Enum IfcServiceLifeFactorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcServiceLifeFactorTypeEnum enum. IfcServiceLifeFactorTypeEnum
 type: docs
-weight: 20910
+weight: 20930
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcservicelifefactortypeenum/
 ---
 ## IfcServiceLifeFactorTypeEnum enumeration

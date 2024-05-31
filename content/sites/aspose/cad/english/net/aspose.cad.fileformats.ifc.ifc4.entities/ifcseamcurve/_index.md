@@ -3,7 +3,7 @@ title: Class IfcSeamCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSeamCurve class. IfcSeamCurve
 type: docs
-weight: 27570
+weight: 27590
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcseamcurve/
 ---
 ## IfcSeamCurve class

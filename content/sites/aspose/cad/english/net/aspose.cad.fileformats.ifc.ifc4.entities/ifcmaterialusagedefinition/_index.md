@@ -3,7 +3,7 @@ title: Class IfcMaterialUsageDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialUsageDefinition class. IfcMaterialUsageDefinition
 type: docs
-weight: 25440
+weight: 25460
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/
 ---
 ## IfcMaterialUsageDefinition class

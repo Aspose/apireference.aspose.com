@@ -3,7 +3,7 @@ title: Class IfcTubeBundleType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTubeBundleType class. IfcTubeBundleType
 type: docs
-weight: 18140
+weight: 18160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctubebundletype/
 ---
 ## IfcTubeBundleType class

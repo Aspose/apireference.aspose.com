@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.WatermarkGuard
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace that handles blind watermark processing
 type: docs
-weight: 1330
+weight: 1350
 url: /net/aspose.cad.watermarkguard/
 ---
-
+The namespace that handles blind watermark processing.
 
 ## Interfaces
 

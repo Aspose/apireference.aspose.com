@@ -3,7 +3,7 @@ title: Class ExtraProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ExtraProperties class. Represents the base class for all glTF 2 Schema objects
 type: docs
-weight: 10360
+weight: 10380
 url: /net/aspose.cad.fileformats.glb/extraproperties/
 ---
 ## ExtraProperties class

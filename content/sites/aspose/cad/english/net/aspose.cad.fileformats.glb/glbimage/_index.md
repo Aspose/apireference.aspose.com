@@ -3,7 +3,7 @@ title: Class GlbImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.GlbImage class. 
 type: docs
-weight: 10660
+weight: 10680
 url: /net/aspose.cad.fileformats.glb/glbimage/
 ---
 ## GlbImage class

@@ -3,7 +3,7 @@ title: Enum IfcBSplineCurveForm
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcBSplineCurveForm enum. IfcBSplineCurveForm
 type: docs
-weight: 18650
+weight: 18670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbsplinecurveform/
 ---
 ## IfcBSplineCurveForm enumeration

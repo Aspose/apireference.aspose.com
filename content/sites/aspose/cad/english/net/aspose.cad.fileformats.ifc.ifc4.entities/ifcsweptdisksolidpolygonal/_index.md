@@ -3,7 +3,7 @@ title: Class IfcSweptDiskSolidPolygonal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSweptDiskSolidPolygonal class. IfcSweptDiskSolidPolygonal
 type: docs
-weight: 28570
+weight: 28590
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/
 ---
 ## IfcSweptDiskSolidPolygonal class

@@ -3,7 +3,7 @@ title: Class IfcStructuralConnection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralConnection class. IfcStructuralConnection
 type: docs
-weight: 28010
+weight: 28030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnection/
 ---
 ## IfcStructuralConnection class

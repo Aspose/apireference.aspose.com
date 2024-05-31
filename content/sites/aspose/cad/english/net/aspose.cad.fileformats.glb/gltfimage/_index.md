@@ -3,7 +3,7 @@ title: Class GltfImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.GltfImage class. 
 type: docs
-weight: 10670
+weight: 10690
 url: /net/aspose.cad.fileformats.glb/gltfimage/
 ---
 ## GltfImage class

@@ -3,7 +3,7 @@ title: Class IfcTimeSeriesReferenceRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTimeSeriesReferenceRelationship class. IfcTimeSeriesReferenceRelationship
 type: docs
-weight: 18040
+weight: 18060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseriesreferencerelationship/
 ---
 ## IfcTimeSeriesReferenceRelationship class

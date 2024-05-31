@@ -3,7 +3,7 @@ title: Class IfcTopologicalRepresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTopologicalRepresentationItem class. Partial IIfc entity class
 type: docs
-weight: 28950
+weight: 28970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctopologicalrepresentationitem/
 ---
 ## IfcTopologicalRepresentationItem class

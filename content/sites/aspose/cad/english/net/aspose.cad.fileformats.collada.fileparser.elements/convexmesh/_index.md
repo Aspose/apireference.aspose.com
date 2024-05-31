@@ -3,7 +3,7 @@ title: Class ConvexMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ConvexMesh class. The convex mesh. The definition of the convex_mesh element is identical to the mesh element with the exception that instead of a complete descriptionsource vertices polygons etc. it may simply point to another geometry to derive its shape. The latter case means that the convex hull of that geometry should be computed and is indicated by the optional convex_hull_of attribute
 type: docs
-weight: 7530
+weight: 7540
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/convexmesh/
 ---
 ## ConvexMesh class

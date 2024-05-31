@@ -3,7 +3,7 @@ title: Class StepProductDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepProductDefinition class. ProductDefinition class for STP file
 type: docs
-weight: 34710
+weight: 34890
 url: /net/aspose.cad.fileformats.stp.items/stepproductdefinition/
 ---
 ## StepProductDefinition class

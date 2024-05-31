@@ -3,7 +3,7 @@ title: Class IfcBlobTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBlobTexture class. IfcBlobTexture
 type: docs
-weight: 22110
+weight: 22130
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcblobtexture/
 ---
 ## IfcBlobTexture class

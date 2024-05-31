@@ -3,7 +3,7 @@ title: Class IfcSlippageConnectionCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSlippageConnectionCondition class. IfcSlippageConnectionCondition
 type: docs
-weight: 17080
+weight: 17100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/
 ---
 ## IfcSlippageConnectionCondition class

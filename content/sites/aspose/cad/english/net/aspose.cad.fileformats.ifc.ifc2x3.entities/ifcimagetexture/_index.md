@@ -3,7 +3,7 @@ title: Class IfcImageTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcImageTexture class. IfcImageTexture
 type: docs
-weight: 14700
+weight: 14720
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcimagetexture/
 ---
 ## IfcImageTexture class

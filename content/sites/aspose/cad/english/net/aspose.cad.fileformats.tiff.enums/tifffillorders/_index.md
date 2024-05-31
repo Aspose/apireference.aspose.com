@@ -3,7 +3,7 @@ title: Enum TiffFillOrders
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffFillOrders enum. Data order within a byte. Possible values for FILLORDER tag
 type: docs
-weight: 35190
+weight: 35450
 url: /net/aspose.cad.fileformats.tiff.enums/tifffillorders/
 ---
 ## TiffFillOrders enumeration

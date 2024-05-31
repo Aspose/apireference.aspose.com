@@ -3,7 +3,7 @@ title: Class IfcRelServicesBuildings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelServicesBuildings class. IfcRelServicesBuildings
 type: docs
-weight: 27290
+weight: 27310
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelservicesbuildings/
 ---
 ## IfcRelServicesBuildings class

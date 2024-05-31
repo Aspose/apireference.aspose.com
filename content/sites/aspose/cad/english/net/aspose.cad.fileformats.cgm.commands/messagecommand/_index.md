@@ -3,7 +3,7 @@ title: Class MessageCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MessageCommand class. Class7 ElementId1
 type: docs
-weight: 6190
+weight: 6200
 url: /net/aspose.cad.fileformats.cgm.commands/messagecommand/
 ---
 ## MessageCommand class

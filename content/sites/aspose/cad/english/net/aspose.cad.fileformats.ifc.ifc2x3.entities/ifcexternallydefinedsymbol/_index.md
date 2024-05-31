@@ -3,7 +3,7 @@ title: Class IfcExternallyDefinedSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcExternallyDefinedSymbol class. IfcExternallyDefinedSymbol
 type: docs
-weight: 14070
+weight: 14090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternallydefinedsymbol/
 ---
 ## IfcExternallyDefinedSymbol class

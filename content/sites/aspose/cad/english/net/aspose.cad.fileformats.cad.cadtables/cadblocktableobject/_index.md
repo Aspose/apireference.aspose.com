@@ -3,7 +3,7 @@ title: Class CadBlockTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadBlockTableObject class. The Cad block table object
 type: docs
-weight: 4310
+weight: 4320
 url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/
 ---
 ## CadBlockTableObject class
@@ -35,6 +35,7 @@ public class CadBlockTableObject : CadOwnedObjectBase
 | [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
 | [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
 | [HardPointerToLayout](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/hardpointertolayout/) { get; set; } | Gets or sets the hard pointer to layout. |
+| [HasAttDefs](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/hasattdefs/) { get; set; } | Gets or sets the HasAttDefs. |
 | [IsAnonymous](../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/isanonymous/) { get; set; } | Gets or sets the Anonymous. |
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |

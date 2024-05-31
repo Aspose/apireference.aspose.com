@@ -3,7 +3,7 @@ title: Class CharacterExpansionFactor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterExpansionFactor class. 
 type: docs
-weight: 5050
+weight: 5060
 url: /net/aspose.cad.fileformats.cgm.commands/characterexpansionfactor/
 ---
 ## CharacterExpansionFactor class

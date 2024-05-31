@@ -3,7 +3,7 @@ title: Class StepAdvancedFace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepAdvancedFace class. AdvancedFace class for STP file
 type: docs
-weight: 34240
+weight: 34320
 url: /net/aspose.cad.fileformats.stp.items/stepadvancedface/
 ---
 ## StepAdvancedFace class

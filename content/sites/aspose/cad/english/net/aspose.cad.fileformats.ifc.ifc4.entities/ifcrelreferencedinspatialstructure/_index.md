@@ -3,7 +3,7 @@ title: Class IfcRelReferencedInSpatialStructure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelReferencedInSpatialStructure class. IfcRelReferencedInSpatialStructure
 type: docs
-weight: 27270
+weight: 27290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelreferencedinspatialstructure/
 ---
 ## IfcRelReferencedInSpatialStructure class

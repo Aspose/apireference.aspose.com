@@ -3,7 +3,7 @@ title: Class EndMetafile
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EndMetafile class. 
 type: docs
-weight: 5640
+weight: 5650
 url: /net/aspose.cad.fileformats.cgm.commands/endmetafile/
 ---
 ## EndMetafile class

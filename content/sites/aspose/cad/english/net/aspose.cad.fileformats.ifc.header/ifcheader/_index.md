@@ -3,7 +3,7 @@ title: Class IfcHeader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.Header.IfcHeader class. IfcHeader
 type: docs
-weight: 11900
+weight: 11920
 url: /net/aspose.cad.fileformats.ifc.header/ifcheader/
 ---
 ## IfcHeader class

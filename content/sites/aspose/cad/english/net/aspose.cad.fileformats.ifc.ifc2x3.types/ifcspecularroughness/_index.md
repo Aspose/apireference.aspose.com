@@ -3,7 +3,7 @@ title: Class IfcSpecularRoughness
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSpecularRoughness class. IfcSpecularRoughness
 type: docs
-weight: 21070
+weight: 21090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcspecularroughness/
 ---
 ## IfcSpecularRoughness class

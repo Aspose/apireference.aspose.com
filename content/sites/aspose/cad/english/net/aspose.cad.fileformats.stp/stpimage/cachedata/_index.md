@@ -3,7 +3,7 @@ title: StpImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad.fileformats.stp/stpimage/cachedata/
 ---
 ## StpImage.CacheData method

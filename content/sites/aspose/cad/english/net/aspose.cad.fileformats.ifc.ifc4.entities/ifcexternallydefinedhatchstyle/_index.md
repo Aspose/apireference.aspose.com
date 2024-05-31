@@ -3,7 +3,7 @@ title: Class IfcExternallyDefinedHatchStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExternallyDefinedHatchStyle class. IfcExternallyDefinedHatchStyle
 type: docs
-weight: 24180
+weight: 24200
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedhatchstyle/
 ---
 ## IfcExternallyDefinedHatchStyle class

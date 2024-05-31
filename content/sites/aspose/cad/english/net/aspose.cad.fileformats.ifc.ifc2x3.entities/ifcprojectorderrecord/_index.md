@@ -3,7 +3,7 @@ title: Class IfcProjectOrderRecord
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProjectOrderRecord class. IfcProjectOrderRecord
 type: docs
-weight: 15840
+weight: 15860
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprojectorderrecord/
 ---
 ## IfcProjectOrderRecord class

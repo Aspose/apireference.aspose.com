@@ -3,7 +3,7 @@ title: Class IfcTextureVertex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextureVertex class. IfcTextureVertex
 type: docs
-weight: 18010
+weight: 18030
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturevertex/
 ---
 ## IfcTextureVertex class

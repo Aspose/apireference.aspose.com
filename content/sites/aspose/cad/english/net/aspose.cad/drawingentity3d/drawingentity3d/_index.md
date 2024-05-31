@@ -9,7 +9,7 @@ url: /net/aspose.cad/drawingentity3d/drawingentity3d/
 ## DrawingEntity3D constructor
 
 ```csharp
-public DrawingEntity3D(#=zYNbmbLkjGE1vJCgGgxvEMdxrXjBRwuFGNg== apsNode3D)
+public DrawingEntity3D(#=zjEoGKCEE6HrBR4bZYF3SJKdOwjm7G9kz_w== apsNode3D)
 ```
 
 ### See Also

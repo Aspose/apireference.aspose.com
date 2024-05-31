@@ -3,7 +3,7 @@ title: Class IfcValveType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcValveType class. IfcValveType
 type: docs
-weight: 18210
+weight: 18230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvalvetype/
 ---
 ## IfcValveType class

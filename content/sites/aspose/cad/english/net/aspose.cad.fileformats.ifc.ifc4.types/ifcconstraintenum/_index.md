@@ -3,7 +3,7 @@ title: Enum IfcConstraintEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcConstraintEnum enum. IfcConstraintEnum
 type: docs
-weight: 30070
+weight: 30090
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcconstraintenum/
 ---
 ## IfcConstraintEnum enumeration

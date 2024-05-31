@@ -3,7 +3,7 @@ title: Class EdgeWidth
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeWidth class. 
 type: docs
-weight: 5550
+weight: 5560
 url: /net/aspose.cad.fileformats.cgm.commands/edgewidth/
 ---
 ## EdgeWidth class

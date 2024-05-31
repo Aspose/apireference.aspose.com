@@ -3,7 +3,7 @@ title: Enum AspectSourceFlags.ASFType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.AspectSourceFlagsASFType enum. 
 type: docs
-weight: 4830
+weight: 4840
 url: /net/aspose.cad.fileformats.cgm.commands/aspectsourceflags.asftype/
 ---
 ## AspectSourceFlags.ASFType enumeration

@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/soft_ownership_
 Soft ownership reference: the owner does not need the owned object. The owned object cannot exist by itself. Code - 2
 
 ```csharp
-public static int SOFT_OWNERSHIP_REFERENCE;
+public const int SOFT_OWNERSHIP_REFERENCE;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class CadPdfDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition.CadPdfDefinition class. Class describing CadPdfDefinition
 type: docs
-weight: 4030
+weight: 4040
 url: /net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/cadpdfdefinition/
 ---
 ## CadPdfDefinition class

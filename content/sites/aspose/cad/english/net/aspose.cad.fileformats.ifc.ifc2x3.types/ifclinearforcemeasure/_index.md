@@ -3,7 +3,7 @@ title: Class IfcLinearForceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcLinearForceMeasure class. IfcLinearForceMeasure
 type: docs
-weight: 19990
+weight: 20010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearforcemeasure/
 ---
 ## IfcLinearForceMeasure class

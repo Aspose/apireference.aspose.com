@@ -3,7 +3,7 @@ title: Enum SvgImageType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.SvgOptionsParameters.SvgImageType enum. Represents type of raster image within SVG image
 type: docs
-weight: 36490
+weight: 36780
 url: /net/aspose.cad.imageoptions.svgoptionsparameters/svgimagetype/
 ---
 ## SvgImageType enumeration

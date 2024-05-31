@@ -3,7 +3,7 @@ title: StpImage.Schemas
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.fileformats.stp/stpimage/schemas/
 ---
 ## StpImage.Schemas property

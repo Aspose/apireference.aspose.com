@@ -3,7 +3,7 @@ title: CadBlockTableObject.XDataStringData
 second_title: Aspose.CAD for .NET API Reference
 description: CadBlockTableObject property. Gets or sets the xdata string data
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/xdatastringdata/
 ---
 ## CadBlockTableObject.XDataStringData property

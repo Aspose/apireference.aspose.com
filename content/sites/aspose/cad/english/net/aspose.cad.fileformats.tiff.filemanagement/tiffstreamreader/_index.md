@@ -3,7 +3,7 @@ title: Class TiffStreamReader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.FileManagement.TiffStreamReader class. The tiff stream for handling little endian tiff file format
 type: docs
-weight: 35290
+weight: 35550
 url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/
 ---
 ## TiffStreamReader class

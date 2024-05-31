@@ -3,7 +3,7 @@ title: Class IfcSIUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSIUnit class. IfcSIUnit
 type: docs
-weight: 27530
+weight: 27550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/
 ---
 ## IfcSIUnit class

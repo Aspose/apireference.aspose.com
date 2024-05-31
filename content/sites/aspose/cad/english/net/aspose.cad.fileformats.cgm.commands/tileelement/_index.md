@@ -3,7 +3,7 @@ title: Class TileElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TileElement class. 
 type: docs
-weight: 6860
+weight: 6870
 url: /net/aspose.cad.fileformats.cgm.commands/tileelement/
 ---
 ## TileElement class

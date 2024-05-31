@@ -3,7 +3,7 @@ title: Enum IfcPermeableCoveringOperationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPermeableCoveringOperationEnum enum. IfcPermeableCoveringOperationEnum
 type: docs
-weight: 20410
+weight: 20430
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpermeablecoveringoperationenum/
 ---
 ## IfcPermeableCoveringOperationEnum enumeration

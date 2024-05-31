@@ -3,7 +3,7 @@ title: Aspose.CAD.Primitives
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles generic primitives
 type: docs
-weight: 1300
+weight: 1320
 url: /net/aspose.cad.primitives/
 ---
 The namespace handles generic primitives.

@@ -3,7 +3,7 @@ title: Class IfcSurfaceOfRevolution
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceOfRevolution class. IfcSurfaceOfRevolution
 type: docs
-weight: 28460
+weight: 28480
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceofrevolution/
 ---
 ## IfcSurfaceOfRevolution class

@@ -3,7 +3,7 @@ title: Class IfcMaterialLayerSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialLayerSet class. IfcMaterialLayerSet
 type: docs
-weight: 25330
+weight: 25350
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayerset/
 ---
 ## IfcMaterialLayerSet class

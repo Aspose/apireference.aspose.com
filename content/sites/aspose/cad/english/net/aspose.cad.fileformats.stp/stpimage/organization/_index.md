@@ -3,7 +3,7 @@ title: StpImage.Organization
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.fileformats.stp/stpimage/organization/
 ---
 ## StpImage.Organization property

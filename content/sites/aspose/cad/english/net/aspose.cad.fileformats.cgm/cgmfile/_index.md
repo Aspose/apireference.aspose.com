@@ -3,7 +3,7 @@ title: Class CgmFile
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.CgmFile class. CGM image class
 type: docs
-weight: 4600
+weight: 4610
 url: /net/aspose.cad.fileformats.cgm/cgmfile/
 ---
 ## CgmFile class

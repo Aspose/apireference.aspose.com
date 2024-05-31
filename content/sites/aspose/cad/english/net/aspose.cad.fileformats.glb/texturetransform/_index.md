@@ -3,7 +3,7 @@ title: Class TextureTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.TextureTransform class. glTF extension that enables shifting and scaling UV coordinates on a pertexture basis
 type: docs
-weight: 11480
+weight: 11500
 url: /net/aspose.cad.fileformats.glb/texturetransform/
 ---
 ## TextureTransform class

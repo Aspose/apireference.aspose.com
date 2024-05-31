@@ -3,7 +3,7 @@ title: Class CadVertexBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices.CadVertexBase class. Class describing Cad VERTEX
 type: docs
-weight: 4100
+weight: 4110
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/
 ---
 ## CadVertexBase class

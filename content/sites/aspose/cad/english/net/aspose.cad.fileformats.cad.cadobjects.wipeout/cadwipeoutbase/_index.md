@@ -3,7 +3,7 @@ title: Class CadWipeoutBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout.CadWipeoutBase class. The Cad wipeout
 type: docs
-weight: 4130
+weight: 4140
 url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/
 ---
 ## CadWipeoutBase class

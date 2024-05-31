@@ -3,7 +3,7 @@ title: Enum IfcLoadGroupTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLoadGroupTypeEnum enum. IfcLoadGroupTypeEnum
 type: docs
-weight: 31380
+weight: 31400
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcloadgrouptypeenum/
 ---
 ## IfcLoadGroupTypeEnum enumeration

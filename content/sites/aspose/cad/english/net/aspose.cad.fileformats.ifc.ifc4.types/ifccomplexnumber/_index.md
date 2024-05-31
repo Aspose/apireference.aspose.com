@@ -3,7 +3,7 @@ title: Class IfcComplexNumber
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcComplexNumber class. IfcComplexNumber
 type: docs
-weight: 30010
+weight: 30030
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccomplexnumber/
 ---
 ## IfcComplexNumber class

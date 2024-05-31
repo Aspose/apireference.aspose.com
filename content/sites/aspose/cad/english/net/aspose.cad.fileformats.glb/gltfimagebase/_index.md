@@ -3,7 +3,7 @@ title: Class GltfImageBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.GltfImageBase class. Represents the base class of a serializable glTF schema2 object. Inherited by ExtraProperties
 type: docs
-weight: 10680
+weight: 10700
 url: /net/aspose.cad.fileformats.glb/gltfimagebase/
 ---
 ## GltfImageBase class

@@ -3,7 +3,7 @@ title: Class IfcElementarySurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcElementarySurface class. IfcElementarySurface
 type: docs
-weight: 23980
+weight: 24000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementarysurface/
 ---
 ## IfcElementarySurface class

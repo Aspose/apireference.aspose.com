@@ -3,7 +3,7 @@ title: Class CadWipeoutVariables
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadWipeoutVariables class. Class describing WIPEOUTVARIABLES object
 type: docs
-weight: 3480
+weight: 3490
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadwipeoutvariables/
 ---
 ## CadWipeoutVariables class

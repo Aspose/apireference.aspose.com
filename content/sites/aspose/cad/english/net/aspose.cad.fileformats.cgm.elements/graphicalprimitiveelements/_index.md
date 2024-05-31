@@ -3,7 +3,7 @@ title: Class GraphicalPrimitiveElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.GraphicalPrimitiveElements class. 
 type: docs
-weight: 7060
+weight: 7070
 url: /net/aspose.cad.fileformats.cgm.elements/graphicalprimitiveelements/
 ---
 ## GraphicalPrimitiveElements class

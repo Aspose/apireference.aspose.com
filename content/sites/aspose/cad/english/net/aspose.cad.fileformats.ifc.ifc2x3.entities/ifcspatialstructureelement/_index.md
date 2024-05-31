@@ -3,7 +3,7 @@ title: Class IfcSpatialStructureElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSpatialStructureElement class. IfcSpatialStructureElement
 type: docs
-weight: 17170
+weight: 17190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspatialstructureelement/
 ---
 ## IfcSpatialStructureElement class

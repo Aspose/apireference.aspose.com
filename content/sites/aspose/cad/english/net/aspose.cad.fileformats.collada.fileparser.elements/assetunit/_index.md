@@ -3,7 +3,7 @@ title: Class AssetUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.AssetUnit class. The asset unit. The unit element contains descriptive information about unit of measure. It has attributes for the name of the unit and the measurement with respect to the meter. The unit element may appear zero or one time
 type: docs
-weight: 7360
+weight: 7370
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/
 ---
 ## AssetUnit class

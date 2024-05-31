@@ -3,7 +3,7 @@ title: Class GeographicLocation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.GeographicLocation class. The geographic location. Specifies the location of the asset using the WGS84 coordinate system
 type: docs
-weight: 7840
+weight: 7850
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/
 ---
 ## GeographicLocation class

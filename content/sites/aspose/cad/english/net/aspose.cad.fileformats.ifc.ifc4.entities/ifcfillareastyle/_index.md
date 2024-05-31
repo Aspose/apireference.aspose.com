@@ -3,7 +3,7 @@ title: Class IfcFillAreaStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFillAreaStyle class. IfcFillAreaStyle
 type: docs
-weight: 24380
+weight: 24400
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyle/
 ---
 ## IfcFillAreaStyle class

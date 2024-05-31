@@ -3,7 +3,7 @@ title: Class TextScoreType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextScoreType class. Class5 ElementId41
 type: docs
-weight: 6830
+weight: 6840
 url: /net/aspose.cad.fileformats.cgm.commands/textscoretype/
 ---
 ## TextScoreType class

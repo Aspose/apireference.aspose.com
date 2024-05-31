@@ -3,7 +3,7 @@ title: Class IfcMember
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMember class. IfcMember
 type: docs
-weight: 15100
+weight: 15120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmember/
 ---
 ## IfcMember class

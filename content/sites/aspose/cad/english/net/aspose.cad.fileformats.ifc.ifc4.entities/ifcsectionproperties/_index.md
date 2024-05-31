@@ -3,7 +3,7 @@ title: Class IfcSectionProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSectionProperties class. IfcSectionProperties
 type: docs
-weight: 27580
+weight: 27600
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/
 ---
 ## IfcSectionProperties class

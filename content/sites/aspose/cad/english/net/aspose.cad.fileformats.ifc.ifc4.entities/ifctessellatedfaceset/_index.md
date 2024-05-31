@@ -3,7 +3,7 @@ title: Class IfcTessellatedFaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTessellatedFaceSet class. IfcTessellatedFaceSet
 type: docs
-weight: 28790
+weight: 28810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/
 ---
 ## IfcTessellatedFaceSet class

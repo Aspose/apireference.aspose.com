@@ -3,7 +3,7 @@ title: Class CadDictionaryWithDefault
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary.CadDictionaryWithDefault class. Class describing Dictionary With default object
 type: docs
-weight: 3570
+weight: 3580
 url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/
 ---
 ## CadDictionaryWithDefault class

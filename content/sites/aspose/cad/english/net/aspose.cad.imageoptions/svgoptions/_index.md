@@ -3,7 +3,7 @@ title: Class SvgOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.SvgOptions class. The SVG file format creation options
 type: docs
-weight: 36440
+weight: 36730
 url: /net/aspose.cad.imageoptions/svgoptions/
 ---
 ## SvgOptions class
@@ -32,6 +32,7 @@ public class SvgOptions : ImageOptionsBase, ITextAsShapesOptions
 | [MinimumRelativeLinewidthRatio](../../aspose.cad.imageoptions/svgoptions/minimumrelativelinewidthratio/) { get; set; } | Lines with width less than image's size\minimumRelativeLinewidthRatio will be rescaled if relative rescaling treshold is used. A smaller dimension is picked as image size. |
 | virtual [Palette](../../aspose.cad.imageoptions/imageoptionsbase/palette/) { get; set; } | Gets or sets the color palette. |
 | [Pc3File](../../aspose.cad.imageoptions/imageoptionsbase/pc3file/) { get; set; } | Gets or sets the PC3 file full name. |
+| [RenderToGraphicsBound](../../aspose.cad.imageoptions/imageoptionsbase/rendertographicsbound/) { get; set; } | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | [RescaleSubpixelLinewidths](../../aspose.cad.imageoptions/svgoptions/rescalesubpixellinewidths/) { get; set; } | Whether sub-pixel linewidths should be rescaled. If set to true, lines thinner than a width specified by other options will be drawn thicker, asymptotically approaching the minimum width |
 | virtual [ResolutionSettings](../../aspose.cad.imageoptions/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
 | [Rotation](../../aspose.cad.imageoptions/imageoptionsbase/rotation/) { get; set; } | Gets or sets the parameter for rotate, flip, or rotate and flip the image.. |

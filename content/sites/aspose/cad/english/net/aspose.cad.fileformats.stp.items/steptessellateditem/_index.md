@@ -3,7 +3,7 @@ title: Class StepTessellatedItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTessellatedItem class. TessellatedItem class for STP file
 type: docs
-weight: 34820
+weight: 35070
 url: /net/aspose.cad.fileformats.stp.items/steptessellateditem/
 ---
 ## StepTessellatedItem class

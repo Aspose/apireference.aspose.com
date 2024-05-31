@@ -3,7 +3,7 @@ title: Struct ThreeDSPoly
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSPoly struct. 
 type: docs
-weight: 35080
+weight: 35340
 url: /net/aspose.cad.fileformats.threeds.elements/threedspoly/
 ---
 ## ThreeDSPoly structure

@@ -3,7 +3,7 @@ title: Class Brep
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Brep class. The BREP. Describes a boundary representation BREP structure
 type: docs
-weight: 7410
+weight: 7420
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/brep/
 ---
 ## Brep class

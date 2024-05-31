@@ -3,7 +3,7 @@ title: Class CadIntParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadParameters.CadIntParameter class. The Cad integer parameter
 type: docs
-weight: 4180
+weight: 4190
 url: /net/aspose.cad.fileformats.cad.cadparameters/cadintparameter/
 ---
 ## CadIntParameter class

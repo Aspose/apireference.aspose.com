@@ -3,7 +3,7 @@ title: Class IfcResourceLevelRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcResourceLevelRelationship class. IfcResourceLevelRelationship
 type: docs
-weight: 27430
+weight: 27450
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/
 ---
 ## IfcResourceLevelRelationship class

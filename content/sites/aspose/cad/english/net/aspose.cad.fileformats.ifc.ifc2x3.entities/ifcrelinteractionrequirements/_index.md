@@ -3,7 +3,7 @@ title: Class IfcRelInteractionRequirements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelInteractionRequirements class. IfcRelInteractionRequirements
 type: docs
-weight: 16650
+weight: 16670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/
 ---
 ## IfcRelInteractionRequirements class

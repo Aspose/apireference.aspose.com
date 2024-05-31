@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleShading
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceStyleShading class. IfcSurfaceStyleShading
 type: docs
-weight: 17720
+weight: 17740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyleshading/
 ---
 ## IfcSurfaceStyleShading class

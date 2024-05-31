@@ -3,7 +3,7 @@ title: Class ArcSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.ArcSegment class. The arc segment. Represents an elliptical arc between two points
 type: docs
-weight: 9240
+weight: 9260
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/arcsegment/
 ---
 ## ArcSegment class

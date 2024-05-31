@@ -3,7 +3,7 @@ title: DxfOptions.TargetFormat
 second_title: Aspose.CAD for .NET API Reference
 description: DxfOptions property. 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.imageoptions/dxfoptions/targetformat/
 ---
 ## DxfOptions.TargetFormat property

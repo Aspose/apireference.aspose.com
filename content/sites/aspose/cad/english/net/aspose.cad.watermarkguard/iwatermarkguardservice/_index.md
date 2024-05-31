@@ -3,7 +3,7 @@ title: Interface IWatermarkGuardService
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.WatermarkGuard.IWatermarkGuardService interface. 
 type: docs
-weight: 37140
+weight: 37430
 url: /net/aspose.cad.watermarkguard/iwatermarkguardservice/
 ---
 ## IWatermarkGuardService interface

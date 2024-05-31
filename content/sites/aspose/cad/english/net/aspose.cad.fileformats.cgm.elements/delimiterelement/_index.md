@@ -3,7 +3,7 @@ title: Enum DelimiterElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.DelimiterElement enum. Delimiter Elements
 type: docs
-weight: 7010
+weight: 7020
 url: /net/aspose.cad.fileformats.cgm.elements/delimiterelement/
 ---
 ## DelimiterElement enumeration

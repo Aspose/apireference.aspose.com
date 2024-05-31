@@ -3,7 +3,7 @@ title: Class Command
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.Command class. Base class for all commands
 type: docs
-weight: 5320
+weight: 5330
 url: /net/aspose.cad.fileformats.cgm.commands/command/
 ---
 ## Command class

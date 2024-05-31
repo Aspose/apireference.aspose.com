@@ -3,7 +3,7 @@ title: Enum MaterializeStage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.MaterializeStage enum. Represents materialization stage
 type: docs
-weight: 9640
+weight: 9660
 url: /net/aspose.cad.fileformats.dwf.whip/materializestage/
 ---
 ## MaterializeStage enumeration

@@ -3,7 +3,7 @@ title: Enum IfcWindowStyleConstructionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWindowStyleConstructionEnum enum. IfcWindowStyleConstructionEnum
 type: docs
-weight: 33380
+weight: 33400
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwindowstyleconstructionenum/
 ---
 ## IfcWindowStyleConstructionEnum enumeration

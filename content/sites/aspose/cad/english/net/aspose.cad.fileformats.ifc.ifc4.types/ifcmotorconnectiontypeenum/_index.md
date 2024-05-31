@@ -3,7 +3,7 @@ title: Enum IfcMotorConnectionTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMotorConnectionTypeEnum enum. IfcMotorConnectionTypeEnum
 type: docs
-weight: 31680
+weight: 31700
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmotorconnectiontypeenum/
 ---
 ## IfcMotorConnectionTypeEnum enumeration

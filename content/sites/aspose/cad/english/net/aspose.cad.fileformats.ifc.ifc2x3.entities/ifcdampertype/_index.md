@@ -3,7 +3,7 @@ title: Class IfcDamperType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDamperType class. IfcDamperType
 type: docs
-weight: 13310
+weight: 13330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdampertype/
 ---
 ## IfcDamperType class

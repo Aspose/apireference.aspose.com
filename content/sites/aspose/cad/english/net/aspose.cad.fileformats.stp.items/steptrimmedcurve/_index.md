@@ -3,7 +3,7 @@ title: Class StepTrimmedCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTrimmedCurve class. TrimmedCurve class for STP file
 type: docs
-weight: 34880
+weight: 35140
 url: /net/aspose.cad.fileformats.stp.items/steptrimmedcurve/
 ---
 ## StepTrimmedCurve class

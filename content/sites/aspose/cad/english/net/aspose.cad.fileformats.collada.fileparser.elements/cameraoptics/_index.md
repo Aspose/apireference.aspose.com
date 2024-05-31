@@ -3,7 +3,7 @@ title: Class CameraOptics
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.CameraOptics class. The camera optics. Represents the apparatus on a camera that projects the image onto the image sensor
 type: docs
-weight: 7430
+weight: 7440
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraoptics/
 ---
 ## CameraOptics class

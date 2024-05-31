@@ -3,7 +3,7 @@ title: Struct ScalarArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.ScalarArray struct. Wraps an encoded ArraySegment and exposes it as an IList
 type: docs
-weight: 11020
+weight: 11040
 url: /net/aspose.cad.fileformats.glb.memory/scalararray/
 ---
 ## ScalarArray structure

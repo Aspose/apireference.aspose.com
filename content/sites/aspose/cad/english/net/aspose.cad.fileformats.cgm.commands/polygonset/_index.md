@@ -3,7 +3,7 @@ title: Class PolygonSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PolygonSet class. Class4 ElementId8
 type: docs
-weight: 6430
+weight: 6440
 url: /net/aspose.cad.fileformats.cgm.commands/polygonset/
 ---
 ## PolygonSet class

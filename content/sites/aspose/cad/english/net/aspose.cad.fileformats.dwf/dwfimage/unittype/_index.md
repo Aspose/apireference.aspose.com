@@ -1,12 +1,14 @@
 ---
 title: DwfImage.UnitType
 second_title: Aspose.CAD for .NET API Reference
-description: DwfImage property. 
+description: DwfImage property. Gets current unit type
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.dwf/dwfimage/unittype/
 ---
 ## DwfImage.UnitType property
+
+Gets current unit type.
 
 ```csharp
 public override UnitType UnitType { get; }

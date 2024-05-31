@@ -3,7 +3,7 @@ title: Class CadPolylineBoundaryPath
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadPolylineBoundaryPath class. The Cad polyline boundary path
 type: docs
-weight: 3700
+weight: 3710
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/
 ---
 ## CadPolylineBoundaryPath class

@@ -3,7 +3,7 @@ title: Enum CompressionType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.CompressionType enum. 
 type: docs
-weight: 7160
+weight: 7170
 url: /net/aspose.cad.fileformats.cgm.enums/compressiontype/
 ---
 ## CompressionType enumeration

@@ -3,7 +3,7 @@ title: Class RectangleElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.RectangleElement class. Class4 ElementId11
 type: docs
-weight: 6500
+weight: 6510
 url: /net/aspose.cad.fileformats.cgm.commands/rectangleelement/
 ---
 ## RectangleElement class

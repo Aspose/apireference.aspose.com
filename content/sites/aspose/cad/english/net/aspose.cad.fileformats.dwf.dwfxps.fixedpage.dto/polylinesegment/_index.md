@@ -3,7 +3,7 @@ title: Class PolyLineSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PolyLineSegment class. The poly line segment. Specifies a set of points between which lines are drawn
 type: docs
-weight: 9460
+weight: 9480
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/
 ---
 ## PolyLineSegment class

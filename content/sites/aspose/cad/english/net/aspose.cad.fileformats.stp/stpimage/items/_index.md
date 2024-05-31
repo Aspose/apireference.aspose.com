@@ -3,7 +3,7 @@ title: StpImage.Items
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.fileformats.stp/stpimage/items/
 ---
 ## StpImage.Items property

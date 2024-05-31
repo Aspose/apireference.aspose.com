@@ -3,7 +3,7 @@ title: Class StepVertex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepVertex class. Vertex class for STP file
 type: docs
-weight: 34930
+weight: 35190
 url: /net/aspose.cad.fileformats.stp.items/stepvertex/
 ---
 ## StepVertex class

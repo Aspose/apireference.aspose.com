@@ -3,7 +3,7 @@ title: Class CadPropertyAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadPropertyAttribute class. Base class attribute for dxf properties
 type: docs
-weight: 4240
+weight: 4250
 url: /net/aspose.cad.fileformats.cad/cadpropertyattribute/
 ---
 ## CadPropertyAttribute class

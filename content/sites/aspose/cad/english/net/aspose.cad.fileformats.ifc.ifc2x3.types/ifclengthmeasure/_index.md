@@ -3,7 +3,7 @@ title: Class IfcLengthMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcLengthMeasure class. IfcLengthMeasure
 type: docs
-weight: 19930
+weight: 19950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclengthmeasure/
 ---
 ## IfcLengthMeasure class

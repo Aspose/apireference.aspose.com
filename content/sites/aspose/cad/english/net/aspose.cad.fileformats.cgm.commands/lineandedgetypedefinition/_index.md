@@ -3,7 +3,7 @@ title: Class LineAndEdgeTypeDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineAndEdgeTypeDefinition class. 
 type: docs
-weight: 5970
+weight: 5980
 url: /net/aspose.cad.fileformats.cgm.commands/lineandedgetypedefinition/
 ---
 ## LineAndEdgeTypeDefinition class

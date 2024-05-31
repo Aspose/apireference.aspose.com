@@ -3,7 +3,7 @@ title: Enum IfcPipeFittingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPipeFittingTypeEnum enum. IfcPipeFittingTypeEnum
 type: docs
-weight: 20450
+weight: 20470
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpipefittingtypeenum/
 ---
 ## IfcPipeFittingTypeEnum enumeration

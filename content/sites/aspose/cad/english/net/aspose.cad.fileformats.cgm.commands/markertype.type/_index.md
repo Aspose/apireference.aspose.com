@@ -3,7 +3,7 @@ title: Enum MarkerType.Type
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MarkerTypeType enum. 
 type: docs
-weight: 6160
+weight: 6170
 url: /net/aspose.cad.fileformats.cgm.commands/markertype.type/
 ---
 ## MarkerType.Type enumeration

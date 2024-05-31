@@ -3,7 +3,7 @@ title: Class IfcIndexedTextureMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedTextureMap class. IfcIndexedTextureMap
 type: docs
-weight: 24920
+weight: 24940
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtexturemap/
 ---
 ## IfcIndexedTextureMap class

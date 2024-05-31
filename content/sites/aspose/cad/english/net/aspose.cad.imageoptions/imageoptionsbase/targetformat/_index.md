@@ -3,7 +3,7 @@ title: ImageOptionsBase.TargetFormat
 second_title: Aspose.CAD for .NET API Reference
 description: ImageOptionsBase property. 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.imageoptions/imageoptionsbase/targetformat/
 ---
 ## ImageOptionsBase.TargetFormat property

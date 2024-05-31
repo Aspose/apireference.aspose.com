@@ -3,7 +3,7 @@ title: Class TextureSampler
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.TextureSampler class. Texture sampler properties for filtering and wrapping modes
 type: docs
-weight: 11470
+weight: 11490
 url: /net/aspose.cad.fileformats.glb/texturesampler/
 ---
 ## TextureSampler class

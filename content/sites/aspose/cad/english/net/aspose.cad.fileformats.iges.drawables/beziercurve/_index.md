@@ -3,7 +3,7 @@ title: Class BezierCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.BezierCurve class. Provides intermediate Drawable representation in form of cubic Bezier curve
 type: docs
-weight: 33590
+weight: 33610
 url: /net/aspose.cad.fileformats.iges.drawables/beziercurve/
 ---
 ## BezierCurve class

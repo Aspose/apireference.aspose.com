@@ -3,7 +3,7 @@ title: Interface IChildOfTParent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Collections.IChildOf1TParent interface. 
 type: docs
-weight: 10320
+weight: 10340
 url: /net/aspose.cad.fileformats.glb.collections/ichildof-1/
 ---
 ## IChildOf&lt;TParent&gt; interface

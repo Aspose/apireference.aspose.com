@@ -3,7 +3,7 @@ title: Class IfcReinforcementDefinitionProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcReinforcementDefinitionProperties class. IfcReinforcementDefinitionProperties
 type: docs
-weight: 16230
+weight: 16250
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementdefinitionproperties/
 ---
 ## IfcReinforcementDefinitionProperties class

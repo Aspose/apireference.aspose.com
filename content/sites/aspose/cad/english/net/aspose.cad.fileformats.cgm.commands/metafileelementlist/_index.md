@@ -3,7 +3,7 @@ title: Class MetafileElementList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MetafileElementList class. 
 type: docs
-weight: 6230
+weight: 6240
 url: /net/aspose.cad.fileformats.cgm.commands/metafileelementlist/
 ---
 ## MetafileElementList class

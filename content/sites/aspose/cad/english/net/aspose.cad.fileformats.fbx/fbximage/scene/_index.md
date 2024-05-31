@@ -9,7 +9,7 @@ url: /net/aspose.cad.fileformats.fbx/fbximage/scene/
 ## FbxImage.Scene property
 
 ```csharp
-public #=zQd9aIWN9R2ka9u$3A1hKwvBSDFGkIX2k4Q== Scene { get; }
+public #=zOninHhLfKxJl_itcQfbxdQ18vNnX7ULajA== Scene { get; }
 ```
 
 ### See Also

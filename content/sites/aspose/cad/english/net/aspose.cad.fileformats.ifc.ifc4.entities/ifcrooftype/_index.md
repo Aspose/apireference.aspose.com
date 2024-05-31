@@ -3,7 +3,7 @@ title: Class IfcRoofType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRoofType class. IfcRoofType
 type: docs
-weight: 27500
+weight: 27520
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrooftype/
 ---
 ## IfcRoofType class

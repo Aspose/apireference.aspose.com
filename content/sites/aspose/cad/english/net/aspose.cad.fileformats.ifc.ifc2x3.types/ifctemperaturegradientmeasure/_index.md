@@ -3,7 +3,7 @@ title: Class IfcTemperatureGradientMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTemperatureGradientMeasure class. IfcTemperatureGradientMeasure
 type: docs
-weight: 21220
+weight: 21240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctemperaturegradientmeasure/
 ---
 ## IfcTemperatureGradientMeasure class

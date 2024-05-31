@@ -3,7 +3,7 @@ title: Enum StepItemType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepItemType enum. ItemType RepresentationItem enum for STP file
 type: docs
-weight: 34580
+weight: 34740
 url: /net/aspose.cad.fileformats.stp.items/stepitemtype/
 ---
 ## StepItemType enumeration
@@ -66,6 +66,19 @@ public enum StepItemType
 | ProductDefinition | `45` |  |
 | ProductDefinitionFormation | `46` |  |
 | TrimmedCurve | `47` |  |
+| StyledItem | `48` |  |
+| PresentationStyleAssignment | `49` |  |
+| SurfaceStyleUsage | `50` |  |
+| SurfaceSideStyle | `51` |  |
+| SurfaceStyleFillArea | `52` |  |
+| FillAreaStyle | `53` |  |
+| FillAreaStyleColour | `54` |  |
+| ColourRGB | `55` |  |
+| DraughtingPreDefinedColour | `56` |  |
+| RepresentationRelationship | `57` |  |
+| RepresentationRelationshipWithTransformation | `58` |  |
+| ComplexItem | `59` |  |
+| ItemDefinedTransformation | `60` |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class ClipRectangle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ClipRectangle class. Class3 ElementId5
 type: docs
-weight: 5210
+weight: 5220
 url: /net/aspose.cad.fileformats.cgm.commands/cliprectangle/
 ---
 ## ClipRectangle class

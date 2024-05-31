@@ -3,7 +3,7 @@ title: Enum FontStoreType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.SvgOptionsParameters.FontStoreType enum. The font store type
 type: docs
-weight: 36450
+weight: 36740
 url: /net/aspose.cad.imageoptions.svgoptionsparameters/fontstoretype/
 ---
 ## FontStoreType enumeration

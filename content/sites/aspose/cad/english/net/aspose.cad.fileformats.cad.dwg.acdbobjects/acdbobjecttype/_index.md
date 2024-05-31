@@ -3,7 +3,7 @@ title: Enum AcDbObjectType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.AcDbObjectType enum. Internal Dwg entity type codes
 type: docs
-weight: 4430
+weight: 4440
 url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/acdbobjecttype/
 ---
 ## AcDbObjectType enumeration
@@ -145,20 +145,21 @@ public enum AcDbObjectType
 | ACSH_SPHERE_CLASS | `130` | The Acsh Sphere Class |
 | ACSH_TORUS_CLASS | `131` | The Acsh Torus Class |
 | ACSH_WEDGE_CLASS | `132` | The Acsh Wedge Class |
-| VBA_PROJECT_500 | `133` | The project |
-| VISUALSTYLE | `134` | The visual style |
-| WIPEOUTVARIABLE | `135` | The wipe out variable |
-| XRECORD_500 | `136` | The record |
-| DGNUNDERLAY | `137` | The dgnunderlay |
-| DGNDEFINITION | `138` | The dgndefinition |
-| DWFUNDERLAY | `139` | The dwfunderlay |
-| DWFDEFINITION | `140` | The dwfdefinition |
-| PDFUNDERLAY | `141` | The pdfunderlay |
-| PDFDEFINITION | `142` | The pdfdefinition |
-| AECIDBIMAGEDEF | `143` | The embedded image definition |
-| IMAGEDATA | `144` | The embedded image data |
-| EMBEDDEDIMAGE | `145` | The embedded image |
-| ACIDBLOCKREFERENCE | `146` | The block reference |
+| VLO_VL | `133` | The VLO-VL object |
+| VBA_PROJECT_500 | `134` | The project |
+| VISUALSTYLE | `135` | The visual style |
+| WIPEOUTVARIABLE | `136` | The wipe out variable |
+| XRECORD_500 | `137` | The record |
+| DGNUNDERLAY | `138` | The dgnunderlay |
+| DGNDEFINITION | `139` | The dgndefinition |
+| DWFUNDERLAY | `140` | The dwfunderlay |
+| DWFDEFINITION | `141` | The dwfdefinition |
+| PDFUNDERLAY | `142` | The pdfunderlay |
+| PDFDEFINITION | `143` | The pdfdefinition |
+| AECIDBIMAGEDEF | `144` | The embedded image definition |
+| IMAGEDATA | `145` | The embedded image data |
+| EMBEDDEDIMAGE | `146` | The embedded image |
+| ACIDBLOCKREFERENCE | `147` | The block reference |
 | ACAD_PROXY_ENTITY | `498` | The ACAD_PROXY_ENTITY |
 | ACAD_PROXY_OBJECT | `499` | The ACAD_PROXY_OBJECT |
 | WIPEOUT | `509` | The wipe out |

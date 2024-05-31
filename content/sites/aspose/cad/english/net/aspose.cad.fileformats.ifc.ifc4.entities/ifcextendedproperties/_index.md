@@ -3,7 +3,7 @@ title: Class IfcExtendedProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExtendedProperties class. IfcExtendedProperties
 type: docs
-weight: 24120
+weight: 24140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/
 ---
 ## IfcExtendedProperties class

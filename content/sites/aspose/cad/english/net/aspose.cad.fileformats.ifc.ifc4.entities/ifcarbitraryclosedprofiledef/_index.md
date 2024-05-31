@@ -3,7 +3,7 @@ title: Class IfcArbitraryClosedProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcArbitraryClosedProfileDef class. Partial IIfc entity class
 type: docs
-weight: 21940
+weight: 21960
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcarbitraryclosedprofiledef/
 ---
 ## IfcArbitraryClosedProfileDef class

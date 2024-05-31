@@ -3,7 +3,7 @@ title: Class IfcHeatingValueMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcHeatingValueMeasure class. IfcHeatingValueMeasure
 type: docs
-weight: 31060
+weight: 31080
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcheatingvaluemeasure/
 ---
 ## IfcHeatingValueMeasure class

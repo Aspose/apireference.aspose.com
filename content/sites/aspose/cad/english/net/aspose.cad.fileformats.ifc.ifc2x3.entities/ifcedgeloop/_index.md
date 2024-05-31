@@ -3,7 +3,7 @@ title: Class IfcEdgeLoop
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEdgeLoop class. IfcEdgeLoop
 type: docs
-weight: 13750
+weight: 13770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgeloop/
 ---
 ## IfcEdgeLoop class

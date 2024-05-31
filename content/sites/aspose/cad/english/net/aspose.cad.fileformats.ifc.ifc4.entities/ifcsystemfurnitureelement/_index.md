@@ -3,7 +3,7 @@ title: Class IfcSystemFurnitureElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSystemFurnitureElement class. IfcSystemFurnitureElement
 type: docs
-weight: 28620
+weight: 28640
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelement/
 ---
 ## IfcSystemFurnitureElement class

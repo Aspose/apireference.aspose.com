@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Obj.Mtl
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles ifc file format processing
 type: docs
-weight: 960
+weight: 970
 url: /net/aspose.cad.fileformats.obj.mtl/
 ---
 The namespace handles ifc file format processing.

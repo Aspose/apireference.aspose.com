@@ -3,7 +3,7 @@ title: Class Polygon
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.Polygon class. 
 type: docs
-weight: 33640
+weight: 33660
 url: /net/aspose.cad.fileformats.iges.drawables/polygon/
 ---
 ## Polygon class

@@ -3,7 +3,7 @@ title: Class IfcSensorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSensorType class. IfcSensorType
 type: docs
-weight: 16970
+weight: 16990
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsensortype/
 ---
 ## IfcSensorType class

@@ -3,7 +3,7 @@ title: Enum IfcSurfaceSide
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSurfaceSide enum. IfcSurfaceSide
 type: docs
-weight: 32810
+weight: 32830
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsurfaceside/
 ---
 ## IfcSurfaceSide enumeration

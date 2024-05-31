@@ -3,7 +3,7 @@ title: Interface ISummaryInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.ISummaryInfo interface. The Cad SummaryInfo interface
 type: docs
-weight: 3770
+weight: 3780
 url: /net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo/
 ---
 ## ISummaryInfo interface

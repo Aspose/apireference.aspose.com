@@ -3,7 +3,7 @@ title: Struct VertexTextureTuple
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.VertexTextureTuple struct. 
 type: docs
-weight: 11840
+weight: 11860
 url: /net/aspose.cad.fileformats.glb/vertextexturetuple/
 ---
 ## VertexTextureTuple structure

@@ -3,7 +3,7 @@ title: Class FixedPage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.FixedPage class. The fixed page. The FixedPage element contains the contents of a page and is the root element of a FixedPage part. The fixed page contains the elements that together form the basis for all markings rendered on the page Paths Glyphs and the optional Canvas grouping element
 type: docs
-weight: 9310
+weight: 9330
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/fixedpage/
 ---
 ## FixedPage class

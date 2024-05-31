@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_plus_off
 The handle plus offset reference. Code - 10 (0xA)
 
 ```csharp
-public static int HANDLE_PLUS_OFFSET_REFERENCE;
+public const int HANDLE_PLUS_OFFSET_REFERENCE;
 ```
 
 ### See Also

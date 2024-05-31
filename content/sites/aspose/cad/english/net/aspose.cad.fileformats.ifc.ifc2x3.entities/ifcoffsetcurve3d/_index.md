@@ -3,7 +3,7 @@ title: Class IfcOffsetCurve3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcOffsetCurve3D class. Partial IIfc entity class
 type: docs
-weight: 15230
+weight: 15250
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcoffsetcurve3d/
 ---
 ## IfcOffsetCurve3D class

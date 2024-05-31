@@ -3,7 +3,7 @@ title: Class IfcMetricValueSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMetricValueSelect class. IfcMetricValueSelect
 type: docs
-weight: 31550
+weight: 31570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmetricvalueselect/
 ---
 ## IfcMetricValueSelect class

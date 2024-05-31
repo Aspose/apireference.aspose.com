@@ -3,7 +3,7 @@ title: Class RealPrecisionBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.RealPrecisionBase class. 
 type: docs
-weight: 6490
+weight: 6500
 url: /net/aspose.cad.fileformats.cgm.commands/realprecisionbase/
 ---
 ## RealPrecisionBase class

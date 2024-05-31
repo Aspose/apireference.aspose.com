@@ -3,7 +3,7 @@ title: Interface IIfcEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IIfcEntity interface. IIfcEntity is a base interface for all IFC entities
 type: docs
-weight: 33460
+weight: 33480
 url: /net/aspose.cad.fileformats.ifc/iifcentity/
 ---
 ## IIfcEntity interface

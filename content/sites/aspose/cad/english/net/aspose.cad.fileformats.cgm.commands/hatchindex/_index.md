@@ -3,7 +3,7 @@ title: Class HatchIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.HatchIndex class. 
 type: docs
-weight: 5830
+weight: 5840
 url: /net/aspose.cad.fileformats.cgm.commands/hatchindex/
 ---
 ## HatchIndex class

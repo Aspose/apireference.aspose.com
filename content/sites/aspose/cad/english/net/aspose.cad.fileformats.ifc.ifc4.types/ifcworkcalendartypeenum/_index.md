@@ -3,7 +3,7 @@ title: Enum IfcWorkCalendarTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWorkCalendarTypeEnum enum. IfcWorkCalendarTypeEnum
 type: docs
-weight: 33420
+weight: 33440
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcworkcalendartypeenum/
 ---
 ## IfcWorkCalendarTypeEnum enumeration

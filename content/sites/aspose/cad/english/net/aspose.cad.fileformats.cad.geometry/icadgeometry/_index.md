@@ -3,7 +3,7 @@ title: Interface ICadGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Geometry.ICadGeometry interface. ICadGeometry class
 type: docs
-weight: 4550
+weight: 4560
 url: /net/aspose.cad.fileformats.cad.geometry/icadgeometry/
 ---
 ## ICadGeometry interface

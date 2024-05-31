@@ -3,7 +3,7 @@ title: Enum DwfWhipCapStyleID
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipCapStyleID enum. Represents An enumeration of cap styles used by WT_Line_End_Cap WT_Line_Start_Cap WT_Dash_End_Cap and WT_Dash_Start_Cap
 type: docs
-weight: 9930
+weight: 9950
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipcapstyleid/
 ---
 ## DwfWhipCapStyleID enumeration

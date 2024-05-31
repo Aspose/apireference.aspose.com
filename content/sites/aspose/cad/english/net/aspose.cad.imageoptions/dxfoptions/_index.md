@@ -1,14 +1,14 @@
 ---
 title: Class DxfOptions
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.DxfOptions class. The SVG file format creation options
+description: Aspose.CAD.ImageOptions.DxfOptions class. Class for DXF format output creation options
 type: docs
-weight: 36110
+weight: 36390
 url: /net/aspose.cad.imageoptions/dxfoptions/
 ---
 ## DxfOptions class
 
-The SVG file format creation options.
+Class for DXF format output creation options
 
 ```csharp
 public class DxfOptions : ImageOptionsBase, ITextAsLinesOptions
@@ -24,18 +24,20 @@ public class DxfOptions : ImageOptionsBase, ITextAsLinesOptions
 
 | Name | Description |
 | --- | --- |
-| [BezierPointCount](../../aspose.cad.imageoptions/dxfoptions/bezierpointcount/) { get; set; } | How many points to generate when converting Bezier curves to polylines |
+| [BezierPointCount](../../aspose.cad.imageoptions/dxfoptions/bezierpointcount/) { get; set; } | How many points to generate when converting Bezier curves to polylines if OutputMode is Render |
 | [CancellationToken](../../aspose.cad.imageoptions/imageoptionsbase/cancellationtoken/) { get; set; } | Token that can be used to interrupt export operation |
-| [ConvertTextBeziers](../../aspose.cad.imageoptions/dxfoptions/converttextbeziers/) { get; set; } | Wether to convert Bezier curves in text outlines to multipoint polylines (converted to 4 points if false). |
+| [ConvertTextBeziers](../../aspose.cad.imageoptions/dxfoptions/converttextbeziers/) { get; set; } | Wether to convert Bezier curves in text outlines to multipoint polylines (converted to 4 points if false) f OutputMode is Render |
 | [DxfFileFormat](../../aspose.cad.imageoptions/dxfoptions/dxffileformat/) { get; set; } | Gets or sets the DXF file format. |
 | [Layers](../../aspose.cad.imageoptions/imageoptionsbase/layers/) { get; set; } | Gets or sets a of layer names must be exported. All data will be exported without layers if names is not sets. |
+| [OutputMode](../../aspose.cad.imageoptions/dxfoptions/outputmode/) { get; set; } | Whether to convert contents to target format as is, or render to lines and then save. Convert mode is only availible for DWG\DXF source formats. |
 | virtual [Palette](../../aspose.cad.imageoptions/imageoptionsbase/palette/) { get; set; } | Gets or sets the color palette. |
 | [Pc3File](../../aspose.cad.imageoptions/imageoptionsbase/pc3file/) { get; set; } | Gets or sets the PC3 file full name. |
+| [RenderToGraphicsBound](../../aspose.cad.imageoptions/imageoptionsbase/rendertographicsbound/) { get; set; } | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | virtual [ResolutionSettings](../../aspose.cad.imageoptions/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
 | [Rotation](../../aspose.cad.imageoptions/imageoptionsbase/rotation/) { get; set; } | Gets or sets the parameter for rotate, flip, or rotate and flip the image.. |
 | [Source](../../aspose.cad.imageoptions/imageoptionsbase/source/) { get; set; } | Gets or sets the source to create image in. |
 | override [TargetFormat](../../aspose.cad.imageoptions/dxfoptions/targetformat/) { get; } |  |
-| [TextAsLines](../../aspose.cad.imageoptions/dxfoptions/textaslines/) { get; set; } | Gets or sets a value indicating whether [text as lines]. |
+| [TextAsLines](../../aspose.cad.imageoptions/dxfoptions/textaslines/) { get; set; } | Gets or sets a value indicating whether [text as lines] if OutputMode is Render. |
 | [Timeout](../../aspose.cad.imageoptions/imageoptionsbase/timeout/) { get; set; } | Timeout value for export operation (in milliseconds) |
 | [UserWatermarkColor](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarkcolor/) { get; set; } | Color for user-generated watermark |
 | [UserWatermarkText](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/) { get; set; } | Text for user-generated watermark |

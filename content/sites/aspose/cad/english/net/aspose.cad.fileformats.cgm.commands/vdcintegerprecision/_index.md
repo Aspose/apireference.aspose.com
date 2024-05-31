@@ -3,7 +3,7 @@ title: Class VdcIntegerPrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.VdcIntegerPrecision class. 
 type: docs
-weight: 6910
+weight: 6920
 url: /net/aspose.cad.fileformats.cgm.commands/vdcintegerprecision/
 ---
 ## VdcIntegerPrecision class

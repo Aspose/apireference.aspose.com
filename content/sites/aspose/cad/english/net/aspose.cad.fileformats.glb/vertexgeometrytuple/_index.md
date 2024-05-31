@@ -3,7 +3,7 @@ title: Struct VertexGeometryTuple
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.VertexGeometryTuple struct. 
 type: docs
-weight: 11830
+weight: 11850
 url: /net/aspose.cad.fileformats.glb/vertexgeometrytuple/
 ---
 ## VertexGeometryTuple structure

@@ -3,7 +3,7 @@ title: Class IfcControl
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcControl class. IfcControl
 type: docs
-weight: 23080
+weight: 23100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontrol/
 ---
 ## IfcControl class

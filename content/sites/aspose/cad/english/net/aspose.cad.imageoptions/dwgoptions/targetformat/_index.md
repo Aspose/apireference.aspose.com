@@ -3,7 +3,7 @@ title: DwgOptions.TargetFormat
 second_title: Aspose.CAD for .NET API Reference
 description: DwgOptions property. The target format
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.cad.imageoptions/dwgoptions/targetformat/
 ---
 ## DwgOptions.TargetFormat property

@@ -3,7 +3,7 @@ title: Enum IfcVersion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IfcVersion enum. 
 type: docs
-weight: 33570
+weight: 33590
 url: /net/aspose.cad.fileformats.ifc/ifcversion/
 ---
 ## IfcVersion enumeration

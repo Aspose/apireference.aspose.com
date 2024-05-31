@@ -3,7 +3,7 @@ title: CadRasterImageDef.ResolutionUnits
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterImageDef property. Gets or sets resolution units
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/resolutionunits/
 ---
 ## CadRasterImageDef.ResolutionUnits property

@@ -19,7 +19,7 @@ is_root: true
 | [Aspose.CAD.Exif](./aspose.cad.exif/) | The namespace contains EXIF related helper classes and methods. |
 | [Aspose.CAD.Exif.Enums](./aspose.cad.exif.enums/) | The namespace contains EXIF enumerations. |
 | [Aspose.CAD.FileFormats](./aspose.cad.fileformats/) | The namespace contains graphics files processing classes and methods. |
-| [Aspose.CAD.FileFormats.Aps](./aspose.cad.fileformats.aps/) | The namespace handles ApsGroup files format processing. |
+| [Aspose.CAD.FileFormats.Bitmap](./aspose.cad.fileformats.bitmap/) | The namespace contains classes that can be used for holding any raster data independently of format. |
 | [Aspose.CAD.FileFormats.Bmp](./aspose.cad.fileformats.bmp/) | The namespace handles BMP file format processing. |
 | [Aspose.CAD.FileFormats.Cad](./aspose.cad.fileformats.cad/) | The namespace handles Cad related file formats processing. |
 | [Aspose.CAD.FileFormats.Cad.CadConsts](./aspose.cad.fileformats.cad.cadconsts/) | The namespace contains Cad file format constants. |
@@ -52,9 +52,9 @@ is_root: true
 | [Aspose.CAD.FileFormats.Cad.Dwg.R2004](./aspose.cad.fileformats.cad.dwg.r2004/) | The namespace contains the class with the checksum of the section page data. |
 | [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](./aspose.cad.fileformats.cad.dwg.revhistory/) | The namespace handles the revision history of the DWG file. |
 | [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](./aspose.cad.fileformats.cad.dwg.summaryinfo/) | The namespace contains the class with the summary information data. |
-| [Aspose.CAD.FileFormats.Cad.Dwg.VbaProject](./aspose.cad.fileformats.cad.dwg.vbaproject/) |  |
+| [Aspose.CAD.FileFormats.Cad.Dwg.VbaProject](./aspose.cad.fileformats.cad.dwg.vbaproject/) | The namespace that handles VbaProject object reading and writing for DWG. |
 | [Aspose.CAD.FileFormats.Cad.Geometry](./aspose.cad.fileformats.cad.geometry/) | The namespace handles CAD geometry objects. |
-| [Aspose.CAD.FileFormats.Cad.WatermarkGuard](./aspose.cad.fileformats.cad.watermarkguard/) |  |
+| [Aspose.CAD.FileFormats.Cad.WatermarkGuard](./aspose.cad.fileformats.cad.watermarkguard/) | The namespace that handles blind watermark processing for CAD format. |
 | [Aspose.CAD.FileFormats.CF2](./aspose.cad.fileformats.cf2/) | The namespace handles CF2 related file formats processing. |
 | [Aspose.CAD.FileFormats.Cgm](./aspose.cad.fileformats.cgm/) | The namespace handles CGM files format processing. |
 | [Aspose.CAD.FileFormats.Cgm.Classes](./aspose.cad.fileformats.cgm.classes/) | The namespace contains entities of CGM classes. |
@@ -68,6 +68,7 @@ is_root: true
 | [Aspose.CAD.FileFormats.Dgn](./aspose.cad.fileformats.dgn/) | The namespace handles DGN related file formats processing. |
 | [Aspose.CAD.FileFormats.Dgn.DgnElements](./aspose.cad.fileformats.dgn.dgnelements/) | The namespace contains Dgn elements. |
 | [Aspose.CAD.FileFormats.Dgn.DgnTransform](./aspose.cad.fileformats.dgn.dgntransform/) | The namespace handles Dgn related file formats processing. |
+| [Aspose.CAD.FileFormats.Draco](./aspose.cad.fileformats.draco/) |  |
 | [Aspose.CAD.FileFormats.Dwf](./aspose.cad.fileformats.dwf/) | The namespace contains DWF graphics files processing classes and methods. |
 | [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](./aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/) | The namespace contains entities of FixedPage DTO model. |
 | [Aspose.CAD.FileFormats.Dwf.Whip](./aspose.cad.fileformats.dwf.whip/) | The namespace handles Dwf whip processing. |
@@ -121,6 +122,7 @@ is_root: true
 | [Aspose.CAD.FileFormats.Stl](./aspose.cad.fileformats.stl/) | The namespace handles STL file format processing. |
 | [Aspose.CAD.FileFormats.Stl.StlObjects](./aspose.cad.fileformats.stl.stlobjects/) | The namespace contains classes for STL models. |
 | [Aspose.CAD.FileFormats.Stp](./aspose.cad.fileformats.stp/) | The namespace handles STP file format processing. |
+| [Aspose.CAD.FileFormats.Stp.Helpers](./aspose.cad.fileformats.stp.helpers/) |  |
 | [Aspose.CAD.FileFormats.Stp.Items](./aspose.cad.fileformats.stp.items/) | The namespace contains elements for STP files. |
 | [Aspose.CAD.FileFormats.Stp.Reader](./aspose.cad.fileformats.stp.reader/) |  |
 | [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](./aspose.cad.fileformats.stp.stplibrary.core.models/) | The namespace contains the STP model classes. |
@@ -143,6 +145,6 @@ is_root: true
 | [Aspose.CAD.Primitives](./aspose.cad.primitives/) | The namespace handles generic primitives. |
 | [Aspose.CAD.Sources](./aspose.cad.sources/) | Namespace contains different stream sources which are suitable for input or output data flow. |
 | [Aspose.CAD.TimeProvision](./aspose.cad.timeprovision/) | The namespace contains classes that can be used to set up artificial timestamps for output files (only for output to DWF currently). |
-| [Aspose.CAD.WatermarkGuard](./aspose.cad.watermarkguard/) |  |
+| [Aspose.CAD.WatermarkGuard](./aspose.cad.watermarkguard/) | The namespace that handles blind watermark processing. |
 
 

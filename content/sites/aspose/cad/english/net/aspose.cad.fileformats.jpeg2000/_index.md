@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Jpeg2000
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles JPEG2000 file format processing
 type: docs
-weight: 930
+weight: 940
 url: /net/aspose.cad.fileformats.jpeg2000/
 ---
 The namespace handles JPEG2000 file format processing.

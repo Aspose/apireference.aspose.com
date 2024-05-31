@@ -3,7 +3,7 @@ title: StlImage.IsCached
 second_title: Aspose.CAD for .NET API Reference
 description: StlImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.fileformats.stl/stlimage/iscached/
 ---
 ## StlImage.IsCached property

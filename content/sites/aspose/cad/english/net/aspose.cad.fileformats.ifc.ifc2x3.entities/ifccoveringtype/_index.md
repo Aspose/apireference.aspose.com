@@ -3,7 +3,7 @@ title: Class IfcCoveringType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCoveringType class. IfcCoveringType
 type: docs
-weight: 13160
+weight: 13180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoveringtype/
 ---
 ## IfcCoveringType class

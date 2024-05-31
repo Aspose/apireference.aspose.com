@@ -3,7 +3,7 @@ title: Enum DeviceViewportMapping.Isotropy
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewportMappingIsotropy enum. 
 type: docs
-weight: 5400
+weight: 5410
 url: /net/aspose.cad.fileformats.cgm.commands/deviceviewportmapping.isotropy/
 ---
 ## DeviceViewportMapping.Isotropy enumeration

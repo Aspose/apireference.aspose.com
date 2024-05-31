@@ -3,7 +3,7 @@ title: Class SweptSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.SweptSurface class. The swept surface. Describes a surface by extruding or revolving a curve
 type: docs
-weight: 8460
+weight: 8470
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/
 ---
 ## SweptSurface class

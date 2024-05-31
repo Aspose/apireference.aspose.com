@@ -3,7 +3,7 @@ title: Class IfcRelDeclares
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelDeclares class. IfcRelDeclares
 type: docs
-weight: 27150
+weight: 27170
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreldeclares/
 ---
 ## IfcRelDeclares class

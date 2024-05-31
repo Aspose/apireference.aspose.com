@@ -3,7 +3,7 @@ title: Enum ClrIntMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.ClrIntMode enum. The CLR INT mode. Specifies the gamma function for color interpolation. The gamma adjustment should not be applied to the alpha component if specified
 type: docs
-weight: 9270
+weight: 9290
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/clrintmode/
 ---
 ## ClrIntMode enumeration

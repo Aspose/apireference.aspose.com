@@ -3,7 +3,7 @@ title: Class EdgeType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeType class. 
 type: docs
-weight: 5510
+weight: 5520
 url: /net/aspose.cad.fileformats.cgm.commands/edgetype/
 ---
 ## EdgeType class

@@ -3,7 +3,7 @@ title: Class InstanceNode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstanceNode class. The instance node. The instance_node element declares the instantiation of a COLLADA node resource
 type: docs
-weight: 7980
+weight: 7990
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancenode/
 ---
 ## InstanceNode class

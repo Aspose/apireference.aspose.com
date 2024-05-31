@@ -3,7 +3,7 @@ title: Class IfcWallElementedCase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWallElementedCase class. IfcWallElementedCase
 type: docs
-weight: 29290
+weight: 29310
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwallelementedcase/
 ---
 ## IfcWallElementedCase class

@@ -3,7 +3,7 @@ title: Class IfcCylindricalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCylindricalSurface class. IfcCylindricalSurface
 type: docs
-weight: 23380
+weight: 23400
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccylindricalsurface/
 ---
 ## IfcCylindricalSurface class

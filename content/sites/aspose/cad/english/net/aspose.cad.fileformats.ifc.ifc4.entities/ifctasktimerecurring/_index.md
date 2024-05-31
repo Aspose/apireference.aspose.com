@@ -3,7 +3,7 @@ title: Class IfcTaskTimeRecurring
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTaskTimeRecurring class. IfcTaskTimeRecurring
 type: docs
-weight: 28720
+weight: 28740
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktimerecurring/
 ---
 ## IfcTaskTimeRecurring class

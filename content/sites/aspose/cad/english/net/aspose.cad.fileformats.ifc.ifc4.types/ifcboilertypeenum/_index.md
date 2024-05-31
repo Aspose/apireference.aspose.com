@@ -3,7 +3,7 @@ title: Enum IfcBoilerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBoilerTypeEnum enum. IfcBoilerTypeEnum
 type: docs
-weight: 29770
+weight: 29790
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcboilertypeenum/
 ---
 ## IfcBoilerTypeEnum enumeration

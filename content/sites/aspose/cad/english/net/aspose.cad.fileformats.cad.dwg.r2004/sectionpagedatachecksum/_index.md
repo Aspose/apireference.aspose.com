@@ -3,7 +3,7 @@ title: Class SectionPageDataChecksum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.R2004.SectionPageDataChecksum class. Section Page Data Checksum
 type: docs
-weight: 4490
+weight: 4500
 url: /net/aspose.cad.fileformats.cad.dwg.r2004/sectionpagedatachecksum/
 ---
 ## SectionPageDataChecksum class

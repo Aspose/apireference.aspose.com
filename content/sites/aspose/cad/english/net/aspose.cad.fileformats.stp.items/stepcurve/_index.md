@@ -3,7 +3,7 @@ title: Class StepCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepCurve class. Curve class for STP file
 type: docs
-weight: 34390
+weight: 34500
 url: /net/aspose.cad.fileformats.stp.items/stepcurve/
 ---
 ## StepCurve class

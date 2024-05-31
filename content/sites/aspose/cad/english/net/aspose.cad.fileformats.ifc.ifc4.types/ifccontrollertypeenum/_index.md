@@ -3,7 +3,7 @@ title: Enum IfcControllerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcControllerTypeEnum enum. IfcControllerTypeEnum
 type: docs
-weight: 30120
+weight: 30140
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccontrollertypeenum/
 ---
 ## IfcControllerTypeEnum enumeration

@@ -3,7 +3,7 @@ title: Class U3dImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.U3dImage class. U3D image
 type: docs
-weight: 35700
+weight: 35960
 url: /net/aspose.cad.fileformats.u3d/u3dimage/
 ---
 ## U3dImage class

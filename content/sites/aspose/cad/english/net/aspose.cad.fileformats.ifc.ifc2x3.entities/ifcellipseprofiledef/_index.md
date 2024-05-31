@@ -3,7 +3,7 @@ title: Class IfcEllipseProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEllipseProfileDef class. Partial IIfc entity class
 type: docs
-weight: 13940
+weight: 13960
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcellipseprofiledef/
 ---
 ## IfcEllipseProfileDef class

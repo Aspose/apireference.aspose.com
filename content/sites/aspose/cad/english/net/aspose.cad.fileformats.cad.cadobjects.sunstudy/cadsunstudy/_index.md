@@ -3,7 +3,7 @@ title: Class CadSunStudy
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy.CadSunStudy class. Class describing SUNSTUDY object
 type: docs
-weight: 3950
+weight: 3960
 url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/
 ---
 ## CadSunStudy class

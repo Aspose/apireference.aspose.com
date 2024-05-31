@@ -3,7 +3,7 @@ title: Class ApplicationStructureDescriptorElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.ApplicationStructureDescriptorElements class. 
 type: docs
-weight: 6960
+weight: 6970
 url: /net/aspose.cad.fileformats.cgm.elements/applicationstructuredescriptorelements/
 ---
 ## ApplicationStructureDescriptorElements class

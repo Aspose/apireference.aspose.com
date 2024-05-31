@@ -3,7 +3,7 @@ title: Class IfcCraneRailFShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCraneRailFShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 13180
+weight: 13200
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailfshapeprofiledef/
 ---
 ## IfcCraneRailFShapeProfileDef class

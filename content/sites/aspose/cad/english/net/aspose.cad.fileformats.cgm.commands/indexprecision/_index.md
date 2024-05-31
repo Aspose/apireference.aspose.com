@@ -3,7 +3,7 @@ title: Class IndexPrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.IndexPrecision class. 
 type: docs
-weight: 5880
+weight: 5890
 url: /net/aspose.cad.fileformats.cgm.commands/indexprecision/
 ---
 ## IndexPrecision class

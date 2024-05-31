@@ -3,7 +3,7 @@ title: Struct NodeCurveSamplers
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.NodeCurveSamplers struct. Represents an proxy to acccess the animation curves of a Node. Use GetCurveSamplers for access
 type: docs
-weight: 11100
+weight: 11120
 url: /net/aspose.cad.fileformats.glb/nodecurvesamplers/
 ---
 ## NodeCurveSamplers structure

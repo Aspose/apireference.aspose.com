@@ -3,7 +3,7 @@ title: Class IfcConnectedFaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConnectedFaceSet class. Partial IIfc entity class
 type: docs
-weight: 12900
+weight: 12920
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectedfaceset/
 ---
 ## IfcConnectedFaceSet class

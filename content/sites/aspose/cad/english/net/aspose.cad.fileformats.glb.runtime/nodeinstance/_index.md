@@ -3,7 +3,7 @@ title: Class NodeInstance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.NodeInstance class. Defines a node of a scene graph in SceneInstance
 type: docs
-weight: 11220
+weight: 11240
 url: /net/aspose.cad.fileformats.glb.runtime/nodeinstance/
 ---
 ## NodeInstance class

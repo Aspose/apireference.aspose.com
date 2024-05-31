@@ -3,7 +3,7 @@ title: Class IfcMirroredProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMirroredProfileDef class. IfcMirroredProfileDef
 type: docs
-weight: 25540
+weight: 25560
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmirroredprofiledef/
 ---
 ## IfcMirroredProfileDef class

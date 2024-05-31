@@ -3,7 +3,7 @@ title: Class ModelException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.ModelException class. Represents an exception produced by the serialization or validation of a gltf model
 type: docs
-weight: 11700
+weight: 11720
 url: /net/aspose.cad.fileformats.glb.validation/modelexception/
 ---
 ## ModelException class

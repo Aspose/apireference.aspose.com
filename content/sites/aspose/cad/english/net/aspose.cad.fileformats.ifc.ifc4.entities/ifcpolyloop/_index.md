@@ -3,7 +3,7 @@ title: Class IfcPolyLoop
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPolyLoop class. Partial IIfc entity class
 type: docs
-weight: 26040
+weight: 26060
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolyloop/
 ---
 ## IfcPolyLoop class

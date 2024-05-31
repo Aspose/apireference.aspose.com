@@ -3,7 +3,7 @@ title: Class IfcTendonType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTendonType class. IfcTendonType
 type: docs
-weight: 28780
+weight: 28800
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendontype/
 ---
 ## IfcTendonType class

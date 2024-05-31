@@ -3,7 +3,7 @@ title: StpImage.PreprocessorVersion
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. 
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cad.fileformats.stp/stpimage/preprocessorversion/
 ---
 ## StpImage.PreprocessorVersion property

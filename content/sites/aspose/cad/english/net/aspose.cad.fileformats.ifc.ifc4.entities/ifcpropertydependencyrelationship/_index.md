@@ -3,7 +3,7 @@ title: Class IfcPropertyDependencyRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertyDependencyRelationship class. IfcPropertyDependencyRelationship
 type: docs
-weight: 26380
+weight: 26400
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydependencyrelationship/
 ---
 ## IfcPropertyDependencyRelationship class

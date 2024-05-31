@@ -3,7 +3,7 @@ title: Class IfcProductsOfCombustionProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProductsOfCombustionProperties class. IfcProductsOfCombustionProperties
 type: docs
-weight: 15790
+weight: 15810
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/
 ---
 ## IfcProductsOfCombustionProperties class

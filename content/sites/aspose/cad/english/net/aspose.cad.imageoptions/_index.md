@@ -3,7 +3,7 @@ title: Aspose.CAD.ImageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes suitable for export save or creation of different file formats
 type: docs
-weight: 1260
+weight: 1280
 url: /net/aspose.cad.imageoptions/
 ---
 The namespace contains classes suitable for export, save or creation of different file formats.
@@ -18,9 +18,10 @@ The namespace contains classes suitable for export, save or creation of differen
 | [CadRenderResult](./cadrenderresult/) | Represents result of rendering |
 | [CgmOptions](./cgmoptions/) | The CGM options. |
 | [DicomOptions](./dicomoptions/) | The DICOM file format creation options. |
+| [DracoOptions](./dracooptions/) | The Draco options. |
 | [DwfOptions](./dwfoptions/) | The DWF options. |
 | [DwgOptions](./dwgoptions/) | The DWG file format creation options. |
-| [DxfOptions](./dxfoptions/) | The SVG file format creation options. |
+| [DxfOptions](./dxfoptions/) | Class for DXF format output creation options |
 | [EmfOptions](./emfoptions/) | The EMF file format creation options. |
 | [FbxOptions](./fbxoptions/) | The Fbx options. |
 | [GifOptions](./gifoptions/) | The gif file format creation options. |
@@ -43,6 +44,7 @@ The namespace contains classes suitable for export, save or creation of differen
 | [RasterizationQuality](./rasterizationquality/) | RasterizationQuality class |
 | [RdOptimizerSettings](./rdoptimizersettings/) | RD optimizer settings class |
 | [RenderResult](./renderresult/) | Represents information with results of rendering |
+| [StlOptions](./stloptions/) | The STL options. |
 | [StpOptions](./stpoptions/) | The STP options. |
 | [SvgOptions](./svgoptions/) | The SVG file format creation options. |
 | [ThreeDSOptions](./threedsoptions/) | The 3DS options. |
@@ -61,6 +63,7 @@ The namespace contains classes suitable for export, save or creation of differen
 
 | Enumeration | Description |
 | --- | --- |
+| [CadOutputMode](./cadoutputmode/) |  |
 | [DxfOutputVersion](./dxfoutputversion/) | Specifies version of DXF file |
 | [MultiPageMode](./multipagemode/) | Represents multipage mode |
 | [PdfCompliance](./pdfcompliance/) | Specifies the PDF compliance level to output file. |

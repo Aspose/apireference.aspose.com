@@ -38,6 +38,7 @@ public class CadRasterImageDef : CadBaseObject
 | [ImageIsLoadedFlag](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imageisloadedflag/) { get; set; } | Gets or sets the image is loaded flag. |
 | [ImageSizeU](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizeu/) { get; set; } | Gets or sets image size U. |
 | [ImageSizeV](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizev/) { get; set; } | Gets or sets image size V. |
+| [IsLoaded](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/isloaded/) { get; set; } | Gets or sets a value indicating image is loaded. |
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
 | [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |

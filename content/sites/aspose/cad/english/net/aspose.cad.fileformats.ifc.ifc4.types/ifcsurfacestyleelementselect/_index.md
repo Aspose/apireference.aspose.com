@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleElementSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSurfaceStyleElementSelect class. IfcSurfaceStyleElementSelect
 type: docs
-weight: 32820
+weight: 32840
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsurfacestyleelementselect/
 ---
 ## IfcSurfaceStyleElementSelect class

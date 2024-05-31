@@ -3,7 +3,7 @@ title: Class JoinCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.JoinCommand class. 
 type: docs
-weight: 5960
+weight: 5970
 url: /net/aspose.cad.fileformats.cgm.commands/joincommand/
 ---
 ## JoinCommand class

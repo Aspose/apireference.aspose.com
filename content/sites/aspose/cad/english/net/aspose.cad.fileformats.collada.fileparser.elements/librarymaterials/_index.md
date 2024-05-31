@@ -3,7 +3,7 @@ title: Class LibraryMaterials
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.LibraryMaterials class. The library materials. The library_materials element declares a module of material elements
 type: docs
-weight: 8060
+weight: 8070
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/
 ---
 ## LibraryMaterials class

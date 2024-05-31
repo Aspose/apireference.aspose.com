@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/soft_pointer_re
 Soft pointer reference: the referencing object does not need the referenced object and vice versa. Code - 4
 
 ```csharp
-public static int SOFT_POINTER_REFERENCE;
+public const int SOFT_POINTER_REFERENCE;
 ```
 
 ### See Also

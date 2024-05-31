@@ -3,7 +3,7 @@ title: Enum IfcSwitchingDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSwitchingDeviceTypeEnum enum. IfcSwitchingDeviceTypeEnum
 type: docs
-weight: 21190
+weight: 21210
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcswitchingdevicetypeenum/
 ---
 ## IfcSwitchingDeviceTypeEnum enumeration

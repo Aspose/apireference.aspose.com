@@ -3,7 +3,7 @@ title: Enum IfcColumnTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcColumnTypeEnum enum. IfcColumnTypeEnum
 type: docs
-weight: 29990
+weight: 30010
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccolumntypeenum/
 ---
 ## IfcColumnTypeEnum enumeration

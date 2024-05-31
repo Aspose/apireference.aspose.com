@@ -3,7 +3,7 @@ title: Enum StepTrimmingPreference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTrimmingPreference enum. TrimmingPreference enum for STP file
 type: docs
-weight: 34890
+weight: 35150
 url: /net/aspose.cad.fileformats.stp.items/steptrimmingpreference/
 ---
 ## StepTrimmingPreference enumeration

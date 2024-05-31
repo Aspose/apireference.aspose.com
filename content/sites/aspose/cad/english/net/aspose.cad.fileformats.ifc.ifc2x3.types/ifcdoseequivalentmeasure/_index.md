@@ -3,7 +3,7 @@ title: Class IfcDoseEquivalentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDoseEquivalentMeasure class. IfcDoseEquivalentMeasure
 type: docs
-weight: 19260
+weight: 19280
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdoseequivalentmeasure/
 ---
 ## IfcDoseEquivalentMeasure class

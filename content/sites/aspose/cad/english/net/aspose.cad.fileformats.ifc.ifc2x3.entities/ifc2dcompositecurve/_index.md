@@ -3,7 +3,7 @@ title: Class Ifc2DCompositeCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.Ifc2DCompositeCurve class. Ifc2DCompositeCurve
 type: docs
-weight: 11910
+weight: 11930
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifc2dcompositecurve/
 ---
 ## Ifc2DCompositeCurve class

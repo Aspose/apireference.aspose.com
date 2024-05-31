@@ -3,7 +3,7 @@ title: Class IfcExternallyDefinedTextFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcExternallyDefinedTextFont class. IfcExternallyDefinedTextFont
 type: docs
-weight: 14080
+weight: 14100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternallydefinedtextfont/
 ---
 ## IfcExternallyDefinedTextFont class

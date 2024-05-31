@@ -3,7 +3,7 @@ title: Class IfcPropertySet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertySet class. IfcPropertySet
 type: docs
-weight: 15960
+weight: 15980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyset/
 ---
 ## IfcPropertySet class

@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains the PLT file parser
 type: docs
-weight: 1010
+weight: 1020
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser/
 ---
 The namespace contains the PLT file parser.

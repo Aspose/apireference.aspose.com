@@ -3,7 +3,7 @@ title: Class TechniqueOverride
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TechniqueOverride class. The technique override. Target specific techniques and passes inside a material rather than having to split the effects techniques and passes into multiple effects
 type: docs
-weight: 8560
+weight: 8570
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueoverride/
 ---
 ## TechniqueOverride class

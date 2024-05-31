@@ -3,7 +3,7 @@ title: StpImage.GetTopLevelItems
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage method. Gets all toplevel items i.e. not referenced by any other item in the file
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.cad.fileformats.stp/stpimage/gettoplevelitems/
 ---
 ## StpImage.GetTopLevelItems method

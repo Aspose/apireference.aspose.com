@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/hard_ownership_
 Hard ownership reference: the owner needs the owned object. The owned object cannot exist by itself. Code - 3
 
 ```csharp
-public static int HARD_OWNERSHIP_REFERENCE;
+public const int HARD_OWNERSHIP_REFERENCE;
 ```
 
 ### See Also

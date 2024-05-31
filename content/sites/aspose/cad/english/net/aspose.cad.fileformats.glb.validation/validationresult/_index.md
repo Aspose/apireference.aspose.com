@@ -3,7 +3,7 @@ title: Class ValidationResult
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.ValidationResult class. 
 type: docs
-weight: 11750
+weight: 11770
 url: /net/aspose.cad.fileformats.glb.validation/validationresult/
 ---
 ## ValidationResult class

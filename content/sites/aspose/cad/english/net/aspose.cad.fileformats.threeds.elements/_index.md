@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.ThreeDS.Elements
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of 3D elements
 type: docs
-weight: 1160
+weight: 1180
 url: /net/aspose.cad.fileformats.threeds.elements/
 ---
 The namespace contains entities of 3D elements.

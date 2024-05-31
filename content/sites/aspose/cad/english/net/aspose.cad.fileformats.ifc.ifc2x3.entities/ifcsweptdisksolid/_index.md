@@ -3,7 +3,7 @@ title: Class IfcSweptDiskSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSweptDiskSolid class. Partial IIfc entity class
 type: docs
-weight: 17760
+weight: 17780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptdisksolid/
 ---
 ## IfcSweptDiskSolid class

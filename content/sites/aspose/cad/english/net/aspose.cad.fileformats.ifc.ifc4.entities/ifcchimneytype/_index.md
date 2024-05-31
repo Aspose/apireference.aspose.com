@@ -3,7 +3,7 @@ title: Class IfcChimneyType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcChimneyType class. IfcChimneyType
 type: docs
-weight: 22600
+weight: 22620
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcchimneytype/
 ---
 ## IfcChimneyType class

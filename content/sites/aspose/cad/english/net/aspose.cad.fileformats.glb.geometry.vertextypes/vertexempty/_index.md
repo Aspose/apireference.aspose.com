@@ -3,7 +3,7 @@ title: Struct VertexEmpty
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexEmpty struct. Represents an empty vertex attribute that can be used as an empty IVertexMaterial or empty IVertexSkinning in a VertexBuilder structure
 type: docs
-weight: 10540
+weight: 10560
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexempty/
 ---
 ## VertexEmpty structure

@@ -3,7 +3,7 @@ title: Class DwfWhipLogicalPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipLogicalPoint class. Represents Logical point
 type: docs
-weight: 9890
+weight: 9910
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/
 ---
 ## DwfWhipLogicalPoint class

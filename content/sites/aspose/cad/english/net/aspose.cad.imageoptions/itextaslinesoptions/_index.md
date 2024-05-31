@@ -3,7 +3,7 @@ title: Interface ITextAsLinesOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.ITextAsLinesOptions interface. The TextAsLines options
 type: docs
-weight: 36190
+weight: 36470
 url: /net/aspose.cad.imageoptions/itextaslinesoptions/
 ---
 ## ITextAsLinesOptions interface

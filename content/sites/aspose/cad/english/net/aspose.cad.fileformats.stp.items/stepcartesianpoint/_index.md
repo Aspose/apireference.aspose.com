@@ -3,7 +3,7 @@ title: Class StepCartesianPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepCartesianPoint class. CartesianPoint class for STP file
 type: docs
-weight: 34330
+weight: 34410
 url: /net/aspose.cad.fileformats.stp.items/stepcartesianpoint/
 ---
 ## StepCartesianPoint class

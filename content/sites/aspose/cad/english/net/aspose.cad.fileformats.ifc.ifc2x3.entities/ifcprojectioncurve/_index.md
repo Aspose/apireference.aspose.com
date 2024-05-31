@@ -3,7 +3,7 @@ title: Class IfcProjectionCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProjectionCurve class. IfcProjectionCurve
 type: docs
-weight: 15850
+weight: 15870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprojectioncurve/
 ---
 ## IfcProjectionCurve class

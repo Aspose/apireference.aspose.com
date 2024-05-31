@@ -3,7 +3,7 @@ title: Class IfcAdvancedFace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAdvancedFace class. IfcAdvancedFace
 type: docs
-weight: 21790
+weight: 21810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedface/
 ---
 ## IfcAdvancedFace class

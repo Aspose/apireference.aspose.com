@@ -3,7 +3,7 @@ title: Class ThreeDSMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSMaterial class. 
 type: docs
-weight: 35060
+weight: 35320
 url: /net/aspose.cad.fileformats.threeds.elements/threedsmaterial/
 ---
 ## ThreeDSMaterial class

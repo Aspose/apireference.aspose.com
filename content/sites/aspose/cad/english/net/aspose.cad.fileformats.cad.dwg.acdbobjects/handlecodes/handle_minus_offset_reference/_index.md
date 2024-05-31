@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_minus_of
 The handle minus offset reference. Code - 12 (0xC)
 
 ```csharp
-public static int HANDLE_MINUS_OFFSET_REFERENCE;
+public const int HANDLE_MINUS_OFFSET_REFERENCE;
 ```
 
 ### See Also

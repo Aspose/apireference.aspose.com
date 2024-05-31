@@ -3,7 +3,7 @@ title: Interface ICadGeometryPolyline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Geometry.ICadGeometryPolyline interface. 
 type: docs
-weight: 4560
+weight: 4570
 url: /net/aspose.cad.fileformats.cad.geometry/icadgeometrypolyline/
 ---
 ## ICadGeometryPolyline interface

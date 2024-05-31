@@ -3,7 +3,7 @@ title: Class IfcSpatialZoneType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSpatialZoneType class. IfcSpatialZoneType
 type: docs
-weight: 27890
+weight: 27910
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialzonetype/
 ---
 ## IfcSpatialZoneType class

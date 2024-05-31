@@ -3,7 +3,7 @@ title: StlImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: StlImage property. Gets the image width
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.stl/stlimage/width/
 ---
 ## StlImage.Width property

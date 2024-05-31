@@ -3,7 +3,7 @@ title: Interface IDrawableProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.IDrawableProperties interface. Interface for Nongeometric properties for geometric representations
 type: docs
-weight: 33600
+weight: 33620
 url: /net/aspose.cad.fileformats.iges.drawables/idrawableproperties/
 ---
 ## IDrawableProperties interface

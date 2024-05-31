@@ -3,7 +3,7 @@ title: Class IfcGeographicElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGeographicElement class. IfcGeographicElement
 type: docs
-weight: 24700
+weight: 24720
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeographicelement/
 ---
 ## IfcGeographicElement class

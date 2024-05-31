@@ -9,7 +9,7 @@ url: /net/aspose.cad/point/op_explicit/
 ## explicit operator {#op_explicit}
 
 ```csharp
-public static explicit operator #=zr_40Yw4jyGqldwTk_HccHYs=(Point point)
+public static explicit operator #=zx$8VgZd$cCFa9AYpdhbJjwA=(Point point)
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Enum IfcCoveringTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCoveringTypeEnum enum. IfcCoveringTypeEnum
 type: docs
-weight: 30190
+weight: 30210
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccoveringtypeenum/
 ---
 ## IfcCoveringTypeEnum enumeration

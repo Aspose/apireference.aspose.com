@@ -3,7 +3,7 @@ title: Class RadialGradientBrush
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.RadialGradientBrush class. The radial gradient brush
 type: docs
-weight: 9480
+weight: 9500
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/radialgradientbrush/
 ---
 ## RadialGradientBrush class

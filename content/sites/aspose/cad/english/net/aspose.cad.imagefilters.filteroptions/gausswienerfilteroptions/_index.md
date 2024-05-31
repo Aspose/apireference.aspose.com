@@ -3,7 +3,7 @@ title: Class GaussWienerFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageFilters.FilterOptions.GaussWienerFilterOptions class. Gauss Wiener Filter Options Deblur gauss
 type: docs
-weight: 35980
+weight: 36240
 url: /net/aspose.cad.imagefilters.filteroptions/gausswienerfilteroptions/
 ---
 ## GaussWienerFilterOptions class

@@ -3,7 +3,7 @@ title: Class IfcRevolvedAreaSolidTapered
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRevolvedAreaSolidTapered class. IfcRevolvedAreaSolidTapered
 type: docs
-weight: 27460
+weight: 27480
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrevolvedareasolidtapered/
 ---
 ## IfcRevolvedAreaSolidTapered class

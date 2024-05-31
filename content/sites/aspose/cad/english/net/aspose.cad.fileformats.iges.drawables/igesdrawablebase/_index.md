@@ -3,7 +3,7 @@ title: Class IgesDrawableBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.IgesDrawableBase class. Provides a base class for intermediate representation of document entities in simple geometric form
 type: docs
-weight: 33620
+weight: 33640
 url: /net/aspose.cad.fileformats.iges.drawables/igesdrawablebase/
 ---
 ## IgesDrawableBase class

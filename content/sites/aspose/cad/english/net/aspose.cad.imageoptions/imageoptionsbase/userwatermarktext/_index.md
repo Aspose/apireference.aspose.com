@@ -3,7 +3,7 @@ title: ImageOptionsBase.UserWatermarkText
 second_title: Aspose.CAD for .NET API Reference
 description: ImageOptionsBase property. Text for usergenerated watermark
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/
 ---
 ## ImageOptionsBase.UserWatermarkText property

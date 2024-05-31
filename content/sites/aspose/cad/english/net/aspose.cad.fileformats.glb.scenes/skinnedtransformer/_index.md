@@ -3,7 +3,7 @@ title: Class SkinnedTransformer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.SkinnedTransformer class. Represents the transform of a Content. Applies the transforms of many NodeBuilder to the underlaying content
 type: docs
-weight: 11410
+weight: 11430
 url: /net/aspose.cad.fileformats.glb.scenes/skinnedtransformer/
 ---
 ## SkinnedTransformer class

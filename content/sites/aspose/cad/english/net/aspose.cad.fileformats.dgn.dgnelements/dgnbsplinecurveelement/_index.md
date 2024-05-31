@@ -3,7 +3,7 @@ title: Class DgnBSplineCurveElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnBSplineCurveElement class. Bspline curve element
 type: docs
-weight: 8760
+weight: 8770
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/
 ---
 ## DgnBSplineCurveElement class

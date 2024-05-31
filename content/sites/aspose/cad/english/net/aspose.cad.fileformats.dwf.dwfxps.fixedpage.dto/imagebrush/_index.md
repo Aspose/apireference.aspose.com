@@ -3,7 +3,7 @@ title: Class ImageBrush
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.ImageBrush class. The image brush. The ImageBrush element is used to fill a region with an image. The image is defined in a coordinate space specified by the resolution of the image. The image MUST refer to a JPEG PNG TIFF or JPEG XR image part within the document package
 type: docs
-weight: 9360
+weight: 9380
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/imagebrush/
 ---
 ## ImageBrush class

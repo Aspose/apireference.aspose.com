@@ -3,7 +3,7 @@ title: Class MarkerSizeSpecificationMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MarkerSizeSpecificationMode class. Class2 Element4
 type: docs
-weight: 6140
+weight: 6150
 url: /net/aspose.cad.fileformats.cgm.commands/markersizespecificationmode/
 ---
 ## MarkerSizeSpecificationMode class

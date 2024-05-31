@@ -3,7 +3,7 @@ title: Class JpegOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.JpegOptions class. The jpeg file format create options
 type: docs
-weight: 36240
+weight: 36520
 url: /net/aspose.cad.imageoptions/jpegoptions/
 ---
 ## JpegOptions class
@@ -37,6 +37,7 @@ public class JpegOptions : ImageOptionsBase
 | [Pc3File](../../aspose.cad.imageoptions/imageoptionsbase/pc3file/) { get; set; } | Gets or sets the PC3 file full name. |
 | [Quality](../../aspose.cad.imageoptions/jpegoptions/quality/) { get; set; } | Gets or sets image quality. |
 | [RdOptSettings](../../aspose.cad.imageoptions/jpegoptions/rdoptsettings/) { get; set; } | Gets or sets the RD optimizer settings. |
+| [RenderToGraphicsBound](../../aspose.cad.imageoptions/imageoptionsbase/rendertographicsbound/) { get; set; } | Gets or sets a value indicating which image sizes to use when rendering: graphic sizes (true, default) or set in metadata (false). |
 | virtual [ResolutionSettings](../../aspose.cad.imageoptions/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
 | [RgbColorProfile](../../aspose.cad.imageoptions/jpegoptions/rgbcolorprofile/) { get; set; } | The destination RGB color profile for CMYK jpeg images. Use for saving images. Must be in pair with CMYKColorProfile for correct color conversion. |
 | [Rotation](../../aspose.cad.imageoptions/imageoptionsbase/rotation/) { get; set; } | Gets or sets the parameter for rotate, flip, or rotate and flip the image.. |

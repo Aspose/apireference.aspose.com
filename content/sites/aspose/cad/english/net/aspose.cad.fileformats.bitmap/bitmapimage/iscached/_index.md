@@ -3,7 +3,7 @@ title: BitmapImage.IsCached
 second_title: Aspose.CAD for .NET API Reference
 description: BitmapImage property. Determines whether image is cached
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.cad.fileformats.bitmap/bitmapimage/iscached/
 ---
 ## BitmapImage.IsCached property

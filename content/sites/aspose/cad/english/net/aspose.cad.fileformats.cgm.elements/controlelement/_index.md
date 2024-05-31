@@ -3,7 +3,7 @@ title: Enum ControlElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.ControlElement enum. 
 type: docs
-weight: 6990
+weight: 7000
 url: /net/aspose.cad.fileformats.cgm.elements/controlelement/
 ---
 ## ControlElement enumeration

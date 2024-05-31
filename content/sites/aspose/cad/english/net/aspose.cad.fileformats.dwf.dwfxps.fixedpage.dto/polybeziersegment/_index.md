@@ -3,7 +3,7 @@ title: Class PolyBezierSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PolyBezierSegment class. The poly bezier segment. A series of BÉZIER segments
 type: docs
-weight: 9450
+weight: 9470
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/
 ---
 ## PolyBezierSegment class

@@ -3,7 +3,7 @@ title: Class Altitude
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Altitude class. The altitude. Altitude is always given in meters. If the mode is absolute then the value is interpreted as meters from mean sea level. If the mode is relativeToGround then the value is interpreted as meters above the actual ground elevation at that particular location
 type: docs
-weight: 7340
+weight: 7350
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/altitude/
 ---
 ## Altitude class

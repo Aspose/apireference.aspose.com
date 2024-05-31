@@ -3,7 +3,7 @@ title: Class IfcEvent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcEvent class. IfcEvent
 type: docs
-weight: 24090
+weight: 24110
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevent/
 ---
 ## IfcEvent class

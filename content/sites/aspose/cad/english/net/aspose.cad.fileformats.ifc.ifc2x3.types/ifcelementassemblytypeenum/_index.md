@@ -3,7 +3,7 @@ title: Enum IfcElementAssemblyTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElementAssemblyTypeEnum enum. IfcElementAssemblyTypeEnum
 type: docs
-weight: 19460
+weight: 19480
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelementassemblytypeenum/
 ---
 ## IfcElementAssemblyTypeEnum enumeration

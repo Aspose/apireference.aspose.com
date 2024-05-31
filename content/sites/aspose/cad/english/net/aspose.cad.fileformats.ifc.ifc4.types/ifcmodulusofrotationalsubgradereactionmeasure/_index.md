@@ -3,7 +3,7 @@ title: Class IfcModulusOfRotationalSubgradeReactionMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcModulusOfRotationalSubgradeReactionMeasure class. IfcModulusOfRotationalSubgradeReactionMeasure
 type: docs
-weight: 31580
+weight: 31600
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofrotationalsubgradereactionmeasure/
 ---
 ## IfcModulusOfRotationalSubgradeReactionMeasure class

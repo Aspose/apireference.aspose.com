@@ -3,7 +3,7 @@ title: Enum DashType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.DashType enum. 
 type: docs
-weight: 7180
+weight: 7190
 url: /net/aspose.cad.fileformats.cgm.enums/dashtype/
 ---
 ## DashType enumeration

@@ -3,7 +3,7 @@ title: Class LineRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineRepresentation class. 
 type: docs
-weight: 6030
+weight: 6040
 url: /net/aspose.cad.fileformats.cgm.commands/linerepresentation/
 ---
 ## LineRepresentation class

@@ -3,7 +3,7 @@ title: Class IfcExternallyDefinedSurfaceStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcExternallyDefinedSurfaceStyle class. IfcExternallyDefinedSurfaceStyle
 type: docs
-weight: 14060
+weight: 14080
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternallydefinedsurfacestyle/
 ---
 ## IfcExternallyDefinedSurfaceStyle class

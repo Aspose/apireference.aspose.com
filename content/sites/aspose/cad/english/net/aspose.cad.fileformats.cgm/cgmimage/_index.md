@@ -3,7 +3,7 @@ title: Class CgmImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.CgmImage class. Represents a CGM file in binary mode
 type: docs
-weight: 4620
+weight: 4630
 url: /net/aspose.cad.fileformats.cgm/cgmimage/
 ---
 ## CgmImage class

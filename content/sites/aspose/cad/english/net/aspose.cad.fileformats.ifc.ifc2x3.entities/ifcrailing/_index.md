@@ -3,7 +3,7 @@ title: Class IfcRailing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRailing class. IfcRailing
 type: docs
-weight: 16100
+weight: 16120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrailing/
 ---
 ## IfcRailing class

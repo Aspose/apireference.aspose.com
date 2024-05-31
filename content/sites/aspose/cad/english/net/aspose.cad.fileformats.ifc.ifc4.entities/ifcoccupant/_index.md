@@ -3,7 +3,7 @@ title: Class IfcOccupant
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOccupant class. IfcOccupant
 type: docs
-weight: 25630
+weight: 25650
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcoccupant/
 ---
 ## IfcOccupant class

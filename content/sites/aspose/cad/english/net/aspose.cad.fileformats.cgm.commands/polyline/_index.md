@@ -3,7 +3,7 @@ title: Class Polyline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.Polyline class. Class4 ElementId1
 type: docs
-weight: 6450
+weight: 6460
 url: /net/aspose.cad.fileformats.cgm.commands/polyline/
 ---
 ## Polyline class

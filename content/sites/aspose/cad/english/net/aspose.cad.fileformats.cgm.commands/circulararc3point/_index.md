@@ -3,7 +3,7 @@ title: Class CircularArc3Point
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CircularArc3Point class. Class4 ElementId13
 type: docs
-weight: 5130
+weight: 5140
 url: /net/aspose.cad.fileformats.cgm.commands/circulararc3point/
 ---
 ## CircularArc3Point class

@@ -3,7 +3,7 @@ title: StpImage.Height
 second_title: Aspose.CAD for .NET API Reference
 description: StpImage property. Gets the image height
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.stp/stpimage/height/
 ---
 ## StpImage.Height property

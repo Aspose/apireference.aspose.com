@@ -3,7 +3,7 @@ title: Class DgnExtViewFlags
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnExtViewFlags class. Represents view flags
 type: docs
-weight: 9060
+weight: 9070
 url: /net/aspose.cad.fileformats.dgn/dgnextviewflags/
 ---
 ## DgnExtViewFlags class

@@ -3,7 +3,7 @@ title: Enum EnumFxOpaque
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxOpaque enum. The enumerator FX opaque
 type: docs
-weight: 7630
+weight: 7640
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxopaque/
 ---
 ## EnumFxOpaque enumeration
