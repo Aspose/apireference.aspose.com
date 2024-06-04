@@ -3,7 +3,7 @@ title: GlbOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 140
 url: /python-net/aspose.cad.imageoptions/glboptions/
 is_root: false
 ---

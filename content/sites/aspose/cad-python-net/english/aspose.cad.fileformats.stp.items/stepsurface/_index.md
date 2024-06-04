@@ -3,7 +3,7 @@ title: StepSurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 670
 url: /python-net/aspose.cad.fileformats.stp.items/stepsurface/
 is_root: false
 ---

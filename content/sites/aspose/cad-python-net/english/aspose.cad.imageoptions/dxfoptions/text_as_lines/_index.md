@@ -3,15 +3,15 @@ title: text_as_lines property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 130
-url: /aspose.cad.imageoptions/dxfoptions/text_as_lines/
+weight: 150
+url: /python-net/aspose.cad.imageoptions/dxfoptions/text_as_lines/
 is_root: false
 ---
 
 ## text_as_lines property
 
 
-Gets or sets a value indicating whether [text as lines].
+Gets or sets a value indicating whether [text as lines]  if OutputMode is Render.
 ### Definition:
 ```python
 @property

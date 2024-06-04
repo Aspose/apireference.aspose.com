@@ -3,7 +3,7 @@ title: StepVertexPoint class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 840
 url: /python-net/aspose.cad.fileformats.stp.items/stepvertexpoint/
 is_root: false
 ---

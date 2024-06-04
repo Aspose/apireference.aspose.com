@@ -3,7 +3,7 @@ title: StepItemType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 860
 url: /python-net/aspose.cad.fileformats.stp.items/stepitemtype/
 is_root: false
 ---
@@ -75,6 +75,7 @@ The StepItemType type exposes the following members:
 | FILL_AREA_STYLE |  |
 | FILL_AREA_STYLE_COLOUR |  |
 | COLOUR_RGB |  |
+| DRAUGHTING_PRE_DEFINED_COLOUR |  |
 | REPRESENTATION_RELATIONSHIP |  |
 | REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION |  |
 | COMPLEX_ITEM |  |

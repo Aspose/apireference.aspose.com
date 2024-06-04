@@ -3,7 +3,7 @@ title: StepTriangulatedSurfaceSet class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 780
 url: /python-net/aspose.cad.fileformats.stp.items/steptriangulatedsurfaceset/
 is_root: false
 ---

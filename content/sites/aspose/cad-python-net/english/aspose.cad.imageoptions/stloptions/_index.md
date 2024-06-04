@@ -3,7 +3,7 @@ title: StlOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 350
 url: /python-net/aspose.cad.imageoptions/stloptions/
 is_root: false
 ---

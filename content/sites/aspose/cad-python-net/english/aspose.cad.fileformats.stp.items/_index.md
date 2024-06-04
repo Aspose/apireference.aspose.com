@@ -35,6 +35,7 @@ The namespace contains elements for STP files.
 | [`StepCylindricalSurface`](/cad/python-net/aspose.cad.fileformats.stp.items/stepcylindricalsurface) | CylindricalSurface class for STP file. |
 | [`StepDefinitionalRepresentation`](/cad/python-net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation) | DefinitionalRepresentation class for STP file. |
 | [`StepDirection`](/cad/python-net/aspose.cad.fileformats.stp.items/stepdirection) | Direction class for STP file. |
+| [`StepDraughtingPreDefinedColour`](/cad/python-net/aspose.cad.fileformats.stp.items/stepdraughtingpredefinedcolour) | DraughtingPreDefinedColour class for STP file. |
 | [`StepEdge`](/cad/python-net/aspose.cad.fileformats.stp.items/stepedge) | Edge class for STP file. |
 | [`StepEdgeCurve`](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgecurve) | EdgeCurve class for STP file. |
 | [`StepEdgeLoop`](/cad/python-net/aspose.cad.fileformats.stp.items/stepedgeloop) | EdgeLoop class for STP file. |
@@ -63,6 +64,7 @@ The namespace contains elements for STP files.
 | [`StepPlane`](/cad/python-net/aspose.cad.fileformats.stp.items/stepplane) | Plane class for STP file. |
 | [`StepPoint`](/cad/python-net/aspose.cad.fileformats.stp.items/steppoint) | Point class for STP file. |
 | [`StepPolyLoop`](/cad/python-net/aspose.cad.fileformats.stp.items/steppolyloop) | PolyLoop class for STP file. |
+| [`StepPreDefinedColour`](/cad/python-net/aspose.cad.fileformats.stp.items/steppredefinedcolour) | PreDefinedColour class for STP file. |
 | [`StepPresentationStyleAssignment`](/cad/python-net/aspose.cad.fileformats.stp.items/steppresentationstyleassignment) | PresentationStyleAssignment class for STP file. |
 | [`StepProduct`](/cad/python-net/aspose.cad.fileformats.stp.items/stepproduct) | Product class for STP file. |
 | [`StepProductDefinition`](/cad/python-net/aspose.cad.fileformats.stp.items/stepproductdefinition) | ProductDefinition class for STP file. |

@@ -3,7 +3,7 @@ title: ITextAsShapesOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 180
 url: /python-net/aspose.cad.imageoptions/itextasshapesoptions/
 is_root: false
 ---

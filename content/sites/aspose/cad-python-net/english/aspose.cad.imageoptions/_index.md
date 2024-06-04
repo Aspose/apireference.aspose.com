@@ -19,13 +19,10 @@ The namespace contains classes suitable for export, save or creation of differen
 | [`CadRenderResult`](/cad/python-net/aspose.cad.imageoptions/cadrenderresult) | Represents result of rendering |
 | [`CgmOptions`](/cad/python-net/aspose.cad.imageoptions/cgmoptions) | The CGM options. |
 | [`DicomOptions`](/cad/python-net/aspose.cad.imageoptions/dicomoptions) | The DICOM file format creation options. |
+| [`DracoOptions`](/cad/python-net/aspose.cad.imageoptions/dracooptions) | The Draco options. |
 | [`DwfOptions`](/cad/python-net/aspose.cad.imageoptions/dwfoptions) | The DWF options. |
-| [`DwgConvertOptions`](/cad/python-net/aspose.cad.imageoptions/dwgconvertoptions) | Options to convert a DWG or DXF file to DWG - preserving the content as it is. |
-| [`DwgOptionsBase`](/cad/python-net/aspose.cad.imageoptions/dwgoptionsbase) | The base DWG file format creation options. |
-| [`DwgRenderOptions`](/cad/python-net/aspose.cad.imageoptions/dwgrenderoptions) |  |
-| [`DxfConvertOptions`](/cad/python-net/aspose.cad.imageoptions/dxfconvertoptions) | Options to convert DWG or DXF file to DXF format - preserving the content as it is. |
-| [`DxfOptionsBase`](/cad/python-net/aspose.cad.imageoptions/dxfoptionsbase) | The DXF file format creation basic options. |
-| [`DxfRenderOptions`](/cad/python-net/aspose.cad.imageoptions/dxfrenderoptions) | Options to render a file and store the rendered result to DXF - content is not preserved, but rendered to shapes. |
+| [`DwgOptions`](/cad/python-net/aspose.cad.imageoptions/dwgoptions) | The DWG file format creation options. |
+| [`DxfOptions`](/cad/python-net/aspose.cad.imageoptions/dxfoptions) | Class for DXF format output creation options |
 | [`EmfOptions`](/cad/python-net/aspose.cad.imageoptions/emfoptions) | The EMF file format creation options. |
 | [`FbxOptions`](/cad/python-net/aspose.cad.imageoptions/fbxoptions) | The Fbx options. |
 | [`GifOptions`](/cad/python-net/aspose.cad.imageoptions/gifoptions) | The gif file format creation options. |
@@ -64,6 +61,7 @@ The namespace contains classes suitable for export, save or creation of differen
 ### Enumerations
 | Enumeration | Description |
 | :- | :- |
+| [`CadOutputMode`](/cad/python-net/aspose.cad.imageoptions/cadoutputmode) |  |
 | [`DxfOutputVersion`](/cad/python-net/aspose.cad.imageoptions/dxfoutputversion) | Specifies version of DXF file |
 | [`MultiPageMode`](/cad/python-net/aspose.cad.imageoptions/multipagemode) | Represents multipage mode |
 | [`PdfCompliance`](/cad/python-net/aspose.cad.imageoptions/pdfcompliance) | Specifies the PDF compliance level to output file. |

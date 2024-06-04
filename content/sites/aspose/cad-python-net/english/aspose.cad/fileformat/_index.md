@@ -119,6 +119,7 @@ The FileFormat type exposes the following members:
 | GLTF | The GLTF file format. |
 | U3D | The Universal 3D (U3D) file format |
 | THREE_DS | The 3DS format. |
+| DRACO | The Google Draco format. |
 
 
 

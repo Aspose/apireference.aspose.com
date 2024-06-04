@@ -3,7 +3,7 @@ title: MultiPageMode enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 460
 url: /python-net/aspose.cad.imageoptions/multipagemode/
 is_root: false
 ---

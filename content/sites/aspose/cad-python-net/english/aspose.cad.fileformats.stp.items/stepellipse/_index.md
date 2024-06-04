@@ -3,7 +3,7 @@ title: StepEllipse class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /python-net/aspose.cad.fileformats.stp.items/stepellipse/
 is_root: false
 ---

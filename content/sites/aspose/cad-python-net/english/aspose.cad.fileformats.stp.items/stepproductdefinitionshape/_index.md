@@ -3,7 +3,7 @@ title: StepProductDefinitionShape class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/
 is_root: false
 ---

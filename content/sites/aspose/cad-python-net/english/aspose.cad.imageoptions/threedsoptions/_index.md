@@ -3,7 +3,7 @@ title: ThreeDSOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 380
 url: /python-net/aspose.cad.imageoptions/threedsoptions/
 is_root: false
 ---

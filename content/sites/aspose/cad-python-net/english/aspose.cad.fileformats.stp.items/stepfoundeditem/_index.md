@@ -3,7 +3,7 @@ title: StepFoundedItem class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /python-net/aspose.cad.fileformats.stp.items/stepfoundeditem/
 is_root: false
 ---

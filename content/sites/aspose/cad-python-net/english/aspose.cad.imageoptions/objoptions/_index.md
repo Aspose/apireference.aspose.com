@@ -3,7 +3,7 @@ title: ObjOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 250
 url: /python-net/aspose.cad.imageoptions/objoptions/
 is_root: false
 ---

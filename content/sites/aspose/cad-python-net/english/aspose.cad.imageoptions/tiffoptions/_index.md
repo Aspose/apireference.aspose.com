@@ -3,7 +3,7 @@ title: TiffOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 390
 url: /python-net/aspose.cad.imageoptions/tiffoptions/
 is_root: false
 ---

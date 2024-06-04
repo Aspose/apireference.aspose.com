@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.cad.imageoptions/dxfoptions/layers/
+url: /python-net/aspose.cad.imageoptions/dxfoptions/layers/
 is_root: false
 ---
 

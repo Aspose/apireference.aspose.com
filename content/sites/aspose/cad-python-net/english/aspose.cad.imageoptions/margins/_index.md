@@ -3,7 +3,7 @@ title: Margins class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 230
 url: /python-net/aspose.cad.imageoptions/margins/
 is_root: false
 ---

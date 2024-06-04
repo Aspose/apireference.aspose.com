@@ -3,7 +3,7 @@ title: StepFillAreaStyleColour class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /python-net/aspose.cad.fileformats.stp.items/stepfillareastylecolour/
 is_root: false
 ---

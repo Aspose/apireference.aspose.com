@@ -4,7 +4,7 @@ second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.cad.imageoptions/dxfoptions/dxf_file_format/
+url: /python-net/aspose.cad.imageoptions/dxfoptions/dxf_file_format/
 is_root: false
 ---
 
@@ -24,5 +24,5 @@ def dxf_file_format(self, value):
 
 ### See Also
 * module [`aspose.cad.imageoptions`](../../)
-* class [`DxfFileFormat`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/dxffileformat)
+* class [`CadFileFormat`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts/cadfileformat)
 * class [`DxfOptions`](/cad/python-net/aspose.cad.imageoptions/dxfoptions)

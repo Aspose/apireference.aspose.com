@@ -3,7 +3,7 @@ title: EmfOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 110
 url: /python-net/aspose.cad.imageoptions/emfoptions/
 is_root: false
 ---

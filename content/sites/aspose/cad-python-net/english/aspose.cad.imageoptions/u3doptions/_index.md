@@ -3,7 +3,7 @@ title: U3dOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 400
 url: /python-net/aspose.cad.imageoptions/u3doptions/
 is_root: false
 ---

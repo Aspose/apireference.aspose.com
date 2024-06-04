@@ -3,7 +3,7 @@ title: IfcOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 190
 url: /python-net/aspose.cad.imageoptions/ifcoptions/
 is_root: false
 ---

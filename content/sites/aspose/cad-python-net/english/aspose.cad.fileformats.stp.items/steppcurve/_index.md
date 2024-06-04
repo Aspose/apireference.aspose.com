@@ -3,7 +3,7 @@ title: StepPCurve class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /python-net/aspose.cad.fileformats.stp.items/steppcurve/
 is_root: false
 ---

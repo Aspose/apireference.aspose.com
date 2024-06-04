@@ -3,7 +3,7 @@ title: StepManifoldSolidBrep class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 450
 url: /python-net/aspose.cad.fileformats.stp.items/stepmanifoldsolidbrep/
 is_root: false
 ---

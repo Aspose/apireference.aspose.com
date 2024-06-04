@@ -3,7 +3,7 @@ title: StepGeometricSet class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /python-net/aspose.cad.fileformats.stp.items/stepgeometricset/
 is_root: false
 ---

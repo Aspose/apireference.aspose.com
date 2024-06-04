@@ -3,7 +3,7 @@ title: WebPOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 420
 url: /python-net/aspose.cad.imageoptions/webpoptions/
 is_root: false
 ---

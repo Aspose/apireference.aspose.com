@@ -19,6 +19,7 @@ is_root: true
 | [`aspose.cad.exif`](/cad/python-net/aspose.cad.exif) | The namespace contains EXIF related helper classes and methods. |
 | [`aspose.cad.exif.enums`](/cad/python-net/aspose.cad.exif.enums) | The namespace contains EXIF enumerations. |
 | [`aspose.cad.fileformats`](/cad/python-net/aspose.cad.fileformats) | The namespace contains graphics files processing classes and methods. |
+| [`aspose.cad.fileformats.bitmap`](/cad/python-net/aspose.cad.fileformats.bitmap) | The namespace contains classes that can be used for holding any raster data independently of format. |
 | [`aspose.cad.fileformats.bmp`](/cad/python-net/aspose.cad.fileformats.bmp) | The namespace handles BMP file format processing. |
 | [`aspose.cad.fileformats.cad`](/cad/python-net/aspose.cad.fileformats.cad) | The namespace handles Cad related file formats processing. |
 | [`aspose.cad.fileformats.cad.cadconsts`](/cad/python-net/aspose.cad.fileformats.cad.cadconsts) | The namespace contains Cad file format constants. |
@@ -70,6 +71,7 @@ is_root: true
 | [`aspose.cad.fileformats.dgn`](/cad/python-net/aspose.cad.fileformats.dgn) | The namespace handles DGN related file formats processing. |
 | [`aspose.cad.fileformats.dgn.dgnelements`](/cad/python-net/aspose.cad.fileformats.dgn.dgnelements) | The namespace contains Dgn elements. |
 | [`aspose.cad.fileformats.dgn.dgntransform`](/cad/python-net/aspose.cad.fileformats.dgn.dgntransform) | The namespace handles Dgn related file formats processing. |
+| [`aspose.cad.fileformats.draco`](/cad/python-net/aspose.cad.fileformats.draco) |  |
 | [`aspose.cad.fileformats.dwf`](/cad/python-net/aspose.cad.fileformats.dwf) | The namespace contains DWF graphics files processing classes and methods. |
 | [`aspose.cad.fileformats.dwf.dwfxps`](/cad/python-net/aspose.cad.fileformats.dwf.dwfxps) |  |
 | [`aspose.cad.fileformats.dwf.dwfxps.fixedpage`](/cad/python-net/aspose.cad.fileformats.dwf.dwfxps.fixedpage) |  |

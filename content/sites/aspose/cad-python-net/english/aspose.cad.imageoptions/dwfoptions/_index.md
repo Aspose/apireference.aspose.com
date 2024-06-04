@@ -3,7 +3,7 @@ title: DwfOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /python-net/aspose.cad.imageoptions/dwfoptions/
 is_root: false
 ---

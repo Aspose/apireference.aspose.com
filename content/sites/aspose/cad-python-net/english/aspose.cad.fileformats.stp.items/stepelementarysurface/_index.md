@@ -3,7 +3,7 @@ title: StepElementarySurface class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /python-net/aspose.cad.fileformats.stp.items/stepelementarysurface/
 is_root: false
 ---

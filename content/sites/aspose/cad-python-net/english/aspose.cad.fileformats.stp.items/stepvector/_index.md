@@ -3,7 +3,7 @@ title: StepVector class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 820
 url: /python-net/aspose.cad.fileformats.stp.items/stepvector/
 is_root: false
 ---

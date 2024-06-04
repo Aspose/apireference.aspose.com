@@ -3,7 +3,7 @@ title: GraphicsOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 160
 url: /python-net/aspose.cad.imageoptions/graphicsoptions/
 is_root: false
 ---

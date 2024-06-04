@@ -3,7 +3,7 @@ title: StepBSplineCurveForm enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 850
 url: /python-net/aspose.cad.fileformats.stp.items/stepbsplinecurveform/
 is_root: false
 ---

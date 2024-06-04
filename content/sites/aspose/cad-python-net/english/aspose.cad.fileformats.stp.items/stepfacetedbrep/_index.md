@@ -3,7 +3,7 @@ title: StepFacetedBrep class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /python-net/aspose.cad.fileformats.stp.items/stepfacetedbrep/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: GltfOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 150
 url: /python-net/aspose.cad.imageoptions/gltfoptions/
 is_root: false
 ---

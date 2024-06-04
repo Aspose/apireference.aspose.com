@@ -3,7 +3,7 @@ title: StepTriple class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 800
 url: /python-net/aspose.cad.fileformats.stp.items/steptriple/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: StepItemDefinedTransformation class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /python-net/aspose.cad.fileformats.stp.items/stepitemdefinedtransformation/
 is_root: false
 ---

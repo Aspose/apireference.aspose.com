@@ -3,7 +3,7 @@ title: PenOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 290
 url: /python-net/aspose.cad.imageoptions/penoptions/
 is_root: false
 ---

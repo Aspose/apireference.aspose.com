@@ -3,7 +3,7 @@ title: SvgOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 370
 url: /python-net/aspose.cad.imageoptions/svgoptions/
 is_root: false
 ---

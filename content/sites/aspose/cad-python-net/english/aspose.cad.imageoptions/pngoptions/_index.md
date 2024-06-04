@@ -3,7 +3,7 @@ title: PngOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 300
 url: /python-net/aspose.cad.imageoptions/pngoptions/
 is_root: false
 ---

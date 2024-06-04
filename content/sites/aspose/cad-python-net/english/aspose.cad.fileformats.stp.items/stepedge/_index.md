@@ -3,7 +3,7 @@ title: StepEdge class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /python-net/aspose.cad.fileformats.stp.items/stepedge/
 is_root: false
 ---

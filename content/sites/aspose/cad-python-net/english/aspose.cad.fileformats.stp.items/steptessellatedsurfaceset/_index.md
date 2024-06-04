@@ -3,7 +3,7 @@ title: StepTessellatedSurfaceSet class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 740
 url: /python-net/aspose.cad.fileformats.stp.items/steptessellatedsurfaceset/
 is_root: false
 ---

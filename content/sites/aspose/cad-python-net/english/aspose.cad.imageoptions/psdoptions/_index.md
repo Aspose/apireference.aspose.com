@@ -3,7 +3,7 @@ title: PsdOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 310
 url: /python-net/aspose.cad.imageoptions/psdoptions/
 is_root: false
 ---

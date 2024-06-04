@@ -3,7 +3,7 @@ title: WmfOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 430
 url: /python-net/aspose.cad.imageoptions/wmfoptions/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: MultiPageOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 240
 url: /python-net/aspose.cad.imageoptions/multipageoptions/
 is_root: false
 ---

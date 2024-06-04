@@ -3,7 +3,7 @@ title: StepGeometricRepresentationItem class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /python-net/aspose.cad.fileformats.stp.items/stepgeometricrepresentationitem/
 is_root: false
 ---

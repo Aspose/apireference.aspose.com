@@ -3,7 +3,7 @@ title: StepEdgeLoop class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /python-net/aspose.cad.fileformats.stp.items/stepedgeloop/
 is_root: false
 ---

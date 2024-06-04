@@ -3,7 +3,7 @@ title: StepShapeRepresentation class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 630
 url: /python-net/aspose.cad.fileformats.stp.items/stepshaperepresentation/
 is_root: false
 ---

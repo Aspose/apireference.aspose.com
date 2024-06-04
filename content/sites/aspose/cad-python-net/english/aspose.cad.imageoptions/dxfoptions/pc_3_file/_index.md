@@ -3,8 +3,8 @@ title: pc_3_file property
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /aspose.cad.imageoptions/dxfoptions/pc_3_file/
+weight: 90
+url: /python-net/aspose.cad.imageoptions/dxfoptions/pc_3_file/
 is_root: false
 ---
 

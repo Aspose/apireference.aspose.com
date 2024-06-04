@@ -3,7 +3,7 @@ title: Jpeg2000Options class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 210
 url: /python-net/aspose.cad.imageoptions/jpeg2000options/
 is_root: false
 ---

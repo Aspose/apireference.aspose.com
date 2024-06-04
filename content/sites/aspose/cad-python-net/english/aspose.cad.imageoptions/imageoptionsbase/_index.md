@@ -3,7 +3,7 @@ title: ImageOptionsBase class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 200
 url: /python-net/aspose.cad.imageoptions/imageoptionsbase/
 is_root: false
 ---

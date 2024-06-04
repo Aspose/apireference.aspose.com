@@ -3,7 +3,7 @@ title: StepTessellatedShapeRepresentation class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 730
 url: /python-net/aspose.cad.fileformats.stp.items/steptessellatedshaperepresentation/
 is_root: false
 ---

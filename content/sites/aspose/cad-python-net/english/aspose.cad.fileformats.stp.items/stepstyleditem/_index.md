@@ -3,7 +3,7 @@ title: StepStyledItem class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 660
 url: /python-net/aspose.cad.fileformats.stp.items/stepstyleditem/
 is_root: false
 ---

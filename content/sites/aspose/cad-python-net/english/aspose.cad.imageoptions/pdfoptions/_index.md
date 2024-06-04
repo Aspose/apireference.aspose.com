@@ -3,7 +3,7 @@ title: PdfOptions class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 280
 url: /python-net/aspose.cad.imageoptions/pdfoptions/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: StepPlane class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 490
 url: /python-net/aspose.cad.fileformats.stp.items/stepplane/
 is_root: false
 ---

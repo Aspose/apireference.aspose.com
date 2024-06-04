@@ -3,7 +3,7 @@ title: StepKnotType enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 870
 url: /python-net/aspose.cad.fileformats.stp.items/stepknottype/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: StepSurfaceSideStyle class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 690
 url: /python-net/aspose.cad.fileformats.stp.items/stepsurfacesidestyle/
 is_root: false
 ---

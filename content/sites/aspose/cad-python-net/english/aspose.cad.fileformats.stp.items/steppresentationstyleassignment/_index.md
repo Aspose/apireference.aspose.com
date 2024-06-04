@@ -3,7 +3,7 @@ title: StepPresentationStyleAssignment class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 530
 url: /python-net/aspose.cad.fileformats.stp.items/steppresentationstyleassignment/
 is_root: false
 ---

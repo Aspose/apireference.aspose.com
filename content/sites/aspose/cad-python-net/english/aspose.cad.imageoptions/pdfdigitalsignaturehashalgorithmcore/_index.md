@@ -3,7 +3,7 @@ title: PdfDigitalSignatureHashAlgorithmCore enumeration
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 480
 url: /python-net/aspose.cad.imageoptions/pdfdigitalsignaturehashalgorithmcore/
 is_root: false
 ---

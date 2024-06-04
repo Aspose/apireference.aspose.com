@@ -3,7 +3,7 @@ title: StepRepresentationRelationship class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 600
 url: /python-net/aspose.cad.fileformats.stp.items/steprepresentationrelationship/
 is_root: false
 ---

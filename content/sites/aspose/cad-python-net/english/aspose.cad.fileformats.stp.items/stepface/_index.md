@@ -3,7 +3,7 @@ title: StepFace class
 second_title: Aspose.CAD for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /python-net/aspose.cad.fileformats.stp.items/stepface/
 is_root: false
 ---
