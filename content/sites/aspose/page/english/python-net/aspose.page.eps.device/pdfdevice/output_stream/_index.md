@@ -3,7 +3,7 @@ title: output_stream property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 270
 url: /python-net/aspose.page.eps.device/pdfdevice/output_stream/
 is_root: false
 ---

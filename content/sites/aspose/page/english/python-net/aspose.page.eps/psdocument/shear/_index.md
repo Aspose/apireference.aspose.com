@@ -3,7 +3,7 @@ title: shear method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 470
 url: /python-net/aspose.page.eps/psdocument/shear/
 is_root: false
 ---

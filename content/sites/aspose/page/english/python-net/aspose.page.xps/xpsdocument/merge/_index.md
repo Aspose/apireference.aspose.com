@@ -8,6 +8,24 @@ url: /python-net/aspose.page.xps/xpsdocument/merge/
 is_root: false
 ---
 
+## merge {#list-str}
+
+Merging several XPS files to one XPS document.
+
+
+
+```python
+def merge(self, files_for_merge, out_xps_file_path):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| files_for_merge | list | XPS files for merging with this document. |
+| out_xps_file_path | str | An output Xps file path. |
+
+
 ## merge {#list-io.RawIOBase}
 
 Merging several XPS files to one XPS document.

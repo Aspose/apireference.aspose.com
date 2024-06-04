@@ -3,7 +3,7 @@ title: update_page_parameters method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 90
 url: /python-net/aspose.page.xps.presentation.pdf/pdfdevice/update_page_parameters/
 is_root: false
 ---

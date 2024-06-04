@@ -25,9 +25,9 @@ The XpsConverterToImageOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions/__init__/#) | Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with default options. |
-| [__init__](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions/__init__/#aspose.pydrawing.imaging.ImageFormat) | Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with image format. |
+| [__init__](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions/__init__/#aspose.page.drawing.imaging.ImageFormat) | Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with image format. |
 | [__init__](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions/__init__/#aspose.pydrawing.Size) | Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with a size of the resulting image. |
-| [__init__](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions/__init__/#aspose.pydrawing.imaging.ImageFormat-aspose.pydrawing.Size) | Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with image format and a size of the resulting image. |
+| [__init__](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions/__init__/#aspose.page.drawing.imaging.ImageFormat-aspose.pydrawing.Size) | Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with image format and a size of the resulting image. |
 
 
 ### Properties

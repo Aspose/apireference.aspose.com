@@ -3,7 +3,7 @@ title: EMIT_WARNINGS property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 140
 url: /python-net/aspose.page.eps.device/pdfdevice/emit_warnings/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: create_pie_slice method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /python-net/aspose.page.xps/documentutils/create_pie_slice/
 is_root: false
 ---

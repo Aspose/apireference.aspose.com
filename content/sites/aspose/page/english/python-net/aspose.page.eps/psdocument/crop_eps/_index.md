@@ -8,6 +8,25 @@ url: /python-net/aspose.page.eps/psdocument/crop_eps/
 is_root: false
 ---
 
+## crop_eps {#str-list}
+
+Crops given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file.
+It saves initial EPS file with updated existing %%BoundingBox or new one will be created.
+
+
+
+```python
+def crop_eps(self, out_eps_file_path, crop_box):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| out_eps_file_path | str | The output EPS file path. |
+| crop_box | list | The crop box (x0, y0, x, y). |
+
+
 ## crop_eps {#io.RawIOBase-list}
 
 Crops given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file.

@@ -3,7 +3,7 @@ title: AUTHOR property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 70
 url: /python-net/aspose.page.eps.device/pdfdevice/author/
 is_root: false
 ---

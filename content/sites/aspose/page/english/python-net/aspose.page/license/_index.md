@@ -3,7 +3,7 @@ title: License class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 90
 url: /python-net/aspose.page/license/
 is_root: false
 ---

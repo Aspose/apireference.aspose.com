@@ -3,7 +3,7 @@ title: ORIENTATION property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 130
 url: /python-net/aspose.page.eps.device/imagedevice/orientation/
 is_root: false
 ---

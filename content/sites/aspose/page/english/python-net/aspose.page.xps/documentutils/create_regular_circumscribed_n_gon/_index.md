@@ -3,7 +3,7 @@ title: create_regular_circumscribed_n_gon method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /python-net/aspose.page.xps/documentutils/create_regular_circumscribed_n_gon/
 is_root: false
 ---

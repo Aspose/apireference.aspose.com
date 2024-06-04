@@ -3,7 +3,7 @@ title: BACKGROUND_COLOR property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 90
 url: /python-net/aspose.page.eps.device/pdfdevice/background_color/
 is_root: false
 ---

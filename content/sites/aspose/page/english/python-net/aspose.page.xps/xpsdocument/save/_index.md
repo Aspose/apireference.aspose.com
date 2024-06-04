@@ -3,7 +3,7 @@ title: save method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /python-net/aspose.page.xps/xpsdocument/save/
 is_root: false
 ---

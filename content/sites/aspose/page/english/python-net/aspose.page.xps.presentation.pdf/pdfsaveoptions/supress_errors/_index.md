@@ -3,7 +3,7 @@ title: supress_errors property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /python-net/aspose.page.xps.presentation.pdf/pdfsaveoptions/supress_errors/
 is_root: false
 ---

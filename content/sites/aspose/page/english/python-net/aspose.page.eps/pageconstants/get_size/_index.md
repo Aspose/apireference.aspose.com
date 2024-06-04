@@ -45,7 +45,7 @@ def get_size(self, size, orientation):
 | orientation | str |  |
 
 
-## get_size {#aspose.pydrawing.Size-str}
+## get_size {#aspose.page.drawing.Size-str}
 
 Calculates page size in given page orientation
 Original page sizeOrientation of the pageCalculated page size
@@ -60,7 +60,7 @@ def get_size(self, size, orientation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| size | aspose.pydrawing.Size |  |
+| size | aspose.page.drawing.Size |  |
 | orientation | str |  |
 
 
@@ -68,3 +68,4 @@ def get_size(self, size, orientation):
 ### See Also
 * module [`aspose.page.eps`](../../)
 * class [`PageConstants`](/page/python-net/aspose.page.eps/pageconstants)
+* class [`Size`](/page/python-net/aspose.page.drawing/size)

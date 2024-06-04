@@ -3,7 +3,7 @@ title: EMBED_FONTS_AS property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 120
 url: /python-net/aspose.page.eps.device/pdfdevice/embed_fonts_as/
 is_root: false
 ---

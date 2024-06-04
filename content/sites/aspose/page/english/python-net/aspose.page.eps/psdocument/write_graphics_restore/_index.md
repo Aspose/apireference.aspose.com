@@ -3,7 +3,7 @@ title: write_graphics_restore method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 500
 url: /python-net/aspose.page.eps/psdocument/write_graphics_restore/
 is_root: false
 ---

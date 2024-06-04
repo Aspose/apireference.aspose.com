@@ -3,7 +3,7 @@ title: transparent property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 140
 url: /python-net/aspose.page.eps.device/pssaveoptions/transparent/
 is_root: false
 ---

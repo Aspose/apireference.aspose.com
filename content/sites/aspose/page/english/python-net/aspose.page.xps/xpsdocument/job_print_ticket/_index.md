@@ -3,7 +3,7 @@ title: job_print_ticket property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 530
 url: /python-net/aspose.page.xps/xpsdocument/job_print_ticket/
 is_root: false
 ---

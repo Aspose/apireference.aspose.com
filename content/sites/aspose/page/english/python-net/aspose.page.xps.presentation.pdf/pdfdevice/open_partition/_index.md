@@ -3,7 +3,7 @@ title: open_partition method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 70
 url: /python-net/aspose.page.xps.presentation.pdf/pdfdevice/open_partition/
 is_root: false
 ---

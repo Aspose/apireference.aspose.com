@@ -10,7 +10,7 @@ is_root: false
 
 ## create_path_gradient_brush_by_path {#aspose.pydrawing.drawing2d.GraphicsPath}
 
-Creates a path gradient brush by an object of GraphicsPath and WrapMode.
+
 
 
 
@@ -22,7 +22,7 @@ def create_path_gradient_brush_by_path(self, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path | aspose.pydrawing.drawing2d.GraphicsPath | The path of the gradient. |
+| path | aspose.pydrawing.drawing2d.GraphicsPath |  |
 
 
 

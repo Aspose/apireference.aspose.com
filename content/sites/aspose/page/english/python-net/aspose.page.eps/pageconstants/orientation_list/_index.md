@@ -3,7 +3,7 @@ title: orientation_list property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /python-net/aspose.page.eps/pageconstants/orientation_list/
 is_root: false
 ---

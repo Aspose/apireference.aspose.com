@@ -25,3 +25,4 @@ def size(self, value):
 ### See Also
 * module [`aspose.page.plugins`](../../)
 * class [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions)
+* class [`Size`](/page/python-net/aspose.page.drawing/size)

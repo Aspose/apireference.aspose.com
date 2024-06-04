@@ -3,7 +3,7 @@ title: select_active_document method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 450
 url: /python-net/aspose.page.xps/xpsdocument/select_active_document/
 is_root: false
 ---

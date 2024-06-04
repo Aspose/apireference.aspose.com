@@ -3,7 +3,7 @@ title: TextRenderingMode enumeration
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 140
 url: /python-net/aspose.page/textrenderingmode/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: Metered class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 110
 url: /python-net/aspose.page/metered/
 is_root: false
 ---

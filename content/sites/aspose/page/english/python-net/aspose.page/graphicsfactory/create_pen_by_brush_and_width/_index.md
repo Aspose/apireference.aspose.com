@@ -10,7 +10,7 @@ is_root: false
 
 ## create_pen_by_brush_and_width {#aspose.pydrawing.Brush-float}
 
-Creates a pen by brush and width.
+
 
 
 
@@ -22,8 +22,8 @@ def create_pen_by_brush_and_width(self, brush, width):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| brush | aspose.pydrawing.Brush | The pen brush. |
-| width | float | The Pen width. |
+| brush | aspose.pydrawing.Brush |  |
+| width | float |  |
 
 
 

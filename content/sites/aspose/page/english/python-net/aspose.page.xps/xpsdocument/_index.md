@@ -50,8 +50,13 @@ The XpsDocument type exposes the following members:
 | [save](/page/python-net/aspose.page.xps/xpsdocument/save/#str) | Saves XPS document to XPS file located at the `path`. |
 | [save](/page/python-net/aspose.page.xps/xpsdocument/save/#io.RawIOBase) | Saves XPS document to stream. |
 | [save](/page/python-net/aspose.page.xps/xpsdocument/save/#aspose.page.Device-aspose.page.SaveOptions) | Saves the document using the [`Device`](/page/python-net/aspose.page/device) instance. |
+| [save_as_pdf](/page/python-net/aspose.page.xps/xpsdocument/save_as_pdf/#str-aspose.page.xps.presentation.pdf.PdfSaveOptions) | Saves the document in PDF format. |
+| [save_as_pdf](/page/python-net/aspose.page.xps/xpsdocument/save_as_pdf/#io.RawIOBase-aspose.page.xps.presentation.pdf.PdfSaveOptions) | Saves the document in PDF format. |
 | [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-aspose.page.Device-aspose.page.SaveOptions) | Merging XPS documents to PDF using the [`Device`](/page/python-net/aspose.page/device) instance. |
+| [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-str) | Merging several XPS files to one XPS document. |
 | [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-io.RawIOBase) | Merging several XPS files to one XPS document. |
+| [merge_to_pdf](/page/python-net/aspose.page.xps/xpsdocument/merge_to_pdf/#io.RawIOBase-list-aspose.page.SaveOptions) | Merging XPS documents to PDF using the [`Device`](/page/python-net/aspose.page/device) instance. |
+| [merge_to_pdf](/page/python-net/aspose.page.xps/xpsdocument/merge_to_pdf/#str-list-aspose.page.SaveOptions) | Merging XPS documents to PDF using the [`Device`](/page/python-net/aspose.page/device) instance. |
 | [add_canvas](/page/python-net/aspose.page.xps/xpsdocument/add_canvas/#aspose.page.xps.xpsmodel.XpsCanvas) | Adds a canvas |
 | [add_canvas](/page/python-net/aspose.page.xps/xpsdocument/add_canvas/#) | Adds a new canvas to the active page. |
 | [add_path](/page/python-net/aspose.page.xps/xpsdocument/add_path/#aspose.page.xps.xpsmodel.XpsPath) | Adds a path element |
@@ -103,6 +108,8 @@ The XpsDocument type exposes the following members:
 | [create_font](/page/python-net/aspose.page.xps/xpsdocument/create_font/#io.RawIOBase) | Creates a new TrueType font resource out of stream. |
 | [select_active_document](/page/python-net/aspose.page.xps/xpsdocument/select_active_document/#int) | Selects an active document for editing. |
 | [select_active_page](/page/python-net/aspose.page.xps/xpsdocument/select_active_page/#int) | Selects an active document page for editing. |
+| [save_as_image](/page/python-net/aspose.page.xps/xpsdocument/save_as_image/#aspose.page.xps.presentation.image.ImageSaveOptions) | Saves the document in a bitmap image format. |
+| [save_as_ps](/page/python-net/aspose.page.xps/xpsdocument/save_as_ps/#io.RawIOBase-aspose.page.eps.device.PsSaveOptions) | Saves the document in PS format. |
 | [get_document_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/get_document_print_ticket/#int) | Returns the print ticket of the document indexed by `document_index`. |
 | [set_document_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/set_document_print_ticket/#int-aspose.page.xps.xpsmetadata.DocumentPrintTicket) | Links the `print_ticket` to the document indexed by `document_index`. |
 | [get_page_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/get_page_print_ticket/#int-int) | Returns the print ticket of the page indexed by `page_index` <br/>in the document indexed by `document_index`. |

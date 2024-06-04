@@ -3,7 +3,7 @@ title: text_rendering_hint property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 130
 url: /python-net/aspose.page.xps.presentation.image/imagesaveoptions/text_rendering_hint/
 is_root: false
 ---

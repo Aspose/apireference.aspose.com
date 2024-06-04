@@ -3,7 +3,7 @@ title: text_compression property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.page.xps.presentation.pdf/pdfsaveoptions/text_compression/
 is_root: false
 ---

@@ -42,7 +42,7 @@ Property value.
 
 
 ```python
-def get_property_margins(self, key, def):
+def get_property_margins(self, key, def_value):
     ...
 ```
 
@@ -50,7 +50,7 @@ def get_property_margins(self, key, def):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | str | The name of property. |
-| def | [`Margins`](/page/python-net/aspose.page/margins) | Default value of property. |
+| def_value | [`Margins`](/page/python-net/aspose.page/margins) | Default value of property. |
 
 
 

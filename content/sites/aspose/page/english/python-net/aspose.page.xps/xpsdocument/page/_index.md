@@ -3,7 +3,7 @@ title: page property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 540
 url: /python-net/aspose.page.xps/xpsdocument/page/
 is_root: false
 ---

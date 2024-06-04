@@ -3,7 +3,7 @@ title: interpolation_mode property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /python-net/aspose.page.xps.presentation.image/jpegsaveoptions/interpolation_mode/
 is_root: false
 ---

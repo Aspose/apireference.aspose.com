@@ -3,7 +3,7 @@ title: remove_page method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /python-net/aspose.page.xps/xpsdocument/remove_page/
 is_root: false
 ---

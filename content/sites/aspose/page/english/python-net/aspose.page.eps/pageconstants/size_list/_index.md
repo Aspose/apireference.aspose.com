@@ -3,7 +3,7 @@ title: size_list property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /python-net/aspose.page.eps/pageconstants/size_list/
 is_root: false
 ---

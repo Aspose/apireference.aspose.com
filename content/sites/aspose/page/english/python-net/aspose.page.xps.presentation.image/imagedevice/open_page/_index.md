@@ -3,7 +3,7 @@ title: open_page method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 50
 url: /python-net/aspose.page.xps.presentation.image/imagedevice/open_page/
 is_root: false
 ---

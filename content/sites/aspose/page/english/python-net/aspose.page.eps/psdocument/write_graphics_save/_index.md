@@ -3,7 +3,7 @@ title: write_graphics_save method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 510
 url: /python-net/aspose.page.eps/psdocument/write_graphics_save/
 is_root: false
 ---

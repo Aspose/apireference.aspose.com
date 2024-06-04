@@ -3,7 +3,7 @@ title: remove_document_at method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /python-net/aspose.page.xps/xpsdocument/remove_document_at/
 is_root: false
 ---
