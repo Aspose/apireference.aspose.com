@@ -3,7 +3,7 @@ title: print_properties method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.page/userproperties/print_properties/
 is_root: false
 ---

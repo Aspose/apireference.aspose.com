@@ -3,7 +3,7 @@ title: document_count property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 520
 url: /python-net/aspose.page.xps/xpsdocument/document_count/
 is_root: false
 ---

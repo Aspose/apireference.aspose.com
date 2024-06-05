@@ -3,7 +3,7 @@ title: set_property method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /python-net/aspose.page/userproperties/set_property/
 is_root: false
 ---
@@ -236,6 +236,29 @@ def set_property(self, key, value):
 | :- | :- | :- |
 | key | str | The name of property. |
 | value | bool | The value of property. |
+
+
+## set_property {#str-aspose.pydrawing.drawing2d.Matrix}
+
+Sets matrix property value.
+
+
+### Returns 
+
+
+A property.
+
+
+```python
+def set_property(self, key, value):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| key | str | The name of property. |
+| value | aspose.pydrawing.drawing2d.Matrix | The value of property. |
 
 
 

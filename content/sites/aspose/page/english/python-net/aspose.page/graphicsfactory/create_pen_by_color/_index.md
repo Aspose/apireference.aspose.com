@@ -10,7 +10,7 @@ is_root: false
 
 ## create_pen_by_color {#aspose.pydrawing.Color}
 
-Creates a pen by color.
+
 
 
 
@@ -22,7 +22,7 @@ def create_pen_by_color(self, color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| color | aspose.pydrawing.Color | The pen color. |
+| color | aspose.pydrawing.Color |  |
 
 
 

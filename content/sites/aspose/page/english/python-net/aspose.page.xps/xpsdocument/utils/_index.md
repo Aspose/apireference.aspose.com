@@ -3,7 +3,7 @@ title: utils property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 570
 url: /python-net/aspose.page.xps/xpsdocument/utils/
 is_root: false
 ---

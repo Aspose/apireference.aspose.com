@@ -23,7 +23,8 @@ The PageConstants type exposes the following members:
 | :- | :- |
 | [orientation_list](/page/python-net/aspose.page.eps/pageconstants/orientation_list) | Available orientation values |
 | [size_list](/page/python-net/aspose.page.eps/pageconstants/size_list) | Available page size values |
-| [ORIENTATION](/page/python-net/aspose.page.eps/pageconstants/orientation) | Orientation key |
+| [ORIENTATION](/page/python-net/aspose.page.eps/pageconstants/orientation) | Orientation key, for the named orienation of page, Portret or Landscape. |
+| [VIEWING_ORIENTATION](/page/python-net/aspose.page.eps/pageconstants/viewing_orientation) | Viewing orientation key, for rotation matrix distinguishing orientation of content on the page. The default viewing orientation matrix is identity. |
 | [ORIENTATION_PORTRAIT](/page/python-net/aspose.page.eps/pageconstants/orientation_portrait) | "Portrait" orientation value |
 | [ORIENTATION_LANDSCAPE](/page/python-net/aspose.page.eps/pageconstants/orientation_landscape) | "Landscape" orientation value |
 | [ORIENTATION_BEST_FIT](/page/python-net/aspose.page.eps/pageconstants/orientation_best_fit) | "Best fit" orientation value |
@@ -53,7 +54,7 @@ The PageConstants type exposes the following members:
 | :- | :- |
 | [get_size](/page/python-net/aspose.page.eps/pageconstants/get_size/#str) | Calculates page size in "Portrait" page orientation<br/>predefined page sizeCalculated page size |
 | [get_size](/page/python-net/aspose.page.eps/pageconstants/get_size/#str-str) | Calculates page size in given page orientation<br/>predefined page sizeorientation of the pageCalculated page size |
-| [get_size](/page/python-net/aspose.page.eps/pageconstants/get_size/#aspose.pydrawing.Size-str) | Calculates page size in given page orientation<br/>Original page sizeOrientation of the pageCalculated page size |
+| [get_size](/page/python-net/aspose.page.eps/pageconstants/get_size/#aspose.page.drawing.Size-str) | Calculates page size in given page orientation<br/>Original page sizeOrientation of the pageCalculated page size |
 | [get_margins](/page/python-net/aspose.page.eps/pageconstants/get_margins/#str) | Gets page margins values<br/>Predefined page margins namePredefined page margins values |
 | [get_margins](/page/python-net/aspose.page.eps/pageconstants/get_margins/#aspose.page.Margins-str) | Calculate page margins мфдгуы in specified orientation<br/>Original marginsOrientation of the pageЗredefined page margins for given orientation |
 

@@ -24,15 +24,20 @@ The PsDocument type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
+| [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#str-aspose.page.eps.device.PsSaveOptions) | Initializes empty [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) with initialized page. |
 | [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#io.RawIOBase-aspose.page.eps.device.PsSaveOptions) | Initializes empty [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) with initialized page. |
+| [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#str-aspose.page.eps.device.PsSaveOptions-bool) | Initializes empty [`PsDocument`](/page/python-net/aspose.page.eps/psdocument). |
 | [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#io.RawIOBase-aspose.page.eps.device.PsSaveOptions-bool) | Initializes empty [`PsDocument`](/page/python-net/aspose.page.eps/psdocument). |
+| [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#str-aspose.page.eps.device.PsSaveOptions-int) | Initializes empty [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) when the number of Postscript document pages is known in advance. |
 | [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#io.RawIOBase-aspose.page.eps.device.PsSaveOptions-int) | Initializes empty [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) when the number of Postscript document pages is known in advance. |
+| [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#str) | Initializes [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) with an input PS/EPS file. |
 | [__init__](/page/python-net/aspose.page.eps/psdocument/__init__/#io.RawIOBase) | Initializes [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) with a stream of PS/EPS file. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
+| [input_stream](/page/python-net/aspose.page.eps/psdocument/input_stream) | Gets or sets an input stream of PS/EPS file. |
 | [number_of_pages](/page/python-net/aspose.page.eps/psdocument/number_of_pages) | Returns the number of pages in resulting PDF document. |
 
 
@@ -42,6 +47,12 @@ The PsDocument type exposes the following members:
 | [save](/page/python-net/aspose.page.eps/psdocument/save/#aspose.page.Device-aspose.page.SaveOptions) | Saves PS/EPS file to a device. |
 | [save](/page/python-net/aspose.page.eps/psdocument/save/#io.RawIOBase) | Saves given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file. This method is used only after updating XMP metadata.<br/>It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method.<br/>In the last case all necessary PostScript code and EPS comments are added. |
 | [save](/page/python-net/aspose.page.eps/psdocument/save/#) | Saves given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file. This method is used only when PsDocument was created from scratch. |
+| [save_as_pdf](/page/python-net/aspose.page.eps/psdocument/save_as_pdf/#str-aspose.page.eps.device.PdfSaveOptions) | Saves PS/EPS file to PDF file. |
+| [save_as_pdf](/page/python-net/aspose.page.eps/psdocument/save_as_pdf/#io.RawIOBase-aspose.page.eps.device.PdfSaveOptions) | Saves PS/EPS file to PDF stream. |
+| [resize_eps](/page/python-net/aspose.page.eps/psdocument/resize_eps/#str-aspose.pydrawing.SizeF-aspose.page.Units) | Resizes given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file. This method is used only after extracting EPS size.<br/>It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
+| [resize_eps](/page/python-net/aspose.page.eps/psdocument/resize_eps/#io.RawIOBase-aspose.pydrawing.SizeF-aspose.page.Units) | Resizes given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file. This method is used only after extracting EPS size.<br/>It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
+| [crop_eps](/page/python-net/aspose.page.eps/psdocument/crop_eps/#str-list) | Crops given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file.<br/>It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
+| [crop_eps](/page/python-net/aspose.page.eps/psdocument/crop_eps/#io.RawIOBase-list) | Crops given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file.<br/>It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
 | [save_image_as_eps](/page/python-net/aspose.page.eps/psdocument/save_image_as_eps/#io.RawIOBase-io.RawIOBase-aspose.page.eps.device.PsSaveOptions) | Saves PNG/JPEG/TIFF/BMP/GIF/EMF image from input stream to EPS output stream. |
 | [save_image_as_eps](/page/python-net/aspose.page.eps/psdocument/save_image_as_eps/#str-str-aspose.page.eps.device.PsSaveOptions) | Saves PNG/JPEG/TIFF/BMP/GIF/EMF image from file to EPS file. |
 | [save_image_as_eps](/page/python-net/aspose.page.eps/psdocument/save_image_as_eps/#aspose.pydrawing.Bitmap-str-aspose.page.eps.device.PsSaveOptions) | Saves Bitmap object to EPS file. |
@@ -78,11 +89,12 @@ The PsDocument type exposes the following members:
 | [fill_polygon](/page/python-net/aspose.page.eps/psdocument/fill_polygon/#list-list-int) | Fills a poligone. |
 | [draw_image](/page/python-net/aspose.page.eps/psdocument/draw_image/#aspose.pydrawing.Bitmap) | Draw image. |
 | [draw_image](/page/python-net/aspose.page.eps/psdocument/draw_image/#aspose.pydrawing.Bitmap-aspose.pydrawing.drawing2d.Matrix-aspose.pydrawing.Color) | Draw transformed image with background. |
+| [merge_to_pdf](/page/python-net/aspose.page.eps/psdocument/merge_to_pdf/#str-list-aspose.page.SaveOptions) | Merges PS/EPS files to a device. |
+| [merge_to_pdf](/page/python-net/aspose.page.eps/psdocument/merge_to_pdf/#io.RawIOBase-list-aspose.page.SaveOptions) | Merges PS/EPS files to a device. |
+| [save_as_image](/page/python-net/aspose.page.eps/psdocument/save_as_image/#aspose.page.eps.device.ImageSaveOptions) | Saves PS/EPS file to images bytes arrays. |
 | [get_xmp_metadata](/page/python-net/aspose.page.eps/psdocument/get_xmp_metadata/#) | Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn't exist. |
 | [extract_eps_size](/page/python-net/aspose.page.eps/psdocument/extract_eps_size/#) | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |
-| [resize_eps](/page/python-net/aspose.page.eps/psdocument/resize_eps/#io.RawIOBase-aspose.pydrawing.SizeF-aspose.page.Units) | Resizes given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file. This method is used only after extracting EPS size.<br/>It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
 | [extract_eps_bounding_box](/page/python-net/aspose.page.eps/psdocument/extract_eps_bounding_box/#) | Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist. |
-| [crop_eps](/page/python-net/aspose.page.eps/psdocument/crop_eps/#io.RawIOBase-list) | Crops given [`PsDocument`](/page/python-net/aspose.page.eps/psdocument) as EPS file.<br/>It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
 | [set_page_size](/page/python-net/aspose.page.eps/psdocument/set_page_size/#float-float) | Sets page size. To create pages with different sizes in one document use PsDocument.SetPageDevice <br/>method just after this method. |
 | [close_page](/page/python-net/aspose.page.eps/psdocument/close_page/#) | Complete current page. |
 | [write_graphics_save](/page/python-net/aspose.page.eps/psdocument/write_graphics_save/#) | Writes saving of the current graphics state (See PostScript specification on operator "gsave"). |

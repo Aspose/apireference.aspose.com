@@ -3,7 +3,7 @@ title: get_property_rectangle method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /python-net/aspose.page/userproperties/get_property_rectangle/
 is_root: false
 ---
@@ -42,7 +42,7 @@ Property value.
 
 
 ```python
-def get_property_rectangle(self, key, def):
+def get_property_rectangle(self, key, def_value):
     ...
 ```
 
@@ -50,7 +50,7 @@ def get_property_rectangle(self, key, def):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | str | The name of property. |
-| def | aspose.pydrawing.RectangleF | Default value of property. |
+| def_value | aspose.pydrawing.RectangleF | Default value of property. |
 
 
 

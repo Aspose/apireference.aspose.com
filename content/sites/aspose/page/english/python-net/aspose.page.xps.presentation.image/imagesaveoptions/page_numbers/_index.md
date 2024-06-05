@@ -3,7 +3,7 @@ title: page_numbers property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /python-net/aspose.page.xps.presentation.image/imagesaveoptions/page_numbers/
 is_root: false
 ---

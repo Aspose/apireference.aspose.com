@@ -19,3 +19,9 @@ The **Aspose.Page.XPS**  is a root namespace for all classes that deal with XPS 
 | [`XpsLoadOptions`](/page/python-net/aspose.page.xps/xpsloadoptions) | XPS document loading options. |
 
 
+### Enumerations
+| Enumeration | Description |
+| :- | :- |
+| [`ImageMode`](/page/python-net/aspose.page.xps/imagemode) | Lists the options of fitting image within a box. |
+
+

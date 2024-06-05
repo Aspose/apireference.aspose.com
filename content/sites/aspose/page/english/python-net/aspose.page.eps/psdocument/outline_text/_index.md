@@ -3,7 +3,7 @@ title: outline_text method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /python-net/aspose.page.eps/psdocument/outline_text/
 is_root: false
 ---

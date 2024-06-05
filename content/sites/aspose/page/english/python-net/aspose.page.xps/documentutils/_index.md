@@ -26,6 +26,7 @@ The DocumentUtils type exposes the following members:
 | [create_regular_circumscribed_n_gon](/page/python-net/aspose.page.xps/documentutils/create_regular_circumscribed_n_gon/#int-aspose.pydrawing.PointF-float) | Creates a path geometry representing a regular n-gon circumscribed around a circle. |
 | [create_pie_slice](/page/python-net/aspose.page.xps/documentutils/create_pie_slice/#aspose.pydrawing.PointF-float-float-float) | Creates a path geometry representing a circle slice between two radial rays. |
 | [create_circular_segment](/page/python-net/aspose.page.xps/documentutils/create_circular_segment/#aspose.pydrawing.PointF-float-float-float) | Creates a path geometry representing a circular segment between two angles. |
+| [create_image](/page/python-net/aspose.page.xps/documentutils/create_image/#str-aspose.pydrawing.RectangleF-aspose.page.xps.ImageMode) | Creates a rectangular path filled with an image. |
 
 
 

@@ -3,7 +3,7 @@ title: set_paint method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 440
 url: /python-net/aspose.page.eps/psdocument/set_paint/
 is_root: false
 ---

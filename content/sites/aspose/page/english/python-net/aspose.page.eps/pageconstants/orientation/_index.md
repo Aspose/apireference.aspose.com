@@ -11,7 +11,7 @@ is_root: false
 ## ORIENTATION property
 
 
-Orientation key
+Orientation key, for the named orienation of page, Portret or Landscape.
 
 ### See Also
 * module [`aspose.page.eps`](../../)

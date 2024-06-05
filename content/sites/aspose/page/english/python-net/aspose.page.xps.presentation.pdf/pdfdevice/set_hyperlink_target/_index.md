@@ -3,7 +3,7 @@ title: set_hyperlink_target method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 80
 url: /python-net/aspose.page.xps.presentation.pdf/pdfdevice/set_hyperlink_target/
 is_root: false
 ---

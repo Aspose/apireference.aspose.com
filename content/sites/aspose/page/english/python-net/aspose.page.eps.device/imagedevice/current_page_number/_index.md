@@ -3,7 +3,7 @@ title: current_page_number property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 180
 url: /python-net/aspose.page.eps.device/imagedevice/current_page_number/
 is_root: false
 ---

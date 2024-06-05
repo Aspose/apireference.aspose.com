@@ -3,7 +3,7 @@ title: active_document property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 500
 url: /python-net/aspose.page.xps/xpsdocument/active_document/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: set_page_print_ticket method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 480
 url: /python-net/aspose.page.xps/xpsdocument/set_page_print_ticket/
 is_root: false
 ---

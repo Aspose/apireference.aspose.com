@@ -3,7 +3,7 @@ title: set_transform method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 460
 url: /python-net/aspose.page.eps/psdocument/set_transform/
 is_root: false
 ---

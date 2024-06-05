@@ -3,7 +3,7 @@ title: init_page_numbers method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 50
 url: /python-net/aspose.page.xps.presentation.pdf/pdfdevice/init_page_numbers/
 is_root: false
 ---

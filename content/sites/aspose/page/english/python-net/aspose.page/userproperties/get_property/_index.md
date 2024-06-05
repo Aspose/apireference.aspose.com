@@ -42,7 +42,7 @@ Property value.
 
 
 ```python
-def get_property(self, key, def):
+def get_property(self, key, def_value):
     ...
 ```
 
@@ -50,7 +50,7 @@ def get_property(self, key, def):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | str | The name of property. |
-| def | str | Default value of property. |
+| def_value | str | Default value of property. |
 
 
 

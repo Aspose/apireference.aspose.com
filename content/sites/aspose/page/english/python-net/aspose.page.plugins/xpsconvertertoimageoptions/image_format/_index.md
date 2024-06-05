@@ -24,4 +24,5 @@ def image_format(self, value):
 
 ### See Also
 * module [`aspose.page.plugins`](../../)
+* class [`ImageFormat`](/page/python-net/aspose.page.drawing.imaging/imageformat)
 * class [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions)

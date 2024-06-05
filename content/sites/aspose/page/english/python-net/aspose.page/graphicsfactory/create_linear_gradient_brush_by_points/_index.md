@@ -10,7 +10,7 @@ is_root: false
 
 ## create_linear_gradient_brush_by_points {#aspose.pydrawing.PointF-aspose.pydrawing.PointF-aspose.pydrawing.Color-aspose.pydrawing.Color}
 
-Creates a linear gradient brush by points.
+
 
 
 
@@ -22,10 +22,10 @@ def create_linear_gradient_brush_by_points(self, start, end, start_color, end_co
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| start | aspose.pydrawing.PointF | The start point of the gradient. |
-| end | aspose.pydrawing.PointF | The end point of the gradient. |
-| start_color | aspose.pydrawing.Color | The start color of the gradient. |
-| end_color | aspose.pydrawing.Color | The end color of the gradient. |
+| start | aspose.pydrawing.PointF |  |
+| end | aspose.pydrawing.PointF |  |
+| start_color | aspose.pydrawing.Color |  |
+| end_color | aspose.pydrawing.Color |  |
 
 
 

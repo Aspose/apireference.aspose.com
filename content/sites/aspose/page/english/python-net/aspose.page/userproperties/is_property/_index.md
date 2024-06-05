@@ -3,7 +3,7 @@ title: is_property method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /python-net/aspose.page/userproperties/is_property/
 is_root: false
 ---
@@ -42,7 +42,7 @@ Property value.
 
 
 ```python
-def is_property(self, key, def):
+def is_property(self, key, def_value):
     ...
 ```
 
@@ -50,7 +50,7 @@ def is_property(self, key, def):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | str | The name of property. |
-| def | bool | Default value of property. |
+| def_value | bool | Default value of property. |
 
 
 

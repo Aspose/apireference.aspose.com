@@ -3,7 +3,7 @@ title: save_image_as_eps method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 410
 url: /python-net/aspose.page.eps/psdocument/save_image_as_eps/
 is_root: false
 ---

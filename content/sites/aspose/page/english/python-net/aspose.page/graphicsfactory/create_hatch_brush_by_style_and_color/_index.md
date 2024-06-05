@@ -10,7 +10,7 @@ is_root: false
 
 ## create_hatch_brush_by_style_and_color {#aspose.pydrawing.drawing2d.HatchStyle-aspose.pydrawing.Color}
 
-Creates a hatch brush by hatch style and a color.
+
 
 
 
@@ -22,8 +22,8 @@ def create_hatch_brush_by_style_and_color(self, style, color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | aspose.pydrawing.drawing2d.HatchStyle | The hatch style. |
-| color | aspose.pydrawing.Color | The foreground color of the brush. |
+| style | aspose.pydrawing.drawing2d.HatchStyle |  |
+| color | aspose.pydrawing.Color |  |
 
 
 

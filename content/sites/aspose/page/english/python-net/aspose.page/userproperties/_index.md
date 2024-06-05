@@ -3,7 +3,7 @@ title: UserProperties class
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /python-net/aspose.page/userproperties/
 is_root: false
 ---
@@ -37,6 +37,7 @@ The UserProperties type exposes the following members:
 | [set_property](/page/python-net/aspose.page/userproperties/set_property/#str-float) | Sets double property value. |
 | [set_property](/page/python-net/aspose.page/userproperties/set_property/#str-float) | Sets float property value. |
 | [set_property](/page/python-net/aspose.page/userproperties/set_property/#str-bool) | Sets boolean property value. |
+| [set_property](/page/python-net/aspose.page/userproperties/set_property/#str-aspose.pydrawing.drawing2d.Matrix) | Sets matrix property value. |
 | [get_property](/page/python-net/aspose.page/userproperties/get_property/#str) | Gets string property value. |
 | [get_property](/page/python-net/aspose.page/userproperties/get_property/#str-str) | Gets string property value. If requested property is absent, returns provided default value. |
 | [get_property_string_array](/page/python-net/aspose.page/userproperties/get_property_string_array/#str) | Gets string array property value. |
@@ -55,6 +56,8 @@ The UserProperties type exposes the following members:
 | [get_property_double](/page/python-net/aspose.page/userproperties/get_property_double/#str-float) | Gets double property value. If requested property is absent, returns provided default value. |
 | [get_property_float](/page/python-net/aspose.page/userproperties/get_property_float/#str) | Gets float property value. |
 | [get_property_float](/page/python-net/aspose.page/userproperties/get_property_float/#str-float) | Gets float property value. If requested property is absent, returns provided default value. |
+| [get_property_matrix](/page/python-net/aspose.page/userproperties/get_property_matrix/#str) | Gets matrix property value. |
+| [get_property_matrix](/page/python-net/aspose.page/userproperties/get_property_matrix/#str-aspose.pydrawing.drawing2d.Matrix) | Gets matrix property value. If requested property is absent, returns provided default value. |
 | [is_property](/page/python-net/aspose.page/userproperties/is_property/#str) | Gets boolean property value. |
 | [is_property](/page/python-net/aspose.page/userproperties/is_property/#str-bool) | Gets boolean property value. If requested property is absent, returns provided default value. |
 | [property_names](/page/python-net/aspose.page/userproperties/property_names/#) | Returns properties names. |

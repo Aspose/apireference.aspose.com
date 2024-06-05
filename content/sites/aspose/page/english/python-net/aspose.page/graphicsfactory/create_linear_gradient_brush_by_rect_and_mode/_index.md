@@ -10,7 +10,7 @@ is_root: false
 
 ## create_linear_gradient_brush_by_rect_and_mode {#aspose.pydrawing.RectangleF-aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.pydrawing.drawing2d.LinearGradientMode}
 
-Creates a linear gradient brush by rectangle and LinearGradientMode.
+
 
 
 
@@ -22,10 +22,10 @@ def create_linear_gradient_brush_by_rect_and_mode(self, rect, start_color, end_c
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rect | aspose.pydrawing.RectangleF | The bounding rectangle of the gradient. |
-| start_color | aspose.pydrawing.Color | The start color of the gradient. |
-| end_color | aspose.pydrawing.Color | The end color of the gradient. |
-| mode | aspose.pydrawing.drawing2d.LinearGradientMode | The linear gradient mode. |
+| rect | aspose.pydrawing.RectangleF |  |
+| start_color | aspose.pydrawing.Color |  |
+| end_color | aspose.pydrawing.Color |  |
+| mode | aspose.pydrawing.drawing2d.LinearGradientMode |  |
 
 
 

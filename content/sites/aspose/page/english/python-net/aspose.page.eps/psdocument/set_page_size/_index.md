@@ -3,7 +3,7 @@ title: set_page_size method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 430
 url: /python-net/aspose.page.eps/psdocument/set_page_size/
 is_root: false
 ---

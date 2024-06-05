@@ -1,26 +1,17 @@
 ﻿---
-title: background property
+title: BACKGROUND property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 80
 url: /python-net/aspose.page.eps.device/pdfdevice/background/
 is_root: false
 ---
 
-## background property
+## BACKGROUND property
 
 
-Returns or specifies current background of the page.
-### Definition:
-```python
-@property
-def background(self):
-    ...
-@background.setter
-def background(self, value):
-    ...
-```
+"Background" property key.
 
 ### See Also
 * module [`aspose.page.eps.device`](../../)

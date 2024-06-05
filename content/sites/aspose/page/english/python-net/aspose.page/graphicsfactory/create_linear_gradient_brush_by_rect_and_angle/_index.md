@@ -10,7 +10,7 @@ is_root: false
 
 ## create_linear_gradient_brush_by_rect_and_angle {#aspose.pydrawing.RectangleF-aspose.pydrawing.Color-aspose.pydrawing.Color-float}
 
-Creates a linear gradient brush by rectangle and an angle of rotation.
+
 
 
 
@@ -22,10 +22,10 @@ def create_linear_gradient_brush_by_rect_and_angle(self, rect, start_color, end_
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rect | aspose.pydrawing.RectangleF | The bounding rectangle of the gradient. |
-| start_color | aspose.pydrawing.Color | The start color of the gradient. |
-| end_color | aspose.pydrawing.Color | The end color of the gradient. |
-| angle | float | The angle of the rotation of the gradient. |
+| rect | aspose.pydrawing.RectangleF |  |
+| start_color | aspose.pydrawing.Color |  |
+| end_color | aspose.pydrawing.Color |  |
+| angle | float |  |
 
 
 

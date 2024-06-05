@@ -3,7 +3,7 @@ title: scale method
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 420
 url: /python-net/aspose.page.eps/psdocument/scale/
 is_root: false
 ---

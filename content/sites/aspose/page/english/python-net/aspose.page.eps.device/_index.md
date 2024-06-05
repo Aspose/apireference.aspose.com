@@ -21,3 +21,9 @@ while converting PS/EPS to other formats.
 | [`PsSaveOptions`](/page/python-net/aspose.page.eps.device/pssaveoptions) | This class contains options necessary for managing process of converting document to PostScript (PS) or Encapsulated PostScript (EPS) file. |
 
 
+### Enumerations
+| Enumeration | Description |
+| :- | :- |
+| [`PsSaveFormat`](/page/python-net/aspose.page.eps.device/pssaveformat) | This enumeration contains available options of saving format. It can be PS or EPS.<br/>EPS is used for only 1-paged documents while PS file can contain any number of pages. |
+
+

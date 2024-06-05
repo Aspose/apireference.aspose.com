@@ -10,7 +10,7 @@ is_root: false
 
 ## create_pen_by_brush {#aspose.pydrawing.Brush}
 
-Creates a pen by brush.
+
 
 
 
@@ -22,7 +22,7 @@ def create_pen_by_brush(self, brush):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| brush | aspose.pydrawing.Brush | The pen brush. |
+| brush | aspose.pydrawing.Brush |  |
 
 
 

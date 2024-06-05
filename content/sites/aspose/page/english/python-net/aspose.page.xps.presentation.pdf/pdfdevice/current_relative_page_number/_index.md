@@ -3,7 +3,7 @@ title: current_relative_page_number property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 120
 url: /python-net/aspose.page.xps.presentation.pdf/pdfdevice/current_relative_page_number/
 is_root: false
 ---

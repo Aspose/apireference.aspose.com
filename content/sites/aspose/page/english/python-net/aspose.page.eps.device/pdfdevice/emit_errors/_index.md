@@ -3,7 +3,7 @@ title: EMIT_ERRORS property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 130
 url: /python-net/aspose.page.eps.device/pdfdevice/emit_errors/
 is_root: false
 ---

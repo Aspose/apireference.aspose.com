@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#aspose.pydrawing.imaging.ImageFormat}
+## __init__ {#aspose.page.drawing.imaging.ImageFormat}
 
 Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with image format.
 
@@ -36,7 +36,7 @@ def __init__(self, image_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_format | aspose.pydrawing.imaging.ImageFormat | A format of resulting image. |
+| image_format | aspose.page.drawing.imaging.ImageFormat | A format of resulting image. |
 
 
 ## __init__ {#aspose.pydrawing.Size}
@@ -56,7 +56,7 @@ def __init__(self, size):
 | size | aspose.pydrawing.Size | A size the resulting image. |
 
 
-## __init__ {#aspose.pydrawing.imaging.ImageFormat-aspose.pydrawing.Size}
+## __init__ {#aspose.page.drawing.imaging.ImageFormat-aspose.pydrawing.Size}
 
 Initializes new instance of the [`XpsConverterToImageOptions`](/page/python-net/aspose.page.plugins/xpsconvertertoimageoptions) object with image format and a size of the resulting image.
 
@@ -70,7 +70,7 @@ def __init__(self, image_format, size):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_format | aspose.pydrawing.imaging.ImageFormat | A format of resulting image. |
+| image_format | aspose.page.drawing.imaging.ImageFormat | A format of resulting image. |
 | size | aspose.pydrawing.Size | A size the resulting image. |
 
 

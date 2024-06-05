@@ -3,7 +3,7 @@ title: result property
 second_title: Aspose.Page for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 110
 url: /python-net/aspose.page.xps.presentation.image/imagedevice/result/
 is_root: false
 ---

@@ -25,9 +25,9 @@ The PsConverterToImageOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/page/python-net/aspose.page.plugins/psconvertertoimageoptions/__init__/#) | Initializes new instance of the [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions) object with default options. |
-| [__init__](/page/python-net/aspose.page.plugins/psconvertertoimageoptions/__init__/#aspose.pydrawing.imaging.ImageFormat) | Initializes new instance of the [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions) object with image format. |
-| [__init__](/page/python-net/aspose.page.plugins/psconvertertoimageoptions/__init__/#aspose.pydrawing.Size) | Initializes new instance of the [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions) object with a size of the resulting image. |
-| [__init__](/page/python-net/aspose.page.plugins/psconvertertoimageoptions/__init__/#aspose.pydrawing.imaging.ImageFormat-aspose.pydrawing.Size) | Initializes new instance of the [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions) object with image format and a size of the resulting image. |
+| [__init__](/page/python-net/aspose.page.plugins/psconvertertoimageoptions/__init__/#aspose.page.drawing.imaging.ImageFormat) | Initializes new instance of the [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions) object with image format. |
+| [__init__](/page/python-net/aspose.page.plugins/psconvertertoimageoptions/__init__/#aspose.page.drawing.Size) | Initializes new instance of the [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions) object with a size of the resulting image. |
+| [__init__](/page/python-net/aspose.page.plugins/psconvertertoimageoptions/__init__/#aspose.page.drawing.imaging.ImageFormat-aspose.page.drawing.Size) | Initializes new instance of the [`PsConverterToImageOptions`](/page/python-net/aspose.page.plugins/psconvertertoimageoptions) object with image format and a size of the resulting image. |
 
 
 ### Properties
