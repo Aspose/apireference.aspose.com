@@ -51,6 +51,7 @@ Main class for recognize text from images.
 | [RecognizeHandwrittenText(OcrInput input)](#RecognizeHandwrittenText-com.aspose.ocr.OcrInput-) | Recognizes handwritten text on images. |
 | [CalculateSkew(OcrInput input)](#CalculateSkew-com.aspose.ocr.OcrInput-) | Calculates the skew angles of an images. |
 | [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean-) | Detects text areas on images. |
+| [DetectDefects(OcrInput input, DefectType defectType)](#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.DefectType-) | Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. |
 | [RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)](#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language-) | Detects symbols on images. |
 | [RecognizeCharacters(OcrInput input)](#RecognizeCharacters-com.aspose.ocr.OcrInput-) | Detects symbols on images. |
 ### AsposeOCR() {#AsposeOCR--}
@@ -514,6 +515,22 @@ Detects text areas on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, P
 
 **Returns:**
 java.util.ArrayList<com.aspose.ocr.RectangleOutput> - ArrayList of [RectangleOutput](../../com.aspose.ocr/rectangleoutput) with detected text areas or lines.
+### DetectDefects(OcrInput input, DefectType defectType) {#DetectDefects-com.aspose.ocr.OcrInput-com.aspose.ocr.DefectType-}
+```
+public ArrayList<DefectOutput> DetectDefects(OcrInput input, DefectType defectType)
+```
+
+
+Automatically find problematic areas of an image that can significantly impact the accuracy of OCR. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput) |
+| defectType | [DefectType](../../com.aspose.ocr/defecttype) | The types of defects to be recognized [DefectType](../../com.aspose.ocr/defecttype). |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.DefectOutput> - ArrayList of [DefectOutput](../../com.aspose.ocr/defectoutput) with detected text areas or lines.
 ### RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language) {#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language-}
 ```
 public ArrayList<CharacterRecognitionResult> RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)
