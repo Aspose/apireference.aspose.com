@@ -3,7 +3,7 @@ title: SuggestedWord
 second_title: Aspose.OCR for Java API Reference
 description: Spelling suggestion returned from GetSpellCheckErrorList.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.ocr.spellcheck/suggestedword/
 ---
 

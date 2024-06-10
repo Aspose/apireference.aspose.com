@@ -3,7 +3,7 @@ title: ReceiptRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the receipt recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 24
+weight: 27
 url: /java/com.aspose.ocr/receiptrecognitionsettings/
 ---
 

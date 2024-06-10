@@ -3,7 +3,7 @@ title: IDCardRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the ID Card recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 15
+weight: 18
 url: /java/com.aspose.ocr/idcardrecognitionsettings/
 ---
 
@@ -18,7 +18,7 @@ Settings for the ID Card recognition Contains elements that allow customizing th
 
 | Constructor | Description |
 | --- | --- |
-| [IDCardRecognitionSettings()](#IDCardRecognitionSettings--) | Default constructor: set autoSkew true. |
+| [IDCardRecognitionSettings()](#IDCardRecognitionSettings--) | Default constructor. |
 ### IDCardRecognitionSettings() {#IDCardRecognitionSettings--}
 ```
 public IDCardRecognitionSettings()

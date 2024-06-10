@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the image recognition.
 type: docs
-weight: 26
+weight: 29
 url: /java/com.aspose.ocr/recognitionsettings/
 ---
 

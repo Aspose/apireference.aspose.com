@@ -3,7 +3,7 @@ title: Logging
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 20
+weight: 23
 url: /java/com.aspose.ocr/logging/
 ---
 

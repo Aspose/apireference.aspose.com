@@ -3,7 +3,7 @@ title: InputType
 second_title: Aspose.OCR for Java API Reference
 description: Types of image/ documents for processing / recognition.
 type: docs
-weight: 34
+weight: 38
 url: /java/com.aspose.ocr/inputtype/
 ---
 
