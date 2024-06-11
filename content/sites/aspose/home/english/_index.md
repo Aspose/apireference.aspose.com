@@ -197,7 +197,7 @@ Manipulate HTML files, including CSS, or render to PDF and raster image formats 
 
 {{< blocks/product-item title=".NET" href="/html/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/html/java/" class="btn-java" >}}
-{{< blocks/product-item title="Python" href="/html/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/html/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
