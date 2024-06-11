@@ -192,11 +192,12 @@ Create, edit and convert 3D documents in your own applications. Includes 2 indiv
 {{< blocks/product-card title="**Aspose.HTML**" href="html" >}}
 
 {{< blocks/card-item-text >}}
-Manipulate HTML files including CSS or render to PDF & raster image formats within your applications. Includes 2 individual products for .NET and Java platforms. 
+Manipulate HTML files, including CSS, or render to PDF and raster image formats within your applications. Includes 3 individual products for .NET, Java and Python platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/html/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/html/java/" class="btn-java" >}}
+{{< blocks/product-item title="Python" href="/html/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
