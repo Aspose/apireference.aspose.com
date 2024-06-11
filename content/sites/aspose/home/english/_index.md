@@ -280,6 +280,7 @@ Load, Parse and Render SVG file to multiple formats including PDF, XPS, and imag
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/svg/net/" class="btn-net" >}}
+{{< blocks/product-item title="PYTHON via .NET" href="/svg/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
