@@ -62,7 +62,7 @@ JSON object
   const fOTFtoWOFF = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Convert a OTF fonts to TTF and save - Ask Web Worker*/
+      /*Convert a OTF fonts to WOFF and save - Ask Web Worker*/
       AsposeFontWebWorker.postMessage({ "operation": 'AsposeFontConvertToWOFF', "params": [event.target.result, e.target.files[0].name, 'Module.FontType.OTF'] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
