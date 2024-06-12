@@ -65,4 +65,19 @@ Aspose.Font for JavaScript via C++ is a font manipulation API which lets you wor
 
 These are links to some useful resources:
 
-- [Aspose.Font for JavaScript via C++ API Reference](/font/javascriptcpp/)
+- [Aspose.Font for JavaScript via C++ API Reference](/font/javascript-cpp/)
+
+## Aspose.Font for Node.js via C++
+
+{{% alert color="primary" %}}
+
+![Aspose.Font for Node.js via C++ Product Logo](home_4.png)
+
+
+Aspose.Font for Node.js via C++ is a font manipulation API which lets you work with several font formats. It provides the capability to convert multiple font formats such as TrueType (with TrueType collections), CFF, OpenType, and Type1. It can read and set metadata information for TrueType fonts.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+
+- [Aspose.Font for Node.js via C++ API Reference](/font/nodejs-cpp/)
