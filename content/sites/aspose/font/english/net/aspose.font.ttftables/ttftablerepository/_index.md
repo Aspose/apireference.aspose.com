@@ -3,7 +3,7 @@ title: Class TtfTableRepository
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfTableRepository class. Represents repository of TTF tables
 type: docs
-weight: 1210
+weight: 1300
 url: /net/aspose.font.ttftables/ttftablerepository/
 ---
 ## TtfTableRepository class
@@ -34,6 +34,7 @@ public class TtfTableRepository
 | [Os2Table](../../aspose.font.ttftables/ttftablerepository/os2table/) { get; } | Gets OS/2 table. |
 | [PostTable](../../aspose.font.ttftables/ttftablerepository/posttable/) { get; } | Gets post table. |
 | [PrepTable](../../aspose.font.ttftables/ttftablerepository/preptable/) { get; } | Gets prep table. |
+| [StatTable](../../aspose.font.ttftables/ttftablerepository/stattable/) { get; } | Gets STAT table. |
 | [VheaTable](../../aspose.font.ttftables/ttftablerepository/vheatable/) { get; } | Gets vhea table. |
 | [VmtxTable](../../aspose.font.ttftables/ttftablerepository/vmtxtable/) { get; } | Gets vmtx table. |
 
