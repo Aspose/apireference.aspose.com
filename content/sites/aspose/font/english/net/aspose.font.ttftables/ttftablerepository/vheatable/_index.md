@@ -3,7 +3,7 @@ title: TtfTableRepository.VheaTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets vhea table
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.font.ttftables/ttftablerepository/vheatable/
 ---
 ## TtfTableRepository.VheaTable property

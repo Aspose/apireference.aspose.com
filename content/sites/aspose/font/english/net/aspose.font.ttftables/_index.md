@@ -28,6 +28,7 @@ The **Aspose.Font.TtfTables** namespace provides classes for work with different
 | [TtfOs2Table](./ttfos2table/) | Represents "OS/2" table of the TTF Font file. |
 | [TtfPostTable](./ttfposttable/) | Represents "post" table of the TTF Font file. |
 | [TtfPrepTable](./ttfpreptable/) | Represents "prep" table of the TTF Font file. |
+| [TtfStatTable](./ttfstattable/) | Represents Style Attributes Table(STAT) of the OpenType font. |
 | [TtfTableBase](./ttftablebase/) | Represents TTF table definition. |
 | [TtfTableRepository](./ttftablerepository/) | Represents repository of TTF tables. |
 | [TtfVheaTable](./ttfvheatable/) | Represents "vhea" table of the TTF Font file. |
