@@ -6,13 +6,14 @@ type: docs
 weight: 150
 url: /net/aspose.ocr/recognitionresult/save/
 ---
-## Save(string, SaveFormat, bool, SpellCheckLanguage, string) {#save_1}
+## Save(string, SaveFormat, bool, SpellCheckLanguage, string, string) {#save_2}
 
 Saves the document as the plain text, PDF or Microsoft Word Document.
 
 ```csharp
-public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingCorrection = false, 
-    SpellCheckLanguage language = SpellCheckLanguage.Eng, string dictionaryPath = null)
+public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingCorrection, 
+    SpellCheckLanguage language = SpellCheckLanguage.Eng, string dictionaryPath = null, 
+    string embeddedFontPath = null)
 ```
 
 | Parameter | Type | Description |
@@ -22,6 +23,7 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 | applySpellingCorrection | Boolean | Set true to correct misspelled words in case you have such in your recognition result. |
 | language | SpellCheckLanguage | Dictionary for spell check (optional). |
 | dictionaryPath | String | Optionally. Full path to the user dictionary in .txt format. Format is [word - space - frequence(number)]. Example: the 23135851162\nthat 3400031103\n |
+| embeddedFontPath | String | Optionally. Full path to the user font. |
 
 ### See Also
 
@@ -33,13 +35,37 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 
 ---
 
-## Save(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) {#save}
+## Save(string, SaveFormat, string) {#save_3}
 
 Saves the document as the plain text, PDF or Microsoft Word Document.
 
 ```csharp
-public void Save(MemoryStream stream, SaveFormat saveFormat, bool applySpellingCorrection = false, 
-    SpellCheckLanguage language = SpellCheckLanguage.Eng, string dictionaryPath = null)
+public void Save(string fullFileName, SaveFormat saveFormat, string embeddedFontPath = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fullFileName | String | Filename with a path for saving recognition result in the selected format. |
+| saveFormat | SaveFormat | Document format (Docx, Txt, Pdf, Xlsx, Rtf, Json, Xml). |
+| embeddedFontPath | String | Optionally. Full path to the user font. |
+
+### See Also
+
+* enum [SaveFormat](../../saveformat)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Save(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string, string) {#save}
+
+Saves the document as the plain text, PDF or Microsoft Word Document.
+
+```csharp
+public void Save(MemoryStream stream, SaveFormat saveFormat, bool applySpellingCorrection, 
+    SpellCheckLanguage language = SpellCheckLanguage.Eng, string dictionaryPath = null, 
+    string embeddedFontPath = null)
 ```
 
 | Parameter | Type | Description |
@@ -49,11 +75,35 @@ public void Save(MemoryStream stream, SaveFormat saveFormat, bool applySpellingC
 | applySpellingCorrection | Boolean | Set true to correct misspelled words in case you have such in your recognition result. |
 | language | SpellCheckLanguage | Dictionary for spell check (optional). |
 | dictionaryPath | String | Optionally. Full path to the user dictionary in .txt format. Format is [word - space - frequence(number)]. Example: the 23135851162\nthat 3400031103\n |
+| embeddedFontPath | String | Optionally. Full path to the user font. |
 
 ### See Also
 
 * enum [SaveFormat](../../saveformat)
 * enum [SpellCheckLanguage](../../../aspose.ocr.spellchecker/spellchecklanguage)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OCR](../../recognitionresult)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Save(MemoryStream, SaveFormat, string) {#save_1}
+
+Saves the document as the plain text, PDF or Microsoft Word Document.
+
+```csharp
+public void Save(MemoryStream stream, SaveFormat saveFormat, string embeddedFontPath = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | MemoryStream | MemoryStream for saving recognition result in the selected format. |
+| saveFormat | SaveFormat | Document format (Docx, Txt, Pdf). |
+| embeddedFontPath | String | Optionally. Full path to the user font. |
+
+### See Also
+
+* enum [SaveFormat](../../saveformat)
 * class [RecognitionResult](../../recognitionresult)
 * namespace [Aspose.OCR](../../recognitionresult)
 * assembly [Aspose.OCR](../../../)

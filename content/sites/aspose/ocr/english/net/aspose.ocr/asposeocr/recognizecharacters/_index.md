@@ -3,7 +3,7 @@ title: RecognizeCharacters
 second_title: Aspose.OCR for .NET API Reference
 description: Detects symbols on images. Supports GIF PNG JPEG BMP TIFF JFIF stream folder arrays archives.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.ocr/asposeocr/recognizecharacters/
 ---
 ## RecognizeCharacters(OcrInput) {#recognizecharacters}
@@ -38,7 +38,7 @@ Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, fol
 
 ```csharp
 public List<CharacterRecognitionResult> RecognizeCharacters(OcrInput images, 
-    DetectAreasMode detectAreasMode, Language language = Language.ExtLatin)
+    DetectAreasMode detectAreasMode = DetectAreasMode.PHOTO, Language language = Language.ExtLatin)
 ```
 
 | Parameter | Type | Description |

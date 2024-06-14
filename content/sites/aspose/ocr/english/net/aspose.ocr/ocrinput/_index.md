@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for .NET API Reference
 description: Container to collect all images / documents for preprocessing / recognition.
 type: docs
-weight: 300
+weight: 330
 url: /net/aspose.ocr/ocrinput/
 ---
 ## OcrInput class

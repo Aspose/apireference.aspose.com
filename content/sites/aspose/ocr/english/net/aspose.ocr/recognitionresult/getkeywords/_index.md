@@ -1,14 +1,14 @@
 ---
 title: GetKeywords
 second_title: Aspose.OCR for .NET API Reference
-description: Get keywords from pasport Test mode. Works only for MADAGASCAR passports.
+description: Get keywords from pasport Test mode. Works only for USA and MADAGASCAR passports.
 type: docs
 weight: 110
 url: /net/aspose.ocr/recognitionresult/getkeywords/
 ---
 ## RecognitionResult.GetKeywords method
 
-Get keywords from pasport (Test mode. Works only for MADAGASCAR passports).
+Get keywords from pasport (Test mode. Works only for USA and MADAGASCAR passports).
 
 ```csharp
 public Dictionary<string, LinesResult> GetKeywords()

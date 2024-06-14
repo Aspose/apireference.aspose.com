@@ -3,7 +3,7 @@ title: DetectAreasMode
 second_title: Aspose.OCR for .NET API Reference
 description: Determines the type of neural network used for areas detection.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.ocr/detectareasmode/
 ---
 ## DetectAreasMode enumeration

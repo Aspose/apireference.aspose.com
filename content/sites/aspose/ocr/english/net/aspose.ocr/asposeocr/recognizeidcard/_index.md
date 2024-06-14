@@ -3,7 +3,7 @@ title: RecognizeIDCard
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on ID card.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.ocr/asposeocr/recognizeidcard/
 ---
 ## RecognizeIDCard(OcrInput) {#recognizeidcard}
