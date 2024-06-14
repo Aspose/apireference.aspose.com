@@ -1,22 +1,18 @@
 ---
-title: Y
+title: y
 second_title: Aspose.OCR for .NET API Reference
-description: Gets or sets the y-coordinate of the upper-left corner of this Rectangleaspose.ocr/rectangle structure.
+description: The rectangle y location.
 type: docs
-weight: 110
+weight: 150
 url: /net/aspose.ocr/rectangle/y/
 ---
-## Rectangle.Y property
+## Rectangle.y field
 
-Gets or sets the y-coordinate of the upper-left corner of this [`Rectangle`](../../rectangle) structure.
+The rectangle y location.
 
 ```csharp
-public int Y { get; set; }
+public int y;
 ```
-
-### Property Value
-
-The y-coordinate of the upper-left corner of this [`Rectangle`](../../rectangle) structure.
 
 ### See Also
 

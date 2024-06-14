@@ -3,7 +3,7 @@ title: Country
 second_title: Aspose.OCR for .NET API Reference
 description: For better passport recognition point the passport country.
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.ocr/country/
 ---
 ## Country enumeration
@@ -18,8 +18,10 @@ public enum Country
 
 | Name | Value | Description |
 | --- | --- | --- |
-| UNIVERSAL | `0` | Do not improve the recognized text |
-| MADAGASCAR | `1` | Improve the recognized text according to the Madagascar passport template. |
+| UNIVERSAL | `0` | Do not parse the recognized text. |
+| USA | `1` | Extract key details from US passport image. |
+| MADAGASCAR | `2` | Extract key details from Malagasy passport image. |
+| NONE | `3` | Do not parse the recognized text. |
 
 ### See Also
 

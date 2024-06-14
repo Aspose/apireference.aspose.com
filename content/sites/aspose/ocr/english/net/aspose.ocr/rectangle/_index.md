@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.OCR for .NET API Reference
 description: Stores a set of four integers that represent the location and size of a rectangle.
 type: docs
-weight: 310
+weight: 340
 url: /net/aspose.ocr/rectangle/
 ---
 ## Rectangle structure
@@ -45,6 +45,15 @@ public struct Rectangle
 | override [ToString](../../aspose.ocr/rectangle/tostring)() | Converts the attributes of this [`Rectangle`](../rectangle) to a human-readable string. |
 | [operator ==](../../aspose.ocr/rectangle/op_equality) | Tests whether two [`Rectangle`](../rectangle) structures have equal location and size. |
 | [operator !=](../../aspose.ocr/rectangle/op_inequality) | Tests whether two [`Rectangle`](../rectangle) structures differ in location or size. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [height](../../aspose.ocr/rectangle/height) | The rectangle width. |
+| [width](../../aspose.ocr/rectangle/width) | The rectangle height. |
+| [x](../../aspose.ocr/rectangle/x) | The rectangle x location. |
+| [y](../../aspose.ocr/rectangle/y) | The rectangle y location. |
 
 ### See Also
 

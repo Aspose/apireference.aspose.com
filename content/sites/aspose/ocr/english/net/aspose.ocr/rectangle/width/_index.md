@@ -1,22 +1,18 @@
 ---
-title: Width
+title: width
 second_title: Aspose.OCR for .NET API Reference
-description: Gets or sets the width of this Rectangleaspose.ocr/rectangle structure.
+description: The rectangle height.
 type: docs
-weight: 90
+weight: 130
 url: /net/aspose.ocr/rectangle/width/
 ---
-## Rectangle.Width property
+## Rectangle.width field
 
-Gets or sets the width of this [`Rectangle`](../../rectangle) structure.
+The rectangle height.
 
 ```csharp
-public int Width { get; set; }
+public int width;
 ```
-
-### Return Value
-
-The width of this [`Rectangle`](../../rectangle) structure.
 
 ### See Also
 

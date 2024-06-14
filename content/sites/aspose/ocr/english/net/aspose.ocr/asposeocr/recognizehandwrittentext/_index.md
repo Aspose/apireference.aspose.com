@@ -3,7 +3,7 @@ title: RecognizeHandwrittenText
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes handwritten text on images.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.ocr/asposeocr/recognizehandwrittentext/
 ---
 ## AsposeOcr.RecognizeHandwrittenText method

@@ -3,7 +3,7 @@ title: Equals
 second_title: Aspose.OCR for .NET API Reference
 description: Tests whether obj is a Rectangleaspose.ocr/rectangle structure with the same location and size of this Rectangleaspose.ocr/rectangle structure.
 type: docs
-weight: 130
+weight: 170
 url: /net/aspose.ocr/rectangle/equals/
 ---
 ## Rectangle.Equals method

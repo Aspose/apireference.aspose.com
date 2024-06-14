@@ -3,7 +3,7 @@ title: op_Equality
 second_title: Aspose.OCR for .NET API Reference
 description: Tests whether two Rectangleaspose.ocr/rectangle structures have equal location and size.
 type: docs
-weight: 160
+weight: 200
 url: /net/aspose.ocr/rectangle/op_equality/
 ---
 ## Rectangle Equality operator

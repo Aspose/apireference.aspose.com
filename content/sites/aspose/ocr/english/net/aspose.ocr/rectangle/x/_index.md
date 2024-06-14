@@ -1,22 +1,18 @@
 ---
-title: X
+title: x
 second_title: Aspose.OCR for .NET API Reference
-description: Gets or sets the x-coordinate of the upper-left corner of this Rectangleaspose.ocr/rectangle structure.
+description: The rectangle x location.
 type: docs
-weight: 100
+weight: 140
 url: /net/aspose.ocr/rectangle/x/
 ---
-## Rectangle.X property
+## Rectangle.x field
 
-Gets or sets the x-coordinate of the upper-left corner of this [`Rectangle`](../../rectangle) structure.
+The rectangle x location.
 
 ```csharp
-public int X { get; set; }
+public int x;
 ```
-
-### Property Value
-
-The x-coordinate of the upper-left corner of this [`Rectangle`](../../rectangle) structure.
 
 ### See Also
 

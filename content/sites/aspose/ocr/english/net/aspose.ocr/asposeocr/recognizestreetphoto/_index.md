@@ -3,7 +3,7 @@ title: RecognizeStreetPhoto
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on street photos.
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.ocr/asposeocr/recognizestreetphoto/
 ---
 ## AsposeOcr.RecognizeStreetPhoto method

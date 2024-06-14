@@ -17,6 +17,8 @@ url: /net/aspose.ocr/
 | [CarPlateRecognitionSettings](./carplaterecognitionsettings) | Settings for the car number recognition. Contains elements that allow customizing the recognition process. |
 | [Character](./character) | Data about detected character. |
 | [CharacterRecognitionResult](./characterrecognitionresult) | Pages with detected characters data. |
+| [DefectAreas](./defectareas) | Image areas containing a certain type of defect. |
+| [DefectOutput](./defectoutput) | Areas containing defects identified in the image. |
 | [IDCardRecognitionSettings](./idcardrecognitionsettings) | Settings for the ID Card recognition. Contains elements that allow customizing the recognition process. |
 | [ImageData](./imagedata) | Information about processed / recognized image. |
 | [ImageProcessing](./imageprocessing) | Helper class for Aspose OCR library. Allows to preprocess and save images. |
@@ -40,6 +42,7 @@ url: /net/aspose.ocr/
 | [AreasType](./areastype) | Determines the type of regions detected by the model. |
 | [CharactersAllowedType](./charactersallowedtype) | Determines the type of characters allowed for recognition result. |
 | [Country](./country) | For better passport recognition point the passport country. |
+| [DefectType](./defecttype) | The types of image defects. |
 | [DetectAreasMode](./detectareasmode) | Determines the type of neural network used for areas detection. |
 | [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
 | [Language](./language) | Languages used for OCR. ISO 939-3 Code. |
