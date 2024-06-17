@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet
 second_title: Aspose.OMR for .NET API Reference
 description: The Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet contains CustomAnswerSheet parent and child elements required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/ https//docs.aspose.com/omr/net/txt-markup/custom_answer_sheet/
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation.config.elements.customanswersheet/
 ---
 The **Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet** contains CustomAnswerSheet parent and child elements required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/ https://docs.aspose.com/omr/net/txt-markup/custom_answer_sheet/

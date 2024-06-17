@@ -17,7 +17,7 @@ public GenerationResult GenerateJSONTemplate(string jsonPath, GlobalPageSettings
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| jsonPath | String | path to *.json file with markup |
+| jsonPath | String | path to *.json file with json markup only |
 | settings | GlobalPageSettings | global settings used in all template generation |
 | encoding | Encoding | markup file encoding, by default UTF-8 is used |
 

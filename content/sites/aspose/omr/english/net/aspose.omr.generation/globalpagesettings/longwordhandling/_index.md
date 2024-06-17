@@ -3,7 +3,7 @@ title: LongWordHandling
 second_title: Aspose.OMR for .NET API Reference
 description: Describes behaviour for all cases of a single word dimensions overflowing parent.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation/globalpagesettings/longwordhandling/
 ---
 ## GlobalPageSettings.LongWordHandling field

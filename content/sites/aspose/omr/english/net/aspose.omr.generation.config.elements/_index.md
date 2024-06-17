@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config.Elements
 second_title: Aspose.OMR for .NET API Reference
 description: The Aspose.OMR.Generation.Config.Elements contains all tempalte elements required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.omr.generation.config.elements/
 ---
 The **Aspose.OMR.Generation.Config.Elements** contains all tempalte elements required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/

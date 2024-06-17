@@ -24,6 +24,7 @@ public class GlobalPageSettings
 
 | Name | Description |
 | --- | --- |
+| [BatchBarcode](../../aspose.omr.generation/globalpagesettings/batchbarcode) | Configuration for batch barcode, placed on each form. Used only in batch processings via [`BatchOmrEngine`](../../aspose.omr.batchprocessings/batchomrengine) |
 | [BubbleColor](../../aspose.omr.generation/globalpagesettings/bubblecolor) | Color of the bubbles |
 | [BubbleSize](../../aspose.omr.generation/globalpagesettings/bubblesize) | The size of the bubbles |
 | [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily) | The font family of the text |

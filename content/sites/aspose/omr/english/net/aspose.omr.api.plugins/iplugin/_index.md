@@ -3,7 +3,7 @@ title: IPlugin
 second_title: Aspose.OMR for .NET API Reference
 description: Common interface for plugins
 type: docs
-weight: 900
+weight: 970
 url: /net/aspose.omr.api.plugins/iplugin/
 ---
 ## IPlugin interface

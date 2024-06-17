@@ -3,7 +3,7 @@ title: BubbleColor
 second_title: Aspose.OMR for .NET API Reference
 description: Color of the bubbles
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.omr.generation/globalpagesettings/bubblecolor/
 ---
 ## GlobalPageSettings.BubbleColor field
