@@ -17,7 +17,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | The stream which contains markup lines |
+| stream | MemoryStream | The stream which contains markup lines(txt or json) |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
 | userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 | encoding | Encoding | markup lines encoding, by default UTF-8 is used |
@@ -48,7 +48,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection us
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | The stream which contains markup lines |
+| stream | MemoryStream | The stream which contains markup lines(txt or json) |
 | userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 | encoding | Encoding | markup lines encoding, by default UTF-8 is used |
 
@@ -77,7 +77,7 @@ public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSetting
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| markupLines | String[] | Array of the markup lines |
+| markupLines | String[] | Array of the markup lines(txt) |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
 | userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 
@@ -106,7 +106,7 @@ public GenerationResult GenerateTemplate(string[] markupLines, ImageCollection u
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| markupLines | String[] | Array of the markup lines |
+| markupLines | String[] | Array of the markup lines(txt) |
 | userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
 
 ### Return Value
@@ -134,7 +134,7 @@ public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings s
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| markupPath | String | Path to the text markup file |
+| markupPath | String | Path to the text markup file(txt) |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
 | encoding | Encoding | markup file encoding, by default UTF-8 is used |
 
@@ -162,7 +162,7 @@ public GenerationResult GenerateTemplate(string markupPath, Encoding encoding = 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| markupPath | String | Path to the text markup file |
+| markupPath | String | Path to the text markup file(txt) |
 | encoding | Encoding | markup file encoding, by default UTF-8 is used |
 
 ### Return Value
@@ -189,7 +189,7 @@ public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| markupPath | String | Path to the text markup file |
+| markupPath | String | Path to the text markup file(txt) |
 | imagesPaths | String[] | Full paths to the images used in generation |
 | encoding | Encoding | markup file encoding, by default UTF-8 is used |
 

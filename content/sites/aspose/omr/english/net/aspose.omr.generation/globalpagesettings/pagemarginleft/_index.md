@@ -3,7 +3,7 @@ title: PageMarginLeft
 second_title: Aspose.OMR for .NET API Reference
 description: Left margin of the page on pixels
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.omr.generation/globalpagesettings/pagemarginleft/
 ---
 ## GlobalPageSettings.PageMarginLeft field

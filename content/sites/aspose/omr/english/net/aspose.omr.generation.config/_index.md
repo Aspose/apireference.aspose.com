@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config
 second_title: Aspose.OMR for .NET API Reference
 description: The Aspose.OMR.Generation.Config contains all classes required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.omr.generation.config/
 ---
 The **Aspose.OMR.Generation.Config** contains all classes required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/

@@ -3,7 +3,7 @@ title: Aspose.OMR.CorrectionUI
 second_title: Aspose.OMR for .NET API Reference
 description: The Aspose.OMR.CorrectionUI contains GUI that can be used in WPF-compatible systems
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.omr.correctionui/
 ---
 The **Aspose.OMR.CorrectionUI** contains GUI that can be used in WPF-compatible systems

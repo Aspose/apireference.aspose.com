@@ -24,9 +24,11 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey)(string, string) | Sets metered public and private key |
+| [GetProductName](../../aspose.omr/metered/getproductname)() | Get name of the product |
+| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey)(string, string) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
 | static [GetConsumptionCredit](../../aspose.omr/metered/getconsumptioncredit)() | Gets consumption credit |
 | static [GetConsumptionQuantity](../../aspose.omr/metered/getconsumptionquantity)() | Gets consumption file size |
+| static [IsMeteredLicensed](../../aspose.omr/metered/ismeteredlicensed)() | Check whether metered is licensed |
 
 ### Examples
 

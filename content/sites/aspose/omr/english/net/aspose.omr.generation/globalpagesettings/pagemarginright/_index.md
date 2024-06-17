@@ -3,7 +3,7 @@ title: PageMarginRight
 second_title: Aspose.OMR for .NET API Reference
 description: Right margin of the page on pixels
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.omr.generation/globalpagesettings/pagemarginright/
 ---
 ## GlobalPageSettings.PageMarginRight field
