@@ -3,7 +3,7 @@ title: SVGSwitchElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGSwitchElementBuilder class. Builder class for creating an SVGSwitchElement which is used to conditionally display SVG content
 type: docs
-weight: 1920
+weight: 1640
 url: /net/aspose.svg.builder/svgswitchelementbuilder/
 ---
 ## SVGSwitchElementBuilder class

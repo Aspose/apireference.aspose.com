@@ -3,7 +3,7 @@ title: DisplayType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.DisplayType enum. Specifies the display behavior of elements in SVG documents
 type: docs
-weight: 200
+weight: 230
 url: /net/aspose.svg.builder/displaytype/
 ---
 ## DisplayType enumeration

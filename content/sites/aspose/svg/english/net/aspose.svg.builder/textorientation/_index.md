@@ -3,7 +3,7 @@ title: TextOrientation Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TextOrientation enum. Specifies the orientation of text when writing
 type: docs
-weight: 610
+weight: 1820
 url: /net/aspose.svg.builder/textorientation/
 ---
 ## TextOrientation enumeration

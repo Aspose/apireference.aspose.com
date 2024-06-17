@@ -3,7 +3,7 @@ title: MaskBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.MaskBuilder class. A builder class for creating CSS mask properties. This class allows for the construction of complex mask styles using various properties such as mask source position size repeat style and more. The resulting string can be used in CSS to define the masking behavior of an element
 type: docs
-weight: 1550
+weight: 900
 url: /net/aspose.svg.builder/maskbuilder/
 ---
 ## MaskBuilder class

@@ -3,7 +3,7 @@ title: SVGStyleElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGStyleElementBuilder class. A builder class for constructing an SVG style element. This class facilitates the creation and configuration of an SVG style element with CSS rules
 type: docs
-weight: 1900
+weight: 1630
 url: /net/aspose.svg.builder/svgstyleelementbuilder/
 ---
 ## SVGStyleElementBuilder class

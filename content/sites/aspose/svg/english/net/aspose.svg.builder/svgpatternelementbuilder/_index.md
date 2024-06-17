@@ -3,7 +3,7 @@ title: SVGPatternElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGPatternElementBuilder class. Builder class for constructing an SVG pattern element which is used to define a pattern to be used for filling graphics elements within SVG. This class provides methods to set various attributes specific to the pattern element and to build its content
 type: docs
-weight: 1820
+weight: 1540
 url: /net/aspose.svg.builder/svgpatternelementbuilder/
 ---
 ## SVGPatternElementBuilder class

@@ -3,7 +3,7 @@ title: IGlobalEventAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IGlobalEventAttributeSetter interface. Interface for setting global event attributes
 type: docs
-weight: 1250
+weight: 580
 url: /net/aspose.svg.builder/iglobaleventattributesetter/
 ---
 ## IGlobalEventAttributeSetter interface

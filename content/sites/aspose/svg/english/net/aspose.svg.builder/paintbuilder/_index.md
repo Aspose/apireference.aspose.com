@@ -3,7 +3,7 @@ title: PaintBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.PaintBuilder class. A builder class for creating paint values for SVG elements
 type: docs
-weight: 1580
+weight: 980
 url: /net/aspose.svg.builder/paintbuilder/
 ---
 ## PaintBuilder class

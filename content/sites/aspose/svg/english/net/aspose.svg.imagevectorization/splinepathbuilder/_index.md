@@ -3,7 +3,7 @@ title: SplinePathBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.SplinePathBuilder class. The SplinePathBuilder class is designed to construct a smooth path by transforming Centripetal CatmullRom splines into Bezier curves. It offers a method to generate a path that smoothly interpolates through a set of points providing a balance between fidelity to the points and smoothness of the curve
 type: docs
-weight: 6220
+weight: 4360
 url: /net/aspose.svg.imagevectorization/splinepathbuilder/
 ---
 ## SplinePathBuilder class

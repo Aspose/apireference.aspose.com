@@ -3,7 +3,7 @@ title: StopUnitType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.StopUnitType enum. Defines the unit types for the offset in gradient stop elements
 type: docs
-weight: 550
+weight: 1760
 url: /net/aspose.svg.builder/stopunittype/
 ---
 ## StopUnitType enumeration

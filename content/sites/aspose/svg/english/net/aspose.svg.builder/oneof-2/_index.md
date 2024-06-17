@@ -3,7 +3,7 @@ title: OneOfT1T2 Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.OneOf2T1T2 class. Represents a value that can be one of two distinct types T1 or T2
 type: docs
-weight: 1560
+weight: 930
 url: /net/aspose.svg.builder/oneof-2/
 ---
 ## OneOf&lt;T1,T2&gt; class

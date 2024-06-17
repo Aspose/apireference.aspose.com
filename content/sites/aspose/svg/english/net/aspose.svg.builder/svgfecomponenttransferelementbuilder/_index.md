@@ -3,7 +3,7 @@ title: SVGFEComponentTransferElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEComponentTransferElementBuilder class. Builder class for creating SVG feComponentTransfer elements used in SVG filters
 type: docs
-weight: 800
+weight: 1210
 url: /net/aspose.svg.builder/svgfecomponenttransferelementbuilder/
 ---
 ## SVGFEComponentTransferElementBuilder class

@@ -3,7 +3,7 @@ title: ICSSUnknownRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSUnknownRule interface. The CSSUnknownRule interface represents an at-rule not supported by this user agent
 type: docs
-weight: 2460
+weight: 2740
 url: /net/aspose.svg.dom.css/icssunknownrule/
 ---
 ## ICSSUnknownRule interface

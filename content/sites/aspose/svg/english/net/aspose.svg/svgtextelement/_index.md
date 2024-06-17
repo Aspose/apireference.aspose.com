@@ -3,7 +3,7 @@ title: SVGTextElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGTextElement class. The SVGTextElement interface corresponds to the text element
 type: docs
-weight: 5220
+weight: 5870
 url: /net/aspose.svg/svgtextelement/
 ---
 ## SVGTextElement class

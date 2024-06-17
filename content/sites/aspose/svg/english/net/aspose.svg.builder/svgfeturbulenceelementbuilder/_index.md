@@ -3,7 +3,7 @@ title: SVGFETurbulenceElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFETurbulenceElementBuilder class. Builder class for creating SVG feTurbulence elements which create an image using the Perlin turbulence function
 type: docs
-weight: 1020
+weight: 1430
 url: /net/aspose.svg.builder/svgfeturbulenceelementbuilder/
 ---
 ## SVGFETurbulenceElementBuilder class

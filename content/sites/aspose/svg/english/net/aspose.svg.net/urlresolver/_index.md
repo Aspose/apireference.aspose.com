@@ -3,7 +3,7 @@ title: UrlResolver Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.UrlResolver class. Represents utility class for resolving absolute URL by a Uniform Resource Identifier URI
 type: docs
-weight: 3010
+weight: 4670
 url: /net/aspose.svg.net/urlresolver/
 ---
 ## UrlResolver class

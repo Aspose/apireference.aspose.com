@@ -3,7 +3,7 @@ title: ColorInterpolation Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ColorInterpolation enum. Specifies the color interpolation mode for SVG elements and filters
 type: docs
-weight: 110
+weight: 140
 url: /net/aspose.svg.builder/colorinterpolation/
 ---
 ## ColorInterpolation enumeration

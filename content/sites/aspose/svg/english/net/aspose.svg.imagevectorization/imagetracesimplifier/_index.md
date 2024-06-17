@@ -3,7 +3,7 @@ title: ImageTraceSimplifier Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.ImageTraceSimplifier class. The ImageTraceSimplifier class is responsible reducing the number of points in a curve that is approximated by a series of the trace points
 type: docs
-weight: 6170
+weight: 4320
 url: /net/aspose.svg.imagevectorization/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier class

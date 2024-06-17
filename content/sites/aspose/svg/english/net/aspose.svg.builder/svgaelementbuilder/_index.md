@@ -3,7 +3,7 @@ title: SVGAElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGAElementBuilder class. Builder class for constructing an SVG a element which is used to define hyperlinks. It enables the building of content within a element and provides methods to set various attributes specific to the a element in SVG
 type: docs
-weight: 1630
+weight: 1070
 url: /net/aspose.svg.builder/svgaelementbuilder/
 ---
 ## SVGAElementBuilder class

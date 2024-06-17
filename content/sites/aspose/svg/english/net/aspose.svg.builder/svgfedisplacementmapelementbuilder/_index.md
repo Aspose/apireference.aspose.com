@@ -3,7 +3,7 @@ title: SVGFEDisplacementMapElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEDisplacementMapElementBuilder class. Builder class for creating SVG feDisplacementMap elements used in SVG filters to apply displacement mapping effects
 type: docs
-weight: 840
+weight: 1250
 url: /net/aspose.svg.builder/svgfedisplacementmapelementbuilder/
 ---
 ## SVGFEDisplacementMapElementBuilder class

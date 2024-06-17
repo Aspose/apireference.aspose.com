@@ -3,7 +3,7 @@ title: IDocumentTraversal Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Traversal.IDocumentTraversal interface. DocumentTraversal contains methods that create iterators and tree-walkers to traverse a node and its children in document order depth first pre-order traversal which is equivalent to the order in which the start tags occur in the text representation of the document. In DOMs which support the Traversal feature DocumentTraversal will be implemented by the same objects that implement the Document interface
 type: docs
-weight: 3860
+weight: 3310
 url: /net/aspose.svg.dom.traversal/idocumenttraversal/
 ---
 ## IDocumentTraversal interface

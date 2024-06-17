@@ -3,7 +3,7 @@ title: IFilterPrimitiveElementBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IFilterPrimitiveElementBuilder interface. Interface for building filter primitive elements
 type: docs
-weight: 1230
+weight: 560
 url: /net/aspose.svg.builder/ifilterprimitiveelementbuilder/
 ---
 ## IFilterPrimitiveElementBuilder interface

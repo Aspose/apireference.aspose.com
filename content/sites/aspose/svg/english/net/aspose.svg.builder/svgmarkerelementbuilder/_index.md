@@ -3,7 +3,7 @@ title: SVGMarkerElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGMarkerElementBuilder class. Builder class for constructing an SVG marker element which is used to define graphical markers such as arrowheads or bullets that can be attached to the path line polyline and polygon elements. This class enables the building of content within the marker element and provides methods to set various attributes specific to the marker element in SVG
 type: docs
-weight: 1780
+weight: 1500
 url: /net/aspose.svg.builder/svgmarkerelementbuilder/
 ---
 ## SVGMarkerElementBuilder class

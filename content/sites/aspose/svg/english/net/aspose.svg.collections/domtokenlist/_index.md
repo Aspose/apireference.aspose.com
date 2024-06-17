@@ -3,7 +3,7 @@ title: DOMTokenList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Collections.DOMTokenList class. The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive
 type: docs
-weight: 3450
+weight: 2000
 url: /net/aspose.svg.collections/domtokenlist/
 ---
 ## DOMTokenList class

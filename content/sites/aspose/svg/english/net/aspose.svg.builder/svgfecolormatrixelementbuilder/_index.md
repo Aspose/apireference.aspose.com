@@ -3,7 +3,7 @@ title: SVGFEColorMatrixElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEColorMatrixElementBuilder class. Builder class for creating SVG feColorMatrix elements used in SVG filters
 type: docs
-weight: 790
+weight: 1200
 url: /net/aspose.svg.builder/svgfecolormatrixelementbuilder/
 ---
 ## SVGFEColorMatrixElementBuilder class

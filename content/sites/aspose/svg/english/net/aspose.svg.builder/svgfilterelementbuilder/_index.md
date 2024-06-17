@@ -3,7 +3,7 @@ title: SVGFilterElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFilterElementBuilder class. Builder class for creating SVG filter elements which define filter effects that can be applied to SVG graphics
 type: docs
-weight: 1030
+weight: 1440
 url: /net/aspose.svg.builder/svgfilterelementbuilder/
 ---
 ## SVGFilterElementBuilder class

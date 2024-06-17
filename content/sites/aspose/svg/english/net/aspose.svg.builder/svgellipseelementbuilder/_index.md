@@ -3,7 +3,7 @@ title: SVGEllipseElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGEllipseElementBuilder class. Builder class for constructing an SVG ellipse element which is used to draw ellipses within SVG graphics. It enables the building of content within the ellipse element and provides methods to set various attributes specific to the ellipse element in SVG
 type: docs
-weight: 1720
+weight: 1170
 url: /net/aspose.svg.builder/svgellipseelementbuilder/
 ---
 ## SVGEllipseElementBuilder class

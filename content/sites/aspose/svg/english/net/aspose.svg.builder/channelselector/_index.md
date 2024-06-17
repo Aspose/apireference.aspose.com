@@ -3,7 +3,7 @@ title: ChannelSelector Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ChannelSelector enum. Specifies the channel selectors for use in SVG filter operations
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.svg.builder/channelselector/
 ---
 ## ChannelSelector enumeration

@@ -3,7 +3,7 @@ title: SVGAnimateTransformElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGAnimateTransformElementBuilder class. Builder class for constructing an SVG animateTransform element which is used for creating transformation animations within SVG graphics. It enables the building of content within the animateTransform element and provides methods to set various attributes specific to the animateTransform element in SVG
 type: docs
-weight: 1660
+weight: 1100
 url: /net/aspose.svg.builder/svganimatetransformelementbuilder/
 ---
 ## SVGAnimateTransformElementBuilder class

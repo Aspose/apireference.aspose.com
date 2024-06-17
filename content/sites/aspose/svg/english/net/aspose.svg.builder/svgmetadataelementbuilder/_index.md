@@ -3,7 +3,7 @@ title: SVGMetadataElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGMetadataElementBuilder class. Builder class for constructing an SVG metadata element which is used to add metadata to an SVG document. This class enables the addition of metadata content and provides methods to set various attributes specific to the metadata element in SVG
 type: docs
-weight: 1800
+weight: 1520
 url: /net/aspose.svg.builder/svgmetadataelementbuilder/
 ---
 ## SVGMetadataElementBuilder class

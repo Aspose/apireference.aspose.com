@@ -3,7 +3,7 @@ title: SVGFECompositeElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFECompositeElementBuilder class. Builder class for creating SVG feComposite elements used in SVG filters
 type: docs
-weight: 810
+weight: 1220
 url: /net/aspose.svg.builder/svgfecompositeelementbuilder/
 ---
 ## SVGFECompositeElementBuilder class

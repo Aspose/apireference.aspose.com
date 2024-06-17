@@ -3,7 +3,7 @@ title: SVGFEBlendElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEBlendElementBuilder class. Builder class for creating SVG feBlend elements used in SVG filters
 type: docs
-weight: 780
+weight: 1190
 url: /net/aspose.svg.builder/svgfeblendelementbuilder/
 ---
 ## SVGFEBlendElementBuilder class

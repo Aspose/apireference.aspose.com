@@ -3,7 +3,7 @@ title: SVGFEDiffuseLightingElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEDiffuseLightingElementBuilder class. Builder class for creating SVG feDiffuseLighting elements used in SVG filters to apply diffuse lighting effects
 type: docs
-weight: 830
+weight: 1240
 url: /net/aspose.svg.builder/svgfediffuselightingelementbuilder/
 ---
 ## SVGFEDiffuseLightingElementBuilder class

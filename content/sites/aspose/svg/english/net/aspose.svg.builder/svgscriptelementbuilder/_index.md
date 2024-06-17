@@ -3,7 +3,7 @@ title: SVGScriptElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGScriptElementBuilder class. Builder class for constructing an SVG script element. The script element is used to embed or reference executable scripts within SVG documents. This class provides methods to set various attributes specific to the script element such as type source and cross-origin settings
 type: docs
-weight: 1870
+weight: 1600
 url: /net/aspose.svg.builder/svgscriptelementbuilder/
 ---
 ## SVGScriptElementBuilder class

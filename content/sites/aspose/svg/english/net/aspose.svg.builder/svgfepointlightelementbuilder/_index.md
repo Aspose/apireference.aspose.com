@@ -3,7 +3,7 @@ title: SVGFEPointLightElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEPointLightElementBuilder class. Builder class for creating SVG fePointLight elements which define a point light source for use with lighting filter primitives
 type: docs
-weight: 980
+weight: 1390
 url: /net/aspose.svg.builder/svgfepointlightelementbuilder/
 ---
 ## SVGFEPointLightElementBuilder class

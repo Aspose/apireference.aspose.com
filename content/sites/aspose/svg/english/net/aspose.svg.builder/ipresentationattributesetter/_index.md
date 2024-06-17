@@ -3,7 +3,7 @@ title: IPresentationAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IPresentationAttributeSetter interface. Interface for setting presentation attributes
 type: docs
-weight: 1310
+weight: 640
 url: /net/aspose.svg.builder/ipresentationattributesetter/
 ---
 ## IPresentationAttributeSetter interface

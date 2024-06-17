@@ -3,7 +3,7 @@ title: ISVGPaintServerFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Services.ISVGPaintServerFactory interface. Represents a factory for creating SVG paint server objects
 type: docs
-weight: 4420
+weight: 6130
 url: /net/aspose.svg.services/isvgpaintserverfactory/
 ---
 ## ISVGPaintServerFactory interface

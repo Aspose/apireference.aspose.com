@@ -3,7 +3,7 @@ title: ICompositeAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ICompositeAttributeSetter interface. Interface for setting a combination of various attribute types
 type: docs
-weight: 1140
+weight: 470
 url: /net/aspose.svg.builder/icompositeattributesetter/
 ---
 ## ICompositeAttributeSetter interface

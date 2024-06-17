@@ -3,7 +3,7 @@ title: SVGRadialGradientElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGRadialGradientElementBuilder class. Builder class for constructing an SVG radialGradient element which is used to define a radial gradient within SVG graphics. This class enables the building of content within the radialGradient element and provides methods to set various attributes specific to the radialGradient element in SVG
 type: docs
-weight: 1850
+weight: 1570
 url: /net/aspose.svg.builder/svgradialgradientelementbuilder/
 ---
 ## SVGRadialGradientElementBuilder class

@@ -3,7 +3,7 @@ title: SVGFEImageElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEImageElementBuilder class. Builder class for creating SVG feImage elements which define an image to be used by other filter primitives
 type: docs
-weight: 930
+weight: 1340
 url: /net/aspose.svg.builder/svgfeimageelementbuilder/
 ---
 ## SVGFEImageElementBuilder class

@@ -3,7 +3,7 @@ title: AspectRatioAlign Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.AspectRatioAlign enum. Specifies alignment types for the preserveAspectRatio attribute in SVG
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.svg.builder/aspectratioalign/
 ---
 ## AspectRatioAlign enumeration

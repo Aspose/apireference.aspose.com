@@ -3,7 +3,7 @@ title: BlendMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.BlendMode enum. Specifies the blending modes available for combining images or elements in SVG
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.svg.builder/blendmode/
 ---
 ## BlendMode enumeration

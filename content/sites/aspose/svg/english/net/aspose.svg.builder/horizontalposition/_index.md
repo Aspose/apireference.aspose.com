@@ -3,7 +3,7 @@ title: HorizontalPosition Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.HorizontalPosition enum. Specifies the horizontal position of an element or a component in SVG
 type: docs
-weight: 320
+weight: 360
 url: /net/aspose.svg.builder/horizontalposition/
 ---
 ## HorizontalPosition enumeration

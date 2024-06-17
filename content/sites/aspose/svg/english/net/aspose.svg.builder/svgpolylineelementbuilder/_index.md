@@ -3,7 +3,7 @@ title: SVGPolylineElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGPolylineElementBuilder class. Builder class for constructing an SVG polyline element. The polyline element is used to create a series of straight lines connecting multiple points in SVG graphics. This class provides methods to set various attributes and animate the polyline element
 type: docs
-weight: 1840
+weight: 1560
 url: /net/aspose.svg.builder/svgpolylineelementbuilder/
 ---
 ## SVGPolylineElementBuilder class

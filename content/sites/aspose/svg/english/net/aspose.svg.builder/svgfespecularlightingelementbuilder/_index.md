@@ -3,7 +3,7 @@ title: SVGFESpecularLightingElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFESpecularLightingElementBuilder class. Builder class for creating SVG feSpecularLighting elements which apply specular lighting effects to an image
 type: docs
-weight: 990
+weight: 1400
 url: /net/aspose.svg.builder/svgfespecularlightingelementbuilder/
 ---
 ## SVGFESpecularLightingElementBuilder class

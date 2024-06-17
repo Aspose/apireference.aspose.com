@@ -3,7 +3,7 @@ title: SVGSymbolElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGSymbolElementBuilder class. Builder class for creating an SVGSymbolElement which is used to define graphical template objects within SVG
 type: docs
-weight: 1930
+weight: 1650
 url: /net/aspose.svg.builder/svgsymbolelementbuilder/
 ---
 ## SVGSymbolElementBuilder class

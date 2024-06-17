@@ -3,7 +3,7 @@ title: SVGFESpotLightElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFESpotLightElementBuilder class. Builder class for creating SVG feSpotLight elements which define a light source that emits light in a specific direction like a spotlight
 type: docs
-weight: 1000
+weight: 1410
 url: /net/aspose.svg.builder/svgfespotlightelementbuilder/
 ---
 ## SVGFESpotLightElementBuilder class

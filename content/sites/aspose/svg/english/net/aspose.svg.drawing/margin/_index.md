@@ -3,7 +3,7 @@ title: Margin Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Margin class. Represents page margin
 type: docs
-weight: 3360
+weight: 3700
 url: /net/aspose.svg.drawing/margin/
 ---
 ## Margin class

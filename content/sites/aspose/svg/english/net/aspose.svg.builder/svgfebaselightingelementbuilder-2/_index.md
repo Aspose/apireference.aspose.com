@@ -3,7 +3,7 @@ title: SVGFEBaseLightingElementBuilderTElementTBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEBaseLightingElementBuilder2TElementTBuilder class. Abstract base class for builders of SVG filter effect lighting elements
 type: docs
-weight: 770
+weight: 1180
 url: /net/aspose.svg.builder/svgfebaselightingelementbuilder-2/
 ---
 ## SVGFEBaseLightingElementBuilder&lt;TElement,TBuilder&gt; class

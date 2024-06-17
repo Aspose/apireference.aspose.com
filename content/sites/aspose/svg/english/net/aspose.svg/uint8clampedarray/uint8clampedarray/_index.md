@@ -46,17 +46,11 @@ public Uint8ClampedArray(byte[] data)
 
 ---
 
-## Uint8ClampedArray(ArrayBuffer) {#constructor}
-
-Initializes a new instance of the [`Uint8ClampedArray`](../) class.
+## Uint8ClampedArray(  ) {#constructor}
 
 ```csharp
-public Uint8ClampedArray(ArrayBuffer buffer)
+public Uint8ClampedArray(   buffer)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | ArrayBuffer | The data buffer. |
 
 ### See Also
 
@@ -66,18 +60,11 @@ public Uint8ClampedArray(ArrayBuffer buffer)
 
 ---
 
-## Uint8ClampedArray(ArrayBuffer, int) {#constructor_1}
-
-Initializes a new instance of the [`Uint8ClampedArray`](../) class.
+## Uint8ClampedArray(  , int) {#constructor_1}
 
 ```csharp
-public Uint8ClampedArray(ArrayBuffer buffer, int byteOffset)
+public Uint8ClampedArray(   buffer, int byteOffset)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | ArrayBuffer | The data buffer. |
-| byteOffset | Int32 | The byte offset. |
 
 ### See Also
 
@@ -87,19 +74,11 @@ public Uint8ClampedArray(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Uint8ClampedArray(ArrayBuffer, int, int) {#constructor_2}
-
-Initializes a new instance of the [`Uint8ClampedArray`](../) class.
+## Uint8ClampedArray(  , int, int) {#constructor_2}
 
 ```csharp
-public Uint8ClampedArray(ArrayBuffer buffer, int byteOffset, int length)
+public Uint8ClampedArray(   buffer, int byteOffset, int length)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | ArrayBuffer | The data buffer. |
-| byteOffset | Int32 | The byte offset. |
-| length | Int32 | The length. |
 
 ### See Also
 

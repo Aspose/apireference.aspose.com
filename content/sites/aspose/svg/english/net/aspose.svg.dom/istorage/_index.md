@@ -3,7 +3,7 @@ title: IStorage Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.IStorage interface. This interface of the Web Storage API provides access to a particular domains session or local storage. See Web Storage specification https//html.spec.whatwg.org/multipage/webstorage.htmlwebstorage
 type: docs
-weight: 3690
+weight: 3180
 url: /net/aspose.svg.dom/istorage/
 ---
 ## IStorage interface

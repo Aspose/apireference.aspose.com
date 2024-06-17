@@ -3,7 +3,7 @@ title: IAnimationAdditionAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IAnimationAdditionAttributeSetter interface. Interface for setting additional animation attributes
 type: docs
-weight: 1040
+weight: 370
 url: /net/aspose.svg.builder/ianimationadditionattributesetter/
 ---
 ## IAnimationAdditionAttributeSetter interface

@@ -3,7 +3,7 @@ title: SVGTextPathElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGTextPathElementBuilder class. Builder class for creating SVG textPath elements which are used to align text to a path
 type: docs
-weight: 1950
+weight: 1680
 url: /net/aspose.svg.builder/svgtextpathelementbuilder/
 ---
 ## SVGTextPathElementBuilder class

@@ -3,7 +3,7 @@ title: Dash Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Dash enum. Defines the pattern of dashes and gaps used to paint the outline of shapes stroke in SVG elements
 type: docs
-weight: 190
+weight: 220
 url: /net/aspose.svg.builder/dash/
 ---
 ## Dash enumeration

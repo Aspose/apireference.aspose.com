@@ -3,7 +3,7 @@ title: SVGGElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGGElementBuilder class. Builder class for constructing an SVG g group element. The g element is used to group SVG shapes together. Grouping elements allows for easier manipulation and styling of multiple elements as a single unit within SVG graphics
 type: docs
-weight: 1740
+weight: 1460
 url: /net/aspose.svg.builder/svggelementbuilder/
 ---
 ## SVGGElementBuilder class

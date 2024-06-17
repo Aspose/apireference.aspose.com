@@ -3,7 +3,7 @@ title: IndefiniteRepeat Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IndefiniteRepeat enum. Specifies the indefinite repetition of an SVG animation
 type: docs
-weight: 340
+weight: 840
 url: /net/aspose.svg.builder/indefiniterepeat/
 ---
 ## IndefiniteRepeat enumeration

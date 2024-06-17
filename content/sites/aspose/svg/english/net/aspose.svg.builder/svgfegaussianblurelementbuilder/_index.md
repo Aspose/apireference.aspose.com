@@ -3,7 +3,7 @@ title: SVGFEGaussianBlurElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEGaussianBlurElementBuilder class. Builder class for creating SVG feGaussianBlur elements which apply a Gaussian blur filter effect
 type: docs
-weight: 920
+weight: 1330
 url: /net/aspose.svg.builder/svgfegaussianblurelementbuilder/
 ---
 ## SVGFEGaussianBlurElementBuilder class

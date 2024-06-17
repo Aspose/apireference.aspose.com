@@ -3,7 +3,7 @@ title: Visibility Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Visibility enum. Specifies the visibility of SVG elements
 type: docs
-weight: 710
+weight: 1940
 url: /net/aspose.svg.builder/visibility/
 ---
 ## Visibility enumeration

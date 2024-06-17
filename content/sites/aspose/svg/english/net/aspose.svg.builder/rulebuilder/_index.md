@@ -3,7 +3,7 @@ title: RuleBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.RuleBuilder class. A builder class for constructing CSS style rules. This class is used to dynamically build a string of CSS styles by setting various attributes and their values
 type: docs
-weight: 1590
+weight: 1060
 url: /net/aspose.svg.builder/rulebuilder/
 ---
 ## RuleBuilder class

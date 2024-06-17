@@ -3,7 +3,7 @@ title: SVGFEDistantLightElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEDistantLightElementBuilder class. Builder class for creating SVG feDistantLight elements used within SVG filters to define a distant light source
 type: docs
-weight: 850
+weight: 1260
 url: /net/aspose.svg.builder/svgfedistantlightelementbuilder/
 ---
 ## SVGFEDistantLightElementBuilder class

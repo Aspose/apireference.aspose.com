@@ -3,7 +3,7 @@ title: ContentHeaders Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.ContentHeaders class. Contains the headers associated with a content
 type: docs
-weight: 2850
+weight: 4440
 url: /net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class

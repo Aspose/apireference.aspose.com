@@ -3,7 +3,7 @@ title: SVGPathSegLinetoRel Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Paths.SVGPathSegLinetoRel class. The SVGPathSegLinetoRel interface corresponds to a relative lineto l path data command
 type: docs
-weight: 5520
+weight: 4840
 url: /net/aspose.svg.paths/svgpathseglinetorel/
 ---
 ## SVGPathSegLinetoRel class

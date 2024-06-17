@@ -3,7 +3,7 @@ title: CSSValueList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.CSSValueList class. The CSSValueList interface provides the abstraction of an ordered collection of CSS values
 type: docs
-weight: 2350
+weight: 2570
 url: /net/aspose.svg.dom.css/cssvaluelist/
 ---
 ## CSSValueList class
