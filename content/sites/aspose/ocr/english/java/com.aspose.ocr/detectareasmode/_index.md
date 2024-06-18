@@ -3,7 +3,7 @@ title: DetectAreasMode
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 36
+weight: 37
 url: /java/com.aspose.ocr/detectareasmode/
 ---
 

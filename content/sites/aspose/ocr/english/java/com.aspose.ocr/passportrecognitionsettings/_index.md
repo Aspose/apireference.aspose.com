@@ -19,9 +19,27 @@ Settings for the Passport recognition Contains elements that allow customizing t
 | Constructor | Description |
 | --- | --- |
 | [PassportRecognitionSettings()](#PassportRecognitionSettings--) |  |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [setCountry(Country country)](#setCountry-com.aspose.ocr.Country-) | Set the template for passport recognition and to extract the keywords. |
 ### PassportRecognitionSettings() {#PassportRecognitionSettings--}
 ```
 public PassportRecognitionSettings()
 ```
 
+
+### setCountry(Country country) {#setCountry-com.aspose.ocr.Country-}
+```
+public void setCountry(Country country)
+```
+
+
+Set the template for passport recognition and to extract the keywords.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| country | [Country](../../com.aspose.ocr/country) |  |
 

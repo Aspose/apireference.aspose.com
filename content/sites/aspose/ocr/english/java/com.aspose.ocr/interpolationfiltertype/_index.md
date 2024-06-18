@@ -3,7 +3,7 @@ title: InterpolationFilterType
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 39
+weight: 40
 url: /java/com.aspose.ocr/interpolationfiltertype/
 ---
 
