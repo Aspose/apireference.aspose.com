@@ -43,6 +43,7 @@ url: /java/com.aspose.ocr/
 | --- | --- |
 | [AreasType](../com.aspose.ocr/areastype) | Determines the type of regions detected by the model. |
 | [CharactersAllowedType](../com.aspose.ocr/charactersallowedtype) | Determines the type of characters allowed for recognition result. |
+| [Country](../com.aspose.ocr/country) | For better passport recognition point the passport country. |
 | [DefectType](../com.aspose.ocr/defecttype) | The types of image defects. |
 | [DetectAreasMode](../com.aspose.ocr/detectareasmode) |  |
 | [Format](../com.aspose.ocr/format) |  |

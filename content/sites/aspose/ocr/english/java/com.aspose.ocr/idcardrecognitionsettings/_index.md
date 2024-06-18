@@ -25,5 +25,5 @@ public IDCardRecognitionSettings()
 ```
 
 
-Default constructor: set autoSkew true.
+Default constructor.
 

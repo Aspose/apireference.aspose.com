@@ -35,7 +35,9 @@ Main class for recognize text from images.
 | [ImageTextDiff(String fullPath1, String fullPath2, RecognitionSettings settings)](#ImageTextDiff-java.lang.String-java.lang.String-com.aspose.ocr.RecognitionSettings-) | Compare the texts on the two images and return a number representing how similar they are (0 to 1). |
 | [ImageTextDiff(String fullPath1, String fullPath2)](#ImageTextDiff-java.lang.String-java.lang.String-) | Compare the texts on the two images and return a number representing how similar they are (0 to 1). |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-) | Allows to get multipage document from list of RecognitionResult objects. |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Allows to get multipage document from list of RecognitionResult objects with spell-check correction. |
+| [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-) | Allows to get multipage document from list of RecognitionResult objects. |
 | [SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--) | Allows to get multipage document from list of RecognitionResult objects. |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String-) | Corrects text (replaces misspelled words). |
@@ -263,6 +265,22 @@ Allows to get multipage document from list of RecognitionResult objects.
 | saveFormat | [Format](../../com.aspose.ocr/format) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult). objects. |
 
+### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-}
+```
+public static void SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)
+```
+
+
+Allows to get multipage document from list of RecognitionResult objects.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
+| saveFormat | [Format](../../com.aspose.ocr/format) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
+| results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult). objects. |
+| embeddedFontPath | java.lang.String | Optionally. Full path to the user font. |
+
 ### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage-}
 ```
 public static void SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)
@@ -278,6 +296,22 @@ Allows to get multipage document from list of RecognitionResult objects with spe
 | saveFormat | [Format](../../com.aspose.ocr/format) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult). objects. |
 | language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) enum value. |
+
+### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-}
+```
+public static void SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)
+```
+
+
+Allows to get multipage document from list of RecognitionResult objects.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | OutputStream for saving recognition result in the selected format. |
+| saveFormat | [Format](../../com.aspose.ocr/format) | Document format (Docx, Txt, Pdf, PdfNoImg, Xlsx, Xml, Json, Rtf). |
+| results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult). objects. |
+| embeddedFontPath | java.lang.String | Optionally. Full path to the user font. |
 
 ### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--}
 ```

@@ -12,23 +12,12 @@ java.lang.Object
 ```
 public class RecognitionResult.LinesResult
 ```
-## Constructors
-
-| Constructor | Description |
-| --- | --- |
-| [LinesResult()](#LinesResult--) |  |
 ## Fields
 
 | Field | Description |
 | --- | --- |
 | [textInLine](#textInLine) |  |
 | [line](#line) |  |
-### LinesResult() {#LinesResult--}
-```
-public LinesResult()
-```
-
-
 ### textInLine {#textInLine}
 ```
 public String textInLine

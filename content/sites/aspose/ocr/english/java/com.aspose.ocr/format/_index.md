@@ -3,7 +3,7 @@ title: Format
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 37
+weight: 38
 url: /java/com.aspose.ocr/format/
 ---
 

@@ -3,7 +3,7 @@ title: DefectType
 second_title: Aspose.OCR for Java API Reference
 description: The types of image defects.
 type: docs
-weight: 35
+weight: 36
 url: /java/com.aspose.ocr/defecttype/
 ---
 

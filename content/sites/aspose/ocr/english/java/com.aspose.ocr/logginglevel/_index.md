@@ -3,7 +3,7 @@ title: LoggingLevel
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 41
+weight: 42
 url: /java/com.aspose.ocr/logginglevel/
 ---
 

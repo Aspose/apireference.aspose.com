@@ -45,6 +45,8 @@ The results of the image recognition. Contains elements with recognition informa
 | [getSpellCheckErrorList(SpellCheck.SpellCheckLanguage language)](#getSpellCheckErrorList-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Find the misspelled words with suggested spellings for a given input text. |
 | [getSpellCheckErrorList()](#getSpellCheckErrorList--) | Find the misspelled words with suggested spellings for a given input text. |
 | [useUserDictionary(String dictionaryPath)](#useUserDictionary-java.lang.String-) | Allows to use own dictionary for spell-check correction. |
+| [GetKeywords()](#GetKeywords--) | Get keywords from pasport (Test mode. |
+| [SetKeyword(String key, RecognitionResult.LinesResult result)](#SetKeyword-java.lang.String-com.aspose.ocr.RecognitionResult.LinesResult-) |  |
 | [add(RecognitionResult other)](#add-com.aspose.ocr.RecognitionResult-) |  |
 | [clone()](#clone--) |  |
 ### RecognitionResult() {#RecognitionResult--}
@@ -249,6 +251,30 @@ Allows to use own dictionary for spell-check correction.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | dictionaryPath | java.lang.String | Full path to the user dictionary (frequency dictionary). Dictionary file format: Plain text file in UTF-8 encoding. Word and Word Frequency are separated by comma, the word is expected in the first column and the frequency in the second column. Every word-frequency-pair in a separate line.A line is defined as a sequence of characters followed by a line feed ("\\n"), a carriage return ("\\r"), or a carriage return immediately followed by a line feed("\\r\\n"). Every word is expected to be in lower case. |
+
+### GetKeywords() {#GetKeywords--}
+```
+public HashMap<String,RecognitionResult.LinesResult> GetKeywords()
+```
+
+
+Get keywords from pasport (Test mode. Works only for USA and MADAGASCAR passports).
+
+**Returns:**
+java.util.HashMap<java.lang.String,com.aspose.ocr.RecognitionResult.LinesResult> - Dictionary with keyword as a key and LinesResult as a value.
+### SetKeyword(String key, RecognitionResult.LinesResult result) {#SetKeyword-java.lang.String-com.aspose.ocr.RecognitionResult.LinesResult-}
+```
+public void SetKeyword(String key, RecognitionResult.LinesResult result)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | java.lang.String |  |
+| result | [LinesResult](../../com.aspose.ocr/linesresult) |  |
 
 ### add(RecognitionResult other) {#add-com.aspose.ocr.RecognitionResult-}
 ```

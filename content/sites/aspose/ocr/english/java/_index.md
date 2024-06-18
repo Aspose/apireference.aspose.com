@@ -13,4 +13,3 @@ is_root: true
 | [com.aspose.ocr](./com.aspose.ocr) |  |
 | [com.aspose.ocr.SpellCheck](./com.aspose.ocr.spellcheck) |  |
 | [com.aspose.ocr.metered](./com.aspose.ocr.metered) |  |
-| [com.aspose.ocr.metered.internal](./com.aspose.ocr.metered.internal) |  |
