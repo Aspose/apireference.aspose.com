@@ -19,9 +19,5 @@ the **Aspose.Svg.IO**  namespace contains helper classes and interfaces.
 | [`ICreateStreamProvider`](/svg/python-net/aspose.svg.io/icreatestreamprovider) | Represents an interface that can be implemented by classes providing streams to the rendering devices. |
 | [`IFile`](/svg/python-net/aspose.svg.io/ifile) | A File object is a Blob object with a name attribute, which is a string; it can be created within the web application via a constructor, or is a reference to a byte sequence from a file from the underlying (OS) file system. |
 | [`IFileList`](/svg/python-net/aspose.svg.io/ifilelist) | Represent the interface for list of files. |
-| [`IOutputStorage`](/svg/python-net/aspose.svg.io/ioutputstorage) | Provides the creation and management of output streams [`OutputStream`](/svg/python-net/aspose.svg.io/outputstream). |
-| [`LocalFileSystemStorage`](/svg/python-net/aspose.svg.io/localfilesystemstorage) | A file system storage. |
-| [`OutputStream`](/svg/python-net/aspose.svg.io/outputstream) | A surrogate stream wraps the real output stream and controls access to it.<br/>[`OutputStream`](/svg/python-net/aspose.svg.io/outputstream) contains URI data that describes location of the output stream. |
-| [`OutputStreamContext`](/svg/python-net/aspose.svg.io/outputstreamcontext) | A context for initialization of the output stream. |
 
 

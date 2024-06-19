@@ -73,23 +73,6 @@ def save(self, resource_handler):
 | resource_handler | aspose.svg.saving.resourcehandlers.ResourceHandler | The resource handler [`ResourceHandler`](/svg/python-net/aspose.svg.saving.resourcehandlers/resourcehandler). |
 
 
-## save {#aspose.svg.io.IOutputStorage}
-
-Saves the document content and resources to the output storage.
-
-
-
-```python
-def save(self, output_storage):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| output_storage | aspose.svg.io.IOutputStorage | The output storage [`IOutputStorage`](/svg/python-net/aspose.svg.io/ioutputstorage). |
-
-
 ## save {#str-aspose.svg.saving.SVGSaveFormat}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in 
@@ -133,24 +116,6 @@ def save(self, resource_handler, save_format):
 | save_format | aspose.svg.saving.SVGSaveFormat | Format in which document is saved. |
 
 
-## save {#aspose.svg.io.IOutputStorage-aspose.svg.saving.SVGSaveFormat}
-
-Saves the document content and resources to the output storage.
-
-
-
-```python
-def save(self, output_storage, save_format):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| output_storage | aspose.svg.io.IOutputStorage | The output storage [`IOutputStorage`](/svg/python-net/aspose.svg.io/ioutputstorage). |
-| save_format | aspose.svg.saving.SVGSaveFormat | Format in which document is saved. |
-
-
 ## save {#str-aspose.svg.saving.SVGSaveOptions}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in 
@@ -191,24 +156,6 @@ def save(self, resource_handler, save_options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | resource_handler | aspose.svg.saving.resourcehandlers.ResourceHandler | The resource handler [`ResourceHandler`](/svg/python-net/aspose.svg.saving.resourcehandlers/resourcehandler). |
-| save_options | aspose.svg.saving.SVGSaveOptions | SVG save options. |
-
-
-## save {#aspose.svg.io.IOutputStorage-aspose.svg.saving.SVGSaveOptions}
-
-Saves the document content and resources to the output storage.
-
-
-
-```python
-def save(self, output_storage, save_options):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| output_storage | aspose.svg.io.IOutputStorage | The output storage [`IOutputStorage`](/svg/python-net/aspose.svg.io/ioutputstorage). |
 | save_options | aspose.svg.saving.SVGSaveOptions | SVG save options. |
 
 
@@ -265,6 +212,5 @@ def save(self, url, save_options):
 
 ### See Also
 * module [`aspose.svg`](../../)
-* class [`IOutputStorage`](/svg/python-net/aspose.svg.io/ioutputstorage)
 * class [`ResourceHandler`](/svg/python-net/aspose.svg.saving.resourcehandlers/resourcehandler)
 * class [`SVGDocument`](/svg/python-net/aspose.svg/svgdocument)
