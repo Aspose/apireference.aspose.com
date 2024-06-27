@@ -11,7 +11,7 @@ description: API reference and code snippets for working with Aspose.Words, Aspo
 {{< blocks/product-card title="**Aspose.Words**" href="/words/" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit, convert or print Word documents in your application. Includes 7 individual products for various platforms.
+Create, edit, convert or print Word documents in your application. Includes individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/words/net/" class="btn-net"  >}}
@@ -24,7 +24,7 @@ Create, edit, convert or print Word documents in your application. Includes 7 in
 {{< blocks/product-card title="**Aspose.PDF**" href="/pdf/" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit or convert PDF documents in your application. Includes 7 individual products for various platforms.
+Create, edit or convert PDF documents in your application. Includes individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/pdf/net/" class="btn-net" >}}
@@ -38,7 +38,7 @@ Create, edit or convert PDF documents in your application. Includes 7 individual
 {{< blocks/product-card title="**Aspose.Cells**" href="cells" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit or convert Excel spreadsheets in your application. Includes 10 individual products for various platforms.
+Create, edit or convert Excel spreadsheets in your application. Includes individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/cells/net/" class="btn-net" >}}
@@ -54,7 +54,7 @@ Create, edit or convert Excel spreadsheets in your application. Includes 10 indi
 {{< blocks/product-card title="**Aspose.Email**" href="email" >}}
 
 {{< blocks/card-item-text >}}
-Manipulate Outlook files and email protocols in your application. Includes 6 individual products for various platforms.
+Manipulate Outlook files and email protocols in your application. Includes individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/email/net/" class="btn-net" >}}
@@ -68,7 +68,7 @@ Manipulate Outlook files and email protocols in your application. Includes 6 ind
 {{< blocks/product-card title="**Aspose.Slides**" href="/slides/" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit or convert PowerPoint presentations in your application. Includes 9 individual products for various platforms.
+Create, edit or convert PowerPoint presentations in your application. Includes individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/slides/net/" class="btn-net" >}}
@@ -114,7 +114,7 @@ Generate and Recognize 1D, 2D and postal barcodes in your application. Includes 
 {{< blocks/product-card title="**Aspose.Diagram**" href="diagram" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit, convert and print Microsoft Visio documents in your applications. Includes 3 individual products for various platforms.
+Create, edit, convert and print Microsoft Visio documents in your applications. Includes individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/diagram/net/" class="btn-net" >}}
@@ -129,7 +129,7 @@ Create, edit, convert and print Microsoft Visio documents in your applications. 
 {{< blocks/product-card title="**Aspose.Tasks**" href="tasks" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit, convert and print Microsoft Project documents in your applications. Includes 3 individual products for various platforms.
+Create, edit, convert and print Microsoft Project documents in your applications. Includes individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/tasks/net/" class="btn-net" >}}
@@ -142,7 +142,7 @@ Create, edit, convert and print Microsoft Project documents in your applications
 {{< blocks/product-card title="**Aspose.OCR**" href="ocr" >}}
 
 {{< blocks/card-item-text >}}
-Perform OCR for English, French, Spanish and Portuguese languages in your applications. Includes 3 individual products for various platforms.
+Perform OCR for English, French, Spanish and Portuguese languages in your applications. Currently available for the following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/ocr/net/" class="btn-net" >}}
@@ -156,7 +156,7 @@ Perform OCR for English, French, Spanish and Portuguese languages in your applic
 {{< blocks/product-card title="**Aspose.Note**" href="note" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit and convert Microsoft OneNote documents in your applications. Includes 2 individual products for .NET and Java platforms.
+Create, edit and convert Microsoft OneNote documents in your applications. Currently available for the following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/note/net/" class="btn-net" >}}
@@ -168,7 +168,7 @@ Create, edit and convert Microsoft OneNote documents in your applications. Inclu
 {{< blocks/product-card title="**Aspose.CAD**" href="cad" >}}
 
 {{< blocks/card-item-text >}}
-Convert AutoCAD DWG and DXF files to PDF and raster images in your applications. Includes 2 individual products for .NET and Java platforms.
+Convert AutoCAD DWG and DXF files to PDF and raster images in your applications. Currently available for the following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/cad/net/" class="btn-net" >}}
@@ -180,7 +180,7 @@ Convert AutoCAD DWG and DXF files to PDF and raster images in your applications.
 {{< blocks/product-card title="**Aspose.3D**" href="3d" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit and convert 3D documents in your own applications. Includes 2 individual products for .NET and Java platforms.
+Create, edit and convert 3D documents in your own applications. Currently available for the following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/3d/net/" class="btn-net" >}}
@@ -192,7 +192,7 @@ Create, edit and convert 3D documents in your own applications. Includes 2 indiv
 {{< blocks/product-card title="**Aspose.HTML**" href="html" >}}
 
 {{< blocks/card-item-text >}}
-Manipulate HTML files, including CSS, or render to PDF and raster image formats within your applications. Includes 3 individual products for .NET, Java and Python platforms.
+Manipulate HTML files, including CSS, or render to PDF and raster image formats within your applications. Currently available for the following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/html/net/" class="btn-net" >}}
@@ -205,7 +205,7 @@ Manipulate HTML files, including CSS, or render to PDF and raster image formats 
 {{< blocks/product-card title="**Aspose.GIS**" href="gis" >}}
 
 {{< blocks/card-item-text >}}
-Create, edit and convert GIS file formats in your application. Currently available for .NET platform only.
+Create, edit and convert GIS file formats in your application. Currently available for the following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/gis/net/" class="btn-net" >}}
@@ -215,7 +215,7 @@ Create, edit and convert GIS file formats in your application. Currently availab
 {{< blocks/product-card title="**Aspose.PSD**" href="psd" >}}
 
 {{< blocks/card-item-text >}}
-Load, create or edit Photoshop PSD & PSB files in your application. Currently available for .NET and Java platforms only.
+Load, create or edit Photoshop PSD & PSB files in your application. Currently available for the following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/psd/net/" class="btn-net" >}}
@@ -252,7 +252,7 @@ Create or manipulate XPS files and convert XPS, PS & EPS files to PDF and image 
 {{< blocks/product-card title="**Aspose.ZIP**" href="zip" >}}
 
 {{< blocks/card-item-text >}}
-Compress archives and files into zip format as well as extract zip files to its respective folders and documents. Currently available for .NET platform only.
+Compress archives and files into zip format as well as extract zip files to its respective folders and documents. Currently available for .following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/zip/net/" class="btn-net" >}}
@@ -264,7 +264,7 @@ Compress archives and files into zip format as well as extract zip files to its 
 {{< blocks/product-card title="**Aspose.PUB**" href="pub" >}}
 
 {{< blocks/card-item-text >}}
-Create, Parse and Convert Publisher PUB format to PDF documents. Currently available for .NET platform only.
+Create, Parse and Convert Publisher PUB format to PDF documents. Currently available for .following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/pub/net/" class="btn-net" >}}
@@ -277,7 +277,7 @@ Create, Parse and Convert Publisher PUB format to PDF documents. Currently avail
 {{< blocks/product-card title="**Aspose.SVG**" href="svg" >}}
 
 {{< blocks/card-item-text >}}
-Load, Parse and Render SVG file to multiple formats including PDF, XPS, and images. Currently available for .NET platform only.
+Load, Parse and Render SVG file to multiple formats including PDF, XPS, and images. Currently available for .following platforms.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/svg/net/" class="btn-net" >}}
@@ -299,7 +299,7 @@ Create and read finance-related formats such as XBRL, iXBRL formats for business
 {{< blocks/product-card title="**Aspose.Drawing**" href="drawing" >}}
 
 {{< blocks/card-item-text >}}
-Aspose.Drawing is a .NET graphics API that provides the capability of 2D drawings identical to GDI+ in your .NET applications.
+Aspose.Drawing is a comprehensive, cross-platform 2D graphics library for creating text, shapes, and images. It features a fully managed drawing engine that supports rendering vector graphics.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/drawing/net/" class="btn-net" >}}
@@ -321,7 +321,7 @@ Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1, with no 
 {{% blocks/product-card title="**Aspose.TeX**" href="tex" %}}
 
 {{% blocks/card-item-text %}}
-Typeset TeX files.
+High Code APIs and apps for TeX let you typeset, process, and convert TeX documents, supporting output in PDF, EPS, SVG, and various image formats.
 {{% /blocks/card-item-text %}}
 
 {{< blocks/product-item title=".NET" href="/tex/net/" class="btn-net" >}}
