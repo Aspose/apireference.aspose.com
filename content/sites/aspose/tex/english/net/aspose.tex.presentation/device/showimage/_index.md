@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation/device/showimage/
 Shows a raster image.
 
 ```csharp
+[Obsolete("This method has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public abstract void ShowImage(PointF origin, SizeF size, byte[] imageData)
 ```
 

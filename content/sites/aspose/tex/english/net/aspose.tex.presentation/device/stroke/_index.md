@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation/device/stroke/
 Gets/sets the current stroke.
 
 ```csharp
+[Obsolete("This property has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public virtual Pen Stroke { get; set; }
 ```
 

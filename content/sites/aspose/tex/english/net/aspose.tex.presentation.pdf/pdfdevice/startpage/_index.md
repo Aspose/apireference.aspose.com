@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation.pdf/pdfdevice/startpage/
 Starts a new page.
 
 ```csharp
+[Obsolete("This method has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public override void StartPage(float width, float height)
 ```
 

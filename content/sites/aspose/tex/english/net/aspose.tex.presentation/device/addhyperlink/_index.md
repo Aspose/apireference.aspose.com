@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation/device/addhyperlink/
 Sets the hyperlink with a URI as its target.
 
 ```csharp
+[Obsolete("This method has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public abstract void AddHyperlink(RectangleF activeRect, Pen border, string targetUri)
 ```
 

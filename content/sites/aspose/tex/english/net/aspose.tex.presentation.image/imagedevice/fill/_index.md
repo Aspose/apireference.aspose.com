@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation.image/imagedevice/fill/
 Gets/sets the current fill.
 
 ```csharp
+[Obsolete("This property has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public override Brush Fill { get; set; }
 ```
 

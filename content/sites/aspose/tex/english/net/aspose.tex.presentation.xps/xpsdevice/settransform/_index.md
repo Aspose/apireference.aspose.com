@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation.xps/xpsdevice/settransform/
 Sets the current coordinate space transformation.
 
 ```csharp
+[Obsolete("This method has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public override void SetTransform(Matrix matrix)
 ```
 
