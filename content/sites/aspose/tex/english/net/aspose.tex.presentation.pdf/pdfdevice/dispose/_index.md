@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation.pdf/pdfdevice/dispose/
 Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the ApsCanvas of the level higher then this device's graphics state ApsCanvas.
 
 ```csharp
+[Obsolete("This method has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public override void Dispose()
 ```
 

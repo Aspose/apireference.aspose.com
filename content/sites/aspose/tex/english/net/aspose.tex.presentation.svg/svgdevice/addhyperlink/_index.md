@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation.svg/svgdevice/addhyperlink/
 Set the hyperlink with a URI as its target.
 
 ```csharp
+[Obsolete("This method has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public override void AddHyperlink(RectangleF activeRect, Pen border, string targetUri)
 ```
 

@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation.svg/svgdevice/strokeopacity/
 Gets/sets the current stroke opacity.
 
 ```csharp
+[Obsolete("This property has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public override float StrokeOpacity { get; set; }
 ```
 

@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation/ifragmentrasterizer/
 Interface that allows to rasterize TeX fragments.
 
 ```csharp
+[Obsolete("This interface has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public interface IFragmentRasterizer
 ```
 

@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation/device/isready/
 Shows if device is ready for output.
 
 ```csharp
+[Obsolete("This property has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public abstract bool IsReady { get; }
 ```
 

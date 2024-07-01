@@ -11,6 +11,7 @@ url: /net/aspose.tex.presentation.svg/svgdevice/addbookmark/
 Adds the bookmark identified by the name.
 
 ```csharp
+[Obsolete("This method has been deprecated starting from version 24.7 and will be hidden in version 24.10.")]
 public void AddBookmark(string name, PointF position)
 ```
 
