@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.threed.entities/vertexelementmaterial/set_indices/
+url: /python-net/aspose.threed.entities/vertexelementmaterial/set_indices/
 is_root: false
 ---
 

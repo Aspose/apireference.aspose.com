@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.threed.entities/vertexelement/
+url: /python-net/aspose.threed.entities/vertexelement/
 is_root: false
 ---
 

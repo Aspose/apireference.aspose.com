@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed/license/set_license/
+url: /python-net/aspose.threed/license/set_license/
 is_root: false
 ---
 

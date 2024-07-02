@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.profiles/zshape/edge_radius/
+url: /python-net/aspose.threed.profiles/zshape/edge_radius/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.threed/node/select_single_object/
+url: /python-net/aspose.threed/node/select_single_object/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.render/itexture1d/minification/
+url: /python-net/aspose.threed.render/itexture1d/minification/
 is_root: false
 ---
 

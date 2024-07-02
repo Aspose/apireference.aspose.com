@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 510
-url: /aspose.threed.formats/pdfformat/usda/
+url: /python-net/aspose.threed.formats/pdfformat/usda/
 is_root: false
 ---
 

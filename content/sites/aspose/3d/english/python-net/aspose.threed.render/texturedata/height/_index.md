@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.threed.render/texturedata/height/
+url: /python-net/aspose.threed.render/texturedata/height/
 is_root: false
 ---
 

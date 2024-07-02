@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.entities/patch/remove_property/
+url: /python-net/aspose.threed.entities/patch/remove_property/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.entities/frustum/aspect/
+url: /python-net/aspose.threed.entities/frustum/aspect/
 is_root: false
 ---
 

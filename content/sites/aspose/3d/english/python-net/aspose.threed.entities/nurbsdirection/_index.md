@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.threed.entities/nurbsdirection/
+url: /python-net/aspose.threed.entities/nurbsdirection/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 390
-url: /aspose.threed.formats/plyformat/pcd/
+url: /python-net/aspose.threed.formats/plyformat/pcd/
 is_root: false
 ---
 

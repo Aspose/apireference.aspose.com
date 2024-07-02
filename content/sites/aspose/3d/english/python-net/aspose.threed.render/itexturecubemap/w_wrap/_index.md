@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.threed.render/itexturecubemap/w_wrap/
+url: /python-net/aspose.threed.render/itexturecubemap/w_wrap/
 is_root: false
 ---
 

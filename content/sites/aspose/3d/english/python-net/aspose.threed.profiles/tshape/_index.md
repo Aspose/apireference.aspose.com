@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.threed.profiles/tshape/
+url: /python-net/aspose.threed.profiles/tshape/
 is_root: false
 ---
 

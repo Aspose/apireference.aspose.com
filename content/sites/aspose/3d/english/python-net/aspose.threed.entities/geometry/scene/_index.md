@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 230
-url: /aspose.threed.entities/geometry/scene/
+url: /python-net/aspose.threed.entities/geometry/scene/
 is_root: false
 ---
 

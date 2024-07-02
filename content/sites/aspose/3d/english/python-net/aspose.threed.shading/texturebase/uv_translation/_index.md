@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.threed.shading/texturebase/uv_translation/
+url: /python-net/aspose.threed.shading/texturebase/uv_translation/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.threed.entities/plane/length_segments/
+url: /python-net/aspose.threed.entities/plane/length_segments/
 is_root: false
 ---
 

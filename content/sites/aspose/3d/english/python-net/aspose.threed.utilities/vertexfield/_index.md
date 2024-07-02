@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.threed.utilities/vertexfield/
+url: /python-net/aspose.threed.utilities/vertexfield/
 is_root: false
 ---
 
