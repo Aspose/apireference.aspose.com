@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed/globaltransform/transform_matrix/
+url: /python-net/aspose.threed/globaltransform/transform_matrix/
 is_root: false
 ---
 

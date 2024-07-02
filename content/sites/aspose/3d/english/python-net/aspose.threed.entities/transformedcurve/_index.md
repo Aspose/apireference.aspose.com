@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 370
-url: /aspose.threed.entities/transformedcurve/
+url: /python-net/aspose.threed.entities/transformedcurve/
 is_root: false
 ---
 

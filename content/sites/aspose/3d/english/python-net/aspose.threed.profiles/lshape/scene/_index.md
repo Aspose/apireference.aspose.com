@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /aspose.threed.profiles/lshape/scene/
+url: /python-net/aspose.threed.profiles/lshape/scene/
 is_root: false
 ---
 

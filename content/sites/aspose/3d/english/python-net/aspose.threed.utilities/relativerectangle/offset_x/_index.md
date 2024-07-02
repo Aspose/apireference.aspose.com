@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.threed.utilities/relativerectangle/offset_x/
+url: /python-net/aspose.threed.utilities/relativerectangle/offset_x/
 is_root: false
 ---
 

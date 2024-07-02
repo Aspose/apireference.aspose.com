@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.threed.shading/lambertmaterial/transparency/
+url: /python-net/aspose.threed.shading/lambertmaterial/transparency/
 is_root: false
 ---
 

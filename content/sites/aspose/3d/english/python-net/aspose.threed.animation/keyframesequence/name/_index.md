@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.animation/keyframesequence/name/
+url: /python-net/aspose.threed.animation/keyframesequence/name/
 is_root: false
 ---
 

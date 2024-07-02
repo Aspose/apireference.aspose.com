@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.threed.animation/bindpoint/create_keyframe_sequence/
+url: /python-net/aspose.threed.animation/bindpoint/create_keyframe_sequence/
 is_root: false
 ---
 

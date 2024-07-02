@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.threed.render/itexturedecoder/
+url: /python-net/aspose.threed.render/itexturedecoder/
 is_root: false
 ---
 

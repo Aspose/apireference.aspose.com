@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.render/renderervariablemanager/matrix_world/
+url: /python-net/aspose.threed.render/renderervariablemanager/matrix_world/
 is_root: false
 ---
 

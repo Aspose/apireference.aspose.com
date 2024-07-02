@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.threed.formats/plyformat/fbx7200_binary/
+url: /python-net/aspose.threed.formats/plyformat/fbx7200_binary/
 is_root: false
 ---
 

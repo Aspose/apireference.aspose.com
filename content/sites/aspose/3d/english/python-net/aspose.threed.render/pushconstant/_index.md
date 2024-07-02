@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.threed.render/pushconstant/
+url: /python-net/aspose.threed.render/pushconstant/
 is_root: false
 ---
 

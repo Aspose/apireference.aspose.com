@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.utilities/vertex/read_f_vector4/
+url: /python-net/aspose.threed.utilities/vertex/read_f_vector4/
 is_root: false
 ---
 

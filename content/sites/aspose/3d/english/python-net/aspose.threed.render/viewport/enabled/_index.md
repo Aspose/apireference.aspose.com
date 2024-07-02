@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.render/viewport/enabled/
+url: /python-net/aspose.threed.render/viewport/enabled/
 is_root: false
 ---
 

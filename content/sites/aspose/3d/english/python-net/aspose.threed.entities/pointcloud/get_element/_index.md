@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.threed.entities/pointcloud/get_element/
+url: /python-net/aspose.threed.entities/pointcloud/get_element/
 is_root: false
 ---
 

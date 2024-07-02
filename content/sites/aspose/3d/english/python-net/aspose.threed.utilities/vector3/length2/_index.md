@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.threed.utilities/vector3/length2/
+url: /python-net/aspose.threed.utilities/vector3/length2/
 is_root: false
 ---
 

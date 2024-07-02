@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.threed.entities/light/linear_attenuation/
+url: /python-net/aspose.threed.entities/light/linear_attenuation/
 is_root: false
 ---
 

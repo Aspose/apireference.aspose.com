@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 460
-url: /aspose.threed.formats/rvmformat/stlascii/
+url: /python-net/aspose.threed.formats/rvmformat/stlascii/
 is_root: false
 ---
 

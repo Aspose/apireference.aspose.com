@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.shading/shadertechnique/shader_file/
+url: /python-net/aspose.threed.shading/shadertechnique/shader_file/
 is_root: false
 ---
 

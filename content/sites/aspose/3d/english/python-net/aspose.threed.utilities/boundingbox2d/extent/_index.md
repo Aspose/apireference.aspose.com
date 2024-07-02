@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.utilities/boundingbox2d/extent/
+url: /python-net/aspose.threed.utilities/boundingbox2d/extent/
 is_root: false
 ---
 

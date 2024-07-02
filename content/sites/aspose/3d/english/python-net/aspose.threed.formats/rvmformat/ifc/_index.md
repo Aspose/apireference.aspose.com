@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 340
-url: /aspose.threed.formats/rvmformat/ifc/
+url: /python-net/aspose.threed.formats/rvmformat/ifc/
 is_root: false
 ---
 

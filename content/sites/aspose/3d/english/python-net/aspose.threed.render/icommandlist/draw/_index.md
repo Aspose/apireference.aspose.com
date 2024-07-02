@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.render/icommandlist/draw/
+url: /python-net/aspose.threed.render/icommandlist/draw/
 is_root: false
 ---
 

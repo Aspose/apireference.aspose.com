@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.threed.entities/revolvedareasolid/scene/
+url: /python-net/aspose.threed.entities/revolvedareasolid/scene/
 is_root: false
 ---
 

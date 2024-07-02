@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.threed.entities/vertexelementbinormal/clear/
+url: /python-net/aspose.threed.entities/vertexelementbinormal/clear/
 is_root: false
 ---
 

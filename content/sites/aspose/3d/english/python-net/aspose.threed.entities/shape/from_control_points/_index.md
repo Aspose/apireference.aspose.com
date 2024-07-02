@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.entities/shape/from_control_points/
+url: /python-net/aspose.threed.entities/shape/from_control_points/
 is_root: false
 ---
 

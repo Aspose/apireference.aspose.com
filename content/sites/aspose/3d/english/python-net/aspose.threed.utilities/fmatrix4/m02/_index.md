@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.threed.utilities/fmatrix4/m02/
+url: /python-net/aspose.threed.utilities/fmatrix4/m02/
 is_root: false
 ---
 

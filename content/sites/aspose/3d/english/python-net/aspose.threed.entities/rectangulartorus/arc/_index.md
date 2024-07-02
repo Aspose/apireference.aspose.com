@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.threed.entities/rectangulartorus/arc/
+url: /python-net/aspose.threed.entities/rectangulartorus/arc/
 is_root: false
 ---
 

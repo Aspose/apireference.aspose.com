@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.threed.formats/discreet3dsloadoptions/file_name/
+url: /python-net/aspose.threed.formats/discreet3dsloadoptions/file_name/
 is_root: false
 ---
 
