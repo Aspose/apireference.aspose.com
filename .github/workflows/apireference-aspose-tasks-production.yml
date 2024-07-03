@@ -1,10 +1,8 @@
-# This is a basic workflow to help you get started with Actions
-
 name: apireference.aspose.com(tasks)(Production)
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
+  # Triggers the workflow on push or pull request events but only for the production branch
   push:
     branches: [ production ]
     paths:
@@ -28,8 +26,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-            submodules: true  # Fetch Hugo themes
-            fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true  # Fetch Hugo themes
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
       - name: Checkout theme repo
         uses: actions/checkout@main
         with:
@@ -37,28 +36,42 @@ jobs:
           token: ${{ secrets.REPO_TOKEN }}
           fetch-depth: 0
           path: themes/api-theme      
+
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.119.0'
           extended: true
-      - name: Install Dependicies1
-        run:  npm install -D --save autoprefixer
-      - name: Install Dependicies2
-        run:  npm install -D --save postcss-cli
+
+      - name: Install Dependencies 1
+        run: npm install -D --save autoprefixer
+
+      - name: Install Dependencies 2
+        run: npm install -D --save postcss-cli
 
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/sites/aspose/tasks --environment production --minify
-        
-      - name: Deploy apireference2.aspose.com(tasks)(production) to S3
-        run: hugo --configDir config/sites/aspose/tasks --environment production deploy --target "Production" --maxDeletes 0
+
+      - name: Deploy apireference.aspose.com(tasks)(Production) to S3
+        run: |
+          retries=2
+          count=0
+          until [ $count -ge $retries ]
+          do
+            hugo --configDir config/sites/aspose/tasks --environment production deploy --target "Production" --maxDeletes 0 && break
+            count=$((count+1))
+            echo "Retry #$count..."
+            sleep 10
+          done
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        if: ${{ success() }}
+
       # Invalidate Cloudfront Home Page
-      - name: invalidate
+      - name: Invalidate Cloudfront Cache
         uses: chetan/invalidate-cloudfront-action@v2
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
@@ -66,3 +79,11 @@ jobs:
           AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        if: ${{ success() }}
+
+      # Notify if deployment fails
+      - name: Notify Failure
+        if: failure()
+        run: |
+          echo "Deployment to S3 failed after multiple attempts. Please check the logs for details."
+          # You can also add steps here to send notifications to Slack, email, etc.
