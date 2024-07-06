@@ -3,7 +3,7 @@ title: PngFigureRendererOptions class
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 100
 url: /python-net/aspose.tex.features/pngfigurerendereroptions/
 is_root: false
 ---

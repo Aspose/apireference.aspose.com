@@ -3,7 +3,7 @@ title: SvgFigureRendererOptions class
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 140
 url: /python-net/aspose.tex.features/svgfigurerendereroptions/
 is_root: false
 ---
