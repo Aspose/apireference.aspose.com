@@ -3,7 +3,7 @@ title: IRasterRendererOptions class
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /python-net/aspose.tex.features/irasterrendereroptions/
 is_root: false
 ---

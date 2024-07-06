@@ -3,7 +3,7 @@ title: SvgMathRenderer class
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 150
 url: /python-net/aspose.tex.features/svgmathrenderer/
 is_root: false
 ---

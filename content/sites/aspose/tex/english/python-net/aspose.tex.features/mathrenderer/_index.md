@@ -3,7 +3,7 @@ title: MathRenderer class
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 70
 url: /python-net/aspose.tex.features/mathrenderer/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: PngMathRendererOptions class
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 120
 url: /python-net/aspose.tex.features/pngmathrendereroptions/
 is_root: false
 ---
