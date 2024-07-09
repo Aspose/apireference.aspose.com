@@ -3,7 +3,7 @@ title: CffFont
 second_title: Aspose.Font for Java API Reference
 description: Represents Compact Font Format CFF.
 type: docs
-weight: 12
+weight: 19
 url: /java/com.aspose.font/cfffont/
 ---
 **Inheritance:**

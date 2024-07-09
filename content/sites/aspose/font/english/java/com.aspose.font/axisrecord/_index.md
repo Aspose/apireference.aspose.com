@@ -1,15 +1,15 @@
 ---
-title: TtfStatTable.AxisRecord
+title: AxisRecord
 second_title: Aspose.Font for Java API Reference
 description: Represents Axis Record structure.
 type: docs
 weight: 10
-url: /java/com.aspose.font/ttfstattable.axisrecord/
+url: /java/com.aspose.font/axisrecord/
 ---
 **Inheritance:**
 java.lang.Object
 ```
-public static class TtfStatTable.AxisRecord
+public class AxisRecord
 ```
 
 Represents Axis Record structure. Spec: the axis record provides information about a single design axis.

@@ -3,7 +3,7 @@ title: LicenseFlags
 second_title: Aspose.Font for Java API Reference
 description: Represents a helper wrapper for an embedding flags from OS/2 table field fsType.
 type: docs
-weight: 47
+weight: 54
 url: /java/com.aspose.font/licenseflags/
 ---
 **Inheritance:**

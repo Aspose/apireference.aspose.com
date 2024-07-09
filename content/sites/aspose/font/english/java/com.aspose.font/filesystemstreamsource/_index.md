@@ -3,7 +3,7 @@ title: FileSystemStreamSource
 second_title: Aspose.Font for Java API Reference
 description: Represents a stream source based on file system.
 type: docs
-weight: 22
+weight: 29
 url: /java/com.aspose.font/filesystemstreamsource/
 ---
 **Inheritance:**

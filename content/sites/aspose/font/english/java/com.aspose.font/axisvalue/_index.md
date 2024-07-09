@@ -1,15 +1,15 @@
 ---
-title: TtfStatTable.AxisValue
+title: AxisValue
 second_title: Aspose.Font for Java API Reference
 description: Represents AxisValue record.
 type: docs
 weight: 11
-url: /java/com.aspose.font/ttfstattable.axisvalue/
+url: /java/com.aspose.font/axisvalue/
 ---
 **Inheritance:**
 java.lang.Object
 ```
-public static class TtfStatTable.AxisValue
+public class AxisValue
 ```
 
 Represents AxisValue record.

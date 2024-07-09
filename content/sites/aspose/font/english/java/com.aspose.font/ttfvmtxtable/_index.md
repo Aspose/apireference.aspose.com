@@ -3,7 +3,7 @@ title: TtfVmtxTable
 second_title: Aspose.Font for Java API Reference
 description: Represents vmtx table of the TTF Font file.
 type: docs
-weight: 98
+weight: 105
 url: /java/com.aspose.font/ttfvmtxtable/
 ---
 **Inheritance:**

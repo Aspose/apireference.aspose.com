@@ -1,15 +1,15 @@
 ---
-title: TtfStatTable.AxisValueTableFormat4
+title: AxisValueTableFormat4
 second_title: Aspose.Font for Java API Reference
 description: Represents Axis value table format 4
 type: docs
 weight: 16
-url: /java/com.aspose.font/ttfstattable.axisvaluetableformat4/
+url: /java/com.aspose.font/axisvaluetableformat4/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.font.TtfStatTable.AxisValueTableBase](../../com.aspose.font/axisvaluetablebase)
+java.lang.Object, [com.aspose.font.AxisValueTableBase](../../com.aspose.font/axisvaluetablebase)
 ```
-public static class TtfStatTable.AxisValueTableFormat4 extends TtfStatTable.AxisValueTableBase
+public class AxisValueTableFormat4 extends AxisValueTableBase
 ```
 
 Represents Axis value table format 4
@@ -17,15 +17,15 @@ Represents Axis value table format 4
 
 | Constructor | Description |
 | --- | --- |
-| [AxisValueTableFormat4(int flags, int valueNameId, TtfStatTable.AxisValue[] axisValues)](#AxisValueTableFormat4-int-int-com.aspose.font.TtfStatTable.AxisValue---) | Constructor |
+| [AxisValueTableFormat4(int flags, int valueNameId, AxisValue[] axisValues)](#AxisValueTableFormat4-int-int-com.aspose.font.AxisValue---) | Constructor |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getAxisValues()](#getAxisValues--) | Array of AxisValue records that provide the combination of axis values, one for each contributing axis. |
-### AxisValueTableFormat4(int flags, int valueNameId, TtfStatTable.AxisValue[] axisValues) {#AxisValueTableFormat4-int-int-com.aspose.font.TtfStatTable.AxisValue---}
+### AxisValueTableFormat4(int flags, int valueNameId, AxisValue[] axisValues) {#AxisValueTableFormat4-int-int-com.aspose.font.AxisValue---}
 ```
-public AxisValueTableFormat4(int flags, int valueNameId, TtfStatTable.AxisValue[] axisValues)
+public AxisValueTableFormat4(int flags, int valueNameId, AxisValue[] axisValues)
 ```
 
 
@@ -40,11 +40,11 @@ Constructor
 
 ### getAxisValues() {#getAxisValues--}
 ```
-public TtfStatTable.AxisValue[] getAxisValues()
+public AxisValue[] getAxisValues()
 ```
 
 
 Array of AxisValue records that provide the combination of axis values, one for each contributing axis.
 
 **Returns:**
-com.aspose.font.TtfStatTable.AxisValue[] - Array of AxisValue records that provide the combination of axis values, one for each contributing axis.
+com.aspose.font.AxisValue[] - Array of AxisValue records that provide the combination of axis values, one for each contributing axis.

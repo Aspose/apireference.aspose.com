@@ -3,7 +3,7 @@ title: CompositeGlyphComponent
 second_title: Aspose.Font for Java API Reference
 description: Represents composite glyph component glyph with placement matrix.
 type: docs
-weight: 18
+weight: 25
 url: /java/com.aspose.font/compositeglyphcomponent/
 ---
 **Inheritance:**

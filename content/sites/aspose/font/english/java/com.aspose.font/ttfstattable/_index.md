@@ -3,7 +3,7 @@ title: TtfStatTable
 second_title: Aspose.Font for Java API Reference
 description: 
 type: docs
-weight: 94
+weight: 101
 url: /java/com.aspose.font/ttfstattable/
 ---
 **Inheritance:**
@@ -23,9 +23,9 @@ public class TtfStatTable extends TtfTableBase
 | [getAxisRecords()](#getAxisRecords--) | Returns design axes array. |
 | [getAxisValueTables()](#getAxisValueTables--) | Returns array of Axis Value Tables. |
 | [clearAxisRecords()](#clearAxisRecords--) | Removes all axis records from the table. |
-| [addAxisRecord(TtfStatTable.AxisRecord axisRecord)](#addAxisRecord-com.aspose.font.TtfStatTable.AxisRecord-) | Adds an Axis Record structure to the table. |
+| [addAxisRecord(AxisRecord axisRecord)](#addAxisRecord-com.aspose.font.AxisRecord-) | Adds an Axis Record structure to the table. |
 | [clearAxisValueTables()](#clearAxisValueTables--) | Removes all axis value tables from the table. |
-| [addAxisValueTable(TtfStatTable.AxisValueTableBase axisValueTable)](#addAxisValueTable-com.aspose.font.TtfStatTable.AxisValueTableBase-) | Adds an Axis Value Table structure to the table. |
+| [addAxisValueTable(AxisValueTableBase axisValueTable)](#addAxisValueTable-com.aspose.font.AxisValueTableBase-) | Adds an Axis Value Table structure to the table. |
 ### getTag() {#getTag--}
 ```
 public static String getTag()
@@ -78,24 +78,24 @@ Returns the number of axis value tables.
 int - The number of axis value tables.
 ### getAxisRecords() {#getAxisRecords--}
 ```
-public TtfStatTable.AxisRecord[] getAxisRecords()
+public AxisRecord[] getAxisRecords()
 ```
 
 
 Returns design axes array. Axes array is array of structures of type Axis Record. Spec: the axis record provides information about a single design axis.
 
 **Returns:**
-com.aspose.font.TtfStatTable.AxisRecord[] - The design axes array.
+com.aspose.font.AxisRecord[] - The design axes array.
 ### getAxisValueTables() {#getAxisValueTables--}
 ```
-public TtfStatTable.AxisValueTableBase[] getAxisValueTables()
+public AxisValueTableBase[] getAxisValueTables()
 ```
 
 
 Returns array of Axis Value Tables. Spec: Axis Value Tables provide details regarding a specific style-attribute value on some specific axis of design variation, or a combination of design-variation axis values, and the relationship of those values to labels used as elements in subfamily names.
 
 **Returns:**
-com.aspose.font.TtfStatTable.AxisValueTableBase[] - The array of Axis Value Tables.
+com.aspose.font.AxisValueTableBase[] - The array of Axis Value Tables.
 ### clearAxisRecords() {#clearAxisRecords--}
 ```
 public void clearAxisRecords()
@@ -104,9 +104,9 @@ public void clearAxisRecords()
 
 Removes all axis records from the table.
 
-### addAxisRecord(TtfStatTable.AxisRecord axisRecord) {#addAxisRecord-com.aspose.font.TtfStatTable.AxisRecord-}
+### addAxisRecord(AxisRecord axisRecord) {#addAxisRecord-com.aspose.font.AxisRecord-}
 ```
-public void addAxisRecord(TtfStatTable.AxisRecord axisRecord)
+public void addAxisRecord(AxisRecord axisRecord)
 ```
 
 
@@ -125,9 +125,9 @@ public void clearAxisValueTables()
 
 Removes all axis value tables from the table.
 
-### addAxisValueTable(TtfStatTable.AxisValueTableBase axisValueTable) {#addAxisValueTable-com.aspose.font.TtfStatTable.AxisValueTableBase-}
+### addAxisValueTable(AxisValueTableBase axisValueTable) {#addAxisValueTable-com.aspose.font.AxisValueTableBase-}
 ```
-public void addAxisValueTable(TtfStatTable.AxisValueTableBase axisValueTable)
+public void addAxisValueTable(AxisValueTableBase axisValueTable)
 ```
 
 

@@ -3,7 +3,7 @@ title: MacPlatformSpecificId
 second_title: Aspose.Font for Java API Reference
 description: Represents Macintosh platform PlatformSpecificId enumeration.
 type: docs
-weight: 123
+weight: 130
 url: /java/com.aspose.font/macplatformspecificid/
 ---
 **Inheritance:**

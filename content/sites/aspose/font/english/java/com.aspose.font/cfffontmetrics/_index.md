@@ -3,7 +3,7 @@ title: CffFontMetrics
 second_title: Aspose.Font for Java API Reference
 description: CFF font metrics implementation
 type: docs
-weight: 14
+weight: 21
 url: /java/com.aspose.font/cfffontmetrics/
 ---
 **Inheritance:**

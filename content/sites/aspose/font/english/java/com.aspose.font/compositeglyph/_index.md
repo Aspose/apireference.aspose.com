@@ -3,7 +3,7 @@ title: CompositeGlyph
 second_title: Aspose.Font for Java API Reference
 description: Represents a font composite glyph.
 type: docs
-weight: 17
+weight: 24
 url: /java/com.aspose.font/compositeglyph/
 ---
 **Inheritance:**

@@ -1,15 +1,15 @@
 ---
-title: TtfStatTable.AxisValueTableBase
+title: AxisValueTableBase
 second_title: Aspose.Font for Java API Reference
 description: Base class for Axis Value Table structure.
 type: docs
 weight: 12
-url: /java/com.aspose.font/ttfstattable.axisvaluetablebase/
+url: /java/com.aspose.font/axisvaluetablebase/
 ---
 **Inheritance:**
 java.lang.Object
 ```
-public abstract static class TtfStatTable.AxisValueTableBase
+public abstract class AxisValueTableBase
 ```
 
 Base class for Axis Value Table structure. Spec: Axis Value Tables provide details regarding a specific style-attribute value on some specific axis of design variation, or a combination of design-variation axis values, and the relationship of those values to labels used as elements in subfamily names.

@@ -3,7 +3,7 @@ title: LicenseRestrictionException
 second_title: Aspose.Font for Java API Reference
 description: Represents exception which can be thrown on attempt to execute functionality which is restricted in evaluation mode.
 type: docs
-weight: 48
+weight: 55
 url: /java/com.aspose.font/licenserestrictionexception/
 ---
 **Inheritance:**

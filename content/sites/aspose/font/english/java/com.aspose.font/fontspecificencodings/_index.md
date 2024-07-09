@@ -3,7 +3,7 @@ title: FontSpecificEncodings
 second_title: Aspose.Font for Java API Reference
 description: Represents specific encodings for consumer-aware Fonts.
 type: docs
-weight: 35
+weight: 42
 url: /java/com.aspose.font/fontspecificencodings/
 ---
 **Inheritance:**

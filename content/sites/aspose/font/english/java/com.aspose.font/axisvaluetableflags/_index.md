@@ -3,7 +3,7 @@ title: TtfStatTable.AxisValueTableFlags
 second_title: Aspose.Font for Java API Reference
 description: Specifies axis value table flags
 type: docs
-weight: 17
+weight: 10
 url: /java/com.aspose.font/ttfstattable.axisvaluetableflags/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: ByteContentStreamSource
 second_title: Aspose.Font for Java API Reference
 description: Represents a stream source based on content stream.
 type: docs
-weight: 10
+weight: 17
 url: /java/com.aspose.font/bytecontentstreamsource/
 ---
 **Inheritance:**

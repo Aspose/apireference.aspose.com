@@ -14,6 +14,13 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 
 | Class | Description |
 | --- | --- |
+| [AxisRecord](../com.aspose.font/axisrecord) | Represents Axis Record structure. |
+| [AxisValue](../com.aspose.font/axisvalue) | Represents AxisValue record. |
+| [AxisValueTableBase](../com.aspose.font/axisvaluetablebase) | Base class for Axis Value Table structure. |
+| [AxisValueTableFormat1](../com.aspose.font/axisvaluetableformat1) | Represents Axis value table format 1 |
+| [AxisValueTableFormat2](../com.aspose.font/axisvaluetableformat2) | Represents Axis value table format 2 |
+| [AxisValueTableFormat3](../com.aspose.font/axisvaluetableformat3) | Represents Axis value table format 3 |
+| [AxisValueTableFormat4](../com.aspose.font/axisvaluetableformat4) | Represents Axis value table format 4 |
 | [ByteContentStreamSource](../com.aspose.font/bytecontentstreamsource) | Represents a stream source based on content stream. |
 | [CffEncoding](../com.aspose.font/cffencoding) | Represents CFF font encoding. |
 | [CffFont](../com.aspose.font/cfffont) | Represents Compact Font Format (CFF). |
@@ -103,13 +110,6 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [TtfPostTable](../com.aspose.font/ttfposttable) | Represents "post" table of the TTF font file |
 | [TtfPrepTable](../com.aspose.font/ttfpreptable) | Represents "prep" table of the TTF Font file. |
 | [TtfStatTable](../com.aspose.font/ttfstattable) |  |
-| [TtfStatTable.AxisRecord](../com.aspose.font/ttfstattable.axisrecord) | Represents Axis Record structure. |
-| [TtfStatTable.AxisValue](../com.aspose.font/ttfstattable.axisvalue) | Represents AxisValue record. |
-| [TtfStatTable.AxisValueTableBase](../com.aspose.font/ttfstattable.axisvaluetablebase) | Base class for Axis Value Table structure. |
-| [TtfStatTable.AxisValueTableFormat1](../com.aspose.font/ttfstattable.axisvaluetableformat1) | Represents Axis value table format 1 |
-| [TtfStatTable.AxisValueTableFormat2](../com.aspose.font/ttfstattable.axisvaluetableformat2) | Represents Axis value table format 2 |
-| [TtfStatTable.AxisValueTableFormat3](../com.aspose.font/ttfstattable.axisvaluetableformat3) | Represents Axis value table format 3 |
-| [TtfStatTable.AxisValueTableFormat4](../com.aspose.font/ttfstattable.axisvaluetableformat4) | Represents Axis value table format 4 |
 | [TtfTableBase](../com.aspose.font/ttftablebase) | Represents TTF table definition. |
 | [TtfTableRepository](../com.aspose.font/ttftablerepository) | repository of TTF tables |
 | [TtfVheaTable](../com.aspose.font/ttfvheatable) | Represents "hhea" table of the TTF Font file. |

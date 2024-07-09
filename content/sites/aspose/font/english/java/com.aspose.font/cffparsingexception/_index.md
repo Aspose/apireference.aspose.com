@@ -3,7 +3,7 @@ title: CffParsingException
 second_title: Aspose.Font for Java API Reference
 description: Represents parse exception for fonts of cff format.
 type: docs
-weight: 15
+weight: 22
 url: /java/com.aspose.font/cffparsingexception/
 ---
 **Inheritance:**

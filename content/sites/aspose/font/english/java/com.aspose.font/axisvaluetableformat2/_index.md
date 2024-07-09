@@ -1,15 +1,15 @@
 ---
-title: TtfStatTable.AxisValueTableFormat2
+title: AxisValueTableFormat2
 second_title: Aspose.Font for Java API Reference
 description: Represents Axis value table format 2
 type: docs
 weight: 14
-url: /java/com.aspose.font/ttfstattable.axisvaluetableformat2/
+url: /java/com.aspose.font/axisvaluetableformat2/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.font.TtfStatTable.AxisValueTableBase](../../com.aspose.font/axisvaluetablebase)
+java.lang.Object, [com.aspose.font.AxisValueTableBase](../../com.aspose.font/axisvaluetablebase)
 ```
-public static class TtfStatTable.AxisValueTableFormat2 extends TtfStatTable.AxisValueTableBase
+public class AxisValueTableFormat2 extends AxisValueTableBase
 ```
 
 Represents Axis value table format 2

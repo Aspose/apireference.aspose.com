@@ -3,7 +3,7 @@ title: MacLanguageId
 second_title: Aspose.Font for Java API Reference
 description: Macintosh platform language id enumeration.
 type: docs
-weight: 51
+weight: 58
 url: /java/com.aspose.font/maclanguageid/
 ---
 **Inheritance:**
