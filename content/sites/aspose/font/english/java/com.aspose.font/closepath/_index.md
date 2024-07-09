@@ -3,7 +3,7 @@ title: ClosePath
 second_title: Aspose.Font for Java API Reference
 description: Represents ClosePath operation.
 type: docs
-weight: 16
+weight: 23
 url: /java/com.aspose.font/closepath/
 ---
 **Inheritance:**

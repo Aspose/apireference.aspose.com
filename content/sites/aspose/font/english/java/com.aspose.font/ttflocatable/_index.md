@@ -3,7 +3,7 @@ title: TtfLocaTable
 second_title: Aspose.Font for Java API Reference
 description: Represents loca table of the TTF Font file.
 type: docs
-weight: 87
+weight: 94
 url: /java/com.aspose.font/ttflocatable/
 ---
 **Inheritance:**

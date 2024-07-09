@@ -3,7 +3,7 @@ title: Type1Font
 second_title: Aspose.Font for Java API Reference
 description: Represents Type1 Font.
 type: docs
-weight: 99
+weight: 107
 url: /java/com.aspose.font/type1font/
 ---
 **Inheritance:**
@@ -138,14 +138,14 @@ The Style setter is not implemented yet. This is a raw string value provided by 
 
 ### getFontStyle() {#getFontStyle--}
 ```
-public int getFontStyle()
+public EnumSet<FontStyle> getFontStyle()
 ```
 
 
 Gets Font style. This is a value computed and represented in generalized type.
 
 **Returns:**
-int - Font style. Usually, a combination of FontStyle class constant flag values or 0.
+java.util.EnumSet<com.aspose.font.FontStyle> - Font style. Usually, a combination of FontStyle class constant flag values or 0.
 ### getNumGlyphs() {#getNumGlyphs--}
 ```
 public int getNumGlyphs()

@@ -3,7 +3,7 @@ title: IFontEncoding
 second_title: Aspose.Font for Java API Reference
 description: Defines an interface for Font encoding.
 type: docs
-weight: 107
+weight: 115
 url: /java/com.aspose.font/ifontencoding/
 ---```
 public interface IFontEncoding

@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.Font for Java API Reference
 description: Represents base Font class.
 type: docs
-weight: 23
+weight: 30
 url: /java/com.aspose.font/font/
 ---
 **Inheritance:**
@@ -250,14 +250,14 @@ Sets Font style. This is a raw string value provided by Font file.
 
 ### getFontStyle() {#getFontStyle--}
 ```
-public abstract int getFontStyle()
+public abstract EnumSet<FontStyle> getFontStyle()
 ```
 
 
 Gets Font style. This is a value computed and represented in generalized type.
 
 **Returns:**
-int - Font style. Usually, a combination of FontStyle class constant flag values or 0.
+java.util.EnumSet<com.aspose.font.FontStyle> - Font style. Usually, a combination of FontStyle class constant flag values or 0.
 ### getFontFamily() {#getFontFamily--}
 ```
 public abstract String getFontFamily()

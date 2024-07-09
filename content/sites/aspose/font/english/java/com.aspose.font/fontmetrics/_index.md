@@ -3,7 +3,7 @@ title: FontMetrics
 second_title: Aspose.Font for Java API Reference
 description: Represents font metrics.
 type: docs
-weight: 33
+weight: 40
 url: /java/com.aspose.font/fontmetrics/
 ---
 **Inheritance:**

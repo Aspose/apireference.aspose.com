@@ -3,7 +3,7 @@ title: CffFont
 second_title: Aspose.Font for Java API Reference
 description: Represents Compact Font Format CFF.
 type: docs
-weight: 12
+weight: 19
 url: /java/com.aspose.font/cfffont/
 ---
 **Inheritance:**
@@ -139,14 +139,14 @@ The Style setter is not implemented yet.
 
 ### getFontStyle() {#getFontStyle--}
 ```
-public int getFontStyle()
+public EnumSet<FontStyle> getFontStyle()
 ```
 
 
 Gets Font style. This is a value computed and represented in generalized type.
 
 **Returns:**
-int - Font style. Usually, a combination of FontStyle class constant flag values or 0.
+java.util.EnumSet<com.aspose.font.FontStyle> - Font style. Usually, a combination of FontStyle class constant flag values or 0.
 ### isCidKeyedFont() {#isCidKeyedFont--}
 ```
 public boolean isCidKeyedFont()

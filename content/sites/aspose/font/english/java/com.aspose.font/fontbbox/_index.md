@@ -3,7 +3,7 @@ title: FontBBox
 second_title: Aspose.Font for Java API Reference
 description: represents font bounding box.
 type: docs
-weight: 25
+weight: 32
 url: /java/com.aspose.font/fontbbox/
 ---
 **Inheritance:**

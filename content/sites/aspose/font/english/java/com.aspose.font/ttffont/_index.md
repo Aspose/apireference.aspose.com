@@ -3,7 +3,7 @@ title: TtfFont
 second_title: Aspose.Font for Java API Reference
 description: Represents TrueType Font TTF.
 type: docs
-weight: 79
+weight: 86
 url: /java/com.aspose.font/ttffont/
 ---
 **Inheritance:**
@@ -123,14 +123,14 @@ Sets Font style. This is a raw string value provided by Font file.
 
 ### getFontStyle() {#getFontStyle--}
 ```
-public int getFontStyle()
+public EnumSet<FontStyle> getFontStyle()
 ```
 
 
 Gets Font style. This is a value computed and represented in generalized type.
 
 **Returns:**
-int - Font style. Usually, a combination of FontStyle class constant flag values or 0.
+java.util.EnumSet<com.aspose.font.FontStyle> - Font style. Usually, a combination of FontStyle class constant flag values or 0.
 ### getFontName() {#getFontName--}
 ```
 public String getFontName()

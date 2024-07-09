@@ -3,7 +3,7 @@ title: FontCreationException
 second_title: Aspose.Font for Java API Reference
 description: Represents Font creation exception.
 type: docs
-weight: 27
+weight: 34
 url: /java/com.aspose.font/fontcreationexception/
 ---
 **Inheritance:**

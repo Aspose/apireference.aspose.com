@@ -3,7 +3,7 @@ title: CurveTo
 second_title: Aspose.Font for Java API Reference
 description: Represents CurveTo operation.
 type: docs
-weight: 20
+weight: 27
 url: /java/com.aspose.font/curveto/
 ---
 **Inheritance:**

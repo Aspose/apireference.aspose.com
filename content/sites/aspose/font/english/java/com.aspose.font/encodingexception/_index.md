@@ -3,7 +3,7 @@ title: EncodingException
 second_title: Aspose.Font for Java API Reference
 description: Represents encoding exception.
 type: docs
-weight: 21
+weight: 28
 url: /java/com.aspose.font/encodingexception/
 ---
 **Inheritance:**

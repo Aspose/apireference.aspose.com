@@ -3,7 +3,7 @@ title: FontConversionException
 second_title: Aspose.Font for Java API Reference
 description: Represents Font conversion exception.
 type: docs
-weight: 26
+weight: 33
 url: /java/com.aspose.font/fontconversionexception/
 ---
 **Inheritance:**

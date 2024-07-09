@@ -3,7 +3,7 @@ title: MacLanguageId
 second_title: Aspose.Font for Java API Reference
 description: Macintosh platform language id enumeration.
 type: docs
-weight: 52
+weight: 58
 url: /java/com.aspose.font/maclanguageid/
 ---
 **Inheritance:**
@@ -135,9 +135,14 @@ Macintosh platform language id enumeration.
 | [Greek_Polytonic](#Greek-Polytonic) | Greek (polytonic) LanguageId value |
 | [Greenlandic](#Greenlandic) | Greenlandic LanguageId value |
 | [Azerbaijani_Roman](#Azerbaijani-Roman) | Azerbaijani (Roman script) LanguageId value |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [getId()](#getId--) | Get the integer value. |
 ### English {#English}
 ```
-public static final int English
+public static final MacLanguageId English
 ```
 
 
@@ -145,7 +150,7 @@ English LanguageId value
 
 ### French {#French}
 ```
-public static final int French
+public static final MacLanguageId French
 ```
 
 
@@ -153,7 +158,7 @@ French LanguageId value
 
 ### German {#German}
 ```
-public static final int German
+public static final MacLanguageId German
 ```
 
 
@@ -161,7 +166,7 @@ German LanguageId value
 
 ### Italian {#Italian}
 ```
-public static final int Italian
+public static final MacLanguageId Italian
 ```
 
 
@@ -169,7 +174,7 @@ Italian LanguageId value
 
 ### Dutch {#Dutch}
 ```
-public static final int Dutch
+public static final MacLanguageId Dutch
 ```
 
 
@@ -177,7 +182,7 @@ Dutch LanguageId value
 
 ### Swedish {#Swedish}
 ```
-public static final int Swedish
+public static final MacLanguageId Swedish
 ```
 
 
@@ -185,7 +190,7 @@ Swedish LanguageId value
 
 ### Spanish {#Spanish}
 ```
-public static final int Spanish
+public static final MacLanguageId Spanish
 ```
 
 
@@ -193,7 +198,7 @@ Spanish LanguageId value
 
 ### Danish {#Danish}
 ```
-public static final int Danish
+public static final MacLanguageId Danish
 ```
 
 
@@ -201,7 +206,7 @@ Danish LanguageId value
 
 ### Portuguese {#Portuguese}
 ```
-public static final int Portuguese
+public static final MacLanguageId Portuguese
 ```
 
 
@@ -209,7 +214,7 @@ Portuguese LanguageId value
 
 ### Norwegian {#Norwegian}
 ```
-public static final int Norwegian
+public static final MacLanguageId Norwegian
 ```
 
 
@@ -217,7 +222,7 @@ Norwegian LanguageId value
 
 ### Hebrew {#Hebrew}
 ```
-public static final int Hebrew
+public static final MacLanguageId Hebrew
 ```
 
 
@@ -225,7 +230,7 @@ Hebrew LanguageId value
 
 ### Japanese {#Japanese}
 ```
-public static final int Japanese
+public static final MacLanguageId Japanese
 ```
 
 
@@ -233,7 +238,7 @@ Japanese LanguageId value
 
 ### Arabic {#Arabic}
 ```
-public static final int Arabic
+public static final MacLanguageId Arabic
 ```
 
 
@@ -241,7 +246,7 @@ Arabic LanguageId value
 
 ### Finnish {#Finnish}
 ```
-public static final int Finnish
+public static final MacLanguageId Finnish
 ```
 
 
@@ -249,7 +254,7 @@ Finnish LanguageId value
 
 ### Greek {#Greek}
 ```
-public static final int Greek
+public static final MacLanguageId Greek
 ```
 
 
@@ -257,7 +262,7 @@ Greek LanguageId value
 
 ### Icelandic {#Icelandic}
 ```
-public static final int Icelandic
+public static final MacLanguageId Icelandic
 ```
 
 
@@ -265,7 +270,7 @@ Icelandic LanguageId value
 
 ### Maltese {#Maltese}
 ```
-public static final int Maltese
+public static final MacLanguageId Maltese
 ```
 
 
@@ -273,7 +278,7 @@ Maltese LanguageId value
 
 ### Turkish {#Turkish}
 ```
-public static final int Turkish
+public static final MacLanguageId Turkish
 ```
 
 
@@ -281,7 +286,7 @@ Turkish LanguageId value
 
 ### Croatian {#Croatian}
 ```
-public static final int Croatian
+public static final MacLanguageId Croatian
 ```
 
 
@@ -289,7 +294,7 @@ Croatian LanguageId value
 
 ### Chinese_Traditional {#Chinese-Traditional}
 ```
-public static final int Chinese_Traditional
+public static final MacLanguageId Chinese_Traditional
 ```
 
 
@@ -297,7 +302,7 @@ Chinese (Traditional) LanguageId value
 
 ### Urdu {#Urdu}
 ```
-public static final int Urdu
+public static final MacLanguageId Urdu
 ```
 
 
@@ -305,7 +310,7 @@ Urdu LanguageId value
 
 ### Hindi {#Hindi}
 ```
-public static final int Hindi
+public static final MacLanguageId Hindi
 ```
 
 
@@ -313,7 +318,7 @@ Hindi LanguageId value
 
 ### Thai {#Thai}
 ```
-public static final int Thai
+public static final MacLanguageId Thai
 ```
 
 
@@ -321,7 +326,7 @@ Thai LanguageId value
 
 ### Korean {#Korean}
 ```
-public static final int Korean
+public static final MacLanguageId Korean
 ```
 
 
@@ -329,7 +334,7 @@ Korean LanguageId value
 
 ### Lithuanian {#Lithuanian}
 ```
-public static final int Lithuanian
+public static final MacLanguageId Lithuanian
 ```
 
 
@@ -337,7 +342,7 @@ Lithuanian LanguageId value
 
 ### Polish {#Polish}
 ```
-public static final int Polish
+public static final MacLanguageId Polish
 ```
 
 
@@ -345,7 +350,7 @@ Polish LanguageId value
 
 ### Hungarian {#Hungarian}
 ```
-public static final int Hungarian
+public static final MacLanguageId Hungarian
 ```
 
 
@@ -353,7 +358,7 @@ Hungarian LanguageId value
 
 ### Estonian {#Estonian}
 ```
-public static final int Estonian
+public static final MacLanguageId Estonian
 ```
 
 
@@ -361,7 +366,7 @@ Estonian LanguageId value
 
 ### Latvian {#Latvian}
 ```
-public static final int Latvian
+public static final MacLanguageId Latvian
 ```
 
 
@@ -369,7 +374,7 @@ Latvian LanguageId value
 
 ### Sami {#Sami}
 ```
-public static final int Sami
+public static final MacLanguageId Sami
 ```
 
 
@@ -377,7 +382,7 @@ Sami LanguageId value
 
 ### Faroese {#Faroese}
 ```
-public static final int Faroese
+public static final MacLanguageId Faroese
 ```
 
 
@@ -385,7 +390,7 @@ Faroese LanguageId value
 
 ### Farsi_Persian {#Farsi-Persian}
 ```
-public static final int Farsi_Persian
+public static final MacLanguageId Farsi_Persian
 ```
 
 
@@ -393,7 +398,7 @@ Farsi/Persian LanguageId value
 
 ### Russian {#Russian}
 ```
-public static final int Russian
+public static final MacLanguageId Russian
 ```
 
 
@@ -401,7 +406,7 @@ Russian LanguageId value
 
 ### Chinese_Simplified {#Chinese-Simplified}
 ```
-public static final int Chinese_Simplified
+public static final MacLanguageId Chinese_Simplified
 ```
 
 
@@ -409,7 +414,7 @@ Chinese (Simplified) LanguageId value
 
 ### Flemish {#Flemish}
 ```
-public static final int Flemish
+public static final MacLanguageId Flemish
 ```
 
 
@@ -417,7 +422,7 @@ Flemish LanguageId value
 
 ### Irish_Gaelic {#Irish-Gaelic}
 ```
-public static final int Irish_Gaelic
+public static final MacLanguageId Irish_Gaelic
 ```
 
 
@@ -425,7 +430,7 @@ Irish Gaelic LanguageId value
 
 ### Albanian {#Albanian}
 ```
-public static final int Albanian
+public static final MacLanguageId Albanian
 ```
 
 
@@ -433,7 +438,7 @@ Albanian LanguageId value
 
 ### Romanian {#Romanian}
 ```
-public static final int Romanian
+public static final MacLanguageId Romanian
 ```
 
 
@@ -441,7 +446,7 @@ Romanian LanguageId value
 
 ### Czech {#Czech}
 ```
-public static final int Czech
+public static final MacLanguageId Czech
 ```
 
 
@@ -449,7 +454,7 @@ Czech LanguageId value
 
 ### Slovak {#Slovak}
 ```
-public static final int Slovak
+public static final MacLanguageId Slovak
 ```
 
 
@@ -457,7 +462,7 @@ Slovak LanguageId value
 
 ### Slovenian {#Slovenian}
 ```
-public static final int Slovenian
+public static final MacLanguageId Slovenian
 ```
 
 
@@ -465,7 +470,7 @@ Slovenian LanguageId value
 
 ### Yiddish {#Yiddish}
 ```
-public static final int Yiddish
+public static final MacLanguageId Yiddish
 ```
 
 
@@ -473,7 +478,7 @@ Yiddish LanguageId value
 
 ### Serbian {#Serbian}
 ```
-public static final int Serbian
+public static final MacLanguageId Serbian
 ```
 
 
@@ -481,7 +486,7 @@ Serbian LanguLanguageIdageID value
 
 ### Macedonian {#Macedonian}
 ```
-public static final int Macedonian
+public static final MacLanguageId Macedonian
 ```
 
 
@@ -489,7 +494,7 @@ Macedonian LanguageId value
 
 ### Bulgarian {#Bulgarian}
 ```
-public static final int Bulgarian
+public static final MacLanguageId Bulgarian
 ```
 
 
@@ -497,7 +502,7 @@ Bulgarian LanguageId value
 
 ### Ukrainian {#Ukrainian}
 ```
-public static final int Ukrainian
+public static final MacLanguageId Ukrainian
 ```
 
 
@@ -505,7 +510,7 @@ Ukrainian LanguageId value
 
 ### Byelorussian {#Byelorussian}
 ```
-public static final int Byelorussian
+public static final MacLanguageId Byelorussian
 ```
 
 
@@ -513,7 +518,7 @@ Byelorussian LanguageId value
 
 ### Uzbek {#Uzbek}
 ```
-public static final int Uzbek
+public static final MacLanguageId Uzbek
 ```
 
 
@@ -521,7 +526,7 @@ Uzbek LanguageId value
 
 ### Kazakh {#Kazakh}
 ```
-public static final int Kazakh
+public static final MacLanguageId Kazakh
 ```
 
 
@@ -529,7 +534,7 @@ Kazakh LanguageId value
 
 ### Azerbaijani_Cyrillic {#Azerbaijani-Cyrillic}
 ```
-public static final int Azerbaijani_Cyrillic
+public static final MacLanguageId Azerbaijani_Cyrillic
 ```
 
 
@@ -537,7 +542,7 @@ Azerbaijani (Cyrillic script) LanguageId value
 
 ### Azerbaijani_Arabic {#Azerbaijani-Arabic}
 ```
-public static final int Azerbaijani_Arabic
+public static final MacLanguageId Azerbaijani_Arabic
 ```
 
 
@@ -545,7 +550,7 @@ Azerbaijani (Arabic script) LanguageId value
 
 ### Armenian {#Armenian}
 ```
-public static final int Armenian
+public static final MacLanguageId Armenian
 ```
 
 
@@ -553,7 +558,7 @@ Armenian LanguageId value
 
 ### Georgian {#Georgian}
 ```
-public static final int Georgian
+public static final MacLanguageId Georgian
 ```
 
 
@@ -561,7 +566,7 @@ Georgian LanguageId value
 
 ### Moldavian {#Moldavian}
 ```
-public static final int Moldavian
+public static final MacLanguageId Moldavian
 ```
 
 
@@ -569,7 +574,7 @@ Moldavian LanguageId value
 
 ### Kirghiz {#Kirghiz}
 ```
-public static final int Kirghiz
+public static final MacLanguageId Kirghiz
 ```
 
 
@@ -577,7 +582,7 @@ Kirghiz LanguageId value
 
 ### Tajiki {#Tajiki}
 ```
-public static final int Tajiki
+public static final MacLanguageId Tajiki
 ```
 
 
@@ -585,7 +590,7 @@ Tajiki LanguageId value
 
 ### Turkmen {#Turkmen}
 ```
-public static final int Turkmen
+public static final MacLanguageId Turkmen
 ```
 
 
@@ -593,7 +598,7 @@ Turkmen LanguageId value
 
 ### Mongolian_Mongolian {#Mongolian-Mongolian}
 ```
-public static final int Mongolian_Mongolian
+public static final MacLanguageId Mongolian_Mongolian
 ```
 
 
@@ -601,7 +606,7 @@ Mongolian (Mongolian script) LanguageId value
 
 ### Mongolian_Cyrillic {#Mongolian-Cyrillic}
 ```
-public static final int Mongolian_Cyrillic
+public static final MacLanguageId Mongolian_Cyrillic
 ```
 
 
@@ -609,7 +614,7 @@ Mongolian (Cyrillic script) LanguageId value
 
 ### Pashto {#Pashto}
 ```
-public static final int Pashto
+public static final MacLanguageId Pashto
 ```
 
 
@@ -617,7 +622,7 @@ Pashto LanguageId value
 
 ### Kurdish {#Kurdish}
 ```
-public static final int Kurdish
+public static final MacLanguageId Kurdish
 ```
 
 
@@ -625,7 +630,7 @@ Kurdish LanguageId value
 
 ### Kashmiri {#Kashmiri}
 ```
-public static final int Kashmiri
+public static final MacLanguageId Kashmiri
 ```
 
 
@@ -633,7 +638,7 @@ Kashmiri LanguageId value
 
 ### Sindhi {#Sindhi}
 ```
-public static final int Sindhi
+public static final MacLanguageId Sindhi
 ```
 
 
@@ -641,7 +646,7 @@ Sindhi LanguageId value
 
 ### Tibetan {#Tibetan}
 ```
-public static final int Tibetan
+public static final MacLanguageId Tibetan
 ```
 
 
@@ -649,7 +654,7 @@ Tibetan LanguageId value
 
 ### Nepali {#Nepali}
 ```
-public static final int Nepali
+public static final MacLanguageId Nepali
 ```
 
 
@@ -657,7 +662,7 @@ Nepali LanguageId value
 
 ### Sanskrit {#Sanskrit}
 ```
-public static final int Sanskrit
+public static final MacLanguageId Sanskrit
 ```
 
 
@@ -665,7 +670,7 @@ Sanskrit LanguageId value
 
 ### Marathi {#Marathi}
 ```
-public static final int Marathi
+public static final MacLanguageId Marathi
 ```
 
 
@@ -673,7 +678,7 @@ Marathi LanguageId value
 
 ### Bengali {#Bengali}
 ```
-public static final int Bengali
+public static final MacLanguageId Bengali
 ```
 
 
@@ -681,7 +686,7 @@ Bengali LanguageId value
 
 ### Assamese {#Assamese}
 ```
-public static final int Assamese
+public static final MacLanguageId Assamese
 ```
 
 
@@ -689,7 +694,7 @@ Assamese LanguageId value
 
 ### Gujarati {#Gujarati}
 ```
-public static final int Gujarati
+public static final MacLanguageId Gujarati
 ```
 
 
@@ -697,7 +702,7 @@ Gujarati LanguageId value
 
 ### Punjabi {#Punjabi}
 ```
-public static final int Punjabi
+public static final MacLanguageId Punjabi
 ```
 
 
@@ -705,7 +710,7 @@ Punjabi LanguageId value
 
 ### Oriya {#Oriya}
 ```
-public static final int Oriya
+public static final MacLanguageId Oriya
 ```
 
 
@@ -713,7 +718,7 @@ Oriya LanguageId value
 
 ### Malayalam {#Malayalam}
 ```
-public static final int Malayalam
+public static final MacLanguageId Malayalam
 ```
 
 
@@ -721,7 +726,7 @@ Malayalam LanguageId value
 
 ### Kannada {#Kannada}
 ```
-public static final int Kannada
+public static final MacLanguageId Kannada
 ```
 
 
@@ -729,7 +734,7 @@ Kannada LanguageId value
 
 ### Tamil {#Tamil}
 ```
-public static final int Tamil
+public static final MacLanguageId Tamil
 ```
 
 
@@ -737,7 +742,7 @@ Tamil LanguagLanguageIdeID value
 
 ### Telugu {#Telugu}
 ```
-public static final int Telugu
+public static final MacLanguageId Telugu
 ```
 
 
@@ -745,7 +750,7 @@ Telugu LanguageId value
 
 ### Sinhalese {#Sinhalese}
 ```
-public static final int Sinhalese
+public static final MacLanguageId Sinhalese
 ```
 
 
@@ -753,7 +758,7 @@ Sinhalese LanguageId value
 
 ### Burmese {#Burmese}
 ```
-public static final int Burmese
+public static final MacLanguageId Burmese
 ```
 
 
@@ -761,7 +766,7 @@ Burmese LanguageId value
 
 ### Khmer {#Khmer}
 ```
-public static final int Khmer
+public static final MacLanguageId Khmer
 ```
 
 
@@ -769,7 +774,7 @@ Khmer LanguageId value
 
 ### Lao {#Lao}
 ```
-public static final int Lao
+public static final MacLanguageId Lao
 ```
 
 
@@ -777,7 +782,7 @@ Lao LanguageId value
 
 ### Vietnamese {#Vietnamese}
 ```
-public static final int Vietnamese
+public static final MacLanguageId Vietnamese
 ```
 
 
@@ -785,7 +790,7 @@ Vietnamese LanguageId value
 
 ### Indonesian {#Indonesian}
 ```
-public static final int Indonesian
+public static final MacLanguageId Indonesian
 ```
 
 
@@ -793,7 +798,7 @@ Indonesian LanguageId value
 
 ### Tagalog {#Tagalog}
 ```
-public static final int Tagalog
+public static final MacLanguageId Tagalog
 ```
 
 
@@ -801,7 +806,7 @@ Tagalog LanguageId value
 
 ### Malay_Roman {#Malay-Roman}
 ```
-public static final int Malay_Roman
+public static final MacLanguageId Malay_Roman
 ```
 
 
@@ -809,7 +814,7 @@ Malay (Roman script) LanguageId value
 
 ### Malay_Arabic {#Malay-Arabic}
 ```
-public static final int Malay_Arabic
+public static final MacLanguageId Malay_Arabic
 ```
 
 
@@ -817,7 +822,7 @@ Malay (Arabic script) LanguageId value
 
 ### Amharic {#Amharic}
 ```
-public static final int Amharic
+public static final MacLanguageId Amharic
 ```
 
 
@@ -825,7 +830,7 @@ Amharic LanguageId value
 
 ### Tigrinya {#Tigrinya}
 ```
-public static final int Tigrinya
+public static final MacLanguageId Tigrinya
 ```
 
 
@@ -833,7 +838,7 @@ Tigrinya LanguageId value
 
 ### Galla {#Galla}
 ```
-public static final int Galla
+public static final MacLanguageId Galla
 ```
 
 
@@ -841,7 +846,7 @@ Galla LanguageId value
 
 ### Somali {#Somali}
 ```
-public static final int Somali
+public static final MacLanguageId Somali
 ```
 
 
@@ -849,7 +854,7 @@ Somali LanguageId value
 
 ### Swahili {#Swahili}
 ```
-public static final int Swahili
+public static final MacLanguageId Swahili
 ```
 
 
@@ -857,7 +862,7 @@ Swahili LanguageId value
 
 ### Kinyarwanda_Ruanda {#Kinyarwanda-Ruanda}
 ```
-public static final int Kinyarwanda_Ruanda
+public static final MacLanguageId Kinyarwanda_Ruanda
 ```
 
 
@@ -865,7 +870,7 @@ Kinyarwanda/Ruanda LanguageId value
 
 ### Rundi {#Rundi}
 ```
-public static final int Rundi
+public static final MacLanguageId Rundi
 ```
 
 
@@ -873,7 +878,7 @@ Rundi LanguageId value
 
 ### Nyanja_Chewa {#Nyanja-Chewa}
 ```
-public static final int Nyanja_Chewa
+public static final MacLanguageId Nyanja_Chewa
 ```
 
 
@@ -881,7 +886,7 @@ Nyanja/Chewa LanguageId value
 
 ### Malagasy {#Malagasy}
 ```
-public static final int Malagasy
+public static final MacLanguageId Malagasy
 ```
 
 
@@ -889,7 +894,7 @@ Malagasy LanguageId value
 
 ### Esperanto {#Esperanto}
 ```
-public static final int Esperanto
+public static final MacLanguageId Esperanto
 ```
 
 
@@ -897,7 +902,7 @@ Esperanto LanguageId value
 
 ### Welsh {#Welsh}
 ```
-public static final int Welsh
+public static final MacLanguageId Welsh
 ```
 
 
@@ -905,7 +910,7 @@ Welsh LanguageId value
 
 ### Basque {#Basque}
 ```
-public static final int Basque
+public static final MacLanguageId Basque
 ```
 
 
@@ -913,7 +918,7 @@ Basque LanguageId value
 
 ### Catalan {#Catalan}
 ```
-public static final int Catalan
+public static final MacLanguageId Catalan
 ```
 
 
@@ -921,7 +926,7 @@ Catalan LanguageId value
 
 ### Latin {#Latin}
 ```
-public static final int Latin
+public static final MacLanguageId Latin
 ```
 
 
@@ -929,7 +934,7 @@ Latin LanguageId value
 
 ### Quechua {#Quechua}
 ```
-public static final int Quechua
+public static final MacLanguageId Quechua
 ```
 
 
@@ -937,7 +942,7 @@ Quechua LanguageId value
 
 ### Guarani {#Guarani}
 ```
-public static final int Guarani
+public static final MacLanguageId Guarani
 ```
 
 
@@ -945,7 +950,7 @@ Guarani LanguageId value
 
 ### Aymara {#Aymara}
 ```
-public static final int Aymara
+public static final MacLanguageId Aymara
 ```
 
 
@@ -953,7 +958,7 @@ Aymara LanguageId value
 
 ### Tatar {#Tatar}
 ```
-public static final int Tatar
+public static final MacLanguageId Tatar
 ```
 
 
@@ -961,7 +966,7 @@ Tatar LanguageId value
 
 ### Uighur {#Uighur}
 ```
-public static final int Uighur
+public static final MacLanguageId Uighur
 ```
 
 
@@ -969,7 +974,7 @@ Uighur LanguageId value
 
 ### Dzongkha {#Dzongkha}
 ```
-public static final int Dzongkha
+public static final MacLanguageId Dzongkha
 ```
 
 
@@ -977,7 +982,7 @@ Dzongkha LanguageId value
 
 ### Javanese {#Javanese}
 ```
-public static final int Javanese
+public static final MacLanguageId Javanese
 ```
 
 
@@ -985,7 +990,7 @@ Javanese (Roman script) LanguageId value
 
 ### Sundanese {#Sundanese}
 ```
-public static final int Sundanese
+public static final MacLanguageId Sundanese
 ```
 
 
@@ -993,7 +998,7 @@ Sundanese (Roman script) LanguageId value
 
 ### Galician {#Galician}
 ```
-public static final int Galician
+public static final MacLanguageId Galician
 ```
 
 
@@ -1001,7 +1006,7 @@ Galician LanguageId value
 
 ### Afrikaans {#Afrikaans}
 ```
-public static final int Afrikaans
+public static final MacLanguageId Afrikaans
 ```
 
 
@@ -1009,7 +1014,7 @@ Afrikaans LanguageId value
 
 ### Breton {#Breton}
 ```
-public static final int Breton
+public static final MacLanguageId Breton
 ```
 
 
@@ -1017,7 +1022,7 @@ Breton LanguageId value
 
 ### Inuktitut {#Inuktitut}
 ```
-public static final int Inuktitut
+public static final MacLanguageId Inuktitut
 ```
 
 
@@ -1025,7 +1030,7 @@ Inuktitut LanguageId value
 
 ### Scottish_Gaelic {#Scottish-Gaelic}
 ```
-public static final int Scottish_Gaelic
+public static final MacLanguageId Scottish_Gaelic
 ```
 
 
@@ -1033,7 +1038,7 @@ Scottish Gaelic LanguageId value
 
 ### Manx_Gaelic {#Manx-Gaelic}
 ```
-public static final int Manx_Gaelic
+public static final MacLanguageId Manx_Gaelic
 ```
 
 
@@ -1041,7 +1046,7 @@ Manx Gaelic LanguageId value
 
 ### Irish_Gaelic_WDA {#Irish-Gaelic-WDA}
 ```
-public static final int Irish_Gaelic_WDA
+public static final MacLanguageId Irish_Gaelic_WDA
 ```
 
 
@@ -1049,7 +1054,7 @@ Irish Gaelic (with dot above) LanguageId value
 
 ### Tongan {#Tongan}
 ```
-public static final int Tongan
+public static final MacLanguageId Tongan
 ```
 
 
@@ -1057,7 +1062,7 @@ Tongan LanguageId value
 
 ### Greek_Polytonic {#Greek-Polytonic}
 ```
-public static final int Greek_Polytonic
+public static final MacLanguageId Greek_Polytonic
 ```
 
 
@@ -1065,7 +1070,7 @@ Greek (polytonic) LanguageId value
 
 ### Greenlandic {#Greenlandic}
 ```
-public static final int Greenlandic
+public static final MacLanguageId Greenlandic
 ```
 
 
@@ -1073,9 +1078,19 @@ Greenlandic LanguageId value
 
 ### Azerbaijani_Roman {#Azerbaijani-Roman}
 ```
-public static final int Azerbaijani_Roman
+public static final MacLanguageId Azerbaijani_Roman
 ```
 
 
 Azerbaijani (Roman script) LanguageId value
 
+### getId() {#getId--}
+```
+public int getId()
+```
+
+
+Get the integer value.
+
+**Returns:**
+int - The integer value.

@@ -3,7 +3,7 @@ title: CffEncoding
 second_title: Aspose.Font for Java API Reference
 description: Represents CFF font encoding.
 type: docs
-weight: 11
+weight: 18
 url: /java/com.aspose.font/cffencoding/
 ---
 **Inheritance:**

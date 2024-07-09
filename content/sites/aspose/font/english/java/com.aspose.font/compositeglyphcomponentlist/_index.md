@@ -3,7 +3,7 @@ title: CompositeGlyphComponentList
 second_title: Aspose.Font for Java API Reference
 description: Represents composite glyph components list.
 type: docs
-weight: 19
+weight: 26
 url: /java/com.aspose.font/compositeglyphcomponentlist/
 ---
 **Inheritance:**

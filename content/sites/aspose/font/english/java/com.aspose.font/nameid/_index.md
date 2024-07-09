@@ -3,13 +3,13 @@ title: NameId
 second_title: Aspose.Font for Java API Reference
 description: Represents NameId enumeration.
 type: docs
-weight: 122
+weight: 62
 url: /java/com.aspose.font/nameid/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Enum
+java.lang.Object
 ```
-public enum NameId extends Enum<NameId>
+public final class NameId
 ```
 
 Represents NameId enumeration.
@@ -28,8 +28,8 @@ Represents NameId enumeration.
 | [ManufacturerName](#ManufacturerName) | 8 Manufacturer name. |
 | [DesignerName](#DesignerName) | 9 Designer; name of the designer of the typeface. |
 | [Description](#Description) | 10 Description; description of the typeface. |
-| [URLVendor](#URLVendor) | 11 URL of the Font vendor (with procotol, e.g., http://, ftp://). |
-| [URLDesigner](#URLDesigner) | 12 URL of the Font designer (with protocol, e.g., http://, ftp://) |
+| [UrlVendor](#UrlVendor) | 11 URL of the Font vendor (with procotol, e.g., http://, ftp://). |
+| [UrlDesigner](#UrlDesigner) | 12 URL of the Font designer (with protocol, e.g., http://, ftp://) |
 | [LicenseDescription](#LicenseDescription) | 13 License description; description of how the Font may be legally used, or different example scenarios for licensed use. |
 | [LicenseInfoUrl](#LicenseInfoUrl) | 14 License information URL, where additional licensing information can be found. |
 | [PreferredFamily](#PreferredFamily) | 15 Reserved 16 Preferred Family (Windows only); In Windows, the Family name is displayed in the Font menu; the Subfamily name is presented as the Style name. |
@@ -46,8 +46,9 @@ Represents NameId enumeration.
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
+| [getId()](#getId--) | Get the integer value. |
+| [fromId(int id)](#fromId-int-) | Creates a name id out of an integer value. |
+| [toString()](#toString--) |  |
 ### CopyrightNotice {#CopyrightNotice}
 ```
 public static final NameId CopyrightNotice
@@ -136,17 +137,17 @@ public static final NameId Description
 
 10 Description; description of the typeface. Can contain revision information, usage recommendations, history, features, and so on.
 
-### URLVendor {#URLVendor}
+### UrlVendor {#UrlVendor}
 ```
-public static final NameId URLVendor
+public static final NameId UrlVendor
 ```
 
 
 11 URL of the Font vendor (with procotol, e.g., http://, ftp://). If a unique serial number is embedded in the URL, it can be used to register the Font.
 
-### URLDesigner {#URLDesigner}
+### UrlDesigner {#UrlDesigner}
 ```
-public static final NameId URLDesigner
+public static final NameId UrlDesigner
 ```
 
 
@@ -248,28 +249,38 @@ public static final NameId VariationsPostScriptNamePrefix
 
 If present in a variable font, it may be used as the family prefix in the PostScript Name Generation for Variation Fonts algorithm
 
-### values() {#values--}
+### getId() {#getId--}
 ```
-public static NameId[] values()
+public int getId()
 ```
 
 
-
+Get the integer value.
 
 **Returns:**
-com.aspose.font.NameId[]
-### valueOf(String name) {#valueOf-java.lang.String-}
+int - The integer value.
+### fromId(int id) {#fromId-int-}
 ```
-public static NameId valueOf(String name)
+public static NameId fromId(int id)
 ```
 
 
-
+Creates a name id out of an integer value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | java.lang.String |  |
+| id | int | An integer value. |
 
 **Returns:**
-[NameId](../../com.aspose.font/nameid)
+[NameId](../../com.aspose.font/nameid) - The name id.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
