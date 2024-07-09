@@ -40,7 +40,6 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [FontMetrics](../com.aspose.font/fontmetrics) | Represents font metrics. |
 | [FontNotSupportedOperationException](../com.aspose.font/fontnotsupportedoperationexception) | Represents not supported operation exception. |
 | [FontSpecificEncodings](../com.aspose.font/fontspecificencodings) | Represents specific encodings for consumer-aware Fonts. |
-| [FontStyle](../com.aspose.font/fontstyle) | Font style anumeration |
 | [GaspRange](../com.aspose.font/gasprange) | The array of GaspRange records provides recommended behaviors for various ppem sizes |
 | [Glyph](../com.aspose.font/glyph) | Represents a Font glyph. |
 | [GlyphId](../com.aspose.font/glyphid) | Represents glyph ids, available in the Font. |
@@ -60,6 +59,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [Metered](../com.aspose.font/metered) | Provides methods to set metered key. |
 | [MoveTo](../com.aspose.font/moveto) | Represents MoveTo operation. |
 | [MultiLanguageString](../com.aspose.font/multilanguagestring) | Represents multi language string. |
+| [NameId](../com.aspose.font/nameid) | Represents NameId enumeration. |
 | [NameRecord](../com.aspose.font/namerecord) | Represents NameRecord structure of the 'name' table |
 | [NameToCodeMap](../com.aspose.font/nametocodemap) | Represents name to code map. |
 | [PathSegmentCollection](../com.aspose.font/pathsegmentcollection) | Represents a path segments collection. |
@@ -102,6 +102,14 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [TtfOs2Table](../com.aspose.font/ttfos2table) | Represents "OS/2" table of the TTF Font file. |
 | [TtfPostTable](../com.aspose.font/ttfposttable) | Represents "post" table of the TTF font file |
 | [TtfPrepTable](../com.aspose.font/ttfpreptable) | Represents "prep" table of the TTF Font file. |
+| [TtfStatTable](../com.aspose.font/ttfstattable) |  |
+| [TtfStatTable.AxisRecord](../com.aspose.font/ttfstattable.axisrecord) | Represents Axis Record structure. |
+| [TtfStatTable.AxisValue](../com.aspose.font/ttfstattable.axisvalue) | Represents AxisValue record. |
+| [TtfStatTable.AxisValueTableBase](../com.aspose.font/ttfstattable.axisvaluetablebase) | Base class for Axis Value Table structure. |
+| [TtfStatTable.AxisValueTableFormat1](../com.aspose.font/ttfstattable.axisvaluetableformat1) | Represents Axis value table format 1 |
+| [TtfStatTable.AxisValueTableFormat2](../com.aspose.font/ttfstattable.axisvaluetableformat2) | Represents Axis value table format 2 |
+| [TtfStatTable.AxisValueTableFormat3](../com.aspose.font/ttfstattable.axisvaluetableformat3) | Represents Axis value table format 3 |
+| [TtfStatTable.AxisValueTableFormat4](../com.aspose.font/ttfstattable.axisvaluetableformat4) | Represents Axis value table format 4 |
 | [TtfTableBase](../com.aspose.font/ttftablebase) | Represents TTF table definition. |
 | [TtfTableRepository](../com.aspose.font/ttftablerepository) | repository of TTF tables |
 | [TtfVheaTable](../com.aspose.font/ttfvheatable) | Represents "hhea" table of the TTF Font file. |
@@ -136,12 +144,12 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | Enum | Description |
 | --- | --- |
 | [FontSavingFormats](../com.aspose.font/fontsavingformats) | Specifies Font type. |
+| [FontStyle](../com.aspose.font/fontstyle) | Font style enumeration |
 | [FontType](../com.aspose.font/fonttype) | Specifies Font type. |
 | [GlyphIdType](../com.aspose.font/glyphidtype) | Specifies types of glyph id. |
 | [GlyphState](../com.aspose.font/glyphstate) | Specifies the glyph state. |
 | [MSPlatformSpecificId](../com.aspose.font/msplatformspecificid) | Represents Microsoft platform PlatformSpecificId enumeration. |
 | [MacPlatformSpecificId](../com.aspose.font/macplatformspecificid) | Represents Macintosh platform PlatformSpecificId enumeration. |
-| [NameId](../com.aspose.font/nameid) | Represents NameId enumeration. |
 | [PlatformId](../com.aspose.font/platformid) | Represents PlatformId enumeration. |
 | [RangeGaspBehaviorFlags](../com.aspose.font/rangegaspbehaviorflags) | Flags describing desired rasterizer behavior. |
 | [UnicodePlatformSpecificId](../com.aspose.font/unicodeplatformspecificid) | Represents unicode platform-specific enumeration. |
