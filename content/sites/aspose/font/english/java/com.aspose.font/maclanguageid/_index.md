@@ -139,7 +139,7 @@ Macintosh platform language id enumeration.
 
 | Method | Description |
 | --- | --- |
-| [getId()](#getId--) |  |
+| [getId()](#getId--) | Get the integer value. |
 ### English {#English}
 ```
 public static final MacLanguageId English
@@ -1090,7 +1090,7 @@ public int getId()
 ```
 
 
-
+Get the integer value.
 
 **Returns:**
-int
+int - The integer value.

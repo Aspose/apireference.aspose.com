@@ -226,7 +226,7 @@ Microsoft platform language id enumeration.
 
 | Method | Description |
 | --- | --- |
-| [getId()](#getId--) |  |
+| [getId()](#getId--) | Get the integer value. |
 ### Afrikaans {#Afrikaans}
 ```
 public static final MSLanguageId Afrikaans
@@ -1873,7 +1873,7 @@ public int getId()
 ```
 
 
-
+Get the integer value.
 
 **Returns:**
-int
+int - The integer value.

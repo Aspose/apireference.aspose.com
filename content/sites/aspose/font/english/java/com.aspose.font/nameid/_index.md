@@ -46,8 +46,8 @@ Represents NameId enumeration.
 
 | Method | Description |
 | --- | --- |
-| [getId()](#getId--) |  |
-| [fromId(int id)](#fromId-int-) |  |
+| [getId()](#getId--) | Get the integer value. |
+| [fromId(int id)](#fromId-int-) | Creates a name id out of an integer value. |
 | [toString()](#toString--) |  |
 ### CopyrightNotice {#CopyrightNotice}
 ```
@@ -255,25 +255,25 @@ public int getId()
 ```
 
 
-
+Get the integer value.
 
 **Returns:**
-int
+int - The integer value.
 ### fromId(int id) {#fromId-int-}
 ```
 public static NameId fromId(int id)
 ```
 
 
-
+Creates a name id out of an integer value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | int |  |
+| id | int | An integer value. |
 
 **Returns:**
-[NameId](../../com.aspose.font/nameid)
+[NameId](../../com.aspose.font/nameid) - The name id.
 ### toString() {#toString--}
 ```
 public String toString()
