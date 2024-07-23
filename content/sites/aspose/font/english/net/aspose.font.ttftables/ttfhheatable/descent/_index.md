@@ -3,7 +3,7 @@ title: TtfHheaTable.Descent
 second_title: Aspose.Font for .NET API Reference
 description: TtfHheaTable property. Gets the descent
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.font.ttftables/ttfhheatable/descent/
 ---
 ## TtfHheaTable.Descent property

@@ -11,7 +11,7 @@ url: /net/aspose.font.ttftables/ttftablebase/
 Represents TTF table definition.
 
 ```csharp
-public class TtfTableBase
+public abstract class TtfTableBase
 ```
 
 ## Properties
