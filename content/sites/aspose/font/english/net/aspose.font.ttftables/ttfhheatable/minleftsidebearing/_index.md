@@ -3,7 +3,7 @@ title: TtfHheaTable.MinLeftSideBearing
 second_title: Aspose.Font for .NET API Reference
 description: TtfHheaTable property. Gets the MinLeftSideBearing value
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.font.ttftables/ttfhheatable/minleftsidebearing/
 ---
 ## TtfHheaTable.MinLeftSideBearing property

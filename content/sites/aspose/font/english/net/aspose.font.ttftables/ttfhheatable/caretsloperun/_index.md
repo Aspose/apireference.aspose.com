@@ -3,7 +3,7 @@ title: TtfHheaTable.CaretSlopeRun
 second_title: Aspose.Font for .NET API Reference
 description: TtfHheaTable property. Gets caret slop run
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.font.ttftables/ttfhheatable/caretsloperun/
 ---
 ## TtfHheaTable.CaretSlopeRun property

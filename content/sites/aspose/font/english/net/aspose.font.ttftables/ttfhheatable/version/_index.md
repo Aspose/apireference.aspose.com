@@ -1,17 +1,17 @@
 ---
-title: TtfHheaTable.Tag
+title: TtfHheaTable.Version
 second_title: Aspose.Font for .NET API Reference
-description: TtfHheaTable property. Gets table tag
+description: TtfHheaTable property. Gets version
 type: docs
-weight: 140
-url: /net/aspose.font.ttftables/ttfhheatable/tag/
+weight: 120
+url: /net/aspose.font.ttftables/ttfhheatable/version/
 ---
-## TtfHheaTable.Tag property
+## TtfHheaTable.Version property
 
-Gets table tag.
+Gets version.
 
 ```csharp
-public static string Tag { get; }
+public float Version { get; }
 ```
 
 ### See Also

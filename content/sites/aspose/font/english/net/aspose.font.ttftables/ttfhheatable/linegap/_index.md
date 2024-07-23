@@ -3,7 +3,7 @@ title: TtfHheaTable.LineGap
 second_title: Aspose.Font for .NET API Reference
 description: TtfHheaTable property. Gets the lineGap
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.font.ttftables/ttfhheatable/linegap/
 ---
 ## TtfHheaTable.LineGap property
