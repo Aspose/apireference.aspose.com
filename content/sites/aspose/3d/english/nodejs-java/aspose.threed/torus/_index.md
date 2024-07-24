@@ -46,11 +46,11 @@ url: /nodejs-java/aspose.threed/torus/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(radius, tube, arc) | Initializes a new instance of the Torus class. | 
+| constructor_overload2(radius, tube, arc) | Initializes a new instance of the Torus class. | 
 
  **Parameters:**
 
@@ -67,11 +67,11 @@ url: /nodejs-java/aspose.threed/torus/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(name, radius, tube, radialSegments, tubularSegments, arc) | Initializes a new instance of the Torus class. | 
+| constructor_overload3(name, radius, tube, radialSegments, tubularSegments, arc) | Initializes a new instance of the Torus class. | 
 
  **Parameters:**
 

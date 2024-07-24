@@ -46,11 +46,11 @@ url: /nodejs-java/aspose.threed/dish/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(name, radius, height, widthSegments, heightSegments) | Create a new dish instance with specified radius and height | 
+| constructor_overload2(name, radius, height, widthSegments, heightSegments) | Create a new dish instance with specified radius and height | 
 
  **Parameters:**
 

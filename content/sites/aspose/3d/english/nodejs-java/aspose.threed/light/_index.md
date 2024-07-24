@@ -45,11 +45,11 @@ url: /nodejs-java/aspose.threed/light/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(name, type) | Initializes a new instance of the Light class. | 
+| constructor_overload2(name, type) | Initializes a new instance of the Light class. | 
 
  **Parameters:**
 

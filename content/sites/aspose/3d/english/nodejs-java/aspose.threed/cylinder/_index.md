@@ -46,11 +46,11 @@ url: /nodejs-java/aspose.threed/cylinder/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(radiusTop, radiusBottom, height) | Initializes a new instance of the Cylinder class. | 
+| constructor_overload2(radiusTop, radiusBottom, height) | Initializes a new instance of the Cylinder class. | 
 
  **Parameters:**
 
@@ -67,11 +67,11 @@ url: /nodejs-java/aspose.threed/cylinder/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(radiusTop, radiusBottom, height, radialSegments, heightSegments, openEnded) | Initializes a new instance of the Cylinder class. | 
+| constructor_overload3(radiusTop, radiusBottom, height, radialSegments, heightSegments, openEnded) | Initializes a new instance of the Cylinder class. | 
 
  **Parameters:**
 
@@ -91,11 +91,11 @@ url: /nodejs-java/aspose.threed/cylinder/
 ---
 
 
-### constructor_overload$4{#constructor_overload$4}
+### constructor_overload4{#constructor_overload4}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$4(name, radiusTop, radiusBottom, height, radialSegments, heightSegments, openEnded, thetaStart, thetaLength) | Initializes a new instance of the Cylinder class. | 
+| constructor_overload4(name, radiusTop, radiusBottom, height, radialSegments, heightSegments, openEnded, thetaStart, thetaLength) | Initializes a new instance of the Cylinder class. | 
 
  **Parameters:**
 

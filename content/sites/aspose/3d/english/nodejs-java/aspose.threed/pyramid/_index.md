@@ -47,11 +47,11 @@ url: /nodejs-java/aspose.threed/pyramid/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(xbottom, ybottom, xtop, ytop, height) | Construct a new pyramid instance with specified bottom area and top area and height. | 
+| constructor_overload2(xbottom, ybottom, xtop, ytop, height) | Construct a new pyramid instance with specified bottom area and top area and height. | 
 
  **Parameters:**
 
@@ -70,11 +70,11 @@ url: /nodejs-java/aspose.threed/pyramid/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(name, xbottom, ybottom, xtop, ytop, height) | Construct a new pyramid instance with specified bottom area and top area and height. | 
+| constructor_overload3(name, xbottom, ybottom, xtop, ytop, height) | Construct a new pyramid instance with specified bottom area and top area and height. | 
 
  **Parameters:**
 

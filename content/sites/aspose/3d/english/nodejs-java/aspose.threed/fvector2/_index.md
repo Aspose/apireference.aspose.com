@@ -46,11 +46,11 @@ url: /nodejs-java/aspose.threed/fvector2/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(vec) | Initializes a new instance of the FVector2. | 
+| constructor_overload2(vec) | Initializes a new instance of the FVector2. | 
 
  **Result:**
 

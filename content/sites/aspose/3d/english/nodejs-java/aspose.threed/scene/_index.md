@@ -45,11 +45,11 @@ url: /nodejs-java/aspose.threed/scene/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(parentScene, name) | Initializes a new instance of the Scene class as a sub-scene. | 
+| constructor_overload2(parentScene, name) | Initializes a new instance of the Scene class as a sub-scene. | 
 
  **Parameters:**
 
@@ -65,11 +65,11 @@ url: /nodejs-java/aspose.threed/scene/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(fileName) | Initializes a new instance of the Scene class and open the file immediately. This is an obsoleted constructor, please use #Error Cref: M:Aspose.ThreeD.Scene.FromFile(System.String,System.Threading.CancellationToken). | 
+| constructor_overload3(fileName) | Initializes a new instance of the Scene class and open the file immediately. This is an obsoleted constructor, please use #Error Cref: M:Aspose.ThreeD.Scene.FromFile(System.String,System.Threading.CancellationToken). | 
 
  **Parameters:**
 

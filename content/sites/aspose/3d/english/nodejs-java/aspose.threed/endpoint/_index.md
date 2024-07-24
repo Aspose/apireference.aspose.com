@@ -45,11 +45,11 @@ url: /nodejs-java/aspose.threed/endpoint/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(v) | Construct a EndPoint from a real parameter. | 
+| constructor_overload2(v) | Construct a EndPoint from a real parameter. | 
 
  **Parameters:**
 

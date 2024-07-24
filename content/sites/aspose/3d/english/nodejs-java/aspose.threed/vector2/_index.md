@@ -52,11 +52,11 @@ url: /nodejs-java/aspose.threed/vector2/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(vec) | Initializes a new instance of the Vector2 struct. | 
+| constructor_overload2(vec) | Initializes a new instance of the Vector2 struct. | 
 
  **Parameters:**
 
@@ -71,11 +71,11 @@ url: /nodejs-java/aspose.threed/vector2/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(x, y) | Initializes a new instance of the Vector2 struct. | 
+| constructor_overload3(x, y) | Initializes a new instance of the Vector2 struct. | 
 
  **Parameters:**
 

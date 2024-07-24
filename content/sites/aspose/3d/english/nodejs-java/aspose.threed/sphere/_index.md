@@ -45,11 +45,11 @@ url: /nodejs-java/aspose.threed/sphere/
 ---
 
 
-### constructor_overload$2{#constructor_overload$2}
+### constructor_overload2{#constructor_overload2}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$2(radius, widthSegments, heightSegments) | Initializes a new instance of the Sphere class with specified radius, width segments and height segments. | 
+| constructor_overload2(radius, widthSegments, heightSegments) | Initializes a new instance of the Sphere class with specified radius, width segments and height segments. | 
 
  **Parameters:**
 
@@ -66,11 +66,11 @@ url: /nodejs-java/aspose.threed/sphere/
 ---
 
 
-### constructor_overload$3{#constructor_overload$3}
+### constructor_overload3{#constructor_overload3}
 
 | Name | Description |
 | --- | --- |
-| constructor_overload$3(name, radius, widthSegments, heightSegments, phiStart, phiLength, thetaStart, thetaLength) | Initializes a new instance of the Sphere class. | 
+| constructor_overload3(name, radius, widthSegments, heightSegments, phiStart, phiLength, thetaStart, thetaLength) | Initializes a new instance of the Sphere class. | 
 
  **Parameters:**
 
