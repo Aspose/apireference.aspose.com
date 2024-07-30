@@ -3,7 +3,7 @@ title: Y
 second_title: Aspose.OMR for .NET API Reference
 description: Y coordinate. Set value to -1 for skip
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/y/
 ---
 ## BarcodeConfig.Y property

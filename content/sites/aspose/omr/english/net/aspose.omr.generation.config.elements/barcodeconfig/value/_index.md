@@ -3,7 +3,7 @@ title: Value
 second_title: Aspose.OMR for .NET API Reference
 description: The value of barcode to encode
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.omr.generation.config.elements/barcodeconfig/value/
 ---
 ## BarcodeConfig.Value property
