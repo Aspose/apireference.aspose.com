@@ -30,6 +30,7 @@ public class BarcodeConfig : BaseConfig
 | [DrawCodetext](../../aspose.omr.generation.config.elements/barcodeconfig/drawcodetext) { get; set; } | Indicates whether to draw text below barcode image) |
 | [Height](../../aspose.omr.generation.config.elements/barcodeconfig/height) { get; set; } | The target height of barcode image |
 | override [Name](../../aspose.omr.generation.config.elements/barcodeconfig/name) { get; set; } | Barcode name. For value [`Value`](./value) |
+| [RotationAngle](../../aspose.omr.generation.config.elements/barcodeconfig/rotationangle) { get; set; } | Rotation of barcode. Can be positive or negative values. e.g. "90", "-90" |
 | override [Type](../../aspose.omr.generation.config.elements/barcodeconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 | [Value](../../aspose.omr.generation.config.elements/barcodeconfig/value) { get; set; } | The value of barcode to encode |
 | [X](../../aspose.omr.generation.config.elements/barcodeconfig/x) { get; set; } | X coordinate. Set value to -1 for skip |
