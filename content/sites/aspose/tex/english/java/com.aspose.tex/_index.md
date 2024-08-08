@@ -65,4 +65,5 @@ The **com.aspose.tex** is the root package for all classes that deal with TeX fi
 | Enum | Description |
 | --- | --- |
 | [Interaction](../com.aspose.tex/interaction) | Represents increasing amounts of user interaction. |
+| [ShellMode](../com.aspose.tex/shellmode) | Enumerates values that determine the availability of \\write18. |
 | [TeXJobResult](../com.aspose.tex/texjobresult) | Lists possible results of a TeX job. |
