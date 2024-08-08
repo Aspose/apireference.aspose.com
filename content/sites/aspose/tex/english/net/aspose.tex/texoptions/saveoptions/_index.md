@@ -3,7 +3,7 @@ title: TeXOptions.SaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: TeXOptions property. Gets/sets options used for rendering into destination format XPS PDF image etc.. Default value is the set of default options for rendering to XPS
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.tex/texoptions/saveoptions/
 ---
 ## TeXOptions.SaveOptions property

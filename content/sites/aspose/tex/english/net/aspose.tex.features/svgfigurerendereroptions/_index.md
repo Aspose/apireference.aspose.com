@@ -3,7 +3,7 @@ title: Class SvgFigureRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.SvgFigureRendererOptions class. Options for rendering a LaTeX source code fragment to SVG
 type: docs
-weight: 150
+weight: 190
 url: /net/aspose.tex.features/svgfigurerendereroptions/
 ---
 ## SvgFigureRendererOptions class

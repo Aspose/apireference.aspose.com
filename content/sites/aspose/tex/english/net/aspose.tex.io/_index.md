@@ -3,7 +3,7 @@ title: Aspose.TeX.IO
 second_title: Aspose.TeX for .NET API Reference
 description: The Aspose.TeX.IO namespace provides classes for I/O that TeX engine performs
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.tex.io/
 ---
 The **Aspose.TeX.IO** namespace provides classes for I/O that TeX engine performs.

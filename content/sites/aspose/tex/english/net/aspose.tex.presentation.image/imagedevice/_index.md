@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Image.ImageDevice class. Implements the interface for outputting text and graphic content to images
 type: docs
-weight: 600
+weight: 640
 url: /net/aspose.tex.presentation.image/imagedevice/
 ---
 ## ImageDevice class

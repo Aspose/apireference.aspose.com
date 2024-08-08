@@ -3,7 +3,7 @@ title: TeXOptions.JobName
 second_title: Aspose.TeX for .NET API Reference
 description: TeXOptions property. Gets/set the name of the job
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.tex/texoptions/jobname/
 ---
 ## TeXOptions.JobName property

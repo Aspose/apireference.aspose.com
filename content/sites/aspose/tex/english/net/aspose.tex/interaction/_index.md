@@ -3,7 +3,7 @@ title: Enum Interaction
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Interaction enum. Represents increasing amounts of user interaction
 type: docs
-weight: 340
+weight: 380
 url: /net/aspose.tex/interaction/
 ---
 ## Interaction enumeration

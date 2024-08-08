@@ -3,7 +3,7 @@ title: Class LaTeXRepairer
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.LaTeXRepairer class. Implements LaTeX files repair feature
 type: docs
-weight: 60
+weight: 100
 url: /net/aspose.tex.features/latexrepairer/
 ---
 ## LaTeXRepairer class

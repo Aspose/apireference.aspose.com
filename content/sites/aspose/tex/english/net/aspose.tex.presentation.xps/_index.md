@@ -3,7 +3,7 @@ title: Aspose.TeX.Presentation.Xps
 second_title: Aspose.TeX for .NET API Reference
 description: The Aspose.TeX.Presentation.Xps namespace provides classes for typesetting TeX files to XPS
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.tex.presentation.xps/
 ---
 The **Aspose.TeX.Presentation.Xps** namespace provides classes for typesetting TeX files to XPS.

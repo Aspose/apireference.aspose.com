@@ -3,7 +3,7 @@ title: TeXOptions.InputWorkingDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: TeXOptions property. Gets/sets input working directory
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.tex/texoptions/inputworkingdirectory/
 ---
 ## TeXOptions.InputWorkingDirectory property

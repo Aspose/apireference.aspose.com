@@ -3,7 +3,7 @@ title: Class InputFileSystemDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.InputFileSystemDirectory class. Implements the regular file systems method for getting a file stream to read from
 type: docs
-weight: 250
+weight: 290
 url: /net/aspose.tex.io/inputfilesystemdirectory/
 ---
 ## InputFileSystemDirectory class

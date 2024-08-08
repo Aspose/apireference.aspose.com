@@ -3,7 +3,7 @@ title: Class PngFigureRendererPluginOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.PngFigureRendererPluginOptions class. The Figure Renderer plugins options to render a LaTeX figure in PNG
 type: docs
-weight: 480
+weight: 520
 url: /net/aspose.tex.plugins/pngfigurerendererpluginoptions/
 ---
 ## PngFigureRendererPluginOptions class

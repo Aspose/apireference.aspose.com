@@ -3,7 +3,7 @@ title: Aspose.TeX.Features
 second_title: Aspose.TeX for .NET API Reference
 description: The Aspose.TeX.Features namespace provides additional TeXLaTeX features
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.tex.features/
 ---
 The **Aspose.TeX.Features** namespace provides additional TeX(LaTeX) features.

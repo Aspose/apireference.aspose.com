@@ -3,7 +3,7 @@ title: Class PngMathRendererPluginOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.PngMathRendererPluginOptions class. The Math Renderer plugins options to render a math formula in PNG
 type: docs
-weight: 490
+weight: 530
 url: /net/aspose.tex.plugins/pngmathrendererpluginoptions/
 ---
 ## PngMathRendererPluginOptions class
