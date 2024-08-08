@@ -10,7 +10,7 @@ is_root: true
 | Package | Description |
 | --- | --- |
 | [com.aspose.tex](./com.aspose.tex) | The **com.aspose.tex** is the root package for all classes that deal with TeX files and TeX source code. |
-| [com.aspose.tex.commandline](./com.aspose.tex.commandline) | The **com.aspose.tex.commandline** namespace provides classes for handling Object TeX's \`\`\` \\write18 \`\`\` primitive. |
+| [com.aspose.tex.commandline](./com.aspose.tex.commandline) | The **com.aspose.tex.commandline** namespace provides classes for handling Object TeX's \\write18 primitive. |
 | [com.aspose.tex.features](./com.aspose.tex.features) | The **com.aspose.tex.features** provides additional TeX(LaTeX) features. |
 | [com.aspose.tex.plugins](./com.aspose.tex.plugins) | The **com.aspose.tex.plugins** package provides metered plugins and supplementary classes. |
 | [com.aspose.tex.rendering](./com.aspose.tex.rendering) | The **com.aspose.tex.rendering** package provides classes of available devices and save options that can be used while converting TeX(LaTeX) to other formats. |
