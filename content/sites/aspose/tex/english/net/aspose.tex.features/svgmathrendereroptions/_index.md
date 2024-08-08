@@ -3,7 +3,7 @@ title: Class SvgMathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.SvgMathRendererOptions class. Math formula SVG rendering options
 type: docs
-weight: 170
+weight: 210
 url: /net/aspose.tex.features/svgmathrendereroptions/
 ---
 ## SvgMathRendererOptions class

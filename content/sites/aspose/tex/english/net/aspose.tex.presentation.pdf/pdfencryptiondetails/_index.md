@@ -3,7 +3,7 @@ title: Class PdfEncryptionDetails
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Pdf.PdfEncryptionDetails class. Contains details for a pdf encryption
 type: docs
-weight: 680
+weight: 720
 url: /net/aspose.tex.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

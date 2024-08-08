@@ -3,7 +3,7 @@ title: Class SvgMathRendererPluginOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.SvgMathRendererPluginOptions class. The Math Renderer plugins options to render a math formula in SVG
 type: docs
-weight: 540
+weight: 580
 url: /net/aspose.tex.plugins/svgmathrendererpluginoptions/
 ---
 ## SvgMathRendererPluginOptions class

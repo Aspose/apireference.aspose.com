@@ -3,7 +3,7 @@ title: Class LaTeXRepairerOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.LaTeXRepairerOptions class. The class to provide options to the LaTeX Repairer
 type: docs
-weight: 70
+weight: 110
 url: /net/aspose.tex.features/latexrepaireroptions/
 ---
 ## LaTeXRepairerOptions class

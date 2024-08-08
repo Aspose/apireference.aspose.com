@@ -3,7 +3,7 @@ title: Class PngFigureRenderer
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.PngFigureRenderer class. Implements rendering of some LaTeX compact content supposed to fit one page and then cropping it from the page as a PNG image
 type: docs
-weight: 100
+weight: 140
 url: /net/aspose.tex.features/pngfigurerenderer/
 ---
 ## PngFigureRenderer class

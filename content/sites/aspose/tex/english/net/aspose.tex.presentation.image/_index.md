@@ -3,7 +3,7 @@ title: Aspose.TeX.Presentation.Image
 second_title: Aspose.TeX for .NET API Reference
 description: The Aspose.TeX.Presentation.Image namespace provides classes for typesetting TeX files to images
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.tex.presentation.image/
 ---
 The **Aspose.TeX.Presentation.Image** namespace provides classes for typesetting TeX files to images.

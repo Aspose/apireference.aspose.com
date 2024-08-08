@@ -3,7 +3,7 @@ title: Aspose.TeX.Plugins
 second_title: Aspose.TeX for .NET API Reference
 description: The Aspose.TeX.Plugins is a root namespace for all classes of Aspose.TeX.Plugins classes
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.tex.plugins/
 ---
 The **Aspose.TeX.Plugins** is a root namespace for all classes of Aspose.TeX.Plugins classes.

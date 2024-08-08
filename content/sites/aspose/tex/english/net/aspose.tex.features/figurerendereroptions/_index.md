@@ -3,7 +3,7 @@ title: Class FigureRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.FigureRendererOptions class. Common options for rendering a LaTeX source code fragment
 type: docs
-weight: 30
+weight: 70
 url: /net/aspose.tex.features/figurerendereroptions/
 ---
 ## FigureRendererOptions class

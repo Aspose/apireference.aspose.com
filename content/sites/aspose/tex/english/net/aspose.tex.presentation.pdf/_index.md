@@ -3,7 +3,7 @@ title: Aspose.TeX.Presentation.Pdf
 second_title: Aspose.TeX for .NET API Reference
 description: The Aspose.TeX.Presentation.Pdf namespace provides classes for typesetting TeX files to PDF
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.tex.presentation.pdf/
 ---
 The **Aspose.TeX.Presentation.Pdf** namespace provides classes for typesetting TeX files to PDF.

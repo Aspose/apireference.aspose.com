@@ -3,7 +3,7 @@ title: Class FigureRenderer
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.FigureRenderer class. Implements rendering of some LaTeX compact content supposed to fit one page and then cropping it from the page
 type: docs
-weight: 20
+weight: 60
 url: /net/aspose.tex.features/figurerenderer/
 ---
 ## FigureRenderer class

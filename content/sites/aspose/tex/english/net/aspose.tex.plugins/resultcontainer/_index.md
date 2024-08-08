@@ -3,7 +3,7 @@ title: Class ResultContainer
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.ResultContainer class. The plugin execution result container
 type: docs
-weight: 500
+weight: 540
 url: /net/aspose.tex.plugins/resultcontainer/
 ---
 ## ResultContainer class

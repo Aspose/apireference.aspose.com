@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.tex.commandline.Executable](../../com.aspose.tex.c
 public final class Base64Exec extends Executable
 ```
 
-An implementation of `Base64` command emulation.
+An implementation of  Base64  command emulation.
 ## Constructors
 
 | Constructor | Description |

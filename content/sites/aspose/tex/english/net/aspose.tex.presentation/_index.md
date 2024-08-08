@@ -3,7 +3,7 @@ title: Aspose.TeX.Presentation
 second_title: Aspose.TeX for .NET API Reference
 description: The Aspose.TeX.Presentation namespace provides common classes for typesetting TeX files to other formats
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.tex.presentation/
 ---
 The **Aspose.TeX.Presentation** namespace provides common classes for typesetting TeX files to other formats.

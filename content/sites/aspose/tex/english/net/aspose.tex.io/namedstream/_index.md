@@ -3,7 +3,7 @@ title: Class NamedStream
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.IO.NamedStream class. Associates a stream of a random nature with a name
 type: docs
-weight: 270
+weight: 310
 url: /net/aspose.tex.io/namedstream/
 ---
 ## NamedStream class

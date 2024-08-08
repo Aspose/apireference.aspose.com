@@ -3,7 +3,7 @@ title: TeXOptions.Interaction
 second_title: Aspose.TeX for .NET API Reference
 description: TeXOptions property. Gets/sets the interaction mode to run a TeX engine in
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.tex/texoptions/interaction/
 ---
 ## TeXOptions.Interaction property

@@ -3,7 +3,7 @@ title: Interface IRasterRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Features.IRasterRendererOptions interface. The interface that defines properties of a raster image renderer
 type: docs
-weight: 50
+weight: 90
 url: /net/aspose.tex.features/irasterrendereroptions/
 ---
 ## IRasterRendererOptions interface

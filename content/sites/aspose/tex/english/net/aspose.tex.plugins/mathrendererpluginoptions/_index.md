@@ -3,7 +3,7 @@ title: Class MathRendererPluginOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.MathRendererPluginOptions class. The options for the MathRendererPlugin
 type: docs
-weight: 460
+weight: 500
 url: /net/aspose.tex.plugins/mathrendererpluginoptions/
 ---
 ## MathRendererPluginOptions class

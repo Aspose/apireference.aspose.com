@@ -24,6 +24,7 @@ The **Aspose.TeX** is a root namespace for all classes of Aspose.TeX library whi
 | Enumeration | Description |
 | --- | --- |
 | [Interaction](./interaction/) | Represents increasing amounts of user interaction. |
+| [ShellMode](./shellmode/) | Enumerates values that determine the availability of \write18. |
 | [TeXJobResult](./texjobresult/) | Lists possible results of a TeX job. |
 
 

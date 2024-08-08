@@ -3,7 +3,7 @@ title: TeXOptions.TerminalOut
 second_title: Aspose.TeX for .NET API Reference
 description: TeXOptions property. Gets/sets the output terminal writer
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.tex/texoptions/terminalout/
 ---
 ## TeXOptions.TerminalOut property
