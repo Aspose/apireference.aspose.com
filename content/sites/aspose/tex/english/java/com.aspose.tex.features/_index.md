@@ -3,7 +3,7 @@ title: com.aspose.tex.features
 second_title: Aspose.TeX for Java API Reference
 description: The com.aspose.tex.features provides additional TeXLaTeX features.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.tex.features/
 ---
 

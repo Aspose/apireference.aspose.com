@@ -3,7 +3,7 @@ title: com.aspose.tex.plugins
 second_title: Aspose.TeX for Java API Reference
 description: The com.aspose.tex.plugins package provides metered plugins and supplementary classes.
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.tex.plugins/
 ---
 

@@ -43,6 +43,9 @@ TeX file processing options class.
 | [noLigatures(boolean value)](#noLigatures-boolean-) | Sets the flag that cancels ligatures in all fonts. |
 | [fullInputFileNames()](#fullInputFileNames--) | Gets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 | [fullInputFileNames(boolean value)](#fullInputFileNames-boolean-) | Sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
+| [getShellMode()](#getShellMode--) | Gets the availability of \\write18. |
+| [setShellMode(ShellMode value)](#setShellMode-com.aspose.tex.ShellMode-) | Sets the availability of \\write18. |
+| [getExecutables()](#getExecutables--) | A customizable collection of objects that emulate executables, which can be executed using the \\write18 commands in Object TeX. |
 | [consoleAppOptions(TeXConfig config)](#consoleAppOptions-com.aspose.tex.TeXConfig-) | Returns options for use in a console application. |
 ### getJobName() {#getJobName--}
 ```
@@ -343,6 +346,39 @@ Sets the flag indicating whether full or short filenames are output to the trans
 | --- | --- | --- |
 | value | boolean | The flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 
+### getShellMode() {#getShellMode--}
+```
+public ShellMode getShellMode()
+```
+
+
+Gets the availability of \\write18.
+
+**Returns:**
+[ShellMode](../../com.aspose.tex/shellmode) - The availability of \\write18.
+### setShellMode(ShellMode value) {#setShellMode-com.aspose.tex.ShellMode-}
+```
+public void setShellMode(ShellMode value)
+```
+
+
+Sets the availability of \\write18.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ShellMode](../../com.aspose.tex/shellmode) | The availability of \\write18. |
+
+### getExecutables() {#getExecutables--}
+```
+public ExecutablesList getExecutables()
+```
+
+
+A customizable collection of objects that emulate executables, which can be executed using the \\write18 commands in Object TeX.
+
+**Returns:**
+[ExecutablesList](../../com.aspose.tex.commandline/executableslist) - The collection of objects that emulate executables, which can be executed using the \\write18 commands in Object TeX.
 ### consoleAppOptions(TeXConfig config) {#consoleAppOptions-com.aspose.tex.TeXConfig-}
 ```
 public static TeXOptions consoleAppOptions(TeXConfig config)
