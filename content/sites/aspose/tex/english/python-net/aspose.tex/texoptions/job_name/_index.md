@@ -3,7 +3,7 @@ title: job_name property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /python-net/aspose.tex/texoptions/job_name/
 is_root: false
 ---

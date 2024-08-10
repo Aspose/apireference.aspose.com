@@ -3,7 +3,7 @@ title: TeXJobResult enumeration
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /python-net/aspose.tex/texjobresult/
 is_root: false
 ---

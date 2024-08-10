@@ -3,7 +3,7 @@ title: repeat property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.tex/texoptions/repeat/
 is_root: false
 ---

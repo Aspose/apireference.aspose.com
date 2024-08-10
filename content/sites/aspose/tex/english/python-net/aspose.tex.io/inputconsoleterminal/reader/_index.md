@@ -22,4 +22,4 @@ def reader(self):
 ### See Also
 * module [`aspose.tex.io`](../../)
 * class [`InputConsoleTerminal`](/tex/python-net/aspose.tex.io/inputconsoleterminal)
-* class [`TerminalReader`](/tex/python-net/aspose.tex.io/terminalreader)
+* class [`TeXStreamReader`](/tex/python-net/aspose.tex.io/texstreamreader)

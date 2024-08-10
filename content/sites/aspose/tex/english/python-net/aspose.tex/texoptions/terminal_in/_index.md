@@ -3,7 +3,7 @@ title: terminal_in property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /python-net/aspose.tex/texoptions/terminal_in/
 is_root: false
 ---

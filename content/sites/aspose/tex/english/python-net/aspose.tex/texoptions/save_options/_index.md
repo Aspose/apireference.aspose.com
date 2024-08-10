@@ -3,7 +3,7 @@ title: save_options property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /python-net/aspose.tex/texoptions/save_options/
 is_root: false
 ---

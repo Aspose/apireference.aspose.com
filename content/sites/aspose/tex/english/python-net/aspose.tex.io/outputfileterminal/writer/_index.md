@@ -22,4 +22,4 @@ def writer(self):
 ### See Also
 * module [`aspose.tex.io`](../../)
 * class [`OutputFileTerminal`](/tex/python-net/aspose.tex.io/outputfileterminal)
-* class [`TerminalWriter`](/tex/python-net/aspose.tex.io/terminalwriter)
+* class [`TeXStreamWriter`](/tex/python-net/aspose.tex.io/texstreamwriter)

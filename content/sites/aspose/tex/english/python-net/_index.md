@@ -12,6 +12,7 @@ is_root: true
 | Module | Description |
 | :- | :- |
 | [`aspose.tex`](/tex/python-net/aspose.tex) | The **Aspose.TeX**  is a root namespace for all classes of Aspose.TeX library which are either directly in it like **Device**  or indirectly through several namesubspaces. |
+| [`aspose.tex.commandline`](/tex/python-net/aspose.tex.commandline) | The **Aspose.TeX.CommandLine**  namespace provides classes for handling Object TeX's `\write18` primitive. |
 | [`aspose.tex.features`](/tex/python-net/aspose.tex.features) | The **Aspose.TeX.Features**  namespace provides additional TeX(LaTeX) features. |
 | [`aspose.tex.io`](/tex/python-net/aspose.tex.io) | The **Aspose.TeX.IO**  namespace provides classes for I/O that TeX engine performs. |
 | [`aspose.tex.plugins`](/tex/python-net/aspose.tex.plugins) | The **Aspose.TeX.Plugins**  is a root namespace for all classes of Aspose.TeX.Plugins classes. |

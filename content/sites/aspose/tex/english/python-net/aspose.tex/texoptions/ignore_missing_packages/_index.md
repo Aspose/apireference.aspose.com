@@ -3,7 +3,7 @@ title: ignore_missing_packages property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /python-net/aspose.tex/texoptions/ignore_missing_packages/
 is_root: false
 ---
