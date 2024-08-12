@@ -32,6 +32,8 @@ The TeXOptions type exposes the following members:
 | [repeat](/tex/python-net/aspose.tex/texoptions/repeat) | Gets/sets the flag that indicates whether it is necessary to run the TeX job twice in case,<br/>for example, there are references in input TeX file(s). In general, this behavior is useful when<br/>the engine collects some data along the typesetting process and stores it in an auxilliary file,<br/>all at the first run. And at the second run, the engine somehow uses that data. |
 | [no_ligatures](/tex/python-net/aspose.tex/texoptions/no_ligatures) | Gets/sets the flag that cancels ligatures in all fonts. |
 | [full_input_file_names](/tex/python-net/aspose.tex/texoptions/full_input_file_names) | Gets/sets the flag indicating whether full or short filenames are output<br/>to the transcript file and to the terminal when file input begins. |
+| [shell_mode](/tex/python-net/aspose.tex/texoptions/shell_mode) | Determines the availability of \write18. |
+| [executables](/tex/python-net/aspose.tex/texoptions/executables) | A customizable collection of objects that emulate executables, which can be executed using the \write18 commands in Object TeX. |
 
 
 ### Methods

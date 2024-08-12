@@ -3,7 +3,7 @@ title: full_input_file_names property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /python-net/aspose.tex/texoptions/full_input_file_names/
 is_root: false
 ---

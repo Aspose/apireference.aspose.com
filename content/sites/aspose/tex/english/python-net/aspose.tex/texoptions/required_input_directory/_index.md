@@ -3,7 +3,7 @@ title: required_input_directory property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.tex/texoptions/required_input_directory/
 is_root: false
 ---

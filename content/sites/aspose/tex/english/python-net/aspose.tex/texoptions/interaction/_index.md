@@ -3,7 +3,7 @@ title: interaction property
 second_title: Aspose.TeX for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /python-net/aspose.tex/texoptions/interaction/
 is_root: false
 ---

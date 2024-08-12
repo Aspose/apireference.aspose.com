@@ -30,7 +30,7 @@ The **Aspose.TeX.IO**  namespace provides classes for I/O that TeX engine perfor
 | [`OutputFileTerminal`](/tex/python-net/aspose.tex.io/outputfileterminal) | Implements a terminal whose output is to be written to a file in some working directory. |
 | [`OutputMemoryTerminal`](/tex/python-net/aspose.tex.io/outputmemoryterminal) | Provides a memory stream as a terminal output destination. |
 | [`OutputZipDirectory`](/tex/python-net/aspose.tex.io/outputzipdirectory) | Implements the method for getting a file stream to write to when working directory is a ZIP archive. |
-| [`TerminalReader`](/tex/python-net/aspose.tex.io/terminalreader) | Provides reading from a text stream. |
-| [`TerminalWriter`](/tex/python-net/aspose.tex.io/terminalwriter) | Provides writing to a text stream. |
+| [`TeXStreamReader`](/tex/python-net/aspose.tex.io/texstreamreader) | Provides reading from a text stream. |
+| [`TeXStreamWriter`](/tex/python-net/aspose.tex.io/texstreamwriter) | Provides writing to a text stream. |
 
 

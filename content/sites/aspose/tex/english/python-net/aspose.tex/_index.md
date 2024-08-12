@@ -26,6 +26,7 @@ The **Aspose.TeX**  is a root namespace for all classes of Aspose.TeX library wh
 | Enumeration | Description |
 | :- | :- |
 | [`Interaction`](/tex/python-net/aspose.tex/interaction) | Represents increasing amounts of user interaction. |
+| [`ShellMode`](/tex/python-net/aspose.tex/shellmode) | Enumerates values that determine the availability of \write18. |
 | [`TeXJobResult`](/tex/python-net/aspose.tex/texjobresult) | Lists possible results of a TeX job. |
 
 
