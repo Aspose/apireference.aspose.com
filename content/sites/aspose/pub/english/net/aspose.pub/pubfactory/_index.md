@@ -3,7 +3,7 @@ title: Class PubFactory
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.PubFactory class. Factory for PUB objects
 type: docs
-weight: 210
+weight: 270
 url: /net/aspose.pub/pubfactory/
 ---
 ## PubFactory class
@@ -23,6 +23,7 @@ public static class PubFactory
 | static [CreatePdfConverter](../../aspose.pub/pubfactory/createpdfconverter/#createpdfconverter)() | Creates PdfConverter |
 | static [CreatePdfConverter](../../aspose.pub/pubfactory/createpdfconverter/#createpdfconverter_1)(PubToPdfConversionOptions) | Creates PdfConverter using conversion options specified |
 | static [CreatePubConverter](../../aspose.pub/pubfactory/createpubconverter/)() | Creates PubConverter |
+| static [CreatePubPackageConverter](../../aspose.pub/pubfactory/createpubpackageconverter/)() | Creates Pub package converter |
 
 ### See Also
 

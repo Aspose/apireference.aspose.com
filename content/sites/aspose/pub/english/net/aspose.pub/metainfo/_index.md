@@ -3,7 +3,7 @@ title: Class MetaInfo
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.MetaInfo class. Base class for summary info objects
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.pub/metainfo/
 ---
 ## MetaInfo class

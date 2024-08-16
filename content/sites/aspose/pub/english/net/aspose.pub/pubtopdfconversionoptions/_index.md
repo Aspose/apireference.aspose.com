@@ -3,7 +3,7 @@ title: Class PubToPdfConversionOptions
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.PubToPdfConversionOptions class. Options for export to PDF format
 type: docs
-weight: 220
+weight: 280
 url: /net/aspose.pub/pubtopdfconversionoptions/
 ---
 ## PubToPdfConversionOptions class

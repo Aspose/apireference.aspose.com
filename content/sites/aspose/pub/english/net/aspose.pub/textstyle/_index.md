@@ -3,7 +3,7 @@ title: Class TextStyle
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.TextStyle class. Describes PUB text style
 type: docs
-weight: 270
+weight: 330
 url: /net/aspose.pub/textstyle/
 ---
 ## TextStyle class

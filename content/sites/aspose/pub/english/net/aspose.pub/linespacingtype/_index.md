@@ -3,7 +3,7 @@ title: Enum LineSpacingType
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.LineSpacingType enum. Type of line spacing
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pub/linespacingtype/
 ---
 ## LineSpacingType enumeration

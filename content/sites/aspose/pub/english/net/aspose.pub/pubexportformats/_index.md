@@ -3,7 +3,7 @@ title: Enum PubExportFormats
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.PubExportFormats enum. Specifies format to export Publisher document
 type: docs
-weight: 200
+weight: 260
 url: /net/aspose.pub/pubexportformats/
 ---
 ## PubExportFormats enumeration
@@ -30,7 +30,7 @@ public enum PubExportFormats
 | Xlsx | `9` | Means export to Office Open XML (.xlsx) file format |
 | Csv | `10` | Means export to a comma-separated values (CSV) file format |
 | Pptx | `11` | Means export to Microsoft PowerPoint file format |
-| Xps | `12` | Means export to XML file format |
+| Xps | `12` | Means export to XPS format |
 | Epub | `13` | Means export to EPUB format(special format of e-books) |
 | Tex | `14` | Means export to TEX format i.e. format suitable for Latex text editor |
 | Mhtml | `15` | Means export to MHTML (MIME HTML) format |
