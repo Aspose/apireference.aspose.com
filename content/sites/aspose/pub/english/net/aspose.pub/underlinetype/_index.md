@@ -3,7 +3,7 @@ title: Enum UnderlineType
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.UnderlineType enum. Underline type
 type: docs
-weight: 280
+weight: 340
 url: /net/aspose.pub/underlinetype/
 ---
 ## UnderlineType enumeration

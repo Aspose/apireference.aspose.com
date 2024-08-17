@@ -3,7 +3,7 @@ title: Class SummaryInfo
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.SummaryInfo class. Summary info
 type: docs
-weight: 230
+weight: 290
 url: /net/aspose.pub/summaryinfo/
 ---
 ## SummaryInfo class

@@ -3,7 +3,7 @@ title: Class License
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.License class. Provides methods to license the component
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.pub/license/
 ---
 ## License class

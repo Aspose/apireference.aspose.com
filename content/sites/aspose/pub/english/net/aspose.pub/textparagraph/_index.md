@@ -3,7 +3,7 @@ title: Class TextParagraph
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.TextParagraph class. Represents PUB text paragraph
 type: docs
-weight: 260
+weight: 320
 url: /net/aspose.pub/textparagraph/
 ---
 ## TextParagraph class

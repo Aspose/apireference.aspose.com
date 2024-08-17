@@ -3,7 +3,7 @@ title: Class Coord
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.Utils.Coord class. This class designed to represent data related to coordinates of PUB fields. Every field in PUB holds coordinates has 2 pairs of coordinates coordinates of upperleft corner XLeft YTop and coordinates of bottomright cornerXRight YBottom. All coordinates represented in special metric system  English Metric UnitEMUs. Additional methods were added into this class to transform coordinate values from english metric units into inches
 type: docs
-weight: 290
+weight: 350
 url: /net/aspose.pub.utils/coord/
 ---
 ## Coord class

@@ -22,6 +22,10 @@ The **Aspose.Pub** namespace provides classes describing PUB objects.
 | [License](./license/) | Provides methods to license the component. |
 | [MetaInfo](./metainfo/) | Base class for summary info objects |
 | [Metered](./metered/) | Provides methods to set metered key. |
+| [PackageDocumentCollection](./packagedocumentcollection/) | Represents collection of Publisher documents for package conversion. |
+| [PackageDocumentItem](./packagedocumentitem/) | Base class for Publisher document references for use in package conversions. Provides fields for specifying output source for the converted document - [`OutputFileName`](../aspose.pub/packagedocumentitem/outputfilename/) for a disk file and [`OutputStream`](../aspose.pub/packagedocumentitem/outputstream/) for stream. Also provides conversion settings. |
+| [PackageFileItem](./packagefileitem/) | Designed to reference a Publisher document via file in package conversions. |
+| [PackageStreamItem](./packagestreamitem/) | Designed to reference a Publisher document via stream in package conversions. |
 | [ParagraphStyle](./paragraphstyle/) | This class describes style of PUB paragraph |
 | [PubFactory](./pubfactory/) | Factory for PUB objects |
 | [PubToPdfConversionOptions](./pubtopdfconversionoptions/) | Options for export to PDF format |
@@ -35,6 +39,7 @@ The **Aspose.Pub** namespace provides classes describing PUB objects.
 | --- | --- |
 | [IPdfConverter](./ipdfconverter/) | Declares functionality to convert PUB document into PDF document |
 | [IPubConverter](./ipubconverter/) | Declares functionality to convert PUB document into format specified |
+| [IPubPackageConverter](./ipubpackageconverter/) | Declares functionality for converting multiple Publisher documents to a specified format. |
 | [IPubParser](./ipubparser/) | Declares functionality which parses publisher file and returns [`Document`](../aspose.pub/document/) object as result of parsing. |
 ## Enumeration
 
@@ -42,6 +47,7 @@ The **Aspose.Pub** namespace provides classes describing PUB objects.
 | --- | --- |
 | [AlignmentType](./alignmenttype/) | Type of alignment |
 | [LineSpacingType](./linespacingtype/) | Type of line spacing |
+| [PubDocumentType](./pubdocumenttype/) | Represents storage type for document. |
 | [PubExportFormats](./pubexportformats/) | Specifies format to export Publisher document |
 | [SuperscriptType](./superscripttype/) | Type of superscript |
 | [UnderlineType](./underlinetype/) | Underline type |

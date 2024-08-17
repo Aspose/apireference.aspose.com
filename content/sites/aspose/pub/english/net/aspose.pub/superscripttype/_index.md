@@ -3,7 +3,7 @@ title: Enum SuperscriptType
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.SuperscriptType enum. Type of superscript
 type: docs
-weight: 240
+weight: 300
 url: /net/aspose.pub/superscripttype/
 ---
 ## SuperscriptType enumeration

@@ -3,7 +3,7 @@ title: Class TextGroup
 second_title: Aspose.PUB for .NET API Reference
 description: Aspose.Pub.TextGroup class. Text group
 type: docs
-weight: 250
+weight: 310
 url: /net/aspose.pub/textgroup/
 ---
 ## TextGroup class
