@@ -1,11 +1,10 @@
-﻿---
+---
 title: IDataSource class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.tex.plugins/idatasource/
-is_root: false
+url: /tex/python-net/aspose.tex.plugins/idatasource/
 ---
 
 ## IDataSource class
@@ -15,13 +14,13 @@ The general data source interface.
 
 
 The IDataSource type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [data_type](/tex/python-net/aspose.tex.plugins/idatasource/data_type) | The data source type. |
-
-
+| `data_type` | The data source type. |
 
 ### See Also
-* module [`aspose.tex.plugins`](..)
+
+* module [`aspose.tex.plugins`](/tex/python-net/aspose.tex.plugins/)
+* package [`aspose.tex`](/tex/python-net/)
+

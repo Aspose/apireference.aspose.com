@@ -1,18 +1,16 @@
-﻿---
+---
 title: aspose.tex.resourceproviders
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 10
-url: /python-net/aspose.tex.resourceproviders/
-is_root: false
+weight: 110
+url: /tex/python-net/aspose.tex.resourceproviders/
 ---
 
-The **Aspose.TeX.ResourceProviders**  namespace provides common classes for resource providers.
 
-### Classes
+Provides common classes related to resource providers.
+
+## Classes
 | Class | Description |
 | :- | :- |
-| [`FormatProvider`](/tex/python-net/aspose.tex.resourceproviders/formatprovider) | Class providing TeX format. |
-
-
+| [`FormatProvider`](/tex/python-net/aspose.tex.resourceproviders/formatprovider/) | Class providing TeX format. |

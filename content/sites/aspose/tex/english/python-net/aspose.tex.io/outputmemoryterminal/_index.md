@@ -1,11 +1,10 @@
-﻿---
+---
 title: OutputMemoryTerminal class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 160
-url: /python-net/aspose.tex.io/outputmemoryterminal/
-is_root: false
+url: /tex/python-net/aspose.tex.io/outputmemoryterminal/
 ---
 
 ## OutputMemoryTerminal class
@@ -15,21 +14,18 @@ Provides a memory stream as a terminal output destination.
 
 
 The OutputMemoryTerminal type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/tex/python-net/aspose.tex.io/outputmemoryterminal/__init__/#) | Constructs a new instance of OutputMemoryTerminal |
-
-
-### Properties
-| Property | Description |
+| `OutputMemoryTerminal()` | Initializes a new instance of the OutputMemoryTerminal class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [writer](/tex/python-net/aspose.tex.io/outputmemoryterminal/writer) | Gets the writer for the output terminal. |
-| [stream](/tex/python-net/aspose.tex.io/outputmemoryterminal/stream) | Gets the memory stream. |
-
-
+| `writer` | Gets the writer for the output terminal. |
+| `stream` | Gets the memory stream. |
 
 ### See Also
-* module [`aspose.tex.io`](..)
-* class [`IOutputTerminal`](/tex/python-net/aspose.tex.io/ioutputterminal)
+
+* module [`aspose.tex.io`](/tex/python-net/aspose.tex.io/)
+* package [`aspose.tex`](/tex/python-net/)
+

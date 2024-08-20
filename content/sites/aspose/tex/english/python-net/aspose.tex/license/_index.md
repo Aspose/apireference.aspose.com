@@ -1,11 +1,10 @@
-﻿---
+---
 title: License class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.tex/license/
-is_root: false
+url: /tex/python-net/aspose.tex/license/
 ---
 
 ## License class
@@ -15,32 +14,22 @@ Provides methods to license the component.
 
 
 The License type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/tex/python-net/aspose.tex/license/__init__/#) | Initializes a new instance of this class. |
-
-
-### Properties
-| Property | Description |
+| `License()` | Initializes a new instance of this class. |
+## Properties
+| Name | Description |
 | :- | :- |
-| [embedded](/tex/python-net/aspose.tex/license/embedded) | License number was added as embedded resource. |
-
-
-### Methods
-| Method | Description |
+| `embedded` | License number was added as embedded resource. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [set_license](/tex/python-net/aspose.tex/license/set_license/#str) | Licenses the component. |
-| [set_license](/tex/python-net/aspose.tex/license/set_license/#io.RawIOBase) | Licenses the component. |
-
-
-
-### Example 
-
-
-In this example, an attempt will be made to find a license file named MyLicense.lic
-in the folder that contains
+| `set_license(license_name)` | Licenses the component. |
+| `set_license(stream)` | Licenses the component. |
 
 ### See Also
-* module [`aspose.tex`](..)
+
+* module [`aspose.tex`](/tex/python-net/aspose.tex/)
+* package [`aspose.tex`](/tex/python-net/)
+
