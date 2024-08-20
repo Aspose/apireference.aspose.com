@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.io/inputfilesystemdirectory/
 
 Implements the regular file system's method for getting a file stream to read from.
 
-**Inheritance:**
-
-`InputFileSystemDirectory`
-
-<nbsp> <nbsp> [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
-
-
+**Inheritance:** `InputFileSystemDirectory` → [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
 
 The InputFileSystemDirectory type exposes the following members:
 ## Constructors

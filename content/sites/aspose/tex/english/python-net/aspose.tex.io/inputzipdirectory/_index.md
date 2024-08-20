@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.io/inputzipdirectory/
 
 Implements the method for getting a file stream to write to when working directory is a ZIP archive.
 
-**Inheritance:**
-
-`InputZipDirectory`
-
-<nbsp> <nbsp> [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
-
-
+**Inheritance:** `InputZipDirectory` → [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
 
 The InputZipDirectory type exposes the following members:
 ## Constructors

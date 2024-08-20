@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.features/svgmathrenderer/
 
 Implements rendering of math formula to SVG.
 
-**Inheritance:**
-
-`SvgMathRenderer`
-
-<nbsp> <nbsp> [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
-
-
+**Inheritance:** `SvgMathRenderer` → [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
 
 The SvgMathRenderer type exposes the following members:
 ## Constructors

@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.presentation.svg/svgsaveoptions/
 
 Class representing options of saving to SVG.
 
-**Inheritance:**
-
-`SvgSaveOptions`
-
-<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
-
-
+**Inheritance:** `SvgSaveOptions` → [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
 
 The SvgSaveOptions type exposes the following members:
 ## Constructors

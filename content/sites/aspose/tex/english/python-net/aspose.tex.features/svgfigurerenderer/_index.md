@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.features/svgfigurerenderer/
 
 Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as an SVG file.
 
-**Inheritance:**
-
-`SvgFigureRenderer`
-
-<nbsp> <nbsp> [`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
-
-
+**Inheritance:** `SvgFigureRenderer` → [`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
 
 The SvgFigureRenderer type exposes the following members:
 ## Constructors

@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.features/svgfigurerendereroptions/
 
 Options for rendering a LaTeX source code fragment to SVG.
 
-**Inheritance:**
-
-`SvgFigureRendererOptions`
-
-<nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `SvgFigureRendererOptions` → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The SvgFigureRendererOptions type exposes the following members:
 ## Constructors

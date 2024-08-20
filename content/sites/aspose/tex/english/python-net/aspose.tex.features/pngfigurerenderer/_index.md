@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.features/pngfigurerenderer/
 
 Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as a PNG image.
 
-**Inheritance:**
-
-`PngFigureRenderer`
-
-<nbsp> <nbsp> [`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
-
-
+**Inheritance:** `PngFigureRenderer` → [`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
 
 The PngFigureRenderer type exposes the following members:
 ## Constructors

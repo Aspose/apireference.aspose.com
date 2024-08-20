@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.presentation.image/pngsaveoptions/
 
 Class representing options of saving to PNG image(s).
 
-**Inheritance:**
-
-`PngSaveOptions`
-
-<nbsp> <nbsp> [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
-
-
+**Inheritance:** `PngSaveOptions` → [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions) → [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
 
 The PngSaveOptions type exposes the following members:
 ## Constructors

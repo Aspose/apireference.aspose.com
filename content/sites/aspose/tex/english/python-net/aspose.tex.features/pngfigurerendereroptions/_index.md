@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.features/pngfigurerendereroptions/
 
 Options for rendering a LaTeX source code fragment to PNG.
 
-**Inheritance:**
-
-`PngFigureRendererOptions`
-
-<nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `PngFigureRendererOptions` → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The PngFigureRendererOptions type exposes the following members:
 ## Constructors

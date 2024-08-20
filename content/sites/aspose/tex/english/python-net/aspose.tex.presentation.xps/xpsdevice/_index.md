@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.presentation.xps/xpsdevice/
 
 Implements the interface for outputting text and graphic content to XPS document.
 
-**Inheritance:**
-
-`XpsDevice`
-
-<nbsp> <nbsp> [`Device`](/tex/python-net/aspose.tex.presentation/device)
-
-
+**Inheritance:** `XpsDevice` → [`Device`](/tex/python-net/aspose.tex.presentation/device)
 
 The XpsDevice type exposes the following members:
 ## Constructors

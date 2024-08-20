@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.plugins/pngfigurerendererpluginoptions/
 
 The Figure Renderer plugin's options to render a LaTeX figure in PNG.
 
-**Inheritance:**
-
-`PngFigureRendererPluginOptions`
-
-<nbsp> <nbsp> [`FigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/figurerendererpluginoptions)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `PngFigureRendererPluginOptions` → [`FigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/figurerendererpluginoptions) → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The PngFigureRendererPluginOptions type exposes the following members:
 ## Constructors

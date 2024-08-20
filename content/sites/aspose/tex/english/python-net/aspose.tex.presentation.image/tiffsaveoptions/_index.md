@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.presentation.image/tiffsaveoptions/
 
 Class representing options of saving to TIFF image(s).
 
-**Inheritance:**
-
-`TiffSaveOptions`
-
-<nbsp> <nbsp> [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
-
-
+**Inheritance:** `TiffSaveOptions` → [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions) → [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
 
 The TiffSaveOptions type exposes the following members:
 ## Constructors

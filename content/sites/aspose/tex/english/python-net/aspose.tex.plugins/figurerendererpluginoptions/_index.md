@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.plugins/figurerendererpluginoptions/
 
 The options for the [FigureRendererPlugin](/tex/python-net/aspose.tex.plugins/figurerendererplugin/).
 
-**Inheritance:**
-
-`FigureRendererPluginOptions`
-
-<nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `FigureRendererPluginOptions` → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The FigureRendererPluginOptions type exposes the following members:
 ## Properties

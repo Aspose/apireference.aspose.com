@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.presentation.image/bmpsaveoptions/
 
 Class representing options of saving to BMP image(s).
 
-**Inheritance:**
-
-`BmpSaveOptions`
-
-<nbsp> <nbsp> [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
-
-
+**Inheritance:** `BmpSaveOptions` → [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions) → [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
 
 The BmpSaveOptions type exposes the following members:
 ## Constructors

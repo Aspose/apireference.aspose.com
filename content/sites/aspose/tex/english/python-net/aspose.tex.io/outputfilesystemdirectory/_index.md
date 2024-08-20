@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.io/outputfilesystemdirectory/
 
 Implements the regular file system's method for getting a file stream to write to.
 
-**Inheritance:**
-
-`OutputFileSystemDirectory`
-
-<nbsp> <nbsp> [`InputFileSystemDirectory`](/tex/python-net/aspose.tex.io/inputfilesystemdirectory)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
-
-
+**Inheritance:** `OutputFileSystemDirectory` → [`InputFileSystemDirectory`](/tex/python-net/aspose.tex.io/inputfilesystemdirectory) → [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
 
 The OutputFileSystemDirectory type exposes the following members:
 ## Constructors

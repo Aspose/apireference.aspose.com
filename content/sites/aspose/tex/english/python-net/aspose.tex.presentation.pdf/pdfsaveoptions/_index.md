@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.presentation.pdf/pdfsaveoptions/
 
 Class representing options of saving to PDF.
 
-**Inheritance:**
-
-`PdfSaveOptions`
-
-<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
-
-
+**Inheritance:** `PdfSaveOptions` → [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
 
 The PdfSaveOptions type exposes the following members:
 ## Constructors

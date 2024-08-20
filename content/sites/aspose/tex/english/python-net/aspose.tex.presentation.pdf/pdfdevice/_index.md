@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.presentation.pdf/pdfdevice/
 
 Implements the interface for outputting text and graphic content to PDF document.
 
-**Inheritance:**
-
-`PdfDevice`
-
-<nbsp> <nbsp> [`Device`](/tex/python-net/aspose.tex.presentation/device)
-
-
+**Inheritance:** `PdfDevice` → [`Device`](/tex/python-net/aspose.tex.presentation/device)
 
 The PdfDevice type exposes the following members:
 ## Constructors

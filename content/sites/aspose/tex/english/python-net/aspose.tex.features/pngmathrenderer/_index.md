@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.features/pngmathrenderer/
 
 Implements rendering of math formula to PNG.
 
-**Inheritance:**
-
-`PngMathRenderer`
-
-<nbsp> <nbsp> [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
-
-
+**Inheritance:** `PngMathRenderer` → [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
 
 The PngMathRenderer type exposes the following members:
 ## Constructors

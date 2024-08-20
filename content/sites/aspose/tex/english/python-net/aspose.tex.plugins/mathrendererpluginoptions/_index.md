@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.plugins/mathrendererpluginoptions/
 
 The options for the [MathRendererPlugin](/tex/python-net/aspose.tex.plugins/mathrendererplugin/).
 
-**Inheritance:**
-
-`MathRendererPluginOptions`
-
-<nbsp> <nbsp> [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `MathRendererPluginOptions` → [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions) → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The MathRendererPluginOptions type exposes the following members:
 ## Properties

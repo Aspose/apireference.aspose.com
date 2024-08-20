@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.presentation.xps/xpssaveoptions/
 
 Class representing options of saving to XPS.
 
-**Inheritance:**
-
-`XpsSaveOptions`
-
-<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
-
-
+**Inheritance:** `XpsSaveOptions` → [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
 
 The XpsSaveOptions type exposes the following members:
 ## Constructors

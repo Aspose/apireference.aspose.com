@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.presentation.image/imagedevice/
 
 Implements the interface for outputting text and graphic content to image(s).
 
-**Inheritance:**
-
-`ImageDevice`
-
-<nbsp> <nbsp> [`Device`](/tex/python-net/aspose.tex.presentation/device)
-
-
+**Inheritance:** `ImageDevice` → [`Device`](/tex/python-net/aspose.tex.presentation/device)
 
 The ImageDevice type exposes the following members:
 ## Constructors

@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.features/mathrendereroptions/
 
 Math formula common rendering options.
 
-**Inheritance:**
-
-`MathRendererOptions`
-
-<nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `MathRendererOptions` → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The MathRendererOptions type exposes the following members:
 ## Constructors

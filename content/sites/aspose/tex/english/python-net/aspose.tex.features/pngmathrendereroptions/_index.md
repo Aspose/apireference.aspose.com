@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.features/pngmathrendereroptions/
 
 Math formula PNG rendering options.
 
-**Inheritance:**
-
-`PngMathRendererOptions`
-
-<nbsp> <nbsp> [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `PngMathRendererOptions` → [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions) → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The PngMathRendererOptions type exposes the following members:
 ## Constructors

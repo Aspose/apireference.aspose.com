@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.commandline/base64exec/
 
 An implementation of `Base64` command emulation.
 
-**Inheritance:**
-
-`Base64Exec`
-
-<nbsp> <nbsp> [`Executable`](/tex/python-net/aspose.tex.commandline/executable)
-
-
+**Inheritance:** `Base64Exec` → [`Executable`](/tex/python-net/aspose.tex.commandline/executable)
 
 The Base64Exec type exposes the following members:
 ## Constructors

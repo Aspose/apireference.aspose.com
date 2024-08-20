@@ -11,13 +11,7 @@ url: /python-net/aspose.tex.presentation.image/imagesaveoptions/
 
 Basic class representing options of saving to raster images.
 
-**Inheritance:**
-
-`ImageSaveOptions`
-
-<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
-
-
+**Inheritance:** `ImageSaveOptions` → [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
 
 The ImageSaveOptions type exposes the following members:
 ## Properties

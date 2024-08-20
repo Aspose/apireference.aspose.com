@@ -11,15 +11,7 @@ url: /python-net/aspose.tex.features/svgmathrendereroptions/
 
 Math formula SVG rendering options.
 
-**Inheritance:**
-
-`SvgMathRendererOptions`
-
-<nbsp> <nbsp> [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions)
-
-<nbsp> <nbsp> <nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `SvgMathRendererOptions` → [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions) → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The SvgMathRendererOptions type exposes the following members:
 ## Constructors
