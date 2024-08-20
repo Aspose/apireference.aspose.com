@@ -1,11 +1,10 @@
-﻿---
+---
 title: IInteractiveDevice class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 40
 url: /python-net/aspose.tex.presentation/iinteractivedevice/
-is_root: false
 ---
 
 ## IInteractiveDevice class
@@ -15,13 +14,13 @@ The interface defining interactive features processing methods.
 
 
 The IInteractiveDevice type exposes the following members:
-
-### Methods
-| Method | Description |
+## Methods
+| Name | Description |
 | :- | :- |
-| [add_bookmark](/tex/python-net/aspose.tex.presentation/iinteractivedevice/add_bookmark/#str-aspose.pydrawing.PointF) | Adds the bookmark identified by the name. |
-
-
+| `add_bookmark(name, position)` | Adds the bookmark identified by the name. |
 
 ### See Also
-* module [`aspose.tex.presentation`](..)
+
+* module [`aspose.tex.presentation`](/tex/python-net/aspose.tex.presentation/)
+* package [`aspose.tex`](/tex/python-net/)
+

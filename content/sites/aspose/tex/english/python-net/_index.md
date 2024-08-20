@@ -1,26 +1,23 @@
-﻿---
+---
 title: Aspose.TeX for Python via .NET
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
 url: /python-net/
-is_root: true
 ---
 
-### Modules
+## Modules
 | Module | Description |
 | :- | :- |
-| [`aspose.tex`](/tex/python-net/aspose.tex) | The **Aspose.TeX**  is a root namespace for all classes of Aspose.TeX library which are either directly in it like **Device**  or indirectly through several namesubspaces. |
-| [`aspose.tex.commandline`](/tex/python-net/aspose.tex.commandline) | The **Aspose.TeX.CommandLine**  namespace provides classes for handling Object TeX's `\write18` primitive. |
-| [`aspose.tex.features`](/tex/python-net/aspose.tex.features) | The **Aspose.TeX.Features**  namespace provides additional TeX(LaTeX) features. |
-| [`aspose.tex.io`](/tex/python-net/aspose.tex.io) | The **Aspose.TeX.IO**  namespace provides classes for I/O that TeX engine performs. |
-| [`aspose.tex.plugins`](/tex/python-net/aspose.tex.plugins) | The **Aspose.TeX.Plugins**  is a root namespace for all classes of Aspose.TeX.Plugins classes. |
-| [`aspose.tex.presentation`](/tex/python-net/aspose.tex.presentation) | The **Aspose.TeX.Presentation**  namespace provides common classes for typesetting TeX files to other formats. |
-| [`aspose.tex.presentation.image`](/tex/python-net/aspose.tex.presentation.image) | The **Aspose.TeX.Presentation.Image**  namespace provides classes for typesetting TeX files to images. |
-| [`aspose.tex.presentation.pdf`](/tex/python-net/aspose.tex.presentation.pdf) | The **Aspose.TeX.Presentation.Pdf**  namespace provides classes for typesetting TeX files to PDF. |
-| [`aspose.tex.presentation.svg`](/tex/python-net/aspose.tex.presentation.svg) | The **Aspose.TeX.Presentation.Svg**  namespace provides classes for typesetting TeX files to SVG. |
-| [`aspose.tex.presentation.xps`](/tex/python-net/aspose.tex.presentation.xps) | The **Aspose.TeX.Presentation.Xps**  namespace provides classes for typesetting TeX files to XPS. |
-| [`aspose.tex.resourceproviders`](/tex/python-net/aspose.tex.resourceproviders) | The **Aspose.TeX.ResourceProviders**  namespace provides common classes for resource providers. |
-
-
+|[aspose.tex](/tex/python-net/aspose.tex/)|Contains all classes of the **Aspose.TeX** library, which are either directly contained within it, such as **TeXJob**, or indirectly through several nested namespaces.|
+|[aspose.tex.commandline](/tex/python-net/aspose.tex.commandline/)|Provides classes for handling Object TeX's `\write18` primitive.|
+|[aspose.tex.features](/tex/python-net/aspose.tex.features/)|Provides additional TeX(LaTeX) features.|
+|[aspose.tex.io](/tex/python-net/aspose.tex.io/)|Provides classes for I/O that TeX engine performs.|
+|[aspose.tex.plugins](/tex/python-net/aspose.tex.plugins/)|Provides classes related to plugins.|
+|[aspose.tex.presentation](/tex/python-net/aspose.tex.presentation/)|Provides common classes for typesetting TeX files to other formats.|
+|[aspose.tex.presentation.image](/tex/python-net/aspose.tex.presentation.image/)|Provides classes for typesetting TeX files into images.|
+|[aspose.tex.presentation.pdf](/tex/python-net/aspose.tex.presentation.pdf/)|Provides classes for typesetting TeX files into PDF.|
+|[aspose.tex.presentation.svg](/tex/python-net/aspose.tex.presentation.svg/)|Provides classes for typesetting TeX files into SVG.|
+|[aspose.tex.presentation.xps](/tex/python-net/aspose.tex.presentation.xps/)|Provides classes for typesetting TeX files into XPS.|
+|[aspose.tex.resourceproviders](/tex/python-net/aspose.tex.resourceproviders/)|Provides common classes related to resource providers.|

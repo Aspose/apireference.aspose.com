@@ -1,11 +1,10 @@
-﻿---
+---
 title: FigureRenderer class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
 url: /python-net/aspose.tex.features/figurerenderer/
-is_root: false
 ---
 
 ## FigureRenderer class
@@ -15,13 +14,13 @@ Implements rendering of some LaTeX compact content (supposed to fit one page) an
 
 
 The FigureRenderer type exposes the following members:
-
-### Methods
-| Method | Description |
+## Methods
+| Name | Description |
 | :- | :- |
-| [render](/tex/python-net/aspose.tex.features/figurerenderer/render/#str-io.RawIOBase-aspose.tex.features.FigureRendererOptions) | Renders some LaTeX code. |
-
-
+| `render(latex_body, stream, figure_renderer_options)` | Renders some LaTeX code. |
 
 ### See Also
-* module [`aspose.tex.features`](..)
+
+* module [`aspose.tex.features`](/tex/python-net/aspose.tex.features/)
+* package [`aspose.tex`](/tex/python-net/)
+

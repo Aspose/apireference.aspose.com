@@ -1,11 +1,10 @@
-﻿---
+---
 title: MathRenderer class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 70
 url: /python-net/aspose.tex.features/mathrenderer/
-is_root: false
 ---
 
 ## MathRenderer class
@@ -15,13 +14,13 @@ Implements rendering of math formula.
 
 
 The MathRenderer type exposes the following members:
-
-### Methods
-| Method | Description |
+## Methods
+| Name | Description |
 | :- | :- |
-| [render](/tex/python-net/aspose.tex.features/mathrenderer/render/#str-io.RawIOBase-aspose.tex.features.MathRendererOptions) | Renders a math formula. |
-
-
+| `render(formula, stream, math_renderer_options)` | Renders a math formula. |
 
 ### See Also
-* module [`aspose.tex.features`](..)
+
+* module [`aspose.tex.features`](/tex/python-net/aspose.tex.features/)
+* package [`aspose.tex`](/tex/python-net/)
+

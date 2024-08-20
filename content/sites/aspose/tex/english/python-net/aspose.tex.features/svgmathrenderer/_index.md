@@ -1,40 +1,30 @@
-﻿---
+---
 title: SvgMathRenderer class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 150
 url: /python-net/aspose.tex.features/svgmathrenderer/
-is_root: false
 ---
 
 ## SvgMathRenderer class
 
 Implements rendering of math formula to SVG.
 
-
-
-**Inheritance:** [`SvgMathRenderer`](/tex/python-net/aspose.tex.features/svgmathrenderer) → 
-[`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
-
-
+**Inheritance:** `SvgMathRenderer` → [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
 
 The SvgMathRenderer type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/tex/python-net/aspose.tex.features/svgmathrenderer/__init__/#) | Creates a new instance. |
-
-
-### Methods
-| Method | Description |
+| `SvgMathRenderer()` | Creates a new instance. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [render](/tex/python-net/aspose.tex.features/svgmathrenderer/render/#str-io.RawIOBase-aspose.tex.features.MathRendererOptions) | Renders a math formula. |
-
-
+| `render(formula, stream, math_renderer_options)` | Renders a math formula. |
 
 ### See Also
-* module [`aspose.tex.features`](..)
-* class [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
-* class [`SvgMathRenderer`](/tex/python-net/aspose.tex.features/svgmathrenderer)
+
+* module [`aspose.tex.features`](/tex/python-net/aspose.tex.features/)
+* package [`aspose.tex`](/tex/python-net/)
+

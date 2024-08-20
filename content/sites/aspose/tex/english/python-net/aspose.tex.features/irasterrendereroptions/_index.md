@@ -1,11 +1,10 @@
-﻿---
+---
 title: IRasterRendererOptions class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 40
 url: /python-net/aspose.tex.features/irasterrendereroptions/
-is_root: false
 ---
 
 ## IRasterRendererOptions class
@@ -15,13 +14,13 @@ The interface that defines properties of a raster image renderer.
 
 
 The IRasterRendererOptions type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [resolution](/tex/python-net/aspose.tex.features/irasterrendereroptions/resolution) | Gets/sets image resolution. |
-
-
+| `resolution` | Gets/sets image resolution. |
 
 ### See Also
-* module [`aspose.tex.features`](..)
+
+* module [`aspose.tex.features`](/tex/python-net/aspose.tex.features/)
+* package [`aspose.tex`](/tex/python-net/)
+

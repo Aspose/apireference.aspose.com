@@ -1,50 +1,38 @@
-﻿---
+---
 title: SvgMathRendererOptions class
-second_title: Aspose.TeX for Python via .NET API References
+second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 160
 url: /python-net/aspose.tex.features/svgmathrendereroptions/
-is_root: false
 ---
 
 ## SvgMathRendererOptions class
 
 Math formula SVG rendering options.
 
-
-
-**Inheritance:** [`SvgMathRendererOptions`](/tex/python-net/aspose.tex.features/svgmathrendereroptions) → 
-[`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions) → 
-[`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-
-
+**Inheritance:** `SvgMathRendererOptions` → [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions) → [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
 
 The SvgMathRendererOptions type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/tex/python-net/aspose.tex.features/svgmathrendereroptions/__init__/#) | Creates a new instance. |
-
-
-### Properties
-| Property | Description |
+| `SvgMathRendererOptions()` | Initializes a new instance of the SvgMathRendererOptions class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [preamble](/tex/python-net/aspose.tex.features/svgmathrendereroptions/preamble) | Gets/sets LaTeX document preamble. |
-| [scale](/tex/python-net/aspose.tex.features/svgmathrendereroptions/scale) | Gets/set the scale. 1000 means 100%, 1200 means 120%, etc. |
-| [background_color](/tex/python-net/aspose.tex.features/svgmathrendereroptions/background_color) | Gets/sets the background color. |
-| [log_stream](/tex/python-net/aspose.tex.features/svgmathrendereroptions/log_stream) | Gets/set the stream to write log output to. |
-| [show_terminal](/tex/python-net/aspose.tex.features/svgmathrendereroptions/show_terminal) | The flag that controls terminal output. If `true` then terminal output is written to console. |
-| [error_report](/tex/python-net/aspose.tex.features/svgmathrendereroptions/error_report) | Gets the error report. |
-| [required_input_directory](/tex/python-net/aspose.tex.features/svgmathrendereroptions/required_input_directory) | Gets/sets the directory for the required input, e.g.,<br/>packages that are beyond Aspose.TeX's LaTeX support. |
-| [margin](/tex/python-net/aspose.tex.features/svgmathrendereroptions/margin) | Gets/sets the margin width. |
-| [text_color](/tex/python-net/aspose.tex.features/svgmathrendereroptions/text_color) | Gets/sets the formula text color. |
-
-
+| `preamble` | Gets/sets LaTeX document preamble. |
+| `scale` | Gets/set the scale. 1000 means 100%, 1200 means 120%, etc. |
+| `background_color` | Gets/sets the background color. |
+| `log_stream` | Gets/set the stream to write log output to. |
+| `show_terminal` | The flag that controls terminal output. If `true` then terminal output is written to console. |
+| `error_report` | Gets the error report. |
+| `required_input_directory` | Gets/sets the directory for the required input, e.g.,<br/>            packages that are beyond Aspose.TeX's LaTeX support. |
+| `margin` | Gets/sets the margin width. |
+| `text_color` | Gets/sets the formula text color. |
 
 ### See Also
-* module [`aspose.tex.features`](..)
-* class [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
-* class [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions)
-* class [`SvgMathRendererOptions`](/tex/python-net/aspose.tex.features/svgmathrendereroptions)
+
+* module [`aspose.tex.features`](/tex/python-net/aspose.tex.features/)
+* package [`aspose.tex`](/tex/python-net/)
+
