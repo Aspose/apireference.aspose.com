@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /tex/python-net/aspose.tex.presentation.pdf/pdfdevice/
+url: /python-net/aspose.tex.presentation.pdf/pdfdevice/
 ---
 
 ## PdfDevice class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.presentation.pdf/pdfdevice/
 Implements the interface for outputting text and graphic content to PDF document.
 
 **Inheritance:**
+
 `PdfDevice`
-`    `[`Device`](/tex/python-net/aspose.tex.presentation/device)
+
+<nbsp> <nbsp> [`Device`](/tex/python-net/aspose.tex.presentation/device)
+
 
 
 The PdfDevice type exposes the following members:

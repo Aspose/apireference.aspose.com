@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 60
-url: /tex/python-net/aspose.tex.features/latexrepaireroptions/
+url: /python-net/aspose.tex.features/latexrepaireroptions/
 ---
 
 ## LaTeXRepairerOptions class

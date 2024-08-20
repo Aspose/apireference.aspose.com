@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /tex/python-net/aspose.tex.presentation.xps/xpssaveoptions/
+url: /python-net/aspose.tex.presentation.xps/xpssaveoptions/
 ---
 
 ## XpsSaveOptions class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.presentation.xps/xpssaveoptions/
 Class representing options of saving to XPS.
 
 **Inheritance:**
+
 `XpsSaveOptions`
-`    `[`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
+<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
 
 
 The XpsSaveOptions type exposes the following members:

@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /tex/python-net/aspose.tex.io/ifilecollector/
+url: /python-net/aspose.tex.io/ifilecollector/
 ---
 
 ## IFileCollector class

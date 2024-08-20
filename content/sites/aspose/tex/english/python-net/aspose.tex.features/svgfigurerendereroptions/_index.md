@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 140
-url: /tex/python-net/aspose.tex.features/svgfigurerendereroptions/
+url: /python-net/aspose.tex.features/svgfigurerendereroptions/
 ---
 
 ## SvgFigureRendererOptions class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.features/svgfigurerendereroptions/
 Options for rendering a LaTeX source code fragment to SVG.
 
 **Inheritance:**
+
 `SvgFigureRendererOptions`
-`    `[`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
+<nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
 
 
 The SvgFigureRendererOptions type exposes the following members:

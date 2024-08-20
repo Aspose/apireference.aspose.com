@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 100
-url: /tex/python-net/aspose.tex.features/pngfigurerendereroptions/
+url: /python-net/aspose.tex.features/pngfigurerendereroptions/
 ---
 
 ## PngFigureRendererOptions class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.features/pngfigurerendereroptions/
 Options for rendering a LaTeX source code fragment to PNG.
 
 **Inheritance:**
+
 `PngFigureRendererOptions`
-`    `[`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
+<nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
 
 
 The PngFigureRendererOptions type exposes the following members:

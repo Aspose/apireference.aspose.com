@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 110
-url: /tex/python-net/aspose.tex.plugins/pngfigurerendererpluginoptions/
+url: /python-net/aspose.tex.plugins/pngfigurerendererpluginoptions/
 ---
 
 ## PngFigureRendererPluginOptions class
@@ -12,9 +12,13 @@ url: /tex/python-net/aspose.tex.plugins/pngfigurerendererpluginoptions/
 The Figure Renderer plugin's options to render a LaTeX figure in PNG.
 
 **Inheritance:**
+
 `PngFigureRendererPluginOptions`
-`    `[`FigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/figurerendererpluginoptions)
-`        `[`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
+<nbsp> <nbsp> [`FigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/figurerendererpluginoptions)
+
+<nbsp> <nbsp> <nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
 
 
 The PngFigureRendererPluginOptions type exposes the following members:

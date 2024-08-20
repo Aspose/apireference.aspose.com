@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /tex/python-net/aspose.tex.presentation.image/imagedevice/
+url: /python-net/aspose.tex.presentation.image/imagedevice/
 ---
 
 ## ImageDevice class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.presentation.image/imagedevice/
 Implements the interface for outputting text and graphic content to image(s).
 
 **Inheritance:**
+
 `ImageDevice`
-`    `[`Device`](/tex/python-net/aspose.tex.presentation/device)
+
+<nbsp> <nbsp> [`Device`](/tex/python-net/aspose.tex.presentation/device)
+
 
 
 The ImageDevice type exposes the following members:

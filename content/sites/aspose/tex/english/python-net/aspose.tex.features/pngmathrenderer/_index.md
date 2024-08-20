@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 110
-url: /tex/python-net/aspose.tex.features/pngmathrenderer/
+url: /python-net/aspose.tex.features/pngmathrenderer/
 ---
 
 ## PngMathRenderer class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.features/pngmathrenderer/
 Implements rendering of math formula to PNG.
 
 **Inheritance:**
+
 `PngMathRenderer`
-`    `[`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
+
+<nbsp> <nbsp> [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
+
 
 
 The PngMathRenderer type exposes the following members:

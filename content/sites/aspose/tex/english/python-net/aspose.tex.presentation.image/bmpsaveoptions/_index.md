@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /tex/python-net/aspose.tex.presentation.image/bmpsaveoptions/
+url: /python-net/aspose.tex.presentation.image/bmpsaveoptions/
 ---
 
 ## BmpSaveOptions class
@@ -12,9 +12,13 @@ url: /tex/python-net/aspose.tex.presentation.image/bmpsaveoptions/
 Class representing options of saving to BMP image(s).
 
 **Inheritance:**
+
 `BmpSaveOptions`
-`    `[`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
-`        `[`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
+<nbsp> <nbsp> [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
+
+<nbsp> <nbsp> <nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
 
 
 The BmpSaveOptions type exposes the following members:

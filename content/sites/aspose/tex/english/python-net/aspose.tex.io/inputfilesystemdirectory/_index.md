@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 80
-url: /tex/python-net/aspose.tex.io/inputfilesystemdirectory/
+url: /python-net/aspose.tex.io/inputfilesystemdirectory/
 ---
 
 ## InputFileSystemDirectory class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.io/inputfilesystemdirectory/
 Implements the regular file system's method for getting a file stream to read from.
 
 **Inheritance:**
+
 `InputFileSystemDirectory`
-`    `[`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
+
+<nbsp> <nbsp> [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
+
 
 
 The InputFileSystemDirectory type exposes the following members:

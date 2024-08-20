@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 90
-url: /tex/python-net/aspose.tex.features/pngfigurerenderer/
+url: /python-net/aspose.tex.features/pngfigurerenderer/
 ---
 
 ## PngFigureRenderer class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.features/pngfigurerenderer/
 Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as a PNG image.
 
 **Inheritance:**
+
 `PngFigureRenderer`
-`    `[`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
+
+<nbsp> <nbsp> [`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
+
 
 
 The PngFigureRenderer type exposes the following members:

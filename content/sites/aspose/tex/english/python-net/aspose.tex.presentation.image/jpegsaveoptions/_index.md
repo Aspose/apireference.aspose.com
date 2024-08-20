@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /tex/python-net/aspose.tex.presentation.image/jpegsaveoptions/
+url: /python-net/aspose.tex.presentation.image/jpegsaveoptions/
 ---
 
 ## JpegSaveOptions class
@@ -12,9 +12,13 @@ url: /tex/python-net/aspose.tex.presentation.image/jpegsaveoptions/
 Class representing options of saving to JPEG image(s).
 
 **Inheritance:**
+
 `JpegSaveOptions`
-`    `[`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
-`        `[`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
+<nbsp> <nbsp> [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
+
+<nbsp> <nbsp> <nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
 
 
 The JpegSaveOptions type exposes the following members:

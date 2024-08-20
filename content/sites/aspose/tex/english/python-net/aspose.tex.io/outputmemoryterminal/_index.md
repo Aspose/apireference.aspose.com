@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 160
-url: /tex/python-net/aspose.tex.io/outputmemoryterminal/
+url: /python-net/aspose.tex.io/outputmemoryterminal/
 ---
 
 ## OutputMemoryTerminal class

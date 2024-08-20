@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 40
-url: /tex/python-net/aspose.tex.presentation.pdf/pdfencryptionalgorithm/
+url: /python-net/aspose.tex.presentation.pdf/pdfencryptionalgorithm/
 ---
 
 ## PdfEncryptionAlgorithm enumeration

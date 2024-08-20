@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 130
-url: /tex/python-net/aspose.tex.features/svgfigurerenderer/
+url: /python-net/aspose.tex.features/svgfigurerenderer/
 ---
 
 ## SvgFigureRenderer class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.features/svgfigurerenderer/
 Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as an SVG file.
 
 **Inheritance:**
+
 `SvgFigureRenderer`
-`    `[`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
+
+<nbsp> <nbsp> [`FigureRenderer`](/tex/python-net/aspose.tex.features/figurerenderer)
+
 
 
 The SvgFigureRenderer type exposes the following members:

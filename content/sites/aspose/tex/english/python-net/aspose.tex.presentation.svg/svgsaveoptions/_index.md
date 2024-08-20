@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /tex/python-net/aspose.tex.presentation.svg/svgsaveoptions/
+url: /python-net/aspose.tex.presentation.svg/svgsaveoptions/
 ---
 
 ## SvgSaveOptions class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.presentation.svg/svgsaveoptions/
 Class representing options of saving to SVG.
 
 **Inheritance:**
+
 `SvgSaveOptions`
-`    `[`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
+<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
 
 
 The SvgSaveOptions type exposes the following members:

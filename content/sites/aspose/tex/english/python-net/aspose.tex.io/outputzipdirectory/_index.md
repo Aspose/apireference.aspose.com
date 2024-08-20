@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 170
-url: /tex/python-net/aspose.tex.io/outputzipdirectory/
+url: /python-net/aspose.tex.io/outputzipdirectory/
 ---
 
 ## OutputZipDirectory class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.io/outputzipdirectory/
 Implements the method for getting a file stream to write to when working directory is a ZIP archive.
 
 **Inheritance:**
+
 `OutputZipDirectory`
-`    `[`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
+
+<nbsp> <nbsp> [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
+
 
 
 The OutputZipDirectory type exposes the following members:

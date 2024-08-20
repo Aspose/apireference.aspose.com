@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 160
-url: /tex/python-net/aspose.tex.plugins/svgfigurerendererpluginoptions/
+url: /python-net/aspose.tex.plugins/svgfigurerendererpluginoptions/
 ---
 
 ## SvgFigureRendererPluginOptions class
@@ -12,9 +12,13 @@ url: /tex/python-net/aspose.tex.plugins/svgfigurerendererpluginoptions/
 The Figure Renderer plugin's options to render a LaTeX figure in SVG.
 
 **Inheritance:**
+
 `SvgFigureRendererPluginOptions`
-`    `[`FigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/figurerendererpluginoptions)
-`        `[`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
+<nbsp> <nbsp> [`FigureRendererPluginOptions`](/tex/python-net/aspose.tex.plugins/figurerendererpluginoptions)
+
+<nbsp> <nbsp> <nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
 
 
 The SvgFigureRendererPluginOptions type exposes the following members:

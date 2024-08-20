@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /tex/python-net/aspose.tex.plugins/figurerendererpluginoptions/
+url: /python-net/aspose.tex.plugins/figurerendererpluginoptions/
 ---
 
 ## FigureRendererPluginOptions class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.plugins/figurerendererpluginoptions/
 The options for the [FigureRendererPlugin](/tex/python-net/aspose.tex.plugins/figurerendererplugin/).
 
 **Inheritance:**
+
 `FigureRendererPluginOptions`
-`    `[`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
+<nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
 
 
 The FigureRendererPluginOptions type exposes the following members:

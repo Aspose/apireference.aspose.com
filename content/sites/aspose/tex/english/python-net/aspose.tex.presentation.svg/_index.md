@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 90
-url: /tex/python-net/aspose.tex.presentation.svg/
+url: /python-net/aspose.tex.presentation.svg/
 ---
 
 

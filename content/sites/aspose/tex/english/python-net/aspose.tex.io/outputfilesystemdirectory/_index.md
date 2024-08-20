@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 140
-url: /tex/python-net/aspose.tex.io/outputfilesystemdirectory/
+url: /python-net/aspose.tex.io/outputfilesystemdirectory/
 ---
 
 ## OutputFileSystemDirectory class
@@ -12,9 +12,13 @@ url: /tex/python-net/aspose.tex.io/outputfilesystemdirectory/
 Implements the regular file system's method for getting a file stream to write to.
 
 **Inheritance:**
+
 `OutputFileSystemDirectory`
-`    `[`InputFileSystemDirectory`](/tex/python-net/aspose.tex.io/inputfilesystemdirectory)
-`        `[`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
+
+<nbsp> <nbsp> [`InputFileSystemDirectory`](/tex/python-net/aspose.tex.io/inputfilesystemdirectory)
+
+<nbsp> <nbsp> <nbsp> <nbsp> [`InputWorkingDirectory`](/tex/python-net/aspose.tex.io/inputworkingdirectory)
+
 
 
 The OutputFileSystemDirectory type exposes the following members:

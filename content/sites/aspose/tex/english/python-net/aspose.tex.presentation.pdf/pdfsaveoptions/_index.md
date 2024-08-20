@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 30
-url: /tex/python-net/aspose.tex.presentation.pdf/pdfsaveoptions/
+url: /python-net/aspose.tex.presentation.pdf/pdfsaveoptions/
 ---
 
 ## PdfSaveOptions class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.presentation.pdf/pdfsaveoptions/
 Class representing options of saving to PDF.
 
 **Inheritance:**
+
 `PdfSaveOptions`
-`    `[`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
+<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
 
 
 The PdfSaveOptions type exposes the following members:

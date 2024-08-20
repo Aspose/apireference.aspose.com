@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 140
-url: /tex/python-net/aspose.tex.plugins/streamdatasource/
+url: /python-net/aspose.tex.plugins/streamdatasource/
 ---
 
 ## StreamDataSource class

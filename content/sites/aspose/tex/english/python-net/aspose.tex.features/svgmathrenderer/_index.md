@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 150
-url: /tex/python-net/aspose.tex.features/svgmathrenderer/
+url: /python-net/aspose.tex.features/svgmathrenderer/
 ---
 
 ## SvgMathRenderer class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.features/svgmathrenderer/
 Implements rendering of math formula to SVG.
 
 **Inheritance:**
+
 `SvgMathRenderer`
-`    `[`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
+
+<nbsp> <nbsp> [`MathRenderer`](/tex/python-net/aspose.tex.features/mathrenderer)
+
 
 
 The SvgMathRenderer type exposes the following members:

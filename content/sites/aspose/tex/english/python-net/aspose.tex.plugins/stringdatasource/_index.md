@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 150
-url: /tex/python-net/aspose.tex.plugins/stringdatasource/
+url: /python-net/aspose.tex.plugins/stringdatasource/
 ---
 
 ## StringDataSource class

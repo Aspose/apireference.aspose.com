@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 50
-url: /tex/python-net/aspose.tex.presentation.image/pngsaveoptions/
+url: /python-net/aspose.tex.presentation.image/pngsaveoptions/
 ---
 
 ## PngSaveOptions class
@@ -12,9 +12,13 @@ url: /tex/python-net/aspose.tex.presentation.image/pngsaveoptions/
 Class representing options of saving to PNG image(s).
 
 **Inheritance:**
+
 `PngSaveOptions`
-`    `[`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
-`        `[`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
+<nbsp> <nbsp> [`ImageSaveOptions`](/tex/python-net/aspose.tex.presentation.image/imagesaveoptions)
+
+<nbsp> <nbsp> <nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
 
 
 The PngSaveOptions type exposes the following members:

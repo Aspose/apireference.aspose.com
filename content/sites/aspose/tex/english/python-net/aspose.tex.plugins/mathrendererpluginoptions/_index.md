@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 90
-url: /tex/python-net/aspose.tex.plugins/mathrendererpluginoptions/
+url: /python-net/aspose.tex.plugins/mathrendererpluginoptions/
 ---
 
 ## MathRendererPluginOptions class
@@ -12,9 +12,13 @@ url: /tex/python-net/aspose.tex.plugins/mathrendererpluginoptions/
 The options for the [MathRendererPlugin](/tex/python-net/aspose.tex.plugins/mathrendererplugin/).
 
 **Inheritance:**
+
 `MathRendererPluginOptions`
-`    `[`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions)
-`        `[`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
+<nbsp> <nbsp> [`MathRendererOptions`](/tex/python-net/aspose.tex.features/mathrendereroptions)
+
+<nbsp> <nbsp> <nbsp> <nbsp> [`FigureRendererOptions`](/tex/python-net/aspose.tex.features/figurerendereroptions)
+
 
 
 The MathRendererPluginOptions type exposes the following members:

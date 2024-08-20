@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 50
-url: /tex/python-net/aspose.tex.presentation/saveoptions/
+url: /python-net/aspose.tex.presentation/saveoptions/
 ---
 
 ## SaveOptions class

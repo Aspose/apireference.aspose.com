@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /tex/python-net/aspose.tex.commandline/base64exec/
+url: /python-net/aspose.tex.commandline/base64exec/
 ---
 
 ## Base64Exec class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.commandline/base64exec/
 An implementation of `Base64` command emulation.
 
 **Inheritance:**
+
 `Base64Exec`
-`    `[`Executable`](/tex/python-net/aspose.tex.commandline/executable)
+
+<nbsp> <nbsp> [`Executable`](/tex/python-net/aspose.tex.commandline/executable)
+
 
 
 The Base64Exec type exposes the following members:

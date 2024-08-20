@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 180
-url: /tex/python-net/aspose.tex.plugins/datatype/
+url: /python-net/aspose.tex.plugins/datatype/
 ---
 
 ## DataType enumeration

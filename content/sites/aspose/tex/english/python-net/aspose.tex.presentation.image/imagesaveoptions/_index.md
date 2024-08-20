@@ -4,7 +4,7 @@ second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
 weight: 30
-url: /tex/python-net/aspose.tex.presentation.image/imagesaveoptions/
+url: /python-net/aspose.tex.presentation.image/imagesaveoptions/
 ---
 
 ## ImageSaveOptions class
@@ -12,8 +12,11 @@ url: /tex/python-net/aspose.tex.presentation.image/imagesaveoptions/
 Basic class representing options of saving to raster images.
 
 **Inheritance:**
+
 `ImageSaveOptions`
-`    `[`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
+<nbsp> <nbsp> [`SaveOptions`](/tex/python-net/aspose.tex.presentation/saveoptions)
+
 
 
 The ImageSaveOptions type exposes the following members:
