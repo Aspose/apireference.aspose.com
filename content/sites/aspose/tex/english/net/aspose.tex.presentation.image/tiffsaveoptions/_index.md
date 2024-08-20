@@ -25,7 +25,7 @@ public class TiffSaveOptions : ImageSaveOptions
 | Name | Description |
 | --- | --- |
 | [Compression](../../aspose.tex.presentation.image/tiffsaveoptions/compression/) { get; set; } | Gets/sets the TIFF compression scheme. |
-| [DeviceWritesImages](../../aspose.tex.presentation.image/imagesaveoptions/devicewritesimages/) { get; set; } | Gets/sets the flag that determines whether the image device will write output images. Set it to |
+| [DeviceWritesImages](../../aspose.tex.presentation.image/imagesaveoptions/devicewritesimages/) { get; set; } | Gets/sets the flag that determines whether the image device will write output images. Set it to `false` if you are planning to write images using image device's Result property. |
 | [InterpolationMode](../../aspose.tex.presentation.image/imagesaveoptions/interpolationmode/) { get; set; } | Gets/sets the interpolation mode. |
 | [Multipage](../../aspose.tex.presentation.image/tiffsaveoptions/multipage/) { get; set; } | Gets/sets the flag that defines if multiple images should be saved in a single multipage TIFF file. |
 | [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas/) { get; set; } | Gets/sets the flag that allows to rasterize math formulas. |

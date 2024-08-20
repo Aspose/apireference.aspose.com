@@ -24,7 +24,7 @@ public class JpegSaveOptions : ImageSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [DeviceWritesImages](../../aspose.tex.presentation.image/imagesaveoptions/devicewritesimages/) { get; set; } | Gets/sets the flag that determines whether the image device will write output images. Set it to |
+| [DeviceWritesImages](../../aspose.tex.presentation.image/imagesaveoptions/devicewritesimages/) { get; set; } | Gets/sets the flag that determines whether the image device will write output images. Set it to `false` if you are planning to write images using image device's Result property. |
 | [InterpolationMode](../../aspose.tex.presentation.image/imagesaveoptions/interpolationmode/) { get; set; } | Gets/sets the interpolation mode. |
 | [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas/) { get; set; } | Gets/sets the flag that allows to rasterize math formulas. |
 | [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics/) { get; set; } | Gets/sets the flag that allows to rasterize PS/EPS and/or XPS/OXPS included graphics. |

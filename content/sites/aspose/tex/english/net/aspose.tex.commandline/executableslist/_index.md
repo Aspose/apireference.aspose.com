@@ -1,20 +1,14 @@
 ---
 title: Class ExecutablesList
 second_title: Aspose.TeX for .NET API Reference
-description: Aspose.TeX.CommandLine.ExecutablesList class. Encapsulates a collection of objects that emulate executables which can be executed using the
+description: Aspose.TeX.CommandLine.ExecutablesList class. Encapsulates a collection of objects that emulate executables which can be executed using the write18 commands in ObjectTeX
 type: docs
 weight: 40
 url: /net/aspose.tex.commandline/executableslist/
 ---
 ## ExecutablesList class
 
-Encapsulates a collection of objects that emulate executables, which can be executed using the
-
-```csharp
-\write18
-```
-
-commands in ObjectTeX.
+Encapsulates a collection of objects that emulate executables, which can be executed using the `\write18` commands in ObjectTeX.
 
 ```csharp
 public class ExecutablesList
