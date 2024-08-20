@@ -12,7 +12,7 @@ is_root: true
 | Namespace | Description |
 | --- | --- |
 | [Aspose.TeX](./aspose.tex/) | The **Aspose.TeX** is a root namespace for all classes of Aspose.TeX library which are either directly in it like **Device** or indirectly through several namesubspaces. |
-| [Aspose.TeX.CommandLine](./aspose.tex.commandline/) | The **Aspose.TeX.CommandLine** namespace provides classes for handling Object TeX's |
+| [Aspose.TeX.CommandLine](./aspose.tex.commandline/) | The **Aspose.TeX.CommandLine** namespace provides classes for handling Object TeX's `\write18` primitive. |
 | [Aspose.TeX.Features](./aspose.tex.features/) | The **Aspose.TeX.Features** namespace provides additional TeX(LaTeX) features. |
 | [Aspose.TeX.IO](./aspose.tex.io/) | The **Aspose.TeX.IO** namespace provides classes for I/O that TeX engine performs. |
 | [Aspose.TeX.Plugins](./aspose.tex.plugins/) | The **Aspose.TeX.Plugins** is a root namespace for all classes of Aspose.TeX.Plugins classes. |
