@@ -27,8 +27,8 @@ Class incapsulating the main entity of XPS document that provides manipulation m
 
 | Method | Description |
 | --- | --- |
-| [<T>add(T element)](#-T-add-T-) | Adds a content element (Canvas, Path or Glyphs) |
-| [<T>insert(int index, T element)](#-T-insert-int-T-) | Inserts an element (Canvas, Path or Glyphs) to the active page at  index  position. |
+| [<T>add(T element)](#-T-add-T-) | Adds a content element (Canvas, Path, or Glyphs) |
+| [<T>insert(int index, T element)](#-T-insert-int-T-) | Inserts an element (Canvas, Path, or Glyphs) to the active page at  index  position. |
 | [<T>remove(T element)](#-T-remove-T-) | Removes an element from the active page. |
 | [addCanvas()](#addCanvas--) | Adds a new canvas to the active page. |
 | [addDocument()](#addDocument--) | Adds an empty document with default page size and selects added document as active. |
@@ -120,8 +120,8 @@ Class incapsulating the main entity of XPS document that provides manipulation m
 | [isLicensed()](#isLicensed--) | Indicates whether Aspose.Page for Java product license is accessed and valid. |
 | [merge(String[] filesForMerge, OutputStream outStream)](#merge-java.lang.String---java.io.OutputStream-) | Merging several XPS files into one XPS document. |
 | [merge(String[] filesForMerge, String outXpsFilePath)](#merge-java.lang.String---java.lang.String-) | Merging several XPS files into one XPS document. |
-| [mergeToPdf(String[] filesForMerge, OutputStream stream, SaveOptions options)](#mergeToPdf-java.lang.String---java.io.OutputStream-com.aspose.page.SaveOptions-) | Merging XPS documents to PDF using the  Device  instance. |
-| [mergeToPdf(String[] filesForMerge, String outPdfFilePath, SaveOptions options)](#mergeToPdf-java.lang.String---java.lang.String-com.aspose.page.SaveOptions-) | Merging XPS documents to PDF using the  Device  instance. |
+| [mergeToPdf(String outPdfFilePath, String[] filesForMerge, PdfSaveOptions options)](#mergeToPdf-java.lang.String-java.lang.String---com.aspose.xps.rendering.PdfSaveOptions-) | Merging XPS documents to PDF using the  Device  instance. |
+| [mergeToPdf(String[] filesForMerge, OutputStream pdfStream, PdfSaveOptions options)](#mergeToPdf-java.lang.String---java.io.OutputStream-com.aspose.xps.rendering.PdfSaveOptions-) | Merging XPS documents to PDF using the  Device  instance. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [removeAt(int index)](#removeAt-int-) | Removes an element at  index  position from the active page. |
@@ -186,7 +186,7 @@ public T <T>add(T element)
 ```
 
 
-Adds a content element (Canvas, Path or Glyphs)
+Adds a content element (Canvas, Path, or Glyphs)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -201,7 +201,7 @@ public T <T>insert(int index, T element)
 ```
 
 
-Inserts an element (Canvas, Path or Glyphs) to the active page at  index  position.
+Inserts an element (Canvas, Path, or Glyphs) to the active page at  index  position.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1576,9 +1576,24 @@ Merging several XPS files into one XPS document.
 | filesForMerge | java.lang.String[] | XPS files for merging with this document. |
 | outXpsFilePath | java.lang.String | The output XPS file path. |
 
-### mergeToPdf(String[] filesForMerge, OutputStream stream, SaveOptions options) {#mergeToPdf-java.lang.String---java.io.OutputStream-com.aspose.page.SaveOptions-}
+### mergeToPdf(String outPdfFilePath, String[] filesForMerge, PdfSaveOptions options) {#mergeToPdf-java.lang.String-java.lang.String---com.aspose.xps.rendering.PdfSaveOptions-}
 ```
-public void mergeToPdf(String[] filesForMerge, OutputStream stream, SaveOptions options)
+public void mergeToPdf(String outPdfFilePath, String[] filesForMerge, PdfSaveOptions options)
+```
+
+
+Merging XPS documents to PDF using the  Device  instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outPdfFilePath | java.lang.String | The output PDF file path. |
+| filesForMerge | java.lang.String[] | XPS files for merging with this document to an output device. |
+| options | [PdfSaveOptions](../../com.aspose.xps.rendering/pdfsaveoptions) | Document saving options. |
+
+### mergeToPdf(String[] filesForMerge, OutputStream pdfStream, PdfSaveOptions options) {#mergeToPdf-java.lang.String---java.io.OutputStream-com.aspose.xps.rendering.PdfSaveOptions-}
+```
+public void mergeToPdf(String[] filesForMerge, OutputStream pdfStream, PdfSaveOptions options)
 ```
 
 
@@ -1588,23 +1603,8 @@ Merging XPS documents to PDF using the  Device  instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filesForMerge | java.lang.String[] | XPS files for merging with this document to an output device. |
-| stream | java.io.OutputStream | The output stream to write the resulting PDF to. |
-| options | [SaveOptions](../../com.aspose.page/saveoptions) | Document saving options. |
-
-### mergeToPdf(String[] filesForMerge, String outPdfFilePath, SaveOptions options) {#mergeToPdf-java.lang.String---java.lang.String-com.aspose.page.SaveOptions-}
-```
-public void mergeToPdf(String[] filesForMerge, String outPdfFilePath, SaveOptions options)
-```
-
-
-Merging XPS documents to PDF using the  Device  instance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filesForMerge | java.lang.String[] | XPS files for merging with this document to an output device. |
-| outPdfFilePath | java.lang.String | The output PDF filepath. |
-| options | [SaveOptions](../../com.aspose.page/saveoptions) | Document saving options. |
+| pdfStream | java.io.OutputStream | The output stream to write the resulting PDF to. |
+| options | [PdfSaveOptions](../../com.aspose.xps.rendering/pdfsaveoptions) | Document saving options. |
 
 ### notify() {#notify--}
 ```

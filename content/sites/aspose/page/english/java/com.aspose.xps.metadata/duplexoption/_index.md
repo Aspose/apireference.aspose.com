@@ -37,7 +37,7 @@ Describes the  JobDuplexAllDocumentsContiguously  and  DocumentDuplex  features 
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### OneSided {#OneSided}
 ```
-public static Duplex.DuplexOption OneSided
+public static final Duplex.DuplexOption OneSided
 ```
 
 
@@ -129,7 +129,7 @@ public String toString()
 java.lang.String
 ### twoSidedLongEdge(Duplex.DuplexMode duplexMode) {#twoSidedLongEdge-com.aspose.xps.metadata.Duplex.DuplexMode-}
 ```
-public static Duplex.DuplexOption twoSidedLongEdge(Duplex.DuplexMode duplexMode)
+public static final Duplex.DuplexOption twoSidedLongEdge(Duplex.DuplexMode duplexMode)
 ```
 
 
@@ -144,7 +144,7 @@ Specifies two sided printing such that the page is flipped parallel to the  Medi
 [DuplexOption](../../com.aspose.xps.metadata/duplexoption) - The  Duplex  option.
 ### twoSidedShortEdge(Duplex.DuplexMode duplexMode) {#twoSidedShortEdge-com.aspose.xps.metadata.Duplex.DuplexMode-}
 ```
-public static Duplex.DuplexOption twoSidedShortEdge(Duplex.DuplexMode duplexMode)
+public static final Duplex.DuplexOption twoSidedShortEdge(Duplex.DuplexMode duplexMode)
 ```
 
 

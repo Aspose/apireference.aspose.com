@@ -3,7 +3,7 @@ title: TransformedStroke
 second_title: Aspose.Page for Java API Reference
 description: A stroke that contains transformation.
 type: docs
-weight: 18
+weight: 17
 url: /java/com.aspose.page/transformedstroke/
 ---
 **Inheritance:**

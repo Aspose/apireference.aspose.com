@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is PostScript.
 
 ```csharp
-public static JobDeviceLanguageOption PostScript;
+public static readonly JobDeviceLanguageOption PostScript;
 ```
 
 ### See Also

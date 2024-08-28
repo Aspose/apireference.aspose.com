@@ -3,7 +3,7 @@ title: IGlyph
 second_title: Aspose.Page for Java API Reference
 description: This interface give access to main parameters of glyph.
 type: docs
-weight: 20
+weight: 19
 url: /java/com.aspose.page/iglyph/
 ---```
 public interface IGlyph

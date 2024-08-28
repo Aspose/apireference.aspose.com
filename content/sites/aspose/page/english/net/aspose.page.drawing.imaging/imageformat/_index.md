@@ -3,7 +3,7 @@ title: Enum ImageFormat
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Drawing.Imaging.ImageFormat enum. 
 type: docs
-weight: 320
+weight: 50
 url: /net/aspose.page.drawing.imaging/imageformat/
 ---
 ## ImageFormat enumeration
@@ -21,6 +21,8 @@ public enum ImageFormat
 | Png | `2` | PNG image format. |
 | Gif | `3` | GIF image format. |
 | Tiff | `4` | TIFF image format. |
+| Emf | `5` | EMF image format. |
+| Wmf | `6` | WMF image format. |
 
 ### See Also
 

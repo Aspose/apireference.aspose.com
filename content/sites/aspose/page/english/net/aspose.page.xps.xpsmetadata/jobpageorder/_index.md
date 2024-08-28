@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder class. Defines the order of physical pages for the output. https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 2100
+weight: 1780
 url: /net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class
@@ -30,7 +30,7 @@ public sealed class JobPageOrder : Feature, IJobPrintTicketItem
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

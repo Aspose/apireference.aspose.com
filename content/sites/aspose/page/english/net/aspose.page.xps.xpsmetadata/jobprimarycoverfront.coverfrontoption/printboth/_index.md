@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverfront.coverfrontoption/prin
 Specifies the cover indicated by "CoverFrontSource" may be printed on either side of the cover sheet. If a [`JobPrimaryCoverFrontSource`](../../jobprimarycoverfrontsource/)[`ParameterInit`](../../parameterinit/) element is not specified, this Option should be ignored.
 
 ```csharp
-public static CoverFrontOption PrintBoth;
+public static readonly CoverFrontOption PrintBoth;
 ```
 
 ### See Also

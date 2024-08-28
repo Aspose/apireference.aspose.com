@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverfront.coverfrontoption/blan
 Specifies a blank cover sheet should be printed.
 
 ```csharp
-public static CoverFrontOption BlankCover;
+public static readonly CoverFrontOption BlankCover;
 ```
 
 ### See Also

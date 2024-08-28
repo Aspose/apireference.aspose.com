@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is KPDL.
 
 ```csharp
-public static JobDeviceLanguageOption KPDL;
+public static readonly JobDeviceLanguageOption KPDL;
 ```
 
 ### See Also

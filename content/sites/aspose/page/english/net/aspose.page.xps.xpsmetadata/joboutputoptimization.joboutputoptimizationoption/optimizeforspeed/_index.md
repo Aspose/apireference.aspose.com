@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization.joboutputoptimizatio
 Specifies the job processing be optimized for speed of output.
 
 ```csharp
-public static JobOutputOptimizationOption OptimizeForSpeed;
+public static readonly JobOutputOptimizationOption OptimizeForSpeed;
 ```
 
 ### See Also

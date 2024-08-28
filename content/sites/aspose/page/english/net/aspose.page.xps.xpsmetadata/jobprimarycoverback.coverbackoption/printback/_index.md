@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverback.coverbackoption/printb
 Specifies the cover indicated by "CoverBackSource" should be printed on the back side of the cover sheet. If a [`JobPrimaryCoverBackSource`](../../jobprimarycoverbacksource/)[`ParameterInit`](../../parameterinit/) element is not specified, this Option should be ignored.
 
 ```csharp
-public static CoverBackOption PrintBack;
+public static readonly CoverBackOption PrintBack;
 ```
 
 ### See Also

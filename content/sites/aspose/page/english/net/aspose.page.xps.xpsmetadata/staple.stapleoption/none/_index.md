@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/staple.stapleoption/none/
 Specifies no stapling.
 
 ```csharp
-public static StapleOption None;
+public static readonly StapleOption None;
 ```
 
 ### See Also

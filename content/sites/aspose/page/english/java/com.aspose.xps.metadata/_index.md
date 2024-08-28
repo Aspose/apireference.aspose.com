@@ -3,7 +3,7 @@ title: com.aspose.xps.metadata
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps.metadata package provides classes that describe metadata of XPS document.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.xps.metadata/
 ---
 
@@ -61,7 +61,9 @@ The **com.aspose.xps.metadata** package provides classes that describe metadata 
 | [InputBin.FeedFace](../com.aspose.xps.metadata/inputbin.feedface) | Defines constants for the  FeedFace  scored property value. |
 | [InputBin.FeedType](../com.aspose.xps.metadata/inputbin.feedtype) | Defines constants for the  FeedType  scored property value. |
 | [InputBin.InputBinOption](../com.aspose.xps.metadata/inputbin.inputbinoption) | Describes the  JobInputBin ,  DocumentInputBin  and  PageInputBin  features options. |
+| [InputBin.MediaCapacity](../com.aspose.xps.metadata/inputbin.mediacapacity) | Define constants for the  MediaCapacity  scored property value that specify whether the bin is a high capacity bin (qualitative). |
 | [InputBin.MediaPath](../com.aspose.xps.metadata/inputbin.mediapath) | Defines constants for the  MediaPath  scored property value. |
+| [InputBin.MediaSheetCapacity](../com.aspose.xps.metadata/inputbin.mediasheetcapacity) | Defines the  MediaSheetCapacity  scored property value that specifies the Media capacity in number of pages (full level) of the bin. |
 | [InputBin.MediaSizeAutoSense](../com.aspose.xps.metadata/inputbin.mediasizeautosense) | Defines constants for the  MediaSizeAutoSense  scored property value. |
 | [InputBin.MediaTypeAutoSense](../com.aspose.xps.metadata/inputbin.mediatypeautosense) | Defines constants for the  MediaTypeAutoSense  scored property value. |
 | [IntegerParameterInit](../com.aspose.xps.metadata/integerparameterinit) | Base class for all integer parameter initializers. |
@@ -117,6 +119,7 @@ The **com.aspose.xps.metadata** package provides classes that describe metadata 
 | [Option](../com.aspose.xps.metadata/option) | The class that implements a common PrintTicket  Option . |
 | [OutputBin](../com.aspose.xps.metadata/outputbin) | The base class for  JobOutputBin ,  DocumentOutputBin  and  PageOutputBin  features classes. |
 | [OutputBin.BinType](../com.aspose.xps.metadata/outputbin.bintype) | Defines constants for the  BinType  scored property value. |
+| [OutputBin.MediaSheetCapacity](../com.aspose.xps.metadata/outputbin.mediasheetcapacity) | Defines the  MediaSheetCapacity  scored property value that specifies the Media capacity in number of pages (full level) of the bin. |
 | [OutputBin.OutputBinOption](../com.aspose.xps.metadata/outputbin.outputbinoption) | Describes the  JobOutputBin ,  DocumentOutputBin  and  PageOutputBin  features options. |
 | [PageBlackGenerationProcessing](../com.aspose.xps.metadata/pageblackgenerationprocessing) | Specifies black generation behavior for CMYK separations. |
 | [PageBlackGenerationProcessing.PageBlackGenerationProcessingOption](../com.aspose.xps.metadata/pageblackgenerationprocessing.pageblackgenerationprocessingoption) | Describes the  PageBlackGenerationProcessing  feature options. |

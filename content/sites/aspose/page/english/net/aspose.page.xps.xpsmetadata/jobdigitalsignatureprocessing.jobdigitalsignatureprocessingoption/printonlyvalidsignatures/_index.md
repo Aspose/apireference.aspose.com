@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing.jobdigitalsi
 Print the job only if all digital signatures are valid. Digital signatures MUST not be ignored.
 
 ```csharp
-public static JobDigitalSignatureProcessingOption PrintOnlyValidSignatures;
+public static readonly JobDigitalSignatureProcessingOption PrintOnlyValidSignatures;
 ```
 
 ### See Also

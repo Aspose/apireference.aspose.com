@@ -3,7 +3,7 @@ title: Class JobOutputOptimization.JobOutputOptimizationOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobOutputOptimizationJobOutputOptimizationOption class. Describes the JobOutputOptimization feature options
 type: docs
-weight: 2090
+weight: 1770
 url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization.joboutputoptimizationoption/
 ---
 ## JobOutputOptimization.JobOutputOptimizationOption class
@@ -30,11 +30,11 @@ public sealed class JobOutputOptimizationOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [ArchiveFormat](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/archiveformat/) | pecifies the job processing be optimized for archive output. |
-| static [None](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/none/) | Specifies the job processing should not be optimized for a particular scenario. |
-| static [OptimizeForPortability](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/optimizeforportability/) | Specifies the job processing be optimized for portability (cross-device) of output. |
-| static [OptimizeForQuality](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/optimizeforquality/) | Specifies the job processing be optimized for quality of output. |
-| static [OptimizeForSpeed](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/optimizeforspeed/) | Specifies the job processing be optimized for speed of output. |
+| static readonly [ArchiveFormat](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/archiveformat/) | pecifies the job processing be optimized for archive output. |
+| static readonly [None](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/none/) | Specifies the job processing should not be optimized for a particular scenario. |
+| static readonly [OptimizeForPortability](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/optimizeforportability/) | Specifies the job processing be optimized for portability (cross-device) of output. |
+| static readonly [OptimizeForQuality](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/optimizeforquality/) | Specifies the job processing be optimized for quality of output. |
+| static readonly [OptimizeForSpeed](../../aspose.page.xps.xpsmetadata/joboutputoptimizationoption/optimizeforspeed/) | Specifies the job processing be optimized for speed of output. |
 
 ### See Also
 

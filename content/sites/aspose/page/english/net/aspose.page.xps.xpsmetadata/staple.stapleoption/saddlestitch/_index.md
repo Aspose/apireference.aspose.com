@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/staple.stapleoption/saddlestitch/
 Specifies saddle stitch stapling.
 
 ```csharp
-public static StapleOption SaddleStitch;
+public static readonly StapleOption SaddleStitch;
 ```
 
 ### See Also

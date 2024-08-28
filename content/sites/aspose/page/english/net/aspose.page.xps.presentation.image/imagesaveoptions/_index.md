@@ -3,7 +3,7 @@ title: Class ImageSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.Presentation.Image.ImageSaveOptions class. Basic class for XPSasimage saving options
 type: docs
-weight: 1010
+weight: 680
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class
@@ -11,7 +11,8 @@ url: /net/aspose.page.xps.presentation.image/imagesaveoptions/
 Basic class for XPS-as-image saving options.
 
 ```csharp
-public abstract class ImageSaveOptions : SaveOptions
+public abstract class ImageSaveOptions : SaveOptions, IEventBasedModificationOptions, 
+    IPipelineOptions
 ```
 
 ## Constructors
@@ -25,6 +26,8 @@ public abstract class ImageSaveOptions : SaveOptions
 | Name | Description |
 | --- | --- |
 | [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
+| [BatchSize](../../aspose.page.xps.presentation.image/imagesaveoptions/batchsize/) { get; set; } | Specifies the size of a portion of pages to pass from node to node. |
+| [BeforePageSavingEventHandlers](../../aspose.page.xps.presentation.image/imagesaveoptions/beforepagesavingeventhandlers/) { get; } | The collection of event handlers that performs modifications to an XPS page just before it is saved. |
 | virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Specifies whether debug information must be printed to standard output stream or not. |
 | virtual [Exceptions](../../aspose.page/saveoptions/exceptions/) { get; } | Returns a list of suppressed conversion errors If !:SuppressErrors is true. |
 | [ImageSize](../../aspose.page.xps.presentation.image/imagesaveoptions/imagesize/) { get; set; } | Gets/sets the size of the output images in pixels. |
@@ -40,6 +43,8 @@ public abstract class ImageSaveOptions : SaveOptions
 ### See Also
 
 * class [SaveOptions](../../aspose.page/saveoptions/)
+* interface [IEventBasedModificationOptions](../../aspose.page.xps.presentation/ieventbasedmodificationoptions/)
+* interface [IPipelineOptions](../../aspose.page.xps.presentation/ipipelineoptions/)
 * namespace [Aspose.Page.XPS.Presentation.Image](../../aspose.page.xps.presentation.image/)
 * assembly [Aspose.Page](../../)
 

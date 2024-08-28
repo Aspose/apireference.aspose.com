@@ -3,7 +3,7 @@ title: Enum DataType
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.DataType enum. Represents possible types of data for plugin processing
 type: docs
-weight: 720
+weight: 320
 url: /net/aspose.page.plugins/datatype/
 ---
 ## DataType enumeration

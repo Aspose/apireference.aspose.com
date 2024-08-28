@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.mediasizeautosense/none/
 None value.
 
 ```csharp
-public static MediaSizeAutoSense None;
+public static readonly MediaSizeAutoSense None;
 ```
 
 ### See Also

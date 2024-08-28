@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization.joboutputoptimizatio
 Specifies the job processing should not be optimized for a particular scenario.
 
 ```csharp
-public static JobOutputOptimizationOption None;
+public static readonly JobOutputOptimizationOption None;
 ```
 
 ### See Also

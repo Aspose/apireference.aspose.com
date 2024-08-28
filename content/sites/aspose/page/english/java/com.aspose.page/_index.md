@@ -15,7 +15,6 @@ The **Aspose.Page** is a root package for all classes of Aspose.Page library whi
 | Class | Description |
 | --- | --- |
 | [AsposePageException](../com.aspose.page/asposepageexception) | Represents errors that occur during Aspose.Page application execution. |
-| [Device](../com.aspose.page/device) | This class encapsulates rendering of document to abstract device. |
 | [DimensionF](../com.aspose.page/dimensionf) | The `Dimension` class encapsulates the width and height of a component (in single precision) in a single object. |
 | [Document](../com.aspose.page/document) | A superclass for all encapsulated documents. |
 | [ExternalFontCache](../com.aspose.page/externalfontcache) | Use this class to obtain font encapsulation in a form that is accepted by Device. |
@@ -31,10 +30,7 @@ The **Aspose.Page** is a root package for all classes of Aspose.Page library whi
 | --- | --- |
 | [IGlyph](../com.aspose.page/iglyph) | This interface give access to main parameters of glyph. |
 | [IInteractiveDevice](../com.aspose.page/iinteractivedevice) | The interface defining interactive features processing methods. |
-| [IMultiPageDevice](../com.aspose.page/imultipagedevice) | This interface contains methods for manipulating multi-paged device. |
 | [IMultiPageSaveOptions](../com.aspose.page/imultipagesaveoptions) | Defines the interface for setting page numbers for conversion. |
-| [IMultiPartitionDevice](../com.aspose.page/imultipartitiondevice) | Basic interface for multi-partition device. |
-| [IStreamable](../com.aspose.page/istreamable) | This interface is used for dervices that renders document to a stream. |
 | [ITrFont](../com.aspose.page/itrfont) | This interface give access to main parameters of font. |
 
 ## Enumerations

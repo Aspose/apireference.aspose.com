@@ -3,7 +3,7 @@ title: TextRenderingMode
 second_title: Aspose.Page for Java API Reference
 description: This enum contains possible values for text rendering mode.
 type: docs
-weight: 28
+weight: 24
 url: /java/com.aspose.page/textrenderingmode/
 ---
 **Inheritance:**

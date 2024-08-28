@@ -26,21 +26,14 @@ public SizeF(SizeF size)
 
 ---
 
-## SizeF(PointF) {#constructor}
-
-Initializes a new instance of the [`SizeF`](../) structure from the specified [`PointF`](../../pointf/) structure.
+## SizeF(#=zWfgi6R$WbIywKCegIXZ99gI=) {#constructor}
 
 ```csharp
-public SizeF(PointF pt)
+public SizeF(#=zWfgi6R$WbIywKCegIXZ99gI= pt)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pt | PointF | The [`PointF`](../../pointf/) structure from which to initialize this [`SizeF`](../) structure. |
 
 ### See Also
 
-* struct [PointF](../../pointf/)
 * struct [SizeF](../)
 * namespace [Aspose.Page.Drawing](../../sizef/)
 * assembly [Aspose.Page](../../../)

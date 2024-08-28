@@ -3,7 +3,7 @@ title: Class OutputBin.OutputBinOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.OutputBinOutputBinOption class. Describes the JobOutputBin DocumentOutputBin and PageOutputBin features options
 type: docs
-weight: 2350
+weight: 2040
 url: /net/aspose.page.xps.xpsmetadata/outputbin.outputbinoption/
 ---
 ## OutputBin.OutputBinOption class
@@ -18,7 +18,7 @@ public sealed class OutputBinOption : Option
 
 | Name | Description |
 | --- | --- |
-| [OutputBinOption](outputbinoption/)() | Creates a new instance. |
+| [OutputBinOption](outputbinoption/)(params IOutputBinOptionItem[]) | Creates a new instance. |
 
 ## Properties
 
@@ -32,7 +32,6 @@ public sealed class OutputBinOption : Option
 | --- | --- |
 | [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../scoredproperty/) or [`Property`](../property/) instance. |
 | [Add](../../aspose.page.xps.xpsmetadata/outputbinoption/add/#add)(params IOutputBinOptionItem[]) | Adds an array of [`IOutputBinOptionItem`](../outputbin.ioutputbinoptionitem/) instances to the feature. |
-| [SetMediaSheetCapacity](../../aspose.page.xps.xpsmetadata/outputbinoption/setmediasheetcapacity/)(int) | Sets a |
 
 ### See Also
 

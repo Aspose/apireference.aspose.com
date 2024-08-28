@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/bindleft
 Specifies binding along the left edge.
 
 ```csharp
-public static BindingOption BindLeft;
+public static readonly BindingOption BindLeft;
 ```
 
 ### See Also

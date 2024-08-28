@@ -3,7 +3,7 @@ title: Class JobPageOrder.JobPageOrderOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrderJobPageOrderOption class. Describes the JobPageOrder feature options
 type: docs
-weight: 2110
+weight: 1790
 url: /net/aspose.page.xps.xpsmetadata/jobpageorder.jobpageorderoption/
 ---
 ## JobPageOrder.JobPageOrderOption class
@@ -30,8 +30,8 @@ public sealed class JobPageOrderOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [Reverse](../../aspose.page.xps.xpsmetadata/jobpageorderoption/reverse/) | Specifies back to front page order. |
-| static [Standard](../../aspose.page.xps.xpsmetadata/jobpageorderoption/standard/) | Specifies front to back page order. |
+| static readonly [Reverse](../../aspose.page.xps.xpsmetadata/jobpageorderoption/reverse/) | Specifies back to front page order. |
+| static readonly [Standard](../../aspose.page.xps.xpsmetadata/jobpageorderoption/standard/) | Specifies front to back page order. |
 
 ### See Also
 

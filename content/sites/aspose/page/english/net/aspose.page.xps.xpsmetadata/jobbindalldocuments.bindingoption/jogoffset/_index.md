@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/jogoffse
 Specifies jog offset binding.
 
 ```csharp
-public static BindingOption JogOffset;
+public static readonly BindingOption JogOffset;
 ```
 
 ### See Also

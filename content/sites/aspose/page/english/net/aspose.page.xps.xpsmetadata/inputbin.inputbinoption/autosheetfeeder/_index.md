@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/autosheetfeeder/
 Device Input tray for Inkjet Printers.
 
 ```csharp
-public static InputBinOption AutoSheetFeeder;
+public static readonly InputBinOption AutoSheetFeeder;
 ```
 
 ### See Also

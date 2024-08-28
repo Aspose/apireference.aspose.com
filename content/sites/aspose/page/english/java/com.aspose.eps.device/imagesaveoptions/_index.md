@@ -3,7 +3,7 @@ title: ImageSaveOptions
 second_title: Aspose.Page for Java API Reference
 description: This class contains options necessary for managing conversion process.
 type: docs
-weight: 11
+weight: 10
 url: /java/com.aspose.eps.device/imagesaveoptions/
 ---
 **Inheritance:**
@@ -38,6 +38,7 @@ This class contains options necessary for managing conversion process.
 | [getResolution()](#getResolution--) | Returns the resolution of the resulting image. |
 | [getSize()](#getSize--) | Gets a size of the page or image. |
 | [getSmoothingMode()](#getSmoothingMode--) | Gets smoothing mode. |
+| [getTryJoinImageFragments()](#getTryJoinImageFragments--) | Indicates whether the library will try to join image fragments. |
 | [hashCode()](#hashCode--) |  |
 | [isDebug()](#isDebug--) | Gets the flag that allows output of warnings and messages during conversion. |
 | [isSupressErrors()](#isSupressErrors--) | Returns a value indicating whether errors will be suppressed during conversion. |
@@ -51,6 +52,7 @@ This class contains options necessary for managing conversion process.
 | [setSize(Dimension size)](#setSize-java.awt.Dimension-) | Specifies a size of the page or image. |
 | [setSmoothingMode(SmoothingMode smoothingMode)](#setSmoothingMode-com.aspose.eps.device.SmoothingMode-) | Sets smoothing mode. |
 | [setSupressErrors(boolean supressErrors)](#setSupressErrors-boolean-) | Specifies the flag that indicates whether errors will be suppressed during conversion. |
+| [setTryJoinImageFragments(boolean tryJoinImageFragments)](#setTryJoinImageFragments-boolean-) | Specifies if the library should try to join image fragments. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -254,6 +256,16 @@ Gets smoothing mode.
 
 **Returns:**
 [SmoothingMode](../../com.aspose.eps.device/smoothingmode) - the smoothingMode.
+### getTryJoinImageFragments() {#getTryJoinImageFragments--}
+```
+public boolean getTryJoinImageFragments()
+```
+
+
+Indicates whether the library will try to join image fragments. It is used when the image in a source PS/EPS file is cut into fragments. In this case without this flag thin gaps are left between the fragments.
+
+**Returns:**
+boolean - the value of flag.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -403,6 +415,19 @@ Specifies the flag that indicates whether errors will be suppressed during conve
 | Parameter | Type | Description |
 | --- | --- | --- |
 | supressErrors | boolean | Boolean value. |
+
+### setTryJoinImageFragments(boolean tryJoinImageFragments) {#setTryJoinImageFragments-boolean-}
+```
+public void setTryJoinImageFragments(boolean tryJoinImageFragments)
+```
+
+
+Specifies if the library should try to join image fragments. It is used when the image in a source PS/EPS file is cut into fragments. In this case without this flag thin gaps are left between the fragments.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tryJoinImageFragments | boolean | the value of flag. |
 
 ### toString() {#toString--}
 ```

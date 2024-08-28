@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.feedtype/automatic/
 Automatic value.
 
 ```csharp
-public static FeedType Automatic;
+public static readonly FeedType Automatic;
 ```
 
 ### See Also

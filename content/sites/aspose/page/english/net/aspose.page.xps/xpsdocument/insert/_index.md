@@ -8,7 +8,7 @@ url: /net/aspose.page.xps/xpsdocument/insert/
 ---
 ## XpsDocument.Insert&lt;T&gt; method
 
-Inserts an element (Canvas, Path or Glyphs) to the active page at *index* position.
+Inserts an element (Canvas, Path, or Glyphs) to the active page at *index* position.
 
 ```csharp
 public T Insert<T>(int index, T element)

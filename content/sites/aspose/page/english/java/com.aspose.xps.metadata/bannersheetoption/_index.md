@@ -37,7 +37,7 @@ Represents options of the  JobPrimaryBannerSheet  feature.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Custom {#Custom}
 ```
-public static JobPrimaryBannerSheet.BannerSheetOption Custom
+public static final JobPrimaryBannerSheet.BannerSheetOption Custom
 ```
 
 
@@ -45,7 +45,7 @@ Specifies a custom banner sheet should be output. If a  JobPrimaryBannerSheetSou
 
 ### None {#None}
 ```
-public static JobPrimaryBannerSheet.BannerSheetOption None
+public static final JobPrimaryBannerSheet.BannerSheetOption None
 ```
 
 
@@ -53,7 +53,7 @@ Specifies no banner sheet should be output.
 
 ### Standard {#Standard}
 ```
-public static JobPrimaryBannerSheet.BannerSheetOption Standard
+public static final JobPrimaryBannerSheet.BannerSheetOption Standard
 ```
 
 

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/outputbin.bintype/sorter/
 Sorter bin.
 
 ```csharp
-public static BinType Sorter;
+public static readonly BinType Sorter;
 ```
 
 ### See Also

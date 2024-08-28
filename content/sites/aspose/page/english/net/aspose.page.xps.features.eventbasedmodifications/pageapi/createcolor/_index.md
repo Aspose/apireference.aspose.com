@@ -1,0 +1,195 @@
+---
+title: PageAPI.CreateColor
+second_title: Aspose.Page for .NET API Reference
+description: PageAPI method. Creates a new color
+type: docs
+weight: 130
+url: /net/aspose.page.xps.features.eventbasedmodifications/pageapi/createcolor/
+---
+## CreateColor(Color) {#createcolor_5}
+
+Creates a new color.
+
+```csharp
+public XpsColor CreateColor(Color color)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | Color | A native color instance for RGB color. |
+
+### Return Value
+
+New color.
+
+### See Also
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CreateColor(int, int, int, int) {#createcolor_2}
+
+Creates a new color in sRGB color space.
+
+```csharp
+public XpsColor CreateColor(int a, int r, int g, int b)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | Int32 | The alpha color component. |
+| r | Int32 | The red color component. |
+| g | Int32 | The green color component. |
+| b | Int32 | The blue color component. |
+
+### Return Value
+
+New color.
+
+### See Also
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CreateColor(int, int, int) {#createcolor_1}
+
+Creates a new color in sRGB color space.
+
+```csharp
+public XpsColor CreateColor(int r, int g, int b)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| r | Int32 | The red color component. |
+| g | Int32 | The green color component. |
+| b | Int32 | The blue color component. |
+
+### Return Value
+
+New color.
+
+### See Also
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CreateColor(float, float, float, float) {#createcolor_4}
+
+Creates a new color in scRGB color space.
+
+```csharp
+public XpsColor CreateColor(float a, float r, float g, float b)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | Single | The alpha color component. |
+| r | Single | The red color component. |
+| g | Single | The green color component. |
+| b | Single | The blue color component. |
+
+### Return Value
+
+New color.
+
+### See Also
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CreateColor(float, float, float) {#createcolor_3}
+
+Creates a new color in scRGB color space.
+
+```csharp
+public XpsColor CreateColor(float r, float g, float b)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| r | Single | The red color component. |
+| g | Single | The green color component. |
+| b | Single | The blue color component. |
+
+### Return Value
+
+New color.
+
+### See Also
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CreateColor(string, params float[]) {#createcolor_6}
+
+Creates a new color in ICC based color space.
+
+```csharp
+public XpsColor CreateColor(string path, params float[] components)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | String | The path to the ICC profile. |
+| components | Single[] | Color components. |
+
+### Return Value
+
+New color.
+
+### See Also
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CreateColor(XpsIccProfile, params float[]) {#createcolor}
+
+Creates a new color in ICC based color space.
+
+```csharp
+public XpsColor CreateColor(XpsIccProfile iccProfile, params float[] components)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| iccProfile | XpsIccProfile | The ICC profile resource. |
+| components | Single[] | Color components. |
+
+### Return Value
+
+New color.
+
+### See Also
+
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsIccProfile](../../../aspose.page.xps.xpsmodel/xpsiccprofile/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/duplex.duplexoption/onesided/
 Specifies one sided printing.
 
 ```csharp
-public static DuplexOption OneSided;
+public static readonly DuplexOption OneSided;
 ```
 
 ### See Also

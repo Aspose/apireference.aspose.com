@@ -3,7 +3,7 @@ title: Aspose.Page.EPS.XMP
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.EPS.XMP namespace provides classes for reading changing XMP metadata in EPS files
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.page.eps.xmp/
 ---
 The **Aspose.Page.EPS.XMP** namespace provides classes for reading, changing XMP metadata in EPS files.

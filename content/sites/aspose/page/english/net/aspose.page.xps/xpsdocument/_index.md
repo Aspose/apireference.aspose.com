@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsDocument class. Class incapsulating the main entity of XPS document that provides manipulation methods for any XPS element
 type: docs
-weight: 1120
+weight: 780
 url: /net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class
@@ -40,7 +40,7 @@ public sealed class XpsDocument : Document, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Add&lt;T&gt;](../../aspose.page.xps/xpsdocument/add/)(T) | Adds a content element (Canvas, Path or Glyphs) |
+| [Add&lt;T&gt;](../../aspose.page.xps/xpsdocument/add/)(T) | Adds a content element (Canvas, Path, or Glyphs). |
 | [AddCanvas](../../aspose.page.xps/xpsdocument/addcanvas/)() | Adds a new canvas to the active page. |
 | [AddDocument](../../aspose.page.xps/xpsdocument/adddocument/#adddocument)(bool) | Adds an empty document with default page size. |
 | [AddDocument](../../aspose.page.xps/xpsdocument/adddocument/#adddocument_1)(float, float, bool) | Adds an empty document with the first page dimensions *width* and *height*. |
@@ -92,7 +92,7 @@ public sealed class XpsDocument : Document, IDisposable
 | [Dispose](../../aspose.page.xps/xpsdocument/dispose/)() | Disposes the instance. |
 | [GetDocumentPrintTicket](../../aspose.page.xps/xpsdocument/getdocumentprintticket/)(int) | Returns the print ticket of the document indexed by *documentIndex*. |
 | [GetPagePrintTicket](../../aspose.page.xps/xpsdocument/getpageprintticket/)(int, int) | Returns the print ticket of the page indexed by *pageIndex* in the document indexed by *documentIndex*. |
-| [Insert&lt;T&gt;](../../aspose.page.xps/xpsdocument/insert/)(int, T) | Inserts an element (Canvas, Path or Glyphs) to the active page at *index* position. |
+| [Insert&lt;T&gt;](../../aspose.page.xps/xpsdocument/insert/)(int, T) | Inserts an element (Canvas, Path, or Glyphs) to the active page at *index* position. |
 | [InsertCanvas](../../aspose.page.xps/xpsdocument/insertcanvas/)(int) | Inserts a new canvas to the active page at *index* position. |
 | [InsertDocument](../../aspose.page.xps/xpsdocument/insertdocument/#insertdocument)(int, bool) | Inserts an empty document with default page size at *index* position. |
 | [InsertDocument](../../aspose.page.xps/xpsdocument/insertdocument/#insertdocument_1)(int, float, float, bool) | Inserts an empty document with the first page dimensions *width* and *height* at *index* position. |
@@ -102,23 +102,22 @@ public sealed class XpsDocument : Document, IDisposable
 | [InsertPage](../../aspose.page.xps/xpsdocument/insertpage/#insertpage)(int, XpsPage, bool) | Inserts a page to the document at *index* position. |
 | [InsertPage](../../aspose.page.xps/xpsdocument/insertpage/#insertpage_2)(int, float, float, bool) | Inserts an empty page to the document with specified *width* and *height* at *index* position. |
 | [InsertPath](../../aspose.page.xps/xpsdocument/insertpath/)(int, XpsPathGeometry) | Inserts a new path to the active page at *index* position. |
-| [Merge](../../aspose.page.xps/xpsdocument/merge/#merge_1)(string[], Stream) | Merging several XPS files to one XPS document. |
-| [Merge](../../aspose.page.xps/xpsdocument/merge/#merge_2)(string[], string) | Merging several XPS files to one XPS document. |
-| [Merge](../../aspose.page.xps/xpsdocument/merge/#merge)(string[], Device, SaveOptions) | Merging XPS documents to PDF using the [`Device`](../../aspose.page/device/) instance. |
-| [MergeToPdf](../../aspose.page.xps/xpsdocument/mergetopdf/#mergetopdf)(Stream, string[], SaveOptions) | Merging XPS documents to PDF using the [`Device`](../../aspose.page/device/) instance. |
-| [MergeToPdf](../../aspose.page.xps/xpsdocument/mergetopdf/#mergetopdf_1)(string, string[], SaveOptions) | Merging XPS documents to PDF using the [`Device`](../../aspose.page/device/) instance. |
+| [Merge](../../aspose.page.xps/xpsdocument/merge/#merge)(string[], Stream) | Merging several XPS files to one XPS document. |
+| [Merge](../../aspose.page.xps/xpsdocument/merge/#merge_1)(string[], string) | Merging several XPS files to one XPS document. |
+| [MergeToPdf](../../aspose.page.xps/xpsdocument/mergetopdf/#mergetopdf)(string[], Stream, PdfSaveOptions) | Merging XPS documents to PDF using the Device instance. |
+| [MergeToPdf](../../aspose.page.xps/xpsdocument/mergetopdf/#mergetopdf_1)(string[], string, PdfSaveOptions) | Merging XPS documents to PDF using the Device instance. |
 | [Remove&lt;T&gt;](../../aspose.page.xps/xpsdocument/remove/)(T) | Removes an element from the active page. |
 | [RemoveAt](../../aspose.page.xps/xpsdocument/removeat/)(int) | Removes an element at *index* position from the active page. |
 | [RemoveDocumentAt](../../aspose.page.xps/xpsdocument/removedocumentat/)(int) | Removes a document at *index* position. |
 | [RemovePage](../../aspose.page.xps/xpsdocument/removepage/)(XpsPage) | Removes a page from the document. |
 | [RemovePageAt](../../aspose.page.xps/xpsdocument/removepageat/)(int) | Removes a page from the document at *index* position. |
-| [Save](../../aspose.page.xps/xpsdocument/save/#save_1)(Stream) | Saves XPS document to stream. |
-| [Save](../../aspose.page.xps/xpsdocument/save/#save_2)(string) | Saves XPS document to XPS file located at the *path*. |
-| override [Save](../../aspose.page.xps/xpsdocument/save/#save)(Device, SaveOptions) | Saves the document using the [`Device`](../../aspose.page/device/) instance. |
+| [Save](../../aspose.page.xps/xpsdocument/save/#save)(Stream) | Saves XPS document to stream. |
+| [Save](../../aspose.page.xps/xpsdocument/save/#save_1)(string) | Saves XPS document to XPS file located at the *path*. |
 | [SaveAsImage](../../aspose.page.xps/xpsdocument/saveasimage/)(ImageSaveOptions) | Saves the document in a bitmap image format. |
 | [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/#saveaspdf)(Stream, PdfSaveOptions) | Saves the document in PDF format. |
 | [SaveAsPdf](../../aspose.page.xps/xpsdocument/saveaspdf/#saveaspdf_1)(string, PdfSaveOptions) | Saves the document in PDF format. |
-| [SaveAsPs](../../aspose.page.xps/xpsdocument/saveasps/)(Stream, PsSaveOptions) | Saves the document in PS format. |
+| [SaveAsPs](../../aspose.page.xps/xpsdocument/saveasps/#saveasps)(Stream, PsSaveOptions) | Saves the document in PS format. |
+| [SaveAsPs](../../aspose.page.xps/xpsdocument/saveasps/#saveasps_1)(string, PsSaveOptions) | Saves the document in PS format. |
 | [SelectActiveDocument](../../aspose.page.xps/xpsdocument/selectactivedocument/)(int) | Selects an active document for editing. |
 | [SelectActivePage](../../aspose.page.xps/xpsdocument/selectactivepage/)(int) | Selects an active document page for editing. |
 | [SetDocumentPrintTicket](../../aspose.page.xps/xpsdocument/setdocumentprintticket/)(int, DocumentPrintTicket) | Links the *printTicket* to the document indexed by *documentIndex*. |

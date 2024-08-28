@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/inputbinoption/
 ---
-## InputBinOption(string, params IInputBinOptionItem[]) {#constructor_1}
+## InputBin.InputBinOption constructor
 
 Creates a new instance.
 
@@ -22,26 +22,6 @@ public InputBinOption(string optionName, params IInputBinOptionItem[] items)
 ### See Also
 
 * interface [IInputBinOptionItem](../../inputbin.iinputbinoptionitem/)
-* class [InputBinOption](../)
-* namespace [Aspose.Page.XPS.XpsMetadata](../../inputbin.inputbinoption/)
-* assembly [Aspose.Page](../../../)
-
----
-
-## InputBinOption(InputBinOption) {#constructor}
-
-Clones this option instance.
-
-```csharp
-public InputBinOption(InputBinOption option)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| option | InputBinOption | An instance to clone. |
-
-### See Also
-
 * class [InputBinOption](../)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../inputbin.inputbinoption/)
 * assembly [Aspose.Page](../../../)

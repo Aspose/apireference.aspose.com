@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.Page for Java API Reference
 description: A superclass for all encapsulated documents.
 type: docs
-weight: 13
+weight: 12
 url: /java/com.aspose.page/document/
 ---
 **Inheritance:**

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetoption/none/
 Specifies no error sheet should be output.
 
 ```csharp
-public ErrorSheetOption None;
+public static readonly ErrorSheetOption None;
 ```
 
 ### See Also

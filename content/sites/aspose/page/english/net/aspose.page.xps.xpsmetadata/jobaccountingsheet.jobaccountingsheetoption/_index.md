@@ -3,7 +3,7 @@ title: Class JobAccountingSheet.JobAccountingSheetOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheetJobAccountingSheetOption class. Describes the JobAccountingSheet feature options
 type: docs
-weight: 1790
+weight: 1470
 url: /net/aspose.page.xps.xpsmetadata/jobaccountingsheet.jobaccountingsheetoption/
 ---
 ## JobAccountingSheet.JobAccountingSheetOption class
@@ -30,8 +30,8 @@ public sealed class JobAccountingSheetOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [None](../../aspose.page.xps.xpsmetadata/jobaccountingsheetoption/none/) | Specifies no accounting sheet will be output. |
-| static [Standard](../../aspose.page.xps.xpsmetadata/jobaccountingsheetoption/standard/) | Specifies the standard (device defined) accounting sheet should be output. |
+| static readonly [None](../../aspose.page.xps.xpsmetadata/jobaccountingsheetoption/none/) | Specifies no accounting sheet will be output. |
+| static readonly [Standard](../../aspose.page.xps.xpsmetadata/jobaccountingsheetoption/standard/) | Specifies the standard (device defined) accounting sheet should be output. |
 
 ### See Also
 

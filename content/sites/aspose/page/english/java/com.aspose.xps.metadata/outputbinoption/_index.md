@@ -3,7 +3,7 @@ title: OutputBin.OutputBinOption
 second_title: Aspose.Page for Java API Reference
 description: Describes the JobOutputBin DocumentOutputBin and PageOutputBin features options.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.xps.metadata/outputbin.outputbinoption/
 ---
 **Inheritance:**
@@ -20,7 +20,7 @@ Describes the  JobOutputBin ,  DocumentOutputBin  and  PageOutputBin  features o
 
 | Constructor | Description |
 | --- | --- |
-| [OutputBinOption()](#OutputBinOption--) | Creates a new instance. |
+| [OutputBinOption(OutputBin.IOutputBinOptionItem[] items)](#OutputBinOption-com.aspose.xps.metadata.OutputBin.IOutputBinOptionItem...-) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
@@ -33,18 +33,22 @@ Describes the  JobOutputBin ,  DocumentOutputBin  and  PageOutputBin  features o
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setMediaSheetCapacity(int mediaSheetCapacity)](#setMediaSheetCapacity-int-) | Sets a  MediaSheetCapacity  scored property value. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### OutputBinOption() {#OutputBinOption--}
+### OutputBinOption(OutputBin.IOutputBinOptionItem[] items) {#OutputBinOption-com.aspose.xps.metadata.OutputBin.IOutputBinOptionItem...-}
 ```
-public OutputBinOption()
+public OutputBinOption(OutputBin.IOutputBinOptionItem[] items)
 ```
 
 
 Creates a new instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| items | [IOutputBinOptionItem\[\]](../../com.aspose.xps.metadata/ioutputbinoptionitem) | An arbitrary array of  IOutputBinOptionItem  instances. |
 
 ### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
 ```
@@ -135,21 +139,6 @@ public final native void notifyAll()
 
 
 
-### setMediaSheetCapacity(int mediaSheetCapacity) {#setMediaSheetCapacity-int-}
-```
-public OutputBin.OutputBinOption setMediaSheetCapacity(int mediaSheetCapacity)
-```
-
-
-Sets a  MediaSheetCapacity  scored property value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mediaSheetCapacity | int | A  MediaSheetCapacity  scored property value. |
-
-**Returns:**
-[OutputBinOption](../../com.aspose.xps.metadata/outputbinoption) - This option instance.
 ### toString() {#toString--}
 ```
 public String toString()

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarybannersheet.bannersheetoption/no
 Specifies no banner sheet should be output.
 
 ```csharp
-public static BannerSheetOption None;
+public static readonly BannerSheetOption None;
 ```
 
 ### See Also

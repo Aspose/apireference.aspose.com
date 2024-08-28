@@ -1,20 +1,14 @@
 ---
 title: Class Duplex.DuplexMode
 second_title: Aspose.Page for .NET API Reference
-description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode class. Defines possible values of the DuplexOptions
+description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode class. Defines possible values of the DuplexOptions DuplexMode scored property
 type: docs
-weight: 1500
+weight: 1160
 url: /net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class
 
-Defines possible values of the [`DuplexOption`](../duplex.duplexoption/)'s
-
-```csharp
-DuplexMode
-```
-
-scored property.
+Defines possible values of the [`DuplexOption`](../duplex.duplexoption/)'s DuplexMode scored property.
 
 ```csharp
 public sealed class DuplexMode : ScoredProperty

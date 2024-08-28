@@ -3,7 +3,7 @@ title: PdfSaveOptions.ImageCompression
 second_title: Aspose.Page for .NET API Reference
 description: PdfSaveOptions property. Specifies compression type to be used for all images in the document. Default is Auto
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.page.xps.presentation.pdf/pdfsaveoptions/imagecompression/
 ---
 ## PdfSaveOptions.ImageCompression property

@@ -3,7 +3,7 @@ title: Class PsLoadOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PsLoadOptions class. PS document loading options
 type: docs
-weight: 560
+weight: 190
 url: /net/aspose.page.eps/psloadoptions/
 ---
 ## PsLoadOptions class

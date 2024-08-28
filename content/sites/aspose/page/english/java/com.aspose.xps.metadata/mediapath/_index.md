@@ -3,7 +3,7 @@ title: InputBin.MediaPath
 second_title: Aspose.Page for Java API Reference
 description: Defines constants for the MediaPath scored property value.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.aspose.xps.metadata/inputbin.mediapath/
 ---
 **Inheritance:**
@@ -38,7 +38,7 @@ Defines constants for the  MediaPath  scored property value.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Serpentine {#Serpentine}
 ```
-public static InputBin.MediaPath Serpentine
+public static final InputBin.MediaPath Serpentine
 ```
 
 
@@ -46,7 +46,7 @@ Serpentine value.
 
 ### Straight {#Straight}
 ```
-public static InputBin.MediaPath Straight
+public static final InputBin.MediaPath Straight
 ```
 
 

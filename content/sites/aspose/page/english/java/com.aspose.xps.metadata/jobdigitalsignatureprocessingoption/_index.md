@@ -37,7 +37,7 @@ Describes the  JobDigitalSignatureProcessing  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PrintInvalidSignatures {#PrintInvalidSignatures}
 ```
-public static JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption PrintInvalidSignatures
+public static final JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption PrintInvalidSignatures
 ```
 
 
@@ -45,7 +45,7 @@ Print the job regardless of the validity of the digital signatures. Digital sign
 
 ### PrintInvalidSignaturesWithErrorReport {#PrintInvalidSignaturesWithErrorReport}
 ```
-public static JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption PrintInvalidSignaturesWithErrorReport
+public static final JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption PrintInvalidSignaturesWithErrorReport
 ```
 
 
@@ -53,7 +53,7 @@ Print the job regardless of the validity of the digital signatures. In the event
 
 ### PrintOnlyValidSignatures {#PrintOnlyValidSignatures}
 ```
-public static JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption PrintOnlyValidSignatures
+public static final JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption PrintOnlyValidSignatures
 ```
 
 

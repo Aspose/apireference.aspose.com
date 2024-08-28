@@ -3,7 +3,7 @@ title: Class JobOptimalDestinationColorProfile.Profile
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobOptimalDestinationColorProfileProfile class. Describes available color profiles
 type: docs
-weight: 2060
+weight: 1740
 url: /net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile.profile/
 ---
 ## JobOptimalDestinationColorProfile.Profile class
@@ -18,9 +18,9 @@ public sealed class Profile
 
 | Name | Description |
 | --- | --- |
-| static [CMYK](../../aspose.page.xps.xpsmetadata/profile/cmyk/) | CMYK profile. |
-| static [ICC](../../aspose.page.xps.xpsmetadata/profile/icc/) | ICC profile. |
-| static [RGB](../../aspose.page.xps.xpsmetadata/profile/rgb/) | RGB profile. |
+| static readonly [CMYK](../../aspose.page.xps.xpsmetadata/profile/cmyk/) | CMYK profile. |
+| static readonly [ICC](../../aspose.page.xps.xpsmetadata/profile/icc/) | ICC profile. |
+| static readonly [RGB](../../aspose.page.xps.xpsmetadata/profile/rgb/) | RGB profile. |
 
 ### See Also
 

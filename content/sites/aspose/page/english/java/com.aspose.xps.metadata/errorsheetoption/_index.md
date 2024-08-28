@@ -40,7 +40,7 @@ Describes the  JobErrorSheet  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Custom {#Custom}
 ```
-public JobErrorSheet.ErrorSheetOption Custom
+public static final JobErrorSheet.ErrorSheetOption Custom
 ```
 
 
@@ -48,7 +48,7 @@ Specifies a custom error sheet should be output. If a  JobErrorSheetSource   Par
 
 ### None {#None}
 ```
-public JobErrorSheet.ErrorSheetOption None
+public static final JobErrorSheet.ErrorSheetOption None
 ```
 
 
@@ -56,7 +56,7 @@ Specifies no error sheet should be output.
 
 ### Standard {#Standard}
 ```
-public JobErrorSheet.ErrorSheetOption Standard
+public static final JobErrorSheet.ErrorSheetOption Standard
 ```
 
 

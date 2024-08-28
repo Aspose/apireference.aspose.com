@@ -35,7 +35,7 @@ Describes available color profiles.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### CMYK {#CMYK}
 ```
-public static JobOptimalDestinationColorProfile.Profile CMYK
+public static final JobOptimalDestinationColorProfile.Profile CMYK
 ```
 
 
@@ -43,7 +43,7 @@ CMYK profile.
 
 ### ICC {#ICC}
 ```
-public static JobOptimalDestinationColorProfile.Profile ICC
+public static final JobOptimalDestinationColorProfile.Profile ICC
 ```
 
 
@@ -51,7 +51,7 @@ ICC profile.
 
 ### RGB {#RGB}
 ```
-public static JobOptimalDestinationColorProfile.Profile RGB
+public static final JobOptimalDestinationColorProfile.Profile RGB
 ```
 
 

@@ -3,7 +3,7 @@ title: Class PsConverterToPdfOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.PsConverterToPdfOptions class. Represents PS/EPS to PDF converter options for PsConverter plugin
 type: docs
-weight: 820
+weight: 420
 url: /net/aspose.page.plugins/psconvertertopdfoptions/
 ---
 ## PsConverterToPdfOptions class

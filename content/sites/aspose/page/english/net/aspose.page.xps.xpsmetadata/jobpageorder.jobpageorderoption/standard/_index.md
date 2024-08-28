@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobpageorder.jobpageorderoption/standard/
 Specifies front to back page order.
 
 ```csharp
-public static JobPageOrderOption Standard;
+public static readonly JobPageOrderOption Standard;
 ```
 
 ### See Also

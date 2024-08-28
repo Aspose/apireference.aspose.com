@@ -1,20 +1,14 @@
 ---
 title: Class InputBin.MediaPath
 second_title: Aspose.Page for .NET API Reference
-description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath class. Defines constants for the
+description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath class. Defines constants for the MediaPath scored property value that specify the characteristics of the media path
 type: docs
-weight: 1730
+weight: 1400
 url: /net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class
 
-Defines constants for the
-
-```csharp
-MediaPath
-```
-
-scored property value.
+Defines constants for the MediaPath scored property value that specify the characteristics of the media path.
 
 ```csharp
 public sealed class MediaPath : ScoredProperty
@@ -30,8 +24,8 @@ public sealed class MediaPath : ScoredProperty
 
 | Name | Description |
 | --- | --- |
-| static [Serpentine](../../aspose.page.xps.xpsmetadata/mediapath/serpentine/) | Serpentine value. |
-| static [Straight](../../aspose.page.xps.xpsmetadata/mediapath/straight/) | Straight value. |
+| static readonly [Serpentine](../../aspose.page.xps.xpsmetadata/mediapath/serpentine/) | Serpentine value. |
+| static readonly [Straight](../../aspose.page.xps.xpsmetadata/mediapath/straight/) | Straight value. |
 
 ### See Also
 

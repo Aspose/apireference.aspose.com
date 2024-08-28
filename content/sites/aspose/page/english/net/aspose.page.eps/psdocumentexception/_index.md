@@ -3,7 +3,7 @@ title: Class PsDocumentException
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PsDocumentException class. This class contains information about an error that is thrown while PostScript file is created edited and saved
 type: docs
-weight: 550
+weight: 180
 url: /net/aspose.page.eps/psdocumentexception/
 ---
 ## PsDocumentException class

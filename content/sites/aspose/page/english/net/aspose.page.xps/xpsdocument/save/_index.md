@@ -6,7 +6,7 @@ type: docs
 weight: 530
 url: /net/aspose.page.xps/xpsdocument/save/
 ---
-## Save(string) {#save_2}
+## Save(string) {#save_1}
 
 Saves XPS document to XPS file located at the *path*.
 
@@ -26,7 +26,7 @@ public void Save(string path)
 
 ---
 
-## Save(Stream) {#save_1}
+## Save(Stream) {#save}
 
 Saves XPS document to stream.
 
@@ -40,30 +40,6 @@ public void Save(Stream stream)
 
 ### See Also
 
-* class [XpsDocument](../)
-* namespace [Aspose.Page.XPS](../../xpsdocument/)
-* assembly [Aspose.Page](../../../)
-
----
-
-## Save(Device, SaveOptions) {#save}
-
-Saves the document using the [`Device`](../../../aspose.page/device/) instance.
-
-```csharp
-[Obsolete("Save is deprecated beginning from 24.3, please use SaveAsPdf or SaveAsImage instead. In 24.6 this method will be hidden")]
-public override void Save(Device device, SaveOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | Device | The [`Device`](../../../aspose.page/device/) instance. |
-| options | SaveOptions | Document saving options. |
-
-### See Also
-
-* class [Device](../../../aspose.page/device/)
-* class [SaveOptions](../../../aspose.page/saveoptions/)
 * class [XpsDocument](../)
 * namespace [Aspose.Page.XPS](../../xpsdocument/)
 * assembly [Aspose.Page](../../../)

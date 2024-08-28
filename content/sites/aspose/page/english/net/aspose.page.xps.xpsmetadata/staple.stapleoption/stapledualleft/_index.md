@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/staple.stapleoption/stapledualleft/
 Specifies two staples along the left edge.
 
 ```csharp
-public static StapleOption StapleDualLeft;
+public static readonly StapleOption StapleDualLeft;
 ```
 
 ### See Also

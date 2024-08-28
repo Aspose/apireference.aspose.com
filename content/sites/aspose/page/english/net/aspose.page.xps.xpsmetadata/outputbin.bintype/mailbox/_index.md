@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/outputbin.bintype/mailbox/
 MailBox bin.
 
 ```csharp
-public static BinType MailBox;
+public static readonly BinType MailBox;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Interface IJobPrintTicketItem
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.IJobPrintTicketItem interface. The interface of jobprefixed print ticket items
 type: docs
-weight: 1580
+weight: 1240
 url: /net/aspose.page.xps.xpsmetadata/ijobprintticketitem/
 ---
 ## IJobPrintTicketItem interface

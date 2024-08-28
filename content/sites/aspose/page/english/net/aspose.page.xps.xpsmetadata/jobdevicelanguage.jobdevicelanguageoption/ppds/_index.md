@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is PPDS.
 
 ```csharp
-public static JobDeviceLanguageOption PPDS;
+public static readonly JobDeviceLanguageOption PPDS;
 ```
 
 ### See Also

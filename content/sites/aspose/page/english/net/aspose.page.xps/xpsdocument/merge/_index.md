@@ -1,37 +1,12 @@
 ---
 title: XpsDocument.Merge
 second_title: Aspose.Page for .NET API Reference
-description: XpsDocument method. Merging XPS documents to PDF using the Device instance
+description: XpsDocument method. Merging several XPS files to one XPS document
 type: docs
 weight: 460
 url: /net/aspose.page.xps/xpsdocument/merge/
 ---
-## Merge(string[], Device, SaveOptions) {#merge}
-
-Merging XPS documents to PDF using the [`Device`](../../../aspose.page/device/) instance.
-
-```csharp
-[Obsolete("Save is deprecated beginning from 24.3, please use MergeToPdf instead. In 24.6 this method will be hidden")]
-public void Merge(string[] filesForMerge, Device device, SaveOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filesForMerge | String[] | XPS files for merging with this document to an output device. |
-| device | Device | The [`Device`](../../../aspose.page/device/) instance. |
-| options | SaveOptions | Document saving options. |
-
-### See Also
-
-* class [Device](../../../aspose.page/device/)
-* class [SaveOptions](../../../aspose.page/saveoptions/)
-* class [XpsDocument](../)
-* namespace [Aspose.Page.XPS](../../xpsdocument/)
-* assembly [Aspose.Page](../../../)
-
----
-
-## Merge(string[], string) {#merge_2}
+## Merge(string[], string) {#merge_1}
 
 Merging several XPS files to one XPS document.
 
@@ -52,7 +27,7 @@ public void Merge(string[] filesForMerge, string outXpsFilePath)
 
 ---
 
-## Merge(string[], Stream) {#merge_1}
+## Merge(string[], Stream) {#merge}
 
 Merging several XPS files to one XPS document.
 

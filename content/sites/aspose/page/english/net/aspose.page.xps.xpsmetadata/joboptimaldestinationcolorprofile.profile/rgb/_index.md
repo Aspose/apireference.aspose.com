@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile.profile/
 RGB profile.
 
 ```csharp
-public static Profile RGB;
+public static readonly Profile RGB;
 ```
 
 ### See Also

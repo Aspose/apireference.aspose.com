@@ -12,11 +12,9 @@ The **Aspose.Page** is a root namespace for all classes of Aspose.Page library w
 
 | Class | Description |
 | --- | --- |
-| [BaseTrFont](./basetrfont/) | This abstract class gives access to main parameters of font. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
-| [Device](./device/) | This class encapsulates rendering of document to abstract device. Rendering of the document is performed page by page. |
 | [Document](./document/) | A superclass for all encapsulated documents. |
-| [ExternalFontCache](./externalfontcache/) | Use this class to obtain font encapsulation in a form that is accepted by [`Device`](../aspose.page/device/). |
+| [ExternalFontCache](./externalfontcache/) | Use this class to obtain font encapsulation in a form that is accepted by Device. |
 | [License](./license/) | Provides methods to license the component. |
 | [Margins](./margins/) | This class encapsulates top, left, bottom and right margins. |
 | [Metered](./metered/) | Provides methods to set metered key. |
@@ -27,9 +25,6 @@ The **Aspose.Page** is a root namespace for all classes of Aspose.Page library w
 | Interface | Description |
 | --- | --- |
 | [IGlyph](./iglyph/) | This interface give access to main parameters of glyphs. |
-| [IMultiPageDevice](./imultipagedevice/) | This interface contains methods for manipulating multi-paged device. |
-| [IStreamable](./istreamable/) | This interface is used for dervices that renders document to a stream. |
-| [ITrFont](./itrfont/) | This interface gives access to main parameters of font. |
 ## Enumeration
 
 | Enumeration | Description |

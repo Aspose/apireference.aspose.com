@@ -13,7 +13,6 @@ The **Aspose.Page.Xps.Presentation.Image** namespace provides classes for render
 | Class | Description |
 | --- | --- |
 | [BmpSaveOptions](./bmpsaveoptions/) | Class for XPS-as-BMP saving options. |
-| [ImageDevice](./imagedevice/) | Class incapsulating image composing device. |
 | [ImageSaveOptions](./imagesaveoptions/) | Basic class for XPS-as-image saving options. |
 | [JpegSaveOptions](./jpegsaveoptions/) | Class for XPS-as-JPEG saving options. |
 | [PngSaveOptions](./pngsaveoptions/) | Class for XPS-as-PNG saving options. |

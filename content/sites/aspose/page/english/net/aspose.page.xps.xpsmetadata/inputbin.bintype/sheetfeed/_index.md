@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.bintype/sheetfeed/
 SheetFeed value.
 
 ```csharp
-public static BinType SheetFeed;
+public static readonly BinType SheetFeed;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: PdfEncryptionDetails
 second_title: Aspose.Page for Java API Reference
 description: Contains details for a pdf encryption.
 type: docs
-weight: 16
+weight: 13
 url: /java/com.aspose.xps.rendering/pdfencryptiondetails/
 ---
 **Inheritance:**

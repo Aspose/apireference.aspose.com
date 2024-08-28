@@ -1,20 +1,14 @@
 ---
 title: Class InputBin.FeedDirection
 second_title: Aspose.Page for .NET API Reference
-description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection class. Defines constants for the
+description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection class. Defines constants for the FeedDirection property value that specify whether media is fed long edge first or short edge first
 type: docs
-weight: 1670
+weight: 1330
 url: /net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class
 
-Defines constants for the
-
-```csharp
-FeedDirection
-```
-
-scored property value.
+Defines constants for the FeedDirection property value that specify whether media is fed long edge first or short edge first.
 
 ```csharp
 public sealed class FeedDirection : Property
@@ -30,8 +24,8 @@ public sealed class FeedDirection : Property
 
 | Name | Description |
 | --- | --- |
-| static [LongEdgeFirst](../../aspose.page.xps.xpsmetadata/feeddirection/longedgefirst/) | LongEdgeFirst value. |
-| static [ShortEdgeFirst](../../aspose.page.xps.xpsmetadata/feeddirection/shortedgefirst/) | LongEdgeFirst value. |
+| static readonly [LongEdgeFirst](../../aspose.page.xps.xpsmetadata/feeddirection/longedgefirst/) | LongEdgeFirst value. |
+| static readonly [ShortEdgeFirst](../../aspose.page.xps.xpsmetadata/feeddirection/shortedgefirst/) | LongEdgeFirst value. |
 
 ### See Also
 

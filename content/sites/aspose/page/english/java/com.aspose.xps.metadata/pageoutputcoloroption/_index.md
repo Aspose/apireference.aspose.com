@@ -21,29 +21,21 @@ Describes the  PageOutputColor  feature options.
 | Constructor | Description |
 | --- | --- |
 | [PageOutputColorOption(String optionName, PageOutputColor.IPageOutputColorOptionItem[] items)](#PageOutputColorOption-java.lang.String-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-) | Creates a new instance. |
-| [PageOutputColorOption(PageOutputColor.PageOutputColorOption option)](#PageOutputColorOption-com.aspose.xps.metadata.PageOutputColor.PageOutputColorOption-) | Clones this option instance. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [Color](#Color) | Specifies the output should be in color. |
-| [Grayscale](#Grayscale) | Specifies the output should be in grayscale. |
-| [Monochrome](#Monochrome) | Specifies the output should be in monochrome (Black). |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [Color(int deviceBitsPerPixel, int driverBitsPerPixel)](#Color-int-int-) | Specifies the output should be in color. |
+| [Grayscale(int deviceBitsPerPixel, int driverBitsPerPixel)](#Grayscale-int-int-) | Specifies the output should be in grayscale. |
+| [Monochrome(int deviceBitsPerPixel, int driverBitsPerPixel)](#Monochrome-int-int-) | Specifies the output should be in monochrome (Black). |
 | [add(IOptionItem[] items)](#add-com.aspose.xps.metadata.IOptionItem...-) | Adds a list of items to the end of this option's item list. |
 | [add(PageOutputColor.IPageOutputColorOptionItem[] items)](#add-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-) | Adds an array of  IPageOutputColorOptionItem  instances to the option. |
-| [clone()](#clone--) | Clones this option instance. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getName()](#getName--) | Gets the element name. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setDeviceBitsPerPixel(int deviceBitsPerPixel)](#setDeviceBitsPerPixel-int-) | Sets a  DeviceBitsPerPixel  scored property value. |
-| [setDriverBitsPerPixel(int driverBitsPerPixel)](#setDriverBitsPerPixel-int-) | Sets a  DriverBitsPerPixel  scored property value. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -62,43 +54,54 @@ Creates a new instance.
 | optionName | java.lang.String | An options name. |
 | items | [IPageOutputColorOptionItem\[\]](../../com.aspose.xps.metadata/ipageoutputcoloroptionitem) | An arbitrary array of  IPageOutputColorOptionItem  instances. |
 
-### PageOutputColorOption(PageOutputColor.PageOutputColorOption option) {#PageOutputColorOption-com.aspose.xps.metadata.PageOutputColor.PageOutputColorOption-}
+### Color(int deviceBitsPerPixel, int driverBitsPerPixel) {#Color-int-int-}
 ```
-public PageOutputColorOption(PageOutputColor.PageOutputColorOption option)
-```
-
-
-Clones this option instance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| option | [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) | An instance to clone. |
-
-### Color {#Color}
-```
-public static PageOutputColor.PageOutputColorOption Color
+public static final PageOutputColor.PageOutputColorOption Color(int deviceBitsPerPixel, int driverBitsPerPixel)
 ```
 
 
 Specifies the output should be in color.
 
-### Grayscale {#Grayscale}
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| deviceBitsPerPixel | int | A  DeviceBitsPerPixel  scored property value that indicates the number of bits per pixel of color data supported by the printer. |
+| driverBitsPerPixel | int | A  DriverBitsPerPixel  scored property value that indicates the number of bits per pixel that the core driver should use for its bitmap rendering buffer. |
+
+**Returns:**
+[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - The  PageOutputColor  options.
+### Grayscale(int deviceBitsPerPixel, int driverBitsPerPixel) {#Grayscale-int-int-}
 ```
-public static PageOutputColor.PageOutputColorOption Grayscale
+public static final PageOutputColor.PageOutputColorOption Grayscale(int deviceBitsPerPixel, int driverBitsPerPixel)
 ```
 
 
 Specifies the output should be in grayscale.
 
-### Monochrome {#Monochrome}
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| deviceBitsPerPixel | int | A  DeviceBitsPerPixel  scored property value that indicates the number of bits per pixel of color data supported by the printer. |
+| driverBitsPerPixel | int | A  DriverBitsPerPixel  scored property value that indicates the number of bits per pixel that the core driver should use for its bitmap rendering buffer. |
+
+**Returns:**
+[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - The  PageOutputColor  options.
+### Monochrome(int deviceBitsPerPixel, int driverBitsPerPixel) {#Monochrome-int-int-}
 ```
-public static PageOutputColor.PageOutputColorOption Monochrome
+public static final PageOutputColor.PageOutputColorOption Monochrome(int deviceBitsPerPixel, int driverBitsPerPixel)
 ```
 
 
 Specifies the output should be in monochrome (Black).
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| deviceBitsPerPixel | int | A  DeviceBitsPerPixel  scored property value that indicates the number of bits per pixel of color data supported by the printer. |
+| driverBitsPerPixel | int | A  DriverBitsPerPixel  scored property value that indicates the number of bits per pixel that the core driver should use for its bitmap rendering buffer. |
+
+**Returns:**
+[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - The  PageOutputColor  options.
 ### add(IOptionItem[] items) {#add-com.aspose.xps.metadata.IOptionItem...-}
 ```
 public void add(IOptionItem[] items)
@@ -127,16 +130,6 @@ Adds an array of  IPageOutputColorOptionItem  instances to the option.
 
 **Returns:**
 [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This options instance.
-### clone() {#clone--}
-```
-public PageOutputColor.PageOutputColorOption clone()
-```
-
-
-Clones this option instance. The shortcut to the cloneing constructor.
-
-**Returns:**
-[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - The clone of this option instance.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -198,36 +191,6 @@ public final native void notifyAll()
 
 
 
-### setDeviceBitsPerPixel(int deviceBitsPerPixel) {#setDeviceBitsPerPixel-int-}
-```
-public PageOutputColor.PageOutputColorOption setDeviceBitsPerPixel(int deviceBitsPerPixel)
-```
-
-
-Sets a  DeviceBitsPerPixel  scored property value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| deviceBitsPerPixel | int | A  DeviceBitsPerPixel  scored property value. |
-
-**Returns:**
-[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This option instance.
-### setDriverBitsPerPixel(int driverBitsPerPixel) {#setDriverBitsPerPixel-int-}
-```
-public PageOutputColor.PageOutputColorOption setDriverBitsPerPixel(int driverBitsPerPixel)
-```
-
-
-Sets a  DriverBitsPerPixel  scored property value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| driverBitsPerPixel | int | A  DriverBitsPerPixel  scored property value. |
-
-**Returns:**
-[PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This option instance.
 ### toString() {#toString--}
 ```
 public String toString()

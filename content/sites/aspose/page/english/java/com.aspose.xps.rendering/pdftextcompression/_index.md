@@ -3,7 +3,7 @@ title: PdfTextCompression
 second_title: Aspose.Page for Java API Reference
 description: Specifies a type of compression applied to all contents in the PDF file except images.
 type: docs
-weight: 24
+weight: 23
 url: /java/com.aspose.xps.rendering/pdftextcompression/
 ---
 **Inheritance:**

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/bindbott
 Specifies binding along the bottom edge.
 
 ```csharp
-public static BindingOption BindBottom;
+public static readonly BindingOption BindBottom;
 ```
 
 ### See Also

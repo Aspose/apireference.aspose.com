@@ -3,7 +3,7 @@ title: Aspose.Page.XPS
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.XPS is a root namespace for all classes that deal with XPS document
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.page.xps/
 ---
 The **Aspose.Page.XPS** is a root namespace for all classes that deal with XPS document.

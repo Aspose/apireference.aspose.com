@@ -20,7 +20,7 @@ Describes the collating characteristics of the output. All pages in each individ
 
 | Constructor | Description |
 | --- | --- |
-| [DocumentCollate(Collate.CollateOption[] options)](#DocumentCollate-com.aspose.xps.metadata.Collate.CollateOption...-) |  |
+| [DocumentCollate(Collate.CollateOption[] options)](#DocumentCollate-com.aspose.xps.metadata.Collate.CollateOption...-) | Creates a new instance. |
 ## Methods
 
 | Method | Description |
@@ -42,10 +42,12 @@ public DocumentCollate(Collate.CollateOption[] options)
 ```
 
 
+Creates a new instance.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | [CollateOption\[\]](../../com.aspose.xps.metadata/collateoption) |  |
+| options | [CollateOption\[\]](../../com.aspose.xps.metadata/collateoption) | An array of options specific for the feature. |
 
 ### add(IFeatureItem[] items) {#add-com.aspose.xps.metadata.IFeatureItem...-}
 ```
@@ -53,7 +55,7 @@ public void add(IFeatureItem[] items)
 ```
 
 
-Adds a list of items to the end of this feature's item list. Each one must be a  Feature , an  Option  or a  Property  instance.
+Adds a list of items to the end of this feature's item list. Each one must be a  Feature , an  Option , or a  Property  instance.
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter class. Describes the way to specify the
 type: docs
-weight: 1810
+weight: 1490
 url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class
@@ -42,7 +42,7 @@ public sealed class BindingGutter : ScoredProperty
 
 | Name | Description |
 | --- | --- |
-| static [JobBindAllDocumentsGutter](../../aspose.page.xps.xpsmetadata/bindinggutter/jobbindalldocumentsgutter/) | Specifies the |
+| static readonly [JobBindAllDocumentsGutter](../../aspose.page.xps.xpsmetadata/bindinggutter/jobbindalldocumentsgutter/) | Specifies the |
 
 ### See Also
 

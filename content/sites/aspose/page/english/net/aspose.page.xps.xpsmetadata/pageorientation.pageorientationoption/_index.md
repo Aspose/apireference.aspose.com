@@ -3,7 +3,7 @@ title: Class PageOrientation.PageOrientationOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageOrientationPageOrientationOption class. Describes the PageOrientation feature options
 type: docs
-weight: 2960
+weight: 2650
 url: /net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/
 ---
 ## PageOrientation.PageOrientationOption class
@@ -30,10 +30,10 @@ public sealed class PageOrientationOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [Landscape](../../aspose.page.xps.xpsmetadata/pageorientationoption/landscape/) | Content is rotated on the page 90 degrees CCW relative to standard (portrait) orientation. |
-| static [Portrait](../../aspose.page.xps.xpsmetadata/pageorientationoption/portrait/) | Standard Orientation. |
-| static [ReverseLandscape](../../aspose.page.xps.xpsmetadata/pageorientationoption/reverselandscape/) | Content is rotated on the page 270 degrees CCW relative to standard (portrait) orientation. |
-| static [ReversePortrait](../../aspose.page.xps.xpsmetadata/pageorientationoption/reverseportrait/) | Content is rotated on the page 180 degrees relative to standard (portrait) orientation. |
+| static readonly [Landscape](../../aspose.page.xps.xpsmetadata/pageorientationoption/landscape/) | Content is rotated on the page 90 degrees CCW relative to standard (portrait) orientation. |
+| static readonly [Portrait](../../aspose.page.xps.xpsmetadata/pageorientationoption/portrait/) | Standard Orientation. |
+| static readonly [ReverseLandscape](../../aspose.page.xps.xpsmetadata/pageorientationoption/reverselandscape/) | Content is rotated on the page 270 degrees CCW relative to standard (portrait) orientation. |
+| static readonly [ReversePortrait](../../aspose.page.xps.xpsmetadata/pageorientationoption/reverseportrait/) | Content is rotated on the page 180 degrees relative to standard (portrait) orientation. |
 
 ### See Also
 

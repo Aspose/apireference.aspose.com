@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Gets stroke of current graphics state
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

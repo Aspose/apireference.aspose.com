@@ -3,7 +3,7 @@ title: Units
 second_title: Aspose.Page for Java API Reference
 description: This enum contains possible values for size units.
 type: docs
-weight: 29
+weight: 25
 url: /java/com.aspose.page/units/
 ---
 **Inheritance:**

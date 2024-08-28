@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobpageorder.jobpageorderoption/reverse/
 Specifies back to front page order.
 
 ```csharp
-public static JobPageOrderOption Reverse;
+public static readonly JobPageOrderOption Reverse;
 ```
 
 ### See Also

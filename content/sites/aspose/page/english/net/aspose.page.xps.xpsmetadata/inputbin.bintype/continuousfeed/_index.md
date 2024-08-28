@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.bintype/continuousfeed/
 ContinuousFeed value.
 
 ```csharp
-public static BinType ContinuousFeed;
+public static readonly BinType ContinuousFeed;
 ```
 
 ### See Also

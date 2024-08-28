@@ -3,7 +3,7 @@ title: Class PageMediaSize
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSize class. Describes the physical media dimensions used for the output. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasize
 type: docs
-weight: 2700
+weight: 2390
 url: /net/aspose.page.xps.xpsmetadata/pagemediasize/
 ---
 ## PageMediaSize class
@@ -31,7 +31,7 @@ public sealed class PageMediaSize : Feature, IDocumentPrintTicketItem, IJobPrint
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

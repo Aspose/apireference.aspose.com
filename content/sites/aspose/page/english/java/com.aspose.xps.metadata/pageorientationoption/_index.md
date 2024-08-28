@@ -38,7 +38,7 @@ Describes the  PageOrientation  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Landscape {#Landscape}
 ```
-public static PageOrientation.PageOrientationOption Landscape
+public static final PageOrientation.PageOrientationOption Landscape
 ```
 
 
@@ -46,7 +46,7 @@ Content is rotated on the page 90 degrees CCW relative to standard (portrait) or
 
 ### Portrait {#Portrait}
 ```
-public static PageOrientation.PageOrientationOption Portrait
+public static final PageOrientation.PageOrientationOption Portrait
 ```
 
 
@@ -54,7 +54,7 @@ Standard Orientation.
 
 ### ReverseLandscape {#ReverseLandscape}
 ```
-public static PageOrientation.PageOrientationOption ReverseLandscape
+public static final PageOrientation.PageOrientationOption ReverseLandscape
 ```
 
 
@@ -62,7 +62,7 @@ Content is rotated on the page 270 degrees CCW relative to standard (portrait) o
 
 ### ReversePortrait {#ReversePortrait}
 ```
-public static PageOrientation.PageOrientationOption ReversePortrait
+public static final PageOrientation.PageOrientationOption ReversePortrait
 ```
 
 

@@ -3,7 +3,7 @@ title: Enum Units
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Units enum. This enum contains possible values for size units
 type: docs
-weight: 930
+weight: 530
 url: /net/aspose.page/units/
 ---
 ## Units enumeration

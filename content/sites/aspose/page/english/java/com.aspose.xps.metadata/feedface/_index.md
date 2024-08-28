@@ -38,7 +38,7 @@ Defines constants for the  FeedFace  scored property value.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### FaceDown {#FaceDown}
 ```
-public static InputBin.FeedFace FaceDown
+public static final InputBin.FeedFace FaceDown
 ```
 
 
@@ -46,7 +46,7 @@ FaceDown value.
 
 ### FaceUp {#FaceUp}
 ```
-public static InputBin.FeedFace FaceUp
+public static final InputBin.FeedFace FaceUp
 ```
 
 

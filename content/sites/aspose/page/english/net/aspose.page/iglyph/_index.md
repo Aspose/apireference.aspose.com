@@ -3,7 +3,7 @@ title: Interface IGlyph
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.IGlyph interface. This interface give access to main parameters of glyphs
 type: docs
-weight: 630
+weight: 260
 url: /net/aspose.page/iglyph/
 ---
 ## IGlyph interface

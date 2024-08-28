@@ -3,7 +3,7 @@ title: Class XpsConverterOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.XpsConverterOptions class. Represents options for XpsConverter plugin
 type: docs
-weight: 880
+weight: 480
 url: /net/aspose.page.plugins/xpsconverteroptions/
 ---
 ## XpsConverterOptions class

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.feedtype/manual/
 Manual value.
 
 ```csharp
-public static FeedType Manual;
+public static readonly FeedType Manual;
 ```
 
 ### See Also

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization.joboutputoptimizatio
 Specifies the job processing be optimized for quality of output.
 
 ```csharp
-public static JobOutputOptimizationOption OptimizeForQuality;
+public static readonly JobOutputOptimizationOption OptimizeForQuality;
 ```
 
 ### See Also

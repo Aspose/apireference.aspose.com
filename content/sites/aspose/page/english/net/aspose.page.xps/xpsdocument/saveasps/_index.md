@@ -6,7 +6,29 @@ type: docs
 weight: 560
 url: /net/aspose.page.xps/xpsdocument/saveasps/
 ---
-## XpsDocument.SaveAsPs method
+## SaveAsPs(string, PsSaveOptions) {#saveasps_1}
+
+Saves the document in PS format.
+
+```csharp
+public void SaveAsPs(string outPsFilePath, PsSaveOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outPsFilePath | String | An output PS file path. |
+| options | PsSaveOptions | Options for saving the document in PS format. |
+
+### See Also
+
+* class [PsSaveOptions](../../../aspose.page.eps.device/pssaveoptions/)
+* class [XpsDocument](../)
+* namespace [Aspose.Page.XPS](../../xpsdocument/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## SaveAsPs(Stream, PsSaveOptions) {#saveasps}
 
 Saves the document in PS format.
 

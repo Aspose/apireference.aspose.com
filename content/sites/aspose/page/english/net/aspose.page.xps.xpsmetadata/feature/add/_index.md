@@ -8,7 +8,7 @@ url: /net/aspose.page.xps.xpsmetadata/feature/add/
 ---
 ## Feature.Add method
 
-Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../), an [`Option`](../../option/) or a [`Property`](../../property/) instance.
+Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../), an [`Option`](../../option/), or a [`Property`](../../property/) instance.
 
 ```csharp
 public void Add(params IFeatureItem[] items)

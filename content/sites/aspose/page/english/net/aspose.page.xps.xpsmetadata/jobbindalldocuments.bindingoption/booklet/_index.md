@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/booklet/
 Specifies booklet binding.
 
 ```csharp
-public static BindingOption Booklet;
+public static readonly BindingOption Booklet;
 ```
 
 ### See Also

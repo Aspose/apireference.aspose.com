@@ -3,7 +3,7 @@ title: Class PageConstants
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PageConstants class. This class defines a set of constants which describe a page. Convenience objects are provided for various margins orientations rescaling and standard page sizes
 type: docs
-weight: 520
+weight: 150
 url: /net/aspose.page.eps/pageconstants/
 ---
 ## PageConstants class

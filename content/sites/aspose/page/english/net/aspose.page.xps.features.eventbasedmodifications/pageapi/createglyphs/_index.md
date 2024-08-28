@@ -1,0 +1,69 @@
+---
+title: PageAPI.CreateGlyphs
+second_title: Aspose.Page for .NET API Reference
+description: PageAPI method. Creates new glyphs
+type: docs
+weight: 140
+url: /net/aspose.page.xps.features.eventbasedmodifications/pageapi/createglyphs/
+---
+## CreateGlyphs(string, float, FontStyle, float, float, string) {#createglyphs_1}
+
+Creates new glyphs.
+
+```csharp
+public XpsGlyphs CreateGlyphs(string fontFamily, float fontRenderingEmSize, FontStyle fontStyle, 
+    float originX, float originY, string unicodeString)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontFamily | String | Font family. |
+| fontRenderingEmSize | Single | Font size. |
+| fontStyle | FontStyle | Font style. |
+| originX | Single | Glyphs origin X coordinate. |
+| originY | Single | Glyphs origin Y coordinate. |
+| unicodeString | String | String to be printed. |
+
+### Return Value
+
+New glyphs.
+
+### See Also
+
+* class [XpsGlyphs](../../../aspose.page.xps.xpsmodel/xpsglyphs/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CreateGlyphs(XpsFont, float, float, float, string) {#createglyphs}
+
+Creates new glyphs.
+
+```csharp
+public XpsGlyphs CreateGlyphs(XpsFont font, float fontRenderingEmSize, float originX, 
+    float originY, string unicodeString)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | XpsFont | Font resource. |
+| fontRenderingEmSize | Single | Font size. |
+| originX | Single | Glyphs origin X coordinate. |
+| originY | Single | Glyphs origin Y coordinate. |
+| unicodeString | String | String to be printed. |
+
+### Return Value
+
+New glyphs.
+
+### See Also
+
+* class [XpsGlyphs](../../../aspose.page.xps.xpsmodel/xpsglyphs/)
+* class [XpsFont](../../../aspose.page.xps.xpsmodel/xpsfont/)
+* class [PageAPI](../)
+* namespace [Aspose.Page.XPS.Features.EventBasedModifications](../../pageapi/)
+* assembly [Aspose.Page](../../../)
+
+

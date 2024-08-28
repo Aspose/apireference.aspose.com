@@ -3,7 +3,7 @@ title: ITrFont
 second_title: Aspose.Page for Java API Reference
 description: This interface give access to main parameters of font.
 type: docs
-weight: 26
+weight: 22
 url: /java/com.aspose.page/itrfont/
 ---```
 public interface ITrFont

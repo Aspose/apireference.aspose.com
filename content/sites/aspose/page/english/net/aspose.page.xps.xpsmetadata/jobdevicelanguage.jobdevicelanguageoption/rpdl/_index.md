@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is RPDL.
 
 ```csharp
-public static JobDeviceLanguageOption RPDL;
+public static readonly JobDeviceLanguageOption RPDL;
 ```
 
 ### See Also

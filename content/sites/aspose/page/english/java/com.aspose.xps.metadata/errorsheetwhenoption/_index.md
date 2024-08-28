@@ -36,7 +36,7 @@ Describes the  ErrorSheetWhen  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Always {#Always}
 ```
-public static JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption Always
+public static final JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption Always
 ```
 
 
@@ -44,7 +44,7 @@ Specifies an error sheet will be output for every job.
 
 ### OnError {#OnError}
 ```
-public static JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption OnError
+public static final JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption OnError
 ```
 
 

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/cassette/
 Specifies the feed bin is a cassette.
 
 ```csharp
-public static InputBinOption Cassette;
+public static readonly InputBinOption Cassette;
 ```
 
 ### See Also

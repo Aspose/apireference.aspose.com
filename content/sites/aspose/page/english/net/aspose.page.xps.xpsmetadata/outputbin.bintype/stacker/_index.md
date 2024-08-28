@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/outputbin.bintype/stacker/
 Stacker bin.
 
 ```csharp
-public static BinType Stacker;
+public static readonly BinType Stacker;
 ```
 
 ### See Also

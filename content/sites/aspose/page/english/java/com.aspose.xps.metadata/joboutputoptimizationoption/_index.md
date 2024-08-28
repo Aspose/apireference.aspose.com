@@ -39,7 +39,7 @@ Describes the  JobOutputOptimization  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### ArchiveFormat {#ArchiveFormat}
 ```
-public static JobOutputOptimization.JobOutputOptimizationOption ArchiveFormat
+public static final JobOutputOptimization.JobOutputOptimizationOption ArchiveFormat
 ```
 
 
@@ -55,7 +55,7 @@ Specifies the job processing should not be optimized for a particular scenario.
 
 ### OptimizeForPortability {#OptimizeForPortability}
 ```
-public static JobOutputOptimization.JobOutputOptimizationOption OptimizeForPortability
+public static final JobOutputOptimization.JobOutputOptimizationOption OptimizeForPortability
 ```
 
 
@@ -63,7 +63,7 @@ Specifies the job processing be optimized for portability (cross-device) of outp
 
 ### OptimizeForQuality {#OptimizeForQuality}
 ```
-public static JobOutputOptimization.JobOutputOptimizationOption OptimizeForQuality
+public static final JobOutputOptimization.JobOutputOptimizationOption OptimizeForQuality
 ```
 
 
@@ -71,7 +71,7 @@ Specifies the job processing be optimized for quality of output.
 
 ### OptimizeForSpeed {#OptimizeForSpeed}
 ```
-public static JobOutputOptimization.JobOutputOptimizationOption OptimizeForSpeed
+public static final JobOutputOptimization.JobOutputOptimizationOption OptimizeForSpeed
 ```
 
 

@@ -12,7 +12,6 @@ The **Aspose.Page.Xps.Presentation.Pdf** namespace provides classes for renderin
 
 | Class | Description |
 | --- | --- |
-| [PdfDevice](./pdfdevice/) | Class incapsulating image composing device. |
 | [PdfEncryptionDetails](./pdfencryptiondetails/) | Contains details for a pdf encryption. |
 | [PdfSaveOptions](./pdfsaveoptions/) | Class for XPS-as-PDF saving options. |
 ## Enumeration

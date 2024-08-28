@@ -38,7 +38,7 @@ Defines constants for the  FeedDirection  scored property value.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### LongEdgeFirst {#LongEdgeFirst}
 ```
-public static InputBin.FeedDirection LongEdgeFirst
+public static final InputBin.FeedDirection LongEdgeFirst
 ```
 
 
@@ -46,7 +46,7 @@ LongEdgeFirst value.
 
 ### ShortEdgeFirst {#ShortEdgeFirst}
 ```
-public static InputBin.FeedDirection ShortEdgeFirst
+public static final InputBin.FeedDirection ShortEdgeFirst
 ```
 
 

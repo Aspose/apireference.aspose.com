@@ -3,7 +3,7 @@ title: Interface IOperationResult
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.IOperationResult interface. General operation result interface that defines common methods that concrete plugin operation result should implement
 type: docs
-weight: 760
+weight: 360
 url: /net/aspose.page.plugins/ioperationresult/
 ---
 ## IOperationResult interface

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/edgestit
 Specifies edge stitching along the bottom edge.
 
 ```csharp
-public static BindingOption EdgeStitchBottom;
+public static readonly BindingOption EdgeStitchBottom;
 ```
 
 ### See Also

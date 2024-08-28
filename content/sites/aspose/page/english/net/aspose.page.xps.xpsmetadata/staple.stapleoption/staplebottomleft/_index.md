@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/staple.stapleoption/staplebottomleft/
 Specifies a single staple in the bottom, left corner.
 
 ```csharp
-public static StapleOption StapleBottomLeft;
+public static readonly StapleOption StapleBottomLeft;
 ```
 
 ### See Also

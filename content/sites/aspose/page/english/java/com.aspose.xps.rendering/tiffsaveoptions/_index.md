@@ -3,7 +3,7 @@ title: TiffSaveOptions
 second_title: Aspose.Page for Java API Reference
 description: Class for XPS-as-TIFF saving options.
 type: docs
-weight: 20
+weight: 16
 url: /java/com.aspose.xps.rendering/tiffsaveoptions/
 ---
 **Inheritance:**
@@ -24,6 +24,8 @@ Class for XPS-as-TIFF saving options.
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAdditionalFontsFolders()](#getAdditionalFontsFolders--) | Returns additional fonts folders where converter should find fonts for input document. |
+| [getBatchSize()](#getBatchSize--) | Returns the size of a portion of pages to pass from node to node. |
+| [getBeforePageSavingEventHandlers()](#getBeforePageSavingEventHandlers--) | Returns the collection of event handlers that performs modifications to an XPS page just before it is saved. |
 | [getClass()](#getClass--) |  |
 | [getExceptions()](#getExceptions--) | Returns a list of non-critical errors. |
 | [getImageSize()](#getImageSize--) | Gets the size of the output images in pixels. |
@@ -42,6 +44,7 @@ Class for XPS-as-TIFF saving options.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setAdditionalFontsFolders(String[] fontsFolders)](#setAdditionalFontsFolders-java.lang.String---) | Specifies additional fonts folders where converter should find fonts for input document. |
+| [setBatchSize(int value)](#setBatchSize-int-) | Sets the size of a portion of pages to pass from node to node. |
 | [setDebug(boolean debug)](#setDebug-boolean-) | Specifies the flag that allows output of warnings and messages during conversion. |
 | [setImageSize(Dimension value)](#setImageSize-java.awt.Dimension-) | Sets the size of the output images in pixels. |
 | [setInterpolationMode(InterpolationMode value)](#setInterpolationMode-com.aspose.xps.rendering.InterpolationMode-) | Sets the interpolation mode. |
@@ -89,6 +92,26 @@ Returns additional fonts folders where converter should find fonts for input doc
 
 **Returns:**
 java.lang.String[] - An array of fonts folders.
+### getBatchSize() {#getBatchSize--}
+```
+public int getBatchSize()
+```
+
+
+Returns the size of a portion of pages to pass from node to node.
+
+**Returns:**
+int - The size of a portion of pages to pass from node to node.
+### getBeforePageSavingEventHandlers() {#getBeforePageSavingEventHandlers--}
+```
+public List<EventBasedModifications.BeforePageSavingEventHandler> getBeforePageSavingEventHandlers()
+```
+
+
+Returns the collection of event handlers that performs modifications to an XPS page just before it is saved.
+
+**Returns:**
+java.util.List<com.aspose.xps.features.EventBasedModifications.BeforePageSavingEventHandler>
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -240,7 +263,7 @@ Sets the flag that defines if multiple images should be saved in a single multip
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean |  |
+| value | boolean | The flag that defines if multiple images should be saved in a single multipage TIFF file. |
 
 ### notify() {#notify--}
 ```
@@ -270,6 +293,19 @@ Specifies additional fonts folders where converter should find fonts for input d
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontsFolders | java.lang.String[] | An array of fonts folders. |
+
+### setBatchSize(int value) {#setBatchSize-int-}
+```
+public void setBatchSize(int value)
+```
+
+
+Sets the size of a portion of pages to pass from node to node.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | The size of a portion of pages to pass from node to node. |
 
 ### setDebug(boolean debug) {#setDebug-boolean-}
 ```

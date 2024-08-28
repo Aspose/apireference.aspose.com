@@ -3,7 +3,7 @@ title: Class DocumentUtils
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.DocumentUtils class. This class provides utilities beyond the formal XPS manipulation API
 type: docs
-weight: 950
+weight: 550
 url: /net/aspose.page.xps/documentutils/
 ---
 ## DocumentUtils class

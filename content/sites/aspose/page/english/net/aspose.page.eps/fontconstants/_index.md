@@ -3,7 +3,7 @@ title: Class FontConstants
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.FontConstants class. This class defines a set of constants for saving fonts
 type: docs
-weight: 490
+weight: 120
 url: /net/aspose.page.eps/fontconstants/
 ---
 ## FontConstants class

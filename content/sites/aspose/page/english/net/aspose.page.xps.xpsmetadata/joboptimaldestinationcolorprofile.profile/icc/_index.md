@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile.profile/
 ICC profile.
 
 ```csharp
-public static Profile ICC;
+public static readonly Profile ICC;
 ```
 
 ### See Also

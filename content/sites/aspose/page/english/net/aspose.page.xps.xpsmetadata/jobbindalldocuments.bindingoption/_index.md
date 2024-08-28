@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingOption class. Describes the JobBindAllDocuments feature options
 type: docs
-weight: 1820
+weight: 1500
 url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/
 ---
 ## JobBindAllDocuments.BindingOption class
@@ -36,20 +36,20 @@ public sealed class BindingOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [Bale](../../aspose.page.xps.xpsmetadata/bindingoption/bale/) | Specifies bale binding. |
-| static [BindBottom](../../aspose.page.xps.xpsmetadata/bindingoption/bindbottom/) | Specifies binding along the bottom edge. |
-| static [BindLeft](../../aspose.page.xps.xpsmetadata/bindingoption/bindleft/) | Specifies binding along the left edge. |
-| static [BindRight](../../aspose.page.xps.xpsmetadata/bindingoption/bindright/) | Specifies binding along the right edge. |
-| static [BindTop](../../aspose.page.xps.xpsmetadata/bindingoption/bindtop/) | Specifies binding along the top edge. |
-| static [Booklet](../../aspose.page.xps.xpsmetadata/bindingoption/booklet/) | Specifies booklet binding. |
-| static [EdgeStitchBottom](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchbottom/) | Specifies edge stitching along the bottom edge. |
-| static [EdgeStitchLeft](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchleft/) | Specifies edge stitching along the left edge. |
-| static [EdgeStitchRight](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchright/) | Specifies edge stitching along the right edge. |
-| static [EdgeStitchTop](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchtop/) | Specifies edge stitching along the top edge. |
-| static [Fold](../../aspose.page.xps.xpsmetadata/bindingoption/fold/) | Specifies a folded binding. |
-| static [JogOffset](../../aspose.page.xps.xpsmetadata/bindingoption/jogoffset/) | Specifies jog offset binding. |
-| static [None](../../aspose.page.xps.xpsmetadata/bindingoption/none/) | Specifies no binding. |
-| static [Trim](../../aspose.page.xps.xpsmetadata/bindingoption/trim/) | Specifies trimming binding. |
+| static readonly [Bale](../../aspose.page.xps.xpsmetadata/bindingoption/bale/) | Specifies bale binding. |
+| static readonly [BindBottom](../../aspose.page.xps.xpsmetadata/bindingoption/bindbottom/) | Specifies binding along the bottom edge. |
+| static readonly [BindLeft](../../aspose.page.xps.xpsmetadata/bindingoption/bindleft/) | Specifies binding along the left edge. |
+| static readonly [BindRight](../../aspose.page.xps.xpsmetadata/bindingoption/bindright/) | Specifies binding along the right edge. |
+| static readonly [BindTop](../../aspose.page.xps.xpsmetadata/bindingoption/bindtop/) | Specifies binding along the top edge. |
+| static readonly [Booklet](../../aspose.page.xps.xpsmetadata/bindingoption/booklet/) | Specifies booklet binding. |
+| static readonly [EdgeStitchBottom](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchbottom/) | Specifies edge stitching along the bottom edge. |
+| static readonly [EdgeStitchLeft](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchleft/) | Specifies edge stitching along the left edge. |
+| static readonly [EdgeStitchRight](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchright/) | Specifies edge stitching along the right edge. |
+| static readonly [EdgeStitchTop](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchtop/) | Specifies edge stitching along the top edge. |
+| static readonly [Fold](../../aspose.page.xps.xpsmetadata/bindingoption/fold/) | Specifies a folded binding. |
+| static readonly [JogOffset](../../aspose.page.xps.xpsmetadata/bindingoption/jogoffset/) | Specifies jog offset binding. |
+| static readonly [None](../../aspose.page.xps.xpsmetadata/bindingoption/none/) | Specifies no binding. |
+| static readonly [Trim](../../aspose.page.xps.xpsmetadata/bindingoption/trim/) | Specifies trimming binding. |
 
 ### See Also
 

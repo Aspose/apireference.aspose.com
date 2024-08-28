@@ -36,7 +36,7 @@ Describes the  JobPageOrder  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Reverse {#Reverse}
 ```
-public static JobPageOrder.JobPageOrderOption Reverse
+public static final JobPageOrder.JobPageOrderOption Reverse
 ```
 
 
@@ -44,7 +44,7 @@ Specifies back to front page order.
 
 ### Standard {#Standard}
 ```
-public static JobPageOrder.JobPageOrderOption Standard
+public static final JobPageOrder.JobPageOrderOption Standard
 ```
 
 

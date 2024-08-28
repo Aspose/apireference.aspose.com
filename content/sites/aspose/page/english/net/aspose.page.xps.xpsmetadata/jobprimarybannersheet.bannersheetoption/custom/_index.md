@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarybannersheet.bannersheetoption/cu
 Specifies a custom banner sheet should be output. If a [`JobPrimaryBannerSheetSource`](../../jobprimarybannersheetsource/)[`ParameterInit`](../../parameterinit/) element is not specified, this Option should be ignored.
 
 ```csharp
-public static BannerSheetOption Custom;
+public static readonly BannerSheetOption Custom;
 ```
 
 ### See Also

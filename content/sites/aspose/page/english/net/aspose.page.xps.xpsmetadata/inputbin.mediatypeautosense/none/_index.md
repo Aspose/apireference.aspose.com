@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.mediatypeautosense/none/
 None value.
 
 ```csharp
-public static MediaTypeAutoSense None;
+public static readonly MediaTypeAutoSense None;
 ```
 
 ### See Also

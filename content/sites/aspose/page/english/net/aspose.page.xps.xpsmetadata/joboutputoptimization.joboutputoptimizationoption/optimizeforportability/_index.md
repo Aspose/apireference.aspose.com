@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization.joboutputoptimizatio
 Specifies the job processing be optimized for portability (cross-device) of output.
 
 ```csharp
-public static JobOutputOptimizationOption OptimizeForPortability;
+public static readonly JobOutputOptimizationOption OptimizeForPortability;
 ```
 
 ### See Also

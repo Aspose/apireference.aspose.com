@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.mediapath/serpentine/
 Serpentine value.
 
 ```csharp
-public static MediaPath Serpentine;
+public static readonly MediaPath Serpentine;
 ```
 
 ### See Also
