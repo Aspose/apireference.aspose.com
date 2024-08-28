@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.feedface/faceup/
 FaceUp value.
 
 ```csharp
-public static FeedFace FaceUp;
+public static readonly FeedFace FaceUp;
 ```
 
 ### See Also

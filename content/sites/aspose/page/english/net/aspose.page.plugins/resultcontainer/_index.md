@@ -3,7 +3,7 @@ title: Class ResultContainer
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.ResultContainer class. Represents container that contains the result collection of processing the plugin
 type: docs
-weight: 830
+weight: 430
 url: /net/aspose.page.plugins/resultcontainer/
 ---
 ## ResultContainer class

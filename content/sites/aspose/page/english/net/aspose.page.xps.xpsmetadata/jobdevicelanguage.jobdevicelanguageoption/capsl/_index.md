@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is CaPSL.
 
 ```csharp
-public static JobDeviceLanguageOption CaPSL;
+public static readonly JobDeviceLanguageOption CaPSL;
 ```
 
 ### See Also

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/edgestit
 Specifies edge stitching along the left edge.
 
 ```csharp
-public static BindingOption EdgeStitchLeft;
+public static readonly BindingOption EdgeStitchLeft;
 ```
 
 ### See Also

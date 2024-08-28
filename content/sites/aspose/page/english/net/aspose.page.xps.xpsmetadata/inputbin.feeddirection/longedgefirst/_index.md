@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/longedgefirst/
 LongEdgeFirst value.
 
 ```csharp
-public static FeedDirection LongEdgeFirst;
+public static readonly FeedDirection LongEdgeFirst;
 ```
 
 ### See Also

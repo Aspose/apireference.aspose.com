@@ -3,7 +3,7 @@ title: PdfImageCompression
 second_title: Aspose.Page for Java API Reference
 description: Specifies the type of compression applied to images in the PDF file.
 type: docs
-weight: 23
+weight: 22
 url: /java/com.aspose.xps.rendering/pdfimagecompression/
 ---
 **Inheritance:**

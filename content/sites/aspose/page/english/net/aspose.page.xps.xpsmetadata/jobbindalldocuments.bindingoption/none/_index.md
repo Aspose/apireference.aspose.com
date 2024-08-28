@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/none/
 Specifies no binding.
 
 ```csharp
-public static BindingOption None;
+public static readonly BindingOption None;
 ```
 
 ### See Also

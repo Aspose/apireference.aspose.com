@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide class. Forces the output to appear on the front of a media sheet. Relevant to media sheets with different surfaces on each side. In cases where this feature interferes with processing options such as DocumentDuplex
 type: docs
-weight: 2620
+weight: 2310
 url: /net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class
@@ -37,7 +37,7 @@ public sealed class PageForceFrontSide : Feature, IDocumentPrintTicketItem, IJob
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

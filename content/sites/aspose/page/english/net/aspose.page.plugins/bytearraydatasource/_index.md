@@ -3,7 +3,7 @@ title: Class ByteArrayDataSource
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Plugins.ByteArrayDataSource class. Represents byte array data source for save operations of a plugin
 type: docs
-weight: 700
+weight: 300
 url: /net/aspose.page.plugins/bytearraydatasource/
 ---
 ## ByteArrayDataSource class

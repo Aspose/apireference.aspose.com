@@ -3,7 +3,7 @@ title: Class PngSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.Presentation.Image.PngSaveOptions class. Class for XPSasPNG saving options
 type: docs
-weight: 1030
+weight: 700
 url: /net/aspose.page.xps.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class
@@ -25,6 +25,8 @@ public class PngSaveOptions : ImageSaveOptions
 | Name | Description |
 | --- | --- |
 | [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
+| [BatchSize](../../aspose.page.xps.presentation.image/imagesaveoptions/batchsize/) { get; set; } | Specifies the size of a portion of pages to pass from node to node. |
+| [BeforePageSavingEventHandlers](../../aspose.page.xps.presentation.image/imagesaveoptions/beforepagesavingeventhandlers/) { get; } | The collection of event handlers that performs modifications to an XPS page just before it is saved. |
 | virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Specifies whether debug information must be printed to standard output stream or not. |
 | virtual [Exceptions](../../aspose.page/saveoptions/exceptions/) { get; } | Returns a list of suppressed conversion errors If !:SuppressErrors is true. |
 | [ImageSize](../../aspose.page.xps.presentation.image/imagesaveoptions/imagesize/) { get; set; } | Gets/sets the size of the output images in pixels. |

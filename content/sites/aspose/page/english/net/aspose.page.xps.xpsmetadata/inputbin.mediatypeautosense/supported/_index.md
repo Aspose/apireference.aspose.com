@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.mediatypeautosense/supported/
 Supported value.
 
 ```csharp
-public static MediaTypeAutoSense Supported;
+public static readonly MediaTypeAutoSense Supported;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class PsDocument
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.PsDocument class. This class encapsulates PS/EPS documents
 type: docs
-weight: 540
+weight: 170
 url: /net/aspose.page.eps/psdocument/
 ---
 ## PsDocument class
@@ -21,8 +21,11 @@ public sealed class PsDocument : Document
 | [PsDocument](psdocument/#constructor)(Stream) | Initializes `PsDocument` with a stream of PS/EPS file. |
 | [PsDocument](psdocument/#constructor_4)(string) | Initializes `PsDocument` with an input PS/EPS file. |
 | [PsDocument](psdocument/#constructor_1)(Stream, PsSaveOptions) | Initializes empty `PsDocument` with initialized page. |
+| [PsDocument](psdocument/#constructor_5)(string, PsSaveOptions) | Initializes empty `PsDocument` with initialized page. |
 | [PsDocument](psdocument/#constructor_2)(Stream, PsSaveOptions, bool) | Initializes empty `PsDocument`. |
 | [PsDocument](psdocument/#constructor_3)(Stream, PsSaveOptions, int) | Initializes empty `PsDocument` when the number of Postscript document pages is known in advance. |
+| [PsDocument](psdocument/#constructor_6)(string, PsSaveOptions, bool) | Initializes empty `PsDocument`. |
+| [PsDocument](psdocument/#constructor_7)(string, PsSaveOptions, int) | Initializes empty `PsDocument` when the number of Postscript document pages is known in advance. |
 
 ## Properties
 
@@ -40,7 +43,8 @@ public sealed class PsDocument : Document
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | Adds clipping rectangle to current graphics state. |
 | [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) | Adds clip from an outline of given text in given font. |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Complete current page. |
-| [CropEps](../../aspose.page.eps/psdocument/cropeps/)(Stream, float[]) | Crops given `PsDocument` as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
+| [CropEps](../../aspose.page.eps/psdocument/cropeps/#cropeps)(Stream, float[]) | Crops given `PsDocument` as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
+| [CropEps](../../aspose.page.eps/psdocument/cropeps/#cropeps_1)(string, float[]) | Crops given `PsDocument` as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Draw an arbitrary path. |
 | [DrawArc](../../aspose.page.eps/psdocument/drawarc/)(double, double, double, double, double, double) | Draws an arc. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | Draw masked image. |
@@ -57,6 +61,7 @@ public sealed class PsDocument : Document
 | [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | Draw transformed transparent image. If image doesn't have Alpha channel it will be drawn as opaque image |
 | [ExtractEpsBoundingBox](../../aspose.page.eps/psdocument/extractepsboundingbox/)() | Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist. |
 | [ExtractEpsSize](../../aspose.page.eps/psdocument/extractepssize/)() | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |
+| [ExtractText](../../aspose.page.eps/psdocument/extracttext/)(SaveOptions, int, int) | Extract text from PS file. The text can be extracted only if it is written with Type 42 (TrueType) font or Type 0 font with Type 42 fonts in its Vector Map. |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | Fill an arbitrary path. |
 | [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | Adds a text string by filling interrior of glyphs and drawing glyphs contours. |
 | [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | Adds a text string by filling interrior of glyphs and drawing glyphs contours. |
@@ -79,7 +84,6 @@ public sealed class PsDocument : Document
 | [GetPaint](../../aspose.page.eps/psdocument/getpaint/)() | Gets paint of current graphics state. |
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | Gets stroke of current graphics state. |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn't exist. |
-| [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | Merges PS/EPS files to a device. |
 | [MergeToPdf](../../aspose.page.eps/psdocument/mergetopdf/#mergetopdf)(Stream, string[], SaveOptions) | Merges PS/EPS files to a device. |
 | [MergeToPdf](../../aspose.page.eps/psdocument/mergetopdf/#mergetopdf_1)(string, string[], SaveOptions) | Merges PS/EPS files to a device. |
 | [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | Creates new page with document's size and make it current one. |
@@ -92,12 +96,12 @@ public sealed class PsDocument : Document
 | [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | Adds a text string by drawing glyphs contours. |
 | [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | Adds a text string by drawing glyphs contours. |
 | [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | Adds a text string by drawing glyphs contours. |
-| [ResizeEps](../../aspose.page.eps/psdocument/resizeeps/)(Stream, SizeF, Units) | Resizes given `PsDocument` as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
+| [ResizeEps](../../aspose.page.eps/psdocument/resizeeps/#resizeeps)(Stream, SizeF, Units) | Resizes given `PsDocument` as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
+| [ResizeEps](../../aspose.page.eps/psdocument/resizeeps/#resizeeps_1)(string, SizeF, Units) | Resizes given `PsDocument` as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
 | [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [Save](../../aspose.page.eps/psdocument/save/#save)() | Saves given `PsDocument` as EPS file. This method is used only when PsDocument was created from scratch. |
-| [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | Saves given `PsDocument` as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added. |
-| override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | Saves PS/EPS file to a device. |
+| [Save](../../aspose.page.eps/psdocument/save/#save_1)(Stream) | Saves given `PsDocument` as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added. |
 | [SaveAsImage](../../aspose.page.eps/psdocument/saveasimage/)(ImageSaveOptions) | Saves PS/EPS file to images bytes arrays. |
 | [SaveAsPdf](../../aspose.page.eps/psdocument/saveaspdf/#saveaspdf)(Stream, PdfSaveOptions) | Saves PS/EPS file to PDF stream. |
 | [SaveAsPdf](../../aspose.page.eps/psdocument/saveaspdf/#saveaspdf_1)(string, PdfSaveOptions) | Saves PS/EPS file to PDF file. |

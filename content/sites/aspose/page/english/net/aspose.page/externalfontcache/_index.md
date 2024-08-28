@@ -3,12 +3,12 @@ title: Class ExternalFontCache
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.ExternalFontCache class. Use this class to obtain font encapsulation in a form that is accepted by Device
 type: docs
-weight: 610
+weight: 240
 url: /net/aspose.page/externalfontcache/
 ---
 ## ExternalFontCache class
 
-Use this class to obtain font encapsulation in a form that is accepted by [`Device`](../device/).
+Use this class to obtain font encapsulation in a form that is accepted by Device.
 
 ```csharp
 public class ExternalFontCache

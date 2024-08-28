@@ -36,7 +36,7 @@ Describes the  JobAccountingSheet  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### None {#None}
 ```
-public static JobAccountingSheet.JobAccountingSheetOption None
+public static final JobAccountingSheet.JobAccountingSheetOption None
 ```
 
 
@@ -44,7 +44,7 @@ Specifies no accounting sheet will be output.
 
 ### Standard {#Standard}
 ```
-public static JobAccountingSheet.JobAccountingSheetOption Standard
+public static final JobAccountingSheet.JobAccountingSheetOption Standard
 ```
 
 

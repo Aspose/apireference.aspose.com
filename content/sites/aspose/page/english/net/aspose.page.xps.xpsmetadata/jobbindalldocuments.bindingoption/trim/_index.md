@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/trim/
 Specifies trimming binding.
 
 ```csharp
-public static BindingOption Trim;
+public static readonly BindingOption Trim;
 ```
 
 ### See Also

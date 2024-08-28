@@ -3,7 +3,7 @@ title: PsSaveOptions
 second_title: Aspose.Page for Java API Reference
 description: This class contains options necessary for managing conversion process.
 type: docs
-weight: 14
+weight: 12
 url: /java/com.aspose.eps.device/pssaveoptions/
 ---
 **Inheritance:**

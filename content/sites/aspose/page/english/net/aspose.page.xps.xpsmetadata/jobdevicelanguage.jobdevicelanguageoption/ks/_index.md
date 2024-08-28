@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is KS.
 
 ```csharp
-public static JobDeviceLanguageOption KS;
+public static readonly JobDeviceLanguageOption KS;
 ```
 
 ### See Also

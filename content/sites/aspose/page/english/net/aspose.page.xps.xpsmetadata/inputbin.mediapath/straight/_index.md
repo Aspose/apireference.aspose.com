@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.mediapath/straight/
 Straight value.
 
 ```csharp
-public static MediaPath Straight;
+public static readonly MediaPath Straight;
 ```
 
 ### See Also

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/outputbin.bintype/none/
 None of the above.
 
 ```csharp
-public static BinType None;
+public static readonly BinType None;
 ```
 
 ### See Also

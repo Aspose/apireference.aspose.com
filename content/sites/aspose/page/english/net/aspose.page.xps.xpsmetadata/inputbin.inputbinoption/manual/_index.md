@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/manual/
 Specifies the default manual feed bin.
 
 ```csharp
-public static InputBinOption Manual;
+public static readonly InputBinOption Manual;
 ```
 
 ### See Also

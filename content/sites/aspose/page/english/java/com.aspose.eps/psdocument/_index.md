@@ -22,7 +22,6 @@ This class encapsulates PS/EPS documents.
 | [PsDocument(OutputStream psStream, PsSaveOptions options, int numberOfPages)](#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-int-) | Initializes empty  PsDocument  when the number of Postscript document pages is known in advance. |
 | [PsDocument(String psFilePath)](#PsDocument-java.lang.String-) | Initializes  PsDocument  with an input PS/EPS file. |
 | [PsDocument(InputStream psStream)](#PsDocument-java.io.InputStream-) | Initializes  PsDocument  with a stream of PS/EPS file. |
-| [PsDocument(InputStream psStream, LoadOptions loadOptions)](#PsDocument-java.io.InputStream-com.aspose.eps.LoadOptions-) | Initializes  PsDocument  with a stream and load options. |
 ## Methods
 
 | Method | Description |
@@ -41,6 +40,7 @@ This class encapsulates PS/EPS documents.
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [extractEpsBoundingBox()](#extractEpsBoundingBox--) | Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist. |
 | [extractEpsSize()](#extractEpsSize--) | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |
+| [extractText(SaveOptions options, int startPage, int endPage)](#extractText-com.aspose.page.SaveOptions-int-int-) | Extracts text from PS file. |
 | [fill(Shape shape)](#fill-java.awt.Shape-) | Fill an arbitrary path. |
 | [fillAndStrokeText(String text, DrFont drFont, float x, float y, Paint fillPaint, Paint strokePaint, Stroke stroke)](#fillAndStrokeText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-java.awt.Paint-java.awt.Stroke-) | Adds a text string by filling interior of glyphs and drawing glyphs contours. |
 | [fillAndStrokeText(String text, float[] advances, DrFont drFont, float x, float y, Paint fillPaint, Paint strokePaint, Stroke stroke)](#fillAndStrokeText-java.lang.String-float---com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-java.awt.Paint-java.awt.Stroke-) | Adds a text string by filling interior of glyphs and drawing glyphs contours. |
@@ -175,20 +175,6 @@ Initializes  PsDocument  with a stream of PS/EPS file.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | psStream | java.io.InputStream | Stream of PS/EPS file. |
-
-### PsDocument(InputStream psStream, LoadOptions loadOptions) {#PsDocument-java.io.InputStream-com.aspose.eps.LoadOptions-}
-```
-public PsDocument(InputStream psStream, LoadOptions loadOptions)
-```
-
-
-Initializes  PsDocument  with a stream and load options.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| psStream | java.io.InputStream | Stream of PS/EPS file. |
-| loadOptions | [LoadOptions](../../com.aspose.eps/loadoptions) | Set of parameters controlling loading of PS file. |
 
 ### clip(Shape s) {#clip-java.awt.Shape-}
 ```
@@ -373,6 +359,23 @@ Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or de
 
 **Returns:**
 java.awt.Dimension - The size of the EPS image.
+### extractText(SaveOptions options, int startPage, int endPage) {#extractText-com.aspose.page.SaveOptions-int-int-}
+```
+public String extractText(SaveOptions options, int startPage, int endPage)
+```
+
+
+Extracts text from PS file. It works only for text that is written with TrueType fonts (Type 42) or composite fonts (Type 0) that consists of TrueType fonts.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | [SaveOptions](../../com.aspose.page/saveoptions) | The save options. |
+| startPage | int | The page from which inclusively to start to extract text. |
+| endPage | int | The page to which inclusively to extract text. |
+
+**Returns:**
+java.lang.String - The text contained in the selected pages of PS file.
 ### fill(Shape shape) {#fill-java.awt.Shape-}
 ```
 public void fill(Shape shape)

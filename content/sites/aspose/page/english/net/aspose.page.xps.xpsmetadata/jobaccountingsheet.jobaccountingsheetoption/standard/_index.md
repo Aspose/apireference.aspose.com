@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobaccountingsheet.jobaccountingsheetoptio
 Specifies the standard (device defined) accounting sheet should be output.
 
 ```csharp
-public static JobAccountingSheetOption Standard;
+public static readonly JobAccountingSheetOption Standard;
 ```
 
 ### See Also

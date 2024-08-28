@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/reve
 Content is rotated on the page 180 degrees relative to standard (portrait) orientation.
 
 ```csharp
-public static PageOrientationOption ReversePortrait;
+public static readonly PageOrientationOption ReversePortrait;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class Collate
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.Collate class. The base class for DocumentCollate and JobCollateAllDocuments features classes
 type: docs
-weight: 1140
+weight: 800
 url: /net/aspose.page.xps.xpsmetadata/collate/
 ---
 ## Collate class
@@ -24,7 +24,7 @@ public abstract class Collate : Feature
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

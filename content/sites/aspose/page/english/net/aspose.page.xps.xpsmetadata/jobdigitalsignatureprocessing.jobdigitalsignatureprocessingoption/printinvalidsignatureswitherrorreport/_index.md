@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing.jobdigitalsi
 Print the job regardless of the validity of the digital signatures. In the event an invalid signature is encountered, an error page should print at the end of the job. Digital signatures MUST not be ignored.
 
 ```csharp
-public static JobDigitalSignatureProcessingOption PrintInvalidSignaturesWithErrorReport;
+public static readonly JobDigitalSignatureProcessingOption PrintInvalidSignaturesWithErrorReport;
 ```
 
 ### See Also

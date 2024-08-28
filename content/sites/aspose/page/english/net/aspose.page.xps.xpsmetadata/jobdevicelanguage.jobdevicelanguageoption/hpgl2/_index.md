@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is HP-GL/2.
 
 ```csharp
-public static JobDeviceLanguageOption HPGL2;
+public static readonly JobDeviceLanguageOption HPGL2;
 ```
 
 ### See Also

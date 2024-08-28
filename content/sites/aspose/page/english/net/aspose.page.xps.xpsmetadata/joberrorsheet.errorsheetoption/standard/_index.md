@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetoption/standard/
 Specifies the standard (device defined) error sheet should be output.
 
 ```csharp
-public ErrorSheetOption Standard;
+public static readonly ErrorSheetOption Standard;
 ```
 
 ### See Also

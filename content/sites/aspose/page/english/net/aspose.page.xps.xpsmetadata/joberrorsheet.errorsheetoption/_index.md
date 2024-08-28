@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetOption class. Describes the JobErrorSheet feature options
 type: docs
-weight: 1950
+weight: 1630
 url: /net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetoption/
 ---
 ## JobErrorSheet.ErrorSheetOption class
@@ -30,9 +30,9 @@ public sealed class ErrorSheetOption : Option
 
 | Name | Description |
 | --- | --- |
-| [Custom](../../aspose.page.xps.xpsmetadata/errorsheetoption/custom/) | Specifies a custom error sheet should be output. If a [`JobErrorSheetSource`](../joberrorsheetsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
-| [None](../../aspose.page.xps.xpsmetadata/errorsheetoption/none/) | Specifies no error sheet should be output. |
-| [Standard](../../aspose.page.xps.xpsmetadata/errorsheetoption/standard/) | Specifies the standard (device defined) error sheet should be output. |
+| static readonly [Custom](../../aspose.page.xps.xpsmetadata/errorsheetoption/custom/) | Specifies a custom error sheet should be output. If a [`JobErrorSheetSource`](../joberrorsheetsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
+| static readonly [None](../../aspose.page.xps.xpsmetadata/errorsheetoption/none/) | Specifies no error sheet should be output. |
+| static readonly [Standard](../../aspose.page.xps.xpsmetadata/errorsheetoption/standard/) | Specifies the standard (device defined) error sheet should be output. |
 
 ### See Also
 

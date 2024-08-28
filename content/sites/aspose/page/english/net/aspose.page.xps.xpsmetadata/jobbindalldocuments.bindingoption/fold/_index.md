@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/fold/
 Specifies a folded binding.
 
 ```csharp
-public static BindingOption Fold;
+public static readonly BindingOption Fold;
 ```
 
 ### See Also

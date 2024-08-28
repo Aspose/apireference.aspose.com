@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet.BannerSheetOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetBannerSheetOption class. Represents options of the JobPrimaryBannerSheet feature
 type: docs
-weight: 2130
+weight: 1810
 url: /net/aspose.page.xps.xpsmetadata/jobprimarybannersheet.bannersheetoption/
 ---
 ## JobPrimaryBannerSheet.BannerSheetOption class
@@ -30,9 +30,9 @@ public sealed class BannerSheetOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [Custom](../../aspose.page.xps.xpsmetadata/bannersheetoption/custom/) | Specifies a custom banner sheet should be output. If a [`JobPrimaryBannerSheetSource`](../jobprimarybannersheetsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
-| static [None](../../aspose.page.xps.xpsmetadata/bannersheetoption/none/) | Specifies no banner sheet should be output. |
-| static [Standard](../../aspose.page.xps.xpsmetadata/bannersheetoption/standard/) | Specifies the standard (device defined) banner sheet should be output. |
+| static readonly [Custom](../../aspose.page.xps.xpsmetadata/bannersheetoption/custom/) | Specifies a custom banner sheet should be output. If a [`JobPrimaryBannerSheetSource`](../jobprimarybannersheetsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
+| static readonly [None](../../aspose.page.xps.xpsmetadata/bannersheetoption/none/) | Specifies no banner sheet should be output. |
+| static readonly [Standard](../../aspose.page.xps.xpsmetadata/bannersheetoption/standard/) | Specifies the standard (device defined) banner sheet should be output. |
 
 ### See Also
 

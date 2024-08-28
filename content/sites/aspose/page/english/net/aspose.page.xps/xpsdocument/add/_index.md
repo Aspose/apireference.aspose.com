@@ -8,7 +8,7 @@ url: /net/aspose.page.xps/xpsdocument/add/
 ---
 ## XpsDocument.Add&lt;T&gt; method
 
-Adds a content element (Canvas, Path or Glyphs)
+Adds a content element (Canvas, Path, or Glyphs).
 
 ```csharp
 public T Add<T>(T element)

@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.Page for Java API Reference
 description: This class contains options necessary for managing conversion process.
 type: docs
-weight: 13
+weight: 11
 url: /java/com.aspose.eps.device/pdfsaveoptions/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark class. Describes the watermark setting of the output and the watermark characteristics. Watermarks apply to the logical page not the physical page. For example if DocumentDuplex is enabled a watermark will appear on each
 type: docs
-weight: 3290
+weight: 2980
 url: /net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class
@@ -43,7 +43,7 @@ public sealed class PageWatermark : Feature, IDocumentPrintTicketItem, IJobPrint
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

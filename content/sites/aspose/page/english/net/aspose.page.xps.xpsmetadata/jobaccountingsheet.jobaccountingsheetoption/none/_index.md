@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobaccountingsheet.jobaccountingsheetoptio
 Specifies no accounting sheet will be output.
 
 ```csharp
-public static JobAccountingSheetOption None;
+public static readonly JobAccountingSheetOption None;
 ```
 
 ### See Also

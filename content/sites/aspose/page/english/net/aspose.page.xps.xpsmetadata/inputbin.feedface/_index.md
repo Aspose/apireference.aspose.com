@@ -1,20 +1,14 @@
 ---
 title: Class InputBin.FeedFace
 second_title: Aspose.Page for .NET API Reference
-description: Aspose.Page.XPS.XpsMetadata.InputBinFeedFace class. Defines constants for the
+description: Aspose.Page.XPS.XpsMetadata.InputBinFeedFace class. Defines constants for the FeedFace property value that specify whether media is to be printed face up or face down
 type: docs
-weight: 1680
+weight: 1340
 url: /net/aspose.page.xps.xpsmetadata/inputbin.feedface/
 ---
 ## InputBin.FeedFace class
 
-Defines constants for the
-
-```csharp
-FeedFace
-```
-
-scored property value.
+Defines constants for the FeedFace property value that specify whether media is to be printed face up or face down.
 
 ```csharp
 public sealed class FeedFace : Property
@@ -30,8 +24,8 @@ public sealed class FeedFace : Property
 
 | Name | Description |
 | --- | --- |
-| static [FaceDown](../../aspose.page.xps.xpsmetadata/feedface/facedown/) | FaceDown value. |
-| static [FaceUp](../../aspose.page.xps.xpsmetadata/feedface/faceup/) | FaceUp value. |
+| static readonly [FaceDown](../../aspose.page.xps.xpsmetadata/feedface/facedown/) | FaceDown value. |
+| static readonly [FaceUp](../../aspose.page.xps.xpsmetadata/feedface/faceup/) | FaceUp value. |
 
 ### See Also
 

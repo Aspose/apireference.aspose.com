@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specifies device language is XPS.
 
 ```csharp
-public static JobDeviceLanguageOption XPS;
+public static readonly JobDeviceLanguageOption XPS;
 ```
 
 ### See Also

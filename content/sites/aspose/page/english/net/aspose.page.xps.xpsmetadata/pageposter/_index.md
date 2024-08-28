@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PagePoster class. Describes the output of a single page to multiple physical media sheets. https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 3060
+weight: 2750
 url: /net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class
@@ -31,7 +31,7 @@ public sealed class PagePoster : Feature, IDocumentPrintTicketItem, IJobPrintTic
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 | [AddPagesPerSheetOption](../../aspose.page.xps.xpsmetadata/pageposter/addpagespersheetoption/)(int) | Adds and option with a |
 
 ### See Also

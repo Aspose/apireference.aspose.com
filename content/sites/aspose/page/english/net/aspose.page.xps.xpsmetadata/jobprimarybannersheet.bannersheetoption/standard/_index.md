@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarybannersheet.bannersheetoption/st
 Specifies the standard (device defined) banner sheet should be output.
 
 ```csharp
-public static BannerSheetOption Standard;
+public static readonly BannerSheetOption Standard;
 ```
 
 ### See Also

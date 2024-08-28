@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization.joboutputoptimizatio
 pecifies the job processing be optimized for archive output.
 
 ```csharp
-public static JobOutputOptimizationOption ArchiveFormat;
+public static readonly JobOutputOptimizationOption ArchiveFormat;
 ```
 
 ### See Also

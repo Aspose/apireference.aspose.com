@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetWhenErrorSheetWhenOption class. Describes the ErrorSheetWhen feature options
 type: docs
-weight: 1970
+weight: 1650
 url: /net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetwhen.errorsheetwhenoption/
 ---
 ## JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption class
@@ -30,8 +30,8 @@ public sealed class ErrorSheetWhenOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [Always](../../aspose.page.xps.xpsmetadata/errorsheetwhenoption/always/) | Specifies an error sheet will be output for every job. |
-| static [OnError](../../aspose.page.xps.xpsmetadata/errorsheetwhenoption/onerror/) | Specifies an error sheet will be output only on error. |
+| static readonly [Always](../../aspose.page.xps.xpsmetadata/errorsheetwhenoption/always/) | Specifies an error sheet will be output for every job. |
+| static readonly [OnError](../../aspose.page.xps.xpsmetadata/errorsheetwhenoption/onerror/) | Specifies an error sheet will be output only on error. |
 
 ### See Also
 

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is PCL.
 
 ```csharp
-public static JobDeviceLanguageOption PCL;
+public static readonly JobDeviceLanguageOption PCL;
 ```
 
 ### See Also

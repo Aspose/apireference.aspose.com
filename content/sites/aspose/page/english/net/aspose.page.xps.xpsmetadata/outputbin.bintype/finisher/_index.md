@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/outputbin.bintype/finisher/
 Finisher bin.
 
 ```csharp
-public static BinType Finisher;
+public static readonly BinType Finisher;
 ```
 
 ### See Also

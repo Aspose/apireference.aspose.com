@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/bindtop/
 Specifies binding along the top edge.
 
 ```csharp
-public static BindingOption BindTop;
+public static readonly BindingOption BindTop;
 ```
 
 ### See Also

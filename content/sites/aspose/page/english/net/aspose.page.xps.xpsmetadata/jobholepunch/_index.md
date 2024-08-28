@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch class. Describes the hole punching characteristics of the output. All documents are punched together. The JobHolePunch and DocumentHolePunch keywords are mutually exclusive. Both should not be specified simultaneously in a PrintTicket or Print Capabilities document. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 2000
+weight: 1680
 url: /net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class
@@ -30,7 +30,7 @@ public sealed class JobHolePunch : HolePunch, IJobPrintTicketItem
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ### See Also
 

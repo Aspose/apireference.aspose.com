@@ -3,7 +3,7 @@ title: PdfEncryptionAlgorithm
 second_title: Aspose.Page for Java API Reference
 description: Encryption mode enumeration.
 type: docs
-weight: 22
+weight: 21
 url: /java/com.aspose.xps.rendering/pdfencryptionalgorithm/
 ---
 **Inheritance:**

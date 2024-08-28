@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront.CoverFrontOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontCoverFrontOption class. Describes the JobPrimaryCoverFront feature options
 type: docs
-weight: 2190
+weight: 1870
 url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverfront.coverfrontoption/
 ---
 ## JobPrimaryCoverFront.CoverFrontOption class
@@ -30,11 +30,11 @@ public sealed class CoverFrontOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [BlankCover](../../aspose.page.xps.xpsmetadata/coverfrontoption/blankcover/) | Specifies a blank cover sheet should be printed. |
-| static [NoCover](../../aspose.page.xps.xpsmetadata/coverfrontoption/nocover/) | Specifies no cover will be output. |
-| static [PrintBack](../../aspose.page.xps.xpsmetadata/coverfrontoption/printback/) | Specifies the cover indicated by "CoverFrontSource" should be printed on the back side of the cover sheet. If a [`JobPrimaryCoverFrontSource`](../jobprimarycoverfrontsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
-| static [PrintBoth](../../aspose.page.xps.xpsmetadata/coverfrontoption/printboth/) | Specifies the cover indicated by "CoverFrontSource" may be printed on either side of the cover sheet. If a [`JobPrimaryCoverFrontSource`](../jobprimarycoverfrontsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
-| static [PrintFront](../../aspose.page.xps.xpsmetadata/coverfrontoption/printfront/) | Specifies the cover indicated by "CoverFrontSource" should be printed on the front side of the cover sheet. If a [`JobPrimaryCoverFrontSource`](../jobprimarycoverfrontsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
+| static readonly [BlankCover](../../aspose.page.xps.xpsmetadata/coverfrontoption/blankcover/) | Specifies a blank cover sheet should be printed. |
+| static readonly [NoCover](../../aspose.page.xps.xpsmetadata/coverfrontoption/nocover/) | Specifies no cover will be output. |
+| static readonly [PrintBack](../../aspose.page.xps.xpsmetadata/coverfrontoption/printback/) | Specifies the cover indicated by "CoverFrontSource" should be printed on the back side of the cover sheet. If a [`JobPrimaryCoverFrontSource`](../jobprimarycoverfrontsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
+| static readonly [PrintBoth](../../aspose.page.xps.xpsmetadata/coverfrontoption/printboth/) | Specifies the cover indicated by "CoverFrontSource" may be printed on either side of the cover sheet. If a [`JobPrimaryCoverFrontSource`](../jobprimarycoverfrontsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
+| static readonly [PrintFront](../../aspose.page.xps.xpsmetadata/coverfrontoption/printfront/) | Specifies the cover indicated by "CoverFrontSource" should be printed on the front side of the cover sheet. If a [`JobPrimaryCoverFrontSource`](../jobprimarycoverfrontsource/)[`ParameterInit`](../parameterinit/) element is not specified, this Option should be ignored. |
 
 ### See Also
 

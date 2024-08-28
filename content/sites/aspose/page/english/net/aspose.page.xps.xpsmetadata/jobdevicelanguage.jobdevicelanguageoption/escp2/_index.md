@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is ESC/P2.
 
 ```csharp
-public static JobDeviceLanguageOption ESCP2;
+public static readonly JobDeviceLanguageOption ESCP2;
 ```
 
 ### See Also

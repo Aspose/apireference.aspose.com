@@ -3,7 +3,7 @@ title: Class Duplex
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.Duplex class. The base class for JobDuplexAllDocumentsContiguously and DocumentDuplex features classes
 type: docs
-weight: 1490
+weight: 1150
 url: /net/aspose.page.xps.xpsmetadata/duplex/
 ---
 ## Duplex class
@@ -24,13 +24,13 @@ public abstract class Duplex : Feature
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| class [DuplexMode](../../aspose.page.xps.xpsmetadata/duplex.duplexmode) | Defines possible values of the [`DuplexOption`](../duplex.duplexoption/)'s |
+| class [DuplexMode](../../aspose.page.xps.xpsmetadata/duplex.duplexmode) | Defines possible values of the [`DuplexOption`](../duplex.duplexoption/)'s DuplexMode scored property. |
 | class [DuplexOption](../../aspose.page.xps.xpsmetadata/duplex.duplexoption) | Describes the [`JobDuplexAllDocumentsContiguously`](../jobduplexalldocumentscontiguously/) and [`DocumentDuplex`](../documentduplex/) features options. |
 
 ### See Also

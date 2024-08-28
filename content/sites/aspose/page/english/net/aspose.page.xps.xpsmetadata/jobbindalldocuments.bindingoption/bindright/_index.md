@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/bindrigh
 Specifies binding along the right edge.
 
 ```csharp
-public static BindingOption BindRight;
+public static readonly BindingOption BindRight;
 ```
 
 ### See Also

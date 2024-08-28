@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut class. Describes the cutting method for roll paper. Each document is handled separately. The specified options describe the different methods for roll cut. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 1440
+weight: 1100
 url: /net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class
@@ -30,7 +30,7 @@ public sealed class DocumentRollCut : RollCut, IDocumentPrintTicketItem, IJobPri
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ### See Also
 

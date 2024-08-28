@@ -6,7 +6,28 @@ type: docs
 weight: 90
 url: /net/aspose.page.eps/psdocument/cropeps/
 ---
-## PsDocument.CropEps method
+## CropEps(string, float[]) {#cropeps_1}
+
+Crops given [`PsDocument`](../) as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created.
+
+```csharp
+public void CropEps(string outEpsFilePath, float[] cropBox)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outEpsFilePath | String | The output EPS file path. |
+| cropBox | Single[] | The crop box (x0, y0, x, y). |
+
+### See Also
+
+* class [PsDocument](../)
+* namespace [Aspose.Page.EPS](../../psdocument/)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## CropEps(Stream, float[]) {#cropeps}
 
 Crops given [`PsDocument`](../) as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created.
 

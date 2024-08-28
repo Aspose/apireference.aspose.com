@@ -66,7 +66,7 @@ Creates a new instance.
 
 ### None {#None}
 ```
-public static Staple.StapleOption None
+public static final Staple.StapleOption None
 ```
 
 
@@ -74,7 +74,7 @@ Specifies no stapling.
 
 ### SaddleStitch {#SaddleStitch}
 ```
-public static Staple.StapleOption SaddleStitch
+public static final Staple.StapleOption SaddleStitch
 ```
 
 
@@ -82,7 +82,7 @@ Specifies saddle stitch stapling.
 
 ### StapleBottomLeft {#StapleBottomLeft}
 ```
-public static Staple.StapleOption StapleBottomLeft
+public static final Staple.StapleOption StapleBottomLeft
 ```
 
 
@@ -90,7 +90,7 @@ Specifies a single staple in the bottom, left corner.
 
 ### StapleBottomRight {#StapleBottomRight}
 ```
-public static Staple.StapleOption StapleBottomRight
+public static final Staple.StapleOption StapleBottomRight
 ```
 
 
@@ -98,7 +98,7 @@ Specifies a single staple in the bottom, right corner.
 
 ### StapleDualBottom {#StapleDualBottom}
 ```
-public static Staple.StapleOption StapleDualBottom
+public static final Staple.StapleOption StapleDualBottom
 ```
 
 
@@ -106,7 +106,7 @@ Specifies two staples along the bottom edge.
 
 ### StapleDualLeft {#StapleDualLeft}
 ```
-public static Staple.StapleOption StapleDualLeft
+public static final Staple.StapleOption StapleDualLeft
 ```
 
 
@@ -114,7 +114,7 @@ Specifies two staples along the left edge.
 
 ### StapleDualRight {#StapleDualRight}
 ```
-public static Staple.StapleOption StapleDualRight
+public static final Staple.StapleOption StapleDualRight
 ```
 
 
@@ -122,7 +122,7 @@ Specifies two staples along the right edge.
 
 ### StapleDualTop {#StapleDualTop}
 ```
-public static Staple.StapleOption StapleDualTop
+public static final Staple.StapleOption StapleDualTop
 ```
 
 
@@ -130,7 +130,7 @@ Specifies two staples along the top edge
 
 ### StapleTopLeft {#StapleTopLeft}
 ```
-public static Staple.StapleOption StapleTopLeft
+public static final Staple.StapleOption StapleTopLeft
 ```
 
 
@@ -138,7 +138,7 @@ Specifies a single staple in the top, left corner.
 
 ### StapleTopRight {#StapleTopRight}
 ```
-public static Staple.StapleOption StapleTopRight
+public static final Staple.StapleOption StapleTopRight
 ```
 
 
@@ -235,7 +235,7 @@ public final native void notifyAll()
 
 ### setAngle(int angle) {#setAngle-int-}
 ```
-public Staple.StapleOption setAngle(int angle)
+public final Staple.StapleOption setAngle(int angle)
 ```
 
 
@@ -250,7 +250,7 @@ Sets an  Angle  scored property value.
 [StapleOption](../../com.aspose.xps.metadata/stapleoption) - This option instance.
 ### setSheetCapacity(int sheetCapacity) {#setSheetCapacity-int-}
 ```
-public Staple.StapleOption setSheetCapacity(int sheetCapacity)
+public final Staple.StapleOption setSheetCapacity(int sheetCapacity)
 ```
 
 

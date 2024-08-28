@@ -51,7 +51,7 @@ public void add(IFeatureItem[] items)
 ```
 
 
-Adds a list of items to the end of this feature's item list. Each one must be a  Feature , an  Option  or a  Property  instance.
+Adds a list of items to the end of this feature's item list. Each one must be a  Feature , an  Option , or a  Property  instance.
 
 **Parameters:**
 | Parameter | Type | Description |

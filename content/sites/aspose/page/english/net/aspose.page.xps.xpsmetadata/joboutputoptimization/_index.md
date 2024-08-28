@@ -3,7 +3,7 @@ title: Class JobOutputOptimization
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobOutputOptimization class. Describes the job processing intended to optimize the output for particular use scenarios as indicated by the option specified. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputoptimization
 type: docs
-weight: 2080
+weight: 1760
 url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization/
 ---
 ## JobOutputOptimization class
@@ -30,7 +30,7 @@ public sealed class JobOutputOptimization : Feature, IJobPrintTicketItem
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

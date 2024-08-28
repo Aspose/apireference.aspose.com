@@ -55,7 +55,7 @@ Creates a new instance.
 
 ### JobBindAllDocumentsGutter {#JobBindAllDocumentsGutter}
 ```
-public static JobBindAllDocuments.BindingGutter JobBindAllDocumentsGutter
+public static final JobBindAllDocuments.BindingGutter JobBindAllDocumentsGutter
 ```
 
 

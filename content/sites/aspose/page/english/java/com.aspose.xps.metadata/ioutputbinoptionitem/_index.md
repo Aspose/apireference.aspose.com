@@ -3,7 +3,7 @@ title: OutputBin.IOutputBinOptionItem
 second_title: Aspose.Page for Java API Reference
 description: The interface of any OutputBinOption item.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.xps.metadata/outputbin.ioutputbinoptionitem/
 ---
 **All Implemented Interfaces:**

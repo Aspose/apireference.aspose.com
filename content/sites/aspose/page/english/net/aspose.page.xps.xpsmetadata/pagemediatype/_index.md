@@ -3,7 +3,7 @@ title: Class PageMediaType
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageMediaType class. Describes the
 type: docs
-weight: 2810
+weight: 2500
 url: /net/aspose.page.xps.xpsmetadata/pagemediatype/
 ---
 ## PageMediaType class
@@ -37,7 +37,7 @@ public sealed class PageMediaType : Feature, IDocumentPrintTicketItem, IJobPrint
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

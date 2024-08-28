@@ -3,7 +3,7 @@ title: Class PsSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.Device.PsSaveOptions class. This class contains options necessary for managing process of converting document to PostScript PS or Encapsulated PostScript EPS file
 type: docs
-weight: 480
+weight: 110
 url: /net/aspose.page.eps.device/pssaveoptions/
 ---
 ## PsSaveOptions class

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is RTL.
 
 ```csharp
-public static JobDeviceLanguageOption RTL;
+public static readonly JobDeviceLanguageOption RTL;
 ```
 
 ### See Also

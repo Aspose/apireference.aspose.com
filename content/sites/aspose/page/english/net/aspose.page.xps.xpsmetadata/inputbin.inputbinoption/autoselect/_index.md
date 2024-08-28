@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/autoselect/
 Device will automatically choose best option based on configuration.
 
 ```csharp
-public static InputBinOption AutoSelect;
+public static readonly InputBinOption AutoSelect;
 ```
 
 ### See Also

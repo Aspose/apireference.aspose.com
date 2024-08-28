@@ -91,7 +91,7 @@ Clones this option instance.
 
 ### ART {#ART}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption ART
+public static final JobDeviceLanguage.JobDeviceLanguageOption ART
 ```
 
 
@@ -99,7 +99,7 @@ Specified device language is ART.
 
 ### ASCII {#ASCII}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption ASCII
+public static final JobDeviceLanguage.JobDeviceLanguageOption ASCII
 ```
 
 
@@ -107,7 +107,7 @@ Specified device language is ASCII.
 
 ### CaPSL {#CaPSL}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption CaPSL
+public static final JobDeviceLanguage.JobDeviceLanguageOption CaPSL
 ```
 
 
@@ -115,7 +115,7 @@ Specified device language is CaPSL.
 
 ### ESCP2 {#ESCP2}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption ESCP2
+public static final JobDeviceLanguage.JobDeviceLanguageOption ESCP2
 ```
 
 
@@ -123,7 +123,7 @@ Specified device language is ESC/P2.
 
 ### ESCPage {#ESCPage}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption ESCPage
+public static final JobDeviceLanguage.JobDeviceLanguageOption ESCPage
 ```
 
 
@@ -131,7 +131,7 @@ Specified device language is ESC/Page.
 
 ### HPGL2 {#HPGL2}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption HPGL2
+public static final JobDeviceLanguage.JobDeviceLanguageOption HPGL2
 ```
 
 
@@ -139,7 +139,7 @@ Specified device language is HP-GL/2.
 
 ### KPDL {#KPDL}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption KPDL
+public static final JobDeviceLanguage.JobDeviceLanguageOption KPDL
 ```
 
 
@@ -147,7 +147,7 @@ Specified device language is KPDL.
 
 ### KS {#KS}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption KS
+public static final JobDeviceLanguage.JobDeviceLanguageOption KS
 ```
 
 
@@ -155,7 +155,7 @@ Specified device language is KS.
 
 ### KSSM {#KSSM}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption KSSM
+public static final JobDeviceLanguage.JobDeviceLanguageOption KSSM
 ```
 
 
@@ -163,7 +163,7 @@ Specified device language is KSSM.
 
 ### PCL {#PCL}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption PCL
+public static final JobDeviceLanguage.JobDeviceLanguageOption PCL
 ```
 
 
@@ -171,7 +171,7 @@ Specified device language is PCL.
 
 ### PCL5c {#PCL5c}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption PCL5c
+public static final JobDeviceLanguage.JobDeviceLanguageOption PCL5c
 ```
 
 
@@ -179,7 +179,7 @@ Specified device language is PCL5c.
 
 ### PCL5e {#PCL5e}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption PCL5e
+public static final JobDeviceLanguage.JobDeviceLanguageOption PCL5e
 ```
 
 
@@ -187,7 +187,7 @@ Specified device language is PCL5e.
 
 ### PCLXL {#PCLXL}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption PCLXL
+public static final JobDeviceLanguage.JobDeviceLanguageOption PCLXL
 ```
 
 
@@ -195,7 +195,7 @@ Specified device language is PCL-XL.
 
 ### PPDS {#PPDS}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption PPDS
+public static final JobDeviceLanguage.JobDeviceLanguageOption PPDS
 ```
 
 
@@ -203,7 +203,7 @@ Specified device language is PPDS.
 
 ### PostScript {#PostScript}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption PostScript
+public static final JobDeviceLanguage.JobDeviceLanguageOption PostScript
 ```
 
 
@@ -211,7 +211,7 @@ Specified device language is PostScript.
 
 ### RPDL {#RPDL}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption RPDL
+public static final JobDeviceLanguage.JobDeviceLanguageOption RPDL
 ```
 
 
@@ -219,7 +219,7 @@ Specified device language is RPDL.
 
 ### RTL {#RTL}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption RTL
+public static final JobDeviceLanguage.JobDeviceLanguageOption RTL
 ```
 
 
@@ -227,7 +227,7 @@ Specified device language is RTL.
 
 ### XPS {#XPS}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption XPS
+public static final JobDeviceLanguage.JobDeviceLanguageOption XPS
 ```
 
 
@@ -235,7 +235,7 @@ Specifies device language is XPS.
 
 ### _201PL {#-201PL}
 ```
-public static JobDeviceLanguage.JobDeviceLanguageOption _201PL
+public static final JobDeviceLanguage.JobDeviceLanguageOption _201PL
 ```
 
 

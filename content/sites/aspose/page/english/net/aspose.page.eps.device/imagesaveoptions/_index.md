@@ -3,7 +3,7 @@ title: Class ImageSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.Device.ImageSaveOptions class. This class contains options necessary for managing image saving process
 type: docs
-weight: 440
+weight: 80
 url: /net/aspose.page.eps.device/imagesaveoptions/
 ---
 ## ImageSaveOptions class
@@ -40,6 +40,7 @@ public class ImageSaveOptions : SaveOptions
 | [Size](../../aspose.page/saveoptions/size/) { get; set; } | Gets/sets the size of the image. |
 | [SmoothingMode](../../aspose.page.eps.device/imagesaveoptions/smoothingmode/) { get; set; } | Gets/sets the smoothing mode for rendering image. |
 | virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. If false the first error will terminate the program. |
+| [TryJoinImageFragments](../../aspose.page.eps.device/imagesaveoptions/tryjoinimagefragments/) { get; set; } | The flag for combining image fragments into one picture. |
 
 ### See Also
 

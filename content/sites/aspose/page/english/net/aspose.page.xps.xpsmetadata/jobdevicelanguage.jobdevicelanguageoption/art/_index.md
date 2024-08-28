@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is ART.
 
 ```csharp
-public static JobDeviceLanguageOption ART;
+public static readonly JobDeviceLanguageOption ART;
 ```
 
 ### See Also

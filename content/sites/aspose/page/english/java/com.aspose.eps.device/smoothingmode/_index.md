@@ -3,7 +3,7 @@ title: SmoothingMode
 second_title: Aspose.Page for Java API Reference
 description: Smoothing mode enum.
 type: docs
-weight: 16
+weight: 15
 url: /java/com.aspose.eps.device/smoothingmode/
 ---
 **Inheritance:**

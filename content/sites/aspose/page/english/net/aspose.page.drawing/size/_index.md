@@ -3,7 +3,7 @@ title: Struct Size
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Drawing.Size struct. Stores an ordered pair of integers typically the width and height of a rectangle
 type: docs
-weight: 390
+weight: 60
 url: /net/aspose.page.drawing/size/
 ---
 ## Size structure

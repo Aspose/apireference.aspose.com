@@ -21,7 +21,6 @@ Describes the  JobInputBin ,  DocumentInputBin  and  PageInputBin  features opti
 | Constructor | Description |
 | --- | --- |
 | [InputBinOption(String optionName, InputBin.IInputBinOptionItem[] items)](#InputBinOption-java.lang.String-com.aspose.xps.metadata.InputBin.IInputBinOptionItem...-) | Creates a new instance. |
-| [InputBinOption(InputBin.InputBinOption option)](#InputBinOption-com.aspose.xps.metadata.InputBin.InputBinOption-) | Clones this option instance. |
 ## Fields
 
 | Field | Description |
@@ -44,8 +43,6 @@ Describes the  JobInputBin ,  DocumentInputBin  and  PageInputBin  features opti
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setMediaCapacity(int mediaCapacity)](#setMediaCapacity-int-) | Sets a  MediaCapacity  scored property value. |
-| [setMediaSheetCapacity(int mediaSheetCapacity)](#setMediaSheetCapacity-int-) | Sets a  MediaSheetCapacity  scored property value. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -64,22 +61,9 @@ Creates a new instance.
 | optionName | java.lang.String | An options name. |
 | items | [IInputBinOptionItem\[\]](../../com.aspose.xps.metadata/iinputbinoptionitem) | An arbitrary array of  IInputBinOptionItem  instances. |
 
-### InputBinOption(InputBin.InputBinOption option) {#InputBinOption-com.aspose.xps.metadata.InputBin.InputBinOption-}
-```
-public InputBinOption(InputBin.InputBinOption option)
-```
-
-
-Clones this option instance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| option | [InputBinOption](../../com.aspose.xps.metadata/inputbinoption) | An instance to clone. |
-
 ### AutoSelect {#AutoSelect}
 ```
-public static InputBin.InputBinOption AutoSelect
+public static final InputBin.InputBinOption AutoSelect
 ```
 
 
@@ -87,7 +71,7 @@ Device will automatically choose best option based on configuration.
 
 ### AutoSheetFeeder {#AutoSheetFeeder}
 ```
-public static InputBin.InputBinOption AutoSheetFeeder
+public static final InputBin.InputBinOption AutoSheetFeeder
 ```
 
 
@@ -95,7 +79,7 @@ Device Input tray for Inkjet Printers.
 
 ### Cassette {#Cassette}
 ```
-public static InputBin.InputBinOption Cassette
+public static final InputBin.InputBinOption Cassette
 ```
 
 
@@ -103,7 +87,7 @@ Specifies the feed bin is a cassette.
 
 ### Manual {#Manual}
 ```
-public static InputBin.InputBinOption Manual
+public static final InputBin.InputBinOption Manual
 ```
 
 
@@ -111,7 +95,7 @@ Specifies the default manual feed bin.
 
 ### Tractor {#Tractor}
 ```
-public static InputBin.InputBinOption Tractor
+public static final InputBin.InputBinOption Tractor
 ```
 
 
@@ -151,7 +135,7 @@ public InputBin.InputBinOption clone()
 ```
 
 
-Clones this option instance. The shortcut to the cloneing constructor.
+Clones this option instance.
 
 **Returns:**
 [InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - The clone of this option instance.
@@ -216,36 +200,6 @@ public final native void notifyAll()
 
 
 
-### setMediaCapacity(int mediaCapacity) {#setMediaCapacity-int-}
-```
-public InputBin.InputBinOption setMediaCapacity(int mediaCapacity)
-```
-
-
-Sets a  MediaCapacity  scored property value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mediaCapacity | int | A  MediaCapacity  scored property value. |
-
-**Returns:**
-[InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - This option instance.
-### setMediaSheetCapacity(int mediaSheetCapacity) {#setMediaSheetCapacity-int-}
-```
-public InputBin.InputBinOption setMediaSheetCapacity(int mediaSheetCapacity)
-```
-
-
-Sets a  MediaSheetCapacity  scored property value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mediaSheetCapacity | int | A  MediaSheetCapacity  scored property value. |
-
-**Returns:**
-[InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - This option instance.
 ### toString() {#toString--}
 ```
 public String toString()

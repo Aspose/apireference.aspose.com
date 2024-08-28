@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specifies device language is PC-PR201.
 
 ```csharp
-public static JobDeviceLanguageOption _201PL;
+public static readonly JobDeviceLanguageOption _201PL;
 ```
 
 ### See Also

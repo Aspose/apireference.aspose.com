@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/tractor/
 Specifies the feed bin is a tractor.
 
 ```csharp
-public static InputBinOption Tractor;
+public static readonly InputBinOption Tractor;
 ```
 
 ### See Also

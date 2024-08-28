@@ -23,7 +23,7 @@ DocumentBindingGutter
 parameter.
 
 ```csharp
-public static BindingGutter JobBindAllDocumentsGutter;
+public static readonly BindingGutter JobBindAllDocumentsGutter;
 ```
 
 ### See Also

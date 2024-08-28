@@ -3,7 +3,7 @@ title: InputBin.IInputBinItem
 second_title: Aspose.Page for Java API Reference
 description: The interface of any JobInputBin DocumentInputBin and PageInputBin feature item.
 type: docs
-weight: 18
+weight: 20
 url: /java/com.aspose.xps.metadata/inputbin.iinputbinitem/
 ---
 **All Implemented Interfaces:**

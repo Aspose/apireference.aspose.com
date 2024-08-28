@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetoption/custom/
 Specifies a custom error sheet should be output. If a [`JobErrorSheetSource`](../../joberrorsheetsource/)[`ParameterInit`](../../parameterinit/) element is not specified, this Option should be ignored.
 
 ```csharp
-public ErrorSheetOption Custom;
+public static readonly ErrorSheetOption Custom;
 ```
 
 ### See Also

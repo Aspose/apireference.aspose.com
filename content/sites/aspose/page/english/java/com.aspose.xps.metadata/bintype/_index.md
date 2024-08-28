@@ -41,7 +41,7 @@ Defines constants for the  BinType  scored property value.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Finisher {#Finisher}
 ```
-public static OutputBin.BinType Finisher
+public static final OutputBin.BinType Finisher
 ```
 
 
@@ -49,7 +49,7 @@ Finisher bin.
 
 ### MailBox {#MailBox}
 ```
-public static OutputBin.BinType MailBox
+public static final OutputBin.BinType MailBox
 ```
 
 
@@ -57,7 +57,7 @@ MailBox bin.
 
 ### None {#None}
 ```
-public static OutputBin.BinType None
+public static final OutputBin.BinType None
 ```
 
 
@@ -65,7 +65,7 @@ None of the above.
 
 ### Sorter {#Sorter}
 ```
-public static OutputBin.BinType Sorter
+public static final OutputBin.BinType Sorter
 ```
 
 
@@ -73,7 +73,7 @@ Sorter bin.
 
 ### Stacker {#Stacker}
 ```
-public static OutputBin.BinType Stacker
+public static final OutputBin.BinType Stacker
 ```
 
 

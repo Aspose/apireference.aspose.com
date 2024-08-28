@@ -1,36 +1,12 @@
 ---
 title: PsDocument.Save
 second_title: Aspose.Page for .NET API Reference
-description: PsDocument method. Saves PS/EPS file to a device
+description: PsDocument method. Saves given PsDocument as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added
 type: docs
 weight: 400
 url: /net/aspose.page.eps/psdocument/save/
 ---
-## Save(Device, SaveOptions) {#save_1}
-
-Saves PS/EPS file to a device.
-
-```csharp
-[Obsolete("Save is deprecated beginning from 24.3, please use SaveAsPdf or SaveAsImage instead. In 24.6 this method will be hidden")]
-public override void Save(Device device, SaveOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | Device | An output device. |
-| options | SaveOptions | Contains flags that specify output of errors thrown during conversion. |
-
-### See Also
-
-* class [Device](../../../aspose.page/device/)
-* class [SaveOptions](../../../aspose.page/saveoptions/)
-* class [PsDocument](../)
-* namespace [Aspose.Page.EPS](../../psdocument/)
-* assembly [Aspose.Page](../../../)
-
----
-
-## Save(Stream) {#save_2}
+## Save(Stream) {#save_1}
 
 Saves given [`PsDocument`](../) as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added.
 

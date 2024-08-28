@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/land
 Content is rotated on the page 90 degrees CCW relative to standard (portrait) orientation.
 
 ```csharp
-public static PageOrientationOption Landscape;
+public static readonly PageOrientationOption Landscape;
 ```
 
 ### See Also

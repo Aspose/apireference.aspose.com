@@ -3,7 +3,7 @@ title: InputBin.MediaTypeAutoSense
 second_title: Aspose.Page for Java API Reference
 description: Defines constants for the MediaTypeAutoSense scored property value.
 type: docs
-weight: 17
+weight: 19
 url: /java/com.aspose.xps.metadata/inputbin.mediatypeautosense/
 ---
 **Inheritance:**
@@ -38,7 +38,7 @@ Defines constants for the  MediaTypeAutoSense  scored property value.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### None {#None}
 ```
-public static InputBin.MediaTypeAutoSense None
+public static final InputBin.MediaTypeAutoSense None
 ```
 
 
@@ -46,7 +46,7 @@ None value.
 
 ### Supported {#Supported}
 ```
-public static InputBin.MediaTypeAutoSense Supported
+public static final InputBin.MediaTypeAutoSense Supported
 ```
 
 

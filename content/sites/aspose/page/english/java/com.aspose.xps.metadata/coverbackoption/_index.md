@@ -39,7 +39,7 @@ Describes the  JobPrimaryCoverBack  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### BlankCover {#BlankCover}
 ```
-public static JobPrimaryCoverBack.CoverBackOption BlankCover
+public static final JobPrimaryCoverBack.CoverBackOption BlankCover
 ```
 
 
@@ -47,7 +47,7 @@ Specifies a blank cover sheet should be printed.
 
 ### NoCover {#NoCover}
 ```
-public static JobPrimaryCoverBack.CoverBackOption NoCover
+public static final JobPrimaryCoverBack.CoverBackOption NoCover
 ```
 
 
@@ -55,7 +55,7 @@ Specifies no cover will be output.
 
 ### PrintBack {#PrintBack}
 ```
-public static JobPrimaryCoverBack.CoverBackOption PrintBack
+public static final JobPrimaryCoverBack.CoverBackOption PrintBack
 ```
 
 
@@ -63,7 +63,7 @@ Specifies the cover indicated by "CoverBackSource" should be printed on the back
 
 ### PrintBoth {#PrintBoth}
 ```
-public static JobPrimaryCoverBack.CoverBackOption PrintBoth
+public static final JobPrimaryCoverBack.CoverBackOption PrintBoth
 ```
 
 
@@ -71,7 +71,7 @@ Specifies the cover indicated by "CoverBackSource" may be printed on either side
 
 ### PrintFront {#PrintFront}
 ```
-public static JobPrimaryCoverBack.CoverBackOption PrintFront
+public static final JobPrimaryCoverBack.CoverBackOption PrintFront
 ```
 
 

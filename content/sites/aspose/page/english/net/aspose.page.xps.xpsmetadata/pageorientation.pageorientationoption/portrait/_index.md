@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/port
 Standard Orientation.
 
 ```csharp
-public static PageOrientationOption Portrait;
+public static readonly PageOrientationOption Portrait;
 ```
 
 ### See Also

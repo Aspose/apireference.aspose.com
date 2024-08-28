@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/bale/
 Specifies bale binding.
 
 ```csharp
-public static BindingOption Bale;
+public static readonly BindingOption Bale;
 ```
 
 ### See Also

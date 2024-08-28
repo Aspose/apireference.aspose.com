@@ -38,7 +38,7 @@ Defines constants for the  FeedType  scored property value.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Automatic {#Automatic}
 ```
-public static InputBin.FeedType Automatic
+public static final InputBin.FeedType Automatic
 ```
 
 
@@ -46,7 +46,7 @@ Automatic value.
 
 ### Manual {#Manual}
 ```
-public static InputBin.FeedType Manual
+public static final InputBin.FeedType Manual
 ```
 
 

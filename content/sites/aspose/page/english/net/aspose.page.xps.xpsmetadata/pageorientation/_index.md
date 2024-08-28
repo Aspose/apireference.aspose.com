@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation class. Describes the orientation of the physical media sheet. https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2950
+weight: 2640
 url: /net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class
@@ -31,7 +31,7 @@ public sealed class PageOrientation : Feature, IDocumentPrintTicketItem, IJobPri
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ## Other Members
 

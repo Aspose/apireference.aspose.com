@@ -14,11 +14,10 @@ The **com.aspose.eps.device** package provides classes of possible devices and s
 
 | Class | Description |
 | --- | --- |
-| [ImageDevice](../com.aspose.eps.device/imagedevice) | This class encapsulates rendering of document to image. |
 | [ImageSaveOptions](../com.aspose.eps.device/imagesaveoptions) | This class contains options necessary for managing conversion process. |
-| [PdfDevice](../com.aspose.eps.device/pdfdevice) | This class encapsulates rendering of document to PDF. |
 | [PdfSaveOptions](../com.aspose.eps.device/pdfsaveoptions) | This class contains options necessary for managing conversion process. |
 | [PsSaveOptions](../com.aspose.eps.device/pssaveoptions) | This class contains options necessary for managing conversion process. |
+| [TextDevice](../com.aspose.eps.device/textdevice) |  |
 
 ## Enumerations
 

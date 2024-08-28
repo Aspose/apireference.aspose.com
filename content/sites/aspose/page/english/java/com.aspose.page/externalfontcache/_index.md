@@ -3,7 +3,7 @@ title: ExternalFontCache
 second_title: Aspose.Page for Java API Reference
 description: Use this class to obtain font encapsulation in a form that is accepted by Device.
 type: docs
-weight: 14
+weight: 13
 url: /java/com.aspose.page/externalfontcache/
 ---
 **Inheritance:**

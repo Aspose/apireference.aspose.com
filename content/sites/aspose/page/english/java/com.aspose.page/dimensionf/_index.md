@@ -3,7 +3,7 @@ title: DimensionF
 second_title: Aspose.Page for Java API Reference
 description: The Dimension class encapsulates the width and height of a component in single precision in a single object.
 type: docs
-weight: 12
+weight: 11
 url: /java/com.aspose.page/dimensionf/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessingJobDigitalSignatureProcessingOption class. Describes the JobDigitalSignatureProcessing feature options
 type: docs
-weight: 1920
+weight: 1600
 url: /net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing.jobdigitalsignatureprocessingoption/
 ---
 ## JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption class
@@ -30,9 +30,9 @@ public sealed class JobDigitalSignatureProcessingOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [PrintInvalidSignatures](../../aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessingoption/printinvalidsignatures/) | Print the job regardless of the validity of the digital signatures. Digital signatures MAY be ignored. |
-| static [PrintInvalidSignaturesWithErrorReport](../../aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessingoption/printinvalidsignatureswitherrorreport/) | Print the job regardless of the validity of the digital signatures. In the event an invalid signature is encountered, an error page should print at the end of the job. Digital signatures MUST not be ignored. |
-| static [PrintOnlyValidSignatures](../../aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessingoption/printonlyvalidsignatures/) | Print the job only if all digital signatures are valid. Digital signatures MUST not be ignored. |
+| static readonly [PrintInvalidSignatures](../../aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessingoption/printinvalidsignatures/) | Print the job regardless of the validity of the digital signatures. Digital signatures MAY be ignored. |
+| static readonly [PrintInvalidSignaturesWithErrorReport](../../aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessingoption/printinvalidsignatureswitherrorreport/) | Print the job regardless of the validity of the digital signatures. In the event an invalid signature is encountered, an error page should print at the end of the job. Digital signatures MUST not be ignored. |
+| static readonly [PrintOnlyValidSignatures](../../aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessingoption/printonlyvalidsignatures/) | Print the job only if all digital signatures are valid. Digital signatures MUST not be ignored. |
 
 ### See Also
 

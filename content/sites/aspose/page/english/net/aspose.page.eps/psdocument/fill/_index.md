@@ -3,7 +3,7 @@ title: PsDocument.Fill
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Fill an arbitrary path
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.page.eps/psdocument/fill/
 ---
 ## PsDocument.Fill method

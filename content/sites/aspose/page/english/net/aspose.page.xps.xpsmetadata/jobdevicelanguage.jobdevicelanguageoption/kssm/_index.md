@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is KSSM.
 
 ```csharp
-public static JobDeviceLanguageOption KSSM;
+public static readonly JobDeviceLanguageOption KSSM;
 ```
 
 ### See Also

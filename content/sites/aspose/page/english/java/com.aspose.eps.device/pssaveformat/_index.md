@@ -3,7 +3,7 @@ title: PsSaveFormat
 second_title: Aspose.Page for Java API Reference
 description: This enumeration contains available options of saving format.
 type: docs
-weight: 15
+weight: 14
 url: /java/com.aspose.eps.device/pssaveformat/
 ---
 **Inheritance:**

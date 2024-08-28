@@ -20,7 +20,6 @@ The size of the EPS image.
 
 ### See Also
 
-* struct [Size](../../../aspose.page.drawing/size/)
 * class [PsDocument](../)
 * namespace [Aspose.Page.EPS](../../psdocument/)
 * assembly [Aspose.Page](../../../)

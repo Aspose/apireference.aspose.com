@@ -3,7 +3,7 @@ title: Enum PsSaveFormat
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.Device.PsSaveFormat enum. This enumeration contains available options of saving format. It can be PS or EPS. EPS is used for only 1paged documents while PS file can contain any number of pages
 type: docs
-weight: 470
+weight: 100
 url: /net/aspose.page.eps.device/pssaveformat/
 ---
 ## PsSaveFormat enumeration

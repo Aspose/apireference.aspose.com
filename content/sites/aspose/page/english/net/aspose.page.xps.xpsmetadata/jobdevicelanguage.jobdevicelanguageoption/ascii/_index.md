@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 Specified device language is ASCII.
 
 ```csharp
-public static JobDeviceLanguageOption ASCII;
+public static readonly JobDeviceLanguageOption ASCII;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Enum XmpFieldType
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.EPS.XMP.XmpFieldType enum. This enum represents types of a XMP field
 type: docs
-weight: 580
+weight: 210
 url: /net/aspose.page.eps.xmp/xmpfieldtype/
 ---
 ## XmpFieldType enumeration

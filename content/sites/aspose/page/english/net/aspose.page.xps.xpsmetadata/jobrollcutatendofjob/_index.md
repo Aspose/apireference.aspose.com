@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob class. Describes the cutting method for roll paper. The roll should be cut at the end of the job. https//docs.microsoft.com/enus/windows/win32/printdocs/jobrollcutatendofjob
 type: docs
-weight: 2220
+weight: 1900
 url: /net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class
@@ -30,7 +30,7 @@ public sealed class JobRollCutAtEndOfJob : RollCut, IJobPrintTicketItem
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/) or a [`Property`](../property/) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature/), an [`Option`](../option/), or a [`Property`](../property/) instance. |
 
 ### See Also
 

@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/staple.stapleoption/stapledualtop/
 Specifies two staples along the top edge
 
 ```csharp
-public static StapleOption StapleDualTop;
+public static readonly StapleOption StapleDualTop;
 ```
 
 ### See Also

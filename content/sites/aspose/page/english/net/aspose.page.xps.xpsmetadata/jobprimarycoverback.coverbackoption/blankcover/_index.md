@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverback.coverbackoption/blankc
 Specifies a blank cover sheet should be printed.
 
 ```csharp
-public static CoverBackOption BlankCover;
+public static readonly CoverBackOption BlankCover;
 ```
 
 ### See Also

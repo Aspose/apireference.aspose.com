@@ -67,7 +67,7 @@ Creates a new instance.
 
 ### Bale {#Bale}
 ```
-public static JobBindAllDocuments.BindingOption Bale
+public static final JobBindAllDocuments.BindingOption Bale
 ```
 
 
@@ -75,7 +75,7 @@ Specifies bale binding.
 
 ### BindBottom {#BindBottom}
 ```
-public static JobBindAllDocuments.BindingOption BindBottom
+public static final JobBindAllDocuments.BindingOption BindBottom
 ```
 
 
@@ -83,7 +83,7 @@ Specifies binding along the bottom edge.
 
 ### BindLeft {#BindLeft}
 ```
-public static JobBindAllDocuments.BindingOption BindLeft
+public static final JobBindAllDocuments.BindingOption BindLeft
 ```
 
 
@@ -91,7 +91,7 @@ Specifies binding along the left edge.
 
 ### BindRight {#BindRight}
 ```
-public static JobBindAllDocuments.BindingOption BindRight
+public static final JobBindAllDocuments.BindingOption BindRight
 ```
 
 
@@ -99,7 +99,7 @@ Specifies binding along the right edge.
 
 ### BindTop {#BindTop}
 ```
-public static JobBindAllDocuments.BindingOption BindTop
+public static final JobBindAllDocuments.BindingOption BindTop
 ```
 
 
@@ -107,7 +107,7 @@ Specifies binding along the top edge.
 
 ### Booklet {#Booklet}
 ```
-public static JobBindAllDocuments.BindingOption Booklet
+public static final JobBindAllDocuments.BindingOption Booklet
 ```
 
 
@@ -115,7 +115,7 @@ Specifies booklet binding.
 
 ### EdgeStitchBottom {#EdgeStitchBottom}
 ```
-public static JobBindAllDocuments.BindingOption EdgeStitchBottom
+public static final JobBindAllDocuments.BindingOption EdgeStitchBottom
 ```
 
 
@@ -123,7 +123,7 @@ Specifies edge stitching along the bottom edge.
 
 ### EdgeStitchLeft {#EdgeStitchLeft}
 ```
-public static JobBindAllDocuments.BindingOption EdgeStitchLeft
+public static final JobBindAllDocuments.BindingOption EdgeStitchLeft
 ```
 
 
@@ -131,7 +131,7 @@ Specifies edge stitching along the left edge.
 
 ### EdgeStitchRight {#EdgeStitchRight}
 ```
-public static JobBindAllDocuments.BindingOption EdgeStitchRight
+public static final JobBindAllDocuments.BindingOption EdgeStitchRight
 ```
 
 
@@ -139,7 +139,7 @@ Specifies edge stitching along the right edge.
 
 ### EdgeStitchTop {#EdgeStitchTop}
 ```
-public static JobBindAllDocuments.BindingOption EdgeStitchTop
+public static final JobBindAllDocuments.BindingOption EdgeStitchTop
 ```
 
 
@@ -147,7 +147,7 @@ Specifies edge stitching along the top edge.
 
 ### Fold {#Fold}
 ```
-public static JobBindAllDocuments.BindingOption Fold
+public static final JobBindAllDocuments.BindingOption Fold
 ```
 
 
@@ -155,7 +155,7 @@ Specifies a folded binding.
 
 ### JogOffset {#JogOffset}
 ```
-public static JobBindAllDocuments.BindingOption JogOffset
+public static final JobBindAllDocuments.BindingOption JogOffset
 ```
 
 
@@ -163,7 +163,7 @@ Specifies jog offset binding.
 
 ### None {#None}
 ```
-public static JobBindAllDocuments.BindingOption None
+public static final JobBindAllDocuments.BindingOption None
 ```
 
 
@@ -171,7 +171,7 @@ Specifies no binding.
 
 ### Trim {#Trim}
 ```
-public static JobBindAllDocuments.BindingOption Trim
+public static final JobBindAllDocuments.BindingOption Trim
 ```
 
 

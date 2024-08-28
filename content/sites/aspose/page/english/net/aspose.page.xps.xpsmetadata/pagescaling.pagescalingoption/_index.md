@@ -3,7 +3,7 @@ title: Class PageScaling.PageScalingOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.PageScalingPageScalingOption class. Describes the PageScaling features options
 type: docs
-weight: 3150
+weight: 2840
 url: /net/aspose.page.xps.xpsmetadata/pagescaling.pagescalingoption/
 ---
 ## PageScaling.PageScalingOption class
@@ -33,7 +33,7 @@ public sealed class PageScalingOption : Option
 | static [Custom](../../aspose.page.xps.xpsmetadata/pagescalingoption/custom/) | Specifies a custom scaling should be applied to the Application Media Size. |
 | static [CustomSquare](../../aspose.page.xps.xpsmetadata/pagescalingoption/customsquare/) | Specifies a custom square scaling should be applied to the Application Media Size. |
 | static [FitApplicationBleedSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationbleedsizetopageimageablesize/) | Specifies the application bleed size should be scaled to the [`PageImageableSize`](../pageimageablesize/) preserving the aspect ratio. |
-| static [FitApplicationContentSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationcontentsizetopageimageablesize/) |  |
+| static [FitApplicationContentSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationcontentsizetopageimageablesize/) | Specifies the application content size should be scaled to the [`PageImageableSize`](../pageimageablesize/) preserving the aspect ratio. |
 | static [FitApplicationMediaSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationmediasizetopageimageablesize/) | Specifies the application media size should be scaled to the [`PageImageableSize`](../pageimageablesize/) preserving the aspect ratio. |
 | static [FitApplicationMediaSizeToPageMediaSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationmediasizetopagemediasize/) | Specifies the application media size should be scaled to the [`PageMediaSize`](../pagemediasize/) preserving the aspect ratio. |
 | static [None](../../aspose.page.xps.xpsmetadata/pagescalingoption/none/) | Specifies that no scaling should be applied. |

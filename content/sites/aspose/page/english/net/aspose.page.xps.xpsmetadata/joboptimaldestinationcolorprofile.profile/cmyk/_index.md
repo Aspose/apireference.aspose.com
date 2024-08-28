@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile.profile/
 CMYK profile.
 
 ```csharp
-public static Profile CMYK;
+public static readonly Profile CMYK;
 ```
 
 ### See Also

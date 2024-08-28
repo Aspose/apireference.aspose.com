@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverback.coverbackoption/nocove
 Specifies no cover will be output.
 
 ```csharp
-public static CoverBackOption NoCover;
+public static readonly CoverBackOption NoCover;
 ```
 
 ### See Also

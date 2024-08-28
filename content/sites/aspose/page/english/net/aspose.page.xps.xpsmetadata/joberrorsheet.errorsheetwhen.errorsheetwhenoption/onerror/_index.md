@@ -11,7 +11,7 @@ url: /net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetwhen.errorsheetwhe
 Specifies an error sheet will be output only on error.
 
 ```csharp
-public static ErrorSheetWhenOption OnError;
+public static readonly ErrorSheetWhenOption OnError;
 ```
 
 ### See Also

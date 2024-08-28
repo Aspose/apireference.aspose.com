@@ -39,7 +39,7 @@ Describes the  JobPrimaryCoverFront  feature options.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### BlankCover {#BlankCover}
 ```
-public static JobPrimaryCoverFront.CoverFrontOption BlankCover
+public static final JobPrimaryCoverFront.CoverFrontOption BlankCover
 ```
 
 
@@ -47,7 +47,7 @@ Specifies a blank cover sheet should be printed.
 
 ### NoCover {#NoCover}
 ```
-public static JobPrimaryCoverFront.CoverFrontOption NoCover
+public static final JobPrimaryCoverFront.CoverFrontOption NoCover
 ```
 
 
@@ -55,7 +55,7 @@ Specifies no cover will be output.
 
 ### PrintBack {#PrintBack}
 ```
-public static JobPrimaryCoverFront.CoverFrontOption PrintBack
+public static final JobPrimaryCoverFront.CoverFrontOption PrintBack
 ```
 
 
@@ -63,7 +63,7 @@ Specifies the cover indicated by "CoverFrontSource" should be printed on the bac
 
 ### PrintBoth {#PrintBoth}
 ```
-public static JobPrimaryCoverFront.CoverFrontOption PrintBoth
+public static final JobPrimaryCoverFront.CoverFrontOption PrintBoth
 ```
 
 
@@ -71,7 +71,7 @@ Specifies the cover indicated by "CoverFrontSource" may be printed on either sid
 
 ### PrintFront {#PrintFront}
 ```
-public static JobPrimaryCoverFront.CoverFrontOption PrintFront
+public static final JobPrimaryCoverFront.CoverFrontOption PrintFront
 ```
 
 

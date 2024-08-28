@@ -3,7 +3,7 @@ title: Class Duplex.DuplexOption
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexOption class. Describes the JobDuplexAllDocumentsContiguously and DocumentDuplex features options
 type: docs
-weight: 1510
+weight: 1170
 url: /net/aspose.page.xps.xpsmetadata/duplex.duplexoption/
 ---
 ## Duplex.DuplexOption class
@@ -24,15 +24,15 @@ public sealed class DuplexOption : Option
 
 | Name | Description |
 | --- | --- |
-| static [TwoSidedLongEdge](../../aspose.page.xps.xpsmetadata/duplexoption/twosidedlongedge/)(DuplexMode) | Specifies two sided printing such that the page is flipped parallel to the |
-| static [TwoSidedShortEdge](../../aspose.page.xps.xpsmetadata/duplexoption/twosidedshortedge/)(DuplexMode) | Specifies two sided printing such that the page is flipped parallel to the |
+| static [TwoSidedLongEdge](../../aspose.page.xps.xpsmetadata/duplexoption/twosidedlongedge/)(DuplexMode) | Specifies two sided printing such that the page is flipped parallel to the MediaSizeHeight direction. |
+| static [TwoSidedShortEdge](../../aspose.page.xps.xpsmetadata/duplexoption/twosidedshortedge/)(DuplexMode) | Specifies two sided printing such that the page is flipped parallel to the MediaSizeWidth direction. |
 | [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../scoredproperty/) or [`Property`](../property/) instance. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static [OneSided](../../aspose.page.xps.xpsmetadata/duplexoption/onesided/) | Specifies one sided printing. |
+| static readonly [OneSided](../../aspose.page.xps.xpsmetadata/duplexoption/onesided/) | Specifies one sided printing. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Struct SizeF
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.Drawing.SizeF struct. Stores an ordered pair of floatingpoint numbers typically the width and height of a rectangle
 type: docs
-weight: 400
+weight: 70
 url: /net/aspose.page.drawing/sizef/
 ---
 ## SizeF structure
@@ -18,7 +18,7 @@ public struct SizeF
 
 | Name | Description |
 | --- | --- |
-| [SizeF](sizef/#constructor)(PointF) | Initializes a new instance of the `SizeF` structure from the specified [`PointF`](../pointf/) structure. |
+| [SizeF](sizef/#constructor)(#=zWfgi6R$WbIywKCegIXZ99gI=) |  |
 | [SizeF](sizef/#constructor_1)(SizeF) | Initializes a new instance of the `SizeF` structure from the specified existing `SizeF` structure. |
 | [SizeF](sizef/#constructor_2)(float, float) | Initializes a new instance of the `SizeF` structure from the specified dimensions. |
 
