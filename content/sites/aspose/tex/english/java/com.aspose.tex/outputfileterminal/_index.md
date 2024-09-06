@@ -10,9 +10,9 @@ url: /java/com.aspose.tex/outputfileterminal/
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.tex.IOutputTerminal](../../com.aspose.tex/ioutputterminal), [com.aspose.tex.IFileTerminal](../../com.aspose.tex/ifileterminal)
+[com.aspose.tex.IOutputTerminal](../../com.aspose.tex/ioutputterminal)
 ```
-public class OutputFileTerminal implements IOutputTerminal, IFileTerminal
+public final class OutputFileTerminal implements IOutputTerminal
 ```
 
 Implements a terminal whose output is to be written to a file in some working directory.
@@ -25,11 +25,8 @@ Implements a terminal whose output is to be written to a file in some working di
 
 | Method | Description |
 | --- | --- |
-| [getFileName()](#getFileName--) | Gets the file name. |
-| [setFileName(String value)](#setFileName-java.lang.String-) | Sets the file name. |
 | [getWriter()](#getWriter--) | Gets the writer for the output terminal. |
 | [getStream()](#getStream--) | Gets the underlying stream. |
-| [writeFile()](#writeFile--) | Finalizes the log, e.g., writes it to file. |
 ### OutputFileTerminal(IOutputWorkingDirectory workingDirectory) {#OutputFileTerminal-com.aspose.tex.IOutputWorkingDirectory-}
 ```
 public OutputFileTerminal(IOutputWorkingDirectory workingDirectory)
@@ -42,29 +39,6 @@ Creates new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | workingDirectory | [IOutputWorkingDirectory](../../com.aspose.tex/ioutputworkingdirectory) | The working directory. |
-
-### getFileName() {#getFileName--}
-```
-public String getFileName()
-```
-
-
-Gets the file name.
-
-**Returns:**
-java.lang.String - The file name.
-### setFileName(String value) {#setFileName-java.lang.String-}
-```
-public void setFileName(String value)
-```
-
-
-Sets the file name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | The file name. |
 
 ### getWriter() {#getWriter--}
 ```
@@ -86,11 +60,3 @@ Gets the underlying stream.
 
 **Returns:**
 java.io.OutputStream - The stream.
-### writeFile() {#writeFile--}
-```
-public void writeFile()
-```
-
-
-Finalizes the log, e.g., writes it to file.
-

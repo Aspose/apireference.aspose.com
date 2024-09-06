@@ -3,7 +3,7 @@ title: IOutputWorkingDirectory
 second_title: Aspose.TeX for Java API Reference
 description: Interface of generalized output working directory.
 type: docs
-weight: 47
+weight: 46
 url: /java/com.aspose.tex/ioutputworkingdirectory/
 ---
 **All Implemented Interfaces:**

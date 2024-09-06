@@ -3,7 +3,7 @@ title: ShellMode
 second_title: Aspose.TeX for Java API Reference
 description: Enumerates values that determine the availability of write18.
 type: docs
-weight: 50
+weight: 49
 url: /java/com.aspose.tex/shellmode/
 ---
 **Inheritance:**
