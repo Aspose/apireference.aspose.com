@@ -12,7 +12,7 @@ java.lang.Object
 public abstract class Executable
 ```
 
-The base class for classes that emulate the behavior of OS executables, which can be run by the occurrences of Object TeX's  \\write18  primitive.
+The base class for classes that emulate the behavior of OS executables, which can be run by the occurrences of Object TeX's \\write18 primitive.
 ## Constructors
 
 | Constructor | Description |
