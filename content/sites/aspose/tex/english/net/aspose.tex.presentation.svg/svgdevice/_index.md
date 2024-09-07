@@ -3,7 +3,7 @@ title: Class SvgDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Svg.SvgDevice class. Implements the interface for outputting text and graphic content to PDF document
 type: docs
-weight: 770
+weight: 760
 url: /net/aspose.tex.presentation.svg/svgdevice/
 ---
 ## SvgDevice class
@@ -39,7 +39,7 @@ public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | [AddBookmark](../../aspose.tex.presentation.svg/svgdevice/addbookmark/)(string, PointF) | Adds the bookmark identified by the name. |
 | override [AddHyperlink](../../aspose.tex.presentation.svg/svgdevice/addhyperlink/)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
 | override [Create](../../aspose.tex.presentation.svg/svgdevice/create/)() | Creates a copy of this device. |
-| override [Dispose](../../aspose.tex.presentation.svg/svgdevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the ApsCanvas of the level higher then this device's graphics state ApsCanvas. |
+| override [Dispose](../../aspose.tex.presentation.svg/svgdevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
 | override [DrawPath](../../aspose.tex.presentation.svg/svgdevice/drawpath/)(GraphicsPath) | Draws a path. |
 | override [DrawString](../../aspose.tex.presentation.svg/svgdevice/drawstring/)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
 | override [EndDocument](../../aspose.tex.presentation.svg/svgdevice/enddocument/)() | Finalizes the whole document. |

@@ -3,7 +3,7 @@ title: Class XpsDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Xps.XpsDevice class. Implements the interface for outputting text and graphic content to XPS document
 type: docs
-weight: 790
+weight: 780
 url: /net/aspose.tex.presentation.xps/xpsdevice/
 ---
 ## XpsDevice class
@@ -40,7 +40,7 @@ public class XpsDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | [AddBookmark](../../aspose.tex.presentation.xps/xpsdevice/addbookmark/)(string, PointF) | Adds the bookmark identified by the name. |
 | override [AddHyperlink](../../aspose.tex.presentation.xps/xpsdevice/addhyperlink/)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
 | override [Create](../../aspose.tex.presentation.xps/xpsdevice/create/)() | Creates a copy of this device. |
-| override [Dispose](../../aspose.tex.presentation.xps/xpsdevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the ApsCanvas of the level higher then this device's graphics state ApsCanvas. |
+| override [Dispose](../../aspose.tex.presentation.xps/xpsdevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
 | override [DrawPath](../../aspose.tex.presentation.xps/xpsdevice/drawpath/)(GraphicsPath) | Draws a path. |
 | override [DrawString](../../aspose.tex.presentation.xps/xpsdevice/drawstring/)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
 | override [EndDocument](../../aspose.tex.presentation.xps/xpsdevice/enddocument/)() | Finalizes the whole document. |

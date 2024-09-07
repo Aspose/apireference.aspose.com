@@ -3,7 +3,7 @@ title: Enum TeXJobResult
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.TeXJobResult enum. Lists possible results of a TeX job
 type: docs
-weight: 860
+weight: 850
 url: /net/aspose.tex/texjobresult/
 ---
 ## TeXJobResult enumeration

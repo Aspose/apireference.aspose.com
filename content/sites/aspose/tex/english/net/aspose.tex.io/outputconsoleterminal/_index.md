@@ -1,14 +1,14 @@
 ---
 title: Class OutputConsoleTerminal
 second_title: Aspose.TeX for .NET API Reference
-description: Aspose.TeX.IO.OutputConsoleTerminal class. Provides the console as a terminal output destination. Wrapper for Out
+description: Aspose.TeX.IO.OutputConsoleTerminal class. Provides the console as a terminal output destination
 type: docs
-weight: 330
+weight: 320
 url: /net/aspose.tex.io/outputconsoleterminal/
 ---
 ## OutputConsoleTerminal class
 
-Provides the console as a terminal output destination. Wrapper for Out.
+Provides the console as a terminal output destination.
 
 ```csharp
 public class OutputConsoleTerminal : IOutputTerminal

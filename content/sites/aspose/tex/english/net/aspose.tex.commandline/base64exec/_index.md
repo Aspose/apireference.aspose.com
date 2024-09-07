@@ -1,14 +1,20 @@
 ---
 title: Class Base64Exec
 second_title: Aspose.TeX for .NET API Reference
-description: Aspose.TeX.CommandLine.Base64Exec class. An implementation of Base64 command emulation
+description: Aspose.TeX.CommandLine.Base64Exec class. An implementation of
 type: docs
 weight: 20
 url: /net/aspose.tex.commandline/base64exec/
 ---
 ## Base64Exec class
 
-An implementation of `Base64` command emulation.
+An implementation of
+
+```csharp
+Base64
+```
+
+command emulation.
 
 ```csharp
 public sealed class Base64Exec : Executable

@@ -1,12 +1,12 @@
 ---
 title: Aspose.TeX
 second_title: Aspose.TeX for .NET API Reference
-description: The Aspose.TeX is a root namespace for all classes of Aspose.TeX library which are either directly in it like Device or indirectly through several namesubspaces
+description: The Aspose.TeX is a root namespace for all classes of the Aspose.TeX library which are either directly contained within it such as TeXJob or indirectly through several nested namespaces
 type: docs
 weight: 10
 url: /net/aspose.tex/
 ---
-The **Aspose.TeX** is a root namespace for all classes of Aspose.TeX library which are either directly in it like **Device** or indirectly through several namesubspaces.
+The **Aspose.TeX** is a root namespace for all classes of the Aspose.TeX library which are either directly contained within it, such as **TeXJob**, or indirectly through several nested namespaces.
 
 ## Classes
 
