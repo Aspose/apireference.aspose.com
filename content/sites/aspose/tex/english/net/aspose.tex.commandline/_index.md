@@ -12,7 +12,7 @@ The **Aspose.TeX.CommandLine** namespace provides classes for handling Object Te
 
 | Class | Description |
 | --- | --- |
-| [Base64Exec](./base64exec/) | An implementation of `Base64` command emulation. |
+| [Base64Exec](./base64exec/) | An implementation of |
 | [Executable](./executable/) | The base class for classes that emulate the behavior of OS executables, which can be run by the occurrences of Object TeX's `\write18` primitive. |
 | [ExecutablesList](./executableslist/) | Encapsulates a collection of objects that emulate executables, which can be executed using the `\write18` commands in ObjectTeX. |
 | [Write18Exception](./write18exception/) | The exception that has to be thrown when something goes wrong while an executable is running. |

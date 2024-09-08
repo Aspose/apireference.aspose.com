@@ -1,14 +1,14 @@
 ---
 title: Class InputConsoleTerminal
 second_title: Aspose.TeX for .NET API Reference
-description: Aspose.TeX.IO.InputConsoleTerminal class. Provides the console as a terminal input source. Wrapper for In
+description: Aspose.TeX.IO.InputConsoleTerminal class. Provides the console as a terminal input source
 type: docs
-weight: 280
+weight: 270
 url: /net/aspose.tex.io/inputconsoleterminal/
 ---
 ## InputConsoleTerminal class
 
-Provides the console as a terminal input source. Wrapper for In.
+Provides the console as a terminal input source.
 
 ```csharp
 public class InputConsoleTerminal : IInputTerminal

@@ -3,7 +3,7 @@ title: OutputFileTerminal.Writer
 second_title: Aspose.TeX for .NET API Reference
 description: OutputFileTerminal property. Gets the writer for the output terminal
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.tex.io/outputfileterminal/writer/
 ---
 ## OutputFileTerminal.Writer property

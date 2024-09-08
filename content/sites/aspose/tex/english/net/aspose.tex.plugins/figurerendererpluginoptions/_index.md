@@ -3,7 +3,7 @@ title: Class FigureRendererPluginOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Plugins.FigureRendererPluginOptions class. The options for the FigureRendererPlugin
 type: docs
-weight: 430
+weight: 420
 url: /net/aspose.tex.plugins/figurerendererpluginoptions/
 ---
 ## FigureRendererPluginOptions class

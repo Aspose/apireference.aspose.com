@@ -3,7 +3,7 @@ title: Enum ShellMode
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.ShellMode enum. Enumerates values that determine the availability of write18
 type: docs
-weight: 820
+weight: 810
 url: /net/aspose.tex/shellmode/
 ---
 ## ShellMode enumeration

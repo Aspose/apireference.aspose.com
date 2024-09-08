@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Pdf.PdfDevice class. Implements the interface for outputting text and graphic content to PDF document
 type: docs
-weight: 700
+weight: 690
 url: /net/aspose.tex.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
@@ -40,7 +40,7 @@ public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | [AddBookmark](../../aspose.tex.presentation.pdf/pdfdevice/addbookmark/)(string, PointF) | Adds the bookmark identified by the name. |
 | override [AddHyperlink](../../aspose.tex.presentation.pdf/pdfdevice/addhyperlink/)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
 | override [Create](../../aspose.tex.presentation.pdf/pdfdevice/create/)() | Creates a copy of this device. |
-| override [Dispose](../../aspose.tex.presentation.pdf/pdfdevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the ApsCanvas of the level higher then this device's graphics state ApsCanvas. |
+| override [Dispose](../../aspose.tex.presentation.pdf/pdfdevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
 | override [DrawPath](../../aspose.tex.presentation.pdf/pdfdevice/drawpath/)(GraphicsPath) | Draws a path. |
 | override [DrawString](../../aspose.tex.presentation.pdf/pdfdevice/drawstring/)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
 | override [EndDocument](../../aspose.tex.presentation.pdf/pdfdevice/enddocument/)() | Finalizes the whole document. |
