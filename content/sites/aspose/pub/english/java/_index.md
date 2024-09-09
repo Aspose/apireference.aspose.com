@@ -9,5 +9,5 @@ is_root: true
 ## Packages
 | Package | Description |
 | --- | --- |
-| [com.aspose.pub.exceptions](./com.aspose.pub.exceptions) | Namespace  **\`\`\` com.aspose.pub.exceptions \`\`\`** declares classes for exceptions in PUB area |
-| [com.aspose.pub](./com.aspose.pub) | The  **\`\`\` com.aspose.pub \`\`\`** namespace provides classes describing PUB objects. |
+| [com.aspose.pub.exceptions](./com.aspose.pub.exceptions) | Namespace  **com.aspose.pub.exceptions** declares classes for exceptions in PUB area |
+| [com.aspose.pub](./com.aspose.pub) | The  **com.aspose.pub** namespace provides classes describing PUB objects. |
