@@ -1,14 +1,14 @@
 ---
 title: IBrush.Type
 second_title: Aspose.SVG for .NET API Reference
-description: IBrush property. Get type of brush See BrushType
+description: IBrush property. Gets type of brush as BrushType
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/ibrush/type/
 ---
 ## IBrush.Type property
 
-Get type of brush; See [`BrushType`](../../brushtype/).
+Gets type of brush as [`BrushType`](../../brushtype/).
 
 ```csharp
 public BrushType Type { get; }

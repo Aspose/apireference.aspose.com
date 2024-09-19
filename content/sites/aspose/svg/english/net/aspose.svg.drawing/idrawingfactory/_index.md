@@ -23,13 +23,16 @@ public interface IDrawingFactory : IDisposable
 | [CreateBitmapFromImageStream](../../aspose.svg.drawing/idrawingfactory/createbitmapfromimagestream/)(Stream) | Creates a bitmap from the specified image stream. |
 | [CreateBitmapFromPixelByteArray](../../aspose.svg.drawing/idrawingfactory/createbitmapfrompixelbytearray/)(byte[], int, int) | Creates a bitmap from the specified pixel byte array with the specified width and height. |
 | [CreateCodec](../../aspose.svg.drawing/idrawingfactory/createcodec/)(byte[]) | Creates a codec for the specified image. |
-| [CreateLinearGradientBrush](../../aspose.svg.drawing/idrawingfactory/createlineargradientbrush/)(RectangleF, float, bool, IInterpolationColor[], SpreadMode) | Creates a linear gradient brush with the specified parameters. |
+| [CreateInterpolationColor](../../aspose.svg.drawing/idrawingfactory/createinterpolationcolor/)(Color, float) | Creates an interpolation color with the specified color and position. |
+| [CreateLinearGradientBrush](../../aspose.svg.drawing/idrawingfactory/createlineargradientbrush/#createlineargradientbrush)(RectangleF, IInterpolationColor[]) | Creates a linear gradient brush with the specified parameters. |
+| [CreateLinearGradientBrush](../../aspose.svg.drawing/idrawingfactory/createlineargradientbrush/#createlineargradientbrush_1)(RectangleF, float, bool, IInterpolationColor[], SpreadMode) | Creates a linear gradient brush with the specified parameters. |
 | [CreateMatrix](../../aspose.svg.drawing/idrawingfactory/creatematrix/#creatematrix)() | Creates a new identity matrix. |
 | [CreateMatrix](../../aspose.svg.drawing/idrawingfactory/creatematrix/#creatematrix_1)(IMatrix) | Creates a new matrix with the same contents as the specified matrix. |
 | [CreateMatrix](../../aspose.svg.drawing/idrawingfactory/creatematrix/#creatematrix_2)(float, float, float, float, float, float) | Creates a new matrix with the specified elements. |
 | [CreateSolidBrush](../../aspose.svg.drawing/idrawingfactory/createsolidbrush/)(Color) | Creates a solid brush with the specified color. |
-| [CreateTextureBrush](../../aspose.svg.drawing/idrawingfactory/createtexturebrush/#createtexturebrush)(byte[], SpreadMode, float, IMatrix) | Creates a texture brush with the specified parameters. |
-| [CreateTextureBrush](../../aspose.svg.drawing/idrawingfactory/createtexturebrush/#createtexturebrush_1)(PointF, IMatrix, IInterpolationColor[], RectangleF, float, RectangleF) | Creates a texture brush with the specified parameters for an elliptical shape. |
+| [CreateTextureBrush](../../aspose.svg.drawing/idrawingfactory/createtexturebrush/#createtexturebrush)(byte[]) | Creates a texture brush with the specified parameters. |
+| [CreateTextureBrush](../../aspose.svg.drawing/idrawingfactory/createtexturebrush/#createtexturebrush_1)(byte[], SpreadMode, float, IMatrix) | Creates a texture brush with the specified parameters. |
+| [CreateTextureBrush](../../aspose.svg.drawing/idrawingfactory/createtexturebrush/#createtexturebrush_2)(PointF, IMatrix, IInterpolationColor[], RectangleF, float, RectangleF) | Creates a texture brush with the specified parameters for an elliptical shape. |
 
 ### See Also
 

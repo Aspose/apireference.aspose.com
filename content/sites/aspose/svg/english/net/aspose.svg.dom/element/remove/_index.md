@@ -3,7 +3,7 @@ title: Element.Remove
 second_title: Aspose.SVG for .NET API Reference
 description: Element method. Removes this instance
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.svg.dom/element/remove/
 ---
 ## Element.Remove method

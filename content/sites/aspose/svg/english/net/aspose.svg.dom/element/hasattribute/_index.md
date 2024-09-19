@@ -3,7 +3,7 @@ title: Element.HasAttribute
 second_title: Aspose.SVG for .NET API Reference
 description: Element method. Returns true when an attribute with a given name is specified on this element or has a default value false otherwise
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.svg.dom/element/hasattribute/
 ---
 ## Element.HasAttribute method

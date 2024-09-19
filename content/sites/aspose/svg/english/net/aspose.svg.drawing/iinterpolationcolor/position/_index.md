@@ -1,17 +1,17 @@
 ---
 title: IInterpolationColor.Position
 second_title: Aspose.SVG for .NET API Reference
-description: IInterpolationColor property. Gets the color position
+description: IInterpolationColor property. Gets or sets the color position
 type: docs
 weight: 20
 url: /net/aspose.svg.drawing/iinterpolationcolor/position/
 ---
 ## IInterpolationColor.Position property
 
-Gets the color position.
+Gets or sets the color position.
 
 ```csharp
-public float Position { get; }
+public float Position { get; set; }
 ```
 
 ### Property Value

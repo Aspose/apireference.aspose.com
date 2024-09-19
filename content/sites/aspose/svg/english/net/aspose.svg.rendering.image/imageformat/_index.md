@@ -1,14 +1,14 @@
 ---
 title: ImageFormat Enum
 second_title: Aspose.SVG for .NET API Reference
-description: Aspose.Svg.Rendering.Image.ImageFormat enum. Specifies the file format of the image. This class is deprecated and will be replaced by WebImageFormat
+description: Aspose.Svg.Rendering.Image.ImageFormat enum. Specifies the file format of the image
 type: docs
 weight: 2070
 url: /net/aspose.svg.rendering.image/imageformat/
 ---
 ## ImageFormat enumeration
 
-Specifies the file format of the image. This class is deprecated and will be replaced by [`WebImageFormat`](../../aspose.svg.drawing/webimageformat/).
+Specifies the file format of the image.
 
 ```csharp
 public enum ImageFormat

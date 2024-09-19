@@ -1,14 +1,14 @@
 ---
 title: ITrueTypeFont.FullFontName
 second_title: Aspose.SVG for .NET API Reference
-description: ITrueTypeFont property. Gets the full name of the font
+description: ITrueTypeFont property. Full font name is generally represented as combination of Family and Subfamily names
 type: docs
 weight: 40
 url: /net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-Gets the full name of the font.
+Full font name is generally represented as combination of Family and Subfamily names.
 
 ```csharp
 public string FullFontName { get; }

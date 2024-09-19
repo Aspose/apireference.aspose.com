@@ -6,22 +6,22 @@ type: docs
 weight: 140
 url: /net/aspose.svg.drawing/imatrix/rotate/
 ---
-## Rotate(float, SvgMatrixOrder) {#rotate_1}
+## Rotate(float, WebMatrixOrder) {#rotate_1}
 
 Rotates the matrix by the specified angle in the specified order.
 
 ```csharp
-public void Rotate(float angle, SvgMatrixOrder order)
+public void Rotate(float angle, WebMatrixOrder order)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | angle | Single | The angle of rotation in degrees. |
-| order | SvgMatrixOrder | The order in which rotation is applied. |
+| order | WebMatrixOrder | The order in which rotation is applied. |
 
 ### See Also
 
-* enum [SvgMatrixOrder](../../svgmatrixorder/)
+* enum [WebMatrixOrder](../../webmatrixorder/)
 * interface [IMatrix](../)
 * namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

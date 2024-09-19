@@ -3,10 +3,35 @@ title: IDrawingFactory.CreateTextureBrush
 second_title: Aspose.SVG for .NET API Reference
 description: IDrawingFactory method. Creates a texture brush with the specified parameters
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.svg.drawing/idrawingfactory/createtexturebrush/
 ---
-## CreateTextureBrush(byte[], SpreadMode, float, IMatrix) {#createtexturebrush}
+## CreateTextureBrush(byte[]) {#createtexturebrush}
+
+Creates a texture brush with the specified parameters.
+
+```csharp
+public ITextureBrush CreateTextureBrush(byte[] imageBytes)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageBytes | Byte[] | The byte array containing the image data. |
+
+### Return Value
+
+The created [`ITextureBrush`](../../itexturebrush/).
+
+### See Also
+
+* interface [ITextureBrush](../../itexturebrush/)
+* interface [IDrawingFactory](../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## CreateTextureBrush(byte[], SpreadMode, float, IMatrix) {#createtexturebrush_1}
 
 Creates a texture brush with the specified parameters.
 
@@ -37,7 +62,7 @@ The created [`ITextureBrush`](../../itexturebrush/).
 
 ---
 
-## CreateTextureBrush(PointF, IMatrix, IInterpolationColor[], RectangleF, float, RectangleF) {#createtexturebrush_1}
+## CreateTextureBrush(PointF, IMatrix, IInterpolationColor[], RectangleF, float, RectangleF) {#createtexturebrush_2}
 
 Creates a texture brush with the specified parameters for an elliptical shape.
 
