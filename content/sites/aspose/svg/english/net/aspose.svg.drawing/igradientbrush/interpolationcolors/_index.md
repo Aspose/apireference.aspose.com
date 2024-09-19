@@ -1,14 +1,14 @@
 ---
 title: IGradientBrush.InterpolationColors
 second_title: Aspose.SVG for .NET API Reference
-description: IGradientBrush property. Get the interpolation colors that defines a multicolor linear gradient
+description: IGradientBrush property. Gets or sets the interpolation colors that defines a multicolor linear gradient
 type: docs
-weight: 10
+weight: 30
 url: /net/aspose.svg.drawing/igradientbrush/interpolationcolors/
 ---
 ## IGradientBrush.InterpolationColors property
 
-Get the interpolation colors that defines a multicolor linear gradient.
+Gets or sets the interpolation colors that defines a multicolor linear gradient.
 
 ```csharp
 public IInterpolationColor[] InterpolationColors { get; set; }

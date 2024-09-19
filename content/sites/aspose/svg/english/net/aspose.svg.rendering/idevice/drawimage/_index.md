@@ -11,14 +11,14 @@ url: /net/aspose.svg.rendering/idevice/drawimage/
 Draws the specified image.
 
 ```csharp
-public void DrawImage(byte[] data, WebImageFormat type, RectangleF rect)
+public void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | data | Byte[] | An array of bytes representing the image. |
-| type | WebImageFormat | Image type. |
-| rect | RectangleF | A rectangel which determines position and size to draw. |
+| imageFormat | WebImageFormat | Image format. |
+| rect | RectangleF | A rectangle which determines position and size to draw. |
 
 ### See Also
 

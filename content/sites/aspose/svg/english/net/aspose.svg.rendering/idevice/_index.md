@@ -29,7 +29,7 @@ public interface IDevice : IDisposable
 | [BeginDocument](../../aspose.svg.rendering/idevice/begindocument/)(Document) | Begins rendering of the document. |
 | [BeginElement](../../aspose.svg.rendering/idevice/beginelement/)(Element, RectangleF) | Begins rendering of the element. |
 | [BeginPage](../../aspose.svg.rendering/idevice/beginpage/)(SizeF) | Begins rendering of the new page. |
-| [Clip](../../aspose.svg.rendering/idevice/clip/)(FillRule) | Modifies the current clipping path by intersecting it with the current path, using the FillMode rule to determine the region to fill. This method terminates current path. |
+| [Clip](../../aspose.svg.rendering/idevice/clip/)(FillRule) | Modifies the current clipping path by intersecting it with the current path, using the FillRule to determine the region to fill. This method terminates current path. |
 | [ClosePath](../../aspose.svg.rendering/idevice/closepath/)() | Closes the current subpath by appending a straight line segment from the current point to the starting point of the subpath. If the current subpath is already closed, "ClosePath" does nothing. This operator terminates the current subpath. Appending another segment to the current path begins a new subpath, even if the new segment begins at the endpoint reached by the "ClosePath" method. |
 | [CubicBezierTo](../../aspose.svg.rendering/idevice/cubicbezierto/)(PointF, PointF, PointF) | Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt3, using pt1 and pt2 as the Bézier control points. The new current point is pt3. |
 | [DrawImage](../../aspose.svg.rendering/idevice/drawimage/)(byte[], WebImageFormat, RectangleF) | Draws the specified image. |

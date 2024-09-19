@@ -46,10 +46,10 @@ public Uint8ClampedArray(byte[] data)
 
 ---
 
-## Uint8ClampedArray(  ) {#constructor}
+## Uint8ClampedArray(  ) {#constructor}
 
 ```csharp
-public Uint8ClampedArray(   buffer)
+public Uint8ClampedArray(   buffer)
 ```
 
 ### See Also
@@ -60,10 +60,10 @@ public Uint8ClampedArray(   buffer)
 
 ---
 
-## Uint8ClampedArray(  , int) {#constructor_1}
+## Uint8ClampedArray(  , int) {#constructor_1}
 
 ```csharp
-public Uint8ClampedArray(   buffer, int byteOffset)
+public Uint8ClampedArray(   buffer, int byteOffset)
 ```
 
 ### See Also
@@ -74,10 +74,10 @@ public Uint8ClampedArray(   buffer, int byteOffset)
 
 ---
 
-## Uint8ClampedArray(  , int, int) {#constructor_2}
+## Uint8ClampedArray(  , int, int) {#constructor_2}
 
 ```csharp
-public Uint8ClampedArray(   buffer, int byteOffset, int length)
+public Uint8ClampedArray(   buffer, int byteOffset, int length)
 ```
 
 ### See Also

@@ -25,4 +25,4 @@ The **Aspose.Svg.Rendering.Image** namespace provides specific device class as w
 | Enumeration | Description |
 | --- | --- |
 | [Compression](./compression/) | Specifies the possible compression schemes for Tagged Image File Format (TIFF) bitmap images. |
-| [ImageFormat](./imageformat/) | Specifies the file format of the image. This class is deprecated and will be replaced by [`WebImageFormat`](../aspose.svg.drawing/webimageformat/). |
+| [ImageFormat](./imageformat/) | Specifies the file format of the image. |

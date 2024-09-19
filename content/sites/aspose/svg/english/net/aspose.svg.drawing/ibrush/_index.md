@@ -19,7 +19,7 @@ public interface IBrush : IDisposable
 | Name | Description |
 | --- | --- |
 | [SupportsShader](../../aspose.svg.drawing/ibrush/supportsshader/) { get; } | Checks if the brush supports a shader. |
-| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Get type of brush; See [`BrushType`](../brushtype/). |
+| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Gets type of brush as [`BrushType`](../brushtype/). |
 
 ## Methods
 

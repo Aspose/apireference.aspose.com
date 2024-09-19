@@ -9,7 +9,7 @@ url: /net/aspose.svg.builder/svgbuilderextensions/accumulate/
 ## SVGBuilderExtensions.Accumulate&lt;TBuilder&gt; method
 
 ```csharp
-public static TBuilder Accumulate<TBuilder>(this TBuilder builder,    value)
+public static TBuilder Accumulate<TBuilder>(this TBuilder builder,    value)
     where TBuilder : ISVGElementBuilder, IAnimationAdditionAttributeSetter
 ```
 

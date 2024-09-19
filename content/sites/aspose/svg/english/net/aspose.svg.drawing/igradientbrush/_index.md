@@ -18,7 +18,9 @@ public interface IGradientBrush : ITransformableBrush
 
 | Name | Description |
 | --- | --- |
-| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; set; } | Get the interpolation colors that defines a multicolor linear gradient. |
+| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; set; } | Gets or sets the blend factors that define a custom falloff for the gradient. |
+| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; set; } | Gets or sets the blend positions that define a custom falloff for the gradient. |
+| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; set; } | Gets or sets the interpolation colors that defines a multicolor linear gradient. |
 
 ### See Also
 

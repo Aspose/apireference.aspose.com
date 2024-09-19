@@ -3,7 +3,7 @@ title: IMatrix.TransformPoints
 second_title: Aspose.SVG for .NET API Reference
 description: IMatrix method. Transforms an array of points using this matrix
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.svg.drawing/imatrix/transformpoints/
 ---
 ## IMatrix.TransformPoints method

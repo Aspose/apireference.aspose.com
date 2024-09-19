@@ -30,7 +30,7 @@ public interface ICanvasContext
 | [LetterSpacing](../../aspose.svg.rendering/icanvascontext/letterspacing/) { get; set; } | Gets or sets the letter spacing. |
 | [LineCap](../../aspose.svg.rendering/icanvascontext/linecap/) { get; set; } | Gets or sets the line cap style. See [`StrokeLineCap`](../../aspose.svg.drawing/strokelinecap/). |
 | [LineDashOffset](../../aspose.svg.rendering/icanvascontext/linedashoffset/) { get; set; } | Gets or sets the line dash offset. |
-| [LineDashPattern](../../aspose.svg.rendering/icanvascontext/linedashpattern/) { get; set; } | Gets or sets the line dash pattern. |
+| [LineDashPattern](../../aspose.svg.rendering/icanvascontext/linedashpattern/) { get; set; } | Gets or sets the line dash pattern. Can be set to null or an empty array to be disabled. |
 | [LineJoin](../../aspose.svg.rendering/icanvascontext/linejoin/) { get; set; } | Gets or sets the line join style. See [`StrokeLineJoin`](../../aspose.svg.drawing/strokelinejoin/). |
 | [LineWidth](../../aspose.svg.rendering/icanvascontext/linewidth/) { get; set; } | Gets or sets the line width. |
 | [MiterLimit](../../aspose.svg.rendering/icanvascontext/miterlimit/) { get; set; } | Gets or sets the miter limit. |

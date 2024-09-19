@@ -11,12 +11,12 @@ url: /net/aspose.svg.rendering/device-2/fill/
 Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths, it fills the insides of all subpaths, considered together. This method terminates current path.
 
 ```csharp
-public abstract void Fill(FillRule mode)
+public abstract void Fill(FillRule rule)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mode | FillRule | Filling mode specifies how the interior of a closed path is filled |
+| rule | FillRule | Filling rule specifies how the interior of a closed path is filled |
 
 ### See Also
 

@@ -29,11 +29,11 @@ public class ImageRenderingOptions : RenderingOptions
 | [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Sets or gets Tagged Image File Format (TIFF) [`Compression`](../compression/). By default this property is LZW. |
 | [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Gets a [`CssOptions`](../../aspose.svg.rendering/cssoptions/) object which is used for configuration of css properties processing. |
 | [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Sets or gets [`ImageFormat`](../imageformat/). By default this property is Png. |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Sets or gets the horizontal resolution for output and internal images, in pixels per inch (dpi). By default, this property is set to 300 dpi, which is used unless overridden by specific conditions. The resolution is always applied unless the Page size is set in pixels (px), in which case the default resolution is 96 dpi. |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 | [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Gets a page setup object is used for configuration output page-set. |
 | [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | Gets or sets the rendering quality for this Graphics. |
 | [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Gets a [`TextOptions`](../textoptions/) object which is used for configuration of text rendering. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Sets or gets the vertical resolution for output and internal images, in pixels per inch (dpi). By default, this property is set to 300 dpi, which is used unless overridden by specific conditions. The resolution is always applied unless the Page size is set in pixels (px), in which case the default resolution is 96 dpi. |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ### See Also
 

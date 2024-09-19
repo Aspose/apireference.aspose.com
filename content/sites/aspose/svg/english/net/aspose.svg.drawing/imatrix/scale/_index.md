@@ -6,23 +6,23 @@ type: docs
 weight: 160
 url: /net/aspose.svg.drawing/imatrix/scale/
 ---
-## Scale(float, float, SvgMatrixOrder) {#scale_1}
+## Scale(float, float, WebMatrixOrder) {#scale_1}
 
 Scales the matrix by the specified scale factors in the specified order.
 
 ```csharp
-public void Scale(float scaleX, float scaleY, SvgMatrixOrder order)
+public void Scale(float scaleX, float scaleY, WebMatrixOrder order)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | scaleX | Single | The scale factor along the x-axis. |
 | scaleY | Single | The scale factor along the y-axis. |
-| order | SvgMatrixOrder | The order in which scaling is applied. |
+| order | WebMatrixOrder | The order in which scaling is applied. |
 
 ### See Also
 
-* enum [SvgMatrixOrder](../../svgmatrixorder/)
+* enum [WebMatrixOrder](../../webmatrixorder/)
 * interface [IMatrix](../)
 * namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

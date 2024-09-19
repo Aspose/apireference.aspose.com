@@ -3,7 +3,7 @@ title: Element.GetAttribute
 second_title: Aspose.SVG for .NET API Reference
 description: Element method. Retrieves an attribute value by name
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.svg.dom/element/getattribute/
 ---
 ## Element.GetAttribute method

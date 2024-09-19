@@ -1,14 +1,14 @@
 ---
 title: ITrueTypeFont.GetDescent
 second_title: Aspose.SVG for .NET API Reference
-description: ITrueTypeFont method. Gets the descent of the font at the specified font size
+description: ITrueTypeFont method. Gets the descent of the font in points using the specified font size
 type: docs
 weight: 90
 url: /net/aspose.svg.drawing/itruetypefont/getdescent/
 ---
 ## ITrueTypeFont.GetDescent method
 
-Gets the descent of the font at the specified font size.
+Gets the descent of the font in points using the specified font size.
 
 ```csharp
 public float GetDescent(float fontSize)

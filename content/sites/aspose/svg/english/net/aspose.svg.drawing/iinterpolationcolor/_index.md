@@ -18,8 +18,8 @@ public interface IInterpolationColor
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/iinterpolationcolor/color/) { get; } | Get the color that represents the colors to use at corresponding positions along a gradient. |
-| [Position](../../aspose.svg.drawing/iinterpolationcolor/position/) { get; } | Gets the color position. |
+| [Color](../../aspose.svg.drawing/iinterpolationcolor/color/) { get; set; } | Get or sets the color that represents the colors to use at corresponding positions along a gradient. |
+| [Position](../../aspose.svg.drawing/iinterpolationcolor/position/) { get; set; } | Gets or sets the color position. |
 
 ### See Also
 

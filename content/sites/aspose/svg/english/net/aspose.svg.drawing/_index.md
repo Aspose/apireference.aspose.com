@@ -53,8 +53,8 @@ The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify 
 | [ColorModel](./colormodel/) | This enumeration is used to select the color model for working with color components. |
 | [ColorSpace](./colorspace/) | Specifies the color space or color model used in a pixel map [`IPixelsMap`](../aspose.svg.drawing/ipixelsmap/). |
 | [FillRule](./fillrule/) | Specifies the fill rule used in rendering SVG and HTML. |
-| [SpreadMode](./spreadmode/) | Specifies the spread mode used in rendering SVG and HTML. |
+| [SpreadMode](./spreadmode/) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
 | [StrokeLineCap](./strokelinecap/) | Specifies the line cap used in rendering SVG and HTML. |
 | [StrokeLineJoin](./strokelinejoin/) | Specifies the line join style used in rendering SVG and HTML. |
-| [SvgMatrixOrder](./svgmatrixorder/) | Specifies the order in which matrix transformations are applied. |
 | [WebImageFormat](./webimageformat/) | Specifies the supported image formats. |
+| [WebMatrixOrder](./webmatrixorder/) | Specifies the order in which matrix transformations are applied. |

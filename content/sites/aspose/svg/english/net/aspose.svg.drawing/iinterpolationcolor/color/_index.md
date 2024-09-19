@@ -1,17 +1,17 @@
 ---
 title: IInterpolationColor.Color
 second_title: Aspose.SVG for .NET API Reference
-description: IInterpolationColor property. Get the color that represents the colors to use at corresponding positions along a gradient
+description: IInterpolationColor property. Get or sets the color that represents the colors to use at corresponding positions along a gradient
 type: docs
 weight: 10
 url: /net/aspose.svg.drawing/iinterpolationcolor/color/
 ---
 ## IInterpolationColor.Color property
 
-Get the color that represents the colors to use at corresponding positions along a gradient.
+Get or sets the color that represents the colors to use at corresponding positions along a gradient.
 
 ```csharp
-public Color Color { get; }
+public Color Color { get; set; }
 ```
 
 ### See Also

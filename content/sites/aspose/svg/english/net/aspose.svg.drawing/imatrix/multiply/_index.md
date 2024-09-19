@@ -6,22 +6,22 @@ type: docs
 weight: 120
 url: /net/aspose.svg.drawing/imatrix/multiply/
 ---
-## Multiply(IMatrix, SvgMatrixOrder) {#multiply_1}
+## Multiply(IMatrix, WebMatrixOrder) {#multiply_1}
 
 Multiplies this matrix by another matrix in the specified order.
 
 ```csharp
-public void Multiply(IMatrix matrix, SvgMatrixOrder order)
+public void Multiply(IMatrix matrix, WebMatrixOrder order)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | matrix | IMatrix | The matrix to multiply by. |
-| order | SvgMatrixOrder | The order in which multiplication is applied. |
+| order | WebMatrixOrder | The order in which multiplication is applied. |
 
 ### See Also
 
-* enum [SvgMatrixOrder](../../svgmatrixorder/)
+* enum [WebMatrixOrder](../../webmatrixorder/)
 * interface [IMatrix](../)
 * namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

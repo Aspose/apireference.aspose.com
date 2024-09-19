@@ -11,7 +11,7 @@ url: /net/aspose.svg.drawing/itexturebrush/opacity/
 Get opacity value in a color transform matrix.
 
 ```csharp
-public float Opacity { get; }
+public float Opacity { get; set; }
 ```
 
 ### Return Value

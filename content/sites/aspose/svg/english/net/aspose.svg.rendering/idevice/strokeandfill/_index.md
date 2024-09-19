@@ -11,12 +11,12 @@ url: /net/aspose.svg.rendering/idevice/strokeandfill/
 Strokes and fill current path. This method terminates current path.
 
 ```csharp
-public void StrokeAndFill(FillRule mode)
+public void StrokeAndFill(FillRule rule)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mode | FillRule | Filling mode specifies how the interior of a closed path is filled. |
+| rule | FillRule | Filling rule specifies how the interior of a closed path is filled. |
 
 ### See Also
 
