@@ -3,7 +3,7 @@ title: in1 property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /python-net/aspose.svg.filters/svgfecolormatrixelement/in1/
 is_root: false
 ---

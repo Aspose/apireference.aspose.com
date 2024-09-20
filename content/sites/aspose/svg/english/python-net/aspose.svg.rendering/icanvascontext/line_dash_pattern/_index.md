@@ -11,7 +11,7 @@ is_root: false
 ## line_dash_pattern property
 
 
-Gets or sets the line dash pattern.
+Gets or sets the line dash pattern. Can be set to null or an empty array to be disabled.
 ### Definition:
 ```python
 @property

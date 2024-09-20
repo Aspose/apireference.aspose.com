@@ -3,7 +3,7 @@ title: view_target property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 880
 url: /python-net/aspose.svg/svgviewelement/view_target/
 is_root: false
 ---

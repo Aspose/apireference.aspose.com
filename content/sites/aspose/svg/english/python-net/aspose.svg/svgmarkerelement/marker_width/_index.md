@@ -3,7 +3,7 @@ title: marker_width property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 780
 url: /python-net/aspose.svg/svgmarkerelement/marker_width/
 is_root: false
 ---

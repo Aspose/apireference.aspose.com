@@ -3,7 +3,7 @@ title: tag_name property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1060
 url: /python-net/aspose.svg.filters/svgfeblendelement/tag_name/
 is_root: false
 ---

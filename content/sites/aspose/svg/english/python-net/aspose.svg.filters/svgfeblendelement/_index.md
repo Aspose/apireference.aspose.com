@@ -56,6 +56,7 @@ The SVGFEBlendElement type exposes the following members:
 | [DOCUMENT_TYPE_NODE](/svg/python-net/aspose.svg.filters/svgfeblendelement/document_type_node) | A document type node |
 | [DOCUMENT_FRAGMENT_NODE](/svg/python-net/aspose.svg.filters/svgfeblendelement/document_fragment_node) | A document fragment node |
 | [NOTATION_NODE](/svg/python-net/aspose.svg.filters/svgfeblendelement/notation_node) | A notation node |
+| [class_list](/svg/python-net/aspose.svg.filters/svgfeblendelement/class_list) | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
 | [tag_name](/svg/python-net/aspose.svg.filters/svgfeblendelement/tag_name) | The name of the element. |
 | [id](/svg/python-net/aspose.svg.filters/svgfeblendelement/id) | The value of the ‘id’ attribute on the given element, or the empty string if ‘id’ is not present. |
 | [class_name](/svg/python-net/aspose.svg.filters/svgfeblendelement/class_name) | Corresponds to attribute ‘class’ on the given element. |

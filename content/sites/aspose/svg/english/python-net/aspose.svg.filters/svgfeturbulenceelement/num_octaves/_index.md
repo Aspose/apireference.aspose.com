@@ -3,7 +3,7 @@ title: num_octaves property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 830
 url: /python-net/aspose.svg.filters/svgfeturbulenceelement/num_octaves/
 is_root: false
 ---

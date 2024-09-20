@@ -28,7 +28,7 @@ The GraphicContext type exposes the following members:
 | :- | :- |
 | [line_cap](/svg/python-net/aspose.svg.rendering/graphiccontext/line_cap) | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
 | [line_dash_offset](/svg/python-net/aspose.svg.rendering/graphiccontext/line_dash_offset) | Sets or gets the phase offset of the current line dash pattern. |
-| [line_dash_pattern](/svg/python-net/aspose.svg.rendering/graphiccontext/line_dash_pattern) | Sets or gets the description of the dash pattern to be used when paths are stroked. |
+| [line_dash_pattern](/svg/python-net/aspose.svg.rendering/graphiccontext/line_dash_pattern) | Sets or gets the description of the dash pattern to be used when paths are stroked. Can be set to null or an empty array to be disabled. |
 | [line_join](/svg/python-net/aspose.svg.rendering/graphiccontext/line_join) | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
 | [line_width](/svg/python-net/aspose.svg.rendering/graphiccontext/line_width) | Sets or gets the thickness of paths to be stroked. |
 | [miter_limit](/svg/python-net/aspose.svg.rendering/graphiccontext/miter_limit) | Sets or gets the maximum length of mitered line joins for stroked paths. <br/>This parameter limits the length of "spikes" produced when line segments join at sharp angles. |

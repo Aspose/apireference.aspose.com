@@ -3,7 +3,7 @@ title: cross_origin property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /python-net/aspose.svg/svgscriptelement/cross_origin/
 is_root: false
 ---

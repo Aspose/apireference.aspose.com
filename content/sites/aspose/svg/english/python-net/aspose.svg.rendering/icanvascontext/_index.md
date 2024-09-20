@@ -38,7 +38,7 @@ The ICanvasContext type exposes the following members:
 | [font_style](/svg/python-net/aspose.svg.rendering/icanvascontext/font_style) | Gets or sets the font style. |
 | [line_cap](/svg/python-net/aspose.svg.rendering/icanvascontext/line_cap) | Gets or sets the line cap style. See [`StrokeLineCap`](/svg/python-net/aspose.svg.drawing/strokelinecap). |
 | [line_dash_offset](/svg/python-net/aspose.svg.rendering/icanvascontext/line_dash_offset) | Gets or sets the line dash offset. |
-| [line_dash_pattern](/svg/python-net/aspose.svg.rendering/icanvascontext/line_dash_pattern) | Gets or sets the line dash pattern. |
+| [line_dash_pattern](/svg/python-net/aspose.svg.rendering/icanvascontext/line_dash_pattern) | Gets or sets the line dash pattern. Can be set to null or an empty array to be disabled. |
 | [line_join](/svg/python-net/aspose.svg.rendering/icanvascontext/line_join) | Gets or sets the line join style. See [`StrokeLineJoin`](/svg/python-net/aspose.svg.drawing/strokelinejoin). |
 | [line_width](/svg/python-net/aspose.svg.rendering/icanvascontext/line_width) | Gets or sets the line width. |
 | [miter_limit](/svg/python-net/aspose.svg.rendering/icanvascontext/miter_limit) | Gets or sets the miter limit. |

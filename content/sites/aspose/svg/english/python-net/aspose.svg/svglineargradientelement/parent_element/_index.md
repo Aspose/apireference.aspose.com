@@ -3,7 +3,7 @@ title: parent_element property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 840
 url: /python-net/aspose.svg/svglineargradientelement/parent_element/
 is_root: false
 ---

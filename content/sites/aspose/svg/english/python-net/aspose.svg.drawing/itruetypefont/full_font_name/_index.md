@@ -11,7 +11,7 @@ is_root: false
 ## full_font_name property
 
 
-Gets the full name of the font.
+Full font name is generally represented as combination of Family and Subfamily names.
 ### Definition:
 ```python
 @property

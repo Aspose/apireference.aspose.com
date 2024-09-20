@@ -3,7 +3,7 @@ title: orient_angle property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 850
 url: /python-net/aspose.svg/svgmarkerelement/orient_angle/
 is_root: false
 ---

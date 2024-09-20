@@ -3,7 +3,7 @@ title: first_element_child property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 790
 url: /python-net/aspose.svg.filters/svgfeblendelement/first_element_child/
 is_root: false
 ---

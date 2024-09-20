@@ -3,7 +3,7 @@ title: tag_name property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 950
 url: /python-net/aspose.svg/svgimageelement/tag_name/
 is_root: false
 ---

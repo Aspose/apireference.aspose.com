@@ -3,7 +3,7 @@ title: pattern_content_units property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 810
 url: /python-net/aspose.svg/svgpatternelement/pattern_content_units/
 is_root: false
 ---

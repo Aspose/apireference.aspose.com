@@ -3,7 +3,7 @@ title: namespace_uri property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /python-net/aspose.svg.dom/element/namespace_uri/
 is_root: false
 ---

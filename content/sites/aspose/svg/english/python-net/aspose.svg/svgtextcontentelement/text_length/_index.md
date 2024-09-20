@@ -3,7 +3,7 @@ title: text_length property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 990
+weight: 1000
 url: /python-net/aspose.svg/svgtextcontentelement/text_length/
 is_root: false
 ---

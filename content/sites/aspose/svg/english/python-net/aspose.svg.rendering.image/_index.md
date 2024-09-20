@@ -25,6 +25,6 @@ classes responsible for rendering to raster formats: jpeg, png, bmp, gif, tiff.
 | Enumeration | Description |
 | :- | :- |
 | [`Compression`](/svg/python-net/aspose.svg.rendering.image/compression) | Specifies the possible compression schemes for Tagged Image File Format (TIFF) bitmap images. |
-| [`ImageFormat`](/svg/python-net/aspose.svg.rendering.image/imageformat) | Specifies the file format of the image. This class is deprecated and will be replaced by [`WebImageFormat`](/svg/python-net/aspose.svg.drawing/webimageformat). |
+| [`ImageFormat`](/svg/python-net/aspose.svg.rendering.image/imageformat) | Specifies the file format of the image. |
 
 

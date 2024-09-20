@@ -3,7 +3,7 @@ title: gradient_units property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /python-net/aspose.svg/svglineargradientelement/gradient_units/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: viewport_element property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 940
 url: /python-net/aspose.svg.filters/svgfespecularlightingelement/viewport_element/
 is_root: false
 ---

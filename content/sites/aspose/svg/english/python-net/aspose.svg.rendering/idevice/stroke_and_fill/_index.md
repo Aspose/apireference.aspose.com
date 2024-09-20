@@ -16,14 +16,14 @@ This method terminates current path.
 
 
 ```python
-def stroke_and_fill(self, mode):
+def stroke_and_fill(self, rule):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mode | aspose.svg.drawing.FillRule | Filling mode specifies how the interior of a closed path is filled. |
+| rule | aspose.svg.drawing.FillRule | Filling rule specifies how the interior of a closed path is filled. |
 
 
 

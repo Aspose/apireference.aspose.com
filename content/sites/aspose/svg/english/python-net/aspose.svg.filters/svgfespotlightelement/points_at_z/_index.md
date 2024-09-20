@@ -3,7 +3,7 @@ title: points_at_z property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 810
+weight: 820
 url: /python-net/aspose.svg.filters/svgfespotlightelement/points_at_z/
 is_root: false
 ---

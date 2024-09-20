@@ -3,7 +3,7 @@ title: previous_sibling property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 850
 url: /python-net/aspose.svg.filters/svgfeoffsetelement/previous_sibling/
 is_root: false
 ---

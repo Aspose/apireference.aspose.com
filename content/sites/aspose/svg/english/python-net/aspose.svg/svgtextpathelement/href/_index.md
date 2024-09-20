@@ -3,7 +3,7 @@ title: href property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 780
 url: /python-net/aspose.svg/svgtextpathelement/href/
 is_root: false
 ---

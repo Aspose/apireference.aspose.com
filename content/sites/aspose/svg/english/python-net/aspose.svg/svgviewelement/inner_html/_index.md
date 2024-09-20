@@ -3,7 +3,7 @@ title: inner_html property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /python-net/aspose.svg/svgviewelement/inner_html/
 is_root: false
 ---

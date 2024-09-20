@@ -3,7 +3,7 @@ title: transform_point method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /python-net/aspose.svg.drawing/imatrix/transform_point/
 is_root: false
 ---

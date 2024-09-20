@@ -3,7 +3,7 @@ title: href property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 680
+weight: 690
 url: /python-net/aspose.svg/svggradientelement/href/
 is_root: false
 ---

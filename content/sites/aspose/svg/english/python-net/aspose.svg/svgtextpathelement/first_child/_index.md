@@ -3,7 +3,7 @@ title: first_child property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 760
 url: /python-net/aspose.svg/svgtextpathelement/first_child/
 is_root: false
 ---

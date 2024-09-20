@@ -3,7 +3,7 @@ title: result property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 890
+weight: 900
 url: /python-net/aspose.svg.filters/svgfedisplacementmapelement/result/
 is_root: false
 ---

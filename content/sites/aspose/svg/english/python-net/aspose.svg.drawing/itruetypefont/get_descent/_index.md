@@ -10,7 +10,7 @@ is_root: false
 
 ## get_descent {#float}
 
-Gets the descent of the font at the specified font size.
+Gets the descent of the font in points using the specified font size.
 
 
 ### Returns 

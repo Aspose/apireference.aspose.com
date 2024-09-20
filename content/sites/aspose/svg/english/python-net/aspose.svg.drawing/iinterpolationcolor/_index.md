@@ -19,8 +19,8 @@ The IInterpolationColor type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [color](/svg/python-net/aspose.svg.drawing/iinterpolationcolor/color) | Get the color that represents the colors to use at corresponding positions along a gradient. |
-| [position](/svg/python-net/aspose.svg.drawing/iinterpolationcolor/position) | Gets the color position. |
+| [color](/svg/python-net/aspose.svg.drawing/iinterpolationcolor/color) | Get or sets the color that represents the colors to use at corresponding positions along a gradient. |
+| [position](/svg/python-net/aspose.svg.drawing/iinterpolationcolor/position) | Gets or sets the color position. |
 
 
 

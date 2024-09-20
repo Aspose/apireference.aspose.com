@@ -3,7 +3,7 @@ title: transform property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1030
 url: /python-net/aspose.svg/svgellipseelement/transform/
 is_root: false
 ---

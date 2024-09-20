@@ -3,7 +3,7 @@ title: kernel_matrix property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 740
 url: /python-net/aspose.svg.filters/svgfeconvolvematrixelement/kernel_matrix/
 is_root: false
 ---

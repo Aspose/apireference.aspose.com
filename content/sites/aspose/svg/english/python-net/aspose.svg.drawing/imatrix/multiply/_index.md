@@ -25,7 +25,7 @@ def multiply(self, matrix):
 | matrix | [`IMatrix`](/svg/python-net/aspose.svg.drawing/imatrix) | The matrix to multiply by. |
 
 
-## multiply {#aspose.svg.drawing.IMatrix-aspose.svg.drawing.SvgMatrixOrder}
+## multiply {#aspose.svg.drawing.IMatrix-aspose.svg.drawing.WebMatrixOrder}
 
 Multiplies this matrix by another matrix in the specified order.
 
@@ -40,7 +40,7 @@ def multiply(self, matrix, order):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | matrix | [`IMatrix`](/svg/python-net/aspose.svg.drawing/imatrix) | The matrix to multiply by. |
-| order | [`SvgMatrixOrder`](/svg/python-net/aspose.svg.drawing/svgmatrixorder) | The order in which multiplication is applied. |
+| order | [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | The order in which multiplication is applied. |
 
 
 

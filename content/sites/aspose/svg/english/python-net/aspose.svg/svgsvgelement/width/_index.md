@@ -3,7 +3,7 @@ title: width property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1150
+weight: 1160
 url: /python-net/aspose.svg/svgsvgelement/width/
 is_root: false
 ---

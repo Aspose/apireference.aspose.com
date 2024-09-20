@@ -19,10 +19,12 @@ The IGradientBrush type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [interpolation_colors](/svg/python-net/aspose.svg.drawing/igradientbrush/interpolation_colors) | Get the interpolation colors that defines a multicolor linear gradient. |
+| [interpolation_colors](/svg/python-net/aspose.svg.drawing/igradientbrush/interpolation_colors) | Gets or sets the interpolation colors that defines a multicolor linear gradient. |
+| [blend_positions](/svg/python-net/aspose.svg.drawing/igradientbrush/blend_positions) | Gets or sets the blend positions that define a custom falloff for the gradient. |
+| [blend_factors](/svg/python-net/aspose.svg.drawing/igradientbrush/blend_factors) | Gets or sets the blend factors that define a custom falloff for the gradient. |
 | [transformation_matrix](/svg/python-net/aspose.svg.drawing/igradientbrush/transformation_matrix) | Get the transform. The transform defines a local geometric transform for this brush. |
 | [spread_mode](/svg/python-net/aspose.svg.drawing/igradientbrush/spread_mode) | Gets or sets the SpreadMode mode. SpreadMode mode specifies how a texture or gradient is tiled<br/>when it is smaller than the area being filled. |
-| [type](/svg/python-net/aspose.svg.drawing/igradientbrush/type) | Get type of brush; See [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
+| [type](/svg/python-net/aspose.svg.drawing/igradientbrush/type) | Gets type of brush as [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
 | [supports_shader](/svg/python-net/aspose.svg.drawing/igradientbrush/supports_shader) | Checks if the brush supports a shader. |
 
 

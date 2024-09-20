@@ -3,7 +3,7 @@ title: last_child property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /python-net/aspose.svg.filters/svgfedropshadowelement/last_child/
 is_root: false
 ---

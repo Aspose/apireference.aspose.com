@@ -3,7 +3,7 @@ title: system_language property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 870
 url: /python-net/aspose.svg/svgcursorelement/system_language/
 is_root: false
 ---

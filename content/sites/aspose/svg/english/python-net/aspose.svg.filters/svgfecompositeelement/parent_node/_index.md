@@ -3,7 +3,7 @@ title: parent_node property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 930
 url: /python-net/aspose.svg.filters/svgfecompositeelement/parent_node/
 is_root: false
 ---

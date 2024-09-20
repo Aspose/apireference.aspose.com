@@ -3,7 +3,7 @@ title: y property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 960
+weight: 970
 url: /python-net/aspose.svg.filters/svgfespecularlightingelement/y/
 is_root: false
 ---

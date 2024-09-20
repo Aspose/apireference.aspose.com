@@ -3,7 +3,7 @@ title: result property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 920
 url: /python-net/aspose.svg.filters/svgfeturbulenceelement/result/
 is_root: false
 ---

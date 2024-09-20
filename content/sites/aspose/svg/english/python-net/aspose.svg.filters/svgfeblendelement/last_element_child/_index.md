@@ -3,7 +3,7 @@ title: last_element_child property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 860
 url: /python-net/aspose.svg.filters/svgfeblendelement/last_element_child/
 is_root: false
 ---

@@ -25,7 +25,7 @@ def rotate(self, angle):
 | angle | float | The angle of rotation in degrees. |
 
 
-## rotate {#float-aspose.svg.drawing.SvgMatrixOrder}
+## rotate {#float-aspose.svg.drawing.WebMatrixOrder}
 
 Rotates the matrix by the specified angle in the specified order.
 
@@ -40,7 +40,7 @@ def rotate(self, angle, order):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | angle | float | The angle of rotation in degrees. |
-| order | [`SvgMatrixOrder`](/svg/python-net/aspose.svg.drawing/svgmatrixorder) | The order in which rotation is applied. |
+| order | [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | The order in which rotation is applied. |
 
 
 

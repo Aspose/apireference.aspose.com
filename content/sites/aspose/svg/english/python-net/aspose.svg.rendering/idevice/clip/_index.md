@@ -10,20 +10,20 @@ is_root: false
 
 ## clip {#aspose.svg.drawing.FillRule}
 
-Modifies the current clipping path by intersecting it with the current path, using the FillMode rule to determine the region to fill. 
+Modifies the current clipping path by intersecting it with the current path, using the FillRule to determine the region to fill. 
 This method terminates current path.
 
 
 
 ```python
-def clip(self, mode):
+def clip(self, rule):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mode | aspose.svg.drawing.FillRule | Filling mode specifies how the interior of a closed path is clipped |
+| rule | aspose.svg.drawing.FillRule | Filling rule specifies how the interior of a closed path is clipped |
 
 
 

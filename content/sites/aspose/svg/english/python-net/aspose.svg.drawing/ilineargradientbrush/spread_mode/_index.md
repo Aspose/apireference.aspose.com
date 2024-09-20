@@ -3,7 +3,7 @@ title: spread_mode property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 110
 url: /python-net/aspose.svg.drawing/ilineargradientbrush/spread_mode/
 is_root: false
 ---

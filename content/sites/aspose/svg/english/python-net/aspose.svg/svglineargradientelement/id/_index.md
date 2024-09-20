@@ -3,7 +3,7 @@ title: id property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /python-net/aspose.svg/svglineargradientelement/id/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## ImageFormat enumeration
 
-Specifies the file format of the image. This class is deprecated and will be replaced by [`WebImageFormat`](/svg/python-net/aspose.svg.drawing/webimageformat).
+Specifies the file format of the image.
 
 
 
@@ -30,4 +30,3 @@ The ImageFormat type exposes the following members:
 
 ### See Also
 * module [`aspose.svg.rendering.image`](..)
-* class [`WebImageFormat`](/svg/python-net/aspose.svg.drawing/webimageformat)

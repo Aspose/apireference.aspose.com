@@ -3,7 +3,7 @@ title: cy property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 660
 url: /python-net/aspose.svg/svgradialgradientelement/cy/
 is_root: false
 ---

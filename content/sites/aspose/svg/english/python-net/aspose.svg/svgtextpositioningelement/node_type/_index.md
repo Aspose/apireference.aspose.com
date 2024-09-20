@@ -3,7 +3,7 @@ title: node_type property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 850
 url: /python-net/aspose.svg/svgtextpositioningelement/node_type/
 is_root: false
 ---

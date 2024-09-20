@@ -26,7 +26,7 @@ def rotate_at(self, angle, point):
 | point | aspose.pydrawing.PointF | The point to rotate around. |
 
 
-## rotate_at {#float-aspose.pydrawing.PointF-aspose.svg.drawing.SvgMatrixOrder}
+## rotate_at {#float-aspose.pydrawing.PointF-aspose.svg.drawing.WebMatrixOrder}
 
 Rotates the matrix by the specified angle around the specified point in the specified order.
 
@@ -42,7 +42,7 @@ def rotate_at(self, angle, point, order):
 | :- | :- | :- |
 | angle | float | The angle of rotation in degrees. |
 | point | aspose.pydrawing.PointF | The point to rotate around. |
-| order | [`SvgMatrixOrder`](/svg/python-net/aspose.svg.drawing/svgmatrixorder) | The order in which rotation is applied. |
+| order | [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | The order in which rotation is applied. |
 
 
 

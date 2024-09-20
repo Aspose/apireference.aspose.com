@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 870
 url: /python-net/aspose.svg.filters/svgfeimageelement/style/
 is_root: false
 ---

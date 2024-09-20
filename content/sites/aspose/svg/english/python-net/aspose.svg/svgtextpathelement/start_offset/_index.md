@@ -3,7 +3,7 @@ title: start_offset property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1040
+weight: 1050
 url: /python-net/aspose.svg/svgtextpathelement/start_offset/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: in1 property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /python-net/aspose.svg.filters/svgfeconvolvematrixelement/in1/
 is_root: false
 ---

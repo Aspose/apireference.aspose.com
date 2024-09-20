@@ -20,7 +20,7 @@ The ISolidBrush type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [color](/svg/python-net/aspose.svg.drawing/isolidbrush/color) | Get color of the brush. |
-| [type](/svg/python-net/aspose.svg.drawing/isolidbrush/type) | Get type of brush; See [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
+| [type](/svg/python-net/aspose.svg.drawing/isolidbrush/type) | Gets type of brush as [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
 | [supports_shader](/svg/python-net/aspose.svg.drawing/isolidbrush/supports_shader) | Checks if the brush supports a shader. |
 
 

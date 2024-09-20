@@ -3,7 +3,7 @@ title: intercept property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /python-net/aspose.svg.filters/svgfefuncaelement/intercept/
 is_root: false
 ---

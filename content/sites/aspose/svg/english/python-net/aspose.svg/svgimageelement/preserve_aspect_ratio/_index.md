@@ -3,7 +3,7 @@ title: preserve_aspect_ratio property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 870
 url: /python-net/aspose.svg/svgimageelement/preserve_aspect_ratio/
 is_root: false
 ---

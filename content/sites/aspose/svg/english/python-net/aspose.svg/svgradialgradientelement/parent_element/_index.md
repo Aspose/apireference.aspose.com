@@ -3,7 +3,7 @@ title: parent_element property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 880
+weight: 890
 url: /python-net/aspose.svg/svgradialgradientelement/parent_element/
 is_root: false
 ---

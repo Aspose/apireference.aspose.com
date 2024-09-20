@@ -3,7 +3,7 @@ title: first_element_child property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /python-net/aspose.svg.filters/svgfeoffsetelement/first_element_child/
 is_root: false
 ---

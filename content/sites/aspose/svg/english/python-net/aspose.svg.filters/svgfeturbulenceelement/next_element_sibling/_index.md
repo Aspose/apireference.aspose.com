@@ -3,7 +3,7 @@ title: next_element_sibling property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 780
 url: /python-net/aspose.svg.filters/svgfeturbulenceelement/next_element_sibling/
 is_root: false
 ---

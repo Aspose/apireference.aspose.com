@@ -3,7 +3,7 @@ title: local_name property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /python-net/aspose.svg/svgimageelement/local_name/
 is_root: false
 ---

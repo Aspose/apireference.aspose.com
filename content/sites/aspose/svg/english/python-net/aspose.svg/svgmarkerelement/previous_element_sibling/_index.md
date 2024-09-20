@@ -3,7 +3,7 @@ title: previous_element_sibling property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 940
 url: /python-net/aspose.svg/svgmarkerelement/previous_element_sibling/
 is_root: false
 ---

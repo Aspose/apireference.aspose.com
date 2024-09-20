@@ -3,7 +3,7 @@ title: create_solid_brush method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /python-net/aspose.svg.drawing/idrawingfactory/create_solid_brush/
 is_root: false
 ---

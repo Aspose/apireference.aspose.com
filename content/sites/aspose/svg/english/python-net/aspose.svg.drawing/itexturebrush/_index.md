@@ -25,7 +25,7 @@ The ITextureBrush type exposes the following members:
 | [color_map](/svg/python-net/aspose.svg.drawing/itexturebrush/color_map) | The number of elements must be even. Every even element is old color. Every odd element is new color. |
 | [transformation_matrix](/svg/python-net/aspose.svg.drawing/itexturebrush/transformation_matrix) | Get the transform. The transform defines a local geometric transform for this brush. |
 | [spread_mode](/svg/python-net/aspose.svg.drawing/itexturebrush/spread_mode) | Gets or sets the SpreadMode mode. SpreadMode mode specifies how a texture or gradient is tiled<br/>when it is smaller than the area being filled. |
-| [type](/svg/python-net/aspose.svg.drawing/itexturebrush/type) | Get type of brush; See [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
+| [type](/svg/python-net/aspose.svg.drawing/itexturebrush/type) | Gets type of brush as [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype). |
 | [supports_shader](/svg/python-net/aspose.svg.drawing/itexturebrush/supports_shader) | Checks if the brush supports a shader. |
 
 

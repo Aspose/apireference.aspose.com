@@ -11,7 +11,7 @@ is_root: false
 ## type property
 
 
-Get type of brush; See [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype).
+Gets type of brush as [`BrushType`](/svg/python-net/aspose.svg.drawing/brushtype).
 
 ### See Also
 * module [`aspose.svg.dom.canvas`](../../)

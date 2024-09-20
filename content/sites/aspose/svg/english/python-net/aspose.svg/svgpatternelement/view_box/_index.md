@@ -3,7 +3,7 @@ title: view_box property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 950
 url: /python-net/aspose.svg/svgpatternelement/view_box/
 is_root: false
 ---

@@ -11,7 +11,9 @@ is_root: false
 ## sub_family_name property
 
 
-Gets the subfamily name of the font.
+The Subfamily name distinguishes the font in a group with the same Family name.
+This is assumed to address style (italic, oblique) and weight (light, bold, black, etc.).
+A font with no particular differences in weight or style should have the string "Regular".
 ### Definition:
 ```python
 @property

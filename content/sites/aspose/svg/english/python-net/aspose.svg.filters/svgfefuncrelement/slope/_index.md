@@ -3,7 +3,7 @@ title: slope property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 930
 url: /python-net/aspose.svg.filters/svgfefuncrelement/slope/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: shadow_root property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1030
 url: /python-net/aspose.svg/svgtextpathelement/shadow_root/
 is_root: false
 ---

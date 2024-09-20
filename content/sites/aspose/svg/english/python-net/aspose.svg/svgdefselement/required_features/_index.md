@@ -3,7 +3,7 @@ title: required_features property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 880
 url: /python-net/aspose.svg/svgdefselement/required_features/
 is_root: false
 ---

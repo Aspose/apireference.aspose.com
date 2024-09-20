@@ -26,7 +26,7 @@ def scale(self, scale_x, scale_y):
 | scale_y | float | The uniform scale factor. |
 
 
-## scale {#float-float-aspose.svg.drawing.SvgMatrixOrder}
+## scale {#float-float-aspose.svg.drawing.WebMatrixOrder}
 
 Scales the matrix by the specified scale factors in the specified order.
 
@@ -42,7 +42,7 @@ def scale(self, scale_x, scale_y, order):
 | :- | :- | :- |
 | scale_x | float | The scale factor along the x-axis. |
 | scale_y | float | The scale factor along the y-axis. |
-| order | [`SvgMatrixOrder`](/svg/python-net/aspose.svg.drawing/svgmatrixorder) | The order in which scaling is applied. |
+| order | [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | The order in which scaling is applied. |
 
 
 

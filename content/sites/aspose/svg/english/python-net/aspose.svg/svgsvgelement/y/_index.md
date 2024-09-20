@@ -3,7 +3,7 @@ title: y property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 1170
+weight: 1180
 url: /python-net/aspose.svg/svgsvgelement/y/
 is_root: false
 ---

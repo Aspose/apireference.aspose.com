@@ -3,7 +3,7 @@ title: z property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 940
 url: /python-net/aspose.svg.filters/svgfespotlightelement/z/
 is_root: false
 ---

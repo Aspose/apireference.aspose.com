@@ -3,7 +3,7 @@ title: first_element_child property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 650
 url: /python-net/aspose.svg.filters/svgfedropshadowelement/first_element_child/
 is_root: false
 ---

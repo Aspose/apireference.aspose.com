@@ -19,8 +19,8 @@ The FillRule type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| EVEN_ODD | Determines the fill area using the even-odd rule. |
-| NON_ZERO | Determines the fill area using the non-zero rule. |
+| EVEN_ODD | Determines the fill area using the even-odd rule. The behavior corresponds to System.Drawing.Drawing2D.FillMode.Alternate. |
+| NONZERO | Determines the fill area using the non-zero rule. The behavior corresponds to System.Drawing.Drawing2D.FillMode.Winding. |
 
 
 

@@ -3,7 +3,7 @@ title: node_type property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 770
 url: /python-net/aspose.svg/svgswitchelement/node_type/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: table_values property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 950
 url: /python-net/aspose.svg.filters/svgfefuncgelement/table_values/
 is_root: false
 ---

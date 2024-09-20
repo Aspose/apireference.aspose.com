@@ -3,7 +3,7 @@ title: kernel_unit_length_x property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /python-net/aspose.svg.filters/svgfediffuselightingelement/kernel_unit_length_x/
 is_root: false
 ---

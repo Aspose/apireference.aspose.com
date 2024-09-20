@@ -53,10 +53,10 @@ drawing attribute objects like brushes, colors and fonts.
 | [`ColorModel`](/svg/python-net/aspose.svg.drawing/colormodel) | This enumeration is used to select the color model for working with color components. |
 | [`ColorSpace`](/svg/python-net/aspose.svg.drawing/colorspace) | Specifies the color space or color model used in a pixel map [`IPixelsMap`](/svg/python-net/aspose.svg.drawing/ipixelsmap). |
 | [`FillRule`](/svg/python-net/aspose.svg.drawing/fillrule) | Specifies the fill rule used in rendering SVG and HTML. |
-| [`SpreadMode`](/svg/python-net/aspose.svg.drawing/spreadmode) | Specifies the spread mode used in rendering SVG and HTML. |
+| [`SpreadMode`](/svg/python-net/aspose.svg.drawing/spreadmode) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
 | [`StrokeLineCap`](/svg/python-net/aspose.svg.drawing/strokelinecap) | Specifies the line cap used in rendering SVG and HTML. |
 | [`StrokeLineJoin`](/svg/python-net/aspose.svg.drawing/strokelinejoin) | Specifies the line join style used in rendering SVG and HTML. |
-| [`SvgMatrixOrder`](/svg/python-net/aspose.svg.drawing/svgmatrixorder) | Specifies the order in which matrix transformations are applied. |
 | [`WebImageFormat`](/svg/python-net/aspose.svg.drawing/webimageformat) | Specifies the supported image formats. |
+| [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | Specifies the order in which matrix transformations are applied. |
 
 

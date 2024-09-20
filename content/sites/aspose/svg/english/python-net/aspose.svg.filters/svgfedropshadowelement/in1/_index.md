@@ -3,7 +3,7 @@ title: in1 property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /python-net/aspose.svg.filters/svgfedropshadowelement/in1/
 is_root: false
 ---

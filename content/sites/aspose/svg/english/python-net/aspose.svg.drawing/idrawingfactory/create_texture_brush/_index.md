@@ -3,10 +3,32 @@ title: create_texture_brush method
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /python-net/aspose.svg.drawing/idrawingfactory/create_texture_brush/
 is_root: false
 ---
+
+## create_texture_brush {#bytes}
+
+Creates a texture brush with the specified parameters.
+
+
+### Returns 
+
+
+The created [`ITextureBrush`](/svg/python-net/aspose.svg.drawing/itexturebrush).
+
+
+```python
+def create_texture_brush(self, image_bytes):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| image_bytes | bytes | The byte array containing the image data. |
+
 
 ## create_texture_brush {#bytes-aspose.svg.drawing.SpreadMode-float-aspose.svg.drawing.IMatrix}
 

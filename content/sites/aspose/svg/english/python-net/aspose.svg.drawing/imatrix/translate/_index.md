@@ -15,18 +15,18 @@ Translates the matrix by the specified offset values.
 
 
 ```python
-def translate(self, tx, ty):
+def translate(self, offset_x, offset_y):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| tx | float | The offset value along the x-axis. |
-| ty | float | The offset value along the y-axis. |
+| offset_x | float | The offset value along the x-axis. |
+| offset_y | float | The offset value along the y-axis. |
 
 
-## translate {#float-float-aspose.svg.drawing.SvgMatrixOrder}
+## translate {#float-float-aspose.svg.drawing.WebMatrixOrder}
 
 Translates the matrix by the specified offset values in the specified order.
 
@@ -42,7 +42,7 @@ def translate(self, offset_x, offset_y, order):
 | :- | :- | :- |
 | offset_x | float | The offset value along the x-axis. |
 | offset_y | float | The offset value along the y-axis. |
-| order | [`SvgMatrixOrder`](/svg/python-net/aspose.svg.drawing/svgmatrixorder) | The order in which translation is applied. |
+| order | [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | The order in which translation is applied. |
 
 
 
