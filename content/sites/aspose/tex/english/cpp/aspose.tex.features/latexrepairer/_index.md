@@ -24,5 +24,6 @@ class LaTeXRepairer : public System::Object
 | [Run](./run/)() | Runs LaTeX file repair and check jobs. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Features](../)
 * Library [Aspose.TeX for C++](../../)

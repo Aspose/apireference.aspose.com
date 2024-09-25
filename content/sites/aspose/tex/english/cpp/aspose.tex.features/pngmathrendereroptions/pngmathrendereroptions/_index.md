@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/pngmathrendereroptions/pngmathrendereroptions/
 
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Features::PngMathRendererOptions::PngMathRendererOptions()
+Aspose::TeX::Features::PngMathRendererOptions::PngMathRendererOptions()
 ```
 
 ## See Also

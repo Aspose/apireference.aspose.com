@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/set_encryptionalgorit
 Sets the encryption mode.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_EncryptionAlgorithm(PdfEncryptionAlgorithm value)
+void Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_EncryptionAlgorithm(PdfEncryptionAlgorithm value)
 ```
 
 ## Remarks

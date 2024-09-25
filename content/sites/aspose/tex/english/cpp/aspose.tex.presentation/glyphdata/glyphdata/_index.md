@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/glyphdata/glyphdata/
 Creates new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::GlyphData::GlyphData()
+Aspose::TeX::Presentation::GlyphData::GlyphData()
 ```
 
 ## See Also

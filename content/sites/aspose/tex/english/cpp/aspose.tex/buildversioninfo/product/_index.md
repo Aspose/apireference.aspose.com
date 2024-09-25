@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/buildversioninfo/product/
 Product Name.
 
 ```cpp
-static const ASPOSE_TEX_SHARED_API System::String Aspose::TeX::BuildVersionInfo::Product
+static const System::String Aspose::TeX::BuildVersionInfo::Product
 ```
 
 ## See Also

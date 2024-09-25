@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.xps/xpssaveoptions/xpssaveoptions/
 Creates new instance of options.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Xps::XpsSaveOptions::XpsSaveOptions()
+Aspose::TeX::Presentation::Xps::XpsSaveOptions::XpsSaveOptions()
 ```
 
 ## See Also

@@ -24,5 +24,6 @@ class Executable : public System::Object
 | virtual [get_CommandName](./get_commandname/)() | Gets the name of the executable (command). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::CommandLine](../)
 * Library [Aspose.TeX for C++](../../)

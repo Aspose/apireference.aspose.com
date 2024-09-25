@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/pngmathrendereroptions/get_resolution/
 Gets/sets image resolution.
 
 ```cpp
-ASPOSE_TEX_SHARED_API int32_t Aspose::TeX::Features::PngMathRendererOptions::get_Resolution() override
+int32_t Aspose::TeX::Features::PngMathRendererOptions::get_Resolution() override
 ```
 
 ## See Also

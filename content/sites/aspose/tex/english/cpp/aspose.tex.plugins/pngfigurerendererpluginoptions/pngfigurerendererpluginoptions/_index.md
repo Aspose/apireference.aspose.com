@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/pngfigurerendererpluginoptions/pngfigurerendererplu
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::PngFigureRendererPluginOptions::PngFigureRendererPluginOptions()
+Aspose::TeX::Plugins::PngFigureRendererPluginOptions::PngFigureRendererPluginOptions()
 ```
 
 ## See Also

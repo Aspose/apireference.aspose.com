@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation/device/set_fillopacity/
 Gets/sets the current fill opacity.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::set_FillOpacity(float value)
+virtual void Aspose::TeX::Presentation::Device::set_FillOpacity(float value)
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginresult/get_log/
 The stream containing the transcript file.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::TeX::Plugins::FigureRendererPluginResult::get_Log() const
+System::SharedPtr<System::IO::Stream> Aspose::TeX::Plugins::FigureRendererPluginResult::get_Log() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [FigureRendererPluginResult](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

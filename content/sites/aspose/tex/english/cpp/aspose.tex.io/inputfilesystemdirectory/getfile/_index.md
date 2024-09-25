@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/inputfilesystemdirectory/getfile/
 Returns the stream to read from.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<NamedStream> Aspose::TeX::IO::InputFileSystemDirectory::GetFile(System::String fileName, bool searchSubdirectories=false) override
+System::SharedPtr<NamedStream> Aspose::TeX::IO::InputFileSystemDirectory::GetFile(System::String fileName, bool searchSubdirectories=false) override
 ```
 
 
@@ -28,7 +28,9 @@ The named stream.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NamedStream](../../namedstream/)
+* Class [String](../../../system/string/)
 * Class [InputFileSystemDirectory](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

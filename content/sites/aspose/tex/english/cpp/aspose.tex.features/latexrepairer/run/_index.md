@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepairer/run/
 Runs LaTeX file repair and check jobs.
 
 ```cpp
-ASPOSE_TEX_SHARED_API TeXJobResult Aspose::TeX::Features::LaTeXRepairer::Run()
+TeXJobResult Aspose::TeX::Features::LaTeXRepairer::Run()
 ```
 
 

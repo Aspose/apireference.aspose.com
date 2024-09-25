@@ -40,7 +40,8 @@ static const System::String Aspose::TeX::AssemblyConstants::VERSION
 ```
 
 
-
+## Deprecated
+This is for original Aspose.TeX tests 
 
 ## See Also
 

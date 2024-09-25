@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texjob/texjob/
 Creates a [TeX](../../) job for running the engine in production mode to typeset a [TeX](../../) file.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
+Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
 ```
 
 
@@ -25,6 +25,8 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<System::IO::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Device](../../../aspose.tex.presentation/device/)
 * Class [TeXOptions](../../texoptions/)
 * Class [TeXJob](../)
@@ -36,7 +38,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<System::IO::
 Creates a [TeX](../../) job for running the engine in production mode to typeset a [TeX](../../) file.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::String path, System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
+Aspose::TeX::TeXJob::TeXJob(System::String path, System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
 ```
 
 
@@ -48,6 +50,8 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::String path, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Device](../../../aspose.tex.presentation/device/)
 * Class [TeXOptions](../../texoptions/)
 * Class [TeXJob](../)
@@ -59,7 +63,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::String path, System::S
 Creates a [TeX](../../) job for running the engine in production mode to typeset a [TeX](../../) document. The engine will prompt the file name as soon as it starts. Thus this run is supposed to be interactive.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
+Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<Presentation::Device> device, System::SharedPtr<TeXOptions> options)
 ```
 
 
@@ -70,6 +74,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::TeXJob::TeXJob(System::SharedPtr<Presentation
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Device](../../../aspose.tex.presentation/device/)
 * Class [TeXOptions](../../texoptions/)
 * Class [TeXJob](../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.commandline/executable/execute/
 The method implementing the executable's behavior.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::CommandLine::Executable::Execute(System::ArrayPtr<System::String> args)=0
+virtual void Aspose::TeX::CommandLine::Executable::Execute(System::ArrayPtr<System::String> args)=0
 ```
 
 
@@ -23,6 +23,8 @@ virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::CommandLine::Executable::Execute
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [Executable](../)
 * Namespace [Aspose::TeX::CommandLine](../../)
 * Library [Aspose.TeX for C++](../../../)

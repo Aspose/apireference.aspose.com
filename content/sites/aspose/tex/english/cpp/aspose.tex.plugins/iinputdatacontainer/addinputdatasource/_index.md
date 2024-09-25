@@ -23,6 +23,7 @@ virtual void Aspose::TeX::Plugins::IInputDataContainer::AddInputDataSource(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDataSource](../../idatasource/)
 * Class [IInputDataContainer](../)
 * Namespace [Aspose::TeX::Plugins](../../)

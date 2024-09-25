@@ -23,5 +23,6 @@ class TeXExtension : public System::Object
 | static [ObjectTeX](./objecttex/)() | ObjectTeX extension. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX](../)
 * Library [Aspose.TeX for C++](../../)

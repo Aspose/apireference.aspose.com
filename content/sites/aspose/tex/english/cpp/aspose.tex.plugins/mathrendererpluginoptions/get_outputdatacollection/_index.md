@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/get_outputdatacollection/
 Gets collection of added targets for saving operation results.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IDataSource>>> Aspose::TeX::Plugins::MathRendererPluginOptions::get_OutputDataCollection() override
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IDataSource>>> Aspose::TeX::Plugins::MathRendererPluginOptions::get_OutputDataCollection() override
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [IDataSource](../../idatasource/)
 * Class [MathRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)

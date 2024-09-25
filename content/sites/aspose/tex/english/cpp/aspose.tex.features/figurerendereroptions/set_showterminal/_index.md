@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerendereroptions/set_showterminal/
 The flag that controls terminal output. If **true** then terminal output is written to console.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Features::FigureRendererOptions::set_ShowTerminal(bool value)
+void Aspose::TeX::Features::FigureRendererOptions::set_ShowTerminal(bool value)
 ```
 
 ## See Also

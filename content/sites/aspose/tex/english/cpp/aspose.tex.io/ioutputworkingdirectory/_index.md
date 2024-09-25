@@ -20,7 +20,6 @@ class IOutputWorkingDirectory : public virtual Aspose::TeX::IO::IInputWorkingDir
 
 | Method | Description |
 | --- | --- |
-| virtual [GetFile](../iinputworkingdirectory/getfile/)(System::String, bool) | Returns the stream to read from. MUST NOT return a null object. In case a stream cannot be returned, it MUST return a [NamedStream](../namedstream/) object with a null Stream property value instead. |
 | virtual [GetOutputFile](./getoutputfile/)(System::String) | Returns the stream to write to. MUST NOT return a null object. In case a stream cannot be returned, it MUST return a [NamedStream](../namedstream/) object with a null Stream property value instead. |
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/outputzipdirectory/dispose/
 Disposes the instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::IO::OutputZipDirectory::Dispose() override
+void Aspose::TeX::IO::OutputZipDirectory::Dispose() override
 ```
 
 ## See Also

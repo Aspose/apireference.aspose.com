@@ -31,5 +31,6 @@ class LaTeXRepairerOptions : public System::Object
 | [set_RequiredInputDirectory](./set_requiredinputdirectory/)(System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>) | Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../../aspose.tex/)'s LaTeX support. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Features](../)
 * Library [Aspose.TeX for C++](../../)

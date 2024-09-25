@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/pngfigurerendereroptions/set_resolution/
 Gets/sets image resolution.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Features::PngFigureRendererOptions::set_Resolution(int32_t value) override
+void Aspose::TeX::Features::PngFigureRendererOptions::set_Resolution(int32_t value) override
 ```
 
 ## See Also

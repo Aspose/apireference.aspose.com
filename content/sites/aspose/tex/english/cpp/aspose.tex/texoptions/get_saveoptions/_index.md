@@ -13,11 +13,12 @@ url: /cpp/aspose.tex/texoptions/get_saveoptions/
 Gets/sets options used for rendering into destination format (XPS, PDF, image, etc.). Default value is the set of default options for rendering to XPS.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<Aspose::TeX::Presentation::SaveOptions> Aspose::TeX::TeXOptions::get_SaveOptions() const
+System::SharedPtr<Aspose::TeX::Presentation::SaveOptions> Aspose::TeX::TeXOptions::get_SaveOptions() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SaveOptions](../../../aspose.tex.presentation/saveoptions/)
 * Class [TeXOptions](../)
 * Namespace [Aspose::TeX](../../)

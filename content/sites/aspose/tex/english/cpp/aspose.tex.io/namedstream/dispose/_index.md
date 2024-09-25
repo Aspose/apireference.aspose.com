@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/namedstream/dispose/
 Disposes the current instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::IO::NamedStream::Dispose() override
+void Aspose::TeX::IO::NamedStream::Dispose() override
 ```
 
 ## See Also

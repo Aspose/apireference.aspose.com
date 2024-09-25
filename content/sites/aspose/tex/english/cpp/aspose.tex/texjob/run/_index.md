@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texjob/run/
 Runs [TeX](../../) job.
 
 ```cpp
-ASPOSE_TEX_SHARED_API TeXJobResult Aspose::TeX::TeXJob::Run()
+TeXJobResult Aspose::TeX::TeXJob::Run()
 ```
 
 

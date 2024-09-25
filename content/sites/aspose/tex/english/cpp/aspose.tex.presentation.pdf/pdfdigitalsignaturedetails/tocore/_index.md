@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Rendering::Pdf::PdfDigitalSignatureDetailsCore> Aspose
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

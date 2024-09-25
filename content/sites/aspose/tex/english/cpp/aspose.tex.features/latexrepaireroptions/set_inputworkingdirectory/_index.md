@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.features/latexrepaireroptions/set_inputworkingdirectory/
 Gets/sets input working directory.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Features::LaTeXRepairerOptions::set_InputWorkingDirectory(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> value)
+void Aspose::TeX::Features::LaTeXRepairerOptions::set_InputWorkingDirectory(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> value)
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IInputWorkingDirectory](../../../aspose.tex.io/iinputworkingdirectory/)
 * Class [LaTeXRepairerOptions](../)
 * Namespace [Aspose::TeX::Features](../../)

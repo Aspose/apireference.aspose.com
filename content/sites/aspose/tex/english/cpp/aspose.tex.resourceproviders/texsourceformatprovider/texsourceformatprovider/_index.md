@@ -24,7 +24,9 @@ Aspose::TeX::ResourceProviders::TeXSourceFormatProvider::TeXSourceFormatProvider
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IInputWorkingDirectory](../../../aspose.tex.io/iinputworkingdirectory/)
+* Class [String](../../../system/string/)
 * Class [TeXSourceFormatProvider](../)
 * Namespace [Aspose::TeX::ResourceProviders](../../)
 * Library [Aspose.TeX for C++](../../../)

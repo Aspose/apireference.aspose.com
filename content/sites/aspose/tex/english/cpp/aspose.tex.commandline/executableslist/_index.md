@@ -25,5 +25,6 @@ class ExecutablesList : public System::Object
 | [Remove](./remove/)(System::String) | Removes an executable by its name. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::CommandLine](../)
 * Library [Aspose.TeX for C++](../../)

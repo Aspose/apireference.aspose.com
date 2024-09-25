@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/get_operationname/
 Returns operation name.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Plugins::MathRendererPluginOptions::get_OperationName()
+virtual System::String Aspose::TeX::Plugins::MathRendererPluginOptions::get_OperationName()
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MathRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginresult/tofile/
 Tries to convert the result to a file.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Plugins::MathRendererPluginResult::ToFile() override
+System::String Aspose::TeX::Plugins::MathRendererPluginResult::ToFile() override
 ```
 
 
@@ -23,6 +23,7 @@ A string the file path if the result is file; otherwise **null**.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MathRendererPluginResult](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

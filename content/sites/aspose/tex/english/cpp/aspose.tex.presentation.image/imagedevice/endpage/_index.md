@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/endpage/
 Finalizes a page.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::EndPage() override
+void Aspose::TeX::Presentation::Image::ImageDevice::EndPage() override
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

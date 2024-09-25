@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginresult/tostream/
 Tries to convert the result to a stream.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::TeX::Plugins::FigureRendererPluginResult::ToStream() override
+System::SharedPtr<System::IO::Stream> Aspose::TeX::Plugins::FigureRendererPluginResult::ToStream() override
 ```
 
 
@@ -23,6 +23,8 @@ A stream if the result is stream; otherwise **null**.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [FigureRendererPluginResult](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

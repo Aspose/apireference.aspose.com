@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/set_outlinetreeheight/
 Specifies the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, ans so on.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_OutlineTreeHeight(int32_t value)
+void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_OutlineTreeHeight(int32_t value)
 ```
 
 ## See Also

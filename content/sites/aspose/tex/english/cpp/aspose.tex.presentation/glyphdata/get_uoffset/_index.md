@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/glyphdata/get_uoffset/
 Gets/sets horizontal offset.
 
 ```cpp
-ASPOSE_TEX_SHARED_API float Aspose::TeX::Presentation::GlyphData::get_UOffset() const
+float Aspose::TeX::Presentation::GlyphData::get_UOffset() const
 ```
 
 ## See Also

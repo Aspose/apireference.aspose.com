@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_noligatures/
 Gets/sets the flag that cancels ligatures in all fonts.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::TeXOptions::set_NoLigatures(bool value)
+void Aspose::TeX::TeXOptions::set_NoLigatures(bool value)
 ```
 
 ## See Also

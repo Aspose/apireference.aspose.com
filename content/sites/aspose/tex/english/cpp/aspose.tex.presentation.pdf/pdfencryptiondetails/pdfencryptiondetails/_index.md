@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/pdfencryptiondetails/
 Initializes a new instance of the [PdfEncryptionDetailsCore](../) class.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::PdfEncryptionDetails(System::String userPassword, System::String ownerPassword, int32_t permissions, PdfEncryptionAlgorithm encryptionAlgorithm)
+Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::PdfEncryptionDetails(System::String userPassword, System::String ownerPassword, int32_t permissions, PdfEncryptionAlgorithm encryptionAlgorithm)
 ```
 
 
@@ -26,6 +26,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::PdfE
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * Class [PdfEncryptionDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)

@@ -23,5 +23,6 @@ class IGuessPackageCallback : public virtual System::Object
 | virtual [GuessPackage](./guesspackage/)(System::String, bool) | Returns the name of a required package that supposedly defines the command or environment. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Features](../)
 * Library [Aspose.TeX for C++](../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/device/get_pagecount/
 Gets the number of pages.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API int32_t Aspose::TeX::Presentation::Device::get_PageCount()=0
+virtual int32_t Aspose::TeX::Presentation::Device::get_PageCount()=0
 ```
 
 ## See Also

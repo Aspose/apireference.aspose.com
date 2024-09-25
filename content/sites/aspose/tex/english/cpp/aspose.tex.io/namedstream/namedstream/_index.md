@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/namedstream/namedstream/
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::IO::NamedStream::NamedStream(System::SharedPtr<System::IO::Stream> stream, System::String fullName)
+Aspose::TeX::IO::NamedStream::NamedStream(System::SharedPtr<System::IO::Stream> stream, System::String fullName)
 ```
 
 
@@ -24,6 +24,9 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::IO::NamedStream::NamedStream(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [NamedStream](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

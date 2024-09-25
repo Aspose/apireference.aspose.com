@@ -18,6 +18,8 @@ virtual System::SharedPtr<System::IO::TextWriter> Aspose::TeX::IO::IOutputTermin
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextWriter](../../../system.io/textwriter/)
 * Class [IOutputTerminal](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

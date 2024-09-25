@@ -23,7 +23,6 @@ class ImageDevice : public Aspose::TeX::Presentation::Device,
 | --- | --- |
 | [AddHyperlink](./addhyperlink/)(System::Drawing::RectangleF, System::SharedPtr\<System::Drawing::Pen\>, System::String) override | Set the hyperlink with a URI as its target. |
 | [Create](./create/)() override | Creates a copy of this device. |
-| [Device](../../aspose.tex.presentation/device/device/)() | Creates a new instance. |
 | [Dispose](./dispose/)() override | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
 | [DrawPath](./drawpath/)(System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\>) override | Draws a path. |
 | [DrawString](./drawstring/)(System::String, float, float, System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<GlyphData\>\>\>) override | Draws a text string. |

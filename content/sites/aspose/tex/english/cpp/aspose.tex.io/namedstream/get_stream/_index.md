@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.io/namedstream/get_stream/
 Gets the stream itself.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::TeX::IO::NamedStream::get_Stream() const
+System::SharedPtr<System::IO::Stream> Aspose::TeX::IO::NamedStream::get_Stream() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [NamedStream](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

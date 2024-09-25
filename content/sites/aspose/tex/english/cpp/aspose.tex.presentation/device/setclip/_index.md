@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/device/setclip/
 Sets the current clip path.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::SetClip(System::SharedPtr<System::Drawing::Drawing2D::GraphicsPath> path)=0
+virtual void Aspose::TeX::Presentation::Device::SetClip(System::SharedPtr<System::Drawing::Drawing2D::GraphicsPath> path)=0
 ```
 
 
@@ -21,10 +21,13 @@ virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::SetClip(Sy
 | --- | --- | --- |
 | path | System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\> | A clip path. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
 * Class [Device](../)
 * Namespace [Aspose::TeX::Presentation](../../)
 * Library [Aspose.TeX for C++](../../../)

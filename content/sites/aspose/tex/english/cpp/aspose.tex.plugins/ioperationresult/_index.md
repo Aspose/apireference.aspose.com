@@ -29,5 +29,6 @@ class IOperationResult : public virtual System::Object
 | virtual [ToStream](./tostream/)() | Tries to convert the result to a stream. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

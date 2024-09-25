@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/saveoptions/get_rasterizeincludedgraphics/
 Gets/sets the flag that allows to rasterize PS/EPS and/or XPS/OXPS included graphics.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Presentation::SaveOptions::get_RasterizeIncludedGraphics() const
+bool Aspose::TeX::Presentation::SaveOptions::get_RasterizeIncludedGraphics() const
 ```
 
 ## See Also

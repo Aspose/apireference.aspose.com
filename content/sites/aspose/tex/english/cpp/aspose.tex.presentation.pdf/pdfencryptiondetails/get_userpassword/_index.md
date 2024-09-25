@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/get_userpassword/
 Gets the User password.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_UserPassword() const
+System::String Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_UserPassword() const
 ```
 
 ## Remarks
@@ -24,6 +24,7 @@ The user password.
 Opening the document with the correct user password (or opening a document that does not have a user password) allows additional operations to be performed according to the user access permissions specified in the document’s encryption dictionary. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfEncryptionDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

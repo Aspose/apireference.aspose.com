@@ -20,9 +20,7 @@ class PngFigureRenderer : public Aspose::TeX::Features::FigureRenderer
 
 | Method | Description |
 | --- | --- |
-| [FigureRenderer](../figurerenderer/figurerenderer/)() | Creates a new instance. |
 | [PngFigureRenderer](./pngfigurerenderer/)() | Creates a new instance. |
-| [Render](../figurerenderer/render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<FigureRendererOptions\>) | Renders some LaTeX code. |
 ## See Also
 
 * Class [FigureRenderer](../figurerenderer/)

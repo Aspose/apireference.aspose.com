@@ -23,5 +23,6 @@ class IFileCollector : public virtual System::Object
 | virtual [GetFileNamesByExtension](./getfilenamesbyextension/)(System::String, System::String) | Returns the array of file names by an extension. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::IO](../)
 * Library [Aspose.TeX for C++](../../)

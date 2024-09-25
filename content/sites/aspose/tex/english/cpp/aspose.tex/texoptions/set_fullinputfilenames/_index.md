@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_fullinputfilenames/
 Gets/sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::TeXOptions::set_FullInputFileNames(bool value)
+void Aspose::TeX::TeXOptions::set_FullInputFileNames(bool value)
 ```
 
 ## See Also

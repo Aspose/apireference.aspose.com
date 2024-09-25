@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.plugins/resultcontainer/get_resultcollection/
 Gets the collection of plugin execution results.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IOperationResult>>> Aspose::TeX::Plugins::ResultContainer::get_ResultCollection() const
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<IOperationResult>>> Aspose::TeX::Plugins::ResultContainer::get_ResultCollection() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [IOperationResult](../../ioperationresult/)
 * Class [ResultContainer](../)
 * Namespace [Aspose::TeX::Plugins](../../)

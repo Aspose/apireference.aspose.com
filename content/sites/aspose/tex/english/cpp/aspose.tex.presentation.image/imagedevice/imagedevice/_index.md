@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/imagedevice/
 Creates a new instance. The output file will be written to the output working directory taking the job name as a file name.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Image::ImageDevice::ImageDevice(bool whiteBackground=true)
+Aspose::TeX::Presentation::Image::ImageDevice::ImageDevice(bool whiteBackground=true)
 ```
 
 

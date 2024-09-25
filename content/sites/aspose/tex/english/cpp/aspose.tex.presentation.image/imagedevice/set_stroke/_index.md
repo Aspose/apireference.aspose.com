@@ -13,14 +13,17 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/set_stroke/
 Gets/sets the current stroke.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::set_Stroke(System::SharedPtr<System::Drawing::Pen> value) override
+void Aspose::TeX::Presentation::Image::ImageDevice::set_Stroke(System::SharedPtr<System::Drawing::Pen> value) override
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../../system.drawing/pen/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)
 * Library [Aspose.TeX for C++](../../../)

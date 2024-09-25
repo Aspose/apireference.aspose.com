@@ -10,7 +10,7 @@ url: /cpp/aspose.tex.presentation/device/
 ## Device class
 
 
-Implements the interface for outputting text and graphic content to abstract device. Rendering is performed page by page.
+Implements the interface for outputting text and graphic content to abstract device. **Rendering** is performed page by page.
 
 ```cpp
 class Device : public virtual System::Object
@@ -48,5 +48,6 @@ class Device : public virtual System::Object
 | virtual [StartPage](./startpage/)(float, float) | Starts a new page. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation](../)
 * Library [Aspose.TeX for C++](../../)

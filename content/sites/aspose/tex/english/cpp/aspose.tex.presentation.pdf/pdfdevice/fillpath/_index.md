@@ -4,7 +4,7 @@ linktitle: FillPath
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::FillPath method. Fill a path in C++.'
 type: docs
-weight: 2600
+weight: 2800
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/fillpath/
 ---
 ## PdfDevice::FillPath method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdevice/fillpath/
 Fill a path.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfDevice::FillPath(System::SharedPtr<System::Drawing::Drawing2D::GraphicsPath> path) override
+void Aspose::TeX::Presentation::Pdf::PdfDevice::FillPath(System::SharedPtr<System::Drawing::Drawing2D::GraphicsPath> path) override
 ```
 
 
@@ -21,10 +21,13 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfDevice::FillPath(S
 | --- | --- | --- |
 | path | System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\> | A path to fill. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -20,8 +20,6 @@ class SvgFigureRenderer : public Aspose::TeX::Features::FigureRenderer
 
 | Method | Description |
 | --- | --- |
-| [FigureRenderer](../figurerenderer/figurerenderer/)() | Creates a new instance. |
-| [Render](../figurerenderer/render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<FigureRendererOptions\>) | Renders some LaTeX code. |
 | [SvgFigureRenderer](./svgfigurerenderer/)() | Creates a new instance. |
 ## See Also
 

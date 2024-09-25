@@ -4,7 +4,7 @@ linktitle: Aspose::TeX::Presentation::Image
 second_title: Aspose.TeX for C++
 description: 'How to use Aspose::TeX::Presentation::Image namespace in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.tex.presentation.image/
 ---
 

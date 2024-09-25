@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginresult/get_data/
 Gets raw data.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::Object> Aspose::TeX::Plugins::MathRendererPluginResult::get_Data() override
+System::SharedPtr<System::Object> Aspose::TeX::Plugins::MathRendererPluginResult::get_Data() override
 ```
 
 
@@ -23,6 +23,8 @@ An **object** containing output data.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [MathRendererPluginResult](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

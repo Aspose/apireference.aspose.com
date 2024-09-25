@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/metered/getconsumptionquantity/
 Gets consumption file size.
 
 ```cpp
-static ASPOSE_TEX_SHARED_API System::Decimal Aspose::TeX::Metered::GetConsumptionQuantity()
+static System::Decimal Aspose::TeX::Metered::GetConsumptionQuantity()
 ```
 
 
@@ -23,6 +23,7 @@ consumption quantity
 
 ## See Also
 
+* Class [Decimal](../../../system/decimal/)
 * Class [Metered](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)

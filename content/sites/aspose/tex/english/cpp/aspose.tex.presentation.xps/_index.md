@@ -4,7 +4,7 @@ linktitle: Aspose::TeX::Presentation::Xps
 second_title: Aspose.TeX for C++
 description: 'How to use Aspose::TeX::Presentation::Xps namespace in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/aspose.tex.presentation.xps/
 ---
 

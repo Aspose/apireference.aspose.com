@@ -13,14 +13,16 @@ url: /cpp/aspose.tex.presentation.svg/svgdevice/get_destinationname/
 Gets destination name: output file name or device description.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Presentation::Svg::SvgDevice::get_DestinationName() override
+System::String Aspose::TeX::Presentation::Svg::SvgDevice::get_DestinationName() override
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SvgDevice](../)
 * Namespace [Aspose::TeX::Presentation::Svg](../../)
 * Library [Aspose.TeX for C++](../../../)

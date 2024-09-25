@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/showimage/
 Shows a raster image.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::ShowImage(System::Drawing::PointF origin, System::Drawing::SizeF size, System::ArrayPtr<uint8_t> imageData) override
+void Aspose::TeX::Presentation::Image::ImageDevice::ShowImage(System::Drawing::PointF origin, System::Drawing::SizeF size, System::ArrayPtr<uint8_t> imageData) override
 ```
 
 
@@ -23,10 +23,14 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::ShowIm
 | size | System::Drawing::SizeF | The size of the shown image. |
 | imageData | System::ArrayPtr\<uint8_t\> | The image data. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [SizeF](../../../system.drawing/sizef/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)
 * Library [Aspose.TeX for C++](../../../)

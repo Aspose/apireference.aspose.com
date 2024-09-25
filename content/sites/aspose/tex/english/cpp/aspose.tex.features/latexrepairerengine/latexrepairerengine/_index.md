@@ -24,6 +24,8 @@ Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::String p
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LaTeXRepairerOptions](../../latexrepaireroptions/)
 * Class [LaTeXRepairerEngine](../)
 * Namespace [Aspose::TeX::Features](../../)
@@ -39,6 +41,8 @@ Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [LaTeXRepairerOptions](../../latexrepaireroptions/)
 * Class [LaTeXRepairerEngine](../)
 * Class [LaTeXRepairerEngine](../)

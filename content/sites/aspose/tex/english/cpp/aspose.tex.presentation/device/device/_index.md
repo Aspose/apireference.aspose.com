@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/device/device/
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Device::Device()
+Aspose::TeX::Presentation::Device::Device()
 ```
 
 ## See Also

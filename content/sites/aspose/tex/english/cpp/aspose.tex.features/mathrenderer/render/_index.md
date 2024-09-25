@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/mathrenderer/render/
 Renders a math formula.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::Drawing::SizeF Aspose::TeX::Features::MathRenderer::Render(System::String formula, System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<MathRendererOptions> mathRendererOptions)
+System::Drawing::SizeF Aspose::TeX::Features::MathRenderer::Render(System::String formula, System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<MathRendererOptions> mathRendererOptions)
 ```
 
 
@@ -29,6 +29,10 @@ The output image size.
 
 ## See Also
 
+* Class [SizeF](../../../system.drawing/sizef/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [MathRendererOptions](../../mathrendereroptions/)
 * Class [MathRenderer](../)
 * Namespace [Aspose::TeX::Features](../../)

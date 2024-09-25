@@ -22,6 +22,7 @@ System::String Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::get_L
 The location. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

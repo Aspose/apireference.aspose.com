@@ -4,7 +4,7 @@ linktitle: get_StrokeOpacity
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::get_StrokeOpacity method. Gets/sets the current stroke opacity in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.tex.presentation.svg/svgdevice/get_strokeopacity/
 ---
 ## SvgDevice::get_StrokeOpacity method
@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.svg/svgdevice/get_strokeopacity/
 Gets/sets the current stroke opacity.
 
 ```cpp
-ASPOSE_TEX_SHARED_API float Aspose::TeX::Presentation::Svg::SvgDevice::get_StrokeOpacity() override
+float Aspose::TeX::Presentation::Svg::SvgDevice::get_StrokeOpacity() override
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

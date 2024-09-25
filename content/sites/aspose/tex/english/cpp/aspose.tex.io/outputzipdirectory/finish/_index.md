@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/outputzipdirectory/finish/
 Finalizes ZIP archive.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::IO::OutputZipDirectory::Finish()
+void Aspose::TeX::IO::OutputZipDirectory::Finish()
 ```
 
 ## See Also

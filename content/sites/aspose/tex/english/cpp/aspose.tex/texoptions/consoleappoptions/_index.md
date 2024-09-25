@@ -4,7 +4,7 @@ linktitle: ConsoleAppOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::ConsoleAppOptions method. Returns options for use in a console application in C++.'
 type: docs
-weight: 3000
+weight: 3200
 url: /cpp/aspose.tex/texoptions/consoleappoptions/
 ---
 ## TeXOptions::ConsoleAppOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/consoleappoptions/
 Returns options for use in a console application.
 
 ```cpp
-static ASPOSE_TEX_SHARED_API System::SharedPtr<TeXOptions> Aspose::TeX::TeXOptions::ConsoleAppOptions(System::SharedPtr<TeXConfig> config)
+static System::SharedPtr<TeXOptions> Aspose::TeX::TeXOptions::ConsoleAppOptions(System::SharedPtr<TeXConfig> config)
 ```
 
 
@@ -27,6 +27,7 @@ static ASPOSE_TEX_SHARED_API System::SharedPtr<TeXOptions> Aspose::TeX::TeXOptio
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TeXOptions](../)
 * Class [TeXConfig](../../texconfig/)
 * Class [TeXOptions](../)

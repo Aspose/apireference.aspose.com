@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.features/figurerendereroptions/get_logstream/
 Gets/set the stream to write log output to.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::TeX::Features::FigureRendererOptions::get_LogStream() const
+System::SharedPtr<System::IO::Stream> Aspose::TeX::Features::FigureRendererOptions::get_LogStream() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [FigureRendererOptions](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

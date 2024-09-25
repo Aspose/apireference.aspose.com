@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/jpegsaveoptions/jpegsaveoptions/
 Creates new instance of options.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Image::JpegSaveOptions::JpegSaveOptions()
+Aspose::TeX::Presentation::Image::JpegSaveOptions::JpegSaveOptions()
 ```
 
 ## See Also

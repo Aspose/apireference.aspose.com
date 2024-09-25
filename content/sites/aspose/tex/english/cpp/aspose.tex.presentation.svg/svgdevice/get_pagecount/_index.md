@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.svg/svgdevice/get_pagecount/
 Gets the number of pages.
 
 ```cpp
-ASPOSE_TEX_SHARED_API int32_t Aspose::TeX::Presentation::Svg::SvgDevice::get_PageCount() override
+int32_t Aspose::TeX::Presentation::Svg::SvgDevice::get_PageCount() override
 ```
 
 ## See Also

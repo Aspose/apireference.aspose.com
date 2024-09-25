@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.features/latexrepaireroptions/get_outputworkingdirectory/
 Gets/sets output working directory.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<Aspose::TeX::IO::IOutputWorkingDirectory> Aspose::TeX::Features::LaTeXRepairerOptions::get_OutputWorkingDirectory()
+System::SharedPtr<Aspose::TeX::IO::IOutputWorkingDirectory> Aspose::TeX::Features::LaTeXRepairerOptions::get_OutputWorkingDirectory()
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOutputWorkingDirectory](../../../aspose.tex.io/ioutputworkingdirectory/)
 * Class [LaTeXRepairerOptions](../)
 * Namespace [Aspose::TeX::Features](../../)

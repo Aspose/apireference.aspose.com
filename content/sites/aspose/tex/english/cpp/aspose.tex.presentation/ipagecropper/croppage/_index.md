@@ -18,6 +18,7 @@ virtual void Aspose::TeX::Presentation::IPageCropper::CropPage(int32_t scale, Sy
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [IPageCropper](../)
 * Namespace [Aspose::TeX::Presentation](../../)
 * Library [Aspose.TeX for C++](../../../)

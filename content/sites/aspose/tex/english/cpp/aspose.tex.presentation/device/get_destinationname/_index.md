@@ -13,14 +13,16 @@ url: /cpp/aspose.tex.presentation/device/get_destinationname/
 Gets destination name: output file name or device description.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Presentation::Device::get_DestinationName()=0
+virtual System::String Aspose::TeX::Presentation::Device::get_DestinationName()=0
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Device](../)
 * Namespace [Aspose::TeX::Presentation](../../)
 * Library [Aspose.TeX for C++](../../../)

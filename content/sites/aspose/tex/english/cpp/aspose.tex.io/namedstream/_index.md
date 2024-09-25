@@ -26,5 +26,6 @@ class NamedStream : public System::IDisposable
 | [NamedStream](./namedstream/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Creates a new instance. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::TeX::IO](../)
 * Library [Aspose.TeX for C++](../../)

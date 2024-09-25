@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/set_imagecompression/
 Specifies compression type to be used for all images in the document. Default is [PdfImageCompression::Auto](../../pdfimagecompression/).
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_ImageCompression(PdfImageCompression value)
+void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_ImageCompression(PdfImageCompression value)
 ```
 
 ## See Also

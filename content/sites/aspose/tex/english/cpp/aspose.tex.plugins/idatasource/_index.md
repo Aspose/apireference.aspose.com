@@ -23,5 +23,6 @@ class IDataSource : public virtual System::Object
 | virtual [get_DataType](./get_datatype/)() | The data source type. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

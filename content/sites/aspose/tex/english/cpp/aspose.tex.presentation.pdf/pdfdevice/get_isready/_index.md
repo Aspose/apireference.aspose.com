@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdevice/get_isready/
 Shows if device is ready for output.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Presentation::Pdf::PdfDevice::get_IsReady() override
+bool Aspose::TeX::Presentation::Pdf::PdfDevice::get_IsReady() override
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

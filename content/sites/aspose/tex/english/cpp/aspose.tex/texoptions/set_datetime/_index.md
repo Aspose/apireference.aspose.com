@@ -13,11 +13,12 @@ url: /cpp/aspose.tex/texoptions/set_datetime/
 Gets/sets a certain value for date/time primitives like \year, \month, \day and \time.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::TeXOptions::set_DateTime(System::DateTime value)
+void Aspose::TeX::TeXOptions::set_DateTime(System::DateTime value)
 ```
 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
 * Class [TeXOptions](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)

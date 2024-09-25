@@ -13,11 +13,12 @@ url: /cpp/aspose.tex/texoptions/get_jobname/
 Gets/set the name of the job.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::TeXOptions::get_JobName() const
+System::String Aspose::TeX::TeXOptions::get_JobName() const
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TeXOptions](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/bmpsaveoptions/bmpsaveoptions/
 Creates new instance of options.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Image::BmpSaveOptions::BmpSaveOptions()
+Aspose::TeX::Presentation::Image::BmpSaveOptions::BmpSaveOptions()
 ```
 
 ## See Also

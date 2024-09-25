@@ -18,6 +18,8 @@ System::SharedPtr<System::IO::MemoryStream> Aspose::TeX::Features::LaTeXRepairer
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemoryStream](../../../system.io/memorystream/)
 * Class [LaTeXRepairerEngine](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

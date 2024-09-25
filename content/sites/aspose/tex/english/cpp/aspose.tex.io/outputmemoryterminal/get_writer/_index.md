@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.io/outputmemoryterminal/get_writer/
 Gets the writer for the output terminal.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::IO::TextWriter> Aspose::TeX::IO::OutputMemoryTerminal::get_Writer() override
+System::SharedPtr<System::IO::TextWriter> Aspose::TeX::IO::OutputMemoryTerminal::get_Writer() override
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextWriter](../../../system.io/textwriter/)
 * Class [OutputMemoryTerminal](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

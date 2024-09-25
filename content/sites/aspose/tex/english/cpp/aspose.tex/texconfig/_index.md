@@ -25,5 +25,6 @@ class TeXConfig : public System::Object
 | static [ObjectTeX](./objecttex/)(System::SharedPtr\<Aspose::TeX::ResourceProviders::FormatProvider\>) | Gets the configuration of ObjectTeX engine extension with provided format preloaded. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX](../)
 * Library [Aspose.TeX for C++](../../)

@@ -23,6 +23,7 @@ A string the file path if the result is file; otherwise **null**.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IOperationResult](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

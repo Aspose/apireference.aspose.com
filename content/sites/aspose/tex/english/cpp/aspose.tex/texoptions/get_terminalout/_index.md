@@ -13,11 +13,12 @@ url: /cpp/aspose.tex/texoptions/get_terminalout/
 Gets/sets the output terminal writer.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<IO::IOutputTerminal> Aspose::TeX::TeXOptions::get_TerminalOut() const
+System::SharedPtr<IO::IOutputTerminal> Aspose::TeX::TeXOptions::get_TerminalOut() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOutputTerminal](../../../aspose.tex.io/ioutputterminal/)
 * Class [TeXOptions](../)
 * Namespace [Aspose::TeX](../../)

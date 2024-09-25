@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/outputzipdirectory/outputzipdirectory/
 Creates new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::IO::OutputZipDirectory::OutputZipDirectory(System::SharedPtr<System::IO::Stream> zipStream)
+Aspose::TeX::IO::OutputZipDirectory::OutputZipDirectory(System::SharedPtr<System::IO::Stream> zipStream)
 ```
 
 
@@ -23,6 +23,8 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::IO::OutputZipDirectory::OutputZipDirectory(Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [OutputZipDirectory](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

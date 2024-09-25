@@ -20,10 +20,6 @@ class TeXSourceFormatProvider : public Aspose::TeX::ResourceProviders::FormatPro
 
 | Method | Description |
 | --- | --- |
-| [Dispose](../formatprovider/dispose/)() override | Disposes the instance. |
-| [FormatProvider](../formatprovider/formatprovider/)(System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>, System::String) | Creates a new instance. |
-| static [get_ObjectLaTeX](../formatprovider/get_objectlatex/)() | LaTeX format provider for ObjectTeX engine extension. |
-| static [get_ObjectTeX](../formatprovider/get_objecttex/)() | Default format provider for ObjectTeX engine extension. |
 | [GetFormat](./getformat/)(System::String) override | Gets the stream containing format file. |
 | [TeXSourceFormatProvider](./texsourceformatprovider/)(System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>, System::String) | Creates a new instance. |
 ## See Also

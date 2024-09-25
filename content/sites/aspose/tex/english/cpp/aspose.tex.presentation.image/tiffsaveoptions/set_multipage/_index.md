@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/tiffsaveoptions/set_multipage/
 Gets/sets the flag that defines if multiple images should be saved in a single multipage TIFF file.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::TiffSaveOptions::set_Multipage(bool value)
+void Aspose::TeX::Presentation::Image::TiffSaveOptions::set_Multipage(bool value)
 ```
 
 ## See Also

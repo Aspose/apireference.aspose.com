@@ -4,7 +4,7 @@ linktitle: StartDocument
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::StartDocument method. Starts the whole document in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/startdocument/
 ---
 ## PdfDevice::StartDocument method
@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdevice/startdocument/
 Starts the whole document.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfDevice::StartDocument() override
+void Aspose::TeX::Presentation::Pdf::PdfDevice::StartDocument() override
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

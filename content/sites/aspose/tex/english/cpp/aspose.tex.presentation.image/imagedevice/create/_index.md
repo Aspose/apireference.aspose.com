@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/create/
 Creates a copy of this device.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<Device> Aspose::TeX::Presentation::Image::ImageDevice::Create() override
+System::SharedPtr<Device> Aspose::TeX::Presentation::Image::ImageDevice::Create() override
 ```
 
 
@@ -21,10 +21,12 @@ ASPOSE_TEX_SHARED_API System::SharedPtr<Device> Aspose::TeX::Presentation::Image
 
 Copy of this device.
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Device](../../../aspose.tex.presentation/device/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)

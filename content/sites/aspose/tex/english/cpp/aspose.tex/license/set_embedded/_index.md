@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/license/set_embedded/
 [License](../) number was added as embedded resource.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::License::set_Embedded(bool value)
+void Aspose::TeX::License::set_Embedded(bool value)
 ```
 
 ## See Also

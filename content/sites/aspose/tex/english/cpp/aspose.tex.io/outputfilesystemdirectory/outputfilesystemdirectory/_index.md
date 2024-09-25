@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/outputfilesystemdirectory/outputfilesystemdirectory/
 Creates new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::IO::OutputFileSystemDirectory::OutputFileSystemDirectory(System::String basePath)
+Aspose::TeX::IO::OutputFileSystemDirectory::OutputFileSystemDirectory(System::String basePath)
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::IO::OutputFileSystemDirectory::OutputFileSyst
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [OutputFileSystemDirectory](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

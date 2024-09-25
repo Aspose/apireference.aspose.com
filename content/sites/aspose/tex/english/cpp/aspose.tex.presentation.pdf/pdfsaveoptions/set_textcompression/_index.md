@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/set_textcompression/
 Specifies at which level in the document outline to display [ApsBookmark](../) objects. 0 - not displayed. 1 at first level and so on. Default is 0.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_TextCompression(PdfTextCompression value)
+void Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_TextCompression(PdfTextCompression value)
 ```
 
 ## Remarks

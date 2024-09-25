@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginoptions/get_operationname/
 Returns operation name.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Plugins::FigureRendererPluginOptions::get_OperationName()
+virtual System::String Aspose::TeX::Plugins::FigureRendererPluginOptions::get_OperationName()
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FigureRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

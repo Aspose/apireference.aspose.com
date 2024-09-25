@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/get_result/
 Returns the resulting images byte arrays. The first dimension is for inner documents and the second one is for pages within inner documents.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::ArrayPtr<System::ArrayPtr<uint8_t>> Aspose::TeX::Presentation::Image::ImageDevice::get_Result()
+System::ArrayPtr<System::ArrayPtr<uint8_t>> Aspose::TeX::Presentation::Image::ImageDevice::get_Result()
 ```
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)
 * Library [Aspose.TeX for C++](../../../)

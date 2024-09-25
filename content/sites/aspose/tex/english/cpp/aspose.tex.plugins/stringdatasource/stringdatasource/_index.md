@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/stringdatasource/stringdatasource/
 Creates a new string data source.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::StringDataSource::StringDataSource(System::String data)
+Aspose::TeX::Plugins::StringDataSource::StringDataSource(System::String data)
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::StringDataSource::StringDataSource(S
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [StringDataSource](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

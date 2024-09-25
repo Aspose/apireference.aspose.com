@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/metered/metered/
 Initializes a new instance of this class.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Metered::Metered()
+Aspose::TeX::Metered::Metered()
 ```
 
 ## See Also

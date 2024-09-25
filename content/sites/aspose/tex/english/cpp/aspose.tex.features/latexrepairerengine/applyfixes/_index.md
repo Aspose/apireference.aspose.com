@@ -18,6 +18,9 @@ void Aspose::TeX::Features::LaTeXRepairerEngine::ApplyFixes(System::SharedPtr<Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemoryStream](../../../system.io/memorystream/)
+* Class [String](../../../system/string/)
 * Class [IOutputWorkingDirectory](../../../aspose.tex.io/ioutputworkingdirectory/)
 * Class [LaTeXRepairerEngine](../)
 * Namespace [Aspose::TeX::Features](../../)

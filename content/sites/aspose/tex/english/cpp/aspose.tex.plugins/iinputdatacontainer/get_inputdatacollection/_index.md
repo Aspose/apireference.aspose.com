@@ -18,6 +18,8 @@ virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<I
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [IDataSource](../../idatasource/)
 * Class [IInputDataContainer](../)
 * Namespace [Aspose::TeX::Plugins](../../)

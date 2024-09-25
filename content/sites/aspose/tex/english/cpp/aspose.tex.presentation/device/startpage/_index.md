@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/device/startpage/
 Starts a new page.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::StartPage(float width, float height)=0
+virtual void Aspose::TeX::Presentation::Device::StartPage(float width, float height)=0
 ```
 
 
@@ -22,7 +22,8 @@ virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::StartPage(
 | width | float | The page width. |
 | height | float | The page height. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

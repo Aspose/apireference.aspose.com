@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::Create method. Creates a copy of this device in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.tex.presentation.svg/svgdevice/create/
 ---
 ## SvgDevice::Create method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.svg/svgdevice/create/
 Creates a copy of this device.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<Device> Aspose::TeX::Presentation::Svg::SvgDevice::Create() override
+System::SharedPtr<Device> Aspose::TeX::Presentation::Svg::SvgDevice::Create() override
 ```
 
 
@@ -21,10 +21,12 @@ ASPOSE_TEX_SHARED_API System::SharedPtr<Device> Aspose::TeX::Presentation::Svg::
 
 Copy of this device.
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Device](../../../aspose.tex.presentation/device/)
 * Class [SvgDevice](../)
 * Namespace [Aspose::TeX::Presentation::Svg](../../)

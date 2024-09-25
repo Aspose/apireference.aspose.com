@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.svg/svgsaveoptions/svgsaveoptions/
 Creates new instance of options.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Svg::SvgSaveOptions::SvgSaveOptions()
+Aspose::TeX::Presentation::Svg::SvgSaveOptions::SvgSaveOptions()
 ```
 
 ## See Also

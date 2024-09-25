@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.plugins/pngmathrendererpluginoptions/get_operationname/
 Returns operation name.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Plugins::PngMathRendererPluginOptions::get_OperationName() override
+System::String Aspose::TeX::Plugins::PngMathRendererPluginOptions::get_OperationName() override
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PngMathRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

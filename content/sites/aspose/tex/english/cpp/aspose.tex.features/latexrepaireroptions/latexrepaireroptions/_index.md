@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepaireroptions/latexrepaireroptions/
 Cretes a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Features::LaTeXRepairerOptions::LaTeXRepairerOptions()
+Aspose::TeX::Features::LaTeXRepairerOptions::LaTeXRepairerOptions()
 ```
 
 ## See Also

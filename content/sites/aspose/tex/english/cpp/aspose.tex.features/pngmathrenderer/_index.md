@@ -20,9 +20,7 @@ class PngMathRenderer : public Aspose::TeX::Features::MathRenderer
 
 | Method | Description |
 | --- | --- |
-| [MathRenderer](../mathrenderer/mathrenderer/)() | Creates a new instance. |
 | [PngMathRenderer](./pngmathrenderer/)() | Creates a new instance. |
-| [Render](../mathrenderer/render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<MathRendererOptions\>) | Renders a math formula. |
 ## See Also
 
 * Class [MathRenderer](../mathrenderer/)

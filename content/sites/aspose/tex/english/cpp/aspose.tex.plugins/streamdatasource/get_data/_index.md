@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.plugins/streamdatasource/get_data/
 Gets the underlying stream.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::TeX::Plugins::StreamDataSource::get_Data() const
+System::SharedPtr<System::IO::Stream> Aspose::TeX::Plugins::StreamDataSource::get_Data() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [StreamDataSource](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

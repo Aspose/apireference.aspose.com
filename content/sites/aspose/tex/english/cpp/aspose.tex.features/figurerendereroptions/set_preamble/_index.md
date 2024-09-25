@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.features/figurerendereroptions/set_preamble/
 Gets/sets LaTeX document preamble.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Features::FigureRendererOptions::set_Preamble(System::String value)
+void Aspose::TeX::Features::FigureRendererOptions::set_Preamble(System::String value)
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FigureRendererOptions](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

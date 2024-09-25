@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerenderer/figurerenderer/
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Features::FigureRenderer::FigureRenderer()
+Aspose::TeX::Features::FigureRenderer::FigureRenderer()
 ```
 
 ## See Also

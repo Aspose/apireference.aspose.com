@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/device/drawstring/
 Draws a text string.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::DrawString(System::String str, float originX, float originY, System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<GlyphData>>> charInfos)=0
+virtual void Aspose::TeX::Presentation::Device::DrawString(System::String str, float originX, float originY, System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<GlyphData>>> charInfos)=0
 ```
 
 
@@ -24,10 +24,14 @@ virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::DrawString
 | originY | float | The x coordinate of the origin. |
 | charInfos | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<GlyphData\>\>\> | Glyph data required for precise typesetting of a text string. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [GlyphData](../../glyphdata/)
 * Class [Device](../)
 * Namespace [Aspose::TeX::Presentation](../../)

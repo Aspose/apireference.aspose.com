@@ -23,5 +23,6 @@ class IInputTerminal : public virtual System::Object
 | virtual [get_Reader](./get_reader/)() | Gets the reader for the input terminal. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::IO](../)
 * Library [Aspose.TeX for C++](../../)

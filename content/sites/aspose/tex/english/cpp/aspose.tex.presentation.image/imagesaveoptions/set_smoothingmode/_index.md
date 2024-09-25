@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.image/imagesaveoptions/set_smoothingmode/
 Gets/sets the smoothing mode.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageSaveOptions::set_SmoothingMode(System::Drawing::Drawing2D::SmoothingMode value)
+void Aspose::TeX::Presentation::Image::ImageSaveOptions::set_SmoothingMode(System::Drawing::Drawing2D::SmoothingMode value)
 ```
 
 ## See Also
 
+* Enum [SmoothingMode](../../../system.drawing.drawing2d/smoothingmode/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)
 * Library [Aspose.TeX for C++](../../../)

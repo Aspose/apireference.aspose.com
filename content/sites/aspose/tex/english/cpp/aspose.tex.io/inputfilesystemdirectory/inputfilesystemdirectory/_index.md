@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/inputfilesystemdirectory/inputfilesystemdirectory/
 Creates new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::IO::InputFileSystemDirectory::InputFileSystemDirectory(System::String basePath)
+Aspose::TeX::IO::InputFileSystemDirectory::InputFileSystemDirectory(System::String basePath)
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::IO::InputFileSystemDirectory::InputFileSystem
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [InputFileSystemDirectory](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -24,5 +24,6 @@ class IRasterRendererOptions : public virtual System::Object
 | virtual [set_Resolution](./set_resolution/)(int32_t) | Gets/sets image resolution. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Features](../)
 * Library [Aspose.TeX for C++](../../)

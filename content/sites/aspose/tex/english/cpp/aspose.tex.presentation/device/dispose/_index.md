@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation/device/dispose/
 Disposes the device.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::Dispose()
+virtual void Aspose::TeX::Presentation::Device::Dispose()
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

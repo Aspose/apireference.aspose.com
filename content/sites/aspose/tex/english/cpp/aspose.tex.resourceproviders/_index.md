@@ -4,7 +4,7 @@ linktitle: Aspose::TeX::ResourceProviders
 second_title: Aspose.TeX for C++
 description: 'How to use Aspose::TeX::ResourceProviders namespace in C++.'
 type: docs
-weight: 1100
+weight: 1400
 url: /cpp/aspose.tex.resourceproviders/
 ---
 

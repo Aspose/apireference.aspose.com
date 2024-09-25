@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginresult/get_isfile/
 Indicates whether the result is a file path.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Plugins::FigureRendererPluginResult::get_IsFile() override
+bool Aspose::TeX::Plugins::FigureRendererPluginResult::get_IsFile() override
 ```
 
 

@@ -26,5 +26,6 @@ class FormatProvider : public System::IDisposable
 | static [get_ObjectTeX](./get_objecttex/)() | Default format provider for ObjectTeX engine extension. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::TeX::ResourceProviders](../)
 * Library [Aspose.TeX for C++](../../)

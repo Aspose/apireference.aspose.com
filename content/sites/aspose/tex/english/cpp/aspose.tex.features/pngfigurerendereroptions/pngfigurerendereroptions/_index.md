@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/pngfigurerendereroptions/pngfigurerendereroptions/
 
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Features::PngFigureRendererOptions::PngFigureRendererOptions()
+Aspose::TeX::Features::PngFigureRendererOptions::PngFigureRendererOptions()
 ```
 
 ## See Also

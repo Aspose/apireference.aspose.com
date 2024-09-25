@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/imagesaveoptions/get_devicewritesimages/
 Gets/sets the flag that determines whether the image device will write output images. Set it to **false** if you are planning to write images using image device's Result property.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Presentation::Image::ImageSaveOptions::get_DeviceWritesImages() const
+bool Aspose::TeX::Presentation::Image::ImageSaveOptions::get_DeviceWritesImages() const
 ```
 
 ## See Also

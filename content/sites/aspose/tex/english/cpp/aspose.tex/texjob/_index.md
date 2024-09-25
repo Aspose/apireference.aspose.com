@@ -27,5 +27,6 @@ class TeXJob : public System::Object
 | [TeXJob](./texjob/)(System::SharedPtr\<Presentation::Device\>, System::SharedPtr\<TeXOptions\>) | Creates a [TeX](../) job for running the engine in production mode to typeset a [TeX](../) document. The engine will prompt the file name as soon as it starts. Thus this run is supposed to be interactive. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX](../)
 * Library [Aspose.TeX for C++](../../)

@@ -23,5 +23,6 @@ class IPageCropper : public virtual System::Object
 | virtual [CropPage](./croppage/)(int32_t, System::Drawing::Color, float) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation](../)
 * Library [Aspose.TeX for C++](../../)

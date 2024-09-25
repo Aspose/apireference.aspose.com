@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/license/license/
 Initializes a new instance of this class.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::License::License()
+Aspose::TeX::License::License()
 ```
 
 ## See Also

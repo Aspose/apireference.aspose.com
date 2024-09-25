@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/get_ignoremissingpackages/
 Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::TeXOptions::get_IgnoreMissingPackages() const
+bool Aspose::TeX::TeXOptions::get_IgnoreMissingPackages() const
 ```
 
 ## See Also

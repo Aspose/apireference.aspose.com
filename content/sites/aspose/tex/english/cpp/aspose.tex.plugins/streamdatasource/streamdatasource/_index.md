@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/streamdatasource/streamdatasource/
 Creates a new stream data source.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::StreamDataSource::StreamDataSource(System::SharedPtr<System::IO::Stream> data)
+Aspose::TeX::Plugins::StreamDataSource::StreamDataSource(System::SharedPtr<System::IO::Stream> data)
 ```
 
 
@@ -23,6 +23,8 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::StreamDataSource::StreamDataSource(S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [StreamDataSource](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

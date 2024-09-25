@@ -24,5 +24,6 @@ class IInputDataContainer : public virtual System::Object
 | virtual [get_InputDataCollection](./get_inputdatacollection/)() | Gets the collection of input data sources. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

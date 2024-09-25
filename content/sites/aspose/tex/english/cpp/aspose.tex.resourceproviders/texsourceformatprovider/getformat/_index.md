@@ -23,6 +23,9 @@ The stream containing format file.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [TeXSourceFormatProvider](../)
 * Namespace [Aspose::TeX::ResourceProviders](../../)
 * Library [Aspose.TeX for C++](../../../)

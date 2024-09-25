@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/saveoptions/get_subsetfonts/
 Gets/sets the flag indicating whether to subset fonts in output file or not.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Presentation::SaveOptions::get_SubsetFonts() const
+bool Aspose::TeX::Presentation::SaveOptions::get_SubsetFonts() const
 ```
 
 ## See Also

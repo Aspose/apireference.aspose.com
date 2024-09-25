@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.io/namedstream/get_fullname/
 Gets the full name of the stream.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::IO::NamedStream::get_FullName() const
+System::String Aspose::TeX::IO::NamedStream::get_FullName() const
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [NamedStream](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

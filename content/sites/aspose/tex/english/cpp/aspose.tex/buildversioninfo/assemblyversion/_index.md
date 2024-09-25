@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/buildversioninfo/assemblyversion/
 Assembly Version.
 
 ```cpp
-static const ASPOSE_TEX_SHARED_API System::String Aspose::TeX::BuildVersionInfo::AssemblyVersion
+static const System::String Aspose::TeX::BuildVersionInfo::AssemblyVersion
 ```
 
 ## See Also

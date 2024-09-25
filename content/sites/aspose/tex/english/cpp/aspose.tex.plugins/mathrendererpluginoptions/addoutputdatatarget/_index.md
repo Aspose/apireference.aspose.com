@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/addoutputdatatarget/
 Adds a new input data target to the collection.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::MathRendererPluginOptions::AddOutputDataTarget(System::SharedPtr<IDataSource> dataTarget) override
+void Aspose::TeX::Plugins::MathRendererPluginOptions::AddOutputDataTarget(System::SharedPtr<IDataSource> dataTarget) override
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::MathRendererPluginOptions::AddO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDataSource](../../idatasource/)
 * Class [MathRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)

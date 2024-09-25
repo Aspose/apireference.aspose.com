@@ -13,14 +13,17 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/get_fill/
 Gets/sets the current fill.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::Drawing::Brush> Aspose::TeX::Presentation::Image::ImageDevice::get_Fill() override
+System::SharedPtr<System::Drawing::Brush> Aspose::TeX::Presentation::Image::ImageDevice::get_Fill() override
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../../system.drawing/brush/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)
 * Library [Aspose.TeX for C++](../../../)

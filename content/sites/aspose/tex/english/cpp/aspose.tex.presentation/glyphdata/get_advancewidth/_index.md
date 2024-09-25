@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/glyphdata/get_advancewidth/
 Gets/sets glyph width taking into account kerns.
 
 ```cpp
-ASPOSE_TEX_SHARED_API float Aspose::TeX::Presentation::GlyphData::get_AdvanceWidth() const
+float Aspose::TeX::Presentation::GlyphData::get_AdvanceWidth() const
 ```
 
 ## See Also

@@ -20,8 +20,6 @@ class SvgMathRenderer : public Aspose::TeX::Features::MathRenderer
 
 | Method | Description |
 | --- | --- |
-| [MathRenderer](../mathrenderer/mathrenderer/)() | Creates a new instance. |
-| [Render](../mathrenderer/render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<MathRendererOptions\>) | Renders a math formula. |
 | [SvgMathRenderer](./svgmathrenderer/)() | Creates a new instance. |
 ## See Also
 

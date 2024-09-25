@@ -28,5 +28,6 @@ class SaveOptions : public System::Object
 | [set_SubsetFonts](./set_subsetfonts/)(bool) | Gets/sets the flag indicating whether to subset fonts in output file or not. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation](../)
 * Library [Aspose.TeX for C++](../../)

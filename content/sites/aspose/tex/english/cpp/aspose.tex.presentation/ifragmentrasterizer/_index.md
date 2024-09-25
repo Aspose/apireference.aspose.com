@@ -24,5 +24,6 @@ class IFragmentRasterizer : public virtual System::Object
 | virtual [StartFragment](./startfragment/)() | Starts a fragment to rasterize. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation](../)
 * Library [Aspose.TeX for C++](../../)

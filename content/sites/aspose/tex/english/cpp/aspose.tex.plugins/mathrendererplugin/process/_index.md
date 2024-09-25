@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererplugin/process/
 Runs Math Renderer processing with the specified parameters.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<ResultContainer> Aspose::TeX::Plugins::MathRendererPlugin::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::TeX::Plugins::MathRendererPlugin::Process(System::SharedPtr<IPluginOptions> options) override
 ```
 
 
@@ -27,6 +27,7 @@ An [ResultContainer](../../resultcontainer/) object containing the result of the
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ResultContainer](../../resultcontainer/)
 * Class [IPluginOptions](../../ipluginoptions/)
 * Class [MathRendererPlugin](../)

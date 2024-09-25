@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginresult/get_isstream/
 Indicates whether the result is a stream.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Plugins::FigureRendererPluginResult::get_IsStream() override
+bool Aspose::TeX::Plugins::FigureRendererPluginResult::get_IsStream() override
 ```
 
 

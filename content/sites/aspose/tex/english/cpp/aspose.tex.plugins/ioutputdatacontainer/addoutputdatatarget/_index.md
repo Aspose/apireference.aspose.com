@@ -23,6 +23,7 @@ virtual void Aspose::TeX::Plugins::IOutputDataContainer::AddOutputDataTarget(Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDataSource](../../idatasource/)
 * Class [IOutputDataContainer](../)
 * Namespace [Aspose::TeX::Plugins](../../)

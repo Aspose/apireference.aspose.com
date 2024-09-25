@@ -4,7 +4,7 @@ linktitle: SetClip
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::SetClip method. Sets the current clip path in C++.'
 type: docs
-weight: 2300
+weight: 2500
 url: /cpp/aspose.tex.presentation.svg/svgdevice/setclip/
 ---
 ## SvgDevice::SetClip method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.svg/svgdevice/setclip/
 Sets the current clip path.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Svg::SvgDevice::SetClip(System::SharedPtr<System::Drawing::Drawing2D::GraphicsPath> path) override
+void Aspose::TeX::Presentation::Svg::SvgDevice::SetClip(System::SharedPtr<System::Drawing::Drawing2D::GraphicsPath> path) override
 ```
 
 
@@ -21,10 +21,13 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Svg::SvgDevice::SetClip(Sy
 | --- | --- | --- |
 | path | System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\> | A clip path. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
 * Class [SvgDevice](../)
 * Namespace [Aspose::TeX::Presentation::Svg](../../)
 * Library [Aspose.TeX for C++](../../../)

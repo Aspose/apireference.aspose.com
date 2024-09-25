@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/set_permissions/
 Sets the permissions.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_Permissions(int32_t value)
+void Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_Permissions(int32_t value)
 ```
 
 ## Remarks

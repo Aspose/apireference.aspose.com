@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/get_encryptiondetails/
 Gets a encryption details. If not set, then no encryption will be performed.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<PdfEncryptionDetails> Aspose::TeX::Presentation::Pdf::PdfSaveOptions::get_EncryptionDetails() const
+System::SharedPtr<PdfEncryptionDetails> Aspose::TeX::Presentation::Pdf::PdfSaveOptions::get_EncryptionDetails() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfEncryptionDetails](../../pdfencryptiondetails/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)

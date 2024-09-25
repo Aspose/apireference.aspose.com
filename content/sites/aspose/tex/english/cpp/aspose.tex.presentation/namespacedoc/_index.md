@@ -18,5 +18,6 @@ class NamespaceDoc : public System::Object
 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation](../)
 * Library [Aspose.TeX for C++](../../)

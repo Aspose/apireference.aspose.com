@@ -18,6 +18,8 @@ virtual System::SharedPtr<System::IO::TextReader> Aspose::TeX::IO::IInputTermina
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextReader](../../../system.io/textreader/)
 * Class [IInputTerminal](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

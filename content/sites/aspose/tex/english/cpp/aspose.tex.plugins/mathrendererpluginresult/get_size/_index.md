@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginresult/get_size/
 The size of the rendered formula.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::Drawing::SizeF Aspose::TeX::Plugins::MathRendererPluginResult::get_Size() const
+System::Drawing::SizeF Aspose::TeX::Plugins::MathRendererPluginResult::get_Size() const
 ```
 
 ## See Also
 
+* Class [SizeF](../../../system.drawing/sizef/)
 * Class [MathRendererPluginResult](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

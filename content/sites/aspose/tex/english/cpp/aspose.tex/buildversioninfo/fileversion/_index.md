@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/buildversioninfo/fileversion/
 File Version.
 
 ```cpp
-static const ASPOSE_TEX_SHARED_API System::String Aspose::TeX::BuildVersionInfo::FileVersion
+static const System::String Aspose::TeX::BuildVersionInfo::FileVersion
 ```
 
 ## See Also

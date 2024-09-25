@@ -22,6 +22,7 @@ void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Reason(Syst
 The reason. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

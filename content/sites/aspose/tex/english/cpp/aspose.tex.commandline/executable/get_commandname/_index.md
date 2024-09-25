@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.commandline/executable/get_commandname/
 Gets the name of the executable (command).
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API System::String Aspose::TeX::CommandLine::Executable::get_CommandName()=0
+virtual System::String Aspose::TeX::CommandLine::Executable::get_CommandName()=0
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Executable](../)
 * Namespace [Aspose::TeX::CommandLine](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/pngmathrendererpluginoptions/pngmathrendererplugino
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::PngMathRendererPluginOptions::PngMathRendererPluginOptions()
+Aspose::TeX::Plugins::PngMathRendererPluginOptions::PngMathRendererPluginOptions()
 ```
 
 ## See Also

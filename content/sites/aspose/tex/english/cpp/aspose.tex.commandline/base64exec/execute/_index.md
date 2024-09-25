@@ -23,6 +23,8 @@ void Aspose::TeX::CommandLine::Base64Exec::Execute(System::ArrayPtr<System::Stri
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [Base64Exec](../)
 * Namespace [Aspose::TeX::CommandLine](../../)
 * Library [Aspose.TeX for C++](../../../)

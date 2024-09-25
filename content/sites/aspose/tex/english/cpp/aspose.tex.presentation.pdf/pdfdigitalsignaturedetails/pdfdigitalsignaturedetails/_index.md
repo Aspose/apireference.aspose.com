@@ -27,6 +27,10 @@ Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::PdfDigitalSignatureD
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
+* Class [String](../../../system/string/)
+* Class [DateTime](../../../system/datetime/)
 * Enum [PdfDigitalSignatureHashAlgorithm](../../pdfdigitalsignaturehashalgorithm/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)

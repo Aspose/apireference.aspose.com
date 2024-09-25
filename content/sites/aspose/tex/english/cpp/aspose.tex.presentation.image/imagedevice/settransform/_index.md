@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/settransform/
 Sets the current coordinate space transformation.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::SetTransform(System::SharedPtr<System::Drawing::Drawing2D::Matrix> matrix) override
+void Aspose::TeX::Presentation::Image::ImageDevice::SetTransform(System::SharedPtr<System::Drawing::Drawing2D::Matrix> matrix) override
 ```
 
 
@@ -21,10 +21,13 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::SetTra
 | --- | --- | --- |
 | matrix | System::SharedPtr\<System::Drawing::Drawing2D::Matrix\> | A transformation matrix. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)
 * Library [Aspose.TeX for C++](../../../)

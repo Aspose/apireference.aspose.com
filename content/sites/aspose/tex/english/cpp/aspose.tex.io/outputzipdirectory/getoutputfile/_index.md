@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/outputzipdirectory/getoutputfile/
 Returns the stream to write to.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<NamedStream> Aspose::TeX::IO::OutputZipDirectory::GetOutputFile(System::String fileName) override
+System::SharedPtr<NamedStream> Aspose::TeX::IO::OutputZipDirectory::GetOutputFile(System::String fileName) override
 ```
 
 
@@ -27,7 +27,9 @@ The named stream.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NamedStream](../../namedstream/)
+* Class [String](../../../system/string/)
 * Class [OutputZipDirectory](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

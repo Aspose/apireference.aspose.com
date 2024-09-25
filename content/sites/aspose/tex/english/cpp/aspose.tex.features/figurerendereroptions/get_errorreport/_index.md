@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.features/figurerendereroptions/get_errorreport/
 Gets the error report.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Features::FigureRendererOptions::get_ErrorReport() const
+System::String Aspose::TeX::Features::FigureRendererOptions::get_ErrorReport() const
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FigureRendererOptions](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

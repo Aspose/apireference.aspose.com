@@ -26,5 +26,6 @@ class MathRendererPlugin : public Aspose::TeX::Plugins::IPlugin,
 ## See Also
 
 * Class [IPlugin](../iplugin/)
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/dispose/
 Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::Dispose() override
+void Aspose::TeX::Presentation::Image::ImageDevice::Dispose() override
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

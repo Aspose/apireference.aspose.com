@@ -31,5 +31,6 @@ class GlyphData : public System::Object
 | [set_VOffset](./set_voffset/)(float) | Gets/sets vertical offset. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation](../)
 * Library [Aspose.TeX for C++](../../)

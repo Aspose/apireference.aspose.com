@@ -13,11 +13,12 @@ url: /cpp/aspose.tex/texoptions/get_inputworkingdirectory/
 Gets/sets input working directory.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<IO::IInputWorkingDirectory> Aspose::TeX::TeXOptions::get_InputWorkingDirectory() const
+System::SharedPtr<IO::IInputWorkingDirectory> Aspose::TeX::TeXOptions::get_InputWorkingDirectory() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IInputWorkingDirectory](../../../aspose.tex.io/iinputworkingdirectory/)
 * Class [TeXOptions](../)
 * Namespace [Aspose::TeX](../../)

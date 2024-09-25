@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/tiffsaveoptions/set_compression/
 Gets/sets the TIFF compression scheme.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::TiffSaveOptions::set_Compression(TiffCompression value)
+void Aspose::TeX::Presentation::Image::TiffSaveOptions::set_Compression(TiffCompression value)
 ```
 
 ## See Also

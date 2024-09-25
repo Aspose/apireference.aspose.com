@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/imagesaveoptions/set_resolution/
 Gets/sets the array of numbers of pages to convert.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageSaveOptions::set_Resolution(float value)
+void Aspose::TeX::Presentation::Image::ImageSaveOptions::set_Resolution(float value)
 ```
 
 ## Remarks

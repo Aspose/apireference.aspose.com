@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/get_ownerpassword/
 Gets the Owner password.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_OwnerPassword() const
+System::String Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_OwnerPassword() const
 ```
 
 ## Remarks
@@ -24,6 +24,7 @@ The owner password.
 Opening the document with the correct owner password (assuming it is not the same as the user password) allows full (owner) access to the document. This unlimited access includes the ability to change the document’s passwords and access permissions. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfEncryptionDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

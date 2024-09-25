@@ -4,7 +4,7 @@ linktitle: Aspose::TeX::Features
 second_title: Aspose.TeX for C++
 description: 'How to use Aspose::TeX::Features namespace in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.tex.features/
 ---
 

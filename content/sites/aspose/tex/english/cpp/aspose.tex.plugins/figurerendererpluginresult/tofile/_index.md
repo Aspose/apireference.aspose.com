@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginresult/tofile/
 Tries to convert the result to a file.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Plugins::FigureRendererPluginResult::ToFile() override
+System::String Aspose::TeX::Plugins::FigureRendererPluginResult::ToFile() override
 ```
 
 
@@ -23,6 +23,7 @@ A string the file path if the result is file; otherwise **null**.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FigureRendererPluginResult](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.features/figurerendereroptions/set_backgroundcolor/
 Gets/sets the background color.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Features::FigureRendererOptions::set_BackgroundColor(System::Drawing::Color value)
+void Aspose::TeX::Features::FigureRendererOptions::set_BackgroundColor(System::Drawing::Color value)
 ```
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [FigureRendererOptions](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

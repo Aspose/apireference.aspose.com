@@ -24,5 +24,6 @@ class IOutputDataContainer : public virtual System::Object
 | virtual [get_OutputDataCollection](./get_outputdatacollection/)() | Gets the collection of output data targets. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

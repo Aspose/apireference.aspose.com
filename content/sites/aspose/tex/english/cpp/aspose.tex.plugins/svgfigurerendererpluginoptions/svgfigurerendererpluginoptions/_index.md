@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/svgfigurerendererpluginoptions/svgfigurerendererplu
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::SvgFigureRendererPluginOptions::SvgFigureRendererPluginOptions()
+Aspose::TeX::Plugins::SvgFigureRendererPluginOptions::SvgFigureRendererPluginOptions()
 ```
 
 ## See Also

@@ -25,5 +25,6 @@ class BuildVersionInfo : public System::Object
 | static [Product](./product/) | Product Name. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX](../)
 * Library [Aspose.TeX for C++](../../)

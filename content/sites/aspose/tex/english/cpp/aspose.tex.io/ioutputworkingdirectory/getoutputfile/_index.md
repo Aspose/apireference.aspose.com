@@ -27,7 +27,9 @@ The named stream.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NamedStream](../../namedstream/)
+* Class [String](../../../system/string/)
 * Class [IOutputWorkingDirectory](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

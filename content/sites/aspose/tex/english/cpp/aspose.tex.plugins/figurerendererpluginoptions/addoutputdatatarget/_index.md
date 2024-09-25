@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginoptions/addoutputdatatarget/
 Adds a new input data target to the collection.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::FigureRendererPluginOptions::AddOutputDataTarget(System::SharedPtr<IDataSource> dataTarget) override
+void Aspose::TeX::Plugins::FigureRendererPluginOptions::AddOutputDataTarget(System::SharedPtr<IDataSource> dataTarget) override
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::FigureRendererPluginOptions::Ad
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDataSource](../../idatasource/)
 * Class [FigureRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.resourceproviders/formatprovider/formatprovider/
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::ResourceProviders::FormatProvider::FormatProvider(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> workingDirectory, System::String formatFileName)
+Aspose::TeX::ResourceProviders::FormatProvider::FormatProvider(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> workingDirectory, System::String formatFileName)
 ```
 
 
@@ -24,7 +24,9 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::ResourceProviders::FormatProvider::FormatProv
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IInputWorkingDirectory](../../../aspose.tex.io/iinputworkingdirectory/)
+* Class [String](../../../system/string/)
 * Class [FormatProvider](../)
 * Namespace [Aspose::TeX::ResourceProviders](../../)
 * Library [Aspose.TeX for C++](../../../)

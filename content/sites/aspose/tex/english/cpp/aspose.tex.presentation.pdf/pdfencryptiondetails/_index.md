@@ -31,5 +31,6 @@ class PdfEncryptionDetails : public System::Object
 | [set_UserPassword](./set_userpassword/)(System::String) | Sets the User password. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation::Pdf](../)
 * Library [Aspose.TeX for C++](../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepairer/latexrepairer/
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Features::LaTeXRepairer::LaTeXRepairer(System::String path, System::SharedPtr<LaTeXRepairerOptions> options)
+Aspose::TeX::Features::LaTeXRepairer::LaTeXRepairer(System::String path, System::SharedPtr<LaTeXRepairerOptions> options)
 ```
 
 
@@ -24,6 +24,8 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::Features::LaTeXRepairer::LaTeXRepairer(System
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LaTeXRepairerOptions](../../latexrepaireroptions/)
 * Class [LaTeXRepairer](../)
 * Namespace [Aspose::TeX::Features](../../)

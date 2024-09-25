@@ -22,6 +22,8 @@ void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Certificate
 The certificate. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

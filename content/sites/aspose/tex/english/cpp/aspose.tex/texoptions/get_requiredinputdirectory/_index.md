@@ -13,11 +13,12 @@ url: /cpp/aspose.tex/texoptions/get_requiredinputdirectory/
 Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../../)'s LaTeX support.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<IO::IInputWorkingDirectory> Aspose::TeX::TeXOptions::get_RequiredInputDirectory() const
+System::SharedPtr<IO::IInputWorkingDirectory> Aspose::TeX::TeXOptions::get_RequiredInputDirectory() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IInputWorkingDirectory](../../../aspose.tex.io/iinputworkingdirectory/)
 * Class [TeXOptions](../)
 * Namespace [Aspose::TeX](../../)

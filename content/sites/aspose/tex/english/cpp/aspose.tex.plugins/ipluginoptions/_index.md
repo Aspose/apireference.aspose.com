@@ -18,5 +18,6 @@ class IPluginOptions : public virtual System::Object
 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

@@ -27,6 +27,7 @@ A [ResultContainer](../../resultcontainer/) instance containing the execution re
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ResultContainer](../../resultcontainer/)
 * Class [IPluginOptions](../../ipluginoptions/)
 * Class [IPlugin](../)

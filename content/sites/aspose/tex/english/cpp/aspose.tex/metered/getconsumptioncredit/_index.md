@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/metered/getconsumptioncredit/
 Gets consumption credit.
 
 ```cpp
-static ASPOSE_TEX_SHARED_API System::Decimal Aspose::TeX::Metered::GetConsumptionCredit()
+static System::Decimal Aspose::TeX::Metered::GetConsumptionCredit()
 ```
 
 
@@ -23,6 +23,7 @@ consumption quantity
 
 ## See Also
 
+* Class [Decimal](../../../system/decimal/)
 * Class [Metered](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.image/imagesaveoptions/set_interpolationmode/
 Gets/sets the interpolation mode.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageSaveOptions::set_InterpolationMode(System::Drawing::Drawing2D::InterpolationMode value)
+void Aspose::TeX::Presentation::Image::ImageSaveOptions::set_InterpolationMode(System::Drawing::Drawing2D::InterpolationMode value)
 ```
 
 ## See Also
 
+* Enum [InterpolationMode](../../../system.drawing.drawing2d/interpolationmode/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::TeX::Presentation::Image](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -22,6 +22,7 @@ System::DateTime Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::get
 The signature date. 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)

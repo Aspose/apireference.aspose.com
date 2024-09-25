@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/pdfsaveoptions/
 Creates new instance of options.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Pdf::PdfSaveOptions::PdfSaveOptions()
+Aspose::TeX::Presentation::Pdf::PdfSaveOptions::PdfSaveOptions()
 ```
 
 ## See Also

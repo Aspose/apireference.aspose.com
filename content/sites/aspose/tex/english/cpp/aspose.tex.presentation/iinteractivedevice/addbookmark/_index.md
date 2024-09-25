@@ -4,7 +4,7 @@ linktitle: AddBookmark
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::IInteractiveDevice::AddBookmark method. Adds the bookmark identified by the name in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.tex.presentation/iinteractivedevice/addbookmark/
 ---
 ## IInteractiveDevice::AddBookmark method
@@ -24,6 +24,8 @@ virtual void Aspose::TeX::Presentation::IInteractiveDevice::AddBookmark(System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [PointF](../../../system.drawing/pointf/)
 * Class [IInteractiveDevice](../)
 * Namespace [Aspose::TeX::Presentation](../../)
 * Library [Aspose.TeX for C++](../../../)

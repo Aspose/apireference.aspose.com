@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererplugin/dispose/
 Disposes this instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::MathRendererPlugin::Dispose() override
+void Aspose::TeX::Plugins::MathRendererPlugin::Dispose() override
 ```
 
 ## See Also

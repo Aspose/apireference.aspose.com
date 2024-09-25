@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerendereroptions/get_margin/
 Gets/sets the margin width.
 
 ```cpp
-ASPOSE_TEX_SHARED_API float Aspose::TeX::Features::FigureRendererOptions::get_Margin() const
+float Aspose::TeX::Features::FigureRendererOptions::get_Margin() const
 ```
 
 ## See Also

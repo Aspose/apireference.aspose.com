@@ -24,5 +24,6 @@ class FigureRenderer : public System::Object
 | [Render](./render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<FigureRendererOptions\>) | Renders some LaTeX code. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Features](../)
 * Library [Aspose.TeX for C++](../../)

@@ -18,6 +18,7 @@ System::String Aspose::TeX::CommandLine::Base64Exec::get_CommandName() override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Base64Exec](../)
 * Namespace [Aspose::TeX::CommandLine](../../)
 * Library [Aspose.TeX for C++](../../../)

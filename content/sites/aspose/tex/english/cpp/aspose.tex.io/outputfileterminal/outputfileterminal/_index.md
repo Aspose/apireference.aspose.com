@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/outputfileterminal/outputfileterminal/
 Creates new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::IO::OutputFileTerminal::OutputFileTerminal(System::SharedPtr<IOutputWorkingDirectory> workingDirectory)
+Aspose::TeX::IO::OutputFileTerminal::OutputFileTerminal(System::SharedPtr<IOutputWorkingDirectory> workingDirectory)
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::IO::OutputFileTerminal::OutputFileTerminal(Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOutputWorkingDirectory](../../ioutputworkingdirectory/)
 * Class [OutputFileTerminal](../)
 * Namespace [Aspose::TeX::IO](../../)

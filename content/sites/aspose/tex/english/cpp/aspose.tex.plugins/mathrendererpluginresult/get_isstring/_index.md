@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginresult/get_isstring/
 Indicates whether the result is a string.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Plugins::MathRendererPluginResult::get_IsString() override
+bool Aspose::TeX::Plugins::MathRendererPluginResult::get_IsString() override
 ```
 
 

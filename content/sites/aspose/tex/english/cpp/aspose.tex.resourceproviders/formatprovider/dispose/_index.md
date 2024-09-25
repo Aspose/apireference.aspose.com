@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.resourceproviders/formatprovider/dispose/
 Disposes the instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::ResourceProviders::FormatProvider::Dispose() override
+void Aspose::TeX::ResourceProviders::FormatProvider::Dispose() override
 ```
 
 ## See Also

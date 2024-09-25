@@ -13,11 +13,12 @@ url: /cpp/aspose.tex/texoptions/get_outputworkingdirectory/
 Gets/sets output working directory.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<IO::IOutputWorkingDirectory> Aspose::TeX::TeXOptions::get_OutputWorkingDirectory() const
+System::SharedPtr<IO::IOutputWorkingDirectory> Aspose::TeX::TeXOptions::get_OutputWorkingDirectory() const
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOutputWorkingDirectory](../../../aspose.tex.io/ioutputworkingdirectory/)
 * Class [TeXOptions](../)
 * Namespace [Aspose::TeX](../../)

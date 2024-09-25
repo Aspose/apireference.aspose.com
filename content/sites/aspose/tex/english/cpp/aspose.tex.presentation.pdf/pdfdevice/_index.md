@@ -25,7 +25,6 @@ class PdfDevice : public Aspose::TeX::Presentation::Device,
 | [AddBookmark](./addbookmark/)(System::String, System::Drawing::PointF) override | Adds the bookmark identified by the name. |
 | [AddHyperlink](./addhyperlink/)(System::Drawing::RectangleF, System::SharedPtr\<System::Drawing::Pen\>, System::String) override | Set the hyperlink with a URI as its target. |
 | [Create](./create/)() override | Creates a copy of this device. |
-| [Device](../../aspose.tex.presentation/device/device/)() | Creates a new instance. |
 | [Dispose](./dispose/)() override | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
 | [DrawPath](./drawpath/)(System::SharedPtr\<System::Drawing::Drawing2D::GraphicsPath\>) override | Draws a path. |
 | [DrawString](./drawstring/)(System::String, float, float, System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<GlyphData\>\>\>) override | Draws a text string. |
@@ -36,6 +35,7 @@ class PdfDevice : public Aspose::TeX::Presentation::Device,
 | [get_DestinationName](./get_destinationname/)() override | Gets destination name: output file name or device description. |
 | [get_Fill](./get_fill/)() override | Gets/sets the current fill. |
 | [get_FillOpacity](./get_fillopacity/)() override | Gets/sets the current fill opacity. |
+| [get_InternalHyperlinksTargets](./get_internalhyperlinkstargets/)() override | Returns the map of internal hyperlink targets. |
 | [get_IsReady](./get_isready/)() override | Shows if device is ready for output. |
 | [get_PageCount](./get_pagecount/)() override | Gets the number of pages. |
 | [get_Stroke](./get_stroke/)() override | Gets/sets the current stroke. |
@@ -43,6 +43,7 @@ class PdfDevice : public Aspose::TeX::Presentation::Device,
 | [Initialize](./initialize/)() override | Initializes the device. |
 | [PdfDevice](./pdfdevice/)() | Creates a new instance. The output file will be written to the output working directory taking the job name as a file name. |
 | [PdfDevice](./pdfdevice/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new instance. The output file will be written to specified stream. |
+| [SaveInternalHyperlinkTarget](./saveinternalhyperlinktarget/)(int32_t, System::Drawing::RectangleF) override | Saves internal hyperlink target as a page number and a rectangular area on a page. |
 | [set_Fill](./set_fill/)(System::SharedPtr\<System::Drawing::Brush\>) override | Gets/sets the current fill. |
 | [set_FillOpacity](./set_fillopacity/)(float) override | Gets/sets the current fill opacity. |
 | [set_Stroke](./set_stroke/)(System::SharedPtr\<System::Drawing::Pen\>) override | Gets/sets the current stroke. |

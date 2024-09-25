@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.features/mathrendereroptions/get_textcolor/
 Gets/sets the formula text color.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::Drawing::Color Aspose::TeX::Features::MathRendererOptions::get_TextColor() const
+System::Drawing::Color Aspose::TeX::Features::MathRendererOptions::get_TextColor() const
 ```
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [MathRendererOptions](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -18,6 +18,8 @@ void Aspose::TeX::Features::LaTeXRepairerEngine::WriteLog(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StreamWriter](../../../system.io/streamwriter/)
 * Class [LaTeXRepairerEngine](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

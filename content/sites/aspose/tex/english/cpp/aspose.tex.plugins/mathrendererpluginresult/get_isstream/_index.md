@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginresult/get_isstream/
 Indicates whether the result is a stream.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Plugins::MathRendererPluginResult::get_IsStream() override
+bool Aspose::TeX::Plugins::MathRendererPluginResult::get_IsStream() override
 ```
 
 

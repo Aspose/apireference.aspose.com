@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_shellmode/
 Determines the availability of \write18.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::TeXOptions::set_ShellMode(Aspose::TeX::ShellMode value)
+void Aspose::TeX::TeXOptions::set_ShellMode(Aspose::TeX::ShellMode value)
 ```
 
 ## See Also

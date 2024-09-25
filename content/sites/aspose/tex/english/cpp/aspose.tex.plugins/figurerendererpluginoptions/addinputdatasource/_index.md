@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererpluginoptions/addinputdatasource/
 Adds a new data source to the collection.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::FigureRendererPluginOptions::AddInputDataSource(System::SharedPtr<IDataSource> dataSource) override
+void Aspose::TeX::Plugins::FigureRendererPluginOptions::AddInputDataSource(System::SharedPtr<IDataSource> dataSource) override
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::FigureRendererPluginOptions::Ad
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDataSource](../../idatasource/)
 * Class [FigureRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)

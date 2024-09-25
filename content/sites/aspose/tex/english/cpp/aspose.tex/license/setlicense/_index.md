@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/license/setlicense/
 Licenses the component.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::License::SetLicense(System::String licenseName)
+void Aspose::TeX::License::SetLicense(System::String licenseName)
 ```
 
 ## Remarks
@@ -48,6 +48,7 @@ Tries to find the license in the following locations:
 </java>
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [License](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)
@@ -57,7 +58,7 @@ Tries to find the license in the following locations:
 Licenses the component.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::TeX::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
 ```
 
 
@@ -73,6 +74,8 @@ Use this method to load a license from a stream.
 <javaName>void setLicense(java.io.InputStream stream)</javaName> 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [License](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)

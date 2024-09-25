@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/get_jpegqualitylevel/
 The Quality category specifies the level of compression for an image. Available values are 0 to 100. The lower the number specified, the higher the compression and therefore the lower the quality of the image. 0 value results in lowest quality image, while 100 results in highest.
 
 ```cpp
-ASPOSE_TEX_SHARED_API int32_t Aspose::TeX::Presentation::Pdf::PdfSaveOptions::get_JpegQualityLevel() const
+int32_t Aspose::TeX::Presentation::Pdf::PdfSaveOptions::get_JpegQualityLevel() const
 ```
 
 ## See Also

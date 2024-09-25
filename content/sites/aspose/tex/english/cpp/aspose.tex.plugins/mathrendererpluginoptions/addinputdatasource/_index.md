@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/addinputdatasource/
 Adds a new data source to the collection.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::MathRendererPluginOptions::AddInputDataSource(System::SharedPtr<IDataSource> dataSource) override
+void Aspose::TeX::Plugins::MathRendererPluginOptions::AddInputDataSource(System::SharedPtr<IDataSource> dataSource) override
 ```
 
 
@@ -23,6 +23,7 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::MathRendererPluginOptions::AddI
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDataSource](../../idatasource/)
 * Class [MathRendererPluginOptions](../)
 * Namespace [Aspose::TeX::Plugins](../../)

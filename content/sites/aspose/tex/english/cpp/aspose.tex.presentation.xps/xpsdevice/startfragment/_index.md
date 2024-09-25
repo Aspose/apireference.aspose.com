@@ -4,7 +4,7 @@ linktitle: StartFragment
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsDevice::StartFragment method. Starts a fragment to rasterize in C++.'
 type: docs
-weight: 2800
+weight: 3000
 url: /cpp/aspose.tex.presentation.xps/xpsdevice/startfragment/
 ---
 ## XpsDevice::StartFragment method
@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.xps/xpsdevice/startfragment/
 Starts a fragment to rasterize.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Xps::XpsDevice::StartFragment() override
+void Aspose::TeX::Presentation::Xps::XpsDevice::StartFragment() override
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

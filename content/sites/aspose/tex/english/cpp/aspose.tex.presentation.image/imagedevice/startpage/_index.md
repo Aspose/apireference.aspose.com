@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.image/imagedevice/startpage/
 Starts a new page.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::StartPage(float width, float height) override
+void Aspose::TeX::Presentation::Image::ImageDevice::StartPage(float width, float height) override
 ```
 
 
@@ -22,7 +22,8 @@ ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Image::ImageDevice::StartP
 | width | float | The page width. |
 | height | float | The page height. |
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

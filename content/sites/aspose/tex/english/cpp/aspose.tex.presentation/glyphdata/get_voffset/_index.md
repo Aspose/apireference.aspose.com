@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/glyphdata/get_voffset/
 Gets/sets vertical offset.
 
 ```cpp
-ASPOSE_TEX_SHARED_API float Aspose::TeX::Presentation::GlyphData::get_VOffset() const
+float Aspose::TeX::Presentation::GlyphData::get_VOffset() const
 ```
 
 ## See Also

@@ -23,5 +23,6 @@ class ResultContainer : public System::Object
 | [get_ResultCollection](./get_resultcollection/)() const | Gets the collection of plugin execution results. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

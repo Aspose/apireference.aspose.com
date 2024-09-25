@@ -4,7 +4,7 @@ linktitle: EndDocument
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::EndDocument method. Finalizes the whole document in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/enddocument/
 ---
 ## PdfDevice::EndDocument method
@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdevice/enddocument/
 Finalizes the whole document.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Pdf::PdfDevice::EndDocument() override
+void Aspose::TeX::Presentation::Pdf::PdfDevice::EndDocument() override
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

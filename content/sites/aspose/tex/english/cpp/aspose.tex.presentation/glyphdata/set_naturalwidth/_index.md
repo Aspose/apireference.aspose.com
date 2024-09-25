@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/glyphdata/set_naturalwidth/
 Gets/sets glyph width defined by font.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::GlyphData::set_NaturalWidth(float value)
+void Aspose::TeX::Presentation::GlyphData::set_NaturalWidth(float value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginresult/get_isbytearray/
 Indicates whether the result is a byte array.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Plugins::MathRendererPluginResult::get_IsByteArray() override
+bool Aspose::TeX::Plugins::MathRendererPluginResult::get_IsByteArray() override
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerendereroptions/get_scale/
 Gets/set the scale. 1000 means 100%, 1200 means 120%, etc.
 
 ```cpp
-ASPOSE_TEX_SHARED_API int32_t Aspose::TeX::Features::FigureRendererOptions::get_Scale() const
+int32_t Aspose::TeX::Features::FigureRendererOptions::get_Scale() const
 ```
 
 ## See Also

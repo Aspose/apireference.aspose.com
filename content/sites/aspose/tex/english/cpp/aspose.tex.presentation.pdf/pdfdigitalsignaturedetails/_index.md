@@ -34,5 +34,6 @@ class PdfDigitalSignatureDetails : public System::Object
 | [ToCore](./tocore/)() |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Presentation::Pdf](../)
 * Library [Aspose.TeX for C++](../../)

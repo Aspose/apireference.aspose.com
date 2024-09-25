@@ -23,5 +23,6 @@ class IPlugin : public virtual System::Object
 | virtual [Process](./process/)(System::SharedPtr\<IPluginOptions\>) | Runs plugin execution with defined options. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Plugins](../)
 * Library [Aspose.TeX for C++](../../)

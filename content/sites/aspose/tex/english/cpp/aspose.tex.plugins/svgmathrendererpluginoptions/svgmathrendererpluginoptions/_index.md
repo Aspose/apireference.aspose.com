@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/svgmathrendererpluginoptions/svgmathrendererplugino
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::SvgMathRendererPluginOptions::SvgMathRendererPluginOptions()
+Aspose::TeX::Plugins::SvgMathRendererPluginOptions::SvgMathRendererPluginOptions()
 ```
 
 ## See Also

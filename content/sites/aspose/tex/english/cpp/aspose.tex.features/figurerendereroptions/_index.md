@@ -38,5 +38,6 @@ class FigureRendererOptions : public virtual System::Object
 | [set_ShowTerminal](./set_showterminal/)(bool) | The flag that controls terminal output. If **true** then terminal output is written to console. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Features](../)
 * Library [Aspose.TeX for C++](../../)

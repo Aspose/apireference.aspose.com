@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/stringdatasource/get_datatype/
 The data source type.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Plugins::DataType Aspose::TeX::Plugins::StringDataSource::get_DataType() override
+Aspose::TeX::Plugins::DataType Aspose::TeX::Plugins::StringDataSource::get_DataType() override
 ```
 
 ## See Also

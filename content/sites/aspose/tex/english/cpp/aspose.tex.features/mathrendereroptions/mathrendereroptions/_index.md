@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/mathrendereroptions/mathrendereroptions/
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Features::MathRendererOptions::MathRendererOptions()
+Aspose::TeX::Features::MathRendererOptions::MathRendererOptions()
 ```
 
 ## See Also

@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation/device/get_strokeopacity/
 Gets/sets the current stroke opacity.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API float Aspose::TeX::Presentation::Device::get_StrokeOpacity()
+virtual float Aspose::TeX::Presentation::Device::get_StrokeOpacity()
 ```
 
 
-
+## Deprecated
+This property has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

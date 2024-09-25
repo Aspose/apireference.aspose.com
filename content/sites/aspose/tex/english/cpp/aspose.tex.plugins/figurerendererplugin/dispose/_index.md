@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.plugins/figurerendererplugin/dispose/
 Disposes this instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Plugins::FigureRendererPlugin::Dispose() override
+void Aspose::TeX::Plugins::FigureRendererPlugin::Dispose() override
 ```
 
 ## See Also

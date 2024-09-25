@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation/saveoptions/get_rasterizeformulas/
 Gets/sets the flag that allows to rasterize math formulas.
 
 ```cpp
-ASPOSE_TEX_SHARED_API bool Aspose::TeX::Presentation::SaveOptions::get_RasterizeFormulas() const
+bool Aspose::TeX::Presentation::SaveOptions::get_RasterizeFormulas() const
 ```
 
 ## See Also

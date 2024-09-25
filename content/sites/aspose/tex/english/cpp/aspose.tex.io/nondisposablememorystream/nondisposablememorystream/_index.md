@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.io/nondisposablememorystream/nondisposablememorystream/
 Creates a new instance.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::IO::NondisposableMemoryStream::NondisposableMemoryStream()
+Aspose::TeX::IO::NondisposableMemoryStream::NondisposableMemoryStream()
 ```
 
 ## See Also
@@ -27,7 +27,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::IO::NondisposableMemoryStream::NondisposableM
 Creates a new instance using some data stream.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::IO::NondisposableMemoryStream::NondisposableMemoryStream(System::SharedPtr<System::IO::Stream> stream)
+Aspose::TeX::IO::NondisposableMemoryStream::NondisposableMemoryStream(System::SharedPtr<System::IO::Stream> stream)
 ```
 
 
@@ -37,6 +37,8 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::IO::NondisposableMemoryStream::NondisposableM
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [NondisposableMemoryStream](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

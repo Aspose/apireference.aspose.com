@@ -24,5 +24,6 @@ class MathRenderer : public System::Object
 | [Render](./render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<MathRendererOptions\>) | Renders a math formula. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::Features](../)
 * Library [Aspose.TeX for C++](../../)

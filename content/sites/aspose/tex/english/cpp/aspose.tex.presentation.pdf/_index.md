@@ -4,7 +4,7 @@ linktitle: Aspose::TeX::Presentation::Pdf
 second_title: Aspose.TeX for C++
 description: 'How to use Aspose::TeX::Presentation::Pdf namespace in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.tex.presentation.pdf/
 ---
 

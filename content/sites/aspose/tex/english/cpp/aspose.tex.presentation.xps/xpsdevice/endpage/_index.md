@@ -4,7 +4,7 @@ linktitle: EndPage
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsDevice::EndPage method. Finalizes a page in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.tex.presentation.xps/xpsdevice/endpage/
 ---
 ## XpsDevice::EndPage method
@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation.xps/xpsdevice/endpage/
 Finalizes a page.
 
 ```cpp
-ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Xps::XpsDevice::EndPage() override
+void Aspose::TeX::Presentation::Xps::XpsDevice::EndPage() override
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 

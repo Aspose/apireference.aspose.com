@@ -13,11 +13,14 @@ url: /cpp/aspose.tex.commandline/executableslist/get_list/
 Displays the collection as a read-only list of executables' names.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<Executable>>::KeyCollection> Aspose::TeX::CommandLine::ExecutablesList::get_List()
+System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<Executable>>::KeyCollection> Aspose::TeX::CommandLine::ExecutablesList::get_List()
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
 * Class [Executable](../../executable/)
 * Class [ExecutablesList](../)
 * Namespace [Aspose::TeX::CommandLine](../../)

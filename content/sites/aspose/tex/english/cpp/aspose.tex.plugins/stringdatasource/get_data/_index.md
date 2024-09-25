@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.plugins/stringdatasource/get_data/
 Gets the underlying string.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::String Aspose::TeX::Plugins::StringDataSource::get_Data() const
+System::String Aspose::TeX::Plugins::StringDataSource::get_Data() const
 ```
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [StringDataSource](../)
 * Namespace [Aspose::TeX::Plugins](../../)
 * Library [Aspose.TeX for C++](../../../)

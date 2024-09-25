@@ -28,6 +28,7 @@ The package name.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IGuessPackageCallback](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

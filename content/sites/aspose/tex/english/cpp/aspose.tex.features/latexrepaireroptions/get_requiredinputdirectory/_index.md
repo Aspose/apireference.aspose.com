@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.features/latexrepaireroptions/get_requiredinputdirectory/
 Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../../../aspose.tex/)'s LaTeX support.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> Aspose::TeX::Features::LaTeXRepairerOptions::get_RequiredInputDirectory()
+System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> Aspose::TeX::Features::LaTeXRepairerOptions::get_RequiredInputDirectory()
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IInputWorkingDirectory](../../../aspose.tex.io/iinputworkingdirectory/)
 * Class [LaTeXRepairerOptions](../)
 * Namespace [Aspose::TeX::Features](../../)

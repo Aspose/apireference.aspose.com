@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/get_permissions/
 Gets the permissions.
 
 ```cpp
-ASPOSE_TEX_SHARED_API int32_t Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_Permissions() const
+int32_t Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_Permissions() const
 ```
 
 ## Remarks

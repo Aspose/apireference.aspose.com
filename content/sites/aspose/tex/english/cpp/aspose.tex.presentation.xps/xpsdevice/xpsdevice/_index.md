@@ -4,7 +4,7 @@ linktitle: XpsDevice
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice constructor. Creates a new instance. The output file will be written to the output working directory taking the job name as a file name in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.tex.presentation.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice::XpsDevice() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.xps/xpsdevice/xpsdevice/
 Creates a new instance. The output file will be written to the output working directory taking the job name as a file name.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice()
+Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice()
 ```
 
 ## See Also
@@ -27,7 +27,7 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice()
 Creates a new instance. The output file will be written to specified stream.
 
 ```cpp
-ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice(System::SharedPtr<System::IO::Stream> stream)
+Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice(System::SharedPtr<System::IO::Stream> stream)
 ```
 
 
@@ -37,6 +37,8 @@ ASPOSE_TEX_SHARED_API Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XpsDevice](../)
 * Namespace [Aspose::TeX::Presentation::Xps](../../)
 * Library [Aspose.TeX for C++](../../../)

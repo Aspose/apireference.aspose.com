@@ -23,5 +23,6 @@ class IOutputTerminal : public virtual System::Object
 | virtual [get_Writer](./get_writer/)() | Gets the writer for the output terminal. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::TeX::IO](../)
 * Library [Aspose.TeX for C++](../../)

@@ -13,11 +13,13 @@ url: /cpp/aspose.tex.io/outputconsoleterminal/get_writer/
 Gets the console as a terminal output destination.
 
 ```cpp
-ASPOSE_TEX_SHARED_API System::SharedPtr<System::IO::TextWriter> Aspose::TeX::IO::OutputConsoleTerminal::get_Writer() override
+System::SharedPtr<System::IO::TextWriter> Aspose::TeX::IO::OutputConsoleTerminal::get_Writer() override
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextWriter](../../../system.io/textwriter/)
 * Class [OutputConsoleTerminal](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -13,11 +13,12 @@ url: /cpp/aspose.tex.presentation/device/initialize/
 Initializes the device.
 
 ```cpp
-virtual ASPOSE_TEX_SHARED_API void Aspose::TeX::Presentation::Device::Initialize()=0
+virtual void Aspose::TeX::Presentation::Device::Initialize()=0
 ```
 
 
-
+## Deprecated
+This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
 
 ## See Also
 
