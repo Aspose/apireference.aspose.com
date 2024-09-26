@@ -1,43 +1,31 @@
-﻿---
+---
 title: QNameValue class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 1440
+weight: 2370
 url: /python-net/aspose.page.xps.xpsmetadata/qnamevalue/
-is_root: false
 ---
 
 ## QNameValue class
 
 The class that incapsulates a QName value in a PrintTicket document.
 
-
-
-**Inheritance:** [`QNameValue`](/page/python-net/aspose.page.xps.xpsmetadata/qnamevalue) → 
-[`Value`](/page/python-net/aspose.page.xps.xpsmetadata/value) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `QNameValue` → [`Value`](/page/python-net/aspose.page.xps.xpsmetadata/value) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The QNameValue type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/qnamevalue/__init__/#str) | Creates a new instance. |
-
-
-### Properties
-| Property | Description |
+| `QNameValue(value)` | Initializes a new instance of the QNameValue class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/qnamevalue/name) | Gets the element name. |
-| [value_string](/page/python-net/aspose.page.xps.xpsmetadata/qnamevalue/value_string) | Gets the value as string. |
-
-
+| `name` | Gets the element name. |
+| `value_string` | Gets the value as string. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`QNameValue`](/page/python-net/aspose.page.xps.xpsmetadata/qnamevalue)
-* class [`Value`](/page/python-net/aspose.page.xps.xpsmetadata/value)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,30 +1,27 @@
-﻿---
+---
 title: PsConverterException class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 50
 url: /python-net/aspose.page.eps/psconverterexception/
-is_root: false
 ---
 
 ## PsConverterException class
 
-This class contains information about an error that is
-thrown while PS file is converted to PDF document.
+This class contains information about an error that is<br/>            thrown while PS file is converted to PDF document.
 
 
 
 The PsConverterException type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.eps/psconverterexception/__init__/#) | Initializes a new instance of the [`PsConverterException`](/page/python-net/aspose.page.eps/psconverterexception) class. |
-| [__init__](/page/python-net/aspose.page.eps/psconverterexception/__init__/#str) | Initializes a new instance of the [`PsConverterException`](/page/python-net/aspose.page.eps/psconverterexception) class. |
-
-
+| `PsConverterException()` | Initializes a new instance of the [PsConverterException](/page/python-net/aspose.page.eps/psconverterexception/) class. |
+| `PsConverterException(error_str)` | Initializes a new instance of the PsConverterException class |
 
 ### See Also
-* module [`aspose.page.eps`](..)
-* class [`PsConverterException`](/page/python-net/aspose.page.eps/psconverterexception)
+
+* module [`aspose.page.eps`](/page/python-net/aspose.page.eps/)
+* package [`aspose.page`](/page/python-net/)
+

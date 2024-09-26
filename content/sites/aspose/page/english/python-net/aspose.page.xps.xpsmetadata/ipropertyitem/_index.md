@@ -1,29 +1,26 @@
-﻿---
+---
 title: IPropertyItem class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 390
+weight: 500
 url: /python-net/aspose.page.xps.xpsmetadata/ipropertyitem/
-is_root: false
 ---
 
 ## IPropertyItem class
 
-The base interface for classes that may be a PrintTicket [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) items.
+The base interface for classes that may be a PrintTicket [Property](/page/python-net/aspose.page.xps.xpsmetadata/property/) items.
 
 
 
 The IPropertyItem type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/ipropertyitem/name) | The child name. |
-
-
+| `name` | The child name. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`IPrintTicketElementChild`](/page/python-net/aspose.page.xps.xpsmetadata/iprintticketelementchild)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,59 +1,35 @@
-﻿---
+---
 title: JobNUpAllDocumentsContiguously class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 920
 url: /python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
-is_root: false
 ---
 
 ## JobNUpAllDocumentsContiguously class
 
-Describes the output of multiple logical pages to a single physical sheet. All documents in the job
-are compiled together contiguously. [`JobNUpAllDocumentsContiguously`](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously) and [`DocumentNUp`](/page/python-net/aspose.page.xps.xpsmetadata/documentnup)
-are mutually exclusive. It is up to the driver to determine constraint handling between these keywords.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/jobnupalldocumentscontiguously
+Describes the output of multiple logical pages to a single physical sheet. All documents in the job<br/>            are compiled together contiguously. [JobNUpAllDocumentsContiguously](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/) and [DocumentNUp](/page/python-net/aspose.page.xps.xpsmetadata/documentnup/)<br/>            are mutually exclusive. It is up to the driver to determine constraint handling between these keywords.<br/>            https://docs.microsoft.com/en-us/windows/win32/printdocs/jobnupalldocumentscontiguously
 
-
-
-**Inheritance:** [`JobNUpAllDocumentsContiguously`](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously) → 
-[`NUp`](/page/python-net/aspose.page.xps.xpsmetadata/nup) → 
-[`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → 
-[`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `JobNUpAllDocumentsContiguously` → [`NUp`](/page/python-net/aspose.page.xps.xpsmetadata/nup) → [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The JobNUpAllDocumentsContiguously type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/__init__/#list) | Constructs a new instance of JobNUpAllDocumentsContiguously |
-
-
-### Properties
-| Property | Description |
+| `JobNUpAllDocumentsContiguously(items)` | Initializes a new instance of the JobNUpAllDocumentsContiguously class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/name) | Gets the element name. |
-
-
-### Methods
-| Method | Description |
+| `name` | Gets the element name. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [add](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/add/#list) | Adds a list of items to the end of this feature's item list. <br/>Each one must be a [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature), an [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option) or a [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) instance. |
-| [add_pages_per_sheet_option](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/add_pages_per_sheet_option/#int) | Adds and option with a `PagesPerSheet` scored property value.<br/>Specifies the number of logical pages per physical sheet. |
-
-
+| `add(items)` | Adds and option with a |
+| `add_pages_per_sheet_option(value)` | Adds and option with a |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement)
-* class [`DocumentNUp`](/page/python-net/aspose.page.xps.xpsmetadata/documentnup)
-* class [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature)
-* class [`JobNUpAllDocumentsContiguously`](/page/python-net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously)
-* class [`NUp`](/page/python-net/aspose.page.xps.xpsmetadata/nup)
-* class [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

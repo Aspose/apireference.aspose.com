@@ -1,37 +1,26 @@
-﻿---
+---
 title: XpsPathPolySegment class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 280
 url: /python-net/aspose.page.xps.xpsmodel/xpspathpolysegment/
-is_root: false
 ---
 
 ## XpsPathPolySegment class
 
-Class incapsulating common features of PolyLineSegment, PolyBézierSegment and 
-PolyQuadraticBézierSegment elements.
+Class incapsulating common features of PolyLineSegment, PolyBézierSegment and <br/>            PolyQuadraticBézierSegment elements.
 
-
-
-**Inheritance:** [`XpsPathPolySegment`](/page/python-net/aspose.page.xps.xpsmodel/xpspathpolysegment) → 
-[`XpsPathSegment`](/page/python-net/aspose.page.xps.xpsmodel/xpspathsegment) → 
-[`XpsObject`](/page/python-net/aspose.page.xps.xpsmodel/xpsobject)
-
-
+**Inheritance:** `XpsPathPolySegment` → [`XpsPathSegment`](/page/python-net/aspose.page.xps.xpsmodel/xpspathsegment) → [`XpsObject`](/page/python-net/aspose.page.xps.xpsmodel/xpsobject)
 
 The XpsPathPolySegment type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [is_stroked](/page/python-net/aspose.page.xps.xpsmodel/xpspathpolysegment/is_stroked) | Returns/sets the value specifying whether the stroke for this segment of the path is drawn. |
-
-
+| `is_stroked` | Returns/sets the value specifying whether the stroke for this segment of the path is drawn. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmodel`](..)
-* class [`XpsObject`](/page/python-net/aspose.page.xps.xpsmodel/xpsobject)
-* class [`XpsPathPolySegment`](/page/python-net/aspose.page.xps.xpsmodel/xpspathpolysegment)
-* class [`XpsPathSegment`](/page/python-net/aspose.page.xps.xpsmodel/xpspathsegment)
+
+* module [`aspose.page.xps.xpsmodel`](/page/python-net/aspose.page.xps.xpsmodel/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,29 +1,24 @@
-﻿---
+---
 title: PsSaveFormat enumeration
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 40
 url: /python-net/aspose.page.eps.device/pssaveformat/
-is_root: false
 ---
 
 ## PsSaveFormat enumeration
 
-This enumeration contains available options of saving format. It can be PS or EPS.
-EPS is used for only 1-paged documents while PS file can contain any number of pages.
+This enumeration contains available options of saving format. It can be PS or EPS.<br/>            EPS is used for only 1-paged documents while PS file can contain any number of pages.
 
-
-
-The PsSaveFormat type exposes the following members:
-
-### Fields
-| Field | Description |
+## Members
+| Member name | Description |
 | :- | :- |
-| PS | This option indicates that resulting document must be PostScript (PS) or Encapsulated PostScript (EPS) file. |
-| EPS | This option indicates that resulting document must be Encapsulated PostScript (EPS) file. It is used only for 1-paged documents; |
-
-
+| `PS` | This option indicates that resulting document must be PostScript (PS) or Encapsulated PostScript (EPS) file. |
+| `EPS` | This option indicates that resulting document must be Encapsulated PostScript (EPS) file. It is used only for 1-paged documents; |
 
 ### See Also
-* module [`aspose.page.eps.device`](..)
+
+* module [`aspose.page.eps.device`](/page/python-net/aspose.page.eps.device/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,40 +1,30 @@
-﻿---
+---
 title: XpsExternalLinkTarget class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 80
 url: /python-net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
-is_root: false
 ---
 
 ## XpsExternalLinkTarget class
 
 Class incapsulating the external hyperlink target.
 
-
-
-**Inheritance:** [`XpsExternalLinkTarget`](/page/python-net/aspose.page.xps.xpsmodel/xpsexternallinktarget) → 
-[`XpsHyperlinkTarget`](/page/python-net/aspose.page.xps.xpsmodel/xpshyperlinktarget)
-
-
+**Inheritance:** `XpsExternalLinkTarget` → [`XpsHyperlinkTarget`](/page/python-net/aspose.page.xps.xpsmodel/xpshyperlinktarget)
 
 The XpsExternalLinkTarget type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmodel/xpsexternallinktarget/__init__/#str) | Creates the new instance. |
-
-
-### Properties
-| Property | Description |
+| `XpsExternalLinkTarget(target_uri)` | Initializes a new instance of the XpsExternalLinkTarget class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [target_uri](/page/python-net/aspose.page.xps.xpsmodel/xpsexternallinktarget/target_uri) | Gets the target URI. |
-
-
+| `target_uri` | Gets the target URI. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmodel`](..)
-* class [`XpsExternalLinkTarget`](/page/python-net/aspose.page.xps.xpsmodel/xpsexternallinktarget)
-* class [`XpsHyperlinkTarget`](/page/python-net/aspose.page.xps.xpsmodel/xpshyperlinktarget)
+
+* module [`aspose.page.xps.xpsmodel`](/page/python-net/aspose.page.xps.xpsmodel/)
+* package [`aspose.page`](/page/python-net/)
+

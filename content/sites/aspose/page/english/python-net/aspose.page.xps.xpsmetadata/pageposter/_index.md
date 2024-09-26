@@ -1,54 +1,35 @@
-﻿---
+---
 title: PagePoster class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 1180
+weight: 1960
 url: /python-net/aspose.page.xps.xpsmetadata/pageposter/
-is_root: false
 ---
 
 ## PagePoster class
 
-Describes the output of a single page to multiple physical media sheets.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/pageposter
+Describes the output of a single page to multiple physical media sheets.<br/>            https://docs.microsoft.com/en-us/windows/win32/printdocs/pageposter
 
-
-
-**Inheritance:** [`PagePoster`](/page/python-net/aspose.page.xps.xpsmetadata/pageposter) → 
-[`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → 
-[`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `PagePoster` → [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The PagePoster type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pageposter/__init__/#) | Creates a new instance. |
-
-
-### Properties
-| Property | Description |
+| `PagePoster()` | Creates a new instance. |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/pageposter/name) | Gets the element name. |
-
-
-### Methods
-| Method | Description |
+| `name` | Gets the element name. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [add](/page/python-net/aspose.page.xps.xpsmetadata/pageposter/add/#list) | Adds a list of items to the end of this feature's item list. <br/>Each one must be a [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature), an [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option) or a [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) instance. |
-| [add_pages_per_sheet_option](/page/python-net/aspose.page.xps.xpsmetadata/pageposter/add_pages_per_sheet_option/#int) | Adds and option with a `PagesPerSheet` scored property value.<br/>Specifies the number of physical sheets per logical page. |
-
-
+| `add(items)` | Adds and option with a |
+| `add_pages_per_sheet_option(value)` | Adds and option with a |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement)
-* class [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature)
-* class [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option)
-* class [`PagePoster`](/page/python-net/aspose.page.xps.xpsmetadata/pageposter)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

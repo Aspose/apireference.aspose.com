@@ -1,53 +1,34 @@
-﻿---
+---
 title: PageBorderless class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 880
+weight: 1380
 url: /python-net/aspose.page.xps.xpsmetadata/pageborderless/
-is_root: false
 ---
 
 ## PageBorderless class
 
-Describes when image content should be printed to the physical edges of the media.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/pageborderless
+Describes when image content should be printed to the physical edges of the media.<br/>            https://docs.microsoft.com/en-us/windows/win32/printdocs/pageborderless
 
-
-
-**Inheritance:** [`PageBorderless`](/page/python-net/aspose.page.xps.xpsmetadata/pageborderless) → 
-[`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → 
-[`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `PageBorderless` → [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The PageBorderless type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pageborderless/__init__/#list) | Constructs a new instance of PageBorderless |
-
-
-### Properties
-| Property | Description |
+| `PageBorderless(options)` | Initializes a new instance of the PageBorderless class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/pageborderless/name) | Gets the element name. |
-
-
-### Methods
-| Method | Description |
+| `name` | Gets the element name. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [add](/page/python-net/aspose.page.xps.xpsmetadata/pageborderless/add/#list) | Adds a list of items to the end of this feature's item list. <br/>Each one must be a [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature), an [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option) or a [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) instance. |
-
-
+| `add(items)` | Adds a list of items to the end of this feature's item list. <br/>            Each one must be a [Feature](/page/python-net/aspose.page.xps.xpsmetadata/feature/), an [Option](/page/python-net/aspose.page.xps.xpsmetadata/option/), or a [Property](/page/python-net/aspose.page.xps.xpsmetadata/property/) instance. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement)
-* class [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature)
-* class [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option)
-* class [`PageBorderless`](/page/python-net/aspose.page.xps.xpsmetadata/pageborderless)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

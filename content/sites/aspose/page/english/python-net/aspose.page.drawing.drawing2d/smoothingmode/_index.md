@@ -1,30 +1,28 @@
-﻿---
+---
 title: SmoothingMode enumeration
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
 url: /python-net/aspose.page.drawing.drawing2d/smoothingmode/
-is_root: false
 ---
 
 ## SmoothingMode enumeration
 
 
 
-The SmoothingMode type exposes the following members:
-
-### Fields
-| Field | Description |
+## Members
+| Member name | Description |
 | :- | :- |
-| INVALID |  |
-| DEFAULT |  |
-| HIGH_SPEED |  |
-| HIGH_QUALITY |  |
-| NONE |  |
-| ANTI_ALIAS |  |
-
-
+| `INVALID` |  |
+| `DEFAULT` |  |
+| `HIGH_SPEED` |  |
+| `HIGH_QUALITY` |  |
+| `NONE` |  |
+| `ANTI_ALIAS` |  |
 
 ### See Also
-* module [`aspose.page.drawing.drawing2d`](..)
+
+* module [`aspose.page.drawing.drawing2d`](/page/python-net/aspose.page.drawing.drawing2d/)
+* package [`aspose.page`](/page/python-net/)
+

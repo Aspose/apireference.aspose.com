@@ -1,18 +1,16 @@
-﻿---
+---
 title: aspose.page.drawing.imaging
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 10
+weight: 40
 url: /python-net/aspose.page.drawing.imaging/
-is_root: false
 ---
 
-The **Aspose.Page.Drawing.Imaging**  is a root namespace for System.Drawing.Imaging wrapper classes.
 
-### Enumerations
+The **aspose.page.drawing.imaging** is a root namespace for System.Drawing.Imaging wrapper classes.
+
+## Enumerations
 | Enumeration | Description |
 | :- | :- |
-| [`ImageFormat`](/page/python-net/aspose.page.drawing.imaging/imageformat) |  |
-
-
+| [`ImageFormat`](/page/python-net/aspose.page.drawing.imaging/imageformat/) |  |

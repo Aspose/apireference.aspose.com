@@ -1,54 +1,45 @@
-﻿---
+---
 title: ImageSaveOptions class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 10
 url: /python-net/aspose.page.eps.device/imagesaveoptions/
-is_root: false
 ---
 
 ## ImageSaveOptions class
 
 This class contains options necessary for managing image saving process.
 
-
-
-**Inheritance:** [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) → 
-[`SaveOptions`](/page/python-net/aspose.page/saveoptions)
-
-
+**Inheritance:** `ImageSaveOptions` → [`SaveOptions`](/page/python-net/aspose.page/saveoptions)
 
 The ImageSaveOptions type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) class with default values <br/>for flags SuppressErrors (true) and Debug (false). |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#aspose.page.drawing.imaging.ImageFormat) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) with<br/>with specified image format. |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#aspose.page.drawing.Size) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) with<br/>with specified size of the image. |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#aspose.page.drawing.Size-aspose.page.drawing.imaging.ImageFormat) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) with<br/>with specified size of the image and image format. |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#aspose.page.drawing.imaging.ImageFormat-bool) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) with<br/>with specified image format. |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#aspose.page.drawing.Size-bool) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) with<br/>with specified size. |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#aspose.page.drawing.Size-aspose.page.drawing.imaging.ImageFormat-bool) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) with<br/>with specified size of the image and image format. |
-| [__init__](/page/python-net/aspose.page.eps.device/imagesaveoptions/__init__/#bool) | Initializes a new instance of the [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions) with<br/>default value for flag Debug (false). |
-
-
-### Properties
-| Property | Description |
+| `ImageSaveOptions()` | Initializes a new instance of the [ImageSaveOptions](/page/python-net/aspose.page.eps.device/imagesaveoptions/) class with default values <br/>            for flags SuppressErrors (true) and  (false). |
+| `ImageSaveOptions(image_format)` | Initializes a new instance of the ImageSaveOptions class |
+| `ImageSaveOptions(size)` | Initializes a new instance of the ImageSaveOptions class |
+| `ImageSaveOptions(size, image_format)` | Initializes a new instance of the ImageSaveOptions class |
+| `ImageSaveOptions(image_format, supress_errors)` | Initializes a new instance of the ImageSaveOptions class |
+| `ImageSaveOptions(size, supress_errors)` | Initializes a new instance of the ImageSaveOptions class |
+| `ImageSaveOptions(size, image_format, supress_errors)` | Initializes a new instance of the ImageSaveOptions class |
+| `ImageSaveOptions(supress_errors)` | Initializes a new instance of the ImageSaveOptions class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [supress_errors](/page/python-net/aspose.page.eps.device/imagesaveoptions/supress_errors) | Specifies whether errors must be suppressed or not.<br/>If true suppressed errors are added to [`SaveOptions.Exceptions`](/page/python-net/aspose.page/saveoptions) list.<br/>If false the first error will terminate the program. |
-| [size](/page/python-net/aspose.page.eps.device/imagesaveoptions/size) | Gets/sets the size of the image. |
-| [debug](/page/python-net/aspose.page.eps.device/imagesaveoptions/debug) | Specifies whether debug information must be printed to standard output stream or not. |
-| [additional_fonts_folders](/page/python-net/aspose.page.eps.device/imagesaveoptions/additional_fonts_folders) | Specifies additional folders where converter should find fonts for input document.<br/>Default folder are standard fonts folder where OS finds fonts for internal needs. |
-| [jpeg_quality_level](/page/python-net/aspose.page.eps.device/imagesaveoptions/jpeg_quality_level) | The Quality category specifies the level of compression for an image.<br/>Available values are 0 to 100. <br/>The lower the number specified, the higher the compression and therefore the lower the quality of the image. <br/>0 value results in lowest quality image, while 100 results in highest. |
-| [smoothing_mode](/page/python-net/aspose.page.eps.device/imagesaveoptions/smoothing_mode) | Gets/sets the smoothing mode for rendering image. |
-| [resolution](/page/python-net/aspose.page.eps.device/imagesaveoptions/resolution) | Gets/sets the image resolution. |
-| [image_format](/page/python-net/aspose.page.eps.device/imagesaveoptions/image_format) | Gets/sets an image format for resulting image. |
-
-
+| `supress_errors` | Specifies whether errors must be suppressed or not.<br/>            If true suppressed errors are added to [None](/page/python-net/aspose.page/saveoptions/) list.<br/>            If false the first error will terminate the program. |
+| `size` | Gets/sets the size of the image. |
+| `debug` | Specifies whether debug information must be printed to standard output stream or not. |
+| `additional_fonts_folders` | Specifies additional folders where converter should find fonts for input document.<br/>            Default folder are standard fonts folder where OS finds fonts for internal needs. |
+| `jpeg_quality_level` | The Quality category specifies the level of compression for an image.<br/>            Available values are 0 to 100. <br/>            The lower the number specified, the higher the compression and therefore the lower the quality of the image. <br/>            0 value results in lowest quality image, while 100 results in highest. |
+| `smoothing_mode` | Gets/sets the smoothing mode for rendering image. |
+| `resolution` | Gets/sets the image resolution. |
+| `image_format` | Gets/sets an image format for resulting image. |
+| `try_join_image_fragments` | The flag for combining image fragments into one picture. |
 
 ### See Also
-* module [`aspose.page.eps.device`](..)
-* class [`ImageSaveOptions`](/page/python-net/aspose.page.eps.device/imagesaveoptions)
-* class [`SaveOptions`](/page/python-net/aspose.page/saveoptions)
+
+* module [`aspose.page.eps.device`](/page/python-net/aspose.page.eps.device/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,55 +1,34 @@
-﻿---
+---
 title: PageDeviceColorSpaceUsage class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 950
+weight: 1480
 url: /python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
-is_root: false
 ---
 
 ## PageDeviceColorSpaceUsage class
 
-In conjunction with the [`PageDeviceColorSpaceProfileURI`](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceprofileuri) parameter, this parameter defines
-the rendering behavior for elements presented in a device color space.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedevicecolorspaceusage
+In conjunction with the [PageDeviceColorSpaceProfileURI](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceprofileuri/) parameter, this parameter defines<br/>            the rendering behavior for elements presented in a device color space.<br/>            https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedevicecolorspaceusage
 
-
-
-**Inheritance:** [`PageDeviceColorSpaceUsage`](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage) → 
-[`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → 
-[`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `PageDeviceColorSpaceUsage` → [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The PageDeviceColorSpaceUsage type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/__init__/#list) | Constructs a new instance of PageDeviceColorSpaceUsage |
-
-
-### Properties
-| Property | Description |
+| `PageDeviceColorSpaceUsage(options)` | Initializes a new instance of the PageDeviceColorSpaceUsage class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/name) | Gets the element name. |
-
-
-### Methods
-| Method | Description |
+| `name` | Gets the element name. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [add](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/add/#list) | Adds a list of items to the end of this feature's item list. <br/>Each one must be a [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature), an [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option) or a [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) instance. |
-
-
+| `add(items)` | Adds a list of items to the end of this feature's item list. <br/>            Each one must be a [Feature](/page/python-net/aspose.page.xps.xpsmetadata/feature/), an [Option](/page/python-net/aspose.page.xps.xpsmetadata/option/), or a [Property](/page/python-net/aspose.page.xps.xpsmetadata/property/) instance. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement)
-* class [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature)
-* class [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option)
-* class [`PageDeviceColorSpaceProfileURI`](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceprofileuri)
-* class [`PageDeviceColorSpaceUsage`](/page/python-net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

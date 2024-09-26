@@ -1,11 +1,10 @@
-﻿---
+---
 title: BuildVersionInfo class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
 url: /python-net/aspose.page/buildversioninfo/
-is_root: false
 ---
 
 ## BuildVersionInfo class
@@ -15,21 +14,19 @@ This class provides information about current product build.
 
 
 The BuildVersionInfo type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page/buildversioninfo/__init__/#) | Constructs a new instance of BuildVersionInfo |
-
-
-### Properties
-| Property | Description |
+| `BuildVersionInfo()` | Initializes a new instance of the BuildVersionInfo class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [ASSEMBLY_VERSION](/page/python-net/aspose.page/buildversioninfo/assembly_version) | Assembly Version |
-| [PRODUCT](/page/python-net/aspose.page/buildversioninfo/product) | Product Name |
-| [FILE_VERSION](/page/python-net/aspose.page/buildversioninfo/file_version) | File Version |
-
-
+| `ASSEMBLY_VERSION` | Assembly Version |
+| `PRODUCT` | Product Name |
+| `FILE_VERSION` | File Version |
 
 ### See Also
-* module [`aspose.page`](..)
+
+* module [`aspose.page`](/page/python-net/aspose.page/)
+* package [`aspose.page`](/page/python-net/)
+

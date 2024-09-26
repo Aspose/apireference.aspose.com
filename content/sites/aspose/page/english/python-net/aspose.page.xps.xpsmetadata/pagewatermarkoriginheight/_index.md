@@ -1,48 +1,33 @@
-﻿---
+---
 title: PageWatermarkOriginHeight class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 1320
+weight: 2250
 url: /python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
-is_root: false
 ---
 
 ## PageWatermarkOriginHeight class
 
-Specifies the origin of a watermark relative to the origin of the `PageImageableSize`.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarkoriginheight
+Specifies the origin of a watermark relative to the origin of the
 
-
-
-**Inheritance:** [`PageWatermarkOriginHeight`](/page/python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight) → 
-[`IntegerParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/integerparameterinit) → 
-[`ParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/parameterinit) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `PageWatermarkOriginHeight` → [`IntegerParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/integerparameterinit) → [`ParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/parameterinit) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The PageWatermarkOriginHeight type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/__init__/#int) | Creates a new instance. |
-
-
-### Properties
-| Property | Description |
+| `PageWatermarkOriginHeight(value)` | Initializes a new instance of the PageWatermarkOriginHeight class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/name) | Gets the element name. |
-| [min_value](/page/python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/min_value) | For integer- or decimal-valued parameters, defines the smallest allowed value. |
-| [max_value](/page/python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/max_value) | For integer- or decimal-valued parameters, defines the largest allowed value. |
-| [multiple](/page/python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/multiple) | For integer- or decimal-valued parameters, the value of the parameter should be a multiple of this number. |
-
-
+| `name` | Gets the element name. |
+| `min_value` | For integer- or decimal-valued parameters, defines the smallest allowed value. |
+| `max_value` | For integer- or decimal-valued parameters, defines the largest allowed value. |
+| `multiple` | For integer- or decimal-valued parameters, the value of the parameter should be a multiple of this number. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`IntegerParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/integerparameterinit)
-* class [`PageWatermarkOriginHeight`](/page/python-net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight)
-* class [`ParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/parameterinit)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

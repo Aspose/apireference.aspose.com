@@ -1,47 +1,32 @@
-﻿---
+---
 title: PageDestinationColorProfileEmbedded class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 920
+weight: 1450
 url: /python-net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/
-is_root: false
 ---
 
 ## PageDestinationColorProfileEmbedded class
 
-Specifies the embedded destination color profile.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedestinationcolorprofileembedded
+Specifies the embedded destination color profile.<br/>            https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedestinationcolorprofileembedded
 
-
-
-**Inheritance:** [`PageDestinationColorProfileEmbedded`](/page/python-net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded) → 
-[`StringParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/stringparameterinit) → 
-[`ParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/parameterinit) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `PageDestinationColorProfileEmbedded` → [`StringParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/stringparameterinit) → [`ParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/parameterinit) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The PageDestinationColorProfileEmbedded type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/__init__/#str) | Creates a new instance. |
-
-
-### Properties
-| Property | Description |
+| `PageDestinationColorProfileEmbedded(value)` | Initializes a new instance of the PageDestinationColorProfileEmbedded class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/name) | Gets the element name. |
-| [min_length](/page/python-net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/min_length) | For string values, defines the shortest allowed string. |
-| [max_length](/page/python-net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/max_length) | For string values, defines the longest allowed string. |
-
-
+| `name` | Gets the element name. |
+| `min_length` | For string values, defines the shortest allowed string. |
+| `max_length` | For string values, defines the longest allowed string. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`PageDestinationColorProfileEmbedded`](/page/python-net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded)
-* class [`ParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/parameterinit)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`StringParameterInit`](/page/python-net/aspose.page.xps.xpsmetadata/stringparameterinit)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

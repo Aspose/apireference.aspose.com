@@ -1,49 +1,31 @@
-﻿---
+---
 title: PageImageableSize class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 990
+weight: 1560
 url: /python-net/aspose.page.xps.xpsmetadata/pageimageablesize/
-is_root: false
 ---
 
 ## PageImageableSize class
 
-Describes the imaged canvas for layout and rendering. This will be reported based on
-[`PageMediaSize`](/page/python-net/aspose.page.xps.xpsmetadata/pagemediasize) and [`PageOrientation`](/page/python-net/aspose.page.xps.xpsmetadata/pageorientation).
-https://docs.microsoft.com/en-us/windows/win32/printdocs/pageimageablesize
+Describes the imaged canvas for layout and rendering. This will be reported based on<br/>            [PageMediaSize](/page/python-net/aspose.page.xps.xpsmetadata/pagemediasize/) and [PageOrientation](/page/python-net/aspose.page.xps.xpsmetadata/pageorientation/).<br/>            https://docs.microsoft.com/en-us/windows/win32/printdocs/pageimageablesize
 
-
-
-**Inheritance:** [`PageImageableSize`](/page/python-net/aspose.page.xps.xpsmetadata/pageimageablesize) → 
-[`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) → 
-[`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `PageImageableSize` → [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) → [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The PageImageableSize type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pageimageablesize/__init__/#int-int) | Creates a new instance. |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pageimageablesize/__init__/#int-int-int-int-int-int) | Creates a new instance. |
-
-
-### Properties
-| Property | Description |
+| `PageImageableSize(width, height)` | Initializes a new instance of the PageImageableSize class |
+| `PageImageableSize(width, height, origin_width, origin_height, extent_width, extent_height)` | Initializes a new instance of the PageImageableSize class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/pageimageablesize/name) | Gets the element name. |
-
-
+| `name` | Gets the element name. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement)
-* class [`PageImageableSize`](/page/python-net/aspose.page.xps.xpsmetadata/pageimageablesize)
-* class [`PageMediaSize`](/page/python-net/aspose.page.xps.xpsmetadata/pagemediasize)
-* class [`PageOrientation`](/page/python-net/aspose.page.xps.xpsmetadata/pageorientation)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,41 +1,38 @@
-﻿---
+---
 title: PointF class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
 url: /python-net/aspose.page.drawing/pointf/
-is_root: false
 ---
 
 ## PointF class
 
+Represents an ordered pair of floating-point x- and y-coordinates that defines a point in a two-dimensional plane.
+
 
 
 The PointF type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.drawing/pointf/__init__/#float-float) | Constructs a new instance of PointF |
-| [__init__](/page/python-net/aspose.page.drawing/pointf/__init__/#) | Constructs a new instance of PointF |
-
-
-### Properties
-| Property | Description |
+| `PointF(x, y)` | Initializes a new instance of the PointF class |
+| `PointF()` | Initializes a new instance of the PointF class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [is_empty](/page/python-net/aspose.page.drawing/pointf/is_empty) |  |
-| [x](/page/python-net/aspose.page.drawing/pointf/x) |  |
-| [y](/page/python-net/aspose.page.drawing/pointf/y) |  |
-| [EMPTY](/page/python-net/aspose.page.drawing/pointf/empty) |  |
-
-
-### Methods
-| Method | Description |
+| `is_empty` | Gets a value indicating whether this [PointF](/page/python-net/aspose.page.drawing/pointf/) is empty. |
+| `x` | Gets or sets the x-coordinate of this [PointF](/page/python-net/aspose.page.drawing/pointf/). |
+| `y` | Gets or sets the y-coordinate of this [PointF](/page/python-net/aspose.page.drawing/pointf/). |
+| `EMPTY` | Represents a new instance of the aspose.pydrawing.PointF class with member data left uninitialized. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [clone](/page/python-net/aspose.page.drawing/pointf/clone/#) |  |
-
-
+| `clone()` | Clones this Aspose.Page.Drawing.PointF. |
 
 ### See Also
-* module [`aspose.page.drawing`](..)
+
+* module [`aspose.page.drawing`](/page/python-net/aspose.page.drawing/)
+* package [`aspose.page`](/page/python-net/)
+
