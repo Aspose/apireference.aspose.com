@@ -1,32 +1,30 @@
-﻿---
+---
 title: XpsConverter class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 170
 url: /python-net/aspose.page.plugins/xpsconverter/
-is_root: false
 ---
 
 ## XpsConverter class
 
 
 
+
+
 The XpsConverter type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.plugins/xpsconverter/__init__/#) | Constructs a new instance of XpsConverter |
-
-
-### Methods
-| Method | Description |
+| `XpsConverter()` | Initializes a new instance of the XpsConverter class |
+## Methods
+| Name | Description |
 | :- | :- |
-| [process](/page/python-net/aspose.page.plugins/xpsconverter/process/#aspose.page.plugins.IPluginOptions) | Starts the XpsConverter processing with the specified parameters. |
-
-
+| `process(options)` | Starts the XpsConverter processing with the specified parameters. |
 
 ### See Also
-* module [`aspose.page.plugins`](..)
-* class [`IPlugin`](/page/python-net/aspose.page.plugins/iplugin)
+
+* module [`aspose.page.plugins`](/page/python-net/aspose.page.plugins/)
+* package [`aspose.page`](/page/python-net/)
+

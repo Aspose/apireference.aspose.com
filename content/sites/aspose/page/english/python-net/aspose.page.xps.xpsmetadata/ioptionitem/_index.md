@@ -1,29 +1,26 @@
-﻿---
+---
 title: IOptionItem class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 460
 url: /python-net/aspose.page.xps.xpsmetadata/ioptionitem/
-is_root: false
 ---
 
 ## IOptionItem class
 
-The interface of classes that may be Print Schema [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option) items.
+The interface of classes that may be Print Schema [Option](/page/python-net/aspose.page.xps.xpsmetadata/option/) items.
 
 
 
 The IOptionItem type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/ioptionitem/name) | The child name. |
-
-
+| `name` | The child name. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`IPrintTicketElementChild`](/page/python-net/aspose.page.xps.xpsmetadata/iprintticketelementchild)
-* class [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

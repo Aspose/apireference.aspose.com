@@ -1,11 +1,10 @@
-﻿---
+---
 title: IGlyph class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /python-net/aspose.page/iglyph/
-is_root: false
 ---
 
 ## IGlyph class
@@ -15,15 +14,15 @@ This interface give access to main parameters of glyphs.
 
 
 The IGlyph type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [advance_width](/page/python-net/aspose.page/iglyph/advance_width) | Returns advanced width of the glyph. |
-| [char_code](/page/python-net/aspose.page/iglyph/char_code) | Returns char code of the glyph. |
-| [left_side_bearing](/page/python-net/aspose.page/iglyph/left_side_bearing) | Returns left side bearing of the glyph. |
-
-
+| `advance_width` | Returns advanced width of the glyph. |
+| `char_code` | Returns char code of the glyph. |
+| `left_side_bearing` | Returns left side bearing of the glyph. |
 
 ### See Also
-* module [`aspose.page`](..)
+
+* module [`aspose.page`](/page/python-net/aspose.page/)
+* package [`aspose.page`](/page/python-net/)
+

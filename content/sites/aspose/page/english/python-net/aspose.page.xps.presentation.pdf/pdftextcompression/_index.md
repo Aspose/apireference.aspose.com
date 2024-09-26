@@ -1,30 +1,26 @@
-﻿---
+---
 title: PdfTextCompression enumeration
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 50
 url: /python-net/aspose.page.xps.presentation.pdf/pdftextcompression/
-is_root: false
 ---
 
 ## PdfTextCompression enumeration
 
 Specifies a type of compression applied to all contents in the PDF file except images.
 
-
-
-The PdfTextCompression type exposes the following members:
-
-### Fields
-| Field | Description |
+## Members
+| Member name | Description |
 | :- | :- |
-| NONE | None compression type |
-| RLE | Rle compression type |
-| LZW | Lzw compression type |
-| FLATE | Flate compression type |
-
-
+| `NONE` | None compression type |
+| `RLE` | Rle compression type |
+| `LZW` | Lzw compression type |
+| `FLATE` | Flate compression type |
 
 ### See Also
-* module [`aspose.page.xps.presentation.pdf`](..)
+
+* module [`aspose.page.xps.presentation.pdf`](/page/python-net/aspose.page.xps.presentation.pdf/)
+* package [`aspose.page`](/page/python-net/)
+

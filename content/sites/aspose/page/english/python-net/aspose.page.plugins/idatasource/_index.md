@@ -1,11 +1,10 @@
-﻿---
+---
 title: IDataSource class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 50
 url: /python-net/aspose.page.plugins/idatasource/
-is_root: false
 ---
 
 ## IDataSource class
@@ -15,13 +14,13 @@ General data source interface that defines common members that concrete data sou
 
 
 The IDataSource type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [data_type](/page/python-net/aspose.page.plugins/idatasource/data_type) | Type of data source (file or stream). |
-
-
+| `data_type` | Type of data source (file or stream). |
 
 ### See Also
-* module [`aspose.page.plugins`](..)
+
+* module [`aspose.page.plugins`](/page/python-net/aspose.page.plugins/)
+* package [`aspose.page`](/page/python-net/)
+

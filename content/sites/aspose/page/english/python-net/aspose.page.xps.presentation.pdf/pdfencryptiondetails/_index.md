@@ -1,11 +1,10 @@
-﻿---
+---
 title: PdfEncryptionDetails class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 10
 url: /python-net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/
-is_root: false
 ---
 
 ## PdfEncryptionDetails class
@@ -15,22 +14,20 @@ Contains details for a pdf encryption.
 
 
 The PdfEncryptionDetails type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/__init__/#str-str-int-aspose.page.xps.presentation.pdf.PdfEncryptionAlgorithm) | Initializes a new instance of the PdfEncryptionDetailsCore class. |
-
-
-### Properties
-| Property | Description |
+| `PdfEncryptionDetails(user_password, owner_password, permissions, encryption_algorithm)` | Initializes a new instance of the PdfEncryptionDetails class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [user_password](/page/python-net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/user_password) | Gets or sets the User password. |
-| [owner_password](/page/python-net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/owner_password) | Gets or sets the Owner password. |
-| [permissions](/page/python-net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/permissions) | Gets or sets the permissions. |
-| [encryption_algorithm](/page/python-net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/encryption_algorithm) | Gets or sets the encryption mode. |
-
-
+| `user_password` | Gets or sets the User password. |
+| `owner_password` | Gets or sets the Owner password. |
+| `permissions` | Gets or sets the permissions. |
+| `encryption_algorithm` | Gets or sets the encryption mode. |
 
 ### See Also
-* module [`aspose.page.xps.presentation.pdf`](..)
+
+* module [`aspose.page.xps.presentation.pdf`](/page/python-net/aspose.page.xps.presentation.pdf/)
+* package [`aspose.page`](/page/python-net/)
+

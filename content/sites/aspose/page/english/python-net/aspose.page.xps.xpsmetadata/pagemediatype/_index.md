@@ -1,53 +1,34 @@
-﻿---
+---
 title: PageMediaType class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 1100
+weight: 1710
 url: /python-net/aspose.page.xps.xpsmetadata/pagemediatype/
-is_root: false
 ---
 
 ## PageMediaType class
 
-Describes the `MediaType` options and the characteristics of each option.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediatype
+Describes the
 
-
-
-**Inheritance:** [`PageMediaType`](/page/python-net/aspose.page.xps.xpsmetadata/pagemediatype) → 
-[`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → 
-[`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `PageMediaType` → [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature) → [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The PageMediaType type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/pagemediatype/__init__/#list) | Constructs a new instance of PageMediaType |
-
-
-### Properties
-| Property | Description |
+| `PageMediaType(items)` | Initializes a new instance of the PageMediaType class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/pagemediatype/name) | Gets the element name. |
-
-
-### Methods
-| Method | Description |
+| `name` | Gets the element name. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [add](/page/python-net/aspose.page.xps.xpsmetadata/pagemediatype/add/#list) | Adds a list of items to the end of this feature's item list. <br/>Each one must be a [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature), an [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option) or a [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) instance. |
-
-
+| `add(items)` | Adds a list of items to the end of this feature's item list. <br/>            Each one must be a [Feature](/page/python-net/aspose.page.xps.xpsmetadata/feature/), an [Option](/page/python-net/aspose.page.xps.xpsmetadata/option/), or a [Property](/page/python-net/aspose.page.xps.xpsmetadata/property/) instance. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement)
-* class [`Feature`](/page/python-net/aspose.page.xps.xpsmetadata/feature)
-* class [`Option`](/page/python-net/aspose.page.xps.xpsmetadata/option)
-* class [`PageMediaType`](/page/python-net/aspose.page.xps.xpsmetadata/pagemediatype)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,28 +1,22 @@
-﻿---
+---
 title: XpsFont class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 100
 url: /python-net/aspose.page.xps.xpsmodel/xpsfont/
-is_root: false
 ---
 
 ## XpsFont class
 
 Class incapsulating a TrueType font resource.
 
-
-
-**Inheritance:** [`XpsFont`](/page/python-net/aspose.page.xps.xpsmodel/xpsfont) → 
-[`XpsFileResource`](/page/python-net/aspose.page.xps.xpsmodel/xpsfileresource)
-
-
+**Inheritance:** `XpsFont` → [`XpsFileResource`](/page/python-net/aspose.page.xps.xpsmodel/xpsfileresource)
 
 The XpsFont type exposes the following members:
 
-
 ### See Also
-* module [`aspose.page.xps.xpsmodel`](..)
-* class [`XpsFileResource`](/page/python-net/aspose.page.xps.xpsmodel/xpsfileresource)
-* class [`XpsFont`](/page/python-net/aspose.page.xps.xpsmodel/xpsfont)
+
+* module [`aspose.page.xps.xpsmodel`](/page/python-net/aspose.page.xps.xpsmodel/)
+* package [`aspose.page`](/page/python-net/)
+

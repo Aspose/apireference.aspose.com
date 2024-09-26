@@ -1,43 +1,31 @@
-﻿---
+---
 title: XpsGradientStop class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 130
 url: /python-net/aspose.page.xps.xpsmodel/xpsgradientstop/
-is_root: false
 ---
 
 ## XpsGradientStop class
 
-Class incapsulating GradientStop element features.
-This  element is used by both the LinearGradientBrush and RadialGradientBrush elements to define
-the location and range of color progression for rendering a gradient.
+Class incapsulating GradientStop element features.<br/>            This  element is used by both the LinearGradientBrush and RadialGradientBrush elements to define<br/>            the location and range of color progression for rendering a gradient.
 
-
-
-**Inheritance:** [`XpsGradientStop`](/page/python-net/aspose.page.xps.xpsmodel/xpsgradientstop) → 
-[`XpsObject`](/page/python-net/aspose.page.xps.xpsmodel/xpsobject)
-
-
+**Inheritance:** `XpsGradientStop` → [`XpsObject`](/page/python-net/aspose.page.xps.xpsmodel/xpsobject)
 
 The XpsGradientStop type exposes the following members:
-
-### Properties
-| Property | Description |
+## Properties
+| Name | Description |
 | :- | :- |
-| [color](/page/python-net/aspose.page.xps.xpsmodel/xpsgradientstop/color) | The gradient stop color. |
-| [offset](/page/python-net/aspose.page.xps.xpsmodel/xpsgradientstop/offset) | Returns/sets the gradient offset. The offset indicates a point along the progression of<br/>the gradient at which a color is specified. Colors between gradient offsets in<br/>the progression are interpolated. |
-
-
-### Methods
-| Method | Description |
+| `color` | The gradient stop color. |
+| `offset` | Returns/sets the gradient offset. The offset indicates a point along the progression of<br/>            the gradient at which a color is specified. Colors between gradient offsets in<br/>            the progression are interpolated. |
+## Methods
+| Name | Description |
 | :- | :- |
-| [clone](/page/python-net/aspose.page.xps.xpsmodel/xpsgradientstop/clone/#) | Clones this gradient stop. |
-
-
+| `clone()` | Clones this gradient stop. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmodel`](..)
-* class [`XpsGradientStop`](/page/python-net/aspose.page.xps.xpsmodel/xpsgradientstop)
-* class [`XpsObject`](/page/python-net/aspose.page.xps.xpsmodel/xpsobject)
+
+* module [`aspose.page.xps.xpsmodel`](/page/python-net/aspose.page.xps.xpsmodel/)
+* package [`aspose.page`](/page/python-net/)
+

@@ -1,32 +1,30 @@
-﻿---
+---
 title: PsConverter class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 90
 url: /python-net/aspose.page.plugins/psconverter/
-is_root: false
 ---
 
 ## PsConverter class
 
 
 
+
+
 The PsConverter type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.plugins/psconverter/__init__/#) | Constructs a new instance of PsConverter |
-
-
-### Methods
-| Method | Description |
+| `PsConverter()` | Initializes a new instance of the PsConverter class |
+## Methods
+| Name | Description |
 | :- | :- |
-| [process](/page/python-net/aspose.page.plugins/psconverter/process/#aspose.page.plugins.IPluginOptions) | Starts the PsConverter processing with the specified parameters. |
-
-
+| `process(options)` | Starts the PsConverter processing with the specified parameters. |
 
 ### See Also
-* module [`aspose.page.plugins`](..)
-* class [`IPlugin`](/page/python-net/aspose.page.plugins/iplugin)
+
+* module [`aspose.page.plugins`](/page/python-net/aspose.page.plugins/)
+* package [`aspose.page`](/page/python-net/)
+

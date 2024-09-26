@@ -1,140 +1,124 @@
-﻿---
+---
 title: XpsDocument class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 30
 url: /python-net/aspose.page.xps/xpsdocument/
-is_root: false
 ---
 
 ## XpsDocument class
 
-Class incapsulating the main entity of XPS document that provides manipulation
-methods for any XPS element.
+Class incapsulating the main entity of XPS document that provides manipulation<br/>            methods for any XPS element.
 
-
-
-**Inheritance:** [`XpsDocument`](/page/python-net/aspose.page.xps/xpsdocument) → 
-[`Document`](/page/python-net/aspose.page/document)
-
-
+**Inheritance:** `XpsDocument` → [`Document`](/page/python-net/aspose.page/document)
 
 The XpsDocument type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps/xpsdocument/__init__/#) | Creates empty XPS document with default page size. |
-| [__init__](/page/python-net/aspose.page.xps/xpsdocument/__init__/#str) | Opens an existing XPS document located at the `path`. |
-| [__init__](/page/python-net/aspose.page.xps/xpsdocument/__init__/#str-aspose.page.eps.LoadOptions) | Opens an existing document located at the `path` as XPS document. |
-| [__init__](/page/python-net/aspose.page.xps/xpsdocument/__init__/#io.RawIOBase-aspose.page.eps.LoadOptions) | Loads an existing document stored in the `stream` as XPS document. |
-
-
-### Properties
-| Property | Description |
+| `XpsDocument()` | Creates empty XPS document with default page size. |
+| `XpsDocument(path)` | Initializes a new instance of the XpsDocument class |
+| `XpsDocument(path, options)` | Initializes a new instance of the XpsDocument class |
+| `XpsDocument(stream, options)` | Initializes a new instance of the XpsDocument class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [utils](/page/python-net/aspose.page.xps/xpsdocument/utils) | Gets the object that provides utilities beyond the formal XPS manipulation API. |
-| [active_document](/page/python-net/aspose.page.xps/xpsdocument/active_document) | Gets the active document number. |
-| [active_page](/page/python-net/aspose.page.xps/xpsdocument/active_page) | Gets the active page number within the active document. |
-| [page](/page/python-net/aspose.page.xps/xpsdocument/page) | Returns an [`XpsPage`](/page/python-net/aspose.page.xps.xpsmodel/xpspage) instance for active page. |
-| [document_count](/page/python-net/aspose.page.xps/xpsdocument/document_count) | Returns the number of documents inside the XPS package. |
-| [total_page_count](/page/python-net/aspose.page.xps/xpsdocument/total_page_count) | Returns total number of pages in all documents inside XPS document. |
-| [page_count](/page/python-net/aspose.page.xps/xpsdocument/page_count) | Returns the number of pages in the active document. |
-| [job_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/job_print_ticket) | Returns/sets document's job print ticket |
-
-
-### Methods
-| Method | Description |
+| `utils` | Gets the object that provides utilities beyond the formal XPS manipulation API. |
+| `active_document` | Gets the active document number. |
+| `active_page` | Gets the active page number within the active document. |
+| `page` | Returns an [XpsPage](/page/python-net/aspose.page.xps.xpsmodel/xpspage/) instance for active page. |
+| `document_count` | Returns the number of documents inside the XPS package. |
+| `total_page_count` | Returns total number of pages in all documents inside XPS document. |
+| `page_count` | Returns the number of pages in the active document. |
+| `job_print_ticket` | Returns/sets document's job print ticket |
+## Methods
+| Name | Description |
 | :- | :- |
-| [save](/page/python-net/aspose.page.xps/xpsdocument/save/#str) | Saves XPS document to XPS file located at the `path`. |
-| [save](/page/python-net/aspose.page.xps/xpsdocument/save/#io.RawIOBase) | Saves XPS document to stream. |
-| [save](/page/python-net/aspose.page.xps/xpsdocument/save/#aspose.page.Device-aspose.page.SaveOptions) | Saves the document using the [`Device`](/page/python-net/aspose.page/device) instance. |
-| [save_as_pdf](/page/python-net/aspose.page.xps/xpsdocument/save_as_pdf/#str-aspose.page.xps.presentation.pdf.PdfSaveOptions) | Saves the document in PDF format. |
-| [save_as_pdf](/page/python-net/aspose.page.xps/xpsdocument/save_as_pdf/#io.RawIOBase-aspose.page.xps.presentation.pdf.PdfSaveOptions) | Saves the document in PDF format. |
-| [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-aspose.page.Device-aspose.page.SaveOptions) | Merging XPS documents to PDF using the [`Device`](/page/python-net/aspose.page/device) instance. |
-| [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-str) | Merging several XPS files to one XPS document. |
-| [merge](/page/python-net/aspose.page.xps/xpsdocument/merge/#list-io.RawIOBase) | Merging several XPS files to one XPS document. |
-| [merge_to_pdf](/page/python-net/aspose.page.xps/xpsdocument/merge_to_pdf/#io.RawIOBase-list-aspose.page.SaveOptions) | Merging XPS documents to PDF using the [`Device`](/page/python-net/aspose.page/device) instance. |
-| [merge_to_pdf](/page/python-net/aspose.page.xps/xpsdocument/merge_to_pdf/#str-list-aspose.page.SaveOptions) | Merging XPS documents to PDF using the [`Device`](/page/python-net/aspose.page/device) instance. |
-| [add_canvas](/page/python-net/aspose.page.xps/xpsdocument/add_canvas/#aspose.page.xps.xpsmodel.XpsCanvas) | Adds a canvas |
-| [add_canvas](/page/python-net/aspose.page.xps/xpsdocument/add_canvas/#) | Adds a new canvas to the active page. |
-| [add_path](/page/python-net/aspose.page.xps/xpsdocument/add_path/#aspose.page.xps.xpsmodel.XpsPath) | Adds a path element |
-| [add_path](/page/python-net/aspose.page.xps/xpsdocument/add_path/#aspose.page.xps.xpsmodel.XpsPathGeometry) | Adds a new path to the active page. |
-| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#aspose.page.xps.xpsmodel.XpsGlyphs) | Adds a glyphs element |
-| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#str-float-aspose.pydrawing.FontStyle-float-float-str) | Adds new glyphs to the active page. |
-| [add_glyphs](/page/python-net/aspose.page.xps/xpsdocument/add_glyphs/#aspose.page.xps.xpsmodel.XpsFont-float-float-float-str) | Adds new glyphs to the active page. |
-| [add_document](/page/python-net/aspose.page.xps/xpsdocument/add_document/#bool) | Adds an empty document with default page size. |
-| [add_document](/page/python-net/aspose.page.xps/xpsdocument/add_document/#float-float-bool) | Adds an empty document with the first page dimensions<br/>`width` and `height`. |
-| [insert_document](/page/python-net/aspose.page.xps/xpsdocument/insert_document/#int-bool) | Inserts an empty document with default page size<br/>at `index` position. |
-| [insert_document](/page/python-net/aspose.page.xps/xpsdocument/insert_document/#int-float-float-bool) | Inserts an empty document with the first page dimensions<br/>`width` and `height` at `index` position. |
-| [add_page](/page/python-net/aspose.page.xps/xpsdocument/add_page/#bool) | Adds an empty page to the document with default page size. |
-| [add_page](/page/python-net/aspose.page.xps/xpsdocument/add_page/#float-float-bool) | Adds an empty page to the document with specified <br/>`width` and `height`. |
-| [add_page](/page/python-net/aspose.page.xps/xpsdocument/add_page/#aspose.page.xps.xpsmodel.XpsPage-bool) | Adds a page to the document. |
-| [insert_page](/page/python-net/aspose.page.xps/xpsdocument/insert_page/#int-bool) | Inserts an empty page to the document with default page size<br/>at `index` position. |
-| [insert_page](/page/python-net/aspose.page.xps/xpsdocument/insert_page/#int-float-float-bool) | Inserts an empty page to the document with specified <br/>`width` and `height` at `index` position. |
-| [insert_page](/page/python-net/aspose.page.xps/xpsdocument/insert_page/#int-aspose.page.xps.xpsmodel.XpsPage-bool) | Inserts a page to the document at `index` position. |
-| [create_glyphs](/page/python-net/aspose.page.xps/xpsdocument/create_glyphs/#str-float-aspose.pydrawing.FontStyle-float-float-str) | Creates new glyphs. |
-| [create_glyphs](/page/python-net/aspose.page.xps/xpsdocument/create_glyphs/#aspose.page.xps.xpsmodel.XpsFont-float-float-float-str) | Creates new glyphs. |
-| [insert_glyphs](/page/python-net/aspose.page.xps/xpsdocument/insert_glyphs/#int-str-float-aspose.pydrawing.FontStyle-float-float-str) | Inserts new glyphs to the active page at `index` position. |
-| [insert_glyphs](/page/python-net/aspose.page.xps/xpsdocument/insert_glyphs/#int-aspose.page.xps.xpsmodel.XpsFont-float-float-float-str) | Inserts new glyphs to the active page at `index` position. |
-| [create_path_geometry](/page/python-net/aspose.page.xps/xpsdocument/create_path_geometry/#str) | Creates a new path geometry specified with abbreviated form. |
-| [create_path_geometry](/page/python-net/aspose.page.xps/xpsdocument/create_path_geometry/#) | Creates a new path geometry. |
-| [create_path_geometry](/page/python-net/aspose.page.xps/xpsdocument/create_path_geometry/#System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathFigure>) |  |
-| [create_path_figure](/page/python-net/aspose.page.xps/xpsdocument/create_path_figure/#aspose.pydrawing.PointF-bool) | Creates a new path figure. |
-| [create_path_figure](/page/python-net/aspose.page.xps/xpsdocument/create_path_figure/#aspose.pydrawing.PointF-System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsPathSegment>-bool) |  |
-| [create_solid_color_brush](/page/python-net/aspose.page.xps/xpsdocument/create_solid_color_brush/#aspose.page.xps.xpsmodel.XpsColor) | Creates a new solid color brush. |
-| [create_solid_color_brush](/page/python-net/aspose.page.xps/xpsdocument/create_solid_color_brush/#aspose.pydrawing.Color) | Creates a new solid color brush. |
-| [create_gradient_stop](/page/python-net/aspose.page.xps/xpsdocument/create_gradient_stop/#aspose.page.xps.xpsmodel.XpsColor-float) | Creates a new gradient stop. |
-| [create_gradient_stop](/page/python-net/aspose.page.xps/xpsdocument/create_gradient_stop/#aspose.pydrawing.Color-float) | Creates a new gradient stop. |
-| [create_linear_gradient_brush](/page/python-net/aspose.page.xps/xpsdocument/create_linear_gradient_brush/#System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsGradientStop>-aspose.pydrawing.PointF-aspose.pydrawing.PointF) |  |
-| [create_linear_gradient_brush](/page/python-net/aspose.page.xps/xpsdocument/create_linear_gradient_brush/#aspose.pydrawing.PointF-aspose.pydrawing.PointF) | Creates a new linear gradient brush. |
-| [create_radial_gradient_brush](/page/python-net/aspose.page.xps/xpsdocument/create_radial_gradient_brush/#System.Collections.Generic.List<Aspose.Page.XPS.XpsModel.XpsGradientStop>-aspose.pydrawing.PointF-aspose.pydrawing.PointF-float-float) |  |
-| [create_radial_gradient_brush](/page/python-net/aspose.page.xps/xpsdocument/create_radial_gradient_brush/#aspose.pydrawing.PointF-aspose.pydrawing.PointF-float-float) | Creates a new radial gradient brush. |
-| [create_image_brush](/page/python-net/aspose.page.xps/xpsdocument/create_image_brush/#aspose.page.xps.xpsmodel.XpsImage-aspose.pydrawing.RectangleF-aspose.pydrawing.RectangleF) | Creates a new image brush. |
-| [create_image_brush](/page/python-net/aspose.page.xps/xpsdocument/create_image_brush/#str-aspose.pydrawing.RectangleF-aspose.pydrawing.RectangleF) | Creates a new image brush. |
-| [create_color](/page/python-net/aspose.page.xps/xpsdocument/create_color/#aspose.pydrawing.Color) | Creates a new color. |
-| [create_color](/page/python-net/aspose.page.xps/xpsdocument/create_color/#int-int-int-int) | Creates a new color in sRGB color space. |
-| [create_color](/page/python-net/aspose.page.xps/xpsdocument/create_color/#int-int-int) | Creates a new color in sRGB color space. |
-| [create_color](/page/python-net/aspose.page.xps/xpsdocument/create_color/#float-float-float-float) | Creates a new color in scRGB color space. |
-| [create_color](/page/python-net/aspose.page.xps/xpsdocument/create_color/#float-float-float) | Creates a new color in scRGB color space. |
-| [create_color](/page/python-net/aspose.page.xps/xpsdocument/create_color/#str-list) | Creates a new color in ICC based color space. |
-| [create_color](/page/python-net/aspose.page.xps/xpsdocument/create_color/#aspose.page.xps.xpsmodel.XpsIccProfile-list) | Creates a new color in ICC based color space. |
-| [create_image](/page/python-net/aspose.page.xps/xpsdocument/create_image/#str) | Creates a new image resource out of image file located at the `image_path`. |
-| [create_image](/page/python-net/aspose.page.xps/xpsdocument/create_image/#io.RawIOBase) | Creates a new image resource out of `stream`. |
-| [create_icc_profile](/page/python-net/aspose.page.xps/xpsdocument/create_icc_profile/#str) | Creates a new ICC profile resource out of ICC profile file located at the<br/>`icc_profile_path`. |
-| [create_icc_profile](/page/python-net/aspose.page.xps/xpsdocument/create_icc_profile/#io.RawIOBase) | Creates a new ICC profile resource out of `stream`. |
-| [create_font](/page/python-net/aspose.page.xps/xpsdocument/create_font/#str-aspose.pydrawing.FontStyle) | Creates a new TrueType font resource. |
-| [create_font](/page/python-net/aspose.page.xps/xpsdocument/create_font/#io.RawIOBase) | Creates a new TrueType font resource out of stream. |
-| [select_active_document](/page/python-net/aspose.page.xps/xpsdocument/select_active_document/#int) | Selects an active document for editing. |
-| [select_active_page](/page/python-net/aspose.page.xps/xpsdocument/select_active_page/#int) | Selects an active document page for editing. |
-| [save_as_image](/page/python-net/aspose.page.xps/xpsdocument/save_as_image/#aspose.page.xps.presentation.image.ImageSaveOptions) | Saves the document in a bitmap image format. |
-| [save_as_ps](/page/python-net/aspose.page.xps/xpsdocument/save_as_ps/#io.RawIOBase-aspose.page.eps.device.PsSaveOptions) | Saves the document in PS format. |
-| [get_document_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/get_document_print_ticket/#int) | Returns the print ticket of the document indexed by `document_index`. |
-| [set_document_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/set_document_print_ticket/#int-aspose.page.xps.xpsmetadata.DocumentPrintTicket) | Links the `print_ticket` to the document indexed by `document_index`. |
-| [get_page_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/get_page_print_ticket/#int-int) | Returns the print ticket of the page indexed by `page_index` <br/>in the document indexed by `document_index`. |
-| [set_page_print_ticket](/page/python-net/aspose.page.xps/xpsdocument/set_page_print_ticket/#int-int-aspose.page.xps.xpsmetadata.PagePrintTicket) | Links the `print_ticket` to the page indexed by `page_index`<br/>in the document indexed by `document_index`. |
-| [remove_at](/page/python-net/aspose.page.xps/xpsdocument/remove_at/#int) | Removes an element at `index` position from the active page. |
-| [remove_document_at](/page/python-net/aspose.page.xps/xpsdocument/remove_document_at/#int) | Removes a document at `index` position. |
-| [remove_page](/page/python-net/aspose.page.xps/xpsdocument/remove_page/#aspose.page.xps.xpsmodel.XpsPage) | Removes a page from the document. |
-| [remove_page_at](/page/python-net/aspose.page.xps/xpsdocument/remove_page_at/#int) | Removes a page from the document at `index` position. |
-| [create_canvas](/page/python-net/aspose.page.xps/xpsdocument/create_canvas/#) | Creates a new canvas. |
-| [insert_canvas](/page/python-net/aspose.page.xps/xpsdocument/insert_canvas/#int) | Inserts a new canvas to the active page at `index` position. |
-| [create_path](/page/python-net/aspose.page.xps/xpsdocument/create_path/#aspose.page.xps.xpsmodel.XpsPathGeometry) | Creates a new path. |
-| [insert_path](/page/python-net/aspose.page.xps/xpsdocument/insert_path/#int-aspose.page.xps.xpsmodel.XpsPathGeometry) | Inserts a new path to the active page at `index` position. |
-| [create_matrix](/page/python-net/aspose.page.xps/xpsdocument/create_matrix/#float-float-float-float-float-float) | Creates a new affine transformation matrix. |
-| [create_arc_segment](/page/python-net/aspose.page.xps/xpsdocument/create_arc_segment/#aspose.pydrawing.PointF-aspose.pydrawing.SizeF-float-bool-aspose.page.xps.xpsmodel.XpsSweepDirection-bool) | Creates a new elliptical arc segment. |
-| [create_poly_line_segment](/page/python-net/aspose.page.xps/xpsdocument/create_poly_line_segment/#aspose.pydrawing.PointF[]-bool) | Creates a new polygonal drawing containing an arbitrary number of individual vertices. |
-| [create_poly_bezier_segment](/page/python-net/aspose.page.xps/xpsdocument/create_poly_bezier_segment/#aspose.pydrawing.PointF[]-bool) | Creates a new set of cubic Bézier curves. |
-| [create_poly_quadratic_bezier_segment](/page/python-net/aspose.page.xps/xpsdocument/create_poly_quadratic_bezier_segment/#aspose.pydrawing.PointF[]-bool) | Creates a new set of quadratic Bézier curves from the previous point in the path figure through a set<br/>of vertices, using specified control points. |
-| [create_visual_brush](/page/python-net/aspose.page.xps/xpsdocument/create_visual_brush/#aspose.page.xps.xpsmodel.XpsContentElement-aspose.pydrawing.RectangleF-aspose.pydrawing.RectangleF) | Creates a new visual brush. |
-| [add_outline_entry](/page/python-net/aspose.page.xps/xpsdocument/add_outline_entry/#str-int-aspose.page.xps.xpsmodel.XpsHyperlinkTarget) | Adds an outline entry to the document. |
-
-
+| `save(path)` | Saves XPS document to XPS file located at the |
+| `save(stream)` | Saves XPS document to stream. |
+| `save_as_pdf(out_pdf_file_path, options)` | Saves the document in PDF format. |
+| `save_as_pdf(stream, options)` | Saves the document in PDF format. |
+| `save_as_ps(out_ps_file_path, options)` | Saves the document in PS format. |
+| `save_as_ps(stream, options)` | Saves the document in PS format. |
+| `merge_to_pdf(files_for_merge, out_pdf_file_path, options)` | Merging XPS documents to PDF using the [Device](/page/python-net/aspose.page/device/) instance. |
+| `merge_to_pdf(files_for_merge, pdf_stream, options)` | Merging XPS documents to PDF using the [Device](/page/python-net/aspose.page/device/) instance. |
+| `merge(files_for_merge, out_xps_file_path)` | Merging XPS documents to PDF using the [Device](/page/python-net/aspose.page/device/) instance. |
+| `merge(files_for_merge, out_stream)` | Merging XPS documents to PDF using the [Device](/page/python-net/aspose.page/device/) instance. |
+| `add_canvas(canvas)` | Adds a canvas. |
+| `add_canvas()` | Adds a canvas. |
+| `add_path(path)` | Adds a path element. |
+| `add_path(data)` | Adds a new path to the active page. |
+| `add_glyphs(glyphs)` | Adds a glyphs element. |
+| `add_glyphs(font_family, font_rendering_em_size, font_style, origin_x, origin_y, unicode_string)` | Adds new glyphs to the active page. |
+| `add_glyphs(font, font_rendering_em_size, origin_x, origin_y, unicode_string)` | Adds new glyphs to the active page. |
+| `add_document(activate)` | Adds an empty document with default page size. |
+| `add_document(width, height, activate)` | Adds an empty document with the first page dimensions |
+| `insert_document(index, activate)` | Inserts an empty document with default page size<br/>            at |
+| `insert_document(index, width, height, activate)` | Inserts an empty document with the first page dimensions |
+| `add_page(activate)` | Adds an empty page to the document with default page size. |
+| `add_page(width, height, activate)` | Adds an empty page to the document with specified |
+| `add_page(page, activate)` | Adds a page to the document. |
+| `insert_page(index, activate)` | Inserts an empty page to the document with default page size<br/>            at |
+| `insert_page(index, width, height, activate)` | Inserts an empty page to the document with specified |
+| `insert_page(index, page, activate)` | Inserts a page to the document at |
+| `create_glyphs(font_family, font_rendering_em_size, font_style, origin_x, origin_y, unicode_string)` | Creates new glyphs. |
+| `create_glyphs(font, font_rendering_em_size, origin_x, origin_y, unicode_string)` | Creates new glyphs. |
+| `insert_glyphs(index, font_family, font_size, font_style, origin_x, origin_y, unicode_string)` | Inserts new glyphs to the active page at |
+| `insert_glyphs(index, font, font_size, origin_x, origin_y, unicode_string)` | Inserts new glyphs to the active page at |
+| `create_path_geometry(abbreviated_geometry)` | Creates a new path geometry specified with abbreviated form. |
+| `create_path_geometry()` | Creates a new path geometry specified with abbreviated form. |
+| `create_path_geometry(path_figures)` | None |
+| `create_path_figure(start_point, is_closed)` | Creates a new path figure. |
+| `create_path_figure(start_point, segments, is_closed)` | None |
+| `create_solid_color_brush(color)` | Creates a new solid color brush. |
+| `create_solid_color_brush(color)` | Creates a new solid color brush. |
+| `create_gradient_stop(color, offset)` | Creates a new gradient stop. |
+| `create_gradient_stop(color, offset)` | Creates a new gradient stop. |
+| `create_linear_gradient_brush(gradient_stops, start_point, end_point)` | None |
+| `create_linear_gradient_brush(start_point, end_point)` | Creates a new linear gradient brush. |
+| `create_radial_gradient_brush(gradient_stops, center, gradient_origin, radius_x, radius_y)` | None |
+| `create_radial_gradient_brush(center, gradient_origin, radius_x, radius_y)` | Creates a new radial gradient brush. |
+| `create_image_brush(image, viewbox, viewport)` | Creates a new image brush. |
+| `create_image_brush(image_path, viewbox, viewport)` | Creates a new image brush. |
+| `create_color(color)` | Creates a new color. |
+| `create_color(a, r, g, b)` | Creates a new color in sRGB color space. |
+| `create_color(r, g, b)` | Creates a new color in sRGB color space. |
+| `create_color(a, r, g, b)` | Creates a new color in scRGB color space. |
+| `create_color(r, g, b)` | Creates a new color in scRGB color space. |
+| `create_color(path, components)` | Creates a new color in ICC based color space. |
+| `create_color(icc_profile, components)` | Creates a new color in ICC based color space. |
+| `create_image(image_path)` | Creates a new image brush. |
+| `create_image(stream)` | Creates a new image resource out of |
+| `create_icc_profile(icc_profile_path)` | Creates a new ICC profile resource out of ICC profile file located at the |
+| `create_icc_profile(stream)` | Creates a new ICC profile resource out of |
+| `create_font(font_family, font_style)` | Creates a new TrueType font resource. |
+| `create_font(stream)` | Creates a new TrueType font resource out of stream. |
+| `select_active_document(document_number)` | Selects an active document for editing. |
+| `select_active_page(page_number)` | Selects an active document page for editing. |
+| `save_as_image(options)` | Saves the document in a bitmap image format. |
+| `get_document_print_ticket(document_index)` | Returns the print ticket of the document indexed by |
+| `set_document_print_ticket(document_index, print_ticket)` | Links the |
+| `get_page_print_ticket(document_index, page_index)` | Returns the print ticket of the page indexed by |
+| `set_page_print_ticket(document_index, page_index, print_ticket)` | Links the |
+| `remove_at(index)` | Removes an element at |
+| `remove_document_at(index)` | Removes a document at |
+| `remove_page(page)` | Removes a page from the document. |
+| `remove_page_at(index)` | Removes a page from the document at |
+| `create_canvas()` | Creates a new canvas. |
+| `insert_canvas(index)` | Inserts a new canvas to the active page at |
+| `create_path(data)` | Creates a new path. |
+| `insert_path(index, data)` | Inserts a new path to the active page at |
+| `create_matrix(m11, m12, m21, m22, m31, m32)` | Creates a new affine transformation matrix. |
+| `create_arc_segment(point, size, rotation_angle, is_large_arc, sweep_direction, is_stroked)` | Creates a new elliptical arc segment. |
+| `create_poly_line_segment(points, is_stroked)` | Creates a new polygonal drawing containing an arbitrary number of individual vertices. |
+| `create_poly_bezier_segment(points, is_stroked)` | Creates a new set of cubic Bézier curves. |
+| `create_poly_quadratic_bezier_segment(points, is_stroked)` | Creates a new set of quadratic Bézier curves from the previous point in the path figure through a set<br/>            of vertices, using specified control points. |
+| `create_visual_brush(element, viewbox, viewport)` | Creates a new visual brush. |
+| `add_outline_entry(description, outline_level, target)` | Adds an outline entry to the document. |
 
 ### See Also
-* module [`aspose.page.xps`](..)
-* class [`Device`](/page/python-net/aspose.page/device)
-* class [`Document`](/page/python-net/aspose.page/document)
-* class [`XpsDocument`](/page/python-net/aspose.page.xps/xpsdocument)
-* class [`XpsPage`](/page/python-net/aspose.page.xps.xpsmodel/xpspage)
+
+* module [`aspose.page.xps`](/page/python-net/aspose.page.xps/)
+* package [`aspose.page`](/page/python-net/)
+

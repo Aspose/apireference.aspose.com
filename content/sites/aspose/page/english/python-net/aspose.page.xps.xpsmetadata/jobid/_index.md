@@ -1,47 +1,30 @@
-﻿---
+---
 title: JobID class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
-weight: 560
+weight: 900
 url: /python-net/aspose.page.xps.xpsmetadata/jobid/
-is_root: false
 ---
 
 ## JobID class
 
-Specifies a unique ID for the job.
-https://docs.microsoft.com/en-us/windows/win32/printdocs/jobid
+Specifies a unique ID for the job.<br/>            https://docs.microsoft.com/en-us/windows/win32/printdocs/jobid
 
-
-
-**Inheritance:** [`JobID`](/page/python-net/aspose.page.xps.xpsmetadata/jobid) → 
-[`IDProperty`](/page/python-net/aspose.page.xps.xpsmetadata/idproperty) → 
-[`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) → 
-[`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → 
-[`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-
-
+**Inheritance:** `JobID` → [`IDProperty`](/page/python-net/aspose.page.xps.xpsmetadata/idproperty) → [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property) → [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement) → [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
 
 The JobID type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.xps.xpsmetadata/jobid/__init__/#str) | Creates a new instance. |
-
-
-### Properties
-| Property | Description |
+| `JobID(job_id)` | Initializes a new instance of the JobID class |
+## Properties
+| Name | Description |
 | :- | :- |
-| [name](/page/python-net/aspose.page.xps.xpsmetadata/jobid/name) | Gets the element name. |
-
-
+| `name` | Gets the element name. |
 
 ### See Also
-* module [`aspose.page.xps.xpsmetadata`](..)
-* class [`CompositePrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/compositeprintticketelement)
-* class [`IDProperty`](/page/python-net/aspose.page.xps.xpsmetadata/idproperty)
-* class [`JobID`](/page/python-net/aspose.page.xps.xpsmetadata/jobid)
-* class [`PrintTicketElement`](/page/python-net/aspose.page.xps.xpsmetadata/printticketelement)
-* class [`Property`](/page/python-net/aspose.page.xps.xpsmetadata/property)
+
+* module [`aspose.page.xps.xpsmetadata`](/page/python-net/aspose.page.xps.xpsmetadata/)
+* package [`aspose.page`](/page/python-net/)
+

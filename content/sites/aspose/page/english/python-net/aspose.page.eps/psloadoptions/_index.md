@@ -1,34 +1,26 @@
-﻿---
+---
 title: PsLoadOptions class
-second_title: Aspose.Page for Python via .NET API References
+second_title: Aspose.Page for Python via .NET API Reference
 description: 
 type: docs
 weight: 80
 url: /python-net/aspose.page.eps/psloadoptions/
-is_root: false
 ---
 
 ## PsLoadOptions class
 
 PS document loading options.
 
-
-
-**Inheritance:** [`PsLoadOptions`](/page/python-net/aspose.page.eps/psloadoptions) → 
-[`LoadOptions`](/page/python-net/aspose.page.eps/loadoptions)
-
-
+**Inheritance:** `PsLoadOptions` → [`LoadOptions`](/page/python-net/aspose.page.eps/loadoptions)
 
 The PsLoadOptions type exposes the following members:
-
-### Constructors
-| Constructor | Description |
+## Constructors
+| Name | Description |
 | :- | :- |
-| [__init__](/page/python-net/aspose.page.eps/psloadoptions/__init__/#) | Creates new instance of options. |
-
-
+| `PsLoadOptions()` | Creates new instance of options. |
 
 ### See Also
-* module [`aspose.page.eps`](..)
-* class [`LoadOptions`](/page/python-net/aspose.page.eps/loadoptions)
-* class [`PsLoadOptions`](/page/python-net/aspose.page.eps/psloadoptions)
+
+* module [`aspose.page.eps`](/page/python-net/aspose.page.eps/)
+* package [`aspose.page`](/page/python-net/)
+
