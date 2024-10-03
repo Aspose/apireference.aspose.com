@@ -1,0 +1,29 @@
+---
+title: System::Globalization::CultureInfo::set_DefaultThreadCurrentUICulture method
+linktitle: set_DefaultThreadCurrentUICulture
+second_title: Aspose.Page for C++
+description: 'System::Globalization::CultureInfo::set_DefaultThreadCurrentUICulture method. Sets default UI culture in the current application domain in C++.'
+type: docs
+weight: 4400
+url: /cpp/system.globalization/cultureinfo/set_defaultthreadcurrentuiculture/
+---
+## CultureInfo::set_DefaultThreadCurrentUICulture method
+
+
+Sets default UI culture in the current application domain.
+
+```cpp
+static void System::Globalization::CultureInfo::set_DefaultThreadCurrentUICulture(const CultureInfoPtr &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const CultureInfoPtr\& | Culture to set. |
+
+## See Also
+
+* Typedef [CultureInfoPtr](../../cultureinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

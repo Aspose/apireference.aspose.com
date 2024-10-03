@@ -1,0 +1,52 @@
+---
+title: System::Xml::XPath::XPathNavigator::MoveToFirstNamespace method
+linktitle: MoveToFirstNamespace
+second_title: Aspose.Page for C++
+description: 'System::Xml::XPath::XPathNavigator::MoveToFirstNamespace method. When overridden in a derived class, moves the XPathNavigator to the first namespace node that matches the XPathNamespaceScope specified in C++.'
+type: docs
+weight: 4400
+url: /cpp/system.xml.xpath/xpathnavigator/movetofirstnamespace/
+---
+## XPathNavigator::MoveToFirstNamespace(XPathNamespaceScope) method
+
+
+When overridden in a derived class, moves the [XPathNavigator](../) to the first namespace node that matches the XPathNamespaceScope specified.
+
+```cpp
+virtual bool System::Xml::XPath::XPathNavigator::MoveToFirstNamespace(XPathNamespaceScope namespaceScope)=0
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| namespaceScope | XPathNamespaceScope | An XPathNamespaceScope value describing the namespace scope. |
+
+### ReturnValue
+
+**true** if the [XPathNavigator](../) is successful moving to the first namespace node; otherwise, **false**. If **false**, the position of the [XPathNavigator](../) is unchanged.
+
+## See Also
+
+* Enum [XPathNamespaceScope](../../xpathnamespacescope/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)
+## XPathNavigator::MoveToFirstNamespace() method
+
+
+Moves the [XPathNavigator](../) to first namespace node of the current node.
+
+```cpp
+bool System::Xml::XPath::XPathNavigator::MoveToFirstNamespace()
+```
+
+
+### ReturnValue
+
+**true** if the [XPathNavigator](../) is successful moving to the first namespace node; otherwise, **false**. If **false**, the position of the [XPathNavigator](../) is unchanged.
+
+## See Also
+
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)

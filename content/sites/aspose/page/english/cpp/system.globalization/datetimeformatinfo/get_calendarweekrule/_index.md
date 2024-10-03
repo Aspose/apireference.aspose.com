@@ -1,0 +1,29 @@
+---
+title: System::Globalization::DateTimeFormatInfo::get_CalendarWeekRule method
+linktitle: get_CalendarWeekRule
+second_title: Aspose.Page for C++
+description: 'System::Globalization::DateTimeFormatInfo::get_CalendarWeekRule method. Gets calendar week rule associated with formatter in C++.'
+type: docs
+weight: 2900
+url: /cpp/system.globalization/datetimeformatinfo/get_calendarweekrule/
+---
+## DateTimeFormatInfo::get_CalendarWeekRule method
+
+
+Gets calendar week rule associated with formatter.
+
+```cpp
+CalendarWeekRule System::Globalization::DateTimeFormatInfo::get_CalendarWeekRule() const
+```
+
+
+### ReturnValue
+
+Week rule.
+
+## See Also
+
+* Enum [CalendarWeekRule](../../calendarweekrule/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

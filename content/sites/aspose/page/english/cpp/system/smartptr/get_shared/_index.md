@@ -1,0 +1,29 @@
+---
+title: System::SmartPtr::get_shared method
+linktitle: get_shared
+second_title: Aspose.Page for C++
+description: 'System::SmartPtr::get_shared method. Gets pointed object, but asserts that pointer is in shared mode in C++.'
+type: docs
+weight: 700
+url: /cpp/system/smartptr/get_shared/
+---
+## SmartPtr::get_shared method
+
+
+Gets pointed object, but asserts that pointer is in shared mode.
+
+```cpp
+Pointee_ * System::SmartPtr<T>::get_shared() const
+```
+
+
+### ReturnValue
+
+Raw pointer to referenced object.
+
+## See Also
+
+* Typedef [Pointee_](../pointee_/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)

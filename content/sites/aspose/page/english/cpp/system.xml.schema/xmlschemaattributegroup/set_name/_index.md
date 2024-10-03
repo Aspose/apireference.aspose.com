@@ -1,0 +1,29 @@
+---
+title: System::Xml::Schema::XmlSchemaAttributeGroup::set_Name method
+linktitle: set_Name
+second_title: Aspose.Page for C++
+description: 'System::Xml::Schema::XmlSchemaAttributeGroup::set_Name method. Sets the name of the attribute group in C++.'
+type: docs
+weight: 200
+url: /cpp/system.xml.schema/xmlschemaattributegroup/set_name/
+---
+## XmlSchemaAttributeGroup::set_Name method
+
+
+Sets the name of the attribute group.
+
+```cpp
+void System::Xml::Schema::XmlSchemaAttributeGroup::set_Name(const String &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The value to set. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlSchemaAttributeGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,24 @@
+---
+title: Aspose::Page::XPS::Presentation namespace
+linktitle: Aspose::Page::XPS::Presentation
+second_title: Aspose.Page for C++
+description: 'How to use Aspose::Page::XPS::Presentation namespace in C++.'
+type: docs
+weight: 1400
+url: /cpp/aspose.page.xps.presentation/
+---
+
+
+
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [IEventBasedModificationOptions](./ieventbasedmodificationoptions/) | Defines options relevant to handling event-based modifications during document saving. |
+| [IPipelineOptions](./ipipelineoptions/) | Defines conversion options related to pipeline configuration. |
+| [IXpsTextConversionOptions](./ixpstextconversionoptions/) | Defines options for conversion of [XPS](../aspose.page.xps/) to other formats. |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [WdpNotSupportedException](./wdpnotsupportedexception/) |  |

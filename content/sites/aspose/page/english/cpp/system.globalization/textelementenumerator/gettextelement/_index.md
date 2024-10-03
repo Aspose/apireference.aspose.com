@@ -1,0 +1,29 @@
+---
+title: System::Globalization::TextElementEnumerator::GetTextElement method
+linktitle: GetTextElement
+second_title: Aspose.Page for C++
+description: 'System::Globalization::TextElementEnumerator::GetTextElement method. Gets current element in C++.'
+type: docs
+weight: 600
+url: /cpp/system.globalization/textelementenumerator/gettextelement/
+---
+## TextElementEnumerator::GetTextElement method
+
+
+Gets current element.
+
+```cpp
+String System::Globalization::TextElementEnumerator::GetTextElement() const
+```
+
+
+### ReturnValue
+
+Current element.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [TextElementEnumerator](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)

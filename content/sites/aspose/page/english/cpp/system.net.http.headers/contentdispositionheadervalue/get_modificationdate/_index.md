@@ -1,0 +1,30 @@
+---
+title: System::Net::Http::Headers::ContentDispositionHeaderValue::get_ModificationDate method
+linktitle: get_ModificationDate
+second_title: Aspose.Page for C++
+description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::get_ModificationDate method. Gets the file modification date in C++.'
+type: docs
+weight: 1200
+url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_modificationdate/
+---
+## ContentDispositionHeaderValue::get_ModificationDate method
+
+
+Gets the file modification date.
+
+```cpp
+Nullable<DateTimeOffset> System::Net::Http::Headers::ContentDispositionHeaderValue::get_ModificationDate()
+```
+
+
+### ReturnValue
+
+The file modification date.
+
+## See Also
+
+* Class [Nullable](../../../system/nullable/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [ContentDispositionHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Page for C++](../../../)

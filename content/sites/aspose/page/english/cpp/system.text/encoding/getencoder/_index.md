@@ -1,0 +1,29 @@
+---
+title: System::Text::Encoding::GetEncoder method
+linktitle: GetEncoder
+second_title: Aspose.Page for C++
+description: 'System::Text::Encoding::GetEncoder method. Get an encoder that forwards requests to this object in C++.'
+type: docs
+weight: 2400
+url: /cpp/system.text/encoding/getencoder/
+---
+## Encoding::GetEncoder method
+
+
+Get an encoder that forwards requests to this object.
+
+```cpp
+virtual EncoderPtr System::Text::Encoding::GetEncoder()
+```
+
+
+### ReturnValue
+
+Newly created encoder.
+
+## See Also
+
+* Typedef [EncoderPtr](../../../system/encoderptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)

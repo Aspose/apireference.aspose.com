@@ -1,0 +1,23 @@
+---
+title: System::IO::STDIOStreamWrapperBase::ThisType typedef
+linktitle: ThisType
+second_title: Aspose.Page for C++
+description: 'How to use System::IO::STDIOStreamWrapperBase::ThisType typedef of System::IO::STDIOStreamWrapperBase class in C++.'
+type: docs
+weight: 1000
+url: /cpp/system.io/stdiostreamwrapperbase/thistype/
+---
+## ThisType typedef
+
+
+
+
+```cpp
+using System::IO::STDIOStreamWrapperBase< T, typename >::ThisType =  STDIOStreamWrapperBase<T>
+```
+
+## See Also
+
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)

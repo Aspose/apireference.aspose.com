@@ -1,0 +1,23 @@
+---
+title: System::IO::MemoryStream::ReadByte method
+linktitle: ReadByte
+second_title: Aspose.Page for C++
+description: 'System::IO::MemoryStream::ReadByte method. Reads a single byte from the stream and returns a 32-bit integer value equivalent to the value of the read byte in C++.'
+type: docs
+weight: 500
+url: /cpp/system.io/memorystream/readbyte/
+---
+## MemoryStream::ReadByte method
+
+
+Reads a single byte from the stream and returns a 32-bit integer value equivalent to the value of the read byte.
+
+```cpp
+int System::IO::MemoryStream::ReadByte() override
+```
+
+## See Also
+
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)

@@ -1,0 +1,29 @@
+---
+title: System::Xml::XPath::XPathNavigator::get_InnerXml method
+linktitle: get_InnerXml
+second_title: Aspose.Page for C++
+description: 'System::Xml::XPath::XPathNavigator::get_InnerXml method. Returns the markup representing the child nodes of the current node in C++.'
+type: docs
+weight: 2600
+url: /cpp/system.xml.xpath/xpathnavigator/get_innerxml/
+---
+## XPathNavigator::get_InnerXml method
+
+
+Returns the markup representing the child nodes of the current node.
+
+```cpp
+virtual String System::Xml::XPath::XPathNavigator::get_InnerXml()
+```
+
+
+### ReturnValue
+
+A [String](../../../system/string/) that contains the markup of the child nodes of the current node.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)

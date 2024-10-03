@@ -1,0 +1,28 @@
+---
+title: System::Array::virtualizeEndIterator method
+linktitle: virtualizeEndIterator
+second_title: Aspose.Page for C++
+description: 'System::Array::virtualizeEndIterator method. Gets the implementation of end iterator for the current container in C++.'
+type: docs
+weight: 4300
+url: /cpp/system/array/virtualizeenditerator/
+---
+## Array::virtualizeEndIterator method
+
+
+Gets the implementation of end iterator for the current container.
+
+```cpp
+System::Details::VirtualizedIteratorBase<T> * System::Array<T>::virtualizeEndIterator() override
+```
+
+
+### ReturnValue
+
+Pointer to the newly created iterator kernel object.
+
+## See Also
+
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
