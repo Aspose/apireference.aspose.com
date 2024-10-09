@@ -4,7 +4,7 @@ linktitle: get_KeyboardLayoutId
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_KeyboardLayoutId method. Gets active input locale identifier in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/system.globalization/cultureinfo/get_keyboardlayoutid/
 ---
 ## CultureInfo::get_KeyboardLayoutId method

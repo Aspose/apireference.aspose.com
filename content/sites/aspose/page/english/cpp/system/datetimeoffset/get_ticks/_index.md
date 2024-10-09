@@ -4,7 +4,7 @@ linktitle: get_Ticks
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::get_Ticks method. Gets number of ticks of the current object in C++.'
 type: docs
-weight: 1600
+weight: 2600
 url: /cpp/system/datetimeoffset/get_ticks/
 ---
 ## DateTimeOffset::get_Ticks method

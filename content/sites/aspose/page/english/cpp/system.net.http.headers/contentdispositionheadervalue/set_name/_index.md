@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::set_Name method. Sets a name for a part of the content body in C++.'
 type: docs
-weight: 500
+weight: 1800
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_name/
 ---
 ## ContentDispositionHeaderValue::set_Name method

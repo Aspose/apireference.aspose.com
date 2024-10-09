@@ -4,7 +4,7 @@ linktitle: DefaultBoxedValue
 second_title: Aspose.Page for C++
 description: 'System::DefaultBoxedValue::DefaultBoxedValue constructor. Constructs a new instance of DefaultBoxedValue class that represents the specified value in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system/defaultboxedvalue/defaultboxedvalue/
 ---
 ## DefaultBoxedValue::DefaultBoxedValue constructor

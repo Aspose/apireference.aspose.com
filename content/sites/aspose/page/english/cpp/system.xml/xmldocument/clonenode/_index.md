@@ -4,7 +4,7 @@ linktitle: CloneNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CloneNode method. Creates a duplicate of this node in C++.'
 type: docs
-weight: 2100
+weight: 200
 url: /cpp/system.xml/xmldocument/clonenode/
 ---
 ## XmlDocument::CloneNode method

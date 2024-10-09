@@ -4,7 +4,7 @@ linktitle: GetDaysInYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetDaysInYear method. Gets number of days in specific year in C++.'
 type: docs
-weight: 1900
+weight: 2300
 url: /cpp/system.globalization/calendar/getdaysinyear/
 ---
 ## Calendar::GetDaysInYear(int) const method

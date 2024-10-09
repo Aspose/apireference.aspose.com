@@ -4,7 +4,7 @@ linktitle: MoveToPrevious
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToPrevious method. When overridden in a derived class, moves the XPathNavigator to the previous sibling node of the current node in C++.'
 type: docs
-weight: 4700
+weight: 6400
 url: /cpp/system.xml.xpath/xpathnavigator/movetoprevious/
 ---
 ## XPathNavigator::MoveToPrevious method

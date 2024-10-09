@@ -4,7 +4,7 @@ linktitle: set_OneWay
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_OneWay method. Sets a value that indicates if the client doesn''t wait for the server to finish processing a method in C++.'
 type: docs
-weight: 600
+weight: 1300
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_oneway/
 ---
 ## SoapDocumentMethodAttribute::set_OneWay method

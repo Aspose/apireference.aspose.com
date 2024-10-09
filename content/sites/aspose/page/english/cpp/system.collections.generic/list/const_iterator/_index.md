@@ -4,7 +4,7 @@ linktitle: const_iterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::const_iterator typedef. Const iterator type in C++.'
 type: docs
-weight: 5600
+weight: 5300
 url: /cpp/system.collections.generic/list/const_iterator/
 ---
 ## const_iterator typedef

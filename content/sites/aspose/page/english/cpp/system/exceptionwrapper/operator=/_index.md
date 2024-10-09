@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::ExceptionWrapper::operator= method. Assignment operator in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/exceptionwrapper/operator=/
 ---
 ## ExceptionWrapper::operator=(const ExceptionWrapper\&) method

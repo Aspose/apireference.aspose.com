@@ -4,7 +4,7 @@ linktitle: get_Table
 second_title: Aspose.Page for C++
 description: 'System::Data::DataView::get_Table method. Gets table the view belongs to in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.data/dataview/get_table/
 ---
 ## DataView::get_Table method

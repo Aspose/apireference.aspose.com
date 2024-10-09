@@ -4,7 +4,7 @@ linktitle: Rotate
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::Rotate method. Rotates the matrix represented by the current object clockwise by the specified angle in C++.'
 type: docs
-weight: 1100
+weight: 1400
 url: /cpp/system.drawing.drawing2d/matrix/rotate/
 ---
 ## Matrix::Rotate(float) method

@@ -4,29 +4,9 @@ linktitle: rend
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::rend method. Returns a reverse iterator to the element following the last element of the reversed container. It corresponds to the element preceding the first element of the non-reversed container. This element acts as a placeholder, attempting to access it results in undefined behavior in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/system.collections.specialized/stringcollection/rend/
 ---
-## StringCollection::rend() method
-
-
-Returns a reverse iterator to the element following the last element of the reversed container. It corresponds to the element preceding the first element of the non-reversed container. This element acts as a placeholder, attempting to access it results in undefined behavior.
-
-```cpp
-reverse_iterator System::Collections::Specialized::StringCollection::rend() noexcept
-```
-
-
-### ReturnValue
-
-An iterator pointing to the theoretical element preceding the first element of the container.
-
-## See Also
-
-* Typedef [reverse_iterator](../reverse_iterator/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Page for C++](../../../)
 ## StringCollection::rend() const method
 
 
@@ -44,6 +24,26 @@ An iterator pointing to the theoretical element preceding the first element of t
 ## See Also
 
 * Typedef [const_reverse_iterator](../const_reverse_iterator/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Page for C++](../../../)
+## StringCollection::rend() method
+
+
+Returns a reverse iterator to the element following the last element of the reversed container. It corresponds to the element preceding the first element of the non-reversed container. This element acts as a placeholder, attempting to access it results in undefined behavior.
+
+```cpp
+reverse_iterator System::Collections::Specialized::StringCollection::rend() noexcept
+```
+
+
+### ReturnValue
+
+An iterator pointing to the theoretical element preceding the first element of the container.
+
+## See Also
+
+* Typedef [reverse_iterator](../reverse_iterator/)
 * Class [StringCollection](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.Page for C++](../../../)

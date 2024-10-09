@@ -4,7 +4,7 @@ linktitle: NorthAmericaNumber12Envelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaNumber12Envelope field. North America Number 12 envelope in C++.'
 type: docs
-weight: 11000
+weight: 12600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericanumber12envelope/
 ---
 ## NorthAmericaNumber12Envelope field

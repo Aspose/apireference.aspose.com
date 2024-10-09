@@ -4,7 +4,7 @@ linktitle: get_Quality
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::TransferCodingWithQualityHeaderValue::get_Quality method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net.http.headers/transfercodingwithqualityheadervalue/get_quality/
 ---
 ## TransferCodingWithQualityHeaderValue::get_Quality method

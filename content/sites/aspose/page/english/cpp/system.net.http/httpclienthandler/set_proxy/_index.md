@@ -4,7 +4,7 @@ linktitle: set_Proxy
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClientHandler::set_Proxy method. Sets the proxy information in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.net.http/httpclienthandler/set_proxy/
 ---
 ## HttpClientHandler::set_Proxy method

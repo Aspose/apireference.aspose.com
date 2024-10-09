@@ -4,7 +4,7 @@ linktitle: get_Domain
 second_title: Aspose.Page for C++
 description: 'System::Net::NetworkCredential::get_Domain method. Gets the domain that verifies the credentials in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.net/networkcredential/get_domain/
 ---
 ## NetworkCredential::get_Domain method

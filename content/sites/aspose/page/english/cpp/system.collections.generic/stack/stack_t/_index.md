@@ -4,7 +4,7 @@ linktitle: stack_t
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::stack_t typedef. RTTI information in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.collections.generic/stack/stack_t/
 ---
 ## stack_t typedef

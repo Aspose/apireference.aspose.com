@@ -4,7 +4,7 @@ linktitle: AddAttribute
 second_title: Aspose.Page for C++
 description: 'System::Reflection::MemberInfo::AddAttribute method. Adds attribute to collection in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.reflection/memberinfo/addattribute/
 ---
 ## MemberInfo::AddAttribute method

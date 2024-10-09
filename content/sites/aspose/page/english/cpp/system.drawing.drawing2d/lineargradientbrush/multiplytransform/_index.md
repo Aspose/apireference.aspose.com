@@ -4,7 +4,7 @@ linktitle: MultiplyTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::MultiplyTransform method. Multiplies current object''s transform matrix by the specified matrix in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/multiplytransform/
 ---
 ## LinearGradientBrush::MultiplyTransform method

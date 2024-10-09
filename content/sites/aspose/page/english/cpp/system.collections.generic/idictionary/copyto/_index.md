@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IDictionary::CopyTo method. Copies dictionary contents into existing array elements in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/system.collections.generic/idictionary/copyto/
 ---
 ## IDictionary::CopyTo method

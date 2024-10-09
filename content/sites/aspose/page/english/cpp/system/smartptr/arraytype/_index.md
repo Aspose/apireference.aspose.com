@@ -4,7 +4,7 @@ linktitle: ArrayType
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::ArrayType typedef. Same as Pointee_, if it is a specialization of System::Array, and void otherwise in C++.'
 type: docs
-weight: 4000
+weight: 3800
 url: /cpp/system/smartptr/arraytype/
 ---
 ## ArrayType typedef

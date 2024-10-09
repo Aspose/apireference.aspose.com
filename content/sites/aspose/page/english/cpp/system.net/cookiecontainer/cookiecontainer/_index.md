@@ -4,7 +4,7 @@ linktitle: CookieContainer
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::CookieContainer constructor. Constructs a new instance in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/system.net/cookiecontainer/cookiecontainer/
 ---
 ## CookieContainer::CookieContainer() constructor

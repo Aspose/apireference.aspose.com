@@ -4,7 +4,7 @@ linktitle: GetTypeCode
 second_title: Aspose.Page for C++
 description: 'System::Decimal::GetTypeCode method. Gets object type code in C++.'
 type: docs
-weight: 3000
+weight: 600
 url: /cpp/system/decimal/gettypecode/
 ---
 ## Decimal::GetTypeCode method

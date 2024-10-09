@@ -4,7 +4,7 @@ linktitle: IntersectClip
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::IntersectClip method. Updates the clip region of this object to the intersection of the current clip and the specified clip in C++.'
 type: docs
-weight: 7400
+weight: 6200
 url: /cpp/system.drawing/graphics/intersectclip/
 ---
 ## Graphics::IntersectClip(const System::SharedPtr\<Region\>\&) method
@@ -28,26 +28,6 @@ void System::Drawing::Graphics::IntersectClip(const System::SharedPtr<Region> &r
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## Graphics::IntersectClip(System::Drawing::RectangleF) method
-
-
-Updates the clip region of this object to the intersection of the current clip and the specified clip.
-
-```cpp
-void System::Drawing::Graphics::IntersectClip(System::Drawing::RectangleF rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | System::Drawing::RectangleF | The rectangle to intersect with |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Graphics::IntersectClip(System::Drawing::Rectangle) method
 
 
@@ -65,6 +45,26 @@ void System::Drawing::Graphics::IntersectClip(System::Drawing::Rectangle rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Graphics::IntersectClip(System::Drawing::RectangleF) method
+
+
+Updates the clip region of this object to the intersection of the current clip and the specified clip.
+
+```cpp
+void System::Drawing::Graphics::IntersectClip(System::Drawing::RectangleF rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | System::Drawing::RectangleF | The rectangle to intersect with |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

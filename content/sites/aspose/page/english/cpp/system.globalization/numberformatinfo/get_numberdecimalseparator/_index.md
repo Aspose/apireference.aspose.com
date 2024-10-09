@@ -4,7 +4,7 @@ linktitle: get_NumberDecimalSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_NumberDecimalSeparator method. Gets decimal separator in C++.'
 type: docs
-weight: 400
+weight: 1700
 url: /cpp/system.globalization/numberformatinfo/get_numberdecimalseparator/
 ---
 ## NumberFormatInfo::get_NumberDecimalSeparator method

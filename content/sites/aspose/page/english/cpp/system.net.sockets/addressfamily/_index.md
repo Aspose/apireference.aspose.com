@@ -4,7 +4,7 @@ linktitle: AddressFamily
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::AddressFamily enum. Enumerates the address families in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.net.sockets/addressfamily/
 ---
 ## AddressFamily enum

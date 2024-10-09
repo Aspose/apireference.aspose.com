@@ -4,7 +4,7 @@ linktitle: SetLastAccessTime
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::SetLastAccessTime method. Sets the last access time of the specified entity as local time in C++.'
 type: docs
-weight: 1900
+weight: 2400
 url: /cpp/system.io/directory/setlastaccesstime/
 ---
 ## Directory::SetLastAccessTime method

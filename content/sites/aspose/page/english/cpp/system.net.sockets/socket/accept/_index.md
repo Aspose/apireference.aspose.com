@@ -4,7 +4,7 @@ linktitle: Accept
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::Accept method. Creates a new socket for the newly created connection in C++.'
 type: docs
-weight: 4900
+weight: 600
 url: /cpp/system.net.sockets/socket/accept/
 ---
 ## Socket::Accept method

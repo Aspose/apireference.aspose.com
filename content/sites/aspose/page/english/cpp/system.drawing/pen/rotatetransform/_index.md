@@ -4,7 +4,7 @@ linktitle: RotateTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::RotateTransform method. Rotates the local geometric transformation by the specified angle in the specified order in C++.'
 type: docs
-weight: 3500
+weight: 2100
 url: /cpp/system.drawing/pen/rotatetransform/
 ---
 ## Pen::RotateTransform method

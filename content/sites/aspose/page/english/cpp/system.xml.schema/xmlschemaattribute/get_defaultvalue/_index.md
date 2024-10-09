@@ -4,7 +4,7 @@ linktitle: get_DefaultValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::get_DefaultValue method. Returns the default value for the attribute in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaattribute/get_defaultvalue/
 ---
 ## XmlSchemaAttribute::get_DefaultValue method

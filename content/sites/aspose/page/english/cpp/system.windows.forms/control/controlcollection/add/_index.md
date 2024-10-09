@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::Add method. Adds control into collection in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.windows.forms/control/controlcollection/add/
 ---
 ## ControlCollection::Add method

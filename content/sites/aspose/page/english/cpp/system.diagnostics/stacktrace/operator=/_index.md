@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::StackTrace::operator= method. No assignment in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.diagnostics/stacktrace/operator=/
 ---
 ## StackTrace::operator= method

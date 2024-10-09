@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Net::HeaderVariantInfo::get_Name method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net/headervariantinfo/get_name/
 ---
 ## HeaderVariantInfo::get_Name method

@@ -4,7 +4,7 @@ linktitle: get_PercentNegativePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_PercentNegativePattern method. Gets percent negative pattern in C++.'
 type: docs
-weight: 5000
+weight: 2500
 url: /cpp/system.globalization/numberformatinfo/get_percentnegativepattern/
 ---
 ## NumberFormatInfo::get_PercentNegativePattern method

@@ -4,7 +4,7 @@ linktitle: get_FloralWhite
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_FloralWhite method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFFAF0 in C++.'
 type: docs
-weight: 4500
+weight: 4400
 url: /cpp/system.drawing/pens/get_floralwhite/
 ---
 ## Pens::get_FloralWhite method

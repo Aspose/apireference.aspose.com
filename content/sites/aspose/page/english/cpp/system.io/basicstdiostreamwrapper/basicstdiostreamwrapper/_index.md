@@ -2,11 +2,26 @@
 title: System::IO::BasicSTDIOStreamWrapper::BasicSTDIOStreamWrapper constructor
 linktitle: BasicSTDIOStreamWrapper
 second_title: Aspose.Page for C++
-description: 'System::IO::BasicSTDIOStreamWrapper::BasicSTDIOStreamWrapper constructor. Constructs a new instance of the BasicSTDIOStreamWrapper in C++.'
+description: 'System::IO::BasicSTDIOStreamWrapper::BasicSTDIOStreamWrapper constructor. Copy constructor. Deleted in C++.'
 type: docs
 weight: 100
 url: /cpp/system.io/basicstdiostreamwrapper/basicstdiostreamwrapper/
 ---
+## BasicSTDIOStreamWrapper::BasicSTDIOStreamWrapper(const BasicSTDIOStreamWrapper\&) constructor
+
+
+Copy constructor. Deleted.
+
+```cpp
+System::IO::BasicSTDIOStreamWrapper<T, typename>::BasicSTDIOStreamWrapper(const BasicSTDIOStreamWrapper &)=delete
+```
+
+## See Also
+
+* Class [BasicSTDIOStreamWrapper](../)
+* Class [BasicSTDIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
 ## BasicSTDIOStreamWrapper::BasicSTDIOStreamWrapper(std::basic_iostream\<char_type, traits_type\>\&, STDIOStreamWrappingMode, STDIOStreamPositionPreference) constructor
 
 
@@ -29,21 +44,6 @@ System::IO::BasicSTDIOStreamWrapper<T, typename>::BasicSTDIOStreamWrapper(std::b
 * Typedef [traits_type](../traits_type/)
 * Enum [STDIOStreamWrappingMode](../../stdiostreamwrappingmode/)
 * Enum [STDIOStreamPositionPreference](../../stdiostreampositionpreference/)
-* Class [BasicSTDIOStreamWrapper](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## BasicSTDIOStreamWrapper::BasicSTDIOStreamWrapper(const BasicSTDIOStreamWrapper\&) constructor
-
-
-Copy constructor. Deleted.
-
-```cpp
-System::IO::BasicSTDIOStreamWrapper<T, typename>::BasicSTDIOStreamWrapper(const BasicSTDIOStreamWrapper &)=delete
-```
-
-## See Also
-
-* Class [BasicSTDIOStreamWrapper](../)
 * Class [BasicSTDIOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

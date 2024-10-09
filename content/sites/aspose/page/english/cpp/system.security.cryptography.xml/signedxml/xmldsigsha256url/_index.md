@@ -4,7 +4,7 @@ linktitle: XmlDsigSHA256Url
 second_title: Aspose.Page for C++
 description: 'How to use XmlDsigSHA256Url field of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 2800
+weight: 3800
 url: /cpp/system.security.cryptography.xml/signedxml/xmldsigsha256url/
 ---
 ## XmlDsigSHA256Url field

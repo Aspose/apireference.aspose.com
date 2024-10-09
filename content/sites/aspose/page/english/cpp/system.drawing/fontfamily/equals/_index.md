@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Drawing::FontFamily::Equals method. Determines if the current and the specified objects are identical in C++.'
 type: docs
-weight: 1100
+weight: 500
 url: /cpp/system.drawing/fontfamily/equals/
 ---
 ## FontFamily::Equals method

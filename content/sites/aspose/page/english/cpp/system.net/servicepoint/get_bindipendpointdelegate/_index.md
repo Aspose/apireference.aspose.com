@@ -4,7 +4,7 @@ linktitle: get_BindIPEndPointDelegate
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_BindIPEndPointDelegate method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.net/servicepoint/get_bindipendpointdelegate/
 ---
 ## ServicePoint::get_BindIPEndPointDelegate method

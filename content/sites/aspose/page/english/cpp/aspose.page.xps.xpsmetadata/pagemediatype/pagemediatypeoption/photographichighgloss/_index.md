@@ -4,7 +4,7 @@ linktitle: PhotographicHighGloss
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::PhotographicHighGloss field. Specifies high gloss photographic media in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/photographichighgloss/
 ---
 ## PhotographicHighGloss field

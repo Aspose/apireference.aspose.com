@@ -4,7 +4,7 @@ linktitle: set_Schema
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaExternal::set_Schema method. Sets the XmlSchema for the referenced schema in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.xml.schema/xmlschemaexternal/set_schema/
 ---
 ## XmlSchemaExternal::set_Schema method

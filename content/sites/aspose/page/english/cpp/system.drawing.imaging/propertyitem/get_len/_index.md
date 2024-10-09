@@ -4,7 +4,7 @@ linktitle: get_Len
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::PropertyItem::get_Len method. Returns the length of the property represented by the current object in bytes in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.drawing.imaging/propertyitem/get_len/
 ---
 ## PropertyItem::get_Len method

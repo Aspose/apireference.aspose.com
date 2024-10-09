@@ -4,7 +4,7 @@ linktitle: MoveToFollowing
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToFollowing method. Moves the XPathNavigator to the element with the local name and namespace URI specified in document order in C++.'
 type: docs
-weight: 5500
+weight: 5700
 url: /cpp/system.xml.xpath/xpathnavigator/movetofollowing/
 ---
 ## XPathNavigator::MoveToFollowing(String, String) method

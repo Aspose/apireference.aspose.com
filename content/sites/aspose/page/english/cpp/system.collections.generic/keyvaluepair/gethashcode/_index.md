@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::KeyValuePair::GetHashCode method. Calculates key-value pair hash by xoring key''s and value''s hashes in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/system.collections.generic/keyvaluepair/gethashcode/
 ---
 ## KeyValuePair::GetHashCode method

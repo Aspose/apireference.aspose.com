@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerable::cbegin method. Gets iterator pointing to the first const-qualified element (if any) of the collection in C++.'
 type: docs
-weight: 2400
+weight: 200
 url: /cpp/system.collections.generic/ienumerable/cbegin/
 ---
 ## IEnumerable::cbegin method

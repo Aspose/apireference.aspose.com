@@ -4,7 +4,7 @@ linktitle: Send
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::Send method. Sends the specified HTTP request in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.net.http/httpclient/send/
 ---
 ## HttpClient::Send method

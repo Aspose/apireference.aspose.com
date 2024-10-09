@@ -4,7 +4,7 @@ linktitle: get_Via
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_Via method. Returns a value of the ''Via'' header in C++.'
 type: docs
-weight: 4500
+weight: 3200
 url: /cpp/system.net.http.headers/httprequestheaders/get_via/
 ---
 ## HttpRequestHeaders::get_Via method

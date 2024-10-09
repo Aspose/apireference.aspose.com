@@ -4,7 +4,7 @@ linktitle: ToUInt32
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToUInt32 method. Converts the value of this instance to an equivalent 32-bit uint32_teger using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 900
+weight: 1600
 url: /cpp/system/iconvertible/touint32/
 ---
 ## IConvertible::ToUInt32 method

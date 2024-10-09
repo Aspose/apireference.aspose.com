@@ -4,7 +4,7 @@ linktitle: MkCol
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Http::MkCol field. The string representation of the ''MKCOL'' method of HTTP in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.net/webrequestmethods/http/mkcol/
 ---
 ## MkCol field

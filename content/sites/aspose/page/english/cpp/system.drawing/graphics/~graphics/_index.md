@@ -4,7 +4,7 @@ linktitle: ~Graphics
 second_title: Aspose.Page for C++
 description: 'How to use ~Graphics method of System::Drawing::Graphics class in C++.'
 type: docs
-weight: 8800
+weight: 400
 url: /cpp/system.drawing/graphics/~graphics/
 ---
 ## Graphics::~Graphics method

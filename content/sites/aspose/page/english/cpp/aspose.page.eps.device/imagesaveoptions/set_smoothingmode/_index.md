@@ -4,7 +4,7 @@ linktitle: set_SmoothingMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::ImageSaveOptions::set_SmoothingMode method. Gets/sets the smoothing mode for rendering image in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.page.eps.device/imagesaveoptions/set_smoothingmode/
 ---
 ## ImageSaveOptions::set_SmoothingMode method

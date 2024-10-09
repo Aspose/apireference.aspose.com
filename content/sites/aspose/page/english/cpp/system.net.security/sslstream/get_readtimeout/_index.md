@@ -4,7 +4,7 @@ linktitle: get_ReadTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::get_ReadTimeout method. Gets a value, in milliseconds, that determines how long the stream will attempt to read before timing out in C++.'
 type: docs
-weight: 1900
+weight: 2800
 url: /cpp/system.net.security/sslstream/get_readtimeout/
 ---
 ## SslStream::get_ReadTimeout method

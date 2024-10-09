@@ -4,7 +4,7 @@ linktitle: set_LinePosition
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObject::set_LinePosition method. Sets the line position in the file to which the schema element refers in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.xml.schema/xmlschemaobject/set_lineposition/
 ---
 ## XmlSchemaObject::set_LinePosition method

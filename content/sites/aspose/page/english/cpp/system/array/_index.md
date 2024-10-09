@@ -139,14 +139,14 @@ template<typename T>class Array : public virtual System::Object,
 
 | Typedef | Description |
 | --- | --- |
-| [ValueType](./valuetype/) | Alias for the type of the elements of the array. |
-| [UnderlyingType](./underlyingtype/) | Alias for the type used to represent each element of the array. |
+| [const_iterator](./const_iterator/) | Const iterator type. |
+| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
 | [EnumerablePtr](./enumerableptr/) | An alias for shared pointer type pointing to IEnumerable object containing elements of type **T**. |
 | [EnumeratorPtr](./enumeratorptr/) | An alias for shared pointer type pointing to IEnumerator object containing elements of type **T**. |
 | [iterator](./iterator/) | Iterator type. |
-| [const_iterator](./const_iterator/) | Const iterator type. |
 | [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
-| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
+| [UnderlyingType](./underlyingtype/) | Alias for the type used to represent each element of the array. |
+| [ValueType](./valuetype/) | Alias for the type of the elements of the array. |
 ## Remarks
 
 

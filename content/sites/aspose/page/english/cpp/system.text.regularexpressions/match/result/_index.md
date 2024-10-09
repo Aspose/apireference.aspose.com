@@ -4,7 +4,7 @@ linktitle: Result
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::Match::Result method. Formats string by replacing submatch references with their values in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.text.regularexpressions/match/result/
 ---
 ## Match::Result method

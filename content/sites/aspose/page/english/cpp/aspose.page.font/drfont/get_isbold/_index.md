@@ -4,7 +4,7 @@ linktitle: get_IsBold
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::get_IsBold method. Gets a value indicating whether this instance is bold in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/aspose.page.font/drfont/get_isbold/
 ---
 ## DrFont::get_IsBold method

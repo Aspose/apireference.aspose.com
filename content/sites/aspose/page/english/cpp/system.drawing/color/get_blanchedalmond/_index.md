@@ -4,7 +4,7 @@ linktitle: get_BlanchedAlmond
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_BlanchedAlmond method. Returns a color whose ARGB value in hexadecimal notation is #FFFFEBCD in C++.'
 type: docs
-weight: 3100
+weight: 3000
 url: /cpp/system.drawing/color/get_blanchedalmond/
 ---
 ## Color::get_BlanchedAlmond method

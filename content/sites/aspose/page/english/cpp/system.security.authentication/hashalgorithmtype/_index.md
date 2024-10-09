@@ -4,7 +4,7 @@ linktitle: HashAlgorithmType
 second_title: Aspose.Page for C++
 description: 'System::Security::Authentication::HashAlgorithmType enum. Enumerates the hash algorithms in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.security.authentication/hashalgorithmtype/
 ---
 ## HashAlgorithmType enum

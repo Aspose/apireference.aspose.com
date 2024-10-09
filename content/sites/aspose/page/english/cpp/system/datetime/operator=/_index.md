@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::DateTime::operator= method. Assigns the value represented by the specified DateTime instance to the current object in C++.'
 type: docs
-weight: 200
+weight: 3800
 url: /cpp/system/datetime/operator=/
 ---
 ## DateTime::operator= method

@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::BitmapData::set_Width method. Sets the width of the image in pixels in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.drawing.imaging/bitmapdata/set_width/
 ---
 ## BitmapData::set_Width method

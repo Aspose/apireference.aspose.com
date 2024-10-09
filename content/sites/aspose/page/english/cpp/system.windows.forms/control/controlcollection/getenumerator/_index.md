@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::GetEnumerator method. Gets enumerator to iterate through collection in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.windows.forms/control/controlcollection/getenumerator/
 ---
 ## ControlCollection::GetEnumerator method

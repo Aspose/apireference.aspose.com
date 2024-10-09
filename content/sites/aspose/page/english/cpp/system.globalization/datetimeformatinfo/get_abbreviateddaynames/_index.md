@@ -4,7 +4,7 @@ linktitle: get_AbbreviatedDayNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_AbbreviatedDayNames method. Gets abbreviated day names in C++.'
 type: docs
-weight: 2100
+weight: 300
 url: /cpp/system.globalization/datetimeformatinfo/get_abbreviateddaynames/
 ---
 ## DateTimeFormatInfo::get_AbbreviatedDayNames method

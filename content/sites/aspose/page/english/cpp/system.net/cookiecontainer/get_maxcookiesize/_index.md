@@ -4,7 +4,7 @@ linktitle: get_MaxCookieSize
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::get_MaxCookieSize method. Gets the maximum cookie size in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.net/cookiecontainer/get_maxcookiesize/
 ---
 ## CookieContainer::get_MaxCookieSize method

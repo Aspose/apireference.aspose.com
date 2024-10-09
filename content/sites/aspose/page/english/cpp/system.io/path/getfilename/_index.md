@@ -4,7 +4,7 @@ linktitle: GetFileName
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::GetFileName method. Returns the name of the file referenced by the specified path in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.io/path/getfilename/
 ---
 ## Path::GetFileName method

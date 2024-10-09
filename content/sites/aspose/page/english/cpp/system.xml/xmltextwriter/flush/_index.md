@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::Flush method. Flushes whatever is in the buffer to the underlying streams and also flushes the underlying stream in C++.'
 type: docs
-weight: 3700
+weight: 300
 url: /cpp/system.xml/xmltextwriter/flush/
 ---
 ## XmlTextWriter::Flush method

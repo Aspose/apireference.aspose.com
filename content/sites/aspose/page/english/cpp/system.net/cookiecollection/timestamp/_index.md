@@ -4,7 +4,7 @@ linktitle: TimeStamp
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::TimeStamp method. Updates the timestamp by specified scenario and returns a new value in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/system.net/cookiecollection/timestamp/
 ---
 ## CookieCollection::TimeStamp method

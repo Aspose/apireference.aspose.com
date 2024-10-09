@@ -4,7 +4,7 @@ linktitle: PrintTicketElement
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PrintTicketElement::PrintTicketElement constructor. Creates a new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/printticketelement/printticketelement/
 ---
 ## PrintTicketElement::PrintTicketElement constructor

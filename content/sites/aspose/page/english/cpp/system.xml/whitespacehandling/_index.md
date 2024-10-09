@@ -4,7 +4,7 @@ linktitle: WhitespaceHandling
 second_title: Aspose.Page for C++
 description: 'System::Xml::WhitespaceHandling enum. Specifies how white space is handled in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/system.xml/whitespacehandling/
 ---
 ## WhitespaceHandling enum

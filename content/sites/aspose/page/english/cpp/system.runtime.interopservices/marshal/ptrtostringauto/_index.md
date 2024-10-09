@@ -4,7 +4,7 @@ linktitle: PtrToStringAuto
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::PtrToStringAuto method. Creates a managed String from an unmanaged zero-terminated string in C++.'
 type: docs
-weight: 2000
+weight: 600
 url: /cpp/system.runtime.interopservices/marshal/ptrtostringauto/
 ---
 ## Marshal::PtrToStringAuto(IntPtr) method

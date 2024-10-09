@@ -4,7 +4,7 @@ linktitle: set_BaseType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_BaseType method. Sets the simple type base value in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/set_basetype/
 ---
 ## XmlSchemaSimpleContentRestriction::set_BaseType method

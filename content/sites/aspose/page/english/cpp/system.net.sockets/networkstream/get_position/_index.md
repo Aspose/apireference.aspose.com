@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::get_Position method. Returns the current position of the stream in C++.'
 type: docs
-weight: 1100
+weight: 1500
 url: /cpp/system.net.sockets/networkstream/get_position/
 ---
 ## NetworkStream::get_Position method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::Clone method. Returns an exact copy of the current object in C++.'
 type: docs
-weight: 1800
+weight: 200
 url: /cpp/system.drawing/stringformat/clone/
 ---
 ## StringFormat::Clone method

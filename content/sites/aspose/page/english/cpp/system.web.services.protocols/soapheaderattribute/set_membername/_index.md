@@ -4,7 +4,7 @@ linktitle: set_MemberName
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeaderAttribute::set_MemberName method. Sets a member variable name of the XML SOAP service that is used to receive the SOAP header contents in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.web.services.protocols/soapheaderattribute/set_membername/
 ---
 ## SoapHeaderAttribute::set_MemberName method

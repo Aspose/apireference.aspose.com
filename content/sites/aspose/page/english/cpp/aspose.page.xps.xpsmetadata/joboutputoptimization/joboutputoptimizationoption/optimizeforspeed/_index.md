@@ -4,7 +4,7 @@ linktitle: OptimizeForSpeed
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobOutputOptimization::JobOutputOptimizationOption::OptimizeForSpeed field. Specifies the job processing be optimized for speed of output in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.page.xps.xpsmetadata/joboutputoptimization/joboutputoptimizationoption/optimizeforspeed/
 ---
 ## OptimizeForSpeed field

@@ -4,7 +4,7 @@ linktitle: SecureStringToGlobalAllocUnicode
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::SecureStringToGlobalAllocUnicode method. Copies contents of specified secure string into unmanaged memory in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/system.runtime.interopservices/marshal/securestringtoglobalallocunicode/
 ---
 ## Marshal::SecureStringToGlobalAllocUnicode method

@@ -4,7 +4,7 @@ linktitle: LoadIntoBuffer
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpContent::LoadIntoBuffer method. Serializes content to a memory buffer in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.net.http/httpcontent/loadintobuffer/
 ---
 ## HttpContent::LoadIntoBuffer() method

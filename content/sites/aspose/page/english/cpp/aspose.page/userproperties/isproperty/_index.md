@@ -4,7 +4,7 @@ linktitle: IsProperty
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::IsProperty method. Gets boolean property value in C++.'
 type: docs
-weight: 1600
+weight: 1200
 url: /cpp/aspose.page/userproperties/isproperty/
 ---
 ## UserProperties::IsProperty(System::String) method

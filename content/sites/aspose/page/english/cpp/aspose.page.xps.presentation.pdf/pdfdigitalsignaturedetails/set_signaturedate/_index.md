@@ -4,7 +4,7 @@ linktitle: set_SignatureDate
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfDigitalSignatureDetails::set_SignatureDate method. Date of signing in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.page.xps.presentation.pdf/pdfdigitalsignaturedetails/set_signaturedate/
 ---
 ## PdfDigitalSignatureDetails::set_SignatureDate method

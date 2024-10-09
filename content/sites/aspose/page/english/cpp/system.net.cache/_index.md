@@ -4,7 +4,7 @@ linktitle: System::Net::Cache
 second_title: Aspose.Page for C++
 description: 'How to use System::Net::Cache namespace in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/system.net.cache/
 ---
 
@@ -20,6 +20,6 @@ url: /cpp/system.net.cache/
 
 | Enum | Description |
 | --- | --- |
-| [RequestCacheLevel](./requestcachelevel/) | The enum describes cache settings applicable for any [WebRequest](../system.net/webrequest/). |
-| [HttpRequestCacheLevel](./httprequestcachelevel/) | The enum describes cache settings for HTTP. |
 | [HttpCacheAgeControl](./httpcacheagecontrol/) | CacheAgeControl is used to specify preferences with respect of cached item age and freshness. |
+| [HttpRequestCacheLevel](./httprequestcachelevel/) | The enum describes cache settings for HTTP. |
+| [RequestCacheLevel](./requestcachelevel/) | The enum describes cache settings applicable for any [WebRequest](../system.net/webrequest/). |

@@ -4,7 +4,7 @@ linktitle: operator->
 second_title: Aspose.Page for C++
 description: 'System::SmartPtrInfo::operator-> method. Allows to call methods of Object pointed by the referenced pointer in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system/smartptrinfo/operator-_/
 ---
 ## SmartPtrInfo::operator-> method

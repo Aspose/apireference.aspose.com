@@ -4,7 +4,7 @@ linktitle: get_ImageSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::get_ImageSize method. Gets/sets the size of the output images in pixels in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/get_imagesize/
 ---
 ## ImageSaveOptions::get_ImageSize method

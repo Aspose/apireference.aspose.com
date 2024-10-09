@@ -4,7 +4,7 @@ linktitle: RTL
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::RTL field. Specified device language is RTL in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/rtl/
 ---
 ## RTL field

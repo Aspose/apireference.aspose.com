@@ -4,7 +4,7 @@ linktitle: get_ListSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::get_ListSeparator method. Gets list separator in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.globalization/textinfo/get_listseparator/
 ---
 ## TextInfo::get_ListSeparator method

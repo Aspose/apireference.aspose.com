@@ -2,11 +2,34 @@
 title: System::Drawing::Drawing2D::PathGradientBrush::PathGradientBrush constructor
 linktitle: PathGradientBrush
 second_title: Aspose.Page for C++
-description: 'System::Drawing::Drawing2D::PathGradientBrush::PathGradientBrush constructor. RTTI information in C++.'
+description: 'System::Drawing::Drawing2D::PathGradientBrush::PathGradientBrush constructor. Constructs a new instance of PathGradientBrush class in C++.'
 type: docs
 weight: 100
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/pathgradientbrush/
 ---
+## PathGradientBrush::PathGradientBrush(const ArrayPtr\<Point\>\&, WrapMode) constructor
+
+
+Constructs a new instance of [PathGradientBrush](../) class.
+
+```cpp
+System::Drawing::Drawing2D::PathGradientBrush::PathGradientBrush(const ArrayPtr<Point> &points, WrapMode wrapMode=WrapMode::Clamp)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| points | const ArrayPtr\<Point\>\& | An array that contains vertices of the path |
+| wrapMode | WrapMode | Specifies how the fills drawn by a brush represented by the object being created should be tiled |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Point](../../../system.drawing/point/)
+* Enum [WrapMode](../../wrapmode/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Page for C++](../../../)
 ## PathGradientBrush::PathGradientBrush(const ArrayPtr\<PointF\>\&, WrapMode) constructor
 
 
@@ -29,29 +52,6 @@ Constructs a new instance of [PathGradientBrush](../) class.
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PointF](../../../system.drawing/pointf/)
-* Enum [WrapMode](../../wrapmode/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Page for C++](../../../)
-## PathGradientBrush::PathGradientBrush(const ArrayPtr\<Point\>\&, WrapMode) constructor
-
-
-Constructs a new instance of [PathGradientBrush](../) class.
-
-```cpp
-System::Drawing::Drawing2D::PathGradientBrush::PathGradientBrush(const ArrayPtr<Point> &points, WrapMode wrapMode=WrapMode::Clamp)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| points | const ArrayPtr\<Point\>\& | An array that contains vertices of the path |
-| wrapMode | WrapMode | Specifies how the fills drawn by a brush represented by the object being created should be tiled |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Point](../../../system.drawing/point/)
 * Enum [WrapMode](../../wrapmode/)
 * Class [PathGradientBrush](../)
 * Namespace [System::Drawing::Drawing2D](../../)

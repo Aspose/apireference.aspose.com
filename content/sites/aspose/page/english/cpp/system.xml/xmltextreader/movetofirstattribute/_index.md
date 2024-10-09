@@ -4,7 +4,7 @@ linktitle: MoveToFirstAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::MoveToFirstAttribute method. Moves to the first attribute in C++.'
 type: docs
-weight: 4100
+weight: 4000
 url: /cpp/system.xml/xmltextreader/movetofirstattribute/
 ---
 ## XmlTextReader::MoveToFirstAttribute method

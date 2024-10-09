@@ -4,7 +4,7 @@ linktitle: set_CheckCertificateRevocationList
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePointManager::set_CheckCertificateRevocationList method. Sets a value that indicates if the certificate must be checked against the certificate authority revocation list in C++.'
 type: docs
-weight: 2400
+weight: 1500
 url: /cpp/system.net/servicepointmanager/set_checkcertificaterevocationlist/
 ---
 ## ServicePointManager::set_CheckCertificateRevocationList method

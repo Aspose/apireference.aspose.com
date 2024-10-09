@@ -4,7 +4,7 @@ linktitle: get_ConformanceLevel
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_ConformanceLevel method. Returns the level of conformance that the XML writer checks the XML output for in C++.'
 type: docs
-weight: 1700
+weight: 500
 url: /cpp/system.xml/xmlwritersettings/get_conformancelevel/
 ---
 ## XmlWriterSettings::get_ConformanceLevel method

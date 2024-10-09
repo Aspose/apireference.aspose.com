@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::Close method. When overridden in a derived class, changes the XmlReader::get_ReadState to ReadState::Closed in C++.'
 type: docs
-weight: 5500
+weight: 100
 url: /cpp/system.xml/xmlreader/close/
 ---
 ## XmlReader::Close method

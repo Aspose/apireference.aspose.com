@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::idx_get method. Provides access to element''s children by index i  in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/idx_get/
 ---
 ## XpsElement::idx_get method

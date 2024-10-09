@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::ListImpl::Contains method. Determines whether the collection contains a specific element in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.collections/collectionbase/listimpl/contains/
 ---
 ## ListImpl::Contains method

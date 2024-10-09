@@ -4,7 +4,7 @@ linktitle: get_Transform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_Transform method. Returns the geometric world transformation for the current Graphics object in C++.'
 type: docs
-weight: 4800
+weight: 5700
 url: /cpp/system.drawing/graphics/get_transform/
 ---
 ## Graphics::get_Transform method

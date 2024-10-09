@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::Clone method. Clones this transformation matrix in C++.'
 type: docs
-weight: 2000
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/clone/
 ---
 ## XpsMatrix::Clone method

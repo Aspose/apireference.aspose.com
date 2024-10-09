@@ -4,7 +4,7 @@ linktitle: set_IfRange
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_IfRange method. Sets a value of the ''If-Range'' header in C++.'
 type: docs
-weight: 1900
+weight: 4200
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifrange/
 ---
 ## HttpRequestHeaders::set_IfRange method

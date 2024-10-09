@@ -4,7 +4,7 @@ linktitle: ReadContentAsString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAsString method. Reads the text content at the current position as a String object in C++.'
 type: docs
-weight: 3500
+weight: 5100
 url: /cpp/system.xml/xmlreader/readcontentasstring/
 ---
 ## XmlReader::ReadContentAsString method

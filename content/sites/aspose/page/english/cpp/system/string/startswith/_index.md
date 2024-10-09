@@ -4,7 +4,7 @@ linktitle: StartsWith
 second_title: Aspose.Page for C++
 description: 'System::String::StartsWith method. Checks if string begins with specified substring in C++.'
 type: docs
-weight: 3500
+weight: 4200
 url: /cpp/system/string/startswith/
 ---
 ## String::StartsWith(const String\&) const method
@@ -28,32 +28,6 @@ true if string starts with specified substring, false otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::StartsWith(const String\&, System::StringComparison) const method
-
-
-Checks if string begins with specified substring.
-
-```cpp
-bool System::String::StartsWith(const String &value, System::StringComparison comparisonType) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | Lookup string. |
-| comparisonType | System::StringComparison | [Comparison](../../comparison/) mode, see [System::StringComparison](../../stringcomparison/) for details. |
-
-### ReturnValue
-
-true if string starts with specified substring, false otherwise.
-
-## See Also
-
-* Class [String](../)
-* Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -82,6 +56,32 @@ true if string starts with specified substring, false otherwise.
 * Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::StartsWith(const String\&, System::StringComparison) const method
+
+
+Checks if string begins with specified substring.
+
+```cpp
+bool System::String::StartsWith(const String &value, System::StringComparison comparisonType) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | Lookup string. |
+| comparisonType | System::StringComparison | [Comparison](../../comparison/) mode, see [System::StringComparison](../../stringcomparison/) for details. |
+
+### ReturnValue
+
+true if string starts with specified substring, false otherwise.
+
+## See Also
+
+* Class [String](../)
+* Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

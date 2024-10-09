@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Stopwatch::Reset method. Stops time measurement, sets measured interval to zero in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.diagnostics/stopwatch/reset/
 ---
 ## Stopwatch::Reset method

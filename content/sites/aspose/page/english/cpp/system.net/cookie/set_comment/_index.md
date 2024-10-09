@@ -4,7 +4,7 @@ linktitle: set_Comment
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Comment method. Sets the ''Comment'' attribute''s value in C++.'
 type: docs
-weight: 200
+weight: 2500
 url: /cpp/system.net/cookie/set_comment/
 ---
 ## Cookie::set_Comment method

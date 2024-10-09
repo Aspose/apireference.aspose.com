@@ -4,7 +4,7 @@ linktitle: get_BatchSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfSaveOptions::get_BatchSize method. Specifies the size of a portion of pages to pass from node to node in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/aspose.page.xps.presentation.pdf/pdfsaveoptions/get_batchsize/
 ---
 ## PdfSaveOptions::get_BatchSize method

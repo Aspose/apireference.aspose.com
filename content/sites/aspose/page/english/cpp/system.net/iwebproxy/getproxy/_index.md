@@ -4,7 +4,7 @@ linktitle: GetProxy
 second_title: Aspose.Page for C++
 description: 'System::Net::IWebProxy::GetProxy method. Returns the proxy URI in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.net/iwebproxy/getproxy/
 ---
 ## IWebProxy::GetProxy method

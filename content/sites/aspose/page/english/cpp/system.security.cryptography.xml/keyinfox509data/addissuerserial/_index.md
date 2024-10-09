@@ -4,7 +4,7 @@ linktitle: AddIssuerSerial
 second_title: Aspose.Page for C++
 description: 'How to use AddIssuerSerial method of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.security.cryptography.xml/keyinfox509data/addissuerserial/
 ---
 ## KeyInfoX509Data::AddIssuerSerial method

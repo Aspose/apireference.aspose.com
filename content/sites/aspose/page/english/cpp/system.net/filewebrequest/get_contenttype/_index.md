@@ -4,7 +4,7 @@ linktitle: get_ContentType
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebRequest::get_ContentType method. Gets the MIME type of the request in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.net/filewebrequest/get_contenttype/
 ---
 ## FileWebRequest::get_ContentType method

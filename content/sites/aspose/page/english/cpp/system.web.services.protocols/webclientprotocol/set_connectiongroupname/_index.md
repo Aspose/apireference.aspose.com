@@ -4,7 +4,7 @@ linktitle: set_ConnectionGroupName
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::set_ConnectionGroupName method. Sets the name of the connection group in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/system.web.services.protocols/webclientprotocol/set_connectiongroupname/
 ---
 ## WebClientProtocol::set_ConnectionGroupName method

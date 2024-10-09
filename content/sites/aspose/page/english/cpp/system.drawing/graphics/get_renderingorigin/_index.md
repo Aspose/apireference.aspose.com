@@ -4,7 +4,7 @@ linktitle: get_RenderingOrigin
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_RenderingOrigin method. Returns a Point object that represents the rendering origin of the current Graphics object for dithering and for hatch brushes in C++.'
 type: docs
-weight: 4600
+weight: 5300
 url: /cpp/system.drawing/graphics/get_renderingorigin/
 ---
 ## Graphics::get_RenderingOrigin method

@@ -4,7 +4,7 @@ linktitle: PRC3Envelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::PRC3Envelope field. PRC3 envelope in C++.'
 type: docs
-weight: 13500
+weight: 15200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/prc3envelope/
 ---
 ## PRC3Envelope field

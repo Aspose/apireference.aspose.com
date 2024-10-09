@@ -4,7 +4,7 @@ linktitle: XmlSchemaNotation
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaNotation::XmlSchemaNotation constructor. Initializes a new instance of the XmlSchemaNotation class in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.xml.schema/xmlschemanotation/xmlschemanotation/
 ---
 ## XmlSchemaNotation::XmlSchemaNotation constructor

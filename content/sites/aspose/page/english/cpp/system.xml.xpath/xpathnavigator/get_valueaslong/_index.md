@@ -4,7 +4,7 @@ linktitle: get_ValueAsLong
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_ValueAsLong method. Returns the current node''s value as an Int64 in C++.'
 type: docs
-weight: 900
+weight: 3400
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueaslong/
 ---
 ## XPathNavigator::get_ValueAsLong method

@@ -4,7 +4,7 @@ linktitle: get_Context
 second_title: Aspose.Page for C++
 description: 'How to use get_Context method of System::Security::Cryptography::Xml::Transform class in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.security.cryptography.xml/transform/get_context/
 ---
 ## Transform::get_Context method

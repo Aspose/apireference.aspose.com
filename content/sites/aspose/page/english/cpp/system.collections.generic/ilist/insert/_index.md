@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IList::Insert method. Inserts element into specified position, shifting other elements in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.collections.generic/ilist/insert/
 ---
 ## IList::Insert method

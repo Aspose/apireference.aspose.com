@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWhitespace::get_NodeType method. Returns the type of the node in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml/xmlwhitespace/get_nodetype/
 ---
 ## XmlWhitespace::get_NodeType method

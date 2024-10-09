@@ -1,60 +1,19 @@
 ---
-title: System::Nullable::operator> method
-linktitle: operator>
+title: System::Nullable::operator< method
+linktitle: operator<
 second_title: Aspose.Page for C++
-description: 'System::Nullable::operator> method. Always returns false in C++.'
+description: 'System::Nullable::operator< method. Determines if the value represented by the current object is less than the value represented by the specified Nullable object by applying operator<() to these values in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/system/nullable/operator_/
 ---
-## Nullable::operator>(std::nullptr_t) const method
+## Nullable::operator<(const Nullable\<T1\>\&) const method
 
 
-Always returns false.
-
-```cpp
-bool System::Nullable<T>::operator>(std::nullptr_t) const
-```
-
-## See Also
-
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Nullable::operator>(const T1\&) const method
-
-
-Determines if the value represented by the current object is greater than the specified value by applying [operator>()](./) to these values.
+Determines if the value represented by the current object is less than the value represented by the specified [Nullable](../) object by applying [operator<()](./) to these values.
 
 ```cpp
-template<typename T1> std::enable_if<!IsNullable<T1>::value, bool>::type System::Nullable<T>::operator>(const T1 &other) const
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T1 | The type of the value to compare with |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | const T1\& | A constant reference to the value to compare with |
-
-### ReturnValue
-
-True if the value represented by the current object is greater than the specified value, otherwise - false
-
-## See Also
-
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Nullable::operator>(const Nullable\<T1\>\&) const method
-
-
-Determines if the value represented by the current object is greater than the value represented by the specified [Nullable](../) object by applying [operator>()](./) to these values.
-
-```cpp
-template<typename T1> bool System::Nullable<T>::operator>(const Nullable<T1> &other) const
+template<typename T1> bool System::Nullable<T>::operator<(const Nullable<T1> &other) const
 ```
 
 
@@ -68,34 +27,11 @@ template<typename T1> bool System::Nullable<T>::operator>(const Nullable<T1> &ot
 
 ### ReturnValue
 
-True if the value represented by the current object is greater than the value represented by the specified [Nullable](../) object, otherwise - false
+True if the value represented by the current object is less than the value represented by the specified [Nullable](../) object, otherwise - false
 
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
----
-title: System::Nullable::operator< method
-linktitle: operator<
-second_title: Aspose.Page for C++
-description: 'System::Nullable::operator< method. Always returns false in C++.'
-type: docs
-weight: 1300
-url: /cpp/system/nullable/operator_/
----
-## Nullable::operator<(std::nullptr_t) const method
-
-
-Always returns false.
-
-```cpp
-bool System::Nullable<T>::operator<(std::nullptr_t) const
-```
-
-## See Also
-
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -126,13 +62,36 @@ True if the value represented by the current object is less than the specified v
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::operator<(const Nullable\<T1\>\&) const method
+## Nullable::operator<(std::nullptr_t) const method
 
 
-Determines if the value represented by the current object is less than the value represented by the specified [Nullable](../) object by applying [operator<()](./) to these values.
+Always returns false.
 
 ```cpp
-template<typename T1> bool System::Nullable<T>::operator<(const Nullable<T1> &other) const
+bool System::Nullable<T>::operator<(std::nullptr_t) const
+```
+
+## See Also
+
+* Class [Nullable](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+---
+title: System::Nullable::operator> method
+linktitle: operator>
+second_title: Aspose.Page for C++
+description: 'System::Nullable::operator> method. Determines if the value represented by the current object is greater than the value represented by the specified Nullable object by applying operator>() to these values in C++.'
+type: docs
+weight: 2000
+url: /cpp/system/nullable/operator_/
+---
+## Nullable::operator>(const Nullable\<T1\>\&) const method
+
+
+Determines if the value represented by the current object is greater than the value represented by the specified [Nullable](../) object by applying [operator>()](./) to these values.
+
+```cpp
+template<typename T1> bool System::Nullable<T>::operator>(const Nullable<T1> &other) const
 ```
 
 
@@ -146,11 +105,52 @@ template<typename T1> bool System::Nullable<T>::operator<(const Nullable<T1> &ot
 
 ### ReturnValue
 
-True if the value represented by the current object is less than the value represented by the specified [Nullable](../) object, otherwise - false
+True if the value represented by the current object is greater than the value represented by the specified [Nullable](../) object, otherwise - false
 
 ## See Also
 
 * Class [Nullable](../)
+* Class [Nullable](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Nullable::operator>(const T1\&) const method
+
+
+Determines if the value represented by the current object is greater than the specified value by applying [operator>()](./) to these values.
+
+```cpp
+template<typename T1> std::enable_if<!IsNullable<T1>::value, bool>::type System::Nullable<T>::operator>(const T1 &other) const
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T1 | The type of the value to compare with |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | const T1\& | A constant reference to the value to compare with |
+
+### ReturnValue
+
+True if the value represented by the current object is greater than the specified value, otherwise - false
+
+## See Also
+
+* Class [Nullable](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Nullable::operator>(std::nullptr_t) const method
+
+
+Always returns false.
+
+```cpp
+bool System::Nullable<T>::operator>(std::nullptr_t) const
+```
+
+## See Also
+
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

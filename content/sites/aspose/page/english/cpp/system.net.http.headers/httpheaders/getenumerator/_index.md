@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::GetEnumerator method. Gets enumerator in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.net.http.headers/httpheaders/getenumerator/
 ---
 ## HttpHeaders::GetEnumerator method

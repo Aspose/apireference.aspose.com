@@ -4,7 +4,7 @@ linktitle: BeginRead
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::BeginRead method. Initiates an asynchronous read operation in C++.'
 type: docs
-weight: 3300
+weight: 300
 url: /cpp/system.net.security/sslstream/beginread/
 ---
 ## SslStream::BeginRead method

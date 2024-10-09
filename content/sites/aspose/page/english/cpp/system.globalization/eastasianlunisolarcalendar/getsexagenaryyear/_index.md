@@ -4,7 +4,7 @@ linktitle: GetSexagenaryYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::EastAsianLunisolarCalendar::GetSexagenaryYear method. Gets the year in the sexagenary cycle in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.globalization/eastasianlunisolarcalendar/getsexagenaryyear/
 ---
 ## EastAsianLunisolarCalendar::GetSexagenaryYear method

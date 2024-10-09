@@ -4,7 +4,7 @@ linktitle: get_IndentChars
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_IndentChars method. Returns the character string to use when indenting. This setting is used when the XmlWriterSettings::set_Indent value is set to true in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.xml/xmlwritersettings/get_indentchars/
 ---
 ## XmlWriterSettings::get_IndentChars method

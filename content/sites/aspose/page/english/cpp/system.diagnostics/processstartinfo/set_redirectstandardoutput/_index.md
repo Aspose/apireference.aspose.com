@@ -4,7 +4,7 @@ linktitle: set_RedirectStandardOutput
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::ProcessStartInfo::set_RedirectStandardOutput method. Sets RedirectStandardOutput property in C++.'
 type: docs
-weight: 900
+weight: 1700
 url: /cpp/system.diagnostics/processstartinfo/set_redirectstandardoutput/
 ---
 ## ProcessStartInfo::set_RedirectStandardOutput method

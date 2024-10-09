@@ -4,7 +4,7 @@ linktitle: get_AnyAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleContentRestriction::get_AnyAttribute method. Returns an XmlSchemaAnyAttribute to be used for the attribute value in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/get_anyattribute/
 ---
 ## XmlSchemaSimpleContentRestriction::get_AnyAttribute method

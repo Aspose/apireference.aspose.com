@@ -4,7 +4,7 @@ linktitle: ReadBytes
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadBytes method. Reads the specified number of bytes from the input stream in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.io/binaryreader/readbytes/
 ---
 ## BinaryReader::ReadBytes method

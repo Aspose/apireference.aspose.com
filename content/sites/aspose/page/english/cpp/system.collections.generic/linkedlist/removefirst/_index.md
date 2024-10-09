@@ -4,7 +4,7 @@ linktitle: RemoveFirst
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::RemoveFirst method. Removes first node from list in C++.'
 type: docs
-weight: 1700
+weight: 2400
 url: /cpp/system.collections.generic/linkedlist/removefirst/
 ---
 ## LinkedList::RemoveFirst method

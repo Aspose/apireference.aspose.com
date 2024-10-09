@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Timers::Timer::Dispose method. Stops timer, frees allocated resources in C++.'
 type: docs
-weight: 1200
+weight: 300
 url: /cpp/system.timers/timer/dispose/
 ---
 ## Timer::Dispose method

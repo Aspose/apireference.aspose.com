@@ -4,7 +4,7 @@ linktitle: Substring
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::Substring method. Retrieves a substring of the full string from the specified range in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/system.xml/xmlcharacterdata/substring/
 ---
 ## XmlCharacterData::Substring method

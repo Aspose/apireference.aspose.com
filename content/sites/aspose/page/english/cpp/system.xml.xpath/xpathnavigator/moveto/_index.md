@@ -4,7 +4,7 @@ linktitle: MoveTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveTo method. When overridden in a derived class, moves the XPathNavigator to the same position as the specified XPathNavigator in C++.'
 type: docs
-weight: 5200
+weight: 5000
 url: /cpp/system.xml.xpath/xpathnavigator/moveto/
 ---
 ## XPathNavigator::MoveTo method

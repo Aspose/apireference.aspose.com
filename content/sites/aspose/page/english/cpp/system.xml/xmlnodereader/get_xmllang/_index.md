@@ -4,7 +4,7 @@ linktitle: get_XmlLang
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::get_XmlLang method. Returns the current xml:lang scope in C++.'
 type: docs
-weight: 1400
+weight: 2200
 url: /cpp/system.xml/xmlnodereader/get_xmllang/
 ---
 ## XmlNodeReader::get_XmlLang method

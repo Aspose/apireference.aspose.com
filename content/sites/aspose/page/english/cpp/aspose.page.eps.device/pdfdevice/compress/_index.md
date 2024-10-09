@@ -4,7 +4,7 @@ linktitle: COMPRESS
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::COMPRESS method. "Compress" property key in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/aspose.page.eps.device/pdfdevice/compress/
 ---
 ## PdfDevice::COMPRESS method

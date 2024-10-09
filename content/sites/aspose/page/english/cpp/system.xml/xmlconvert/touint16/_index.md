@@ -4,7 +4,7 @@ linktitle: ToUInt16
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToUInt16 method. Converts the String to a UInt16 equivalent in C++.'
 type: docs
-weight: 2700
+weight: 2600
 url: /cpp/system.xml/xmlconvert/touint16/
 ---
 ## XmlConvert::ToUInt16 method

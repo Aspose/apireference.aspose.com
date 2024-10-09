@@ -4,7 +4,7 @@ linktitle: get_CaptionFont
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SystemFonts::get_CaptionFont method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.drawing/systemfonts/get_captionfont/
 ---
 ## SystemFonts::get_CaptionFont method

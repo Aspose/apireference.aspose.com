@@ -4,7 +4,7 @@ linktitle: operator<
 second_title: Aspose.Page for C++
 description: 'System::String::operator< method. Order-compares strings in C++.'
 type: docs
-weight: 2500
+weight: 2900
 url: /cpp/system/string/operator_/
 ---
 ## String::operator< method

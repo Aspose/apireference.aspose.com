@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::Xml::KeyInfo::virtualizeBeginIterator method. Gets the implementation of begin iterator for the current container in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.security.cryptography.xml/keyinfo/virtualizebeginiterator/
 ---
 ## KeyInfo::virtualizeBeginIterator method

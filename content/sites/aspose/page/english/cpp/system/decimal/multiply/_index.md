@@ -4,7 +4,7 @@ linktitle: Multiply
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Multiply method. Multiplies two specified Decimal values in C++.'
 type: docs
-weight: 4800
+weight: 4000
 url: /cpp/system/decimal/multiply/
 ---
 ## Decimal::Multiply method

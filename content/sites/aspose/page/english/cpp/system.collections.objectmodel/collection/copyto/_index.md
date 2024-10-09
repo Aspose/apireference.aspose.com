@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::CopyTo method. Copies collection elements into existing array elements in C++.'
 type: docs
-weight: 1500
+weight: 500
 url: /cpp/system.collections.objectmodel/collection/copyto/
 ---
 ## Collection::CopyTo method

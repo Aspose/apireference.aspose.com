@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplValueType::Clear method. Deletes all elements in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.collections/ilistimplvaluetype/clear/
 ---
 ## IListImplValueType::Clear method

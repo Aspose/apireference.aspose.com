@@ -4,7 +4,7 @@ linktitle: SetHeader
 second_title: Aspose.Page for C++
 description: 'How to use SetHeader method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 4100
+weight: 5500
 url: /cpp/aspose.page.eps.device/pdfdevice/setheader/
 ---
 ## PdfDevice::SetHeader method

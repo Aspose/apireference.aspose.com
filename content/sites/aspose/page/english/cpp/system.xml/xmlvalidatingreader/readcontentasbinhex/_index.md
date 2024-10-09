@@ -4,7 +4,7 @@ linktitle: ReadContentAsBinHex
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::ReadContentAsBinHex method. Reads the content and returns the BinHex decoded binary bytes in C++.'
 type: docs
-weight: 4700
+weight: 4200
 url: /cpp/system.xml/xmlvalidatingreader/readcontentasbinhex/
 ---
 ## XmlValidatingReader::ReadContentAsBinHex method

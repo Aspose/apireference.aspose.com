@@ -4,7 +4,7 @@ linktitle: get_Expires
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::get_Expires method. Gets a value of the ''Expires'' header in C++.'
 type: docs
-weight: 1600
+weight: 1100
 url: /cpp/system.net.http.headers/httpcontentheaders/get_expires/
 ---
 ## HttpContentHeaders::get_Expires method

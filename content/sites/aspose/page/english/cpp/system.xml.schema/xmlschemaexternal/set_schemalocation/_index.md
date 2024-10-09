@@ -4,7 +4,7 @@ linktitle: set_SchemaLocation
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaExternal::set_SchemaLocation method. Sets the Uniform Resource Identifier (URI) location for the schema, which tells the schema processor where the schema physically resides in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.xml.schema/xmlschemaexternal/set_schemalocation/
 ---
 ## XmlSchemaExternal::set_SchemaLocation method

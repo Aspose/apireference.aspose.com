@@ -4,7 +4,7 @@ linktitle: get_Markup
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAppInfo::get_Markup method. Returns an array of XmlNode objects that represents the appinfo child nodes in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaappinfo/get_markup/
 ---
 ## XmlSchemaAppInfo::get_Markup method

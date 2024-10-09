@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::get_Count method. Gets number of elements in collection in C++.'
 type: docs
-weight: 300
+weight: 1400
 url: /cpp/system.collections.specialized/stringcollection/get_count/
 ---
 ## StringCollection::get_Count method

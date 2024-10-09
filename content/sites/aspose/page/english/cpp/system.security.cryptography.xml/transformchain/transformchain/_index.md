@@ -4,7 +4,7 @@ linktitle: TransformChain
 second_title: Aspose.Page for C++
 description: 'How to use TransformChain constructor of System::Security::Cryptography::Xml::TransformChain class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.security.cryptography.xml/transformchain/transformchain/
 ---
 ## TransformChain::TransformChain constructor

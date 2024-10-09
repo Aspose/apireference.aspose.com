@@ -4,7 +4,7 @@ linktitle: operator--
 second_title: Aspose.Page for C++
 description: 'How to use operator-- method of System::Collections::ObjectModel::Collection::reverse_iterator_prototype class in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.objectmodel/collection/reverse_iterator_prototype/operator--/
 ---
 ## reverse_iterator_prototype::operator-- method

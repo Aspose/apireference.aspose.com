@@ -4,7 +4,7 @@ linktitle: RangeConditionHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::RangeConditionHeaderValue::RangeConditionHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.http.headers/rangeconditionheadervalue/rangeconditionheadervalue/
 ---
 ## RangeConditionHeaderValue::RangeConditionHeaderValue(DateTimeOffset) constructor
@@ -27,6 +27,26 @@ System::Net::Http::Headers::RangeConditionHeaderValue::RangeConditionHeaderValue
 * Class [RangeConditionHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.Page for C++](../../../)
+## RangeConditionHeaderValue::RangeConditionHeaderValue(String) constructor
+
+
+Constructs a new instance.
+
+```cpp
+System::Net::Http::Headers::RangeConditionHeaderValue::RangeConditionHeaderValue(String entityTag)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| entityTag | String | The string representation of the 'ETag' header value. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [RangeConditionHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Page for C++](../../../)
 ## RangeConditionHeaderValue::RangeConditionHeaderValue(System::SharedPtr\<EntityTagHeaderValue\>) constructor
 
 
@@ -45,26 +65,6 @@ System::Net::Http::Headers::RangeConditionHeaderValue::RangeConditionHeaderValue
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EntityTagHeaderValue](../../entitytagheadervalue/)
-* Class [RangeConditionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Page for C++](../../../)
-## RangeConditionHeaderValue::RangeConditionHeaderValue(String) constructor
-
-
-Constructs a new instance.
-
-```cpp
-System::Net::Http::Headers::RangeConditionHeaderValue::RangeConditionHeaderValue(String entityTag)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entityTag | String | The string representation of the 'ETag' header value. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [RangeConditionHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: WaitOne
 second_title: Aspose.Page for C++
 description: 'System::Threading::WaitHandle::WaitOne method. Waits for the handle to fire for unlimited period in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.threading/waithandle/waitone/
 ---
 ## WaitHandle::WaitOne() method
@@ -49,30 +49,6 @@ True if handle fired, false if timeout exceeded.
 * Class [WaitHandle](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.Page for C++](../../../)
-## WaitHandle::WaitOne(TimeSpan) method
-
-
-Waits for the handle to fire.
-
-```cpp
-virtual bool System::Threading::WaitHandle::WaitOne(TimeSpan timeout)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| timeout | TimeSpan | A [System::TimeSpan](../../../system/timespan/) that represents the number of milliseconds to wait, or a [System::TimeSpan](../../../system/timespan/) that represents -1 milliseconds to wait indefinitely. |
-
-### ReturnValue
-
-True if handle fired, false if timeout exceeded.
-
-## See Also
-
-* Class [TimeSpan](../../../system/timespan/)
-* Class [WaitHandle](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Page for C++](../../../)
 ## WaitHandle::WaitOne(int, bool) method
 
 
@@ -94,6 +70,30 @@ True if handle fired, false if timeout exceeded.
 
 ## See Also
 
+* Class [WaitHandle](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Page for C++](../../../)
+## WaitHandle::WaitOne(TimeSpan) method
+
+
+Waits for the handle to fire.
+
+```cpp
+virtual bool System::Threading::WaitHandle::WaitOne(TimeSpan timeout)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| timeout | TimeSpan | A [System::TimeSpan](../../../system/timespan/) that represents the number of milliseconds to wait, or a [System::TimeSpan](../../../system/timespan/) that represents -1 milliseconds to wait indefinitely. |
+
+### ReturnValue
+
+True if handle fired, false if timeout exceeded.
+
+## See Also
+
+* Class [TimeSpan](../../../system/timespan/)
 * Class [WaitHandle](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.Page for C++](../../../)

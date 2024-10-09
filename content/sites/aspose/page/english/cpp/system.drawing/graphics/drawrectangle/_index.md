@@ -4,34 +4,9 @@ linktitle: DrawRectangle
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawRectangle method. Draws the specified rectangle using the specified pen on the surface represented by the current object in C++.'
 type: docs
-weight: 2300
+weight: 2600
 url: /cpp/system.drawing/graphics/drawrectangle/
 ---
-## Graphics::DrawRectangle(const SharedPtr\<Pen\>\&, int, int, int, int) method
-
-
-Draws the specified rectangle using the specified pen on the surface represented by the current object.
-
-```cpp
-void System::Drawing::Graphics::DrawRectangle(const SharedPtr<Pen> &pen, int x, int y, int width, int height)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pen | const SharedPtr\<Pen\>\& | A pen to use when drawing the rectangle |
-| x | int | The X coordinate of the upper left corner of the rectangle to draw |
-| y | int | The Y coordinate of the upper left corner of the rectangle to draw |
-| width | int | The width of the rectangle to draw |
-| height | int | The height of the rectangle to draw |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Pen](../../pen/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Graphics::DrawRectangle(const SharedPtr\<Pen\>\&, float, float, float, float) method
 
 
@@ -49,6 +24,31 @@ void System::Drawing::Graphics::DrawRectangle(const SharedPtr<Pen> &pen, float x
 | y | float | The Y coordinate of the upper left corner of the rectangle to draw |
 | width | float | The width of the rectangle to draw |
 | height | float | The height of the rectangle to draw |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Graphics::DrawRectangle(const SharedPtr\<Pen\>\&, int, int, int, int) method
+
+
+Draws the specified rectangle using the specified pen on the surface represented by the current object.
+
+```cpp
+void System::Drawing::Graphics::DrawRectangle(const SharedPtr<Pen> &pen, int x, int y, int width, int height)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pen | const SharedPtr\<Pen\>\& | A pen to use when drawing the rectangle |
+| x | int | The X coordinate of the upper left corner of the rectangle to draw |
+| y | int | The Y coordinate of the upper left corner of the rectangle to draw |
+| width | int | The width of the rectangle to draw |
+| height | int | The height of the rectangle to draw |
 
 ## See Also
 

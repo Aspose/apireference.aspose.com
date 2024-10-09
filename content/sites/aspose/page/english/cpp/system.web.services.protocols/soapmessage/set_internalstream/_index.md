@@ -4,7 +4,7 @@ linktitle: set_InternalStream
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::set_InternalStream method. Sets the stream that contains the SOAP message data in C++.'
 type: docs
-weight: 1700
+weight: 2200
 url: /cpp/system.web.services.protocols/soapmessage/set_internalstream/
 ---
 ## SoapMessage::set_InternalStream method

@@ -4,7 +4,7 @@ linktitle: get_DarkRed
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkRed method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF8B0000 in C++.'
 type: docs
-weight: 3300
+weight: 3200
 url: /cpp/system.drawing/pens/get_darkred/
 ---
 ## Pens::get_DarkRed method

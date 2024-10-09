@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Security::Cryptography::X509Certificates::X509Certificate class in C++.'
 type: docs
-weight: 200
+weight: 2600
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/operator=/
 ---
 ## X509Certificate::operator= method

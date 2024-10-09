@@ -4,7 +4,7 @@ linktitle: MakeRelativeUri
 second_title: Aspose.Page for C++
 description: 'System::Uri::MakeRelativeUri method. Determines the difference between URIs represented by the current and the specified Uri objects in C++.'
 type: docs
-weight: 2800
+weight: 3100
 url: /cpp/system/uri/makerelativeuri/
 ---
 ## Uri::MakeRelativeUri method

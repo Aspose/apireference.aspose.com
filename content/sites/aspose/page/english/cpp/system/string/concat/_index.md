@@ -4,7 +4,7 @@ linktitle: Concat
 second_title: Aspose.Page for C++
 description: 'System::String::Concat method. Concatenates strings in C++.'
 type: docs
-weight: 6400
+weight: 6200
 url: /cpp/system/string/concat/
 ---
 ## String::Concat(const ArrayPtr\<String\>\&) method

@@ -4,7 +4,7 @@ linktitle: get_Expired
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Expired method. Gets a value that indicates if the cookie expired in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/system.net/cookie/get_expired/
 ---
 ## Cookie::get_Expired method

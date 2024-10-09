@@ -4,7 +4,7 @@ linktitle: set_ValidationEventSender
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::set_ValidationEventSender method. Sets the object sent as the sender object of a validation event in C++.'
 type: docs
-weight: 700
+weight: 1300
 url: /cpp/system.xml.schema/xmlschemavalidator/set_validationeventsender/
 ---
 ## XmlSchemaValidator::set_ValidationEventSender method

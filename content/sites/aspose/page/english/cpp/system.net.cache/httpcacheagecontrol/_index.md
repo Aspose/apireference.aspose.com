@@ -4,7 +4,7 @@ linktitle: HttpCacheAgeControl
 second_title: Aspose.Page for C++
 description: 'System::Net::Cache::HttpCacheAgeControl enum. CacheAgeControl is used to specify preferences with respect of cached item age and freshness in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.net.cache/httpcacheagecontrol/
 ---
 ## HttpCacheAgeControl enum

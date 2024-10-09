@@ -4,7 +4,7 @@ linktitle: set_WriteEndDocumentOnClose
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_WriteEndDocumentOnClose method. Sets a value that indicates whether the XmlWriter will add closing tags to all unclosed element tags when the XmlWriter::Close method is called in C++.'
 type: docs
-weight: 2400
+weight: 3000
 url: /cpp/system.xml/xmlwritersettings/set_writeenddocumentonclose/
 ---
 ## XmlWriterSettings::set_WriteEndDocumentOnClose method

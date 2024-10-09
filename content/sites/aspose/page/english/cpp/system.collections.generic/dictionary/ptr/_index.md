@@ -4,7 +4,7 @@ linktitle: Ptr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Dictionary::Ptr typedef. Pointer type in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.collections.generic/dictionary/ptr/
 ---
 ## Ptr typedef

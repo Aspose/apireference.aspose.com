@@ -4,7 +4,7 @@ linktitle: Encrypt
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::Encrypt method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1300
+weight: 800
 url: /cpp/system.io/fileinfo/encrypt/
 ---
 ## FileInfo::Encrypt method

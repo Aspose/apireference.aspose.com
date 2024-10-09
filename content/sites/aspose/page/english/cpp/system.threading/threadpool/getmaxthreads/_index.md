@@ -4,7 +4,7 @@ linktitle: GetMaxThreads
 second_title: Aspose.Page for C++
 description: 'System::Threading::ThreadPool::GetMaxThreads method. Gets maximal number of concurrent threads in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.threading/threadpool/getmaxthreads/
 ---
 ## ThreadPool::GetMaxThreads method

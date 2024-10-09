@@ -2,11 +2,25 @@
 title: System::Globalization::GregorianCalendar::GetMonthsInYear method
 linktitle: GetMonthsInYear
 second_title: Aspose.Page for C++
-description: 'System::Globalization::GregorianCalendar::GetMonthsInYear method. Gets number of months in the specified year in C++.'
+description: 'System::Globalization::GregorianCalendar::GetMonthsInYear method. RTTI information in C++.'
 type: docs
-weight: 800
+weight: 1600
 url: /cpp/system.globalization/gregoriancalendar/getmonthsinyear/
 ---
+## GregorianCalendar::GetMonthsInYear(int) const method
+
+
+RTTI information.
+
+```cpp
+virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
+```
+
+## See Also
+
+* Class [GregorianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## GregorianCalendar::GetMonthsInYear(int, int) const method
 
 
@@ -25,20 +39,6 @@ int System::Globalization::GregorianCalendar::GetMonthsInYear(int year, int era)
 ### ReturnValue
 
 Number of months in the specified year of specified era.
-
-## See Also
-
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## GregorianCalendar::GetMonthsInYear(int) const method
-
-
-RTTI information.
-
-```cpp
-virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
-```
 
 ## See Also
 

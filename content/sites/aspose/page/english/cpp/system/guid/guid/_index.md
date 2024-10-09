@@ -41,22 +41,23 @@ System::Guid::Guid(const ArrayPtr<uint8_t> &b)
 * Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Guid::Guid(const System::Details::ArrayView\<uint8_t\>\&) constructor
+## Guid::Guid(const Guid\&) constructor
 
 
-Constructs an object that represents a GUID specified as an array view of unsigned 8-bit integer values.
+Constructs an object that represents the same GUID as the specified object.
 
 ```cpp
-System::Guid::Guid(const System::Details::ArrayView<uint8_t> &b)
+System::Guid::Guid(const Guid &guid)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| b | const System::Details::ArrayView\<uint8_t\>\& | A byte-array containing separate bytes of the GUID |
+| guid | const Guid\& | The [Guid](../) object to copy the GUID value from |
 
 ## See Also
 
+* Class [Guid](../)
 * Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -77,6 +78,25 @@ System::Guid::Guid(const String &g)
 ## See Also
 
 * Class [String](../../string/)
+* Class [Guid](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Guid::Guid(const System::Details::ArrayView\<uint8_t\>\&) constructor
+
+
+Constructs an object that represents a GUID specified as an array view of unsigned 8-bit integer values.
+
+```cpp
+System::Guid::Guid(const System::Details::ArrayView<uint8_t> &b)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| b | const System::Details::ArrayView\<uint8_t\>\& | A byte-array containing separate bytes of the GUID |
+
+## See Also
+
 * Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -180,26 +200,6 @@ System::Guid::Guid(uint32_t a, uint16_t b, uint16_t c, uint8_t d, uint8_t e, uin
 
 ## See Also
 
-* Class [Guid](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Guid::Guid(const Guid\&) constructor
-
-
-Constructs an object that represents the same GUID as the specified object.
-
-```cpp
-System::Guid::Guid(const Guid &guid)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| guid | const Guid\& | The [Guid](../) object to copy the GUID value from |
-
-## See Also
-
-* Class [Guid](../)
 * Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -23,6 +23,27 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::Create()
 * Class [RSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)
+## RSA::Create(const RSAParameters\&) method
+
+
+Creates default [RSA](../) algorithm implementation with specifed parameters.
+
+```cpp
+static SharedPtr<RSA> System::Security::Cryptography::RSA::Create(const RSAParameters &parameters)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| parameters | const RSAParameters\& | The parameters for the [RSA](../) algorithm. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RSA](../)
+* Class [RSA](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)
 ## RSA::Create(const String\&) method
 
 
@@ -58,27 +79,6 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::Create(int32_t key_si
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key_size_in_bits | int32_t | The key size, in bits. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RSA](../)
-* Class [RSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Page for C++](../../../)
-## RSA::Create(const RSAParameters\&) method
-
-
-Creates default [RSA](../) algorithm implementation with specifed parameters.
-
-```cpp
-static SharedPtr<RSA> System::Security::Cryptography::RSA::Create(const RSAParameters &parameters)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| parameters | const RSAParameters\& | The parameters for the [RSA](../) algorithm. |
 
 ## See Also
 

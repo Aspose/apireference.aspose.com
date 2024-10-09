@@ -4,7 +4,7 @@ linktitle: get_Comment
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Comment method. Gets the ''Comment'' attribute''s value in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net/cookie/get_comment/
 ---
 ## Cookie::get_Comment method

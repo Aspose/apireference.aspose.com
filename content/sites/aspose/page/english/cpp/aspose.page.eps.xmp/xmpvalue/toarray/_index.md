@@ -4,7 +4,7 @@ linktitle: ToArray
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::ToArray method. Returns array in C++.'
 type: docs
-weight: 1600
+weight: 1200
 url: /cpp/aspose.page.eps.xmp/xmpvalue/toarray/
 ---
 ## XmpValue::ToArray method

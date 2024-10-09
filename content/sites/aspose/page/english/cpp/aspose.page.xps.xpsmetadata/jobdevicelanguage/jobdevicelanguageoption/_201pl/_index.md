@@ -4,7 +4,7 @@ linktitle: _201PL
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::_201PL field. Specifies device language is PC-PR201 in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/_201pl/
 ---
 ## _201PL field

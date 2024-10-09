@@ -4,7 +4,7 @@ linktitle: IndexOfKey
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::IndexOfKey method. Looks for named control in collection in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.windows.forms/control/controlcollection/indexofkey/
 ---
 ## ControlCollection::IndexOfKey method

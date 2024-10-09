@@ -4,7 +4,7 @@ linktitle: get_ReadState
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_ReadState method. When overridden in a derived class, gets the state of the reader in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system.xml/xmlreader/get_readstate/
 ---
 ## XmlReader::get_ReadState method

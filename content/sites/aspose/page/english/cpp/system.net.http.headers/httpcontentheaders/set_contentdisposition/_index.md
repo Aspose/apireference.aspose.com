@@ -4,7 +4,7 @@ linktitle: set_ContentDisposition
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::set_ContentDisposition method. Sets a value of the ''Content-Disposition'' header in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentdisposition/
 ---
 ## HttpContentHeaders::set_ContentDisposition method

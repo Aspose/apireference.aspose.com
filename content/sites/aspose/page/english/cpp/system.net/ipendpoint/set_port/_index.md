@@ -4,7 +4,7 @@ linktitle: set_Port
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::set_Port method. Sets the port number in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.net/ipendpoint/set_port/
 ---
 ## IPEndPoint::set_Port method

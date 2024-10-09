@@ -4,7 +4,7 @@ linktitle: get_Moccasin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Moccasin method. Gets a system-defined color that has an ARGB value of #FFFFE4B5 in C++.'
 type: docs
-weight: 9500
+weight: 9600
 url: /cpp/aspose.page.drawing/color/get_moccasin/
 ---
 ## Color::get_Moccasin method

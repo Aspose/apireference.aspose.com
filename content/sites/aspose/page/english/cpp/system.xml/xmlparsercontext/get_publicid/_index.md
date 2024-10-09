@@ -4,7 +4,7 @@ linktitle: get_PublicId
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::get_PublicId method. Returns the public identifier in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.xml/xmlparsercontext/get_publicid/
 ---
 ## XmlParserContext::get_PublicId method

@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::StreamResult::get_Data method. Gets raw data in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.page.plugins/streamresult/get_data/
 ---
 ## StreamResult::get_Data method

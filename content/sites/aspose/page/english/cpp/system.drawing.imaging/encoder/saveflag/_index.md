@@ -4,7 +4,7 @@ linktitle: SaveFlag
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Encoder::SaveFlag field. An instance of Encoder class that represents the save flag parameter category in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/system.drawing.imaging/encoder/saveflag/
 ---
 ## SaveFlag field

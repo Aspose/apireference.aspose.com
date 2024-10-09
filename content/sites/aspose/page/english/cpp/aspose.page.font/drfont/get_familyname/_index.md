@@ -4,7 +4,7 @@ linktitle: get_FamilyName
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::get_FamilyName method. Gets name of this font in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/aspose.page.font/drfont/get_familyname/
 ---
 ## DrFont::get_FamilyName method

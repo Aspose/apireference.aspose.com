@@ -4,7 +4,7 @@ linktitle: get_HasValue
 second_title: Aspose.Page for C++
 description: 'System::Nullable::get_HasValue method. Determines whether the current object represents any value in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system/nullable/get_hasvalue/
 ---
 ## Nullable::get_HasValue method

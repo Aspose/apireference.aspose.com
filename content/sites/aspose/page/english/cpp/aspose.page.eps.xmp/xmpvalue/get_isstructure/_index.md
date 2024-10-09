@@ -4,7 +4,7 @@ linktitle: get_IsStructure
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::get_IsStructure method. Returns true is XmpValue represents structure in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/aspose.page.eps.xmp/xmpvalue/get_isstructure/
 ---
 ## XmpValue::get_IsStructure method

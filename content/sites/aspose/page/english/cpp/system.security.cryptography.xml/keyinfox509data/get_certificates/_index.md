@@ -4,7 +4,7 @@ linktitle: get_Certificates
 second_title: Aspose.Page for C++
 description: 'How to use get_Certificates method of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/system.security.cryptography.xml/keyinfox509data/get_certificates/
 ---
 ## KeyInfoX509Data::get_Certificates method

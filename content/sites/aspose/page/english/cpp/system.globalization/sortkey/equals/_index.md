@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Globalization::SortKey::Equals method. Checks if the specified object is equal to the current SortKey object in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.globalization/sortkey/equals/
 ---
 ## SortKey::Equals method

@@ -4,7 +4,7 @@ linktitle: get_LightSeaGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LightSeaGreen method. Returns a color whose ARGB value in hexadecimal notation is #FF20B2AA in C++.'
 type: docs
-weight: 9400
+weight: 9300
 url: /cpp/system.drawing/color/get_lightseagreen/
 ---
 ## Color::get_LightSeaGreen method

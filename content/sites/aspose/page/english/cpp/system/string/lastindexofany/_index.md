@@ -4,7 +4,7 @@ linktitle: LastIndexOfAny
 second_title: Aspose.Page for C++
 description: 'System::String::LastIndexOfAny method. Looks for any of passed characters through whole string backwardly. Compares last string character to all characters in anyOf, then compares previous one and so on. Returns index of the first match found in C++.'
 type: docs
-weight: 4900
+weight: 2400
 url: /cpp/system/string/lastindexofany/
 ---
 ## String::LastIndexOfAny(const ArrayPtr\<char_t\>\&) const method

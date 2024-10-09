@@ -27,6 +27,7 @@ is_root: true
 | [Aspose::Page::XPS::Features](./aspose.page.xps.features/) |  |
 | [Aspose::Page::XPS::Features::EventBasedModifications](./aspose.page.xps.features.eventbasedmodifications/) |  |
 | [Aspose::Page::XPS::Presentation](./aspose.page.xps.presentation/) |  |
+| [Aspose::Page::XPS::Presentation::Aps](./aspose.page.xps.presentation.aps/) |  |
 | [Aspose::Page::XPS::Presentation::Image](./aspose.page.xps.presentation.image/) |  |
 | [Aspose::Page::XPS::Presentation::Pdf](./aspose.page.xps.presentation.pdf/) |  |
 | [Aspose::Page::XPS::Presentation::Xps](./aspose.page.xps.presentation.xps/) |  |

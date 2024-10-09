@@ -4,7 +4,7 @@ linktitle: set_Margins
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PsSaveOptions::set_Margins method. The margins of the page in C++.'
 type: docs
-weight: 600
+weight: 1200
 url: /cpp/aspose.page.eps.device/pssaveoptions/set_margins/
 ---
 ## PsSaveOptions::set_Margins method

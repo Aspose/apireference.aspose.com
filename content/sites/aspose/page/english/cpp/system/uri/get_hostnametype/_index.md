@@ -4,7 +4,7 @@ linktitle: get_HostNameType
 second_title: Aspose.Page for C++
 description: 'System::Uri::get_HostNameType method. Returns the host name type in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system/uri/get_hostnametype/
 ---
 ## Uri::get_HostNameType method

@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::_ValueCollection::Contains method. Checks if item is present in container in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.collections.generic/_valuecollection/contains/
 ---
 ## _ValueCollection::Contains method

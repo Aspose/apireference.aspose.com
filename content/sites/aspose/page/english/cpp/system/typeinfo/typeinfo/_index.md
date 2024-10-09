@@ -21,20 +21,6 @@ System::TypeInfo::TypeInfo()
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## TypeInfo::TypeInfo(std::nullptr_t) constructor
-
-
-Null object constructor (no type is set).
-
-```cpp
-System::TypeInfo::TypeInfo(std::nullptr_t)
-```
-
-## See Also
-
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TypeInfo::TypeInfo(const char_t *) constructor
 
 
@@ -87,6 +73,20 @@ System::TypeInfo::TypeInfo(const std::type_info &info)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | info | const std::type_info\& | Information about a type. |
+
+## See Also
+
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## TypeInfo::TypeInfo(std::nullptr_t) constructor
+
+
+Null object constructor (no type is set).
+
+```cpp
+System::TypeInfo::TypeInfo(std::nullptr_t)
+```
 
 ## See Also
 

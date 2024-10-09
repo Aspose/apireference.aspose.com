@@ -4,7 +4,7 @@ linktitle: get_SyncRoot
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::get_SyncRoot method. Gets collection synchronization object in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/get_syncroot/
 ---
 ## XmpMetadata::get_SyncRoot method

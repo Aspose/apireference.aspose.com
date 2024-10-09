@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::Read method. When overridden in a derived class, reads the next node from the stream in C++.'
 type: docs
-weight: 5400
+weight: 3700
 url: /cpp/system.xml/xmlreader/read/
 ---
 ## XmlReader::Read method

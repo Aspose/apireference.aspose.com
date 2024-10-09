@@ -4,7 +4,7 @@ linktitle: AddRange
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::AddRange method. Adds all elements from collection (or itself) to the end of current list in C++.'
 type: docs
-weight: 2500
+weight: 500
 url: /cpp/system.collections.generic/list/addrange/
 ---
 ## List::AddRange method

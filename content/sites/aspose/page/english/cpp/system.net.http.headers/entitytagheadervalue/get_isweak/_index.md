@@ -4,7 +4,7 @@ linktitle: get_IsWeak
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::EntityTagHeaderValue::get_IsWeak method. Gets a value that indicates if the current instance is a weak validator in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http.headers/entitytagheadervalue/get_isweak/
 ---
 ## EntityTagHeaderValue::get_IsWeak method

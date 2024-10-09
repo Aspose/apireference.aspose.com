@@ -4,7 +4,7 @@ linktitle: get_CurrentPosition
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNodeIterator::get_CurrentPosition method. When overridden in a derived class, gets the index of the current position in the selected set of nodes in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.xml.xpath/xpathnodeiterator/get_currentposition/
 ---
 ## XPathNodeIterator::get_CurrentPosition method

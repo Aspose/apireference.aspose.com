@@ -4,7 +4,7 @@ linktitle: get_LegalKeySizes
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::AsymmetricAlgorithm::get_LegalKeySizes method. Gets array of allowed key sizes in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.security.cryptography/asymmetricalgorithm/get_legalkeysizes/
 ---
 ## AsymmetricAlgorithm::get_LegalKeySizes method

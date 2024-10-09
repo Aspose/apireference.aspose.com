@@ -4,7 +4,7 @@ linktitle: ReadDecimal
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadDecimal method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2200
+weight: 1300
 url: /cpp/system.io/binaryreader/readdecimal/
 ---
 ## BinaryReader::ReadDecimal method

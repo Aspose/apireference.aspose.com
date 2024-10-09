@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::HatchBrush::get_BackgroundColor method. Returns a value that indicates the background color of this brush in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.drawing.drawing2d/hatchbrush/get_backgroundcolor/
 ---
 ## HatchBrush::get_BackgroundColor method

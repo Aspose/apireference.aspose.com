@@ -4,7 +4,7 @@ linktitle: get_OwnerDocument
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::get_OwnerDocument method. Returns the XmlDocument to which the current node belongs in C++.'
 type: docs
-weight: 700
+weight: 2700
 url: /cpp/system.xml/xmldocument/get_ownerdocument/
 ---
 ## XmlDocument::get_OwnerDocument method

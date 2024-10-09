@@ -4,7 +4,7 @@ linktitle: set_PercentGroupSizes
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PercentGroupSizes method. Sets numbers of digits per percent value group in C++.'
 type: docs
-weight: 4900
+weight: 5300
 url: /cpp/system.globalization/numberformatinfo/set_percentgroupsizes/
 ---
 ## NumberFormatInfo::set_PercentGroupSizes method

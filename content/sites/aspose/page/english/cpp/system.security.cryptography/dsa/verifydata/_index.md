@@ -4,7 +4,7 @@ linktitle: VerifyData
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSA::VerifyData method. Verifies that the signature of the specified data is valid in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.security.cryptography/dsa/verifydata/
 ---
 ## DSA::VerifyData(const ByteArrayPtr\&, const ByteArrayPtr\&, const HashAlgorithmName\&) method

@@ -4,7 +4,7 @@ linktitle: set_AttributeFormDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_AttributeFormDefault method. Sets the form for attributes declared in the target namespace of the schema in C++.'
 type: docs
-weight: 200
+weight: 2000
 url: /cpp/system.xml.schema/xmlschema/set_attributeformdefault/
 ---
 ## XmlSchema::set_AttributeFormDefault method

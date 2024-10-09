@@ -4,7 +4,7 @@ linktitle: get_Connection
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_Connection method. Returns a value of the ''Connection'' header in C++.'
 type: docs
-weight: 1600
+weight: 600
 url: /cpp/system.net.http.headers/httpresponseheaders/get_connection/
 ---
 ## HttpResponseHeaders::get_Connection method

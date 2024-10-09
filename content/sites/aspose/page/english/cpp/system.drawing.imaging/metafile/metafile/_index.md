@@ -7,22 +7,6 @@ type: docs
 weight: 100
 url: /cpp/system.drawing.imaging/metafile/metafile/
 ---
-## Metafile::Metafile(const System::String\&) constructor
-
-
-NOT IMPLEMENTED.
-
-```cpp
-System::Drawing::Imaging::Metafile::Metafile(const System::String &filename)
-```
-
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [Metafile](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Metafile::Metafile(const SharedPtr\<System::IO::Stream\>\&) constructor
 
 
@@ -30,6 +14,23 @@ NOT IMPLEMENTED.
 
 ```cpp
 System::Drawing::Imaging::Metafile::Metafile(const SharedPtr<System::IO::Stream> &stream)
+```
+
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [Metafile](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Page for C++](../../../)
+## Metafile::Metafile(const SharedPtr\<System::IO::Stream\>\&, IntPtr) constructor
+
+
+NOT IMPLEMENTED.
+
+```cpp
+System::Drawing::Imaging::Metafile::Metafile(const SharedPtr<System::IO::Stream> &stream, IntPtr hdc)
 ```
 
 
@@ -55,23 +56,6 @@ System::Drawing::Imaging::Metafile::Metafile(const SharedPtr<System::IO::Stream>
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stream](../../../system.io/stream/)
 * Enum [EmfType](../../emftype/)
-* Class [Metafile](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Page for C++](../../../)
-## Metafile::Metafile(const SharedPtr\<System::IO::Stream\>\&, IntPtr) constructor
-
-
-NOT IMPLEMENTED.
-
-```cpp
-System::Drawing::Imaging::Metafile::Metafile(const SharedPtr<System::IO::Stream> &stream, IntPtr hdc)
-```
-
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
 * Class [Metafile](../)
 * Namespace [System::Drawing::Imaging](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -112,6 +96,22 @@ System::Drawing::Imaging::Metafile::Metafile(const SharedPtr<System::IO::Stream>
 * Class [RectangleF](../../../system.drawing/rectanglef/)
 * Enum [MetafileFrameUnit](../../metafileframeunit/)
 * Enum [EmfType](../../emftype/)
+* Class [Metafile](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Page for C++](../../../)
+## Metafile::Metafile(const System::String\&) constructor
+
+
+NOT IMPLEMENTED.
+
+```cpp
+System::Drawing::Imaging::Metafile::Metafile(const System::String &filename)
+```
+
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [Metafile](../)
 * Namespace [System::Drawing::Imaging](../../)
 * Library [Aspose.Page for C++](../../../)

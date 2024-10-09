@@ -4,7 +4,7 @@ linktitle: ReplaceRange
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::ReplaceRange method. Replaces a range of sibling nodes from the current node to the node specified in C++.'
 type: docs
-weight: 7300
+weight: 6900
 url: /cpp/system.xml.xpath/xpathnavigator/replacerange/
 ---
 ## XPathNavigator::ReplaceRange method

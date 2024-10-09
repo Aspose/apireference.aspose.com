@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Net::PathList::GetEnumerator method. Returns the enumerator for the current collection in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.net/pathlist/getenumerator/
 ---
 ## PathList::GetEnumerator method

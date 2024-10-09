@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::get_Name method. Returns the qualified name of the current node in C++.'
 type: docs
-weight: 200
+weight: 1900
 url: /cpp/system.xml/xmltextreader/get_name/
 ---
 ## XmlTextReader::get_Name method

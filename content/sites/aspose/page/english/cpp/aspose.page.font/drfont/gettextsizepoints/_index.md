@@ -4,7 +4,7 @@ linktitle: GetTextSizePoints
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::GetTextSizePoints method. Returns measurement text box of the text in points in C++.'
 type: docs
-weight: 2300
+weight: 2200
 url: /cpp/aspose.page.font/drfont/gettextsizepoints/
 ---
 ## DrFont::GetTextSizePoints method

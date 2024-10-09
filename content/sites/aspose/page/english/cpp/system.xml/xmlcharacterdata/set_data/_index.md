@@ -4,7 +4,7 @@ linktitle: set_Data
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::set_Data method. Sets the data of the node in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.xml/xmlcharacterdata/set_data/
 ---
 ## XmlCharacterData::set_Data method

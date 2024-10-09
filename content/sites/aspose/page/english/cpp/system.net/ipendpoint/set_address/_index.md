@@ -4,7 +4,7 @@ linktitle: set_Address
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::set_Address method. Sets the endpoint address in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/system.net/ipendpoint/set_address/
 ---
 ## IPEndPoint::set_Address method

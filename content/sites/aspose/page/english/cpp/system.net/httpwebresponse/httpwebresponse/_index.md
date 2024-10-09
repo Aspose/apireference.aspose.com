@@ -4,7 +4,7 @@ linktitle: HttpWebResponse
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebResponse::HttpWebResponse constructor. Constructs a new instance in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/system.net/httpwebresponse/httpwebresponse/
 ---
 ## HttpWebResponse::HttpWebResponse constructor

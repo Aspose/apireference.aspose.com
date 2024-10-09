@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCollection::get_NameTable method. Returns the default XmlNameTable used by the XmlSchemaCollection when loading new schemas in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.xml.schema/xmlschemacollection/get_nametable/
 ---
 ## XmlSchemaCollection::get_NameTable method

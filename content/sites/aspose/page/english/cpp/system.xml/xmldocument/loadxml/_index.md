@@ -4,7 +4,7 @@ linktitle: LoadXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::LoadXml method. Loads the XML document from the specified string in C++.'
 type: docs
-weight: 4100
+weight: 3500
 url: /cpp/system.xml/xmldocument/loadxml/
 ---
 ## XmlDocument::LoadXml method

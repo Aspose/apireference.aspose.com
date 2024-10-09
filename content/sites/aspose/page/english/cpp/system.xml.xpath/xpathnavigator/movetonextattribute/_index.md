@@ -4,7 +4,7 @@ linktitle: MoveToNextAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToNextAttribute method. When overridden in a derived class, moves the XPathNavigator to the next attribute in C++.'
 type: docs
-weight: 4100
+weight: 6100
 url: /cpp/system.xml.xpath/xpathnavigator/movetonextattribute/
 ---
 ## XPathNavigator::MoveToNextAttribute method

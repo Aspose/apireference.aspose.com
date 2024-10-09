@@ -4,7 +4,7 @@ linktitle: get_Calendar
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_Calendar method. Gets calendar used by the culture in C++.'
 type: docs
-weight: 1900
+weight: 500
 url: /cpp/system.globalization/cultureinfo/get_calendar/
 ---
 ## CultureInfo::get_Calendar method

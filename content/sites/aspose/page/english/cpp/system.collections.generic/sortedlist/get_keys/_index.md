@@ -4,7 +4,7 @@ linktitle: get_Keys
 second_title: Aspose.Page for C++
 description: 'How to use get_Keys method of System::Collections::Generic::SortedList class in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/system.collections.generic/sortedlist/get_keys/
 ---
 ## SortedList::get_Keys method

@@ -85,13 +85,13 @@ An array of strings.
 * Class [Regex](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Page for C++](../../../)
-## Regex::Split(const String\&, const String\&, RegexOptions, TimeSpan) method
+## Regex::Split(const String\&, const String\&, int, RegexOptions, TimeSpan) method
 
 
 Splits string by regexp.
 
 ```cpp
-static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const String &input, const String &pattern, RegexOptions options=RegexOptions::None, TimeSpan matchTimeout=InfiniteMatchTimeout)
+static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const String &input, const String &pattern, int count, RegexOptions options=RegexOptions::None, TimeSpan matchTimeout=InfiniteMatchTimeout)
 ```
 
 
@@ -99,6 +99,7 @@ static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const Str
 | --- | --- | --- |
 | input | const String\& | Input string. |
 | pattern | const String\& | Regexp pattern. |
+| count | int | [Match](../../match/) number limit. |
 | options | RegexOptions | Matching options. |
 | matchTimeout | TimeSpan | Timeout. |
 
@@ -115,13 +116,13 @@ static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const Str
 * Class [Regex](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Page for C++](../../../)
-## Regex::Split(const String\&, const String\&, int, RegexOptions, TimeSpan) method
+## Regex::Split(const String\&, const String\&, RegexOptions, TimeSpan) method
 
 
 Splits string by regexp.
 
 ```cpp
-static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const String &input, const String &pattern, int count, RegexOptions options=RegexOptions::None, TimeSpan matchTimeout=InfiniteMatchTimeout)
+static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const String &input, const String &pattern, RegexOptions options=RegexOptions::None, TimeSpan matchTimeout=InfiniteMatchTimeout)
 ```
 
 
@@ -129,7 +130,6 @@ static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const Str
 | --- | --- | --- |
 | input | const String\& | Input string. |
 | pattern | const String\& | Regexp pattern. |
-| count | int | [Match](../../match/) number limit. |
 | options | RegexOptions | Matching options. |
 | matchTimeout | TimeSpan | Timeout. |
 

@@ -4,7 +4,7 @@ linktitle: GetUpperBound
 second_title: Aspose.Page for C++
 description: 'System::Array::GetUpperBound method. Returns the upper bound of the specified dimension in C++.'
 type: docs
-weight: 2300
+weight: 2600
 url: /cpp/system/array/getupperbound/
 ---
 ## Array::GetUpperBound method

@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Net::WebHeaderCollection::idx_set method. Sets the header value of the specified header in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/system.net/webheadercollection/idx_set/
 ---
 ## WebHeaderCollection::idx_set(HttpRequestHeader, String) method

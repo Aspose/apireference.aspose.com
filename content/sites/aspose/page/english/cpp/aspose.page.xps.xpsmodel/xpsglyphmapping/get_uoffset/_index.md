@@ -4,7 +4,7 @@ linktitle: get_UOffset
 second_title: Aspose.Page for C++
 description: 'How to use get_UOffset method of Aspose::Page::XPS::XpsModel::XpsGlyphMapping class in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphmapping/get_uoffset/
 ---
 ## XpsGlyphMapping::get_UOffset method

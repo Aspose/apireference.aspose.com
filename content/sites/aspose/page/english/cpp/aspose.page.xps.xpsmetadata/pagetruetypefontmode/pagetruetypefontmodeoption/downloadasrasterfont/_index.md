@@ -4,7 +4,7 @@ linktitle: DownloadAsRasterFont
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode::PageTrueTypeFontModeOption::DownloadAsRasterFont field. TrueType font is downloaded as raster font in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/pagetruetypefontmodeoption/downloadasrasterfont/
 ---
 ## DownloadAsRasterFont field

@@ -4,7 +4,7 @@ linktitle: ExecuteNonQuery
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbCommand::ExecuteNonQuery method. Executes non-query command in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.data.common/dbcommand/executenonquery/
 ---
 ## DbCommand::ExecuteNonQuery method

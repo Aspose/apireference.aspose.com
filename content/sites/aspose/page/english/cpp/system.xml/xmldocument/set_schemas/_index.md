@@ -4,7 +4,7 @@ linktitle: set_Schemas
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::set_Schemas method. Sets the XmlSchemaSet object associated with this XmlDocument in C++.'
 type: docs
-weight: 900
+weight: 4100
 url: /cpp/system.xml/xmldocument/set_schemas/
 ---
 ## XmlDocument::set_Schemas method

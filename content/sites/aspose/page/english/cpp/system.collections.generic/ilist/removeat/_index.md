@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IList::RemoveAt method. Removes element at specified index in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.collections.generic/ilist/removeat/
 ---
 ## IList::RemoveAt method

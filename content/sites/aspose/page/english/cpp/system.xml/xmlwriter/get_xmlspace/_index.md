@@ -4,7 +4,7 @@ linktitle: get_XmlSpace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::get_XmlSpace method. When overridden in a derived class, gets an XmlSpace representing the current xml:space scope in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system.xml/xmlwriter/get_xmlspace/
 ---
 ## XmlWriter::get_XmlSpace method

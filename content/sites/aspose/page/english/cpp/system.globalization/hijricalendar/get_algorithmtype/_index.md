@@ -4,7 +4,7 @@ linktitle: get_AlgorithmType
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HijriCalendar::get_AlgorithmType method. Gets algorithm type in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.globalization/hijricalendar/get_algorithmtype/
 ---
 ## HijriCalendar::get_AlgorithmType method

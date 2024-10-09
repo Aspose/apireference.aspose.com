@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Uri::Equals method. Determines if the URIs represented by the current and specified objects are equal in C++.'
 type: docs
-weight: 2700
+weight: 200
 url: /cpp/system/uri/equals/
 ---
 ## Uri::Equals method

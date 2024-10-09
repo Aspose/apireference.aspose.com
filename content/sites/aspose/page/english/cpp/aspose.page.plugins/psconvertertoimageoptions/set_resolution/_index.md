@@ -4,7 +4,7 @@ linktitle: set_Resolution
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverterToImageOptions::set_Resolution method. Gets/sets the image resolution in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.page.plugins/psconvertertoimageoptions/set_resolution/
 ---
 ## PsConverterToImageOptions::set_Resolution method

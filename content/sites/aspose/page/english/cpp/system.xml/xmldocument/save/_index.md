@@ -2,31 +2,11 @@
 title: System::Xml::XmlDocument::Save method
 linktitle: Save
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlDocument::Save method. Saves the XML document to the specified file. If the specified file exists, this method overwrites it in C++.'
+description: 'System::Xml::XmlDocument::Save method. Saves the XML document to the specified stream in C++.'
 type: docs
-weight: 4200
+weight: 3700
 url: /cpp/system.xml/xmldocument/save/
 ---
-## XmlDocument::Save(String) method
-
-
-Saves the XML document to the specified file. If the specified file exists, this method overwrites it.
-
-```cpp
-virtual void System::Xml::XmlDocument::Save(String filename)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | The location of the file where you want to save the document. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlDocument::Save(SharedPtr\<IO::Stream\>) method
 
 
@@ -87,6 +67,26 @@ virtual void System::Xml::XmlDocument::Save(SharedPtr<XmlWriter> w)
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../../xmlwriter/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlDocument::Save(String) method
+
+
+Saves the XML document to the specified file. If the specified file exists, this method overwrites it.
+
+```cpp
+virtual void System::Xml::XmlDocument::Save(String filename)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | The location of the file where you want to save the document. |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [XmlDocument](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

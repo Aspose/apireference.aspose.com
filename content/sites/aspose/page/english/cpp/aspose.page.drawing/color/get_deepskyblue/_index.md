@@ -4,7 +4,7 @@ linktitle: get_DeepSkyBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DeepSkyBlue method. Gets a system-defined color that has an ARGB value of #FF00BFFF in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.page.drawing/color/get_deepskyblue/
 ---
 ## Color::get_DeepSkyBlue method

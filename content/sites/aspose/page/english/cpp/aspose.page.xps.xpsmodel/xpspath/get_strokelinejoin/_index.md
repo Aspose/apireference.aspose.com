@@ -4,7 +4,7 @@ linktitle: get_StrokeLineJoin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::get_StrokeLineJoin method. Returns/sets the value defining the shape of the beginning of the first dash in a stroke in C++.'
 type: docs
-weight: 1700
+weight: 900
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/get_strokelinejoin/
 ---
 ## XpsPath::get_StrokeLineJoin method

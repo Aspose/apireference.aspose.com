@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Net::PathList::idx_set method. Sets the cookie collection by specified path in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.net/pathlist/idx_set/
 ---
 ## PathList::idx_set method

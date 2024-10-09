@@ -4,7 +4,7 @@ linktitle: get_RequestElementName
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::get_RequestElementName method. Gets the name of the XML element associated with the SOAP request, which is defined in a service description as an operation in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/get_requestelementname/
 ---
 ## SoapDocumentMethodAttribute::get_RequestElementName method

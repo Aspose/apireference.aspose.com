@@ -21,26 +21,6 @@ System::Drawing::PointF::PointF()
 * Class [PointF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## PointF::PointF(float, float) constructor
-
-
-Constructs a new [PointF](../) object and initializes it with the specified values.
-
-```cpp
-System::Drawing::PointF::PointF(float x, float y)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | float | The value of X coordinate |
-| y | float | The value of Y coordinate |
-
-## See Also
-
-* Class [PointF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## PointF::PointF(const SizeF\&) constructor
 
 
@@ -58,6 +38,26 @@ System::Drawing::PointF::PointF(const SizeF &size)
 ## See Also
 
 * Class [SizeF](../../sizef/)
+* Class [PointF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## PointF::PointF(float, float) constructor
+
+
+Constructs a new [PointF](../) object and initializes it with the specified values.
+
+```cpp
+System::Drawing::PointF::PointF(float x, float y)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | float | The value of X coordinate |
+| y | float | The value of Y coordinate |
+
+## See Also
+
 * Class [PointF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

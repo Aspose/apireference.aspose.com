@@ -4,7 +4,7 @@ linktitle: get_Delta
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::RetryConditionHeaderValue::get_Delta method. Returns the delta value in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net.http.headers/retryconditionheadervalue/get_delta/
 ---
 ## RetryConditionHeaderValue::get_Delta method

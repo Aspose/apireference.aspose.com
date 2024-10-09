@@ -4,7 +4,7 @@ linktitle: get_PercentDecimalSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_PercentDecimalSeparator method. Gets decimal separator in percent values in C++.'
 type: docs
-weight: 4400
+weight: 2200
 url: /cpp/system.globalization/numberformatinfo/get_percentdecimalseparator/
 ---
 ## NumberFormatInfo::get_PercentDecimalSeparator method

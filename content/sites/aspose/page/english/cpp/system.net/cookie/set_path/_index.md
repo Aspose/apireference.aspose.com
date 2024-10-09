@@ -4,7 +4,7 @@ linktitle: set_Path
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Path method. Sets the ''Path'' attribute''s value in C++.'
 type: docs
-weight: 2000
+weight: 3400
 url: /cpp/system.net/cookie/set_path/
 ---
 ## Cookie::set_Path method

@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::get_Name method. Gets thread name in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/system.threading/thread/get_name/
 ---
 ## Thread::get_Name method

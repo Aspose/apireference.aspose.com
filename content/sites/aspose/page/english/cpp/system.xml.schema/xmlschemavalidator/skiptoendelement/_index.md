@@ -4,7 +4,7 @@ linktitle: SkipToEndElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::SkipToEndElement method. Skips validation of the current element content and prepares the XmlSchemaValidator object to validate content in the parent element''s context in C++.'
 type: docs
-weight: 1800
+weight: 1500
 url: /cpp/system.xml.schema/xmlschemavalidator/skiptoendelement/
 ---
 ## XmlSchemaValidator::SkipToEndElement method

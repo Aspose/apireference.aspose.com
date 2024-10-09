@@ -4,7 +4,7 @@ linktitle: SetParsedValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::SetParsedValue method. Gets a header by the specified name and sets a parsed value to the header in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.net.http.headers/httpheaders/setparsedvalue/
 ---
 ## HttpHeaders::SetParsedValue method

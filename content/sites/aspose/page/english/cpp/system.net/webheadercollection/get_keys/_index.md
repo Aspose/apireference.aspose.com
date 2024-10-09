@@ -4,7 +4,7 @@ linktitle: get_Keys
 second_title: Aspose.Page for C++
 description: 'System::Net::WebHeaderCollection::get_Keys method. Returns a collection of header names that are stored in the collection in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system.net/webheadercollection/get_keys/
 ---
 ## WebHeaderCollection::get_Keys method

@@ -4,7 +4,7 @@ linktitle: SetMeasurableCharacterRanges
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::SetMeasurableCharacterRanges method. Sets an array of CharacterRange objects that represent the chracter ranges measured by a call to the MeasureCharacterRanges() method in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.drawing/stringformat/setmeasurablecharacterranges/
 ---
 ## StringFormat::SetMeasurableCharacterRanges method

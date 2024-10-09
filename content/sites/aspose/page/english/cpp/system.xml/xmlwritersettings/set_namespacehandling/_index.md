@@ -4,7 +4,7 @@ linktitle: set_NamespaceHandling
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_NamespaceHandling method. Sets a value that indicates whether the XmlWriter should remove duplicate namespace declarations when writing XML content. The default behavior is for the writer to output all namespace declarations that are present in the writer''s namespace resolver in C++.'
 type: docs
-weight: 2200
+weight: 2500
 url: /cpp/system.xml/xmlwritersettings/set_namespacehandling/
 ---
 ## XmlWriterSettings::set_NamespaceHandling method

@@ -4,9 +4,29 @@ linktitle: ProductInfoHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ProductInfoHeaderValue::ProductInfoHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.http.headers/productinfoheadervalue/productinfoheadervalue/
 ---
+## ProductInfoHeaderValue::ProductInfoHeaderValue(String) constructor
+
+
+Constructs a new instance.
+
+```cpp
+System::Net::Http::Headers::ProductInfoHeaderValue::ProductInfoHeaderValue(String comment)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| comment | String | The comment. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [ProductInfoHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ProductInfoHeaderValue::ProductInfoHeaderValue(String, String) constructor
 
 
@@ -46,26 +66,6 @@ System::Net::Http::Headers::ProductInfoHeaderValue::ProductInfoHeaderValue(Syste
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ProductHeaderValue](../../productheadervalue/)
-* Class [ProductInfoHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Page for C++](../../../)
-## ProductInfoHeaderValue::ProductInfoHeaderValue(String) constructor
-
-
-Constructs a new instance.
-
-```cpp
-System::Net::Http::Headers::ProductInfoHeaderValue::ProductInfoHeaderValue(String comment)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| comment | String | The comment. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [ProductInfoHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.Page for C++](../../../)

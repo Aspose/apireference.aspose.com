@@ -4,7 +4,7 @@ linktitle: IsLoopback
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::IsLoopback method. Returns a value that indicates if the specified address is a loopback address in C++.'
 type: docs
-weight: 2200
+weight: 1900
 url: /cpp/system.net/ipaddress/isloopback/
 ---
 ## IPAddress::IsLoopback method

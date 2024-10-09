@@ -4,7 +4,7 @@ linktitle: get_PageCount
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::get_PageCount method. Returns the number of pages in the active document in C++.'
 type: docs
-weight: 700
+weight: 3600
 url: /cpp/aspose.page.xps/xpsdocument/get_pagecount/
 ---
 ## XpsDocument::get_PageCount method

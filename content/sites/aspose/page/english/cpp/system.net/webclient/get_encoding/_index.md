@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.Page for C++
 description: 'System::Net::WebClient::get_Encoding method. Gets the encoding used to download or upload strings in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.net/webclient/get_encoding/
 ---
 ## WebClient::get_Encoding method

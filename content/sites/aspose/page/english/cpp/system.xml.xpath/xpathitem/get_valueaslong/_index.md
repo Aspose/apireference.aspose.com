@@ -4,7 +4,7 @@ linktitle: get_ValueAsLong
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_ValueAsLong method. When overridden in a derived class, gets the item''s value as an Int64 in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.xml.xpath/xpathitem/get_valueaslong/
 ---
 ## XPathItem::get_ValueAsLong method

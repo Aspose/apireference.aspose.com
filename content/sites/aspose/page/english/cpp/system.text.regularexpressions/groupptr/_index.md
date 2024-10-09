@@ -4,7 +4,7 @@ linktitle: GroupPtr
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::GroupPtr typedef. Pointer to group in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.text.regularexpressions/groupptr/
 ---
 ## GroupPtr typedef

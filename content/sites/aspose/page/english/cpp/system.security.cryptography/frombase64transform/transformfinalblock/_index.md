@@ -4,7 +4,7 @@ linktitle: TransformFinalBlock
 second_title: Aspose.Page for C++
 description: 'How to use TransformFinalBlock method of System::Security::Cryptography::FromBase64Transform class in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/system.security.cryptography/frombase64transform/transformfinalblock/
 ---
 ## FromBase64Transform::TransformFinalBlock method

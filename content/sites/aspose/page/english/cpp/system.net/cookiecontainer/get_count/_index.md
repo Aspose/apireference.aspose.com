@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::get_Count method. Returns the number of the collection''s items in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.net/cookiecontainer/get_count/
 ---
 ## CookieContainer::get_Count method

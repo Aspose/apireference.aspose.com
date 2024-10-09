@@ -4,7 +4,7 @@ linktitle: DynamicCast
 second_title: Aspose.Page for C++
 description: 'System::DynamicCast method. Performs dynamic cast on Exception objects in C++.'
 type: docs
-weight: 26500
+weight: 15400
 url: /cpp/system/dynamiccast/
 ---
 ## System::DynamicCast(const TFrom\&) method
@@ -99,6 +99,38 @@ Left for backwards compatibility. Use ExplicitCast instead.
 * Class [SmartPtr](../smartptr/)
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
+## System::DynamicCast(SmartPtr\<TFrom\>) method
+
+
+Performs dynamic cast on Objects to Exception objects.
+
+```cpp
+template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object, TFrom>::value &&IsExceptionWrapper<TTo>::value, TTo>::type System::DynamicCast(SmartPtr<TFrom> obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| TTo | Target Exception type. |
+| TFrom | [Object](../object/) type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | SmartPtr\<TFrom\> | Source pointer. |
+
+### ReturnValue
+
+Cast result if cast is allowed.
+
+## Deprecated
+Left for backwards compatibility. Use ExplicitCast instead. 
+
+## See Also
+
+* Class [Object](../object/)
+* Class [SmartPtr](../smartptr/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
 ## System::DynamicCast(std::nullptr_t) method
 
 
@@ -152,38 +184,6 @@ Left for backwards compatibility. Use ExplicitCast instead.
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::DynamicCast(SmartPtr\<TFrom\>) method
-
-
-Performs dynamic cast on Objects to Exception objects.
-
-```cpp
-template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object, TFrom>::value &&IsExceptionWrapper<TTo>::value, TTo>::type System::DynamicCast(SmartPtr<TFrom> obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| TTo | Target Exception type. |
-| TFrom | [Object](../object/) type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | SmartPtr\<TFrom\> | Source pointer. |
-
-### ReturnValue
-
-Cast result if cast is allowed.
-
-## Deprecated
-Left for backwards compatibility. Use ExplicitCast instead. 
-
-## See Also
-
-* Class [Object](../object/)
-* Class [SmartPtr](../smartptr/)
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
 ## System::DynamicCast(TFrom) method

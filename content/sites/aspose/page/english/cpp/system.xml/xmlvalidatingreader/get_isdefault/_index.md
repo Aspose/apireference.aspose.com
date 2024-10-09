@@ -4,7 +4,7 @@ linktitle: get_IsDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_IsDefault method. Returns a value indicating whether the current node is an attribute that was generated from the default value defined in the document type definition (DTD) or schema in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.xml/xmlvalidatingreader/get_isdefault/
 ---
 ## XmlValidatingReader::get_IsDefault method

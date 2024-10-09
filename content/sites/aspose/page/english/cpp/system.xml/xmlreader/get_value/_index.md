@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_Value method. When overridden in a derived class, gets the text value of the current node in C++.'
 type: docs
-weight: 800
+weight: 2400
 url: /cpp/system.xml/xmlreader/get_value/
 ---
 ## XmlReader::get_Value method

@@ -4,7 +4,7 @@ linktitle: ToGuid
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToGuid method. Converts the String to a Guid equivalent in C++.'
 type: docs
-weight: 3500
+weight: 1800
 url: /cpp/system.xml/xmlconvert/toguid/
 ---
 ## XmlConvert::ToGuid method

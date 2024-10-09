@@ -2,31 +2,11 @@
 title: System::Drawing::Region::Union method
 linktitle: Union
 second_title: Aspose.Page for C++
-description: 'System::Drawing::Region::Union method. Replaces the region represented by the current object with the result of union operation of this region and a region defined by the specified rectangle in C++.'
+description: 'System::Drawing::Region::Union method. Replaces the region represented by the current object with the result of union of this region and a region defined by the specified rectangle in C++.'
 type: docs
-weight: 500
+weight: 1900
 url: /cpp/system.drawing/region/union/
 ---
-## Region::Union(const RectangleF\&) method
-
-
-Replaces the region represented by the current object with the result of union operation of this region and a region defined by the specified rectangle.
-
-```cpp
-void System::Drawing::Region::Union(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | A rectangle that defines a region to unite this region with |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Union(const Rectangle\&) method
 
 
@@ -44,6 +24,26 @@ void System::Drawing::Region::Union(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Union(const RectangleF\&) method
+
+
+Replaces the region represented by the current object with the result of union operation of this region and a region defined by the specified rectangle.
+
+```cpp
+void System::Drawing::Region::Union(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | A rectangle that defines a region to unite this region with |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

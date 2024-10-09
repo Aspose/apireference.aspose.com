@@ -4,7 +4,7 @@ linktitle: GetFileSystemEntries
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::GetFileSystemEntries method. Searches for the files and directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/system.io/directory/getfilesystementries/
 ---
 ## Directory::GetFileSystemEntries method

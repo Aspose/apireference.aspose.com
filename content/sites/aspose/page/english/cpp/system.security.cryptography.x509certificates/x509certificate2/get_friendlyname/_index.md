@@ -4,7 +4,7 @@ linktitle: get_FriendlyName
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::get_FriendlyName method. Gets the certificate''s friendly name in C++.'
 type: docs
-weight: 1400
+weight: 400
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_friendlyname/
 ---
 ## X509Certificate2::get_FriendlyName method

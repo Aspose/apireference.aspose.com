@@ -4,7 +4,7 @@ linktitle: XpsLineCap
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsLineCap enum. Valid values of Path element''s StrokeStartLineCap and StrokeEndLineCap properties in C++.'
 type: docs
-weight: 4800
+weight: 5100
 url: /cpp/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enum

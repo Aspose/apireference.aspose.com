@@ -4,7 +4,7 @@ linktitle: set_WriteTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::set_WriteTimeout method. Sets a value, in milliseconds, that determines how long the stream will attempt to read before timing out in C++.'
 type: docs
-weight: 800
+weight: 2300
 url: /cpp/system.net.sockets/networkstream/set_writetimeout/
 ---
 ## NetworkStream::set_WriteTimeout method

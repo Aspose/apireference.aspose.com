@@ -4,7 +4,7 @@ linktitle: IntegerParameterInit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::IntegerParameterInit::IntegerParameterInit constructor. Creates a new instance in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/integerparameterinit/integerparameterinit/
 ---
 ## IntegerParameterInit::IntegerParameterInit constructor

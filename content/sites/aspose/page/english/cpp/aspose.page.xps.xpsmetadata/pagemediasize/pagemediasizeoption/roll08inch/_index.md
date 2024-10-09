@@ -4,7 +4,7 @@ linktitle: Roll08Inch
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::Roll08Inch field. Roll 08 inch in C++.'
 type: docs
-weight: 15000
+weight: 16800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/roll08inch/
 ---
 ## Roll08Inch field

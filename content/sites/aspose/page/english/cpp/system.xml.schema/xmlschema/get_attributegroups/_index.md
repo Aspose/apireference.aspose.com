@@ -4,7 +4,7 @@ linktitle: get_AttributeGroups
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_AttributeGroups method. Returns the post-schema-compilation value of all the global attribute groups in the schema in C++.'
 type: docs
-weight: 1700
+weight: 400
 url: /cpp/system.xml.schema/xmlschema/get_attributegroups/
 ---
 ## XmlSchema::get_AttributeGroups method

@@ -4,7 +4,7 @@ linktitle: SetLineCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::SetLineCap method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/system.drawing/pen/setlinecap/
 ---
 ## Pen::SetLineCap method

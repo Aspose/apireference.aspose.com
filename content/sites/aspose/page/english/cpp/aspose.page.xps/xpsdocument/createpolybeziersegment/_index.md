@@ -4,7 +4,7 @@ linktitle: CreatePolyBezierSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::CreatePolyBezierSegment method. Creates a new set of cubic Bézier curves in C++.'
 type: docs
-weight: 4800
+weight: 2400
 url: /cpp/aspose.page.xps/xpsdocument/createpolybeziersegment/
 ---
 ## XpsDocument::CreatePolyBezierSegment method

@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::String::CopyTo method. Copies string characters into existing array elements. No resize is being done in C++.'
 type: docs
-weight: 3200
+weight: 700
 url: /cpp/system/string/copyto/
 ---
 ## String::CopyTo method

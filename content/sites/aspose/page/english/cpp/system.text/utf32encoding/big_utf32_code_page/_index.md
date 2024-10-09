@@ -4,7 +4,7 @@ linktitle: BIG_UTF32_CODE_PAGE
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF32Encoding::BIG_UTF32_CODE_PAGE field. Magic number used by Windows for big endian UTF-32 codepage id in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.text/utf32encoding/big_utf32_code_page/
 ---
 ## BIG_UTF32_CODE_PAGE field

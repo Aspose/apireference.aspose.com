@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection::CopyTo method. Copies all collection elements to existing array elements in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/system.net.http.headers/httpheadervaluecollection/copyto/
 ---
 ## HttpHeaderValueCollection::CopyTo method

@@ -4,7 +4,7 @@ linktitle: MoveToNextAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::MoveToNextAttribute method. Moves to the next attribute in C++.'
 type: docs
-weight: 2600
+weight: 2900
 url: /cpp/system.xml/xmlnodereader/movetonextattribute/
 ---
 ## XmlNodeReader::MoveToNextAttribute method

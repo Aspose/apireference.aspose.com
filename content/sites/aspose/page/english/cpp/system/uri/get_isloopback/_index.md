@@ -4,7 +4,7 @@ linktitle: get_IsLoopback
 second_title: Aspose.Page for C++
 description: 'System::Uri::get_IsLoopback method. Determines if the URI represented by the current object references a local host in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/system/uri/get_isloopback/
 ---
 ## Uri::get_IsLoopback method

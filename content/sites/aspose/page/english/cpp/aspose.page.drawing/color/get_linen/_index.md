@@ -4,7 +4,7 @@ linktitle: get_Linen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Linen method. Gets a system-defined color that has an ARGB value of #FFFAF0E6 in C++.'
 type: docs
-weight: 8000
+weight: 8100
 url: /cpp/aspose.page.drawing/color/get_linen/
 ---
 ## Color::get_Linen method

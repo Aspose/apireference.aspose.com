@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectCollection::idx_set method. Sets the XmlSchemaObject at the specified index in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/idx_set/
 ---
 ## XmlSchemaObjectCollection::idx_set method

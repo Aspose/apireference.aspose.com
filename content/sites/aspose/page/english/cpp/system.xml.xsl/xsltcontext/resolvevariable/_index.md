@@ -4,7 +4,7 @@ linktitle: ResolveVariable
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltContext::ResolveVariable method. When overridden in a derived class, resolves a variable reference and returns an IXsltContextVariable representing the variable in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.xml.xsl/xsltcontext/resolvevariable/
 ---
 ## XsltContext::ResolveVariable method

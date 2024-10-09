@@ -4,7 +4,7 @@ linktitle: IsNCNameChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::IsNCNameChar method. Checks whether the passed-in character is a valid non-colon character type in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/system.xml/xmlconvert/isncnamechar/
 ---
 ## XmlConvert::IsNCNameChar method

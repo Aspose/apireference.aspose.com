@@ -4,7 +4,7 @@ linktitle: AddTransform
 second_title: Aspose.Page for C++
 description: 'How to use AddTransform method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 1600
+weight: 200
 url: /cpp/system.security.cryptography.xml/reference/addtransform/
 ---
 ## Reference::AddTransform method

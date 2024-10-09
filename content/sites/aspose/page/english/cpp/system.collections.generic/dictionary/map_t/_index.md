@@ -4,7 +4,7 @@ linktitle: map_t
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Dictionary::map_t typedef. Underlying data type in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.collections.generic/dictionary/map_t/
 ---
 ## map_t typedef

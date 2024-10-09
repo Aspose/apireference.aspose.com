@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::virtualizeEndIterator method. Gets the implementation of end iterator for the current container in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/system.collections.specialized/namevaluecollection/virtualizeenditerator/
 ---
 ## NameValueCollection::virtualizeEndIterator method

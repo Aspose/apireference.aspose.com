@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::set_Position method. Flushes the buffer to the underlying stream and then sets the stream''s position in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.io/bufferedstream/set_position/
 ---
 ## BufferedStream::set_Position method

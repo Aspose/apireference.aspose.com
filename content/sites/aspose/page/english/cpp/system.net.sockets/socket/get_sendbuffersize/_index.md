@@ -4,7 +4,7 @@ linktitle: get_SendBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_SendBufferSize method. Gets the send buffer size in C++.'
 type: docs
-weight: 1800
+weight: 3400
 url: /cpp/system.net.sockets/socket/get_sendbuffersize/
 ---
 ## Socket::get_SendBufferSize method

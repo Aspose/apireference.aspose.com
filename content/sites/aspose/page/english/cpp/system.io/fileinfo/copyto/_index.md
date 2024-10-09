@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::CopyTo method. Copies the file represented by the current object to the specified location. If the destination file already exists, the copying fails in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.io/fileinfo/copyto/
 ---
 ## FileInfo::CopyTo(const String\&) method

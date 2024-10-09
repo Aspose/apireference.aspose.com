@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.Page for C++
 description: 'How to use get_Data method of System::Security::Cryptography::Xml::DataObject class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.security.cryptography.xml/dataobject/get_data/
 ---
 ## DataObject::get_Data method

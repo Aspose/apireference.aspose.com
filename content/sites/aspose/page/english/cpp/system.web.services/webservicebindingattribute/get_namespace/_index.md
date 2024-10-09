@@ -4,7 +4,7 @@ linktitle: get_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::get_Namespace method. Gets the namespace that is associated with the binding in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.web.services/webservicebindingattribute/get_namespace/
 ---
 ## WebServiceBindingAttribute::get_Namespace method

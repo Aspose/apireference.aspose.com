@@ -4,7 +4,7 @@ linktitle: get_PaleVioletRed
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_PaleVioletRed method. Returns a color whose ARGB value in hexadecimal notation is #FFDB7093 in C++.'
 type: docs
-weight: 12800
+weight: 12700
 url: /cpp/system.drawing/color/get_palevioletred/
 ---
 ## Color::get_PaleVioletRed method

@@ -4,7 +4,7 @@ linktitle: get_IsLocal
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::IXsltContextVariable::get_IsLocal method. Returns a value indicating whether the variable is local in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.xsl/ixsltcontextvariable/get_islocal/
 ---
 ## IXsltContextVariable::get_IsLocal method

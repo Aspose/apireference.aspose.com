@@ -4,29 +4,9 @@ linktitle: Complement
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Complement method. Replaces the region represented by the current object with the portion of the region defined by the specified recangle that does not intersect with this region in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/system.drawing/region/complement/
 ---
-## Region::Complement(const RectangleF\&) method
-
-
-Replaces the region represented by the current object with the portion of the region defined by the specified recangle that does not intersect with this region.
-
-```cpp
-void System::Drawing::Region::Complement(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | A rectangle that defines a region to complement |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Complement(const Rectangle\&) method
 
 
@@ -44,6 +24,26 @@ void System::Drawing::Region::Complement(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Complement(const RectangleF\&) method
+
+
+Replaces the region represented by the current object with the portion of the region defined by the specified recangle that does not intersect with this region.
+
+```cpp
+void System::Drawing::Region::Complement(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | A rectangle that defines a region to complement |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

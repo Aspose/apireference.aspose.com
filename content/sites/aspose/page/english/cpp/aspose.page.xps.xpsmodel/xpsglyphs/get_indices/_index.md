@@ -4,7 +4,7 @@ linktitle: get_Indices
 second_title: Aspose.Page for C++
 description: 'How to use get_Indices method of Aspose::Page::XPS::XpsModel::XpsGlyphs class in C++.'
 type: docs
-weight: 1600
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/get_indices/
 ---
 ## XpsGlyphs::get_Indices method

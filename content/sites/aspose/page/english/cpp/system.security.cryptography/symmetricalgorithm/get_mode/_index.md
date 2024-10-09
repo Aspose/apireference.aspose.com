@@ -4,7 +4,7 @@ linktitle: get_Mode
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::get_Mode method. Gets mode of cryptographic operation in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_mode/
 ---
 ## SymmetricAlgorithm::get_Mode method

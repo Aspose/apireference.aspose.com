@@ -4,7 +4,7 @@ linktitle: get_Headers
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebResponse::get_Headers method. Returns the collection of the headers that are associated with the current response in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.net/httpwebresponse/get_headers/
 ---
 ## HttpWebResponse::get_Headers method

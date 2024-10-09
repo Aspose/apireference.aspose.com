@@ -4,7 +4,7 @@ linktitle: GetRawCertDataString
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::GetRawCertDataString method. Gets raw data from certificate as a hexadecimal string in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getrawcertdatastring/
 ---
 ## X509Certificate::GetRawCertDataString method

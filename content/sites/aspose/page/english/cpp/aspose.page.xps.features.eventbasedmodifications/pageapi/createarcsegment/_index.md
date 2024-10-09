@@ -4,7 +4,7 @@ linktitle: CreateArcSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateArcSegment method. Creates a new elliptical arc segment in C++.'
 type: docs
-weight: 2400
+weight: 600
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createarcsegment/
 ---
 ## PageAPI::CreateArcSegment method

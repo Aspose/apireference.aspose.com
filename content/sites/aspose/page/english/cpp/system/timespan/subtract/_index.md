@@ -4,7 +4,7 @@ linktitle: Subtract
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::Subtract method. Returns a new instance of TimeSpan class that represents a time interval which is the result of subtraction of the time interval represented by the specified object from the time interval represented by the current object in C++.'
 type: docs
-weight: 1800
+weight: 3300
 url: /cpp/system/timespan/subtract/
 ---
 ## TimeSpan::Subtract method

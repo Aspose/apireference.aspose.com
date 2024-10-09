@@ -4,7 +4,7 @@ linktitle: LastIndexOf
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::LastIndexOf method. Searches for the specified object and returns the zero-based index of the last occurrence within the entire list in C++.'
 type: docs
-weight: 3700
+weight: 3400
 url: /cpp/system.collections.generic/list/lastindexof/
 ---
 ## List::LastIndexOf(const T\&) const method

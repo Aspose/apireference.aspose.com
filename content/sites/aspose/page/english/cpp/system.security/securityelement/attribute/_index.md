@@ -4,7 +4,7 @@ linktitle: Attribute
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::Attribute method. Gets attribute value in C++.'
 type: docs
-weight: 1200
+weight: 400
 url: /cpp/system.security/securityelement/attribute/
 ---
 ## SecurityElement::Attribute method

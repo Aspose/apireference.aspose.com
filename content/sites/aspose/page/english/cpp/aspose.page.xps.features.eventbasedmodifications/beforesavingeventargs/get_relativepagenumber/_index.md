@@ -4,7 +4,7 @@ linktitle: get_RelativePageNumber
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs::get_RelativePageNumber method. The current page number relative to the current document within the XPS package in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs/get_relativepagenumber/
 ---
 ## BeforeSavingEventArgs::get_RelativePageNumber method

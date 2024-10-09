@@ -4,7 +4,7 @@ linktitle: set_ReceiveBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::set_ReceiveBufferSize method. Sets the size of the receive buffer in C++.'
 type: docs
-weight: 1100
+weight: 2200
 url: /cpp/system.net/servicepoint/set_receivebuffersize/
 ---
 ## ServicePoint::set_ReceiveBufferSize method

@@ -4,7 +4,7 @@ linktitle: get_Firebrick
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Firebrick method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB22222 in C++.'
 type: docs
-weight: 4400
+weight: 4300
 url: /cpp/system.drawing/pens/get_firebrick/
 ---
 ## Pens::get_Firebrick method

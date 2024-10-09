@@ -4,7 +4,7 @@ linktitle: operator bool
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator bool method. Converts the value represented by the current object to a boolean value in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system/decimal/operatorbool/
 ---
 ## Decimal::operator bool method

@@ -4,7 +4,7 @@ linktitle: get_Key
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::PublicKey::get_Key method. Gets an RSACryptoServiceProvider or DSACryptoServiceProvider in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.security.cryptography.x509certificates/publickey/get_key/
 ---
 ## PublicKey::get_Key method

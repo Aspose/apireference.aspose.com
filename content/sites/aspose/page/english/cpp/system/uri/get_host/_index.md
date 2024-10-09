@@ -4,7 +4,7 @@ linktitle: get_Host
 second_title: Aspose.Page for C++
 description: 'System::Uri::get_Host method. Returns the host name in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system/uri/get_host/
 ---
 ## Uri::get_Host method

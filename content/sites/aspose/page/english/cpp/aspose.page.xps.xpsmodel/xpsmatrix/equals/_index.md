@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::Equals method. Determines whether the specified System::Object is equal to this instance in C++.'
 type: docs
-weight: 1900
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/equals/
 ---
 ## XpsMatrix::Equals(System::SharedPtr\<System::Object\>) method

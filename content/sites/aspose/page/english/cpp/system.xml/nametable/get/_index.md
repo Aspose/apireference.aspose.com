@@ -2,35 +2,11 @@
 title: System::Xml::NameTable::Get method
 linktitle: Get
 second_title: Aspose.Page for C++
-description: 'System::Xml::NameTable::Get method. Returns the atomized string with the specified value in C++.'
+description: 'System::Xml::NameTable::Get method. Returns the atomized string containing the same characters as the specified range of characters in the given array in C++.'
 type: docs
 weight: 300
 url: /cpp/system.xml/nametable/get/
 ---
-## NameTable::Get(const String\&) method
-
-
-Returns the atomized string with the specified value.
-
-```cpp
-const String & System::Xml::NameTable::Get(const String &value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | The name to find. |
-
-### ReturnValue
-
-The atomized string object or **nullptr** if the string has not already been atomized.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [NameTable](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## NameTable::Get(const ArrayPtr\<char16_t\>\&, int32_t, int32_t) method
 
 
@@ -55,6 +31,30 @@ The atomized string or **nullptr** if the string has not already been atomized. 
 
 * Class [String](../../../system/string/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [NameTable](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## NameTable::Get(const String\&) method
+
+
+Returns the atomized string with the specified value.
+
+```cpp
+const String & System::Xml::NameTable::Get(const String &value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The name to find. |
+
+### ReturnValue
+
+The atomized string object or **nullptr** if the string has not already been atomized.
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [NameTable](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: int_type
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::STDIOStreamWrapperBase::int_type typedef of System::IO::STDIOStreamWrapperBase class in C++.'
 type: docs
-weight: 1500
+weight: 1200
 url: /cpp/system.io/stdiostreamwrapperbase/int_type/
 ---
 ## int_type typedef

@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::get_IsReadOnly method. Checks if container is read only in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.collections.generic/ikvcollection/get_isreadonly/
 ---
 ## IKVCollection::get_IsReadOnly method

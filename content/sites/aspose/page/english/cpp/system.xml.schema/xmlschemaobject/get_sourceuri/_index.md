@@ -4,7 +4,7 @@ linktitle: get_SourceUri
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObject::get_SourceUri method. Returns the source location for the file that loaded the schema in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.xml.schema/xmlschemaobject/get_sourceuri/
 ---
 ## XmlSchemaObject::get_SourceUri method

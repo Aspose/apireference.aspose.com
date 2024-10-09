@@ -4,7 +4,7 @@ linktitle: get_BaseTypes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeUnion::get_BaseTypes method. Returns the collection of base types in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemasimpletypeunion/get_basetypes/
 ---
 ## XmlSchemaSimpleTypeUnion::get_BaseTypes method

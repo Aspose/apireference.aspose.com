@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'How to use Write method of Aspose::Page::EPS::BinaryHeader class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.eps/binaryheader/write/
 ---
 ## BinaryHeader::Write method

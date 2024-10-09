@@ -4,7 +4,7 @@ linktitle: get_Purple
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Purple method. Gets a system-defined color that has an ARGB value of #FF800080 in C++.'
 type: docs
-weight: 11400
+weight: 11500
 url: /cpp/aspose.page.drawing/color/get_purple/
 ---
 ## Color::get_Purple method

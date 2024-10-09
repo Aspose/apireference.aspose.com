@@ -4,7 +4,7 @@ linktitle: ToDictionary
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::ToDictionary method. Returns dictionary which contains named values in C++.'
 type: docs
-weight: 2200
+weight: 1400
 url: /cpp/aspose.page.eps.xmp/xmpvalue/todictionary/
 ---
 ## XmpValue::ToDictionary method

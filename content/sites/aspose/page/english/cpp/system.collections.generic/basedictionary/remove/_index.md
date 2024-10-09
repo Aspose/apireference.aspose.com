@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::Remove method. Removes specific key from dictionary in C++.'
 type: docs
-weight: 1100
+weight: 1900
 url: /cpp/system.collections.generic/basedictionary/remove/
 ---
 ## BaseDictionary::Remove method

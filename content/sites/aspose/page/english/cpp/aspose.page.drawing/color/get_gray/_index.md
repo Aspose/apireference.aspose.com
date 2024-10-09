@@ -4,7 +4,7 @@ linktitle: get_Gray
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Gray method. Gets a system-defined color that has an ARGB value of #FF808080 in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/aspose.page.drawing/color/get_gray/
 ---
 ## Color::get_Gray method

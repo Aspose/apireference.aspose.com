@@ -4,7 +4,7 @@ linktitle: ToTimeSpan
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToTimeSpan method. Converts the String to a TimeSpan equivalent in C++.'
 type: docs
-weight: 3200
+weight: 2500
 url: /cpp/system.xml/xmlconvert/totimespan/
 ---
 ## XmlConvert::ToTimeSpan method

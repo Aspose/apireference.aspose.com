@@ -4,7 +4,7 @@ linktitle: set_Indices
 second_title: Aspose.Page for C++
 description: 'How to use set_Indices method of Aspose::Page::XPS::XpsModel::XpsGlyphs class in C++.'
 type: docs
-weight: 1700
+weight: 1500
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/set_indices/
 ---
 ## XpsGlyphs::set_Indices method

@@ -4,7 +4,7 @@ linktitle: RemoveRange
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::RemoveRange method. Removes slice of list in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/system.collections.generic/list/removerange/
 ---
 ## List::RemoveRange method

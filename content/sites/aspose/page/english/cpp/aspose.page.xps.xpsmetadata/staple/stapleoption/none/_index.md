@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Staple::StapleOption::None field. Specifies no stapling in C++.'
 type: docs
-weight: 1200
+weight: 500
 url: /cpp/aspose.page.xps.xpsmetadata/staple/stapleoption/none/
 ---
 ## None field

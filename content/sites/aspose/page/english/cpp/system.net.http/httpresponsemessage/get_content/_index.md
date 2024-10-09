@@ -4,7 +4,7 @@ linktitle: get_Content
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpResponseMessage::get_Content method. Gets content of the HTTP response in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.net.http/httpresponsemessage/get_content/
 ---
 ## HttpResponseMessage::get_Content method

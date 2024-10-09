@@ -4,7 +4,7 @@ linktitle: get_DefaultRequestHeaders
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::get_DefaultRequestHeaders method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net.http/httpclient/get_defaultrequestheaders/
 ---
 ## HttpClient::get_DefaultRequestHeaders method

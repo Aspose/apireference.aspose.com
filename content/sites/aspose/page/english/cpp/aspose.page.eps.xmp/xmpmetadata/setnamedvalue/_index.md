@@ -4,7 +4,7 @@ linktitle: SetNamedValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::SetNamedValue method. Sets named value into a structure. Previous named value, if already exists, will be replaced with new one in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/setnamedvalue/
 ---
 ## XmpMetadata::SetNamedValue method

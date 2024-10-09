@@ -4,7 +4,7 @@ linktitle: Compile
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::Compile method. Compiles a string representing an XPath expression and returns an XPathExpression object in C++.'
 type: docs
-weight: 6000
+weight: 600
 url: /cpp/system.xml.xpath/xpathnavigator/compile/
 ---
 ## XPathNavigator::Compile method

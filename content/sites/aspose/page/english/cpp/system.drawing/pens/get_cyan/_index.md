@@ -4,7 +4,7 @@ linktitle: get_Cyan
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Cyan method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF00FFFF in C++.'
 type: docs
-weight: 2200
+weight: 2100
 url: /cpp/system.drawing/pens/get_cyan/
 ---
 ## Pens::get_Cyan method

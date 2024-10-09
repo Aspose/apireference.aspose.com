@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::virtualizeBeginConstIterator method. Gets the implementation of begin const iterator for the current container in C++.'
 type: docs
-weight: 2600
+weight: 2300
 url: /cpp/system.collections/bitarray/virtualizebeginconstiterator/
 ---
 ## BitArray::virtualizeBeginConstIterator method

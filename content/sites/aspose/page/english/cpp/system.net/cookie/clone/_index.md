@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::Clone method. Creates a copy of the current instance in C++.'
 type: docs
-weight: 3700
+weight: 200
 url: /cpp/system.net/cookie/clone/
 ---
 ## Cookie::Clone method

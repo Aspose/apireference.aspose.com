@@ -4,7 +4,7 @@ linktitle: Scale
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::Scale method. Applies the specified scale vector to the matrix represented by the current object in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/system.drawing.drawing2d/matrix/scale/
 ---
 ## Matrix::Scale(float, float) method

@@ -4,7 +4,7 @@ linktitle: Reprocess
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::Reprocess method. Reprocesses an XML Schema definition language (XSD) schema that already exists in the XmlSchemaSet in C++.'
 type: docs
-weight: 1800
+weight: 1500
 url: /cpp/system.xml.schema/xmlschemaset/reprocess/
 ---
 ## XmlSchemaSet::Reprocess method

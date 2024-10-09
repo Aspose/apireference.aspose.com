@@ -7,30 +7,6 @@ type: docs
 weight: 200
 url: /cpp/system.xml/nametable/add/
 ---
-## NameTable::Add(const String\&) method
-
-
-Atomizes the specified string and adds it to the [NameTable](../).
-
-```cpp
-const String & System::Xml::NameTable::Add(const String &key) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | const String\& | The string to add. |
-
-### ReturnValue
-
-The atomized string or the existing string if it already exists in the [NameTable](../).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [NameTable](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## NameTable::Add(const ArrayPtr\<char16_t\>\&, int32_t, int32_t) method
 
 
@@ -55,6 +31,30 @@ The atomized string or the existing string if one already exists in the [NameTab
 
 * Class [String](../../../system/string/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [NameTable](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## NameTable::Add(const String\&) method
+
+
+Atomizes the specified string and adds it to the [NameTable](../).
+
+```cpp
+const String & System::Xml::NameTable::Add(const String &key) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | const String\& | The string to add. |
+
+### ReturnValue
+
+The atomized string or the existing string if it already exists in the [NameTable](../).
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [NameTable](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: ReadValueChunk
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadValueChunk method. Reads large streams of text embedded in an XML document in C++.'
 type: docs
-weight: 6300
+weight: 7400
 url: /cpp/system.xml/xmlreader/readvaluechunk/
 ---
 ## XmlReader::ReadValueChunk method

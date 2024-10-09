@@ -4,7 +4,7 @@ linktitle: ImportParameters
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ECDsaBotan::ImportParameters method. Imports all parameters from data structure in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.security.cryptography/ecdsabotan/importparameters/
 ---
 ## ECDsaBotan::ImportParameters method

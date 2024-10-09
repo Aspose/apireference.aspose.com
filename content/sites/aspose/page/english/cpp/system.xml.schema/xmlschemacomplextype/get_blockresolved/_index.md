@@ -4,7 +4,7 @@ linktitle: get_BlockResolved
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::get_BlockResolved method. Returns the value after the type has been compiled to the post-schema-validation information set (infoset). This value indicates how the type is enforced when xsi:type is used in the instance document in C++.'
 type: docs
-weight: 1600
+weight: 700
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_blockresolved/
 ---
 ## XmlSchemaComplexType::get_BlockResolved method

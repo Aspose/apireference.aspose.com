@@ -4,7 +4,7 @@ linktitle: set_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Xml::Resolvers::XmlPreloadedResolver::set_Credentials method. Sets the credentials that are used to authenticate the underlying Net::WebRequest in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/set_credentials/
 ---
 ## XmlPreloadedResolver::set_Credentials method

@@ -4,7 +4,7 @@ linktitle: set_AllowAutoRedirect
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::HttpWebClientProtocol::set_AllowAutoRedirect method. Sets a value that indicates if the client follows server redirects in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_allowautoredirect/
 ---
 ## HttpWebClientProtocol::set_AllowAutoRedirect method

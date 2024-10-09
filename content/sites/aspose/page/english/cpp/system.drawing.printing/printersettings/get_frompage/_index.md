@@ -4,7 +4,7 @@ linktitle: get_FromPage
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PrinterSettings::get_FromPage method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.drawing.printing/printersettings/get_frompage/
 ---
 ## PrinterSettings::get_FromPage method

@@ -4,7 +4,7 @@ linktitle: CheckPath
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::CheckPath method. Determines if the specified path is valid by checking if it contains invalid characters. An exception is thrown if the path contains invalid characters in C++.'
 type: docs
-weight: 1700
+weight: 200
 url: /cpp/system.io/path/checkpath/
 ---
 ## Path::CheckPath method

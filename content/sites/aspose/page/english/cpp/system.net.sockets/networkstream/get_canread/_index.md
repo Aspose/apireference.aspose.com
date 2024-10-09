@@ -4,7 +4,7 @@ linktitle: get_CanRead
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::get_CanRead method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 900
 url: /cpp/system.net.sockets/networkstream/get_canread/
 ---
 ## NetworkStream::get_CanRead method

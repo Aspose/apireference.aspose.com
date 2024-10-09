@@ -4,7 +4,7 @@ linktitle: DeleteFile
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Ftp::DeleteFile field. The string representation of the ''DELE'' method of FTP in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.net/webrequestmethods/ftp/deletefile/
 ---
 ## DeleteFile field

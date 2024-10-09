@@ -4,7 +4,7 @@ linktitle: set_EdgeMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsCanvas::set_EdgeMode method. Returns/sets the value that controls how edges of paths within the canvas are rendered in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/aspose.page.xps.xpsmodel/xpscanvas/set_edgemode/
 ---
 ## XpsCanvas::set_EdgeMode method

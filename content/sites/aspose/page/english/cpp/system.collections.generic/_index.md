@@ -4,7 +4,7 @@ linktitle: System::Collections::Generic
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic namespace in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/system.collections.generic/
 ---
 
@@ -69,7 +69,7 @@ url: /cpp/system.collections.generic/
 | _net_binnary_search | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | _net_binnary_search | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | _net_binnary_search | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

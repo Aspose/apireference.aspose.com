@@ -4,7 +4,7 @@ linktitle: set_CertificatePolicy
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePointManager::set_CertificatePolicy method. Sets a certificate policy in C++.'
 type: docs
-weight: 1800
+weight: 1400
 url: /cpp/system.net/servicepointmanager/set_certificatepolicy/
 ---
 ## ServicePointManager::set_CertificatePolicy method

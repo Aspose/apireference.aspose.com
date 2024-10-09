@@ -4,7 +4,7 @@ linktitle: GetChildRows
 second_title: Aspose.Page for C++
 description: 'System::Data::DataRow::GetChildRows method. Gets rows which are considered child through specified relation in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.data/datarow/getchildrows/
 ---
 ## DataRow::GetChildRows method

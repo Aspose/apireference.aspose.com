@@ -4,7 +4,7 @@ linktitle: GetValueOrDefault
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::GetValueOrDefault method. Returns value if found; or Value() otherwise in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.collections.generic/basedictionary/getvalueordefault/
 ---
 ## BaseDictionary::GetValueOrDefault(const key_t\&) const method

@@ -26,27 +26,6 @@ void System::ConsoleOutput::Write(bool value) override
 * Class [ConsoleOutput](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(const SharedPtr\<Object\>\&) method
-
-
-Outputs the string representation of the specified object to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(const SharedPtr<Object> &value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const SharedPtr\<Object\>\& | The object to output |
-
-## See Also
-
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## ConsoleOutput::Write(char_t) method
 
 
@@ -60,160 +39,6 @@ void System::ConsoleOutput::Write(char_t value) override
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | char_t | The value to output |
-
-## See Also
-
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(Decimal) method
-
-
-Outputs the string representation of [Decimal](../../decimal/) value to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(Decimal value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Decimal | The value to output |
-
-## See Also
-
-* Class [Decimal](../../decimal/)
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(double) method
-
-
-Outputs the string representation of double-precision floating-point value to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(double value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | The value to output |
-
-## See Also
-
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(int32_t) method
-
-
-Outputs the string representation of 32-bit integer value to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(int32_t value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int32_t | The value to output |
-
-## See Also
-
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(int64_t) method
-
-
-Outputs the string representation of 64-bit integer value to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(int64_t value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int64_t | The value to output |
-
-## See Also
-
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(float) method
-
-
-Outputs the string representation of single-precision floating-point value to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(float value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | The value to output |
-
-## See Also
-
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(const String\&) method
-
-
-Outputs the specified string object to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(const String &value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | The string object to output |
-
-## See Also
-
-* Class [String](../../string/)
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(uint32_t) method
-
-
-Outputs the string representation of unsigned 32-bit integer value to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(uint32_t value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint32_t | The value to output |
-
-## See Also
-
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(uint64_t) method
-
-
-Outputs the string representation of unsigned 64-bit integer value to the output stream represented by the current object.
-
-```cpp
-void System::ConsoleOutput::Write(uint64_t value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint64_t | The value to output |
 
 ## See Also
 
@@ -262,6 +87,20 @@ void System::ConsoleOutput::Write(const ArrayPtr<char_t> &buffer, int32_t index,
 * Class [ConsoleOutput](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(const char *) method
+
+
+
+
+```cpp
+void System::ConsoleOutput::Write(const char *)=delete
+```
+
+## See Also
+
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ConsoleOutput::Write(const char_t *) method
 
 
@@ -278,6 +117,47 @@ void System::ConsoleOutput::Write(const char_t *value) override
 
 ## See Also
 
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(const SharedPtr\<Object\>\&) method
+
+
+Outputs the string representation of the specified object to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(const SharedPtr<Object> &value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const SharedPtr\<Object\>\& | The object to output |
+
+## See Also
+
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(const String\&) method
+
+
+Outputs the specified string object to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(const String &value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The string object to output |
+
+## See Also
+
+* Class [String](../../string/)
 * Class [ConsoleOutput](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -301,14 +181,134 @@ void System::ConsoleOutput::Write(const TypeInfo &value) override
 * Class [ConsoleOutput](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## ConsoleOutput::Write(const char *) method
+## ConsoleOutput::Write(Decimal) method
 
 
-
+Outputs the string representation of [Decimal](../../decimal/) value to the output stream represented by the current object.
 
 ```cpp
-void System::ConsoleOutput::Write(const char *)=delete
+void System::ConsoleOutput::Write(Decimal value) override
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Decimal | The value to output |
+
+## See Also
+
+* Class [Decimal](../../decimal/)
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(double) method
+
+
+Outputs the string representation of double-precision floating-point value to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(double value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | The value to output |
+
+## See Also
+
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(float) method
+
+
+Outputs the string representation of single-precision floating-point value to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(float value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | The value to output |
+
+## See Also
+
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(int32_t) method
+
+
+Outputs the string representation of 32-bit integer value to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(int32_t value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int32_t | The value to output |
+
+## See Also
+
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(int64_t) method
+
+
+Outputs the string representation of 64-bit integer value to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(int64_t value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int64_t | The value to output |
+
+## See Also
+
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(uint32_t) method
+
+
+Outputs the string representation of unsigned 32-bit integer value to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(uint32_t value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint32_t | The value to output |
+
+## See Also
+
+* Class [ConsoleOutput](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ConsoleOutput::Write(uint64_t) method
+
+
+Outputs the string representation of unsigned 64-bit integer value to the output stream represented by the current object.
+
+```cpp
+void System::ConsoleOutput::Write(uint64_t value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint64_t | The value to output |
 
 ## See Also
 

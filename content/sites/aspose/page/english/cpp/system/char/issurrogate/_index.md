@@ -4,7 +4,7 @@ linktitle: IsSurrogate
 second_title: Aspose.Page for C++
 description: 'System::Char::IsSurrogate method. Determines if the specified character is a UTF-16 surrogate code unit in C++.'
 type: docs
-weight: 200
+weight: 1600
 url: /cpp/system/char/issurrogate/
 ---
 ## Char::IsSurrogate(char_t) method

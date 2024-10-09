@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::RectangleF::set_Width method. Sets the width of the rectangle represented by the current object in C++.'
 type: docs
-weight: 1100
+weight: 2500
 url: /cpp/system.drawing/rectanglef/set_width/
 ---
 ## RectangleF::set_Width method

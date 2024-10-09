@@ -4,7 +4,7 @@ linktitle: Convert
 second_title: Aspose.Page for C++
 description: 'System::Text::Decoder::Convert method. Converts bytes to characters in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.text/decoder/convert/
 ---
 ## Decoder::Convert(ArrayPtr\<uint8_t\>, int, int, ArrayPtr\<char_t\>, int, int, bool, int\&, int\&, bool\&) method

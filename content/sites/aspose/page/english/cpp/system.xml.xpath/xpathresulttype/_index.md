@@ -4,7 +4,7 @@ linktitle: XPathResultType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathResultType enum. Specifies the return type of the XPath expression in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.xml.xpath/xpathresulttype/
 ---
 ## XPathResultType enum

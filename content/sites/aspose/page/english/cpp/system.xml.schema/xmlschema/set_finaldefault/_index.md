@@ -4,7 +4,7 @@ linktitle: set_FinalDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_FinalDefault method. Sets the finalDefault attribute which sets the default value of the final attribute on elements and complex types in the target namespace of the schema in C++.'
 type: docs
-weight: 600
+weight: 2300
 url: /cpp/system.xml.schema/xmlschema/set_finaldefault/
 ---
 ## XmlSchema::set_FinalDefault method

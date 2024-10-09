@@ -4,7 +4,7 @@ linktitle: set_PercentDecimalSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PercentDecimalSeparator method. Sets decimal separator in percent values in C++.'
 type: docs
-weight: 4500
+weight: 5100
 url: /cpp/system.globalization/numberformatinfo/set_percentdecimalseparator/
 ---
 ## NumberFormatInfo::set_PercentDecimalSeparator method

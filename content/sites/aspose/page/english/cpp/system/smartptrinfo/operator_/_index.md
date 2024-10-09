@@ -4,7 +4,7 @@ linktitle: operator<
 second_title: Aspose.Page for C++
 description: 'System::SmartPtrInfo::operator< method. Less-compares values of pointers referenced by two info objects in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/system/smartptrinfo/operator_/
 ---
 ## SmartPtrInfo::operator< method

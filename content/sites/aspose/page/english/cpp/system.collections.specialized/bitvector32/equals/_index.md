@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::BitVector32::Equals method. Determines whether the specified object is the same as the current in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.collections.specialized/bitvector32/equals/
 ---
 ## BitVector32::Equals method

@@ -4,7 +4,7 @@ linktitle: set_Alignment
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_Alignment method. Sets the alignment of the current Pen object in C++.'
 type: docs
-weight: 300
+weight: 2300
 url: /cpp/system.drawing/pen/set_alignment/
 ---
 ## Pen::set_Alignment method

@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::get_Data method. Returns/sets the geometry of the path in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/get_data/
 ---
 ## XpsPath::get_Data method

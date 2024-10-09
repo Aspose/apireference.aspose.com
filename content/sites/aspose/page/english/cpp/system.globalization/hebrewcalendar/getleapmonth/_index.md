@@ -2,11 +2,25 @@
 title: System::Globalization::HebrewCalendar::GetLeapMonth method
 linktitle: GetLeapMonth
 second_title: Aspose.Page for C++
-description: 'System::Globalization::HebrewCalendar::GetLeapMonth method. Gets the leap month for the specified year in C++.'
+description: 'System::Globalization::HebrewCalendar::GetLeapMonth method. RTTI information in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.globalization/hebrewcalendar/getleapmonth/
 ---
+## HebrewCalendar::GetLeapMonth(int) const method
+
+
+RTTI information.
+
+```cpp
+virtual int System::Globalization::Calendar::GetLeapMonth(int year) const
+```
+
+## See Also
+
+* Class [HebrewCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## HebrewCalendar::GetLeapMonth(int, int) const method
 
 
@@ -25,20 +39,6 @@ int System::Globalization::HebrewCalendar::GetLeapMonth(int year, int era) const
 ### ReturnValue
 
 Leap month of the speicified year of the specified era or zero if the year has no leap month.
-
-## See Also
-
-* Class [HebrewCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## HebrewCalendar::GetLeapMonth(int) const method
-
-
-RTTI information.
-
-```cpp
-virtual int System::Globalization::Calendar::GetLeapMonth(int year) const
-```
 
 ## See Also
 

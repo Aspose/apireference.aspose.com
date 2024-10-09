@@ -4,7 +4,7 @@ linktitle: set_ContentType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::set_ContentType method. Sets the XmlSchemaContentType object that corresponds to the content type of this validated XML node in C++.'
 type: docs
-weight: 1600
+weight: 1000
 url: /cpp/system.xml.schema/xmlschemainfo/set_contenttype/
 ---
 ## XmlSchemaInfo::set_ContentType method

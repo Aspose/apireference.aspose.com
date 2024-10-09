@@ -4,7 +4,7 @@ linktitle: get_Use
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::get_Use method. Gets a value that determines the message encoding method in C++.'
 type: docs
-weight: 1700
+weight: 1000
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/get_use/
 ---
 ## SoapDocumentMethodAttribute::get_Use method

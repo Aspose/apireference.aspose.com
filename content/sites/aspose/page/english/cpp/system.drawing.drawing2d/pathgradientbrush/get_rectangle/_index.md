@@ -4,7 +4,7 @@ linktitle: get_Rectangle
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::get_Rectangle method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2400
+weight: 800
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_rectangle/
 ---
 ## PathGradientBrush::get_Rectangle method

@@ -4,7 +4,7 @@ linktitle: JapanQuadrupleHagakiPostcard
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JapanQuadrupleHagakiPostcard field. Japan Quadruple Hagaki Postcard in C++.'
 type: docs
-weight: 5700
+weight: 7200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/japanquadruplehagakipostcard/
 ---
 ## JapanQuadrupleHagakiPostcard field

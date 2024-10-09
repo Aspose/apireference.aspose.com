@@ -4,7 +4,7 @@ linktitle: ToFileTime
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::ToFileTime method. Converts current object to the Windows file time in C++.'
 type: docs
-weight: 3200
+weight: 4200
 url: /cpp/system/datetimeoffset/tofiletime/
 ---
 ## DateTimeOffset::ToFileTime method

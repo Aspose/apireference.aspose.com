@@ -4,7 +4,7 @@ linktitle: get_Brown
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Brown method. Gets a system-defined color that has an ARGB value of #FFA52A2A in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.page.drawing/color/get_brown/
 ---
 ## Color::get_Brown method

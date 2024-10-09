@@ -4,7 +4,7 @@ linktitle: get_Node
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeChangedEventArgs::get_Node method. Returns the XmlNode that is being added, removed or changed in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.xml/xmlnodechangedeventargs/get_node/
 ---
 ## XmlNodeChangedEventArgs::get_Node method

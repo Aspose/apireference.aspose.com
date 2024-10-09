@@ -4,7 +4,7 @@ linktitle: EnumerateFiles
 second_title: Aspose.Page for C++
 description: 'System::IO::DirectoryInfo::EnumerateFiles method. Returns enumerable collection containing all files located in the directory represented by the current object in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/system.io/directoryinfo/enumeratefiles/
 ---
 ## DirectoryInfo::EnumerateFiles() method

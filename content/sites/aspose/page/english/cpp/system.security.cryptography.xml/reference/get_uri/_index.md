@@ -4,7 +4,7 @@ linktitle: get_Uri
 second_title: Aspose.Page for C++
 description: 'How to use get_Uri method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.security.cryptography.xml/reference/get_uri/
 ---
 ## Reference::get_Uri method

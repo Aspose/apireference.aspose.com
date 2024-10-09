@@ -4,7 +4,7 @@ linktitle: ReadKey
 second_title: Aspose.Page for C++
 description: 'System::Console::ReadKey method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/system/console/readkey/
 ---
 ## Console::ReadKey method

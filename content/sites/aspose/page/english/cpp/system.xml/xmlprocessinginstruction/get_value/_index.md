@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlProcessingInstruction::get_Value method. Returns the value of the node in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.xml/xmlprocessinginstruction/get_value/
 ---
 ## XmlProcessingInstruction::get_Value method

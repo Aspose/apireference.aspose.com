@@ -4,7 +4,7 @@ linktitle: CreatePieSlice
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreatePieSlice method. Creates a path geometry representing a circle slice between two radial rays in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.page.xps/documentutils/createpieslice/
 ---
 ## DocumentUtils::CreatePieSlice method

@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceAttribute::set_Name method. Sets the XML Web service''s name in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.web.services/webserviceattribute/set_name/
 ---
 ## WebServiceAttribute::set_Name method

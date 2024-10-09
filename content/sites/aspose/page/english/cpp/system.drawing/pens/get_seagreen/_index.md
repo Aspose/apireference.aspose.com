@@ -4,7 +4,7 @@ linktitle: get_SeaGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_SeaGreen method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF2E8B57 in C++.'
 type: docs
-weight: 12100
+weight: 12000
 url: /cpp/system.drawing/pens/get_seagreen/
 ---
 ## Pens::get_SeaGreen method

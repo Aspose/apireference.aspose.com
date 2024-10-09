@@ -4,7 +4,7 @@ linktitle: Encoding
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::Encoding field. The value of the ''xmlns:soapenc'' attribute in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.web.services/soap/encoding/
 ---
 ## Encoding field

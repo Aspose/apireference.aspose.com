@@ -4,7 +4,7 @@ linktitle: get_Directory
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::get_Directory method. Returns a DirectoryInfo object that represents a directory in which the file represented by the current object is located in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/system.io/fileinfo/get_directory/
 ---
 ## FileInfo::get_Directory method

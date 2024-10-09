@@ -4,7 +4,7 @@ linktitle: set_ImageFormat
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverterToImageOptions::set_ImageFormat method. Gets/sets the image type in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.page.plugins/psconvertertoimageoptions/set_imageformat/
 ---
 ## PsConverterToImageOptions::set_ImageFormat method

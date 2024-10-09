@@ -4,7 +4,7 @@ linktitle: Parse
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::MediaTypeHeaderValue::Parse method. Converts a passed string to an instance of the MediaTypeHeaderValue class in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.net.http.headers/mediatypeheadervalue/parse/
 ---
 ## MediaTypeHeaderValue::Parse method

@@ -4,7 +4,7 @@ linktitle: get_Prefix
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_Prefix method. When overridden in a derived class, gets the namespace prefix associated with the current node in C++.'
 type: docs
-weight: 1500
+weight: 2600
 url: /cpp/system.xml.xpath/xpathnavigator/get_prefix/
 ---
 ## XPathNavigator::get_Prefix method

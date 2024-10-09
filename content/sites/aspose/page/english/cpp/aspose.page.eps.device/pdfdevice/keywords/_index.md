@@ -4,7 +4,7 @@ linktitle: KEYWORDS
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::KEYWORDS method. "Keywords" property value in C++.'
 type: docs
-weight: 1400
+weight: 1000
 url: /cpp/aspose.page.eps.device/pdfdevice/keywords/
 ---
 ## PdfDevice::KEYWORDS method

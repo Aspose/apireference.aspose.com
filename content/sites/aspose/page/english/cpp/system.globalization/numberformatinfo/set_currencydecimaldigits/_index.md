@@ -4,7 +4,7 @@ linktitle: set_CurrencyDecimalDigits
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_CurrencyDecimalDigits method. Sets number of currency decimal digits in C++.'
 type: docs
-weight: 2500
+weight: 3300
 url: /cpp/system.globalization/numberformatinfo/set_currencydecimaldigits/
 ---
 ## NumberFormatInfo::set_CurrencyDecimalDigits method

@@ -2,11 +2,32 @@
 title: Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply method
 linktitle: Multiply
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply method. Multiplies this matrix by the matrix specified by the matrix  in order specified by matrixOrder  in C++.'
+description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply method. Multiplies this matrix by the matrix specified by the matrix  in default (Prepend) order in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/multiply/
 ---
+## XpsMatrix::Multiply(System::SharedPtr\<System::Drawing::Drawing2D::Matrix\>) method
+
+
+Multiplies this matrix by the matrix specified by the *matrix*  in default (Prepend) order.
+
+```cpp
+void Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply(System::SharedPtr<System::Drawing::Drawing2D::Matrix> matrix)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrix | System::SharedPtr\<System::Drawing::Drawing2D::Matrix\> | The matrix. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Class [XpsMatrix](../)
+* Namespace [Aspose::Page::XPS::XpsModel](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XpsMatrix::Multiply(System::SharedPtr\<System::Drawing::Drawing2D::Matrix\>, System::Drawing::Drawing2D::MatrixOrder) method
 
 
@@ -30,24 +51,24 @@ void Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply(System::SharedPtr<System::
 * Class [XpsMatrix](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)
-## XpsMatrix::Multiply(System::SharedPtr\<System::Drawing::Drawing2D::Matrix\>) method
+## XpsMatrix::Multiply(System::SharedPtr\<XpsMatrix\>) method
 
 
 Multiplies this matrix by the matrix specified by the *matrix*  in default (Prepend) order.
 
 ```cpp
-void Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply(System::SharedPtr<System::Drawing::Drawing2D::Matrix> matrix)
+void Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply(System::SharedPtr<XpsMatrix> matrix)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrix | System::SharedPtr\<System::Drawing::Drawing2D::Matrix\> | The matrix. |
+| matrix | System::SharedPtr\<XpsMatrix\> | The matrix. |
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Class [XpsMatrix](../)
 * Class [XpsMatrix](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -71,27 +92,6 @@ void Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply(System::SharedPtr<XpsMatri
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XpsMatrix](../)
 * Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
-* Class [XpsMatrix](../)
-* Namespace [Aspose::Page::XPS::XpsModel](../../)
-* Library [Aspose.Page for C++](../../../)
-## XpsMatrix::Multiply(System::SharedPtr\<XpsMatrix\>) method
-
-
-Multiplies this matrix by the matrix specified by the *matrix*  in default (Prepend) order.
-
-```cpp
-void Aspose::Page::XPS::XpsModel::XpsMatrix::Multiply(System::SharedPtr<XpsMatrix> matrix)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrix | System::SharedPtr\<XpsMatrix\> | The matrix. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XpsMatrix](../)
 * Class [XpsMatrix](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)

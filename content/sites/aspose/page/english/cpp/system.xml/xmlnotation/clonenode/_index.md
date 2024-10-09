@@ -4,7 +4,7 @@ linktitle: CloneNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNotation::CloneNode method. Creates a duplicate of this node. Notation nodes cannot be cloned. Calling this method on an XmlNotation object throws an exception in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/system.xml/xmlnotation/clonenode/
 ---
 ## XmlNotation::CloneNode method

@@ -4,7 +4,7 @@ linktitle: Cookie
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::Cookie constructor. Constructs a new instance in C++.'
 type: docs
-weight: 3500
+weight: 100
 url: /cpp/system.net/cookie/cookie/
 ---
 ## Cookie::Cookie() constructor

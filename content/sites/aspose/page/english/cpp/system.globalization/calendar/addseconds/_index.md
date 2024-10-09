@@ -4,7 +4,7 @@ linktitle: AddSeconds
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::AddSeconds method. Adds seconds to time point in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/system.globalization/calendar/addseconds/
 ---
 ## Calendar::AddSeconds method

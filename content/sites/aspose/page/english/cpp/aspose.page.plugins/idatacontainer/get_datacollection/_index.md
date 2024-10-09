@@ -4,7 +4,7 @@ linktitle: get_DataCollection
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::IDataContainer::get_DataCollection method. Gets collection of data sources in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.plugins/idatacontainer/get_datacollection/
 ---
 ## IDataContainer::get_DataCollection method

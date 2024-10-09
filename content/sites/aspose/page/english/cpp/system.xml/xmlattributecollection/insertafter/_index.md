@@ -4,7 +4,7 @@ linktitle: InsertAfter
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttributeCollection::InsertAfter method. Inserts the specified attribute immediately after the specified reference attribute in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.xml/xmlattributecollection/insertafter/
 ---
 ## XmlAttributeCollection::InsertAfter method

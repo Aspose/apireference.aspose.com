@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Array::GetEnumerator method. Returns a pointer to Enumerator object that provides IEnumerator interface to elements of the array represented by the current object in C++.'
 type: docs
-weight: 200
+weight: 2100
 url: /cpp/system/array/getenumerator/
 ---
 ## Array::GetEnumerator method

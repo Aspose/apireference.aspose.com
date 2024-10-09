@@ -4,7 +4,7 @@ linktitle: ISOB5Envelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOB5Envelope field. ISOB5 envelope in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isob5envelope/
 ---
 ## ISOB5Envelope field

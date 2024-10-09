@@ -4,7 +4,7 @@ linktitle: set_ContentType
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::set_ContentType method. Sets a value of the ''Content-Type'' header in C++.'
 type: docs
-weight: 700
+weight: 2000
 url: /cpp/system.web.services.protocols/soapmessage/set_contenttype/
 ---
 ## SoapMessage::set_ContentType method

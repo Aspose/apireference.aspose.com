@@ -4,7 +4,7 @@ linktitle: set_IsBackground
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::set_IsBackground method. Sets thread to background or foreground in C++.'
 type: docs
-weight: 1000
+weight: 1800
 url: /cpp/system.threading/thread/set_isbackground/
 ---
 ## Thread::set_IsBackground method

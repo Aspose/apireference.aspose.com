@@ -4,7 +4,7 @@ linktitle: set_OldColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMap::set_OldColor method. Sets the old Color object representing the color to be converted in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.drawing.imaging/colormap/set_oldcolor/
 ---
 ## ColorMap::set_OldColor method

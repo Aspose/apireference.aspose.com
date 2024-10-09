@@ -4,7 +4,7 @@ linktitle: get_DataType
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::StreamDataSource::get_DataType method. Type of data source (stream) in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.plugins/streamdatasource/get_datatype/
 ---
 ## StreamDataSource::get_DataType method

@@ -4,7 +4,7 @@ linktitle: get_MimeType
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageCodecInfo::get_MimeType method. Returns the Multipurpose Internet Mail Extensions (MIME) type of the codec represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.drawing.imaging/imagecodecinfo/get_mimetype/
 ---
 ## ImageCodecInfo::get_MimeType method

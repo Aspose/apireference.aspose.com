@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlQualifiedName::Equals method. Determines whether the specified XmlQualifiedName object is equal to the current XmlQualifiedName object in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.xml/xmlqualifiedname/equals/
 ---
 ## XmlQualifiedName::Equals method

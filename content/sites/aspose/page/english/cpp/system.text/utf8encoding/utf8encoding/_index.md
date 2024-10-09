@@ -21,25 +21,6 @@ System::Text::UTF8Encoding::UTF8Encoding()
 * Class [UTF8Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
-## UTF8Encoding::UTF8Encoding(bool) constructor
-
-
-Constructor.
-
-```cpp
-System::Text::UTF8Encoding::UTF8Encoding(bool encoder_should_emit_utf8_idetifier)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| encoder_should_emit_utf8_idetifier | bool | Whether to insert BOM. |
-
-## See Also
-
-* Class [UTF8Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
 ## UTF8Encoding::UTF8Encoding(bool, bool) constructor
 
 
@@ -54,6 +35,25 @@ System::Text::UTF8Encoding::UTF8Encoding(bool encoder_should_emit_utf8_identifie
 | --- | --- | --- |
 | encoder_should_emit_utf8_identifier | bool | Whether to insert BOM. |
 | throw_on_invalid_bytes | bool | Whether to throw on invalid bytes as an opposite to replacing them. |
+
+## See Also
+
+* Class [UTF8Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF8Encoding::UTF8Encoding(bool) constructor
+
+
+Constructor.
+
+```cpp
+System::Text::UTF8Encoding::UTF8Encoding(bool encoder_should_emit_utf8_idetifier)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| encoder_should_emit_utf8_idetifier | bool | Whether to insert BOM. |
 
 ## See Also
 

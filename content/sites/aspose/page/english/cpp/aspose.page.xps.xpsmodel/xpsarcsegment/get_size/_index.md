@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArcSegment::get_Size method. Returns/sets the x and y radius of the elliptical arc as an x,y pair in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.xps.xpsmodel/xpsarcsegment/get_size/
 ---
 ## XpsArcSegment::get_Size method

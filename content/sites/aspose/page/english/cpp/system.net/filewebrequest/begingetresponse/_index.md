@@ -4,7 +4,7 @@ linktitle: BeginGetResponse
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebRequest::BeginGetResponse method. Initiates an asynchronous request for the resource in C++.'
 type: docs
-weight: 1400
+weight: 400
 url: /cpp/system.net/filewebrequest/begingetresponse/
 ---
 ## FileWebRequest::BeginGetResponse method

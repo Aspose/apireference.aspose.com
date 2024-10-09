@@ -4,7 +4,7 @@ linktitle: Delete
 second_title: Aspose.Page for C++
 description: 'System::Threading::TimerQueue::Delete method. Deletes timer from queue in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.threading/timerqueue/delete/
 ---
 ## TimerQueue::Delete method

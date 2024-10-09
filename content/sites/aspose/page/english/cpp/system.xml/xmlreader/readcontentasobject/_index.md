@@ -4,7 +4,7 @@ linktitle: ReadContentAsObject
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAsObject method. Reads the text content at the current position as an Object in C++.'
 type: docs
-weight: 2600
+weight: 5000
 url: /cpp/system.xml/xmlreader/readcontentasobject/
 ---
 ## XmlReader::ReadContentAsObject method

@@ -4,7 +4,7 @@ linktitle: ISOB2
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOB2 field. ISOB2 in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isob2/
 ---
 ## ISOB2 field

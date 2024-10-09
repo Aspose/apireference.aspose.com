@@ -4,7 +4,7 @@ linktitle: get_FillRule
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathGeometry::get_FillRule method. Returns/sets the value specifying how the intersecting areas of geometric shapes are combined to form a region in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/get_fillrule/
 ---
 ## XpsPathGeometry::get_FillRule method

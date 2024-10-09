@@ -4,7 +4,7 @@ linktitle: get_CultureTypes
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_CultureTypes method. Gets bitwise joint of culture types that describe the current culture in C++.'
 type: docs
-weight: 1400
+weight: 700
 url: /cpp/system.globalization/cultureinfo/get_culturetypes/
 ---
 ## CultureInfo::get_CultureTypes method

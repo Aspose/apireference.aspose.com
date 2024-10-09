@@ -4,7 +4,7 @@ linktitle: GetPreamble
 second_title: Aspose.Page for C++
 description: 'System::Text::UnicodeEncoding::GetPreamble method. Returns a sequence of bytes that denotes the encoding (e. g. BOM) in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.text/unicodeencoding/getpreamble/
 ---
 ## UnicodeEncoding::GetPreamble method

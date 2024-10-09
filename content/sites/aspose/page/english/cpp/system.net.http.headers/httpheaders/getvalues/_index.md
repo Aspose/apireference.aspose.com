@@ -4,7 +4,7 @@ linktitle: GetValues
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::GetValues method. Returns corresponding values by the specified name in C++.'
 type: docs
-weight: 500
+weight: 1100
 url: /cpp/system.net.http.headers/httpheaders/getvalues/
 ---
 ## HttpHeaders::GetValues method

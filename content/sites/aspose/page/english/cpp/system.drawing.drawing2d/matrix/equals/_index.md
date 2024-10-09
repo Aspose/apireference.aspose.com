@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::Equals method. Tests whether the specified object is a Matrix and is identical to this object in C++.'
 type: docs
-weight: 1900
+weight: 500
 url: /cpp/system.drawing.drawing2d/matrix/equals/
 ---
 ## Matrix::Equals method

@@ -4,7 +4,7 @@ linktitle: get_WriteState
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::get_WriteState method. Returns the state of the writer in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/system.xml/xmltextwriter/get_writestate/
 ---
 ## XmlTextWriter::get_WriteState method

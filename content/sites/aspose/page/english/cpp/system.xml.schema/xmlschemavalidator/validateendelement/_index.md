@@ -4,7 +4,7 @@ linktitle: ValidateEndElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::ValidateEndElement method. Verifies if the text content of the element is valid according to its data type for elements with simple content, and verifies if the content of the current element is complete for elements with complex content in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.xml.schema/xmlschemavalidator/validateendelement/
 ---
 ## XmlSchemaValidator::ValidateEndElement(const SharedPtr\<XmlSchemaInfo\>\&) method

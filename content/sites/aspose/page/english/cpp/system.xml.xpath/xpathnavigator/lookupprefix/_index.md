@@ -4,7 +4,7 @@ linktitle: LookupPrefix
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::LookupPrefix method. Returns the prefix declared for the specified namespace URI in C++.'
 type: docs
-weight: 3300
+weight: 4800
 url: /cpp/system.xml.xpath/xpathnavigator/lookupprefix/
 ---
 ## XPathNavigator::LookupPrefix method

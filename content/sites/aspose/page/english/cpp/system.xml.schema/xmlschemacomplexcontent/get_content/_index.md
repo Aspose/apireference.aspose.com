@@ -4,7 +4,7 @@ linktitle: get_Content
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexContent::get_Content method. Returns the content in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemacomplexcontent/get_content/
 ---
 ## XmlSchemaComplexContent::get_Content method

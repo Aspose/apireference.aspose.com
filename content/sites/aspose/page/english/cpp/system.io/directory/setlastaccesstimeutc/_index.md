@@ -4,7 +4,7 @@ linktitle: SetLastAccessTimeUtc
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::SetLastAccessTimeUtc method. Sets the last access time of the specified entity as UTC time in C++.'
 type: docs
-weight: 2000
+weight: 2500
 url: /cpp/system.io/directory/setlastaccesstimeutc/
 ---
 ## Directory::SetLastAccessTimeUtc method

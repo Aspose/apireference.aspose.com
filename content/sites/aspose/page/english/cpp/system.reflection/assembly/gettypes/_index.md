@@ -4,7 +4,7 @@ linktitle: GetTypes
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::GetTypes method. Gets types declared by assembly in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.reflection/assembly/gettypes/
 ---
 ## Assembly::GetTypes method

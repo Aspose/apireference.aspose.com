@@ -4,7 +4,7 @@ linktitle: set_ContentType
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebRequest::set_ContentType method. Sets the MIME type of the request in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/system.net/filewebrequest/set_contenttype/
 ---
 ## FileWebRequest::set_ContentType method

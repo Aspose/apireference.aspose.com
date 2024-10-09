@@ -4,7 +4,7 @@ linktitle: Increment
 second_title: Aspose.Page for C++
 description: 'System::Threading::Interlocked::Increment method. Increments value atomically in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/system.threading/interlocked/increment/
 ---
 ## Interlocked::Increment(int32_t\&) method

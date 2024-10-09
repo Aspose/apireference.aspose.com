@@ -4,7 +4,7 @@ linktitle: MinPort
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::MinPort field. RTTI information in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/system.net/ipendpoint/minport/
 ---
 ## MinPort field

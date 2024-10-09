@@ -4,7 +4,7 @@ linktitle: MoveToContent
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::MoveToContent method. Checks whether the current node is a content (non-white space text, CDATA, Element, EndElement, EntityReference, or EndEntity) node. If the node is not a content node, the reader skips ahead to the next content node or end of file. It skips over nodes of the following type: ProcessingInstruction, DocumentType, Comment, Whitespace, or SignificantWhitespace in C++.'
 type: docs
-weight: 6500
+weight: 3300
 url: /cpp/system.xml/xmlreader/movetocontent/
 ---
 ## XmlReader::MoveToContent method

@@ -4,7 +4,7 @@ linktitle: get_LightPink
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_LightPink method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFB6C1 in C++.'
 type: docs
-weight: 7100
+weight: 7000
 url: /cpp/system.drawing/pens/get_lightpink/
 ---
 ## Pens::get_LightPink method

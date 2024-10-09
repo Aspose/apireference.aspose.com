@@ -4,7 +4,7 @@ linktitle: get_Chocolate
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Chocolate method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFD2691E in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/system.drawing/pens/get_chocolate/
 ---
 ## Pens::get_Chocolate method

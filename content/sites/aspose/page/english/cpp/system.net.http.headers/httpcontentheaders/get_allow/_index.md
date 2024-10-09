@@ -4,7 +4,7 @@ linktitle: get_Allow
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::get_Allow method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net.http.headers/httpcontentheaders/get_allow/
 ---
 ## HttpContentHeaders::get_Allow method

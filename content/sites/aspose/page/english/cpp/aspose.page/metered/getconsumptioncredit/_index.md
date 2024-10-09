@@ -4,7 +4,7 @@ linktitle: GetConsumptionCredit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Metered::GetConsumptionCredit method. Gets consumption credit in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page/metered/getconsumptioncredit/
 ---
 ## Metered::GetConsumptionCredit method

@@ -4,7 +4,7 @@ linktitle: WriteString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteString method. Writes the given text content in C++.'
 type: docs
-weight: 3000
+weight: 3900
 url: /cpp/system.xml/xmltextwriter/writestring/
 ---
 ## XmlTextWriter::WriteString method

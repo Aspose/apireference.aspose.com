@@ -4,7 +4,7 @@ linktitle: get_LavenderBlush
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LavenderBlush method. Returns a color whose ARGB value in hexadecimal notation is #FFFFF0F5 in C++.'
 type: docs
-weight: 8300
+weight: 8200
 url: /cpp/system.drawing/color/get_lavenderblush/
 ---
 ## Color::get_LavenderBlush method

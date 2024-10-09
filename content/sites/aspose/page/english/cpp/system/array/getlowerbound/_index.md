@@ -4,7 +4,7 @@ linktitle: GetLowerBound
 second_title: Aspose.Page for C++
 description: 'System::Array::GetLowerBound method. Returns the lower bound of the specified dimension in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/system/array/getlowerbound/
 ---
 ## Array::GetLowerBound method

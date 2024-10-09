@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.Page for C++
 description: 'System::IO::UnmanagedMemoryStream::Flush method. Does nothing in C++.'
 type: docs
-weight: 1100
+weight: 200
 url: /cpp/system.io/unmanagedmemorystream/flush/
 ---
 ## UnmanagedMemoryStream::Flush method

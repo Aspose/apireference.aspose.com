@@ -4,7 +4,7 @@ linktitle: Dequeue
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::Dequeue method. Gets item from the beginning of the queue in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.collections.generic/queue/dequeue/
 ---
 ## Queue::Dequeue method

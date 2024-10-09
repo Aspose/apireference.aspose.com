@@ -4,7 +4,7 @@ linktitle: AddWeeks
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::AddWeeks method. Adds weeks to time point in C++.'
 type: docs
-weight: 1300
+weight: 800
 url: /cpp/system.globalization/calendar/addweeks/
 ---
 ## Calendar::AddWeeks method

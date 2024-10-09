@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::Remove method. Removes first instance of specific item from list in C++.'
 type: docs
-weight: 1600
+weight: 3700
 url: /cpp/system.collections.generic/list/remove/
 ---
 ## List::Remove method

@@ -4,7 +4,7 @@ linktitle: GetHostAddresses
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::GetHostAddresses method. Returns a collection of IP addresses of the specified host name or IP address in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.net/dns/gethostaddresses/
 ---
 ## Dns::GetHostAddresses method

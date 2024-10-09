@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::get_Position method. Gets current position in stream. Not supported in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.security.cryptography/cryptostream/get_position/
 ---
 ## CryptoStream::get_Position method

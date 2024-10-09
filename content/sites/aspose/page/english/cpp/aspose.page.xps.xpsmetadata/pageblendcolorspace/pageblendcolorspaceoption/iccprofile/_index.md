@@ -4,7 +4,7 @@ linktitle: ICCProfile
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlendColorSpace::PageBlendColorSpaceOption::ICCProfile field. Specifies an ICC profile defining the color space that SHOULD be used for blending. Note: This applies to XPS Documents only and should not be used in arbitrary PrintTickets in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/pageblendcolorspace/pageblendcolorspaceoption/iccprofile/
 ---
 ## ICCProfile field

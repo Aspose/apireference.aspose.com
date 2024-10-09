@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::Flush method. Clears this stream''s buffers and writes all buffered data to the underlying storage in C++.'
 type: docs
-weight: 2400
+weight: 800
 url: /cpp/system.net.sockets/networkstream/flush/
 ---
 ## NetworkStream::Flush method

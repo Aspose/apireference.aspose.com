@@ -4,7 +4,7 @@ linktitle: SetStage
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::SetStage method. Sets the processing stage of the SOAP message in C++.'
 type: docs
-weight: 1900
+weight: 2600
 url: /cpp/system.web.services.protocols/soapmessage/setstage/
 ---
 ## SoapMessage::SetStage method

@@ -4,7 +4,7 @@ linktitle: ToInteger
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::ToInteger method. Converts to integer in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/aspose.page.eps.xmp/xmpvalue/tointeger/
 ---
 ## XmpValue::ToInteger method

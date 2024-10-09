@@ -4,9 +4,32 @@ linktitle: GetDaysInYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TaiwanCalendar::GetDaysInYear method. Gets number of days in specific year in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.globalization/taiwancalendar/getdaysinyear/
 ---
+## TaiwanCalendar::GetDaysInYear(int) const method
+
+
+Gets number of days in specific year.
+
+```cpp
+virtual int System::Globalization::Calendar::GetDaysInYear(int year) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year to get number of days in. |
+
+### ReturnValue
+
+Number of days in specified year.
+
+## See Also
+
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TaiwanCalendar::GetDaysInYear(int, int) const method
 
 
@@ -25,29 +48,6 @@ int System::Globalization::TaiwanCalendar::GetDaysInYear(int year, int era) cons
 ### ReturnValue
 
 Number of days in specified year of specified era.
-
-## See Also
-
-* Class [TaiwanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## TaiwanCalendar::GetDaysInYear(int) const method
-
-
-Gets number of days in specific year.
-
-```cpp
-virtual int System::Globalization::Calendar::GetDaysInYear(int year) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year to get number of days in. |
-
-### ReturnValue
-
-Number of days in specified year.
 
 ## See Also
 

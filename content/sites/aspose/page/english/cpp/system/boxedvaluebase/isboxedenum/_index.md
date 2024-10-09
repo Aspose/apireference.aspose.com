@@ -4,7 +4,7 @@ linktitle: IsBoxedEnum
 second_title: Aspose.Page for C++
 description: 'System::BoxedValueBase::IsBoxedEnum method. Determines if current object represents a boxed value of enum type in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system/boxedvaluebase/isboxedenum/
 ---
 ## BoxedValueBase::IsBoxedEnum method

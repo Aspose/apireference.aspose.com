@@ -4,7 +4,7 @@ linktitle: get_SourceUri
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::get_SourceUri method. Returns the source URI for the XML node being validated in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.xml.schema/xmlschemavalidator/get_sourceuri/
 ---
 ## XmlSchemaValidator::get_SourceUri method

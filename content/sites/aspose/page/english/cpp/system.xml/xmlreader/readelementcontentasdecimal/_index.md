@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsDecimal
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsDecimal method. Reads the current element and returns the contents as a Decimal object in C++.'
 type: docs
-weight: 4200
+weight: 5700
 url: /cpp/system.xml/xmlreader/readelementcontentasdecimal/
 ---
 ## XmlReader::ReadElementContentAsDecimal() method

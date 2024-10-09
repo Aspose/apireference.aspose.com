@@ -4,7 +4,7 @@ linktitle: NorthAmericaQuarto
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaQuarto field. North America Quarto in C++.'
 type: docs
-weight: 11300
+weight: 13000
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericaquarto/
 ---
 ## NorthAmericaQuarto field

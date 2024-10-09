@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::IO::TextWriter::Dispose method. Releases all resources used by the current object and closes the undelying stream in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.io/textwriter/dispose/
 ---
 ## TextWriter::Dispose method

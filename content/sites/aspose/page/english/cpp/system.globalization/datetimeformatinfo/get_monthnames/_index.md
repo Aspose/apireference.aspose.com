@@ -4,7 +4,7 @@ linktitle: get_MonthNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_MonthNames method. Gets month names in C++.'
 type: docs
-weight: 4100
+weight: 1800
 url: /cpp/system.globalization/datetimeformatinfo/get_monthnames/
 ---
 ## DateTimeFormatInfo::get_MonthNames method

@@ -4,7 +4,7 @@ linktitle: set_ServerCertificateValidationCallback
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePointManager::set_ServerCertificateValidationCallback method. Sets the callback that is used to validate a server certificate in C++.'
 type: docs
-weight: 2000
+weight: 2400
 url: /cpp/system.net/servicepointmanager/set_servercertificatevalidationcallback/
 ---
 ## ServicePointManager::set_ServerCertificateValidationCallback method

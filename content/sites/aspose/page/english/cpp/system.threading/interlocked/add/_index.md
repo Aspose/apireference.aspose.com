@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Threading::Interlocked::Add method. Increases value atomically in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.threading/interlocked/add/
 ---
 ## Interlocked::Add(int32_t\&, int32_t) method

@@ -4,7 +4,7 @@ linktitle: ToCharArray
 second_title: Aspose.Page for C++
 description: 'System::String::ToCharArray method. Converts string or substring to array of characters in C++.'
 type: docs
-weight: 3700
+weight: 4600
 url: /cpp/system/string/tochararray/
 ---
 ## String::ToCharArray method

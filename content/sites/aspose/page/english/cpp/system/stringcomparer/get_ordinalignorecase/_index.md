@@ -4,7 +4,7 @@ linktitle: get_OrdinalIgnoreCase
 second_title: Aspose.Page for C++
 description: 'System::StringComparer::get_OrdinalIgnoreCase method. Ordinal case-ignoring comparer singleton in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system/stringcomparer/get_ordinalignorecase/
 ---
 ## StringComparer::get_OrdinalIgnoreCase method

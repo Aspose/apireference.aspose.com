@@ -4,7 +4,7 @@ linktitle: get_Capacity
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::get_Capacity method. Returns the number of elements that the collection can contain in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.collections/collectionbase/get_capacity/
 ---
 ## CollectionBase::get_Capacity method

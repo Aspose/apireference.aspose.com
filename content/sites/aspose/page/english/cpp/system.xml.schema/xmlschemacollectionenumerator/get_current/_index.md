@@ -4,7 +4,7 @@ linktitle: get_Current
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCollectionEnumerator::get_Current method. Returns the current XmlSchema in the collection in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemacollectionenumerator/get_current/
 ---
 ## XmlSchemaCollectionEnumerator::get_Current method

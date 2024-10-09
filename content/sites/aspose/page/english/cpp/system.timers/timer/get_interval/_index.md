@@ -4,7 +4,7 @@ linktitle: get_Interval
 second_title: Aspose.Page for C++
 description: 'System::Timers::Timer::get_Interval method. Gets timer interval in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.timers/timer/get_interval/
 ---
 ## Timer::get_Interval method

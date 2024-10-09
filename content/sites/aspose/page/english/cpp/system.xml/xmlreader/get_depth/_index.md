@@ -4,7 +4,7 @@ linktitle: get_Depth
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_Depth method. When overridden in a derived class, gets the depth of the current node in the XML document in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.xml/xmlreader/get_depth/
 ---
 ## XmlReader::get_Depth method

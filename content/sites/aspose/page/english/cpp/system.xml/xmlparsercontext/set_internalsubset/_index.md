@@ -4,7 +4,7 @@ linktitle: set_InternalSubset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::set_InternalSubset method. Sets the internal DTD subset in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system.xml/xmlparsercontext/set_internalsubset/
 ---
 ## XmlParserContext::set_InternalSubset method

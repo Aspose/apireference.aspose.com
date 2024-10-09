@@ -4,7 +4,7 @@ linktitle: ClosePage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::ClosePage method. Makes necessary preparation of the device after page has been rendered in C++.'
 type: docs
-weight: 3800
+weight: 2000
 url: /cpp/aspose.page.eps.device/pdfdevice/closepage/
 ---
 ## PdfDevice::ClosePage method

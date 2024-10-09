@@ -4,7 +4,7 @@ linktitle: get_RefName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttributeGroupRef::get_RefName method. Returns the name of the referenced attributeGroup element in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaattributegroupref/get_refname/
 ---
 ## XmlSchemaAttributeGroupRef::get_RefName method

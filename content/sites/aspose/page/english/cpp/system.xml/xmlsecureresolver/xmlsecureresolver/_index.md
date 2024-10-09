@@ -4,7 +4,7 @@ linktitle: XmlSecureResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlSecureResolver::XmlSecureResolver constructor. Initializes a new instance of the XmlSecureResolver class with the XmlResolver and URL provided in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.xml/xmlsecureresolver/xmlsecureresolver/
 ---
 ## XmlSecureResolver::XmlSecureResolver constructor

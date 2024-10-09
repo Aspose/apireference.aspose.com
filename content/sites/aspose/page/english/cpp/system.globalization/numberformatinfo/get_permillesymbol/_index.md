@@ -4,7 +4,7 @@ linktitle: get_PerMilleSymbol
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_PerMilleSymbol method. Gets permille symbol in C++.'
 type: docs
-weight: 1200
+weight: 2800
 url: /cpp/system.globalization/numberformatinfo/get_permillesymbol/
 ---
 ## NumberFormatInfo::get_PerMilleSymbol method

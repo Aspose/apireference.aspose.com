@@ -4,7 +4,7 @@ linktitle: Transformation
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Encoder::Transformation field. An instance of Encoder class that represents the transformation parameter category in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/system.drawing.imaging/encoder/transformation/
 ---
 ## Transformation field

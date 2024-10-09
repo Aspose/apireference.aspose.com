@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsInt
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsInt method. Reads the current element and returns the contents as a 32-bit signed integer in C++.'
 type: docs
-weight: 4300
+weight: 6000
 url: /cpp/system.xml/xmlreader/readelementcontentasint/
 ---
 ## XmlReader::ReadElementContentAsInt() method

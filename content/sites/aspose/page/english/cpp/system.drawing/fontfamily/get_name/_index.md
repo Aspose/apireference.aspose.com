@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Drawing::FontFamily::get_Name method. Returns the name of the font family represented by the current object in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.drawing/fontfamily/get_name/
 ---
 ## FontFamily::get_Name method

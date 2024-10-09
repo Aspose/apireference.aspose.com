@@ -4,7 +4,7 @@ linktitle: Format
 second_title: Aspose.Page for C++
 description: 'System::String::Format method. Formats string in C# style in C++.'
 type: docs
-weight: 6600
+weight: 6400
 url: /cpp/system/string/format/
 ---
 ## String::Format(const SharedPtr\<IFormatProvider\>\&, const String\&, const Args\&...) method
@@ -32,56 +32,6 @@ template<class...> String System::String::Format(const SharedPtr<IFormatProvider
 * Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::Format(std::nullptr_t, const String\&, const Args\&...) method
-
-
-Formats string in C# style.
-
-```cpp
-template<class...> String System::String::Format(std::nullptr_t, const String &format, const Args &... args)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| Args | Arguments to format string. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | std::nullptr_t | Format string. |
-| args | const String\& | Arguments to format string. |
-
-## See Also
-
-* Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::Format(std::nullptr_t, const char16_t(&), const Args\&...) method
-
-
-Formats string in C# style.
-
-```cpp
-template<std::size_t,class...> String System::String::Format(std::nullptr_t, const char16_t(&format)[N], const Args &... args)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| Args | Arguments to format string. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | std::nullptr_t | Format string. |
-| args | const char16_t(&) | Arguments to format string. |
-
-## See Also
-
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -133,6 +83,56 @@ template<class T> String System::String::Format(const String &format, const Syst
 
 * Class [String](../)
 * Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::Format(std::nullptr_t, const char16_t(&), const Args\&...) method
+
+
+Formats string in C# style.
+
+```cpp
+template<std::size_t,class...> String System::String::Format(std::nullptr_t, const char16_t(&format)[N], const Args &... args)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Args | Arguments to format string. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| format | std::nullptr_t | Format string. |
+| args | const char16_t(&) | Arguments to format string. |
+
+## See Also
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::Format(std::nullptr_t, const String\&, const Args\&...) method
+
+
+Formats string in C# style.
+
+```cpp
+template<class...> String System::String::Format(std::nullptr_t, const String &format, const Args &... args)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Args | Arguments to format string. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| format | std::nullptr_t | Format string. |
+| args | const String\& | Arguments to format string. |
+
+## See Also
+
+* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

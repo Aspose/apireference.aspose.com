@@ -4,7 +4,7 @@ linktitle: operator SizeF
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::operator SizeF method. Constructs an instance of SizeF object and initializes it with width and hegiht values of the current Size object in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.drawing/size/operatorsizef/
 ---
 ## Size::operator SizeF method

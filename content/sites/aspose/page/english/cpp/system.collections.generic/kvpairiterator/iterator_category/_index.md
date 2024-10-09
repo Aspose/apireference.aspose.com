@@ -4,7 +4,7 @@ linktitle: iterator_category
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic::KVPairIterator::iterator_category typedef of System::Collections::Generic::KVPairIterator class in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.collections.generic/kvpairiterator/iterator_category/
 ---
 ## iterator_category typedef

@@ -4,7 +4,7 @@ linktitle: SocketShutdown
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::SocketShutdown enum. Defines constants used by the Socket.Shutdown method in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/system.net.sockets/socketshutdown/
 ---
 ## SocketShutdown enum

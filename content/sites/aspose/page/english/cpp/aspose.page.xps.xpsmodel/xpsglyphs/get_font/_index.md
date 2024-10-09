@@ -4,7 +4,7 @@ linktitle: get_Font
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs::get_Font method. Returns font resource for the TrueType font used to typeset elements text in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/get_font/
 ---
 ## XpsGlyphs::get_Font method

@@ -4,7 +4,7 @@ linktitle: get_PageNumbers
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::get_PageNumbers method. Gets/sets the array of numbers of pages to convert in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/get_pagenumbers/
 ---
 ## ImageSaveOptions::get_PageNumbers method

@@ -4,7 +4,7 @@ linktitle: XmlSchemaGroup
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaGroup::XmlSchemaGroup constructor. Initializes a new instance of the XmlSchemaGroup class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/system.xml.schema/xmlschemagroup/xmlschemagroup/
 ---
 ## XmlSchemaGroup::XmlSchemaGroup constructor

@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseSet::cbegin method. Gets iterator to the first const-qualified element of collection in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.collections.generic/baseset/cbegin/
 ---
 ## BaseSet::cbegin method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::Clone method. Clones format info in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.globalization/datetimeformatinfo/clone/
 ---
 ## DateTimeFormatInfo::Clone method

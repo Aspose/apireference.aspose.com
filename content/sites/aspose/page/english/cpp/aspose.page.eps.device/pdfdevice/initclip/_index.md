@@ -4,7 +4,7 @@ linktitle: InitClip
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::InitClip method. Initializes clip of the device in C++.'
 type: docs
-weight: 4800
+weight: 3900
 url: /cpp/aspose.page.eps.device/pdfdevice/initclip/
 ---
 ## PdfDevice::InitClip method

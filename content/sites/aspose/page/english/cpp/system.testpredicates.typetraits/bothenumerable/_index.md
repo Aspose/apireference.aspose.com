@@ -4,7 +4,7 @@ linktitle: BothEnumerable
 second_title: Aspose.Page for C++
 description: 'System::TestPredicates::TypeTraits::BothEnumerable typedef. Checks if both type arguments are IEnumerable. If so, value member is set to true, otherwise it is set to false in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.testpredicates.typetraits/bothenumerable/
 ---
 ## BothEnumerable typedef

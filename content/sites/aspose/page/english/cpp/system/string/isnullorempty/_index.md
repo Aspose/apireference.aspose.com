@@ -4,7 +4,7 @@ linktitle: IsNullOrEmpty
 second_title: Aspose.Page for C++
 description: 'System::String::IsNullOrEmpty method. Checks if string is empty or is considered null in C++.'
 type: docs
-weight: 800
+weight: 2200
 url: /cpp/system/string/isnullorempty/
 ---
 ## String::IsNullOrEmpty() const method

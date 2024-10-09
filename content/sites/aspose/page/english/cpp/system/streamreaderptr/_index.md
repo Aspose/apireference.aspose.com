@@ -4,7 +4,7 @@ linktitle: StreamReaderPtr
 second_title: Aspose.Page for C++
 description: 'System::StreamReaderPtr typedef. An alias for a smart pointer that points to an instance of System::IO::StreamReader class in C++.'
 type: docs
-weight: 10400
+weight: 12200
 url: /cpp/system/streamreaderptr/
 ---
 ## StreamReaderPtr typedef

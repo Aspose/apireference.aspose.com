@@ -4,7 +4,7 @@ linktitle: IsXmlChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::IsXmlChar method. Checks if the passed-in character is a valid XML character in C++.'
 type: docs
-weight: 1400
+weight: 900
 url: /cpp/system.xml/xmlconvert/isxmlchar/
 ---
 ## XmlConvert::IsXmlChar method

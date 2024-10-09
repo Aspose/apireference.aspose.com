@@ -4,7 +4,7 @@ linktitle: GetParsedValues
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::GetParsedValues method. Returns parsed values by the specified header name in C++.'
 type: docs
-weight: 2000
+weight: 1000
 url: /cpp/system.net.http.headers/httpheaders/getparsedvalues/
 ---
 ## HttpHeaders::GetParsedValues method

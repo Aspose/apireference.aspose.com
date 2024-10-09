@@ -4,7 +4,7 @@ linktitle: FromHwndInternal
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FromHwndInternal method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.drawing/graphics/fromhwndinternal/
 ---
 ## Graphics::FromHwndInternal method

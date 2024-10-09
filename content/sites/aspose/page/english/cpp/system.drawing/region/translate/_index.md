@@ -4,29 +4,9 @@ linktitle: Translate
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Translate method. Moves the coordinates of the region by the specified amount in C++.'
 type: docs
-weight: 900
+weight: 1800
 url: /cpp/system.drawing/region/translate/
 ---
-## Region::Translate(int, int) method
-
-
-Moves the coordinates of the region by the specified amount.
-
-```cpp
-void System::Drawing::Region::Translate(int dx, int dy)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| dx | int | Specifies the amount to move the region by horizontally |
-| dy | int | Specifies the amount to move the region by vertically |
-
-## See Also
-
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Translate(float, float) method
 
 
@@ -41,6 +21,26 @@ void System::Drawing::Region::Translate(float dx, float dy)
 | --- | --- | --- |
 | dx | float | Specifies the amount to move the region by horizontally |
 | dy | float | Specifies the amount to move the region by vertically |
+
+## See Also
+
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Translate(int, int) method
+
+
+Moves the coordinates of the region by the specified amount.
+
+```cpp
+void System::Drawing::Region::Translate(int dx, int dy)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| dx | int | Specifies the amount to move the region by horizontally |
+| dy | int | Specifies the amount to move the region by vertically |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: CheckForCookies
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::HttpWebClientProtocol::CheckForCookies method. Appends cookies from the specified request to the internal cookie container in C++.'
 type: docs
-weight: 1400
+weight: 100
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/checkforcookies/
 ---
 ## HttpWebClientProtocol::CheckForCookies method

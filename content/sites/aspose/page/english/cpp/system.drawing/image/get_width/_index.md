@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_Width method. Returns the width of the image in pixels in C++.'
 type: docs
-weight: 700
+weight: 1500
 url: /cpp/system.drawing/image/get_width/
 ---
 ## Image::get_Width method

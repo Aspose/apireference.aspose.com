@@ -7,6 +7,31 @@ type: docs
 weight: 1000
 url: /cpp/system.globalization/taiwanlunisolarcalendar/isleapday/
 ---
+## TaiwanLunisolarCalendar::IsLeapDay(int, int, int) const method
+
+
+Checks if the day is leap.
+
+```cpp
+virtual bool System::Globalization::Calendar::IsLeapDay(int year, int month, int day) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year. |
+| month | int | Month. |
+| day | int | Day. |
+
+### ReturnValue
+
+True if specified date is leap, false otherwise.
+
+## See Also
+
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TaiwanLunisolarCalendar::IsLeapDay(int, int, int, int) const method
 
 
@@ -23,31 +48,6 @@ bool System::Globalization::TaiwanLunisolarCalendar::IsLeapDay(int year, int mon
 | month | int | Month. |
 | day | int | Day. |
 | era | int | Era. |
-
-### ReturnValue
-
-True if specified date is leap, false otherwise.
-
-## See Also
-
-* Class [TaiwanLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## TaiwanLunisolarCalendar::IsLeapDay(int, int, int) const method
-
-
-Checks if the day is leap.
-
-```cpp
-virtual bool System::Globalization::Calendar::IsLeapDay(int year, int month, int day) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year. |
-| month | int | Month. |
-| day | int | Day. |
 
 ### ReturnValue
 

@@ -4,7 +4,7 @@ linktitle: PRC16K
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::PRC16K field. PRC16K in C++.'
 type: docs
-weight: 12800
+weight: 14300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/prc16k/
 ---
 ## PRC16K field

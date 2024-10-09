@@ -4,7 +4,7 @@ linktitle: set_MonthNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_MonthNames method. Sets month names in C++.'
 type: docs
-weight: 4200
+weight: 5600
 url: /cpp/system.globalization/datetimeformatinfo/set_monthnames/
 ---
 ## DateTimeFormatInfo::set_MonthNames method

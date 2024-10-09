@@ -4,7 +4,7 @@ linktitle: get_QualifiedName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaIdentityConstraint::get_QualifiedName method. Returns the qualified name of the identity constraint, which holds the post-compilation interpretation of the QualifiedName value in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/get_qualifiedname/
 ---
 ## XmlSchemaIdentityConstraint::get_QualifiedName method

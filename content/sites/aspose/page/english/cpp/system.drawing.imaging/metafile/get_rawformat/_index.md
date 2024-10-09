@@ -4,7 +4,7 @@ linktitle: get_RawFormat
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Metafile::get_RawFormat method. Returns a value the indicates the image format in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.drawing.imaging/metafile/get_rawformat/
 ---
 ## Metafile::get_RawFormat method

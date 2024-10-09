@@ -4,7 +4,7 @@ linktitle: MoveToElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::MoveToElement method. Moves to the element that contains the current attribute node in C++.'
 type: docs
-weight: 4300
+weight: 3900
 url: /cpp/system.xml/xmltextreader/movetoelement/
 ---
 ## XmlTextReader::MoveToElement method

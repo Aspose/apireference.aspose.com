@@ -4,7 +4,7 @@ linktitle: get_Length
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::get_Length method. Returns the length of the data, in characters in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.xml/xmlcharacterdata/get_length/
 ---
 ## XmlCharacterData::get_Length method

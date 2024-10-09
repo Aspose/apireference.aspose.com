@@ -4,7 +4,7 @@ linktitle: MoveToChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToChild method. Moves the XPathNavigator to the child node with the local name and namespace URI specified in C++.'
 type: docs
-weight: 5400
+weight: 5200
 url: /cpp/system.xml.xpath/xpathnavigator/movetochild/
 ---
 ## XPathNavigator::MoveToChild(String, String) method

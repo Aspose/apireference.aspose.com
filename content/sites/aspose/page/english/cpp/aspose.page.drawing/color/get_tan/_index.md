@@ -4,7 +4,7 @@ linktitle: get_Tan
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Tan method. Gets a system-defined color that has an ARGB value of #FFD2B48C in C++.'
 type: docs
-weight: 13100
+weight: 13200
 url: /cpp/aspose.page.drawing/color/get_tan/
 ---
 ## Color::get_Tan method

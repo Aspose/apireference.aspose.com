@@ -4,7 +4,7 @@ linktitle: get_Content
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleType::get_Content method. Returns one of XmlSchemaSimpleTypeUnion, XmlSchemaSimpleTypeList, or XmlSchemaSimpleTypeRestriction in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemasimpletype/get_content/
 ---
 ## XmlSchemaSimpleType::get_Content method

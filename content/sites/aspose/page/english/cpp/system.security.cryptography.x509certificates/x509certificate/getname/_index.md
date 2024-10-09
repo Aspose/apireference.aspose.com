@@ -4,7 +4,7 @@ linktitle: GetName
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::GetName method. Gets name of the principal to witch the current sertificate was issued in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getname/
 ---
 ## X509Certificate::GetName method

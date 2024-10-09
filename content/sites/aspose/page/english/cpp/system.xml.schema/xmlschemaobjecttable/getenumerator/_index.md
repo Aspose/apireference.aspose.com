@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectTable::GetEnumerator method. Returns an enumerator that can iterate through the XmlSchemaObjectTable in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaobjecttable/getenumerator/
 ---
 ## XmlSchemaObjectTable::GetEnumerator method

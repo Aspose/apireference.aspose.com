@@ -4,7 +4,7 @@ linktitle: SetMaxThreads
 second_title: Aspose.Page for C++
 description: 'System::Threading::ThreadPoolImpl::SetMaxThreads method. Sets number of threads owned by pool in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/system.threading/threadpoolimpl/setmaxthreads/
 ---
 ## ThreadPoolImpl::SetMaxThreads method

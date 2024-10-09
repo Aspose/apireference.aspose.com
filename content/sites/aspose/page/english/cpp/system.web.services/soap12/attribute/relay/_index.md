@@ -4,7 +4,7 @@ linktitle: Relay
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Attribute::Relay field. The string representation of the ''relay'' attribute name in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.web.services/soap12/attribute/relay/
 ---
 ## Relay field

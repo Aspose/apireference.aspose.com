@@ -4,7 +4,7 @@ linktitle: set_CurrencyGroupSizes
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_CurrencyGroupSizes method. Sets number of currency decimal digits per group in C++.'
 type: docs
-weight: 2700
+weight: 3600
 url: /cpp/system.globalization/numberformatinfo/set_currencygroupsizes/
 ---
 ## NumberFormatInfo::set_CurrencyGroupSizes method

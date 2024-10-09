@@ -4,7 +4,7 @@ linktitle: HtmlDecode
 second_title: Aspose.Page for C++
 description: 'System::Web::HttpUtility::HtmlDecode method. Decodes Html fragment in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.web/httputility/htmldecode/
 ---
 ## HttpUtility::HtmlDecode(const String\&) method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Clone method. Returns a copy of the current object in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.drawing/region/clone/
 ---
 ## Region::Clone method

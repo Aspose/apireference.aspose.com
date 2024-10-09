@@ -4,7 +4,7 @@ linktitle: set_InterpolationColors
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::set_InterpolationColors method. Sets a ColorBlend object that defines a multicolor linear gradient in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_interpolationcolors/
 ---
 ## LinearGradientBrush::set_InterpolationColors method

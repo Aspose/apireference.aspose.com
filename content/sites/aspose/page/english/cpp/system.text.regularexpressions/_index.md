@@ -4,7 +4,7 @@ linktitle: System::Text::RegularExpressions
 second_title: Aspose.Page for C++
 description: 'How to use System::Text::RegularExpressions namespace in C++.'
 type: docs
-weight: 6400
+weight: 6500
 url: /cpp/system.text.regularexpressions/
 ---
 
@@ -31,11 +31,11 @@ url: /cpp/system.text.regularexpressions/
 
 | Typedef | Description |
 | --- | --- |
-| [UStringPtr](./ustringptr/) | Shared UnicodeString to avoid copying. |
-| [CapturePtr](./captureptr/) | Pointer to single capture object. |
 | [CaptureCollectionPtr](./capturecollectionptr/) | Pointer to capture collection. |
+| [CapturePtr](./captureptr/) | Pointer to single capture object. |
 | [GroupPtr](./groupptr/) | Pointer to group. |
-| [RegexPtr](./regexptr/) | [Regex](./regex/) pointer. |
-| [MatchPtr](./matchptr/) | [Match](./match/) pointer. |
 | [MatchCollectionPtr](./matchcollectionptr/) | [Match](./match/) collection pointer. |
 | [MatchEvaluator](./matchevaluator/) | Delegate type to evaluate match. |
+| [MatchPtr](./matchptr/) | [Match](./match/) pointer. |
+| [RegexPtr](./regexptr/) | [Regex](./regex/) pointer. |
+| [UStringPtr](./ustringptr/) | Shared UnicodeString to avoid copying. |

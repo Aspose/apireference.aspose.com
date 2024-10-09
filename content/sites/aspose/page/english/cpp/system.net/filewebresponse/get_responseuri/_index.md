@@ -4,7 +4,7 @@ linktitle: get_ResponseUri
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebResponse::get_ResponseUri method. Returns the resource''s URI in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.net/filewebresponse/get_responseuri/
 ---
 ## FileWebResponse::get_ResponseUri method

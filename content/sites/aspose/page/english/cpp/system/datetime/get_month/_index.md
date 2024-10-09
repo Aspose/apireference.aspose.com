@@ -4,7 +4,7 @@ linktitle: get_Month
 second_title: Aspose.Page for C++
 description: 'System::DateTime::get_Month method. Returns the ordinal number of the month in the year represented by the current object in C++.'
 type: docs
-weight: 900
+weight: 2100
 url: /cpp/system/datetime/get_month/
 ---
 ## DateTime::get_Month method

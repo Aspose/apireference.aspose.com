@@ -4,7 +4,7 @@ linktitle: Plain
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::Plain field. Specifies standard paper media in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/plain/
 ---
 ## Plain field

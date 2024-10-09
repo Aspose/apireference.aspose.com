@@ -4,7 +4,7 @@ linktitle: get_SchemaAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::get_SchemaAttribute method. Returns the compiled XmlSchemaAttribute object that corresponds to this validated XML node in C++.'
 type: docs
-weight: 1300
+weight: 600
 url: /cpp/system.xml.schema/xmlschemainfo/get_schemaattribute/
 ---
 ## XmlSchemaInfo::get_SchemaAttribute method

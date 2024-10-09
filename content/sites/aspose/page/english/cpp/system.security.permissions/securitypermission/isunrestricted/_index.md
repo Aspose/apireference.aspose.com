@@ -4,7 +4,7 @@ linktitle: IsUnrestricted
 second_title: Aspose.Page for C++
 description: 'System::Security::Permissions::SecurityPermission::IsUnrestricted method. Checks if permission is unrestricted in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.security.permissions/securitypermission/isunrestricted/
 ---
 ## SecurityPermission::IsUnrestricted method

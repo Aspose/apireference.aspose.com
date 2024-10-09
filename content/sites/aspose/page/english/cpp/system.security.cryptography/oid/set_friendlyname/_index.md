@@ -4,7 +4,7 @@ linktitle: set_FriendlyName
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::Oid::set_FriendlyName method. Sets user-friendly name of object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.security.cryptography/oid/set_friendlyname/
 ---
 ## Oid::set_FriendlyName method

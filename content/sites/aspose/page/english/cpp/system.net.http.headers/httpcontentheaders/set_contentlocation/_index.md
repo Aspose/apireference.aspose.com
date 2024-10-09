@@ -4,7 +4,7 @@ linktitle: set_ContentLocation
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::set_ContentLocation method. Sets a value of the ''Content-Location'' header in C++.'
 type: docs
-weight: 900
+weight: 1500
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentlocation/
 ---
 ## HttpContentHeaders::set_ContentLocation method

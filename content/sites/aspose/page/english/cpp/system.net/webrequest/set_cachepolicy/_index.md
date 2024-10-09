@@ -4,7 +4,7 @@ linktitle: set_CachePolicy
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::set_CachePolicy method. Sets the cache policy in C++.'
 type: docs
-weight: 3000
+weight: 2800
 url: /cpp/system.net/webrequest/set_cachepolicy/
 ---
 ## WebRequest::set_CachePolicy method

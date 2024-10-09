@@ -4,7 +4,7 @@ linktitle: Abort
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::Abort method. Cancels the request in C++.'
 type: docs
-weight: 1700
+weight: 100
 url: /cpp/system.web.services.protocols/webclientprotocol/abort/
 ---
 ## WebClientProtocol::Abort method

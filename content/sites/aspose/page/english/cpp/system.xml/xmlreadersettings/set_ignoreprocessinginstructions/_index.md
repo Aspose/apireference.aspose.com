@@ -4,7 +4,7 @@ linktitle: set_IgnoreProcessingInstructions
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_IgnoreProcessingInstructions method. Sets a value indicating whether to ignore processing instructions in C++.'
 type: docs
-weight: 1900
+weight: 2600
 url: /cpp/system.xml/xmlreadersettings/set_ignoreprocessinginstructions/
 ---
 ## XmlReaderSettings::set_IgnoreProcessingInstructions method

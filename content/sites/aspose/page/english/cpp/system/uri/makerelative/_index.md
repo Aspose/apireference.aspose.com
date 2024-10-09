@@ -4,7 +4,7 @@ linktitle: MakeRelative
 second_title: Aspose.Page for C++
 description: 'System::Uri::MakeRelative method. Determines the difference between two Uri instances in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/system/uri/makerelative/
 ---
 ## Uri::MakeRelative method

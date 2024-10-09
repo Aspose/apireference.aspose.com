@@ -4,7 +4,7 @@ linktitle: CloneIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ValueIterator::CloneIterator method. Clones current iterator in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.collections.generic/valueiterator/cloneiterator/
 ---
 ## ValueIterator::CloneIterator method

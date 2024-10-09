@@ -4,7 +4,7 @@ linktitle: get_Action
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeChangedEventArgs::get_Action method. Returns a value indicating what type of node change event is occurring in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml/xmlnodechangedeventargs/get_action/
 ---
 ## XmlNodeChangedEventArgs::get_Action method

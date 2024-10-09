@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::IO::FileStream::Close method. Closes the current FileStream object in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/system.io/filestream/close/
 ---
 ## FileStream::Close method

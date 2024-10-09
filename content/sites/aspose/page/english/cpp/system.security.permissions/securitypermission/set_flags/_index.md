@@ -4,7 +4,7 @@ linktitle: set_Flags
 second_title: Aspose.Page for C++
 description: 'System::Security::Permissions::SecurityPermission::set_Flags method. Sets flags associated with permission in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.security.permissions/securitypermission/set_flags/
 ---
 ## SecurityPermission::set_Flags method

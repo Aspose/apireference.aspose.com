@@ -4,7 +4,7 @@ linktitle: get_RFC1123Pattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_RFC1123Pattern method. Gets RFC1123 pattern in C++.'
 type: docs
-weight: 4300
+weight: 2100
 url: /cpp/system.globalization/datetimeformatinfo/get_rfc1123pattern/
 ---
 ## DateTimeFormatInfo::get_RFC1123Pattern method

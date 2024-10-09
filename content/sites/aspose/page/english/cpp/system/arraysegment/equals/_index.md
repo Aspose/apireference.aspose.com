@@ -4,9 +4,24 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'How to use Equals method of System::ArraySegment class in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system/arraysegment/equals/
 ---
+## ArraySegment::Equals(ArraySegment\<T\>) method
+
+
+
+
+```cpp
+bool System::ArraySegment<T>::Equals(ArraySegment<T> obj)
+```
+
+## See Also
+
+* Class [ArraySegment](../)
+* Class [ArraySegment](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ArraySegment::Equals(System::SharedPtr\<Object\>) method
 
 
@@ -20,21 +35,6 @@ virtual bool System::ArraySegment<T>::Equals(System::SharedPtr<Object> obj) over
 
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Object](../../object/)
-* Class [ArraySegment](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ArraySegment::Equals(ArraySegment\<T\>) method
-
-
-
-
-```cpp
-bool System::ArraySegment<T>::Equals(ArraySegment<T> obj)
-```
-
-## See Also
-
-* Class [ArraySegment](../)
 * Class [ArraySegment](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

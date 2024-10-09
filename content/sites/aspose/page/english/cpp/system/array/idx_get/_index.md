@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Array::idx_get method. Returns the item at the specified index in C++.'
 type: docs
-weight: 1400
+weight: 2700
 url: /cpp/system/array/idx_get/
 ---
 ## Array::idx_get method

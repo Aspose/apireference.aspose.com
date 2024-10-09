@@ -4,7 +4,7 @@ linktitle: AddSubjectName
 second_title: Aspose.Page for C++
 description: 'How to use AddSubjectName method of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.security.cryptography.xml/keyinfox509data/addsubjectname/
 ---
 ## KeyInfoX509Data::AddSubjectName method

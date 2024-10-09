@@ -4,7 +4,7 @@ linktitle: set_FixedValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::set_FixedValue method. Sets the fixed value for the attribute in C++.'
 type: docs
-weight: 400
+weight: 1400
 url: /cpp/system.xml.schema/xmlschemaattribute/set_fixedvalue/
 ---
 ## XmlSchemaAttribute::set_FixedValue method

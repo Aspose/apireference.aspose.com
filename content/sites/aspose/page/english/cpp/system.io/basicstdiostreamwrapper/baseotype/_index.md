@@ -4,7 +4,7 @@ linktitle: BaseOType
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSTDIOStreamWrapper::BaseOType typedef of System::IO::BasicSTDIOStreamWrapper class in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/system.io/basicstdiostreamwrapper/baseotype/
 ---
 ## BaseOType typedef

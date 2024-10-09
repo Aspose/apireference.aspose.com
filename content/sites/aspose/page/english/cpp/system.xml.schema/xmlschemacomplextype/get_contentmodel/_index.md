@@ -4,7 +4,7 @@ linktitle: get_ContentModel
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::get_ContentModel method. Returns the post-compilation XmlSchemaContentModel of this complex type in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_contentmodel/
 ---
 ## XmlSchemaComplexType::get_ContentModel method

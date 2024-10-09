@@ -4,7 +4,7 @@ linktitle: ReadByte
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadByte method. Reads a single byte from the input stream in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.io/binaryreader/readbyte/
 ---
 ## BinaryReader::ReadByte method

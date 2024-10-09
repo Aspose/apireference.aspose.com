@@ -4,7 +4,7 @@ linktitle: WriteBase64
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteBase64 method. When overridden in a derived class, encodes the specified binary bytes as Base64 and writes out the resulting text in C++.'
 type: docs
-weight: 2400
+weight: 1100
 url: /cpp/system.xml/xmlwriter/writebase64/
 ---
 ## XmlWriter::WriteBase64 method

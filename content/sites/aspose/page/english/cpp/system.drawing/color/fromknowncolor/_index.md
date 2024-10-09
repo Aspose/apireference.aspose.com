@@ -4,7 +4,7 @@ linktitle: FromKnownColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::FromKnownColor method. Constructs an instance of Color class that represents the specified known color in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/system.drawing/color/fromknowncolor/
 ---
 ## Color::FromKnownColor method

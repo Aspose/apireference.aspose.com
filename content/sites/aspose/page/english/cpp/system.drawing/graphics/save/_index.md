@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::Save method. Saves the current state of this object and returns the saved state in C++.'
 type: docs
-weight: 7100
+weight: 7200
 url: /cpp/system.drawing/graphics/save/
 ---
 ## Graphics::Save method

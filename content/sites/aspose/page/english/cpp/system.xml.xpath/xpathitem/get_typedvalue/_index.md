@@ -4,7 +4,7 @@ linktitle: get_TypedValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_TypedValue method. When overridden in a derived class, gets the current item as a boxed object of the most appropriate type according to its schema type in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.xml.xpath/xpathitem/get_typedvalue/
 ---
 ## XPathItem::get_TypedValue method

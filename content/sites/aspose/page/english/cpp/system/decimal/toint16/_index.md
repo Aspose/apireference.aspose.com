@@ -4,7 +4,7 @@ linktitle: ToInt16
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToInt16 method. Converts the Decimal value to signed 16-bit integer value in C++.'
 type: docs
-weight: 5300
+weight: 4800
 url: /cpp/system/decimal/toint16/
 ---
 ## Decimal::ToInt16 method

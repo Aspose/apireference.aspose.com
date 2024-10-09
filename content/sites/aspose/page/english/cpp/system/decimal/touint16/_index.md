@@ -4,7 +4,7 @@ linktitle: ToUInt16
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToUInt16 method. Converts the Decimal value to unsigned 16-bit integer value in C++.'
 type: docs
-weight: 5200
+weight: 5400
 url: /cpp/system/decimal/touint16/
 ---
 ## Decimal::ToUInt16 method

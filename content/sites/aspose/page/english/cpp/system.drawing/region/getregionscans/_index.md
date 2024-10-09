@@ -4,7 +4,7 @@ linktitle: GetRegionScans
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::GetRegionScans method. Returns an array of RectangleF structures that approximate this Region after the specified matrix transformation is applied in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.drawing/region/getregionscans/
 ---
 ## Region::GetRegionScans method

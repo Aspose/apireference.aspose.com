@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::Write method. Writes data to stream in C++.'
 type: docs
-weight: 300
+weight: 1400
 url: /cpp/system.security.cryptography/cryptostream/write/
 ---
 ## CryptoStream::Write(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

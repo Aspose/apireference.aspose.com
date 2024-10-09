@@ -21,25 +21,6 @@ System::Collections::Specialized::BitVector32::BitVector32()
 * Class [BitVector32](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.Page for C++](../../../)
-## BitVector32::BitVector32(int32_t) constructor
-
-
-Initializes a new instance of the [BitVector32](../) structure with the specified internal data.
-
-```cpp
-System::Collections::Specialized::BitVector32::BitVector32(int32_t data)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| data | int32_t | internal data |
-
-## See Also
-
-* Class [BitVector32](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Page for C++](../../../)
 ## BitVector32::BitVector32(const BitVector32\&) constructor
 
 
@@ -57,6 +38,25 @@ System::Collections::Specialized::BitVector32::BitVector32(const BitVector32 &va
 ## See Also
 
 * Class [BitVector32](../)
+* Class [BitVector32](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Page for C++](../../../)
+## BitVector32::BitVector32(int32_t) constructor
+
+
+Initializes a new instance of the [BitVector32](../) structure with the specified internal data.
+
+```cpp
+System::Collections::Specialized::BitVector32::BitVector32(int32_t data)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | int32_t | internal data |
+
+## See Also
+
 * Class [BitVector32](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.Page for C++](../../../)

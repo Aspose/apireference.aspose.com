@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'How to use operator== method of  class in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.page.eps.xmp/operator==/
 ---
 ## Aspose::Page::EPS::XMP::operator== method

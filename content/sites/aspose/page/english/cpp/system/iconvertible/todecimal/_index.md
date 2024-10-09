@@ -4,7 +4,7 @@ linktitle: ToDecimal
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToDecimal method. Converts the value of this instance to an equivalent System::Decimal number using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 1400
+weight: 600
 url: /cpp/system/iconvertible/todecimal/
 ---
 ## IConvertible::ToDecimal method

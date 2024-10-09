@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.Page for C++
 description: 'System::IO::FileStream::Flush method. Clears this stream''s buffers and writes all buffered data to the underlying file in C++.'
 type: docs
-weight: 1200
+weight: 400
 url: /cpp/system.io/filestream/flush/
 ---
 ## FileStream::Flush() method

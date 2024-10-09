@@ -4,7 +4,7 @@ linktitle: set_Variant
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Variant method. Sets the cookie''s specification in C++.'
 type: docs
-weight: 3100
+weight: 3800
 url: /cpp/system.net/cookie/set_variant/
 ---
 ## Cookie::set_Variant method

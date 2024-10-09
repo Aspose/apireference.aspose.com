@@ -4,7 +4,7 @@ linktitle: get_Gainsboro
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Gainsboro method. Gets a system-defined color that has an ARGB value of #FFDCDCDC in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/aspose.page.drawing/color/get_gainsboro/
 ---
 ## Color::get_Gainsboro method

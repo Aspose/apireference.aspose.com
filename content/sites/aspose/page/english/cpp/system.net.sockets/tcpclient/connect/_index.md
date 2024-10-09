@@ -4,7 +4,7 @@ linktitle: Connect
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::Connect method. Establishes a connection to the specified remote host in C++.'
 type: docs
-weight: 2000
+weight: 500
 url: /cpp/system.net.sockets/tcpclient/connect/
 ---
 ## TcpClient::Connect(String, int32_t) method
@@ -25,6 +25,29 @@ void System::Net::Sockets::TcpClient::Connect(String hostname, int32_t port)
 ## See Also
 
 * Class [String](../../../system/string/)
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## TcpClient::Connect(System::ArrayPtr\<System::SharedPtr\<IPAddress\>\>, int32_t) method
+
+
+Establishes a connection to the specified remote host.
+
+```cpp
+void System::Net::Sockets::TcpClient::Connect(System::ArrayPtr<System::SharedPtr<IPAddress>> ipAddresses, int32_t port)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ipAddresses | System::ArrayPtr\<System::SharedPtr\<IPAddress\>\> | The IP addresses of a remote host. |
+| port | int32_t | A port of the remote host to connect. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../../../system.net/ipaddress/)
 * Class [TcpClient](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -68,29 +91,6 @@ void System::Net::Sockets::TcpClient::Connect(System::SharedPtr<IPEndPoint> remo
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IPEndPoint](../../../system.net/ipendpoint/)
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## TcpClient::Connect(System::ArrayPtr\<System::SharedPtr\<IPAddress\>\>, int32_t) method
-
-
-Establishes a connection to the specified remote host.
-
-```cpp
-void System::Net::Sockets::TcpClient::Connect(System::ArrayPtr<System::SharedPtr<IPAddress>> ipAddresses, int32_t port)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| ipAddresses | System::ArrayPtr\<System::SharedPtr\<IPAddress\>\> | The IP addresses of a remote host. |
-| port | int32_t | A port of the remote host to connect. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPAddress](../../../system.net/ipaddress/)
 * Class [TcpClient](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)

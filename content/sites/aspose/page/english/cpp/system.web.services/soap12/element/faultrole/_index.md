@@ -4,7 +4,7 @@ linktitle: FaultRole
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Element::FaultRole field. The string representation of the ''Role'' element name in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.web.services/soap12/element/faultrole/
 ---
 ## FaultRole field

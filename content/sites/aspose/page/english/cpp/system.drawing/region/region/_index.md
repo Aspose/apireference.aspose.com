@@ -21,26 +21,6 @@ System::Drawing::Region::Region()
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## Region::Region(const RectangleF\&) constructor
-
-
-Constructs a new instance of [Region](../) class that represents a region defined by the specified rectangle.
-
-```cpp
-System::Drawing::Region::Region(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | A rectangle that defines the region |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Region(const Rectangle\&) constructor
 
 
@@ -58,6 +38,26 @@ System::Drawing::Region::Region(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Region(const RectangleF\&) constructor
+
+
+Constructs a new instance of [Region](../) class that represents a region defined by the specified rectangle.
+
+```cpp
+System::Drawing::Region::Region(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | A rectangle that defines the region |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -82,20 +82,6 @@ System::Drawing::Region::Region(const SharedPtr<Drawing2D::GraphicsPath> &path)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## Region::Region(const SkPath\&) constructor
-
-
-
-
-```cpp
-System::Drawing::Region::Region(const SkPath &path)
-```
-
-## See Also
-
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Region(const SharedPtr\<Drawing2D::RegionData\>\&) constructor
 
 
@@ -114,6 +100,20 @@ System::Drawing::Region::Region(const SharedPtr<Drawing2D::RegionData> &region_d
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RegionData](../../../system.drawing.drawing2d/regiondata/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Region(const SkPath\&) constructor
+
+
+
+
+```cpp
+System::Drawing::Region::Region(const SkPath &path)
+```
+
+## See Also
+
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: IsList
 second_title: Aspose.Page for C++
 description: 'System::TestPredicates::TypeTraits::IsList typedef. Checks if type is a System::Collections::Generic::List specialization. If so, value member is set to true, otherwise it is set to false in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.testpredicates.typetraits/islist/
 ---
 ## IsList typedef

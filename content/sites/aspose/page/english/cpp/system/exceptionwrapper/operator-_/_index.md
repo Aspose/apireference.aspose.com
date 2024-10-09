@@ -4,7 +4,7 @@ linktitle: operator->
 second_title: Aspose.Page for C++
 description: 'System::ExceptionWrapper::operator-> method. Allows to access members of the Exception object in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system/exceptionwrapper/operator-_/
 ---
 ## ExceptionWrapper::operator-> method

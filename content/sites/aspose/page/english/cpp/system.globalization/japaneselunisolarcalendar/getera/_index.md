@@ -4,7 +4,7 @@ linktitle: GetEra
 second_title: Aspose.Page for C++
 description: 'System::Globalization::JapaneseLunisolarCalendar::GetEra method. Gets era for the specified time point in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.globalization/japaneselunisolarcalendar/getera/
 ---
 ## JapaneseLunisolarCalendar::GetEra method

@@ -4,7 +4,7 @@ linktitle: CreateTextNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateTextNode method. Creates an XmlText with the specified text in C++.'
 type: docs
-weight: 3100
+weight: 1400
 url: /cpp/system.xml/xmldocument/createtextnode/
 ---
 ## XmlDocument::CreateTextNode method

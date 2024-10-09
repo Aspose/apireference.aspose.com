@@ -4,7 +4,7 @@ linktitle: MultiplyTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::MultiplyTransform method. Multiplies the world transformation matrix of the current Graphics object by the specified matrix in C++.'
 type: docs
-weight: 6800
+weight: 6600
 url: /cpp/system.drawing/graphics/multiplytransform/
 ---
 ## Graphics::MultiplyTransform method

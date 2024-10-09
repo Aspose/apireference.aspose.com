@@ -4,7 +4,7 @@ linktitle: get_Target
 second_title: Aspose.Page for C++
 description: 'System::WeakReference<>::get_Target method. Gets the object (the target) referenced by the current WeakReference object in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system/weakreference__/get_target/
 ---
 ## WeakReference<>::get_Target method

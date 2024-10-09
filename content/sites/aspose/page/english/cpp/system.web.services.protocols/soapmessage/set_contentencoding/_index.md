@@ -4,7 +4,7 @@ linktitle: set_ContentEncoding
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::set_ContentEncoding method. Sets a value of the ''Content-Encoding'' header in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/system.web.services.protocols/soapmessage/set_contentencoding/
 ---
 ## SoapMessage::set_ContentEncoding method

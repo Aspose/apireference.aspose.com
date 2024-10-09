@@ -4,7 +4,7 @@ linktitle: get_TransformChain
 second_title: Aspose.Page for C++
 description: 'How to use get_TransformChain method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/system.security.cryptography.xml/reference/get_transformchain/
 ---
 ## Reference::get_TransformChain method

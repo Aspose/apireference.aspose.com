@@ -4,7 +4,7 @@ linktitle: get_ClipBounds
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_ClipBounds method. Returns a rectangle that bounds the clipping area of the surface represented by the current object in C++.'
 type: docs
-weight: 1800
+weight: 4200
 url: /cpp/system.drawing/graphics/get_clipbounds/
 ---
 ## Graphics::get_ClipBounds method

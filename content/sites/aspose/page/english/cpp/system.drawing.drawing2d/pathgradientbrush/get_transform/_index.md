@@ -4,7 +4,7 @@ linktitle: get_Transform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::get_Transform method. Returns a copy of a Matrix object that specifies the geometrical transformations for the brush represented by the current object in C++.'
 type: docs
-weight: 1500
+weight: 1000
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_transform/
 ---
 ## PathGradientBrush::get_Transform method

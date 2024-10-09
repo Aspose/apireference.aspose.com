@@ -4,7 +4,7 @@ linktitle: JapanChou4Envelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JapanChou4Envelope field. Japan Chou4 envelope in C++.'
 type: docs
-weight: 7400
+weight: 6100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/japanchou4envelope/
 ---
 ## JapanChou4Envelope field

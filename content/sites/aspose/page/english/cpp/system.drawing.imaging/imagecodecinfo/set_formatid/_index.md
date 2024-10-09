@@ -4,7 +4,7 @@ linktitle: set_FormatID
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageCodecInfo::set_FormatID method. Sets a GUID associated with the format of the codec represented by the current object in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.drawing.imaging/imagecodecinfo/set_formatid/
 ---
 ## ImageCodecInfo::set_FormatID method

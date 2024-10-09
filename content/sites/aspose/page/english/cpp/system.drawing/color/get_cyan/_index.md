@@ -4,7 +4,7 @@ linktitle: get_Cyan
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Cyan method. Returns a color whose ARGB value in hexadecimal notation is #FF00FFFF in C++.'
 type: docs
-weight: 4300
+weight: 4200
 url: /cpp/system.drawing/color/get_cyan/
 ---
 ## Color::get_Cyan method

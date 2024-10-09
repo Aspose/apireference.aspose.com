@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::Insert method. Inserts item at specified position in C++.'
 type: docs
-weight: 1900
+weight: 3200
 url: /cpp/system.collections.generic/list/insert/
 ---
 ## List::Insert method

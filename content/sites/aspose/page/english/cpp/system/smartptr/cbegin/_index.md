@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::cbegin method. Accessor for cbegin() method of an underling collection. Only compiles if SmartPtr_ is specialization type with cbegin() method in C++.'
 type: docs
-weight: 3300
+weight: 500
 url: /cpp/system/smartptr/cbegin/
 ---
 ## SmartPtr::cbegin method

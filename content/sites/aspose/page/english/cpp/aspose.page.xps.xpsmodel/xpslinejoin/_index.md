@@ -4,7 +4,7 @@ linktitle: XpsLineJoin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsLineJoin enum. Valid values of Path element''s StrokeLineJoin property in C++.'
 type: docs
-weight: 4900
+weight: 5200
 url: /cpp/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enum

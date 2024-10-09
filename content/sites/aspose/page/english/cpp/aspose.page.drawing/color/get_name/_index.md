@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Name method. Gets the name of this T:Aspose::Page::Drawing::Color in C++.'
 type: docs
-weight: 15000
+weight: 15200
 url: /cpp/aspose.page.drawing/color/get_name/
 ---
 ## Color::get_Name method

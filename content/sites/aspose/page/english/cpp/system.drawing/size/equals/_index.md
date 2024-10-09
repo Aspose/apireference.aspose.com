@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::Equals method. Determines if the current object and the specified object are equal, i.e. represent the same pair of width and hegiht values in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.drawing/size/equals/
 ---
 ## Size::Equals method

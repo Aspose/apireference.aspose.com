@@ -4,7 +4,7 @@ linktitle: set_Matrix20
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix20 method. Sets a value in the 2-nd row and 0-th column in C++.'
 type: docs
-weight: 2500
+weight: 3900
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix20/
 ---
 ## ColorMatrix::set_Matrix20 method

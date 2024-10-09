@@ -4,7 +4,7 @@ linktitle: ReadSingle
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadSingle method. Reads 4 bytes from the input stream and returns them as a single-precision floating point value in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.io/binaryreader/readsingle/
 ---
 ## BinaryReader::ReadSingle method

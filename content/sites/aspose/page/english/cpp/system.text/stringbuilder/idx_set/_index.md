@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::idx_set method. Sets character at specified position in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/system.text/stringbuilder/idx_set/
 ---
 ## StringBuilder::idx_set method

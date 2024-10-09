@@ -4,7 +4,7 @@ linktitle: set_XmlResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::set_XmlResolver method. Sets the XmlResolver used for resolving DTD references in C++.'
 type: docs
-weight: 3700
+weight: 6000
 url: /cpp/system.xml/xmltextreader/set_xmlresolver/
 ---
 ## XmlTextReader::set_XmlResolver method

@@ -4,7 +4,7 @@ linktitle: get_LightGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LightGreen method. Returns a color whose ARGB value in hexadecimal notation is #FF90EE90 in C++.'
 type: docs
-weight: 9100
+weight: 9000
 url: /cpp/system.drawing/color/get_lightgreen/
 ---
 ## Color::get_LightGreen method

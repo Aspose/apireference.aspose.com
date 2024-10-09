@@ -4,7 +4,7 @@ linktitle: get_Padding
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::get_Padding method. Gets padding of cryptographic operation in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_padding/
 ---
 ## SymmetricAlgorithm::get_Padding method

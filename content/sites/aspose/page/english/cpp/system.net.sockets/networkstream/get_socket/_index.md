@@ -4,7 +4,7 @@ linktitle: get_Socket
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::get_Socket method. Gets the underlying Socket in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/system.net.sockets/networkstream/get_socket/
 ---
 ## NetworkStream::get_Socket method

@@ -4,7 +4,7 @@ linktitle: set_Parent
 second_title: Aspose.Page for C++
 description: 'How to use set_Parent method of Aspose::Page::EPS::Device::PdfNode class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.eps.device/pdfnode/set_parent/
 ---
 ## PdfNode::set_Parent method

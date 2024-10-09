@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::Read method. Reads the specified number of bytes from the underlying stream and writes them to the specified byte array in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.io/bufferedstream/read/
 ---
 ## BufferedStream::Read(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::idx_get method. When overridden in a derived class, gets the value of the attribute with the specified index in C++.'
 type: docs
-weight: 4800
+weight: 2900
 url: /cpp/system.xml/xmlreader/idx_get/
 ---
 ## XmlReader::idx_get(int32_t) method

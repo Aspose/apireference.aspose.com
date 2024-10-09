@@ -4,7 +4,7 @@ linktitle: get_AsyncState
 second_title: Aspose.Page for C++
 description: 'System::IAsyncResult::get_AsyncState method. Returns an object that contains the information about asyrchronous operation in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system/iasyncresult/get_asyncstate/
 ---
 ## IAsyncResult::get_AsyncState method

@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::Remove method. Removes specific item in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/system.collections.objectmodel/collection/remove/
 ---
 ## Collection::Remove method

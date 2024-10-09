@@ -4,7 +4,7 @@ linktitle: set_XmlResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::set_XmlResolver method. Sets the XmlResolver object used to resolve xs:import and xs:include elements as well as xsi:schemaLocation and xsi:noNamespaceSchemaLocation attributes in C++.'
 type: docs
-weight: 100
+weight: 1400
 url: /cpp/system.xml.schema/xmlschemavalidator/set_xmlresolver/
 ---
 ## XmlSchemaValidator::set_XmlResolver method

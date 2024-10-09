@@ -4,7 +4,7 @@ linktitle: get_SubjectName
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::get_SubjectName method. Gets the subject name from a certificate in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_subjectname/
 ---
 ## X509Certificate2::get_SubjectName method

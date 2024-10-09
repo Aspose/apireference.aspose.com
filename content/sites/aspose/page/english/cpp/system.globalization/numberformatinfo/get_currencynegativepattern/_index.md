@@ -4,7 +4,7 @@ linktitle: get_CurrencyNegativePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_CurrencyNegativePattern method. Gets currency negative pattern in C++.'
 type: docs
-weight: 2800
+weight: 700
 url: /cpp/system.globalization/numberformatinfo/get_currencynegativepattern/
 ---
 ## NumberFormatInfo::get_CurrencyNegativePattern method

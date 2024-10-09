@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamedNodeMap::cbegin method. Gets iterator to the first element of collection in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/system.xml/xmlnamednodemap/cbegin/
 ---
 ## XmlNamedNodeMap::cbegin method

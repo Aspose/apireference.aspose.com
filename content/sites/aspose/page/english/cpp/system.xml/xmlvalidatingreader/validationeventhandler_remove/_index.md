@@ -4,7 +4,7 @@ linktitle: ValidationEventHandler_remove
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::ValidationEventHandler_remove method. Removes an event handler for receiving information about document type definition (DTD), XML-Data Reduced (XDR) schema, and XML Schema definition language (XSD) schema validation errors in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/system.xml/xmlvalidatingreader/validationeventhandler_remove/
 ---
 ## XmlValidatingReader::ValidationEventHandler_remove method

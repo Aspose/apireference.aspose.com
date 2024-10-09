@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PaperSize::get_Width method. Gets the width of the paper, in hundredths of an inch in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/system.drawing.printing/papersize/get_width/
 ---
 ## PaperSize::get_Width method

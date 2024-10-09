@@ -4,7 +4,7 @@ linktitle: get_HasValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_HasValue method. Returns a value indicating whether the current node can have a XmlValidatingReader::get_Value other than String::Empty in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.xml/xmlvalidatingreader/get_hasvalue/
 ---
 ## XmlValidatingReader::get_HasValue method

@@ -30,52 +30,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.Page for C++](../../../)
-## XmlSerializer::Serialize(System::SharedPtr\<IO::TextWriter\>, System::SharedPtr\<Object\>) method
-
-
-Serializes document into XML.
-
-```cpp
-void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::TextWriter> textWriter, System::SharedPtr<Object> o)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textWriter | System::SharedPtr\<IO::TextWriter\> | Destination stream. |
-| o | System::SharedPtr\<Object\> | [Object](../../../system/object/) to serialize. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextWriter](../../../system.io/textwriter/)
-* Class [Object](../../../system/object/)
-* Class [XmlSerializer](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlSerializer::Serialize(System::SharedPtr\<XmlWriter\>, System::SharedPtr\<Object\>) method
-
-
-Serializes document into XML.
-
-```cpp
-void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<XmlWriter> xmlWriter, System::SharedPtr<Object> o)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xmlWriter | System::SharedPtr\<XmlWriter\> | Destination stream. |
-| o | System::SharedPtr\<Object\> | [Object](../../../system/object/) to serialize. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [Object](../../../system/object/)
-* Class [XmlSerializer](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlSerializer::Serialize(System::SharedPtr\<IO::Stream\>, System::SharedPtr\<Object\>, System::SharedPtr\<XmlSerializerNamespaces\>) method
 
 
@@ -101,6 +55,29 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.Page for C++](../../../)
+## XmlSerializer::Serialize(System::SharedPtr\<IO::TextWriter\>, System::SharedPtr\<Object\>) method
+
+
+Serializes document into XML.
+
+```cpp
+void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::TextWriter> textWriter, System::SharedPtr<Object> o)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textWriter | System::SharedPtr\<IO::TextWriter\> | Destination stream. |
+| o | System::SharedPtr\<Object\> | [Object](../../../system/object/) to serialize. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextWriter](../../../system.io/textwriter/)
+* Class [Object](../../../system/object/)
+* Class [XmlSerializer](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlSerializer::Serialize(System::SharedPtr\<IO::TextWriter\>, System::SharedPtr\<Object\>, System::SharedPtr\<XmlSerializerNamespaces\>) method
 
 
@@ -123,6 +100,29 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::
 * Class [TextWriter](../../../system.io/textwriter/)
 * Class [Object](../../../system/object/)
 * Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
+* Class [XmlSerializer](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlSerializer::Serialize(System::SharedPtr\<XmlWriter\>, System::SharedPtr\<Object\>) method
+
+
+Serializes document into XML.
+
+```cpp
+void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<XmlWriter> xmlWriter, System::SharedPtr<Object> o)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xmlWriter | System::SharedPtr\<XmlWriter\> | Destination stream. |
+| o | System::SharedPtr\<Object\> | [Object](../../../system/object/) to serialize. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../../system.xml/xmlwriter/)
+* Class [Object](../../../system/object/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.Page for C++](../../../)

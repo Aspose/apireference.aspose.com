@@ -4,7 +4,7 @@ linktitle: WriteTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDeclaration::WriteTo method. Saves the node to the specified XmlWriter in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system.xml/xmldeclaration/writeto/
 ---
 ## XmlDeclaration::WriteTo method

@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNameTable::Add method. When overridden in a derived class, atomizes the specified string and adds it to the XmlNameTable in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.xml/xmlnametable/add/
 ---
 ## XmlNameTable::Add(const ArrayPtr\<char16_t\>\&, int32_t, int32_t) method

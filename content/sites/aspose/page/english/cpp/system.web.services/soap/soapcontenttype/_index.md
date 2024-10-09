@@ -4,7 +4,7 @@ linktitle: SoapContentType
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::SoapContentType field. The string representation of the SOAP content type in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system.web.services/soap/soapcontenttype/
 ---
 ## SoapContentType field

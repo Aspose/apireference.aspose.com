@@ -4,7 +4,7 @@ linktitle: GetFrameCount
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::GetFrameCount method. Returns the number of frames of the specified frame dimension in C++.'
 type: docs
-weight: 2100
+weight: 1700
 url: /cpp/system.drawing/image/getframecount/
 ---
 ## Image::GetFrameCount method

@@ -4,7 +4,7 @@ linktitle: set_Brush
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_Brush method. Sets this pen''s Brush object in C++.'
 type: docs
-weight: 2800
+weight: 2400
 url: /cpp/system.drawing/pen/set_brush/
 ---
 ## Pen::set_Brush method

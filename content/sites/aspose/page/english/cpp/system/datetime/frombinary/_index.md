@@ -4,7 +4,7 @@ linktitle: FromBinary
 second_title: Aspose.Page for C++
 description: 'System::DateTime::FromBinary method. Deserializes the date time value from the specified unsigned 64-bit integer and sets the new instance of DateTime class to that value in C++.'
 type: docs
-weight: 5800
+weight: 5700
 url: /cpp/system/datetime/frombinary/
 ---
 ## DateTime::FromBinary method

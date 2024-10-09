@@ -2,19 +2,32 @@
 title: System::Nullable::operator-= method
 linktitle: operator-=
 second_title: Aspose.Page for C++
-description: 'System::Nullable::operator-= method. Returns an instance of Nullable class that represents a null-value in C++.'
+description: 'System::Nullable::operator-= method. Applies operator-=() to the value represented by the current object using the value represented by the specified Nullable object as the right-side argument in C++.'
 type: docs
-weight: 1900
+weight: 1500
 url: /cpp/system/nullable/operator-=/
 ---
-## Nullable::operator-=(T1) method
+## Nullable::operator-=(const Nullable\<T1\>\&) method
 
 
-Returns an instance of [Nullable](../) class that represents a null-value.
+Applies [operator-=()](./) to the value represented by the current object using the value represented by the specified [Nullable](../) object as the right-side argument.
 
 ```cpp
-template<typename T1,typename> Nullable<T> System::Nullable<T>::operator-=(T1)
+template<typename T1> Nullable<T> System::Nullable<T>::operator-=(const Nullable<T1> &other)
 ```
+
+
+| Parameter | Description |
+| --- | --- |
+| T1 | The underlying type of a [Nullable](../) object the value represented by which is used as the right-side argument of [operator-=()](./) |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | const Nullable\<T1\>\& | A constant reference to [Nullable](../) object the value represented by which is used as a right-side argument of the [operator-=()](./) applied to the value represented by the current object. |
+
+### ReturnValue
+
+A reference to the self
 
 ## See Also
 
@@ -50,27 +63,14 @@ A reference to the self
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::operator-=(const Nullable\<T1\>\&) method
+## Nullable::operator-=(T1) method
 
 
-Applies [operator-=()](./) to the value represented by the current object using the value represented by the specified [Nullable](../) object as the right-side argument.
+Returns an instance of [Nullable](../) class that represents a null-value.
 
 ```cpp
-template<typename T1> Nullable<T> System::Nullable<T>::operator-=(const Nullable<T1> &other)
+template<typename T1,typename> Nullable<T> System::Nullable<T>::operator-=(T1)
 ```
-
-
-| Parameter | Description |
-| --- | --- |
-| T1 | The underlying type of a [Nullable](../) object the value represented by which is used as the right-side argument of [operator-=()](./) |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | const Nullable\<T1\>\& | A constant reference to [Nullable](../) object the value represented by which is used as a right-side argument of the [operator-=()](./) applied to the value represented by the current object. |
-
-### ReturnValue
-
-A reference to the self
 
 ## See Also
 

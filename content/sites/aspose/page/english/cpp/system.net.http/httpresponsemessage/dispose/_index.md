@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpResponseMessage::Dispose method. Disposes the current instance. This method also disposes content of the HTTP response in C++.'
 type: docs
-weight: 1600
+weight: 200
 url: /cpp/system.net.http/httpresponsemessage/dispose/
 ---
 ## HttpResponseMessage::Dispose method

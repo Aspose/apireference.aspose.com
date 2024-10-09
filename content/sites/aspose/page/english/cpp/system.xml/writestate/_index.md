@@ -4,7 +4,7 @@ linktitle: WriteState
 second_title: Aspose.Page for C++
 description: 'System::Xml::WriteState enum. Specifies the state of the XmlWriter in C++.'
 type: docs
-weight: 5600
+weight: 5700
 url: /cpp/system.xml/writestate/
 ---
 ## WriteState enum

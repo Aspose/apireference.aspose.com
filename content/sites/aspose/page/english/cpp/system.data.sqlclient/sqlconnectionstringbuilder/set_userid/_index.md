@@ -4,7 +4,7 @@ linktitle: set_UserID
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::set_UserID method. Sets user id to use for connection in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_userid/
 ---
 ## SqlConnectionStringBuilder::set_UserID method

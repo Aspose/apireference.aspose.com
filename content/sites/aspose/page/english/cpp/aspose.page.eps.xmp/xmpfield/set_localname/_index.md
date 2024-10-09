@@ -4,7 +4,7 @@ linktitle: set_LocalName
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField::set_LocalName method. Sets the name of the local in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/aspose.page.eps.xmp/xmpfield/set_localname/
 ---
 ## XmpField::set_LocalName method

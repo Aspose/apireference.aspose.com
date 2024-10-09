@@ -4,7 +4,7 @@ linktitle: get_VariableType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::IXsltContextVariable::get_VariableType method. Returns the XPathResultType representing the XML Path Language (XPath) type of the variable in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml.xsl/ixsltcontextvariable/get_variabletype/
 ---
 ## IXsltContextVariable::get_VariableType method

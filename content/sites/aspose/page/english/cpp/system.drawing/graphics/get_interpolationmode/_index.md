@@ -4,7 +4,7 @@ linktitle: get_InterpolationMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_InterpolationMode method. Returns a value that indicates the interpolation mode associated with the current object in C++.'
 type: docs
-weight: 800
+weight: 4700
 url: /cpp/system.drawing/graphics/get_interpolationmode/
 ---
 ## Graphics::get_InterpolationMode method

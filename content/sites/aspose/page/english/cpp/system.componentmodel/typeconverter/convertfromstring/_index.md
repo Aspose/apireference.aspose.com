@@ -7,18 +7,20 @@ type: docs
 weight: 400
 url: /cpp/system.componentmodel/typeconverter/convertfromstring/
 ---
-## TypeConverter::ConvertFromString(const System::String\&) method
+## TypeConverter::ConvertFromString(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::String\&) method
 
 
 Converts string to object.
 
 ```cpp
-System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFromString(const System::String &text)
+System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFromString(const System::SharedPtr<ITypeDescriptorContext> &context, const System::SharedPtr<System::Globalization::CultureInfo> &culture, const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
+| context | const System::SharedPtr\<ITypeDescriptorContext\>\& | [Object](../../../system/object/) conversion context information. |
+| culture | const System::SharedPtr\<System::Globalization::CultureInfo\>\& | Culture to use when converting objects. |
 | text | const System::String\& | Value to convert. |
 
 ### ReturnValue
@@ -29,6 +31,8 @@ converted object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Object](../../../system/object/)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [String](../../../system/string/)
 * Class [TypeConverter](../)
 * Namespace [System::ComponentModel](../../)
@@ -61,20 +65,18 @@ converted object.
 * Class [TypeConverter](../)
 * Namespace [System::ComponentModel](../../)
 * Library [Aspose.Page for C++](../../../)
-## TypeConverter::ConvertFromString(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::String\&) method
+## TypeConverter::ConvertFromString(const System::String\&) method
 
 
 Converts string to object.
 
 ```cpp
-System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFromString(const System::SharedPtr<ITypeDescriptorContext> &context, const System::SharedPtr<System::Globalization::CultureInfo> &culture, const System::String &text)
+System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFromString(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| context | const System::SharedPtr\<ITypeDescriptorContext\>\& | [Object](../../../system/object/) conversion context information. |
-| culture | const System::SharedPtr\<System::Globalization::CultureInfo\>\& | Culture to use when converting objects. |
 | text | const System::String\& | Value to convert. |
 
 ### ReturnValue
@@ -85,8 +87,6 @@ converted object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Object](../../../system/object/)
-* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
-* Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [String](../../../system/string/)
 * Class [TypeConverter](../)
 * Namespace [System::ComponentModel](../../)

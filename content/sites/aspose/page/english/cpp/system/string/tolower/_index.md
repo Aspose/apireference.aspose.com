@@ -4,7 +4,7 @@ linktitle: ToLower
 second_title: Aspose.Page for C++
 description: 'System::String::ToLower method. Converts all string''s characters to lower case in C++.'
 type: docs
-weight: 4000
+weight: 4700
 url: /cpp/system/string/tolower/
 ---
 ## String::ToLower() const method

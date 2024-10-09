@@ -4,7 +4,7 @@ linktitle: get_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAny::get_Namespace method. Returns the namespaces containing the elements that can be used in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaany/get_namespace/
 ---
 ## XmlSchemaAny::get_Namespace method

@@ -4,7 +4,7 @@ linktitle: get_Rows
 second_title: Aspose.Page for C++
 description: 'System::Data::DataTable::get_Rows method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.data/datatable/get_rows/
 ---
 ## DataTable::get_Rows method

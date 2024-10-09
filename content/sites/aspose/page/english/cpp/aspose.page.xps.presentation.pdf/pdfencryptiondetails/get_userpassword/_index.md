@@ -4,7 +4,7 @@ linktitle: get_UserPassword
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfEncryptionDetails::get_UserPassword method. Gets the User password in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.page.xps.presentation.pdf/pdfencryptiondetails/get_userpassword/
 ---
 ## PdfEncryptionDetails::get_UserPassword method

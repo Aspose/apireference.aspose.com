@@ -4,29 +4,9 @@ linktitle: Xor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Xor method. Replaces the region represented by the current object with the portions of this region and the region defined by the specified recangle that do not intersect in C++.'
 type: docs
-weight: 1200
+weight: 2000
 url: /cpp/system.drawing/region/xor/
 ---
-## Region::Xor(const RectangleF\&) method
-
-
-Replaces the region represented by the current object with the portions of this region and the region defined by the specified recangle that do not intersect.
-
-```cpp
-void System::Drawing::Region::Xor(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | A rectangle that defines a region to xor with the region represented by the current object |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Xor(const Rectangle\&) method
 
 
@@ -44,6 +24,26 @@ void System::Drawing::Region::Xor(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Xor(const RectangleF\&) method
+
+
+Replaces the region represented by the current object with the portions of this region and the region defined by the specified recangle that do not intersect.
+
+```cpp
+void System::Drawing::Region::Xor(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | A rectangle that defines a region to xor with the region represented by the current object |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

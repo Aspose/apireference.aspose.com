@@ -4,7 +4,7 @@ linktitle: set_AnyAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::set_AnyAttribute method. Sets the value for the XmlSchemaAnyAttribute component of the complex type in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.xml.schema/xmlschemacomplextype/set_anyattribute/
 ---
 ## XmlSchemaComplexType::set_AnyAttribute method

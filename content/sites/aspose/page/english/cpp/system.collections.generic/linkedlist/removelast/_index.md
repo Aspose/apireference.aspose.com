@@ -4,7 +4,7 @@ linktitle: RemoveLast
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::RemoveLast method. Removes last node from list in C++.'
 type: docs
-weight: 1800
+weight: 2500
 url: /cpp/system.collections.generic/linkedlist/removelast/
 ---
 ## LinkedList::RemoveLast method

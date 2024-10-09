@@ -4,7 +4,7 @@ linktitle: PSCustomMediaSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::PSCustomMediaSize field. Specifies a custom media size (PostScript specific). Must be validated against DeviceMediaSize in C++.'
 type: docs
-weight: 700
+weight: 16600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/pscustommediasize/
 ---
 ## PSCustomMediaSize field

@@ -4,7 +4,7 @@ linktitle: WriteAttributeString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteAttributeString method. When overridden in a derived class, writes an attribute with the specified local name, namespace URI, and value in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.xml/xmlwriter/writeattributestring/
 ---
 ## XmlWriter::WriteAttributeString(const String\&, const String\&, const String\&) method

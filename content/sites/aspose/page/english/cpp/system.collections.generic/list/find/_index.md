@@ -4,7 +4,7 @@ linktitle: Find
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::Find method. Looks for element adhering to specific predicate in C++.'
 type: docs
-weight: 3000
+weight: 2000
 url: /cpp/system.collections.generic/list/find/
 ---
 ## List::Find method

@@ -4,7 +4,7 @@ linktitle: get_IsAbstract
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::get_IsAbstract method. Returns information to indicate if the element can be used in an instance document in C++.'
 type: docs
-weight: 100
+weight: 1200
 url: /cpp/system.xml.schema/xmlschemaelement/get_isabstract/
 ---
 ## XmlSchemaElement::get_IsAbstract method

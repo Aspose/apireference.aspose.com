@@ -4,7 +4,7 @@ linktitle: WriteSubtree
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::WriteSubtree method. Streams the current node and its child nodes to the XmlWriter object specified in C++.'
 type: docs
-weight: 3700
+weight: 8200
 url: /cpp/system.xml.xpath/xpathnavigator/writesubtree/
 ---
 ## XPathNavigator::WriteSubtree method

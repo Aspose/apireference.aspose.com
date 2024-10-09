@@ -2,53 +2,11 @@
 title: System::Runtime::Serialization::SerializationInfo::AddValue method
 linktitle: AddValue
 second_title: Aspose.Page for C++
-description: 'System::Runtime::Serialization::SerializationInfo::AddValue method. Puts float value. Not implemented in C++.'
+description: 'System::Runtime::Serialization::SerializationInfo::AddValue method. Puts boolean value. Not implemented in C++.'
 type: docs
 weight: 200
 url: /cpp/system.runtime.serialization/serializationinfo/addvalue/
 ---
-## SerializationInfo::AddValue(const System::String\&, float) method
-
-
-Puts float value. Not implemented.
-
-```cpp
-void System::Runtime::Serialization::SerializationInfo::AddValue(const System::String &name, float value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | const System::String\& | Value name. |
-| value | float | Value to put. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [SerializationInfo](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Page for C++](../../../)
-## SerializationInfo::AddValue(const System::String\&, short) method
-
-
-Puts short value. Not implemented.
-
-```cpp
-void System::Runtime::Serialization::SerializationInfo::AddValue(const System::String &name, short value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | const System::String\& | Value name. |
-| value | short | Value to put. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [SerializationInfo](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Page for C++](../../../)
 ## SerializationInfo::AddValue(const System::String\&, bool) method
 
 
@@ -115,6 +73,48 @@ void System::Runtime::Serialization::SerializationInfo::AddValue(const System::S
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
+* Class [SerializationInfo](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Page for C++](../../../)
+## SerializationInfo::AddValue(const System::String\&, float) method
+
+
+Puts float value. Not implemented.
+
+```cpp
+void System::Runtime::Serialization::SerializationInfo::AddValue(const System::String &name, float value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | const System::String\& | Value name. |
+| value | float | Value to put. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [SerializationInfo](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Page for C++](../../../)
+## SerializationInfo::AddValue(const System::String\&, short) method
+
+
+Puts short value. Not implemented.
+
+```cpp
+void System::Runtime::Serialization::SerializationInfo::AddValue(const System::String &name, short value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | const System::String\& | Value name. |
+| value | short | Value to put. |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [SerializationInfo](../)
 * Namespace [System::Runtime::Serialization](../../)
 * Library [Aspose.Page for C++](../../../)

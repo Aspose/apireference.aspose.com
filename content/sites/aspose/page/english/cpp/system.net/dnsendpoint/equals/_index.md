@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Net::DnsEndPoint::Equals method. Compares objects using C# Object.Equals semantics in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.net/dnsendpoint/equals/
 ---
 ## DnsEndPoint::Equals method

@@ -4,7 +4,7 @@ linktitle: set_ShortDatePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_ShortDatePattern method. Sets short date pattern in C++.'
 type: docs
-weight: 600
+weight: 5800
 url: /cpp/system.globalization/datetimeformatinfo/set_shortdatepattern/
 ---
 ## DateTimeFormatInfo::set_ShortDatePattern method

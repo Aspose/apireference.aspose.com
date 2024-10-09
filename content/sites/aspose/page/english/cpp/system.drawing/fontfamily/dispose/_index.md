@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Drawing::FontFamily::Dispose method. Releases all operating system resources acquired by the current object in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/system.drawing/fontfamily/dispose/
 ---
 ## FontFamily::Dispose method

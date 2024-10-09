@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::Equals method. Compares objects using C# Object.Equals semantics in C++.'
 type: docs
-weight: 2000
+weight: 200
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue::Equals method

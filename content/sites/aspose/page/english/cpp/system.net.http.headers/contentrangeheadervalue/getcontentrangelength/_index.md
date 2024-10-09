@@ -4,7 +4,7 @@ linktitle: GetContentRangeLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentRangeHeaderValue::GetContentRangeLength method. Converts a passed string from the specified position to an instance of the ContentRangeHeaderValue class in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/system.net.http.headers/contentrangeheadervalue/getcontentrangelength/
 ---
 ## ContentRangeHeaderValue::GetContentRangeLength method

@@ -28,6 +28,52 @@ System::Drawing::Bitmap::Bitmap(const SharedPtr<Image> &original)
 * Class [Bitmap](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
+## Bitmap::Bitmap(const SharedPtr\<Image\>\&, const Size\&) constructor
+
+
+Constructs a new [Bitmap](../) object from the specified existing image, scaled to the specified size.
+
+```cpp
+System::Drawing::Bitmap::Bitmap(const SharedPtr<Image> &original, const Size &size)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| original | const SharedPtr\<Image\>\& | The existing image to create the bitmap image from |
+| size | const Size\& | The size of the new image |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [Size](../../size/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Bitmap::Bitmap(const SharedPtr\<Image\>\&, int, int) constructor
+
+
+Constructs a new [Bitmap](../) object from the specified existing image with width and height scaled to the specified values.
+
+```cpp
+System::Drawing::Bitmap::Bitmap(const SharedPtr<Image> &original, int width, int height)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| original | const SharedPtr\<Image\>\& | The existing image to create the bitmap image from |
+| width | int | Width of the new image |
+| height | int | Height of the new image |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Bitmap::Bitmap(const SharedPtr\<System::IO::Stream\>\&, bool) constructor
 
 
@@ -110,52 +156,6 @@ System::Drawing::Bitmap::Bitmap(int width, int height, Imaging::PixelFormat form
 ## See Also
 
 * Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Bitmap::Bitmap(const SharedPtr\<Image\>\&, const Size\&) constructor
-
-
-Constructs a new [Bitmap](../) object from the specified existing image, scaled to the specified size.
-
-```cpp
-System::Drawing::Bitmap::Bitmap(const SharedPtr<Image> &original, const Size &size)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| original | const SharedPtr\<Image\>\& | The existing image to create the bitmap image from |
-| size | const Size\& | The size of the new image |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Image](../../image/)
-* Class [Size](../../size/)
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Bitmap::Bitmap(const SharedPtr\<Image\>\&, int, int) constructor
-
-
-Constructs a new [Bitmap](../) object from the specified existing image with width and height scaled to the specified values.
-
-```cpp
-System::Drawing::Bitmap::Bitmap(const SharedPtr<Image> &original, int width, int height)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| original | const SharedPtr\<Image\>\& | The existing image to create the bitmap image from |
-| width | int | Width of the new image |
-| height | int | Height of the new image |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Image](../../image/)
 * Class [Bitmap](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

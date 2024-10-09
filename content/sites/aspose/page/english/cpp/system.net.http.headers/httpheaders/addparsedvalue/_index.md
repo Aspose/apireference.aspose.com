@@ -4,7 +4,7 @@ linktitle: AddParsedValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::AddParsedValue method. Gets a header by the specified name and adds a parsed value to the header in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/system.net.http.headers/httpheaders/addparsedvalue/
 ---
 ## HttpHeaders::AddParsedValue method

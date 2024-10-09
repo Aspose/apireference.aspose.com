@@ -4,7 +4,7 @@ linktitle: get_MediumPurple
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_MediumPurple method. Returns a color whose ARGB value in hexadecimal notation is #FF9370DB in C++.'
 type: docs
-weight: 10700
+weight: 10600
 url: /cpp/system.drawing/color/get_mediumpurple/
 ---
 ## Color::get_MediumPurple method

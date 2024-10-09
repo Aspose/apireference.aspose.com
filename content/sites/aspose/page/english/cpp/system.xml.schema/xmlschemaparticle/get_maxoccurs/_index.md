@@ -4,7 +4,7 @@ linktitle: get_MaxOccurs
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaParticle::get_MaxOccurs method. Returns the maximum number of times the particle can occur in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaparticle/get_maxoccurs/
 ---
 ## XmlSchemaParticle::get_MaxOccurs method

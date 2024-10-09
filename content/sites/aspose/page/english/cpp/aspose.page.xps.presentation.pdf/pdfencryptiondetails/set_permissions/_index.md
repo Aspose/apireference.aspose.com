@@ -4,7 +4,7 @@ linktitle: set_Permissions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfEncryptionDetails::set_Permissions method. Sets the permissions in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.page.xps.presentation.pdf/pdfencryptiondetails/set_permissions/
 ---
 ## PdfEncryptionDetails::set_Permissions method

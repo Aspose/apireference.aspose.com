@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::virtualizeBeginConstIterator method. Gets the implementation of begin const iterator for the current container in C++.'
 type: docs
-weight: 2400
+weight: 2200
 url: /cpp/system.collections.generic/basedictionary/virtualizebeginconstiterator/
 ---
 ## BaseDictionary::virtualizeBeginConstIterator method

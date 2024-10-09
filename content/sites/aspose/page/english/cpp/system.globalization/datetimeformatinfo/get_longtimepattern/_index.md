@@ -4,7 +4,7 @@ linktitle: get_LongTimePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_LongTimePattern method. Gets long time pattern in C++.'
 type: docs
-weight: 1100
+weight: 1500
 url: /cpp/system.globalization/datetimeformatinfo/get_longtimepattern/
 ---
 ## DateTimeFormatInfo::get_LongTimePattern method

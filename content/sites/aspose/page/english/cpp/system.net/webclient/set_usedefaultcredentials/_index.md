@@ -4,7 +4,7 @@ linktitle: set_UseDefaultCredentials
 second_title: Aspose.Page for C++
 description: 'System::Net::WebClient::set_UseDefaultCredentials method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.net/webclient/set_usedefaultcredentials/
 ---
 ## WebClient::set_UseDefaultCredentials method

@@ -2,11 +2,37 @@
 title: System::Threading::WaitHandle::WaitAll method
 linktitle: WaitAll
 second_title: Aspose.Page for C++
-description: 'System::Threading::WaitHandle::WaitAll method. RTTI information in C++.'
+description: 'System::Threading::WaitHandle::WaitAll method. Waits for all handles to fire in C++.'
 type: docs
 weight: 100
 url: /cpp/system.threading/waithandle/waitall/
 ---
+## WaitHandle::WaitAll(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&) method
+
+
+Waits for all handles to fire.
+
+```cpp
+static bool System::Threading::WaitHandle::WaitAll(const System::ArrayPtr<System::SharedPtr<WaitHandle>> &waitHandles)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| waitHandles | const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\& | Handles to wait for. |
+
+### ReturnValue
+
+True when every element in waitHandles has received a signal; otherwise the method never returns.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WaitHandle](../)
+* Class [WaitHandle](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Page for C++](../../../)
 ## WaitHandle::WaitAll(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&, int) method
 
 
@@ -62,32 +88,6 @@ True if all handles fired, false if timeout exceeded.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WaitHandle](../)
 * Class [TimeSpan](../../../system/timespan/)
-* Class [WaitHandle](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Page for C++](../../../)
-## WaitHandle::WaitAll(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&) method
-
-
-Waits for all handles to fire.
-
-```cpp
-static bool System::Threading::WaitHandle::WaitAll(const System::ArrayPtr<System::SharedPtr<WaitHandle>> &waitHandles)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| waitHandles | const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\& | Handles to wait for. |
-
-### ReturnValue
-
-True when every element in waitHandles has received a signal; otherwise the method never returns.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WaitHandle](../)
 * Class [WaitHandle](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.Page for C++](../../../)

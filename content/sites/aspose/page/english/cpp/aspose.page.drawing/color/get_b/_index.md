@@ -4,7 +4,7 @@ linktitle: get_B
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_B method. Gets the blue component value of this T:Aspose::Page::Drawing::Color structure in C++.'
 type: docs
-weight: 14600
+weight: 14800
 url: /cpp/aspose.page.drawing/color/get_b/
 ---
 ## Color::get_B method

@@ -4,7 +4,7 @@ linktitle: set_DigestValue
 second_title: Aspose.Page for C++
 description: 'How to use set_DigestValue method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.security.cryptography.xml/reference/set_digestvalue/
 ---
 ## Reference::set_DigestValue method

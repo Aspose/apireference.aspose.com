@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::CopyTo method. Copies container elements to existing array elements in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.collections.objectmodel/readonlycollection/copyto/
 ---
 ## ReadOnlyCollection::CopyTo method

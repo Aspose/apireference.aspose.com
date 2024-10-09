@@ -4,7 +4,7 @@ linktitle: set_LastModified
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::set_LastModified method. Sets a value of the ''Last-Modified'' header in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/system.net.http.headers/httpcontentheaders/set_lastmodified/
 ---
 ## HttpContentHeaders::set_LastModified method

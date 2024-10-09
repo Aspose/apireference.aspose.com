@@ -4,7 +4,7 @@ linktitle: ToUpper
 second_title: Aspose.Page for C++
 description: 'System::String::ToUpper method. Converts all string''s characters to upper case in C++.'
 type: docs
-weight: 3900
+weight: 5200
 url: /cpp/system/string/toupper/
 ---
 ## String::ToUpper() const method

@@ -2,38 +2,11 @@
 title: System::TimeZoneInfo::ConvertTime method
 linktitle: ConvertTime
 second_title: Aspose.Page for C++
-description: 'System::TimeZoneInfo::ConvertTime method. Convert time from one time zone to another in C++.'
+description: 'System::TimeZoneInfo::ConvertTime method. Convert time to the time in a specified time zone in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system/timezoneinfo/converttime/
 ---
-## TimeZoneInfo::ConvertTime(DateTime, const TimeZoneInfoPtr\&, const TimeZoneInfoPtr\&) method
-
-
-[Convert](../../convert/) time from one time zone to another.
-
-```cpp
-static DateTime System::TimeZoneInfo::ConvertTime(DateTime date_time, const TimeZoneInfoPtr &source_time_zone, const TimeZoneInfoPtr &destination_time_zone)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| date_time | DateTime | Date and time to convert. |
-| source_time_zone | const TimeZoneInfoPtr\& | Source time zone. |
-| destination_time_zone | const TimeZoneInfoPtr\& | Destination time zone. |
-
-### ReturnValue
-
-Converted date and time.
-
-## See Also
-
-* Class [DateTime](../../datetime/)
-* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TimeZoneInfo::ConvertTime(const DateTimeOffset\&, const TimeZoneInfoPtr\&) method
 
 
@@ -73,6 +46,33 @@ static DateTime System::TimeZoneInfo::ConvertTime(DateTime date_time, const Time
 | Parameter | Type | Description |
 | --- | --- | --- |
 | date_time | DateTime | Date and time to convert. |
+| destination_time_zone | const TimeZoneInfoPtr\& | Destination time zone. |
+
+### ReturnValue
+
+Converted date and time.
+
+## See Also
+
+* Class [DateTime](../../datetime/)
+* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## TimeZoneInfo::ConvertTime(DateTime, const TimeZoneInfoPtr\&, const TimeZoneInfoPtr\&) method
+
+
+[Convert](../../convert/) time from one time zone to another.
+
+```cpp
+static DateTime System::TimeZoneInfo::ConvertTime(DateTime date_time, const TimeZoneInfoPtr &source_time_zone, const TimeZoneInfoPtr &destination_time_zone)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| date_time | DateTime | Date and time to convert. |
+| source_time_zone | const TimeZoneInfoPtr\& | Source time zone. |
 | destination_time_zone | const TimeZoneInfoPtr\& | Destination time zone. |
 
 ### ReturnValue

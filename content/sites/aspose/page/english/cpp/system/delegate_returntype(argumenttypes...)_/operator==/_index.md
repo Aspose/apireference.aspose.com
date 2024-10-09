@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Delegate< ReturnType(ArgumentTypes...)>::operator== method. Compares two delegate objects to check if they point to the same entity in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system/delegate_returntype(argumenttypes...)_/operator==/
 ---
 ## Delegate< ReturnType(ArgumentTypes...)>::operator== method

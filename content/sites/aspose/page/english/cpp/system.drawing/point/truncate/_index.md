@@ -4,7 +4,7 @@ linktitle: Truncate
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::Truncate method. Constructs a Point object from the specified PointF object by truncating the PointF object''s X and Y coordinates values to the next lower integer values in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.drawing/point/truncate/
 ---
 ## Point::Truncate method

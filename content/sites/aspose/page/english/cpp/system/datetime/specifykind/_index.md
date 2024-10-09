@@ -4,7 +4,7 @@ linktitle: SpecifyKind
 second_title: Aspose.Page for C++
 description: 'System::DateTime::SpecifyKind method. Constructs a new DateTime object that represents the same number of ticks as the specified DateTime object and represents local time, UTC time or neither as specified by the argument kind in C++.'
 type: docs
-weight: 6500
+weight: 6800
 url: /cpp/system/datetime/specifykind/
 ---
 ## DateTime::SpecifyKind method

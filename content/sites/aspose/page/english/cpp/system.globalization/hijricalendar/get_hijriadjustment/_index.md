@@ -4,7 +4,7 @@ linktitle: get_HijriAdjustment
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HijriCalendar::get_HijriAdjustment method. Gets hijri adjustment in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.globalization/hijricalendar/get_hijriadjustment/
 ---
 ## HijriCalendar::get_HijriAdjustment method

@@ -4,7 +4,7 @@ linktitle: UriSchemeHttp
 second_title: Aspose.Page for C++
 description: 'System::Uri::UriSchemeHttp field. Specifies that the Uri is accessed through the Hypertext Transfer Protocol in C++.'
 type: docs
-weight: 4900
+weight: 5000
 url: /cpp/system/uri/urischemehttp/
 ---
 ## UriSchemeHttp field

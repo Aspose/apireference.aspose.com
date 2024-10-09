@@ -4,7 +4,7 @@ linktitle: get_DarkRed
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DarkRed method. Returns a color whose ARGB value in hexadecimal notation is #FF8B0000 in C++.'
 type: docs
-weight: 5400
+weight: 5300
 url: /cpp/system.drawing/color/get_darkred/
 ---
 ## Color::get_DarkRed method

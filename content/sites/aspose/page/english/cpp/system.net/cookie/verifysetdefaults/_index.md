@@ -4,7 +4,7 @@ linktitle: VerifySetDefaults
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::VerifySetDefaults method. Verifies and sets the default attribute''s values in C++.'
 type: docs
-weight: 3800
+weight: 4200
 url: /cpp/system.net/cookie/verifysetdefaults/
 ---
 ## Cookie::VerifySetDefaults method

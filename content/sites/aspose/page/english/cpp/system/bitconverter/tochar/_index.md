@@ -4,7 +4,7 @@ linktitle: ToChar
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToChar method. Converts two bytes from the specified array starting at the specified index to char_t value in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system/bitconverter/tochar/
 ---
 ## BitConverter::ToChar(const System::ArrayPtr\<uint8_t\>\&, int) method

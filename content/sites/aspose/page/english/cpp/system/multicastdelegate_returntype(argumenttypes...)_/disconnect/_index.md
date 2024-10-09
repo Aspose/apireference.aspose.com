@@ -4,7 +4,7 @@ linktitle: disconnect
 second_title: Aspose.Page for C++
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::disconnect method. Removes the specified delegate from the delegate collection in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/disconnect/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::disconnect(Callback) method

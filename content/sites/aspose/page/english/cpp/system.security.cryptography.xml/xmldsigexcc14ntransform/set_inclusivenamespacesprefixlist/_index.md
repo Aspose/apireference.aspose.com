@@ -4,7 +4,7 @@ linktitle: set_InclusiveNamespacesPrefixList
 second_title: Aspose.Page for C++
 description: 'How to use set_InclusiveNamespacesPrefixList method of System::Security::Cryptography::Xml::XmlDsigExcC14NTransform class in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/system.security.cryptography.xml/xmldsigexcc14ntransform/set_inclusivenamespacesprefixlist/
 ---
 ## XmlDsigExcC14NTransform::set_InclusiveNamespacesPrefixList method

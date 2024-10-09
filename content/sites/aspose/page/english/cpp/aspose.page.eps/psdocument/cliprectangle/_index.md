@@ -4,7 +4,7 @@ linktitle: ClipRectangle
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::ClipRectangle method. Adds clipping rectangle to current graphics state in C++.'
 type: docs
-weight: 2800
+weight: 400
 url: /cpp/aspose.page.eps/psdocument/cliprectangle/
 ---
 ## PsDocument::ClipRectangle method

@@ -4,7 +4,7 @@ linktitle: get_RosyBrown
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_RosyBrown method. Gets a system-defined color that has an ARGB value of #FFBC8F8F in C++.'
 type: docs
-weight: 11600
+weight: 11700
 url: /cpp/aspose.page.drawing/color/get_rosybrown/
 ---
 ## Color::get_RosyBrown method

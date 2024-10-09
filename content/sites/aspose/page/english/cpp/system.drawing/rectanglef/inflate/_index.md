@@ -2,31 +2,11 @@
 title: System::Drawing::RectangleF::Inflate method
 linktitle: Inflate
 second_title: Aspose.Page for C++
-description: 'System::Drawing::RectangleF::Inflate method. Increases the width and height of the rectangle represented by the current object, maintaining the location of the geometrical center of the rectangle. The width and height are increased in both directions by the specified amounts in C++.'
+description: 'System::Drawing::RectangleF::Inflate method. Increases the width and height of the rectangle represented by the current object, maintaining the location of the geometrical center of the rectangle. The width and height are increased in both directions by the amounts specified by width and height values of the specified size object correspondingly in C++.'
 type: docs
-weight: 2100
+weight: 1600
 url: /cpp/system.drawing/rectanglef/inflate/
 ---
-## RectangleF::Inflate(float, float) method
-
-
-Increases the width and height of the rectangle represented by the current object, maintaining the location of the geometrical center of the rectangle. The width and height are increased in both directions by the specified amounts.
-
-```cpp
-void System::Drawing::RectangleF::Inflate(float width, float height)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | float | The amount by which the width of the rectangle is to be increased in both directions |
-| height | float | The amount by which the height of the rectangle is to be increased in both directions |
-
-## See Also
-
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## RectangleF::Inflate(const SizeF\&) method
 
 
@@ -44,6 +24,26 @@ void System::Drawing::RectangleF::Inflate(const SizeF &size)
 ## See Also
 
 * Class [SizeF](../../sizef/)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## RectangleF::Inflate(float, float) method
+
+
+Increases the width and height of the rectangle represented by the current object, maintaining the location of the geometrical center of the rectangle. The width and height are increased in both directions by the specified amounts.
+
+```cpp
+void System::Drawing::RectangleF::Inflate(float width, float height)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | float | The amount by which the width of the rectangle is to be increased in both directions |
+| height | float | The amount by which the height of the rectangle is to be increased in both directions |
+
+## See Also
+
 * Class [RectangleF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

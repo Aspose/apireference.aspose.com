@@ -4,7 +4,7 @@ linktitle: InsertGlyphs
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsCanvas::InsertGlyphs method. Inserts new glyphs to this canvas''s child list at index  position in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.page.xps.xpsmodel/xpscanvas/insertglyphs/
 ---
 ## XpsCanvas::InsertGlyphs method

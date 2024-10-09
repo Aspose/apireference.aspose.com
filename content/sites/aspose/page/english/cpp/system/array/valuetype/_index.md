@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.Page for C++
 description: 'System::Array::ValueType typedef. Alias for the type of the elements of the array in C++.'
 type: docs
-weight: 5900
+weight: 6600
 url: /cpp/system/array/valuetype/
 ---
 ## ValueType typedef

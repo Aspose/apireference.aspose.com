@@ -4,7 +4,7 @@ linktitle: get_Namespaces
 second_title: Aspose.Page for C++
 description: 'How to use get_Namespaces method of System::Xml::Serialization::XmlSerializerNamespaces class in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.xml.serialization/xmlserializernamespaces/get_namespaces/
 ---
 ## XmlSerializerNamespaces::get_Namespaces method

@@ -4,7 +4,7 @@ linktitle: get_CheckCertRevocationStatus
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::get_CheckCertRevocationStatus method. Returns a value that indicates if the certificate revocation list is checked during the certificate validation process in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/system.net.security/sslstream/get_checkcertrevocationstatus/
 ---
 ## SslStream::get_CheckCertRevocationStatus method

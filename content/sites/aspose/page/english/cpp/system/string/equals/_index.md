@@ -2,11 +2,35 @@
 title: System::String::Equals method
 linktitle: Equals
 second_title: Aspose.Page for C++
-description: 'System::String::Equals method. String equality comparison. Several modes provided by StringComparison enumeration are supported in C++.'
+description: 'System::String::Equals method. String equality comparison. Uses System::StringComparison::Ordinal comparison mode in C++.'
 type: docs
-weight: 2900
+weight: 1000
 url: /cpp/system/string/equals/
 ---
+## String::Equals(const String\&) const method
+
+
+[String](../) equality comparison. Uses [System::StringComparison::Ordinal](../../stringcomparison/) comparison mode.
+
+```cpp
+bool System::String::Equals(const String &str) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | const String\& | [String](../) to compare against the current one. |
+
+### ReturnValue
+
+true if strings match, false otherwise.
+
+## See Also
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## String::Equals(const String\&, System::StringComparison) const method
 
 
@@ -30,30 +54,6 @@ true if strings match using selected comparison type, false otherwise.
 
 * Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::Equals(const String\&) const method
-
-
-[String](../) equality comparison. Uses [System::StringComparison::Ordinal](../../stringcomparison/) comparison mode.
-
-```cpp
-bool System::String::Equals(const String &str) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | const String\& | [String](../) to compare against the current one. |
-
-### ReturnValue
-
-true if strings match, false otherwise.
-
-## See Also
-
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: GetCallingAssembly
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::GetCallingAssembly method. Gets calling assembly in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.reflection/assembly/getcallingassembly/
 ---
 ## Assembly::GetCallingAssembly method

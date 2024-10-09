@@ -4,7 +4,7 @@ linktitle: get_WriteMethods
 second_title: Aspose.Page for C++
 description: 'How to use get_WriteMethods method of System::Xml::Serialization::XmlSerializerImplementation class in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.xml.serialization/xmlserializerimplementation/get_writemethods/
 ---
 ## XmlSerializerImplementation::get_WriteMethods method

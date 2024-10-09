@@ -4,7 +4,7 @@ linktitle: set_Matrix01
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix01 method. Sets a value in the 0-th row and 1-st column in C++.'
 type: docs
-weight: 700
+weight: 3000
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix01/
 ---
 ## ColorMatrix::set_Matrix01 method

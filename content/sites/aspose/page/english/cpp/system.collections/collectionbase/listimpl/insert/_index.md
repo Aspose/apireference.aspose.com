@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::ListImpl::Insert method. Inserts an element into the collection at the specified index in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.collections/collectionbase/listimpl/insert/
 ---
 ## ListImpl::Insert method

@@ -4,7 +4,7 @@ linktitle: XmlSortOrder
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XmlSortOrder enum. Specifies the sort order in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system.xml.xpath/xmlsortorder/
 ---
 ## XmlSortOrder enum

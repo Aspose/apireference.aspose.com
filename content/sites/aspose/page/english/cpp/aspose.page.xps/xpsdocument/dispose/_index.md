@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::Dispose method. Disposes the instance in C++.'
 type: docs
-weight: 6200
+weight: 3000
 url: /cpp/aspose.page.xps/xpsdocument/dispose/
 ---
 ## XpsDocument::Dispose method

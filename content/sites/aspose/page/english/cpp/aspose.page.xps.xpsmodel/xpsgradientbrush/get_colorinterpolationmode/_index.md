@@ -4,7 +4,7 @@ linktitle: get_ColorInterpolationMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGradientBrush::get_ColorInterpolationMode method. Returns/sets value specifying the gamma function for color interpolation. The gamma adjustment should not be applied to the alpha component, if specified in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsgradientbrush/get_colorinterpolationmode/
 ---
 ## XpsGradientBrush::get_ColorInterpolationMode method

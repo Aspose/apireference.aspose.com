@@ -4,7 +4,7 @@ linktitle: GetSocketOption
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::GetSocketOption method. Returns the value that corresponds to the specified option name in C++.'
 type: docs
-weight: 5700
+weight: 3900
 url: /cpp/system.net.sockets/socket/getsocketoption/
 ---
 ## Socket::GetSocketOption(SocketOptionLevel, SocketOptionName) method
@@ -35,30 +35,6 @@ The value that corresponds to the specified option name.
 * Class [Socket](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)
-## Socket::GetSocketOption(SocketOptionLevel, SocketOptionName, System::ArrayPtr\<uint8_t\>) method
-
-
-Gets the value that corresponds to the specified option name.
-
-```cpp
-void System::Net::Sockets::Socket::GetSocketOption(SocketOptionLevel optionLevel, SocketOptionName optionName, System::ArrayPtr<uint8_t> optionValue)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| optionLevel | SocketOptionLevel | The socket option level. |
-| optionName | SocketOptionName | The option name. |
-| optionValue | System::ArrayPtr\<uint8_t\> | The output parameter where the corresponding value will be assigned. |
-
-## See Also
-
-* Enum [SocketOptionLevel](../../socketoptionlevel/)
-* Enum [SocketOptionName](../../socketoptionname/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Socket::GetSocketOption(SocketOptionLevel, SocketOptionName, int32_t) method
 
 
@@ -84,6 +60,30 @@ The value that corresponds to the specified option name.
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [SocketOptionLevel](../../socketoptionlevel/)
 * Enum [SocketOptionName](../../socketoptionname/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::GetSocketOption(SocketOptionLevel, SocketOptionName, System::ArrayPtr\<uint8_t\>) method
+
+
+Gets the value that corresponds to the specified option name.
+
+```cpp
+void System::Net::Sockets::Socket::GetSocketOption(SocketOptionLevel optionLevel, SocketOptionName optionName, System::ArrayPtr<uint8_t> optionValue)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| optionLevel | SocketOptionLevel | The socket option level. |
+| optionName | SocketOptionName | The option name. |
+| optionValue | System::ArrayPtr\<uint8_t\> | The output parameter where the corresponding value will be assigned. |
+
+## See Also
+
+* Enum [SocketOptionLevel](../../socketoptionlevel/)
+* Enum [SocketOptionName](../../socketoptionname/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Socket](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)

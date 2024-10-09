@@ -4,7 +4,7 @@ linktitle: set_WhitespaceHandling
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::set_WhitespaceHandling method. Sets a value that specifies how white space is handled in C++.'
 type: docs
-weight: 3000
+weight: 5900
 url: /cpp/system.xml/xmltextreader/set_whitespacehandling/
 ---
 ## XmlTextReader::set_WhitespaceHandling method

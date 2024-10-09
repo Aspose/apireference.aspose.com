@@ -4,7 +4,7 @@ linktitle: FromOACurrency
 second_title: Aspose.Page for C++
 description: 'System::Decimal::FromOACurrency method. Convert the specified OLE currency value to the equivalent Decimal value. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 4300
+weight: 3700
 url: /cpp/system/decimal/fromoacurrency/
 ---
 ## Decimal::FromOACurrency method

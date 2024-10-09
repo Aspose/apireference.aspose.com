@@ -4,7 +4,7 @@ linktitle: TryParseAdd
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection::TryParseAdd method. Tries to parse a header string representation and add it to the current collection in C++.'
 type: docs
-weight: 700
+weight: 1700
 url: /cpp/system.net.http.headers/httpheadervaluecollection/tryparseadd/
 ---
 ## HttpHeaderValueCollection::TryParseAdd method

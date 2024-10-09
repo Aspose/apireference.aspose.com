@@ -4,7 +4,7 @@ linktitle: ResetTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::ResetTransform method. Resets the world transformation matrix of the current object so that it becomes an identity matrix in C++.'
 type: docs
-weight: 6400
+weight: 6900
 url: /cpp/system.drawing/graphics/resettransform/
 ---
 ## Graphics::ResetTransform method

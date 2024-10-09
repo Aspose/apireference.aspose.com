@@ -4,7 +4,7 @@ linktitle: get_DarkGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DarkGreen method. Returns a color whose ARGB value in hexadecimal notation is #FF006400 in C++.'
 type: docs
-weight: 4800
+weight: 4700
 url: /cpp/system.drawing/color/get_darkgreen/
 ---
 ## Color::get_DarkGreen method

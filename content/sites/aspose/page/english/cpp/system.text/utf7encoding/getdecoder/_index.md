@@ -4,7 +4,7 @@ linktitle: GetDecoder
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF7Encoding::GetDecoder method. Get a decoder that forwards requests to this object in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/system.text/utf7encoding/getdecoder/
 ---
 ## UTF7Encoding::GetDecoder method

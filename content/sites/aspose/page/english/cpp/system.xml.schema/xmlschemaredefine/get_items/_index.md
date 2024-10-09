@@ -4,7 +4,7 @@ linktitle: get_Items
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaRedefine::get_Items method. Returns the collection of the following classes: XmlSchemaAnnotation, XmlSchemaAttributeGroup, XmlSchemaComplexType, XmlSchemaSimpleType, and XmlSchemaGroup in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaredefine/get_items/
 ---
 ## XmlSchemaRedefine::get_Items method

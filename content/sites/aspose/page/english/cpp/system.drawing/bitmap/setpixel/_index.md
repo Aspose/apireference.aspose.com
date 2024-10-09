@@ -4,7 +4,7 @@ linktitle: SetPixel
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::SetPixel method. Sets the color of the specified pixel in the bitmap image represented by the current object in C++.'
 type: docs
-weight: 1000
+weight: 2100
 url: /cpp/system.drawing/bitmap/setpixel/
 ---
 ## Bitmap::SetPixel method

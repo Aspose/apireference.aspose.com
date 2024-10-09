@@ -4,7 +4,7 @@ linktitle: Reference
 second_title: Aspose.Page for C++
 description: 'How to use Reference constructor of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/system.security.cryptography.xml/reference/reference/
 ---
 ## Reference::Reference() constructor

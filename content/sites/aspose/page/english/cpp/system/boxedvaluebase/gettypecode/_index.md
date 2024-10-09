@@ -4,7 +4,7 @@ linktitle: GetTypeCode
 second_title: Aspose.Page for C++
 description: 'System::BoxedValueBase::GetTypeCode method. Returns the value representing the type of the boxed value represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system/boxedvaluebase/gettypecode/
 ---
 ## BoxedValueBase::GetTypeCode method

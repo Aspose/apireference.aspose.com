@@ -4,7 +4,7 @@ linktitle: NorthAmericaSuperB
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaSuperB field. North America Super B in C++.'
 type: docs
-weight: 11600
+weight: 13300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericasuperb/
 ---
 ## NorthAmericaSuperB field

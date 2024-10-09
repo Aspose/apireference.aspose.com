@@ -4,7 +4,7 @@ linktitle: GetObjectOwner
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::GetObjectOwner method. Gets referenced object in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/system/smartptr/getobjectowner/
 ---
 ## SmartPtr::GetObjectOwner method

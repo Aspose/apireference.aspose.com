@@ -4,7 +4,7 @@ linktitle: ReceiveMessageFrom
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::ReceiveMessageFrom method. Receives data from the specified endpoint and writes it to the specified byte array in C++.'
 type: docs
-weight: 5300
+weight: 4500
 url: /cpp/system.net.sockets/socket/receivemessagefrom/
 ---
 ## Socket::ReceiveMessageFrom(System::ArrayPtr\<uint8_t\>, int32_t, int32_t, SocketFlags\&, System::SharedPtr\<EndPoint\>\&, IPPacketInformation\&) method

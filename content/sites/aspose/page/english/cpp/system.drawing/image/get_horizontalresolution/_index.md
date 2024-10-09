@@ -4,7 +4,7 @@ linktitle: get_HorizontalResolution
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_HorizontalResolution method. Returns the horizontal resolution of the image represented by the current object in pixels per inch in C++.'
 type: docs
-weight: 1500
+weight: 600
 url: /cpp/system.drawing/image/get_horizontalresolution/
 ---
 ## Image::get_HorizontalResolution method

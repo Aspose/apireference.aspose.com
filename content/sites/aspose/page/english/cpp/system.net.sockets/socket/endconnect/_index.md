@@ -4,7 +4,7 @@ linktitle: EndConnect
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::EndConnect method. Waits until the specified asynchronous connect operation completes in C++.'
 type: docs
-weight: 4700
+weight: 1400
 url: /cpp/system.net.sockets/socket/endconnect/
 ---
 ## Socket::EndConnect method

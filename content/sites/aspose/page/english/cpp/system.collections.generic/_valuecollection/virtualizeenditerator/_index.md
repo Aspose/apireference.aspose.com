@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::_ValueCollection::virtualizeEndIterator method. Gets the implementation of end iterator for the current container in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.collections.generic/_valuecollection/virtualizeenditerator/
 ---
 ## _ValueCollection::virtualizeEndIterator method

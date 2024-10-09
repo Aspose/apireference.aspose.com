@@ -4,7 +4,7 @@ linktitle: set_Source
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAppInfo::set_Source method. Sets the source of the application information in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaappinfo/set_source/
 ---
 ## XmlSchemaAppInfo::set_Source method

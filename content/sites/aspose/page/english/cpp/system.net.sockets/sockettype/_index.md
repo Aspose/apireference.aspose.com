@@ -4,7 +4,7 @@ linktitle: SocketType
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::SocketType enum. Enumerates the socket types in C++.'
 type: docs
-weight: 800
+weight: 1800
 url: /cpp/system.net.sockets/sockettype/
 ---
 ## SocketType enum

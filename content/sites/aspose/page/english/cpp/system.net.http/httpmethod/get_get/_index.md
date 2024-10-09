@@ -4,7 +4,7 @@ linktitle: get_Get
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMethod::get_Get method. Returns the ''GET'' HTTP method in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net.http/httpmethod/get_get/
 ---
 ## HttpMethod::get_Get method

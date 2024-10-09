@@ -4,7 +4,7 @@ linktitle: get_AbsolutePageNumber
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs::get_AbsolutePageNumber method. The current absolute page number across all documents within the XPS package in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs/get_absolutepagenumber/
 ---
 ## BeforeSavingEventArgs::get_AbsolutePageNumber method

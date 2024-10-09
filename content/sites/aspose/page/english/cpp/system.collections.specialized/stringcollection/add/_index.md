@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::Add method. Adds value to the end of the list in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.collections.specialized/stringcollection/add/
 ---
 ## StringCollection::Add method

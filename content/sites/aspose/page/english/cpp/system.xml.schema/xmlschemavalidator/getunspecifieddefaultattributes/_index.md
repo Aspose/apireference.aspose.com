@@ -4,7 +4,7 @@ linktitle: GetUnspecifiedDefaultAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::GetUnspecifiedDefaultAttributes method. Validates identity constraints on the default attributes and populates the List specified with XmlSchemaAttribute objects for any attributes with default values that have not been previously validated using the XmlSchemaValidator::ValidateAttribute method in the element context in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/system.xml.schema/xmlschemavalidator/getunspecifieddefaultattributes/
 ---
 ## XmlSchemaValidator::GetUnspecifiedDefaultAttributes method

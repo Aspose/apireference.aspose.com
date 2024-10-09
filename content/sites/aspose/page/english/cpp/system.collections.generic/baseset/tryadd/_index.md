@@ -4,7 +4,7 @@ linktitle: TryAdd
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseSet::TryAdd method. Adds element into set in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/system.collections.generic/baseset/tryadd/
 ---
 ## BaseSet::TryAdd method

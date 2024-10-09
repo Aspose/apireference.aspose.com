@@ -4,7 +4,7 @@ linktitle: set_X
 second_title: Aspose.Page for C++
 description: 'System::Drawing::RectangleF::set_X method. Sets the X coordinate of the upper left corner of the rectangle represented by the current object in C++.'
 type: docs
-weight: 700
+weight: 2600
 url: /cpp/system.drawing/rectanglef/set_x/
 ---
 ## RectangleF::set_X method

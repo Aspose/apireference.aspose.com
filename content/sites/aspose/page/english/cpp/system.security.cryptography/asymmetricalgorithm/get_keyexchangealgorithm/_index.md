@@ -4,7 +4,7 @@ linktitle: get_KeyExchangeAlgorithm
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::AsymmetricAlgorithm::get_KeyExchangeAlgorithm method. Gets key exchange algorithm to use in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/system.security.cryptography/asymmetricalgorithm/get_keyexchangealgorithm/
 ---
 ## AsymmetricAlgorithm::get_KeyExchangeAlgorithm method

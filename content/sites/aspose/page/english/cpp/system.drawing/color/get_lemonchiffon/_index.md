@@ -4,7 +4,7 @@ linktitle: get_LemonChiffon
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LemonChiffon method. Returns a color whose ARGB value in hexadecimal notation is #FFFFFACD in C++.'
 type: docs
-weight: 8500
+weight: 8400
 url: /cpp/system.drawing/color/get_lemonchiffon/
 ---
 ## Color::get_LemonChiffon method

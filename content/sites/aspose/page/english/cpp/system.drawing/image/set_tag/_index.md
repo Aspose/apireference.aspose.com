@@ -4,7 +4,7 @@ linktitle: set_Tag
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::set_Tag method. Sets an object that provides additional data about the image in C++.'
 type: docs
-weight: 1400
+weight: 2600
 url: /cpp/system.drawing/image/set_tag/
 ---
 ## Image::set_Tag method

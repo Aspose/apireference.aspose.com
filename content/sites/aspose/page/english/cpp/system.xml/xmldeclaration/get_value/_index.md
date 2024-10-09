@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDeclaration::get_Value method. Returns the value of the XmlDeclaration in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.xml/xmldeclaration/get_value/
 ---
 ## XmlDeclaration::get_Value method

@@ -4,7 +4,7 @@ linktitle: get_MinValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingTotalInkCoverageLimit::get_MinValue method. For integer- or decimal-valued parameters, defines the smallest allowed value in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/get_minvalue/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit::get_MinValue method

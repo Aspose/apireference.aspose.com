@@ -4,7 +4,7 @@ linktitle: get_MediumTurquoise
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_MediumTurquoise method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF48D1CC in C++.'
 type: docs
-weight: 9000
+weight: 8900
 url: /cpp/system.drawing/pens/get_mediumturquoise/
 ---
 ## Pens::get_MediumTurquoise method

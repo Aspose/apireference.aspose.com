@@ -4,7 +4,7 @@ linktitle: ToByte
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToByte method. Converts the value of this instance to an equivalent 8-bit uint32_teger using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system/iconvertible/tobyte/
 ---
 ## IConvertible::ToByte method

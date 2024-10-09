@@ -4,7 +4,7 @@ linktitle: get_Address
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::get_Address method. Gets the endpoint address in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net/ipendpoint/get_address/
 ---
 ## IPEndPoint::get_Address method

@@ -4,7 +4,7 @@ linktitle: get_Location
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::get_Location method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.web.services/webservicebindingattribute/get_location/
 ---
 ## WebServiceBindingAttribute::get_Location method

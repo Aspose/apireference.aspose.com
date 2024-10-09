@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplRefType::GetEnumerator method. IEnumerable.GetEnumerator() implementation Returns an enumerator that iterates through a collection in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/system.collections/ilistimplreftype/getenumerator/
 ---
 ## IListImplRefType::GetEnumerator method

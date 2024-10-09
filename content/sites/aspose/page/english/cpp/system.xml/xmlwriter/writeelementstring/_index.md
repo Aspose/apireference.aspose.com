@@ -2,32 +2,11 @@
 title: System::Xml::XmlWriter::WriteElementString method
 linktitle: WriteElementString
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlWriter::WriteElementString method. Writes an element with the specified local name and value in C++.'
+description: 'System::Xml::XmlWriter::WriteElementString method. Writes an element with the specified local name, namespace URI, and value in C++.'
 type: docs
-weight: 3500
+weight: 1800
 url: /cpp/system.xml/xmlwriter/writeelementstring/
 ---
-## XmlWriter::WriteElementString(const String\&, const String\&) method
-
-
-Writes an element with the specified local name and value.
-
-```cpp
-void System::Xml::XmlWriter::WriteElementString(const String &localName, const String &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| localName | const String\& | The local name of the element. |
-| value | const String\& | The value of the element. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlWriter::WriteElementString(const String\&, const String\&, const String\&) method
 
 
@@ -42,6 +21,27 @@ void System::Xml::XmlWriter::WriteElementString(const String &localName, const S
 | --- | --- | --- |
 | localName | const String\& | The local name of the element. |
 | ns | const String\& | The namespace URI to associate with the element. |
+| value | const String\& | The value of the element. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlWriter::WriteElementString(const String\&, const String\&) method
+
+
+Writes an element with the specified local name and value.
+
+```cpp
+void System::Xml::XmlWriter::WriteElementString(const String &localName, const String &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| localName | const String\& | The local name of the element. |
 | value | const String\& | The value of the element. |
 
 ## See Also

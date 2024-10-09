@@ -4,7 +4,7 @@ linktitle: set_Direction
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeaderAttribute::set_Direction method. Sets the SOAP header direction in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.web.services.protocols/soapheaderattribute/set_direction/
 ---
 ## SoapHeaderAttribute::set_Direction method

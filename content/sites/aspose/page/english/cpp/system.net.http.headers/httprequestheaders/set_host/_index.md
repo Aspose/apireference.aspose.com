@@ -4,7 +4,7 @@ linktitle: set_Host
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_Host method. Sets a value of the ''Host'' header in C++.'
 type: docs
-weight: 1300
+weight: 4000
 url: /cpp/system.net.http.headers/httprequestheaders/set_host/
 ---
 ## HttpRequestHeaders::set_Host method

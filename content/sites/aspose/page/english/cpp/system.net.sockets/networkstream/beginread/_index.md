@@ -4,7 +4,7 @@ linktitle: BeginRead
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::BeginRead method. Initiates an asynchronous read operation in C++.'
 type: docs
-weight: 2000
+weight: 300
 url: /cpp/system.net.sockets/networkstream/beginread/
 ---
 ## NetworkStream::BeginRead method

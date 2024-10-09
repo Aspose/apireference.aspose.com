@@ -4,7 +4,7 @@ linktitle: get_Snow
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Snow method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFFAFA in C++.'
 type: docs
-weight: 12800
+weight: 12700
 url: /cpp/system.drawing/pens/get_snow/
 ---
 ## Pens::get_Snow method

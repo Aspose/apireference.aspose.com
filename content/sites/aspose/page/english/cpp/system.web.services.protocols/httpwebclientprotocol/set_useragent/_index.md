@@ -4,7 +4,7 @@ linktitle: set_UserAgent
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::HttpWebClientProtocol::set_UserAgent method. Sets a value of the ''User-Agent'' header in C++.'
 type: docs
-weight: 1100
+weight: 1400
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_useragent/
 ---
 ## HttpWebClientProtocol::set_UserAgent method

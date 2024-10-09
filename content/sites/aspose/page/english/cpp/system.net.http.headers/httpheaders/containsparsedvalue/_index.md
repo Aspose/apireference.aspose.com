@@ -4,7 +4,7 @@ linktitle: ContainsParsedValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::ContainsParsedValue method. Checks if the header contains the specified value in C++.'
 type: docs
-weight: 1700
+weight: 600
 url: /cpp/system.net.http.headers/httpheaders/containsparsedvalue/
 ---
 ## HttpHeaders::ContainsParsedValue method

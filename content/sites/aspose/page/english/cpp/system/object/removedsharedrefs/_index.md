@@ -4,7 +4,7 @@ linktitle: RemovedSharedRefs
 second_title: Aspose.Page for C++
 description: 'System::Object::RemovedSharedRefs method. Decreases shared reference count by specified value in C++.'
 type: docs
-weight: 600
+weight: 1300
 url: /cpp/system/object/removedsharedrefs/
 ---
 ## Object::RemovedSharedRefs method

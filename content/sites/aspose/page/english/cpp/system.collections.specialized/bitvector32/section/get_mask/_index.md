@@ -4,7 +4,7 @@ linktitle: get_Mask
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::BitVector32::Section::get_Mask method. Gets a mask that isolates this section within the BitVector32 in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.collections.specialized/bitvector32/section/get_mask/
 ---
 ## Section::get_Mask method

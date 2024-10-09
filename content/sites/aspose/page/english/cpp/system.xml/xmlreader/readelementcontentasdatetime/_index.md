@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsDateTime
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsDateTime method. Reads the current element and returns the contents as a DateTime object in C++.'
 type: docs
-weight: 3900
+weight: 5600
 url: /cpp/system.xml/xmlreader/readelementcontentasdatetime/
 ---
 ## XmlReader::ReadElementContentAsDateTime() method

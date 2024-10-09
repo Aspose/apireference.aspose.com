@@ -4,7 +4,7 @@ linktitle: get_IgnoreWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::get_IgnoreWhitespace method. Returns a value indicating whether to ignore insignificant white space in C++.'
 type: docs
-weight: 1600
+weight: 1000
 url: /cpp/system.xml/xmlreadersettings/get_ignorewhitespace/
 ---
 ## XmlReaderSettings::get_IgnoreWhitespace method

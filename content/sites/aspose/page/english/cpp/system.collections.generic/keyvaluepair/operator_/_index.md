@@ -4,7 +4,7 @@ linktitle: operator<
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::KeyValuePair::operator< method. Patch for classes inherited from IComparer<KeyValuePair<TKey, TValue>>, doesn''t compare anything in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.collections.generic/keyvaluepair/operator_/
 ---
 ## KeyValuePair::operator< method

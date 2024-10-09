@@ -4,7 +4,7 @@ linktitle: Connect
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::UdpClient::Connect method. Establishes a connection to the specified port on the specified host in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.net.sockets/udpclient/connect/
 ---
 ## UdpClient::Connect(String, int32_t) method

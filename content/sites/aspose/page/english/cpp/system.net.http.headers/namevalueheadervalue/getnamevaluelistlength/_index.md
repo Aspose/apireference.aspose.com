@@ -4,7 +4,7 @@ linktitle: GetNameValueListLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::NameValueHeaderValue::GetNameValueListLength method. Converts a passed string from the specified index to the collection of the NameValueHeaderValue-class instances and returns the length of a parsed substring in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.net.http.headers/namevalueheadervalue/getnamevaluelistlength/
 ---
 ## NameValueHeaderValue::GetNameValueListLength method

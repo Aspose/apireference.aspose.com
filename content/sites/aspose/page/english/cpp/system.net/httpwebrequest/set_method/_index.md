@@ -4,7 +4,7 @@ linktitle: set_Method
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_Method method. Sets the HTTP method in C++.'
 type: docs
-weight: 2100
+weight: 5000
 url: /cpp/system.net/httpwebrequest/set_method/
 ---
 ## HttpWebRequest::set_Method method

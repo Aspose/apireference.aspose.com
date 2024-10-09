@@ -4,7 +4,7 @@ linktitle: SetDigitSubstitution
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::SetDigitSubstitution method. Sets digit substitution language and method in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.drawing/stringformat/setdigitsubstitution/
 ---
 ## StringFormat::SetDigitSubstitution method

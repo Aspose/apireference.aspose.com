@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageSourceColorProfile::PageSourceColorProfileOption::None field. No source profile in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/pagesourcecolorprofile/pagesourcecolorprofileoption/none/
 ---
 ## None field

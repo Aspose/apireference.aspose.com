@@ -4,7 +4,7 @@ linktitle: ISODLEnvelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISODLEnvelope field. ISODL envelope in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isodlenvelope/
 ---
 ## ISODLEnvelope field

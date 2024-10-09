@@ -4,7 +4,7 @@ linktitle: get_ClusterMap
 second_title: Aspose.Page for C++
 description: 'How to use get_ClusterMap method of Aspose::Page::XPS::XpsModel::XpsGlyphMapping class in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphmapping/get_clustermap/
 ---
 ## XpsGlyphMapping::get_ClusterMap method

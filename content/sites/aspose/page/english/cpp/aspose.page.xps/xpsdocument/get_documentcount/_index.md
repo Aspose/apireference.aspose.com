@@ -4,7 +4,7 @@ linktitle: get_DocumentCount
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::get_DocumentCount method. Returns the number of documents inside the XPS package in C++.'
 type: docs
-weight: 500
+weight: 3300
 url: /cpp/aspose.page.xps/xpsdocument/get_documentcount/
 ---
 ## XpsDocument::get_DocumentCount method

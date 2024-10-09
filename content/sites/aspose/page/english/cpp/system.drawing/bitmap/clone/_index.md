@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::Clone method. Creates a copy of the current object in C++.'
 type: docs
-weight: 1600
+weight: 300
 url: /cpp/system.drawing/bitmap/clone/
 ---
 ## Bitmap::Clone() method

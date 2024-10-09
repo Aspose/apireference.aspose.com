@@ -4,7 +4,7 @@ linktitle: Combine
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::Combine method. Combines the specified path segments into a single path inserting directory separator characters between the segments if necessary in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.io/path/combine/
 ---
 ## Path::Combine(const ArrayPtr\<String\>\&) method

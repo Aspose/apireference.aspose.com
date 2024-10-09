@@ -4,7 +4,7 @@ linktitle: SetMediaSizeWidth
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::SetMediaSizeWidth method. Adds the MediaSizeWidth scored property value in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/setmediasizewidth/
 ---
 ## PageMediaSizeOption::SetMediaSizeWidth method

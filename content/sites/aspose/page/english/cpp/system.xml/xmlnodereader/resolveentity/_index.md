@@ -4,7 +4,7 @@ linktitle: ResolveEntity
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::ResolveEntity method. Resolves the entity reference for EntityReference nodes in C++.'
 type: docs
-weight: 3300
+weight: 3700
 url: /cpp/system.xml/xmlnodereader/resolveentity/
 ---
 ## XmlNodeReader::ResolveEntity method

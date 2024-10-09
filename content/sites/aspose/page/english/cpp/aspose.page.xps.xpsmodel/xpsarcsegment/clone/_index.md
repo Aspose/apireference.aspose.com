@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArcSegment::Clone method. Clones this arc segment in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsarcsegment/clone/
 ---
 ## XpsArcSegment::Clone method

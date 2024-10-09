@@ -4,7 +4,7 @@ linktitle: set_ListSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::set_ListSeparator method. Sets list separator in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/system.globalization/textinfo/set_listseparator/
 ---
 ## TextInfo::set_ListSeparator method

@@ -4,7 +4,7 @@ linktitle: ExportCspBlob
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ICspAsymmetricAlgorithm::ExportCspBlob method. Exports blob with key information in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.security.cryptography/icspasymmetricalgorithm/exportcspblob/
 ---
 ## ICspAsymmetricAlgorithm::ExportCspBlob method

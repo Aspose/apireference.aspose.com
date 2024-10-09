@@ -4,7 +4,7 @@ linktitle: set_Location
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::set_Location method. Sets the location where the binding is defined in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/system.web.services/webservicebindingattribute/set_location/
 ---
 ## WebServiceBindingAttribute::set_Location method

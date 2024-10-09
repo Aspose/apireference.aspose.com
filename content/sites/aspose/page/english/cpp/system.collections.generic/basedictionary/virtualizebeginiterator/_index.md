@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::virtualizeBeginIterator method. Gets the implementation of begin iterator for the current container in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/system.collections.generic/basedictionary/virtualizebeginiterator/
 ---
 ## BaseDictionary::virtualizeBeginIterator method

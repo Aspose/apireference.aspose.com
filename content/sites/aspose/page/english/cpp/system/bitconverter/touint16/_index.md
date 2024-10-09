@@ -4,7 +4,7 @@ linktitle: ToUInt16
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToUInt16 method. Converts two bytes from the specified array starting at the specified index to unsigned 16-bit integer value in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/system/bitconverter/touint16/
 ---
 ## BitConverter::ToUInt16(const System::ArrayPtr\<uint8_t\>\&, int) method

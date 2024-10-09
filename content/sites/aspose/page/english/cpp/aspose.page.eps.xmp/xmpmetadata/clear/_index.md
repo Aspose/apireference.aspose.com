@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::Clear method. Clears metadata in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/clear/
 ---
 ## XmpMetadata::Clear method

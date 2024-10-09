@@ -4,7 +4,7 @@ linktitle: set_Exceptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverterOptions::set_Exceptions method. Returns a list of suppressed conversion errors If SuppressErrors is true in C++.'
 type: docs
-weight: 700
+weight: 1300
 url: /cpp/aspose.page.plugins/psconverteroptions/set_exceptions/
 ---
 ## PsConverterOptions::set_Exceptions method

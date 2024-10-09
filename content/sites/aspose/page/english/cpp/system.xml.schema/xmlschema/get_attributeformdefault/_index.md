@@ -4,7 +4,7 @@ linktitle: get_AttributeFormDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_AttributeFormDefault method. Returns the form for attributes declared in the target namespace of the schema in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschema/get_attributeformdefault/
 ---
 ## XmlSchema::get_AttributeFormDefault method

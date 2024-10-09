@@ -4,7 +4,7 @@ linktitle: get_Extension
 second_title: Aspose.Page for C++
 description: 'System::IO::FileSystemInfo::get_Extension method. Returns the extension of the file represented by the current object in C++.'
 type: docs
-weight: 1600
+weight: 700
 url: /cpp/system.io/filesysteminfo/get_extension/
 ---
 ## FileSystemInfo::get_Extension method

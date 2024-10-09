@@ -4,7 +4,7 @@ linktitle: set_AbbreviatedDayNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_AbbreviatedDayNames method. Sets abbreviated day names in C++.'
 type: docs
-weight: 2200
+weight: 4200
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviateddaynames/
 ---
 ## DateTimeFormatInfo::set_AbbreviatedDayNames method

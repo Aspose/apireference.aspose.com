@@ -21,29 +21,6 @@ System::Func<Args>::Func()
 * Class [Func](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Func::Func(T\&&) constructor
-
-
-Constructor that constructs [Func](../) object and assigns value (either actual callback or nullptr) to it.
-
-```cpp
-template<typename T> System::Func<Args>::Func(T &&arg)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Argument type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg | T\&& | Argument. |
-
-## See Also
-
-* Class [Func](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Func::Func(const Func\&) constructor
 
 
@@ -81,6 +58,29 @@ System::Func<Args>::Func(Func &&func) noexcept
 ## See Also
 
 * Class [Func](../)
+* Class [Func](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Func::Func(T\&&) constructor
+
+
+Constructor that constructs [Func](../) object and assigns value (either actual callback or nullptr) to it.
+
+```cpp
+template<typename T> System::Func<Args>::Func(T &&arg)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Argument type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg | T\&& | Argument. |
+
+## See Also
+
 * Class [Func](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

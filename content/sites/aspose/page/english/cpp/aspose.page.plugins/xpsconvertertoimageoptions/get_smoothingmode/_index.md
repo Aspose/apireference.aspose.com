@@ -4,7 +4,7 @@ linktitle: get_SmoothingMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::XpsConverterToImageOptions::get_SmoothingMode method. Gets/sets the smoothing mode for rendering image in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/aspose.page.plugins/xpsconvertertoimageoptions/get_smoothingmode/
 ---
 ## XpsConverterToImageOptions::get_SmoothingMode method

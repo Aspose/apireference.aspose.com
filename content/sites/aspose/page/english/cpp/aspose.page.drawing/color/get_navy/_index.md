@@ -4,7 +4,7 @@ linktitle: get_Navy
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Navy method. Gets a system-defined color that has an ARGB value of #FF000080 in C++.'
 type: docs
-weight: 9700
+weight: 9800
 url: /cpp/aspose.page.drawing/color/get_navy/
 ---
 ## Color::get_Navy method

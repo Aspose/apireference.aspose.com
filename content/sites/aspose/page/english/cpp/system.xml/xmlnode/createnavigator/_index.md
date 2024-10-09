@@ -4,7 +4,7 @@ linktitle: CreateNavigator
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::CreateNavigator method. Creates an XPathNavigator for navigating this object in C++.'
 type: docs
-weight: 2700
+weight: 400
 url: /cpp/system.xml/xmlnode/createnavigator/
 ---
 ## XmlNode::CreateNavigator method

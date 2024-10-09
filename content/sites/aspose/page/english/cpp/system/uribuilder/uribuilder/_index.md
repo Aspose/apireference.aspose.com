@@ -7,21 +7,6 @@ type: docs
 weight: 100
 url: /cpp/system/uribuilder/uribuilder/
 ---
-## UriBuilder::UriBuilder(const String\&) constructor
-
-
-Constructs a [UriBuilder](../) object that represents that represents the specified URI.
-
-```cpp
-System::UriBuilder::UriBuilder(const String &uri)
-```
-
-## See Also
-
-* Class [String](../../string/)
-* Class [UriBuilder](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## UriBuilder::UriBuilder(const SharedPtr\<Uri\>\&) constructor
 
 
@@ -35,6 +20,21 @@ System::UriBuilder::UriBuilder(const SharedPtr<Uri> &uri)
 
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Uri](../../uri/)
+* Class [UriBuilder](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## UriBuilder::UriBuilder(const String\&) constructor
+
+
+Constructs a [UriBuilder](../) object that represents that represents the specified URI.
+
+```cpp
+System::UriBuilder::UriBuilder(const String &uri)
+```
+
+## See Also
+
+* Class [String](../../string/)
 * Class [UriBuilder](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

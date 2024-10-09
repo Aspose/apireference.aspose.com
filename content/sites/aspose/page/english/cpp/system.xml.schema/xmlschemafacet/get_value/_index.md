@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaFacet::get_Value method. Returns the value attribute of the facet in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemafacet/get_value/
 ---
 ## XmlSchemaFacet::get_Value method

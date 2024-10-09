@@ -4,7 +4,7 @@ linktitle: get_UnderlyingObject
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_UnderlyingObject method. Used by XPathNavigator implementations which provide a "virtualized" XML view over a store, to provide access to underlying objects in C++.'
 type: docs
-weight: 1900
+weight: 2900
 url: /cpp/system.xml.xpath/xpathnavigator/get_underlyingobject/
 ---
 ## XPathNavigator::get_UnderlyingObject method

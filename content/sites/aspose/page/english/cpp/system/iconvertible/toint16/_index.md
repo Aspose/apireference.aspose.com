@@ -4,7 +4,7 @@ linktitle: ToInt16
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToInt16 method. Converts the value of this instance to an equivalent 16-bit signed integer using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system/iconvertible/toint16/
 ---
 ## IConvertible::ToInt16 method

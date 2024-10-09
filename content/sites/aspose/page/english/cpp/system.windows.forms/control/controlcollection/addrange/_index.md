@@ -4,7 +4,7 @@ linktitle: AddRange
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::AddRange method. Adds several controls into collection in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.windows.forms/control/controlcollection/addrange/
 ---
 ## ControlCollection::AddRange method

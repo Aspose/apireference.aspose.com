@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaGroup::get_Name method. Returns the name of the schema group in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemagroup/get_name/
 ---
 ## XmlSchemaGroup::get_Name method

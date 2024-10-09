@@ -4,7 +4,7 @@ linktitle: Connect
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Http::Connect field. The string representation of the ''CONNECT'' method of HTTP in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.net/webrequestmethods/http/connect/
 ---
 ## Connect field

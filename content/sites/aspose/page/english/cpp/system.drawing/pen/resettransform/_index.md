@@ -4,7 +4,7 @@ linktitle: ResetTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::ResetTransform method. Resets the current object''s transform matrix so that it becomes an identity matrix in C++.'
 type: docs
-weight: 3300
+weight: 2000
 url: /cpp/system.drawing/pen/resettransform/
 ---
 ## Pen::ResetTransform method

@@ -4,7 +4,7 @@ linktitle: CreateEncryptor
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::CreateEncryptor method. Creates encryptor with parameters associated with algorithm object in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/system.security.cryptography/symmetricalgorithm/createencryptor/
 ---
 ## SymmetricAlgorithm::CreateEncryptor() method

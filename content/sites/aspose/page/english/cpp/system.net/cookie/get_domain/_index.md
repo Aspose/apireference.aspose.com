@@ -4,7 +4,7 @@ linktitle: get_Domain
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Domain method. Gets the ''Domain'' attribute''s value in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.net/cookie/get_domain/
 ---
 ## Cookie::get_Domain method

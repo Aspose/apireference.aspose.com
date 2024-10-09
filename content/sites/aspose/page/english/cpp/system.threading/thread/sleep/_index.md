@@ -4,7 +4,7 @@ linktitle: Sleep
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::Sleep method. Stops current thread for specified timeout in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/system.threading/thread/sleep/
 ---
 ## Thread::Sleep(int) method

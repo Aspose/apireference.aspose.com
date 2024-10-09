@@ -4,7 +4,7 @@ linktitle: ISOC6Envelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOC6Envelope field. ISOC6 envelope in C++.'
 type: docs
-weight: 4900
+weight: 5100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoc6envelope/
 ---
 ## ISOC6Envelope field

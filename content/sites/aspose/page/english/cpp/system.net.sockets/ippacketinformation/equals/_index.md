@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::IPPacketInformation::Equals method. Compares two objects using C# Object.Equals semantics in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.net.sockets/ippacketinformation/equals/
 ---
 ## IPPacketInformation::Equals method

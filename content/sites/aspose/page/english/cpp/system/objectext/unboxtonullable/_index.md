@@ -4,7 +4,7 @@ linktitle: UnboxToNullable
 second_title: Aspose.Page for C++
 description: 'System::ObjectExt::UnboxToNullable method. Unboxes object to nullable type in C++.'
 type: docs
-weight: 700
+weight: 1600
 url: /cpp/system/objectext/unboxtonullable/
 ---
 ## ObjectExt::UnboxToNullable method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF7Encoding::Clone method. Clones encoding object in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.text/utf7encoding/clone/
 ---
 ## UTF7Encoding::Clone method

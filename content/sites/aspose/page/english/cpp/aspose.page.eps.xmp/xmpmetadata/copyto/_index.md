@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::CopyTo method. Copies elements of the collection into array in C++.'
 type: docs
-weight: 1900
+weight: 700
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/copyto/
 ---
 ## XmpMetadata::CopyTo method

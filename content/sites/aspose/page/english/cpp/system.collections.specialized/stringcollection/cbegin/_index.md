@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::cbegin method. Returns an iterator to the first const-qualified element of the container. If the container is empty, the returned iterator will be equal to cend() in C++.'
 type: docs
-weight: 1800
+weight: 500
 url: /cpp/system.collections.specialized/stringcollection/cbegin/
 ---
 ## StringCollection::cbegin method

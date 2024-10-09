@@ -4,7 +4,7 @@ linktitle: MakeTransparent
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::MakeTransparent method. Changes the color of all pixels with the specified color to transparent in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.drawing/bitmap/maketransparent/
 ---
 ## Bitmap::MakeTransparent method

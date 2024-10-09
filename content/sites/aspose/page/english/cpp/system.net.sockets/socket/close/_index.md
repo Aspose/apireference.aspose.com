@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::Close method. Closes the socket connection in C++.'
 type: docs
-weight: 4600
+weight: 1100
 url: /cpp/system.net.sockets/socket/close/
 ---
 ## Socket::Close() method

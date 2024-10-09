@@ -4,7 +4,7 @@ linktitle: UriSchemeFtp
 second_title: Aspose.Page for C++
 description: 'System::Uri::UriSchemeFtp field. Specifies that the Uri is accessed through the File Transfer Protocol in C++.'
 type: docs
-weight: 4700
+weight: 4800
 url: /cpp/system/uri/urischemeftp/
 ---
 ## UriSchemeFtp field

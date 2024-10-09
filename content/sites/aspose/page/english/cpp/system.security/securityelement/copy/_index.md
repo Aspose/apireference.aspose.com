@@ -4,7 +4,7 @@ linktitle: Copy
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::Copy method. Clones tag in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/system.security/securityelement/copy/
 ---
 ## SecurityElement::Copy method

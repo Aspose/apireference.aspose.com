@@ -4,7 +4,7 @@ linktitle: get_Calendar
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_Calendar method. Gets calendar associated with formatter in C++.'
 type: docs
-weight: 2700
+weight: 700
 url: /cpp/system.globalization/datetimeformatinfo/get_calendar/
 ---
 ## DateTimeFormatInfo::get_Calendar method

@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::GetEnumerator method. Creates enumerator instance, should be implemented by subclass in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/system.collections.generic/basedictionary/getenumerator/
 ---
 ## BaseDictionary::GetEnumerator method

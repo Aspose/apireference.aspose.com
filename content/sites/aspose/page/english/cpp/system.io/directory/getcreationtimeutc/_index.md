@@ -4,7 +4,7 @@ linktitle: GetCreationTimeUtc
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::GetCreationTimeUtc method. Returns the creation time of the specified entity as UTC time in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system.io/directory/getcreationtimeutc/
 ---
 ## Directory::GetCreationTimeUtc method

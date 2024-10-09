@@ -4,7 +4,7 @@ linktitle: Custom
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobPrimaryBannerSheet::BannerSheetOption::Custom field. Specifies a custom banner sheet should be output. If a JobPrimaryBannerSheetSourceParameterInit element is not specified, this Option should be ignored in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/jobprimarybannersheet/bannersheetoption/custom/
 ---
 ## Custom field

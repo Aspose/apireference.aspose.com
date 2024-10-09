@@ -4,7 +4,7 @@ linktitle: get_Rank
 second_title: Aspose.Page for C++
 description: 'System::Array::get_Rank method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2400
+weight: 2000
 url: /cpp/system/array/get_rank/
 ---
 ## Array::get_Rank method

@@ -4,7 +4,7 @@ linktitle: IsDerivedFrom
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDatatype::IsDerivedFrom method. This method always returns false in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.xml.schema/xmlschemadatatype/isderivedfrom/
 ---
 ## XmlSchemaDatatype::IsDerivedFrom method

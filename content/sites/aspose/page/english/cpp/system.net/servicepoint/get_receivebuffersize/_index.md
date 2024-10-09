@@ -4,7 +4,7 @@ linktitle: get_ReceiveBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_ReceiveBufferSize method. Gets the size of the receive buffer in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/system.net/servicepoint/get_receivebuffersize/
 ---
 ## ServicePoint::get_ReceiveBufferSize method

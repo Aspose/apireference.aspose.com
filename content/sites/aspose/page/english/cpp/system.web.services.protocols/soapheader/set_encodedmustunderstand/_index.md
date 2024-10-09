@@ -4,7 +4,7 @@ linktitle: set_EncodedMustUnderstand
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::set_EncodedMustUnderstand method. Sets a value of the ''mustUnderstand'' attribute when SOAP version 1.1 is used in C++.'
 type: docs
-weight: 600
+weight: 1200
 url: /cpp/system.web.services.protocols/soapheader/set_encodedmustunderstand/
 ---
 ## SoapHeader::set_EncodedMustUnderstand method

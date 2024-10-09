@@ -4,7 +4,7 @@ linktitle: set_Namespaces
 second_title: Aspose.Page for C++
 description: 'How to use set_Namespaces method of System::Xml::Serialization::XmlSerializerNamespaces class in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.xml.serialization/xmlserializernamespaces/set_namespaces/
 ---
 ## XmlSerializerNamespaces::set_Namespaces method

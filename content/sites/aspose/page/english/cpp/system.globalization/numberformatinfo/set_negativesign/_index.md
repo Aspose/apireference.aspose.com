@@ -4,7 +4,7 @@ linktitle: set_NegativeSign
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_NegativeSign method. Sets negative sign in C++.'
 type: docs
-weight: 1900
+weight: 4400
 url: /cpp/system.globalization/numberformatinfo/set_negativesign/
 ---
 ## NumberFormatInfo::set_NegativeSign method

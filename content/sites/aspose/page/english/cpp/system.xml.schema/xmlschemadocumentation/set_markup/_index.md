@@ -4,7 +4,7 @@ linktitle: set_Markup
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDocumentation::set_Markup method. Sets an array of XmlNode objects that represents the documentation child nodes in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.xml.schema/xmlschemadocumentation/set_markup/
 ---
 ## XmlSchemaDocumentation::set_Markup method

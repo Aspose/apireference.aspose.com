@@ -4,7 +4,7 @@ linktitle: EncodingMissingIDFaultSubcode
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Code::EncodingMissingIDFaultSubcode field. The string representation of the ''MissingID'' SOAP version 1.2 code in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.web.services/soap12/code/encodingmissingidfaultsubcode/
 ---
 ## EncodingMissingIDFaultSubcode field

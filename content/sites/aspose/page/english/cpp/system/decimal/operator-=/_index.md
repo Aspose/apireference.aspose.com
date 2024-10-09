@@ -4,7 +4,7 @@ linktitle: operator-=
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator-= method. Assigns to the current object a new value that is the result of subtraction of the value represented by the specified object from the value represented by the current object in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/system/decimal/operator-=/
 ---
 ## Decimal::operator-= method

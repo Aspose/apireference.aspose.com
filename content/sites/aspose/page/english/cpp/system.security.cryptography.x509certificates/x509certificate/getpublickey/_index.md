@@ -4,7 +4,7 @@ linktitle: GetPublicKey
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::GetPublicKey method. Gets public key from certificate as array of bytes in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getpublickey/
 ---
 ## X509Certificate::GetPublicKey method

@@ -4,7 +4,7 @@ linktitle: get_FirstChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_FirstChild method. Returns the first child of the node in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/system.xml/xmlnode/get_firstchild/
 ---
 ## XmlNode::get_FirstChild method

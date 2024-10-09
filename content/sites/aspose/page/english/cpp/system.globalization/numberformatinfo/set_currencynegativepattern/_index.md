@@ -4,7 +4,7 @@ linktitle: set_CurrencyNegativePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_CurrencyNegativePattern method. Sets currency negative pattern in C++.'
 type: docs
-weight: 2900
+weight: 3700
 url: /cpp/system.globalization/numberformatinfo/set_currencynegativepattern/
 ---
 ## NumberFormatInfo::set_CurrencyNegativePattern method

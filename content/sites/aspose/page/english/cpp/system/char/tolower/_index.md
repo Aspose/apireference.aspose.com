@@ -4,7 +4,7 @@ linktitle: ToLower
 second_title: Aspose.Page for C++
 description: 'System::Char::ToLower method. Converts the specified character to lower case in C++.'
 type: docs
-weight: 1900
+weight: 2200
 url: /cpp/system/char/tolower/
 ---
 ## Char::ToLower(char_t) method

@@ -4,7 +4,7 @@ linktitle: Or
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Or method. Calculates bitwise ''or'' between two BitSets in C++.'
 type: docs
-weight: 1400
+weight: 1800
 url: /cpp/system.collections/bitarray/or/
 ---
 ## BitArray::Or method

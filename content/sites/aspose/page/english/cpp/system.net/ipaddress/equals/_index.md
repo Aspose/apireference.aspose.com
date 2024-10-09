@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::Equals method. Compares objects using C# Object.Equals semantics in C++.'
 type: docs
-weight: 1200
+weight: 200
 url: /cpp/system.net/ipaddress/equals/
 ---
 ## IPAddress::Equals method

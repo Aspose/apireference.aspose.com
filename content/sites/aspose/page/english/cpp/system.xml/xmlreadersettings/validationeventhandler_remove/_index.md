@@ -4,7 +4,7 @@ linktitle: ValidationEventHandler_remove
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::ValidationEventHandler_remove method. Removes an event handler that occurs when the reader encounters validation errors in C++.'
 type: docs
-weight: 3600
+weight: 3900
 url: /cpp/system.xml/xmlreadersettings/validationeventhandler_remove/
 ---
 ## XmlReaderSettings::ValidationEventHandler_remove method

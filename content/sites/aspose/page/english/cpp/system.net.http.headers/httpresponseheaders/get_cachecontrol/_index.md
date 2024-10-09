@@ -4,7 +4,7 @@ linktitle: get_CacheControl
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_CacheControl method. Gets a value of the ''Cache-Control'' header in C++.'
 type: docs
-weight: 1400
+weight: 500
 url: /cpp/system.net.http.headers/httpresponseheaders/get_cachecontrol/
 ---
 ## HttpResponseHeaders::get_CacheControl method

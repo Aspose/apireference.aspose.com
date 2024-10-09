@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_Version method. Returns the version of the schema in C++.'
 type: docs
-weight: 1100
+weight: 1900
 url: /cpp/system.xml.schema/xmlschema/get_version/
 ---
 ## XmlSchema::get_Version method

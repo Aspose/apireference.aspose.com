@@ -4,7 +4,7 @@ linktitle: WriteCap
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteCap method. Writes out the cap of the stroke in C++.'
 type: docs
-weight: 6700
+weight: 6500
 url: /cpp/aspose.page.eps.device/pdfdevice/writecap/
 ---
 ## PdfDevice::WriteCap method

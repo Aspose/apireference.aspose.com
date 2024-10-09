@@ -4,7 +4,7 @@ linktitle: get_SignatureAlgorithm
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::get_SignatureAlgorithm method. Gets algorithm used to create signature of a certificate in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_signaturealgorithm/
 ---
 ## X509Certificate2::get_SignatureAlgorithm method

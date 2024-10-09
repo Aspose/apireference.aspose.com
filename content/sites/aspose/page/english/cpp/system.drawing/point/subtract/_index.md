@@ -4,7 +4,7 @@ linktitle: Subtract
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::Subtract method. Subtracts the width and height values of the specified Size object from the X and Y coordinates values of the specified Point object correspondingly in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/system.drawing/point/subtract/
 ---
 ## Point::Subtract method

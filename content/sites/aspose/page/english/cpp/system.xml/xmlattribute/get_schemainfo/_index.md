@@ -4,7 +4,7 @@ linktitle: get_SchemaInfo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::get_SchemaInfo method. Returns the post-schema-validation-infoset that has been assigned to this node as a result of schema validation in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.xml/xmlattribute/get_schemainfo/
 ---
 ## XmlAttribute::get_SchemaInfo method

@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Globalization::TextElementEnumerator class in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.globalization/textelementenumerator/operator=/
 ---
 ## TextElementEnumerator::operator= method

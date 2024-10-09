@@ -4,7 +4,7 @@ linktitle: queue_t
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::queue_t typedef. RTTI information in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.collections.generic/queue/queue_t/
 ---
 ## queue_t typedef

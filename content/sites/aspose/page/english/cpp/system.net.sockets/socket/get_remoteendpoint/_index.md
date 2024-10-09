@@ -4,7 +4,7 @@ linktitle: get_RemoteEndPoint
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_RemoteEndPoint method. Returns the remote endpoint in C++.'
 type: docs
-weight: 600
+weight: 3300
 url: /cpp/system.net.sockets/socket/get_remoteendpoint/
 ---
 ## Socket::get_RemoteEndPoint method

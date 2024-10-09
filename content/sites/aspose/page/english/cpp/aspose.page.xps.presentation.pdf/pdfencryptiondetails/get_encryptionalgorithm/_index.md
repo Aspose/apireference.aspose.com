@@ -4,7 +4,7 @@ linktitle: get_EncryptionAlgorithm
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfEncryptionDetails::get_EncryptionAlgorithm method. Gets the encryption mode in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.page.xps.presentation.pdf/pdfencryptiondetails/get_encryptionalgorithm/
 ---
 ## PdfEncryptionDetails::get_EncryptionAlgorithm method

@@ -4,7 +4,7 @@ linktitle: VerifyPublicId
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::VerifyPublicId method. Returns the passed in string instance if all the characters in the string argument are valid public id characters in C++.'
 type: docs
-weight: 1000
+weight: 3200
 url: /cpp/system.xml/xmlconvert/verifypublicid/
 ---
 ## XmlConvert::VerifyPublicId method

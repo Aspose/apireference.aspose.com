@@ -4,7 +4,7 @@ linktitle: XmlDsigC14NTransformUrl
 second_title: Aspose.Page for C++
 description: 'How to use XmlDsigC14NTransformUrl field of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 3400
+weight: 2200
 url: /cpp/system.security.cryptography.xml/signedxml/xmldsigc14ntransformurl/
 ---
 ## XmlDsigC14NTransformUrl field

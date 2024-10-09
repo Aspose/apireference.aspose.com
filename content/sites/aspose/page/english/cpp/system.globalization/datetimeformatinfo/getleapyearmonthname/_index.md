@@ -4,7 +4,7 @@ linktitle: GetLeapYearMonthName
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::GetLeapYearMonthName method. Gets leap-year month name in C++.'
 type: docs
-weight: 5800
+weight: 3700
 url: /cpp/system.globalization/datetimeformatinfo/getleapyearmonthname/
 ---
 ## DateTimeFormatInfo::GetLeapYearMonthName method

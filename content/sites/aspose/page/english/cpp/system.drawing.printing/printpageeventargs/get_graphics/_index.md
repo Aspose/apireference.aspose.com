@@ -4,7 +4,7 @@ linktitle: get_Graphics
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PrintPageEventArgs::get_Graphics method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.drawing.printing/printpageeventargs/get_graphics/
 ---
 ## PrintPageEventArgs::get_Graphics method

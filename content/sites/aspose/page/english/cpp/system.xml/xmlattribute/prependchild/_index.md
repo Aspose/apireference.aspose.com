@@ -4,7 +4,7 @@ linktitle: PrependChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::PrependChild method. Adds the specified node to the beginning of the list of child nodes for this node in C++.'
 type: docs
-weight: 2100
+weight: 1600
 url: /cpp/system.xml/xmlattribute/prependchild/
 ---
 ## XmlAttribute::PrependChild method

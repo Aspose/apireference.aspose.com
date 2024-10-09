@@ -4,7 +4,7 @@ linktitle: LookupNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::LookupNamespace method. Returns the namespace URI for the specified prefix in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.xml/xmlnamespacemanager/lookupnamespace/
 ---
 ## XmlNamespaceManager::LookupNamespace method

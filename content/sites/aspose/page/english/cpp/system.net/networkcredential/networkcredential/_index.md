@@ -4,7 +4,7 @@ linktitle: NetworkCredential
 second_title: Aspose.Page for C++
 description: 'System::Net::NetworkCredential::NetworkCredential constructor. Constructs a new instance in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.net/networkcredential/networkcredential/
 ---
 ## NetworkCredential::NetworkCredential() constructor

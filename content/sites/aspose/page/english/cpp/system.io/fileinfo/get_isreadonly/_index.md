@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::get_IsReadOnly method. Returns a value that indicates if the ReadOnly attribute is set in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/system.io/fileinfo/get_isreadonly/
 ---
 ## FileInfo::get_IsReadOnly method

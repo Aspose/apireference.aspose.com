@@ -7,21 +7,6 @@ type: docs
 weight: 100
 url: /cpp/system/scopedculture/scopedculture/
 ---
-## ScopedCulture::ScopedCulture(const String\&) constructor
-
-
-
-
-```cpp
-System::ScopedCulture::ScopedCulture(const String &culture_name)
-```
-
-## See Also
-
-* Class [String](../../string/)
-* Class [ScopedCulture](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## ScopedCulture::ScopedCulture(const ScopedCulture\&) constructor
 
 
@@ -34,6 +19,21 @@ System::ScopedCulture::ScopedCulture(const ScopedCulture &)=delete
 ## See Also
 
 * Class [ScopedCulture](../)
+* Class [ScopedCulture](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ScopedCulture::ScopedCulture(const String\&) constructor
+
+
+
+
+```cpp
+System::ScopedCulture::ScopedCulture(const String &culture_name)
+```
+
+## See Also
+
+* Class [String](../../string/)
 * Class [ScopedCulture](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

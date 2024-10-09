@@ -4,7 +4,7 @@ linktitle: TryParse
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ViaHeaderValue::TryParse method. Tries to convert a passed string to an instance of the ViaHeaderValue class in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.net.http.headers/viaheadervalue/tryparse/
 ---
 ## ViaHeaderValue::TryParse method

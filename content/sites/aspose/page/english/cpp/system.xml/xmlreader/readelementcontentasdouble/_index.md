@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsDouble
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsDouble method. Reads the current element and returns the contents as a double-precision floating-point number in C++.'
 type: docs
-weight: 4000
+weight: 5800
 url: /cpp/system.xml/xmlreader/readelementcontentasdouble/
 ---
 ## XmlReader::ReadElementContentAsDouble() method

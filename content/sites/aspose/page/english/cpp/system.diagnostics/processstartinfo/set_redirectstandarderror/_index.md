@@ -4,7 +4,7 @@ linktitle: set_RedirectStandardError
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::ProcessStartInfo::set_RedirectStandardError method. Sets RedirectStandardError property in C++.'
 type: docs
-weight: 1300
+weight: 1500
 url: /cpp/system.diagnostics/processstartinfo/set_redirectstandarderror/
 ---
 ## ProcessStartInfo::set_RedirectStandardError method

@@ -4,7 +4,7 @@ linktitle: CreateComment
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateComment method. Creates an XmlComment containing the specified data in C++.'
 type: docs
-weight: 2400
+weight: 500
 url: /cpp/system.xml/xmldocument/createcomment/
 ---
 ## XmlDocument::CreateComment method

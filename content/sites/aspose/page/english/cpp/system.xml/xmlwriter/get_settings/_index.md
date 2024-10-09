@@ -4,7 +4,7 @@ linktitle: get_Settings
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::get_Settings method. Returns the XmlWriterSettings object used to create this XmlWriter instance in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml/xmlwriter/get_settings/
 ---
 ## XmlWriter::get_Settings method

@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlEntityReference::get_Value method. Returns the value of the node in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system.xml/xmlentityreference/get_value/
 ---
 ## XmlEntityReference::get_Value method

@@ -4,7 +4,7 @@ linktitle: SaddleStitch
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Staple::StapleOption::SaddleStitch field. Specifies saddle stitch stapling in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.page.xps.xpsmetadata/staple/stapleoption/saddlestitch/
 ---
 ## SaddleStitch field

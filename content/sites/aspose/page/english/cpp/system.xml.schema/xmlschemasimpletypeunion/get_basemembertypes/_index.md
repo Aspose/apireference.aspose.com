@@ -4,7 +4,7 @@ linktitle: get_BaseMemberTypes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeUnion::get_BaseMemberTypes method. Returns an array of XmlSchemaSimpleType objects representing the type of the simpleType element based on the XmlSchemaSimpleTypeUnion::get_BaseTypes and XmlSchemaSimpleTypeUnion::get_MemberTypes values of the simple type in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.xml.schema/xmlschemasimpletypeunion/get_basemembertypes/
 ---
 ## XmlSchemaSimpleTypeUnion::get_BaseMemberTypes method

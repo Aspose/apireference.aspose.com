@@ -4,7 +4,7 @@ linktitle: get_Purple
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Purple method. Returns a color whose ARGB value in hexadecimal notation is #FF800080 in C++.'
 type: docs
-weight: 13500
+weight: 13400
 url: /cpp/system.drawing/color/get_purple/
 ---
 ## Color::get_Purple method

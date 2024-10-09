@@ -4,7 +4,7 @@ linktitle: get_IsEncrypted
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::AuthenticatedStream::get_IsEncrypted method. Returns a value that indicates if the data sent using this stream is encrypted in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.net.security/authenticatedstream/get_isencrypted/
 ---
 ## AuthenticatedStream::get_IsEncrypted method

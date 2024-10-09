@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'System::BoxedValue::GetHashCode method. Returns a hash code for the current object in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system/boxedvalue/gethashcode/
 ---
 ## BoxedValue::GetHashCode method

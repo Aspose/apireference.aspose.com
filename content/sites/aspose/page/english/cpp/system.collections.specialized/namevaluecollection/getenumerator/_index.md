@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::GetEnumerator method. Gets enumerator to iterate through collection in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.collections.specialized/namevaluecollection/getenumerator/
 ---
 ## NameValueCollection::GetEnumerator method

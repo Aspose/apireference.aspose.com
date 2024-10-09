@@ -4,7 +4,7 @@ linktitle: set_SendBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_SendBufferSize method. Sets the send buffer size in C++.'
 type: docs
-weight: 1900
+weight: 5900
 url: /cpp/system.net.sockets/socket/set_sendbuffersize/
 ---
 ## Socket::set_SendBufferSize method

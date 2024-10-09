@@ -4,7 +4,7 @@ linktitle: operator+=
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator+= method. Assigns to the current object a new value that is a sum of values represented by the current and specified objects in C++.'
 type: docs
-weight: 2000
+weight: 1700
 url: /cpp/system/decimal/operator+=/
 ---
 ## Decimal::operator+= method

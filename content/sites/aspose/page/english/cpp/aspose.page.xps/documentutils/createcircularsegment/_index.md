@@ -4,7 +4,7 @@ linktitle: CreateCircularSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreateCircularSegment method. Creates a path geometry representing a circular segment between two angles in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.page.xps/documentutils/createcircularsegment/
 ---
 ## DocumentUtils::CreateCircularSegment method

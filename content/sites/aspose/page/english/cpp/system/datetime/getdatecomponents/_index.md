@@ -4,7 +4,7 @@ linktitle: GetDateComponents
 second_title: Aspose.Page for C++
 description: 'System::DateTime::GetDateComponents method. Gets date parts. FOR INTERNAL USE in C++.'
 type: docs
-weight: 1100
+weight: 2600
 url: /cpp/system/datetime/getdatecomponents/
 ---
 ## DateTime::GetDateComponents method

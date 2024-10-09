@@ -4,7 +4,7 @@ linktitle: RpcNamespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::RpcNamespace field. The value of the ''xmlns:rpc'' attribute in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.web.services/soap12/rpcnamespace/
 ---
 ## RpcNamespace field

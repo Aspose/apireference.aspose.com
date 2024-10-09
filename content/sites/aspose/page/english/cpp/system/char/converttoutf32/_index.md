@@ -4,7 +4,7 @@ linktitle: ConvertToUtf32
 second_title: Aspose.Page for C++
 description: 'System::Char::ConvertToUtf32 method. Converts the specified UTF-16 surrogate pair into UTF-32 code unit in C++.'
 type: docs
-weight: 2300
+weight: 200
 url: /cpp/system/char/converttoutf32/
 ---
 ## Char::ConvertToUtf32(char_t, char_t) method

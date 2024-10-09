@@ -4,7 +4,7 @@ linktitle: EndRead
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::EndRead method. Waits until the specified asynchronous read operation completes in C++.'
 type: docs
-weight: 1200
+weight: 600
 url: /cpp/system.io/stream/endread/
 ---
 ## Stream::EndRead method

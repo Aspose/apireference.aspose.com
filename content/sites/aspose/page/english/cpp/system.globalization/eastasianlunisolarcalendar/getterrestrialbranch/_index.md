@@ -4,7 +4,7 @@ linktitle: GetTerrestrialBranch
 second_title: Aspose.Page for C++
 description: 'System::Globalization::EastAsianLunisolarCalendar::GetTerrestrialBranch method. Gets terrestrial branch in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.globalization/eastasianlunisolarcalendar/getterrestrialbranch/
 ---
 ## EastAsianLunisolarCalendar::GetTerrestrialBranch method

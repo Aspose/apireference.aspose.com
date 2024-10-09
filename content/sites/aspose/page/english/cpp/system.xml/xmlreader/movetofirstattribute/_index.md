@@ -4,7 +4,7 @@ linktitle: MoveToFirstAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::MoveToFirstAttribute method. When overridden in a derived class, moves to the first attribute in C++.'
 type: docs
-weight: 5000
+weight: 3500
 url: /cpp/system.xml/xmlreader/movetofirstattribute/
 ---
 ## XmlReader::MoveToFirstAttribute method

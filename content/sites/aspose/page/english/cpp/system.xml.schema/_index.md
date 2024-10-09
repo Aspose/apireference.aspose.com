@@ -4,7 +4,7 @@ linktitle: System::Xml::Schema
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::Schema namespace in C++.'
 type: docs
-weight: 7500
+weight: 7600
 url: /cpp/system.xml.schema/
 ---
 
@@ -104,7 +104,7 @@ url: /cpp/system.xml.schema/
 
 | Typedef | Description |
 | --- | --- |
-| [XmlSchemaInferenceException](./xmlschemainferenceexception/) |  |
 | [ValidationEventHandler](./validationeventhandler/) | Represents the callback method that will handle XML schema validation events and the [ValidationEventArgs](./validationeventargs/). |
 | [XmlSchemaException](./xmlschemaexception/) |  |
+| [XmlSchemaInferenceException](./xmlschemainferenceexception/) |  |
 | [XmlValueGetter](./xmlvaluegetter/) | A callback used by the [XmlSchemaValidator](./xmlschemavalidator/) class to pass attribute, text,and white space values as a run-time type compatible with the XML [Schema](./) Definition Language (XSD) type of the attribute, text, or white space. |

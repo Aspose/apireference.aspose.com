@@ -4,7 +4,7 @@ linktitle: SetLength
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSTDIStreamWrapper::SetLength method. Sets the length of the stream represented by the current object. Not supported! in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.io/basicstdistreamwrapper/setlength/
 ---
 ## BasicSTDIStreamWrapper::SetLength method

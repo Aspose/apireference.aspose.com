@@ -4,7 +4,7 @@ linktitle: get_Groups
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::Match::get_Groups method. Gets group list in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.text.regularexpressions/match/get_groups/
 ---
 ## Match::get_Groups method

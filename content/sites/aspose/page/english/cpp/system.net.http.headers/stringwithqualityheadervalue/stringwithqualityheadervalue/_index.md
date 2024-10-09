@@ -4,7 +4,7 @@ linktitle: StringWithQualityHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::StringWithQualityHeaderValue::StringWithQualityHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.http.headers/stringwithqualityheadervalue/stringwithqualityheadervalue/
 ---
 ## StringWithQualityHeaderValue::StringWithQualityHeaderValue(String) constructor

@@ -4,7 +4,7 @@ linktitle: AppendFile
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Ftp::AppendFile field. The string representation of the ''APPE'' method of FTP in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.net/webrequestmethods/ftp/appendfile/
 ---
 ## AppendFile field

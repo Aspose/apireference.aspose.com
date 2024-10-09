@@ -4,7 +4,7 @@ linktitle: GetType
 second_title: Aspose.Page for C++
 description: 'System::Object::GetType method. Gets actual type of object. Analog of C# System.Object.GetType() call in C++.'
 type: docs
-weight: 1700
+weight: 700
 url: /cpp/system/object/gettype/
 ---
 ## Object::GetType method

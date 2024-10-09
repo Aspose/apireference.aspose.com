@@ -4,7 +4,7 @@ linktitle: LineJoin
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LineJoin enum. Specifies how consequent lines or curves are joined in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system.drawing.drawing2d/linejoin/
 ---
 ## LineJoin enum

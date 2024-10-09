@@ -4,7 +4,7 @@ linktitle: get_Coral
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Coral method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF7F50 in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/system.drawing/pens/get_coral/
 ---
 ## Pens::get_Coral method

@@ -4,7 +4,7 @@ linktitle: get_CanRead
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::get_CanRead method. Checks if stream is readable in C++.'
 type: docs
-weight: 1200
+weight: 500
 url: /cpp/system.security.cryptography/cryptostream/get_canread/
 ---
 ## CryptoStream::get_CanRead method

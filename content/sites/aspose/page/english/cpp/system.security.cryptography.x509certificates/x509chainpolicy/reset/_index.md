@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'How to use Reset method of System::Security::Cryptography::X509Certificates::X509ChainPolicy class in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/reset/
 ---
 ## X509ChainPolicy::Reset method

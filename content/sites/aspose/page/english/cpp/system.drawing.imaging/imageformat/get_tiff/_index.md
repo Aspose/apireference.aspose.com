@@ -4,7 +4,7 @@ linktitle: get_Tiff
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageFormat::get_Tiff method. Returns a shared pointer to an ImageFormat object that represents the Tagged Image File Format (TIFF) image format in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.drawing.imaging/imageformat/get_tiff/
 ---
 ## ImageFormat::get_Tiff method

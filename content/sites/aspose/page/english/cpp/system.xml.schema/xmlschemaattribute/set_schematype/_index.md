@@ -4,7 +4,7 @@ linktitle: set_SchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::set_SchemaType method. Sets the attribute type to a simple type in C++.'
 type: docs
-weight: 1400
+weight: 1800
 url: /cpp/system.xml.schema/xmlschemaattribute/set_schematype/
 ---
 ## XmlSchemaAttribute::set_SchemaType method

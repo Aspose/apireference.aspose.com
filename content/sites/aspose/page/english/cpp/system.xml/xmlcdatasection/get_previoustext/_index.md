@@ -4,7 +4,7 @@ linktitle: get_PreviousText
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCDataSection::get_PreviousText method. Returns the text node that immediately precedes this node in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.xml/xmlcdatasection/get_previoustext/
 ---
 ## XmlCDataSection::get_PreviousText method

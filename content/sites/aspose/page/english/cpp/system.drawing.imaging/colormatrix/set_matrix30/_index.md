@@ -4,7 +4,7 @@ linktitle: set_Matrix30
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix30 method. Sets a value in the 3-rd row and 0-th column in C++.'
 type: docs
-weight: 3500
+weight: 4400
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix30/
 ---
 ## ColorMatrix::set_Matrix30 method

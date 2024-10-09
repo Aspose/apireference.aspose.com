@@ -4,7 +4,7 @@ linktitle: RemoveAll
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::RemoveAll method. Removes all the child nodes and/or attributes of the current node in C++.'
 type: docs
-weight: 4300
+weight: 3500
 url: /cpp/system.xml/xmlnode/removeall/
 ---
 ## XmlNode::RemoveAll method

@@ -2,11 +2,34 @@
 title: System::Char::IsLetter method
 linktitle: IsLetter
 second_title: Aspose.Page for C++
-description: 'System::Char::IsLetter method. Determines whether the character at the specified index in the specified character buffer is classified as Unicode letter in C++.'
+description: 'System::Char::IsLetter method. Determines whether the specified character is classified as Unicode letter in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/char/isletter/
 ---
+## Char::IsLetter(char_t) method
+
+
+Determines whether the specified character is classified as Unicode letter.
+
+```cpp
+static bool System::Char::IsLetter(char_t c)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | char_t | The character to test |
+
+### ReturnValue
+
+True if the specified character is Unicode letter, otherwise - false
+
+## See Also
+
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Char::IsLetter(const char_t *, int) method
 
 
@@ -25,29 +48,6 @@ static bool System::Char::IsLetter(const char_t *str, int idx)
 ### ReturnValue
 
 True if the character at the specified index is Unicode letter, otherwise - false
-
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Char::IsLetter(char_t) method
-
-
-Determines whether the specified character is classified as Unicode letter.
-
-```cpp
-static bool System::Char::IsLetter(char_t c)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | char_t | The character to test |
-
-### ReturnValue
-
-True if the specified character is Unicode letter, otherwise - false
 
 ## See Also
 

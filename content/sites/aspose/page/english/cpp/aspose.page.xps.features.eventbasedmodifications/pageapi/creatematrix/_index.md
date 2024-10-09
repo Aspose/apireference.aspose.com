@@ -4,7 +4,7 @@ linktitle: CreateMatrix
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateMatrix method. Creates a new affine transformation matrix in C++.'
 type: docs
-weight: 2100
+weight: 1300
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/creatematrix/
 ---
 ## PageAPI::CreateMatrix method

@@ -4,7 +4,7 @@ linktitle: RotateTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::RotateTransform method. Applies the specified rotation to the world transformation matrix of the current Graphics object in the specified order in C++.'
 type: docs
-weight: 6600
+weight: 7100
 url: /cpp/system.drawing/graphics/rotatetransform/
 ---
 ## Graphics::RotateTransform method

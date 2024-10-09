@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Guid::Equals method. Determines if the GUIDs represented by the current and specified objects are equal in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system/guid/equals/
 ---
 ## Guid::Equals method

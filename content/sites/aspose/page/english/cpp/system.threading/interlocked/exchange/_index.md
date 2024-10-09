@@ -4,7 +4,7 @@ linktitle: Exchange
 second_title: Aspose.Page for C++
 description: 'System::Threading::Interlocked::Exchange method. Exchanges value on variable: stores new value and returns the value variable had immediately before storing in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.threading/interlocked/exchange/
 ---
 ## Interlocked::Exchange(T\&, T) method

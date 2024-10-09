@@ -4,7 +4,7 @@ linktitle: RemoveSpecialValue
 second_title: Aspose.Page for C++
 description: 'How to use RemoveSpecialValue method of System::Net::Http::Headers::HttpHeaderValueCollection< System::String > class in C++.'
 type: docs
-weight: 1600
+weight: 1300
 url: /cpp/system.net.http.headers/string_/removespecialvalue/
 ---
 ## String >::RemoveSpecialValue method

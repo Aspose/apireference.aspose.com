@@ -4,7 +4,7 @@ linktitle: set_Annotation
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInclude::set_Annotation method. Sets the annotation value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml.schema/xmlschemainclude/set_annotation/
 ---
 ## XmlSchemaInclude::set_Annotation method

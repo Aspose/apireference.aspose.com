@@ -4,7 +4,7 @@ linktitle: Interrupt
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::Interrupt method. Interrupt thread. Not implemented in C++.'
 type: docs
-weight: 1900
+weight: 1300
 url: /cpp/system.threading/thread/interrupt/
 ---
 ## Thread::Interrupt method

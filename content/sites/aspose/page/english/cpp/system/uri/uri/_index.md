@@ -2,11 +2,80 @@
 title: System::Uri::Uri constructor
 linktitle: Uri
 second_title: Aspose.Page for C++
-description: 'System::Uri::Uri constructor. Constructs a Uri object that represents the specified URI in C++.'
+description: 'System::Uri::Uri constructor. Constructs an Uri abject from the specified base and relative URIs in C++.'
 type: docs
-weight: 2300
+weight: 100
 url: /cpp/system/uri/uri/
 ---
+## Uri::Uri(const SharedPtr\<Uri\>\&, const SharedPtr\<Uri\>\&) constructor
+
+
+Constructs an [Uri](../) abject from the specified base and relative URIs.
+
+```cpp
+System::Uri::Uri(const SharedPtr<Uri> &baseUri, const SharedPtr<Uri> &relativeUri)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| baseUri | const SharedPtr\<Uri\>\& | The base URI |
+| relativeUri | const SharedPtr\<Uri\>\& | The relative URI that is added to the base URI |
+
+## See Also
+
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Uri](../)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Uri::Uri(const SharedPtr\<Uri\>\&, const String\&) constructor
+
+
+Constructs an [Uri](../) abject from the specified base and relative URIs.
+
+```cpp
+System::Uri::Uri(const SharedPtr<Uri> &baseUri, const String &relativeUri)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| baseUri | const SharedPtr\<Uri\>\& | The base URI |
+| relativeUri | const String\& | The relative URI that is added to the base URI |
+
+## See Also
+
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Uri](../)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Uri::Uri(const SharedPtr\<Uri\>\&, const String\&, bool) constructor
+
+
+Constructs an [Uri](../) abject from the specified [Uri](../) object representing the base URI and the string representation of relative URI; an argument specifies if the URI should be escaped.
+
+```cpp
+System::Uri::Uri(const SharedPtr<Uri> &baseUri, const String &relativeUri, bool dontEscape)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| baseUri | const SharedPtr\<Uri\>\& | The base URI |
+| relativeUri | const String\& | The relative URI that is added to the base URI |
+| dontEscape | bool | Specifies if the URI should not be escaped |
+
+## See Also
+
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Uri](../)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Uri::Uri(const String\&) constructor
 
 
@@ -48,30 +117,6 @@ System::Uri::Uri(const String &uriString, bool dontEscape)
 * Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Uri::Uri(const SharedPtr\<Uri\>\&, const String\&, bool) constructor
-
-
-Constructs an [Uri](../) abject from the specified [Uri](../) object representing the base URI and the string representation of relative URI; an argument specifies if the URI should be escaped.
-
-```cpp
-System::Uri::Uri(const SharedPtr<Uri> &baseUri, const String &relativeUri, bool dontEscape)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| baseUri | const SharedPtr\<Uri\>\& | The base URI |
-| relativeUri | const String\& | The relative URI that is added to the base URI |
-| dontEscape | bool | Specifies if the URI should not be escaped |
-
-## See Also
-
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../)
-* Class [String](../../string/)
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Uri::Uri(const String\&, UriKind) constructor
 
 
@@ -91,51 +136,6 @@ System::Uri::Uri(const String &uriString, UriKind uriKind)
 
 * Class [String](../../string/)
 * Enum [UriKind](../../urikind/)
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Uri::Uri(const SharedPtr\<Uri\>\&, const String\&) constructor
-
-
-Constructs an [Uri](../) abject from the specified base and relative URIs.
-
-```cpp
-System::Uri::Uri(const SharedPtr<Uri> &baseUri, const String &relativeUri)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| baseUri | const SharedPtr\<Uri\>\& | The base URI |
-| relativeUri | const String\& | The relative URI that is added to the base URI |
-
-## See Also
-
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../)
-* Class [String](../../string/)
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Uri::Uri(const SharedPtr\<Uri\>\&, const SharedPtr\<Uri\>\&) constructor
-
-
-Constructs an [Uri](../) abject from the specified base and relative URIs.
-
-```cpp
-System::Uri::Uri(const SharedPtr<Uri> &baseUri, const SharedPtr<Uri> &relativeUri)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| baseUri | const SharedPtr\<Uri\>\& | The base URI |
-| relativeUri | const SharedPtr\<Uri\>\& | The relative URI that is added to the base URI |
-
-## See Also
-
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../)
 * Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

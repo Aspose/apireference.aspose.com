@@ -4,7 +4,7 @@ linktitle: Convert
 second_title: Aspose.Page for C++
 description: 'System::Text::ICUEncoder::Convert method. Converts characters to bytes in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.text/icuencoder/convert/
 ---
 ## ICUEncoder::Convert(ArrayPtr\<char_t\>, int, int, ArrayPtr\<uint8_t\>, int, int, bool, int\&, int\&, bool\&) method

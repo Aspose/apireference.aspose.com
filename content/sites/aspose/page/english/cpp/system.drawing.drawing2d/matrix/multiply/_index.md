@@ -4,7 +4,7 @@ linktitle: Multiply
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::Multiply method. Multiplies the matrix represented by the current object by the specified matrix in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.drawing.drawing2d/matrix/multiply/
 ---
 ## Matrix::Multiply(const SharedPtr\<Matrix\>\&) method

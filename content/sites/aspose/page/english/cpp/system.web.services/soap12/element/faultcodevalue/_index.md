@@ -4,7 +4,7 @@ linktitle: FaultCodeValue
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Element::FaultCodeValue field. The string representation of the ''Value'' element name in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.web.services/soap12/element/faultcodevalue/
 ---
 ## FaultCodeValue field

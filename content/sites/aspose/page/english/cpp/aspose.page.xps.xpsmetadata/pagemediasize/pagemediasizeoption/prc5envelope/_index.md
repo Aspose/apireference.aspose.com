@@ -4,7 +4,7 @@ linktitle: PRC5Envelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::PRC5Envelope field. PRC envelope in C++.'
 type: docs
-weight: 13900
+weight: 15600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/prc5envelope/
 ---
 ## PRC5Envelope field

@@ -4,7 +4,7 @@ linktitle: PrependChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::PrependChild method. Returns an XmlWriter object used to create a new child node at the beginning of the list of child nodes of the current node in C++.'
 type: docs
-weight: 6800
+weight: 6600
 url: /cpp/system.xml.xpath/xpathnavigator/prependchild/
 ---
 ## XPathNavigator::PrependChild() method
@@ -25,26 +25,6 @@ An [XmlWriter](../../../system.xml/xmlwriter/) object used to create a new child
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Page for C++](../../../)
-## XPathNavigator::PrependChild(String) method
-
-
-Creates a new child node at the beginning of the list of child nodes of the current node using the XML string specified.
-
-```cpp
-virtual void System::Xml::XPath::XPathNavigator::PrependChild(String newChild)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newChild | String | The XML data string for the new child node. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -87,6 +67,26 @@ virtual void System::Xml::XPath::XPathNavigator::PrependChild(SharedPtr<XPathNav
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XPathNavigator](../)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)
+## XPathNavigator::PrependChild(String) method
+
+
+Creates a new child node at the beginning of the list of child nodes of the current node using the XML string specified.
+
+```cpp
+virtual void System::Xml::XPath::XPathNavigator::PrependChild(String newChild)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newChild | String | The XML data string for the new child node. |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: get_White
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_White method. Gets a system-defined color that has an ARGB value of #FFFFFFFF in C++.'
 type: docs
-weight: 13800
+weight: 14000
 url: /cpp/aspose.page.drawing/color/get_white/
 ---
 ## Color::get_White method

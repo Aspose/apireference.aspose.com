@@ -4,7 +4,7 @@ linktitle: set_Timeout
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::set_Timeout method. Sets the timespan to wait before the request times out in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.web.services.protocols/webclientprotocol/set_timeout/
 ---
 ## WebClientProtocol::set_Timeout method

@@ -2,11 +2,34 @@
 title: System::Char::IsNumber method
 linktitle: IsNumber
 second_title: Aspose.Page for C++
-description: 'System::Char::IsNumber method. Determines whether the character at the specified index in the specified character buffer is classified as a number in C++.'
+description: 'System::Char::IsNumber method. Determines whether the specified character is classified as a number in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/system/char/isnumber/
 ---
+## Char::IsNumber(char_t) method
+
+
+Determines whether the specified character is classified as a number.
+
+```cpp
+static bool System::Char::IsNumber(char_t c)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | char_t | The character to test |
+
+### ReturnValue
+
+True if the specified character is a number, otherwise - false
+
+## See Also
+
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Char::IsNumber(const char_t *, int) method
 
 
@@ -25,29 +48,6 @@ static bool System::Char::IsNumber(const char_t *str, int idx)
 ### ReturnValue
 
 True if the character at the specified index is a number, otherwise - false
-
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Char::IsNumber(char_t) method
-
-
-Determines whether the specified character is classified as a number.
-
-```cpp
-static bool System::Char::IsNumber(char_t c)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | char_t | The character to test |
-
-### ReturnValue
-
-True if the specified character is a number, otherwise - false
 
 ## See Also
 

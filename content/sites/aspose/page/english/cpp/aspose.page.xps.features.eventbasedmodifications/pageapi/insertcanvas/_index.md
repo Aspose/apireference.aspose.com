@@ -4,7 +4,7 @@ linktitle: InsertCanvas
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertCanvas method. Inserts a new canvas to the page at index  position in C++.'
 type: docs
-weight: 1400
+weight: 2900
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/insertcanvas/
 ---
 ## PageAPI::InsertCanvas method

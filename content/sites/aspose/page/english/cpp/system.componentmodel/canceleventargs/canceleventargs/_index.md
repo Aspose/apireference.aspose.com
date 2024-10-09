@@ -2,11 +2,25 @@
 title: System::ComponentModel::CancelEventArgs::CancelEventArgs constructor
 linktitle: CancelEventArgs
 second_title: Aspose.Page for C++
-description: 'System::ComponentModel::CancelEventArgs::CancelEventArgs constructor. RTTI information in C++.'
+description: 'System::ComponentModel::CancelEventArgs::CancelEventArgs constructor. Constructor; sets Cancel property to false in C++.'
 type: docs
 weight: 100
 url: /cpp/system.componentmodel/canceleventargs/canceleventargs/
 ---
+## CancelEventArgs::CancelEventArgs() constructor
+
+
+Constructor; sets Cancel property to false.
+
+```cpp
+System::ComponentModel::CancelEventArgs::CancelEventArgs()
+```
+
+## See Also
+
+* Class [CancelEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)
 ## CancelEventArgs::CancelEventArgs(bool) constructor
 
 
@@ -24,20 +38,6 @@ System::ComponentModel::CancelEventArgs::CancelEventArgs(bool cancel)
 
 
 Constructor. 
-## See Also
-
-* Class [CancelEventArgs](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Page for C++](../../../)
-## CancelEventArgs::CancelEventArgs() constructor
-
-
-Constructor; sets Cancel property to false.
-
-```cpp
-System::ComponentModel::CancelEventArgs::CancelEventArgs()
-```
-
 ## See Also
 
 * Class [CancelEventArgs](../)

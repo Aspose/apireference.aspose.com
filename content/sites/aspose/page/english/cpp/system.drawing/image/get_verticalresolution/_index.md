@@ -4,7 +4,7 @@ linktitle: get_VerticalResolution
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_VerticalResolution method. Returns the vertical resolution of the image represented by the current object in pixels per inch in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.drawing/image/get_verticalresolution/
 ---
 ## Image::get_VerticalResolution method

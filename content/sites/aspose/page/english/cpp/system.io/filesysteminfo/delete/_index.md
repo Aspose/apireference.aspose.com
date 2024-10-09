@@ -4,7 +4,7 @@ linktitle: Delete
 second_title: Aspose.Page for C++
 description: 'System::IO::FileSystemInfo::Delete method. Deletes the entity represented by the current object in C++.'
 type: docs
-weight: 1900
+weight: 100
 url: /cpp/system.io/filesysteminfo/delete/
 ---
 ## FileSystemInfo::Delete method

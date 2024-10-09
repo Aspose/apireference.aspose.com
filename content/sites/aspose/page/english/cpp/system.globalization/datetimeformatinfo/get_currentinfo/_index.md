@@ -4,7 +4,7 @@ linktitle: get_CurrentInfo
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_CurrentInfo method. Gets current thread''s date and time formatter in C++.'
 type: docs
-weight: 6500
+weight: 6400
 url: /cpp/system.globalization/datetimeformatinfo/get_currentinfo/
 ---
 ## DateTimeFormatInfo::get_CurrentInfo method

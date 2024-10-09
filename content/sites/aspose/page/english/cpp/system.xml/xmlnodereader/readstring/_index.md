@@ -4,7 +4,7 @@ linktitle: ReadString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::ReadString method. Reads the contents of an element or text node as a string in C++.'
 type: docs
-weight: 3100
+weight: 3600
 url: /cpp/system.xml/xmlnodereader/readstring/
 ---
 ## XmlNodeReader::ReadString method

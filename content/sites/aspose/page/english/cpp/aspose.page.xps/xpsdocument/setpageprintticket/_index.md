@@ -4,7 +4,7 @@ linktitle: SetPagePrintTicket
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::SetPagePrintTicket method. Links the printTicket  to the page indexed by pageIndex  in the document indexed by documentIndex  in C++.'
 type: docs
-weight: 2200
+weight: 6200
 url: /cpp/aspose.page.xps/xpsdocument/setpageprintticket/
 ---
 ## XpsDocument::SetPagePrintTicket method

@@ -4,7 +4,7 @@ linktitle: GetInterfaces
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::GetInterfaces method. Gets all the interfaces implemented or inherited by the current Type in C++.'
 type: docs
-weight: 2600
+weight: 3500
 url: /cpp/system/typeinfo/getinterfaces/
 ---
 ## TypeInfo::GetInterfaces method

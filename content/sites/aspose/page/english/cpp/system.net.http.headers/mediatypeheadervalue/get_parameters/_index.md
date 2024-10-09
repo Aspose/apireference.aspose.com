@@ -4,7 +4,7 @@ linktitle: get_Parameters
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::MediaTypeHeaderValue::get_Parameters method. Returns the value parameters of the media-type header in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.net.http.headers/mediatypeheadervalue/get_parameters/
 ---
 ## MediaTypeHeaderValue::get_Parameters method

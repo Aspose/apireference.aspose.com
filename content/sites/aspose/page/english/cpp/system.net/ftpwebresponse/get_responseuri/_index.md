@@ -4,7 +4,7 @@ linktitle: get_ResponseUri
 second_title: Aspose.Page for C++
 description: 'System::Net::FtpWebResponse::get_ResponseUri method. Not implemented in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.net/ftpwebresponse/get_responseuri/
 ---
 ## FtpWebResponse::get_ResponseUri method

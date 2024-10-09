@@ -4,7 +4,7 @@ linktitle: SetFooter
 second_title: Aspose.Page for C++
 description: 'How to use SetFooter method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 4200
+weight: 5400
 url: /cpp/aspose.page.eps.device/pdfdevice/setfooter/
 ---
 ## PdfDevice::SetFooter method

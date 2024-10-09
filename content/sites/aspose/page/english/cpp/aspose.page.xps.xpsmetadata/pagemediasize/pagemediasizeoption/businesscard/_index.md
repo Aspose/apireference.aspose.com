@@ -4,7 +4,7 @@ linktitle: BusinessCard
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::BusinessCard field. Business Card in C++.'
 type: docs
-weight: 17500
+weight: 600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/businesscard/
 ---
 ## BusinessCard field

@@ -4,7 +4,7 @@ linktitle: get_Referer
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::get_Referer method. Gets a value of the ''Referer'' header in C++.'
 type: docs
-weight: 5500
+weight: 2600
 url: /cpp/system.net/httpwebrequest/get_referer/
 ---
 ## HttpWebRequest::get_Referer method

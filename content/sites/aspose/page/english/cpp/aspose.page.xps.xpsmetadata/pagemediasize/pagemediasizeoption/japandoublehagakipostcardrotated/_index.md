@@ -4,7 +4,7 @@ linktitle: JapanDoubleHagakiPostcardRotated
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JapanDoubleHagakiPostcardRotated field. Japan Double Hagaki Postcard rotated in C++.'
 type: docs
-weight: 16000
+weight: 6400
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/japandoublehagakipostcardrotated/
 ---
 ## JapanDoubleHagakiPostcardRotated field

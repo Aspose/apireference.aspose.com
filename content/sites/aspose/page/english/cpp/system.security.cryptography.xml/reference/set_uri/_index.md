@@ -4,7 +4,7 @@ linktitle: set_Uri
 second_title: Aspose.Page for C++
 description: 'How to use set_Uri method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 400
+weight: 1600
 url: /cpp/system.security.cryptography.xml/reference/set_uri/
 ---
 ## Reference::set_Uri method

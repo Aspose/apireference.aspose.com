@@ -4,7 +4,7 @@ linktitle: set_SchemaElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::set_SchemaElement method. Sets the compiled XmlSchemaElement object that corresponds to this validated XML node in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/system.xml.schema/xmlschemainfo/set_schemaelement/
 ---
 ## XmlSchemaInfo::set_SchemaElement method

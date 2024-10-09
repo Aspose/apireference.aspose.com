@@ -4,7 +4,7 @@ linktitle: XmlNamespaceManager
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::XmlNamespaceManager constructor. Initializes a new instance of the XmlNamespaceManager class with the specified XmlNameTable in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml/xmlnamespacemanager/xmlnamespacemanager/
 ---
 ## XmlNamespaceManager::XmlNamespaceManager constructor

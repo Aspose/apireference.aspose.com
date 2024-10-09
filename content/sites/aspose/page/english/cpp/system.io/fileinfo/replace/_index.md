@@ -4,7 +4,7 @@ linktitle: Replace
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::Replace method. Replaces the contents of a specified destination file with the file represented by the current FileInfo object and creates a backup of the replaced file in C++.'
 type: docs
-weight: 1100
+weight: 2000
 url: /cpp/system.io/fileinfo/replace/
 ---
 ## FileInfo::Replace(const String\&, const String\&) method

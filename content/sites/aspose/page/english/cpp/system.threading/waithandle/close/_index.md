@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Threading::WaitHandle::Close method. Releases any resource associated with handle in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.threading/waithandle/close/
 ---
 ## WaitHandle::Close method

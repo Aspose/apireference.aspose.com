@@ -4,7 +4,7 @@ linktitle: CreateDecryptor
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::CreateDecryptor method. Creates decryptor with parameters associated with algorithm object in C++.'
 type: docs
-weight: 1600
+weight: 100
 url: /cpp/system.security.cryptography/symmetricalgorithm/createdecryptor/
 ---
 ## SymmetricAlgorithm::CreateDecryptor() method

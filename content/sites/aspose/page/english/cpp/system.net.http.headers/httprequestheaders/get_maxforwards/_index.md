@@ -4,7 +4,7 @@ linktitle: get_MaxForwards
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_MaxForwards method. Gets a value of the ''Max-Forwards'' header in C++.'
 type: docs
-weight: 2200
+weight: 2100
 url: /cpp/system.net.http.headers/httprequestheaders/get_maxforwards/
 ---
 ## HttpRequestHeaders::get_MaxForwards method

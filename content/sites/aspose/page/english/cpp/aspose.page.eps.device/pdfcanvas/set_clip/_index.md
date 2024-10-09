@@ -4,7 +4,7 @@ linktitle: set_Clip
 second_title: Aspose.Page for C++
 description: 'How to use set_Clip method of Aspose::Page::EPS::Device::PdfCanvas class in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.page.eps.device/pdfcanvas/set_clip/
 ---
 ## PdfCanvas::set_Clip method

@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Array::CopyTo method. Copies all elements of the current array to the specified destination array. Elements are inserted into destination array starting at index specified by arrayIndex argument in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system/array/copyto/
 ---
 ## Array::CopyTo(ArrayPtr\<T\>, int) method
@@ -53,30 +53,6 @@ template<typename DstType> void System::Array<T>::CopyTo(const ArrayPtr<DstType>
 * Class [Array](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Array::CopyTo(const System::Details::ArrayView\<DstType\>\&, int64_t) const method
-
-
-Copies all elements of the current array to the specified destination array view. Elements are inserted into the destination array view starting at index specified by dstIndex argument.
-
-```cpp
-template<typename DstType> void System::Array<T>::CopyTo(const System::Details::ArrayView<DstType> &dstArray, int64_t dstIndex) const
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| DstType | Type of elements in destination array view |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| dstArray | const System::Details::ArrayView\<DstType\>\& | Destination array view |
-| dstIndex | int64_t | Index in destination array view to start inserting copied items at |
-
-## See Also
-
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Array::CopyTo(const ArrayPtr\<DstType\>\&, int64_t, int64_t, int64_t) const method
 
 
@@ -101,6 +77,30 @@ template<typename DstType> void System::Array<T>::CopyTo(const ArrayPtr<DstType>
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Array::CopyTo(const System::Details::ArrayView\<DstType\>\&, int64_t) const method
+
+
+Copies all elements of the current array to the specified destination array view. Elements are inserted into the destination array view starting at index specified by dstIndex argument.
+
+```cpp
+template<typename DstType> void System::Array<T>::CopyTo(const System::Details::ArrayView<DstType> &dstArray, int64_t dstIndex) const
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| DstType | Type of elements in destination array view |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| dstArray | const System::Details::ArrayView\<DstType\>\& | Destination array view |
+| dstIndex | int64_t | Index in destination array view to start inserting copied items at |
+
+## See Also
+
 * Class [Array](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

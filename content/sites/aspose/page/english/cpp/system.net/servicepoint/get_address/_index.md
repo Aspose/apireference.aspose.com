@@ -4,7 +4,7 @@ linktitle: get_Address
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_Address method. Returns the server URI to which the current instance connects in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.net/servicepoint/get_address/
 ---
 ## ServicePoint::get_Address method

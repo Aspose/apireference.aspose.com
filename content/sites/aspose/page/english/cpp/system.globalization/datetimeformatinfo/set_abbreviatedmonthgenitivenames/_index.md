@@ -4,7 +4,7 @@ linktitle: set_AbbreviatedMonthGenitiveNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_AbbreviatedMonthGenitiveNames method. Sets abbreviated month names in genitive form in C++.'
 type: docs
-weight: 2400
+weight: 4300
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviatedmonthgenitivenames/
 ---
 ## DateTimeFormatInfo::set_AbbreviatedMonthGenitiveNames method

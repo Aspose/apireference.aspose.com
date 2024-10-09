@@ -4,7 +4,7 @@ linktitle: traits_type
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSystemOStreamWrapper::traits_type typedef of System::IO::BasicSystemOStreamWrapper class in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.io/basicsystemostreamwrapper/traits_type/
 ---
 ## traits_type typedef

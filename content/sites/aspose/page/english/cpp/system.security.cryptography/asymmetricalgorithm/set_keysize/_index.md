@@ -4,7 +4,7 @@ linktitle: set_KeySize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::AsymmetricAlgorithm::set_KeySize method. Sets key size in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.security.cryptography/asymmetricalgorithm/set_keysize/
 ---
 ## AsymmetricAlgorithm::set_KeySize method

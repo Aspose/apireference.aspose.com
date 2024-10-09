@@ -4,7 +4,7 @@ linktitle: set_Use
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Use method. Sets a value that determines the message encoding method in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_use/
 ---
 ## SoapDocumentMethodAttribute::set_Use method

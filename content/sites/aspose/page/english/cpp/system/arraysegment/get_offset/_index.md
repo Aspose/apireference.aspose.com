@@ -4,7 +4,7 @@ linktitle: get_Offset
 second_title: Aspose.Page for C++
 description: 'How to use get_Offset method of System::ArraySegment class in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system/arraysegment/get_offset/
 ---
 ## ArraySegment::get_Offset method

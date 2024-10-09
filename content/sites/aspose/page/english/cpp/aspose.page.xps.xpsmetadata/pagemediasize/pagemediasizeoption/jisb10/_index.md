@@ -4,7 +4,7 @@ linktitle: JISB10
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JISB10 field. JISB10 in C++.'
 type: docs
-weight: 6000
+weight: 8200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/jisb10/
 ---
 ## JISB10 field

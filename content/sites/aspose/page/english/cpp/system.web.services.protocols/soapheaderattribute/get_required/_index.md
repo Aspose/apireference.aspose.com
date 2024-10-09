@@ -4,7 +4,7 @@ linktitle: get_Required
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeaderAttribute::get_Required method. Gets a value that indicates if the SOAP header must be understood and processed by the recipient XML Web service or XML Web service client in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.web.services.protocols/soapheaderattribute/get_required/
 ---
 ## SoapHeaderAttribute::get_Required method

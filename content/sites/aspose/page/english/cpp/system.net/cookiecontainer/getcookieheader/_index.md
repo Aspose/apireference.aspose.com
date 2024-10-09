@@ -4,7 +4,7 @@ linktitle: GetCookieHeader
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::GetCookieHeader method. Return an HTTP header that contains cookies associated with the specified URI in C++.'
 type: docs
-weight: 1400
+weight: 800
 url: /cpp/system.net/cookiecontainer/getcookieheader/
 ---
 ## CookieContainer::GetCookieHeader(System::SharedPtr\<Uri\>) method

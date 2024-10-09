@@ -4,7 +4,7 @@ linktitle: get_Orchid
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Orchid method. Gets a system-defined color that has an ARGB value of #FFDA70D6 in C++.'
 type: docs
-weight: 10300
+weight: 10400
 url: /cpp/aspose.page.drawing/color/get_orchid/
 ---
 ## Color::get_Orchid method

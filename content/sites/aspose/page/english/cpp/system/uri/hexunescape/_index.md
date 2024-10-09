@@ -4,7 +4,7 @@ linktitle: HexUnescape
 second_title: Aspose.Page for C++
 description: 'System::Uri::HexUnescape method. Converts the specified hexadecimal representation of a character to a character in C++.'
 type: docs
-weight: 3500
+weight: 4000
 url: /cpp/system/uri/hexunescape/
 ---
 ## Uri::HexUnescape method

@@ -4,7 +4,7 @@ linktitle: get_IsString
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::StreamResult::get_IsString method. Indicates whether the result is a string in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.plugins/streamresult/get_isstring/
 ---
 ## StreamResult::get_IsString method

@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::get_Data method. Returns the data of the node in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.xml/xmlcharacterdata/get_data/
 ---
 ## XmlCharacterData::get_Data method

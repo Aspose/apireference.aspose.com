@@ -4,7 +4,7 @@ linktitle: AddMilliseconds
 second_title: Aspose.Page for C++
 description: 'System::DateTime::AddMilliseconds method. Returns a new instance of the DateTime class representing the date and time value which is the sum of the value represented by the current object and the specified number of milliseconds in C++.'
 type: docs
-weight: 2400
+weight: 500
 url: /cpp/system/datetime/addmilliseconds/
 ---
 ## DateTime::AddMilliseconds method

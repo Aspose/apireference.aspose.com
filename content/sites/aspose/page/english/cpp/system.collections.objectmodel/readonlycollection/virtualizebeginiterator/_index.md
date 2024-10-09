@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::virtualizeBeginIterator method. Gets the implementation of begin iterator for the current container in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.collections.objectmodel/readonlycollection/virtualizebeginiterator/
 ---
 ## ReadOnlyCollection::virtualizeBeginIterator method

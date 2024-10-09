@@ -2,39 +2,11 @@
 title: System::PrintTo method
 linktitle: PrintTo
 second_title: Aspose.Page for C++
-description: 'System::PrintTo method. Prints value to ostream. Mostly used for debug in C++.'
+description: 'System::PrintTo method. Writes the value represented by the specified object to the specified output stream in C++.'
 type: docs
-weight: 18700
+weight: 31400
 url: /cpp/system/printto/
 ---
-## System::PrintTo(DateTime, std::ostream *) method
-
-
-Prints value to ostream. Mostly used for debug.
-
-```cpp
-void System::PrintTo(DateTime value, std::ostream *stream)
-```
-
-## See Also
-
-* Class [DateTime](../datetime/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::PrintTo(DateTimeOffset, std::ostream *) method
-
-
-Prints value to ostream. Mostly used for debug.
-
-```cpp
-void System::PrintTo(DateTimeOffset value, std::ostream *stream)
-```
-
-## See Also
-
-* Class [DateTimeOffset](../datetimeoffset/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
 ## System::PrintTo(const Decimal\&, ::std::ostream *) method
 
 
@@ -110,20 +82,6 @@ template<typename T> void System::PrintTo(const Nullable<T> &value, std::ostream
 * Class [Nullable](../nullable/)
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
-## System::PrintTo(const System::Object\&, std::ostream *) method
-
-
-Prints value to ostream. Mostly used for debug.
-
-```cpp
-void System::PrintTo(const System::Object &value, std::ostream *stream)
-```
-
-## See Also
-
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
 ## System::PrintTo(const SmartPtr\<T\>\&, std::ostream *) method
 
 
@@ -152,6 +110,20 @@ template<typename T> std::enable_if_t<!detail::has_print_to_function<T>::value, 
 * Class [SmartPtr](../smartptr/)
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
+## System::PrintTo(const System::Object\&, std::ostream *) method
+
+
+Prints value to ostream. Mostly used for debug.
+
+```cpp
+void System::PrintTo(const System::Object &value, std::ostream *stream)
+```
+
+## See Also
+
+* Class [Object](../object/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
 ## System::PrintTo(const System::String\&, std::ostream *) method
 
 
@@ -172,20 +144,6 @@ void System::PrintTo(const System::String &value, std::ostream *os)
 * Class [String](../string/)
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
-## System::PrintTo(TimeSpan, std::ostream *) method
-
-
-Prints value to ostream. Mostly used for debug.
-
-```cpp
-void System::PrintTo(TimeSpan value, std::ostream *stream)
-```
-
-## See Also
-
-* Class [TimeSpan](../timespan/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
 ## System::PrintTo(const WeakPtr\<T\>\&, std::ostream *) method
 
 
@@ -198,5 +156,47 @@ template<typename T> void System::PrintTo(const WeakPtr<T> &object_ptr, std::ost
 ## See Also
 
 * Class [WeakPtr](../weakptr/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::PrintTo(DateTime, std::ostream *) method
+
+
+Prints value to ostream. Mostly used for debug.
+
+```cpp
+void System::PrintTo(DateTime value, std::ostream *stream)
+```
+
+## See Also
+
+* Class [DateTime](../datetime/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::PrintTo(DateTimeOffset, std::ostream *) method
+
+
+Prints value to ostream. Mostly used for debug.
+
+```cpp
+void System::PrintTo(DateTimeOffset value, std::ostream *stream)
+```
+
+## See Also
+
+* Class [DateTimeOffset](../datetimeoffset/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::PrintTo(TimeSpan, std::ostream *) method
+
+
+Prints value to ostream. Mostly used for debug.
+
+```cpp
+void System::PrintTo(TimeSpan value, std::ostream *stream)
+```
+
+## See Also
+
+* Class [TimeSpan](../timespan/)
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)

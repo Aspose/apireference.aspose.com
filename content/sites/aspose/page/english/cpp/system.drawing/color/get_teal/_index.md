@@ -4,7 +4,7 @@ linktitle: get_Teal
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Teal method. Returns a color whose ARGB value in hexadecimal notation is #FF008080 in C++.'
 type: docs
-weight: 15300
+weight: 15200
 url: /cpp/system.drawing/color/get_teal/
 ---
 ## Color::get_Teal method

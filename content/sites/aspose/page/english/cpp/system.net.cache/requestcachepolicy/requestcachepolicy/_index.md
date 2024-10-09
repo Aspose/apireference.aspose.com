@@ -4,7 +4,7 @@ linktitle: RequestCachePolicy
 second_title: Aspose.Page for C++
 description: 'System::Net::Cache::RequestCachePolicy::RequestCachePolicy constructor. Constructs a new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.net.cache/requestcachepolicy/requestcachepolicy/
 ---
 ## RequestCachePolicy::RequestCachePolicy() constructor

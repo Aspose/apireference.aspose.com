@@ -2,59 +2,11 @@
 title: System::SmartPtr::operator= method
 linktitle: operator=
 second_title: Aspose.Page for C++
-description: 'System::SmartPtr::operator= method. Move-assigns SmartPtr object. x becomes unusable in C++.'
+description: 'System::SmartPtr::operator= method. Copy-assigns SmartPtr object. Does required type conversions in C++.'
 type: docs
-weight: 300
+weight: 2800
 url: /cpp/system/smartptr/operator=/
 ---
-## SmartPtr::operator=(SmartPtr_\&&) method
-
-
-Move-assigns [SmartPtr](../) object. x becomes unusable.
-
-```cpp
-SmartPtr_ & System::SmartPtr<T>::operator=(SmartPtr_ &&x) noexcept
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | SmartPtr_\&& | Pointer to move-assign. |
-
-### ReturnValue
-
-Reference to this object.
-
-## See Also
-
-* Typedef [SmartPtr_](../smartptr_/)
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## SmartPtr::operator=(const SmartPtr_\&) method
-
-
-Copy-assigns [SmartPtr](../) object.
-
-```cpp
-SmartPtr_ & System::SmartPtr<T>::operator=(const SmartPtr_ &x)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | const SmartPtr_\& | Pointer to copy-assign. |
-
-### ReturnValue
-
-Reference to this object.
-
-## See Also
-
-* Typedef [SmartPtr_](../smartptr_/)
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## SmartPtr::operator=(const SmartPtr\<Q\>\&) method
 
 
@@ -84,6 +36,30 @@ Reference to this object.
 * Class [SmartPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## SmartPtr::operator=(const SmartPtr_\&) method
+
+
+Copy-assigns [SmartPtr](../) object.
+
+```cpp
+SmartPtr_ & System::SmartPtr<T>::operator=(const SmartPtr_ &x)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | const SmartPtr_\& | Pointer to copy-assign. |
+
+### ReturnValue
+
+Reference to this object.
+
+## See Also
+
+* Typedef [SmartPtr_](../smartptr_/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## SmartPtr::operator=(Pointee_ *) method
 
 
@@ -106,6 +82,30 @@ Reference to this object.
 
 * Typedef [SmartPtr_](../smartptr_/)
 * Typedef [Pointee_](../pointee_/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## SmartPtr::operator=(SmartPtr_\&&) method
+
+
+Move-assigns [SmartPtr](../) object. x becomes unusable.
+
+```cpp
+SmartPtr_ & System::SmartPtr<T>::operator=(SmartPtr_ &&x) noexcept
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | SmartPtr_\&& | Pointer to move-assign. |
+
+### ReturnValue
+
+Reference to this object.
+
+## See Also
+
+* Typedef [SmartPtr_](../smartptr_/)
 * Class [SmartPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

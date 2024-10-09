@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::Close method. Closes the stream in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.io/stream/close/
 ---
 ## Stream::Close method

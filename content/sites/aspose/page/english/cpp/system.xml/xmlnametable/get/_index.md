@@ -4,7 +4,7 @@ linktitle: Get
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNameTable::Get method. When overridden in a derived class, gets the atomized string containing the same characters as the specified range of characters in the given array in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml/xmlnametable/get/
 ---
 ## XmlNameTable::Get(const ArrayPtr\<char16_t\>\&, int32_t, int32_t) method

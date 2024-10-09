@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Globalization::CompareInfo class in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/system.globalization/compareinfo/operator=/
 ---
 ## CompareInfo::operator= method

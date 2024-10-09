@@ -2,32 +2,27 @@
 title: System::Xml::XmlTextReader::MoveToAttribute method
 linktitle: MoveToAttribute
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlTextReader::MoveToAttribute method. Moves to the attribute with the specified name in C++.'
+description: 'System::Xml::XmlTextReader::MoveToAttribute method. Moves to the attribute with the specified index in C++.'
 type: docs
-weight: 4000
+weight: 3800
 url: /cpp/system.xml/xmltextreader/movetoattribute/
 ---
-## XmlTextReader::MoveToAttribute(String) method
+## XmlTextReader::MoveToAttribute(int32_t) method
 
 
-Moves to the attribute with the specified name.
+Moves to the attribute with the specified index.
 
 ```cpp
-bool System::Xml::XmlTextReader::MoveToAttribute(String name) override
+void System::Xml::XmlTextReader::MoveToAttribute(int32_t i) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The qualified name of the attribute. |
-
-### ReturnValue
-
-**true** if the attribute is found; otherwise, **false**. If **false**, the reader's position does not change.
+| i | int32_t | The index of the attribute. |
 
 ## See Also
 
-* Class [String](../../../system/string/)
 * Class [XmlTextReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -56,22 +51,27 @@ bool System::Xml::XmlTextReader::MoveToAttribute(String localName, String namesp
 * Class [XmlTextReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
-## XmlTextReader::MoveToAttribute(int32_t) method
+## XmlTextReader::MoveToAttribute(String) method
 
 
-Moves to the attribute with the specified index.
+Moves to the attribute with the specified name.
 
 ```cpp
-void System::Xml::XmlTextReader::MoveToAttribute(int32_t i) override
+bool System::Xml::XmlTextReader::MoveToAttribute(String name) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| i | int32_t | The index of the attribute. |
+| name | String | The qualified name of the attribute. |
+
+### ReturnValue
+
+**true** if the attribute is found; otherwise, **false**. If **false**, the reader's position does not change.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmlTextReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

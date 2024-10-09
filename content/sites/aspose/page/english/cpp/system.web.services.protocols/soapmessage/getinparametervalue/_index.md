@@ -4,7 +4,7 @@ linktitle: GetInParameterValue
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::GetInParameterValue method. Gets the input parameter value at the specified index in C++.'
 type: docs
-weight: 2000
+weight: 1600
 url: /cpp/system.web.services.protocols/soapmessage/getinparametervalue/
 ---
 ## SoapMessage::GetInParameterValue method

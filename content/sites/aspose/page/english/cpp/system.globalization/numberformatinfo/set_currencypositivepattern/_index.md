@@ -4,7 +4,7 @@ linktitle: set_CurrencyPositivePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_CurrencyPositivePattern method. Sets currency positive pattern in C++.'
 type: docs
-weight: 3100
+weight: 3800
 url: /cpp/system.globalization/numberformatinfo/set_currencypositivepattern/
 ---
 ## NumberFormatInfo::set_CurrencyPositivePattern method

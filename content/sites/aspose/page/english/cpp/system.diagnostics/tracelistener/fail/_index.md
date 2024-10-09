@@ -4,7 +4,7 @@ linktitle: Fail
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::TraceListener::Fail method. Writes failure message to debugger in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.diagnostics/tracelistener/fail/
 ---
 ## TraceListener::Fail(System::String) method

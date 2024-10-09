@@ -4,7 +4,7 @@ linktitle: virtualizeEndConstIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::virtualizeEndConstIterator method. Gets the implementation of end const iterator for the current container in C++.'
 type: docs
-weight: 2000
+weight: 1900
 url: /cpp/system.collections.specialized/namevaluecollection/virtualizeendconstiterator/
 ---
 ## NameValueCollection::virtualizeEndConstIterator method

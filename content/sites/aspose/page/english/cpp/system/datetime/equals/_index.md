@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::DateTime::Equals method. Determines if the specified instance of DateTime class represent the same date and time value as the current object in C++.'
 type: docs
-weight: 3600
+weight: 1200
 url: /cpp/system/datetime/equals/
 ---
 ## DateTime::Equals(DateTime) const method

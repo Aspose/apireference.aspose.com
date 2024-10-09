@@ -4,7 +4,7 @@ linktitle: Resolve
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::Resolve method. Creates a new IPHostEntry-class instance using the specified host name in C++.'
 type: docs
-weight: 400
+weight: 1400
 url: /cpp/system.net/dns/resolve/
 ---
 ## Dns::Resolve method

@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::operator[] method. Accessor function in C++.'
 type: docs
-weight: 300
+weight: 1700
 url: /cpp/system.collections/bitarray/operator[]/
 ---
 ## BitArray::operator[] method

@@ -4,7 +4,7 @@ linktitle: GetPreamble
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF8Encoding::GetPreamble method. Get codepage preamble in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.text/utf8encoding/getpreamble/
 ---
 ## UTF8Encoding::GetPreamble method

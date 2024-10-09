@@ -4,7 +4,7 @@ linktitle: get_Elements
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_Elements method. Returns the post-schema-compilation value for all the elements in the schema in C++.'
 type: docs
-weight: 1900
+weight: 800
 url: /cpp/system.xml.schema/xmlschema/get_elements/
 ---
 ## XmlSchema::get_Elements method

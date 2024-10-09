@@ -4,7 +4,7 @@ linktitle: AddRange
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::AddRange method. Add elements into container in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.collections.specialized/stringcollection/addrange/
 ---
 ## StringCollection::AddRange method

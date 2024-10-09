@@ -4,7 +4,7 @@ linktitle: get_NamespaceURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::get_NamespaceURI method. Returns the namespace URI of this node in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.xml/xmlelement/get_namespaceuri/
 ---
 ## XmlElement::get_NamespaceURI method

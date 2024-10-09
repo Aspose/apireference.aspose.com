@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Xml::Resolvers::XmlPreloadedResolver::Add method. Adds a byte array to the XmlPreloadedResolver store and maps it to a URI. If the store already contains a mapping for the same URI, the existing mapping is overridden in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/add/
 ---
 ## XmlPreloadedResolver::Add(const SharedPtr\<Uri\>\&, const ArrayPtr\<uint8_t\>\&) method

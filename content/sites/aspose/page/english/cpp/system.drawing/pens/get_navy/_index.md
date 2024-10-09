@@ -4,7 +4,7 @@ linktitle: get_Navy
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Navy method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF000080 in C++.'
 type: docs
-weight: 9700
+weight: 9600
 url: /cpp/system.drawing/pens/get_navy/
 ---
 ## Pens::get_Navy method

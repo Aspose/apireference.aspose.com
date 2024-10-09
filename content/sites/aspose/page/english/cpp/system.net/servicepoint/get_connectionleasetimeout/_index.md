@@ -4,7 +4,7 @@ linktitle: get_ConnectionLeaseTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_ConnectionLeaseTimeout method. Gets a timeout in milliseconds after which active ServicePoint will be closed in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.net/servicepoint/get_connectionleasetimeout/
 ---
 ## ServicePoint::get_ConnectionLeaseTimeout method

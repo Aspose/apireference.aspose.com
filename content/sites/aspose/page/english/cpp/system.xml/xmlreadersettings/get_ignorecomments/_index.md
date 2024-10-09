@@ -4,7 +4,7 @@ linktitle: get_IgnoreComments
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::get_IgnoreComments method. Returns a value indicating whether to ignore comments in C++.'
 type: docs
-weight: 2000
+weight: 800
 url: /cpp/system.xml/xmlreadersettings/get_ignorecomments/
 ---
 ## XmlReaderSettings::get_IgnoreComments method

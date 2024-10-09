@@ -4,7 +4,7 @@ linktitle: get_PathFigures
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathGeometry::get_PathFigures method. Returns list of child path figures in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/get_pathfigures/
 ---
 ## XpsPathGeometry::get_PathFigures method

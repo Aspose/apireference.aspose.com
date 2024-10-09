@@ -4,7 +4,7 @@ linktitle: get_Values
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectTable::get_Values method. Returns a collection of all the values for all the elements in the XmlSchemaObjectTable in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaobjecttable/get_values/
 ---
 ## XmlSchemaObjectTable::get_Values method

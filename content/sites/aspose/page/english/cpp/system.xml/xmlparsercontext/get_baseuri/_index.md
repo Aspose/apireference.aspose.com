@@ -4,7 +4,7 @@ linktitle: get_BaseURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::get_BaseURI method. Returns the base URI in C++.'
 type: docs
-weight: 1100
+weight: 200
 url: /cpp/system.xml/xmlparsercontext/get_baseuri/
 ---
 ## XmlParserContext::get_BaseURI method

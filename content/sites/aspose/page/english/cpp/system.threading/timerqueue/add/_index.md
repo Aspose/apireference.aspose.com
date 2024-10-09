@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Threading::TimerQueue::Add method. Registers timer in queue in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.threading/timerqueue/add/
 ---
 ## TimerQueue::Add method

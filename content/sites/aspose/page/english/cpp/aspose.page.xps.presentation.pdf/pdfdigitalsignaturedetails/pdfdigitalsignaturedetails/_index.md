@@ -4,7 +4,7 @@ linktitle: PdfDigitalSignatureDetails
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails constructor. Initializes a new instance of the PdfDigitalSignatureDetails class in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/aspose.page.xps.presentation.pdf/pdfdigitalsignaturedetails/pdfdigitalsignaturedetails/
 ---
 ## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails constructor

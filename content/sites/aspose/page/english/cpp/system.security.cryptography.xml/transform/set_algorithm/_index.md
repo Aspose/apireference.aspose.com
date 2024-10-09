@@ -4,7 +4,7 @@ linktitle: set_Algorithm
 second_title: Aspose.Page for C++
 description: 'How to use set_Algorithm method of System::Security::Cryptography::Xml::Transform class in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.security.cryptography.xml/transform/set_algorithm/
 ---
 ## Transform::set_Algorithm method

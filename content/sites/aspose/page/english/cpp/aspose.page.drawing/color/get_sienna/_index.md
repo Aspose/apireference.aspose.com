@@ -4,7 +4,7 @@ linktitle: get_Sienna
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Sienna method. Gets a system-defined color that has an ARGB value of #FFA0522D in C++.'
 type: docs
-weight: 12300
+weight: 12400
 url: /cpp/aspose.page.drawing/color/get_sienna/
 ---
 ## Color::get_Sienna method

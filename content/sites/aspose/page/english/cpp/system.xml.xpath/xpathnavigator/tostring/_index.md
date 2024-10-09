@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::ToString method. Returns the text value of the current node in C++.'
 type: docs
-weight: 8200
+weight: 8000
 url: /cpp/system.xml.xpath/xpathnavigator/tostring/
 ---
 ## XPathNavigator::ToString method

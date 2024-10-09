@@ -4,7 +4,7 @@ linktitle: set_ItemType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeList::set_ItemType method. Sets the simpleType element that is derived from the type specified by the base value in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/set_itemtype/
 ---
 ## XmlSchemaSimpleTypeList::set_ItemType method

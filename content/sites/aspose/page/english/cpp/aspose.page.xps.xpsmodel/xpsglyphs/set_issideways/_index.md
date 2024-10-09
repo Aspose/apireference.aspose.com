@@ -4,7 +4,7 @@ linktitle: set_IsSideways
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs::set_IsSideways method. Returns/sets the value indicating that a glyph is turned on its side, with the origin being defined as the top center of the unturned glyph in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/set_issideways/
 ---
 ## XpsGlyphs::set_IsSideways method

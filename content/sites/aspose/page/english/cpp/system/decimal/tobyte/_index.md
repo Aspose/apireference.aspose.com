@@ -4,7 +4,7 @@ linktitle: ToByte
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToByte method. Converts the Decimal value to unsigned 8-bit integer value in C++.'
 type: docs
-weight: 5000
+weight: 4600
 url: /cpp/system/decimal/tobyte/
 ---
 ## Decimal::ToByte method

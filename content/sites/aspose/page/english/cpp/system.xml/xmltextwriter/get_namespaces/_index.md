@@ -4,7 +4,7 @@ linktitle: get_Namespaces
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::get_Namespaces method. Returns a value indicating whether to do namespace support in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.xml/xmltextwriter/get_namespaces/
 ---
 ## XmlTextWriter::get_Namespaces method

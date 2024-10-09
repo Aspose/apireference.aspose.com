@@ -4,7 +4,7 @@ linktitle: operator Size
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::operator Size method. Constructs an instance of Size object and initializes its width and height values with X and Y coordinates values represented by the current object correspondingly in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system.drawing/point/operatorsize/
 ---
 ## Point::operator Size method

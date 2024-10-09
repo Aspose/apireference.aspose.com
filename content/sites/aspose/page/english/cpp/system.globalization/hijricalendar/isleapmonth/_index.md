@@ -7,6 +7,30 @@ type: docs
 weight: 1100
 url: /cpp/system.globalization/hijricalendar/isleapmonth/
 ---
+## HijriCalendar::IsLeapMonth(int, int) const method
+
+
+Checks if the month is leap.
+
+```cpp
+virtual bool System::Globalization::Calendar::IsLeapMonth(int year, int month) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year. |
+| month | int | Month. |
+
+### ReturnValue
+
+True if specified month is leap, false otherwise.
+
+## See Also
+
+* Class [HijriCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## HijriCalendar::IsLeapMonth(int, int, int) const method
 
 
@@ -22,30 +46,6 @@ bool System::Globalization::HijriCalendar::IsLeapMonth(int year, int month, int 
 | year | int | Year. |
 | month | int | Month. |
 | era | int | Era. |
-
-### ReturnValue
-
-True if specified month is leap, false otherwise.
-
-## See Also
-
-* Class [HijriCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## HijriCalendar::IsLeapMonth(int, int) const method
-
-
-Checks if the month is leap.
-
-```cpp
-virtual bool System::Globalization::Calendar::IsLeapMonth(int year, int month) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year. |
-| month | int | Month. |
 
 ### ReturnValue
 

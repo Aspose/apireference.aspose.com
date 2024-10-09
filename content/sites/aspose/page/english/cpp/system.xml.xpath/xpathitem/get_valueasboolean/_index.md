@@ -4,7 +4,7 @@ linktitle: get_ValueAsBoolean
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_ValueAsBoolean method. When overridden in a derived class, gets the item''s value as a Boolean in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.xml.xpath/xpathitem/get_valueasboolean/
 ---
 ## XPathItem::get_ValueAsBoolean method

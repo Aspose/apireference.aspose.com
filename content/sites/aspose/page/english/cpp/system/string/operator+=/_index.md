@@ -4,7 +4,7 @@ linktitle: operator+=
 second_title: Aspose.Page for C++
 description: 'System::String::operator+= method. Concatenation assignment operator in C++.'
 type: docs
-weight: 2200
+weight: 2800
 url: /cpp/system/string/operator+=/
 ---
 ## String::operator+=(char_t) method
@@ -79,30 +79,6 @@ self reference.
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## String::operator+=(uint8_t) method
-
-
-Concatenation assignment operator.
-
-```cpp
-String & System::String::operator+=(uint8_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint8_t | [Byte](../../byte/) to add to the end of current string. |
-
-### ReturnValue
-
-self reference.
-
-## See Also
-
-* Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## String::operator+=(int16_t) method
 
 
@@ -116,30 +92,6 @@ String & System::String::operator+=(int16_t value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int16_t | Short to add to the end of current string. |
-
-### ReturnValue
-
-self reference.
-
-## See Also
-
-* Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::operator+=(uint16_t) method
-
-
-Concatenation assignment operator.
-
-```cpp
-String & System::String::operator+=(uint16_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint16_t | Unsigned short to add to the end of current string. |
 
 ### ReturnValue
 
@@ -175,30 +127,6 @@ self reference.
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## String::operator+=(uint32_t) method
-
-
-Concatenation assignment operator.
-
-```cpp
-String & System::String::operator+=(uint32_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint32_t | Unsigned int to add to the end of current string. |
-
-### ReturnValue
-
-self reference.
-
-## See Also
-
-* Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## String::operator+=(int64_t) method
 
 
@@ -212,6 +140,82 @@ String & System::String::operator+=(int64_t value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int64_t | Long to add to the end of current string. |
+
+### ReturnValue
+
+self reference.
+
+## See Also
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::operator+=(T) method
+
+
+Concatenation assignment operator.
+
+```cpp
+template<typename T,std::enable_if_t< std::is_same< T, bool >::value > *> String & System::String::operator+=(T value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Value type to concatenate with string. Must be bool |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | T | [Boolean](../../boolean/) to add to the end of current string. |
+
+### ReturnValue
+
+self reference.
+
+## See Also
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::operator+=(uint16_t) method
+
+
+Concatenation assignment operator.
+
+```cpp
+String & System::String::operator+=(uint16_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint16_t | Unsigned short to add to the end of current string. |
+
+### ReturnValue
+
+self reference.
+
+## See Also
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::operator+=(uint32_t) method
+
+
+Concatenation assignment operator.
+
+```cpp
+String & System::String::operator+=(uint32_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint32_t | Unsigned int to add to the end of current string. |
 
 ### ReturnValue
 
@@ -247,23 +251,19 @@ self reference.
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## String::operator+=(T) method
+## String::operator+=(uint8_t) method
 
 
 Concatenation assignment operator.
 
 ```cpp
-template<typename T,std::enable_if_t< std::is_same< T, bool >::value > *> String & System::String::operator+=(T value)
+String & System::String::operator+=(uint8_t value)
 ```
 
 
-| Parameter | Description |
-| --- | --- |
-| T | Value type to concatenate with string. Must be bool |
-
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | T | [Boolean](../../boolean/) to add to the end of current string. |
+| value | uint8_t | [Byte](../../byte/) to add to the end of current string. |
 
 ### ReturnValue
 

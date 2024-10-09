@@ -4,7 +4,7 @@ linktitle: get_Selector
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaIdentityConstraint::get_Selector method. Returns the XPath expression selector element in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/get_selector/
 ---
 ## XmlSchemaIdentityConstraint::get_Selector method

@@ -4,7 +4,7 @@ linktitle: Clip
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Clip method. Adds clip to current graphics state in C++.'
 type: docs
-weight: 2600
+weight: 200
 url: /cpp/aspose.page.eps/psdocument/clip/
 ---
 ## PsDocument::Clip method

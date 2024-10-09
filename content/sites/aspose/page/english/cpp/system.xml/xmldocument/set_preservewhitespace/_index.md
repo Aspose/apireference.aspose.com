@@ -4,7 +4,7 @@ linktitle: set_PreserveWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::set_PreserveWhitespace method. Sets a value indicating whether to preserve white space in element content in C++.'
 type: docs
-weight: 1300
+weight: 4000
 url: /cpp/system.xml/xmldocument/set_preservewhitespace/
 ---
 ## XmlDocument::set_PreserveWhitespace method

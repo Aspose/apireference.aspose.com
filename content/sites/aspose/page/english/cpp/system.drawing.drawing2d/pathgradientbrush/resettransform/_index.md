@@ -4,7 +4,7 @@ linktitle: ResetTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::ResetTransform method. Resets the current object''s transform matrix so that it becomes an identity matrix in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/resettransform/
 ---
 ## PathGradientBrush::ResetTransform method

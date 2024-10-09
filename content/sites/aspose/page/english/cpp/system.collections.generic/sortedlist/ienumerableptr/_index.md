@@ -4,7 +4,7 @@ linktitle: IEnumerablePtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedList::IEnumerablePtr typedef. Collection of same pairs type in C++.'
 type: docs
-weight: 2000
+weight: 1600
 url: /cpp/system.collections.generic/sortedlist/ienumerableptr/
 ---
 ## IEnumerablePtr typedef

@@ -4,7 +4,7 @@ linktitle: operator*
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator* method. Returns a new instance of Decimal class that represents a value that is a result of multiplication of values represented by the current and specified objects in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/system/decimal/operator_/
 ---
 ## Decimal::operator* method
@@ -37,7 +37,7 @@ linktitle: operator<
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator< method. Determines if the value represented by the current object is less than the value represented by the specified object in C++.'
 type: docs
-weight: 1400
+weight: 2300
 url: /cpp/system/decimal/operator_/
 ---
 ## Decimal::operator< method
@@ -70,7 +70,7 @@ linktitle: operator>
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator> method. Determines if the value represented by the current object is greater than the value represented by the specified object in C++.'
 type: docs
-weight: 1600
+weight: 2700
 url: /cpp/system/decimal/operator_/
 ---
 ## Decimal::operator> method

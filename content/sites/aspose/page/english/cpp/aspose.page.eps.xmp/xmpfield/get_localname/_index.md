@@ -4,7 +4,7 @@ linktitle: get_LocalName
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField::get_LocalName method. Gets the name of the local in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.page.eps.xmp/xmpfield/get_localname/
 ---
 ## XmpField::get_LocalName method

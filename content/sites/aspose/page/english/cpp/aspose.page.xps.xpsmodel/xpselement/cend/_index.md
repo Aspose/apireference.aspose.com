@@ -4,7 +4,7 @@ linktitle: cend
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::cend method. Gets iterator pointing right after the last const-qualified element (if any) of the collection in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/cend/
 ---
 ## XpsElement::cend method

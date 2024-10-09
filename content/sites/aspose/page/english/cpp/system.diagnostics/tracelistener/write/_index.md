@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::TraceListener::Write method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.diagnostics/tracelistener/write/
 ---
 ## TraceListener::Write method

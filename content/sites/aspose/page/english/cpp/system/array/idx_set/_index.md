@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Array::idx_set method. Sets the specified value as the item of the array at the specified index in C++.'
 type: docs
-weight: 1500
+weight: 2800
 url: /cpp/system/array/idx_set/
 ---
 ## Array::idx_set method

@@ -4,7 +4,7 @@ linktitle: InsertSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathGeometry::InsertSegment method. Inserts a path segment to the list of child segments of the last path figure at index  position in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment/
 ---
 ## XpsPathGeometry::InsertSegment method

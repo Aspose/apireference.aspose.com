@@ -4,7 +4,7 @@ linktitle: NamespaceHandling
 second_title: Aspose.Page for C++
 description: 'System::Xml::NamespaceHandling enum. Specifies whether to remove duplicate namespace declarations in the XmlWriter in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/system.xml/namespacehandling/
 ---
 ## NamespaceHandling enum

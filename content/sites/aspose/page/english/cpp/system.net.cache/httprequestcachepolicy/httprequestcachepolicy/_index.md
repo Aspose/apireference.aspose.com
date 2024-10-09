@@ -4,7 +4,7 @@ linktitle: HttpRequestCachePolicy
 second_title: Aspose.Page for C++
 description: 'System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy constructor. Constructs a new instance in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.net.cache/httprequestcachepolicy/httprequestcachepolicy/
 ---
 ## HttpRequestCachePolicy::HttpRequestCachePolicy() constructor
@@ -21,23 +21,23 @@ System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy()
 * Class [HttpRequestCachePolicy](../)
 * Namespace [System::Net::Cache](../../)
 * Library [Aspose.Page for C++](../../../)
-## HttpRequestCachePolicy::HttpRequestCachePolicy(HttpRequestCacheLevel) constructor
+## HttpRequestCachePolicy::HttpRequestCachePolicy(DateTime) constructor
 
 
 Constructs a new instance.
 
 ```cpp
-System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy(HttpRequestCacheLevel level)
+System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy(DateTime cacheSyncDate)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| level | HttpRequestCacheLevel | The caching behavior for resources. |
+| cacheSyncDate | DateTime | The time when resources stored in the cache must be revalidated. |
 
 ## See Also
 
-* Enum [HttpRequestCacheLevel](../../httprequestcachelevel/)
+* Class [DateTime](../../../system/datetime/)
 * Class [HttpRequestCachePolicy](../)
 * Namespace [System::Net::Cache](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -86,26 +86,6 @@ System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy(HttpCacheAgeC
 * Class [HttpRequestCachePolicy](../)
 * Namespace [System::Net::Cache](../../)
 * Library [Aspose.Page for C++](../../../)
-## HttpRequestCachePolicy::HttpRequestCachePolicy(DateTime) constructor
-
-
-Constructs a new instance.
-
-```cpp
-System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy(DateTime cacheSyncDate)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cacheSyncDate | DateTime | The time when resources stored in the cache must be revalidated. |
-
-## See Also
-
-* Class [DateTime](../../../system/datetime/)
-* Class [HttpRequestCachePolicy](../)
-* Namespace [System::Net::Cache](../../)
-* Library [Aspose.Page for C++](../../../)
 ## HttpRequestCachePolicy::HttpRequestCachePolicy(HttpCacheAgeControl, TimeSpan, TimeSpan, DateTime) constructor
 
 
@@ -128,6 +108,26 @@ System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy(HttpCacheAgeC
 * Enum [HttpCacheAgeControl](../../httpcacheagecontrol/)
 * Class [TimeSpan](../../../system/timespan/)
 * Class [DateTime](../../../system/datetime/)
+* Class [HttpRequestCachePolicy](../)
+* Namespace [System::Net::Cache](../../)
+* Library [Aspose.Page for C++](../../../)
+## HttpRequestCachePolicy::HttpRequestCachePolicy(HttpRequestCacheLevel) constructor
+
+
+Constructs a new instance.
+
+```cpp
+System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy(HttpRequestCacheLevel level)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| level | HttpRequestCacheLevel | The caching behavior for resources. |
+
+## See Also
+
+* Enum [HttpRequestCacheLevel](../../httprequestcachelevel/)
 * Class [HttpRequestCachePolicy](../)
 * Namespace [System::Net::Cache](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: get_SharedMaxAge
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::get_SharedMaxAge method. Gets the shared maximum age value in seconds that overrides the ''max-age'' directive in the ''Cache-Control''. header or the ''Expires'' header for a shared cache in C++.'
 type: docs
-weight: 800
+weight: 1800
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_sharedmaxage/
 ---
 ## CacheControlHeaderValue::get_SharedMaxAge method

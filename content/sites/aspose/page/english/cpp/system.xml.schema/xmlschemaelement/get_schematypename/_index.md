@@ -4,7 +4,7 @@ linktitle: get_SchemaTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::get_SchemaTypeName method. Returns the name of a built-in data type defined in this schema or another schema indicated by the specified namespace in C++.'
 type: docs
-weight: 2100
+weight: 1800
 url: /cpp/system.xml.schema/xmlschemaelement/get_schematypename/
 ---
 ## XmlSchemaElement::get_SchemaTypeName method

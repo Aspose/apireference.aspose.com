@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::idx_set method. Sets the specifie value at the specified location in the matrix in C++.'
 type: docs
-weight: 300
+weight: 2800
 url: /cpp/system.drawing.imaging/colormatrix/idx_set/
 ---
 ## ColorMatrix::idx_set method

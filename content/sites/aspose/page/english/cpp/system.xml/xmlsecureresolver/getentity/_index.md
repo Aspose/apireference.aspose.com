@@ -4,7 +4,7 @@ linktitle: GetEntity
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlSecureResolver::GetEntity method. Maps a URI to an object that contains the actual resource in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml/xmlsecureresolver/getentity/
 ---
 ## XmlSecureResolver::GetEntity method

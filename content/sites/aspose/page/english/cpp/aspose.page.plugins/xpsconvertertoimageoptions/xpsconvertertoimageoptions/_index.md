@@ -4,7 +4,7 @@ linktitle: XpsConverterToImageOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::XpsConverterToImageOptions::XpsConverterToImageOptions constructor. Initializes new instance of the XpsConverterToImageOptions object with default options in C++.'
 type: docs
-weight: 1200
+weight: 100
 url: /cpp/aspose.page.plugins/xpsconvertertoimageoptions/xpsconvertertoimageoptions/
 ---
 ## XpsConverterToImageOptions::XpsConverterToImageOptions() constructor
@@ -41,26 +41,6 @@ Aspose::Page::Plugins::XpsConverterToImageOptions::XpsConverterToImageOptions(As
 * Class [XpsConverterToImageOptions](../)
 * Namespace [Aspose::Page::Plugins](../../)
 * Library [Aspose.Page for C++](../../../)
-## XpsConverterToImageOptions::XpsConverterToImageOptions(System::Drawing::Size) constructor
-
-
-Initializes new instance of the [XpsConverterToImageOptions](../) object with a size of the resulting image.
-
-```cpp
-Aspose::Page::Plugins::XpsConverterToImageOptions::XpsConverterToImageOptions(System::Drawing::Size size)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| size | System::Drawing::Size | A size the resulting image. |
-
-## See Also
-
-* Class [Size](../../../system.drawing/size/)
-* Class [XpsConverterToImageOptions](../)
-* Namespace [Aspose::Page::Plugins](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XpsConverterToImageOptions::XpsConverterToImageOptions(Aspose::Page::Drawing::Imaging::ImageFormat, System::Drawing::Size) constructor
 
 
@@ -79,6 +59,26 @@ Aspose::Page::Plugins::XpsConverterToImageOptions::XpsConverterToImageOptions(As
 ## See Also
 
 * Enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
+* Class [Size](../../../system.drawing/size/)
+* Class [XpsConverterToImageOptions](../)
+* Namespace [Aspose::Page::Plugins](../../)
+* Library [Aspose.Page for C++](../../../)
+## XpsConverterToImageOptions::XpsConverterToImageOptions(System::Drawing::Size) constructor
+
+
+Initializes new instance of the [XpsConverterToImageOptions](../) object with a size of the resulting image.
+
+```cpp
+Aspose::Page::Plugins::XpsConverterToImageOptions::XpsConverterToImageOptions(System::Drawing::Size size)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | System::Drawing::Size | A size the resulting image. |
+
+## See Also
+
 * Class [Size](../../../system.drawing/size/)
 * Class [XpsConverterToImageOptions](../)
 * Namespace [Aspose::Page::Plugins](../../)

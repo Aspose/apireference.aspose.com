@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::get_Encoding method. Returns the encoding type in C++.'
 type: docs
-weight: 1900
+weight: 400
 url: /cpp/system.xml/xmlparsercontext/get_encoding/
 ---
 ## XmlParserContext::get_Encoding method

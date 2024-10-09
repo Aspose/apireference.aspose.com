@@ -2,37 +2,11 @@
 title: System::Xml::XmlNamedNodeMap::GetNamedItem method
 linktitle: GetNamedItem
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlNamedNodeMap::GetNamedItem method. Retrieves an XmlNode specified by name in C++.'
+description: 'System::Xml::XmlNamedNodeMap::GetNamedItem method. Retrieves a node with the matching XmlNode::get_LocalName and XmlNode::get_NamespaceURI values in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.xml/xmlnamednodemap/getnameditem/
 ---
-## XmlNamedNodeMap::GetNamedItem(String) method
-
-
-Retrieves an [XmlNode](../../xmlnode/) specified by name.
-
-```cpp
-virtual SharedPtr<XmlNode> System::Xml::XmlNamedNodeMap::GetNamedItem(String name)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The qualified name of the node to retrieve. It is matched against the [XmlNode::get_Name](../../xmlnode/get_name/) value of the matching node. |
-
-### ReturnValue
-
-An [XmlNode](../../xmlnode/) with the specified name or **nullptr** if a matching node is not found.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [String](../../../system/string/)
-* Class [XmlNamedNodeMap](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlNamedNodeMap::GetNamedItem(String, String) method
 
 
@@ -51,6 +25,32 @@ virtual SharedPtr<XmlNode> System::Xml::XmlNamedNodeMap::GetNamedItem(String loc
 ### ReturnValue
 
 An [XmlNode](../../xmlnode/) with the matching local name and namespace URI or **nullptr** if a matching node was not found.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [String](../../../system/string/)
+* Class [XmlNamedNodeMap](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlNamedNodeMap::GetNamedItem(String) method
+
+
+Retrieves an [XmlNode](../../xmlnode/) specified by name.
+
+```cpp
+virtual SharedPtr<XmlNode> System::Xml::XmlNamedNodeMap::GetNamedItem(String name)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | String | The qualified name of the node to retrieve. It is matched against the [XmlNode::get_Name](../../xmlnode/get_name/) value of the matching node. |
+
+### ReturnValue
+
+An [XmlNode](../../xmlnode/) with the specified name or **nullptr** if a matching node is not found.
 
 ## See Also
 

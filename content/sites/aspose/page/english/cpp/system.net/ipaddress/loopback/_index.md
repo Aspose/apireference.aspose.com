@@ -4,7 +4,7 @@ linktitle: Loopback
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::Loopback field. The IPv4 loopback address in C++.'
 type: docs
-weight: 2400
+weight: 2800
 url: /cpp/system.net/ipaddress/loopback/
 ---
 ## Loopback field

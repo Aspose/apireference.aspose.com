@@ -4,7 +4,7 @@ linktitle: get_Direction
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeaderAttribute::get_Direction method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.web.services.protocols/soapheaderattribute/get_direction/
 ---
 ## SoapHeaderAttribute::get_Direction method

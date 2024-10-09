@@ -4,7 +4,7 @@ linktitle: get_Delimiter
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::Runtime::StringConcat::get_Delimiter method. Returns the string that delimits concatenated strings in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml.xsl.runtime/stringconcat/get_delimiter/
 ---
 ## StringConcat::get_Delimiter method

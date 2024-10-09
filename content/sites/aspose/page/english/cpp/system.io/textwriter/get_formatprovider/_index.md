@@ -4,9 +4,24 @@ linktitle: get_FormatProvider
 second_title: Aspose.Page for C++
 description: 'System::IO::TextWriter::get_FormatProvider method. Returns the currently used IFormatProvider object in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.io/textwriter/get_formatprovider/
 ---
+## TextWriter::get_FormatProvider() method
+
+
+Returns the currently used [IFormatProvider](../../../system/iformatprovider/) object.
+
+```cpp
+IFormatProviderPtr System::IO::TextWriter::get_FormatProvider()
+```
+
+## See Also
+
+* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TextWriter::get_FormatProvider() const method
 
 
@@ -20,21 +35,6 @@ virtual SharedPtr<IFormatProvider> System::IO::TextWriter::get_FormatProvider() 
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IFormatProvider](../../../system/iformatprovider/)
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::get_FormatProvider() method
-
-
-Returns the currently used [IFormatProvider](../../../system/iformatprovider/) object.
-
-```cpp
-IFormatProviderPtr System::IO::TextWriter::get_FormatProvider()
-```
-
-## See Also
-
-* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

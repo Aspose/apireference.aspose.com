@@ -4,7 +4,7 @@ linktitle: get_DarkKhaki
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkKhaki method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFBDB76B in C++.'
 type: docs
-weight: 2800
+weight: 2700
 url: /cpp/system.drawing/pens/get_darkkhaki/
 ---
 ## Pens::get_DarkKhaki method

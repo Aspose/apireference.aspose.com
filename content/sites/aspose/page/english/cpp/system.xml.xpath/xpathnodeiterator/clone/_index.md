@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNodeIterator::Clone method. When overridden in a derived class, returns a clone of this XPathNodeIterator object in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.xml.xpath/xpathnodeiterator/clone/
 ---
 ## XPathNodeIterator::Clone method

@@ -4,7 +4,7 @@ linktitle: get_OutputSettings
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XslCompiledTransform::get_OutputSettings method. Returns an XmlWriterSettings object that contains the output information derived from the xsl:output element of the style sheet in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.xsl/xslcompiledtransform/get_outputsettings/
 ---
 ## XslCompiledTransform::get_OutputSettings method

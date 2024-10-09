@@ -43,11 +43,11 @@ class XpsElement : public Aspose::Page::XPS::XpsModel::XpsObject,
 
 | Typedef | Description |
 | --- | --- |
-| [iterator_holder_type](./iterator_holder_type/) | A collection type whose iterator types is used as iterator types in the current collection. |
-| [iterator](./iterator/) | Iterator type. |
 | [const_iterator](./const_iterator/) | Const iterator type. |
-| [virtualized_iterator_element](./virtualized_iterator_element/) | Virtualized element type. |
+| [iterator](./iterator/) | Iterator type. |
+| [iterator_holder_type](./iterator_holder_type/) | A collection type whose iterator types is used as iterator types in the current collection. |
 | [virtualized_iterator](./virtualized_iterator/) | Virtualized type. |
+| [virtualized_iterator_element](./virtualized_iterator_element/) | Virtualized element type. |
 ## See Also
 
 * Class [XpsObject](../xpsobject/)

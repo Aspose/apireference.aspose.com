@@ -4,7 +4,7 @@ linktitle: set_PMDesignator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_PMDesignator method. Sets PM designator in C++.'
 type: docs
-weight: 1800
+weight: 5700
 url: /cpp/system.globalization/datetimeformatinfo/set_pmdesignator/
 ---
 ## DateTimeFormatInfo::set_PMDesignator method

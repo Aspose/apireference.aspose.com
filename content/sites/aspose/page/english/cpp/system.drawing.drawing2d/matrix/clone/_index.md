@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::Clone method. Creates a copy of the current object in C++.'
 type: docs
-weight: 2000
+weight: 300
 url: /cpp/system.drawing.drawing2d/matrix/clone/
 ---
 ## Matrix::Clone method

@@ -4,7 +4,7 @@ linktitle: get_DigestAlgorithm
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::Pkcs::CmsSigner::get_DigestAlgorithm method. Gets hash algorithm using with signature in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.security.cryptography.pkcs/cmssigner/get_digestalgorithm/
 ---
 ## CmsSigner::get_DigestAlgorithm method

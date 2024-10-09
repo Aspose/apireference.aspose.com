@@ -2,30 +2,41 @@
 title: System::IO::StringWriter::StringWriter constructor
 linktitle: StringWriter
 second_title: Aspose.Page for C++
-description: 'System::IO::StringWriter::StringWriter constructor. Constructs a new instance of StringWriter using the specified StringBuilder and IFormatProvider in C++.'
+description: 'System::IO::StringWriter::StringWriter constructor. Constructs a new instance of StringWriter using IFormatProvider from the current culture in C++.'
 type: docs
 weight: 100
 url: /cpp/system.io/stringwriter/stringwriter/
 ---
-## StringWriter::StringWriter(const System::SharedPtr\<Text::StringBuilder\>\&, const IFormatProviderPtr\&) constructor
+## StringWriter::StringWriter() constructor
 
 
-Constructs a new instance of [StringWriter](../) using the specified StringBuilder and [IFormatProvider](../../../system/iformatprovider/).
+Constructs a new instance of [StringWriter](../) using [IFormatProvider](../../../system/iformatprovider/) from the current culture.
 
 ```cpp
-System::IO::StringWriter::StringWriter(const System::SharedPtr<Text::StringBuilder> &sb, const IFormatProviderPtr &formatProvider)
+System::IO::StringWriter::StringWriter()
+```
+
+## See Also
+
+* Class [StringWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## StringWriter::StringWriter(const IFormatProviderPtr\&) constructor
+
+
+Constructs a new instance of [StringWriter](../) using the specified [IFormatProvider](../../../system/iformatprovider/).
+
+```cpp
+System::IO::StringWriter::StringWriter(const IFormatProviderPtr &formatProvider)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sb | const System::SharedPtr\<Text::StringBuilder\>\& | The StringBuilder object to be used by the [StringWriter](../) being constructed |
 | formatProvider | const IFormatProviderPtr\& | An [IFormatProvider](../../../system/iformatprovider/) object to be used by the object being constructed |
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [StringBuilder](../../../system.text/stringbuilder/)
 * Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
 * Class [StringWriter](../)
 * Namespace [System::IO](../../)
@@ -51,37 +62,26 @@ System::IO::StringWriter::StringWriter(const System::SharedPtr<Text::StringBuild
 * Class [StringWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
-## StringWriter::StringWriter(const IFormatProviderPtr\&) constructor
+## StringWriter::StringWriter(const System::SharedPtr\<Text::StringBuilder\>\&, const IFormatProviderPtr\&) constructor
 
 
-Constructs a new instance of [StringWriter](../) using the specified [IFormatProvider](../../../system/iformatprovider/).
+Constructs a new instance of [StringWriter](../) using the specified StringBuilder and [IFormatProvider](../../../system/iformatprovider/).
 
 ```cpp
-System::IO::StringWriter::StringWriter(const IFormatProviderPtr &formatProvider)
+System::IO::StringWriter::StringWriter(const System::SharedPtr<Text::StringBuilder> &sb, const IFormatProviderPtr &formatProvider)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
+| sb | const System::SharedPtr\<Text::StringBuilder\>\& | The StringBuilder object to be used by the [StringWriter](../) being constructed |
 | formatProvider | const IFormatProviderPtr\& | An [IFormatProvider](../../../system/iformatprovider/) object to be used by the object being constructed |
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StringBuilder](../../../system.text/stringbuilder/)
 * Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
-* Class [StringWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## StringWriter::StringWriter() constructor
-
-
-Constructs a new instance of [StringWriter](../) using [IFormatProvider](../../../system/iformatprovider/) from the current culture.
-
-```cpp
-System::IO::StringWriter::StringWriter()
-```
-
-## See Also
-
 * Class [StringWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

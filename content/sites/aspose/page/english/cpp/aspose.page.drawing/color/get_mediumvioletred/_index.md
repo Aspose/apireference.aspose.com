@@ -4,7 +4,7 @@ linktitle: get_MediumVioletRed
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_MediumVioletRed method. Gets a system-defined color that has an ARGB value of #FFC71585 in C++.'
 type: docs
-weight: 9100
+weight: 9200
 url: /cpp/aspose.page.drawing/color/get_mediumvioletred/
 ---
 ## Color::get_MediumVioletRed method

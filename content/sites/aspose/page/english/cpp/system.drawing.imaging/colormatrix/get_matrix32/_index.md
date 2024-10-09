@@ -4,7 +4,7 @@ linktitle: get_Matrix32
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::get_Matrix32 method. Returns a value in 3-rd row and 2-nd column in C++.'
 type: docs
-weight: 3800
+weight: 1900
 url: /cpp/system.drawing.imaging/colormatrix/get_matrix32/
 ---
 ## ColorMatrix::get_Matrix32 method

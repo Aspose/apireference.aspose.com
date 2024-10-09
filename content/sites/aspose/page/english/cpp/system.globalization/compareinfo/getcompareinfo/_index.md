@@ -2,25 +2,24 @@
 title: System::Globalization::CompareInfo::GetCompareInfo method
 linktitle: GetCompareInfo
 second_title: Aspose.Page for C++
-description: 'System::Globalization::CompareInfo::GetCompareInfo method. Gets CompareInfo associated with the specified culture and using string comparison methods in the specified assembly in C++.'
+description: 'System::Globalization::CompareInfo::GetCompareInfo method. Gets CompareInfo associated with the specified culture in C++.'
 type: docs
 weight: 1500
 url: /cpp/system.globalization/compareinfo/getcompareinfo/
 ---
-## CompareInfo::GetCompareInfo(int, const SharedPtr\<Reflection::Assembly\>\&) method
+## CompareInfo::GetCompareInfo(const String\&) method
 
 
-Gets [CompareInfo](../) associated with the specified culture and using string comparison methods in the specified assembly.
+Gets [CompareInfo](../) associated with the specified culture.
 
 ```cpp
-static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(int culture, const SharedPtr<Reflection::Assembly> &assembly)
+static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(const String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| culture | int | Culture identifier (LCID). |
-| assembly | const SharedPtr\<Reflection::Assembly\>\& | Assembly that contains string comparison methods. |
+| name | const String\& | Culture name. |
 
 ### ReturnValue
 
@@ -29,8 +28,7 @@ static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(int cul
 ## See Also
 
 * Typedef [CompareInfoPtr](../../compareinfoptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Assembly](../../../system.reflection/assembly/)
+* Class [String](../../../system/string/)
 * Class [CompareInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -86,19 +84,20 @@ static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(int cul
 * Class [CompareInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.Page for C++](../../../)
-## CompareInfo::GetCompareInfo(const String\&) method
+## CompareInfo::GetCompareInfo(int, const SharedPtr\<Reflection::Assembly\>\&) method
 
 
-Gets [CompareInfo](../) associated with the specified culture.
+Gets [CompareInfo](../) associated with the specified culture and using string comparison methods in the specified assembly.
 
 ```cpp
-static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(const String &name)
+static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(int culture, const SharedPtr<Reflection::Assembly> &assembly)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | const String\& | Culture name. |
+| culture | int | Culture identifier (LCID). |
+| assembly | const SharedPtr\<Reflection::Assembly\>\& | Assembly that contains string comparison methods. |
 
 ### ReturnValue
 
@@ -107,7 +106,8 @@ static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(const S
 ## See Also
 
 * Typedef [CompareInfoPtr](../../compareinfoptr/)
-* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Assembly](../../../system.reflection/assembly/)
 * Class [CompareInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.Page for C++](../../../)

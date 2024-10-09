@@ -4,7 +4,7 @@ linktitle: FromName
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::FromName method. Creates a T:Aspose::Page::Drawing::Color structure from the specified name of a predefined color in C++.'
 type: docs
-weight: 14300
+weight: 200
 url: /cpp/aspose.page.drawing/color/fromname/
 ---
 ## Color::FromName method

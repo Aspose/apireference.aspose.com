@@ -4,7 +4,7 @@ linktitle: IsEntered
 second_title: Aspose.Page for C++
 description: 'System::Threading::Monitor::IsEntered method. Determines whether the current thread holds the lock on the specified object in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.threading/monitor/isentered/
 ---
 ## Monitor::IsEntered method

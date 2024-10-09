@@ -4,7 +4,7 @@ linktitle: get_Table
 second_title: Aspose.Page for C++
 description: 'System::Data::DataRow::get_Table method. Gets table row belongs to in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.data/datarow/get_table/
 ---
 ## DataRow::get_Table method

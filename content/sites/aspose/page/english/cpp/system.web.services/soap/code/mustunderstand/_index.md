@@ -4,7 +4,7 @@ linktitle: MustUnderstand
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::Code::MustUnderstand field. The string representation of the ''MustUnderstand'' SOAP code in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.web.services/soap/code/mustunderstand/
 ---
 ## MustUnderstand field

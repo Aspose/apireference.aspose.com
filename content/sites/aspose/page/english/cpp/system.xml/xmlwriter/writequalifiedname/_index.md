@@ -4,7 +4,7 @@ linktitle: WriteQualifiedName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteQualifiedName method. When overridden in a derived class, writes out the namespace-qualified name. This method looks up the prefix that is in scope for the given namespace in C++.'
 type: docs
-weight: 3100
+weight: 2800
 url: /cpp/system.xml/xmlwriter/writequalifiedname/
 ---
 ## XmlWriter::WriteQualifiedName method

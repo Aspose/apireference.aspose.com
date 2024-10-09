@@ -4,7 +4,7 @@ linktitle: get_NavajoWhite
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_NavajoWhite method. Gets a system-defined color that has an ARGB value of #FFFFDEAD in C++.'
 type: docs
-weight: 9600
+weight: 9700
 url: /cpp/aspose.page.drawing/color/get_navajowhite/
 ---
 ## Color::get_NavajoWhite method

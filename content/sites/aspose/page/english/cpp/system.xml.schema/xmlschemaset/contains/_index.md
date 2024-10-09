@@ -2,35 +2,11 @@
 title: System::Xml::Schema::XmlSchemaSet::Contains method
 linktitle: Contains
 second_title: Aspose.Page for C++
-description: 'System::Xml::Schema::XmlSchemaSet::Contains method. Indicates whether an XML Schema definition language (XSD) schema with the specified target namespace URI is in the XmlSchemaSet in C++.'
+description: 'System::Xml::Schema::XmlSchemaSet::Contains method. Indicates whether the specified XML Schema definition language (XSD) XmlSchema object is in the XmlSchemaSet in C++.'
 type: docs
-weight: 1600
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaset/contains/
 ---
-## XmlSchemaSet::Contains(String) method
-
-
-Indicates whether an XML [Schema](../../) definition language (XSD) schema with the specified target namespace URI is in the [XmlSchemaSet](../).
-
-```cpp
-bool System::Xml::Schema::XmlSchemaSet::Contains(String targetNamespace)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| targetNamespace | String | The schema **targetNamespace** property. |
-
-### ReturnValue
-
-**true** if a schema with the specified target namespace URI is in the [XmlSchemaSet](../); otherwise, **false**.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlSchemaSet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlSchemaSet::Contains(const SharedPtr\<XmlSchema\>\&) method
 
 
@@ -53,6 +29,30 @@ bool System::Xml::Schema::XmlSchemaSet::Contains(const SharedPtr<XmlSchema> &sch
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlSchema](../../xmlschema/)
+* Class [XmlSchemaSet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlSchemaSet::Contains(String) method
+
+
+Indicates whether an XML [Schema](../../) definition language (XSD) schema with the specified target namespace URI is in the [XmlSchemaSet](../).
+
+```cpp
+bool System::Xml::Schema::XmlSchemaSet::Contains(String targetNamespace)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| targetNamespace | String | The schema **targetNamespace** property. |
+
+### ReturnValue
+
+**true** if a schema with the specified target namespace URI is in the [XmlSchemaSet](../); otherwise, **false**.
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [XmlSchemaSet](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.Page for C++](../../../)

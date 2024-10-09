@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::AuthenticationHeaderValue::Clone method. RTTI information in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.net.http.headers/authenticationheadervalue/clone/
 ---
 ## AuthenticationHeaderValue::Clone method

@@ -4,7 +4,7 @@ linktitle: SaveAsImage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::SaveAsImage method. Saves the document in a bitmap image format in C++.'
 type: docs
-weight: 1500
+weight: 5500
 url: /cpp/aspose.page.xps/xpsdocument/saveasimage/
 ---
 ## XpsDocument::SaveAsImage method

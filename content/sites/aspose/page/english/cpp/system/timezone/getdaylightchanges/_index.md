@@ -4,7 +4,7 @@ linktitle: GetDaylightChanges
 second_title: Aspose.Page for C++
 description: 'System::TimeZone::GetDaylightChanges method. Returns the daylight saving time period for a particular year in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system/timezone/getdaylightchanges/
 ---
 ## TimeZone::GetDaylightChanges method

@@ -4,7 +4,7 @@ linktitle: StringToHGlobalUni
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::StringToHGlobalUni method. Copies the contents of a specified string into unmanaged memory in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobaluni/
 ---
 ## Marshal::StringToHGlobalUni method

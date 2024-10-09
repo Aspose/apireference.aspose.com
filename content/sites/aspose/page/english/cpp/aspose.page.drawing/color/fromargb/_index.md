@@ -2,28 +2,29 @@
 title: Aspose::Page::Drawing::Color::FromArgb method
 linktitle: FromArgb
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::Drawing::Color::FromArgb method. Creates a T:Aspose::Page::Drawing::Color structure from a 32-bit ARGB value in C++.'
+description: 'Aspose::Page::Drawing::Color::FromArgb method. Creates a T:Aspose::Page::Drawing::Color structure from the specified T:Aspose::Page::Drawing::Color structure, but with the new specified alpha value. Although this method allows a 32-bit value to be passed for the alpha value, the value is limited to 8 bits in C++.'
 type: docs
-weight: 14200
+weight: 100
 url: /cpp/aspose.page.drawing/color/fromargb/
 ---
-## Color::FromArgb(int32_t) method
+## Color::FromArgb(int32_t, Color) method
 
 
-Creates a [T:Aspose::Page::Drawing::Color](../) structure from a 32-bit ARGB value.
+Creates a [T:Aspose::Page::Drawing::Color](../) structure from the specified [T:Aspose::Page::Drawing::Color](../) structure, but with the new specified alpha value. Although this method allows a 32-bit value to be passed for the alpha value, the value is limited to 8 bits.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::FromArgb(int32_t argb)
+static Color Aspose::Page::Drawing::Color::FromArgb(int32_t alpha, Color baseColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argb | int32_t | A value specifying the 32-bit ARGB value. |
+| alpha | int32_t | The alpha value for the new [T:Aspose::Page::Drawing::Color](../). Valid values are 0 through 255. |
+| baseColor | Color | The [T:Aspose::Page::Drawing::Color](../) from which to create the new [T:Aspose::Page::Drawing::Color](../). |
 
 ### ReturnValue
 
-The [T:Aspose::Page::Drawing::Color](../) structure that this method creates.
+The [T:Aspose::Page::Drawing::Color](../) that this method creates.
 
 ## See Also
 
@@ -58,24 +59,23 @@ The [T:Aspose::Page::Drawing::Color](../) that this method creates.
 * Class [Color](../)
 * Namespace [Aspose::Page::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## Color::FromArgb(int32_t, Color) method
+## Color::FromArgb(int32_t) method
 
 
-Creates a [T:Aspose::Page::Drawing::Color](../) structure from the specified [T:Aspose::Page::Drawing::Color](../) structure, but with the new specified alpha value. Although this method allows a 32-bit value to be passed for the alpha value, the value is limited to 8 bits.
+Creates a [T:Aspose::Page::Drawing::Color](../) structure from a 32-bit ARGB value.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::FromArgb(int32_t alpha, Color baseColor)
+static Color Aspose::Page::Drawing::Color::FromArgb(int32_t argb)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| alpha | int32_t | The alpha value for the new [T:Aspose::Page::Drawing::Color](../). Valid values are 0 through 255. |
-| baseColor | Color | The [T:Aspose::Page::Drawing::Color](../) from which to create the new [T:Aspose::Page::Drawing::Color](../). |
+| argb | int32_t | A value specifying the 32-bit ARGB value. |
 
 ### ReturnValue
 
-The [T:Aspose::Page::Drawing::Color](../) that this method creates.
+The [T:Aspose::Page::Drawing::Color](../) structure that this method creates.
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsBinHex
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::ReadElementContentAsBinHex method. Reads the element and decodes the BinHex content in C++.'
 type: docs
-weight: 5300
+weight: 5000
 url: /cpp/system.xml/xmltextreader/readelementcontentasbinhex/
 ---
 ## XmlTextReader::ReadElementContentAsBinHex method

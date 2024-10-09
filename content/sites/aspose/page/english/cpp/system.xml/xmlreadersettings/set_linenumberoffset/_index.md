@@ -4,7 +4,7 @@ linktitle: set_LineNumberOffset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_LineNumberOffset method. Sets line number offset of the XmlReader object in C++.'
 type: docs
-weight: 500
+weight: 2800
 url: /cpp/system.xml/xmlreadersettings/set_linenumberoffset/
 ---
 ## XmlReaderSettings::set_LineNumberOffset method

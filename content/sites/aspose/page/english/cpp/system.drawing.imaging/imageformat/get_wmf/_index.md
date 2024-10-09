@@ -4,7 +4,7 @@ linktitle: get_Wmf
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageFormat::get_Wmf method. Returns a shared pointer to an ImageFormat object that represents the Windows metafile (WMF) image format in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/system.drawing.imaging/imageformat/get_wmf/
 ---
 ## ImageFormat::get_Wmf method

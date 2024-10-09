@@ -2,11 +2,30 @@
 title: System::Xml::XmlNodeReader::MoveToAttribute method
 linktitle: MoveToAttribute
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlNodeReader::MoveToAttribute method. Moves to the attribute with the specified name in C++.'
+description: 'System::Xml::XmlNodeReader::MoveToAttribute method. Moves to the attribute with the specified index in C++.'
 type: docs
-weight: 2400
+weight: 2600
 url: /cpp/system.xml/xmlnodereader/movetoattribute/
 ---
+## XmlNodeReader::MoveToAttribute(int32_t) method
+
+
+Moves to the attribute with the specified index.
+
+```cpp
+void System::Xml::XmlNodeReader::MoveToAttribute(int32_t attributeIndex) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| attributeIndex | int32_t | The index of the attribute. |
+
+## See Also
+
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlNodeReader::MoveToAttribute(String) method
 
 
@@ -53,25 +72,6 @@ bool System::Xml::XmlNodeReader::MoveToAttribute(String name, String namespaceUR
 ## See Also
 
 * Class [String](../../../system/string/)
-* Class [XmlNodeReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlNodeReader::MoveToAttribute(int32_t) method
-
-
-Moves to the attribute with the specified index.
-
-```cpp
-void System::Xml::XmlNodeReader::MoveToAttribute(int32_t attributeIndex) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| attributeIndex | int32_t | The index of the attribute. |
-
-## See Also
-
 * Class [XmlNodeReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

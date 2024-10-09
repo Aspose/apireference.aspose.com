@@ -4,7 +4,7 @@ linktitle: set_IncludeOption
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::Pkcs::CmsSigner::set_IncludeOption method. Specifies which certificates from the chain will be included into the signature in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.security.cryptography.pkcs/cmssigner/set_includeoption/
 ---
 ## CmsSigner::set_IncludeOption method

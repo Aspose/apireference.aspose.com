@@ -4,7 +4,7 @@ linktitle: VersionMismatch
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::Code::VersionMismatch field. The string representation of the ''VersionMismatch'' SOAP code in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.web.services/soap/code/versionmismatch/
 ---
 ## VersionMismatch field

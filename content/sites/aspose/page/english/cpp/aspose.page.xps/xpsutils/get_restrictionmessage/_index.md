@@ -4,7 +4,7 @@ linktitle: get_RestrictionMessage
 second_title: Aspose.Page for C++
 description: 'How to use get_RestrictionMessage method of Aspose::Page::XPS::XpsUtils class in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.page.xps/xpsutils/get_restrictionmessage/
 ---
 ## XpsUtils::get_RestrictionMessage method

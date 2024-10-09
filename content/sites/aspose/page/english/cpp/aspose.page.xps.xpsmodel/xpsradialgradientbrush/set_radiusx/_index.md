@@ -4,7 +4,7 @@ linktitle: set_RadiusX
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsRadialGradientBrush::set_RadiusX method. Returns/sets the radius in the x dimension of the ellipse which defines the radial gradient in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.page.xps.xpsmodel/xpsradialgradientbrush/set_radiusx/
 ---
 ## XpsRadialGradientBrush::set_RadiusX method

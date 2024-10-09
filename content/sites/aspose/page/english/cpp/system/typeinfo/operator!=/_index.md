@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::operator!= method. Determines if the current and the specified TypeInfo objects are not equal in C++.'
 type: docs
-weight: 3400
+weight: 4400
 url: /cpp/system/typeinfo/operator!=/
 ---
 ## TypeInfo::operator!=(const TypeInfo\&) const method

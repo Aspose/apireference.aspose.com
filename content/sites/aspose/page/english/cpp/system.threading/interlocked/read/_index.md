@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::Threading::Interlocked::Read method. Returns a 64-bit value, loaded as an atomic operation in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.threading/interlocked/read/
 ---
 ## Interlocked::Read method

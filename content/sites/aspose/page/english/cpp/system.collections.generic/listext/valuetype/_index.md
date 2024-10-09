@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic::ListExt::ValueType typedef of System::Collections::Generic::ListExt class in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.collections.generic/listext/valuetype/
 ---
 ## ValueType typedef

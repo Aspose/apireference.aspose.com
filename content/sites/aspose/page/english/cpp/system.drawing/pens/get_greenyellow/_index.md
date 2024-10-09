@@ -4,7 +4,7 @@ linktitle: get_GreenYellow
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_GreenYellow method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFADFF2F in C++.'
 type: docs
-weight: 5400
+weight: 5300
 url: /cpp/system.drawing/pens/get_greenyellow/
 ---
 ## Pens::get_GreenYellow method

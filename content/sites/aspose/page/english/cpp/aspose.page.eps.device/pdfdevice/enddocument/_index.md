@@ -4,7 +4,7 @@ linktitle: EndDocument
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::EndDocument method. Makes necessary preparation of device after the document has been rendered in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/aspose.page.eps.device/pdfdevice/enddocument/
 ---
 ## PdfDevice::EndDocument method

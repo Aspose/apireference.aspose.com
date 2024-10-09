@@ -4,7 +4,7 @@ linktitle: get_Facets
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleContentRestriction::get_Facets method. Returns an XmlSchema facet in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/get_facets/
 ---
 ## XmlSchemaSimpleContentRestriction::get_Facets method

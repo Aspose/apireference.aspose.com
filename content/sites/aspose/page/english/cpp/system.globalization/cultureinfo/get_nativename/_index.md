@@ -4,7 +4,7 @@ linktitle: get_NativeName
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_NativeName method. Gets culture native name in C++.'
 type: docs
-weight: 400
+weight: 1700
 url: /cpp/system.globalization/cultureinfo/get_nativename/
 ---
 ## CultureInfo::get_NativeName method

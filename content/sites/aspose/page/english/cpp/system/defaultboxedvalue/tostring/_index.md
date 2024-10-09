@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::DefaultBoxedValue::ToString method. Returns the string representation of the boxed value in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system/defaultboxedvalue/tostring/
 ---
 ## DefaultBoxedValue::ToString method

@@ -21,25 +21,6 @@ System::IO::MemoryStream::MemoryStream()
 * Class [MemoryStream](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
-## MemoryStream::MemoryStream(int) constructor
-
-
-Constructs a new instance of the [MemoryStream](../) class that represents a stream based on a memory buffer of the specified size.
-
-```cpp
-System::IO::MemoryStream::MemoryStream(int capacity_)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| capacity_ | int | The size in bytes of a memory buffer associated with the stream represented by the object being created |
-
-## See Also
-
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
 ## MemoryStream::MemoryStream(const ArrayPtr\<uint8_t\>\&, bool) constructor
 
 
@@ -82,6 +63,25 @@ System::IO::MemoryStream::MemoryStream(const ArrayPtr<uint8_t> &content, int ind
 ## See Also
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## MemoryStream::MemoryStream(int) constructor
+
+
+Constructs a new instance of the [MemoryStream](../) class that represents a stream based on a memory buffer of the specified size.
+
+```cpp
+System::IO::MemoryStream::MemoryStream(int capacity_)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| capacity_ | int | The size in bytes of a memory buffer associated with the stream represented by the object being created |
+
+## See Also
+
 * Class [MemoryStream](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

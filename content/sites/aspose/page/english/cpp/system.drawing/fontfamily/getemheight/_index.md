@@ -4,7 +4,7 @@ linktitle: GetEmHeight
 second_title: Aspose.Page for C++
 description: 'System::Drawing::FontFamily::GetEmHeight method. Returns the height of em square in font design units for the specified style in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.drawing/fontfamily/getemheight/
 ---
 ## FontFamily::GetEmHeight method

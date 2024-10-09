@@ -4,7 +4,7 @@ linktitle: GetInvalidPathChars
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::GetInvalidPathChars method. Returns an array containing characters that are not allowed in path names in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.io/path/getinvalidpathchars/
 ---
 ## Path::GetInvalidPathChars method

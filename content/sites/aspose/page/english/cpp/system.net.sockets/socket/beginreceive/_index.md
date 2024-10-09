@@ -4,7 +4,7 @@ linktitle: BeginReceive
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::BeginReceive method. Initiates an asynchronous write operation in C++.'
 type: docs
-weight: 4100
+weight: 800
 url: /cpp/system.net.sockets/socket/beginreceive/
 ---
 ## Socket::BeginReceive method

@@ -4,7 +4,7 @@ linktitle: GetLeapMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetLeapMonth method. Gets the leap month for the specified year in C++.'
 type: docs
-weight: 2200
+weight: 2600
 url: /cpp/system.globalization/calendar/getleapmonth/
 ---
 ## Calendar::GetLeapMonth(int) const method

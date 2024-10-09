@@ -4,7 +4,7 @@ linktitle: CreateImageBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::CreateImageBrush method. Creates a new image brush in C++.'
 type: docs
-weight: 5500
+weight: 1800
 url: /cpp/aspose.page.xps/xpsdocument/createimagebrush/
 ---
 ## XpsDocument::CreateImageBrush(System::SharedPtr\<XpsModel::XpsImage\>, System::Drawing::RectangleF, System::Drawing::RectangleF) method

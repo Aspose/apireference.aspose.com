@@ -4,7 +4,7 @@ linktitle: get_VisibleClipBounds
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_VisibleClipBounds method. Returns the RectangleF object that represents a bounding rectangle of the visible clipping region of the current Graphics object in C++.'
 type: docs
-weight: 8500
+weight: 5800
 url: /cpp/system.drawing/graphics/get_visibleclipbounds/
 ---
 ## Graphics::get_VisibleClipBounds method

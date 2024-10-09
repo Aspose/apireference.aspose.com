@@ -4,7 +4,7 @@ linktitle: CreateSubdirectory
 second_title: Aspose.Page for C++
 description: 'System::IO::DirectoryInfo::CreateSubdirectory method. Creates subdirectories on the specified path in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.io/directoryinfo/createsubdirectory/
 ---
 ## DirectoryInfo::CreateSubdirectory method

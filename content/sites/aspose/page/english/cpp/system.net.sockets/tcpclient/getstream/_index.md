@@ -4,7 +4,7 @@ linktitle: GetStream
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::GetStream method. Returns the stream that is used for sending and receiving data in C++.'
 type: docs
-weight: 2300
+weight: 1700
 url: /cpp/system.net.sockets/tcpclient/getstream/
 ---
 ## TcpClient::GetStream method

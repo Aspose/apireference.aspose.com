@@ -4,7 +4,7 @@ linktitle: set_CenterPoint
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::set_CenterPoint method. Sets the center point of the gradient in C++.'
 type: docs
-weight: 700
+weight: 1800
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_centerpoint/
 ---
 ## PathGradientBrush::set_CenterPoint method

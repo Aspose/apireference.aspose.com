@@ -4,7 +4,7 @@ linktitle: ReadSByte
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadSByte method. Reads a single byte from the input stream and returns it as a signed 8-bit integer value in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/system.io/binaryreader/readsbyte/
 ---
 ## BinaryReader::ReadSByte method

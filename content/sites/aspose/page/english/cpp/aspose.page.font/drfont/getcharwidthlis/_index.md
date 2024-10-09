@@ -4,7 +4,7 @@ linktitle: GetCharWidthLis
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::GetCharWidthLis method. Gets the char width lis in C++.'
 type: docs
-weight: 2400
+weight: 1900
 url: /cpp/aspose.page.font/drfont/getcharwidthlis/
 ---
 ## DrFont::GetCharWidthLis method

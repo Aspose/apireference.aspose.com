@@ -4,7 +4,7 @@ linktitle: set_PageSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PsSaveOptions::set_PageSize method. The size of the page in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/aspose.page.eps.device/pssaveoptions/set_pagesize/
 ---
 ## PsSaveOptions::set_PageSize method

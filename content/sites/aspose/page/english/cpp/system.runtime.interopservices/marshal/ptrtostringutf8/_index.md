@@ -4,7 +4,7 @@ linktitle: PtrToStringUTF8
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::PtrToStringUTF8 method. Creates a managed String from an unmanaged zero-terminated UTF8-string in C++.'
 type: docs
-weight: 2200
+weight: 800
 url: /cpp/system.runtime.interopservices/marshal/ptrtostringutf8/
 ---
 ## Marshal::PtrToStringUTF8(IntPtr) method

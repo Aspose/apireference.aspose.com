@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Net::WebHeaderCollection::get_Count method. Returns a number of elements in the collection in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/system.net/webheadercollection/get_count/
 ---
 ## WebHeaderCollection::get_Count method

@@ -4,7 +4,7 @@ linktitle: get_ReflectedType
 second_title: Aspose.Page for C++
 description: 'System::Reflection::MemberInfo::get_ReflectedType method. Gets reflected type type in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.reflection/memberinfo/get_reflectedtype/
 ---
 ## MemberInfo::get_ReflectedType method

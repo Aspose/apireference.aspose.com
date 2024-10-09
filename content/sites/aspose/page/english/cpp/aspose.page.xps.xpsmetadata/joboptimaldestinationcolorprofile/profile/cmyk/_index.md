@@ -4,7 +4,7 @@ linktitle: CMYK
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobOptimalDestinationColorProfile::Profile::CMYK field. CMYK profile in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile/profile/cmyk/
 ---
 ## CMYK field

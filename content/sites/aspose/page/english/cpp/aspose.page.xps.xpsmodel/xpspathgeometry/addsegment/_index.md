@@ -4,7 +4,7 @@ linktitle: AddSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathGeometry::AddSegment method. Adds a path segment to the list of child segments of the last pah figure in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/addsegment/
 ---
 ## XpsPathGeometry::AddSegment method

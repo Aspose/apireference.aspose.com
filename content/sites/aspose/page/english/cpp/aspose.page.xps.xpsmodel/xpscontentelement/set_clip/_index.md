@@ -4,7 +4,7 @@ linktitle: set_Clip
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsContentElement::set_Clip method. Returns/sets the path geometry instance limiting the rendered region of the element in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.page.xps.xpsmodel/xpscontentelement/set_clip/
 ---
 ## XpsContentElement::set_Clip method

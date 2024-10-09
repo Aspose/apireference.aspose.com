@@ -4,7 +4,7 @@ linktitle: IsNameToken
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::IsNameToken method. Returns a value indicating whether or not the string argument is a valid XML name token in C++.'
 type: docs
-weight: 7800
+weight: 7900
 url: /cpp/system.xml/xmlreader/isnametoken/
 ---
 ## XmlReader::IsNameToken method

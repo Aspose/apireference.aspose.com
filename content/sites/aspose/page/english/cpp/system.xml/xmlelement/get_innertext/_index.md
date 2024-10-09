@@ -4,7 +4,7 @@ linktitle: get_InnerText
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::get_InnerText method. Returns the concatenated values of the node and all its children in C++.'
 type: docs
-weight: 1400
+weight: 300
 url: /cpp/system.xml/xmlelement/get_innertext/
 ---
 ## XmlElement::get_InnerText method

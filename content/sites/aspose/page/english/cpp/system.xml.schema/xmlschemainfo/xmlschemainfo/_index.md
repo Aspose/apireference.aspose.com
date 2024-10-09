@@ -4,7 +4,7 @@ linktitle: XmlSchemaInfo
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::XmlSchemaInfo constructor. Initializes a new instance of the XmlSchemaInfo class in C++.'
 type: docs
-weight: 1700
+weight: 100
 url: /cpp/system.xml.schema/xmlschemainfo/xmlschemainfo/
 ---
 ## XmlSchemaInfo::XmlSchemaInfo constructor

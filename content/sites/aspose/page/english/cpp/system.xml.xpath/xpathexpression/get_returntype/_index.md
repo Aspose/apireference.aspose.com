@@ -4,7 +4,7 @@ linktitle: get_ReturnType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathExpression::get_ReturnType method. When overridden in a derived class, gets the result type of the XPath expression in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml.xpath/xpathexpression/get_returntype/
 ---
 ## XPathExpression::get_ReturnType method

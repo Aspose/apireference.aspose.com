@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::Clear method. Removes all cookies from the collection in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.net/cookiecollection/clear/
 ---
 ## CookieCollection::Clear method

@@ -4,7 +4,7 @@ linktitle: set_SendBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::set_SendBufferSize method. Sets the size of the buffer that is used for sending data in C++.'
 type: docs
-weight: 1000
+weight: 2400
 url: /cpp/system.net.sockets/tcpclient/set_sendbuffersize/
 ---
 ## TcpClient::set_SendBufferSize method

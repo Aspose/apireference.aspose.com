@@ -4,7 +4,7 @@ linktitle: PsSaveOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PsSaveOptions::PsSaveOptions constructor. Initializes a new instance of the PsSaveOptions class with default values for flags SuppressErrors (true) and Debug (false) in C++.'
 type: docs
-weight: 1500
+weight: 100
 url: /cpp/aspose.page.eps.device/pssaveoptions/pssaveoptions/
 ---
 ## PsSaveOptions::PsSaveOptions() constructor

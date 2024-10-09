@@ -4,7 +4,7 @@ linktitle: XmlPreloadedResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::Resolvers::XmlPreloadedResolver::XmlPreloadedResolver constructor. Initializes a new instance of the XmlPreloadedResolver class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/xmlpreloadedresolver/
 ---
 ## XmlPreloadedResolver::XmlPreloadedResolver() constructor
@@ -18,26 +18,6 @@ System::Xml::Resolvers::XmlPreloadedResolver::XmlPreloadedResolver()
 
 ## See Also
 
-* Class [XmlPreloadedResolver](../)
-* Namespace [System::Xml::Resolvers](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlPreloadedResolver::XmlPreloadedResolver(XmlKnownDtds) constructor
-
-
-Initializes a new instance of the [XmlPreloadedResolver](../) class with the specified preloaded well-known DTDs.
-
-```cpp
-System::Xml::Resolvers::XmlPreloadedResolver::XmlPreloadedResolver(XmlKnownDtds preloadedDtds)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| preloadedDtds | XmlKnownDtds | The well-known DTDs that should be prepopulated into the cache. |
-
-## See Also
-
-* Enum [XmlKnownDtds](../../xmlknowndtds/)
 * Class [XmlPreloadedResolver](../)
 * Namespace [System::Xml::Resolvers](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -108,6 +88,26 @@ System::Xml::Resolvers::XmlPreloadedResolver::XmlPreloadedResolver(const SharedP
 * Enum [XmlKnownDtds](../../xmlknowndtds/)
 * Class [IEqualityComparer](../../../system.collections.generic/iequalitycomparer/)
 * Class [Uri](../../../system/uri/)
+* Class [XmlPreloadedResolver](../)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlPreloadedResolver::XmlPreloadedResolver(XmlKnownDtds) constructor
+
+
+Initializes a new instance of the [XmlPreloadedResolver](../) class with the specified preloaded well-known DTDs.
+
+```cpp
+System::Xml::Resolvers::XmlPreloadedResolver::XmlPreloadedResolver(XmlKnownDtds preloadedDtds)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| preloadedDtds | XmlKnownDtds | The well-known DTDs that should be prepopulated into the cache. |
+
+## See Also
+
+* Enum [XmlKnownDtds](../../xmlknowndtds/)
 * Class [XmlPreloadedResolver](../)
 * Namespace [System::Xml::Resolvers](../../)
 * Library [Aspose.Page for C++](../../../)

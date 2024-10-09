@@ -4,7 +4,7 @@ linktitle: set_AnyAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_AnyAttribute method. Sets an XmlSchemaAnyAttribute to be used for the attribute value in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/set_anyattribute/
 ---
 ## XmlSchemaSimpleContentRestriction::set_AnyAttribute method

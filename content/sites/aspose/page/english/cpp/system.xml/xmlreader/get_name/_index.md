@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_Name method. When overridden in a derived class, gets the qualified name of the current node in C++.'
 type: docs
-weight: 300
+weight: 1500
 url: /cpp/system.xml/xmlreader/get_name/
 ---
 ## XmlReader::get_Name method

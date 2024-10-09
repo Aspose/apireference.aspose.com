@@ -4,7 +4,7 @@ linktitle: set_ResponseElementName
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_ResponseElementName method. Sets the name of the XML element associated with the SOAP response in C++.'
 type: docs
-weight: 1400
+weight: 1700
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_responseelementname/
 ---
 ## SoapDocumentMethodAttribute::set_ResponseElementName method

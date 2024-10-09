@@ -4,7 +4,7 @@ linktitle: set_Center
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsRadialGradientBrush::set_Center method. Returns/sets the center point of the radial gradient (that is, the center of the ellipse) in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpsradialgradientbrush/set_center/
 ---
 ## XpsRadialGradientBrush::set_Center method

@@ -4,7 +4,7 @@ linktitle: Round
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::Round method. Constructs a Size object from the specified SizeF object by rounding the SizeF object''s width and height values to the nearest integer values in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.drawing/size/round/
 ---
 ## Size::Round method

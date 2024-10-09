@@ -4,7 +4,7 @@ linktitle: set_Matrix21
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix21 method. Sets a value in the 2-nd row and 1-st column in C++.'
 type: docs
-weight: 2700
+weight: 4000
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix21/
 ---
 ## ColorMatrix::set_Matrix21 method

@@ -4,7 +4,7 @@ linktitle: get_OneWay
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapClientMessage::get_OneWay method. Returns a value that indicates if a client doesn''t wait for a server to finish processing a method in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.web.services.protocols/soapclientmessage/get_oneway/
 ---
 ## SoapClientMessage::get_OneWay method

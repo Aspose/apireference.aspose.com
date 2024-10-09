@@ -4,7 +4,7 @@ linktitle: get_BaseXmlSchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_BaseXmlSchemaType method. Returns the post-compilation value for the base type of this schema type in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.xml.schema/xmlschematype/get_basexmlschematype/
 ---
 ## XmlSchemaType::get_BaseXmlSchemaType method

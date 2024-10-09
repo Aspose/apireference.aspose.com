@@ -4,7 +4,7 @@ linktitle: get_NativeDigits
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_NativeDigits method. Gets digits symbols (0 through 9) in C++.'
 type: docs
-weight: 5400
+weight: 1300
 url: /cpp/system.globalization/numberformatinfo/get_nativedigits/
 ---
 ## NumberFormatInfo::get_NativeDigits method

@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'How to use ToString method of System::MulticastDelegate< ReturnType(ArgumentTypes...)> class in C++.'
 type: docs
-weight: 700
+weight: 2000
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/tostring/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::ToString method

@@ -4,7 +4,7 @@ linktitle: get_AdvanceWidth
 second_title: Aspose.Page for C++
 description: 'How to use get_AdvanceWidth method of Aspose::Page::XPS::XpsModel::XpsGlyphMapping class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphmapping/get_advancewidth/
 ---
 ## XpsGlyphMapping::get_AdvanceWidth method

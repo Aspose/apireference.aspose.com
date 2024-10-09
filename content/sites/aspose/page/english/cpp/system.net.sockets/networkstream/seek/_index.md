@@ -4,7 +4,7 @@ linktitle: Seek
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::Seek method. Sets the position of the stream represented by the current object in C++.'
 type: docs
-weight: 1500
+weight: 2000
 url: /cpp/system.net.sockets/networkstream/seek/
 ---
 ## NetworkStream::Seek method

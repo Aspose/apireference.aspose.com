@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.Page for C++
 description: 'How to use set_Value method of Aspose::Page::EPS::Util::ThreadLocal class in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.page.eps.util/threadlocal/set_value/
 ---
 ## ThreadLocal::set_Value method

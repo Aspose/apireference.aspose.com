@@ -4,7 +4,7 @@ linktitle: get_OffsetX
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::get_OffsetX method. Returns the X translation value of the matrix represented by the current object in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.drawing.drawing2d/matrix/get_offsetx/
 ---
 ## Matrix::get_OffsetX method

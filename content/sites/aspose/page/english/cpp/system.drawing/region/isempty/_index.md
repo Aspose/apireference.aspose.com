@@ -4,7 +4,7 @@ linktitle: IsEmpty
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::IsEmpty method. Determines wheter the region represented by the current object has empty interior on the specified drawing surface in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/system.drawing/region/isempty/
 ---
 ## Region::IsEmpty method

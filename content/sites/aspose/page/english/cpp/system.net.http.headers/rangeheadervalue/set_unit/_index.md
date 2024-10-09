@@ -4,7 +4,7 @@ linktitle: set_Unit
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::RangeHeaderValue::set_Unit method. Sets a unit in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.net.http.headers/rangeheadervalue/set_unit/
 ---
 ## RangeHeaderValue::set_Unit method

@@ -4,7 +4,7 @@ linktitle: GetPropertyStringArray
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertyStringArray method. Gets string array property value in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.page/userproperties/getpropertystringarray/
 ---
 ## UserProperties::GetPropertyStringArray(System::String) method

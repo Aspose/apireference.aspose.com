@@ -4,7 +4,7 @@ linktitle: PerformClick
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::IButtonControl::PerformClick method. Performs click on the button in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.windows.forms/ibuttoncontrol/performclick/
 ---
 ## IButtonControl::PerformClick method

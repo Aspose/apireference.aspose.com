@@ -4,7 +4,7 @@ linktitle: WriteContentTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCDataSection::WriteContentTo method. Saves the children of the node to the specified XmlWriter in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.xml/xmlcdatasection/writecontentto/
 ---
 ## XmlCDataSection::WriteContentTo method

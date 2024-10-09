@@ -4,7 +4,7 @@ linktitle: set_PaperName
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PaperSize::set_PaperName method. Sets the name of the type of paper in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.drawing.printing/papersize/set_papername/
 ---
 ## PaperSize::set_PaperName method

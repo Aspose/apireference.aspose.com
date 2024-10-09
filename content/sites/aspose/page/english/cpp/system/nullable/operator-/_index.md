@@ -2,28 +2,32 @@
 title: System::Nullable::operator- method
 linktitle: operator-
 second_title: Aspose.Page for C++
-description: 'System::Nullable::operator- method. Subtracts nullable and null-pointed values in C++.'
+description: 'System::Nullable::operator- method. Subtracts nullable values in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/system/nullable/operator-/
 ---
-## Nullable::operator-(T1) const method
+## Nullable::operator-(const Nullable\<T1\>\&) const method
 
 
-Subtracts nullable and null-pointed values.
+Subtracts nullable values.
 
 ```cpp
-template<typename T1,typename> Nullable<T> System::Nullable<T>::operator-(T1) const
+template<typename T1> System::Nullable<decltype(get_Value() - other.get_Value())> System::Nullable<T>::operator-(const Nullable<T1> &other) const
 ```
 
 
 | Parameter | Description |
 | --- | --- |
-| T1 | Right operand type, should be nullptr_t. |
+| T1 | Right operand type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | const Nullable\<T1\>\& | value to subtract. |
 
 ### ReturnValue
 
-Empty [Nullable](../) object.
+Subtraction result.
 
 ## See Also
 
@@ -59,27 +63,23 @@ Subtraction result.
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::operator-(const Nullable\<T1\>\&) const method
+## Nullable::operator-(T1) const method
 
 
-Subtracts nullable values.
+Subtracts nullable and null-pointed values.
 
 ```cpp
-template<typename T1> System::Nullable<decltype(get_Value() - other.get_Value())> System::Nullable<T>::operator-(const Nullable<T1> &other) const
+template<typename T1,typename> Nullable<T> System::Nullable<T>::operator-(T1) const
 ```
 
 
 | Parameter | Description |
 | --- | --- |
-| T1 | Right operand type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | const Nullable\<T1\>\& | value to subtract. |
+| T1 | Right operand type, should be nullptr_t. |
 
 ### ReturnValue
 
-Subtraction result.
+Empty [Nullable](../) object.
 
 ## See Also
 

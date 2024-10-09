@@ -4,7 +4,7 @@ linktitle: SocketOptionLevel
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::SocketOptionLevel enum. Defines socket option levels for the ''Socket'' class in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/system.net.sockets/socketoptionlevel/
 ---
 ## SocketOptionLevel enum

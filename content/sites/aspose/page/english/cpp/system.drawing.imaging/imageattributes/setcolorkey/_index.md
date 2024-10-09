@@ -4,7 +4,7 @@ linktitle: SetColorKey
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::SetColorKey method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1300
+weight: 1500
 url: /cpp/system.drawing.imaging/imageattributes/setcolorkey/
 ---
 ## ImageAttributes::SetColorKey method

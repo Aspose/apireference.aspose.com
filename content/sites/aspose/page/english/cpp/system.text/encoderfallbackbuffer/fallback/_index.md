@@ -4,7 +4,7 @@ linktitle: Fallback
 second_title: Aspose.Page for C++
 description: 'System::Text::EncoderFallbackBuffer::Fallback method. Implements actual fallback procedure in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.text/encoderfallbackbuffer/fallback/
 ---
 ## EncoderFallbackBuffer::Fallback(char_t, int) method

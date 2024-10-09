@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCollection::get_Count method. Returns the number of namespaces defined in this collection in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.xml.schema/xmlschemacollection/get_count/
 ---
 ## XmlSchemaCollection::get_Count method

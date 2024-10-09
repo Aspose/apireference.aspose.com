@@ -4,7 +4,7 @@ linktitle: set_ExclusiveAddressUse
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::set_ExclusiveAddressUse method. Sets a value that indicates if the current instance allows only one client to use a port in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/system.net.sockets/tcplistener/set_exclusiveaddressuse/
 ---
 ## TcpListener::set_ExclusiveAddressUse method

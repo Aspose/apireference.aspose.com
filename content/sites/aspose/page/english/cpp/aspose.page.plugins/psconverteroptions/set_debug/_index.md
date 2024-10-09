@@ -4,7 +4,7 @@ linktitle: set_Debug
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverterOptions::set_Debug method. Specifies whether debug information must be printed to standard output stream or not in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/aspose.page.plugins/psconverteroptions/set_debug/
 ---
 ## PsConverterOptions::set_Debug method

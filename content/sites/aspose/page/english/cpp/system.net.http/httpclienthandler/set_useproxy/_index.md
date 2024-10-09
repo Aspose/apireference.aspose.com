@@ -4,7 +4,7 @@ linktitle: set_UseProxy
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClientHandler::set_UseProxy method. Sets the value that indicates if the current instance uses the proxy for sending requests in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.net.http/httpclienthandler/set_useproxy/
 ---
 ## HttpClientHandler::set_UseProxy method

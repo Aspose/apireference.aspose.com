@@ -4,7 +4,7 @@ linktitle: get_InvariantCulture
 second_title: Aspose.Page for C++
 description: 'System::StringComparer::get_InvariantCulture method. Invariant culture comparer singleton in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/stringcomparer/get_invariantculture/
 ---
 ## StringComparer::get_InvariantCulture method

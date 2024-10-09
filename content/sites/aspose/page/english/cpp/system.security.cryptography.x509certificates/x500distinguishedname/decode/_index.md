@@ -4,7 +4,7 @@ linktitle: Decode
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X500DistinguishedName::Decode method. Decodes name using parameters specified by flags in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/decode/
 ---
 ## X500DistinguishedName::Decode method

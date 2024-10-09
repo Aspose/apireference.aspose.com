@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::get_Width method. Returns/sets the width of the page, expressed as a real number in units of the effective coordinate space in C++.'
 type: docs
-weight: 600
+weight: 2700
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/get_width/
 ---
 ## PageAPI::get_Width method

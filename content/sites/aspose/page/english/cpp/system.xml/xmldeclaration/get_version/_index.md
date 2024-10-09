@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDeclaration::get_Version method. Returns the XML version of the document in C++.'
 type: docs
-weight: 100
+weight: 900
 url: /cpp/system.xml/xmldeclaration/get_version/
 ---
 ## XmlDeclaration::get_Version method

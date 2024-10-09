@@ -4,7 +4,7 @@ linktitle: SIZE_LEGAL
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PageConstants::SIZE_LEGAL method. "Legal" page size value in C++.'
 type: docs
-weight: 1200
+weight: 2400
 url: /cpp/aspose.page.eps/pageconstants/size_legal/
 ---
 ## PageConstants::SIZE_LEGAL method

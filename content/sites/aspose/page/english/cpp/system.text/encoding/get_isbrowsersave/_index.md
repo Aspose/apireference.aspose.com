@@ -4,7 +4,7 @@ linktitle: get_IsBrowserSave
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_IsBrowserSave method. Checks whether encoding can be used in browser to save content in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.text/encoding/get_isbrowsersave/
 ---
 ## Encoding::get_IsBrowserSave method

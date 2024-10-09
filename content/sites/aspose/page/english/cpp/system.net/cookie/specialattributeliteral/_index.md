@@ -4,7 +4,7 @@ linktitle: SpecialAttributeLiteral
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::SpecialAttributeLiteral field. The prefix of the special attributes'' names in C++.'
 type: docs
-weight: 5900
+weight: 6100
 url: /cpp/system.net/cookie/specialattributeliteral/
 ---
 ## SpecialAttributeLiteral field

@@ -4,7 +4,7 @@ linktitle: GetKey
 second_title: Aspose.Page for C++
 description: 'System::Net::WebHeaderCollection::GetKey method. Returns a key at the specified index in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/system.net/webheadercollection/getkey/
 ---
 ## WebHeaderCollection::GetKey method

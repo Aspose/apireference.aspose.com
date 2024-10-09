@@ -4,7 +4,7 @@ linktitle: set_UserAgent
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_UserAgent method. Sets a value of the ''User-Agent'' header in C++.'
 type: docs
-weight: 5000
+weight: 5800
 url: /cpp/system.net/httpwebrequest/set_useragent/
 ---
 ## HttpWebRequest::set_UserAgent method

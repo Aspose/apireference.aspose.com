@@ -4,7 +4,7 @@ linktitle: get_Private
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::get_Private method. Gets the value that determines if the HTTP response message or its part is intended for a single user and must not be cached by a shared cache in C++.'
 type: docs
-weight: 2200
+weight: 1400
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_private/
 ---
 ## CacheControlHeaderValue::get_Private method

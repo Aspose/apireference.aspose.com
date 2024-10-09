@@ -4,7 +4,7 @@ linktitle: CloseConnectionGroup
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::CloseConnectionGroup method. Closes and removes connections that belong to the specified connection group in C++.'
 type: docs
-weight: 2300
+weight: 100
 url: /cpp/system.net/servicepoint/closeconnectiongroup/
 ---
 ## ServicePoint::CloseConnectionGroup method

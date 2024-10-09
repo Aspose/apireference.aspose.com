@@ -4,7 +4,7 @@ linktitle: get_StartCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_StartCap method. Returns a value that indicates the starting line cap of the current Pen object in C++.'
 type: docs
-weight: 600
+weight: 1600
 url: /cpp/system.drawing/pen/get_startcap/
 ---
 ## Pen::get_StartCap method

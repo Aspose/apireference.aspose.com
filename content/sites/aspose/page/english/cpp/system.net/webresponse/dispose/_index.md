@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Net::WebResponse::Dispose method. Does nothing in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.net/webresponse/dispose/
 ---
 ## WebResponse::Dispose method

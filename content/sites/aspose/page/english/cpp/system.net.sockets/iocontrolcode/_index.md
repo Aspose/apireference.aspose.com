@@ -4,7 +4,7 @@ linktitle: IOControlCode
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::IOControlCode enum. Enumerates the IO control codes in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.net.sockets/iocontrolcode/
 ---
 ## IOControlCode enum

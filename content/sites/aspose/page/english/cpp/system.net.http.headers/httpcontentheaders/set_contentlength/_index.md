@@ -4,7 +4,7 @@ linktitle: set_ContentLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::set_ContentLength method. Sets a value of the ''Content-Length'' header in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentlength/
 ---
 ## HttpContentHeaders::set_ContentLength method

@@ -4,7 +4,7 @@ linktitle: ReadByte
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSTDOStreamWrapper::ReadByte method. If wrapping mode is binary, reads a single byte from the last decoded character storage, otherwise read a single character from the stream and convert it to uint8_t type. Not supported! in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.io/basicstdostreamwrapper/readbyte/
 ---
 ## BasicSTDOStreamWrapper::ReadByte method

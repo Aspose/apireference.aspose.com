@@ -4,7 +4,7 @@ linktitle: set_MinOccurs
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaParticle::set_MinOccurs method. Sets the minimum number of times the particle can occur in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.xml.schema/xmlschemaparticle/set_minoccurs/
 ---
 ## XmlSchemaParticle::set_MinOccurs method

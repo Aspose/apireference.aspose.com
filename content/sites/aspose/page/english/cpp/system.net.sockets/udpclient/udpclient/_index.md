@@ -4,7 +4,7 @@ linktitle: UdpClient
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::UdpClient::UdpClient constructor. Initializes a new instance of the UdpClient class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.sockets/udpclient/udpclient/
 ---
 ## UdpClient::UdpClient() constructor
@@ -81,22 +81,6 @@ System::Net::Sockets::UdpClient::UdpClient(int32_t port, AddressFamily family)
 * Class [UdpClient](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)
-## UdpClient::UdpClient(System::SharedPtr\<IPEndPoint\>) constructor
-
-
-Initializes a new instance of the [UdpClient](../) class. param local EP the local endpoint to which you bind the UDP connection.
-
-```cpp
-System::Net::Sockets::UdpClient::UdpClient(System::SharedPtr<IPEndPoint> localEP)
-```
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPEndPoint](../../../system.net/ipendpoint/)
-* Class [UdpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
 ## UdpClient::UdpClient(String, int32_t) constructor
 
 
@@ -115,6 +99,22 @@ System::Net::Sockets::UdpClient::UdpClient(String hostname, int32_t port)
 ## See Also
 
 * Class [String](../../../system/string/)
+* Class [UdpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## UdpClient::UdpClient(System::SharedPtr\<IPEndPoint\>) constructor
+
+
+Initializes a new instance of the [UdpClient](../) class. param local EP the local endpoint to which you bind the UDP connection.
+
+```cpp
+System::Net::Sockets::UdpClient::UdpClient(System::SharedPtr<IPEndPoint> localEP)
+```
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
 * Class [UdpClient](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -41,12 +41,12 @@ template<typename T,typename>class BasicSTDIOStreamWrapper : public System::IO::
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) |  |
-| [BaseType](./basetype/) |  |
 | [BaseIType](./baseitype/) |  |
 | [BaseOType](./baseotype/) |  |
-| [ThisTypeBaseTypesInfo](./thistypebasetypesinfo/) |  |
+| [BaseType](./basetype/) |  |
 | [char_type](./char_type/) | RTTI information. |
+| [ThisType](./thistype/) |  |
+| [ThisTypeBaseTypesInfo](./thistypebasetypesinfo/) |  |
 | [traits_type](./traits_type/) |  |
 ## See Also
 

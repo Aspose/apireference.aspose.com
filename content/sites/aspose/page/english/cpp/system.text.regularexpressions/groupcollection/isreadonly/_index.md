@@ -4,7 +4,7 @@ linktitle: IsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::GroupCollection::IsReadOnly method. Marks collection as read-only in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.text.regularexpressions/groupcollection/isreadonly/
 ---
 ## GroupCollection::IsReadOnly method

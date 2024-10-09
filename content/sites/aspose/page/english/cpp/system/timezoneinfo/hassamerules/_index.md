@@ -4,7 +4,7 @@ linktitle: HasSameRules
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::HasSameRules method. Checks if current and another time zones have the same adjustment rules in C++.'
 type: docs
-weight: 2400
+weight: 2600
 url: /cpp/system/timezoneinfo/hassamerules/
 ---
 ## TimeZoneInfo::HasSameRules method

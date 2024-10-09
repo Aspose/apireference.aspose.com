@@ -7,26 +7,6 @@ type: docs
 weight: 100
 url: /cpp/system.collections.generic/valueiterator/valueiterator/
 ---
-## ValueIterator::ValueIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor
-
-
-Constructor.
-
-```cpp
-System::Collections::Generic::ValueIterator<Dict>::ValueIterator(typename Dict::map_t::const_iterator &&iterator, typename Dict::map_t::const_iterator &&end) noexcept
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| iterator | typename Dict::map_t::const_iterator\&& | Iterator to hold. |
-| end | typename Dict::map_t::const_iterator\&& | Iterator to the end of the container. |
-
-## See Also
-
-* Class [ValueIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## ValueIterator::ValueIterator(const typename Dict::map_t::const_iterator\&, const typename Dict::map_t::const_iterator\&) constructor
 
 
@@ -41,6 +21,26 @@ System::Collections::Generic::ValueIterator<Dict>::ValueIterator(const typename 
 | --- | --- | --- |
 | iterator | const typename Dict::map_t::const_iterator\& | Iterator to hold. |
 | end | const typename Dict::map_t::const_iterator\& | Iterator to the end of the container. |
+
+## See Also
+
+* Class [ValueIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## ValueIterator::ValueIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor
+
+
+Constructor.
+
+```cpp
+System::Collections::Generic::ValueIterator<Dict>::ValueIterator(typename Dict::map_t::const_iterator &&iterator, typename Dict::map_t::const_iterator &&end) noexcept
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| iterator | typename Dict::map_t::const_iterator\&& | Iterator to hold. |
+| end | typename Dict::map_t::const_iterator\&& | Iterator to the end of the container. |
 
 ## See Also
 

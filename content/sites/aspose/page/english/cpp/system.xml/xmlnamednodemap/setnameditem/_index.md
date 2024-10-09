@@ -4,7 +4,7 @@ linktitle: SetNamedItem
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamedNodeMap::SetNamedItem method. Adds an XmlNode using its XmlNode::get_Name value in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.xml/xmlnamednodemap/setnameditem/
 ---
 ## XmlNamedNodeMap::SetNamedItem method

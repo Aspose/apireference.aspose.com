@@ -4,7 +4,7 @@ linktitle: SchemeDelimiter
 second_title: Aspose.Page for C++
 description: 'System::Uri::SchemeDelimiter field. Specifies the characters that separate the communication protocol scheme from the address portion of the Uri in C++.'
 type: docs
-weight: 5600
+weight: 4600
 url: /cpp/system/uri/schemedelimiter/
 ---
 ## SchemeDelimiter field

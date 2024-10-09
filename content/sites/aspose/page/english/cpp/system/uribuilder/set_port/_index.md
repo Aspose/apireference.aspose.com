@@ -4,7 +4,7 @@ linktitle: set_Port
 second_title: Aspose.Page for C++
 description: 'System::UriBuilder::set_Port method. Sets the sets the port number of the URI in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system/uribuilder/set_port/
 ---
 ## UriBuilder::set_Port method

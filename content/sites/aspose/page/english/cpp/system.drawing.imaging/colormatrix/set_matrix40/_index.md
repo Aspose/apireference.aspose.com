@@ -4,7 +4,7 @@ linktitle: set_Matrix40
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix40 method. Sets a value in the 4-th row and 0-th column in C++.'
 type: docs
-weight: 4500
+weight: 4900
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix40/
 ---
 ## ColorMatrix::set_Matrix40 method

@@ -4,7 +4,7 @@ linktitle: get_TableName
 second_title: Aspose.Page for C++
 description: 'System::Data::DataTable::get_TableName method. Gets table name in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.data/datatable/get_tablename/
 ---
 ## DataTable::get_TableName method

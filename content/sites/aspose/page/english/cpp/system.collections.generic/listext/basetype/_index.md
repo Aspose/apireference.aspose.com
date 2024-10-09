@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic::ListExt::BaseType typedef of System::Collections::Generic::ListExt class in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.collections.generic/listext/basetype/
 ---
 ## BaseType typedef

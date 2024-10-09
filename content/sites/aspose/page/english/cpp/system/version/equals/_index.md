@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Version::Equals method. Determines if the version numbers represented by the current and the specified objects are equal in C++.'
 type: docs
-weight: 1000
+weight: 300
 url: /cpp/system/version/equals/
 ---
 ## Version::Equals method

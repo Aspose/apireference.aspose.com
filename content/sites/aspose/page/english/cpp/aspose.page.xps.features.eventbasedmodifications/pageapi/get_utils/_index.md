@@ -4,7 +4,7 @@ linktitle: get_Utils
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::get_Utils method. Gets the object that provides utilities beyond the formal XPS manipulation API in C++.'
 type: docs
-weight: 100
+weight: 2600
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/get_utils/
 ---
 ## PageAPI::get_Utils method

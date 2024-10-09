@@ -4,7 +4,7 @@ linktitle: FaultNode
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Element::FaultNode field. The string representation of the ''Node'' element name in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.web.services/soap12/element/faultnode/
 ---
 ## FaultNode field

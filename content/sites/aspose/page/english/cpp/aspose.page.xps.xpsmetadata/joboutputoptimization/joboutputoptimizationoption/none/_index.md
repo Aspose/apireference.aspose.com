@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobOutputOptimization::JobOutputOptimizationOption::None field. Specifies the job processing should not be optimized for a particular scenario in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/joboutputoptimization/joboutputoptimizationoption/none/
 ---
 ## None field

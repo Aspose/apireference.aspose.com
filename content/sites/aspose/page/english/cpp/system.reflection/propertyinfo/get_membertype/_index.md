@@ -4,7 +4,7 @@ linktitle: get_MemberType
 second_title: Aspose.Page for C++
 description: 'System::Reflection::PropertyInfo::get_MemberType method. Gets a MemberTypes value indicating that this member is a property in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.reflection/propertyinfo/get_membertype/
 ---
 ## PropertyInfo::get_MemberType method

@@ -4,7 +4,7 @@ linktitle: SetColorMatrix
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::SetColorMatrix method. Sets the color-adjustment matrix in C++.'
 type: docs
-weight: 1500
+weight: 1700
 url: /cpp/system.drawing.imaging/imageattributes/setcolormatrix/
 ---
 ## ImageAttributes::SetColorMatrix method

@@ -4,7 +4,7 @@ linktitle: Letterhead
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PrePrinted::Letterhead field. Letterhead value in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/preprinted/letterhead/
 ---
 ## Letterhead field

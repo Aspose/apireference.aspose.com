@@ -4,7 +4,7 @@ linktitle: Compile
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::Compile method. Compiles the XML SchemaObject Model (SOM) into schema information for validation. Used to check the syntactic and semantic structure of the programmatically built SOM. Semantic validation checking is performed during compilation in C++.'
 type: docs
-weight: 2800
+weight: 200
 url: /cpp/system.xml.schema/xmlschema/compile/
 ---
 ## XmlSchema::Compile(ValidationEventHandler) method

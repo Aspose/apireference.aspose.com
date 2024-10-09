@@ -4,7 +4,7 @@ linktitle: IPEndPoint
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::IPEndPoint constructor. Constructs a new instance in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/system.net/ipendpoint/ipendpoint/
 ---
 ## IPEndPoint::IPEndPoint(int64_t, int32_t) constructor

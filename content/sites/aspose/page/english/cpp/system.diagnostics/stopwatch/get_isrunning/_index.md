@@ -4,7 +4,7 @@ linktitle: get_IsRunning
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Stopwatch::get_IsRunning method. Checks if stopwatch is running in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.diagnostics/stopwatch/get_isrunning/
 ---
 ## Stopwatch::get_IsRunning method

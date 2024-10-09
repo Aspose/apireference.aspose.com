@@ -4,7 +4,7 @@ linktitle: set_IsValueType
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::set_IsValueType method. Sets a value indicating whether the Type is a value type in C++.'
 type: docs
-weight: 5000
+weight: 4700
 url: /cpp/system/typeinfo/set_isvaluetype/
 ---
 ## TypeInfo::set_IsValueType method

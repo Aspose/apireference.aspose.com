@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectCollection::Remove method. Removes an XmlSchemaObject from the XmlSchemaObjectCollection in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/remove/
 ---
 ## XmlSchemaObjectCollection::Remove method

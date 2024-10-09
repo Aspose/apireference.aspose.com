@@ -4,7 +4,7 @@ linktitle: ToType
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToType method. Converts the value of this instance to a System::Object of the specified System::Type that has an equivalent value, using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/system/iconvertible/totype/
 ---
 ## IConvertible::ToType method

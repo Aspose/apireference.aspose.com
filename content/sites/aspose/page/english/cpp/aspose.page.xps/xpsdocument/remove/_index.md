@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::Remove method. Removes an element from the active page in C++.'
 type: docs
-weight: 2500
+weight: 4900
 url: /cpp/aspose.page.xps/xpsdocument/remove/
 ---
 ## XpsDocument::Remove method

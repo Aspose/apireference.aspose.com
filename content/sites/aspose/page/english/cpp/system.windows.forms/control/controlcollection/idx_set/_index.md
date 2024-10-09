@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::idx_set method. By-index accessor in C++.'
 type: docs
-weight: 300
+weight: 1400
 url: /cpp/system.windows.forms/control/controlcollection/idx_set/
 ---
 ## ControlCollection::idx_set(int, System::SharedPtr\<Control\>) method

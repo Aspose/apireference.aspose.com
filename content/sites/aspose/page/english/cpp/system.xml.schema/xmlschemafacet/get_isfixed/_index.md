@@ -4,7 +4,7 @@ linktitle: get_IsFixed
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaFacet::get_IsFixed method. Returns information that indicates that this facet is fixed in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemafacet/get_isfixed/
 ---
 ## XmlSchemaFacet::get_IsFixed method

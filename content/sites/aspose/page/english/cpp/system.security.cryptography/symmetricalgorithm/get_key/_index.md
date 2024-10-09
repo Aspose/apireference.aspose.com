@@ -4,7 +4,7 @@ linktitle: get_Key
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::get_Key method. Gets key of cryptographic operation. Creates new if not created yet in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_key/
 ---
 ## SymmetricAlgorithm::get_Key method

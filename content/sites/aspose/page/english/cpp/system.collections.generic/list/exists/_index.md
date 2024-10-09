@@ -4,7 +4,7 @@ linktitle: Exists
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::Exists method. Checks if element adhering to specific predicate exists in list in C++.'
 type: docs
-weight: 2900
+weight: 1900
 url: /cpp/system.collections.generic/list/exists/
 ---
 ## List::Exists method

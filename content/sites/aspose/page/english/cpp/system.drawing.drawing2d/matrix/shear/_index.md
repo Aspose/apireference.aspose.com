@@ -4,7 +4,7 @@ linktitle: Shear
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::Shear method. Applies the specified shear vector to the matrix represented by the current object in C++.'
 type: docs
-weight: 1400
+weight: 1700
 url: /cpp/system.drawing.drawing2d/matrix/shear/
 ---
 ## Matrix::Shear(float, float) method

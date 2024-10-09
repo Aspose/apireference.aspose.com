@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::Contains method. Checks if queue contains specific element using operator == to compare elements in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.collections.generic/queue/contains/
 ---
 ## Queue::Contains method

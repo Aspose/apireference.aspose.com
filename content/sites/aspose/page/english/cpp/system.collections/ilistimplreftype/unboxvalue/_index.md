@@ -4,7 +4,7 @@ linktitle: UnboxValue
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplRefType::UnboxValue method. Converting object value into partucular type reference in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.collections/ilistimplreftype/unboxvalue/
 ---
 ## IListImplRefType::UnboxValue method

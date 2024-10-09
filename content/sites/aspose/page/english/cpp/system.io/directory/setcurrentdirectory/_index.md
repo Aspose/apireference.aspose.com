@@ -4,7 +4,7 @@ linktitle: SetCurrentDirectory
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::SetCurrentDirectory method. Sets the current directory in C++.'
 type: docs
-weight: 2700
+weight: 2300
 url: /cpp/system.io/directory/setcurrentdirectory/
 ---
 ## Directory::SetCurrentDirectory method

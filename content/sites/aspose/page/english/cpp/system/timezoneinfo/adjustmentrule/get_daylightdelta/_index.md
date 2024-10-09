@@ -4,7 +4,7 @@ linktitle: get_DaylightDelta
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::AdjustmentRule::get_DaylightDelta method. Returns in TimeSpan object that represents the amount of time required to form the daylight saving time of the time zone in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system/timezoneinfo/adjustmentrule/get_daylightdelta/
 ---
 ## AdjustmentRule::get_DaylightDelta method

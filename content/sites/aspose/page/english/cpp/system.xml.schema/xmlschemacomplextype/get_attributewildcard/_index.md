@@ -4,7 +4,7 @@ linktitle: get_AttributeWildcard
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::get_AttributeWildcard method. Returns the post-compilation value for anyAttribute for this complex type and its base type(s) in C++.'
 type: docs
-weight: 1800
+weight: 500
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_attributewildcard/
 ---
 ## XmlSchemaComplexType::get_AttributeWildcard method

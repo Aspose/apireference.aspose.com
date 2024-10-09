@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToString method. Converts the Boolean to a String in C++.'
 type: docs
-weight: 1800
+weight: 2400
 url: /cpp/system.xml/xmlconvert/tostring/
 ---
 ## XmlConvert::ToString(bool) method
@@ -52,296 +52,6 @@ A string representation of the [Char](../../../system/char/).
 ## See Also
 
 * Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(Decimal) method
-
-
-Converts the [Decimal](../../../system/decimal/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(Decimal value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Decimal | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [Decimal](../../../system/decimal/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [Decimal](../../../system/decimal/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(int8_t) method
-
-
-Converts the [SByte](../../../system/sbyte/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(int8_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int8_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [SByte](../../../system/sbyte/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(int16_t) method
-
-
-Converts the [Int16](../../../system/int16/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(int16_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int16_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [Int16](../../../system/int16/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(int32_t) method
-
-
-Converts the [Int32](../../../system/int32/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(int32_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int32_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [Int32](../../../system/int32/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(int64_t) method
-
-
-Converts the [Int64](../../../system/int64/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(int64_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int64_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [Int64](../../../system/int64/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(uint8_t) method
-
-
-Converts the [Byte](../../../system/byte/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(uint8_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint8_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [Byte](../../../system/byte/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(uint16_t) method
-
-
-Converts the [UInt16](../../../system/uint16/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(uint16_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint16_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [UInt16](../../../system/uint16/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(uint32_t) method
-
-
-Converts the [UInt32](../../../system/uint32/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(uint32_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint32_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [UInt32](../../../system/uint32/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(uint64_t) method
-
-
-Converts the [UInt64](../../../system/uint64/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(uint64_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint64_t | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [UInt64](../../../system/uint64/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(float) method
-
-
-Converts the [Single](../../../system/single/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(float value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [Single](../../../system/single/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(double) method
-
-
-Converts the [Double](../../../system/double/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(double value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [Double](../../../system/double/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToString(TimeSpan) method
-
-
-Converts the [TimeSpan](../../../system/timespan/) to a [String](../../../system/string/).
-
-```cpp
-static String System::Xml::XmlConvert::ToString(TimeSpan value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | TimeSpan | The value to convert. |
-
-### ReturnValue
-
-A string representation of the [TimeSpan](../../../system/timespan/).
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [TimeSpan](../../../system/timespan/)
 * Class [XmlConvert](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -474,6 +184,79 @@ A [String](../../../system/string/) representation in the specified format of th
 * Class [XmlConvert](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(Decimal) method
+
+
+Converts the [Decimal](../../../system/decimal/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(Decimal value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Decimal | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [Decimal](../../../system/decimal/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [Decimal](../../../system/decimal/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(double) method
+
+
+Converts the [Double](../../../system/double/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(double value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [Double](../../../system/double/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(float) method
+
+
+Converts the [Single](../../../system/single/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(float value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [Single](../../../system/single/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlConvert::ToString(Guid) method
 
 
@@ -496,6 +279,223 @@ A string representation of the [Guid](../../../system/guid/).
 
 * Class [String](../../../system/string/)
 * Class [Guid](../../../system/guid/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(int16_t) method
+
+
+Converts the [Int16](../../../system/int16/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(int16_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int16_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [Int16](../../../system/int16/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(int32_t) method
+
+
+Converts the [Int32](../../../system/int32/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(int32_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int32_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [Int32](../../../system/int32/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(int64_t) method
+
+
+Converts the [Int64](../../../system/int64/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(int64_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int64_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [Int64](../../../system/int64/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(int8_t) method
+
+
+Converts the [SByte](../../../system/sbyte/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(int8_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int8_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [SByte](../../../system/sbyte/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(TimeSpan) method
+
+
+Converts the [TimeSpan](../../../system/timespan/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(TimeSpan value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | TimeSpan | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [TimeSpan](../../../system/timespan/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(uint16_t) method
+
+
+Converts the [UInt16](../../../system/uint16/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(uint16_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint16_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [UInt16](../../../system/uint16/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(uint32_t) method
+
+
+Converts the [UInt32](../../../system/uint32/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(uint32_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint32_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [UInt32](../../../system/uint32/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(uint64_t) method
+
+
+Converts the [UInt64](../../../system/uint64/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(uint64_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint64_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [UInt64](../../../system/uint64/).
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToString(uint8_t) method
+
+
+Converts the [Byte](../../../system/byte/) to a [String](../../../system/string/).
+
+```cpp
+static String System::Xml::XmlConvert::ToString(uint8_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint8_t | The value to convert. |
+
+### ReturnValue
+
+A string representation of the [Byte](../../../system/byte/).
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [XmlConvert](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

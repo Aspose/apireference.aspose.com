@@ -4,7 +4,7 @@ linktitle: StapleBottomLeft
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Staple::StapleOption::StapleBottomLeft field. Specifies a single staple in the bottom, left corner in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.page.xps.xpsmetadata/staple/stapleoption/staplebottomleft/
 ---
 ## StapleBottomLeft field

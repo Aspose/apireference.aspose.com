@@ -4,7 +4,7 @@ linktitle: get_QuoteChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_QuoteChar method. Returns the quotation mark character used to enclose the value of an attribute node in C++.'
 type: docs
-weight: 1200
+weight: 2300
 url: /cpp/system.xml/xmlvalidatingreader/get_quotechar/
 ---
 ## XmlValidatingReader::get_QuoteChar method

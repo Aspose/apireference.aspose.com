@@ -4,7 +4,7 @@ linktitle: CheckValidity
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::CheckValidity method. Verifies that the XML data in the XPathNavigator conforms to the XML Schema definition language (XSD) schema provided in C++.'
 type: docs
-weight: 5900
+weight: 300
 url: /cpp/system.xml.xpath/xpathnavigator/checkvalidity/
 ---
 ## XPathNavigator::CheckValidity method

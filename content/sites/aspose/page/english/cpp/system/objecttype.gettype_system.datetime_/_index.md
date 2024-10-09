@@ -4,7 +4,7 @@ linktitle: ObjectType::GetType< System::DateTime >
 second_title: Aspose.Page for C++
 description: 'System::GetType< System::DateTime > method. Implements typeof() translation. Overload for DateTime in C++.'
 type: docs
-weight: 31700
+weight: 21700
 url: /cpp/system/objecttype.gettype_system.datetime_/
 ---
 ## System::ObjectType::GetType< System::DateTime > method

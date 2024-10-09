@@ -4,7 +4,7 @@ linktitle: get_LastModified
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::get_LastModified method. Gets a value of the ''Last-Modified'' header in C++.'
 type: docs
-weight: 1800
+weight: 1200
 url: /cpp/system.net.http.headers/httpcontentheaders/get_lastmodified/
 ---
 ## HttpContentHeaders::get_LastModified method

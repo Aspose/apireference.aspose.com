@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToString method. Returns the string representation of the value represented by the object in C++.'
 type: docs
-weight: 2800
+weight: 3000
 url: /cpp/system/decimal/tostring/
 ---
 ## Decimal::ToString() const method
@@ -22,29 +22,19 @@ String System::Decimal::ToString() const
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Decimal::ToString(const SharedPtr\<IFormatProvider\>\&) const method
+## Decimal::ToString(const Decimal\&, std::nullptr_t) const method
 
 
-Converts current object to string using the culture-specific format information.
+
 
 ```cpp
-String System::Decimal::ToString(const SharedPtr<IFormatProvider> &provider) const
+String System::Decimal::ToString(const Decimal &value, std::nullptr_t) const
 ```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| provider | const SharedPtr\<IFormatProvider\>\& | The [IFormatProvider](../../iformatprovider/) object providing the culture-specific format information. |
-
-### ReturnValue
-
-The string representation of the current object.
 
 ## See Also
 
 * Class [String](../../string/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IFormatProvider](../../iformatprovider/)
+* Class [Decimal](../)
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -82,35 +72,18 @@ String System::Decimal::ToString(const SharedPtr<Globalization::NumberFormatInfo
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Decimal::ToString(const Decimal\&, std::nullptr_t) const method
+## Decimal::ToString(const SharedPtr\<IFormatProvider\>\&) const method
 
 
-
-
-```cpp
-String System::Decimal::ToString(const Decimal &value, std::nullptr_t) const
-```
-
-## See Also
-
-* Class [String](../../string/)
-* Class [Decimal](../)
-* Class [Decimal](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Decimal::ToString(const String\&, const SharedPtr\<IFormatProvider\>\&) const method
-
-
-Converts current object to its string representation using the specified string format and culture-specific format information provided by the specified [IFormatProvider](../../iformatprovider/) object.
+Converts current object to string using the culture-specific format information.
 
 ```cpp
-String System::Decimal::ToString(const String &format, const SharedPtr<IFormatProvider> &provider) const
+String System::Decimal::ToString(const SharedPtr<IFormatProvider> &provider) const
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | const String\& | The string format. |
 | provider | const SharedPtr\<IFormatProvider\>\& | The [IFormatProvider](../../iformatprovider/) object providing the culture-specific format information. |
 
 ### ReturnValue
@@ -156,6 +129,33 @@ String System::Decimal::ToString(const String &format, const SharedPtr<Globaliza
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [NumberFormatInfo](../../../system.globalization/numberformatinfo/)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Decimal::ToString(const String\&, const SharedPtr\<IFormatProvider\>\&) const method
+
+
+Converts current object to its string representation using the specified string format and culture-specific format information provided by the specified [IFormatProvider](../../iformatprovider/) object.
+
+```cpp
+String System::Decimal::ToString(const String &format, const SharedPtr<IFormatProvider> &provider) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| format | const String\& | The string format. |
+| provider | const SharedPtr\<IFormatProvider\>\& | The [IFormatProvider](../../iformatprovider/) object providing the culture-specific format information. |
+
+### ReturnValue
+
+The string representation of the current object.
+
+## See Also
+
+* Class [String](../../string/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [IFormatProvider](../../iformatprovider/)
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

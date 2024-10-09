@@ -4,7 +4,7 @@ linktitle: get_BlanchedAlmond
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_BlanchedAlmond method. Gets a system-defined color that has an ARGB value of #FFFFEBCD in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.page.drawing/color/get_blanchedalmond/
 ---
 ## Color::get_BlanchedAlmond method

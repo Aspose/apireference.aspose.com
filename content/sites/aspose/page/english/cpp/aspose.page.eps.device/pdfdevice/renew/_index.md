@@ -4,7 +4,7 @@ linktitle: ReNew
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::ReNew method. Reset device to initial state for whole document. Used for reseting output stream in C++.'
 type: docs
-weight: 2600
+weight: 4200
 url: /cpp/aspose.page.eps.device/pdfdevice/renew/
 ---
 ## PdfDevice::ReNew method

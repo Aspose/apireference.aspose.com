@@ -4,7 +4,7 @@ linktitle: CommentAttributeName
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::CommentAttributeName field. The ''Comment'' attribute''s name in C++.'
 type: docs
-weight: 4500
+weight: 4300
 url: /cpp/system.net/cookie/commentattributename/
 ---
 ## CommentAttributeName field

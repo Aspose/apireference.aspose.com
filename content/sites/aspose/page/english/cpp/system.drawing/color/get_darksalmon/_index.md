@@ -4,7 +4,7 @@ linktitle: get_DarkSalmon
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DarkSalmon method. Returns a color whose ARGB value in hexadecimal notation is #FFE9967A in C++.'
 type: docs
-weight: 5500
+weight: 5400
 url: /cpp/system.drawing/color/get_darksalmon/
 ---
 ## Color::get_DarkSalmon method

@@ -4,7 +4,7 @@ linktitle: EndGetHostEntry
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::EndGetHostEntry method. Waits until the specified asynchronous operation to create a new IPHostEntry-class instance completes in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.net/dns/endgethostentry/
 ---
 ## Dns::EndGetHostEntry method

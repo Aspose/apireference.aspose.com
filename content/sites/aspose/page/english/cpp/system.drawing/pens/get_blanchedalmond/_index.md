@@ -4,7 +4,7 @@ linktitle: get_BlanchedAlmond
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_BlanchedAlmond method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFEBCD in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.drawing/pens/get_blanchedalmond/
 ---
 ## Pens::get_BlanchedAlmond method

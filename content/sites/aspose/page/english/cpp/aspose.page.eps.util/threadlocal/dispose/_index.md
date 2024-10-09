@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Util::ThreadLocal::Dispose method. Does nothing in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.page.eps.util/threadlocal/dispose/
 ---
 ## ThreadLocal::Dispose method

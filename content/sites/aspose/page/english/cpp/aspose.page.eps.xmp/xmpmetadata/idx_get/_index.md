@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::idx_get method. Gets data from metadata in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/idx_get/
 ---
 ## XmpMetadata::idx_get method

@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Add method. Adds two specified Decimal values in C++.'
 type: docs
-weight: 4400
+weight: 3200
 url: /cpp/system/decimal/add/
 ---
 ## Decimal::Add method

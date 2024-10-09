@@ -4,7 +4,7 @@ linktitle: get_Server
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::get_Server method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 1100
 url: /cpp/system.net.sockets/tcplistener/get_server/
 ---
 ## TcpListener::get_Server method

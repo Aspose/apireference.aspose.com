@@ -4,7 +4,7 @@ linktitle: Get
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieParser::Get method. Returns an instance based on the specified string in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.net/cookieparser/get/
 ---
 ## CookieParser::Get method

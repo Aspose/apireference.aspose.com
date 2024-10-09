@@ -4,7 +4,7 @@ linktitle: get_Delete
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMethod::get_Delete method. Returns the ''DELETE'' HTTP method in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.net.http/httpmethod/get_delete/
 ---
 ## HttpMethod::get_Delete method

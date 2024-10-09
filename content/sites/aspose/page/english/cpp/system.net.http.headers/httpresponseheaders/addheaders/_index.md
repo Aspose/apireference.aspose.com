@@ -4,7 +4,7 @@ linktitle: AddHeaders
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::AddHeaders method. Concatenates the specified HttpHeaders-class instance with the current one in C++.'
 type: docs
-weight: 3000
+weight: 200
 url: /cpp/system.net.http.headers/httpresponseheaders/addheaders/
 ---
 ## HttpResponseHeaders::AddHeaders method

@@ -4,7 +4,7 @@ linktitle: InternalSetName
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::InternalSetName method. This method is called by other methods to set a method name in C++.'
 type: docs
-weight: 3600
+weight: 2400
 url: /cpp/system.net/cookie/internalsetname/
 ---
 ## Cookie::InternalSetName method

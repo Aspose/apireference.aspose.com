@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::StringWithQualityHeaderValue::get_Value method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net.http.headers/stringwithqualityheadervalue/get_value/
 ---
 ## StringWithQualityHeaderValue::get_Value method

@@ -4,7 +4,7 @@ linktitle: set_Stride
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::BitmapData::set_Stride method. Sets the stride width of the image in bytes in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.drawing.imaging/bitmapdata/set_stride/
 ---
 ## BitmapData::set_Stride method

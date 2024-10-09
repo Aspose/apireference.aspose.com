@@ -4,7 +4,7 @@ linktitle: BinarySearch
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::BinarySearch method. Looks for item in a sorted list in C++.'
 type: docs
-weight: 2700
+weight: 800
 url: /cpp/system.collections.generic/list/binarysearch/
 ---
 ## List::BinarySearch(const T\&) const method

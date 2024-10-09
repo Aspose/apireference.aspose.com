@@ -4,7 +4,7 @@ linktitle: Quality
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Encoder::Quality field. An instance of Encoder class that represents the quality parameter category in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.drawing.imaging/encoder/quality/
 ---
 ## Quality field

@@ -4,7 +4,7 @@ linktitle: set_RevocationFlag
 second_title: Aspose.Page for C++
 description: 'How to use set_RevocationFlag method of System::Security::Cryptography::X509Certificates::X509ChainPolicy class in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_revocationflag/
 ---
 ## X509ChainPolicy::set_RevocationFlag method

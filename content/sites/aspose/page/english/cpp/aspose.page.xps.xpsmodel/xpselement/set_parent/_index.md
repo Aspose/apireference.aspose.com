@@ -4,7 +4,7 @@ linktitle: set_Parent
 second_title: Aspose.Page for C++
 description: 'How to use set_Parent method of Aspose::Page::XPS::XpsModel::XpsElement class in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/set_parent/
 ---
 ## XpsElement::set_Parent method

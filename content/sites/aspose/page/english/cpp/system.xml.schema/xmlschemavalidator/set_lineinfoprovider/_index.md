@@ -4,7 +4,7 @@ linktitle: set_LineInfoProvider
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::set_LineInfoProvider method. Sets the line number information for the XML node being validated in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/system.xml.schema/xmlschemavalidator/set_lineinfoprovider/
 ---
 ## XmlSchemaValidator::set_LineInfoProvider method

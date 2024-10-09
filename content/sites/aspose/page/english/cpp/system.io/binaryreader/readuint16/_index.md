@@ -4,7 +4,7 @@ linktitle: ReadUInt16
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadUInt16 method. Reads 2 bytes from the input stream and returns them as an unsigned 16-bit integer value in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/system.io/binaryreader/readuint16/
 ---
 ## BinaryReader::ReadUInt16 method

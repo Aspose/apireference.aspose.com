@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SolidBrush::Clone method. Creates a copy of the current object in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.drawing/solidbrush/clone/
 ---
 ## SolidBrush::Clone method

@@ -4,7 +4,7 @@ linktitle: Document
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Document class. A superclass for all encapsulated documents in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.page/document/
 ---
 ## Document class

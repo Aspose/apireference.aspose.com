@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Size::Equals method. Tests to see whether the specified object is a T:Aspose::Page::Drawing::Size with the same dimensions as this T:Aspose::Page::Drawing::Size in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/aspose.page.drawing/size/equals/
 ---
 ## Size::Equals method

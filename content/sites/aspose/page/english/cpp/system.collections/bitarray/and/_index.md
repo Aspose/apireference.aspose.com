@@ -4,7 +4,7 @@ linktitle: And
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::And method. Calculates bitwise ''and'' between two BitSets in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/system.collections/bitarray/and/
 ---
 ## BitArray::And method

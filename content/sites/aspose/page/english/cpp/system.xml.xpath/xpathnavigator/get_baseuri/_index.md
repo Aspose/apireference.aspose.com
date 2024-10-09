@@ -4,7 +4,7 @@ linktitle: get_BaseURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_BaseURI method. When overridden in a derived class, gets the base URI for the current node in C++.'
 type: docs
-weight: 1600
+weight: 1300
 url: /cpp/system.xml.xpath/xpathnavigator/get_baseuri/
 ---
 ## XPathNavigator::get_BaseURI method

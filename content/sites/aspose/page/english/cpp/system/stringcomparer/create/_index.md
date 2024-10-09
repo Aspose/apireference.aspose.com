@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.Page for C++
 description: 'System::StringComparer::Create method. Creates culture-specific comparer in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system/stringcomparer/create/
 ---
 ## StringComparer::Create method

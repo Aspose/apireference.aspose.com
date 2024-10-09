@@ -4,7 +4,7 @@ linktitle: NextMatch
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::Match::NextMatch method. Iteration over matches in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.text.regularexpressions/match/nextmatch/
 ---
 ## Match::NextMatch method

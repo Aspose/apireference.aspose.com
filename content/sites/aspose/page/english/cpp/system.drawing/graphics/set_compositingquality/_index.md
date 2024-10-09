@@ -4,7 +4,7 @@ linktitle: set_CompositingQuality
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::set_CompositingQuality method. Sets a value that specifies the quality level to use when compositing images in C++.'
 type: docs
-weight: 700
+weight: 7600
 url: /cpp/system.drawing/graphics/set_compositingquality/
 ---
 ## Graphics::set_CompositingQuality method

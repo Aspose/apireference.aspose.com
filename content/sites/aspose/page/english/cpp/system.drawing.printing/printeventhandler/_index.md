@@ -4,7 +4,7 @@ linktitle: PrintEventHandler
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PrintEventHandler typedef. A type of a function object that handles BeginPrint and EndPrint events in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/system.drawing.printing/printeventhandler/
 ---
 ## PrintEventHandler typedef

@@ -4,7 +4,7 @@ linktitle: XPathNodeType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNodeType enum. Defines the XPath node types that can be returned from the XPathNavigator class in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system.xml.xpath/xpathnodetype/
 ---
 ## XPathNodeType enum

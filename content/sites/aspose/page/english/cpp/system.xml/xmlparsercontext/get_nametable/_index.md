@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::get_NameTable method. Returns the XmlNameTable used to atomize strings. For more information on atomized strings, see XmlNameTable in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/system.xml/xmlparsercontext/get_nametable/
 ---
 ## XmlParserContext::get_NameTable method

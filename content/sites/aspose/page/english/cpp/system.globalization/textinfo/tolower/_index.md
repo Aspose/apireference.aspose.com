@@ -4,7 +4,7 @@ linktitle: ToLower
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::ToLower method. Converts character to lower case in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/system.globalization/textinfo/tolower/
 ---
 ## TextInfo::ToLower(char_t) const method

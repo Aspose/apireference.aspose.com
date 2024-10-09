@@ -4,7 +4,7 @@ linktitle: get_CanRead
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::get_CanRead method. Determines if the stream is readable in C++.'
 type: docs
-weight: 1800
+weight: 900
 url: /cpp/system.io/stream/get_canread/
 ---
 ## Stream::get_CanRead method

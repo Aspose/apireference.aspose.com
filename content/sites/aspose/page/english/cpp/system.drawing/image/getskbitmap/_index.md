@@ -4,7 +4,7 @@ linktitle: GetSkBitmap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::GetSkBitmap method. Returns an underlying SkBitmap object in C++.'
 type: docs
-weight: 2500
+weight: 1800
 url: /cpp/system.drawing/image/getskbitmap/
 ---
 ## Image::GetSkBitmap method

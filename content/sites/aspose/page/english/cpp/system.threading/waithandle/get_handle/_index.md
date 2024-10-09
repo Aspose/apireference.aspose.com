@@ -4,7 +4,7 @@ linktitle: get_Handle
 second_title: Aspose.Page for C++
 description: 'System::Threading::WaitHandle::get_Handle method. Gets handle in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.threading/waithandle/get_handle/
 ---
 ## WaitHandle::get_Handle method

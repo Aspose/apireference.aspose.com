@@ -4,7 +4,7 @@ linktitle: StringToHGlobalAuto
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::StringToHGlobalAuto method. Copies the contents of a specified string into unmanaged memory, converting to ANSI format if required in C++.'
 type: docs
-weight: 1800
+weight: 1500
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobalauto/
 ---
 ## Marshal::StringToHGlobalAuto method

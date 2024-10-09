@@ -4,7 +4,7 @@ linktitle: UserProperties
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties class. Special property class which allows typed properties to be set and returned. It also allows the hookup of two default property objects to be searched if this property object does not contain the property in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.page/userproperties/
 ---
 ## UserProperties class

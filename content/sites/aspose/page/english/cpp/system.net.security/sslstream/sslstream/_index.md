@@ -4,7 +4,7 @@ linktitle: SslStream
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::SslStream constructor. Constructs a new instance in C++.'
 type: docs
-weight: 2600
+weight: 100
 url: /cpp/system.net.security/sslstream/sslstream/
 ---
 ## SslStream::SslStream(System::SharedPtr\<IO::Stream\>) constructor

@@ -4,7 +4,7 @@ linktitle: reverse_iterator
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::ObjectModel::Collection::reverse_iterator typedef of System::Collections::ObjectModel::Collection class in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system.collections.objectmodel/collection/reverse_iterator/
 ---
 ## reverse_iterator typedef

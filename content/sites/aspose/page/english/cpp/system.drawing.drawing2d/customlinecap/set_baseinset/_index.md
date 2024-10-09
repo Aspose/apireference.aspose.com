@@ -4,7 +4,7 @@ linktitle: set_BaseInset
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::CustomLineCap::set_BaseInset method. Sets the distance between the line and the cap in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system.drawing.drawing2d/customlinecap/set_baseinset/
 ---
 ## CustomLineCap::set_BaseInset method

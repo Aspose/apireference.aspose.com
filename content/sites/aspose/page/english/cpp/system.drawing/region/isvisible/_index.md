@@ -4,7 +4,7 @@ linktitle: IsVisible
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::IsVisible method. Determines if the specified point is contained within the region represented by the current object in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.drawing/region/isvisible/
 ---
 ## Region::IsVisible(const Point\&) const method
@@ -24,66 +24,6 @@ bool System::Drawing::Region::IsVisible(const Point &point) const
 ## See Also
 
 * Class [Point](../../point/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Region::IsVisible(const PointF\&) const method
-
-
-Determines if the specified point is contained within the region represented by the current object.
-
-```cpp
-bool System::Drawing::Region::IsVisible(const PointF &point) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| point | const PointF\& | The point to check |
-
-## See Also
-
-* Class [PointF](../../pointf/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Region::IsVisible(const Rectangle\&) method
-
-
-Determines if any portion the specified rectangle is contained within the region represented by the current object.
-
-```cpp
-bool System::Drawing::Region::IsVisible(const Rectangle &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const Rectangle\& | The rectangle to check |
-
-## See Also
-
-* Class [Rectangle](../../rectangle/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Region::IsVisible(const RectangleF\&) method
-
-
-Determines if any portion the specified rectangle is contained within the region represented by the current object.
-
-```cpp
-bool System::Drawing::Region::IsVisible(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | The rectangle to check |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -110,6 +50,26 @@ bool System::Drawing::Region::IsVisible(const Point &point, const SharedPtr<Grap
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
+## Region::IsVisible(const PointF\&) const method
+
+
+Determines if the specified point is contained within the region represented by the current object.
+
+```cpp
+bool System::Drawing::Region::IsVisible(const PointF &point) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| point | const PointF\& | The point to check |
+
+## See Also
+
+* Class [PointF](../../pointf/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Region::IsVisible(const PointF\&, const SharedPtr\<Graphics\>\&) const method
 
 
@@ -133,6 +93,26 @@ bool System::Drawing::Region::IsVisible(const PointF &point, const SharedPtr<Gra
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
+## Region::IsVisible(const Rectangle\&) method
+
+
+Determines if any portion the specified rectangle is contained within the region represented by the current object.
+
+```cpp
+bool System::Drawing::Region::IsVisible(const Rectangle &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const Rectangle\& | The rectangle to check |
+
+## See Also
+
+* Class [Rectangle](../../rectangle/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Region::IsVisible(const Rectangle\&, const SharedPtr\<Graphics\>\&) method
 
 
@@ -153,6 +133,26 @@ bool System::Drawing::Region::IsVisible(const Rectangle &rect, const SharedPtr<G
 * Class [Rectangle](../../rectangle/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Graphics](../../graphics/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::IsVisible(const RectangleF\&) method
+
+
+Determines if any portion the specified rectangle is contained within the region represented by the current object.
+
+```cpp
+bool System::Drawing::Region::IsVisible(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | The rectangle to check |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

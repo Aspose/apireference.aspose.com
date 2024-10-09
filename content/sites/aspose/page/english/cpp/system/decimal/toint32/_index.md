@@ -4,7 +4,7 @@ linktitle: ToInt32
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToInt32 method. Converts the Decimal value to signed 32-bit integer value in C++.'
 type: docs
-weight: 5500
+weight: 4900
 url: /cpp/system/decimal/toint32/
 ---
 ## Decimal::ToInt32 method

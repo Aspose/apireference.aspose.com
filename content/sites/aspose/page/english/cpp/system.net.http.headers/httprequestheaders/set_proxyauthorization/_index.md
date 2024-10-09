@@ -4,7 +4,7 @@ linktitle: set_ProxyAuthorization
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_ProxyAuthorization method. Sets a value of the ''Proxy-Authorization'' header in C++.'
 type: docs
-weight: 2500
+weight: 4500
 url: /cpp/system.net.http.headers/httprequestheaders/set_proxyauthorization/
 ---
 ## HttpRequestHeaders::set_ProxyAuthorization method

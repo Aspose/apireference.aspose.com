@@ -4,7 +4,7 @@ linktitle: GetResponseHeader
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebResponse::GetResponseHeader method. Returns the corresponding value for the specified header name in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/system.net/httpwebresponse/getresponseheader/
 ---
 ## HttpWebResponse::GetResponseHeader method

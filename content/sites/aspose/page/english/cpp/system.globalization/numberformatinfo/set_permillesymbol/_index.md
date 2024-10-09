@@ -4,7 +4,7 @@ linktitle: set_PerMilleSymbol
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PerMilleSymbol method. Sets permille symbol in C++.'
 type: docs
-weight: 1300
+weight: 5700
 url: /cpp/system.globalization/numberformatinfo/set_permillesymbol/
 ---
 ## NumberFormatInfo::set_PerMilleSymbol method

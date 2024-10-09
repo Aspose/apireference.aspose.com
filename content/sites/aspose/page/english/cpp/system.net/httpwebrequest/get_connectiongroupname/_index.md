@@ -4,7 +4,7 @@ linktitle: get_ConnectionGroupName
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::get_ConnectionGroupName method. Gets the name of the connection group in C++.'
 type: docs
-weight: 5700
+weight: 1300
 url: /cpp/system.net/httpwebrequest/get_connectiongroupname/
 ---
 ## HttpWebRequest::get_ConnectionGroupName method

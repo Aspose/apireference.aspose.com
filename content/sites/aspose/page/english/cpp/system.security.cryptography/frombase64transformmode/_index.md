@@ -4,7 +4,7 @@ linktitle: FromBase64TransformMode
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::FromBase64TransformMode enum. Specifies whether white space should be ignored in the base 64 transformation in C++.'
 type: docs
-weight: 5300
+weight: 5600
 url: /cpp/system.security.cryptography/frombase64transformmode/
 ---
 ## FromBase64TransformMode enum

@@ -4,7 +4,7 @@ linktitle: IsNull
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::IsNull method. Always returns false in C++.'
 type: docs
-weight: 1300
+weight: 800
 url: /cpp/system.drawing/point/isnull/
 ---
 ## Point::IsNull method

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseKVCollection::get_Count method. Gets number of elements in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.collections.generic/basekvcollection/get_count/
 ---
 ## BaseKVCollection::get_Count method

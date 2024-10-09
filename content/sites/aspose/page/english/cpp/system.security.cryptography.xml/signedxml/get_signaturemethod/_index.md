@@ -4,7 +4,7 @@ linktitle: get_SignatureMethod
 second_title: Aspose.Page for C++
 description: 'How to use get_SignatureMethod method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.security.cryptography.xml/signedxml/get_signaturemethod/
 ---
 ## SignedXml::get_SignatureMethod method

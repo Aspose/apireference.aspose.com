@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::None field. The IPv4 address that indicates if the server mustn''t listen any network interface in C++.'
 type: docs
-weight: 2600
+weight: 2900
 url: /cpp/system.net/ipaddress/none/
 ---
 ## None field

@@ -4,7 +4,7 @@ linktitle: FromHours
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::FromHours method. Returns a new TimeSpan object that represents the specified interval in C++.'
 type: docs
-weight: 3900
+weight: 3700
 url: /cpp/system/timespan/fromhours/
 ---
 ## TimeSpan::FromHours method

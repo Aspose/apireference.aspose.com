@@ -4,7 +4,7 @@ linktitle: Seek
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::Seek method. Sets the position of the stream represented by the current object in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.io/bufferedstream/seek/
 ---
 ## BufferedStream::Seek method

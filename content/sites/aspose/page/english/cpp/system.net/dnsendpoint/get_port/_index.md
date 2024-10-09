@@ -4,7 +4,7 @@ linktitle: get_Port
 second_title: Aspose.Page for C++
 description: 'System::Net::DnsEndPoint::get_Port method. Returns the port number in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.net/dnsendpoint/get_port/
 ---
 ## DnsEndPoint::get_Port method

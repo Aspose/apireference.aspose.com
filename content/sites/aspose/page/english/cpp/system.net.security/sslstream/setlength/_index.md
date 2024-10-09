@@ -4,7 +4,7 @@ linktitle: SetLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::SetLength method. Sets the length of the stream represented by the current object in C++.'
 type: docs
-weight: 2800
+weight: 3700
 url: /cpp/system.net.security/sslstream/setlength/
 ---
 ## SslStream::SetLength method

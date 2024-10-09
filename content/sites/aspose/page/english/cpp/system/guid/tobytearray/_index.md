@@ -4,7 +4,7 @@ linktitle: ToByteArray
 second_title: Aspose.Page for C++
 description: 'System::Guid::ToByteArray method. Converts the GUID represented by the current object into array of bytes in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system/guid/tobytearray/
 ---
 ## Guid::ToByteArray method

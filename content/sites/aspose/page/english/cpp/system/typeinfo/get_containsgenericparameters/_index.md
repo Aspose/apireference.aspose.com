@@ -4,7 +4,7 @@ linktitle: get_ContainsGenericParameters
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::get_ContainsGenericParameters method. Gets a value indicating whether the current Type object has type parameters that have not been replaced by specific types in C++.'
 type: docs
-weight: 2100
+weight: 1100
 url: /cpp/system/typeinfo/get_containsgenericparameters/
 ---
 ## TypeInfo::get_ContainsGenericParameters method

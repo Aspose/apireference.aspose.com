@@ -4,7 +4,7 @@ linktitle: WriteName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteName method. Writes out the specified name, ensuring it is a valid name according to the  in C++.'
 type: docs
-weight: 3800
+weight: 3100
 url: /cpp/system.xml/xmltextwriter/writename/
 ---
 ## XmlTextWriter::WriteName method

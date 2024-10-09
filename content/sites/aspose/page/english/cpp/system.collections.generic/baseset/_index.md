@@ -47,15 +47,15 @@ template<typename T,typename SET_T>class BaseSet : public virtual System::Object
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) | Self type. |
-| [ThisPtr](./thisptr/) | Pointer type. |
-| [set_t](./set_t/) | Underlying data type. |
-| [iterator](./iterator/) | Iterator type. |
-| [const_iterator](./const_iterator/) | Const iterator type. |
-| [ValueType](./valuetype/) | Value type. |
 | [BaseType](./basetype/) | Implemented interface. |
+| [const_iterator](./const_iterator/) | Const iterator type. |
 | [IEnumerablePtr](./ienumerableptr/) | Enumerable interface pointer. |
 | [IEnumeratorPtr](./ienumeratorptr/) | [Enumerator](./enumerator/) pointer. |
+| [iterator](./iterator/) | Iterator type. |
+| [set_t](./set_t/) | Underlying data type. |
+| [ThisPtr](./thisptr/) | Pointer type. |
+| [ThisType](./thistype/) | Self type. |
+| [ValueType](./valuetype/) | Value type. |
 ## See Also
 
 * Class [Object](../../system/object/)

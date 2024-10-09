@@ -4,7 +4,7 @@ linktitle: set_ContentType
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::set_ContentType method. Sets a value of the ''Content-Type'' header in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contenttype/
 ---
 ## HttpContentHeaders::set_ContentType method

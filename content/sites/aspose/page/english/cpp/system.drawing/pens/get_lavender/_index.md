@@ -4,7 +4,7 @@ linktitle: get_Lavender
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Lavender method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFE6E6FA in C++.'
 type: docs
-weight: 6100
+weight: 6000
 url: /cpp/system.drawing/pens/get_lavender/
 ---
 ## Pens::get_Lavender method

@@ -4,7 +4,7 @@ linktitle: ToObjectPtr
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::ToObjectPtr method. Converts any pointer type to pointer to Object. Doesn''t require Pointee_ type to be complete in C++.'
 type: docs
-weight: 2600
+weight: 3600
 url: /cpp/system/smartptr/toobjectptr/
 ---
 ## SmartPtr::ToObjectPtr method

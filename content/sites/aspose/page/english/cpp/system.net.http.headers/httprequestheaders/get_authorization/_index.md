@@ -4,7 +4,7 @@ linktitle: get_Authorization
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_Authorization method. Gets a value of the ''Authorization'' header in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.net.http.headers/httprequestheaders/get_authorization/
 ---
 ## HttpRequestHeaders::get_Authorization method

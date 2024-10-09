@@ -4,7 +4,7 @@ linktitle: IsDaylightSavingTimeNoThrow
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::IsDaylightSavingTimeNoThrow method. Checks if specified date and time falls in range of daylight saving time in C++.'
 type: docs
-weight: 2700
+weight: 2900
 url: /cpp/system/timezoneinfo/isdaylightsavingtimenothrow/
 ---
 ## TimeZoneInfo::IsDaylightSavingTimeNoThrow method

@@ -4,7 +4,7 @@ linktitle: get_PortList
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_PortList method. Returns the collection of the ''Port'' attribute''s values in C++.'
 type: docs
-weight: 2400
+weight: 1700
 url: /cpp/system.net/cookie/get_portlist/
 ---
 ## Cookie::get_PortList method

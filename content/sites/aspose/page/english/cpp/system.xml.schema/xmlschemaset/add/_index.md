@@ -2,25 +2,24 @@
 title: System::Xml::Schema::XmlSchemaSet::Add method
 linktitle: Add
 second_title: Aspose.Page for C++
-description: 'System::Xml::Schema::XmlSchemaSet::Add method. Adds the XML Schema definition language (XSD) schema at the URL specified to the XmlSchemaSet in C++.'
+description: 'System::Xml::Schema::XmlSchemaSet::Add method. Adds the given XmlSchema to the XmlSchemaSet in C++.'
 type: docs
-weight: 1300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaset/add/
 ---
-## XmlSchemaSet::Add(String, const String\&) method
+## XmlSchemaSet::Add(const SharedPtr\<XmlSchema\>\&) method
 
 
-Adds the XML [Schema](../../) definition language (XSD) schema at the URL specified to the [XmlSchemaSet](../).
+Adds the given [XmlSchema](../../xmlschema/) to the [XmlSchemaSet](../).
 
 ```cpp
-SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Add(String targetNamespace, const String &schemaUri)
+SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Add(const SharedPtr<XmlSchema> &schema)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| targetNamespace | String | The schema **targetNamespace** value, or **nullptr** to use the **targetNamespace** specified in the schema. |
-| schemaUri | const String\& | The URL that specifies the schema to load. |
+| schema | const SharedPtr\<XmlSchema\>\& | The [XmlSchema](../../xmlschema/) object to add to the [XmlSchemaSet](../). |
 
 ### ReturnValue
 
@@ -30,7 +29,27 @@ An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlSchema](../../xmlschema/)
-* Class [String](../../../system/string/)
+* Class [XmlSchemaSet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlSchemaSet::Add(const SharedPtr\<XmlSchemaSet\>\&) method
+
+
+Adds all the XML [Schema](../../) definition language (XSD) schemas in the given [XmlSchemaSet](../) to the [XmlSchemaSet](../).
+
+```cpp
+void System::Xml::Schema::XmlSchemaSet::Add(const SharedPtr<XmlSchemaSet> &schemas)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| schemas | const SharedPtr\<XmlSchemaSet\>\& | The [XmlSchemaSet](../) object. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSet](../)
 * Class [XmlSchemaSet](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -62,40 +81,20 @@ An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is
 * Class [XmlSchemaSet](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.Page for C++](../../../)
-## XmlSchemaSet::Add(const SharedPtr\<XmlSchemaSet\>\&) method
+## XmlSchemaSet::Add(String, const String\&) method
 
 
-Adds all the XML [Schema](../../) definition language (XSD) schemas in the given [XmlSchemaSet](../) to the [XmlSchemaSet](../).
+Adds the XML [Schema](../../) definition language (XSD) schema at the URL specified to the [XmlSchemaSet](../).
 
 ```cpp
-void System::Xml::Schema::XmlSchemaSet::Add(const SharedPtr<XmlSchemaSet> &schemas)
+SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Add(String targetNamespace, const String &schemaUri)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| schemas | const SharedPtr\<XmlSchemaSet\>\& | The [XmlSchemaSet](../) object. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaSet](../)
-* Class [XmlSchemaSet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlSchemaSet::Add(const SharedPtr\<XmlSchema\>\&) method
-
-
-Adds the given [XmlSchema](../../xmlschema/) to the [XmlSchemaSet](../).
-
-```cpp
-SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Add(const SharedPtr<XmlSchema> &schema)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| schema | const SharedPtr\<XmlSchema\>\& | The [XmlSchema](../../xmlschema/) object to add to the [XmlSchemaSet](../). |
+| targetNamespace | String | The schema **targetNamespace** value, or **nullptr** to use the **targetNamespace** specified in the schema. |
+| schemaUri | const String\& | The URL that specifies the schema to load. |
 
 ### ReturnValue
 
@@ -105,6 +104,7 @@ An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlSchema](../../xmlschema/)
+* Class [String](../../../system/string/)
 * Class [XmlSchemaSet](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: get_Namespaces
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_Namespaces method. Returns a value indicating whether to do namespace support in C++.'
 type: docs
-weight: 3100
+weight: 1800
 url: /cpp/system.xml/xmlvalidatingreader/get_namespaces/
 ---
 ## XmlValidatingReader::get_Namespaces method

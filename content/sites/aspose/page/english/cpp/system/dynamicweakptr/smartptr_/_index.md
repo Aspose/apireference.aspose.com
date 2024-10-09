@@ -4,7 +4,7 @@ linktitle: SmartPtr_
 second_title: Aspose.Page for C++
 description: 'System::DynamicWeakPtr::SmartPtr_ typedef. SmartPtr baseclass alias in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system/dynamicweakptr/smartptr_/
 ---
 ## SmartPtr_ typedef

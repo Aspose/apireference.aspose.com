@@ -4,7 +4,7 @@ linktitle: get_ParameterStyle
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentServiceAttribute::get_ParameterStyle method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/get_parameterstyle/
 ---
 ## SoapDocumentServiceAttribute::get_ParameterStyle method

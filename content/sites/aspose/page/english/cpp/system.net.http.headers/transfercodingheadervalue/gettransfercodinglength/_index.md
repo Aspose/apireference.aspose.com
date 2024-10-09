@@ -4,7 +4,7 @@ linktitle: GetTransferCodingLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::TransferCodingHeaderValue::GetTransferCodingLength method. Converts a passed string from the specified index to an instance of the TransferCodingHeaderValue class in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.net.http.headers/transfercodingheadervalue/gettransfercodinglength/
 ---
 ## TransferCodingHeaderValue::GetTransferCodingLength method

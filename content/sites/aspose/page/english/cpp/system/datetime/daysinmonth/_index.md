@@ -4,7 +4,7 @@ linktitle: DaysInMonth
 second_title: Aspose.Page for C++
 description: 'System::DateTime::DaysInMonth method. Returns the number of days in the specified month of the specified year in C++.'
 type: docs
-weight: 6300
+weight: 5600
 url: /cpp/system/datetime/daysinmonth/
 ---
 ## DateTime::DaysInMonth method

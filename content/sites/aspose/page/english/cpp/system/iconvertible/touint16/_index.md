@@ -4,7 +4,7 @@ linktitle: ToUInt16
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToUInt16 method. Converts the value of this instance to an equivalent 16-bit uint32_teger using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 700
+weight: 1500
 url: /cpp/system/iconvertible/touint16/
 ---
 ## IConvertible::ToUInt16 method

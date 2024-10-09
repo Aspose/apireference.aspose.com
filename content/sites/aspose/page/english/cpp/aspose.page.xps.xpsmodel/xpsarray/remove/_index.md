@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArray::Remove method. Removes an object from array in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.xps.xpsmodel/xpsarray/remove/
 ---
 ## XpsArray::Remove method

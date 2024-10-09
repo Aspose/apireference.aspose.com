@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::Insert method. Inserts specific value into container in C++.'
 type: docs
-weight: 1300
+weight: 1900
 url: /cpp/system.collections.specialized/stringcollection/insert/
 ---
 ## StringCollection::Insert method

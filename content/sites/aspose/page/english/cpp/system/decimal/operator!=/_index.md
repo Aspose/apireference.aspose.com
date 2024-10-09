@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator!= method. Determines if the values represented by the current object and the specified object are not equal in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/system/decimal/operator!=/
 ---
 ## Decimal::operator!=(const Decimal\&) const method

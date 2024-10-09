@@ -4,7 +4,7 @@ linktitle: Append
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttributeCollection::Append method. Inserts the specified attribute as the last node in the collection in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml/xmlattributecollection/append/
 ---
 ## XmlAttributeCollection::Append method

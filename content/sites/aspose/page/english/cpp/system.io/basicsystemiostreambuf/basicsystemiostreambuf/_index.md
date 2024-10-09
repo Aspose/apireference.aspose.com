@@ -4,7 +4,7 @@ linktitle: BasicSystemIOStreamBuf
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSystemIOStreamBuf::BasicSystemIOStreamBuf constructor. Constructs a new instance of the BasicSystemIOStreamBuf in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.io/basicsystemiostreambuf/basicsystemiostreambuf/
 ---
 ## BasicSystemIOStreamBuf::BasicSystemIOStreamBuf() constructor
@@ -18,6 +18,41 @@ System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf()
 
 ## See Also
 
+* Class [BasicSystemIOStreamBuf](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## BasicSystemIOStreamBuf::BasicSystemIOStreamBuf(BasicSystemIOStreamBuf\&&) constructor
+
+
+Move constructor.
+
+```cpp
+System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(BasicSystemIOStreamBuf &&right) noexcept
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| right | BasicSystemIOStreamBuf\&& | [Object](../../../system/object/) to be move |
+
+## See Also
+
+* Class [BasicSystemIOStreamBuf](../)
+* Class [BasicSystemIOStreamBuf](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## BasicSystemIOStreamBuf::BasicSystemIOStreamBuf(const BasicSystemIOStreamBuf\&) constructor
+
+
+Copy constructor. Deleted.
+
+```cpp
+System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(const BasicSystemIOStreamBuf &)=delete
+```
+
+## See Also
+
+* Class [BasicSystemIOStreamBuf](../)
 * Class [BasicSystemIOStreamBuf](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -42,41 +77,6 @@ System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(const S
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stream](../../stream/)
 * Enum [SystemIOStreamWrappingMode](../../systemiostreamwrappingmode/)
-* Class [BasicSystemIOStreamBuf](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## BasicSystemIOStreamBuf::BasicSystemIOStreamBuf(const BasicSystemIOStreamBuf\&) constructor
-
-
-Copy constructor. Deleted.
-
-```cpp
-System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(const BasicSystemIOStreamBuf &)=delete
-```
-
-## See Also
-
-* Class [BasicSystemIOStreamBuf](../)
-* Class [BasicSystemIOStreamBuf](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## BasicSystemIOStreamBuf::BasicSystemIOStreamBuf(BasicSystemIOStreamBuf\&&) constructor
-
-
-Move constructor.
-
-```cpp
-System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(BasicSystemIOStreamBuf &&right) noexcept
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| right | BasicSystemIOStreamBuf\&& | [Object](../../../system/object/) to be move |
-
-## See Also
-
-* Class [BasicSystemIOStreamBuf](../)
 * Class [BasicSystemIOStreamBuf](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

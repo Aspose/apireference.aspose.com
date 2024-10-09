@@ -4,7 +4,7 @@ linktitle: GetName
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::GetName method. Gets assembly name in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.reflection/assembly/getname/
 ---
 ## Assembly::GetName method

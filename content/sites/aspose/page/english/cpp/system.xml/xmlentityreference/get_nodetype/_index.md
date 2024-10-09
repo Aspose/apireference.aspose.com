@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlEntityReference::get_NodeType method. Returns the type of the node in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.xml/xmlentityreference/get_nodetype/
 ---
 ## XmlEntityReference::get_NodeType method

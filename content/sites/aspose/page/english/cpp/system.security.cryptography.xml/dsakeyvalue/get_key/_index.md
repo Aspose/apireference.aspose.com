@@ -4,7 +4,7 @@ linktitle: get_Key
 second_title: Aspose.Page for C++
 description: 'How to use get_Key method of System::Security::Cryptography::Xml::DSAKeyValue class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.security.cryptography.xml/dsakeyvalue/get_key/
 ---
 ## DSAKeyValue::get_Key method

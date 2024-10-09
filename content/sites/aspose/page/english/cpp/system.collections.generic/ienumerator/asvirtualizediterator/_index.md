@@ -4,7 +4,7 @@ linktitle: AsVirtualizedIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerator::AsVirtualizedIterator method. Prepares the iterator to be used by the VirtualizedIterator class in C++.'
 type: docs
-weight: 1000
+weight: 300
 url: /cpp/system.collections.generic/ienumerator/asvirtualizediterator/
 ---
 ## IEnumerator::AsVirtualizedIterator method

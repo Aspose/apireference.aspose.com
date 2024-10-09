@@ -4,7 +4,7 @@ linktitle: AddHours
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::AddHours method. Adds hours to time point in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.globalization/calendar/addhours/
 ---
 ## Calendar::AddHours method

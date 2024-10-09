@@ -4,7 +4,7 @@ linktitle: get_Green
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Green method. Returns a color whose ARGB value in hexadecimal notation is #FF008000 in C++.'
 type: docs
-weight: 7400
+weight: 7300
 url: /cpp/system.drawing/color/get_green/
 ---
 ## Color::get_Green method

@@ -4,7 +4,7 @@ linktitle: RemoveChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::RemoveChild method. Removes the specified child node in C++.'
 type: docs
-weight: 2000
+weight: 1700
 url: /cpp/system.xml/xmlattribute/removechild/
 ---
 ## XmlAttribute::RemoveChild method

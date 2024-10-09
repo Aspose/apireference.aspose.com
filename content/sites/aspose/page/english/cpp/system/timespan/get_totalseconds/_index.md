@@ -4,7 +4,7 @@ linktitle: get_TotalSeconds
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::get_TotalSeconds method. Returns the value of the current TimeSpan object expressed in whole and fractional seconds in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system/timespan/get_totalseconds/
 ---
 ## TimeSpan::get_TotalSeconds method

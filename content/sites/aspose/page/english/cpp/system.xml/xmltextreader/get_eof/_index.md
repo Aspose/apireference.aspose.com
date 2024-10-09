@@ -4,7 +4,7 @@ linktitle: get_EOF
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::get_EOF method. Returns a value indicating whether the reader is positioned at the end of the stream in C++.'
 type: docs
-weight: 1600
+weight: 1200
 url: /cpp/system.xml/xmltextreader/get_eof/
 ---
 ## XmlTextReader::get_EOF method

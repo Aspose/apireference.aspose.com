@@ -4,7 +4,7 @@ linktitle: XPS
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::XPS field. Specifies device language is XPS in C++.'
 type: docs
-weight: 700
+weight: 2500
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/xps/
 ---
 ## XPS field

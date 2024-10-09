@@ -4,7 +4,7 @@ linktitle: Bind
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::Bind method. Binds the socket with to the specified local endpoint in C++.'
 type: docs
-weight: 4300
+weight: 1000
 url: /cpp/system.net.sockets/socket/bind/
 ---
 ## Socket::Bind method

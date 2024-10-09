@@ -4,7 +4,7 @@ linktitle: XsltSettings
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltSettings::XsltSettings constructor. Initializes a new instance of the XsltSettings class with default settings in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.xml.xsl/xsltsettings/xsltsettings/
 ---
 ## XsltSettings::XsltSettings() constructor

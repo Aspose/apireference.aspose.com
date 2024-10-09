@@ -4,7 +4,7 @@ linktitle: get_IsAlive
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::get_IsAlive method. Checks whether thread is alive in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.threading/thread/get_isalive/
 ---
 ## Thread::get_IsAlive method

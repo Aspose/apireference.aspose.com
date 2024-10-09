@@ -4,7 +4,7 @@ linktitle: Aspose::Page::XPS::XpsPackageParts
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::XpsPackageParts namespace in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.page.xps.xpspackageparts/
 ---
 

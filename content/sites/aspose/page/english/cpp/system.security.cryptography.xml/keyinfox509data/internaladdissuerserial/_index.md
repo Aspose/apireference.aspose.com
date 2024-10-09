@@ -4,7 +4,7 @@ linktitle: InternalAddIssuerSerial
 second_title: Aspose.Page for C++
 description: 'How to use InternalAddIssuerSerial method of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.security.cryptography.xml/keyinfox509data/internaladdissuerserial/
 ---
 ## KeyInfoX509Data::InternalAddIssuerSerial method

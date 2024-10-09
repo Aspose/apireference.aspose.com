@@ -4,7 +4,7 @@ linktitle: ExplicitCast
 second_title: Aspose.Page for C++
 description: 'System::ExplicitCast method. Casts the source type to the result type using explicit cast. Used when the source and the result types are the same in C++.'
 type: docs
-weight: 28800
+weight: 17000
 url: /cpp/system/explicitcast/
 ---
 ## System::ExplicitCast(const Source\&) method
@@ -135,33 +135,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const Source\& | [Object](../object/) to cast. |
-
-### ReturnValue
-
-The cast result.
-
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::ExplicitCast(Source) method
-
-
-Casts the source type to the result type using explicit cast. Used when the casting raw pointer to smart pointer.
-
-```cpp
-template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::RawPointer, typename CastResult<std::remove_pointer_t<Result>>::type> System::ExplicitCast(Source value)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| Source | The source type. |
-| Result | The result type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Source | [Object](../object/) to cast. |
 
 ### ReturnValue
 
@@ -434,6 +407,33 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const Source\& | [Object](../object/) to cast. |
+
+### ReturnValue
+
+The cast result.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::ExplicitCast(Source) method
+
+
+Casts the source type to the result type using explicit cast. Used when the casting raw pointer to smart pointer.
+
+```cpp
+template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::RawPointer, typename CastResult<std::remove_pointer_t<Result>>::type> System::ExplicitCast(Source value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Source | The source type. |
+| Result | The result type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Source | [Object](../object/) to cast. |
 
 ### ReturnValue
 

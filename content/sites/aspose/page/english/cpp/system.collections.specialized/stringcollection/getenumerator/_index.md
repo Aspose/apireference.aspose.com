@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::GetEnumerator method. Gets enumerator iterating through current collection in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/system.collections.specialized/stringcollection/getenumerator/
 ---
 ## StringCollection::GetEnumerator method

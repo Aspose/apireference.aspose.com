@@ -4,7 +4,7 @@ linktitle: get_CurrencyDecimalDigits
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_CurrencyDecimalDigits method. Gets number of currency decimal digits in C++.'
 type: docs
-weight: 2400
+weight: 300
 url: /cpp/system.globalization/numberformatinfo/get_currencydecimaldigits/
 ---
 ## NumberFormatInfo::get_CurrencyDecimalDigits method

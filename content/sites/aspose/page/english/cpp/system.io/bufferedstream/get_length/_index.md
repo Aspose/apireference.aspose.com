@@ -4,7 +4,7 @@ linktitle: get_Length
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::get_Length method. Returns the length of the stream in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/system.io/bufferedstream/get_length/
 ---
 ## BufferedStream::get_Length method

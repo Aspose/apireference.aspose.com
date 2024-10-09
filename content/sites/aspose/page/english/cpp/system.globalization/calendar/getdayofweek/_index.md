@@ -4,7 +4,7 @@ linktitle: GetDayOfWeek
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetDayOfWeek method. Gets day of week for the specified time point in C++.'
 type: docs
-weight: 1600
+weight: 2000
 url: /cpp/system.globalization/calendar/getdayofweek/
 ---
 ## Calendar::GetDayOfWeek method

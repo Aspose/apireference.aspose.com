@@ -4,7 +4,7 @@ linktitle: set_Data
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::set_Data method. Returns/sets the geometry of the path in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/set_data/
 ---
 ## XpsPath::set_Data method

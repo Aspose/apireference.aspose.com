@@ -4,7 +4,7 @@ linktitle: JapanLPhoto
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JapanLPhoto field. Japan L Photo in C++.'
 type: docs
-weight: 16100
+weight: 7100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/japanlphoto/
 ---
 ## JapanLPhoto field

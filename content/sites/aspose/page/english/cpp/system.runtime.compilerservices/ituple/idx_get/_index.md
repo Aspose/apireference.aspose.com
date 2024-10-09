@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Runtime::CompilerServices::ITuple::idx_get method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.runtime.compilerservices/ituple/idx_get/
 ---
 ## ITuple::idx_get method

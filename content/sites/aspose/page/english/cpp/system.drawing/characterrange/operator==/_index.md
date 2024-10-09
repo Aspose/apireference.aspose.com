@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Drawing::CharacterRange::operator== method. Determines if the current and specified objects represent the same range in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.drawing/characterrange/operator==/
 ---
 ## CharacterRange::operator== method

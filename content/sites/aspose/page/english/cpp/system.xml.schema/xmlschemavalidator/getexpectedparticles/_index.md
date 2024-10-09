@@ -4,7 +4,7 @@ linktitle: GetExpectedParticles
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::GetExpectedParticles method. Returns the expected particles in the current element context in C++.'
 type: docs
-weight: 2000
+weight: 800
 url: /cpp/system.xml.schema/xmlschemavalidator/getexpectedparticles/
 ---
 ## XmlSchemaValidator::GetExpectedParticles method

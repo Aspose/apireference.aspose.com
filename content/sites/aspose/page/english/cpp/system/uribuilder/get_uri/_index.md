@@ -4,7 +4,7 @@ linktitle: get_Uri
 second_title: Aspose.Page for C++
 description: 'System::UriBuilder::get_Uri method. Returns the Uri object constructed by the current object in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system/uribuilder/get_uri/
 ---
 ## UriBuilder::get_Uri method

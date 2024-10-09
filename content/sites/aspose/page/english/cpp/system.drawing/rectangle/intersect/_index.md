@@ -4,7 +4,7 @@ linktitle: Intersect
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::Intersect method. Replaces the rectangle represented by the current object with the rectangle that results from the its intersection with the rectangle represented by the specified object in C++.'
 type: docs
-weight: 2200
+weight: 1700
 url: /cpp/system.drawing/rectangle/intersect/
 ---
 ## Rectangle::Intersect(const Rectangle\&) method

@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectCollection::IndexOf method. Returns the collection index corresponding to the specified XmlSchemaObject in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/indexof/
 ---
 ## XmlSchemaObjectCollection::IndexOf method

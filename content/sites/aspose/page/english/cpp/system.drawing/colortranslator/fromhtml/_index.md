@@ -4,7 +4,7 @@ linktitle: FromHtml
 second_title: Aspose.Page for C++
 description: 'System::Drawing::ColorTranslator::FromHtml method. Converts the specified HTML color representation to the equvivalent Color object in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.drawing/colortranslator/fromhtml/
 ---
 ## ColorTranslator::FromHtml method

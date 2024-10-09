@@ -4,7 +4,7 @@ linktitle: get_LineJoin
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_LineJoin method. Returns a value that indicates how the lines drawn by this Pen object are joined in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/system.drawing/pen/get_linejoin/
 ---
 ## Pen::get_LineJoin method

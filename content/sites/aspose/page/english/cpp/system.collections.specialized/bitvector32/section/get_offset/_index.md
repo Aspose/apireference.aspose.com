@@ -4,7 +4,7 @@ linktitle: get_Offset
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::BitVector32::Section::get_Offset method. Gets the offset of this section from the start of the BitVector32 in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.collections.specialized/bitvector32/section/get_offset/
 ---
 ## Section::get_Offset method

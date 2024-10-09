@@ -4,7 +4,7 @@ linktitle: get_CurrencyPositivePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_CurrencyPositivePattern method. Gets currency positive pattern in C++.'
 type: docs
-weight: 3000
+weight: 800
 url: /cpp/system.globalization/numberformatinfo/get_currencypositivepattern/
 ---
 ## NumberFormatInfo::get_CurrencyPositivePattern method

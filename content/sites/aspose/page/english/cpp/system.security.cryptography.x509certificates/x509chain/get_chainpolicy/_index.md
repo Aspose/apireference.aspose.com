@@ -4,7 +4,7 @@ linktitle: get_ChainPolicy
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Chain::get_ChainPolicy method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.security.cryptography.x509certificates/x509chain/get_chainpolicy/
 ---
 ## X509Chain::get_ChainPolicy method

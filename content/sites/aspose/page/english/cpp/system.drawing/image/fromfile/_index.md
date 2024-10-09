@@ -4,7 +4,7 @@ linktitle: FromFile
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::FromFile method. Creates an Image object from the specified file in C++.'
 type: docs
-weight: 2800
+weight: 2700
 url: /cpp/system.drawing/image/fromfile/
 ---
 ## Image::FromFile method

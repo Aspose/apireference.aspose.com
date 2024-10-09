@@ -4,7 +4,7 @@ linktitle: Poll
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::Poll method. Returns the status of the socket based on the specified polling mode in C++.'
 type: docs
-weight: 5800
+weight: 4200
 url: /cpp/system.net.sockets/socket/poll/
 ---
 ## Socket::Poll method

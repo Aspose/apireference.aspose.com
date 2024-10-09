@@ -4,7 +4,7 @@ linktitle: XPathNodeIterator
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNodeIterator::XPathNodeIterator constructor. Initializes a new instance of the XPathNodeIterator class in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.xml.xpath/xpathnodeiterator/xpathnodeiterator/
 ---
 ## XPathNodeIterator::XPathNodeIterator constructor

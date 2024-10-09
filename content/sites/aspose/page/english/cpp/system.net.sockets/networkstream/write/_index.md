@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::Write method. Writes the specified subrange of bytes from the specified byte array to the stream in C++.'
 type: docs
-weight: 1700
+weight: 2500
 url: /cpp/system.net.sockets/networkstream/write/
 ---
 ## NetworkStream::Write(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

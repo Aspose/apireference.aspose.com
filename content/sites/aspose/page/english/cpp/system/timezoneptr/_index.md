@@ -4,7 +4,7 @@ linktitle: TimeZonePtr
 second_title: Aspose.Page for C++
 description: 'System::TimeZonePtr typedef. Shared pointer to an instance of TimeZone class in C++.'
 type: docs
-weight: 12500
+weight: 12600
 url: /cpp/system/timezoneptr/
 ---
 ## TimeZonePtr typedef

@@ -4,7 +4,7 @@ linktitle: PdfNode
 second_title: Aspose.Page for C++
 description: 'How to use PdfNode constructor of Aspose::Page::EPS::Device::PdfNode class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.eps.device/pdfnode/pdfnode/
 ---
 ## PdfNode::PdfNode constructor

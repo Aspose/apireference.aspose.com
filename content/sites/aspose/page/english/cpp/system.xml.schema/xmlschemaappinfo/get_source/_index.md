@@ -4,7 +4,7 @@ linktitle: get_Source
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAppInfo::get_Source method. Returns the source of the application information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaappinfo/get_source/
 ---
 ## XmlSchemaAppInfo::get_Source method

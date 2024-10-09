@@ -4,7 +4,7 @@ linktitle: set_DefaultValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::set_DefaultValue method. Sets the default value of the element if its content is a simple type or content of the element is textOnly in C++.'
 type: docs
-weight: 600
+weight: 2100
 url: /cpp/system.xml.schema/xmlschemaelement/set_defaultvalue/
 ---
 ## XmlSchemaElement::set_DefaultValue method

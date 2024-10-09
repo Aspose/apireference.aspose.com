@@ -4,7 +4,7 @@ linktitle: get_PathData
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::get_PathData method. Returns a PathData object containing the points that make up a path represented by the current object and their types in C++.'
 type: docs
-weight: 300
+weight: 2300
 url: /cpp/system.drawing.drawing2d/graphicspath/get_pathdata/
 ---
 ## GraphicsPath::get_PathData method

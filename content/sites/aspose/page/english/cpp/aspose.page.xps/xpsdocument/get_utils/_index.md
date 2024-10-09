@@ -4,7 +4,7 @@ linktitle: get_Utils
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::get_Utils method. Gets the object that provides utilities beyond the formal XPS manipulation API in C++.'
 type: docs
-weight: 100
+weight: 3800
 url: /cpp/aspose.page.xps/xpsdocument/get_utils/
 ---
 ## XpsDocument::get_Utils method

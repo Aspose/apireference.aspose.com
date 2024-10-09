@@ -4,7 +4,7 @@ linktitle: SystemIOStreamWrapper
 second_title: Aspose.Page for C++
 description: 'System::IO::SystemIOStreamWrapper typedef. Specializations of BasicSystemIOStreamWrapper for char character types in C++.'
 type: docs
-weight: 5100
+weight: 4700
 url: /cpp/system.io/systemiostreamwrapper/
 ---
 ## SystemIOStreamWrapper typedef

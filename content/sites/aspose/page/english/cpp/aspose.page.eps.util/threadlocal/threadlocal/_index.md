@@ -4,7 +4,7 @@ linktitle: ThreadLocal
 second_title: Aspose.Page for C++
 description: 'How to use ThreadLocal constructor of Aspose::Page::EPS::Util::ThreadLocal class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.page.eps.util/threadlocal/threadlocal/
 ---
 ## ThreadLocal::ThreadLocal constructor

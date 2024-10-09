@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsObject
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsObject method. Reads the current element and returns the contents as an Object in C++.'
 type: docs
-weight: 3700
+weight: 6200
 url: /cpp/system.xml/xmlreader/readelementcontentasobject/
 ---
 ## XmlReader::ReadElementContentAsObject() method

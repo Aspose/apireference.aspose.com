@@ -4,7 +4,7 @@ linktitle: get_BaseStream
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::get_BaseStream method. Returns the underlying stream object in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml/xmltextwriter/get_basestream/
 ---
 ## XmlTextWriter::get_BaseStream method

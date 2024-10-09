@@ -4,7 +4,7 @@ linktitle: ThreadPoolImpl
 second_title: Aspose.Page for C++
 description: 'System::Threading::ThreadPoolImpl::ThreadPoolImpl constructor. Constructor in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.threading/threadpoolimpl/threadpoolimpl/
 ---
 ## ThreadPoolImpl::ThreadPoolImpl constructor

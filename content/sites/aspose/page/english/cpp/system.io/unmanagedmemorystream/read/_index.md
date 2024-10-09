@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::IO::UnmanagedMemoryStream::Read method. Reads the specified number of bytes from the stream and writes them to the specified byte array in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/system.io/unmanagedmemorystream/read/
 ---
 ## UnmanagedMemoryStream::Read(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

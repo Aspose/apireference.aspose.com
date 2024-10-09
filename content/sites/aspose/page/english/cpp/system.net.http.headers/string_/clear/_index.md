@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection< System::String >::Clear method. Deletes all elements from collection in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.net.http.headers/string_/clear/
 ---
 ## String >::Clear method

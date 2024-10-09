@@ -4,7 +4,7 @@ linktitle: CreateSignificantWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateSignificantWhitespace method. Creates an XmlSignificantWhitespace node in C++.'
 type: docs
-weight: 3200
+weight: 1300
 url: /cpp/system.xml/xmldocument/createsignificantwhitespace/
 ---
 ## XmlDocument::CreateSignificantWhitespace method

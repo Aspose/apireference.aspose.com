@@ -4,7 +4,7 @@ linktitle: get_YellowGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_YellowGreen method. Gets a system-defined color that has an ARGB value of #FF9ACD32 in C++.'
 type: docs
-weight: 14100
+weight: 14300
 url: /cpp/aspose.page.drawing/color/get_yellowgreen/
 ---
 ## Color::get_YellowGreen method

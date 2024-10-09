@@ -4,7 +4,7 @@ linktitle: get_Transform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::TextureBrush::get_Transform method. Returns a copy of a Matrix object that specifies the geometrical transformations for the brush represneted by the current object in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.drawing/texturebrush/get_transform/
 ---
 ## TextureBrush::get_Transform method

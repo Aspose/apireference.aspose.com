@@ -4,7 +4,7 @@ linktitle: XmlSchemaExternal
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaExternal::XmlSchemaExternal constructor. Initializes a new instance of the XmlSchemaExternal class in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaexternal/xmlschemaexternal/
 ---
 ## XmlSchemaExternal::XmlSchemaExternal constructor

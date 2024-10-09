@@ -2,31 +2,11 @@
 title: System::Array::end method
 linktitle: end
 second_title: Aspose.Page for C++
-description: 'System::Array::end method. Returns an iterator to the element following the last element of the container. This element acts as a placeholder; attempting to access it results in undefined behavior in C++.'
+description: 'System::Array::end method. Returns an iterator to the element following the last element of the const-qualified container. This element acts as a placeholder; attempting to access it results in undefined behavior in C++.'
 type: docs
-weight: 3400
+weight: 1500
 url: /cpp/system/array/end/
 ---
-## Array::end() method
-
-
-Returns an iterator to the element following the last element of the container. This element acts as a placeholder; attempting to access it results in undefined behavior.
-
-```cpp
-iterator System::Array<T>::end() noexcept
-```
-
-
-### ReturnValue
-
-An iterator pointing to the theoretical element placed after the last element of the container.
-
-## See Also
-
-* Typedef [iterator](../iterator/)
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Array::end() const method
 
 
@@ -44,6 +24,26 @@ An iterator pointing to the theoretical element placed after the last element of
 ## See Also
 
 * Typedef [const_iterator](../const_iterator/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Array::end() method
+
+
+Returns an iterator to the element following the last element of the container. This element acts as a placeholder; attempting to access it results in undefined behavior.
+
+```cpp
+iterator System::Array<T>::end() noexcept
+```
+
+
+### ReturnValue
+
+An iterator pointing to the theoretical element placed after the last element of the container.
+
+## See Also
+
+* Typedef [iterator](../iterator/)
 * Class [Array](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

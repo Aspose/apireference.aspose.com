@@ -4,7 +4,7 @@ linktitle: GetPropertyFloat
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertyFloat method. Gets float property value in C++.'
 type: docs
-weight: 1400
+weight: 500
 url: /cpp/aspose.page/userproperties/getpropertyfloat/
 ---
 ## UserProperties::GetPropertyFloat(System::String) method

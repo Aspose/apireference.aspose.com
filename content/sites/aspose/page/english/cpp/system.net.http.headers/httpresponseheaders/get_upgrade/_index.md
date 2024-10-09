@@ -4,7 +4,7 @@ linktitle: get_Upgrade
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_Upgrade method. Returns a value of the ''Upgrade'' header in C++.'
 type: docs
-weight: 2600
+weight: 1800
 url: /cpp/system.net.http.headers/httpresponseheaders/get_upgrade/
 ---
 ## HttpResponseHeaders::get_Upgrade method

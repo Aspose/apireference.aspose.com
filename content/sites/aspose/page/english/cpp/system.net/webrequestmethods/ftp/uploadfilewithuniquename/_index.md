@@ -4,7 +4,7 @@ linktitle: UploadFileWithUniqueName
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Ftp::UploadFileWithUniqueName field. The string representation of the ''STOU'' method of FTP in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/system.net/webrequestmethods/ftp/uploadfilewithuniquename/
 ---
 ## UploadFileWithUniqueName field

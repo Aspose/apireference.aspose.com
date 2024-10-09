@@ -4,7 +4,7 @@ linktitle: IEnumerablePtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::IEnumerablePtr typedef. Collection containing elements of same type in C++.'
 type: docs
-weight: 1800
+weight: 1600
 url: /cpp/system.collections.generic/stack/ienumerableptr/
 ---
 ## IEnumerablePtr typedef

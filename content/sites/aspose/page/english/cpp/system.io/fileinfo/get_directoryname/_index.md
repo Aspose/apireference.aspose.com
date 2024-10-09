@@ -4,7 +4,7 @@ linktitle: get_DirectoryName
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::get_DirectoryName method. Returns the full name of the directory in which the file represented by the current object is loctaed in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.io/fileinfo/get_directoryname/
 ---
 ## FileInfo::get_DirectoryName method

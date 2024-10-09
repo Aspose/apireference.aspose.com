@@ -4,7 +4,7 @@ linktitle: DrawIconUnstretched
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawIconUnstretched method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 3800
+weight: 1700
 url: /cpp/system.drawing/graphics/drawiconunstretched/
 ---
 ## Graphics::DrawIconUnstretched method

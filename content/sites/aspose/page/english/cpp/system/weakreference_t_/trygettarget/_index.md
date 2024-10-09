@@ -4,7 +4,7 @@ linktitle: TryGetTarget
 second_title: Aspose.Page for C++
 description: 'System::WeakReference< T >::TryGetTarget method. Gets the object (the target) referenced by the current WeakReference object in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system/weakreference_t_/trygettarget/
 ---
 ## WeakReference< T >::TryGetTarget method

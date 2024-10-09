@@ -4,7 +4,7 @@ linktitle: get_AttributeCount
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::get_AttributeCount method. Returns the number of attributes on the current node in C++.'
 type: docs
-weight: 1500
+weight: 300
 url: /cpp/system.xml/xmltextreader/get_attributecount/
 ---
 ## XmlTextReader::get_AttributeCount method

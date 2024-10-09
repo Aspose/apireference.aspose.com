@@ -4,7 +4,7 @@ linktitle: get_Week
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::TransitionTime::get_Week method. Returns the ordinal number of the week of the month at which the time change occurs in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system/timezoneinfo/transitiontime/get_week/
 ---
 ## TransitionTime::get_Week method

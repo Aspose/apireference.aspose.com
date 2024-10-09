@@ -4,7 +4,7 @@ linktitle: get_FirstDayOfWeek
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_FirstDayOfWeek method. Gets first day of week in C++.'
 type: docs
-weight: 3300
+weight: 1100
 url: /cpp/system.globalization/datetimeformatinfo/get_firstdayofweek/
 ---
 ## DateTimeFormatInfo::get_FirstDayOfWeek method

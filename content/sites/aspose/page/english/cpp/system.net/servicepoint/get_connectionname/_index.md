@@ -4,7 +4,7 @@ linktitle: get_ConnectionName
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_ConnectionName method. Returns the connection name in C++.'
 type: docs
-weight: 1600
+weight: 800
 url: /cpp/system.net/servicepoint/get_connectionname/
 ---
 ## ServicePoint::get_ConnectionName method

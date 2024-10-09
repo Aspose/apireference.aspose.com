@@ -4,7 +4,7 @@ linktitle: CreateAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::CreateAttributes method. Returns an XmlWriter object used to create new attributes on the current element in C++.'
 type: docs
-weight: 7200
+weight: 800
 url: /cpp/system.xml.xpath/xpathnavigator/createattributes/
 ---
 ## XPathNavigator::CreateAttributes method

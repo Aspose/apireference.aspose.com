@@ -4,7 +4,7 @@ linktitle: get_IsParam
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::IXsltContextVariable::get_IsParam method. Returns a value indicating whether the variable is an Extensible Stylesheet Language Transformations (XSLT) parameter. This can be a parameter to a style sheet or a template in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml.xsl/ixsltcontextvariable/get_isparam/
 ---
 ## IXsltContextVariable::get_IsParam method

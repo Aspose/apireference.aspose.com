@@ -4,7 +4,7 @@ linktitle: get_SaveTargetsCollection
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::ISaveInstruction::get_SaveTargetsCollection method. Gets the collection of added targets (file or stream data sources) for saving operation results in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.plugins/isaveinstruction/get_savetargetscollection/
 ---
 ## ISaveInstruction::get_SaveTargetsCollection method

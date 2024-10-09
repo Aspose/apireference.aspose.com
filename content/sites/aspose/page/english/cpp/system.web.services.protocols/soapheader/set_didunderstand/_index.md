@@ -4,7 +4,7 @@ linktitle: set_DidUnderstand
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::set_DidUnderstand method. Sets a value that indicates if the SOAP header is properly processed in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/system.web.services.protocols/soapheader/set_didunderstand/
 ---
 ## SoapHeader::set_DidUnderstand method

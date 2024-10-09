@@ -4,7 +4,7 @@ linktitle: ExportCspBlob
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSACryptoServiceProvider::ExportCspBlob method. Exports blob with information on key. Not implemented in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/exportcspblob/
 ---
 ## DSACryptoServiceProvider::ExportCspBlob method

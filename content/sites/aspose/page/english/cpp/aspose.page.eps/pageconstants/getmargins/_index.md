@@ -4,7 +4,7 @@ linktitle: GetMargins
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PageConstants::GetMargins method. Gets page margins values in C++.'
 type: docs
-weight: 2600
+weight: 600
 url: /cpp/aspose.page.eps/pageconstants/getmargins/
 ---
 ## PageConstants::GetMargins(const System::String\&) method

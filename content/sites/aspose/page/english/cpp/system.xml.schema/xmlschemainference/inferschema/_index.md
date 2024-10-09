@@ -4,7 +4,7 @@ linktitle: InferSchema
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInference::InferSchema method. Infers an XML Schema Definition Language (XSD) schema from the XML document contained in the XmlReader object specified in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.xml.schema/xmlschemainference/inferschema/
 ---
 ## XmlSchemaInference::InferSchema(const SharedPtr\<XmlReader\>\&) method

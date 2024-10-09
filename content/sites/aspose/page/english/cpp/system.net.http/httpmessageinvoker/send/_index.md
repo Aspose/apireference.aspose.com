@@ -4,7 +4,7 @@ linktitle: Send
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMessageInvoker::Send method. Sends the specified request in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http/httpmessageinvoker/send/
 ---
 ## HttpMessageInvoker::Send method

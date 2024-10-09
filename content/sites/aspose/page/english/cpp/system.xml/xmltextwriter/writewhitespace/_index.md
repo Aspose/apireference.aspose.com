@@ -4,7 +4,7 @@ linktitle: WriteWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteWhitespace method. Writes out the given white space in C++.'
 type: docs
-weight: 2900
+weight: 4100
 url: /cpp/system.xml/xmltextwriter/writewhitespace/
 ---
 ## XmlTextWriter::WriteWhitespace method

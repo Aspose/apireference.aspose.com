@@ -4,7 +4,7 @@ linktitle: end
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamedNodeMap::end method. Gets iterator for a non-existent element behind the last element of the collection in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/system.xml/xmlnamednodemap/end/
 ---
 ## XmlNamedNodeMap::end method

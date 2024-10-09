@@ -4,7 +4,7 @@ linktitle: PopScope
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::PopScope method. Pops a namespace scope off the stack in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.xml/xmlnamespacemanager/popscope/
 ---
 ## XmlNamespaceManager::PopScope method

@@ -4,7 +4,7 @@ linktitle: AppendLine
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::AppendLine method. Appends new line character to builder in C++.'
 type: docs
-weight: 1200
+weight: 500
 url: /cpp/system.text/stringbuilder/appendline/
 ---
 ## StringBuilder::AppendLine() method

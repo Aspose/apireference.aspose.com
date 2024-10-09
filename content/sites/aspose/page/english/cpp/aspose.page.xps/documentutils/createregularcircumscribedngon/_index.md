@@ -4,7 +4,7 @@ linktitle: CreateRegularCircumscribedNGon
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreateRegularCircumscribedNGon method. Creates a path geometry representing a regular n-gon circumscribed around a circle in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.page.xps/documentutils/createregularcircumscribedngon/
 ---
 ## DocumentUtils::CreateRegularCircumscribedNGon method

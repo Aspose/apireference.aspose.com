@@ -4,7 +4,7 @@ linktitle: get_Notations
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocumentType::get_Notations method. Returns the collection of XmlNotation nodes present in the document type declaration in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.xml/xmldocumenttype/get_notations/
 ---
 ## XmlDocumentType::get_Notations method

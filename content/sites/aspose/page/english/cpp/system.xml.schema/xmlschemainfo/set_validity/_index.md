@@ -4,7 +4,7 @@ linktitle: set_Validity
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::set_Validity method. Sets the XmlSchemaValidity value of this validated XML node in C++.'
 type: docs
-weight: 200
+weight: 1700
 url: /cpp/system.xml.schema/xmlschemainfo/set_validity/
 ---
 ## XmlSchemaInfo::set_Validity method

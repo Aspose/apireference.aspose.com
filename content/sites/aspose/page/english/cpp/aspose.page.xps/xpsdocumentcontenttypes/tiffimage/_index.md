@@ -4,7 +4,7 @@ linktitle: TiffImage
 second_title: Aspose.Page for C++
 description: 'How to use TiffImage field of Aspose::Page::XPS::XpsDocumentContentTypes class in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.page.xps/xpsdocumentcontenttypes/tiffimage/
 ---
 ## TiffImage field

@@ -4,7 +4,7 @@ linktitle: FillRectangle
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FillRectangle method. Fills the specified rectangle with the specified brush in C++.'
 type: docs
-weight: 2600
+weight: 3700
 url: /cpp/system.drawing/graphics/fillrectangle/
 ---
 ## Graphics::FillRectangle(const SharedPtr\<Brush\>\&, float, float, float, float) method

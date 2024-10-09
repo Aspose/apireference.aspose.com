@@ -4,7 +4,7 @@ linktitle: Build
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Chain::Build method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.security.cryptography.x509certificates/x509chain/build/
 ---
 ## X509Chain::Build method

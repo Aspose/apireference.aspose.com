@@ -4,7 +4,7 @@ linktitle: set_Children
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::set_Children method. Sets tag child objects in C++.'
 type: docs
-weight: 500
+weight: 1400
 url: /cpp/system.security/securityelement/set_children/
 ---
 ## SecurityElement::set_Children method

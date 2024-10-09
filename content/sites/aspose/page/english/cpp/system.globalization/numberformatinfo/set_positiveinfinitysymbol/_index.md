@@ -4,7 +4,7 @@ linktitle: set_PositiveInfinitySymbol
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PositiveInfinitySymbol method. Sets positive infinity symbol in C++.'
 type: docs
-weight: 3500
+weight: 5800
 url: /cpp/system.globalization/numberformatinfo/set_positiveinfinitysymbol/
 ---
 ## NumberFormatInfo::set_PositiveInfinitySymbol method

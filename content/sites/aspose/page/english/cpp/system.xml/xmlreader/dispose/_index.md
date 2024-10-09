@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::Dispose method. Releases all resources used by the current instance of the XmlReader class in C++.'
 type: docs
-weight: 7600
+weight: 200
 url: /cpp/system.xml/xmlreader/dispose/
 ---
 ## XmlReader::Dispose method

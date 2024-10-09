@@ -4,7 +4,7 @@ linktitle: ReadLine
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamReader::ReadLine method. Reads characters from the stream until the end of the current line in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.io/streamreader/readline/
 ---
 ## StreamReader::ReadLine method

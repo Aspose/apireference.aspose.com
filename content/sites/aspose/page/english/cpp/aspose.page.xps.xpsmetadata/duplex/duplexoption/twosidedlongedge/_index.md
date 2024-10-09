@@ -4,7 +4,7 @@ linktitle: TwoSidedLongEdge
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Duplex::DuplexOption::TwoSidedLongEdge method. Specifies two sided printing such that the page is flipped parallel to the MediaSizeHeight direction in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/duplex/duplexoption/twosidedlongedge/
 ---
 ## DuplexOption::TwoSidedLongEdge method

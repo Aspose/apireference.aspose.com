@@ -4,7 +4,7 @@ linktitle: GetUnsignedLongLongValue
 second_title: Aspose.Page for C++
 description: 'System::BoxedEnum::GetUnsignedLongLongValue method. Converts the value of the boxed enumeration constant to 64-bit integer value in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system/boxedenum/getunsignedlonglongvalue/
 ---
 ## BoxedEnum::GetUnsignedLongLongValue method

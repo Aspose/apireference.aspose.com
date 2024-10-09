@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::Contains method. Checks if the collection contains the specified cookie in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/system.net/cookiecollection/contains/
 ---
 ## CookieCollection::Contains method

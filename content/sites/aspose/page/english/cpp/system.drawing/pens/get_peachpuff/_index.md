@@ -4,7 +4,7 @@ linktitle: get_PeachPuff
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_PeachPuff method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFDAB9 in C++.'
 type: docs
-weight: 10900
+weight: 10800
 url: /cpp/system.drawing/pens/get_peachpuff/
 ---
 ## Pens::get_PeachPuff method

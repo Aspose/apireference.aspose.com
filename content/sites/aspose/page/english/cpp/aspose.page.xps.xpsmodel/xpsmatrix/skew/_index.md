@@ -4,7 +4,7 @@ linktitle: Skew
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::Skew method. Applies specified skew transformation to this Matrix in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/skew/
 ---
 ## XpsMatrix::Skew method

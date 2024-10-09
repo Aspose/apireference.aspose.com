@@ -4,7 +4,7 @@ linktitle: System::Data::Common
 second_title: Aspose.Page for C++
 description: 'How to use System::Data::Common namespace in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system.data.common/
 ---
 

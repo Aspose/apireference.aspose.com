@@ -4,7 +4,7 @@ linktitle: CreateDocumentType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateDocumentType method. Returns a new XmlDocumentType object in C++.'
 type: docs
-weight: 2500
+weight: 700
 url: /cpp/system.xml/xmldocument/createdocumenttype/
 ---
 ## XmlDocument::CreateDocumentType method

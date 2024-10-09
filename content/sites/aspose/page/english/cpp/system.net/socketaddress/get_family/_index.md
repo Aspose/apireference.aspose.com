@@ -4,7 +4,7 @@ linktitle: get_Family
 second_title: Aspose.Page for C++
 description: 'System::Net::SocketAddress::get_Family method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.net/socketaddress/get_family/
 ---
 ## SocketAddress::get_Family method

@@ -4,7 +4,7 @@ linktitle: Parse
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::AuthenticationHeaderValue::Parse method. Converts a passed string to an instance of the AuthenticationHeaderValue class in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.net.http.headers/authenticationheadervalue/parse/
 ---
 ## AuthenticationHeaderValue::Parse method

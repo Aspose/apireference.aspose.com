@@ -4,7 +4,7 @@ linktitle: set_CompoundArray
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_CompoundArray method. Sets an array of values that specifies a compound pen in C++.'
 type: docs
-weight: 2300
+weight: 2600
 url: /cpp/system.drawing/pen/set_compoundarray/
 ---
 ## Pen::set_CompoundArray method

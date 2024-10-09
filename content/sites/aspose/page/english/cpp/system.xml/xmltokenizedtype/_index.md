@@ -4,7 +4,7 @@ linktitle: XmlTokenizedType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTokenizedType enum. Represents the XML type for the string. This allows the string to be read as a particular XML type, for example a CDATA section type in C++.'
 type: docs
-weight: 5300
+weight: 6600
 url: /cpp/system.xml/xmltokenizedtype/
 ---
 ## XmlTokenizedType enum

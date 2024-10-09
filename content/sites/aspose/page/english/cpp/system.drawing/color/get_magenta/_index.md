@@ -4,7 +4,7 @@ linktitle: get_Magenta
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Magenta method. Returns a color whose ARGB value in hexadecimal notation is #FFFF00FF in C++.'
 type: docs
-weight: 10200
+weight: 10100
 url: /cpp/system.drawing/color/get_magenta/
 ---
 ## Color::get_Magenta method

@@ -2,36 +2,11 @@
 title: System::DateTimeOffset::Subtract method
 linktitle: Subtract
 second_title: Aspose.Page for C++
-description: 'System::DateTimeOffset::Subtract method. Subtracts a specified time interval from the current object in C++.'
+description: 'System::DateTimeOffset::Subtract method. Subtracts a specified DateTimeOffset value from the current object in C++.'
 type: docs
-weight: 3100
+weight: 4100
 url: /cpp/system/datetimeoffset/subtract/
 ---
-## DateTimeOffset::Subtract(TimeSpan) const method
-
-
-Subtracts a specified time interval from the current object.
-
-```cpp
-DateTimeOffset System::DateTimeOffset::Subtract(TimeSpan value) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | TimeSpan | Value to subtract. |
-
-### ReturnValue
-
-Result of operation.
-
-## See Also
-
-* Class [DateTimeOffset](../)
-* Class [TimeSpan](../../timespan/)
-* Class [DateTimeOffset](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## DateTimeOffset::Subtract(const DateTimeOffset\&) const method
 
 
@@ -54,6 +29,31 @@ Result of operation.
 
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## DateTimeOffset::Subtract(TimeSpan) const method
+
+
+Subtracts a specified time interval from the current object.
+
+```cpp
+DateTimeOffset System::DateTimeOffset::Subtract(TimeSpan value) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | TimeSpan | Value to subtract. |
+
+### ReturnValue
+
+Result of operation.
+
+## See Also
+
+* Class [DateTimeOffset](../)
+* Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

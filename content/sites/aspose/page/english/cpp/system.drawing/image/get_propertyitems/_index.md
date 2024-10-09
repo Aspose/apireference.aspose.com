@@ -4,7 +4,7 @@ linktitle: get_PropertyItems
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_PropertyItems method. Gets all the property items(pieces of metadata) stored in this image in C++.'
 type: docs
-weight: 2300
+weight: 1000
 url: /cpp/system.drawing/image/get_propertyitems/
 ---
 ## Image::get_PropertyItems method

@@ -4,7 +4,7 @@ linktitle: XpsColorInterpolationMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsColorInterpolationMode enum. Valid values of gradient brushes'' ColorInterpolationMode property in C++.'
 type: docs
-weight: 5400
+weight: 4600
 url: /cpp/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enum

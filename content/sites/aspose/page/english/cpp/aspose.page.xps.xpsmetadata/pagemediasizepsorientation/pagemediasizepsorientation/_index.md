@@ -4,7 +4,7 @@ linktitle: PageMediaSizePSOrientation
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSizePSOrientation::PageMediaSizePSOrientation constructor. Creates a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasizepsorientation/pagemediasizepsorientation/
 ---
 ## PageMediaSizePSOrientation::PageMediaSizePSOrientation constructor

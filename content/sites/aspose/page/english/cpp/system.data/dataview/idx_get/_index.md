@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Data::DataView::idx_get method. Gets row views in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.data/dataview/idx_get/
 ---
 ## DataView::idx_get method

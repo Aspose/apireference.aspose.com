@@ -4,7 +4,7 @@ linktitle: AddMember
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::AddMember method. Adds the specified member to the list of type''s members in C++.'
 type: docs
-weight: 3600
+weight: 700
 url: /cpp/system/typeinfo/addmember/
 ---
 ## TypeInfo::AddMember method

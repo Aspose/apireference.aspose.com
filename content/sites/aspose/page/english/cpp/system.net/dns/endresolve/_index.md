@@ -4,7 +4,7 @@ linktitle: EndResolve
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::EndResolve method. Waits until the specified asynchronous operation to create a new IPHostEntry-class instance completes in C++.'
 type: docs
-weight: 1400
+weight: 800
 url: /cpp/system.net/dns/endresolve/
 ---
 ## Dns::EndResolve method

@@ -4,7 +4,7 @@ linktitle: FindAll
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::FindAll method. Looks for elements adhering to specific predicate in C++.'
 type: docs
-weight: 3100
+weight: 2100
 url: /cpp/system.collections.generic/list/findall/
 ---
 ## List::FindAll method

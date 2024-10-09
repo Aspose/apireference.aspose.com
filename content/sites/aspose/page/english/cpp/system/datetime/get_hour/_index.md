@@ -4,7 +4,7 @@ linktitle: get_Hour
 second_title: Aspose.Page for C++
 description: 'System::DateTime::get_Hour method. Returns the hour component of the date and time value represented by the current object in C++.'
 type: docs
-weight: 1200
+weight: 1700
 url: /cpp/system/datetime/get_hour/
 ---
 ## DateTime::get_Hour method

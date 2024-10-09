@@ -4,7 +4,7 @@ linktitle: get_Host
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_Host method. Gets a value of the ''Host'' header in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/system.net.http.headers/httprequestheaders/get_host/
 ---
 ## HttpRequestHeaders::get_Host method

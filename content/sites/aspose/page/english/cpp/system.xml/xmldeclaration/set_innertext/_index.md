@@ -4,7 +4,7 @@ linktitle: set_InnerText
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDeclaration::set_InnerText method. Sets the concatenated values of the XmlDeclaration in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/system.xml/xmldeclaration/set_innertext/
 ---
 ## XmlDeclaration::set_InnerText method

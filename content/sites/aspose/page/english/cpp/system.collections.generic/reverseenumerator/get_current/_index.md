@@ -4,7 +4,7 @@ linktitle: get_Current
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ReverseEnumerator::get_Current method. Gets ''current'' element in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.collections.generic/reverseenumerator/get_current/
 ---
 ## ReverseEnumerator::get_Current method

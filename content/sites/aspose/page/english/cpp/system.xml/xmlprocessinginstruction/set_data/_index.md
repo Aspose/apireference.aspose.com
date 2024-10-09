@@ -4,7 +4,7 @@ linktitle: set_Data
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlProcessingInstruction::set_Data method. Sets the content of the processing instruction, excluding the target in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system.xml/xmlprocessinginstruction/set_data/
 ---
 ## XmlProcessingInstruction::set_Data method

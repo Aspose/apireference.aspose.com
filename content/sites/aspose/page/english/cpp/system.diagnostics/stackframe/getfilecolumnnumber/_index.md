@@ -4,7 +4,7 @@ linktitle: GetFileColumnNumber
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::StackFrame::GetFileColumnNumber method. Gets the colnum number in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.diagnostics/stackframe/getfilecolumnnumber/
 ---
 ## StackFrame::GetFileColumnNumber method

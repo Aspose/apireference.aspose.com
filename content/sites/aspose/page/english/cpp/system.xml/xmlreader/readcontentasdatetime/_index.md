@@ -4,7 +4,7 @@ linktitle: ReadContentAsDateTime
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAsDateTime method. Reads the text content at the current position as a DateTime object in C++.'
 type: docs
-weight: 2800
+weight: 4300
 url: /cpp/system.xml/xmlreader/readcontentasdatetime/
 ---
 ## XmlReader::ReadContentAsDateTime method

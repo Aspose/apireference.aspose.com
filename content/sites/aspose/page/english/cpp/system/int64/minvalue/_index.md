@@ -4,7 +4,7 @@ linktitle: MinValue
 second_title: Aspose.Page for C++
 description: 'System::Int64::MinValue field. Smallest possible value in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/int64/minvalue/
 ---
 ## MinValue field

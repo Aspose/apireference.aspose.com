@@ -4,7 +4,7 @@ linktitle: get_LineInfoProvider
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::get_LineInfoProvider method. Returns the line number information for the XML node being validated in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml.schema/xmlschemavalidator/get_lineinfoprovider/
 ---
 ## XmlSchemaValidator::get_LineInfoProvider method

@@ -4,7 +4,7 @@ linktitle: AddFont
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Text::PrivateFontCollection::AddFont method. Adds the specified font to the collection in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.drawing.text/privatefontcollection/addfont/
 ---
 ## PrivateFontCollection::AddFont method

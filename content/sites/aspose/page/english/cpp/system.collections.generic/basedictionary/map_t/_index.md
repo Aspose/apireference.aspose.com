@@ -4,7 +4,7 @@ linktitle: map_t
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::map_t typedef. Internal map type in C++.'
 type: docs
-weight: 2600
+weight: 3100
 url: /cpp/system.collections.generic/basedictionary/map_t/
 ---
 ## map_t typedef

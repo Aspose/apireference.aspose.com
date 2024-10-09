@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::Clone method. Creates a copy of the current object in C++.'
 type: docs
-weight: 2300
+weight: 1100
 url: /cpp/system.drawing.imaging/imageattributes/clone/
 ---
 ## ImageAttributes::Clone method

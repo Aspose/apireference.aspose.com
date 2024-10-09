@@ -4,7 +4,7 @@ linktitle: data
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::data method. Underlying data storage accessor in C++.'
 type: docs
-weight: 1400
+weight: 1000
 url: /cpp/system.collections.generic/basedictionary/data/
 ---
 ## BaseDictionary::data() method

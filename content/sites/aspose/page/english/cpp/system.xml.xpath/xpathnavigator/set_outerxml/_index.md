@@ -4,7 +4,7 @@ linktitle: set_OuterXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::set_OuterXml method. Sets the markup representing the opening and closing tags of the current node and its child nodes in C++.'
 type: docs
-weight: 2500
+weight: 7700
 url: /cpp/system.xml.xpath/xpathnavigator/set_outerxml/
 ---
 ## XPathNavigator::set_OuterXml method

@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbConnectionStringBuilder::idx_set method. Sets named value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.data.common/dbconnectionstringbuilder/idx_set/
 ---
 ## DbConnectionStringBuilder::idx_set method

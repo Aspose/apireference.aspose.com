@@ -4,7 +4,7 @@ linktitle: ICollection
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::ICollection constructor. Default constructor in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/system.collections.generic/icollection/icollection/
 ---
 ## ICollection::ICollection() constructor

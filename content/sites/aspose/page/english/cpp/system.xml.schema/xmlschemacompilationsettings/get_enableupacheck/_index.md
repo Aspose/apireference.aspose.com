@@ -4,7 +4,7 @@ linktitle: get_EnableUpaCheck
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCompilationSettings::get_EnableUpaCheck method. Returns a value indicating whether the XmlSchemaSet should check for Unique Particle Attribution (UPA) violations in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemacompilationsettings/get_enableupacheck/
 ---
 ## XmlSchemaCompilationSettings::get_EnableUpaCheck method

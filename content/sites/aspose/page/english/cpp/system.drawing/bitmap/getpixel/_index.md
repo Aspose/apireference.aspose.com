@@ -4,7 +4,7 @@ linktitle: GetPixel
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::GetPixel method. Returns the color of the specified pixel in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.drawing/bitmap/getpixel/
 ---
 ## Bitmap::GetPixel method

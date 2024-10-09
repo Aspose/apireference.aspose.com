@@ -4,7 +4,7 @@ linktitle: get_CanonicalizationMethod
 second_title: Aspose.Page for C++
 description: 'How to use get_CanonicalizationMethod method of System::Security::Cryptography::Xml::SignedInfo class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.security.cryptography.xml/signedinfo/get_canonicalizationmethod/
 ---
 ## SignedInfo::get_CanonicalizationMethod method

@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::Clear method. Deletes all elements from stack in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.collections.generic/stack/clear/
 ---
 ## Stack::Clear method

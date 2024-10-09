@@ -4,7 +4,7 @@ linktitle: get_DataAvailable
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::get_DataAvailable method. Returns a value that indicates if the there is available data to read in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/system.net.sockets/networkstream/get_dataavailable/
 ---
 ## NetworkStream::get_DataAvailable method

@@ -4,7 +4,7 @@ linktitle: WriteChars
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteChars method. Writes text one buffer at a time in C++.'
 type: docs
-weight: 3200
+weight: 2300
 url: /cpp/system.xml/xmltextwriter/writechars/
 ---
 ## XmlTextWriter::WriteChars method

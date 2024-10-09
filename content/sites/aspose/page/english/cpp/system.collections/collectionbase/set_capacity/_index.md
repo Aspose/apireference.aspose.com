@@ -4,7 +4,7 @@ linktitle: set_Capacity
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::set_Capacity method. Sets the number of elements that the collection can contain in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.collections/collectionbase/set_capacity/
 ---
 ## CollectionBase::set_Capacity method

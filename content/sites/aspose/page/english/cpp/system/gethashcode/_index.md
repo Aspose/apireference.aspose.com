@@ -2,11 +2,24 @@
 title: System::GetHashCode method
 linktitle: GetHashCode
 second_title: Aspose.Page for C++
-description: 'System::GetHashCode method. Returns a hash code for the specified scalar value in C++.'
+description: 'System::GetHashCode method. Specialization for std::thread::id; Returns the hash code for the specified thread object in C++.'
 type: docs
-weight: 25500
+weight: 18900
 url: /cpp/system/gethashcode/
 ---
+## System::GetHashCode(const std::thread::id\&) method
+
+
+Specialization for std::thread::id; Returns the hash code for the specified thread object.
+
+```cpp
+int System::GetHashCode(const std::thread::id &id)
+```
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
 ## System::GetHashCode(const T\&) method
 
 
@@ -106,19 +119,6 @@ template<typename T> std::enable_if<!std::is_scalar<T>::value &&!System::IsSmart
 ### ReturnValue
 
 The hash code generated for the specified object
-
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::GetHashCode(const std::thread::id\&) method
-
-
-Specialization for std::thread::id; Returns the hash code for the specified thread object.
-
-```cpp
-int System::GetHashCode(const std::thread::id &id)
-```
 
 ## See Also
 

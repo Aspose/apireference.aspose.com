@@ -4,7 +4,7 @@ linktitle: NameValueCollection
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::NameValueCollection constructor. Initializes a new instance of the NameValueCollection class that is empty in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/system.collections.specialized/namevaluecollection/namevaluecollection/
 ---
 ## NameValueCollection::NameValueCollection() constructor

@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'How to use get_Value method of Aspose::Page::EPS::Util::ThreadLocal class in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.eps.util/threadlocal/get_value/
 ---
 ## ThreadLocal::get_Value method

@@ -4,7 +4,7 @@ linktitle: get_DefaultNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::get_DefaultNamespace method. Returns the namespace URI for the default namespace in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml/xmlnamespacemanager/get_defaultnamespace/
 ---
 ## XmlNamespaceManager::get_DefaultNamespace method

@@ -4,7 +4,7 @@ linktitle: XmlUrlResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlUrlResolver::XmlUrlResolver constructor. Initializes a new instance of the XmlUrlResolver class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml/xmlurlresolver/xmlurlresolver/
 ---
 ## XmlUrlResolver::XmlUrlResolver constructor

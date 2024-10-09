@@ -4,7 +4,7 @@ linktitle: Flatten
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::Flatten method. Flattens each curve in the path by converting them into a series of connected lines. The flatness value of 0.25 is used in C++.'
 type: docs
-weight: 3100
+weight: 2100
 url: /cpp/system.drawing.drawing2d/graphicspath/flatten/
 ---
 ## GraphicsPath::Flatten() method

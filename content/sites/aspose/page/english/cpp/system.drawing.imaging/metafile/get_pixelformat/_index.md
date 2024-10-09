@@ -4,7 +4,7 @@ linktitle: get_PixelFormat
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Metafile::get_PixelFormat method. Returns a value the indicates the pixel format in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system.drawing.imaging/metafile/get_pixelformat/
 ---
 ## Metafile::get_PixelFormat method

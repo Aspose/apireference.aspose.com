@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::CustomLineCap::Clone method. Returns a copy of the current object in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.drawing.drawing2d/customlinecap/clone/
 ---
 ## CustomLineCap::Clone method

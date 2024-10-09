@@ -4,7 +4,7 @@ linktitle: get_VOffset
 second_title: Aspose.Page for C++
 description: 'How to use get_VOffset method of Aspose::Page::XPS::XpsModel::XpsGlyphMapping class in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphmapping/get_voffset/
 ---
 ## XpsGlyphMapping::get_VOffset method

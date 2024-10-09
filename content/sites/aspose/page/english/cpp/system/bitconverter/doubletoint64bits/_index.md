@@ -4,7 +4,7 @@ linktitle: DoubleToInt64Bits
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::DoubleToInt64Bits method. Returns a 64-bit integer value whose binary representation is equal to binary representation of the specified double-precision floating point value in C++.'
 type: docs
-weight: 1400
+weight: 200
 url: /cpp/system/bitconverter/doubletoint64bits/
 ---
 ## BitConverter::DoubleToInt64Bits method

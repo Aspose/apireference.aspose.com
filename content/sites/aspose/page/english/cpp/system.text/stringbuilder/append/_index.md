@@ -4,7 +4,7 @@ linktitle: Append
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::Append method. Adds character to builder in C++.'
 type: docs
-weight: 1000
+weight: 300
 url: /cpp/system.text/stringbuilder/append/
 ---
 ## StringBuilder::Append(char_t) method
@@ -108,6 +108,60 @@ This pointer.
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
+## StringBuilder::Append(const SharedPtr\<StringBuilder\>\&) method
+
+
+Adds builder's content to builder.
+
+```cpp
+StringBuilder * System::Text::StringBuilder::Append(const SharedPtr<StringBuilder> &builder)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| builder | const SharedPtr\<StringBuilder\>\& | Builder to add content from. |
+
+### ReturnValue
+
+This pointer.
+
+## See Also
+
+* Class [StringBuilder](../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StringBuilder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## StringBuilder::Append(const SharedPtr\<T\>\&) method
+
+
+Adds object's string representation to builder.
+
+```cpp
+template<class T> StringBuilder * System::Text::StringBuilder::Append(const SharedPtr<T> &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | [Object](../../../system/object/) type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const SharedPtr\<T\>\& | [Object](../../../system/object/) to serialize and add. |
+
+### ReturnValue
+
+This pointer.
+
+## See Also
+
+* Class [StringBuilder](../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StringBuilder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
 ## StringBuilder::Append(const String\&) method
 
 
@@ -160,23 +214,47 @@ This pointer.
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
-## StringBuilder::Append(const SharedPtr\<T\>\&) method
+## StringBuilder::Append(double) method
 
 
-Adds object's string representation to builder.
+Adds floating point value to builder.
 
 ```cpp
-template<class T> StringBuilder * System::Text::StringBuilder::Append(const SharedPtr<T> &obj)
+StringBuilder * System::Text::StringBuilder::Append(double df)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| df | double | Value to serialize and add. |
+
+### ReturnValue
+
+This pointer.
+
+## See Also
+
+* Class [StringBuilder](../)
+* Class [StringBuilder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## StringBuilder::Append(E) method
+
+
+Adds enum value string representation to builder.
+
+```cpp
+template<class E> std::enable_if<std::is_enum<E>::value, StringBuilder *>::type System::Text::StringBuilder::Append(E e)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
-| T | [Object](../../../system/object/) type. |
+| E | [Enum](../../../system/enum/) type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | const SharedPtr\<T\>\& | [Object](../../../system/object/) to serialize and add. |
+| e | E | Value to serialize and add. |
 
 ### ReturnValue
 
@@ -185,32 +263,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [StringBuilder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## StringBuilder::Append(const SharedPtr\<StringBuilder\>\&) method
-
-
-Adds builder's content to builder.
-
-```cpp
-StringBuilder * System::Text::StringBuilder::Append(const SharedPtr<StringBuilder> &builder)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| builder | const SharedPtr\<StringBuilder\>\& | Builder to add content from. |
-
-### ReturnValue
-
-This pointer.
-
-## See Also
-
-* Class [StringBuilder](../)
-* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -227,30 +279,6 @@ StringBuilder * System::Text::StringBuilder::Append(float f)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | f | float | Value to serialize and add. |
-
-### ReturnValue
-
-This pointer.
-
-## See Also
-
-* Class [StringBuilder](../)
-* Class [StringBuilder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## StringBuilder::Append(double) method
-
-
-Adds floating point value to builder.
-
-```cpp
-StringBuilder * System::Text::StringBuilder::Append(double df)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| df | double | Value to serialize and add. |
 
 ### ReturnValue
 
@@ -303,34 +331,6 @@ template<typename T> std::enable_if<std::is_arithmetic<T>::value, StringBuilder 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | T | Value to serialize and add. |
-
-### ReturnValue
-
-This pointer.
-
-## See Also
-
-* Class [StringBuilder](../)
-* Class [StringBuilder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## StringBuilder::Append(E) method
-
-
-Adds enum value string representation to builder.
-
-```cpp
-template<class E> std::enable_if<std::is_enum<E>::value, StringBuilder *>::type System::Text::StringBuilder::Append(E e)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| E | [Enum](../../../system/enum/) type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| e | E | Value to serialize and add. |
 
 ### ReturnValue
 

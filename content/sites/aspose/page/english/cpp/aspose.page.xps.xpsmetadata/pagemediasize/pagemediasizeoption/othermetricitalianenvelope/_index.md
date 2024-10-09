@@ -4,7 +4,7 @@ linktitle: OtherMetricItalianEnvelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::OtherMetricItalianEnvelope field. Other Metric Italian envelope in C++.'
 type: docs
-weight: 12300
+weight: 14000
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/othermetricitalianenvelope/
 ---
 ## OtherMetricItalianEnvelope field

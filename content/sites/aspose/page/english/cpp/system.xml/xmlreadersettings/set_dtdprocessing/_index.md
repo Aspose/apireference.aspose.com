@@ -4,7 +4,7 @@ linktitle: set_DtdProcessing
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_DtdProcessing method. Sets a value that determines the processing of DTDs in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/system.xml/xmlreadersettings/set_dtdprocessing/
 ---
 ## XmlReaderSettings::set_DtdProcessing method

@@ -4,7 +4,7 @@ linktitle: get_ReceiveTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_ReceiveTimeout method. Gets a period after which a ''Receive'' call will time out in C++.'
 type: docs
-weight: 2000
+weight: 3200
 url: /cpp/system.net.sockets/socket/get_receivetimeout/
 ---
 ## Socket::get_ReceiveTimeout method

@@ -21,26 +21,6 @@ System::Threading::Thread::Thread()
 * Class [Thread](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.Page for C++](../../../)
-## Thread::Thread(ThreadStart) constructor
-
-
-Constructor.
-
-```cpp
-System::Threading::Thread::Thread(ThreadStart thread_function)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| thread_function | ThreadStart | Function to be executed by thread. |
-
-## See Also
-
-* Typedef [ThreadStart](../../threadstart/)
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Thread::Thread(ParameterizedThreadStart) constructor
 
 
@@ -78,6 +58,26 @@ System::Threading::Thread::Thread(Thread &t)
 ## See Also
 
 * Class [Thread](../)
+* Class [Thread](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Page for C++](../../../)
+## Thread::Thread(ThreadStart) constructor
+
+
+Constructor.
+
+```cpp
+System::Threading::Thread::Thread(ThreadStart thread_function)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| thread_function | ThreadStart | Function to be executed by thread. |
+
+## See Also
+
+* Typedef [ThreadStart](../../threadstart/)
 * Class [Thread](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.Page for C++](../../../)

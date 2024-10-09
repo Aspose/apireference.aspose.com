@@ -4,7 +4,7 @@ linktitle: ResolveFunction
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltContext::ResolveFunction method. When overridden in a derived class, resolves a function reference and returns an IXsltContextFunction representing the function. The IXsltContextFunction is used at execution time to get the return value of the function in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml.xsl/xsltcontext/resolvefunction/
 ---
 ## XsltContext::ResolveFunction method

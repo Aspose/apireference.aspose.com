@@ -4,7 +4,7 @@ linktitle: set_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_NameTable method. Sets the XmlNameTable used for atomized string comparisons in C++.'
 type: docs
-weight: 200
+weight: 3200
 url: /cpp/system.xml/xmlreadersettings/set_nametable/
 ---
 ## XmlReaderSettings::set_NameTable method

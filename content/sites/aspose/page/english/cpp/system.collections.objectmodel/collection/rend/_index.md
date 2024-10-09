@@ -2,31 +2,11 @@
 title: System::Collections::ObjectModel::Collection::rend method
 linktitle: rend
 second_title: Aspose.Page for C++
-description: 'System::Collections::ObjectModel::Collection::rend method. Gets a reverse iterator for a non-existent element before the start of the collection in C++.'
+description: 'System::Collections::ObjectModel::Collection::rend method. Gets a reverse iterator for a non-existent element before the start of the const-qualified collection in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.collections.objectmodel/collection/rend/
 ---
-## Collection::rend() method
-
-
-Gets a reverse iterator for a non-existent element before the start of the collection.
-
-```cpp
-reverse_iterator System::Collections::ObjectModel::Collection<T>::rend() noexcept
-```
-
-
-### ReturnValue
-
-A reverse iterator pointing to the theoretical element preceding the first element in the list (last in reverse).
-
-## See Also
-
-* Typedef [reverse_iterator](../reverse_iterator/)
-* Class [Collection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Collection::rend() const method
 
 
@@ -44,6 +24,26 @@ A reverse iterator pointing to the theoretical element preceding the first eleme
 ## See Also
 
 * Typedef [const_reverse_iterator](../const_reverse_iterator/)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## Collection::rend() method
+
+
+Gets a reverse iterator for a non-existent element before the start of the collection.
+
+```cpp
+reverse_iterator System::Collections::ObjectModel::Collection<T>::rend() noexcept
+```
+
+
+### ReturnValue
+
+A reverse iterator pointing to the theoretical element preceding the first element in the list (last in reverse).
+
+## See Also
+
+* Typedef [reverse_iterator](../reverse_iterator/)
 * Class [Collection](../)
 * Namespace [System::Collections::ObjectModel](../../)
 * Library [Aspose.Page for C++](../../../)

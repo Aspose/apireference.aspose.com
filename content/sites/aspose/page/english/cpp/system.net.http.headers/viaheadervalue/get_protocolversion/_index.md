@@ -4,7 +4,7 @@ linktitle: get_ProtocolVersion
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ViaHeaderValue::get_ProtocolVersion method. Returns the protocol version from the ''Via'' header value in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.net.http.headers/viaheadervalue/get_protocolversion/
 ---
 ## ViaHeaderValue::get_ProtocolVersion method

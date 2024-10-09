@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::idx_set method. Sets data from metadata in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/idx_set/
 ---
 ## XmpMetadata::idx_set method

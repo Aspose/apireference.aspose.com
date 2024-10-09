@@ -4,7 +4,7 @@ linktitle: CreateEllipse
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreateEllipse method. Creates a path geometry representing an ellipse in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.xps/documentutils/createellipse/
 ---
 ## DocumentUtils::CreateEllipse method

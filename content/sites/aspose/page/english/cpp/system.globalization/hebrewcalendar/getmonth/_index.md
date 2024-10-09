@@ -4,7 +4,7 @@ linktitle: GetMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HebrewCalendar::GetMonth method. Gets month for the specified time point in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.globalization/hebrewcalendar/getmonth/
 ---
 ## HebrewCalendar::GetMonth method

@@ -4,7 +4,7 @@ linktitle: get_CurrencyDecimalSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_CurrencyDecimalSeparator method. Gets currency decimal separator in C++.'
 type: docs
-weight: 2200
+weight: 400
 url: /cpp/system.globalization/numberformatinfo/get_currencydecimalseparator/
 ---
 ## NumberFormatInfo::get_CurrencyDecimalSeparator method

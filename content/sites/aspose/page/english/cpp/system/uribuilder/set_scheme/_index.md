@@ -4,7 +4,7 @@ linktitle: set_Scheme
 second_title: Aspose.Page for C++
 description: 'System::UriBuilder::set_Scheme method. Sets the scheme of the URI constructed by the current object to the specified value in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system/uribuilder/set_scheme/
 ---
 ## UriBuilder::set_Scheme method

@@ -4,7 +4,7 @@ linktitle: GetSecond
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetSecond method. Gets seconds for the specified time point in C++.'
 type: docs
-weight: 2700
+weight: 3100
 url: /cpp/system.globalization/calendar/getsecond/
 ---
 ## Calendar::GetSecond method

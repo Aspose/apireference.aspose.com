@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'System::Globalization::StringInfo::GetHashCode method. Analog of C# Object.GetHashCode() method. Enables hashing of custom objects in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.globalization/stringinfo/gethashcode/
 ---
 ## StringInfo::GetHashCode method

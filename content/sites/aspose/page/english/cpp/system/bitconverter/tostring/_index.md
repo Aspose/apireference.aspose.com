@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToString method. Converts all values of the specified byte array into their hexadecimal string representation. Case of letters to use in hexadecimal notation and separator inserted between each pair of neighbouring bytes are specified through corresponding arguments in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system/bitconverter/tostring/
 ---
 ## BitConverter::ToString(const ArrayPtr\<uint8_t\>\&, bool, const String\&) method

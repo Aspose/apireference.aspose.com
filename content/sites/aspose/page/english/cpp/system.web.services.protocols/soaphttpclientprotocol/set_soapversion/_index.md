@@ -4,7 +4,7 @@ linktitle: set_SoapVersion
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHttpClientProtocol::set_SoapVersion method. Sets the SOAP version in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.web.services.protocols/soaphttpclientprotocol/set_soapversion/
 ---
 ## SoapHttpClientProtocol::set_SoapVersion method

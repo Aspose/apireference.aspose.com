@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerator::Reset method. Resets enumerator to position before first element in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.collections.generic/ienumerator/reset/
 ---
 ## IEnumerator::Reset method

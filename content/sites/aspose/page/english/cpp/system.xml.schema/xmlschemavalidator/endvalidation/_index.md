@@ -4,7 +4,7 @@ linktitle: EndValidation
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::EndValidation method. Ends validation and checks identity constraints for the entire XML document in C++.'
 type: docs
-weight: 1900
+weight: 300
 url: /cpp/system.xml.schema/xmlschemavalidator/endvalidation/
 ---
 ## XmlSchemaValidator::EndValidation method

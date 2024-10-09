@@ -4,7 +4,7 @@ linktitle: set_Transform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::set_Transform method. Sets a Matrix object that specifies the geometrical transformations for the brush represented by the current object in C++.'
 type: docs
-weight: 1600
+weight: 2200
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_transform/
 ---
 ## PathGradientBrush::set_Transform method

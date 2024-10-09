@@ -4,7 +4,7 @@ linktitle: get_ContentEncoding
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::get_ContentEncoding method. Gets a value of the ''Content-Encoding'' header in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/system.web.services.protocols/soapmessage/get_contentencoding/
 ---
 ## SoapMessage::get_ContentEncoding method

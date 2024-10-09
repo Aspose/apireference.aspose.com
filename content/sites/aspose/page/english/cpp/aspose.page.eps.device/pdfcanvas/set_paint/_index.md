@@ -4,7 +4,7 @@ linktitle: set_Paint
 second_title: Aspose.Page for C++
 description: 'How to use set_Paint method of Aspose::Page::EPS::Device::PdfCanvas class in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.page.eps.device/pdfcanvas/set_paint/
 ---
 ## PdfCanvas::set_Paint method

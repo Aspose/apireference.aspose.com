@@ -4,7 +4,7 @@ linktitle: get_LingerState
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::get_LingerState method. Gets a value that indicates if the socket will delay closing in an attempt to send all pending data in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/system.net.sockets/tcpclient/get_lingerstate/
 ---
 ## TcpClient::get_LingerState method

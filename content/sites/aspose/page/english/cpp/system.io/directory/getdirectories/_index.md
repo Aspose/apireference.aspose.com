@@ -4,7 +4,7 @@ linktitle: GetDirectories
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::GetDirectories method. Searches for the directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory in C++.'
 type: docs
-weight: 600
+weight: 1000
 url: /cpp/system.io/directory/getdirectories/
 ---
 ## Directory::GetDirectories method

@@ -4,7 +4,7 @@ linktitle: map_t
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedList::map_t typedef. Underlying data type in C++.'
 type: docs
-weight: 1600
+weight: 2100
 url: /cpp/system.collections.generic/sortedlist/map_t/
 ---
 ## map_t typedef

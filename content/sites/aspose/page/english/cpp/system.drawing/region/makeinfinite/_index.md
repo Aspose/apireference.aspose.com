@@ -4,7 +4,7 @@ linktitle: MakeInfinite
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::MakeInfinite method. Initializes this region object to an infinite interior in C++.'
 type: docs
-weight: 1800
+weight: 1600
 url: /cpp/system.drawing/region/makeinfinite/
 ---
 ## Region::MakeInfinite method

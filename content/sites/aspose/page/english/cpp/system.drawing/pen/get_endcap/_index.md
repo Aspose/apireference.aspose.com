@@ -4,7 +4,7 @@ linktitle: get_EndCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_EndCap method. Returns a value that indicates the ending line cap of the current Pen object in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/system.drawing/pen/get_endcap/
 ---
 ## Pen::get_EndCap method

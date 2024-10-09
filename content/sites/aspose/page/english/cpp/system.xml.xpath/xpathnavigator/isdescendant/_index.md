@@ -4,7 +4,7 @@ linktitle: IsDescendant
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::IsDescendant method. Determines whether the specified XPathNavigator is a descendant of the current XPathNavigator in C++.'
 type: docs
-weight: 5700
+weight: 4500
 url: /cpp/system.xml.xpath/xpathnavigator/isdescendant/
 ---
 ## XPathNavigator::IsDescendant method

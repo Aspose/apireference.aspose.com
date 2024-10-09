@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Collections::IList::Clear method. Removes all items from the list in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.collections/ilist/clear/
 ---
 ## IList::Clear method

@@ -4,7 +4,7 @@ linktitle: GradientBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::GradientBrush class. This class is used for encapsulating LinearGradientBrush and PathGradientBrush with possibility to set wrap mode to clamp. Native gradient brushes always throw an exception when someone tries to set WrapMode property to WrapMode.Clamp in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.page.eps/gradientbrush/
 ---
 ## GradientBrush class

@@ -4,7 +4,7 @@ linktitle: SelectSingleNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::SelectSingleNode method. Selects the first XmlNode that matches the XPath expression in C++.'
 type: docs
-weight: 2800
+weight: 3900
 url: /cpp/system.xml/xmlnode/selectsinglenode/
 ---
 ## XmlNode::SelectSingleNode(const String\&) method

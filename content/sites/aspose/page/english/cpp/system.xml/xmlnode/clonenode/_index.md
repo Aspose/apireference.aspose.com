@@ -4,7 +4,7 @@ linktitle: CloneNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::CloneNode method. Creates a duplicate of the node, when overridden in a derived class in C++.'
 type: docs
-weight: 3600
+weight: 300
 url: /cpp/system.xml/xmlnode/clonenode/
 ---
 ## XmlNode::CloneNode method

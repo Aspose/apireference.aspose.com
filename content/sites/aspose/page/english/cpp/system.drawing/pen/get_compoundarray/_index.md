@@ -4,7 +4,7 @@ linktitle: get_CompoundArray
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_CompoundArray method. Returns an array of values that specifies a compound pen in C++.'
 type: docs
-weight: 2200
+weight: 700
 url: /cpp/system.drawing/pen/get_compoundarray/
 ---
 ## Pen::get_CompoundArray method

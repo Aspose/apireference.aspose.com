@@ -2,33 +2,31 @@
 title: System::Char::IsHighSurrogate method
 linktitle: IsHighSurrogate
 second_title: Aspose.Page for C++
-description: 'System::Char::IsHighSurrogate method. Determines whether the character at the specified index in the specified string is UTF-16 high surrogate code unit in C++.'
+description: 'System::Char::IsHighSurrogate method. Determines whether the specified character is a high surrogate in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system/char/ishighsurrogate/
 ---
-## Char::IsHighSurrogate(const String\&, int) method
+## Char::IsHighSurrogate(char_t) method
 
 
-Determines whether the character at the specified index in the specified string is UTF-16 high surrogate code unit.
+Determines whether the specified character is a high surrogate.
 
 ```cpp
-static bool System::Char::IsHighSurrogate(const String &s, int index)
+static bool System::Char::IsHighSurrogate(char_t c)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| s | const String\& | A string |
-| index | int | The index in the specified string of the character to test |
+| c | char_t | The character to test |
 
 ### ReturnValue
 
-True if the character at the specified index is a UTF-16 high surrogate code unit, otherwise - false
+True if the specified character is a high surrogate, otherwise - false
 
 ## See Also
 
-* Class [String](../../string/)
 * Class [Char](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -56,26 +54,28 @@ True if the character at the specified index is a high surrogate, otherwise - fa
 * Class [Char](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Char::IsHighSurrogate(char_t) method
+## Char::IsHighSurrogate(const String\&, int) method
 
 
-Determines whether the specified character is a high surrogate.
+Determines whether the character at the specified index in the specified string is UTF-16 high surrogate code unit.
 
 ```cpp
-static bool System::Char::IsHighSurrogate(char_t c)
+static bool System::Char::IsHighSurrogate(const String &s, int index)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | char_t | The character to test |
+| s | const String\& | A string |
+| index | int | The index in the specified string of the character to test |
 
 ### ReturnValue
 
-True if the specified character is a high surrogate, otherwise - false
+True if the character at the specified index is a UTF-16 high surrogate code unit, otherwise - false
 
 ## See Also
 
+* Class [String](../../string/)
 * Class [Char](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

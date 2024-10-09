@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::_KeyCollection::GetEnumerator method. Gets enumerator iterating through keys in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.collections.generic/_keycollection/getenumerator/
 ---
 ## _KeyCollection::GetEnumerator method

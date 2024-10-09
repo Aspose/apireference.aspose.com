@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Net::WebHeaderCollection::idx_get method. Gets the header value using the specified request''s header in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.net/webheadercollection/idx_get/
 ---
 ## WebHeaderCollection::idx_get(HttpRequestHeader) method

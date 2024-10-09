@@ -4,7 +4,7 @@ linktitle: ScaleTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::ScaleTransform method. Applies the specified scale vector to the world transformation matrix of the current object in C++.'
 type: docs
-weight: 6500
+weight: 7300
 url: /cpp/system.drawing/graphics/scaletransform/
 ---
 ## Graphics::ScaleTransform method

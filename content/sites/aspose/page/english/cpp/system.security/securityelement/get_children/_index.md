@@ -4,7 +4,7 @@ linktitle: get_Children
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::get_Children method. Gets tag child objects in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.security/securityelement/get_children/
 ---
 ## SecurityElement::get_Children method

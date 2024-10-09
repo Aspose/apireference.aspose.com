@@ -4,7 +4,7 @@ linktitle: set_Type
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::PropertyItem::set_Type method. Sets the type of the property represented by the current object in bytes in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.drawing.imaging/propertyitem/set_type/
 ---
 ## PropertyItem::set_Type method

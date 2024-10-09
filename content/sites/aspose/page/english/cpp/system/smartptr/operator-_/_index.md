@@ -4,7 +4,7 @@ linktitle: operator->
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::operator-> method. Allows to access members of referenced object in C++.'
 type: docs
-weight: 400
+weight: 2600
 url: /cpp/system/smartptr/operator-_/
 ---
 ## SmartPtr::operator-> method

@@ -4,7 +4,7 @@ linktitle: get_Sienna
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Sienna method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFA0522D in C++.'
 type: docs
-weight: 12300
+weight: 12200
 url: /cpp/system.drawing/pens/get_sienna/
 ---
 ## Pens::get_Sienna method

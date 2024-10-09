@@ -4,7 +4,7 @@ linktitle: SignData
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSA::SignData method. Computes the hash value of the specified data array using the specified hash algorithm, and signs the result in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.security.cryptography/dsa/signdata/
 ---
 ## DSA::SignData(const ByteArrayPtr\&, const HashAlgorithmName\&) method

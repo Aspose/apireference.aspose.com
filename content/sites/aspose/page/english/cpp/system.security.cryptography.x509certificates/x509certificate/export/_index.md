@@ -4,7 +4,7 @@ linktitle: Export
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::Export method. Exports the current object to a byte array using the specified format. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2300
+weight: 400
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/export/
 ---
 ## X509Certificate::Export(X509ContentType) const method

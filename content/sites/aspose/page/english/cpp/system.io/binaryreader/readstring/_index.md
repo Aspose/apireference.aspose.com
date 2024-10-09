@@ -4,7 +4,7 @@ linktitle: ReadString
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadString method. Reads a string from the current stream. The string is prefixed with the length, encoded as an integer seven bits at a time in C++.'
 type: docs
-weight: 1700
+weight: 2000
 url: /cpp/system.io/binaryreader/readstring/
 ---
 ## BinaryReader::ReadString method

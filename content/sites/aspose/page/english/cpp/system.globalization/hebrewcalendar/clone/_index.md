@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HebrewCalendar::Clone method. RTTI information in C++.'
 type: docs
-weight: 1700
+weight: 200
 url: /cpp/system.globalization/hebrewcalendar/clone/
 ---
 ## HebrewCalendar::Clone method

@@ -21,27 +21,6 @@ System::Drawing::StringFormat::StringFormat()
 * Class [StringFormat](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## StringFormat::StringFormat(StringFormatFlags, int32_t) constructor
-
-
-Constructs a new instance of [StringFormat](../) class with the specified format flags and language.
-
-```cpp
-System::Drawing::StringFormat::StringFormat(StringFormatFlags options, int32_t language=0)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| options | StringFormatFlags | A bitwise combination of StringFormatFlags enum value that specify the string format to be represented by the object being created |
-| language | int32_t | A language of the text |
-
-## See Also
-
-* Enum [StringFormatFlags](../../stringformatflags/)
-* Class [StringFormat](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## StringFormat::StringFormat(const SharedPtr\<StringFormat\>\&) constructor
 
 
@@ -60,6 +39,27 @@ System::Drawing::StringFormat::StringFormat(const SharedPtr<StringFormat> &forma
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StringFormat](../)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## StringFormat::StringFormat(StringFormatFlags, int32_t) constructor
+
+
+Constructs a new instance of [StringFormat](../) class with the specified format flags and language.
+
+```cpp
+System::Drawing::StringFormat::StringFormat(StringFormatFlags options, int32_t language=0)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | StringFormatFlags | A bitwise combination of StringFormatFlags enum value that specify the string format to be represented by the object being created |
+| language | int32_t | A language of the text |
+
+## See Also
+
+* Enum [StringFormatFlags](../../stringformatflags/)
 * Class [StringFormat](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

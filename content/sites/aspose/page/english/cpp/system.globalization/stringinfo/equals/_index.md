@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'How to use Equals method of System::Globalization::StringInfo class in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.globalization/stringinfo/equals/
 ---
 ## StringInfo::Equals method

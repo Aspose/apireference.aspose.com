@@ -4,7 +4,7 @@ linktitle: CustomMediaSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::CustomMediaSize field. Specifies a custom media size. Must be validated against DeviceMediaSize in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/custommediasize/
 ---
 ## CustomMediaSize field

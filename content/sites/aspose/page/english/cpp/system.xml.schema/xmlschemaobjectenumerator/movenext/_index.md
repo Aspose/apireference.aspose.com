@@ -4,7 +4,7 @@ linktitle: MoveNext
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectEnumerator::MoveNext method. Moves to the next item in the collection in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaobjectenumerator/movenext/
 ---
 ## XmlSchemaObjectEnumerator::MoveNext method

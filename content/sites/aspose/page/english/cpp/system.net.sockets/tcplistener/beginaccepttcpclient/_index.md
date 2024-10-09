@@ -4,7 +4,7 @@ linktitle: BeginAcceptTcpClient
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::BeginAcceptTcpClient method. Initiates an asynchronous accept operation in C++.'
 type: docs
-weight: 1400
+weight: 600
 url: /cpp/system.net.sockets/tcplistener/beginaccepttcpclient/
 ---
 ## TcpListener::BeginAcceptTcpClient method

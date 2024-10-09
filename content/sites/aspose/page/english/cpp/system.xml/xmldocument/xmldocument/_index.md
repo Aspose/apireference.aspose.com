@@ -4,7 +4,7 @@ linktitle: XmlDocument
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::XmlDocument constructor. Initializes a new instance of the XmlDocument class in C++.'
 type: docs
-weight: 2000
+weight: 100
 url: /cpp/system.xml/xmldocument/xmldocument/
 ---
 ## XmlDocument::XmlDocument() constructor

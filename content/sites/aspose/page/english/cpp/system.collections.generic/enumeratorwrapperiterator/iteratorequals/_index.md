@@ -4,7 +4,7 @@ linktitle: IteratorEquals
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::EnumeratorWrapperIterator::IteratorEquals method. Checks if two iterators point to the same item in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.generic/enumeratorwrapperiterator/iteratorequals/
 ---
 ## EnumeratorWrapperIterator::IteratorEquals method

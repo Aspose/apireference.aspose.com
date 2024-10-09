@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingTotalInkCoverageLimit::PageBlackGenerationProcessingTotalInkCoverageLimit constructor. Creates a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit::PageBlackGenerationProcessingTotalInkCoverageLimit constructor

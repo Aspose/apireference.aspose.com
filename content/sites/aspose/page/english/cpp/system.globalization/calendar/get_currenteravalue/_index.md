@@ -4,7 +4,7 @@ linktitle: get_CurrentEraValue
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::get_CurrentEraValue method. Gets value of current era in C++.'
 type: docs
-weight: 3700
+weight: 1200
 url: /cpp/system.globalization/calendar/get_currenteravalue/
 ---
 ## Calendar::get_CurrentEraValue method

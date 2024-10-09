@@ -4,36 +4,9 @@ linktitle: FillPie
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FillPie method. Fills the specified pie using the specified brush on the surface represented by the current object in C++.'
 type: docs
-weight: 2200
+weight: 3500
 url: /cpp/system.drawing/graphics/fillpie/
 ---
-## Graphics::FillPie(const SharedPtr\<Brush\>\&, int, int, int, int, int, int) method
-
-
-Fills the specified pie using the specified brush on the surface represented by the current object.
-
-```cpp
-void System::Drawing::Graphics::FillPie(const SharedPtr<Brush> &brush, int x, int y, int width, int height, int startAngle, int sweepAngle)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| brush | const SharedPtr\<Brush\>\& | A brush to use when filling the pie |
-| x | int | The X coordinate of the upper left corner of the rectangle that defines the ellipse |
-| y | int | The Y coordinate of the upper left corner of the rectangle that defines the ellipse |
-| width | int | The width of the rectangle that defines the ellipse |
-| height | int | The height of the rectangle that defines the ellipse |
-| startAngle | int | Angle in degrees measured clockwise from the X axis to the starting point of the pie |
-| sweepAngle | int | Angle in degrees measured clockwise from the **startAngle** to ending point of the pie |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../brush/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Graphics::FillPie(const SharedPtr\<Brush\>\&, float, float, float, float, float, float) method
 
 
@@ -53,6 +26,33 @@ void System::Drawing::Graphics::FillPie(const SharedPtr<Brush> &brush, float x, 
 | height | float | The height of the rectangle that defines the ellipse |
 | startAngle | float | Angle in degrees measured clockwise from the X axis to the starting point of the pie |
 | sweepAngle | float | Angle in degrees measured clockwise from the **startAngle** to ending point of the pie |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Graphics::FillPie(const SharedPtr\<Brush\>\&, int, int, int, int, int, int) method
+
+
+Fills the specified pie using the specified brush on the surface represented by the current object.
+
+```cpp
+void System::Drawing::Graphics::FillPie(const SharedPtr<Brush> &brush, int x, int y, int width, int height, int startAngle, int sweepAngle)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brush | const SharedPtr\<Brush\>\& | A brush to use when filling the pie |
+| x | int | The X coordinate of the upper left corner of the rectangle that defines the ellipse |
+| y | int | The Y coordinate of the upper left corner of the rectangle that defines the ellipse |
+| width | int | The width of the rectangle that defines the ellipse |
+| height | int | The height of the rectangle that defines the ellipse |
+| startAngle | int | Angle in degrees measured clockwise from the X axis to the starting point of the pie |
+| sweepAngle | int | Angle in degrees measured clockwise from the **startAngle** to ending point of the pie |
 
 ## See Also
 

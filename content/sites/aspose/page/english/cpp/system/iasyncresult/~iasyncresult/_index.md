@@ -4,7 +4,7 @@ linktitle: ~IAsyncResult
 second_title: Aspose.Page for C++
 description: 'System::IAsyncResult::~IAsyncResult method. Destructor in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system/iasyncresult/~iasyncresult/
 ---
 ## IAsyncResult::~IAsyncResult method

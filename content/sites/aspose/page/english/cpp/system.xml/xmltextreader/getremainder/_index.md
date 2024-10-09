@@ -4,7 +4,7 @@ linktitle: GetRemainder
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::GetRemainder method. Returns the remainder of the buffered XML in C++.'
 type: docs
-weight: 5800
+weight: 3500
 url: /cpp/system.xml/xmltextreader/getremainder/
 ---
 ## XmlTextReader::GetRemainder method

@@ -4,7 +4,7 @@ linktitle: get_ContentLocation
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::get_ContentLocation method. Gets a value of the ''Content-Location'' header in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentlocation/
 ---
 ## HttpContentHeaders::get_ContentLocation method

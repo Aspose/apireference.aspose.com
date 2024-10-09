@@ -4,7 +4,7 @@ linktitle: GrowUpPositions
 second_title: Aspose.Page for C++
 description: 'How to use GrowUpPositions method of Aspose::Page::EPS::BinaryHeader class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.eps/binaryheader/growuppositions/
 ---
 ## BinaryHeader::GrowUpPositions method

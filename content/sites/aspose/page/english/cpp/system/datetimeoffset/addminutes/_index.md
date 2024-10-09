@@ -4,7 +4,7 @@ linktitle: AddMinutes
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddMinutes method. Adds a specified number of minutes to the DateTimeOffset object in C++.'
 type: docs
-weight: 2400
+weight: 600
 url: /cpp/system/datetimeoffset/addminutes/
 ---
 ## DateTimeOffset::AddMinutes method

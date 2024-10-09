@@ -4,7 +4,7 @@ linktitle: BottomLeft
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::NUp::PresentationDirection::PresentationDirectionOption::BottomLeft field. Specifies top to bottom, right to left in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/nup/presentationdirection/presentationdirectionoption/bottomleft/
 ---
 ## BottomLeft field

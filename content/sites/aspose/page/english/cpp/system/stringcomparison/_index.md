@@ -4,7 +4,7 @@ linktitle: StringComparison
 second_title: Aspose.Page for C++
 description: 'System::StringComparison enum. Defines string comparison style in C++.'
 type: docs
-weight: 8200
+weight: 8100
 url: /cpp/system/stringcomparison/
 ---
 ## StringComparison enum

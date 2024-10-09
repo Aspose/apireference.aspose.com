@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::Close method. Changes the XmlNodeReader::get_ReadState to ReadState::Closed in C++.'
 type: docs
-weight: 2900
+weight: 200
 url: /cpp/system.xml/xmlnodereader/close/
 ---
 ## XmlNodeReader::Close method

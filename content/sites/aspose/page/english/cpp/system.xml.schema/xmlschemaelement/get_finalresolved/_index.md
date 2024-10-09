@@ -4,7 +4,7 @@ linktitle: get_FinalResolved
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::get_FinalResolved method. Returns the post-compilation interpretation of the Final value in C++.'
 type: docs
-weight: 3000
+weight: 900
 url: /cpp/system.xml.schema/xmlschemaelement/get_finalresolved/
 ---
 ## XmlSchemaElement::get_FinalResolved method

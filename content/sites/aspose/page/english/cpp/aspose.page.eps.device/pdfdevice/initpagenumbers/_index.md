@@ -4,7 +4,7 @@ linktitle: InitPageNumbers
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::InitPageNumbers method. Initializes numbers of pages to output in C++.'
 type: docs
-weight: 3600
+weight: 4000
 url: /cpp/aspose.page.eps.device/pdfdevice/initpagenumbers/
 ---
 ## PdfDevice::InitPageNumbers method

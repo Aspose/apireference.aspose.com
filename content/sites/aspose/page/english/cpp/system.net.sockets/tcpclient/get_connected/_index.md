@@ -4,7 +4,7 @@ linktitle: get_Connected
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::get_Connected method. Returns a value that indicates if the socket is connected to the remote host in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.net.sockets/tcpclient/get_connected/
 ---
 ## TcpClient::get_Connected method

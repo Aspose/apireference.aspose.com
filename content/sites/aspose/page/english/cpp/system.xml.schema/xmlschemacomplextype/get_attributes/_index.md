@@ -4,7 +4,7 @@ linktitle: get_Attributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::get_Attributes method. Returns the collection of attributes for the complex type in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_attributes/
 ---
 ## XmlSchemaComplexType::get_Attributes method

@@ -4,7 +4,7 @@ linktitle: SocketOptionName
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::SocketOptionName enum. Defines socket option names for the Socket class in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/system.net.sockets/socketoptionname/
 ---
 ## SocketOptionName enum

@@ -4,7 +4,7 @@ linktitle: set_Uri
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::set_Uri method. Sets the XML Web service URI in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/system.web.services.protocols/webclientprotocol/set_uri/
 ---
 ## WebClientProtocol::set_Uri method

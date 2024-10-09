@@ -4,7 +4,7 @@ linktitle: ExtractText
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::ExtractText method. Extract text from PS file. The text can be extracted only if it is written with Type 42 (TrueType) font or Type 0 font with Type 42 fonts in its Vector Map in C++.'
 type: docs
-weight: 900
+weight: 2100
 url: /cpp/aspose.page.eps/psdocument/extracttext/
 ---
 ## PsDocument::ExtractText method

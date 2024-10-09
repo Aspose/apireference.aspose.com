@@ -2,27 +2,36 @@
 title: System::Nullable::operator!= method
 linktitle: operator!=
 second_title: Aspose.Page for C++
-description: 'System::Nullable::operator!= method. Determines if the value represented by the current object is not null in C++.'
+description: 'System::Nullable::operator!= method. Determines if the value represented by the current object is not equal to the value represented by the specified Nullable object in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system/nullable/operator!=/
 ---
-## Nullable::operator!=(std::nullptr_t) const method
+## Nullable::operator!=(const Nullable\<T1\>\&) const method
 
 
-Determines if the value represented by the current object is not null.
+Determines if the value represented by the current object is not equal to the value represented by the specified [Nullable](../) object.
 
 ```cpp
-bool System::Nullable<T>::operator!=(std::nullptr_t) const
+template<typename T1> bool System::Nullable<T>::operator!=(const Nullable<T1> &other) const
 ```
 
 
+| Parameter | Description |
+| --- | --- |
+| T1 | The underlying type of the [Nullable](../) object to compare with |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | const Nullable\<T1\>\& | A constant reference to the [Nullable](../) object to compare with |
+
 ### ReturnValue
 
-True if the value represented by the current object is not null, otherwise - false
+True if the value represented by the current object is not equal to the value represented by the specified [Nullable](../) object, otherwise - false
 
 ## See Also
 
+* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -53,31 +62,22 @@ True if the value represented by the current object is not equal to the specifie
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::operator!=(const Nullable\<T1\>\&) const method
+## Nullable::operator!=(std::nullptr_t) const method
 
 
-Determines if the value represented by the current object is not equal to the value represented by the specified [Nullable](../) object.
+Determines if the value represented by the current object is not null.
 
 ```cpp
-template<typename T1> bool System::Nullable<T>::operator!=(const Nullable<T1> &other) const
+bool System::Nullable<T>::operator!=(std::nullptr_t) const
 ```
 
 
-| Parameter | Description |
-| --- | --- |
-| T1 | The underlying type of the [Nullable](../) object to compare with |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | const Nullable\<T1\>\& | A constant reference to the [Nullable](../) object to compare with |
-
 ### ReturnValue
 
-True if the value represented by the current object is not equal to the value represented by the specified [Nullable](../) object, otherwise - false
+True if the value represented by the current object is not null, otherwise - false
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

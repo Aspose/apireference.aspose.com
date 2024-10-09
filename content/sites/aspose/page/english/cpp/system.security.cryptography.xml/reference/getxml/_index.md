@@ -4,7 +4,7 @@ linktitle: GetXml
 second_title: Aspose.Page for C++
 description: 'How to use GetXml method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 1400
+weight: 900
 url: /cpp/system.security.cryptography.xml/reference/getxml/
 ---
 ## Reference::GetXml method

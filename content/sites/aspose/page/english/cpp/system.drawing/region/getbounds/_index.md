@@ -4,7 +4,7 @@ linktitle: GetBounds
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::GetBounds method. Gets a RectangleF structure that represents a rectangle that bounds this Region on the drawing surface of a Graphics object in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.drawing/region/getbounds/
 ---
 ## Region::GetBounds method

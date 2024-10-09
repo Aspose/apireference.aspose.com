@@ -4,7 +4,7 @@ linktitle: DownloadFile
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Ftp::DownloadFile field. The string representation of the ''RETR'' method of FTP in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net/webrequestmethods/ftp/downloadfile/
 ---
 ## DownloadFile field

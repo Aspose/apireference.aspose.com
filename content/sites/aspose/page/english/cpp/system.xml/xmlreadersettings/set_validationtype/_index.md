@@ -4,7 +4,7 @@ linktitle: set_ValidationType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_ValidationType method. Sets a value indicating whether the XmlReader will perform validation or type assignment when reading in C++.'
 type: docs
-weight: 2900
+weight: 3600
 url: /cpp/system.xml/xmlreadersettings/set_validationtype/
 ---
 ## XmlReaderSettings::set_ValidationType method

@@ -4,7 +4,7 @@ linktitle: set_BaseTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_BaseTypeName method. Sets the name of the built-in data type or simple type from which this type is derived in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/set_basetypename/
 ---
 ## XmlSchemaSimpleContentRestriction::set_BaseTypeName method

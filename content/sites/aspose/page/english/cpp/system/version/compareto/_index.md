@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Page for C++
 description: 'System::Version::CompareTo method. Compares the versions represented by the current object and the specified object in C++.'
 type: docs
-weight: 800
+weight: 200
 url: /cpp/system/version/compareto/
 ---
 ## Version::CompareTo method

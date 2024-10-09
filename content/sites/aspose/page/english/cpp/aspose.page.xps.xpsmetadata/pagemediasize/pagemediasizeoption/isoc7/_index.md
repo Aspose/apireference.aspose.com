@@ -4,7 +4,7 @@ linktitle: ISOC7
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOC7 field. ISOC7 in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoc7/
 ---
 ## ISOC7 field

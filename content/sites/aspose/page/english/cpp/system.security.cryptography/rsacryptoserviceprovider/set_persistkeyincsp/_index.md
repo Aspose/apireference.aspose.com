@@ -4,7 +4,7 @@ linktitle: set_PersistKeyInCsp
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::RSACryptoServiceProvider::set_PersistKeyInCsp method. Defines whether key is persisted in CSP object in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/set_persistkeyincsp/
 ---
 ## RSACryptoServiceProvider::set_PersistKeyInCsp method

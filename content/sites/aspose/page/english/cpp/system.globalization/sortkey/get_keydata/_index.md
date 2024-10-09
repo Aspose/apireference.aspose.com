@@ -4,7 +4,7 @@ linktitle: get_KeyData
 second_title: Aspose.Page for C++
 description: 'System::Globalization::SortKey::get_KeyData method. Gets byte array representing current object in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.globalization/sortkey/get_keydata/
 ---
 ## SortKey::get_KeyData method

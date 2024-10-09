@@ -4,7 +4,7 @@ linktitle: TransformBlock
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::HashAlgorithm::TransformBlock method. Processes block of data and copies data to output array in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.security.cryptography/hashalgorithm/transformblock/
 ---
 ## HashAlgorithm::TransformBlock method

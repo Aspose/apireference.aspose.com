@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::Contains method. Checks if item is present in collection in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.collections.specialized/namevaluecollection/contains/
 ---
 ## NameValueCollection::Contains method

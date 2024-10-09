@@ -4,7 +4,7 @@ linktitle: IsLeapMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::IsLeapMonth method. Checks if the month is leap in C++.'
 type: docs
-weight: 3100
+weight: 3500
 url: /cpp/system.globalization/calendar/isleapmonth/
 ---
 ## Calendar::IsLeapMonth(int, int) const method

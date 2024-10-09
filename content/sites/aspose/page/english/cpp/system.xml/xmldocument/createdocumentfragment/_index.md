@@ -4,7 +4,7 @@ linktitle: CreateDocumentFragment
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateDocumentFragment method. Creates an XmlDocumentFragment in C++.'
 type: docs
-weight: 2600
+weight: 600
 url: /cpp/system.xml/xmldocument/createdocumentfragment/
 ---
 ## XmlDocument::CreateDocumentFragment method

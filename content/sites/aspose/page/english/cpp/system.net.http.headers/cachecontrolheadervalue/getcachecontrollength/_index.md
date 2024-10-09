@@ -4,7 +4,7 @@ linktitle: GetCacheControlLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::GetCacheControlLength method. Converts a passed string from the specified index to an instance of the CacheControlHeaderValue class in C++.'
 type: docs
-weight: 3600
+weight: 3400
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/getcachecontrollength/
 ---
 ## CacheControlHeaderValue::GetCacheControlLength method

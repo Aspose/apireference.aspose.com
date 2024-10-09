@@ -4,7 +4,7 @@ linktitle: reverse_iterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::reverse_iterator typedef. Reverse iterator type in C++.'
 type: docs
-weight: 5700
+weight: 5800
 url: /cpp/system.collections.generic/list/reverse_iterator/
 ---
 ## reverse_iterator typedef

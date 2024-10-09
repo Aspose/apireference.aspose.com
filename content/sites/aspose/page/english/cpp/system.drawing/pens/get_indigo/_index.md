@@ -4,7 +4,7 @@ linktitle: get_Indigo
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Indigo method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF4B0082 in C++.'
 type: docs
-weight: 5800
+weight: 5700
 url: /cpp/system.drawing/pens/get_indigo/
 ---
 ## Pens::get_Indigo method

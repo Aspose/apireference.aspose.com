@@ -4,7 +4,7 @@ linktitle: get_IsMailNewsDisplay
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_IsMailNewsDisplay method. Checks whether encoding can be used in mail client to display content in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system.text/encoding/get_ismailnewsdisplay/
 ---
 ## Encoding::get_IsMailNewsDisplay method

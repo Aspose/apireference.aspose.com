@@ -4,7 +4,7 @@ linktitle: get_FocusScales
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::get_FocusScales method. Gets the focus point for the gradient falloff in C++.'
 type: docs
-weight: 2300
+weight: 600
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_focusscales/
 ---
 ## PathGradientBrush::get_FocusScales method

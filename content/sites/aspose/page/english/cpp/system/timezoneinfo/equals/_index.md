@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'How to use Equals method of System::TimeZoneInfo class in C++.'
 type: docs
-weight: 2900
+weight: 1400
 url: /cpp/system/timezoneinfo/equals/
 ---
 ## TimeZoneInfo::Equals(SharedPtr\<Object\>) method

@@ -4,7 +4,7 @@ linktitle: ScaleTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::ScaleTransform method. Scales the local geometric transformation by the specified factors in the specified order in C++.'
 type: docs
-weight: 1100
+weight: 1500
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/scaletransform/
 ---
 ## PathGradientBrush::ScaleTransform method

@@ -4,7 +4,7 @@ linktitle: GetMilliseconds
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetMilliseconds method. Gets milliseconds for the specified time point in C++.'
 type: docs
-weight: 2300
+weight: 2700
 url: /cpp/system.globalization/calendar/getmilliseconds/
 ---
 ## Calendar::GetMilliseconds method

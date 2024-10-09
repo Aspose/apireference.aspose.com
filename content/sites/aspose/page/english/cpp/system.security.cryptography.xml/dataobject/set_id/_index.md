@@ -4,7 +4,7 @@ linktitle: set_Id
 second_title: Aspose.Page for C++
 description: 'How to use set_Id method of System::Security::Cryptography::Xml::DataObject class in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.security.cryptography.xml/dataobject/set_id/
 ---
 ## DataObject::set_Id method

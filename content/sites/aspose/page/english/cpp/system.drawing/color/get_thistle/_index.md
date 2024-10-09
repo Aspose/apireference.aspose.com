@@ -4,7 +4,7 @@ linktitle: get_Thistle
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Thistle method. Returns a color whose ARGB value in hexadecimal notation is #FFD8BFD8 in C++.'
 type: docs
-weight: 15400
+weight: 15300
 url: /cpp/system.drawing/color/get_thistle/
 ---
 ## Color::get_Thistle method

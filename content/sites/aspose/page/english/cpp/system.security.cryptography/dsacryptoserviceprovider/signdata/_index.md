@@ -31,32 +31,6 @@ ByteArrayPtr System::Security::Cryptography::DSACryptoServiceProvider::SignData(
 * Class [DSACryptoServiceProvider](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)
-## DSACryptoServiceProvider::SignData(const SharedPtr\<IO::Stream\>\&) method
-
-
-Computes the signature of specified input value.
-
-```cpp
-ByteArrayPtr System::Security::Cryptography::DSACryptoServiceProvider::SignData(const SharedPtr<IO::Stream> &input_stream)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input_stream | const SharedPtr\<IO::Stream\>\& | Stream to read data being signed from. |
-
-### ReturnValue
-
-[DSA](../../dsa/) signature for specified data.
-
-## See Also
-
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Page for C++](../../../)
 ## DSACryptoServiceProvider::SignData(const ByteArrayPtr\&, int32_t, int32_t) method
 
 
@@ -110,6 +84,32 @@ ByteArrayPtr System::Security::Cryptography::DSA::SignData(const ByteArrayPtr &d
 ## See Also
 
 * Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [DSACryptoServiceProvider](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)
+## DSACryptoServiceProvider::SignData(const SharedPtr\<IO::Stream\>\&) method
+
+
+Computes the signature of specified input value.
+
+```cpp
+ByteArrayPtr System::Security::Cryptography::DSACryptoServiceProvider::SignData(const SharedPtr<IO::Stream> &input_stream)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input_stream | const SharedPtr\<IO::Stream\>\& | Stream to read data being signed from. |
+
+### ReturnValue
+
+[DSA](../../dsa/) signature for specified data.
+
+## See Also
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [DSACryptoServiceProvider](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)

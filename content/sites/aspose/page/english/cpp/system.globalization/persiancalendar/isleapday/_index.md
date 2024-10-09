@@ -7,6 +7,31 @@ type: docs
 weight: 1200
 url: /cpp/system.globalization/persiancalendar/isleapday/
 ---
+## PersianCalendar::IsLeapDay(int, int, int) const method
+
+
+Checks if the day is leap.
+
+```cpp
+virtual bool System::Globalization::Calendar::IsLeapDay(int year, int month, int day) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year. |
+| month | int | Month. |
+| day | int | Day. |
+
+### ReturnValue
+
+True if specified date is leap, false otherwise.
+
+## See Also
+
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## PersianCalendar::IsLeapDay(int, int, int, int) const method
 
 
@@ -23,31 +48,6 @@ bool System::Globalization::PersianCalendar::IsLeapDay(int year, int month, int 
 | month | int | Month. |
 | day | int | Day. |
 | era | int | Era. |
-
-### ReturnValue
-
-True if specified date is leap, false otherwise.
-
-## See Also
-
-* Class [PersianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## PersianCalendar::IsLeapDay(int, int, int) const method
-
-
-Checks if the day is leap.
-
-```cpp
-virtual bool System::Globalization::Calendar::IsLeapDay(int year, int month, int day) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year. |
-| month | int | Month. |
-| day | int | Day. |
 
 ### ReturnValue
 

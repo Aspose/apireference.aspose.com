@@ -4,7 +4,7 @@ linktitle: Transform
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::Transform method. Applies the affine transformation represented by this Matrix to a specified rectangle in C++.'
 type: docs
-weight: 1000
+weight: 1800
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/transform/
 ---
 ## XpsMatrix::Transform method

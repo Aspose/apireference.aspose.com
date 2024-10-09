@@ -4,7 +4,7 @@ linktitle: connect
 second_title: Aspose.Page for C++
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::connect method. Adds the specified delegate to the collection in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/connect/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::connect(Callback) method
@@ -28,57 +28,6 @@ A reference to the self
 ## See Also
 
 * Typedef [Callback](../callback/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::connect(std::function\<R(Args...)>) method
-
-
-Adds the specified function object to the delegate collection. The function object is converted to the Callback delegate type before being added to the collection.
-
-```cpp
-template<class R,class...> MulticastDelegate & System::MulticastDelegate<ReturnType(ArgumentTypes...)>::connect(std::function<R(Args...)> f)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| R | The return type of the function object to add to the collection |
-| Args | The argument list of the function object to add to the collection |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| f | std::function\<R(Args...)> | The function object to add to the collection |
-
-### ReturnValue
-
-A reference to the self
-
-## See Also
-
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::connect(MulticastDelegate\&) method
-
-
-Adds the specified MulticastDelegate object to the delegate collection.
-
-```cpp
-MulticastDelegate & System::MulticastDelegate<ReturnType(ArgumentTypes...)>::connect(MulticastDelegate &other)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | MulticastDelegate\& | An instance of the MulticastDelegate class to add to the delegate collection |
-
-### ReturnValue
-
-A reference to the self
-
-## See Also
-
 * Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -138,6 +87,57 @@ A reference to the self
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::connect(MulticastDelegate\&) method
+
+
+Adds the specified MulticastDelegate object to the delegate collection.
+
+```cpp
+MulticastDelegate & System::MulticastDelegate<ReturnType(ArgumentTypes...)>::connect(MulticastDelegate &other)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | MulticastDelegate\& | An instance of the MulticastDelegate class to add to the delegate collection |
+
+### ReturnValue
+
+A reference to the self
+
+## See Also
+
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::connect(std::function\<R(Args...)>) method
+
+
+Adds the specified function object to the delegate collection. The function object is converted to the Callback delegate type before being added to the collection.
+
+```cpp
+template<class R,class...> MulticastDelegate & System::MulticastDelegate<ReturnType(ArgumentTypes...)>::connect(std::function<R(Args...)> f)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| R | The return type of the function object to add to the collection |
+| Args | The argument list of the function object to add to the collection |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| f | std::function\<R(Args...)> | The function object to add to the collection |
+
+### ReturnValue
+
+A reference to the self
+
+## See Also
+
 * Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection::get_Count method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/system.net.http.headers/httpheadervaluecollection/get_count/
 ---
 ## HttpHeaderValueCollection::get_Count method

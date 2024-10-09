@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::Equals method. Tests whether the specified object is a T:Aspose::Page::Drawing::Color structure and is equivalent to this T:Aspose::Page::Drawing::Color structure in C++.'
 type: docs
-weight: 15600
+weight: 14600
 url: /cpp/aspose.page.drawing/color/equals/
 ---
 ## Color::Equals method

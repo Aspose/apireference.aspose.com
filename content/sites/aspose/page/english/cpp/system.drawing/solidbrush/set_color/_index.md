@@ -4,7 +4,7 @@ linktitle: set_Color
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SolidBrush::set_Color method. Sets the color of this brush in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.drawing/solidbrush/set_color/
 ---
 ## SolidBrush::set_Color method

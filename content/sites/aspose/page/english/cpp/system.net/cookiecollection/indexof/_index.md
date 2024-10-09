@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::IndexOf method. Returns an index of the specified cookie in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.net/cookiecollection/indexof/
 ---
 ## CookieCollection::IndexOf method

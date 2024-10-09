@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator= method. Assigns the value represented by the specified object to the current object in C++.'
 type: docs
-weight: 300
+weight: 2500
 url: /cpp/system/decimal/operator=/
 ---
 ## Decimal::operator= method

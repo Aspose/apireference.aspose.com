@@ -4,7 +4,7 @@ linktitle: DocumentStructure
 second_title: Aspose.Page for C++
 description: 'How to use DocumentStructure field of Aspose::Page::XPS::XpsNamespaces class in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.page.xps/xpsnamespaces/documentstructure/
 ---
 ## DocumentStructure field

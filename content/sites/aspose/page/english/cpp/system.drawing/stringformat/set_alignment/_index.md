@@ -4,7 +4,7 @@ linktitle: set_Alignment
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::set_Alignment method. Sets horizontal alignment of the string in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.drawing/stringformat/set_alignment/
 ---
 ## StringFormat::set_Alignment method

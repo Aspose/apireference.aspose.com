@@ -4,7 +4,7 @@ linktitle: ViaHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ViaHeaderValue::ViaHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.net.http.headers/viaheadervalue/viaheadervalue/
 ---
 ## ViaHeaderValue::ViaHeaderValue(String, String) constructor

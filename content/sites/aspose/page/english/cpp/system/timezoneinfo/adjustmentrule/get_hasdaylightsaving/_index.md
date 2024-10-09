@@ -4,7 +4,7 @@ linktitle: get_HasDaylightSaving
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::AdjustmentRule::get_HasDaylightSaving method. FOR INTERNAL USE in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system/timezoneinfo/adjustmentrule/get_hasdaylightsaving/
 ---
 ## AdjustmentRule::get_HasDaylightSaving method

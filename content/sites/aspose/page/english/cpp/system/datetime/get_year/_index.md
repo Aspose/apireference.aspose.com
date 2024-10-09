@@ -4,7 +4,7 @@ linktitle: get_Year
 second_title: Aspose.Page for C++
 description: 'System::DateTime::get_Year method. Returns the year represented by the current object in C++.'
 type: docs
-weight: 800
+weight: 2500
 url: /cpp/system/datetime/get_year/
 ---
 ## DateTime::get_Year method

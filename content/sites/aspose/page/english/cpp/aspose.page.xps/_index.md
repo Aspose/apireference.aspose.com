@@ -31,5 +31,5 @@ url: /cpp/aspose.page.xps/
 
 | Enum | Description |
 | --- | --- |
-| [ImageMode](./imagemode/) | Lists the options of fitting image within a box. |
 | [DocumentOrigin](./documentorigin/) |  |
+| [ImageMode](./imagemode/) | Lists the options of fitting image within a box. |

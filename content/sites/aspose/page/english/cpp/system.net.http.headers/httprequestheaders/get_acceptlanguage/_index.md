@@ -4,7 +4,7 @@ linktitle: get_AcceptLanguage
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_AcceptLanguage method. Returns a value of the ''Accept-Language'' header in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.net.http.headers/httprequestheaders/get_acceptlanguage/
 ---
 ## HttpRequestHeaders::get_AcceptLanguage method

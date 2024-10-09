@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::Remove method. Removes an element from the page in C++.'
 type: docs
-weight: 1000
+weight: 3200
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/remove/
 ---
 ## PageAPI::Remove method

@@ -4,7 +4,7 @@ linktitle: set_PixelOffsetMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::set_PixelOffsetMode method. Sets a value that specifies how the pixels should be offset during rendering on the surface represented by the current object in C++.'
 type: docs
-weight: 1100
+weight: 8000
 url: /cpp/system.drawing/graphics/set_pixeloffsetmode/
 ---
 ## Graphics::set_PixelOffsetMode method

@@ -4,7 +4,7 @@ linktitle: ImageMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::ImageMode enum. Lists the options of fitting image within a box in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.page.xps/imagemode/
 ---
 ## ImageMode enum

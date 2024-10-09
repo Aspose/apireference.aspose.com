@@ -4,7 +4,7 @@ linktitle: get_Azure
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Azure method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFF0FFFF in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.drawing/pens/get_azure/
 ---
 ## Pens::get_Azure method

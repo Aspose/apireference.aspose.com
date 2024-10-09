@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbDataReader::Close method. Closes data retrieval channel in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.data.common/dbdatareader/close/
 ---
 ## DbDataReader::Close method

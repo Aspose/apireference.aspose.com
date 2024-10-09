@@ -4,7 +4,7 @@ linktitle: get_RedirectStandardInput
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::ProcessStartInfo::get_RedirectStandardInput method. Gets RedirectStandardInput property in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.diagnostics/processstartinfo/get_redirectstandardinput/
 ---
 ## ProcessStartInfo::get_RedirectStandardInput method

@@ -4,7 +4,7 @@ linktitle: Round
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::Round method. Constructs a Point object from the specified PointF object by rounding the PointF object''s X and Y coordinates values to the nearest integer values in C++.'
 type: docs
-weight: 1900
+weight: 1700
 url: /cpp/system.drawing/point/round/
 ---
 ## Point::Round method

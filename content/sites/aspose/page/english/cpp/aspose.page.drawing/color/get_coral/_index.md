@@ -4,7 +4,7 @@ linktitle: get_Coral
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Coral method. Gets a system-defined color that has an ARGB value of #FFFF7F50 in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/aspose.page.drawing/color/get_coral/
 ---
 ## Color::get_Coral method

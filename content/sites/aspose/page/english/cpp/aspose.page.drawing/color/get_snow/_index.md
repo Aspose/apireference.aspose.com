@@ -4,7 +4,7 @@ linktitle: get_Snow
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Snow method. Gets a system-defined color that has an ARGB value of #FFFFFAFA in C++.'
 type: docs
-weight: 12800
+weight: 12900
 url: /cpp/aspose.page.drawing/color/get_snow/
 ---
 ## Color::get_Snow method

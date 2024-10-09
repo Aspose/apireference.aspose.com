@@ -4,7 +4,7 @@ linktitle: set_PixelFormat
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::BitmapData::set_PixelFormat method. Sets the pixel format of the bitmap image in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.drawing.imaging/bitmapdata/set_pixelformat/
 ---
 ## BitmapData::set_PixelFormat method

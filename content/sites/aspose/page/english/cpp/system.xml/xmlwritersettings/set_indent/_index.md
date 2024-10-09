@@ -4,7 +4,7 @@ linktitle: set_Indent
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_Indent method. Sets a value indicating whether to indent elements in C++.'
 type: docs
-weight: 1000
+weight: 2300
 url: /cpp/system.xml/xmlwritersettings/set_indent/
 ---
 ## XmlWriterSettings::set_Indent method

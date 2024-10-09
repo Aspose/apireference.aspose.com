@@ -4,7 +4,7 @@ linktitle: get_KeySize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSACryptoServiceProvider::get_KeySize method. Gets key size in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/get_keysize/
 ---
 ## DSACryptoServiceProvider::get_KeySize method

@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlAtomicValue::get_Value method. Returns the String value of the validated XML element or attribute in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/system.xml.schema/xmlatomicvalue/get_value/
 ---
 ## XmlAtomicValue::get_Value method

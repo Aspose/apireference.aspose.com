@@ -4,7 +4,7 @@ linktitle: Decrypt
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::Decrypt method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1200
+weight: 600
 url: /cpp/system.io/fileinfo/decrypt/
 ---
 ## FileInfo::Decrypt method

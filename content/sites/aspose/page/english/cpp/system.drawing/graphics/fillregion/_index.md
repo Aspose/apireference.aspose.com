@@ -4,7 +4,7 @@ linktitle: FillRegion
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FillRegion method. Fills the interiors of the specified region using the specified brush in C++.'
 type: docs
-weight: 3200
+weight: 3900
 url: /cpp/system.drawing/graphics/fillregion/
 ---
 ## Graphics::FillRegion method

@@ -7,6 +7,30 @@ type: docs
 weight: 1900
 url: /cpp/system.globalization/gregoriancalendar/isleapmonth/
 ---
+## GregorianCalendar::IsLeapMonth(int, int) const method
+
+
+Checks if the month is leap.
+
+```cpp
+virtual bool System::Globalization::Calendar::IsLeapMonth(int year, int month) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year. |
+| month | int | Month. |
+
+### ReturnValue
+
+True if specified month is leap, false otherwise.
+
+## See Also
+
+* Class [GregorianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## GregorianCalendar::IsLeapMonth(int, int, int) const method
 
 
@@ -22,30 +46,6 @@ bool System::Globalization::GregorianCalendar::IsLeapMonth(int year, int month, 
 | year | int | Year. |
 | month | int | Month. |
 | era | int | Era. |
-
-### ReturnValue
-
-True if specified month is leap, false otherwise.
-
-## See Also
-
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## GregorianCalendar::IsLeapMonth(int, int) const method
-
-
-Checks if the month is leap.
-
-```cpp
-virtual bool System::Globalization::Calendar::IsLeapMonth(int year, int month) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year. |
-| month | int | Month. |
 
 ### ReturnValue
 

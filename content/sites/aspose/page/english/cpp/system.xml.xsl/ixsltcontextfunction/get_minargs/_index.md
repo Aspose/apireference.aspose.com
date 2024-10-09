@@ -4,7 +4,7 @@ linktitle: get_Minargs
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::IXsltContextFunction::get_Minargs method. Returns the minimum number of arguments for the function. This enables the user to differentiate between overloaded functions in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.xsl/ixsltcontextfunction/get_minargs/
 ---
 ## IXsltContextFunction::get_Minargs method

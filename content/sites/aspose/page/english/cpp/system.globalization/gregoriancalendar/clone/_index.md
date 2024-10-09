@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::GregorianCalendar::Clone method. RTTI information in C++.'
 type: docs
-weight: 2200
+weight: 200
 url: /cpp/system.globalization/gregoriancalendar/clone/
 ---
 ## GregorianCalendar::Clone method

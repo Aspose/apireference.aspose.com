@@ -4,7 +4,7 @@ linktitle: get_DarkGoldenrod
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkGoldenrod method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB8860B in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/system.drawing/pens/get_darkgoldenrod/
 ---
 ## Pens::get_DarkGoldenrod method

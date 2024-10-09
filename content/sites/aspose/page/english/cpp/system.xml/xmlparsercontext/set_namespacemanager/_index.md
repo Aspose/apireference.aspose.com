@@ -4,7 +4,7 @@ linktitle: set_NamespaceManager
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::set_NamespaceManager method. Sets the XmlNamespaceManager in C++.'
 type: docs
-weight: 400
+weight: 1600
 url: /cpp/system.xml/xmlparsercontext/set_namespacemanager/
 ---
 ## XmlParserContext::set_NamespaceManager method

@@ -4,7 +4,7 @@ linktitle: GradientBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::GradientBrush::GradientBrush constructor. Creates new instance of GradientBrush in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.page.eps/gradientbrush/gradientbrush/
 ---
 ## GradientBrush::GradientBrush constructor

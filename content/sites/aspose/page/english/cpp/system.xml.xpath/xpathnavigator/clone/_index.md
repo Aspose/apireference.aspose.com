@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::Clone method. When overridden in a derived class, creates a new XPathNavigator positioned at the same node as this XPathNavigator in C++.'
 type: docs
-weight: 3500
+weight: 400
 url: /cpp/system.xml.xpath/xpathnavigator/clone/
 ---
 ## XPathNavigator::Clone method

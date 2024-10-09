@@ -4,7 +4,7 @@ linktitle: set_Attributes
 second_title: Aspose.Page for C++
 description: 'System::IO::FileSystemInfo::set_Attributes method. Sets the specified attributes on the entity represeted by the current object in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/system.io/filesysteminfo/set_attributes/
 ---
 ## FileSystemInfo::set_Attributes method

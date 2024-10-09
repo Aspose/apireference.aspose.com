@@ -4,7 +4,7 @@ linktitle: ToDouble
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToDouble method. Converts the String to a Double equivalent in C++.'
 type: docs
-weight: 3100
+weight: 1700
 url: /cpp/system.xml/xmlconvert/todouble/
 ---
 ## XmlConvert::ToDouble method

@@ -4,7 +4,7 @@ linktitle: MultiplyTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::MultiplyTransform method. Multiplies current object''s transform matrix by the specified matrix in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/multiplytransform/
 ---
 ## PathGradientBrush::MultiplyTransform method

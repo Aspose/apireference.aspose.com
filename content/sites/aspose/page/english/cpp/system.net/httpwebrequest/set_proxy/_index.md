@@ -4,7 +4,7 @@ linktitle: set_Proxy
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_Proxy method. Sets the HTTP proxy in C++.'
 type: docs
-weight: 2700
+weight: 5300
 url: /cpp/system.net/httpwebrequest/set_proxy/
 ---
 ## HttpWebRequest::set_Proxy method

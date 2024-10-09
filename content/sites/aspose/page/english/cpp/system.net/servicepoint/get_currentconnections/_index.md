@@ -4,7 +4,7 @@ linktitle: get_CurrentConnections
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_CurrentConnections method. Returns a number of opened connections in C++.'
 type: docs
-weight: 1900
+weight: 900
 url: /cpp/system.net/servicepoint/get_currentconnections/
 ---
 ## ServicePoint::get_CurrentConnections method

@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::set_Height method. Sets the height of the rectangle represented by the current object in C++.'
 type: docs
-weight: 1300
+weight: 2300
 url: /cpp/system.drawing/rectangle/set_height/
 ---
 ## Rectangle::set_Height method

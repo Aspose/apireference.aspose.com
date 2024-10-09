@@ -4,7 +4,7 @@ linktitle: SetVisual
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsVisualBrush::SetVisual method. Sets visual  as Visual element of visual brush in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpsvisualbrush/setvisual/
 ---
 ## XpsVisualBrush::SetVisual method

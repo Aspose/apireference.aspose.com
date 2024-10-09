@@ -4,7 +4,7 @@ linktitle: get_Extensions
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::get_Extensions method. Gets collection of extension objects associated with certificate in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_extensions/
 ---
 ## X509Certificate2::get_Extensions method

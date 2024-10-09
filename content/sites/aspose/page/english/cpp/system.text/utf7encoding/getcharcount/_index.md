@@ -4,9 +4,33 @@ linktitle: GetCharCount
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF7Encoding::GetCharCount method. Get the number of characters needed to decode a byte buffer in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.text/utf7encoding/getcharcount/
 ---
+## UTF7Encoding::GetCharCount(ArrayPtr\<uint8_t\>) method
+
+
+Get the number of characters needed to decode a byte buffer.
+
+```cpp
+virtual int System::Text::Encoding::GetCharCount(ArrayPtr<uint8_t> bytes)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bytes | ArrayPtr\<uint8_t\> | Bytes to decode. |
+
+### ReturnValue
+
+Number of characters.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
 ## UTF7Encoding::GetCharCount(ArrayPtr\<uint8_t\>, int, int) method
 
 
@@ -54,30 +78,6 @@ Number of characters.
 
 ## See Also
 
-* Class [UTF7Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## UTF7Encoding::GetCharCount(ArrayPtr\<uint8_t\>) method
-
-
-Get the number of characters needed to decode a byte buffer.
-
-```cpp
-virtual int System::Text::Encoding::GetCharCount(ArrayPtr<uint8_t> bytes)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bytes | ArrayPtr\<uint8_t\> | Bytes to decode. |
-
-### ReturnValue
-
-Number of characters.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [UTF7Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)

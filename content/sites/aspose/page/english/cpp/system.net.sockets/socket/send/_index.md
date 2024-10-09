@@ -4,9 +4,91 @@ linktitle: Send
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::Send method. Sends the specified data to the socket in C++.'
 type: docs
-weight: 5000
+weight: 4600
 url: /cpp/system.net.sockets/socket/send/
 ---
+## Socket::Send(System::ArrayPtr\<uint8_t\>) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+int32_t System::Net::Sockets::Socket::Send(System::ArrayPtr<uint8_t> buffer)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::ArrayPtr\<uint8_t\> | The data to send. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::ArrayPtr\<uint8_t\>, int32_t, int32_t, SocketFlags) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+int32_t System::Net::Sockets::Socket::Send(System::ArrayPtr<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::ArrayPtr\<uint8_t\> | The data to send. |
+| offset | int32_t | The offset in bytes in the specified array. |
+| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
+| socketFlags | SocketFlags | The send behavior. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Enum [SocketFlags](../../socketflags/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::ArrayPtr\<uint8_t\>, int32_t, int32_t, SocketFlags, SocketError\&) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+int32_t System::Net::Sockets::Socket::Send(System::ArrayPtr<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags, SocketError &errorCode)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::ArrayPtr\<uint8_t\> | The data to send. |
+| offset | int32_t | The offset in bytes in the specified array. |
+| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
+| socketFlags | SocketFlags | The send behavior. |
+| errorCode | SocketError\& | The output parameter where the error code will be assigned when the send operation fails. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Enum [SocketFlags](../../socketflags/)
+* Enum [SocketError](../../socketerror/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Socket::Send(System::ArrayPtr\<uint8_t\>, int32_t, SocketFlags) method
 
 
@@ -30,58 +112,6 @@ The number of sent bytes.
 ## See Also
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
-* Enum [SocketFlags](../../socketflags/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::ArrayView\<uint8_t\>, int32_t, SocketFlags) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer, int32_t size, SocketFlags socketFlags)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
-| size | int32_t | The number of bytes from the specified data that must be send. |
-| socketFlags | SocketFlags | The send behavior. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Enum [SocketFlags](../../socketflags/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&, int32_t, SocketFlags) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer, int32_t size, SocketFlags socketFlags)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
-| size | int32_t | The number of bytes from the specified data that must be send. |
-| socketFlags | SocketFlags | The send behavior. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
 * Enum [SocketFlags](../../socketflags/)
 * Class [Socket](../)
 * Namespace [System::Net::Sockets](../../)
@@ -112,6 +142,111 @@ The number of sent bytes.
 * Class [Socket](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::ArrayView\<uint8_t\>) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::ArrayView\<uint8_t\>, int32_t, int32_t, SocketFlags) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
+| offset | int32_t | The offset in bytes in the specified array. |
+| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
+| socketFlags | SocketFlags | The send behavior. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Enum [SocketFlags](../../socketflags/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::ArrayView\<uint8_t\>, int32_t, int32_t, SocketFlags, SocketError\&) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags, SocketError &errorCode)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
+| offset | int32_t | The offset in bytes in the specified array. |
+| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
+| socketFlags | SocketFlags | The send behavior. |
+| errorCode | SocketError\& | The output parameter where the error code will be assigned when the send operation fails. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Enum [SocketFlags](../../socketflags/)
+* Enum [SocketError](../../socketerror/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::ArrayView\<uint8_t\>, int32_t, SocketFlags) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer, int32_t size, SocketFlags socketFlags)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
+| size | int32_t | The number of bytes from the specified data that must be send. |
+| socketFlags | SocketFlags | The send behavior. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Enum [SocketFlags](../../socketflags/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Socket::Send(System::Details::ArrayView\<uint8_t\>, SocketFlags) method
 
 
@@ -125,6 +260,111 @@ int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> b
 | Parameter | Type | Description |
 | --- | --- | --- |
 | buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
+| socketFlags | SocketFlags | The send behavior. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Enum [SocketFlags](../../socketflags/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t, SocketFlags) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer, int32_t offset, int32_t size, SocketFlags socketFlags)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
+| offset | int32_t | The offset in bytes in the specified array. |
+| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
+| socketFlags | SocketFlags | The send behavior. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Enum [SocketFlags](../../socketflags/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t, SocketFlags, SocketError\&) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer, int32_t offset, int32_t size, SocketFlags socketFlags, SocketError &errorCode)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
+| offset | int32_t | The offset in bytes in the specified array. |
+| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
+| socketFlags | SocketFlags | The send behavior. |
+| errorCode | SocketError\& | The output parameter where the error code will be assigned when the send operation fails. |
+
+### ReturnValue
+
+The number of sent bytes.
+
+## See Also
+
+* Enum [SocketFlags](../../socketflags/)
+* Enum [SocketError](../../socketerror/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Page for C++](../../../)
+## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&, int32_t, SocketFlags) method
+
+
+Sends the specified data to the socket.
+
+```cpp
+template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer, int32_t size, SocketFlags socketFlags)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
+| size | int32_t | The number of bytes from the specified data that must be send. |
 | socketFlags | SocketFlags | The send behavior. |
 
 ### ReturnValue
@@ -159,76 +399,6 @@ The number of sent bytes.
 ## See Also
 
 * Enum [SocketFlags](../../socketflags/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::ArrayPtr\<uint8_t\>) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-int32_t System::Net::Sockets::Socket::Send(System::ArrayPtr<uint8_t> buffer)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::ArrayPtr\<uint8_t\> | The data to send. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::ArrayView\<uint8_t\>) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
 * Class [Socket](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -311,176 +481,6 @@ The number of sent bytes.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IList](../../../system.collections.generic/ilist/)
 * Class [ArraySegment](../../../system/arraysegment/)
-* Enum [SocketFlags](../../socketflags/)
-* Enum [SocketError](../../socketerror/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::ArrayPtr\<uint8_t\>, int32_t, int32_t, SocketFlags) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-int32_t System::Net::Sockets::Socket::Send(System::ArrayPtr<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::ArrayPtr\<uint8_t\> | The data to send. |
-| offset | int32_t | The offset in bytes in the specified array. |
-| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
-| socketFlags | SocketFlags | The send behavior. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Enum [SocketFlags](../../socketflags/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::ArrayView\<uint8_t\>, int32_t, int32_t, SocketFlags) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
-| offset | int32_t | The offset in bytes in the specified array. |
-| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
-| socketFlags | SocketFlags | The send behavior. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Enum [SocketFlags](../../socketflags/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t, SocketFlags) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer, int32_t offset, int32_t size, SocketFlags socketFlags)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
-| offset | int32_t | The offset in bytes in the specified array. |
-| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
-| socketFlags | SocketFlags | The send behavior. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Enum [SocketFlags](../../socketflags/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::ArrayPtr\<uint8_t\>, int32_t, int32_t, SocketFlags, SocketError\&) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-int32_t System::Net::Sockets::Socket::Send(System::ArrayPtr<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags, SocketError &errorCode)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::ArrayPtr\<uint8_t\> | The data to send. |
-| offset | int32_t | The offset in bytes in the specified array. |
-| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
-| socketFlags | SocketFlags | The send behavior. |
-| errorCode | SocketError\& | The output parameter where the error code will be assigned when the send operation fails. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Enum [SocketFlags](../../socketflags/)
-* Enum [SocketError](../../socketerror/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::ArrayView\<uint8_t\>, int32_t, int32_t, SocketFlags, SocketError\&) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-int32_t System::Net::Sockets::Socket::Send(System::Details::ArrayView<uint8_t> buffer, int32_t offset, int32_t size, SocketFlags socketFlags, SocketError &errorCode)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::ArrayView\<uint8_t\> | The data to send. |
-| offset | int32_t | The offset in bytes in the specified array. |
-| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
-| socketFlags | SocketFlags | The send behavior. |
-| errorCode | SocketError\& | The output parameter where the error code will be assigned when the send operation fails. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
-* Enum [SocketFlags](../../socketflags/)
-* Enum [SocketError](../../socketerror/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Page for C++](../../../)
-## Socket::Send(System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t, SocketFlags, SocketError\&) method
-
-
-Sends the specified data to the socket.
-
-```cpp
-template<std::size_t> int32_t System::Net::Sockets::Socket::Send(System::Details::StackArray<uint8_t, N> &buffer, int32_t offset, int32_t size, SocketFlags socketFlags, SocketError &errorCode)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | System::Details::StackArray\<uint8_t, N\>\& | The data to send. |
-| offset | int32_t | The offset in bytes in the specified array. |
-| size | int32_t | The number of bytes in the specified array starting from the 'offset' parameter. |
-| socketFlags | SocketFlags | The send behavior. |
-| errorCode | SocketError\& | The output parameter where the error code will be assigned when the send operation fails. |
-
-### ReturnValue
-
-The number of sent bytes.
-
-## See Also
-
 * Enum [SocketFlags](../../socketflags/)
 * Enum [SocketError](../../socketerror/)
 * Class [Socket](../)

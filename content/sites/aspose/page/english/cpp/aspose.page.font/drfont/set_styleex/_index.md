@@ -4,7 +4,7 @@ linktitle: set_StyleEx
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::set_StyleEx method. This property contains additional information about font''s style in C++.'
 type: docs
-weight: 1900
+weight: 2700
 url: /cpp/aspose.page.font/drfont/set_styleex/
 ---
 ## DrFont::set_StyleEx method

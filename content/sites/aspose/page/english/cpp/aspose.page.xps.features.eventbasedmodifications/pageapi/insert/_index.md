@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::Insert method. Inserts an element (Canvas, Path, or Glyphs) to the page at index  position in C++.'
 type: docs
-weight: 900
+weight: 2800
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/insert/
 ---
 ## PageAPI::Insert method

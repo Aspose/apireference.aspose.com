@@ -4,7 +4,7 @@ linktitle: get_Indent
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_Indent method. Returns a value indicating whether to indent elements in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.xml/xmlwritersettings/get_indent/
 ---
 ## XmlWriterSettings::get_Indent method

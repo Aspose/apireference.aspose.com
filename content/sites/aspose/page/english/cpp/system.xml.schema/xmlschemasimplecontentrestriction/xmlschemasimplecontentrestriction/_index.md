@@ -4,7 +4,7 @@ linktitle: XmlSchemaSimpleContentRestriction
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleContentRestriction::XmlSchemaSimpleContentRestriction constructor. Initializes a new instance of the XmlSchemaSimpleContentRestriction class in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/xmlschemasimplecontentrestriction/
 ---
 ## XmlSchemaSimpleContentRestriction::XmlSchemaSimpleContentRestriction constructor

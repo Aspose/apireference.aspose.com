@@ -4,7 +4,7 @@ linktitle: get_UserAgent
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::get_UserAgent method. Gets a value of the ''User-Agent'' header in C++.'
 type: docs
-weight: 4900
+weight: 3300
 url: /cpp/system.net/httpwebrequest/get_useragent/
 ---
 ## HttpWebRequest::get_UserAgent method

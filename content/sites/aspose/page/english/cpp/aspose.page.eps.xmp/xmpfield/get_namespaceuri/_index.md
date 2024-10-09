@@ -4,7 +4,7 @@ linktitle: get_NamespaceUri
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField::get_NamespaceUri method. Gets the namespace URI in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/aspose.page.eps.xmp/xmpfield/get_namespaceuri/
 ---
 ## XmpField::get_NamespaceUri method

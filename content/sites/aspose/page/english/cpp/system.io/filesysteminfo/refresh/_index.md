@@ -4,7 +4,7 @@ linktitle: Refresh
 second_title: Aspose.Page for C++
 description: 'System::IO::FileSystemInfo::Refresh method. Refreshes the state of the current object in C++.'
 type: docs
-weight: 2100
+weight: 1400
 url: /cpp/system.io/filesysteminfo/refresh/
 ---
 ## FileSystemInfo::Refresh method

@@ -4,7 +4,7 @@ linktitle: ScaleTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::ScaleTransform method. Scales current object''s transform matrix in C++.'
 type: docs
-weight: 500
+weight: 1300
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/scaletransform/
 ---
 ## LinearGradientBrush::ScaleTransform method

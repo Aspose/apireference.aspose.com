@@ -4,7 +4,7 @@ linktitle: get_weak
 second_title: Aspose.Page for C++
 description: 'System::WeakPtr::get_weak method. Gets referenced object. Asserts that pointer is in weak mode in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system/weakptr/get_weak/
 ---
 ## WeakPtr::get_weak method

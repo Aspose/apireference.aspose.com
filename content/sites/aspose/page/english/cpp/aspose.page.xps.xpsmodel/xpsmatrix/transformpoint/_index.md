@@ -4,7 +4,7 @@ linktitle: TransformPoint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::TransformPoint method. Applies the affine transformation represented by this Matrix to a specified point in C++.'
 type: docs
-weight: 900
+weight: 1900
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/transformpoint/
 ---
 ## XpsMatrix::TransformPoint method

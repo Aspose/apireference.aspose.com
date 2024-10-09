@@ -4,7 +4,7 @@ linktitle: get_GlyphCount
 second_title: Aspose.Page for C++
 description: 'How to use get_GlyphCount method of Aspose::Page::XPS::XpsModel::XpsGlyphsClusterMap class in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphsclustermap/get_glyphcount/
 ---
 ## XpsGlyphsClusterMap::get_GlyphCount method

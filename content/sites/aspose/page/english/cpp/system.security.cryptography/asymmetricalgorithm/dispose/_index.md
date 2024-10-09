@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::AsymmetricAlgorithm::Dispose method. Releases resources owned by the current object in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/system.security.cryptography/asymmetricalgorithm/dispose/
 ---
 ## AsymmetricAlgorithm::Dispose method

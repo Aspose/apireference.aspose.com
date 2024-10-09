@@ -4,16 +4,16 @@ linktitle: CreateCustomTimeZone
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::CreateCustomTimeZone method. Creates a custom time zone in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system/timezoneinfo/createcustomtimezone/
 ---
-## TimeZoneInfo::CreateCustomTimeZone(const String\&, TimeSpan, const String\&, const String\&, const String\&, const ArrayPtr\<AdjustmentRulePtr\>\&, bool) method
+## TimeZoneInfo::CreateCustomTimeZone(const String\&, TimeSpan, const String\&, const String\&) method
 
 
 Creates a custom time zone.
 
 ```cpp
-static TimeZoneInfoPtr System::TimeZoneInfo::CreateCustomTimeZone(const String &id, TimeSpan base_utc_offset, const String &display_name, const String &standard_display_name, const String &daylight_display_name, const ArrayPtr<AdjustmentRulePtr> &adjustment_rules, bool disable_daylight_saving_time)
+static TimeZoneInfoPtr System::TimeZoneInfo::CreateCustomTimeZone(const String &id, TimeSpan base_utc_offset, const String &display_name, const String &standard_display_name)
 ```
 
 
@@ -23,9 +23,6 @@ static TimeZoneInfoPtr System::TimeZoneInfo::CreateCustomTimeZone(const String &
 | base_utc_offset | TimeSpan | Time interval between the current time zone's standard time and UTC time. |
 | display_name | const String\& | Display name. |
 | standard_display_name | const String\& | Standard time name. |
-| daylight_display_name | const String\& | Daylight saving time name. |
-| adjustment_rules | const ArrayPtr\<AdjustmentRulePtr\>\& | [Array](../../array/) of adjustment rules. |
-| disable_daylight_saving_time | bool | True to discard any daylight saving time information present in adjustment_rules. |
 
 ### ReturnValue
 
@@ -36,8 +33,6 @@ New time zone.
 * Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
 * Class [String](../../string/)
 * Class [TimeSpan](../../timespan/)
-* Typedef [ArrayPtr](../../arrayptr/)
-* Typedef [AdjustmentRulePtr](../adjustmentruleptr/)
 * Class [TimeZoneInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -74,13 +69,13 @@ New time zone.
 * Class [TimeZoneInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## TimeZoneInfo::CreateCustomTimeZone(const String\&, TimeSpan, const String\&, const String\&) method
+## TimeZoneInfo::CreateCustomTimeZone(const String\&, TimeSpan, const String\&, const String\&, const String\&, const ArrayPtr\<AdjustmentRulePtr\>\&, bool) method
 
 
 Creates a custom time zone.
 
 ```cpp
-static TimeZoneInfoPtr System::TimeZoneInfo::CreateCustomTimeZone(const String &id, TimeSpan base_utc_offset, const String &display_name, const String &standard_display_name)
+static TimeZoneInfoPtr System::TimeZoneInfo::CreateCustomTimeZone(const String &id, TimeSpan base_utc_offset, const String &display_name, const String &standard_display_name, const String &daylight_display_name, const ArrayPtr<AdjustmentRulePtr> &adjustment_rules, bool disable_daylight_saving_time)
 ```
 
 
@@ -90,6 +85,9 @@ static TimeZoneInfoPtr System::TimeZoneInfo::CreateCustomTimeZone(const String &
 | base_utc_offset | TimeSpan | Time interval between the current time zone's standard time and UTC time. |
 | display_name | const String\& | Display name. |
 | standard_display_name | const String\& | Standard time name. |
+| daylight_display_name | const String\& | Daylight saving time name. |
+| adjustment_rules | const ArrayPtr\<AdjustmentRulePtr\>\& | [Array](../../array/) of adjustment rules. |
+| disable_daylight_saving_time | bool | True to discard any daylight saving time information present in adjustment_rules. |
 
 ### ReturnValue
 
@@ -100,6 +98,8 @@ New time zone.
 * Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
 * Class [String](../../string/)
 * Class [TimeSpan](../../timespan/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [AdjustmentRulePtr](../adjustmentruleptr/)
 * Class [TimeZoneInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

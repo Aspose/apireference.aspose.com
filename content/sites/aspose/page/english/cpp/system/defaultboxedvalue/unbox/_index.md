@@ -4,7 +4,7 @@ linktitle: unbox
 second_title: Aspose.Page for C++
 description: 'System::DefaultBoxedValue::unbox method. Unboxes the boxed value in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system/defaultboxedvalue/unbox/
 ---
 ## DefaultBoxedValue::unbox method

@@ -4,7 +4,7 @@ linktitle: get_UnhandledAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaExternal::get_UnhandledAttributes method. Returns the qualified attributes, which do not belong to the schema target namespace in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaexternal/get_unhandledattributes/
 ---
 ## XmlSchemaExternal::get_UnhandledAttributes method

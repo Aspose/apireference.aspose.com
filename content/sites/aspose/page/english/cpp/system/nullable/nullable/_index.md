@@ -21,17 +21,23 @@ System::Nullable<T>::Nullable()
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::Nullable(std::nullptr_t) constructor
+## Nullable::Nullable(const Nullable\<T1\>\&) constructor
 
 
-Constructs an instance that represents null.
+Constructs an instance that represents a value that is represented by the specified [Nullable](../) object. The specified nullable object may represent a value of different type than the underlying type of the constructed instance in which case the represented value is converted to a value of type T.
 
 ```cpp
-System::Nullable<T>::Nullable(std::nullptr_t)
+template<typename T1> System::Nullable<T>::Nullable(const Nullable<T1> &value)
 ```
+
+
+| Parameter | Description |
+| --- | --- |
+| T1 | The type of the value represented by the specified [Nullable](../) object |
 
 ## See Also
 
+* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -58,23 +64,17 @@ template<typename T1> System::Nullable<T>::Nullable(const T1 &value)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::Nullable(const Nullable\<T1\>\&) constructor
+## Nullable::Nullable(std::nullptr_t) constructor
 
 
-Constructs an instance that represents a value that is represented by the specified [Nullable](../) object. The specified nullable object may represent a value of different type than the underlying type of the constructed instance in which case the represented value is converted to a value of type T.
+Constructs an instance that represents null.
 
 ```cpp
-template<typename T1> System::Nullable<T>::Nullable(const Nullable<T1> &value)
+System::Nullable<T>::Nullable(std::nullptr_t)
 ```
-
-
-| Parameter | Description |
-| --- | --- |
-| T1 | The type of the value represented by the specified [Nullable](../) object |
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

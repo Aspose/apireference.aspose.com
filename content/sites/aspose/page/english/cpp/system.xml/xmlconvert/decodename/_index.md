@@ -4,7 +4,7 @@ linktitle: DecodeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::DecodeName method. Decodes a name. This method does the reverse of the XmlConvert::EncodeName(String) and XmlConvert::EncodeLocalName(String) methods in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml/xmlconvert/decodename/
 ---
 ## XmlConvert::DecodeName method

@@ -4,7 +4,7 @@ linktitle: AddSaveDataSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverterOptions::AddSaveDataSource method. Adds new data source to the PsConverterOptions plugin data collection in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/aspose.page.plugins/psconverteroptions/addsavedatasource/
 ---
 ## PsConverterOptions::AddSaveDataSource method

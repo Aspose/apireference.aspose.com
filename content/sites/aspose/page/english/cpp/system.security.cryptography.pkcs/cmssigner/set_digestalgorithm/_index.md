@@ -4,7 +4,7 @@ linktitle: set_DigestAlgorithm
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::Pkcs::CmsSigner::set_DigestAlgorithm method. Sets hash algorithm using with signature in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.security.cryptography.pkcs/cmssigner/set_digestalgorithm/
 ---
 ## CmsSigner::set_DigestAlgorithm method

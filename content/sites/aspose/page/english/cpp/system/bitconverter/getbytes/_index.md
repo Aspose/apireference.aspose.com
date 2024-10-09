@@ -4,7 +4,7 @@ linktitle: GetBytes
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::GetBytes method. Converts the specified boolean value into an array of bytes in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system/bitconverter/getbytes/
 ---
 ## BitConverter::GetBytes(bool) method
@@ -55,23 +55,47 @@ static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(char_t value)
 * Class [BitConverter](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## BitConverter::GetBytes(int16_t) method
+## BitConverter::GetBytes(double) method
 
 
-Converts the specified 16-bit integer value into an array of bytes.
+Converts the specified double-precision floating-point value into an array of bytes.
 
 ```cpp
-static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(int16_t value)
+static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(double value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int16_t | A 16-bit integer value to convert |
+| value | double | A floating-point value to convert |
 
 ### ReturnValue
 
-2-byte array representing specified value
+8-byte array representing specified value
+
+## See Also
+
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## BitConverter::GetBytes(float) method
+
+
+Converts the specified single-precision floating-point value into an array of bytes.
+
+```cpp
+static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(float value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | A floating-point value to convert |
+
+### ReturnValue
+
+4-byte array representing specified value
 
 ## See Also
 
@@ -96,6 +120,30 @@ static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(int value)
 ### ReturnValue
 
 4-byte array representing specified value
+
+## See Also
+
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## BitConverter::GetBytes(int16_t) method
+
+
+Converts the specified 16-bit integer value into an array of bytes.
+
+```cpp
+static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(int16_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int16_t | A 16-bit integer value to convert |
+
+### ReturnValue
+
+2-byte array representing specified value
 
 ## See Also
 
@@ -188,54 +236,6 @@ static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(uint64_t value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | uint64_t | An unsigned 64-bit integer value to convert |
-
-### ReturnValue
-
-8-byte array representing specified value
-
-## See Also
-
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [BitConverter](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## BitConverter::GetBytes(float) method
-
-
-Converts the specified single-precision floating-point value into an array of bytes.
-
-```cpp
-static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(float value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | A floating-point value to convert |
-
-### ReturnValue
-
-4-byte array representing specified value
-
-## See Also
-
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [BitConverter](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## BitConverter::GetBytes(double) method
-
-
-Converts the specified double-precision floating-point value into an array of bytes.
-
-```cpp
-static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(double value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | A floating-point value to convert |
 
 ### ReturnValue
 

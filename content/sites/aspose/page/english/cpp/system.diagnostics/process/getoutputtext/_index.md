@@ -4,7 +4,7 @@ linktitle: GetOutputText
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Process::GetOutputText method. Gets process output text in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.diagnostics/process/getoutputtext/
 ---
 ## Process::GetOutputText method

@@ -27,6 +27,21 @@ ByteArrayPtr System::Security::Cryptography::ECDsaBotan::SignData(const ByteArra
 * Class [ECDsaBotan](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)
+## ECDsaBotan::SignData(const ByteArrayPtr\&, const HashAlgorithmName\&) method
+
+
+RTTI information.
+
+```cpp
+virtual ByteArrayPtr System::Security::Cryptography::ECDsa::SignData(const ByteArrayPtr &data, const HashAlgorithmName &hash_algorithm)
+```
+
+## See Also
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [ECDsaBotan](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ECDsaBotan::SignData(const ByteArrayPtr\&, int32_t, int32_t) method
 
 
@@ -42,6 +57,21 @@ ByteArrayPtr System::Security::Cryptography::ECDsaBotan::SignData(const ByteArra
 | data | const ByteArrayPtr\& | Input data array. |
 | offset | int32_t | Offset in **data**. |
 | count | int32_t | Number of bytes to use as input data. return ECDSA signature for the input data. |
+
+## See Also
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [ECDsaBotan](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)
+## ECDsaBotan::SignData(const ByteArrayPtr\&, int32_t, int32_t, const HashAlgorithmName\&) method
+
+
+RTTI information.
+
+```cpp
+virtual ByteArrayPtr System::Security::Cryptography::ECDsa::SignData(const ByteArrayPtr &data, int32_t offset, int32_t count, const HashAlgorithmName &hash_algorithm)
+```
 
 ## See Also
 
@@ -67,36 +97,6 @@ ByteArrayPtr System::Security::Cryptography::ECDsaBotan::SignData(const StreamPt
 
 * Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
 * Typedef [StreamPtr](../../../system/streamptr/)
-* Class [ECDsaBotan](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Page for C++](../../../)
-## ECDsaBotan::SignData(const ByteArrayPtr\&, const HashAlgorithmName\&) method
-
-
-RTTI information.
-
-```cpp
-virtual ByteArrayPtr System::Security::Cryptography::ECDsa::SignData(const ByteArrayPtr &data, const HashAlgorithmName &hash_algorithm)
-```
-
-## See Also
-
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [ECDsaBotan](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Page for C++](../../../)
-## ECDsaBotan::SignData(const ByteArrayPtr\&, int32_t, int32_t, const HashAlgorithmName\&) method
-
-
-RTTI information.
-
-```cpp
-virtual ByteArrayPtr System::Security::Cryptography::ECDsa::SignData(const ByteArrayPtr &data, int32_t offset, int32_t count, const HashAlgorithmName &hash_algorithm)
-```
-
-## See Also
-
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
 * Class [ECDsaBotan](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: set_Clip
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::set_Clip method. Sets a region that limits the drawing area of the drawing surface represented by the current in C++.'
 type: docs
-weight: 5300
+weight: 7400
 url: /cpp/system.drawing/graphics/set_clip/
 ---
 ## Graphics::set_Clip method

@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::Remove method. Removes fragment from builder in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.text/stringbuilder/remove/
 ---
 ## StringBuilder::Remove method

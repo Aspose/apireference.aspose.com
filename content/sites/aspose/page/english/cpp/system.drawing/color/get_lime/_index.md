@@ -4,7 +4,7 @@ linktitle: get_Lime
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Lime method. Returns a color whose ARGB value in hexadecimal notation is #FF00FF00 in C++.'
 type: docs
-weight: 9900
+weight: 9800
 url: /cpp/system.drawing/color/get_lime/
 ---
 ## Color::get_Lime method

@@ -4,9 +4,33 @@ linktitle: GetChars
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::GetChars method. Get the characters that result from decoding a byte buffer in C++.'
 type: docs
-weight: 2200
+weight: 2000
 url: /cpp/system.text/encoding/getchars/
 ---
+## Encoding::GetChars(ArrayPtr\<uint8_t\>) method
+
+
+Get the characters that result from decoding a byte buffer.
+
+```cpp
+virtual ArrayPtr<char_t> System::Text::Encoding::GetChars(ArrayPtr<uint8_t> bytes)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) to read bytes from. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) of decoded characters.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Encoding::GetChars(ArrayPtr\<uint8_t\>, int, int, ArrayPtr\<char_t\>, int) method
 
 
@@ -50,30 +74,6 @@ virtual ArrayPtr<char_t> System::Text::Encoding::GetChars(ArrayPtr<uint8_t> byte
 | bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) to read bytes from. |
 | index | int | Input buffer offset. |
 | count | int | Input buffer size. |
-
-### ReturnValue
-
-[Buffer](../../../system/buffer/) of decoded characters.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## Encoding::GetChars(ArrayPtr\<uint8_t\>) method
-
-
-Get the characters that result from decoding a byte buffer.
-
-```cpp
-virtual ArrayPtr<char_t> System::Text::Encoding::GetChars(ArrayPtr<uint8_t> bytes)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) to read bytes from. |
 
 ### ReturnValue
 

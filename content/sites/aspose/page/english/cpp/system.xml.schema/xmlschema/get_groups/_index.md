@@ -4,7 +4,7 @@ linktitle: get_Groups
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_Groups method. Returns the post-schema-compilation value of all the groups in the schema in C++.'
 type: docs
-weight: 2400
+weight: 1000
 url: /cpp/system.xml.schema/xmlschema/get_groups/
 ---
 ## XmlSchema::get_Groups method

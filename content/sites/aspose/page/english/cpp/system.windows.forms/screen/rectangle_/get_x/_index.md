@@ -4,7 +4,7 @@ linktitle: get_X
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Screen::Rectangle_::get_X method. Gets left position in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.windows.forms/screen/rectangle_/get_x/
 ---
 ## Rectangle_::get_X method

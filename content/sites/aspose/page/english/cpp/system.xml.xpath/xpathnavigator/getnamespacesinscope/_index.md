@@ -4,7 +4,7 @@ linktitle: GetNamespacesInScope
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::GetNamespacesInScope method. Returns the in-scope namespaces of the current node in C++.'
 type: docs
-weight: 3400
+weight: 4000
 url: /cpp/system.xml.xpath/xpathnavigator/getnamespacesinscope/
 ---
 ## XPathNavigator::GetNamespacesInScope method

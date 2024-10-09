@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplRefType::IndexOf method. Gets index of first appearance of item in container in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.collections/ilistimplreftype/indexof/
 ---
 ## IListImplRefType::IndexOf method

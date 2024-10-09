@@ -4,7 +4,7 @@ linktitle: MarkOwnedByVirtualizedIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerator::MarkOwnedByVirtualizedIterator method. Marks the enumerator owned by virtualized iterator in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.collections.generic/ienumerator/markownedbyvirtualizediterator/
 ---
 ## IEnumerator::MarkOwnedByVirtualizedIterator method

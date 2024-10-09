@@ -4,7 +4,7 @@ linktitle: InsertBefore
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::InsertBefore method. Returns an XmlWriter object used to create a new sibling node before the currently selected node in C++.'
 type: docs
-weight: 7100
+weight: 4200
 url: /cpp/system.xml.xpath/xpathnavigator/insertbefore/
 ---
 ## XPathNavigator::InsertBefore() method
@@ -25,26 +25,6 @@ An [XmlWriter](../../../system.xml/xmlwriter/) object used to create a new sibli
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Page for C++](../../../)
-## XPathNavigator::InsertBefore(String) method
-
-
-Creates a new sibling node before the currently selected node using the XML string specified.
-
-```cpp
-virtual void System::Xml::XPath::XPathNavigator::InsertBefore(String newSibling)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newSibling | String | The XML data string for the new sibling node. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -87,6 +67,26 @@ virtual void System::Xml::XPath::XPathNavigator::InsertBefore(SharedPtr<XPathNav
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XPathNavigator](../)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)
+## XPathNavigator::InsertBefore(String) method
+
+
+Creates a new sibling node before the currently selected node using the XML string specified.
+
+```cpp
+virtual void System::Xml::XPath::XPathNavigator::InsertBefore(String newSibling)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newSibling | String | The XML data string for the new sibling node. |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.Page for C++](../../../)

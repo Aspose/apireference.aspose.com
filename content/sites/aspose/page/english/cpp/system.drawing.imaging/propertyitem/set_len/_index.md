@@ -4,7 +4,7 @@ linktitle: set_Len
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::PropertyItem::set_Len method. Sets the length of the property represented by the current object in bytes in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.drawing.imaging/propertyitem/set_len/
 ---
 ## PropertyItem::set_Len method

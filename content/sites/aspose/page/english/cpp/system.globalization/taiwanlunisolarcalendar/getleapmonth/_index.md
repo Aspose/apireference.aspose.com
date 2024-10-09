@@ -7,6 +7,29 @@ type: docs
 weight: 800
 url: /cpp/system.globalization/taiwanlunisolarcalendar/getleapmonth/
 ---
+## TaiwanLunisolarCalendar::GetLeapMonth(int) const method
+
+
+Gets the leap month for the specified year.
+
+```cpp
+virtual int System::Globalization::Calendar::GetLeapMonth(int year) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year to get leap month in. |
+
+### ReturnValue
+
+Leap month of the speicified year or zero if the year has no leap month.
+
+## See Also
+
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TaiwanLunisolarCalendar::GetLeapMonth(int, int) const method
 
 
@@ -25,29 +48,6 @@ int System::Globalization::TaiwanLunisolarCalendar::GetLeapMonth(int year, int e
 ### ReturnValue
 
 Leap month of the speicified year of the specified era or zero if the year has no leap month.
-
-## See Also
-
-* Class [TaiwanLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## TaiwanLunisolarCalendar::GetLeapMonth(int) const method
-
-
-Gets the leap month for the specified year.
-
-```cpp
-virtual int System::Globalization::Calendar::GetLeapMonth(int year) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year to get leap month in. |
-
-### ReturnValue
-
-Leap month of the speicified year or zero if the year has no leap month.
 
 ## See Also
 

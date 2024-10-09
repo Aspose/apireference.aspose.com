@@ -4,7 +4,7 @@ linktitle: set_Final
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::set_Final method. Sets the final attribute of the type derivation that indicates if further derivations are allowed in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/system.xml.schema/xmlschematype/set_final/
 ---
 ## XmlSchemaType::set_Final method

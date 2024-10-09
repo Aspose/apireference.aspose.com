@@ -4,7 +4,7 @@ linktitle: Int64BitsToDouble
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::Int64BitsToDouble method. Returns a double-precision floating point value whose value is equivalent to value in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/system/bitconverter/int64bitstodouble/
 ---
 ## BitConverter::Int64BitsToDouble method

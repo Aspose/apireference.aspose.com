@@ -4,7 +4,7 @@ linktitle: get_Lime
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Lime method. Gets a system-defined color that has an ARGB value of #FF00FF00 in C++.'
 type: docs
-weight: 7800
+weight: 7900
 url: /cpp/aspose.page.drawing/color/get_lime/
 ---
 ## Color::get_Lime method

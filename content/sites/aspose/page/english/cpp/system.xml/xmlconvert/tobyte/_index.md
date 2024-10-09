@@ -4,7 +4,7 @@ linktitle: ToByte
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToByte method. Converts the String to a Byte equivalent in C++.'
 type: docs
-weight: 2600
+weight: 1200
 url: /cpp/system.xml/xmlconvert/tobyte/
 ---
 ## XmlConvert::ToByte method

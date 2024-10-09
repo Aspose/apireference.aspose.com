@@ -4,7 +4,7 @@ linktitle: CreateFallbackBuffer
 second_title: Aspose.Page for C++
 description: 'System::Text::EncoderReplacementFallback::CreateFallbackBuffer method. Creates fallback buffer in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.text/encoderreplacementfallback/createfallbackbuffer/
 ---
 ## EncoderReplacementFallback::CreateFallbackBuffer method

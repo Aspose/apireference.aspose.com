@@ -4,7 +4,7 @@ linktitle: set_XmlResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XslTransform::set_XmlResolver method. Sets the XmlResolver used to resolve external resources when the XslTransform::Transform method is called in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.xsl/xsltransform/set_xmlresolver/
 ---
 ## XslTransform::set_XmlResolver method

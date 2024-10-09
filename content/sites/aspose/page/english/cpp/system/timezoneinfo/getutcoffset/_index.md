@@ -4,34 +4,9 @@ linktitle: GetUtcOffset
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::GetUtcOffset method. Calculates difference between time in this time zone and UTC time zone for a specified date and time in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/system/timezoneinfo/getutcoffset/
 ---
-## TimeZoneInfo::GetUtcOffset(DateTime) const method
-
-
-Calculates difference between time in this time zone and UTC time zone for a specified date and time.
-
-```cpp
-TimeSpan System::TimeZoneInfo::GetUtcOffset(DateTime date_time) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| date_time | DateTime | Date and time. |
-
-### ReturnValue
-
-Time difference between time zones.
-
-## See Also
-
-* Class [TimeSpan](../../timespan/)
-* Class [DateTime](../../datetime/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TimeZoneInfo::GetUtcOffset(const DateTimeOffset\&) const method
 
 
@@ -54,6 +29,31 @@ Time difference between time zones.
 
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../../datetimeoffset/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## TimeZoneInfo::GetUtcOffset(DateTime) const method
+
+
+Calculates difference between time in this time zone and UTC time zone for a specified date and time.
+
+```cpp
+TimeSpan System::TimeZoneInfo::GetUtcOffset(DateTime date_time) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| date_time | DateTime | Date and time. |
+
+### ReturnValue
+
+Time difference between time zones.
+
+## See Also
+
+* Class [TimeSpan](../../timespan/)
+* Class [DateTime](../../datetime/)
 * Class [TimeZoneInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: ReadUInt64
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadUInt64 method. Reads 8 bytes from the input stream and returns them as an unsigned 64-bit integer value in C++.'
 type: docs
-weight: 2100
+weight: 2300
 url: /cpp/system.io/binaryreader/readuint64/
 ---
 ## BinaryReader::ReadUInt64 method

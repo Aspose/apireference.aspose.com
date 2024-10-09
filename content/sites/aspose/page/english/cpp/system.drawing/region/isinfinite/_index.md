@@ -4,7 +4,7 @@ linktitle: IsInfinite
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::IsInfinite method. Determines wheter the region represented by the current object has infinite interior on the specified drawing surface in C++.'
 type: docs
-weight: 1500
+weight: 1300
 url: /cpp/system.drawing/region/isinfinite/
 ---
 ## Region::IsInfinite method

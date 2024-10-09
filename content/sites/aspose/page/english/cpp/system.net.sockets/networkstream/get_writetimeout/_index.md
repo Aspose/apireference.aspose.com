@@ -4,7 +4,7 @@ linktitle: get_WriteTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::get_WriteTimeout method. Gets a value, in milliseconds, that determines how long the stream will attempt to write before timing out in C++.'
 type: docs
-weight: 700
+weight: 1800
 url: /cpp/system.net.sockets/networkstream/get_writetimeout/
 ---
 ## NetworkStream::get_WriteTimeout method

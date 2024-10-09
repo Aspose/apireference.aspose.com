@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::get_Count method. Gets count of elements in the collection in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/get_count/
 ---
 ## XmpMetadata::get_Count method

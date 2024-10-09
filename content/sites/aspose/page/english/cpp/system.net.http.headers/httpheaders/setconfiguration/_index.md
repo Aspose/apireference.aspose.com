@@ -4,7 +4,7 @@ linktitle: SetConfiguration
 second_title: Aspose.Page for C++
 description: 'How to use SetConfiguration method of System::Net::Http::Headers::HttpHeaders class in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.net.http.headers/httpheaders/setconfiguration/
 ---
 ## HttpHeaders::SetConfiguration method

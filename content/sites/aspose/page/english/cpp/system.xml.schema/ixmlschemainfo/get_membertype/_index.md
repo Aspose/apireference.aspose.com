@@ -4,7 +4,7 @@ linktitle: get_MemberType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::IXmlSchemaInfo::get_MemberType method. Returns the dynamic schema type for this validated XML node in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml.schema/ixmlschemainfo/get_membertype/
 ---
 ## IXmlSchemaInfo::get_MemberType method

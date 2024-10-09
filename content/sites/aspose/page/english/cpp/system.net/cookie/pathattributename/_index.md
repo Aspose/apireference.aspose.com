@@ -4,7 +4,7 @@ linktitle: PathAttributeName
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::PathAttributeName field. The ''Path'' attribute''s name in C++.'
 type: docs
-weight: 5100
+weight: 5300
 url: /cpp/system.net/cookie/pathattributename/
 ---
 ## PathAttributeName field

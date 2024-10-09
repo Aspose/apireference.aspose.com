@@ -4,7 +4,7 @@ linktitle: LingerOption
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::LingerOption::LingerOption constructor. Constructs a new instance in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.net.sockets/lingeroption/lingeroption/
 ---
 ## LingerOption::LingerOption constructor

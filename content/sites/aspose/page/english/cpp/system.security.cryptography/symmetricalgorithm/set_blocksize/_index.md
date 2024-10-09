@@ -4,7 +4,7 @@ linktitle: set_BlockSize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::set_BlockSize method. Sets block size of cryptographic operation in C++.'
 type: docs
-weight: 200
+weight: 1200
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_blocksize/
 ---
 ## SymmetricAlgorithm::set_BlockSize method

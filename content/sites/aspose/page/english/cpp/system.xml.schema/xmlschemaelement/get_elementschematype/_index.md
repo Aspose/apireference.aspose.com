@@ -4,7 +4,7 @@ linktitle: get_ElementSchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::get_ElementSchemaType method. Returns an XmlSchemaType object representing the type of the element based on the XmlSchemaElement::get_SchemaType or XmlSchemaElement::get_SchemaTypeName values of the element in C++.'
 type: docs
-weight: 2800
+weight: 600
 url: /cpp/system.xml.schema/xmlschemaelement/get_elementschematype/
 ---
 ## XmlSchemaElement::get_ElementSchemaType method

@@ -4,7 +4,7 @@ linktitle: set_DtdProcessing
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::set_DtdProcessing method. Sets the DtdProcessing enumeration in C++.'
 type: docs
-weight: 3400
+weight: 5400
 url: /cpp/system.xml/xmltextreader/set_dtdprocessing/
 ---
 ## XmlTextReader::set_DtdProcessing method

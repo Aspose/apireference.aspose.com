@@ -4,7 +4,7 @@ linktitle: operator float
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator float method. Converts the value represented by the current object to single-precision floating-point value in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system/decimal/operatorfloat/
 ---
 ## Decimal::operator float method

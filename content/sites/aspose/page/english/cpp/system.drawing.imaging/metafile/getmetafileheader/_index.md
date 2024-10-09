@@ -4,7 +4,7 @@ linktitle: GetMetafileHeader
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Metafile::GetMetafileHeader method. Returns a header associated with the current object in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/system.drawing.imaging/metafile/getmetafileheader/
 ---
 ## Metafile::GetMetafileHeader method

@@ -4,7 +4,7 @@ linktitle: VerifyTOKEN
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::VerifyTOKEN method. Verifies that the string is a valid token according to the W3C XML Schema Part2: Datatypes recommendation in C++.'
 type: docs
-weight: 700
+weight: 3300
 url: /cpp/system.xml/xmlconvert/verifytoken/
 ---
 ## XmlConvert::VerifyTOKEN method

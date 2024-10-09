@@ -4,7 +4,7 @@ linktitle: ValueCollection
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::ValueCollection typedef. Collection of values in C++.'
 type: docs
-weight: 2800
+weight: 3200
 url: /cpp/system.collections.generic/basedictionary/valuecollection/
 ---
 ## ValueCollection typedef

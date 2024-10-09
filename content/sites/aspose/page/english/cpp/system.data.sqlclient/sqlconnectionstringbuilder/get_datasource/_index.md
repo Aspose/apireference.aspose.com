@@ -4,7 +4,7 @@ linktitle: get_DataSource
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::get_DataSource method. Gets data source (e. g. hostname and port) in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/get_datasource/
 ---
 ## SqlConnectionStringBuilder::get_DataSource method

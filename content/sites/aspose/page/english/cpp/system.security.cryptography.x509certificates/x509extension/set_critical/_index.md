@@ -4,7 +4,7 @@ linktitle: set_Critical
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Extension::set_Critical method. Defines whether extension is critical in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.security.cryptography.x509certificates/x509extension/set_critical/
 ---
 ## X509Extension::set_Critical method

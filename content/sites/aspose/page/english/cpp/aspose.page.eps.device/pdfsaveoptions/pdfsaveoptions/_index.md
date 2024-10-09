@@ -21,25 +21,6 @@ Aspose::Page::EPS::Device::PdfSaveOptions::PdfSaveOptions()
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)
-## PdfSaveOptions::PdfSaveOptions(bool) constructor
-
-
-Initializes a new instance of the [PdfSaveOptions](../) class with default values for flag [Debug](../) (false).
-
-```cpp
-Aspose::Page::EPS::Device::PdfSaveOptions::PdfSaveOptions(bool supressErrors)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
-
-## See Also
-
-* Class [PdfSaveOptions](../)
-* Namespace [Aspose::Page::EPS::Device](../../)
-* Library [Aspose.Page for C++](../../../)
 ## PdfSaveOptions::PdfSaveOptions(Aspose::Page::Drawing::Size) constructor
 
 
@@ -57,6 +38,25 @@ Aspose::Page::EPS::Device::PdfSaveOptions::PdfSaveOptions(Aspose::Page::Drawing:
 ## See Also
 
 * Class [Size](../../../aspose.page.drawing/size/)
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Page::EPS::Device](../../)
+* Library [Aspose.Page for C++](../../../)
+## PdfSaveOptions::PdfSaveOptions(bool) constructor
+
+
+Initializes a new instance of the [PdfSaveOptions](../) class with default values for flag [Debug](../) (false).
+
+```cpp
+Aspose::Page::EPS::Device::PdfSaveOptions::PdfSaveOptions(bool supressErrors)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
+
+## See Also
+
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: AddDocument
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::AddDocument method. Adds an empty document with default page size in C++.'
 type: docs
-weight: 2700
+weight: 400
 url: /cpp/aspose.page.xps/xpsdocument/adddocument/
 ---
 ## XpsDocument::AddDocument(bool) method

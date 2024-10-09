@@ -4,7 +4,7 @@ linktitle: set_Url
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::set_Url method. Sets the XML Web service URL in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.web.services.protocols/webclientprotocol/set_url/
 ---
 ## WebClientProtocol::set_Url method

@@ -4,7 +4,7 @@ linktitle: get_BurlyWood
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_BurlyWood method. Gets a system-defined color that has an ARGB value of #FFDEB887 in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.page.drawing/color/get_burlywood/
 ---
 ## Color::get_BurlyWood method

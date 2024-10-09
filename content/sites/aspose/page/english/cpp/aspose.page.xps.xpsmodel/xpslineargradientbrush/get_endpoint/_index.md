@@ -4,7 +4,7 @@ linktitle: get_EndPoint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsLinearGradientBrush::get_EndPoint method. Returns/sets the end point of the linear gradient in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpslineargradientbrush/get_endpoint/
 ---
 ## XpsLinearGradientBrush::get_EndPoint method

@@ -4,7 +4,7 @@ linktitle: get_OrangeRed
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_OrangeRed method. Gets a system-defined color that has an ARGB value of #FFFF4500 in C++.'
 type: docs
-weight: 10200
+weight: 10300
 url: /cpp/aspose.page.drawing/color/get_orangered/
 ---
 ## Color::get_OrangeRed method

@@ -4,7 +4,7 @@ linktitle: operator<=
 second_title: Aspose.Page for C++
 description: 'System::DateTime::operator<= method. Determines if the current object represents the date and time value that is earlier than or the same as the value represented by the specified DateTime object in C++.'
 type: docs
-weight: 4700
+weight: 3700
 url: /cpp/system/datetime/operator_=/
 ---
 ## DateTime::operator<=(DateTime) const method
@@ -51,7 +51,7 @@ linktitle: operator>=
 second_title: Aspose.Page for C++
 description: 'System::DateTime::operator>= method. Determines if the current object represents the date and time value that is later than or the same as the value represented by the specified DateTime object in C++.'
 type: docs
-weight: 4900
+weight: 4100
 url: /cpp/system/datetime/operator_=/
 ---
 ## DateTime::operator>=(DateTime) const method

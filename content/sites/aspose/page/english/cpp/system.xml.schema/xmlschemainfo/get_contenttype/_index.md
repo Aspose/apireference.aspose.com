@@ -4,7 +4,7 @@ linktitle: get_ContentType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::get_ContentType method. Returns the XmlSchemaContentType object that corresponds to the content type of this validated XML node in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/system.xml.schema/xmlschemainfo/get_contenttype/
 ---
 ## XmlSchemaInfo::get_ContentType method

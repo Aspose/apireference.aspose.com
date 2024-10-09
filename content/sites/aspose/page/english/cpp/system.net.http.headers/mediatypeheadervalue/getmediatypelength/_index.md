@@ -4,7 +4,7 @@ linktitle: GetMediaTypeLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::MediaTypeHeaderValue::GetMediaTypeLength method. Converts a passed string from the specified index to an instance of the MediaTypeHeaderValue class in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/system.net.http.headers/mediatypeheadervalue/getmediatypelength/
 ---
 ## MediaTypeHeaderValue::GetMediaTypeLength method

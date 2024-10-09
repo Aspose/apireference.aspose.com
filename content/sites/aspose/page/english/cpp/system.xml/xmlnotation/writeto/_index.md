@@ -4,7 +4,7 @@ linktitle: WriteTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNotation::WriteTo method. Saves the node to the specified XmlWriter. This method has no effect on XmlNotation nodes in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.xml/xmlnotation/writeto/
 ---
 ## XmlNotation::WriteTo method

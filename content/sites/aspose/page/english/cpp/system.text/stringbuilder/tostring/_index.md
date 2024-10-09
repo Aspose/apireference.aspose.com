@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::ToString method. Gets string currently contained in builder in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.text/stringbuilder/tostring/
 ---
 ## StringBuilder::ToString() const method

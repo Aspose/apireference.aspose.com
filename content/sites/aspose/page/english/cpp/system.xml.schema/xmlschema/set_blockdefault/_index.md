@@ -4,7 +4,7 @@ linktitle: set_BlockDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_BlockDefault method. Sets the blockDefault attribute which sets the default value of the block attribute on element and complex types in the targetNamespace of the schema in C++.'
 type: docs
-weight: 400
+weight: 2100
 url: /cpp/system.xml.schema/xmlschema/set_blockdefault/
 ---
 ## XmlSchema::set_BlockDefault method

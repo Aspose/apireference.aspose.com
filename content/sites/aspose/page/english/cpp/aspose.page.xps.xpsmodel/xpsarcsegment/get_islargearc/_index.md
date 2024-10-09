@@ -4,7 +4,7 @@ linktitle: get_IsLargeArc
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArcSegment::get_IsLargeArc method. Returns/sets value determining whether the arc is drawn with a sweep of 180 or greater in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpsarcsegment/get_islargearc/
 ---
 ## XpsArcSegment::get_IsLargeArc method

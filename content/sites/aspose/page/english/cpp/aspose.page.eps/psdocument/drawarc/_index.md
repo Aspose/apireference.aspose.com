@@ -4,7 +4,7 @@ linktitle: DrawArc
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::DrawArc method. Draws an arc in C++.'
 type: docs
-weight: 3900
+weight: 900
 url: /cpp/aspose.page.eps/psdocument/drawarc/
 ---
 ## PsDocument::DrawArc method

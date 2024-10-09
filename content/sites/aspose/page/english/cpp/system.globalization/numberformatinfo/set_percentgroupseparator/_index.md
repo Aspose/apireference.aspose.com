@@ -4,7 +4,7 @@ linktitle: set_PercentGroupSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PercentGroupSeparator method. Sets group separator in percent values in C++.'
 type: docs
-weight: 4700
+weight: 5200
 url: /cpp/system.globalization/numberformatinfo/set_percentgroupseparator/
 ---
 ## NumberFormatInfo::set_PercentGroupSeparator method

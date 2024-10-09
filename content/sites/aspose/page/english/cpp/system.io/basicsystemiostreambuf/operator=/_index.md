@@ -2,26 +2,11 @@
 title: System::IO::BasicSystemIOStreamBuf::operator= method
 linktitle: operator=
 second_title: Aspose.Page for C++
-description: 'System::IO::BasicSystemIOStreamBuf::operator= method. Copy assignment operator. Deleted in C++.'
+description: 'System::IO::BasicSystemIOStreamBuf::operator= method. Move assignment operator in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.io/basicsystemiostreambuf/operator=/
 ---
-## BasicSystemIOStreamBuf::operator=(const BasicSystemIOStreamBuf\&) method
-
-
-Copy assignment operator. Deleted.
-
-```cpp
-BasicSystemIOStreamBuf & System::IO::BasicSystemIOStreamBuf<Elem, Traits>::operator=(const BasicSystemIOStreamBuf &)=delete
-```
-
-## See Also
-
-* Class [BasicSystemIOStreamBuf](../)
-* Class [BasicSystemIOStreamBuf](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
 ## BasicSystemIOStreamBuf::operator=(BasicSystemIOStreamBuf\&&) method
 
 
@@ -39,6 +24,21 @@ BasicSystemIOStreamBuf & System::IO::BasicSystemIOStreamBuf<Elem, Traits>::opera
 ### ReturnValue
 
 *this
+
+## See Also
+
+* Class [BasicSystemIOStreamBuf](../)
+* Class [BasicSystemIOStreamBuf](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## BasicSystemIOStreamBuf::operator=(const BasicSystemIOStreamBuf\&) method
+
+
+Copy assignment operator. Deleted.
+
+```cpp
+BasicSystemIOStreamBuf & System::IO::BasicSystemIOStreamBuf<Elem, Traits>::operator=(const BasicSystemIOStreamBuf &)=delete
+```
 
 ## See Also
 

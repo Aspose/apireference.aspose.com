@@ -4,7 +4,7 @@ linktitle: AddAttribute
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::AddAttribute method. Adds attribute to tag in C++.'
 type: docs
-weight: 1000
+weight: 200
 url: /cpp/system.security/securityelement/addattribute/
 ---
 ## SecurityElement::AddAttribute method

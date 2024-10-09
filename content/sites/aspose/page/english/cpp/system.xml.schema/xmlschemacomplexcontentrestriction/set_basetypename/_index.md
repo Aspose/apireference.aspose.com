@@ -4,7 +4,7 @@ linktitle: set_BaseTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexContentRestriction::set_BaseTypeName method. Sets the name of a complex type from which this type is derived by restriction in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.xml.schema/xmlschemacomplexcontentrestriction/set_basetypename/
 ---
 ## XmlSchemaComplexContentRestriction::set_BaseTypeName method

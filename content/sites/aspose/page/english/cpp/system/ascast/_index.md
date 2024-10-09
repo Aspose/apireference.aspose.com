@@ -4,7 +4,7 @@ linktitle: AsCast
 second_title: Aspose.Page for C++
 description: 'System::AsCast method. Casts the source type to the result type using ''as'' operator cast. Used when simple constructor-like cast is needed in C++.'
 type: docs
-weight: 30400
+weight: 12700
 url: /cpp/system/ascast/
 ---
 ## System::AsCast(const Source\&) method

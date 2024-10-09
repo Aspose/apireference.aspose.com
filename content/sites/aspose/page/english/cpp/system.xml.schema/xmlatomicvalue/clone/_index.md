@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlAtomicValue::Clone method. Returns a copy of this XmlAtomicValue object in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/system.xml.schema/xmlatomicvalue/clone/
 ---
 ## XmlAtomicValue::Clone method

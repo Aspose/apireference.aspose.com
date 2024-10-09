@@ -4,7 +4,7 @@ linktitle: set_Size
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::XpsConverterToImageOptions::set_Size method. Gets/sets the size of the resulting image in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.page.plugins/xpsconvertertoimageoptions/set_size/
 ---
 ## XpsConverterToImageOptions::set_Size method

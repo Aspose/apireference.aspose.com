@@ -4,7 +4,7 @@ linktitle: GetResponse
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::GetResponse method. Returns the web response associated with the current web request in C++.'
 type: docs
-weight: 3700
+weight: 2700
 url: /cpp/system.net/webrequest/getresponse/
 ---
 ## WebRequest::GetResponse method

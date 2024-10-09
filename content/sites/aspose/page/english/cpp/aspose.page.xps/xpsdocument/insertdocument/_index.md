@@ -4,7 +4,7 @@ linktitle: InsertDocument
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::InsertDocument method. Inserts an empty document with default page size at index  position in C++.'
 type: docs
-weight: 2800
+weight: 4300
 url: /cpp/aspose.page.xps/xpsdocument/insertdocument/
 ---
 ## XpsDocument::InsertDocument(int32_t, bool) method

@@ -4,7 +4,7 @@ linktitle: Seek
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::Seek method. Seeks position in stream. Not supported in C++.'
 type: docs
-weight: 500
+weight: 1100
 url: /cpp/system.security.cryptography/cryptostream/seek/
 ---
 ## CryptoStream::Seek method

@@ -2,65 +2,11 @@
 title: System::Xml::XmlWriter::Create method
 linktitle: Create
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlWriter::Create method. Creates a new XmlWriter instance using the specified filename in C++.'
+description: 'System::Xml::XmlWriter::Create method. Creates a new XmlWriter instance using the specified stream in C++.'
 type: docs
 weight: 3700
 url: /cpp/system.xml/xmlwriter/create/
 ---
-## XmlWriter::Create(const String\&) method
-
-
-Creates a new [XmlWriter](../) instance using the specified filename.
-
-```cpp
-static SharedPtr<XmlWriter> System::Xml::XmlWriter::Create(const String &outputFileName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | const String\& | The file to which you want to write. The [XmlWriter](../) creates a file at the specified path and writes to it in XML 1.0 text syntax. The **outputFileName** must be a file system path. |
-
-### ReturnValue
-
-An [XmlWriter](../) object.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../)
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlWriter::Create(const String\&, SharedPtr\<XmlWriterSettings\>) method
-
-
-Creates a new [XmlWriter](../) instance using the filename and [XmlWriterSettings](../../xmlwritersettings/) object.
-
-```cpp
-static SharedPtr<XmlWriter> System::Xml::XmlWriter::Create(const String &outputFileName, SharedPtr<XmlWriterSettings> settings)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | const String\& | The file to which you want to write. The [XmlWriter](../) creates a file at the specified path and writes to it in XML 1.0 text syntax. The **outputFileName** must be a file system path. |
-| settings | SharedPtr\<XmlWriterSettings\> | The [XmlWriterSettings](../../xmlwritersettings/) object used to configure the new [XmlWriter](../) instance. If this is **nullptr**, a [XmlWriterSettings](../../xmlwritersettings/) with default settings is used. If the [XmlWriter](../) is being used with the XslCompiledTransform:Transform(String,SharedPtr<XmlWriter>) method, you should use the XslCompiledTransform::get_OutputSettings value to obtain an [XmlWriterSettings](../../xmlwritersettings/) object with the correct settings. This ensures that the created [XmlWriter](../) object has the correct output settings. |
-
-### ReturnValue
-
-An [XmlWriter](../) object.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../)
-* Class [String](../../../system/string/)
-* Class [XmlWriterSettings](../../xmlwritersettings/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlWriter::Create(const SharedPtr\<IO::Stream\>\&) method
 
 
@@ -271,6 +217,60 @@ An [XmlWriter](../) object that is wrapped around the specified [XmlWriter](../)
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../)
+* Class [XmlWriterSettings](../../xmlwritersettings/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlWriter::Create(const String\&) method
+
+
+Creates a new [XmlWriter](../) instance using the specified filename.
+
+```cpp
+static SharedPtr<XmlWriter> System::Xml::XmlWriter::Create(const String &outputFileName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | const String\& | The file to which you want to write. The [XmlWriter](../) creates a file at the specified path and writes to it in XML 1.0 text syntax. The **outputFileName** must be a file system path. |
+
+### ReturnValue
+
+An [XmlWriter](../) object.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../)
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlWriter::Create(const String\&, SharedPtr\<XmlWriterSettings\>) method
+
+
+Creates a new [XmlWriter](../) instance using the filename and [XmlWriterSettings](../../xmlwritersettings/) object.
+
+```cpp
+static SharedPtr<XmlWriter> System::Xml::XmlWriter::Create(const String &outputFileName, SharedPtr<XmlWriterSettings> settings)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | const String\& | The file to which you want to write. The [XmlWriter](../) creates a file at the specified path and writes to it in XML 1.0 text syntax. The **outputFileName** must be a file system path. |
+| settings | SharedPtr\<XmlWriterSettings\> | The [XmlWriterSettings](../../xmlwritersettings/) object used to configure the new [XmlWriter](../) instance. If this is **nullptr**, a [XmlWriterSettings](../../xmlwritersettings/) with default settings is used. If the [XmlWriter](../) is being used with the XslCompiledTransform:Transform(String,SharedPtr<XmlWriter>) method, you should use the XslCompiledTransform::get_OutputSettings value to obtain an [XmlWriterSettings](../../xmlwritersettings/) object with the correct settings. This ensures that the created [XmlWriter](../) object has the correct output settings. |
+
+### ReturnValue
+
+An [XmlWriter](../) object.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../)
+* Class [String](../../../system/string/)
 * Class [XmlWriterSettings](../../xmlwritersettings/)
 * Class [XmlWriter](../)
 * Namespace [System::Xml](../../)

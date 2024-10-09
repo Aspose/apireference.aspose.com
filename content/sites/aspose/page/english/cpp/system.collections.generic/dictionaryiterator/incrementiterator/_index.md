@@ -4,7 +4,7 @@ linktitle: IncrementIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::DictionaryIterator::IncrementIterator method. Moves the iterator step forward in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.collections.generic/dictionaryiterator/incrementiterator/
 ---
 ## DictionaryIterator::IncrementIterator method

@@ -4,7 +4,7 @@ linktitle: get_Target
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlProcessingInstruction::get_Target method. Returns the target of the processing instruction in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.xml/xmlprocessinginstruction/get_target/
 ---
 ## XmlProcessingInstruction::get_Target method

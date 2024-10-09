@@ -4,7 +4,7 @@ linktitle: EndGetRequestStream
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::EndGetRequestStream method. Waits until the specified asynchronous operation to get a stream completes in C++.'
 type: docs
-weight: 3800
+weight: 600
 url: /cpp/system.net/httpwebrequest/endgetrequeststream/
 ---
 ## HttpWebRequest::EndGetRequestStream method

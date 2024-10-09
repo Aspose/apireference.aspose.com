@@ -4,7 +4,7 @@ linktitle: TryGetValues
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::TryGetValues method. Tries to get corresponding values by the specified name in C++.'
 type: docs
-weight: 600
+weight: 1900
 url: /cpp/system.net.http.headers/httpheaders/trygetvalues/
 ---
 ## HttpHeaders::TryGetValues method

@@ -4,7 +4,7 @@ linktitle: get_LemonChiffon
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LemonChiffon method. Gets a system-defined color that has an ARGB value of #FFFFFACD in C++.'
 type: docs
-weight: 6400
+weight: 6500
 url: /cpp/aspose.page.drawing/color/get_lemonchiffon/
 ---
 ## Color::get_LemonChiffon method

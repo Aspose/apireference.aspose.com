@@ -4,7 +4,7 @@ linktitle: get_GradientStops
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGradientBrush::get_GradientStops method. Returns/sets list of gradient stops that comprise the gradient in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpsgradientbrush/get_gradientstops/
 ---
 ## XpsGradientBrush::get_GradientStops method

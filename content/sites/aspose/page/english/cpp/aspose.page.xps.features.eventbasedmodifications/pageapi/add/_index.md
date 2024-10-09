@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::Add method. Adds a content element (Canvas, Path, or Glyphs) in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/add/
 ---
 ## PageAPI::Add method

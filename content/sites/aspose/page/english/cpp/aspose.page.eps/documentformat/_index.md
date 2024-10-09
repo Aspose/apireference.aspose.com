@@ -4,7 +4,7 @@ linktitle: DocumentFormat
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::DocumentFormat enum. Enumerates source file formats to convert (if not PS) into PS before creating PS document in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.page.eps/documentformat/
 ---
 ## DocumentFormat enum

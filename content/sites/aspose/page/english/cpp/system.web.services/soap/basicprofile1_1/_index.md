@@ -4,7 +4,7 @@ linktitle: BasicProfile1_1
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::BasicProfile1_1 field. The conformance claim URI in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.web.services/soap/basicprofile1_1/
 ---
 ## BasicProfile1_1 field

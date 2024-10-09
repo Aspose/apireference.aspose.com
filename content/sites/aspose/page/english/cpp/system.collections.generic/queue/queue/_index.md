@@ -21,25 +21,6 @@ System::Collections::Generic::Queue<T>::Queue()
 * Class [Queue](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## Queue::Queue(int) constructor
-
-
-Constructs empty queue.
-
-```cpp
-System::Collections::Generic::Queue<T>::Queue(int capacity)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| capacity | int | Number of elements to reserve. |
-
-## See Also
-
-* Class [Queue](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Queue::Queue(const SharedPtr\<IEnumerable\<T\>\>\&) constructor
 
 
@@ -58,6 +39,25 @@ System::Collections::Generic::Queue<T>::Queue(const SharedPtr<IEnumerable<T>> &i
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerable](../../ienumerable/)
+* Class [Queue](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## Queue::Queue(int) constructor
+
+
+Constructs empty queue.
+
+```cpp
+System::Collections::Generic::Queue<T>::Queue(int capacity)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| capacity | int | Number of elements to reserve. |
+
+## See Also
+
 * Class [Queue](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: get_IsEmptyElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_IsEmptyElement method. Returns a value indicating whether the current node is an empty element (for example, <MyElement/>) in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/system.xml/xmlvalidatingreader/get_isemptyelement/
 ---
 ## XmlValidatingReader::get_IsEmptyElement method

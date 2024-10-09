@@ -4,7 +4,7 @@ linktitle: InsertPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::InsertPath method. Inserts a new path to the active page at index  position in C++.'
 type: docs
-weight: 3900
+weight: 4600
 url: /cpp/aspose.page.xps/xpsdocument/insertpath/
 ---
 ## XpsDocument::InsertPath method

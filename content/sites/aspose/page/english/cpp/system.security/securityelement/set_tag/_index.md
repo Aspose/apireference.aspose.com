@@ -4,7 +4,7 @@ linktitle: set_Tag
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::set_Tag method. Sets tag name in C++.'
 type: docs
-weight: 700
+weight: 1500
 url: /cpp/system.security/securityelement/set_tag/
 ---
 ## SecurityElement::set_Tag method

@@ -4,7 +4,7 @@ linktitle: set_GradientOrigin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsRadialGradientBrush::set_GradientOrigin method. Returns/sets the origin point of the radial gradient in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.page.xps.xpsmodel/xpsradialgradientbrush/set_gradientorigin/
 ---
 ## XpsRadialGradientBrush::set_GradientOrigin method

@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::CompareTo method. Compares two DateTimeOffset objects in C++.'
 type: docs
-weight: 2800
+weight: 1100
 url: /cpp/system/datetimeoffset/compareto/
 ---
 ## DateTimeOffset::CompareTo(const DateTimeOffset\&) const method

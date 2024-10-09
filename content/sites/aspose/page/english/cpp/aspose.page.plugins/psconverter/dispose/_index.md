@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverter::Dispose method. Implementation of IDisposable in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.plugins/psconverter/dispose/
 ---
 ## PsConverter::Dispose method

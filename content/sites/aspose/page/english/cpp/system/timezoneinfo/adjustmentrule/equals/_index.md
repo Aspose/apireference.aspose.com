@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'How to use Equals method of System::TimeZoneInfo::AdjustmentRule class in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/system/timezoneinfo/adjustmentrule/equals/
 ---
 ## AdjustmentRule::Equals method

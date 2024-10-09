@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'How to use Add method of Aspose::Page::EPS::Device::PdfCanvas class in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.page.eps.device/pdfcanvas/add/
 ---
 ## PdfCanvas::Add method

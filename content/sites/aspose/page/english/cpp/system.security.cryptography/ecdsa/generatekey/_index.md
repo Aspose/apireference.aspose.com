@@ -4,7 +4,7 @@ linktitle: GenerateKey
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ECDsa::GenerateKey method. Generates a new public/private key pair for the specified curve in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.security.cryptography/ecdsa/generatekey/
 ---
 ## ECDsa::GenerateKey method

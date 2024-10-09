@@ -4,7 +4,7 @@ linktitle: PrintBoth
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobPrimaryCoverBack::CoverBackOption::PrintBoth field. Specifies the cover indicated by "CoverBackSource" may be printed on either sides of the cover sheet. If a JobPrimaryCoverBackSourceParameterInit element is not specified, this Option should be ignored in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.page.xps.xpsmetadata/jobprimarycoverback/coverbackoption/printboth/
 ---
 ## PrintBoth field

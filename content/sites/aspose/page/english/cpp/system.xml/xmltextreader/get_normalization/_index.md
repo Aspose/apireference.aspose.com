@@ -4,7 +4,7 @@ linktitle: get_Normalization
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::get_Normalization method. Returns a value indicating whether to normalize white space and attribute values in C++.'
 type: docs
-weight: 2600
+weight: 2400
 url: /cpp/system.xml/xmltextreader/get_normalization/
 ---
 ## XmlTextReader::get_Normalization method

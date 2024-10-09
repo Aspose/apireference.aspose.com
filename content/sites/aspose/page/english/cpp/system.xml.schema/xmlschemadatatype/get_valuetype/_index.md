@@ -4,7 +4,7 @@ linktitle: get_ValueType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDatatype::get_ValueType method. When overridden in a derived class, gets the type of the item in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml.schema/xmlschemadatatype/get_valuetype/
 ---
 ## XmlSchemaDatatype::get_ValueType method

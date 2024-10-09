@@ -4,7 +4,7 @@ linktitle: get_ForestGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_ForestGreen method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF228B22 in C++.'
 type: docs
-weight: 4600
+weight: 4500
 url: /cpp/system.drawing/pens/get_forestgreen/
 ---
 ## Pens::get_ForestGreen method

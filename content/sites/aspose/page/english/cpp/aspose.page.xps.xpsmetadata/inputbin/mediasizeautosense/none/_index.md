@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::InputBin::MediaSizeAutoSense::None field. None value in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/inputbin/mediasizeautosense/none/
 ---
 ## None field

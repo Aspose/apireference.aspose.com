@@ -4,7 +4,7 @@ linktitle: get_InvariantCultureIgnoreCase
 second_title: Aspose.Page for C++
 description: 'System::StringComparer::get_InvariantCultureIgnoreCase method. Invariant culture case-ignoring comparer singleton in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system/stringcomparer/get_invariantcultureignorecase/
 ---
 ## StringComparer::get_InvariantCultureIgnoreCase method

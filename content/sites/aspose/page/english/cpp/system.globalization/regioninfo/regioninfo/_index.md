@@ -2,11 +2,26 @@
 title: System::Globalization::RegionInfo::RegionInfo constructor
 linktitle: RegionInfo
 second_title: Aspose.Page for C++
-description: 'System::Globalization::RegionInfo::RegionInfo constructor. RTTI information in C++.'
+description: 'How to use RegionInfo constructor of System::Globalization::RegionInfo class in C++.'
 type: docs
 weight: 100
 url: /cpp/system.globalization/regioninfo/regioninfo/
 ---
+## RegionInfo::RegionInfo(const RegionInfo\&) constructor
+
+
+
+
+```cpp
+System::Globalization::RegionInfo::RegionInfo(const RegionInfo &)=delete
+```
+
+## See Also
+
+* Class [RegionInfo](../)
+* Class [RegionInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## RegionInfo::RegionInfo(const String\&) constructor
 
 
@@ -46,21 +61,6 @@ System::Globalization::RegionInfo::RegionInfo(int culture)
 
 ## See Also
 
-* Class [RegionInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## RegionInfo::RegionInfo(const RegionInfo\&) constructor
-
-
-
-
-```cpp
-System::Globalization::RegionInfo::RegionInfo(const RegionInfo &)=delete
-```
-
-## See Also
-
-* Class [RegionInfo](../)
 * Class [RegionInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.Page for C++](../../../)

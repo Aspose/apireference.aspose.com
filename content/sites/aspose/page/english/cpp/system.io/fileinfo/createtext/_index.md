@@ -4,7 +4,7 @@ linktitle: CreateText
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::CreateText method. Creates a file at the location specified by the path represented by the current object and opens it for writing text using UTF-8 encoding with no sharing in C++.'
 type: docs
-weight: 2000
+weight: 500
 url: /cpp/system.io/fileinfo/createtext/
 ---
 ## FileInfo::CreateText method

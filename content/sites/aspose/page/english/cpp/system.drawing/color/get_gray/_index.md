@@ -4,7 +4,7 @@ linktitle: get_Gray
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Gray method. Returns a color whose ARGB value in hexadecimal notation is #FF808080 in C++.'
 type: docs
-weight: 7300
+weight: 7200
 url: /cpp/system.drawing/color/get_gray/
 ---
 ## Color::get_Gray method

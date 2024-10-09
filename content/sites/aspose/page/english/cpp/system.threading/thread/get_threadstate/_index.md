@@ -4,7 +4,7 @@ linktitle: get_ThreadState
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::get_ThreadState method. Gets thread state in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/system.threading/thread/get_threadstate/
 ---
 ## Thread::get_ThreadState method

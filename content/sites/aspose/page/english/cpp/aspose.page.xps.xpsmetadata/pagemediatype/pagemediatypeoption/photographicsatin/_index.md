@@ -4,7 +4,7 @@ linktitle: PhotographicSatin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::PhotographicSatin field. Specifies satin photographic media in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/photographicsatin/
 ---
 ## PhotographicSatin field

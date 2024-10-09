@@ -4,7 +4,7 @@ linktitle: SetLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::SetLength method. Sets the length of the stream represented by the current object in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/system.net.sockets/networkstream/setlength/
 ---
 ## NetworkStream::SetLength method

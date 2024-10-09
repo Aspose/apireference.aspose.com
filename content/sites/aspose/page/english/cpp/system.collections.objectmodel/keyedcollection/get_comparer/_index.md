@@ -4,7 +4,7 @@ linktitle: get_Comparer
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::KeyedCollection::get_Comparer method. Gets comparer in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.collections.objectmodel/keyedcollection/get_comparer/
 ---
 ## KeyedCollection::get_Comparer method

@@ -4,7 +4,7 @@ linktitle: get_StatusCode
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpResponseMessage::get_StatusCode method. Gets the HTTP status code in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.net.http/httpresponsemessage/get_statuscode/
 ---
 ## HttpResponseMessage::get_StatusCode method

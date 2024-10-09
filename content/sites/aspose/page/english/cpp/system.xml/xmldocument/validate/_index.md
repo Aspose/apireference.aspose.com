@@ -4,7 +4,7 @@ linktitle: Validate
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::Validate method. Validates the XmlDocument against the XML Schema Definition Language (XSD) schemas contained in the XmlDocument::get_Schemas list in C++.'
 type: docs
-weight: 4500
+weight: 4300
 url: /cpp/system.xml/xmldocument/validate/
 ---
 ## XmlDocument::Validate(Schema::ValidationEventHandler) method

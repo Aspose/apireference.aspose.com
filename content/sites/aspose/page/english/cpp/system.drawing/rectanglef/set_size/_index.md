@@ -4,7 +4,7 @@ linktitle: set_Size
 second_title: Aspose.Page for C++
 description: 'System::Drawing::RectangleF::set_Size method. Sets the width and height of the rectangle represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 2400
 url: /cpp/system.drawing/rectanglef/set_size/
 ---
 ## RectangleF::set_Size method

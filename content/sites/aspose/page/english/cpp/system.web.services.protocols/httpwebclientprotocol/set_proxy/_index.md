@@ -4,7 +4,7 @@ linktitle: set_Proxy
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::HttpWebClientProtocol::set_Proxy method. Sets proxy information in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_proxy/
 ---
 ## HttpWebClientProtocol::set_Proxy method

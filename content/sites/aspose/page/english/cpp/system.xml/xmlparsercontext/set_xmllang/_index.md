@@ -4,7 +4,7 @@ linktitle: set_XmlLang
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::set_XmlLang method. Sets the current xml:lang scope in C++.'
 type: docs
-weight: 1600
+weight: 2000
 url: /cpp/system.xml/xmlparsercontext/set_xmllang/
 ---
 ## XmlParserContext::set_XmlLang method

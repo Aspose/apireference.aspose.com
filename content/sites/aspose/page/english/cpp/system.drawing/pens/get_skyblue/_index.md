@@ -4,7 +4,7 @@ linktitle: get_SkyBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_SkyBlue method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF87CEEB in C++.'
 type: docs
-weight: 12500
+weight: 12400
 url: /cpp/system.drawing/pens/get_skyblue/
 ---
 ## Pens::get_SkyBlue method

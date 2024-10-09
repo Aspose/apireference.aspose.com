@@ -4,7 +4,7 @@ linktitle: set_IssuerName
 second_title: Aspose.Page for C++
 description: 'How to use set_IssuerName method of System::Security::Cryptography::Xml::X509IssuerSerial class in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.security.cryptography.xml/x509issuerserial/set_issuername/
 ---
 ## X509IssuerSerial::set_IssuerName method

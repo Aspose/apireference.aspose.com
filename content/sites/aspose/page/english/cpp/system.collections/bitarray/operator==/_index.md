@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::operator== method. Bitwise comparison operator in C++.'
 type: docs
-weight: 2100
+weight: 1600
 url: /cpp/system.collections/bitarray/operator==/
 ---
 ## BitArray::operator== method

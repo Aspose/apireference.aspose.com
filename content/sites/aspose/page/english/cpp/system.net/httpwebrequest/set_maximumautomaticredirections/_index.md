@@ -4,7 +4,7 @@ linktitle: set_MaximumAutomaticRedirections
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_MaximumAutomaticRedirections method. Sets a maximum number of allowed redirections in C++.'
 type: docs
-weight: 3200
+weight: 4900
 url: /cpp/system.net/httpwebrequest/set_maximumautomaticredirections/
 ---
 ## HttpWebRequest::set_MaximumAutomaticRedirections method

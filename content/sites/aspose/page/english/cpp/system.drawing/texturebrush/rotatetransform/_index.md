@@ -4,7 +4,7 @@ linktitle: RotateTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::TextureBrush::RotateTransform method. Rotates the local geometric transformation by the specified angle in the specified order in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.drawing/texturebrush/rotatetransform/
 ---
 ## TextureBrush::RotateTransform method

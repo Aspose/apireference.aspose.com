@@ -4,7 +4,7 @@ linktitle: LocalCertificateSelectionCallback
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::LocalCertificateSelectionCallback typedef. A user delegate used to select local SSL certificate in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.net.security/localcertificateselectioncallback/
 ---
 ## LocalCertificateSelectionCallback typedef

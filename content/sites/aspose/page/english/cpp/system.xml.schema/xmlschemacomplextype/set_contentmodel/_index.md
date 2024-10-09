@@ -4,7 +4,7 @@ linktitle: set_ContentModel
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::set_ContentModel method. Sets the post-compilation XmlSchemaContentModel of this complex type in C++.'
 type: docs
-weight: 800
+weight: 1600
 url: /cpp/system.xml.schema/xmlschemacomplextype/set_contentmodel/
 ---
 ## XmlSchemaComplexType::set_ContentModel method

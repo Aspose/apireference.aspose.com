@@ -4,7 +4,7 @@ linktitle: WriteNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteNode method. When overridden in a derived class, copies everything from the reader to the writer and moves the reader to the start of the next sibling in C++.'
 type: docs
-weight: 3400
+weight: 2600
 url: /cpp/system.xml/xmlwriter/writenode/
 ---
 ## XmlWriter::WriteNode(SharedPtr\<XmlReader\>, bool) method

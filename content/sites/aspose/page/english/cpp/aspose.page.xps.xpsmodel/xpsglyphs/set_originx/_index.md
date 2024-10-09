@@ -4,7 +4,7 @@ linktitle: set_OriginX
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs::set_OriginX method. Returns/sets the x coordinate of the first glyph in the run, in units of the effective coordinate space in C++.'
 type: docs
-weight: 900
+weight: 1700
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/set_originx/
 ---
 ## XpsGlyphs::set_OriginX method

@@ -4,7 +4,7 @@ linktitle: get_Green
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Green method. Gets a system-defined color that has an ARGB value of #FF008000 in C++.'
 type: docs
-weight: 5300
+weight: 5400
 url: /cpp/aspose.page.drawing/color/get_green/
 ---
 ## Color::get_Green method

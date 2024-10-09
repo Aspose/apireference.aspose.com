@@ -4,7 +4,7 @@ linktitle: GetMonthGenitiveName
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::GetMonthGenitiveName method. Gets genitive month name in C++.'
 type: docs
-weight: 5700
+weight: 3800
 url: /cpp/system.globalization/datetimeformatinfo/getmonthgenitivename/
 ---
 ## DateTimeFormatInfo::GetMonthGenitiveName method

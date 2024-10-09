@@ -4,7 +4,7 @@ linktitle: set_Client
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::UdpClient::set_Client method. Used to provide the underlying network socket in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.net.sockets/udpclient/set_client/
 ---
 ## UdpClient::set_Client method

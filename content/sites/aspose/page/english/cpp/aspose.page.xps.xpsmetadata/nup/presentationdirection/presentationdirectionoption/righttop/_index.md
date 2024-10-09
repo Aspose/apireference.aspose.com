@@ -4,7 +4,7 @@ linktitle: RightTop
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::NUp::PresentationDirection::PresentationDirectionOption::RightTop field. Specifies left to right, bottom to top in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.page.xps.xpsmetadata/nup/presentationdirection/presentationdirectionoption/righttop/
 ---
 ## RightTop field

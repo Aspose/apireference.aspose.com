@@ -4,7 +4,7 @@ linktitle: CreateImageBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateImageBrush method. Creates a new image brush in C++.'
 type: docs
-weight: 3300
+weight: 1100
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createimagebrush/
 ---
 ## PageAPI::CreateImageBrush(System::SharedPtr\<Aspose::Page::XPS::XpsModel::XpsImage\>, System::Drawing::RectangleF, System::Drawing::RectangleF) method

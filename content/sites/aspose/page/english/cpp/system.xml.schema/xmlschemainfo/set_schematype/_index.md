@@ -4,7 +4,7 @@ linktitle: set_SchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::set_SchemaType method. Sets the static XML Schema Definition Language (XSD) schema type of this validated XML node in C++.'
 type: docs
-weight: 1000
+weight: 1600
 url: /cpp/system.xml.schema/xmlschemainfo/set_schematype/
 ---
 ## XmlSchemaInfo::set_SchemaType method

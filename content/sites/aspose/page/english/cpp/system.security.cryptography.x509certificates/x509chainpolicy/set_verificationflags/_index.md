@@ -4,7 +4,7 @@ linktitle: set_VerificationFlags
 second_title: Aspose.Page for C++
 description: 'How to use set_VerificationFlags method of System::Security::Cryptography::X509Certificates::X509ChainPolicy class in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_verificationflags/
 ---
 ## X509ChainPolicy::set_VerificationFlags method

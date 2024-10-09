@@ -4,7 +4,7 @@ linktitle: FromUnixTimeMilliseconds
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::FromUnixTimeMilliseconds method. Convert Unix-time to DateTimeOffset object in C++.'
 type: docs
-weight: 5300
+weight: 5100
 url: /cpp/system/datetimeoffset/fromunixtimemilliseconds/
 ---
 ## DateTimeOffset::FromUnixTimeMilliseconds method

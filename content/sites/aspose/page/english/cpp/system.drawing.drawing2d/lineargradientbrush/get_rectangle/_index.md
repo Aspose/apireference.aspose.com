@@ -4,7 +4,7 @@ linktitle: get_Rectangle
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::get_Rectangle method. Returns a bounding rectangle in C++.'
 type: docs
-weight: 1600
+weight: 700
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/get_rectangle/
 ---
 ## LinearGradientBrush::get_Rectangle method

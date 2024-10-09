@@ -4,7 +4,7 @@ linktitle: get_StandardOutput
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Process::get_StandardOutput method. Provides reader to read from process standard output. Not implemented in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.diagnostics/process/get_standardoutput/
 ---
 ## Process::get_StandardOutput method

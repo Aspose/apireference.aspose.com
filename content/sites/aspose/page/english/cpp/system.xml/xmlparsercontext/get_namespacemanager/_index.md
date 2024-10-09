@@ -4,7 +4,7 @@ linktitle: get_NamespaceManager
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::get_NamespaceManager method. Returns the XmlNamespaceManager in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.xml/xmlparsercontext/get_namespacemanager/
 ---
 ## XmlParserContext::get_NamespaceManager method

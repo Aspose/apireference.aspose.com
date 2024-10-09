@@ -4,7 +4,7 @@ linktitle: Skip
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::Skip method. Skips the children of the current node in C++.'
 type: docs
-weight: 3000
+weight: 3800
 url: /cpp/system.xml/xmlnodereader/skip/
 ---
 ## XmlNodeReader::Skip method

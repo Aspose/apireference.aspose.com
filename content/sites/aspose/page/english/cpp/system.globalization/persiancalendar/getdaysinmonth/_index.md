@@ -2,11 +2,25 @@
 title: System::Globalization::PersianCalendar::GetDaysInMonth method
 linktitle: GetDaysInMonth
 second_title: Aspose.Page for C++
-description: 'System::Globalization::PersianCalendar::GetDaysInMonth method. Gets number of days in specific month in C++.'
+description: 'System::Globalization::PersianCalendar::GetDaysInMonth method. RTTI information in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.globalization/persiancalendar/getdaysinmonth/
 ---
+## PersianCalendar::GetDaysInMonth(int, int) const method
+
+
+RTTI information.
+
+```cpp
+virtual int System::Globalization::Calendar::GetDaysInMonth(int year, int month) const
+```
+
+## See Also
+
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## PersianCalendar::GetDaysInMonth(int, int, int) const method
 
 
@@ -26,20 +40,6 @@ int System::Globalization::PersianCalendar::GetDaysInMonth(int year, int month, 
 ### ReturnValue
 
 Number of days in specified month of specified year of specified era.
-
-## See Also
-
-* Class [PersianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## PersianCalendar::GetDaysInMonth(int, int) const method
-
-
-RTTI information.
-
-```cpp
-virtual int System::Globalization::Calendar::GetDaysInMonth(int year, int month) const
-```
 
 ## See Also
 

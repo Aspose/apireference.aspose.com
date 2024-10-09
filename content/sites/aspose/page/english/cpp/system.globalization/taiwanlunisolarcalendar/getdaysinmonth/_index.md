@@ -4,9 +4,33 @@ linktitle: GetDaysInMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TaiwanLunisolarCalendar::GetDaysInMonth method. Gets number of days in specific month in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.globalization/taiwanlunisolarcalendar/getdaysinmonth/
 ---
+## TaiwanLunisolarCalendar::GetDaysInMonth(int, int) const method
+
+
+Gets number of days in specific month.
+
+```cpp
+virtual int System::Globalization::Calendar::GetDaysInMonth(int year, int month) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year. |
+| month | int | Month to get number of days in. |
+
+### ReturnValue
+
+Number of days in specified month of specified year.
+
+## See Also
+
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TaiwanLunisolarCalendar::GetDaysInMonth(int, int, int) const method
 
 
@@ -26,30 +50,6 @@ int System::Globalization::TaiwanLunisolarCalendar::GetDaysInMonth(int year, int
 ### ReturnValue
 
 Number of days in specified month of specified year of specified era.
-
-## See Also
-
-* Class [TaiwanLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## TaiwanLunisolarCalendar::GetDaysInMonth(int, int) const method
-
-
-Gets number of days in specific month.
-
-```cpp
-virtual int System::Globalization::Calendar::GetDaysInMonth(int year, int month) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year. |
-| month | int | Month to get number of days in. |
-
-### ReturnValue
-
-Number of days in specified month of specified year.
 
 ## See Also
 

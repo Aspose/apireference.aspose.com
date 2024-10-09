@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseKVCollection::CopyTo method. Copies data to existing array elements in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.collections.generic/basekvcollection/copyto/
 ---
 ## BaseKVCollection::CopyTo method

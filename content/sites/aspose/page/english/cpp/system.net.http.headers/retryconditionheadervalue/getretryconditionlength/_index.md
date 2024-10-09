@@ -4,7 +4,7 @@ linktitle: GetRetryConditionLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::RetryConditionHeaderValue::GetRetryConditionLength method. Converts a passed string from the specified index to an instance of the RetryConditionHeaderValue class in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.net.http.headers/retryconditionheadervalue/getretryconditionlength/
 ---
 ## RetryConditionHeaderValue::GetRetryConditionLength method

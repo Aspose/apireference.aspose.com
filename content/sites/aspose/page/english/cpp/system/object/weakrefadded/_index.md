@@ -4,7 +4,7 @@ linktitle: WeakRefAdded
 second_title: Aspose.Page for C++
 description: 'System::Object::WeakRefAdded method. Increments weak reference count. Shouldn''t be called directly; instead, use smart pointers or ThisProtector in C++.'
 type: docs
-weight: 700
+weight: 2000
 url: /cpp/system/object/weakrefadded/
 ---
 ## Object::WeakRefAdded method

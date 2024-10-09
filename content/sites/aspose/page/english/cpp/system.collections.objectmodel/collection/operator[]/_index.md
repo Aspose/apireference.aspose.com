@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::operator[] method. Gets value at specified index in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system.collections.objectmodel/collection/operator[]/
 ---
 ## Collection::operator[](int) method

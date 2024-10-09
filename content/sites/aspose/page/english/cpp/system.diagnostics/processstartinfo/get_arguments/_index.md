@@ -4,7 +4,7 @@ linktitle: get_Arguments
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::ProcessStartInfo::get_Arguments method. Gets process arguments in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.diagnostics/processstartinfo/get_arguments/
 ---
 ## ProcessStartInfo::get_Arguments method

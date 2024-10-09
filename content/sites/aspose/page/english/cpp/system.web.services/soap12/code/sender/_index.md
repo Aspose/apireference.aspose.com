@@ -4,7 +4,7 @@ linktitle: Sender
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Code::Sender field. The string representation of the ''Sender'' SOAP version 1.2 code in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.web.services/soap12/code/sender/
 ---
 ## Sender field

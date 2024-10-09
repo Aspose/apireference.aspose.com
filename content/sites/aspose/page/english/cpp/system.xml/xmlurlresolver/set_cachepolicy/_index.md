@@ -4,7 +4,7 @@ linktitle: set_CachePolicy
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlUrlResolver::set_CachePolicy method. Sets the cache policy for the underlying WebRequest object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml/xmlurlresolver/set_cachepolicy/
 ---
 ## XmlUrlResolver::set_CachePolicy method

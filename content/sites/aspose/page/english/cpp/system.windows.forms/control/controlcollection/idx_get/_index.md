@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::idx_get method. By-index accessor in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/system.windows.forms/control/controlcollection/idx_get/
 ---
 ## ControlCollection::idx_get(int) const method

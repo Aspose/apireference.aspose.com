@@ -4,7 +4,7 @@ linktitle: operator%=
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator%= method. Assigns to the current object a new value that is the result of modulo operation with the values represented by the current and the specified objects in C++.'
 type: docs
-weight: 2400
+weight: 1200
 url: /cpp/system/decimal/operator%=/
 ---
 ## Decimal::operator%= method

@@ -4,7 +4,7 @@ linktitle: MoveToFirstAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToFirstAttribute method. When overridden in a derived class, moves the XPathNavigator to the first attribute of the current node in C++.'
 type: docs
-weight: 4000
+weight: 5400
 url: /cpp/system.xml.xpath/xpathnavigator/movetofirstattribute/
 ---
 ## XPathNavigator::MoveToFirstAttribute method

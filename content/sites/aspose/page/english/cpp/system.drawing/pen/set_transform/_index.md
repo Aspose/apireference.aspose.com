@@ -4,7 +4,7 @@ linktitle: set_Transform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_Transform method. Sets a Matrix object that specifies the geometrical transformations for the pen represneted by the current object in C++.'
 type: docs
-weight: 2500
+weight: 3700
 url: /cpp/system.drawing/pen/set_transform/
 ---
 ## Pen::set_Transform method

@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsString method. Reads the current element and returns the contents as a String object in C++.'
 type: docs
-weight: 4500
+weight: 6300
 url: /cpp/system.xml/xmlreader/readelementcontentasstring/
 ---
 ## XmlReader::ReadElementContentAsString() method

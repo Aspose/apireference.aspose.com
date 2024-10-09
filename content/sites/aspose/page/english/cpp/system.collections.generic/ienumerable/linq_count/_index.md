@@ -4,7 +4,7 @@ linktitle: LINQ_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerable::LINQ_Count method. Returns the number of elements in the sequence (calculated via direct counting) in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/system.collections.generic/ienumerable/linq_count/
 ---
 ## IEnumerable::LINQ_Count() method

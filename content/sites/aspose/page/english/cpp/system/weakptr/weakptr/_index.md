@@ -2,65 +2,11 @@
 title: System::WeakPtr::WeakPtr constructor
 linktitle: WeakPtr
 second_title: Aspose.Page for C++
-description: 'System::WeakPtr::WeakPtr constructor. Creates null pointer in C++.'
+description: 'System::WeakPtr::WeakPtr constructor. Creates weak pointer referencing same pointer x points to in C++.'
 type: docs
 weight: 100
 url: /cpp/system/weakptr/weakptr/
 ---
-## WeakPtr::WeakPtr(std::nullptr_t) constructor
-
-
-Creates null pointer.
-
-```cpp
-System::WeakPtr<T>::WeakPtr(std::nullptr_t=nullptr)
-```
-
-## See Also
-
-* Class [WeakPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## WeakPtr::WeakPtr(Pointee_ *) constructor
-
-
-Creates weak pointer to given object.
-
-```cpp
-System::WeakPtr<T>::WeakPtr(Pointee_ *object)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| object | Pointee_ * | [Object](../../object/) to create weak pointer to. |
-
-## See Also
-
-* Typedef [Pointee_](../pointee_/)
-* Class [WeakPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## WeakPtr::WeakPtr(const SmartPtr_\&) constructor
-
-
-Creates weak pointer referencing same pointer ptr points to.
-
-```cpp
-System::WeakPtr<T>::WeakPtr(const SmartPtr_ &ptr)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| ptr | const SmartPtr_\& | Pointer to copy pointee value from. |
-
-## See Also
-
-* Typedef [SmartPtr_](../smartptr_/)
-* Class [WeakPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## WeakPtr::WeakPtr(const SmartPtr\<Q\>\&) constructor
 
 
@@ -85,23 +31,23 @@ template<class Q,typename> System::WeakPtr<T>::WeakPtr(const SmartPtr<Q> &x)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## WeakPtr::WeakPtr(const WeakPtr_\&) constructor
+## WeakPtr::WeakPtr(const SmartPtr_\&) constructor
 
 
-Copy-constructs weak pointer.
+Creates weak pointer referencing same pointer ptr points to.
 
 ```cpp
-System::WeakPtr<T>::WeakPtr(const WeakPtr_ &ptr)
+System::WeakPtr<T>::WeakPtr(const SmartPtr_ &ptr)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | const WeakPtr_\& | Pointer to copy pointee value from. |
+| ptr | const SmartPtr_\& | Pointer to copy pointee value from. |
 
 ## See Also
 
-* Typedef [WeakPtr_](../weakptr_/)
+* Typedef [SmartPtr_](../smartptr_/)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -129,6 +75,46 @@ template<class Q,typename> System::WeakPtr<T>::WeakPtr(const WeakPtr<Q> &x)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## WeakPtr::WeakPtr(const WeakPtr_\&) constructor
+
+
+Copy-constructs weak pointer.
+
+```cpp
+System::WeakPtr<T>::WeakPtr(const WeakPtr_ &ptr)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ptr | const WeakPtr_\& | Pointer to copy pointee value from. |
+
+## See Also
+
+* Typedef [WeakPtr_](../weakptr_/)
+* Class [WeakPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## WeakPtr::WeakPtr(Pointee_ *) constructor
+
+
+Creates weak pointer to given object.
+
+```cpp
+System::WeakPtr<T>::WeakPtr(Pointee_ *object)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| object | Pointee_ * | [Object](../../object/) to create weak pointer to. |
+
+## See Also
+
+* Typedef [Pointee_](../pointee_/)
+* Class [WeakPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## WeakPtr::WeakPtr(SmartPtr_\&&) constructor
 
 
@@ -146,6 +132,20 @@ System::WeakPtr<T>::WeakPtr(SmartPtr_ &&x)
 ## See Also
 
 * Typedef [SmartPtr_](../smartptr_/)
+* Class [WeakPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## WeakPtr::WeakPtr(std::nullptr_t) constructor
+
+
+Creates null pointer.
+
+```cpp
+System::WeakPtr<T>::WeakPtr(std::nullptr_t=nullptr)
+```
+
+## See Also
+
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

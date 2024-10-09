@@ -4,7 +4,7 @@ linktitle: get_RemoteCertificate
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::get_RemoteCertificate method. Returns the certificate that is used to authenticate the remote endpoint in C++.'
 type: docs
-weight: 900
+weight: 2900
 url: /cpp/system.net.security/sslstream/get_remotecertificate/
 ---
 ## SslStream::get_RemoteCertificate method

@@ -4,7 +4,7 @@ linktitle: get_AlgorithmType
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HebrewCalendar::get_AlgorithmType method. Gets algorithm type in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.globalization/hebrewcalendar/get_algorithmtype/
 ---
 ## HebrewCalendar::get_AlgorithmType method

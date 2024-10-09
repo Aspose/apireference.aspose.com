@@ -4,7 +4,7 @@ linktitle: set_UserName
 second_title: Aspose.Page for C++
 description: 'System::Net::NetworkCredential::set_UserName method. Sets the username in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.net/networkcredential/set_username/
 ---
 ## NetworkCredential::set_UserName method

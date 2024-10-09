@@ -4,7 +4,7 @@ linktitle: BeginResolve
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::BeginResolve method. Initiates an asynchronous operation to create a new IPHostEntry-class instance using the specified host name in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/system.net/dns/beginresolve/
 ---
 ## Dns::BeginResolve method

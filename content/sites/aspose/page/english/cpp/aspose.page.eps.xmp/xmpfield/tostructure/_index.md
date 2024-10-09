@@ -4,7 +4,7 @@ linktitle: ToStructure
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField::ToStructure method. Gets value as a structure in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.page.eps.xmp/xmpfield/tostructure/
 ---
 ## XmpField::ToStructure method

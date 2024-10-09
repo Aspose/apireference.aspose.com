@@ -4,7 +4,7 @@ linktitle: get_PercentGroupSizes
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_PercentGroupSizes method. Gets numbers of digits per percent value group in C++.'
 type: docs
-weight: 4800
+weight: 2400
 url: /cpp/system.globalization/numberformatinfo/get_percentgroupsizes/
 ---
 ## NumberFormatInfo::get_PercentGroupSizes method

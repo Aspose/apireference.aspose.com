@@ -4,7 +4,7 @@ linktitle: set_Viewbox
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsTilingBrush::set_Viewbox method. Returns/sets the region of the source content of the brush that is to be mapped to the viewport in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.page.xps.xpsmodel/xpstilingbrush/set_viewbox/
 ---
 ## XpsTilingBrush::set_Viewbox method

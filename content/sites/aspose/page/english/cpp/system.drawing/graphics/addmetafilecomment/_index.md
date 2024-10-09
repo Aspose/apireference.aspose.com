@@ -4,7 +4,7 @@ linktitle: AddMetafileComment
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::AddMetafileComment method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 7900
+weight: 500
 url: /cpp/system.drawing/graphics/addmetafilecomment/
 ---
 ## Graphics::AddMetafileComment method

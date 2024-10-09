@@ -4,7 +4,7 @@ linktitle: Peek
 second_title: Aspose.Page for C++
 description: 'System::IO::StringReader::Peek method. Reads a single character from the stream without changing the stream''s position in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.io/stringreader/peek/
 ---
 ## StringReader::Peek method

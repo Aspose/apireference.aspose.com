@@ -4,7 +4,7 @@ linktitle: get_Olive
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Olive method. Gets a system-defined color that has an ARGB value of #FF808000 in C++.'
 type: docs
-weight: 9900
+weight: 10000
 url: /cpp/aspose.page.drawing/color/get_olive/
 ---
 ## Color::get_Olive method

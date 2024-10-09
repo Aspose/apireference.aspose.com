@@ -4,7 +4,7 @@ linktitle: WebServiceAttribute
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceAttribute::WebServiceAttribute constructor. Constructs a new instance in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.web.services/webserviceattribute/webserviceattribute/
 ---
 ## WebServiceAttribute::WebServiceAttribute constructor

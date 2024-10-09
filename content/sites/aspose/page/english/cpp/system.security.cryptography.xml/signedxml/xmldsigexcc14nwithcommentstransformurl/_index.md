@@ -4,7 +4,7 @@ linktitle: XmlDsigExcC14NWithCommentsTransformUrl
 second_title: Aspose.Page for C++
 description: 'How to use XmlDsigExcC14NWithCommentsTransformUrl field of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 3700
+weight: 2900
 url: /cpp/system.security.cryptography.xml/signedxml/xmldsigexcc14nwithcommentstransformurl/
 ---
 ## XmlDsigExcC14NWithCommentsTransformUrl field

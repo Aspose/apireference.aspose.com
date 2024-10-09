@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::get_Size method. Returns an instance of the Size class that specifies the width and height of the rectangle represented by the current object in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/system.drawing/rectangle/get_size/
 ---
 ## Rectangle::get_Size method

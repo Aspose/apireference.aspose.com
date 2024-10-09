@@ -4,7 +4,7 @@ linktitle: Stationary
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::Stationary field. Specifies specialty stationery media in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/stationary/
 ---
 ## Stationary field

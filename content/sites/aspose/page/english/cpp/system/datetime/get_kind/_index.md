@@ -4,7 +4,7 @@ linktitle: get_Kind
 second_title: Aspose.Page for C++
 description: 'System::DateTime::get_Kind method. Returns the value representing if the date and time represented by the current object is a local or UTC date and time or neither in C++.'
 type: docs
-weight: 500
+weight: 1800
 url: /cpp/system/datetime/get_kind/
 ---
 ## DateTime::get_Kind method

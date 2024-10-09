@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::IndexOf method. Looks for control in collection in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system.windows.forms/control/controlcollection/indexof/
 ---
 ## ControlCollection::IndexOf method

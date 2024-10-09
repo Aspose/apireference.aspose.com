@@ -4,7 +4,7 @@ linktitle: get_Entries
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorPalette::get_Entries method. Returns an array of Color objects represented by the current object in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.drawing.imaging/colorpalette/get_entries/
 ---
 ## ColorPalette::get_Entries method

@@ -4,7 +4,7 @@ linktitle: set_Headers
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::set_Headers method. Sets the collection of the HTTP headers in C++.'
 type: docs
-weight: 1300
+weight: 3300
 url: /cpp/system.net/webrequest/set_headers/
 ---
 ## WebRequest::set_Headers method

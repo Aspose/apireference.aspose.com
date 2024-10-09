@@ -4,7 +4,7 @@ linktitle: InsertData
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::InsertData method. Inserts the specified string at the specified character offset in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.xml/xmlcharacterdata/insertdata/
 ---
 ## XmlCharacterData::InsertData method

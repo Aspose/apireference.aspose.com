@@ -4,7 +4,7 @@ linktitle: ToSByte
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToSByte method. Converts the Decimal value to signed 8-bit integer value in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system/decimal/tosbyte/
 ---
 ## Decimal::ToSByte method

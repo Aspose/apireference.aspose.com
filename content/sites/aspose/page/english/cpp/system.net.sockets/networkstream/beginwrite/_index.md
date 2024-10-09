@@ -4,7 +4,7 @@ linktitle: BeginWrite
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::BeginWrite method. Initiates an asynchronous write operation in C++.'
 type: docs
-weight: 2200
+weight: 400
 url: /cpp/system.net.sockets/networkstream/beginwrite/
 ---
 ## NetworkStream::BeginWrite method

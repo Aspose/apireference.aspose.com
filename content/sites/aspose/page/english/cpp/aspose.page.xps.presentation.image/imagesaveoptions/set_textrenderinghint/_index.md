@@ -4,7 +4,7 @@ linktitle: set_TextRenderingHint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::set_TextRenderingHint method. Gets/sets the text rendering hint in C++.'
 type: docs
-weight: 800
+weight: 1600
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/set_textrenderinghint/
 ---
 ## ImageSaveOptions::set_TextRenderingHint method

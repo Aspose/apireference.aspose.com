@@ -4,7 +4,7 @@ linktitle: GetDayOfMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TaiwanCalendar::GetDayOfMonth method. Gets day of month for the specified time point in C++.'
 type: docs
-weight: 1400
+weight: 700
 url: /cpp/system.globalization/taiwancalendar/getdayofmonth/
 ---
 ## TaiwanCalendar::GetDayOfMonth method

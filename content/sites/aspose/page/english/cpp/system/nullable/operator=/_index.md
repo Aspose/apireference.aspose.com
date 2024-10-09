@@ -2,24 +2,32 @@
 title: System::Nullable::operator= method
 linktitle: operator=
 second_title: Aspose.Page for C++
-description: 'System::Nullable::operator= method. Assigns a null to the current object in C++.'
+description: 'System::Nullable::operator= method. Replaces the object''s currently represented value with the specified one in C++.'
 type: docs
-weight: 200
+weight: 1800
 url: /cpp/system/nullable/operator=/
 ---
-## Nullable::operator=(std::nullptr_t) method
+## Nullable::operator=(const Nullable\<T1\>\&) method
 
 
-Assigns a null to the current object.
+Replaces the object's currently represented value with the specified one.
 
 ```cpp
-template<typename T1,typename> Nullable<T> System::Nullable<T>::operator=(std::nullptr_t)
+template<typename T1> Nullable<T> & System::Nullable<T>::operator=(const Nullable<T1> &x)
 ```
 
 
+| Parameter | Description |
+| --- | --- |
+| The | type of the new value to be represented by the current object |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | const Nullable\<T1\>\& | The new value to be represented by the current object |
+
 ### ReturnValue
 
-A [Nullable](../) object that represents null-value.
+A reference to the self
 
 ## See Also
 
@@ -55,27 +63,19 @@ A reference to the self
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::operator=(const Nullable\<T1\>\&) method
+## Nullable::operator=(std::nullptr_t) method
 
 
-Replaces the object's currently represented value with the specified one.
+Assigns a null to the current object.
 
 ```cpp
-template<typename T1> Nullable<T> & System::Nullable<T>::operator=(const Nullable<T1> &x)
+template<typename T1,typename> Nullable<T> System::Nullable<T>::operator=(std::nullptr_t)
 ```
 
 
-| Parameter | Description |
-| --- | --- |
-| The | type of the new value to be represented by the current object |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | const Nullable\<T1\>\& | The new value to be represented by the current object |
-
 ### ReturnValue
 
-A reference to the self
+A [Nullable](../) object that represents null-value.
 
 ## See Also
 

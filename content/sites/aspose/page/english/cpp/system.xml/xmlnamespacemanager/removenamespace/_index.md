@@ -4,7 +4,7 @@ linktitle: RemoveNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::RemoveNamespace method. Removes the given namespace for the given prefix in C++.'
 type: docs
-weight: 700
+weight: 1200
 url: /cpp/system.xml/xmlnamespacemanager/removenamespace/
 ---
 ## XmlNamespaceManager::RemoveNamespace method

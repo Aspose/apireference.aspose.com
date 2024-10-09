@@ -4,7 +4,7 @@ linktitle: getInternalPtr
 second_title: Aspose.Page for C++
 description: 'System::SmartPtrInfo::getInternalPtr method. Gets raw object referenced pointer points to in C++.'
 type: docs
-weight: 800
+weight: 200
 url: /cpp/system/smartptrinfo/getinternalptr/
 ---
 ## SmartPtrInfo::getInternalPtr method

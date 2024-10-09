@@ -4,7 +4,7 @@ linktitle: get_FixedValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::get_FixedValue method. Returns the fixed value for the attribute in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaattribute/get_fixedvalue/
 ---
 ## XmlSchemaAttribute::get_FixedValue method

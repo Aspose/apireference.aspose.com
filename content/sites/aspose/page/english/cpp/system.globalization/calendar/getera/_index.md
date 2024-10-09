@@ -4,7 +4,7 @@ linktitle: GetEra
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetEra method. Gets era for the specified time point in C++.'
 type: docs
-weight: 2000
+weight: 2400
 url: /cpp/system.globalization/calendar/getera/
 ---
 ## Calendar::GetEra method

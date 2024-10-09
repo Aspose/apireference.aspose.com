@@ -4,7 +4,7 @@ linktitle: set_Context
 second_title: Aspose.Page for C++
 description: 'How to use set_Context method of System::Security::Cryptography::Xml::Transform class in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.security.cryptography.xml/transform/set_context/
 ---
 ## Transform::set_Context method

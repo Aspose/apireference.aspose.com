@@ -4,7 +4,7 @@ linktitle: Transparency
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::Transparency field. Specifies transparency media in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/transparency/
 ---
 ## Transparency field

@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_Encoding method. Returns the type of text encoding to use in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/system.xml/xmlwritersettings/get_encoding/
 ---
 ## XmlWriterSettings::get_Encoding method

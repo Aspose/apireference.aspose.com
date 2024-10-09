@@ -4,7 +4,7 @@ linktitle: CreatePolyQuadraticBezierSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::CreatePolyQuadraticBezierSegment method. Creates a new set of quadratic Bézier curves from the previous point in the path figure through a set of vertices, using specified control points in C++.'
 type: docs
-weight: 4900
+weight: 2600
 url: /cpp/aspose.page.xps/xpsdocument/createpolyquadraticbeziersegment/
 ---
 ## XpsDocument::CreatePolyQuadraticBezierSegment method

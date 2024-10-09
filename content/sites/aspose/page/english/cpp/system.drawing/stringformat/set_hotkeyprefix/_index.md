@@ -4,7 +4,7 @@ linktitle: set_HotkeyPrefix
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::set_HotkeyPrefix method. Sets the value that specifies how the hot key prefix should be displayed in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/system.drawing/stringformat/set_hotkeyprefix/
 ---
 ## StringFormat::set_HotkeyPrefix method

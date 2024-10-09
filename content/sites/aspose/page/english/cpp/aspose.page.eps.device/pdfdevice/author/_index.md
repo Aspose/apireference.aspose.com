@@ -4,7 +4,7 @@ linktitle: AUTHOR
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::AUTHOR method. "Author" property value in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/aspose.page.eps.device/pdfdevice/author/
 ---
 ## PdfDevice::AUTHOR method

@@ -4,7 +4,7 @@ linktitle: get_Azure
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Azure method. Gets a system-defined color that has an ARGB value of #FFF0FFFF in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.page.drawing/color/get_azure/
 ---
 ## Color::get_Azure method

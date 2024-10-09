@@ -4,7 +4,7 @@ linktitle: get_UserID
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::get_UserID method. Gets user id used for connection in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/get_userid/
 ---
 ## SqlConnectionStringBuilder::get_UserID method

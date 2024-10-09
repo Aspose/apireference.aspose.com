@@ -4,7 +4,7 @@ linktitle: set_SharedMaxAge
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::set_SharedMaxAge method. Sets the shared maximum age value in seconds that overrides the ''max-age'' directive in the ''Cache-Control''. header or the ''Expires'' header for a shared cache in C++.'
 type: docs
-weight: 900
+weight: 3200
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_sharedmaxage/
 ---
 ## CacheControlHeaderValue::set_SharedMaxAge method

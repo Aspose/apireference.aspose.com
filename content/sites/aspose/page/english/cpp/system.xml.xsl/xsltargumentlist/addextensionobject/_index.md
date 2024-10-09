@@ -4,7 +4,7 @@ linktitle: AddExtensionObject
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltArgumentList::AddExtensionObject method. Adds a new object to the XsltArgumentList and associates it with the namespace URI in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.xml.xsl/xsltargumentlist/addextensionobject/
 ---
 ## XsltArgumentList::AddExtensionObject method

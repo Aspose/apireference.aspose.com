@@ -4,7 +4,7 @@ linktitle: IsStartNCNameChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::IsStartNCNameChar method. Checks if the passed-in character is a valid Start Name Character type in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/system.xml/xmlconvert/isstartncnamechar/
 ---
 ## XmlConvert::IsStartNCNameChar method

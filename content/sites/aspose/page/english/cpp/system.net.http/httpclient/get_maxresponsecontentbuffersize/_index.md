@@ -4,7 +4,7 @@ linktitle: get_MaxResponseContentBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::get_MaxResponseContentBufferSize method. Gets the maximum number of bytes of response content in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.net.http/httpclient/get_maxresponsecontentbuffersize/
 ---
 ## HttpClient::get_MaxResponseContentBufferSize method

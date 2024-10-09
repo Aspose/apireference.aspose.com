@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlQualifiedName::get_Name method. Returns a string representation of the qualified name of the XmlQualifiedName in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml/xmlqualifiedname/get_name/
 ---
 ## XmlQualifiedName::get_Name method

@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_NodeType method. When overridden in a derived class, gets the XPathNodeType of the current node in C++.'
 type: docs
-weight: 1100
+weight: 2400
 url: /cpp/system.xml.xpath/xpathnavigator/get_nodetype/
 ---
 ## XPathNavigator::get_NodeType method

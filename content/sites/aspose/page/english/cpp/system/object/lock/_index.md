@@ -4,7 +4,7 @@ linktitle: Lock
 second_title: Aspose.Page for C++
 description: 'System::Object::Lock method. Implements C# lock() statement locking. Call directly or use LockContext sentry object in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system/object/lock/
 ---
 ## Object::Lock method

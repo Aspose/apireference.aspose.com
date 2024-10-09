@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::set_Height method. Returns/sets the height of the page, expressed as a real number in units of the effective coordinate space in C++.'
 type: docs
-weight: 500
+weight: 3400
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/set_height/
 ---
 ## PageAPI::set_Height method

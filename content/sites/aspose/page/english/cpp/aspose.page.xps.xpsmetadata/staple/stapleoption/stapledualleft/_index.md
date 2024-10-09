@@ -4,7 +4,7 @@ linktitle: StapleDualLeft
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Staple::StapleOption::StapleDualLeft field. Specifies two staples along the left edge in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.page.xps.xpsmetadata/staple/stapleoption/stapledualleft/
 ---
 ## StapleDualLeft field

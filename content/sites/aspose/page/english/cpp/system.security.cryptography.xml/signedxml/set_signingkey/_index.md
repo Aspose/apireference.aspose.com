@@ -4,7 +4,7 @@ linktitle: set_SigningKey
 second_title: Aspose.Page for C++
 description: 'How to use set_SigningKey method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 400
+weight: 1800
 url: /cpp/system.security.cryptography.xml/signedxml/set_signingkey/
 ---
 ## SignedXml::set_SigningKey method

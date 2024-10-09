@@ -4,7 +4,7 @@ linktitle: GetParent
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::GetParent method. Returns a shared pointer to DirectoryInfo object representing the parent directory of the specified entity in C++.'
 type: docs
-weight: 2500
+weight: 1900
 url: /cpp/system.io/directory/getparent/
 ---
 ## Directory::GetParent method

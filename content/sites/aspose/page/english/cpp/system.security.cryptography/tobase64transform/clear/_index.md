@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ToBase64Transform::Clear method. Releases all resources in C++.'
 type: docs
-weight: 800
+weight: 200
 url: /cpp/system.security.cryptography/tobase64transform/clear/
 ---
 ## ToBase64Transform::Clear method

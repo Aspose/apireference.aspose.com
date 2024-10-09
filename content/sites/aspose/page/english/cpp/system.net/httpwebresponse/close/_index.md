@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebResponse::Close method. Closes the response stream in C++.'
 type: docs
-weight: 1300
+weight: 200
 url: /cpp/system.net/httpwebresponse/close/
 ---
 ## HttpWebResponse::Close method

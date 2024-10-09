@@ -4,7 +4,7 @@ linktitle: set_ResponseNamespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_ResponseNamespace method. Sets the namespace associated with the SOAP response in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_responsenamespace/
 ---
 ## SoapDocumentMethodAttribute::set_ResponseNamespace method

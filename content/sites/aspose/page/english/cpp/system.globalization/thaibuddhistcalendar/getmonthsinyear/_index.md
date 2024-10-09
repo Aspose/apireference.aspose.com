@@ -2,11 +2,25 @@
 title: System::Globalization::ThaiBuddhistCalendar::GetMonthsInYear method
 linktitle: GetMonthsInYear
 second_title: Aspose.Page for C++
-description: 'System::Globalization::ThaiBuddhistCalendar::GetMonthsInYear method. Gets number of months in the specified year in C++.'
+description: 'System::Globalization::ThaiBuddhistCalendar::GetMonthsInYear method. RTTI information in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system.globalization/thaibuddhistcalendar/getmonthsinyear/
 ---
+## ThaiBuddhistCalendar::GetMonthsInYear(int) const method
+
+
+RTTI information.
+
+```cpp
+virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
+```
+
+## See Also
+
+* Class [ThaiBuddhistCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ThaiBuddhistCalendar::GetMonthsInYear(int, int) const method
 
 
@@ -25,20 +39,6 @@ int System::Globalization::ThaiBuddhistCalendar::GetMonthsInYear(int year, int e
 ### ReturnValue
 
 Number of months in the specified year of specified era.
-
-## See Also
-
-* Class [ThaiBuddhistCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## ThaiBuddhistCalendar::GetMonthsInYear(int) const method
-
-
-RTTI information.
-
-```cpp
-virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
-```
 
 ## See Also
 

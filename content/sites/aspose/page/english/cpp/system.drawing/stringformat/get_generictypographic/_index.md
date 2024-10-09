@@ -4,7 +4,7 @@ linktitle: get_GenericTypographic
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::get_GenericTypographic method. Returns a StringFormat object that represents a generic typographic format in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system.drawing/stringformat/get_generictypographic/
 ---
 ## StringFormat::get_GenericTypographic method

@@ -4,7 +4,7 @@ linktitle: get_Prefix
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::get_Prefix method. Returns the namespace prefix associated with the current node in C++.'
 type: docs
-weight: 500
+weight: 2500
 url: /cpp/system.xml/xmltextreader/get_prefix/
 ---
 ## XmlTextReader::get_Prefix method

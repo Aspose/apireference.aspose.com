@@ -4,7 +4,7 @@ linktitle: get_WidthScale
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::CustomLineCap::get_WidthScale method. Returns the scale of this custom cap in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.drawing.drawing2d/customlinecap/get_widthscale/
 ---
 ## CustomLineCap::get_WidthScale method

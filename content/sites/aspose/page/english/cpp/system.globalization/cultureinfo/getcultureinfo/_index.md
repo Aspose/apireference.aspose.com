@@ -4,7 +4,7 @@ linktitle: GetCultureInfo
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::GetCultureInfo method. Gets culture by its name. Same as CreateSpecificCulture in C++.'
 type: docs
-weight: 4600
+weight: 4200
 url: /cpp/system.globalization/cultureinfo/getcultureinfo/
 ---
 ## CultureInfo::GetCultureInfo(const String\&) method

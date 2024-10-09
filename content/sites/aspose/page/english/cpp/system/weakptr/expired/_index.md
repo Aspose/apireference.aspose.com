@@ -4,7 +4,7 @@ linktitle: expired
 second_title: Aspose.Page for C++
 description: 'System::WeakPtr::expired method. Checks if referenced object was already deleted in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system/weakptr/expired/
 ---
 ## WeakPtr::expired method

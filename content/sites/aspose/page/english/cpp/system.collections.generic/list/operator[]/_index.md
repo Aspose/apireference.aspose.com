@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::operator[] method. Accessor function in C++.'
 type: docs
-weight: 4500
+weight: 3500
 url: /cpp/system.collections.generic/list/operator[]/
 ---
 ## List::operator[](int) method

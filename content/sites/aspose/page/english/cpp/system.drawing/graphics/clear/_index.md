@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::Clear method. Clears the drawing surface represented by the current object and fills it with the specified color in C++.'
 type: docs
-weight: 1900
+weight: 700
 url: /cpp/system.drawing/graphics/clear/
 ---
 ## Graphics::Clear method

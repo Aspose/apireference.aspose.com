@@ -4,7 +4,7 @@ linktitle: IEnumeratorPtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::IEnumeratorPtr typedef. Container of same elements in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/system.collections.objectmodel/readonlycollection/ienumeratorptr/
 ---
 ## IEnumeratorPtr typedef

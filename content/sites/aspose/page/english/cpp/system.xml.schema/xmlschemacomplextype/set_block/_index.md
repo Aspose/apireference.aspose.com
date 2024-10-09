@@ -4,7 +4,7 @@ linktitle: set_Block
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::set_Block method. Sets the block attribute in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/system.xml.schema/xmlschemacomplextype/set_block/
 ---
 ## XmlSchemaComplexType::set_Block method

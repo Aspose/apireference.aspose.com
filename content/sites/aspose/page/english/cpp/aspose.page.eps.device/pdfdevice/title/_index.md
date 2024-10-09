@@ -4,7 +4,7 @@ linktitle: TITLE
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::TITLE method. "Title" property value in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/aspose.page.eps.device/pdfdevice/title/
 ---
 ## PdfDevice::TITLE method

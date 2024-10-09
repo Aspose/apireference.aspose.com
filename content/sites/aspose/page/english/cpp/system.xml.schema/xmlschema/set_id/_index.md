@@ -4,7 +4,7 @@ linktitle: set_Id
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_Id method. Sets the string ID in C++.'
 type: docs
-weight: 2100
+weight: 2400
 url: /cpp/system.xml.schema/xmlschema/set_id/
 ---
 ## XmlSchema::set_Id method

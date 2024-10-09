@@ -4,7 +4,7 @@ linktitle: get_Type
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::PropertyItem::get_Type method. Returns the type of the property represented by the current object in bytes in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.drawing.imaging/propertyitem/get_type/
 ---
 ## PropertyItem::get_Type method

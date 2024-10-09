@@ -4,7 +4,7 @@ linktitle: ISOSRA3
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOSRA3 field. ISOSRA3 in C++.'
 type: docs
-weight: 5600
+weight: 5700
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isosra3/
 ---
 ## ISOSRA3 field

@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::Reset method. Empties the path by removing all points from it in C++.'
 type: docs
-weight: 2900
+weight: 3200
 url: /cpp/system.drawing.drawing2d/graphicspath/reset/
 ---
 ## GraphicsPath::Reset method

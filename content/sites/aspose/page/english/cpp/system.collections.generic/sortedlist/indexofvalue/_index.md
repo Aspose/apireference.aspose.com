@@ -4,7 +4,7 @@ linktitle: IndexOfValue
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedList::IndexOfValue method. Looks for specific value in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.collections.generic/sortedlist/indexofvalue/
 ---
 ## SortedList::IndexOfValue method

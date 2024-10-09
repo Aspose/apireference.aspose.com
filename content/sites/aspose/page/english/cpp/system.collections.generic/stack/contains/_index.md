@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::Contains method. Checks if specific item is present in container; uses operator == for comparison in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.collections.generic/stack/contains/
 ---
 ## Stack::Contains method

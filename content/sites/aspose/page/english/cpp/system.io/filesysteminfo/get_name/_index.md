@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::IO::FileSystemInfo::get_Name method. Returns a name of the entity represented by the current object in C++.'
 type: docs
-weight: 1800
+weight: 1300
 url: /cpp/system.io/filesysteminfo/get_name/
 ---
 ## FileSystemInfo::get_Name method

@@ -4,7 +4,7 @@ linktitle: set_EnableDecompression
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::HttpWebClientProtocol::set_EnableDecompression method. Sets a value that indicates if decompression is enabled in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_enabledecompression/
 ---
 ## HttpWebClientProtocol::set_EnableDecompression method

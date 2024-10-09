@@ -4,7 +4,7 @@ linktitle: get_Unit
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Font::get_Unit method. Returns the measurement unit for the font represented by the current object in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/system.drawing/font/get_unit/
 ---
 ## Font::get_Unit method

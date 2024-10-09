@@ -4,7 +4,7 @@ linktitle: get_DodgerBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DodgerBlue method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF1E90FF in C++.'
 type: docs
-weight: 4300
+weight: 4200
 url: /cpp/system.drawing/pens/get_dodgerblue/
 ---
 ## Pens::get_DodgerBlue method

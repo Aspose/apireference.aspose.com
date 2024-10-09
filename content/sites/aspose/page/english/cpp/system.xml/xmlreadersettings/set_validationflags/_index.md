@@ -4,7 +4,7 @@ linktitle: set_ValidationFlags
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_ValidationFlags method. Sets a value indicating the schema validation settings. This setting applies to XmlReader objects that validate schemas (XmlReaderSettings::get_ValidationType value is ValidationType::Schema) in C++.'
 type: docs
-weight: 3100
+weight: 3500
 url: /cpp/system.xml/xmlreadersettings/set_validationflags/
 ---
 ## XmlReaderSettings::set_ValidationFlags method

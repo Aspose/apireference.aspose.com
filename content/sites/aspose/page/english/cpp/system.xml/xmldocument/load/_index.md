@@ -2,31 +2,11 @@
 title: System::Xml::XmlDocument::Load method
 linktitle: Load
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlDocument::Load method. Loads the XML document from the specified URL in C++.'
+description: 'System::Xml::XmlDocument::Load method. Loads the XML document from the specified stream in C++.'
 type: docs
-weight: 4000
+weight: 3400
 url: /cpp/system.xml/xmldocument/load/
 ---
-## XmlDocument::Load(String) method
-
-
-Loads the XML document from the specified URL.
-
-```cpp
-virtual void System::Xml::XmlDocument::Load(String filename)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | URL for the file containing the XML document to load. The URL can be either a local file or an HTTP URL (a [Web](../../../system.web/) address). |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlDocument::Load(SharedPtr\<IO::Stream\>) method
 
 
@@ -87,6 +67,26 @@ virtual void System::Xml::XmlDocument::Load(SharedPtr<XmlReader> reader)
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlReader](../../xmlreader/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlDocument::Load(String) method
+
+
+Loads the XML document from the specified URL.
+
+```cpp
+virtual void System::Xml::XmlDocument::Load(String filename)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | URL for the file containing the XML document to load. The URL can be either a local file or an HTTP URL (a [Web](../../../system.web/) address). |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [XmlDocument](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: MoveToFirst
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToFirst method. Moves the XPathNavigator to the first sibling node of the current node in C++.'
 type: docs
-weight: 4800
+weight: 5300
 url: /cpp/system.xml.xpath/xpathnavigator/movetofirst/
 ---
 ## XPathNavigator::MoveToFirst method

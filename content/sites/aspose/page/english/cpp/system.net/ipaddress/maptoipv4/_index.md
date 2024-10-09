@@ -4,7 +4,7 @@ linktitle: MapToIPv4
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::MapToIPv4 method. Maps the address to the IPv4 address in C++.'
 type: docs
-weight: 1500
+weight: 1300
 url: /cpp/system.net/ipaddress/maptoipv4/
 ---
 ## IPAddress::MapToIPv4 method

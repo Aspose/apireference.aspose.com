@@ -4,7 +4,7 @@ linktitle: Offset
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::Offset method. Offsets the position of the rectangle represented by the current object by the specified amounts in C++.'
 type: docs
-weight: 2400
+weight: 1900
 url: /cpp/system.drawing/rectangle/offset/
 ---
 ## Rectangle::Offset(const Point\&) method

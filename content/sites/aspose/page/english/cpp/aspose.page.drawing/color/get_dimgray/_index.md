@@ -4,7 +4,7 @@ linktitle: get_DimGray
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DimGray method. Gets a system-defined color that has an ARGB value of #FF696969 in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.page.drawing/color/get_dimgray/
 ---
 ## Color::get_DimGray method

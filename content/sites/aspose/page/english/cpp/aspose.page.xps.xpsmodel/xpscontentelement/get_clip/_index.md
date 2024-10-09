@@ -4,7 +4,7 @@ linktitle: get_Clip
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsContentElement::get_Clip method. Returns/sets the path geometry instance limiting the rendered region of the element in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpscontentelement/get_clip/
 ---
 ## XpsContentElement::get_Clip method

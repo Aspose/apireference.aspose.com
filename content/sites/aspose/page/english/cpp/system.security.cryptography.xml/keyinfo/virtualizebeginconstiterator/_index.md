@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::Xml::KeyInfo::virtualizeBeginConstIterator method. Gets the implementation of begin const iterator for the current container in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.security.cryptography.xml/keyinfo/virtualizebeginconstiterator/
 ---
 ## KeyInfo::virtualizeBeginConstIterator method

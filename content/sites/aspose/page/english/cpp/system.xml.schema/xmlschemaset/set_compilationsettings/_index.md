@@ -4,7 +4,7 @@ linktitle: set_CompilationSettings
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::set_CompilationSettings method. Sets the XmlSchemaCompilationSettings for the XmlSchemaSet in C++.'
 type: docs
-weight: 500
+weight: 1700
 url: /cpp/system.xml.schema/xmlschemaset/set_compilationsettings/
 ---
 ## XmlSchemaSet::set_CompilationSettings method

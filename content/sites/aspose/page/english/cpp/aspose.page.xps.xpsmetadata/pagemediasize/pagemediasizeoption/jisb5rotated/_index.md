@@ -4,7 +4,7 @@ linktitle: JISB5Rotated
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JISB5Rotated field. JISB5 rotated in C++.'
 type: docs
-weight: 6600
+weight: 8800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/jisb5rotated/
 ---
 ## JISB5Rotated field

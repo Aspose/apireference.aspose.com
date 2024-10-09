@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectTable::idx_get method. Returns the element in the XmlSchemaObjectTable specified by qualified name in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.xml.schema/xmlschemaobjecttable/idx_get/
 ---
 ## XmlSchemaObjectTable::idx_get method

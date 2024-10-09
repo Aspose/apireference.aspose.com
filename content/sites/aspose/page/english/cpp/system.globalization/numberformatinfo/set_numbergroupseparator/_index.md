@@ -4,7 +4,7 @@ linktitle: set_NumberGroupSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_NumberGroupSeparator method. Sets number group separator in C++.'
 type: docs
-weight: 900
+weight: 4700
 url: /cpp/system.globalization/numberformatinfo/set_numbergroupseparator/
 ---
 ## NumberFormatInfo::set_NumberGroupSeparator method

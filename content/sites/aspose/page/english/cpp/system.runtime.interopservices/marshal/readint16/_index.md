@@ -4,7 +4,7 @@ linktitle: ReadInt16
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::ReadInt16 method. Reads short from memory in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/system.runtime.interopservices/marshal/readint16/
 ---
 ## Marshal::ReadInt16 method

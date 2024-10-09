@@ -4,7 +4,7 @@ linktitle: set_SerialNumber
 second_title: Aspose.Page for C++
 description: 'How to use set_SerialNumber method of System::Security::Cryptography::Xml::X509IssuerSerial class in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.security.cryptography.xml/x509issuerserial/set_serialnumber/
 ---
 ## X509IssuerSerial::set_SerialNumber method

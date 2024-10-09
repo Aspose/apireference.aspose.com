@@ -4,7 +4,7 @@ linktitle: MemoryBarrier
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::MemoryBarrier method. Synchronizes memory access in C++.'
 type: docs
-weight: 2600
+weight: 2300
 url: /cpp/system.threading/thread/memorybarrier/
 ---
 ## Thread::MemoryBarrier method

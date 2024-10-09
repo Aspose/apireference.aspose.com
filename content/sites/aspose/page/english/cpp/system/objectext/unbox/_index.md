@@ -4,7 +4,7 @@ linktitle: Unbox
 second_title: Aspose.Page for C++
 description: 'System::ObjectExt::Unbox method. Unboxes value types after converting to Object. Implementation for enum types in C++.'
 type: docs
-weight: 500
+weight: 1400
 url: /cpp/system/objectext/unbox/
 ---
 ## ObjectExt::Unbox(const SmartPtr\<Object\>\&) method
@@ -94,6 +94,32 @@ Unboxed value.
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## ObjectExt::Unbox(const SmartPtr\<Object\>\&) method
+
+
+Unboxes string values.
+
+```cpp
+String System::ObjectExt::Unbox(const SmartPtr<Object> &obj)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const SmartPtr\<Object\>\& | [Object](../../object/) to unbox |
+
+### ReturnValue
+
+[String](../../string/) representation of boxed string, can be null if boxed string was null.
+
+## See Also
+
+* Class [String](../../string/)
+* Class [SmartPtr](../../smartptr/)
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ObjectExt::Unbox(E) method
 
 
@@ -147,32 +173,6 @@ Converted enum value.
 
 ## See Also
 
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::Unbox(const SmartPtr\<Object\>\&) method
-
-
-Unboxes string values.
-
-```cpp
-String System::ObjectExt::Unbox(const SmartPtr<Object> &obj)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const SmartPtr\<Object\>\& | [Object](../../object/) to unbox |
-
-### ReturnValue
-
-[String](../../string/) representation of boxed string, can be null if boxed string was null.
-
-## See Also
-
-* Class [String](../../string/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

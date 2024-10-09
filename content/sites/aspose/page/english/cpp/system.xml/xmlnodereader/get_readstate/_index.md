@@ -4,7 +4,7 @@ linktitle: get_ReadState
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::get_ReadState method. Returns the state of the reader in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.xml/xmlnodereader/get_readstate/
 ---
 ## XmlNodeReader::get_ReadState method

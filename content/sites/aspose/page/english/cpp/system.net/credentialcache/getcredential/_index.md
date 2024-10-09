@@ -2,35 +2,11 @@
 title: System::Net::CredentialCache::GetCredential method
 linktitle: GetCredential
 second_title: Aspose.Page for C++
-description: 'System::Net::CredentialCache::GetCredential method. Returns credentials for the specified URI prefix and authentication type in C++.'
+description: 'System::Net::CredentialCache::GetCredential method. Returns credentials for the specified host name, port, and authentication type in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.net/credentialcache/getcredential/
 ---
-## CredentialCache::GetCredential(System::SharedPtr\<Uri\>, String) method
-
-
-Returns credentials for the specified URI prefix and authentication type.
-
-```cpp
-System::SharedPtr<NetworkCredential> System::Net::CredentialCache::GetCredential(System::SharedPtr<Uri> uriPrefix, String authenticationType) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| uriPrefix | System::SharedPtr\<Uri\> | The URI prefix. |
-| authenticationType | String | An authentication type. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkCredential](../../networkcredential/)
-* Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [CredentialCache](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Page for C++](../../../)
 ## CredentialCache::GetCredential(String, int32_t, String) method
 
 
@@ -51,6 +27,30 @@ System::SharedPtr<NetworkCredential> System::Net::CredentialCache::GetCredential
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NetworkCredential](../../networkcredential/)
+* Class [String](../../../system/string/)
+* Class [CredentialCache](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)
+## CredentialCache::GetCredential(System::SharedPtr\<Uri\>, String) method
+
+
+Returns credentials for the specified URI prefix and authentication type.
+
+```cpp
+System::SharedPtr<NetworkCredential> System::Net::CredentialCache::GetCredential(System::SharedPtr<Uri> uriPrefix, String authenticationType) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| uriPrefix | System::SharedPtr\<Uri\> | The URI prefix. |
+| authenticationType | String | An authentication type. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NetworkCredential](../../networkcredential/)
+* Class [Uri](../../../system/uri/)
 * Class [String](../../../system/string/)
 * Class [CredentialCache](../)
 * Namespace [System::Net](../../)

@@ -4,7 +4,7 @@ linktitle: LinearGradientMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientMode enum. Represents a linear gradient direction in C++.'
 type: docs
-weight: 2600
+weight: 2400
 url: /cpp/system.drawing.drawing2d/lineargradientmode/
 ---
 ## LinearGradientMode enum

@@ -4,7 +4,7 @@ linktitle: set_DefaultThreadCurrentCulture
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::set_DefaultThreadCurrentCulture method. Sets default culture in the current application domain in C++.'
 type: docs
-weight: 3700
+weight: 4800
 url: /cpp/system.globalization/cultureinfo/set_defaultthreadcurrentculture/
 ---
 ## CultureInfo::set_DefaultThreadCurrentCulture method

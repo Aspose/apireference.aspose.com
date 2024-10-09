@@ -4,7 +4,7 @@ linktitle: get_BaseCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::CustomLineCap::get_BaseCap method. Returns the base line cap from which this custom cap is created in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.drawing.drawing2d/customlinecap/get_basecap/
 ---
 ## CustomLineCap::get_BaseCap method

@@ -4,7 +4,7 @@ linktitle: get_Comparer
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedDictionary::get_Comparer method. Gets the IComparer<TKey> used to order the elements of the SortedDictionary<TKey,TValue> in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.collections.generic/sorteddictionary/get_comparer/
 ---
 ## SortedDictionary::get_Comparer method

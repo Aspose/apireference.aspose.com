@@ -4,7 +4,7 @@ linktitle: get_Connection
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbCommand::get_Connection method. Gets database connecton associated with command in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.data.common/dbcommand/get_connection/
 ---
 ## DbCommand::get_Connection method

@@ -38,8 +38,8 @@ template<typename T>class ICollection : public virtual System::Collections::Gene
 
 | Typedef | Description |
 | --- | --- |
-| [ValueType](./valuetype/) | RTTI information. |
 | [ThisType](./thistype/) | Collection type name. |
+| [ValueType](./valuetype/) | RTTI information. |
 
 ## See Also
 

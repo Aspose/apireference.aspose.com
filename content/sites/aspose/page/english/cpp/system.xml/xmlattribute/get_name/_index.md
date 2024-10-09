@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::get_Name method. Returns the qualified name of the node in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.xml/xmlattribute/get_name/
 ---
 ## XmlAttribute::get_Name method

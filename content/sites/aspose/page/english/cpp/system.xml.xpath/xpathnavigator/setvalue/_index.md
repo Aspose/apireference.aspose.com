@@ -4,7 +4,7 @@ linktitle: SetValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::SetValue method. Sets the value of the current node in C++.'
 type: docs
-weight: 2800
+weight: 7900
 url: /cpp/system.xml.xpath/xpathnavigator/setvalue/
 ---
 ## XPathNavigator::SetValue method

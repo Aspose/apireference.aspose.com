@@ -4,7 +4,7 @@ linktitle: get_IfMatch
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_IfMatch method. Returns a value of the ''If-Match'' header in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.net.http.headers/httprequestheaders/get_ifmatch/
 ---
 ## HttpRequestHeaders::get_IfMatch method

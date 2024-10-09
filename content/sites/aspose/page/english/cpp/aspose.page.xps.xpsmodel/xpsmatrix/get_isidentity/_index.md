@@ -4,7 +4,7 @@ linktitle: get_IsIdentity
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::get_IsIdentity method. Gets a value indicating whether this instance is identity matrix in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/get_isidentity/
 ---
 ## XpsMatrix::get_IsIdentity method

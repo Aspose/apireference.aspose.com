@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Guid::operator== method. Determines if the GUIDs represented by the current and specified objects are equal in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system/guid/operator==/
 ---
 ## Guid::operator== method

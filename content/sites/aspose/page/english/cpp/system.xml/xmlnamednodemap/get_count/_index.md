@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamedNodeMap::get_Count method. Returns the number of nodes in the XmlNamedNodeMap in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.xml/xmlnamednodemap/get_count/
 ---
 ## XmlNamedNodeMap::get_Count method

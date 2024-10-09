@@ -4,7 +4,7 @@ linktitle: operator*
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::operator* method. Gets reference to pointed object. Asserts that pointer is not null in C++.'
 type: docs
-weight: 1600
+weight: 2500
 url: /cpp/system/smartptr/operator_/
 ---
 ## SmartPtr::operator* method
@@ -33,36 +33,9 @@ linktitle: operator<
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::operator< method. Provides less-compare semantics for SmartPtr class in C++.'
 type: docs
-weight: 1900
+weight: 2700
 url: /cpp/system/smartptr/operator_/
 ---
-## SmartPtr::operator<(Y *) const method
-
-
-Provides less-compare semantics for [SmartPtr](../) class.
-
-```cpp
-template<class Y> bool System::SmartPtr<T>::operator<(Y *p) const
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| Y | Type of pointer to compare current one to. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| p | Y * | Pointer to compare current one to. |
-
-### ReturnValue
-
-True if the object referenced by [SmartPtr](../) is 'less' than p and false otherwise.
-
-## See Also
-
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## SmartPtr::operator<(SmartPtr\<Y\> const\&) const method
 
 
@@ -88,6 +61,33 @@ True if the object referenced by [SmartPtr](../) is 'less' than x and false othe
 ## See Also
 
 * Class [SmartPtr](../)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## SmartPtr::operator<(Y *) const method
+
+
+Provides less-compare semantics for [SmartPtr](../) class.
+
+```cpp
+template<class Y> bool System::SmartPtr<T>::operator<(Y *p) const
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Y | Type of pointer to compare current one to. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| p | Y * | Pointer to compare current one to. |
+
+### ReturnValue
+
+True if the object referenced by [SmartPtr](../) is 'less' than p and false otherwise.
+
+## See Also
+
 * Class [SmartPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

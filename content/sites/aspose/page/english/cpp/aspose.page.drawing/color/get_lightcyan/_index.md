@@ -4,7 +4,7 @@ linktitle: get_LightCyan
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LightCyan method. Gets a system-defined color that has an ARGB value of #FFE0FFFF in C++.'
 type: docs
-weight: 6700
+weight: 6800
 url: /cpp/aspose.page.drawing/color/get_lightcyan/
 ---
 ## Color::get_LightCyan method

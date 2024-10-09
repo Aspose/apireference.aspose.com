@@ -4,7 +4,7 @@ linktitle: AddOutlineEntry
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::AddOutlineEntry method. Adds an outline entry to the document in C++.'
 type: docs
-weight: 6000
+weight: 600
 url: /cpp/aspose.page.xps/xpsdocument/addoutlineentry/
 ---
 ## XpsDocument::AddOutlineEntry method

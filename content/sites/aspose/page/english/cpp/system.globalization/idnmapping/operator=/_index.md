@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Globalization::IdnMapping class in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.globalization/idnmapping/operator=/
 ---
 ## IdnMapping::operator= method

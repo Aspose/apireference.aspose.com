@@ -4,7 +4,7 @@ linktitle: get_Oid
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::AsnEncodedData::get_Oid method. Gets object identifier of encoded data in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.security.cryptography/asnencodeddata/get_oid/
 ---
 ## AsnEncodedData::get_Oid method

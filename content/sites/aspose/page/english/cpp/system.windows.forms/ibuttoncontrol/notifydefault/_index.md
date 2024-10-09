@@ -4,7 +4,7 @@ linktitle: NotifyDefault
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::IButtonControl::NotifyDefault method. Makes control default or non-default in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.windows.forms/ibuttoncontrol/notifydefault/
 ---
 ## IButtonControl::NotifyDefault method

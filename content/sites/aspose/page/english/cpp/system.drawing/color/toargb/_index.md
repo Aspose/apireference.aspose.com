@@ -4,7 +4,7 @@ linktitle: ToArgb
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::ToArgb method. Returns a 32-bit ARGB value of the color represented by the current object in C++.'
 type: docs
-weight: 200
+weight: 1700
 url: /cpp/system.drawing/color/toargb/
 ---
 ## Color::ToArgb method

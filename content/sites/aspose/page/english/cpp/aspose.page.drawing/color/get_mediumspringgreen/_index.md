@@ -4,7 +4,7 @@ linktitle: get_MediumSpringGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_MediumSpringGreen method. Gets a system-defined color that has an ARGB value of #FF00FA9A in C++.'
 type: docs
-weight: 8900
+weight: 9000
 url: /cpp/aspose.page.drawing/color/get_mediumspringgreen/
 ---
 ## Color::get_MediumSpringGreen method

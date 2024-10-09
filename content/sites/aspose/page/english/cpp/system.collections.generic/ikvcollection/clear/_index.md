@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::Clear method. Deletes all elements from container in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.collections.generic/ikvcollection/clear/
 ---
 ## IKVCollection::Clear method

@@ -4,7 +4,7 @@ linktitle: Put
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Http::Put field. The string representation of the ''PUT'' method of HTTP in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.net/webrequestmethods/http/put/
 ---
 ## Put field

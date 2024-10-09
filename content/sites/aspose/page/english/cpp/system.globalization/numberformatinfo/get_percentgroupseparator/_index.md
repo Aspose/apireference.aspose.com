@@ -4,7 +4,7 @@ linktitle: get_PercentGroupSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_PercentGroupSeparator method. Gets group separator in percent values in C++.'
 type: docs
-weight: 4600
+weight: 2300
 url: /cpp/system.globalization/numberformatinfo/get_percentgroupseparator/
 ---
 ## NumberFormatInfo::get_PercentGroupSeparator method

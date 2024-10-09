@@ -4,7 +4,7 @@ linktitle: get_ElementAPI
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs::get_ElementAPI method. Gets the modification API of the element that is about to be saved in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs/get_elementapi/
 ---
 ## BeforeSavingEventArgs::get_ElementAPI method

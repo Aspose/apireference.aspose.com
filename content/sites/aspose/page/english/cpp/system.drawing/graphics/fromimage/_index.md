@@ -4,7 +4,7 @@ linktitle: FromImage
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FromImage method. Creates a new Graphics object from the specified image in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.drawing/graphics/fromimage/
 ---
 ## Graphics::FromImage method

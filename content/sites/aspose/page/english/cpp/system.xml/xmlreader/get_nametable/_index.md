@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_NameTable method. When overridden in a derived class, gets the XmlNameTable associated with this implementation in C++.'
 type: docs
-weight: 2100
+weight: 1700
 url: /cpp/system.xml/xmlreader/get_nametable/
 ---
 ## XmlReader::get_NameTable method

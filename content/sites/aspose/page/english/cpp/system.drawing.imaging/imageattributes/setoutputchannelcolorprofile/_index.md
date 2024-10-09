@@ -4,7 +4,7 @@ linktitle: SetOutputChannelColorProfile
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::SetOutputChannelColorProfile method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/system.drawing.imaging/imageattributes/setoutputchannelcolorprofile/
 ---
 ## ImageAttributes::SetOutputChannelColorProfile method

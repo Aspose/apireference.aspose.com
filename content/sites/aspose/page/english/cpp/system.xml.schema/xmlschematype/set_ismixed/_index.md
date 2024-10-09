@@ -4,7 +4,7 @@ linktitle: set_IsMixed
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::set_IsMixed method. Sets a value indicating if this type has a mixed content model. This call is only valid in a complex type in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.xml.schema/xmlschematype/set_ismixed/
 ---
 ## XmlSchemaType::set_IsMixed method

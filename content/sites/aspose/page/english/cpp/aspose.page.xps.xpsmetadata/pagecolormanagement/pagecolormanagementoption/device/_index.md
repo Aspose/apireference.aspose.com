@@ -4,7 +4,7 @@ linktitle: Device
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageColorManagement::PageColorManagementOption::Device field. Application has not performed color management and the device determines color management in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/pagecolormanagement/pagecolormanagementoption/device/
 ---
 ## Device field

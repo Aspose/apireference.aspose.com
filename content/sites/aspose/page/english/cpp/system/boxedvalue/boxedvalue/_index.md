@@ -4,7 +4,7 @@ linktitle: BoxedValue
 second_title: Aspose.Page for C++
 description: 'System::BoxedValue::BoxedValue constructor. Constructs an object that represents the specified value boxed in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system/boxedvalue/boxedvalue/
 ---
 ## BoxedValue::BoxedValue constructor

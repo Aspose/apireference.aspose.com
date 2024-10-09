@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PsSaveOptions::get_BackgroundColor method. The background color in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.page.eps.device/pssaveoptions/get_backgroundcolor/
 ---
 ## PsSaveOptions::get_BackgroundColor method

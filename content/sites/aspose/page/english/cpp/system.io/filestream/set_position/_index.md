@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Page for C++
 description: 'System::IO::FileStream::set_Position method. Flushes the stream and then sets the stream''s position in C++.'
 type: docs
-weight: 900
+weight: 1500
 url: /cpp/system.io/filestream/set_position/
 ---
 ## FileStream::set_Position method

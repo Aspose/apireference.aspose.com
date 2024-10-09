@@ -4,7 +4,7 @@ linktitle: Move
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::Move method. Moves the specified entity to the new location. If the entity to move is a directory, it is moved with all its content in C++.'
 type: docs
-weight: 2600
+weight: 2000
 url: /cpp/system.io/directory/move/
 ---
 ## Directory::Move method

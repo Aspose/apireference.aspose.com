@@ -4,7 +4,7 @@ linktitle: ListType
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic::ListExt::ListType typedef of System::Collections::Generic::ListExt class in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.generic/listext/listtype/
 ---
 ## ListType typedef

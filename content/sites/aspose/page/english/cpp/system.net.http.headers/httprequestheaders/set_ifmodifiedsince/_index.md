@@ -4,7 +4,7 @@ linktitle: set_IfModifiedSince
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_IfModifiedSince method. Sets a value of the ''If-Modified-Since'' header in C++.'
 type: docs
-weight: 1600
+weight: 4100
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifmodifiedsince/
 ---
 ## HttpRequestHeaders::set_IfModifiedSince method

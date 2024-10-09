@@ -4,7 +4,7 @@ linktitle: WriteString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteString method. When overridden in a derived class, writes the given text content in C++.'
 type: docs
-weight: 2000
+weight: 3300
 url: /cpp/system.xml/xmlwriter/writestring/
 ---
 ## XmlWriter::WriteString method

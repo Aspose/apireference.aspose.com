@@ -94,8 +94,8 @@ class XpsDocument : public Aspose::Page::Document,
 | [InsertPath](./insertpath/)(int32_t, System::SharedPtr\<XpsModel::XpsPathGeometry\>) | Inserts a new path to the active page at *index*  position. |
 | [Merge](./merge/)(System::ArrayPtr\<System::String\>, System::String) | Merging several [XPS](../) files to one [XPS](../) document. |
 | [Merge](./merge/)(System::ArrayPtr\<System::String\>, System::SharedPtr\<System::IO::Stream\>) | Merging several [XPS](../) files to one [XPS](../) document. |
-| [MergeToPdf](./mergetopdf/)(System::ArrayPtr\<System::String\>, System::String, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) | Merging [XPS](../) documents to PDF using the [Device](../) instance. |
-| [MergeToPdf](./mergetopdf/)(System::ArrayPtr\<System::String\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) | Merging [XPS](../) documents to PDF using the [Device](../) instance. |
+| [MergeToPdf](./mergetopdf/)(System::ArrayPtr\<System::String\>, System::String, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) | Merging [XPS](../) documents to PDF using the [Device](../../aspose.page/device/) instance. |
+| [MergeToPdf](./mergetopdf/)(System::ArrayPtr\<System::String\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) | Merging [XPS](../) documents to PDF using the [Device](../../aspose.page/device/) instance. |
 | [Remove](./remove/)(T) | Removes an element from the active page. |
 | [RemoveAt](./removeat/)(int32_t) | Removes an element at *index*  position from the active page. |
 | [RemoveDocumentAt](./removedocumentat/)(int32_t) | Removes a document at *index*  position. |

@@ -4,7 +4,7 @@ linktitle: Mute
 second_title: Aspose.Page for C++
 description: 'System::Console::Mute method. Mutes or unmutes the standard output stream in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/system/console/mute/
 ---
 ## Console::Mute method

@@ -4,7 +4,7 @@ linktitle: get_OmitXmlDeclaration
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_OmitXmlDeclaration method. Returns a value indicating whether to omit an XML declaration in C++.'
 type: docs
-weight: 300
+weight: 1400
 url: /cpp/system.xml/xmlwritersettings/get_omitxmldeclaration/
 ---
 ## XmlWriterSettings::get_OmitXmlDeclaration method

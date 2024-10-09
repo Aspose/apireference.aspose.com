@@ -4,7 +4,7 @@ linktitle: get_BaseSchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_BaseSchemaType method. Returns the post-compilation object type or the built-in XML Schema Definition Language (XSD) data type, simpleType element, or complexType element. This is a post-schema-compilation infoset value in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.xml.schema/xmlschematype/get_baseschematype/
 ---
 ## XmlSchemaType::get_BaseSchemaType method

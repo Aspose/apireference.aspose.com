@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SolidBrush::get_Color method. Returns this brush''s color in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.drawing/solidbrush/get_color/
 ---
 ## SolidBrush::get_Color method

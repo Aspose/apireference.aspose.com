@@ -4,7 +4,7 @@ linktitle: ReadElementContentAs
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAs method. Reads the element content as the requested type in C++.'
 type: docs
-weight: 4600
+weight: 5200
 url: /cpp/system.xml/xmlreader/readelementcontentas/
 ---
 ## XmlReader::ReadElementContentAs(const TypeInfo\&, SharedPtr\<IXmlNamespaceResolver\>) method

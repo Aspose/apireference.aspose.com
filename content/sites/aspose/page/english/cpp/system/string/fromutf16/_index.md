@@ -4,7 +4,7 @@ linktitle: FromUtf16
 second_title: Aspose.Page for C++
 description: 'System::String::FromUtf16 method. Creates String from utf16 string in C++.'
 type: docs
-weight: 7000
+weight: 6600
 url: /cpp/system/string/fromutf16/
 ---
 ## String::FromUtf16 method

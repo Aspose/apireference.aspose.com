@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::virtualizeBeginIterator method. Gets the implementation of begin iterator for the current container in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.collections.specialized/namevaluecollection/virtualizebeginiterator/
 ---
 ## NameValueCollection::virtualizeBeginIterator method

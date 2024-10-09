@@ -4,7 +4,7 @@ linktitle: get_MistyRose
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_MistyRose method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFE4E1 in C++.'
 type: docs
-weight: 9400
+weight: 9300
 url: /cpp/system.drawing/pens/get_mistyrose/
 ---
 ## Pens::get_MistyRose method

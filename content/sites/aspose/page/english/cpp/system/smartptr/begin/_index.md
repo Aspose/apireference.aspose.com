@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::begin method. Accessor for begin() method of an underling collection. Only compiles if SmartPtr_ is specialization type with begin() method in C++.'
 type: docs
-weight: 3100
+weight: 300
 url: /cpp/system/smartptr/begin/
 ---
 ## SmartPtr::begin() method

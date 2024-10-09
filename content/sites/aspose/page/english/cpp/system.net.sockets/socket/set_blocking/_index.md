@@ -4,7 +4,7 @@ linktitle: set_Blocking
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_Blocking method. Sets a value that indicates if the socket is in the blocking mode in C++.'
 type: docs
-weight: 800
+weight: 4800
 url: /cpp/system.net.sockets/socket/set_blocking/
 ---
 ## Socket::set_Blocking method

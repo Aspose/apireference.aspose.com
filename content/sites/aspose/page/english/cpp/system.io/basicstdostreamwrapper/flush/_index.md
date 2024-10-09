@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSTDOStreamWrapper::Flush method. Clears this stream''s buffers and writes all buffered data to the underlying storage in C++.'
 type: docs
-weight: 800
+weight: 200
 url: /cpp/system.io/basicstdostreamwrapper/flush/
 ---
 ## BasicSTDOStreamWrapper::Flush method

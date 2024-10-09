@@ -4,7 +4,7 @@ linktitle: set_AbbreviatedMonthNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_AbbreviatedMonthNames method. Sets abbreviated month names in C++.'
 type: docs
-weight: 2600
+weight: 4400
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviatedmonthnames/
 ---
 ## DateTimeFormatInfo::set_AbbreviatedMonthNames method

@@ -4,7 +4,7 @@ linktitle: GetCharWidthPoints
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::GetCharWidthPoints method. Returns width of the character (points) in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/aspose.page.font/drfont/getcharwidthpoints/
 ---
 ## DrFont::GetCharWidthPoints method

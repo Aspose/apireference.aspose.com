@@ -4,7 +4,7 @@ linktitle: operator-=
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::operator-= method. Assigns to the current object the time interval which is the result of subtraction of the time interval represented by the specified object from the time interval represented by the current object in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/system/timespan/operator-=/
 ---
 ## TimeSpan::operator-= method

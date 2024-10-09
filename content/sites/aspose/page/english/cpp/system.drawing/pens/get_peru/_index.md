@@ -4,7 +4,7 @@ linktitle: get_Peru
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Peru method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFCD853F in C++.'
 type: docs
-weight: 11000
+weight: 10900
 url: /cpp/system.drawing/pens/get_peru/
 ---
 ## Pens::get_Peru method

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'How to use get_Count method of Aspose::Page::EPS::Device::PdfCanvas class in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.page.eps.device/pdfcanvas/get_count/
 ---
 ## PdfCanvas::get_Count method

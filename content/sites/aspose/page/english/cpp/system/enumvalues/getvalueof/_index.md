@@ -4,7 +4,7 @@ linktitle: GetValueOf
 second_title: Aspose.Page for C++
 description: 'System::EnumValues::GetValueOf method. Returns boxed value of the enum constant with the specified name in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system/enumvalues/getvalueof/
 ---
 ## EnumValues::GetValueOf method

@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::Read method. Reads data from stream in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.security.cryptography/cryptostream/read/
 ---
 ## CryptoStream::Read(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

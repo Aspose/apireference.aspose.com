@@ -4,7 +4,7 @@ linktitle: set_ParameterStyle
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentServiceAttribute::set_ParameterStyle method. Sets a value that indicates if parameters are encapsulated within a single XML element beneath the ''Body'' element in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_parameterstyle/
 ---
 ## SoapDocumentServiceAttribute::set_ParameterStyle method

@@ -2,11 +2,30 @@
 title: System::Xml::XmlReader::MoveToAttribute method
 linktitle: MoveToAttribute
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlReader::MoveToAttribute method. When overridden in a derived class, moves to the attribute with the specified XmlReader::get_Name value in C++.'
+description: 'System::Xml::XmlReader::MoveToAttribute method. When overridden in a derived class, moves to the attribute with the specified index in C++.'
 type: docs
-weight: 4900
+weight: 3200
 url: /cpp/system.xml/xmlreader/movetoattribute/
 ---
+## XmlReader::MoveToAttribute(int32_t) method
+
+
+When overridden in a derived class, moves to the attribute with the specified index.
+
+```cpp
+virtual void System::Xml::XmlReader::MoveToAttribute(int32_t i)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| i | int32_t | The index of the attribute. |
+
+## See Also
+
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlReader::MoveToAttribute(String) method
 
 
@@ -53,25 +72,6 @@ virtual bool System::Xml::XmlReader::MoveToAttribute(String name, String ns)=0
 ## See Also
 
 * Class [String](../../../system/string/)
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlReader::MoveToAttribute(int32_t) method
-
-
-When overridden in a derived class, moves to the attribute with the specified index.
-
-```cpp
-virtual void System::Xml::XmlReader::MoveToAttribute(int32_t i)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| i | int32_t | The index of the attribute. |
-
-## See Also
-
 * Class [XmlReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

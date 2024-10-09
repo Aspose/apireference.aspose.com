@@ -4,7 +4,7 @@ linktitle: set_ReadTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::set_ReadTimeout method. Sets a value that determines whether the current stream can time out in C++.'
 type: docs
-weight: 600
+weight: 2200
 url: /cpp/system.net.sockets/networkstream/set_readtimeout/
 ---
 ## NetworkStream::set_ReadTimeout method

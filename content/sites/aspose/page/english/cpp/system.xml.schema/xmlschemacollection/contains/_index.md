@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCollection::Contains method. Returns a value indicating whether the targetNamespace of the specified XmlSchema is in the collection in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.xml.schema/xmlschemacollection/contains/
 ---
 ## XmlSchemaCollection::Contains(const SharedPtr\<XmlSchema\>\&) method

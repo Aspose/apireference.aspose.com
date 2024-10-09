@@ -4,7 +4,7 @@ linktitle: TiffSaveOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::TiffSaveOptions::TiffSaveOptions constructor. Creates new instance of options in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.presentation.image/tiffsaveoptions/tiffsaveoptions/
 ---
 ## TiffSaveOptions::TiffSaveOptions constructor

@@ -4,7 +4,7 @@ linktitle: set_MulticastLoopback
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_MulticastLoopback method. Sets a value that indicates if the socket receives outgoing multicast packets in C++.'
 type: docs
-weight: 3300
+weight: 5500
 url: /cpp/system.net.sockets/socket/set_multicastloopback/
 ---
 ## Socket::set_MulticastLoopback method

@@ -4,7 +4,7 @@ linktitle: XmlCaseOrder
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XmlCaseOrder enum. Specifies the sort order for uppercase and lowercase letters in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.xml.xpath/xmlcaseorder/
 ---
 ## XmlCaseOrder enum

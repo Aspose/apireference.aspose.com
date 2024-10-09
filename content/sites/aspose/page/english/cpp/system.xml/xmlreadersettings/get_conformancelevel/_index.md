@@ -4,7 +4,7 @@ linktitle: get_ConformanceLevel
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::get_ConformanceLevel method. Returns the level of conformance which the XmlReader will comply in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.xml/xmlreadersettings/get_conformancelevel/
 ---
 ## XmlReaderSettings::get_ConformanceLevel method

@@ -4,7 +4,7 @@ linktitle: ConformanceClaim
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::ConformanceClaim field. The value of the ''xmlns:wsi'' attribute in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.web.services/soap/conformanceclaim/
 ---
 ## ConformanceClaim field

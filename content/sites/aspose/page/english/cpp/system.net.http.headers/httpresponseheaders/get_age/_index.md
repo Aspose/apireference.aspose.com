@@ -4,7 +4,7 @@ linktitle: get_Age
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_Age method. Gets a value of the ''Age'' header in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net.http.headers/httpresponseheaders/get_age/
 ---
 ## HttpResponseHeaders::get_Age method

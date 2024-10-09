@@ -4,7 +4,7 @@ linktitle: Item
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamedNodeMap::Item method. Retrieves the node at the specified index in the XmlNamedNodeMap in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/system.xml/xmlnamednodemap/item/
 ---
 ## XmlNamedNodeMap::Item method

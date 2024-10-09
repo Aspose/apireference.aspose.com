@@ -4,7 +4,7 @@ linktitle: CreditCard
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::CreditCard field. Credit Card in C++.'
 type: docs
-weight: 17600
+weight: 700
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/creditcard/
 ---
 ## CreditCard field

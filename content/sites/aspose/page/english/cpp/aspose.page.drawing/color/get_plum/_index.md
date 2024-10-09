@@ -4,7 +4,7 @@ linktitle: get_Plum
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Plum method. Gets a system-defined color that has an ARGB value of #FFDDA0DD in C++.'
 type: docs
-weight: 11200
+weight: 11300
 url: /cpp/aspose.page.drawing/color/get_plum/
 ---
 ## Color::get_Plum method

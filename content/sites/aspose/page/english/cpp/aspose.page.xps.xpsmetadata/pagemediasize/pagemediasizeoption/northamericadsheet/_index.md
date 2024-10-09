@@ -4,7 +4,7 @@ linktitle: NorthAmericaDSheet
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaDSheet field. North America D sheet in C++.'
 type: docs
-weight: 9300
+weight: 11000
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericadsheet/
 ---
 ## NorthAmericaDSheet field

@@ -4,7 +4,7 @@ linktitle: set_DialogResult
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::IButtonControl::set_DialogResult method. Sets dialog result associated with button in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.windows.forms/ibuttoncontrol/set_dialogresult/
 ---
 ## IButtonControl::set_DialogResult method

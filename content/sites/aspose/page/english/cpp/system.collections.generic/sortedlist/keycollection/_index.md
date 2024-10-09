@@ -4,7 +4,7 @@ linktitle: KeyCollection
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedList::KeyCollection typedef. Key collection type in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/system.collections.generic/sortedlist/keycollection/
 ---
 ## KeyCollection typedef

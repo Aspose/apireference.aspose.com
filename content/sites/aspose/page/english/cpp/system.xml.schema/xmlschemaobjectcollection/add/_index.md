@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectCollection::Add method. Adds an XmlSchemaObject to the XmlSchemaObjectCollection in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/add/
 ---
 ## XmlSchemaObjectCollection::Add method

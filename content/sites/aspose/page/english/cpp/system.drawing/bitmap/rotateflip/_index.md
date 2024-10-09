@@ -4,7 +4,7 @@ linktitle: RotateFlip
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::RotateFlip method. Rotates image to multiple of 90 degrees and flips in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/system.drawing/bitmap/rotateflip/
 ---
 ## Bitmap::RotateFlip method

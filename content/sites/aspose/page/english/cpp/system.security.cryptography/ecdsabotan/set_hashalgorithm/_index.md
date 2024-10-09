@@ -4,7 +4,7 @@ linktitle: set_HashAlgorithm
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ECDsaBotan::set_HashAlgorithm method. Sets hash algortihm in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.security.cryptography/ecdsabotan/set_hashalgorithm/
 ---
 ## ECDsaBotan::set_HashAlgorithm method

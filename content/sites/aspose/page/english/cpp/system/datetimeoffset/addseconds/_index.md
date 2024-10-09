@@ -4,7 +4,7 @@ linktitle: AddSeconds
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddSeconds method. Adds a specified number of seconds to the DateTimeOffset object in C++.'
 type: docs
-weight: 2500
+weight: 800
 url: /cpp/system/datetimeoffset/addseconds/
 ---
 ## DateTimeOffset::AddSeconds method

@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::Create method. Creates a new instance of the WebRequest class using the specified URI in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.net/webrequest/create/
 ---
 ## WebRequest::Create(String) method

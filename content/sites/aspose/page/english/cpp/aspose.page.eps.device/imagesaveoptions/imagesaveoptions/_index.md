@@ -4,7 +4,7 @@ linktitle: ImageSaveOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions constructor. Initializes a new instance of the ImageSaveOptions class with default values for flags SuppressErrors (true) and Debug (false) in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.page.eps.device/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions::ImageSaveOptions() constructor
@@ -34,6 +34,29 @@ Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Draw
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageFormat | Aspose::Page::Drawing::Imaging::ImageFormat | The format of the image. |
+
+## See Also
+
+* Enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Page::EPS::Device](../../)
+* Library [Aspose.Page for C++](../../../)
+## ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Imaging::ImageFormat, bool) constructor
+
+
+Initializes a new instance of the [ImageSaveOptions](../) with with specified image format.
+
+```cpp
+Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Imaging::ImageFormat imageFormat, bool supressErrors)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFormat | Aspose::Page::Drawing::Imaging::ImageFormat | The format of the image. |
+| supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
+
+
 
 ## See Also
 
@@ -83,25 +106,25 @@ Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Draw
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)
-## ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Imaging::ImageFormat, bool) constructor
+## ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Size, Aspose::Page::Drawing::Imaging::ImageFormat, bool) constructor
 
 
-Initializes a new instance of the [ImageSaveOptions](../) with with specified image format.
+Initializes a new instance of the [ImageSaveOptions](../) with with specified size of the image and image format.
 
 ```cpp
-Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Imaging::ImageFormat imageFormat, bool supressErrors)
+Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Size size, Aspose::Page::Drawing::Imaging::ImageFormat imageFormat, bool supressErrors)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
+| size | Aspose::Page::Drawing::Size | The image size. |
 | imageFormat | Aspose::Page::Drawing::Imaging::ImageFormat | The format of the image. |
 | supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
 
-
-
 ## See Also
 
+* Class [Size](../../../aspose.page.drawing/size/)
 * Enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
@@ -124,29 +147,6 @@ Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Draw
 ## See Also
 
 * Class [Size](../../../aspose.page.drawing/size/)
-* Class [ImageSaveOptions](../)
-* Namespace [Aspose::Page::EPS::Device](../../)
-* Library [Aspose.Page for C++](../../../)
-## ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Size, Aspose::Page::Drawing::Imaging::ImageFormat, bool) constructor
-
-
-Initializes a new instance of the [ImageSaveOptions](../) with with specified size of the image and image format.
-
-```cpp
-Aspose::Page::EPS::Device::ImageSaveOptions::ImageSaveOptions(Aspose::Page::Drawing::Size size, Aspose::Page::Drawing::Imaging::ImageFormat imageFormat, bool supressErrors)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| size | Aspose::Page::Drawing::Size | The image size. |
-| imageFormat | Aspose::Page::Drawing::Imaging::ImageFormat | The format of the image. |
-| supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
-
-## See Also
-
-* Class [Size](../../../aspose.page.drawing/size/)
-* Enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)

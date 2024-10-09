@@ -4,7 +4,7 @@ linktitle: set_Capacity
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::set_Capacity method. Sets the collection capacity in C++.'
 type: docs
-weight: 200
+weight: 1200
 url: /cpp/system.net/cookiecontainer/set_capacity/
 ---
 ## CookieContainer::set_Capacity method

@@ -4,7 +4,7 @@ linktitle: VerifyData
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::RSACryptoServiceProvider::VerifyData method. Checks data signature in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/verifydata/
 ---
 ## RSACryptoServiceProvider::VerifyData method

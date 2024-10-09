@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::get_IsReadOnly method. Checks if collection is read only in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.objectmodel/readonlycollection/get_isreadonly/
 ---
 ## ReadOnlyCollection::get_IsReadOnly method

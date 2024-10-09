@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::IndexOf method. Looks for specific string in container in C++.'
 type: docs
-weight: 1200
+weight: 1800
 url: /cpp/system.collections.specialized/stringcollection/indexof/
 ---
 ## StringCollection::IndexOf method

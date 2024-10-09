@@ -4,7 +4,7 @@ linktitle: set_Points
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathData::set_Points method. Sets an array containing the points that make up a path in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.drawing.drawing2d/pathdata/set_points/
 ---
 ## PathData::set_Points method

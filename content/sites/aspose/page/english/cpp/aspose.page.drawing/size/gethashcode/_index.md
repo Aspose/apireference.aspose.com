@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Size::GetHashCode method. Returns a hash code for this T:Aspose::Page::Drawing::Size structure in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.page.drawing/size/gethashcode/
 ---
 ## Size::GetHashCode method

@@ -4,7 +4,7 @@ linktitle: get_Millisecond
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::get_Millisecond method. Gets millisecond component of the current object in C++.'
 type: docs
-weight: 1400
+weight: 2100
 url: /cpp/system/datetimeoffset/get_millisecond/
 ---
 ## DateTimeOffset::get_Millisecond method

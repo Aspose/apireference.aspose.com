@@ -4,7 +4,7 @@ linktitle: XpsEdgeMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsEdgeMode enum. Valid values of Canvas element''s RenderOptions.EdgeMode property in C++.'
 type: docs
-weight: 5600
+weight: 4800
 url: /cpp/aspose.page.xps.xpsmodel/xpsedgemode/
 ---
 ## XpsEdgeMode enum

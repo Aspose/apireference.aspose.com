@@ -4,7 +4,7 @@ linktitle: ToInt16
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToInt16 method. Converts the String to a Int16 equivalent in C++.'
 type: docs
-weight: 2300
+weight: 1900
 url: /cpp/system.xml/xmlconvert/toint16/
 ---
 ## XmlConvert::ToInt16 method

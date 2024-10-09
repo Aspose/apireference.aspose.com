@@ -4,7 +4,7 @@ linktitle: WriteClip
 second_title: Aspose.Page for C++
 description: 'How to use WriteClip method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 6400
+weight: 6600
 url: /cpp/aspose.page.eps.device/pdfdevice/writeclip/
 ---
 ## PdfDevice::WriteClip(System::Drawing::RectangleF) method

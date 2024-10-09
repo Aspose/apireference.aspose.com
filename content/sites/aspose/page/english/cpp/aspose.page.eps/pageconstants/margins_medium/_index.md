@@ -4,7 +4,7 @@ linktitle: MARGINS_MEDIUM
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PageConstants::MARGINS_MEDIUM method. "Medium" page margins value in C++.'
 type: docs
-weight: 1900
+weight: 900
 url: /cpp/aspose.page.eps/pageconstants/margins_medium/
 ---
 ## PageConstants::MARGINS_MEDIUM method

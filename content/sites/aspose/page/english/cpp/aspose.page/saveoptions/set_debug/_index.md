@@ -4,7 +4,7 @@ linktitle: set_Debug
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::SaveOptions::set_Debug method. Specifies whether debug information must be printed to standard output stream or not in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.page/saveoptions/set_debug/
 ---
 ## SaveOptions::set_Debug method

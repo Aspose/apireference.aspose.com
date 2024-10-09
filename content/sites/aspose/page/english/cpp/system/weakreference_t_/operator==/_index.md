@@ -2,30 +2,11 @@
 title: System::WeakReference< T >::operator== method
 linktitle: operator==
 second_title: Aspose.Page for C++
-description: 'System::WeakReference< T >::operator== method. Checks if referenced object is null in C++.'
+description: 'System::WeakReference< T >::operator== method. Compares referenced object to another instance WeakReference class in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system/weakreference_t_/operator==/
 ---
-## WeakReference< T >::operator==(std::nullptr_t) const method
-
-
-Checks if referenced object is null.
-
-```cpp
-bool System::WeakReference<T>::operator==(std::nullptr_t) const
-```
-
-
-### ReturnValue
-
-True if referenced object is null, false otherwise.
-
-## See Also
-
-* Class [WeakReference< T >](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## WeakReference< T >::operator==(const WeakReference\<T\>\&) const method
 
 
@@ -47,6 +28,25 @@ True if compared objects reference the same object, false otherwise.
 ## See Also
 
 * Class [WeakReference](../../weakreference/)
+* Class [WeakReference< T >](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## WeakReference< T >::operator==(std::nullptr_t) const method
+
+
+Checks if referenced object is null.
+
+```cpp
+bool System::WeakReference<T>::operator==(std::nullptr_t) const
+```
+
+
+### ReturnValue
+
+True if referenced object is null, false otherwise.
+
+## See Also
+
 * Class [WeakReference< T >](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

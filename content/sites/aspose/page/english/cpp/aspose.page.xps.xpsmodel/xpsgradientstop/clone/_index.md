@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGradientStop::Clone method. Clones this gradient stop in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsgradientstop/clone/
 ---
 ## XpsGradientStop::Clone method

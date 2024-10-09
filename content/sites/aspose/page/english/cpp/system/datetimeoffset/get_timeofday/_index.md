@@ -4,7 +4,7 @@ linktitle: get_TimeOfDay
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::get_TimeOfDay method. Gets time of day of the current object in C++.'
 type: docs
-weight: 1800
+weight: 2700
 url: /cpp/system/datetimeoffset/get_timeofday/
 ---
 ## DateTimeOffset::get_TimeOfDay method

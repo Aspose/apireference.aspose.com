@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::get_Name method. Gets the binding''s name in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.web.services/webservicebindingattribute/get_name/
 ---
 ## WebServiceBindingAttribute::get_Name method

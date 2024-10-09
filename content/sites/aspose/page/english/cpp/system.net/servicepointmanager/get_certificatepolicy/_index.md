@@ -4,7 +4,7 @@ linktitle: get_CertificatePolicy
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePointManager::get_CertificatePolicy method. Gets a certificate policy in C++.'
 type: docs
-weight: 1700
+weight: 100
 url: /cpp/system.net/servicepointmanager/get_certificatepolicy/
 ---
 ## ServicePointManager::get_CertificatePolicy method

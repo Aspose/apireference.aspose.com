@@ -4,7 +4,7 @@ linktitle: Negate
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Negate method. Returns a new instance of Decimal class that represents a value that results from negation of the value represented by the specified object in C++.'
 type: docs
-weight: 4900
+weight: 4100
 url: /cpp/system/decimal/negate/
 ---
 ## Decimal::Negate method

@@ -4,7 +4,7 @@ linktitle: get_TryJoinImageFragments
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::ImageSaveOptions::get_TryJoinImageFragments method. The flag for combining image fragments into one picture in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.page.eps.device/imagesaveoptions/get_tryjoinimagefragments/
 ---
 ## ImageSaveOptions::get_TryJoinImageFragments method

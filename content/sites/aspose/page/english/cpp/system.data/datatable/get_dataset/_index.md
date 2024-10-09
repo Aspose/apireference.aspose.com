@@ -4,7 +4,7 @@ linktitle: get_DataSet
 second_title: Aspose.Page for C++
 description: 'System::Data::DataTable::get_DataSet method. Gets data set table belongs to in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.data/datatable/get_dataset/
 ---
 ## DataTable::get_DataSet method

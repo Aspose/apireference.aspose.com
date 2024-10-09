@@ -4,7 +4,7 @@ linktitle: get_BaseURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_BaseURI method. When overridden in a derived class, gets the base URI of the current node in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/system.xml/xmlreader/get_baseuri/
 ---
 ## XmlReader::get_BaseURI method

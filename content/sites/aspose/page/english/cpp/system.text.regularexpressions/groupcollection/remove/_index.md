@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::GroupCollection::Remove method. Disables removing element from collection in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.text.regularexpressions/groupcollection/remove/
 ---
 ## GroupCollection::Remove method

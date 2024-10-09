@@ -4,7 +4,7 @@ linktitle: get_RequestNamespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::get_RequestNamespace method. Gets the namespace associated with the SOAP request in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/get_requestnamespace/
 ---
 ## SoapDocumentMethodAttribute::get_RequestNamespace method

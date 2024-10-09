@@ -4,7 +4,7 @@ linktitle: Schemas
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::Schemas method. Returns a collection of all the XML Schema definition language (XSD) schemas in the XmlSchemaSet in C++.'
 type: docs
-weight: 2000
+weight: 1600
 url: /cpp/system.xml.schema/xmlschemaset/schemas/
 ---
 ## XmlSchemaSet::Schemas() method

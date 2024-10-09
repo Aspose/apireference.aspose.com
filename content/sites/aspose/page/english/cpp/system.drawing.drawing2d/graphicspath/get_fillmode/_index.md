@@ -4,7 +4,7 @@ linktitle: get_FillMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::get_FillMode method. Returns the fill mode of the current object in C++.'
 type: docs
-weight: 800
+weight: 2200
 url: /cpp/system.drawing.drawing2d/graphicspath/get_fillmode/
 ---
 ## GraphicsPath::get_FillMode method

@@ -4,7 +4,7 @@ linktitle: set_RefName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::set_RefName method. Sets the name of an attribute declared in this schema (or another schema indicated by the specified namespace) in C++.'
 type: docs
-weight: 1000
+weight: 1700
 url: /cpp/system.xml.schema/xmlschemaattribute/set_refname/
 ---
 ## XmlSchemaAttribute::set_RefName method

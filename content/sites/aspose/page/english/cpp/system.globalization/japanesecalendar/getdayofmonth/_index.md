@@ -4,7 +4,7 @@ linktitle: GetDayOfMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::JapaneseCalendar::GetDayOfMonth method. Gets day of month for the specified time point in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/system.globalization/japanesecalendar/getdayofmonth/
 ---
 ## JapaneseCalendar::GetDayOfMonth method

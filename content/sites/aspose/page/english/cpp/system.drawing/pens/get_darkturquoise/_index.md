@@ -4,7 +4,7 @@ linktitle: get_DarkTurquoise
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkTurquoise method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF00CED1 in C++.'
 type: docs
-weight: 3800
+weight: 3700
 url: /cpp/system.drawing/pens/get_darkturquoise/
 ---
 ## Pens::get_DarkTurquoise method

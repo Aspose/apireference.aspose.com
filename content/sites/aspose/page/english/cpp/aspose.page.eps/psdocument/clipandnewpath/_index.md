@@ -4,7 +4,7 @@ linktitle: ClipAndNewPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::ClipAndNewPath method. Adds clip to current graphics state and than writes "newpath" operator. It is necessary to do to escape of confluence of this clipping path and some subsequent pathes such as glyphs outlined with "charpath" operator in C++.'
 type: docs
-weight: 2900
+weight: 300
 url: /cpp/aspose.page.eps/psdocument/clipandnewpath/
 ---
 ## PsDocument::ClipAndNewPath method

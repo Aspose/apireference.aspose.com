@@ -4,7 +4,7 @@ linktitle: get_PaleGoldenrod
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_PaleGoldenrod method. Gets a system-defined color that has an ARGB value of #FFEEE8AA in C++.'
 type: docs
-weight: 10400
+weight: 10500
 url: /cpp/aspose.page.drawing/color/get_palegoldenrod/
 ---
 ## Color::get_PaleGoldenrod method

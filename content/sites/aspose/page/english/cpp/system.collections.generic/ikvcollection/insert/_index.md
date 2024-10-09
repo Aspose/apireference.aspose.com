@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::Insert method. Inserts item at specified position in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.collections.generic/ikvcollection/insert/
 ---
 ## IKVCollection::Insert method

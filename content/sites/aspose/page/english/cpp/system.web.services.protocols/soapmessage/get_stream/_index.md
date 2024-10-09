@@ -4,7 +4,7 @@ linktitle: get_Stream
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::get_Stream method. Gets the stream that contains the SOAP message data in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/system.web.services.protocols/soapmessage/get_stream/
 ---
 ## SoapMessage::get_Stream method

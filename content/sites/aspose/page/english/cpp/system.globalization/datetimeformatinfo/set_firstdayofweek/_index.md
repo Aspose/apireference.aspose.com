@@ -4,7 +4,7 @@ linktitle: set_FirstDayOfWeek
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_FirstDayOfWeek method. Sets first day of week in C++.'
 type: docs
-weight: 3400
+weight: 5000
 url: /cpp/system.globalization/datetimeformatinfo/set_firstdayofweek/
 ---
 ## DateTimeFormatInfo::set_FirstDayOfWeek method

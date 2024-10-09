@@ -4,7 +4,7 @@ linktitle: get_Brown
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Brown method. Returns a color whose ARGB value in hexadecimal notation is #FFA52A2A in C++.'
 type: docs
-weight: 3400
+weight: 3300
 url: /cpp/system.drawing/color/get_brown/
 ---
 ## Color::get_Brown method

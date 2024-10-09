@@ -4,7 +4,7 @@ linktitle: get_InterpolationMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::get_InterpolationMode method. Gets/sets the interpolation mode in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/get_interpolationmode/
 ---
 ## ImageSaveOptions::get_InterpolationMode method

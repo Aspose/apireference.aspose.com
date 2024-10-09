@@ -4,7 +4,7 @@ linktitle: get_Y
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Screen::Rectangle_::get_Y method. Gets tops position in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.windows.forms/screen/rectangle_/get_y/
 ---
 ## Rectangle_::get_Y method

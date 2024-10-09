@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamWriter::Write method. Writes the specified character to the stream in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/system.io/streamwriter/write/
 ---
 ## StreamWriter::Write(char_t) method
@@ -23,47 +23,6 @@ void System::IO::StreamWriter::Write(char_t value) override
 
 ## See Also
 
-* Class [StreamWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## StreamWriter::Write(const String\&) method
-
-
-Writes the specified string to the stream.
-
-```cpp
-void System::IO::StreamWriter::Write(const String &value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | The string to write |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [StreamWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## StreamWriter::Write(const SharedPtr\<Object\>\&) method
-
-
-Writes the string representation of the specified object to the stream.
-
-```cpp
-void System::IO::StreamWriter::Write(const SharedPtr<Object> &obj) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const SharedPtr\<Object\>\& | The object to write |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [StreamWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -125,6 +84,47 @@ void System::IO::StreamWriter::Write(const char_t *buffer) override
 
 ## See Also
 
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## StreamWriter::Write(const SharedPtr\<Object\>\&) method
+
+
+Writes the string representation of the specified object to the stream.
+
+```cpp
+void System::IO::StreamWriter::Write(const SharedPtr<Object> &obj) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const SharedPtr\<Object\>\& | The object to write |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## StreamWriter::Write(const String\&) method
+
+
+Writes the specified string to the stream.
+
+```cpp
+void System::IO::StreamWriter::Write(const String &value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The string to write |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [StreamWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

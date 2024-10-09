@@ -4,7 +4,7 @@ linktitle: TrueForAll
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::TrueForAll method. Determines whether every element in the collection matches the conditions defined by the specified predicate in C++.'
 type: docs
-weight: 4400
+weight: 4700
 url: /cpp/system.collections.generic/list/trueforall/
 ---
 ## List::TrueForAll method

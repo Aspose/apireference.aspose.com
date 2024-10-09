@@ -4,7 +4,7 @@ linktitle: get_ValueType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlAtomicValue::get_ValueType method. Returns the type of the validated XML element or attribute in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.xml.schema/xmlatomicvalue/get_valuetype/
 ---
 ## XmlAtomicValue::get_ValueType method

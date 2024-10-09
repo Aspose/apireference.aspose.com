@@ -4,7 +4,7 @@ linktitle: ToUpperInvariant
 second_title: Aspose.Page for C++
 description: 'System::Char::ToUpperInvariant method. Converts the specified character to upper case in C++.'
 type: docs
-weight: 2000
+weight: 2500
 url: /cpp/system/char/toupperinvariant/
 ---
 ## Char::ToUpperInvariant method

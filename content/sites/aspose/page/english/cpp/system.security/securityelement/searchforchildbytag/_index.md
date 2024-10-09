@@ -4,7 +4,7 @@ linktitle: SearchForChildByTag
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::SearchForChildByTag method. Gets child tag by name in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/system.security/securityelement/searchforchildbytag/
 ---
 ## SecurityElement::SearchForChildByTag method

@@ -4,7 +4,7 @@ linktitle: get_ServerCertificateValidationCallback
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePointManager::get_ServerCertificateValidationCallback method. Gets the callback that is used to validate a server certificate in C++.'
 type: docs
-weight: 1900
+weight: 1200
 url: /cpp/system.net/servicepointmanager/get_servercertificatevalidationcallback/
 ---
 ## ServicePointManager::get_ServerCertificateValidationCallback method

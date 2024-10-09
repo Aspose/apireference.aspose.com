@@ -4,7 +4,7 @@ linktitle: GetECDsaPrivateKey
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::GetECDsaPrivateKey method. Gets RSA private key; in C++.'
 type: docs
-weight: 3000
+weight: 1900
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/getecdsaprivatekey/
 ---
 ## X509Certificate2::GetECDsaPrivateKey method

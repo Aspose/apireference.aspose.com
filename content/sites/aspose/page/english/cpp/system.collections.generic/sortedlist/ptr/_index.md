@@ -4,7 +4,7 @@ linktitle: Ptr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedList::Ptr typedef. Pointer type in C++.'
 type: docs
-weight: 1800
+weight: 2200
 url: /cpp/system.collections.generic/sortedlist/ptr/
 ---
 ## Ptr typedef

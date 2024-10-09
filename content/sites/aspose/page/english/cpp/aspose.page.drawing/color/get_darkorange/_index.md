@@ -4,7 +4,7 @@ linktitle: get_DarkOrange
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DarkOrange method. Gets a system-defined color that has an ARGB value of #FFFF8C00 in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/aspose.page.drawing/color/get_darkorange/
 ---
 ## Color::get_DarkOrange method

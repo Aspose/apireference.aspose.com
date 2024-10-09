@@ -4,7 +4,7 @@ linktitle: get_Prefix
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_Prefix method. When overridden in a derived class, gets the namespace prefix associated with the current node in C++.'
 type: docs
-weight: 600
+weight: 1900
 url: /cpp/system.xml/xmlreader/get_prefix/
 ---
 ## XmlReader::get_Prefix method

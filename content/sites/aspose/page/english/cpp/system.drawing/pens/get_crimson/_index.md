@@ -4,7 +4,7 @@ linktitle: get_Crimson
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Crimson method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFDC143C in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/system.drawing/pens/get_crimson/
 ---
 ## Pens::get_Crimson method

@@ -4,7 +4,7 @@ linktitle: Aspose::Page::XPS::XpsModel
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::XpsModel namespace in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.page.xps.xpsmodel/
 ---
 
@@ -63,20 +63,20 @@ url: /cpp/aspose.page.xps.xpsmodel/
 
 | Enum | Description |
 | --- | --- |
-| [XpsElementType](./xpselementtype/) |  |
+| [XpsColorInterpolationMode](./xpscolorinterpolationmode/) | Valid values of gradient brushes' ColorInterpolationMode property. |
 | [XpsDashCap](./xpsdashcap/) | Valid values of Path element's StrokeDashCap property. |
+| [XpsEdgeMode](./xpsedgemode/) | Valid values of Canvas element's RenderOptions.EdgeMode property. |
+| [XpsElementType](./xpselementtype/) |  |
+| [XpsFillRule](./xpsfillrule/) | Valid values of PathGeometry element's FillRule property. |
 | [XpsLineCap](./xpslinecap/) | Valid values of Path element's StrokeStartLineCap and StrokeEndLineCap properties. |
 | [XpsLineJoin](./xpslinejoin/) | Valid values of Path element's StrokeLineJoin property. |
+| [XpsSpreadMethod](./xpsspreadmethod/) | Valid values of gradient brushes' SpreadMethod property. |
 | [XpsStyleSimulations](./xpsstylesimulations/) | Valid values of Glyphs element's StyleSimulations property. |
-| [XpsFillRule](./xpsfillrule/) | Valid values of PathGeometry element's FillRule property. |
 | [XpsSweepDirection](./xpssweepdirection/) | Valid values of ArcSegment element's SweepDirection property. |
 | [XpsTileMode](./xpstilemode/) | Valid values of tiling brushes' TileMode property. |
-| [XpsColorInterpolationMode](./xpscolorinterpolationmode/) | Valid values of gradient brushes' ColorInterpolationMode property. |
-| [XpsSpreadMethod](./xpsspreadmethod/) | Valid values of gradient brushes' SpreadMethod property. |
-| [XpsEdgeMode](./xpsedgemode/) | Valid values of Canvas element's RenderOptions.EdgeMode property. |
 ## Functions
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

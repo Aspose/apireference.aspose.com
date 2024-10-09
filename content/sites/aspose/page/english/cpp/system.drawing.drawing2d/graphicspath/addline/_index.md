@@ -4,7 +4,7 @@ linktitle: AddLine
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::AddLine method. Adds the specified line to the path represented by the current object in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/system.drawing.drawing2d/graphicspath/addline/
 ---
 ## GraphicsPath::AddLine(const Point\&, const Point\&) method
@@ -49,28 +49,6 @@ void System::Drawing::Drawing2D::GraphicsPath::AddLine(const PointF &pt1, const 
 * Class [GraphicsPath](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.Page for C++](../../../)
-## GraphicsPath::AddLine(int, int, int, int) method
-
-
-Adds the specified line to the path represented by the current object.
-
-```cpp
-void System::Drawing::Drawing2D::GraphicsPath::AddLine(int x1, int y1, int x2, int y2)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x1 | int | The X coordinate of the starting point of the line to add |
-| y1 | int | The Y coordinate of the starting point of the line to add |
-| x2 | int | The X coordinate of the ending point of the line to add |
-| y2 | int | The Y coordinate of the ending point of the line to add |
-
-## See Also
-
-* Class [GraphicsPath](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Page for C++](../../../)
 ## GraphicsPath::AddLine(float, float, float, float) method
 
 
@@ -87,6 +65,28 @@ void System::Drawing::Drawing2D::GraphicsPath::AddLine(float x1, float y1, float
 | y1 | float | The Y coordinate of the starting point of the line to add |
 | x2 | float | The X coordinate of the ending point of the line to add |
 | y2 | float | The Y coordinate of the ending point of the line to add |
+
+## See Also
+
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Page for C++](../../../)
+## GraphicsPath::AddLine(int, int, int, int) method
+
+
+Adds the specified line to the path represented by the current object.
+
+```cpp
+void System::Drawing::Drawing2D::GraphicsPath::AddLine(int x1, int y1, int x2, int y2)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x1 | int | The X coordinate of the starting point of the line to add |
+| y1 | int | The Y coordinate of the starting point of the line to add |
+| x2 | int | The X coordinate of the ending point of the line to add |
+| y2 | int | The Y coordinate of the ending point of the line to add |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: get_RawFormat
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::get_RawFormat method. Returns the file format of the image represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.drawing/bitmap/get_rawformat/
 ---
 ## Bitmap::get_RawFormat method

@@ -4,7 +4,7 @@ linktitle: GetObjectOrNull
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::GetObjectOrNull method. Gets pointed object (if any) or nullptr. Same as get() in C++.'
 type: docs
-weight: 2500
+weight: 1600
 url: /cpp/system/smartptr/getobjectornull/
 ---
 ## SmartPtr::GetObjectOrNull method

@@ -4,7 +4,7 @@ linktitle: SharedCount
 second_title: Aspose.Page for C++
 description: 'System::Object::SharedCount method. Gets current value of shared reference counter in C++.'
 type: docs
-weight: 1000
+weight: 1500
 url: /cpp/system/object/sharedcount/
 ---
 ## Object::SharedCount method

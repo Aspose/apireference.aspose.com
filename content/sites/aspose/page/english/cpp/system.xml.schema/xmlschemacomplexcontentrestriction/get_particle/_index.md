@@ -4,7 +4,7 @@ linktitle: get_Particle
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexContentRestriction::get_Particle method. Returns one of the XmlSchemaGroupRef, XmlSchemaChoice, XmlSchemaAll, or XmlSchemaSequence classes in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.xml.schema/xmlschemacomplexcontentrestriction/get_particle/
 ---
 ## XmlSchemaComplexContentRestriction::get_Particle method

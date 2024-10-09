@@ -4,7 +4,7 @@ linktitle: ReadContentAsInt
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAsInt method. Reads the text content at the current position as a 32-bit signed integer in C++.'
 type: docs
-weight: 3300
+weight: 4800
 url: /cpp/system.xml/xmlreader/readcontentasint/
 ---
 ## XmlReader::ReadContentAsInt method

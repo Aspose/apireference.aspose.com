@@ -4,7 +4,7 @@ linktitle: Transform
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Transform method. Transforms the current transformation matrix. Calls writeTransform(Transform) in C++.'
 type: docs
-weight: 5800
+weight: 6100
 url: /cpp/aspose.page.eps.device/pdfdevice/transform/
 ---
 ## PdfDevice::Transform method

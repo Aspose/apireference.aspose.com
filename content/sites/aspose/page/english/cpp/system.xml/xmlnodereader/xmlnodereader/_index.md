@@ -4,7 +4,7 @@ linktitle: XmlNodeReader
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::XmlNodeReader constructor. Creates an instance of the XmlNodeReader class using the specified XmlNode in C++.'
 type: docs
-weight: 2200
+weight: 100
 url: /cpp/system.xml/xmlnodereader/xmlnodereader/
 ---
 ## XmlNodeReader::XmlNodeReader constructor

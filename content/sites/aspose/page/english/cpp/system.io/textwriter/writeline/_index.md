@@ -21,27 +21,6 @@ virtual void System::IO::TextWriter::WriteLine()
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(const SharedPtr\<Object\>\&) method
-
-
-Writes the string representation of the specified object followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(const SharedPtr<Object> &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const SharedPtr\<Object\>\& | The object to write |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TextWriter::WriteLine(bool) method
 
 
@@ -74,160 +53,6 @@ virtual void System::IO::TextWriter::WriteLine(char_t value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | char_t | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(Decimal) method
-
-
-Writes the string representation of the specified [Decimal](../../../system/decimal/) object followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(Decimal value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Decimal | The object to write |
-
-## See Also
-
-* Class [Decimal](../../../system/decimal/)
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(double) method
-
-
-Writes the string representation of the specified double-precision floating point value followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(double value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(int) method
-
-
-Writes the string representation of the specified 32-bit integer value followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(int value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(int64_t) method
-
-
-Writes the string representation of the specified 64-bit integer value followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(int64_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int64_t | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(float) method
-
-
-Writes the string representation of the specified single-precision floating point value followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(float value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(const String\&) method
-
-
-Writes the specified string followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(const String &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | The string to write |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(uint32_t) method
-
-
-Writes the string representation of the specified unsigned 32-bit integer value followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(uint32_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint32_t | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(uint64_t) method
-
-
-Writes the string representation of the specified unsigned 64-bit integer value followed by the line-terminating characters to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::WriteLine(uint64_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint64_t | The value to write |
 
 ## See Also
 
@@ -295,23 +120,24 @@ virtual void System::IO::TextWriter::WriteLine(const char_t *value)
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
-## TextWriter::WriteLine(const TypeInfo\&) method
+## TextWriter::WriteLine(const SharedPtr\<Object\>\&) method
 
 
-Writes the string representation of the specified [TypeInfo](../../../system/typeinfo/) object followed by the line-terminating characters to the stream.
+Writes the string representation of the specified object followed by the line-terminating characters to the stream.
 
 ```cpp
-virtual void System::IO::TextWriter::WriteLine(const TypeInfo &value)
+virtual void System::IO::TextWriter::WriteLine(const SharedPtr<Object> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | const TypeInfo\& | The object to write |
+| value | const SharedPtr\<Object\>\& | The object to write |
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -337,6 +163,180 @@ template<class...> void System::IO::TextWriter::WriteLine(const String &format, 
 ## See Also
 
 * Class [String](../../../system/string/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(const String\&) method
+
+
+Writes the specified string followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(const String &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The string to write |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(const TypeInfo\&) method
+
+
+Writes the string representation of the specified [TypeInfo](../../../system/typeinfo/) object followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(const TypeInfo &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const TypeInfo\& | The object to write |
+
+## See Also
+
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(Decimal) method
+
+
+Writes the string representation of the specified [Decimal](../../../system/decimal/) object followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(Decimal value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Decimal | The object to write |
+
+## See Also
+
+* Class [Decimal](../../../system/decimal/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(double) method
+
+
+Writes the string representation of the specified double-precision floating point value followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(double value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(float) method
+
+
+Writes the string representation of the specified single-precision floating point value followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(float value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(int) method
+
+
+Writes the string representation of the specified 32-bit integer value followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(int value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(int64_t) method
+
+
+Writes the string representation of the specified 64-bit integer value followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(int64_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int64_t | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(uint32_t) method
+
+
+Writes the string representation of the specified unsigned 32-bit integer value followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(uint32_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint32_t | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::WriteLine(uint64_t) method
+
+
+Writes the string representation of the specified unsigned 64-bit integer value followed by the line-terminating characters to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::WriteLine(uint64_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint64_t | The value to write |
+
+## See Also
+
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

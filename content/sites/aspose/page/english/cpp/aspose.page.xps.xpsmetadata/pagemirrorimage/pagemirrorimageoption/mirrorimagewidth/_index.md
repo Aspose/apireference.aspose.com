@@ -4,7 +4,7 @@ linktitle: MirrorImageWidth
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMirrorImage::PageMirrorImageOption::MirrorImageWidth field. Specifies the output should be mirrored parallel to the MediaSizeWidth direction in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemirrorimage/pagemirrorimageoption/mirrorimagewidth/
 ---
 ## MirrorImageWidth field

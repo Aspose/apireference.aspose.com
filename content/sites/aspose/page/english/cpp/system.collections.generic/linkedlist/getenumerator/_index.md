@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::GetEnumerator method. Gets enumerator to iterate through current LinkedList in C++.'
 type: docs
-weight: 1500
+weight: 2100
 url: /cpp/system.collections.generic/linkedlist/getenumerator/
 ---
 ## LinkedList::GetEnumerator method

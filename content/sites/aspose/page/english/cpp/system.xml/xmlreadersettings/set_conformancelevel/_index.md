@@ -4,7 +4,7 @@ linktitle: set_ConformanceLevel
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_ConformanceLevel method. Sets the level of conformance which the XmlReader will comply in C++.'
 type: docs
-weight: 900
+weight: 2300
 url: /cpp/system.xml/xmlreadersettings/set_conformancelevel/
 ---
 ## XmlReaderSettings::set_ConformanceLevel method

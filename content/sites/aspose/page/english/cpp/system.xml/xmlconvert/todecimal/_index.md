@@ -4,7 +4,7 @@ linktitle: ToDecimal
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToDecimal method. Converts the String to a Decimal equivalent in C++.'
 type: docs
-weight: 2100
+weight: 1600
 url: /cpp/system.xml/xmlconvert/todecimal/
 ---
 ## XmlConvert::ToDecimal method

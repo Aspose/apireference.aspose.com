@@ -4,7 +4,7 @@ linktitle: VerifyName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::VerifyName method. Verifies that the name is a valid name according to the W3C Extended Markup Language recommendation in C++.'
 type: docs
-weight: 500
+weight: 2900
 url: /cpp/system.xml/xmlconvert/verifyname/
 ---
 ## XmlConvert::VerifyName method

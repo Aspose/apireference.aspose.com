@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::Array::operator[] method. Returns an item at the specified index in C++.'
 type: docs
-weight: 1800
+weight: 3500
 url: /cpp/system/array/operator[]/
 ---
 ## Array::operator[](int) method

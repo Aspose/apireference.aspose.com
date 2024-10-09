@@ -4,7 +4,7 @@ linktitle: InsertElementAfter
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::InsertElementAfter method. Creates a new sibling element after the current node using the namespace prefix, local name and namespace URI specified, with the value specified in C++.'
 type: docs
-weight: 8000
+weight: 4300
 url: /cpp/system.xml.xpath/xpathnavigator/insertelementafter/
 ---
 ## XPathNavigator::InsertElementAfter method

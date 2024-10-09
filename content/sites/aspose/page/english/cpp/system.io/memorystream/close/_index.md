@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::IO::MemoryStream::Close method. Closes the stream in C++.'
 type: docs
-weight: 2100
+weight: 200
 url: /cpp/system.io/memorystream/close/
 ---
 ## MemoryStream::Close method

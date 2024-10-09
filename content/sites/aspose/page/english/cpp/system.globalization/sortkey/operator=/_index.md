@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Globalization::SortKey class in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.globalization/sortkey/operator=/
 ---
 ## SortKey::operator= method

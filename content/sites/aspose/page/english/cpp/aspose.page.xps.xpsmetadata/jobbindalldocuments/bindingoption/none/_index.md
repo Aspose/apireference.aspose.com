@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobBindAllDocuments::BindingOption::None field. Specifies no binding in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/aspose.page.xps.xpsmetadata/jobbindalldocuments/bindingoption/none/
 ---
 ## None field

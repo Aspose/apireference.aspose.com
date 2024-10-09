@@ -4,7 +4,7 @@ linktitle: get_shared_count
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::get_shared_count method. Gets number of shared pointers existing to referenced object, including current one. Asserts current pointer being in shared mode in C++.'
 type: docs
-weight: 2800
+weight: 1300
 url: /cpp/system/smartptr/get_shared_count/
 ---
 ## SmartPtr::get_shared_count method

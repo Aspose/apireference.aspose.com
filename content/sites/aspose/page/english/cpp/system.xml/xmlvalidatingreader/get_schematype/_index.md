@@ -4,7 +4,7 @@ linktitle: get_SchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_SchemaType method. Returns a schema type object in C++.'
 type: docs
-weight: 2300
+weight: 2700
 url: /cpp/system.xml/xmlvalidatingreader/get_schematype/
 ---
 ## XmlValidatingReader::get_SchemaType method

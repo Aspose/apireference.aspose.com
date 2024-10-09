@@ -4,7 +4,7 @@ linktitle: ORIENTATION_PORTRAIT
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PageConstants::ORIENTATION_PORTRAIT method. "Portrait" orientation value in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/aspose.page.eps/pageconstants/orientation_portrait/
 ---
 ## PageConstants::ORIENTATION_PORTRAIT method

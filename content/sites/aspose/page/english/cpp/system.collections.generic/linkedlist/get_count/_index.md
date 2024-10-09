@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::get_Count method. Gets number of elements in list in C++.'
 type: docs
-weight: 400
+weight: 1800
 url: /cpp/system.collections.generic/linkedlist/get_count/
 ---
 ## LinkedList::get_Count method

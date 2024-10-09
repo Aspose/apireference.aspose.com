@@ -4,7 +4,7 @@ linktitle: ISOB5Extra
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOB5Extra field. ISOB5 extra in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isob5extra/
 ---
 ## ISOB5Extra field

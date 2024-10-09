@@ -4,7 +4,7 @@ linktitle: PAGE_MARGINS
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::PAGE_MARGINS method. "Page margins" property key in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/aspose.page.eps.device/pdfdevice/page_margins/
 ---
 ## PdfDevice::PAGE_MARGINS method

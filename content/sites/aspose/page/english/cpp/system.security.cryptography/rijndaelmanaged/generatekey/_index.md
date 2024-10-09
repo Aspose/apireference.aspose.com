@@ -4,7 +4,7 @@ linktitle: GenerateKey
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::RijndaelManaged::GenerateKey method. Creates random key and stores it in algorithm''s internals in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.security.cryptography/rijndaelmanaged/generatekey/
 ---
 ## RijndaelManaged::GenerateKey method

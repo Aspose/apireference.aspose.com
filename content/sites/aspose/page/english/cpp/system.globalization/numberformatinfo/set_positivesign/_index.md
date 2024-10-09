@@ -4,7 +4,7 @@ linktitle: set_PositiveSign
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PositiveSign method. Sets positive sign in C++.'
 type: docs
-weight: 1700
+weight: 5900
 url: /cpp/system.globalization/numberformatinfo/set_positivesign/
 ---
 ## NumberFormatInfo::set_PositiveSign method

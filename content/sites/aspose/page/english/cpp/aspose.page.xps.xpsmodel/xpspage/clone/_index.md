@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPage::Clone method. Clones this page in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpspage/clone/
 ---
 ## XpsPage::Clone method

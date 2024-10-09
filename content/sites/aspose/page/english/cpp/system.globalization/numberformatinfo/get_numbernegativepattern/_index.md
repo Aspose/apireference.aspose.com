@@ -4,7 +4,7 @@ linktitle: get_NumberNegativePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_NumberNegativePattern method. Gets number negative pattern in C++.'
 type: docs
-weight: 4000
+weight: 2000
 url: /cpp/system.globalization/numberformatinfo/get_numbernegativepattern/
 ---
 ## NumberFormatInfo::get_NumberNegativePattern method

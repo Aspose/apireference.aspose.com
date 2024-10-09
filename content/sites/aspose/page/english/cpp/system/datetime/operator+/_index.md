@@ -4,7 +4,7 @@ linktitle: operator+
 second_title: Aspose.Page for C++
 description: 'System::DateTime::operator+ method. Returns a new instance of DateTime class that represents the date and time value that is the sum of the value represented by the current object and the specified time span in C++.'
 type: docs
-weight: 5000
+weight: 3200
 url: /cpp/system/datetime/operator+/
 ---
 ## DateTime::operator+ method

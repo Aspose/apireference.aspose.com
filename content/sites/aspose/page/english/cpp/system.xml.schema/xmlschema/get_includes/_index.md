@@ -4,7 +4,7 @@ linktitle: get_Includes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_Includes method. Returns the collection of included and imported schemas in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.xml.schema/xmlschema/get_includes/
 ---
 ## XmlSchema::get_Includes method

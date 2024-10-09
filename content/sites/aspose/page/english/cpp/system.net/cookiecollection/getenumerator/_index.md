@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::GetEnumerator method. Gets enumerator in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/system.net/cookiecollection/getenumerator/
 ---
 ## CookieCollection::GetEnumerator method

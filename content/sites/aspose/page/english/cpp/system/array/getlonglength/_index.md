@@ -4,7 +4,7 @@ linktitle: GetLongLength
 second_title: Aspose.Page for C++
 description: 'System::Array::GetLongLength method. Returns the number of elements in the specified dimension as 64-bit integer in C++.'
 type: docs
-weight: 2100
+weight: 2300
 url: /cpp/system/array/getlonglength/
 ---
 ## Array::GetLongLength method

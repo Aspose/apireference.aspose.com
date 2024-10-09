@@ -4,7 +4,7 @@ linktitle: get_DayOfWeek
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::TransitionTime::get_DayOfWeek method. Returns the value that represents the day of week at which the time change occurs in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system/timezoneinfo/transitiontime/get_dayofweek/
 ---
 ## TransitionTime::get_DayOfWeek method

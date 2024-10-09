@@ -4,7 +4,7 @@ linktitle: XmlSchemaAnnotation
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAnnotation::XmlSchemaAnnotation constructor. Initializes a new instance of the XmlSchemaAnnotation class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaannotation/xmlschemaannotation/
 ---
 ## XmlSchemaAnnotation::XmlSchemaAnnotation constructor

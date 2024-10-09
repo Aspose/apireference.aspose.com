@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::Add method. Adds a specified time interval to the DateTimeOffset object in C++.'
 type: docs
-weight: 1900
+weight: 200
 url: /cpp/system/datetimeoffset/add/
 ---
 ## DateTimeOffset::Add method

@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNotation::get_Name method. Returns the name of the current node in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.xml/xmlnotation/get_name/
 ---
 ## XmlNotation::get_Name method

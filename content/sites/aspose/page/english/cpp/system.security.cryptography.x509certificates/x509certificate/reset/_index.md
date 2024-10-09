@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::Reset method. Resets the certificate state in C++.'
 type: docs
-weight: 2500
+weight: 2700
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/reset/
 ---
 ## X509Certificate::Reset method

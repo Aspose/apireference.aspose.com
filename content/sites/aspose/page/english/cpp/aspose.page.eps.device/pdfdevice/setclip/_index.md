@@ -4,7 +4,7 @@ linktitle: SetClip
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::SetClip method. Specifies the clip of the device in C++.'
 type: docs
-weight: 6300
+weight: 5300
 url: /cpp/aspose.page.eps.device/pdfdevice/setclip/
 ---
 ## PdfDevice::SetClip method

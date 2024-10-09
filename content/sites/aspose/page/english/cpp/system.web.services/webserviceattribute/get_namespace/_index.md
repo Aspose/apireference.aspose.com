@@ -4,7 +4,7 @@ linktitle: get_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceAttribute::get_Namespace method. Gets the default namespace to use for the XML Web service in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.web.services/webserviceattribute/get_namespace/
 ---
 ## WebServiceAttribute::get_Namespace method

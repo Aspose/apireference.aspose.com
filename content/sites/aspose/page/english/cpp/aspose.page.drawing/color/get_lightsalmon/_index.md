@@ -4,7 +4,7 @@ linktitle: get_LightSalmon
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LightSalmon method. Gets a system-defined color that has an ARGB value of #FFFFA07A in C++.'
 type: docs
-weight: 7200
+weight: 7300
 url: /cpp/aspose.page.drawing/color/get_lightsalmon/
 ---
 ## Color::get_LightSalmon method

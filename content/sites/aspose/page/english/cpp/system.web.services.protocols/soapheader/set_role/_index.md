@@ -4,7 +4,7 @@ linktitle: set_Role
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::set_Role method. Sets the URI of the SOAP header recipient when SOAP version 1.2 is used in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.web.services.protocols/soapheader/set_role/
 ---
 ## SoapHeader::set_Role method

@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::idx_set method. Sets value at specified position in C++.'
 type: docs
-weight: 600
+weight: 1700
 url: /cpp/system.collections.specialized/stringcollection/idx_set/
 ---
 ## StringCollection::idx_set method

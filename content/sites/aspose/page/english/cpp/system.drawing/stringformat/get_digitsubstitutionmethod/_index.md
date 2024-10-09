@@ -4,7 +4,7 @@ linktitle: get_DigitSubstitutionMethod
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::get_DigitSubstitutionMethod method. Returns digit substitution method in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/system.drawing/stringformat/get_digitsubstitutionmethod/
 ---
 ## StringFormat::get_DigitSubstitutionMethod method

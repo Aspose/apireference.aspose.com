@@ -4,7 +4,7 @@ linktitle: set_Blend
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::set_Blend method. Sets a blend that specifies factors and positions of base colors for this brush in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_blend/
 ---
 ## LinearGradientBrush::set_Blend method

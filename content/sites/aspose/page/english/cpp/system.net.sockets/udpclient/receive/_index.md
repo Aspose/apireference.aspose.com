@@ -4,7 +4,7 @@ linktitle: Receive
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::UdpClient::Receive method. Returns a datagram sent by a server in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.net.sockets/udpclient/receive/
 ---
 ## UdpClient::Receive method

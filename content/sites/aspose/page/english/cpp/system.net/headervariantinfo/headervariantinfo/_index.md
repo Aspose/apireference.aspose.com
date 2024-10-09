@@ -4,9 +4,23 @@ linktitle: HeaderVariantInfo
 second_title: Aspose.Page for C++
 description: 'System::Net::HeaderVariantInfo::HeaderVariantInfo constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net/headervariantinfo/headervariantinfo/
 ---
+## HeaderVariantInfo::HeaderVariantInfo() constructor
+
+
+Constructs a new instance.
+
+```cpp
+System::Net::HeaderVariantInfo::HeaderVariantInfo()
+```
+
+## See Also
+
+* Class [HeaderVariantInfo](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)
 ## HeaderVariantInfo::HeaderVariantInfo(String, CookieVariant) constructor
 
 
@@ -26,20 +40,6 @@ System::Net::HeaderVariantInfo::HeaderVariantInfo(String name, CookieVariant var
 
 * Class [String](../../../system/string/)
 * Enum [CookieVariant](../../cookievariant/)
-* Class [HeaderVariantInfo](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Page for C++](../../../)
-## HeaderVariantInfo::HeaderVariantInfo() constructor
-
-
-Constructs a new instance.
-
-```cpp
-System::Net::HeaderVariantInfo::HeaderVariantInfo()
-```
-
-## See Also
-
 * Class [HeaderVariantInfo](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.Page for C++](../../../)

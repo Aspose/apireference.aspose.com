@@ -4,7 +4,7 @@ linktitle: get_EntityHandling
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::get_EntityHandling method. Returns a value that specifies how the reader handles entities in C++.'
 type: docs
-weight: 3500
+weight: 1100
 url: /cpp/system.xml/xmltextreader/get_entityhandling/
 ---
 ## XmlTextReader::get_EntityHandling method

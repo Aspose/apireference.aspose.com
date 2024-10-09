@@ -4,7 +4,7 @@ linktitle: set_QuoteChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::set_QuoteChar method. Sets which character to use to quote attribute values in C++.'
 type: docs
-weight: 1100
+weight: 1800
 url: /cpp/system.xml/xmltextwriter/set_quotechar/
 ---
 ## XmlTextWriter::set_QuoteChar method

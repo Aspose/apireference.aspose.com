@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::GetHashCode method. Hashes encoding in C++.'
 type: docs
-weight: 200
+weight: 2300
 url: /cpp/system.text/encoding/gethashcode/
 ---
 ## Encoding::GetHashCode method

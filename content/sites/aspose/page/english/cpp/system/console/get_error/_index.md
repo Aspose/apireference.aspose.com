@@ -4,7 +4,7 @@ linktitle: get_Error
 second_title: Aspose.Page for C++
 description: 'System::Console::get_Error method. Returns a shared pointer pointing to the object that represents the standard error stream in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system/console/get_error/
 ---
 ## Console::get_Error method

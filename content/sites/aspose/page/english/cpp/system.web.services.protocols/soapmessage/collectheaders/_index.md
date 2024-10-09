@@ -4,7 +4,7 @@ linktitle: CollectHeaders
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::CollectHeaders method. Sets the internal collection of the SOAP headers in C++.'
 type: docs
-weight: 2600
+weight: 200
 url: /cpp/system.web.services.protocols/soapmessage/collectheaders/
 ---
 ## SoapMessage::CollectHeaders method

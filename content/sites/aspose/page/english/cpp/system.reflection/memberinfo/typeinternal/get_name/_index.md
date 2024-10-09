@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Reflection::MemberInfo::TypeInternal::get_Name method. Gets type short name in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.reflection/memberinfo/typeinternal/get_name/
 ---
 ## TypeInternal::get_Name method

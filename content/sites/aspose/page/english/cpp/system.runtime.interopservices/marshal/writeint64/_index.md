@@ -4,7 +4,7 @@ linktitle: WriteInt64
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::WriteInt64 method. Writes long to memory in C++.'
 type: docs
-weight: 500
+weight: 2000
 url: /cpp/system.runtime.interopservices/marshal/writeint64/
 ---
 ## Marshal::WriteInt64 method

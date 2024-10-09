@@ -4,7 +4,7 @@ linktitle: get_Flags
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_Flags method. Returns a bit-wise combination of ImageFlags enum values that represents the attributes of the image in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.drawing/image/get_flags/
 ---
 ## Image::get_Flags method

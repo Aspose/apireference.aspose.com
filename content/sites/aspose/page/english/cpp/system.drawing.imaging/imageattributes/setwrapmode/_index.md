@@ -4,7 +4,7 @@ linktitle: SetWrapMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::SetWrapMode method. Sets the wrap mode and color used to decide how to tile a texture across a shape, or at shape boundaries in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/system.drawing.imaging/imageattributes/setwrapmode/
 ---
 ## ImageAttributes::SetWrapMode method

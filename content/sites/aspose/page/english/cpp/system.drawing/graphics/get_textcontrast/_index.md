@@ -4,7 +4,7 @@ linktitle: get_TextContrast
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_TextContrast method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 8100
+weight: 5500
 url: /cpp/system.drawing/graphics/get_textcontrast/
 ---
 ## Graphics::get_TextContrast method

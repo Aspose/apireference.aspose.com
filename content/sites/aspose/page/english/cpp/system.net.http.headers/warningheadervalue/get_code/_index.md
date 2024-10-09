@@ -4,7 +4,7 @@ linktitle: get_Code
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::WarningHeaderValue::get_Code method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net.http.headers/warningheadervalue/get_code/
 ---
 ## WarningHeaderValue::get_Code method

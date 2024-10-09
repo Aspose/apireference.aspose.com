@@ -2,146 +2,11 @@
 title: System::ObjectType::GetType method
 linktitle: GetType
 second_title: Aspose.Page for C++
-description: 'System::ObjectType::GetType method. Implements typeof() translation. Overload for smart pointers in C++.'
+description: 'System::ObjectType::GetType method. Implements typeof() translation. Overload for primitive types in C++.'
 type: docs
 weight: 100
 url: /cpp/system/objecttype/gettype/
 ---
-## ObjectType::GetType(const T\&) method
-
-
-Implements typeof() translation. Overload for smart pointers.
-
-```cpp
-template<typename T> static std::enable_if<IsSmartPtr<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Pointer object type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const T\& | [Object](../../object/) to get [TypeInfo](../../typeinfo/) for. |
-
-### ReturnValue
-
-Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
-
-## See Also
-
-* Class [ObjectType](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectType::GetType(const T\&) method
-
-
-Implements typeof() translation. Overload for structures.
-
-```cpp
-template<typename T> static std::enable_if<!IsExceptionWrapper<T>::value &&!IsSmartPtr<T>::value &&!std::is_fundamental<T>::value &&!std::is_enum<T>::value &&!IsNullable<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Structure type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const T\& | [Object](../../object/) to get [TypeInfo](../../typeinfo/) for. |
-
-### ReturnValue
-
-Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
-
-## See Also
-
-* Class [ObjectType](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectType::GetType(const T\&) method
-
-
-Implements typeof() translation. Overload for exceptions.
-
-```cpp
-template<typename T> static std::enable_if<IsExceptionWrapper<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Exception type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const T\& | [Object](../../object/) to get [TypeInfo](../../typeinfo/) for. |
-
-### ReturnValue
-
-Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
-
-## See Also
-
-* Class [ObjectType](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectType::GetType(const T) method
-
-
-Implements typeof() translation. Overload for primitive types.
-
-```cpp
-template<typename T> static std::enable_if<std::is_fundamental<T>::value||std::is_enum<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Primitive type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const T | IGNORED |
-
-### ReturnValue
-
-Const reference to [TypeInfo](../../typeinfo/) structure describing the type of object passed.
-
-## See Also
-
-* Class [ObjectType](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectType::GetType(const T) method
-
-
-Implements typeof() translation. Overload for [Nullable](../../nullable/) types.
-
-```cpp
-template<typename T> static std::enable_if<IsNullable<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | [Nullable](../../nullable/) type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const T | IGNORED |
-
-### ReturnValue
-
-Const reference to [TypeInfo](../../typeinfo/) structure describing the type of object passed.
-
-## See Also
-
-* Class [ObjectType](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## ObjectType::GetType() method
 
 
@@ -280,31 +145,6 @@ Const reference to [TypeInfo](../../typeinfo/) structure describing the strcture
 * Class [ObjectType](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## ObjectType::GetType(const String\&) method
-
-
-Implements typeof() translation. Overload for string type.
-
-```cpp
-static const System::TypeInfo & System::ObjectType::GetType(const String &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Primitive type. |
-
-### ReturnValue
-
-Const reference to [TypeInfo](../../typeinfo/) structure describing [String](../../string/) type.
-
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [String](../../string/)
-* Class [ObjectType](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## ObjectType::GetType() method
 
 
@@ -392,6 +232,166 @@ const System::TypeInfo & System::ObjectType::GetType()
 ## See Also
 
 * Class [TypeInfo](../../typeinfo/)
+* Class [ObjectType](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectType::GetType(const String\&) method
+
+
+Implements typeof() translation. Overload for string type.
+
+```cpp
+static const System::TypeInfo & System::ObjectType::GetType(const String &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Primitive type. |
+
+### ReturnValue
+
+Const reference to [TypeInfo](../../typeinfo/) structure describing [String](../../string/) type.
+
+## See Also
+
+* Class [TypeInfo](../../typeinfo/)
+* Class [String](../../string/)
+* Class [ObjectType](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectType::GetType(const T\&) method
+
+
+Implements typeof() translation. Overload for smart pointers.
+
+```cpp
+template<typename T> static std::enable_if<IsSmartPtr<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Pointer object type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T\& | [Object](../../object/) to get [TypeInfo](../../typeinfo/) for. |
+
+### ReturnValue
+
+Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
+
+## See Also
+
+* Class [ObjectType](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectType::GetType(const T\&) method
+
+
+Implements typeof() translation. Overload for structures.
+
+```cpp
+template<typename T> static std::enable_if<!IsExceptionWrapper<T>::value &&!IsSmartPtr<T>::value &&!std::is_fundamental<T>::value &&!std::is_enum<T>::value &&!IsNullable<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Structure type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T\& | [Object](../../object/) to get [TypeInfo](../../typeinfo/) for. |
+
+### ReturnValue
+
+Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
+
+## See Also
+
+* Class [ObjectType](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectType::GetType(const T\&) method
+
+
+Implements typeof() translation. Overload for exceptions.
+
+```cpp
+template<typename T> static std::enable_if<IsExceptionWrapper<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Exception type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T\& | [Object](../../object/) to get [TypeInfo](../../typeinfo/) for. |
+
+### ReturnValue
+
+Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
+
+## See Also
+
+* Class [ObjectType](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectType::GetType(const T) method
+
+
+Implements typeof() translation. Overload for primitive types.
+
+```cpp
+template<typename T> static std::enable_if<std::is_fundamental<T>::value||std::is_enum<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Primitive type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T | IGNORED |
+
+### ReturnValue
+
+Const reference to [TypeInfo](../../typeinfo/) structure describing the type of object passed.
+
+## See Also
+
+* Class [ObjectType](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectType::GetType(const T) method
+
+
+Implements typeof() translation. Overload for [Nullable](../../nullable/) types.
+
+```cpp
+template<typename T> static std::enable_if<IsNullable<T>::value, constSystem::TypeInfo &>::type System::ObjectType::GetType(const T obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | [Nullable](../../nullable/) type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T | IGNORED |
+
+### ReturnValue
+
+Const reference to [TypeInfo](../../typeinfo/) structure describing the type of object passed.
+
+## See Also
+
 * Class [ObjectType](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

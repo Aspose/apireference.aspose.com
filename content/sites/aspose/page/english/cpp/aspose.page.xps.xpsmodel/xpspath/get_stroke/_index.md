@@ -4,7 +4,7 @@ linktitle: get_Stroke
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::get_Stroke method. Returns/sets the brush used to draw the stroke in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/get_stroke/
 ---
 ## XpsPath::get_Stroke method

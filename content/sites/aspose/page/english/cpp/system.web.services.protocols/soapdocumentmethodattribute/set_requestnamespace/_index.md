@@ -4,7 +4,7 @@ linktitle: set_RequestNamespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_RequestNamespace method. Sets the namespace associated with the SOAP request in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_requestnamespace/
 ---
 ## SoapDocumentMethodAttribute::set_RequestNamespace method

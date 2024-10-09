@@ -4,7 +4,7 @@ linktitle: get_Proxy
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::HttpWebClientProtocol::get_Proxy method. Gets proxy information in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_proxy/
 ---
 ## HttpWebClientProtocol::get_Proxy method

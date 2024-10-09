@@ -4,7 +4,7 @@ linktitle: set_TextContrast
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::set_TextContrast method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 8200
+weight: 8300
 url: /cpp/system.drawing/graphics/set_textcontrast/
 ---
 ## Graphics::set_TextContrast method

@@ -4,7 +4,7 @@ linktitle: get_Minutes
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::get_Minutes method. Returns the minutes component of the time interval represented by the current TimeSpan object in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/timespan/get_minutes/
 ---
 ## TimeSpan::get_Minutes method

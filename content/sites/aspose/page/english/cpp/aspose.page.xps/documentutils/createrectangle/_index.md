@@ -4,7 +4,7 @@ linktitle: CreateRectangle
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreateRectangle method. Creates a path geometry representing a rectangle in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.page.xps/documentutils/createrectangle/
 ---
 ## DocumentUtils::CreateRectangle method

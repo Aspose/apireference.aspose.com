@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::RemoveAt method. Removes item at specified position in C++.'
 type: docs
-weight: 2000
+weight: 3900
 url: /cpp/system.collections.generic/list/removeat/
 ---
 ## List::RemoveAt method

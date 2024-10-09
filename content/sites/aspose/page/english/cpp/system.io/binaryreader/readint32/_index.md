@@ -4,7 +4,7 @@ linktitle: ReadInt32
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadInt32 method. Reads 4 bytes from the input stream and returns them as a 32-bit integer value in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.io/binaryreader/readint32/
 ---
 ## BinaryReader::ReadInt32 method

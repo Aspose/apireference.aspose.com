@@ -4,7 +4,7 @@ linktitle: GetFormat
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::GetFormat method. Gets formatter of specific type in C++.'
 type: docs
-weight: 5800
+weight: 3100
 url: /cpp/system.globalization/numberformatinfo/getformat/
 ---
 ## NumberFormatInfo::GetFormat method

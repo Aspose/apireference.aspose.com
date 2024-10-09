@@ -4,7 +4,7 @@ linktitle: get_OldColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMap::get_OldColor method. Returns the old Color object representing the color to be converted in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.drawing.imaging/colormap/get_oldcolor/
 ---
 ## ColorMap::get_OldColor method

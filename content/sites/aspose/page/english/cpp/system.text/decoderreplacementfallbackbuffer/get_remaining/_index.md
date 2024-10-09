@@ -4,7 +4,7 @@ linktitle: get_Remaining
 second_title: Aspose.Page for C++
 description: 'System::Text::DecoderReplacementFallbackBuffer::get_Remaining method. Gets number of remaining characters in buffer in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.text/decoderreplacementfallbackbuffer/get_remaining/
 ---
 ## DecoderReplacementFallbackBuffer::get_Remaining method

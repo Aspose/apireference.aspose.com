@@ -4,7 +4,7 @@ linktitle: CloneIterator
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCollectionEnumerator::CloneIterator method. Clones current iterator in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml.schema/xmlschemacollectionenumerator/cloneiterator/
 ---
 ## XmlSchemaCollectionEnumerator::CloneIterator method

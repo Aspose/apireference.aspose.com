@@ -4,7 +4,7 @@ linktitle: get_Available
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::get_Available method. Returns the number of bytes that are received and ready to read in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system.net.sockets/tcpclient/get_available/
 ---
 ## TcpClient::get_Available method

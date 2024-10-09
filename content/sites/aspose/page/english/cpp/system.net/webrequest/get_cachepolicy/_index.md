@@ -4,7 +4,7 @@ linktitle: get_CachePolicy
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::get_CachePolicy method. Gets the cache policy in C++.'
 type: docs
-weight: 2900
+weight: 1400
 url: /cpp/system.net/webrequest/get_cachepolicy/
 ---
 ## WebRequest::get_CachePolicy method

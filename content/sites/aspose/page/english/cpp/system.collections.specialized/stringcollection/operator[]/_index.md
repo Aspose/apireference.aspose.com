@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::operator[] method. Accessor function in C++.'
 type: docs
-weight: 400
+weight: 2000
 url: /cpp/system.collections.specialized/stringcollection/operator[]/
 ---
 ## StringCollection::operator[] method

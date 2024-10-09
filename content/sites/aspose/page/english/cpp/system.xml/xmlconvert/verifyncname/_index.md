@@ -4,7 +4,7 @@ linktitle: VerifyNCName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::VerifyNCName method. Verifies that the name is a valid NCName according to the W3C Extended Markup Language recommendation. An NCName is a name that cannot contain a colon in C++.'
 type: docs
-weight: 600
+weight: 3000
 url: /cpp/system.xml/xmlconvert/verifyncname/
 ---
 ## XmlConvert::VerifyNCName method

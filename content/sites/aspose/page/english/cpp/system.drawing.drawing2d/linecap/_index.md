@@ -4,7 +4,7 @@ linktitle: LineCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LineCap enum. Indicates the available cap styles with which a Pen object can end a line in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/system.drawing.drawing2d/linecap/
 ---
 ## LineCap enum

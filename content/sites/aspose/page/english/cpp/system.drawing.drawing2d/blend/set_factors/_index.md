@@ -4,7 +4,7 @@ linktitle: set_Factors
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Blend::set_Factors method. Sets the array of blend factors of the gradient in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.drawing.drawing2d/blend/set_factors/
 ---
 ## Blend::set_Factors method

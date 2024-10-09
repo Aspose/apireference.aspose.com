@@ -4,7 +4,7 @@ linktitle: ShiftIteratorBy
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::KeyIterator::ShiftIteratorBy method. Moves the iterator by the specified number of steps in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.collections.generic/keyiterator/shiftiteratorby/
 ---
 ## KeyIterator::ShiftIteratorBy method

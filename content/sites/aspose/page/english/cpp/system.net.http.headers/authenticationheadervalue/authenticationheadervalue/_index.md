@@ -4,7 +4,7 @@ linktitle: AuthenticationHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::AuthenticationHeaderValue::AuthenticationHeaderValue constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.http.headers/authenticationheadervalue/authenticationheadervalue/
 ---
 ## AuthenticationHeaderValue::AuthenticationHeaderValue(String) constructor

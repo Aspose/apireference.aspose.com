@@ -4,7 +4,7 @@ linktitle: BeginSend
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::BeginSend method. Initiates an asynchronous send operation in C++.'
 type: docs
-weight: 3900
+weight: 900
 url: /cpp/system.net.sockets/socket/beginsend/
 ---
 ## Socket::BeginSend method

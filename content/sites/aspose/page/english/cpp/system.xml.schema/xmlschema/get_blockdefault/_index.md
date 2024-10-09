@@ -4,7 +4,7 @@ linktitle: get_BlockDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_BlockDefault method. Returns the blockDefault attribute which sets the default value of the block attribute on element and complex types in the targetNamespace of the schema in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.xml.schema/xmlschema/get_blockdefault/
 ---
 ## XmlSchema::get_BlockDefault method

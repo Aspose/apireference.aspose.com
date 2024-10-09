@@ -4,7 +4,7 @@ linktitle: get_HotPink
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_HotPink method. Gets a system-defined color that has an ARGB value of #FFFF69B4 in C++.'
 type: docs
-weight: 5600
+weight: 5700
 url: /cpp/aspose.page.drawing/color/get_hotpink/
 ---
 ## Color::get_HotPink method

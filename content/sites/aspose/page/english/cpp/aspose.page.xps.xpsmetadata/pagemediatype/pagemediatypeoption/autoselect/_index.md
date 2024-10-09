@@ -4,7 +4,7 @@ linktitle: AutoSelect
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::AutoSelect field. Specifies Media would be Automatically selected in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/autoselect/
 ---
 ## AutoSelect field

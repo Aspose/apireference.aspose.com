@@ -4,7 +4,7 @@ linktitle: FromTicks
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::FromTicks method. Returns a new TimeSpan object that represents the specified interval in C++.'
 type: docs
-weight: 3500
+weight: 4100
 url: /cpp/system/timespan/fromticks/
 ---
 ## TimeSpan::FromTicks method

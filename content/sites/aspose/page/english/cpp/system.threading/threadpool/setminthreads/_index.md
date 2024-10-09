@@ -4,7 +4,7 @@ linktitle: SetMinThreads
 second_title: Aspose.Page for C++
 description: 'System::Threading::ThreadPool::SetMinThreads method. Sets minimal number of threads owned by pool in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.threading/threadpool/setminthreads/
 ---
 ## ThreadPool::SetMinThreads method

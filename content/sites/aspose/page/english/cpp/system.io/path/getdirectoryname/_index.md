@@ -4,7 +4,7 @@ linktitle: GetDirectoryName
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::GetDirectoryName method. Returns the name of the directory referenced by the specified path in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.io/path/getdirectoryname/
 ---
 ## Path::GetDirectoryName method

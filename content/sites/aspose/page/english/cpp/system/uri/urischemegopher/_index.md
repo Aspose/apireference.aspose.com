@@ -4,7 +4,7 @@ linktitle: UriSchemeGopher
 second_title: Aspose.Page for C++
 description: 'System::Uri::UriSchemeGopher field. Specifies that the Uri is accessed through the Gopher protocol in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/system/uri/urischemegopher/
 ---
 ## UriSchemeGopher field

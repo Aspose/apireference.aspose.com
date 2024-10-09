@@ -4,7 +4,7 @@ linktitle: PreserveWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltContext::PreserveWhitespace method. When overridden in a derived class, evaluates whether to preserve white space nodes or strip them for the given context in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml.xsl/xsltcontext/preservewhitespace/
 ---
 ## XsltContext::PreserveWhitespace method

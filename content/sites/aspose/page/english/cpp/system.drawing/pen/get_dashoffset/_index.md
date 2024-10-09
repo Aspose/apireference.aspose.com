@@ -4,7 +4,7 @@ linktitle: get_DashOffset
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_DashOffset method. Returns the distance from the start of a line to the beginning of a dash pattern in C++.'
 type: docs
-weight: 1400
+weight: 900
 url: /cpp/system.drawing/pen/get_dashoffset/
 ---
 ## Pen::get_DashOffset method

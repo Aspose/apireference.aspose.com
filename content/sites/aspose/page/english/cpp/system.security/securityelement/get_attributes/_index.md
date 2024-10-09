@@ -4,7 +4,7 @@ linktitle: get_Attributes
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::get_Attributes method. Gets tag attributes in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.security/securityelement/get_attributes/
 ---
 ## SecurityElement::get_Attributes method

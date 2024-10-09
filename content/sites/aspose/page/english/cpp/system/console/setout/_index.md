@@ -4,7 +4,7 @@ linktitle: SetOut
 second_title: Aspose.Page for C++
 description: 'System::Console::SetOut method. Assigns the specified object to the class'' Out property in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system/console/setout/
 ---
 ## Console::SetOut method

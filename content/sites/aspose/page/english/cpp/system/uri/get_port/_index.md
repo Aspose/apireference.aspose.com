@@ -4,7 +4,7 @@ linktitle: get_Port
 second_title: Aspose.Page for C++
 description: 'System::Uri::get_Port method. Returns the port number of the URI represented by the current object in C++.'
 type: docs
-weight: 1300
+weight: 1900
 url: /cpp/system/uri/get_port/
 ---
 ## Uri::get_Port method

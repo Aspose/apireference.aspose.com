@@ -4,7 +4,7 @@ linktitle: get_ExitCode
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Process::get_ExitCode method. Gets process exit code in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.diagnostics/process/get_exitcode/
 ---
 ## Process::get_ExitCode method

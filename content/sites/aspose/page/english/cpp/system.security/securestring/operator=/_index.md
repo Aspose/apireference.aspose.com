@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Security::SecureString class in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/system.security/securestring/operator=/
 ---
 ## SecureString::operator= method

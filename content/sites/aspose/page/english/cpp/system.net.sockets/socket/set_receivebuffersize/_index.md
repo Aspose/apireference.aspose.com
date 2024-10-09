@@ -4,7 +4,7 @@ linktitle: set_ReceiveBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_ReceiveBufferSize method. Sets the receive buffer size in C++.'
 type: docs
-weight: 1700
+weight: 5700
 url: /cpp/system.net.sockets/socket/set_receivebuffersize/
 ---
 ## Socket::set_ReceiveBufferSize method

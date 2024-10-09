@@ -4,7 +4,7 @@ linktitle: get_IsValueType
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::get_IsValueType method. Gets a value indicating whether the Type is a value type in C++.'
 type: docs
-weight: 1900
+weight: 2300
 url: /cpp/system/typeinfo/get_isvaluetype/
 ---
 ## TypeInfo::get_IsValueType method

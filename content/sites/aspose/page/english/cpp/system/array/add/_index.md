@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Array::Add method. Not supported because the array represented by the current object is read-only in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system/array/add/
 ---
 ## Array::Add method

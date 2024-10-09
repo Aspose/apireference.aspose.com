@@ -4,7 +4,7 @@ linktitle: WriteContentTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocumentType::WriteContentTo method. Saves all the children of the node to the specified XmlWriter. For XmlDocumentType nodes, this method has no effect in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system.xml/xmldocumenttype/writecontentto/
 ---
 ## XmlDocumentType::WriteContentTo method

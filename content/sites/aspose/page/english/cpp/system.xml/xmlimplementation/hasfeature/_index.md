@@ -4,7 +4,7 @@ linktitle: HasFeature
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlImplementation::HasFeature method. Tests if the Document Object Model (DOM) implementation implements a specific feature in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml/xmlimplementation/hasfeature/
 ---
 ## XmlImplementation::HasFeature method

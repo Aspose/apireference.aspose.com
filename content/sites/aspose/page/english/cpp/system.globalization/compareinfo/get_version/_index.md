@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CompareInfo::get_Version method. Gets information about sort version in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.globalization/compareinfo/get_version/
 ---
 ## CompareInfo::get_Version method

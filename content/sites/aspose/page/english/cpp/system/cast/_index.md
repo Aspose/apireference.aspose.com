@@ -4,7 +4,7 @@ linktitle: Cast
 second_title: Aspose.Page for C++
 description: 'System::Cast method. Performs cast on SmartPtr objects in C++.'
 type: docs
-weight: 26100
+weight: 13900
 url: /cpp/system/cast/
 ---
 ## System::Cast method

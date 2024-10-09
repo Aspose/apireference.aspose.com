@@ -4,7 +4,7 @@ linktitle: set_BaseAddress
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::set_BaseAddress method. Sets the base address of the resource that is used for sending requests in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.net.http/httpclient/set_baseaddress/
 ---
 ## HttpClient::set_BaseAddress method

@@ -4,7 +4,7 @@ linktitle: Section
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::BitVector32::Section::Section constructor. Creates empty object in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.collections.specialized/bitvector32/section/section/
 ---
 ## Section::Section() constructor

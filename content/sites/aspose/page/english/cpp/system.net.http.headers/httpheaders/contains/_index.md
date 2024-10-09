@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'How to use Contains method of System::Net::Http::Headers::HttpHeaders class in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.net.http.headers/httpheaders/contains/
 ---
 ## HttpHeaders::Contains method

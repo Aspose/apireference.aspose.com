@@ -4,7 +4,7 @@ linktitle: get_Attributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_Attributes method. Returns an XmlAttributeCollection containing the attributes of this node in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system.xml/xmlnode/get_attributes/
 ---
 ## XmlNode::get_Attributes method

@@ -4,7 +4,7 @@ linktitle: GetStrokeCaps
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::CustomLineCap::GetStrokeCaps method. Gets the start and end line caps of the custom cap represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.drawing.drawing2d/customlinecap/getstrokecaps/
 ---
 ## CustomLineCap::GetStrokeCaps method

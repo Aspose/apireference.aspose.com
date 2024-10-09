@@ -4,7 +4,7 @@ linktitle: get_IsSingleByte
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_IsSingleByte method. Checks whether encoding is single byte in C++.'
 type: docs
-weight: 900
+weight: 1400
 url: /cpp/system.text/encoding/get_issinglebyte/
 ---
 ## Encoding::get_IsSingleByte method

@@ -4,7 +4,7 @@ linktitle: SaveOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::SaveOptions::SaveOptions constructor. Initializes a new instance of the SaveOptions class with default values for flags SuppressErrors (true) and Debug (false) in C++.'
 type: docs
-weight: 1200
+weight: 100
 url: /cpp/aspose.page/saveoptions/saveoptions/
 ---
 ## SaveOptions::SaveOptions() constructor
@@ -15,25 +15,6 @@ Initializes a new instance of the [SaveOptions](../) class with default values f
 ```cpp
 Aspose::Page::SaveOptions::SaveOptions()
 ```
-
-## See Also
-
-* Class [SaveOptions](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
-## SaveOptions::SaveOptions(bool) constructor
-
-
-Initializes a new instance of the [SaveOptions](../) class with default value for flag [Debug](../) (false).
-
-```cpp
-Aspose::Page::SaveOptions::SaveOptions(bool supressErrors)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
 
 ## See Also
 
@@ -57,6 +38,25 @@ Aspose::Page::SaveOptions::SaveOptions(Aspose::Page::Drawing::Size size)
 ## See Also
 
 * Class [Size](../../../aspose.page.drawing/size/)
+* Class [SaveOptions](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## SaveOptions::SaveOptions(bool) constructor
+
+
+Initializes a new instance of the [SaveOptions](../) class with default value for flag [Debug](../) (false).
+
+```cpp
+Aspose::Page::SaveOptions::SaveOptions(bool supressErrors)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| supressErrors | bool | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [Exceptions](../) list. |
+
+## See Also
+
 * Class [SaveOptions](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)

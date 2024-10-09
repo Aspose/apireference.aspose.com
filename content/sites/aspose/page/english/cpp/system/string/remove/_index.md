@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::String::Remove method. Extracts everything but substring from current string in C++.'
 type: docs
-weight: 4400
+weight: 3600
 url: /cpp/system/string/remove/
 ---
 ## String::Remove method

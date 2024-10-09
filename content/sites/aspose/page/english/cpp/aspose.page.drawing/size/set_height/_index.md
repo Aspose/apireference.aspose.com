@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Size::set_Height method. Sets the vertical component of this T:Aspose::Page::Drawing::Size in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.page.drawing/size/set_height/
 ---
 ## Size::set_Height method

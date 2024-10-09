@@ -4,7 +4,7 @@ linktitle: get_Values
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IDictionary::get_Values method. Accesses value collection in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.collections.generic/idictionary/get_values/
 ---
 ## IDictionary::get_Values method

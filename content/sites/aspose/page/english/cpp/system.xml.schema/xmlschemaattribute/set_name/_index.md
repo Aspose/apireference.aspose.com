@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::set_Name method. Sets the name of the attribute in C++.'
 type: docs
-weight: 800
+weight: 1600
 url: /cpp/system.xml.schema/xmlschemaattribute/set_name/
 ---
 ## XmlSchemaAttribute::set_Name method

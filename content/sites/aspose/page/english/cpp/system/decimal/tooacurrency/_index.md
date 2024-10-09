@@ -4,7 +4,7 @@ linktitle: ToOACurrency
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToOACurrency method. Convert the specified Decimal value to the equivalent OLE currency value. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 4200
+weight: 5100
 url: /cpp/system/decimal/tooacurrency/
 ---
 ## Decimal::ToOACurrency method

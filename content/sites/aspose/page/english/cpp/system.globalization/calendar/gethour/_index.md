@@ -4,7 +4,7 @@ linktitle: GetHour
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetHour method. Gets hours for the specified time point in C++.'
 type: docs
-weight: 2100
+weight: 2500
 url: /cpp/system.globalization/calendar/gethour/
 ---
 ## Calendar::GetHour method

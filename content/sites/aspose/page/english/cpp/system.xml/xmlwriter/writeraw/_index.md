@@ -4,7 +4,7 @@ linktitle: WriteRaw
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteRaw method. When overridden in a derived class, writes raw markup manually from a character buffer in C++.'
 type: docs
-weight: 2300
+weight: 2900
 url: /cpp/system.xml/xmlwriter/writeraw/
 ---
 ## XmlWriter::WriteRaw(ArrayPtr\<char16_t\>, int32_t, int32_t) method

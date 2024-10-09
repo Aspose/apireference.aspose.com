@@ -4,7 +4,7 @@ linktitle: IsPathRooted
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::IsPathRooted method. Determines if the specified path contains a root in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.io/path/ispathrooted/
 ---
 ## Path::IsPathRooted method

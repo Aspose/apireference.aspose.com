@@ -4,7 +4,7 @@ linktitle: Delete
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::Delete method. Removes the file represented by the current object in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.io/fileinfo/delete/
 ---
 ## FileInfo::Delete method

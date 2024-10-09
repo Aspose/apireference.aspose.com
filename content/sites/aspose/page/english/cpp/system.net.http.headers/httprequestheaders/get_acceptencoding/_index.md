@@ -4,7 +4,7 @@ linktitle: get_AcceptEncoding
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_AcceptEncoding method. Returns a value of the ''Accept-Encoding'' header in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.net.http.headers/httprequestheaders/get_acceptencoding/
 ---
 ## HttpRequestHeaders::get_AcceptEncoding method

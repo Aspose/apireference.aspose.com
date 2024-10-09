@@ -4,7 +4,7 @@ linktitle: get_Ivory
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Ivory method. Returns a color whose ARGB value in hexadecimal notation is #FFFFFFF0 in C++.'
 type: docs
-weight: 8000
+weight: 7900
 url: /cpp/system.drawing/color/get_ivory/
 ---
 ## Color::get_Ivory method

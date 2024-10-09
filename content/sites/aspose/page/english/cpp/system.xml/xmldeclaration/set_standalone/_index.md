@@ -4,7 +4,7 @@ linktitle: set_Standalone
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDeclaration::set_Standalone method. Sets the value of the standalone attribute in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.xml/xmldeclaration/set_standalone/
 ---
 ## XmlDeclaration::set_Standalone method

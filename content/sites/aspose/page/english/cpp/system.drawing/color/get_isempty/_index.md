@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_IsEmpty method. Returns a value that indicate if the current object is "empty" i.e. does not represent any color in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.drawing/color/get_isempty/
 ---
 ## Color::get_IsEmpty method

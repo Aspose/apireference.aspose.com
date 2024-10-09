@@ -27,32 +27,6 @@ String System::Net::Http::Headers::NameValueHeaderValue::ToString() const overri
 * Class [NameValueHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.Page for C++](../../../)
-## NameValueHeaderValue::ToString(System::SharedPtr\<ObjectCollection\<System::SharedPtr\<NameValueHeaderValue\>\>\>, char16_t, bool, System::SharedPtr\<Text::StringBuilder\>) method
-
-
-Returns a string representation of the collection of the NameValueHeaderValue-class instances.
-
-```cpp
-static void System::Net::Http::Headers::NameValueHeaderValue::ToString(System::SharedPtr<ObjectCollection<System::SharedPtr<NameValueHeaderValue>>> values, char16_t separator, bool leadingSeparator, System::SharedPtr<Text::StringBuilder> destination)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| values | System::SharedPtr\<ObjectCollection\<System::SharedPtr\<NameValueHeaderValue\>\>\> | The collection of the NameValueHeaderValue-class instances. |
-| separator | char16_t | A string separator. |
-| leadingSeparator | bool | The value that indicates if the string separator must be added before the first collection item. |
-| destination | System::SharedPtr\<Text::StringBuilder\> | An instance where a string representation will be assigned. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ObjectCollection](../../objectcollection/)
-* Class [NameValueHeaderValue](../)
-* Class [StringBuilder](../../../system.text/stringbuilder/)
-* Class [NameValueHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Page for C++](../../../)
 ## NameValueHeaderValue::ToString(System::SharedPtr\<ObjectCollection\<System::SharedPtr\<NameValueHeaderValue\>\>\>, char16_t, bool) method
 
 
@@ -79,6 +53,32 @@ A string representation of the collection of the NameValueHeaderValue-class inst
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ObjectCollection](../../objectcollection/)
 * Class [NameValueHeaderValue](../)
+* Class [NameValueHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Page for C++](../../../)
+## NameValueHeaderValue::ToString(System::SharedPtr\<ObjectCollection\<System::SharedPtr\<NameValueHeaderValue\>\>\>, char16_t, bool, System::SharedPtr\<Text::StringBuilder\>) method
+
+
+Returns a string representation of the collection of the NameValueHeaderValue-class instances.
+
+```cpp
+static void System::Net::Http::Headers::NameValueHeaderValue::ToString(System::SharedPtr<ObjectCollection<System::SharedPtr<NameValueHeaderValue>>> values, char16_t separator, bool leadingSeparator, System::SharedPtr<Text::StringBuilder> destination)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| values | System::SharedPtr\<ObjectCollection\<System::SharedPtr\<NameValueHeaderValue\>\>\> | The collection of the NameValueHeaderValue-class instances. |
+| separator | char16_t | A string separator. |
+| leadingSeparator | bool | The value that indicates if the string separator must be added before the first collection item. |
+| destination | System::SharedPtr\<Text::StringBuilder\> | An instance where a string representation will be assigned. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ObjectCollection](../../objectcollection/)
+* Class [NameValueHeaderValue](../)
+* Class [StringBuilder](../../../system.text/stringbuilder/)
 * Class [NameValueHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.Page for C++](../../../)

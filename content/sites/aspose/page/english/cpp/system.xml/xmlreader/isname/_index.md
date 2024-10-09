@@ -4,7 +4,7 @@ linktitle: IsName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::IsName method. Returns a value indicating whether the string argument is a valid XML name in C++.'
 type: docs
-weight: 7700
+weight: 7800
 url: /cpp/system.xml/xmlreader/isname/
 ---
 ## XmlReader::IsName method

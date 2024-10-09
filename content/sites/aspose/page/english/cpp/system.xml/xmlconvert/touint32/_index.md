@@ -4,7 +4,7 @@ linktitle: ToUInt32
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToUInt32 method. Converts the String to a UInt32 equivalent in C++.'
 type: docs
-weight: 2800
+weight: 2700
 url: /cpp/system.xml/xmlconvert/touint32/
 ---
 ## XmlConvert::ToUInt32 method

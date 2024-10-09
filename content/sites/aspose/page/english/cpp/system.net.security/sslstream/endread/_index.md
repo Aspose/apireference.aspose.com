@@ -4,7 +4,7 @@ linktitle: EndRead
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::EndRead method. Waits until the specified asynchronous read operation completes in C++.'
 type: docs
-weight: 3400
+weight: 700
 url: /cpp/system.net.security/sslstream/endread/
 ---
 ## SslStream::EndRead method

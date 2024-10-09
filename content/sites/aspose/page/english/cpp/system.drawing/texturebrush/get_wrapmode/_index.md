@@ -4,7 +4,7 @@ linktitle: get_WrapMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::TextureBrush::get_WrapMode method. Returns a value that specifies how the brush represented by the current object is tiled in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.drawing/texturebrush/get_wrapmode/
 ---
 ## TextureBrush::get_WrapMode method

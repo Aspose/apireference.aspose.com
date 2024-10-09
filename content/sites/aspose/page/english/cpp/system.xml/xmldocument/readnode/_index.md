@@ -4,7 +4,7 @@ linktitle: ReadNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::ReadNode method. Creates an XmlNode object based on the information in the XmlReader. The reader must be positioned on a node or attribute in C++.'
 type: docs
-weight: 3900
+weight: 3600
 url: /cpp/system.xml/xmldocument/readnode/
 ---
 ## XmlDocument::ReadNode method

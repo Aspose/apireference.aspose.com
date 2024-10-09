@@ -4,7 +4,7 @@ linktitle: ~TextWriter
 second_title: Aspose.Page for C++
 description: 'System::IO::TextWriter::~TextWriter method. Destructor in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.io/textwriter/~textwriter/
 ---
 ## TextWriter::~TextWriter method

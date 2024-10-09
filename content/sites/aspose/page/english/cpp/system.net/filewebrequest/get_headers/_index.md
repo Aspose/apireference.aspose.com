@@ -4,7 +4,7 @@ linktitle: get_Headers
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebRequest::get_Headers method. Gets the collection of the HTTP headers in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.net/filewebrequest/get_headers/
 ---
 ## FileWebRequest::get_Headers method

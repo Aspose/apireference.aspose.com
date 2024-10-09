@@ -4,7 +4,7 @@ linktitle: CreateAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::CreateAttribute method. Creates an attribute node on the current element node using the namespace prefix, local name and namespace URI specified with the value specified in C++.'
 type: docs
-weight: 8100
+weight: 700
 url: /cpp/system.xml.xpath/xpathnavigator/createattribute/
 ---
 ## XPathNavigator::CreateAttribute method

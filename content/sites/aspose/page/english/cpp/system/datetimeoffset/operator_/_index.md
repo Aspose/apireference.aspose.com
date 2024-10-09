@@ -4,7 +4,7 @@ linktitle: operator<
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::operator< method. Determines if the current object represents the date and time value that is earlier than the value represented by the specified DateTimeOffset object in C++.'
 type: docs
-weight: 4400
+weight: 3600
 url: /cpp/system/datetimeoffset/operator_/
 ---
 ## DateTimeOffset::operator<(const DateTimeOffset\&) const method
@@ -51,7 +51,7 @@ linktitle: operator>
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::operator> method. Determines if the current object represents the date and time value that is later than the value represented by the specified DateTimeOffset object in C++.'
 type: docs
-weight: 4500
+weight: 3900
 url: /cpp/system/datetimeoffset/operator_/
 ---
 ## DateTimeOffset::operator>(const DateTimeOffset\&) const method

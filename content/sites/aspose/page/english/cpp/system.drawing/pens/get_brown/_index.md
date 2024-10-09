@@ -4,7 +4,7 @@ linktitle: get_Brown
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Brown method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFA52A2A in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.drawing/pens/get_brown/
 ---
 ## Pens::get_Brown method

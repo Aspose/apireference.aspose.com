@@ -4,7 +4,7 @@ linktitle: get_HasChildNodes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_HasChildNodes method. Returns a value indicating whether this node has any child nodes in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/system.xml/xmlnode/get_haschildnodes/
 ---
 ## XmlNode::get_HasChildNodes method

@@ -4,7 +4,7 @@ linktitle: get_Parameters
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::NameValueWithParametersHeaderValue::get_Parameters method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.net.http.headers/namevaluewithparametersheadervalue/get_parameters/
 ---
 ## NameValueWithParametersHeaderValue::get_Parameters method

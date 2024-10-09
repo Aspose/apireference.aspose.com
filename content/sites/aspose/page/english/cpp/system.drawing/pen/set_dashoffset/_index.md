@@ -4,7 +4,7 @@ linktitle: set_DashOffset
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_DashOffset method. Sets the distance from the start of a line to the beginning of a dash pattern in C++.'
 type: docs
-weight: 1500
+weight: 3000
 url: /cpp/system.drawing/pen/set_dashoffset/
 ---
 ## Pen::set_DashOffset method

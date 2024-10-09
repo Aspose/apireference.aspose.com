@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamWriter::get_Encoding method. Returns the currently used encoding in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.io/streamwriter/get_encoding/
 ---
 ## StreamWriter::get_Encoding method

@@ -4,7 +4,7 @@ linktitle: AddDataSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::XpsConverterOptions::AddDataSource method. Adds new data source to the XpsConverter plugin data collection in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.page.plugins/xpsconverteroptions/adddatasource/
 ---
 ## XpsConverterOptions::AddDataSource method

@@ -4,7 +4,7 @@ linktitle: WriteProcessingInstruction
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteProcessingInstruction method. Writes out a processing instruction with a space between the name and text as follows: <?name text?> in C++.'
 type: docs
-weight: 2600
+weight: 3300
 url: /cpp/system.xml/xmltextwriter/writeprocessinginstruction/
 ---
 ## XmlTextWriter::WriteProcessingInstruction method

@@ -4,7 +4,7 @@ linktitle: Parse
 second_title: Aspose.Page for C++
 description: 'System::Char::Parse method. Converts the first and the only character of the specified string to a char_t value in C++.'
 type: docs
-weight: 2600
+weight: 2100
 url: /cpp/system/char/parse/
 ---
 ## Char::Parse method

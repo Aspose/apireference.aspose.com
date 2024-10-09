@@ -4,7 +4,7 @@ linktitle: TransformFinalBlock
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ToBase64Transform::TransformFinalBlock method. Processes last block of data and calculates output value in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.security.cryptography/tobase64transform/transformfinalblock/
 ---
 ## ToBase64Transform::TransformFinalBlock method

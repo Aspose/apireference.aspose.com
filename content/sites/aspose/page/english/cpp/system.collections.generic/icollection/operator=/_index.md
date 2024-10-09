@@ -4,16 +4,16 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::operator= method. Move assignment operator in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system.collections.generic/icollection/operator=/
 ---
-## ICollection::operator=(ICollection\&&) method
+## ICollection::operator=(const ICollection\&) method
 
 
 Move assignment operator.
 
 ```cpp
-ICollection & System::Collections::Generic::ICollection<T>::operator=(ICollection &&) noexcept
+ICollection & System::Collections::Generic::ICollection<T>::operator=(const ICollection &)
 ```
 
 
@@ -27,13 +27,13 @@ Reference to this.
 * Class [ICollection](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## ICollection::operator=(const ICollection\&) method
+## ICollection::operator=(ICollection\&&) method
 
 
 Move assignment operator.
 
 ```cpp
-ICollection & System::Collections::Generic::ICollection<T>::operator=(const ICollection &)
+ICollection & System::Collections::Generic::ICollection<T>::operator=(ICollection &&) noexcept
 ```
 
 

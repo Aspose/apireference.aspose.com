@@ -4,7 +4,7 @@ linktitle: GetDaysInMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HebrewCalendar::GetDaysInMonth method. Gets number of days in specific month in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.globalization/hebrewcalendar/getdaysinmonth/
 ---
 ## HebrewCalendar::GetDaysInMonth method

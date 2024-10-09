@@ -4,7 +4,7 @@ linktitle: get_Now
 second_title: Aspose.Page for C++
 description: 'System::DateTime::get_Now method. Returns an instance of DateTime class that represents the current time as local time in C++.'
 type: docs
-weight: 5500
+weight: 6200
 url: /cpp/system/datetime/get_now/
 ---
 ## DateTime::get_Now method

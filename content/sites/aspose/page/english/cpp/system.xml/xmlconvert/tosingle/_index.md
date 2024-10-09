@@ -4,7 +4,7 @@ linktitle: ToSingle
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToSingle method. Converts the String to a Single equivalent in C++.'
 type: docs
-weight: 3000
+weight: 2300
 url: /cpp/system.xml/xmlconvert/tosingle/
 ---
 ## XmlConvert::ToSingle method

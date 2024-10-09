@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PrintTicket::Remove method. Removes an item from this PrintTicket item list in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/printticket/remove/
 ---
 ## PrintTicket::Remove method

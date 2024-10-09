@@ -4,7 +4,7 @@ linktitle: set_CalendarWeekRule
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_CalendarWeekRule method. Sets calendar week rule associated with formatter in C++.'
 type: docs
-weight: 3000
+weight: 4700
 url: /cpp/system.globalization/datetimeformatinfo/set_calendarweekrule/
 ---
 ## DateTimeFormatInfo::set_CalendarWeekRule method

@@ -4,9 +4,33 @@ linktitle: GetChars
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF7Encoding::GetChars method. Get the characters that result from decoding a byte buffer in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.text/utf7encoding/getchars/
 ---
+## UTF7Encoding::GetChars(ArrayPtr\<uint8_t\>) method
+
+
+Get the characters that result from decoding a byte buffer.
+
+```cpp
+virtual ArrayPtr<char_t> System::Text::Encoding::GetChars(ArrayPtr<uint8_t> bytes)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) to read bytes from. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) of decoded characters.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
 ## UTF7Encoding::GetChars(ArrayPtr\<uint8_t\>, int, int, ArrayPtr\<char_t\>, int) method
 
 
@@ -28,6 +52,32 @@ int System::Text::UTF7Encoding::GetChars(ArrayPtr<uint8_t> bytes, int byte_index
 ### ReturnValue
 
 Number of written characters.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetChars(ArrayPtr\<uint8_t\>, int, int) method
+
+
+Get the characters that result from decoding a byte buffer.
+
+```cpp
+virtual ArrayPtr<char_t> System::Text::Encoding::GetChars(ArrayPtr<uint8_t> bytes, int index, int count)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) to read bytes from. |
+| index | int | Input buffer offset. |
+| count | int | Input buffer size. |
+
+### ReturnValue
+
+[Buffer](../../../system/buffer/) of decoded characters.
 
 ## See Also
 
@@ -58,56 +108,6 @@ Number of written characters.
 
 ## See Also
 
-* Class [UTF7Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## UTF7Encoding::GetChars(ArrayPtr\<uint8_t\>, int, int) method
-
-
-Get the characters that result from decoding a byte buffer.
-
-```cpp
-virtual ArrayPtr<char_t> System::Text::Encoding::GetChars(ArrayPtr<uint8_t> bytes, int index, int count)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) to read bytes from. |
-| index | int | Input buffer offset. |
-| count | int | Input buffer size. |
-
-### ReturnValue
-
-[Buffer](../../../system/buffer/) of decoded characters.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [UTF7Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## UTF7Encoding::GetChars(ArrayPtr\<uint8_t\>) method
-
-
-Get the characters that result from decoding a byte buffer.
-
-```cpp
-virtual ArrayPtr<char_t> System::Text::Encoding::GetChars(ArrayPtr<uint8_t> bytes)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bytes | ArrayPtr\<uint8_t\> | [Buffer](../../../system/buffer/) to read bytes from. |
-
-### ReturnValue
-
-[Buffer](../../../system/buffer/) of decoded characters.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [UTF7Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)

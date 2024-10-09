@@ -4,7 +4,7 @@ linktitle: get_InputBlockSize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::HashAlgorithm::get_InputBlockSize method. Input block size in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.security.cryptography/hashalgorithm/get_inputblocksize/
 ---
 ## HashAlgorithm::get_InputBlockSize method

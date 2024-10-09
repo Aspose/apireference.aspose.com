@@ -4,7 +4,7 @@ linktitle: SelectActiveFrame
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::SelectActiveFrame method. Selects the specified frame in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/system.drawing/image/selectactiveframe/
 ---
 ## Image::SelectActiveFrame method

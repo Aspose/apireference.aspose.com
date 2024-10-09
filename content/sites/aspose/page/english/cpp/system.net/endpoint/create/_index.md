@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.Page for C++
 description: 'System::Net::EndPoint::Create method. Create a new instance of the EndPoint class using the specified socket address in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.net/endpoint/create/
 ---
 ## EndPoint::Create method

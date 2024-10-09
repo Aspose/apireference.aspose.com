@@ -4,7 +4,7 @@ linktitle: get_Remaining
 second_title: Aspose.Page for C++
 description: 'System::Text::EncoderExceptionFallbackBuffer::get_Remaining method. Gets number of remaining characters in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.text/encoderexceptionfallbackbuffer/get_remaining/
 ---
 ## EncoderExceptionFallbackBuffer::get_Remaining method

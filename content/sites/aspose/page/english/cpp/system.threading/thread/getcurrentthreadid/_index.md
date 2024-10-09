@@ -4,7 +4,7 @@ linktitle: GetCurrentThreadId
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::GetCurrentThreadId method. Gets identifier of current thread in C++.'
 type: docs
-weight: 2500
+weight: 2200
 url: /cpp/system.threading/thread/getcurrentthreadid/
 ---
 ## Thread::GetCurrentThreadId method

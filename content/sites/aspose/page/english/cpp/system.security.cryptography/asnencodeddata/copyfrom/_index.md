@@ -4,7 +4,7 @@ linktitle: CopyFrom
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::AsnEncodedData::CopyFrom method. Copies data from different object in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.security.cryptography/asnencodeddata/copyfrom/
 ---
 ## AsnEncodedData::CopyFrom method

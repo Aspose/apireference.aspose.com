@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::idx_get method. Gets element at specific position in C++.'
 type: docs
-weight: 2100
+weight: 2900
 url: /cpp/system.collections.generic/list/idx_get/
 ---
 ## List::idx_get method

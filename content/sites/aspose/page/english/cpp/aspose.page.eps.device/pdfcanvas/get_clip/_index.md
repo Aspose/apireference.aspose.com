@@ -4,7 +4,7 @@ linktitle: get_Clip
 second_title: Aspose.Page for C++
 description: 'How to use get_Clip method of Aspose::Page::EPS::Device::PdfCanvas class in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.eps.device/pdfcanvas/get_clip/
 ---
 ## PdfCanvas::get_Clip method

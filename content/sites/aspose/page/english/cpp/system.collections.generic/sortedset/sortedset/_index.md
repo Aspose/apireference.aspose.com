@@ -25,20 +25,6 @@ Creates empty set.
 * Class [SortedSet](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## SortedSet::SortedSet(int) constructor
-
-
-Creates empty set with specified capacity.
-
-```cpp
-System::Collections::Generic::SortedSet<T>::SortedSet(int capacity)
-```
-
-## See Also
-
-* Class [SortedSet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## SortedSet::SortedSet(const SharedPtr\<IComparer\<T\>\>\&) constructor
 
 
@@ -73,6 +59,20 @@ System::Collections::Generic::SortedSet<T>::SortedSet(const SharedPtr<IEnumerabl
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerable](../../ienumerable/)
+* Class [SortedSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## SortedSet::SortedSet(int) constructor
+
+
+Creates empty set with specified capacity.
+
+```cpp
+System::Collections::Generic::SortedSet<T>::SortedSet(int capacity)
+```
+
+## See Also
+
 * Class [SortedSet](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

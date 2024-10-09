@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::Write method. Writes the specified byte array to the stream in C++.'
 type: docs
-weight: 3200
+weight: 3800
 url: /cpp/system.net.security/sslstream/write/
 ---
 ## SslStream::Write(const ArrayPtr\<uint8_t\>\&) method

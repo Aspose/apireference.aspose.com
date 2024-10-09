@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::None field. Specifies unknown or unlisted media in C++.'
 type: docs
-weight: 3300
+weight: 1800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/none/
 ---
 ## None field

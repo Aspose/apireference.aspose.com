@@ -4,7 +4,7 @@ linktitle: InsertRange
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::InsertRange method. Inserts data range at specific position in C++.'
 type: docs
-weight: 3600
+weight: 3300
 url: /cpp/system.collections.generic/list/insertrange/
 ---
 ## List::InsertRange method

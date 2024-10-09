@@ -2,11 +2,41 @@
 title: System::Text::ICUEncoding::GetByteCount method
 linktitle: GetByteCount
 second_title: Aspose.Page for C++
-description: 'System::Text::ICUEncoding::GetByteCount method. Get the number of characters needed to encode a character buffer in C++.'
+description: 'System::Text::ICUEncoding::GetByteCount method. RTTI in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.text/icuencoding/getbytecount/
 ---
+## ICUEncoding::GetByteCount(ArrayPtr\<char_t\>) method
+
+
+RTTI.
+
+```cpp
+virtual int System::Text::Encoding::GetByteCount(ArrayPtr<char_t> chars)
+```
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUEncoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## ICUEncoding::GetByteCount(ArrayPtr\<char_t\>, int, int) method
+
+
+RTTI.
+
+```cpp
+virtual int System::Text::Encoding::GetByteCount(ArrayPtr<char_t> chars, int index, int count)
+```
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUEncoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ICUEncoding::GetByteCount(const char_t *, int) method
 
 
@@ -31,32 +61,18 @@ Required buffer size.
 * Class [ICUEncoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
-## ICUEncoding::GetByteCount(ArrayPtr\<char_t\>, int, int) method
+## ICUEncoding::GetByteCount(const String\&) method
 
 
 RTTI.
 
 ```cpp
-virtual int System::Text::Encoding::GetByteCount(ArrayPtr<char_t> chars, int index, int count)
+virtual int System::Text::Encoding::GetByteCount(const String &s)
 ```
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ICUEncoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## ICUEncoding::GetByteCount(System::Details::ArrayView\<char_t\>, int, int) method
-
-
-RTTI.
-
-```cpp
-virtual int System::Text::Encoding::GetByteCount(System::Details::ArrayView<char_t> chars, int index, int count)
-```
-
-## See Also
-
+* Class [String](../../../system/string/)
 * Class [ICUEncoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -74,33 +90,17 @@ template<std::size_t> int System::Text::Encoding::GetByteCount(const System::Det
 * Class [ICUEncoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
-## ICUEncoding::GetByteCount(const String\&) method
+## ICUEncoding::GetByteCount(System::Details::ArrayView\<char_t\>, int, int) method
 
 
 RTTI.
 
 ```cpp
-virtual int System::Text::Encoding::GetByteCount(const String &s)
+virtual int System::Text::Encoding::GetByteCount(System::Details::ArrayView<char_t> chars, int index, int count)
 ```
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ICUEncoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## ICUEncoding::GetByteCount(ArrayPtr\<char_t\>) method
-
-
-RTTI.
-
-```cpp
-virtual int System::Text::Encoding::GetByteCount(ArrayPtr<char_t> chars)
-```
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ICUEncoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)

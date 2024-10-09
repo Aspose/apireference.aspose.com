@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Reflection::MemberInfo::get_Name method. Gets member name in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.reflection/memberinfo/get_name/
 ---
 ## MemberInfo::get_Name method

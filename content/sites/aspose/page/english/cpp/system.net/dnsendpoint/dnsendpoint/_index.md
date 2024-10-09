@@ -4,7 +4,7 @@ linktitle: DnsEndPoint
 second_title: Aspose.Page for C++
 description: 'System::Net::DnsEndPoint::DnsEndPoint constructor. Constructs a new instance in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.net/dnsendpoint/dnsendpoint/
 ---
 ## DnsEndPoint::DnsEndPoint(String, int32_t) constructor

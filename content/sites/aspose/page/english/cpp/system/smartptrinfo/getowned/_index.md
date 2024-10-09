@@ -4,7 +4,7 @@ linktitle: getOwned
 second_title: Aspose.Page for C++
 description: 'System::SmartPtrInfo::getOwned method. Gets object owned pointer in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/system/smartptrinfo/getowned/
 ---
 ## SmartPtrInfo::getOwned method

@@ -4,7 +4,7 @@ linktitle: AddOutline
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IInteractiveDevice::AddOutline method. Adds an outline item with the last object as its target in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page/iinteractivedevice/addoutline/
 ---
 ## IInteractiveDevice::AddOutline(int32_t, System::String) method

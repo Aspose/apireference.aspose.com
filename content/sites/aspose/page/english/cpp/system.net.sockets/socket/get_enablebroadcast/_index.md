@@ -4,7 +4,7 @@ linktitle: get_EnableBroadcast
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_EnableBroadcast method. Gets a value that indicates if the socket allows broadcast packets in C++.'
 type: docs
-weight: 3400
+weight: 2300
 url: /cpp/system.net.sockets/socket/get_enablebroadcast/
 ---
 ## Socket::get_EnableBroadcast method

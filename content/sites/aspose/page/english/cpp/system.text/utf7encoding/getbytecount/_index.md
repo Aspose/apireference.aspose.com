@@ -4,23 +4,22 @@ linktitle: GetByteCount
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF7Encoding::GetByteCount method. Get the number of characters needed to encode a character buffer in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/system.text/utf7encoding/getbytecount/
 ---
-## UTF7Encoding::GetByteCount(const char_t *, int) method
+## UTF7Encoding::GetByteCount(ArrayPtr\<char_t\>) method
 
 
 Get the number of characters needed to encode a character buffer.
 
 ```cpp
-int System::Text::UTF7Encoding::GetByteCount(const char_t *chars, int count) override
+virtual int System::Text::Encoding::GetByteCount(ArrayPtr<char_t> chars)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| chars | const char_t * | Characters buffer. |
-| count | int | [Buffer](../../../system/buffer/) size. |
+| chars | ArrayPtr\<char_t\> | Characters buffer. |
 
 ### ReturnValue
 
@@ -28,6 +27,7 @@ Required buffer size.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [UTF7Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -57,46 +57,20 @@ Required buffer size.
 * Class [UTF7Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
-## UTF7Encoding::GetByteCount(System::Details::ArrayView\<char_t\>, int, int) method
+## UTF7Encoding::GetByteCount(const char_t *, int) method
 
 
 Get the number of characters needed to encode a character buffer.
 
 ```cpp
-virtual int System::Text::Encoding::GetByteCount(System::Details::ArrayView<char_t> chars, int index, int count)
+int System::Text::UTF7Encoding::GetByteCount(const char_t *chars, int count) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| chars | System::Details::ArrayView\<char_t\> | Characters buffer. |
-| index | int | Slice begin. |
-| count | int | Slice size. |
-
-### ReturnValue
-
-Required buffer size.
-
-## See Also
-
-* Class [UTF7Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
-## UTF7Encoding::GetByteCount(const System::Details::StackArray\<char_t, N\>\&, int, int) method
-
-
-Get the number of characters needed to encode a character buffer.
-
-```cpp
-template<std::size_t> int System::Text::Encoding::GetByteCount(const System::Details::StackArray<char_t, N> &chars, int index, int count)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| chars | const System::Details::StackArray\<char_t, N\>\& | Characters buffer. |
-| index | int | Slice begin. |
-| count | int | Slice size. |
+| chars | const char_t * | Characters buffer. |
+| count | int | [Buffer](../../../system/buffer/) size. |
 
 ### ReturnValue
 
@@ -131,19 +105,21 @@ Required buffer size.
 * Class [UTF7Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
-## UTF7Encoding::GetByteCount(ArrayPtr\<char_t\>) method
+## UTF7Encoding::GetByteCount(const System::Details::StackArray\<char_t, N\>\&, int, int) method
 
 
 Get the number of characters needed to encode a character buffer.
 
 ```cpp
-virtual int System::Text::Encoding::GetByteCount(ArrayPtr<char_t> chars)
+template<std::size_t> int System::Text::Encoding::GetByteCount(const System::Details::StackArray<char_t, N> &chars, int index, int count)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| chars | ArrayPtr\<char_t\> | Characters buffer. |
+| chars | const System::Details::StackArray\<char_t, N\>\& | Characters buffer. |
+| index | int | Slice begin. |
+| count | int | Slice size. |
 
 ### ReturnValue
 
@@ -151,7 +127,31 @@ Required buffer size.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## UTF7Encoding::GetByteCount(System::Details::ArrayView\<char_t\>, int, int) method
+
+
+Get the number of characters needed to encode a character buffer.
+
+```cpp
+virtual int System::Text::Encoding::GetByteCount(System::Details::ArrayView<char_t> chars, int index, int count)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| chars | System::Details::ArrayView\<char_t\> | Characters buffer. |
+| index | int | Slice begin. |
+| count | int | Slice size. |
+
+### ReturnValue
+
+Required buffer size.
+
+## See Also
+
 * Class [UTF7Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)

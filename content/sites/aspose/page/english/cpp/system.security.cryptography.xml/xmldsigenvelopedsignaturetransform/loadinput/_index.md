@@ -4,7 +4,7 @@ linktitle: LoadInput
 second_title: Aspose.Page for C++
 description: 'How to use LoadInput method of System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform class in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.security.cryptography.xml/xmldsigenvelopedsignaturetransform/loadinput/
 ---
 ## XmlDsigEnvelopedSignatureTransform::LoadInput method

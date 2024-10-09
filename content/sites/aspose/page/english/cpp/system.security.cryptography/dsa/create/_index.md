@@ -28,6 +28,27 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::Create()
 * Class [DSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)
+## DSA::Create(const DSAParameters\&) method
+
+
+Creates default [DSA](../) algorithm implementation with specifed parameters.
+
+```cpp
+static SharedPtr<DSA> System::Security::Cryptography::DSA::Create(const DSAParameters &parameters)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| parameters | const DSAParameters\& | The parameters for the [DSA](../) algorithm. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DSA](../)
+* Class [DSA](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)
 ## DSA::Create(const String\&) method
 
 
@@ -67,27 +88,6 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::Create(int32_t key_si
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key_size_in_bits | int32_t | The key size, in bits. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DSA](../)
-* Class [DSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Page for C++](../../../)
-## DSA::Create(const DSAParameters\&) method
-
-
-Creates default [DSA](../) algorithm implementation with specifed parameters.
-
-```cpp
-static SharedPtr<DSA> System::Security::Cryptography::DSA::Create(const DSAParameters &parameters)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| parameters | const DSAParameters\& | The parameters for the [DSA](../) algorithm. |
 
 ## See Also
 

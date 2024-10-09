@@ -4,7 +4,7 @@ linktitle: ReadChars
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::ReadChars method. Reads the text contents of an element into a character buffer. This method is designed to read large streams of embedded text by calling it successively in C++.'
 type: docs
-weight: 5900
+weight: 4600
 url: /cpp/system.xml/xmltextreader/readchars/
 ---
 ## XmlTextReader::ReadChars method

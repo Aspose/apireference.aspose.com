@@ -4,7 +4,7 @@ linktitle: get_ANSICodePage
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::get_ANSICodePage method. Gets ANSI codepage in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.globalization/textinfo/get_ansicodepage/
 ---
 ## TextInfo::get_ANSICodePage method

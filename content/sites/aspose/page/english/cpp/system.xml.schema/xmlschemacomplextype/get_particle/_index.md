@@ -4,7 +4,7 @@ linktitle: get_Particle
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::get_Particle method. Returns the compositor type as one of the XmlSchemaGroupRef, XmlSchemaChoice, XmlSchemaAll, or XmlSchemaSequence classes in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_particle/
 ---
 ## XmlSchemaComplexType::get_Particle method

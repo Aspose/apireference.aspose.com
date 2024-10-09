@@ -96,29 +96,6 @@ System::IO::StreamWriter::StreamWriter(const String &path)
 * Class [StreamWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
-## StreamWriter::StreamWriter(const String\&, bool, const EncodingPtr\&) constructor
-
-
-Constructs an instance of [StreamWriter](../) object that writes characters to the specified file using the specified encoding and a buffer with default size of 1024 bytes. A parameter specifies whether the data should be appened to the file or the file should be overwritten.
-
-```cpp
-System::IO::StreamWriter::StreamWriter(const String &path, bool append, const EncodingPtr &encoding=System::Text::Encoding::get_UTF8Unmarked())
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| path | const String\& | The path of the file to write characters to |
-| append | bool | Specifies whether the data should be appended to the specified file (true) or the file should be overwritten (false) |
-| encoding | const EncodingPtr\& | The encoding to use |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Typedef [EncodingPtr](../../../system/encodingptr/)
-* Class [StreamWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
 ## StreamWriter::StreamWriter(const String\&, bool, const EncodingPtr\&, int) constructor
 
 
@@ -135,6 +112,29 @@ System::IO::StreamWriter::StreamWriter(const String &path, bool append, const En
 | append | bool | Specifies whether the data should be appended to the specified file (true) or the file should be overwritten (false) |
 | encoding | const EncodingPtr\& | The encoding to use |
 | buffer_size | int | The size of buffer to use |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## StreamWriter::StreamWriter(const String\&, bool, const EncodingPtr\&) constructor
+
+
+Constructs an instance of [StreamWriter](../) object that writes characters to the specified file using the specified encoding and a buffer with default size of 1024 bytes. A parameter specifies whether the data should be appened to the file or the file should be overwritten.
+
+```cpp
+System::IO::StreamWriter::StreamWriter(const String &path, bool append, const EncodingPtr &encoding=System::Text::Encoding::get_UTF8Unmarked())
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | const String\& | The path of the file to write characters to |
+| append | bool | Specifies whether the data should be appended to the specified file (true) or the file should be overwritten (false) |
+| encoding | const EncodingPtr\& | The encoding to use |
 
 ## See Also
 

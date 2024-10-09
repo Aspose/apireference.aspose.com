@@ -4,7 +4,7 @@ linktitle: ToDouble
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToDouble method. Converts the value of this instance to an equivalent double-precision floating-point number using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/system/iconvertible/todouble/
 ---
 ## IConvertible::ToDouble method

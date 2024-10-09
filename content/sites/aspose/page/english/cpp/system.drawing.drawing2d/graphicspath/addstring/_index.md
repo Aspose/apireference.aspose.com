@@ -4,7 +4,7 @@ linktitle: AddString
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::AddString method. Adds a string of text to the path represented by the current object in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.drawing.drawing2d/graphicspath/addstring/
 ---
 ## GraphicsPath::AddString(const String\&, const SharedPtr\<FontFamily\>\&, int, float, Point, const SharedPtr\<StringFormat\>\&) method

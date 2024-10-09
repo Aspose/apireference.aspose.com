@@ -4,7 +4,7 @@ linktitle: set_FillMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::set_FillMode method. Sets the fill mode of the current object in C++.'
 type: docs
-weight: 900
+weight: 3400
 url: /cpp/system.drawing.drawing2d/graphicspath/set_fillmode/
 ---
 ## GraphicsPath::set_FillMode method

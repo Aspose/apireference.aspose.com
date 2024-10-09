@@ -4,7 +4,7 @@ linktitle: get_Host
 second_title: Aspose.Page for C++
 description: 'System::Net::DnsEndPoint::get_Host method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net/dnsendpoint/get_host/
 ---
 ## DnsEndPoint::get_Host method

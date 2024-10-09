@@ -4,7 +4,7 @@ linktitle: EncodingUntypedValueFaultSubcode
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Code::EncodingUntypedValueFaultSubcode field. The string representation of the ''UntypedValue'' SOAP version 1.2 code in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/system.web.services/soap12/code/encodinguntypedvaluefaultsubcode/
 ---
 ## EncodingUntypedValueFaultSubcode field

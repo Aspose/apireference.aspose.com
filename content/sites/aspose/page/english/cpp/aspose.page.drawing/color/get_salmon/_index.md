@@ -4,7 +4,7 @@ linktitle: get_Salmon
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Salmon method. Gets a system-defined color that has an ARGB value of #FFFA8072 in C++.'
 type: docs
-weight: 11900
+weight: 12000
 url: /cpp/aspose.page.drawing/color/get_salmon/
 ---
 ## Color::get_Salmon method

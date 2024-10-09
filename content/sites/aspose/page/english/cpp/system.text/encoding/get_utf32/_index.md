@@ -4,7 +4,7 @@ linktitle: get_UTF32
 second_title: Aspose.Page for C++
 description: 'How to use get_UTF32 method of System::Text::Encoding class in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/system.text/encoding/get_utf32/
 ---
 ## Encoding::get_UTF32 method

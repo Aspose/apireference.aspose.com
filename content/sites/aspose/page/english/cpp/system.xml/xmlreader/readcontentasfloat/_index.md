@@ -4,7 +4,7 @@ linktitle: ReadContentAsFloat
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAsFloat method. Reads the text content at the current position as a single-precision floating point number in C++.'
 type: docs
-weight: 3100
+weight: 4700
 url: /cpp/system.xml/xmlreader/readcontentasfloat/
 ---
 ## XmlReader::ReadContentAsFloat method

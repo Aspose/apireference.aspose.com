@@ -4,7 +4,7 @@ linktitle: set_KeySize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ECDsaBotan::set_KeySize method. Sets key size in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.security.cryptography/ecdsabotan/set_keysize/
 ---
 ## ECDsaBotan::set_KeySize method

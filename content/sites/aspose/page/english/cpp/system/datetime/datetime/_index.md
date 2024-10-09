@@ -21,6 +21,26 @@ System::DateTime::DateTime()
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## DateTime::DateTime(const DateTime\&) constructor
+
+
+Copy-constructs an instance.
+
+```cpp
+System::DateTime::DateTime(const DateTime &dt)=default
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| dt | const DateTime\& | An instance of [DateTime](../) class to copy the represented date and time value from |
+
+## See Also
+
+* Class [DateTime](../)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## DateTime::DateTime(int, int, int) constructor
 
 
@@ -90,32 +110,6 @@ System::DateTime::DateTime(int year, int month, int day, int hour, int minute, i
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## DateTime::DateTime(int, int, int, int, int, int, DateTimeKind) constructor
-
-
-Constructs an instance that represents a date and time value specified as a particular year, month, day, hour, minute and second.
-
-```cpp
-System::DateTime::DateTime(int year, int month, int day, int hour, int minute, int second, DateTimeKind kind)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | The year to be represented by the instance being constructed. |
-| month | int | The month of the **year** to be represented by the instance being constructed. |
-| day | int | The day of the **month** to be represented by the instance being constructed. |
-| hour | int | The hour of the **day** to be represented by the instance being constructed. |
-| minute | int | The minute of the **hour** to be represented by the instance being constructed. |
-| second | int | The second of the **minute** te be represented by the instance being constructed. |
-| kind | DateTimeKind | The value that indicates if the provided date and time parameters specify a local time, UTC time or neither. |
-
-## See Also
-
-* Enum [DateTimeKind](../../datetimekind/)
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## DateTime::DateTime(int, int, int, int, int, int, const SharedPtr\<Globalization::Calendar\>\&) constructor
 
 
@@ -143,13 +137,13 @@ System::DateTime::DateTime(int year, int month, int day, int hour, int minute, i
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## DateTime::DateTime(int, int, int, int, int, int, int, DateTimeKind) constructor
+## DateTime::DateTime(int, int, int, int, int, int, DateTimeKind) constructor
 
 
-Constructs an instance that represents a date and time value specified as a particular year, month, day, hour, minute, second and millisecond.
+Constructs an instance that represents a date and time value specified as a particular year, month, day, hour, minute and second.
 
 ```cpp
-System::DateTime::DateTime(int year, int month, int day, int hour, int minute, int second, int millisecond, DateTimeKind kind=DateTimeKind::Unspecified)
+System::DateTime::DateTime(int year, int month, int day, int hour, int minute, int second, DateTimeKind kind)
 ```
 
 
@@ -161,7 +155,6 @@ System::DateTime::DateTime(int year, int month, int day, int hour, int minute, i
 | hour | int | The hour of the **day** to be represented by the instance being constructed. |
 | minute | int | The minute of the **hour** to be represented by the instance being constructed. |
 | second | int | The second of the **minute** te be represented by the instance being constructed. |
-| millisecond | int | The millisecond of the **second** to be represented by the instance being constructed. |
 | kind | DateTimeKind | The value that indicates if the provided date and time parameters specify a local time, UTC time or neither. |
 
 ## See Also
@@ -200,20 +193,26 @@ System::DateTime::DateTime(int year, int month, int day, int hour, int minute, i
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## DateTime::DateTime(int64_t, DateTimeKind) constructor
+## DateTime::DateTime(int, int, int, int, int, int, int, DateTimeKind) constructor
 
 
-Construct an instance that represents a date and time value specified as a number of ticks.
+Constructs an instance that represents a date and time value specified as a particular year, month, day, hour, minute, second and millisecond.
 
 ```cpp
-System::DateTime::DateTime(int64_t ticks, DateTimeKind kind=DateTimeKind::Unspecified)
+System::DateTime::DateTime(int year, int month, int day, int hour, int minute, int second, int millisecond, DateTimeKind kind=DateTimeKind::Unspecified)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ticks | int64_t | The number of 100-ns intervals that have passed since January the 1st, 0001 00:00:00.000 in Georgian calendar. |
-| kind | DateTimeKind | The value that indicates if **ticks** parameter specifies a local time, UTC time or neither. |
+| year | int | The year to be represented by the instance being constructed. |
+| month | int | The month of the **year** to be represented by the instance being constructed. |
+| day | int | The day of the **month** to be represented by the instance being constructed. |
+| hour | int | The hour of the **day** to be represented by the instance being constructed. |
+| minute | int | The minute of the **hour** to be represented by the instance being constructed. |
+| second | int | The second of the **minute** te be represented by the instance being constructed. |
+| millisecond | int | The millisecond of the **second** to be represented by the instance being constructed. |
+| kind | DateTimeKind | The value that indicates if the provided date and time parameters specify a local time, UTC time or neither. |
 
 ## See Also
 
@@ -243,23 +242,24 @@ System::DateTime::DateTime(int64_t ticks, DateTimeKind kind, bool is_ambiguous_l
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## DateTime::DateTime(const DateTime\&) constructor
+## DateTime::DateTime(int64_t, DateTimeKind) constructor
 
 
-Copy-constructs an instance.
+Construct an instance that represents a date and time value specified as a number of ticks.
 
 ```cpp
-System::DateTime::DateTime(const DateTime &dt)=default
+System::DateTime::DateTime(int64_t ticks, DateTimeKind kind=DateTimeKind::Unspecified)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dt | const DateTime\& | An instance of [DateTime](../) class to copy the represented date and time value from |
+| ticks | int64_t | The number of 100-ns intervals that have passed since January the 1st, 0001 00:00:00.000 in Georgian calendar. |
+| kind | DateTimeKind | The value that indicates if **ticks** parameter specifies a local time, UTC time or neither. |
 
 ## See Also
 
-* Class [DateTime](../)
+* Enum [DateTimeKind](../../datetimekind/)
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

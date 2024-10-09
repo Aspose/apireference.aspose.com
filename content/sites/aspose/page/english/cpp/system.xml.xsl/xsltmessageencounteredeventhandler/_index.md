@@ -4,7 +4,7 @@ linktitle: XsltMessageEncounteredEventHandler
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltMessageEncounteredEventHandler typedef. Represents the method that will handle the XsltArgumentList::XsltMessageEncountered event in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.xml.xsl/xsltmessageencounteredeventhandler/
 ---
 ## XsltMessageEncounteredEventHandler typedef

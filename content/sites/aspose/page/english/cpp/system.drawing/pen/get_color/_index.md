@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_Color method. Returns this pen''s color in C++.'
 type: docs
-weight: 3100
+weight: 600
 url: /cpp/system.drawing/pen/get_color/
 ---
 ## Pen::get_Color method

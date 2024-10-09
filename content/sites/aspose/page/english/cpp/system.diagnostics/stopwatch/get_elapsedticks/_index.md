@@ -4,7 +4,7 @@ linktitle: get_ElapsedTicks
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Stopwatch::get_ElapsedTicks method. Gets the total elapsed time measured by the current instance, in timer ticks in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/system.diagnostics/stopwatch/get_elapsedticks/
 ---
 ## Stopwatch::get_ElapsedTicks method

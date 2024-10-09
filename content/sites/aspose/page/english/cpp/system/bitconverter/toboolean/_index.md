@@ -4,7 +4,7 @@ linktitle: ToBoolean
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToBoolean method. Converts one byte from the specified array starting at the specified index to boolean value in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system/bitconverter/toboolean/
 ---
 ## BitConverter::ToBoolean(const System::ArrayPtr\<uint8_t\>\&, int) method

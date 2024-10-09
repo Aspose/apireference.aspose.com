@@ -4,7 +4,7 @@ linktitle: VerifyXmlChars
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::VerifyXmlChars method. Returns the passed-in string if all the characters and surrogate pair characters in the string argument are valid XML characters, otherwise an XmlException is thrown with information on the first invalid character encountered in C++.'
 type: docs
-weight: 900
+weight: 3500
 url: /cpp/system.xml/xmlconvert/verifyxmlchars/
 ---
 ## XmlConvert::VerifyXmlChars method

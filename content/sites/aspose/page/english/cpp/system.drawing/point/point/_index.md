@@ -21,26 +21,6 @@ System::Drawing::Point::Point()
 * Class [Point](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## Point::Point(int, int) constructor
-
-
-Constructs a new [Point](../) object and initializes it with the specified values.
-
-```cpp
-System::Drawing::Point::Point(int x, int y)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | int | The value of X coordinate |
-| y | int | The value of Y coordinate |
-
-## See Also
-
-* Class [Point](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Point::Point(const Size\&) constructor
 
 
@@ -74,6 +54,26 @@ System::Drawing::Point::Point(int dw)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | dw | int | The 32-bit integer value whose high 16 bits specify the X coordinate value and low 16 bits specify the Y coordinate value of the object being created |
+
+## See Also
+
+* Class [Point](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Point::Point(int, int) constructor
+
+
+Constructs a new [Point](../) object and initializes it with the specified values.
+
+```cpp
+System::Drawing::Point::Point(int x, int y)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | int | The value of X coordinate |
+| y | int | The value of Y coordinate |
 
 ## See Also
 

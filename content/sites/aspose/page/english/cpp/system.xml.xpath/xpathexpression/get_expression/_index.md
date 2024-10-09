@@ -4,7 +4,7 @@ linktitle: get_Expression
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathExpression::get_Expression method. When overridden in a derived class, gets a string representation of the XPathExpression in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.xpath/xpathexpression/get_expression/
 ---
 ## XPathExpression::get_Expression method

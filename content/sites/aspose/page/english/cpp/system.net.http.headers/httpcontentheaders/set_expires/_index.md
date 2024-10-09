@@ -4,7 +4,7 @@ linktitle: set_Expires
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::set_Expires method. Sets a value of the ''Expires'' header in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/system.net.http.headers/httpcontentheaders/set_expires/
 ---
 ## HttpContentHeaders::set_Expires method

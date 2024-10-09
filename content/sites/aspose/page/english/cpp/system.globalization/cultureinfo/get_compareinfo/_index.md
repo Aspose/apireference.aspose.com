@@ -4,7 +4,7 @@ linktitle: get_CompareInfo
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_CompareInfo method. Gets string comparer that adheres to culture rules in C++.'
 type: docs
-weight: 1800
+weight: 600
 url: /cpp/system.globalization/cultureinfo/get_compareinfo/
 ---
 ## CultureInfo::get_CompareInfo method

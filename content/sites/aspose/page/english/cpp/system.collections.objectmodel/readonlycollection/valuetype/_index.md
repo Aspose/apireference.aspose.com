@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::ValueType typedef. Value type in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.collections.objectmodel/readonlycollection/valuetype/
 ---
 ## ValueType typedef

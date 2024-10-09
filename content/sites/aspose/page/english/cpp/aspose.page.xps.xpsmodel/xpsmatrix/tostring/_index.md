@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::ToString method. Returns the string representation of this XpsMatrix instance in C++.'
 type: docs
-weight: 2100
+weight: 1700
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/tostring/
 ---
 ## XpsMatrix::ToString method

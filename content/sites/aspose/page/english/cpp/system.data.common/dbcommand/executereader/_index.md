@@ -4,7 +4,7 @@ linktitle: ExecuteReader
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbCommand::ExecuteReader method. Executes query command in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.data.common/dbcommand/executereader/
 ---
 ## DbCommand::ExecuteReader method

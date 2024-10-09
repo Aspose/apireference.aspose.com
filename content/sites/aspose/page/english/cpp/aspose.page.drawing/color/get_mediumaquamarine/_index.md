@@ -4,7 +4,7 @@ linktitle: get_MediumAquamarine
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_MediumAquamarine method. Gets a system-defined color that has an ARGB value of #FF66CDAA in C++.'
 type: docs
-weight: 8300
+weight: 8400
 url: /cpp/aspose.page.drawing/color/get_mediumaquamarine/
 ---
 ## Color::get_MediumAquamarine method

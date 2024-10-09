@@ -4,7 +4,7 @@ linktitle: FixedDocumentSequence
 second_title: Aspose.Page for C++
 description: 'How to use FixedDocumentSequence field of Aspose::Page::XPS::XpsNamespaces class in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.page.xps/xpsnamespaces/fixeddocumentsequence/
 ---
 ## FixedDocumentSequence field

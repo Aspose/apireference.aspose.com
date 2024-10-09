@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::Remove method. Removes the specified XML Schema definition language (XSD) schema from the XmlSchemaSet in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/system.xml.schema/xmlschemaset/remove/
 ---
 ## XmlSchemaSet::Remove method

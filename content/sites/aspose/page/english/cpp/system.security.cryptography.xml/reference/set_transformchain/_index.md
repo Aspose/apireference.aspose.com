@@ -4,7 +4,7 @@ linktitle: set_TransformChain
 second_title: Aspose.Page for C++
 description: 'How to use set_TransformChain method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.security.cryptography.xml/reference/set_transformchain/
 ---
 ## Reference::set_TransformChain method

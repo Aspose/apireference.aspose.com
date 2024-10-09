@@ -4,7 +4,7 @@ linktitle: IndexOfAny
 second_title: Aspose.Page for C++
 description: 'System::String::IndexOfAny method. Character forward lookup in C++.'
 type: docs
-weight: 4700
+weight: 1500
 url: /cpp/system/string/indexofany/
 ---
 ## String::IndexOfAny(char_t, int) const method
@@ -28,31 +28,6 @@ Index of first character position since startIndex or -1 if not found.
 
 ## See Also
 
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::IndexOfAny(const String\&, int) const method
-
-
-Consequently looks for all characters of str in this. If first character is found, its position is returned, otherwise looks for the second one and so on.
-
-```cpp
-int System::String::IndexOfAny(const String &str, int startIndex=0) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | const String\& | [String](../) of characters to look for. Order of characters matters. |
-| startIndex | int | Position to start lookup from. |
-
-### ReturnValue
-
-Index of first found character or -1 if none is found.
-
-## See Also
-
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -128,6 +103,31 @@ Index of the first matching character or -1 if not found.
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::IndexOfAny(const String\&, int) const method
+
+
+Consequently looks for all characters of str in this. If first character is found, its position is returned, otherwise looks for the second one and so on.
+
+```cpp
+int System::String::IndexOfAny(const String &str, int startIndex=0) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | const String\& | [String](../) of characters to look for. Order of characters matters. |
+| startIndex | int | Position to start lookup from. |
+
+### ReturnValue
+
+Index of first found character or -1 if none is found.
+
+## See Also
+
+* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

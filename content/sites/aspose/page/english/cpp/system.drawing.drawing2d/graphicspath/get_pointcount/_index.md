@@ -4,7 +4,7 @@ linktitle: get_PointCount
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::get_PointCount method. Returns the number of points in the path represented by the current object in C++.'
 type: docs
-weight: 600
+weight: 2600
 url: /cpp/system.drawing.drawing2d/graphicspath/get_pointcount/
 ---
 ## GraphicsPath::get_PointCount method

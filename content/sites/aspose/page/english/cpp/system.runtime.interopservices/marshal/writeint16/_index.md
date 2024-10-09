@@ -4,7 +4,7 @@ linktitle: WriteInt16
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::WriteInt16 method. Writes short to memory in C++.'
 type: docs
-weight: 300
+weight: 1800
 url: /cpp/system.runtime.interopservices/marshal/writeint16/
 ---
 ## Marshal::WriteInt16 method

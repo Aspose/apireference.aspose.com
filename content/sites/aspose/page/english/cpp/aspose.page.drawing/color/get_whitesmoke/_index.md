@@ -4,7 +4,7 @@ linktitle: get_WhiteSmoke
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_WhiteSmoke method. Gets a system-defined color that has an ARGB value of #FFF5F5F5 in C++.'
 type: docs
-weight: 13900
+weight: 14100
 url: /cpp/aspose.page.drawing/color/get_whitesmoke/
 ---
 ## Color::get_WhiteSmoke method

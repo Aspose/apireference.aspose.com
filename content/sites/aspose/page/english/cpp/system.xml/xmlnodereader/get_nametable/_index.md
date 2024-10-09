@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::get_NameTable method. Returns the XmlNameTable associated with this implementation in C++.'
 type: docs
-weight: 2000
+weight: 1600
 url: /cpp/system.xml/xmlnodereader/get_nametable/
 ---
 ## XmlNodeReader::get_NameTable method

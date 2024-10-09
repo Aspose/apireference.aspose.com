@@ -4,7 +4,7 @@ linktitle: Supports
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::Supports method. Tests if the DOM implementation implements a specific feature in C++.'
 type: docs
-weight: 3800
+weight: 4400
 url: /cpp/system.xml/xmlnode/supports/
 ---
 ## XmlNode::Supports method

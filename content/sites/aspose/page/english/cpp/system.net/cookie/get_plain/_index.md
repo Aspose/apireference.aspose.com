@@ -4,7 +4,7 @@ linktitle: get_Plain
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Plain method. Returns a value that indicates if the cookie specification is ''Plain'' in C++.'
 type: docs
-weight: 2100
+weight: 1500
 url: /cpp/system.net/cookie/get_plain/
 ---
 ## Cookie::get_Plain method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsRadialGradientBrush::Clone method. Clones this radial graduent brush in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsradialgradientbrush/clone/
 ---
 ## XpsRadialGradientBrush::Clone method

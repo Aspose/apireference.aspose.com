@@ -4,7 +4,7 @@ linktitle: RemoveAll
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::RemoveAll method. Removes all specified attributes and children of the current node. Default attributes are not removed in C++.'
 type: docs
-weight: 2900
+weight: 1700
 url: /cpp/system.xml/xmlelement/removeall/
 ---
 ## XmlElement::RemoveAll method

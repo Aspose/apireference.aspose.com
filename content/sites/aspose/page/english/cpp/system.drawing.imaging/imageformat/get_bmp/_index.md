@@ -4,7 +4,7 @@ linktitle: get_Bmp
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageFormat::get_Bmp method. Returns a shared pointer to an ImageFormat object that represents the bitmap image format in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.drawing.imaging/imageformat/get_bmp/
 ---
 ## ImageFormat::get_Bmp method

@@ -4,7 +4,7 @@ linktitle: ReadContentAsLong
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAsLong method. Reads the text content at the current position as a 64-bit signed integer in C++.'
 type: docs
-weight: 3400
+weight: 4900
 url: /cpp/system.xml/xmlreader/readcontentaslong/
 ---
 ## XmlReader::ReadContentAsLong method

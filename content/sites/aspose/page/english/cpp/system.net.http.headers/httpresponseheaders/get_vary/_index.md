@@ -4,7 +4,7 @@ linktitle: get_Vary
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_Vary method. Returns a value of the ''Vary'' header in C++.'
 type: docs
-weight: 1200
+weight: 1900
 url: /cpp/system.net.http.headers/httpresponseheaders/get_vary/
 ---
 ## HttpResponseHeaders::get_Vary method

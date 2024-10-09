@@ -4,7 +4,7 @@ linktitle: BlankCover
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobPrimaryCoverBack::CoverBackOption::BlankCover field. Specifies a blank cover sheet should be printed in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/jobprimarycoverback/coverbackoption/blankcover/
 ---
 ## BlankCover field

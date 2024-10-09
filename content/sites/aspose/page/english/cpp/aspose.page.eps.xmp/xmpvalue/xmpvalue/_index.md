@@ -2,28 +2,27 @@
 title: Aspose::Page::EPS::XMP::XmpValue::XmpValue constructor
 linktitle: XmpValue
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::EPS::XMP::XmpValue::XmpValue constructor. Constructor for string value in C++.'
+description: 'Aspose::Page::EPS::XMP::XmpValue::XmpValue constructor. Constructor for floating point Value in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/aspose.page.eps.xmp/xmpvalue/xmpvalue/
 ---
-## XmpValue::XmpValue(System::String) constructor
+## XmpValue::XmpValue(double) constructor
 
 
-Constructor for string value.
+Constructor for floating point Value.
 
 ```cpp
-Aspose::Page::EPS::XMP::XmpValue::XmpValue(System::String value)
+Aspose::Page::EPS::XMP::XmpValue::XmpValue(double value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | String value. |
+| value | double | Double value. |
 
 ## See Also
 
-* Class [String](../../../system/string/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Page::EPS::XMP](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -46,22 +45,25 @@ Aspose::Page::EPS::XMP::XmpValue::XmpValue(int32_t value)
 * Class [XmpValue](../)
 * Namespace [Aspose::Page::EPS::XMP](../../)
 * Library [Aspose.Page for C++](../../../)
-## XmpValue::XmpValue(double) constructor
+## XmpValue::XmpValue(System::ArrayPtr\<System::SharedPtr\<XmpValue\>\>) constructor
 
 
-Constructor for floating point Value.
+Constructor for array value.
 
 ```cpp
-Aspose::Page::EPS::XMP::XmpValue::XmpValue(double value)
+Aspose::Page::EPS::XMP::XmpValue::XmpValue(System::ArrayPtr<System::SharedPtr<XmpValue>> array)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | Double value. |
+| array | System::ArrayPtr\<System::SharedPtr\<XmpValue\>\> | Array value. |
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmpValue](../)
 * Class [XmpValue](../)
 * Namespace [Aspose::Page::EPS::XMP](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -85,25 +87,23 @@ Aspose::Page::EPS::XMP::XmpValue::XmpValue(System::DateTime value)
 * Class [XmpValue](../)
 * Namespace [Aspose::Page::EPS::XMP](../../)
 * Library [Aspose.Page for C++](../../../)
-## XmpValue::XmpValue(System::ArrayPtr\<System::SharedPtr\<XmpValue\>\>) constructor
+## XmpValue::XmpValue(System::String) constructor
 
 
-Constructor for array value.
+Constructor for string value.
 
 ```cpp
-Aspose::Page::EPS::XMP::XmpValue::XmpValue(System::ArrayPtr<System::SharedPtr<XmpValue>> array)
+Aspose::Page::EPS::XMP::XmpValue::XmpValue(System::String value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | System::ArrayPtr\<System::SharedPtr\<XmpValue\>\> | Array value. |
+| value | System::String | String value. |
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmpValue](../)
+* Class [String](../../../system/string/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Page::EPS::XMP](../../)
 * Library [Aspose.Page for C++](../../../)

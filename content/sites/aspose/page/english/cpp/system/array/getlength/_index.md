@@ -4,7 +4,7 @@ linktitle: GetLength
 second_title: Aspose.Page for C++
 description: 'System::Array::GetLength method. Returns the number of elements in the specified dimension in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/system/array/getlength/
 ---
 ## Array::GetLength method

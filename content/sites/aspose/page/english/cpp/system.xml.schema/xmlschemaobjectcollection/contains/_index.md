@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectCollection::Contains method. Indicates if the specified XmlSchemaObject is in the XmlSchemaObjectCollection in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/contains/
 ---
 ## XmlSchemaObjectCollection::Contains method

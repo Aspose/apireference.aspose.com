@@ -4,7 +4,7 @@ linktitle: GetDayOfWeek
 second_title: Aspose.Page for C++
 description: 'System::Globalization::JapaneseCalendar::GetDayOfWeek method. Gets day of week for the specified time point in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.globalization/japanesecalendar/getdayofweek/
 ---
 ## JapaneseCalendar::GetDayOfWeek method

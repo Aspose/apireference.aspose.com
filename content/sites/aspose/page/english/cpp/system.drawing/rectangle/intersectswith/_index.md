@@ -4,7 +4,7 @@ linktitle: IntersectsWith
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::IntersectsWith method. Determines if the rectangles represented by the current and specified objects intesect in C++.'
 type: docs
-weight: 2300
+weight: 1800
 url: /cpp/system.drawing/rectangle/intersectswith/
 ---
 ## Rectangle::IntersectsWith method

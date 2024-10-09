@@ -4,9 +4,23 @@ linktitle: NameValueWithParametersHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::NameValueWithParametersHeaderValue::NameValueWithParametersHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.net.http.headers/namevaluewithparametersheadervalue/namevaluewithparametersheadervalue/
 ---
+## NameValueWithParametersHeaderValue::NameValueWithParametersHeaderValue() constructor
+
+
+Constructs a new instance.
+
+```cpp
+System::Net::Http::Headers::NameValueWithParametersHeaderValue::NameValueWithParametersHeaderValue()
+```
+
+## See Also
+
+* Class [NameValueWithParametersHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Page for C++](../../../)
 ## NameValueWithParametersHeaderValue::NameValueWithParametersHeaderValue(String) constructor
 
 
@@ -45,20 +59,6 @@ System::Net::Http::Headers::NameValueWithParametersHeaderValue::NameValueWithPar
 ## See Also
 
 * Class [String](../../../system/string/)
-* Class [NameValueWithParametersHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Page for C++](../../../)
-## NameValueWithParametersHeaderValue::NameValueWithParametersHeaderValue() constructor
-
-
-Constructs a new instance.
-
-```cpp
-System::Net::Http::Headers::NameValueWithParametersHeaderValue::NameValueWithParametersHeaderValue()
-```
-
-## See Also
-
 * Class [NameValueWithParametersHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.Page for C++](../../../)

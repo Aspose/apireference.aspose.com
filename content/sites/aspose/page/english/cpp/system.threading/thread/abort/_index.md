@@ -4,7 +4,7 @@ linktitle: Abort
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::Abort method. Aborts thread. Not implemented in C++.'
 type: docs
-weight: 1800
+weight: 300
 url: /cpp/system.threading/thread/abort/
 ---
 ## Thread::Abort method

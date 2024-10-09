@@ -4,7 +4,7 @@ linktitle: MoveToNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToNamespace method. Moves the XPathNavigator to the namespace node with the specified namespace prefix in C++.'
 type: docs
-weight: 4300
+weight: 5900
 url: /cpp/system.xml.xpath/xpathnavigator/movetonamespace/
 ---
 ## XPathNavigator::MoveToNamespace method

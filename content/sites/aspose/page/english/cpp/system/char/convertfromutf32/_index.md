@@ -4,7 +4,7 @@ linktitle: ConvertFromUtf32
 second_title: Aspose.Page for C++
 description: 'System::Char::ConvertFromUtf32 method. Converts UTF-32 code unit into an instance of System::String class in C++.'
 type: docs
-weight: 2200
+weight: 100
 url: /cpp/system/char/convertfromutf32/
 ---
 ## Char::ConvertFromUtf32 method

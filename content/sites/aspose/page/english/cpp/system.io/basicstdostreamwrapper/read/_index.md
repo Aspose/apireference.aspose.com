@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSTDOStreamWrapper::Read method. If wrapping mode is binary, reads the specified number of bytes from the stream, otherwise read the specified number of characters and converts them to uint8_t type. Writes result of the reading to the specified byte array. Not supported! in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.io/basicstdostreamwrapper/read/
 ---
 ## BasicSTDOStreamWrapper::Read(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

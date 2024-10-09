@@ -4,7 +4,7 @@ linktitle: Pointee_
 second_title: Aspose.Page for C++
 description: 'System::WeakPtr::Pointee_ typedef. Pointed type in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system/weakptr/pointee_/
 ---
 ## Pointee_ typedef

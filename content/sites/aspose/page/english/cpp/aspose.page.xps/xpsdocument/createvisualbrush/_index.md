@@ -4,7 +4,7 @@ linktitle: CreateVisualBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::CreateVisualBrush method. Creates a new visual brush in C++.'
 type: docs
-weight: 5400
+weight: 2900
 url: /cpp/aspose.page.xps/xpsdocument/createvisualbrush/
 ---
 ## XpsDocument::CreateVisualBrush method

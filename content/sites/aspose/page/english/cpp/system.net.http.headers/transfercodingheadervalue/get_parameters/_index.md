@@ -4,7 +4,7 @@ linktitle: get_Parameters
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::TransferCodingHeaderValue::get_Parameters method. Returns the parameters in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http.headers/transfercodingheadervalue/get_parameters/
 ---
 ## TransferCodingHeaderValue::get_Parameters method

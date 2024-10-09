@@ -4,7 +4,7 @@ linktitle: get_Second
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::get_Second method. Gets second component of the current object in C++.'
 type: docs
-weight: 1300
+weight: 2500
 url: /cpp/system/datetimeoffset/get_second/
 ---
 ## DateTimeOffset::get_Second method

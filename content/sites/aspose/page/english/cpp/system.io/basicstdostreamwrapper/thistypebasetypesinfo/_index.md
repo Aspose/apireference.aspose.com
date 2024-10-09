@@ -4,7 +4,7 @@ linktitle: ThisTypeBaseTypesInfo
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSTDOStreamWrapper::ThisTypeBaseTypesInfo typedef of System::IO::BasicSTDOStreamWrapper class in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.io/basicstdostreamwrapper/thistypebasetypesinfo/
 ---
 ## ThisTypeBaseTypesInfo typedef

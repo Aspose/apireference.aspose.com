@@ -4,7 +4,7 @@ linktitle: get_Values
 second_title: Aspose.Page for C++
 description: 'How to use get_Values method of System::Collections::Generic::SortedList class in C++.'
 type: docs
-weight: 1200
+weight: 600
 url: /cpp/system.collections.generic/sortedlist/get_values/
 ---
 ## SortedList::get_Values method

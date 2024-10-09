@@ -4,7 +4,7 @@ linktitle: set_BatchSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::set_BatchSize method. Specifies the size of a portion of pages to pass from node to node in C++.'
 type: docs
-weight: 1400
+weight: 1000
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/set_batchsize/
 ---
 ## ImageSaveOptions::set_BatchSize method

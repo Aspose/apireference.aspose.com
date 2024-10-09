@@ -4,7 +4,7 @@ linktitle: get_Image
 second_title: Aspose.Page for C++
 description: 'System::Drawing::TextureBrush::get_Image method. Returns an image used by the current TextureBrush object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.drawing/texturebrush/get_image/
 ---
 ## TextureBrush::get_Image method

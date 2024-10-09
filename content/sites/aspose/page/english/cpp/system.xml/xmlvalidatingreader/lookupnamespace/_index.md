@@ -4,7 +4,7 @@ linktitle: LookupNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::LookupNamespace method. Resolves a namespace prefix in the current element''s scope in C++.'
 type: docs
-weight: 4300
+weight: 3400
 url: /cpp/system.xml/xmlvalidatingreader/lookupnamespace/
 ---
 ## XmlValidatingReader::LookupNamespace method

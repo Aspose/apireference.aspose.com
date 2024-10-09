@@ -4,7 +4,7 @@ linktitle: AppendText
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::AppendText method. Opens a file represented by the current object for writing text using UTF-8 encoding, in ''Append'' mode with no sharing in C++.'
 type: docs
-weight: 1900
+weight: 200
 url: /cpp/system.io/fileinfo/appendtext/
 ---
 ## FileInfo::AppendText method

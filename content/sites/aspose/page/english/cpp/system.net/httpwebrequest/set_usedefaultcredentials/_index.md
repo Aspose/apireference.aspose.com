@@ -4,7 +4,7 @@ linktitle: set_UseDefaultCredentials
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_UseDefaultCredentials method. Sets a value that indicates if the ''Credential'' property is equal to the ''DefaultCredentials'' property in C++.'
 type: docs
-weight: 2500
+weight: 5700
 url: /cpp/system.net/httpwebrequest/set_usedefaultcredentials/
 ---
 ## HttpWebRequest::set_UseDefaultCredentials method

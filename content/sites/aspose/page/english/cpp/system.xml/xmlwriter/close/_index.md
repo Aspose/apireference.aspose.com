@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::Close method. When overridden in a derived class, closes this stream and the underlying stream in C++.'
 type: docs
-weight: 2600
+weight: 100
 url: /cpp/system.xml/xmlwriter/close/
 ---
 ## XmlWriter::Close method

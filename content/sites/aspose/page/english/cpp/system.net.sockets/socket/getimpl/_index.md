@@ -4,7 +4,7 @@ linktitle: GetImpl
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::GetImpl method. Returns a pointer to implementation in C++.'
 type: docs
-weight: 6200
+weight: 3800
 url: /cpp/system.net.sockets/socket/getimpl/
 ---
 ## Socket::GetImpl method

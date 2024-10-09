@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::get_NameTable method. Returns the XmlNameTable associated with this object in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml/xmlnamespacemanager/get_nametable/
 ---
 ## XmlNamespaceManager::get_NameTable method

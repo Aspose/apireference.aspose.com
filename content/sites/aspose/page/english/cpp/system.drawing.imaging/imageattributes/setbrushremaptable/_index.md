@@ -4,7 +4,7 @@ linktitle: SetBrushRemapTable
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::SetBrushRemapTable method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.drawing.imaging/imageattributes/setbrushremaptable/
 ---
 ## ImageAttributes::SetBrushRemapTable method

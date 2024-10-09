@@ -4,7 +4,7 @@ linktitle: get_DodgerBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DodgerBlue method. Gets a system-defined color that has an ARGB value of #FF1E90FF in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/aspose.page.drawing/color/get_dodgerblue/
 ---
 ## Color::get_DodgerBlue method

@@ -4,7 +4,7 @@ linktitle: get_LeaveInnerStreamOpen
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::AuthenticatedStream::get_LeaveInnerStreamOpen method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/system.net.security/authenticatedstream/get_leaveinnerstreamopen/
 ---
 ## AuthenticatedStream::get_LeaveInnerStreamOpen method

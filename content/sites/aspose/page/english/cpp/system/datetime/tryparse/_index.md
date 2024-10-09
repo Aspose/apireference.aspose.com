@@ -2,33 +2,45 @@
 title: System::DateTime::TryParse method
 linktitle: TryParse
 second_title: Aspose.Page for C++
-description: 'System::DateTime::TryParse method. Converts the specified string representation of a date and time value to the equivalent DateTime object in C++.'
+description: 'How to use TryParse method of System::DateTime class in C++.'
 type: docs
 weight: 6900
 url: /cpp/system/datetime/tryparse/
 ---
-## DateTime::TryParse(const String\&, DateTime\&) method
+## DateTime::TryParse(const String\&, const SharedPtr\<Globalization::CultureInfo\>\&, Globalization::DateTimeStyles, DateTime\&) method
 
 
-Converts the specified string representation of a date and time value to the equivalent [DateTime](../) object.
+
 
 ```cpp
-static bool System::DateTime::TryParse(const String &s, DateTime &result)
+static bool System::DateTime::TryParse(const String &s, const SharedPtr<Globalization::CultureInfo> &culture, Globalization::DateTimeStyles styles, DateTime &result)
 ```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| s | const String\& | The string representation of a date and time value to convert. |
-| result | DateTime\& | The output argument that, if the conversion succeeds, contains the result of conversion. |
-
-### ReturnValue
-
-True if conversion succeeds, otherwise - false.
 
 ## See Also
 
 * Class [String](../../string/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Class [DateTime](../)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## DateTime::TryParse(const String\&, const SharedPtr\<Globalization::DateTimeFormatInfo\>\&, Globalization::DateTimeStyles, DateTime\&) method
+
+
+
+
+```cpp
+static bool System::DateTime::TryParse(const String &s, const SharedPtr<Globalization::DateTimeFormatInfo> &dtfi, Globalization::DateTimeStyles styles, DateTime &result)
+```
+
+## See Also
+
+* Class [String](../../string/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTime](../)
 * Class [DateTime](../)
 * Namespace [System](../../)
@@ -64,40 +76,28 @@ True if conversion succeeds, otherwise - false.
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## DateTime::TryParse(const String\&, const SharedPtr\<Globalization::CultureInfo\>\&, Globalization::DateTimeStyles, DateTime\&) method
+## DateTime::TryParse(const String\&, DateTime\&) method
 
 
-
+Converts the specified string representation of a date and time value to the equivalent [DateTime](../) object.
 
 ```cpp
-static bool System::DateTime::TryParse(const String &s, const SharedPtr<Globalization::CultureInfo> &culture, Globalization::DateTimeStyles styles, DateTime &result)
+static bool System::DateTime::TryParse(const String &s, DateTime &result)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| s | const String\& | The string representation of a date and time value to convert. |
+| result | DateTime\& | The output argument that, if the conversion succeeds, contains the result of conversion. |
+
+### ReturnValue
+
+True if conversion succeeds, otherwise - false.
 
 ## See Also
 
 * Class [String](../../string/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [CultureInfo](../../../system.globalization/cultureinfo/)
-* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
-* Class [DateTime](../)
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## DateTime::TryParse(const String\&, const SharedPtr\<Globalization::DateTimeFormatInfo\>\&, Globalization::DateTimeStyles, DateTime\&) method
-
-
-
-
-```cpp
-static bool System::DateTime::TryParse(const String &s, const SharedPtr<Globalization::DateTimeFormatInfo> &dtfi, Globalization::DateTimeStyles styles, DateTime &result)
-```
-
-## See Also
-
-* Class [String](../../string/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
-* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTime](../)
 * Class [DateTime](../)
 * Namespace [System](../../)

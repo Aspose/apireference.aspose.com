@@ -4,7 +4,7 @@ linktitle: set_PublicId
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::set_PublicId method. Sets the public identifier in C++.'
 type: docs
-weight: 800
+weight: 1800
 url: /cpp/system.xml/xmlparsercontext/set_publicid/
 ---
 ## XmlParserContext::set_PublicId method

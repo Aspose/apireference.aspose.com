@@ -4,7 +4,7 @@ linktitle: ChangeType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDatatype::ChangeType method. Converts the value specified, whose type is one of the valid representations of the XML schema type represented by the XmlSchemaDatatype, to the run-time type specified in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/system.xml.schema/xmlschemadatatype/changetype/
 ---
 ## XmlSchemaDatatype::ChangeType(SharedPtr\<Object\>, const TypeInfo\&) method

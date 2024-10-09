@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsVisualBrush::Clone method. Clones this visual brush in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsvisualbrush/clone/
 ---
 ## XpsVisualBrush::Clone method

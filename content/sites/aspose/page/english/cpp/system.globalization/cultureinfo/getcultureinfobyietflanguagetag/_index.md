@@ -4,7 +4,7 @@ linktitle: GetCultureInfoByIetfLanguageTag
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::GetCultureInfoByIetfLanguageTag method. Deprecated. Gets a read-only CultureInfo object by the specified RFC 4646 language tag in C++.'
 type: docs
-weight: 4700
+weight: 4300
 url: /cpp/system.globalization/cultureinfo/getcultureinfobyietflanguagetag/
 ---
 ## CultureInfo::GetCultureInfoByIetfLanguageTag method

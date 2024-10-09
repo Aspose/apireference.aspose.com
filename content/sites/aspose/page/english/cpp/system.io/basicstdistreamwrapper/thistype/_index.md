@@ -4,7 +4,7 @@ linktitle: ThisType
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSTDIStreamWrapper::ThisType typedef of System::IO::BasicSTDIStreamWrapper class in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/system.io/basicstdistreamwrapper/thistype/
 ---
 ## ThisType typedef

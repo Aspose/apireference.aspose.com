@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGradientStop::get_Color method. The gradient stop color in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpsgradientstop/get_color/
 ---
 ## XpsGradientStop::get_Color method

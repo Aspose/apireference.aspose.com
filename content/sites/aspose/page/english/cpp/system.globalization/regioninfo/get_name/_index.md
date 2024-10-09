@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Globalization::RegionInfo::get_Name method. Gets region name in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.globalization/regioninfo/get_name/
 ---
 ## RegionInfo::get_Name method

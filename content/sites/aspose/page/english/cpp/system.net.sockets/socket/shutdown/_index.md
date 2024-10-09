@@ -4,7 +4,7 @@ linktitle: Shutdown
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::Shutdown method. Disables the send and receive operations of the socket in C++.'
 type: docs
-weight: 5900
+weight: 6300
 url: /cpp/system.net.sockets/socket/shutdown/
 ---
 ## Socket::Shutdown method

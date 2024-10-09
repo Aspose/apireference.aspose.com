@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArray::Add method. Adds a new object into array in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsarray/add/
 ---
 ## XpsArray::Add method

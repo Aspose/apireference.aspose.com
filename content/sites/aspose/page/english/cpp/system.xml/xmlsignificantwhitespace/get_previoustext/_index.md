@@ -4,7 +4,7 @@ linktitle: get_PreviousText
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlSignificantWhitespace::get_PreviousText method. Returns the text node that immediately precedes this node in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.xml/xmlsignificantwhitespace/get_previoustext/
 ---
 ## XmlSignificantWhitespace::get_PreviousText method

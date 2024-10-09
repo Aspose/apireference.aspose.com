@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsBoolean
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsBoolean method. Reads the current element and returns the contents as a Boolean object in C++.'
 type: docs
-weight: 3800
+weight: 5500
 url: /cpp/system.xml/xmlreader/readelementcontentasboolean/
 ---
 ## XmlReader::ReadElementContentAsBoolean() method

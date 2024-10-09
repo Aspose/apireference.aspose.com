@@ -4,7 +4,7 @@ linktitle: set_PercentNegativePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PercentNegativePattern method. Sets percent negative pattern in C++.'
 type: docs
-weight: 5100
+weight: 5400
 url: /cpp/system.globalization/numberformatinfo/set_percentnegativepattern/
 ---
 ## NumberFormatInfo::set_PercentNegativePattern method

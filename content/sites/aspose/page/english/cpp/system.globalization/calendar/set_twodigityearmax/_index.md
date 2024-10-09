@@ -4,7 +4,7 @@ linktitle: set_TwoDigitYearMax
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::set_TwoDigitYearMax method. Sets the last year that can be represented by a 2-digit in C++.'
 type: docs
-weight: 4000
+weight: 3900
 url: /cpp/system.globalization/calendar/set_twodigityearmax/
 ---
 ## Calendar::set_TwoDigitYearMax method

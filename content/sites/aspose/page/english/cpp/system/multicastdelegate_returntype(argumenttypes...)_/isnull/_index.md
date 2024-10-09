@@ -4,7 +4,7 @@ linktitle: IsNull
 second_title: Aspose.Page for C++
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::IsNull method. Determines whether the delegate collection is empty in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/isnull/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::IsNull method

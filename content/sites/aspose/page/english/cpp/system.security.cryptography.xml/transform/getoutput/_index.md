@@ -4,7 +4,7 @@ linktitle: GetOutput
 second_title: Aspose.Page for C++
 description: 'How to use GetOutput method of System::Security::Cryptography::Xml::Transform class in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.security.cryptography.xml/transform/getoutput/
 ---
 ## Transform::GetOutput() method

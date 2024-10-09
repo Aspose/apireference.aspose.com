@@ -4,7 +4,7 @@ linktitle: set_DashStyle
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_DashStyle method. Sets a value that specifies the dash style of the current Pen object in C++.'
 type: docs
-weight: 1900
+weight: 3200
 url: /cpp/system.drawing/pen/set_dashstyle/
 ---
 ## Pen::set_DashStyle method

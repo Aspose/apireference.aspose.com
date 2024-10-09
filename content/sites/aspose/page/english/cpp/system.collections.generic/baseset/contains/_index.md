@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseSet::Contains method. Checks if element is present in set in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.collections.generic/baseset/contains/
 ---
 ## BaseSet::Contains method

@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::idx_set method. Sets value of an entry in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/system.collections.specialized/namevaluecollection/idx_set/
 ---
 ## NameValueCollection::idx_set method

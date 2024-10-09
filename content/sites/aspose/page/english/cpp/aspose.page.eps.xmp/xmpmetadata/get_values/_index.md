@@ -4,7 +4,7 @@ linktitle: get_Values
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::get_Values method. Gets values in the metadata in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/get_values/
 ---
 ## XmpMetadata::get_Values method

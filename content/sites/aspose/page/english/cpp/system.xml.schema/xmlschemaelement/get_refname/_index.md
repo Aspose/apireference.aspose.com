@@ -4,7 +4,7 @@ linktitle: get_RefName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::get_RefName method. Returns the reference name of an element declared in this schema (or another schema indicated by the specified namespace) in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/system.xml.schema/xmlschemaelement/get_refname/
 ---
 ## XmlSchemaElement::get_RefName method

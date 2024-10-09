@@ -4,7 +4,7 @@ linktitle: get_IsSpecialValueSet
 second_title: Aspose.Page for C++
 description: 'How to use get_IsSpecialValueSet method of System::Net::Http::Headers::HttpHeaderValueCollection< System::String > class in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.net.http.headers/string_/get_isspecialvalueset/
 ---
 ## String >::get_IsSpecialValueSet method

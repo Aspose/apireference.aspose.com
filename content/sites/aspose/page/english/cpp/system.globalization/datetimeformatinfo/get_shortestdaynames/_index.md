@@ -4,7 +4,7 @@ linktitle: get_ShortestDayNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_ShortestDayNames method. Gets shortest day names possible in C++.'
 type: docs
-weight: 4400
+weight: 2300
 url: /cpp/system.globalization/datetimeformatinfo/get_shortestdaynames/
 ---
 ## DateTimeFormatInfo::get_ShortestDayNames method

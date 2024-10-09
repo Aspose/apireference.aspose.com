@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::cbegin method. Returns an iterator to the first element of the container. Implemented in STL-style. If the container is empty, the returned iterator will be equal to end() in C++.'
 type: docs
-weight: 2000
+weight: 500
 url: /cpp/system.collections.generic/basedictionary/cbegin/
 ---
 ## BaseDictionary::cbegin method

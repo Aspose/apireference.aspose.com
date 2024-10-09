@@ -4,7 +4,7 @@ linktitle: get_SyncRoot
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::get_SyncRoot method. Gets the object the collection is being synchronized through in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.collections.generic/icollection/get_syncroot/
 ---
 ## ICollection::get_SyncRoot method

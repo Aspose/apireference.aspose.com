@@ -4,7 +4,7 @@ linktitle: UStringPtr
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::UStringPtr typedef. Shared UnicodeString to avoid copying in C++.'
 type: docs
-weight: 1000
+weight: 1700
 url: /cpp/system.text.regularexpressions/ustringptr/
 ---
 ## UStringPtr typedef

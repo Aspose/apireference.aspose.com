@@ -4,7 +4,7 @@ linktitle: FromHex
 second_title: Aspose.Page for C++
 description: 'System::Uri::FromHex method. Gets the decimal value of a hexadecimal digit in C++.'
 type: docs
-weight: 3900
+weight: 3800
 url: /cpp/system/uri/fromhex/
 ---
 ## Uri::FromHex method

@@ -4,7 +4,7 @@ linktitle: set_Size
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::set_Size method. Sets the width and height of the rectangle represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 2500
 url: /cpp/system.drawing/rectangle/set_size/
 ---
 ## Rectangle::set_Size method

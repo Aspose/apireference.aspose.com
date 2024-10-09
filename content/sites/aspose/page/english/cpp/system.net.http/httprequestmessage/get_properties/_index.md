@@ -4,7 +4,7 @@ linktitle: get_Properties
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpRequestMessage::get_Properties method. Returns the collection of the HTTP request properties in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/system.net.http/httprequestmessage/get_properties/
 ---
 ## HttpRequestMessage::get_Properties method

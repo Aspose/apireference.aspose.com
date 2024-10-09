@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::get_Position method. Returns the current position of the stream in C++.'
 type: docs
-weight: 2400
+weight: 2700
 url: /cpp/system.net.security/sslstream/get_position/
 ---
 ## SslStream::get_Position method

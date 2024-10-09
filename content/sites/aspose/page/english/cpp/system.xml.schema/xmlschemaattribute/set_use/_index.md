@@ -4,7 +4,7 @@ linktitle: set_Use
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::set_Use method. Sets information about how the attribute is used in C++.'
 type: docs
-weight: 1600
+weight: 2000
 url: /cpp/system.xml.schema/xmlschemaattribute/set_use/
 ---
 ## XmlSchemaAttribute::set_Use method

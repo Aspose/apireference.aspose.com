@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_Encoding method. Returns the encoding attribute for the document in C++.'
 type: docs
-weight: 3300
+weight: 800
 url: /cpp/system.xml/xmlvalidatingreader/get_encoding/
 ---
 ## XmlValidatingReader::get_Encoding method

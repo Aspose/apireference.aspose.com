@@ -4,7 +4,7 @@ linktitle: set_ShortestDayNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_ShortestDayNames method. Sets shortest day names possible in C++.'
 type: docs
-weight: 4500
+weight: 5900
 url: /cpp/system.globalization/datetimeformatinfo/set_shortestdaynames/
 ---
 ## DateTimeFormatInfo::set_ShortestDayNames method

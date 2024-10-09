@@ -4,7 +4,7 @@ linktitle: SetLength
 second_title: Aspose.Page for C++
 description: 'System::IO::MemoryStream::SetLength method. Sets the length of the stream represented by the current object in C++.'
 type: docs
-weight: 1000
+weight: 1600
 url: /cpp/system.io/memorystream/setlength/
 ---
 ## MemoryStream::SetLength method

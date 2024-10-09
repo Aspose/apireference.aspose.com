@@ -4,7 +4,7 @@ linktitle: set_FeedbackSize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::set_FeedbackSize method. Sets feedback size of cryptographic operation in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_feedbacksize/
 ---
 ## SymmetricAlgorithm::set_FeedbackSize method

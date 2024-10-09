@@ -4,7 +4,7 @@ linktitle: GetEncoder
 second_title: Aspose.Page for C++
 description: 'System::Text::ICUEncoding::GetEncoder method. Get an encoder that forwards requests to this object in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.text/icuencoding/getencoder/
 ---
 ## ICUEncoding::GetEncoder method

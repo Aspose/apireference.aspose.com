@@ -4,7 +4,7 @@ linktitle: GetParam
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltArgumentList::GetParam method. Returns the parameter associated with the namespace qualified name in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.xml.xsl/xsltargumentlist/getparam/
 ---
 ## XsltArgumentList::GetParam method

@@ -4,7 +4,7 @@ linktitle: get_Reader
 second_title: Aspose.Page for C++
 description: 'How to use get_Reader method of System::Xml::Serialization::XmlSerializerImplementation class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.serialization/xmlserializerimplementation/get_reader/
 ---
 ## XmlSerializerImplementation::get_Reader method

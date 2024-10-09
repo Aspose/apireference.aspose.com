@@ -4,7 +4,7 @@ linktitle: get_IsMixed
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_IsMixed method. Returns a value indicating if this type has a mixed content model. This call is only valid in a complex type in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/system.xml.schema/xmlschematype/get_ismixed/
 ---
 ## XmlSchemaType::get_IsMixed method

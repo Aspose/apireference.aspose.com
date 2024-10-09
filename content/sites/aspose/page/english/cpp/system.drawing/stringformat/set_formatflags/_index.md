@@ -4,7 +4,7 @@ linktitle: set_FormatFlags
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::set_FormatFlags method. Sets the string format flags in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/system.drawing/stringformat/set_formatflags/
 ---
 ## StringFormat::set_FormatFlags method

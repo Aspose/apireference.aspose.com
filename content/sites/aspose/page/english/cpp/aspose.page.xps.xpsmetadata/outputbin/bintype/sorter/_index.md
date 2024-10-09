@@ -4,7 +4,7 @@ linktitle: Sorter
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::OutputBin::BinType::Sorter field. Sorter bin in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.page.xps.xpsmetadata/outputbin/bintype/sorter/
 ---
 ## Sorter field

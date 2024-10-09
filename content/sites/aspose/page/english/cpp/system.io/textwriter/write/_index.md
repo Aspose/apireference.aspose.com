@@ -2,32 +2,11 @@
 title: System::IO::TextWriter::Write method
 linktitle: Write
 second_title: Aspose.Page for C++
-description: 'System::IO::TextWriter::Write method. Writes the string representation of the specified object to the stream in C++.'
+description: 'System::IO::TextWriter::Write method. Writes the string representation of the specified boolean value to the stream in C++.'
 type: docs
 weight: 900
 url: /cpp/system.io/textwriter/write/
 ---
-## TextWriter::Write(const SharedPtr\<Object\>\&) method
-
-
-Writes the string representation of the specified object to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(const SharedPtr<Object> &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const SharedPtr\<Object\>\& | The object to write |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TextWriter::Write(bool) method
 
 
@@ -60,160 +39,6 @@ virtual void System::IO::TextWriter::Write(char_t value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | char_t | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(Decimal) method
-
-
-Writes the string representation of the specified [Decimal](../../../system/decimal/) object to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(Decimal value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Decimal | The object to write |
-
-## See Also
-
-* Class [Decimal](../../../system/decimal/)
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(double) method
-
-
-Writes the string representation of the specified double-precision floating point value to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(double value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(int) method
-
-
-Writes the string representation of the specified 32-bit integer value to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(int value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(int64_t) method
-
-
-Writes the string representation of the specified 64-bit integer value to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(int64_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int64_t | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(float) method
-
-
-Writes the string representation of the specified single-precision floating point value to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(float value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(const String\&) method
-
-
-Writes the specified string to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(const String &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | The string to write |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(uint32_t) method
-
-
-Writes the string representation of the specified unsigned 32-bit integer value to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(uint32_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint32_t | The value to write |
-
-## See Also
-
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(uint64_t) method
-
-
-Writes the string representation of the specified unsigned 64-bit integer value to the stream.
-
-```cpp
-virtual void System::IO::TextWriter::Write(uint64_t value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | uint64_t | The value to write |
 
 ## See Also
 
@@ -281,23 +106,24 @@ virtual void System::IO::TextWriter::Write(const char_t *value)
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
-## TextWriter::Write(const TypeInfo\&) method
+## TextWriter::Write(const SharedPtr\<Object\>\&) method
 
 
-Writes the string representation of the specified [TypeInfo](../../../system/typeinfo/) object to the stream.
+Writes the string representation of the specified object to the stream.
 
 ```cpp
-virtual void System::IO::TextWriter::Write(const TypeInfo &value)
+virtual void System::IO::TextWriter::Write(const SharedPtr<Object> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | const TypeInfo\& | The object to write |
+| value | const SharedPtr\<Object\>\& | The object to write |
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -323,6 +149,180 @@ template<class...> void System::IO::TextWriter::Write(const String &format, cons
 ## See Also
 
 * Class [String](../../../system/string/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(const String\&) method
+
+
+Writes the specified string to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(const String &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The string to write |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(const TypeInfo\&) method
+
+
+Writes the string representation of the specified [TypeInfo](../../../system/typeinfo/) object to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(const TypeInfo &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const TypeInfo\& | The object to write |
+
+## See Also
+
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(Decimal) method
+
+
+Writes the string representation of the specified [Decimal](../../../system/decimal/) object to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(Decimal value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Decimal | The object to write |
+
+## See Also
+
+* Class [Decimal](../../../system/decimal/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(double) method
+
+
+Writes the string representation of the specified double-precision floating point value to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(double value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(float) method
+
+
+Writes the string representation of the specified single-precision floating point value to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(float value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(int) method
+
+
+Writes the string representation of the specified 32-bit integer value to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(int value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(int64_t) method
+
+
+Writes the string representation of the specified 64-bit integer value to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(int64_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int64_t | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(uint32_t) method
+
+
+Writes the string representation of the specified unsigned 32-bit integer value to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(uint32_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint32_t | The value to write |
+
+## See Also
+
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## TextWriter::Write(uint64_t) method
+
+
+Writes the string representation of the specified unsigned 64-bit integer value to the stream.
+
+```cpp
+virtual void System::IO::TextWriter::Write(uint64_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | uint64_t | The value to write |
+
+## See Also
+
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

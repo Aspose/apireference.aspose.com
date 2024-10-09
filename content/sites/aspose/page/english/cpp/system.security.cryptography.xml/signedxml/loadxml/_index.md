@@ -4,7 +4,7 @@ linktitle: LoadXml
 second_title: Aspose.Page for C++
 description: 'How to use LoadXml method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/system.security.cryptography.xml/signedxml/loadxml/
 ---
 ## SignedXml::LoadXml method

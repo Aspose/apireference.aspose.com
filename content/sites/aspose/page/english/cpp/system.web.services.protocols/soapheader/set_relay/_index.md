@@ -4,7 +4,7 @@ linktitle: set_Relay
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::set_Relay method. Sets a value of the ''relay'' attribute in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.web.services.protocols/soapheader/set_relay/
 ---
 ## SoapHeader::set_Relay method

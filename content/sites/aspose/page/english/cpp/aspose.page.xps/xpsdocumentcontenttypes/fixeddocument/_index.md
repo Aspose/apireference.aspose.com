@@ -4,7 +4,7 @@ linktitle: FixedDocument
 second_title: Aspose.Page for C++
 description: 'How to use FixedDocument field of Aspose::Page::XPS::XpsDocumentContentTypes class in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.page.xps/xpsdocumentcontenttypes/fixeddocument/
 ---
 ## FixedDocument field

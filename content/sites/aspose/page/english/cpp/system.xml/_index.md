@@ -4,7 +4,7 @@ linktitle: System::Xml
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml namespace in C++.'
 type: docs
-weight: 7300
+weight: 7400
 url: /cpp/system.xml/
 ---
 
@@ -66,15 +66,15 @@ url: /cpp/system.xml/
 | [ConformanceLevel](./conformancelevel/) | Specifies the amount of input or output checking that [XmlReader](./xmlreader/) and [XmlWriter](./xmlwriter/) objects perform. |
 | [DtdProcessing](./dtdprocessing/) | Specifies the options for processing DTDs. The DtdProcessing enumeration is used by the [XmlReaderSettings](./xmlreadersettings/) class. |
 | [EntityHandling](./entityhandling/) | Specifies how the [XmlTextReader](./xmltextreader/) or [XmlValidatingReader](./xmlvalidatingreader/) handle entities. |
+| [ExceptionType](./exceptiontype/) |  |
 | [Formatting](./formatting/) | Specifies formatting options for the [XmlTextWriter](./xmltextwriter/). |
 | [NamespaceHandling](./namespacehandling/) | Specifies whether to remove duplicate namespace declarations in the [XmlWriter](./xmlwriter/). |
 | [NewLineHandling](./newlinehandling/) | Specifies how to handle line breaks. |
 | [ReadState](./readstate/) | Specifies the state of the reader. |
-| [XmlTokenizedType](./xmltokenizedtype/) | Represents the XML type for the string. This allows the string to be read as a particular XML type, for example a CDATA section type. |
+| [TriState](./tristate/) |  |
 | [ValidationType](./validationtype/) | Specifies the type of validation to perform. |
 | [WhitespaceHandling](./whitespacehandling/) | Specifies how white space is handled. |
 | [WriteState](./writestate/) | Specifies the state of the [XmlWriter](./xmlwriter/). |
-| [ExceptionType](./exceptiontype/) |  |
 | [XmlDateTimeSerializationMode](./xmldatetimeserializationmode/) | Specifies how to treat the time value when converting between string and [DateTime](../system/datetime/). |
 | [XmlNamespaceScope](./xmlnamespacescope/) | Defines the namespace scope. |
 | [XmlNodeChangedAction](./xmlnodechangedaction/) | Specifies the type of node change. |
@@ -82,8 +82,8 @@ url: /cpp/system.xml/
 | [XmlNodeType](./xmlnodetype/) | Specifies the type of node. |
 | [XmlOutputMethod](./xmloutputmethod/) | Specifies the method used to serialize the [XmlWriter](./xmlwriter/) output. |
 | [XmlSpace](./xmlspace/) | Specifies the current **xml:space** scope. |
-| [TriState](./tristate/) |  |
 | [XmlStandalone](./xmlstandalone/) |  |
+| [XmlTokenizedType](./xmltokenizedtype/) | Represents the XML type for the string. This allows the string to be read as a particular XML type, for example a CDATA section type. |
 ## Typedefs
 
 | Typedef | Description |
@@ -94,5 +94,5 @@ url: /cpp/system.xml/
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

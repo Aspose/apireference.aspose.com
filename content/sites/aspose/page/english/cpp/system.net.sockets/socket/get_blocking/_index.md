@@ -4,7 +4,7 @@ linktitle: get_Blocking
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_Blocking method. Gets a value that indicates if the socket is in the blocking mode in C++.'
 type: docs
-weight: 700
+weight: 1900
 url: /cpp/system.net.sockets/socket/get_blocking/
 ---
 ## Socket::get_Blocking method

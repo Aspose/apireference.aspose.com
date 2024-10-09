@@ -4,7 +4,7 @@ linktitle: get_SocketType
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_SocketType method. Returns the socket type in C++.'
 type: docs
-weight: 1100
+weight: 3600
 url: /cpp/system.net.sockets/socket/get_sockettype/
 ---
 ## Socket::get_SocketType method

@@ -4,7 +4,7 @@ linktitle: RemoveAliasing
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::RemoveAliasing method. Removes aliasing (created by an aliasing constructor) from pointer, makes sure it manages (if shared) or tracks (if weak) the same object it points to in C++.'
 type: docs
-weight: 1400
+weight: 3100
 url: /cpp/system/smartptr/removealiasing/
 ---
 ## SmartPtr::RemoveAliasing method

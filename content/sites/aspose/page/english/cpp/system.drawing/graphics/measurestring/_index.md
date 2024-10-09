@@ -4,9 +4,40 @@ linktitle: MeasureString
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::MeasureString method. Returns a size of the specified string when drawn in the specified font in the specified format in C++.'
 type: docs
-weight: 4100
+weight: 6500
 url: /cpp/system.drawing/graphics/measurestring/
 ---
+## Graphics::MeasureString(String const\&, System::SharedPtr\<Font\> const\&, int, System::SharedPtr\<StringFormat\> const\&) const method
+
+
+Returns a size of the specified string when drawn in the specified font in the specified format.
+
+```cpp
+SizeF System::Drawing::Graphics::MeasureString(String const &str, System::SharedPtr<Font> const &font, int width, System::SharedPtr<StringFormat> const &stringFormat=nullptr) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | String const\& | The string whose size to calculate |
+| font | System::SharedPtr\<Font\> const\& | The font used to draw the string |
+| width | int | The maximum width of the string |
+| stringFormat | System::SharedPtr\<StringFormat\> const\& | Specifies the string format |
+
+### ReturnValue
+
+A [SizeF](../../sizef/) object that represents the size of the string in the measurment units specified by the PageUnit property of the current Grapphics object.
+
+## See Also
+
+* Class [SizeF](../../sizef/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Font](../../font/)
+* Class [StringFormat](../../stringformat/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Graphics::MeasureString(String const\&, System::SharedPtr\<Font\> const\&, PointF const\&, System::SharedPtr\<StringFormat\> const\&) const method
 
 
@@ -35,37 +66,6 @@ A [SizeF](../../sizef/) object that represents the size of the string in the mea
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [PointF](../../pointf/)
-* Class [StringFormat](../../stringformat/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Graphics::MeasureString(String const\&, System::SharedPtr\<Font\> const\&, int, System::SharedPtr\<StringFormat\> const\&) const method
-
-
-Returns a size of the specified string when drawn in the specified font in the specified format.
-
-```cpp
-SizeF System::Drawing::Graphics::MeasureString(String const &str, System::SharedPtr<Font> const &font, int width, System::SharedPtr<StringFormat> const &stringFormat=nullptr) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | String const\& | The string whose size to calculate |
-| font | System::SharedPtr\<Font\> const\& | The font used to draw the string |
-| width | int | The maximum width of the string |
-| stringFormat | System::SharedPtr\<StringFormat\> const\& | Specifies the string format |
-
-### ReturnValue
-
-A [SizeF](../../sizef/) object that represents the size of the string in the measurment units specified by the PageUnit property of the current Grapphics object.
-
-## See Also
-
-* Class [SizeF](../../sizef/)
-* Class [String](../../../system/string/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Font](../../font/)
 * Class [StringFormat](../../stringformat/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)

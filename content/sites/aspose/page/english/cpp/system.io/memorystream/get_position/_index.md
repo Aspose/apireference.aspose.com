@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.Page for C++
 description: 'System::IO::MemoryStream::get_Position method. Returns the current position of the stream in C++.'
 type: docs
-weight: 1600
+weight: 900
 url: /cpp/system.io/memorystream/get_position/
 ---
 ## MemoryStream::get_Position method

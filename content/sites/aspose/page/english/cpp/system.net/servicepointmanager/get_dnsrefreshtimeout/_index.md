@@ -4,7 +4,7 @@ linktitle: get_DnsRefreshTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePointManager::get_DnsRefreshTimeout method. Gets a timeout in milliseconds during which a DNS resolution is considered valid in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/system.net/servicepointmanager/get_dnsrefreshtimeout/
 ---
 ## ServicePointManager::get_DnsRefreshTimeout method

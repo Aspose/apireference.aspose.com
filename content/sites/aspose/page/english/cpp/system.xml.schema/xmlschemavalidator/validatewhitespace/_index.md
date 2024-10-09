@@ -4,7 +4,7 @@ linktitle: ValidateWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::ValidateWhitespace method. Validates whether the white space in the string specified is allowed in the current element context, and accumulates the white space for validation if the current element has simple content in C++.'
 type: docs
-weight: 1600
+weight: 2100
 url: /cpp/system.xml.schema/xmlschemavalidator/validatewhitespace/
 ---
 ## XmlSchemaValidator::ValidateWhitespace(const String\&) method

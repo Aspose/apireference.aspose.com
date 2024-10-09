@@ -4,7 +4,7 @@ linktitle: get_AliceBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_AliceBlue method. Gets a system-defined color that has an ARGB value of #FFF0F8FF in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.drawing/color/get_aliceblue/
 ---
 ## Color::get_AliceBlue method

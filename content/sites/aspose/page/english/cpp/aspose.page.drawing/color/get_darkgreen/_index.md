@@ -4,7 +4,7 @@ linktitle: get_DarkGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DarkGreen method. Gets a system-defined color that has an ARGB value of #FF006400 in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/aspose.page.drawing/color/get_darkgreen/
 ---
 ## Color::get_DarkGreen method

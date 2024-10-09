@@ -4,7 +4,7 @@ linktitle: get_NewLineChars
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_NewLineChars method. Returns the character string to use for line breaks in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.xml/xmlwritersettings/get_newlinechars/
 ---
 ## XmlWriterSettings::get_NewLineChars method

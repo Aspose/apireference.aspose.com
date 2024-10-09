@@ -4,7 +4,7 @@ linktitle: get_Block
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::get_Block method. Returns the block attribute in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_block/
 ---
 ## XmlSchemaComplexType::get_Block method

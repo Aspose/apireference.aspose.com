@@ -4,7 +4,7 @@ linktitle: get_MinLength
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::StringParameterInit::get_MinLength method. For string values, defines the shortest allowed string in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/stringparameterinit/get_minlength/
 ---
 ## StringParameterInit::get_MinLength method

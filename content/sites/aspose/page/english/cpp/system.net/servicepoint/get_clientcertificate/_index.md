@@ -4,7 +4,7 @@ linktitle: get_ClientCertificate
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_ClientCertificate method. Returns the last client certificate in C++.'
 type: docs
-weight: 2100
+weight: 500
 url: /cpp/system.net/servicepoint/get_clientcertificate/
 ---
 ## ServicePoint::get_ClientCertificate method

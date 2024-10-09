@@ -4,7 +4,7 @@ linktitle: set_Encoding
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_Encoding method. Sets the type of text encoding to use in C++.'
 type: docs
-weight: 200
+weight: 2200
 url: /cpp/system.xml/xmlwritersettings/set_encoding/
 ---
 ## XmlWriterSettings::set_Encoding method

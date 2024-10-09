@@ -4,7 +4,7 @@ linktitle: HashData
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ECDsaBotan::HashData method. Computes the hash value of the specified data array using the specified hash algorithm in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.security.cryptography/ecdsabotan/hashdata/
 ---
 ## ECDsaBotan::HashData(ByteArrayPtr, int32_t, int32_t, HashAlgorithmName) method

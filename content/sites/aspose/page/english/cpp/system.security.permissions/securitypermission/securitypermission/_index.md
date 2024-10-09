@@ -4,7 +4,7 @@ linktitle: SecurityPermission
 second_title: Aspose.Page for C++
 description: 'System::Security::Permissions::SecurityPermission::SecurityPermission constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.security.permissions/securitypermission/securitypermission/
 ---
 ## SecurityPermission::SecurityPermission(PermissionState) constructor

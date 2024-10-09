@@ -4,7 +4,7 @@ linktitle: GetType
 second_title: Aspose.Page for C++
 description: 'How to use GetType method of System::MulticastDelegate< ReturnType(ArgumentTypes...)> class in C++.'
 type: docs
-weight: 600
+weight: 1000
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/gettype/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::GetType method

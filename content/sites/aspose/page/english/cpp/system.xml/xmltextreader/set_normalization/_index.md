@@ -4,7 +4,7 @@ linktitle: set_Normalization
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::set_Normalization method. Sets a value indicating whether to normalize white space and attribute values in C++.'
 type: docs
-weight: 2700
+weight: 5700
 url: /cpp/system.xml/xmltextreader/set_normalization/
 ---
 ## XmlTextReader::set_Normalization method

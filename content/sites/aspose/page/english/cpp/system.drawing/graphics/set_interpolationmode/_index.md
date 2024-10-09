@@ -4,7 +4,7 @@ linktitle: set_InterpolationMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::set_InterpolationMode method. Sets a value that indicates the interpolation mode associated with the current object in C++.'
 type: docs
-weight: 900
+weight: 7700
 url: /cpp/system.drawing/graphics/set_interpolationmode/
 ---
 ## Graphics::set_InterpolationMode method

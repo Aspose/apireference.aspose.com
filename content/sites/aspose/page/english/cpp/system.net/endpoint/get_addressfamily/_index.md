@@ -4,7 +4,7 @@ linktitle: get_AddressFamily
 second_title: Aspose.Page for C++
 description: 'System::Net::EndPoint::get_AddressFamily method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net/endpoint/get_addressfamily/
 ---
 ## EndPoint::get_AddressFamily method

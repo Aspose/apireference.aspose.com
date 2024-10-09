@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttributeCollection::CopyTo method. Copies all the XmlAttribute objects from this collection into the given array in C++.'
 type: docs
-weight: 1000
+weight: 200
 url: /cpp/system.xml/xmlattributecollection/copyto/
 ---
 ## XmlAttributeCollection::CopyTo method

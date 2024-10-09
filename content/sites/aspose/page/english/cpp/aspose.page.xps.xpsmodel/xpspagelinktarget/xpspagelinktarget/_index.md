@@ -4,7 +4,7 @@ linktitle: XpsPageLinkTarget
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPageLinkTarget::XpsPageLinkTarget constructor. Creates the new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpspagelinktarget/xpspagelinktarget/
 ---
 ## XpsPageLinkTarget::XpsPageLinkTarget constructor

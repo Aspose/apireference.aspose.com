@@ -4,7 +4,7 @@ linktitle: get_IsSynchronized
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::get_IsSynchronized method. Checks if collection is synchronized in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/get_issynchronized/
 ---
 ## XmpMetadata::get_IsSynchronized method

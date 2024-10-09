@@ -4,7 +4,7 @@ linktitle: GetDayOfMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::KoreanCalendar::GetDayOfMonth method. Gets day of month for the specified time point in C++.'
 type: docs
-weight: 1400
+weight: 700
 url: /cpp/system.globalization/koreancalendar/getdayofmonth/
 ---
 ## KoreanCalendar::GetDayOfMonth method

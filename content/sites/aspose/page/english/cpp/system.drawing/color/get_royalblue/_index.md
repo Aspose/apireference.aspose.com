@@ -4,7 +4,7 @@ linktitle: get_RoyalBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_RoyalBlue method. Returns a color whose ARGB value in hexadecimal notation is #FF4169E1 in C++.'
 type: docs
-weight: 13800
+weight: 13700
 url: /cpp/system.drawing/color/get_royalblue/
 ---
 ## Color::get_RoyalBlue method

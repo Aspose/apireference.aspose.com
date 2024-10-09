@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Threading::TimerQueue::operator= method. No copying in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.threading/timerqueue/operator=/
 ---
 ## TimerQueue::operator= method

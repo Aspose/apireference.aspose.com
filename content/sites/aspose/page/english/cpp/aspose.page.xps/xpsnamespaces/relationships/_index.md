@@ -4,7 +4,7 @@ linktitle: Relationships
 second_title: Aspose.Page for C++
 description: 'How to use Relationships field of Aspose::Page::XPS::XpsNamespaces class in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/aspose.page.xps/xpsnamespaces/relationships/
 ---
 ## Relationships field

@@ -4,7 +4,7 @@ linktitle: MoveNext
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ReverseEnumerator::MoveNext method. Enumerator-style increment in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.generic/reverseenumerator/movenext/
 ---
 ## ReverseEnumerator::MoveNext method

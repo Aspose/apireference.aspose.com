@@ -4,7 +4,7 @@ linktitle: get_Guid
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::FrameDimension::get_Guid method. Returns GUID associated with the current object in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.drawing.imaging/framedimension/get_guid/
 ---
 ## FrameDimension::get_Guid method

@@ -4,7 +4,7 @@ linktitle: ClosePartition
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPartitionDevice::ClosePartition method. Accomplishes the current document partition in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page/imultipartitiondevice/closepartition/
 ---
 ## IMultiPartitionDevice::ClosePartition method

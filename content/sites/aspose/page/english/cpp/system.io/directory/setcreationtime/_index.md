@@ -4,7 +4,7 @@ linktitle: SetCreationTime
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::SetCreationTime method. Sets the creation time of the specified entity as local time in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/system.io/directory/setcreationtime/
 ---
 ## Directory::SetCreationTime method

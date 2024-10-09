@@ -4,7 +4,7 @@ linktitle: GetLeftPart
 second_title: Aspose.Page for C++
 description: 'System::Uri::GetLeftPart method. Returns the specified portion of the URI represented by the current object in C++.'
 type: docs
-weight: 2400
+weight: 2700
 url: /cpp/system/uri/getleftpart/
 ---
 ## Uri::GetLeftPart method

@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::Clear method. Removes all objects from the collection instance. This method cannot be overridden in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.collections/collectionbase/clear/
 ---
 ## CollectionBase::Clear method

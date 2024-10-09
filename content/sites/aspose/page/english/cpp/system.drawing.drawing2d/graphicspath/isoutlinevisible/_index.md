@@ -4,7 +4,7 @@ linktitle: IsOutlineVisible
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::IsOutlineVisible method. Indicates whether the specified point is contained within (under) the outline of this GraphicsPath when drawn with the specified Pen. NOT EMPLEMENTED in C++.'
 type: docs
-weight: 3400
+weight: 3000
 url: /cpp/system.drawing.drawing2d/graphicspath/isoutlinevisible/
 ---
 ## GraphicsPath::IsOutlineVisible method

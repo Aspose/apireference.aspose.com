@@ -4,7 +4,7 @@ linktitle: get_Timeout
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::get_Timeout method. Gets the timespan to wait before the request times out in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/system.web.services.protocols/webclientprotocol/get_timeout/
 ---
 ## WebClientProtocol::get_Timeout method

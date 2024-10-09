@@ -4,7 +4,7 @@ linktitle: XmlSchemaInferenceException
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::Schema::XmlSchemaInferenceException typedef in C++.'
 type: docs
-weight: 8300
+weight: 8500
 url: /cpp/system.xml.schema/xmlschemainferenceexception/
 ---
 ## XmlSchemaInferenceException typedef

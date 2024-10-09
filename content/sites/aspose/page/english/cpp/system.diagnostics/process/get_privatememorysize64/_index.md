@@ -4,7 +4,7 @@ linktitle: get_PrivateMemorySize64
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Process::get_PrivateMemorySize64 method. Gets process private memory set size in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.diagnostics/process/get_privatememorysize64/
 ---
 ## Process::get_PrivateMemorySize64 method

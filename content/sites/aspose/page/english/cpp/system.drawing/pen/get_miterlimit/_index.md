@@ -4,7 +4,7 @@ linktitle: get_MiterLimit
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_MiterLimit method. Returns the limit of the thickness of the join on a mitered corner in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.drawing/pen/get_miterlimit/
 ---
 ## Pen::get_MiterLimit method

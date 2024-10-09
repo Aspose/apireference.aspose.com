@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Object::operator= method. Assignment operator. Doesn''t copy anything, really, just initializes new object and enables copy constructing subclasses in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/system/object/operator=/
 ---
 ## Object::operator= method

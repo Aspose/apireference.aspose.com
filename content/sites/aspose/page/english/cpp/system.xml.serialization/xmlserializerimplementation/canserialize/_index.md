@@ -4,7 +4,7 @@ linktitle: CanSerialize
 second_title: Aspose.Page for C++
 description: 'How to use CanSerialize method of System::Xml::Serialization::XmlSerializerImplementation class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/system.xml.serialization/xmlserializerimplementation/canserialize/
 ---
 ## XmlSerializerImplementation::CanSerialize method

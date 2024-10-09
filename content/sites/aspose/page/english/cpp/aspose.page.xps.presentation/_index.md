@@ -17,6 +17,9 @@ url: /cpp/aspose.page.xps.presentation/
 | [IEventBasedModificationOptions](./ieventbasedmodificationoptions/) | Defines options relevant to handling event-based modifications during document saving. |
 | [IPipelineOptions](./ipipelineoptions/) | Defines conversion options related to pipeline configuration. |
 | [IXpsTextConversionOptions](./ixpstextconversionoptions/) | Defines options for conversion of [XPS](../aspose.page.xps/) to other formats. |
+| [NamespaceDoc](./namespacedoc/) | The **Aspose.Page.Xps.Presentation** namespace provides base classes for rendering [XPS](../aspose.page.xps/) document to other formats. |
+| [XpsBasePresenter](./xpsbasepresenter/) |  |
+| [XpsPresenter](./xpspresenter/) |  |
 ## Typedefs
 
 | Typedef | Description |

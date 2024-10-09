@@ -4,7 +4,7 @@ linktitle: JapanYou6EnvelopeRotated
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JapanYou6EnvelopeRotated field. Japan You6 envelope rotated in C++.'
 type: docs
-weight: 16800
+weight: 7900
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/japanyou6enveloperotated/
 ---
 ## JapanYou6EnvelopeRotated field

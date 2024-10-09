@@ -4,7 +4,7 @@ linktitle: GetProperty
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetProperty method. Gets string property value in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.page/userproperties/getproperty/
 ---
 ## UserProperties::GetProperty(System::String) method

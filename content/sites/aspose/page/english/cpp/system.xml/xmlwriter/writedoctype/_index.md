@@ -4,7 +4,7 @@ linktitle: WriteDocType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteDocType method. When overridden in a derived class, writes the DOCTYPE declaration with the specified name and optional attributes in C++.'
 type: docs
-weight: 700
+weight: 1700
 url: /cpp/system.xml/xmlwriter/writedoctype/
 ---
 ## XmlWriter::WriteDocType method

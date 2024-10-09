@@ -4,7 +4,7 @@ linktitle: ReplaceChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::ReplaceChild method. Replaces the child node specified with the new child node specified in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/system.xml/xmlattribute/replacechild/
 ---
 ## XmlAttribute::ReplaceChild method

@@ -4,7 +4,7 @@ linktitle: GetPropertyDouble
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertyDouble method. Gets double property value in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/aspose.page/userproperties/getpropertydouble/
 ---
 ## UserProperties::GetPropertyDouble(System::String) method

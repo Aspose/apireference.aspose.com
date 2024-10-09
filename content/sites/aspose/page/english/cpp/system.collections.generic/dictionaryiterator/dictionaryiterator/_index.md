@@ -7,26 +7,6 @@ type: docs
 weight: 100
 url: /cpp/system.collections.generic/dictionaryiterator/dictionaryiterator/
 ---
-## DictionaryIterator::DictionaryIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor
-
-
-Constructor.
-
-```cpp
-System::Collections::Generic::DictionaryIterator<Dict>::DictionaryIterator(typename Dict::map_t::const_iterator &&iterator, typename Dict::map_t::const_iterator &&end) noexcept
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| iterator | typename Dict::map_t::const_iterator\&& | Iterator to hold. |
-| end | typename Dict::map_t::const_iterator\&& | Iterator to the end of the container. |
-
-## See Also
-
-* Class [DictionaryIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## DictionaryIterator::DictionaryIterator(const typename Dict::map_t::const_iterator\&, const typename Dict::map_t::const_iterator\&) constructor
 
 
@@ -64,6 +44,26 @@ System::Collections::Generic::DictionaryIterator<Dict>::DictionaryIterator(Dicti
 ## See Also
 
 * Class [DictionaryIterator](../)
+* Class [DictionaryIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## DictionaryIterator::DictionaryIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor
+
+
+Constructor.
+
+```cpp
+System::Collections::Generic::DictionaryIterator<Dict>::DictionaryIterator(typename Dict::map_t::const_iterator &&iterator, typename Dict::map_t::const_iterator &&end) noexcept
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| iterator | typename Dict::map_t::const_iterator\&& | Iterator to hold. |
+| end | typename Dict::map_t::const_iterator\&& | Iterator to the end of the container. |
+
+## See Also
+
 * Class [DictionaryIterator](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

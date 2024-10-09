@@ -4,7 +4,7 @@ linktitle: get_DarkSalmon
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkSalmon method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFE9967A in C++.'
 type: docs
-weight: 3400
+weight: 3300
 url: /cpp/system.drawing/pens/get_darksalmon/
 ---
 ## Pens::get_DarkSalmon method

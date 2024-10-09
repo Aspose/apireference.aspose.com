@@ -4,7 +4,7 @@ linktitle: ThisPtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedSet::ThisPtr typedef. Pointer type in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.collections.generic/sortedset/thisptr/
 ---
 ## ThisPtr typedef

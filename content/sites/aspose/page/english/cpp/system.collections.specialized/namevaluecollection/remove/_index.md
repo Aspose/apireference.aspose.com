@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::Remove method. Removes specific item in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system.collections.specialized/namevaluecollection/remove/
 ---
 ## NameValueCollection::Remove method

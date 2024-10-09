@@ -2,37 +2,11 @@
 title: System::Xml::XmlNamedNodeMap::RemoveNamedItem method
 linktitle: RemoveNamedItem
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlNamedNodeMap::RemoveNamedItem method. Removes the node from the XmlNamedNodeMap in C++.'
+description: 'System::Xml::XmlNamedNodeMap::RemoveNamedItem method. Removes a node with the matching XmlNode::get_LocalName and XmlNode::get_NamespaceURI values in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.xml/xmlnamednodemap/removenameditem/
 ---
-## XmlNamedNodeMap::RemoveNamedItem(String) method
-
-
-Removes the node from the [XmlNamedNodeMap](../).
-
-```cpp
-virtual SharedPtr<XmlNode> System::Xml::XmlNamedNodeMap::RemoveNamedItem(String name)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The qualified name of the node to remove. The name is matched against the [XmlNode::get_Name](../../xmlnode/get_name/) value of the matching node. |
-
-### ReturnValue
-
-The [XmlNode](../../xmlnode/) removed from this [XmlNamedNodeMap](../) or **nullptr** if a matching node was not found.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [String](../../../system/string/)
-* Class [XmlNamedNodeMap](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XmlNamedNodeMap::RemoveNamedItem(String, String) method
 
 
@@ -51,6 +25,32 @@ virtual SharedPtr<XmlNode> System::Xml::XmlNamedNodeMap::RemoveNamedItem(String 
 ### ReturnValue
 
 The [XmlNode](../../xmlnode/) removed or **nullptr** if a matching node was not found.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [String](../../../system/string/)
+* Class [XmlNamedNodeMap](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlNamedNodeMap::RemoveNamedItem(String) method
+
+
+Removes the node from the [XmlNamedNodeMap](../).
+
+```cpp
+virtual SharedPtr<XmlNode> System::Xml::XmlNamedNodeMap::RemoveNamedItem(String name)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | String | The qualified name of the node to remove. The name is matched against the [XmlNode::get_Name](../../xmlnode/get_name/) value of the matching node. |
+
+### ReturnValue
+
+The [XmlNode](../../xmlnode/) removed from this [XmlNamedNodeMap](../) or **nullptr** if a matching node was not found.
 
 ## See Also
 

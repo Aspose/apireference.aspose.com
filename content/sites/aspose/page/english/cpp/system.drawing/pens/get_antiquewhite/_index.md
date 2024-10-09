@@ -4,7 +4,7 @@ linktitle: get_AntiqueWhite
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_AntiqueWhite method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFAEBD7 in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.drawing/pens/get_antiquewhite/
 ---
 ## Pens::get_AntiqueWhite method

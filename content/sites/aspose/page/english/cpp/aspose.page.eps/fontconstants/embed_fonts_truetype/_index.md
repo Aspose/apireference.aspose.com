@@ -4,7 +4,7 @@ linktitle: EMBED_FONTS_TRUETYPE
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::FontConstants::EMBED_FONTS_TRUETYPE method. "TrueType" font type value for "EMBED_FONTS_AS" key in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.page.eps/fontconstants/embed_fonts_truetype/
 ---
 ## FontConstants::EMBED_FONTS_TRUETYPE method

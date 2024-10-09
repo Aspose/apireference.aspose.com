@@ -4,7 +4,7 @@ linktitle: System::IO
 second_title: Aspose.Page for C++
 description: 'How to use System::IO namespace in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/system.io/
 ---
 
@@ -53,8 +53,8 @@ url: /cpp/system.io/
 | [FileShare](./fileshare/) | Specifies what kind of access other [FileStream](./filestream/) objects can have to a file being opened. |
 | [SearchOption](./searchoption/) | Specifies a search should be performed only in the current directory, or in the current directory and all its subdirectories. |
 | [SeekOrigin](./seekorigin/) | Specifies the reference position in the stream relative to which the position to seek to is specified. |
-| [STDIOStreamWrappingMode](./stdiostreamwrappingmode/) | Specifies the mode of I/O operations that wrappers will perform on std::iostreams-like streams. |
 | [STDIOStreamPositionPreference](./stdiostreampositionpreference/) | Determines which position in the stream is preferable as a common read and write position when std::basic_iostream and its descendants will have different read and write positions at the time of wrapper creation. |
+| [STDIOStreamWrappingMode](./stdiostreamwrappingmode/) | Specifies the mode of I/O operations that wrappers will perform on std::iostreams-like streams. |
 | [SystemIOStreamWrappingMode](./systemiostreamwrappingmode/) | Specifies the mode of I/O operations that wrappers will perform on [System::IO::Stream](./stream/)-like streams. |
 ## Typedefs
 
@@ -62,18 +62,18 @@ url: /cpp/system.io/
 | --- | --- |
 | [BinaryWriterPtr](./binarywriterptr/) | An alias for a shared pointer to this class. |
 | [FileNotFoundException](./filenotfoundexception/) | The exception that is thrown when an attempt to access a file that does not exist on disk fails. Never wrap the FileNotFoundException class instances into [System::SmartPtr](../system/smartptr/). |
-| [STDIStreamWrapper](./stdistreamwrapper/) | Specializations of [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) for char character types. |
-| [STDWIStreamWrapper](./stdwistreamwrapper/) | Specializations of [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) for wchar_t character types. |
-| [STDOStreamWrapper](./stdostreamwrapper/) | Specializations of [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) for char character types. |
-| [STDWOStreamWrapper](./stdwostreamwrapper/) | Specializations of [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) for wchar_t character types. |
 | [STDIOStreamWrapper](./stdiostreamwrapper/) | Specializations of [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) for char character types. |
+| [STDIStreamWrapper](./stdistreamwrapper/) | Specializations of [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) for char character types. |
+| [STDOStreamWrapper](./stdostreamwrapper/) | Specializations of [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) for char character types. |
 | [STDWIOStreamWrapper](./stdwiostreamwrapper/) | Specializations of [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) for wchar_t character types. |
-| [SystemIStreamWrapper](./systemistreamwrapper/) | Specializations of [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) for char character types. |
-| [SystemWIStreamWrapper](./systemwistreamwrapper/) | Specializations of [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) for wchar_t character types. |
-| [SystemOStreamWrapper](./systemostreamwrapper/) | Specializations of [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) for char character types. |
-| [SystemWOStreamWrapper](./systemwostreamwrapper/) | Specializations of [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) for wchar_t character types. |
+| [STDWIStreamWrapper](./stdwistreamwrapper/) | Specializations of [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) for wchar_t character types. |
+| [STDWOStreamWrapper](./stdwostreamwrapper/) | Specializations of [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) for wchar_t character types. |
 | [SystemIOStreamWrapper](./systemiostreamwrapper/) | Specializations of [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) for char character types. |
+| [SystemIStreamWrapper](./systemistreamwrapper/) | Specializations of [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) for char character types. |
+| [SystemOStreamWrapper](./systemostreamwrapper/) | Specializations of [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) for char character types. |
 | [SystemWIOStreamWrapper](./systemwiostreamwrapper/) | Specializations of [BasicSystemIOStreamWrapper](./basicsystemiostreamwrapper/) for wchar_t character types. |
+| [SystemWIStreamWrapper](./systemwistreamwrapper/) | Specializations of [BasicSystemIStreamWrapper](./basicsystemistreamwrapper/) for wchar_t character types. |
+| [SystemWOStreamWrapper](./systemwostreamwrapper/) | Specializations of [BasicSystemOStreamWrapper](./basicsystemostreamwrapper/) for wchar_t character types. |
 ## Functions
 
 | Function | Description |

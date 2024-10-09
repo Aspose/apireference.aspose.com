@@ -4,7 +4,7 @@ linktitle: get_DefaultThreadCurrentUICulture
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_DefaultThreadCurrentUICulture method. Gets default UI culture in the current application domain in C++.'
 type: docs
-weight: 4300
+weight: 3900
 url: /cpp/system.globalization/cultureinfo/get_defaultthreadcurrentuiculture/
 ---
 ## CultureInfo::get_DefaultThreadCurrentUICulture method

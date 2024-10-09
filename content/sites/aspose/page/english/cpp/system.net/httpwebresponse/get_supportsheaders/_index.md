@@ -4,7 +4,7 @@ linktitle: get_SupportsHeaders
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebResponse::get_SupportsHeaders method. Returns a value that indicates if the current response supports headers in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/system.net/httpwebresponse/get_supportsheaders/
 ---
 ## HttpWebResponse::get_SupportsHeaders method

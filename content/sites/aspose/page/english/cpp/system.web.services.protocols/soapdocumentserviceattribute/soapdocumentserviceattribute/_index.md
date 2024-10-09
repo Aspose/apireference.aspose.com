@@ -4,7 +4,7 @@ linktitle: SoapDocumentServiceAttribute
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentServiceAttribute::SoapDocumentServiceAttribute constructor. Constructs a new instance in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/soapdocumentserviceattribute/
 ---
 ## SoapDocumentServiceAttribute::SoapDocumentServiceAttribute() constructor

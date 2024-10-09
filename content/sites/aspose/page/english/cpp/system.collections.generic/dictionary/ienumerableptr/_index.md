@@ -4,7 +4,7 @@ linktitle: IEnumerablePtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Dictionary::IEnumerablePtr typedef. Pointer to enumerable interface in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.collections.generic/dictionary/ienumerableptr/
 ---
 ## IEnumerablePtr typedef

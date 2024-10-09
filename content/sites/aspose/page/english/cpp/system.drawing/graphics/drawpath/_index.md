@@ -4,7 +4,7 @@ linktitle: DrawPath
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawPath method. Draws the specified path using the specified pen in C++.'
 type: docs
-weight: 5700
+weight: 2300
 url: /cpp/system.drawing/graphics/drawpath/
 ---
 ## Graphics::DrawPath method

@@ -4,7 +4,7 @@ linktitle: ISOA8
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA8 field. ISOA8 in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoa8/
 ---
 ## ISOA8 field

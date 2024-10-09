@@ -4,7 +4,7 @@ linktitle: get_LastChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_LastChild method. Returns the last child of the node in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.xml/xmlnode/get_lastchild/
 ---
 ## XmlNode::get_LastChild method

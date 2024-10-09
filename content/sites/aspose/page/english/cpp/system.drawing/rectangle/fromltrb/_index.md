@@ -4,7 +4,7 @@ linktitle: FromLTRB
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::FromLTRB method. Constructs a new Rectangle object that represents a rectangle with the specified edge locations in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system.drawing/rectangle/fromltrb/
 ---
 ## Rectangle::FromLTRB method

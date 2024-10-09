@@ -4,7 +4,7 @@ linktitle: ValidateEndOfAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::ValidateEndOfAttributes method. Verifies whether all the required attributes in the element context are present and prepares the XmlSchemaValidator object to validate the child content of the element in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/system.xml.schema/xmlschemavalidator/validateendofattributes/
 ---
 ## XmlSchemaValidator::ValidateEndOfAttributes method

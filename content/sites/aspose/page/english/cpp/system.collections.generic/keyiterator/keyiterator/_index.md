@@ -7,26 +7,6 @@ type: docs
 weight: 100
 url: /cpp/system.collections.generic/keyiterator/keyiterator/
 ---
-## KeyIterator::KeyIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor
-
-
-Constructor.
-
-```cpp
-System::Collections::Generic::KeyIterator<Dict>::KeyIterator(typename Dict::map_t::const_iterator &&iterator, typename Dict::map_t::const_iterator &&end) noexcept
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| iterator | typename Dict::map_t::const_iterator\&& | Iterator to hold. |
-| end | typename Dict::map_t::const_iterator\&& | Iterator to the end of the container. |
-
-## See Also
-
-* Class [KeyIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## KeyIterator::KeyIterator(const typename Dict::map_t::const_iterator\&, const typename Dict::map_t::const_iterator\&) constructor
 
 
@@ -64,6 +44,26 @@ System::Collections::Generic::KeyIterator<Dict>::KeyIterator(KeyIterator &&other
 ## See Also
 
 * Class [KeyIterator](../)
+* Class [KeyIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## KeyIterator::KeyIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor
+
+
+Constructor.
+
+```cpp
+System::Collections::Generic::KeyIterator<Dict>::KeyIterator(typename Dict::map_t::const_iterator &&iterator, typename Dict::map_t::const_iterator &&end) noexcept
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| iterator | typename Dict::map_t::const_iterator\&& | Iterator to hold. |
+| end | typename Dict::map_t::const_iterator\&& | Iterator to the end of the container. |
+
+## See Also
+
 * Class [KeyIterator](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

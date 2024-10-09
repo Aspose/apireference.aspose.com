@@ -4,7 +4,7 @@ linktitle: set_CurrentUICulture
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::set_CurrentUICulture method. Sets user interface culture used by thread in C++.'
 type: docs
-weight: 700
+weight: 1700
 url: /cpp/system.threading/thread/set_currentuiculture/
 ---
 ## Thread::set_CurrentUICulture method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TaiwanLunisolarCalendar::Clone method. RTTI information in C++.'
 type: docs
-weight: 1100
+weight: 200
 url: /cpp/system.globalization/taiwanlunisolarcalendar/clone/
 ---
 ## TaiwanLunisolarCalendar::Clone method

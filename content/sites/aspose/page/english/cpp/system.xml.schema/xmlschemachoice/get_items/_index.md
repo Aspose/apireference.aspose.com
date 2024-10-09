@@ -4,7 +4,7 @@ linktitle: get_Items
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaChoice::get_Items method. Returns the collection of the elements contained with the compositor (choice): XmlSchemaElement, XmlSchemaGroupRef, XmlSchemaChoice, XmlSchemaSequence, or XmlSchemaAny in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemachoice/get_items/
 ---
 ## XmlSchemaChoice::get_Items method

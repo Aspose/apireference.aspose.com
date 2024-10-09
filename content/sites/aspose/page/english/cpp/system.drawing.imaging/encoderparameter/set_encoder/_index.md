@@ -4,7 +4,7 @@ linktitle: set_Encoder
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::EncoderParameter::set_Encoder method. Associates the specified Encoder object with the current EncoderParameter object in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.drawing.imaging/encoderparameter/set_encoder/
 ---
 ## EncoderParameter::set_Encoder method

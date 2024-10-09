@@ -4,7 +4,7 @@ linktitle: WriteEndElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteEndElement method. Closes one element and pops the corresponding namespace scope in C++.'
 type: docs
-weight: 2000
+weight: 2800
 url: /cpp/system.xml/xmltextwriter/writeendelement/
 ---
 ## XmlTextWriter::WriteEndElement method

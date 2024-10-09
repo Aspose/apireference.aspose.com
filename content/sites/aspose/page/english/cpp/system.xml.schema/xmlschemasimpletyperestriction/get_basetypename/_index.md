@@ -4,7 +4,7 @@ linktitle: get_BaseTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeRestriction::get_BaseTypeName method. Returns the name of the qualified base type in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemasimpletyperestriction/get_basetypename/
 ---
 ## XmlSchemaSimpleTypeRestriction::get_BaseTypeName method

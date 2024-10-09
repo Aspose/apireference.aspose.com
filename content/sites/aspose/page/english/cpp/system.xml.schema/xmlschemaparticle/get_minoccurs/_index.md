@@ -4,7 +4,7 @@ linktitle: get_MinOccurs
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaParticle::get_MinOccurs method. Returns the minimum number of times the particle can occur in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaparticle/get_minoccurs/
 ---
 ## XmlSchemaParticle::get_MinOccurs method

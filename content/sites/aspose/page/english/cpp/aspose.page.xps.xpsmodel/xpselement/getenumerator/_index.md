@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::GetEnumerator method. Implementation of System::Collections::Generic::IEnumerable<XpsContentElement> interface in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/getenumerator/
 ---
 ## XpsElement::GetEnumerator method

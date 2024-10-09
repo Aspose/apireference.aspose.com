@@ -4,7 +4,7 @@ linktitle: get_MediumBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_MediumBlue method. Gets a system-defined color that has an ARGB value of #FF0000CD in C++.'
 type: docs
-weight: 8400
+weight: 8500
 url: /cpp/aspose.page.drawing/color/get_mediumblue/
 ---
 ## Color::get_MediumBlue method

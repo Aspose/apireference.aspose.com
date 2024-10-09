@@ -4,7 +4,7 @@ linktitle: NorthAmerica10x11
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmerica10x11 field. North America 10x11 in C++.'
 type: docs
-weight: 8300
+weight: 9400
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamerica10x11/
 ---
 ## NorthAmerica10x11 field

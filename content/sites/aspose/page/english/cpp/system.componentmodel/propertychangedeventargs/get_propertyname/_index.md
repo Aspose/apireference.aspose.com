@@ -4,7 +4,7 @@ linktitle: get_PropertyName
 second_title: Aspose.Page for C++
 description: 'System::ComponentModel::PropertyChangedEventArgs::get_PropertyName method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.componentmodel/propertychangedeventargs/get_propertyname/
 ---
 ## PropertyChangedEventArgs::get_PropertyName method

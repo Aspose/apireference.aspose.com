@@ -4,7 +4,7 @@ linktitle: get_BaseTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexContentExtension::get_BaseTypeName method. Returns the name of the complex type from which this type is derived by extension in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml.schema/xmlschemacomplexcontentextension/get_basetypename/
 ---
 ## XmlSchemaComplexContentExtension::get_BaseTypeName method

@@ -4,7 +4,7 @@ linktitle: set_LongTimePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_LongTimePattern method. Sets long time pattern in C++.'
 type: docs
-weight: 1200
+weight: 5300
 url: /cpp/system.globalization/datetimeformatinfo/set_longtimepattern/
 ---
 ## DateTimeFormatInfo::set_LongTimePattern method

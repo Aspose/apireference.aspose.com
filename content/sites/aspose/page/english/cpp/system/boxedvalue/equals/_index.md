@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::BoxedValue::Equals method. Determines the equality of the boxed values represented by the current and specified objects in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system/boxedvalue/equals/
 ---
 ## BoxedValue::Equals method

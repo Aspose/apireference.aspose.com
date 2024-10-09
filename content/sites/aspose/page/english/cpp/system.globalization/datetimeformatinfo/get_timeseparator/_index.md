@@ -4,7 +4,7 @@ linktitle: get_TimeSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_TimeSeparator method. Gets time separator in C++.'
 type: docs
-weight: 1500
+weight: 2600
 url: /cpp/system.globalization/datetimeformatinfo/get_timeseparator/
 ---
 ## DateTimeFormatInfo::get_TimeSeparator method

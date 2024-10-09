@@ -4,7 +4,7 @@ linktitle: set_X
 second_title: Aspose.Page for C++
 description: 'System::Drawing::PointF::set_X method. Sets the value of X coordinate represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.drawing/pointf/set_x/
 ---
 ## PointF::set_X method

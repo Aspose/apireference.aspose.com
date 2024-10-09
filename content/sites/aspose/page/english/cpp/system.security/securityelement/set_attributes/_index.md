@@ -4,7 +4,7 @@ linktitle: set_Attributes
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::set_Attributes method. Sets tag attributes in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/system.security/securityelement/set_attributes/
 ---
 ## SecurityElement::set_Attributes method

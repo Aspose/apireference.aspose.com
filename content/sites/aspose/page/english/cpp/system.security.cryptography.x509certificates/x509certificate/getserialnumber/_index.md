@@ -4,7 +4,7 @@ linktitle: GetSerialNumber
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::GetSerialNumber method. Gets serial number from certificate as array of bytes in C++.'
 type: docs
-weight: 2100
+weight: 2300
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getserialnumber/
 ---
 ## X509Certificate::GetSerialNumber method

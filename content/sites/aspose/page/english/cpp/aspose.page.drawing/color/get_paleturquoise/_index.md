@@ -4,7 +4,7 @@ linktitle: get_PaleTurquoise
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_PaleTurquoise method. Gets a system-defined color that has an ARGB value of #FFAFEEEE in C++.'
 type: docs
-weight: 10600
+weight: 10700
 url: /cpp/aspose.page.drawing/color/get_paleturquoise/
 ---
 ## Color::get_PaleTurquoise method

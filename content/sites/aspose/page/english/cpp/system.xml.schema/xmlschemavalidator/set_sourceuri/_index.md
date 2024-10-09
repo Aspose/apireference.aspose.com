@@ -4,7 +4,7 @@ linktitle: set_SourceUri
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::set_SourceUri method. Sets the source URI for the XML node being validated in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.xml.schema/xmlschemavalidator/set_sourceuri/
 ---
 ## XmlSchemaValidator::set_SourceUri method

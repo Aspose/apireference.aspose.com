@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Reflection::AssemblyName::set_Name method. Sets assembly name in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.reflection/assemblyname/set_name/
 ---
 ## AssemblyName::set_Name method

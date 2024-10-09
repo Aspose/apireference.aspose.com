@@ -4,7 +4,7 @@ linktitle: WWWAuthenticate
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpKnownHeaderNames::WWWAuthenticate field. The ''WWW-Authenticate'' header name in C++.'
 type: docs
-weight: 6100
+weight: 6200
 url: /cpp/system.net/httpknownheadernames/wwwauthenticate/
 ---
 ## WWWAuthenticate field

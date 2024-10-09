@@ -4,7 +4,7 @@ linktitle: get_Depth
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_Depth method. Returns the depth of the current node in the XML document in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.xml/xmlvalidatingreader/get_depth/
 ---
 ## XmlValidatingReader::get_Depth method

@@ -4,7 +4,7 @@ linktitle: get_IsNamedColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_IsNamedColor method. Returns a value that determines whether the Color structure represents a named color or a member of the KnownColor enumeration in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.drawing/color/get_isnamedcolor/
 ---
 ## Color::get_IsNamedColor method

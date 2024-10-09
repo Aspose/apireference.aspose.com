@@ -4,7 +4,7 @@ linktitle: set_CompositingMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::set_CompositingMode method. Sets a value that specifies how composited images are drawn on the surface represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 7500
 url: /cpp/system.drawing/graphics/set_compositingmode/
 ---
 ## Graphics::set_CompositingMode method

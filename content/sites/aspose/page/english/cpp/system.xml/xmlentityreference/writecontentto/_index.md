@@ -4,7 +4,7 @@ linktitle: WriteContentTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlEntityReference::WriteContentTo method. Saves all the children of the node to the specified XmlWriter in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.xml/xmlentityreference/writecontentto/
 ---
 ## XmlEntityReference::WriteContentTo method

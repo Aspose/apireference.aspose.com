@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::Reset method. Resets the members of the settings class to their default values in C++.'
 type: docs
-weight: 3700
+weight: 2000
 url: /cpp/system.xml/xmlreadersettings/reset/
 ---
 ## XmlReaderSettings::Reset method

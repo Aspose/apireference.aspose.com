@@ -4,7 +4,7 @@ linktitle: CreateFallbackBuffer
 second_title: Aspose.Page for C++
 description: 'System::Text::DecoderExceptionFallback::CreateFallbackBuffer method. Creates fallback buffer in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.text/decoderexceptionfallback/createfallbackbuffer/
 ---
 ## DecoderExceptionFallback::CreateFallbackBuffer method

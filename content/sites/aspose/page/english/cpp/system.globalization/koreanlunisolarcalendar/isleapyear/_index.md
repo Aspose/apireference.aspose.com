@@ -4,9 +4,32 @@ linktitle: IsLeapYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::KoreanLunisolarCalendar::IsLeapYear method. Checks if the year is leap in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.globalization/koreanlunisolarcalendar/isleapyear/
 ---
+## KoreanLunisolarCalendar::IsLeapYear(int) const method
+
+
+Checks if the year is leap.
+
+```cpp
+virtual bool System::Globalization::Calendar::IsLeapYear(int year) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| year | int | Year. |
+
+### ReturnValue
+
+True if specified year is leap, false otherwise.
+
+## See Also
+
+* Class [KoreanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## KoreanLunisolarCalendar::IsLeapYear(int, int) const method
 
 
@@ -21,29 +44,6 @@ bool System::Globalization::KoreanLunisolarCalendar::IsLeapYear(int year, int er
 | --- | --- | --- |
 | year | int | Year. |
 | era | int | Era. |
-
-### ReturnValue
-
-True if specified year is leap, false otherwise.
-
-## See Also
-
-* Class [KoreanLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## KoreanLunisolarCalendar::IsLeapYear(int) const method
-
-
-Checks if the year is leap.
-
-```cpp
-virtual bool System::Globalization::Calendar::IsLeapYear(int year) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| year | int | Year. |
 
 ### ReturnValue
 

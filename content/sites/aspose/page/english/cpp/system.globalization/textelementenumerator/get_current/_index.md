@@ -4,7 +4,7 @@ linktitle: get_Current
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextElementEnumerator::get_Current method. Gets the current text element in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.globalization/textelementenumerator/get_current/
 ---
 ## TextElementEnumerator::get_Current method

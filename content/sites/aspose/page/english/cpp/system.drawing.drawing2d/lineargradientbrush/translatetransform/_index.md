@@ -4,7 +4,7 @@ linktitle: TranslateTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::TranslateTransform method. Translates current object''s transform matrix in C++.'
 type: docs
-weight: 600
+weight: 2200
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/translatetransform/
 ---
 ## LinearGradientBrush::TranslateTransform method

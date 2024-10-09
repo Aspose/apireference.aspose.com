@@ -4,7 +4,7 @@ linktitle: SignedXml
 second_title: Aspose.Page for C++
 description: 'How to use SignedXml constructor of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/system.security.cryptography.xml/signedxml/signedxml/
 ---
 ## SignedXml::SignedXml() constructor

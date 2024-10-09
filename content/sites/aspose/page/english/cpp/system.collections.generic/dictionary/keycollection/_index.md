@@ -4,7 +4,7 @@ linktitle: KeyCollection
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Dictionary::KeyCollection typedef. RTTI information in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.collections.generic/dictionary/keycollection/
 ---
 ## KeyCollection typedef

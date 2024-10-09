@@ -4,7 +4,7 @@ linktitle: get_Put
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMethod::get_Put method. Returns the ''PUT'' HTTP method in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.net.http/httpmethod/get_put/
 ---
 ## HttpMethod::get_Put method

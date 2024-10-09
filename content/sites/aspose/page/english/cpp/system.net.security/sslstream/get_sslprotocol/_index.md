@@ -4,7 +4,7 @@ linktitle: get_SslProtocol
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::get_SslProtocol method. Returns the SSL protocol in C++.'
 type: docs
-weight: 600
+weight: 3000
 url: /cpp/system.net.security/sslstream/get_sslprotocol/
 ---
 ## SslStream::get_SslProtocol method

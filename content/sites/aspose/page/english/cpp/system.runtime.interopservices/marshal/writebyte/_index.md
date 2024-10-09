@@ -4,7 +4,7 @@ linktitle: WriteByte
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::WriteByte method. Writes byte to memory in C++.'
 type: docs
-weight: 200
+weight: 1700
 url: /cpp/system.runtime.interopservices/marshal/writebyte/
 ---
 ## Marshal::WriteByte(IntPtr, int, uint8_t) method

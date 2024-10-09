@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Size::Clone method. Clones this Aspose.Page.Drawing.Size in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.page.drawing/size/clone/
 ---
 ## Size::Clone method

@@ -4,7 +4,7 @@ linktitle: set_Enabled
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::LingerOption::set_Enabled method. Sets a value that indicates if the socket will delay closing in an attempt to send all pending data in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net.sockets/lingeroption/set_enabled/
 ---
 ## LingerOption::set_Enabled method

@@ -4,7 +4,7 @@ linktitle: get_PersistKeyInCsp
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSACryptoServiceProvider::get_PersistKeyInCsp method. Checks whether key is persisted in CSP object in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/get_persistkeyincsp/
 ---
 ## DSACryptoServiceProvider::get_PersistKeyInCsp method

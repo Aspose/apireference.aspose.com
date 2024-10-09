@@ -4,7 +4,7 @@ linktitle: get_LightCoral
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LightCoral method. Returns a color whose ARGB value in hexadecimal notation is #FFF08080 in C++.'
 type: docs
-weight: 8700
+weight: 8600
 url: /cpp/system.drawing/color/get_lightcoral/
 ---
 ## Color::get_LightCoral method

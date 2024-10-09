@@ -4,7 +4,7 @@ linktitle: BusinessGraphics
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageICMRenderingIntent::PageICMRenderingIntentOption::BusinessGraphics field. Business Graphics Rendering intent in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/pageicmrenderingintent/pageicmrenderingintentoption/businessgraphics/
 ---
 ## BusinessGraphics field

@@ -4,7 +4,7 @@ linktitle: AddNamedValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::AddNamedValue method. Adds named value into a structure in C++.'
 type: docs
-weight: 2400
+weight: 300
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/addnamedvalue/
 ---
 ## XmpMetadata::AddNamedValue method

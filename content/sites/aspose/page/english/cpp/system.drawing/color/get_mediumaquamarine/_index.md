@@ -4,7 +4,7 @@ linktitle: get_MediumAquamarine
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_MediumAquamarine method. Returns a color whose ARGB value in hexadecimal notation is #FF66CDAA in C++.'
 type: docs
-weight: 10400
+weight: 10300
 url: /cpp/system.drawing/color/get_mediumaquamarine/
 ---
 ## Color::get_MediumAquamarine method

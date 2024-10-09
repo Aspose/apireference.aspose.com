@@ -4,7 +4,7 @@ linktitle: JapanYou3Envelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JapanYou3Envelope field. Japan You3 envelope in C++.'
 type: docs
-weight: 16500
+weight: 7500
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/japanyou3envelope/
 ---
 ## JapanYou3Envelope field

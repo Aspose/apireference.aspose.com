@@ -4,7 +4,7 @@ linktitle: get_Fuchsia
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Fuchsia method. Returns a color whose ARGB value in hexadecimal notation is #FFFF00FF in C++.'
 type: docs
-weight: 6800
+weight: 6700
 url: /cpp/system.drawing/color/get_fuchsia/
 ---
 ## Color::get_Fuchsia method

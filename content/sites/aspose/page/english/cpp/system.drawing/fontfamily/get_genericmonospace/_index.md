@@ -4,7 +4,7 @@ linktitle: get_GenericMonospace
 second_title: Aspose.Page for C++
 description: 'System::Drawing::FontFamily::get_GenericMonospace method. Returns a FontFamily object that represents a Generic Monospace font family in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/system.drawing/fontfamily/get_genericmonospace/
 ---
 ## FontFamily::get_GenericMonospace method

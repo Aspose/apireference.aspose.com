@@ -4,7 +4,7 @@ linktitle: get_Settings
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_Settings method. Returns the XmlReaderSettings object used to create this XmlReader instance in C++.'
 type: docs
-weight: 100
+weight: 2300
 url: /cpp/system.xml/xmlreader/get_settings/
 ---
 ## XmlReader::get_Settings method

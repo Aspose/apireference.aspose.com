@@ -4,7 +4,7 @@ linktitle: TicksPerMillisecond
 second_title: Aspose.Page for C++
 description: 'System::DateTime::TicksPerMillisecond field. The number of ticks in a millisecond in C++.'
 type: docs
-weight: 7300
+weight: 7900
 url: /cpp/system/datetime/tickspermillisecond/
 ---
 ## TicksPerMillisecond field

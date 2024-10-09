@@ -4,7 +4,7 @@ linktitle: get_BaseType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeRestriction::get_BaseType method. Returns information on the base type in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemasimpletyperestriction/get_basetype/
 ---
 ## XmlSchemaSimpleTypeRestriction::get_BaseType method

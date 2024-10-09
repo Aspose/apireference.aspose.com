@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::GetEnumerator method. Gets enumerator to iterate through list elements in C++.'
 type: docs
-weight: 1100
+weight: 2700
 url: /cpp/system.collections.generic/list/getenumerator/
 ---
 ## List::GetEnumerator method

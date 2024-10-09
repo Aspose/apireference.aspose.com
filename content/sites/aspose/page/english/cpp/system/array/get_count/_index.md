@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Array::get_Count method. Returns the size of the array in C++.'
 type: docs
-weight: 300
+weight: 1600
 url: /cpp/system/array/get_count/
 ---
 ## Array::get_Count method

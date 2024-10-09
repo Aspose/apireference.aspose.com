@@ -4,7 +4,7 @@ linktitle: XmlSerializerNamespaces
 second_title: Aspose.Page for C++
 description: 'System::Xml::Serialization::XmlSerializerNamespaces::XmlSerializerNamespaces constructor. Initializes a new instance of the Serialization::XmlSerializerNamespaces class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.xml.serialization/xmlserializernamespaces/xmlserializernamespaces/
 ---
 ## XmlSerializerNamespaces::XmlSerializerNamespaces() constructor
@@ -18,27 +18,6 @@ System::Xml::Serialization::XmlSerializerNamespaces::XmlSerializerNamespaces()
 
 ## See Also
 
-* Class [XmlSerializerNamespaces](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlSerializerNamespaces::XmlSerializerNamespaces(const SharedPtr\<XmlSerializerNamespaces\>\&) constructor
-
-
-Initializes a new instance of the [Serialization::XmlSerializerNamespaces](../) class, using the specified instance of **[XmlSerializerNamespaces](../)** containing the collection of prefix and namespace pairs.
-
-```cpp
-System::Xml::Serialization::XmlSerializerNamespaces::XmlSerializerNamespaces(const SharedPtr<XmlSerializerNamespaces> &namespaces)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| namespaces | const SharedPtr\<XmlSerializerNamespaces\>\& | An instance of the [Serialization::XmlSerializerNamespaces](../) containing the namespace and prefix pairs. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSerializerNamespaces](../)
 * Class [XmlSerializerNamespaces](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -61,6 +40,27 @@ System::Xml::Serialization::XmlSerializerNamespaces::XmlSerializerNamespaces(con
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSerializerNamespaces](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlSerializerNamespaces::XmlSerializerNamespaces(const SharedPtr\<XmlSerializerNamespaces\>\&) constructor
+
+
+Initializes a new instance of the [Serialization::XmlSerializerNamespaces](../) class, using the specified instance of **[XmlSerializerNamespaces](../)** containing the collection of prefix and namespace pairs.
+
+```cpp
+System::Xml::Serialization::XmlSerializerNamespaces::XmlSerializerNamespaces(const SharedPtr<XmlSerializerNamespaces> &namespaces)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| namespaces | const SharedPtr\<XmlSerializerNamespaces\>\& | An instance of the [Serialization::XmlSerializerNamespaces](../) containing the namespace and prefix pairs. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSerializerNamespaces](../)
 * Class [XmlSerializerNamespaces](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.Page for C++](../../../)

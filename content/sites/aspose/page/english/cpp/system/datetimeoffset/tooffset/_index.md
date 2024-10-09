@@ -4,7 +4,7 @@ linktitle: ToOffset
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::ToOffset method. Replace current object offset by the specified offset in C++.'
 type: docs
-weight: 3400
+weight: 4400
 url: /cpp/system/datetimeoffset/tooffset/
 ---
 ## DateTimeOffset::ToOffset method

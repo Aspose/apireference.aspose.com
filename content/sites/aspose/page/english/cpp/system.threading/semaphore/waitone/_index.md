@@ -4,7 +4,7 @@ linktitle: WaitOne
 second_title: Aspose.Page for C++
 description: 'System::Threading::Semaphore::WaitOne method. Locks semaphore. Performs unlimited waiting if neccessary in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.threading/semaphore/waitone/
 ---
 ## Semaphore::WaitOne() method

@@ -4,7 +4,7 @@ linktitle: get_CodeBase
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::get_CodeBase method. Gets directory of current assembly. Support is limited in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.reflection/assembly/get_codebase/
 ---
 ## Assembly::get_CodeBase method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsLinearGradientBrush::Clone method. Clones this linear gradient brush in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpslineargradientbrush/clone/
 ---
 ## XpsLinearGradientBrush::Clone method

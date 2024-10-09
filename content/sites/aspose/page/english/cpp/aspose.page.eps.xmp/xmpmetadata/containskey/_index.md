@@ -4,7 +4,7 @@ linktitle: ContainsKey
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::ContainsKey method. Determines does this dictionary contasins specified key in C++.'
 type: docs
-weight: 2000
+weight: 600
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/containskey/
 ---
 ## XmpMetadata::ContainsKey method

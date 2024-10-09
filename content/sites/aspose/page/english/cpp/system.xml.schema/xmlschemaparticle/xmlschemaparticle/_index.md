@@ -4,7 +4,7 @@ linktitle: XmlSchemaParticle
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaParticle::XmlSchemaParticle constructor. Initializes a new instance of the XmlSchemaParticle class in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaparticle/xmlschemaparticle/
 ---
 ## XmlSchemaParticle::XmlSchemaParticle constructor

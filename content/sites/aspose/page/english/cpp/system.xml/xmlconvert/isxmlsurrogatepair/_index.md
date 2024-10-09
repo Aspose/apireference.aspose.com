@@ -4,7 +4,7 @@ linktitle: IsXmlSurrogatePair
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::IsXmlSurrogatePair method. Checks if the passed-in surrogate pair of characters is a valid XML character in C++.'
 type: docs
-weight: 1500
+weight: 1000
 url: /cpp/system.xml/xmlconvert/isxmlsurrogatepair/
 ---
 ## XmlConvert::IsXmlSurrogatePair method

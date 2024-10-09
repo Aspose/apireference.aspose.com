@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::Read method. Reads a single character from the input stream in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.io/binaryreader/read/
 ---
 ## BinaryReader::Read() method
@@ -23,32 +23,6 @@ Read character encoded with UTF-16 encoding; if the read character is represente
 
 ## See Also
 
-* Class [BinaryReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## BinaryReader::Read(ArrayPtr\<uint8_t\>, int, int) method
-
-
-Reads the specified number of bytes from the input stream and writes them to the specified byte array.
-
-```cpp
-virtual int System::IO::BinaryReader::Read(ArrayPtr<uint8_t> buffer, int index, int count)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | ArrayPtr\<uint8_t\> | The byte array to write the read bytes to |
-| index | int | A 0-based position in **buffer** to start writing at |
-| count | int | The number of bytes to read |
-
-### ReturnValue
-
-The number of bytes read
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [BinaryReader](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -71,6 +45,32 @@ virtual int System::IO::BinaryReader::Read(ArrayPtr<char_t> buffer, int index, i
 ### ReturnValue
 
 The number of characters read from the input stream
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BinaryReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## BinaryReader::Read(ArrayPtr\<uint8_t\>, int, int) method
+
+
+Reads the specified number of bytes from the input stream and writes them to the specified byte array.
+
+```cpp
+virtual int System::IO::BinaryReader::Read(ArrayPtr<uint8_t> buffer, int index, int count)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | ArrayPtr\<uint8_t\> | The byte array to write the read bytes to |
+| index | int | A 0-based position in **buffer** to start writing at |
+| count | int | The number of bytes to read |
+
+### ReturnValue
+
+The number of bytes read
 
 ## See Also
 

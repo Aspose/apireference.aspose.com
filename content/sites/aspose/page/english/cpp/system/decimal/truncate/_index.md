@@ -4,7 +4,7 @@ linktitle: Truncate
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Truncate method. Returns the Decimal object representing a value that has integral part equal to that of the value represented by the specified Decimal object of the with all fractional digits discarded in C++.'
 type: docs
-weight: 3300
+weight: 5700
 url: /cpp/system/decimal/truncate/
 ---
 ## Decimal::Truncate method

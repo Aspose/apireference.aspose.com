@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::operator= method. Copies TLS data from different thread in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/system.threading/thread/operator=/
 ---
 ## Thread::operator= method

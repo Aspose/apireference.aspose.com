@@ -2,28 +2,28 @@
 title: System::Xml::XmlValidatingReader::GetAttribute method
 linktitle: GetAttribute
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlValidatingReader::GetAttribute method. Returns the value of the attribute with the specified name in C++.'
+description: 'System::Xml::XmlValidatingReader::GetAttribute method. Returns the value of the attribute with the specified index in C++.'
 type: docs
-weight: 3500
+weight: 3200
 url: /cpp/system.xml/xmlvalidatingreader/getattribute/
 ---
-## XmlValidatingReader::GetAttribute(String) method
+## XmlValidatingReader::GetAttribute(int32_t) method
 
 
-Returns the value of the attribute with the specified name.
+Returns the value of the attribute with the specified index.
 
 ```cpp
-String System::Xml::XmlValidatingReader::GetAttribute(String name) override
+String System::Xml::XmlValidatingReader::GetAttribute(int32_t i) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The qualified name of the attribute. |
+| i | int32_t | The index of the attribute. The index is zero-based. (The first attribute has index 0.) |
 
 ### ReturnValue
 
-The value of the specified attribute. If the attribute is not found, **nullptr** is returned.
+The value of the specified attribute.
 
 ## See Also
 
@@ -56,23 +56,23 @@ The value of the specified attribute. If the attribute is not found, **nullptr**
 * Class [XmlValidatingReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
-## XmlValidatingReader::GetAttribute(int32_t) method
+## XmlValidatingReader::GetAttribute(String) method
 
 
-Returns the value of the attribute with the specified index.
+Returns the value of the attribute with the specified name.
 
 ```cpp
-String System::Xml::XmlValidatingReader::GetAttribute(int32_t i) override
+String System::Xml::XmlValidatingReader::GetAttribute(String name) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| i | int32_t | The index of the attribute. The index is zero-based. (The first attribute has index 0.) |
+| name | String | The qualified name of the attribute. |
 
 ### ReturnValue
 
-The value of the specified attribute.
+The value of the specified attribute. If the attribute is not found, **nullptr** is returned.
 
 ## See Also
 

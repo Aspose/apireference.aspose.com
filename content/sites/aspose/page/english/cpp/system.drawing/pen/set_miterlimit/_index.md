@@ -4,7 +4,7 @@ linktitle: set_MiterLimit
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_MiterLimit method. Sets the limit of the thickness of the join on a mitered corner in C++.'
 type: docs
-weight: 1300
+weight: 3500
 url: /cpp/system.drawing/pen/set_miterlimit/
 ---
 ## Pen::set_MiterLimit method

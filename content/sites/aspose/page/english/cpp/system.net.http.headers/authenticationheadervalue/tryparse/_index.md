@@ -4,7 +4,7 @@ linktitle: TryParse
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::AuthenticationHeaderValue::TryParse method. Trying to convert a passed string to an instance of the AuthenticationHeaderValue class in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.net.http.headers/authenticationheadervalue/tryparse/
 ---
 ## AuthenticationHeaderValue::TryParse method

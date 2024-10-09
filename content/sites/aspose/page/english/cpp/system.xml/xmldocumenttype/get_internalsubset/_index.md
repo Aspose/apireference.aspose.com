@@ -4,7 +4,7 @@ linktitle: get_InternalSubset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocumentType::get_InternalSubset method. Returns the value of the document type definition (DTD) internal subset on the DOCTYPE declaration in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.xml/xmldocumenttype/get_internalsubset/
 ---
 ## XmlDocumentType::get_InternalSubset method

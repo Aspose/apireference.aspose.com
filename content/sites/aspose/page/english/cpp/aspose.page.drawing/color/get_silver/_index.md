@@ -4,7 +4,7 @@ linktitle: get_Silver
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Silver method. Gets a system-defined color that has an ARGB value of #FFC0C0C0 in C++.'
 type: docs
-weight: 12400
+weight: 12500
 url: /cpp/aspose.page.drawing/color/get_silver/
 ---
 ## Color::get_Silver method

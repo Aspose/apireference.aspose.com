@@ -4,7 +4,7 @@ linktitle: CheckSchemeName
 second_title: Aspose.Page for C++
 description: 'System::Uri::CheckSchemeName method. Determines if the specified scheme is valid in C++.'
 type: docs
-weight: 3700
+weight: 3400
 url: /cpp/system/uri/checkschemename/
 ---
 ## Uri::CheckSchemeName method

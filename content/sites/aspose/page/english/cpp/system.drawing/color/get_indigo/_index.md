@@ -4,7 +4,7 @@ linktitle: get_Indigo
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Indigo method. Returns a color whose ARGB value in hexadecimal notation is #FF4B0082 in C++.'
 type: docs
-weight: 7900
+weight: 7800
 url: /cpp/system.drawing/color/get_indigo/
 ---
 ## Color::get_Indigo method

@@ -4,7 +4,7 @@ linktitle: Format
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X500DistinguishedName::Format method. Formats name for printing in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/format/
 ---
 ## X500DistinguishedName::Format method

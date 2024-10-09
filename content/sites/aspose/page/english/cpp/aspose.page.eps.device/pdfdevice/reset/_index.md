@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Reset method. If page device parameters will be set this method allows to return writing stream back the begining of page in C++.'
 type: docs
-weight: 3500
+weight: 4400
 url: /cpp/aspose.page.eps.device/pdfdevice/reset/
 ---
 ## PdfDevice::Reset() method

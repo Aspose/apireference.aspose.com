@@ -4,7 +4,7 @@ linktitle: VERSION5
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::VERSION5 field. "Version of Adobe Acrobat Reader" property value in C++.'
 type: docs
-weight: 8200
+weight: 8300
 url: /cpp/aspose.page.eps.device/pdfdevice/version5/
 ---
 ## VERSION5 field

@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::Create method. Creates a copy of this device in C++.'
 type: docs
-weight: 4400
+weight: 2300
 url: /cpp/aspose.page.eps.device/pdfdevice/create/
 ---
 ## PdfDevice::Create() method
@@ -24,6 +24,7 @@ Copy of this device.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Device](../../../aspose.page/device/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -39,6 +40,7 @@ virtual System::SharedPtr<Aspose::Page::Device> Aspose::Page::EPS::Device::PdfDe
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Device](../../../aspose.page/device/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)

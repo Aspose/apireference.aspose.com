@@ -2,11 +2,31 @@
 title: System::Xml::XmlWriter::WriteStartElement method
 linktitle: WriteStartElement
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlWriter::WriteStartElement method. When overridden in a derived class, writes the specified start tag and associates it with the given namespace in C++.'
+description: 'System::Xml::XmlWriter::WriteStartElement method. When overridden in a derived class, writes out a start tag with the specified local name in C++.'
 type: docs
-weight: 800
+weight: 3200
 url: /cpp/system.xml/xmlwriter/writestartelement/
 ---
+## XmlWriter::WriteStartElement(const String\&) method
+
+
+When overridden in a derived class, writes out a start tag with the specified local name.
+
+```cpp
+void System::Xml::XmlWriter::WriteStartElement(const String &localName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| localName | const String\& | The local name of the element. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlWriter::WriteStartElement(const String\&, const String\&) method
 
 
@@ -43,26 +63,6 @@ virtual void System::Xml::XmlWriter::WriteStartElement(const String &prefix, con
 | prefix | const String\& | The namespace prefix of the element. |
 | localName | const String\& | The local name of the element. |
 | ns | const String\& | The namespace URI to associate with the element. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlWriter::WriteStartElement(const String\&) method
-
-
-When overridden in a derived class, writes out a start tag with the specified local name.
-
-```cpp
-void System::Xml::XmlWriter::WriteStartElement(const String &localName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| localName | const String\& | The local name of the element. |
 
 ## See Also
 

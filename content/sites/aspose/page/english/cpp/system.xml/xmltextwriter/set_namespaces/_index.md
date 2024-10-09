@@ -4,7 +4,7 @@ linktitle: set_Namespaces
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::set_Namespaces method. Sets a value indicating whether to do namespace support in C++.'
 type: docs
-weight: 300
+weight: 1700
 url: /cpp/system.xml/xmltextwriter/set_namespaces/
 ---
 ## XmlTextWriter::set_Namespaces method

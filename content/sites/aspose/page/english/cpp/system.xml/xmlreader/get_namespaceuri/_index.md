@@ -4,7 +4,7 @@ linktitle: get_NamespaceURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_NamespaceURI method. When overridden in a derived class, gets the namespace URI (as defined in the W3C Namespace specification) of the node on which the reader is positioned in C++.'
 type: docs
-weight: 500
+weight: 1600
 url: /cpp/system.xml/xmlreader/get_namespaceuri/
 ---
 ## XmlReader::get_NamespaceURI method

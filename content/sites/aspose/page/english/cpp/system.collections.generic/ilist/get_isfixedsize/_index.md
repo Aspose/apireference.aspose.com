@@ -4,7 +4,7 @@ linktitle: get_IsFixedSize
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IList::get_IsFixedSize method. Checks whether the collection is of fixed size in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/system.collections.generic/ilist/get_isfixedsize/
 ---
 ## IList::get_IsFixedSize method

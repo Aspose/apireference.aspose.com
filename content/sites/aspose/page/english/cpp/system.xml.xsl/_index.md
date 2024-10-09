@@ -4,7 +4,7 @@ linktitle: System::Xml::Xsl
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::Xsl namespace in C++.'
 type: docs
-weight: 7800
+weight: 7900
 url: /cpp/system.xml.xsl/
 ---
 
@@ -26,5 +26,5 @@ url: /cpp/system.xml.xsl/
 
 | Typedef | Description |
 | --- | --- |
-| [XsltMessageEncounteredEventHandler](./xsltmessageencounteredeventhandler/) | Represents the method that will handle the **XsltArgumentList::XsltMessageEncountered** event. |
 | [XsltException](./xsltexception/) |  |
+| [XsltMessageEncounteredEventHandler](./xsltmessageencounteredeventhandler/) | Represents the method that will handle the **XsltArgumentList::XsltMessageEncountered** event. |

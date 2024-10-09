@@ -4,7 +4,7 @@ linktitle: NorthAmericaTabloid
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaTabloid field. North America Tabloid in C++.'
 type: docs
-weight: 11700
+weight: 13400
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericatabloid/
 ---
 ## NorthAmericaTabloid field

@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlEntity::get_Name method. Returns the name of the node in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.xml/xmlentity/get_name/
 ---
 ## XmlEntity::get_Name method

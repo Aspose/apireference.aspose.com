@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::Reset method. Resets this Matrix to identity matrix in C++.'
 type: docs
-weight: 1700
+weight: 1200
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/reset/
 ---
 ## XpsMatrix::Reset method

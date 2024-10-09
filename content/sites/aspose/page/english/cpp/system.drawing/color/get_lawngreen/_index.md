@@ -4,7 +4,7 @@ linktitle: get_LawnGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LawnGreen method. Returns a color whose ARGB value in hexadecimal notation is #FF7CFC00 in C++.'
 type: docs
-weight: 8400
+weight: 8300
 url: /cpp/system.drawing/color/get_lawngreen/
 ---
 ## Color::get_LawnGreen method

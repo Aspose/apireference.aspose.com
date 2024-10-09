@@ -4,7 +4,7 @@ linktitle: TranslateTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::TranslateTransform method. Translates the local geometric transformation by the specified dimensions in the specified order in C++.'
 type: docs
-weight: 3700
+weight: 4000
 url: /cpp/system.drawing/pen/translatetransform/
 ---
 ## Pen::TranslateTransform method

@@ -4,7 +4,7 @@ linktitle: get_XmlType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_XmlType method. Returns the XmlSchemaType information for the current node in C++.'
 type: docs
-weight: 200
+weight: 3700
 url: /cpp/system.xml.xpath/xpathnavigator/get_xmltype/
 ---
 ## XPathNavigator::get_XmlType method

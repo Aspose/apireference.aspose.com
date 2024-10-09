@@ -4,7 +4,7 @@ linktitle: MEMBER_FUNCTION_MAKE_OBJECT
 second_title: Aspose.Page for C++
 description: 'How to use MEMBER_FUNCTION_MAKE_OBJECT method of System::Reflection::MethodBase class in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.reflection/methodbase/member_function_make_object/
 ---
 ## MethodBase::MEMBER_FUNCTION_MAKE_OBJECT method

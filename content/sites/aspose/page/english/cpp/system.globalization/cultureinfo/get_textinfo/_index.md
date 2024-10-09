@@ -4,7 +4,7 @@ linktitle: get_TextInfo
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_TextInfo method. Gets text parameters used by the culture in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/system.globalization/cultureinfo/get_textinfo/
 ---
 ## CultureInfo::get_TextInfo method

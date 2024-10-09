@@ -4,7 +4,7 @@ linktitle: RemoveParam
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltArgumentList::RemoveParam method. Removes the parameter from the XsltArgumentList in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.xml.xsl/xsltargumentlist/removeparam/
 ---
 ## XsltArgumentList::RemoveParam method

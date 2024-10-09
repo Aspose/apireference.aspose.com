@@ -4,7 +4,7 @@ linktitle: get_EntityTag
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::RangeConditionHeaderValue::get_EntityTag method. Returns an ''ETag'' header value in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net.http.headers/rangeconditionheadervalue/get_entitytag/
 ---
 ## RangeConditionHeaderValue::get_EntityTag method

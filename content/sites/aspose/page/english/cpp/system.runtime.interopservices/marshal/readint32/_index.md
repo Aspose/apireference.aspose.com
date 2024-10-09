@@ -4,7 +4,7 @@ linktitle: ReadInt32
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::ReadInt32 method. Reads int from memory in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/system.runtime.interopservices/marshal/readint32/
 ---
 ## Marshal::ReadInt32 method

@@ -4,7 +4,7 @@ linktitle: BoxedValueType
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::BoxedValueType method. Provides unique TypeInfo structure for BoxedValue type to be shared by multiple Boxed* classes in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system/typeinfo/boxedvaluetype/
 ---
 ## TypeInfo::BoxedValueType method

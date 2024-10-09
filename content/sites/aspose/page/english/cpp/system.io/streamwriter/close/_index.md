@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamWriter::Close method. Closes the stream and releases aquired resources in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.io/streamwriter/close/
 ---
 ## StreamWriter::Close method

@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobPrimaryBannerSheet::BannerSheetOption::None field. Specifies no banner sheet should be output in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/jobprimarybannersheet/bannersheetoption/none/
 ---
 ## None field

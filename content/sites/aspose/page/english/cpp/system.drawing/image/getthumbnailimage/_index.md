@@ -4,7 +4,7 @@ linktitle: GetThumbnailImage
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::GetThumbnailImage method. Gets a thumbnail for this System::Drawing::Image object in C++.'
 type: docs
-weight: 2600
+weight: 1900
 url: /cpp/system.drawing/image/getthumbnailimage/
 ---
 ## Image::GetThumbnailImage method

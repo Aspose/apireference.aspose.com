@@ -4,7 +4,7 @@ linktitle: EndReceive
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::EndReceive method. Waits until the specified asynchronous receive operation completes in C++.'
 type: docs
-weight: 4200
+weight: 1500
 url: /cpp/system.net.sockets/socket/endreceive/
 ---
 ## Socket::EndReceive(System::SharedPtr\<IAsyncResult\>) method

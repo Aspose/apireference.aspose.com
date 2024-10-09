@@ -4,7 +4,7 @@ linktitle: ReleaseHdc
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::ReleaseHdc method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 4300
+weight: 6700
 url: /cpp/system.drawing/graphics/releasehdc/
 ---
 ## Graphics::ReleaseHdc() method

@@ -4,7 +4,7 @@ linktitle: get_DeepPink
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DeepPink method. Gets a system-defined color that has an ARGB value of #FFFF1493 in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/aspose.page.drawing/color/get_deeppink/
 ---
 ## Color::get_DeepPink method

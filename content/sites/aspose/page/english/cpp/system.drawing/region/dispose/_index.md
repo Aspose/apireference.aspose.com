@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Dispose method. Releases all operating system resources acquired by the current object in C++.'
 type: docs
-weight: 1700
+weight: 500
 url: /cpp/system.drawing/region/dispose/
 ---
 ## Region::Dispose method

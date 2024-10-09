@@ -4,27 +4,25 @@ linktitle: TcpListener
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::TcpListener constructor. Constructs a new instance in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.net.sockets/tcplistener/tcplistener/
 ---
-## TcpListener::TcpListener(System::SharedPtr\<IPEndPoint\>) constructor
+## TcpListener::TcpListener(int32_t) constructor
 
 
 Constructs a new instance.
 
 ```cpp
-System::Net::Sockets::TcpListener::TcpListener(System::SharedPtr<IPEndPoint> localEP)
+System::Net::Sockets::TcpListener::TcpListener(int32_t port)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| localEP | System::SharedPtr\<IPEndPoint\> | The local endpoint to which the listener socket must be bound. |
+| port | int32_t | A port number to listen. |
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPEndPoint](../../../system.net/ipendpoint/)
 * Class [TcpListener](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -50,22 +48,24 @@ System::Net::Sockets::TcpListener::TcpListener(System::SharedPtr<IPAddress> loca
 * Class [TcpListener](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)
-## TcpListener::TcpListener(int32_t) constructor
+## TcpListener::TcpListener(System::SharedPtr\<IPEndPoint\>) constructor
 
 
 Constructs a new instance.
 
 ```cpp
-System::Net::Sockets::TcpListener::TcpListener(int32_t port)
+System::Net::Sockets::TcpListener::TcpListener(System::SharedPtr<IPEndPoint> localEP)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| port | int32_t | A port number to listen. |
+| localEP | System::SharedPtr\<IPEndPoint\> | The local endpoint to which the listener socket must be bound. |
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
 * Class [TcpListener](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.Page for C++](../../../)

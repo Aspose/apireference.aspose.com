@@ -4,7 +4,7 @@ linktitle: get_Icon
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageFormat::get_Icon method. Returns a shared pointer to an ImageFormat object that represents the Windows icon image format in C++.'
 type: docs
-weight: 1400
+weight: 900
 url: /cpp/system.drawing.imaging/imageformat/get_icon/
 ---
 ## ImageFormat::get_Icon method

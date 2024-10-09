@@ -4,7 +4,7 @@ linktitle: ToInt32
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToInt32 method. Converts four bytes from the specified array starting at the specified index to 32-bit integer value in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system/bitconverter/toint32/
 ---
 ## BitConverter::ToInt32(const System::ArrayPtr\<uint8_t\>\&, int) method

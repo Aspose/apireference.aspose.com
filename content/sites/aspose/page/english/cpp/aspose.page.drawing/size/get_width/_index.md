@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Size::get_Width method. Gets the horizontal component of this T:Aspose::Page::Drawing::Size in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.page.drawing/size/get_width/
 ---
 ## Size::get_Width method

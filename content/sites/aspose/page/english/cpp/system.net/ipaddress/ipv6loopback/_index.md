@@ -4,7 +4,7 @@ linktitle: IPv6Loopback
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::IPv6Loopback field. The IPv6 loopback address in C++.'
 type: docs
-weight: 2800
+weight: 2600
 url: /cpp/system.net/ipaddress/ipv6loopback/
 ---
 ## IPv6Loopback field

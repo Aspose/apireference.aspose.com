@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::Clone method. Clones this option instance. The shortcut to the cloneing constructor in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/clone/
 ---
 ## PageMediaTypeOption::Clone method

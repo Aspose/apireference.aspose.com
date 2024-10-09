@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::NameValueHeaderValue::set_Value method. Sets a value of the current instance in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.net.http.headers/namevalueheadervalue/set_value/
 ---
 ## NameValueHeaderValue::set_Value method

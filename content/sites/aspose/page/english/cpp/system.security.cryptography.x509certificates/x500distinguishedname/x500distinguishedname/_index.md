@@ -2,11 +2,31 @@
 title: System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500DistinguishedName constructor
 linktitle: X500DistinguishedName
 second_title: Aspose.Page for C++
-description: 'System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500DistinguishedName constructor. RTTI information in C++.'
+description: 'System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500DistinguishedName constructor. Constructor in C++.'
 type: docs
 weight: 100
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/x500distinguishedname/
 ---
+## X500DistinguishedName::X500DistinguishedName(const ByteArrayPtr\&) constructor
+
+
+Constructor.
+
+```cpp
+System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500DistinguishedName(const ByteArrayPtr &encoded_distinguished_name)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| encoded_distinguished_name | const ByteArrayPtr\& | Encoded distinguished name. |
+
+## See Also
+
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [X500DistinguishedName](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
 ## X500DistinguishedName::X500DistinguishedName(const SharedPtr\<AsnEncodedData\>\&) constructor
 
 
@@ -31,23 +51,24 @@ Constructor.
 * Class [X500DistinguishedName](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.Page for C++](../../../)
-## X500DistinguishedName::X500DistinguishedName(const ByteArrayPtr\&) constructor
+## X500DistinguishedName::X500DistinguishedName(const SharedPtr\<X500DistinguishedName\>\&) constructor
 
 
-Constructor.
+Copy constructor.
 
 ```cpp
-System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500DistinguishedName(const ByteArrayPtr &encoded_distinguished_name)
+System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500DistinguishedName(const SharedPtr<X500DistinguishedName> &distinguishedName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| encoded_distinguished_name | const ByteArrayPtr\& | Encoded distinguished name. |
+| distinguishedName | const SharedPtr\<X500DistinguishedName\>\& | Distinguished name to copy data from. |
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X500DistinguishedName](../)
 * Class [X500DistinguishedName](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -68,27 +89,6 @@ System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500Dis
 ## See Also
 
 * Class [String](../../../system/string/)
-* Class [X500DistinguishedName](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Page for C++](../../../)
-## X500DistinguishedName::X500DistinguishedName(const SharedPtr\<X500DistinguishedName\>\&) constructor
-
-
-Copy constructor.
-
-```cpp
-System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500DistinguishedName(const SharedPtr<X500DistinguishedName> &distinguishedName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| distinguishedName | const SharedPtr\<X500DistinguishedName\>\& | Distinguished name to copy data from. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X500DistinguishedName](../)
 * Class [X500DistinguishedName](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::Read method. Reads the next node from the stream in C++.'
 type: docs
-weight: 4100
+weight: 3900
 url: /cpp/system.xml/xmlvalidatingreader/read/
 ---
 ## XmlValidatingReader::Read method

@@ -4,7 +4,7 @@ linktitle: FaceDown
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::InputBin::FeedFace::FaceDown field. FaceDown value in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/inputbin/feedface/facedown/
 ---
 ## FaceDown field

@@ -4,7 +4,7 @@ linktitle: Body
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::Element::Body field. The string representation of the ''Body'' element name in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.web.services/soap/element/body/
 ---
 ## Body field

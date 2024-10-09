@@ -4,7 +4,7 @@ linktitle: get_Month
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::get_Month method. Gets month component of the current object in C++.'
 type: docs
-weight: 700
+weight: 2300
 url: /cpp/system/datetimeoffset/get_month/
 ---
 ## DateTimeOffset::get_Month method

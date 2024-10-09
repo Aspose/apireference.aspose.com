@@ -4,7 +4,7 @@ linktitle: CipherMode
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CipherMode enum. Block cipher mode in C++.'
 type: docs
-weight: 5400
+weight: 5300
 url: /cpp/system.security.cryptography/ciphermode/
 ---
 ## CipherMode enum

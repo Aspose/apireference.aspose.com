@@ -4,7 +4,7 @@ linktitle: KeyInfoX509Data
 second_title: Aspose.Page for C++
 description: 'How to use KeyInfoX509Data constructor of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.security.cryptography.xml/keyinfox509data/keyinfox509data/
 ---
 ## KeyInfoX509Data::KeyInfoX509Data constructor

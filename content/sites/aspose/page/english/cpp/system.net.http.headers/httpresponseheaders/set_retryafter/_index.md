@@ -4,7 +4,7 @@ linktitle: set_RetryAfter
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::set_RetryAfter method. Sets a value of the ''Retry-After'' header in C++.'
 type: docs
-weight: 1000
+weight: 2900
 url: /cpp/system.net.http.headers/httpresponseheaders/set_retryafter/
 ---
 ## HttpResponseHeaders::set_RetryAfter method

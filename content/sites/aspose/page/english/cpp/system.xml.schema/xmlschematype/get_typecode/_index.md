@@ -4,7 +4,7 @@ linktitle: get_TypeCode
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_TypeCode method. Returns the XmlTypeCode of the type in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/system.xml.schema/xmlschematype/get_typecode/
 ---
 ## XmlSchemaType::get_TypeCode method

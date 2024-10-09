@@ -2,29 +2,29 @@
 title: Aspose::Page::EPS::Device::PdfDevice::WritePaint method
 linktitle: WritePaint
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::EPS::Device::PdfDevice::WritePaint method. Writes out paint as the given color in C++.'
+description: 'Aspose::Page::EPS::Device::PdfDevice::WritePaint method. Writes out paint in C++.'
 type: docs
-weight: 7100
+weight: 7500
 url: /cpp/aspose.page.eps.device/pdfdevice/writepaint/
 ---
-## PdfDevice::WritePaint(System::SharedPtr\<System::Drawing::SolidBrush\>) method
+## PdfDevice::WritePaint(System::SharedPtr\<System::Drawing::Brush\>) method
 
 
-Writes out paint as the given color.
+Writes out paint.
 
 ```cpp
-void Aspose::Page::EPS::Device::PdfDevice::WritePaint(System::SharedPtr<System::Drawing::SolidBrush> c) override
+void Aspose::Page::EPS::Device::PdfDevice::WritePaint(System::SharedPtr<System::Drawing::Brush> paint) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | System::SharedPtr\<System::Drawing::SolidBrush\> | The color to be written. |
+| paint | System::SharedPtr\<System::Drawing::Brush\> | The paint to be written. |
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SolidBrush](../../../system.drawing/solidbrush/)
+* Class [Brush](../../../system.drawing/brush/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -49,6 +49,27 @@ void Aspose::Page::EPS::Device::PdfDevice::WritePaint(System::SharedPtr<System::
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)
+## PdfDevice::WritePaint(System::SharedPtr\<System::Drawing::SolidBrush\>) method
+
+
+Writes out paint as the given color.
+
+```cpp
+void Aspose::Page::EPS::Device::PdfDevice::WritePaint(System::SharedPtr<System::Drawing::SolidBrush> c) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | System::SharedPtr\<System::Drawing::SolidBrush\> | The color to be written. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SolidBrush](../../../system.drawing/solidbrush/)
+* Class [PdfDevice](../)
+* Namespace [Aspose::Page::EPS::Device](../../)
+* Library [Aspose.Page for C++](../../../)
 ## PdfDevice::WritePaint(System::SharedPtr\<System::Drawing::TextureBrush\>) method
 
 
@@ -67,27 +88,6 @@ void Aspose::Page::EPS::Device::PdfDevice::WritePaint(System::SharedPtr<System::
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextureBrush](../../../system.drawing/texturebrush/)
-* Class [PdfDevice](../)
-* Namespace [Aspose::Page::EPS::Device](../../)
-* Library [Aspose.Page for C++](../../../)
-## PdfDevice::WritePaint(System::SharedPtr\<System::Drawing::Brush\>) method
-
-
-Writes out paint.
-
-```cpp
-void Aspose::Page::EPS::Device::PdfDevice::WritePaint(System::SharedPtr<System::Drawing::Brush> paint) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| paint | System::SharedPtr\<System::Drawing::Brush\> | The paint to be written. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../../system.drawing/brush/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)

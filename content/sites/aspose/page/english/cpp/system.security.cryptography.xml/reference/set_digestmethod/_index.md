@@ -4,7 +4,7 @@ linktitle: set_DigestMethod
 second_title: Aspose.Page for C++
 description: 'How to use set_DigestMethod method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/system.security.cryptography.xml/reference/set_digestmethod/
 ---
 ## Reference::set_DigestMethod method

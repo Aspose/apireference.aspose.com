@@ -4,7 +4,7 @@ linktitle: get_Gold
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Gold method. Returns a color whose ARGB value in hexadecimal notation is #FFFFD700 in C++.'
 type: docs
-weight: 7100
+weight: 7000
 url: /cpp/system.drawing/color/get_gold/
 ---
 ## Color::get_Gold method

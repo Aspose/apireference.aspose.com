@@ -4,7 +4,7 @@ linktitle: SetCreationTimeUtc
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::SetCreationTimeUtc method. Sets the creation time of the specified entity as UTC time in C++.'
 type: docs
-weight: 1800
+weight: 2200
 url: /cpp/system.io/directory/setcreationtimeutc/
 ---
 ## Directory::SetCreationTimeUtc method

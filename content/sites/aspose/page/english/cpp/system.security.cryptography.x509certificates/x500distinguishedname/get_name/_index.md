@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X500DistinguishedName::get_Name method. Gets certificate distinguished name in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/get_name/
 ---
 ## X500DistinguishedName::get_Name method

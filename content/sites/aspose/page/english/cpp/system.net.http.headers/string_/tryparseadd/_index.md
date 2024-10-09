@@ -4,7 +4,7 @@ linktitle: TryParseAdd
 second_title: Aspose.Page for C++
 description: 'How to use TryParseAdd method of System::Net::Http::Headers::HttpHeaderValueCollection< System::String > class in C++.'
 type: docs
-weight: 700
+weight: 1700
 url: /cpp/system.net.http.headers/string_/tryparseadd/
 ---
 ## String >::TryParseAdd method

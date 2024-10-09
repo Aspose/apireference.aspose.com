@@ -4,7 +4,7 @@ linktitle: MeasureCharacterRanges
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::MeasureCharacterRanges method. Returns an array of regions each of which bounds character positions in the specified string in C++.'
 type: docs
-weight: 4000
+weight: 6400
 url: /cpp/system.drawing/graphics/measurecharacterranges/
 ---
 ## Graphics::MeasureCharacterRanges method

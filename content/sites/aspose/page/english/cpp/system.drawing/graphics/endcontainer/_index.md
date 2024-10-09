@@ -4,7 +4,7 @@ linktitle: EndContainer
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::EndContainer method. Closes the current container and restores the state of this object from the state of saved container in C++.'
 type: docs
-weight: 7700
+weight: 2900
 url: /cpp/system.drawing/graphics/endcontainer/
 ---
 ## Graphics::EndContainer method

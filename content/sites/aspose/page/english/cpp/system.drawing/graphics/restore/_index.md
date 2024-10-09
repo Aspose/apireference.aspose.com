@@ -4,7 +4,7 @@ linktitle: Restore
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::Restore method. Restores the state of this object from the saved state in C++.'
 type: docs
-weight: 7200
+weight: 7000
 url: /cpp/system.drawing/graphics/restore/
 ---
 ## Graphics::Restore method

@@ -4,7 +4,7 @@ linktitle: set_Length
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::set_Length method. Trunkates or extends string builder to specified length in C++.'
 type: docs
-weight: 400
+weight: 1700
 url: /cpp/system.text/stringbuilder/set_length/
 ---
 ## StringBuilder::set_Length method

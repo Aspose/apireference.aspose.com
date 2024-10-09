@@ -2,35 +2,11 @@
 title: Aspose::Page::IMultiPageDevice::OpenPage method
 linktitle: OpenPage
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::IMultiPageDevice::OpenPage method. Makes necessary preparation of the device before page rendering in C++.'
+description: 'Aspose::Page::IMultiPageDevice::OpenPage method. Makes necessary preparation of the device before each page rendering in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.page/imultipagedevice/openpage/
 ---
-## IMultiPageDevice::OpenPage(System::String) method
-
-
-Makes necessary preparation of the device before page rendering.
-
-```cpp
-virtual bool Aspose::Page::IMultiPageDevice::OpenPage(System::String title)=0
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| title | System::String | The page title. |
-
-### ReturnValue
-
-True if page is from requested range, otherwise false. Used in devices that can render specified array of page numbers.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [IMultiPageDevice](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
 ## IMultiPageDevice::OpenPage(float, float) method
 
 
@@ -52,6 +28,30 @@ Returns true if opened page has a number that falls in a range of selected page 
 
 ## See Also
 
+* Class [IMultiPageDevice](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## IMultiPageDevice::OpenPage(System::String) method
+
+
+Makes necessary preparation of the device before page rendering.
+
+```cpp
+virtual bool Aspose::Page::IMultiPageDevice::OpenPage(System::String title)=0
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| title | System::String | The page title. |
+
+### ReturnValue
+
+True if page is from requested range, otherwise false. Used in devices that can render specified array of page numbers.
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [IMultiPageDevice](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)

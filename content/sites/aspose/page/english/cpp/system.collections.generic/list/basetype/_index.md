@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::BaseType typedef. Interface type in C++.'
 type: docs
-weight: 5300
+weight: 5200
 url: /cpp/system.collections.generic/list/basetype/
 ---
 ## BaseType typedef

@@ -4,7 +4,7 @@ linktitle: get_SigningKey
 second_title: Aspose.Page for C++
 description: 'How to use get_SigningKey method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/system.security.cryptography.xml/signedxml/get_signingkey/
 ---
 ## SignedXml::get_SigningKey method

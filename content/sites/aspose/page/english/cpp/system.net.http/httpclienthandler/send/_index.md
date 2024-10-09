@@ -4,7 +4,7 @@ linktitle: Send
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClientHandler::Send method. RTTI information in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.net.http/httpclienthandler/send/
 ---
 ## HttpClientHandler::Send method

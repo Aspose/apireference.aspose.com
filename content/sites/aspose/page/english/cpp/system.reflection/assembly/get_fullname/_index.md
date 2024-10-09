@@ -4,7 +4,7 @@ linktitle: get_FullName
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::get_FullName method. Gets assembly full name in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.reflection/assembly/get_fullname/
 ---
 ## Assembly::get_FullName method

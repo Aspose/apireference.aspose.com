@@ -4,7 +4,7 @@ linktitle: MediaTypeWithQualityHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::MediaTypeWithQualityHeaderValue::MediaTypeWithQualityHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.http.headers/mediatypewithqualityheadervalue/mediatypewithqualityheadervalue/
 ---
 ## MediaTypeWithQualityHeaderValue::MediaTypeWithQualityHeaderValue() constructor

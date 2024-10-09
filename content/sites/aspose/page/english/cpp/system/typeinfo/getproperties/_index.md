@@ -4,7 +4,7 @@ linktitle: GetProperties
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::GetProperties method. Returns all the public properties of the current Type in C++.'
 type: docs
-weight: 4000
+weight: 3800
 url: /cpp/system/typeinfo/getproperties/
 ---
 ## TypeInfo::GetProperties() const method

@@ -4,7 +4,7 @@ linktitle: Find
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::Find method. Performs forward direction find of an element in the list in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/system.collections.generic/linkedlist/find/
 ---
 ## LinkedList::Find method

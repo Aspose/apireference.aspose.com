@@ -4,7 +4,7 @@ linktitle: get_DisplayName
 second_title: Aspose.Page for C++
 description: 'System::Text::EncodingInfo::get_DisplayName method. Gets full localized encoding name in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.text/encodinginfo/get_displayname/
 ---
 ## EncodingInfo::get_DisplayName method

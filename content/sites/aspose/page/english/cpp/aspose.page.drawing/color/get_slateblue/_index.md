@@ -4,7 +4,7 @@ linktitle: get_SlateBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_SlateBlue method. Gets a system-defined color that has an ARGB value of #FF6A5ACD in C++.'
 type: docs
-weight: 12600
+weight: 12700
 url: /cpp/aspose.page.drawing/color/get_slateblue/
 ---
 ## Color::get_SlateBlue method

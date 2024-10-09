@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::idx_get method. Gets value at specified index in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/system.collections.specialized/namevaluecollection/idx_get/
 ---
 ## NameValueCollection::idx_get method

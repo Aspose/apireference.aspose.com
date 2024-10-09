@@ -4,7 +4,7 @@ linktitle: AppendChildElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::AppendChildElement method. Creates a new child element node at the end of the list of child nodes of the current node using the namespace prefix, local name and namespace URI specified with the value specified in C++.'
 type: docs
-weight: 7800
+weight: 200
 url: /cpp/system.xml.xpath/xpathnavigator/appendchildelement/
 ---
 ## XPathNavigator::AppendChildElement method

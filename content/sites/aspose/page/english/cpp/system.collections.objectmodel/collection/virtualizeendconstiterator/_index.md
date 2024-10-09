@@ -4,7 +4,7 @@ linktitle: virtualizeEndConstIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::virtualizeEndConstIterator method. Gets the implementation of end const iterator for the current container in C++.'
 type: docs
-weight: 2400
+weight: 2300
 url: /cpp/system.collections.objectmodel/collection/virtualizeendconstiterator/
 ---
 ## Collection::virtualizeEndConstIterator method

@@ -4,7 +4,7 @@ linktitle: PickMany
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::SelectionType::PickMany method. PickMany value in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/selectiontype/pickmany/
 ---
 ## SelectionType::PickMany method

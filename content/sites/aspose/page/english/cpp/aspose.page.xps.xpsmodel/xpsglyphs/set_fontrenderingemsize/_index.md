@@ -4,7 +4,7 @@ linktitle: set_FontRenderingEmSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs::set_FontRenderingEmSize method. Returns/sets the font size in drawing surface units, expressed as a float in units of the effective coordinate space in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/set_fontrenderingemsize/
 ---
 ## XpsGlyphs::set_FontRenderingEmSize method

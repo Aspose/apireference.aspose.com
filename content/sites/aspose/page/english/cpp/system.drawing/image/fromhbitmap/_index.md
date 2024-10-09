@@ -4,7 +4,7 @@ linktitle: FromHbitmap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::FromHbitmap method. Constructs a Bitmap object from the specified GDI bitmap in C++.'
 type: docs
-weight: 3100
+weight: 2800
 url: /cpp/system.drawing/image/fromhbitmap/
 ---
 ## Image::FromHbitmap method

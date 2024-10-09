@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaIdentityConstraint::set_Name method. Sets the name of the identity constraint in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/set_name/
 ---
 ## XmlSchemaIdentityConstraint::set_Name method

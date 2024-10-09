@@ -4,7 +4,7 @@ linktitle: GetDayOfMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::GregorianCalendar::GetDayOfMonth method. Gets day of month for the specified time point in C++.'
 type: docs
-weight: 1600
+weight: 800
 url: /cpp/system.globalization/gregoriancalendar/getdayofmonth/
 ---
 ## GregorianCalendar::GetDayOfMonth method

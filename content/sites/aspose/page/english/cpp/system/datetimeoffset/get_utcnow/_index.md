@@ -4,7 +4,7 @@ linktitle: get_UtcNow
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::get_UtcNow method. Gets DateTimeOffset whose date and time are set to the current UTC-time and whose offset is TimeSpan::Zero in C++.'
 type: docs
-weight: 4900
+weight: 5400
 url: /cpp/system/datetimeoffset/get_utcnow/
 ---
 ## DateTimeOffset::get_UtcNow method

@@ -4,7 +4,7 @@ linktitle: FillArc
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::FillArc method. Fills an arc in C++.'
 type: docs
-weight: 4600
+weight: 2400
 url: /cpp/aspose.page.eps/psdocument/fillarc/
 ---
 ## PsDocument::FillArc method

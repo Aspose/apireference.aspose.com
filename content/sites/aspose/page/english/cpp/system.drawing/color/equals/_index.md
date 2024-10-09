@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::Equals method. Determines if the current and the specified Color objects represent the same color in C++.'
 type: docs
-weight: 1800
+weight: 200
 url: /cpp/system.drawing/color/equals/
 ---
 ## Color::Equals method

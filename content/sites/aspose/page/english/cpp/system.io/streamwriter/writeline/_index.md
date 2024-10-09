@@ -4,7 +4,7 @@ linktitle: WriteLine
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamWriter::WriteLine method. Writes line terminator characters to the stream in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/system.io/streamwriter/writeline/
 ---
 ## StreamWriter::WriteLine() method
@@ -18,47 +18,6 @@ void System::IO::StreamWriter::WriteLine() override
 
 ## See Also
 
-* Class [StreamWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## StreamWriter::WriteLine(const String\&) method
-
-
-Writes the specified string followed by the line-terminating characters to the stream.
-
-```cpp
-void System::IO::StreamWriter::WriteLine(const String &value) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | The string to write |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [StreamWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## StreamWriter::WriteLine(const SharedPtr\<Object\>\&) method
-
-
-Writes the string representation of the specified object followed by the line-terminating characters to the stream.
-
-```cpp
-void System::IO::StreamWriter::WriteLine(const SharedPtr<Object> &obj) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const SharedPtr\<Object\>\& | The object to write |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [StreamWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -120,6 +79,47 @@ void System::IO::StreamWriter::WriteLine(const char_t *buffer) override
 
 ## See Also
 
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## StreamWriter::WriteLine(const SharedPtr\<Object\>\&) method
+
+
+Writes the string representation of the specified object followed by the line-terminating characters to the stream.
+
+```cpp
+void System::IO::StreamWriter::WriteLine(const SharedPtr<Object> &obj) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const SharedPtr\<Object\>\& | The object to write |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## StreamWriter::WriteLine(const String\&) method
+
+
+Writes the specified string followed by the line-terminating characters to the stream.
+
+```cpp
+void System::IO::StreamWriter::WriteLine(const String &value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The string to write |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [StreamWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

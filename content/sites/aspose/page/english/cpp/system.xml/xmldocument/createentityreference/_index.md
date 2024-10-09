@@ -4,7 +4,7 @@ linktitle: CreateEntityReference
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateEntityReference method. Creates an XmlEntityReference with the specified name in C++.'
 type: docs
-weight: 2800
+weight: 900
 url: /cpp/system.xml/xmldocument/createentityreference/
 ---
 ## XmlDocument::CreateEntityReference method

@@ -4,7 +4,7 @@ linktitle: CryptoStreamMode
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStreamMode enum. CryptoStream direction in C++.'
 type: docs
-weight: 5500
+weight: 5400
 url: /cpp/system.security.cryptography/cryptostreammode/
 ---
 ## CryptoStreamMode enum

@@ -25,17 +25,19 @@ Creates empty set.
 * Class [HashSet](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## HashSet::HashSet(int) constructor
+## HashSet::HashSet(const SharedPtr\<IEnumerable\<T\>\>\&) constructor
 
 
-Creates empty set with specified capacity.
+Creates hashset based on enumerable values.
 
 ```cpp
-System::Collections::Generic::HashSet<T>::HashSet(int capacity)
+System::Collections::Generic::HashSet<T>::HashSet(const SharedPtr<IEnumerable<T>> &items)
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../ienumerable/)
 * Class [HashSet](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -60,19 +62,17 @@ System::Collections::Generic::HashSet<T>::HashSet(const SharedPtr<IEqualityCompa
 * Class [HashSet](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## HashSet::HashSet(const SharedPtr\<IEnumerable\<T\>\>\&) constructor
+## HashSet::HashSet(int) constructor
 
 
-Creates hashset based on enumerable values.
+Creates empty set with specified capacity.
 
 ```cpp
-System::Collections::Generic::HashSet<T>::HashSet(const SharedPtr<IEnumerable<T>> &items)
+System::Collections::Generic::HashSet<T>::HashSet(int capacity)
 ```
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../ienumerable/)
 * Class [HashSet](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

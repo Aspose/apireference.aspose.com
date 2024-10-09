@@ -21,25 +21,6 @@ System::Text::StringBuilder::StringBuilder()
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)
-## StringBuilder::StringBuilder(int) constructor
-
-
-Constructor.
-
-```cpp
-System::Text::StringBuilder::StringBuilder(int capacity)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| capacity | int | Initial string capacity. |
-
-## See Also
-
-* Class [StringBuilder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Page for C++](../../../)
 ## StringBuilder::StringBuilder(const String\&) constructor
 
 
@@ -101,6 +82,25 @@ System::Text::StringBuilder::StringBuilder(const String &value, int startIndex, 
 ## See Also
 
 * Class [String](../../../system/string/)
+* Class [StringBuilder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Page for C++](../../../)
+## StringBuilder::StringBuilder(int) constructor
+
+
+Constructor.
+
+```cpp
+System::Text::StringBuilder::StringBuilder(int capacity)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| capacity | int | Initial string capacity. |
+
+## See Also
+
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.Page for C++](../../../)

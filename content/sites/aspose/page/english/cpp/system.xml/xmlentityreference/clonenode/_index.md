@@ -4,7 +4,7 @@ linktitle: CloneNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlEntityReference::CloneNode method. Creates a duplicate of this node in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/system.xml/xmlentityreference/clonenode/
 ---
 ## XmlEntityReference::CloneNode method

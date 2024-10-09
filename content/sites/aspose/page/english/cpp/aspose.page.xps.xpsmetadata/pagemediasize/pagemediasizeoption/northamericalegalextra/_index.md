@@ -4,7 +4,7 @@ linktitle: NorthAmericaLegalExtra
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaLegalExtra field. North America Legal extra in C++.'
 type: docs
-weight: 9900
+weight: 11600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericalegalextra/
 ---
 ## NorthAmericaLegalExtra field

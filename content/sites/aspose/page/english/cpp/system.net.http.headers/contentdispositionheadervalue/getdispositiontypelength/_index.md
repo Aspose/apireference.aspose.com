@@ -4,7 +4,7 @@ linktitle: GetDispositionTypeLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::GetDispositionTypeLength method. Converts a passed string from the specified index to an instance of the ContentDispositionHeaderValue class in C++.'
 type: docs
-weight: 2400
+weight: 2200
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/getdispositiontypelength/
 ---
 ## ContentDispositionHeaderValue::GetDispositionTypeLength method

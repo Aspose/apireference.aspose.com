@@ -4,7 +4,7 @@ linktitle: set_WrapMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::set_WrapMode method. Sets the wrap mode in C++.'
 type: docs
-weight: 300
+weight: 2300
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_wrapmode/
 ---
 ## PathGradientBrush::set_WrapMode method

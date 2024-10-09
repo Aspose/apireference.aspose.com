@@ -4,7 +4,7 @@ linktitle: set_Colors
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::ColorBlend::set_Colors method. Sets an array of colors to use at corresponding positions along a gradient in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.drawing.drawing2d/colorblend/set_colors/
 ---
 ## ColorBlend::set_Colors method

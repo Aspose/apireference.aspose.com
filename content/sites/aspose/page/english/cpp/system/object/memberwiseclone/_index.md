@@ -4,7 +4,7 @@ linktitle: MemberwiseClone
 second_title: Aspose.Page for C++
 description: 'System::Object::MemberwiseClone method. Analog of C# Object.MemberwiseClone() method. Enables cloning custom types in C++.'
 type: docs
-weight: 1600
+weight: 1000
 url: /cpp/system/object/memberwiseclone/
 ---
 ## Object::MemberwiseClone method

@@ -4,7 +4,7 @@ linktitle: get_OliveDrab
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_OliveDrab method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF6B8E23 in C++.'
 type: docs
-weight: 10000
+weight: 9900
 url: /cpp/system.drawing/pens/get_olivedrab/
 ---
 ## Pens::get_OliveDrab method

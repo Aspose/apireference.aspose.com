@@ -4,9 +4,59 @@ linktitle: FillEllipse
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FillEllipse method. Fills the interior of the ellipse specified by the bounding rectangle using the specified brush in C++.'
 type: docs
-weight: 3000
+weight: 3300
 url: /cpp/system.drawing/graphics/fillellipse/
 ---
+## Graphics::FillEllipse(const SharedPtr\<Brush\>\&, float, float, float, float) method
+
+
+Fills the interior of the ellipse specified by the bounding rectangle using the specified brush.
+
+```cpp
+void System::Drawing::Graphics::FillEllipse(const SharedPtr<Brush> &brush, float x, float y, float width, float height)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brush | const SharedPtr\<Brush\>\& | A [Brush](../../brush/) object to use for filling |
+| x | float | The X coordinate of the upper left corner of the bounding rectangle |
+| y | float | The Y coordinate of the upper left corner of the bounding rectangle |
+| width | float | The width of the bounding rectangle |
+| height | float | The height of the bounding rectangle |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Graphics::FillEllipse(const SharedPtr\<Brush\>\&, int, int, int, int) method
+
+
+Fills the interior of the ellipse specified by the bounding rectangle using the specified brush.
+
+```cpp
+void System::Drawing::Graphics::FillEllipse(const SharedPtr<Brush> &brush, int x, int y, int width, int height)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brush | const SharedPtr\<Brush\>\& | A [Brush](../../brush/) object to use for filling |
+| x | int | The X coordinate of the upper left corner of the bounding rectangle |
+| y | int | The Y coordinate of the upper left corner of the bounding rectangle |
+| width | int | The width of the bounding rectangle |
+| height | int | The height of the bounding rectangle |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Graphics::FillEllipse(const SharedPtr\<Brush\>\&, Rectangle) method
 
 
@@ -50,56 +100,6 @@ void System::Drawing::Graphics::FillEllipse(const SharedPtr<Brush> &brush, Recta
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Brush](../../brush/)
 * Class [RectangleF](../../rectanglef/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Graphics::FillEllipse(const SharedPtr\<Brush\>\&, int, int, int, int) method
-
-
-Fills the interior of the ellipse specified by the bounding rectangle using the specified brush.
-
-```cpp
-void System::Drawing::Graphics::FillEllipse(const SharedPtr<Brush> &brush, int x, int y, int width, int height)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| brush | const SharedPtr\<Brush\>\& | A [Brush](../../brush/) object to use for filling |
-| x | int | The X coordinate of the upper left corner of the bounding rectangle |
-| y | int | The Y coordinate of the upper left corner of the bounding rectangle |
-| width | int | The width of the bounding rectangle |
-| height | int | The height of the bounding rectangle |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../brush/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
-## Graphics::FillEllipse(const SharedPtr\<Brush\>\&, float, float, float, float) method
-
-
-Fills the interior of the ellipse specified by the bounding rectangle using the specified brush.
-
-```cpp
-void System::Drawing::Graphics::FillEllipse(const SharedPtr<Brush> &brush, float x, float y, float width, float height)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| brush | const SharedPtr\<Brush\>\& | A [Brush](../../brush/) object to use for filling |
-| x | float | The X coordinate of the upper left corner of the bounding rectangle |
-| y | float | The Y coordinate of the upper left corner of the bounding rectangle |
-| width | float | The width of the bounding rectangle |
-| height | float | The height of the bounding rectangle |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../brush/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: operator~
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Reference::operator~ method. Inverts referenced value in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/system.collections/bitarray/reference/operator~/
 ---
 ## Reference::operator~ method

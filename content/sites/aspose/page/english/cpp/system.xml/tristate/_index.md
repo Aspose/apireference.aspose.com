@@ -4,7 +4,7 @@ linktitle: TriState
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::TriState enum in C++.'
 type: docs
-weight: 6500
+weight: 5400
 url: /cpp/system.xml/tristate/
 ---
 ## TriState enum

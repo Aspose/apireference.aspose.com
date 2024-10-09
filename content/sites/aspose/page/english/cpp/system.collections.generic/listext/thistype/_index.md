@@ -4,7 +4,7 @@ linktitle: ThisType
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic::ListExt::ThisType typedef of System::Collections::Generic::ListExt class in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.collections.generic/listext/thistype/
 ---
 ## ThisType typedef

@@ -4,7 +4,7 @@ linktitle: GetPointer
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::GetPointer method. Gets pointed object (if any) or nullptr. Same as get() in C++.'
 type: docs
-weight: 2700
+weight: 1800
 url: /cpp/system/smartptr/getpointer/
 ---
 ## SmartPtr::GetPointer method

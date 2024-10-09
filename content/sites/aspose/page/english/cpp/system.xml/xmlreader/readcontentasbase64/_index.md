@@ -4,7 +4,7 @@ linktitle: ReadContentAsBase64
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAsBase64 method. Reads the content and returns the Base64 decoded binary bytes in C++.'
 type: docs
-weight: 5900
+weight: 4000
 url: /cpp/system.xml/xmlreader/readcontentasbase64/
 ---
 ## XmlReader::ReadContentAsBase64 method

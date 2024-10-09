@@ -4,7 +4,7 @@ linktitle: set_Matrix12
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix12 method. Sets a value in the 1-st row and 2-nd column in C++.'
 type: docs
-weight: 1900
+weight: 3600
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix12/
 ---
 ## ColorMatrix::set_Matrix12 method

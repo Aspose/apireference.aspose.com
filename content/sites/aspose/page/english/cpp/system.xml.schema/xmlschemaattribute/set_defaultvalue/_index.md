@@ -4,7 +4,7 @@ linktitle: set_DefaultValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::set_DefaultValue method. Sets the default value for the attribute in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/system.xml.schema/xmlschemaattribute/set_defaultvalue/
 ---
 ## XmlSchemaAttribute::set_DefaultValue method

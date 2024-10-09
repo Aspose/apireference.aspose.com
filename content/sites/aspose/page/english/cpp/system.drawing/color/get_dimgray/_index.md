@@ -4,7 +4,7 @@ linktitle: get_DimGray
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DimGray method. Returns a color whose ARGB value in hexadecimal notation is #FF696969 in C++.'
 type: docs
-weight: 6300
+weight: 6200
 url: /cpp/system.drawing/color/get_dimgray/
 ---
 ## Color::get_DimGray method

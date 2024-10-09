@@ -4,7 +4,7 @@ linktitle: GetCounter
 second_title: Aspose.Page for C++
 description: 'System::Object::GetCounter method. Gets reference counter data structure associated with the object in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system/object/getcounter/
 ---
 ## Object::GetCounter method

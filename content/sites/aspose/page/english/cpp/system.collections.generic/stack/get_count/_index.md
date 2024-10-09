@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::get_Count method. Gets number of elements in stack in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.collections.generic/stack/get_count/
 ---
 ## Stack::get_Count method

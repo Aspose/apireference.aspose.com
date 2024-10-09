@@ -4,7 +4,7 @@ linktitle: GetAbbreviatedEraName
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::GetAbbreviatedEraName method. Gets abbreviated era name in C++.'
 type: docs
-weight: 5100
+weight: 3000
 url: /cpp/system.globalization/datetimeformatinfo/getabbreviatederaname/
 ---
 ## DateTimeFormatInfo::GetAbbreviatedEraName method

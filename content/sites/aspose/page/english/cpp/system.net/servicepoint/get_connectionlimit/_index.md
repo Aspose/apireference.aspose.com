@@ -4,7 +4,7 @@ linktitle: get_ConnectionLimit
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_ConnectionLimit method. Gets the maximum number of connections that are allowed by the current instance in C++.'
 type: docs
-weight: 1700
+weight: 700
 url: /cpp/system.net/servicepoint/get_connectionlimit/
 ---
 ## ServicePoint::get_ConnectionLimit method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'How to use Clone method of Aspose::Page::XPS::XpsModel::XpsGlyphMapping class in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphmapping/clone/
 ---
 ## XpsGlyphMapping::Clone method

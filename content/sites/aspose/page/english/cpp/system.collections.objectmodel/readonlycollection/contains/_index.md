@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::Contains method. Checks if container contains specific item in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.collections.objectmodel/readonlycollection/contains/
 ---
 ## ReadOnlyCollection::Contains method

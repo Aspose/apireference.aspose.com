@@ -4,7 +4,7 @@ linktitle: get_SandyBrown
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_SandyBrown method. Gets a system-defined color that has an ARGB value of #FFF4A460 in C++.'
 type: docs
-weight: 12000
+weight: 12100
 url: /cpp/aspose.page.drawing/color/get_sandybrown/
 ---
 ## Color::get_SandyBrown method

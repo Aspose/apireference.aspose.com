@@ -4,7 +4,7 @@ linktitle: get_LightCyan
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LightCyan method. Returns a color whose ARGB value in hexadecimal notation is #FFE0FFFF in C++.'
 type: docs
-weight: 8800
+weight: 8700
 url: /cpp/system.drawing/color/get_lightcyan/
 ---
 ## Color::get_LightCyan method

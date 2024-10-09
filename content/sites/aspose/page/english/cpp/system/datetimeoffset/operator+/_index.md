@@ -4,7 +4,7 @@ linktitle: operator+
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::operator+ method. Returns a new instance of DateTimeOffset class that represents the date and time value that is the sum of the value represented by the current object and the specified time span in C++.'
 type: docs
-weight: 4000
+weight: 3400
 url: /cpp/system/datetimeoffset/operator+/
 ---
 ## DateTimeOffset::operator+ method

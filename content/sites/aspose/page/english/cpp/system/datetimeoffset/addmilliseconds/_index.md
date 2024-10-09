@@ -4,7 +4,7 @@ linktitle: AddMilliseconds
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddMilliseconds method. Adds a specified number of milliseconds to the DateTimeOffset object in C++.'
 type: docs
-weight: 2600
+weight: 500
 url: /cpp/system/datetimeoffset/addmilliseconds/
 ---
 ## DateTimeOffset::AddMilliseconds method

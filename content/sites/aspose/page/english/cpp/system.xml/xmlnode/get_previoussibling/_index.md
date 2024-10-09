@@ -4,7 +4,7 @@ linktitle: get_PreviousSibling
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_PreviousSibling method. Returns the node immediately preceding this node in C++.'
 type: docs
-weight: 700
+weight: 2300
 url: /cpp/system.xml/xmlnode/get_previoussibling/
 ---
 ## XmlNode::get_PreviousSibling method

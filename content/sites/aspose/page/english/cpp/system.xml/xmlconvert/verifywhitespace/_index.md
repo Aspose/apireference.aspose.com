@@ -4,7 +4,7 @@ linktitle: VerifyWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::VerifyWhitespace method. Returns the passed-in string instance if all the characters in the string argument are valid whitespace characters in C++.'
 type: docs
-weight: 1100
+weight: 3400
 url: /cpp/system.xml/xmlconvert/verifywhitespace/
 ---
 ## XmlConvert::VerifyWhitespace method

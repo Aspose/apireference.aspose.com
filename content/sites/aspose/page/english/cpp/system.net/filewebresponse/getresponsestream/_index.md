@@ -4,7 +4,7 @@ linktitle: GetResponseStream
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebResponse::GetResponseStream method. Returns the response stream in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.net/filewebresponse/getresponsestream/
 ---
 ## FileWebResponse::GetResponseStream method

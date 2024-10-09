@@ -4,7 +4,7 @@ linktitle: UriSchemeMailto
 second_title: Aspose.Page for C++
 description: 'System::Uri::UriSchemeMailto field. Specifies that the Uri is an email address and is accessed through the Simple Mail Transport Protocol in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system/uri/urischememailto/
 ---
 ## UriSchemeMailto field

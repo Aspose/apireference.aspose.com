@@ -4,7 +4,7 @@ linktitle: IsShared
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::IsShared method. Checks if pointer is in shared mode in C++.'
 type: docs
-weight: 1000
+weight: 2100
 url: /cpp/system/smartptr/isshared/
 ---
 ## SmartPtr::IsShared method

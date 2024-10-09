@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArray::idx_get method. Provides access to array''s element by index i  in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpsarray/idx_get/
 ---
 ## XpsArray::idx_get method

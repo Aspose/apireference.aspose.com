@@ -4,7 +4,7 @@ linktitle: SetAttributeNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::SetAttributeNode method. Adds the specified XmlAttribute in C++.'
 type: docs
-weight: 2100
+weight: 2700
 url: /cpp/system.xml/xmlelement/setattributenode/
 ---
 ## XmlElement::SetAttributeNode(SharedPtr\<XmlAttribute\>) method

@@ -4,7 +4,7 @@ linktitle: GetValueLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::NameValueHeaderValue::GetValueLength method. Returns the length of a value from the specified index in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/system.net.http.headers/namevalueheadervalue/getvaluelength/
 ---
 ## NameValueHeaderValue::GetValueLength method

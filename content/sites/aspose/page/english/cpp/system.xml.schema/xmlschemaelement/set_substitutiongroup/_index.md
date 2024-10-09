@@ -4,7 +4,7 @@ linktitle: set_SubstitutionGroup
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::set_SubstitutionGroup method. Sets the name of an element that is being substituted by this element in C++.'
 type: docs
-weight: 2000
+weight: 3100
 url: /cpp/system.xml.schema/xmlschemaelement/set_substitutiongroup/
 ---
 ## XmlSchemaElement::set_SubstitutionGroup method

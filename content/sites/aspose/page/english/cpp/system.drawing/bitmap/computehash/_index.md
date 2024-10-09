@@ -4,7 +4,7 @@ linktitle: ComputeHash
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::ComputeHash method. Computes the SHA1 hash value in C++.'
 type: docs
-weight: 2300
+weight: 400
 url: /cpp/system.drawing/bitmap/computehash/
 ---
 ## Bitmap::ComputeHash method

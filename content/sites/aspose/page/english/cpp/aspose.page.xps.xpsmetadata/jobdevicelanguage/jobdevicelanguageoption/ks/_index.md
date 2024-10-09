@@ -4,7 +4,7 @@ linktitle: KS
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::KS field. Specified device language is KS in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/ks/
 ---
 ## KS field

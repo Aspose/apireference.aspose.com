@@ -4,7 +4,7 @@ linktitle: get_SandyBrown
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_SandyBrown method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFF4A460 in C++.'
 type: docs
-weight: 12000
+weight: 11900
 url: /cpp/system.drawing/pens/get_sandybrown/
 ---
 ## Pens::get_SandyBrown method

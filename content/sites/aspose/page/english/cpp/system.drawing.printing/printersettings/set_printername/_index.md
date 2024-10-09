@@ -4,7 +4,7 @@ linktitle: set_PrinterName
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PrinterSettings::set_PrinterName method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.drawing.printing/printersettings/set_printername/
 ---
 ## PrinterSettings::set_PrinterName method

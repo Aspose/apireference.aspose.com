@@ -4,7 +4,7 @@ linktitle: set_Date
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_Date method. Sets a value of the ''Date'' header in C++.'
 type: docs
-weight: 3800
+weight: 3700
 url: /cpp/system.net.http.headers/httprequestheaders/set_date/
 ---
 ## HttpRequestHeaders::set_Date method

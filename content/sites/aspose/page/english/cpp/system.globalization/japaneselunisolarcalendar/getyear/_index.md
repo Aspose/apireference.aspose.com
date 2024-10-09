@@ -4,7 +4,7 @@ linktitle: GetYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::JapaneseLunisolarCalendar::GetYear method. Gets year for the specified time point in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.globalization/japaneselunisolarcalendar/getyear/
 ---
 ## JapaneseLunisolarCalendar::GetYear method

@@ -4,7 +4,7 @@ linktitle: set_ActivePage
 second_title: Aspose.Page for C++
 description: 'How to use set_ActivePage method of Aspose::Page::XPS::XpsModel::XpsContext class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpscontext/set_activepage/
 ---
 ## XpsContext::set_ActivePage method

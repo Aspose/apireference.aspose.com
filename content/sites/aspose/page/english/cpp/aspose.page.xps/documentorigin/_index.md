@@ -4,7 +4,7 @@ linktitle: DocumentOrigin
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::DocumentOrigin enum in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/aspose.page.xps/documentorigin/
 ---
 ## DocumentOrigin enum

@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_Name method. When overridden in a derived class, gets the qualified name of the current node in C++.'
 type: docs
-weight: 1300
+weight: 2100
 url: /cpp/system.xml.xpath/xpathnavigator/get_name/
 ---
 ## XPathNavigator::get_Name method

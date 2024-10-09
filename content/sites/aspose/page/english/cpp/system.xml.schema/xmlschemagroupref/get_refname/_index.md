@@ -4,7 +4,7 @@ linktitle: get_RefName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaGroupRef::get_RefName method. Returns the name of a group defined in this schema (or another schema indicated by the specified namespace) in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemagroupref/get_refname/
 ---
 ## XmlSchemaGroupRef::get_RefName method

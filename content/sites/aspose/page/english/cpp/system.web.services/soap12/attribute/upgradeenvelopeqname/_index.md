@@ -4,7 +4,7 @@ linktitle: UpgradeEnvelopeQname
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Attribute::UpgradeEnvelopeQname field. The string representation of the ''qname'' attribute name in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.web.services/soap12/attribute/upgradeenvelopeqname/
 ---
 ## UpgradeEnvelopeQname field

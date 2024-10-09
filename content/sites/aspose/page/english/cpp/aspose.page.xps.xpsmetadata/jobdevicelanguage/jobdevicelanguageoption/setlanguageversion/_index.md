@@ -4,7 +4,7 @@ linktitle: SetLanguageVersion
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::SetLanguageVersion method. Sets the LanguageVersion scored property value in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/setlanguageversion/
 ---
 ## JobDeviceLanguageOption::SetLanguageVersion method

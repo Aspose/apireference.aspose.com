@@ -4,7 +4,7 @@ linktitle: get_Available
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_Available method. Gets the number of bytes received from the network and available for reading in C++.'
 type: docs
-weight: 400
+weight: 1800
 url: /cpp/system.net.sockets/socket/get_available/
 ---
 ## Socket::get_Available method

@@ -4,7 +4,7 @@ linktitle: DirectoryInfoPtr
 second_title: Aspose.Page for C++
 description: 'System::DirectoryInfoPtr typedef. An alias for a smart pointer that points to an instance of System::IO::DirectoryInfo class in C++.'
 type: docs
-weight: 10800
+weight: 9900
 url: /cpp/system/directoryinfoptr/
 ---
 ## DirectoryInfoPtr typedef

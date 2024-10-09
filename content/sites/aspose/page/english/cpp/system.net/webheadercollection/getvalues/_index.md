@@ -4,7 +4,7 @@ linktitle: GetValues
 second_title: Aspose.Page for C++
 description: 'System::Net::WebHeaderCollection::GetValues method. Returns the collection of the header values in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.net/webheadercollection/getvalues/
 ---
 ## WebHeaderCollection::GetValues method

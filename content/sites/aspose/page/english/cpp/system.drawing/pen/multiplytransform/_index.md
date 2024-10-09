@@ -4,7 +4,7 @@ linktitle: MultiplyTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::MultiplyTransform method. Multiplies current object''s transform matrix by the specified matrix in C++.'
 type: docs
-weight: 3400
+weight: 1900
 url: /cpp/system.drawing/pen/multiplytransform/
 ---
 ## Pen::MultiplyTransform method

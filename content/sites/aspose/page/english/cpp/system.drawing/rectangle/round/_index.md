@@ -4,7 +4,7 @@ linktitle: Round
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::Round method. Constructs a Rectangle object from the specified RectangleF object by rounding the RectangleF object''s location and size values to the nearest integer values in C++.'
 type: docs
-weight: 3300
+weight: 3200
 url: /cpp/system.drawing/rectangle/round/
 ---
 ## Rectangle::Round method

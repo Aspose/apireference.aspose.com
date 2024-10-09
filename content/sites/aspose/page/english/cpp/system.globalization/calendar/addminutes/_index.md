@@ -4,7 +4,7 @@ linktitle: AddMinutes
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::AddMinutes method. Adds minutes to time point in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/system.globalization/calendar/addminutes/
 ---
 ## Calendar::AddMinutes method

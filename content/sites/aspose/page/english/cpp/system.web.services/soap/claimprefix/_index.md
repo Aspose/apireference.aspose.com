@@ -4,7 +4,7 @@ linktitle: ClaimPrefix
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::ClaimPrefix field. The WS-I prefix in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/system.web.services/soap/claimprefix/
 ---
 ## ClaimPrefix field

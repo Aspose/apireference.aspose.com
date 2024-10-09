@@ -4,7 +4,7 @@ linktitle: System::Collections::Specialized
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Specialized namespace in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system.collections.specialized/
 ---
 
@@ -23,5 +23,5 @@ url: /cpp/system.collections.specialized/
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

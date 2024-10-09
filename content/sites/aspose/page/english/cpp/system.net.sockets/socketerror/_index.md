@@ -4,7 +4,7 @@ linktitle: SocketError
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::SocketError enum. Enumerates the socket error types in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/system.net.sockets/socketerror/
 ---
 ## SocketError enum

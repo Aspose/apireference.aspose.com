@@ -4,7 +4,7 @@ linktitle: get_Height
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_Height method. Returns the height of the image in pixels in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.drawing/image/get_height/
 ---
 ## Image::get_Height method

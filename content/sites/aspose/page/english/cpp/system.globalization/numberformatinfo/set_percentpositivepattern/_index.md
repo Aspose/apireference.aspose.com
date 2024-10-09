@@ -4,7 +4,7 @@ linktitle: set_PercentPositivePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PercentPositivePattern method. Sets percent positive pattern in C++.'
 type: docs
-weight: 5300
+weight: 5500
 url: /cpp/system.globalization/numberformatinfo/set_percentpositivepattern/
 ---
 ## NumberFormatInfo::set_PercentPositivePattern method

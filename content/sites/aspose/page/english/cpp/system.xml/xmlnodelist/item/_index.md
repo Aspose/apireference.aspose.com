@@ -4,7 +4,7 @@ linktitle: Item
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeList::Item method. Retrieves a node at the given index in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml/xmlnodelist/item/
 ---
 ## XmlNodeList::Item method

@@ -4,7 +4,7 @@ linktitle: STDWIOStreamWrapper
 second_title: Aspose.Page for C++
 description: 'System::IO::STDWIOStreamWrapper typedef. Specializations of BasicSTDIOStreamWrapper for wchar_t character types in C++.'
 type: docs
-weight: 4600
+weight: 4400
 url: /cpp/system.io/stdwiostreamwrapper/
 ---
 ## STDWIOStreamWrapper typedef

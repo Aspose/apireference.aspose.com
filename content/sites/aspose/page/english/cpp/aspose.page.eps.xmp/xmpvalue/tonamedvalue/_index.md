@@ -4,7 +4,7 @@ linktitle: ToNamedValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::ToNamedValue method. Returns XMP value as named value in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/aspose.page.eps.xmp/xmpvalue/tonamedvalue/
 ---
 ## XmpValue::ToNamedValue method

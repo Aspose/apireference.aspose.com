@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::IList::idx_get method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.collections/ilist/idx_get/
 ---
 ## IList::idx_get method

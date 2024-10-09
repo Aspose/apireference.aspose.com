@@ -4,7 +4,7 @@ linktitle: set_GammaCorrection
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::set_GammaCorrection method. Sets gamma correction status for this brush in C++.'
 type: docs
-weight: 1800
+weight: 1500
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_gammacorrection/
 ---
 ## LinearGradientBrush::set_GammaCorrection method

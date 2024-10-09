@@ -4,7 +4,7 @@ linktitle: GetFigureFlags
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::GetFigureFlags method. Returns a value which is a bitwise combination of Detail::FigureType values that indicates what types of figures are contained within the path represented by the current object in C++.'
 type: docs
-weight: 3700
+weight: 2800
 url: /cpp/system.drawing.drawing2d/graphicspath/getfigureflags/
 ---
 ## GraphicsPath::GetFigureFlags method

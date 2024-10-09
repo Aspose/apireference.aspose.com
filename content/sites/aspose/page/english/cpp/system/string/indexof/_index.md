@@ -2,34 +2,33 @@
 title: System::String::IndexOf method
 linktitle: IndexOf
 second_title: Aspose.Page for C++
-description: 'System::String::IndexOf method. Substring forward lookup in C++.'
+description: 'System::String::IndexOf method. Character forward lookup in substring in C++.'
 type: docs
-weight: 4600
+weight: 1400
 url: /cpp/system/string/indexof/
 ---
-## String::IndexOf(const String\&, System::StringComparison) const method
+## String::IndexOf(char_t, int, int) const method
 
 
-Substring forward lookup.
+Character forward lookup in substring.
 
 ```cpp
-int System::String::IndexOf(const String &str, System::StringComparison comparison_type) const
+int System::String::IndexOf(char_t c, int startIndex, int count) const
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | const String\& | Substring to look for. |
-| comparison_type | System::StringComparison | [Comparison](../../comparison/) mode. |
+| c | char_t | Character to look for. |
+| startIndex | int | Index to start lookup at. |
+| count | int | Number of characters to look through. |
 
 ### ReturnValue
 
-Index of first found substring or -1 if not found. For empty lookup string, always returns 0.
+Index of first character position since startIndex or -1 if not found.
 
 ## See Also
 
-* Class [String](../)
-* Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -57,38 +56,13 @@ Index of first character position since startIndex or -1 if not found.
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## String::IndexOf(char_t, int, int) const method
-
-
-Character forward lookup in substring.
-
-```cpp
-int System::String::IndexOf(char_t c, int startIndex, int count) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | char_t | Character to look for. |
-| startIndex | int | Index to start lookup at. |
-| count | int | Number of characters to look through. |
-
-### ReturnValue
-
-Index of first character position since startIndex or -1 if not found.
-
-## See Also
-
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::IndexOf(const String\&, int) const method
+## String::IndexOf(const String\&, int, int) const method
 
 
 Substring forward lookup.
 
 ```cpp
-int System::String::IndexOf(const String &str, int startIndex=0) const
+int System::String::IndexOf(const String &str, int startIndex, int count) const
 ```
 
 
@@ -96,6 +70,7 @@ int System::String::IndexOf(const String &str, int startIndex=0) const
 | --- | --- | --- |
 | str | const String\& | Substring to look for. |
 | startIndex | int | Position in source string to start lookup through. |
+| count | int | number of characters to look through. |
 
 ### ReturnValue
 
@@ -134,6 +109,57 @@ Index of first found substring or -1 if not found. For empty lookup string, alwa
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## String::IndexOf(const String\&, int) const method
+
+
+Substring forward lookup.
+
+```cpp
+int System::String::IndexOf(const String &str, int startIndex=0) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | const String\& | Substring to look for. |
+| startIndex | int | Position in source string to start lookup through. |
+
+### ReturnValue
+
+Index of first found substring or -1 if not found. For empty lookup string, always returns startIndex.
+
+## See Also
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::IndexOf(const String\&, System::StringComparison) const method
+
+
+Substring forward lookup.
+
+```cpp
+int System::String::IndexOf(const String &str, System::StringComparison comparison_type) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | const String\& | Substring to look for. |
+| comparison_type | System::StringComparison | [Comparison](../../comparison/) mode. |
+
+### ReturnValue
+
+Index of first found substring or -1 if not found. For empty lookup string, always returns 0.
+
+## See Also
+
+* Class [String](../)
+* Enum [StringComparison](../../stringcomparison/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## String::IndexOf(const String\&, int, int, System::StringComparison) const method
 
 
@@ -159,32 +185,6 @@ Index of first found substring or -1 if not found. For empty lookup string, alwa
 
 * Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## String::IndexOf(const String\&, int, int) const method
-
-
-Substring forward lookup.
-
-```cpp
-int System::String::IndexOf(const String &str, int startIndex, int count) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | const String\& | Substring to look for. |
-| startIndex | int | Position in source string to start lookup through. |
-| count | int | number of characters to look through. |
-
-### ReturnValue
-
-Index of first found substring or -1 if not found. For empty lookup string, always returns startIndex.
-
-## See Also
-
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

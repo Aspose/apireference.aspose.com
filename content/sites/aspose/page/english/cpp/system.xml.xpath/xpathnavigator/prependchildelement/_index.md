@@ -4,7 +4,7 @@ linktitle: PrependChildElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::PrependChildElement method. Creates a new child element at the beginning of the list of child nodes of the current node using the namespace prefix, local name, and namespace URI specified with the value specified in C++.'
 type: docs
-weight: 7700
+weight: 6700
 url: /cpp/system.xml.xpath/xpathnavigator/prependchildelement/
 ---
 ## XPathNavigator::PrependChildElement method

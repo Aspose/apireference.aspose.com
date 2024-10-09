@@ -4,7 +4,7 @@ linktitle: UnlockBits
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::UnlockBits method. Unlocks the specified bitmap from system memory in C++.'
 type: docs
-weight: 1200
+weight: 2300
 url: /cpp/system.drawing/bitmap/unlockbits/
 ---
 ## Bitmap::UnlockBits method

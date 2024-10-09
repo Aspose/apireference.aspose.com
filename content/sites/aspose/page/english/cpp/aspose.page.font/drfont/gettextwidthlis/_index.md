@@ -4,7 +4,7 @@ linktitle: GetTextWidthLis
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::GetTextWidthLis method. Gets the text width lis in C++.'
 type: docs
-weight: 2500
+weight: 2300
 url: /cpp/aspose.page.font/drfont/gettextwidthlis/
 ---
 ## DrFont::GetTextWidthLis method

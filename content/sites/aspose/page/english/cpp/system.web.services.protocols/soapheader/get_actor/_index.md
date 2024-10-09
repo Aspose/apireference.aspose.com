@@ -4,7 +4,7 @@ linktitle: get_Actor
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::get_Actor method. Gets the URI of the SOAP header recipient when SOAP version 1.1 is used in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.web.services.protocols/soapheader/get_actor/
 ---
 ## SoapHeader::get_Actor method

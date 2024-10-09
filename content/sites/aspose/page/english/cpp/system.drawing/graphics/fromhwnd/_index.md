@@ -4,7 +4,7 @@ linktitle: FromHwnd
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FromHwnd method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.drawing/graphics/fromhwnd/
 ---
 ## Graphics::FromHwnd method

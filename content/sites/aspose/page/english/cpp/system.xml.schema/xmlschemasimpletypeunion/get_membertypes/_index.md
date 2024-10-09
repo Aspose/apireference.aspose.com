@@ -4,7 +4,7 @@ linktitle: get_MemberTypes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeUnion::get_MemberTypes method. Returns the array of qualified member names of built-in data types or simpleType elements defined in this schema (or another schema indicated by the specified namespace) in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml.schema/xmlschemasimpletypeunion/get_membertypes/
 ---
 ## XmlSchemaSimpleTypeUnion::get_MemberTypes method

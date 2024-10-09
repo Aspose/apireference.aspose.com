@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_Width method. Returns the width of the current Pen object in C++.'
 type: docs
-weight: 400
+weight: 1800
 url: /cpp/system.drawing/pen/get_width/
 ---
 ## Pen::get_Width method

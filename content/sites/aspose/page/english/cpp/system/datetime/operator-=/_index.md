@@ -4,7 +4,7 @@ linktitle: operator-=
 second_title: Aspose.Page for C++
 description: 'System::DateTime::operator-= method. Sets the current object to the date and time value that is the result of subtraction of the specified time span from the date and time value represented by the current object in C++.'
 type: docs
-weight: 5300
+weight: 3500
 url: /cpp/system/datetime/operator-=/
 ---
 ## DateTime::operator-= method

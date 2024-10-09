@@ -4,7 +4,7 @@ linktitle: AddPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsCanvas::AddPath method. Adds a new path to this canvas''s child list in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpscanvas/addpath/
 ---
 ## XpsCanvas::AddPath method

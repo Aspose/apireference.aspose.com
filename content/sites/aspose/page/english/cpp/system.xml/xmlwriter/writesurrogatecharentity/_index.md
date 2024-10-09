@@ -4,7 +4,7 @@ linktitle: WriteSurrogateCharEntity
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteSurrogateCharEntity method. When overridden in a derived class, generates and writes the surrogate character entity for the surrogate character pair in C++.'
 type: docs
-weight: 2100
+weight: 3400
 url: /cpp/system.xml/xmlwriter/writesurrogatecharentity/
 ---
 ## XmlWriter::WriteSurrogateCharEntity method

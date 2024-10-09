@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Globalization::NumberFormatInfo class in C++.'
 type: docs
-weight: 5900
+weight: 3200
 url: /cpp/system.globalization/numberformatinfo/operator=/
 ---
 ## NumberFormatInfo::operator= method

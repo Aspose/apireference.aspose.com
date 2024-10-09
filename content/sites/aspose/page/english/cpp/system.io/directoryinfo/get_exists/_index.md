@@ -4,7 +4,7 @@ linktitle: get_Exists
 second_title: Aspose.Page for C++
 description: 'System::IO::DirectoryInfo::get_Exists method. Determines if the path represented by the current object refers to existing directory in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.io/directoryinfo/get_exists/
 ---
 ## DirectoryInfo::get_Exists method

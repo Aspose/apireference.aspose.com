@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::RemoveAt method. Removes item at specified position in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.collections.generic/ikvcollection/removeat/
 ---
 ## IKVCollection::RemoveAt method

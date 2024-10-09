@@ -4,7 +4,7 @@ linktitle: NorthAmericaStatement
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaStatement field. North America Statement in C++.'
 type: docs
-weight: 11400
+weight: 13100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericastatement/
 ---
 ## NorthAmericaStatement field

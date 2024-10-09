@@ -4,7 +4,7 @@ linktitle: GetNamespacesInScope
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::GetNamespacesInScope method. Returns a collection that contains all namespaces currently in-scope in C++.'
 type: docs
-weight: 5600
+weight: 3400
 url: /cpp/system.xml/xmltextreader/getnamespacesinscope/
 ---
 ## XmlTextReader::GetNamespacesInScope method

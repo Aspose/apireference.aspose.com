@@ -4,7 +4,7 @@ linktitle: ResolveEntity
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ResolveEntity method. When overridden in a derived class, resolves the entity reference for EntityReference nodes in C++.'
 type: docs
-weight: 5800
+weight: 7500
 url: /cpp/system.xml/xmlreader/resolveentity/
 ---
 ## XmlReader::ResolveEntity method

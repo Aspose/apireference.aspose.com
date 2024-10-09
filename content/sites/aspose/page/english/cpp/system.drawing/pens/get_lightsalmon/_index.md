@@ -4,7 +4,7 @@ linktitle: get_LightSalmon
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_LightSalmon method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFA07A in C++.'
 type: docs
-weight: 7200
+weight: 7100
 url: /cpp/system.drawing/pens/get_lightsalmon/
 ---
 ## Pens::get_LightSalmon method

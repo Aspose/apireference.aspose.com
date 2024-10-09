@@ -4,7 +4,7 @@ linktitle: GetFields
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::GetFields method. Searches for the fields defined for the current Type, using the specified binding constraints in C++.'
 type: docs
-weight: 4100
+weight: 3200
 url: /cpp/system/typeinfo/getfields/
 ---
 ## TypeInfo::GetFields method

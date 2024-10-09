@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::operator!= method. Determines if the current object and the specified DateTimeOffset object represent distinct date and time values in C++.'
 type: docs
-weight: 4300
+weight: 3300
 url: /cpp/system/datetimeoffset/operator!=/
 ---
 ## DateTimeOffset::operator!=(const DateTimeOffset\&) const method

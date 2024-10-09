@@ -4,7 +4,7 @@ linktitle: IEnumerablePtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::IEnumerablePtr typedef. Container holding elements of same type we hold in C++.'
 type: docs
-weight: 5900
+weight: 5500
 url: /cpp/system.collections.generic/list/ienumerableptr/
 ---
 ## IEnumerablePtr typedef

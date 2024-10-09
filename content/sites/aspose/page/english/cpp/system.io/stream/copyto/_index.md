@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::CopyTo method. Copies bytes to the specified stream in C++.'
 type: docs
-weight: 1400
+weight: 400
 url: /cpp/system.io/stream/copyto/
 ---
 ## Stream::CopyTo(const SharedPtr\<Stream\>\&) method

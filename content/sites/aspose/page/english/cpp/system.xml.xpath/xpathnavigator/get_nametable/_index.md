@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_NameTable method. When overridden in a derived class, gets the XmlNameTable of the XPathNavigator in C++.'
 type: docs
-weight: 1000
+weight: 2300
 url: /cpp/system.xml.xpath/xpathnavigator/get_nametable/
 ---
 ## XPathNavigator::get_NameTable method

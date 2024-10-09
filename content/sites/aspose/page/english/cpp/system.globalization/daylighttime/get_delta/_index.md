@@ -4,7 +4,7 @@ linktitle: get_Delta
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DaylightTime::get_Delta method. Gets difference between standard time and daylight saving time in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.globalization/daylighttime/get_delta/
 ---
 ## DaylightTime::get_Delta method

@@ -4,7 +4,7 @@ linktitle: Concat
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::Runtime::StringConcat::Concat method. Concatenates a new string to the result in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml.xsl.runtime/stringconcat/concat/
 ---
 ## StringConcat::Concat method

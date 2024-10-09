@@ -4,7 +4,7 @@ linktitle: ValidationType
 second_title: Aspose.Page for C++
 description: 'System::Xml::ValidationType enum. Specifies the type of validation to perform in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/system.xml/validationtype/
 ---
 ## ValidationType enum

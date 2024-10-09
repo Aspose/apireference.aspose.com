@@ -4,7 +4,7 @@ linktitle: IsBypassed
 second_title: Aspose.Page for C++
 description: 'System::Net::WebProxy::IsBypassed method. Checks if the proxy server is not used for the specified URI in C++.'
 type: docs
-weight: 1300
+weight: 800
 url: /cpp/system.net/webproxy/isbypassed/
 ---
 ## WebProxy::IsBypassed method

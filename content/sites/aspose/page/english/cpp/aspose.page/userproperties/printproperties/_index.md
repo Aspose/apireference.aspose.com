@@ -4,7 +4,7 @@ linktitle: PrintProperties
 second_title: Aspose.Page for C++
 description: 'How to use PrintProperties method of Aspose::Page::UserProperties class in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/aspose.page/userproperties/printproperties/
 ---
 ## UserProperties::PrintProperties method

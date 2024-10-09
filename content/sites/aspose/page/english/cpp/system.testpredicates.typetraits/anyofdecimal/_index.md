@@ -4,7 +4,7 @@ linktitle: AnyOfDecimal
 second_title: Aspose.Page for C++
 description: 'System::TestPredicates::TypeTraits::AnyOfDecimal typedef. Checks that at least one of type arguments is System::Decimal. If so, sets value member to true, otherwise it is false in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.testpredicates.typetraits/anyofdecimal/
 ---
 ## AnyOfDecimal typedef

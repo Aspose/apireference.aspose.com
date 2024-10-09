@@ -4,7 +4,7 @@ linktitle: FreeHGlobal
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::FreeHGlobal method. Frees unmanaged memory in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/system.runtime.interopservices/marshal/freehglobal/
 ---
 ## Marshal::FreeHGlobal method

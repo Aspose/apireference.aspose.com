@@ -4,7 +4,7 @@ linktitle: set_System
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaNotation::set_System method. Sets the system identifier in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.xml.schema/xmlschemanotation/set_system/
 ---
 ## XmlSchemaNotation::set_System method

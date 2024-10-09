@@ -4,7 +4,7 @@ linktitle: off_type
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSystemIOStreamBuf::off_type typedef of System::IO::BasicSystemIOStreamBuf class in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.io/basicsystemiostreambuf/off_type/
 ---
 ## off_type typedef

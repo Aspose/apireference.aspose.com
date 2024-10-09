@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbConnectionStringBuilder::idx_get method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.data.common/dbconnectionstringbuilder/idx_get/
 ---
 ## DbConnectionStringBuilder::idx_get method

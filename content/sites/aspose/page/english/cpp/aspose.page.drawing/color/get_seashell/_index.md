@@ -4,7 +4,7 @@ linktitle: get_SeaShell
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_SeaShell method. Gets a system-defined color that has an ARGB value of #FFFFF5EE in C++.'
 type: docs
-weight: 12200
+weight: 12300
 url: /cpp/aspose.page.drawing/color/get_seashell/
 ---
 ## Color::get_SeaShell method

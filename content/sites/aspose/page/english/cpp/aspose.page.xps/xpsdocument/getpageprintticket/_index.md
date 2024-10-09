@@ -4,7 +4,7 @@ linktitle: GetPagePrintTicket
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::GetPagePrintTicket method. Returns the print ticket of the page indexed by pageIndex  in the document indexed by documentIndex  in C++.'
 type: docs
-weight: 2100
+weight: 4000
 url: /cpp/aspose.page.xps/xpsdocument/getpageprintticket/
 ---
 ## XpsDocument::GetPagePrintTicket method

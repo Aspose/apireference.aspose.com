@@ -4,7 +4,7 @@ linktitle: get_SendTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_SendTimeout method. Gets a period after which a ''Send'' call will time out in C++.'
 type: docs
-weight: 2200
+weight: 3500
 url: /cpp/system.net.sockets/socket/get_sendtimeout/
 ---
 ## Socket::get_SendTimeout method

@@ -4,7 +4,7 @@ linktitle: GetEraName
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::GetEraName method. Gets era name in C++.'
 type: docs
-weight: 5500
+weight: 3500
 url: /cpp/system.globalization/datetimeformatinfo/geteraname/
 ---
 ## DateTimeFormatInfo::GetEraName method

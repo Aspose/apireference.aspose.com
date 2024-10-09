@@ -4,7 +4,7 @@ linktitle: CreateImage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreateImage method. Creates a rectangular path filled with an image in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/aspose.page.xps/documentutils/createimage/
 ---
 ## DocumentUtils::CreateImage method

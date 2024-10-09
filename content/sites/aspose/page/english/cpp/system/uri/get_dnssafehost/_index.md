@@ -4,7 +4,7 @@ linktitle: get_DnsSafeHost
 second_title: Aspose.Page for C++
 description: 'System::Uri::get_DnsSafeHost method. Returns an unescaped host name in C++.'
 type: docs
-weight: 1800
+weight: 600
 url: /cpp/system/uri/get_dnssafehost/
 ---
 ## Uri::get_DnsSafeHost method

@@ -4,7 +4,7 @@ linktitle: Open
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::Open method. Opens the file represented by the current object in the specified mode for reading and writing and with no sharing in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.io/fileinfo/open/
 ---
 ## FileInfo::Open(FileMode) method

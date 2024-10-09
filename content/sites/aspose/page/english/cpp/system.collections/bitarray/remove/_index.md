@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Remove method. Returns first occurance of specified value. Not implemented in C++.'
 type: docs
-weight: 1100
+weight: 1900
 url: /cpp/system.collections/bitarray/remove/
 ---
 ## BitArray::Remove method

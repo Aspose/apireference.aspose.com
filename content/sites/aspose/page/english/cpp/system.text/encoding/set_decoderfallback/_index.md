@@ -4,7 +4,7 @@ linktitle: set_DecoderFallback
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::set_DecoderFallback method. Sets decoder fallback in C++.'
 type: docs
-weight: 1600
+weight: 2800
 url: /cpp/system.text/encoding/set_decoderfallback/
 ---
 ## Encoding::set_DecoderFallback method

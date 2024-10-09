@@ -4,7 +4,7 @@ linktitle: set_Secure
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Secure method. Sets the ''Secure'' attribute''s value in C++.'
 type: docs
-weight: 2600
+weight: 3600
 url: /cpp/system.net/cookie/set_secure/
 ---
 ## Cookie::set_Secure method

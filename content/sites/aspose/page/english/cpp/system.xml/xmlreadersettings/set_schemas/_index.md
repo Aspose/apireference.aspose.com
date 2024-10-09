@@ -4,7 +4,7 @@ linktitle: set_Schemas
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_Schemas method. Sets the XmlSchemaSet to use when performing schema validation in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/system.xml/xmlreadersettings/set_schemas/
 ---
 ## XmlReaderSettings::set_Schemas method

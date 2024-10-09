@@ -4,7 +4,7 @@ linktitle: get_SendTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::get_SendTimeout method. Gets a value that indicates an amount of time after which data sending will time out in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/system.net.sockets/tcpclient/get_sendtimeout/
 ---
 ## TcpClient::get_SendTimeout method

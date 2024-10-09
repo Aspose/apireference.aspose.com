@@ -4,7 +4,7 @@ linktitle: get_IsDouble
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::get_IsDouble method. Returns true if value is floating point value in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.page.eps.xmp/xmpvalue/get_isdouble/
 ---
 ## XmpValue::get_IsDouble method

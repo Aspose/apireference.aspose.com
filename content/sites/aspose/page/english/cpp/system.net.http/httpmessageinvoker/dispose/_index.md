@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMessageInvoker::Dispose method. Disposes the current instance. This method also disposes the handler if required in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.net.http/httpmessageinvoker/dispose/
 ---
 ## HttpMessageInvoker::Dispose method

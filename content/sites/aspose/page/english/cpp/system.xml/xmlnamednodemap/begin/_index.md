@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamedNodeMap::begin method. Gets iterator to the first element of collection in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.xml/xmlnamednodemap/begin/
 ---
 ## XmlNamedNodeMap::begin method

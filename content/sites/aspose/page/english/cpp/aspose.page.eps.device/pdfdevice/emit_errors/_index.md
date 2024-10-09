@@ -4,7 +4,7 @@ linktitle: EMIT_ERRORS
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::EMIT_ERRORS method. "Emit errors" property value in C++.'
 type: docs
-weight: 1600
+weight: 700
 url: /cpp/aspose.page.eps.device/pdfdevice/emit_errors/
 ---
 ## PdfDevice::EMIT_ERRORS method

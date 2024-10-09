@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::set_Position method. Seeks position in stream. Not supported in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/system.security.cryptography/cryptostream/set_position/
 ---
 ## CryptoStream::set_Position method

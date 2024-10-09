@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection::Remove method. Deletes element from collection in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.net.http.headers/httpheadervaluecollection/remove/
 ---
 ## HttpHeaderValueCollection::Remove method

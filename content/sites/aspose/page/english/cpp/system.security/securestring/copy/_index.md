@@ -4,7 +4,7 @@ linktitle: Copy
 second_title: Aspose.Page for C++
 description: 'System::Security::SecureString::Copy method. Creates a duplicate of this secure string in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.security/securestring/copy/
 ---
 ## SecureString::Copy method

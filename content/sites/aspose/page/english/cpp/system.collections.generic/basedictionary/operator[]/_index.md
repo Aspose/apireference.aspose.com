@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::operator[] method. Accessor function in C++.'
 type: docs
-weight: 600
+weight: 1800
 url: /cpp/system.collections.generic/basedictionary/operator[]/
 ---
 ## BaseDictionary::operator[] method

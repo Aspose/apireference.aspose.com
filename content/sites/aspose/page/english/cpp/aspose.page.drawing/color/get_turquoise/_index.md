@@ -4,7 +4,7 @@ linktitle: get_Turquoise
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Turquoise method. Gets a system-defined color that has an ARGB value of #FF40E0D0 in C++.'
 type: docs
-weight: 13500
+weight: 13700
 url: /cpp/aspose.page.drawing/color/get_turquoise/
 ---
 ## Color::get_Turquoise method

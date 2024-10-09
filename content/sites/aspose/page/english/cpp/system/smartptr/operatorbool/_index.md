@@ -4,7 +4,7 @@ linktitle: operator bool
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::operator bool method. Checks if pointer is not null in C++.'
 type: docs
-weight: 1700
+weight: 2300
 url: /cpp/system/smartptr/operatorbool/
 ---
 ## SmartPtr::operator bool method

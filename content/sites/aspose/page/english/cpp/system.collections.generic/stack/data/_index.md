@@ -4,7 +4,7 @@ linktitle: data
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::data method. Internal data structure accessor in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system.collections.generic/stack/data/
 ---
 ## Stack::data() method

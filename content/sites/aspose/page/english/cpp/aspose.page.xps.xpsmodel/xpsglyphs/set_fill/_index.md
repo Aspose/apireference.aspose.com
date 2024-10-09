@@ -4,7 +4,7 @@ linktitle: set_Fill
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs::set_Fill method. Returns/sets the brush used to fill the shape of the rendered glyphs in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/set_fill/
 ---
 ## XpsGlyphs::set_Fill method

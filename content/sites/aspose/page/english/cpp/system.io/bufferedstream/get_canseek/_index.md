@@ -4,7 +4,7 @@ linktitle: get_CanSeek
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::get_CanSeek method. Determines if the stream supports seeking in C++.'
 type: docs
-weight: 1400
+weight: 500
 url: /cpp/system.io/bufferedstream/get_canseek/
 ---
 ## BufferedStream::get_CanSeek method

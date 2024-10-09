@@ -4,7 +4,7 @@ linktitle: get_Scheme
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::AuthenticationHeaderValue::get_Scheme method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.net.http.headers/authenticationheadervalue/get_scheme/
 ---
 ## AuthenticationHeaderValue::get_Scheme method

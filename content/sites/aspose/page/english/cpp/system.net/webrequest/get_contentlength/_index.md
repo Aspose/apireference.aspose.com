@@ -4,7 +4,7 @@ linktitle: get_ContentLength
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::get_ContentLength method. Gets the number of bytes of the request data to sent in C++.'
 type: docs
-weight: 2700
+weight: 1600
 url: /cpp/system.net/webrequest/get_contentlength/
 ---
 ## WebRequest::get_ContentLength method

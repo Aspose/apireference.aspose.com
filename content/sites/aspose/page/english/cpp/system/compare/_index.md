@@ -4,7 +4,7 @@ linktitle: Compare
 second_title: Aspose.Page for C++
 description: 'System::Compare method. Compares two values in C++.'
 type: docs
-weight: 32100
+weight: 14400
 url: /cpp/system/compare/
 ---
 ## System::Compare(const TA\&, const TB\&) method

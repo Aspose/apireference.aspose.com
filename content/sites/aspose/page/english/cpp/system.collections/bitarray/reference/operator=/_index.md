@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Reference::operator= method. Sets referenced bit value in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections/bitarray/reference/operator=/
 ---
 ## Reference::operator=(bool) method

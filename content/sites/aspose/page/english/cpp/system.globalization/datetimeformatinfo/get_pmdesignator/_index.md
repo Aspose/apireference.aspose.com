@@ -4,7 +4,7 @@ linktitle: get_PMDesignator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_PMDesignator method. Gets PM designator in C++.'
 type: docs
-weight: 1700
+weight: 2000
 url: /cpp/system.globalization/datetimeformatinfo/get_pmdesignator/
 ---
 ## DateTimeFormatInfo::get_PMDesignator method

@@ -4,7 +4,7 @@ linktitle: get_SystemId
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocumentType::get_SystemId method. Returns the value of the system identifier on the DOCTYPE declaration in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system.xml/xmldocumenttype/get_systemid/
 ---
 ## XmlDocumentType::get_SystemId method

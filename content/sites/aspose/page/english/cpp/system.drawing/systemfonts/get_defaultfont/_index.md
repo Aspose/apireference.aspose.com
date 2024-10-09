@@ -4,7 +4,7 @@ linktitle: get_DefaultFont
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SystemFonts::get_DefaultFont method. Returns a Font object that represents the default font that application can use for dialog boxes and forms in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.drawing/systemfonts/get_defaultfont/
 ---
 ## SystemFonts::get_DefaultFont method

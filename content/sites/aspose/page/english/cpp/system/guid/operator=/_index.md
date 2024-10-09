@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::Guid::operator= method. Assigns to the current object the GUID value represented by the specified Guid object in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system/guid/operator=/
 ---
 ## Guid::operator= method

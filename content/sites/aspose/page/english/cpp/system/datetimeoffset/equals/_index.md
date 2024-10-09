@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::Equals method. Checks if two DateTimeOffset objects represents the same time point in C++.'
 type: docs
-weight: 2900
+weight: 1200
 url: /cpp/system/datetimeoffset/equals/
 ---
 ## DateTimeOffset::Equals(const DateTimeOffset\&) const method

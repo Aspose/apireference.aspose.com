@@ -4,7 +4,7 @@ linktitle: get_ParentTable
 second_title: Aspose.Page for C++
 description: 'System::Data::DataRelation::get_ParentTable method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.data/datarelation/get_parenttable/
 ---
 ## DataRelation::get_ParentTable method

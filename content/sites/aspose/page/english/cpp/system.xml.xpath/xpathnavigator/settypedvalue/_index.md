@@ -4,7 +4,7 @@ linktitle: SetTypedValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::SetTypedValue method. Sets the typed value of the current node in C++.'
 type: docs
-weight: 2900
+weight: 7800
 url: /cpp/system.xml.xpath/xpathnavigator/settypedvalue/
 ---
 ## XPathNavigator::SetTypedValue method

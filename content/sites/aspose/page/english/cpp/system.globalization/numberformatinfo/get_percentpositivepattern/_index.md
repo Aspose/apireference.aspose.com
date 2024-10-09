@@ -4,7 +4,7 @@ linktitle: get_PercentPositivePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_PercentPositivePattern method. Gets percent positive pattern in C++.'
 type: docs
-weight: 5200
+weight: 2600
 url: /cpp/system.globalization/numberformatinfo/get_percentpositivepattern/
 ---
 ## NumberFormatInfo::get_PercentPositivePattern method

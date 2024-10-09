@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::ListImpl::Remove method. Removes the first occurrence of a specific element from the collection in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.collections/collectionbase/listimpl/remove/
 ---
 ## ListImpl::Remove method

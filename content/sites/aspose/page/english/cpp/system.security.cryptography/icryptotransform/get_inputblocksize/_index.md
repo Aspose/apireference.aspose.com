@@ -4,7 +4,7 @@ linktitle: get_InputBlockSize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ICryptoTransform::get_InputBlockSize method. Input block size in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.security.cryptography/icryptotransform/get_inputblocksize/
 ---
 ## ICryptoTransform::get_InputBlockSize method

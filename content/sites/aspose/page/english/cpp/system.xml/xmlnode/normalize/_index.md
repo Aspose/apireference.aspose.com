@@ -4,7 +4,7 @@ linktitle: Normalize
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::Normalize method. Puts all XmlText nodes in the full depth of the sub-tree underneath this XmlNode into a "normal" form where only markup (that is, tags, comments, processing instructions, CDATA sections, and entity references) separates XmlText nodes, that is, there are no adjacent XmlText nodes in C++.'
 type: docs
-weight: 3700
+weight: 3300
 url: /cpp/system.xml/xmlnode/normalize/
 ---
 ## XmlNode::Normalize method

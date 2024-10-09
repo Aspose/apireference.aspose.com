@@ -4,7 +4,7 @@ linktitle: FixedRepresentation
 second_title: Aspose.Page for C++
 description: 'How to use FixedRepresentation field of Aspose::Page::XPS::XpsDocumentRelationshipTypes class in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.page.xps/xpsdocumentrelationshiptypes/fixedrepresentation/
 ---
 ## FixedRepresentation field

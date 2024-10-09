@@ -4,7 +4,7 @@ linktitle: get_DarkCyan
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DarkCyan method. Returns a color whose ARGB value in hexadecimal notation is #FF008B8B in C++.'
 type: docs
-weight: 4500
+weight: 4400
 url: /cpp/system.drawing/color/get_darkcyan/
 ---
 ## Color::get_DarkCyan method

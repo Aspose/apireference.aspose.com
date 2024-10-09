@@ -4,7 +4,7 @@ linktitle: CheckedCast
 second_title: Aspose.Page for C++
 description: 'System::CheckedCast method. Determines if the specified value falls into the range of values of type TTo and if it does casts it to the type TTo in C++.'
 type: docs
-weight: 32700
+weight: 14300
 url: /cpp/system/checkedcast/
 ---
 ## System::CheckedCast method

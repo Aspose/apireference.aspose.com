@@ -4,7 +4,7 @@ linktitle: ValidationEventHandler_add
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::ValidationEventHandler_add method. Adds an event handler that occurs when the reader encounters validation errors in C++.'
 type: docs
-weight: 3500
+weight: 3800
 url: /cpp/system.xml/xmlreadersettings/validationeventhandler_add/
 ---
 ## XmlReaderSettings::ValidationEventHandler_add method

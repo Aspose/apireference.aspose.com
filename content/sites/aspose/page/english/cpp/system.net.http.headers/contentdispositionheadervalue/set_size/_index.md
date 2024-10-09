@@ -4,7 +4,7 @@ linktitle: set_Size
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::set_Size method. Sets an approximate file size in C++.'
 type: docs
-weight: 1700
+weight: 2000
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_size/
 ---
 ## ContentDispositionHeaderValue::set_Size method

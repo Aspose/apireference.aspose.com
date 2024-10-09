@@ -4,22 +4,20 @@ linktitle: XpsGlyphMapping
 second_title: Aspose.Page for C++
 description: 'How to use XpsGlyphMapping constructor of Aspose::Page::XPS::XpsModel::XpsGlyphMapping class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphmapping/xpsglyphmapping/
 ---
-## XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr\<XpsGlyphsClusterMap\>, float, float, float) constructor
+## XpsGlyphMapping::XpsGlyphMapping(float) constructor
 
 
 
 
 ```cpp
-Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr<XpsGlyphsClusterMap> clusterMap, float advanceWidth, float uOffset, float vOffset)
+Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(float advanceWidth)
 ```
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XpsGlyphsClusterMap](../../xpsglyphsclustermap/)
 * Class [XpsGlyphMapping](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -51,17 +49,19 @@ Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(float uOffset, flo
 * Class [XpsGlyphMapping](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)
-## XpsGlyphMapping::XpsGlyphMapping(float) constructor
+## XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr\<XpsGlyphsClusterMap\>) constructor
 
 
 
 
 ```cpp
-Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(float advanceWidth)
+Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr<XpsGlyphsClusterMap> clusterMap)
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XpsGlyphsClusterMap](../../xpsglyphsclustermap/)
 * Class [XpsGlyphMapping](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -81,13 +81,13 @@ Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr<
 * Class [XpsGlyphMapping](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)
-## XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr\<XpsGlyphsClusterMap\>) constructor
+## XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr\<XpsGlyphsClusterMap\>, float, float, float) constructor
 
 
 
 
 ```cpp
-Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr<XpsGlyphsClusterMap> clusterMap)
+Aspose::Page::XPS::XpsModel::XpsGlyphMapping::XpsGlyphMapping(System::SharedPtr<XpsGlyphsClusterMap> clusterMap, float advanceWidth, float uOffset, float vOffset)
 ```
 
 ## See Also

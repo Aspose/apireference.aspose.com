@@ -4,7 +4,7 @@ linktitle: OtherMetricFolio
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::OtherMetricFolio field. Other Metric Folio in C++.'
 type: docs
-weight: 12100
+weight: 13800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/othermetricfolio/
 ---
 ## OtherMetricFolio field

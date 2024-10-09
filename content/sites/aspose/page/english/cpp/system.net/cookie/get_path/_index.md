@@ -4,7 +4,7 @@ linktitle: get_Path
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Path method. Gets the ''Path'' attribute''s value in C++.'
 type: docs
-weight: 1900
+weight: 1400
 url: /cpp/system.net/cookie/get_path/
 ---
 ## Cookie::get_Path method

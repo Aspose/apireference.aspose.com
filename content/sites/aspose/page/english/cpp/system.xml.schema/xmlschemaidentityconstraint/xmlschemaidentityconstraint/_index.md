@@ -4,7 +4,7 @@ linktitle: XmlSchemaIdentityConstraint
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaIdentityConstraint::XmlSchemaIdentityConstraint constructor. Initializes a new instance of the XmlSchemaIdentityConstraint class in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/xmlschemaidentityconstraint/
 ---
 ## XmlSchemaIdentityConstraint::XmlSchemaIdentityConstraint constructor

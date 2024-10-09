@@ -4,7 +4,7 @@ linktitle: SharedRefRemovedSafe
 second_title: Aspose.Page for C++
 description: 'System::Object::SharedRefRemovedSafe method. Decrements and returns shared reference count. Shouldn''t be called directly; instead, use smart pointers or ThisProtector in C++.'
 type: docs
-weight: 500
+weight: 1700
 url: /cpp/system/object/sharedrefremovedsafe/
 ---
 ## Object::SharedRefRemovedSafe method

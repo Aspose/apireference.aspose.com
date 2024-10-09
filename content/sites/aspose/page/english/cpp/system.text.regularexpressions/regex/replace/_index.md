@@ -7,31 +7,6 @@ type: docs
 weight: 800
 url: /cpp/system.text.regularexpressions/regex/replace/
 ---
-## Regex::Replace(const String\&, const String\&) method
-
-
-Replaces all matches of regex in string with replacement string.
-
-```cpp
-String System::Text::RegularExpressions::Regex::Replace(const String &input, const String &replacement)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | const String\& | Input string. |
-| replacement | const String\& | Replacement string. |
-
-### ReturnValue
-
-Input string with all regex matches replaced with replacement string.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [Regex](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Regex::Replace(const String\&, const char_t *) method
 
 
@@ -138,6 +113,31 @@ Input strings with all matches replaced.
 * Class [Regex](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Page for C++](../../../)
+## Regex::Replace(const String\&, const String\&) method
+
+
+Replaces all matches of regex in string with replacement string.
+
+```cpp
+String System::Text::RegularExpressions::Regex::Replace(const String &input, const String &replacement)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | const String\& | Input string. |
+| replacement | const String\& | Replacement string. |
+
+### ReturnValue
+
+Input string with all regex matches replaced with replacement string.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [Regex](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Regex::Replace(const String\&, const String\&, int) method
 
 
@@ -220,6 +220,33 @@ Input string with all regex matches replaced with replacement string.
 * Class [Regex](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Page for C++](../../../)
+## Regex::Replace(const String\&, const String\&, const MatchEvaluator\&) method
+
+
+Replaces regex matches.
+
+```cpp
+static String System::Text::RegularExpressions::Regex::Replace(const String &input, const String &pattern, const MatchEvaluator &evaluator)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | const String\& | Input string. |
+| pattern | const String\& | Regexp pattern. |
+| evaluator | const MatchEvaluator\& | Delegate to generate replacement string for each match. |
+
+### ReturnValue
+
+[String](../../../system/string/) with all matches replaced.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [MatchEvaluator](../../matchevaluator/)
+* Class [Regex](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Regex::Replace(const String\&, const String\&, const MatchEvaluator\&, RegexOptions) method
 
 
@@ -245,34 +272,6 @@ Input strings with all matches replaced.
 
 * Class [String](../../../system/string/)
 * Typedef [MatchEvaluator](../../matchevaluator/)
-* Enum [RegexOptions](../../regexoptions/)
-* Class [Regex](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Page for C++](../../../)
-## Regex::Replace(const String\&, const String\&, const String\&, RegexOptions) method
-
-
-Replaces all matches of regex in string with replacement string.
-
-```cpp
-static String System::Text::RegularExpressions::Regex::Replace(const String &input, const String &pattern, const String &replacement, RegexOptions options)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | const String\& | Input string. |
-| pattern | const String\& | [Regex](../) pattern. |
-| replacement | const String\& | Replacement string. |
-| options | RegexOptions | [Regex](../) options. |
-
-### ReturnValue
-
-Input string with all regex matches replaced with replacement string.
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Enum [RegexOptions](../../regexoptions/)
 * Class [Regex](../)
 * Namespace [System::Text::RegularExpressions](../../)
@@ -303,30 +302,31 @@ static String System::Text::RegularExpressions::Regex::Replace(const String &inp
 * Class [Regex](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Page for C++](../../../)
-## Regex::Replace(const String\&, const String\&, const MatchEvaluator\&) method
+## Regex::Replace(const String\&, const String\&, const String\&, RegexOptions) method
 
 
-Replaces regex matches.
+Replaces all matches of regex in string with replacement string.
 
 ```cpp
-static String System::Text::RegularExpressions::Regex::Replace(const String &input, const String &pattern, const MatchEvaluator &evaluator)
+static String System::Text::RegularExpressions::Regex::Replace(const String &input, const String &pattern, const String &replacement, RegexOptions options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | const String\& | Input string. |
-| pattern | const String\& | Regexp pattern. |
-| evaluator | const MatchEvaluator\& | Delegate to generate replacement string for each match. |
+| pattern | const String\& | [Regex](../) pattern. |
+| replacement | const String\& | Replacement string. |
+| options | RegexOptions | [Regex](../) options. |
 
 ### ReturnValue
 
-[String](../../../system/string/) with all matches replaced.
+Input string with all regex matches replaced with replacement string.
 
 ## See Also
 
 * Class [String](../../../system/string/)
-* Typedef [MatchEvaluator](../../matchevaluator/)
+* Enum [RegexOptions](../../regexoptions/)
 * Class [Regex](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Page for C++](../../../)

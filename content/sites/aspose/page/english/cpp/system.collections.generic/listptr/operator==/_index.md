@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ListPtr::operator== method. Checks if List pointer is null in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.collections.generic/listptr/operator==/
 ---
 ## ListPtr::operator== method

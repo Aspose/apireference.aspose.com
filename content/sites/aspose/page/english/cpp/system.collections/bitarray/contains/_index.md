@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Contains method. Checks whether specific value is present in container. Not implemented in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/system.collections/bitarray/contains/
 ---
 ## BitArray::Contains method

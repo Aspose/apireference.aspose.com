@@ -4,7 +4,7 @@ linktitle: get_YearMonthPattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_YearMonthPattern method. Gets year and month pattern in C++.'
 type: docs
-weight: 4800
+weight: 2800
 url: /cpp/system.globalization/datetimeformatinfo/get_yearmonthpattern/
 ---
 ## DateTimeFormatInfo::get_YearMonthPattern method

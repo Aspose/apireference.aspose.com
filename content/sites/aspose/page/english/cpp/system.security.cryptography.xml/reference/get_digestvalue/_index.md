@@ -4,7 +4,7 @@ linktitle: get_DigestValue
 second_title: Aspose.Page for C++
 description: 'How to use get_DigestValue method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.security.cryptography.xml/reference/get_digestvalue/
 ---
 ## Reference::get_DigestValue method

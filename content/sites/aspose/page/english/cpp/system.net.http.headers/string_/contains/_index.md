@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection< System::String >::Contains method. Checks if element is present in collection in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.net.http.headers/string_/contains/
 ---
 ## String >::Contains method

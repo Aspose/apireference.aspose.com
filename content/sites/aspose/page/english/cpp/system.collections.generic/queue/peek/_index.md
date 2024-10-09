@@ -4,7 +4,7 @@ linktitle: Peek
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::Peek method. Gets item from the beginning of the queue, but does not remove it from queue in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.collections.generic/queue/peek/
 ---
 ## Queue::Peek method

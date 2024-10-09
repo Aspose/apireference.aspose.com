@@ -4,7 +4,7 @@ linktitle: GetPropertyColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertyColor method. Gets color property value in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/aspose.page/userproperties/getpropertycolor/
 ---
 ## UserProperties::GetPropertyColor(System::String) method

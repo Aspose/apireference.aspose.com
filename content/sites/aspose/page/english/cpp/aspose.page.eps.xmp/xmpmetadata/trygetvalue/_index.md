@@ -4,7 +4,7 @@ linktitle: TryGetValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::TryGetValue method. Tries to find key in the dictionary and retreives value if found in C++.'
 type: docs
-weight: 2100
+weight: 2500
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/trygetvalue/
 ---
 ## XmpMetadata::TryGetValue method

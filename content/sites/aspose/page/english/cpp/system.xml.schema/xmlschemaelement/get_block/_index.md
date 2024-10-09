@@ -4,7 +4,7 @@ linktitle: get_Block
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::get_Block method. Returns a Block derivation in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaelement/get_block/
 ---
 ## XmlSchemaElement::get_Block method

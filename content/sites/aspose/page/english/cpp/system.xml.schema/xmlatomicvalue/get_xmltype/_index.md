@@ -4,7 +4,7 @@ linktitle: get_XmlType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlAtomicValue::get_XmlType method. Returns the XmlSchemaType for the validated XML element or attribute in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/system.xml.schema/xmlatomicvalue/get_xmltype/
 ---
 ## XmlAtomicValue::get_XmlType method

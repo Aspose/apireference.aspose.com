@@ -4,7 +4,7 @@ linktitle: get_IsEmptyElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_IsEmptyElement method. When overridden in a derived class, gets a value that indicates whether the current node is an empty element without an end element tag in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.xml.xpath/xpathnavigator/get_isemptyelement/
 ---
 ## XPathNavigator::get_IsEmptyElement method

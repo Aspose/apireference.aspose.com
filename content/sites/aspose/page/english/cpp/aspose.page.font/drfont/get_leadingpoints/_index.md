@@ -4,7 +4,7 @@ linktitle: get_LeadingPoints
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::get_LeadingPoints method. Returns leading of this font (lis). This is a shortcut for LineSpacingLis - CellHeightLis in C++.'
 type: docs
-weight: 1500
+weight: 1200
 url: /cpp/aspose.page.font/drfont/get_leadingpoints/
 ---
 ## DrFont::get_LeadingPoints method

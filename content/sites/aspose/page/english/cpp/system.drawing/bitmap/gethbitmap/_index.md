@@ -4,7 +4,7 @@ linktitle: GetHbitmap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::GetHbitmap method. Creates a GDI bitmap object from the bitmap represented by the current object in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/system.drawing/bitmap/gethbitmap/
 ---
 ## Bitmap::GetHbitmap method

@@ -4,7 +4,7 @@ linktitle: get_Timeout
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::get_Timeout method. Gets an amount of time in milliseconds after which the request will be timed out in C++.'
 type: docs
-weight: 3500
+weight: 2400
 url: /cpp/system.net/webrequest/get_timeout/
 ---
 ## WebRequest::get_Timeout method

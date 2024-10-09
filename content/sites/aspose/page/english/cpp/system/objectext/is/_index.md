@@ -2,29 +2,28 @@
 title: System::ObjectExt::Is method
 linktitle: Is
 second_title: Aspose.Page for C++
-description: 'System::ObjectExt::Is method. Implements ''is'' operator translation. Specialization for pointer types optimized for ''final'' classes in C++.'
+description: 'System::ObjectExt::Is method. Implements ''is'' operator translation. Specialization for string literal in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system/objectext/is/
 ---
-## ObjectExt::Is(const U\&) method
+## ObjectExt::Is(const char16_t *) method
 
 
-Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes.
+Implements 'is' operator translation. Specialization for string literal.
 
 ```cpp
-template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
+template<class T> static bool System::ObjectExt::Is(const char16_t *str)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
 | T | Target type. |
-| U | Tested type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | const U\& | [Object](../../object/) to test for 'is' operator. |
+| str | const char16_t * | [String](../../string/) literal. |
 
 ### ReturnValue
 
@@ -32,28 +31,26 @@ True if 'is' returns true, false otherwise.
 
 ## See Also
 
-* Class [Object](../../object/)
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## ObjectExt::Is(const U\&) method
+## ObjectExt::Is(const ExceptionWrapper\<U\>\&) method
 
 
-Implements 'is' operator translation. Specialization for pointer types.
+Implements 'is' operator translation. Specialization for exception wrapper types.
 
 ```cpp
-template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&!std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
+template<class T,class U> static std::enable_if<IsExceptionWrapper<T>::value, bool>::type System::ObjectExt::Is(const ExceptionWrapper<U> &obj)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
 | T | Target type. |
-| U | Tested type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | const U\& | [Object](../../object/) to test for 'is' operator. |
+| obj | const ExceptionWrapper\<U\>\& | [Object](../../object/) to test for 'is' operator. |
 
 ### ReturnValue
 
@@ -61,7 +58,35 @@ True if 'is' returns true, false otherwise.
 
 ## See Also
 
-* Class [Object](../../object/)
+* Class [ExceptionWrapper](../../exceptionwrapper/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectExt::Is(const Nullable\<U\>\&) method
+
+
+Implements 'is' operator translation. Specialization for [Nullable](../../nullable/) type.
+
+```cpp
+template<class T,class U> static bool System::ObjectExt::Is(const Nullable<U> &value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Target type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const Nullable\<U\>\& | [Nullable](../../nullable/) type. |
+
+### ReturnValue
+
+True if 'is' returns true, false otherwise.
+
+## See Also
+
+* Class [Nullable](../../nullable/)
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -118,62 +143,6 @@ Always returns false as types are unconvertible.
 ## See Also
 
 * Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::Is(const SmartPtr\<U\>\&) method
-
-
-Implements 'is' operator translation. Specialization for pointer types.
-
-```cpp
-template<class T,class U> static std::enable_if<IsSmartPtr<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<U> &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Target type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const SmartPtr\<U\>\& | [Object](../../object/) to test for 'is' operator. |
-
-### ReturnValue
-
-True if 'is' returns true, false otherwise.
-
-## See Also
-
-* Class [SmartPtr](../../smartptr/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::Is(const ExceptionWrapper\<U\>\&) method
-
-
-Implements 'is' operator translation. Specialization for exception wrapper types.
-
-```cpp
-template<class T,class U> static std::enable_if<IsExceptionWrapper<T>::value, bool>::type System::ObjectExt::Is(const ExceptionWrapper<U> &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Target type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const ExceptionWrapper\<U\>\& | [Object](../../object/) to test for 'is' operator. |
-
-### ReturnValue
-
-True if 'is' returns true, false otherwise.
-
-## See Also
-
-* Class [ExceptionWrapper](../../exceptionwrapper/)
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -267,6 +236,34 @@ True if 'is' returns true, false otherwise.
 ## ObjectExt::Is(const SmartPtr\<U\>\&) method
 
 
+Implements 'is' operator translation. Specialization for pointer types.
+
+```cpp
+template<class T,class U> static std::enable_if<IsSmartPtr<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<U> &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Target type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const SmartPtr\<U\>\& | [Object](../../object/) to test for 'is' operator. |
+
+### ReturnValue
+
+True if 'is' returns true, false otherwise.
+
+## See Also
+
+* Class [SmartPtr](../../smartptr/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectExt::Is(const SmartPtr\<U\>\&) method
+
+
 Implements 'is' operator translation. Specialization for enum types.
 
 ```cpp
@@ -290,6 +287,64 @@ True if 'is' returns true, false otherwise.
 ## See Also
 
 * Class [SmartPtr](../../smartptr/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectExt::Is(const U\&) method
+
+
+Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes.
+
+```cpp
+template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Target type. |
+| U | Tested type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const U\& | [Object](../../object/) to test for 'is' operator. |
+
+### ReturnValue
+
+True if 'is' returns true, false otherwise.
+
+## See Also
+
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectExt::Is(const U\&) method
+
+
+Implements 'is' operator translation. Specialization for pointer types.
+
+```cpp
+template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&!std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Target type. |
+| U | Tested type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const U\& | [Object](../../object/) to test for 'is' operator. |
+
+### ReturnValue
+
+True if 'is' returns true, false otherwise.
+
+## See Also
+
+* Class [Object](../../object/)
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -319,61 +374,6 @@ True if 'is' returns true, false otherwise.
 ## See Also
 
 * Class [WeakPtr](../../weakptr/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::Is(const Nullable\<U\>\&) method
-
-
-Implements 'is' operator translation. Specialization for [Nullable](../../nullable/) type.
-
-```cpp
-template<class T,class U> static bool System::ObjectExt::Is(const Nullable<U> &value)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Target type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const Nullable\<U\>\& | [Nullable](../../nullable/) type. |
-
-### ReturnValue
-
-True if 'is' returns true, false otherwise.
-
-## See Also
-
-* Class [Nullable](../../nullable/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::Is(const char16_t *) method
-
-
-Implements 'is' operator translation. Specialization for string literal.
-
-```cpp
-template<class T> static bool System::ObjectExt::Is(const char16_t *str)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Target type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | const char16_t * | [String](../../string/) literal. |
-
-### ReturnValue
-
-True if 'is' returns true, false otherwise.
-
-## See Also
-
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::FileResult::get_Data method. Gets raw data in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.page.plugins/fileresult/get_data/
 ---
 ## FileResult::get_Data method

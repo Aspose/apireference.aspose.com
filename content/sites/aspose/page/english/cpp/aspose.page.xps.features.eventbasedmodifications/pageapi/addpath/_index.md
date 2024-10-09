@@ -4,7 +4,7 @@ linktitle: AddPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::AddPath method. Adds a new path to the page in C++.'
 type: docs
-weight: 1600
+weight: 500
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/addpath/
 ---
 ## PageAPI::AddPath method

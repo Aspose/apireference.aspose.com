@@ -4,7 +4,7 @@ linktitle: Replace
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::Replace method. Replace font content in C++.'
 type: docs
-weight: 2000
+weight: 2500
 url: /cpp/aspose.page.font/drfont/replace/
 ---
 ## DrFont::Replace method

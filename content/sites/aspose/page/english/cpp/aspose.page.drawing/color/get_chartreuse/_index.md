@@ -4,7 +4,7 @@ linktitle: get_Chartreuse
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Chartreuse method. Gets a system-defined color that has an ARGB value of #FF7FFF00 in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.page.drawing/color/get_chartreuse/
 ---
 ## Color::get_Chartreuse method

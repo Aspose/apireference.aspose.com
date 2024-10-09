@@ -4,7 +4,7 @@ linktitle: GetManifestResourceNames
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::GetManifestResourceNames method. Gets names of manifest resources in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.reflection/assembly/getmanifestresourcenames/
 ---
 ## Assembly::GetManifestResourceNames method

@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::Add method. Adds element to the end of the list in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/system.collections.generic/linkedlist/add/
 ---
 ## LinkedList::Add method

@@ -4,7 +4,7 @@ linktitle: get_ContentType
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::get_ContentType method. Gets a value of the ''Content-Type'' header in C++.'
 type: docs
-weight: 1400
+weight: 1000
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contenttype/
 ---
 ## HttpContentHeaders::get_ContentType method

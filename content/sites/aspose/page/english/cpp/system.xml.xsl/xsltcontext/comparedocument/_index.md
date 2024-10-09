@@ -4,7 +4,7 @@ linktitle: CompareDocument
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltContext::CompareDocument method. When overridden in a derived class, compares the base Uniform Resource Identifiers (URIs) of two documents based upon the order the documents were loaded by the XSLT processor (that is, the XslTransform class) in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.xml.xsl/xsltcontext/comparedocument/
 ---
 ## XsltContext::CompareDocument method

@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpContent::Dispose method. Disposes the current instance. This method also disposes the stream that is returned by ''ReadAsStream'' and the memory buffer if it is created in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.net.http/httpcontent/dispose/
 ---
 ## HttpContent::Dispose method

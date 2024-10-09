@@ -4,7 +4,7 @@ linktitle: get_StyleSimulations
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs::get_StyleSimulations method. Returns/sets the value specifying a style simulation in C++.'
 type: docs
-weight: 1800
+weight: 1000
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/get_stylesimulations/
 ---
 ## XpsGlyphs::get_StyleSimulations method

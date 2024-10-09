@@ -4,7 +4,7 @@ linktitle: WriteBinHex
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteBinHex method. When overridden in a derived class, encodes the specified binary bytes as BinHex and writes out the resulting text in C++.'
 type: docs
-weight: 2500
+weight: 1200
 url: /cpp/system.xml/xmlwriter/writebinhex/
 ---
 ## XmlWriter::WriteBinHex method

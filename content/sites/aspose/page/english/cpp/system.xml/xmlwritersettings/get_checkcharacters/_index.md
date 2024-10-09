@@ -4,7 +4,7 @@ linktitle: get_CheckCharacters
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_CheckCharacters method. Returns a value that indicates whether the XML writer should check to ensure that all characters in the document conform to the "2.2 Characters" section of the W3C  in C++.'
 type: docs
-weight: 1900
+weight: 300
 url: /cpp/system.xml/xmlwritersettings/get_checkcharacters/
 ---
 ## XmlWriterSettings::get_CheckCharacters method

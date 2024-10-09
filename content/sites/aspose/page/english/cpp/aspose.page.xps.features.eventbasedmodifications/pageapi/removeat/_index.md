@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::RemoveAt method. Removes an element at index  position from the page in C++.'
 type: docs
-weight: 1100
+weight: 3300
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/removeat/
 ---
 ## PageAPI::RemoveAt method

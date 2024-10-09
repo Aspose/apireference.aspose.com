@@ -2,11 +2,25 @@
 title: System::Globalization::JulianCalendar::GetMonthsInYear method
 linktitle: GetMonthsInYear
 second_title: Aspose.Page for C++
-description: 'System::Globalization::JulianCalendar::GetMonthsInYear method. Gets number of months in the specified year in C++.'
+description: 'System::Globalization::JulianCalendar::GetMonthsInYear method. RTTI information in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.globalization/juliancalendar/getmonthsinyear/
 ---
+## JulianCalendar::GetMonthsInYear(int) const method
+
+
+RTTI information.
+
+```cpp
+virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
+```
+
+## See Also
+
+* Class [JulianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## JulianCalendar::GetMonthsInYear(int, int) const method
 
 
@@ -25,20 +39,6 @@ int System::Globalization::JulianCalendar::GetMonthsInYear(int year, int era) co
 ### ReturnValue
 
 Number of months in the specified year of specified era.
-
-## See Also
-
-* Class [JulianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## JulianCalendar::GetMonthsInYear(int) const method
-
-
-RTTI information.
-
-```cpp
-virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
-```
 
 ## See Also
 

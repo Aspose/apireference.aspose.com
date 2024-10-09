@@ -4,9 +4,49 @@ linktitle: AddEllipse
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::AddEllipse method. Adds the specified ellipse to the path represented by the current object in C++.'
 type: docs
-weight: 1600
+weight: 800
 url: /cpp/system.drawing.drawing2d/graphicspath/addellipse/
 ---
+## GraphicsPath::AddEllipse(const Rectangle\&) method
+
+
+Adds the specified ellipse to the path represented by the current object.
+
+```cpp
+void System::Drawing::Drawing2D::GraphicsPath::AddEllipse(const Rectangle &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const Rectangle\& | Specifies a rectangle that bounds the ellipse to add |
+
+## See Also
+
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Page for C++](../../../)
+## GraphicsPath::AddEllipse(const RectangleF\&) method
+
+
+Adds the specified ellipse to the path represented by the current object.
+
+```cpp
+void System::Drawing::Drawing2D::GraphicsPath::AddEllipse(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | Specifies a rectangle that bounds the ellipse to add |
+
+## See Also
+
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Page for C++](../../../)
 ## GraphicsPath::AddEllipse(float, float, float, float) method
 
 
@@ -48,46 +88,6 @@ void System::Drawing::Drawing2D::GraphicsPath::AddEllipse(int x, int y, int widt
 
 ## See Also
 
-* Class [GraphicsPath](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Page for C++](../../../)
-## GraphicsPath::AddEllipse(const RectangleF\&) method
-
-
-Adds the specified ellipse to the path represented by the current object.
-
-```cpp
-void System::Drawing::Drawing2D::GraphicsPath::AddEllipse(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | Specifies a rectangle that bounds the ellipse to add |
-
-## See Also
-
-* Class [RectangleF](../../../system.drawing/rectanglef/)
-* Class [GraphicsPath](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Page for C++](../../../)
-## GraphicsPath::AddEllipse(const Rectangle\&) method
-
-
-Adds the specified ellipse to the path represented by the current object.
-
-```cpp
-void System::Drawing::Drawing2D::GraphicsPath::AddEllipse(const Rectangle &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const Rectangle\& | Specifies a rectangle that bounds the ellipse to add |
-
-## See Also
-
-* Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [GraphicsPath](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.Page for C++](../../../)

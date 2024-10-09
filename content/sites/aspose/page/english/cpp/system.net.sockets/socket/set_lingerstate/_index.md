@@ -4,7 +4,7 @@ linktitle: set_LingerState
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_LingerState method. Sets a value that indicates if the socket will delay closing in an attempt to send all pending data in C++.'
 type: docs
-weight: 2500
+weight: 5400
 url: /cpp/system.net.sockets/socket/set_lingerstate/
 ---
 ## Socket::set_LingerState method

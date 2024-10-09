@@ -4,7 +4,7 @@ linktitle: KeyInfo
 second_title: Aspose.Page for C++
 description: 'How to use KeyInfo constructor of System::Security::Cryptography::Xml::KeyInfo class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.security.cryptography.xml/keyinfo/keyinfo/
 ---
 ## KeyInfo::KeyInfo constructor

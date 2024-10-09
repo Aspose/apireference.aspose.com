@@ -4,7 +4,7 @@ linktitle: Set
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::Set method. Sets the value of an entry in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/system.collections.specialized/namevaluecollection/set/
 ---
 ## NameValueCollection::Set method

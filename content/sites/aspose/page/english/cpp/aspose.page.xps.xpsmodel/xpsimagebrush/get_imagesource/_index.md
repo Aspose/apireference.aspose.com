@@ -4,7 +4,7 @@ linktitle: get_ImageSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsImageBrush::get_ImageSource method. Returns the URI of an image resource in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpsimagebrush/get_imagesource/
 ---
 ## XpsImageBrush::get_ImageSource method

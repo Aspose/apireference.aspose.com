@@ -4,7 +4,7 @@ linktitle: MaxValue
 second_title: Aspose.Page for C++
 description: 'System::Byte::MaxValue field. Largest possible value in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system/byte/maxvalue/
 ---
 ## MaxValue field

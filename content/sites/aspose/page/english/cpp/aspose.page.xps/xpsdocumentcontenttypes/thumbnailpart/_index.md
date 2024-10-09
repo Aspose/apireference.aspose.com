@@ -4,7 +4,7 @@ linktitle: ThumbnailPart
 second_title: Aspose.Page for C++
 description: 'How to use ThumbnailPart field of Aspose::Page::XPS::XpsDocumentContentTypes class in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.page.xps/xpsdocumentcontenttypes/thumbnailpart/
 ---
 ## ThumbnailPart field

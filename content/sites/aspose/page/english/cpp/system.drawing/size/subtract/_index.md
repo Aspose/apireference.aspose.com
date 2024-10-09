@@ -4,7 +4,7 @@ linktitle: Subtract
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::Subtract method. Returns a new Size object that is the results of subctraction of size2 from size1, i.e. whose width value is the result of subtraction of size2''s width value from size1''s width value and height value is the result of subtraction of size2''s height value from size1''s height value in C++.'
 type: docs
-weight: 1300
+weight: 1500
 url: /cpp/system.drawing/size/subtract/
 ---
 ## Size::Subtract method

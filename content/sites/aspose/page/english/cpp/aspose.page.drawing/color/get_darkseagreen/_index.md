@@ -4,7 +4,7 @@ linktitle: get_DarkSeaGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DarkSeaGreen method. Gets a system-defined color that has an ARGB value of #FF8FBC8F in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/aspose.page.drawing/color/get_darkseagreen/
 ---
 ## Color::get_DarkSeaGreen method

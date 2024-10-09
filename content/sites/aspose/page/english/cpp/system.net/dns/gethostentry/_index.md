@@ -4,7 +4,7 @@ linktitle: GetHostEntry
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::GetHostEntry method. Creates a new IPHostEntry-class instance using the specified string that contains a host name or IP address in C++.'
 type: docs
-weight: 700
+weight: 1200
 url: /cpp/system.net/dns/gethostentry/
 ---
 ## Dns::GetHostEntry(String) method

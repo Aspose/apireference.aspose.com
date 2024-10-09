@@ -4,7 +4,7 @@ linktitle: MoveToNext
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToNext method. When overridden in a derived class, moves the XPathNavigator to the next sibling node of the current node in C++.'
 type: docs
-weight: 4600
+weight: 6000
 url: /cpp/system.xml.xpath/xpathnavigator/movetonext/
 ---
 ## XPathNavigator::MoveToNext() method

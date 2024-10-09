@@ -4,7 +4,7 @@ linktitle: GetBrightness
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::GetBrightness method. Gets the hue-saturation-brightness (HSB) brightness value for this T:Aspose::Page::Drawing::Color structure in C++.'
 type: docs
-weight: 15100
+weight: 15400
 url: /cpp/aspose.page.drawing/color/getbrightness/
 ---
 ## Color::GetBrightness method

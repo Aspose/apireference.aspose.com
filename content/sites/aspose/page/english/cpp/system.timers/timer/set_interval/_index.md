@@ -4,7 +4,7 @@ linktitle: set_Interval
 second_title: Aspose.Page for C++
 description: 'System::Timers::Timer::set_Interval method. Sets timer interval in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.timers/timer/set_interval/
 ---
 ## Timer::set_Interval method

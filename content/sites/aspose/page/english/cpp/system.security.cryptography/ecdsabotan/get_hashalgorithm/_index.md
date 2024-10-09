@@ -4,7 +4,7 @@ linktitle: get_HashAlgorithm
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ECDsaBotan::get_HashAlgorithm method. Gets hash algortihm in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.security.cryptography/ecdsabotan/get_hashalgorithm/
 ---
 ## ECDsaBotan::get_HashAlgorithm method

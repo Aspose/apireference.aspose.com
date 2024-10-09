@@ -4,7 +4,7 @@ linktitle: operator+
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator+ method. Returns a new instance of Decimal class that represents a value that is a sum of values represented by the current and specified objects in C++.'
 type: docs
-weight: 700
+weight: 1500
 url: /cpp/system/decimal/operator+/
 ---
 ## Decimal::operator+ method

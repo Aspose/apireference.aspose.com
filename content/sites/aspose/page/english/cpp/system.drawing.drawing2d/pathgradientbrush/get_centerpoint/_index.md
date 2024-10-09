@@ -4,7 +4,7 @@ linktitle: get_CenterPoint
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::get_CenterPoint method. Gets the center point of the gradient in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_centerpoint/
 ---
 ## PathGradientBrush::get_CenterPoint method

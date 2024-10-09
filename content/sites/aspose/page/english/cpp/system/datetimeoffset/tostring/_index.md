@@ -2,25 +2,20 @@
 title: System::DateTimeOffset::ToString method
 linktitle: ToString
 second_title: Aspose.Page for C++
-description: 'System::DateTimeOffset::ToString method. Converts current object to string using the specified format and format provider in C++.'
+description: 'System::DateTimeOffset::ToString method. Converts current object to string in C++.'
 type: docs
-weight: 3500
+weight: 4500
 url: /cpp/system/datetimeoffset/tostring/
 ---
-## DateTimeOffset::ToString(const String\&, const SharedPtr\<IFormatProvider\>\&) const method
+## DateTimeOffset::ToString() const method
 
 
-Converts current object to string using the specified format and format provider.
+Converts current object to string.
 
 ```cpp
-String System::DateTimeOffset::ToString(const String &format, const SharedPtr<IFormatProvider> &provider) const
+String System::DateTimeOffset::ToString() const
 ```
 
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | const String\& | Format string. |
-| provider | const SharedPtr\<IFormatProvider\>\& | Format provider. |
 
 ### ReturnValue
 
@@ -29,8 +24,6 @@ String System::DateTimeOffset::ToString(const String &format, const SharedPtr<IF
 ## See Also
 
 * Class [String](../../string/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IFormatProvider](../../iformatprovider/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -84,15 +77,20 @@ String System::DateTimeOffset::ToString(const String &format) const
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## DateTimeOffset::ToString() const method
+## DateTimeOffset::ToString(const String\&, const SharedPtr\<IFormatProvider\>\&) const method
 
 
-Converts current object to string.
+Converts current object to string using the specified format and format provider.
 
 ```cpp
-String System::DateTimeOffset::ToString() const
+String System::DateTimeOffset::ToString(const String &format, const SharedPtr<IFormatProvider> &provider) const
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| format | const String\& | Format string. |
+| provider | const SharedPtr\<IFormatProvider\>\& | Format provider. |
 
 ### ReturnValue
 
@@ -101,6 +99,8 @@ String System::DateTimeOffset::ToString() const
 ## See Also
 
 * Class [String](../../string/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [IFormatProvider](../../iformatprovider/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

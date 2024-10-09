@@ -4,7 +4,7 @@ linktitle: get_Implementation
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::get_Implementation method. Returns the XmlImplementation object for the current document in C++.'
 type: docs
-weight: 300
+weight: 2000
 url: /cpp/system.xml/xmldocument/get_implementation/
 ---
 ## XmlDocument::get_Implementation method

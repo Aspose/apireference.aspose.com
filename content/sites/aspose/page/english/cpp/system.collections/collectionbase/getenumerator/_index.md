@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::GetEnumerator method. Returns an enumerator that iterates through the collection instance in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.collections/collectionbase/getenumerator/
 ---
 ## CollectionBase::GetEnumerator method

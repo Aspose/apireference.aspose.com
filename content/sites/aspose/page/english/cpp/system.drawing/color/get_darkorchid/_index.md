@@ -4,7 +4,7 @@ linktitle: get_DarkOrchid
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DarkOrchid method. Returns a color whose ARGB value in hexadecimal notation is #FF9932CC in C++.'
 type: docs
-weight: 5300
+weight: 5200
 url: /cpp/system.drawing/color/get_darkorchid/
 ---
 ## Color::get_DarkOrchid method

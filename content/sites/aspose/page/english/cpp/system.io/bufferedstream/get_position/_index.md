@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::get_Position method. Returns the current position of the stream in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/system.io/bufferedstream/get_position/
 ---
 ## BufferedStream::get_Position method

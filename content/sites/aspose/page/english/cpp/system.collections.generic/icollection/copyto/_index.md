@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::CopyTo method. Copies all collection elements to existing array elements in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.collections.generic/icollection/copyto/
 ---
 ## ICollection::CopyTo method

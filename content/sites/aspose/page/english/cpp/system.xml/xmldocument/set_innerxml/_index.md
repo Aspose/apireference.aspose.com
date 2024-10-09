@@ -4,7 +4,7 @@ linktitle: set_InnerXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::set_InnerXml method. Sets the markup representing the children of the current node in C++.'
 type: docs
-weight: 1700
+weight: 3900
 url: /cpp/system.xml/xmldocument/set_innerxml/
 ---
 ## XmlDocument::set_InnerXml method

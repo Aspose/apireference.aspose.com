@@ -4,7 +4,7 @@ linktitle: set_ElementFormDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_ElementFormDefault method. Sets the form for elements declared in the target namespace of the schema in C++.'
 type: docs
-weight: 800
+weight: 2200
 url: /cpp/system.xml.schema/xmlschema/set_elementformdefault/
 ---
 ## XmlSchema::set_ElementFormDefault method

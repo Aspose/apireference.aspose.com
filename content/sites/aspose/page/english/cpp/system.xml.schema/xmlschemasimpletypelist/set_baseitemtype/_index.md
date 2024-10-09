@@ -4,7 +4,7 @@ linktitle: set_BaseItemType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeList::set_BaseItemType method. Sets the XmlSchemaSimpleType representing the type of the simpleType element based on the XmlSchemaSimpleTypeList::get_ItemType and XmlSchemaSimpleTypeList::get_ItemTypeName values of the simple type in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/set_baseitemtype/
 ---
 ## XmlSchemaSimpleTypeList::set_BaseItemType method

@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::idx_set method. Sets keyed object in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/idx_set/
 ---
 ## SqlConnectionStringBuilder::idx_set method

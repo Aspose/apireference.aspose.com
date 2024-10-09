@@ -4,7 +4,7 @@ linktitle: get_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaImport::get_Namespace method. Returns the target namespace for the imported schema as a Uniform Resource Identifier (URI) reference in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemaimport/get_namespace/
 ---
 ## XmlSchemaImport::get_Namespace method

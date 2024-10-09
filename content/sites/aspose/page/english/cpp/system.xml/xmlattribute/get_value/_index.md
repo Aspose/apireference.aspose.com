@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::get_Value method. Returns the value of the node in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/system.xml/xmlattribute/get_value/
 ---
 ## XmlAttribute::get_Value method

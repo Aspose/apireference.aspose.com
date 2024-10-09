@@ -4,7 +4,7 @@ linktitle: Transform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::Transform method. Transforms the path represented by the current object by applying the specified transform matrix to it in C++.'
 type: docs
-weight: 3000
+weight: 3700
 url: /cpp/system.drawing.drawing2d/graphicspath/transform/
 ---
 ## GraphicsPath::Transform(const MatrixPtr\&) method

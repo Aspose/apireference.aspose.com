@@ -4,7 +4,7 @@ linktitle: GetTextWidthPoints
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::GetTextWidthPoints method. Gets the text width points in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/aspose.page.font/drfont/gettextwidthpoints/
 ---
 ## DrFont::GetTextWidthPoints(System::String) method

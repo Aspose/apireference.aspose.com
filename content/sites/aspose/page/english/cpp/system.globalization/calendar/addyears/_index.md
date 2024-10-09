@@ -4,7 +4,7 @@ linktitle: AddYears
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::AddYears method. Adds years to time point in C++.'
 type: docs
-weight: 1400
+weight: 900
 url: /cpp/system.globalization/calendar/addyears/
 ---
 ## Calendar::AddYears method

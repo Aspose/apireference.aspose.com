@@ -4,7 +4,7 @@ linktitle: is
 second_title: Aspose.Page for C++
 description: 'System::DefaultBoxedValue::is method. Determines if the type of the boxed value represented by the current object is V in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system/defaultboxedvalue/is/
 ---
 ## DefaultBoxedValue::is method

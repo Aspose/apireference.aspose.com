@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'How to use GetHashCode method of System::MulticastDelegate< ReturnType(ArgumentTypes...)> class in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/gethashcode/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::GetHashCode method

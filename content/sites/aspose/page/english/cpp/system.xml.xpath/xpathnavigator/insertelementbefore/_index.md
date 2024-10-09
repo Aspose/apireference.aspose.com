@@ -4,7 +4,7 @@ linktitle: InsertElementBefore
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::InsertElementBefore method. Creates a new sibling element before the current node using the namespace prefix, local name, and namespace URI specified, with the value specified in C++.'
 type: docs
-weight: 7900
+weight: 4400
 url: /cpp/system.xml.xpath/xpathnavigator/insertelementbefore/
 ---
 ## XPathNavigator::InsertElementBefore method

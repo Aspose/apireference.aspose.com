@@ -4,7 +4,7 @@ linktitle: get_MaxCharCount
 second_title: Aspose.Page for C++
 description: 'System::Text::DecoderExceptionFallback::get_MaxCharCount method. Gets maximal count of characters the instance can return in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.text/decoderexceptionfallback/get_maxcharcount/
 ---
 ## DecoderExceptionFallback::get_MaxCharCount method

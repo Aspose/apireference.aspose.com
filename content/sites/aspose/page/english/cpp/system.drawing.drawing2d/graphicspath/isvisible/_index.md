@@ -4,7 +4,7 @@ linktitle: IsVisible
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::IsVisible method. Determines if the specified point is contained within the path represented by the current object in C++.'
 type: docs
-weight: 3300
+weight: 3100
 url: /cpp/system.drawing.drawing2d/graphicspath/isvisible/
 ---
 ## GraphicsPath::IsVisible(const PointF\&) method

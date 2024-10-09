@@ -4,7 +4,7 @@ linktitle: get_Filled
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::AdjustableArrowCap::get_Filled method. Returns a value that indicates if the arrow represented by the current object is filled in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.drawing.drawing2d/adjustablearrowcap/get_filled/
 ---
 ## AdjustableArrowCap::get_Filled method

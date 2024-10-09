@@ -4,7 +4,7 @@ linktitle: ForEach
 second_title: Aspose.Page for C++
 description: 'System::Array::ForEach method. Performs specified action on each element of the specified array in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/system/array/foreach/
 ---
 ## Array::ForEach method

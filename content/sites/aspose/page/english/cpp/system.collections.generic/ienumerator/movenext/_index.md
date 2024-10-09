@@ -4,7 +4,7 @@ linktitle: MoveNext
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerator::MoveNext method. Moves enumerator to the next element. If no element was referenced before, sets reference to the first element available. If container end was hit, does nothing in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.collections.generic/ienumerator/movenext/
 ---
 ## IEnumerator::MoveNext method

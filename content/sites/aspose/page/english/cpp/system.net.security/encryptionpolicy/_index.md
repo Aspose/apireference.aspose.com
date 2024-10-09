@@ -4,7 +4,7 @@ linktitle: EncryptionPolicy
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::EncryptionPolicy enum. Enumerates the encryption policies in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.net.security/encryptionpolicy/
 ---
 ## EncryptionPolicy enum

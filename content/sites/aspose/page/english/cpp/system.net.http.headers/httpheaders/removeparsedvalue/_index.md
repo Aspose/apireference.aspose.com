@@ -4,7 +4,7 @@ linktitle: RemoveParsedValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::RemoveParsedValue method. Gets a header by the specified name and removes a parsed value from the header in C++.'
 type: docs
-weight: 1600
+weight: 1300
 url: /cpp/system.net.http.headers/httpheaders/removeparsedvalue/
 ---
 ## HttpHeaders::RemoveParsedValue method

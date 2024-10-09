@@ -21,26 +21,6 @@ System::Collections::Generic::KeyValuePair<TKey, TValue>::KeyValuePair()
 * Class [KeyValuePair](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## KeyValuePair::KeyValuePair(const TKey\&, const TValue\&) constructor
-
-
-Constructor.
-
-```cpp
-System::Collections::Generic::KeyValuePair<TKey, TValue>::KeyValuePair(const TKey &key, const TValue &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | const TKey\& | Key. |
-| value | const TValue\& | Value. |
-
-## See Also
-
-* Class [KeyValuePair](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## KeyValuePair::KeyValuePair(const std::pair\<OtherK, OtherV\>\&) constructor
 
 
@@ -59,6 +39,26 @@ template<typename OtherK,typename OtherV> System::Collections::Generic::KeyValue
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pair | const std::pair\<OtherK, OtherV\>\& | Pair value. |
+
+## See Also
+
+* Class [KeyValuePair](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## KeyValuePair::KeyValuePair(const TKey\&, const TValue\&) constructor
+
+
+Constructor.
+
+```cpp
+System::Collections::Generic::KeyValuePair<TKey, TValue>::KeyValuePair(const TKey &key, const TValue &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | const TKey\& | Key. |
+| value | const TValue\& | Value. |
 
 ## See Also
 

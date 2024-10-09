@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::IO::DirectoryInfo::get_Name method. Returns the name of the entity referred to by the path represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/system.io/directoryinfo/get_name/
 ---
 ## DirectoryInfo::get_Name method

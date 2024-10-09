@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField::Equals method. Indicates whether this instance and a specified object are equal in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/aspose.page.eps.xmp/xmpfield/equals/
 ---
 ## XmpField::Equals method

@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Name method. Sets the cookie''s name in C++.'
 type: docs
-weight: 1800
+weight: 3300
 url: /cpp/system.net/cookie/set_name/
 ---
 ## Cookie::set_Name method

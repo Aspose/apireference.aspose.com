@@ -4,7 +4,7 @@ linktitle: SetColorMatrices
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::SetColorMatrices method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.drawing.imaging/imageattributes/setcolormatrices/
 ---
 ## ImageAttributes::SetColorMatrices method

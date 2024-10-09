@@ -4,7 +4,7 @@ linktitle: get_Trailer
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_Trailer method. Returns a value of the ''Trailer'' header in C++.'
 type: docs
-weight: 2200
+weight: 1500
 url: /cpp/system.net.http.headers/httpresponseheaders/get_trailer/
 ---
 ## HttpResponseHeaders::get_Trailer method

@@ -4,7 +4,7 @@ linktitle: get_Length
 second_title: Aspose.Page for C++
 description: 'System::IO::MemoryStream::get_Length method. Returns the length of the stream in bytes in C++.'
 type: docs
-weight: 1700
+weight: 800
 url: /cpp/system.io/memorystream/get_length/
 ---
 ## MemoryStream::get_Length method

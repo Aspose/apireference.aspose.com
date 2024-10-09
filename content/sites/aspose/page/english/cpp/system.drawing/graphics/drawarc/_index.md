@@ -4,36 +4,9 @@ linktitle: DrawArc
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawArc method. Draws the specified arc using the specified pen on the surface represented by the current object in C++.'
 type: docs
-weight: 2000
+weight: 1000
 url: /cpp/system.drawing/graphics/drawarc/
 ---
-## Graphics::DrawArc(const SharedPtr\<Pen\>\&, int32_t, int32_t, int32_t, int32_t, int32_t, int32_t) method
-
-
-Draws the specified arc using the specified pen on the surface represented by the current object.
-
-```cpp
-void System::Drawing::Graphics::DrawArc(const SharedPtr<Pen> &pen, int32_t x, int32_t y, int32_t width, int32_t height, int32_t startAngle, int32_t sweepAngle)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pen | const SharedPtr\<Pen\>\& | A pen to use when drawing the arc |
-| x | int32_t | The X coordinate of the upper left corner of the rectangle that defines the ellipse |
-| y | int32_t | The Y coordinate of the upper left corner of the rectangle that defines the ellipse |
-| width | int32_t | The width of the rectangle that defines the ellipse |
-| height | int32_t | The height of the rectangle that defines the ellipse |
-| startAngle | int32_t | Angle in degrees measured clockwise from the X axis to the starting point of the arc |
-| sweepAngle | int32_t | Angle in degrees measured clockwise from the **startAngle** to ending point of the arc |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Pen](../../pen/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Graphics::DrawArc(const SharedPtr\<Pen\>\&, float, float, float, float, float, float) method
 
 
@@ -53,6 +26,33 @@ void System::Drawing::Graphics::DrawArc(const SharedPtr<Pen> &pen, float x, floa
 | height | float | The height of the rectangle that defines the ellipse |
 | startAngle | float | Angle in degrees measured clockwise from the X axis to the starting point of the arc |
 | sweepAngle | float | Angle in degrees measured clockwise from the **startAngle** to ending point of the arc |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Graphics::DrawArc(const SharedPtr\<Pen\>\&, int32_t, int32_t, int32_t, int32_t, int32_t, int32_t) method
+
+
+Draws the specified arc using the specified pen on the surface represented by the current object.
+
+```cpp
+void System::Drawing::Graphics::DrawArc(const SharedPtr<Pen> &pen, int32_t x, int32_t y, int32_t width, int32_t height, int32_t startAngle, int32_t sweepAngle)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pen | const SharedPtr\<Pen\>\& | A pen to use when drawing the arc |
+| x | int32_t | The X coordinate of the upper left corner of the rectangle that defines the ellipse |
+| y | int32_t | The Y coordinate of the upper left corner of the rectangle that defines the ellipse |
+| width | int32_t | The width of the rectangle that defines the ellipse |
+| height | int32_t | The height of the rectangle that defines the ellipse |
+| startAngle | int32_t | Angle in degrees measured clockwise from the X axis to the starting point of the arc |
+| sweepAngle | int32_t | Angle in degrees measured clockwise from the **startAngle** to ending point of the arc |
 
 ## See Also
 

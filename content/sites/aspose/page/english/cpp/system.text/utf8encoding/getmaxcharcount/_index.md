@@ -4,7 +4,7 @@ linktitle: GetMaxCharCount
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF8Encoding::GetMaxCharCount method. Get the maximum number of characters needed to decode a specified number of bytes in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.text/utf8encoding/getmaxcharcount/
 ---
 ## UTF8Encoding::GetMaxCharCount method

@@ -32,34 +32,6 @@ Time interval that corresponds to string.
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## TimeSpan::Parse(const String\&, const SharedPtr\<IFormatProvider\>\&) method
-
-
-Converts string to equivalent [TimeSpan](../) object using the specified format provider.
-
-```cpp
-static TimeSpan System::TimeSpan::Parse(const String &input, const SharedPtr<IFormatProvider> &provider)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | const String\& | Input string. |
-| provider | const SharedPtr\<IFormatProvider\>\& | Format provider that supplies culture-specific formatting information. |
-
-### ReturnValue
-
-Time interval that corresponds to string.
-
-## See Also
-
-* Class [TimeSpan](../)
-* Class [String](../../string/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IFormatProvider](../../iformatprovider/)
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TimeSpan::Parse(const String\&, const SharedPtr\<Globalization::CultureInfo\>\&) method
 
 
@@ -93,6 +65,34 @@ static TimeSpan System::TimeSpan::Parse(const String &input, const SharedPtr<Glo
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## TimeSpan::Parse(const String\&, const SharedPtr\<IFormatProvider\>\&) method
+
+
+Converts string to equivalent [TimeSpan](../) object using the specified format provider.
+
+```cpp
+static TimeSpan System::TimeSpan::Parse(const String &input, const SharedPtr<IFormatProvider> &provider)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | const String\& | Input string. |
+| provider | const SharedPtr\<IFormatProvider\>\& | Format provider that supplies culture-specific formatting information. |
+
+### ReturnValue
+
+Time interval that corresponds to string.
+
+## See Also
+
+* Class [TimeSpan](../)
+* Class [String](../../string/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [IFormatProvider](../../iformatprovider/)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

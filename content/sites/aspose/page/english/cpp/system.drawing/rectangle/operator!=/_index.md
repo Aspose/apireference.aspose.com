@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::operator!= method. Always returns true in C++.'
 type: docs
-weight: 2600
+weight: 2100
 url: /cpp/system.drawing/rectangle/operator!=/
 ---
 ## Rectangle::operator!= method

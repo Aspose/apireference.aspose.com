@@ -4,7 +4,7 @@ linktitle: get_IsFile
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::FileResult::get_IsFile method. Indicates whether the result is a path to an output file in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.plugins/fileresult/get_isfile/
 ---
 ## FileResult::get_IsFile method

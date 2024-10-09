@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseSet::Add method. Adds element into set in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.collections.generic/baseset/add/
 ---
 ## BaseSet::Add method

@@ -4,7 +4,7 @@ linktitle: set_ExpectContinue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_ExpectContinue method. Sets a value that indicates if the ''Expect'' header value contains ''Continue'' in C++.'
 type: docs
-weight: 900
+weight: 3800
 url: /cpp/system.net.http.headers/httprequestheaders/set_expectcontinue/
 ---
 ## HttpRequestHeaders::set_ExpectContinue method

@@ -4,7 +4,7 @@ linktitle: set_Use
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentServiceAttribute::set_Use method. Sets the parameter formatting in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_use/
 ---
 ## SoapDocumentServiceAttribute::set_Use method

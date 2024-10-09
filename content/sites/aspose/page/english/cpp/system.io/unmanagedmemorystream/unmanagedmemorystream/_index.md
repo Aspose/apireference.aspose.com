@@ -4,7 +4,7 @@ linktitle: UnmanagedMemoryStream
 second_title: Aspose.Page for C++
 description: 'System::IO::UnmanagedMemoryStream::UnmanagedMemoryStream constructor. Constructs a new instance of UnmanagedMemoryStream in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/system.io/unmanagedmemorystream/unmanagedmemorystream/
 ---
 ## UnmanagedMemoryStream::UnmanagedMemoryStream(uint8_t *, int64_t) constructor

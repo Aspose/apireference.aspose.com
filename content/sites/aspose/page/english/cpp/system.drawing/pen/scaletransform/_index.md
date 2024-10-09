@@ -4,7 +4,7 @@ linktitle: ScaleTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::ScaleTransform method. Scales the local geometric transformation by the specified factors in the specified order in C++.'
 type: docs
-weight: 3600
+weight: 2200
 url: /cpp/system.drawing/pen/scaletransform/
 ---
 ## Pen::ScaleTransform method

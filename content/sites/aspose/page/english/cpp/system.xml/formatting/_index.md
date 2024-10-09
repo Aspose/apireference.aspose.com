@@ -4,7 +4,7 @@ linktitle: Formatting
 second_title: Aspose.Page for C++
 description: 'System::Xml::Formatting enum. Specifies formatting options for the XmlTextWriter in C++.'
 type: docs
-weight: 4900
+weight: 5000
 url: /cpp/system.xml/formatting/
 ---
 ## Formatting enum

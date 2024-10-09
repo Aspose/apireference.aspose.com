@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::Remove method. Removes item from container in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.collections.generic/ikvcollection/remove/
 ---
 ## IKVCollection::Remove method

@@ -4,7 +4,7 @@ linktitle: Reverse
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::Reverse method. Reverses elements order of the whole list in C++.'
 type: docs
-weight: 4000
+weight: 4200
 url: /cpp/system.collections.generic/list/reverse/
 ---
 ## List::Reverse() method

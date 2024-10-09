@@ -4,7 +4,7 @@ linktitle: GetMinute
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetMinute method. Gets minutes for the specified time point in C++.'
 type: docs
-weight: 2400
+weight: 2800
 url: /cpp/system.globalization/calendar/getminute/
 ---
 ## Calendar::GetMinute method

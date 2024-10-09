@@ -4,7 +4,7 @@ linktitle: get_IssuerName
 second_title: Aspose.Page for C++
 description: 'How to use get_IssuerName method of System::Security::Cryptography::Xml::X509IssuerSerial class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.security.cryptography.xml/x509issuerserial/get_issuername/
 ---
 ## X509IssuerSerial::get_IssuerName method

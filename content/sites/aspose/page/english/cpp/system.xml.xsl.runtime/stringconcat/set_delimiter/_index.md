@@ -4,7 +4,7 @@ linktitle: set_Delimiter
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::Runtime::StringConcat::set_Delimiter method. Sets the string that delimits concatenated strings in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.xml.xsl.runtime/stringconcat/set_delimiter/
 ---
 ## StringConcat::set_Delimiter method

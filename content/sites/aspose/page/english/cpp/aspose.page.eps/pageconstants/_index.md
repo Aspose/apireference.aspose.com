@@ -4,7 +4,7 @@ linktitle: PageConstants
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PageConstants class. This class defines a set of constants which describe a page. Convenience objects are provided for various margins, orientations, rescaling, and standard page sizes in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.page.eps/pageconstants/
 ---
 ## PageConstants class

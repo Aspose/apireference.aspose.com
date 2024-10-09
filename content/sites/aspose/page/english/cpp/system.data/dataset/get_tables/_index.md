@@ -4,7 +4,7 @@ linktitle: get_Tables
 second_title: Aspose.Page for C++
 description: 'System::Data::DataSet::get_Tables method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.data/dataset/get_tables/
 ---
 ## DataSet::get_Tables method

@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Globalization::IdnMapping::Equals method. Compares two IdnMapping objects in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/system.globalization/idnmapping/equals/
 ---
 ## IdnMapping::Equals method

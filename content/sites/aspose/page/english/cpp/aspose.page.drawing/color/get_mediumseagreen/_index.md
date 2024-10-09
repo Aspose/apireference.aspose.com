@@ -4,7 +4,7 @@ linktitle: get_MediumSeaGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_MediumSeaGreen method. Gets a system-defined color that has an ARGB value of #FF3CB371 in C++.'
 type: docs
-weight: 8700
+weight: 8800
 url: /cpp/aspose.page.drawing/color/get_mediumseagreen/
 ---
 ## Color::get_MediumSeaGreen method

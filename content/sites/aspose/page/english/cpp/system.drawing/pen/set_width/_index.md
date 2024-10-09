@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_Width method. Sets the width of the current Pen object in C++.'
 type: docs
-weight: 500
+weight: 3800
 url: /cpp/system.drawing/pen/set_width/
 ---
 ## Pen::set_Width method

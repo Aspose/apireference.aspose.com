@@ -4,7 +4,7 @@ linktitle: Divide
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Divide method. Divides two specified Decimal values in C++.'
 type: docs
-weight: 4600
+weight: 3500
 url: /cpp/system/decimal/divide/
 ---
 ## Decimal::Divide method

@@ -4,7 +4,7 @@ linktitle: AddMonths
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddMonths method. Adds a specified number of months to the DateTimeOffset object in C++.'
 type: docs
-weight: 2100
+weight: 700
 url: /cpp/system/datetimeoffset/addmonths/
 ---
 ## DateTimeOffset::AddMonths method

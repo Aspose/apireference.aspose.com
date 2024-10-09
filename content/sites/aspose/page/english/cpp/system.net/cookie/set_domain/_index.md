@@ -4,7 +4,7 @@ linktitle: set_Domain
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Domain method. Sets the ''Domain'' attribute''s value in C++.'
 type: docs
-weight: 1000
+weight: 2800
 url: /cpp/system.net/cookie/set_domain/
 ---
 ## Cookie::set_Domain method

@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::Add method. Adds a cookie to the collection in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.net/cookiecollection/add/
 ---
 ## CookieCollection::Add(const System::SharedPtr\<Cookie\>\&) method

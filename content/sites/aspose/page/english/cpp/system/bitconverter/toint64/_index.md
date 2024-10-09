@@ -4,7 +4,7 @@ linktitle: ToInt64
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToInt64 method. Converts eight bytes from the specified array starting at the specified index to 64-bit integer value in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/system/bitconverter/toint64/
 ---
 ## BitConverter::ToInt64(const System::ArrayPtr\<uint8_t\>\&, int) method

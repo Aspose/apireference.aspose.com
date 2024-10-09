@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::RectangleF::get_Width method. Returns the width of the rectangle represented by the current object in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.drawing/rectanglef/get_width/
 ---
 ## RectangleF::get_Width method

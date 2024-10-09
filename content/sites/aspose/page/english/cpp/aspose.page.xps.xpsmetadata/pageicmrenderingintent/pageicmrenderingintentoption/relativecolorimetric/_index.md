@@ -4,7 +4,7 @@ linktitle: RelativeColorimetric
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageICMRenderingIntent::PageICMRenderingIntentOption::RelativeColorimetric field. Relative Colorimetric Rendering intent in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.page.xps.xpsmetadata/pageicmrenderingintent/pageicmrenderingintentoption/relativecolorimetric/
 ---
 ## RelativeColorimetric field

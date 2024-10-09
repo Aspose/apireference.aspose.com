@@ -4,7 +4,7 @@ linktitle: UnescapeDataString
 second_title: Aspose.Page for C++
 description: 'System::Uri::UnescapeDataString method. Unescapes the specified escaped string in C++.'
 type: docs
-weight: 4300
+weight: 4500
 url: /cpp/system/uri/unescapedatastring/
 ---
 ## Uri::UnescapeDataString method

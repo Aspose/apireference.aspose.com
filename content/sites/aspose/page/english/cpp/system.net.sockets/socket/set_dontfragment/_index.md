@@ -4,7 +4,7 @@ linktitle: set_DontFragment
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_DontFragment method. Sets a value that indicates if the socket allows IP datagrams to be fragmented in C++.'
 type: docs
-weight: 3100
+weight: 5000
 url: /cpp/system.net.sockets/socket/set_dontfragment/
 ---
 ## Socket::set_DontFragment method

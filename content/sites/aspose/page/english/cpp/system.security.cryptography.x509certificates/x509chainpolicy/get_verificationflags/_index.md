@@ -4,7 +4,7 @@ linktitle: get_VerificationFlags
 second_title: Aspose.Page for C++
 description: 'How to use get_VerificationFlags method of System::Security::Cryptography::X509Certificates::X509ChainPolicy class in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/get_verificationflags/
 ---
 ## X509ChainPolicy::get_VerificationFlags method

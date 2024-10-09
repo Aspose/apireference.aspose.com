@@ -4,7 +4,7 @@ linktitle: get_FileNameStar
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::get_FileNameStar method. Gets a value that determines how to construct filenames for storing the message payload. It is used when the entities are detached and stored in separate files in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_filenamestar/
 ---
 ## ContentDispositionHeaderValue::get_FileNameStar method

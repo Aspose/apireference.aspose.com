@@ -4,7 +4,7 @@ linktitle: Empty
 second_title: Aspose.Page for C++
 description: 'System::Delegate< ReturnType(ArgumentTypes...)>::Empty method. Determines if the current delegate object is empty, e.g. does not point to any entity in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system/delegate_returntype(argumenttypes...)_/empty/
 ---
 ## Delegate< ReturnType(ArgumentTypes...)>::Empty method

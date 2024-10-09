@@ -4,7 +4,7 @@ linktitle: FromFileTime
 second_title: Aspose.Page for C++
 description: 'System::DateTime::FromFileTime method. Converts the specified File time to an instance of DateTime class representing the same date and time value as local time in C++.'
 type: docs
-weight: 6200
+weight: 5800
 url: /cpp/system/datetime/fromfiletime/
 ---
 ## DateTime::FromFileTime method

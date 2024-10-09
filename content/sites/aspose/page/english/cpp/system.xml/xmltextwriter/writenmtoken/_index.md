@@ -4,7 +4,7 @@ linktitle: WriteNmToken
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteNmToken method. Writes out the specified name, ensuring it is a valid NmToken according to the  in C++.'
 type: docs
-weight: 4100
+weight: 3200
 url: /cpp/system.xml/xmltextwriter/writenmtoken/
 ---
 ## XmlTextWriter::WriteNmToken method

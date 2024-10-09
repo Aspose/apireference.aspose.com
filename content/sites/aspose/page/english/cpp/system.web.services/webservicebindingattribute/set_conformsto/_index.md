@@ -4,7 +4,7 @@ linktitle: set_ConformsTo
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::set_ConformsTo method. Sets the WSI specification in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.web.services/webservicebindingattribute/set_conformsto/
 ---
 ## WebServiceBindingAttribute::set_ConformsTo method

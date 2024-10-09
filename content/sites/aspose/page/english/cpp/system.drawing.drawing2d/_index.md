@@ -4,7 +4,7 @@ linktitle: System::Drawing::Drawing2D
 second_title: Aspose.Page for C++
 description: 'How to use System::Drawing::Drawing2D namespace in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/system.drawing.drawing2d/
 ---
 
@@ -41,9 +41,9 @@ url: /cpp/system.drawing.drawing2d/
 | [FlushIntention](./flushintention/) | Specifies if commands in the graphics stack are terminated immediately or executed as soon as possible. |
 | [HatchStyle](./hatchstyle/) | Specifies patterns of [HatchBrush](./hatchbrush/) brush. |
 | [InterpolationMode](./interpolationmode/) | Specifies an algorithm to use when images are rotated or scaled. |
+| [LinearGradientMode](./lineargradientmode/) | Represents a linear gradient direction. |
 | [LineCap](./linecap/) | Indicates the available cap styles with which a [Pen](../system.drawing/pen/) object can end a line. |
 | [LineJoin](./linejoin/) | Specifies how consequent lines or curves are joined. |
-| [LinearGradientMode](./lineargradientmode/) | Represents a linear gradient direction. |
 | [MatrixOrder](./matrixorder/) | Specifies the order of matrix transform operations. |
 | [PathPointType](./pathpointtype/) | Specifies the type of a path point. |
 | [PenAlignment](./penalignment/) | Specifies the alignment of a [Pen](../system.drawing/pen/) object relative to an abstract reference 0-width line. |

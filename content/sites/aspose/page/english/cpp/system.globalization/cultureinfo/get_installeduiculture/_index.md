@@ -4,7 +4,7 @@ linktitle: get_InstalledUICulture
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_InstalledUICulture method. Gets culture installed with the operating system in C++.'
 type: docs
-weight: 3800
+weight: 4000
 url: /cpp/system.globalization/cultureinfo/get_installeduiculture/
 ---
 ## CultureInfo::get_InstalledUICulture method

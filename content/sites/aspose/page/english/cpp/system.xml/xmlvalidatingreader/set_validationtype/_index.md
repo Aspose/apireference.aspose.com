@@ -4,7 +4,7 @@ linktitle: set_ValidationType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::set_ValidationType method. Sets a value indicating the type of validation to perform in C++.'
 type: docs
-weight: 2600
+weight: 5000
 url: /cpp/system.xml/xmlvalidatingreader/set_validationtype/
 ---
 ## XmlValidatingReader::set_ValidationType method

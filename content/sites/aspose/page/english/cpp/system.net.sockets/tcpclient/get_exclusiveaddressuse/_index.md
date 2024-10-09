@@ -4,7 +4,7 @@ linktitle: get_ExclusiveAddressUse
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::get_ExclusiveAddressUse method. Gets a value that indicates if the current instance allows only one client to use a port in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.net.sockets/tcpclient/get_exclusiveaddressuse/
 ---
 ## TcpClient::get_ExclusiveAddressUse method

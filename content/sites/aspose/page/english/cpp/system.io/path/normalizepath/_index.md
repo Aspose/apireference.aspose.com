@@ -4,7 +4,7 @@ linktitle: NormalizePath
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::NormalizePath method. Normalizes the specified path in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/system.io/path/normalizepath/
 ---
 ## Path::NormalizePath method

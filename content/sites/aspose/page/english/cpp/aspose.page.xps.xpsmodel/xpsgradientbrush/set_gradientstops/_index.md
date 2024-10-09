@@ -4,7 +4,7 @@ linktitle: set_GradientStops
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGradientBrush::set_GradientStops method. Returns/sets list of gradient stops that comprise the gradient in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.page.xps.xpsmodel/xpsgradientbrush/set_gradientstops/
 ---
 ## XpsGradientBrush::set_GradientStops method

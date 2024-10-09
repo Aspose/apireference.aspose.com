@@ -4,7 +4,7 @@ linktitle: get_MinorRevision
 second_title: Aspose.Page for C++
 description: 'System::Version::get_MinorRevision method. Returns the low 16-bit value of the revision number in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system/version/get_minorrevision/
 ---
 ## Version::get_MinorRevision method

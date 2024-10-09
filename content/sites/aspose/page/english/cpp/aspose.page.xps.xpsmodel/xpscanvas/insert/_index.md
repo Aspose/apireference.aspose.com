@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsCanvas::Insert method. Inserts an element to this canvas''s child list at index  position in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.page.xps.xpsmodel/xpscanvas/insert/
 ---
 ## XpsCanvas::Insert method

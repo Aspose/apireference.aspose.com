@@ -4,7 +4,7 @@ linktitle: MinValue
 second_title: Aspose.Page for C++
 description: 'System::DateTime::MinValue field. An instance of DateTime class that represents the minimal possible date and time value in C++.'
 type: docs
-weight: 8000
+weight: 7500
 url: /cpp/system/datetime/minvalue/
 ---
 ## MinValue field

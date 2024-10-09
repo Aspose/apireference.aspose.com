@@ -4,7 +4,7 @@ linktitle: ValidationEventHandler_add
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::ValidationEventHandler_add method. Adds an event handler for receiving information about document type definition (DTD), XML-Data Reduced (XDR) schema, and XML Schema definition language (XSD) schema validation errors in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system.xml/xmlvalidatingreader/validationeventhandler_add/
 ---
 ## XmlValidatingReader::ValidationEventHandler_add method

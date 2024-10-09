@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Text::EncodingInfo::get_Name method. Gets encoding short name in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.text/encodinginfo/get_name/
 ---
 ## EncodingInfo::get_Name method

@@ -4,7 +4,7 @@ linktitle: get_Capacity
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::get_Capacity method. Gets current list capacity in C++.'
 type: docs
-weight: 2300
+weight: 2500
 url: /cpp/system.collections.generic/list/get_capacity/
 ---
 ## List::get_Capacity method

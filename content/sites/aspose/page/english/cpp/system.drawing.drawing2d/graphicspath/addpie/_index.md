@@ -4,9 +4,31 @@ linktitle: AddPie
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::AddPie method. Adds the specified outline of the pie shape to the path represented by the current object in C++.'
 type: docs
-weight: 1700
+weight: 1200
 url: /cpp/system.drawing.drawing2d/graphicspath/addpie/
 ---
+## GraphicsPath::AddPie(const Rectangle\&, float, float) method
+
+
+Adds the specified outline of the pie shape to the path represented by the current object.
+
+```cpp
+void System::Drawing::Drawing2D::GraphicsPath::AddPie(const Rectangle &rect, float startAngle, float sweepAngle)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const Rectangle\& | The rectangle that bounds the ellipse from which the pie is drawn |
+| startAngle | float | Specifies the starting angle of the pie in degrees, measured clockwise from the X-axis |
+| sweepAngle | float | Specifies the angle between the starting angle and the end of the pie |
+
+## See Also
+
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Page for C++](../../../)
 ## GraphicsPath::AddPie(float, float, float, float, float, float) method
 
 
@@ -52,28 +74,6 @@ void System::Drawing::Drawing2D::GraphicsPath::AddPie(int x, int y, int width, i
 
 ## See Also
 
-* Class [GraphicsPath](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Page for C++](../../../)
-## GraphicsPath::AddPie(const Rectangle\&, float, float) method
-
-
-Adds the specified outline of the pie shape to the path represented by the current object.
-
-```cpp
-void System::Drawing::Drawing2D::GraphicsPath::AddPie(const Rectangle &rect, float startAngle, float sweepAngle)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const Rectangle\& | The rectangle that bounds the ellipse from which the pie is drawn |
-| startAngle | float | Specifies the starting angle of the pie in degrees, measured clockwise from the X-axis |
-| sweepAngle | float | Specifies the angle between the starting angle and the end of the pie |
-
-## See Also
-
-* Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [GraphicsPath](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.Page for C++](../../../)

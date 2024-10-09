@@ -4,7 +4,7 @@ linktitle: HttpWebRequest
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::HttpWebRequest constructor. Constructs a new instance in C++.'
 type: docs
-weight: 3300
+weight: 100
 url: /cpp/system.net/httpwebrequest/httpwebrequest/
 ---
 ## HttpWebRequest::HttpWebRequest constructor

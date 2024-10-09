@@ -4,7 +4,7 @@ linktitle: set_CheckCharacters
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_CheckCharacters method. Sets a value indicating whether to do character checking in C++.'
 type: docs
-weight: 1100
+weight: 2100
 url: /cpp/system.xml/xmlreadersettings/set_checkcharacters/
 ---
 ## XmlReaderSettings::set_CheckCharacters method

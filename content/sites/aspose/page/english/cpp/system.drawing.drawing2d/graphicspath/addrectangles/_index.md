@@ -4,7 +4,7 @@ linktitle: AddRectangles
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::AddRectangles method. Adds the specified series of rectangles to the path represented by the current object in C++.'
 type: docs
-weight: 2000
+weight: 1500
 url: /cpp/system.drawing.drawing2d/graphicspath/addrectangles/
 ---
 ## GraphicsPath::AddRectangles(const ArrayPtr\<Rectangle\>\&) method

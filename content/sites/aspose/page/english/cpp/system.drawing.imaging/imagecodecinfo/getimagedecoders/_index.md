@@ -4,7 +4,7 @@ linktitle: GetImageDecoders
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageCodecInfo::GetImageDecoders method. Returns an array of ImageCodecInfo objects that represent supported image decoders in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.drawing.imaging/imagecodecinfo/getimagedecoders/
 ---
 ## ImageCodecInfo::GetImageDecoders method

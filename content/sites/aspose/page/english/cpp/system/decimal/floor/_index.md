@@ -4,7 +4,7 @@ linktitle: Floor
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Floor method. Returns the largest integral value that is less than or equal to the specified value in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/system/decimal/floor/
 ---
 ## Decimal::Floor method

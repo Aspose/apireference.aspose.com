@@ -4,7 +4,7 @@ linktitle: AddChild
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::AddChild method. Adds child tag in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/system.security/securityelement/addchild/
 ---
 ## SecurityElement::AddChild method

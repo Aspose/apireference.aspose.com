@@ -4,7 +4,7 @@ linktitle: BinaryHeader
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::EPS::BinaryHeader class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.eps/binaryheader/
 ---
 ## BinaryHeader class

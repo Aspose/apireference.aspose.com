@@ -4,7 +4,7 @@ linktitle: Version
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Encoder::Version field. An instance of Encoder class that represents the version parameter category in C++.'
 type: docs
-weight: 600
+weight: 1200
 url: /cpp/system.drawing.imaging/encoder/version/
 ---
 ## Version field

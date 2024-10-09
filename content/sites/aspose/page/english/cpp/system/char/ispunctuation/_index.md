@@ -2,11 +2,34 @@
 title: System::Char::IsPunctuation method
 linktitle: IsPunctuation
 second_title: Aspose.Page for C++
-description: 'System::Char::IsPunctuation method. Determines whether the character at the specified index in the specified character buffer is classified as a punctuation character in C++.'
+description: 'System::Char::IsPunctuation method. Determines whether the specified character is classified as a punctuation character in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/system/char/ispunctuation/
 ---
+## Char::IsPunctuation(char_t) method
+
+
+Determines whether the specified character is classified as a punctuation character.
+
+```cpp
+static bool System::Char::IsPunctuation(char_t c)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | char_t | The character to test |
+
+### ReturnValue
+
+True if the specified character is a punctuation character, otherwise - false
+
+## See Also
+
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Char::IsPunctuation(const char_t *, int) method
 
 
@@ -25,29 +48,6 @@ static bool System::Char::IsPunctuation(const char_t *str, int idx)
 ### ReturnValue
 
 True if the character at the specified index is a punctuation character, otherwise - false
-
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Char::IsPunctuation(char_t) method
-
-
-Determines whether the specified character is classified as a punctuation character.
-
-```cpp
-static bool System::Char::IsPunctuation(char_t c)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | char_t | The character to test |
-
-### ReturnValue
-
-True if the specified character is a punctuation character, otherwise - false
 
 ## See Also
 

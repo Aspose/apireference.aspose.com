@@ -4,7 +4,7 @@ linktitle: set_InnerXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::set_InnerXml method. Sets the markup representing the child nodes of the current node in C++.'
 type: docs
-weight: 2700
+weight: 7600
 url: /cpp/system.xml.xpath/xpathnavigator/set_innerxml/
 ---
 ## XPathNavigator::set_InnerXml method

@@ -4,7 +4,7 @@ linktitle: get_System
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaNotation::get_System method. Returns the system identifier in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.xml.schema/xmlschemanotation/get_system/
 ---
 ## XmlSchemaNotation::get_System method

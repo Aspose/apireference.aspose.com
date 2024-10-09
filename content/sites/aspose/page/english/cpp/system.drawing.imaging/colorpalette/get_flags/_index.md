@@ -4,7 +4,7 @@ linktitle: get_Flags
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorPalette::get_Flags method. Returns a value that specifies how the color values in the array of colors should be interpreted in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.drawing.imaging/colorpalette/get_flags/
 ---
 ## ColorPalette::get_Flags method

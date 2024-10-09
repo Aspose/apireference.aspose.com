@@ -4,7 +4,7 @@ linktitle: get_LocalName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_LocalName method. Returns the local name of the current node in C++.'
 type: docs
-weight: 300
+weight: 1600
 url: /cpp/system.xml/xmlvalidatingreader/get_localname/
 ---
 ## XmlValidatingReader::get_LocalName method

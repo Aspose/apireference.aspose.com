@@ -4,7 +4,7 @@ linktitle: IsHexEncoding
 second_title: Aspose.Page for C++
 description: 'System::UriShim::IsHexEncoding method. Checks if given pattern is an escaped hex form in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/urishim/ishexencoding/
 ---
 ## UriShim::IsHexEncoding method

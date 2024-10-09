@@ -4,7 +4,7 @@ linktitle: get_DarkViolet
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkViolet method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF9400D3 in C++.'
 type: docs
-weight: 3900
+weight: 3800
 url: /cpp/system.drawing/pens/get_darkviolet/
 ---
 ## Pens::get_DarkViolet method

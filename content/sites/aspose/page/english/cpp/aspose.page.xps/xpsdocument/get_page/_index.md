@@ -4,7 +4,7 @@ linktitle: get_Page
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::get_Page method. Returns an XpsPage instance for active page in C++.'
 type: docs
-weight: 400
+weight: 3500
 url: /cpp/aspose.page.xps/xpsdocument/get_page/
 ---
 ## XpsDocument::get_Page method

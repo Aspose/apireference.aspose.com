@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::idx_get method. Returns a cookie from the cookie collection at the specified index in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.net/cookiecollection/idx_get/
 ---
 ## CookieCollection::idx_get(int32_t) method

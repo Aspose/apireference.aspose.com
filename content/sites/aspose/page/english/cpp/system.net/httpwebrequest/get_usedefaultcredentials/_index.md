@@ -4,7 +4,7 @@ linktitle: get_UseDefaultCredentials
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::get_UseDefaultCredentials method. Gets a value that indicates if the ''Credential'' property is equal to the ''DefaultCredentials'' property in C++.'
 type: docs
-weight: 2400
+weight: 3200
 url: /cpp/system.net/httpwebrequest/get_usedefaultcredentials/
 ---
 ## HttpWebRequest::get_UseDefaultCredentials method

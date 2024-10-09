@@ -4,7 +4,7 @@ linktitle: CreateXmlDeclaration
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateXmlDeclaration method. Creates an XmlDeclaration node with the specified values in C++.'
 type: docs
-weight: 3000
+weight: 1600
 url: /cpp/system.xml/xmldocument/createxmldeclaration/
 ---
 ## XmlDocument::CreateXmlDeclaration method

@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::get_IsEmpty method. Determines if both X and Y coordinates values are equal to 0 in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.drawing/point/get_isempty/
 ---
 ## Point::get_IsEmpty method

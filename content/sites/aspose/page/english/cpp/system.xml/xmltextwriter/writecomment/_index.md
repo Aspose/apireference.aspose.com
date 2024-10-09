@@ -4,7 +4,7 @@ linktitle: WriteComment
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteComment method. Writes out a comment  containing the specified text in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/system.xml/xmltextwriter/writecomment/
 ---
 ## XmlTextWriter::WriteComment method

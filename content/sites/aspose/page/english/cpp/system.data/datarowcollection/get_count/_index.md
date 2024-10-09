@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Data::DataRowCollection::get_Count method. Gets number of rows in collection in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.data/datarowcollection/get_count/
 ---
 ## DataRowCollection::get_Count method

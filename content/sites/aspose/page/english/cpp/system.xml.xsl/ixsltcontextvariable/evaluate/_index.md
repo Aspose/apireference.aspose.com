@@ -4,7 +4,7 @@ linktitle: Evaluate
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::IXsltContextVariable::Evaluate method. Evaluates the variable at runtime and returns an object that represents the value of the variable in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml.xsl/ixsltcontextvariable/evaluate/
 ---
 ## IXsltContextVariable::Evaluate method

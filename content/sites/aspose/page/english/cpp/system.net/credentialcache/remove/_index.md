@@ -2,11 +2,33 @@
 title: System::Net::CredentialCache::Remove method
 linktitle: Remove
 second_title: Aspose.Page for C++
-description: 'System::Net::CredentialCache::Remove method. Removes network credentials for the specified URI prefix and authentication type in C++.'
+description: 'System::Net::CredentialCache::Remove method. Removes network credentials for the specified host name, port, and authentication type in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.net/credentialcache/remove/
 ---
+## CredentialCache::Remove(String, int32_t, String) method
+
+
+Removes network credentials for the specified host name, port, and authentication type.
+
+```cpp
+void System::Net::CredentialCache::Remove(String host, int32_t port, String authenticationType)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| host | String | The host name with which the credentials are associated. |
+| port | int32_t | The port number. |
+| authenticationType | String | An authentication type. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [CredentialCache](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)
 ## CredentialCache::Remove(System::SharedPtr\<Uri\>, String) method
 
 
@@ -26,28 +48,6 @@ void System::Net::CredentialCache::Remove(System::SharedPtr<Uri> uriPrefix, Stri
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [CredentialCache](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Page for C++](../../../)
-## CredentialCache::Remove(String, int32_t, String) method
-
-
-Removes network credentials for the specified host name, port, and authentication type.
-
-```cpp
-void System::Net::CredentialCache::Remove(String host, int32_t port, String authenticationType)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| host | String | The host name with which the credentials are associated. |
-| port | int32_t | The port number. |
-| authenticationType | String | An authentication type. |
-
-## See Also
-
 * Class [String](../../../system/string/)
 * Class [CredentialCache](../)
 * Namespace [System::Net](../../)

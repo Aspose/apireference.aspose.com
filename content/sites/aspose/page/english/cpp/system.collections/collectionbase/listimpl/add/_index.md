@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::ListImpl::Add method. Adds a element to the end of the collection in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.collections/collectionbase/listimpl/add/
 ---
 ## ListImpl::Add method

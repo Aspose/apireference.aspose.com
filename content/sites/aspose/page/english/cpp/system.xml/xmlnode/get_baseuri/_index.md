@@ -4,7 +4,7 @@ linktitle: get_BaseURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_BaseURI method. Returns the base URI of the current node in C++.'
 type: docs
-weight: 2500
+weight: 600
 url: /cpp/system.xml/xmlnode/get_baseuri/
 ---
 ## XmlNode::get_BaseURI method

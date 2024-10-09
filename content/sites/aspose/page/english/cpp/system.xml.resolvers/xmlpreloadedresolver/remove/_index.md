@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Xml::Resolvers::XmlPreloadedResolver::Remove method. Removes the data that corresponds to the URI from the XmlPreloadedResolver in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/remove/
 ---
 ## XmlPreloadedResolver::Remove method

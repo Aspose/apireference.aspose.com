@@ -4,7 +4,7 @@ linktitle: get_OutputTypes
 second_title: Aspose.Page for C++
 description: 'How to use get_OutputTypes method of System::Security::Cryptography::Xml::XmlDsigC14NTransform class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.security.cryptography.xml/xmldsigc14ntransform/get_outputtypes/
 ---
 ## XmlDsigC14NTransform::get_OutputTypes method

@@ -4,7 +4,7 @@ linktitle: set_IsAbstract
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::set_IsAbstract method. Sets information to indicate if the element can be used in an instance document in C++.'
 type: docs
-weight: 200
+weight: 2500
 url: /cpp/system.xml.schema/xmlschemaelement/set_isabstract/
 ---
 ## XmlSchemaElement::set_IsAbstract method

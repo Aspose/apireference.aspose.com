@@ -4,7 +4,7 @@ linktitle: PropertyNames
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::PropertyNames method. Returns properties names in C++.'
 type: docs
-weight: 300
+weight: 1400
 url: /cpp/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties::PropertyNames method

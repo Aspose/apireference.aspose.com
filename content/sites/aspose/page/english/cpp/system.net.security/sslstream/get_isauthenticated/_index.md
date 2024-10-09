@@ -4,7 +4,7 @@ linktitle: get_IsAuthenticated
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::get_IsAuthenticated method. Returns a value that indicates if authentication is successfully passed in C++.'
 type: docs
-weight: 100
+weight: 1900
 url: /cpp/system.net.security/sslstream/get_isauthenticated/
 ---
 ## SslStream::get_IsAuthenticated method

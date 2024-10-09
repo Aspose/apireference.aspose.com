@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::CopyTo method. Copies all the XmlSchema objects from the XmlSchemaSet to the given array, starting at the given index in C++.'
 type: docs
-weight: 1900
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaset/copyto/
 ---
 ## XmlSchemaSet::CopyTo method

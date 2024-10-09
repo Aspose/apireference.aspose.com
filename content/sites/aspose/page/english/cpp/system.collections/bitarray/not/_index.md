@@ -4,7 +4,7 @@ linktitle: Not
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Not method. Negates BitSet in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.collections/bitarray/not/
 ---
 ## BitArray::Not method

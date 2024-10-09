@@ -4,7 +4,7 @@ linktitle: SetContainedTemplateWeakPtr
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::SetContainedTemplateWeakPtr method. Calls SetTemplateWeakPtr() method on pointed object (if any) in C++.'
 type: docs
-weight: 2900
+weight: 3400
 url: /cpp/system/smartptr/setcontainedtemplateweakptr/
 ---
 ## SmartPtr::SetContainedTemplateWeakPtr method

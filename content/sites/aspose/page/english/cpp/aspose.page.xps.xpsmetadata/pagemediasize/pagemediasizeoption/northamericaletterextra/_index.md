@@ -4,7 +4,7 @@ linktitle: NorthAmericaLetterExtra
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaLetterExtra field. North America Letter extra in C++.'
 type: docs
-weight: 10200
+weight: 11800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericaletterextra/
 ---
 ## NorthAmericaLetterExtra field

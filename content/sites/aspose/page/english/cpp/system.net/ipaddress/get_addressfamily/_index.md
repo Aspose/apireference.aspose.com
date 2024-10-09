@@ -4,7 +4,7 @@ linktitle: get_AddressFamily
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::get_AddressFamily method. Returns the address family in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.net/ipaddress/get_addressfamily/
 ---
 ## IPAddress::get_AddressFamily method

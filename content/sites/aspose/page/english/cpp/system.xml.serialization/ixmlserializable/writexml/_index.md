@@ -4,7 +4,7 @@ linktitle: WriteXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::Serialization::IXmlSerializable::WriteXml method. Serializes the current object to XML representation in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml.serialization/ixmlserializable/writexml/
 ---
 ## IXmlSerializable::WriteXml method

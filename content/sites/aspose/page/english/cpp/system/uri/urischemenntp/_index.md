@@ -4,7 +4,7 @@ linktitle: UriSchemeNntp
 second_title: Aspose.Page for C++
 description: 'System::Uri::UriSchemeNntp field. Specifies that the Uri is an Internet news group and is accessed through the Network News Transport Protocol in C++.'
 type: docs
-weight: 5300
+weight: 5600
 url: /cpp/system/uri/urischemenntp/
 ---
 ## UriSchemeNntp field

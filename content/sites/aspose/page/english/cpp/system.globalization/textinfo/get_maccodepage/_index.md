@@ -4,7 +4,7 @@ linktitle: get_MacCodePage
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::get_MacCodePage method. Gets Macintosh codepage in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.globalization/textinfo/get_maccodepage/
 ---
 ## TextInfo::get_MacCodePage method

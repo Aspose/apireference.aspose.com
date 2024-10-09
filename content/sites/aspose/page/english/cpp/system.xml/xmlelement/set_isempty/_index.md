@@ -4,7 +4,7 @@ linktitle: set_IsEmpty
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::set_IsEmpty method. Sets the tag format of the element in C++.'
 type: docs
-weight: 900
+weight: 2400
 url: /cpp/system.xml/xmlelement/set_isempty/
 ---
 ## XmlElement::set_IsEmpty method

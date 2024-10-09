@@ -4,7 +4,7 @@ linktitle: get_ValueAsDateTime
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_ValueAsDateTime method. Returns the current node''s value as a DateTime in C++.'
 type: docs
-weight: 600
+weight: 3100
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueasdatetime/
 ---
 ## XPathNavigator::get_ValueAsDateTime method

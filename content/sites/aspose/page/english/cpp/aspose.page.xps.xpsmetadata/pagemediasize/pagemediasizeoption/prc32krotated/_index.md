@@ -4,7 +4,7 @@ linktitle: PRC32KRotated
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::PRC32KRotated field. PRC32K rotated in C++.'
 type: docs
-weight: 13300
+weight: 15100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/prc32krotated/
 ---
 ## PRC32KRotated field

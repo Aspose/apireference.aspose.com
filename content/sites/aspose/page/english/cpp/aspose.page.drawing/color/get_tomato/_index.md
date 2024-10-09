@@ -4,7 +4,7 @@ linktitle: get_Tomato
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Tomato method. Gets a system-defined color that has an ARGB value of #FFFF6347 in C++.'
 type: docs
-weight: 13400
+weight: 13500
 url: /cpp/aspose.page.drawing/color/get_tomato/
 ---
 ## Color::get_Tomato method

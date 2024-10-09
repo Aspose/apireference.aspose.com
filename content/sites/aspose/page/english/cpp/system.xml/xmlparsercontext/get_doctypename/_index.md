@@ -4,7 +4,7 @@ linktitle: get_DocTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::get_DocTypeName method. Returns the name of the document type declaration in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.xml/xmlparsercontext/get_doctypename/
 ---
 ## XmlParserContext::get_DocTypeName method

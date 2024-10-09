@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::PerformanceCounter::Close method. Stops all performance counting operations in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.diagnostics/performancecounter/close/
 ---
 ## PerformanceCounter::Close method

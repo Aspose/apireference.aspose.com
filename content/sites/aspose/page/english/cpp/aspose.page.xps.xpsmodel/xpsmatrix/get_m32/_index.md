@@ -4,7 +4,7 @@ linktitle: get_M32
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::get_M32 method. Gets the M32 element in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/get_m32/
 ---
 ## XpsMatrix::get_M32 method

@@ -4,7 +4,7 @@ linktitle: Scale
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Scale method. Adds scale to current graphics state (scale current matrix) in C++.'
 type: docs
-weight: 2300
+weight: 4400
 url: /cpp/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument::Scale method

@@ -4,7 +4,7 @@ linktitle: Truncate
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::Truncate method. Constructs a Rectangle object from the specified RectangleF object by truncating the RectangleF object''s location and size values to the next lower integer values in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/system.drawing/rectangle/truncate/
 ---
 ## Rectangle::Truncate method

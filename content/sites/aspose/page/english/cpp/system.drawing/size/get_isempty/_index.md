@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::get_IsEmpty method. Determines if both width and hegiht values are equal to 0 in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.drawing/size/get_isempty/
 ---
 ## Size::get_IsEmpty method

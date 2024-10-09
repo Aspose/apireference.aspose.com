@@ -4,7 +4,7 @@ linktitle: ToTitleCase
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::ToTitleCase method. Converts string to title case (except for acronyms that are in upper case already) in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/system.globalization/textinfo/totitlecase/
 ---
 ## TextInfo::ToTitleCase method

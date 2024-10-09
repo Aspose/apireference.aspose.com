@@ -2,28 +2,28 @@
 title: System::Net::WebHeaderCollection::Remove method
 linktitle: Remove
 second_title: Aspose.Page for C++
-description: 'System::Net::WebHeaderCollection::Remove method. Removes the header by the specified header name in C++.'
+description: 'System::Net::WebHeaderCollection::Remove method. Removes the specified request''s header in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/system.net/webheadercollection/remove/
 ---
-## WebHeaderCollection::Remove(String) method
+## WebHeaderCollection::Remove(HttpRequestHeader) method
 
 
-Removes the header by the specified header name.
+Removes the specified request's header.
 
 ```cpp
-void System::Net::WebHeaderCollection::Remove(String name)
+void System::Net::WebHeaderCollection::Remove(HttpRequestHeader header)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The header name. |
+| header | HttpRequestHeader | The header to remove. |
 
 ## See Also
 
-* Class [String](../../../system/string/)
+* Enum [HttpRequestHeader](../../httprequestheader/)
 * Class [WebHeaderCollection](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -47,23 +47,23 @@ void System::Net::WebHeaderCollection::Remove(HttpResponseHeader header)
 * Class [WebHeaderCollection](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.Page for C++](../../../)
-## WebHeaderCollection::Remove(HttpRequestHeader) method
+## WebHeaderCollection::Remove(String) method
 
 
-Removes the specified request's header.
+Removes the header by the specified header name.
 
 ```cpp
-void System::Net::WebHeaderCollection::Remove(HttpRequestHeader header)
+void System::Net::WebHeaderCollection::Remove(String name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| header | HttpRequestHeader | The header to remove. |
+| name | String | The header name. |
 
 ## See Also
 
-* Enum [HttpRequestHeader](../../httprequestheader/)
+* Class [String](../../../system/string/)
 * Class [WebHeaderCollection](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.Page for C++](../../../)

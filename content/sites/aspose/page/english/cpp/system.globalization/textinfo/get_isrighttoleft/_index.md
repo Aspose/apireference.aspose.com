@@ -4,7 +4,7 @@ linktitle: get_IsRightToLeft
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::get_IsRightToLeft method. Checks if text is written left to right in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system.globalization/textinfo/get_isrighttoleft/
 ---
 ## TextInfo::get_IsRightToLeft method

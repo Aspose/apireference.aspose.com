@@ -4,7 +4,7 @@ linktitle: get_SpringGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_SpringGreen method. Gets a system-defined color that has an ARGB value of #FF00FF7F in C++.'
 type: docs
-weight: 12900
+weight: 13000
 url: /cpp/aspose.page.drawing/color/get_springgreen/
 ---
 ## Color::get_SpringGreen method

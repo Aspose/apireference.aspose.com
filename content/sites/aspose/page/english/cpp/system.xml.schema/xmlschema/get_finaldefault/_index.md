@@ -4,7 +4,7 @@ linktitle: get_FinalDefault
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_FinalDefault method. Returns the finalDefault attribute which sets the default value of the final attribute on elements and complex types in the target namespace of the schema in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.xml.schema/xmlschema/get_finaldefault/
 ---
 ## XmlSchema::get_FinalDefault method

@@ -4,7 +4,7 @@ linktitle: get_ReturnType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::IXsltContextFunction::get_ReturnType method. Returns the XPathResultType representing the XPath type returned by the function in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml.xsl/ixsltcontextfunction/get_returntype/
 ---
 ## IXsltContextFunction::get_ReturnType method

@@ -4,7 +4,7 @@ linktitle: SetBaseType
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::SetBaseType method. Sets base type descritor in C++.'
 type: docs
-weight: 4500
+weight: 4800
 url: /cpp/system/typeinfo/setbasetype/
 ---
 ## TypeInfo::SetBaseType method

@@ -4,7 +4,7 @@ linktitle: IsWhitespaceChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::IsWhitespaceChar method. Checks if the passed-in character is a valid XML whitespace character in C++.'
 type: docs
-weight: 1700
+weight: 800
 url: /cpp/system.xml/xmlconvert/iswhitespacechar/
 ---
 ## XmlConvert::IsWhitespaceChar method

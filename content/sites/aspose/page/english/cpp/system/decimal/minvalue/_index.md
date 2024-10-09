@@ -4,7 +4,7 @@ linktitle: MinValue
 second_title: Aspose.Page for C++
 description: 'System::Decimal::MinValue field. Represents the smallest number that can be represented by Decimal class in C++.'
 type: docs
-weight: 6100
+weight: 6200
 url: /cpp/system/decimal/minvalue/
 ---
 ## MinValue field

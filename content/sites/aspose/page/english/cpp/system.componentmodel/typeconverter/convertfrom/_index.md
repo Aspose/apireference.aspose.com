@@ -7,31 +7,6 @@ type: docs
 weight: 200
 url: /cpp/system.componentmodel/typeconverter/convertfrom/
 ---
-## TypeConverter::ConvertFrom(const System::SharedPtr\<System::Object\>\&) method
-
-
-Converts objects.
-
-```cpp
-System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<System::Object> &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const System::SharedPtr\<System::Object\>\& | [Object](../../../system/object/) to convert. |
-
-### ReturnValue
-
-converted object.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TypeConverter](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TypeConverter::ConvertFrom(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::SharedPtr\<System::Object\>\&) method
 
 
@@ -88,6 +63,31 @@ converted object.
 * Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [String](../../../system/string/)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## TypeConverter::ConvertFrom(const System::SharedPtr\<System::Object\>\&) method
+
+
+Converts objects.
+
+```cpp
+System::SharedPtr<System::Object> System::ComponentModel::TypeConverter::ConvertFrom(const System::SharedPtr<System::Object> &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const System::SharedPtr\<System::Object\>\& | [Object](../../../system/object/) to convert. |
+
+### ReturnValue
+
+converted object.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [TypeConverter](../)
 * Namespace [System::ComponentModel](../../)
 * Library [Aspose.Page for C++](../../../)

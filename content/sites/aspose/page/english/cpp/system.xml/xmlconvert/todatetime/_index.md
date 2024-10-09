@@ -4,7 +4,7 @@ linktitle: ToDateTime
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToDateTime method. Converts the String to a DateTime equivalent in C++.'
 type: docs
-weight: 3300
+weight: 1400
 url: /cpp/system.xml/xmlconvert/todatetime/
 ---
 ## XmlConvert::ToDateTime(const String\&) method
@@ -20,32 +20,6 @@ static DateTime System::Xml::XmlConvert::ToDateTime(const String &s)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | const String\& | The string to convert. |
-
-### ReturnValue
-
-A [DateTime](../../../system/datetime/) equivalent of the string.
-
-## See Also
-
-* Class [DateTime](../../../system/datetime/)
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlConvert::ToDateTime(const String\&, const String\&) method
-
-
-Converts the [String](../../../system/string/) to a [DateTime](../../../system/datetime/) equivalent.
-
-```cpp
-static DateTime System::Xml::XmlConvert::ToDateTime(const String &s, const String &format)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| s | const String\& | The string to convert. |
-| format | const String\& | The format structure to apply to the converted [DateTime](../../../system/datetime/). Valid formats include "yyyy-MM-ddTHH:mm:sszzzzzz" and its subsets. The string is validated against this format. |
 
 ### ReturnValue
 
@@ -82,6 +56,32 @@ A [DateTime](../../../system/datetime/) equivalent of the string.
 * Class [DateTime](../../../system/datetime/)
 * Class [String](../../../system/string/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
+## XmlConvert::ToDateTime(const String\&, const String\&) method
+
+
+Converts the [String](../../../system/string/) to a [DateTime](../../../system/datetime/) equivalent.
+
+```cpp
+static DateTime System::Xml::XmlConvert::ToDateTime(const String &s, const String &format)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| s | const String\& | The string to convert. |
+| format | const String\& | The format structure to apply to the converted [DateTime](../../../system/datetime/). Valid formats include "yyyy-MM-ddTHH:mm:sszzzzzz" and its subsets. The string is validated against this format. |
+
+### ReturnValue
+
+A [DateTime](../../../system/datetime/) equivalent of the string.
+
+## See Also
+
+* Class [DateTime](../../../system/datetime/)
+* Class [String](../../../system/string/)
 * Class [XmlConvert](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

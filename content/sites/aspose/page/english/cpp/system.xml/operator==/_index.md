@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Xml::operator== method. Compares two XmlQualifiedName objects in C++.'
 type: docs
-weight: 6900
+weight: 7000
 url: /cpp/system.xml/operator==/
 ---
 ## System::Xml::operator== method

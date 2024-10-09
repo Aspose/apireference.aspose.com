@@ -4,7 +4,7 @@ linktitle: get_ValueAsBoolean
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_ValueAsBoolean method. Returns the current node''s value as a Boolean in C++.'
 type: docs
-weight: 500
+weight: 3000
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueasboolean/
 ---
 ## XPathNavigator::get_ValueAsBoolean method

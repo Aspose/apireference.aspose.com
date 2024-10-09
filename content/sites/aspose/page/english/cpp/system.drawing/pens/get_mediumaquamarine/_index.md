@@ -4,7 +4,7 @@ linktitle: get_MediumAquamarine
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_MediumAquamarine method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF66CDAA in C++.'
 type: docs
-weight: 8300
+weight: 8200
 url: /cpp/system.drawing/pens/get_mediumaquamarine/
 ---
 ## Pens::get_MediumAquamarine method

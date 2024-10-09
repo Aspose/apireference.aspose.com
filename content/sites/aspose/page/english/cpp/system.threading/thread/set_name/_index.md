@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::set_Name method. Sets thread name in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/system.threading/thread/set_name/
 ---
 ## Thread::set_Name method

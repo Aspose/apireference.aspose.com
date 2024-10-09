@@ -4,7 +4,7 @@ linktitle: set_Parent
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObject::set_Parent method. Sets the parent of this XmlSchemaObject in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system.xml.schema/xmlschemaobject/set_parent/
 ---
 ## XmlSchemaObject::set_Parent method

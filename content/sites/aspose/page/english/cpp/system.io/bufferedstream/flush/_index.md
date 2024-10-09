@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::Flush method. Writes the content of the buffer to the underlying stream in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.io/bufferedstream/flush/
 ---
 ## BufferedStream::Flush method

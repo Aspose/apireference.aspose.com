@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField::get_Name method. Gets the name in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.page.eps.xmp/xmpfield/get_name/
 ---
 ## XmpField::get_Name method

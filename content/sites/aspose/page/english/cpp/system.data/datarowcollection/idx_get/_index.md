@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Data::DataRowCollection::idx_get method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.data/datarowcollection/idx_get/
 ---
 ## DataRowCollection::idx_get method

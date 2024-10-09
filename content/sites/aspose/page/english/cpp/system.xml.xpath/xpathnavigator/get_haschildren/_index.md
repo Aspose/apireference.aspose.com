@@ -4,7 +4,7 @@ linktitle: get_HasChildren
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_HasChildren method. Returns a value that indicates whether the current node has any child nodes in C++.'
 type: docs
-weight: 2100
+weight: 1600
 url: /cpp/system.xml.xpath/xpathnavigator/get_haschildren/
 ---
 ## XPathNavigator::get_HasChildren method

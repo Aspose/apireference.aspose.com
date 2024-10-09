@@ -4,7 +4,7 @@ linktitle: MultiplyTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::TextureBrush::MultiplyTransform method. Multiplies current object''s transform matrix by the specified matrix in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/system.drawing/texturebrush/multiplytransform/
 ---
 ## TextureBrush::MultiplyTransform method

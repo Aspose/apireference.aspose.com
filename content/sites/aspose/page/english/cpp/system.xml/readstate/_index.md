@@ -4,7 +4,7 @@ linktitle: ReadState
 second_title: Aspose.Page for C++
 description: 'System::Xml::ReadState enum. Specifies the state of the reader in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/system.xml/readstate/
 ---
 ## ReadState enum

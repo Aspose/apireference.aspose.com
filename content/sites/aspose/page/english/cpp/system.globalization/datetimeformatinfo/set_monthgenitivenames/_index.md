@@ -4,7 +4,7 @@ linktitle: set_MonthGenitiveNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_MonthGenitiveNames method. Sets month names in genitive form in C++.'
 type: docs
-weight: 4000
+weight: 5500
 url: /cpp/system.globalization/datetimeformatinfo/set_monthgenitivenames/
 ---
 ## DateTimeFormatInfo::set_MonthGenitiveNames method

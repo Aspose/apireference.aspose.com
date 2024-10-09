@@ -4,7 +4,7 @@ linktitle: GetMonthsInYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetMonthsInYear method. Gets number of months in the specified year in C++.'
 type: docs
-weight: 2600
+weight: 3000
 url: /cpp/system.globalization/calendar/getmonthsinyear/
 ---
 ## Calendar::GetMonthsInYear(int) const method

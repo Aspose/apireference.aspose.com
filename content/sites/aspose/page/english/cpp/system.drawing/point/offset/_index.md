@@ -4,7 +4,7 @@ linktitle: Offset
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::Offset method. Offsets the X and Y coordinates value represented by the current object by the specified values in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.drawing/point/offset/
 ---
 ## Point::Offset(int, int) method

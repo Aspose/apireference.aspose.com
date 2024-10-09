@@ -4,7 +4,7 @@ linktitle: get_Final
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_Final method. Returns the final attribute of the type derivation that indicates if further derivations are allowed in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.xml.schema/xmlschematype/get_final/
 ---
 ## XmlSchemaType::get_Final method

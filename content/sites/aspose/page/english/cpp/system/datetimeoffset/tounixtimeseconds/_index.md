@@ -4,7 +4,7 @@ linktitle: ToUnixTimeSeconds
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::ToUnixTimeSeconds method. Gets seconds elapsed from Unix epoch start in C++.'
 type: docs
-weight: 3800
+weight: 4800
 url: /cpp/system/datetimeoffset/tounixtimeseconds/
 ---
 ## DateTimeOffset::ToUnixTimeSeconds method

@@ -4,7 +4,7 @@ linktitle: ToUpper
 second_title: Aspose.Page for C++
 description: 'System::Char::ToUpper method. Converts the specified character to upper case in C++.'
 type: docs
-weight: 1800
+weight: 2400
 url: /cpp/system/char/toupper/
 ---
 ## Char::ToUpper(char_t) method

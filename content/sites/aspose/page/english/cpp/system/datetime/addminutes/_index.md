@@ -4,7 +4,7 @@ linktitle: AddMinutes
 second_title: Aspose.Page for C++
 description: 'System::DateTime::AddMinutes method. Returns a new instance of the DateTime class representing the date and time value which is the sum of the value represented by the current object and the specified number of minutes in C++.'
 type: docs
-weight: 2200
+weight: 600
 url: /cpp/system/datetime/addminutes/
 ---
 ## DateTime::AddMinutes method

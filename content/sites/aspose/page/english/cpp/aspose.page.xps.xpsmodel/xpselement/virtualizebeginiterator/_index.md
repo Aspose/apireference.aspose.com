@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::virtualizeBeginIterator method. Gets iterator pointing to the first element (if any) of the collection in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/virtualizebeginiterator/
 ---
 ## XpsElement::virtualizeBeginIterator method

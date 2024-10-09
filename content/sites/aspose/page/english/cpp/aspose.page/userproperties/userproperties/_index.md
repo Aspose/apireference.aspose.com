@@ -4,7 +4,7 @@ linktitle: UserProperties
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::UserProperties constructor. Initializes an empty instance of UserProperties class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page/userproperties/userproperties/
 ---
 ## UserProperties::UserProperties() constructor

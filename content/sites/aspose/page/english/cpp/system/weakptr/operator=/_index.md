@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::WeakPtr::operator= method. Assigns value to weak pointer. Calls into specific assignment operator of SmartPtr_ in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system/weakptr/operator=/
 ---
 ## WeakPtr::operator= method

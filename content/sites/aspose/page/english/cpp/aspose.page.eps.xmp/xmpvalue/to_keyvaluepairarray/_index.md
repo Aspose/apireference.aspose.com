@@ -4,7 +4,7 @@ linktitle: to_KeyValuePairArray
 second_title: Aspose.Page for C++
 description: 'How to use to_KeyValuePairArray method of Aspose::Page::EPS::XMP::XmpValue class in C++.'
 type: docs
-weight: 2800
+weight: 2500
 url: /cpp/aspose.page.eps.xmp/xmpvalue/to_keyvaluepairarray/
 ---
 ## XmpValue::to_KeyValuePairArray method

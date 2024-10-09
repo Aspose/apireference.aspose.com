@@ -2,24 +2,32 @@
 title: System::Nullable::operator+= method
 linktitle: operator+=
 second_title: Aspose.Page for C++
-description: 'System::Nullable::operator+= method. Resets the current object so that it represents a null-value in C++.'
+description: 'System::Nullable::operator+= method. Applies operator+=() to the value represented by the current object using the value represented by the specified Nullable object as the right-side argument in C++.'
 type: docs
-weight: 1800
+weight: 1300
 url: /cpp/system/nullable/operator+=/
 ---
-## Nullable::operator+=(std::nullptr_t) method
+## Nullable::operator+=(const Nullable\<T1\>\&) method
 
 
-Resets the current object so that it represents a null-value.
+Applies [operator+=()](./) to the value represented by the current object using the value represented by the specified [Nullable](../) object as the right-side argument.
 
 ```cpp
-Nullable<T> System::Nullable<T>::operator+=(std::nullptr_t)
+template<typename T1> Nullable<T> System::Nullable<T>::operator+=(const Nullable<T1> &other)
 ```
 
 
+| Parameter | Description |
+| --- | --- |
+| T1 | The underlying type of a [Nullable](../) object the value represented by which is used as the right-side argument of [operator+=()](./) |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | const Nullable\<T1\>\& | A constant reference to [Nullable](../) object the value represented by which is used as a right-side argument of the [operator+=()](./) applied to the value represented by the current object. |
+
 ### ReturnValue
 
-A copy of the self
+A reference to the self
 
 ## See Also
 
@@ -55,27 +63,19 @@ A reference to the self
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Nullable::operator+=(const Nullable\<T1\>\&) method
+## Nullable::operator+=(std::nullptr_t) method
 
 
-Applies [operator+=()](./) to the value represented by the current object using the value represented by the specified [Nullable](../) object as the right-side argument.
+Resets the current object so that it represents a null-value.
 
 ```cpp
-template<typename T1> Nullable<T> System::Nullable<T>::operator+=(const Nullable<T1> &other)
+Nullable<T> System::Nullable<T>::operator+=(std::nullptr_t)
 ```
 
 
-| Parameter | Description |
-| --- | --- |
-| T1 | The underlying type of a [Nullable](../) object the value represented by which is used as the right-side argument of [operator+=()](./) |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | const Nullable\<T1\>\& | A constant reference to [Nullable](../) object the value represented by which is used as a right-side argument of the [operator+=()](./) applied to the value represented by the current object. |
-
 ### ReturnValue
 
-A reference to the self
+A copy of the self
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: get_Standalone
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDeclaration::get_Standalone method. Returns the value of the standalone attribute in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.xml/xmldeclaration/get_standalone/
 ---
 ## XmlDeclaration::get_Standalone method

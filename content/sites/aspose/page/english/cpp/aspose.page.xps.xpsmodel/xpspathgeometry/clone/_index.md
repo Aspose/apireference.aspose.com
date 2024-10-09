@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathGeometry::Clone method. Clones this path geometry in C++.'
 type: docs
-weight: 1000
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/clone/
 ---
 ## XpsPathGeometry::Clone method

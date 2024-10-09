@@ -4,7 +4,7 @@ linktitle: get_Server
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_Server method. Returns a value of the ''Server'' header in C++.'
 type: docs
-weight: 1100
+weight: 1400
 url: /cpp/system.net.http.headers/httpresponseheaders/get_server/
 ---
 ## HttpResponseHeaders::get_Server method

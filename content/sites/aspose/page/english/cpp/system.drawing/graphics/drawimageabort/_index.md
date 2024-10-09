@@ -4,7 +4,7 @@ linktitle: DrawImageAbort
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawImageAbort typedef. The type of a callback fuction object used as an argument for DrawImage method in C++.'
 type: docs
-weight: 9100
+weight: 9000
 url: /cpp/system.drawing/graphics/drawimageabort/
 ---
 ## DrawImageAbort typedef

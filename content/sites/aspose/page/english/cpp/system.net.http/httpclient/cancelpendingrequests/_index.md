@@ -4,7 +4,7 @@ linktitle: CancelPendingRequests
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::CancelPendingRequests method. Cancels all pending requests in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/system.net.http/httpclient/cancelpendingrequests/
 ---
 ## HttpClient::CancelPendingRequests method

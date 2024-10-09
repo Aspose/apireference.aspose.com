@@ -4,7 +4,7 @@ linktitle: set_Expires
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Expires method. Sets the ''Expires'' attribute''s value in C++.'
 type: docs
-weight: 1600
+weight: 3100
 url: /cpp/system.net/cookie/set_expires/
 ---
 ## Cookie::set_Expires method

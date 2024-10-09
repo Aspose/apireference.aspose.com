@@ -4,7 +4,7 @@ linktitle: ToU16Str
 second_title: Aspose.Page for C++
 description: 'System::String::ToU16Str method. Converts string to std::u16string in C++.'
 type: docs
-weight: 1300
+weight: 5000
 url: /cpp/system/string/tou16str/
 ---
 ## String::ToU16Str method

@@ -4,7 +4,7 @@ linktitle: Unlock
 second_title: Aspose.Page for C++
 description: 'System::Object::Unlock method. Implements C# lock() statement unlocking. Call directly or use LockContext sentry object in C++.'
 type: docs
-weight: 1200
+weight: 1900
 url: /cpp/system/object/unlock/
 ---
 ## Object::Unlock method

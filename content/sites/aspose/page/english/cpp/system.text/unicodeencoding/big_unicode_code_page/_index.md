@@ -4,7 +4,7 @@ linktitle: BIG_UNICODE_CODE_PAGE
 second_title: Aspose.Page for C++
 description: 'System::Text::UnicodeEncoding::BIG_UNICODE_CODE_PAGE field. Big endian codepage number in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.text/unicodeencoding/big_unicode_code_page/
 ---
 ## BIG_UNICODE_CODE_PAGE field

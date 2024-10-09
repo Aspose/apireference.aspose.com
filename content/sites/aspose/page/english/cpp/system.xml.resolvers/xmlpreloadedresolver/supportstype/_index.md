@@ -4,7 +4,7 @@ linktitle: SupportsType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Resolvers::XmlPreloadedResolver::SupportsType method. Determines whether the resolver supports other Types than just Stream in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/supportstype/
 ---
 ## XmlPreloadedResolver::SupportsType method

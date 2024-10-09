@@ -4,29 +4,9 @@ linktitle: Exclude
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Exclude method. Replaces the region represented by the current object with the result of exclusion of the region defined by the specified rectange from it in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.drawing/region/exclude/
 ---
-## Region::Exclude(const RectangleF\&) method
-
-
-Replaces the region represented by the current object with the result of exclusion of the region defined by the specified rectange from it.
-
-```cpp
-void System::Drawing::Region::Exclude(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | A rectangle that defines a region to exclude |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Exclude(const Rectangle\&) method
 
 
@@ -44,6 +24,26 @@ void System::Drawing::Region::Exclude(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Exclude(const RectangleF\&) method
+
+
+Replaces the region represented by the current object with the result of exclusion of the region defined by the specified rectange from it.
+
+```cpp
+void System::Drawing::Region::Exclude(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | A rectangle that defines a region to exclude |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

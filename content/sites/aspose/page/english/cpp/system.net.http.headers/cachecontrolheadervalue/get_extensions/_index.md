@@ -4,7 +4,7 @@ linktitle: get_Extensions
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::get_Extensions method. Returns the collection of the cache-extension tokens in C++.'
 type: docs
-weight: 2900
+weight: 300
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_extensions/
 ---
 ## CacheControlHeaderValue::get_Extensions method

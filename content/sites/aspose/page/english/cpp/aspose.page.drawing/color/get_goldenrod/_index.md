@@ -4,7 +4,7 @@ linktitle: get_Goldenrod
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Goldenrod method. Gets a system-defined color that has an ARGB value of #FFDAA520 in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.page.drawing/color/get_goldenrod/
 ---
 ## Color::get_Goldenrod method

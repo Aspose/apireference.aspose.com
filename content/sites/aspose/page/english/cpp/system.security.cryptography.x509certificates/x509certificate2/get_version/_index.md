@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::get_Version method. Gets certificate format version in C++.'
 type: docs
-weight: 1800
+weight: 1600
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_version/
 ---
 ## X509Certificate2::get_Version method

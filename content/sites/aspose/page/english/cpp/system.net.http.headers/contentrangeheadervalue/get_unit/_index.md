@@ -4,7 +4,7 @@ linktitle: get_Unit
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentRangeHeaderValue::get_Unit method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 800
 url: /cpp/system.net.http.headers/contentrangeheadervalue/get_unit/
 ---
 ## ContentRangeHeaderValue::get_Unit method

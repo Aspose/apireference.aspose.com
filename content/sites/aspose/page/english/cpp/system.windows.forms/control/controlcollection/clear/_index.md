@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::Clear method. Deletes all controls from collection in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/system.windows.forms/control/controlcollection/clear/
 ---
 ## ControlCollection::Clear method

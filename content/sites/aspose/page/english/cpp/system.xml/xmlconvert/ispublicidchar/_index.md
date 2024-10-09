@@ -4,7 +4,7 @@ linktitle: IsPublicIdChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::IsPublicIdChar method. Returns the passed-in character instance if the character in the argument is a valid public id character, otherwise nullptr in C++.'
 type: docs
-weight: 1600
+weight: 600
 url: /cpp/system.xml/xmlconvert/ispublicidchar/
 ---
 ## XmlConvert::IsPublicIdChar method

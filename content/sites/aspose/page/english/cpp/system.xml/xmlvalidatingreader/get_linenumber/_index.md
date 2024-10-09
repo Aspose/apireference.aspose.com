@@ -4,7 +4,7 @@ linktitle: get_LineNumber
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_LineNumber method. Returns the current line number in C++.'
 type: docs
-weight: 2100
+weight: 1400
 url: /cpp/system.xml/xmlvalidatingreader/get_linenumber/
 ---
 ## XmlValidatingReader::get_LineNumber method

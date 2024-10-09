@@ -4,7 +4,7 @@ linktitle: SetTemplateWeakPtr
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection< System::String >::SetTemplateWeakPtr method. Set n''th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode in C++.'
 type: docs
-weight: 1700
+weight: 1500
 url: /cpp/system.net.http.headers/string_/settemplateweakptr/
 ---
 ## String >::SetTemplateWeakPtr method

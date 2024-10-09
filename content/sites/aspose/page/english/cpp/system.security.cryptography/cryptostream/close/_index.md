@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::Close method. Closes connection in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.security.cryptography/cryptostream/close/
 ---
 ## CryptoStream::Close method

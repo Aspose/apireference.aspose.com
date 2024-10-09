@@ -4,7 +4,7 @@ linktitle: set_NegativeInfinitySymbol
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_NegativeInfinitySymbol method. Sets negative infinity symbol in C++.'
 type: docs
-weight: 3700
+weight: 4300
 url: /cpp/system.globalization/numberformatinfo/set_negativeinfinitysymbol/
 ---
 ## NumberFormatInfo::set_NegativeInfinitySymbol method

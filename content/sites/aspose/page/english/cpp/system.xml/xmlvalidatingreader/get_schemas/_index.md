@@ -4,7 +4,7 @@ linktitle: get_Schemas
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_Schemas method. Returns a XmlSchemaCollection to use for validation in C++.'
 type: docs
-weight: 2700
+weight: 2600
 url: /cpp/system.xml/xmlvalidatingreader/get_schemas/
 ---
 ## XmlValidatingReader::get_Schemas method

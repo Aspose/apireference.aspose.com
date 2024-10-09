@@ -4,7 +4,7 @@ linktitle: System::Net::Sockets
 second_title: Aspose.Page for C++
 description: 'How to use System::Net::Sockets namespace in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/system.net.sockets/
 ---
 
@@ -25,7 +25,6 @@ url: /cpp/system.net.sockets/
 
 | Enum | Description |
 | --- | --- |
-| [SocketType](./sockettype/) | Enumerates the socket types. |
 | [AddressFamily](./addressfamily/) | Enumerates the address families. |
 | [IOControlCode](./iocontrolcode/) | Enumerates the [IO](../system.io/) control codes. |
 | [ProtocolFamily](./protocolfamily/) | Enumerates the protocol families. |
@@ -36,6 +35,7 @@ url: /cpp/system.net.sockets/
 | [SocketOptionLevel](./socketoptionlevel/) | Defines socket option levels for the '[Socket](./socket/)' class. |
 | [SocketOptionName](./socketoptionname/) | Defines socket option names for the [Socket](./socket/) class. |
 | [SocketShutdown](./socketshutdown/) | Defines constants used by the [Socket.Shutdown](./socket/shutdown/) method. |
+| [SocketType](./sockettype/) | Enumerates the socket types. |
 ## Typedefs
 
 | Typedef | Description |
@@ -45,5 +45,5 @@ url: /cpp/system.net.sockets/
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

@@ -4,7 +4,7 @@ linktitle: get_CanSeek
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::get_CanSeek method. Checks if stream is seekable in C++.'
 type: docs
-weight: 1300
+weight: 600
 url: /cpp/system.security.cryptography/cryptostream/get_canseek/
 ---
 ## CryptoStream::get_CanSeek method

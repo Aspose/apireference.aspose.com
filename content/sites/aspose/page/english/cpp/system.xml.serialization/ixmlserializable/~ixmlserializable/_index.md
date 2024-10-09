@@ -4,7 +4,7 @@ linktitle: ~IXmlSerializable
 second_title: Aspose.Page for C++
 description: 'System::Xml::Serialization::IXmlSerializable::~IXmlSerializable method. Destructor in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml.serialization/ixmlserializable/~ixmlserializable/
 ---
 ## IXmlSerializable::~IXmlSerializable method

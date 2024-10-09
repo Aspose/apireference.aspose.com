@@ -4,7 +4,7 @@ linktitle: GetXml
 second_title: Aspose.Page for C++
 description: 'How to use GetXml method of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.security.cryptography.xml/keyinfox509data/getxml/
 ---
 ## KeyInfoX509Data::GetXml() method

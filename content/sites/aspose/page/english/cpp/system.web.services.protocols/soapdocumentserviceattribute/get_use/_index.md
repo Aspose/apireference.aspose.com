@@ -4,7 +4,7 @@ linktitle: get_Use
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentServiceAttribute::get_Use method. Gets the parameter formatting in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/get_use/
 ---
 ## SoapDocumentServiceAttribute::get_Use method

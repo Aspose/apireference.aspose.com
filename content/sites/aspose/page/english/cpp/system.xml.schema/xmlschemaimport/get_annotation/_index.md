@@ -4,7 +4,7 @@ linktitle: get_Annotation
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaImport::get_Annotation method. Returns the annotation value in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaimport/get_annotation/
 ---
 ## XmlSchemaImport::get_Annotation method

@@ -4,7 +4,7 @@ linktitle: get_PropagatedNamespaces
 second_title: Aspose.Page for C++
 description: 'How to use get_PropagatedNamespaces method of System::Security::Cryptography::Xml::Transform class in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.security.cryptography.xml/transform/get_propagatednamespaces/
 ---
 ## Transform::get_PropagatedNamespaces method

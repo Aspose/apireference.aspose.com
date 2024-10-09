@@ -4,7 +4,7 @@ linktitle: get_SchemaInfo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::get_SchemaInfo method. Returns the schema information that has been assigned to the current node in C++.'
 type: docs
-weight: 1500
+weight: 2000
 url: /cpp/system.xml/xmlnodereader/get_schemainfo/
 ---
 ## XmlNodeReader::get_SchemaInfo method

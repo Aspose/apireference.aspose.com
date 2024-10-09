@@ -4,7 +4,7 @@ linktitle: get_Headers
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpContent::get_Headers method. Returns the HTTP content headers in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net.http/httpcontent/get_headers/
 ---
 ## HttpContent::get_Headers method

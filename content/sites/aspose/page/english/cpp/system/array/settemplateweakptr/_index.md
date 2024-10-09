@@ -4,7 +4,7 @@ linktitle: SetTemplateWeakPtr
 second_title: Aspose.Page for C++
 description: 'System::Array::SetTemplateWeakPtr method. Makes array treat stored pointers as weak (if applicable) in C++.'
 type: docs
-weight: 600
+weight: 4000
 url: /cpp/system/array/settemplateweakptr/
 ---
 ## Array::SetTemplateWeakPtr method

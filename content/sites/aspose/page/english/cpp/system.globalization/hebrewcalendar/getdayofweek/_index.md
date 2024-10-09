@@ -4,7 +4,7 @@ linktitle: GetDayOfWeek
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HebrewCalendar::GetDayOfWeek method. Gets day of week for the specified time point in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.globalization/hebrewcalendar/getdayofweek/
 ---
 ## HebrewCalendar::GetDayOfWeek method

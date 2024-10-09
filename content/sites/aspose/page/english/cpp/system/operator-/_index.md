@@ -2,35 +2,11 @@
 title: System::operator- method
 linktitle: operator-
 second_title: Aspose.Page for C++
-description: 'System::operator- method. Calculates the number of days between two days of week in C++.'
+description: 'System::operator- method. Returns a new instance of Decimal class that represents a value that is the result of subtraction of the value represented by the specified Decimal object from the specified value in C++.'
 type: docs
-weight: 22800
+weight: 24200
 url: /cpp/system/operator-/
 ---
-## System::operator-(DayOfWeek, DayOfWeek) method
-
-
-Calculates the number of days between two days of week.
-
-```cpp
-auto System::operator-(DayOfWeek a, DayOfWeek b)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | DayOfWeek | The minuend |
-| b | DayOfWeek | The subtrahend |
-
-### ReturnValue
-
-The number of days between weekdays **a** and **b**; the return value is a negative number if *goes* after ****
-
-## See Also
-
-* Enum [DayOfWeek](../dayofweek/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
 ## System::operator-(const T\&, const Decimal\&) method
 
 
@@ -53,29 +29,6 @@ A new instance of [Decimal](../decimal/) class that represents a value that is t
 ## See Also
 
 * Class [Decimal](../decimal/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::operator-(MulticastDelegate\<T\>, MulticastDelegate\<T\>) method
-
-
-Disconnects all callbacks in right hand delegate from the end of left hand delegate callback list.
-
-```cpp
-template<typename T> MulticastDelegate<T> System::operator-(MulticastDelegate<T> lhv, MulticastDelegate<T> rhv)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| lhv | MulticastDelegate\<T\> | The delegate from which callbacks will be removed. |
-| rhv | MulticastDelegate\<T\> | The delegate whose callbacks will be removed. |
-
-### ReturnValue
-
-Returns a delegate that contains the callbacks of the left hand value, but without the right hand value ones.
-
-## See Also
-
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
 ## System::operator-(const T1\&, const Nullable\<T2\>\&) method
@@ -105,5 +58,52 @@ Substation result.
 ## See Also
 
 * Class [Nullable](../nullable/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::operator-(DayOfWeek, DayOfWeek) method
+
+
+Calculates the number of days between two days of week.
+
+```cpp
+auto System::operator-(DayOfWeek a, DayOfWeek b)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | DayOfWeek | The minuend |
+| b | DayOfWeek | The subtrahend |
+
+### ReturnValue
+
+The number of days between weekdays **a** and **b**; the return value is a negative number if *goes* after ****
+
+## See Also
+
+* Enum [DayOfWeek](../dayofweek/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::operator-(MulticastDelegate\<T\>, MulticastDelegate\<T\>) method
+
+
+Disconnects all callbacks in right hand delegate from the end of left hand delegate callback list.
+
+```cpp
+template<typename T> MulticastDelegate<T> System::operator-(MulticastDelegate<T> lhv, MulticastDelegate<T> rhv)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhv | MulticastDelegate\<T\> | The delegate from which callbacks will be removed. |
+| rhv | MulticastDelegate\<T\> | The delegate whose callbacks will be removed. |
+
+### ReturnValue
+
+Returns a delegate that contains the callbacks of the left hand value, but without the right hand value ones.
+
+## See Also
+
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)

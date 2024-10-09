@@ -4,7 +4,7 @@ linktitle: FromMilliseconds
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::FromMilliseconds method. Returns a new TimeSpan object that represents the specified interval in C++.'
 type: docs
-weight: 3600
+weight: 3800
 url: /cpp/system/timespan/frommilliseconds/
 ---
 ## TimeSpan::FromMilliseconds method

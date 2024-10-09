@@ -4,7 +4,7 @@ linktitle: GetImpl
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::GetImpl method. Returns a pointer to implementation in C++.'
 type: docs
-weight: 1600
+weight: 1200
 url: /cpp/system.net/ipaddress/getimpl/
 ---
 ## IPAddress::GetImpl method

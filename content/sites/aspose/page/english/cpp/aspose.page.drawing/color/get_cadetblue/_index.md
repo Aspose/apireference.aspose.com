@@ -4,7 +4,7 @@ linktitle: get_CadetBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_CadetBlue method. Gets a system-defined color that has an ARGB value of #FF5F9EA0 in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.page.drawing/color/get_cadetblue/
 ---
 ## Color::get_CadetBlue method

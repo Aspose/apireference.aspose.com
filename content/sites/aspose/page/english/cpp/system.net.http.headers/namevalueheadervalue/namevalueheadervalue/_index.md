@@ -4,7 +4,7 @@ linktitle: NameValueHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::NameValueHeaderValue::NameValueHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.net.http.headers/namevalueheadervalue/namevalueheadervalue/
 ---
 ## NameValueHeaderValue::NameValueHeaderValue() constructor

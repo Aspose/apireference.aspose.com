@@ -4,7 +4,7 @@ linktitle: get_IsDateTime
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::get_IsDateTime method. Returns true if value is DateTime in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page.eps.xmp/xmpvalue/get_isdatetime/
 ---
 ## XmpValue::get_IsDateTime method

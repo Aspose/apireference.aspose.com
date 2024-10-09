@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Page for C++
 description: 'System::Array::virtualizeEndIterator method. Gets the implementation of end iterator for the current container in C++.'
 type: docs
-weight: 4300
+weight: 4500
 url: /cpp/system/array/virtualizeenditerator/
 ---
 ## Array::virtualizeEndIterator method

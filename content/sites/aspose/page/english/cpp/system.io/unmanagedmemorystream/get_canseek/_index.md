@@ -4,7 +4,7 @@ linktitle: get_CanSeek
 second_title: Aspose.Page for C++
 description: 'System::IO::UnmanagedMemoryStream::get_CanSeek method. Determines if the stream supports seeking in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.io/unmanagedmemorystream/get_canseek/
 ---
 ## UnmanagedMemoryStream::get_CanSeek method

@@ -4,7 +4,7 @@ linktitle: OpenPartition
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPartitionDevice::OpenPartition method. Starts the new document partition in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page/imultipartitiondevice/openpartition/
 ---
 ## IMultiPartitionDevice::OpenPartition method

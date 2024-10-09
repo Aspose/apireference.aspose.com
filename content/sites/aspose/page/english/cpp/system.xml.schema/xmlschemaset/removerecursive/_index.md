@@ -4,7 +4,7 @@ linktitle: RemoveRecursive
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::RemoveRecursive method. Removes the specified XML Schema definition language (XSD) schema and all the schemas it imports from the XmlSchemaSet in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/system.xml.schema/xmlschemaset/removerecursive/
 ---
 ## XmlSchemaSet::RemoveRecursive method

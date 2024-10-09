@@ -4,7 +4,7 @@ linktitle: XmlReaderSettings
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::XmlReaderSettings constructor. Initializes a new instance of the XmlReaderSettings class in C++.'
 type: docs
-weight: 3400
+weight: 100
 url: /cpp/system.xml/xmlreadersettings/xmlreadersettings/
 ---
 ## XmlReaderSettings::XmlReaderSettings constructor

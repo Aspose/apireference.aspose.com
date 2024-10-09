@@ -4,7 +4,7 @@ linktitle: AsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::AsReadOnly method. Gets read-only reference to this collection in C++.'
 type: docs
-weight: 2600
+weight: 600
 url: /cpp/system.collections.generic/list/asreadonly/
 ---
 ## List::AsReadOnly method

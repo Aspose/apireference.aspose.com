@@ -4,7 +4,7 @@ linktitle: set_RefName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaGroupRef::set_RefName method. Sets the name of a group defined in this schema (or another schema indicated by the specified namespace) in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml.schema/xmlschemagroupref/set_refname/
 ---
 ## XmlSchemaGroupRef::set_RefName method

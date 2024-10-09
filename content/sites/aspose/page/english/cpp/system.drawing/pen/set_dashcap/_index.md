@@ -4,7 +4,7 @@ linktitle: set_DashCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_DashCap method. Sets a value that specifies the cap used at the both ends of a dashed line in C++.'
 type: docs
-weight: 1700
+weight: 2900
 url: /cpp/system.drawing/pen/set_dashcap/
 ---
 ## Pen::set_DashCap method

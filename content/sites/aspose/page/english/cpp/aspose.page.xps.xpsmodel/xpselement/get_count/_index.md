@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::get_Count method. Returns number of child elements in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/get_count/
 ---
 ## XpsElement::get_Count method

@@ -4,7 +4,7 @@ linktitle: set_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Net::IWebProxy::set_Credentials method. Sets credentials for authentication on the proxy server in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net/iwebproxy/set_credentials/
 ---
 ## IWebProxy::set_Credentials method

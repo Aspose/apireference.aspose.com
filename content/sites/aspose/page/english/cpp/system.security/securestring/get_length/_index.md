@@ -4,7 +4,7 @@ linktitle: get_Length
 second_title: Aspose.Page for C++
 description: 'System::Security::SecureString::get_Length method. Gets number of characters in this secure string in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.security/securestring/get_length/
 ---
 ## SecureString::get_Length method

@@ -4,7 +4,7 @@ linktitle: ResolveUri
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlUrlResolver::ResolveUri method. Resolves the absolute URI from the base and relative URIs in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.xml/xmlurlresolver/resolveuri/
 ---
 ## XmlUrlResolver::ResolveUri method

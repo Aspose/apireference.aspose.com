@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::get_Count method. Gets number of elements in current list in C++.'
 type: docs
-weight: 1200
+weight: 2600
 url: /cpp/system.collections.generic/list/get_count/
 ---
 ## List::get_Count method

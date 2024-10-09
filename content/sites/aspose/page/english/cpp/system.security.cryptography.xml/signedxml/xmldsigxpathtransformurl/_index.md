@@ -4,7 +4,7 @@ linktitle: XmlDsigXPathTransformUrl
 second_title: Aspose.Page for C++
 description: 'How to use XmlDsigXPathTransformUrl field of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 3900
+weight: 4100
 url: /cpp/system.security.cryptography.xml/signedxml/xmldsigxpathtransformurl/
 ---
 ## XmlDsigXPathTransformUrl field

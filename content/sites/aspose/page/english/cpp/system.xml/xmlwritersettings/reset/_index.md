@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::Reset method. Resets the members of the settings class to their default values in C++.'
 type: docs
-weight: 2900
+weight: 1700
 url: /cpp/system.xml/xmlwritersettings/reset/
 ---
 ## XmlWriterSettings::Reset method

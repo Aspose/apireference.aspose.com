@@ -4,7 +4,7 @@ linktitle: get_IndianRed
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_IndianRed method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFCD5C5C in C++.'
 type: docs
-weight: 5700
+weight: 5600
 url: /cpp/system.drawing/pens/get_indianred/
 ---
 ## Pens::get_IndianRed method

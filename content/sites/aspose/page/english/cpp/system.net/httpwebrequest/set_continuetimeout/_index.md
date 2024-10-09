@@ -4,7 +4,7 @@ linktitle: set_ContinueTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_ContinueTimeout method. Sets a timeout to wait until the 100-Continue status code is received in C++.'
 type: docs
-weight: 1200
+weight: 4400
 url: /cpp/system.net/httpwebrequest/set_continuetimeout/
 ---
 ## HttpWebRequest::set_ContinueTimeout method

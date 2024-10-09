@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::RemoveAt method. Removes control from collection in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/system.windows.forms/control/controlcollection/removeat/
 ---
 ## ControlCollection::RemoveAt method

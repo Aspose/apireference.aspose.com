@@ -4,7 +4,7 @@ linktitle: ReplaceData
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::ReplaceData method. Replaces the specified number of characters starting at the specified offset with the specified string in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system.xml/xmlcharacterdata/replacedata/
 ---
 ## XmlCharacterData::ReplaceData method

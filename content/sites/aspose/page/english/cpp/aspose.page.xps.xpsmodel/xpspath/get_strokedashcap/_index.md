@@ -4,7 +4,7 @@ linktitle: get_StrokeDashCap
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::get_StrokeDashCap method. Returns/sets the value specifying how the ends of each dash are drawn in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/get_strokedashcap/
 ---
 ## XpsPath::get_StrokeDashCap method

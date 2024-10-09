@@ -4,7 +4,7 @@ linktitle: operator bool
 second_title: Aspose.Page for C++
 description: 'System::Drawing::PointF::operator bool method. Always returns true in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/system.drawing/pointf/operatorbool/
 ---
 ## PointF::operator bool method

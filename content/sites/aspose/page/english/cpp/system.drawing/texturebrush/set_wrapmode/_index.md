@@ -4,7 +4,7 @@ linktitle: set_WrapMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::TextureBrush::set_WrapMode method. Sets a value that specifies how the brush represented by the current object is tiled in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.drawing/texturebrush/set_wrapmode/
 ---
 ## TextureBrush::set_WrapMode method

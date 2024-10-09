@@ -4,7 +4,7 @@ linktitle: EntityTagHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::EntityTagHeaderValue::EntityTagHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.http.headers/entitytagheadervalue/entitytagheadervalue/
 ---
 ## EntityTagHeaderValue::EntityTagHeaderValue(String) constructor

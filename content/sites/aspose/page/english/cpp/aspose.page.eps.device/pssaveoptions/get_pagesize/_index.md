@@ -4,7 +4,7 @@ linktitle: get_PageSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PsSaveOptions::get_PageSize method. The size of the page in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.page.eps.device/pssaveoptions/get_pagesize/
 ---
 ## PsSaveOptions::get_PageSize method

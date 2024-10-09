@@ -4,7 +4,7 @@ linktitle: get_Array
 second_title: Aspose.Page for C++
 description: 'How to use get_Array method of System::ArraySegment class in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system/arraysegment/get_array/
 ---
 ## ArraySegment::get_Array method

@@ -4,7 +4,7 @@ linktitle: set_MaxIdleTime
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::set_MaxIdleTime method. Sets an amount of time in milliseconds after which an idle connection will be closed in C++.'
 type: docs
-weight: 700
+weight: 2100
 url: /cpp/system.net/servicepoint/set_maxidletime/
 ---
 ## ServicePoint::set_MaxIdleTime method

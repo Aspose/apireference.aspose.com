@@ -4,7 +4,7 @@ linktitle: set_XmlResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::set_XmlResolver method. Sets the XmlResolver to use for resolving external resources in C++.'
 type: docs
-weight: 1000
+weight: 4200
 url: /cpp/system.xml/xmldocument/set_xmlresolver/
 ---
 ## XmlDocument::set_XmlResolver method

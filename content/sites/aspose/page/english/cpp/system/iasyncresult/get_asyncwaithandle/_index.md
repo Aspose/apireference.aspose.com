@@ -4,7 +4,7 @@ linktitle: get_AsyncWaitHandle
 second_title: Aspose.Page for C++
 description: 'System::IAsyncResult::get_AsyncWaitHandle method. Returns an instance of WaitHandle that can be used to wait for the completion of the asynchronous operation in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system/iasyncresult/get_asyncwaithandle/
 ---
 ## IAsyncResult::get_AsyncWaitHandle method

@@ -4,7 +4,7 @@ linktitle: GetInstance
 second_title: Aspose.Page for C++
 description: 'System::Threading::ThreadPool::GetInstance method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.threading/threadpool/getinstance/
 ---
 ## ThreadPool::GetInstance method

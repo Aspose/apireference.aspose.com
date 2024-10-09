@@ -4,7 +4,7 @@ linktitle: RemoveAll
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttributeCollection::RemoveAll method. Removes all attributes from the collection in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.xml/xmlattributecollection/removeall/
 ---
 ## XmlAttributeCollection::RemoveAll method

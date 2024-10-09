@@ -4,7 +4,7 @@ linktitle: get_NumberDecimalDigits
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_NumberDecimalDigits method. Gets number of decimal digits in C++.'
 type: docs
-weight: 600
+weight: 1600
 url: /cpp/system.globalization/numberformatinfo/get_numberdecimaldigits/
 ---
 ## NumberFormatInfo::get_NumberDecimalDigits method

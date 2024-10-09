@@ -4,7 +4,7 @@ linktitle: Mybase
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSystemOStreamWrapper::Mybase typedef of System::IO::BasicSystemOStreamWrapper class in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.io/basicsystemostreamwrapper/mybase/
 ---
 ## Mybase typedef

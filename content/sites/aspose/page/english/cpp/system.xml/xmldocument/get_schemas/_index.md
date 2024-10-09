@@ -4,7 +4,7 @@ linktitle: get_Schemas
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::get_Schemas method. Returns the XmlSchemaSet object associated with this XmlDocument in C++.'
 type: docs
-weight: 800
+weight: 3000
 url: /cpp/system.xml/xmldocument/get_schemas/
 ---
 ## XmlDocument::get_Schemas method

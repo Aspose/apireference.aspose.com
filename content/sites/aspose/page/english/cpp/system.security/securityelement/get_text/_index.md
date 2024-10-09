@@ -4,7 +4,7 @@ linktitle: get_Text
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::get_Text method. Gets tag inner text in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system.security/securityelement/get_text/
 ---
 ## SecurityElement::get_Text method

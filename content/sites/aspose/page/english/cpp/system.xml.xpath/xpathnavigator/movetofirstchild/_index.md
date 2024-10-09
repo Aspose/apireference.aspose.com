@@ -4,7 +4,7 @@ linktitle: MoveToFirstChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToFirstChild method. When overridden in a derived class, moves the XPathNavigator to the first child node of the current node in C++.'
 type: docs
-weight: 4900
+weight: 5500
 url: /cpp/system.xml.xpath/xpathnavigator/movetofirstchild/
 ---
 ## XPathNavigator::MoveToFirstChild method

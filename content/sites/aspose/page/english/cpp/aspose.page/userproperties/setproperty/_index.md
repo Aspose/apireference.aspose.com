@@ -2,25 +2,106 @@
 title: Aspose::Page::UserProperties::SetProperty method
 linktitle: SetProperty
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::UserProperties::SetProperty method. Sets string property value in C++.'
+description: 'Aspose::Page::UserProperties::SetProperty method. Sets boolean property value in C++.'
 type: docs
-weight: 500
+weight: 1600
 url: /cpp/aspose.page/userproperties/setproperty/
 ---
-## UserProperties::SetProperty(System::String, System::String) method
+## UserProperties::SetProperty(System::String, bool) method
 
 
-Sets string property value.
+Sets boolean property value.
 
 ```cpp
-virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, System::String value)
+virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, bool value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | System::String | The name of property. |
-| value | System::String | The value of property. |
+| value | bool | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::String, double) method
+
+
+Sets double property value.
+
+```cpp
+virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, double value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | System::String | The name of property. |
+| value | double | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::String, float) method
+
+
+Sets float property value.
+
+```cpp
+virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, float value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | System::String | The name of property. |
+| value | float | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::String, int32_t) method
+
+
+Sets integer property value.
+
+```cpp
+virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, int32_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | System::String | The name of property. |
+| value | int32_t | The value of property. |
 
 ### ReturnValue
 
@@ -118,34 +199,6 @@ A property.
 * Class [UserProperties](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::String, System::SharedPtr\<Margins\>) method
-
-
-Sets margins property value.
-
-```cpp
-virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, System::SharedPtr<Margins> value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | System::String | The name of property. |
-| value | System::SharedPtr\<Margins\> | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [Margins](../../margins/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
 ## UserProperties::SetProperty(System::String, System::Drawing::Size) method
 
 
@@ -174,20 +227,20 @@ A property.
 * Class [UserProperties](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::String, int32_t) method
+## UserProperties::SetProperty(System::String, System::SharedPtr\<Margins\>) method
 
 
-Sets integer property value.
+Sets margins property value.
 
 ```cpp
-virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, int32_t value)
+virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, System::SharedPtr<Margins> value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | System::String | The name of property. |
-| value | int32_t | The value of property. |
+| value | System::SharedPtr\<Margins\> | The value of property. |
 
 ### ReturnValue
 
@@ -198,87 +251,7 @@ A property.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::String, double) method
-
-
-Sets double property value.
-
-```cpp
-virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, double value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | System::String | The name of property. |
-| value | double | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::String, float) method
-
-
-Sets float property value.
-
-```cpp
-virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, float value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | System::String | The name of property. |
-| value | float | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::String, bool) method
-
-
-Sets boolean property value.
-
-```cpp
-virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, bool value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | System::String | The name of property. |
-| value | bool | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
+* Class [Margins](../../margins/)
 * Class [UserProperties](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -307,6 +280,149 @@ A property.
 * Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::String, System::String) method
+
+
+Sets string property value.
+
+```cpp
+virtual System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::String key, System::String value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | System::String | The name of property. |
+| value | System::String | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, bool) method
+
+
+Sets boolean property value in specified properties table.
+
+```cpp
+static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, bool value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
+| key | System::String | The name of property. |
+| value | bool | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, double) method
+
+
+Sets double property value in specified properties table.
+
+```cpp
+static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, double value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
+| key | System::String | The name of property. |
+| value | double | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, float) method
+
+
+Sets float property value in specified properties table.
+
+```cpp
+static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, float value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
+| key | System::String | The name of property. |
+| value | float | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [UserProperties](../)
+* Namespace [Aspose::Page](../../)
+* Library [Aspose.Page for C++](../../../)
+## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, int32_t) method
+
+
+Sets integer property value in specified properties table.
+
+```cpp
+static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, int32_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
+| key | System::String | The name of property. |
+| value | int32_t | The value of property. |
+
+### ReturnValue
+
+A property.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
 * Class [UserProperties](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -400,36 +516,6 @@ A property.
 * Class [UserProperties](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, System::SharedPtr\<Margins\>) method
-
-
-Sets margins property value in specified properties table.
-
-```cpp
-static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, System::SharedPtr<Margins> value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
-| key | System::String | The name of property. |
-| value | System::SharedPtr\<Margins\> | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
-* Class [Margins](../../margins/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
 ## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, System::Drawing::Size) method
 
 
@@ -460,13 +546,13 @@ A property.
 * Class [UserProperties](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, int32_t) method
+## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, System::SharedPtr\<Margins\>) method
 
 
-Sets integer property value in specified properties table.
+Sets margins property value in specified properties table.
 
 ```cpp
-static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, int32_t value)
+static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, System::SharedPtr<Margins> value)
 ```
 
 
@@ -474,7 +560,7 @@ static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProper
 | --- | --- | --- |
 | properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
 | key | System::String | The name of property. |
-| value | int32_t | The value of property. |
+| value | System::SharedPtr\<Margins\> | The value of property. |
 
 ### ReturnValue
 
@@ -486,93 +572,7 @@ A property.
 * Class [Object](../../../system/object/)
 * Class [Dictionary](../../../system.collections.generic/dictionary/)
 * Class [String](../../../system/string/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, double) method
-
-
-Sets double property value in specified properties table.
-
-```cpp
-static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, double value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
-| key | System::String | The name of property. |
-| value | double | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, float) method
-
-
-Sets float property value in specified properties table.
-
-```cpp
-static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, float value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
-| key | System::String | The name of property. |
-| value | float | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
-* Class [UserProperties](../)
-* Namespace [Aspose::Page](../../)
-* Library [Aspose.Page for C++](../../../)
-## UserProperties::SetProperty(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\>, System::String, bool) method
-
-
-Sets boolean property value in specified properties table.
-
-```cpp
-static System::SharedPtr<System::Object> Aspose::Page::UserProperties::SetProperty(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<System::Object>>> properties, System::String key, bool value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| properties | System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::SharedPtr\<System::Object\>\>\> | The properties table. |
-| key | System::String | The name of property. |
-| value | bool | The value of property. |
-
-### ReturnValue
-
-A property.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
+* Class [Margins](../../margins/)
 * Class [UserProperties](../)
 * Namespace [Aspose::Page](../../)
 * Library [Aspose.Page for C++](../../../)

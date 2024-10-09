@@ -4,7 +4,7 @@ linktitle: get_Height
 second_title: Aspose.Page for C++
 description: 'System::Drawing::RectangleF::get_Height method. Returns the height of the rectangle represented by the current object in C++.'
 type: docs
-weight: 1200
+weight: 500
 url: /cpp/system.drawing/rectanglef/get_height/
 ---
 ## RectangleF::get_Height method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::GradientBrush::Clone method. Clones this brush in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.page.eps/gradientbrush/clone/
 ---
 ## GradientBrush::Clone method

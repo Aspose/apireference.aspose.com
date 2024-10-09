@@ -4,7 +4,7 @@ linktitle: get_DerivedBy
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_DerivedBy method. Returns the post-compilation information on how this element was derived from its base type in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system.xml.schema/xmlschematype/get_derivedby/
 ---
 ## XmlSchemaType::get_DerivedBy method

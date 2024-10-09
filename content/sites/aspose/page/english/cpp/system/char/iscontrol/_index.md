@@ -2,11 +2,34 @@
 title: System::Char::IsControl method
 linktitle: IsControl
 second_title: Aspose.Page for C++
-description: 'System::Char::IsControl method. Determines whether the character at the specified index in the specified character buffer is classified as Unicode control character in C++.'
+description: 'System::Char::IsControl method. Determines whether the specified character is classified as Unicode control character in C++.'
 type: docs
 weight: 600
 url: /cpp/system/char/iscontrol/
 ---
+## Char::IsControl(char_t) method
+
+
+Determines whether the specified character is classified as Unicode control character.
+
+```cpp
+static bool System::Char::IsControl(char_t c)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | char_t | The character to test |
+
+### ReturnValue
+
+True if the specified character is a Unicode control character, otherwise - false
+
+## See Also
+
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Char::IsControl(const char_t *, int) method
 
 
@@ -25,29 +48,6 @@ static bool System::Char::IsControl(const char_t *str, int idx)
 ### ReturnValue
 
 True if the character at the specified index is a Unicode control character, otherwise - false
-
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Char::IsControl(char_t) method
-
-
-Determines whether the specified character is classified as Unicode control character.
-
-```cpp
-static bool System::Char::IsControl(char_t c)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | char_t | The character to test |
-
-### ReturnValue
-
-True if the specified character is a Unicode control character, otherwise - false
 
 ## See Also
 

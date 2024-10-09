@@ -4,7 +4,7 @@ linktitle: get_Referrer
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_Referrer method. Gets a value of the ''Referer'' header in C++.'
 type: docs
-weight: 2800
+weight: 2500
 url: /cpp/system.net.http.headers/httprequestheaders/get_referrer/
 ---
 ## HttpRequestHeaders::get_Referrer method

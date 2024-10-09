@@ -4,7 +4,7 @@ linktitle: HasLineInfo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::HasLineInfo method. Returns a value indicating whether the class can return line information in C++.'
 type: docs
-weight: 5000
+weight: 3300
 url: /cpp/system.xml/xmlvalidatingreader/haslineinfo/
 ---
 ## XmlValidatingReader::HasLineInfo method

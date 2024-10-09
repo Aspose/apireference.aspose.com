@@ -4,7 +4,7 @@ linktitle: CreateProcessingInstruction
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateProcessingInstruction method. Creates an XmlProcessingInstruction with the specified name and data in C++.'
 type: docs
-weight: 2900
+weight: 1200
 url: /cpp/system.xml/xmldocument/createprocessinginstruction/
 ---
 ## XmlDocument::CreateProcessingInstruction method

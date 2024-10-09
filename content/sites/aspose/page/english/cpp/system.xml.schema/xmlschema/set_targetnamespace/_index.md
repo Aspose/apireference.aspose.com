@@ -4,7 +4,7 @@ linktitle: set_TargetNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_TargetNamespace method. Sets the Uniform Resource Identifier (URI) of the schema target namespace in C++.'
 type: docs
-weight: 1000
+weight: 2500
 url: /cpp/system.xml.schema/xmlschema/set_targetnamespace/
 ---
 ## XmlSchema::set_TargetNamespace method

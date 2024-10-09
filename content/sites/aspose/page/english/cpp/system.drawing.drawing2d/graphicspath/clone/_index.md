@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::Clone method. Creates a copy of the current object in C++.'
 type: docs
-weight: 3500
+weight: 1700
 url: /cpp/system.drawing.drawing2d/graphicspath/clone/
 ---
 ## GraphicsPath::Clone method

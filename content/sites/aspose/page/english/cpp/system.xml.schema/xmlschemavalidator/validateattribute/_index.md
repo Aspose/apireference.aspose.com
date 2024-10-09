@@ -4,7 +4,7 @@ linktitle: ValidateAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::ValidateAttribute method. Validates the attribute name, namespace URI, and value in the current element context in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/system.xml.schema/xmlschemavalidator/validateattribute/
 ---
 ## XmlSchemaValidator::ValidateAttribute(const String\&, const String\&, const String\&, const SharedPtr\<XmlSchemaInfo\>\&) method

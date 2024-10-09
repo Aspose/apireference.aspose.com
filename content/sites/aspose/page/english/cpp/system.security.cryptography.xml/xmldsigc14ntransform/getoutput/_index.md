@@ -4,7 +4,7 @@ linktitle: GetOutput
 second_title: Aspose.Page for C++
 description: 'How to use GetOutput method of System::Security::Cryptography::Xml::XmlDsigC14NTransform class in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.security.cryptography.xml/xmldsigc14ntransform/getoutput/
 ---
 ## XmlDsigC14NTransform::GetOutput() method

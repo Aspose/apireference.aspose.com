@@ -4,7 +4,7 @@ linktitle: set_AMDesignator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_AMDesignator method. Sets AM designator in C++.'
 type: docs
-weight: 2000
+weight: 4500
 url: /cpp/system.globalization/datetimeformatinfo/set_amdesignator/
 ---
 ## DateTimeFormatInfo::set_AMDesignator method

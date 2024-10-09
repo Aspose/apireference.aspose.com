@@ -4,7 +4,7 @@ linktitle: get_SaveTargetsCollection
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverterOptions::get_SaveTargetsCollection method. Gets collection of added targets for saving operation results in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/aspose.page.plugins/psconverteroptions/get_savetargetscollection/
 ---
 ## PsConverterOptions::get_SaveTargetsCollection method

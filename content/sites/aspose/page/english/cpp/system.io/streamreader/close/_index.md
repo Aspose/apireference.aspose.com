@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamReader::Close method. Closes the current and underlying streams in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.io/streamreader/close/
 ---
 ## StreamReader::Close method

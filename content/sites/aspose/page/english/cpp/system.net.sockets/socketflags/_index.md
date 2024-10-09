@@ -4,7 +4,7 @@ linktitle: SocketFlags
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::SocketFlags enum. Provides constant values for the socket messages in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/system.net.sockets/socketflags/
 ---
 ## SocketFlags enum

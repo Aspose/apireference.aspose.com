@@ -4,7 +4,7 @@ linktitle: Compression
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::Encoder::Compression field. An instance of Encoder class that represents the compression parameter category in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.drawing.imaging/encoder/compression/
 ---
 ## Compression field

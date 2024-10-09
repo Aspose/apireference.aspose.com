@@ -4,7 +4,7 @@ linktitle: set_LinePositionOffset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_LinePositionOffset method. Sets line position offset of the XmlReader object in C++.'
 type: docs
-weight: 700
+weight: 2900
 url: /cpp/system.xml/xmlreadersettings/set_linepositionoffset/
 ---
 ## XmlReaderSettings::set_LinePositionOffset method

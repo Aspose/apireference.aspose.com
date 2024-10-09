@@ -4,7 +4,7 @@ linktitle: set_CacheControl
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::set_CacheControl method. Sets a value of the ''Cache-Control'' header in C++.'
 type: docs
-weight: 1500
+weight: 2400
 url: /cpp/system.net.http.headers/httpresponseheaders/set_cachecontrol/
 ---
 ## HttpResponseHeaders::set_CacheControl method

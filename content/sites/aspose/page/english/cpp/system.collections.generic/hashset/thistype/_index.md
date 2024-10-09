@@ -4,7 +4,7 @@ linktitle: ThisType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::HashSet::ThisType typedef. Self type in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.collections.generic/hashset/thistype/
 ---
 ## ThisType typedef

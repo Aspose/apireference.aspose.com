@@ -4,7 +4,7 @@ linktitle: ToDouble
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::ToDouble method. Converts to double in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.page.eps.xmp/xmpvalue/todouble/
 ---
 ## XmpValue::ToDouble method

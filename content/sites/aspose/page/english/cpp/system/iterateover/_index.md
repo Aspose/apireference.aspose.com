@@ -2,11 +2,48 @@
 title: System::IterateOver method
 linktitle: IterateOver
 second_title: Aspose.Page for C++
-description: 'System::IterateOver method. This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable without begin(), end() methods with target type argument for (auto& value : IterateOver<SomeType>(enumerable)) in C++.'
+description: 'System::IterateOver method. This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable this with default target type in C++.'
 type: docs
-weight: 24800
+weight: 20100
 url: /cpp/system/iterateover/
 ---
+## System::IterateOver(const Enumerable *) method
+
+
+This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable this with default target type.
+
+```cpp
+template<typename Enumerable> std::enable_if_t<!IsSmartPtr<Enumerable>::value, Details::EnumeratorAdapter<Enumerable, Details::ValueTypeOfEnumerable<Enumerable>, Enumerable *>> System::IterateOver(const Enumerable *enumerable)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Enumerable | The type of a wrapped object |
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::IterateOver(const Enumerable *) method
+
+
+This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable without begin(), end() methods with target type argument for (auto& value : IterateOver<SomeType>(enumerable))
+
+```cpp
+template<typename T,typename Enumerable> std::enable_if_t<!IsSmartPtr<Enumerable>::value, Details::EnumeratorAdapter<Enumerable, T, Enumerable *>> System::IterateOver(const Enumerable *enumerable)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | The target type, it has to be returned from iterator |
+| Enumerable | The type of a wrapped object |
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
 ## System::IterateOver(System::SmartPtr\<Enumerable\>) method
 
 
@@ -103,42 +140,5 @@ template<typename T,typename Enumerable> std::enable_if_t<Details::IsIterable<En
 ## See Also
 
 * Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::IterateOver(const Enumerable *) method
-
-
-This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable this with default target type.
-
-```cpp
-template<typename Enumerable> std::enable_if_t<!IsSmartPtr<Enumerable>::value, Details::EnumeratorAdapter<Enumerable, Details::ValueTypeOfEnumerable<Enumerable>, Enumerable *>> System::IterateOver(const Enumerable *enumerable)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| Enumerable | The type of a wrapped object |
-
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::IterateOver(const Enumerable *) method
-
-
-This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable without begin(), end() methods with target type argument for (auto& value : IterateOver<SomeType>(enumerable))
-
-```cpp
-template<typename T,typename Enumerable> std::enable_if_t<!IsSmartPtr<Enumerable>::value, Details::EnumeratorAdapter<Enumerable, T, Enumerable *>> System::IterateOver(const Enumerable *enumerable)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | The target type, it has to be returned from iterator |
-| Enumerable | The type of a wrapped object |
-
-## See Also
-
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)

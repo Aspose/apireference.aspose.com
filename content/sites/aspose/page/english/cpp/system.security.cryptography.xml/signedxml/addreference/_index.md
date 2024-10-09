@@ -4,7 +4,7 @@ linktitle: AddReference
 second_title: Aspose.Page for C++
 description: 'How to use AddReference method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1400
+weight: 300
 url: /cpp/system.security.cryptography.xml/signedxml/addreference/
 ---
 ## SignedXml::AddReference method

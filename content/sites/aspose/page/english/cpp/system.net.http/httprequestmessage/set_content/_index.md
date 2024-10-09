@@ -4,7 +4,7 @@ linktitle: set_Content
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpRequestMessage::set_Content method. Sets content of the HTTP request in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/system.net.http/httprequestmessage/set_content/
 ---
 ## HttpRequestMessage::set_Content method

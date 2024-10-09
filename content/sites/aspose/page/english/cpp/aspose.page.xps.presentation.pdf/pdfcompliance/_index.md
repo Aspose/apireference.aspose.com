@@ -4,7 +4,7 @@ linktitle: PdfCompliance
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfCompliance enum. Specifies the PDF compliance level to output file in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/aspose.page.xps.presentation.pdf/pdfcompliance/
 ---
 ## PdfCompliance enum

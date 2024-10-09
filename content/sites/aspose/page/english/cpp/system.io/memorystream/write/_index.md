@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::IO::MemoryStream::Write method. Writes the specified subrange of bytes from the specified byte array to the stream in C++.'
 type: docs
-weight: 800
+weight: 1900
 url: /cpp/system.io/memorystream/write/
 ---
 ## MemoryStream::Write(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

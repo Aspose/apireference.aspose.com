@@ -4,7 +4,7 @@ linktitle: get_Aqua
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Aqua method. Returns a color whose ARGB value in hexadecimal notation is #FF00FFFF in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/system.drawing/color/get_aqua/
 ---
 ## Color::get_Aqua method

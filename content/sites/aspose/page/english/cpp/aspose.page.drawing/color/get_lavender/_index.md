@@ -4,7 +4,7 @@ linktitle: get_Lavender
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Lavender method. Gets a system-defined color that has an ARGB value of #FFE6E6FA in C++.'
 type: docs
-weight: 6100
+weight: 6200
 url: /cpp/aspose.page.drawing/color/get_lavender/
 ---
 ## Color::get_Lavender method

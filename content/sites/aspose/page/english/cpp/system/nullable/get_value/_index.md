@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Nullable::get_Value method. Returns a copy of the value represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/nullable/get_value/
 ---
 ## Nullable::get_Value method

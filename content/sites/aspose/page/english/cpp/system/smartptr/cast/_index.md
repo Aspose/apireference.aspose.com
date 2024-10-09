@@ -4,7 +4,7 @@ linktitle: Cast
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::Cast method. Casts pointer to its type itself in C++.'
 type: docs
-weight: 2300
+weight: 400
 url: /cpp/system/smartptr/cast/
 ---
 ## SmartPtr::Cast() const method

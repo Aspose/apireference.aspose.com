@@ -4,7 +4,7 @@ linktitle: ComparePosition
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::ComparePosition method. Compares the position of the current XPathNavigator with the position of the XPathNavigator specified in C++.'
 type: docs
-weight: 5800
+weight: 500
 url: /cpp/system.xml.xpath/xpathnavigator/compareposition/
 ---
 ## XPathNavigator::ComparePosition method

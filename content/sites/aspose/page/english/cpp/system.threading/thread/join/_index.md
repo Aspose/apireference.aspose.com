@@ -4,7 +4,7 @@ linktitle: Join
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::Join method. Joins managed thread. Performs unlimited waiting if required in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.threading/thread/join/
 ---
 ## Thread::Join() method

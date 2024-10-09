@@ -4,7 +4,7 @@ linktitle: get_A
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_A method. Returns the value of the alpha component of the color represented by the current object in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/system.drawing/color/get_a/
 ---
 ## Color::get_A method

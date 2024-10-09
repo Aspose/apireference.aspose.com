@@ -4,7 +4,7 @@ linktitle: InsertBefore
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::InsertBefore method. Inserts the specified node immediately before the specified reference node in C++.'
 type: docs
-weight: 1700
+weight: 1500
 url: /cpp/system.xml/xmlattribute/insertbefore/
 ---
 ## XmlAttribute::InsertBefore method

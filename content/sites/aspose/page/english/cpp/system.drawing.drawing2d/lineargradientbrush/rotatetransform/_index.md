@@ -4,7 +4,7 @@ linktitle: RotateTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::RotateTransform method. Rotates current object''s transform matrix in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/rotatetransform/
 ---
 ## LinearGradientBrush::RotateTransform method

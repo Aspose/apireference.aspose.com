@@ -4,7 +4,7 @@ linktitle: crend
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::crend method. Returns a reverse iterator to the element following the last element of the reversed container. It corresponds to the element preceding the first element of the non-reversed container. This element acts as a placeholder, attempting to access it results in undefined behavior in C++.'
 type: docs
-weight: 2400
+weight: 1100
 url: /cpp/system.collections.specialized/stringcollection/crend/
 ---
 ## StringCollection::crend method

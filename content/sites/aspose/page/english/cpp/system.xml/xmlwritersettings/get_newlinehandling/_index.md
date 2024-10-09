@@ -4,7 +4,7 @@ linktitle: get_NewLineHandling
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_NewLineHandling method. Returns a value indicating whether to normalize line breaks in the output in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.xml/xmlwritersettings/get_newlinehandling/
 ---
 ## XmlWriterSettings::get_NewLineHandling method

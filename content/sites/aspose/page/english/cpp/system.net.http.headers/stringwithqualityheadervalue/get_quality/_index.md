@@ -4,7 +4,7 @@ linktitle: get_Quality
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::StringWithQualityHeaderValue::get_Quality method. Returns a quality in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http.headers/stringwithqualityheadervalue/get_quality/
 ---
 ## StringWithQualityHeaderValue::get_Quality method

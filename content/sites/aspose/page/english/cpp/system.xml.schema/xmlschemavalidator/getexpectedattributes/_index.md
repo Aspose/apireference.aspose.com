@@ -4,7 +4,7 @@ linktitle: GetExpectedAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::GetExpectedAttributes method. Returns the expected attributes for the current element context in C++.'
 type: docs
-weight: 2100
+weight: 700
 url: /cpp/system.xml.schema/xmlschemavalidator/getexpectedattributes/
 ---
 ## XmlSchemaValidator::GetExpectedAttributes method

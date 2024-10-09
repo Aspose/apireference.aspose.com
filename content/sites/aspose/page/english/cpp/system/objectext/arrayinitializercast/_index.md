@@ -4,7 +4,7 @@ linktitle: ArrayInitializerCast
 second_title: Aspose.Page for C++
 description: 'System::ObjectExt::ArrayInitializerCast method. Converts array fundamental values (which C# does implicitly but C++ apparently does not) in C++.'
 type: docs
-weight: 1600
+weight: 100
 url: /cpp/system/objectext/arrayinitializercast/
 ---
 ## ObjectExt::ArrayInitializerCast method

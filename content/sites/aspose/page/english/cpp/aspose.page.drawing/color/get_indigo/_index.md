@@ -4,7 +4,7 @@ linktitle: get_Indigo
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Indigo method. Gets a system-defined color that has an ARGB value of #FF4B0082 in C++.'
 type: docs
-weight: 5800
+weight: 5900
 url: /cpp/aspose.page.drawing/color/get_indigo/
 ---
 ## Color::get_Indigo method

@@ -21,28 +21,6 @@ System::Drawing::RectangleF::RectangleF()
 * Class [RectangleF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## RectangleF::RectangleF(float, float, float, float) constructor
-
-
-Constructs a new instance of [RectangleF](../) object that represents a rectangle with the specified coordinates of its upper left corner and width and height.
-
-```cpp
-System::Drawing::RectangleF::RectangleF(float x, float y, float width, float height)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | float | A value of the X coordinate of the upper left corner of the rectangle |
-| y | float | A value of the Y coordinate of the upper left corner of the rectangle |
-| width | float | The width of the rectangle |
-| height | float | The height of the rectangle |
-
-## See Also
-
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## RectangleF::RectangleF(const PointF\&, const SizeF\&) constructor
 
 
@@ -82,6 +60,28 @@ System::Drawing::RectangleF::RectangleF(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## RectangleF::RectangleF(float, float, float, float) constructor
+
+
+Constructs a new instance of [RectangleF](../) object that represents a rectangle with the specified coordinates of its upper left corner and width and height.
+
+```cpp
+System::Drawing::RectangleF::RectangleF(float x, float y, float width, float height)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | float | A value of the X coordinate of the upper left corner of the rectangle |
+| y | float | A value of the Y coordinate of the upper left corner of the rectangle |
+| width | float | The width of the rectangle |
+| height | float | The height of the rectangle |
+
+## See Also
+
 * Class [RectangleF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

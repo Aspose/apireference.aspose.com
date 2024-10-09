@@ -4,7 +4,7 @@ linktitle: WriteStartDocument
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteStartDocument method. When overridden in a derived class, writes the XML declaration with the version "1.0" in C++.'
 type: docs
-weight: 500
+weight: 3100
 url: /cpp/system.xml/xmlwriter/writestartdocument/
 ---
 ## XmlWriter::WriteStartDocument() method

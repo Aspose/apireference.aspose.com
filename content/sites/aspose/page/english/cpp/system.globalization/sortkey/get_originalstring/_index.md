@@ -4,7 +4,7 @@ linktitle: get_OriginalString
 second_title: Aspose.Page for C++
 description: 'System::Globalization::SortKey::get_OriginalString method. Gets original string used to create this object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.globalization/sortkey/get_originalstring/
 ---
 ## SortKey::get_OriginalString method

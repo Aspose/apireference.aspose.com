@@ -4,7 +4,7 @@ linktitle: WriteEndElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteEndElement method. When overridden in a derived class, closes one element and pops the corresponding namespace scope in C++.'
 type: docs
-weight: 900
+weight: 2100
 url: /cpp/system.xml/xmlwriter/writeendelement/
 ---
 ## XmlWriter::WriteEndElement method

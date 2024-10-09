@@ -4,7 +4,7 @@ linktitle: GetUnicodeCategory
 second_title: Aspose.Page for C++
 description: 'System::Char::GetUnicodeCategory method. Returns a value that represents a Unicode category of specified character in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system/char/getunicodecategory/
 ---
 ## Char::GetUnicodeCategory method

@@ -4,7 +4,7 @@ linktitle: get_HotPink
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_HotPink method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF69B4 in C++.'
 type: docs
-weight: 5600
+weight: 5500
 url: /cpp/system.drawing/pens/get_hotpink/
 ---
 ## Pens::get_HotPink method

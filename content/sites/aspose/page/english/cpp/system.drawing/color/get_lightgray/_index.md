@@ -4,7 +4,7 @@ linktitle: get_LightGray
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LightGray method. Returns a color whose ARGB value in hexadecimal notation is #FFD3D3D3 in C++.'
 type: docs
-weight: 9000
+weight: 8900
 url: /cpp/system.drawing/color/get_lightgray/
 ---
 ## Color::get_LightGray method

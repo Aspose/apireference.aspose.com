@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::cbegin method. Gets iterator to the first const-qualified element of collection in C++.'
 type: docs
-weight: 2100
+weight: 800
 url: /cpp/system.collections.generic/linkedlist/cbegin/
 ---
 ## LinkedList::cbegin method

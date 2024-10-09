@@ -4,7 +4,7 @@ linktitle: PrintBack
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::DocumentCoverFront::CoverFrontOption::PrintBack field. Specifies the cover indicated by "CoverFrontSource" should be printed on the back side of the cover sheet. If a DocumentCoverFrontSourceParameterInit element is not specified, this Option should be ignored in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/documentcoverfront/coverfrontoption/printback/
 ---
 ## PrintBack field

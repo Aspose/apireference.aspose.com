@@ -4,7 +4,7 @@ linktitle: AppendChild
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::AppendChild method. Adds the specified node to the end of the list of child nodes, of this node in C++.'
 type: docs
-weight: 2200
+weight: 100
 url: /cpp/system.xml/xmlattribute/appendchild/
 ---
 ## XmlAttribute::AppendChild method

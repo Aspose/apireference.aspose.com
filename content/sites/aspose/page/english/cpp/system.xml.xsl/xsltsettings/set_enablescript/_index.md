@@ -4,7 +4,7 @@ linktitle: set_EnableScript
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltSettings::set_EnableScript method. Sets a value indicating whether to enable support for embedded script blocks in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.xml.xsl/xsltsettings/set_enablescript/
 ---
 ## XsltSettings::set_EnableScript method

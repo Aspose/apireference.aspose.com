@@ -4,7 +4,7 @@ linktitle: get_CanRead
 second_title: Aspose.Page for C++
 description: 'System::IO::UnmanagedMemoryStream::get_CanRead method. Determines if the stream is readable in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.io/unmanagedmemorystream/get_canread/
 ---
 ## UnmanagedMemoryStream::get_CanRead method

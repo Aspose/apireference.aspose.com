@@ -4,7 +4,7 @@ linktitle: TransferCodingHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::TransferCodingHeaderValue::TransferCodingHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.net.http.headers/transfercodingheadervalue/transfercodingheadervalue/
 ---
 ## TransferCodingHeaderValue::TransferCodingHeaderValue() constructor

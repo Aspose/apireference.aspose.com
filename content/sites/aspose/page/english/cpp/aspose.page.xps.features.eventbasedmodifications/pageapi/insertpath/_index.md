@@ -4,7 +4,7 @@ linktitle: InsertPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::InsertPath method. Inserts a new path to the page at index  position in C++.'
 type: docs
-weight: 1700
+weight: 3100
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/insertpath/
 ---
 ## PageAPI::InsertPath method

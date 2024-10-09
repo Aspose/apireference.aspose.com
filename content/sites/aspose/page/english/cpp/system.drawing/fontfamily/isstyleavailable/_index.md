@@ -4,7 +4,7 @@ linktitle: IsStyleAvailable
 second_title: Aspose.Page for C++
 description: 'System::Drawing::FontFamily::IsStyleAvailable method. Determines if the specified font style is available in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/system.drawing/fontfamily/isstyleavailable/
 ---
 ## FontFamily::IsStyleAvailable method

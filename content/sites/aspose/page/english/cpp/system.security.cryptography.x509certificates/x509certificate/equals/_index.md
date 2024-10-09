@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::Equals method. Compares two certificates in C++.'
 type: docs
-weight: 2600
+weight: 300
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/equals/
 ---
 ## X509Certificate::Equals method

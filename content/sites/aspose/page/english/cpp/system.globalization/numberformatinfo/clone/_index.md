@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::Clone method. Clones format info in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.globalization/numberformatinfo/clone/
 ---
 ## NumberFormatInfo::Clone method

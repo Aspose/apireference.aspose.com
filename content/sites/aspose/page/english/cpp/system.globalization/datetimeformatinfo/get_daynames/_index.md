@@ -4,7 +4,7 @@ linktitle: get_DayNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_DayNames method. Gets day names in C++.'
 type: docs
-weight: 3100
+weight: 1000
 url: /cpp/system.globalization/datetimeformatinfo/get_daynames/
 ---
 ## DateTimeFormatInfo::get_DayNames method

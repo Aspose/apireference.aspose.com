@@ -41,25 +41,6 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(const map_t &
 * Class [Dictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## Dictionary::Dictionary(int) constructor
-
-
-Overload which corresponds to creating pre-allocated dictionary; does no allocation, actually.
-
-```cpp
-System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(int capacity)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| capacity | int | Capacity to allocate; ignored. |
-
-## See Also
-
-* Class [Dictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Dictionary::Dictionary(const SharedPtr\<IDictionary\<TKey, TValue\>\>\&) constructor
 
 
@@ -122,6 +103,25 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(const SharedP
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEqualityComparer](../../iequalitycomparer/)
+* Class [Dictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## Dictionary::Dictionary(int) constructor
+
+
+Overload which corresponds to creating pre-allocated dictionary; does no allocation, actually.
+
+```cpp
+System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(int capacity)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| capacity | int | Capacity to allocate; ignored. |
+
+## See Also
+
 * Class [Dictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

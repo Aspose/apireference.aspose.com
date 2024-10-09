@@ -4,7 +4,7 @@ linktitle: DataObject
 second_title: Aspose.Page for C++
 description: 'How to use DataObject constructor of System::Security::Cryptography::Xml::DataObject class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.security.cryptography.xml/dataobject/dataobject/
 ---
 ## DataObject::DataObject constructor

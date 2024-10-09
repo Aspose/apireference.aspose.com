@@ -4,7 +4,7 @@ linktitle: GetAssembly
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::GetAssembly method. Gets assembly defining specific type in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/system.reflection/assembly/getassembly/
 ---
 ## Assembly::GetAssembly method

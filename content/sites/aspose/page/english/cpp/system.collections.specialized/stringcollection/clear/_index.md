@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::Clear method. Deletes all elements in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.collections.specialized/stringcollection/clear/
 ---
 ## StringCollection::Clear method

@@ -4,7 +4,7 @@ linktitle: get_Occurrence
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInference::get_Occurrence method. Returns the XmlSchemaInference::InferenceOption value that affects schema occurrence declarations inferred from the XML document in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemainference/get_occurrence/
 ---
 ## XmlSchemaInference::get_Occurrence method

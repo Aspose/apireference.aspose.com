@@ -4,7 +4,7 @@ linktitle: get_CodeUnitCount
 second_title: Aspose.Page for C++
 description: 'How to use get_CodeUnitCount method of Aspose::Page::XPS::XpsModel::XpsGlyphsClusterMap class in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphsclustermap/get_codeunitcount/
 ---
 ## XpsGlyphsClusterMap::get_CodeUnitCount method

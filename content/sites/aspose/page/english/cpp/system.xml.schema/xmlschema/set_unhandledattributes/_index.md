@@ -4,7 +4,7 @@ linktitle: set_UnhandledAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_UnhandledAttributes method. Sets the qualified attributes which do not belong to the schema target namespace in C++.'
 type: docs
-weight: 2300
+weight: 2600
 url: /cpp/system.xml.schema/xmlschema/set_unhandledattributes/
 ---
 ## XmlSchema::set_UnhandledAttributes method

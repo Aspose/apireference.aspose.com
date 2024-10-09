@@ -4,7 +4,7 @@ linktitle: get_Unicode
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_Unicode method. Gets the standard Unicode encoding object in C++.'
 type: docs
-weight: 3300
+weight: 3600
 url: /cpp/system.text/encoding/get_unicode/
 ---
 ## Encoding::get_Unicode method

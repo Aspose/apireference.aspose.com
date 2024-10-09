@@ -4,7 +4,7 @@ linktitle: get_Aqua
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Aqua method. Gets a system-defined color that has an ARGB value of #FF00FFFF in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.page.drawing/color/get_aqua/
 ---
 ## Color::get_Aqua method

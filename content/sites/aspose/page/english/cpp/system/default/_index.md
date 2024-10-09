@@ -4,7 +4,7 @@ linktitle: Default
 second_title: Aspose.Page for C++
 description: 'System::Default method. Returns the default-constructed instance of the specified type in C++.'
 type: docs
-weight: 24000
+weight: 14800
 url: /cpp/system/default/
 ---
 ## System::Default() method

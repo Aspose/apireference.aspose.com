@@ -4,7 +4,7 @@ linktitle: System::Web::Services::Protocols
 second_title: Aspose.Page for C++
 description: 'How to use System::Web::Services::Protocols namespace in C++.'
 type: docs
-weight: 7000
+weight: 7100
 url: /cpp/system.web.services.protocols/
 ---
 

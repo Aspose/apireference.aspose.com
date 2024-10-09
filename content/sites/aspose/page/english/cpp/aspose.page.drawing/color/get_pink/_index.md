@@ -4,7 +4,7 @@ linktitle: get_Pink
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Pink method. Gets a system-defined color that has an ARGB value of #FFFFC0CB in C++.'
 type: docs
-weight: 11100
+weight: 11200
 url: /cpp/aspose.page.drawing/color/get_pink/
 ---
 ## Color::get_Pink method

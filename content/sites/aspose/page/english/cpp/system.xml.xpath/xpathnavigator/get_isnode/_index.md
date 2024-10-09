@@ -4,7 +4,7 @@ linktitle: get_IsNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_IsNode method. Returns a value that indicates if the current node represents an XPath node in C++.'
 type: docs
-weight: 100
+weight: 1900
 url: /cpp/system.xml.xpath/xpathnavigator/get_isnode/
 ---
 ## XPathNavigator::get_IsNode method

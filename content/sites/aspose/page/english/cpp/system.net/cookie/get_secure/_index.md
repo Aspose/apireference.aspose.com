@@ -4,7 +4,7 @@ linktitle: get_Secure
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Secure method. Gets the ''Secure'' attribute''s value in C++.'
 type: docs
-weight: 2500
+weight: 1800
 url: /cpp/system.net/cookie/get_secure/
 ---
 ## Cookie::get_Secure method

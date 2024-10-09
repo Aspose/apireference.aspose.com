@@ -4,7 +4,7 @@ linktitle: IsBaseOf
 second_title: Aspose.Page for C++
 description: 'System::Uri::IsBaseOf method. Determines of the URI represented by the current Uri object is a base of URI represented by the specified Uri object in C++.'
 type: docs
-weight: 3200
+weight: 2800
 url: /cpp/system/uri/isbaseof/
 ---
 ## Uri::IsBaseOf method

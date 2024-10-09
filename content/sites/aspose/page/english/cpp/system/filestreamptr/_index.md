@@ -4,7 +4,7 @@ linktitle: FileStreamPtr
 second_title: Aspose.Page for C++
 description: 'System::FileStreamPtr typedef. An alias for a smart pointer that points to an instance of System::IO::FileStream class in C++.'
 type: docs
-weight: 10200
+weight: 11300
 url: /cpp/system/filestreamptr/
 ---
 ## FileStreamPtr typedef

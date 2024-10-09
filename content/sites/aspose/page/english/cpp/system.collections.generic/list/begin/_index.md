@@ -2,31 +2,11 @@
 title: System::Collections::Generic::List::begin method
 linktitle: begin
 second_title: Aspose.Page for C++
-description: 'System::Collections::Generic::List::begin method. Gets iterator to the first element of collection in C++.'
+description: 'System::Collections::Generic::List::begin method. Gets iterator to the first element of the const-qualified collection in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system.collections.generic/list/begin/
 ---
-## List::begin() method
-
-
-Gets iterator to the first element of collection.
-
-```cpp
-iterator System::Collections::Generic::List<T>::begin() noexcept
-```
-
-
-### ReturnValue
-
-An iterator pointing to the first element in the list.
-
-## See Also
-
-* Typedef [iterator](../iterator/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## List::begin() const method
 
 
@@ -44,6 +24,26 @@ An iterator pointing to the first element in the const-qualified instance of the
 ## See Also
 
 * Typedef [const_iterator](../const_iterator/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## List::begin() method
+
+
+Gets iterator to the first element of collection.
+
+```cpp
+iterator System::Collections::Generic::List<T>::begin() noexcept
+```
+
+
+### ReturnValue
+
+An iterator pointing to the first element in the list.
+
+## See Also
+
+* Typedef [iterator](../iterator/)
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: RpcBadArgumentsSubcode
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Code::RpcBadArgumentsSubcode field. The string representation of the ''BadArguments'' SOAP version 1.2 code in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.web.services/soap12/code/rpcbadargumentssubcode/
 ---
 ## RpcBadArgumentsSubcode field

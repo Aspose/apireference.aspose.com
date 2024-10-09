@@ -4,7 +4,7 @@ linktitle: TrimEnd
 second_title: Aspose.Page for C++
 description: 'System::String::TrimEnd method. Removes all whitespace characters from end of the string in C++.'
 type: docs
-weight: 5200
+weight: 5700
 url: /cpp/system/string/trimend/
 ---
 ## String::TrimEnd() const method
@@ -51,30 +51,6 @@ Removal result.
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## String::TrimEnd(const String\&) const method
-
-
-Removes all occurrences of passed characters from end of the string.
-
-```cpp
-String System::String::TrimEnd(const String &anyOf) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| anyOf | const String\& | [String](../) of characters to remove. |
-
-### ReturnValue
-
-[String](../) without removed characters.
-
-## See Also
-
-* Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## String::TrimEnd(const ArrayPtr\<char_t\>\&) const method
 
 
@@ -97,6 +73,30 @@ String System::String::TrimEnd(const ArrayPtr<char_t> &anyOf) const
 
 * Class [String](../)
 * Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## String::TrimEnd(const String\&) const method
+
+
+Removes all occurrences of passed characters from end of the string.
+
+```cpp
+String System::String::TrimEnd(const String &anyOf) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| anyOf | const String\& | [String](../) of characters to remove. |
+
+### ReturnValue
+
+[String](../) without removed characters.
+
+## See Also
+
+* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

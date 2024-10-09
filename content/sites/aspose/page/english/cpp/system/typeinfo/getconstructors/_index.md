@@ -2,11 +2,28 @@
 title: System::TypeInfo::GetConstructors method
 linktitle: GetConstructors
 second_title: Aspose.Page for C++
-description: 'System::TypeInfo::GetConstructors method. searches for the constructors defined for the current Type, using the specified BindingFlags in C++.'
+description: 'System::TypeInfo::GetConstructors method. Returns all the public constructors defined for the current Type in C++.'
 type: docs
 weight: 2800
 url: /cpp/system/typeinfo/getconstructors/
 ---
+## TypeInfo::GetConstructors() const method
+
+
+Returns all the public constructors defined for the current Type.
+
+```cpp
+ArrayPtr<SharedPtr<System::Reflection::ConstructorInfo>> System::TypeInfo::GetConstructors() const
+```
+
+## See Also
+
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [ConstructorInfo](../../../system.reflection/constructorinfo/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TypeInfo::GetConstructors(System::Reflection::BindingFlags) const method
 
 
@@ -22,23 +39,6 @@ ArrayPtr<SharedPtr<System::Reflection::ConstructorInfo>> System::TypeInfo::GetCo
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [ConstructorInfo](../../../system.reflection/constructorinfo/)
 * Enum [BindingFlags](../../../system.reflection/bindingflags/)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## TypeInfo::GetConstructors() const method
-
-
-Returns all the public constructors defined for the current Type.
-
-```cpp
-ArrayPtr<SharedPtr<System::Reflection::ConstructorInfo>> System::TypeInfo::GetConstructors() const
-```
-
-## See Also
-
-* Typedef [ArrayPtr](../../arrayptr/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [ConstructorInfo](../../../system.reflection/constructorinfo/)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

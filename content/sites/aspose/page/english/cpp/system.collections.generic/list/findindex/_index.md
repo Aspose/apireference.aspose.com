@@ -4,21 +4,23 @@ linktitle: FindIndex
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::FindIndex method. Looks for element adhering to specific predicate in C++.'
 type: docs
-weight: 3200
+weight: 2200
 url: /cpp/system.collections.generic/list/findindex/
 ---
-## List::FindIndex(System::Predicate\<T\>) method
+## List::FindIndex(int, int, System::Predicate\<T\>) method
 
 
 Looks for element adhering to specific predicate.
 
 ```cpp
-int System::Collections::Generic::List<T>::FindIndex(System::Predicate<T> match)
+int System::Collections::Generic::List<T>::FindIndex(int startIndex, int count, System::Predicate<T> match)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
+| startIndex | int | Index to start search from. |
+| count | int | Number of elements to look through. |
 | match | System::Predicate\<T\> | Predicate to check elements with. |
 
 ### ReturnValue
@@ -56,20 +58,18 @@ Index of matching element or -1 if not found.
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## List::FindIndex(int, int, System::Predicate\<T\>) method
+## List::FindIndex(System::Predicate\<T\>) method
 
 
 Looks for element adhering to specific predicate.
 
 ```cpp
-int System::Collections::Generic::List<T>::FindIndex(int startIndex, int count, System::Predicate<T> match)
+int System::Collections::Generic::List<T>::FindIndex(System::Predicate<T> match)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| startIndex | int | Index to start search from. |
-| count | int | Number of elements to look through. |
 | match | System::Predicate\<T\> | Predicate to check elements with. |
 
 ### ReturnValue

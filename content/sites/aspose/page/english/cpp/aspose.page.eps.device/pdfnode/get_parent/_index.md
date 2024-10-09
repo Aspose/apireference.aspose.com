@@ -4,7 +4,7 @@ linktitle: get_Parent
 second_title: Aspose.Page for C++
 description: 'How to use get_Parent method of Aspose::Page::EPS::Device::PdfNode class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.eps.device/pdfnode/get_parent/
 ---
 ## PdfNode::get_Parent method

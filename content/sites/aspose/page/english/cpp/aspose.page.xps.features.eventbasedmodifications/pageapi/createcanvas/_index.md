@@ -4,7 +4,7 @@ linktitle: CreateCanvas
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateCanvas method. Creates a new canvas in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createcanvas/
 ---
 ## PageAPI::CreateCanvas method

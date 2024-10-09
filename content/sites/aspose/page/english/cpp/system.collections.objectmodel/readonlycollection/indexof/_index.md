@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::IndexOf method. Looks for specific item in collection in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.collections.objectmodel/readonlycollection/indexof/
 ---
 ## ReadOnlyCollection::IndexOf method

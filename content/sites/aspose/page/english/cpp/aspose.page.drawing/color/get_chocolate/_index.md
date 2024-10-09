@@ -4,7 +4,7 @@ linktitle: get_Chocolate
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Chocolate method. Gets a system-defined color that has an ARGB value of #FFD2691E in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.page.drawing/color/get_chocolate/
 ---
 ## Color::get_Chocolate method

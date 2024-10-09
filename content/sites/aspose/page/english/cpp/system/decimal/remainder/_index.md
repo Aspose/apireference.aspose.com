@@ -4,7 +4,7 @@ linktitle: Remainder
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Remainder method. Computes the remainder after dividing two Decimal values in C++.'
 type: docs
-weight: 4700
+weight: 4300
 url: /cpp/system/decimal/remainder/
 ---
 ## Decimal::Remainder method

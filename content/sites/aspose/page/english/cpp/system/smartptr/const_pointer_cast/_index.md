@@ -4,7 +4,7 @@ linktitle: const_pointer_cast
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::const_pointer_cast method. Casts pointer to different type using const_cast on pointed object in C++.'
 type: docs
-weight: 2200
+weight: 700
 url: /cpp/system/smartptr/const_pointer_cast/
 ---
 ## SmartPtr::const_pointer_cast method

@@ -4,7 +4,7 @@ linktitle: set_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaImport::set_Namespace method. Sets the target namespace for the imported schema as a Uniform Resource Identifier (URI) reference in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaimport/set_namespace/
 ---
 ## XmlSchemaImport::set_Namespace method

@@ -4,7 +4,7 @@ linktitle: ByteArrayDataSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::ByteArrayDataSource::ByteArrayDataSource constructor. Initializes new byte array data source in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.plugins/bytearraydatasource/bytearraydatasource/
 ---
 ## ByteArrayDataSource::ByteArrayDataSource constructor

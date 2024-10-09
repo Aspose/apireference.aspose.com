@@ -4,7 +4,7 @@ linktitle: set_NewColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMap::set_NewColor method. Sets the new Color object representing the color to which to convert in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.drawing.imaging/colormap/set_newcolor/
 ---
 ## ColorMap::set_NewColor method

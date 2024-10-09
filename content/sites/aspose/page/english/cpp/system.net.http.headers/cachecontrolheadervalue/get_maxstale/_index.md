@@ -4,7 +4,7 @@ linktitle: get_MaxStale
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::get_MaxStale method. Gets the value that determines if the client will accept the expired responses in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_maxstale/
 ---
 ## CacheControlHeaderValue::get_MaxStale method

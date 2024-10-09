@@ -4,7 +4,7 @@ linktitle: set_AllowUnassigned
 second_title: Aspose.Page for C++
 description: 'System::Globalization::IdnMapping::set_AllowUnassigned method. Sets flag that indicates if unassigned code points used in operations in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.globalization/idnmapping/set_allowunassigned/
 ---
 ## IdnMapping::set_AllowUnassigned method

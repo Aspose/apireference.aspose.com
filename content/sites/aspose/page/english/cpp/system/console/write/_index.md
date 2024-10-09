@@ -2,35 +2,11 @@
 title: System::Console::Write method
 linktitle: Write
 second_title: Aspose.Page for C++
-description: 'System::Console::Write method. Outputs the string representation of the specified object to the standard output stream in C++.'
+description: 'System::Console::Write method. Outputs the string representation of bool value to the standard output stream in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/system/console/write/
 ---
-## Console::Write(const SharedPtr\<T\>\&) method
-
-
-Outputs the string representation of the specified object to the standard output stream.
-
-```cpp
-template<class T> static void System::Console::Write(const SharedPtr<T> &object)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Type of the object to output |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| object | const SharedPtr\<T\>\& | [Object](../../object/) to output |
-
-## See Also
-
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Console::Write(bool) method
 
 
@@ -89,6 +65,61 @@ static void System::Console::Write(const ArrayPtr<char_t> &buffer)
 * Class [Console](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## Console::Write(const ArrayPtr\<char_t\>\&, int32_t, int32_t) method
+
+
+Outputs the string representation of the specified range of the specified character array to the standard output stream.
+
+```cpp
+static void System::Console::Write(const ArrayPtr<char_t> &buffer, int32_t index, int32_t count)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | const ArrayPtr\<char_t\>\& | The character array |
+| index | int32_t | The index in the array at which the range to output begins |
+| count | int32_t | The number of elements in the range to output |
+
+## See Also
+
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Console::Write(const char *) method
+
+
+
+
+```cpp
+static void System::Console::Write(const char *)=delete
+```
+
+## See Also
+
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Console::Write(const char_t *) method
+
+
+Outputs the specified c-string to the standard output stream.
+
+```cpp
+static void System::Console::Write(const char_t *value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const char_t * | The c-string to output |
+
+## See Also
+
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Console::Write(const Decimal\&) method
 
 
@@ -106,6 +137,95 @@ static void System::Console::Write(const Decimal &value)
 ## See Also
 
 * Class [Decimal](../../decimal/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Console::Write(const SharedPtr\<T\>\&) method
+
+
+Outputs the string representation of the specified object to the standard output stream.
+
+```cpp
+template<class T> static void System::Console::Write(const SharedPtr<T> &object)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Type of the object to output |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| object | const SharedPtr\<T\>\& | [Object](../../object/) to output |
+
+## See Also
+
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Console::Write(const String\&, Args\&&...) method
+
+
+Outputs the string representation of the specified arguments formatted according to the specified format to the standard output stream.
+
+```cpp
+template<class...> static void System::Console::Write(const String &format, Args &&... args)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| The | types of the values to output |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| format | const String\& | The string format |
+| args | Args\&&... | The values to output |
+
+## See Also
+
+* Class [String](../../string/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Console::Write(const String\&) method
+
+
+Outputs the specified string object to the standard output stream.
+
+```cpp
+static void System::Console::Write(const String &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | The string object to output |
+
+## See Also
+
+* Class [String](../../string/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Console::Write(const TypeInfo\&) method
+
+
+Outputs the string representation of [TypeInfo](../../typeinfo/) value to the standard output stream.
+
+```cpp
+static void System::Console::Write(const TypeInfo &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const TypeInfo\& | The value to output |
+
+## See Also
+
+* Class [TypeInfo](../../typeinfo/)
 * Class [Console](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -185,65 +305,6 @@ static void System::Console::Write(int64_t value)
 * Class [Console](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Console::Write(const String\&) method
-
-
-Outputs the specified string object to the standard output stream.
-
-```cpp
-static void System::Console::Write(const String &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | The string object to output |
-
-## See Also
-
-* Class [String](../../string/)
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Console::Write(const char_t *) method
-
-
-Outputs the specified c-string to the standard output stream.
-
-```cpp
-static void System::Console::Write(const char_t *value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const char_t * | The c-string to output |
-
-## See Also
-
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Console::Write(const TypeInfo\&) method
-
-
-Outputs the string representation of [TypeInfo](../../typeinfo/) value to the standard output stream.
-
-```cpp
-static void System::Console::Write(const TypeInfo &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const TypeInfo\& | The value to output |
-
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Console::Write(uint32_t) method
 
 
@@ -276,67 +337,6 @@ static void System::Console::Write(uint64_t value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | uint64_t | The value to output |
-
-## See Also
-
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Console::Write(const ArrayPtr\<char_t\>\&, int32_t, int32_t) method
-
-
-Outputs the string representation of the specified range of the specified character array to the standard output stream.
-
-```cpp
-static void System::Console::Write(const ArrayPtr<char_t> &buffer, int32_t index, int32_t count)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | const ArrayPtr\<char_t\>\& | The character array |
-| index | int32_t | The index in the array at which the range to output begins |
-| count | int32_t | The number of elements in the range to output |
-
-## See Also
-
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Console::Write(const String\&, Args\&&...) method
-
-
-Outputs the string representation of the specified arguments formatted according to the specified format to the standard output stream.
-
-```cpp
-template<class...> static void System::Console::Write(const String &format, Args &&... args)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| The | types of the values to output |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | const String\& | The string format |
-| args | Args\&&... | The values to output |
-
-## See Also
-
-* Class [String](../../string/)
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Console::Write(const char *) method
-
-
-
-
-```cpp
-static void System::Console::Write(const char *)=delete
-```
 
 ## See Also
 

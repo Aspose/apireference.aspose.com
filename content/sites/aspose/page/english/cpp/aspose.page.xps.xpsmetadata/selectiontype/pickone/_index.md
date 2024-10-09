@@ -4,7 +4,7 @@ linktitle: PickOne
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::SelectionType::PickOne method. PickOne value in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/selectiontype/pickone/
 ---
 ## SelectionType::PickOne method

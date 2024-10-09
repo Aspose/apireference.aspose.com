@@ -4,7 +4,7 @@ linktitle: set_HttpOnly
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_HttpOnly method. Sets the ''HttpOnly'' attribute''s value in C++.'
 type: docs
-weight: 600
+weight: 3200
 url: /cpp/system.net/cookie/set_httponly/
 ---
 ## Cookie::set_HttpOnly method

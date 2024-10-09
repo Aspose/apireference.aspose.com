@@ -4,7 +4,7 @@ linktitle: get_Thistle
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Thistle method. Gets a system-defined color that has an ARGB value of #FFD8BFD8 in C++.'
 type: docs
-weight: 13300
+weight: 13400
 url: /cpp/aspose.page.drawing/color/get_thistle/
 ---
 ## Color::get_Thistle method

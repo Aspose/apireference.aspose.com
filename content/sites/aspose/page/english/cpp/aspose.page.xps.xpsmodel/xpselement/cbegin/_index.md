@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement::cbegin method. Gets iterator pointing to the first const-qualified element (if any) of the collection in C++.'
 type: docs
-weight: 1000
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/cbegin/
 ---
 ## XpsElement::cbegin method

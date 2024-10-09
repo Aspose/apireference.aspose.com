@@ -4,7 +4,7 @@ linktitle: get_BlockSize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::get_BlockSize method. Gets block size of cryptographic operation in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_blocksize/
 ---
 ## SymmetricAlgorithm::get_BlockSize method

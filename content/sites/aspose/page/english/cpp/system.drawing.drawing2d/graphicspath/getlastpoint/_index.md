@@ -4,7 +4,7 @@ linktitle: GetLastPoint
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::GetLastPoint method. Returns a PointF object representing the last point in the path in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/system.drawing.drawing2d/graphicspath/getlastpoint/
 ---
 ## GraphicsPath::GetLastPoint method

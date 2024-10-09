@@ -4,7 +4,7 @@ linktitle: Pending
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::Pending method. Returns a value that indicates if there are pending connection requests in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/system.net.sockets/tcplistener/pending/
 ---
 ## TcpListener::Pending method

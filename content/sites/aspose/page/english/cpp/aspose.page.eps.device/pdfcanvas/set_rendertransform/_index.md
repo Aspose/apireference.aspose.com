@@ -4,7 +4,7 @@ linktitle: set_RenderTransform
 second_title: Aspose.Page for C++
 description: 'How to use set_RenderTransform method of Aspose::Page::EPS::Device::PdfCanvas class in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.page.eps.device/pdfcanvas/set_rendertransform/
 ---
 ## PdfCanvas::set_RenderTransform method

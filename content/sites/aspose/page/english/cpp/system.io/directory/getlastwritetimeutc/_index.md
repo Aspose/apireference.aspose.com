@@ -4,7 +4,7 @@ linktitle: GetLastWriteTimeUtc
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::GetLastWriteTimeUtc method. Returns the last write time of the specified entity as UTC time in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.io/directory/getlastwritetimeutc/
 ---
 ## Directory::GetLastWriteTimeUtc method

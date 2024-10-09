@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingUnderColorAdditionStart
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingUnderColorAdditionStart::PageBlackGenerationProcessingUnderColorAdditionStart constructor. Creates a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionstart/pageblackgenerationprocessingundercoloradditionstart/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionStart::PageBlackGenerationProcessingUnderColorAdditionStart constructor

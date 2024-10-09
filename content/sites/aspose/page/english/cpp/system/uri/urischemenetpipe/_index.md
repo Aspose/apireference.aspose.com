@@ -4,7 +4,7 @@ linktitle: UriSchemeNetPipe
 second_title: Aspose.Page for C++
 description: 'System::Uri::UriSchemeNetPipe field. Specifies that the Uri is accessed through the NetPipe scheme used by Windows Communication Foundation in C++.'
 type: docs
-weight: 5500
+weight: 5300
 url: /cpp/system/uri/urischemenetpipe/
 ---
 ## UriSchemeNetPipe field

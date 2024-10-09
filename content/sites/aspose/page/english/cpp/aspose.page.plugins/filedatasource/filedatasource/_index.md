@@ -4,7 +4,7 @@ linktitle: FileDataSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::FileDataSource::FileDataSource constructor. Initializes new file data source with the specified path in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.plugins/filedatasource/filedatasource/
 ---
 ## FileDataSource::FileDataSource constructor

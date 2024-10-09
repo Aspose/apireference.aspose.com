@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Drawing::RectangleF::Equals method. Determines if the rectangles represented by the current and the specified objects are identical in C++.'
 type: docs
-weight: 1900
+weight: 300
 url: /cpp/system.drawing/rectanglef/equals/
 ---
 ## RectangleF::Equals method

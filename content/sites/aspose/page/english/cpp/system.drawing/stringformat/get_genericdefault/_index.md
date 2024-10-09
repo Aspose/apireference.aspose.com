@@ -4,7 +4,7 @@ linktitle: get_GenericDefault
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::get_GenericDefault method. Returns a StringFormat object that represents a generic default format in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/system.drawing/stringformat/get_genericdefault/
 ---
 ## StringFormat::get_GenericDefault method

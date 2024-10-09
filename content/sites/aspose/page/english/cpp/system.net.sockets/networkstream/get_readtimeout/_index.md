@@ -4,7 +4,7 @@ linktitle: get_ReadTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::get_ReadTimeout method. Gets a value, in milliseconds, that determines how long the stream will attempt to read before timing out in C++.'
 type: docs
-weight: 500
+weight: 1600
 url: /cpp/system.net.sockets/networkstream/get_readtimeout/
 ---
 ## NetworkStream::get_ReadTimeout method

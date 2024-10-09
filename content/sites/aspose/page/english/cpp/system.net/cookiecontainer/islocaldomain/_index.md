@@ -4,7 +4,7 @@ linktitle: IsLocalDomain
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::IsLocalDomain method. Checks if the specified domain is localhost in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.net/cookiecontainer/islocaldomain/
 ---
 ## CookieContainer::IsLocalDomain method

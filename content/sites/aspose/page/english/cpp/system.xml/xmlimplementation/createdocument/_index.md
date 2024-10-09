@@ -4,7 +4,7 @@ linktitle: CreateDocument
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlImplementation::CreateDocument method. Creates a new XmlDocument in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml/xmlimplementation/createdocument/
 ---
 ## XmlImplementation::CreateDocument method

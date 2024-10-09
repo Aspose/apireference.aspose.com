@@ -4,7 +4,7 @@ linktitle: WriteNmToken
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteNmToken method. When overridden in a derived class, writes out the specified name, ensuring it is a valid NmToken according to the W3C XML 1.0 recommendation () in C++.'
 type: docs
-weight: 2900
+weight: 2500
 url: /cpp/system.xml/xmlwriter/writenmtoken/
 ---
 ## XmlWriter::WriteNmToken method

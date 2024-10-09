@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::FrameDimension::Equals method. Determines if the specified FrameDimension object is equivalent to the current object in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.drawing.imaging/framedimension/equals/
 ---
 ## FrameDimension::Equals method

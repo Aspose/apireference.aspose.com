@@ -4,7 +4,7 @@ linktitle: get_TargetUri
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsExternalLinkTarget::get_TargetUri method. Gets the target URI in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpsexternallinktarget/get_targeturi/
 ---
 ## XpsExternalLinkTarget::get_TargetUri method

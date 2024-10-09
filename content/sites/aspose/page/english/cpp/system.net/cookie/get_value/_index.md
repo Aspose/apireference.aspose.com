@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Value method. Gets the cookie''s''value in C++.'
 type: docs
-weight: 2800
+weight: 2000
 url: /cpp/system.net/cookie/get_value/
 ---
 ## Cookie::get_Value method

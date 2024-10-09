@@ -4,7 +4,7 @@ linktitle: get_CalendarWeekRule
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_CalendarWeekRule method. Gets calendar week rule associated with formatter in C++.'
 type: docs
-weight: 2900
+weight: 800
 url: /cpp/system.globalization/datetimeformatinfo/get_calendarweekrule/
 ---
 ## DateTimeFormatInfo::get_CalendarWeekRule method

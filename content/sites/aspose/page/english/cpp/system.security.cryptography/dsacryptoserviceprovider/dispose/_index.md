@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSACryptoServiceProvider::Dispose method. Frees data associated with object in C++.'
 type: docs
-weight: 1900
+weight: 300
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/dispose/
 ---
 ## DSACryptoServiceProvider::Dispose method

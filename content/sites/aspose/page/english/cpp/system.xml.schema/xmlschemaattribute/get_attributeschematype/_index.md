@@ -4,7 +4,7 @@ linktitle: get_AttributeSchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::get_AttributeSchemaType method. Returns an XmlSchemaSimpleType object representing the type of the attribute based on the XmlSchemaAttribute::get_SchemaType or XmlSchemaAttribute::get_SchemaTypeName value of the attribute in C++.'
 type: docs
-weight: 1900
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaattribute/get_attributeschematype/
 ---
 ## XmlSchemaAttribute::get_AttributeSchemaType method

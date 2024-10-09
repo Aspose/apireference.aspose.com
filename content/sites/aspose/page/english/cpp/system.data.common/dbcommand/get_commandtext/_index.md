@@ -4,7 +4,7 @@ linktitle: get_CommandText
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbCommand::get_CommandText method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.data.common/dbcommand/get_commandtext/
 ---
 ## DbCommand::get_CommandText method

@@ -4,7 +4,7 @@ linktitle: get_NewValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeChangedEventArgs::get_NewValue method. Returns the new value of the node in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.xml/xmlnodechangedeventargs/get_newvalue/
 ---
 ## XmlNodeChangedEventArgs::get_NewValue method

@@ -2,36 +2,11 @@
 title: System::Globalization::CompareInfo::Compare method
 linktitle: Compare
 second_title: Aspose.Page for C++
-description: 'System::Globalization::CompareInfo::Compare method. Compares strings. Not implemented in C++.'
+description: 'System::Globalization::CompareInfo::Compare method. Compares strings. Only Ordinal and OrdinalIgnoreCase modes are supported in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.globalization/compareinfo/compare/
 ---
-## CompareInfo::Compare(const String\&, const String\&) const method
-
-
-Compares strings. Not implemented.
-
-```cpp
-virtual int System::Globalization::CompareInfo::Compare(const String &string1, const String &string2) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| string1 | const String\& | LHS string. |
-| string2 | const String\& | RHS string. |
-
-### ReturnValue
-
-Negative value if LHS string preceeds RHS one, zero if they match, positive value otherwise.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [CompareInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
 ## CompareInfo::Compare(const String\&, const String\&, CompareOptions) const method
 
 
@@ -59,13 +34,38 @@ Negative value if LHS string preceeds RHS one, zero if they match, positive valu
 * Class [CompareInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.Page for C++](../../../)
-## CompareInfo::Compare(const String\&, int, int, const String\&, int, int) const method
+## CompareInfo::Compare(const String\&, const String\&) const method
 
 
-Compares a section of one string with a section of second string. Not implemented.
+Compares strings. Not implemented.
 
 ```cpp
-virtual int System::Globalization::CompareInfo::Compare(const String &string1, int offset1, int length1, const String &string2, int offset2, int length2) const
+virtual int System::Globalization::CompareInfo::Compare(const String &string1, const String &string2) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| string1 | const String\& | LHS string. |
+| string2 | const String\& | RHS string. |
+
+### ReturnValue
+
+Negative value if LHS string preceeds RHS one, zero if they match, positive value otherwise.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
+## CompareInfo::Compare(const String\&, int, const String\&, int) const method
+
+
+Compares the end section of one string with the end section of second string. Not implemented.
+
+```cpp
+virtual int System::Globalization::CompareInfo::Compare(const String &string1, int offset1, const String &string2, int offset2) const
 ```
 
 
@@ -73,10 +73,8 @@ virtual int System::Globalization::CompareInfo::Compare(const String &string1, i
 | --- | --- | --- |
 | string1 | const String\& | First string. |
 | offset1 | int | Start index of characters in **string1**. |
-| length1 | int | Number of characters in **string1** to compare. |
 | string2 | const String\& | Second string. |
 | offset2 | int | Start index of characters in **string2**. |
-| length2 | int | Number of characters in **string2** to compare. |
 
 ### ReturnValue
 
@@ -117,13 +115,13 @@ Negative value if first string section preceeds second string section, zero if t
 * Class [CompareInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.Page for C++](../../../)
-## CompareInfo::Compare(const String\&, int, const String\&, int) const method
+## CompareInfo::Compare(const String\&, int, int, const String\&, int, int) const method
 
 
-Compares the end section of one string with the end section of second string. Not implemented.
+Compares a section of one string with a section of second string. Not implemented.
 
 ```cpp
-virtual int System::Globalization::CompareInfo::Compare(const String &string1, int offset1, const String &string2, int offset2) const
+virtual int System::Globalization::CompareInfo::Compare(const String &string1, int offset1, int length1, const String &string2, int offset2, int length2) const
 ```
 
 
@@ -131,8 +129,10 @@ virtual int System::Globalization::CompareInfo::Compare(const String &string1, i
 | --- | --- | --- |
 | string1 | const String\& | First string. |
 | offset1 | int | Start index of characters in **string1**. |
+| length1 | int | Number of characters in **string1** to compare. |
 | string2 | const String\& | Second string. |
 | offset2 | int | Start index of characters in **string2**. |
+| length2 | int | Number of characters in **string2** to compare. |
 
 ### ReturnValue
 

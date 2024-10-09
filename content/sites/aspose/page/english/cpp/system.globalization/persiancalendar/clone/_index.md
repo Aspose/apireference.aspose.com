@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::PersianCalendar::Clone method. RTTI information in C++.'
 type: docs
-weight: 1400
+weight: 200
 url: /cpp/system.globalization/persiancalendar/clone/
 ---
 ## PersianCalendar::Clone method

@@ -4,7 +4,7 @@ linktitle: Compare
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::Compare method. Compares two DateTimeOffset objects in C++.'
 type: docs
-weight: 5100
+weight: 4900
 url: /cpp/system/datetimeoffset/compare/
 ---
 ## DateTimeOffset::Compare method

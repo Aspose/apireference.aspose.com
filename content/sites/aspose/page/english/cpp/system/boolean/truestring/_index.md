@@ -4,7 +4,7 @@ linktitle: TrueString
 second_title: Aspose.Page for C++
 description: 'System::Boolean::TrueString field. String representation of ''true'' boolean value in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/boolean/truestring/
 ---
 ## TrueString field

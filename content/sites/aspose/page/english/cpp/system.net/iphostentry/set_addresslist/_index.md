@@ -4,7 +4,7 @@ linktitle: set_AddressList
 second_title: Aspose.Page for C++
 description: 'System::Net::IPHostEntry::set_AddressList method. Sets a collection of IP addresses of the host in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.net/iphostentry/set_addresslist/
 ---
 ## IPHostEntry::set_AddressList method

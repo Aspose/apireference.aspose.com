@@ -4,7 +4,7 @@ linktitle: get_BaseStream
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryWriter::get_BaseStream method. Returns the output stream in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.io/binarywriter/get_basestream/
 ---
 ## BinaryWriter::get_BaseStream method

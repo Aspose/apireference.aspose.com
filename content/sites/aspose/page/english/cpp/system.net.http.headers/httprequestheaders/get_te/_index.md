@@ -4,7 +4,7 @@ linktitle: get_TE
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_TE method. Returns a value of the ''TE'' header in C++.'
 type: docs
-weight: 3000
+weight: 2600
 url: /cpp/system.net.http.headers/httprequestheaders/get_te/
 ---
 ## HttpRequestHeaders::get_TE method

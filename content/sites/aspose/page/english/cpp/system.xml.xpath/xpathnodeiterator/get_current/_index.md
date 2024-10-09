@@ -4,7 +4,7 @@ linktitle: get_Current
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNodeIterator::get_Current method. When overridden in a derived class, gets the XPathNavigator object for this XPathNodeIterator, positioned on the current context node in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml.xpath/xpathnodeiterator/get_current/
 ---
 ## XPathNodeIterator::get_Current method

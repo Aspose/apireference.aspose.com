@@ -4,7 +4,7 @@ linktitle: SetTemplateWeakPtr
 second_title: Aspose.Page for C++
 description: 'How to use SetTemplateWeakPtr method of System::Collections::Generic::BaseDictionary class in C++.'
 type: docs
-weight: 100
+weight: 2000
 url: /cpp/system.collections.generic/basedictionary/settemplateweakptr/
 ---
 ## BaseDictionary::SetTemplateWeakPtr method

@@ -4,7 +4,7 @@ linktitle: EncoderParameterPtr
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::EncoderParameterPtr typedef. An alias for a shared pointer to an instance of EncoderParameter class in C++.'
 type: docs
-weight: 3200
+weight: 3100
 url: /cpp/system.drawing.imaging/encoderparameterptr/
 ---
 ## EncoderParameterPtr typedef

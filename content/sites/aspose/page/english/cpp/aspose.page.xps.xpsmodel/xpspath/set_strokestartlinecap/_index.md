@@ -4,7 +4,7 @@ linktitle: set_StrokeStartLineCap
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::set_StrokeStartLineCap method. Returns/sets the value defining the shape of the beginning of the first dash in a stroke in C++.'
 type: docs
-weight: 1400
+weight: 2200
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/set_strokestartlinecap/
 ---
 ## XpsPath::set_StrokeStartLineCap method

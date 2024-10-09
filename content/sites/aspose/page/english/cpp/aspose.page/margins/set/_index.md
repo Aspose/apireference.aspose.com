@@ -4,7 +4,7 @@ linktitle: set
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Margins::set method. Specifies margins values in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.page/margins/set/
 ---
 ## Margins::set method

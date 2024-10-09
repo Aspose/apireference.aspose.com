@@ -4,7 +4,7 @@ linktitle: ImportParameters
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSACryptoServiceProvider::ImportParameters method. Imports all parameters from data structure in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/importparameters/
 ---
 ## DSACryptoServiceProvider::ImportParameters method

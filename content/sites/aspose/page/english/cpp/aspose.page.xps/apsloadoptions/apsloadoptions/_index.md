@@ -4,7 +4,7 @@ linktitle: ApsLoadOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::ApsLoadOptions::ApsLoadOptions constructor. Creates new instance of options in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps/apsloadoptions/apsloadoptions/
 ---
 ## ApsLoadOptions::ApsLoadOptions constructor

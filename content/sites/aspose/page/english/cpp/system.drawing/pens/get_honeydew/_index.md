@@ -4,7 +4,7 @@ linktitle: get_Honeydew
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Honeydew method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFF0FFF0 in C++.'
 type: docs
-weight: 5500
+weight: 5400
 url: /cpp/system.drawing/pens/get_honeydew/
 ---
 ## Pens::get_Honeydew method

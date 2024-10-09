@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Page for C++
 description: 'System::IO::STDIOStreamWrapperBase::set_Position method. Sets the stream''s position in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.io/stdiostreamwrapperbase/set_position/
 ---
 ## STDIOStreamWrapperBase::set_Position method

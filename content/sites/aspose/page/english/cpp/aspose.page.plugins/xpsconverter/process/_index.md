@@ -4,7 +4,7 @@ linktitle: Process
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::XpsConverter::Process method. Starts the XpsConverter processing with the specified parameters in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.plugins/xpsconverter/process/
 ---
 ## XpsConverter::Process method

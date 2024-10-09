@@ -4,7 +4,7 @@ linktitle: set_Quality
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::MediaTypeWithQualityHeaderValue::set_Quality method. Sets a quality value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http.headers/mediatypewithqualityheadervalue/set_quality/
 ---
 ## MediaTypeWithQualityHeaderValue::set_Quality method

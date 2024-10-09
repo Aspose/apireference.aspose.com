@@ -4,7 +4,7 @@ linktitle: get_BlueViolet
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_BlueViolet method. Gets a system-defined color that has an ARGB value of #FF8A2BE2 in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.page.drawing/color/get_blueviolet/
 ---
 ## Color::get_BlueViolet method

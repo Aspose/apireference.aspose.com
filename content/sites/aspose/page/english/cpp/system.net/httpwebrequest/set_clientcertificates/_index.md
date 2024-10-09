@@ -4,7 +4,7 @@ linktitle: set_ClientCertificates
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_ClientCertificates method. Sets the collection of the certificates that are associated with the current request in C++.'
 type: docs
-weight: 4800
+weight: 4000
 url: /cpp/system.net/httpwebrequest/set_clientcertificates/
 ---
 ## HttpWebRequest::set_ClientCertificates method

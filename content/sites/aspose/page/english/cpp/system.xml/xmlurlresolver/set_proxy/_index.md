@@ -4,7 +4,7 @@ linktitle: set_Proxy
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlUrlResolver::set_Proxy method. Sets the network proxy for the underlying WebRequest object in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.xml/xmlurlresolver/set_proxy/
 ---
 ## XmlUrlResolver::set_Proxy method

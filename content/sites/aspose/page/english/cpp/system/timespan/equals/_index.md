@@ -4,33 +4,9 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::Equals method. Determines if the time interval represented by the current object is equal to the time interval represented by the specified object in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system/timespan/equals/
 ---
-## TimeSpan::Equals(TimeSpan) const method
-
-
-Determines if the time interval represented by the current object is equal to the time interval represented by the specified object.
-
-```cpp
-bool System::TimeSpan::Equals(TimeSpan value) const
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | TimeSpan | The [TimeSpan](../) object to compare the current object with |
-
-### ReturnValue
-
-True if the current object and the specified object represent the same time interval, otherwise - false
-
-## See Also
-
-* Class [TimeSpan](../)
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TimeSpan::Equals(const SharedPtr\<Object\>\&) const method
 
 
@@ -53,6 +29,30 @@ True if the current object and the specified object represent the same time inte
 
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Object](../../object/)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## TimeSpan::Equals(TimeSpan) const method
+
+
+Determines if the time interval represented by the current object is equal to the time interval represented by the specified object.
+
+```cpp
+bool System::TimeSpan::Equals(TimeSpan value) const
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | TimeSpan | The [TimeSpan](../) object to compare the current object with |
+
+### ReturnValue
+
+True if the current object and the specified object represent the same time interval, otherwise - false
+
+## See Also
+
+* Class [TimeSpan](../)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

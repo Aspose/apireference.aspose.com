@@ -4,29 +4,9 @@ linktitle: Intersect
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Intersect method. Replaces the region represented by the current object with the result of intersection of this region and a region defined by the specified rectangle in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.drawing/region/intersect/
 ---
-## Region::Intersect(const RectangleF\&) method
-
-
-Replaces the region represented by the current object with the result of intersection of this region and a region defined by the specified rectangle.
-
-```cpp
-void System::Drawing::Region::Intersect(const RectangleF &rect)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | const RectangleF\& | A rectangle that defines a region to intersect this region with |
-
-## See Also
-
-* Class [RectangleF](../../rectanglef/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Region::Intersect(const Rectangle\&) method
 
 
@@ -44,6 +24,26 @@ void System::Drawing::Region::Intersect(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../../rectangle/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Region::Intersect(const RectangleF\&) method
+
+
+Replaces the region represented by the current object with the result of intersection of this region and a region defined by the specified rectangle.
+
+```cpp
+void System::Drawing::Region::Intersect(const RectangleF &rect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | const RectangleF\& | A rectangle that defines a region to intersect this region with |
+
+## See Also
+
+* Class [RectangleF](../../rectanglef/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

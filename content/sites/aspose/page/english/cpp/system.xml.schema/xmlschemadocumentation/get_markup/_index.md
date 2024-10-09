@@ -4,7 +4,7 @@ linktitle: get_Markup
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDocumentation::get_Markup method. Returns an array of XmlNode objects that represents the documentation child nodes in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.xml.schema/xmlschemadocumentation/get_markup/
 ---
 ## XmlSchemaDocumentation::get_Markup method

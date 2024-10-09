@@ -4,7 +4,7 @@ linktitle: EncodeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::EncodeName method. Converts the name to a valid XML name in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml/xmlconvert/encodename/
 ---
 ## XmlConvert::EncodeName method

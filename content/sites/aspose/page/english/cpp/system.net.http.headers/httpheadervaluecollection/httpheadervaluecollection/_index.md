@@ -4,7 +4,7 @@ linktitle: HttpHeaderValueCollection
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection::HttpHeaderValueCollection constructor. Constructs a new instance in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.net.http.headers/httpheadervaluecollection/httpheadervaluecollection/
 ---
 ## HttpHeaderValueCollection::HttpHeaderValueCollection(String, System::SharedPtr\<HttpHeaders\>) constructor

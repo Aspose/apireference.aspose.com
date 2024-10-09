@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Net::SocketAddress::idx_get method. Gets a value of the underlying buffer at the specified index in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.net/socketaddress/idx_get/
 ---
 ## SocketAddress::idx_get method

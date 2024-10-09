@@ -4,7 +4,7 @@ linktitle: set_LineAlignment
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::set_LineAlignment method. Sets vertical alignment of the string in C++.'
 type: docs
-weight: 700
+weight: 1500
 url: /cpp/system.drawing/stringformat/set_linealignment/
 ---
 ## StringFormat::set_LineAlignment method

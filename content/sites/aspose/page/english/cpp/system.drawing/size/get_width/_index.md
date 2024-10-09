@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::get_Width method. Returns the value of width represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.drawing/size/get_width/
 ---
 ## Size::get_Width method

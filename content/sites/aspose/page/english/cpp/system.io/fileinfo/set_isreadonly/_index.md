@@ -4,7 +4,7 @@ linktitle: set_IsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::set_IsReadOnly method. Sets or unsets the ReadOnly attribute on the file in C++.'
 type: docs
-weight: 500
+weight: 2100
 url: /cpp/system.io/fileinfo/set_isreadonly/
 ---
 ## FileInfo::set_IsReadOnly method

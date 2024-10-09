@@ -4,7 +4,7 @@ linktitle: GetAbbreviatedMonthName
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::GetAbbreviatedMonthName method. Gets abbreviated month name in C++.'
 type: docs
-weight: 5200
+weight: 3100
 url: /cpp/system.globalization/datetimeformatinfo/getabbreviatedmonthname/
 ---
 ## DateTimeFormatInfo::GetAbbreviatedMonthName method

@@ -4,7 +4,7 @@ linktitle: get_Action
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::get_Action method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/get_action/
 ---
 ## SoapDocumentMethodAttribute::get_Action method

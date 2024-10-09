@@ -4,7 +4,7 @@ linktitle: get_IsThreadPoolThread
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::get_IsThreadPoolThread method. Checks if thread is owned by a thread pool in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/system.threading/thread/get_isthreadpoolthread/
 ---
 ## Thread::get_IsThreadPoolThread method

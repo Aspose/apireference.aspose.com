@@ -4,7 +4,7 @@ linktitle: ISOA3Rotated
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA3Rotated field. ISOA3 rotated in C++.'
 type: docs
-weight: 1300
+weight: 1500
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoa3rotated/
 ---
 ## ISOA3Rotated field

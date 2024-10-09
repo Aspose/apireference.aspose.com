@@ -4,7 +4,7 @@ linktitle: LINQ_OfType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerable::LINQ_OfType method. Filters the elements of the sequence based on the specified type in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.collections.generic/ienumerable/linq_oftype/
 ---
 ## IEnumerable::LINQ_OfType() method

@@ -4,7 +4,7 @@ linktitle: get_Particle
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaGroupRef::get_Particle method. Returns one of the XmlSchemaChoice, XmlSchemaAll, or XmlSchemaSequence classes, which holds the post-compilation interpretation of the Particle value in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemagroupref/get_particle/
 ---
 ## XmlSchemaGroupRef::get_Particle method

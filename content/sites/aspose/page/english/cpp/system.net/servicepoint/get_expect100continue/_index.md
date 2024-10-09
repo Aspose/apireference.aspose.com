@@ -4,7 +4,7 @@ linktitle: get_Expect100Continue
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_Expect100Continue method. Gets a value that indicates if the 100-Continue behavior is used in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/system.net/servicepoint/get_expect100continue/
 ---
 ## ServicePoint::get_Expect100Continue method

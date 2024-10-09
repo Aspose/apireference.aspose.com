@@ -4,7 +4,7 @@ linktitle: ToBitmap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Icon::ToBitmap method. Converts the current object to a Bitmap object in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.drawing/icon/tobitmap/
 ---
 ## Icon::ToBitmap method

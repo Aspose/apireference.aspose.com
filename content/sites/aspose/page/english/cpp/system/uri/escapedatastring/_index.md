@@ -4,7 +4,7 @@ linktitle: EscapeDataString
 second_title: Aspose.Page for C++
 description: 'System::Uri::EscapeDataString method. Converts a string to its escaped representation in C++.'
 type: docs
-weight: 4500
+weight: 3600
 url: /cpp/system/uri/escapedatastring/
 ---
 ## Uri::EscapeDataString method

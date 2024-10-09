@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::Dispose method. Releases all resources used by the current instance of the XmlWriter class in C++.'
 type: docs
-weight: 3600
+weight: 200
 url: /cpp/system.xml/xmlwriter/dispose/
 ---
 ## XmlWriter::Dispose method

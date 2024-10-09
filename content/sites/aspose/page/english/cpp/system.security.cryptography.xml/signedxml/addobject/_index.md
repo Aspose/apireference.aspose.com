@@ -4,7 +4,7 @@ linktitle: AddObject
 second_title: Aspose.Page for C++
 description: 'How to use AddObject method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/system.security.cryptography.xml/signedxml/addobject/
 ---
 ## SignedXml::AddObject method

@@ -4,7 +4,7 @@ linktitle: PrintPageEventHandler
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PrintPageEventHandler typedef. A type of a function that handles PrintPage event in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.drawing.printing/printpageeventhandler/
 ---
 ## PrintPageEventHandler typedef

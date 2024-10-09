@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Decimal::operator== method. Determines if the values represented by the current object and the specified object are equal in C++.'
 type: docs
-weight: 1200
+weight: 2600
 url: /cpp/system/decimal/operator==/
 ---
 ## Decimal::operator==(const Decimal\&) const method

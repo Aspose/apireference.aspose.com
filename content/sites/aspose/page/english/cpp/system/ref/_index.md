@@ -2,11 +2,37 @@
 title: System::Ref method
 linktitle: Ref
 second_title: Aspose.Page for C++
-description: 'System::Ref method. Creates reference to DynamicWeakPtr object. Used by translator when passing function arguments by reference in C++.'
+description: 'System::Ref method. Wrapper to make sure Ref(std::ref(DynamicWeakPtr)) works in C++.'
 type: docs
-weight: 24500
+weight: 32700
 url: /cpp/system/ref/
 ---
+## System::Ref(const std::reference_wrapper\<T\>\&) method
+
+
+Wrapper to make sure Ref(std::ref(DynamicWeakPtr)) works.
+
+```cpp
+template<typename T> decltype(Ref(std::declval<T &>())) System::Ref(const std::reference_wrapper<T> &wrapper)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Referenced type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| wrapper | const std::reference_wrapper\<T\>\& | std wrapper to unwrap. |
+
+### ReturnValue
+
+Reference type defined in [System](../):: rather than in std.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
 ## System::Ref(DynamicWeakPtr\<T, trunkMode, weakLeafs...\>\&) method
 
 
@@ -34,32 +60,6 @@ Smart pointer reference.
 ## See Also
 
 * Class [DynamicWeakPtr](../dynamicweakptr/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::Ref(const std::reference_wrapper\<T\>\&) method
-
-
-Wrapper to make sure Ref(std::ref(DynamicWeakPtr)) works.
-
-```cpp
-template<typename T> decltype(Ref(std::declval<T &>())) System::Ref(const std::reference_wrapper<T> &wrapper)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Referenced type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| wrapper | const std::reference_wrapper\<T\>\& | std wrapper to unwrap. |
-
-### ReturnValue
-
-Reference type defined in [System](../):: rather than in std.
-
-## See Also
-
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
 ## System::Ref(T\&) method

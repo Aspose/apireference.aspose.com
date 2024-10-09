@@ -4,7 +4,7 @@ linktitle: get_ValueAsDateTime
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_ValueAsDateTime method. When overridden in a derived class, gets the item''s value as a DateTime in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.xml.xpath/xpathitem/get_valueasdatetime/
 ---
 ## XPathItem::get_ValueAsDateTime method

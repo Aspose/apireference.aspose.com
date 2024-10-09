@@ -4,7 +4,7 @@ linktitle: DynamicWeakPtr_
 second_title: Aspose.Page for C++
 description: 'System::DynamicWeakPtr::DynamicWeakPtr_ typedef. Self type alias in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system/dynamicweakptr/dynamicweakptr_/
 ---
 ## DynamicWeakPtr_ typedef

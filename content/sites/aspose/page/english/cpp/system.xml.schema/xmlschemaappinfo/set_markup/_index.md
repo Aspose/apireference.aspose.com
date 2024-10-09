@@ -4,7 +4,7 @@ linktitle: set_Markup
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAppInfo::set_Markup method. Sets an array of XmlNode objects that represents the appinfo child nodes in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml.schema/xmlschemaappinfo/set_markup/
 ---
 ## XmlSchemaAppInfo::set_Markup method

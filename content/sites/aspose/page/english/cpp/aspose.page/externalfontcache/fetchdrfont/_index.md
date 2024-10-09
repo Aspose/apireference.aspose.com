@@ -4,7 +4,7 @@ linktitle: FetchDrFont
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::ExternalFontCache::FetchDrFont method. Fetches DrFont by font family name, size and style in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page/externalfontcache/fetchdrfont/
 ---
 ## ExternalFontCache::FetchDrFont method

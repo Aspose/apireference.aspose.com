@@ -4,7 +4,7 @@ linktitle: get_LightSteelBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_LightSteelBlue method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB0C4DE in C++.'
 type: docs
-weight: 7600
+weight: 7500
 url: /cpp/system.drawing/pens/get_lightsteelblue/
 ---
 ## Pens::get_LightSteelBlue method

@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::set_Position method. Sets the stream''s position in C++.'
 type: docs
-weight: 1200
+weight: 2100
 url: /cpp/system.net.sockets/networkstream/set_position/
 ---
 ## NetworkStream::set_Position method

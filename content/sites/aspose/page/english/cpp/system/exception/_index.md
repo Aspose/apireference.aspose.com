@@ -4,7 +4,7 @@ linktitle: Exception
 second_title: Aspose.Page for C++
 description: 'System::Exception typedef. Alias to be used instead of Details::Exception in C++.'
 type: docs
-weight: 11800
+weight: 11000
 url: /cpp/system/exception/
 ---
 ## Exception typedef

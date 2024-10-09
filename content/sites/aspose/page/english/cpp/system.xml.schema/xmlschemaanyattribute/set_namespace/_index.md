@@ -4,7 +4,7 @@ linktitle: set_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAnyAttribute::set_Namespace method. Sets the namespaces containing the attributes that can be used in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaanyattribute/set_namespace/
 ---
 ## XmlSchemaAnyAttribute::set_Namespace method

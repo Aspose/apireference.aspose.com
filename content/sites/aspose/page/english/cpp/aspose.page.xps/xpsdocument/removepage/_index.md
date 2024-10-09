@@ -4,7 +4,7 @@ linktitle: RemovePage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::RemovePage method. Removes a page from the document in C++.'
 type: docs
-weight: 3100
+weight: 5200
 url: /cpp/aspose.page.xps/xpsdocument/removepage/
 ---
 ## XpsDocument::RemovePage method

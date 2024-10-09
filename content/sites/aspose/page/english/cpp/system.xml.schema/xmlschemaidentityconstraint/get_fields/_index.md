@@ -4,7 +4,7 @@ linktitle: get_Fields
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaIdentityConstraint::get_Fields method. Returns the collection of fields that apply as children for the XML Path Language (XPath) expression selector in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/get_fields/
 ---
 ## XmlSchemaIdentityConstraint::get_Fields method

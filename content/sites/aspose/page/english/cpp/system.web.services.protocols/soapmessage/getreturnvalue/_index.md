@@ -4,7 +4,7 @@ linktitle: GetReturnValue
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::GetReturnValue method. Gets the return value of the XML Web service method in C++.'
 type: docs
-weight: 2200
+weight: 1800
 url: /cpp/system.web.services.protocols/soapmessage/getreturnvalue/
 ---
 ## SoapMessage::GetReturnValue method

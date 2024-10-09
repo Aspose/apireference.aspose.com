@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::idx_get method. Keyed getter function in C++.'
 type: docs
-weight: 700
+weight: 1600
 url: /cpp/system.collections.generic/basedictionary/idx_get/
 ---
 ## BaseDictionary::idx_get method

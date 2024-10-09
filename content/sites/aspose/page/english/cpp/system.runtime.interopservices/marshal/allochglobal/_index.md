@@ -4,7 +4,7 @@ linktitle: AllocHGlobal
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::AllocHGlobal method. Allocates unmanaged memory in C++.'
 type: docs
-weight: 1200
+weight: 100
 url: /cpp/system.runtime.interopservices/marshal/allochglobal/
 ---
 ## Marshal::AllocHGlobal(int32_t) method

@@ -2,31 +2,11 @@
 title: System::Xml::XPath::XPathNavigator::ReplaceSelf method
 linktitle: ReplaceSelf
 second_title: Aspose.Page for C++
-description: 'System::Xml::XPath::XPathNavigator::ReplaceSelf method. Replaces the current node with the content of the string specified in C++.'
+description: 'System::Xml::XPath::XPathNavigator::ReplaceSelf method. Replaces the current node with the contents of the XmlReader object specified in C++.'
 type: docs
-weight: 7400
+weight: 7000
 url: /cpp/system.xml.xpath/xpathnavigator/replaceself/
 ---
-## XPathNavigator::ReplaceSelf(String) method
-
-
-Replaces the current node with the content of the string specified.
-
-```cpp
-virtual void System::Xml::XPath::XPathNavigator::ReplaceSelf(String newNode)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newNode | String | The XML data string for the new node. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XPathNavigator::ReplaceSelf(SharedPtr\<XmlReader\>) method
 
 
@@ -66,6 +46,26 @@ virtual void System::Xml::XPath::XPathNavigator::ReplaceSelf(SharedPtr<XPathNavi
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XPathNavigator](../)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)
+## XPathNavigator::ReplaceSelf(String) method
+
+
+Replaces the current node with the content of the string specified.
+
+```cpp
+virtual void System::Xml::XPath::XPathNavigator::ReplaceSelf(String newNode)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newNode | String | The XML data string for the new node. |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.Page for C++](../../../)

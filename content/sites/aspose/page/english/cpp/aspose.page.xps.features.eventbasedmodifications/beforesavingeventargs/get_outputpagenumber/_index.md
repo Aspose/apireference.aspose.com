@@ -4,7 +4,7 @@ linktitle: get_OutputPageNumber
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::BeforeSavingEventArgs::get_OutputPageNumber method. The current output number. It differs from AbsolutePageNumber if the PageNumbers save option is specified in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/beforesavingeventargs/get_outputpagenumber/
 ---
 ## BeforeSavingEventArgs::get_OutputPageNumber method

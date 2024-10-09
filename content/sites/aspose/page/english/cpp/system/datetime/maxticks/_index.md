@@ -4,7 +4,7 @@ linktitle: MaxTicks
 second_title: Aspose.Page for C++
 description: 'System::DateTime::MaxTicks field. The number of 100-nanosecond in the time interval between the minimal possible and maximal possible DateTime value in C++.'
 type: docs
-weight: 7900
+weight: 7200
 url: /cpp/system/datetime/maxticks/
 ---
 ## MaxTicks field

@@ -4,7 +4,7 @@ linktitle: get_WindowsCodePage
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_WindowsCodePage method. Gets Windows codepage ID in C++.'
 type: docs
-weight: 400
+weight: 1600
 url: /cpp/system.text/encoding/get_windowscodepage/
 ---
 ## Encoding::get_WindowsCodePage method

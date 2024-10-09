@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::Equals method. Compares objects in C++.'
 type: docs
-weight: 2800
+weight: 400
 url: /cpp/system.globalization/cultureinfo/equals/
 ---
 ## CultureInfo::Equals method

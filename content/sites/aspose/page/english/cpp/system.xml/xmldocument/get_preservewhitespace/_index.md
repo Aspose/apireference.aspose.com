@@ -4,7 +4,7 @@ linktitle: get_PreserveWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::get_PreserveWhitespace method. Returns a value indicating whether to preserve white space in element content in C++.'
 type: docs
-weight: 1200
+weight: 2800
 url: /cpp/system.xml/xmldocument/get_preservewhitespace/
 ---
 ## XmlDocument::get_PreserveWhitespace method

@@ -4,7 +4,7 @@ linktitle: MoveToNextAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::MoveToNextAttribute method. When overridden in a derived class, moves to the next attribute in C++.'
 type: docs
-weight: 5100
+weight: 3600
 url: /cpp/system.xml/xmlreader/movetonextattribute/
 ---
 ## XmlReader::MoveToNextAttribute method

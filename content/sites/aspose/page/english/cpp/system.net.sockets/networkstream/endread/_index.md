@@ -4,7 +4,7 @@ linktitle: EndRead
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::EndRead method. Waits until the specified asynchronous read operation completes in C++.'
 type: docs
-weight: 2100
+weight: 600
 url: /cpp/system.net.sockets/networkstream/endread/
 ---
 ## NetworkStream::EndRead method

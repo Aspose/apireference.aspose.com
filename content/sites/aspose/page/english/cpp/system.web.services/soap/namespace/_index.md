@@ -4,7 +4,7 @@ linktitle: Namespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::Namespace field. The value of the ''xmlns:soap'' attribute in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.web.services/soap/namespace/
 ---
 ## Namespace field

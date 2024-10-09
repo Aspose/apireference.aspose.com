@@ -4,7 +4,7 @@ linktitle: get_SignatureDate
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfDigitalSignatureDetails::get_SignatureDate method. Date of signing in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.page.xps.presentation.pdf/pdfdigitalsignaturedetails/get_signaturedate/
 ---
 ## PdfDigitalSignatureDetails::get_SignatureDate method

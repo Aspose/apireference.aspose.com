@@ -4,7 +4,7 @@ linktitle: get_StrokeMiterLimit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::get_StrokeMiterLimit method. Returns/sets the ratio between the maximum miter length and half of the stroke thickness. This value is significant only if the StrokeLineJoin attribute specifies Miter in C++.'
 type: docs
-weight: 1900
+weight: 1000
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/get_strokemiterlimit/
 ---
 ## XpsPath::get_StrokeMiterLimit method

@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlEntityReference::get_IsReadOnly method. Returns a value indicating whether the node is read-only in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.xml/xmlentityreference/get_isreadonly/
 ---
 ## XmlEntityReference::get_IsReadOnly method

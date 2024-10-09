@@ -4,7 +4,7 @@ linktitle: get_Product
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ProductInfoHeaderValue::get_Product method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net.http.headers/productinfoheadervalue/get_product/
 ---
 ## ProductInfoHeaderValue::get_Product method

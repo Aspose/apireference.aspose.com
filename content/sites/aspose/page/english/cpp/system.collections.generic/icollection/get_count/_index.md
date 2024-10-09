@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::get_Count method. Gets number of elements in collection in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/system.collections.generic/icollection/get_count/
 ---
 ## ICollection::get_Count method

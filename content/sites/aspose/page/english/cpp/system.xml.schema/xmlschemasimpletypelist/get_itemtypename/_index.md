@@ -4,7 +4,7 @@ linktitle: get_ItemTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeList::get_ItemTypeName method. Returns the name of a built-in data type or simpleType element defined in this schema (or another schema indicated by the specified namespace) in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/get_itemtypename/
 ---
 ## XmlSchemaSimpleTypeList::get_ItemTypeName method

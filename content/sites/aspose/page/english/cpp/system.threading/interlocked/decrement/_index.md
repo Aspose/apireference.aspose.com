@@ -4,7 +4,7 @@ linktitle: Decrement
 second_title: Aspose.Page for C++
 description: 'System::Threading::Interlocked::Decrement method. Decrements value atomically in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.threading/interlocked/decrement/
 ---
 ## Interlocked::Decrement(int32_t\&) method

@@ -4,7 +4,7 @@ linktitle: Ceiling
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::Ceiling method. Constructs a Size object from the specified SizeF object by rounding the SizeF object''s width and height values to the next higher integer values in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/system.drawing/size/ceiling/
 ---
 ## Size::Ceiling method

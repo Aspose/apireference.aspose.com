@@ -4,7 +4,7 @@ linktitle: data
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseSet::data method. Underlying data structure accessor in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/system.collections.generic/baseset/data/
 ---
 ## BaseSet::data() method

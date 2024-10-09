@@ -4,7 +4,7 @@ linktitle: get_Url
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::get_Url method. Returns the XML Web service URL in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/system.web.services.protocols/soapmessage/get_url/
 ---
 ## SoapMessage::get_Url method

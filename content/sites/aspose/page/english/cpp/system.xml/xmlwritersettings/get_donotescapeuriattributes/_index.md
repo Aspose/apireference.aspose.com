@@ -4,7 +4,7 @@ linktitle: get_DoNotEscapeUriAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::get_DoNotEscapeUriAttributes method. Returns a value that indicates whether the XmlWriter does not escape URI attributes in C++.'
 type: docs
-weight: 2600
+weight: 600
 url: /cpp/system.xml/xmlwritersettings/get_donotescapeuriattributes/
 ---
 ## XmlWriterSettings::get_DoNotEscapeUriAttributes method

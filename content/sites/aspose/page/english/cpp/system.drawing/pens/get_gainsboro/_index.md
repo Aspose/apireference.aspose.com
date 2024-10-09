@@ -4,7 +4,7 @@ linktitle: get_Gainsboro
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Gainsboro method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFDCDCDC in C++.'
 type: docs
-weight: 4800
+weight: 4700
 url: /cpp/system.drawing/pens/get_gainsboro/
 ---
 ## Pens::get_Gainsboro method

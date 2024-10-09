@@ -4,7 +4,7 @@ linktitle: ISOA3
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOA3 field. ISOA3 in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoa3/
 ---
 ## ISOA3 field

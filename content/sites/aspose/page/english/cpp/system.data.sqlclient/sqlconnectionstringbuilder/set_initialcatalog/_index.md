@@ -4,7 +4,7 @@ linktitle: set_InitialCatalog
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::set_InitialCatalog method. Sets name of database associated with connection in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_initialcatalog/
 ---
 ## SqlConnectionStringBuilder::set_InitialCatalog method

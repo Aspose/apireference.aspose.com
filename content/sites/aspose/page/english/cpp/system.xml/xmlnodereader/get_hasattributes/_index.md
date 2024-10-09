@@ -4,7 +4,7 @@ linktitle: get_HasAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeReader::get_HasAttributes method. Returns a value indicating whether the current node has any attributes in C++.'
 type: docs
-weight: 1900
+weight: 900
 url: /cpp/system.xml/xmlnodereader/get_hasattributes/
 ---
 ## XmlNodeReader::get_HasAttributes method

@@ -4,7 +4,7 @@ linktitle: set_Version
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Version method. Sets the ''Version'' attribute''s value in C++.'
 type: docs
-weight: 3400
+weight: 3900
 url: /cpp/system.net/cookie/set_version/
 ---
 ## Cookie::set_Version method

@@ -4,7 +4,7 @@ linktitle: get_NewParent
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeChangedEventArgs::get_NewParent method. Returns the value of the XmlNode::get_ParentNode after the operation completes in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml/xmlnodechangedeventargs/get_newparent/
 ---
 ## XmlNodeChangedEventArgs::get_NewParent method

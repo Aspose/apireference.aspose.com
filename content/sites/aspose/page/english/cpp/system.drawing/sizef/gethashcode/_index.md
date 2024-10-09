@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SizeF::GetHashCode method. Returns a hash code for the current object in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/system.drawing/sizef/gethashcode/
 ---
 ## SizeF::GetHashCode method

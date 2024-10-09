@@ -4,7 +4,7 @@ linktitle: set_Block
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::set_Block method. Sets a Block derivation in C++.'
 type: docs
-weight: 400
+weight: 2000
 url: /cpp/system.xml.schema/xmlschemaelement/set_block/
 ---
 ## XmlSchemaElement::set_Block method

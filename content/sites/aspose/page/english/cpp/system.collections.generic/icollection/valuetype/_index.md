@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::ValueType typedef. RTTI information in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.collections.generic/icollection/valuetype/
 ---
 ## ValueType typedef

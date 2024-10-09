@@ -4,7 +4,7 @@ linktitle: Family
 second_title: Aspose.Page for C++
 description: 'How to use Family field of Aspose::Page::AssemblyConstants class in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.page/assemblyconstants/family/
 ---
 ## Family field

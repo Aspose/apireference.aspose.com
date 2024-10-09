@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::Write method. Writes the XML Schema to the supplied data stream in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system.xml.schema/xmlschema/write/
 ---
 ## XmlSchema::Write(const SharedPtr\<IO::Stream\>\&) method

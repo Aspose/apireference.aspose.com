@@ -4,7 +4,7 @@ linktitle: StreamDataSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::StreamDataSource::StreamDataSource constructor. Initializes new stream data source with the specified stream object in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.plugins/streamdatasource/streamdatasource/
 ---
 ## StreamDataSource::StreamDataSource constructor

@@ -4,7 +4,7 @@ linktitle: set_SecurityProtocol
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePointManager::set_SecurityProtocol method. Sets the security protocol type used by the ServicePoint-class instances that are managed by the current instance in C++.'
 type: docs
-weight: 200
+weight: 2300
 url: /cpp/system.net/servicepointmanager/set_securityprotocol/
 ---
 ## ServicePointManager::set_SecurityProtocol method

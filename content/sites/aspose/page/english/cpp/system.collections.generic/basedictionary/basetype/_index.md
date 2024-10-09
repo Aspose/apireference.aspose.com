@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::BaseType typedef. Implemented interface in C++.'
 type: docs
-weight: 3000
+weight: 2600
 url: /cpp/system.collections.generic/basedictionary/basetype/
 ---
 ## BaseType typedef

@@ -4,7 +4,7 @@ linktitle: SetResolution
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::SetResolution method. Sets the resolution of the image in C++.'
 type: docs
-weight: 900
+weight: 2200
 url: /cpp/system.drawing/bitmap/setresolution/
 ---
 ## Bitmap::SetResolution method

@@ -4,7 +4,7 @@ linktitle: GetCultures
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::GetCultures method. Gets cultures that fall into specified types in C++.'
 type: docs
-weight: 4800
+weight: 4400
 url: /cpp/system.globalization/cultureinfo/getcultures/
 ---
 ## CultureInfo::GetCultures method

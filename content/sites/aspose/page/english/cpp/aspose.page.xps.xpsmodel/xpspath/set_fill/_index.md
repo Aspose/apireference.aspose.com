@@ -4,7 +4,7 @@ linktitle: set_Fill
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::set_Fill method. Returns/sets the brush used to paint the geometry specified by the Data property of the path in C++.'
 type: docs
-weight: 200
+weight: 1400
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/set_fill/
 ---
 ## XpsPath::set_Fill method

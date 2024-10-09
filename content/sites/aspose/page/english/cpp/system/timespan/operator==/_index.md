@@ -2,11 +2,25 @@
 title: System::TimeSpan::operator== method
 linktitle: operator==
 second_title: Aspose.Page for C++
-description: 'System::TimeSpan::operator== method. Determines if the time interval represented by the current object is equal to the time interval represented by the specified object in C++.'
+description: 'How to use operator== method of System::TimeSpan class in C++.'
 type: docs
-weight: 2800
+weight: 3000
 url: /cpp/system/timespan/operator==/
 ---
+## TimeSpan::operator==(std::nullptr_t) const method
+
+
+
+
+```cpp
+bool System::TimeSpan::operator==(std::nullptr_t) const
+```
+
+## See Also
+
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TimeSpan::operator==(TimeSpan) const method
 
 
@@ -28,20 +42,6 @@ True if the current object and the specified object represent the same time inte
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## TimeSpan::operator==(std::nullptr_t) const method
-
-
-
-
-```cpp
-bool System::TimeSpan::operator==(std::nullptr_t) const
-```
-
-## See Also
-
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

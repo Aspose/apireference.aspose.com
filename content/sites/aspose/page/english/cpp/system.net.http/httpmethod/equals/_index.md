@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMethod::Equals method. Determines if the the current and specified objects are equal in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.net.http/httpmethod/equals/
 ---
 ## HttpMethod::Equals(System::SharedPtr\<HttpMethod\>) method

@@ -4,7 +4,7 @@ linktitle: AddSubjectKeyId
 second_title: Aspose.Page for C++
 description: 'How to use AddSubjectKeyId method of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/system.security.cryptography.xml/keyinfox509data/addsubjectkeyid/
 ---
 ## KeyInfoX509Data::AddSubjectKeyId method

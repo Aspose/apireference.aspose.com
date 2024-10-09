@@ -4,7 +4,7 @@ linktitle: set_Indentation
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::set_Indentation method. Sets how many IndentChars to write for each level in the hierarchy when XmlTextWriter::set_Formatting is set to Formatting::Indented in C++.'
 type: docs
-weight: 700
+weight: 1500
 url: /cpp/system.xml/xmltextwriter/set_indentation/
 ---
 ## XmlTextWriter::set_Indentation method

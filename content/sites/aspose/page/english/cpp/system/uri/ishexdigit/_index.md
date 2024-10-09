@@ -4,7 +4,7 @@ linktitle: IsHexDigit
 second_title: Aspose.Page for C++
 description: 'System::Uri::IsHexDigit method. Determines if the specified character represents a valid hexadecimal digit in C++.'
 type: docs
-weight: 3800
+weight: 4100
 url: /cpp/system/uri/ishexdigit/
 ---
 ## Uri::IsHexDigit method

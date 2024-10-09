@@ -4,7 +4,7 @@ linktitle: get_Khaki
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Khaki method. Gets a system-defined color that has an ARGB value of #FFF0E68C in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/aspose.page.drawing/color/get_khaki/
 ---
 ## Color::get_Khaki method

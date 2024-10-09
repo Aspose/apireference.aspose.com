@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::get_Count method. Gets number of elements in container in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.collections.generic/ikvcollection/get_count/
 ---
 ## IKVCollection::get_Count method

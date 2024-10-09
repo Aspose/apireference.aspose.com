@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::GetEnumerator method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/system.collections.generic/ikvcollection/getenumerator/
 ---
 ## IKVCollection::GetEnumerator method

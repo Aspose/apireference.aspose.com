@@ -2,39 +2,11 @@
 title: System::setter_wrap method
 linktitle: setter_wrap
 second_title: Aspose.Page for C++
-description: 'System::setter_wrap method. Overload for static setter functions with type conversion in C++.'
+description: 'System::setter_wrap method. Overload for instance setter functions with type conversion in C++.'
 type: docs
-weight: 32900
+weight: 34100
 url: /cpp/system/setter_wrap/
 ---
-## System::setter_wrap(void(*)(T2), T) method
-
-
-Overload for static setter functions with type conversion.
-
-```cpp
-template<typename T,typename T2> T System::setter_wrap(void(*pSetter)(T2), T value)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Value type. |
-| T2 | Type expected by setter function. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pSetter | void(*)(T2) | Static setter function reference. |
-| value | T | Value to set. |
-
-### ReturnValue
-
-set value.
-
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
 ## System::setter_wrap(Host *const, void(HostSet::*)(T2), T) method
 
 
@@ -65,5 +37,33 @@ set value.
 ## See Also
 
 * Enum [UriComponents](../uricomponents/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::setter_wrap(void(*)(T2), T) method
+
+
+Overload for static setter functions with type conversion.
+
+```cpp
+template<typename T,typename T2> T System::setter_wrap(void(*pSetter)(T2), T value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Value type. |
+| T2 | Type expected by setter function. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pSetter | void(*)(T2) | Static setter function reference. |
+| value | T | Value to set. |
+
+### ReturnValue
+
+set value.
+
+## See Also
+
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)

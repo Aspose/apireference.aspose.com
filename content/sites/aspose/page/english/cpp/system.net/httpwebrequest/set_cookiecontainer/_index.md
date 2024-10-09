@@ -4,7 +4,7 @@ linktitle: set_CookieContainer
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::set_CookieContainer method. Sets a cookie container associated with the current web request in C++.'
 type: docs
-weight: 1400
+weight: 4500
 url: /cpp/system.net/httpwebrequest/set_cookiecontainer/
 ---
 ## HttpWebRequest::set_CookieContainer method

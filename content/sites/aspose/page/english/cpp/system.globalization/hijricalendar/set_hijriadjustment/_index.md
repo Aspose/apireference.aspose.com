@@ -4,7 +4,7 @@ linktitle: set_HijriAdjustment
 second_title: Aspose.Page for C++
 description: 'System::Globalization::HijriCalendar::set_HijriAdjustment method. Sets hijri adjustment in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/system.globalization/hijricalendar/set_hijriadjustment/
 ---
 ## HijriCalendar::set_HijriAdjustment method

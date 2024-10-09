@@ -4,7 +4,7 @@ linktitle: ImportCspBlob
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSACryptoServiceProvider::ImportCspBlob method. Imports blob with information on key. Not implemented in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/importcspblob/
 ---
 ## DSACryptoServiceProvider::ImportCspBlob method

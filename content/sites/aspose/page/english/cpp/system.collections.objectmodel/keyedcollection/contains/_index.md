@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::KeyedCollection::Contains method. Checks if key is present in container in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.collections.objectmodel/keyedcollection/contains/
 ---
 ## KeyedCollection::Contains method

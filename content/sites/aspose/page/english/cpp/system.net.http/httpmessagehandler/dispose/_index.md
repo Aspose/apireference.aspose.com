@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMessageHandler::Dispose method. Does nothing in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.net.http/httpmessagehandler/dispose/
 ---
 ## HttpMessageHandler::Dispose method

@@ -4,29 +4,9 @@ linktitle: BitArray
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::BitArray constructor. Copy constructor in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.collections/bitarray/bitarray/
 ---
-## BitArray::BitArray(const bitset\&) constructor
-
-
-Copy constructor.
-
-```cpp
-System::Collections::BitArray::BitArray(const bitset &bits)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bits | const bitset\& | Container to copy data from. |
-
-## See Also
-
-* Typedef [bitset](../bitset/)
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Page for C++](../../../)
 ## BitArray::BitArray(const BitArray\&) constructor
 
 
@@ -67,6 +47,26 @@ System::Collections::BitArray::BitArray(const BitArrayPtr &array)
 * Class [BitArray](../)
 * Namespace [System::Collections](../../)
 * Library [Aspose.Page for C++](../../../)
+## BitArray::BitArray(const bitset\&) constructor
+
+
+Copy constructor.
+
+```cpp
+System::Collections::BitArray::BitArray(const bitset &bits)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bits | const bitset\& | Container to copy data from. |
+
+## See Also
+
+* Typedef [bitset](../bitset/)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Page for C++](../../../)
 ## BitArray::BitArray(const System::ArrayPtr\<bool\>\&) constructor
 
 
@@ -87,26 +87,6 @@ System::Collections::BitArray::BitArray(const System::ArrayPtr<bool> &values)
 * Class [BitArray](../)
 * Namespace [System::Collections](../../)
 * Library [Aspose.Page for C++](../../../)
-## BitArray::BitArray(const System::ArrayPtr\<uint8_t\>\&) constructor
-
-
-Copy constructor.
-
-```cpp
-System::Collections::BitArray::BitArray(const System::ArrayPtr<uint8_t> &bytes)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bytes | const System::ArrayPtr\<uint8_t\>\& | Container to bitwise copy data from. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Page for C++](../../../)
 ## BitArray::BitArray(const System::ArrayPtr\<int\>\&) constructor
 
 
@@ -120,6 +100,26 @@ System::Collections::BitArray::BitArray(const System::ArrayPtr<int> &values)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | values | const System::ArrayPtr\<int\>\& | Container to bitwise copy data from. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Page for C++](../../../)
+## BitArray::BitArray(const System::ArrayPtr\<uint8_t\>\&) constructor
+
+
+Copy constructor.
+
+```cpp
+System::Collections::BitArray::BitArray(const System::ArrayPtr<uint8_t> &bytes)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bytes | const System::ArrayPtr\<uint8_t\>\& | Container to bitwise copy data from. |
 
 ## See Also
 

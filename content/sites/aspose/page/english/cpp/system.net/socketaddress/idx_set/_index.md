@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Net::SocketAddress::idx_set method. Sets a value of the underlying buffer at the specified index in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.net/socketaddress/idx_set/
 ---
 ## SocketAddress::idx_set method

@@ -2,37 +2,11 @@
 title: System::Xml::XPath::XPathNavigator::SelectChildren method
 linktitle: SelectChildren
 second_title: Aspose.Page for C++
-description: 'System::Xml::XPath::XPathNavigator::SelectChildren method. Selects all the child nodes of the current node that have the matching XPathNodeType in C++.'
+description: 'System::Xml::XPath::XPathNavigator::SelectChildren method. Selects all the child nodes of the current node that have the local name and namespace URI specified in C++.'
 type: docs
-weight: 6500
+weight: 7300
 url: /cpp/system.xml.xpath/xpathnavigator/selectchildren/
 ---
-## XPathNavigator::SelectChildren(XPathNodeType) method
-
-
-Selects all the child nodes of the current node that have the matching XPathNodeType.
-
-```cpp
-virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectChildren(XPathNodeType type)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| type | XPathNodeType | The XPathNodeType of the child nodes. |
-
-### ReturnValue
-
-An [XPathNodeIterator](../../xpathnodeiterator/) that contains the selected nodes.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XPathNodeIterator](../../xpathnodeiterator/)
-* Enum [XPathNodeType](../../xpathnodetype/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XPathNavigator::SelectChildren(String, String) method
 
 
@@ -57,6 +31,32 @@ An [XPathNodeIterator](../../xpathnodeiterator/) that contains the selected node
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XPathNodeIterator](../../xpathnodeiterator/)
 * Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)
+## XPathNavigator::SelectChildren(XPathNodeType) method
+
+
+Selects all the child nodes of the current node that have the matching XPathNodeType.
+
+```cpp
+virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectChildren(XPathNodeType type)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | XPathNodeType | The XPathNodeType of the child nodes. |
+
+### ReturnValue
+
+An [XPathNodeIterator](../../xpathnodeiterator/) that contains the selected nodes.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNodeIterator](../../xpathnodeiterator/)
+* Enum [XPathNodeType](../../xpathnodetype/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.Page for C++](../../../)

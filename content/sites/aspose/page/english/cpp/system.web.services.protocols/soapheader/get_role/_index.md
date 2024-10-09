@@ -4,7 +4,7 @@ linktitle: get_Role
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::get_Role method. Gets the URI of the SOAP header recipient when SOAP version 1.2 is used in C++.'
 type: docs
-weight: 1500
+weight: 900
 url: /cpp/system.web.services.protocols/soapheader/get_role/
 ---
 ## SoapHeader::get_Role method

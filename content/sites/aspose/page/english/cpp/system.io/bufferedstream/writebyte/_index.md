@@ -4,7 +4,7 @@ linktitle: WriteByte
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::WriteByte method. Writes the specified unsigned 8-bit integer value to the underlying stream in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/system.io/bufferedstream/writebyte/
 ---
 ## BufferedStream::WriteByte method

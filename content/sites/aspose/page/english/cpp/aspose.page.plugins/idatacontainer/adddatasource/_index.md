@@ -4,7 +4,7 @@ linktitle: AddDataSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::IDataContainer::AddDataSource method. Adds new data source to the collection in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.plugins/idatacontainer/adddatasource/
 ---
 ## IDataContainer::AddDataSource method

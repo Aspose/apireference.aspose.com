@@ -4,7 +4,7 @@ linktitle: BeginWrite
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::BeginWrite method. Initiates an asynchronous write operation in C++.'
 type: docs
-weight: 1100
+weight: 200
 url: /cpp/system.io/stream/beginwrite/
 ---
 ## Stream::BeginWrite method

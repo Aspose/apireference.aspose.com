@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::virtualizeBeginIterator method. Gets the implementation of begin iterator for the current container in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system.net/cookiecollection/virtualizebeginiterator/
 ---
 ## CookieCollection::virtualizeBeginIterator method

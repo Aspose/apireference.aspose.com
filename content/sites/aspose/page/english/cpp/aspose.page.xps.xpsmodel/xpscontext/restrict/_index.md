@@ -4,7 +4,7 @@ linktitle: Restrict
 second_title: Aspose.Page for C++
 description: 'How to use Restrict method of Aspose::Page::XPS::XpsModel::XpsContext class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpscontext/restrict/
 ---
 ## XpsContext::Restrict method

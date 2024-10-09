@@ -4,7 +4,7 @@ linktitle: set_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::set_NameTable method. Sets the XmlNameTable used to atomize strings. For more information on atomized strings, see XmlNameTable in C++.'
 type: docs
-weight: 200
+weight: 1700
 url: /cpp/system.xml/xmlparsercontext/set_nametable/
 ---
 ## XmlParserContext::set_NameTable method

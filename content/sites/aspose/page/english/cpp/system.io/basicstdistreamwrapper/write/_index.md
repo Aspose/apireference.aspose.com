@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSTDIStreamWrapper::Write method. If wrapping mode is binary, writes to the stream the specified subrange of bytes from the specified byte array, otherwise convert the specified subrange of bytes from the specified byte array to char_type type ant then writes result to the stream. Not supported! in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.io/basicstdistreamwrapper/write/
 ---
 ## BasicSTDIStreamWrapper::Write(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

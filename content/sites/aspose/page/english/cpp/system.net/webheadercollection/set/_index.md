@@ -4,7 +4,7 @@ linktitle: Set
 second_title: Aspose.Page for C++
 description: 'System::Net::WebHeaderCollection::Set method. Sets the value of the specified header in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system.net/webheadercollection/set/
 ---
 ## WebHeaderCollection::Set method

@@ -4,7 +4,7 @@ linktitle: get_ResponseNamespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::get_ResponseNamespace method. Gets the namespace associated with the SOAP response in C++.'
 type: docs
-weight: 1500
+weight: 900
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/get_responsenamespace/
 ---
 ## SoapDocumentMethodAttribute::get_ResponseNamespace method

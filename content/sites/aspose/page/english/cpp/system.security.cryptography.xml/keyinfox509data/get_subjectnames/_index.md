@@ -4,7 +4,7 @@ linktitle: get_SubjectNames
 second_title: Aspose.Page for C++
 description: 'How to use get_SubjectNames method of System::Security::Cryptography::Xml::KeyInfoX509Data class in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/system.security.cryptography.xml/keyinfox509data/get_subjectnames/
 ---
 ## KeyInfoX509Data::get_SubjectNames method

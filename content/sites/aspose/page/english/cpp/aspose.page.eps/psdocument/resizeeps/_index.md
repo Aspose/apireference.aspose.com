@@ -4,33 +4,9 @@ linktitle: ResizeEps
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::ResizeEps method. Resizes given PsDocument as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing %BoundingBox or new one will be created. Page transformation matrix also will be set in C++.'
 type: docs
-weight: 1100
+weight: 3900
 url: /cpp/aspose.page.eps/psdocument/resizeeps/
 ---
-## PsDocument::ResizeEps(System::String, System::Drawing::SizeF, Units) method
-
-
-Resizes given [PsDocument](../) as [EPS](../../) file. This method is used only after extracting [EPS](../../) size. It saves initial [EPS](../../) file with updated existing %BoundingBox or new one will be created. [Page](../../../aspose.page/) transformation matrix also will be set.
-
-```cpp
-void Aspose::Page::EPS::PsDocument::ResizeEps(System::String outEpsFilePath, System::Drawing::SizeF newSizeInUnits, Units units)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outEpsFilePath | System::String | The output [EPS](../../) file path. |
-| newSizeInUnits | System::Drawing::SizeF | New size of [EPS](../../) image in assigned units. |
-| units | Units | The units of the new size. Can be points, inches, millimeters, centimeters and percents of initial size. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [SizeF](../../../system.drawing/sizef/)
-* Enum [Units](../../../aspose.page/units/)
-* Class [PsDocument](../)
-* Namespace [Aspose::Page::EPS](../../)
-* Library [Aspose.Page for C++](../../../)
 ## PsDocument::ResizeEps(System::SharedPtr\<System::IO::Stream\>, System::Drawing::SizeF, Units) method
 
 
@@ -51,6 +27,30 @@ void Aspose::Page::EPS::PsDocument::ResizeEps(System::SharedPtr<System::IO::Stre
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stream](../../../system.io/stream/)
+* Class [SizeF](../../../system.drawing/sizef/)
+* Enum [Units](../../../aspose.page/units/)
+* Class [PsDocument](../)
+* Namespace [Aspose::Page::EPS](../../)
+* Library [Aspose.Page for C++](../../../)
+## PsDocument::ResizeEps(System::String, System::Drawing::SizeF, Units) method
+
+
+Resizes given [PsDocument](../) as [EPS](../../) file. This method is used only after extracting [EPS](../../) size. It saves initial [EPS](../../) file with updated existing %BoundingBox or new one will be created. [Page](../../../aspose.page/) transformation matrix also will be set.
+
+```cpp
+void Aspose::Page::EPS::PsDocument::ResizeEps(System::String outEpsFilePath, System::Drawing::SizeF newSizeInUnits, Units units)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outEpsFilePath | System::String | The output [EPS](../../) file path. |
+| newSizeInUnits | System::Drawing::SizeF | New size of [EPS](../../) image in assigned units. |
+| units | Units | The units of the new size. Can be points, inches, millimeters, centimeters and percents of initial size. |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [SizeF](../../../system.drawing/sizef/)
 * Enum [Units](../../../aspose.page/units/)
 * Class [PsDocument](../)

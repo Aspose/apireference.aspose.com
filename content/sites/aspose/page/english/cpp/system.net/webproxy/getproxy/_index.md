@@ -4,7 +4,7 @@ linktitle: GetProxy
 second_title: Aspose.Page for C++
 description: 'System::Net::WebProxy::GetProxy method. Returns the proxied URI for a web request in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/system.net/webproxy/getproxy/
 ---
 ## WebProxy::GetProxy method

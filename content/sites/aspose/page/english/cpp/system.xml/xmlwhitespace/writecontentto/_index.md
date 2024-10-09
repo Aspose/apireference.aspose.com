@@ -4,7 +4,7 @@ linktitle: WriteContentTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWhitespace::WriteContentTo method. Saves all the children of the node to the specified XmlWriter in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.xml/xmlwhitespace/writecontentto/
 ---
 ## XmlWhitespace::WriteContentTo method

@@ -4,7 +4,7 @@ linktitle: AddNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::AddNamespace method. Adds the given namespace to the collection in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.xml/xmlnamespacemanager/addnamespace/
 ---
 ## XmlNamespaceManager::AddNamespace method

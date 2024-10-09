@@ -4,7 +4,7 @@ linktitle: GetYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::KoreanCalendar::GetYear method. Gets year for the specified time point in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/system.globalization/koreancalendar/getyear/
 ---
 ## KoreanCalendar::GetYear method

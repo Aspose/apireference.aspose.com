@@ -4,22 +4,22 @@ linktitle: HostToNetworkOrder
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::HostToNetworkOrder method. Converts the specified host byte order to the corresponding network byte order in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/system.net/ipaddress/hosttonetworkorder/
 ---
-## IPAddress::HostToNetworkOrder(int64_t) method
+## IPAddress::HostToNetworkOrder(int16_t) method
 
 
 Converts the specified host byte order to the corresponding network byte order.
 
 ```cpp
-static int64_t System::Net::IPAddress::HostToNetworkOrder(int64_t host)
+static int16_t System::Net::IPAddress::HostToNetworkOrder(int16_t host)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| host | int64_t | The value to convert. |
+| host | int16_t | The value to convert. |
 
 ### ReturnValue
 
@@ -53,19 +53,19 @@ The corresponding network byte order.
 * Class [IPAddress](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.Page for C++](../../../)
-## IPAddress::HostToNetworkOrder(int16_t) method
+## IPAddress::HostToNetworkOrder(int64_t) method
 
 
 Converts the specified host byte order to the corresponding network byte order.
 
 ```cpp
-static int16_t System::Net::IPAddress::HostToNetworkOrder(int16_t host)
+static int64_t System::Net::IPAddress::HostToNetworkOrder(int64_t host)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| host | int16_t | The value to convert. |
+| host | int64_t | The value to convert. |
 
 ### ReturnValue
 

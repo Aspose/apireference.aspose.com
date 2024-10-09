@@ -4,7 +4,7 @@ linktitle: FromBase64Transform
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::FromBase64Transform::FromBase64Transform constructor. Constructor in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.security.cryptography/frombase64transform/frombase64transform/
 ---
 ## FromBase64Transform::FromBase64Transform() constructor

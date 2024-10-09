@@ -4,7 +4,7 @@ linktitle: SetImpl
 second_title: Aspose.Page for C++
 description: 'System::Net::IPAddress::SetImpl method. Sets a pointer to implementation in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/system.net/ipaddress/setimpl/
 ---
 ## IPAddress::SetImpl method

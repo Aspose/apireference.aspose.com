@@ -4,7 +4,7 @@ linktitle: SetTemplParamType
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::SetTemplParamType method. Sets template parameter type descritor in C++.'
 type: docs
-weight: 4600
+weight: 4900
 url: /cpp/system/typeinfo/settemplparamtype/
 ---
 ## TypeInfo::SetTemplParamType method

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Xml::Serialization::XmlSerializerNamespaces::get_Count method. Returns the number of prefix and namespace pairs in the collection in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.serialization/xmlserializernamespaces/get_count/
 ---
 ## XmlSerializerNamespaces::get_Count method

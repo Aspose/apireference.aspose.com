@@ -4,7 +4,7 @@ linktitle: get_NewColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMap::get_NewColor method. Returns the new Color object representing the color to which to convert in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.drawing.imaging/colormap/get_newcolor/
 ---
 ## ColorMap::get_NewColor method

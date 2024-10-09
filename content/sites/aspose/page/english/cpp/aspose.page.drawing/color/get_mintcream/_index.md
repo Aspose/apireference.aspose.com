@@ -4,7 +4,7 @@ linktitle: get_MintCream
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_MintCream method. Gets a system-defined color that has an ARGB value of #FFF5FFFA in C++.'
 type: docs
-weight: 9300
+weight: 9400
 url: /cpp/aspose.page.drawing/color/get_mintcream/
 ---
 ## Color::get_MintCream method

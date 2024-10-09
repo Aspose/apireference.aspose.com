@@ -4,7 +4,7 @@ linktitle: traits_type
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSystemIOStreamBuf::traits_type typedef of System::IO::BasicSystemIOStreamBuf class in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.io/basicsystemiostreambuf/traits_type/
 ---
 ## traits_type typedef

@@ -4,7 +4,7 @@ linktitle: FromDays
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::FromDays method. Returns a new TimeSpan object that represents the specified interval in C++.'
 type: docs
-weight: 4000
+weight: 3600
 url: /cpp/system/timespan/fromdays/
 ---
 ## TimeSpan::FromDays method

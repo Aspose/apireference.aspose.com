@@ -4,7 +4,7 @@ linktitle: get_Stride
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::BitmapData::get_Stride method. Returns the stride width of the image in bytes in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.drawing.imaging/bitmapdata/get_stride/
 ---
 ## BitmapData::get_Stride method

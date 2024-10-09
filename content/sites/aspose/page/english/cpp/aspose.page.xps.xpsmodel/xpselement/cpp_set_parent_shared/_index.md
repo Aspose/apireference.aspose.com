@@ -4,7 +4,7 @@ linktitle: cpp_set_parent_shared
 second_title: Aspose.Page for C++
 description: 'How to use cpp_set_parent_shared method of Aspose::Page::XPS::XpsModel::XpsElement class in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/cpp_set_parent_shared/
 ---
 ## XpsElement::cpp_set_parent_shared method

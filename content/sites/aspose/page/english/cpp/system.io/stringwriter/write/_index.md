@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.Page for C++
 description: 'System::IO::StringWriter::Write method. Writes the specified character to the stream in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.io/stringwriter/write/
 ---
 ## StringWriter::Write(char_t) method

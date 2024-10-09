@@ -4,7 +4,7 @@ linktitle: get_WrapMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::get_WrapMode method. Returns the wrap mode in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_wrapmode/
 ---
 ## PathGradientBrush::get_WrapMode method

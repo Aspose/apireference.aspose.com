@@ -4,7 +4,7 @@ linktitle: PtrToStringAnsi
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::PtrToStringAnsi method. Creates a managed String from an unmanaged zero-terminated UTF8-string in C++.'
 type: docs
-weight: 1900
+weight: 500
 url: /cpp/system.runtime.interopservices/marshal/ptrtostringansi/
 ---
 ## Marshal::PtrToStringAnsi(IntPtr) method

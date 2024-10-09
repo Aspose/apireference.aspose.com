@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_Name method. Gets culture name in C++.'
 type: docs
-weight: 200
+weight: 1600
 url: /cpp/system.globalization/cultureinfo/get_name/
 ---
 ## CultureInfo::get_Name method

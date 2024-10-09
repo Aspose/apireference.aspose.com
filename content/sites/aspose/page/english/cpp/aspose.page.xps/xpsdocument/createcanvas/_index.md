@@ -4,7 +4,7 @@ linktitle: CreateCanvas
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::CreateCanvas method. Creates a new canvas in C++.'
 type: docs
-weight: 3400
+weight: 1100
 url: /cpp/aspose.page.xps/xpsdocument/createcanvas/
 ---
 ## XpsDocument::CreateCanvas method

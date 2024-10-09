@@ -4,7 +4,7 @@ linktitle: get_AcceptCharset
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_AcceptCharset method. Returns a value of the ''Accept-Charset'' header in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net.http.headers/httprequestheaders/get_acceptcharset/
 ---
 ## HttpRequestHeaders::get_AcceptCharset method

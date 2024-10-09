@@ -4,7 +4,7 @@ linktitle: SetSigmaBellShape
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::SetSigmaBellShape method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1500
+weight: 2100
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/setsigmabellshape/
 ---
 ## LinearGradientBrush::SetSigmaBellShape method

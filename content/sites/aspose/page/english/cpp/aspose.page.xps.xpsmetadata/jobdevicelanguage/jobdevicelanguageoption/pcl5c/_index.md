@@ -4,7 +4,7 @@ linktitle: PCL5c
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::PCL5c field. Specified device language is PCL5c in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/pcl5c/
 ---
 ## PCL5c field

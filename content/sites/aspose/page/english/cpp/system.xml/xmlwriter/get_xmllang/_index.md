@@ -4,7 +4,7 @@ linktitle: get_XmlLang
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::get_XmlLang method. When overridden in a derived class, gets the current xml:lang scope in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.xml/xmlwriter/get_xmllang/
 ---
 ## XmlWriter::get_XmlLang method

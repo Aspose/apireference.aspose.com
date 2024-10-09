@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::idx_get method. Getter function in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/system.collections/bitarray/idx_get/
 ---
 ## BitArray::idx_get method

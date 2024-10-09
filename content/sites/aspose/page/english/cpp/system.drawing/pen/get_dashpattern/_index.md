@@ -4,7 +4,7 @@ linktitle: get_DashPattern
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::get_DashPattern method. Returns an array indicating custom dash pattern in a dashed line in C++.'
 type: docs
-weight: 2000
+weight: 1000
 url: /cpp/system.drawing/pen/get_dashpattern/
 ---
 ## Pen::get_DashPattern method

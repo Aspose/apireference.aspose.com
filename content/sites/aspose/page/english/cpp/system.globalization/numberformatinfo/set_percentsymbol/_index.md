@@ -4,7 +4,7 @@ linktitle: set_PercentSymbol
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PercentSymbol method. Sets percent symbol in C++.'
 type: docs
-weight: 1100
+weight: 5600
 url: /cpp/system.globalization/numberformatinfo/set_percentsymbol/
 ---
 ## NumberFormatInfo::set_PercentSymbol method

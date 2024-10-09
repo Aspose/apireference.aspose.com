@@ -4,7 +4,7 @@ linktitle: get_ContentRange
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::get_ContentRange method. Gets a value of the ''Content-Range'' header in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentrange/
 ---
 ## HttpContentHeaders::get_ContentRange method

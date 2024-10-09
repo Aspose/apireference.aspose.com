@@ -4,7 +4,7 @@ linktitle: operator/
 second_title: Aspose.Page for C++
 description: 'System::operator/ method. Returns a new instance of Decimal class that represents a value that is a result of division of the specified value and the value represented by the specified Decimal object in C++.'
 type: docs
-weight: 23900
+weight: 24600
 url: /cpp/system/operator/
 ---
 ## System::operator/ method

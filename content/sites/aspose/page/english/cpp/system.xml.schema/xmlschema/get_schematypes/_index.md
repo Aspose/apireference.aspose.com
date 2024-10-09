@@ -4,7 +4,7 @@ linktitle: get_SchemaTypes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_SchemaTypes method. Returns the post-schema-compilation value of all schema types in the schema in C++.'
 type: docs
-weight: 1800
+weight: 1600
 url: /cpp/system.xml.schema/xmlschema/get_schematypes/
 ---
 ## XmlSchema::get_SchemaTypes method

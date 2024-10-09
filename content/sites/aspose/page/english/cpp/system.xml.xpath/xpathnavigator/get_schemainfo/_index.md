@@ -4,7 +4,7 @@ linktitle: get_SchemaInfo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_SchemaInfo method. Returns the schema information that has been assigned to the current node as a result of schema validation in C++.'
 type: docs
-weight: 2200
+weight: 2700
 url: /cpp/system.xml.xpath/xpathnavigator/get_schemainfo/
 ---
 ## XPathNavigator::get_SchemaInfo method

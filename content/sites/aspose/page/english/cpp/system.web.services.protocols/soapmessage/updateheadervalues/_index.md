@@ -4,7 +4,7 @@ linktitle: UpdateHeaderValues
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::UpdateHeaderValues method. Updates the internal collection of the SOAP headers in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system.web.services.protocols/soapmessage/updateheadervalues/
 ---
 ## SoapMessage::UpdateHeaderValues method

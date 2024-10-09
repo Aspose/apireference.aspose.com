@@ -4,7 +4,7 @@ linktitle: set_Location
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::set_Location method. Sets the location of the upper left corner of the rectangle represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/system.drawing/rectangle/set_location/
 ---
 ## Rectangle::set_Location method

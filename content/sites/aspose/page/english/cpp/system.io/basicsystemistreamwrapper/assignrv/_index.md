@@ -4,7 +4,7 @@ linktitle: AssignRV
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSystemIStreamWrapper::AssignRV method. Used in move constructor and move assignment operator to reset pointers and call swap() in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.io/basicsystemistreamwrapper/assignrv/
 ---
 ## BasicSystemIStreamWrapper::AssignRV method

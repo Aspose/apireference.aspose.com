@@ -4,7 +4,7 @@ linktitle: AddCapture
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::Group::AddCapture method. Adds capture into group in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.text.regularexpressions/group/addcapture/
 ---
 ## Group::AddCapture method

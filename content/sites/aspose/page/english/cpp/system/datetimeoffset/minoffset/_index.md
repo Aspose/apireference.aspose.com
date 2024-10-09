@@ -4,7 +4,7 @@ linktitle: MinOffset
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::MinOffset field. Gets minimum offset in ticks in C++.'
 type: docs
-weight: 6100
+weight: 6200
 url: /cpp/system/datetimeoffset/minoffset/
 ---
 ## MinOffset field

@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::Insert method. Inserts item into specified position in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.collections.objectmodel/collection/insert/
 ---
 ## Collection::Insert method

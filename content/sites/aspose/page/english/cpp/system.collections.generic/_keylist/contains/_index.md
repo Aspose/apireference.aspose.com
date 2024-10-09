@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::_KeyList::Contains method. Checks if specified key is present in collection in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.collections.generic/_keylist/contains/
 ---
 ## _KeyList::Contains method

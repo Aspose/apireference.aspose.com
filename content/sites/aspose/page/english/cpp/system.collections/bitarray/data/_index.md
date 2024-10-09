@@ -4,7 +4,7 @@ linktitle: data
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::data method. Underlying data structure access in C++.'
 type: docs
-weight: 2000
+weight: 700
 url: /cpp/system.collections/bitarray/data/
 ---
 ## BitArray::data() method

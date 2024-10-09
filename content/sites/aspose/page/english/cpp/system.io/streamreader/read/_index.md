@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamReader::Read method. Reads a single character from the stream in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.io/streamreader/read/
 ---
 ## StreamReader::Read() method

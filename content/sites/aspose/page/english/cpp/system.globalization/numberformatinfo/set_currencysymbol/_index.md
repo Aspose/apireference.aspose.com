@@ -4,7 +4,7 @@ linktitle: set_CurrencySymbol
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_CurrencySymbol method. Sets currency symbol in C++.'
 type: docs
-weight: 1500
+weight: 3900
 url: /cpp/system.globalization/numberformatinfo/set_currencysymbol/
 ---
 ## NumberFormatInfo::set_CurrencySymbol method

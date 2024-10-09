@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Array::Clone method. Clones the array in C++.'
 type: docs
-weight: 1900
+weight: 700
 url: /cpp/system/array/clone/
 ---
 ## Array::Clone method

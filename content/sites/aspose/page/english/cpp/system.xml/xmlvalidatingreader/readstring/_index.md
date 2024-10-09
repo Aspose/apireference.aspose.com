@@ -4,7 +4,7 @@ linktitle: ReadString
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::ReadString method. Reads the contents of an element or text node as a string in C++.'
 type: docs
-weight: 4900
+weight: 4500
 url: /cpp/system.xml/xmlvalidatingreader/readstring/
 ---
 ## XmlValidatingReader::ReadString method

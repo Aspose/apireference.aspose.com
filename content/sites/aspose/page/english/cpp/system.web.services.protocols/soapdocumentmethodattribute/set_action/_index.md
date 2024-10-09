@@ -4,7 +4,7 @@ linktitle: set_Action
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Action method. Sets a value of the ''SOAPAction'' attribute in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_action/
 ---
 ## SoapDocumentMethodAttribute::set_Action method

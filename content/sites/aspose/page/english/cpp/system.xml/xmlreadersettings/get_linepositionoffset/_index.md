@@ -4,7 +4,7 @@ linktitle: get_LinePositionOffset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::get_LinePositionOffset method. Returns line position offset of the XmlReader object in C++.'
 type: docs
-weight: 600
+weight: 1200
 url: /cpp/system.xml/xmlreadersettings/get_linepositionoffset/
 ---
 ## XmlReaderSettings::get_LinePositionOffset method

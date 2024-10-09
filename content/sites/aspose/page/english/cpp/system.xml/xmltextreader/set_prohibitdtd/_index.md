@@ -4,7 +4,7 @@ linktitle: set_ProhibitDtd
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::set_ProhibitDtd method. Sets a value indicating whether to allow DTD processing in C++.'
 type: docs
-weight: 3200
+weight: 5800
 url: /cpp/system.xml/xmltextreader/set_prohibitdtd/
 ---
 ## XmlTextReader::set_ProhibitDtd method

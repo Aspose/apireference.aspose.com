@@ -4,7 +4,7 @@ linktitle: get_Groups
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaRedefine::get_Groups method. Returns the XmlSchemaObjectTable, for all groups in the schema, which holds the post-compilation interpretation of the Groups value in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml.schema/xmlschemaredefine/get_groups/
 ---
 ## XmlSchemaRedefine::get_Groups method

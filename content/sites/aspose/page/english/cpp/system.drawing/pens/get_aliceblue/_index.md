@@ -4,7 +4,7 @@ linktitle: get_AliceBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_AliceBlue method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFF0F8FF in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.drawing/pens/get_aliceblue/
 ---
 ## Pens::get_AliceBlue method

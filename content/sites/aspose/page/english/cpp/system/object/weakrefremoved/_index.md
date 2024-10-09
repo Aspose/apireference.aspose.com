@@ -4,7 +4,7 @@ linktitle: WeakRefRemoved
 second_title: Aspose.Page for C++
 description: 'System::Object::WeakRefRemoved method. Decrements weak reference count. Shouldn''t be called directly; instead, use smart pointers or ThisProtector in C++.'
 type: docs
-weight: 800
+weight: 2100
 url: /cpp/system/object/weakrefremoved/
 ---
 ## Object::WeakRefRemoved method

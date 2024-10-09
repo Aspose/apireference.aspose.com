@@ -4,7 +4,7 @@ linktitle: ReadElementContentAsFloat
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadElementContentAsFloat method. Reads the current element and returns the contents as single-precision floating-point number in C++.'
 type: docs
-weight: 4100
+weight: 5900
 url: /cpp/system.xml/xmlreader/readelementcontentasfloat/
 ---
 ## XmlReader::ReadElementContentAsFloat() method

@@ -4,7 +4,7 @@ linktitle: set_Fallback
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoder::set_Fallback method. Sets error handling fallback in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.text/encoder/set_fallback/
 ---
 ## Encoder::set_Fallback method

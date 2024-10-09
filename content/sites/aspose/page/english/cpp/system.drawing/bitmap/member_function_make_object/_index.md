@@ -4,7 +4,7 @@ linktitle: MEMBER_FUNCTION_MAKE_OBJECT
 second_title: Aspose.Page for C++
 description: 'How to use MEMBER_FUNCTION_MAKE_OBJECT method of System::Drawing::Bitmap class in C++.'
 type: docs
-weight: 200
+weight: 1700
 url: /cpp/system.drawing/bitmap/member_function_make_object/
 ---
 ## Bitmap::MEMBER_FUNCTION_MAKE_OBJECT method

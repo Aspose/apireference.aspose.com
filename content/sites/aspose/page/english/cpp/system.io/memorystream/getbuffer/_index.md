@@ -4,7 +4,7 @@ linktitle: GetBuffer
 second_title: Aspose.Page for C++
 description: 'System::IO::MemoryStream::GetBuffer method. Returns a pointer to the underlying buffer in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/system.io/memorystream/getbuffer/
 ---
 ## MemoryStream::GetBuffer method

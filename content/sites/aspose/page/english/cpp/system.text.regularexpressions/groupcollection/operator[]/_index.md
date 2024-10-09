@@ -4,7 +4,7 @@ linktitle: operator[]
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::GroupCollection::operator[] method. Group accessor in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.text.regularexpressions/groupcollection/operator[]/
 ---
 ## GroupCollection::operator[] method

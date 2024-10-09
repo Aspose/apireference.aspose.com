@@ -4,7 +4,7 @@ linktitle: get_Id
 second_title: Aspose.Page for C++
 description: 'How to use get_Id method of System::Security::Cryptography::Xml::DataObject class in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.security.cryptography.xml/dataobject/get_id/
 ---
 ## DataObject::get_Id method

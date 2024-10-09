@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::operator== method. Determines if the current and the specified TypeInfo objects are equal in C++.'
 type: docs
-weight: 3300
+weight: 4500
 url: /cpp/system/typeinfo/operator==/
 ---
 ## TypeInfo::operator==(const TypeInfo\&) const method

@@ -4,7 +4,7 @@ linktitle: get_BaseItemType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeList::get_BaseItemType method. Returns the XmlSchemaSimpleType representing the type of the simpleType element based on the XmlSchemaSimpleTypeList::get_ItemType and XmlSchemaSimpleTypeList::get_ItemTypeName values of the simple type in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/get_baseitemtype/
 ---
 ## XmlSchemaSimpleTypeList::get_BaseItemType method

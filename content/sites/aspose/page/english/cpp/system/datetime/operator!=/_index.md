@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'System::DateTime::operator!= method. Determines if the current object and the specified DateTime object represent distinct date and time values in C++.'
 type: docs
-weight: 4500
+weight: 3100
 url: /cpp/system/datetime/operator!=/
 ---
 ## DateTime::operator!=(DateTime) const method

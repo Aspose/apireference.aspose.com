@@ -4,7 +4,7 @@ linktitle: set_Properties
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::set_Properties method. Copies properties, including its defaults into this UserProperties in C++.'
 type: docs
-weight: 100
+weight: 1500
 url: /cpp/aspose.page/userproperties/set_properties/
 ---
 ## UserProperties::set_Properties method

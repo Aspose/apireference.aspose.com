@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::DateTime::operator== method. Determines if the current object and the specified DateTime object represent the same date and time value in C++.'
 type: docs
-weight: 4400
+weight: 3900
 url: /cpp/system/datetime/operator==/
 ---
 ## DateTime::operator==(DateTime) const method

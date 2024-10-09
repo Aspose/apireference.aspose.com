@@ -4,7 +4,7 @@ linktitle: char_type
 second_title: Aspose.Page for C++
 description: 'System::IO::STDIOStreamWrapperBase::char_type typedef. RTTI information in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/system.io/stdiostreamwrapperbase/char_type/
 ---
 ## char_type typedef

@@ -4,7 +4,7 @@ linktitle: SoapHeader
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::SoapHeader constructor. Constructs a new instance in C++.'
 type: docs
-weight: 1700
+weight: 100
 url: /cpp/system.web.services.protocols/soapheader/soapheader/
 ---
 ## SoapHeader::SoapHeader constructor

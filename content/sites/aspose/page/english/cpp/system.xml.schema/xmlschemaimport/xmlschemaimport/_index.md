@@ -4,7 +4,7 @@ linktitle: XmlSchemaImport
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaImport::XmlSchemaImport constructor. Initializes a new instance of the XmlSchemaImport class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaimport/xmlschemaimport/
 ---
 ## XmlSchemaImport::XmlSchemaImport constructor

@@ -4,7 +4,7 @@ linktitle: get_AddressFamily
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::get_AddressFamily method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.net/ipendpoint/get_addressfamily/
 ---
 ## IPEndPoint::get_AddressFamily method

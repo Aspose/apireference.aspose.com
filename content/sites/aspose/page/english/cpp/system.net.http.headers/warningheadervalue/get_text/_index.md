@@ -4,7 +4,7 @@ linktitle: get_Text
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::WarningHeaderValue::get_Text method. Returns the warning text in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.net.http.headers/warningheadervalue/get_text/
 ---
 ## WarningHeaderValue::get_Text method

@@ -4,7 +4,7 @@ linktitle: ImportNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::ImportNode method. Imports a node from another document to the current document in C++.'
 type: docs
-weight: 3700
+weight: 3300
 url: /cpp/system.xml/xmldocument/importnode/
 ---
 ## XmlDocument::ImportNode method

@@ -4,7 +4,7 @@ linktitle: set_SizePoints
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::set_SizePoints method. Gets size of this font (points) in C++.'
 type: docs
-weight: 700
+weight: 2600
 url: /cpp/aspose.page.font/drfont/set_sizepoints/
 ---
 ## DrFont::set_SizePoints method

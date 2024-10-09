@@ -4,7 +4,7 @@ linktitle: SearchForTextOfTag
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::SearchForTextOfTag method. Gets child tag inner text by tag name in C++.'
 type: docs
-weight: 1600
+weight: 1200
 url: /cpp/system.security/securityelement/searchfortextoftag/
 ---
 ## SecurityElement::SearchForTextOfTag method

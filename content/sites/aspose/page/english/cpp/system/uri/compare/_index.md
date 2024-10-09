@@ -4,7 +4,7 @@ linktitle: Compare
 second_title: Aspose.Page for C++
 description: 'System::Uri::Compare method. Compares the specified Uri objects using the specified comparison rules in C++.'
 type: docs
-weight: 4100
+weight: 3500
 url: /cpp/system/uri/compare/
 ---
 ## Uri::Compare method

@@ -4,7 +4,7 @@ linktitle: ReadXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::Serialization::IXmlSerializable::ReadXml method. Deserializes object from its XML representation in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml.serialization/ixmlserializable/readxml/
 ---
 ## IXmlSerializable::ReadXml method

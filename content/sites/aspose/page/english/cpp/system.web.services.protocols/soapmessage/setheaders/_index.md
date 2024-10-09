@@ -4,7 +4,7 @@ linktitle: SetHeaders
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::SetHeaders method. Sets the collection of the SOAP headers in C++.'
 type: docs
-weight: 2300
+weight: 2500
 url: /cpp/system.web.services.protocols/soapmessage/setheaders/
 ---
 ## SoapMessage::SetHeaders method

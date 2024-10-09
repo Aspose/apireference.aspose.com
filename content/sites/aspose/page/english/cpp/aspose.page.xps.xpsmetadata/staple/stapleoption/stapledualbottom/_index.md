@@ -4,7 +4,7 @@ linktitle: StapleDualBottom
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Staple::StapleOption::StapleDualBottom field. Specifies two staples along the bottom edge in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.page.xps.xpsmetadata/staple/stapleoption/stapledualbottom/
 ---
 ## StapleDualBottom field

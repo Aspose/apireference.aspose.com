@@ -4,7 +4,7 @@ linktitle: GetAuthenticationLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::AuthenticationHeaderValue::GetAuthenticationLength method. Parses the specified string and returns the last index of the string representation in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.net.http.headers/authenticationheadervalue/getauthenticationlength/
 ---
 ## AuthenticationHeaderValue::GetAuthenticationLength method

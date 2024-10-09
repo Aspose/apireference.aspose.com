@@ -4,7 +4,7 @@ linktitle: BothArrayOrList
 second_title: Aspose.Page for C++
 description: 'System::TestPredicates::TypeTraits::BothArrayOrList typedef. Checks if both type arguments are arrays or lists. If so, value member is set to true, otherwise it is set to false in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.testpredicates.typetraits/botharrayorlist/
 ---
 ## BothArrayOrList typedef

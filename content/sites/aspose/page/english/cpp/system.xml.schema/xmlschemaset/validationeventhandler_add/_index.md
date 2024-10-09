@@ -4,7 +4,7 @@ linktitle: ValidationEventHandler_add
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::ValidationEventHandler_add method. Adds an event handler for receiving information about XML Schema definition language (XSD) schema validation errors in C++.'
 type: docs
-weight: 1100
+weight: 1900
 url: /cpp/system.xml.schema/xmlschemaset/validationeventhandler_add/
 ---
 ## XmlSchemaSet::ValidationEventHandler_add method

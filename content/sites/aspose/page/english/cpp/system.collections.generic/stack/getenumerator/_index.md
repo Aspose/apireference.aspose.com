@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::GetEnumerator method. Gets enumerator to iterate through current stack in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.collections.generic/stack/getenumerator/
 ---
 ## Stack::GetEnumerator method

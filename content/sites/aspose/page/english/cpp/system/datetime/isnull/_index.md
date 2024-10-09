@@ -4,7 +4,7 @@ linktitle: IsNull
 second_title: Aspose.Page for C++
 description: 'How to use IsNull method of System::DateTime class in C++.'
 type: docs
-weight: 5400
+weight: 3000
 url: /cpp/system/datetime/isnull/
 ---
 ## DateTime::IsNull method

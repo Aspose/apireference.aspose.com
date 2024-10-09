@@ -4,7 +4,7 @@ linktitle: virtualizeEndConstIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::virtualizeEndConstIterator method. Gets the implementation of end const iterator for the current container in C++.'
 type: docs
-weight: 2700
+weight: 2500
 url: /cpp/system.collections/bitarray/virtualizeendconstiterator/
 ---
 ## BitArray::virtualizeEndConstIterator method

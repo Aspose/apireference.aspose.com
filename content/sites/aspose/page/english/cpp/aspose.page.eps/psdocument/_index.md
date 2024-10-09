@@ -4,7 +4,7 @@ linktitle: PsDocument
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument class. This class encapsulates PS/EPS documents in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.page.eps/psdocument/
 ---
 ## PsDocument class
@@ -88,6 +88,8 @@ class PsDocument : public Aspose::Page::Document
 | [PsDocument](./psdocument/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Device::PsSaveOptions\>, int32_t) | Initializes empty [PsDocument](./) when the number of [Postscript](../../aspose.page.eps.postscript/) document pages is known in advance. |
 | [PsDocument](./psdocument/)(System::String) | Initializes [PsDocument](./) with an input PS/EPS file. |
 | [PsDocument](./psdocument/)(System::SharedPtr\<System::IO::Stream\>) | Initializes [PsDocument](./) with a stream of PS/EPS file. |
+| [RenderAps](./renderaps/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<ApsLoadOptions\>) |  |
+| [RenderAps](./renderaps/)(System::SharedPtr\<Aspose::Rendering::ApsGroup\>, System::SharedPtr\<ApsLoadOptions\>) |  |
 | [ResizeEps](./resizeeps/)(System::String, System::Drawing::SizeF, Units) | Resizes given [PsDocument](./) as [EPS](../) file. This method is used only after extracting [EPS](../) size. It saves initial [EPS](../) file with updated existing %BoundingBox or new one will be created. [Page](../../aspose.page/) transformation matrix also will be set. |
 | [ResizeEps](./resizeeps/)(System::SharedPtr\<System::IO::Stream\>, System::Drawing::SizeF, Units) | Resizes given [PsDocument](./) as [EPS](../) file. This method is used only after extracting [EPS](../) size. It saves initial [EPS](../) file with updated existing %BoundingBox or new one will be created. [Page](../../aspose.page/) transformation matrix also will be set. |
 | [Rotate](./rotate/)(float) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |

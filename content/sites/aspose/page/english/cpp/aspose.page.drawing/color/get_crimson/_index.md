@@ -4,7 +4,7 @@ linktitle: get_Crimson
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Crimson method. Gets a system-defined color that has an ARGB value of #FFDC143C in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.page.drawing/color/get_crimson/
 ---
 ## Color::get_Crimson method

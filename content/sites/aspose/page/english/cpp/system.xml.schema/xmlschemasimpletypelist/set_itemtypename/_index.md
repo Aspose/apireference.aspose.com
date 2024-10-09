@@ -4,7 +4,7 @@ linktitle: set_ItemTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleTypeList::set_ItemTypeName method. Sets the name of a built-in data type or simpleType element defined in this schema (or another schema indicated by the specified namespace) in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/set_itemtypename/
 ---
 ## XmlSchemaSimpleTypeList::set_ItemTypeName method

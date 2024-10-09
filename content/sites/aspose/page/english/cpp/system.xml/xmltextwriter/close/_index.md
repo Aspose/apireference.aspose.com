@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::Close method. Closes this stream and the underlying stream in C++.'
 type: docs
-weight: 3600
+weight: 200
 url: /cpp/system.xml/xmltextwriter/close/
 ---
 ## XmlTextWriter::Close method

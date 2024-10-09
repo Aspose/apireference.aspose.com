@@ -4,7 +4,7 @@ linktitle: get_OldValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeChangedEventArgs::get_OldValue method. Returns the original value of the node in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.xml/xmlnodechangedeventargs/get_oldvalue/
 ---
 ## XmlNodeChangedEventArgs::get_OldValue method

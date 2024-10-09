@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SizeF::set_Width method. Sets the value of width represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.drawing/sizef/set_width/
 ---
 ## SizeF::set_Width method

@@ -4,7 +4,7 @@ linktitle: get_Entities
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocumentType::get_Entities method. Returns the collection of XmlEntity nodes declared in the document type declaration in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.xml/xmldocumenttype/get_entities/
 ---
 ## XmlDocumentType::get_Entities method

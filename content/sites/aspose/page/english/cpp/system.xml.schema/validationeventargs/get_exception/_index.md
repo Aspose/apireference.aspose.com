@@ -4,7 +4,7 @@ linktitle: get_Exception
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::ValidationEventArgs::get_Exception method. Returns the XmlSchemaException associated with the validation event in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.xml.schema/validationeventargs/get_exception/
 ---
 ## ValidationEventArgs::get_Exception method

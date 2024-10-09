@@ -4,7 +4,7 @@ linktitle: set_Version
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::set_Version method. Sets the version of the schema in C++.'
 type: docs
-weight: 1200
+weight: 2700
 url: /cpp/system.xml.schema/xmlschema/set_version/
 ---
 ## XmlSchema::set_Version method

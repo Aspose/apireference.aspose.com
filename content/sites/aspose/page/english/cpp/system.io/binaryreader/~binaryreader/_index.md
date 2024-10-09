@@ -4,7 +4,7 @@ linktitle: ~BinaryReader
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::~BinaryReader method. Destructor in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.io/binaryreader/~binaryreader/
 ---
 ## BinaryReader::~BinaryReader method

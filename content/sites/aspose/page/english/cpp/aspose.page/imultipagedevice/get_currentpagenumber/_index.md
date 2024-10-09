@@ -4,7 +4,7 @@ linktitle: get_CurrentPageNumber
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPageDevice::get_CurrentPageNumber method. Current page number in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page/imultipagedevice/get_currentpagenumber/
 ---
 ## IMultiPageDevice::get_CurrentPageNumber method

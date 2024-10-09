@@ -4,7 +4,7 @@ linktitle: get_Comment
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ProductInfoHeaderValue::get_Comment method. Returns a comment in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http.headers/productinfoheadervalue/get_comment/
 ---
 ## ProductInfoHeaderValue::get_Comment method

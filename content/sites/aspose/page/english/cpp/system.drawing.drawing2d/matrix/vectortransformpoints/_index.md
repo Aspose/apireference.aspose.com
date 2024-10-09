@@ -4,7 +4,7 @@ linktitle: VectorTransformPoints
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::VectorTransformPoints method. Multiplies each vector in an array by the matrix represented by the current object in C++.'
 type: docs
-weight: 1800
+weight: 2100
 url: /cpp/system.drawing.drawing2d/matrix/vectortransformpoints/
 ---
 ## Matrix::VectorTransformPoints(const ArrayPtr\<Point\>\&) method

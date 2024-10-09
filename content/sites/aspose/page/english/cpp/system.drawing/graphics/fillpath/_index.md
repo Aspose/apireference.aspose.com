@@ -4,7 +4,7 @@ linktitle: FillPath
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FillPath method. Fills the interiors of the specified path using the specified brush in C++.'
 type: docs
-weight: 3100
+weight: 3400
 url: /cpp/system.drawing/graphics/fillpath/
 ---
 ## Graphics::FillPath method

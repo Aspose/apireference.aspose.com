@@ -4,7 +4,7 @@ linktitle: set_Final
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::set_Final method. Sets the Final value to indicate that no further derivations are allowed in C++.'
 type: docs
-weight: 800
+weight: 2200
 url: /cpp/system.xml.schema/xmlschemaelement/set_final/
 ---
 ## XmlSchemaElement::set_Final method

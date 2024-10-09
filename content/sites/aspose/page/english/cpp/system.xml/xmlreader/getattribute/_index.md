@@ -2,11 +2,35 @@
 title: System::Xml::XmlReader::GetAttribute method
 linktitle: GetAttribute
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlReader::GetAttribute method. When overridden in a derived class, gets the value of the attribute with the specified XmlReader::get_Name value in C++.'
+description: 'System::Xml::XmlReader::GetAttribute method. When overridden in a derived class, gets the value of the attribute with the specified index in C++.'
 type: docs
-weight: 4700
+weight: 2800
 url: /cpp/system.xml/xmlreader/getattribute/
 ---
+## XmlReader::GetAttribute(int32_t) method
+
+
+When overridden in a derived class, gets the value of the attribute with the specified index.
+
+```cpp
+virtual String System::Xml::XmlReader::GetAttribute(int32_t i)=0
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| i | int32_t | The index of the attribute. The index is zero-based. (The first attribute has index 0.) |
+
+### ReturnValue
+
+The value of the specified attribute. This method does not move the reader.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlReader::GetAttribute(String) method
 
 
@@ -49,30 +73,6 @@ virtual String System::Xml::XmlReader::GetAttribute(String name, String namespac
 ### ReturnValue
 
 The value of the specified attribute. If the attribute is not found or the value is [String::Empty](../../../system/string/empty/), **nullptr** is returned. This method does not move the reader.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlReader::GetAttribute(int32_t) method
-
-
-When overridden in a derived class, gets the value of the attribute with the specified index.
-
-```cpp
-virtual String System::Xml::XmlReader::GetAttribute(int32_t i)=0
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| i | int32_t | The index of the attribute. The index is zero-based. (The first attribute has index 0.) |
-
-### ReturnValue
-
-The value of the specified attribute. This method does not move the reader.
 
 ## See Also
 

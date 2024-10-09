@@ -4,7 +4,7 @@ linktitle: get_DarkOrange
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkOrange method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF8C00 in C++.'
 type: docs
-weight: 3100
+weight: 3000
 url: /cpp/system.drawing/pens/get_darkorange/
 ---
 ## Pens::get_DarkOrange method

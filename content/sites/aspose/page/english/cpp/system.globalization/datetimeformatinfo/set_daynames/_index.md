@@ -4,7 +4,7 @@ linktitle: set_DayNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_DayNames method. Sets day names in C++.'
 type: docs
-weight: 3200
+weight: 4900
 url: /cpp/system.globalization/datetimeformatinfo/set_daynames/
 ---
 ## DateTimeFormatInfo::set_DayNames method

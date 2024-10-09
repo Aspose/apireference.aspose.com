@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'How to use Equals method of System::Security::Cryptography::RSAEncryptionPadding class in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/system.security.cryptography/rsaencryptionpadding/equals/
 ---
 ## RSAEncryptionPadding::Equals(SharedPtr\<Object\>) method

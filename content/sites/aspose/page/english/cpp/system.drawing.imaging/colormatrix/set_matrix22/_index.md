@@ -4,7 +4,7 @@ linktitle: set_Matrix22
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix22 method. Sets a value in the 2-nd row and 2-nd column in C++.'
 type: docs
-weight: 2900
+weight: 4100
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix22/
 ---
 ## ColorMatrix::set_Matrix22 method

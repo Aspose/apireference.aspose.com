@@ -4,7 +4,7 @@ linktitle: ResetState
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::ResetState method. Resets the state of the reader to ReadState::Initial in C++.'
 type: docs
-weight: 5700
+weight: 5200
 url: /cpp/system.xml/xmltextreader/resetstate/
 ---
 ## XmlTextReader::ResetState method

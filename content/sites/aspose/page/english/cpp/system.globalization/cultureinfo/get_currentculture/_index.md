@@ -4,7 +4,7 @@ linktitle: get_CurrentCulture
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_CurrentCulture method. Gets culture set for current thread in C++.'
 type: docs
-weight: 4100
+weight: 3600
 url: /cpp/system.globalization/cultureinfo/get_currentculture/
 ---
 ## CultureInfo::get_CurrentCulture method

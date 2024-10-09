@@ -4,7 +4,7 @@ linktitle: get_Id
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_Id method. Returns the string ID in C++.'
 type: docs
-weight: 2000
+weight: 1100
 url: /cpp/system.xml.schema/xmlschema/get_id/
 ---
 ## XmlSchema::get_Id method

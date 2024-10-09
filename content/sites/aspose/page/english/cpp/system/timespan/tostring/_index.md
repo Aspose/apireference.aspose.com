@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::ToString method. Returns the string representation of the time interval represented by the current object in C++.'
 type: docs
-weight: 2100
+weight: 3400
 url: /cpp/system/timespan/tostring/
 ---
 ## TimeSpan::ToString() const method
@@ -34,23 +34,6 @@ String System::TimeSpan::ToString(const String &format) const
 ## See Also
 
 * Class [String](../../string/)
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## TimeSpan::ToString(const String\&, const SharedPtr\<IFormatProvider\>\&) const method
-
-
-Converts the value of the current object to equivalent string representation, using the specified format and format provider.
-
-```cpp
-String System::TimeSpan::ToString(const String &format, const SharedPtr<IFormatProvider> &provider) const
-```
-
-## See Also
-
-* Class [String](../../string/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IFormatProvider](../../iformatprovider/)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -85,6 +68,23 @@ String System::TimeSpan::ToString(const String &format, const SharedPtr<Globaliz
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## TimeSpan::ToString(const String\&, const SharedPtr\<IFormatProvider\>\&) const method
+
+
+Converts the value of the current object to equivalent string representation, using the specified format and format provider.
+
+```cpp
+String System::TimeSpan::ToString(const String &format, const SharedPtr<IFormatProvider> &provider) const
+```
+
+## See Also
+
+* Class [String](../../string/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [IFormatProvider](../../iformatprovider/)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

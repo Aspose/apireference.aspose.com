@@ -4,7 +4,7 @@ linktitle: ReadInnerXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadInnerXml method. When overridden in a derived class, reads all the content, including markup, as a string in C++.'
 type: docs
-weight: 7300
+weight: 6600
 url: /cpp/system.xml/xmlreader/readinnerxml/
 ---
 ## XmlReader::ReadInnerXml method

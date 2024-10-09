@@ -4,7 +4,7 @@ linktitle: SelectNodes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::SelectNodes method. Selects a list of nodes matching the XPath expression in C++.'
 type: docs
-weight: 2900
+weight: 3800
 url: /cpp/system.xml/xmlnode/selectnodes/
 ---
 ## XmlNode::SelectNodes(const String\&) method

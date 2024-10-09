@@ -4,7 +4,7 @@ linktitle: PropertyChangedEventArgs
 second_title: Aspose.Page for C++
 description: 'System::ComponentModel::PropertyChangedEventArgs::PropertyChangedEventArgs constructor. Initializes PropertyChanged event arguments in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.componentmodel/propertychangedeventargs/propertychangedeventargs/
 ---
 ## PropertyChangedEventArgs::PropertyChangedEventArgs constructor

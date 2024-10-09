@@ -4,7 +4,7 @@ linktitle: FaultSubcode
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Element::FaultSubcode field. The string representation of the ''Subcode'' element name in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.web.services/soap12/element/faultsubcode/
 ---
 ## FaultSubcode field

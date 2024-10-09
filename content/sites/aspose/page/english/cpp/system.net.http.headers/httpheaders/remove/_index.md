@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::Remove method. Tries to remove an item by the specified name in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/system.net.http.headers/httpheaders/remove/
 ---
 ## HttpHeaders::Remove method

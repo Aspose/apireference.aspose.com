@@ -4,7 +4,7 @@ linktitle: get_AbbreviatedMonthGenitiveNames
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_AbbreviatedMonthGenitiveNames method. Gets abbreviated month names in genitive form in C++.'
 type: docs
-weight: 2300
+weight: 400
 url: /cpp/system.globalization/datetimeformatinfo/get_abbreviatedmonthgenitivenames/
 ---
 ## DateTimeFormatInfo::get_AbbreviatedMonthGenitiveNames method

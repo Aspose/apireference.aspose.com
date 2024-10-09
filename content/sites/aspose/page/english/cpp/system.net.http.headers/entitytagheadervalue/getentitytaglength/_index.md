@@ -4,7 +4,7 @@ linktitle: GetEntityTagLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::EntityTagHeaderValue::GetEntityTagLength method. Converts a passed string from the specified index to an instance of the EntityTagHeaderValue class in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.net.http.headers/entitytagheadervalue/getentitytaglength/
 ---
 ## EntityTagHeaderValue::GetEntityTagLength method

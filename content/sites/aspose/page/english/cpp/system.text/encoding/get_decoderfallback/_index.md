@@ -4,7 +4,7 @@ linktitle: get_DecoderFallback
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_DecoderFallback method. Gets decoder fallback in C++.'
 type: docs
-weight: 1500
+weight: 500
 url: /cpp/system.text/encoding/get_decoderfallback/
 ---
 ## Encoding::get_DecoderFallback method

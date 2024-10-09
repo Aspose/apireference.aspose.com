@@ -4,7 +4,7 @@ linktitle: set_Capacity
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::set_Capacity method. Sets list capacity in C++.'
 type: docs
-weight: 2400
+weight: 4300
 url: /cpp/system.collections.generic/list/set_capacity/
 ---
 ## List::set_Capacity method

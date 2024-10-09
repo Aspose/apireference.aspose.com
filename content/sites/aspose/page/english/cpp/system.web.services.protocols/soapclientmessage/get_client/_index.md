@@ -4,7 +4,7 @@ linktitle: get_Client
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapClientMessage::get_Client method. Returns an instance of the client proxy class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.web.services.protocols/soapclientmessage/get_client/
 ---
 ## SoapClientMessage::get_Client method

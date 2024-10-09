@@ -4,7 +4,7 @@ linktitle: GetPropertySize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertySize method. Gets size property value in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.page/userproperties/getpropertysize/
 ---
 ## UserProperties::GetPropertySize(System::String) method

@@ -2,11 +2,35 @@
 title: System::operator+ method
 linktitle: operator+
 second_title: Aspose.Page for C++
-description: 'System::operator+ method. Returns a new instance of Decimal class that represents a value that is a sum of the specified value and the value represented by the specified Decimal object in C++.'
+description: 'System::operator+ method. String concatenation in C++.'
 type: docs
-weight: 23200
+weight: 23600
 url: /cpp/system/operator+/
 ---
+## System::operator+(const char_t, const String\&) method
+
+
+[String](../string/) concatenation.
+
+```cpp
+String System::operator+(const char_t left, const String &right)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| left | const char_t | Character to concatenate to string. |
+| right | const String\& | [String](../string/) to concatenate. |
+
+### ReturnValue
+
+Concatenated string.
+
+## See Also
+
+* Class [String](../string/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
 ## System::operator+(const T\&, const Decimal\&) method
 
 
@@ -29,29 +53,6 @@ A new instance of [Decimal](../decimal/) class that represents a value that is a
 ## See Also
 
 * Class [Decimal](../decimal/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::operator+(MulticastDelegate\<T\>, MulticastDelegate\<T\>) method
-
-
-Connects all callbacks from right hand delegate to the end of left hand delegate callback list.
-
-```cpp
-template<typename T> MulticastDelegate<T> System::operator+(MulticastDelegate<T> lhv, MulticastDelegate<T> rhv)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| lhv | MulticastDelegate\<T\> | The delegate to which callbacks are added. |
-| rhv | MulticastDelegate\<T\> | The delegate whose callbacks are being added. |
-
-### ReturnValue
-
-Returns a delegate that contains the callbacks of the left hand value and then the right hand ones.
-
-## See Also
-
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
 ## System::operator+(const T1\&, const Nullable\<T2\>\&) method
@@ -81,6 +82,29 @@ Summing result.
 ## See Also
 
 * Class [Nullable](../nullable/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::operator+(MulticastDelegate\<T\>, MulticastDelegate\<T\>) method
+
+
+Connects all callbacks from right hand delegate to the end of left hand delegate callback list.
+
+```cpp
+template<typename T> MulticastDelegate<T> System::operator+(MulticastDelegate<T> lhv, MulticastDelegate<T> rhv)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhv | MulticastDelegate\<T\> | The delegate to which callbacks are added. |
+| rhv | MulticastDelegate\<T\> | The delegate whose callbacks are being added. |
+
+### ReturnValue
+
+Returns a delegate that contains the callbacks of the left hand value and then the right hand ones.
+
+## See Also
+
 * Namespace [System](../)
 * Library [Aspose.Page for C++](../../)
 ## System::operator+(T\&, const String\&) method
@@ -128,30 +152,6 @@ template<typename T> std::enable_if<IsStringPointer<T, char_t>::value, String>::
 | Parameter | Type | Description |
 | --- | --- | --- |
 | left | T\& | [String](../string/) pointer to concatenate to string. |
-| right | const String\& | [String](../string/) to concatenate. |
-
-### ReturnValue
-
-Concatenated string.
-
-## See Also
-
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
-## System::operator+(const char_t, const String\&) method
-
-
-[String](../string/) concatenation.
-
-```cpp
-String System::operator+(const char_t left, const String &right)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| left | const char_t | Character to concatenate to string. |
 | right | const String\& | [String](../string/) to concatenate. |
 
 ### ReturnValue

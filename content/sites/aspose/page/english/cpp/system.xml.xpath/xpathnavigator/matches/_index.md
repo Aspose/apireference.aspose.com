@@ -4,7 +4,7 @@ linktitle: Matches
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::Matches method. Determines whether the current node matches the specified XPathExpression in C++.'
 type: docs
-weight: 6400
+weight: 4900
 url: /cpp/system.xml.xpath/xpathnavigator/matches/
 ---
 ## XPathNavigator::Matches(SharedPtr\<XPathExpression\>) method

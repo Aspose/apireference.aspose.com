@@ -4,7 +4,7 @@ linktitle: get_SchemaInfo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::get_SchemaInfo method. Returns the Post-Schema-Validation-Infoset (PSVI) of the node in C++.'
 type: docs
-weight: 1800
+weight: 2900
 url: /cpp/system.xml/xmldocument/get_schemainfo/
 ---
 ## XmlDocument::get_SchemaInfo method

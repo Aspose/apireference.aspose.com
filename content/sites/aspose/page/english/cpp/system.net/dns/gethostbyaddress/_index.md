@@ -4,7 +4,7 @@ linktitle: GetHostByAddress
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::GetHostByAddress method. Creates a new IPHostEntry-class instance using the specified string representation of an IP address in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.net/dns/gethostbyaddress/
 ---
 ## Dns::GetHostByAddress(String) method

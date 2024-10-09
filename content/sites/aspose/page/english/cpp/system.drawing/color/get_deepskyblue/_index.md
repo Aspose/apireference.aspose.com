@@ -4,7 +4,7 @@ linktitle: get_DeepSkyBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DeepSkyBlue method. Returns a color whose ARGB value in hexadecimal notation is #FF00BFFF in C++.'
 type: docs
-weight: 6200
+weight: 6100
 url: /cpp/system.drawing/color/get_deepskyblue/
 ---
 ## Color::get_DeepSkyBlue method

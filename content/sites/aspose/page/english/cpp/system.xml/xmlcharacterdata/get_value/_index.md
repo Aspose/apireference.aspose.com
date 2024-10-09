@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::get_Value method. Returns the value of the node in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/system.xml/xmlcharacterdata/get_value/
 ---
 ## XmlCharacterData::get_Value method

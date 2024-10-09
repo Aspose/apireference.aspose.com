@@ -4,7 +4,7 @@ linktitle: XmlSchemaInclude
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInclude::XmlSchemaInclude constructor. Initializes a new instance of the XmlSchemaInclude class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.schema/xmlschemainclude/xmlschemainclude/
 ---
 ## XmlSchemaInclude::XmlSchemaInclude constructor

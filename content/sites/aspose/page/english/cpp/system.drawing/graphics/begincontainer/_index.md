@@ -4,7 +4,7 @@ linktitle: BeginContainer
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::BeginContainer method. Saves a container with the current state of this object, opens and uses a new container and returns the saved container in C++.'
 type: docs
-weight: 7600
+weight: 600
 url: /cpp/system.drawing/graphics/begincontainer/
 ---
 ## Graphics::BeginContainer() method

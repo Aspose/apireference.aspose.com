@@ -4,7 +4,7 @@ linktitle: get_IsStatic
 second_title: Aspose.Page for C++
 description: 'System::Reflection::FieldInfo::get_IsStatic method. Gets a value indicating whether the field is static in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.reflection/fieldinfo/get_isstatic/
 ---
 ## FieldInfo::get_IsStatic method

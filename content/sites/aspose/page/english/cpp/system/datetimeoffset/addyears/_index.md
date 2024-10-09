@@ -4,7 +4,7 @@ linktitle: AddYears
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddYears method. Adds a specified number of years to the DateTimeOffset object in C++.'
 type: docs
-weight: 2000
+weight: 1000
 url: /cpp/system/datetimeoffset/addyears/
 ---
 ## DateTimeOffset::AddYears method

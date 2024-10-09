@@ -4,7 +4,7 @@ linktitle: get_Use
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::get_Use method. Returns information about how the attribute is used in C++.'
 type: docs
-weight: 1500
+weight: 1200
 url: /cpp/system.xml.schema/xmlschemaattribute/get_use/
 ---
 ## XmlSchemaAttribute::get_Use method

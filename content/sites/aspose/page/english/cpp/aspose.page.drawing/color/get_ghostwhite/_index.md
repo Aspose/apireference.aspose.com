@@ -4,7 +4,7 @@ linktitle: get_GhostWhite
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_GhostWhite method. Gets a system-defined color that has an ARGB value of #FFF8F8FF in C++.'
 type: docs
-weight: 4900
+weight: 5000
 url: /cpp/aspose.page.drawing/color/get_ghostwhite/
 ---
 ## Color::get_GhostWhite method

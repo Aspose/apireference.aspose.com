@@ -4,7 +4,7 @@ linktitle: UnboxStringSafe
 second_title: Aspose.Page for C++
 description: 'System::ObjectExt::UnboxStringSafe method. Unboxes string from boxed value in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system/objectext/unboxstringsafe/
 ---
 ## ObjectExt::UnboxStringSafe method

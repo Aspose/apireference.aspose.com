@@ -4,7 +4,7 @@ linktitle: VERSION
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::VERSION field. "Version" property key in C++.'
 type: docs
-weight: 8100
+weight: 8200
 url: /cpp/aspose.page.eps.device/pdfdevice/version/
 ---
 ## VERSION field

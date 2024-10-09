@@ -4,7 +4,7 @@ linktitle: System::Xml::XPath
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::XPath namespace in C++.'
 type: docs
-weight: 7700
+weight: 7800
 url: /cpp/system.xml.xpath/
 ---
 
@@ -24,12 +24,12 @@ url: /cpp/system.xml.xpath/
 
 | Enum | Description |
 | --- | --- |
-| [XmlSortOrder](./xmlsortorder/) | Specifies the sort order. |
 | [XmlCaseOrder](./xmlcaseorder/) | Specifies the sort order for uppercase and lowercase letters. |
 | [XmlDataType](./xmldatatype/) | Specifies the data type used to determine sort order. |
-| [XPathResultType](./xpathresulttype/) | Specifies the return type of the [XPath](./) expression. |
+| [XmlSortOrder](./xmlsortorder/) | Specifies the sort order. |
 | [XPathNamespaceScope](./xpathnamespacescope/) | Defines the namespace scope. |
 | [XPathNodeType](./xpathnodetype/) | Defines the [XPath](./) node types that can be returned from the [XPathNavigator](./xpathnavigator/) class. |
+| [XPathResultType](./xpathresulttype/) | Specifies the return type of the [XPath](./) expression. |
 ## Typedefs
 
 | Typedef | Description |

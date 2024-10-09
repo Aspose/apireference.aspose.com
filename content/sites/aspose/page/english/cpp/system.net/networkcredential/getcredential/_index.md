@@ -2,35 +2,11 @@
 title: System::Net::NetworkCredential::GetCredential method
 linktitle: GetCredential
 second_title: Aspose.Page for C++
-description: 'System::Net::NetworkCredential::GetCredential method. Returns credentials for the specified URI and authentication type in C++.'
+description: 'System::Net::NetworkCredential::GetCredential method. Returns credentials for the specified host name, port, and authentication type in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.net/networkcredential/getcredential/
 ---
-## NetworkCredential::GetCredential(System::SharedPtr\<Uri\>, String) method
-
-
-Returns credentials for the specified URI and authentication type.
-
-```cpp
-System::SharedPtr<NetworkCredential> System::Net::NetworkCredential::GetCredential(System::SharedPtr<Uri> uri, String authenticationType) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| uri | System::SharedPtr\<Uri\> | The URI. |
-| authenticationType | String | The authentication type. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkCredential](../)
-* Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [NetworkCredential](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Page for C++](../../../)
 ## NetworkCredential::GetCredential(String, int32_t, String) method
 
 
@@ -51,6 +27,30 @@ System::SharedPtr<NetworkCredential> System::Net::NetworkCredential::GetCredenti
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NetworkCredential](../)
+* Class [String](../../../system/string/)
+* Class [NetworkCredential](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Page for C++](../../../)
+## NetworkCredential::GetCredential(System::SharedPtr\<Uri\>, String) method
+
+
+Returns credentials for the specified URI and authentication type.
+
+```cpp
+System::SharedPtr<NetworkCredential> System::Net::NetworkCredential::GetCredential(System::SharedPtr<Uri> uri, String authenticationType) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| uri | System::SharedPtr\<Uri\> | The URI. |
+| authenticationType | String | The authentication type. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NetworkCredential](../)
+* Class [Uri](../../../system/uri/)
 * Class [String](../../../system/string/)
 * Class [NetworkCredential](../)
 * Namespace [System::Net](../../)

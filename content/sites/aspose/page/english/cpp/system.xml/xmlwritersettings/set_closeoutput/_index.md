@@ -4,7 +4,7 @@ linktitle: set_CloseOutput
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_CloseOutput method. Sets a value indicating whether the XmlWriter should also close the underlying stream or TextWriter when the XmlWriter::Close method is called in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/system.xml/xmlwritersettings/set_closeoutput/
 ---
 ## XmlWriterSettings::set_CloseOutput method

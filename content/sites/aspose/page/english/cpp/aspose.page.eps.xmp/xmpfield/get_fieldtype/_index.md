@@ -4,7 +4,7 @@ linktitle: get_FieldType
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField::get_FieldType method. Gets the type of the field in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/aspose.page.eps.xmp/xmpfield/get_fieldtype/
 ---
 ## XmpField::get_FieldType method

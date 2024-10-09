@@ -4,7 +4,7 @@ linktitle: list_t
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::list_t typedef. Underlying data type in C++.'
 type: docs
-weight: 3100
+weight: 3400
 url: /cpp/system.collections.generic/linkedlist/list_t/
 ---
 ## list_t typedef

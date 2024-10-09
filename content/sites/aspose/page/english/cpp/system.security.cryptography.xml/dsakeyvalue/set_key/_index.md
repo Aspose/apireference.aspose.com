@@ -4,7 +4,7 @@ linktitle: set_Key
 second_title: Aspose.Page for C++
 description: 'How to use set_Key method of System::Security::Cryptography::Xml::DSAKeyValue class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.security.cryptography.xml/dsakeyvalue/set_key/
 ---
 ## DSAKeyValue::set_Key method

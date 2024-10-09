@@ -4,7 +4,7 @@ linktitle: get_LightYellow
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LightYellow method. Gets a system-defined color that has an ARGB value of #FFFFFFE0 in C++.'
 type: docs
-weight: 7700
+weight: 7800
 url: /cpp/aspose.page.drawing/color/get_lightyellow/
 ---
 ## Color::get_LightYellow method

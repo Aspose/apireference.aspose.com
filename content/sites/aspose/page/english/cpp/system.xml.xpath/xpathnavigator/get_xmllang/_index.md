@@ -4,7 +4,7 @@ linktitle: get_XmlLang
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_XmlLang method. Returns the xml:lang scope for the current node in C++.'
 type: docs
-weight: 1800
+weight: 3600
 url: /cpp/system.xml.xpath/xpathnavigator/get_xmllang/
 ---
 ## XPathNavigator::get_XmlLang method

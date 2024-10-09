@@ -4,7 +4,7 @@ linktitle: get_Proxy
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::get_Proxy method. Gets the HTTP proxy in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/system.net/webrequest/get_proxy/
 ---
 ## WebRequest::get_Proxy method

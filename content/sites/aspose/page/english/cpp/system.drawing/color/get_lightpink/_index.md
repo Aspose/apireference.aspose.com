@@ -4,7 +4,7 @@ linktitle: get_LightPink
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_LightPink method. Returns a color whose ARGB value in hexadecimal notation is #FFFFB6C1 in C++.'
 type: docs
-weight: 9200
+weight: 9100
 url: /cpp/system.drawing/color/get_lightpink/
 ---
 ## Color::get_LightPink method

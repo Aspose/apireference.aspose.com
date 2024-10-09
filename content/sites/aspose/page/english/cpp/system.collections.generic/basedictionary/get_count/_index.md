@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::get_Count method. Gets elements count in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/system.collections.generic/basedictionary/get_count/
 ---
 ## BaseDictionary::get_Count method

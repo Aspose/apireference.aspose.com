@@ -4,7 +4,7 @@ linktitle: AppendData
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::AppendData method. Appends the specified string to the end of the character data of the node in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/system.xml/xmlcharacterdata/appenddata/
 ---
 ## XmlCharacterData::AppendData method

@@ -4,7 +4,7 @@ linktitle: NorthAmericaNote
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaNote field. North America Note in C++.'
 type: docs
-weight: 10500
+weight: 12200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericanote/
 ---
 ## NorthAmericaNote field

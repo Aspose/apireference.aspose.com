@@ -4,7 +4,7 @@ linktitle: get_Emf
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageFormat::get_Emf method. Returns a shared pointer to an ImageFormat object that represents the enhanced metafile format in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.drawing.imaging/imageformat/get_emf/
 ---
 ## ImageFormat::get_Emf method

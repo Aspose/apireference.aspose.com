@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::idx_set method. Setter function in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system.collections.generic/ikvcollection/idx_set/
 ---
 ## IKVCollection::idx_set method

@@ -4,7 +4,7 @@ linktitle: get_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::get_Credentials method. Gets the authentication information in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.web.services.protocols/webclientprotocol/get_credentials/
 ---
 ## WebClientProtocol::get_Credentials method

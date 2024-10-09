@@ -4,7 +4,7 @@ linktitle: get_OwnerElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::get_OwnerElement method. Returns the XmlElement to which the attribute belongs in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/system.xml/xmlattribute/get_ownerelement/
 ---
 ## XmlAttribute::get_OwnerElement method

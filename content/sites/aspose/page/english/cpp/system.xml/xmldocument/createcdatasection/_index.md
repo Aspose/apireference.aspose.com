@@ -4,7 +4,7 @@ linktitle: CreateCDataSection
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateCDataSection method. Creates an XmlCDataSection containing the specified data in C++.'
 type: docs
-weight: 2300
+weight: 400
 url: /cpp/system.xml/xmldocument/createcdatasection/
 ---
 ## XmlDocument::CreateCDataSection method

@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::IO::FileInfo::get_Name method. Returns the name of the file in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/system.io/fileinfo/get_name/
 ---
 ## FileInfo::get_Name method

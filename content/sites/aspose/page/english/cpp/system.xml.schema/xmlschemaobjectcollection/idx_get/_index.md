@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectCollection::idx_get method. Returns the XmlSchemaObject at the specified index in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/idx_get/
 ---
 ## XmlSchemaObjectCollection::idx_get method

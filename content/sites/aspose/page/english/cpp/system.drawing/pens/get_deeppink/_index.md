@@ -4,7 +4,7 @@ linktitle: get_DeepPink
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DeepPink method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF1493 in C++.'
 type: docs
-weight: 4000
+weight: 3900
 url: /cpp/system.drawing/pens/get_deeppink/
 ---
 ## Pens::get_DeepPink method

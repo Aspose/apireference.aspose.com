@@ -4,7 +4,7 @@ linktitle: ReadTypedValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::ReadTypedValue method. Returns the runt-ime type for the specified XML Schema definition language (XSD) type in C++.'
 type: docs
-weight: 5300
+weight: 4600
 url: /cpp/system.xml/xmlvalidatingreader/readtypedvalue/
 ---
 ## XmlValidatingReader::ReadTypedValue method

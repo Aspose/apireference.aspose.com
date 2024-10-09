@@ -4,7 +4,7 @@ linktitle: get_NetworkLibrary
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::get_NetworkLibrary method. Gets used network library name in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/get_networklibrary/
 ---
 ## SqlConnectionStringBuilder::get_NetworkLibrary method

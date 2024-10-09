@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::DateTime::Add method. Returns a new instance of DateTime class that represents a date and time value that results from addition of the specified time span to the date and time value represented by the current object in C++.'
 type: docs
-weight: 1700
+weight: 200
 url: /cpp/system/datetime/add/
 ---
 ## DateTime::Add method

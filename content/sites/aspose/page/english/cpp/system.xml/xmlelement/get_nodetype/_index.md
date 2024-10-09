@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::get_NodeType method. Returns the type of the current node in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.xml/xmlelement/get_nodetype/
 ---
 ## XmlElement::get_NodeType method

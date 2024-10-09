@@ -4,7 +4,7 @@ linktitle: get_IfNoneMatch
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_IfNoneMatch method. Returns a value of the ''If-None-Match'' header in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.net.http.headers/httprequestheaders/get_ifnonematch/
 ---
 ## HttpRequestHeaders::get_IfNoneMatch method

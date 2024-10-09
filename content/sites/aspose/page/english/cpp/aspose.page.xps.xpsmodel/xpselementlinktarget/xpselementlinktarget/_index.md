@@ -7,27 +7,6 @@ type: docs
 weight: 100
 url: /cpp/aspose.page.xps.xpsmodel/xpselementlinktarget/xpselementlinktarget/
 ---
-## XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr\<XpsPage\>) constructor
-
-
-Creates the new instance.
-
-```cpp
-Aspose::Page::XPS::XpsModel::XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr<XpsPage> targetPage)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| targetPage | System::SharedPtr\<XpsPage\> | The page element within the active fixed document. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XpsPage](../../xpspage/)
-* Class [XpsElementLinkTarget](../)
-* Namespace [Aspose::Page::XPS::XpsModel](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr\<XpsCanvas\>) constructor
 
 
@@ -49,27 +28,6 @@ Aspose::Page::XPS::XpsModel::XpsElementLinkTarget::XpsElementLinkTarget(System::
 * Class [XpsElementLinkTarget](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)
-## XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr\<XpsPath\>) constructor
-
-
-Creates the new instance.
-
-```cpp
-Aspose::Page::XPS::XpsModel::XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr<XpsPath> targetPath)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| targetPath | System::SharedPtr\<XpsPath\> | The path element within the active fixed document. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XpsPath](../../xpspath/)
-* Class [XpsElementLinkTarget](../)
-* Namespace [Aspose::Page::XPS::XpsModel](../../)
-* Library [Aspose.Page for C++](../../../)
 ## XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr\<XpsGlyphs\>) constructor
 
 
@@ -88,6 +46,48 @@ Aspose::Page::XPS::XpsModel::XpsElementLinkTarget::XpsElementLinkTarget(System::
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XpsGlyphs](../../xpsglyphs/)
+* Class [XpsElementLinkTarget](../)
+* Namespace [Aspose::Page::XPS::XpsModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr\<XpsPage\>) constructor
+
+
+Creates the new instance.
+
+```cpp
+Aspose::Page::XPS::XpsModel::XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr<XpsPage> targetPage)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| targetPage | System::SharedPtr\<XpsPage\> | The page element within the active fixed document. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XpsPage](../../xpspage/)
+* Class [XpsElementLinkTarget](../)
+* Namespace [Aspose::Page::XPS::XpsModel](../../)
+* Library [Aspose.Page for C++](../../../)
+## XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr\<XpsPath\>) constructor
+
+
+Creates the new instance.
+
+```cpp
+Aspose::Page::XPS::XpsModel::XpsElementLinkTarget::XpsElementLinkTarget(System::SharedPtr<XpsPath> targetPath)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| targetPath | System::SharedPtr\<XpsPath\> | The path element within the active fixed document. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XpsPath](../../xpspath/)
 * Class [XpsElementLinkTarget](../)
 * Namespace [Aspose::Page::XPS::XpsModel](../../)
 * Library [Aspose.Page for C++](../../../)

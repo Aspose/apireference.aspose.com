@@ -21,25 +21,6 @@ System::Collections::Generic::List<T>::List()
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## List::List(int) constructor
-
-
-Creates list with pre-defined capacity.
-
-```cpp
-System::Collections::Generic::List<T>::List(int capacity)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| capacity | int | Number of elements to reserve. |
-
-## See Also
-
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## List::List(IEnumerablePtr) constructor
 
 
@@ -57,6 +38,25 @@ System::Collections::Generic::List<T>::List(IEnumerablePtr collection)
 ## See Also
 
 * Typedef [IEnumerablePtr](../ienumerableptr/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## List::List(int) constructor
+
+
+Creates list with pre-defined capacity.
+
+```cpp
+System::Collections::Generic::List<T>::List(int capacity)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| capacity | int | Number of elements to reserve. |
+
+## See Also
+
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

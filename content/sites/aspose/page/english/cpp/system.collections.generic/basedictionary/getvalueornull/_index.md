@@ -4,7 +4,7 @@ linktitle: GetValueOrNull
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::GetValueOrNull method. Returns value if found; or null otherwise. Make sense only for reference types in C++.'
 type: docs
-weight: 1700
+weight: 1500
 url: /cpp/system.collections.generic/basedictionary/getvalueornull/
 ---
 ## BaseDictionary::GetValueOrNull method

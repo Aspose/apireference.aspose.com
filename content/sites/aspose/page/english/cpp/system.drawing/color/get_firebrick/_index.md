@@ -4,7 +4,7 @@ linktitle: get_Firebrick
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Firebrick method. Returns a color whose ARGB value in hexadecimal notation is #FFB22222 in C++.'
 type: docs
-weight: 6500
+weight: 6400
 url: /cpp/system.drawing/color/get_firebrick/
 ---
 ## Color::get_Firebrick method

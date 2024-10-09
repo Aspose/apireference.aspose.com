@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Region::Equals method. Determines whether the specified region is identical to the region represented by the current object on the specified drawing surface in C++.'
 type: docs
-weight: 1300
+weight: 600
 url: /cpp/system.drawing/region/equals/
 ---
 ## Region::Equals method

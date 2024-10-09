@@ -4,7 +4,7 @@ linktitle: HasExtension
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::HasExtension method. Determines if the specified path references a file with extension in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.io/path/hasextension/
 ---
 ## Path::HasExtension method

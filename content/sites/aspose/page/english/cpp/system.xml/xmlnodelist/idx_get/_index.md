@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeList::idx_get method. Returns a node at the given index in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml/xmlnodelist/idx_get/
 ---
 ## XmlNodeList::idx_get method

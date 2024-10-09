@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::operator!= method. Checks if two specified objects are not equal in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.collections.specialized/operator!=/
 ---
 ## System::Collections::Specialized::operator!= method

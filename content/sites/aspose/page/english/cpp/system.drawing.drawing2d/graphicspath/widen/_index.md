@@ -4,7 +4,7 @@ linktitle: Widen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::Widen method. Replaces this path with an outline around the original path in C++.'
 type: docs
-weight: 3200
+weight: 3800
 url: /cpp/system.drawing.drawing2d/graphicspath/widen/
 ---
 ## GraphicsPath::Widen method

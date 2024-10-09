@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PrintTicket::GetEnumerator method. Returns the print ticket item names enumerator in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/printticket/getenumerator/
 ---
 ## PrintTicket::GetEnumerator method

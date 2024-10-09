@@ -4,7 +4,7 @@ linktitle: FaultReasonText
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Element::FaultReasonText field. The string representation of the ''Text'' element name in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.web.services/soap12/element/faultreasontext/
 ---
 ## FaultReasonText field

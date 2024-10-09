@@ -4,7 +4,7 @@ linktitle: set_Expired
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Expired method. Sets a value that indicates if the cookie expired in C++.'
 type: docs
-weight: 1400
+weight: 3000
 url: /cpp/system.net/cookie/set_expired/
 ---
 ## Cookie::set_Expired method

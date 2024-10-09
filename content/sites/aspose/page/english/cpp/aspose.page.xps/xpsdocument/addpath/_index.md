@@ -4,7 +4,7 @@ linktitle: AddPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::AddPath method. Adds a new path to the active page in C++.'
 type: docs
-weight: 3800
+weight: 800
 url: /cpp/aspose.page.xps/xpsdocument/addpath/
 ---
 ## XpsDocument::AddPath method

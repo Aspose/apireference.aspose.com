@@ -4,7 +4,7 @@ linktitle: _add_range
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::_add_range method. C++ specific in C++.'
 type: docs
-weight: 4700
+weight: 200
 url: /cpp/system.collections.generic/list/_add_range/
 ---
 ## List::_add_range method

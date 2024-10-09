@@ -4,7 +4,7 @@ linktitle: GetSaturation
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::GetSaturation method. Returns the Hue-Saturation-Brightness (HSB) saturation for the color reprsented by the current object in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.drawing/color/getsaturation/
 ---
 ## Color::GetSaturation method

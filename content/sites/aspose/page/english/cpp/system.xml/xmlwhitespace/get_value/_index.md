@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWhitespace::get_Value method. Returns the value of the node in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.xml/xmlwhitespace/get_value/
 ---
 ## XmlWhitespace::get_Value method

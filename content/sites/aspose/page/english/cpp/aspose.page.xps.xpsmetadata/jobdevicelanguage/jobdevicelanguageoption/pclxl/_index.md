@@ -4,7 +4,7 @@ linktitle: PCLXL
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::PCLXL field. Specified device language is PCL-XL in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/pclxl/
 ---
 ## PCLXL field

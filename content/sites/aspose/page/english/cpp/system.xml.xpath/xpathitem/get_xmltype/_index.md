@@ -4,7 +4,7 @@ linktitle: get_XmlType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_XmlType method. When overridden in a derived class, gets the XmlSchemaType for the item in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.xml.xpath/xpathitem/get_xmltype/
 ---
 ## XPathItem::get_XmlType method

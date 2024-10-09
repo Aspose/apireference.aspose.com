@@ -4,7 +4,7 @@ linktitle: get_InnerXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::get_InnerXml method. Returns the markup representing the children of the current node in C++.'
 type: docs
-weight: 1600
+weight: 2100
 url: /cpp/system.xml/xmldocument/get_innerxml/
 ---
 ## XmlDocument::get_InnerXml method

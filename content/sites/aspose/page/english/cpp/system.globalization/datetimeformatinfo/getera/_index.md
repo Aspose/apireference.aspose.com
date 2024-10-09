@@ -4,7 +4,7 @@ linktitle: GetEra
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::GetEra method. Gets era by name in C++.'
 type: docs
-weight: 5400
+weight: 3400
 url: /cpp/system.globalization/datetimeformatinfo/getera/
 ---
 ## DateTimeFormatInfo::GetEra method

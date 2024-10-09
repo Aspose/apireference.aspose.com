@@ -4,7 +4,7 @@ linktitle: ToOADate
 second_title: Aspose.Page for C++
 description: 'System::DateTime::ToOADate method. Returns the date and time value represented by the current object as OLE Automation Date in C++.'
 type: docs
-weight: 3300
+weight: 4900
 url: /cpp/system/datetime/tooadate/
 ---
 ## DateTime::ToOADate method

@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::BitmapData::set_Height method. Sets the height of the image in pixels in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.drawing.imaging/bitmapdata/set_height/
 ---
 ## BitmapData::set_Height method

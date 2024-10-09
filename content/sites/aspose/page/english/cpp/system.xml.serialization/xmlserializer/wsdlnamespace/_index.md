@@ -4,7 +4,7 @@ linktitle: WsdlNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Serialization::XmlSerializer::WsdlNamespace field. RTTI in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.xml.serialization/xmlserializer/wsdlnamespace/
 ---
 ## WsdlNamespace field

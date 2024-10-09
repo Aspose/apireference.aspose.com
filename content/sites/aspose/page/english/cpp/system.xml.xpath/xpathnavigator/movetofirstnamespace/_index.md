@@ -2,11 +2,30 @@
 title: System::Xml::XPath::XPathNavigator::MoveToFirstNamespace method
 linktitle: MoveToFirstNamespace
 second_title: Aspose.Page for C++
-description: 'System::Xml::XPath::XPathNavigator::MoveToFirstNamespace method. When overridden in a derived class, moves the XPathNavigator to the first namespace node that matches the XPathNamespaceScope specified in C++.'
+description: 'System::Xml::XPath::XPathNavigator::MoveToFirstNamespace method. Moves the XPathNavigator to first namespace node of the current node in C++.'
 type: docs
-weight: 4400
+weight: 5600
 url: /cpp/system.xml.xpath/xpathnavigator/movetofirstnamespace/
 ---
+## XPathNavigator::MoveToFirstNamespace() method
+
+
+Moves the [XPathNavigator](../) to first namespace node of the current node.
+
+```cpp
+bool System::Xml::XPath::XPathNavigator::MoveToFirstNamespace()
+```
+
+
+### ReturnValue
+
+**true** if the [XPathNavigator](../) is successful moving to the first namespace node; otherwise, **false**. If **false**, the position of the [XPathNavigator](../) is unchanged.
+
+## See Also
+
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XPathNavigator::MoveToFirstNamespace(XPathNamespaceScope) method
 
 
@@ -28,25 +47,6 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToFirstNamespace(XPathNames
 ## See Also
 
 * Enum [XPathNamespaceScope](../../xpathnamespacescope/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Page for C++](../../../)
-## XPathNavigator::MoveToFirstNamespace() method
-
-
-Moves the [XPathNavigator](../) to first namespace node of the current node.
-
-```cpp
-bool System::Xml::XPath::XPathNavigator::MoveToFirstNamespace()
-```
-
-
-### ReturnValue
-
-**true** if the [XPathNavigator](../) is successful moving to the first namespace node; otherwise, **false**. If **false**, the position of the [XPathNavigator](../) is unchanged.
-
-## See Also
-
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.Page for C++](../../../)

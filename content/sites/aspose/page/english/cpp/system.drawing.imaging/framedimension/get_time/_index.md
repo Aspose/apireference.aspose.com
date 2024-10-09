@@ -4,7 +4,7 @@ linktitle: get_Time
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::FrameDimension::get_Time method. Returns the time dimension in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.drawing.imaging/framedimension/get_time/
 ---
 ## FrameDimension::get_Time method

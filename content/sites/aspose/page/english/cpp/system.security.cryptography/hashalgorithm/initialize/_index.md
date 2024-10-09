@@ -4,7 +4,7 @@ linktitle: Initialize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::HashAlgorithm::Initialize method. Resets hasher into initial state in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system.security.cryptography/hashalgorithm/initialize/
 ---
 ## HashAlgorithm::Initialize method

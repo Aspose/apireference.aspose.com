@@ -4,7 +4,7 @@ linktitle: EnumerateDirectories
 second_title: Aspose.Page for C++
 description: 'System::IO::DirectoryInfo::EnumerateDirectories method. Returns enumerable collection containing all directories located in the directory represented by the current object in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system.io/directoryinfo/enumeratedirectories/
 ---
 ## DirectoryInfo::EnumerateDirectories() method

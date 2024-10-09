@@ -4,7 +4,7 @@ linktitle: DrawBezier
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawBezier method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 5900
+weight: 1100
 url: /cpp/system.drawing/graphics/drawbezier/
 ---
 ## Graphics::DrawBezier(const SharedPtr\<Pen\>\&, const Point\&, const Point\&, const Point\&, const Point\&) method

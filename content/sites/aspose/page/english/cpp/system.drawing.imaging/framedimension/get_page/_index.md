@@ -4,7 +4,7 @@ linktitle: get_Page
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::FrameDimension::get_Page method. Returns the page dimension in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.drawing.imaging/framedimension/get_page/
 ---
 ## FrameDimension::get_Page method

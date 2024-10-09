@@ -4,7 +4,7 @@ linktitle: get_OuterXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_OuterXml method. Returns the markup representing the opening and closing tags of the current node and its child nodes in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/system.xml.xpath/xpathnavigator/get_outerxml/
 ---
 ## XPathNavigator::get_OuterXml method

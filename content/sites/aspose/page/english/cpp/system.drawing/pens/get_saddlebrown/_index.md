@@ -4,7 +4,7 @@ linktitle: get_SaddleBrown
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_SaddleBrown method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF8B4513 in C++.'
 type: docs
-weight: 11800
+weight: 11700
 url: /cpp/system.drawing/pens/get_saddlebrown/
 ---
 ## Pens::get_SaddleBrown method

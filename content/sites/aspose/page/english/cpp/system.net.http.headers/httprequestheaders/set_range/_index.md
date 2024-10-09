@@ -4,7 +4,7 @@ linktitle: set_Range
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_Range method. Sets a value of the ''Range'' header in C++.'
 type: docs
-weight: 2700
+weight: 4600
 url: /cpp/system.net.http.headers/httprequestheaders/set_range/
 ---
 ## HttpRequestHeaders::set_Range method

@@ -4,7 +4,7 @@ linktitle: get_ShortTimePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::get_ShortTimePattern method. Gets short time pattern in C++.'
 type: docs
-weight: 700
+weight: 2400
 url: /cpp/system.globalization/datetimeformatinfo/get_shorttimepattern/
 ---
 ## DateTimeFormatInfo::get_ShortTimePattern method

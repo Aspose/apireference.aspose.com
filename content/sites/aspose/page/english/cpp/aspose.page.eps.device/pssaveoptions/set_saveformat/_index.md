@@ -4,7 +4,7 @@ linktitle: set_SaveFormat
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PsSaveOptions::set_SaveFormat method. The save format of resulting file in C++.'
 type: docs
-weight: 200
+weight: 1400
 url: /cpp/aspose.page.eps.device/pssaveoptions/set_saveformat/
 ---
 ## PsSaveOptions::set_SaveFormat method

@@ -2,11 +2,34 @@
 title: System::Char::IsLowSurrogate method
 linktitle: IsLowSurrogate
 second_title: Aspose.Page for C++
-description: 'System::Char::IsLowSurrogate method. Determines whether the character at the specified index in the specified character buffer is a low surrogate in C++.'
+description: 'System::Char::IsLowSurrogate method. Determines whether the specified character is a low surrogate in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system/char/islowsurrogate/
 ---
+## Char::IsLowSurrogate(char_t) method
+
+
+Determines whether the specified character is a low surrogate.
+
+```cpp
+static bool System::Char::IsLowSurrogate(char_t c)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | char_t | The character to test |
+
+### ReturnValue
+
+True if the specified character is a low surrogate, otherwise - false
+
+## See Also
+
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Char::IsLowSurrogate(const char_t *, int) method
 
 
@@ -25,29 +48,6 @@ static bool System::Char::IsLowSurrogate(const char_t *str, int idx)
 ### ReturnValue
 
 True if the character at the specified index is a low surrogate, otherwise - false
-
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Char::IsLowSurrogate(char_t) method
-
-
-Determines whether the specified character is a low surrogate.
-
-```cpp
-static bool System::Char::IsLowSurrogate(char_t c)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | char_t | The character to test |
-
-### ReturnValue
-
-True if the specified character is a low surrogate, otherwise - false
 
 ## See Also
 

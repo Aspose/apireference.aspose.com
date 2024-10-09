@@ -4,7 +4,7 @@ linktitle: get_Thistle
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Thistle method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFD8BFD8 in C++.'
 type: docs
-weight: 13300
+weight: 13200
 url: /cpp/system.drawing/pens/get_thistle/
 ---
 ## Pens::get_Thistle method

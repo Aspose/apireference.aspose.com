@@ -4,7 +4,7 @@ linktitle: DownloadAsOutlineFont
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode::PageTrueTypeFontModeOption::DownloadAsOutlineFont field. TrueType font is downloaded as outline font in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/pagetruetypefontmodeoption/downloadasoutlinefont/
 ---
 ## DownloadAsOutlineFont field

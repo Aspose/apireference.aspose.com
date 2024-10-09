@@ -4,7 +4,7 @@ linktitle: set_EndCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_EndCap method. Sets the ending line cap of the current Pen object in C++.'
 type: docs
-weight: 900
+weight: 3300
 url: /cpp/system.drawing/pen/set_endcap/
 ---
 ## Pen::set_EndCap method

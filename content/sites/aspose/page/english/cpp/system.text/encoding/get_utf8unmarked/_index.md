@@ -4,7 +4,7 @@ linktitle: get_UTF8Unmarked
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_UTF8Unmarked method. Only internal, to be used by the class libraries: Unmarked and non-input-validating in C++.'
 type: docs
-weight: 3500
+weight: 4000
 url: /cpp/system.text/encoding/get_utf8unmarked/
 ---
 ## Encoding::get_UTF8Unmarked method

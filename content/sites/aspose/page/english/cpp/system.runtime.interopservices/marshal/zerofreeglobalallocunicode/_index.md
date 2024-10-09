@@ -4,7 +4,7 @@ linktitle: ZeroFreeGlobalAllocUnicode
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::ZeroFreeGlobalAllocUnicode method. Frees unmanaged string pointer that was allocated using the SecureStringToGlobalAllocUnicode method in C++.'
 type: docs
-weight: 1500
+weight: 2200
 url: /cpp/system.runtime.interopservices/marshal/zerofreeglobalallocunicode/
 ---
 ## Marshal::ZeroFreeGlobalAllocUnicode method

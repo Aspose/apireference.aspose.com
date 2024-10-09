@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::Contains method. Checks if item is present in container in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.collections.generic/ikvcollection/contains/
 ---
 ## IKVCollection::Contains method

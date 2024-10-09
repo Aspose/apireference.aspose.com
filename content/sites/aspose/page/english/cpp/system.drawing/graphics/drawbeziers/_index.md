@@ -4,7 +4,7 @@ linktitle: DrawBeziers
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawBeziers method. Draws a series of Bezier splines using the specified pen in C++.'
 type: docs
-weight: 6000
+weight: 1200
 url: /cpp/system.drawing/graphics/drawbeziers/
 ---
 ## Graphics::DrawBeziers(const SharedPtr\<Pen\>\&, const ArrayPtr\<Point\>\&) method

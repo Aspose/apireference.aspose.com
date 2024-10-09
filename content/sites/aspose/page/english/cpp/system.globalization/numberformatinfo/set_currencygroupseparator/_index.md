@@ -4,7 +4,7 @@ linktitle: set_CurrencyGroupSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_CurrencyGroupSeparator method. Sets currency group separator in C++.'
 type: docs
-weight: 2100
+weight: 3500
 url: /cpp/system.globalization/numberformatinfo/set_currencygroupseparator/
 ---
 ## NumberFormatInfo::set_CurrencyGroupSeparator method

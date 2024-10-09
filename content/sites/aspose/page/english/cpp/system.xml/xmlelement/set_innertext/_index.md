@@ -4,7 +4,7 @@ linktitle: set_InnerText
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::set_InnerText method. Sets the concatenated values of the node and all its children in C++.'
 type: docs
-weight: 1500
+weight: 2200
 url: /cpp/system.xml/xmlelement/set_innertext/
 ---
 ## XmlElement::set_InnerText method

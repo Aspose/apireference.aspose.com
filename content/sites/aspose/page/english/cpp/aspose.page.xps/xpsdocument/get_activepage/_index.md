@@ -4,7 +4,7 @@ linktitle: get_ActivePage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::get_ActivePage method. Gets the active page number within the active document in C++.'
 type: docs
-weight: 300
+weight: 3200
 url: /cpp/aspose.page.xps/xpsdocument/get_activepage/
 ---
 ## XpsDocument::get_ActivePage method

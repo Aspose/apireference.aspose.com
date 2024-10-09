@@ -4,7 +4,7 @@ linktitle: GetAdjustmentRules
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::GetAdjustmentRules method. Returns an array consisting of AdjustmentRule objects that represent adjustment rules that apply to the current TimeZoneInfo object in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system/timezoneinfo/getadjustmentrules/
 ---
 ## TimeZoneInfo::GetAdjustmentRules method

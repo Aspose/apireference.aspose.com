@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::JapaneseLunisolarCalendar::Clone method. RTTI information in C++.'
 type: docs
-weight: 1000
+weight: 200
 url: /cpp/system.globalization/japaneselunisolarcalendar/clone/
 ---
 ## JapaneseLunisolarCalendar::Clone method

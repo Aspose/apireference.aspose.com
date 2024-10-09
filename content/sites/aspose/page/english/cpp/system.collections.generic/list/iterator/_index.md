@@ -4,7 +4,7 @@ linktitle: iterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::iterator typedef. Iterator type in C++.'
 type: docs
-weight: 5500
+weight: 5700
 url: /cpp/system.collections.generic/list/iterator/
 ---
 ## iterator typedef

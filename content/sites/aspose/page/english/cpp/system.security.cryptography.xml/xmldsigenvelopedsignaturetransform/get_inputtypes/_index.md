@@ -4,7 +4,7 @@ linktitle: get_InputTypes
 second_title: Aspose.Page for C++
 description: 'How to use get_InputTypes method of System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.security.cryptography.xml/xmldsigenvelopedsignaturetransform/get_inputtypes/
 ---
 ## XmlDsigEnvelopedSignatureTransform::get_InputTypes method

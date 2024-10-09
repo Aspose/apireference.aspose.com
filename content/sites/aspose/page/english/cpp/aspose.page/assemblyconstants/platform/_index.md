@@ -4,7 +4,7 @@ linktitle: Platform
 second_title: Aspose.Page for C++
 description: 'How to use Platform field of Aspose::Page::AssemblyConstants class in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.page/assemblyconstants/platform/
 ---
 ## Platform field

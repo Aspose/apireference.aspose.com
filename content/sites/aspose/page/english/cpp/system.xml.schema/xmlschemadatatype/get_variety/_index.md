@@ -4,7 +4,7 @@ linktitle: get_Variety
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDatatype::get_Variety method. Returns the XmlSchemaDatatypeVariety value for the simple type in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.xml.schema/xmlschemadatatype/get_variety/
 ---
 ## XmlSchemaDatatype::get_Variety method

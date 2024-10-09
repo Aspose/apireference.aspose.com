@@ -4,7 +4,7 @@ linktitle: LockBits
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::LockBits method. Locks a Bitmap into system memory in C++.'
 type: docs
-weight: 1100
+weight: 1500
 url: /cpp/system.drawing/bitmap/lockbits/
 ---
 ## Bitmap::LockBits(const Rectangle\&, Imaging::ImageLockMode, Imaging::PixelFormat) method

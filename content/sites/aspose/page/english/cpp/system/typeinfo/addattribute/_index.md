@@ -4,7 +4,7 @@ linktitle: AddAttribute
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::AddAttribute method. Adds the specified attribute to the list of type''s attributes in C++.'
 type: docs
-weight: 3500
+weight: 500
 url: /cpp/system/typeinfo/addattribute/
 ---
 ## TypeInfo::AddAttribute method

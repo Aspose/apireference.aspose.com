@@ -4,7 +4,7 @@ linktitle: set_YearMonthPattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::DateTimeFormatInfo::set_YearMonthPattern method. Sets year and month pattern in C++.'
 type: docs
-weight: 4900
+weight: 6200
 url: /cpp/system.globalization/datetimeformatinfo/set_yearmonthpattern/
 ---
 ## DateTimeFormatInfo::set_YearMonthPattern method

@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::StringCollection::idx_get method. Gets value at specified position in C++.'
 type: docs
-weight: 500
+weight: 1600
 url: /cpp/system.collections.specialized/stringcollection/idx_get/
 ---
 ## StringCollection::idx_get method

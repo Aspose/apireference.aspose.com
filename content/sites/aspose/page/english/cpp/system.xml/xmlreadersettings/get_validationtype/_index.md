@@ -4,7 +4,7 @@ linktitle: get_ValidationType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::get_ValidationType method. Returns a value indicating whether the XmlReader will perform validation or type assignment when reading in C++.'
 type: docs
-weight: 2800
+weight: 1900
 url: /cpp/system.xml/xmlreadersettings/get_validationtype/
 ---
 ## XmlReaderSettings::get_ValidationType method

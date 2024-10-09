@@ -4,7 +4,7 @@ linktitle: System::Runtime::Serialization
 second_title: Aspose.Page for C++
 description: 'How to use System::Runtime::Serialization namespace in C++.'
 type: docs
-weight: 5300
+weight: 5400
 url: /cpp/system.runtime.serialization/
 ---
 

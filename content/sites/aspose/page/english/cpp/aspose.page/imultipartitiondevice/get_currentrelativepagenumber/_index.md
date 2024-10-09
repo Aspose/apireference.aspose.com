@@ -4,7 +4,7 @@ linktitle: get_CurrentRelativePageNumber
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPartitionDevice::get_CurrentRelativePageNumber method. Returns the number of the current page within the current document partition in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page/imultipartitiondevice/get_currentrelativepagenumber/
 ---
 ## IMultiPartitionDevice::get_CurrentRelativePageNumber method

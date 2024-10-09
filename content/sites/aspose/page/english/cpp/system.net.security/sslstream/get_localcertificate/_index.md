@@ -4,7 +4,7 @@ linktitle: get_LocalCertificate
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::get_LocalCertificate method. Returns the certificate that is used to authenticate the local endpoint in C++.'
 type: docs
-weight: 800
+weight: 2600
 url: /cpp/system.net.security/sslstream/get_localcertificate/
 ---
 ## SslStream::get_LocalCertificate method

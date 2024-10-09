@@ -4,7 +4,7 @@ linktitle: set_ReadTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::set_ReadTimeout method. Sets a value that determines whether the current stream can time out in C++.'
 type: docs
-weight: 2000
+weight: 3500
 url: /cpp/system.net.security/sslstream/set_readtimeout/
 ---
 ## SslStream::set_ReadTimeout method

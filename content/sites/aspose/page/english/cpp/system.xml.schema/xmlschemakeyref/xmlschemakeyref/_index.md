@@ -4,7 +4,7 @@ linktitle: XmlSchemaKeyref
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaKeyref::XmlSchemaKeyref constructor. Initializes a new instance of the XmlSchemaKeyref class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.schema/xmlschemakeyref/xmlschemakeyref/
 ---
 ## XmlSchemaKeyref::XmlSchemaKeyref constructor

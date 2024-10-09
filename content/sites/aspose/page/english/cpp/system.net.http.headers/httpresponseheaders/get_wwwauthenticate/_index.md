@@ -4,7 +4,7 @@ linktitle: get_WwwAuthenticate
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_WwwAuthenticate method. Returns a value of the ''WWW-Authenticate'' header in C++.'
 type: docs
-weight: 1300
+weight: 2200
 url: /cpp/system.net.http.headers/httpresponseheaders/get_wwwauthenticate/
 ---
 ## HttpResponseHeaders::get_WwwAuthenticate method

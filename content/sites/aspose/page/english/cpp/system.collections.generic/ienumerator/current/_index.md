@@ -4,7 +4,7 @@ linktitle: Current
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerator::Current method. Gets current element in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.collections.generic/ienumerator/current/
 ---
 ## IEnumerator::Current method

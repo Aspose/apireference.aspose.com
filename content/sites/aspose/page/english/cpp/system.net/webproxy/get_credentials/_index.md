@@ -4,7 +4,7 @@ linktitle: get_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Net::WebProxy::get_Credentials method. Gets the credentials that are sent to the proxy server for authentication in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.net/webproxy/get_credentials/
 ---
 ## WebProxy::get_Credentials method

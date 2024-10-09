@@ -4,7 +4,7 @@ linktitle: get_HasValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_HasValue method. When overridden in a derived class, gets a value indicating whether the current node can have a XmlReader::get_Value value in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.xml/xmlreader/get_hasvalue/
 ---
 ## XmlReader::get_HasValue method

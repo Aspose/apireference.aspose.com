@@ -4,7 +4,7 @@ linktitle: GetFormat
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::GetFormat method. Gets format object for specific type in C++.'
 type: docs
-weight: 3200
+weight: 2700
 url: /cpp/system.globalization/cultureinfo/getformat/
 ---
 ## CultureInfo::GetFormat method

@@ -4,7 +4,7 @@ linktitle: AppendChar
 second_title: Aspose.Page for C++
 description: 'System::Security::SecureString::AppendChar method. Appends a character to the end of the string in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.security/securestring/appendchar/
 ---
 ## SecureString::AppendChar method

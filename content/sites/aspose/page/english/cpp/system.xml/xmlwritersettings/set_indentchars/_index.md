@@ -4,7 +4,7 @@ linktitle: set_IndentChars
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_IndentChars method. Sets the character string to use when indenting. This setting is used when the XmlWriterSettings::set_Indent value is set to true in C++.'
 type: docs
-weight: 1200
+weight: 2400
 url: /cpp/system.xml/xmlwritersettings/set_indentchars/
 ---
 ## XmlWriterSettings::set_IndentChars method

@@ -4,7 +4,7 @@ linktitle: get_Item
 second_title: Aspose.Page for C++
 description: 'System::Tuple::get_Item method. Gets the value of the Tuple object''s component in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system/tuple/get_item/
 ---
 ## Tuple::get_Item method

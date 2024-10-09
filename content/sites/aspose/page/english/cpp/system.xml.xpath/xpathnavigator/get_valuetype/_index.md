@@ -4,7 +4,7 @@ linktitle: get_ValueType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_ValueType method. Returns the type of the current node in C++.'
 type: docs
-weight: 400
+weight: 3500
 url: /cpp/system.xml.xpath/xpathnavigator/get_valuetype/
 ---
 ## XPathNavigator::get_ValueType method

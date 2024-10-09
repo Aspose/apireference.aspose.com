@@ -4,7 +4,7 @@ linktitle: set_LingerTime
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::LingerOption::set_LingerTime method. Sets a delay timeout in seconds in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.net.sockets/lingeroption/set_lingertime/
 ---
 ## LingerOption::set_LingerTime method

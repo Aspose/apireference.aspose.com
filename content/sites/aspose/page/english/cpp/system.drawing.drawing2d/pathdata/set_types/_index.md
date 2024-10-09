@@ -4,7 +4,7 @@ linktitle: set_Types
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathData::set_Types method. Sets an array containing the values that specify the types of corresponding points in Points array in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.drawing.drawing2d/pathdata/set_types/
 ---
 ## PathData::set_Types method

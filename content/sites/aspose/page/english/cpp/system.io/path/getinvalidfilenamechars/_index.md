@@ -4,7 +4,7 @@ linktitle: GetInvalidFileNameChars
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::GetInvalidFileNameChars method. Returns an array containing characters that are not allowed in the names of files in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.io/path/getinvalidfilenamechars/
 ---
 ## Path::GetInvalidFileNameChars method

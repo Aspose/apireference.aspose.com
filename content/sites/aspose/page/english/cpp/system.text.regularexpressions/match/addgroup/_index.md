@@ -4,7 +4,7 @@ linktitle: AddGroup
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::Match::AddGroup method. Adds group into match in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.text.regularexpressions/match/addgroup/
 ---
 ## Match::AddGroup method

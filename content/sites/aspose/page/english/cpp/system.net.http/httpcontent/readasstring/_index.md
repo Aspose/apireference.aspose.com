@@ -4,7 +4,7 @@ linktitle: ReadAsString
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpContent::ReadAsString method. Serializes content and returns a string in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.net.http/httpcontent/readasstring/
 ---
 ## HttpContent::ReadAsString method

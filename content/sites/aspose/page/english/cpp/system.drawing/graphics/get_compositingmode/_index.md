@@ -4,7 +4,7 @@ linktitle: get_CompositingMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_CompositingMode method. Returns a value that indicates how composited images are drawn on the surface represented by the current object in C++.'
 type: docs
-weight: 400
+weight: 4300
 url: /cpp/system.drawing/graphics/get_compositingmode/
 ---
 ## Graphics::get_CompositingMode method

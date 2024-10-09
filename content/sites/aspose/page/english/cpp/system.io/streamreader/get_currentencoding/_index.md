@@ -4,7 +4,7 @@ linktitle: get_CurrentEncoding
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamReader::get_CurrentEncoding method. Returns the currently used encoding in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/system.io/streamreader/get_currentencoding/
 ---
 ## StreamReader::get_CurrentEncoding method

@@ -4,7 +4,7 @@ linktitle: get_AttributeUses
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexType::get_AttributeUses method. Returns the collection of all the complied attributes of this complex type and its base types in C++.'
 type: docs
-weight: 1700
+weight: 400
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_attributeuses/
 ---
 ## XmlSchemaComplexType::get_AttributeUses method

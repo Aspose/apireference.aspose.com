@@ -4,7 +4,7 @@ linktitle: get_DpiX
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::MetafileHeader::get_DpiX method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.drawing.imaging/metafileheader/get_dpix/
 ---
 ## MetafileHeader::get_DpiX method

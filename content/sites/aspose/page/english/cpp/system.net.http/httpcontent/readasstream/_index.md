@@ -4,7 +4,7 @@ linktitle: ReadAsStream
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpContent::ReadAsStream method. Serializes content and returns a stream in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.net.http/httpcontent/readasstream/
 ---
 ## HttpContent::ReadAsStream method

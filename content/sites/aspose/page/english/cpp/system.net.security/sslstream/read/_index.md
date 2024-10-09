@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::Read method. Reads the specified number of bytes from the stream and writes them to the specified byte array in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/system.net.security/sslstream/read/
 ---
 ## SslStream::Read(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

@@ -7,6 +7,32 @@ type: docs
 weight: 200
 url: /cpp/system.threading/waithandle/waitany/
 ---
+## WaitHandle::WaitAny(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&) method
+
+
+Waits for any of the handles to fire.
+
+```cpp
+static int System::Threading::WaitHandle::WaitAny(const System::ArrayPtr<System::SharedPtr<WaitHandle>> &waitHandles)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| waitHandles | const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\& | Handles to wait for. |
+
+### ReturnValue
+
+True when every element in waitHandles has received a signal; otherwise the method never returns.
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WaitHandle](../)
+* Class [WaitHandle](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Page for C++](../../../)
 ## WaitHandle::WaitAny(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&, int) method
 
 
@@ -59,32 +85,6 @@ True if any handle fired, false if timeout exceeded.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WaitHandle](../)
 * Class [TimeSpan](../../../system/timespan/)
-* Class [WaitHandle](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Page for C++](../../../)
-## WaitHandle::WaitAny(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&) method
-
-
-Waits for any of the handles to fire.
-
-```cpp
-static int System::Threading::WaitHandle::WaitAny(const System::ArrayPtr<System::SharedPtr<WaitHandle>> &waitHandles)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| waitHandles | const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\& | Handles to wait for. |
-
-### ReturnValue
-
-True when every element in waitHandles has received a signal; otherwise the method never returns.
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WaitHandle](../)
 * Class [WaitHandle](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.Page for C++](../../../)

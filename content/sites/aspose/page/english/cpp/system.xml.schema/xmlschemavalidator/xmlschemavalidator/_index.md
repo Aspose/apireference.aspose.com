@@ -4,7 +4,7 @@ linktitle: XmlSchemaValidator
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::XmlSchemaValidator constructor. Initializes a new instance of the XmlSchemaValidator class in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/system.xml.schema/xmlschemavalidator/xmlschemavalidator/
 ---
 ## XmlSchemaValidator::XmlSchemaValidator constructor

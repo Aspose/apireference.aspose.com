@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Page for C++
 description: 'System::Decimal::CompareTo method. Determines if the value represented by the current object is less than, equal to or greater than the value represented by the specified object in C++.'
 type: docs
-weight: 2600
+weight: 300
 url: /cpp/system/decimal/compareto/
 ---
 ## Decimal::CompareTo method

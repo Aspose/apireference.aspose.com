@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::get_Count method. Returns the number of logical XML Schema definition language (XSD) schemas in the XmlSchemaSet in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.xml.schema/xmlschemaset/get_count/
 ---
 ## XmlSchemaSet::get_Count method

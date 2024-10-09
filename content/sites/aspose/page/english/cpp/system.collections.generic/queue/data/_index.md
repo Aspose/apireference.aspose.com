@@ -4,7 +4,7 @@ linktitle: data
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::data method. Underlying data structure accessor in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.collections.generic/queue/data/
 ---
 ## Queue::data() method

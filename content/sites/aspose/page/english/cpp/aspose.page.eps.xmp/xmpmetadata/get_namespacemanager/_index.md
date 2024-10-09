@@ -4,7 +4,7 @@ linktitle: get_NamespaceManager
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::get_NamespaceManager method. Gets namespace manager in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/get_namespacemanager/
 ---
 ## XmpMetadata::get_NamespaceManager method

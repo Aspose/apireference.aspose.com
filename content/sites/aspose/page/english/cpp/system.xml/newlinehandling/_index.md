@@ -4,7 +4,7 @@ linktitle: NewLineHandling
 second_title: Aspose.Page for C++
 description: 'System::Xml::NewLineHandling enum. Specifies how to handle line breaks in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system.xml/newlinehandling/
 ---
 ## NewLineHandling enum

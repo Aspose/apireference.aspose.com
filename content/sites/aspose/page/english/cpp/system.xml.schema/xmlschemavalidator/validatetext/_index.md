@@ -4,7 +4,7 @@ linktitle: ValidateText
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::ValidateText method. Validates whether the text string specified is allowed in the current element context, and accumulates the text for validation if the current element has simple content in C++.'
 type: docs
-weight: 1500
+weight: 2000
 url: /cpp/system.xml.schema/xmlschemavalidator/validatetext/
 ---
 ## XmlSchemaValidator::ValidateText(const String\&) method

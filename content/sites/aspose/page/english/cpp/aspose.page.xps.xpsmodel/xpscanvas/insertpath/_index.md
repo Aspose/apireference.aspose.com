@@ -4,7 +4,7 @@ linktitle: InsertPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsCanvas::InsertPath method. Inserts a new path to this canvas''s child list at index  position in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.page.xps.xpsmodel/xpscanvas/insertpath/
 ---
 ## XpsCanvas::InsertPath method

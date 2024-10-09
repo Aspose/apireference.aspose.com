@@ -4,7 +4,7 @@ linktitle: SetValue
 second_title: Aspose.Page for C++
 description: 'System::Reflection::PropertyInfo::SetValue method. Sets property value to specific object in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.reflection/propertyinfo/setvalue/
 ---
 ## PropertyInfo::SetValue(System::SharedPtr\<System::Object\>, System::SharedPtr\<System::Object\>) method

@@ -4,7 +4,7 @@ linktitle: get_SizeInPoints
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Font::get_SizeInPoints method. Returns the em size of the font represented by the current object in points in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.drawing/font/get_sizeinpoints/
 ---
 ## Font::get_SizeInPoints method

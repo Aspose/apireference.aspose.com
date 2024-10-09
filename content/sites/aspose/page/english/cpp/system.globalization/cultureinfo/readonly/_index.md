@@ -4,7 +4,7 @@ linktitle: ReadOnly
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::ReadOnly method. Gets a read only version of culture in C++.'
 type: docs
-weight: 4900
+weight: 4500
 url: /cpp/system.globalization/cultureinfo/readonly/
 ---
 ## CultureInfo::ReadOnly method

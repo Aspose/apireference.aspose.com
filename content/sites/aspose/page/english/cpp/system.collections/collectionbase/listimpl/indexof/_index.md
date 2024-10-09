@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Collections::CollectionBase::ListImpl::IndexOf method. Searches for the specified element and returns the zero-based index of the first occurrence within the entire collection in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.collections/collectionbase/listimpl/indexof/
 ---
 ## ListImpl::IndexOf method

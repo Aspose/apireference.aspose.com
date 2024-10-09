@@ -2,11 +2,26 @@
 title: System::IO::FileStream::FileStream constructor
 linktitle: FileStream
 second_title: Aspose.Page for C++
-description: 'System::IO::FileStream::FileStream constructor. Constructs a new instance of FileStream class and initializes it with the specified parameters in C++.'
+description: 'How to use FileStream constructor of System::IO::FileStream class in C++.'
 type: docs
 weight: 100
 url: /cpp/system.io/filestream/filestream/
 ---
+## FileStream::FileStream(const FileStream\&) constructor
+
+
+
+
+```cpp
+System::IO::FileStream::FileStream(const FileStream &)=delete
+```
+
+## See Also
+
+* Class [FileStream](../)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
 ## FileStream::FileStream(const String\&, FileMode) constructor
 
 
@@ -55,21 +70,6 @@ System::IO::FileStream::FileStream(const String &path, FileMode mode, FileAccess
 * Enum [FileAccess](../../fileaccess/)
 * Enum [FileShare](../../fileshare/)
 * Enum [FileOptions](../../fileoptions/)
-* Class [FileStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## FileStream::FileStream(const FileStream\&) constructor
-
-
-
-
-```cpp
-System::IO::FileStream::FileStream(const FileStream &)=delete
-```
-
-## See Also
-
-* Class [FileStream](../)
 * Class [FileStream](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

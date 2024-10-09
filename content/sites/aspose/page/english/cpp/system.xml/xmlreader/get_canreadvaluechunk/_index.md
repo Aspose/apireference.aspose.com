@@ -4,7 +4,7 @@ linktitle: get_CanReadValueChunk
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_CanReadValueChunk method. Returns a value indicating whether the XmlReader implements the XmlReader::ReadValueChunk method in C++.'
 type: docs
-weight: 2400
+weight: 600
 url: /cpp/system.xml/xmlreader/get_canreadvaluechunk/
 ---
 ## XmlReader::get_CanReadValueChunk method

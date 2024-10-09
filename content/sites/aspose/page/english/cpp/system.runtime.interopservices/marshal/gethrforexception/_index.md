@@ -4,7 +4,7 @@ linktitle: GetHRForException
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::GetHRForException method. Gets HResult from exception in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.runtime.interopservices/marshal/gethrforexception/
 ---
 ## Marshal::GetHRForException method

@@ -4,7 +4,7 @@ linktitle: get_ValueAsInt
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_ValueAsInt method. Returns the current node''s value as an Int32 in C++.'
 type: docs
-weight: 800
+weight: 3300
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueasint/
 ---
 ## XPathNavigator::get_ValueAsInt method

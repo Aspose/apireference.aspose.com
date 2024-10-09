@@ -4,7 +4,7 @@ linktitle: IsAliasingPtr
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::IsAliasingPtr method. Checks if pointer is pointed to another object than owned (created by an aliasing constructor) in C++.'
 type: docs
-weight: 1200
+weight: 2000
 url: /cpp/system/smartptr/isaliasingptr/
 ---
 ## SmartPtr::IsAliasingPtr method

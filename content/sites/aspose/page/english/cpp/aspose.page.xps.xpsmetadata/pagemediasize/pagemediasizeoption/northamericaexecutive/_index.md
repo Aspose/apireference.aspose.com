@@ -4,7 +4,7 @@ linktitle: NorthAmericaExecutive
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaExecutive field. North America Executive in C++.'
 type: docs
-weight: 9500
+weight: 11200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericaexecutive/
 ---
 ## NorthAmericaExecutive field

@@ -4,7 +4,7 @@ linktitle: ContentDispositionHeaderValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::ContentDispositionHeaderValue constructor. Constructs a new instance in C++.'
 type: docs
-weight: 1800
+weight: 100
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue::ContentDispositionHeaderValue() constructor

@@ -7,57 +7,6 @@ type: docs
 weight: 500
 url: /cpp/system.web/httputility/urlencode/
 ---
-## HttpUtility::UrlEncode(String) method
-
-
-Encodes URI fragment.
-
-```cpp
-static String System::Web::HttpUtility::UrlEncode(String str)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | String | URI fragment to encode. |
-
-### ReturnValue
-
-Encoded URI fragment.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [HttpUtility](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Page for C++](../../../)
-## HttpUtility::UrlEncode(String, const System::SharedPtr\<Text::Encoding\>\&) method
-
-
-Encodes URI fragment.
-
-```cpp
-static String System::Web::HttpUtility::UrlEncode(String str, const System::SharedPtr<Text::Encoding> &e)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | String | URI fragment to encode. |
-| e | const System::SharedPtr\<Text::Encoding\>\& | Encoding to use. |
-
-### ReturnValue
-
-Encoded URI fragment.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [HttpUtility](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Page for C++](../../../)
 ## HttpUtility::UrlEncode(const System::ArrayPtr\<uint8_t\>\&) method
 
 
@@ -107,6 +56,57 @@ Encoded URI fragment.
 
 * Class [String](../../../system/string/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [HttpUtility](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Page for C++](../../../)
+## HttpUtility::UrlEncode(String) method
+
+
+Encodes URI fragment.
+
+```cpp
+static String System::Web::HttpUtility::UrlEncode(String str)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | String | URI fragment to encode. |
+
+### ReturnValue
+
+Encoded URI fragment.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [HttpUtility](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Page for C++](../../../)
+## HttpUtility::UrlEncode(String, const System::SharedPtr\<Text::Encoding\>\&) method
+
+
+Encodes URI fragment.
+
+```cpp
+static String System::Web::HttpUtility::UrlEncode(String str, const System::SharedPtr<Text::Encoding> &e)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | String | URI fragment to encode. |
+| e | const System::SharedPtr\<Text::Encoding\>\& | Encoding to use. |
+
+### ReturnValue
+
+Encoded URI fragment.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
 * Class [HttpUtility](../)
 * Namespace [System::Web](../../)
 * Library [Aspose.Page for C++](../../../)

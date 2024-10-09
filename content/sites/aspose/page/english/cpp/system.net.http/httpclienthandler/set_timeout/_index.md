@@ -4,7 +4,7 @@ linktitle: set_Timeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClientHandler::set_Timeout method. Gets an amount of time in milliseconds after which the request will be timed out in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.net.http/httpclienthandler/set_timeout/
 ---
 ## HttpClientHandler::set_Timeout method

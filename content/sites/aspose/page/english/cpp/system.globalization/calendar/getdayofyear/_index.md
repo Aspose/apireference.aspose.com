@@ -4,7 +4,7 @@ linktitle: GetDayOfYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetDayOfYear method. Gets day of year for the specified time point in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/system.globalization/calendar/getdayofyear/
 ---
 ## Calendar::GetDayOfYear method

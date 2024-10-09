@@ -4,7 +4,7 @@ linktitle: TranslateTransform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::TranslateTransform method. Applies the specified translation vector to the world transformation matrix of the current Graphics object in C++.'
 type: docs
-weight: 6700
+weight: 8900
 url: /cpp/system.drawing/graphics/translatetransform/
 ---
 ## Graphics::TranslateTransform method

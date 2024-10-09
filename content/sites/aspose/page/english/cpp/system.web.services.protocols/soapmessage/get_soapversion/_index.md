@@ -4,7 +4,7 @@ linktitle: get_SoapVersion
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::get_SoapVersion method. Returns the SOAP version that is used in C++.'
 type: docs
-weight: 1600
+weight: 1200
 url: /cpp/system.web.services.protocols/soapmessage/get_soapversion/
 ---
 ## SoapMessage::get_SoapVersion method

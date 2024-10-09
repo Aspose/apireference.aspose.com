@@ -4,7 +4,7 @@ linktitle: GetEntryAssembly
 second_title: Aspose.Page for C++
 description: 'System::Reflection::Assembly::GetEntryAssembly method. Gets entry assembly in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.reflection/assembly/getentryassembly/
 ---
 ## Assembly::GetEntryAssembly method

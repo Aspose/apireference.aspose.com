@@ -4,7 +4,7 @@ linktitle: get_Red
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Red method. Gets a system-defined color that has an ARGB value of #FFFF0000 in C++.'
 type: docs
-weight: 11500
+weight: 11600
 url: /cpp/aspose.page.drawing/color/get_red/
 ---
 ## Color::get_Red method

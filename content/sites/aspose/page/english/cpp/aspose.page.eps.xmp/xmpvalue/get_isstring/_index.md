@@ -4,7 +4,7 @@ linktitle: get_IsString
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::get_IsString method. Returns true if value is string in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.page.eps.xmp/xmpvalue/get_isstring/
 ---
 ## XmpValue::get_IsString method

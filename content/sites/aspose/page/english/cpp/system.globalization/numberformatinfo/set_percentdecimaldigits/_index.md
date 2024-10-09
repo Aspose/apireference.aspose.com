@@ -4,7 +4,7 @@ linktitle: set_PercentDecimalDigits
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_PercentDecimalDigits method. Sets number of decimal places in percent values in C++.'
 type: docs
-weight: 4300
+weight: 5000
 url: /cpp/system.globalization/numberformatinfo/set_percentdecimaldigits/
 ---
 ## NumberFormatInfo::set_PercentDecimalDigits method

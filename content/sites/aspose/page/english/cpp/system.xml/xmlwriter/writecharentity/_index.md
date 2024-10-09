@@ -4,7 +4,7 @@ linktitle: WriteCharEntity
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteCharEntity method. When overridden in a derived class, forces the generation of a character entity for the specified Unicode character value in C++.'
 type: docs
-weight: 1800
+weight: 1400
 url: /cpp/system.xml/xmlwriter/writecharentity/
 ---
 ## XmlWriter::WriteCharEntity method

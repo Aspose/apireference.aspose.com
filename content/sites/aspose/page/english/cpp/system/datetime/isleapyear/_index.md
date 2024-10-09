@@ -4,7 +4,7 @@ linktitle: IsLeapYear
 second_title: Aspose.Page for C++
 description: 'System::DateTime::IsLeapYear method. Determines of the specified year is a leap year in C++.'
 type: docs
-weight: 6400
+weight: 6500
 url: /cpp/system/datetime/isleapyear/
 ---
 ## DateTime::IsLeapYear method

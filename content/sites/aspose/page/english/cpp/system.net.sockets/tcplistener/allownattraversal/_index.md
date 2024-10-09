@@ -4,7 +4,7 @@ linktitle: AllowNatTraversal
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::AllowNatTraversal method. Enables or disables the NAT traversal in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.net.sockets/tcplistener/allownattraversal/
 ---
 ## TcpListener::AllowNatTraversal method

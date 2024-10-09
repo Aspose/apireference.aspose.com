@@ -4,7 +4,7 @@ linktitle: set_AnyAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttributeGroup::set_AnyAttribute method. Sets the XmlSchemaAnyAttribute component of the attribute group in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.xml.schema/xmlschemaattributegroup/set_anyattribute/
 ---
 ## XmlSchemaAttributeGroup::set_AnyAttribute method

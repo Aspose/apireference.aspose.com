@@ -4,7 +4,7 @@ linktitle: get_ProxyAuthorization
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_ProxyAuthorization method. Gets a value of the ''Proxy-Authorization'' header in C++.'
 type: docs
-weight: 2400
+weight: 2300
 url: /cpp/system.net.http.headers/httprequestheaders/get_proxyauthorization/
 ---
 ## HttpRequestHeaders::get_ProxyAuthorization method

@@ -4,7 +4,7 @@ linktitle: AddSchema
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::AddSchema method. Adds an XML Schema Definition Language (XSD) schema to the set of schemas used for validation in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/system.xml.schema/xmlschemavalidator/addschema/
 ---
 ## XmlSchemaValidator::AddSchema method

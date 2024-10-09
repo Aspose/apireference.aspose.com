@@ -4,7 +4,7 @@ linktitle: InitPageNumbers
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPageDevice::InitPageNumbers method. Initializes numbers of pages to output in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page/imultipagedevice/initpagenumbers/
 ---
 ## IMultiPageDevice::InitPageNumbers method

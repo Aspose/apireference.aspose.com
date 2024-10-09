@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::idx_get method. Getter function in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.collections.generic/ikvcollection/idx_get/
 ---
 ## IKVCollection::idx_get method

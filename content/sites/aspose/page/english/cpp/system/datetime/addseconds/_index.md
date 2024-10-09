@@ -4,7 +4,7 @@ linktitle: AddSeconds
 second_title: Aspose.Page for C++
 description: 'System::DateTime::AddSeconds method. Returns a new instance of the DateTime class representing the date and time value which is the sum of the value represented by the current object and the specified number of seconds in C++.'
 type: docs
-weight: 2300
+weight: 800
 url: /cpp/system/datetime/addseconds/
 ---
 ## DateTime::AddSeconds method

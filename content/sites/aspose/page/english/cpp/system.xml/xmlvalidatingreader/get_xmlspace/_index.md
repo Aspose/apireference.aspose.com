@@ -4,7 +4,7 @@ linktitle: get_XmlSpace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_XmlSpace method. Returns the current xml:space scope in C++.'
 type: docs
-weight: 1300
+weight: 3100
 url: /cpp/system.xml/xmlvalidatingreader/get_xmlspace/
 ---
 ## XmlValidatingReader::get_XmlSpace method

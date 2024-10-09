@@ -4,7 +4,7 @@ linktitle: get_CanRead
 second_title: Aspose.Page for C++
 description: 'System::IO::STDIOStreamWrapperBase::get_CanRead method. Determines if the stream supports reading in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.io/stdiostreamwrapperbase/get_canread/
 ---
 ## STDIOStreamWrapperBase::get_CanRead method

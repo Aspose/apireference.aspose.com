@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCollection::idx_get method. Returns the XmlSchema associated with the given namespace URI in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/system.xml.schema/xmlschemacollection/idx_get/
 ---
 ## XmlSchemaCollection::idx_get method

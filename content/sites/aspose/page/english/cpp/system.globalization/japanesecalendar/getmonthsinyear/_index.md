@@ -2,11 +2,25 @@
 title: System::Globalization::JapaneseCalendar::GetMonthsInYear method
 linktitle: GetMonthsInYear
 second_title: Aspose.Page for C++
-description: 'System::Globalization::JapaneseCalendar::GetMonthsInYear method. Gets number of months in the specified year in C++.'
+description: 'System::Globalization::JapaneseCalendar::GetMonthsInYear method. RTTI information in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system.globalization/japanesecalendar/getmonthsinyear/
 ---
+## JapaneseCalendar::GetMonthsInYear(int) const method
+
+
+RTTI information.
+
+```cpp
+virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
+```
+
+## See Also
+
+* Class [JapaneseCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## JapaneseCalendar::GetMonthsInYear(int, int) const method
 
 
@@ -25,20 +39,6 @@ int System::Globalization::JapaneseCalendar::GetMonthsInYear(int year, int era) 
 ### ReturnValue
 
 Number of months in the specified year of specified era.
-
-## See Also
-
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## JapaneseCalendar::GetMonthsInYear(int) const method
-
-
-RTTI information.
-
-```cpp
-virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
-```
 
 ## See Also
 

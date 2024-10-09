@@ -4,7 +4,7 @@ linktitle: LoadInnerXml
 second_title: Aspose.Page for C++
 description: 'How to use LoadInnerXml method of System::Security::Cryptography::Xml::XmlDsigC14NTransform class in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.security.cryptography.xml/xmldsigc14ntransform/loadinnerxml/
 ---
 ## XmlDsigC14NTransform::LoadInnerXml method

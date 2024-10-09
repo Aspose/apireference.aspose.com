@@ -4,7 +4,7 @@ linktitle: get_PrinterSettings
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Printing::PrintDocument::get_PrinterSettings method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.drawing.printing/printdocument/get_printersettings/
 ---
 ## PrintDocument::get_PrinterSettings method

@@ -4,7 +4,7 @@ linktitle: Action
 second_title: Aspose.Page for C++
 description: 'System::Action typedef. Delegate type that references methods that have no return value in C++.'
 type: docs
-weight: 10900
+weight: 8900
 url: /cpp/system/action/
 ---
 ## Action typedef

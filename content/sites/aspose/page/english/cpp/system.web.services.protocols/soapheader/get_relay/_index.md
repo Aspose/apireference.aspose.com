@@ -4,7 +4,7 @@ linktitle: get_Relay
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::get_Relay method. Gets a value of the ''relay'' attribute in C++.'
 type: docs
-weight: 1300
+weight: 800
 url: /cpp/system.web.services.protocols/soapheader/get_relay/
 ---
 ## SoapHeader::get_Relay method

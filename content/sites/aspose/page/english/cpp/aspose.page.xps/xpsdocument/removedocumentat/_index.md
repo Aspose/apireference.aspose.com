@@ -4,7 +4,7 @@ linktitle: RemoveDocumentAt
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::RemoveDocumentAt method. Removes a document at index  position in C++.'
 type: docs
-weight: 2900
+weight: 5100
 url: /cpp/aspose.page.xps/xpsdocument/removedocumentat/
 ---
 ## XpsDocument::RemoveDocumentAt method

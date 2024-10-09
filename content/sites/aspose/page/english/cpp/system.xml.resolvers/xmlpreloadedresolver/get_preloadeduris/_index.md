@@ -4,7 +4,7 @@ linktitle: get_PreloadedUris
 second_title: Aspose.Page for C++
 description: 'System::Xml::Resolvers::XmlPreloadedResolver::get_PreloadedUris method. Returns a collection of preloaded URIs in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/get_preloadeduris/
 ---
 ## XmlPreloadedResolver::get_PreloadedUris method

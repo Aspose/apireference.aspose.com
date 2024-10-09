@@ -2,11 +2,37 @@
 title: System::ObjectExt::Box method
 linktitle: Box
 second_title: Aspose.Page for C++
-description: 'System::ObjectExt::Box method. Boxes value types for converting to Object. Implementation for enum types in C++.'
+description: 'System::ObjectExt::Box method. Boxes string values in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system/objectext/box/
 ---
+## ObjectExt::Box(const String\&) method
+
+
+Boxes string values.
+
+```cpp
+SmartPtr<Object> System::ObjectExt::Box(const String &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const String\& | Value to box. |
+
+### ReturnValue
+
+Boxed value or null, if source string is null.
+
+## See Also
+
+* Class [SmartPtr](../../smartptr/)
+* Class [Object](../../object/)
+* Class [String](../../string/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ObjectExt::Box(const T\&) method
 
 
@@ -91,32 +117,6 @@ Smart pointer to object keeping boxed value.
 
 * Class [SmartPtr](../../smartptr/)
 * Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::Box(const String\&) method
-
-
-Boxes string values.
-
-```cpp
-SmartPtr<Object> System::ObjectExt::Box(const String &value)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const String\& | Value to box. |
-
-### ReturnValue
-
-Boxed value or null, if source string is null.
-
-## See Also
-
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [String](../../string/)
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

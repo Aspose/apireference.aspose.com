@@ -4,7 +4,7 @@ linktitle: XmlDsigBase64TransformUrl
 second_title: Aspose.Page for C++
 description: 'How to use XmlDsigBase64TransformUrl field of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 3800
+weight: 2100
 url: /cpp/system.security.cryptography.xml/signedxml/xmldsigbase64transformurl/
 ---
 ## XmlDsigBase64TransformUrl field

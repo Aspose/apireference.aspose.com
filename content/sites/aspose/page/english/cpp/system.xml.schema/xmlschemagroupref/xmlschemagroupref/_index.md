@@ -4,7 +4,7 @@ linktitle: XmlSchemaGroupRef
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaGroupRef::XmlSchemaGroupRef constructor. Initializes a new instance of the XmlSchemaGroupRef class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml.schema/xmlschemagroupref/xmlschemagroupref/
 ---
 ## XmlSchemaGroupRef::XmlSchemaGroupRef constructor

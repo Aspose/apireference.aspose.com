@@ -4,7 +4,7 @@ linktitle: WriteGraphicsSave
 second_title: Aspose.Page for C++
 description: 'How to use WriteGraphicsSave method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 4600
+weight: 7000
 url: /cpp/aspose.page.eps.device/pdfdevice/writegraphicssave/
 ---
 ## PdfDevice::WriteGraphicsSave method

@@ -4,7 +4,7 @@ linktitle: XmlDsigC14NTransform
 second_title: Aspose.Page for C++
 description: 'How to use XmlDsigC14NTransform constructor of System::Security::Cryptography::Xml::XmlDsigC14NTransform class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.security.cryptography.xml/xmldsigc14ntransform/xmldsigc14ntransform/
 ---
 ## XmlDsigC14NTransform::XmlDsigC14NTransform() constructor

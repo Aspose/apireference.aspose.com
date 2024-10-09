@@ -4,7 +4,7 @@ linktitle: set_InterpolationColors
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::set_InterpolationColors method. Sets a value the defines a multicolor linear gradient in C++.'
 type: docs
-weight: 500
+weight: 2000
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_interpolationcolors/
 ---
 ## PathGradientBrush::set_InterpolationColors method

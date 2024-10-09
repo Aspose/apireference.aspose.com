@@ -4,7 +4,7 @@ linktitle: set_ConnectionString
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbConnection::set_ConnectionString method. Sets connection information (e. g. server and port) in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.data.common/dbconnection/set_connectionstring/
 ---
 ## DbConnection::set_ConnectionString method

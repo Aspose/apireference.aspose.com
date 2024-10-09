@@ -4,7 +4,7 @@ linktitle: get_CurrencySymbol
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_CurrencySymbol method. Gets currency symbol in C++.'
 type: docs
-weight: 1400
+weight: 900
 url: /cpp/system.globalization/numberformatinfo/get_currencysymbol/
 ---
 ## NumberFormatInfo::get_CurrencySymbol method

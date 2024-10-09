@@ -4,7 +4,7 @@ linktitle: get_HostName
 second_title: Aspose.Page for C++
 description: 'System::Net::IPHostEntry::get_HostName method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net/iphostentry/get_hostname/
 ---
 ## IPHostEntry::get_HostName method

@@ -4,7 +4,7 @@ linktitle: InternalGetCookies
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::InternalGetCookies method. Returns a collection of cookies that are associated with the specified URI in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/system.net/cookiecontainer/internalgetcookies/
 ---
 ## CookieContainer::InternalGetCookies method

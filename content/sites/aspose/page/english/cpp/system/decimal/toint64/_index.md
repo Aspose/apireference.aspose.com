@@ -4,7 +4,7 @@ linktitle: ToInt64
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToInt64 method. Converts the Decimal value to signed 64-bit integer value in C++.'
 type: docs
-weight: 5700
+weight: 5000
 url: /cpp/system/decimal/toint64/
 ---
 ## Decimal::ToInt64 method

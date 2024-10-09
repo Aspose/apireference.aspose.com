@@ -4,7 +4,7 @@ linktitle: Abort
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::Abort method. Aborts the current request in C++.'
 type: docs
-weight: 2600
+weight: 900
 url: /cpp/system.net/webrequest/abort/
 ---
 ## WebRequest::Abort method

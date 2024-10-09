@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Font::get_Name method. Returns the face name of the font represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/system.drawing/font/get_name/
 ---
 ## Font::get_Name method

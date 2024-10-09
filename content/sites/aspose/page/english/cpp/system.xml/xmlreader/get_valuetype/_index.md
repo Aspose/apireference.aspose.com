@@ -4,7 +4,7 @@ linktitle: get_ValueType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::get_ValueType method. Returns The type for the current node in C++.'
 type: docs
-weight: 1700
+weight: 2500
 url: /cpp/system.xml/xmlreader/get_valuetype/
 ---
 ## XmlReader::get_ValueType method

@@ -4,7 +4,7 @@ linktitle: Find
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::NameValueHeaderValue::Find method. Finds the NameValueHeaderValue-class instance in a collection by the specified name in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system.net.http.headers/namevalueheadervalue/find/
 ---
 ## NameValueHeaderValue::Find method

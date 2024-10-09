@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::NameValueCollection::Add method. Override ICollection method - not implemented in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.collections.specialized/namevaluecollection/add/
 ---
 ## NameValueCollection::Add(const String\&) method
@@ -14,6 +14,21 @@ Override [ICollection](../../../system.collections/icollection/) method - not im
 
 ```cpp
 virtual void System::Collections::Specialized::NameValueCollection::Add(const String &item) override
+```
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Page for C++](../../../)
+## NameValueCollection::Add(const String\&, const String\&) method
+
+
+Adds an entry with the specified name and value.
+
+```cpp
+virtual void System::Collections::Specialized::NameValueCollection::Add(const String &name, const String &value)
 ```
 
 ## See Also
@@ -35,21 +50,6 @@ void System::Collections::Specialized::NameValueCollection::Add(const System::Sh
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NameValueCollection](../)
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Page for C++](../../../)
-## NameValueCollection::Add(const String\&, const String\&) method
-
-
-Adds an entry with the specified name and value.
-
-```cpp
-virtual void System::Collections::Specialized::NameValueCollection::Add(const String &name, const String &value)
-```
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [NameValueCollection](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.Page for C++](../../../)

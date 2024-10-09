@@ -2,11 +2,45 @@
 title: System::Collections::Generic::List::Sort method
 linktitle: Sort
 second_title: Aspose.Page for C++
-description: 'System::Collections::Generic::List::Sort method. Sorts elements in the list in C++.'
+description: 'System::Collections::Generic::List::Sort method. Sorts elements in the list using default comparator in C++.'
 type: docs
-weight: 4100
+weight: 4400
 url: /cpp/system.collections.generic/list/sort/
 ---
+## List::Sort() method
+
+
+Sorts elements in the list using default comparator.
+
+```cpp
+void System::Collections::Generic::List<T>::Sort()
+```
+
+## See Also
+
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## List::Sort(Comparison\<T\>, bool) method
+
+
+Sorts elements in the list.
+
+```cpp
+void System::Collections::Generic::List<T>::Sort(Comparison<T> comparison, bool)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| comparison | Comparison\<T\> | [Comparison](../../../system/comparison/) to use. |
+
+## See Also
+
+* Class [Comparison](../../../system/comparison/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
 ## List::Sort(const SharedPtr\<System::Collections::Generic::IComparer\<T\>\>\&) method
 
 
@@ -25,20 +59,6 @@ void System::Collections::Generic::List<T>::Sort(const SharedPtr<System::Collect
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IComparer](../../icomparer/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
-## List::Sort() method
-
-
-Sorts elements in the list using default comparator.
-
-```cpp
-void System::Collections::Generic::List<T>::Sort()
-```
-
-## See Also
-
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -62,26 +82,6 @@ void System::Collections::Generic::List<T>::Sort(int index, int count, SharedPtr
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IComparer](../../icomparer/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
-## List::Sort(Comparison\<T\>, bool) method
-
-
-Sorts elements in the list.
-
-```cpp
-void System::Collections::Generic::List<T>::Sort(Comparison<T> comparison, bool)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| comparison | Comparison\<T\> | [Comparison](../../../system/comparison/) to use. |
-
-## See Also
-
-* Class [Comparison](../../../system/comparison/)
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

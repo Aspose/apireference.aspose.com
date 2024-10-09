@@ -4,7 +4,7 @@ linktitle: LookupPrefix
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::LookupPrefix method. Finds the prefix declared for the given namespace URI in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.xml/xmlnamespacemanager/lookupprefix/
 ---
 ## XmlNamespaceManager::LookupPrefix method

@@ -4,7 +4,7 @@ linktitle: TryParseAndAddValue
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::TryParseAndAddValue method. Tries to parse the specified value and add it to the header values in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/system.net.http.headers/httpheaders/tryparseandaddvalue/
 ---
 ## HttpHeaders::TryParseAndAddValue method

@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlAtomicValue::ToString method. Returns the String value of the validated XML element or attribute in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.xml.schema/xmlatomicvalue/tostring/
 ---
 ## XmlAtomicValue::ToString method

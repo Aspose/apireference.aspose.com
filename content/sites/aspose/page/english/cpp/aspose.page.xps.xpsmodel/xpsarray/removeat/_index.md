@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArray::RemoveAt method. Removes an object from array at specified position in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpsarray/removeat/
 ---
 ## XpsArray::RemoveAt method

@@ -4,7 +4,7 @@ linktitle: InvokeCompletedEventArgs
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::InvokeCompletedEventArgs::InvokeCompletedEventArgs constructor. Constructs a new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.web.services.protocols/invokecompletedeventargs/invokecompletedeventargs/
 ---
 ## InvokeCompletedEventArgs::InvokeCompletedEventArgs constructor

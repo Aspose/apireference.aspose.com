@@ -4,7 +4,7 @@ linktitle: Mysb
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSystemIStreamWrapper::Mysb typedef of System::IO::BasicSystemIStreamWrapper class in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.io/basicsystemistreamwrapper/mysb/
 ---
 ## Mysb typedef

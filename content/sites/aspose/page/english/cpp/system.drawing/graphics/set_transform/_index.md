@@ -4,7 +4,7 @@ linktitle: set_Transform
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::set_Transform method. Sets the geometric world transformation for the current Graphics object in C++.'
 type: docs
-weight: 4900
+weight: 8500
 url: /cpp/system.drawing/graphics/set_transform/
 ---
 ## Graphics::set_Transform method

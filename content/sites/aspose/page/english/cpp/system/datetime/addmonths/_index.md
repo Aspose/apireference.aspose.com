@@ -4,7 +4,7 @@ linktitle: AddMonths
 second_title: Aspose.Page for C++
 description: 'System::DateTime::AddMonths method. Returns a new instance of the DateTime class representing the date and time value which is the sum of the value represented by the current object and the specified number of months in C++.'
 type: docs
-weight: 1900
+weight: 700
 url: /cpp/system/datetime/addmonths/
 ---
 ## DateTime::AddMonths method

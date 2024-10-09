@@ -4,7 +4,7 @@ linktitle: get_ProhibitDtd
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::get_ProhibitDtd method. Returns a value indicating whether to allow DTD processing in C++.'
 type: docs
-weight: 3100
+weight: 2600
 url: /cpp/system.xml/xmltextreader/get_prohibitdtd/
 ---
 ## XmlTextReader::get_ProhibitDtd method

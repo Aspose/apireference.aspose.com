@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::Insert method. Inserts an element (Canvas, Path, or Glyphs) to the active page at index  position in C++.'
 type: docs
-weight: 2400
+weight: 4100
 url: /cpp/aspose.page.xps/xpsdocument/insert/
 ---
 ## XpsDocument::Insert method

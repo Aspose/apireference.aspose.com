@@ -4,7 +4,7 @@ linktitle: get_DarkBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DarkBlue method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF00008B in C++.'
 type: docs
-weight: 2300
+weight: 2200
 url: /cpp/system.drawing/pens/get_darkblue/
 ---
 ## Pens::get_DarkBlue method

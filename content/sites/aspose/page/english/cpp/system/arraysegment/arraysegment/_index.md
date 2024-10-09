@@ -4,9 +4,23 @@ linktitle: ArraySegment
 second_title: Aspose.Page for C++
 description: 'How to use ArraySegment constructor of System::ArraySegment class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system/arraysegment/arraysegment/
 ---
+## ArraySegment::ArraySegment() constructor
+
+
+
+
+```cpp
+System::ArraySegment<T>::ArraySegment()
+```
+
+## See Also
+
+* Class [ArraySegment](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ArraySegment::ArraySegment(System::ArrayPtr\<T\>) constructor
 
 
@@ -34,20 +48,6 @@ System::ArraySegment<T>::ArraySegment(System::ArrayPtr<T> array, int32_t offset,
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [ArraySegment](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ArraySegment::ArraySegment() constructor
-
-
-
-
-```cpp
-System::ArraySegment<T>::ArraySegment()
-```
-
-## See Also
-
 * Class [ArraySegment](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

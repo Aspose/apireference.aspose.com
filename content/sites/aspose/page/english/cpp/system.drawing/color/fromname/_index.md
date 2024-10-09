@@ -4,7 +4,7 @@ linktitle: FromName
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::FromName method. Constructs an instance of Color class that represents a color with the specified name in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system.drawing/color/fromname/
 ---
 ## Color::FromName method

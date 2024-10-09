@@ -4,7 +4,7 @@ linktitle: WriteBinHex
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteBinHex method. Encodes the specified binary bytes as binhex and writes out the resulting text in C++.'
 type: docs
-weight: 3500
+weight: 2000
 url: /cpp/system.xml/xmltextwriter/writebinhex/
 ---
 ## XmlTextWriter::WriteBinHex method

@@ -4,7 +4,7 @@ linktitle: SetTemplateWeakPtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::SetTemplateWeakPtr method. Makes stored pointers weak (if applicable) in C++.'
 type: docs
-weight: 1600
+weight: 2000
 url: /cpp/system.collections.objectmodel/collection/settemplateweakptr/
 ---
 ## Collection::SetTemplateWeakPtr method

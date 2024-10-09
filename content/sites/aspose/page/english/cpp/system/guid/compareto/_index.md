@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Page for C++
 description: 'System::Guid::CompareTo method. Performs arithmetic comparison of the GUIDs represented by the current and specified objects in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system/guid/compareto/
 ---
 ## Guid::CompareTo method

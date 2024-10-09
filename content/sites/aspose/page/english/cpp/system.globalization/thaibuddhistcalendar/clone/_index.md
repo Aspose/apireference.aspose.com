@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::ThaiBuddhistCalendar::Clone method. RTTI information in C++.'
 type: docs
-weight: 2000
+weight: 200
 url: /cpp/system.globalization/thaibuddhistcalendar/clone/
 ---
 ## ThaiBuddhistCalendar::Clone method

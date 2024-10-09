@@ -4,7 +4,7 @@ linktitle: get_IsFixedDateRule
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::TransitionTime::get_IsFixedDateRule method. Returns the value that indicates if the time change occurs at a fixed date and time or a floating date and time in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/system/timezoneinfo/transitiontime/get_isfixeddaterule/
 ---
 ## TransitionTime::get_IsFixedDateRule method

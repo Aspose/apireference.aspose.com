@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_Size method. Returns a Size object that represents the width and height of the image in pixels in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.drawing/image/get_size/
 ---
 ## Image::get_Size method

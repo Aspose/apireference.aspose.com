@@ -4,7 +4,7 @@ linktitle: static_pointer_cast
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::static_pointer_cast method. Casts pointer to different type using static_cast on pointed object in C++.'
 type: docs
-weight: 2000
+weight: 3500
 url: /cpp/system/smartptr/static_pointer_cast/
 ---
 ## SmartPtr::static_pointer_cast method

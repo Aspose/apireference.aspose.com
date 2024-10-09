@@ -4,7 +4,7 @@ linktitle: get_EmbedFontsAs
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PsSaveOptions::get_EmbedFontsAs method. A type of font in which to embed fonts in PS document in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/aspose.page.eps.device/pssaveoptions/get_embedfontsas/
 ---
 ## PsSaveOptions::get_EmbedFontsAs method

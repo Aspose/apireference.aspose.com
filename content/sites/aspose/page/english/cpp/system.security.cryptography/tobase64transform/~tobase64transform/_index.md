@@ -4,7 +4,7 @@ linktitle: ~ToBase64Transform
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ToBase64Transform::~ToBase64Transform method. Destructor in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/system.security.cryptography/tobase64transform/~tobase64transform/
 ---
 ## ToBase64Transform::~ToBase64Transform method

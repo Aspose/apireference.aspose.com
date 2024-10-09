@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::Contains method. Checks if item is present in collection in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.collections.objectmodel/collection/contains/
 ---
 ## Collection::Contains method

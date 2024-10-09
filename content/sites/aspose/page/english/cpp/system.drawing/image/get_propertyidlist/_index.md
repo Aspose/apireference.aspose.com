@@ -4,7 +4,7 @@ linktitle: get_PropertyIdList
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_PropertyIdList method. Gets IDs of the property items stored in this image in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.drawing/image/get_propertyidlist/
 ---
 ## Image::get_PropertyIdList method

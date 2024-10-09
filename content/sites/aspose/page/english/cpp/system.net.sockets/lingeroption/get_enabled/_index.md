@@ -4,7 +4,7 @@ linktitle: get_Enabled
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::LingerOption::get_Enabled method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net.sockets/lingeroption/get_enabled/
 ---
 ## LingerOption::get_Enabled method

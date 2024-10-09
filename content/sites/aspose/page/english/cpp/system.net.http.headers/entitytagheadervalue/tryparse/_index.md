@@ -4,7 +4,7 @@ linktitle: TryParse
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::EntityTagHeaderValue::TryParse method. Tries to convert a passed string to an instance of the EntityTagHeaderValue class in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.net.http.headers/entitytagheadervalue/tryparse/
 ---
 ## EntityTagHeaderValue::TryParse method

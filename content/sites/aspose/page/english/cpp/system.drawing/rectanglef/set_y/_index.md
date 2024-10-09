@@ -4,7 +4,7 @@ linktitle: set_Y
 second_title: Aspose.Page for C++
 description: 'System::Drawing::RectangleF::set_Y method. Sets the Y coordinate of the upper left corner of the rectangle represented by the current object in C++.'
 type: docs
-weight: 900
+weight: 2700
 url: /cpp/system.drawing/rectanglef/set_y/
 ---
 ## RectangleF::set_Y method

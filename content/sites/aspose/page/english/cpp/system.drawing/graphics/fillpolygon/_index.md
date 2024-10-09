@@ -4,7 +4,7 @@ linktitle: FillPolygon
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::FillPolygon method. Fills the interiors of the specified polygon using the specified brush in C++.'
 type: docs
-weight: 3300
+weight: 3600
 url: /cpp/system.drawing/graphics/fillpolygon/
 ---
 ## Graphics::FillPolygon(const SharedPtr\<Brush\>\&, const ArrayPtr\<Point\>\&, Drawing2D::FillMode) method

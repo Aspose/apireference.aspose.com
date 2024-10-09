@@ -4,7 +4,7 @@ linktitle: get_FullName
 second_title: Aspose.Page for C++
 description: 'System::Reflection::MemberInfo::TypeInternal::get_FullName method. Gets type full name in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.reflection/memberinfo/typeinternal/get_fullname/
 ---
 ## TypeInternal::get_FullName method

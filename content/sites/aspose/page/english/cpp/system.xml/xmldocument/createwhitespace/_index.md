@@ -4,7 +4,7 @@ linktitle: CreateWhitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::CreateWhitespace method. Creates an XmlWhitespace node in C++.'
 type: docs
-weight: 3400
+weight: 1500
 url: /cpp/system.xml/xmldocument/createwhitespace/
 ---
 ## XmlDocument::CreateWhitespace method

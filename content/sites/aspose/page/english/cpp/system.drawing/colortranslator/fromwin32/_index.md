@@ -4,7 +4,7 @@ linktitle: FromWin32
 second_title: Aspose.Page for C++
 description: 'System::Drawing::ColorTranslator::FromWin32 method. Converts the specified Windows color to the equvivalent Color object in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.drawing/colortranslator/fromwin32/
 ---
 ## ColorTranslator::FromWin32 method

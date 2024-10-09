@@ -4,7 +4,7 @@ linktitle: get_Maroon
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Maroon method. Returns a color whose ARGB value in hexadecimal notation is #FF800000 in C++.'
 type: docs
-weight: 10300
+weight: 10200
 url: /cpp/system.drawing/color/get_maroon/
 ---
 ## Color::get_Maroon method

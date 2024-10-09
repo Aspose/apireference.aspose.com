@@ -2,18 +2,18 @@
 title: System::ExceptionWrapper::ExceptionWrapper constructor
 linktitle: ExceptionWrapper
 second_title: Aspose.Page for C++
-description: 'System::ExceptionWrapper::ExceptionWrapper constructor. Constructs a null-instance of ExceptionWrapper class that does not represent any exception in C++.'
+description: 'System::ExceptionWrapper::ExceptionWrapper constructor. Constructor that forwards parameters to the Exception class constructors and creates smart pointer that holds new Exception class instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system/exceptionwrapper/exceptionwrapper/
 ---
-## ExceptionWrapper::ExceptionWrapper(std::nullptr_t) constructor
+## ExceptionWrapper::ExceptionWrapper(Args\&&...) constructor
 
 
-Constructs a null-instance of [ExceptionWrapper](../) class that does not represent any exception.
+Constructor that forwards parameters to the Exception class constructors and creates smart pointer that holds new Exception class instance.
 
 ```cpp
-System::ExceptionWrapper<T>::ExceptionWrapper(std::nullptr_t)
+template<typename ...,typename> System::ExceptionWrapper<T>::ExceptionWrapper(Args &&...args)
 ```
 
 ## See Also
@@ -81,13 +81,13 @@ System::ExceptionWrapper<T>::ExceptionWrapper(ExceptionWrapper &&other) noexcept
 * Class [ExceptionWrapper](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## ExceptionWrapper::ExceptionWrapper(Args\&&...) constructor
+## ExceptionWrapper::ExceptionWrapper(std::nullptr_t) constructor
 
 
-Constructor that forwards parameters to the Exception class constructors and creates smart pointer that holds new Exception class instance.
+Constructs a null-instance of [ExceptionWrapper](../) class that does not represent any exception.
 
 ```cpp
-template<typename ...,typename> System::ExceptionWrapper<T>::ExceptionWrapper(Args &&...args)
+System::ExceptionWrapper<T>::ExceptionWrapper(std::nullptr_t)
 ```
 
 ## See Also

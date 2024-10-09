@@ -4,7 +4,7 @@ linktitle: SetMappedIndexes
 second_title: Aspose.Page for C++
 description: 'How to use SetMappedIndexes method of System::Text::RegularExpressions::Match class in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.text.regularexpressions/match/setmappedindexes/
 ---
 ## Match::SetMappedIndexes method

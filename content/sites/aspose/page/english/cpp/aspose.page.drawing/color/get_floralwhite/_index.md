@@ -4,7 +4,7 @@ linktitle: get_FloralWhite
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_FloralWhite method. Gets a system-defined color that has an ARGB value of #FFFFFAF0 in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/aspose.page.drawing/color/get_floralwhite/
 ---
 ## Color::get_FloralWhite method

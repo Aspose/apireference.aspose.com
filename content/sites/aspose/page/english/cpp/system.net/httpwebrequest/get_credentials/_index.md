@@ -4,7 +4,7 @@ linktitle: get_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::get_Credentials method. Gets authentication information that is associated with the current request in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/system.net/httpwebrequest/get_credentials/
 ---
 ## HttpWebRequest::get_Credentials method

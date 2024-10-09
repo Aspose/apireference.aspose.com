@@ -4,7 +4,7 @@ linktitle: get_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlQualifiedName::get_Namespace method. Returns a string representation of the namespace of the XmlQualifiedName in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.xml/xmlqualifiedname/get_namespace/
 ---
 ## XmlQualifiedName::get_Namespace method

@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF8Encoding::operator== method. Compares encodings parameters in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.text/utf8encoding/operator==/
 ---
 ## UTF8Encoding::operator== method

@@ -4,7 +4,7 @@ linktitle: GetHue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::GetHue method. Gets the hue-saturation-brightness (HSB) hue value, in degrees, for this T:Aspose::Page::Drawing::Color structure in C++.'
 type: docs
-weight: 15200
+weight: 15600
 url: /cpp/aspose.page.drawing/color/gethue/
 ---
 ## Color::GetHue method

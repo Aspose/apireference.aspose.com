@@ -4,7 +4,7 @@ linktitle: GetUnsignedLongLongValue
 second_title: Aspose.Page for C++
 description: 'System::BoxedValue::GetUnsignedLongLongValue method. Always returns 0 in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/system/boxedvalue/getunsignedlonglongvalue/
 ---
 ## BoxedValue::GetUnsignedLongLongValue method

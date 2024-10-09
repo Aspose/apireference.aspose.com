@@ -4,7 +4,7 @@ linktitle: ToArray
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::ToArray method. Converts stack to array in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.collections.generic/stack/toarray/
 ---
 ## Stack::ToArray method

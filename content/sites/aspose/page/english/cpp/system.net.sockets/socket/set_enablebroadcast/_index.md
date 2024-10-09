@@ -4,7 +4,7 @@ linktitle: set_EnableBroadcast
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_EnableBroadcast method. Sets a value that indicates if the socket allows broadcast packets in C++.'
 type: docs
-weight: 3500
+weight: 5200
 url: /cpp/system.net.sockets/socket/set_enablebroadcast/
 ---
 ## Socket::set_EnableBroadcast method

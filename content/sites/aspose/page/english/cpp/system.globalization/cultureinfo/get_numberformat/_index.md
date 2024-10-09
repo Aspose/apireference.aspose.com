@@ -4,7 +4,7 @@ linktitle: get_NumberFormat
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_NumberFormat method. Gets number format information in C++.'
 type: docs
-weight: 2100
+weight: 1800
 url: /cpp/system.globalization/cultureinfo/get_numberformat/
 ---
 ## CultureInfo::get_NumberFormat method

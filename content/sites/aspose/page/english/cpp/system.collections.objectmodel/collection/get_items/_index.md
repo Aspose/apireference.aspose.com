@@ -4,7 +4,7 @@ linktitle: get_Items
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::get_Items method. Internal data structure accessor in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/system.collections.objectmodel/collection/get_items/
 ---
 ## Collection::get_Items() method

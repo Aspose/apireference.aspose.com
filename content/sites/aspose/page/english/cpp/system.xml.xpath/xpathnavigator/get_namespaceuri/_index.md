@@ -4,7 +4,7 @@ linktitle: get_NamespaceURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_NamespaceURI method. When overridden in a derived class, gets the namespace URI of the current node in C++.'
 type: docs
-weight: 1400
+weight: 2200
 url: /cpp/system.xml.xpath/xpathnavigator/get_namespaceuri/
 ---
 ## XPathNavigator::get_NamespaceURI method

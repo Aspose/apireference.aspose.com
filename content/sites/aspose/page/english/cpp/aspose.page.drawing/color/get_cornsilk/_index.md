@@ -4,7 +4,7 @@ linktitle: get_Cornsilk
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Cornsilk method. Gets a system-defined color that has an ARGB value of #FFFFF8DC in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.page.drawing/color/get_cornsilk/
 ---
 ## Color::get_Cornsilk method

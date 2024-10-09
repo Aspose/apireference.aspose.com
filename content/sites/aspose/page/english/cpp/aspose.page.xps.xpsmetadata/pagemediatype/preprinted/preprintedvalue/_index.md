@@ -4,7 +4,7 @@ linktitle: PrePrintedValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PrePrinted::PrePrintedValue field. PrePrinted value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/preprinted/preprintedvalue/
 ---
 ## PrePrintedValue field

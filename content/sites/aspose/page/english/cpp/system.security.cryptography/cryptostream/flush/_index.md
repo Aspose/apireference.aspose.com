@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::Flush method. Empties buffer into wrapped stream. Does nothing as transform algorithm can be still waiting for more data in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.security.cryptography/cryptostream/flush/
 ---
 ## CryptoStream::Flush method

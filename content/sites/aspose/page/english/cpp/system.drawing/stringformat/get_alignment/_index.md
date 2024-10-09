@@ -4,7 +4,7 @@ linktitle: get_Alignment
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::get_Alignment method. Returns a value that indicates horizontal alignment of the string in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.drawing/stringformat/get_alignment/
 ---
 ## StringFormat::get_Alignment method

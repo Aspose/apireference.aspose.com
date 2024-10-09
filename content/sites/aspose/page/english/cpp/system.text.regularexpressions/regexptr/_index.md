@@ -4,7 +4,7 @@ linktitle: RegexPtr
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::RegexPtr typedef. Regex pointer in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.text.regularexpressions/regexptr/
 ---
 ## RegexPtr typedef

@@ -4,7 +4,7 @@ linktitle: get_IsClipEmpty
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::get_IsClipEmpty method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 8300
+weight: 4800
 url: /cpp/system.drawing/graphics/get_isclipempty/
 ---
 ## Graphics::get_IsClipEmpty method

@@ -4,7 +4,7 @@ linktitle: operator|=
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Reference::operator|= method. Assignment or operator in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.collections/bitarray/reference/operator_=/
 ---
 ## Reference::operator|= method

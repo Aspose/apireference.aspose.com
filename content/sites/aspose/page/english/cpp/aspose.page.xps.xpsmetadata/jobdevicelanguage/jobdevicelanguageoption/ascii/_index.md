@@ -4,7 +4,7 @@ linktitle: ASCII
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::ASCII field. Specified device language is ASCII in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/ascii/
 ---
 ## ASCII field

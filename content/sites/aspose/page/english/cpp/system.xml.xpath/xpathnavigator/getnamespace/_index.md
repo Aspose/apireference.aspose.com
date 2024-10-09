@@ -4,7 +4,7 @@ linktitle: GetNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::GetNamespace method. Returns the value of the namespace node corresponding to the specified local name in C++.'
 type: docs
-weight: 4200
+weight: 3900
 url: /cpp/system.xml.xpath/xpathnavigator/getnamespace/
 ---
 ## XPathNavigator::GetNamespace method

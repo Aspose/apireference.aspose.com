@@ -4,7 +4,7 @@ linktitle: StringToHGlobalAnsi
 second_title: Aspose.Page for C++
 description: 'System::Runtime::InteropServices::Marshal::StringToHGlobalAnsi method. Copies the contents of a specified string into unmanaged memory in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobalansi/
 ---
 ## Marshal::StringToHGlobalAnsi method

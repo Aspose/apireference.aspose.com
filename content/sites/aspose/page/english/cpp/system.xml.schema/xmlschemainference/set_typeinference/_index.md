@@ -4,7 +4,7 @@ linktitle: set_TypeInference
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInference::set_TypeInference method. Sets the XmlSchemaInference::InferenceOption value that affects types inferred from the XML document in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.xml.schema/xmlschemainference/set_typeinference/
 ---
 ## XmlSchemaInference::set_TypeInference method

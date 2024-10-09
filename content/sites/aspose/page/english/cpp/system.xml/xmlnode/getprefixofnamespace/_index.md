@@ -4,7 +4,7 @@ linktitle: GetPrefixOfNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::GetPrefixOfNamespace method. Looks up the closest xmlns declaration for the given namespace URI that is in scope for the current node and returns the prefix defined in that declaration in C++.'
 type: docs
-weight: 4500
+weight: 2900
 url: /cpp/system.xml/xmlnode/getprefixofnamespace/
 ---
 ## XmlNode::GetPrefixOfNamespace method

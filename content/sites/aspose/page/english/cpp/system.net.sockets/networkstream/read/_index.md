@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::Read method. Reads the specified number of bytes from the stream and writes them to the specified byte array in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/system.net.sockets/networkstream/read/
 ---
 ## NetworkStream::Read(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

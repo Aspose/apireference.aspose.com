@@ -4,7 +4,7 @@ linktitle: get_BaseAddress
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::get_BaseAddress method. Gets the base address of the resource that is used for sending requests in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http/httpclient/get_baseaddress/
 ---
 ## HttpClient::get_BaseAddress method

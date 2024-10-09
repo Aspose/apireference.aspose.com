@@ -4,7 +4,7 @@ linktitle: TiffDataReader
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Xps::TiffDataReader::TiffDataReader constructor. Initializes a new instance of the TiffDataReader class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.page.xps.presentation.xps/tiffdatareader/tiffdatareader/
 ---
 ## TiffDataReader::TiffDataReader(System::ArrayPtr\<uint8_t\>) constructor

@@ -4,7 +4,7 @@ linktitle: IEnumeratorPtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::IEnumeratorPtr typedef. Enumerator type in C++.'
 type: docs
-weight: 6000
+weight: 5600
 url: /cpp/system.collections.generic/list/ienumeratorptr/
 ---
 ## IEnumeratorPtr typedef

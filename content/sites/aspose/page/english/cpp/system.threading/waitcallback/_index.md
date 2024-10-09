@@ -4,7 +4,7 @@ linktitle: WaitCallback
 second_title: Aspose.Page for C++
 description: 'System::Threading::WaitCallback typedef. Callback item to be executed once there is a spot in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/system.threading/waitcallback/
 ---
 ## WaitCallback typedef

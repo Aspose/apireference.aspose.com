@@ -4,7 +4,7 @@ linktitle: RemoveSegmentAt
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathGeometry::RemoveSegmentAt method. Removes a path segment from the list of child segments of the last path figure at index  position in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat/
 ---
 ## XpsPathGeometry::RemoveSegmentAt method

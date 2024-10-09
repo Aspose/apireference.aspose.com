@@ -4,7 +4,7 @@ linktitle: get_BaseURI
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::get_BaseURI method. Returns the base Uniform Resource Identifier (URI) of the node in C++.'
 type: docs
-weight: 1500
+weight: 300
 url: /cpp/system.xml/xmlattribute/get_baseuri/
 ---
 ## XmlAttribute::get_BaseURI method

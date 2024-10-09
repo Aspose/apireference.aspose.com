@@ -4,7 +4,7 @@ linktitle: BeginInvoke
 second_title: Aspose.Page for C++
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::BeginInvoke method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1900
+weight: 300
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/begininvoke/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::BeginInvoke method

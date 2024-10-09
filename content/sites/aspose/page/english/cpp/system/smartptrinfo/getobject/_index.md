@@ -4,7 +4,7 @@ linktitle: getObject
 second_title: Aspose.Page for C++
 description: 'System::SmartPtrInfo::getObject method. Gets object referenced pointer points to in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system/smartptrinfo/getobject/
 ---
 ## SmartPtrInfo::getObject method

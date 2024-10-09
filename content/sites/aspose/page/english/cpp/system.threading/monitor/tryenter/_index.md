@@ -4,7 +4,7 @@ linktitle: TryEnter
 second_title: Aspose.Page for C++
 description: 'System::Threading::Monitor::TryEnter method. Attempts to acquire an exclusive lock on the specified object Not implemented in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.threading/monitor/tryenter/
 ---
 ## Monitor::TryEnter(const SharedPtr\<Object\>\&) method
@@ -16,22 +16,6 @@ Attempts to acquire an exclusive lock on the specified object Not implemented.
 static bool System::Threading::Monitor::TryEnter(const SharedPtr<Object> &obj)
 ```
 
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Monitor](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Page for C++](../../../)
-## Monitor::TryEnter(const System::SharedPtr\<Object\>\&, bool\&) method
-
-
-Attempts to acquire an exclusive lock on the specified object, and atomically sets a value that indicates whether the lock was taken.
-
-```cpp
-static void System::Threading::Monitor::TryEnter(const System::SharedPtr<Object> &obj, bool &lockTaken)
-```
 
 ## See Also
 
@@ -72,6 +56,22 @@ static bool System::Threading::Monitor::TryEnter(const SharedPtr<Object> &obj, T
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Object](../../../system/object/)
 * Class [TimeSpan](../../../system/timespan/)
+* Class [Monitor](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Page for C++](../../../)
+## Monitor::TryEnter(const System::SharedPtr\<Object\>\&, bool\&) method
+
+
+Attempts to acquire an exclusive lock on the specified object, and atomically sets a value that indicates whether the lock was taken.
+
+```cpp
+static void System::Threading::Monitor::TryEnter(const System::SharedPtr<Object> &obj, bool &lockTaken)
+```
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.Page for C++](../../../)

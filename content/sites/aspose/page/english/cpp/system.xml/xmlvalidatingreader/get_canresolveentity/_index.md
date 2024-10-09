@@ -4,7 +4,7 @@ linktitle: get_CanResolveEntity
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_CanResolveEntity method. Returns a value indicating whether this reader can parse and resolve entities in C++.'
 type: docs
-weight: 1900
+weight: 600
 url: /cpp/system.xml/xmlvalidatingreader/get_canresolveentity/
 ---
 ## XmlValidatingReader::get_CanResolveEntity method

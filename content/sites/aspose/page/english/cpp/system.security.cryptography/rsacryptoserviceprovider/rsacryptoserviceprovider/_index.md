@@ -25,6 +25,25 @@ Constructor. Uses default parameters.
 * Class [RSACryptoServiceProvider](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)
+## RSACryptoServiceProvider::RSACryptoServiceProvider(const RSAParameters\&) constructor
+
+
+Constructor.
+
+```cpp
+System::Security::Cryptography::RSACryptoServiceProvider::RSACryptoServiceProvider(const RSAParameters &parameters)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| parameters | const RSAParameters\& | Algorithm parameters. |
+
+## See Also
+
+* Class [RSACryptoServiceProvider](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)
 ## RSACryptoServiceProvider::RSACryptoServiceProvider(const SharedPtr\<CspParameters\>\&) constructor
 
 
@@ -43,25 +62,6 @@ System::Security::Cryptography::RSACryptoServiceProvider::RSACryptoServiceProvid
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CspParameters](../../cspparameters/)
-* Class [RSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Page for C++](../../../)
-## RSACryptoServiceProvider::RSACryptoServiceProvider(const RSAParameters\&) constructor
-
-
-Constructor.
-
-```cpp
-System::Security::Cryptography::RSACryptoServiceProvider::RSACryptoServiceProvider(const RSAParameters &parameters)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| parameters | const RSAParameters\& | Algorithm parameters. |
-
-## See Also
-
 * Class [RSACryptoServiceProvider](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)

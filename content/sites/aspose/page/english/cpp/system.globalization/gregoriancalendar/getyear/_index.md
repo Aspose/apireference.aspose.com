@@ -4,7 +4,7 @@ linktitle: GetYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::GregorianCalendar::GetYear method. Gets year for the specified time point in C++.'
 type: docs
-weight: 1400
+weight: 1700
 url: /cpp/system.globalization/gregoriancalendar/getyear/
 ---
 ## GregorianCalendar::GetYear method

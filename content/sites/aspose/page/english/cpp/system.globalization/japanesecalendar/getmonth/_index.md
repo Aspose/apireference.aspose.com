@@ -4,7 +4,7 @@ linktitle: GetMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::JapaneseCalendar::GetMonth method. Gets month for the specified time point in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.globalization/japanesecalendar/getmonth/
 ---
 ## JapaneseCalendar::GetMonth method

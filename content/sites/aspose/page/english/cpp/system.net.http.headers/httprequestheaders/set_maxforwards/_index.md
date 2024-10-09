@@ -4,7 +4,7 @@ linktitle: set_MaxForwards
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_MaxForwards method. Sets a value of the ''Max-Forwards'' header in C++.'
 type: docs
-weight: 2300
+weight: 4400
 url: /cpp/system.net.http.headers/httprequestheaders/set_maxforwards/
 ---
 ## HttpRequestHeaders::set_MaxForwards method

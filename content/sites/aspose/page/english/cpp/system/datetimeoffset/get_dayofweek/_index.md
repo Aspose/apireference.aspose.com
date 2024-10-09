@@ -4,7 +4,7 @@ linktitle: get_DayOfWeek
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::get_DayOfWeek method. Gets day of the week of the current object in C++.'
 type: docs
-weight: 900
+weight: 1700
 url: /cpp/system/datetimeoffset/get_dayofweek/
 ---
 ## DateTimeOffset::get_DayOfWeek method

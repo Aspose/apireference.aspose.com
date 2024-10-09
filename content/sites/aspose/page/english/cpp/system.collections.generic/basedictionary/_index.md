@@ -58,13 +58,13 @@ template<typename Map>class BaseDictionary : public System::Collections::Generic
 
 | Typedef | Description |
 | --- | --- |
-| [map_t](./map_t/) | Internal map type. |
-| [KeyCollection](./keycollection/) | Make sure we use correct allocator with underlying storage type. |
-| [ValueCollection](./valuecollection/) | Collection of values. |
-| [KVPair](./kvpair/) | Key-value pair type. |
 | [BaseType](./basetype/) | Implemented interface. |
-| [iterator](./iterator/) | Iterator type. |
 | [const_iterator](./const_iterator/) | Const iterator type. |
+| [iterator](./iterator/) | Iterator type. |
+| [KeyCollection](./keycollection/) | Make sure we use correct allocator with underlying storage type. |
+| [KVPair](./kvpair/) | Key-value pair type. |
+| [map_t](./map_t/) | Internal map type. |
+| [ValueCollection](./valuecollection/) | Collection of values. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: ToBinary
 second_title: Aspose.Page for C++
 description: 'System::DateTime::ToBinary method. Serializes the current object in C++.'
 type: docs
-weight: 3200
+weight: 4300
 url: /cpp/system/datetime/tobinary/
 ---
 ## DateTime::ToBinary method

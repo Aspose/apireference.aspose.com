@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::Contains method. Checks if element is present in collection in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.generic/icollection/contains/
 ---
 ## ICollection::Contains method

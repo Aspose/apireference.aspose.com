@@ -4,7 +4,7 @@ linktitle: SetTabStops
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::SetTabStops method. Sets the tab stops for the current StringFormat object in C++.'
 type: docs
-weight: 1100
+weight: 1900
 url: /cpp/system.drawing/stringformat/settabstops/
 ---
 ## StringFormat::SetTabStops method

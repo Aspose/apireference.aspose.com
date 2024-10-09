@@ -4,7 +4,7 @@ linktitle: STDIOStreamWrappingMode
 second_title: Aspose.Page for C++
 description: 'System::IO::STDIOStreamWrappingMode enum. Specifies the mode of I/O operations that wrappers will perform on std::iostreams-like streams in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/system.io/stdiostreamwrappingmode/
 ---
 ## STDIOStreamWrappingMode enum

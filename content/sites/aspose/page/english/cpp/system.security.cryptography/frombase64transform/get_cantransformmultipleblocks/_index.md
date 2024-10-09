@@ -4,7 +4,7 @@ linktitle: get_CanTransformMultipleBlocks
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::FromBase64Transform::get_CanTransformMultipleBlocks method. Gets a value indicating whether multiple blocks can be transformed in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.security.cryptography/frombase64transform/get_cantransformmultipleblocks/
 ---
 ## FromBase64Transform::get_CanTransformMultipleBlocks method

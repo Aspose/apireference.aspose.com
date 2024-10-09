@@ -4,7 +4,7 @@ linktitle: get_LocalEndpoint
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::get_LocalEndpoint method. Returns the underlying endpoint in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.net.sockets/tcplistener/get_localendpoint/
 ---
 ## TcpListener::get_LocalEndpoint method

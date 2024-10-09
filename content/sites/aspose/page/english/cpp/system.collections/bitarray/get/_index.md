@@ -4,7 +4,7 @@ linktitle: Get
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::Get method. Gets BitArray element in C++.'
 type: docs
-weight: 1700
+weight: 800
 url: /cpp/system.collections/bitarray/get/
 ---
 ## BitArray::Get method

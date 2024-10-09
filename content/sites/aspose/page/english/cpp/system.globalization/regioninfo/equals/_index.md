@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'How to use Equals method of System::Globalization::RegionInfo class in C++.'
 type: docs
-weight: 1600
+weight: 200
 url: /cpp/system.globalization/regioninfo/equals/
 ---
 ## RegionInfo::Equals method

@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::Add method. Adds element to the end of list in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/system.collections.generic/list/add/
 ---
 ## List::Add method

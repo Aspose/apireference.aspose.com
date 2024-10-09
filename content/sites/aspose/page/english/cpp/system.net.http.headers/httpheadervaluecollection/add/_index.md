@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection::Add method. Adds element into collection in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.net.http.headers/httpheadervaluecollection/add/
 ---
 ## HttpHeaderValueCollection::Add method

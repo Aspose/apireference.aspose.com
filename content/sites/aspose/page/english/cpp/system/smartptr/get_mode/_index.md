@@ -4,7 +4,7 @@ linktitle: get_Mode
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::get_Mode method. Gets pointer mode in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/system/smartptr/get_mode/
 ---
 ## SmartPtr::get_Mode method

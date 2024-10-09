@@ -4,7 +4,7 @@ linktitle: get_ValueAsInt
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_ValueAsInt method. When overridden in a derived class, gets the item''s value as an Int32 in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.xml.xpath/xpathitem/get_valueasint/
 ---
 ## XPathItem::get_ValueAsInt method

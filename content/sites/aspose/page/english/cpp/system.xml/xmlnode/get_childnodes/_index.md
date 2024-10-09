@@ -4,7 +4,7 @@ linktitle: get_ChildNodes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_ChildNodes method. Returns all the child nodes of the node in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.xml/xmlnode/get_childnodes/
 ---
 ## XmlNode::get_ChildNodes method

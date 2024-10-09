@@ -4,9 +4,33 @@ linktitle: ConvertTimeToUtc
 second_title: Aspose.Page for C++
 description: 'System::TimeZoneInfo::ConvertTimeToUtc method. Converts time to UTC-time in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system/timezoneinfo/converttimetoutc/
 ---
+## TimeZoneInfo::ConvertTimeToUtc(DateTime) method
+
+
+Converts time to UTC-time.
+
+```cpp
+static DateTime System::TimeZoneInfo::ConvertTimeToUtc(DateTime date_time)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| date_time | DateTime | Date and time to convert. |
+
+### ReturnValue
+
+Converted date and time.
+
+## See Also
+
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TimeZoneInfo::ConvertTimeToUtc(DateTime, const TimeZoneInfoPtr\&) method
 
 
@@ -30,30 +54,6 @@ Converted date and time.
 
 * Class [DateTime](../../datetime/)
 * Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## TimeZoneInfo::ConvertTimeToUtc(DateTime) method
-
-
-Converts time to UTC-time.
-
-```cpp
-static DateTime System::TimeZoneInfo::ConvertTimeToUtc(DateTime date_time)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| date_time | DateTime | Date and time to convert. |
-
-### ReturnValue
-
-Converted date and time.
-
-## See Also
-
-* Class [DateTime](../../datetime/)
 * Class [TimeZoneInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

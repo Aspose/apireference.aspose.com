@@ -4,7 +4,7 @@ linktitle: Ceiling
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Ceiling method. Returns the smallest integral value that is greater than or equal to the specified value in C++.'
 type: docs
-weight: 3400
+weight: 3300
 url: /cpp/system/decimal/ceiling/
 ---
 ## Decimal::Ceiling method

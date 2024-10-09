@@ -4,7 +4,7 @@ linktitle: MatchEvaluator
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::MatchEvaluator typedef. Delegate type to evaluate match in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/system.text.regularexpressions/matchevaluator/
 ---
 ## MatchEvaluator typedef

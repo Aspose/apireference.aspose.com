@@ -4,7 +4,7 @@ linktitle: GetBytes
 second_title: Aspose.Page for C++
 description: 'System::Decimal::GetBytes method. Convert the specified Decimal value to an array of bytes in C++.'
 type: docs
-weight: 4100
+weight: 3900
 url: /cpp/system/decimal/getbytes/
 ---
 ## Decimal::GetBytes method

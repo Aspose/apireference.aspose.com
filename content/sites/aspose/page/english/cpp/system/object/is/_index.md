@@ -4,7 +4,7 @@ linktitle: Is
 second_title: Aspose.Page for C++
 description: 'System::Object::Is method. Check if object represents an instance of type described by targetType. Analog of C# ''is'' operator in C++.'
 type: docs
-weight: 1800
+weight: 800
 url: /cpp/system/object/is/
 ---
 ## Object::Is method

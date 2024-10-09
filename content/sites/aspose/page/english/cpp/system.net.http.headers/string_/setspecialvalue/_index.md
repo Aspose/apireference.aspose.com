@@ -4,7 +4,7 @@ linktitle: SetSpecialValue
 second_title: Aspose.Page for C++
 description: 'How to use SetSpecialValue method of System::Net::Http::Headers::HttpHeaderValueCollection< System::String > class in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/system.net.http.headers/string_/setspecialvalue/
 ---
 ## String >::SetSpecialValue method

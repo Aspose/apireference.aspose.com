@@ -4,7 +4,7 @@ linktitle: BeginGetHostEntry
 second_title: Aspose.Page for C++
 description: 'System::Net::Dns::BeginGetHostEntry method. Initiates an asynchronous operation to create a new IPHostEntry-class instance using the specified string that contains a host name or IP address in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.net/dns/begingethostentry/
 ---
 ## Dns::BeginGetHostEntry(String, AsyncCallback, System::SharedPtr\<Object\>) method

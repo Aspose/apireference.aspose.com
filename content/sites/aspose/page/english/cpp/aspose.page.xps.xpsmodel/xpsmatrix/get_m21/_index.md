@@ -4,7 +4,7 @@ linktitle: get_M21
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix::get_M21 method. Gets the M21 element in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/get_m21/
 ---
 ## XpsMatrix::get_M21 method

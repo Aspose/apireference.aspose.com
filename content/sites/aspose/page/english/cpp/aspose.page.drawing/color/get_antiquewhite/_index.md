@@ -4,7 +4,7 @@ linktitle: get_AntiqueWhite
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_AntiqueWhite method. Gets a system-defined color that has an ARGB value of #FFFAEBD7 in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.page.drawing/color/get_antiquewhite/
 ---
 ## Color::get_AntiqueWhite method

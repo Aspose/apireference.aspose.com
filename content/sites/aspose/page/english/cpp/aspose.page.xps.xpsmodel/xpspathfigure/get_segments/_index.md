@@ -4,7 +4,7 @@ linktitle: get_Segments
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathFigure::get_Segments method. Return list of child path segments in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.page.xps.xpsmodel/xpspathfigure/get_segments/
 ---
 ## XpsPathFigure::get_Segments method

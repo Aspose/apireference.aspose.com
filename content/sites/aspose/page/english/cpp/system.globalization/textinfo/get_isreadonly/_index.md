@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::get_IsReadOnly method. Checks if format is read-only in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.globalization/textinfo/get_isreadonly/
 ---
 ## TextInfo::get_IsReadOnly method

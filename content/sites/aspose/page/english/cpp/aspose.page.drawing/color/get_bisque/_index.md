@@ -4,7 +4,7 @@ linktitle: get_Bisque
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Bisque method. Gets a system-defined color that has an ARGB value of #FFFFE4C4 in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.page.drawing/color/get_bisque/
 ---
 ## Color::get_Bisque method

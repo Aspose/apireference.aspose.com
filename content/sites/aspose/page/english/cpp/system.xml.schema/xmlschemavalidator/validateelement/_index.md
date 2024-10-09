@@ -4,7 +4,7 @@ linktitle: ValidateElement
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaValidator::ValidateElement method. Validates the element in the current context in C++.'
 type: docs
-weight: 1100
+weight: 1700
 url: /cpp/system.xml.schema/xmlschemavalidator/validateelement/
 ---
 ## XmlSchemaValidator::ValidateElement(const String\&, const String\&, const SharedPtr\<XmlSchemaInfo\>\&) method

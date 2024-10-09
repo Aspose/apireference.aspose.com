@@ -4,7 +4,7 @@ linktitle: DataEncodingUnknown
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Code::DataEncodingUnknown field. The string representation of the ''DataEncodingUnknown'' SOAP version 1.2 code in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.web.services/soap12/code/dataencodingunknown/
 ---
 ## DataEncodingUnknown field

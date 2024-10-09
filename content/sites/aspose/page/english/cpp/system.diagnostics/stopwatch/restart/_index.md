@@ -4,7 +4,7 @@ linktitle: Restart
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Stopwatch::Restart method. Sets measured interval to zero, then starts time measurement in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.diagnostics/stopwatch/restart/
 ---
 ## Stopwatch::Restart method

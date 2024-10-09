@@ -4,7 +4,7 @@ linktitle: set_Refer
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaKeyref::set_Refer method. Sets the name of the key that this constraint refers to in another simple or complex type in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml.schema/xmlschemakeyref/set_refer/
 ---
 ## XmlSchemaKeyref::set_Refer method

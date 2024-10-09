@@ -4,7 +4,7 @@ linktitle: MoveToParent
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::MoveToParent method. When overridden in a derived class, moves the XPathNavigator to the parent node of the current node in C++.'
 type: docs
-weight: 5000
+weight: 6300
 url: /cpp/system.xml.xpath/xpathnavigator/movetoparent/
 ---
 ## XPathNavigator::MoveToParent method

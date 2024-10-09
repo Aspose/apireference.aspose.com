@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Array::Contains method. Determines if the specified item is in the array in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system/array/contains/
 ---
 ## Array::Contains method

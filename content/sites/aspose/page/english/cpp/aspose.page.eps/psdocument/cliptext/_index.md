@@ -4,7 +4,7 @@ linktitle: ClipText
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::ClipText method. Adds clip from an outline of given text in given font in C++.'
 type: docs
-weight: 2700
+weight: 500
 url: /cpp/aspose.page.eps/psdocument/cliptext/
 ---
 ## PsDocument::ClipText method

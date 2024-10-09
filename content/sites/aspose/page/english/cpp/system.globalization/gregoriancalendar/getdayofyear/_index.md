@@ -4,7 +4,7 @@ linktitle: GetDayOfYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::GregorianCalendar::GetDayOfYear method. Gets day of year for the specified time point in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.globalization/gregoriancalendar/getdayofyear/
 ---
 ## GregorianCalendar::GetDayOfYear method

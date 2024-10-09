@@ -4,7 +4,7 @@ linktitle: WebServiceBindingAttribute
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::WebServiceBindingAttribute constructor. Constructs a new instance in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/system.web.services/webservicebindingattribute/webservicebindingattribute/
 ---
 ## WebServiceBindingAttribute::WebServiceBindingAttribute() constructor

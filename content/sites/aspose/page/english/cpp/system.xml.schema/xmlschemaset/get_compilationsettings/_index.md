@@ -4,7 +4,7 @@ linktitle: get_CompilationSettings
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::get_CompilationSettings method. Returns the XmlSchemaCompilationSettings for the XmlSchemaSet in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.xml.schema/xmlschemaset/get_compilationsettings/
 ---
 ## XmlSchemaSet::get_CompilationSettings method

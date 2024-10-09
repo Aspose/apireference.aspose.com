@@ -4,7 +4,7 @@ linktitle: VerifySignature
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::DSA::VerifySignature method. Verify DSA signature for the specified data in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.security.cryptography/dsa/verifysignature/
 ---
 ## DSA::VerifySignature method

@@ -4,7 +4,7 @@ linktitle: TicksPerMillisecond
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::TicksPerMillisecond field. The number of 100-nanoseconds intervals in a millisecond in C++.'
 type: docs
-weight: 5200
+weight: 5100
 url: /cpp/system/timespan/tickspermillisecond/
 ---
 ## TicksPerMillisecond field

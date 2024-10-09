@@ -4,7 +4,7 @@ linktitle: HexEscape
 second_title: Aspose.Page for C++
 description: 'System::Uri::HexEscape method. Returns a hexadecimal equivalent of the specified character in C++.'
 type: docs
-weight: 3400
+weight: 3900
 url: /cpp/system/uri/hexescape/
 ---
 ## Uri::HexEscape method

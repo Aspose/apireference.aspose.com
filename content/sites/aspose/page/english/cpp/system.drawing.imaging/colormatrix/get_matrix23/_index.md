@@ -4,7 +4,7 @@ linktitle: get_Matrix23
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::get_Matrix23 method. Returns a value in 2-nd row and 3-rd column in C++.'
 type: docs
-weight: 3000
+weight: 1500
 url: /cpp/system.drawing.imaging/colormatrix/get_matrix23/
 ---
 ## ColorMatrix::get_Matrix23 method

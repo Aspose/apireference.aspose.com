@@ -4,7 +4,7 @@ linktitle: get_IetfLanguageTag
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_IetfLanguageTag method. Gets the RFC 4646 name for a language in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.globalization/cultureinfo/get_ietflanguagetag/
 ---
 ## CultureInfo::get_IetfLanguageTag method

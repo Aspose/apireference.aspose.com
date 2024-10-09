@@ -4,7 +4,7 @@ linktitle: get_NoDelay
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::get_NoDelay method. Gets a value that indicates if the current instance is using the Nagle algorithm in C++.'
 type: docs
-weight: 1700
+weight: 1200
 url: /cpp/system.net.sockets/tcpclient/get_nodelay/
 ---
 ## TcpClient::get_NoDelay method

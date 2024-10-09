@@ -4,7 +4,7 @@ linktitle: GetTempFileNameSafe
 second_title: Aspose.Page for C++
 description: 'System::IO::Path::GetTempFileNameSafe method. Creates a new file with a unique name and returns a full path to it. Is a synonym of GetTempFileName_() method in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.io/path/gettempfilenamesafe/
 ---
 ## Path::GetTempFileNameSafe method

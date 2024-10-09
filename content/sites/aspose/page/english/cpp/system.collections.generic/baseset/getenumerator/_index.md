@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseSet::GetEnumerator method. Creates enumerator in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.collections.generic/baseset/getenumerator/
 ---
 ## BaseSet::GetEnumerator method

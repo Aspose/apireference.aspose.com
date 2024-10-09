@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerable::begin method. Gets iterator pointing to the first element (if any) of the collection. This iterator can''t be used to change a referenced object because GetEnumerator() returns a copy-object of T in C++.'
 type: docs
-weight: 2200
+weight: 100
 url: /cpp/system.collections.generic/ienumerable/begin/
 ---
 ## IEnumerable::begin() method

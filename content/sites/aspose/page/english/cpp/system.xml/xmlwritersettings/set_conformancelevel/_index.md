@@ -4,7 +4,7 @@ linktitle: set_ConformanceLevel
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_ConformanceLevel method. Sets the level of conformance that the XML writer checks the XML output for in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/system.xml/xmlwritersettings/set_conformancelevel/
 ---
 ## XmlWriterSettings::set_ConformanceLevel method

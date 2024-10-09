@@ -4,7 +4,7 @@ linktitle: unbox
 second_title: Aspose.Page for C++
 description: 'System::BoxedValue::unbox method. Unboxes the value represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system/boxedvalue/unbox/
 ---
 ## BoxedValue::unbox method

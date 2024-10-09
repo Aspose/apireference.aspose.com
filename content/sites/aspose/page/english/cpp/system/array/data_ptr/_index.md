@@ -4,7 +4,7 @@ linktitle: data_ptr
 second_title: Aspose.Page for C++
 description: 'System::Array::data_ptr method. Returns a raw pointer to the beginning of the memory buffer where the array elements are stored in C++.'
 type: docs
-weight: 3100
+weight: 1400
 url: /cpp/system/array/data_ptr/
 ---
 ## Array::data_ptr() method

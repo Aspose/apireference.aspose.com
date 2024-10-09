@@ -4,7 +4,7 @@ linktitle: GetLastAccessTime
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::GetLastAccessTime method. Returns the last access time of the specified entity as local time in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.io/directory/getlastaccesstime/
 ---
 ## Directory::GetLastAccessTime method

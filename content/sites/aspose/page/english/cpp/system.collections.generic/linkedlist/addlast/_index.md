@@ -2,11 +2,32 @@
 title: System::Collections::Generic::LinkedList::AddLast method
 linktitle: AddLast
 second_title: Aspose.Page for C++
-description: 'System::Collections::Generic::LinkedList::AddLast method. Adds element to the end of the list in C++.'
+description: 'System::Collections::Generic::LinkedList::AddLast method. Adds newNode to the end of the list in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.collections.generic/linkedlist/addlast/
 ---
+## LinkedList::AddLast(const SharedPtr\<LinkedListNode\<T\>\>\&) method
+
+
+Adds **newNode** to the end of the list.
+
+```cpp
+void System::Collections::Generic::LinkedList<T>::AddLast(const SharedPtr<LinkedListNode<T>> &newNode)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newNode | const SharedPtr\<LinkedListNode\<T\>\>\& | New node to add. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LinkedListNode](../../linkedlistnode/)
+* Class [LinkedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
 ## LinkedList::AddLast(const T\&) method
 
 
@@ -24,27 +45,6 @@ SharedPtr<LinkedListNode<T>> System::Collections::Generic::LinkedList<T>::AddLas
 ### ReturnValue
 
 New node.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [LinkedListNode](../../linkedlistnode/)
-* Class [LinkedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
-## LinkedList::AddLast(const SharedPtr\<LinkedListNode\<T\>\>\&) method
-
-
-Adds **newNode** to the end of the list.
-
-```cpp
-void System::Collections::Generic::LinkedList<T>::AddLast(const SharedPtr<LinkedListNode<T>> &newNode)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newNode | const SharedPtr\<LinkedListNode\<T\>\>\& | New node to add. |
 
 ## See Also
 

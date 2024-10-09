@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::CopyTo method. Copies data to existing array elements in C++.'
 type: docs
-weight: 1200
+weight: 600
 url: /cpp/system.collections/bitarray/copyto/
 ---
 ## BitArray::CopyTo method

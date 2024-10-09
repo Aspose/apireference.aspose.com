@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::Clone method. Clones this option instance. The shortcut to the cloneing constructor in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/clone/
 ---
 ## JobDeviceLanguageOption::Clone method

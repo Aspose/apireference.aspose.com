@@ -4,7 +4,7 @@ linktitle: set_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlSecureResolver::set_Credentials method. Sets credentials used to authenticate web requests in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.xml/xmlsecureresolver/set_credentials/
 ---
 ## XmlSecureResolver::set_Credentials method

@@ -4,7 +4,7 @@ linktitle: Compare
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Compare method. Determines if the value represented by the first Decimal object is less than, equal to or greater than the value represented by the second Decimal object in C++.'
 type: docs
-weight: 3600
+weight: 3400
 url: /cpp/system/decimal/compare/
 ---
 ## Decimal::Compare method

@@ -4,7 +4,7 @@ linktitle: BaseDictionary
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::BaseDictionary constructor. Creates empty data structure in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.collections.generic/basedictionary/basedictionary/
 ---
 ## BaseDictionary::BaseDictionary() constructor
@@ -21,26 +21,23 @@ System::Collections::Generic::BaseDictionary<Map>::BaseDictionary()
 * Class [BaseDictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## BaseDictionary::BaseDictionary(int, const Args\&...) constructor
+## BaseDictionary::BaseDictionary(BaseType *) constructor
 
 
-Forwarding constructor to push arguments into underlying map constructor.
+Copying constructor.
 
 ```cpp
-template<class...> System::Collections::Generic::BaseDictionary<Map>::BaseDictionary(int, const Args &... args)
+System::Collections::Generic::BaseDictionary<Map>::BaseDictionary(BaseType *src)
 ```
 
 
-| Parameter | Description |
-| --- | --- |
-| Args | Types of arguments to forward to map. |
-
 | Parameter | Type | Description |
 | --- | --- | --- |
-| args | int | Arguments to forward to underlying map. |
+| src | BaseType * | [Object](../../../system/object/) to copy data from. |
 
 ## See Also
 
+* Typedef [BaseType](../basetype/)
 * Class [BaseDictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -69,23 +66,26 @@ template<class...> System::Collections::Generic::BaseDictionary<Map>::BaseDictio
 * Class [BaseDictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## BaseDictionary::BaseDictionary(BaseType *) constructor
+## BaseDictionary::BaseDictionary(int, const Args\&...) constructor
 
 
-Copying constructor.
+Forwarding constructor to push arguments into underlying map constructor.
 
 ```cpp
-System::Collections::Generic::BaseDictionary<Map>::BaseDictionary(BaseType *src)
+template<class...> System::Collections::Generic::BaseDictionary<Map>::BaseDictionary(int, const Args &... args)
 ```
 
 
+| Parameter | Description |
+| --- | --- |
+| Args | Types of arguments to forward to map. |
+
 | Parameter | Type | Description |
 | --- | --- | --- |
-| src | BaseType * | [Object](../../../system/object/) to copy data from. |
+| args | int | Arguments to forward to underlying map. |
 
 ## See Also
 
-* Typedef [BaseType](../basetype/)
 * Class [BaseDictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

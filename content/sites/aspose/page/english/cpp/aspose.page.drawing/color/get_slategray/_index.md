@@ -4,7 +4,7 @@ linktitle: get_SlateGray
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_SlateGray method. Gets a system-defined color that has an ARGB value of #FF708090 in C++.'
 type: docs
-weight: 12700
+weight: 12800
 url: /cpp/aspose.page.drawing/color/get_slategray/
 ---
 ## Color::get_SlateGray method

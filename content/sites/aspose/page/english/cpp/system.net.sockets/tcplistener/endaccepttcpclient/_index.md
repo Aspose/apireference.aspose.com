@@ -4,7 +4,7 @@ linktitle: EndAcceptTcpClient
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::EndAcceptTcpClient method. Waits until the specified asynchronous accept operation completes in C++.'
 type: docs
-weight: 1500
+weight: 800
 url: /cpp/system.net.sockets/tcplistener/endaccepttcpclient/
 ---
 ## TcpListener::EndAcceptTcpClient method

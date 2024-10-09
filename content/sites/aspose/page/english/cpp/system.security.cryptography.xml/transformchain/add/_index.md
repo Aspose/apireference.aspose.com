@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'How to use Add method of System::Security::Cryptography::Xml::TransformChain class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.security.cryptography.xml/transformchain/add/
 ---
 ## TransformChain::Add method

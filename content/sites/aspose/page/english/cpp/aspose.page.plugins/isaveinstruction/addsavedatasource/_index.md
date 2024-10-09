@@ -4,7 +4,7 @@ linktitle: AddSaveDataSource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::ISaveInstruction::AddSaveDataSource method. Adds new result save target in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.plugins/isaveinstruction/addsavedatasource/
 ---
 ## ISaveInstruction::AddSaveDataSource method

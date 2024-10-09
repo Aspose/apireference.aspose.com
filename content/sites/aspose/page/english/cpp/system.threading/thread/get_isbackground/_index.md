@@ -4,7 +4,7 @@ linktitle: get_IsBackground
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::get_IsBackground method. Checks whether thread is background in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.threading/thread/get_isbackground/
 ---
 ## Thread::get_IsBackground method

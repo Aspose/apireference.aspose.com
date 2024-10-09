@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplValueType::idx_get method. Gets the element at the specified index in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.collections/ilistimplvaluetype/idx_get/
 ---
 ## IListImplValueType::idx_get method

@@ -4,7 +4,7 @@ linktitle: GetType
 second_title: Aspose.Page for C++
 description: 'System::DefaultBoxedValue::GetType method. Gets actual type of object in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system/defaultboxedvalue/gettype/
 ---
 ## DefaultBoxedValue::GetType method

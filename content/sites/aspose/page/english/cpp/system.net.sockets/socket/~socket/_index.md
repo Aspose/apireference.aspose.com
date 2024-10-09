@@ -4,7 +4,7 @@ linktitle: ~Socket
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::~Socket method. Destructs the current instance in C++.'
 type: docs
-weight: 6100
+weight: 500
 url: /cpp/system.net.sockets/socket/~socket/
 ---
 ## Socket::~Socket method

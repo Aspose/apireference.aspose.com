@@ -4,7 +4,7 @@ linktitle: ToUInt64
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToUInt64 method. Converts the String to a UInt64 equivalent in C++.'
 type: docs
-weight: 2900
+weight: 2800
 url: /cpp/system.xml/xmlconvert/touint64/
 ---
 ## XmlConvert::ToUInt64 method

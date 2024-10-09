@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlProcessingInstruction::get_Data method. Returns the content of the processing instruction, excluding the target in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.xml/xmlprocessinginstruction/get_data/
 ---
 ## XmlProcessingInstruction::get_Data method

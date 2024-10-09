@@ -4,7 +4,7 @@ linktitle: Is
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::Is method. Checks if pointed object is of specific type or its child type. Follows C# ''is'' semantics in C++.'
 type: docs
-weight: 2400
+weight: 1900
 url: /cpp/system/smartptr/is/
 ---
 ## SmartPtr::Is method

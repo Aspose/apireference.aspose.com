@@ -4,7 +4,7 @@ linktitle: operator PointF
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Point::operator PointF method. Constructs an instance of PointF object and initializes it with X and Y coordinates values of the current Point object in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.drawing/point/operatorpointf/
 ---
 ## Point::operator PointF method

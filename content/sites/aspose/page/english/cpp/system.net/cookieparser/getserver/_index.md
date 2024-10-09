@@ -4,7 +4,7 @@ linktitle: GetServer
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieParser::GetServer method. Gets the server cookie in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.net/cookieparser/getserver/
 ---
 ## CookieParser::GetServer method

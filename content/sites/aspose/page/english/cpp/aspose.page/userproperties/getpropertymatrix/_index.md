@@ -4,7 +4,7 @@ linktitle: GetPropertyMatrix
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertyMatrix method. Gets matrix property value in C++.'
 type: docs
-weight: 1500
+weight: 800
 url: /cpp/aspose.page/userproperties/getpropertymatrix/
 ---
 ## UserProperties::GetPropertyMatrix(System::String) method

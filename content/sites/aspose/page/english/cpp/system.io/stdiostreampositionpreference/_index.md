@@ -4,7 +4,7 @@ linktitle: STDIOStreamPositionPreference
 second_title: Aspose.Page for C++
 description: 'System::IO::STDIOStreamPositionPreference enum. Determines which position in the stream is preferable as a common read and write position when std::basic_iostream and its descendants will have different read and write positions at the time of wrapper creation in C++.'
 type: docs
-weight: 3700
+weight: 3600
 url: /cpp/system.io/stdiostreampositionpreference/
 ---
 ## STDIOStreamPositionPreference enum

@@ -4,7 +4,7 @@ linktitle: KVPair
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::KVPair typedef. Key-value pair type in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/system.collections.generic/basedictionary/kvpair/
 ---
 ## KVPair typedef

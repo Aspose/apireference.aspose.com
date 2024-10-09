@@ -4,7 +4,7 @@ linktitle: SetBlendTriangularShape
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::SetBlendTriangularShape method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/setblendtriangularshape/
 ---
 ## LinearGradientBrush::SetBlendTriangularShape method

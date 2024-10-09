@@ -4,7 +4,7 @@ linktitle: set_Referrer
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_Referrer method. Sets a value of the ''Referer'' header in C++.'
 type: docs
-weight: 2900
+weight: 4700
 url: /cpp/system.net.http.headers/httprequestheaders/set_referrer/
 ---
 ## HttpRequestHeaders::set_Referrer method

@@ -4,7 +4,7 @@ linktitle: get_DocumentType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDocument::get_DocumentType method. Returns the node containing the DOCTYPE declaration in C++.'
 type: docs
-weight: 200
+weight: 1900
 url: /cpp/system.xml/xmldocument/get_documenttype/
 ---
 ## XmlDocument::get_DocumentType method

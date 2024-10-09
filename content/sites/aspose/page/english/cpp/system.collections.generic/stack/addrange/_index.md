@@ -4,7 +4,7 @@ linktitle: AddRange
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::AddRange method. Puts elements into stack in C++.'
 type: docs
-weight: 1100
+weight: 200
 url: /cpp/system.collections.generic/stack/addrange/
 ---
 ## Stack::AddRange method

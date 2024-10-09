@@ -4,7 +4,7 @@ linktitle: GetDigestedOutput
 second_title: Aspose.Page for C++
 description: 'How to use GetDigestedOutput method of System::Security::Cryptography::Xml::Transform class in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/system.security.cryptography.xml/transform/getdigestedoutput/
 ---
 ## Transform::GetDigestedOutput method

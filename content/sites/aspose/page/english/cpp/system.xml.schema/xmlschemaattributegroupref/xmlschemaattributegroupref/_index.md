@@ -4,7 +4,7 @@ linktitle: XmlSchemaAttributeGroupRef
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttributeGroupRef::XmlSchemaAttributeGroupRef constructor. Initializes a new instance of the XmlSchemaAttributeGroupRef class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaattributegroupref/xmlschemaattributegroupref/
 ---
 ## XmlSchemaAttributeGroupRef::XmlSchemaAttributeGroupRef constructor

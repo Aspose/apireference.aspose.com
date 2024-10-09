@@ -4,7 +4,7 @@ linktitle: set_RequestElementName
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_RequestElementName method. Sets the name of the XML element associated with the SOAP request, which is defined in a service description as an operation in C++.'
 type: docs
-weight: 1000
+weight: 1500
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_requestelementname/
 ---
 ## SoapDocumentMethodAttribute::set_RequestElementName method

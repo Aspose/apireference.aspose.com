@@ -4,7 +4,7 @@ linktitle: PhotographicMatte
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::PhotographicMatte field. Specifies matte photographic media in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/photographicmatte/
 ---
 ## PhotographicMatte field

@@ -4,7 +4,7 @@ linktitle: const_reverse_iterator
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::ObjectModel::Collection::const_reverse_iterator typedef of System::Collections::ObjectModel::Collection class in C++.'
 type: docs
-weight: 2600
+weight: 2500
 url: /cpp/system.collections.objectmodel/collection/const_reverse_iterator/
 ---
 ## const_reverse_iterator typedef

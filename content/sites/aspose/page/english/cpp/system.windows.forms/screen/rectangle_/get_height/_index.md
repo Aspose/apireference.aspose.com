@@ -4,7 +4,7 @@ linktitle: get_Height
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Screen::Rectangle_::get_Height method. Gets verticalal size in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.windows.forms/screen/rectangle_/get_height/
 ---
 ## Rectangle_::get_Height method

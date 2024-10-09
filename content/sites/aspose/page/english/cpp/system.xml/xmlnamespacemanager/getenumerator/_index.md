@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNamespaceManager::GetEnumerator method. Returns an enumerator to use to iterate through the namespaces in the XmlNamespaceManager in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.xml/xmlnamespacemanager/getenumerator/
 ---
 ## XmlNamespaceManager::GetEnumerator method

@@ -4,7 +4,7 @@ linktitle: set_RoutingStyle
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentServiceAttribute::set_RoutingStyle method. Sets a value that shows how the SOAP messages are routed to the service in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_routingstyle/
 ---
 ## SoapDocumentServiceAttribute::set_RoutingStyle method

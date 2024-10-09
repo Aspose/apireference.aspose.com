@@ -4,7 +4,7 @@ linktitle: get_Attributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchema::get_Attributes method. Returns the post-schema-compilation value for all the attributes in the schema in C++.'
 type: docs
-weight: 1600
+weight: 500
 url: /cpp/system.xml.schema/xmlschema/get_attributes/
 ---
 ## XmlSchema::get_Attributes method

@@ -4,7 +4,7 @@ linktitle: set_SignatureMethod
 second_title: Aspose.Page for C++
 description: 'How to use set_SignatureMethod method of System::Security::Cryptography::Xml::SignedInfo class in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.security.cryptography.xml/signedinfo/set_signaturemethod/
 ---
 ## SignedInfo::set_SignatureMethod method

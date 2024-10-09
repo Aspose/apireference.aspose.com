@@ -4,7 +4,7 @@ linktitle: Roll24Inch
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::Roll24Inch field. Roll 24 inch in C++.'
 type: docs
-weight: 15500
+weight: 17300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/roll24inch/
 ---
 ## Roll24Inch field

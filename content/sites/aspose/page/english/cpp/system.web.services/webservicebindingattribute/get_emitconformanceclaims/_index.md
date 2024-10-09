@@ -4,7 +4,7 @@ linktitle: get_EmitConformanceClaims
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::get_EmitConformanceClaims method. Gets a value that indicates if the binding emits conformance claims in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.web.services/webservicebindingattribute/get_emitconformanceclaims/
 ---
 ## WebServiceBindingAttribute::get_EmitConformanceClaims method

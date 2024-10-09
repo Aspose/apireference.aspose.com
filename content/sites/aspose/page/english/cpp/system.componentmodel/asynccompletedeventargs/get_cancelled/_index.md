@@ -4,7 +4,7 @@ linktitle: get_Cancelled
 second_title: Aspose.Page for C++
 description: 'System::ComponentModel::AsyncCompletedEventArgs::get_Cancelled method. Gets a value indicating whether an asynchronous operation has been canceled. true if the background operation has been canceled; otherwise false. The default is false in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.componentmodel/asynccompletedeventargs/get_cancelled/
 ---
 ## AsyncCompletedEventArgs::get_Cancelled method

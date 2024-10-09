@@ -2,38 +2,11 @@
 title: System::MakeArray method
 linktitle: MakeArray
 second_title: Aspose.Page for C++
-description: 'System::MakeArray method. A factory function that constructs a new Array object, fills it with the elements from the specified initialization list and returns a smart pointer pointing to the Array object in C++.'
+description: 'System::MakeArray method. A factory function that constructs a new Array object passing the specified arguments to its constructor in C++.'
 type: docs
-weight: 12700
+weight: 20800
 url: /cpp/system/makearray/
 ---
-## System::MakeArray(std::initializer_list\<T\>) method
-
-
-A factory function that constructs a new [Array](../array/) object, fills it with the elements from the specified initialization list and returns a smart pointer pointing to the [Array](../array/) object.
-
-```cpp
-template<typename T> ArrayPtr<T> System::MakeArray(std::initializer_list<T> init)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | The type of elements of the [Array](../array/) object the function constructs |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| init | std::initializer_list\<T\> | The initialization list containing the elements to fill the array with |
-
-### ReturnValue
-
-A smart pointer pointing to the constructed [Array](../array/) object
-
-## See Also
-
-* Typedef [ArrayPtr](../arrayptr/)
-* Namespace [System](../)
-* Library [Aspose.Page for C++](../../)
 ## System::MakeArray(Args\&&...) method
 
 
@@ -80,6 +53,33 @@ template<class T,class Integral,class...> std::enable_if<std::is_integral<Integr
 | --- | --- | --- |
 | size | Integral | Size of the array being created. |
 | args | Args\&&... | The arguments that are passed to the constructor of the [Array](../array/) object being constructed |
+
+### ReturnValue
+
+A smart pointer pointing to the constructed [Array](../array/) object
+
+## See Also
+
+* Typedef [ArrayPtr](../arrayptr/)
+* Namespace [System](../)
+* Library [Aspose.Page for C++](../../)
+## System::MakeArray(std::initializer_list\<T\>) method
+
+
+A factory function that constructs a new [Array](../array/) object, fills it with the elements from the specified initialization list and returns a smart pointer pointing to the [Array](../array/) object.
+
+```cpp
+template<typename T> ArrayPtr<T> System::MakeArray(std::initializer_list<T> init)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | The type of elements of the [Array](../array/) object the function constructs |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| init | std::initializer_list\<T\> | The initialization list containing the elements to fill the array with |
 
 ### ReturnValue
 

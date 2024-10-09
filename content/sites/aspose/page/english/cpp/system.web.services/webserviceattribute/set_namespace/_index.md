@@ -4,7 +4,7 @@ linktitle: set_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceAttribute::set_Namespace method. Sets the default namespace to use for the XML Web service in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.web.services/webserviceattribute/set_namespace/
 ---
 ## WebServiceAttribute::set_Namespace method

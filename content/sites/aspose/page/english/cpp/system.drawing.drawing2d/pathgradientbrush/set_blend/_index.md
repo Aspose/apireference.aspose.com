@@ -4,7 +4,7 @@ linktitle: set_Blend
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::set_Blend method. Sets a blend that specifies factors and positions of base colors for this brush in C++.'
 type: docs
-weight: 2200
+weight: 1600
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_blend/
 ---
 ## PathGradientBrush::set_Blend method

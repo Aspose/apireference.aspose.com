@@ -4,7 +4,7 @@ linktitle: get_CurrentCulture
 second_title: Aspose.Page for C++
 description: 'System::StringComparer::get_CurrentCulture method. Current culture comparer singleton in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system/stringcomparer/get_currentculture/
 ---
 ## StringComparer::get_CurrentCulture method

@@ -2,11 +2,46 @@
 title: System::IO::BasicSystemIStreamWrapper::BasicSystemIStreamWrapper constructor
 linktitle: BasicSystemIStreamWrapper
 second_title: Aspose.Page for C++
-description: 'System::IO::BasicSystemIStreamWrapper::BasicSystemIStreamWrapper constructor. Constructs a new instance of the BasicSystemIStreamWrapper in C++.'
+description: 'System::IO::BasicSystemIStreamWrapper::BasicSystemIStreamWrapper constructor. Move constructor in C++.'
 type: docs
 weight: 100
 url: /cpp/system.io/basicsystemistreamwrapper/basicsystemistreamwrapper/
 ---
+## BasicSystemIStreamWrapper::BasicSystemIStreamWrapper(BasicSystemIStreamWrapper\&&) constructor
+
+
+Move constructor.
+
+```cpp
+System::IO::BasicSystemIStreamWrapper<Elem, Traits>::BasicSystemIStreamWrapper(BasicSystemIStreamWrapper &&right) noexcept
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| right | BasicSystemIStreamWrapper\&& | [Object](../../../system/object/) to be move |
+
+## See Also
+
+* Class [BasicSystemIStreamWrapper](../)
+* Class [BasicSystemIStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## BasicSystemIStreamWrapper::BasicSystemIStreamWrapper(const BasicSystemIStreamWrapper\&) constructor
+
+
+Copy constructor. Deleted.
+
+```cpp
+System::IO::BasicSystemIStreamWrapper<Elem, Traits>::BasicSystemIStreamWrapper(const BasicSystemIStreamWrapper &)=delete
+```
+
+## See Also
+
+* Class [BasicSystemIStreamWrapper](../)
+* Class [BasicSystemIStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
 ## BasicSystemIStreamWrapper::BasicSystemIStreamWrapper(SharedPtr\<Stream\>, SystemIOStreamWrappingMode) constructor
 
 
@@ -27,41 +62,6 @@ System::IO::BasicSystemIStreamWrapper<Elem, Traits>::BasicSystemIStreamWrapper(S
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stream](../../stream/)
 * Enum [SystemIOStreamWrappingMode](../../systemiostreamwrappingmode/)
-* Class [BasicSystemIStreamWrapper](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## BasicSystemIStreamWrapper::BasicSystemIStreamWrapper(const BasicSystemIStreamWrapper\&) constructor
-
-
-Copy constructor. Deleted.
-
-```cpp
-System::IO::BasicSystemIStreamWrapper<Elem, Traits>::BasicSystemIStreamWrapper(const BasicSystemIStreamWrapper &)=delete
-```
-
-## See Also
-
-* Class [BasicSystemIStreamWrapper](../)
-* Class [BasicSystemIStreamWrapper](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
-## BasicSystemIStreamWrapper::BasicSystemIStreamWrapper(BasicSystemIStreamWrapper\&&) constructor
-
-
-Move constructor.
-
-```cpp
-System::IO::BasicSystemIStreamWrapper<Elem, Traits>::BasicSystemIStreamWrapper(BasicSystemIStreamWrapper &&right) noexcept
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| right | BasicSystemIStreamWrapper\&& | [Object](../../../system/object/) to be move |
-
-## See Also
-
-* Class [BasicSystemIStreamWrapper](../)
 * Class [BasicSystemIStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.Page for C++](../../../)

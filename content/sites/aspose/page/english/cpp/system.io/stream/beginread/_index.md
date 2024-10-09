@@ -4,7 +4,7 @@ linktitle: BeginRead
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::BeginRead method. Initiates an asynchronous read operation in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/system.io/stream/beginread/
 ---
 ## Stream::BeginRead method

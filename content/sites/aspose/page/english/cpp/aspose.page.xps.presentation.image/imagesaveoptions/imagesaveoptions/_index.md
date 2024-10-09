@@ -4,7 +4,7 @@ linktitle: ImageSaveOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::ImageSaveOptions constructor. Creates new instance of options in C++.'
 type: docs
-weight: 1600
+weight: 100
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions::ImageSaveOptions constructor

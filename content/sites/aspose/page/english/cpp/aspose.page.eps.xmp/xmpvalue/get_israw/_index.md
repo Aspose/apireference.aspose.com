@@ -4,7 +4,7 @@ linktitle: get_IsRaw
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::get_IsRaw method. Value is unsupported/unknown and raw XML code is provided in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.page.eps.xmp/xmpvalue/get_israw/
 ---
 ## XmpValue::get_IsRaw method

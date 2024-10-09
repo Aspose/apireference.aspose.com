@@ -4,7 +4,7 @@ linktitle: TransformFinalBlock
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::HashAlgorithm::TransformFinalBlock method. Processes last block of data and calculates hash in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system.security.cryptography/hashalgorithm/transformfinalblock/
 ---
 ## HashAlgorithm::TransformFinalBlock method

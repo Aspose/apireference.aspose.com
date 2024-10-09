@@ -4,7 +4,7 @@ linktitle: DomainAttributeName
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::DomainAttributeName field. The ''Domain'' attribute''s name in C++.'
 type: docs
-weight: 4800
+weight: 4600
 url: /cpp/system.net/cookie/domainattributename/
 ---
 ## DomainAttributeName field

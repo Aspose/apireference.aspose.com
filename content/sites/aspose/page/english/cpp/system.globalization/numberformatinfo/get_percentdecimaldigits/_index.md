@@ -4,7 +4,7 @@ linktitle: get_PercentDecimalDigits
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_PercentDecimalDigits method. Gets number of decimal places in percent values in C++.'
 type: docs
-weight: 4200
+weight: 2100
 url: /cpp/system.globalization/numberformatinfo/get_percentdecimaldigits/
 ---
 ## NumberFormatInfo::get_PercentDecimalDigits method

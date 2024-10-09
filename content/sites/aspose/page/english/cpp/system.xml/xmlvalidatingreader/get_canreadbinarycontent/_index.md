@@ -4,7 +4,7 @@ linktitle: get_CanReadBinaryContent
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlValidatingReader::get_CanReadBinaryContent method. Returns a value indicating whether the XmlValidatingReader implements the binary content read methods in C++.'
 type: docs
-weight: 2000
+weight: 500
 url: /cpp/system.xml/xmlvalidatingreader/get_canreadbinarycontent/
 ---
 ## XmlValidatingReader::get_CanReadBinaryContent method

@@ -4,7 +4,7 @@ linktitle: get_shared
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::get_shared method. Gets pointed object, but asserts that pointer is in shared mode in C++.'
 type: docs
-weight: 700
+weight: 1200
 url: /cpp/system/smartptr/get_shared/
 ---
 ## SmartPtr::get_shared method

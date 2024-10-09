@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::ValueType typedef. Value type in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/system.collections.generic/stack/valuetype/
 ---
 ## ValueType typedef

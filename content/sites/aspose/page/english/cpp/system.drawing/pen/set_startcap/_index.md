@@ -4,7 +4,7 @@ linktitle: set_StartCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_StartCap method. Sets the starting line cap of the current Pen object in C++.'
 type: docs
-weight: 700
+weight: 3600
 url: /cpp/system.drawing/pen/set_startcap/
 ---
 ## Pen::set_StartCap method

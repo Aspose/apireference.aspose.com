@@ -4,7 +4,7 @@ linktitle: get_HttpOnly
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_HttpOnly method. Gets the ''HttpOnly'' attribute''s value in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.net/cookie/get_httponly/
 ---
 ## Cookie::get_HttpOnly method

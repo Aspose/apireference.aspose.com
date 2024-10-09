@@ -4,7 +4,7 @@ linktitle: get_Date
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_Date method. Gets a value of the ''Date'' header in C++.'
 type: docs
-weight: 3700
+weight: 1100
 url: /cpp/system.net.http.headers/httprequestheaders/get_date/
 ---
 ## HttpRequestHeaders::get_Date method

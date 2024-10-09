@@ -4,7 +4,7 @@ linktitle: get_StrokeEndLineCap
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath::get_StrokeEndLineCap method. Returns/sets the value defining the shape of the end of the last dash in a stroke in C++.'
 type: docs
-weight: 1500
+weight: 800
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/get_strokeendlinecap/
 ---
 ## XpsPath::get_StrokeEndLineCap method

@@ -4,7 +4,7 @@ linktitle: GetOutput
 second_title: Aspose.Page for C++
 description: 'How to use GetOutput method of System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform class in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.security.cryptography.xml/xmldsigenvelopedsignaturetransform/getoutput/
 ---
 ## XmlDsigEnvelopedSignatureTransform::GetOutput() method

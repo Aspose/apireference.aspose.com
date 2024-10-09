@@ -4,7 +4,7 @@ linktitle: get_LightSteelBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LightSteelBlue method. Gets a system-defined color that has an ARGB value of #FFB0C4DE in C++.'
 type: docs
-weight: 7600
+weight: 7700
 url: /cpp/aspose.page.drawing/color/get_lightsteelblue/
 ---
 ## Color::get_LightSteelBlue method

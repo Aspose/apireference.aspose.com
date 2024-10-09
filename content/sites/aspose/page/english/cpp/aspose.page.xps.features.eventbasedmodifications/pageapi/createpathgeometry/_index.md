@@ -2,37 +2,11 @@
 title: Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry method
 linktitle: CreatePathGeometry
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry method. Creates a new path geometry specified with abbreviated form in C++.'
+description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry method. Creates a new path geometry in C++.'
 type: docs
-weight: 2200
+weight: 1600
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpathgeometry/
 ---
-## PageAPI::CreatePathGeometry(System::String) method
-
-
-Creates a new path geometry specified with abbreviated form.
-
-```cpp
-System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry(System::String abbreviatedGeometry)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| abbreviatedGeometry | System::String | Abbreviated form of path geometry. |
-
-### ReturnValue
-
-New path geometry.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XpsPathGeometry](../../../aspose.page.xps.xpsmodel/xpspathgeometry/)
-* Class [String](../../../system/string/)
-* Class [PageAPI](../)
-* Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
-* Library [Aspose.Page for C++](../../../)
 ## PageAPI::CreatePathGeometry() method
 
 
@@ -82,6 +56,32 @@ New path geometry.
 * Class [XpsPathGeometry](../../../aspose.page.xps.xpsmodel/xpspathgeometry/)
 * Class [List](../../../system.collections.generic/list/)
 * Class [XpsPathFigure](../../../aspose.page.xps.xpsmodel/xpspathfigure/)
+* Class [PageAPI](../)
+* Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
+* Library [Aspose.Page for C++](../../../)
+## PageAPI::CreatePathGeometry(System::String) method
+
+
+Creates a new path geometry specified with abbreviated form.
+
+```cpp
+System::SharedPtr<Aspose::Page::XPS::XpsModel::XpsPathGeometry> Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathGeometry(System::String abbreviatedGeometry)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| abbreviatedGeometry | System::String | Abbreviated form of path geometry. |
+
+### ReturnValue
+
+New path geometry.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XpsPathGeometry](../../../aspose.page.xps.xpsmodel/xpspathgeometry/)
+* Class [String](../../../system/string/)
 * Class [PageAPI](../)
 * Namespace [Aspose::Page::XPS::Features::EventBasedModifications](../../)
 * Library [Aspose.Page for C++](../../../)

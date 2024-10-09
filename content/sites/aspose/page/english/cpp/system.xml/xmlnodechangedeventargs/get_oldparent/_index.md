@@ -4,7 +4,7 @@ linktitle: get_OldParent
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeChangedEventArgs::get_OldParent method. Returns the value of the XmlNode::get_ParentNode before the operation began in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.xml/xmlnodechangedeventargs/get_oldparent/
 ---
 ## XmlNodeChangedEventArgs::get_OldParent method

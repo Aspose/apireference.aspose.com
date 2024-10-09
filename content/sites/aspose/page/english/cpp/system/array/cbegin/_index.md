@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.Page for C++
 description: 'System::Array::cbegin method. Returns an iterator to the first const-qualified element of the container. If the container is empty, the returned iterator will be equal to cend() in C++.'
 type: docs
-weight: 3300
+weight: 400
 url: /cpp/system/array/cbegin/
 ---
 ## Array::cbegin method

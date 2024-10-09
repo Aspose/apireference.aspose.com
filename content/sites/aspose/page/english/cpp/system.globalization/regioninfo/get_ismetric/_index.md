@@ -4,7 +4,7 @@ linktitle: get_IsMetric
 second_title: Aspose.Page for C++
 description: 'System::Globalization::RegionInfo::get_IsMetric method. Checks whether region uses metric system in C++.'
 type: docs
-weight: 1400
+weight: 900
 url: /cpp/system.globalization/regioninfo/get_ismetric/
 ---
 ## RegionInfo::get_IsMetric method

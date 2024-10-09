@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::Clone method. Clones this Aspose.Page.Drawing.Color in C++.'
 type: docs
-weight: 15500
+weight: 14500
 url: /cpp/aspose.page.drawing/color/clone/
 ---
 ## Color::Clone method

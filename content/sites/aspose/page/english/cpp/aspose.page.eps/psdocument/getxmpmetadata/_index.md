@@ -4,7 +4,7 @@ linktitle: GetXmpMetadata
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::GetXmpMetadata method. Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn''t exist in C++.'
 type: docs
-weight: 800
+weight: 3400
 url: /cpp/aspose.page.eps/psdocument/getxmpmetadata/
 ---
 ## PsDocument::GetXmpMetadata method

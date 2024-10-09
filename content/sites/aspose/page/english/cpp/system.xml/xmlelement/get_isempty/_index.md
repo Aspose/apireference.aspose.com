@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::get_IsEmpty method. Returns the tag format of the element in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/system.xml/xmlelement/get_isempty/
 ---
 ## XmlElement::get_IsEmpty method

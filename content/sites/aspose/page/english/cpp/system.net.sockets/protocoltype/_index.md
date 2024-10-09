@@ -4,7 +4,7 @@ linktitle: ProtocolType
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::ProtocolType enum. Enumerates the protocol types in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system.net.sockets/protocoltype/
 ---
 ## ProtocolType enum

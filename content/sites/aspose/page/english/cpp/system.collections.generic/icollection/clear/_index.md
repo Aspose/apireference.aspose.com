@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::Clear method. Deletes all elements from collection in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.collections.generic/icollection/clear/
 ---
 ## ICollection::Clear method

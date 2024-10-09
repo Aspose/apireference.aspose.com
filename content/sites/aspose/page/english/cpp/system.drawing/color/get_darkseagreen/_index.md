@@ -4,7 +4,7 @@ linktitle: get_DarkSeaGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DarkSeaGreen method. Returns a color whose ARGB value in hexadecimal notation is #FF8FBC8F in C++.'
 type: docs
-weight: 5600
+weight: 5500
 url: /cpp/system.drawing/color/get_darkseagreen/
 ---
 ## Color::get_DarkSeaGreen method

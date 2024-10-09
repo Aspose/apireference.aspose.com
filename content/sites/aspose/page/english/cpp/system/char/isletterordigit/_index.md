@@ -2,11 +2,34 @@
 title: System::Char::IsLetterOrDigit method
 linktitle: IsLetterOrDigit
 second_title: Aspose.Page for C++
-description: 'System::Char::IsLetterOrDigit method. Determines whether the character at the specified index in the specified character buffer is classified as Unicode letter or a decimal digit in C++.'
+description: 'System::Char::IsLetterOrDigit method. Determines whether the specified character is classified as Unicode letter or a decimal digit in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system/char/isletterordigit/
 ---
+## Char::IsLetterOrDigit(char_t) method
+
+
+Determines whether the specified character is classified as Unicode letter or a decimal digit.
+
+```cpp
+static bool System::Char::IsLetterOrDigit(char_t c)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | char_t | The character to test |
+
+### ReturnValue
+
+True if the specified character is Unicode letter or a decimal digit, otherwise - false
+
+## See Also
+
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Char::IsLetterOrDigit(const char_t *, int) method
 
 
@@ -25,29 +48,6 @@ static bool System::Char::IsLetterOrDigit(const char_t *str, int idx)
 ### ReturnValue
 
 True if the character at the specified index is Unicode letter or a decimal digit, otherwise - false
-
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Char::IsLetterOrDigit(char_t) method
-
-
-Determines whether the specified character is classified as Unicode letter or a decimal digit.
-
-```cpp
-static bool System::Char::IsLetterOrDigit(char_t c)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | char_t | The character to test |
-
-### ReturnValue
-
-True if the specified character is Unicode letter or a decimal digit, otherwise - false
 
 ## See Also
 

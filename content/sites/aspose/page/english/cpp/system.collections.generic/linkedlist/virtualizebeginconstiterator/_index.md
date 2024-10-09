@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::virtualizeBeginConstIterator method. Gets the implementation of begin const iterator for the current container in C++.'
 type: docs
-weight: 2900
+weight: 2700
 url: /cpp/system.collections.generic/linkedlist/virtualizebeginconstiterator/
 ---
 ## LinkedList::virtualizeBeginConstIterator method

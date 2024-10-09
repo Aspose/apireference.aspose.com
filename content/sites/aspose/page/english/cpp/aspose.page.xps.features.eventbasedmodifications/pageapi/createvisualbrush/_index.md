@@ -4,7 +4,7 @@ linktitle: CreateVisualBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreateVisualBrush method. Creates a new visual brush in C++.'
 type: docs
-weight: 3200
+weight: 2200
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createvisualbrush/
 ---
 ## PageAPI::CreateVisualBrush method

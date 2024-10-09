@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlQualifiedName::GetHashCode method. Returns the hash code for the XmlQualifiedName in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.xml/xmlqualifiedname/gethashcode/
 ---
 ## XmlQualifiedName::GetHashCode method

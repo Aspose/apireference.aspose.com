@@ -4,7 +4,7 @@ linktitle: Rename
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Ftp::Rename field. The string representation of the ''RENAME'' method of FTP in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/system.net/webrequestmethods/ftp/rename/
 ---
 ## Rename field

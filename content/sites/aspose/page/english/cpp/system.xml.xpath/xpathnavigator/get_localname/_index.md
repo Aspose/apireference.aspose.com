@@ -4,7 +4,7 @@ linktitle: get_LocalName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_LocalName method. When overridden in a derived class, gets the XPathNavigator::get_Name of the current node without any namespace prefix in C++.'
 type: docs
-weight: 1200
+weight: 2000
 url: /cpp/system.xml.xpath/xpathnavigator/get_localname/
 ---
 ## XPathNavigator::get_LocalName method

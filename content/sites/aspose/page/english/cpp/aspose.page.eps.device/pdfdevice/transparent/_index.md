@@ -4,7 +4,7 @@ linktitle: TRANSPARENT
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::TRANSPARENT method. "Transparent" property key in C++.'
 type: docs
-weight: 100
+weight: 1500
 url: /cpp/aspose.page.eps.device/pdfdevice/transparent/
 ---
 ## PdfDevice::TRANSPARENT method

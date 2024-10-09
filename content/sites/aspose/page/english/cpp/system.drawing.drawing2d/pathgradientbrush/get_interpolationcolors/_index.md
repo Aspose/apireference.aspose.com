@@ -4,7 +4,7 @@ linktitle: get_InterpolationColors
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::get_InterpolationColors method. Returns a value the defines a multicolor linear gradient in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_interpolationcolors/
 ---
 ## PathGradientBrush::get_InterpolationColors method

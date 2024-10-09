@@ -4,7 +4,7 @@ linktitle: DeleteData
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::DeleteData method. Removes a range of characters from the node in C++.'
 type: docs
-weight: 1100
+weight: 200
 url: /cpp/system.xml/xmlcharacterdata/deletedata/
 ---
 ## XmlCharacterData::DeleteData method

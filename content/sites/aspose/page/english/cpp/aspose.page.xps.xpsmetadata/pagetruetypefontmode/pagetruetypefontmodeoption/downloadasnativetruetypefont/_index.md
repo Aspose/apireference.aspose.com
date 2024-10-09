@@ -4,7 +4,7 @@ linktitle: DownloadAsNativeTrueTypeFont
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode::PageTrueTypeFontModeOption::DownloadAsNativeTrueTypeFont field. TrueType font is downloaded as native true type font in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/pagetruetypefontmodeoption/downloadasnativetruetypefont/
 ---
 ## DownloadAsNativeTrueTypeFont field

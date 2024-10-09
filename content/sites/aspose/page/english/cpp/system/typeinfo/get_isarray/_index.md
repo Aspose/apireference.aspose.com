@@ -4,7 +4,7 @@ linktitle: get_IsArray
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::get_IsArray method. Gets a value that indicates whether the type is an array in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/system/typeinfo/get_isarray/
 ---
 ## TypeInfo::get_IsArray method

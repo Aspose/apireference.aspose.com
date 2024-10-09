@@ -4,7 +4,7 @@ linktitle: get_IsString
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::ByteArrayResult::get_IsString method. Indicates whether the result is a text string in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.plugins/bytearrayresult/get_isstring/
 ---
 ## ByteArrayResult::get_IsString method

@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectCollection::Insert method. Inserts an XmlSchemaObject to the XmlSchemaObjectCollection in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/insert/
 ---
 ## XmlSchemaObjectCollection::Insert method

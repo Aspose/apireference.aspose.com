@@ -4,7 +4,7 @@ linktitle: set_ETag
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::set_ETag method. Sets a value of the ''ETag'' header in C++.'
 type: docs
-weight: 500
+weight: 2700
 url: /cpp/system.net.http.headers/httpresponseheaders/set_etag/
 ---
 ## HttpResponseHeaders::set_ETag method

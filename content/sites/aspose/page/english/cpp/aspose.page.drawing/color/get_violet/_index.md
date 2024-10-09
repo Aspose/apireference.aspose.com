@@ -4,7 +4,7 @@ linktitle: get_Violet
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Violet method. Gets a system-defined color that has an ARGB value of #FFEE82EE in C++.'
 type: docs
-weight: 13600
+weight: 13800
 url: /cpp/aspose.page.drawing/color/get_violet/
 ---
 ## Color::get_Violet method

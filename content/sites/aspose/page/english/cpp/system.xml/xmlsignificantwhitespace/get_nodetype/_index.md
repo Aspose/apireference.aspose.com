@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlSignificantWhitespace::get_NodeType method. Returns the type of the current node in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml/xmlsignificantwhitespace/get_nodetype/
 ---
 ## XmlSignificantWhitespace::get_NodeType method

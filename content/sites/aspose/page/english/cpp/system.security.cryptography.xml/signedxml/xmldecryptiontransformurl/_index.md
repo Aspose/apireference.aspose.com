@@ -4,7 +4,7 @@ linktitle: XmlDecryptionTransformUrl
 second_title: Aspose.Page for C++
 description: 'How to use XmlDecryptionTransformUrl field of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 4200
+weight: 2000
 url: /cpp/system.security.cryptography.xml/signedxml/xmldecryptiontransformurl/
 ---
 ## XmlDecryptionTransformUrl field

@@ -4,7 +4,7 @@ linktitle: get_Head
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpMethod::get_Head method. Returns the ''HEAD'' HTTP method in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.net.http/httpmethod/get_head/
 ---
 ## HttpMethod::get_Head method

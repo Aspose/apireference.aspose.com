@@ -4,7 +4,7 @@ linktitle: GetPropertyInt
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertyInt method. Gets integer property value in C++.'
 type: docs
-weight: 1200
+weight: 600
 url: /cpp/aspose.page/userproperties/getpropertyint/
 ---
 ## UserProperties::GetPropertyInt(System::String) method

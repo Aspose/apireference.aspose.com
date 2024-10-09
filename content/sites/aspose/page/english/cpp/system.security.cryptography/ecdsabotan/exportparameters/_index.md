@@ -4,7 +4,7 @@ linktitle: ExportParameters
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ECDsaBotan::ExportParameters method. Exports named or explicit parameters in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.security.cryptography/ecdsabotan/exportparameters/
 ---
 ## ECDsaBotan::ExportParameters method

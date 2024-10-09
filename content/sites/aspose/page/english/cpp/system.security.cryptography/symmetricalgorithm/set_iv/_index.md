@@ -4,7 +4,7 @@ linktitle: set_IV
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::SymmetricAlgorithm::set_IV method. Sets initial value of cryptographic operation in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_iv/
 ---
 ## SymmetricAlgorithm::set_IV method

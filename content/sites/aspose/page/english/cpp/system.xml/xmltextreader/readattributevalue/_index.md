@@ -4,7 +4,7 @@ linktitle: ReadAttributeValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextReader::ReadAttributeValue method. Parses the attribute value into one or more Text, EntityReference, or EndEntity nodes in C++.'
 type: docs
-weight: 4400
+weight: 4300
 url: /cpp/system.xml/xmltextreader/readattributevalue/
 ---
 ## XmlTextReader::ReadAttributeValue method

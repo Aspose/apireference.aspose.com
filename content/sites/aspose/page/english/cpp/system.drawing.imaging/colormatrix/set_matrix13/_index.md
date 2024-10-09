@@ -4,7 +4,7 @@ linktitle: set_Matrix13
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::set_Matrix13 method. Sets a value in the 1-st row and 3-rd column in C++.'
 type: docs
-weight: 2100
+weight: 3700
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix13/
 ---
 ## ColorMatrix::set_Matrix13 method

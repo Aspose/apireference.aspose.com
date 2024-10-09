@@ -4,7 +4,7 @@ linktitle: set_TransferEncodingChunked
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_TransferEncodingChunked method. Sets a value that indicates if the ''Transfer-Encoding'' header value contains ''Chunked'' in C++.'
 type: docs
-weight: 4300
+weight: 4800
 url: /cpp/system.net.http.headers/httprequestheaders/set_transferencodingchunked/
 ---
 ## HttpRequestHeaders::set_TransferEncodingChunked method

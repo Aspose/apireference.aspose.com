@@ -4,7 +4,7 @@ linktitle: TicksPerHour
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::TicksPerHour field. The number of 100-nanoseconds intervals in a hour in C++.'
 type: docs
-weight: 5100
+weight: 5000
 url: /cpp/system/timespan/ticksperhour/
 ---
 ## TicksPerHour field

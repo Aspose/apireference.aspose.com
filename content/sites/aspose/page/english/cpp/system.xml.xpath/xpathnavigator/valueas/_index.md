@@ -4,7 +4,7 @@ linktitle: ValueAs
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::ValueAs method. Returns the current node''s value as the Type specified, using the IXmlNamespaceResolver object specified to resolve namespace prefixes in C++.'
 type: docs
-weight: 3000
+weight: 8100
 url: /cpp/system.xml.xpath/xpathnavigator/valueas/
 ---
 ## XPathNavigator::ValueAs method

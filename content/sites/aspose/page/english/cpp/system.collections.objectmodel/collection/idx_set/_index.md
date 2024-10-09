@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::idx_set method. Sets value at specified index in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/system.collections.objectmodel/collection/idx_set/
 ---
 ## Collection::idx_set method

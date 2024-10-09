@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Array::IndexOf method. Determines the index of the first occurrence of the specified item in the array in C++.'
 type: docs
-weight: 1100
+weight: 2900
 url: /cpp/system/array/indexof/
 ---
 ## Array::IndexOf(const T\&) const method

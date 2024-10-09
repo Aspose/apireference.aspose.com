@@ -4,7 +4,7 @@ linktitle: AddParam
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltArgumentList::AddParam method. Adds a parameter to the XsltArgumentList and associates it with the namespace qualified name in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.xml.xsl/xsltargumentlist/addparam/
 ---
 ## XsltArgumentList::AddParam method

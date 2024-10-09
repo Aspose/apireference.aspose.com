@@ -4,7 +4,7 @@ linktitle: ToLowerInvariant
 second_title: Aspose.Page for C++
 description: 'System::Char::ToLowerInvariant method. Converts the specified character to lower case in C++.'
 type: docs
-weight: 2100
+weight: 2300
 url: /cpp/system/char/tolowerinvariant/
 ---
 ## Char::ToLowerInvariant method

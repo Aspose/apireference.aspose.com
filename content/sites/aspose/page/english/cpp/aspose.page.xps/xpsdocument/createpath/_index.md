@@ -4,7 +4,7 @@ linktitle: CreatePath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::CreatePath method. Creates a new path in C++.'
 type: docs
-weight: 3700
+weight: 2100
 url: /cpp/aspose.page.xps/xpsdocument/createpath/
 ---
 ## XpsDocument::CreatePath method

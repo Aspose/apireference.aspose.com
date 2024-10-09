@@ -4,7 +4,7 @@ linktitle: get_CanTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::NetworkStream::get_CanTimeout method. Gets a value that determines whether the current stream can time out in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/system.net.sockets/networkstream/get_cantimeout/
 ---
 ## NetworkStream::get_CanTimeout method

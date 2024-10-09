@@ -4,7 +4,7 @@ linktitle: ToChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToChar method. Converts the String to a Char equivalent in C++.'
 type: docs
-weight: 2000
+weight: 1300
 url: /cpp/system.xml/xmlconvert/tochar/
 ---
 ## XmlConvert::ToChar method

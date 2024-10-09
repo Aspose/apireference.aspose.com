@@ -4,7 +4,7 @@ linktitle: LoadInput
 second_title: Aspose.Page for C++
 description: 'How to use LoadInput method of System::Security::Cryptography::Xml::XmlDsigExcC14NTransform class in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.security.cryptography.xml/xmldsigexcc14ntransform/loadinput/
 ---
 ## XmlDsigExcC14NTransform::LoadInput method

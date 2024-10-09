@@ -4,7 +4,7 @@ linktitle: AddClause
 second_title: Aspose.Page for C++
 description: 'How to use AddClause method of System::Security::Cryptography::Xml::KeyInfo class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.security.cryptography.xml/keyinfo/addclause/
 ---
 ## KeyInfo::AddClause method

@@ -4,7 +4,7 @@ linktitle: KSSM
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::KSSM field. Specified device language is KSSM in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/kssm/
 ---
 ## KSSM field

@@ -4,7 +4,7 @@ linktitle: NorthAmericaSuperA
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaSuperA field. North America Super A in C++.'
 type: docs
-weight: 11500
+weight: 13200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericasupera/
 ---
 ## NorthAmericaSuperA field

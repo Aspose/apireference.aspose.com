@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryWriter::Close method. Closes the current BinaryWriter object and the underlying output stream in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.io/binarywriter/close/
 ---
 ## BinaryWriter::Close method

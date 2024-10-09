@@ -4,7 +4,7 @@ linktitle: MakeConstRef_t
 second_title: Aspose.Page for C++
 description: 'System::MakeConstRef_t typedef. Helper type for MakeConstRef modifier in C++.'
 type: docs
-weight: 12000
+weight: 11700
 url: /cpp/system/makeconstref_t/
 ---
 ## MakeConstRef_t typedef

@@ -4,7 +4,7 @@ linktitle: DimeContentType
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::DimeContentType field. The string representation of the ''application/dime'' MIME type in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/system.web.services/soap/dimecontenttype/
 ---
 ## DimeContentType field

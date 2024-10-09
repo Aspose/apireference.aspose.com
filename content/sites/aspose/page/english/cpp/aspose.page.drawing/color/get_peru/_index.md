@@ -4,7 +4,7 @@ linktitle: get_Peru
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Peru method. Gets a system-defined color that has an ARGB value of #FFCD853F in C++.'
 type: docs
-weight: 11000
+weight: 11100
 url: /cpp/aspose.page.drawing/color/get_peru/
 ---
 ## Color::get_Peru method

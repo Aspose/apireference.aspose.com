@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplValueType::Contains method. Checks if item is present in list in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/system.collections/ilistimplvaluetype/contains/
 ---
 ## IListImplValueType::Contains method

@@ -4,7 +4,7 @@ linktitle: set_NativeDigits
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_NativeDigits method. Sets digits symbols (0 through 9) in C++.'
 type: docs
-weight: 5500
+weight: 4200
 url: /cpp/system.globalization/numberformatinfo/set_nativedigits/
 ---
 ## NumberFormatInfo::set_NativeDigits method

@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Security::SecureString::Clear method. Delete all characters from the current secure string in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.security/securestring/clear/
 ---
 ## SecureString::Clear method

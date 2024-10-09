@@ -4,7 +4,7 @@ linktitle: set_NewLineOnAttributes
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_NewLineOnAttributes method. Sets a value indicating whether to write attributes on a new line in C++.'
 type: docs
-weight: 1400
+weight: 2800
 url: /cpp/system.xml/xmlwritersettings/set_newlineonattributes/
 ---
 ## XmlWriterSettings::set_NewLineOnAttributes method

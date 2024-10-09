@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_Name method. Returns the name of the type in C++.'
 type: docs
-weight: 100
+weight: 900
 url: /cpp/system.xml.schema/xmlschematype/get_name/
 ---
 ## XmlSchemaType::get_Name method

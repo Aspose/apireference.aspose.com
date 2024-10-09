@@ -4,7 +4,7 @@ linktitle: ConvertBox
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsUtils::ConvertBox method. Convert rectangular box in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.page.xps/xpsutils/convertbox/
 ---
 ## XpsUtils::ConvertBox method

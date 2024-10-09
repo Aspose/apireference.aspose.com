@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::idx_set method. Keyed setter function. Alters or creates element in C++.'
 type: docs
-weight: 800
+weight: 1700
 url: /cpp/system.collections.generic/basedictionary/idx_set/
 ---
 ## BaseDictionary::idx_set method

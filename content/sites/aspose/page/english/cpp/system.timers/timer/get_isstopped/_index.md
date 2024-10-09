@@ -4,7 +4,7 @@ linktitle: get_IsStopped
 second_title: Aspose.Page for C++
 description: 'System::Timers::Timer::get_IsStopped method. Checks if timer is stopped in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system.timers/timer/get_isstopped/
 ---
 ## Timer::get_IsStopped method

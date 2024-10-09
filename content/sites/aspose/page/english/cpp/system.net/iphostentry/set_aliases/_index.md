@@ -4,7 +4,7 @@ linktitle: set_Aliases
 second_title: Aspose.Page for C++
 description: 'System::Net::IPHostEntry::set_Aliases method. Sets a collection of aliases of the host in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.net/iphostentry/set_aliases/
 ---
 ## IPHostEntry::set_Aliases method

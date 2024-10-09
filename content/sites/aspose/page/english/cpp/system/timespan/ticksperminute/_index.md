@@ -4,7 +4,7 @@ linktitle: TicksPerMinute
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::TicksPerMinute field. The number of 100-nanoseconds intervals in a minute in C++.'
 type: docs
-weight: 5300
+weight: 5200
 url: /cpp/system/timespan/ticksperminute/
 ---
 ## TicksPerMinute field

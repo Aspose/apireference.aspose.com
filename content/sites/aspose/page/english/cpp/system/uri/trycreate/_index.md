@@ -2,25 +2,25 @@
 title: System::Uri::TryCreate method
 linktitle: TryCreate
 second_title: Aspose.Page for C++
-description: 'System::Uri::TryCreate method. Constructs a Uri object that represents the specified URI; an argument specifies the URI kind in C++.'
+description: 'System::Uri::TryCreate method. Constructs an Uri abject from the specified base and relative URIs in C++.'
 type: docs
-weight: 4000
+weight: 4400
 url: /cpp/system/uri/trycreate/
 ---
-## Uri::TryCreate(const String\&, UriKind, SharedPtr\<Uri\>\&) method
+## Uri::TryCreate(const SharedPtr\<Uri\>\&, const SharedPtr\<Uri\>\&, SharedPtr\<Uri\>\&) method
 
 
-Constructs a [Uri](../) object that represents the specified URI; an argument specifies the URI kind.
+Constructs an [Uri](../) abject from the specified base and relative URIs.
 
 ```cpp
-static bool System::Uri::TryCreate(const String &uriString, UriKind uriKind, SharedPtr<Uri> &result)
+static bool System::Uri::TryCreate(const SharedPtr<Uri> &baseUri, const SharedPtr<Uri> &relativeUri, SharedPtr<Uri> &result)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| uriString | const String\& | The string URI to be represented by the object being constructed |
-| uriKind | UriKind | Specifies the URI kind |
+| baseUri | const SharedPtr\<Uri\>\& | The base URI |
+| relativeUri | const SharedPtr\<Uri\>\& | The relative URI that is added to the base URI |
 | result | SharedPtr\<Uri\>\& | The output argument that, if the construction succeeds, points to the newly constructed [Uri](../) object on method return |
 
 ### ReturnValue
@@ -29,8 +29,6 @@ True if the construction succeeded, otherwise - false
 
 ## See Also
 
-* Class [String](../../string/)
-* Enum [UriKind](../../urikind/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Uri](../)
 * Class [Uri](../)
@@ -64,20 +62,20 @@ True if the construction succeeded, otherwise - false
 * Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## Uri::TryCreate(const SharedPtr\<Uri\>\&, const SharedPtr\<Uri\>\&, SharedPtr\<Uri\>\&) method
+## Uri::TryCreate(const String\&, UriKind, SharedPtr\<Uri\>\&) method
 
 
-Constructs an [Uri](../) abject from the specified base and relative URIs.
+Constructs a [Uri](../) object that represents the specified URI; an argument specifies the URI kind.
 
 ```cpp
-static bool System::Uri::TryCreate(const SharedPtr<Uri> &baseUri, const SharedPtr<Uri> &relativeUri, SharedPtr<Uri> &result)
+static bool System::Uri::TryCreate(const String &uriString, UriKind uriKind, SharedPtr<Uri> &result)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| baseUri | const SharedPtr\<Uri\>\& | The base URI |
-| relativeUri | const SharedPtr\<Uri\>\& | The relative URI that is added to the base URI |
+| uriString | const String\& | The string URI to be represented by the object being constructed |
+| uriKind | UriKind | Specifies the URI kind |
 | result | SharedPtr\<Uri\>\& | The output argument that, if the construction succeeds, points to the newly constructed [Uri](../) object on method return |
 
 ### ReturnValue
@@ -86,6 +84,8 @@ True if the construction succeeded, otherwise - false
 
 ## See Also
 
+* Class [String](../../string/)
+* Enum [UriKind](../../urikind/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Uri](../)
 * Class [Uri](../)

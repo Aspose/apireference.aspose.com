@@ -14,6 +14,7 @@ url: /cpp/aspose.page.eps/
 
 | Class | Description |
 | --- | --- |
+| [ApsLoadOptions](./apsloadoptions/) | APS document loading options. |
 | [BinaryHeader](./binaryheader/) |  |
 | [FontConstants](./fontconstants/) | This class defines a set of constants for saving fonts. |
 | [GradientBrush](./gradientbrush/) | This class is used for encapsulating LinearGradientBrush and PathGradientBrush with possibility to set wrap mode to clamp. Native gradient brushes always throw an exception when someone tries to set WrapMode property to WrapMode.Clamp. |

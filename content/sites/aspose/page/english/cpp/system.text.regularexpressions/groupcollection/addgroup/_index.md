@@ -4,7 +4,7 @@ linktitle: AddGroup
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::GroupCollection::AddGroup method. Adds group into collection in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.text.regularexpressions/groupcollection/addgroup/
 ---
 ## GroupCollection::AddGroup method

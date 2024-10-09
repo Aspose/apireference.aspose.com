@@ -4,7 +4,7 @@ linktitle: XmlSchemaException
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::Schema::XmlSchemaException typedef in C++.'
 type: docs
-weight: 8500
+weight: 8400
 url: /cpp/system.xml.schema/xmlschemaexception/
 ---
 ## XmlSchemaException typedef

@@ -4,7 +4,7 @@ linktitle: XmlNodeChangedEventArgs
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNodeChangedEventArgs::XmlNodeChangedEventArgs constructor. Initializes a new instance of the XmlNodeChangedEventArgs class in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/system.xml/xmlnodechangedeventargs/xmlnodechangedeventargs/
 ---
 ## XmlNodeChangedEventArgs::XmlNodeChangedEventArgs constructor

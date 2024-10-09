@@ -4,7 +4,7 @@ linktitle: ToDouble
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToDouble method. Converts eight bytes from the specified array starting at the specified index to double-precision floating point value in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/system/bitconverter/todouble/
 ---
 ## BitConverter::ToDouble(const System::ArrayPtr\<uint8_t\>\&, int) method

@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::Add method. Adds a content element (Canvas, Path, or Glyphs) in C++.'
 type: docs
-weight: 2300
+weight: 200
 url: /cpp/aspose.page.xps/xpsdocument/add/
 ---
 ## XpsDocument::Add method

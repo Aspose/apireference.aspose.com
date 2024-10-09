@@ -4,7 +4,7 @@ linktitle: GetBuiltInSimpleType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::GetBuiltInSimpleType method. Returns an XmlSchemaSimpleType that represents the built-in simple type of the simple type that is specified by the qualified name in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.xml.schema/xmlschematype/getbuiltinsimpletype/
 ---
 ## XmlSchemaType::GetBuiltInSimpleType(const SharedPtr\<XmlQualifiedName\>\&) method

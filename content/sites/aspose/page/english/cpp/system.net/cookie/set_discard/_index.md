@@ -4,7 +4,7 @@ linktitle: set_Discard
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Discard method. Sets the ''Discard'' attribute''s value in C++.'
 type: docs
-weight: 800
+weight: 2700
 url: /cpp/system.net/cookie/set_discard/
 ---
 ## Cookie::set_Discard method

@@ -4,7 +4,7 @@ linktitle: set_MaxOccursString
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaParticle::set_MaxOccursString method. Sets the number as a string value. Maximum number of times the particle can occur in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.xml.schema/xmlschemaparticle/set_maxoccursstring/
 ---
 ## XmlSchemaParticle::set_MaxOccursString method

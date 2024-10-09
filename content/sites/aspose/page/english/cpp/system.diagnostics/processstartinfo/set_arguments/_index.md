@@ -4,7 +4,7 @@ linktitle: set_Arguments
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::ProcessStartInfo::set_Arguments method. Sets process arguments in C++.'
 type: docs
-weight: 700
+weight: 1200
 url: /cpp/system.diagnostics/processstartinfo/set_arguments/
 ---
 ## ProcessStartInfo::set_Arguments method

@@ -4,7 +4,7 @@ linktitle: GetPropertyMargins
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::UserProperties::GetPropertyMargins method. Gets margins property value in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/aspose.page/userproperties/getpropertymargins/
 ---
 ## UserProperties::GetPropertyMargins(System::String) method

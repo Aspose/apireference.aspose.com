@@ -4,7 +4,7 @@ linktitle: get_Families
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Text::FontCollection::get_Families method. Returns an array of FontFamily objects associated with the font collection represented by the current object in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.drawing.text/fontcollection/get_families/
 ---
 ## FontCollection::get_Families method

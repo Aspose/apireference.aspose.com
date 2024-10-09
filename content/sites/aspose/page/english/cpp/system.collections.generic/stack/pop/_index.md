@@ -4,7 +4,7 @@ linktitle: Pop
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Stack::Pop method. Gets element from top of the stack in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system.collections.generic/stack/pop/
 ---
 ## Stack::Pop method

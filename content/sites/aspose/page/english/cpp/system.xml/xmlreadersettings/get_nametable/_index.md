@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::get_NameTable method. Returns the XmlNameTable used for atomized string comparisons in C++.'
 type: docs
-weight: 100
+weight: 1500
 url: /cpp/system.xml/xmlreadersettings/get_nametable/
 ---
 ## XmlReaderSettings::get_NameTable method

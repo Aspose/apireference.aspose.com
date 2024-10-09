@@ -4,7 +4,7 @@ linktitle: get_InputBlockSize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::FromBase64Transform::get_InputBlockSize method. Input block size in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/system.security.cryptography/frombase64transform/get_inputblocksize/
 ---
 ## FromBase64Transform::get_InputBlockSize method

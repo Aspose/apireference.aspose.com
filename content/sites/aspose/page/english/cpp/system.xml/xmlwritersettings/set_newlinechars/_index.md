@@ -4,7 +4,7 @@ linktitle: set_NewLineChars
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::set_NewLineChars method. Sets the character string to use for line breaks in C++.'
 type: docs
-weight: 800
+weight: 2600
 url: /cpp/system.xml/xmlwritersettings/set_newlinechars/
 ---
 ## XmlWriterSettings::set_NewLineChars method

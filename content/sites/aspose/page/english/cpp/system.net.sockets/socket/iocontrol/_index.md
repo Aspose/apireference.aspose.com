@@ -4,7 +4,7 @@ linktitle: IOControl
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::IOControl method. Sets low-level operating modes for the socket in C++.'
 type: docs
-weight: 5500
+weight: 4000
 url: /cpp/system.net.sockets/socket/iocontrol/
 ---
 ## Socket::IOControl(int32_t, System::ArrayPtr\<uint8_t\>, System::ArrayPtr\<uint8_t\>) method

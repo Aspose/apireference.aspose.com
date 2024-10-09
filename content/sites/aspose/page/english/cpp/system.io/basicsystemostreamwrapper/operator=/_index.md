@@ -2,26 +2,11 @@
 title: System::IO::BasicSystemOStreamWrapper::operator= method
 linktitle: operator=
 second_title: Aspose.Page for C++
-description: 'System::IO::BasicSystemOStreamWrapper::operator= method. Copy assignment operator. Deleted in C++.'
+description: 'System::IO::BasicSystemOStreamWrapper::operator= method. Move assignment operator in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.io/basicsystemostreamwrapper/operator=/
 ---
-## BasicSystemOStreamWrapper::operator=(const BasicSystemOStreamWrapper\&) method
-
-
-Copy assignment operator. Deleted.
-
-```cpp
-BasicSystemOStreamWrapper & System::IO::BasicSystemOStreamWrapper<Elem, Traits>::operator=(const BasicSystemOStreamWrapper &)=delete
-```
-
-## See Also
-
-* Class [BasicSystemOStreamWrapper](../)
-* Class [BasicSystemOStreamWrapper](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Page for C++](../../../)
 ## BasicSystemOStreamWrapper::operator=(BasicSystemOStreamWrapper\&&) method
 
 
@@ -39,6 +24,21 @@ BasicSystemOStreamWrapper & System::IO::BasicSystemOStreamWrapper<Elem, Traits>:
 ### ReturnValue
 
 *this
+
+## See Also
+
+* Class [BasicSystemOStreamWrapper](../)
+* Class [BasicSystemOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Page for C++](../../../)
+## BasicSystemOStreamWrapper::operator=(const BasicSystemOStreamWrapper\&) method
+
+
+Copy assignment operator. Deleted.
+
+```cpp
+BasicSystemOStreamWrapper & System::IO::BasicSystemOStreamWrapper<Elem, Traits>::operator=(const BasicSystemOStreamWrapper &)=delete
+```
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: get_BeforePageSavingEventHandlers
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::get_BeforePageSavingEventHandlers method. The collection of event handlers that performs modifications to an XPS page just before it is saved in C++.'
 type: docs
-weight: 1500
+weight: 300
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/get_beforepagesavingeventhandlers/
 ---
 ## ImageSaveOptions::get_BeforePageSavingEventHandlers method

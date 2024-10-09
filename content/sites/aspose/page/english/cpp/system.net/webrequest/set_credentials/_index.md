@@ -4,7 +4,7 @@ linktitle: set_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::set_Credentials method. Sets authentication information that is associated with the current request in C++.'
 type: docs
-weight: 1700
+weight: 3200
 url: /cpp/system.net/webrequest/set_credentials/
 ---
 ## WebRequest::set_Credentials method

@@ -4,7 +4,7 @@ linktitle: ListDirectoryDetails
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Ftp::ListDirectoryDetails field. The string representation of the ''LIST'' method of FTP in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/system.net/webrequestmethods/ftp/listdirectorydetails/
 ---
 ## ListDirectoryDetails field

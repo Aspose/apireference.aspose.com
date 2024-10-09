@@ -2,32 +2,27 @@
 title: System::Xml::XmlValidatingReader::MoveToAttribute method
 linktitle: MoveToAttribute
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlValidatingReader::MoveToAttribute method. Moves to the attribute with the specified name in C++.'
+description: 'System::Xml::XmlValidatingReader::MoveToAttribute method. Moves to the attribute with the specified index in C++.'
 type: docs
-weight: 3600
+weight: 3500
 url: /cpp/system.xml/xmlvalidatingreader/movetoattribute/
 ---
-## XmlValidatingReader::MoveToAttribute(String) method
+## XmlValidatingReader::MoveToAttribute(int32_t) method
 
 
-Moves to the attribute with the specified name.
+Moves to the attribute with the specified index.
 
 ```cpp
-bool System::Xml::XmlValidatingReader::MoveToAttribute(String name) override
+void System::Xml::XmlValidatingReader::MoveToAttribute(int32_t i) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The qualified name of the attribute. |
-
-### ReturnValue
-
-**true** if the attribute is found; otherwise, **false**. If **false**, the position of the reader does not change.
+| i | int32_t | The index of the attribute. |
 
 ## See Also
 
-* Class [String](../../../system/string/)
 * Class [XmlValidatingReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -56,22 +51,27 @@ bool System::Xml::XmlValidatingReader::MoveToAttribute(String localName, String 
 * Class [XmlValidatingReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
-## XmlValidatingReader::MoveToAttribute(int32_t) method
+## XmlValidatingReader::MoveToAttribute(String) method
 
 
-Moves to the attribute with the specified index.
+Moves to the attribute with the specified name.
 
 ```cpp
-void System::Xml::XmlValidatingReader::MoveToAttribute(int32_t i) override
+bool System::Xml::XmlValidatingReader::MoveToAttribute(String name) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| i | int32_t | The index of the attribute. |
+| name | String | The qualified name of the attribute. |
+
+### ReturnValue
+
+**true** if the attribute is found; otherwise, **false**. If **false**, the position of the reader does not change.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmlValidatingReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

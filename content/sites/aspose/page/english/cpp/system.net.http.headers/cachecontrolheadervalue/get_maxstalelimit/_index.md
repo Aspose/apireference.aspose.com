@@ -4,7 +4,7 @@ linktitle: get_MaxStaleLimit
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::get_MaxStaleLimit method. Gets the value in seconds that determines the time during which the client will accept the expired responses in C++.'
 type: docs
-weight: 1200
+weight: 600
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_maxstalelimit/
 ---
 ## CacheControlHeaderValue::get_MaxStaleLimit method

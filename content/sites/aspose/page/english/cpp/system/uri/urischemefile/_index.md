@@ -4,7 +4,7 @@ linktitle: UriSchemeFile
 second_title: Aspose.Page for C++
 description: 'System::Uri::UriSchemeFile field. Specifies that the Uri is a pointer to a file in C++.'
 type: docs
-weight: 4600
+weight: 4700
 url: /cpp/system/uri/urischemefile/
 ---
 ## UriSchemeFile field

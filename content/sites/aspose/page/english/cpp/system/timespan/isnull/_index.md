@@ -4,7 +4,7 @@ linktitle: IsNull
 second_title: Aspose.Page for C++
 description: 'How to use IsNull method of System::TimeSpan class in C++.'
 type: docs
-weight: 3400
+weight: 1800
 url: /cpp/system/timespan/isnull/
 ---
 ## TimeSpan::IsNull method

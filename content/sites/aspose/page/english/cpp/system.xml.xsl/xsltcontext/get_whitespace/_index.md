@@ -4,7 +4,7 @@ linktitle: get_Whitespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltContext::get_Whitespace method. When overridden in a derived class, gets a value indicating whether to include white space nodes in the output in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.xsl/xsltcontext/get_whitespace/
 ---
 ## XsltContext::get_Whitespace method

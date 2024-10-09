@@ -4,7 +4,7 @@ linktitle: get_ProcessName
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::Process::get_ProcessName method. Gets process name in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.diagnostics/process/get_processname/
 ---
 ## Process::get_ProcessName method

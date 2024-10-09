@@ -4,7 +4,7 @@ linktitle: XmlSchemaSimpleType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleType::XmlSchemaSimpleType constructor. Initializes a new instance of the XmlSchemaSimpleType class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.schema/xmlschemasimpletype/xmlschemasimpletype/
 ---
 ## XmlSchemaSimpleType::XmlSchemaSimpleType constructor

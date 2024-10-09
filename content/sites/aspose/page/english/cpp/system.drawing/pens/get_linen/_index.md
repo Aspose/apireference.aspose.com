@@ -4,7 +4,7 @@ linktitle: get_Linen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Linen method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFAF0E6 in C++.'
 type: docs
-weight: 8000
+weight: 7900
 url: /cpp/system.drawing/pens/get_linen/
 ---
 ## Pens::get_Linen method

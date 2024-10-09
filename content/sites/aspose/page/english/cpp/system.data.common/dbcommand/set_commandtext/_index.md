@@ -4,7 +4,7 @@ linktitle: set_CommandText
 second_title: Aspose.Page for C++
 description: 'System::Data::Common::DbCommand::set_CommandText method. Sets DB command text in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.data.common/dbcommand/set_commandtext/
 ---
 ## DbCommand::set_CommandText method

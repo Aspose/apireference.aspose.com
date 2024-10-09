@@ -4,7 +4,7 @@ linktitle: None
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::OutputBin::BinType::None field. None of the above in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.page.xps.xpsmetadata/outputbin/bintype/none/
 ---
 ## None field

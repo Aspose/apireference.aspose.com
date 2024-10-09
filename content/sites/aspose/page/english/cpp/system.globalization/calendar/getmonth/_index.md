@@ -4,7 +4,7 @@ linktitle: GetMonth
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::GetMonth method. Gets month for the specified time point in C++.'
 type: docs
-weight: 2500
+weight: 2900
 url: /cpp/system.globalization/calendar/getmonth/
 ---
 ## Calendar::GetMonth method

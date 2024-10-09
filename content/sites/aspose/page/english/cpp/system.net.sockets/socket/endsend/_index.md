@@ -4,7 +4,7 @@ linktitle: EndSend
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::EndSend method. Waits until the specified asynchronous send operation completes in C++.'
 type: docs
-weight: 4000
+weight: 1600
 url: /cpp/system.net.sockets/socket/endsend/
 ---
 ## Socket::EndSend(System::SharedPtr\<IAsyncResult\>) method

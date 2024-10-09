@@ -4,7 +4,7 @@ linktitle: set_Actor
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHeader::set_Actor method. Sets the URI of the SOAP header recipient when SOAP version 1.1 is used in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.web.services.protocols/soapheader/set_actor/
 ---
 ## SoapHeader::set_Actor method

@@ -4,7 +4,7 @@ linktitle: ExplicitCastToObject
 second_title: Aspose.Page for C++
 description: 'How to use ExplicitCastToObject method of System::ObjectExt class in C++.'
 type: docs
-weight: 1800
+weight: 800
 url: /cpp/system/objectext/explicitcasttoobject/
 ---
 ## ObjectExt::ExplicitCastToObject(const T\&) method

@@ -4,7 +4,7 @@ linktitle: get_Names
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectTable::get_Names method. Returns a collection of all the named elements in the XmlSchemaObjectTable in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml.schema/xmlschemaobjecttable/get_names/
 ---
 ## XmlSchemaObjectTable::get_Names method

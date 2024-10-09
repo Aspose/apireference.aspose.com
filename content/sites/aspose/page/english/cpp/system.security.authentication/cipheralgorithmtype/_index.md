@@ -4,7 +4,7 @@ linktitle: CipherAlgorithmType
 second_title: Aspose.Page for C++
 description: 'System::Security::Authentication::CipherAlgorithmType enum. Enumerates the cipher algorithms in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.security.authentication/cipheralgorithmtype/
 ---
 ## CipherAlgorithmType enum

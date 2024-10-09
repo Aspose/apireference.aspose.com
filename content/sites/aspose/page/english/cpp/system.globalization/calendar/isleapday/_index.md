@@ -4,7 +4,7 @@ linktitle: IsLeapDay
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::IsLeapDay method. Checks if the day is leap in C++.'
 type: docs
-weight: 3000
+weight: 3400
 url: /cpp/system.globalization/calendar/isleapday/
 ---
 ## Calendar::IsLeapDay(int, int, int) const method

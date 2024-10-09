@@ -4,7 +4,7 @@ linktitle: IEnumerablePtr
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::IEnumerablePtr typedef. Container of same type elements in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/system.collections.generic/queue/ienumerableptr/
 ---
 ## IEnumerablePtr typedef

@@ -2,11 +2,25 @@
 title: System::Globalization::TaiwanLunisolarCalendar::GetMonthsInYear method
 linktitle: GetMonthsInYear
 second_title: Aspose.Page for C++
-description: 'System::Globalization::TaiwanLunisolarCalendar::GetMonthsInYear method. Gets number of months in the specified year in C++.'
+description: 'System::Globalization::TaiwanLunisolarCalendar::GetMonthsInYear method. RTTI information in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.globalization/taiwanlunisolarcalendar/getmonthsinyear/
 ---
+## TaiwanLunisolarCalendar::GetMonthsInYear(int) const method
+
+
+RTTI information.
+
+```cpp
+virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
+```
+
+## See Also
+
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TaiwanLunisolarCalendar::GetMonthsInYear(int, int) const method
 
 
@@ -25,20 +39,6 @@ int System::Globalization::TaiwanLunisolarCalendar::GetMonthsInYear(int year, in
 ### ReturnValue
 
 Number of months in the specified year of specified era.
-
-## See Also
-
-* Class [TaiwanLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## TaiwanLunisolarCalendar::GetMonthsInYear(int) const method
-
-
-RTTI information.
-
-```cpp
-virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
-```
 
 ## See Also
 

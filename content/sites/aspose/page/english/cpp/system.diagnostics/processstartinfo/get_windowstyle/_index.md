@@ -4,7 +4,7 @@ linktitle: get_WindowStyle
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::ProcessStartInfo::get_WindowStyle method. Gets window style in C++.'
 type: docs
-weight: 1600
+weight: 1000
 url: /cpp/system.diagnostics/processstartinfo/get_windowstyle/
 ---
 ## ProcessStartInfo::get_WindowStyle method

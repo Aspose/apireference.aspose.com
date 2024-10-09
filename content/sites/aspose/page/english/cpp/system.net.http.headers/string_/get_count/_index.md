@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection< System::String >::get_Count method. Gets number of elements in collection in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/system.net.http.headers/string_/get_count/
 ---
 ## String >::get_Count method

@@ -4,7 +4,7 @@ linktitle: set_NoStore
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::set_NoStore method. Sets the value that determines if a cache must not store any part of an HTTP request or response in C++.'
 type: docs
-weight: 500
+weight: 2600
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_nostore/
 ---
 ## CacheControlHeaderValue::set_NoStore method

@@ -4,7 +4,7 @@ linktitle: get_ValueAsDouble
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::get_ValueAsDouble method. Returns the current node''s value as a Double in C++.'
 type: docs
-weight: 700
+weight: 3200
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueasdouble/
 ---
 ## XPathNavigator::get_ValueAsDouble method

@@ -4,7 +4,7 @@ linktitle: AuthenticateAsClient
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::AuthenticateAsClient method. Authenticates the client-side of the connection in C++.'
 type: docs
-weight: 2700
+weight: 200
 url: /cpp/system.net.security/sslstream/authenticateasclient/
 ---
 ## SslStream::AuthenticateAsClient(String) method

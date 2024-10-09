@@ -4,7 +4,7 @@ linktitle: StartFigure
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::StartFigure method. Starts a new figure in C++.'
 type: docs
-weight: 2400
+weight: 3600
 url: /cpp/system.drawing.drawing2d/graphicspath/startfigure/
 ---
 ## GraphicsPath::StartFigure method

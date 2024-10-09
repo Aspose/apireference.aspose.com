@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::ObjectExt::ToString method. Substitution for C# ToString method to work on any C++ type in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/system/objectext/tostring/
 ---
 ## ObjectExt::ToString(const char_t *) method
@@ -116,6 +116,90 @@ template<typename T> static std::enable_if<IsSmartPtr<T>::value, String>::type S
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## ObjectExt::ToString(const T\&) method
+
+
+Substitution for C# ToString method to work on any C++ type.
+
+```cpp
+template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&!std::is_scalar<T>::value &&!IsNullable<T>::value, String>::type System::ObjectExt::ToString(const T &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Structure type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T\& | Structure value to convert to string. |
+
+### ReturnValue
+
+[String](../../string/) representation of **obj**.
+
+## See Also
+
+* Class [String](../../string/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectExt::ToString(T\&&) method
+
+
+Substitution for C# ToString method to work on any C++ type.
+
+```cpp
+template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&std::is_scalar<T>::value &&!std::is_enum<T>::value, String>::type System::ObjectExt::ToString(T &&obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Scalar type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | T\&& | Scalar value to convert to string. |
+
+### ReturnValue
+
+[String](../../string/) representation of **obj**.
+
+## See Also
+
+* Class [String](../../string/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## ObjectExt::ToString(T\&&) method
+
+
+Substitution for C# ToString method to work on any C++ type.
+
+```cpp
+template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&!std::is_scalar<T>::value &&!IsNullable<T>::value &&!std::is_reference<T>::value, String>::type System::ObjectExt::ToString(T &&obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Scalar type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | T\&& | Scalar value to convert to string. |
+
+### ReturnValue
+
+[String](../../string/) representation of **obj**.
+
+## See Also
+
+* Class [String](../../string/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## ObjectExt::ToString(T\&) method
 
 
@@ -172,34 +256,6 @@ template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&std::is_scala
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## ObjectExt::ToString(T\&&) method
-
-
-Substitution for C# ToString method to work on any C++ type.
-
-```cpp
-template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&std::is_scalar<T>::value &&!std::is_enum<T>::value, String>::type System::ObjectExt::ToString(T &&obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Scalar type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | T\&& | Scalar value to convert to string. |
-
-### ReturnValue
-
-[String](../../string/) representation of **obj**.
-
-## See Also
-
-* Class [String](../../string/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## ObjectExt::ToString(T\&) method
 
 
@@ -217,62 +273,6 @@ template<typename T> static std::enable_if<!IsExceptionWrapper<T>::value &&!IsSm
 | Parameter | Type | Description |
 | --- | --- | --- |
 | obj | T\& | Structure value to convert to string. |
-
-### ReturnValue
-
-[String](../../string/) representation of **obj**.
-
-## See Also
-
-* Class [String](../../string/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::ToString(const T\&) method
-
-
-Substitution for C# ToString method to work on any C++ type.
-
-```cpp
-template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&!std::is_scalar<T>::value &&!IsNullable<T>::value, String>::type System::ObjectExt::ToString(const T &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Structure type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const T\& | Structure value to convert to string. |
-
-### ReturnValue
-
-[String](../../string/) representation of **obj**.
-
-## See Also
-
-* Class [String](../../string/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## ObjectExt::ToString(T\&&) method
-
-
-Substitution for C# ToString method to work on any C++ type.
-
-```cpp
-template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&!std::is_scalar<T>::value &&!IsNullable<T>::value &&!std::is_reference<T>::value, String>::type System::ObjectExt::ToString(T &&obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Scalar type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | T\&& | Scalar value to convert to string. |
 
 ### ReturnValue
 

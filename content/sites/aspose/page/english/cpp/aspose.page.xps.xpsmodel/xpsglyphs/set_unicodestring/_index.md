@@ -4,7 +4,7 @@ linktitle: set_UnicodeString
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs::set_UnicodeString method. Returns/sets the string of text rendered by the Glyphs element. The text is specified as Unicode code points in C++.'
 type: docs
-weight: 1500
+weight: 2000
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/set_unicodestring/
 ---
 ## XpsGlyphs::set_UnicodeString method

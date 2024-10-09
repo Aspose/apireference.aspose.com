@@ -4,7 +4,7 @@ linktitle: get_ParentNode
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_ParentNode method. Returns the parent of this node (for nodes that can have parents) in C++.'
 type: docs
-weight: 500
+weight: 2100
 url: /cpp/system.xml/xmlnode/get_parentnode/
 ---
 ## XmlNode::get_ParentNode method

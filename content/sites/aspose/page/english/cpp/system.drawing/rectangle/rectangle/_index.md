@@ -21,28 +21,6 @@ System::Drawing::Rectangle::Rectangle()
 * Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)
-## Rectangle::Rectangle(int, int, int, int) constructor
-
-
-Constructs a new instance of [Rectangle](../) object that represents a rectangle with the specified coordinates of its upper left corner and width and height.
-
-```cpp
-System::Drawing::Rectangle::Rectangle(int x, int y, int width, int height)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | int | A value of the X coordinate of the upper left corner of the rectangle |
-| y | int | A value of the Y coordinate of the upper left corner of the rectangle |
-| width | int | The width of the rectangle |
-| height | int | The height of the rectangle |
-
-## See Also
-
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Rectangle::Rectangle(const Point\&, const Size\&) constructor
 
 
@@ -82,6 +60,28 @@ System::Drawing::Rectangle::Rectangle(const System::Windows::Forms::Screen::Rect
 ## See Also
 
 * Class [Rectangle_](../../../system.windows.forms/screen/rectangle_/)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Page for C++](../../../)
+## Rectangle::Rectangle(int, int, int, int) constructor
+
+
+Constructs a new instance of [Rectangle](../) object that represents a rectangle with the specified coordinates of its upper left corner and width and height.
+
+```cpp
+System::Drawing::Rectangle::Rectangle(int x, int y, int width, int height)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | int | A value of the X coordinate of the upper left corner of the rectangle |
+| y | int | A value of the Y coordinate of the upper left corner of the rectangle |
+| width | int | The width of the rectangle |
+| height | int | The height of the rectangle |
+
+## See Also
+
 * Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.Page for C++](../../../)

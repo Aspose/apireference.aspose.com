@@ -4,7 +4,7 @@ linktitle: get_Prefix
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlElement::get_Prefix method. Returns the namespace prefix of this node in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/system.xml/xmlelement/get_prefix/
 ---
 ## XmlElement::get_Prefix method

@@ -4,7 +4,7 @@ linktitle: AcceptTcpClient
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpListener::AcceptTcpClient method. Accepts the pending connection request and returns the TcpClient-class instance that is used for sending and receiving data in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/system.net.sockets/tcplistener/accepttcpclient/
 ---
 ## TcpListener::AcceptTcpClient method

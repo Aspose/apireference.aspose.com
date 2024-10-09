@@ -4,7 +4,7 @@ linktitle: get_CanWrite
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::CryptoStream::get_CanWrite method. Checks if stream is writable in C++.'
 type: docs
-weight: 1400
+weight: 700
 url: /cpp/system.security.cryptography/cryptostream/get_canwrite/
 ---
 ## CryptoStream::get_CanWrite method

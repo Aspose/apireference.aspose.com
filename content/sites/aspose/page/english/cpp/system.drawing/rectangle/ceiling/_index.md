@@ -4,7 +4,7 @@ linktitle: Ceiling
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::Ceiling method. Constructs a Rectangle object from the specified RectangleF object by rounding the RectangleF object''s location and size values to the next higher integer values in C++.'
 type: docs
-weight: 3100
+weight: 3000
 url: /cpp/system.drawing/rectangle/ceiling/
 ---
 ## Rectangle::Ceiling method

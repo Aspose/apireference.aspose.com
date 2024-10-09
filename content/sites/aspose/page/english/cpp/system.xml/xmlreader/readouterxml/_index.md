@@ -4,7 +4,7 @@ linktitle: ReadOuterXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadOuterXml method. When overridden in a derived class, reads the content, including markup, representing this node and all its children in C++.'
 type: docs
-weight: 7400
+weight: 6700
 url: /cpp/system.xml/xmlreader/readouterxml/
 ---
 ## XmlReader::ReadOuterXml method

@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::IList::Add method. Adds item to the end of list in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.collections/ilist/add/
 ---
 ## IList::Add method

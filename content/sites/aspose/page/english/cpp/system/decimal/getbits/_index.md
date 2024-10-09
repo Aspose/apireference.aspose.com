@@ -4,7 +4,7 @@ linktitle: GetBits
 second_title: Aspose.Page for C++
 description: 'System::Decimal::GetBits method. Converts the specified Decimal object into the binary representation of the value it represents in C++.'
 type: docs
-weight: 4000
+weight: 3800
 url: /cpp/system/decimal/getbits/
 ---
 ## Decimal::GetBits method

@@ -4,7 +4,7 @@ linktitle: get_Pragma
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_Pragma method. Returns a value of the ''Pragma'' header in C++.'
 type: docs
-weight: 3900
+weight: 2200
 url: /cpp/system.net.http.headers/httprequestheaders/get_pragma/
 ---
 ## HttpRequestHeaders::get_Pragma method

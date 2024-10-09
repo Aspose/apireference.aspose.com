@@ -4,7 +4,7 @@ linktitle: XmlSchemaAll
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAll::XmlSchemaAll constructor. Initializes a new instance of the XmlSchemaAll class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaall/xmlschemaall/
 ---
 ## XmlSchemaAll::XmlSchemaAll constructor

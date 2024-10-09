@@ -4,7 +4,7 @@ linktitle: get_GlobalElements
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::get_GlobalElements method. Returns all the global elements in all the XML Schema definition language (XSD) schemas in the XmlSchemaSet in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system.xml.schema/xmlschemaset/get_globalelements/
 ---
 ## XmlSchemaSet::get_GlobalElements method

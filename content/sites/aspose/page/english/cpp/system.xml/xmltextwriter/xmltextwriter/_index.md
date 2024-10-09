@@ -4,7 +4,7 @@ linktitle: XmlTextWriter
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::XmlTextWriter constructor. Creates an instance of the XmlTextWriter class using the specified stream and encoding in C++.'
 type: docs
-weight: 1500
+weight: 100
 url: /cpp/system.xml/xmltextwriter/xmltextwriter/
 ---
 ## XmlTextWriter::XmlTextWriter(const SharedPtr\<IO::Stream\>\&, const SharedPtr\<Text::Encoding\>\&) constructor
@@ -30,6 +30,27 @@ System::Xml::XmlTextWriter::XmlTextWriter(const SharedPtr<IO::Stream> &w, const 
 * Class [XmlTextWriter](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)
+## XmlTextWriter::XmlTextWriter(const SharedPtr\<IO::TextWriter\>\&) constructor
+
+
+Creates an instance of the [XmlTextWriter](../) class using the specified TextWriter.
+
+```cpp
+System::Xml::XmlTextWriter::XmlTextWriter(const SharedPtr<IO::TextWriter> &w)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| w | const SharedPtr\<IO::TextWriter\>\& | The TextWriter to write to. It is assumed that the TextWriter is already set to the correct encoding. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextWriter](../../../system.io/textwriter/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlTextWriter::XmlTextWriter(const String\&, const SharedPtr\<Text::Encoding\>\&) constructor
 
 
@@ -50,27 +71,6 @@ System::Xml::XmlTextWriter::XmlTextWriter(const String &filename, const SharedPt
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Encoding](../../../system.text/encoding/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlTextWriter::XmlTextWriter(const SharedPtr\<IO::TextWriter\>\&) constructor
-
-
-Creates an instance of the [XmlTextWriter](../) class using the specified TextWriter.
-
-```cpp
-System::Xml::XmlTextWriter::XmlTextWriter(const SharedPtr<IO::TextWriter> &w)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| w | const SharedPtr\<IO::TextWriter\>\& | The TextWriter to write to. It is assumed that the TextWriter is already set to the correct encoding. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextWriter](../../../system.io/textwriter/)
 * Class [XmlTextWriter](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.Page for C++](../../../)

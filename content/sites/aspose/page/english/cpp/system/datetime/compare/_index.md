@@ -4,7 +4,7 @@ linktitle: Compare
 second_title: Aspose.Page for C++
 description: 'System::DateTime::Compare method. Compares two values represented by the specified instances of DateTime class and returns the value indicating values'' relative positions on the time line in C++.'
 type: docs
-weight: 6600
+weight: 5500
 url: /cpp/system/datetime/compare/
 ---
 ## DateTime::Compare method

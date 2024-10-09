@@ -4,7 +4,7 @@ linktitle: Header
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap::Element::Header field. The string representation of the ''Header'' element name in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.web.services/soap/element/header/
 ---
 ## Header field

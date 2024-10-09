@@ -2,11 +2,27 @@
 title: System::Security::Cryptography::RijndaelManaged::CreateDecryptor method
 linktitle: CreateDecryptor
 second_title: Aspose.Page for C++
-description: 'System::Security::Cryptography::RijndaelManaged::CreateDecryptor method. Creates decryptor object with explicit parameters in C++.'
+description: 'System::Security::Cryptography::RijndaelManaged::CreateDecryptor method. Creates decryptor object with parameters defined by algorithm object in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.security.cryptography/rijndaelmanaged/createdecryptor/
 ---
+## RijndaelManaged::CreateDecryptor() method
+
+
+Creates decryptor object with parameters defined by algorithm object.
+
+```cpp
+virtual SharedPtr<ICryptoTransform> System::Security::Cryptography::SymmetricAlgorithm::CreateDecryptor()
+```
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICryptoTransform](../../icryptotransform/)
+* Class [RijndaelManaged](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Page for C++](../../../)
 ## RijndaelManaged::CreateDecryptor(System::ArrayPtr\<uint8_t\>, System::ArrayPtr\<uint8_t\>) method
 
 
@@ -31,22 +47,6 @@ Newly created decryptor object.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICryptoTransform](../../icryptotransform/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [RijndaelManaged](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Page for C++](../../../)
-## RijndaelManaged::CreateDecryptor() method
-
-
-Creates decryptor object with parameters defined by algorithm object.
-
-```cpp
-virtual SharedPtr<ICryptoTransform> System::Security::Cryptography::SymmetricAlgorithm::CreateDecryptor()
-```
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICryptoTransform](../../icryptotransform/)
 * Class [RijndaelManaged](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.Page for C++](../../../)

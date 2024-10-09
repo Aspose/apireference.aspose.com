@@ -4,7 +4,7 @@ linktitle: get_NextSibling
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_NextSibling method. Returns the node immediately following this node in C++.'
 type: docs
-weight: 800
+weight: 1700
 url: /cpp/system.xml/xmlnode/get_nextsibling/
 ---
 ## XmlNode::get_NextSibling method

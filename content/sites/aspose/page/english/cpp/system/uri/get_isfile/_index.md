@@ -4,7 +4,7 @@ linktitle: get_IsFile
 second_title: Aspose.Page for C++
 description: 'System::Uri::get_IsFile method. Determines if the URI represented by the current object is a file in C++.'
 type: docs
-weight: 700
+weight: 1300
 url: /cpp/system/uri/get_isfile/
 ---
 ## Uri::get_IsFile method

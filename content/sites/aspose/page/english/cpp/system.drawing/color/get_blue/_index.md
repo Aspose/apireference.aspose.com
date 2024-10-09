@@ -4,7 +4,7 @@ linktitle: get_Blue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Blue method. Returns a color whose ARGB value in hexadecimal notation is #FF0000FF in C++.'
 type: docs
-weight: 3200
+weight: 3100
 url: /cpp/system.drawing/color/get_blue/
 ---
 ## Color::get_Blue method

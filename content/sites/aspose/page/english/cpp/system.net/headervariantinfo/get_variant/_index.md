@@ -4,7 +4,7 @@ linktitle: get_Variant
 second_title: Aspose.Page for C++
 description: 'System::Net::HeaderVariantInfo::get_Variant method. Returns the cookie''s specification in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net/headervariantinfo/get_variant/
 ---
 ## HeaderVariantInfo::get_Variant method

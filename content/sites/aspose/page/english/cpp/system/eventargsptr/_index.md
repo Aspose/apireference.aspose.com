@@ -4,7 +4,7 @@ linktitle: EventArgsPtr
 second_title: Aspose.Page for C++
 description: 'System::EventArgsPtr typedef. Shared pointer to an instance of EventArgs class in C++.'
 type: docs
-weight: 11500
+weight: 10800
 url: /cpp/system/eventargsptr/
 ---
 ## EventArgsPtr typedef

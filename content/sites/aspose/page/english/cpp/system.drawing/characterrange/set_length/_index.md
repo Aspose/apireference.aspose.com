@@ -4,7 +4,7 @@ linktitle: set_Length
 second_title: Aspose.Page for C++
 description: 'System::Drawing::CharacterRange::set_Length method. Returns the number of characters in the range represented by the current object in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.drawing/characterrange/set_length/
 ---
 ## CharacterRange::set_Length method

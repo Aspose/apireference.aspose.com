@@ -4,7 +4,7 @@ linktitle: Serpentine
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::InputBin::MediaPath::Serpentine field. Serpentine value in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/inputbin/mediapath/serpentine/
 ---
 ## Serpentine field

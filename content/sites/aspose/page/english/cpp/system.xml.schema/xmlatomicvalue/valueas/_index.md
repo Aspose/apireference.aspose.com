@@ -4,7 +4,7 @@ linktitle: ValueAs
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlAtomicValue::ValueAs method. Returns the validated XML element or attribute''s value as the type specified using the IXmlNamespaceResolver object specified to resolve namespace prefixes in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.xml.schema/xmlatomicvalue/valueas/
 ---
 ## XmlAtomicValue::ValueAs method

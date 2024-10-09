@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Name method. Gets the cookie''s name in C++.'
 type: docs
-weight: 1700
+weight: 1300
 url: /cpp/system.net/cookie/get_name/
 ---
 ## Cookie::get_Name method

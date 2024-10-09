@@ -4,7 +4,7 @@ linktitle: get_From
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_From method. Gets a value of the ''From'' header in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/system.net.http.headers/httprequestheaders/get_from/
 ---
 ## HttpRequestHeaders::get_From method

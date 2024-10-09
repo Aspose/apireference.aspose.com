@@ -4,7 +4,7 @@ linktitle: AddBeziers
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::AddBeziers method. Adds a sequence of connected cubic Bezier curves to the current figure in C++.'
 type: docs
-weight: 1100
+weight: 500
 url: /cpp/system.drawing.drawing2d/graphicspath/addbeziers/
 ---
 ## GraphicsPath::AddBeziers(const ArrayPtr\<Point\>\&) method

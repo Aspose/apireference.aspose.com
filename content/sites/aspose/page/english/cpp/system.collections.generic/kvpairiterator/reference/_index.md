@@ -4,7 +4,7 @@ linktitle: reference
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic::KVPairIterator::reference typedef of System::Collections::Generic::KVPairIterator class in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/system.collections.generic/kvpairiterator/reference/
 ---
 ## reference typedef

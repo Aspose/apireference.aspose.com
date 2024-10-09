@@ -4,7 +4,7 @@ linktitle: SetStream
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::SetStream method. Sets the stream that contains the SOAP message data in C++.'
 type: docs
-weight: 1100
+weight: 2700
 url: /cpp/system.web.services.protocols/soapmessage/setstream/
 ---
 ## SoapMessage::SetStream method

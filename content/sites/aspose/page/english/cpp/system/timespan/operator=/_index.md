@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::operator= method. Sets the time interval represented by the specified TimeSpan object to the current TimeSpan object in C++.'
 type: docs
-weight: 200
+weight: 2900
 url: /cpp/system/timespan/operator=/
 ---
 ## TimeSpan::operator= method

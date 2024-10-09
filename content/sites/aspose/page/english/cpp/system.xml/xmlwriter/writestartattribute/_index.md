@@ -2,11 +2,31 @@
 title: System::Xml::XmlWriter::WriteStartAttribute method
 linktitle: WriteStartAttribute
 second_title: Aspose.Page for C++
-description: 'System::Xml::XmlWriter::WriteStartAttribute method. Writes the start of an attribute with the specified local name and namespace URI in C++.'
+description: 'System::Xml::XmlWriter::WriteStartAttribute method. Writes the start of an attribute with the specified local name in C++.'
 type: docs
-weight: 1200
+weight: 3000
 url: /cpp/system.xml/xmlwriter/writestartattribute/
 ---
+## XmlWriter::WriteStartAttribute(const String\&) method
+
+
+Writes the start of an attribute with the specified local name.
+
+```cpp
+void System::Xml::XmlWriter::WriteStartAttribute(const String &localName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| localName | const String\& | The local name of the attribute. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XmlWriter::WriteStartAttribute(const String\&, const String\&) method
 
 
@@ -43,26 +63,6 @@ virtual void System::Xml::XmlWriter::WriteStartAttribute(const String &prefix, c
 | prefix | const String\& | The namespace prefix of the attribute. |
 | localName | const String\& | The local name of the attribute. |
 | ns | const String\& | The namespace URI for the attribute. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Page for C++](../../../)
-## XmlWriter::WriteStartAttribute(const String\&) method
-
-
-Writes the start of an attribute with the specified local name.
-
-```cpp
-void System::Xml::XmlWriter::WriteStartAttribute(const String &localName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| localName | const String\& | The local name of the attribute. |
 
 ## See Also
 

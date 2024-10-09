@@ -4,7 +4,7 @@ linktitle: set_Oid
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::AsnEncodedData::set_Oid method. Sets object identifier of encoded data in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.security.cryptography/asnencodeddata/set_oid/
 ---
 ## AsnEncodedData::set_Oid method

@@ -4,7 +4,7 @@ linktitle: IsMultiImage
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Bitmap::IsMultiImage method. Returns whether the original format is a multi-image in C++.'
 type: docs
-weight: 1900
+weight: 1400
 url: /cpp/system.drawing/bitmap/ismultiimage/
 ---
 ## Bitmap::IsMultiImage method

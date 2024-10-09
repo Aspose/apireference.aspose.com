@@ -4,7 +4,7 @@ linktitle: get_DimGray
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_DimGray method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF696969 in C++.'
 type: docs
-weight: 4200
+weight: 4100
 url: /cpp/system.drawing/pens/get_dimgray/
 ---
 ## Pens::get_DimGray method

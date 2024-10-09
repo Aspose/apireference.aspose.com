@@ -4,7 +4,7 @@ linktitle: Random
 second_title: Aspose.Page for C++
 description: 'System::Random::Random constructor. Initializes a new instance, using a time-dependent default seed value in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system/random/random/
 ---
 ## Random::Random() constructor

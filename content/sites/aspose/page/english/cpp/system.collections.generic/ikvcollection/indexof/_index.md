@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::IndexOf method. Gets index of item in container in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.collections.generic/ikvcollection/indexof/
 ---
 ## IKVCollection::IndexOf method

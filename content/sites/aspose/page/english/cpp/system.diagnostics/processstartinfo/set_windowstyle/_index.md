@@ -4,7 +4,7 @@ linktitle: set_WindowStyle
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::ProcessStartInfo::set_WindowStyle method. Sets window style in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/system.diagnostics/processstartinfo/set_windowstyle/
 ---
 ## ProcessStartInfo::set_WindowStyle method

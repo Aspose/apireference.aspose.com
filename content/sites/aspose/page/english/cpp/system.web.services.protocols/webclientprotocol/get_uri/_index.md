@@ -4,7 +4,7 @@ linktitle: get_Uri
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::WebClientProtocol::get_Uri method. Gets the XML Web service URI in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/system.web.services.protocols/webclientprotocol/get_uri/
 ---
 ## WebClientProtocol::get_Uri method

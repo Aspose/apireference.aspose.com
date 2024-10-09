@@ -4,7 +4,7 @@ linktitle: get_Snow
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_Snow method. Returns a color whose ARGB value in hexadecimal notation is #FFFFFAFA in C++.'
 type: docs
-weight: 14900
+weight: 14800
 url: /cpp/system.drawing/color/get_snow/
 ---
 ## Color::get_Snow method

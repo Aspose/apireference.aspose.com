@@ -4,7 +4,7 @@ linktitle: GetAdjustedPalette
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::GetAdjustedPalette method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/system.drawing.imaging/imageattributes/getadjustedpalette/
 ---
 ## ImageAttributes::GetAdjustedPalette method

@@ -4,7 +4,7 @@ linktitle: set_XmlResolver
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::set_XmlResolver method. Sets the XmlResolver used to resolve namespaces or locations referenced in include and import elements of a schema in C++.'
 type: docs
-weight: 300
+weight: 1800
 url: /cpp/system.xml.schema/xmlschemaset/set_xmlresolver/
 ---
 ## XmlSchemaSet::set_XmlResolver method

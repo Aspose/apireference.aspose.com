@@ -4,7 +4,7 @@ linktitle: get_LocalEndPoint
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::get_LocalEndPoint method. Returns the local endpoint in C++.'
 type: docs
-weight: 500
+weight: 2700
 url: /cpp/system.net.sockets/socket/get_localendpoint/
 ---
 ## Socket::get_LocalEndPoint method

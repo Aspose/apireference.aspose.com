@@ -4,7 +4,7 @@ linktitle: ReferenceEquals
 second_title: Aspose.Page for C++
 description: 'System::Object::ReferenceEquals method. Specialization of Object::ReferenceEquals for case of string and nullptr in C++.'
 type: docs
-weight: 2100
+weight: 1200
 url: /cpp/system/object/referenceequals/
 ---
 ## Object::ReferenceEquals(String const\&, std::nullptr_t) method
@@ -81,6 +81,33 @@ True if pointers match and false otherwise.
 * Class [Object](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## Object::ReferenceEquals(T const\&, std::nullptr_t) method
+
+
+Reference-compares value type object with nullptr.
+
+```cpp
+template<typename T> static std::enable_if<!IsSmartPtr<T>::value, bool>::type System::Object::ReferenceEquals(T const &objA, std::nullptr_t)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Type of object to compare. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| objA | T const\& | First object to compare. |
+
+### ReturnValue
+
+Always returns false as value types cannot be nulled.
+
+## See Also
+
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Object::ReferenceEquals(T const\&, T const\&) method
 
 
@@ -103,33 +130,6 @@ template<typename T> static std::enable_if<!IsSmartPtr<T>::value, bool>::type Sy
 ### ReturnValue
 
 True if object addresses match and false otherwise.
-
-## See Also
-
-* Class [Object](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Object::ReferenceEquals(T const\&, std::nullptr_t) method
-
-
-Reference-compares value type object with nullptr.
-
-```cpp
-template<typename T> static std::enable_if<!IsSmartPtr<T>::value, bool>::type System::Object::ReferenceEquals(T const &objA, std::nullptr_t)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Type of object to compare. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| objA | T const\& | First object to compare. |
-
-### ReturnValue
-
-Always returns false as value types cannot be nulled.
 
 ## See Also
 

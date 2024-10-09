@@ -4,7 +4,7 @@ linktitle: get_DataCollection
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::XpsConverterOptions::get_DataCollection method. Returns XpsConverterOptions plugin data collection in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.page.plugins/xpsconverteroptions/get_datacollection/
 ---
 ## XpsConverterOptions::get_DataCollection method

@@ -4,7 +4,7 @@ linktitle: get_Warning
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_Warning method. Returns a value of the ''Warning'' header in C++.'
 type: docs
-weight: 2800
+weight: 2100
 url: /cpp/system.net.http.headers/httpresponseheaders/get_warning/
 ---
 ## HttpResponseHeaders::get_Warning method

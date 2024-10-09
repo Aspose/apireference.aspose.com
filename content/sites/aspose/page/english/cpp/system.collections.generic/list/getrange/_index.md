@@ -4,7 +4,7 @@ linktitle: GetRange
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::GetRange method. Creates slice of list in C++.'
 type: docs
-weight: 3500
+weight: 2800
 url: /cpp/system.collections.generic/list/getrange/
 ---
 ## List::GetRange method

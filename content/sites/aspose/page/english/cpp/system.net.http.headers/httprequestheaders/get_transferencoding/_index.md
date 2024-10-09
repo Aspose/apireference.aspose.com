@@ -4,7 +4,7 @@ linktitle: get_TransferEncoding
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_TransferEncoding method. Returns a value of the ''Transfer-Encoding'' header in C++.'
 type: docs
-weight: 4100
+weight: 2800
 url: /cpp/system.net.http.headers/httprequestheaders/get_transferencoding/
 ---
 ## HttpRequestHeaders::get_TransferEncoding method

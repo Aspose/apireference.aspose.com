@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieCollection::Remove method. Removes the specified cookie from the collection in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.net/cookiecollection/remove/
 ---
 ## CookieCollection::Remove method

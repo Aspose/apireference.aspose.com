@@ -4,7 +4,7 @@ linktitle: get_LocalName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNotation::get_LocalName method. Returns the name of the current node without the namespace prefix in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml/xmlnotation/get_localname/
 ---
 ## XmlNotation::get_LocalName method

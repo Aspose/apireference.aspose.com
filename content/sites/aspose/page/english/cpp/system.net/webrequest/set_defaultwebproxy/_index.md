@@ -4,7 +4,7 @@ linktitle: set_DefaultWebProxy
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::set_DefaultWebProxy method. Sets the global HTTP proxy in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.net/webrequest/set_defaultwebproxy/
 ---
 ## WebRequest::set_DefaultWebProxy method

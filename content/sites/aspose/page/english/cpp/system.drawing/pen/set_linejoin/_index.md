@@ -4,7 +4,7 @@ linktitle: set_LineJoin
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_LineJoin method. Sets a value that specifies how the lines drawn by this Pen object are joined in C++.'
 type: docs
-weight: 1100
+weight: 3400
 url: /cpp/system.drawing/pen/set_linejoin/
 ---
 ## Pen::set_LineJoin method

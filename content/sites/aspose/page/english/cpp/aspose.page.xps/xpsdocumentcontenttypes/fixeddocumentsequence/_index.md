@@ -4,7 +4,7 @@ linktitle: FixedDocumentSequence
 second_title: Aspose.Page for C++
 description: 'How to use FixedDocumentSequence field of Aspose::Page::XPS::XpsDocumentContentTypes class in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.page.xps/xpsdocumentcontenttypes/fixeddocumentsequence/
 ---
 ## FixedDocumentSequence field

@@ -4,7 +4,7 @@ linktitle: CookieCutter
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::CookieCutter method. Copies cookies from the specified HTTP header for the specified URI in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/system.net/cookiecontainer/cookiecutter/
 ---
 ## CookieContainer::CookieCutter method

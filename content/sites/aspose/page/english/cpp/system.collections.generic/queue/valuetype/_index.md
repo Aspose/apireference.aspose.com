@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::ValueType typedef. This type in C++.'
 type: docs
-weight: 1400
+weight: 1700
 url: /cpp/system.collections.generic/queue/valuetype/
 ---
 ## ValueType typedef

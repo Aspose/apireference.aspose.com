@@ -4,7 +4,7 @@ linktitle: set_AnyAttribute
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexContentExtension::set_AnyAttribute method. Sets the XmlSchemaAnyAttribute component of the complex content model in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.xml.schema/xmlschemacomplexcontentextension/set_anyattribute/
 ---
 ## XmlSchemaComplexContentExtension::set_AnyAttribute method

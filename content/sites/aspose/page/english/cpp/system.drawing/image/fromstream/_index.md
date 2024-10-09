@@ -4,7 +4,7 @@ linktitle: FromStream
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::FromStream method. Creates an Image object from the specified stream in C++.'
 type: docs
-weight: 2700
+weight: 2900
 url: /cpp/system.drawing/image/fromstream/
 ---
 ## Image::FromStream method

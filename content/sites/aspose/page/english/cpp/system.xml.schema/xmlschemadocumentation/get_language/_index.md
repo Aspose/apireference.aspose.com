@@ -4,7 +4,7 @@ linktitle: get_Language
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDocumentation::get_Language method. Returns the xml:lang attribute. This serves as an indicator of the language used in the contents in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.schema/xmlschemadocumentation/get_language/
 ---
 ## XmlSchemaDocumentation::get_Language method

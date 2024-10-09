@@ -4,7 +4,7 @@ linktitle: GetExtensionObject
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltArgumentList::GetExtensionObject method. Returns the object associated with the given namespace in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.xml.xsl/xsltargumentlist/getextensionobject/
 ---
 ## XsltArgumentList::GetExtensionObject method

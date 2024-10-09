@@ -4,7 +4,7 @@ linktitle: CreatePath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePath method. Creates a new path in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpath/
 ---
 ## PageAPI::CreatePath method

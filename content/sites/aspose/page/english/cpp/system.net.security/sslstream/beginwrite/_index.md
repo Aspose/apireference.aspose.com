@@ -4,7 +4,7 @@ linktitle: BeginWrite
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::BeginWrite method. Initiates an asynchronous write operation in C++.'
 type: docs
-weight: 3500
+weight: 400
 url: /cpp/system.net.security/sslstream/beginwrite/
 ---
 ## SslStream::BeginWrite method

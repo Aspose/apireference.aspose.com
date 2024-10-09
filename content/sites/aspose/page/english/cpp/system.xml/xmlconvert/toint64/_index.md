@@ -4,7 +4,7 @@ linktitle: ToInt64
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToInt64 method. Converts the String to a Int64 equivalent in C++.'
 type: docs
-weight: 2500
+weight: 2100
 url: /cpp/system.xml/xmlconvert/toint64/
 ---
 ## XmlConvert::ToInt64 method

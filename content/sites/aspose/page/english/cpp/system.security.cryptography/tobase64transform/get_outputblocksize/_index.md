@@ -4,7 +4,7 @@ linktitle: get_OutputBlockSize
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::ToBase64Transform::get_OutputBlockSize method. Output block size in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/system.security.cryptography/tobase64transform/get_outputblocksize/
 ---
 ## ToBase64Transform::get_OutputBlockSize method

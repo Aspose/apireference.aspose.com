@@ -4,7 +4,7 @@ linktitle: get_LocalName
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlProcessingInstruction::get_LocalName method. Returns the local name of the node in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml/xmlprocessinginstruction/get_localname/
 ---
 ## XmlProcessingInstruction::get_LocalName method

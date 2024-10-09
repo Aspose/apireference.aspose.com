@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaCollectionEnumerator::Dispose method. Does nothing in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.xml.schema/xmlschemacollectionenumerator/dispose/
 ---
 ## XmlSchemaCollectionEnumerator::Dispose method

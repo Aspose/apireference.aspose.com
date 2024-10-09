@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CompareInfo::get_Name method. Gets name of the culture associated with comparer in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.globalization/compareinfo/get_name/
 ---
 ## CompareInfo::get_Name method

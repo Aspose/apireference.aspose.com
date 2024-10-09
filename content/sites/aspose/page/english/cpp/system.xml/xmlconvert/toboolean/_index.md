@@ -4,7 +4,7 @@ linktitle: ToBoolean
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToBoolean method. Converts the String to a Boolean equivalent in C++.'
 type: docs
-weight: 1900
+weight: 1100
 url: /cpp/system.xml/xmlconvert/toboolean/
 ---
 ## XmlConvert::ToBoolean method

@@ -4,7 +4,7 @@ linktitle: SetLanguageLevel
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobDeviceLanguage::JobDeviceLanguageOption::SetLanguageLevel method. Sets the LanguageLevel scored property value in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.xps.xpsmetadata/jobdevicelanguage/jobdevicelanguageoption/setlanguagelevel/
 ---
 ## JobDeviceLanguageOption::SetLanguageLevel method

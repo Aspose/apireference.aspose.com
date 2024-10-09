@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Net::PathList::idx_get method. Gets the cookie collection by specified path in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.net/pathlist/idx_get/
 ---
 ## PathList::idx_get method

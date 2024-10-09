@@ -4,7 +4,7 @@ linktitle: get_DarkTurquoise
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DarkTurquoise method. Returns a color whose ARGB value in hexadecimal notation is #FF00CED1 in C++.'
 type: docs
-weight: 5900
+weight: 5800
 url: /cpp/system.drawing/color/get_darkturquoise/
 ---
 ## Color::get_DarkTurquoise method

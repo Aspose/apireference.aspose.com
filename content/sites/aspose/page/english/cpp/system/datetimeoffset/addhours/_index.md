@@ -4,7 +4,7 @@ linktitle: AddHours
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddHours method. Adds a specified number of hours to the DateTimeOffset object in C++.'
 type: docs
-weight: 2300
+weight: 400
 url: /cpp/system/datetimeoffset/addhours/
 ---
 ## DateTimeOffset::AddHours method

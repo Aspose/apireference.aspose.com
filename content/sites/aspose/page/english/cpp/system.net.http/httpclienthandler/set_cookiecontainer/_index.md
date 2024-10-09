@@ -4,7 +4,7 @@ linktitle: set_CookieContainer
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClientHandler::set_CookieContainer method. Sets the cookie container that is used to store server cookies in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.net.http/httpclienthandler/set_cookiecontainer/
 ---
 ## HttpClientHandler::set_CookieContainer method

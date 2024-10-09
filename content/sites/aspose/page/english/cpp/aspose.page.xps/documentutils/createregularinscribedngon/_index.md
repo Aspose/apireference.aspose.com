@@ -4,7 +4,7 @@ linktitle: CreateRegularInscribedNGon
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreateRegularInscribedNGon method. Creates a path geometry representing a regular n-gon inscribed in a circle in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.page.xps/documentutils/createregularinscribedngon/
 ---
 ## DocumentUtils::CreateRegularInscribedNGon method

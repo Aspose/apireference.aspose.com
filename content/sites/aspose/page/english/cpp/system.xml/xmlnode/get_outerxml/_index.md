@@ -4,7 +4,7 @@ linktitle: get_OuterXml
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlNode::get_OuterXml method. Returns the markup containing this node and all its child nodes in C++.'
 type: docs
-weight: 2100
+weight: 1900
 url: /cpp/system.xml/xmlnode/get_outerxml/
 ---
 ## XmlNode::get_OuterXml method

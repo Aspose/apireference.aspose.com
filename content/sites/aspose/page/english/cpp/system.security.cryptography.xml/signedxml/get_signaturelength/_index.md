@@ -4,7 +4,7 @@ linktitle: get_SignatureLength
 second_title: Aspose.Page for C++
 description: 'How to use get_SignatureLength method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.security.cryptography.xml/signedxml/get_signaturelength/
 ---
 ## SignedXml::get_SignatureLength method

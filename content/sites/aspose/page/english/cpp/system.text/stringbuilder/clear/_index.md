@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::Clear method. Removes all characters from the builder in C++.'
 type: docs
-weight: 1300
+weight: 600
 url: /cpp/system.text/stringbuilder/clear/
 ---
 ## StringBuilder::Clear method

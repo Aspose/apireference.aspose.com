@@ -4,7 +4,7 @@ linktitle: IsSurrogatePair
 second_title: Aspose.Page for C++
 description: 'System::Char::IsSurrogatePair method. Determines whether the two specified characters for a UTF-16 surrogate pair in C++.'
 type: docs
-weight: 300
+weight: 1700
 url: /cpp/system/char/issurrogatepair/
 ---
 ## Char::IsSurrogatePair(char_t, char_t) method

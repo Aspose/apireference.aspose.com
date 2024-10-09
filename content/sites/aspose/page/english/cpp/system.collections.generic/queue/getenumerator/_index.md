@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::Queue::GetEnumerator method. Gets enumerator to iterate through the queue in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/system.collections.generic/queue/getenumerator/
 ---
 ## Queue::GetEnumerator method

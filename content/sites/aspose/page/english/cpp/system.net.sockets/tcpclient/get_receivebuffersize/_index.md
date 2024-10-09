@@ -4,7 +4,7 @@ linktitle: get_ReceiveBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::get_ReceiveBufferSize method. Gets the size of the buffer that is used for receiving data in C++.'
 type: docs
-weight: 700
+weight: 1300
 url: /cpp/system.net.sockets/tcpclient/get_receivebuffersize/
 ---
 ## TcpClient::get_ReceiveBufferSize method

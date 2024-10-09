@@ -4,7 +4,7 @@ linktitle: SaveAdd
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::SaveAdd method. Adds a frame to the file or stream specified in a previous call to the Save() method in C++.'
 type: docs
-weight: 200
+weight: 2300
 url: /cpp/system.drawing/image/saveadd/
 ---
 ## Image::SaveAdd(const Imaging::EncoderParametersPtr\&) method

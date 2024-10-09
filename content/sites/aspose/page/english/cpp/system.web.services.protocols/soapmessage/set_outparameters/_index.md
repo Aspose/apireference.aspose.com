@@ -4,7 +4,7 @@ linktitle: set_OutParameters
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::set_OutParameters method. Sets the output parameters passed into the XML Web service method in C++.'
 type: docs
-weight: 400
+weight: 2300
 url: /cpp/system.web.services.protocols/soapmessage/set_outparameters/
 ---
 ## SoapMessage::set_OutParameters method

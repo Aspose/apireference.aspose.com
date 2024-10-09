@@ -4,7 +4,7 @@ linktitle: EndWrite
 second_title: Aspose.Page for C++
 description: 'System::IO::Stream::EndWrite method. Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/system.io/stream/endwrite/
 ---
 ## Stream::EndWrite method

@@ -4,7 +4,7 @@ linktitle: set_Namespace
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::set_Namespace method. Sets the namespace that is associated with the binding in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.web.services/webservicebindingattribute/set_namespace/
 ---
 ## WebServiceBindingAttribute::set_Namespace method

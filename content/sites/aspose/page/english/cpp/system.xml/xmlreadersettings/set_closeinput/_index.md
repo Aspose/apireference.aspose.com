@@ -4,7 +4,7 @@ linktitle: set_CloseInput
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::set_CloseInput method. Sets a value indicating whether the underlying stream or TextReader should be closed when the reader is closed in C++.'
 type: docs
-weight: 2700
+weight: 2200
 url: /cpp/system.xml/xmlreadersettings/set_closeinput/
 ---
 ## XmlReaderSettings::set_CloseInput method

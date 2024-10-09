@@ -4,7 +4,7 @@ linktitle: get_BodyName
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_BodyName method. Gets mail agent body compatible encoding name in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.text/encoding/get_bodyname/
 ---
 ## Encoding::get_BodyName method

@@ -4,7 +4,7 @@ linktitle: get_ETag
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_ETag method. Gets a value of the ''ETag'' header in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/system.net.http.headers/httpresponseheaders/get_etag/
 ---
 ## HttpResponseHeaders::get_ETag method

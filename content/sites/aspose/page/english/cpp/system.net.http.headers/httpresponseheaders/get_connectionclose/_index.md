@@ -4,7 +4,7 @@ linktitle: get_ConnectionClose
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpResponseHeaders::get_ConnectionClose method. Gets a value that indicates if the ''Connection'' header value contains ''Close'' in C++.'
 type: docs
-weight: 1700
+weight: 700
 url: /cpp/system.net.http.headers/httpresponseheaders/get_connectionclose/
 ---
 ## HttpResponseHeaders::get_ConnectionClose method

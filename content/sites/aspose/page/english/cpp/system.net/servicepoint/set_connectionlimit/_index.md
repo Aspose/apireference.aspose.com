@@ -4,7 +4,7 @@ linktitle: set_ConnectionLimit
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::set_ConnectionLimit method. Sets the maximum number of connections that are allowed by the current instance in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.net/servicepoint/set_connectionlimit/
 ---
 ## ServicePoint::set_ConnectionLimit method

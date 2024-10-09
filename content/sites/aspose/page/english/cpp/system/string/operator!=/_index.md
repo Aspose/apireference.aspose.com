@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'System::String::operator!= method. Non-equality comparison operator in C++.'
 type: docs
-weight: 2400
+weight: 2600
 url: /cpp/system/string/operator!=/
 ---
 ## String::operator!=(const String\&) const method

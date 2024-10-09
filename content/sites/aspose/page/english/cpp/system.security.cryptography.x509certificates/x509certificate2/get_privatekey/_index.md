@@ -4,7 +4,7 @@ linktitle: get_PrivateKey
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::get_PrivateKey method. Gets private key associated with certificate in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_privatekey/
 ---
 ## X509Certificate2::get_PrivateKey method

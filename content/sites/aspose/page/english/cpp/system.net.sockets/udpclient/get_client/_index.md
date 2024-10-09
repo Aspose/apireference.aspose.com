@@ -4,7 +4,7 @@ linktitle: get_Client
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::UdpClient::get_Client method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.net.sockets/udpclient/get_client/
 ---
 ## UdpClient::get_Client method

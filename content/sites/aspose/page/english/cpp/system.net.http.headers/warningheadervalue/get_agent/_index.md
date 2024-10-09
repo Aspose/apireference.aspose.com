@@ -4,7 +4,7 @@ linktitle: get_Agent
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::WarningHeaderValue::get_Agent method. Returns the host attached to the warning in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net.http.headers/warningheadervalue/get_agent/
 ---
 ## WarningHeaderValue::get_Agent method

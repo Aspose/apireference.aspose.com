@@ -4,7 +4,7 @@ linktitle: get_Parent
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_Parent method. Gets parent culture in C++.'
 type: docs
-weight: 1600
+weight: 2000
 url: /cpp/system.globalization/cultureinfo/get_parent/
 ---
 ## CultureInfo::get_Parent method

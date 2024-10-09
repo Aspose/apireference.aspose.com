@@ -4,7 +4,7 @@ linktitle: get_DigitSubstitution
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_DigitSubstitution method. Gets a value that specifies how to display shape of a digit in C++.'
 type: docs
-weight: 5600
+weight: 1000
 url: /cpp/system.globalization/numberformatinfo/get_digitsubstitution/
 ---
 ## NumberFormatInfo::get_DigitSubstitution method

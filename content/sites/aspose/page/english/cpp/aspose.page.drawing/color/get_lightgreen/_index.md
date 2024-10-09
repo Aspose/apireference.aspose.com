@@ -4,7 +4,7 @@ linktitle: get_LightGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LightGreen method. Gets a system-defined color that has an ARGB value of #FF90EE90 in C++.'
 type: docs
-weight: 6900
+weight: 7100
 url: /cpp/aspose.page.drawing/color/get_lightgreen/
 ---
 ## Color::get_LightGreen method

@@ -4,7 +4,7 @@ linktitle: operator RectangleF
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::operator RectangleF method. Returns a RectangleF object that represents a rectangle equivalent to the rectangle represented by the current object in C++.'
 type: docs
-weight: 2900
+weight: 2000
 url: /cpp/system.drawing/rectangle/operatorrectanglef/
 ---
 ## Rectangle::operator RectangleF method

@@ -4,7 +4,7 @@ linktitle: GetAscii
 second_title: Aspose.Page for C++
 description: 'System::Globalization::IdnMapping::GetAscii method. Convert unicode domain name to ascii equivalent in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.globalization/idnmapping/getascii/
 ---
 ## IdnMapping::GetAscii(const String\&) const method

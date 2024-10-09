@@ -4,7 +4,7 @@ linktitle: get_BaseTypeName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleContentRestriction::get_BaseTypeName method. Returns the name of the built-in data type or simple type from which this type is derived in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/get_basetypename/
 ---
 ## XmlSchemaSimpleContentRestriction::get_BaseTypeName method

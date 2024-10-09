@@ -4,7 +4,7 @@ linktitle: WriteJoin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::WriteJoin method. Writes out the join of the stroke in C++.'
 type: docs
-weight: 6800
+weight: 7200
 url: /cpp/aspose.page.eps.device/pdfdevice/writejoin/
 ---
 ## PdfDevice::WriteJoin method

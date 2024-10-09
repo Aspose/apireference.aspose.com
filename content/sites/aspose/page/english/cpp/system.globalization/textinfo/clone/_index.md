@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextInfo::Clone method. RTTI information in C++.'
 type: docs
-weight: 1900
+weight: 200
 url: /cpp/system.globalization/textinfo/clone/
 ---
 ## TextInfo::Clone method

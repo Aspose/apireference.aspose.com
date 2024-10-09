@@ -4,7 +4,7 @@ linktitle: get_OperationName
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::XpsConverterToPdfOptions::get_OperationName method. Returns operation name in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.plugins/xpsconvertertopdfoptions/get_operationname/
 ---
 ## XpsConverterToPdfOptions::get_OperationName method

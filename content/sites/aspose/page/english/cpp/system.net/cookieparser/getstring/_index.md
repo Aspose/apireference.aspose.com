@@ -4,7 +4,7 @@ linktitle: GetString
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieParser::GetString method. Returns the string representation of a cookie header in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net/cookieparser/getstring/
 ---
 ## CookieParser::GetString method

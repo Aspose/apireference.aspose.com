@@ -4,7 +4,7 @@ linktitle: get_DarkOrchid
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_DarkOrchid method. Gets a system-defined color that has an ARGB value of #FF9932CC in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.page.drawing/color/get_darkorchid/
 ---
 ## Color::get_DarkOrchid method

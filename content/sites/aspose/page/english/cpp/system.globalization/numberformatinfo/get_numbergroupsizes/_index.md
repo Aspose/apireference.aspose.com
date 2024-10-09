@@ -4,7 +4,7 @@ linktitle: get_NumberGroupSizes
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_NumberGroupSizes method. Gets numbers of digits per group in C++.'
 type: docs
-weight: 3800
+weight: 1900
 url: /cpp/system.globalization/numberformatinfo/get_numbergroupsizes/
 ---
 ## NumberFormatInfo::get_NumberGroupSizes method

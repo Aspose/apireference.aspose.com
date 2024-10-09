@@ -4,7 +4,7 @@ linktitle: get_Action
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::get_Action method. Returns a value of the ''SOAPAction'' attribute in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.web.services.protocols/soapmessage/get_action/
 ---
 ## SoapMessage::get_Action method

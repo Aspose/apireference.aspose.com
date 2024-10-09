@@ -4,7 +4,7 @@ linktitle: Equal
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::Equal method. Checks for parameters equality in C++.'
 type: docs
-weight: 1400
+weight: 600
 url: /cpp/system.security/securityelement/equal/
 ---
 ## SecurityElement::Equal method

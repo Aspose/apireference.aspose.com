@@ -4,7 +4,7 @@ linktitle: Ws
 second_title: Aspose.Page for C++
 description: 'System::Net::UriScheme::Ws field. The WS string representation in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.net/urischeme/ws/
 ---
 ## Ws field

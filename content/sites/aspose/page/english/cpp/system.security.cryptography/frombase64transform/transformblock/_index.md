@@ -4,7 +4,7 @@ linktitle: TransformBlock
 second_title: Aspose.Page for C++
 description: 'How to use TransformBlock method of System::Security::Cryptography::FromBase64Transform class in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.security.cryptography/frombase64transform/transformblock/
 ---
 ## FromBase64Transform::TransformBlock method

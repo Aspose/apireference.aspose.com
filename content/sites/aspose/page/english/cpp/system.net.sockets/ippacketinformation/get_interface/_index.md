@@ -4,7 +4,7 @@ linktitle: get_Interface
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::IPPacketInformation::get_Interface method. Returns the network interface information in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.net.sockets/ippacketinformation/get_interface/
 ---
 ## IPPacketInformation::get_Interface method

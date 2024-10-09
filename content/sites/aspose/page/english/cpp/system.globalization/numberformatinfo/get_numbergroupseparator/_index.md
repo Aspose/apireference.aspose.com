@@ -4,7 +4,7 @@ linktitle: get_NumberGroupSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_NumberGroupSeparator method. Gets number group separator in C++.'
 type: docs
-weight: 800
+weight: 1800
 url: /cpp/system.globalization/numberformatinfo/get_numbergroupseparator/
 ---
 ## NumberFormatInfo::get_NumberGroupSeparator method

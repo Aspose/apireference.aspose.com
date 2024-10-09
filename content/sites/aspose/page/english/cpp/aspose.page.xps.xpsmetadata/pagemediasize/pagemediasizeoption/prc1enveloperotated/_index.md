@@ -4,7 +4,7 @@ linktitle: PRC1EnvelopeRotated
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::PRC1EnvelopeRotated field. PRC1 envelope rotated in C++.'
 type: docs
-weight: 12500
+weight: 14600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/prc1enveloperotated/
 ---
 ## PRC1EnvelopeRotated field

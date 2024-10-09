@@ -21,20 +21,6 @@ System::WeakReference<>::WeakReference()
 * Class [WeakReference<>](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## WeakReference<>::WeakReference(std::nullptr_t) method
-
-
-Constructor from nullptr.
-
-```cpp
-System::WeakReference<>::WeakReference(std::nullptr_t)
-```
-
-## See Also
-
-* Class [WeakReference<>](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## WeakReference<>::WeakReference(const SmartPtr\<Object\>\&) method
 
 
@@ -75,6 +61,20 @@ System::WeakReference<>::WeakReference(const SmartPtr<Object> &data, bool trackR
 
 * Class [SmartPtr](../../smartptr/)
 * Class [Object](../../object/)
+* Class [WeakReference<>](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## WeakReference<>::WeakReference(std::nullptr_t) method
+
+
+Constructor from nullptr.
+
+```cpp
+System::WeakReference<>::WeakReference(std::nullptr_t)
+```
+
+## See Also
+
 * Class [WeakReference<>](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)

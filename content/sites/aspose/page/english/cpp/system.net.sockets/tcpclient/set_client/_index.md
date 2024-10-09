@@ -4,7 +4,7 @@ linktitle: set_Client
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::set_Client method. Sets the socket in C++.'
 type: docs
-weight: 200
+weight: 1800
 url: /cpp/system.net.sockets/tcpclient/set_client/
 ---
 ## TcpClient::set_Client method

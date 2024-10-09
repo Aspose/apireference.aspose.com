@@ -4,7 +4,7 @@ linktitle: get_ValueAsDouble
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_ValueAsDouble method. When overridden in a derived class, gets the item''s value as a Double in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.xml.xpath/xpathitem/get_valueasdouble/
 ---
 ## XPathItem::get_ValueAsDouble method

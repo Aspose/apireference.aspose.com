@@ -2,55 +2,28 @@
 title: System::Security::Cryptography::X509Certificates::X509Certificate::Import method
 linktitle: Import
 second_title: Aspose.Page for C++
-description: 'System::Security::Cryptography::X509Certificates::X509Certificate::Import method. Imports information from the specified certificate file. NOT IMPLEMENTED in C++.'
+description: 'System::Security::Cryptography::X509Certificates::X509Certificate::Import method. Imports information from the specified certificate data. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/import/
 ---
-## X509Certificate::Import(const String\&, const SecureStringPtr\&, X509KeyStorageFlags) method
+## X509Certificate::Import(const ByteArrayPtr\&) method
 
 
-Imports information from the specified certificate file. NOT IMPLEMENTED.
+Imports information from the specified certificate data. NOT IMPLEMENTED.
 
 ```cpp
-virtual void System::Security::Cryptography::X509Certificates::X509Certificate::Import(const String &filename, const SecureStringPtr &password, X509KeyStorageFlags key_storage_flags)
+virtual void System::Security::Cryptography::X509Certificates::X509Certificate::Import(const ByteArrayPtr &data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | const String\& | The certificate file name. |
-| password | const SecureStringPtr\& | The password required to access the certificate data. |
-| key_storage_flags | X509KeyStorageFlags |  |
+| data | const ByteArrayPtr\& | The certificate file name. |
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
-* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Page for C++](../../../)
-## X509Certificate::Import(const String\&, const String\&, X509KeyStorageFlags) method
-
-
-Imports information from the specified certificate file. NOT IMPLEMENTED.
-
-```cpp
-virtual void System::Security::Cryptography::X509Certificates::X509Certificate::Import(const String &filename, const String &password, X509KeyStorageFlags key_storage_flags)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | const String\& | The certificate file name. |
-| password | const String\& | The password required to access the certificate data. |
-| key_storage_flags | X509KeyStorageFlags |  |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
 * Class [X509Certificate](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -122,23 +95,50 @@ virtual void System::Security::Cryptography::X509Certificates::X509Certificate::
 * Class [X509Certificate](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.Page for C++](../../../)
-## X509Certificate::Import(const ByteArrayPtr\&) method
+## X509Certificate::Import(const String\&, const SecureStringPtr\&, X509KeyStorageFlags) method
 
 
-Imports information from the specified certificate data. NOT IMPLEMENTED.
+Imports information from the specified certificate file. NOT IMPLEMENTED.
 
 ```cpp
-virtual void System::Security::Cryptography::X509Certificates::X509Certificate::Import(const ByteArrayPtr &data)
+virtual void System::Security::Cryptography::X509Certificates::X509Certificate::Import(const String &filename, const SecureStringPtr &password, X509KeyStorageFlags key_storage_flags)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | const ByteArrayPtr\& | The certificate file name. |
+| filename | const String\& | The certificate file name. |
+| password | const SecureStringPtr\& | The password required to access the certificate data. |
+| key_storage_flags | X509KeyStorageFlags |  |
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [String](../../../system/string/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Class [X509Certificate](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Page for C++](../../../)
+## X509Certificate::Import(const String\&, const String\&, X509KeyStorageFlags) method
+
+
+Imports information from the specified certificate file. NOT IMPLEMENTED.
+
+```cpp
+virtual void System::Security::Cryptography::X509Certificates::X509Certificate::Import(const String &filename, const String &password, X509KeyStorageFlags key_storage_flags)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | const String\& | The certificate file name. |
+| password | const String\& | The password required to access the certificate data. |
+| key_storage_flags | X509KeyStorageFlags |  |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
 * Class [X509Certificate](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.Page for C++](../../../)

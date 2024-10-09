@@ -4,7 +4,7 @@ linktitle: set_Capacity
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::SortedList::set_Capacity method. Sets current list capacity in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/system.collections.generic/sortedlist/set_capacity/
 ---
 ## SortedList::set_Capacity method

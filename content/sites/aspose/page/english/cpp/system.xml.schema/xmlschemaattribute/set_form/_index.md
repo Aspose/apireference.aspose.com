@@ -4,7 +4,7 @@ linktitle: set_Form
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttribute::set_Form method. Sets the form for the attribute in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system.xml.schema/xmlschemaattribute/set_form/
 ---
 ## XmlSchemaAttribute::set_Form method

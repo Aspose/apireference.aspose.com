@@ -4,7 +4,7 @@ linktitle: Type
 second_title: Aspose.Page for C++
 description: 'System::Decimal::Type method. Returns a reference to the TypeInfo object representing the Decimal class'' type information in C++.'
 type: docs
-weight: 3900
+weight: 5900
 url: /cpp/system/decimal/type/
 ---
 ## Decimal::Type method

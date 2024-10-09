@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Text::StringBuilder::CopyTo method. Copies builder''s data into existing array positions in C++.'
 type: docs
-weight: 1800
+weight: 700
 url: /cpp/system.text/stringbuilder/copyto/
 ---
 ## StringBuilder::CopyTo method

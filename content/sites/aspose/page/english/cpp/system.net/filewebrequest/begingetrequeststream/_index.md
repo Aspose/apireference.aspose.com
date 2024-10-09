@@ -4,7 +4,7 @@ linktitle: BeginGetRequestStream
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebRequest::BeginGetRequestStream method. Initiates an asynchronous operation to get a stream for writing data to the resource in C++.'
 type: docs
-weight: 1200
+weight: 300
 url: /cpp/system.net/filewebrequest/begingetrequeststream/
 ---
 ## FileWebRequest::BeginGetRequestStream method

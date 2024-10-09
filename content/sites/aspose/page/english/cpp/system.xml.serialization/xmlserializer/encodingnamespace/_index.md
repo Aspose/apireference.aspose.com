@@ -4,7 +4,7 @@ linktitle: EncodingNamespace
 second_title: Aspose.Page for C++
 description: 'System::Xml::Serialization::XmlSerializer::EncodingNamespace field. Encoding namespace name in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.xml.serialization/xmlserializer/encodingnamespace/
 ---
 ## EncodingNamespace field

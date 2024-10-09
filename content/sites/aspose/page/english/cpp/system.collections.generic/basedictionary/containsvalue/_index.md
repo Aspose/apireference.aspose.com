@@ -4,7 +4,7 @@ linktitle: ContainsValue
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::ContainsValue method. Checks if value is present in dictionary. Uses operator == to compare values in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/system.collections.generic/basedictionary/containsvalue/
 ---
 ## BaseDictionary::ContainsValue method

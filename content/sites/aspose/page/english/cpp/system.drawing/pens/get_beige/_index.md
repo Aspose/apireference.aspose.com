@@ -4,7 +4,7 @@ linktitle: get_Beige
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Beige method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFF5F5DC in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.drawing/pens/get_beige/
 ---
 ## Pens::get_Beige method

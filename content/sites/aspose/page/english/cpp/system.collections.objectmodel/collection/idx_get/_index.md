@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::idx_get method. Gets value at specified index in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/system.collections.objectmodel/collection/idx_get/
 ---
 ## Collection::idx_get method

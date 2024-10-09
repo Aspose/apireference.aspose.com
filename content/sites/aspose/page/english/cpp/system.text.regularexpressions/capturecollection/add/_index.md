@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::CaptureCollection::Add method. Disables collection ammendment in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.text.regularexpressions/capturecollection/add/
 ---
 ## CaptureCollection::Add method

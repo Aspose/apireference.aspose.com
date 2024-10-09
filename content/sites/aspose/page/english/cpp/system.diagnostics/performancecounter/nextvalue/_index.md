@@ -4,7 +4,7 @@ linktitle: NextValue
 second_title: Aspose.Page for C++
 description: 'System::Diagnostics::PerformanceCounter::NextValue method. Gets next measured value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.diagnostics/performancecounter/nextvalue/
 ---
 ## PerformanceCounter::NextValue method

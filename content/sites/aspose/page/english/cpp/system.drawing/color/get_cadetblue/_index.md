@@ -4,7 +4,7 @@ linktitle: get_CadetBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_CadetBlue method. Returns a color whose ARGB value in hexadecimal notation is #FF5F9EA0 in C++.'
 type: docs
-weight: 3600
+weight: 3500
 url: /cpp/system.drawing/color/get_cadetblue/
 ---
 ## Color::get_CadetBlue method

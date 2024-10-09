@@ -4,7 +4,7 @@ linktitle: GetNearestColor
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::GetNearestColor method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 8600
+weight: 6000
 url: /cpp/system.drawing/graphics/getnearestcolor/
 ---
 ## Graphics::GetNearestColor method

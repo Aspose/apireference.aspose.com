@@ -4,7 +4,7 @@ linktitle: Stacker
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::OutputBin::BinType::Stacker field. Stacker bin in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.page.xps.xpsmetadata/outputbin/bintype/stacker/
 ---
 ## Stacker field

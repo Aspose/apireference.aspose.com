@@ -4,7 +4,7 @@ linktitle: UriFormat
 second_title: Aspose.Page for C++
 description: 'System::UriFormat enum. Specifies how the URI is escaped in C++.'
 type: docs
-weight: 8600
+weight: 8500
 url: /cpp/system/uriformat/
 ---
 ## UriFormat enum

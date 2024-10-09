@@ -4,7 +4,7 @@ linktitle: get_PowderBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_PowderBlue method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB0E0E6 in C++.'
 type: docs
-weight: 11300
+weight: 11200
 url: /cpp/system.drawing/pens/get_powderblue/
 ---
 ## Pens::get_PowderBlue method

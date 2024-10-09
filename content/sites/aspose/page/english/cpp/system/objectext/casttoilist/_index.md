@@ -4,7 +4,7 @@ linktitle: CastToIList
 second_title: Aspose.Page for C++
 description: 'How to use CastToIList method of System::ObjectExt class in C++.'
 type: docs
-weight: 1700
+weight: 400
 url: /cpp/system/objectext/casttoilist/
 ---
 ## ObjectExt::CastToIList method

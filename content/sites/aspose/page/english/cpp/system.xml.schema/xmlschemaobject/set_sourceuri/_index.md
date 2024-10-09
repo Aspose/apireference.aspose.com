@@ -4,7 +4,7 @@ linktitle: set_SourceUri
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObject::set_SourceUri method. Sets the source location for the file that loaded the schema in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/system.xml.schema/xmlschemaobject/set_sourceuri/
 ---
 ## XmlSchemaObject::set_SourceUri method

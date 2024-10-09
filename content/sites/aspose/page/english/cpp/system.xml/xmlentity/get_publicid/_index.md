@@ -4,7 +4,7 @@ linktitle: get_PublicId
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlEntity::get_PublicId method. Returns the value of the public identifier on the entity declaration in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/system.xml/xmlentity/get_publicid/
 ---
 ## XmlEntity::get_PublicId method

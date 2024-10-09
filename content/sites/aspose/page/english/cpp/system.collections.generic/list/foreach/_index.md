@@ -4,7 +4,7 @@ linktitle: ForEach
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::ForEach method. Applies action to all elements in list in C++.'
 type: docs
-weight: 3400
+weight: 2400
 url: /cpp/system.collections.generic/list/foreach/
 ---
 ## List::ForEach method

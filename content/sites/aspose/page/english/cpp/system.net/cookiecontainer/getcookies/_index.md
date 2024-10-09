@@ -4,7 +4,7 @@ linktitle: GetCookies
 second_title: Aspose.Page for C++
 description: 'System::Net::CookieContainer::GetCookies method. Returns a collection of cookies that are associated with the specified URI in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/system.net/cookiecontainer/getcookies/
 ---
 ## CookieContainer::GetCookies method

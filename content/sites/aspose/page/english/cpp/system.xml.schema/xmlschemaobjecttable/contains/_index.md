@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObjectTable::Contains method. Determines if the qualified name specified exists in the collection in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system.xml.schema/xmlschemaobjecttable/contains/
 ---
 ## XmlSchemaObjectTable::Contains method

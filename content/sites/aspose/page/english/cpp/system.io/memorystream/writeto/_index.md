@@ -4,7 +4,7 @@ linktitle: WriteTo
 second_title: Aspose.Page for C++
 description: 'System::IO::MemoryStream::WriteTo method. Writes the content of the underlying buffer to the specified stream in C++.'
 type: docs
-weight: 1200
+weight: 2100
 url: /cpp/system.io/memorystream/writeto/
 ---
 ## MemoryStream::WriteTo method

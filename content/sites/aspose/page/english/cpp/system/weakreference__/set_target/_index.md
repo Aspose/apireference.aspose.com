@@ -4,7 +4,7 @@ linktitle: set_Target
 second_title: Aspose.Page for C++
 description: 'System::WeakReference<>::set_Target method. Sets the object (the target) referenced by the current WeakReference object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/weakreference__/set_target/
 ---
 ## WeakReference<>::set_Target method

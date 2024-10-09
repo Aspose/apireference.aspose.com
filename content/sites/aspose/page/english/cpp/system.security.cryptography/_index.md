@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography
 second_title: Aspose.Page for C++
 description: 'How to use System::Security::Cryptography namespace in C++.'
 type: docs
-weight: 5600
+weight: 5700
 url: /cpp/system.security.cryptography/
 ---
 
@@ -70,10 +70,10 @@ url: /cpp/system.security.cryptography/
 
 | Enum | Description |
 | --- | --- |
-| [FromBase64TransformMode](./frombase64transformmode/) | Specifies whether white space should be ignored in the base 64 transformation. |
 | [CipherMode](./ciphermode/) | Block cipher mode. |
 | [CryptoStreamMode](./cryptostreammode/) | [CryptoStream](./cryptostream/) direction. |
 | [ECKeyXmlFormat](./eckeyxmlformat/) | XML format for elliptic curve keys. |
+| [FromBase64TransformMode](./frombase64transformmode/) | Specifies whether white space should be ignored in the base 64 transformation. |
 | [KeyNumber](./keynumber/) | Key type. |
 | [OidGroup](./oidgroup/) | Identifies [Windows](../system.windows/) OID groups. |
 | [PaddingMode](./paddingmode/) | Defines how to treat messages that is shorter than block required by crypto operation.s. |
@@ -83,15 +83,15 @@ url: /cpp/system.security.cryptography/
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator<= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator> | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator>= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| operator<< | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

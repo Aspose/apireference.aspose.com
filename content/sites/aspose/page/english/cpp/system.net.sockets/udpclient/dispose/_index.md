@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::UdpClient::Dispose method. Releases the managed and unmanaged resources used by the UdpClient in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.net.sockets/udpclient/dispose/
 ---
 ## UdpClient::Dispose method

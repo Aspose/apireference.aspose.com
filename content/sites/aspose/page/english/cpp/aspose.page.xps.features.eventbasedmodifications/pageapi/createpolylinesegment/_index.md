@@ -4,7 +4,7 @@ linktitle: CreatePolyLineSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePolyLineSegment method. Creates a new polygonal drawing containing an arbitrary number of individual vertices in C++.'
 type: docs
-weight: 2500
+weight: 1800
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpolylinesegment/
 ---
 ## PageAPI::CreatePolyLineSegment method

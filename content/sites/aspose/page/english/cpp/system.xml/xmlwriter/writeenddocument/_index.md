@@ -4,7 +4,7 @@ linktitle: WriteEndDocument
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteEndDocument method. When overridden in a derived class, closes any open elements or attributes and puts the writer back in the Start state in C++.'
 type: docs
-weight: 600
+weight: 2000
 url: /cpp/system.xml/xmlwriter/writeenddocument/
 ---
 ## XmlWriter::WriteEndDocument method

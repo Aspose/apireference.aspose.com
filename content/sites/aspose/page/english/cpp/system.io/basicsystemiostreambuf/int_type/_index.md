@@ -4,7 +4,7 @@ linktitle: int_type
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::BasicSystemIOStreamBuf::int_type typedef of System::IO::BasicSystemIOStreamBuf class in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.io/basicsystemiostreambuf/int_type/
 ---
 ## int_type typedef

@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaFacet::set_Value method. Sets the value attribute of the facet in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.xml.schema/xmlschemafacet/set_value/
 ---
 ## XmlSchemaFacet::set_Value method

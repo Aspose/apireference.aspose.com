@@ -4,7 +4,7 @@ linktitle: NorthAmericaArchitectureDSheet
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::NorthAmericaArchitectureDSheet field. North America Architecture D sheet in C++.'
 type: docs
-weight: 9000
+weight: 10700
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/northamericaarchitecturedsheet/
 ---
 ## NorthAmericaArchitectureDSheet field

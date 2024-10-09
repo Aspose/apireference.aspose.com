@@ -4,7 +4,7 @@ linktitle: Finalize
 second_title: Aspose.Page for C++
 description: 'System::IO::FileSystemInfo::Finalize method. Does nothing in C++.'
 type: docs
-weight: 2000
+weight: 200
 url: /cpp/system.io/filesysteminfo/finalize/
 ---
 ## FileSystemInfo::Finalize method

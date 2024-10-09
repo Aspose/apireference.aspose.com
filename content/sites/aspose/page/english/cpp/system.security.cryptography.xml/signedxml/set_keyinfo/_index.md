@@ -4,7 +4,7 @@ linktitle: set_KeyInfo
 second_title: Aspose.Page for C++
 description: 'How to use set_KeyInfo method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1000
+weight: 1700
 url: /cpp/system.security.cryptography.xml/signedxml/set_keyinfo/
 ---
 ## SignedXml::set_KeyInfo method

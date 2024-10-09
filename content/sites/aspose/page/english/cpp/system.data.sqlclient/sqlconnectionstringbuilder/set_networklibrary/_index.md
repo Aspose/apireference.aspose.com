@@ -4,7 +4,7 @@ linktitle: set_NetworkLibrary
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::set_NetworkLibrary method. Selects network library to use in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_networklibrary/
 ---
 ## SqlConnectionStringBuilder::set_NetworkLibrary method

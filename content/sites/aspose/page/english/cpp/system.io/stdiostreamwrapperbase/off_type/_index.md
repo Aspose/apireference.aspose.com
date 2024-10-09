@@ -4,7 +4,7 @@ linktitle: off_type
 second_title: Aspose.Page for C++
 description: 'How to use System::IO::STDIOStreamWrapperBase::off_type typedef of System::IO::STDIOStreamWrapperBase class in C++.'
 type: docs
-weight: 1700
+weight: 1300
 url: /cpp/system.io/stdiostreamwrapperbase/off_type/
 ---
 ## off_type typedef

@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'System::Collections::Specialized::BitVector32::GetHashCode method. Returns a hash code for the current object in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/system.collections.specialized/bitvector32/gethashcode/
 ---
 ## BitVector32::GetHashCode method

@@ -2,62 +2,11 @@
 title: System::Web::HttpUtility::UrlDecode method
 linktitle: UrlDecode
 second_title: Aspose.Page for C++
-description: 'System::Web::HttpUtility::UrlDecode method. Decodes URI fragment from string in C++.'
+description: 'System::Web::HttpUtility::UrlDecode method. Decodes URI fragment from bytes array in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.web/httputility/urldecode/
 ---
-## HttpUtility::UrlDecode(String) method
-
-
-Decodes URI fragment from string.
-
-```cpp
-static String System::Web::HttpUtility::UrlDecode(String str)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | String | Encoded URI fragment. |
-
-### ReturnValue
-
-Decoded URI fragment.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [HttpUtility](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Page for C++](../../../)
-## HttpUtility::UrlDecode(String, System::SharedPtr\<Text::Encoding\>) method
-
-
-Decodes URI fragment from string.
-
-```cpp
-static String System::Web::HttpUtility::UrlDecode(String str, System::SharedPtr<Text::Encoding> e)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | String | Encoded URI fragment. |
-| e | System::SharedPtr\<Text::Encoding\> | Encoding to use. |
-
-### ReturnValue
-
-Decoded URI fragment.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [HttpUtility](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Page for C++](../../../)
 ## HttpUtility::UrlDecode(const System::ArrayPtr\<uint8_t\>\&, const System::SharedPtr\<Text::Encoding\>\&) method
 
 
@@ -111,6 +60,57 @@ Decoded URI fragment.
 
 * Class [String](../../../system/string/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
+* Class [HttpUtility](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Page for C++](../../../)
+## HttpUtility::UrlDecode(String) method
+
+
+Decodes URI fragment from string.
+
+```cpp
+static String System::Web::HttpUtility::UrlDecode(String str)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | String | Encoded URI fragment. |
+
+### ReturnValue
+
+Decoded URI fragment.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [HttpUtility](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Page for C++](../../../)
+## HttpUtility::UrlDecode(String, System::SharedPtr\<Text::Encoding\>) method
+
+
+Decodes URI fragment from string.
+
+```cpp
+static String System::Web::HttpUtility::UrlDecode(String str, System::SharedPtr<Text::Encoding> e)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | String | Encoded URI fragment. |
+| e | System::SharedPtr\<Text::Encoding\> | Encoding to use. |
+
+### ReturnValue
+
+Decoded URI fragment.
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Encoding](../../../system.text/encoding/)
 * Class [HttpUtility](../)

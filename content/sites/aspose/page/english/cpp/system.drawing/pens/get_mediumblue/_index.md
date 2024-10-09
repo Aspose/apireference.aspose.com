@@ -4,7 +4,7 @@ linktitle: get_MediumBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_MediumBlue method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF0000CD in C++.'
 type: docs
-weight: 8400
+weight: 8300
 url: /cpp/system.drawing/pens/get_mediumblue/
 ---
 ## Pens::get_MediumBlue method

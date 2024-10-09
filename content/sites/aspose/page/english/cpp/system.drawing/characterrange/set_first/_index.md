@@ -4,7 +4,7 @@ linktitle: set_First
 second_title: Aspose.Page for C++
 description: 'System::Drawing::CharacterRange::set_First method. Sets the position of the first character of the range represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.drawing/characterrange/set_first/
 ---
 ## CharacterRange::set_First method

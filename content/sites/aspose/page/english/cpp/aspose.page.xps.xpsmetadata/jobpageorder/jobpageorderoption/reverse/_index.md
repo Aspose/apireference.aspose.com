@@ -4,7 +4,7 @@ linktitle: Reverse
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::JobPageOrder::JobPageOrderOption::Reverse field. Specifies back to front page order in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/jobpageorder/jobpageorderoption/reverse/
 ---
 ## Reverse field

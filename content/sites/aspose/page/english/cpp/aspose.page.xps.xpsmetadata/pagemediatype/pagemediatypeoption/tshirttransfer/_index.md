@@ -4,7 +4,7 @@ linktitle: TShirtTransfer
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::TShirtTransfer field. Specifies specialty T-shirt transfer media in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/tshirttransfer/
 ---
 ## TShirtTransfer field

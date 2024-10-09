@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplRefType::Insert method. Inserts element into specified position, shifting other elements in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/system.collections/ilistimplreftype/insert/
 ---
 ## IListImplRefType::Insert method

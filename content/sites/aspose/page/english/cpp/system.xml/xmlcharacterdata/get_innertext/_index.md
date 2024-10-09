@@ -4,7 +4,7 @@ linktitle: get_InnerText
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlCharacterData::get_InnerText method. Returns the concatenated values of the node and all the children of the node in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml/xmlcharacterdata/get_innertext/
 ---
 ## XmlCharacterData::get_InnerText method

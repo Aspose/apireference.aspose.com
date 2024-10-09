@@ -4,7 +4,7 @@ linktitle: get_Port
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::get_Port method. Gets the port number in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.net/ipendpoint/get_port/
 ---
 ## IPEndPoint::get_Port method

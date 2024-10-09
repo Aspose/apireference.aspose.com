@@ -4,7 +4,7 @@ linktitle: CreatePathFigure
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::CreatePathFigure method. Creates a new path figure in C++.'
 type: docs
-weight: 4500
+weight: 2200
 url: /cpp/aspose.page.xps/xpsdocument/createpathfigure/
 ---
 ## XpsDocument::CreatePathFigure(System::Drawing::PointF, bool) method

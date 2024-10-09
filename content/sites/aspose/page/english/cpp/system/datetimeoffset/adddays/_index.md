@@ -4,7 +4,7 @@ linktitle: AddDays
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddDays method. Adds a specified number of days to the DateTimeOffset object in C++.'
 type: docs
-weight: 2200
+weight: 300
 url: /cpp/system/datetimeoffset/adddays/
 ---
 ## DateTimeOffset::AddDays method

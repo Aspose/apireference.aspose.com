@@ -4,7 +4,7 @@ linktitle: Supported
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::InputBin::MediaSizeAutoSense::Supported field. Supported value in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmetadata/inputbin/mediasizeautosense/supported/
 ---
 ## Supported field

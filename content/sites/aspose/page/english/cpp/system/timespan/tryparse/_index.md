@@ -2,66 +2,11 @@
 title: System::TimeSpan::TryParse method
 linktitle: TryParse
 second_title: Aspose.Page for C++
-description: 'System::TimeSpan::TryParse method. Converts string to equivalent TimeSpan object and returns result of conversion in C++.'
+description: 'How to use TryParse method of System::TimeSpan class in C++.'
 type: docs
 weight: 4400
 url: /cpp/system/timespan/tryparse/
 ---
-## TimeSpan::TryParse(const String\&, TimeSpan\&) method
-
-
-Converts string to equivalent [TimeSpan](../) object and returns result of conversion.
-
-```cpp
-static bool System::TimeSpan::TryParse(const String &input, TimeSpan &result)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | const String\& | Input string. |
-| result | TimeSpan\& | Time interval that corresponds to string. |
-
-### ReturnValue
-
-True if string was converted successfully; otherwise, false.
-
-## See Also
-
-* Class [String](../../string/)
-* Class [TimeSpan](../)
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## TimeSpan::TryParse(const String\&, const SharedPtr\<IFormatProvider\>\&, TimeSpan\&) method
-
-
-Converts string to equivalent [TimeSpan](../) object using the specified format provider and returns result of conversion.
-
-```cpp
-static bool System::TimeSpan::TryParse(const String &input, const SharedPtr<IFormatProvider> &provider, TimeSpan &result)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | const String\& | Input string. |
-| provider | const SharedPtr\<IFormatProvider\>\& | Format provider that supplies culture-specific formatting information. |
-| result | TimeSpan\& | Time interval that corresponds to string. |
-
-### ReturnValue
-
-True if string was converted successfully; otherwise, false.
-
-## See Also
-
-* Class [String](../../string/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IFormatProvider](../../iformatprovider/)
-* Class [TimeSpan](../)
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## TimeSpan::TryParse(const String\&, const SharedPtr\<Globalization::CultureInfo\>\&, TimeSpan\&) method
 
 
@@ -98,6 +43,35 @@ static bool System::TimeSpan::TryParse(const String &input, const SharedPtr<Glob
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
+## TimeSpan::TryParse(const String\&, const SharedPtr\<IFormatProvider\>\&, TimeSpan\&) method
+
+
+Converts string to equivalent [TimeSpan](../) object using the specified format provider and returns result of conversion.
+
+```cpp
+static bool System::TimeSpan::TryParse(const String &input, const SharedPtr<IFormatProvider> &provider, TimeSpan &result)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | const String\& | Input string. |
+| provider | const SharedPtr\<IFormatProvider\>\& | Format provider that supplies culture-specific formatting information. |
+| result | TimeSpan\& | Time interval that corresponds to string. |
+
+### ReturnValue
+
+True if string was converted successfully; otherwise, false.
+
+## See Also
+
+* Class [String](../../string/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [TimeSpan](../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
 ## TimeSpan::TryParse(const String\&, std::nullptr_t, TimeSpan\&) method
 
 
@@ -106,6 +80,32 @@ static bool System::TimeSpan::TryParse(const String &input, const SharedPtr<Glob
 ```cpp
 static bool System::TimeSpan::TryParse(const String &input, std::nullptr_t, TimeSpan &result)
 ```
+
+## See Also
+
+* Class [String](../../string/)
+* Class [TimeSpan](../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## TimeSpan::TryParse(const String\&, TimeSpan\&) method
+
+
+Converts string to equivalent [TimeSpan](../) object and returns result of conversion.
+
+```cpp
+static bool System::TimeSpan::TryParse(const String &input, TimeSpan &result)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | const String\& | Input string. |
+| result | TimeSpan\& | Time interval that corresponds to string. |
+
+### ReturnValue
+
+True if string was converted successfully; otherwise, false.
 
 ## See Also
 

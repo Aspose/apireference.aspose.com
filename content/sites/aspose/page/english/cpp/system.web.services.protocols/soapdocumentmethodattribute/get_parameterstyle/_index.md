@@ -4,7 +4,7 @@ linktitle: get_ParameterStyle
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapDocumentMethodAttribute::get_ParameterStyle method. Gets a value that indicates if parameters are encapsulated within a single XML element beneath the ''Body'' element in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/get_parameterstyle/
 ---
 ## SoapDocumentMethodAttribute::get_ParameterStyle method

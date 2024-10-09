@@ -4,7 +4,7 @@ linktitle: get_InitialCatalog
 second_title: Aspose.Page for C++
 description: 'System::Data::SqlClient::SqlConnectionStringBuilder::get_InitialCatalog method. Gets name of database associated with connection in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/get_initialcatalog/
 ---
 ## SqlConnectionStringBuilder::get_InitialCatalog method

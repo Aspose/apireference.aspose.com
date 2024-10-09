@@ -4,7 +4,7 @@ linktitle: SetSigmaBellShape
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::SetSigmaBellShape method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2000
+weight: 2500
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/setsigmabellshape/
 ---
 ## PathGradientBrush::SetSigmaBellShape method

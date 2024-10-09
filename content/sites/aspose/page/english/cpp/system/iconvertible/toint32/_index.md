@@ -4,7 +4,7 @@ linktitle: ToInt32
 second_title: Aspose.Page for C++
 description: 'System::IConvertible::ToInt32 method. Converts the value of this instance to an equivalent 32-bit signed integer using the specified culture-specific formatting information in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/iconvertible/toint32/
 ---
 ## IConvertible::ToInt32 method

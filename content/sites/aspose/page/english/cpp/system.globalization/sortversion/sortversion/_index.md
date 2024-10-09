@@ -2,11 +2,26 @@
 title: System::Globalization::SortVersion::SortVersion constructor
 linktitle: SortVersion
 second_title: Aspose.Page for C++
-description: 'System::Globalization::SortVersion::SortVersion constructor. RTTI information in C++.'
+description: 'How to use SortVersion constructor of System::Globalization::SortVersion class in C++.'
 type: docs
 weight: 100
 url: /cpp/system.globalization/sortversion/sortversion/
 ---
+## SortVersion::SortVersion(const SortVersion\&) constructor
+
+
+
+
+```cpp
+System::Globalization::SortVersion::SortVersion(const SortVersion &)=delete
+```
+
+## See Also
+
+* Class [SortVersion](../)
+* Class [SortVersion](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Page for C++](../../../)
 ## SortVersion::SortVersion(int, const Guid\&) constructor
 
 
@@ -28,21 +43,6 @@ Constructor.
 ## See Also
 
 * Class [Guid](../../../system/guid/)
-* Class [SortVersion](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Page for C++](../../../)
-## SortVersion::SortVersion(const SortVersion\&) constructor
-
-
-
-
-```cpp
-System::Globalization::SortVersion::SortVersion(const SortVersion &)=delete
-```
-
-## See Also
-
-* Class [SortVersion](../)
 * Class [SortVersion](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.Page for C++](../../../)

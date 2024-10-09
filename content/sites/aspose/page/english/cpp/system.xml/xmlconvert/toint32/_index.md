@@ -4,7 +4,7 @@ linktitle: ToInt32
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::ToInt32 method. Converts the String to a Int32 equivalent in C++.'
 type: docs
-weight: 2400
+weight: 2000
 url: /cpp/system.xml/xmlconvert/toint32/
 ---
 ## XmlConvert::ToInt32 method

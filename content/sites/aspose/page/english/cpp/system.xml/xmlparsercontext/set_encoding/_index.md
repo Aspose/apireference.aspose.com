@@ -4,7 +4,7 @@ linktitle: set_Encoding
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::set_Encoding method. Sets the encoding type in C++.'
 type: docs
-weight: 2000
+weight: 1400
 url: /cpp/system.xml/xmlparsercontext/set_encoding/
 ---
 ## XmlParserContext::set_Encoding method

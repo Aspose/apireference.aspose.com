@@ -4,7 +4,7 @@ linktitle: get_QuoteChar
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::get_QuoteChar method. Returns which character to use to quote attribute values in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.xml/xmltextwriter/get_quotechar/
 ---
 ## XmlTextWriter::get_QuoteChar method

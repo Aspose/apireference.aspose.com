@@ -4,7 +4,7 @@ linktitle: GetHeaderString
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::GetHeaderString method. Returns a string representation of values by the specified header name in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.net.http.headers/httpheaders/getheaderstring/
 ---
 ## HttpHeaders::GetHeaderString(String) method

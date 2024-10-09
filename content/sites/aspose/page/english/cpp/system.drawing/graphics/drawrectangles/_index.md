@@ -4,7 +4,7 @@ linktitle: DrawRectangles
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawRectangles method. Draws a series of rectangles using the specified pen in C++.'
 type: docs
-weight: 2400
+weight: 2700
 url: /cpp/system.drawing/graphics/drawrectangles/
 ---
 ## Graphics::DrawRectangles(const SharedPtr\<Pen\>\&, const ArrayPtr\<Rectangle\>\&) method

@@ -4,7 +4,7 @@ linktitle: Finisher
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::OutputBin::BinType::Finisher field. Finisher bin in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.page.xps.xpsmetadata/outputbin/bintype/finisher/
 ---
 ## Finisher field

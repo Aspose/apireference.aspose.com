@@ -4,7 +4,7 @@ linktitle: get_InternalSubset
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlParserContext::get_InternalSubset method. Returns the internal DTD subset in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/system.xml/xmlparsercontext/get_internalsubset/
 ---
 ## XmlParserContext::get_InternalSubset method

@@ -4,7 +4,7 @@ linktitle: get_Eras
 second_title: Aspose.Page for C++
 description: 'System::Globalization::GregorianCalendar::get_Eras method. Gets list of eras existing in calendar in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.globalization/gregoriancalendar/get_eras/
 ---
 ## GregorianCalendar::get_Eras method

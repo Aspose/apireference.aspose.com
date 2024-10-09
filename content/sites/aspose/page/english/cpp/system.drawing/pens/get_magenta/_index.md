@@ -4,7 +4,7 @@ linktitle: get_Magenta
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_Magenta method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF00FF in C++.'
 type: docs
-weight: 8100
+weight: 8000
 url: /cpp/system.drawing/pens/get_magenta/
 ---
 ## Pens::get_Magenta method

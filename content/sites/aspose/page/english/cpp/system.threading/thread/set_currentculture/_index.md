@@ -4,7 +4,7 @@ linktitle: set_CurrentCulture
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::set_CurrentCulture method. Sets thread culture in C++.'
 type: docs
-weight: 500
+weight: 1600
 url: /cpp/system.threading/thread/set_currentculture/
 ---
 ## Thread::set_CurrentCulture method

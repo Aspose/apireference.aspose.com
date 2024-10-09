@@ -4,7 +4,7 @@ linktitle: GetComponents
 second_title: Aspose.Page for C++
 description: 'System::Uri::GetComponents method. Returns the specified components of the URI represented by the current object using the specified escaping in C++.'
 type: docs
-weight: 3000
+weight: 2500
 url: /cpp/system/uri/getcomponents/
 ---
 ## Uri::GetComponents method

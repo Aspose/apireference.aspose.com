@@ -4,7 +4,7 @@ linktitle: get_Refer
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaKeyref::get_Refer method. Returns the name of the key that this constraint refers to in another simple or complex type in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.xml.schema/xmlschemakeyref/get_refer/
 ---
 ## XmlSchemaKeyref::get_Refer method

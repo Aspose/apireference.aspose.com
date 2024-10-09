@@ -4,7 +4,7 @@ linktitle: get_ThreeLetterWindowsLanguageName
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_ThreeLetterWindowsLanguageName method. Gets three-letter code for language as defined in Windows API in C++.'
 type: docs
-weight: 900
+weight: 2300
 url: /cpp/system.globalization/cultureinfo/get_threeletterwindowslanguagename/
 ---
 ## CultureInfo::get_ThreeLetterWindowsLanguageName method

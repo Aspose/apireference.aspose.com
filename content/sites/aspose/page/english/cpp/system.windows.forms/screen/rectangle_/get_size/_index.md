@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Screen::Rectangle_::get_Size method. Gets rectangle size in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.windows.forms/screen/rectangle_/get_size/
 ---
 ## Rectangle_::get_Size method

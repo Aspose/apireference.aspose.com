@@ -4,7 +4,7 @@ linktitle: Fallback
 second_title: Aspose.Page for C++
 description: 'System::Text::DecoderReplacementFallbackBuffer::Fallback method. Handles decoding failure in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.text/decoderreplacementfallbackbuffer/fallback/
 ---
 ## DecoderReplacementFallbackBuffer::Fallback method

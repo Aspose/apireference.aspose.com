@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::Close method. Closes the stream in C++.'
 type: docs
-weight: 3800
+weight: 500
 url: /cpp/system.net.security/sslstream/close/
 ---
 ## SslStream::Close method

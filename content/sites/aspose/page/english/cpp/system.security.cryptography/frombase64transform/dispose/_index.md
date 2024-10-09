@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::FromBase64Transform::Dispose method. Releases operating system resources acquired by the current object in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/system.security.cryptography/frombase64transform/dispose/
 ---
 ## FromBase64Transform::Dispose method

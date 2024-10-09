@@ -4,7 +4,7 @@ linktitle: get_DodgerBlue
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_DodgerBlue method. Returns a color whose ARGB value in hexadecimal notation is #FF1E90FF in C++.'
 type: docs
-weight: 6400
+weight: 6300
 url: /cpp/system.drawing/color/get_dodgerblue/
 ---
 ## Color::get_DodgerBlue method

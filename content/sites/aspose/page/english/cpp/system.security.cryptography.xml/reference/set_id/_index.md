@@ -4,7 +4,7 @@ linktitle: set_Id
 second_title: Aspose.Page for C++
 description: 'How to use set_Id method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/system.security.cryptography.xml/reference/set_id/
 ---
 ## Reference::set_Id method

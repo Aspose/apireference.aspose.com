@@ -4,7 +4,7 @@ linktitle: FaultDetail
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Element::FaultDetail field. The string representation of the ''Detail'' element name in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/system.web.services/soap12/element/faultdetail/
 ---
 ## FaultDetail field

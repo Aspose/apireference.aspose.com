@@ -4,7 +4,7 @@ linktitle: get_QualifiedName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_QualifiedName method. Returns the qualified name for the type built from the Name attribute of this type. This is a post-schema-compilation value in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.xml.schema/xmlschematype/get_qualifiedname/
 ---
 ## XmlSchemaType::get_QualifiedName method

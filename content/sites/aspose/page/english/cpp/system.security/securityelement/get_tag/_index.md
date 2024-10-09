@@ -4,7 +4,7 @@ linktitle: get_Tag
 second_title: Aspose.Page for C++
 description: 'System::Security::SecurityElement::get_Tag method. Gets tag name in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.security/securityelement/get_tag/
 ---
 ## SecurityElement::get_Tag method

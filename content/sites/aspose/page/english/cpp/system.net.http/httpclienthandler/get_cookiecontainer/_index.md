@@ -4,7 +4,7 @@ linktitle: get_CookieContainer
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClientHandler::get_CookieContainer method. Gets the cookie container that is used to store server cookies in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system.net.http/httpclienthandler/get_cookiecontainer/
 ---
 ## HttpClientHandler::get_CookieContainer method

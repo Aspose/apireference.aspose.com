@@ -4,7 +4,7 @@ linktitle: crend
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::crend method. Gets a reverse iterator for a non-existent const-qualified element before the start of the collection in C++.'
 type: docs
-weight: 2600
+weight: 1400
 url: /cpp/system.collections.generic/linkedlist/crend/
 ---
 ## LinkedList::crend method

@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::Equals method. Compares objects using C# Object.Equals semantics in C++.'
 type: docs
-weight: 3900
+weight: 300
 url: /cpp/system.net/cookie/equals/
 ---
 ## Cookie::Equals method

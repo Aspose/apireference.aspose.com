@@ -4,7 +4,7 @@ linktitle: get_DispositionType
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ContentDispositionHeaderValue::get_DispositionType method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_dispositiontype/
 ---
 ## ContentDispositionHeaderValue::get_DispositionType method

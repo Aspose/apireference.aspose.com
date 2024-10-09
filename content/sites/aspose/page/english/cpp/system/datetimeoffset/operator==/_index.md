@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::operator== method. Determines if the current object and the specified DateTimeOffset object represent the same date and time value in C++.'
 type: docs
-weight: 4200
+weight: 3800
 url: /cpp/system/datetimeoffset/operator==/
 ---
 ## DateTimeOffset::operator==(const DateTimeOffset\&) const method

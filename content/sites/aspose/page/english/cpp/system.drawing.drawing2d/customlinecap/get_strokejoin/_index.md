@@ -4,7 +4,7 @@ linktitle: get_StrokeJoin
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::CustomLineCap::get_StrokeJoin method. Returns the LineJoin value which determines how lines of this custom cap are joined in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/system.drawing.drawing2d/customlinecap/get_strokejoin/
 ---
 ## CustomLineCap::get_StrokeJoin method

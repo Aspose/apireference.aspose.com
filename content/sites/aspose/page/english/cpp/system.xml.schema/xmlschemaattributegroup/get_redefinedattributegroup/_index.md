@@ -4,7 +4,7 @@ linktitle: get_RedefinedAttributeGroup
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttributeGroup::get_RedefinedAttributeGroup method. Returns the redefined attribute group property from the XML Schema in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.xml.schema/xmlschemaattributegroup/get_redefinedattributegroup/
 ---
 ## XmlSchemaAttributeGroup::get_RedefinedAttributeGroup method

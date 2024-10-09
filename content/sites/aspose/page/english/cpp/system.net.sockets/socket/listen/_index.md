@@ -4,7 +4,7 @@ linktitle: Listen
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::Listen method. Changes the socket state to ''listen'' in C++.'
 type: docs
-weight: 4800
+weight: 4100
 url: /cpp/system.net.sockets/socket/listen/
 ---
 ## Socket::Listen method

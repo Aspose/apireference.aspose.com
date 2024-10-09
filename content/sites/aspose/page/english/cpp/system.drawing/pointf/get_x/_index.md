@@ -4,7 +4,7 @@ linktitle: get_X
 second_title: Aspose.Page for C++
 description: 'System::Drawing::PointF::get_X method. Returns the value of X coordinate represented by the current object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.drawing/pointf/get_x/
 ---
 ## PointF::get_X method

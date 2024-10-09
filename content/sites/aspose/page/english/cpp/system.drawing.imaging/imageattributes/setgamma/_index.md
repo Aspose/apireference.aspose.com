@@ -4,7 +4,7 @@ linktitle: SetGamma
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageAttributes::SetGamma method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/system.drawing.imaging/imageattributes/setgamma/
 ---
 ## ImageAttributes::SetGamma method

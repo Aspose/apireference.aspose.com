@@ -4,7 +4,7 @@ linktitle: set_Credentials
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClientHandler::set_Credentials method. Sets the authentication information in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.net.http/httpclienthandler/set_credentials/
 ---
 ## HttpClientHandler::set_Credentials method

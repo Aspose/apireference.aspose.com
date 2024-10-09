@@ -4,7 +4,7 @@ linktitle: set_Content
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSimpleType::set_Content method. Sets one of XmlSchemaSimpleTypeUnion, XmlSchemaSimpleTypeList, or XmlSchemaSimpleTypeRestriction in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.xml.schema/xmlschemasimpletype/set_content/
 ---
 ## XmlSchemaSimpleType::set_Content method

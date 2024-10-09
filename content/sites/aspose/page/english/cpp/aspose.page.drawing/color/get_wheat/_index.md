@@ -4,7 +4,7 @@ linktitle: get_Wheat
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Wheat method. Gets a system-defined color that has an ARGB value of #FFF5DEB3 in C++.'
 type: docs
-weight: 13700
+weight: 13900
 url: /cpp/aspose.page.drawing/color/get_wheat/
 ---
 ## Color::get_Wheat method

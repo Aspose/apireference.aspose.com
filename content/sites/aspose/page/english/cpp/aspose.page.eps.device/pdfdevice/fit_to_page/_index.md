@@ -4,7 +4,7 @@ linktitle: FIT_TO_PAGE
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::Device::PdfDevice::FIT_TO_PAGE method. "Fit content to page" property key in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.page.eps.device/pdfdevice/fit_to_page/
 ---
 ## PdfDevice::FIT_TO_PAGE method

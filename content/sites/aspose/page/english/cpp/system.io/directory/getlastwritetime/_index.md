@@ -4,7 +4,7 @@ linktitle: GetLastWriteTime
 second_title: Aspose.Page for C++
 description: 'System::IO::Directory::GetLastWriteTime method. Returns the last write time of the specified entity as local time in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.io/directory/getlastwritetime/
 ---
 ## Directory::GetLastWriteTime method

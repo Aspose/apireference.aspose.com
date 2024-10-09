@@ -4,7 +4,7 @@ linktitle: EncodeNmToken
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlConvert::EncodeNmToken method. Verifies the name is valid according to the XML specification in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.xml/xmlconvert/encodenmtoken/
 ---
 ## XmlConvert::EncodeNmToken method

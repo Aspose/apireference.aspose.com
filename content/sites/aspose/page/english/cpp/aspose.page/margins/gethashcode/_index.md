@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Margins::GetHashCode method. Calculates hashcode for this margins object in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page/margins/gethashcode/
 ---
 ## Margins::GetHashCode method

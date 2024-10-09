@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IKVCollection::Add method. Adds item to container in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.collections.generic/ikvcollection/add/
 ---
 ## IKVCollection::Add method

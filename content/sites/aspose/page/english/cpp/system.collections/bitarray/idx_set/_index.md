@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::BitArray::idx_set method. Setter function in C++.'
 type: docs
-weight: 500
+weight: 1300
 url: /cpp/system.collections/bitarray/idx_set/
 ---
 ## BitArray::idx_set method

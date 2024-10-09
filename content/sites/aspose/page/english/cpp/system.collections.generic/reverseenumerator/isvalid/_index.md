@@ -4,7 +4,7 @@ linktitle: IsValid
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ReverseEnumerator::IsValid method. Checks whether MoveNext() was called and end was not reached in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.collections.generic/reverseenumerator/isvalid/
 ---
 ## ReverseEnumerator::IsValid method

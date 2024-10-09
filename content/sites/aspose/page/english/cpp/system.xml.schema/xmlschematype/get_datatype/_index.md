@@ -4,7 +4,7 @@ linktitle: get_Datatype
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaType::get_Datatype method. Returns the post-compilation value for the data type of the complex type in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/system.xml.schema/xmlschematype/get_datatype/
 ---
 ## XmlSchemaType::get_Datatype method

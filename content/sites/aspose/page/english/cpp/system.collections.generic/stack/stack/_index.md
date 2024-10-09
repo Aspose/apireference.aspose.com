@@ -21,25 +21,6 @@ System::Collections::Generic::Stack<T>::Stack()
 * Class [Stack](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)
-## Stack::Stack(int) constructor
-
-
-Constructs empty stack.
-
-```cpp
-System::Collections::Generic::Stack<T>::Stack(int capacity)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| capacity | int | Number of elements to reserve; ignored. |
-
-## See Also
-
-* Class [Stack](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Page for C++](../../../)
 ## Stack::Stack(IEnumerablePtr) constructor
 
 
@@ -57,6 +38,25 @@ System::Collections::Generic::Stack<T>::Stack(IEnumerablePtr collection)
 ## See Also
 
 * Typedef [IEnumerablePtr](../ienumerableptr/)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Page for C++](../../../)
+## Stack::Stack(int) constructor
+
+
+Constructs empty stack.
+
+```cpp
+System::Collections::Generic::Stack<T>::Stack(int capacity)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| capacity | int | Number of elements to reserve; ignored. |
+
+## See Also
+
 * Class [Stack](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Page for C++](../../../)

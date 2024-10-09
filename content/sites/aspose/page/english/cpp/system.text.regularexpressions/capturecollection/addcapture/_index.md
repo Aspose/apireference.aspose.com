@@ -4,7 +4,7 @@ linktitle: AddCapture
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::CaptureCollection::AddCapture method. Service method to add capture into collection in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.text.regularexpressions/capturecollection/addcapture/
 ---
 ## CaptureCollection::AddCapture method

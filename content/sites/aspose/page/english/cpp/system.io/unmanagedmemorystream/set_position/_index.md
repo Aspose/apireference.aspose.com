@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Page for C++
 description: 'System::IO::UnmanagedMemoryStream::set_Position method. Sets the stream''s position in C++.'
 type: docs
-weight: 700
+weight: 1200
 url: /cpp/system.io/unmanagedmemorystream/set_position/
 ---
 ## UnmanagedMemoryStream::set_Position method

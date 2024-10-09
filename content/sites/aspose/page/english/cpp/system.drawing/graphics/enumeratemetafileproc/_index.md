@@ -4,7 +4,7 @@ linktitle: EnumerateMetafileProc
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::EnumerateMetafileProc typedef. The type of a callback fuction object used as an argument for EnumerateMetafile method in C++.'
 type: docs
-weight: 9000
+weight: 9100
 url: /cpp/system.drawing/graphics/enumeratemetafileproc/
 ---
 ## EnumerateMetafileProc typedef

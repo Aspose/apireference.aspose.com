@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'How to use operator= method of System::Delegate< ReturnType(ArgumentTypes...)> class in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system/delegate_returntype(argumenttypes...)_/operator=/
 ---
 ## Delegate< ReturnType(ArgumentTypes...)>::operator=(const Delegate\&) method

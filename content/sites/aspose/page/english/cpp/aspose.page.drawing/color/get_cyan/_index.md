@@ -4,7 +4,7 @@ linktitle: get_Cyan
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Cyan method. Gets a system-defined color that has an ARGB value of #FF00FFFF in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.page.drawing/color/get_cyan/
 ---
 ## Color::get_Cyan method

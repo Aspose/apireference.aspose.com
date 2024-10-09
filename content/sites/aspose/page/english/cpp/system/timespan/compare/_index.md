@@ -4,7 +4,7 @@ linktitle: Compare
 second_title: Aspose.Page for C++
 description: 'System::TimeSpan::Compare method. Compares two TimeSpan objects in C++.'
 type: docs
-weight: 4100
+weight: 3500
 url: /cpp/system/timespan/compare/
 ---
 ## TimeSpan::Compare method

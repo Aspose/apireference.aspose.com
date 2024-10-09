@@ -4,7 +4,7 @@ linktitle: RemoteCertificateValidationCallback
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::RemoteCertificateValidationCallback typedef. A user delegate used to verify remote SSL certificate in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.net.security/remotecertificatevalidationcallback/
 ---
 ## RemoteCertificateValidationCallback typedef

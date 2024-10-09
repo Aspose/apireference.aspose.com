@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.Page for C++
 description: 'System::Collections::ObjectModel::Collection::IndexOf method. Looks for element in collection in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/system.collections.objectmodel/collection/indexof/
 ---
 ## Collection::IndexOf method

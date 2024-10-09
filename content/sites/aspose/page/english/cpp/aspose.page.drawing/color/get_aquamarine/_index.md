@@ -4,7 +4,7 @@ linktitle: get_Aquamarine
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_Aquamarine method. Gets a system-defined color that has an ARGB value of #FF7FFFD4 in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.page.drawing/color/get_aquamarine/
 ---
 ## Color::get_Aquamarine method

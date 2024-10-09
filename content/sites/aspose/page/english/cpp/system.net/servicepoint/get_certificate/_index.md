@@ -4,7 +4,7 @@ linktitle: get_Certificate
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_Certificate method. Returns a certificate that is used by the current instance in C++.'
 type: docs
-weight: 2000
+weight: 400
 url: /cpp/system.net/servicepoint/get_certificate/
 ---
 ## ServicePoint::get_Certificate method

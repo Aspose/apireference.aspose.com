@@ -4,7 +4,7 @@ linktitle: get_Elements
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::get_Elements method. Returns an arry containing the elements of the matrix in the following order: m11, m12, m21, m22, dx, dy in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.drawing.drawing2d/matrix/get_elements/
 ---
 ## Matrix::get_Elements method

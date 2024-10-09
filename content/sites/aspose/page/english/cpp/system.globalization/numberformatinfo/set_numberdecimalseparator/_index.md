@@ -4,7 +4,7 @@ linktitle: set_NumberDecimalSeparator
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_NumberDecimalSeparator method. Sets decimal separator in C++.'
 type: docs
-weight: 500
+weight: 4600
 url: /cpp/system.globalization/numberformatinfo/set_numberdecimalseparator/
 ---
 ## NumberFormatInfo::set_NumberDecimalSeparator method

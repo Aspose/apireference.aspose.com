@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaNotation::set_Name method. Sets the name of the notation in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.xml.schema/xmlschemanotation/set_name/
 ---
 ## XmlSchemaNotation::set_Name method

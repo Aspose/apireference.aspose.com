@@ -4,7 +4,7 @@ linktitle: PsConverterToImageOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Plugins::PsConverterToImageOptions::PsConverterToImageOptions constructor. Initializes new instance of the PsConverterToImageOptions object with default options in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.page.plugins/psconvertertoimageoptions/psconvertertoimageoptions/
 ---
 ## PsConverterToImageOptions::PsConverterToImageOptions() constructor
@@ -41,26 +41,6 @@ Aspose::Page::Plugins::PsConverterToImageOptions::PsConverterToImageOptions(Aspo
 * Class [PsConverterToImageOptions](../)
 * Namespace [Aspose::Page::Plugins](../../)
 * Library [Aspose.Page for C++](../../../)
-## PsConverterToImageOptions::PsConverterToImageOptions(Aspose::Page::Drawing::Size) constructor
-
-
-Initializes new instance of the [PsConverterToImageOptions](../) object with a size of the resulting image.
-
-```cpp
-Aspose::Page::Plugins::PsConverterToImageOptions::PsConverterToImageOptions(Aspose::Page::Drawing::Size size)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| size | Aspose::Page::Drawing::Size | A size the resulting image. |
-
-## See Also
-
-* Class [Size](../../../aspose.page.drawing/size/)
-* Class [PsConverterToImageOptions](../)
-* Namespace [Aspose::Page::Plugins](../../)
-* Library [Aspose.Page for C++](../../../)
 ## PsConverterToImageOptions::PsConverterToImageOptions(Aspose::Page::Drawing::Imaging::ImageFormat, Aspose::Page::Drawing::Size) constructor
 
 
@@ -79,6 +59,26 @@ Aspose::Page::Plugins::PsConverterToImageOptions::PsConverterToImageOptions(Aspo
 ## See Also
 
 * Enum [ImageFormat](../../../aspose.page.drawing.imaging/imageformat/)
+* Class [Size](../../../aspose.page.drawing/size/)
+* Class [PsConverterToImageOptions](../)
+* Namespace [Aspose::Page::Plugins](../../)
+* Library [Aspose.Page for C++](../../../)
+## PsConverterToImageOptions::PsConverterToImageOptions(Aspose::Page::Drawing::Size) constructor
+
+
+Initializes new instance of the [PsConverterToImageOptions](../) object with a size of the resulting image.
+
+```cpp
+Aspose::Page::Plugins::PsConverterToImageOptions::PsConverterToImageOptions(Aspose::Page::Drawing::Size size)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | Aspose::Page::Drawing::Size | A size the resulting image. |
+
+## See Also
+
 * Class [Size](../../../aspose.page.drawing/size/)
 * Class [PsConverterToImageOptions](../)
 * Namespace [Aspose::Page::Plugins](../../)

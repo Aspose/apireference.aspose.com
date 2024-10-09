@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::operator== method. Compares two key-value pairs using ''equals'' semantics. Uses operator == or EqualsTo method for both keys and values, whichever is defined in C++.'
 type: docs
-weight: 5200
+weight: 5500
 url: /cpp/system.collections.generic/operator==/
 ---
 ## System::Collections::Generic::operator== method

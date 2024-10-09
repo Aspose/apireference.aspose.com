@@ -4,7 +4,7 @@ linktitle: CoreProperties
 second_title: Aspose.Page for C++
 description: 'How to use CoreProperties field of Aspose::Page::XPS::XpsDocumentRelationshipTypes class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.xps/xpsdocumentrelationshiptypes/coreproperties/
 ---
 ## CoreProperties field

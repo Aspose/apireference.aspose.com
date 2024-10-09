@@ -4,7 +4,7 @@ linktitle: ScreenPaged
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::ScreenPaged field. Specifies output to an output display in paged form in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/screenpaged/
 ---
 ## ScreenPaged field

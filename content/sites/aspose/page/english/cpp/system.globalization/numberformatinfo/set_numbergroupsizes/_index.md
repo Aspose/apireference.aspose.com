@@ -4,7 +4,7 @@ linktitle: set_NumberGroupSizes
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_NumberGroupSizes method. Sets numbers of digits per group in C++.'
 type: docs
-weight: 3900
+weight: 4800
 url: /cpp/system.globalization/numberformatinfo/set_numbergroupsizes/
 ---
 ## NumberFormatInfo::set_NumberGroupSizes method

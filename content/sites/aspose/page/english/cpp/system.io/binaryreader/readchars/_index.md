@@ -4,7 +4,7 @@ linktitle: ReadChars
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryReader::ReadChars method. Reads the specified number of characters from the input stream and returns them in UTF-16 ecoding in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.io/binaryreader/readchars/
 ---
 ## BinaryReader::ReadChars method

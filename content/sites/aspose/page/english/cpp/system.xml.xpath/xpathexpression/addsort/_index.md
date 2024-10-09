@@ -4,7 +4,7 @@ linktitle: AddSort
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathExpression::AddSort method. When overridden in a derived class, sorts the nodes selected by the XPath expression according to the specified IComparer object in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.xml.xpath/xpathexpression/addsort/
 ---
 ## XPathExpression::AddSort(SharedPtr\<Object\>, SharedPtr\<Collections::Generic::IComparer\<SharedPtr\<Object\>\>\>) method

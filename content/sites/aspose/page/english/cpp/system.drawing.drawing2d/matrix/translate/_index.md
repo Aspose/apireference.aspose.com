@@ -4,7 +4,7 @@ linktitle: Translate
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::Matrix::Translate method. Applies the specified translate vector to the matrix represented by the current object in C++.'
 type: docs
-weight: 1500
+weight: 2000
 url: /cpp/system.drawing.drawing2d/matrix/translate/
 ---
 ## Matrix::Translate(float, float) method

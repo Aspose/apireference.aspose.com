@@ -4,7 +4,7 @@ linktitle: ToSize
 second_title: Aspose.Page for C++
 description: 'System::Drawing::SizeF::ToSize method. Constructs a Size object from the current SizeF object by truncating the SizeF object''s width and height values to the next lower integer values in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/system.drawing/sizef/tosize/
 ---
 ## SizeF::ToSize method

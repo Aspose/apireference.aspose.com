@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.Page for C++
 description: 'System::Text::ICUDecoder::Reset method. Sets internal variables to initial state in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.text/icudecoder/reset/
 ---
 ## ICUDecoder::Reset method

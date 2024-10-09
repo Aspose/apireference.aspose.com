@@ -4,7 +4,7 @@ linktitle: get_NoCacheHeaders
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::get_NoCacheHeaders method. Gets the collection of fieldnames in the ''no-cache'' directive in the ''Cache-Control'' header in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_nocacheheaders/
 ---
 ## CacheControlHeaderValue::get_NoCacheHeaders method

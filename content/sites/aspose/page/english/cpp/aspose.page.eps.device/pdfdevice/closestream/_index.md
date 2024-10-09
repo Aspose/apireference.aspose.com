@@ -4,7 +4,7 @@ linktitle: CloseStream
 second_title: Aspose.Page for C++
 description: 'How to use CloseStream method of Aspose::Page::EPS::Device::PdfDevice class in C++.'
 type: docs
-weight: 3400
+weight: 2100
 url: /cpp/aspose.page.eps.device/pdfdevice/closestream/
 ---
 ## PdfDevice::CloseStream method

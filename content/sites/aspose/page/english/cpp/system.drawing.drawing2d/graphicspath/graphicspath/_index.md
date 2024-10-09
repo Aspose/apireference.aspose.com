@@ -2,31 +2,11 @@
 title: System::Drawing::Drawing2D::GraphicsPath::GraphicsPath constructor
 linktitle: GraphicsPath
 second_title: Aspose.Page for C++
-description: 'System::Drawing::Drawing2D::GraphicsPath::GraphicsPath constructor. Constructs a new instance of GraphicsPath class with the specified fill mode in C++.'
+description: 'System::Drawing::Drawing2D::GraphicsPath::GraphicsPath constructor. Constructs a new instance of GraphicsPath object that represents the specified path in C++.'
 type: docs
 weight: 100
 url: /cpp/system.drawing.drawing2d/graphicspath/graphicspath/
 ---
-## GraphicsPath::GraphicsPath(FillMode) constructor
-
-
-Constructs a new instance of [GraphicsPath](../) class with the specified fill mode.
-
-```cpp
-System::Drawing::Drawing2D::GraphicsPath::GraphicsPath(FillMode fillMode=FillMode::Alternate)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fillMode | FillMode | Specifies how the interior of the closed path represented by the object being created should be filled |
-
-## See Also
-
-* Enum [FillMode](../../fillmode/)
-* Class [GraphicsPath](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Page for C++](../../../)
 ## GraphicsPath::GraphicsPath(const ArrayPtr\<Point\>\&, const ArrayPtr\<uint8_t\>\&, FillMode) constructor
 
 
@@ -86,6 +66,26 @@ System::Drawing::Drawing2D::GraphicsPath::GraphicsPath(const SkPath &path)
 
 ## See Also
 
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Page for C++](../../../)
+## GraphicsPath::GraphicsPath(FillMode) constructor
+
+
+Constructs a new instance of [GraphicsPath](../) class with the specified fill mode.
+
+```cpp
+System::Drawing::Drawing2D::GraphicsPath::GraphicsPath(FillMode fillMode=FillMode::Alternate)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fillMode | FillMode | Specifies how the interior of the closed path represented by the object being created should be filled |
+
+## See Also
+
+* Enum [FillMode](../../fillmode/)
 * Class [GraphicsPath](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.Page for C++](../../../)

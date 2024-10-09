@@ -4,7 +4,7 @@ linktitle: GetRequestStream
 second_title: Aspose.Page for C++
 description: 'System::Net::HttpWebRequest::GetRequestStream method. Returns the stream for writing data to the resource in C++.'
 type: docs
-weight: 3600
+weight: 3400
 url: /cpp/system.net/httpwebrequest/getrequeststream/
 ---
 ## HttpWebRequest::GetRequestStream method

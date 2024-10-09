@@ -2,24 +2,27 @@
 title: Aspose::Page::XPS::XpsDocument::CreateColor method
 linktitle: CreateColor
 second_title: Aspose.Page for C++
-description: 'Aspose::Page::XPS::XpsDocument::CreateColor method. Creates a new color in C++.'
+description: 'Aspose::Page::XPS::XpsDocument::CreateColor method. Creates a new color in scRGB color space in C++.'
 type: docs
-weight: 5600
+weight: 1200
 url: /cpp/aspose.page.xps/xpsdocument/createcolor/
 ---
-## XpsDocument::CreateColor(System::Drawing::Color) method
+## XpsDocument::CreateColor(float, float, float, float) method
 
 
-Creates a new color.
+Creates a new color in scRGB color space.
 
 ```cpp
-System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(System::Drawing::Color color)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(float a, float r, float g, float b)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::Drawing::Color | A native color instance for RGB color. |
+| a | float | The alpha color component. |
+| r | float | The red color component. |
+| g | float | The green color component. |
+| b | float | The blue color component. |
 
 ### ReturnValue
 
@@ -29,7 +32,33 @@ New color.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
-* Class [Color](../../../system.drawing/color/)
+* Class [XpsDocument](../)
+* Namespace [Aspose::Page::XPS](../../)
+* Library [Aspose.Page for C++](../../../)
+## XpsDocument::CreateColor(float, float, float) method
+
+
+Creates a new color in scRGB color space.
+
+```cpp
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(float r, float g, float b)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| r | float | The red color component. |
+| g | float | The green color component. |
+| b | float | The blue color component. |
+
+### ReturnValue
+
+New color.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
 * Class [XpsDocument](../)
 * Namespace [Aspose::Page::XPS](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -88,22 +117,19 @@ New color.
 * Class [XpsDocument](../)
 * Namespace [Aspose::Page::XPS](../../)
 * Library [Aspose.Page for C++](../../../)
-## XpsDocument::CreateColor(float, float, float, float) method
+## XpsDocument::CreateColor(System::Drawing::Color) method
 
 
-Creates a new color in scRGB color space.
+Creates a new color.
 
 ```cpp
-System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(float a, float r, float g, float b)
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(System::Drawing::Color color)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | float | The alpha color component. |
-| r | float | The red color component. |
-| g | float | The green color component. |
-| b | float | The blue color component. |
+| color | System::Drawing::Color | A native color instance for RGB color. |
 
 ### ReturnValue
 
@@ -113,61 +139,7 @@ New color.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
-* Class [XpsDocument](../)
-* Namespace [Aspose::Page::XPS](../../)
-* Library [Aspose.Page for C++](../../../)
-## XpsDocument::CreateColor(float, float, float) method
-
-
-Creates a new color in scRGB color space.
-
-```cpp
-System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(float r, float g, float b)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| r | float | The red color component. |
-| g | float | The green color component. |
-| b | float | The blue color component. |
-
-### ReturnValue
-
-New color.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
-* Class [XpsDocument](../)
-* Namespace [Aspose::Page::XPS](../../)
-* Library [Aspose.Page for C++](../../../)
-## XpsDocument::CreateColor(System::String, const System::ArrayPtr\<float\>\&) method
-
-
-Creates a new color in ICC based color space.
-
-```cpp
-System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(System::String path, const System::ArrayPtr<float> &components)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| path | System::String | The path to the ICC profile. |
-| components | const System::ArrayPtr\<float\>\& | Color components. |
-
-### ReturnValue
-
-New color.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
-* Class [String](../../../system/string/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Color](../../../system.drawing/color/)
 * Class [XpsDocument](../)
 * Namespace [Aspose::Page::XPS](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -195,6 +167,34 @@ New color.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
 * Class [XpsIccProfile](../../../aspose.page.xps.xpsmodel/xpsiccprofile/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XpsDocument](../)
+* Namespace [Aspose::Page::XPS](../../)
+* Library [Aspose.Page for C++](../../../)
+## XpsDocument::CreateColor(System::String, const System::ArrayPtr\<float\>\&) method
+
+
+Creates a new color in ICC based color space.
+
+```cpp
+System::SharedPtr<XpsModel::XpsColor> Aspose::Page::XPS::XpsDocument::CreateColor(System::String path, const System::ArrayPtr<float> &components)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | System::String | The path to the ICC profile. |
+| components | const System::ArrayPtr\<float\>\& | Color components. |
+
+### ReturnValue
+
+New color.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* Class [String](../../../system/string/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [XpsDocument](../)
 * Namespace [Aspose::Page::XPS](../../)

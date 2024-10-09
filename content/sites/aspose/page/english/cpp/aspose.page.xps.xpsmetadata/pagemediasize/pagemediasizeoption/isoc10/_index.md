@@ -4,7 +4,7 @@ linktitle: ISOC10
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::ISOC10 field. ISOC10 in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/isoc10/
 ---
 ## ISOC10 field

@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlAttribute::set_Value method. Sets the value of the node in C++.'
 type: docs
-weight: 900
+weight: 2200
 url: /cpp/system.xml/xmlattribute/set_value/
 ---
 ## XmlAttribute::set_Value method

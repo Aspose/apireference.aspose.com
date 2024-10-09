@@ -4,7 +4,7 @@ linktitle: get_CurrentCultureIgnoreCase
 second_title: Aspose.Page for C++
 description: 'System::StringComparer::get_CurrentCultureIgnoreCase method. Current culture case-ignoring comparer singleton in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/system/stringcomparer/get_currentcultureignorecase/
 ---
 ## StringComparer::get_CurrentCultureIgnoreCase method

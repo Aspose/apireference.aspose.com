@@ -4,7 +4,7 @@ linktitle: AddCapture
 second_title: Aspose.Page for C++
 description: 'System::Text::RegularExpressions::Match::AddCapture method. Adds capture into match in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.text.regularexpressions/match/addcapture/
 ---
 ## Match::AddCapture method

@@ -4,7 +4,7 @@ linktitle: DeleteRange
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::DeleteRange method. Deletes a range of sibling nodes from the current node to the node specified in C++.'
 type: docs
-weight: 7500
+weight: 1000
 url: /cpp/system.xml.xpath/xpathnavigator/deleterange/
 ---
 ## XPathNavigator::DeleteRange method

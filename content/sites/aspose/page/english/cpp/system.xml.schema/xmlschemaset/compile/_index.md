@@ -4,7 +4,7 @@ linktitle: Compile
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaSet::Compile method. Compiles the XML Schema definition language (XSD) schemas added to the XmlSchemaSet into one logical schema in C++.'
 type: docs
-weight: 1700
+weight: 300
 url: /cpp/system.xml.schema/xmlschemaset/compile/
 ---
 ## XmlSchemaSet::Compile method

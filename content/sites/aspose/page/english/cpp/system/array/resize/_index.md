@@ -4,7 +4,7 @@ linktitle: Resize
 second_title: Aspose.Page for C++
 description: 'System::Array::Resize method. Changes the size of the specified array to the specified value or crates new array with specified size in C++.'
 type: docs
-weight: 5700
+weight: 5500
 url: /cpp/system/array/resize/
 ---
 ## Array::Resize method

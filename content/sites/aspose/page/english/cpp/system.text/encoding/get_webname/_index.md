@@ -4,7 +4,7 @@ linktitle: get_WebName
 second_title: Aspose.Page for C++
 description: 'System::Text::Encoding::get_WebName method. Gets IANA-compatible encoding name in C++.'
 type: docs
-weight: 500
+weight: 1500
 url: /cpp/system.text/encoding/get_webname/
 ---
 ## Encoding::get_WebName method

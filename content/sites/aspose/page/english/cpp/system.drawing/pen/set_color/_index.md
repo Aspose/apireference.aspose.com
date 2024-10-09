@@ -4,7 +4,7 @@ linktitle: set_Color
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_Color method. Sets this pen''s color in C++.'
 type: docs
-weight: 3000
+weight: 2500
 url: /cpp/system.drawing/pen/set_color/
 ---
 ## Pen::set_Color method

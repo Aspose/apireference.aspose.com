@@ -4,7 +4,7 @@ linktitle: BoxEnum
 second_title: Aspose.Page for C++
 description: 'System::ObjectExt::BoxEnum method. Boxes enum types for being propagated as Object in C++.'
 type: docs
-weight: 1500
+weight: 300
 url: /cpp/system/objectext/boxenum/
 ---
 ## ObjectExt::BoxEnum method

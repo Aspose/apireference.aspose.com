@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::set_Value method. Sets the cookie''s value in C++.'
 type: docs
-weight: 2900
+weight: 3700
 url: /cpp/system.net/cookie/set_value/
 ---
 ## Cookie::set_Value method

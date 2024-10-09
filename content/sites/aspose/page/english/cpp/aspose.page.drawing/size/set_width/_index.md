@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Size::set_Width method. Sets the horizontal component of this T:Aspose::Page::Drawing::Size in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.page.drawing/size/set_width/
 ---
 ## Size::set_Width method

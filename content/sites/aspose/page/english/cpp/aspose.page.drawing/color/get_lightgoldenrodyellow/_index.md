@@ -4,7 +4,7 @@ linktitle: get_LightGoldenrodYellow
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LightGoldenrodYellow method. Gets a system-defined color that has an ARGB value of #FFFAFAD2 in C++.'
 type: docs
-weight: 6800
+weight: 6900
 url: /cpp/aspose.page.drawing/color/get_lightgoldenrodyellow/
 ---
 ## Color::get_LightGoldenrodYellow method

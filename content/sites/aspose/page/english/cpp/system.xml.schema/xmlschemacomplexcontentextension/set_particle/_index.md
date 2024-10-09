@@ -4,7 +4,7 @@ linktitle: set_Particle
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaComplexContentExtension::set_Particle method. Sets one of the XmlSchemaGroupRef, XmlSchemaChoice, XmlSchemaAll, or XmlSchemaSequence classes in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/system.xml.schema/xmlschemacomplexcontentextension/set_particle/
 ---
 ## XmlSchemaComplexContentExtension::set_Particle method

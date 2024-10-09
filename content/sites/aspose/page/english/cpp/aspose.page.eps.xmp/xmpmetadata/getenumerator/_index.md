@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::GetEnumerator method. Returns dictionary enumerator in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/getenumerator/
 ---
 ## XmpMetadata::GetEnumerator method

@@ -4,7 +4,7 @@ linktitle: Seek
 second_title: Aspose.Page for C++
 description: 'System::Net::Security::SslStream::Seek method. Sets the position of the stream represented by the current object in C++.'
 type: docs
-weight: 2900
+weight: 3300
 url: /cpp/system.net.security/sslstream/seek/
 ---
 ## SslStream::Seek method

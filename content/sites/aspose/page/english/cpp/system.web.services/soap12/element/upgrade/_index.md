@@ -4,7 +4,7 @@ linktitle: Upgrade
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Soap12::Element::Upgrade field. The string representation of the ''Upgrade'' element name in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/system.web.services/soap12/element/upgrade/
 ---
 ## Upgrade field

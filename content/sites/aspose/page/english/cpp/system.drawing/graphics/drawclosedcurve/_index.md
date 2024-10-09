@@ -4,7 +4,7 @@ linktitle: DrawClosedCurve
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawClosedCurve method. Draws a closed spline using the specified pen in C++.'
 type: docs
-weight: 6100
+weight: 1300
 url: /cpp/system.drawing/graphics/drawclosedcurve/
 ---
 ## Graphics::DrawClosedCurve(const SharedPtr\<Pen\>\&, const ArrayPtr\<Point\>\&, float, Drawing2D::FillMode) method

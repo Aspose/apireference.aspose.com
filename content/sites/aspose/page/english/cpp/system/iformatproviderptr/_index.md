@@ -4,7 +4,7 @@ linktitle: IFormatProviderPtr
 second_title: Aspose.Page for C++
 description: 'System::IFormatProviderPtr typedef. An alias for a smart pointer that points to an instance of System::IFormatProvider class in C++.'
 type: docs
-weight: 8900
+weight: 11600
 url: /cpp/system/iformatproviderptr/
 ---
 ## IFormatProviderPtr typedef

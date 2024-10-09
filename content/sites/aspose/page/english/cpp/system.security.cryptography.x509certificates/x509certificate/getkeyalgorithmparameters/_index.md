@@ -4,7 +4,7 @@ linktitle: GetKeyAlgorithmParameters
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate::GetKeyAlgorithmParameters method. Gets key information for the current certificate as an array of bytes in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getkeyalgorithmparameters/
 ---
 ## X509Certificate::GetKeyAlgorithmParameters method

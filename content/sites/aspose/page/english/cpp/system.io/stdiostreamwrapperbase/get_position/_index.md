@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.Page for C++
 description: 'System::IO::STDIOStreamWrapperBase::get_Position method. Returns current position of the stream in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.io/stdiostreamwrapperbase/get_position/
 ---
 ## STDIOStreamWrapperBase::get_Position method

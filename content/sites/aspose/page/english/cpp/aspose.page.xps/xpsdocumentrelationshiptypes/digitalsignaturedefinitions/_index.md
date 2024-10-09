@@ -4,7 +4,7 @@ linktitle: DigitalSignatureDefinitions
 second_title: Aspose.Page for C++
 description: 'How to use DigitalSignatureDefinitions field of Aspose::Page::XPS::XpsDocumentRelationshipTypes class in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page.xps/xpsdocumentrelationshiptypes/digitalsignaturedefinitions/
 ---
 ## DigitalSignatureDefinitions field

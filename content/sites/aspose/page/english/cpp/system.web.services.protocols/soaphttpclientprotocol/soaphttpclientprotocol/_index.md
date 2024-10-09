@@ -4,7 +4,7 @@ linktitle: SoapHttpClientProtocol
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapHttpClientProtocol::SoapHttpClientProtocol constructor. Constructs a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.web.services.protocols/soaphttpclientprotocol/soaphttpclientprotocol/
 ---
 ## SoapHttpClientProtocol::SoapHttpClientProtocol constructor

@@ -4,7 +4,7 @@ linktitle: LookupPrefix
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::LookupPrefix method. When overridden in a derived class, returns the closest prefix defined in the current namespace scope for the namespace URI in C++.'
 type: docs
-weight: 2800
+weight: 800
 url: /cpp/system.xml/xmlwriter/lookupprefix/
 ---
 ## XmlWriter::LookupPrefix method

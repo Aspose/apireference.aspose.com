@@ -4,7 +4,7 @@ linktitle: MarkAsSent
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpRequestMessage::MarkAsSent method. Marks the current request as sent in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/system.net.http/httprequestmessage/markassent/
 ---
 ## HttpRequestMessage::MarkAsSent method

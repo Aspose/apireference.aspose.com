@@ -4,7 +4,7 @@ linktitle: CreatePathFigure
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Features::EventBasedModifications::PageAPI::CreatePathFigure method. Creates a new path figure in C++.'
 type: docs
-weight: 2300
+weight: 1500
 url: /cpp/aspose.page.xps.features.eventbasedmodifications/pageapi/createpathfigure/
 ---
 ## PageAPI::CreatePathFigure(System::Drawing::PointF, bool) method

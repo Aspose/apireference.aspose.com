@@ -4,7 +4,7 @@ linktitle: get_LawnGreen
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pens::get_LawnGreen method. Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF7CFC00 in C++.'
 type: docs
-weight: 6300
+weight: 6200
 url: /cpp/system.drawing/pens/get_lawngreen/
 ---
 ## Pens::get_LawnGreen method

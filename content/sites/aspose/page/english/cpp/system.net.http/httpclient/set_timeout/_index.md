@@ -4,7 +4,7 @@ linktitle: set_Timeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::set_Timeout method. Sets the timespan to wait before the request times out in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/system.net.http/httpclient/set_timeout/
 ---
 ## HttpClient::set_Timeout method

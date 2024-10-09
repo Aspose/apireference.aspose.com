@@ -4,7 +4,7 @@ linktitle: WriteTo
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlSignificantWhitespace::WriteTo method. Saves the node to the specified XmlWriter in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.xml/xmlsignificantwhitespace/writeto/
 ---
 ## XmlSignificantWhitespace::WriteTo method

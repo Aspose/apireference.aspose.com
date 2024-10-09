@@ -4,7 +4,7 @@ linktitle: get_Discard
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::get_Discard method. Gets the ''Discard'' attribute''s value in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/system.net/cookie/get_discard/
 ---
 ## Cookie::get_Discard method

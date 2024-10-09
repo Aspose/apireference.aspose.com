@@ -4,7 +4,7 @@ linktitle: set_BindIPEndPointDelegate
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::set_BindIPEndPointDelegate method. Sets the delegate that is used to associate local IPEndPoint with the current instance in C++.'
 type: docs
-weight: 200
+weight: 1700
 url: /cpp/system.net/servicepoint/set_bindipendpointdelegate/
 ---
 ## ServicePoint::set_BindIPEndPointDelegate method

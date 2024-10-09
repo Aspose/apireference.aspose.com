@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Font::DrFont::Equals method. Determines whether the specified System::Object, is equal to this instance in C++.'
 type: docs
-weight: 2600
+weight: 100
 url: /cpp/aspose.page.font/drfont/equals/
 ---
 ## DrFont::Equals method

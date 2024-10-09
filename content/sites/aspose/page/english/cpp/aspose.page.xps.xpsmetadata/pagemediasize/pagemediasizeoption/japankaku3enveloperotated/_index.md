@@ -4,7 +4,7 @@ linktitle: JapanKaku3EnvelopeRotated
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::JapanKaku3EnvelopeRotated field. Japan Kaku3 envelope rotated in C++.'
 type: docs
-weight: 8100
+weight: 7000
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/japankaku3enveloperotated/
 ---
 ## JapanKaku3EnvelopeRotated field

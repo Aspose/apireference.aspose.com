@@ -4,7 +4,7 @@ linktitle: GetTabStops
 second_title: Aspose.Page for C++
 description: 'System::Drawing::StringFormat::GetTabStops method. Returns the tab stops for the current StringFormat object in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.drawing/stringformat/gettabstops/
 ---
 ## StringFormat::GetTabStops method

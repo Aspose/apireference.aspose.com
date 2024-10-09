@@ -4,7 +4,7 @@ linktitle: set_WrapMode
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::LinearGradientBrush::set_WrapMode method. Sets the wrap mode in C++.'
 type: docs
-weight: 800
+weight: 1900
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_wrapmode/
 ---
 ## LinearGradientBrush::set_WrapMode method

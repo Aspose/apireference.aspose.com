@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Equals method. Determines the equality of two values applying operator==() to them in C++.'
 type: docs
-weight: 31800
+weight: 16700
 url: /cpp/system/equals/
 ---
 ## System::Equals method

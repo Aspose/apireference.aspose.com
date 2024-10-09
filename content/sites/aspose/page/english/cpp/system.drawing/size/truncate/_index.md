@@ -4,7 +4,7 @@ linktitle: Truncate
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Size::Truncate method. Constructs a Size object from the specified SizeF object by truncating the SizeF object''s width and height values to the next lower integer values in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.drawing/size/truncate/
 ---
 ## Size::Truncate method

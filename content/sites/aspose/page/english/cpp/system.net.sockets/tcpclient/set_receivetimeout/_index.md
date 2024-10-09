@@ -4,7 +4,7 @@ linktitle: set_ReceiveTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::TcpClient::set_ReceiveTimeout method. Sets a value that indicates an amount of time after which data receiving will time out in C++.'
 type: docs
-weight: 1200
+weight: 2300
 url: /cpp/system.net.sockets/tcpclient/set_receivetimeout/
 ---
 ## TcpClient::set_ReceiveTimeout method

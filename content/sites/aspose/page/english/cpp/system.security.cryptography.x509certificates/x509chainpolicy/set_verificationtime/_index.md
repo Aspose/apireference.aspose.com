@@ -4,7 +4,7 @@ linktitle: set_VerificationTime
 second_title: Aspose.Page for C++
 description: 'How to use set_VerificationTime method of System::Security::Cryptography::X509Certificates::X509ChainPolicy class in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_verificationtime/
 ---
 ## X509ChainPolicy::set_VerificationTime method

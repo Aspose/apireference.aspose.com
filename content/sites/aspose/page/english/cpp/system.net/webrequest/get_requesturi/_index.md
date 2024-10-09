@@ -4,7 +4,7 @@ linktitle: get_RequestUri
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::get_RequestUri method. Returns the request URI in C++.'
 type: docs
-weight: 1100
+weight: 2300
 url: /cpp/system.net/webrequest/get_requesturi/
 ---
 ## WebRequest::get_RequestUri method

@@ -4,7 +4,7 @@ linktitle: set_SurroundColors
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::PathGradientBrush::set_SurroundColors method. Sets colors that correspond to the points in the path this PathGradientBrush fills in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_surroundcolors/
 ---
 ## PathGradientBrush::set_SurroundColors method

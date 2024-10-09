@@ -4,7 +4,7 @@ linktitle: get_LightSkyBlue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LightSkyBlue method. Gets a system-defined color that has an ARGB value of #FF87CEFA in C++.'
 type: docs
-weight: 7400
+weight: 7500
 url: /cpp/aspose.page.drawing/color/get_lightskyblue/
 ---
 ## Color::get_LightSkyBlue method

@@ -4,7 +4,7 @@ linktitle: ToRaw
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue::ToRaw method. Raw XML code for unknown/unsupported values in C++.'
 type: docs
-weight: 1700
+weight: 2000
 url: /cpp/aspose.page.eps.xmp/xmpvalue/toraw/
 ---
 ## XmpValue::ToRaw method

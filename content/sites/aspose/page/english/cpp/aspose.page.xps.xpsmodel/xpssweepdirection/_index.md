@@ -4,7 +4,7 @@ linktitle: XpsSweepDirection
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsSweepDirection enum. Valid values of ArcSegment element''s SweepDirection property in C++.'
 type: docs
-weight: 5200
+weight: 5500
 url: /cpp/aspose.page.xps.xpsmodel/xpssweepdirection/
 ---
 ## XpsSweepDirection enum

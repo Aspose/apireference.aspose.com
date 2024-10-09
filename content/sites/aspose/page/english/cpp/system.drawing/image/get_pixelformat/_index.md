@@ -4,7 +4,7 @@ linktitle: get_PixelFormat
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Image::get_PixelFormat method. Returns the pixel format of the image represented by the current object in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/system.drawing/image/get_pixelformat/
 ---
 ## Image::get_PixelFormat method

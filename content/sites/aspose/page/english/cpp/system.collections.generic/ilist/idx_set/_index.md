@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IList::idx_set method. Sets element at specified index in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.collections.generic/ilist/idx_set/
 ---
 ## IList::idx_set method

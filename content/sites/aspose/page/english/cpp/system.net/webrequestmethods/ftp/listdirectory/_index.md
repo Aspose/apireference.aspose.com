@@ -4,7 +4,7 @@ linktitle: ListDirectory
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequestMethods::Ftp::ListDirectory field. The string representation of the ''NLST'' method of FTP in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/system.net/webrequestmethods/ftp/listdirectory/
 ---
 ## ListDirectory field

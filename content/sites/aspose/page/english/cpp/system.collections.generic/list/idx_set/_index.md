@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::idx_set method. Sets element at specific position in C++.'
 type: docs
-weight: 2200
+weight: 3000
 url: /cpp/system.collections.generic/list/idx_set/
 ---
 ## List::idx_set method

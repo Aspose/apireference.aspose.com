@@ -2,11 +2,57 @@
 title: System::Xml::Xsl::XslCompiledTransform::Load method
 linktitle: Load
 second_title: Aspose.Page for C++
-description: 'System::Xml::Xsl::XslCompiledTransform::Load method. Compiles the style sheet contained in the XmlReader in C++.'
+description: 'System::Xml::Xsl::XslCompiledTransform::Load method. Compiles the style sheet contained in the IXPathNavigable object in C++.'
 type: docs
 weight: 300
 url: /cpp/system.xml.xsl/xslcompiledtransform/load/
 ---
+## XslCompiledTransform::Load(const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\&) method
+
+
+Compiles the style sheet contained in the IXPathNavigable object.
+
+```cpp
+void System::Xml::Xsl::XslCompiledTransform::Load(const SharedPtr<System::Xml::XPath::IXPathNavigable> &stylesheet)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stylesheet | const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\& | An object implementing the IXPathNavigable interface. It can be either an [XmlNode](../../../system.xml/xmlnode/) (typically an [XmlDocument](../../../system.xml/xmldocument/)), or an XPathDocument containing the style sheet. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IXPathNavigable](../../../system.xml.xpath/ixpathnavigable/)
+* Class [XslCompiledTransform](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Page for C++](../../../)
+## XslCompiledTransform::Load(const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\&, SharedPtr\<XsltSettings\>, SharedPtr\<XmlResolver\>) method
+
+
+Compiles the XSLT style sheet contained in the IXPathNavigable. The [XmlResolver](../../../system.xml/xmlresolver/) resolves any XSLT **import** or **include** elements and the XSLT settings determine the permissions for the style sheet.
+
+```cpp
+void System::Xml::Xsl::XslCompiledTransform::Load(const SharedPtr<System::Xml::XPath::IXPathNavigable> &stylesheet, SharedPtr<XsltSettings> settings, SharedPtr<XmlResolver> stylesheetResolver)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stylesheet | const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\& | An object implementing the IXPathNavigable interface. It can be either an [XmlNode](../../../system.xml/xmlnode/) (typically an [XmlDocument](../../../system.xml/xmldocument/)), or an XPathDocument containing the style sheet. |
+| settings | SharedPtr\<XsltSettings\> | The [XsltSettings](../../xsltsettings/) to apply to the style sheet. If this is **nullptr**, the [XsltSettings::get_Default](../../xsltsettings/get_default/) setting is applied. |
+| stylesheetResolver | SharedPtr\<XmlResolver\> | The [XmlResolver](../../../system.xml/xmlresolver/) used to resolve any style sheets referenced in XSLT **import** and **include** elements. If this is **nullptr**, external resources are not resolved. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IXPathNavigable](../../../system.xml.xpath/ixpathnavigable/)
+* Class [XsltSettings](../../xsltsettings/)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Class [XslCompiledTransform](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Page for C++](../../../)
 ## XslCompiledTransform::Load(const SharedPtr\<XmlReader\>\&) method
 
 
@@ -93,52 +139,6 @@ void System::Xml::Xsl::XslCompiledTransform::Load(const String &stylesheetUri, c
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XsltSettings](../../xsltsettings/)
-* Class [XmlResolver](../../../system.xml/xmlresolver/)
-* Class [XslCompiledTransform](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Page for C++](../../../)
-## XslCompiledTransform::Load(const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\&) method
-
-
-Compiles the style sheet contained in the IXPathNavigable object.
-
-```cpp
-void System::Xml::Xsl::XslCompiledTransform::Load(const SharedPtr<System::Xml::XPath::IXPathNavigable> &stylesheet)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stylesheet | const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\& | An object implementing the IXPathNavigable interface. It can be either an [XmlNode](../../../system.xml/xmlnode/) (typically an [XmlDocument](../../../system.xml/xmldocument/)), or an XPathDocument containing the style sheet. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IXPathNavigable](../../../system.xml.xpath/ixpathnavigable/)
-* Class [XslCompiledTransform](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Page for C++](../../../)
-## XslCompiledTransform::Load(const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\&, SharedPtr\<XsltSettings\>, SharedPtr\<XmlResolver\>) method
-
-
-Compiles the XSLT style sheet contained in the IXPathNavigable. The [XmlResolver](../../../system.xml/xmlresolver/) resolves any XSLT **import** or **include** elements and the XSLT settings determine the permissions for the style sheet.
-
-```cpp
-void System::Xml::Xsl::XslCompiledTransform::Load(const SharedPtr<System::Xml::XPath::IXPathNavigable> &stylesheet, SharedPtr<XsltSettings> settings, SharedPtr<XmlResolver> stylesheetResolver)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stylesheet | const SharedPtr\<System::Xml::XPath::IXPathNavigable\>\& | An object implementing the IXPathNavigable interface. It can be either an [XmlNode](../../../system.xml/xmlnode/) (typically an [XmlDocument](../../../system.xml/xmldocument/)), or an XPathDocument containing the style sheet. |
-| settings | SharedPtr\<XsltSettings\> | The [XsltSettings](../../xsltsettings/) to apply to the style sheet. If this is **nullptr**, the [XsltSettings::get_Default](../../xsltsettings/get_default/) setting is applied. |
-| stylesheetResolver | SharedPtr\<XmlResolver\> | The [XmlResolver](../../../system.xml/xmlresolver/) used to resolve any style sheets referenced in XSLT **import** and **include** elements. If this is **nullptr**, external resources are not resolved. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IXPathNavigable](../../../system.xml.xpath/ixpathnavigable/)
 * Class [XsltSettings](../../xsltsettings/)
 * Class [XmlResolver](../../../system.xml/xmlresolver/)
 * Class [XslCompiledTransform](../)

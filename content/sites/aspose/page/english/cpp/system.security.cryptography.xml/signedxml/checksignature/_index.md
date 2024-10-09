@@ -4,7 +4,7 @@ linktitle: CheckSignature
 second_title: Aspose.Page for C++
 description: 'How to use CheckSignature method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1600
+weight: 400
 url: /cpp/system.security.cryptography.xml/signedxml/checksignature/
 ---
 ## SignedXml::CheckSignature() method

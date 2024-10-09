@@ -4,7 +4,7 @@ linktitle: set_NoDelay
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_NoDelay method. Sets a value that indicates if the socket is using the Nagle algorithm in C++.'
 type: docs
-weight: 2700
+weight: 5600
 url: /cpp/system.net.sockets/socket/set_nodelay/
 ---
 ## Socket::set_NoDelay method

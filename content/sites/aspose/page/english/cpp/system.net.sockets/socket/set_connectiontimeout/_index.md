@@ -4,7 +4,7 @@ linktitle: set_ConnectionTimeout
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_ConnectionTimeout method. Sets the connection timeout in C++.'
 type: docs
-weight: 6300
+weight: 4900
 url: /cpp/system.net.sockets/socket/set_connectiontimeout/
 ---
 ## Socket::set_ConnectionTimeout method

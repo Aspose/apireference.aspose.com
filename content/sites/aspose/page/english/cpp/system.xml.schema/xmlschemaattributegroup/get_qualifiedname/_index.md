@@ -4,7 +4,7 @@ linktitle: get_QualifiedName
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAttributeGroup::get_QualifiedName method. Returns the qualified name of the attribute group in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaattributegroup/get_qualifiedname/
 ---
 ## XmlSchemaAttributeGroup::get_QualifiedName method

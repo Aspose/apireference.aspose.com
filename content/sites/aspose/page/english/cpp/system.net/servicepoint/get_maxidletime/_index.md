@@ -4,7 +4,7 @@ linktitle: get_MaxIdleTime
 second_title: Aspose.Page for C++
 description: 'System::Net::ServicePoint::get_MaxIdleTime method. Gets an amount of time in milliseconds after which an idle connection will be closed in C++.'
 type: docs
-weight: 600
+weight: 1200
 url: /cpp/system.net/servicepoint/get_maxidletime/
 ---
 ## ServicePoint::get_MaxIdleTime method

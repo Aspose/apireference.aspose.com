@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsSolidColorBrush::get_Color method. Returns/sets the color for filled elements in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpssolidcolorbrush/get_color/
 ---
 ## XpsSolidColorBrush::get_Color method

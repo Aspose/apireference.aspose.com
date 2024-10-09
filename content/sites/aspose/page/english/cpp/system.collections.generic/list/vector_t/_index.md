@@ -4,7 +4,7 @@ linktitle: vector_t
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::List::vector_t typedef. RTTI information in C++.'
 type: docs
-weight: 5400
+weight: 6000
 url: /cpp/system.collections.generic/list/vector_t/
 ---
 ## vector_t typedef

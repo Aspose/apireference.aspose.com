@@ -4,7 +4,7 @@ linktitle: get_ProhibitDtd
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReaderSettings::get_ProhibitDtd method. Returns a value indicating whether to prohibit document type definition (DTD) processing in C++.'
 type: docs
-weight: 2200
+weight: 1600
 url: /cpp/system.xml/xmlreadersettings/get_prohibitdtd/
 ---
 ## XmlReaderSettings::get_ProhibitDtd method

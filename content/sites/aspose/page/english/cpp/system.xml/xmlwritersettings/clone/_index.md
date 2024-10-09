@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriterSettings::Clone method. Creates a copy of the XmlWriterSettings instance in C++.'
 type: docs
-weight: 3000
+weight: 200
 url: /cpp/system.xml/xmlwritersettings/clone/
 ---
 ## XmlWriterSettings::Clone method

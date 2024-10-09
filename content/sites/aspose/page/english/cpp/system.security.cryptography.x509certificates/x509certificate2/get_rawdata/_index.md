@@ -4,7 +4,7 @@ linktitle: get_RawData
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::get_RawData method. Gets certificate raw data in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_rawdata/
 ---
 ## X509Certificate2::get_RawData method

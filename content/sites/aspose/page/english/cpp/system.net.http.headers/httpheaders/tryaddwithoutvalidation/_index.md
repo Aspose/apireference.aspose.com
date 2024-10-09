@@ -4,7 +4,7 @@ linktitle: TryAddWithoutValidation
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpHeaders::TryAddWithoutValidation method. Tries to add a new name-value pair to the current collection in C++.'
 type: docs
-weight: 200
+weight: 1800
 url: /cpp/system.net.http.headers/httpheaders/tryaddwithoutvalidation/
 ---
 ## HttpHeaders::TryAddWithoutValidation(String, String) method

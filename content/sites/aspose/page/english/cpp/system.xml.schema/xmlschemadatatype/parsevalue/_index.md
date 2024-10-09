@@ -4,7 +4,7 @@ linktitle: ParseValue
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDatatype::ParseValue method. When overridden in a derived class, validates the string specified against a built-in or user-defined simple type in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.xml.schema/xmlschemadatatype/parsevalue/
 ---
 ## XmlSchemaDatatype::ParseValue method

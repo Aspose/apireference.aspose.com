@@ -4,7 +4,7 @@ linktitle: set_Description
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceAttribute::set_Description method. Sets a message that contains the XML Web service description in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.web.services/webserviceattribute/set_description/
 ---
 ## WebServiceAttribute::set_Description method

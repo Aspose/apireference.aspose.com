@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'How to use Equals method of System::Globalization::CompareInfo class in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/system.globalization/compareinfo/equals/
 ---
 ## CompareInfo::Equals method

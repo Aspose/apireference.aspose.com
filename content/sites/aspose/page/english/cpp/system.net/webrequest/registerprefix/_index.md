@@ -4,7 +4,7 @@ linktitle: RegisterPrefix
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::RegisterPrefix method. Registers the WebRequest descendant for the specified URI in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/system.net/webrequest/registerprefix/
 ---
 ## WebRequest::RegisterPrefix method

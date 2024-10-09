@@ -4,7 +4,7 @@ linktitle: ExceptionPtr
 second_title: Aspose.Page for C++
 description: 'System::ExceptionPtr typedef. Type alias used by exception wrappers in C++.'
 type: docs
-weight: 11700
+weight: 11100
 url: /cpp/system/exceptionptr/
 ---
 ## ExceptionPtr typedef

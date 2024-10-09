@@ -4,7 +4,7 @@ linktitle: get_Namespaces
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObject::get_Namespaces method. Returns the XmlSerializerNamespaces to use with this schema object in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.xml.schema/xmlschemaobject/get_namespaces/
 ---
 ## XmlSchemaObject::get_Namespaces method

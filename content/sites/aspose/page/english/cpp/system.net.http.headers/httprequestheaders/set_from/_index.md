@@ -4,7 +4,7 @@ linktitle: set_From
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_From method. Sets a value of the ''From'' header in C++.'
 type: docs
-weight: 1100
+weight: 3900
 url: /cpp/system.net.http.headers/httprequestheaders/set_from/
 ---
 ## HttpRequestHeaders::set_From method

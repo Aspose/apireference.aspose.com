@@ -4,7 +4,7 @@ linktitle: StreamPtr
 second_title: Aspose.Page for C++
 description: 'System::StreamPtr typedef. An alias for a smart pointer that points to an instance of System::IO::Stream class in C++.'
 type: docs
-weight: 10100
+weight: 12100
 url: /cpp/system/streamptr/
 ---
 ## StreamPtr typedef

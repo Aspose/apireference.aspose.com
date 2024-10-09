@@ -4,7 +4,7 @@ linktitle: GetTextElement
 second_title: Aspose.Page for C++
 description: 'System::Globalization::TextElementEnumerator::GetTextElement method. Gets current element in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.globalization/textelementenumerator/gettextelement/
 ---
 ## TextElementEnumerator::GetTextElement method

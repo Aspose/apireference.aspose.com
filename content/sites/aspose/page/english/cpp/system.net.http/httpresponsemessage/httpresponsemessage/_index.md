@@ -4,7 +4,7 @@ linktitle: HttpResponseMessage
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpResponseMessage::HttpResponseMessage constructor. Constructs a new instance in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/system.net.http/httpresponsemessage/httpresponsemessage/
 ---
 ## HttpResponseMessage::HttpResponseMessage() constructor

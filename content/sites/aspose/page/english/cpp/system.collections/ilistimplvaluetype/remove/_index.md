@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplValueType::Remove method. Removes first instance of specific item from list in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.collections/ilistimplvaluetype/remove/
 ---
 ## IListImplValueType::Remove method

@@ -4,7 +4,7 @@ linktitle: set_IfUnmodifiedSince
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::set_IfUnmodifiedSince method. Sets a value of the ''If-Unmodified-Since'' header in C++.'
 type: docs
-weight: 2100
+weight: 4300
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifunmodifiedsince/
 ---
 ## HttpRequestHeaders::set_IfUnmodifiedSince method

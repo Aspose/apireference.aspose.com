@@ -4,7 +4,7 @@ linktitle: AddDefaultConstructor
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::AddDefaultConstructor method. Sets default constructor for the type T in C++.'
 type: docs
-weight: 4900
+weight: 600
 url: /cpp/system/typeinfo/adddefaultconstructor/
 ---
 ## TypeInfo::AddDefaultConstructor() method

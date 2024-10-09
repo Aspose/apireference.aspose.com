@@ -4,7 +4,7 @@ linktitle: AddCanvas
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsCanvas::AddCanvas method. Adds a new canvas to this canvas''s child list in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpscanvas/addcanvas/
 ---
 ## XpsCanvas::AddCanvas method

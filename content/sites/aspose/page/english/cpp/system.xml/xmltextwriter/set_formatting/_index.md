@@ -4,7 +4,7 @@ linktitle: set_Formatting
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::set_Formatting method. Indicates how the output is formatted in C++.'
 type: docs
-weight: 500
+weight: 1400
 url: /cpp/system.xml/xmltextwriter/set_formatting/
 ---
 ## XmlTextWriter::set_Formatting method

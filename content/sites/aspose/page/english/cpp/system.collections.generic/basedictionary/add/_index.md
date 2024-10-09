@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseDictionary::Add method. Adds key-value pair into dictionary in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/system.collections.generic/basedictionary/add/
 ---
 ## BaseDictionary::Add method

@@ -4,7 +4,7 @@ linktitle: LINQ_Last
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::IEnumerable::LINQ_Last method. Returns the last element of a sequence in C++.'
 type: docs
-weight: 500
+weight: 1600
 url: /cpp/system.collections.generic/ienumerable/linq_last/
 ---
 ## IEnumerable::LINQ_Last method

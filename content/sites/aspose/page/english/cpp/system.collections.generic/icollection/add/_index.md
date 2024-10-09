@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::Add method. Adds element into collection in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.collections.generic/icollection/add/
 ---
 ## ICollection::Add method

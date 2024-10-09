@@ -4,7 +4,7 @@ linktitle: OtherMetricA4Plus
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::OtherMetricA4Plus field. Other Metric A4 Plus in C++.'
 type: docs
-weight: 11900
+weight: 13700
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/othermetrica4plus/
 ---
 ## OtherMetricA4Plus field

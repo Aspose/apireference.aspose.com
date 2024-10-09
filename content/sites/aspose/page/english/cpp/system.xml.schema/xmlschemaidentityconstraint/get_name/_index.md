@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaIdentityConstraint::get_Name method. Returns the name of the identity constraint in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/get_name/
 ---
 ## XmlSchemaIdentityConstraint::get_Name method

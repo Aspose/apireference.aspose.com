@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::WebServiceBindingAttribute::set_Name method. Sets the binding''s name in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/system.web.services/webservicebindingattribute/set_name/
 ---
 ## WebServiceBindingAttribute::set_Name method

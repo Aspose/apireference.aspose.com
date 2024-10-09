@@ -4,7 +4,7 @@ linktitle: SetLength
 second_title: Aspose.Page for C++
 description: 'System::IO::BufferedStream::SetLength method. Sets the length of the stream represented by the current object in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/system.io/bufferedstream/setlength/
 ---
 ## BufferedStream::SetLength method

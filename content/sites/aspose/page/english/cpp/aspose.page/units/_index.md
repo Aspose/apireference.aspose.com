@@ -4,7 +4,7 @@ linktitle: Units
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Units enum. This enum contains possible values for size units in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.page/units/
 ---
 ## Units enum

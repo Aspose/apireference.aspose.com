@@ -4,7 +4,7 @@ linktitle: set_Ttl
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::Socket::set_Ttl method. Sets the TTL value in C++.'
 type: docs
-weight: 2900
+weight: 6100
 url: /cpp/system.net.sockets/socket/set_ttl/
 ---
 ## Socket::set_Ttl method

@@ -4,7 +4,7 @@ linktitle: get_Source
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaDocumentation::get_Source method. Returns the Uniform Resource Identifier (URI) source of the information in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.xml.schema/xmlschemadocumentation/get_source/
 ---
 ## XmlSchemaDocumentation::get_Source method

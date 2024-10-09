@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::Clone method. Clones culture info in C++.'
 type: docs
-weight: 3100
+weight: 300
 url: /cpp/system.globalization/cultureinfo/clone/
 ---
 ## CultureInfo::Clone method

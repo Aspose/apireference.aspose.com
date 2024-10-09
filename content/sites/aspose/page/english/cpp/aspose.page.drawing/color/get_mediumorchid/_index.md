@@ -4,7 +4,7 @@ linktitle: get_MediumOrchid
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_MediumOrchid method. Gets a system-defined color that has an ARGB value of #FFBA55D3 in C++.'
 type: docs
-weight: 8500
+weight: 8600
 url: /cpp/aspose.page.drawing/color/get_mediumorchid/
 ---
 ## Color::get_MediumOrchid method

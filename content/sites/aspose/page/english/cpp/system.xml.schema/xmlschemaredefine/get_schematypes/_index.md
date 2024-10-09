@@ -4,7 +4,7 @@ linktitle: get_SchemaTypes
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaRedefine::get_SchemaTypes method. Returns the XmlSchemaObjectTable, for all simple and complex types in the schema, which holds the post-compilation interpretation of the SchemaTypes value in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaredefine/get_schematypes/
 ---
 ## XmlSchemaRedefine::get_SchemaTypes method

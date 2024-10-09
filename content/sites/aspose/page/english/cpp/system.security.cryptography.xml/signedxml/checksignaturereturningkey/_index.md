@@ -4,7 +4,7 @@ linktitle: CheckSignatureReturningKey
 second_title: Aspose.Page for C++
 description: 'How to use CheckSignatureReturningKey method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1700
+weight: 500
 url: /cpp/system.security.cryptography.xml/signedxml/checksignaturereturningkey/
 ---
 ## SignedXml::CheckSignatureReturningKey method

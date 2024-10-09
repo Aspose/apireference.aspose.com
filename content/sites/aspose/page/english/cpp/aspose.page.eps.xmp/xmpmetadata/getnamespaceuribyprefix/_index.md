@@ -4,7 +4,7 @@ linktitle: GetNamespaceUriByPrefix
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata::GetNamespaceUriByPrefix method. Returns namespace URI by prefix in C++.'
 type: docs
-weight: 1000
+weight: 1700
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/getnamespaceuribyprefix/
 ---
 ## XmpMetadata::GetNamespaceUriByPrefix method

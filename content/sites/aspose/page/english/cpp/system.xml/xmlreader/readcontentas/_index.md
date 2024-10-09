@@ -4,7 +4,7 @@ linktitle: ReadContentAs
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlReader::ReadContentAs method. Reads the content as an object of the type specified in C++.'
 type: docs
-weight: 3600
+weight: 3900
 url: /cpp/system.xml/xmlreader/readcontentas/
 ---
 ## XmlReader::ReadContentAs method

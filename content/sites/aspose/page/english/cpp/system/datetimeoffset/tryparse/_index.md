@@ -2,37 +2,11 @@
 title: System::DateTimeOffset::TryParse method
 linktitle: TryParse
 second_title: Aspose.Page for C++
-description: 'System::DateTimeOffset::TryParse method. Tries to converts the specified string to DateTimeOffset object in C++.'
+description: 'System::DateTimeOffset::TryParse method. Tries to converts the specified string to DateTimeOffset object using the specified format provider and formatting style in C++.'
 type: docs
 weight: 5700
 url: /cpp/system/datetimeoffset/tryparse/
 ---
-## DateTimeOffset::TryParse(const String\&, DateTimeOffset\&) method
-
-
-Tries to converts the specified string to [DateTimeOffset](../) object.
-
-```cpp
-static bool System::DateTimeOffset::TryParse(const String &input, DateTimeOffset &result)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | const String\& | [String](../../string/) to convert. |
-| result | DateTimeOffset\& | [DateTimeOffset](../) that is equivalent to the **input**. |
-
-### ReturnValue
-
-true if the **input** converted successfully, otherwise - false.
-
-## See Also
-
-* Class [String](../../string/)
-* Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
 ## DateTimeOffset::TryParse(const String\&, const SharedPtr\<IFormatProvider\>\&, Globalization::DateTimeStyles, DateTimeOffset\&) method
 
 
@@ -60,6 +34,32 @@ true if the **input** converted successfully, otherwise - false.
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Class [DateTimeOffset](../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## DateTimeOffset::TryParse(const String\&, DateTimeOffset\&) method
+
+
+Tries to converts the specified string to [DateTimeOffset](../) object.
+
+```cpp
+static bool System::DateTimeOffset::TryParse(const String &input, DateTimeOffset &result)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | const String\& | [String](../../string/) to convert. |
+| result | DateTimeOffset\& | [DateTimeOffset](../) that is equivalent to the **input**. |
+
+### ReturnValue
+
+true if the **input** converted successfully, otherwise - false.
+
+## See Also
+
+* Class [String](../../string/)
 * Class [DateTimeOffset](../)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)

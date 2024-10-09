@@ -4,7 +4,7 @@ linktitle: get_AlgorithmType
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::get_AlgorithmType method. Gets algorithm type in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.globalization/calendar/get_algorithmtype/
 ---
 ## Calendar::get_AlgorithmType method

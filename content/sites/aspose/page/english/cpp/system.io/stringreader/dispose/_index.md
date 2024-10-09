@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::IO::StringReader::Dispose method. Does nothing in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/system.io/stringreader/dispose/
 ---
 ## StringReader::Dispose() method

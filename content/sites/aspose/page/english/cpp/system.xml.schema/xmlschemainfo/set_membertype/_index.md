@@ -4,7 +4,7 @@ linktitle: set_MemberType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaInfo::set_MemberType method. Sets the dynamic schema type for this validated XML node in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/system.xml.schema/xmlschemainfo/set_membertype/
 ---
 ## XmlSchemaInfo::set_MemberType method

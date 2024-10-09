@@ -4,7 +4,7 @@ linktitle: get_OaepHashAlgorithm
 second_title: Aspose.Page for C++
 description: 'System::Security::Cryptography::RSAEncryptionPadding::get_OaepHashAlgorithm method. Gets the hash algorithm used with OAEP in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.security.cryptography/rsaencryptionpadding/get_oaephashalgorithm/
 ---
 ## RSAEncryptionPadding::get_OaepHashAlgorithm method

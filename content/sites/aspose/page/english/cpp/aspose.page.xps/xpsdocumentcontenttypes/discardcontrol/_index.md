@@ -4,7 +4,7 @@ linktitle: DiscardControl
 second_title: Aspose.Page for C++
 description: 'How to use DiscardControl field of Aspose::Page::XPS::XpsDocumentContentTypes class in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.page.xps/xpsdocumentcontenttypes/discardcontrol/
 ---
 ## DiscardControl field

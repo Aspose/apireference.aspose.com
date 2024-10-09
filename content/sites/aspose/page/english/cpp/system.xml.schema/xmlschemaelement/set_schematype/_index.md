@@ -4,7 +4,7 @@ linktitle: set_SchemaType
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaElement::set_SchemaType method. Sets the type of the element. This can either be a complex type or a simple type in C++.'
 type: docs
-weight: 2400
+weight: 2900
 url: /cpp/system.xml.schema/xmlschemaelement/set_schematype/
 ---
 ## XmlSchemaElement::set_SchemaType method

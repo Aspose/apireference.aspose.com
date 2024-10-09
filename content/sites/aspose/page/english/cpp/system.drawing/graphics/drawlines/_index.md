@@ -4,7 +4,7 @@ linktitle: DrawLines
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Graphics::DrawLines method. Draws a series of line segments using the specified pen in C++.'
 type: docs
-weight: 5800
+weight: 2200
 url: /cpp/system.drawing/graphics/drawlines/
 ---
 ## Graphics::DrawLines(const SharedPtr\<Pen\>\&, const System::ArrayPtr\<System::Drawing::Point\>\&) method

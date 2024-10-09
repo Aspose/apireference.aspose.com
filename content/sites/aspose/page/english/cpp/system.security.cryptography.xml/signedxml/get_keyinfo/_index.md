@@ -4,7 +4,7 @@ linktitle: get_KeyInfo
 second_title: Aspose.Page for C++
 description: 'How to use get_KeyInfo method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.security.cryptography.xml/signedxml/get_keyinfo/
 ---
 ## SignedXml::get_KeyInfo method

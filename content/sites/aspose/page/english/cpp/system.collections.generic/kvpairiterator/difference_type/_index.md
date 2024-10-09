@@ -4,7 +4,7 @@ linktitle: difference_type
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Generic::KVPairIterator::difference_type typedef of System::Collections::Generic::KVPairIterator class in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/system.collections.generic/kvpairiterator/difference_type/
 ---
 ## difference_type typedef

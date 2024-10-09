@@ -4,7 +4,7 @@ linktitle: get_PrivateHeaders
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::CacheControlHeaderValue::get_PrivateHeaders method. Gets the collection of fieldnames in the ''private'' directive in the ''Cache-Control'' header in C++.'
 type: docs
-weight: 2400
+weight: 1500
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_privateheaders/
 ---
 ## CacheControlHeaderValue::get_PrivateHeaders method

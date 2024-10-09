@@ -4,7 +4,7 @@ linktitle: WriteEntityRef
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlWriter::WriteEntityRef method. When overridden in a derived class, writes out an entity reference as &name; in C++.'
 type: docs
-weight: 1700
+weight: 2200
 url: /cpp/system.xml/xmlwriter/writeentityref/
 ---
 ## XmlWriter::WriteEntityRef method

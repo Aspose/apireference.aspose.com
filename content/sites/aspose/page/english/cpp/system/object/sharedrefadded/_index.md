@@ -4,7 +4,7 @@ linktitle: SharedRefAdded
 second_title: Aspose.Page for C++
 description: 'System::Object::SharedRefAdded method. Increments shared reference count. Shouldn''t be called directly; instead, use smart pointers or ThisProtector in C++.'
 type: docs
-weight: 400
+weight: 1600
 url: /cpp/system/object/sharedrefadded/
 ---
 ## Object::SharedRefAdded method

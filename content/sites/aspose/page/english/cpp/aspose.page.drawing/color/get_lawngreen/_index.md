@@ -4,7 +4,7 @@ linktitle: get_LawnGreen
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::get_LawnGreen method. Gets a system-defined color that has an ARGB value of #FF7CFC00 in C++.'
 type: docs
-weight: 6300
+weight: 6400
 url: /cpp/aspose.page.drawing/color/get_lawngreen/
 ---
 ## Color::get_LawnGreen method

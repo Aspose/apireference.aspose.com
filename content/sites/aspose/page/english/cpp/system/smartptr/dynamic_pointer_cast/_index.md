@@ -4,7 +4,7 @@ linktitle: dynamic_pointer_cast
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::dynamic_pointer_cast method. Casts pointer to different type using dynamic_cast on pointed object in C++.'
 type: docs
-weight: 2100
+weight: 800
 url: /cpp/system/smartptr/dynamic_pointer_cast/
 ---
 ## SmartPtr::dynamic_pointer_cast method

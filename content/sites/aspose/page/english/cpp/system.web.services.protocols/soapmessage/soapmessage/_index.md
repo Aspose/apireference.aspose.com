@@ -4,7 +4,7 @@ linktitle: SoapMessage
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::SoapMessage::SoapMessage constructor. Constructs a new instance in C++.'
 type: docs
-weight: 1800
+weight: 100
 url: /cpp/system.web.services.protocols/soapmessage/soapmessage/
 ---
 ## SoapMessage::SoapMessage constructor

@@ -4,7 +4,7 @@ linktitle: ValidationEventHandler
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::ValidationEventHandler typedef. Represents the callback method that will handle XML schema validation events and the ValidationEventArgs in C++.'
 type: docs
-weight: 8400
+weight: 8300
 url: /cpp/system.xml.schema/validationeventhandler/
 ---
 ## ValidationEventHandler typedef

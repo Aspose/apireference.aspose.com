@@ -4,7 +4,7 @@ linktitle: XPathNamespaceScope
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNamespaceScope enum. Defines the namespace scope in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system.xml.xpath/xpathnamespacescope/
 ---
 ## XPathNamespaceScope enum

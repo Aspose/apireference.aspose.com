@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.Page for C++
 description: 'System::IO::BinaryWriter::Dispose method. Releases all resources used by the current object and closes the undelying stream in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/system.io/binarywriter/dispose/
 ---
 ## BinaryWriter::Dispose method

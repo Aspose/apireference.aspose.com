@@ -4,7 +4,7 @@ linktitle: get_UserAgent
 second_title: Aspose.Page for C++
 description: 'System::Web::Services::Protocols::HttpWebClientProtocol::get_UserAgent method. Gets a value of the ''User-Agent'' header in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_useragent/
 ---
 ## HttpWebClientProtocol::get_UserAgent method

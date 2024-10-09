@@ -4,7 +4,7 @@ linktitle: ReadSubtree
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathNavigator::ReadSubtree method. Returns an XmlReader object that contains the current node and its child nodes in C++.'
 type: docs
-weight: 3600
+weight: 6800
 url: /cpp/system.xml.xpath/xpathnavigator/readsubtree/
 ---
 ## XPathNavigator::ReadSubtree method

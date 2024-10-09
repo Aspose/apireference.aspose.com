@@ -4,7 +4,7 @@ linktitle: set_CustomStartCap
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Pen::set_CustomStartCap method. Sets the custom start line cap in C++.'
 type: docs
-weight: 2600
+weight: 2800
 url: /cpp/system.drawing/pen/set_customstartcap/
 ---
 ## Pen::set_CustomStartCap method

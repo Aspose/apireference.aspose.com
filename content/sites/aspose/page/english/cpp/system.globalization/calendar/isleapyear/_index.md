@@ -4,7 +4,7 @@ linktitle: IsLeapYear
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::IsLeapYear method. Checks if the year is leap in C++.'
 type: docs
-weight: 3200
+weight: 3600
 url: /cpp/system.globalization/calendar/isleapyear/
 ---
 ## Calendar::IsLeapYear(int) const method

@@ -4,7 +4,7 @@ linktitle: set_CurrentUICulture
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::set_CurrentUICulture method. Sets current thread''s UI culture in C++.'
 type: docs
-weight: 4000
+weight: 4700
 url: /cpp/system.globalization/cultureinfo/set_currentuiculture/
 ---
 ## CultureInfo::set_CurrentUICulture method

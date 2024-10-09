@@ -4,7 +4,7 @@ linktitle: AddMilliseconds
 second_title: Aspose.Page for C++
 description: 'System::Globalization::Calendar::AddMilliseconds method. Adds milliseconds to time point in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/system.globalization/calendar/addmilliseconds/
 ---
 ## Calendar::AddMilliseconds method

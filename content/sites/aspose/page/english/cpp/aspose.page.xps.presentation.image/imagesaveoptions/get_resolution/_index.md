@@ -4,7 +4,7 @@ linktitle: get_Resolution
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Image::ImageSaveOptions::get_Resolution method. Gets/sets the image resolution in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.page.xps.presentation.image/imagesaveoptions/get_resolution/
 ---
 ## ImageSaveOptions::get_Resolution method

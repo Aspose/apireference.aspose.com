@@ -4,7 +4,7 @@ linktitle: set_ProcessContents
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaAnyAttribute::set_ProcessContents method. Sets information about how an application or XML processor should handle the validation of XML documents for the attributes specified by the anyAttribute element in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.xml.schema/xmlschemaanyattribute/set_processcontents/
 ---
 ## XmlSchemaAnyAttribute::set_ProcessContents method

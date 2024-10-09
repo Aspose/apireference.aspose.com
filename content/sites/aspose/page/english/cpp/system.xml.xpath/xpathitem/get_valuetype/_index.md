@@ -4,7 +4,7 @@ linktitle: get_ValueType
 second_title: Aspose.Page for C++
 description: 'System::Xml::XPath::XPathItem::get_ValueType method. When overridden in a derived class, gets the type of the item in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/system.xml.xpath/xpathitem/get_valuetype/
 ---
 ## XPathItem::get_ValueType method

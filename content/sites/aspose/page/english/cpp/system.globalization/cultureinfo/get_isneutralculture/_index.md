@@ -4,7 +4,7 @@ linktitle: get_IsNeutralCulture
 second_title: Aspose.Page for C++
 description: 'System::Globalization::CultureInfo::get_IsNeutralCulture method. Checks whether the culture is neutral in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/system.globalization/cultureinfo/get_isneutralculture/
 ---
 ## CultureInfo::get_IsNeutralCulture method

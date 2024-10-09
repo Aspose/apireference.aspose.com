@@ -4,7 +4,7 @@ linktitle: get_UrlRetrievalTimeout
 second_title: Aspose.Page for C++
 description: 'How to use get_UrlRetrievalTimeout method of System::Security::Cryptography::X509Certificates::X509ChainPolicy class in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/get_urlretrievaltimeout/
 ---
 ## X509ChainPolicy::get_UrlRetrievalTimeout method

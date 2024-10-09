@@ -4,7 +4,7 @@ linktitle: get_SaddleBrown
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Color::get_SaddleBrown method. Returns a color whose ARGB value in hexadecimal notation is #FF8B4513 in C++.'
 type: docs
-weight: 13900
+weight: 13800
 url: /cpp/system.drawing/color/get_saddlebrown/
 ---
 ## Color::get_SaddleBrown method

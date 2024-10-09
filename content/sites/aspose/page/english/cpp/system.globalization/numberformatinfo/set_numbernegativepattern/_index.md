@@ -4,7 +4,7 @@ linktitle: set_NumberNegativePattern
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::set_NumberNegativePattern method. Sets number negative pattern in C++.'
 type: docs
-weight: 4100
+weight: 4900
 url: /cpp/system.globalization/numberformatinfo/set_numbernegativepattern/
 ---
 ## NumberFormatInfo::set_NumberNegativePattern method

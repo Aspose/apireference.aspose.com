@@ -4,7 +4,7 @@ linktitle: ToArgb
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Color::ToArgb method. Gets the 32-bit ARGB value of this T:Aspose::Page::Drawing::Color structure in C++.'
 type: docs
-weight: 15400
+weight: 15800
 url: /cpp/aspose.page.drawing/color/toargb/
 ---
 ## Color::ToArgb method

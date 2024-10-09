@@ -4,7 +4,7 @@ linktitle: get_Method
 second_title: Aspose.Page for C++
 description: 'System::Net::FileWebRequest::get_Method method. Gets the HTTP method in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/system.net/filewebrequest/get_method/
 ---
 ## FileWebRequest::get_Method method

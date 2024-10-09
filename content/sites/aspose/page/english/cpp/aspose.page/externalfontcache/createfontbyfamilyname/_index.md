@@ -4,7 +4,7 @@ linktitle: CreateFontByFamilyName
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::ExternalFontCache::CreateFontByFamilyName method. Fetches DrFont by font family name, size, style and font capitals in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page/externalfontcache/createfontbyfamilyname/
 ---
 ## ExternalFontCache::CreateFontByFamilyName method

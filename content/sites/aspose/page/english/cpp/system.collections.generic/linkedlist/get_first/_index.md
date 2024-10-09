@@ -4,7 +4,7 @@ linktitle: get_First
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::LinkedList::get_First method. Gets pointer to the first element in the list in C++.'
 type: docs
-weight: 200
+weight: 1900
 url: /cpp/system.collections.generic/linkedlist/get_first/
 ---
 ## LinkedList::get_First method

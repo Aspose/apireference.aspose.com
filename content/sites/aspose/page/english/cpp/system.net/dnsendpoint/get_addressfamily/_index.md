@@ -4,7 +4,7 @@ linktitle: get_AddressFamily
 second_title: Aspose.Page for C++
 description: 'System::Net::DnsEndPoint::get_AddressFamily method. RTTI information in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.net/dnsendpoint/get_addressfamily/
 ---
 ## DnsEndPoint::get_AddressFamily method

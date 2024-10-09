@@ -4,7 +4,7 @@ linktitle: ExceptionType
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::ExceptionType enum in C++.'
 type: docs
-weight: 5700
+weight: 4900
 url: /cpp/system.xml/exceptiontype/
 ---
 ## ExceptionType enum

@@ -4,7 +4,7 @@ linktitle: set_ConnectionGroupName
 second_title: Aspose.Page for C++
 description: 'System::Net::WebRequest::set_ConnectionGroupName method. Sets the name of the connection group in C++.'
 type: docs
-weight: 3200
+weight: 2900
 url: /cpp/system.net/webrequest/set_connectiongroupname/
 ---
 ## WebRequest::set_ConnectionGroupName method

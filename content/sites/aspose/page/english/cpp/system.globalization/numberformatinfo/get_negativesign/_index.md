@@ -4,7 +4,7 @@ linktitle: get_NegativeSign
 second_title: Aspose.Page for C++
 description: 'System::Globalization::NumberFormatInfo::get_NegativeSign method. Gets negative sign in C++.'
 type: docs
-weight: 1800
+weight: 1500
 url: /cpp/system.globalization/numberformatinfo/get_negativesign/
 ---
 ## NumberFormatInfo::get_NegativeSign method

@@ -4,7 +4,7 @@ linktitle: CloseAllFigures
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Drawing2D::GraphicsPath::CloseAllFigures method. Closes all open figures and starts a new one in C++.'
 type: docs
-weight: 2600
+weight: 1800
 url: /cpp/system.drawing.drawing2d/graphicspath/closeallfigures/
 ---
 ## GraphicsPath::CloseAllFigures method

@@ -4,7 +4,7 @@ linktitle: get_Address
 second_title: Aspose.Page for C++
 description: 'System::Net::Sockets::IPPacketInformation::get_Address method. Returns the address from which the package is received in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/system.net.sockets/ippacketinformation/get_address/
 ---
 ## IPPacketInformation::get_Address method

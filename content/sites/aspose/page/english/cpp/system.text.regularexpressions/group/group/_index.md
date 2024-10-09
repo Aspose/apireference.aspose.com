@@ -2,11 +2,25 @@
 title: System::Text::RegularExpressions::Group::Group constructor
 linktitle: Group
 second_title: Aspose.Page for C++
-description: 'System::Text::RegularExpressions::Group::Group constructor. Constructor in C++.'
+description: 'System::Text::RegularExpressions::Group::Group constructor. Constructor of empty group in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.text.regularexpressions/group/group/
 ---
+## Group::Group() constructor
+
+
+Constructor of empty group.
+
+```cpp
+System::Text::RegularExpressions::Group::Group()
+```
+
+## See Also
+
+* Class [Group](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Page for C++](../../../)
 ## Group::Group(const UStringPtr\&, int, int) constructor
 
 
@@ -26,20 +40,6 @@ System::Text::RegularExpressions::Group::Group(const UStringPtr &source, int ind
 ## See Also
 
 * Typedef [UStringPtr](../../ustringptr/)
-* Class [Group](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Page for C++](../../../)
-## Group::Group() constructor
-
-
-Constructor of empty group.
-
-```cpp
-System::Text::RegularExpressions::Group::Group()
-```
-
-## See Also
-
 * Class [Group](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Page for C++](../../../)

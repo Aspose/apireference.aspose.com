@@ -4,7 +4,7 @@ linktitle: GetWarningLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::WarningHeaderValue::GetWarningLength method. Converts a passed string from the specified index to an instance of the WarningHeaderValue class in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/system.net.http.headers/warningheadervalue/getwarninglength/
 ---
 ## WarningHeaderValue::GetWarningLength method

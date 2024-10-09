@@ -4,7 +4,7 @@ linktitle: OtherMetricInviteEnvelope
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize::PageMediaSizeOption::OtherMetricInviteEnvelope field. Other Metric Invite envelope in C++.'
 type: docs
-weight: 12200
+weight: 13900
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/pagemediasizeoption/othermetricinviteenvelope/
 ---
 ## OtherMetricInviteEnvelope field

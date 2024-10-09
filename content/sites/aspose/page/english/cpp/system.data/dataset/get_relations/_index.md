@@ -4,7 +4,7 @@ linktitle: get_Relations
 second_title: Aspose.Page for C++
 description: 'System::Data::DataSet::get_Relations method. Gets relations between tables in the data set in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.data/dataset/get_relations/
 ---
 ## DataSet::get_Relations method

@@ -4,7 +4,7 @@ linktitle: set_Namespaces
 second_title: Aspose.Page for C++
 description: 'System::Xml::Schema::XmlSchemaObject::set_Namespaces method. Sets the XmlSerializerNamespaces to use with this schema object in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/system.xml.schema/xmlschemaobject/set_namespaces/
 ---
 ## XmlSchemaObject::set_Namespaces method

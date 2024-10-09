@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ColorMatrix::idx_get method. Returns a value at the specified row and column in C++.'
 type: docs
-weight: 200
+weight: 2700
 url: /cpp/system.drawing.imaging/colormatrix/idx_get/
 ---
 ## ColorMatrix::idx_get method

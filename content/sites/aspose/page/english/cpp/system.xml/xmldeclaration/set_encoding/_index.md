@@ -4,7 +4,7 @@ linktitle: set_Encoding
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlDeclaration::set_Encoding method. Sets the encoding level of the XML document in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/system.xml/xmldeclaration/set_encoding/
 ---
 ## XmlDeclaration::set_Encoding method

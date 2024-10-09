@@ -4,7 +4,7 @@ linktitle: SubstringByTextElements
 second_title: Aspose.Page for C++
 description: 'System::Globalization::StringInfo::SubstringByTextElements method. Gets substring of text elements from the specified text element through the last text element in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/system.globalization/stringinfo/substringbytextelements/
 ---
 ## StringInfo::SubstringByTextElements(int) const method

@@ -4,7 +4,7 @@ linktitle: get_EnableDocumentFunction
 second_title: Aspose.Page for C++
 description: 'System::Xml::Xsl::XsltSettings::get_EnableDocumentFunction method. Returns a value indicating whether to enable support for the XSLT document() function in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system.xml.xsl/xsltsettings/get_enabledocumentfunction/
 ---
 ## XsltSettings::get_EnableDocumentFunction method

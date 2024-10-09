@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Object::Equals method. Compares objects using C# Object.Equals semantics in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/system/object/equals/
 ---
 ## Object::Equals(ptr) method
@@ -28,6 +28,54 @@ True if objects are considered equal and false otherwise.
 ## See Also
 
 * Typedef [ptr](../ptr/)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Object::Equals(double const\&, double const\&) method
+
+
+Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN.
+
+```cpp
+bool System::Object::Equals(double const &objA, double const &objB)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| objA | double const\& | LHS floating point value. |
+| objB | double const\& | RHS floating point value. |
+
+### ReturnValue
+
+True if **objA** and **objB** are both NaN or equal, false otherwise.
+
+## See Also
+
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Page for C++](../../../)
+## Object::Equals(float const\&, float const\&) method
+
+
+Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN.
+
+```cpp
+bool System::Object::Equals(float const &objA, float const &objB)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| objA | float const\& | LHS floating point value. |
+| objB | float const\& | RHS floating point value. |
+
+### ReturnValue
+
+True if **objA** and **objB** are both NaN or equal, false otherwise.
+
+## See Also
+
 * Class [Object](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -83,54 +131,6 @@ template<typename T1,typename T2> static std::enable_if<!IsSmartPtr<T1>::value &
 ### ReturnValue
 
 True if objects are considered equal by equality operator available, false otherwise.
-
-## See Also
-
-* Class [Object](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Object::Equals(float const\&, float const\&) method
-
-
-Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN.
-
-```cpp
-bool System::Object::Equals(float const &objA, float const &objB)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| objA | float const\& | LHS floating point value. |
-| objB | float const\& | RHS floating point value. |
-
-### ReturnValue
-
-True if **objA** and **objB** are both NaN or equal, false otherwise.
-
-## See Also
-
-* Class [Object](../)
-* Namespace [System](../../)
-* Library [Aspose.Page for C++](../../../)
-## Object::Equals(double const\&, double const\&) method
-
-
-Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN.
-
-```cpp
-bool System::Object::Equals(double const &objA, double const &objB)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| objA | double const\& | LHS floating point value. |
-| objB | double const\& | RHS floating point value. |
-
-### ReturnValue
-
-True if **objA** and **objB** are both NaN or equal, false otherwise.
 
 ## See Also
 

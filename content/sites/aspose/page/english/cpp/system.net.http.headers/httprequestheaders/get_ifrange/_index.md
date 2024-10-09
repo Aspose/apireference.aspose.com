@@ -4,7 +4,7 @@ linktitle: get_IfRange
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::HttpRequestHeaders::get_IfRange method. Gets a value of the ''If-Range'' header in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.net.http.headers/httprequestheaders/get_ifrange/
 ---
 ## HttpRequestHeaders::get_IfRange method

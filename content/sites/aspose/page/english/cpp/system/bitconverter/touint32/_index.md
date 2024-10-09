@@ -4,7 +4,7 @@ linktitle: ToUInt32
 second_title: Aspose.Page for C++
 description: 'System::BitConverter::ToUInt32 method. Converts four bytes from the specified array starting at the specified index to unsigned 32-bit integer value in C++.'
 type: docs
-weight: 900
+weight: 1400
 url: /cpp/system/bitconverter/touint32/
 ---
 ## BitConverter::ToUInt32(const System::ArrayPtr\<uint8_t\>\&, int) method

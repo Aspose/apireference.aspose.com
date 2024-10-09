@@ -4,7 +4,7 @@ linktitle: PdfDigitalSignatureHashAlgorithm
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm enum. Specifies digital hash algorithm used by digital signature in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/aspose.page.xps.presentation.pdf/pdfdigitalsignaturehashalgorithm/
 ---
 ## PdfDigitalSignatureHashAlgorithm enum

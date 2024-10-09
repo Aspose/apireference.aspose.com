@@ -4,7 +4,7 @@ linktitle: GetProductLength
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::Headers::ProductHeaderValue::GetProductLength method. Converts a passed string from the specified index to an instance of the ProductHeaderValue class in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/system.net.http.headers/productheadervalue/getproductlength/
 ---
 ## ProductHeaderValue::GetProductLength method

@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.Page for C++
 description: 'System::Windows::Forms::Control::ControlCollection::CopyTo method. Copies collection contents into existing array elements in C++.'
 type: docs
-weight: 2100
+weight: 700
 url: /cpp/system.windows.forms/control/controlcollection/copyto/
 ---
 ## ControlCollection::CopyTo method

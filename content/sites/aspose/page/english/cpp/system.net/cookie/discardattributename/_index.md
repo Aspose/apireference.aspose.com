@@ -4,7 +4,7 @@ linktitle: DiscardAttributeName
 second_title: Aspose.Page for C++
 description: 'System::Net::Cookie::DiscardAttributeName field. The ''Discard'' attribute''s name in C++.'
 type: docs
-weight: 4700
+weight: 4500
 url: /cpp/system.net/cookie/discardattributename/
 ---
 ## DiscardAttributeName field

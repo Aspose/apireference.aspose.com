@@ -4,7 +4,7 @@ linktitle: CreateCircle
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::DocumentUtils::CreateCircle method. Creates a path geometry representing a circle in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.page.xps/documentutils/createcircle/
 ---
 ## DocumentUtils::CreateCircle method

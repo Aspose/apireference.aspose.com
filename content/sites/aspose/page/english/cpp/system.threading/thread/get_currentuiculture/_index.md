@@ -4,7 +4,7 @@ linktitle: get_CurrentUICulture
 second_title: Aspose.Page for C++
 description: 'System::Threading::Thread::get_CurrentUICulture method. Gets user interface culture used by thread in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/system.threading/thread/get_currentuiculture/
 ---
 ## Thread::get_CurrentUICulture method

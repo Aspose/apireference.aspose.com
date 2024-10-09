@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.Page for C++
 description: 'System::IO::BasicSTDOStreamWrapper::operator= method. Copy assignment operator. Deleted in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.io/basicstdostreamwrapper/operator=/
 ---
 ## BasicSTDOStreamWrapper::operator= method

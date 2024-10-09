@@ -4,7 +4,7 @@ linktitle: set_MaxResponseContentBufferSize
 second_title: Aspose.Page for C++
 description: 'System::Net::Http::HttpClient::set_MaxResponseContentBufferSize method. Sets the maximum number of bytes of response content in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system.net.http/httpclient/set_maxresponsecontentbuffersize/
 ---
 ## HttpClient::set_MaxResponseContentBufferSize method

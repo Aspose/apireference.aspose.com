@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Rectangle::ToString method. Returns the string representation of the current object in C++.'
 type: docs
-weight: 2700
+weight: 2900
 url: /cpp/system.drawing/rectangle/tostring/
 ---
 ## Rectangle::ToString method

@@ -4,7 +4,7 @@ linktitle: AddTicks
 second_title: Aspose.Page for C++
 description: 'System::DateTimeOffset::AddTicks method. Adds a specified number of ticks to the DateTimeOffset object in C++.'
 type: docs
-weight: 2700
+weight: 900
 url: /cpp/system/datetimeoffset/addticks/
 ---
 ## DateTimeOffset::AddTicks method

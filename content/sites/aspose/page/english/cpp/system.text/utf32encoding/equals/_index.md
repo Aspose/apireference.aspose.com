@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Page for C++
 description: 'System::Text::UTF32Encoding::Equals method. Compares with object in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system.text/utf32encoding/equals/
 ---
 ## UTF32Encoding::Equals method

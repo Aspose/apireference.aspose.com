@@ -4,16 +4,16 @@ linktitle: operator->
 second_title: Aspose.Page for C++
 description: 'How to use operator-> method of System::ScopedCulture class in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/system/scopedculture/operator-_/
 ---
-## ScopedCulture::operator->() const method
+## ScopedCulture::operator->() method
 
 
 
 
 ```cpp
-const Globalization::CultureInfo * System::ScopedCulture::operator->() const
+Globalization::CultureInfo * System::ScopedCulture::operator->()
 ```
 
 ## See Also
@@ -22,13 +22,13 @@ const Globalization::CultureInfo * System::ScopedCulture::operator->() const
 * Class [ScopedCulture](../)
 * Namespace [System](../../)
 * Library [Aspose.Page for C++](../../../)
-## ScopedCulture::operator->() method
+## ScopedCulture::operator->() const method
 
 
 
 
 ```cpp
-Globalization::CultureInfo * System::ScopedCulture::operator->()
+const Globalization::CultureInfo * System::ScopedCulture::operator->() const
 ```
 
 ## See Also

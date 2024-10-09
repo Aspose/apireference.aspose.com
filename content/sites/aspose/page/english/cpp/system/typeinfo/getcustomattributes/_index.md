@@ -4,7 +4,7 @@ linktitle: GetCustomAttributes
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::GetCustomAttributes method. Returns an array containing objects that represent all custom attributes applied to the type in C++.'
 type: docs
-weight: 4300
+weight: 3000
 url: /cpp/system/typeinfo/getcustomattributes/
 ---
 ## TypeInfo::GetCustomAttributes() const method

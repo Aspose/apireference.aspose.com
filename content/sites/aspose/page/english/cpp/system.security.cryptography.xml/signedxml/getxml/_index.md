@@ -4,7 +4,7 @@ linktitle: GetXml
 second_title: Aspose.Page for C++
 description: 'How to use GetXml method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/system.security.cryptography.xml/signedxml/getxml/
 ---
 ## SignedXml::GetXml method

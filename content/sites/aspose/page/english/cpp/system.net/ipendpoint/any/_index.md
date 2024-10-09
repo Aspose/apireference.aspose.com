@@ -4,7 +4,7 @@ linktitle: Any
 second_title: Aspose.Page for C++
 description: 'System::Net::IPEndPoint::Any field. The endpoint for any IPv4 address and any port in C++.'
 type: docs
-weight: 1500
+weight: 1200
 url: /cpp/system.net/ipendpoint/any/
 ---
 ## Any field

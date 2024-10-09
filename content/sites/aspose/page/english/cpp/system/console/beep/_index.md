@@ -4,7 +4,7 @@ linktitle: Beep
 second_title: Aspose.Page for C++
 description: 'System::Console::Beep method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system/console/beep/
 ---
 ## Console::Beep method

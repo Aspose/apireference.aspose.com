@@ -4,7 +4,7 @@ linktitle: get_Exif
 second_title: Aspose.Page for C++
 description: 'System::Drawing::Imaging::ImageFormat::get_Exif method. Returns a shared pointer to an ImageFormat object that represents the Exchangeable Image File (Exif) format in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/system.drawing.imaging/imageformat/get_exif/
 ---
 ## ImageFormat::get_Exif method

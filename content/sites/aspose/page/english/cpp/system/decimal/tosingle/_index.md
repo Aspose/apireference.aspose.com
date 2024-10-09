@@ -4,7 +4,7 @@ linktitle: ToSingle
 second_title: Aspose.Page for C++
 description: 'System::Decimal::ToSingle method. Converts the Decimal value to single precision floating-point number in C++.'
 type: docs
-weight: 5800
+weight: 5300
 url: /cpp/system/decimal/tosingle/
 ---
 ## Decimal::ToSingle method

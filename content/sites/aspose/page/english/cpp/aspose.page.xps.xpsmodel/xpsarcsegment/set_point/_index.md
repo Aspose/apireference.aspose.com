@@ -4,7 +4,7 @@ linktitle: set_Point
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArcSegment::set_Point method. Returns/sets the endpoint of the elliptical arc in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.page.xps.xpsmodel/xpsarcsegment/set_point/
 ---
 ## XpsArcSegment::set_Point method

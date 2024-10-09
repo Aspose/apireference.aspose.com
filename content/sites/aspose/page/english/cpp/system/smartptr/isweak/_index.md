@@ -4,7 +4,7 @@ linktitle: IsWeak
 second_title: Aspose.Page for C++
 description: 'System::SmartPtr::IsWeak method. Checks if pointer is in weak mode in C++.'
 type: docs
-weight: 1100
+weight: 2200
 url: /cpp/system/smartptr/isweak/
 ---
 ## SmartPtr::IsWeak method

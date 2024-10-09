@@ -4,7 +4,7 @@ linktitle: EscapeAsciiChar
 second_title: Aspose.Page for C++
 description: 'System::UriShim::EscapeAsciiChar method. Converts character to escaped hex form in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/system/urishim/escapeasciichar/
 ---
 ## UriShim::EscapeAsciiChar method

@@ -4,7 +4,7 @@ linktitle: WriteCData
 second_title: Aspose.Page for C++
 description: 'System::Xml::XmlTextWriter::WriteCData method. Writes out a ... block containing the specified text in C++.'
 type: docs
-weight: 2400
+weight: 2100
 url: /cpp/system.xml/xmltextwriter/writecdata/
 ---
 ## XmlTextWriter::WriteCData method

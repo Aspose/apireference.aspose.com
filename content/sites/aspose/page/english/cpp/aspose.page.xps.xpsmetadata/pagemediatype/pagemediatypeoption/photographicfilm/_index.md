@@ -4,7 +4,7 @@ linktitle: PhotographicFilm
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType::PageMediaTypeOption::PhotographicFilm field. Specifies film photographic media in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/pagemediatypeoption/photographicfilm/
 ---
 ## PhotographicFilm field

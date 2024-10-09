@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Page for C++
 description: 'System::Collections::IListImplRefType::Add method. Adds element to the end of list in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/system.collections/ilistimplreftype/add/
 ---
 ## IListImplRefType::Add method

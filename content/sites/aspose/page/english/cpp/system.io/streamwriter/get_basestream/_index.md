@@ -4,7 +4,7 @@ linktitle: get_BaseStream
 second_title: Aspose.Page for C++
 description: 'System::IO::StreamWriter::get_BaseStream method. Returns a shared pointer to an object that represents the underlying stream in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.io/streamwriter/get_basestream/
 ---
 ## StreamWriter::get_BaseStream method

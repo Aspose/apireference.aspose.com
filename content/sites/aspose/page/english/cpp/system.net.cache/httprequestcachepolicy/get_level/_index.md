@@ -4,7 +4,7 @@ linktitle: get_Level
 second_title: Aspose.Page for C++
 description: 'System::Net::Cache::HttpRequestCachePolicy::get_Level method. RTTI information in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/system.net.cache/httprequestcachepolicy/get_level/
 ---
 ## HttpRequestCachePolicy::get_Level method

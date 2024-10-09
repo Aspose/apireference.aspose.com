@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::ICollection::Remove method. Deletes element from collection in C++.'
 type: docs
-weight: 500
+weight: 1100
 url: /cpp/system.collections.generic/icollection/remove/
 ---
 ## ICollection::Remove method

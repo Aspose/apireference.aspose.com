@@ -4,7 +4,7 @@ linktitle: get_OutputTypes
 second_title: Aspose.Page for C++
 description: 'How to use get_OutputTypes method of System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.security.cryptography.xml/xmldsigenvelopedsignaturetransform/get_outputtypes/
 ---
 ## XmlDsigEnvelopedSignatureTransform::get_OutputTypes method

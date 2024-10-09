@@ -4,7 +4,7 @@ linktitle: InsertCanvas
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocument::InsertCanvas method. Inserts a new canvas to the active page at index  position in C++.'
 type: docs
-weight: 3600
+weight: 4200
 url: /cpp/aspose.page.xps/xpsdocument/insertcanvas/
 ---
 ## XpsDocument::InsertCanvas method

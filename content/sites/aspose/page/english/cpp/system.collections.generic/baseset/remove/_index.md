@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::BaseSet::Remove method. Removes element from set in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/system.collections.generic/baseset/remove/
 ---
 ## BaseSet::Remove method

@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::HashSet::BaseType typedef. Base type in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/system.collections.generic/hashset/basetype/
 ---
 ## BaseType typedef
