@@ -100,11 +100,11 @@ footer_about_disable = false
 [minify]
   disableCSS = false
   disableHTML = false
-  disableJS = false
+  disableJS = true
   disableJSON = false
   disableSVG = false
   disableXML = false
-  minifyOutput = false
+  minifyOutput = true
   [minify.tdewolff]
     [minify.tdewolff.css]
       decimals = -1
