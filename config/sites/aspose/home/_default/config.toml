@@ -98,13 +98,13 @@ footer_about_disable = false
 
 
 [minify]
-  disableCSS = false
-  disableHTML = false
+  disableCSS = true
+  disableHTML = true
   disableJS = true
-  disableJSON = false
-  disableSVG = false
-  disableXML = false
-  minifyOutput = true
+  disableJSON = true
+  disableSVG = true
+  disableXML = true
+  minifyOutput = false
   [minify.tdewolff]
     [minify.tdewolff.css]
       decimals = -1
