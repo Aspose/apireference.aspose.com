@@ -98,12 +98,12 @@ footer_about_disable = false
 
 
 [minify]
-  disableCSS = true
-  disableHTML = true
-  disableJS = true
-  disableJSON = true
-  disableSVG = true
-  disableXML = true
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
   minifyOutput = false
   [minify.tdewolff]
     [minify.tdewolff.css]
