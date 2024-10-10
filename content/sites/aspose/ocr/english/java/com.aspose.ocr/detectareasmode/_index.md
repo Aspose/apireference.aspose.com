@@ -3,7 +3,7 @@ title: DetectAreasMode
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 37
+weight: 36
 url: /java/com.aspose.ocr/detectareasmode/
 ---
 
@@ -16,42 +16,15 @@ public enum DetectAreasMode extends Enum<DetectAreasMode>
 
 | Field | Description |
 | --- | --- |
-| [NONE](#NONE) | Doesn't detect paragraphs. |
-| [DOCUMENT](#DOCUMENT) | Detects paragraphs uses NN model for documents. |
-| [PHOTO](#PHOTO) | Detects paragraphs uses NN model for photos. |
 | [COMBINE](#COMBINE) | Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs. |
-| [TABLE](#TABLE) | Detects cells with text. |
 | [CURVED_TEXT](#CURVED-TEXT) | Detects lines and recognizes text on curved images. |
+| [DOCUMENT](#DOCUMENT) | Detects paragraphs uses NN model for documents. |
+| [NONE](#NONE) | Doesn't detect paragraphs. |
+| [PHOTO](#PHOTO) | Detects paragraphs uses NN model for photos. |
+| [TABLE](#TABLE) | Detects cells with text. |
 | [TEXT_IN_WILD](#TEXT-IN-WILD) | A super-powerful neural network specialized in extracting words from low-quality images such as street photos, license plates, passport photos, meter photos, and photos with noisy backgrounds. |
 ## Methods
 
-| Method | Description |
-| --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-### NONE {#NONE}
-```
-public static final DetectAreasMode NONE
-```
-
-
-Doesn't detect paragraphs. Better for a simple one-column document without pictures.
-
-### DOCUMENT {#DOCUMENT}
-```
-public static final DetectAreasMode DOCUMENT
-```
-
-
-Detects paragraphs uses NN model for documents. Better for multicolumn document, document with pictures or with other not text objects.
-
-### PHOTO {#PHOTO}
-```
-public static final DetectAreasMode PHOTO
-```
-
-
-Detects paragraphs uses NN model for photos. Better for image with a lot of pictures and other not text objects.
 
 ### COMBINE {#COMBINE}
 ```
@@ -61,14 +34,6 @@ public static final DetectAreasMode COMBINE
 
 Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs. Better for images with complex structure.
 
-### TABLE {#TABLE}
-```
-public static final DetectAreasMode TABLE
-```
-
-
-Detects cells with text. Preferable mode for images with table structure.
-
 ### CURVED_TEXT {#CURVED-TEXT}
 ```
 public static final DetectAreasMode CURVED_TEXT
@@ -76,6 +41,38 @@ public static final DetectAreasMode CURVED_TEXT
 
 
 Detects lines and recognizes text on curved images. Preferred mode for photos of book and magazine pages.
+
+### DOCUMENT {#DOCUMENT}
+```
+public static final DetectAreasMode DOCUMENT
+```
+
+
+Detects paragraphs uses NN model for documents. Better for multicolumn document, document with pictures or with other not text objects.
+
+### NONE {#NONE}
+```
+public static final DetectAreasMode NONE
+```
+
+
+Doesn't detect paragraphs. Better for a simple one-column document without pictures.
+
+### PHOTO {#PHOTO}
+```
+public static final DetectAreasMode PHOTO
+```
+
+
+Detects paragraphs uses NN model for photos. Better for image with a lot of pictures and other not text objects.
+
+### TABLE {#TABLE}
+```
+public static final DetectAreasMode TABLE
+```
+
+
+Detects cells with text. Preferable mode for images with table structure.
 
 ### TEXT_IN_WILD {#TEXT-IN-WILD}
 ```
@@ -85,28 +82,4 @@ public static final DetectAreasMode TEXT_IN_WILD
 
 A super-powerful neural network specialized in extracting words from low-quality images such as street photos, license plates, passport photos, meter photos, and photos with noisy backgrounds.
 
-### values() {#values--}
-```
-public static DetectAreasMode[] values()
-```
 
-
-
-
-**Returns:**
-com.aspose.ocr.DetectAreasMode[]
-### valueOf(String name) {#valueOf-java.lang.String-}
-```
-public static DetectAreasMode valueOf(String name)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
-
-**Returns:**
-[DetectAreasMode](../../com.aspose.ocr/detectareasmode)

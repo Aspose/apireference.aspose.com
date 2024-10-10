@@ -1,9 +1,9 @@
 ---
 title: License
 second_title: Aspose.OCR for Java API Reference
-description: License class for set and check license.
+description: Provides methods to license the component
 type: docs
-weight: 22
+weight: 21
 url: /java/com.aspose.ocr/license/
 ---
 
@@ -13,64 +13,70 @@ java.lang.Object
 public class License
 ```
 
-License class for set and check license.
+Provides methods to license the component.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [License()](#License--) |  |
+| [License()](#License) | Initializes a new instance of this class. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setLicense(InputStream stream)](#setLicense-java.io.InputStream-) | Set license for library. |
-| [setLicense(FileInputStream stream)](#setLicense-java.io.FileInputStream-) | Set license for library. |
-| [setLicense(String filename)](#setLicense-java.lang.String-) | Set license for library. |
+
+| [setLicense(File licenseFile)](#setLicense-java.io.File) | Licenses the component. |
+| [setLicense(InputStream stream)](#setLicense-java.io.InputStream) | Licenses the component. |
+| [setLicense(String licenseFilePath)](#setLicense-java.lang.String) | Licenses the component. |
 | [isValid()](#isValid--) | Check license. |
-### License() {#License--}
+### License() {#License}
 ```
 public License()
 ```
 
 
-### setLicense(InputStream stream) {#setLicense-java.io.InputStream-}
+Initializes a new instance of this class.
+
+
+### setLicense(File licenseFile) {#setLicense-java.io.File}
+```
+public static void setLicense(File licenseFile)
+```
+
+
+Licenses the component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| licenseFile | java.io.File | representation of file pathname |
+
+### setLicense(InputStream stream) {#setLicense-java.io.InputStream}
 ```
 public static void setLicense(InputStream stream)
 ```
 
 
-Set license for library.
+Licenses the component.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | java.io.InputStream | InputStream with license. |
+| stream | java.io.InputStream | A stream that contains the license. |
 
-### setLicense(FileInputStream stream) {#setLicense-java.io.FileInputStream-}
+### setLicense(String licenseFilePath) {#setLicense-java.lang.String}
 ```
-public static void setLicense(FileInputStream stream)
+public static void setLicense(String licenseFilePath)
 ```
 
 
-Set license for library.
+Licenses the component.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | java.io.FileInputStream | FileInputStream with license. |
-
-### setLicense(String filename) {#setLicense-java.lang.String-}
-```
-public static void setLicense(String filename)
-```
+| licenseFilePath | java.lang.String | Can be a full or short file name Use an empty string to switch to evaluation mode. |
 
 
-Set license for library.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | java.lang.String | Path to xml file with license. |
 
 ### isValid() {#isValid--}
 ```

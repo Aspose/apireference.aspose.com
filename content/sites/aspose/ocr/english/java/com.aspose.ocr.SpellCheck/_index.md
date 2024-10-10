@@ -12,12 +12,11 @@ url: /java/com.aspose.ocr.spellcheck/
 
 | Class | Description |
 | --- | --- |
-| [NotInitializedException](../com.aspose.ocr.spellcheck/notinitializedexception) |  |
-| [SpellCheckError](../com.aspose.ocr.spellcheck/spellcheckerror) | Representing misspelled word with additional data. |
-| [SuggestedWord](../com.aspose.ocr.spellcheck/suggestedword) | Spelling suggestion returned from GetSpellCheckErrorList. |
+| [SpellCheckError](../com.aspose.ocr.spellcheck/spellcheckerror/) | Representing misspelled word with additional data. |
+| [SuggestedWord](../com.aspose.ocr.spellcheck/suggestedword/) | Spelling suggestion returned from GetSpellCheckErrorList. |
 
 ## Enumerations
 
 | Enum | Description |
 | --- | --- |
-| [SpellCheckLanguage](../com.aspose.ocr.spellcheck/spellchecklanguage) | Languages used for SpellCheck (existing dictionaries). |
+| [SpellCheckLanguage](../com.aspose.ocr.spellcheck/spellchecklanguage/) | Languages used for SpellCheck (existing dictionaries). |

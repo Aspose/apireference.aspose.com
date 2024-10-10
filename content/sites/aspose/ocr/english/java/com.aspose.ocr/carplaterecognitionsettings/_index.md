@@ -18,16 +18,16 @@ Settings for the car number recognition Contains elements that allow customizing
 
 | Constructor | Description |
 | --- | --- |
-| [CarPlateRecognitionSettings()](#CarPlateRecognitionSettings--) | Default constructor: set autoSkew true. |
+| [CarPlateRecognitionSettings()](#CarPlateRecognitionSettings) | Default constructor: set autoSkew true. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setLanguage(Language language)](#setLanguage-com.aspose.ocr.Language-) |  |
-| [setIgnoredCharacters(String characters)](#setIgnoredCharacters-java.lang.String-) | Sets blacklist for recognition symbols. |
-| [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType-) | Allowed characters set. |
-| [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean-) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
-### CarPlateRecognitionSettings() {#CarPlateRecognitionSettings--}
+| [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType) | Allowed characters set. |
+| [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
+| [setIgnoredCharacters(String characters)](#setIgnoredCharacters-java.lang.String) | Sets blacklist for recognition symbols. |
+| [setLanguage(Language language)](#setLanguage-com.aspose.ocr.Language) |  |
+### CarPlateRecognitionSettings() {#CarPlateRecognitionSettings}
 ```
 public CarPlateRecognitionSettings()
 ```
@@ -35,20 +35,37 @@ public CarPlateRecognitionSettings()
 
 Default constructor: set autoSkew true.
 
-### setLanguage(Language language) {#setLanguage-com.aspose.ocr.Language-}
+
+
+
+
+### setAllowedCharacters(CharactersAllowedType allowedCharacters) {#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType}
 ```
-public void setLanguage(Language language)
+public void setAllowedCharacters(CharactersAllowedType allowedCharacters)
 ```
 
 
-
+Allowed characters set. Determines the type of characters allowed for recognition result.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| language | [Language](../../com.aspose.ocr/language) | Sets the language used for OCR. Multi-language (none) by default. |
+| allowedCharacters | [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype/) | contains enum @see [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype/) value. |
 
-### setIgnoredCharacters(String characters) {#setIgnoredCharacters-java.lang.String-}
+### setAutomaticColorInversion(boolean automaticColorInversion) {#setAutomaticColorInversion-boolean}
+```
+public void setAutomaticColorInversion(boolean automaticColorInversion)
+```
+
+
+Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. |
+
+### setIgnoredCharacters(String characters) {#setIgnoredCharacters-java.lang.String}
 ```
 public void setIgnoredCharacters(String characters)
 ```
@@ -61,29 +78,16 @@ Sets blacklist for recognition symbols.
 | --- | --- | --- |
 | characters | java.lang.String | Characters excluded from recognition. |
 
-### setAllowedCharacters(CharactersAllowedType allowedCharacters) {#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType-}
+### setLanguage(Language language) {#setLanguage-com.aspose.ocr.Language}
 ```
-public void setAllowedCharacters(CharactersAllowedType allowedCharacters)
+public void setLanguage(Language language)
 ```
 
 
-Allowed characters set. Determines the type of characters allowed for recognition result.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| allowedCharacters | [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype) | contains enum @see [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype) value. |
-
-### setAutomaticColorInversion(boolean automaticColorInversion) {#setAutomaticColorInversion-boolean-}
-```
-public void setAutomaticColorInversion(boolean automaticColorInversion)
-```
-
-
-Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. |
+| language | [Language](../../com.aspose.ocr/language/) | Sets the language used for OCR. Multi-language (none) by default. |
 

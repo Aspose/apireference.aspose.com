@@ -1,9 +1,9 @@
 ---
 title: Country
 second_title: Aspose.OCR for Java API Reference
-description: For better passport recognition point the passport country.
+description: For better passport recognition point the passport country
 type: docs
-weight: 35
+weight: 34
 url: /java/com.aspose.ocr/country/
 ---
 
@@ -18,22 +18,9 @@ For better passport recognition point the passport country.
 
 | Field | Description |
 | --- | --- |
-| [USA](#USA) | Extract key details from US passport image. |
 | [MADAGASCAR](#MADAGASCAR) | Extract key details from Malagasy passport image. |
 | [NONE](#NONE) | Do not parse the recognized text. |
-## Methods
-
-| Method | Description |
-| --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-### USA {#USA}
-```
-public static final Country USA
-```
-
-
-Extract key details from US passport image.
+| [USA](#USA) | Extract key details from US passport image. |
 
 ### MADAGASCAR {#MADAGASCAR}
 ```
@@ -51,28 +38,10 @@ public static final Country NONE
 
 Do not parse the recognized text.
 
-### values() {#values--}
+### USA {#USA}
 ```
-public static Country[] values()
-```
-
-
-
-
-**Returns:**
-com.aspose.ocr.Country[]
-### valueOf(String name) {#valueOf-java.lang.String-}
-```
-public static Country valueOf(String name)
+public static final Country USA
 ```
 
 
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
-
-**Returns:**
-[Country](../../com.aspose.ocr/country)
+Extract key details from US passport image.

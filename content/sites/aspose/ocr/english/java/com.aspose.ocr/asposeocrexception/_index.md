@@ -16,14 +16,14 @@ public class AsposeOCRException extends Exception
 
 | Constructor | Description |
 | --- | --- |
-| [AsposeOCRException(String message)](#AsposeOCRException-java.lang.String-) |  |
-| [AsposeOCRException(String message, Throwable cause)](#AsposeOCRException-java.lang.String-java.lang.Throwable-) |  |
+| [AsposeOCRException(String message)](#AsposeOCRException-java.lang.String) |  |
+| [AsposeOCRException(String message, Throwable cause)](#AsposeOCRException-java.lang.String-java.lang.Throwable) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getMessage()](#getMessage--) |  |
-### AsposeOCRException(String message) {#AsposeOCRException-java.lang.String-}
+### AsposeOCRException(String message) {#AsposeOCRException-java.lang.String}
 ```
 public AsposeOCRException(String message)
 ```
@@ -34,7 +34,7 @@ public AsposeOCRException(String message)
 | --- | --- | --- |
 | message | java.lang.String |  |
 
-### AsposeOCRException(String message, Throwable cause) {#AsposeOCRException-java.lang.String-java.lang.Throwable-}
+### AsposeOCRException(String message, Throwable cause) {#AsposeOCRException-java.lang.String-java.lang.Throwable}
 ```
 public AsposeOCRException(String message, Throwable cause)
 ```
@@ -45,7 +45,6 @@ public AsposeOCRException(String message, Throwable cause)
 | --- | --- | --- |
 | message | java.lang.String |  |
 | cause | java.lang.Throwable |  |
-
 ### getMessage() {#getMessage--}
 ```
 public String getMessage()
