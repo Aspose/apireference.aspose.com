@@ -1,7 +1,7 @@
 ---
 title: CharacterRecognitionResult
 second_title: Aspose.OCR for Java API Reference
-description: Pages with detected characters data.
+description: Pages with detected characters data
 type: docs
 weight: 14
 url: /java/com.aspose.ocr/characterrecognitionresult/
@@ -18,44 +18,22 @@ Pages with detected characters data.
 
 | Constructor | Description |
 | --- | --- |
-| [CharacterRecognitionResult()](#CharacterRecognitionResult--) |  |
+| [CharacterRecognitionResult()](#CharacterRecognitionResult) |  |
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Source](#Source) | The full path to the file or URL, if any. |
-| [Page](#Page) | Page number. |
-| [ImageIndex](#ImageIndex) | Sequence number of the image on the page. |
 | [Characters](#Characters) | Data about detected characters on the page. |
-### CharacterRecognitionResult() {#CharacterRecognitionResult--}
+| [ImageIndex](#ImageIndex) | Sequence number of the image on the page. |
+| [Page](#Page) | Page number. |
+| [Source](#Source) | The full path to the file or URL, if any. |
+
+
+### CharacterRecognitionResult() {#CharacterRecognitionResult}
 ```
 public CharacterRecognitionResult()
 ```
 
-
-### Source {#Source}
-```
-public String Source
-```
-
-
-The full path to the file or URL, if any. Empty for streams, byte arrays, base64.
-
-### Page {#Page}
-```
-public int Page
-```
-
-
-Page number.
-
-### ImageIndex {#ImageIndex}
-```
-public int ImageIndex
-```
-
-
-Sequence number of the image on the page.
 
 ### Characters {#Characters}
 ```
@@ -65,3 +43,26 @@ public ArrayList<Character> Characters
 
 Data about detected characters on the page.
 
+### ImageIndex {#ImageIndex}
+```
+public int ImageIndex
+```
+
+
+Sequence number of the image on the page.
+
+### Page {#Page}
+```
+public int Page
+```
+
+
+Page number.
+
+### Source {#Source}
+```
+public String Source
+```
+
+
+The full path to the file or URL, if any. Empty for streams, byte arrays, base64.

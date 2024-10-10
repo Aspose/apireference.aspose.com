@@ -1,41 +1,30 @@
 ---
-title: SpellCheckLanguage
+title: PdfOptimizationMode
 second_title: Aspose.OCR for Java API Reference
-description: Languages used for SpellCheck existing dictionaries
+description: Significantly reduce the PDF file size at the expense of lower image quality
 type: docs
-weight: 12
-url: /java/com.aspose.ocr.spellcheck/spellchecklanguage/
+weight: 42
+url: /java/com.aspose.ocr/pdfoptimizationmode/
 ---
 
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 ```
-public enum SpellCheckLanguage extends Enum<SpellCheck.SpellCheckLanguage>
+public enum PdfOptimizationMode extends Enum<PdfOptimizationMode>
 ```
 
-Languages used for SpellCheck (existing dictionaries).
+Significantly reduce the PDF file size at the expense of lower image quality.
+
+Specify the balance between file size and image quality of saved PDFs.
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Cze](#Cze) | Czech dictionary |
-| [Dan](#Dan) | Danish dictionary |
-| [Deu](#Deu) | German dictionary |
-| [Dum](#Dum) | Dutch dictionary |
-| [Eng](#Eng) | English dictionary |
-| [Est](#Est) | Estonian dictionary |
-| [Fin](#Fin) | Finnish dictionary |
-| [Fra](#Fra) | French dictionary |
-| [Ita](#Ita) | Italian dictionary |
-| [Lav](#Lav) | Latvian dictionary |
-| [Lit](#Lit) | Lithuanian dictionary |
-| [Pol](#Pol) | Polish dictionary |
-| [Por](#Por) | Portuguese dictionary |
-| [Rum](#Rum) | Romanian dictionary |
-| [Slk](#Slk) | Slovak dictionary |
-| [Slv](#Slv) | Slovene dictionary |
-| [Spa](#Spa) | Spanish dictionary |
-| [Swe](#Swe) | Swedish dictionary |
+| [AGGRESSIVE](#AGGRESSIVE) | Significantly reduce the PDF file size at the expense of lower image quality. |
+| [BALANCED](#BALANCED) | Downsample images to balance file size and image quality. |
+| [HIGH_QUALITY](#HIGH-QUALITY) | Smaller PDF file size at the expense of slight image downsampling. |
+| [MAXIMUM_QUALITY](#MAXIMUM-QUALITY) | Optimize file size while preserving the highest image quality. |
+| [NONE](#NONE) | Do not optimize PDF size. |
 ## Methods
 
 | Method | Description |
@@ -45,6 +34,7 @@ Languages used for SpellCheck (existing dictionaries).
 | [equals(Object arg0)](#equals-java.lang.Object) |  |
 | [getClass()](#getClass) |  |
 | [getDeclaringClass()](#getDeclaringClass) |  |
+| [getValue()](#getValue) |  |
 | [hashCode()](#hashCode) |  |
 | [name()](#name) |  |
 | [notify()](#notify) |  |
@@ -56,149 +46,45 @@ Languages used for SpellCheck (existing dictionaries).
 | [wait()](#wait) |  |
 | [wait(long arg0)](#wait-long) |  |
 | [wait(long arg0, int arg1)](#wait-long-int) |  |
-### Cze {#Cze}
+### AGGRESSIVE {#AGGRESSIVE}
 ```
-public static final SpellCheck.SpellCheckLanguage Cze
-```
-
-
-Czech dictionary
-
-### Dan {#Dan}
-```
-public static final SpellCheck.SpellCheckLanguage Dan
+public static final PdfOptimizationMode AGGRESSIVE
 ```
 
 
-Danish dictionary
+Significantly reduce the PDF file size at the expense of lower image quality.
 
-### Deu {#Deu}
+### BALANCED {#BALANCED}
 ```
-public static final SpellCheck.SpellCheckLanguage Deu
-```
-
-
-German dictionary
-
-### Dum {#Dum}
-```
-public static final SpellCheck.SpellCheckLanguage Dum
+public static final PdfOptimizationMode BALANCED
 ```
 
 
-Dutch dictionary
+Downsample images to balance file size and image quality.
 
-### Eng {#Eng}
+### HIGH_QUALITY {#HIGH-QUALITY}
 ```
-public static final SpellCheck.SpellCheckLanguage Eng
-```
-
-
-English dictionary
-
-### Est {#Est}
-```
-public static final SpellCheck.SpellCheckLanguage Est
+public static final PdfOptimizationMode HIGH_QUALITY
 ```
 
 
-Estonian dictionary
+Smaller PDF file size at the expense of slight image downsampling.
 
-### Fin {#Fin}
+### MAXIMUM_QUALITY {#MAXIMUM-QUALITY}
 ```
-public static final SpellCheck.SpellCheckLanguage Fin
-```
-
-
-Finnish dictionary
-
-### Fra {#Fra}
-```
-public static final SpellCheck.SpellCheckLanguage Fra
+public static final PdfOptimizationMode MAXIMUM_QUALITY
 ```
 
 
-French dictionary
+Optimize file size while preserving the highest image quality.
 
-### Ita {#Ita}
+### NONE {#NONE}
 ```
-public static final SpellCheck.SpellCheckLanguage Ita
-```
-
-
-Italian dictionary
-
-### Lav {#Lav}
-```
-public static final SpellCheck.SpellCheckLanguage Lav
+public static final PdfOptimizationMode NONE
 ```
 
 
-Latvian dictionary
-
-### Lit {#Lit}
-```
-public static final SpellCheck.SpellCheckLanguage Lit
-```
-
-
-Lithuanian dictionary
-
-### Pol {#Pol}
-```
-public static final SpellCheck.SpellCheckLanguage Pol
-```
-
-
-Polish dictionary
-
-### Por {#Por}
-```
-public static final SpellCheck.SpellCheckLanguage Por
-```
-
-
-Portuguese dictionary
-
-### Rum {#Rum}
-```
-public static final SpellCheck.SpellCheckLanguage Rum
-```
-
-
-Romanian dictionary
-
-### Slk {#Slk}
-```
-public static final SpellCheck.SpellCheckLanguage Slk
-```
-
-
-Slovak dictionary
-
-### Slv {#Slv}
-```
-public static final SpellCheck.SpellCheckLanguage Slv
-```
-
-
-Slovene dictionary
-
-### Spa {#Spa}
-```
-public static final SpellCheck.SpellCheckLanguage Spa
-```
-
-
-Spanish dictionary
-
-### Swe {#Swe}
-```
-public static final SpellCheck.SpellCheckLanguage Swe
-```
-
-
-Swedish dictionary
+Do not optimize PDF size.
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String}
 ```
@@ -266,6 +152,16 @@ public final Class<E> getDeclaringClass()
 
 **Returns:**
 java.lang.Class<E>
+### getValue() {#getValue}
+```
+public int getValue()
+```
+
+
+
+
+**Returns:**
+int
 ### hashCode() {#hashCode}
 ```
 public final int hashCode()
@@ -324,7 +220,7 @@ public String toString()
 java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String}
 ```
-public static SpellCheck.SpellCheckLanguage valueOf(String name)
+public static PdfOptimizationMode valueOf(String name)
 ```
 
 
@@ -336,17 +232,17 @@ public static SpellCheck.SpellCheckLanguage valueOf(String name)
 | name | java.lang.String |  |
 
 **Returns:**
-[SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage/)
+[PdfOptimizationMode](../../com.aspose.ocr/pdfoptimizationmode/)
 ### values() {#values}
 ```
-public static SpellCheck.SpellCheckLanguage[] values()
+public static PdfOptimizationMode[] values()
 ```
 
 
 
 
 **Returns:**
-com.aspose.ocr.SpellCheck.SpellCheckLanguage[]
+com.aspose.ocr.PdfOptimizationMode[]
 ### wait() {#wait}
 ```
 public final void wait()

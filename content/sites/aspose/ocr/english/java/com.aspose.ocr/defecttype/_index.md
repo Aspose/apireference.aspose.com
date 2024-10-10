@@ -1,9 +1,9 @@
 ---
 title: DefectType
 second_title: Aspose.OCR for Java API Reference
-description: The types of image defects.
+description: The types of image defects
 type: docs
-weight: 36
+weight: 35
 url: /java/com.aspose.ocr/defecttype/
 ---
 
@@ -18,32 +18,20 @@ The types of image defects.
 
 | Field | Description |
 | --- | --- |
-| [SALT_PEPPER_NOISE](#SALT-PEPPER-NOISE) | Random white and black pixels scattered across the area. |
-| [LOW_CONTRAST](#LOW-CONTRAST) | Highlights and shadows typically appearing on curved pages. |
+| [ALL](#ALL) | All supported image defects. |
 | [BLUR](#BLUR) | The image is out of focus. |
 | [GLARE](#GLARE) | Areas in an image caused by uneven lighting, such as spot lights or flash. |
-| [ALL](#ALL) | All supported image defects. |
-## Methods
+| [LOW_CONTRAST](#LOW-CONTRAST) | Highlights and shadows typically appearing on curved pages. |
+| [SALT_PEPPER_NOISE](#SALT-PEPPER-NOISE) | Random white and black pixels scattered across the area. |
 
-| Method | Description |
-| --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-### SALT_PEPPER_NOISE {#SALT-PEPPER-NOISE}
+
+### ALL {#ALL}
 ```
-public static final DefectType SALT_PEPPER_NOISE
+public static final DefectType ALL
 ```
 
 
-Random white and black pixels scattered across the area. Often occurs in digital photographs.
-
-### LOW_CONTRAST {#LOW-CONTRAST}
-```
-public static final DefectType LOW_CONTRAST
-```
-
-
-Highlights and shadows typically appearing on curved pages.
+All supported image defects.
 
 ### BLUR {#BLUR}
 ```
@@ -61,36 +49,21 @@ public static final DefectType GLARE
 
 Areas in an image caused by uneven lighting, such as spot lights or flash.
 
-### ALL {#ALL}
+### LOW_CONTRAST {#LOW-CONTRAST}
 ```
-public static final DefectType ALL
-```
-
-
-All supported image defects.
-
-### values() {#values--}
-```
-public static DefectType[] values()
+public static final DefectType LOW_CONTRAST
 ```
 
 
+Highlights and shadows typically appearing on curved pages.
 
-
-**Returns:**
-com.aspose.ocr.DefectType[]
-### valueOf(String name) {#valueOf-java.lang.String-}
+### SALT_PEPPER_NOISE {#SALT-PEPPER-NOISE}
 ```
-public static DefectType valueOf(String name)
+public static final DefectType SALT_PEPPER_NOISE
 ```
 
 
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
+Random white and black pixels scattered across the area. Often occurs in digital photographs.
 
 **Returns:**
 [DefectType](../../com.aspose.ocr/defecttype)

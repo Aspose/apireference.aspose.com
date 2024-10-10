@@ -10,6 +10,6 @@ is_root: true
 ## Packages
 | Package | Description |
 | --- | --- |
-| [com.aspose.ocr](./com.aspose.ocr) |  |
-| [com.aspose.ocr.SpellCheck](./com.aspose.ocr.spellcheck) |  |
-| [com.aspose.ocr.metered](./com.aspose.ocr.metered) |  |
+| [com.aspose.ocr](./com.aspose.ocr/) |  |
+| [com.aspose.ocr.SpellCheck](./com.aspose.ocr.spellcheck/) |  |
+| [com.aspose.ocr.metered](./com.aspose.ocr.metered/) |  |

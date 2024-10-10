@@ -12,4 +12,4 @@ url: /java/com.aspose.ocr.metered/
 
 | Class | Description |
 | --- | --- |
-| [Metered](../com.aspose.ocr.metered/metered) | Provides methods to set metered key. |
+| [Metered](../com.aspose.ocr.metered/metered/) | Provides methods to set metered key. |
