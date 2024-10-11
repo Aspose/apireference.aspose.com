@@ -17,7 +17,7 @@ Represents the strategy to shrink merged cells for operations such as deleting b
 
 | Field | Description |
 | --- | --- |
-| [KEEP_HEADER_ONLY](#KEEP-HEADER-ONLY) | Only keeps the header rows/columns of the merged area if needed. |
+| [KEEP_HEADER_ONLY](#KEEP-HEADER-ONLY) | Only keeps the header rows/columns of the merged area when the top-left cell of the merged area is not blank. |
 | [NONE](#NONE) | Leaves the merged cells as it is without any modification. |
 | [SHRINK_TO_FIT](#SHRINK-TO-FIT) | Shrinks the merged area if needed, by removing rows from the bottom or columns from the right, while ensuring all content remains visible. |
 ## Methods
@@ -39,7 +39,7 @@ public static final int KEEP_HEADER_ONLY
 ```
 
 
-Only keeps the header rows/columns of the merged area if needed.
+Only keeps the header rows/columns of the merged area when the top-left cell of the merged area is not blank.
 
 ### NONE {#NONE}
 ```
