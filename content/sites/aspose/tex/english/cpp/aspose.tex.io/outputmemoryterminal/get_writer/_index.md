@@ -4,7 +4,7 @@ linktitle: get_Writer
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputMemoryTerminal::get_Writer method. Gets the writer for the output terminal in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.tex.io/outputmemoryterminal/get_writer/
 ---
 ## OutputMemoryTerminal::get_Writer method

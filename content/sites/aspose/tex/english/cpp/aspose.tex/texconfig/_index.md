@@ -4,7 +4,7 @@ linktitle: TeXConfig
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXConfig class. Class providing available TeX configurations in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.tex/texconfig/
 ---
 ## TeXConfig class

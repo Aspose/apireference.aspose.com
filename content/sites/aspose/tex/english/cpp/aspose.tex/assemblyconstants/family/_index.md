@@ -4,7 +4,7 @@ linktitle: Family
 second_title: Aspose.TeX for C++
 description: 'How to use Family field of Aspose::TeX::AssemblyConstants class in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.tex/assemblyconstants/family/
 ---
 ## Family field

@@ -4,7 +4,7 @@ linktitle: System::Drawing
 second_title: Aspose.TeX for C++
 description: 'How to use System::Drawing namespace in C++.'
 type: docs
-weight: 2700
+weight: 2400
 url: /cpp/system.drawing/
 ---
 

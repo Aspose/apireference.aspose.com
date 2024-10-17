@@ -4,7 +4,7 @@ linktitle: get_Permissions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_Permissions method. Gets the permissions in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/get_permissions/
 ---
 ## PdfEncryptionDetails::get_Permissions method

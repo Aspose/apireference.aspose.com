@@ -4,7 +4,7 @@ linktitle: OutputMemoryTerminal
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputMemoryTerminal class. Provides a memory stream as a terminal output destination in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/aspose.tex.io/outputmemoryterminal/
 ---
 ## OutputMemoryTerminal class

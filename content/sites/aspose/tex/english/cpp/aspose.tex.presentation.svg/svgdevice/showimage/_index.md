@@ -4,7 +4,7 @@ linktitle: ShowImage
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::ShowImage method. Shows a raster image in C++.'
 type: docs
-weight: 2900
+weight: 2600
 url: /cpp/aspose.tex.presentation.svg/svgdevice/showimage/
 ---
 ## SvgDevice::ShowImage method

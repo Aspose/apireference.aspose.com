@@ -4,7 +4,7 @@ linktitle: get_NoLigatures
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::get_NoLigatures method. Gets/sets the flag that cancels ligatures in all fonts in C++.'
 type: docs
-weight: 2300
+weight: 800
 url: /cpp/aspose.tex/texoptions/get_noligatures/
 ---
 ## TeXOptions::get_NoLigatures method

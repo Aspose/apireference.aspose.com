@@ -4,7 +4,7 @@ linktitle: get_IgnoreMissingPackages
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::get_IgnoreMissingPackages method. Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/aspose.tex/texoptions/get_ignoremissingpackages/
 ---
 ## TeXOptions::get_IgnoreMissingPackages method

@@ -4,7 +4,7 @@ linktitle: set_HashAlgorithm
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_HashAlgorithm method. Hash algorithm in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/set_hashalgorithm/
 ---
 ## PdfDigitalSignatureDetails::set_HashAlgorithm method

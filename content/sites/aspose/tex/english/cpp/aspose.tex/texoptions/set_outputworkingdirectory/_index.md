@@ -4,7 +4,7 @@ linktitle: set_OutputWorkingDirectory
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_OutputWorkingDirectory method. Gets/sets output working directory in C++.'
 type: docs
-weight: 1000
+weight: 2300
 url: /cpp/aspose.tex/texoptions/set_outputworkingdirectory/
 ---
 ## TeXOptions::set_OutputWorkingDirectory method

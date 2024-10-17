@@ -32,9 +32,9 @@ template<typename Elem,typename Traits>class BasicSystemOStreamWrapper : public 
 | Typedef | Description |
 | --- | --- |
 | [char_type](./char_type/) |  |
-| [traits_type](./traits_type/) |  |
 | [Mybase](./mybase/) |  |
 | [Mysb](./mysb/) |  |
+| [traits_type](./traits_type/) |  |
 ## See Also
 
 * Namespace [System::IO](../)

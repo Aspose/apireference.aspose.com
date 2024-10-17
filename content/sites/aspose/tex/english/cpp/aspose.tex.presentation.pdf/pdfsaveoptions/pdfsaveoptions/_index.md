@@ -4,7 +4,7 @@ linktitle: PdfSaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfSaveOptions::PdfSaveOptions constructor. Creates new instance of options in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions::PdfSaveOptions constructor

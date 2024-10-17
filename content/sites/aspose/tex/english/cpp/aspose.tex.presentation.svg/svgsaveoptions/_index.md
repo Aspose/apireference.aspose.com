@@ -4,7 +4,7 @@ linktitle: SvgSaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgSaveOptions class. Class representing options of saving to SVG in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex.presentation.svg/svgsaveoptions/
 ---
 ## SvgSaveOptions class

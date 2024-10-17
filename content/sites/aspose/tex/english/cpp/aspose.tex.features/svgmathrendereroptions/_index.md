@@ -4,7 +4,7 @@ linktitle: SvgMathRendererOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::SvgMathRendererOptions class. Math formula SVG rendering options in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.tex.features/svgmathrendereroptions/
 ---
 ## SvgMathRendererOptions class

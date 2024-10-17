@@ -4,7 +4,7 @@ linktitle: get_IsReady
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::get_IsReady method. Shows if device is ready for output in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/get_isready/
 ---
 ## PdfDevice::get_IsReady method

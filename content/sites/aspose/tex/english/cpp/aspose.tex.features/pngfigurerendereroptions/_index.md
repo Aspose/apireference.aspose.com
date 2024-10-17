@@ -4,7 +4,7 @@ linktitle: PngFigureRendererOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::PngFigureRendererOptions class. Options for rendering a LaTeX source code fragment to PNG in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.tex.features/pngfigurerendereroptions/
 ---
 ## PngFigureRendererOptions class

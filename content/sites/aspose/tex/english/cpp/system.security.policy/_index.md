@@ -4,7 +4,7 @@ linktitle: System::Security::Policy
 second_title: Aspose.TeX for C++
 description: 'How to use System::Security::Policy namespace in C++.'
 type: docs
-weight: 5500
+weight: 5200
 url: /cpp/system.security.policy/
 ---
 

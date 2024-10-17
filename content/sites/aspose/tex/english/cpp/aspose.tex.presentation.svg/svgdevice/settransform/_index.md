@@ -4,7 +4,7 @@ linktitle: SetTransform
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::SetTransform method. Sets the current coordinate space transformation in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/aspose.tex.presentation.svg/svgdevice/settransform/
 ---
 ## SvgDevice::SetTransform method

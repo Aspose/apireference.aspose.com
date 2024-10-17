@@ -4,7 +4,7 @@ linktitle: AddHyperlink
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::AddHyperlink method. Sets the hyperlink with a URI as its target in C++.'
 type: docs
-weight: 2000
+weight: 200
 url: /cpp/aspose.tex.presentation/device/addhyperlink/
 ---
 ## Device::AddHyperlink method

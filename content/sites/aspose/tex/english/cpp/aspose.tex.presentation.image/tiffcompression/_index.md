@@ -4,7 +4,7 @@ linktitle: TiffCompression
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::TiffCompression enum. Enumerates TIFF compression schemes in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.tex.presentation.image/tiffcompression/
 ---
 ## TiffCompression enum

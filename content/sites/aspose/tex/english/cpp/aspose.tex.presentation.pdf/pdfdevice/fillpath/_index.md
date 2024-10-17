@@ -4,7 +4,7 @@ linktitle: FillPath
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::FillPath method. Fill a path in C++.'
 type: docs
-weight: 2800
+weight: 1100
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/fillpath/
 ---
 ## PdfDevice::FillPath method

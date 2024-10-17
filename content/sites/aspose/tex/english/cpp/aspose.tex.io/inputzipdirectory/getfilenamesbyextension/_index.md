@@ -4,7 +4,7 @@ linktitle: GetFileNamesByExtension
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::InputZipDirectory::GetFileNamesByExtension method. Returns the array of file names by an extension in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.tex.io/inputzipdirectory/getfilenamesbyextension/
 ---
 ## InputZipDirectory::GetFileNamesByExtension method

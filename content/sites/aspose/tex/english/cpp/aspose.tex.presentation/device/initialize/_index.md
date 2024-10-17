@@ -4,7 +4,7 @@ linktitle: Initialize
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::Initialize method. Initializes the device in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/aspose.tex.presentation/device/initialize/
 ---
 ## Device::Initialize method

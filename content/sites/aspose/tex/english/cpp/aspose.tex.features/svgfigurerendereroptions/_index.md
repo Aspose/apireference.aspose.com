@@ -4,7 +4,7 @@ linktitle: SvgFigureRendererOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::SvgFigureRendererOptions class. Options for rendering a LaTeX source code fragment to SVG in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/aspose.tex.features/svgfigurerendereroptions/
 ---
 ## SvgFigureRendererOptions class

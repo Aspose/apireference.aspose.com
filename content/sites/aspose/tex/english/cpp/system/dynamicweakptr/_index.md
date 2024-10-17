@@ -45,9 +45,9 @@ template<typename T,SmartPtrMode,unsigned int ...>class DynamicWeakPtr : public 
 
 | Typedef | Description |
 | --- | --- |
-| [SmartPtr_](./smartptr_/) | [SmartPtr](../smartptr/) baseclass alias. |
 | [DynamicWeakPtr_](./dynamicweakptr_/) | Self type alias. |
 | [Pointee_](./pointee_/) | Pointed type. |
+| [SmartPtr_](./smartptr_/) | [SmartPtr](../smartptr/) baseclass alias. |
 
 ## See Also
 

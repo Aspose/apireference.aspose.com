@@ -4,7 +4,7 @@ linktitle: PngMathRendererOptions
 second_title: Aspose.TeX for C++
 description: 'How to use PngMathRendererOptions constructor of Aspose::TeX::Features::PngMathRendererOptions class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.tex.features/pngmathrendereroptions/pngmathrendereroptions/
 ---
 ## PngMathRendererOptions::PngMathRendererOptions constructor

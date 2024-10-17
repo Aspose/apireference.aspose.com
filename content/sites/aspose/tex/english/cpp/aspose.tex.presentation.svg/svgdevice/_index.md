@@ -4,7 +4,7 @@ linktitle: SvgDevice
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice class. Implements the interface for outputting text and graphic content to PDF document in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.presentation.svg/svgdevice/
 ---
 ## SvgDevice class
@@ -36,13 +36,11 @@ class SvgDevice : public Aspose::TeX::Presentation::Device,
 | [get_DestinationName](./get_destinationname/)() override | Gets destination name: output file name or device description. |
 | [get_Fill](./get_fill/)() override | Gets/sets the current fill. |
 | [get_FillOpacity](./get_fillopacity/)() override | Gets/sets the current fill opacity. |
-| [get_InternalHyperlinksTargets](./get_internalhyperlinkstargets/)() override | Returns the map of internal hyperlink targets. |
 | [get_IsReady](./get_isready/)() override | Shows if device is ready for output. |
 | [get_PageCount](./get_pagecount/)() override | Gets the number of pages. |
 | [get_Stroke](./get_stroke/)() override | Gets/sets the current stroke. |
 | [get_StrokeOpacity](./get_strokeopacity/)() override | Gets/sets the current stroke opacity. |
 | [Initialize](./initialize/)() override | Initializes the device. |
-| [SaveInternalHyperlinkTarget](./saveinternalhyperlinktarget/)(int32_t, System::Drawing::RectangleF) override | Saves internal hyperlink target as a page number and a rectangular area on a page. |
 | [set_Fill](./set_fill/)(System::SharedPtr\<System::Drawing::Brush\>) override | Gets/sets the current fill. |
 | [set_FillOpacity](./set_fillopacity/)(float) override | Gets/sets the current fill opacity. |
 | [set_Stroke](./set_stroke/)(System::SharedPtr\<System::Drawing::Pen\>) override | Gets/sets the current stroke. |

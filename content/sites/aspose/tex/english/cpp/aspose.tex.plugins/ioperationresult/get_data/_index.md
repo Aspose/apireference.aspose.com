@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::IOperationResult::get_Data method. Gets raw data in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.tex.plugins/ioperationresult/get_data/
 ---
 ## IOperationResult::get_Data method

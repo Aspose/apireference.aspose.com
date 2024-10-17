@@ -4,7 +4,7 @@ linktitle: get_Data
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::MathRendererPluginResult::get_Data method. Gets raw data in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.tex.plugins/mathrendererpluginresult/get_data/
 ---
 ## MathRendererPluginResult::get_Data method

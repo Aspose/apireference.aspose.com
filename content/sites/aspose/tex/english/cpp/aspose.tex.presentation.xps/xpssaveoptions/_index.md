@@ -4,7 +4,7 @@ linktitle: XpsSaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsSaveOptions class. Class representing options of saving to XPS in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex.presentation.xps/xpssaveoptions/
 ---
 ## XpsSaveOptions class

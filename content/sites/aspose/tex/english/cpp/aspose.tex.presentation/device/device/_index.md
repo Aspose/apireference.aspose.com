@@ -4,7 +4,7 @@ linktitle: Device
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::Device constructor. Creates a new instance in C++.'
 type: docs
-weight: 1200
+weight: 100
 url: /cpp/aspose.tex.presentation/device/device/
 ---
 ## Device::Device constructor

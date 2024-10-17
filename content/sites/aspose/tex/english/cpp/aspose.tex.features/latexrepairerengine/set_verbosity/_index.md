@@ -4,7 +4,7 @@ linktitle: set_Verbosity
 second_title: Aspose.TeX for C++
 description: 'How to use set_Verbosity method of Aspose::TeX::Features::LaTeXRepairerEngine class in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.tex.features/latexrepairerengine/set_verbosity/
 ---
 ## LaTeXRepairerEngine::set_Verbosity method

@@ -4,7 +4,7 @@ linktitle: System::Resources
 second_title: Aspose.TeX for C++
 description: 'How to use System::Resources namespace in C++.'
 type: docs
-weight: 4400
+weight: 4100
 url: /cpp/system.resources/
 ---
 

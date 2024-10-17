@@ -4,7 +4,7 @@ linktitle: StartPage
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::StartPage method. Starts a new page in C++.'
 type: docs
-weight: 1900
+weight: 2700
 url: /cpp/aspose.tex.presentation.image/imagedevice/startpage/
 ---
 ## ImageDevice::StartPage method

@@ -4,7 +4,7 @@ linktitle: PngFigureRenderer
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::PngFigureRenderer class. Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as a PNG image in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.tex.features/pngfigurerenderer/
 ---
 ## PngFigureRenderer class

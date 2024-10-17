@@ -4,7 +4,7 @@ linktitle: set_Certificate
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Certificate method. Certificate to sign with in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/set_certificate/
 ---
 ## PdfDigitalSignatureDetails::set_Certificate method

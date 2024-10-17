@@ -4,7 +4,7 @@ linktitle: NondisposableMemoryStream
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::NondisposableMemoryStream class. The class that encapsulates a stream that cannot be disposed by calling the System::IDisposable::Dispose method, whether explicitly or implicitly in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.tex.io/nondisposablememorystream/
 ---
 ## NondisposableMemoryStream class

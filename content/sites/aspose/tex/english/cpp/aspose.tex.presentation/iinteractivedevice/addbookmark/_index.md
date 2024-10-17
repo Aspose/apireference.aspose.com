@@ -4,7 +4,7 @@ linktitle: AddBookmark
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::IInteractiveDevice::AddBookmark method. Adds the bookmark identified by the name in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.presentation/iinteractivedevice/addbookmark/
 ---
 ## IInteractiveDevice::AddBookmark method

@@ -4,7 +4,7 @@ linktitle: get_DataType
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::StringDataSource::get_DataType method. The data source type in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.tex.plugins/stringdatasource/get_datatype/
 ---
 ## StringDataSource::get_DataType method

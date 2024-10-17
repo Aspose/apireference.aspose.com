@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputFileSystemDirectory::Dispose method. Disposes the instance in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex.io/outputfilesystemdirectory/dispose/
 ---
 ## OutputFileSystemDirectory::Dispose method

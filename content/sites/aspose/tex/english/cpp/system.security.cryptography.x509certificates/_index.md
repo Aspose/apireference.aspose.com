@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography::X509Certificates
 second_title: Aspose.TeX for C++
 description: 'How to use System::Security::Cryptography::X509Certificates namespace in C++.'
 type: docs
-weight: 5200
+weight: 4900
 url: /cpp/system.security.cryptography.x509certificates/
 ---
 

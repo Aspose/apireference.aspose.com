@@ -4,7 +4,7 @@ linktitle: System::IO::Compression
 second_title: Aspose.TeX for C++
 description: 'How to use System::IO::Compression namespace in C++.'
 type: docs
-weight: 3400
+weight: 3100
 url: /cpp/system.io.compression/
 ---
 

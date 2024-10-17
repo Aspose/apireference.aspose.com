@@ -4,7 +4,7 @@ linktitle: EndPage
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::EndPage method. Finalizes a page in C++.'
 type: docs
-weight: 2000
+weight: 800
 url: /cpp/aspose.tex.presentation.image/imagedevice/endpage/
 ---
 ## ImageDevice::EndPage method

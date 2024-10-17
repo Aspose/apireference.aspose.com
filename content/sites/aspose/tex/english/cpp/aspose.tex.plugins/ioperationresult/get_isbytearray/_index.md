@@ -4,7 +4,7 @@ linktitle: get_IsByteArray
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::IOperationResult::get_IsByteArray method. Indicates whether the result is a byte array in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.tex.plugins/ioperationresult/get_isbytearray/
 ---
 ## IOperationResult::get_IsByteArray method

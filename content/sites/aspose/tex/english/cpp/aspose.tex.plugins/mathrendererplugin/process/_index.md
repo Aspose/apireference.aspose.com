@@ -4,7 +4,7 @@ linktitle: Process
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::MathRendererPlugin::Process method. Runs Math Renderer processing with the specified parameters in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.tex.plugins/mathrendererplugin/process/
 ---
 ## MathRendererPlugin::Process method

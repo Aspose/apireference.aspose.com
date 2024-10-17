@@ -4,7 +4,7 @@ linktitle: get_GuessPackageCallback
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::LaTeXRepairerOptions::get_GuessPackageCallback method. Gets/sets the callback to externally guess a required package by command name in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.tex.features/latexrepaireroptions/get_guesspackagecallback/
 ---
 ## LaTeXRepairerOptions::get_GuessPackageCallback method

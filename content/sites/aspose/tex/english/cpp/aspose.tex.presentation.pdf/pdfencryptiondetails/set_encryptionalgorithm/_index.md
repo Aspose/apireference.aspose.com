@@ -4,7 +4,7 @@ linktitle: set_EncryptionAlgorithm
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_EncryptionAlgorithm method. Sets the encryption mode in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/set_encryptionalgorithm/
 ---
 ## PdfEncryptionDetails::set_EncryptionAlgorithm method

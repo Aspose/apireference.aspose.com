@@ -4,7 +4,7 @@ linktitle: GetFile
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::InputFileSystemDirectory::GetFile method. Returns the stream to read from in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.tex.io/inputfilesystemdirectory/getfile/
 ---
 ## InputFileSystemDirectory::GetFile method

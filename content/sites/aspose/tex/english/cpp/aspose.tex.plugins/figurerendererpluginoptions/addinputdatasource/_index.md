@@ -4,7 +4,7 @@ linktitle: AddInputDataSource
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::FigureRendererPluginOptions::AddInputDataSource method. Adds a new data source to the collection in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.tex.plugins/figurerendererpluginoptions/addinputdatasource/
 ---
 ## FigureRendererPluginOptions::AddInputDataSource method

@@ -4,7 +4,7 @@ linktitle: set_FillOpacity
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::set_FillOpacity method. Gets/sets the current fill opacity in C++.'
 type: docs
-weight: 1100
+weight: 1900
 url: /cpp/aspose.tex.presentation/device/set_fillopacity/
 ---
 ## Device::set_FillOpacity method

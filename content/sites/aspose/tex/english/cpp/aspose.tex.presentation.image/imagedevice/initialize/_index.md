@@ -4,7 +4,7 @@ linktitle: Initialize
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::Initialize method. Initializes the device in C++.'
 type: docs
-weight: 1400
+weight: 1800
 url: /cpp/aspose.tex.presentation.image/imagedevice/initialize/
 ---
 ## ImageDevice::Initialize method

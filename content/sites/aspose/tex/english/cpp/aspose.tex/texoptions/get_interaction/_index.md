@@ -4,7 +4,7 @@ linktitle: get_Interaction
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::get_Interaction method. Gets/sets the interaction mode to run a TeX engine in in C++.'
 type: docs
-weight: 1300
+weight: 600
 url: /cpp/aspose.tex/texoptions/get_interaction/
 ---
 ## TeXOptions::get_Interaction method

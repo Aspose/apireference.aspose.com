@@ -4,7 +4,7 @@ linktitle: PngMathRendererPluginOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::PngMathRendererPluginOptions::PngMathRendererPluginOptions constructor. Creates a new instance in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.tex.plugins/pngmathrendererpluginoptions/pngmathrendererpluginoptions/
 ---
 ## PngMathRendererPluginOptions::PngMathRendererPluginOptions constructor

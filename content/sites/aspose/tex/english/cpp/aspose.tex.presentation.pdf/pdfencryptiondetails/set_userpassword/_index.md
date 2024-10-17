@@ -4,7 +4,7 @@ linktitle: set_UserPassword
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_UserPassword method. Sets the User password in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/set_userpassword/
 ---
 ## PdfEncryptionDetails::set_UserPassword method

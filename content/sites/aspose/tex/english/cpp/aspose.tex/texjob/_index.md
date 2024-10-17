@@ -4,7 +4,7 @@ linktitle: TeXJob
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXJob class. Implements features of a TeX job in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.tex/texjob/
 ---
 ## TeXJob class

@@ -4,7 +4,7 @@ linktitle: OutputConsoleTerminal
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputConsoleTerminal class. Provides the console as a terminal output destination in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.tex.io/outputconsoleterminal/
 ---
 ## OutputConsoleTerminal class

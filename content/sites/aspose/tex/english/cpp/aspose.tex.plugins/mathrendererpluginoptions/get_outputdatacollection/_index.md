@@ -4,7 +4,7 @@ linktitle: get_OutputDataCollection
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::MathRendererPluginOptions::get_OutputDataCollection method. Gets collection of added targets for saving operation results in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/get_outputdatacollection/
 ---
 ## MathRendererPluginOptions::get_OutputDataCollection method

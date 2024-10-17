@@ -4,7 +4,7 @@ linktitle: get_LogStream
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::get_LogStream method. Gets/set the stream to write log output to in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.tex.features/figurerendereroptions/get_logstream/
 ---
 ## FigureRendererOptions::get_LogStream method

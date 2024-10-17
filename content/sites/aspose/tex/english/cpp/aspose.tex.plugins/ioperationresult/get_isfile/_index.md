@@ -4,7 +4,7 @@ linktitle: get_IsFile
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::IOperationResult::get_IsFile method. Indicates whether the result is a file path in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.tex.plugins/ioperationresult/get_isfile/
 ---
 ## IOperationResult::get_IsFile method

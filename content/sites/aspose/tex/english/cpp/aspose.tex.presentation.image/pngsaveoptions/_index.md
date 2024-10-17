@@ -4,7 +4,7 @@ linktitle: PngSaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::PngSaveOptions class. Class representing options of saving to PNG image(s) in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.tex.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class

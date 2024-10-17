@@ -4,7 +4,7 @@ linktitle: EndFragment
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::IFragmentRasterizer::EndFragment method. Ends a fragment to rasterize in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.presentation/ifragmentrasterizer/endfragment/
 ---
 ## IFragmentRasterizer::EndFragment method

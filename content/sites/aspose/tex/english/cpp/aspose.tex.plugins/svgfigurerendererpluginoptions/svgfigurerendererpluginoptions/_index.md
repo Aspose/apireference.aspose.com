@@ -4,7 +4,7 @@ linktitle: SvgFigureRendererPluginOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::SvgFigureRendererPluginOptions::SvgFigureRendererPluginOptions constructor. Creates a new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.plugins/svgfigurerendererpluginoptions/svgfigurerendererpluginoptions/
 ---
 ## SvgFigureRendererPluginOptions::SvgFigureRendererPluginOptions constructor

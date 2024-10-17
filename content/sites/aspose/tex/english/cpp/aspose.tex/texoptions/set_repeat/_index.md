@@ -4,7 +4,7 @@ linktitle: set_Repeat
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_Repeat method. Gets/sets the flag that indicates whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). In general, this behavior is useful when the engine collects some data along the typesetting process and stores it in an auxilliary file, all at the first run. And at the second run, the engine somehow uses that data in C++.'
 type: docs
-weight: 2200
+weight: 2400
 url: /cpp/aspose.tex/texoptions/set_repeat/
 ---
 ## TeXOptions::set_Repeat method

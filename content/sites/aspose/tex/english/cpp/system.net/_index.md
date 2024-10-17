@@ -4,7 +4,7 @@ linktitle: System::Net
 second_title: Aspose.TeX for C++
 description: 'How to use System::Net namespace in C++.'
 type: docs
-weight: 3600
+weight: 3300
 url: /cpp/system.net/
 ---
 
@@ -72,6 +72,6 @@ url: /cpp/system.net/
 
 | Typedef | Description |
 | --- | --- |
-| [CookieException](./cookieexception/) |  |
 | [BindIPEndPoint](./bindipendpoint/) |  |
+| [CookieException](./cookieexception/) |  |
 | [WebException](./webexception/) |  |

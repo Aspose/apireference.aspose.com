@@ -4,7 +4,7 @@ linktitle: ProductType
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::ProductType enum. Which product of the license or black list : Aspose or Conholdate in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/aspose.tex/producttype/
 ---
 ## ProductType enum

@@ -4,7 +4,7 @@ linktitle: PdfDigitalSignatureDetails
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails class. Contains details for a PDF digital signature in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/
 ---
 ## PdfDigitalSignatureDetails class

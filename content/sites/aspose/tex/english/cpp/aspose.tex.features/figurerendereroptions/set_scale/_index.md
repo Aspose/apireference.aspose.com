@@ -4,7 +4,7 @@ linktitle: set_Scale
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::set_Scale method. Gets/set the scale. 1000 means 100%, 1200 means 120%, etc in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/aspose.tex.features/figurerendereroptions/set_scale/
 ---
 ## FigureRendererOptions::set_Scale method

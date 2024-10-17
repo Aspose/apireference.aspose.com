@@ -4,7 +4,7 @@ linktitle: FillPath
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::FillPath method. Fill a path in C++.'
 type: docs
-weight: 2600
+weight: 900
 url: /cpp/aspose.tex.presentation.image/imagedevice/fillpath/
 ---
 ## ImageDevice::FillPath method

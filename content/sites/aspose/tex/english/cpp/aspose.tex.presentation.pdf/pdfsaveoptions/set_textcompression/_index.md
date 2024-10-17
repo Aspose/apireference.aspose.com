@@ -4,7 +4,7 @@ linktitle: set_TextCompression
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_TextCompression method. Specifies at which level in the document outline to display ApsBookmark objects. 0 - not displayed. 1 at first level and so on. Default is 0 in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/set_textcompression/
 ---
 ## PdfSaveOptions::set_TextCompression method

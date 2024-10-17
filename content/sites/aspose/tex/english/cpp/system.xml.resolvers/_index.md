@@ -4,7 +4,7 @@ linktitle: System::Xml::Resolvers
 second_title: Aspose.TeX for C++
 description: 'How to use System::Xml::Resolvers namespace in C++.'
 type: docs
-weight: 6800
+weight: 6500
 url: /cpp/system.xml.resolvers/
 ---
 

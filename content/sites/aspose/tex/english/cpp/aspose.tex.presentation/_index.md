@@ -2,13 +2,13 @@
 title: Aspose::TeX::Presentation namespace
 linktitle: Aspose::TeX::Presentation
 second_title: Aspose.TeX for C++
-description: 'How to use Aspose::TeX::Presentation namespace in C++.'
+description: 'Aspose::TeX::Presentation namespace. The Aspose.TeX.Presentation namespace provides common classes for typesetting TeX files to other formats in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.tex.presentation/
 ---
 
-
+The **[Aspose.TeX.Presentation](./)** namespace provides common classes for typesetting [TeX](../aspose.tex/) files to other formats.
 
 ## Classes
 
@@ -19,5 +19,4 @@ url: /cpp/aspose.tex.presentation/
 | [IFragmentRasterizer](./ifragmentrasterizer/) | Interface that allows to rasterize [TeX](../aspose.tex/) fragments. |
 | [IInteractiveDevice](./iinteractivedevice/) | The interface defining interactive features processing methods. |
 | [IPageCropper](./ipagecropper/) |  |
-| [NamespaceDoc](./namespacedoc/) | The **[Aspose.TeX.Presentation](./)** namespace provides common classes for typesetting [TeX](../aspose.tex/) files to other formats. |
 | [SaveOptions](./saveoptions/) | Basic class for document saving options. |

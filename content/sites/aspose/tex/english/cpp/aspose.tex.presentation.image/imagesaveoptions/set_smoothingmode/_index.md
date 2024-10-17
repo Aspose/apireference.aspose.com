@@ -4,7 +4,7 @@ linktitle: set_SmoothingMode
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageSaveOptions::set_SmoothingMode method. Gets/sets the smoothing mode in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.tex.presentation.image/imagesaveoptions/set_smoothingmode/
 ---
 ## ImageSaveOptions::set_SmoothingMode method

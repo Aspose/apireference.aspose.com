@@ -4,7 +4,7 @@ linktitle: ShellMode
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::ShellMode enum. Enumerates values that determine the availability of \write18 in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.tex/shellmode/
 ---
 ## ShellMode enum

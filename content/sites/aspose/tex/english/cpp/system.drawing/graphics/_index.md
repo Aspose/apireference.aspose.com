@@ -215,8 +215,8 @@ class Graphics : public virtual System::Object
 
 | Typedef | Description |
 | --- | --- |
-| [EnumerateMetafileProc](./enumeratemetafileproc/) | The type of a callback fuction object used as an argument for EnumerateMetafile method. |
 | [DrawImageAbort](./drawimageabort/) | The type of a callback fuction object used as an argument for DrawImage method. |
+| [EnumerateMetafileProc](./enumeratemetafileproc/) | The type of a callback fuction object used as an argument for EnumerateMetafile method. |
 ## See Also
 
 * Class [Object](../../system/object/)

@@ -4,7 +4,7 @@ linktitle: Title
 second_title: Aspose.TeX for C++
 description: 'How to use Title field of Aspose::TeX::AssemblyConstants class in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.tex/assemblyconstants/title/
 ---
 ## Title field

@@ -4,7 +4,7 @@ linktitle: set_Fill
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::set_Fill method. Gets/sets the current fill in C++.'
 type: docs
-weight: 800
+weight: 2000
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/set_fill/
 ---
 ## PdfDevice::set_Fill method

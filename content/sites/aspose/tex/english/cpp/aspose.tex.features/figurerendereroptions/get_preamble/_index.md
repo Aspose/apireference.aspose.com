@@ -4,7 +4,7 @@ linktitle: get_Preamble
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::get_Preamble method. Gets/sets LaTeX document preamble in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.tex.features/figurerendereroptions/get_preamble/
 ---
 ## FigureRendererOptions::get_Preamble method

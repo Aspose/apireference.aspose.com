@@ -4,7 +4,7 @@ linktitle: get_Stroke
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::get_Stroke method. Gets/sets the current stroke in C++.'
 type: docs
-weight: 500
+weight: 1700
 url: /cpp/aspose.tex.presentation.svg/svgdevice/get_stroke/
 ---
 ## SvgDevice::get_Stroke method

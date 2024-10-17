@@ -4,7 +4,7 @@ linktitle: get_Fill
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::get_Fill method. Gets/sets the current fill in C++.'
 type: docs
-weight: 700
+weight: 1300
 url: /cpp/aspose.tex.presentation.svg/svgdevice/get_fill/
 ---
 ## SvgDevice::get_Fill method

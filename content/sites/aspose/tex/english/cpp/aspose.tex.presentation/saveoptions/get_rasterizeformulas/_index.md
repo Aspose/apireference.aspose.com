@@ -4,7 +4,7 @@ linktitle: get_RasterizeFormulas
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::SaveOptions::get_RasterizeFormulas method. Gets/sets the flag that allows to rasterize math formulas in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.tex.presentation/saveoptions/get_rasterizeformulas/
 ---
 ## SaveOptions::get_RasterizeFormulas method

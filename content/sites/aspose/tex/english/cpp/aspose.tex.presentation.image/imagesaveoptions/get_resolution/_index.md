@@ -4,7 +4,7 @@ linktitle: get_Resolution
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageSaveOptions::get_Resolution method. Gets/sets the array of numbers of pages to convert in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.tex.presentation.image/imagesaveoptions/get_resolution/
 ---
 ## ImageSaveOptions::get_Resolution method

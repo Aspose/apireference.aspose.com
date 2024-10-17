@@ -4,7 +4,7 @@ linktitle: set_TerminalOut
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_TerminalOut method. Gets/sets the output terminal writer in C++.'
 type: docs
-weight: 600
+weight: 2900
 url: /cpp/aspose.tex/texoptions/set_terminalout/
 ---
 ## TeXOptions::set_TerminalOut method

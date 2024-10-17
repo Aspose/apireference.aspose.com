@@ -4,7 +4,7 @@ linktitle: Initialize
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::Initialize method. Initializes the device in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/aspose.tex.presentation.svg/svgdevice/initialize/
 ---
 ## SvgDevice::Initialize method

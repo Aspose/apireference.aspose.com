@@ -4,7 +4,7 @@ linktitle: PdfCompliance
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfCompliance enum. Specifies the PDF compliance level to output file in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/aspose.tex.presentation.pdf/pdfcompliance/
 ---
 ## PdfCompliance enum

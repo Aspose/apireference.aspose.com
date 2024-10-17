@@ -4,7 +4,7 @@ linktitle: get_DestinationName
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::get_DestinationName method. Gets destination name: output file name or device description in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/aspose.tex.presentation/device/get_destinationname/
 ---
 ## Device::get_DestinationName method

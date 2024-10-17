@@ -4,7 +4,7 @@ linktitle: get_Fill
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::get_Fill method. Gets/sets the current fill in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/aspose.tex.presentation/device/get_fill/
 ---
 ## Device::get_Fill method

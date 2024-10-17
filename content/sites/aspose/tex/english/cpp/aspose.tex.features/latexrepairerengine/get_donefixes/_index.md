@@ -4,7 +4,7 @@ linktitle: get_DoneFixes
 second_title: Aspose.TeX for C++
 description: 'How to use get_DoneFixes method of Aspose::TeX::Features::LaTeXRepairerEngine class in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.tex.features/latexrepairerengine/get_donefixes/
 ---
 ## LaTeXRepairerEngine::get_DoneFixes method

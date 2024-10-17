@@ -4,7 +4,7 @@ linktitle: TiffSaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::TiffSaveOptions class. Class representing options of saving to TIFF image(s) in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.tex.presentation.image/tiffsaveoptions/
 ---
 ## TiffSaveOptions class

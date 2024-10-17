@@ -4,7 +4,7 @@ linktitle: set_StrokeOpacity
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::set_StrokeOpacity method. Gets/sets the current stroke opacity in C++.'
 type: docs
-weight: 900
+weight: 2100
 url: /cpp/aspose.tex.presentation/device/set_strokeopacity/
 ---
 ## Device::set_StrokeOpacity method

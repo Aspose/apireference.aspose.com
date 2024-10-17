@@ -4,7 +4,7 @@ linktitle: get_NaturalWidth
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::GlyphData::get_NaturalWidth method. Gets/sets glyph width defined by font in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.tex.presentation/glyphdata/get_naturalwidth/
 ---
 ## GlyphData::get_NaturalWidth method

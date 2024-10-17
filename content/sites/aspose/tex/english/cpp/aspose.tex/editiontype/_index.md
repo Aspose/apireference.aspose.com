@@ -4,7 +4,7 @@ linktitle: EditionType
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::EditionType enum. Specifies the edition type of the license in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/aspose.tex/editiontype/
 ---
 ## EditionType enum

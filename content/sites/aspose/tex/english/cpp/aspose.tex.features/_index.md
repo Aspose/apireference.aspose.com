@@ -2,13 +2,13 @@
 title: Aspose::TeX::Features namespace
 linktitle: Aspose::TeX::Features
 second_title: Aspose.TeX for C++
-description: 'How to use Aspose::TeX::Features namespace in C++.'
+description: 'Aspose::TeX::Features namespace. The Aspose.TeX.Features namespace provides additional TeX(LaTeX) features in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.tex.features/
 ---
 
-
+The **[Aspose.TeX.Features](./)** namespace provides additional TeX(LaTeX) features.
 
 ## Classes
 
@@ -23,7 +23,6 @@ url: /cpp/aspose.tex.features/
 | [LaTeXRepairerOptions](./latexrepaireroptions/) | The class to provide options to the LaTeX Repairer. |
 | [MathRenderer](./mathrenderer/) | Implements rendering of math formula. |
 | [MathRendererOptions](./mathrendereroptions/) | Math formula common rendering options. |
-| [NamespaceDoc](./namespacedoc/) | The **[Aspose.TeX.Features](./)** namespace provides additional TeX(LaTeX) features. |
 | [PngFigureRenderer](./pngfigurerenderer/) | Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as a PNG image. |
 | [PngFigureRendererOptions](./pngfigurerendereroptions/) | Options for rendering a LaTeX source code fragment to PNG. |
 | [PngMathRenderer](./pngmathrenderer/) | Implements rendering of math formula to PNG. |

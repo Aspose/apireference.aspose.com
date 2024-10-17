@@ -4,7 +4,7 @@ linktitle: get_InputDataCollection
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::MathRendererPluginOptions::get_InputDataCollection method. Gets the collection of data sources in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/get_inputdatacollection/
 ---
 ## MathRendererPluginOptions::get_InputDataCollection method

@@ -4,7 +4,7 @@ linktitle: FileVersion
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::BuildVersionInfo::FileVersion field. File Version in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex/buildversioninfo/fileversion/
 ---
 ## FileVersion field
