@@ -4,7 +4,7 @@ linktitle: PdfTextCompression
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfTextCompression enum. Specifies a type of compression applied to all contents in the PDF file except images in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.tex.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enum

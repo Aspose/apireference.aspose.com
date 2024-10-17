@@ -4,7 +4,7 @@ linktitle: get_Resolution
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::PngFigureRendererPluginOptions::get_Resolution method. Gets/sets the image resolution in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.tex.plugins/pngfigurerendererpluginoptions/get_resolution/
 ---
 ## PngFigureRendererPluginOptions::get_Resolution method

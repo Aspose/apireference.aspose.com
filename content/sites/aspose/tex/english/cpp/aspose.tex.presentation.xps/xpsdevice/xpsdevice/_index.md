@@ -4,7 +4,7 @@ linktitle: XpsDevice
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsDevice::XpsDevice constructor. Creates a new instance. The output file will be written to the output working directory taking the job name as a file name in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.tex.presentation.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice::XpsDevice() constructor

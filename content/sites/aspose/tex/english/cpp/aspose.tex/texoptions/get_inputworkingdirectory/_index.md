@@ -4,7 +4,7 @@ linktitle: get_InputWorkingDirectory
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::get_InputWorkingDirectory method. Gets/sets input working directory in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.tex/texoptions/get_inputworkingdirectory/
 ---
 ## TeXOptions::get_InputWorkingDirectory method

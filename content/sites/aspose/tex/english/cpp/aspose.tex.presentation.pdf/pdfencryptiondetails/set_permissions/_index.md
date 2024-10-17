@@ -4,7 +4,7 @@ linktitle: set_Permissions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_Permissions method. Sets the permissions in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/set_permissions/
 ---
 ## PdfEncryptionDetails::set_Permissions method

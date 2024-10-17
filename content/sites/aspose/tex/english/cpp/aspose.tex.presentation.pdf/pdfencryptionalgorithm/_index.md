@@ -4,7 +4,7 @@ linktitle: PdfEncryptionAlgorithm
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionAlgorithm enum. Encryption mode enum. Describe using algorithm and key length. This enum is extended in order to be able to further increase functionality. This enum implements "Base-to-Core" pattern in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enum

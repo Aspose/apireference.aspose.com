@@ -4,7 +4,7 @@ linktitle: LicenseState
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::LicenseState enum. Represents possible license states in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/aspose.tex/licensestate/
 ---
 ## LicenseState enum

@@ -4,7 +4,7 @@ linktitle: Aspose::TeX::Plugins
 second_title: Aspose.TeX for C++
 description: 'How to use Aspose::TeX::Plugins namespace in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.tex.plugins/
 ---
 

@@ -4,7 +4,7 @@ linktitle: TeXJobResult
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXJobResult enum. Lists possible results of a TeX job in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/aspose.tex/texjobresult/
 ---
 ## TeXJobResult enum

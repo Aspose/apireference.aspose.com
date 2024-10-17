@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsDevice::Create method. Creates a copy of this device in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/aspose.tex.presentation.xps/xpsdevice/create/
 ---
 ## XpsDevice::Create method

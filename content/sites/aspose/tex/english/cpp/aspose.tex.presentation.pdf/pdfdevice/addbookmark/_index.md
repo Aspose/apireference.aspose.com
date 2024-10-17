@@ -4,7 +4,7 @@ linktitle: AddBookmark
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::AddBookmark method. Adds the bookmark identified by the name in C++.'
 type: docs
-weight: 2200
+weight: 200
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/addbookmark/
 ---
 ## PdfDevice::AddBookmark method

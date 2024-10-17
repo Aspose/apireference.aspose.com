@@ -4,7 +4,7 @@ linktitle: SaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::SaveOptions class. Basic class for document saving options in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.tex.presentation/saveoptions/
 ---
 ## SaveOptions class

@@ -4,7 +4,7 @@ linktitle: AddOutputDataTarget
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::FigureRendererPluginOptions::AddOutputDataTarget method. Adds a new input data target to the collection in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.tex.plugins/figurerendererpluginoptions/addoutputdatatarget/
 ---
 ## FigureRendererPluginOptions::AddOutputDataTarget method

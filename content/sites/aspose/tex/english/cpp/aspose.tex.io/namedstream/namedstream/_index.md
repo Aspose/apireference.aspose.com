@@ -4,7 +4,7 @@ linktitle: NamedStream
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::NamedStream::NamedStream constructor. Creates a new instance in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.tex.io/namedstream/namedstream/
 ---
 ## NamedStream::NamedStream constructor

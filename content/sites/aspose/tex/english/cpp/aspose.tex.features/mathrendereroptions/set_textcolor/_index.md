@@ -4,7 +4,7 @@ linktitle: set_TextColor
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::MathRendererOptions::set_TextColor method. Gets/sets the formula text color in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.tex.features/mathrendereroptions/set_textcolor/
 ---
 ## MathRendererOptions::set_TextColor method

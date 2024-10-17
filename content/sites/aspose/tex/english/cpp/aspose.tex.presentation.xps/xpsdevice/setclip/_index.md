@@ -4,7 +4,7 @@ linktitle: SetClip
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsDevice::SetClip method. Sets the current clip path in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/aspose.tex.presentation.xps/xpsdevice/setclip/
 ---
 ## XpsDevice::SetClip method

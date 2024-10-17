@@ -4,7 +4,7 @@ linktitle: set_FillOpacity
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::set_FillOpacity method. Gets/sets the current fill opacity in C++.'
 type: docs
-weight: 1200
+weight: 2100
 url: /cpp/aspose.tex.presentation.svg/svgdevice/set_fillopacity/
 ---
 ## SvgDevice::set_FillOpacity method

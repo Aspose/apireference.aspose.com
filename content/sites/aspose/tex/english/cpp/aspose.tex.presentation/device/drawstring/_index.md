@@ -4,7 +4,7 @@ linktitle: DrawString
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::DrawString method. Draws a text string in C++.'
 type: docs
-weight: 2300
+weight: 600
 url: /cpp/aspose.tex.presentation/device/drawstring/
 ---
 ## Device::DrawString method

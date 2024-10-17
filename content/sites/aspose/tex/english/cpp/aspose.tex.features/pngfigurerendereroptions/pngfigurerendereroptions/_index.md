@@ -4,7 +4,7 @@ linktitle: PngFigureRendererOptions
 second_title: Aspose.TeX for C++
 description: 'How to use PngFigureRendererOptions constructor of Aspose::TeX::Features::PngFigureRendererOptions class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.tex.features/pngfigurerendereroptions/pngfigurerendereroptions/
 ---
 ## PngFigureRendererOptions::PngFigureRendererOptions constructor

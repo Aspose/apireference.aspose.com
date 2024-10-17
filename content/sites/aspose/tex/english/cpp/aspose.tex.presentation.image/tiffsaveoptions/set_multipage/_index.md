@@ -4,7 +4,7 @@ linktitle: set_Multipage
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::TiffSaveOptions::set_Multipage method. Gets/sets the flag that defines if multiple images should be saved in a single multipage TIFF file in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.tex.presentation.image/tiffsaveoptions/set_multipage/
 ---
 ## TiffSaveOptions::set_Multipage method

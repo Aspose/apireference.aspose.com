@@ -4,7 +4,7 @@ linktitle: SvgFigureRenderer
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::SvgFigureRenderer class. Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as an SVG file in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/aspose.tex.features/svgfigurerenderer/
 ---
 ## SvgFigureRenderer class

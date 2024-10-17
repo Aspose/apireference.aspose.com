@@ -4,7 +4,7 @@ linktitle: PngMathRendererOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::PngMathRendererOptions class. Math formula PNG rendering options in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/aspose.tex.features/pngmathrendereroptions/
 ---
 ## PngMathRendererOptions class

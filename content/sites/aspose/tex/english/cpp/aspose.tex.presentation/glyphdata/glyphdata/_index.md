@@ -4,7 +4,7 @@ linktitle: GlyphData
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::GlyphData::GlyphData constructor. Creates new instance in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.tex.presentation/glyphdata/glyphdata/
 ---
 ## GlyphData::GlyphData constructor

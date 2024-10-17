@@ -4,7 +4,7 @@ linktitle: PdfDevice
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice class. Implements the interface for outputting text and graphic content to PDF document in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
@@ -35,7 +35,6 @@ class PdfDevice : public Aspose::TeX::Presentation::Device,
 | [get_DestinationName](./get_destinationname/)() override | Gets destination name: output file name or device description. |
 | [get_Fill](./get_fill/)() override | Gets/sets the current fill. |
 | [get_FillOpacity](./get_fillopacity/)() override | Gets/sets the current fill opacity. |
-| [get_InternalHyperlinksTargets](./get_internalhyperlinkstargets/)() override | Returns the map of internal hyperlink targets. |
 | [get_IsReady](./get_isready/)() override | Shows if device is ready for output. |
 | [get_PageCount](./get_pagecount/)() override | Gets the number of pages. |
 | [get_Stroke](./get_stroke/)() override | Gets/sets the current stroke. |
@@ -43,7 +42,6 @@ class PdfDevice : public Aspose::TeX::Presentation::Device,
 | [Initialize](./initialize/)() override | Initializes the device. |
 | [PdfDevice](./pdfdevice/)() | Creates a new instance. The output file will be written to the output working directory taking the job name as a file name. |
 | [PdfDevice](./pdfdevice/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new instance. The output file will be written to specified stream. |
-| [SaveInternalHyperlinkTarget](./saveinternalhyperlinktarget/)(int32_t, System::Drawing::RectangleF) override | Saves internal hyperlink target as a page number and a rectangular area on a page. |
 | [set_Fill](./set_fill/)(System::SharedPtr\<System::Drawing::Brush\>) override | Gets/sets the current fill. |
 | [set_FillOpacity](./set_fillopacity/)(float) override | Gets/sets the current fill opacity. |
 | [set_Stroke](./set_stroke/)(System::SharedPtr\<System::Drawing::Pen\>) override | Gets/sets the current stroke. |

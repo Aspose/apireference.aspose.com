@@ -4,7 +4,7 @@ linktitle: get_Stream
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputMemoryTerminal::get_Stream method. Gets the memory stream in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.io/outputmemoryterminal/get_stream/
 ---
 ## OutputMemoryTerminal::get_Stream method

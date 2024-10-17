@@ -13,20 +13,17 @@ is_root: true
 
 | Namespace | Description |
 | --- | --- |
-| [Aspose::TeX](./aspose.tex/) |  |
-| [Aspose::TeX::CommandLine](./aspose.tex.commandline/) |  |
-| [Aspose::TeX::Exceptions](./aspose.tex.exceptions/) |  |
-| [Aspose::TeX::Features](./aspose.tex.features/) |  |
-| [Aspose::TeX::IO](./aspose.tex.io/) |  |
+| [Aspose::TeX](./aspose.tex/) | The **[Aspose.TeX](./aspose.tex/)** is a root namespace for all classes of the [Aspose.TeX](./aspose.tex/) library which are either directly contained within it, such as **[TeXJob](./aspose.tex/texjob/)**, or indirectly through several nested namespaces. |
+| [Aspose::TeX::CommandLine](./aspose.tex.commandline/) | The **[Aspose.TeX.CommandLine](./aspose.tex.commandline/)** namespace provides classes for handling Object [TeX](./aspose.tex/)'s **\write18** primitive. |
+| [Aspose::TeX::Features](./aspose.tex.features/) | The **[Aspose.TeX.Features](./aspose.tex.features/)** namespace provides additional TeX(LaTeX) features. |
+| [Aspose::TeX::IO](./aspose.tex.io/) | The **[Aspose.TeX.IO](./aspose.tex.io/)** namespace provides classes for I/O that [TeX](./aspose.tex/) engine performs. |
 | [Aspose::TeX::Plugins](./aspose.tex.plugins/) |  |
-| [Aspose::TeX::Presentation](./aspose.tex.presentation/) |  |
-| [Aspose::TeX::Presentation::Aps](./aspose.tex.presentation.aps/) |  |
-| [Aspose::TeX::Presentation::Image](./aspose.tex.presentation.image/) |  |
-| [Aspose::TeX::Presentation::Pdf](./aspose.tex.presentation.pdf/) |  |
-| [Aspose::TeX::Presentation::Svg](./aspose.tex.presentation.svg/) |  |
-| [Aspose::TeX::Presentation::Xps](./aspose.tex.presentation.xps/) |  |
-| [Aspose::TeX::Reading::Object](./aspose.tex.reading.object/) |  |
-| [Aspose::TeX::ResourceProviders](./aspose.tex.resourceproviders/) |  |
+| [Aspose::TeX::Presentation](./aspose.tex.presentation/) | The **[Aspose.TeX.Presentation](./aspose.tex.presentation/)** namespace provides common classes for typesetting [TeX](./aspose.tex/) files to other formats. |
+| [Aspose::TeX::Presentation::Image](./aspose.tex.presentation.image/) | The **[Aspose.TeX.Presentation.Image](./aspose.tex.presentation.image/)** namespace provides classes for typesetting [TeX](./aspose.tex/) files to images. |
+| [Aspose::TeX::Presentation::Pdf](./aspose.tex.presentation.pdf/) | The **[Aspose.TeX.Presentation.Pdf](./aspose.tex.presentation.pdf/)** namespace provides classes for typesetting [TeX](./aspose.tex/) files to PDF. |
+| [Aspose::TeX::Presentation::Svg](./aspose.tex.presentation.svg/) | The **[Aspose.TeX.Presentation.Svg](./aspose.tex.presentation.svg/)** namespace provides classes for typesetting [TeX](./aspose.tex/) files to SVG. |
+| [Aspose::TeX::Presentation::Xps](./aspose.tex.presentation.xps/) | The **[Aspose.TeX.Presentation.Xps](./aspose.tex.presentation.xps/)** namespace provides classes for typesetting [TeX](./aspose.tex/) files to XPS. |
+| [Aspose::TeX::ResourceProviders](./aspose.tex.resourceproviders/) | The **[Aspose.TeX.ResourceProviders](./aspose.tex.resourceproviders/)** namespace provides common classes for resource providers. |
 | [System](./system/) |  |
 | [System::Collections](./system.collections/) |  |
 | [System::Collections::Concurrent](./system.collections.concurrent/) |  |

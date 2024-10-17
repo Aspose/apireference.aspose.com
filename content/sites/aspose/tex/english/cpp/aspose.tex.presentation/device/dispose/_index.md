@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::Dispose method. Disposes the device in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/aspose.tex.presentation/device/dispose/
 ---
 ## Device::Dispose method

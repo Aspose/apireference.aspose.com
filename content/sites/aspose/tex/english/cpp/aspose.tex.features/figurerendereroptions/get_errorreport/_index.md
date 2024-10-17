@@ -4,7 +4,7 @@ linktitle: get_ErrorReport
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::get_ErrorReport method. Gets the error report in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.tex.features/figurerendereroptions/get_errorreport/
 ---
 ## FigureRendererOptions::get_ErrorReport method

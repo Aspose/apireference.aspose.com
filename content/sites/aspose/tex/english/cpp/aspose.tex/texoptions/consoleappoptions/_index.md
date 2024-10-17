@@ -4,7 +4,7 @@ linktitle: ConsoleAppOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::ConsoleAppOptions method. Returns options for use in a console application in C++.'
 type: docs
-weight: 3200
+weight: 3000
 url: /cpp/aspose.tex/texoptions/consoleappoptions/
 ---
 ## TeXOptions::ConsoleAppOptions method

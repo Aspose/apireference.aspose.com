@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::MathRendererPlugin::Dispose method. Disposes this instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.plugins/mathrendererplugin/dispose/
 ---
 ## MathRendererPlugin::Dispose method

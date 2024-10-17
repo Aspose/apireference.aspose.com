@@ -4,7 +4,7 @@ linktitle: get_Stream
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::NamedStream::get_Stream method. Gets the stream itself in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.tex.io/namedstream/get_stream/
 ---
 ## NamedStream::get_Stream method

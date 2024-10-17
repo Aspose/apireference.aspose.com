@@ -2,13 +2,13 @@
 title: Aspose::TeX namespace
 linktitle: Aspose::TeX
 second_title: Aspose.TeX for C++
-description: 'How to use Aspose::TeX namespace in C++.'
+description: 'Aspose::TeX namespace. The Aspose.TeX is a root namespace for all classes of the Aspose.TeX library which are either directly contained within it, such as TeXJob, or indirectly through several nested namespaces in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.tex/
 ---
 
-
+The **[Aspose.TeX](./)** is a root namespace for all classes of the [Aspose.TeX](./) library which are either directly contained within it, such as **[TeXJob](./texjob/)**, or indirectly through several nested namespaces.
 
 ## Classes
 
@@ -18,7 +18,6 @@ url: /cpp/aspose.tex/
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [License](./license/) | Provides methods to license the component. |
 | [Metered](./metered/) | Provides methods to set metered key. |
-| [NamespaceDoc](./namespacedoc/) | The **[Aspose.TeX](./)** is a root namespace for all classes of the [Aspose.TeX](./) library which are either directly contained within it, such as **[TeXJob](./texjob/)**, or indirectly through several nested namespaces. |
 | [TeXConfig](./texconfig/) | Class providing available [TeX](./) configurations. |
 | [TeXExtension](./texextension/) | Class defining constants to choose a [TeX](./) engine extension from. |
 | [TeXJob](./texjob/) | Implements features of a [TeX](./) job. |
@@ -27,9 +26,9 @@ url: /cpp/aspose.tex/
 
 | Enum | Description |
 | --- | --- |
+| [EditionType](./editiontype/) | Specifies the edition type of the license. |
 | [Interaction](./interaction/) | Represents increasing amounts of user interaction. |
+| [LicenseState](./licensestate/) | Represents possible license states. |
+| [ProductType](./producttype/) | Which product of the license or black list : **Aspose** or Conholdate. |
 | [ShellMode](./shellmode/) | Enumerates values that determine the availability of \write18. |
 | [TeXJobResult](./texjobresult/) | Lists possible results of a [TeX](./) job. |
-| [EditionType](./editiontype/) | Specifies the edition type of the license. |
-| [ProductType](./producttype/) | Which product of the license or black list : **Aspose** or Conholdate. |
-| [LicenseState](./licensestate/) | Represents possible license states. |

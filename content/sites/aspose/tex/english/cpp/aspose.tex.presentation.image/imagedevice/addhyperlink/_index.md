@@ -4,7 +4,7 @@ linktitle: AddHyperlink
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::AddHyperlink method. Set the hyperlink with a URI as its target in C++.'
 type: docs
-weight: 2100
+weight: 200
 url: /cpp/aspose.tex.presentation.image/imagedevice/addhyperlink/
 ---
 ## ImageDevice::AddHyperlink method

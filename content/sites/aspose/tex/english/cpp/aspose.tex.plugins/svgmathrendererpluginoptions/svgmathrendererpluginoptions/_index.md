@@ -4,7 +4,7 @@ linktitle: SvgMathRendererPluginOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::SvgMathRendererPluginOptions::SvgMathRendererPluginOptions constructor. Creates a new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.plugins/svgmathrendererpluginoptions/svgmathrendererpluginoptions/
 ---
 ## SvgMathRendererPluginOptions::SvgMathRendererPluginOptions constructor

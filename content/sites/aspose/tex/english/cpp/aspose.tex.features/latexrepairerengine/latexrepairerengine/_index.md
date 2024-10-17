@@ -2,11 +2,29 @@
 title: Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine constructor
 linktitle: LaTeXRepairerEngine
 second_title: Aspose.TeX for C++
-description: 'Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine constructor. Create a new instance in C++.'
+description: 'How to use LaTeXRepairerEngine constructor of Aspose::TeX::Features::LaTeXRepairerEngine class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.tex.features/latexrepairerengine/latexrepairerengine/
 ---
+## LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LaTeXRepairerOptions\>, System::SharedPtr\<LaTeXRepairerEngine\>, int32_t) constructor
+
+
+
+
+```cpp
+Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<LaTeXRepairerOptions> options, System::SharedPtr<LaTeXRepairerEngine> engine, int32_t stage)
+```
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [LaTeXRepairerOptions](../../latexrepaireroptions/)
+* Class [LaTeXRepairerEngine](../)
+* Class [LaTeXRepairerEngine](../)
+* Namespace [Aspose::TeX::Features](../../)
+* Library [Aspose.TeX for C++](../../../)
 ## LaTeXRepairerEngine::LaTeXRepairerEngine(System::String, System::SharedPtr\<LaTeXRepairerOptions\>) constructor
 
 
@@ -27,24 +45,6 @@ Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::String p
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LaTeXRepairerOptions](../../latexrepaireroptions/)
-* Class [LaTeXRepairerEngine](../)
-* Namespace [Aspose::TeX::Features](../../)
-* Library [Aspose.TeX for C++](../../../)
-## LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LaTeXRepairerOptions\>, System::SharedPtr\<LaTeXRepairerEngine\>, int32_t) constructor
-
-
-
-
-```cpp
-Aspose::TeX::Features::LaTeXRepairerEngine::LaTeXRepairerEngine(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<LaTeXRepairerOptions> options, System::SharedPtr<LaTeXRepairerEngine> engine, int32_t stage)
-```
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [LaTeXRepairerOptions](../../latexrepaireroptions/)
-* Class [LaTeXRepairerEngine](../)
 * Class [LaTeXRepairerEngine](../)
 * Namespace [Aspose::TeX::Features](../../)
 * Library [Aspose.TeX for C++](../../../)

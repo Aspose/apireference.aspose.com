@@ -4,7 +4,7 @@ linktitle: PngFigureRendererPluginOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::PngFigureRendererPluginOptions::PngFigureRendererPluginOptions constructor. Creates a new instance in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.tex.plugins/pngfigurerendererpluginoptions/pngfigurerendererpluginoptions/
 ---
 ## PngFigureRendererPluginOptions::PngFigureRendererPluginOptions constructor

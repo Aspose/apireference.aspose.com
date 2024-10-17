@@ -4,7 +4,7 @@ linktitle: PdfSaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfSaveOptions class. Class representing options of saving to PDF in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

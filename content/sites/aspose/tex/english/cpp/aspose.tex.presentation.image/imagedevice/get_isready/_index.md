@@ -4,7 +4,7 @@ linktitle: get_IsReady
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::get_IsReady method. Shows if device is ready for output in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/aspose.tex.presentation.image/imagedevice/get_isready/
 ---
 ## ImageDevice::get_IsReady method

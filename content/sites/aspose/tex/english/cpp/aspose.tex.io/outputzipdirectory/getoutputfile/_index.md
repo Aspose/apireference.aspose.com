@@ -4,7 +4,7 @@ linktitle: GetOutputFile
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputZipDirectory::GetOutputFile method. Returns the stream to write to in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.tex.io/outputzipdirectory/getoutputfile/
 ---
 ## OutputZipDirectory::GetOutputFile method

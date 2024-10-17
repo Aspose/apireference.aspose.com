@@ -4,7 +4,7 @@ linktitle: EndDocument
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Xps::XpsDevice::EndDocument method. Finalizes the whole document in C++.'
 type: docs
-weight: 1800
+weight: 800
 url: /cpp/aspose.tex.presentation.xps/xpsdevice/enddocument/
 ---
 ## XpsDevice::EndDocument method

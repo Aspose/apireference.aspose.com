@@ -4,7 +4,7 @@ linktitle: set_Stroke
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::set_Stroke method. Gets/sets the current stroke in C++.'
 type: docs
-weight: 500
+weight: 2000
 url: /cpp/aspose.tex.presentation/device/set_stroke/
 ---
 ## Device::set_Stroke method

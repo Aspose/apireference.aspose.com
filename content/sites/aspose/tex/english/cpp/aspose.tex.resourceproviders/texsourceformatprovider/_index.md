@@ -4,7 +4,7 @@ linktitle: TeXSourceFormatProvider
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::ResourceProviders::TeXSourceFormatProvider class. Format provider that makes it possible to load a format from its TeX sources in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex.resourceproviders/texsourceformatprovider/
 ---
 ## TeXSourceFormatProvider class

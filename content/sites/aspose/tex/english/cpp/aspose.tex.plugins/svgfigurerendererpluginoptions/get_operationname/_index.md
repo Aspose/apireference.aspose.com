@@ -4,7 +4,7 @@ linktitle: get_OperationName
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::SvgFigureRendererPluginOptions::get_OperationName method. Returns operation name in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.tex.plugins/svgfigurerendererpluginoptions/get_operationname/
 ---
 ## SvgFigureRendererPluginOptions::get_OperationName method

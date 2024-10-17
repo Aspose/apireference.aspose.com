@@ -4,7 +4,7 @@ linktitle: set_Margin
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::set_Margin method. Gets/sets the margin width in C++.'
 type: docs
-weight: 1500
+weight: 1200
 url: /cpp/aspose.tex.features/figurerendereroptions/set_margin/
 ---
 ## FigureRendererOptions::set_Margin method

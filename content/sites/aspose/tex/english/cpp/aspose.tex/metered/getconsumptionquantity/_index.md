@@ -4,7 +4,7 @@ linktitle: GetConsumptionQuantity
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Metered::GetConsumptionQuantity method. Gets consumption file size in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.tex/metered/getconsumptionquantity/
 ---
 ## Metered::GetConsumptionQuantity method

@@ -4,7 +4,7 @@ linktitle: set_VOffset
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::GlyphData::set_VOffset method. Gets/sets vertical offset in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.tex.presentation/glyphdata/set_voffset/
 ---
 ## GlyphData::set_VOffset method

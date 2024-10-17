@@ -4,7 +4,7 @@ linktitle: set_OwnerPassword
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_OwnerPassword method. Sets the Owner password in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/set_ownerpassword/
 ---
 ## PdfEncryptionDetails::set_OwnerPassword method

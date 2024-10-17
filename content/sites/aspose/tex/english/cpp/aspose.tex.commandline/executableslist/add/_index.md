@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::CommandLine::ExecutablesList::Add method. Adds a new executable to the collection in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.commandline/executableslist/add/
 ---
 ## ExecutablesList::Add method

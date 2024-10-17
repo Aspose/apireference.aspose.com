@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::Dispose method. Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device''s graphics state in C++.'
 type: docs
-weight: 1600
+weight: 400
 url: /cpp/aspose.tex.presentation.image/imagedevice/dispose/
 ---
 ## ImageDevice::Dispose method

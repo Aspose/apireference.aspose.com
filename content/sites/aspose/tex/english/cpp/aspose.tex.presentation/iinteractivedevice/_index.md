@@ -21,8 +21,6 @@ class IInteractiveDevice : public virtual System::Object
 | Method | Description |
 | --- | --- |
 | virtual [AddBookmark](./addbookmark/)(System::String, System::Drawing::PointF) | Adds the bookmark identified by the name. |
-| virtual [get_InternalHyperlinksTargets](./get_internalhyperlinkstargets/)() | Returns the map of internal hyperlink targets. |
-| virtual [SaveInternalHyperlinkTarget](./saveinternalhyperlinktarget/)(int32_t, System::Drawing::RectangleF) | Saves internal hyperlink target as a page number and a rectangular area on a page. |
 ## See Also
 
 * Class [Object](../../system/object/)

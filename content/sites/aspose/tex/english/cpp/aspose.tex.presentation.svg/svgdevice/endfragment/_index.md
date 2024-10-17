@@ -4,7 +4,7 @@ linktitle: EndFragment
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::EndFragment method. Ends a fragment to rasterize in C++.'
 type: docs
-weight: 3100
+weight: 900
 url: /cpp/aspose.tex.presentation.svg/svgdevice/endfragment/
 ---
 ## SvgDevice::EndFragment method

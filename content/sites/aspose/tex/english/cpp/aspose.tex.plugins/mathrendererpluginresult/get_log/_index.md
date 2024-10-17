@@ -4,7 +4,7 @@ linktitle: get_Log
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::MathRendererPluginResult::get_Log method. The stream containing the transcript file in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.tex.plugins/mathrendererpluginresult/get_log/
 ---
 ## MathRendererPluginResult::get_Log method

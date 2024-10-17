@@ -4,7 +4,7 @@ linktitle: set_TerminalIn
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_TerminalIn method. Gets/sets the input terminal reader in C++.'
 type: docs
-weight: 400
+weight: 2800
 url: /cpp/aspose.tex/texoptions/set_terminalin/
 ---
 ## TeXOptions::set_TerminalIn method

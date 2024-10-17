@@ -4,7 +4,7 @@ linktitle: DrawPath
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Device::DrawPath method. Draws a path in C++.'
 type: docs
-weight: 2400
+weight: 500
 url: /cpp/aspose.tex.presentation/device/drawpath/
 ---
 ## Device::DrawPath method

@@ -4,7 +4,7 @@ linktitle: Product
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::BuildVersionInfo::Product field. Product Name in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.tex/buildversioninfo/product/
 ---
 ## Product field

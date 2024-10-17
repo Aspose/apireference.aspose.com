@@ -4,7 +4,7 @@ linktitle: DrawPath
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::DrawPath method. Draws a path in C++.'
 type: docs
-weight: 2700
+weight: 600
 url: /cpp/aspose.tex.presentation.svg/svgdevice/drawpath/
 ---
 ## SvgDevice::DrawPath method

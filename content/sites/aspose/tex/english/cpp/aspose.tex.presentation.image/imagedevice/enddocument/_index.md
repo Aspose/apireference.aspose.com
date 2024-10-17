@@ -4,7 +4,7 @@ linktitle: EndDocument
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Image::ImageDevice::EndDocument method. Finalizes the whole document in C++.'
 type: docs
-weight: 1800
+weight: 700
 url: /cpp/aspose.tex.presentation.image/imagedevice/enddocument/
 ---
 ## ImageDevice::EndDocument method

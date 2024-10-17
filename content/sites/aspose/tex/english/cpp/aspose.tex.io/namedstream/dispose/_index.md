@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::NamedStream::Dispose method. Disposes the current instance in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.tex.io/namedstream/dispose/
 ---
 ## NamedStream::Dispose method

@@ -4,7 +4,7 @@ linktitle: StringDataSource
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::StringDataSource::StringDataSource constructor. Creates a new string data source in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.tex.plugins/stringdatasource/stringdatasource/
 ---
 ## StringDataSource::StringDataSource constructor

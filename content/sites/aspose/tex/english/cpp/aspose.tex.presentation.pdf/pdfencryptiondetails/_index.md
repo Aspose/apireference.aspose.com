@@ -4,7 +4,7 @@ linktitle: PdfEncryptionDetails
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails class. Contains details for a pdf encryption in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

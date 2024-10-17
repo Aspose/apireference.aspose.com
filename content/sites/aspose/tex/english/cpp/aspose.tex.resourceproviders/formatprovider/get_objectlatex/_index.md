@@ -4,7 +4,7 @@ linktitle: get_ObjectLaTeX
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::ResourceProviders::FormatProvider::get_ObjectLaTeX method. LaTeX format provider for ObjectTeX engine extension in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.resourceproviders/formatprovider/get_objectlatex/
 ---
 ## FormatProvider::get_ObjectLaTeX method

@@ -4,7 +4,7 @@ linktitle: OutputZipDirectory
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputZipDirectory class. Implements the method for getting a file stream to write to when working directory is a ZIP archive in C++.'
 type: docs
-weight: 1700
+weight: 1500
 url: /cpp/aspose.tex.io/outputzipdirectory/
 ---
 ## OutputZipDirectory class

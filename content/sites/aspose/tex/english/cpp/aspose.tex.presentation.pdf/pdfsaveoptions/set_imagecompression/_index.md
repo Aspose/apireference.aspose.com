@@ -4,7 +4,7 @@ linktitle: set_ImageCompression
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfSaveOptions::set_ImageCompression method. Specifies compression type to be used for all images in the document. Default is PdfImageCompression::Auto in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.tex.presentation.pdf/pdfsaveoptions/set_imagecompression/
 ---
 ## PdfSaveOptions::set_ImageCompression method

@@ -4,7 +4,7 @@ linktitle: License
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::License::License constructor. Initializes a new instance of this class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.tex/license/license/
 ---
 ## License::License constructor

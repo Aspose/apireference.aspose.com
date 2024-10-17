@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::FigureRendererPluginResult::get_Size method. The size of the rendered formula in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.tex.plugins/figurerendererpluginresult/get_size/
 ---
 ## FigureRendererPluginResult::get_Size method

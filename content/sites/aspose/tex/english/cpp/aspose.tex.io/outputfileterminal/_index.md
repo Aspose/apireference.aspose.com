@@ -4,7 +4,7 @@ linktitle: OutputFileTerminal
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputFileTerminal class. Implements a terminal whose output is to be written to a file in some working directory in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/aspose.tex.io/outputfileterminal/
 ---
 ## OutputFileTerminal class

@@ -4,7 +4,7 @@ linktitle: OutputFileSystemDirectory
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputFileSystemDirectory class. Implements the regular file system''s method for getting a file stream to write to in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.tex.io/outputfilesystemdirectory/
 ---
 ## OutputFileSystemDirectory class

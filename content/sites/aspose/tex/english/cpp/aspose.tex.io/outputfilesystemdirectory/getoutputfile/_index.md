@@ -4,7 +4,7 @@ linktitle: GetOutputFile
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputFileSystemDirectory::GetOutputFile method. Returns the stream to write to in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.tex.io/outputfilesystemdirectory/getoutputfile/
 ---
 ## OutputFileSystemDirectory::GetOutputFile method

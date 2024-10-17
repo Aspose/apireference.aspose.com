@@ -35,8 +35,8 @@ template<class TKey,class TValue>class ConcurrentDictionary : public System::Col
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) | This type. |
 | [BaseType](./basetype/) | Implementation type. |
+| [ThisType](./thistype/) | This type. |
 ## Remarks
 
 

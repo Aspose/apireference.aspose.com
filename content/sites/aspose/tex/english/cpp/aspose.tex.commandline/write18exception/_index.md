@@ -4,7 +4,7 @@ linktitle: Write18Exception
 second_title: Aspose.TeX for C++
 description: 'How to use Aspose::TeX::CommandLine::Write18Exception typedef in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.tex.commandline/write18exception/
 ---
 ## Write18Exception typedef

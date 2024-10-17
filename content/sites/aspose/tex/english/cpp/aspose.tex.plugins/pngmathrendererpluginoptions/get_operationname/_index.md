@@ -4,7 +4,7 @@ linktitle: get_OperationName
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::PngMathRendererPluginOptions::get_OperationName method. Returns operation name in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex.plugins/pngmathrendererpluginoptions/get_operationname/
 ---
 ## PngMathRendererPluginOptions::get_OperationName method

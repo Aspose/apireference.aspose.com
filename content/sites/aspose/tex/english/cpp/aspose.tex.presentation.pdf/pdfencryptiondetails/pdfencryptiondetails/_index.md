@@ -4,7 +4,7 @@ linktitle: PdfEncryptionDetails
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::PdfEncryptionDetails constructor. Initializes a new instance of the PdfEncryptionDetailsCore class in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails::PdfEncryptionDetails constructor

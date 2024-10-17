@@ -4,7 +4,7 @@ linktitle: StartDocument
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Pdf::PdfDevice::StartDocument method. Starts the whole document in C++.'
 type: docs
-weight: 1700
+weight: 2700
 url: /cpp/aspose.tex.presentation.pdf/pdfdevice/startdocument/
 ---
 ## PdfDevice::StartDocument method

@@ -4,7 +4,7 @@ linktitle: TeXOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions class. TeX file processing options class in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.tex/texoptions/
 ---
 ## TeXOptions class
@@ -36,7 +36,6 @@ class TeXOptions : public System::Object
 | [get_ShellMode](./get_shellmode/)() const | Determines the availability of \write18. |
 | [get_TerminalIn](./get_terminalin/)() const | Gets/sets the input terminal reader. |
 | [get_TerminalOut](./get_terminalout/)() const | Gets/sets the output terminal writer. |
-| [get_ToApsConverter](./get_toapsconverter/)() const |  |
 | [set_DateTime](./set_datetime/)(System::DateTime) | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
 | [set_FullInputFileNames](./set_fullinputfilenames/)(bool) | Gets/sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 | [set_IgnoreMissingPackages](./set_ignoremissingpackages/)(bool) | Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it. |
@@ -51,7 +50,6 @@ class TeXOptions : public System::Object
 | [set_ShellMode](./set_shellmode/)(Aspose::TeX::ShellMode) | Determines the availability of \write18. |
 | [set_TerminalIn](./set_terminalin/)(System::SharedPtr\<IO::IInputTerminal\>) | Gets/sets the input terminal reader. |
 | [set_TerminalOut](./set_terminalout/)(System::SharedPtr\<IO::IOutputTerminal\>) | Gets/sets the output terminal writer. |
-| [set_ToApsConverter](./set_toapsconverter/)(System::SharedPtr\<Reading::Object::IToApsConverter\>) |  |
 ## See Also
 
 * Class [Object](../../system/object/)

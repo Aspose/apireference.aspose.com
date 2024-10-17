@@ -4,7 +4,7 @@ linktitle: FigureRendererOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::FigureRendererOptions constructor. Creates a new instance in C++.'
 type: docs
-weight: 1600
+weight: 100
 url: /cpp/aspose.tex.features/figurerendereroptions/figurerendereroptions/
 ---
 ## FigureRendererOptions::FigureRendererOptions constructor

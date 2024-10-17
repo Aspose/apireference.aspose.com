@@ -4,7 +4,7 @@ linktitle: OutputFileTerminal
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputFileTerminal::OutputFileTerminal constructor. Creates new instance in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.tex.io/outputfileterminal/outputfileterminal/
 ---
 ## OutputFileTerminal::OutputFileTerminal constructor

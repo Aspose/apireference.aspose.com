@@ -4,7 +4,7 @@ linktitle: System::Web::UI::WebControls
 second_title: Aspose.TeX for C++
 description: 'How to use System::Web::UI::WebControls namespace in C++.'
 type: docs
-weight: 6500
+weight: 6200
 url: /cpp/system.web.ui.webcontrols/
 ---
 

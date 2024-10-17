@@ -4,7 +4,7 @@ linktitle: get_IsString
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Plugins::IOperationResult::get_IsString method. Indicates whether the result is a string in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.tex.plugins/ioperationresult/get_isstring/
 ---
 ## IOperationResult::get_IsString method

@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::get_BackgroundColor method. Gets/sets the background color in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.tex.features/figurerendereroptions/get_backgroundcolor/
 ---
 ## FigureRendererOptions::get_BackgroundColor method

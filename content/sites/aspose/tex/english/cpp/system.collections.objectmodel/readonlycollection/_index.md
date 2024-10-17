@@ -42,9 +42,9 @@ template<typename T>class ReadOnlyCollection : public virtual System::Object,
 
 | Typedef | Description |
 | --- | --- |
-| [ValueType](./valuetype/) | Value type. |
 | [BaseType](./basetype/) | Implemented interface. |
 | [IEnumeratorPtr](./ienumeratorptr/) | Container of same elements. |
+| [ValueType](./valuetype/) | Value type. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: Platform
 second_title: Aspose.TeX for C++
 description: 'How to use Platform field of Aspose::TeX::AssemblyConstants class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.tex/assemblyconstants/platform/
 ---
 ## Platform field

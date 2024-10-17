@@ -4,7 +4,7 @@ linktitle: GetConsumptionCredit
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Metered::GetConsumptionCredit method. Gets consumption credit in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.tex/metered/getconsumptioncredit/
 ---
 ## Metered::GetConsumptionCredit method

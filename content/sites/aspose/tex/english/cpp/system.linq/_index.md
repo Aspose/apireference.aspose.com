@@ -4,7 +4,7 @@ linktitle: System::Linq
 second_title: Aspose.TeX for C++
 description: 'How to use System::Linq namespace in C++.'
 type: docs
-weight: 3500
+weight: 3200
 url: /cpp/system.linq/
 ---
 

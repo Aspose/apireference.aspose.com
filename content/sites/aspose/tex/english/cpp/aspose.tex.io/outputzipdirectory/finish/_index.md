@@ -4,7 +4,7 @@ linktitle: Finish
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::IO::OutputZipDirectory::Finish method. Finalizes ZIP archive in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.tex.io/outputzipdirectory/finish/
 ---
 ## OutputZipDirectory::Finish method
