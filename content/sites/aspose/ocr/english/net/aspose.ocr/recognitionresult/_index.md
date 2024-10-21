@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for .NET API Reference
 description: The results of the image recognition. Contains elements with recognition information and methods for result export.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.ocr/recognitionresult/
 ---
 ## RecognitionResult class
@@ -37,10 +37,10 @@ public class RecognitionResult
 | [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
 | [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Find the misspelled words with suggested spellings for a given input text. |
 | [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Form XML string with recognition results. |
-| [Save](../../aspose.ocr/recognitionresult/save#save_1)(MemoryStream, SaveFormat, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](../../aspose.ocr/recognitionresult/save#save_3)(string, SaveFormat, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](../../aspose.ocr/recognitionresult/save#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
-| [Save](../../aspose.ocr/recognitionresult/save#save_2)(string, SaveFormat, bool, SpellCheckLanguage, string, string) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_1)(MemoryStream, SaveFormat, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_3)(string, SaveFormat, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
+| [Save](../../aspose.ocr/recognitionresult/save#save_2)(string, SaveFormat, bool, SpellCheckLanguage, string, string, PdfOptimizationMode) | Saves the document as the plain text, PDF or Microsoft Word Document. |
 | [operator +](../../aspose.ocr/recognitionresult/op_addition) | To complete the full result from recognized fragments (lines). |
 
 ## Other Members

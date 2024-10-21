@@ -47,6 +47,7 @@ url: /net/aspose.ocr/
 | [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
 | [Language](./language) | Languages used for OCR. ISO 939-3 Code. |
 | [LoggingLevel](./logginglevel) | Defines the type of logs to display. |
+| [PdfOptimizationMode](./pdfoptimizationmode) | Significantly reduce the PDF file size at the expense of lower image quality. |
 | [PixelType](./pixeltype) | Determines the type of the pixel data for image recognition. |
 | [SaveFormat](./saveformat) | For recognition result saving |
 

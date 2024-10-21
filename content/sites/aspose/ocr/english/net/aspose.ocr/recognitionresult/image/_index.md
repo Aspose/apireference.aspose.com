@@ -11,7 +11,7 @@ url: /net/aspose.ocr/recognitionresult/image/
 Gets or sets image for pdf creation.
 
 ```csharp
-public List<byte[][]> Image { get; set; }
+public byte[][] Image { get; set; }
 ```
 
 ### See Also
