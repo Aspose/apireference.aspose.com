@@ -55,7 +55,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ### Remarks
 
-Recognizes invoice with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
+Recognizes invoice with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
