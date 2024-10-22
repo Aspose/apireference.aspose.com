@@ -18,7 +18,8 @@ Contains tools for image recognition, skew correction, text areas detection and 
 |[CarPlateRecognitionSettings](/ocr/python-net/aspose.ocr/carplaterecognitionsettings/)|Settings for the car number recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[Character](/ocr/python-net/aspose.ocr/character/)|Data about detected character.|
 |[CharacterRecognitionResult](/ocr/python-net/aspose.ocr/characterrecognitionresult/)|Pages with detected characters data.|
-|[DocumentRecognitionSettings](/ocr/python-net/aspose.ocr/documentrecognitionsettings/)|Settings for the pdf recognition.<br/>            Contains elements that allow customizing the recognition process.|
+|[DefectAreas](/ocr/python-net/aspose.ocr/defectareas/)|Image areas containing a certain type of defect.|
+|[DefectOutput](/ocr/python-net/aspose.ocr/defectoutput/)|Areas containing defects identified in the image.|
 |[IDCardRecognitionSettings](/ocr/python-net/aspose.ocr/idcardrecognitionsettings/)|Settings for the ID Card recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[ImageData](/ocr/python-net/aspose.ocr/imagedata/)|Information about processed / recognized image.|
 |[ImageProcessing](/ocr/python-net/aspose.ocr/imageprocessing/)|Helper class for Aspose OCR library. Allows to preprocess and save images.|
@@ -33,15 +34,19 @@ Contains tools for image recognition, skew correction, text areas detection and 
 |[RecognitionSettings](/ocr/python-net/aspose.ocr/recognitionsettings/)|Settings for the image recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[Rectangle](/ocr/python-net/aspose.ocr/rectangle/)|Stores a set of four integers that represent the location and size of a rectangle.|
 |[RectangleOutput](/ocr/python-net/aspose.ocr/rectangleoutput/)|Data about detected text areas or lines.|
+|[Resources](/ocr/python-net/aspose.ocr/resources/)|Manage downloadable resources that enhance Aspose.OCR recognition capabilities.|
 |[SkewOutput](/ocr/python-net/aspose.ocr/skewoutput/)|Data about skew angle in degrees and name of the file.|
 ## Enumerations
 | Enumeration | Description |
 | :- | :- |
 |[AreasType](/ocr/python-net/aspose.ocr/areastype/)|Determines the type of regions detected by the model.|
 |[CharactersAllowedType](/ocr/python-net/aspose.ocr/charactersallowedtype/)|Determines the type of characters allowed for recognition result.|
+|[Country](/ocr/python-net/aspose.ocr/country/)|For better passport recognition point the passport country.|
+|[DefectType](/ocr/python-net/aspose.ocr/defecttype/)|The types of image defects.|
 |[DetectAreasMode](/ocr/python-net/aspose.ocr/detectareasmode/)|Determines the type of neural network used for areas detection.|
 |[InputType](/ocr/python-net/aspose.ocr/inputtype/)|Types of image/ documents for processing / recognition.|
-|[Language](/ocr/python-net/aspose.ocr/language/)|Languages used for OCR.<br/>            ISO 639-2 Code|
+|[Language](/ocr/python-net/aspose.ocr/language/)|Languages used for OCR.<br/>            ISO 939-3 Code.|
 |[LoggingLevel](/ocr/python-net/aspose.ocr/logginglevel/)|Defines the type of logs to display.|
+|[PdfOptimizationMode](/ocr/python-net/aspose.ocr/pdfoptimizationmode/)|Significantly reduce the PDF file size at the expense of lower image quality.|
 |[PixelType](/ocr/python-net/aspose.ocr/pixeltype/)|Determines the type of the pixel data for image recognition.|
 |[SaveFormat](/ocr/python-net/aspose.ocr/saveformat/)|For recognition result saving|

@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /python-net/aspose.ocr/ocrinput/
 ---
 
@@ -34,6 +34,7 @@ The OcrInput type exposes the following members:
 |add_base64(base64)|Add the base64 string containing the image for recognition / processing.<br/>            The type of the image must correspond to the type specified in the constructor.|
 |clear()|Remove all filters.|
 |count()|Amount of items for processing / recognition.|
+|get_input_type()|Type of allowed images for recognition.|
 
 ### See Also
 
