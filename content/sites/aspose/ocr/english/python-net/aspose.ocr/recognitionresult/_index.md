@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /python-net/aspose.ocr/recognitionresult/
 ---
 
@@ -17,6 +17,7 @@ The RecognitionResult type exposes the following members:
 | :- | :- |
 |recognition_lines_result|Gets a list of recognition results with a list of rows (Rectangles).|
 |recognition_areas_text|Gets list recognition results of a list of areas (Rectangles).|
+|recognition_areas_rectangles|Gets rectangles coordinates.|
 |recognition_characters_list|A set of characters found by the recognition algorithm and arranged in descending order of probability.|
 |recognition_text|Gets recognition result in one string.|
 |file_name|Full path to the file.|
@@ -25,13 +26,16 @@ The RecognitionResult type exposes the following members:
 ## Methods
 | Name | Description |
 | :- | :- |
-|save(full_file_name, save_format, apply_spelling_correction, language, dictionary_path)|Saves the document as the plain text, PDF or Microsoft Word Document.|
-|save(full_file_name, save_format)|Saves the document as the plain text, PDF or Microsoft Word Document.|
+|save(full_file_name, save_format, apply_spelling_correction, language, dictionary_path, embedded_font_path, optimize_pdf)|Saves the document as the plain text, PDF or Microsoft Word Document.|
+|save(full_file_name, save_format, embedded_font_path, optimize_pdf)|Saves the document as the plain text, PDF or Microsoft Word Document.|
+|save(full_file_name, save_format, optimize_pdf)|Saves the document as the plain text, PDF or Microsoft Word Document.|
+|save(stream, save_format, optimize_pdf)|Saves the document as the plain text, PDF or Microsoft Word Document.|
 |save(stream, save_format, apply_spelling_correction, language, dictionary_path)|Saves the document as the plain text, PDF or Microsoft Word Document.|
 |get_spell_check_corrected_text(language, dictionary_path)|Corrects text (replaces misspelled words).|
 |get_spell_check_error_list(language, dictionary_path)|Find the misspelled words with suggested spellings for a given input text.|
 |get_json(is_readable)|Form JSON string with recognition results.|
 |get_xml()|Form XML string with recognition results.|
+|get_keywords()|Get keywords from pasport (Test mode. Works only for USA and MADAGASCAR passports).|
 
 ### See Also
 

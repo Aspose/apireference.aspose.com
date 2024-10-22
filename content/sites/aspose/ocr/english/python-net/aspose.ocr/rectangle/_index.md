@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /python-net/aspose.ocr/rectangle/
 ---
 
@@ -21,15 +21,15 @@ The Rectangle type exposes the following members:
 | Name | Description |
 | :- | :- |
 |empty|Gets a new instance of the|
-|x|Gets or sets the x-coordinate of the upper-left corner of this|
-|y|Gets or sets the y-coordinate of the upper-left corner of this|
-|width|Gets or sets the width of this|
-|height|Gets or sets the height of this|
 |left|Gets or sets the x-coordinate of the left edge of this|
 |top|Gets or sets the y-coordinate of the top edge of this|
 |right|Gets or sets the x-coordinate that is the sum of|
 |bottom|Gets or sets the y-coordinate that is the sum of the|
 |is_empty|Gets a value indicating whether all numeric properties of this|
+|height|The rectangle width.|
+|width|The rectangle height.|
+|x|The rectangle x location.|
+|y|The rectangle y location.|
 ## Methods
 | Name | Description |
 | :- | :- |

@@ -3,19 +3,21 @@ title: Country
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /python-net/aspose.ocr/country/
 ---
 
 ## Country enumeration
 
-Set the template for passport recognition and to extract the keywords.<br/>
+For better passport recognition point the passport country.
 
 ## Members
 | Member name | Description |
 | :- | :- |
-|UNIVERSAL|Do not improve the recognized text|
-|MADAGASCAR|Improve the recognized text according to the Madagascar passport template|
+|UNIVERSAL|Do not parse the recognized text.|
+|USA|Extract key details from US passport image.|
+|MADAGASCAR|Extract key details from Malagasy passport image.|
+|NONE|Do not parse the recognized text.|
 
 ### See Also
 

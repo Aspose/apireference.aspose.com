@@ -19,6 +19,7 @@ The OcrPageRecognizeEventsArgs type exposes the following members:
 |current_image|Image on the page.|
 |duration|The time from the start of the recognition process to the moment the current image is recognized.|
 |file_name|Processed file name.|
+|operation_name|The name of the transaction in progress.|
 
 ### See Also
 
