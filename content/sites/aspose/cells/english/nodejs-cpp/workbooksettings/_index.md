@@ -330,6 +330,18 @@ setShowTabs(value: boolean) : void;
 
 The default value is true.
 
+**Example**
+
+The following code hides the Sheet Tabs and Tab Scrolling Buttons for the spreadsheet.
+
+```javascript
+const { Workbook } = require("aspose.cells.node");
+
+var workbook = new Workbook();
+// Hide the spreadsheet tabs.
+workbook.getSettings().setShowTabs(false);
+```
+
 ### getFirstVisibleTab() {#getFirstVisibleTab--}
 
 Gets or sets the first visible worksheet tab.
@@ -365,6 +377,18 @@ isHScrollBarVisible() : boolean;
 
 The default value is true.
 
+**Example**
+
+The following code makes the horizontal scroll bar invisible for the spreadsheet.
+
+```javascript
+const { Workbook } = require("aspose.cells.node");
+
+var workbook = new Workbook();
+// Hide the horizontal scroll bar of the Excel file.
+workbook.getSettings().setIsHScrollBarVisible(false);
+```
+
 ### setIsHScrollBarVisible(boolean) {#setIsHScrollBarVisible-boolean-}
 
 Gets or sets a value indicating whether the generated spreadsheet will contain a horizontal scroll bar.
@@ -394,6 +418,18 @@ isVScrollBarVisible() : boolean;
 **Remarks**
 
 The default value is true.
+
+**Example**
+
+The following code makes the vertical scroll bar invisible for the spreadsheet.
+
+```javascript
+const { Workbook } = require("aspose.cells.node");
+
+var workbook = new Workbook();
+// Hide the vertical scroll bar of the Excel file.
+workbook.getSettings().setIsVScrollBarVisible(false);
+```
 
 ### setIsVScrollBarVisible(boolean) {#setIsVScrollBarVisible-boolean-}
 
