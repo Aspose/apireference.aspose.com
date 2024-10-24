@@ -4,7 +4,7 @@ linktitle: IMultiPageDevice
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPageDevice class. This interface contains methods for manipulating multi-paged device in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.page/imultipagedevice/
 ---
 ## IMultiPageDevice class

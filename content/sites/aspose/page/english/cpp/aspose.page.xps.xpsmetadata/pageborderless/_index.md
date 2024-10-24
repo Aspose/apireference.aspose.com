@@ -4,7 +4,7 @@ linktitle: PageBorderless
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBorderless class. Describes when image content should be printed to the physical edges of the media.  in C++.'
 type: docs
-weight: 8900
+weight: 8800
 url: /cpp/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

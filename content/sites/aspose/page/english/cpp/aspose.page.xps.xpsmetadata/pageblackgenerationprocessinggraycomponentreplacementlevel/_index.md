@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingGrayComponentReplacementLevel
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingGrayComponentReplacementLevel class. Specifies the percentage of gray component replacement to perform.  in C++.'
 type: docs
-weight: 8200
+weight: 8100
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementlevel/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementLevel class

@@ -4,7 +4,7 @@ linktitle: XpsTileMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsTileMode enum. Valid values of tiling brushes'' TileMode property in C++.'
 type: docs
-weight: 5600
+weight: 5500
 url: /cpp/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enum

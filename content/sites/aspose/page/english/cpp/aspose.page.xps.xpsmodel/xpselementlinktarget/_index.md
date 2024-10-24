@@ -4,7 +4,7 @@ linktitle: XpsElementLinkTarget
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElementLinkTarget class. Class incapsulating the relative named-address hyperlink target in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

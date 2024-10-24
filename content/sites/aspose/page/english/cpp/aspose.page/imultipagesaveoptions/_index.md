@@ -4,7 +4,7 @@ linktitle: IMultiPageSaveOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPageSaveOptions class. Defines interface for setting page numbers for conversion in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.page/imultipagesaveoptions/
 ---
 ## IMultiPageSaveOptions class

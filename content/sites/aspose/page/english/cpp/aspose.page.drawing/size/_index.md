@@ -4,7 +4,7 @@ linktitle: Size
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Drawing::Size class. Stores an ordered pair of integers, typically the width and height of a rectangle in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.drawing/size/
 ---
 ## Size class

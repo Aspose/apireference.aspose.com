@@ -4,7 +4,7 @@ linktitle: XpsHyperlinkTarget
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsHyperlinkTarget class. Base class for a hyperlink target in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/aspose.page.xps.xpsmodel/xpshyperlinktarget/
 ---
 ## XpsHyperlinkTarget class

@@ -4,7 +4,7 @@ linktitle: XpsMatrix
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsMatrix class. Class incapsulating MatrixTransform property element features. This element defines an arbitrary affine matrix transformation used to manipulate the coordinate systems of elements in C++.'
 type: docs
-weight: 2700
+weight: 2600
 url: /cpp/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

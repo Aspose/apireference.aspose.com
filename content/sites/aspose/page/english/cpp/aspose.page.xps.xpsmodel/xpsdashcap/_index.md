@@ -4,7 +4,7 @@ linktitle: XpsDashCap
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsDashCap enum. Valid values of Path element''s StrokeDashCap property in C++.'
 type: docs
-weight: 4700
+weight: 4600
 url: /cpp/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enum

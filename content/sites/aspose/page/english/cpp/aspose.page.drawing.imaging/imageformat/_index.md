@@ -4,7 +4,7 @@ linktitle: ImageFormat
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::Drawing::Imaging::ImageFormat enum in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.drawing.imaging/imageformat/
 ---
 ## ImageFormat enum

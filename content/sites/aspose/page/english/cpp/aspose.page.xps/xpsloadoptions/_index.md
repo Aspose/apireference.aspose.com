@@ -4,7 +4,7 @@ linktitle: XpsLoadOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsLoadOptions class. XPS document loading options in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.page.xps/xpsloadoptions/
 ---
 ## XpsLoadOptions class

@@ -4,7 +4,7 @@ linktitle: SetHyperlinkTarget
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IInteractiveDevice::SetHyperlinkTarget method. Set the hyperlink with a page number as its target in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.page/iinteractivedevice/sethyperlinktarget/
 ---
 ## IInteractiveDevice::SetHyperlinkTarget(int32_t) method

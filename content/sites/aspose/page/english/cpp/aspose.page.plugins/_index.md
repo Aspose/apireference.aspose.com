@@ -2,13 +2,13 @@
 title: Aspose::Page::Plugins namespace
 linktitle: Aspose::Page::Plugins
 second_title: Aspose.Page for C++
-description: 'How to use Aspose::Page::Plugins namespace in C++.'
+description: 'Aspose::Page::Plugins namespace. The Aspose.Page.Plugins is a root namespace for all classes of Aspose.Page.Plugins classes which are either directly in it like PsConverter or indirectly through several subnamespaces in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.page.plugins/
 ---
 
-
+The **[Aspose.Page.Plugins](./)** is a root namespace for all classes of [Aspose.Page.Plugins](./) classes which are either directly in it like **[PsConverter](./psconverter/)** or indirectly through several subnamespaces.
 
 ## Classes
 

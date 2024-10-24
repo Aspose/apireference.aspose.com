@@ -24,7 +24,6 @@ Copy of this device.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Device](../../../aspose.page/device/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)
@@ -40,7 +39,6 @@ virtual System::SharedPtr<Aspose::Page::Device> Aspose::Page::EPS::Device::PdfDe
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Device](../../../aspose.page/device/)
 * Class [PdfDevice](../)
 * Namespace [Aspose::Page::EPS::Device](../../)
 * Library [Aspose.Page for C++](../../../)

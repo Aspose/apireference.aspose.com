@@ -4,7 +4,7 @@ linktitle: XmpField
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpField class. Represents XMP field in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.page.eps.xmp/xmpfield/
 ---
 ## XmpField class

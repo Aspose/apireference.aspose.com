@@ -4,7 +4,7 @@ linktitle: System::Web::Services
 second_title: Aspose.Page for C++
 description: 'How to use System::Web::Services namespace in C++.'
 type: docs
-weight: 6900
+weight: 6800
 url: /cpp/system.web.services/
 ---
 

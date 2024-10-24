@@ -4,7 +4,7 @@ linktitle: PageScalingScale
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageScalingScale class. Specifies the scaling factor for custom square scaling.  in C++.'
 type: docs
-weight: 12500
+weight: 12400
 url: /cpp/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

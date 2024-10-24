@@ -4,7 +4,7 @@ linktitle: OutputBin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::OutputBin class. The base class for JobOutputBin, DocumentOutputBin and PageOutputBin features classes in C++.'
 type: docs
-weight: 7800
+weight: 7700
 url: /cpp/aspose.page.xps.xpsmetadata/outputbin/
 ---
 ## OutputBin class

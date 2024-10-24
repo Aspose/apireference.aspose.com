@@ -4,7 +4,7 @@ linktitle: PageWatermarkTextAngle
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageWatermarkTextAngle class. Specifies the angle of the watermark text relative to the PageImageableSizeWidth direction. The angle is measured in the counter-clockwise direction.  in C++.'
 type: docs
-weight: 13500
+weight: 13400
 url: /cpp/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

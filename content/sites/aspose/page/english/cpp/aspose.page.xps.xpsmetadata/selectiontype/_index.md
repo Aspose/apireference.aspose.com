@@ -4,7 +4,7 @@ linktitle: SelectionType
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::SelectionType class. The convenience class for SelectionTypePrintTicket property in C++.'
 type: docs
-weight: 14800
+weight: 14700
 url: /cpp/aspose.page.xps.xpsmetadata/selectiontype/
 ---
 ## SelectionType class

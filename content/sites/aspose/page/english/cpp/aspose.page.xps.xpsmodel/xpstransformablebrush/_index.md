@@ -4,7 +4,7 @@ linktitle: XpsTransformableBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsTransformableBrush class. Class incapsulating common features of transformable brushes elements (all except SolidColorBrush) in C++.'
 type: docs
-weight: 4400
+weight: 4300
 url: /cpp/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

@@ -4,7 +4,7 @@ linktitle: System::Runtime::InteropServices
 second_title: Aspose.Page for C++
 description: 'How to use System::Runtime::InteropServices namespace in C++.'
 type: docs
-weight: 5300
+weight: 5200
 url: /cpp/system.runtime.interopservices/
 ---
 

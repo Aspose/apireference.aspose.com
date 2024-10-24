@@ -4,7 +4,7 @@ linktitle: XpsGradientStop
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGradientStop class. Class incapsulating GradientStop element features. This element is used by both the LinearGradientBrush and RadialGradientBrush elements to define the location and range of color progression for rendering a gradient in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

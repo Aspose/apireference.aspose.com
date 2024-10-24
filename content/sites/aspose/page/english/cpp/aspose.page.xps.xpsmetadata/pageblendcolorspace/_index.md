@@ -4,7 +4,7 @@ linktitle: PageBlendColorSpace
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlendColorSpace class. Describes the color space that should be used for blending operations.  in C++.'
 type: docs
-weight: 8700
+weight: 8600
 url: /cpp/aspose.page.xps.xpsmetadata/pageblendcolorspace/
 ---
 ## PageBlendColorSpace class

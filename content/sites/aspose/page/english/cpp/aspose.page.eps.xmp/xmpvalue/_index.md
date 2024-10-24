@@ -4,7 +4,7 @@ linktitle: XmpValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpValue class. Represents XMP value in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page.eps.xmp/xmpvalue/
 ---
 ## XmpValue class

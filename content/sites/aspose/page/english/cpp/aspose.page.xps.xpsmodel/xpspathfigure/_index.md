@@ -4,7 +4,7 @@ linktitle: XpsPathFigure
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathFigure class. Class incapsulating PathFigure element features. This element is composed of a set of one or more line or curve segments in C++.'
 type: docs
-weight: 3200
+weight: 3100
 url: /cpp/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

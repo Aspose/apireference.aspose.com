@@ -4,7 +4,7 @@ linktitle: StringParameterInit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::StringParameterInit class. Base class for all string parameter initializers in C++.'
 type: docs
-weight: 15000
+weight: 14900
 url: /cpp/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

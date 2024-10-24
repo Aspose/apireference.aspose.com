@@ -4,7 +4,7 @@ linktitle: PagePhotoPrintingIntent
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PagePhotoPrintingIntent class. Indicates a high-level intent to the driver for population of photo printing settings. These settings deal with the expected output quality a user may specify when printing photos.  in C++.'
 type: docs
-weight: 11800
+weight: 11700
 url: /cpp/aspose.page.xps.xpsmetadata/pagephotoprintingintent/
 ---
 ## PagePhotoPrintingIntent class

@@ -4,7 +4,7 @@ linktitle: ParameterRef
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::ParameterRef class. The class that implements a common PrintTicket parameter reference. A ParameterRef element defines a reference to a ParameterInit element. A ScoredProperty element that contains a ParameterRef element does not have an explicitly-set Value element. Instead, the ScoredProperty element receives its value from the ParameterInit element referenced by a ParameterRef element.  in C++.'
 type: docs
-weight: 14100
+weight: 14000
 url: /cpp/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

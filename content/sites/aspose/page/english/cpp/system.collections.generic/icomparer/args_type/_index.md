@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/icomparer/args_type/
 RTTI information.
 
 ```cpp
-const T& System::Collections::Generic::IComparer< T >::args_type
+T System::Collections::Generic::IComparer< T >::args_type
 ```
 
 ## Remarks

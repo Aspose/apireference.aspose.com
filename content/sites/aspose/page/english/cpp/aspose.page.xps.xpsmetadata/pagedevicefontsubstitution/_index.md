@@ -4,7 +4,7 @@ linktitle: PageDeviceFontSubstitution
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageDeviceFontSubstitution class. Describes the enabled/disabled state of device font substitution.  in C++.'
 type: docs
-weight: 9700
+weight: 9600
 url: /cpp/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution/
 ---
 ## PageDeviceFontSubstitution class

@@ -4,7 +4,7 @@ linktitle: PageWatermarkTextFontSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageWatermarkTextFontSize class. Defines the available font sizes for the watermark text.  in C++.'
 type: docs
-weight: 13700
+weight: 13600
 url: /cpp/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

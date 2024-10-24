@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/inputbin/inputbinoption/autoselect/
 ## AutoSelect field
 
 
-[Device](../../../../aspose.page/device/) will automatically choose best option based on configuration.
+Device will automatically choose best option based on configuration.
 
 ```cpp
 static System::SharedPtr<InputBin::InputBinOption> Aspose::Page::XPS::XpsMetadata::InputBin::InputBinOption::AutoSelect

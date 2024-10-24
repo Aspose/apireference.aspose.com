@@ -4,7 +4,7 @@ linktitle: QNameValue
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::QNameValue class. The class that incapsulates a QName value in a PrintTicket document in C++.'
 type: docs
-weight: 14500
+weight: 14400
 url: /cpp/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

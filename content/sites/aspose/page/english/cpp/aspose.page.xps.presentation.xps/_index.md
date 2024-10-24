@@ -4,7 +4,7 @@ linktitle: Aspose::Page::XPS::Presentation::Xps
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::Presentation::Xps namespace in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.page.xps.presentation.xps/
 ---
 

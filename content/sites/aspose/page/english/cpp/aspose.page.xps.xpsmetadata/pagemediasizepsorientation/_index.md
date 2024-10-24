@@ -4,7 +4,7 @@ linktitle: PageMediaSizePSOrientation
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSizePSOrientation class. Specifies the orientation relative to the feed-orientation direction  in C++.'
 type: docs
-weight: 10800
+weight: 10700
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasizepsorientation/
 ---
 ## PageMediaSizePSOrientation class

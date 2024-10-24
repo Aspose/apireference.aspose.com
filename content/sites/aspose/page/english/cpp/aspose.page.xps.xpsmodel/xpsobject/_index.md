@@ -4,7 +4,7 @@ linktitle: XpsObject
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsObject class. Class incapsulating common XPS model object features in C++.'
 type: docs
-weight: 2800
+weight: 2700
 url: /cpp/aspose.page.xps.xpsmodel/xpsobject/
 ---
 ## XpsObject class

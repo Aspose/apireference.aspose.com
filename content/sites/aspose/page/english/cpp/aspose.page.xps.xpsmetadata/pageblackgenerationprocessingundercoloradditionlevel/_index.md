@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingUnderColorAdditionLevel
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingUnderColorAdditionLevel class. Describes the amount chromatic ink (in gray component ratios) to add to areas where GCR/UCR has generated "BlackInkLimit" (or UCAStart, if specified) in the dark neutrals and near-neutral areas.  in C++.'
 type: docs
-weight: 8500
+weight: 8400
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionlevel/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionLevel class

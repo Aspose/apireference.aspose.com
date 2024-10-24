@@ -4,7 +4,7 @@ linktitle: XpsColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsColor class. The base class incapsulating common color features in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

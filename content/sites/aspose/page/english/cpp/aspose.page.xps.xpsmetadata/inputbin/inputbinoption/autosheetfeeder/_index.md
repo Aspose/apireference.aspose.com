@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps.xpsmetadata/inputbin/inputbinoption/autosheetfeeder/
 ## AutoSheetFeeder field
 
 
-[Device](../../../../aspose.page/device/) Input tray for Inkjet Printers.
+Device Input tray for Inkjet Printers.
 
 ```cpp
 static System::SharedPtr<InputBin::InputBinOption> Aspose::Page::XPS::XpsMetadata::InputBin::InputBinOption::AutoSheetFeeder

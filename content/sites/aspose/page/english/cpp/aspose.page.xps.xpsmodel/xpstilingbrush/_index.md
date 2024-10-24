@@ -4,7 +4,7 @@ linktitle: XpsTilingBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsTilingBrush class. Class incapsulating common features of tiling brushes elements (VisualBrush and ImageBrush) in C++.'
 type: docs
-weight: 4300
+weight: 4200
 url: /cpp/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

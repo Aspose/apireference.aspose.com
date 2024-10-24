@@ -4,7 +4,7 @@ linktitle: Option
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Option class. The class that implements a common PrintTicketOption. The base class for all schema-defined options. An Option element contains all of the Property and ScoredProperty elements associated with this option.  in C++.'
 type: docs
-weight: 7700
+weight: 7600
 url: /cpp/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

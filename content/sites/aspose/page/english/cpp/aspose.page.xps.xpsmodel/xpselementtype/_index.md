@@ -4,7 +4,7 @@ linktitle: XpsElementType
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::XpsModel::XpsElementType enum in C++.'
 type: docs
-weight: 4900
+weight: 4800
 url: /cpp/aspose.page.xps.xpsmodel/xpselementtype/
 ---
 ## XpsElementType enum

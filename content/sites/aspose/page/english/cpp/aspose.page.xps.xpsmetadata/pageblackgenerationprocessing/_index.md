@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessing
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessing class. Specifies black generation behavior for CMYK separations.  in C++.'
 type: docs
-weight: 7900
+weight: 7800
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing/
 ---
 ## PageBlackGenerationProcessing class

@@ -4,7 +4,7 @@ linktitle: PageDestinationColorProfile
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageDestinationColorProfile class. Defines the characteristics of the destination color profile. Describes whether the application or driver selects the destination color profile to be used.  in C++.'
 type: docs
-weight: 9200
+weight: 9100
 url: /cpp/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

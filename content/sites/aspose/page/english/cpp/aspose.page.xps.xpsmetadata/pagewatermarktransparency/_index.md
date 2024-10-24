@@ -4,7 +4,7 @@ linktitle: PageWatermarkTransparency
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageWatermarkTransparency class. Specifies the transparency for the watermark. Fully opaque would have a value of 0.  in C++.'
 type: docs
-weight: 13900
+weight: 13800
 url: /cpp/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

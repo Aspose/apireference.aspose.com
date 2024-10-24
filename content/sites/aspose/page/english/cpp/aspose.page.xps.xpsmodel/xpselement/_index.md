@@ -4,7 +4,7 @@ linktitle: XpsElement
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsElement class. Class incapsulating common XPS element features in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

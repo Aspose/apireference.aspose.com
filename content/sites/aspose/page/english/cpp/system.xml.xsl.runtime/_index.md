@@ -4,7 +4,7 @@ linktitle: System::Xml::Xsl::Runtime
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::Xsl::Runtime namespace in C++.'
 type: docs
-weight: 8000
+weight: 7900
 url: /cpp/system.xml.xsl.runtime/
 ---
 

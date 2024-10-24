@@ -124,7 +124,6 @@ PdfDevice class is deprecated beginning from 24.3. Please use SaveAsPdf method i
 
 ## See Also
 
-* Class [Device](../../aspose.page/device/)
 * Class [IMultiPageDevice](../../aspose.page/imultipagedevice/)
 * Class [IStreamable](../../aspose.page/istreamable/)
 * Namespace [Aspose::Page::EPS::Device](../)

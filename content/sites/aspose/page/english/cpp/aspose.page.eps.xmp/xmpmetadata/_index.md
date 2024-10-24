@@ -4,7 +4,7 @@ linktitle: XmpMetadata
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpMetadata class. Provides access to XMP metadata stream in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.eps.xmp/xmpmetadata/
 ---
 ## XmpMetadata class

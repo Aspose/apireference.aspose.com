@@ -4,7 +4,7 @@ linktitle: PageWatermarkTextColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageWatermarkTextColor class. Defines the sRGB color for the watermark text. Format is ARGB: #AARRGGBB.  in C++.'
 type: docs
-weight: 13600
+weight: 13500
 url: /cpp/aspose.page.xps.xpsmetadata/pagewatermarktextcolor/
 ---
 ## PageWatermarkTextColor class

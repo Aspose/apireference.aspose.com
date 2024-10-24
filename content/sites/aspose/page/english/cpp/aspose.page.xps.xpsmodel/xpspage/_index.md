@@ -4,7 +4,7 @@ linktitle: XpsPage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPage class. Class incapsulating FixedPage element features. This element contains the contents of a page and is the root element of a FixedPage part in C++.'
 type: docs
-weight: 2900
+weight: 2800
 url: /cpp/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

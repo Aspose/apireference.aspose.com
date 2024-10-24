@@ -4,7 +4,7 @@ linktitle: PageMediaSizePSWidth
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSizePSWidth class. Specifies the width of the page perpendicular to the feed-orientation direction.  in C++.'
 type: docs
-weight: 10900
+weight: 10800
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasizepswidth/
 ---
 ## PageMediaSizePSWidth class

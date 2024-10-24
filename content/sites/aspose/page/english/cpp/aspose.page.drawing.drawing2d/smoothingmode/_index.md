@@ -4,7 +4,7 @@ linktitle: SmoothingMode
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::Drawing::Drawing2D::SmoothingMode enum in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.drawing.drawing2d/smoothingmode/
 ---
 ## SmoothingMode enum

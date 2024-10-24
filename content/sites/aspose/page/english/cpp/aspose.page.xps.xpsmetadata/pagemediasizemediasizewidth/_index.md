@@ -4,7 +4,7 @@ linktitle: PageMediaSizeMediaSizeWidth
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSizeMediaSizeWidth class. Specifies the dimension MediaSizeHeight direction for the Custom MediaSize option.  in C++.'
 type: docs
-weight: 10500
+weight: 10400
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasizemediasizewidth/
 ---
 ## PageMediaSizeMediaSizeWidth class

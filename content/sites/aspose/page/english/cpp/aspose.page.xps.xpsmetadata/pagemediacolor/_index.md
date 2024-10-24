@@ -4,7 +4,7 @@ linktitle: PageMediaColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaColor class. Describes the Media Color options and the characteristics of each option.  in C++.'
 type: docs
-weight: 10200
+weight: 10100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediacolor/
 ---
 ## PageMediaColor class

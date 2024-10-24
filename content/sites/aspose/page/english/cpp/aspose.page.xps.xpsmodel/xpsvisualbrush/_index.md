@@ -4,7 +4,7 @@ linktitle: XpsVisualBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsVisualBrush class. Class incapsulating VisualBrush property element features. This element is used to fill a region with a drawing in C++.'
 type: docs
-weight: 4500
+weight: 4400
 url: /cpp/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

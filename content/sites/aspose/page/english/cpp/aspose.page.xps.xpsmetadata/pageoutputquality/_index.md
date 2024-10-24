@@ -4,7 +4,7 @@ linktitle: PageOutputQuality
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageOutputQuality class. Describes the negative setting of the output.  in C++.'
 type: docs
-weight: 11700
+weight: 11600
 url: /cpp/aspose.page.xps.xpsmetadata/pageoutputquality/
 ---
 ## PageOutputQuality class

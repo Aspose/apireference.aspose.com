@@ -4,7 +4,7 @@ linktitle: System::Collections::ObjectModel
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::ObjectModel namespace in C++.'
 type: docs
-weight: 2600
+weight: 2500
 url: /cpp/system.collections.objectmodel/
 ---
 

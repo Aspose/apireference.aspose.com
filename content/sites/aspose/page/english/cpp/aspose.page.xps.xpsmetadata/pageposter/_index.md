@@ -4,7 +4,7 @@ linktitle: PagePoster
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PagePoster class. Describes the output of a single page to multiple physical media sheets.  in C++.'
 type: docs
-weight: 11900
+weight: 11800
 url: /cpp/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

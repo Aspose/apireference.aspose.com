@@ -4,7 +4,7 @@ linktitle: XpsRgbColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsRgbColor class. Incapsulates RGB color of any color space (sRGB or scRGB) in C++.'
 type: docs
-weight: 4100
+weight: 4000
 url: /cpp/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

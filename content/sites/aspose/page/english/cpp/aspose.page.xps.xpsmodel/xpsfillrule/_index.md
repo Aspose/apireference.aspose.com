@@ -4,7 +4,7 @@ linktitle: XpsFillRule
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsFillRule enum. Valid values of PathGeometry element''s FillRule property in C++.'
 type: docs
-weight: 5000
+weight: 4900
 url: /cpp/aspose.page.xps.xpsmodel/xpsfillrule/
 ---
 ## XpsFillRule enum

@@ -4,7 +4,7 @@ linktitle: Margins
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Margins class. This class encapsulates top, left, bottom and right margins in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.page/margins/
 ---
 ## Margins class

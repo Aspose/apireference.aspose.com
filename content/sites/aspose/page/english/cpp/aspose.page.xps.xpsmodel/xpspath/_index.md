@@ -4,7 +4,7 @@ linktitle: XpsPath
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPath class. Class incapsulating Path element features. This element is the sole means of adding vector graphics and images to a fixed page. It defines a single vector graphic to be rendered on a page in C++.'
 type: docs
-weight: 3100
+weight: 3000
 url: /cpp/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

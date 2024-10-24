@@ -4,7 +4,7 @@ linktitle: PageMediaSizePSHeight
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSizePSHeight class. Specifies the height of the page, parallel to the feed-orientation direction.  in C++.'
 type: docs
-weight: 10600
+weight: 10500
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasizepsheight/
 ---
 ## PageMediaSizePSHeight class

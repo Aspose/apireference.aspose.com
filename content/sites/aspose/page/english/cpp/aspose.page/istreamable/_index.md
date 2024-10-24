@@ -4,7 +4,7 @@ linktitle: IStreamable
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IStreamable class. This interface is used for dervices that renders document to a stream in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.page/istreamable/
 ---
 ## IStreamable class

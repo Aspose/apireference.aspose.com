@@ -4,7 +4,7 @@ linktitle: PageBlendColorSpaceICCProfileURI
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlendColorSpaceICCProfileURI class. Specifies a relative URI reference to an ICC profile defining the color space that SHOULD be used for blending. The <Uri> is an absolute part_name relative to the package root.  in C++.'
 type: docs
-weight: 8800
+weight: 8700
 url: /cpp/aspose.page.xps.xpsmetadata/pageblendcolorspaceiccprofileuri/
 ---
 ## PageBlendColorSpaceICCProfileURI class

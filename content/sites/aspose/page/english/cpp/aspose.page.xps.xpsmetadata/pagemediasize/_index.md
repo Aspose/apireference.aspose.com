@@ -4,7 +4,7 @@ linktitle: PageMediaSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSize class. Describes the physical media dimensions used for the output.  in C++.'
 type: docs
-weight: 10300
+weight: 10200
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasize/
 ---
 ## PageMediaSize class

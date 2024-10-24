@@ -4,7 +4,7 @@ linktitle: PageWatermarkTextText
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageWatermarkTextText class. Specifies the text of the watermark.  in C++.'
 type: docs
-weight: 13800
+weight: 13700
 url: /cpp/aspose.page.xps.xpsmetadata/pagewatermarktexttext/
 ---
 ## PageWatermarkTextText class

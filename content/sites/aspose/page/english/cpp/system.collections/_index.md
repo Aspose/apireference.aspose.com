@@ -4,7 +4,7 @@ linktitle: System::Collections
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections namespace in C++.'
 type: docs
-weight: 2300
+weight: 2200
 url: /cpp/system.collections/
 ---
 

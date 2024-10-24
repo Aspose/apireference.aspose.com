@@ -4,7 +4,7 @@ linktitle: XpsSpreadMethod
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsSpreadMethod enum. Valid values of gradient brushes'' SpreadMethod property in C++.'
 type: docs
-weight: 5300
+weight: 5200
 url: /cpp/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enum

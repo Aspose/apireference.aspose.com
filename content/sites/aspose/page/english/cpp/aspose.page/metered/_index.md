@@ -4,7 +4,7 @@ linktitle: Metered
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::Metered class. Provides methods to set metered key in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/aspose.page/metered/
 ---
 ## Metered class

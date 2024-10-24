@@ -4,7 +4,7 @@ linktitle: PageCopies
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageCopies class. Specifies the number of copies of a page.  in C++.'
 type: docs
-weight: 9100
+weight: 9000
 url: /cpp/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

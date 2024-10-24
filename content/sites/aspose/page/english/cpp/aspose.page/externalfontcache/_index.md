@@ -4,13 +4,13 @@ linktitle: ExternalFontCache
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::ExternalFontCache class. Use this class to obtain font encapsulation in a form that is accepted by Device in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.page/externalfontcache/
 ---
 ## ExternalFontCache class
 
 
-Use this class to obtain font encapsulation in a form that is accepted by [Device](../device/).
+Use this class to obtain font encapsulation in a form that is accepted by [Device](../).
 
 ```cpp
 class ExternalFontCache : public System::Object

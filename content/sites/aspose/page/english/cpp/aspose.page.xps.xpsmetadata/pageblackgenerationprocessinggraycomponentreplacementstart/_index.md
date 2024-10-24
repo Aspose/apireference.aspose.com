@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingGrayComponentReplacementStart
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingGrayComponentReplacementStart class. Describes the point in the "highlight to shadow" range where GCR should start (100% darkest shadow).  in C++.'
 type: docs
-weight: 8300
+weight: 8200
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementStart class

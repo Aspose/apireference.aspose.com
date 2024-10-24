@@ -4,7 +4,7 @@ linktitle: PageScalingOffsetHeight
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageScalingOffsetHeight class. Specifies the scaling offset in the ImageableSizeWidth direction for custom scaling.  in C++.'
 type: docs
-weight: 12300
+weight: 12200
 url: /cpp/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

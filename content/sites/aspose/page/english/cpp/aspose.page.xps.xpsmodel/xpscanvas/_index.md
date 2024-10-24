@@ -4,7 +4,7 @@ linktitle: XpsCanvas
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsCanvas class. Class incapsulating Canvas element features. This element groups elements together. For example, Glyphs and Path elements can be grouped in a canvas in order to be identified as a unit (as a hyperlink destination) or to apply a composed property value to each child and ancestor element in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

@@ -4,7 +4,7 @@ linktitle: PrintTicketElement
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PrintTicketElement class. The base class for classes that may be Print Schema elements in C++.'
 type: docs
-weight: 14300
+weight: 14200
 url: /cpp/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

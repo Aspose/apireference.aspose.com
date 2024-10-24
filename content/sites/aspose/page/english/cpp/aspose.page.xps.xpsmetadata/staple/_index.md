@@ -4,7 +4,7 @@ linktitle: Staple
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Staple class. The base class for JobStapleAllDocuments and DocumentStaple features classes in C++.'
 type: docs
-weight: 14900
+weight: 14800
 url: /cpp/aspose.page.xps.xpsmetadata/staple/
 ---
 ## Staple class

@@ -4,7 +4,7 @@ linktitle: System::Text::RegularExpressions
 second_title: Aspose.Page for C++
 description: 'How to use System::Text::RegularExpressions namespace in C++.'
 type: docs
-weight: 6500
+weight: 6400
 url: /cpp/system.text.regularexpressions/
 ---
 

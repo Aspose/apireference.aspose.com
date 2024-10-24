@@ -4,7 +4,7 @@ linktitle: ScoredProperty
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::ScoredProperty class. The class that implements a common PrintTicketScoredProperty. The base class for all schema-defined scored properties. A ScoredProperty element declares a property that is intrinsic to an Option definition. Such properties should be compared when evaluating how closely a requested Option matches a device-supported Option.  in C++.'
 type: docs
-weight: 14700
+weight: 14600
 url: /cpp/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

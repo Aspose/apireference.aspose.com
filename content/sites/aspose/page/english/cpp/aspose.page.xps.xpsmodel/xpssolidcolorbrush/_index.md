@@ -4,7 +4,7 @@ linktitle: XpsSolidColorBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsSolidColorBrush class. Class incapsulating SolidColorBrush property element features. This element is used to fill defined geometric regions with a solid color in C++.'
 type: docs
-weight: 4200
+weight: 4100
 url: /cpp/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

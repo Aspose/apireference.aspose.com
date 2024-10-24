@@ -4,7 +4,7 @@ linktitle: XpsContext
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::XpsModel::XpsContext class in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.page.xps.xpsmodel/xpscontext/
 ---
 ## XpsContext class

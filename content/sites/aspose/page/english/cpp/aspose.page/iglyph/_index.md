@@ -4,7 +4,7 @@ linktitle: IGlyph
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IGlyph class. This interface give access to main parameters of glyphs in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.page/iglyph/
 ---
 ## IGlyph class

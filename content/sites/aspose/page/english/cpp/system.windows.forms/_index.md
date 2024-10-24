@@ -4,7 +4,7 @@ linktitle: System::Windows::Forms
 second_title: Aspose.Page for C++
 description: 'How to use System::Windows::Forms namespace in C++.'
 type: docs
-weight: 7300
+weight: 7200
 url: /cpp/system.windows.forms/
 ---
 

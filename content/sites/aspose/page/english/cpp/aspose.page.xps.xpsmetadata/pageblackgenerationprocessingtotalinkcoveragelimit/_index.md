@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingTotalInkCoverageLimit class. Specifies the maximum allowed sum of the four ink coverage anywhere in an image.  in C++.'
 type: docs
-weight: 8400
+weight: 8300
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit class

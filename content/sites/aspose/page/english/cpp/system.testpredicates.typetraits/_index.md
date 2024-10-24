@@ -4,7 +4,7 @@ linktitle: System::TestPredicates::TypeTraits
 second_title: Aspose.Page for C++
 description: 'How to use System::TestPredicates::TypeTraits namespace in C++.'
 type: docs
-weight: 6300
+weight: 6200
 url: /cpp/system.testpredicates.typetraits/
 ---
 

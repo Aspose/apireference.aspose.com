@@ -4,7 +4,7 @@ linktitle: XpsIccProfile
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsIccProfile class. Class incapsulating an ICC profile resource in C++.'
 type: docs
-weight: 2300
+weight: 2200
 url: /cpp/aspose.page.xps.xpsmodel/xpsiccprofile/
 ---
 ## XpsIccProfile class

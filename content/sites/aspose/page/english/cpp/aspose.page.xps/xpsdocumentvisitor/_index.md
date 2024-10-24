@@ -4,7 +4,7 @@ linktitle: XpsDocumentVisitor
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::XpsDocumentVisitor class in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.page.xps/xpsdocumentvisitor/
 ---
 ## XpsDocumentVisitor class

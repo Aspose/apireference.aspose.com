@@ -4,7 +4,7 @@ linktitle: PageSourceColorProfileEmbedded
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageSourceColorProfileEmbedded class. Specifies the embedded source color profile in C++.'
 type: docs
-weight: 12900
+weight: 12800
 url: /cpp/aspose.page.xps.xpsmetadata/pagesourcecolorprofileembedded/
 ---
 ## PageSourceColorProfileEmbedded class

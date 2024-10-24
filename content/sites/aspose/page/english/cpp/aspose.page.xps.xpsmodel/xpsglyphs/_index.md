@@ -4,7 +4,7 @@ linktitle: XpsGlyphs
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGlyphs class. Class incapsulating Glyphs element features. This element represents a run of uniformly-formatted text from a single font. It provides information necessary for accurate rendering and supports search and selection features in viewing consumers in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

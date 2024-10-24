@@ -4,7 +4,7 @@ linktitle: System::Drawing::Text
 second_title: Aspose.Page for C++
 description: 'How to use System::Drawing::Text namespace in C++.'
 type: docs
-weight: 3800
+weight: 3700
 url: /cpp/system.drawing.text/
 ---
 

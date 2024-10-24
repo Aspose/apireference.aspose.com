@@ -13,26 +13,25 @@ is_root: true
 
 | Namespace | Description |
 | --- | --- |
-| [Aspose::Page](./aspose.page/) |  |
-| [Aspose::Page::Drawing](./aspose.page.drawing/) |  |
-| [Aspose::Page::Drawing::Drawing2D](./aspose.page.drawing.drawing2d/) |  |
-| [Aspose::Page::Drawing::Imaging](./aspose.page.drawing.imaging/) |  |
-| [Aspose::Page::EPS](./aspose.page.eps/) |  |
-| [Aspose::Page::EPS::Device](./aspose.page.eps.device/) |  |
+| [Aspose::Page](./aspose.page/) | The **[Aspose.Page](./aspose.page/)** is a root namespace for all classes of [Aspose.Page](./aspose.page/) library which are either directly in it like **Device** or indirectly through several subnamespaces. |
+| [Aspose::Page::Drawing](./aspose.page.drawing/) | The **[Aspose.Page.Drawing](./aspose.page.drawing/)** is a root namespace for [System.Drawing](./system.drawing/) wrapper classes. |
+| [Aspose::Page::Drawing::Drawing2D](./aspose.page.drawing.drawing2d/) | The **[Aspose.Page.Drawing.Drawing2D](./aspose.page.drawing.drawing2d/)** is a root namespace for [System.Drawing.Drawing2D](./system.drawing.drawing2d/) wrapper classes. |
+| [Aspose::Page::Drawing::Imaging](./aspose.page.drawing.imaging/) | The **[Aspose.Page.Drawing.Imaging](./aspose.page.drawing.imaging/)** is a root namespace for [System.Drawing.Imaging](./system.drawing.imaging/) wrapper classes. |
+| [Aspose::Page::EPS](./aspose.page.eps/) | The **[Aspose.Page.EPS](./aspose.page.eps/)** is a root namespace for all classes that deal with PS/EPS files. |
+| [Aspose::Page::EPS::Device](./aspose.page.eps.device/) | The **[Aspose.Page.EPS.Device](./aspose.page.eps.device/)** namespace provides classes of possible devices and save options that can be used while converting PS/EPS to other formats. |
 | [Aspose::Page::EPS::Util](./aspose.page.eps.util/) |  |
-| [Aspose::Page::EPS::XMP](./aspose.page.eps.xmp/) |  |
-| [Aspose::Page::Font](./aspose.page.font/) |  |
-| [Aspose::Page::Plugins](./aspose.page.plugins/) |  |
-| [Aspose::Page::XPS](./aspose.page.xps/) |  |
-| [Aspose::Page::XPS::Features](./aspose.page.xps.features/) |  |
+| [Aspose::Page::EPS::XMP](./aspose.page.eps.xmp/) | The **[Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/)** namespace provides classes for reading, changing [XMP](./aspose.page.eps.xmp/) metadata in [EPS](./aspose.page.eps/) files. |
+| [Aspose::Page::Font](./aspose.page.font/) | The **[Aspose.Page.Font](./aspose.page.font/)** namespace contains classes for fonts manipulation. |
+| [Aspose::Page::Plugins](./aspose.page.plugins/) | The **[Aspose.Page.Plugins](./aspose.page.plugins/)** is a root namespace for all classes of [Aspose.Page.Plugins](./aspose.page.plugins/) classes which are either directly in it like **[PsConverter](./aspose.page.plugins/psconverter/)** or indirectly through several subnamespaces. |
+| [Aspose::Page::XPS](./aspose.page.xps/) | The **[Aspose.Page.XPS](./aspose.page.xps/)** is a root namespace for all classes that deal with [XPS](./aspose.page.xps/) document. |
+| [Aspose::Page::XPS::Features](./aspose.page.xps.features/) | The **Aspose.Page.Xps.Features** namespace provides features beyond the [XPS](./aspose.page.xps/) specification. |
 | [Aspose::Page::XPS::Features::EventBasedModifications](./aspose.page.xps.features.eventbasedmodifications/) |  |
-| [Aspose::Page::XPS::Presentation](./aspose.page.xps.presentation/) |  |
-| [Aspose::Page::XPS::Presentation::Aps](./aspose.page.xps.presentation.aps/) |  |
-| [Aspose::Page::XPS::Presentation::Image](./aspose.page.xps.presentation.image/) |  |
-| [Aspose::Page::XPS::Presentation::Pdf](./aspose.page.xps.presentation.pdf/) |  |
+| [Aspose::Page::XPS::Presentation](./aspose.page.xps.presentation/) | The **Aspose.Page.Xps.Presentation** namespace provides base classes for rendering [XPS](./aspose.page.xps/) document to other formats. |
+| [Aspose::Page::XPS::Presentation::Image](./aspose.page.xps.presentation.image/) | The **Aspose.Page.Xps.Presentation.Image** namespace provides classes for rendering [XPS](./aspose.page.xps/) document to an image. |
+| [Aspose::Page::XPS::Presentation::Pdf](./aspose.page.xps.presentation.pdf/) | The **Aspose.Page.Xps.Presentation.Pdf** namespace provides classes for rendering [XPS](./aspose.page.xps/) document to PDF document. |
 | [Aspose::Page::XPS::Presentation::Xps](./aspose.page.xps.presentation.xps/) |  |
-| [Aspose::Page::XPS::XpsMetadata](./aspose.page.xps.xpsmetadata/) |  |
-| [Aspose::Page::XPS::XpsModel](./aspose.page.xps.xpsmodel/) |  |
+| [Aspose::Page::XPS::XpsMetadata](./aspose.page.xps.xpsmetadata/) | The **Aspose.Page.Xps.XpsMetadata** namespace provides classes that describe metadata of [XPS](./aspose.page.xps/) document. |
+| [Aspose::Page::XPS::XpsModel](./aspose.page.xps.xpsmodel/) | The **Aspose.Page.Xps.XpsModel** namespace provides classes that describe elements of [XPS](./aspose.page.xps/) document. |
 | [Aspose::Page::XPS::XpsPackageParts](./aspose.page.xps.xpspackageparts/) |  |
 | [System](./system/) |  |
 | [System::Collections](./system.collections/) |  |
