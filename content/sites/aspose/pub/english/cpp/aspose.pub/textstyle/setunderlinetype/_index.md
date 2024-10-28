@@ -4,7 +4,7 @@ linktitle: SetUnderlineType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetUnderlineType method. Sets underline type for text in C++.'
 type: docs
-weight: 1900
+weight: 3200
 url: /cpp/aspose.pub/textstyle/setunderlinetype/
 ---
 ## TextStyle::SetUnderlineType method

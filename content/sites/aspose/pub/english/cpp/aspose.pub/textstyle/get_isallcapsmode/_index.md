@@ -4,7 +4,7 @@ linktitle: get_IsAllCapsMode
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::get_IsAllCapsMode method. Is all caps mode enabled in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pub/textstyle/get_isallcapsmode/
 ---
 ## TextStyle::get_IsAllCapsMode method

@@ -4,7 +4,7 @@ linktitle: AlignmentType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::AlignmentType enum. Type of alignment in C++.'
 type: docs
-weight: 4400
+weight: 3800
 url: /cpp/aspose.pub/alignmenttype/
 ---
 ## AlignmentType enum

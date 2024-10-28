@@ -4,7 +4,7 @@ linktitle: EscherOptionalDataDict
 second_title: Aspose.PUB for C++
 description: 'How to use EscherOptionalDataDict constructor of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/escheroptionaldatadict/
 ---
 ## EscherOptionalDataDict::EscherOptionalDataDict constructor

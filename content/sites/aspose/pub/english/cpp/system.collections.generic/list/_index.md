@@ -104,15 +104,15 @@ template<typename T>class List : public virtual System::Object,
 
 | Typedef | Description |
 | --- | --- |
-| [ValueType](./valuetype/) | This type. |
 | [BaseType](./basetype/) | Interface type. |
-| [vector_t](./vector_t/) | RTTI information. |
-| [iterator](./iterator/) | Iterator type. |
 | [const_iterator](./const_iterator/) | Const iterator type. |
-| [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
 | [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
 | [IEnumerablePtr](./ienumerableptr/) | Container holding elements of same type we hold. |
 | [IEnumeratorPtr](./ienumeratorptr/) | [Enumerator](./enumerator/) type. |
+| [iterator](./iterator/) | Iterator type. |
+| [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
+| [ValueType](./valuetype/) | This type. |
+| [vector_t](./vector_t/) | RTTI information. |
 ## Remarks
 
 

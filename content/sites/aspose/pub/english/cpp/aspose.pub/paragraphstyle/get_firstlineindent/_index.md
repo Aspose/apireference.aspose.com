@@ -4,7 +4,7 @@ linktitle: get_FirstLineIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::get_FirstLineIndent method. First line indent in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pub/paragraphstyle/get_firstlineindent/
 ---
 ## ParagraphStyle::get_FirstLineIndent method

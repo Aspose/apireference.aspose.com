@@ -4,7 +4,7 @@ linktitle: _UploadCustomerData
 second_title: Aspose.PUB for C++
 description: 'How to use _UploadCustomerData method of Aspose::Pub::MeteredBillingService class in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/aspose.pub/meteredbillingservice/_uploadcustomerdata/
 ---
 ## MeteredBillingService::_UploadCustomerData method

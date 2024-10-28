@@ -4,7 +4,7 @@ linktitle: get_Angle
 second_title: Aspose.PUB for C++
 description: 'How to use get_Angle method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pub/gradientfill/get_angle/
 ---
 ## GradientFill::get_Angle method

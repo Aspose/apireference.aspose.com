@@ -4,7 +4,7 @@ linktitle: set_DocumentStream
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageStreamItem::set_DocumentStream method. Publisher document input stream in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pub/packagestreamitem/set_documentstream/
 ---
 ## PackageStreamItem::set_DocumentStream method

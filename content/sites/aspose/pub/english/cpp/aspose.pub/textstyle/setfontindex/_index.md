@@ -4,7 +4,7 @@ linktitle: SetFontIndex
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetFontIndex method. Sets index of font name in Document.FontNames array in C++.'
 type: docs
-weight: 2900
+weight: 1900
 url: /cpp/aspose.pub/textstyle/setfontindex/
 ---
 ## TextStyle::SetFontIndex method

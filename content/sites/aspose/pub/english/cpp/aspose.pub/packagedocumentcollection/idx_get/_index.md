@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageDocumentCollection::idx_get method. Gets a document by index in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pub/packagedocumentcollection/idx_get/
 ---
 ## PackageDocumentCollection::idx_get method

@@ -4,7 +4,7 @@ linktitle: SetTitle
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::SetTitle method. Sets title of the document in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/aspose.pub/summaryinfo/settitle/
 ---
 ## SummaryInfo::SetTitle method

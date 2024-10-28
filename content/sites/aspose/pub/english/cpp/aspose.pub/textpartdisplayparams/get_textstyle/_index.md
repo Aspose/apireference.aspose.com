@@ -4,7 +4,7 @@ linktitle: get_TextStyle
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextPartDisplayParams::get_TextStyle method. Text style in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pub/textpartdisplayparams/get_textstyle/
 ---
 ## TextPartDisplayParams::get_TextStyle method

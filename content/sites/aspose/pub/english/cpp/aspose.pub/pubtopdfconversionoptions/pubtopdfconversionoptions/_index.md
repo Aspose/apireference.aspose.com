@@ -4,7 +4,7 @@ linktitle: PubToPdfConversionOptions
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PubToPdfConversionOptions::PubToPdfConversionOptions constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pub/pubtopdfconversionoptions/pubtopdfconversionoptions/
 ---
 ## PubToPdfConversionOptions::PubToPdfConversionOptions() constructor
@@ -18,28 +18,6 @@ Aspose::Pub::PubToPdfConversionOptions::PubToPdfConversionOptions()
 
 ## See Also
 
-* Class [PubToPdfConversionOptions](../)
-* Namespace [Aspose::Pub](../../)
-* Library [Aspose.PUB for C++](../../../)
-## PubToPdfConversionOptions::PubToPdfConversionOptions(System::ArrayPtr\<System::SharedPtr\<FontSubstitution\>\>) constructor
-
-
-Constructor.
-
-```cpp
-Aspose::Pub::PubToPdfConversionOptions::PubToPdfConversionOptions(System::ArrayPtr<System::SharedPtr<FontSubstitution>> fontSubstitutions)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSubstitutions | System::ArrayPtr\<System::SharedPtr\<FontSubstitution\>\> | Array of [FontSubstitution](../../fontsubstitution/) objects/> |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FontSubstitution](../../fontsubstitution/)
 * Class [PubToPdfConversionOptions](../)
 * Namespace [Aspose::Pub](../../)
 * Library [Aspose.PUB for C++](../../../)
@@ -62,6 +40,28 @@ Aspose::Pub::PubToPdfConversionOptions::PubToPdfConversionOptions(System::ArrayP
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSource](../../fontsource/)
+* Class [PubToPdfConversionOptions](../)
+* Namespace [Aspose::Pub](../../)
+* Library [Aspose.PUB for C++](../../../)
+## PubToPdfConversionOptions::PubToPdfConversionOptions(System::ArrayPtr\<System::SharedPtr\<FontSubstitution\>\>) constructor
+
+
+Constructor.
+
+```cpp
+Aspose::Pub::PubToPdfConversionOptions::PubToPdfConversionOptions(System::ArrayPtr<System::SharedPtr<FontSubstitution>> fontSubstitutions)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontSubstitutions | System::ArrayPtr\<System::SharedPtr\<FontSubstitution\>\> | Array of [FontSubstitution](../../fontsubstitution/) objects/> |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FontSubstitution](../../fontsubstitution/)
 * Class [PubToPdfConversionOptions](../)
 * Namespace [Aspose::Pub](../../)
 * Library [Aspose.PUB for C++](../../../)

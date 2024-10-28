@@ -4,7 +4,7 @@ linktitle: GetManifestResourceStream
 second_title: Aspose.PUB for C++
 description: 'System::Reflection::Assembly::GetManifestResourceStream method. Gets stream connected to manifest resource in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.reflection/assembly/getmanifestresourcestream/
 ---
 ## Assembly::GetManifestResourceStream method

@@ -60,8 +60,8 @@ template<class T>class Collection : public System::Collections::Generic::IList<T
 
 | Typedef | Description |
 | --- | --- |
-| [reverse_iterator](./reverse_iterator/) |  |
 | [const_reverse_iterator](./const_reverse_iterator/) |  |
+| [reverse_iterator](./reverse_iterator/) |  |
 
 ## See Also
 

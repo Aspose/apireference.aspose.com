@@ -4,7 +4,7 @@ linktitle: ThisType
 second_title: Aspose.PUB for C++
 description: 'System::Collections::Generic::BaseSet::ThisType typedef. Self type in C++.'
 type: docs
-weight: 1900
+weight: 2600
 url: /cpp/system.collections.generic/baseset/thistype/
 ---
 ## ThisType typedef

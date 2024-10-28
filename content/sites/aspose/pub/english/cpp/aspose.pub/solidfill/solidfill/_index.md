@@ -4,7 +4,7 @@ linktitle: SolidFill
 second_title: Aspose.PUB for C++
 description: 'How to use SolidFill constructor of Aspose::Pub::SolidFill class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pub/solidfill/solidfill/
 ---
 ## SolidFill::SolidFill constructor

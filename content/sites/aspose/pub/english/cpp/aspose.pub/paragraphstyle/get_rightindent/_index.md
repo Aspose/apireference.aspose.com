@@ -4,7 +4,7 @@ linktitle: get_RightIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::get_RightIndent method. Right indent in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/aspose.pub/paragraphstyle/get_rightindent/
 ---
 ## ParagraphStyle::get_RightIndent method

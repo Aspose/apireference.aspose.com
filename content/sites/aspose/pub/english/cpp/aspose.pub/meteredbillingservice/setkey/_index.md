@@ -4,7 +4,7 @@ linktitle: Setkey
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MeteredBillingService::Setkey method. Sets the subscription public and private key in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.pub/meteredbillingservice/setkey/
 ---
 ## MeteredBillingService::Setkey method

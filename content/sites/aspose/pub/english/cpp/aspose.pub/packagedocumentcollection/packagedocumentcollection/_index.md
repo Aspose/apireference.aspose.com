@@ -4,7 +4,7 @@ linktitle: PackageDocumentCollection
 second_title: Aspose.PUB for C++
 description: 'How to use PackageDocumentCollection constructor of Aspose::Pub::PackageDocumentCollection class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.pub/packagedocumentcollection/packagedocumentcollection/
 ---
 ## PackageDocumentCollection::PackageDocumentCollection constructor

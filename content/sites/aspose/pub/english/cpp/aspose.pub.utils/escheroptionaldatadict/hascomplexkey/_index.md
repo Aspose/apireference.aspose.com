@@ -4,7 +4,7 @@ linktitle: HasComplexKey
 second_title: Aspose.PUB for C++
 description: 'How to use HasComplexKey method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/hascomplexkey/
 ---
 ## EscherOptionalDataDict::HasComplexKey method

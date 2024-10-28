@@ -4,7 +4,7 @@ linktitle: SetTopIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetTopIndent method. Sets top indent in C++.'
 type: docs
-weight: 1800
+weight: 2400
 url: /cpp/aspose.pub/paragraphstyle/settopindent/
 ---
 ## ParagraphStyle::SetTopIndent method

@@ -4,7 +4,7 @@ linktitle: PubFormatVersion
 second_title: Aspose.PUB for C++
 description: 'How to use Aspose::Pub::PubFormatVersion enum in C++.'
 type: docs
-weight: 3800
+weight: 4400
 url: /cpp/aspose.pub/pubformatversion/
 ---
 ## PubFormatVersion enum

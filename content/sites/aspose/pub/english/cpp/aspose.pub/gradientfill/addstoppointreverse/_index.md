@@ -4,7 +4,7 @@ linktitle: AddStopPointReverse
 second_title: Aspose.PUB for C++
 description: 'How to use AddStopPointReverse method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 1000
+weight: 300
 url: /cpp/aspose.pub/gradientfill/addstoppointreverse/
 ---
 ## GradientFill::AddStopPointReverse method

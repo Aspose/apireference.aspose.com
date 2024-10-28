@@ -4,7 +4,7 @@ linktitle: AddField
 second_title: Aspose.PUB for C++
 description: 'How to use AddField method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/addfield/
 ---
 ## EscherOptionalDataDict::AddField method

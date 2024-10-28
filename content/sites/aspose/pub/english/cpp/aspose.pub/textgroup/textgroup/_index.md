@@ -4,7 +4,7 @@ linktitle: TextGroup
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextGroup::TextGroup constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pub/textgroup/textgroup/
 ---
 ## TextGroup::TextGroup constructor

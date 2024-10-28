@@ -4,7 +4,7 @@ linktitle: SetDefaultStyleIndex
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetDefaultStyleIndex method. Sets index for default text style in Document.DefaultTextStyles array in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pub/paragraphstyle/setdefaultstyleindex/
 ---
 ## ParagraphStyle::SetDefaultStyleIndex method

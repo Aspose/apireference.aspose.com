@@ -4,7 +4,7 @@ linktitle: FileWebResponse
 second_title: Aspose.PUB for C++
 description: 'System::Net::FileWebResponse::FileWebResponse constructor. Constructs a new instance in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/system.net/filewebresponse/filewebresponse/
 ---
 ## FileWebResponse::FileWebResponse constructor

@@ -4,7 +4,7 @@ linktitle: get_SignedInfo
 second_title: Aspose.PUB for C++
 description: 'How to use get_SignedInfo method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 500
+weight: 1100
 url: /cpp/system.security.cryptography.xml/signedxml/get_signedinfo/
 ---
 ## SignedXml::get_SignedInfo method

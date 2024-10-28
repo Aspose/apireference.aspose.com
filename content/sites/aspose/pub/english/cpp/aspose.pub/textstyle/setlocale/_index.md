@@ -4,7 +4,7 @@ linktitle: SetLocale
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetLocale method. Sets locale identifier in C++.'
 type: docs
-weight: 3200
+weight: 2800
 url: /cpp/aspose.pub/textstyle/setlocale/
 ---
 ## TextStyle::SetLocale method

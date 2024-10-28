@@ -34,11 +34,11 @@ template<typename Elem,typename Traits>class BasicSystemIOStreamBuf : public std
 | Typedef | Description |
 | --- | --- |
 | [char_type](./char_type/) |  |
-| [traits_type](./traits_type/) |  |
-| [Mysb](./mysb/) |  |
 | [int_type](./int_type/) |  |
-| [pos_type](./pos_type/) |  |
+| [Mysb](./mysb/) |  |
 | [off_type](./off_type/) |  |
+| [pos_type](./pos_type/) |  |
+| [traits_type](./traits_type/) |  |
 ## See Also
 
 * Namespace [System::IO](../)

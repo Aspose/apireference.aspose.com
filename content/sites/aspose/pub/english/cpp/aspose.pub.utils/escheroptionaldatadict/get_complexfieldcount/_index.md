@@ -4,7 +4,7 @@ linktitle: get_ComplexFieldCount
 second_title: Aspose.PUB for C++
 description: 'How to use get_ComplexFieldCount method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/get_complexfieldcount/
 ---
 ## EscherOptionalDataDict::get_ComplexFieldCount method

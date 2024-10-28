@@ -36,8 +36,8 @@ class XmlNamedNodeMap : public System::Collections::Generic::IEnumerable<SharedP
 
 | Typedef | Description |
 | --- | --- |
-| [Ptr](./ptr/) | An alias for shared pointer to an instance of this class. |
 | [iterator](./iterator/) | Iterator type. |
+| [Ptr](./ptr/) | An alias for shared pointer to an instance of this class. |
 ## Remarks
 
 

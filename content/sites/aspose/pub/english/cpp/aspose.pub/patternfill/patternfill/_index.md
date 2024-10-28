@@ -4,7 +4,7 @@ linktitle: PatternFill
 second_title: Aspose.PUB for C++
 description: 'How to use PatternFill constructor of Aspose::Pub::PatternFill class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pub/patternfill/patternfill/
 ---
 ## PatternFill::PatternFill constructor

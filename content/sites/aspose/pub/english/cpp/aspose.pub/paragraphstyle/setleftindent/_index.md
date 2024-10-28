@@ -4,7 +4,7 @@ linktitle: SetLeftIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetLeftIndent method. Sets left indent in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/aspose.pub/paragraphstyle/setleftindent/
 ---
 ## ParagraphStyle::SetLeftIndent method

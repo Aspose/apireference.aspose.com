@@ -4,7 +4,7 @@ linktitle: get_ColorIndex
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::get_ColorIndex method. Gets index of color in Document.Colors array in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.pub/textstyle/get_colorindex/
 ---
 ## TextStyle::get_ColorIndex method

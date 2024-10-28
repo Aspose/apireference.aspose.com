@@ -4,7 +4,7 @@ linktitle: SetFontName
 second_title: Aspose.PUB for C++
 description: 'How to use SetFontName method of Aspose::Pub::PubEmbeddedFont class in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pub/pubembeddedfont/setfontname/
 ---
 ## PubEmbeddedFont::SetFontName method

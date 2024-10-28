@@ -4,7 +4,7 @@ linktitle: SetIsOrderedList
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetIsOrderedList method. Sets whether paragraph is ordered list in C++.'
 type: docs
-weight: 2400
+weight: 1900
 url: /cpp/aspose.pub/paragraphstyle/setisorderedlist/
 ---
 ## ParagraphStyle::SetIsOrderedList method

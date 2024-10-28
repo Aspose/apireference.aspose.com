@@ -4,7 +4,7 @@ linktitle: SetSuperscriptType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetSuperscriptType method. Sets type of superscript in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.pub/textstyle/setsuperscripttype/
 ---
 ## TextStyle::SetSuperscriptType method

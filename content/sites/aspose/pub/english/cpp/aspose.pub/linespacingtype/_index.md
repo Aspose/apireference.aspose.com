@@ -4,7 +4,7 @@ linktitle: LineSpacingType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::LineSpacingType enum. Type of line spacing in C++.'
 type: docs
-weight: 4500
+weight: 4000
 url: /cpp/aspose.pub/linespacingtype/
 ---
 ## LineSpacingType enum

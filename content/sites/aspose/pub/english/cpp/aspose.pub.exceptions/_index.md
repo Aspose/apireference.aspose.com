@@ -15,5 +15,5 @@ url: /cpp/aspose.pub.exceptions/
 | Typedef | Description |
 | --- | --- |
 | [ConvertException](./convertexception/) |  |
-| [PubFormatException](./pubformatexception/) |  |
 | [PubException](./pubexception/) |  |
+| [PubFormatException](./pubformatexception/) |  |

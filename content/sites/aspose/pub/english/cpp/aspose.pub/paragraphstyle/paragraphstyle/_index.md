@@ -4,7 +4,7 @@ linktitle: ParagraphStyle
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::ParagraphStyle constructor. Constructor in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.pub/paragraphstyle/paragraphstyle/
 ---
 ## ParagraphStyle::ParagraphStyle constructor

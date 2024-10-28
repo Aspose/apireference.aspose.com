@@ -4,7 +4,7 @@ linktitle: get_Clsid
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MetaInfo::get_Clsid method. CLSID identifier in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pub/metainfo/get_clsid/
 ---
 ## MetaInfo::get_Clsid method

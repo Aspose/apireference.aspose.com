@@ -14,6 +14,6 @@ url: /cpp/system.security.authentication/
 
 | Enum | Description |
 | --- | --- |
-| [SslProtocols](./sslprotocols/) | Enumerates the cryptographic protocols. |
 | [CipherAlgorithmType](./cipheralgorithmtype/) | Enumerates the cipher algorithms. |
 | [HashAlgorithmType](./hashalgorithmtype/) | Enumerates the hash algorithms. |
+| [SslProtocols](./sslprotocols/) | Enumerates the cryptographic protocols. |

@@ -4,7 +4,7 @@ linktitle: SetRawTextSize
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetRawTextSize method. Sets size of text in PUB metrics(in EMUs) in C++.'
 type: docs
-weight: 2600
+weight: 2900
 url: /cpp/aspose.pub/textstyle/setrawtextsize/
 ---
 ## TextStyle::SetRawTextSize method

@@ -4,7 +4,7 @@ linktitle: get_LineSpacingType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::get_LineSpacingType method. Type of line spacing in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.pub/paragraphstyle/get_linespacingtype/
 ---
 ## ParagraphStyle::get_LineSpacingType method

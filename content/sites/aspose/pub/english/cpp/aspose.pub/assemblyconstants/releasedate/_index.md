@@ -4,7 +4,7 @@ linktitle: ReleaseDate
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::AssemblyConstants::ReleaseDate field. This is used by Aspose licensing code to check for subscription expiry. You need to set this to the date you publish a release or a hotfix in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.pub/assemblyconstants/releasedate/
 ---
 ## ReleaseDate field

@@ -4,7 +4,7 @@ linktitle: get_FontSubstitutions
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PubToPdfConversionOptions::get_FontSubstitutions method. Gets font substitutions in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pub/pubtopdfconversionoptions/get_fontsubstitutions/
 ---
 ## PubToPdfConversionOptions::get_FontSubstitutions method

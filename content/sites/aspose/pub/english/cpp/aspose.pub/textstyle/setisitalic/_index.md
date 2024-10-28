@@ -4,7 +4,7 @@ linktitle: SetIsItalic
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetIsItalic method. Sets is text italic in C++.'
 type: docs
-weight: 1800
+weight: 2400
 url: /cpp/aspose.pub/textstyle/setisitalic/
 ---
 ## TextStyle::SetIsItalic method

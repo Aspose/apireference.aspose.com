@@ -4,7 +4,7 @@ linktitle: SetSummaryInfo
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Document::SetSummaryInfo method. Sets summary info in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/aspose.pub/document/setsummaryinfo/
 ---
 ## Document::SetSummaryInfo method

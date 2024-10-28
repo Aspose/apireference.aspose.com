@@ -4,7 +4,7 @@ linktitle: TextPartDisplayParams
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextPartDisplayParams::TextPartDisplayParams constructor. Constructor in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pub/textpartdisplayparams/textpartdisplayparams/
 ---
 ## TextPartDisplayParams::TextPartDisplayParams constructor

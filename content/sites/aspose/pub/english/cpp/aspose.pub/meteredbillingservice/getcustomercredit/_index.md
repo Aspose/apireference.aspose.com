@@ -4,7 +4,7 @@ linktitle: GetCustomerCredit
 second_title: Aspose.PUB for C++
 description: 'How to use GetCustomerCredit method of Aspose::Pub::MeteredBillingService class in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pub/meteredbillingservice/getcustomercredit/
 ---
 ## MeteredBillingService::GetCustomerCredit method

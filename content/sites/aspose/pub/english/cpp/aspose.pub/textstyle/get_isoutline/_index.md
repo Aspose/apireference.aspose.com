@@ -4,7 +4,7 @@ linktitle: get_IsOutline
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::get_IsOutline method. Is text outlined in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/aspose.pub/textstyle/get_isoutline/
 ---
 ## TextStyle::get_IsOutline method

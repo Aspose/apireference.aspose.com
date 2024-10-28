@@ -4,7 +4,7 @@ linktitle: BindIPEndPoint
 second_title: Aspose.PUB for C++
 description: 'How to use System::Net::BindIPEndPoint typedef in C++.'
 type: docs
-weight: 5200
+weight: 5100
 url: /cpp/system.net/bindipendpoint/
 ---
 ## BindIPEndPoint typedef

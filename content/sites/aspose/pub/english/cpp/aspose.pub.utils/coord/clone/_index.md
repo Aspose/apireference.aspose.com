@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Utils::Coord::Clone method. Created copy of object in C++.'
 type: docs
-weight: 1200
+weight: 600
 url: /cpp/aspose.pub.utils/coord/clone/
 ---
 ## Coord::Clone method

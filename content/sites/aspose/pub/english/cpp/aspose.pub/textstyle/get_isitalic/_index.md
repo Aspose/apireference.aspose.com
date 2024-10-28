@@ -4,7 +4,7 @@ linktitle: get_IsItalic
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::get_IsItalic method. Is text italic in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/aspose.pub/textstyle/get_isitalic/
 ---
 ## TextStyle::get_IsItalic method

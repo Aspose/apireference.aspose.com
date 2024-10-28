@@ -4,7 +4,7 @@ linktitle: _IncreaseCredit
 second_title: Aspose.PUB for C++
 description: 'How to use _IncreaseCredit method of Aspose::Pub::MeteredCountService class in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pub/meteredcountservice/_increasecredit/
 ---
 ## MeteredCountService::_IncreaseCredit method

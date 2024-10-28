@@ -4,7 +4,7 @@ linktitle: get_IsShadow
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::get_IsShadow method. Is text shadowed in C++.'
 type: docs
-weight: 500
+weight: 1100
 url: /cpp/aspose.pub/textstyle/get_isshadow/
 ---
 ## TextStyle::get_IsShadow method

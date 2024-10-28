@@ -4,7 +4,7 @@ linktitle: get_XRight
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Utils::Coord::get_XRight method. X-coordinate of bottom-right corner in EMUs in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/aspose.pub.utils/coord/get_xright/
 ---
 ## Coord::get_XRight method

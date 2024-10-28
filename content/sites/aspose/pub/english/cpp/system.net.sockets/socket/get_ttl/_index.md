@@ -4,7 +4,7 @@ linktitle: get_Ttl
 second_title: Aspose.PUB for C++
 description: 'System::Net::Sockets::Socket::get_Ttl method. Gets the TTL value in C++.'
 type: docs
-weight: 2800
+weight: 3700
 url: /cpp/system.net.sockets/socket/get_ttl/
 ---
 ## Socket::get_Ttl method

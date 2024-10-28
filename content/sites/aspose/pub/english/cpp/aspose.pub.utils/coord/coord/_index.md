@@ -4,7 +4,7 @@ linktitle: Coord
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Utils::Coord::Coord constructor. Constructor in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pub.utils/coord/coord/
 ---
 ## Coord::Coord() constructor

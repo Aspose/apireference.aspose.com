@@ -4,7 +4,7 @@ linktitle: PubEmbeddedFont
 second_title: Aspose.PUB for C++
 description: 'How to use PubEmbeddedFont constructor of Aspose::Pub::PubEmbeddedFont class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pub/pubembeddedfont/pubembeddedfont/
 ---
 ## PubEmbeddedFont::PubEmbeddedFont constructor

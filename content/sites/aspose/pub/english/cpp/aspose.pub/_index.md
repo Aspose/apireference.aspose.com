@@ -55,12 +55,12 @@ url: /cpp/aspose.pub/
 
 | Enum | Description |
 | --- | --- |
-| [PubFormatVersion](./pubformatversion/) |  |
-| [FillTypes](./filltypes/) |  |
-| [PubExportFormats](./pubexportformats/) | Specifies format to export Publisher document. |
-| [PubDocumentType](./pubdocumenttype/) | Represents storage type for document. |
-| [MeteredState](./meteredstate/) | Represents possible metered states. |
-| [SuperscriptType](./superscripttype/) | Type of superscript. |
 | [AlignmentType](./alignmenttype/) | Type of alignment. |
+| [FillTypes](./filltypes/) |  |
 | [LineSpacingType](./linespacingtype/) | Type of line spacing. |
+| [MeteredState](./meteredstate/) | Represents possible metered states. |
+| [PubDocumentType](./pubdocumenttype/) | Represents storage type for document. |
+| [PubExportFormats](./pubexportformats/) | Specifies format to export Publisher document. |
+| [PubFormatVersion](./pubformatversion/) |  |
+| [SuperscriptType](./superscripttype/) | Type of superscript. |
 | [UnderlineType](./underlinetype/) | Underline type. |

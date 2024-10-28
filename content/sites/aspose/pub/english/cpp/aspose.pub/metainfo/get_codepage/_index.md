@@ -4,7 +4,7 @@ linktitle: get_CodePage
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MetaInfo::get_CodePage method. Code page identifier in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/aspose.pub/metainfo/get_codepage/
 ---
 ## MetaInfo::get_CodePage method

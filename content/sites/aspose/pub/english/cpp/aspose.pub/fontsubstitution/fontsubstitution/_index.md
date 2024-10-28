@@ -4,7 +4,7 @@ linktitle: FontSubstitution
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::FontSubstitution::FontSubstitution constructor. Initializes a new instance of SimpleFontSubstitution class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.pub/fontsubstitution/fontsubstitution/
 ---
 ## FontSubstitution::FontSubstitution constructor

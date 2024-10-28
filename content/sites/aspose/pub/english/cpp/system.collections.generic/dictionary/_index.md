@@ -40,13 +40,13 @@ template<typename TKey,typename TValue>class Dictionary : public System::Collect
 
 | Typedef | Description |
 | --- | --- |
-| [KeyCollection](./keycollection/) | RTTI information. |
-| [ValueCollection](./valuecollection/) | Collection of values to extract. |
-| [map_t](./map_t/) | Underlying data type. |
-| [Ptr](./ptr/) | Pointer type. |
-| [KVPair](./kvpair/) | Key-value pair type. |
 | [IEnumerablePtr](./ienumerableptr/) | Pointer to enumerable interface. |
 | [IEnumeratorPtr](./ienumeratorptr/) | Pointer to enumerator. |
+| [KeyCollection](./keycollection/) | RTTI information. |
+| [KVPair](./kvpair/) | Key-value pair type. |
+| [map_t](./map_t/) | Underlying data type. |
+| [Ptr](./ptr/) | Pointer type. |
+| [ValueCollection](./valuecollection/) | Collection of values to extract. |
 ## Remarks
 
 

@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.PUB for C++
 description: 'How to use get_Color method of Aspose::Pub::SolidFill class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pub/solidfill/get_color/
 ---
 ## SolidFill::get_Color method

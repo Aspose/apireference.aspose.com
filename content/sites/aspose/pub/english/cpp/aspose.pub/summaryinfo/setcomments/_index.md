@@ -4,7 +4,7 @@ linktitle: SetComments
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::SetComments method. Sets comments related the document in C++.'
 type: docs
-weight: 1800
+weight: 1500
 url: /cpp/aspose.pub/summaryinfo/setcomments/
 ---
 ## SummaryInfo::SetComments method

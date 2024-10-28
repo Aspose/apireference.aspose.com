@@ -4,7 +4,7 @@ linktitle: get_Subject
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_Subject method. The subject of the document in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/aspose.pub/summaryinfo/get_subject/
 ---
 ## SummaryInfo::get_Subject method

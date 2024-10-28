@@ -4,7 +4,7 @@ linktitle: get_WordCount
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_WordCount method. The total number of words in the document in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.pub/summaryinfo/get_wordcount/
 ---
 ## SummaryInfo::get_WordCount method

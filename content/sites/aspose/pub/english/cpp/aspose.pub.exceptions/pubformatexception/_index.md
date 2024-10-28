@@ -4,7 +4,7 @@ linktitle: PubFormatException
 second_title: Aspose.PUB for C++
 description: 'How to use Aspose::Pub::Exceptions::PubFormatException typedef in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pub.exceptions/pubformatexception/
 ---
 ## PubFormatException typedef

@@ -4,7 +4,7 @@ linktitle: Push
 second_title: Aspose.PUB for C++
 description: 'System::Collections::Generic::Stack::Push method. Puts element of top of the stack in C++.'
 type: docs
-weight: 600
+weight: 1000
 url: /cpp/system.collections.generic/stack/push/
 ---
 ## Stack::Push method

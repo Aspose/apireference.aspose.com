@@ -4,7 +4,7 @@ linktitle: get_Locale
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MetaInfo::get_Locale method. Locale identifier in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/aspose.pub/metainfo/get_locale/
 ---
 ## MetaInfo::get_Locale method

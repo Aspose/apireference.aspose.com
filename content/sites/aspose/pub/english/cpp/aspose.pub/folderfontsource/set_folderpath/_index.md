@@ -4,7 +4,7 @@ linktitle: set_FolderPath
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::FolderFontSource::set_FolderPath method. Path to the folder that contains font files in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pub/folderfontsource/set_folderpath/
 ---
 ## FolderFontSource::set_FolderPath method

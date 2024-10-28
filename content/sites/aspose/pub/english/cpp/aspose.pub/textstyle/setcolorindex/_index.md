@@ -4,7 +4,7 @@ linktitle: SetColorIndex
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetColorIndex method. Sets index of color in Document.Colors array in C++.'
 type: docs
-weight: 2800
+weight: 1800
 url: /cpp/aspose.pub/textstyle/setcolorindex/
 ---
 ## TextStyle::SetColorIndex method

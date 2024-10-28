@@ -4,7 +4,7 @@ linktitle: SuperscriptType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SuperscriptType enum. Type of superscript in C++.'
 type: docs
-weight: 4300
+weight: 4500
 url: /cpp/aspose.pub/superscripttype/
 ---
 ## SuperscriptType enum

@@ -4,7 +4,7 @@ linktitle: get_DefaultParagraphStyles
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Document::get_DefaultParagraphStyles method. Array of default paragraph styles in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/aspose.pub/document/get_defaultparagraphstyles/
 ---
 ## Document::get_DefaultParagraphStyles method

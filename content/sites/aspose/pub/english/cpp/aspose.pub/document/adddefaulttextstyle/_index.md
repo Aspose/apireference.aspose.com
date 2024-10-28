@@ -4,7 +4,7 @@ linktitle: AddDefaultTextStyle
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Document::AddDefaultTextStyle method. Adds default text style in C++.'
 type: docs
-weight: 1200
+weight: 200
 url: /cpp/aspose.pub/document/adddefaulttextstyle/
 ---
 ## Document::AddDefaultTextStyle method

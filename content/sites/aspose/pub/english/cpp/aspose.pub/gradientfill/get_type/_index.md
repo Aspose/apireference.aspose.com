@@ -4,7 +4,7 @@ linktitle: get_Type
 second_title: Aspose.PUB for C++
 description: 'How to use get_Type method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/aspose.pub/gradientfill/get_type/
 ---
 ## GradientFill::get_Type method

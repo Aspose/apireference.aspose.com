@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::FolderFontSource::Equals method. Check if folder font source objects are equal in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pub/folderfontsource/equals/
 ---
 ## FolderFontSource::Equals method

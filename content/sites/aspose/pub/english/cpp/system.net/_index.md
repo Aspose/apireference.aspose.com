@@ -72,6 +72,6 @@ url: /cpp/system.net/
 
 | Typedef | Description |
 | --- | --- |
-| [CookieException](./cookieexception/) |  |
 | [BindIPEndPoint](./bindipendpoint/) |  |
+| [CookieException](./cookieexception/) |  |
 | [WebException](./webexception/) |  |

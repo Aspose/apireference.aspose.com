@@ -4,7 +4,7 @@ linktitle: AddFontSubstitution
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PubToPdfConversionOptions::AddFontSubstitution method. Adds font substitution strategy to collection of font substutution strategies in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pub/pubtopdfconversionoptions/addfontsubstitution/
 ---
 ## PubToPdfConversionOptions::AddFontSubstitution method

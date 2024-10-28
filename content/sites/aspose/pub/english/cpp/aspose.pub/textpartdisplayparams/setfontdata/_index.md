@@ -4,7 +4,7 @@ linktitle: SetFontData
 second_title: Aspose.PUB for C++
 description: 'How to use SetFontData method of Aspose::Pub::TextPartDisplayParams class in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.pub/textpartdisplayparams/setfontdata/
 ---
 ## TextPartDisplayParams::SetFontData method

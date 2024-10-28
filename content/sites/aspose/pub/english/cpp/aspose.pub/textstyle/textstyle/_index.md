@@ -4,7 +4,7 @@ linktitle: TextStyle
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::TextStyle constructor. Constructor in C++.'
 type: docs
-weight: 1600
+weight: 100
 url: /cpp/aspose.pub/textstyle/textstyle/
 ---
 ## TextStyle::TextStyle constructor

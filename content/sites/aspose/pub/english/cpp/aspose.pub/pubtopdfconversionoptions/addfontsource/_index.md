@@ -4,7 +4,7 @@ linktitle: AddFontSource
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PubToPdfConversionOptions::AddFontSource method. Adds font source to collection in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pub/pubtopdfconversionoptions/addfontsource/
 ---
 ## PubToPdfConversionOptions::AddFontSource method

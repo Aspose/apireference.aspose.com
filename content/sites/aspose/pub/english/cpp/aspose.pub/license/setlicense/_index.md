@@ -7,6 +7,33 @@ type: docs
 weight: 200
 url: /cpp/aspose.pub/license/setlicense/
 ---
+## License::SetLicense(System::SharedPtr\<System::IO::Stream\>) method
+
+
+Licenses the component.
+
+```cpp
+void Aspose::Pub::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | System::SharedPtr\<System::IO::Stream\> | A stream that contains the license. |
+## Remarks
+
+
+
+Use this method to load a license from a stream.
+
+<javaName>void setLicense(java.io.InputStream stream)</javaName> 
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [License](../)
+* Namespace [Aspose::Pub](../../)
+* Library [Aspose.PUB for C++](../../../)
 ## License::SetLicense(System::String) method
 
 
@@ -56,33 +83,6 @@ Tries to find the license in the following locations:
 ## See Also
 
 * Class [String](../../../system/string/)
-* Class [License](../)
-* Namespace [Aspose::Pub](../../)
-* Library [Aspose.PUB for C++](../../../)
-## License::SetLicense(System::SharedPtr\<System::IO::Stream\>) method
-
-
-Licenses the component.
-
-```cpp
-void Aspose::Pub::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | A stream that contains the license. |
-## Remarks
-
-
-
-Use this method to load a license from a stream.
-
-<javaName>void setLicense(java.io.InputStream stream)</javaName> 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
 * Class [License](../)
 * Namespace [Aspose::Pub](../../)
 * Library [Aspose.PUB for C++](../../../)

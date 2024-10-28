@@ -4,7 +4,7 @@ linktitle: SetLastAuthor
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::SetLastAuthor method. Sets last author of the document in C++.'
 type: docs
-weight: 1900
+weight: 1700
 url: /cpp/aspose.pub/summaryinfo/setlastauthor/
 ---
 ## SummaryInfo::SetLastAuthor method

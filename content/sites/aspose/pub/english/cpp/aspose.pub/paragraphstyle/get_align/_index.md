@@ -4,7 +4,7 @@ linktitle: get_Align
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::get_Align method. Alignment type in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pub/paragraphstyle/get_align/
 ---
 ## ParagraphStyle::get_Align method

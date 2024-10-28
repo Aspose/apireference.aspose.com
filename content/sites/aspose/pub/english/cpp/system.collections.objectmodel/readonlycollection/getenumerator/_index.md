@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PUB for C++
 description: 'System::Collections::ObjectModel::ReadOnlyCollection::GetEnumerator method. Gets collection enumerator in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.collections.objectmodel/readonlycollection/getenumerator/
 ---
 ## ReadOnlyCollection::GetEnumerator method

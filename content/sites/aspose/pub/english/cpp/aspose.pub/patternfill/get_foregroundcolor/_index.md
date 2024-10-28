@@ -4,7 +4,7 @@ linktitle: get_ForegroundColor
 second_title: Aspose.PUB for C++
 description: 'How to use get_ForegroundColor method of Aspose::Pub::PatternFill class in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pub/patternfill/get_foregroundcolor/
 ---
 ## PatternFill::get_ForegroundColor method

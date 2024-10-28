@@ -4,7 +4,7 @@ linktitle: get_FontSources
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PubToPdfConversionOptions::get_FontSources method. Gets font sources in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pub/pubtopdfconversionoptions/get_fontsources/
 ---
 ## PubToPdfConversionOptions::get_FontSources method

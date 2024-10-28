@@ -4,7 +4,7 @@ linktitle: RemoveField
 second_title: Aspose.PUB for C++
 description: 'How to use RemoveField method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 600
+weight: 1300
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/removefield/
 ---
 ## EscherOptionalDataDict::RemoveField method

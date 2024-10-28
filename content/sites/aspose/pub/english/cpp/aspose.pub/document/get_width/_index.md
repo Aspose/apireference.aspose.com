@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Document::get_Width method. Width of document in PUB metrics(EMUs) in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/aspose.pub/document/get_width/
 ---
 ## Document::get_Width method

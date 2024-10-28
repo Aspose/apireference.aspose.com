@@ -4,7 +4,7 @@ linktitle: IsNull
 second_title: Aspose.PUB for C++
 description: 'System::Random::IsNull method. Always returns false in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system/random/isnull/
 ---
 ## Random::IsNull method

@@ -4,7 +4,7 @@ linktitle: Product
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::BuildVersionInfo::Product field. Product Name in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pub/buildversioninfo/product/
 ---
 ## Product field

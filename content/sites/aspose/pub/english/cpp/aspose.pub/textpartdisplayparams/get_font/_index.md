@@ -4,7 +4,7 @@ linktitle: get_Font
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextPartDisplayParams::get_Font method. Font of the text part in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pub/textpartdisplayparams/get_font/
 ---
 ## TextPartDisplayParams::get_Font method

@@ -38,9 +38,9 @@ url: /cpp/system.threading/
 
 | Typedef | Description |
 | --- | --- |
-| [SendOrPostCallback](./sendorpostcallback/) |  |
 | [ParameterizedThreadStart](./parameterizedthreadstart/) | [Thread](./thread/) function with single parameter. |
+| [SendOrPostCallback](./sendorpostcallback/) |  |
 | [ThreadStart](./threadstart/) | [Thread](./thread/) function with no parameters. |
-| [WaitCallback](./waitcallback/) | Callback item to be executed once there is a spot. |
 | [TimerCallback](./timercallback/) | Callback function to be called by timer. |
 | [wait_handle_t](./wait_handle_t/) | Handle type. |
+| [WaitCallback](./waitcallback/) | Callback item to be executed once there is a spot. |

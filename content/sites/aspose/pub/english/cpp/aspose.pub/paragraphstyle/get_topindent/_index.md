@@ -4,7 +4,7 @@ linktitle: get_TopIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::get_TopIndent method. Top indent value in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/aspose.pub/paragraphstyle/get_topindent/
 ---
 ## ParagraphStyle::get_TopIndent method

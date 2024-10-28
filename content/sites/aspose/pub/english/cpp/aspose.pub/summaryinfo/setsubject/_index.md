@@ -4,7 +4,7 @@ linktitle: SetSubject
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::SetSubject method. Sets subject of the document in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/aspose.pub/summaryinfo/setsubject/
 ---
 ## SummaryInfo::SetSubject method

@@ -4,7 +4,7 @@ linktitle: get_SummaryInfo
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Document::get_SummaryInfo method. Summary Info in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.pub/document/get_summaryinfo/
 ---
 ## Document::get_SummaryInfo method

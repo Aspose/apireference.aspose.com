@@ -4,7 +4,7 @@ linktitle: Fill
 second_title: Aspose.PUB for C++
 description: 'How to use Fill constructor of Aspose::Pub::Fill class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pub/fill/fill/
 ---
 ## Fill::Fill constructor

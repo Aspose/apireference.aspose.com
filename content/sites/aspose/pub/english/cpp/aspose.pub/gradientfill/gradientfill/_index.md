@@ -4,7 +4,7 @@ linktitle: GradientFill
 second_title: Aspose.PUB for C++
 description: 'How to use GradientFill constructor of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/aspose.pub/gradientfill/gradientfill/
 ---
 ## GradientFill::GradientFill constructor

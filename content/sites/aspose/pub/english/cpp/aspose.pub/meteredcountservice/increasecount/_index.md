@@ -4,7 +4,7 @@ linktitle: IncreaseCount
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MeteredCountService::IncreaseCount method. Increase customer consumption file size, and try to upload data in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pub/meteredcountservice/increasecount/
 ---
 ## MeteredCountService::IncreaseCount(double) method

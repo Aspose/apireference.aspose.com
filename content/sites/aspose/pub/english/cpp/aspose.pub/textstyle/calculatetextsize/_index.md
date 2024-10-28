@@ -4,7 +4,7 @@ linktitle: CalculateTextSize
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::CalculateTextSize method. Calculates text size in points in C++.'
 type: docs
-weight: 2700
+weight: 200
 url: /cpp/aspose.pub/textstyle/calculatetextsize/
 ---
 ## TextStyle::CalculateTextSize method

@@ -4,7 +4,7 @@ linktitle: SetLineSpacingValue
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetLineSpacingValue method. Sets value of line spacing in C++.'
 type: docs
-weight: 1600
+weight: 2200
 url: /cpp/aspose.pub/paragraphstyle/setlinespacingvalue/
 ---
 ## ParagraphStyle::SetLineSpacingValue method

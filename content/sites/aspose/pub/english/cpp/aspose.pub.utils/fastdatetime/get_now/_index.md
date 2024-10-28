@@ -4,7 +4,7 @@ linktitle: get_Now
 second_title: Aspose.PUB for C++
 description: 'How to use get_Now method of Aspose::Pub::Utils::FastDateTime class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pub.utils/fastdatetime/get_now/
 ---
 ## FastDateTime::get_Now method

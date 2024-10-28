@@ -4,7 +4,7 @@ linktitle: AddDefaultParagraphStyle
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Document::AddDefaultParagraphStyle method. Adds default paragraph style in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.pub/document/adddefaultparagraphstyle/
 ---
 ## Document::AddDefaultParagraphStyle method

@@ -4,7 +4,7 @@ linktitle: PubExportFormats
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PubExportFormats enum. Specifies format to export Publisher document in C++.'
 type: docs
-weight: 4000
+weight: 4300
 url: /cpp/aspose.pub/pubexportformats/
 ---
 ## PubExportFormats enum

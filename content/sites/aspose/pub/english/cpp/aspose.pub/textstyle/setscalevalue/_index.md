@@ -4,7 +4,7 @@ linktitle: SetScaleValue
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetScaleValue method. Sets value of scale in C++.'
 type: docs
-weight: 3100
+weight: 3000
 url: /cpp/aspose.pub/textstyle/setscalevalue/
 ---
 ## TextStyle::SetScaleValue method

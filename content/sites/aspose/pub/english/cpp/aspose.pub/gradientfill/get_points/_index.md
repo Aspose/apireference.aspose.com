@@ -4,7 +4,7 @@ linktitle: get_Points
 second_title: Aspose.PUB for C++
 description: 'How to use get_Points method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pub/gradientfill/get_points/
 ---
 ## GradientFill::get_Points method

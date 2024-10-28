@@ -4,7 +4,7 @@ linktitle: get_SuperscriptType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::get_SuperscriptType method. Type of superscript in C++.'
 type: docs
-weight: 1300
+weight: 1600
 url: /cpp/aspose.pub/textstyle/get_superscripttype/
 ---
 ## TextStyle::get_SuperscriptType method

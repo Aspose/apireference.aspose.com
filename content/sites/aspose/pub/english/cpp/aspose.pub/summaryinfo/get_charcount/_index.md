@@ -4,7 +4,7 @@ linktitle: get_CharCount
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_CharCount method. The total number of characters in the document in C++.'
 type: docs
-weight: 1200
+weight: 300
 url: /cpp/aspose.pub/summaryinfo/get_charcount/
 ---
 ## SummaryInfo::get_CharCount method

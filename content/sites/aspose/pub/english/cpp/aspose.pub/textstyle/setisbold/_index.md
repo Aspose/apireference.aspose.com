@@ -4,7 +4,7 @@ linktitle: SetIsBold
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetIsBold method. Sets is text bold in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/aspose.pub/textstyle/setisbold/
 ---
 ## TextStyle::SetIsBold method

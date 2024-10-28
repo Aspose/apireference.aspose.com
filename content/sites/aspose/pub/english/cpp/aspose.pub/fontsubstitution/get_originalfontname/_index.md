@@ -4,7 +4,7 @@ linktitle: get_OriginalFontName
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::FontSubstitution::get_OriginalFontName method. Gets original font name that should be substituted with SubstitutionFontName in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pub/fontsubstitution/get_originalfontname/
 ---
 ## FontSubstitution::get_OriginalFontName method

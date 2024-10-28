@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MetaInfo::get_Version method. Version value in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/aspose.pub/metainfo/get_version/
 ---
 ## MetaInfo::get_Version method

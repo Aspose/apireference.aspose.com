@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.PUB for C++
 description: 'System::Collections::Concurrent::ConcurrentDictionary::Add method. Adds value into dictionary in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/system.collections.concurrent/concurrentdictionary/add/
 ---
 ## ConcurrentDictionary::Add method

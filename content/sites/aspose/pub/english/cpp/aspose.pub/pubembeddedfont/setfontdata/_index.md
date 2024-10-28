@@ -4,7 +4,7 @@ linktitle: SetFontData
 second_title: Aspose.PUB for C++
 description: 'How to use SetFontData method of Aspose::Pub::PubEmbeddedFont class in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.pub/pubembeddedfont/setfontdata/
 ---
 ## PubEmbeddedFont::SetFontData method

@@ -4,7 +4,7 @@ linktitle: FileVersion
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::BuildVersionInfo::FileVersion field. File Version in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pub/buildversioninfo/fileversion/
 ---
 ## FileVersion field

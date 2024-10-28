@@ -4,7 +4,7 @@ linktitle: SetVentureLicense
 second_title: Aspose.PUB for C++
 description: 'How to use SetVentureLicense method of Aspose::Pub::Licensing::IVentureLicenseTarget class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pub.licensing/iventurelicensetarget/setventurelicense/
 ---
 ## IVentureLicenseTarget::SetVentureLicense method

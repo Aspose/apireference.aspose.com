@@ -4,7 +4,7 @@ linktitle: get_Items
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageDocumentCollection::get_Items method. Gets all Publisher documents from collection in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pub/packagedocumentcollection/get_items/
 ---
 ## PackageDocumentCollection::get_Items method

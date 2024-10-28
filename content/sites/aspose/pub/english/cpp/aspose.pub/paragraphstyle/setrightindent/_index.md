@@ -4,7 +4,7 @@ linktitle: SetRightIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetRightIndent method. Sets right indent in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pub/paragraphstyle/setrightindent/
 ---
 ## ParagraphStyle::SetRightIndent method

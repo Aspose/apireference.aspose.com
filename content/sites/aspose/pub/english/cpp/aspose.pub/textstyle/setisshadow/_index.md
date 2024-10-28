@@ -4,7 +4,7 @@ linktitle: SetIsShadow
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetIsShadow method. Sets is text shadowed in C++.'
 type: docs
-weight: 2100
+weight: 2600
 url: /cpp/aspose.pub/textstyle/setisshadow/
 ---
 ## TextStyle::SetIsShadow method

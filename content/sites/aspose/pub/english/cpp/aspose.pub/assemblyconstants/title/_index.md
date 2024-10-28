@@ -4,7 +4,7 @@ linktitle: Title
 second_title: Aspose.PUB for C++
 description: 'How to use Title field of Aspose::Pub::AssemblyConstants class in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.pub/assemblyconstants/title/
 ---
 ## Title field

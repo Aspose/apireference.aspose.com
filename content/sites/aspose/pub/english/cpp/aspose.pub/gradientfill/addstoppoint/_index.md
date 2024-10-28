@@ -4,7 +4,7 @@ linktitle: AddStopPoint
 second_title: Aspose.PUB for C++
 description: 'How to use AddStopPoint method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pub/gradientfill/addstoppoint/
 ---
 ## GradientFill::AddStopPoint method

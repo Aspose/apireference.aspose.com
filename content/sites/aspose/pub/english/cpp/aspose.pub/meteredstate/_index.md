@@ -4,7 +4,7 @@ linktitle: MeteredState
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MeteredState enum. Represents possible metered states in C++.'
 type: docs
-weight: 4200
+weight: 4100
 url: /cpp/aspose.pub/meteredstate/
 ---
 ## MeteredState enum

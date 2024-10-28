@@ -4,7 +4,7 @@ linktitle: RemoveComplexField
 second_title: Aspose.PUB for C++
 description: 'How to use RemoveComplexField method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/removecomplexfield/
 ---
 ## EscherOptionalDataDict::RemoveComplexField method

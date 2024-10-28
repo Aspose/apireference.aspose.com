@@ -36,5 +36,5 @@ url: /cpp/system.drawing.printing/
 
 | Typedef | Description |
 | --- | --- |
-| [PrintPageEventHandler](./printpageeventhandler/) | A type of a function that handles PrintPage event. |
 | [PrintEventHandler](./printeventhandler/) | A type of a function object that handles BeginPrint and EndPrint events. |
+| [PrintPageEventHandler](./printpageeventhandler/) | A type of a function that handles PrintPage event. |

@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PUB for C++
 description: 'System::Net::Sockets::UdpClient::Close method. Closes the UDP connection in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/system.net.sockets/udpclient/close/
 ---
 ## UdpClient::Close method

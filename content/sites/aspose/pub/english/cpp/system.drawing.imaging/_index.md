@@ -52,9 +52,9 @@ url: /cpp/system.drawing.imaging/
 | [ColorMapPtr](./colormapptr/) | An alias for a shared pointer to an instance of [ColorMap](./colormap/) class. |
 | [ColorMatrixPtr](./colormatrixptr/) | An alias for a shared pointer to an instance of the [ColorMatrix](./colormatrix/) class. |
 | [ColorPalettePtr](./colorpaletteptr/) | An alias for a shared pointer to an instance of the [ColorPalette](./colorpalette/) class. |
-| [EncoderPtr](./encoderptr/) | An alias for a shared pointer to an instance of [Encoder](./encoder/) class. |
 | [EncoderParameterPtr](./encoderparameterptr/) | An alias for a shared pointer to an instance of [EncoderParameter](./encoderparameter/) class. |
 | [EncoderParametersPtr](./encoderparametersptr/) | An alias for a shared pointer to an instance of [EncoderParameters](./encoderparameters/) class. |
+| [EncoderPtr](./encoderptr/) | An alias for a shared pointer to an instance of [Encoder](./encoder/) class. |
 | [FrameDimensionPtr](./framedimensionptr/) | An alias for a shared pointer to an instance of [FrameDimension](./framedimension/) class. |
 | [ImageAttributesPtr](./imageattributesptr/) | An aliast for a shared pointer to an instance of the [ImageAttributes](./imageattributes/) class. |
 | [ImageCodecInfoPtr](./imagecodecinfoptr/) | An alias for a shared pointer to an instance of [ImageCodecInfo](./imagecodecinfo/) class. |

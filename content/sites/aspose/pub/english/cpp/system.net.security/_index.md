@@ -21,11 +21,11 @@ url: /cpp/system.net.security/
 | Enum | Description |
 | --- | --- |
 | [AuthenticationLevel](./authenticationlevel/) | WebRequest-specific authentication flags. |
-| [SslPolicyErrors](./sslpolicyerrors/) | Enumerates the policy errors of SSL. |
 | [EncryptionPolicy](./encryptionpolicy/) | Enumerates the encryption policies. |
+| [SslPolicyErrors](./sslpolicyerrors/) | Enumerates the policy errors of SSL. |
 ## Typedefs
 
 | Typedef | Description |
 | --- | --- |
-| [RemoteCertificateValidationCallback](./remotecertificatevalidationcallback/) | A user delegate used to verify remote SSL certificate. |
 | [LocalCertificateSelectionCallback](./localcertificateselectioncallback/) | A user delegate used to select local SSL certificate. |
+| [RemoteCertificateValidationCallback](./remotecertificatevalidationcallback/) | A user delegate used to verify remote SSL certificate. |

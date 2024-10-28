@@ -40,10 +40,10 @@ template<typename T,typename>class BasicSTDOStreamWrapper : public virtual Syste
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) |  |
 | [BaseType](./basetype/) |  |
-| [ThisTypeBaseTypesInfo](./thistypebasetypesinfo/) |  |
 | [char_type](./char_type/) | RTTI information. |
+| [ThisType](./thistype/) |  |
+| [ThisTypeBaseTypesInfo](./thistypebasetypesinfo/) |  |
 | [traits_type](./traits_type/) |  |
 ## See Also
 

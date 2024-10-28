@@ -4,7 +4,7 @@ linktitle: get_TextParts
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextParagraph::get_TextParts method. Text groups in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pub/textparagraph/get_textparts/
 ---
 ## TextParagraph::get_TextParts method

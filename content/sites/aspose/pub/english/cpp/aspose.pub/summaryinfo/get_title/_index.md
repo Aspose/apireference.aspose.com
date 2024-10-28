@@ -4,7 +4,7 @@ linktitle: get_Title
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_Title method. The title of the document in C++.'
 type: docs
-weight: 100
+weight: 1200
 url: /cpp/aspose.pub/summaryinfo/get_title/
 ---
 ## SummaryInfo::get_Title method

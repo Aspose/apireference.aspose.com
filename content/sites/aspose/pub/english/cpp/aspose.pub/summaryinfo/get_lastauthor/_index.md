@@ -4,7 +4,7 @@ linktitle: get_LastAuthor
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_LastAuthor method. The last author of the document in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pub/summaryinfo/get_lastauthor/
 ---
 ## SummaryInfo::get_LastAuthor method

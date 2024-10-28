@@ -20,6 +20,6 @@ url: /cpp/system.net.cache/
 
 | Enum | Description |
 | --- | --- |
-| [RequestCacheLevel](./requestcachelevel/) | The enum describes cache settings applicable for any [WebRequest](../system.net/webrequest/). |
-| [HttpRequestCacheLevel](./httprequestcachelevel/) | The enum describes cache settings for HTTP. |
 | [HttpCacheAgeControl](./httpcacheagecontrol/) | CacheAgeControl is used to specify preferences with respect of cached item age and freshness. |
+| [HttpRequestCacheLevel](./httprequestcachelevel/) | The enum describes cache settings for HTTP. |
+| [RequestCacheLevel](./requestcachelevel/) | The enum describes cache settings applicable for any [WebRequest](../system.net/webrequest/). |

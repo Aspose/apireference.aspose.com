@@ -4,7 +4,7 @@ linktitle: SetIsList
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetIsList method. Sets is paragraph list in C++.'
 type: docs
-weight: 2300
+weight: 1800
 url: /cpp/aspose.pub/paragraphstyle/setislist/
 ---
 ## ParagraphStyle::SetIsList method

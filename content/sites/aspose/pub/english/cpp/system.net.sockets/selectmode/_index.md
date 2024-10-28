@@ -4,7 +4,7 @@ linktitle: SelectMode
 second_title: Aspose.PUB for C++
 description: 'System::Net::Sockets::SelectMode enum. Specifies the mode for polling the status of the socket in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system.net.sockets/selectmode/
 ---
 ## SelectMode enum

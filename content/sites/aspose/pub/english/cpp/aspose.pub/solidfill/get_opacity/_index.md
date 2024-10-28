@@ -4,7 +4,7 @@ linktitle: get_Opacity
 second_title: Aspose.PUB for C++
 description: 'How to use get_Opacity method of Aspose::Pub::SolidFill class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pub/solidfill/get_opacity/
 ---
 ## SolidFill::get_Opacity method

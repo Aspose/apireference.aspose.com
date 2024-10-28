@@ -4,7 +4,7 @@ linktitle: AddComplexField
 second_title: Aspose.PUB for C++
 description: 'How to use AddComplexField method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/addcomplexfield/
 ---
 ## EscherOptionalDataDict::AddComplexField method

@@ -4,7 +4,7 @@ linktitle: get_ConversionOptions
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageDocumentItem::get_ConversionOptions method. Conversion settings in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pub/packagedocumentitem/get_conversionoptions/
 ---
 ## PackageDocumentItem::get_ConversionOptions method

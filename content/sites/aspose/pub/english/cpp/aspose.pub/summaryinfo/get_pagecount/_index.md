@@ -4,7 +4,7 @@ linktitle: get_PageCount
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_PageCount method. The total number of pages in the document in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.pub/summaryinfo/get_pagecount/
 ---
 ## SummaryInfo::get_PageCount method

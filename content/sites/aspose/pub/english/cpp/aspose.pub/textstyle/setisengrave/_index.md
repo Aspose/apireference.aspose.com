@@ -4,7 +4,7 @@ linktitle: SetIsEngrave
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetIsEngrave method. Sets is text engraved in C++.'
 type: docs
-weight: 2500
+weight: 2300
 url: /cpp/aspose.pub/textstyle/setisengrave/
 ---
 ## TextStyle::SetIsEngrave method

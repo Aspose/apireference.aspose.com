@@ -4,7 +4,7 @@ linktitle: HttpContentHeaders
 second_title: Aspose.PUB for C++
 description: 'System::Net::Http::Headers::HttpContentHeaders::HttpContentHeaders constructor. Constructs a new instance in C++.'
 type: docs
-weight: 2000
+weight: 100
 url: /cpp/system.net.http.headers/httpcontentheaders/httpcontentheaders/
 ---
 ## HttpContentHeaders::HttpContentHeaders constructor

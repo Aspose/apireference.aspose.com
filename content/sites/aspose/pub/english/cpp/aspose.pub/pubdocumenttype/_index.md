@@ -4,7 +4,7 @@ linktitle: PubDocumentType
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PubDocumentType enum. Represents storage type for document in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.pub/pubdocumenttype/
 ---
 ## PubDocumentType enum

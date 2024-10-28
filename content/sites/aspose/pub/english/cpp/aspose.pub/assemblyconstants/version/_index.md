@@ -4,7 +4,7 @@ linktitle: Version
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::AssemblyConstants::Version field. The version of the assembly in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pub/assemblyconstants/version/
 ---
 ## Version field

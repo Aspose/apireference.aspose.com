@@ -4,7 +4,7 @@ linktitle: get_DocumentFileName
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageFileItem::get_DocumentFileName method. Publisher document input file name in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pub/packagefileitem/get_documentfilename/
 ---
 ## PackageFileItem::get_DocumentFileName method

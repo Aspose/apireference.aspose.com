@@ -4,7 +4,7 @@ linktitle: CheckOffsets
 second_title: Aspose.PUB for C++
 description: 'How to use CheckOffsets method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/aspose.pub/gradientfill/checkoffsets/
 ---
 ## GradientFill::CheckOffsets method

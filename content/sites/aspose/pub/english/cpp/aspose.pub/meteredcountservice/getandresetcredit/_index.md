@@ -4,7 +4,7 @@ linktitle: GetAndResetCredit
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MeteredCountService::GetAndResetCredit method. Get and Reset customer consumption credit in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.pub/meteredcountservice/getandresetcredit/
 ---
 ## MeteredCountService::GetAndResetCredit method

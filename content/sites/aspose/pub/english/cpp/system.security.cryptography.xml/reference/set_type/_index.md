@@ -4,7 +4,7 @@ linktitle: set_Type
 second_title: Aspose.PUB for C++
 description: 'How to use set_Type method of System::Security::Cryptography::Xml::Reference class in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/system.security.cryptography.xml/reference/set_type/
 ---
 ## Reference::set_Type method

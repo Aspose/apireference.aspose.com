@@ -4,7 +4,7 @@ linktitle: SetIsSmallCapsMode
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetIsSmallCapsMode method. Enables/disables small caps mode for text in C++.'
 type: docs
-weight: 2200
+weight: 2700
 url: /cpp/aspose.pub/textstyle/setissmallcapsmode/
 ---
 ## TextStyle::SetIsSmallCapsMode method

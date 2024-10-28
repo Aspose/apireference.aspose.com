@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.PUB for C++
 description: 'System::Collections::Generic::List::IndexOf method. Gets first index of specific item in C++.'
 type: docs
-weight: 1800
+weight: 3100
 url: /cpp/system.collections.generic/list/indexof/
 ---
 ## List::IndexOf(const T\&) const method

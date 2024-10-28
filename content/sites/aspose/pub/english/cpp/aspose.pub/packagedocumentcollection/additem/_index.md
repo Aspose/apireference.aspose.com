@@ -4,7 +4,7 @@ linktitle: AddItem
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageDocumentCollection::AddItem method. Adds Publisher document into collection in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pub/packagedocumentcollection/additem/
 ---
 ## PackageDocumentCollection::AddItem method

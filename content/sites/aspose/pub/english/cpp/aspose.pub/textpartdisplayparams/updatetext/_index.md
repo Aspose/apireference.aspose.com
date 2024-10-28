@@ -4,7 +4,7 @@ linktitle: UpdateText
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextPartDisplayParams::UpdateText method. Updates text in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pub/textpartdisplayparams/updatetext/
 ---
 ## TextPartDisplayParams::UpdateText method

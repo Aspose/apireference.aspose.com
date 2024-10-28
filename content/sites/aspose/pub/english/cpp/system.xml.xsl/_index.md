@@ -26,5 +26,5 @@ url: /cpp/system.xml.xsl/
 
 | Typedef | Description |
 | --- | --- |
-| [XsltMessageEncounteredEventHandler](./xsltmessageencounteredeventhandler/) | Represents the method that will handle the **XsltArgumentList::XsltMessageEncountered** event. |
 | [XsltException](./xsltexception/) |  |
+| [XsltMessageEncounteredEventHandler](./xsltmessageencounteredeventhandler/) | Represents the method that will handle the **XsltArgumentList::XsltMessageEncountered** event. |

@@ -4,7 +4,7 @@ linktitle: get_FontIndex
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::get_FontIndex method. Gets index of font name in Document.FontNames array in C++.'
 type: docs
-weight: 1200
+weight: 400
 url: /cpp/aspose.pub/textstyle/get_fontindex/
 ---
 ## TextStyle::get_FontIndex method

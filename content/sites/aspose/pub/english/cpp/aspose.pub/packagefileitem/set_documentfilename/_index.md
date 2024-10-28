@@ -4,7 +4,7 @@ linktitle: set_DocumentFileName
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageFileItem::set_DocumentFileName method. Publisher document input file name in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pub/packagefileitem/set_documentfilename/
 ---
 ## PackageFileItem::set_DocumentFileName method

@@ -4,7 +4,7 @@ linktitle: get_FMTID
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::MetaInfo::get_FMTID method. FMTID identifier in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/aspose.pub/metainfo/get_fmtid/
 ---
 ## MetaInfo::get_FMTID method

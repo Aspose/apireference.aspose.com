@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageDocumentCollection::Clear method. Clears collection in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pub/packagedocumentcollection/clear/
 ---
 ## PackageDocumentCollection::Clear method

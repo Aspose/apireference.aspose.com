@@ -4,7 +4,7 @@ linktitle: get_FontName
 second_title: Aspose.PUB for C++
 description: 'How to use get_FontName method of Aspose::Pub::PubEmbeddedFont class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pub/pubembeddedfont/get_fontname/
 ---
 ## PubEmbeddedFont::get_FontName method

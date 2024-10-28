@@ -4,7 +4,7 @@ linktitle: get_Colors
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Document::get_Colors method. Array of colors in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/aspose.pub/document/get_colors/
 ---
 ## Document::get_Colors method

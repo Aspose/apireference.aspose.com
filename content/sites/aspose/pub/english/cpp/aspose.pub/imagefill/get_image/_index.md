@@ -4,7 +4,7 @@ linktitle: get_Image
 second_title: Aspose.PUB for C++
 description: 'How to use get_Image method of Aspose::Pub::ImageFill class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pub/imagefill/get_image/
 ---
 ## ImageFill::get_Image method

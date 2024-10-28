@@ -4,7 +4,7 @@ linktitle: CalculateHeight
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::Utils::Coord::CalculateHeight method. Calculates height of figure(current Coord object) and returns result in inches in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pub.utils/coord/calculateheight/
 ---
 ## Coord::CalculateHeight method

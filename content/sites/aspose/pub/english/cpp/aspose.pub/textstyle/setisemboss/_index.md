@@ -4,7 +4,7 @@ linktitle: SetIsEmboss
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetIsEmboss method. Sets is text embossed in C++.'
 type: docs
-weight: 2400
+weight: 2200
 url: /cpp/aspose.pub/textstyle/setisemboss/
 ---
 ## TextStyle::SetIsEmboss method

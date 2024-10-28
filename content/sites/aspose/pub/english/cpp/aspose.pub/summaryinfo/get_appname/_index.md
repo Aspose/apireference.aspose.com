@@ -4,7 +4,7 @@ linktitle: get_AppName
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_AppName method. The name of the application that was used to create the document in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.pub/summaryinfo/get_appname/
 ---
 ## SummaryInfo::get_AppName method

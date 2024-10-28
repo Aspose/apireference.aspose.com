@@ -4,7 +4,7 @@ linktitle: ComputeSignature
 second_title: Aspose.PUB for C++
 description: 'How to use ComputeSignature method of System::Security::Cryptography::Xml::SignedXml class in C++.'
 type: docs
-weight: 1800
+weight: 600
 url: /cpp/system.security.cryptography.xml/signedxml/computesignature/
 ---
 ## SignedXml::ComputeSignature method

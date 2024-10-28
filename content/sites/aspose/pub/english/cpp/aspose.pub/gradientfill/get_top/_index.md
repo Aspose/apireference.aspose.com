@@ -4,7 +4,7 @@ linktitle: get_Top
 second_title: Aspose.PUB for C++
 description: 'How to use get_Top method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/aspose.pub/gradientfill/get_top/
 ---
 ## GradientFill::get_Top method

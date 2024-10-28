@@ -72,10 +72,10 @@ template<typename T>class IEnumerable : public virtual System::Object
 
 | Typedef | Description |
 | --- | --- |
-| [IEnumeratorType](./ienumeratortype/) | RTTI information. |
-| [ValueType](./valuetype/) |  |
-| [iterator](./iterator/) | Iterator type. |
 | [const_iterator](./const_iterator/) | Const iterator type. |
+| [IEnumeratorType](./ienumeratortype/) | RTTI information. |
+| [iterator](./iterator/) | Iterator type. |
+| [ValueType](./valuetype/) |  |
 | [virtualized_iterator](./virtualized_iterator/) | Inner iterator base type. |
 | [virtualized_iterator_element](./virtualized_iterator_element/) | Inner iterator element type. |
 

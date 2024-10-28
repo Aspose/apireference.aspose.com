@@ -4,7 +4,7 @@ linktitle: GetCustomerData
 second_title: Aspose.PUB for C++
 description: 'How to use GetCustomerData method of Aspose::Pub::MeteredBillingService class in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pub/meteredbillingservice/getcustomerdata/
 ---
 ## MeteredBillingService::GetCustomerData method

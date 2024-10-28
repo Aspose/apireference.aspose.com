@@ -4,7 +4,7 @@ linktitle: SetBottomIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetBottomIndent method. Sets bottom indent in C++.'
 type: docs
-weight: 1900
+weight: 1500
 url: /cpp/aspose.pub/paragraphstyle/setbottomindent/
 ---
 ## ParagraphStyle::SetBottomIndent method

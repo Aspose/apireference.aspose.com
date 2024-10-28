@@ -4,7 +4,7 @@ linktitle: FastCast
 second_title: Aspose.PUB for C++
 description: 'System::Object::FastCast method. For internal purposes only in C++.'
 type: docs
-weight: 2000
+weight: 400
 url: /cpp/system/object/fastcast/
 ---
 ## Object::FastCast method

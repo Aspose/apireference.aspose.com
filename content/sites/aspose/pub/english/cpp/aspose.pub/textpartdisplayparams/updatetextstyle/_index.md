@@ -4,7 +4,7 @@ linktitle: UpdateTextStyle
 second_title: Aspose.PUB for C++
 description: 'How to use UpdateTextStyle method of Aspose::Pub::TextPartDisplayParams class in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pub/textpartdisplayparams/updatetextstyle/
 ---
 ## TextPartDisplayParams::UpdateTextStyle method

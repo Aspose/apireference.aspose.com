@@ -4,7 +4,7 @@ linktitle: get_Right
 second_title: Aspose.PUB for C++
 description: 'How to use get_Right method of Aspose::Pub::GradientFill class in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/aspose.pub/gradientfill/get_right/
 ---
 ## GradientFill::get_Right method

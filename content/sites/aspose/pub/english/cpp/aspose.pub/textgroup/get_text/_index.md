@@ -4,7 +4,7 @@ linktitle: get_Text
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextGroup::get_Text method. Text in group in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pub/textgroup/get_text/
 ---
 ## TextGroup::get_Text method

@@ -4,7 +4,7 @@ linktitle: SetIsAllCapsMode
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::TextStyle::SetIsAllCapsMode method. Enables/disables all caps mode for text in C++.'
 type: docs
-weight: 2300
+weight: 2000
 url: /cpp/aspose.pub/textstyle/setisallcapsmode/
 ---
 ## TextStyle::SetIsAllCapsMode method

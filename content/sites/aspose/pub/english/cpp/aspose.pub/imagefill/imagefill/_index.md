@@ -4,7 +4,7 @@ linktitle: ImageFill
 second_title: Aspose.PUB for C++
 description: 'How to use ImageFill constructor of Aspose::Pub::ImageFill class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.pub/imagefill/imagefill/
 ---
 ## ImageFill::ImageFill constructor

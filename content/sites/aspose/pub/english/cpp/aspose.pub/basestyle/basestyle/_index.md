@@ -4,7 +4,7 @@ linktitle: BaseStyle
 second_title: Aspose.PUB for C++
 description: 'How to use BaseStyle constructor of Aspose::Pub::BaseStyle class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pub/basestyle/basestyle/
 ---
 ## BaseStyle::BaseStyle constructor

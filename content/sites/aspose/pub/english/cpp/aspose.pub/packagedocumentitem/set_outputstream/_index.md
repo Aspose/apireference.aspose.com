@@ -4,7 +4,7 @@ linktitle: set_OutputStream
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageDocumentItem::set_OutputStream method. Output stream for saving conversion result in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.pub/packagedocumentitem/set_outputstream/
 ---
 ## PackageDocumentItem::set_OutputStream method

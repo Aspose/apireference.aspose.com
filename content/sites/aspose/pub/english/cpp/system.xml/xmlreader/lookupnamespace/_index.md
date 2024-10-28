@@ -4,7 +4,7 @@ linktitle: LookupNamespace
 second_title: Aspose.PUB for C++
 description: 'System::Xml::XmlReader::LookupNamespace method. When overridden in a derived class, resolves a namespace prefix in the current element''s scope in C++.'
 type: docs
-weight: 5700
+weight: 3100
 url: /cpp/system.xml/xmlreader/lookupnamespace/
 ---
 ## XmlReader::LookupNamespace method

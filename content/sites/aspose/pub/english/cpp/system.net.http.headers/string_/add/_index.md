@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.PUB for C++
 description: 'System::Net::Http::Headers::HttpHeaderValueCollection< System::String >::Add method. Adds element into collection in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/system.net.http.headers/string_/add/
 ---
 ## String >::Add method

@@ -4,7 +4,7 @@ linktitle: get_IsTexture
 second_title: Aspose.PUB for C++
 description: 'How to use get_IsTexture method of Aspose::Pub::ImageFill class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pub/imagefill/get_istexture/
 ---
 ## ImageFill::get_IsTexture method

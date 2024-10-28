@@ -4,7 +4,7 @@ linktitle: get_Template
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::get_Template method. Application-specific template from which the document was created in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.pub/summaryinfo/get_template/
 ---
 ## SummaryInfo::get_Template method

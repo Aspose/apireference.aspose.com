@@ -4,7 +4,7 @@ linktitle: get_ComplexFieldKeys
 second_title: Aspose.PUB for C++
 description: 'How to use get_ComplexFieldKeys method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/get_complexfieldkeys/
 ---
 ## EscherOptionalDataDict::get_ComplexFieldKeys method

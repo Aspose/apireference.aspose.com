@@ -4,7 +4,7 @@ linktitle: SetAuthor
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::SummaryInfo::SetAuthor method. Sets author of the document in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/aspose.pub/summaryinfo/setauthor/
 ---
 ## SummaryInfo::SetAuthor method

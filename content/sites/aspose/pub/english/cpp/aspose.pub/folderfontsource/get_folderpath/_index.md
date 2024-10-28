@@ -4,7 +4,7 @@ linktitle: get_FolderPath
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::FolderFontSource::get_FolderPath method. Path to the folder that contains font files in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pub/folderfontsource/get_folderpath/
 ---
 ## FolderFontSource::get_FolderPath method

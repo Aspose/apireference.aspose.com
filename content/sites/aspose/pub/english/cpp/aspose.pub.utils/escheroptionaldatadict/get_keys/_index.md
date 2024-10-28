@@ -4,7 +4,7 @@ linktitle: get_Keys
 second_title: Aspose.PUB for C++
 description: 'How to use get_Keys method of Aspose::Pub::Utils::EscherOptionalDataDict class in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pub.utils/escheroptionaldatadict/get_keys/
 ---
 ## EscherOptionalDataDict::get_Keys method

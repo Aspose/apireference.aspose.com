@@ -4,7 +4,7 @@ linktitle: get_ItemsCount
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::PackageDocumentCollection::get_ItemsCount method. Gets the total number of Publisher documents in the collection in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pub/packagedocumentcollection/get_itemscount/
 ---
 ## PackageDocumentCollection::get_ItemsCount method

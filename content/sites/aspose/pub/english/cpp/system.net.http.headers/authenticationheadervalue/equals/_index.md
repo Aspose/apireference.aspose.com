@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PUB for C++
 description: 'System::Net::Http::Headers::AuthenticationHeaderValue::Equals method. Compares objects using C# Object.Equals semantics in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/system.net.http.headers/authenticationheadervalue/equals/
 ---
 ## AuthenticationHeaderValue::Equals method

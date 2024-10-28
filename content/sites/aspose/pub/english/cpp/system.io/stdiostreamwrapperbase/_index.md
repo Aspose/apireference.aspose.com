@@ -38,14 +38,14 @@ template<typename T,typename>class STDIOStreamWrapperBase : public System::IO::S
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) |  |
 | [BaseType](./basetype/) |  |
-| [ThisTypeBaseTypesInfo](./thistypebasetypesinfo/) |  |
 | [char_type](./char_type/) | RTTI information. |
-| [traits_type](./traits_type/) |  |
 | [int_type](./int_type/) |  |
-| [pos_type](./pos_type/) |  |
 | [off_type](./off_type/) |  |
+| [pos_type](./pos_type/) |  |
+| [ThisType](./thistype/) |  |
+| [ThisTypeBaseTypesInfo](./thistypebasetypesinfo/) |  |
+| [traits_type](./traits_type/) |  |
 ## See Also
 
 * Class [Stream](../stream/)

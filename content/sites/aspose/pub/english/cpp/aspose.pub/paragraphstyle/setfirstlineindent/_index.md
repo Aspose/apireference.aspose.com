@@ -4,7 +4,7 @@ linktitle: SetFirstLineIndent
 second_title: Aspose.PUB for C++
 description: 'Aspose::Pub::ParagraphStyle::SetFirstLineIndent method. Sets first line indent in C++.'
 type: docs
-weight: 2000
+weight: 1700
 url: /cpp/aspose.pub/paragraphstyle/setfirstlineindent/
 ---
 ## ParagraphStyle::SetFirstLineIndent method
