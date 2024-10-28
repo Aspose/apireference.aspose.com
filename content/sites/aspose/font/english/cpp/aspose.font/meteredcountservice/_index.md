@@ -4,7 +4,7 @@ linktitle: MeteredCountService
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredCountService class. This internal class is used to handle customer''s consumption data, the unit is MB in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/aspose.font/meteredcountservice/
 ---
 ## MeteredCountService class

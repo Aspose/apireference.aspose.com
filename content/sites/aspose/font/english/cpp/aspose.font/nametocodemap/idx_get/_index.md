@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::NameToCodeMap::idx_get method. Gets code by name in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font/nametocodemap/idx_get/
 ---
 ## NameToCodeMap::idx_get method

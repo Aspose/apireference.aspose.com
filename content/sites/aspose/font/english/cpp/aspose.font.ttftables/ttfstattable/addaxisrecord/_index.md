@@ -4,7 +4,7 @@ linktitle: AddAxisRecord
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AddAxisRecord method. Adds an Axis Record structure to the table in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfstattable/addaxisrecord/
 ---
 ## TtfStatTable::AddAxisRecord method

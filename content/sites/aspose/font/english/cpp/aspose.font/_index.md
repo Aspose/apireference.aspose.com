@@ -16,6 +16,7 @@ url: /cpp/aspose.font/
 | --- | --- |
 | [AssemblyConstants](./assemblyconstants/) | Defines the constants that participate in the license check for the component. These used to be defined directly as assembly attributes, but I moved them into separate class because in .NET Compact Framework I cannot access assembly attributes. Now the licensing code when compiled for the .NET Compact Framework uses these constants instead of the assembly attributes. |
 | [BuildVersionInfo](./buildversioninfo/) | Provides information about the current product name and version. |
+| [CryptoProvider](./cryptoprovider/) |  |
 | [Font](./font/) | Represents base [Font](./font/) class. |
 | [FontBBox](./fontbbox/) | Represents [Font](./font/) bounding box (BBox). |
 | [FontEnvironment](./fontenvironment/) | Provides information about the current environment and platform. |
@@ -48,16 +49,16 @@ url: /cpp/aspose.font/
 | Enum | Description |
 | --- | --- |
 | [EditionType](./editiontype/) | Specifies the edition type of the license. |
-| [LicenseState](./licensestate/) | Represents possible license states. |
-| [MeteredState](./meteredstate/) | Represents possible metered states. |
 | [FontSavingFormats](./fontsavingformats/) | Specifies [Font](./font/) type. |
 | [FontStyle](./fontstyle/) | Specifies [Font](./font/) style. |
 | [FontType](./fonttype/) | Specifies [Font](./font/) type. |
+| [LicenseState](./licensestate/) | Represents possible license states. |
+| [MeteredState](./meteredstate/) | Represents possible metered states. |
 ## Functions
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

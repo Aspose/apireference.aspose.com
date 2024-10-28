@@ -28,9 +28,9 @@ template<typename T>class SortedSet : public System::Collections::Generic::BaseS
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) | Self type. |
 | [BaseType](./basetype/) | Vase type. |
 | [ThisPtr](./thisptr/) | Pointer type. |
+| [ThisType](./thistype/) | Self type. |
 ## Remarks
 
 

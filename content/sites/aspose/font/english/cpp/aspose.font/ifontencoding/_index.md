@@ -4,7 +4,7 @@ linktitle: IFontEncoding
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontEncoding class. Defines an interface for Font encoding in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.font/ifontencoding/
 ---
 ## IFontEncoding class

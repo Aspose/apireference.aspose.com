@@ -4,7 +4,7 @@ linktitle: DeleteRecordsByNameId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::DeleteRecordsByNameId method. Deletes all the records related to passed nameId parameter in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.font.ttftables/ttfnametable/deleterecordsbynameid/
 ---
 ## TtfNameTable::DeleteRecordsByNameId method

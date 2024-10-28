@@ -4,7 +4,7 @@ linktitle: GetAllGlyphIds
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Type1::Type1MetricFont::GetAllGlyphIds method. Returns all glyph ids, available in the Font. Not supported for Type1MetricFont type in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.font.type1/type1metricfont/getallglyphids/
 ---
 ## Type1MetricFont::GetAllGlyphIds method

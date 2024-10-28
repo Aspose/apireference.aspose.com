@@ -4,7 +4,7 @@ linktitle: get_FSSelection
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_FSSelection method. Contains information concerning the nature of the font patterns in C++.'
 type: docs
-weight: 2200
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfos2table/get_fsselection/
 ---
 ## TtfOs2Table::get_FSSelection method

@@ -4,7 +4,7 @@ linktitle: get_Segments
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::SegmentPath::get_Segments method. Gets path segments in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.renderingpath/segmentpath/get_segments/
 ---
 ## SegmentPath::get_Segments method

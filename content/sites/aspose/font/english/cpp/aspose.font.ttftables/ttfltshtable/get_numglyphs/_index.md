@@ -4,7 +4,7 @@ linktitle: get_NumGlyphs
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfLtshTable::get_NumGlyphs method. Number of glyphs (from “numGlyphs” in ''maxp'' table) in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfltshtable/get_numglyphs/
 ---
 ## TtfLtshTable::get_NumGlyphs method

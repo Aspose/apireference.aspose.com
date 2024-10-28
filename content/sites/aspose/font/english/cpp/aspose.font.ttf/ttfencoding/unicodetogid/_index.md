@@ -4,7 +4,7 @@ linktitle: UnicodeToGid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfEncoding::UnicodeToGid method. Decodes a unicode and returns glyph id in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.font.ttf/ttfencoding/unicodetogid/
 ---
 ## TtfEncoding::UnicodeToGid method

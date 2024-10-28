@@ -4,7 +4,7 @@ linktitle: get_NominalValue
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableFormat2::get_NominalValue method. A nominal numeric value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetableformat2/get_nominalvalue/
 ---
 ## AxisValueTableFormat2::get_NominalValue method

@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::get_IsEmpty method. True, if MultiLanguageString don''t have strings of languages in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.font/multilanguagestring/get_isempty/
 ---
 ## MultiLanguageString::get_IsEmpty method

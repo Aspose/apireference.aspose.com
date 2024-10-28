@@ -4,7 +4,7 @@ linktitle: get_Panose
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_Panose method. This 10 byte series of numbers is used to describe the visual characteristics of a given typeface. These characteristics are then used to associate the font with other fonts of similar appearance having different names in C++.'
 type: docs
-weight: 1900
+weight: 500
 url: /cpp/aspose.font.ttftables/ttfos2table/get_panose/
 ---
 ## TtfOs2Table::get_Panose method

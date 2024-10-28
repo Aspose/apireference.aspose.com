@@ -4,7 +4,7 @@ linktitle: FontMetrics
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontMetrics class. Represents Font metrics in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.font/fontmetrics/
 ---
 ## FontMetrics class

@@ -4,7 +4,7 @@ linktitle: GetMeteredState
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredBillingService::GetMeteredState method. Gets metered state in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font/meteredbillingservice/getmeteredstate/
 ---
 ## MeteredBillingService::GetMeteredState method

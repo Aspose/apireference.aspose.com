@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphIdList::idx_get method. Returns glyph id by the index in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.font.glyphs/glyphidlist/idx_get/
 ---
 ## GlyphIdList::idx_get method

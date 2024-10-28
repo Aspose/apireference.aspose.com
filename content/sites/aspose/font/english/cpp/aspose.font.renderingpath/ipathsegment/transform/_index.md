@@ -4,7 +4,7 @@ linktitle: Transform
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::IPathSegment::Transform method. Transforms coordinates with the transformation matrix in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font.renderingpath/ipathsegment/transform/
 ---
 ## IPathSegment::Transform method

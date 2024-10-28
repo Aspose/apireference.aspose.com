@@ -4,7 +4,7 @@ linktitle: IncreaseCount
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredCountService::IncreaseCount method. Increase customer consumption file size, and try to upload data in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.font/meteredcountservice/increasecount/
 ---
 ## MeteredCountService::IncreaseCount(double) method

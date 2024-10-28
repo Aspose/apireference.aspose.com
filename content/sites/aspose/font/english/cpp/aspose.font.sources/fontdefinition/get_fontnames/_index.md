@@ -4,7 +4,7 @@ linktitle: get_FontNames
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::FontDefinition::get_FontNames method. Gets Font names as a MultiLanguageString in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.font.sources/fontdefinition/get_fontnames/
 ---
 ## FontDefinition::get_FontNames method

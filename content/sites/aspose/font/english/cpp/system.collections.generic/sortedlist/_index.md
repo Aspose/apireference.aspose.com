@@ -52,18 +52,18 @@ template<typename TKey,typename TValue>class SortedList : public System::Collect
 
 | Typedef | Description |
 | --- | --- |
-| [KeyCollection](./keycollection/) | Key collection type. |
-| [ValueCollection](./valuecollection/) | Value collection type. |
-| [map_t](./map_t/) | Underlying data type. |
-| [this_t](./this_t/) | This type. |
-| [Ptr](./ptr/) | Pointer type. |
-| [KVPair](./kvpair/) | Key value pair type. |
+| [const_iterator](./const_iterator/) | Const iterator type. |
+| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
 | [IEnumerablePtr](./ienumerableptr/) | Collection of same pairs type. |
 | [IEnumeratorPtr](./ienumeratorptr/) | [Enumerator](./enumerator/) type. |
 | [iterator](./iterator/) | Iterator type. |
-| [const_iterator](./const_iterator/) | Const iterator type. |
+| [KeyCollection](./keycollection/) | Key collection type. |
+| [KVPair](./kvpair/) | Key value pair type. |
+| [map_t](./map_t/) | Underlying data type. |
+| [Ptr](./ptr/) | Pointer type. |
 | [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
-| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
+| [this_t](./this_t/) | This type. |
+| [ValueCollection](./valuecollection/) | Value collection type. |
 
 ## See Also
 

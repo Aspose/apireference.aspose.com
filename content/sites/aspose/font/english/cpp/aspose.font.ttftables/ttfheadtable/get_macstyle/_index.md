@@ -4,7 +4,7 @@ linktitle: get_MacStyle
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_MacStyle method. Gets uint16 macStyle in C++.'
 type: docs
-weight: 1400
+weight: 1000
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_macstyle/
 ---
 ## TtfHeadTable::get_MacStyle method

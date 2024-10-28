@@ -4,7 +4,7 @@ linktitle: DecodeToGidParameterized
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontEncoding::DecodeToGidParameterized method. Parameterized decode method in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.font/ifontencoding/decodetogidparameterized/
 ---
 ## IFontEncoding::DecodeToGidParameterized method

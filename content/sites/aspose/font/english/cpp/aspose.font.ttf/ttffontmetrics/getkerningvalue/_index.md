@@ -4,7 +4,7 @@ linktitle: GetKerningValue
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFontMetrics::GetKerningValue method. Returns kerning value for the glyph pair in C++.'
 type: docs
-weight: 1700
+weight: 1100
 url: /cpp/aspose.font.ttf/ttffontmetrics/getkerningvalue/
 ---
 ## TtfFontMetrics::GetKerningValue method

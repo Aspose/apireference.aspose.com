@@ -4,7 +4,7 @@ linktitle: FontBBox
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontBBox class. Represents Font bounding box (BBox) in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.font/fontbbox/
 ---
 ## FontBBox class

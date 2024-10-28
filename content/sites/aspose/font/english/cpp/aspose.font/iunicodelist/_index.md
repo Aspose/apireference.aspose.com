@@ -4,7 +4,7 @@ linktitle: IUnicodeList
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IUnicodeList class. Represents unicode list in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.font/iunicodelist/
 ---
 ## IUnicodeList class

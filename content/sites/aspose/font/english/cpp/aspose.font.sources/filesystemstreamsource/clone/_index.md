@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::FileSystemStreamSource::Clone method. Clones the FileSystemStreamSource object in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.font.sources/filesystemstreamsource/clone/
 ---
 ## FileSystemStreamSource::Clone method

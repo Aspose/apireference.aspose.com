@@ -4,7 +4,7 @@ linktitle: GetAllLanguageIds
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::GetAllLanguageIds method. Gets language identifiers for all strings or empty array if no strings are presents in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.font/multilanguagestring/getalllanguageids/
 ---
 ## MultiLanguageString::GetAllLanguageIds method

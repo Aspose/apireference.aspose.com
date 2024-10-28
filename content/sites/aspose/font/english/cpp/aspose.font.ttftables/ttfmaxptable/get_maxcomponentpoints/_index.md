@@ -4,7 +4,7 @@ linktitle: get_MaxComponentPoints
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfMaxpTable::get_MaxComponentPoints method. Gets uint16 maxComponentPoints points in compound glyph in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.font.ttftables/ttfmaxptable/get_maxcomponentpoints/
 ---
 ## TtfMaxpTable::get_MaxComponentPoints method

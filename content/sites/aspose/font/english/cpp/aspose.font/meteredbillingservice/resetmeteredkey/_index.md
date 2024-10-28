@@ -4,7 +4,7 @@ linktitle: ResetMeteredKey
 second_title: Aspose.Font for C++
 description: 'How to use ResetMeteredKey method of Aspose::Font::MeteredBillingService class in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font/meteredbillingservice/resetmeteredkey/
 ---
 ## MeteredBillingService::ResetMeteredKey method

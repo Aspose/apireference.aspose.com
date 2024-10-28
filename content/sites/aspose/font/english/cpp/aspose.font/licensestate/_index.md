@@ -4,7 +4,7 @@ linktitle: LicenseState
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::LicenseState enum. Represents possible license states in C++.'
 type: docs
-weight: 3100
+weight: 3500
 url: /cpp/aspose.font/licensestate/
 ---
 ## LicenseState enum

@@ -4,7 +4,7 @@ linktitle: SetVentureLicense
 second_title: Aspose.Font for C++
 description: 'How to use SetVentureLicense method of Aspose::Font::Licensing::IVentureLicenseTarget class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.licensing/iventurelicensetarget/setventurelicense/
 ---
 ## IVentureLicenseTarget::SetVentureLicense method

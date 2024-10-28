@@ -29,11 +29,11 @@ template<typename T>class ListExt : public System::Collections::Generic::List<T>
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) |  |
-| [ListType](./listtype/) |  |
-| [BaseTypes](./basetypes/) |  |
-| [ValueType](./valuetype/) |  |
 | [BaseType](./basetype/) |  |
+| [BaseTypes](./basetypes/) |  |
+| [ListType](./listtype/) |  |
+| [ThisType](./thistype/) |  |
+| [ValueType](./valuetype/) |  |
 ## See Also
 
 * Class [List](../list/)

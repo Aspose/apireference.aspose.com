@@ -4,7 +4,7 @@ linktitle: get_Modified
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_Modified method. Gets longDateTime modified international date in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_modified/
 ---
 ## TtfHeadTable::get_Modified method

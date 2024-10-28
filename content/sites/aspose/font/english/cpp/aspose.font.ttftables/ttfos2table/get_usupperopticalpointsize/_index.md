@@ -4,7 +4,7 @@ linktitle: get_USUpperOpticalPointSize
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_USUpperOpticalPointSize method. Gets USUpperOpticalPointSize value in C++.'
 type: docs
-weight: 3700
+weight: 2100
 url: /cpp/aspose.font.ttftables/ttfos2table/get_usupperopticalpointsize/
 ---
 ## TtfOs2Table::get_USUpperOpticalPointSize method

@@ -4,7 +4,7 @@ linktitle: get_PlatformId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::NameRecord::get_PlatformId method. Platform identifier code in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfnametable/namerecord/get_platformid/
 ---
 ## NameRecord::get_PlatformId method

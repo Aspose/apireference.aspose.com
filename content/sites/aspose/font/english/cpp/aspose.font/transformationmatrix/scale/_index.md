@@ -4,7 +4,7 @@ linktitle: Scale
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::Scale method. Scales x and y with the transformation matrix: x1 = A*x + C*y; y1 = B*x + D*y in C++.'
 type: docs
-weight: 1700
+weight: 1000
 url: /cpp/aspose.font/transformationmatrix/scale/
 ---
 ## TransformationMatrix::Scale method

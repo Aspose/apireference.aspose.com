@@ -4,7 +4,7 @@ linktitle: Encode
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffEncoding::Encode method. Encodes the glyph. Not supported for CFF Font types in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.cff/cffencoding/encode/
 ---
 ## CffEncoding::Encode method

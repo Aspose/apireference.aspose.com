@@ -4,7 +4,7 @@ linktitle: get_TopSideBearings
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfVmtxTable::get_TopSideBearings method. Gets Top Side Bearings. Array of top side bearings of the glyph in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfvmtxtable/get_topsidebearings/
 ---
 ## TtfVmtxTable::get_TopSideBearings method

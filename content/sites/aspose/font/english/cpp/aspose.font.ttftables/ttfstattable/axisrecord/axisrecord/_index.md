@@ -4,7 +4,7 @@ linktitle: AxisRecord
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisRecord::AxisRecord constructor. Constructor in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfstattable/axisrecord/axisrecord/
 ---
 ## AxisRecord::AxisRecord constructor

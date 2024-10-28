@@ -4,7 +4,7 @@ linktitle: set_C
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::set_C method. Sets C transformation matrix value in C++.'
 type: docs
-weight: 600
+weight: 1300
 url: /cpp/aspose.font/transformationmatrix/set_c/
 ---
 ## TransformationMatrix::set_C method

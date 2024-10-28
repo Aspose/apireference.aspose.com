@@ -60,10 +60,10 @@ class StringCollection : public System::Collections::Generic::IEnumerable<System
 
 | Typedef | Description |
 | --- | --- |
-| [iterator](./iterator/) | Iterator type. |
 | [const_iterator](./const_iterator/) | Const iterator type. |
-| [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
 | [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
+| [iterator](./iterator/) | Iterator type. |
+| [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
 ## See Also
 
 * Class [IEnumerable](../../system.collections.generic/ienumerable/)

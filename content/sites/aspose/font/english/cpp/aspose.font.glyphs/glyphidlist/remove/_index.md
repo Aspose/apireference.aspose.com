@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphIdList::Remove method. Removes glyph id from the list in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.font.glyphs/glyphidlist/remove/
 ---
 ## GlyphIdList::Remove method

@@ -4,7 +4,7 @@ linktitle: Copy
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::IPathSegment::Copy method. Creates copy of the segment object in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.renderingpath/ipathsegment/copy/
 ---
 ## IPathSegment::Copy method

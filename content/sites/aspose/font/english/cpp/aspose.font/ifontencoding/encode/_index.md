@@ -4,7 +4,7 @@ linktitle: Encode
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontEncoding::Encode method. Encodes the glyph. For TTF Fonts the charCode is unicode in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font/ifontencoding/encode/
 ---
 ## IFontEncoding::Encode method

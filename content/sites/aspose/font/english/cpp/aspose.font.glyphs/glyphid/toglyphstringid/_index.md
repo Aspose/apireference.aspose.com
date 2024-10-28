@@ -4,7 +4,7 @@ linktitle: ToGlyphStringId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphId::ToGlyphStringId method. Virtual cast to GlyphUInt32Id. GlyphUInt32Id overrides to return instance in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.font.glyphs/glyphid/toglyphstringid/
 ---
 ## GlyphId::ToGlyphStringId method

@@ -4,7 +4,7 @@ linktitle: DecodeToGidParameterized
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfEncoding::DecodeToGidParameterized method. Parametrized version allows to use specific CMap table (not unicode) in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.font.ttf/ttfencoding/decodetogidparameterized/
 ---
 ## TtfEncoding::DecodeToGidParameterized method

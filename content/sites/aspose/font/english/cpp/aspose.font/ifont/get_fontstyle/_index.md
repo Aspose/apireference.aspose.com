@@ -4,7 +4,7 @@ linktitle: get_FontStyle
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::get_FontStyle method. Gets Font style. This is a value computed and represented in generalized type in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.font/ifont/get_fontstyle/
 ---
 ## IFont::get_FontStyle method

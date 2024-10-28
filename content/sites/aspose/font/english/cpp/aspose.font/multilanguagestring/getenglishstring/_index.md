@@ -4,7 +4,7 @@ linktitle: GetEnglishString
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::GetEnglishString method. Returns english string if found. Otherwise returns first non-english string in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.font/multilanguagestring/getenglishstring/
 ---
 ## MultiLanguageString::GetEnglishString method

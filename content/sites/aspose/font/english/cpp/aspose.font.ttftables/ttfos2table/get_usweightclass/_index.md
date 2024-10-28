@@ -4,7 +4,7 @@ linktitle: get_USWeightClass
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_USWeightClass method. Indicates the visual weight (degree of blackness or thickness of strokes) of the characters in the Font in C++.'
 type: docs
-weight: 500
+weight: 2200
 url: /cpp/aspose.font.ttftables/ttfos2table/get_usweightclass/
 ---
 ## TtfOs2Table::get_USWeightClass method

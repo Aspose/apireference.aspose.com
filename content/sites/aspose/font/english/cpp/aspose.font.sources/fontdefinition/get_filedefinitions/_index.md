@@ -4,7 +4,7 @@ linktitle: get_FileDefinitions
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::FontDefinition::get_FileDefinitions method. Gets file definitions collection in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.font.sources/fontdefinition/get_filedefinitions/
 ---
 ## FontDefinition::get_FileDefinitions method

@@ -4,7 +4,7 @@ linktitle: GetGlyphsForText
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFont::GetGlyphsForText method. Get glyphs representation for text in C++.'
 type: docs
-weight: 2200
+weight: 2000
 url: /cpp/aspose.font.ttf/ttffont/getglyphsfortext/
 ---
 ## TtfFont::GetGlyphsForText method

@@ -4,7 +4,7 @@ linktitle: _IncreaseCredit
 second_title: Aspose.Font for C++
 description: 'How to use _IncreaseCredit method of Aspose::Font::MeteredCountService class in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.font/meteredcountservice/_increasecredit/
 ---
 ## MeteredCountService::_IncreaseCredit method

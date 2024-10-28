@@ -4,7 +4,7 @@ linktitle: GetAllCodes
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfCMapFormats::TtfCMapFormat6Table::GetAllCodes method. Gets all the codes from current CMap''s subtable in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font.ttfcmapformats/ttfcmapformat6table/getallcodes/
 ---
 ## TtfCMapFormat6Table::GetAllCodes method

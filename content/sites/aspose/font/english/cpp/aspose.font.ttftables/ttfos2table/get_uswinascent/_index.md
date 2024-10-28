@@ -4,7 +4,7 @@ linktitle: get_USWinAscent
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_USWinAscent method. Gets USWinAscent value in C++.'
 type: docs
-weight: 2800
+weight: 2400
 url: /cpp/aspose.font.ttftables/ttfos2table/get_uswinascent/
 ---
 ## TtfOs2Table::get_USWinAscent method

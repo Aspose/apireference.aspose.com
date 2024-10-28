@@ -4,7 +4,7 @@ linktitle: get_FontMatrix
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontMetrics::get_FontMatrix method. Gets FontMatrix value in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/aspose.font/fontmetrics/get_fontmatrix/
 ---
 ## FontMetrics::get_FontMatrix method

@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHheaTable::get_Version method. Gets version in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/aspose.font.ttftables/ttfhheatable/get_version/
 ---
 ## TtfHheaTable::get_Version method

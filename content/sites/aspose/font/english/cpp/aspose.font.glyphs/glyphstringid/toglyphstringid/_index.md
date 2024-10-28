@@ -4,7 +4,7 @@ linktitle: ToGlyphStringId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphStringId::ToGlyphStringId method. Cast GlyphId to GlyphStringId in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.font.glyphs/glyphstringid/toglyphstringid/
 ---
 ## GlyphStringId::ToGlyphStringId method

@@ -39,9 +39,9 @@ template<class T>class WeakPtr : public System::SmartPtr<T>
 
 | Typedef | Description |
 | --- | --- |
+| [Pointee_](./pointee_/) | Pointed type. |
 | [SmartPtr_](./smartptr_/) | Alias for corresponding [SmartPtr](../smartptr/) class. |
 | [WeakPtr_](./weakptr_/) | Alias for self type. |
-| [Pointee_](./pointee_/) | Pointed type. |
 
 ## See Also
 

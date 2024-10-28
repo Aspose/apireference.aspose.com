@@ -4,7 +4,7 @@ linktitle: NameId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::NameId enum. Represents NameId in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/aspose.font.ttftables/ttfnametable/nameid/
 ---
 ## NameId enum

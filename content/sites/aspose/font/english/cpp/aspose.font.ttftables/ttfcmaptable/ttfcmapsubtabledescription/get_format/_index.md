@@ -4,7 +4,7 @@ linktitle: get_Format
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfCMapTable::TtfCMapSubtableDescription::get_Format method. Gets subtable format in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfcmaptable/ttfcmapsubtabledescription/get_format/
 ---
 ## TtfCMapSubtableDescription::get_Format method

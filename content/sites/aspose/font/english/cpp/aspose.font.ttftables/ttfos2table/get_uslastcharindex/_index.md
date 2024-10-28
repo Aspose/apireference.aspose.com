@@ -4,7 +4,7 @@ linktitle: get_USLastCharIndex
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_USLastCharIndex method. Gets USLastCharIndex value in C++.'
 type: docs
-weight: 2400
+weight: 1800
 url: /cpp/aspose.font.ttftables/ttfos2table/get_uslastcharindex/
 ---
 ## TtfOs2Table::get_USLastCharIndex method

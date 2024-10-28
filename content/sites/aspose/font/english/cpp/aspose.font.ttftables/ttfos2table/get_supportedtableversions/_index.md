@@ -4,7 +4,7 @@ linktitle: get_SupportedTableVersions
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_SupportedTableVersions method. Gets supported versions of the OS/2 table in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/aspose.font.ttftables/ttfos2table/get_supportedtableversions/
 ---
 ## TtfOs2Table::get_SupportedTableVersions method

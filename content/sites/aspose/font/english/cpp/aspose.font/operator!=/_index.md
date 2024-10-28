@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Font for C++
 description: 'How to use operator!= method of  class in C++.'
 type: docs
-weight: 3800
+weight: 3700
 url: /cpp/aspose.font/operator!=/
 ---
 ## Aspose::Font::operator!=(const System::SharedPtr\<MultiLanguageString\>\&, const System::String\&) method

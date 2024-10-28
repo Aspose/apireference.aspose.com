@@ -4,7 +4,7 @@ linktitle: Font
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Font class. Represents base Font class in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font/font/
 ---
 ## Font class

@@ -4,7 +4,7 @@ linktitle: Encrypt
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Rijndael::RijndaelCryptoProvider::Encrypt method. Encrypts a stream in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/aspose.font.rijndael/rijndaelcryptoprovider/encrypt/
 ---
 ## RijndaelCryptoProvider::Encrypt method

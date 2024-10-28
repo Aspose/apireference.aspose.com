@@ -4,7 +4,7 @@ linktitle: get_IsCidKeyedFont
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffFont::get_IsCidKeyedFont method. Gets value indicating that the Font is cid-keyed in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.font.cff/cfffont/get_iscidkeyedfont/
 ---
 ## CffFont::get_IsCidKeyedFont method

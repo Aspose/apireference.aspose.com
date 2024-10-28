@@ -4,7 +4,7 @@ linktitle: get_UnitsPerEM
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_UnitsPerEM method. Gets uint16 unitsPerEm range from 64 to 16384 in C++.'
 type: docs
-weight: 700
+weight: 1300
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_unitsperem/
 ---
 ## TtfHeadTable::get_UnitsPerEM method

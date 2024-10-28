@@ -4,7 +4,7 @@ linktitle: get_XMax
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_XMax method. Gets FWord xMax for all glyph bounding boxes in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_xmax/
 ---
 ## TtfHeadTable::get_XMax method

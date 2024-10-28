@@ -4,7 +4,7 @@ linktitle: get_MaxMemType1
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfPostTable::get_MaxMemType1 method. Gets uint32 maxMemType1 Maximum memory usage when a TrueType font is downloaded as a Type 1 Font in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/aspose.font.ttftables/ttfposttable/get_maxmemtype1/
 ---
 ## TtfPostTable::get_MaxMemType1 method

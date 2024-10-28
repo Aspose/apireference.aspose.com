@@ -4,7 +4,7 @@ linktitle: get_HMetrics
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHmtxTable::get_HMetrics method. Gets horizontal metrics in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfhmtxtable/get_hmetrics/
 ---
 ## TtfHmtxTable::get_HMetrics method

@@ -4,7 +4,7 @@ linktitle: get_USWidthClass
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_USWidthClass method. Indicates a relative change from the normal aspect ratio (width to height ratio) as specified by a font designer for the glyphs in a Font in C++.'
 type: docs
-weight: 600
+weight: 2300
 url: /cpp/aspose.font.ttftables/ttfos2table/get_uswidthclass/
 ---
 ## TtfOs2Table::get_USWidthClass method

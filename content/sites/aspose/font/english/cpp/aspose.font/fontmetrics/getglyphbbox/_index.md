@@ -4,7 +4,7 @@ linktitle: GetGlyphBBox
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontMetrics::GetGlyphBBox method. Returns glyph BBox. Returns FontBBox if BBox was not defined for the glyph. May be overridden by specific font encoding inheritors in C++.'
 type: docs
-weight: 2200
+weight: 1300
 url: /cpp/aspose.font/fontmetrics/getglyphbbox/
 ---
 ## FontMetrics::GetGlyphBBox method

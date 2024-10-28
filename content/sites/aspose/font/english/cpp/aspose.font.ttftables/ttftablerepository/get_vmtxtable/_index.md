@@ -4,7 +4,7 @@ linktitle: get_VmtxTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_VmtxTable method. Gets vmtx table in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_vmtxtable/
 ---
 ## TtfTableRepository::get_VmtxTable method

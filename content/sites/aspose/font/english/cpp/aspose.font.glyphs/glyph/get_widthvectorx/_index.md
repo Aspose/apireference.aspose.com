@@ -4,7 +4,7 @@ linktitle: get_WidthVectorX
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::Glyph::get_WidthVectorX method. Gets glyph width vector. Coordinate x in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.font.glyphs/glyph/get_widthvectorx/
 ---
 ## Glyph::get_WidthVectorX method

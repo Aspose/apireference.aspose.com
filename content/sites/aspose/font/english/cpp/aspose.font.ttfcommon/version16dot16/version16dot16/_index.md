@@ -4,7 +4,7 @@ linktitle: Version16Dot16
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfCommon::Version16Dot16::Version16Dot16 constructor. Constructor in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.font.ttfcommon/version16dot16/version16dot16/
 ---
 ## Version16Dot16::Version16Dot16() constructor

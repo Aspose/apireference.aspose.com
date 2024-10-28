@@ -22,7 +22,6 @@ class ByteContentStreamSource : public Aspose::Font::Sources::StreamSource
 | --- | --- |
 | [ByteContentStreamSource](./bytecontentstreamsource/)(System::ArrayPtr\<uint8_t\>) | Initializes new [ByteContentStreamSource](./) object. |
 | [Clone](./clone/)() override | Clones the [ByteContentStreamSource](./) object. |
-| [get_StreamLength](./get_streamlength/)() override | Returns stream length. |
 | [GetFontStream](./getfontstream/)() override | Returns font file stream. Don't forget to close the stream after use. |
 ## See Also
 

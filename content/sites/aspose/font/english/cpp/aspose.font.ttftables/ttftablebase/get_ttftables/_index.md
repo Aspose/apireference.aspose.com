@@ -4,7 +4,7 @@ linktitle: get_TtfTables
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableBase::get_TtfTables method. Reference to TTF table repository in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.ttftables/ttftablebase/get_ttftables/
 ---
 ## TtfTableBase::get_TtfTables method

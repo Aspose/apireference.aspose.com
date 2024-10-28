@@ -4,7 +4,7 @@ linktitle: ISupportsNameAddressing
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::ISupportsNameAddressing class. Defines members that are specific to encodings that support glyph name addressing in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.font/isupportsnameaddressing/
 ---
 ## ISupportsNameAddressing class

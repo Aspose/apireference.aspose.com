@@ -4,7 +4,7 @@ linktitle: IFontDefinitionParser
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontDefinitionParser class. Common interface for font file parsers in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.font/ifontdefinitionparser/
 ---
 ## IFontDefinitionParser class

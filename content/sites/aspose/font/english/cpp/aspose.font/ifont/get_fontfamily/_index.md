@@ -4,7 +4,7 @@ linktitle: get_FontFamily
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::get_FontFamily method. Gets or Sets Font family in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.font/ifont/get_fontfamily/
 ---
 ## IFont::get_FontFamily method

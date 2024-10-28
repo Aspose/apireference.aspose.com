@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::Equals method. Returns true if objects are considered equal in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/aspose.font/multilanguagestring/equals/
 ---
 ## MultiLanguageString::Equals method

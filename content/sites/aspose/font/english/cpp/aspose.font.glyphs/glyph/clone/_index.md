@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::Glyph::Clone method. Returns copy of glyph in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.font.glyphs/glyph/clone/
 ---
 ## Glyph::Clone method

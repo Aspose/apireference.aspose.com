@@ -4,7 +4,7 @@ linktitle: FileSystemInfoPtr
 second_title: Aspose.Font for C++
 description: 'System::FileSystemInfoPtr typedef. An alias for a smart pointer that points to an instance of System::IO::FileSystemInfo class in C++.'
 type: docs
-weight: 10800
+weight: 11400
 url: /cpp/system/filesysteminfoptr/
 ---
 ## FileSystemInfoPtr typedef

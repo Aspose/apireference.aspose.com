@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::SegmentPath::Clone method. Clones Path in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font.renderingpath/segmentpath/clone/
 ---
 ## SegmentPath::Clone method

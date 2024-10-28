@@ -4,7 +4,7 @@ linktitle: ReleaseDate
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::AssemblyConstants::ReleaseDate field. This is used by Aspose licensing code to check for subscription expiry. You need to set this to the date you publish a release or a hotfix in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.font/assemblyconstants/releasedate/
 ---
 ## ReleaseDate field

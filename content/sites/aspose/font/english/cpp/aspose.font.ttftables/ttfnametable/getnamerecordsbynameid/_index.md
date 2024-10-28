@@ -4,7 +4,7 @@ linktitle: GetNameRecordsByNameId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::GetNameRecordsByNameId method. Returns all NameRecord structures which NameId field is equal to passed nameId  value. If no records found, empty array will be returned in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.font.ttftables/ttfnametable/getnamerecordsbynameid/
 ---
 ## TtfNameTable::GetNameRecordsByNameId method

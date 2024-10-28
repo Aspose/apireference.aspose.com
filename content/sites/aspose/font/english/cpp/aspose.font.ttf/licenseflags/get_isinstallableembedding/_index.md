@@ -4,7 +4,7 @@ linktitle: get_IsInstallableEmbedding
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::LicenseFlags::get_IsInstallableEmbedding method. Detects whether fsType is Installable embedding in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.font.ttf/licenseflags/get_isinstallableembedding/
 ---
 ## LicenseFlags::get_IsInstallableEmbedding method

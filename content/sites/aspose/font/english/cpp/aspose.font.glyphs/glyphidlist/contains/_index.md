@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphIdList::Contains method. Returns true in case glyph id is in the list in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font.glyphs/glyphidlist/contains/
 ---
 ## GlyphIdList::Contains method

@@ -4,7 +4,7 @@ linktitle: get_VheaTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_VheaTable method. Gets vhea table in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_vheatable/
 ---
 ## TtfTableRepository::get_VheaTable method

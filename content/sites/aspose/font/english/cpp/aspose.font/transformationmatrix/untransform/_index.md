@@ -4,7 +4,7 @@ linktitle: UnTransform
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::UnTransform method. Transforms back x1 and y1 and returns x and y before the transformation matrix in C++.'
 type: docs
-weight: 1500
+weight: 2000
 url: /cpp/aspose.font/transformationmatrix/untransform/
 ---
 ## TransformationMatrix::UnTransform method

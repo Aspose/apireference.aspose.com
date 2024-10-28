@@ -4,7 +4,7 @@ linktitle: get_Style
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Type1::Type1MetricFont::get_Style method. Gets Font style in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.font.type1/type1metricfont/get_style/
 ---
 ## Type1MetricFont::get_Style method

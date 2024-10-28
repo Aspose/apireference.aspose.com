@@ -4,7 +4,7 @@ linktitle: UnicodePlatformSpecificId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::UnicodePlatformSpecificId enum. Represents unicode platform-specific enumeration in C++.'
 type: docs
-weight: 1400
+weight: 1800
 url: /cpp/aspose.font.ttftables/ttfnametable/unicodeplatformspecificid/
 ---
 ## UnicodePlatformSpecificId enum

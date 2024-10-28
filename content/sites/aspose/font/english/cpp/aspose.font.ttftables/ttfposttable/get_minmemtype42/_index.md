@@ -4,7 +4,7 @@ linktitle: get_MinMemType42
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfPostTable::get_MinMemType42 method. Gets uint32 minMemType42 Minimum memory usage when a TrueType font is downloaded as a Type 42 Font in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.font.ttftables/ttfposttable/get_minmemtype42/
 ---
 ## TtfPostTable::get_MinMemType42 method

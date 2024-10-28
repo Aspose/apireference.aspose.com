@@ -4,7 +4,7 @@ linktitle: GetTypoDescender
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontMetrics::GetTypoDescender method. Returns descender for specific Font size in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.font/fontmetrics/gettypodescender/
 ---
 ## FontMetrics::GetTypoDescender method

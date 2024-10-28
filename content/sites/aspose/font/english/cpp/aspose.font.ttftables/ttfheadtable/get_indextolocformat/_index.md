@@ -4,7 +4,7 @@ linktitle: get_IndexToLocFormat
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_IndexToLocFormat method. Gets int16 indexToLocFormat 0 for short offsets, 1 for long in C++.'
 type: docs
-weight: 1700
+weight: 800
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_indextolocformat/
 ---
 ## TtfHeadTable::get_IndexToLocFormat method

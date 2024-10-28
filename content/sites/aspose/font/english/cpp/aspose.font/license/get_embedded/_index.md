@@ -4,7 +4,7 @@ linktitle: get_Embedded
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::License::get_Embedded method. License number was added as embedded resource in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font/license/get_embedded/
 ---
 ## License::get_Embedded method

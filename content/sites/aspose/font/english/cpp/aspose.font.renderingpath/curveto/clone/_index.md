@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::CurveTo::Clone method. Creates a new object that is a copy of the current instance in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.font.renderingpath/curveto/clone/
 ---
 ## CurveTo::Clone method

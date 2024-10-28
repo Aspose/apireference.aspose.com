@@ -4,7 +4,7 @@ linktitle: get_IsBitmapOnlyEmbedding
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::LicenseFlags::get_IsBitmapOnlyEmbedding method. Detects whether fsType permits BitmapOnly embedding in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/aspose.font.ttf/licenseflags/get_isbitmaponlyembedding/
 ---
 ## LicenseFlags::get_IsBitmapOnlyEmbedding method

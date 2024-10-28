@@ -4,7 +4,7 @@ linktitle: GetStringForLanguageId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::GetStringForLanguageId method. Returns string related to language identifier passed, if found. Empty string otherwise in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.font/multilanguagestring/getstringforlanguageid/
 ---
 ## MultiLanguageString::GetStringForLanguageId method

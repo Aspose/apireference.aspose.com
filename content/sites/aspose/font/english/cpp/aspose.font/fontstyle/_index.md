@@ -4,7 +4,7 @@ linktitle: FontStyle
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontStyle enum. Specifies Font style in C++.'
 type: docs
-weight: 3400
+weight: 3300
 url: /cpp/aspose.font/fontstyle/
 ---
 ## FontStyle enum

@@ -4,7 +4,7 @@ linktitle: GetGlyphBBox
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::GetGlyphBBox method. Returns glyph BBox in C++.'
 type: docs
-weight: 1800
+weight: 1300
 url: /cpp/aspose.font/ifontmetrics/getglyphbbox/
 ---
 ## IFontMetrics::GetGlyphBBox method

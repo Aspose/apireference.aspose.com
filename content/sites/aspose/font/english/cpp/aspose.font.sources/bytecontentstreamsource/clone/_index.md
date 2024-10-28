@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::ByteContentStreamSource::Clone method. Clones the ByteContentStreamSource object in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.font.sources/bytecontentstreamsource/clone/
 ---
 ## ByteContentStreamSource::Clone method

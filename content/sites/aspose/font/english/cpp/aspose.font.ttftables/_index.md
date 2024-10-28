@@ -4,7 +4,7 @@ linktitle: Aspose::Font::TtfTables
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::TtfTables namespace in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.font.ttftables/
 ---
 
@@ -39,5 +39,5 @@ url: /cpp/aspose.font.ttftables/
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

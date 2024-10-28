@@ -4,7 +4,7 @@ linktitle: GetMultiLanguageNameById
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::GetMultiLanguageNameById method. Returns a name by nameId in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.font.ttftables/ttfnametable/getmultilanguagenamebyid/
 ---
 ## TtfNameTable::GetMultiLanguageNameById(TtfNameTable::NameId) method

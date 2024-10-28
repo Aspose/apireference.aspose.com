@@ -4,7 +4,7 @@ linktitle: UpdateName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::UpdateName method. Updates name in record(s) which related to specified platform (combination of platformId and platformSpecificId), category (nameId) and language (languageId) in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/aspose.font.ttftables/ttfnametable/updatename/
 ---
 ## TtfNameTable::UpdateName method

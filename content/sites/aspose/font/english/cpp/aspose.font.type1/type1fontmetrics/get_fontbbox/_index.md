@@ -4,7 +4,7 @@ linktitle: get_FontBBox
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Type1::Type1FontMetrics::get_FontBBox method. Gets FontBBox value in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/aspose.font.type1/type1fontmetrics/get_fontbbox/
 ---
 ## Type1FontMetrics::get_FontBBox method

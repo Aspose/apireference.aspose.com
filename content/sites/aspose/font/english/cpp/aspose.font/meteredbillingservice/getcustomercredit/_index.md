@@ -4,7 +4,7 @@ linktitle: GetCustomerCredit
 second_title: Aspose.Font for C++
 description: 'How to use GetCustomerCredit method of Aspose::Font::MeteredBillingService class in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.font/meteredbillingservice/getcustomercredit/
 ---
 ## MeteredBillingService::GetCustomerCredit method

@@ -4,7 +4,7 @@ linktitle: set_FontName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFont::set_FontName method. Gets or Sets Font face name in C++.'
 type: docs
-weight: 1000
+weight: 2200
 url: /cpp/aspose.font.ttf/ttffont/set_fontname/
 ---
 ## TtfFont::set_FontName method

@@ -4,7 +4,7 @@ linktitle: IFontSaver
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontSaver class. Defines an interface for Font save functionality in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.font/ifontsaver/
 ---
 ## IFontSaver class

@@ -4,7 +4,7 @@ linktitle: get_IsFixedPitch
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::get_IsFixedPitch method. True, if the Font is monospaced in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.font/ifontmetrics/get_isfixedpitch/
 ---
 ## IFontMetrics::get_IsFixedPitch method

@@ -4,7 +4,7 @@ linktitle: IStreamFontParser
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IStreamFontParser class. Designed to parse fonts basing on stream bytes, which are provided by Stream object in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.font/istreamfontparser/
 ---
 ## IStreamFontParser class

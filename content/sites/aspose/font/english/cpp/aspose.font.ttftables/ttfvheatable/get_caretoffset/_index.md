@@ -4,7 +4,7 @@ linktitle: get_CaretOffset
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfVheaTable::get_CaretOffset method. Gets CaretOffset in C++.'
 type: docs
-weight: 1200
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfvheatable/get_caretoffset/
 ---
 ## TtfVheaTable::get_CaretOffset method

@@ -4,7 +4,7 @@ linktitle: get_String
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::NameRecord::get_String method. String in the string storage related to this name record in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.font.ttftables/ttfnametable/namerecord/get_string/
 ---
 ## NameRecord::get_String method

@@ -4,7 +4,7 @@ linktitle: get_FontBBox
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::get_FontBBox method. Gets Font bounding box in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font/ifontmetrics/get_fontbbox/
 ---
 ## IFontMetrics::get_FontBBox method

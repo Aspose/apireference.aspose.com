@@ -4,7 +4,7 @@ linktitle: Multiply
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::Multiply method. Multiplies with another transformation matrix. Doesn''t change original transformation matrix, returns a new TransformationMatrix object in C++.'
 type: docs
-weight: 1800
+weight: 900
 url: /cpp/aspose.font/transformationmatrix/multiply/
 ---
 ## TransformationMatrix::Multiply method

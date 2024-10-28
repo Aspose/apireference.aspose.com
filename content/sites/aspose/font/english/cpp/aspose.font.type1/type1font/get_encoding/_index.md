@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Type1::Type1Font::get_Encoding method. Gets Font encoding in C++.'
 type: docs
-weight: 1300
+weight: 200
 url: /cpp/aspose.font.type1/type1font/get_encoding/
 ---
 ## Type1Font::get_Encoding method

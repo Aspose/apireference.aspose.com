@@ -4,7 +4,7 @@ linktitle: ToArray
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::ToArray method. Allocates new array, copies the transformation matrix and returns it in C++.'
 type: docs
-weight: 1900
+weight: 1700
 url: /cpp/aspose.font/transformationmatrix/toarray/
 ---
 ## TransformationMatrix::ToArray method

@@ -4,7 +4,7 @@ linktitle: get_Path
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::Glyph::get_Path method. Gets glyph path in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.font.glyphs/glyph/get_path/
 ---
 ## Glyph::get_Path method

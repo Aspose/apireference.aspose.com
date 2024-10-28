@@ -4,7 +4,7 @@ linktitle: TtfFontMetrics
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFontMetrics class. Represents TTF Font metrics in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.font.ttf/ttffontmetrics/
 ---
 ## TtfFontMetrics class

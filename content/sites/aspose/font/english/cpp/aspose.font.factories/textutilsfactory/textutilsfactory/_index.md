@@ -4,7 +4,7 @@ linktitle: TextUtilsFactory
 second_title: Aspose.Font for C++
 description: 'How to use TextUtilsFactory constructor of Aspose::Font::Factories::TextUtilsFactory class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.font.factories/textutilsfactory/textutilsfactory/
 ---
 ## TextUtilsFactory::TextUtilsFactory constructor

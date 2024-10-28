@@ -4,7 +4,7 @@ linktitle: get_FontType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Font::get_FontType method. Gets Font type in C++.'
 type: docs
-weight: 100
+weight: 900
 url: /cpp/aspose.font/font/get_fonttype/
 ---
 ## Font::get_FontType method

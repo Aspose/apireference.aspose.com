@@ -4,7 +4,7 @@ linktitle: get_XMin
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_XMin method. Gets FWord xMin for all glyph bounding boxes in C++.'
 type: docs
-weight: 1000
+weight: 1600
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_xmin/
 ---
 ## TtfHeadTable::get_XMin method

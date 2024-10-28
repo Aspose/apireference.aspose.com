@@ -4,7 +4,7 @@ linktitle: System::Net
 second_title: Aspose.Font for C++
 description: 'How to use System::Net namespace in C++.'
 type: docs
-weight: 4300
+weight: 4200
 url: /cpp/system.net/
 ---
 
@@ -72,6 +72,6 @@ url: /cpp/system.net/
 
 | Typedef | Description |
 | --- | --- |
-| [CookieException](./cookieexception/) |  |
 | [BindIPEndPoint](./bindipendpoint/) |  |
+| [CookieException](./cookieexception/) |  |
 | [WebException](./webexception/) |  |

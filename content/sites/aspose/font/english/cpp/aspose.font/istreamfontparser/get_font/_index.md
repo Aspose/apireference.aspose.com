@@ -4,7 +4,7 @@ linktitle: get_Font
 second_title: Aspose.Font for C++
 description: 'How to use get_Font method of Aspose::Font::IStreamFontParser class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font/istreamfontparser/get_font/
 ---
 ## IStreamFontParser::get_Font method

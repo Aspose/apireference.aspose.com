@@ -4,7 +4,7 @@ linktitle: set_TY
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::set_TY method. Sets TY transformation matrix value in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/aspose.font/transformationmatrix/set_ty/
 ---
 ## TransformationMatrix::set_TY method

@@ -4,7 +4,7 @@ linktitle: GetGlyphComponentsById
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFont::GetGlyphComponentsById method. Gets a glyph by glyph identifier passed and fills passed list of glyph identifiers with components of this glyph. Glyph id is a unique number for a glyph, which is font type dependent. TTF Font glyph id can be instance of (GlyphStringId) class or (GlyphUInt32Id) class. Name (string) glyph addressing is supported for TTF Fonts via Post table mapping. In case CFF Font inside, the CFF structures are used to address glyphs by name in C++.'
 type: docs
-weight: 2100
+weight: 1900
 url: /cpp/aspose.font.ttf/ttffont/getglyphcomponentsbyid/
 ---
 ## TtfFont::GetGlyphComponentsById(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>, System::SharedPtr\<Aspose::Font::Glyphs::GlyphIdList\>) method

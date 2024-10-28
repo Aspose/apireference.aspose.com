@@ -4,7 +4,7 @@ linktitle: DecodeToGidParameterized
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffEncoding::DecodeToGidParameterized method. Parameterized decode method. Not supported for CFF Font type in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.font.cff/cffencoding/decodetogidparameterized/
 ---
 ## CffEncoding::DecodeToGidParameterized method

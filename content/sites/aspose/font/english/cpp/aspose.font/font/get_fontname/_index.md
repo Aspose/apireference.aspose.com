@@ -4,7 +4,7 @@ linktitle: get_FontName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Font::get_FontName method. Gets or Sets Font face name in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.font/font/get_fontname/
 ---
 ## Font::get_FontName method

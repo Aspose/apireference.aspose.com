@@ -4,7 +4,7 @@ linktitle: Decrypt
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Rijndael::RijndaelCryptoProvider::Decrypt method. Decrypts a stream in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.font.rijndael/rijndaelcryptoprovider/decrypt/
 ---
 ## RijndaelCryptoProvider::Decrypt method

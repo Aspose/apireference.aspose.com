@@ -4,7 +4,7 @@ linktitle: get_ElidedFallbackNameId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::get_ElidedFallbackNameId method. Spec: Name ID used as fallback when projection of names into a particular font model produces a subfamily name containing only elidable elements in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/aspose.font.ttftables/ttfstattable/get_elidedfallbacknameid/
 ---
 ## TtfStatTable::get_ElidedFallbackNameId method

@@ -4,7 +4,7 @@ linktitle: License
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::License class. Provides methods to license the component in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.font/license/
 ---
 ## License class

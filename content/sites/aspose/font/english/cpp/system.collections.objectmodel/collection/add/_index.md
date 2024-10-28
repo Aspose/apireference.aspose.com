@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Font for C++
 description: 'System::Collections::ObjectModel::Collection::Add method. Adds value to container in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/system.collections.objectmodel/collection/add/
 ---
 ## Collection::Add method

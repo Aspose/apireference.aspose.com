@@ -4,7 +4,7 @@ linktitle: get_TopSideBearing
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfVmtxTable::LongVerMetric::get_TopSideBearing method. Gets top side bearing value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfvmtxtable/longvermetric/get_topsidebearing/
 ---
 ## LongVerMetric::get_TopSideBearing method

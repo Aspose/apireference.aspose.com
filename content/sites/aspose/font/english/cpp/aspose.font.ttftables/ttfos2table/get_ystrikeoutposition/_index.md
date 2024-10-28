@@ -4,7 +4,7 @@ linktitle: get_YStrikeoutPosition
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_YStrikeoutPosition method. Gets YStrikeoutPosition value in C++.'
 type: docs
-weight: 1700
+weight: 2800
 url: /cpp/aspose.font.ttftables/ttfos2table/get_ystrikeoutposition/
 ---
 ## TtfOs2Table::get_YStrikeoutPosition method

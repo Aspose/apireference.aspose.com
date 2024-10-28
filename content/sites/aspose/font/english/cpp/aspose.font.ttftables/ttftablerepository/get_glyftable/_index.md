@@ -4,7 +4,7 @@ linktitle: get_GlyfTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_GlyfTable method. Gets glyf table in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_glyftable/
 ---
 ## TtfTableRepository::get_GlyfTable method

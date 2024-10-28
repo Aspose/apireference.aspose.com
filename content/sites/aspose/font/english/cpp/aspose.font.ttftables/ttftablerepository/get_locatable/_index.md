@@ -4,7 +4,7 @@ linktitle: get_LocaTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_LocaTable method. Gets loca table in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_locatable/
 ---
 ## TtfTableRepository::get_LocaTable method

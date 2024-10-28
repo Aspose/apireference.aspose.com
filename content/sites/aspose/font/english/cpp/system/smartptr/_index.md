@@ -84,9 +84,9 @@ template<class T>class SmartPtr
 
 | Typedef | Description |
 | --- | --- |
+| [ArrayType](./arraytype/) | Same as Pointee_, if it is a specialization of [System::Array](../array/), and void otherwise. |
 | [Pointee_](./pointee_/) | Pointed type. |
 | [SmartPtr_](./smartptr_/) | Specialized smart pointer type. |
-| [ArrayType](./arraytype/) | Same as Pointee_, if it is a specialization of [System::Array](../array/), and void otherwise. |
 | [ValueType](./valuetype/) | Storage type of pointed array. Only meaningful if T is a specialization of [System::Array](../array/). |
 
 ## See Also

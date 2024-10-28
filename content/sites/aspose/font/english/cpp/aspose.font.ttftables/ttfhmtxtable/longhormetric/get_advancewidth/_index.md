@@ -4,7 +4,7 @@ linktitle: get_AdvanceWidth
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHmtxTable::LongHorMetric::get_AdvanceWidth method. Gets advance width value in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfhmtxtable/longhormetric/get_advancewidth/
 ---
 ## LongHorMetric::get_AdvanceWidth method

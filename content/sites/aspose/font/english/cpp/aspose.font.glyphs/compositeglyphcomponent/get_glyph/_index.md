@@ -4,7 +4,7 @@ linktitle: get_Glyph
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::CompositeGlyphComponent::get_Glyph method. Gets the component glyph in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.glyphs/compositeglyphcomponent/get_glyph/
 ---
 ## CompositeGlyphComponent::get_Glyph method

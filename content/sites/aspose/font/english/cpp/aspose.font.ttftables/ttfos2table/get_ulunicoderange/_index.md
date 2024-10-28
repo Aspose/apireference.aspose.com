@@ -4,7 +4,7 @@ linktitle: get_ULUnicodeRange
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_ULUnicodeRange method. Gets ULUnicodeRange value in C++.'
 type: docs
-weight: 2000
+weight: 1400
 url: /cpp/aspose.font.ttftables/ttfos2table/get_ulunicoderange/
 ---
 ## TtfOs2Table::get_ULUnicodeRange method

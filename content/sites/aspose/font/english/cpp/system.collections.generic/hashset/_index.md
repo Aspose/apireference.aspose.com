@@ -28,9 +28,9 @@ template<typename T>class HashSet : public System::Collections::Generic::BaseSet
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) | Self type. |
 | [BaseType](./basetype/) | Base type. |
 | [ThisPtr](./thisptr/) | Pointer type. |
+| [ThisType](./thistype/) | Self type. |
 ## Remarks
 
 

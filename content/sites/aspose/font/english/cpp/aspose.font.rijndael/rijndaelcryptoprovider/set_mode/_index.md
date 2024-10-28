@@ -4,7 +4,7 @@ linktitle: set_Mode
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Rijndael::RijndaelCryptoProvider::set_Mode method. Sets cipher mode (CBC, ECB) in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.font.rijndael/rijndaelcryptoprovider/set_mode/
 ---
 ## RijndaelCryptoProvider::set_Mode method

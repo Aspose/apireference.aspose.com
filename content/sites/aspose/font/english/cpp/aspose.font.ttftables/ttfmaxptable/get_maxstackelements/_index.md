@@ -4,7 +4,7 @@ linktitle: get_MaxStackElements
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfMaxpTable::get_MaxStackElements method. Gets uint16 maxStackElements maximum stack depth in C++.'
 type: docs
-weight: 1400
+weight: 1100
 url: /cpp/aspose.font.ttftables/ttfmaxptable/get_maxstackelements/
 ---
 ## TtfMaxpTable::get_MaxStackElements method

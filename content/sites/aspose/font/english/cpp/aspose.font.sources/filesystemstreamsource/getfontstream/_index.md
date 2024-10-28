@@ -4,7 +4,7 @@ linktitle: GetFontStream
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::FileSystemStreamSource::GetFontStream method. Returns font file stream. Don''t forget to close the stream after use in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.font.sources/filesystemstreamsource/getfontstream/
 ---
 ## FileSystemStreamSource::GetFontStream method

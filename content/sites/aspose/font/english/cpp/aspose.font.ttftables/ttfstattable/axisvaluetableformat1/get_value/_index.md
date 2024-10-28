@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableFormat1::get_Value method. The numeric value for this attribute value in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetableformat1/get_value/
 ---
 ## AxisValueTableFormat1::get_Value method

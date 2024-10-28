@@ -4,7 +4,7 @@ linktitle: get_GaspRanges
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfGaspTable::get_GaspRanges method. The list of GaspRange records provides recommended behaviors for various ppem sizes in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfgasptable/get_gaspranges/
 ---
 ## TtfGaspTable::get_GaspRanges method

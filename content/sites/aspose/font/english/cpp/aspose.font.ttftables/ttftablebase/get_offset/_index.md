@@ -4,7 +4,7 @@ linktitle: get_Offset
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableBase::get_Offset method. Gets offset from beginning of sfnt in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font.ttftables/ttftablebase/get_offset/
 ---
 ## TtfTableBase::get_Offset method

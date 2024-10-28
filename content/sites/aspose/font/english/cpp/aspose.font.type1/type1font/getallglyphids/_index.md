@@ -4,7 +4,7 @@ linktitle: GetAllGlyphIds
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Type1::Type1Font::GetAllGlyphIds method. Returns array of all glyph ids, available in the Font. Glyph id is a unique number for a glyph, which is font type dependent. Type1Font glyph id can be instance of (GlyphStringId) class or (GlyphUInt32Id) class in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/aspose.font.type1/type1font/getallglyphids/
 ---
 ## Type1Font::GetAllGlyphIds method

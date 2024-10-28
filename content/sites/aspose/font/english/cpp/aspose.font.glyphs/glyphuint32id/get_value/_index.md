@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphUInt32Id::get_Value method. Gets int value of the ID in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.font.glyphs/glyphuint32id/get_value/
 ---
 ## GlyphUInt32Id::get_Value method

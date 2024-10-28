@@ -4,7 +4,7 @@ linktitle: get_STypoAscender
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_STypoAscender method. Gets STypoAscender value in C++.'
 type: docs
-weight: 2500
+weight: 800
 url: /cpp/aspose.font.ttftables/ttfos2table/get_stypoascender/
 ---
 ## TtfOs2Table::get_STypoAscender method

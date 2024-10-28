@@ -4,7 +4,7 @@ linktitle: get_AxisValues
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableFormat4::get_AxisValues method. Array of AxisValue records that provide the combination of axis values, one for each contributing axis in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetableformat4/get_axisvalues/
 ---
 ## AxisValueTableFormat4::get_AxisValues method

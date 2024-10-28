@@ -4,7 +4,7 @@ linktitle: MorseAlphabets
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TextUtils::MorseAlphabets enum. Represents set of alphabets supported for Morse code in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.font.textutils/morsealphabets/
 ---
 ## MorseAlphabets enum

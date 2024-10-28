@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Font::Save method. Saves the Font into original format in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/aspose.font/font/save/
 ---
 ## Font::Save(System::SharedPtr\<System::IO::Stream\>) method

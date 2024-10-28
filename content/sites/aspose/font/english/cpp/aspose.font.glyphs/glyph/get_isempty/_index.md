@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::Glyph::get_IsEmpty method. True if the glyph doesn''t contain drawing instructions in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.glyphs/glyph/get_isempty/
 ---
 ## Glyph::get_IsEmpty method

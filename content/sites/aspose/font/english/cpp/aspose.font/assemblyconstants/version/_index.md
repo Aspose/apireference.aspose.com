@@ -4,7 +4,7 @@ linktitle: Version
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::AssemblyConstants::Version field. The version of the assembly in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.font/assemblyconstants/version/
 ---
 ## Version field

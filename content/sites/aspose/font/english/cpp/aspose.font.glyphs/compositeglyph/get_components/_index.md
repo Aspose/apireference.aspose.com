@@ -4,7 +4,7 @@ linktitle: get_Components
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::CompositeGlyph::get_Components method. Gets components list in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.glyphs/compositeglyph/get_components/
 ---
 ## CompositeGlyph::get_Components method

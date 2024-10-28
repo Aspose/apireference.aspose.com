@@ -4,7 +4,7 @@ linktitle: get_LtshTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_LtshTable method. Gets LTSH table in C++.'
 type: docs
-weight: 1700
+weight: 1100
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_ltshtable/
 ---
 ## TtfTableRepository::get_LtshTable method

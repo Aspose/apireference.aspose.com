@@ -4,7 +4,7 @@ linktitle: Shift
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::IPathSegment::Shift method. Performs shift by x and y coordinates in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.renderingpath/ipathsegment/shift/
 ---
 ## IPathSegment::Shift method

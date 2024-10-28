@@ -4,7 +4,7 @@ linktitle: get_Descent
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfVheaTable::get_Descent method. Gets Descent. Distance in FUnits from the centerline to the next line’s ascent in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.font.ttftables/ttfvheatable/get_descent/
 ---
 ## TtfVheaTable::get_Descent method

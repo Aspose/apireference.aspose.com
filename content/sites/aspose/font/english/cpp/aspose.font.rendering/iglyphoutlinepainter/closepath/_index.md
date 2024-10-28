@@ -4,7 +4,7 @@ linktitle: ClosePath
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Rendering::IGlyphOutlinePainter::ClosePath method. Processes ClosePath operation in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font.rendering/iglyphoutlinepainter/closepath/
 ---
 ## IGlyphOutlinePainter::ClosePath method

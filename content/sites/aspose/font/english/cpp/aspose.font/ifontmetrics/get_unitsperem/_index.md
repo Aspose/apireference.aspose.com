@@ -4,7 +4,7 @@ linktitle: get_UnitsPerEM
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::get_UnitsPerEM method. Gets units per em in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/aspose.font/ifontmetrics/get_unitsperem/
 ---
 ## IFontMetrics::get_UnitsPerEM method

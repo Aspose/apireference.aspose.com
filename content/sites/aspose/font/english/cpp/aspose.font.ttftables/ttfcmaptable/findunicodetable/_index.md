@@ -4,7 +4,7 @@ linktitle: FindUnicodeTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfCMapTable::FindUnicodeTable method. Searches and returns unicode CMap. if there is ucs-4 CMap - returns it first; otherwise - returns any unicode cmap it can find in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfcmaptable/findunicodetable/
 ---
 ## TtfCMapTable::FindUnicodeTable method

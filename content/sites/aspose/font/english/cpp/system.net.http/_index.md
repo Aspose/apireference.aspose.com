@@ -4,7 +4,7 @@ linktitle: System::Net::Http
 second_title: Aspose.Font for C++
 description: 'How to use System::Net::Http namespace in C++.'
 type: docs
-weight: 4500
+weight: 4400
 url: /cpp/system.net.http/
 ---
 
@@ -40,5 +40,5 @@ url: /cpp/system.net.http/
 
 | Function | Description |
 | --- | --- |
-| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

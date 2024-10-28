@@ -26,7 +26,6 @@ class FontFileDefinition : public System::Object
 | [FontFileDefinition](./fontfiledefinition/)(System::SharedPtr\<System::IO::FileInfo\>) | Creates a file definition using font file (represented by FileInfo) and file content. |
 | [get_FileExtension](./get_fileextension/)() const | Gets [Font](../../aspose.font/font/) file extension. |
 | [get_FileName](./get_filename/)() const | Gets [Font](../../aspose.font/font/) file name. |
-| [get_Length](./get_length/)() const | Gets length of the stream. |
 | [get_Offset](./get_offset/)() const | Gets offset inside the stream. |
 | [get_StreamSource](./get_streamsource/)() const | Gets the stream source. |
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_FontNames
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::get_FontNames method. Gets Font names in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.font/ifont/get_fontnames/
 ---
 ## IFont::get_FontNames method

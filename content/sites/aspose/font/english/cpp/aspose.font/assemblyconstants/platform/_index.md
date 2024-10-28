@@ -4,7 +4,7 @@ linktitle: Platform
 second_title: Aspose.Font for C++
 description: 'How to use Platform field of Aspose::Font::AssemblyConstants class in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font/assemblyconstants/platform/
 ---
 ## Platform field

@@ -4,7 +4,7 @@ linktitle: AxisValue
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValue::AxisValue constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvalue/axisvalue/
 ---
 ## AxisValue::AxisValue constructor

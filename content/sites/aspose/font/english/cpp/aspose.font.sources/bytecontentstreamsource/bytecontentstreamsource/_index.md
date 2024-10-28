@@ -4,7 +4,7 @@ linktitle: ByteContentStreamSource
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::ByteContentStreamSource::ByteContentStreamSource constructor. Initializes new ByteContentStreamSource object in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font.sources/bytecontentstreamsource/bytecontentstreamsource/
 ---
 ## ByteContentStreamSource::ByteContentStreamSource constructor

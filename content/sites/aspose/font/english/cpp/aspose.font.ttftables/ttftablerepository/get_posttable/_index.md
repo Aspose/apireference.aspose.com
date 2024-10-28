@@ -4,7 +4,7 @@ linktitle: get_PostTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_PostTable method. Gets post table in C++.'
 type: docs
-weight: 900
+weight: 1500
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_posttable/
 ---
 ## TtfTableRepository::get_PostTable method

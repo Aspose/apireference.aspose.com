@@ -4,7 +4,7 @@ linktitle: get_USWinDescent
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_USWinDescent method. Gets USWinDescent value in C++.'
 type: docs
-weight: 2900
+weight: 2500
 url: /cpp/aspose.font.ttftables/ttfos2table/get_uswindescent/
 ---
 ## TtfOs2Table::get_USWinDescent method

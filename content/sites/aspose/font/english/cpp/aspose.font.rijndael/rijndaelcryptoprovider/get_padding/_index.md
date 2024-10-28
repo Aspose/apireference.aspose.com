@@ -4,7 +4,7 @@ linktitle: get_Padding
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Rijndael::RijndaelCryptoProvider::get_Padding method. Gets padding flag in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.font.rijndael/rijndaelcryptoprovider/get_padding/
 ---
 ## RijndaelCryptoProvider::get_Padding method

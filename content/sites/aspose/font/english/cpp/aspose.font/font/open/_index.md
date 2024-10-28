@@ -2,24 +2,25 @@
 title: Aspose::Font::Font::Open method
 linktitle: Open
 second_title: Aspose.Font for C++
-description: 'Aspose::Font::Font::Open method. Opens a font, using FontDefinition object in C++.'
+description: 'Aspose::Font::Font::Open method. Opens a font, using font type and font data byte array in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.font/font/open/
 ---
-## Font::Open(System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>) method
+## Font::Open(Aspose::Font::FontType, System::ArrayPtr\<uint8_t\>) method
 
 
-Opens a font, using FontDefinition object.
+Opens a font, using font type and font data byte array.
 
 ```cpp
-static System::SharedPtr<Aspose::Font::Font> Aspose::Font::Font::Open(System::SharedPtr<Aspose::Font::Sources::FontDefinition> fontDefinition)
+static System::SharedPtr<Aspose::Font::Font> Aspose::Font::Font::Open(Aspose::Font::FontType fontType, System::ArrayPtr<uint8_t> fontData)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontDefinition | System::SharedPtr\<Aspose::Font::Sources::FontDefinition\> | [Font](../) definition object. |
+| fontType | Aspose::Font::FontType | [Font](../) type. |
+| fontData | System::ArrayPtr\<uint8_t\> | Byte array to load font from. |
 
 ### ReturnValue
 
@@ -29,7 +30,8 @@ static System::SharedPtr<Aspose::Font::Font> Aspose::Font::Font::Open(System::Sh
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../)
-* Class [FontDefinition](../../../aspose.font.sources/fontdefinition/)
+* Enum [FontType](../../fonttype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Font](../)
 * Namespace [Aspose::Font](../../)
 * Library [Aspose.Font for C++](../../../)
@@ -89,20 +91,19 @@ static System::SharedPtr<Aspose::Font::Font> Aspose::Font::Font::Open(Aspose::Fo
 * Class [Font](../)
 * Namespace [Aspose::Font](../../)
 * Library [Aspose.Font for C++](../../../)
-## Font::Open(Aspose::Font::FontType, System::ArrayPtr\<uint8_t\>) method
+## Font::Open(System::SharedPtr\<Aspose::Font::Sources::FontDefinition\>) method
 
 
-Opens a font, using font type and font data byte array.
+Opens a font, using FontDefinition object.
 
 ```cpp
-static System::SharedPtr<Aspose::Font::Font> Aspose::Font::Font::Open(Aspose::Font::FontType fontType, System::ArrayPtr<uint8_t> fontData)
+static System::SharedPtr<Aspose::Font::Font> Aspose::Font::Font::Open(System::SharedPtr<Aspose::Font::Sources::FontDefinition> fontDefinition)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontType | Aspose::Font::FontType | [Font](../) type. |
-| fontData | System::ArrayPtr\<uint8_t\> | Byte array to load font from. |
+| fontDefinition | System::SharedPtr\<Aspose::Font::Sources::FontDefinition\> | [Font](../) definition object. |
 
 ### ReturnValue
 
@@ -112,8 +113,7 @@ static System::SharedPtr<Aspose::Font::Font> Aspose::Font::Font::Open(Aspose::Fo
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../)
-* Enum [FontType](../../fonttype/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [FontDefinition](../../../aspose.font.sources/fontdefinition/)
 * Class [Font](../)
 * Namespace [Aspose::Font](../../)
 * Library [Aspose.Font for C++](../../../)

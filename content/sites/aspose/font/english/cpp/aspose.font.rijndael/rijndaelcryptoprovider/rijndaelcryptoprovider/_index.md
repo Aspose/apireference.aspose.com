@@ -4,7 +4,7 @@ linktitle: RijndaelCryptoProvider
 second_title: Aspose.Font for C++
 description: 'How to use RijndaelCryptoProvider constructor of Aspose::Font::Rijndael::RijndaelCryptoProvider class in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.font.rijndael/rijndaelcryptoprovider/rijndaelcryptoprovider/
 ---
 ## RijndaelCryptoProvider::RijndaelCryptoProvider constructor
