@@ -21,6 +21,7 @@ public enum LongWordHandling
 | undefined | `0` | Settings is not set. Default value will be used. |
 | DrawOver | `1` | Default value. Word will be displayed as is, overflowing parent element borders. |
 | ThrowException | `2` | After the word is measured as overflowing parent - Exception will be thrown. |
+| Hyphenation | `3` | Split long word by letters and display rest of the letters on the new line |
 
 ### See Also
 

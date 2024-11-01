@@ -1,14 +1,14 @@
 ---
 title: RotationPointPosition
 second_title: Aspose.OMR for .NET API Reference
-description: Desired rotation point position on this page If not set - TopRight1 will be used Overrides value provided by RotationPointPosition
+description: Desired rotation point position on this page If not set - TopRight1 will be used Overrides value provided by GlobalPageSettings.RotationPointPosition
 type: docs
 weight: 80
 url: /net/aspose.omr.generation.config.elements.parents/pageconfig/rotationpointposition/
 ---
 ## PageConfig.RotationPointPosition property
 
-Desired rotation point position on this page If not set - TopRight1 will be used Overrides value provided by RotationPointPosition
+Desired rotation point position on this page If not set - TopRight1 will be used Overrides value provided by !:GlobalPageSettings.RotationPointPosition
 
 ```csharp
 public RotationPointPosition RotationPointPosition { get; set; }

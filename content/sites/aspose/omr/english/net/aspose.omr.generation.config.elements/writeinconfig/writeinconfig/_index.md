@@ -1,14 +1,14 @@
 ---
 title: WriteInConfig
 second_title: Aspose.OMR for .NET API Reference
-description: The default constructor.
+description: Create default instance of WriteInConfig
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements/writeinconfig/writeinconfig/
 ---
 ## WriteInConfig constructor
 
-The default constructor.
+Create default instance of WriteInConfig
 
 ```csharp
 public WriteInConfig()

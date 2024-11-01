@@ -18,7 +18,7 @@ public class WriteInConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [WriteInConfig](writeinconfig)() | The default constructor. |
+| [WriteInConfig](writeinconfig)() | Create default instance of WriteInConfig |
 
 ## Properties
 
