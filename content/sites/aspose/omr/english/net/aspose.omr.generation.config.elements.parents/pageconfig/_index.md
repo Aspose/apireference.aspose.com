@@ -30,7 +30,7 @@ public class PageConfig : ParentConfig
 | [Orientation](../../aspose.omr.generation.config.elements.parents/pageconfig/orientation) { get; set; } | Orientation of this page. Overrides value provided by [`Orientation`](../../aspose.omr.generation/globalpagesettings/orientation) |
 | [PaperSize](../../aspose.omr.generation.config.elements.parents/pageconfig/papersize) { get; set; } | Paper size of this page Overrides value provided by [`PaperSize`](../../aspose.omr.generation/globalpagesettings/papersize) |
 | [RightMargin](../../aspose.omr.generation.config.elements.parents/pageconfig/rightmargin) { get; set; } | Space in pixels on right side of the canvas. Overrides value provided by [`PageMarginRight`](../../aspose.omr.generation/globalpagesettings/pagemarginright) |
-| [RotationPointPosition](../../aspose.omr.generation.config.elements.parents/pageconfig/rotationpointposition) { get; set; } | Desired rotation point position on this page If not set - TopRight1 will be used Overrides value provided by RotationPointPosition |
+| [RotationPointPosition](../../aspose.omr.generation.config.elements.parents/pageconfig/rotationpointposition) { get; set; } | Desired rotation point position on this page If not set - TopRight1 will be used Overrides value provided by !:GlobalPageSettings.RotationPointPosition |
 | override [Type](../../aspose.omr.generation.config.elements.parents/pageconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also

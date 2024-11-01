@@ -18,7 +18,7 @@ public class CheckBoxConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [CheckBoxConfig](checkboxconfig)() | The default constructor. |
+| [CheckBoxConfig](checkboxconfig)() | Create default instance of CheckBoxConfig |
 
 ## Properties
 

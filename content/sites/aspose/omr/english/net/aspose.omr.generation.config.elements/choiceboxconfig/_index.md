@@ -18,7 +18,7 @@ public class ChoiceBoxConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [ChoiceBoxConfig](choiceboxconfig)() | The default constructor. |
+| [ChoiceBoxConfig](choiceboxconfig)() | Create default instance of ChoiceBoxConfig |
 
 ## Properties
 

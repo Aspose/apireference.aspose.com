@@ -25,16 +25,10 @@ public class OmrEngine
 | Name | Description |
 | --- | --- |
 | [AddPlugin](../../aspose.omr.api/omrengine/addplugin)(IPlugin) | Register new plugin |
-| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings, Encoding) | Creates a template (.omr) and template image based on .json markup |
-| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring)(string, GlobalPageSettings, ImageCollection) | Creates a template (.omr) and template image based on JSON markup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_5)(string, Encoding) | Creates a template (.omr) and template image based on text markup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | Creates a template (.omr) and template image based on an array of the markup lines |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_1)(MemoryStream, ImageCollection, Encoding) | Creates a template (.omr) and template image based on MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_3)(string, GlobalPageSettings, Encoding) | Creates a template (.omr) and template image based on text markup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_4)(string, string[], Encoding) | Creates a template (.omr) and template image based on text markup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Creates a template (.omr) and template image based on an array of the markup lines |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Creates a template (.omr) and template image based on Template object |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) | Creates a template (.omr) and template image based on MemoryStream |
+| [Generate](../../aspose.omr.api/omrengine/generate#generate_3)(string[], GlobalPageSettings, ImageCollection) | Creates a [`GenerationResult`](../../aspose.omr.generation/generationresult) which contains template (.omr) and template image based on markup content |
+| [Generate](../../aspose.omr.api/omrengine/generate#generate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Creates a [`GenerationResult`](../../aspose.omr.generation/generationresult) which contains template (.omr) and template image based on markup content |
+| [Generate](../../aspose.omr.api/omrengine/generate#generate_1)(Stream, GlobalPageSettings, ImageCollection, Encoding) | Creates a [`GenerationResult`](../../aspose.omr.generation/generationresult) which contains template (.omr) and template image based on markup stream |
+| [Generate](../../aspose.omr.api/omrengine/generate#generate_2)(string, GlobalPageSettings, string[], Encoding) | Creates a [`GenerationResult`](../../aspose.omr.generation/generationresult) which contains template (.omr) and template image based on markup content stored by specified path |
 | [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Creates the [`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) instance that allows working with OMR API using GUI. Takes [`TemplateProcessor`](../templateprocessor) as a parameter and only works with images created using specified template |
 | [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
 | [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
