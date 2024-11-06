@@ -18,7 +18,7 @@ public class AsposeOcr
 
 | Name | Description |
 | --- | --- |
-| [AsposeOcr](asposeocr)() | The default constructor. |
+| [AsposeOcr](asposeocr)() | Initializes a new instance of the [`AsposeOcr`](../asposeocr) class. Empty constructor. |
 
 ## Methods
 

@@ -3,7 +3,7 @@ title: IsEmpty
 second_title: Aspose.OCR for .NET API Reference
 description: Gets a value indicating whether all numeric properties of this Rectangleaspose.ocr/rectangle have values of zero.
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.ocr/rectangle/isempty/
 ---
 ## Rectangle.IsEmpty property

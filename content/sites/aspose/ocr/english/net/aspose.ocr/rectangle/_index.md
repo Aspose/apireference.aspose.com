@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.OCR for .NET API Reference
 description: Stores a set of four integers that represent the location and size of a rectangle.
 type: docs
-weight: 350
+weight: 340
 url: /net/aspose.ocr/rectangle/
 ---
 ## Rectangle structure
@@ -26,14 +26,10 @@ public struct Rectangle
 | --- | --- |
 | static [Empty](../../aspose.ocr/rectangle/empty) { get; } | Gets a new instance of the [`Rectangle`](../rectangle) structure that has [`X`](./x), [`Y`](./y), [`Width`](./width) and [`Height`](./height) values set to zero. |
 | [Bottom](../../aspose.ocr/rectangle/bottom) { get; set; } | Gets or sets the y-coordinate that is the sum of the [`Y`](./y) and [`Height`](./height) property values of this [`Rectangle`](../rectangle) structure. |
-| [Height](../../aspose.ocr/rectangle/height) { get; set; } | Gets or sets the height of this [`Rectangle`](../rectangle) structure. |
 | [IsEmpty](../../aspose.ocr/rectangle/isempty) { get; } | Gets a value indicating whether all numeric properties of this [`Rectangle`](../rectangle) have values of zero. |
 | [Left](../../aspose.ocr/rectangle/left) { get; set; } | Gets or sets the x-coordinate of the left edge of this !:Aspose.OCR..Rectangle structure. |
 | [Right](../../aspose.ocr/rectangle/right) { get; set; } | Gets or sets the x-coordinate that is the sum of [`X`](./x) and [`Width`](./width) property values of this [`Rectangle`](../rectangle) structure. |
 | [Top](../../aspose.ocr/rectangle/top) { get; set; } | Gets or sets the y-coordinate of the top edge of this [`Rectangle`](../rectangle) structure. |
-| [Width](../../aspose.ocr/rectangle/width) { get; set; } | Gets or sets the width of this [`Rectangle`](../rectangle) structure. |
-| [X](../../aspose.ocr/rectangle/x) { get; set; } | Gets or sets the x-coordinate of the upper-left corner of this [`Rectangle`](../rectangle) structure. |
-| [Y](../../aspose.ocr/rectangle/y) { get; set; } | Gets or sets the y-coordinate of the upper-left corner of this [`Rectangle`](../rectangle) structure. |
 
 ## Methods
 
@@ -50,10 +46,10 @@ public struct Rectangle
 
 | Name | Description |
 | --- | --- |
-| [height](../../aspose.ocr/rectangle/height) | The rectangle width. |
-| [width](../../aspose.ocr/rectangle/width) | The rectangle height. |
-| [x](../../aspose.ocr/rectangle/x) | The rectangle x location. |
-| [y](../../aspose.ocr/rectangle/y) | The rectangle y location. |
+| [Height](../../aspose.ocr/rectangle/height) | The rectangle width. |
+| [Width](../../aspose.ocr/rectangle/width) | The rectangle height. |
+| [X](../../aspose.ocr/rectangle/x) | The rectangle x location. |
+| [Y](../../aspose.ocr/rectangle/y) | The rectangle y location. |
 
 ### See Also
 

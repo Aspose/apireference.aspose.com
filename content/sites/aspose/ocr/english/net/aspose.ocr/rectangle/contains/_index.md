@@ -3,7 +3,7 @@ title: Contains
 second_title: Aspose.OCR for .NET API Reference
 description: Determines if the specified point is contained within this Rectangleaspose.ocr/rectangle structure.
 type: docs
-weight: 160
+weight: 120
 url: /net/aspose.ocr/rectangle/contains/
 ---
 ## Rectangle.Contains method

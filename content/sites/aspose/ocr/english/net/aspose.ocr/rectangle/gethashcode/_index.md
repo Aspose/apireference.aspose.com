@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Aspose.OCR for .NET API Reference
 description: Returns the hash code for this Rectangleaspose.ocr/rectangle structure.
 type: docs
-weight: 180
+weight: 140
 url: /net/aspose.ocr/rectangle/gethashcode/
 ---
 ## Rectangle.GetHashCode method

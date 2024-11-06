@@ -3,7 +3,7 @@ title: Right
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets the x-coordinate that is the sum of Xaspose.ocr/rectangle/x and Widthaspose.ocr/rectangle/width property values of this Rectangleaspose.ocr/rectangle structure.
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.ocr/rectangle/right/
 ---
 ## Rectangle.Right property

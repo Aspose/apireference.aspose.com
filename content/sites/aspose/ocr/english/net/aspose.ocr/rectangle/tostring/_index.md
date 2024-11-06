@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.OCR for .NET API Reference
 description: Converts the attributes of this Rectangleaspose.ocr/rectangle to a human-readable string.
 type: docs
-weight: 190
+weight: 150
 url: /net/aspose.ocr/rectangle/tostring/
 ---
 ## Rectangle.ToString method

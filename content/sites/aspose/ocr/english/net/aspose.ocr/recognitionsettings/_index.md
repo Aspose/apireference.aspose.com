@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the image recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 240
+weight: 230
 url: /net/aspose.ocr/recognitionsettings/
 ---
 ## RecognitionSettings class

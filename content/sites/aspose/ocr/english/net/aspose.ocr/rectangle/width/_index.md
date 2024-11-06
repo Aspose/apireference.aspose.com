@@ -1,17 +1,17 @@
 ---
-title: width
+title: Width
 second_title: Aspose.OCR for .NET API Reference
 description: The rectangle height.
 type: docs
-weight: 130
+weight: 90
 url: /net/aspose.ocr/rectangle/width/
 ---
-## Rectangle.width field
+## Rectangle.Width field
 
 The rectangle height.
 
 ```csharp
-public int width;
+public int Width;
 ```
 
 ### See Also

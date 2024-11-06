@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Aspose.OCR for .NET API Reference
 description: Tests whether two Rectangleaspose.ocr/rectangle structures differ in location or size.
 type: docs
-weight: 210
+weight: 170
 url: /net/aspose.ocr/rectangle/op_inequality/
 ---
 ## Rectangle Inequality operator
