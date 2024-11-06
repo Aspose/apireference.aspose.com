@@ -159,6 +159,8 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |PES|Persian (Farsi) alphabet|
 |URD|Urdu alphabet|
 |UIG|Uyghur alphabet|
+|KOR|Korean alphabet|
+|JPN|Japanese alphabet|
 
 ### See Also
 
