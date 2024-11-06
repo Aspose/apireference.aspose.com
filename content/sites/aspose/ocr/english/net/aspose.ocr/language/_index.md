@@ -163,6 +163,8 @@ public enum Language
 | Pes | `142` | Persian (Farsi) alphabet |
 | Urd | `143` | Urdu alphabet |
 | Uig | `144` | Uyghur alphabet |
+| Kor | `145` | Korean alphabet |
+| Jpn | `146` | Japanese alphabet |
 
 ### See Also
 

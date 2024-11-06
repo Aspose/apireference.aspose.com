@@ -3,7 +3,7 @@ title: Top
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets the y-coordinate of the top edge of this Rectangleaspose.ocr/rectangle structure.
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.ocr/rectangle/top/
 ---
 ## Rectangle.Top property

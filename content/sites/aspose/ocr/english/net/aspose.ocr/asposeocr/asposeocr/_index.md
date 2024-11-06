@@ -1,14 +1,14 @@
 ---
 title: AsposeOcr
 second_title: Aspose.OCR for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the AsposeOcraspose.ocr/asposeocr class. Empty constructor.
 type: docs
 weight: 10
 url: /net/aspose.ocr/asposeocr/asposeocr/
 ---
 ## AsposeOcr constructor
 
-The default constructor.
+Initializes a new instance of the [`AsposeOcr`](../../asposeocr) class. Empty constructor.
 
 ```csharp
 public AsposeOcr()

@@ -1,17 +1,17 @@
 ---
-title: x
+title: X
 second_title: Aspose.OCR for .NET API Reference
 description: The rectangle x location.
 type: docs
-weight: 140
+weight: 100
 url: /net/aspose.ocr/rectangle/x/
 ---
-## Rectangle.x field
+## Rectangle.X field
 
 The rectangle x location.
 
 ```csharp
-public int x;
+public int X;
 ```
 
 ### See Also
