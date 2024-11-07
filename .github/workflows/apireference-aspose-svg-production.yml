@@ -53,7 +53,7 @@ jobs:
         run: hugo --configDir config/sites/aspose/svg --environment production --minify
         
       - name: Deploy apireference2.aspose.com(svg)(production) to S3
-        run: hugo --configDir config/sites/aspose/svg --environment production deploy --target "Production" --maxDeletes 0
+        run: hugo --configDir config/sites/aspose/svg --environment production deploy --target "Production"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
