@@ -86,6 +86,7 @@ public class CellsDrawing : Shape
 | [Spt](../../aspose.cells.drawing/shape/spt/) { get; } | Specifies an optional number that an application can use to associate the particular shape with a defined shape type.(Inherited from [`Shape`](../shape/).) |
 | [Text](../../aspose.cells.drawing/shape/text/) { get; set; } | Gets and sets the text of this shape.(Inherited from [`Shape`](../shape/).) |
 | [TextBody](../../aspose.cells.drawing/shape/textbody/) { get; } | Gets and sets the setting of the shape's text.(Inherited from [`Shape`](../shape/).) |
+| [TextBoxOptions](../../aspose.cells.drawing/shape/textboxoptions/) { get; } | Gets the text information in the shape(Inherited from [`Shape`](../shape/).) |
 | [TextDirection](../../aspose.cells.drawing/shape/textdirection/) { get; set; } | Gets/Sets the direction of the text flow for this object.(Inherited from [`Shape`](../shape/).) |
 | [TextEffect](../../aspose.cells.drawing/shape/texteffect/) { get; } | Returns a TextEffectFormat object that contains text-effect formatting properties for the specified shape. Applies to Shape objects that represent WordArt.(Inherited from [`Shape`](../shape/).) |
 | [TextHorizontalAlignment](../../aspose.cells.drawing/shape/texthorizontalalignment/) { get; set; } | Gets and sets the text horizontal alignment type of the shape.(Inherited from [`Shape`](../shape/).) |
@@ -148,6 +149,57 @@ public class CellsDrawing : Shape
 | [ToImage](../../aspose.cells.drawing/shape/toimage/)(Stream, ImageType) | Creates the shape image and saves it to a stream in the specified format.(Inherited from [`Shape`](../shape/).) |
 | [ToImage](../../aspose.cells.drawing/shape/toimage/)(string, ImageOrPrintOptions) | Saves the shape to a file.(Inherited from [`Shape`](../shape/).) |
 | [UpdateSelectedValue](../../aspose.cells.drawing/shape/updateselectedvalue/)() | Update the selected value by the value of the linked cell.(Inherited from [`Shape`](../shape/).) |
+
+### Examples
+
+```csharp
+[C#]
+
+using Aspose.Cells;
+using Aspose.Cells.Drawing;
+using System;
+using System.IO;
+
+namespace Demos
+{
+    public class CellsDrawingDemo
+    {
+        public static void RunDemo()
+        {
+            // Create a new workbook
+            Workbook workbook = new Workbook();
+            Worksheet sheet = workbook.Worksheets[0];
+
+            // Add some sample data
+            sheet.Cells["A1"].PutValue("Hello");
+            sheet.Cells["A2"].PutValue("World");
+
+            // Add a shape to the worksheet
+            RectangleShape shape = (RectangleShape)sheet.Shapes.AddAutoShape(AutoShapeType.Rectangle, 1, 0, 1, 0, 100, 200);
+
+            // Set properties of the shape
+            shape.Name = "MyShape";
+            shape.AlternativeText = "This is a sample shape";
+            shape.Title = "Sample Shape";
+            shape.ZOrderPosition = 1;
+            shape.IsHidden = false;
+            shape.RotationAngle = 45;
+            shape.Width = 150;
+            shape.Height = 100;
+            shape.Left = 50;
+            shape.Top = 50;
+            shape.IsFilled = true;
+            shape.Fill.SolidFill.Color = System.Drawing.Color.Yellow;
+            shape.Line.Weight = 2;
+            shape.Line.DashStyle = MsoLineDashStyle.Solid;
+
+            // Save the workbook
+            workbook.Save("CellsDrawingDemo.xlsx");
+            workbook.Save("CellsDrawingDemo.pdf");
+        }
+    }
+}
+```
 
 ### See Also
 

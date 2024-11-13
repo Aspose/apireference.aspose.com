@@ -27,9 +27,54 @@ public class DeleteBlankOptions : DeleteOptions
 | [EmptyFormulaValueAsBlank](../../aspose.cells/deleteblankoptions/emptyformulavalueasblank/) { get; set; } | Whether one cell will be taken as blank when it is formula and the calculated result is null or empty string. Default value is false. |
 | [EmptyStringAsBlank](../../aspose.cells/deleteblankoptions/emptystringasblank/) { get; set; } | Whether one cell will be taken as blank when its value is empty string. Default value is true. |
 | [EndIndex](../../aspose.cells/deleteblankoptions/endindex/) { get; set; } | Specifies the end row/column index(inclusive) of the range to check and delete blank rows/columns. Default value is -1 and -1 means the maximum range of all objects(cells, drawings, ...) that need to be checked. |
-| [MergedCellsShrinkType](../../aspose.cells/deleteblankoptions/mergedcellsshrinktype/) { get; set; } | Indicates how to process merged cells when deleting blank rows/columns. For KeepHeaderOnly, all cells in it will be taken as blank except the non-blank top-left cell. It is the default value of this property. For None, all cells in it will be taken as non-blank. For ShrinkToFit, all cells outside the content display area will be taken as blank. |
+| [MergedCellsShrinkType](../../aspose.cells/deleteblankoptions/mergedcellsshrinktype/) { get; set; } | Indicates how to process merged cells when deleting blank rows/columns. |
 | [StartIndex](../../aspose.cells/deleteblankoptions/startindex/) { get; set; } | Specifies the start row/column index of the range to check and delete blank rows/columns. |
 | [UpdateReference](../../aspose.cells/deleteoptions/updatereference/) { get; set; } | Indicates if update references in other worksheets.(Inherited from [`DeleteOptions`](../deleteoptions/).) |
+
+### Examples
+
+```csharp
+[C#]
+
+namespace Demos
+{
+    using Aspose.Cells;
+    using System;
+
+    public class DeleteBlankOptionsDemo
+    {
+        public static void DeleteBlankOptionsExample()
+        {
+            // Create a new workbook
+            Workbook workbook = new Workbook();
+            Worksheet worksheet = workbook.Worksheets[0];
+
+            // Populate the worksheet with some data
+            worksheet.Cells["A1"].PutValue("Data");
+            worksheet.Cells["A2"].PutValue("");
+            worksheet.Cells["A3"].PutValue("More Data");
+            worksheet.Cells["A4"].PutValue("");
+            worksheet.Cells["A5"].PutValue("Even More Data");
+
+            // Create an instance of DeleteBlankOptions
+            DeleteBlankOptions options = new DeleteBlankOptions
+            {
+                EmptyStringAsBlank = true,
+                EmptyFormulaValueAsBlank = false,
+                UpdateReference = true
+            };
+
+            // Delete blank rows based on the options
+            worksheet.Cells.DeleteBlankRows(options);
+
+            // Save the workbook
+            workbook.Save("DeleteBlankOptionsExample.xlsx");
+            workbook.Save("DeleteBlankOptionsExample.pdf");
+            return;
+        }
+    }
+}
+```
 
 ### See Also
 
