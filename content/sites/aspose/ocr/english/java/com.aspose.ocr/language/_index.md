@@ -72,6 +72,7 @@ public enum Language extends Enum<Language>
 | [Ilo](#Ilo) | Ilocano alphabet |
 | [Ind](#Ind) | Indonesian alphabet |
 | [Ita](#Ita) | Italian alphabet |
+| [Jpn](#Jpn) | Japanese alphabet |
 | [Kaz](#Kaz) | Kazakh alphabet |
 | [Kbd](#Kbd) | Kabardian alphabet |
 | [Kfy](#Kfy) | Kumauni alphabet |
@@ -81,6 +82,7 @@ public enum Language extends Enum<Language>
 | [Knc](#Knc) | Kanuri alphabet |
 | [Knn](#Knn) | Konkani alphabet |
 | [Kon](#Kon) | Kikongo alphabet |
+| [Kor](#Kor) | Korean alphabet |
 | [Latin](#Latin) | Latin alphabet |
 | [Lav](#Lav) | Latvian alphabet |
 | [Lit](#Lit) | Lithuanian alphabet |
@@ -161,7 +163,6 @@ public enum Language extends Enum<Language>
 | [Yor](#Yor) | Yoruba alphabet |
 | [Yue](#Yue) | Cantonese alphabet |
 | [Zul](#Zul) | Zulu alphabet |
-
 ### Afr {#Afr}
 ```
 public static final Language Afr
@@ -610,6 +611,14 @@ public static final Language Ita
 
 Italian alphabet
 
+### Jpn {#Jpn}
+```
+public static final Language Jpn
+```
+
+
+Japanese alphabet
+
 ### Kaz {#Kaz}
 ```
 public static final Language Kaz
@@ -681,6 +690,14 @@ public static final Language Kon
 
 
 Kikongo alphabet
+
+### Kor {#Kor}
+```
+public static final Language Kor
+```
+
+
+Korean alphabet
 
 ### Latin {#Latin}
 ```
@@ -1321,4 +1338,3 @@ public static final Language Zul
 
 
 Zulu alphabet
-
