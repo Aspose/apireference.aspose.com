@@ -16,3 +16,4 @@ url: /cpp/system.linq/
 | --- | --- |
 | [Enumerable](./enumerable/) | Provides static LINQ methods. |
 | [IGrouping](./igrouping/) |  |
+| [IOrderedEnumerable](./iorderedenumerable/) | Represents a sorted sequence. |
