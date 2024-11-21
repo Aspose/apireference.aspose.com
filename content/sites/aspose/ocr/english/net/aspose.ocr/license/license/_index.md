@@ -25,7 +25,6 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-
 ### See Also
 
 * class [License](../../license)
