@@ -44,7 +44,7 @@ public enum Language
 | Slk | `23` | Slovak alphabet |
 | Slv | `24` | Slovene alphabet |
 | Swe | `25` | Swedish alphabet |
-| Chi | `26` | Chinese alphabet |
+| Chinese | `26` | Universal recognition of Chinese-based languages, including mixed Chinese-English texts |
 | Bel | `27` | Belorussian alphabet |
 | Bul | `28` | Bulgarian alphabet |
 | Kaz | `29` | Kazakh alphabet |
@@ -165,6 +165,13 @@ public enum Language
 | Uig | `144` | Uyghur alphabet |
 | Kor | `145` | Korean alphabet |
 | Jpn | `146` | Japanese alphabet |
+| Tam | `147` | Tamil alphabet |
+| Tel | `148` | Telugu alphabet |
+| Kan | `149` | Kannada alphabet |
+| European | `150` | Experimental. Recognition of mixed Cyrillic/English texts |
+| Indic | `151` | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
+| Devanagari | `152` | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
+| Chi | `153` | Chinese alphabet |
 
 ### See Also
 
