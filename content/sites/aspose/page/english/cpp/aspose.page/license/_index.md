@@ -4,7 +4,7 @@ linktitle: License
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::License class. Provides methods to license the component in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.page/license/
 ---
 ## License class

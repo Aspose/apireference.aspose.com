@@ -4,7 +4,7 @@ linktitle: SaveOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::SaveOptions class. This class contains options necessary for managing conversion process in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.page/saveoptions/
 ---
 ## SaveOptions class

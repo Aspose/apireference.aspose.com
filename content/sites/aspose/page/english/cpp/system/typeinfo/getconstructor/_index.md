@@ -4,7 +4,7 @@ linktitle: GetConstructor
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::GetConstructor method. Searches for a public instance constructor whose parameters match the types in the specified array in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system/typeinfo/getconstructor/
 ---
 ## TypeInfo::GetConstructor method

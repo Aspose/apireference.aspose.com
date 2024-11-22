@@ -4,7 +4,7 @@ linktitle: IMultiPartitionDevice
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IMultiPartitionDevice class. Basic interface for multi-partition device in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.page/imultipartitiondevice/
 ---
 ## IMultiPartitionDevice class

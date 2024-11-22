@@ -4,7 +4,7 @@ linktitle: Void
 second_title: Aspose.Page for C++
 description: 'How to use System::Void class in C++.'
 type: docs
-weight: 6900
+weight: 7100
 url: /cpp/system/void/
 ---
 ## Void class

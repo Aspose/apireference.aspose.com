@@ -4,7 +4,7 @@ linktitle: IInteractiveDevice
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::IInteractiveDevice class. The interface defining interactive features processing methods in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.page/iinteractivedevice/
 ---
 ## IInteractiveDevice class

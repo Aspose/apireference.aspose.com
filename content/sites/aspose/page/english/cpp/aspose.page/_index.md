@@ -16,6 +16,7 @@ The **[Aspose.Page](./)** is a root namespace for all classes of [Aspose.Page](.
 | --- | --- |
 | [AssemblyConstants](./assemblyconstants/) | Defines the constants that participate in the license check for the component. These used to be defined directly as assembly attributes, but I moved them into separate class because in .NET Compact Framework I cannot access assembly attributes. Now the licensing code when compiled for the .NET Compact Framework uses these constants instead of the assembly attributes. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
+| [CryptoProvider](./cryptoprovider/) |  |
 | [Document](./document/) | A superclass for all encapsulated documents. |
 | [ExternalFontCache](./externalfontcache/) | Use this class to obtain font encapsulation in a form that is accepted by [Device](../). |
 | [IGlyph](./iglyph/) | This interface give access to main parameters of glyphs. |
