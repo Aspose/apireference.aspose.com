@@ -31,7 +31,7 @@ Create, edit or convert PDF documents in your application. Includes individual p
 {{< blocks/product-item title="JAVA" href="/pdf/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/pdf/cpp/" class="btn-c" >}}
 {{< blocks/product-item title="JavaScript via C++" href="/pdf/javascript-cpp/" class="btn-nodejs" >}}
-{{< blocks/product-item title="PYTHON" href="/pdf/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python" href="/pdf/python-net/" class="btn-python" >}}
 {{< blocks/product-item title="Node.JS via C++" href="/pdf/nodejs-cpp/" class="btn-nodejs" >}}
 {{< /blocks/product-card >}}
 
@@ -44,10 +44,10 @@ Create, edit or convert Excel spreadsheets in your application. Includes individ
 {{< blocks/product-item title=".NET" href="/cells/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/cells/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/cells/cpp/" class="btn-c" >}}
-{{< blocks/product-item title="NODE.JS" href="/cells/nodejs/" class="btn-nodejs" >}}
+{{< blocks/product-item title="Node.JS" href="/cells/nodejs/" class="btn-nodejs" >}}
 {{< blocks/product-item title="PHP" href="/cells/php/" class="btn-php" >}}
-{{< blocks/product-item title="PYTHON via Java" href="/cells/python-java/" class="btn-python" >}}
-{{< blocks/product-item title="PYTHON via .NET" href="/cells/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python via Java" href="/cells/python-java/" class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/cells/python-net/" class="btn-python" >}}
 {{< blocks/product-item title="Node.JS via C++" href="/cells/nodejs-cpp/" class="btn-nodejs" >}}
 {{< /blocks/product-card >}}
 
@@ -74,12 +74,11 @@ Create, edit or convert PowerPoint presentations in your application. Includes i
 {{< blocks/product-item title=".NET" href="/slides/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/slides/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/slides/cpp/" class="btn-c" >}}
-{{< blocks/product-item title="PYTHON via .NET" href="/slides/python-net/" class="btn-python" >}}
-{{< blocks/product-item title="PYTHON via Java" href="/slides/python-java/" class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/slides/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python via Java" href="/slides/python-java/" class="btn-python" >}}
 {{< blocks/product-item title="ANDROID" href="/slides/androidjava/" class="btn-android" >}}
 {{< blocks/product-item title="PHP" href="/slides/php-java/" class="btn-php" >}}
-{{< blocks/product-item title="NODE.JS via .NET" href="/slides/nodejs-net/" class="btn-nodejs" >}}
-{{< blocks/product-item title="NODE.JS via Java" href="/slides/nodejs-java/" class="btn-nodejs" >}}
+{{< blocks/product-item title="Node.JS via Java" href="/slides/nodejs-java/" class="btn-nodejs" >}}
 {{< /blocks/product-card >}}
 
 
@@ -91,7 +90,7 @@ Create, process and convert images in your application. Includes 3 individual pr
 
 {{< blocks/product-item title=".NET" href="/imaging/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/imaging/java/" class="btn-java" >}}
-{{< blocks/product-item title="PYTHON via .NET" href="/imaging/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/imaging/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
@@ -105,7 +104,7 @@ Generate and Recognize 1D, 2D and postal barcodes in your application. Includes 
 {{< blocks/product-item title="JAVA" href="/barcode/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/barcode/cpp/" class="btn-c" >}}
 {{< blocks/product-item title="ANDROID" href="/barcode/androidjava/" class="btn-android" >}}
-{{< blocks/product-item title="NODE.JS" href="/barcode/nodejs/" class="btn-nodejs" >}}
+{{< blocks/product-item title="Node.JS" href="/barcode/nodejs/" class="btn-nodejs" >}}
 {{< blocks/product-item title="PHP" href="/barcode/php/" class="btn-php" >}}
 {{< blocks/product-item title="Python" href="/barcode/python-java/" class="btn-python" >}}
 
@@ -119,9 +118,9 @@ Create, edit, convert and print Microsoft Visio documents in your applications. 
 
 {{< blocks/product-item title=".NET" href="/diagram/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/diagram/java/" class="btn-java" >}}
-{{< blocks/product-item title="NODE.JS" href="/diagram/nodejs/" class="btn-nodejs" >}}
+{{< blocks/product-item title="Node.JS" href="/diagram/nodejs/" class="btn-nodejs" >}}
 {{< blocks/product-item title="Python" href="/diagram/python-java/" class="btn-python" >}}
-{{< blocks/product-item title="PYTHON via .NET" href="/diagram/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/diagram/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
@@ -148,8 +147,8 @@ Perform OCR for English, French, Spanish and Portuguese languages in your applic
 {{< blocks/product-item title=".NET" href="/ocr/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/ocr/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/ocr/cpp/" class="btn-c" >}}
-{{< blocks/product-item title="PYTHON via .NET" href="/ocr/python-net/" class="btn-python" >}}
-{{< blocks/product-item title="PYTHON via Java" href="/ocr/python-java/" class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/ocr/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python via Java" href="/ocr/python-java/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
@@ -197,7 +196,7 @@ Manipulate HTML files, including CSS, or render to PDF and raster image formats 
 
 {{< blocks/product-item title=".NET" href="/html/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/html/java/" class="btn-java" >}}
-{{< blocks/product-item title="PYTHON via .NET" href="/html/python-net/"  class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/html/python-net/"  class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
@@ -281,7 +280,7 @@ Load, Parse and Render SVG file to multiple formats including PDF, XPS, and imag
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/svg/net/" class="btn-net" >}}
-{{< blocks/product-item title="PYTHON via .NET" href="/svg/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="Python via .NET" href="/svg/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
