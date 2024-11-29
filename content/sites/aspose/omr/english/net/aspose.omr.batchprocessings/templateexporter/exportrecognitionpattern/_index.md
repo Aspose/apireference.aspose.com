@@ -3,7 +3,7 @@ title: ExportRecognitionPattern
 second_title: Aspose.OMR for .NET API Reference
 description: Write recognition pattern for all template forms into stream. Important Should be called after all form template are exported.
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.omr.batchprocessings/templateexporter/exportrecognitionpattern/
 ---
 ## TemplateExporter.ExportRecognitionPattern method

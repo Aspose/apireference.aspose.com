@@ -29,6 +29,7 @@ public class GenerationResult
 | Name | Description |
 | --- | --- |
 | [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Save template images and template to the specified folder as .png |
+| [SaveAsInteractivePdf](../../aspose.omr.generation/generationresult/saveasinteractivepdf)(string, string) | Save a form to an interactive PDF, enabling users to fill out fields directly on their computer or smartphone and submit it electronically. |
 | [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | Save template images to the specified folder as .pdf Multi page templates saved as a single .pdf file with multiple pages |
 
 ## Fields

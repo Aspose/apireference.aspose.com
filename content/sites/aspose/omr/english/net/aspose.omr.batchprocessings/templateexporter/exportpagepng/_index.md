@@ -3,7 +3,7 @@ title: ExportPagePng
 second_title: Aspose.OMR for .NET API Reference
 description: Write current page of the current template as PNG image into stream
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.omr.batchprocessings/templateexporter/exportpagepng/
 ---
 ## TemplateExporter.ExportPagePng method

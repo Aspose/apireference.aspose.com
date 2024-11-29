@@ -1,17 +1,17 @@
 ---
-title: ExportFormPdf
+title: ExportFormInteractivePdf
 second_title: Aspose.OMR for .NET API Reference
-description: Write all pages of the current template form as PDF file into stream
+description: Save a form to an interactive PDF enabling users to fill out fields directly on their computer or smartphone and submit it electronically.
 type: docs
-weight: 40
-url: /net/aspose.omr.batchprocessings/templateexporter/exportformpdf/
+weight: 30
+url: /net/aspose.omr.batchprocessings/templateexporter/exportforminteractivepdf/
 ---
-## TemplateExporter.ExportFormPdf method
+## TemplateExporter.ExportFormInteractivePdf method
 
-Write all pages of the current template form as PDF file into stream
+Save a form to an interactive PDF, enabling users to fill out fields directly on their computer or smartphone and submit it electronically.
 
 ```csharp
-public void ExportFormPdf(Stream writeable)
+public void ExportFormInteractivePdf(Stream writeable)
 ```
 
 | Parameter | Type | Description |
