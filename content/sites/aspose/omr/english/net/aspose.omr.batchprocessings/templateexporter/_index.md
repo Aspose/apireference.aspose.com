@@ -18,7 +18,9 @@ public class TemplateExporter
 
 | Name | Description |
 | --- | --- |
+| [ExportFormInteractivePdf](../../aspose.omr.batchprocessings/templateexporter/exportforminteractivepdf)(Stream) | Save a form to an interactive PDF, enabling users to fill out fields directly on their computer or smartphone and submit it electronically. |
 | [ExportFormPdf](../../aspose.omr.batchprocessings/templateexporter/exportformpdf)(Stream) | Write all pages of the current template form as PDF file into stream |
+| [ExportPageInteractivePdf](../../aspose.omr.batchprocessings/templateexporter/exportpageinteractivepdf)(Stream) | Save a form page to an interactive PDF, enabling users to fill out fields directly on their computer or smartphone and submit it electronically. |
 | [ExportPagePdf](../../aspose.omr.batchprocessings/templateexporter/exportpagepdf)(Stream) | Write current page of the current template as PDF into stream |
 | [ExportPagePng](../../aspose.omr.batchprocessings/templateexporter/exportpagepng)(Stream) | Write current page of the current template as PNG image into stream |
 | [ExportRecognitionPattern](../../aspose.omr.batchprocessings/templateexporter/exportrecognitionpattern)(Stream) | Write recognition pattern for all template forms into stream. Important! Should be called after all form template are exported. |

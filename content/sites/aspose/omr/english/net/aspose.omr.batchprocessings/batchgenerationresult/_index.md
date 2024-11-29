@@ -32,6 +32,7 @@ public class BatchGenerationResult
 | --- | --- |
 | [GetExporter](../../aspose.omr.batchprocessings/batchgenerationresult/getexporter)() | Template exporter - a tool for a more precise storage of results Usually to streams |
 | [Save](../../aspose.omr.batchprocessings/batchgenerationresult/save)(string, string) | Save results of multiple template generations as .png images into folder with corresponding .domr file |
+| [SaveAsInteractivePdf](../../aspose.omr.batchprocessings/batchgenerationresult/saveasinteractivepdf)(string, string) | Save a form to an interactive PDF, enabling users to fill out fields directly on their computer or smartphone and submit it electronically. |
 | [SavePdf](../../aspose.omr.batchprocessings/batchgenerationresult/savepdf)(string, string) | Save results of multiple template generations as .png images into folder with corresponding .domr file |
 
 ### See Also

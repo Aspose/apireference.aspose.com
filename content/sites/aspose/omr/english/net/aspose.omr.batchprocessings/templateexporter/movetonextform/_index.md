@@ -3,7 +3,7 @@ title: MoveToNextForm
 second_title: Aspose.OMR for .NET API Reference
 description: Advances the template form enumerator to the next element
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.omr.batchprocessings/templateexporter/movetonextform/
 ---
 ## TemplateExporter.MoveToNextForm method

@@ -3,7 +3,7 @@ title: MoveToNextPage
 second_title: Aspose.OMR for .NET API Reference
 description: Advances the page enumerator of the current template form to the next page
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.omr.batchprocessings/templateexporter/movetonextpage/
 ---
 ## TemplateExporter.MoveToNextPage method

@@ -3,7 +3,7 @@ title: SaveAsPdf
 second_title: Aspose.OMR for .NET API Reference
 description: Save template images to the specified folder as .pdf Multi page templates saved as a single .pdf file with multiple pages
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation/generationresult/saveaspdf/
 ---
 ## GenerationResult.SaveAsPdf method

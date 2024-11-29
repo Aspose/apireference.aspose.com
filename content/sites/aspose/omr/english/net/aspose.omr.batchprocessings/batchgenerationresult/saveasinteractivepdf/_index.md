@@ -1,17 +1,17 @@
 ---
-title: SavePdf
+title: SaveAsInteractivePdf
 second_title: Aspose.OMR for .NET API Reference
-description: Save results of multiple template generations as .png images into folder with corresponding .domr file
+description: Save a form to an interactive PDF enabling users to fill out fields directly on their computer or smartphone and submit it electronically.
 type: docs
-weight: 60
-url: /net/aspose.omr.batchprocessings/batchgenerationresult/savepdf/
+weight: 50
+url: /net/aspose.omr.batchprocessings/batchgenerationresult/saveasinteractivepdf/
 ---
-## BatchGenerationResult.SavePdf method
+## BatchGenerationResult.SaveAsInteractivePdf method
 
-Save results of multiple template generations as .png images into folder with corresponding .domr file
+Save a form to an interactive PDF, enabling users to fill out fields directly on their computer or smartphone and submit it electronically.
 
 ```csharp
-public void SavePdf(string folderPath, string domrName)
+public void SaveAsInteractivePdf(string folderPath, string domrName)
 ```
 
 | Parameter | Type | Description |

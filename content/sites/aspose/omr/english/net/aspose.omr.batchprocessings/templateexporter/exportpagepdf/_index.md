@@ -3,7 +3,7 @@ title: ExportPagePdf
 second_title: Aspose.OMR for .NET API Reference
 description: Write current page of the current template as PDF into stream
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.omr.batchprocessings/templateexporter/exportpagepdf/
 ---
 ## TemplateExporter.ExportPagePdf method
