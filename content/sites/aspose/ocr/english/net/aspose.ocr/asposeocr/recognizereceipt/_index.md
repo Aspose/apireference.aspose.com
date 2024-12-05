@@ -11,12 +11,12 @@ url: /net/aspose.ocr/asposeocr/recognizereceipt/
 Recognizes text on receipts.
 
 ```csharp
-public List<RecognitionResult> RecognizeReceipt(OcrInput input)
+public OcrOutput RecognizeReceipt(OcrInput images)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
@@ -28,7 +28,7 @@ Recognizes invoice with the ability to specify [`ReceiptRecognitionSettings`](..
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
@@ -41,12 +41,12 @@ Recognizes invoice with the ability to specify [`ReceiptRecognitionSettings`](..
 Recognizes text on receipts.
 
 ```csharp
-public List<RecognitionResult> RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings)
+public OcrOutput RecognizeReceipt(OcrInput images, ReceiptRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | ReceiptRecognitionSettings | Recognition settings [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). |
 
 ### Return Value
@@ -59,7 +59,7 @@ Recognizes invoice with the ability to specify [`ReceiptRecognitionSettings`](..
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [ReceiptRecognitionSettings](../../receiptrecognitionsettings)
 * class [AsposeOcr](../../asposeocr)

@@ -11,12 +11,12 @@ url: /net/aspose.ocr/asposeocr/recognizeidcard/
 Recognizes text on ID card.
 
 ```csharp
-public List<RecognitionResult> RecognizeIDCard(OcrInput input)
+public OcrOutput RecognizeIDCard(OcrInput images)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
@@ -28,7 +28,7 @@ Recognizes ID cards with the ability to specify [`IDCardRecognitionSettings`](..
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
@@ -41,12 +41,12 @@ Recognizes ID cards with the ability to specify [`IDCardRecognitionSettings`](..
 Recognizes text on ID card.
 
 ```csharp
-public List<RecognitionResult> RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)
+public OcrOutput RecognizeIDCard(OcrInput images, IDCardRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | IDCardRecognitionSettings | Recognition settings [`IDCardRecognitionSettings`](../../idcardrecognitionsettings). |
 
 ### Return Value
@@ -59,7 +59,7 @@ Recognizes ID cards with the ability to specify [`IDCardRecognitionSettings`](..
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [IDCardRecognitionSettings](../../idcardrecognitionsettings)
 * class [AsposeOcr](../../asposeocr)

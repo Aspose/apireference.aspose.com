@@ -11,12 +11,12 @@ url: /net/aspose.ocr/asposeocr/recognizehandwrittentext/
 Recognizes handwritten text on images.
 
 ```csharp
-public List<RecognitionResult> RecognizeHandwrittenText(OcrInput input)
+public OcrOutput RecognizeHandwrittenText(OcrInput images)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
@@ -28,7 +28,7 @@ Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)

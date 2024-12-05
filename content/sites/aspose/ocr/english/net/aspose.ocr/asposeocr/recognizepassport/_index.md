@@ -11,12 +11,12 @@ url: /net/aspose.ocr/asposeocr/recognizepassport/
 Recognizes text on passport.
 
 ```csharp
-public List<RecognitionResult> RecognizePassport(OcrInput input)
+public OcrOutput RecognizePassport(OcrInput images)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
@@ -28,7 +28,7 @@ Recognizes passports with the ability to specify [`PassportRecognitionSettings`]
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
@@ -41,13 +41,12 @@ Recognizes passports with the ability to specify [`PassportRecognitionSettings`]
 Recognizes text on passport.
 
 ```csharp
-public List<RecognitionResult> RecognizePassport(OcrInput input, 
-    PassportRecognitionSettings settings)
+public OcrOutput RecognizePassport(OcrInput images, PassportRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | PassportRecognitionSettings | Recognition settings [`PassportRecognitionSettings`](../../passportrecognitionsettings). |
 
 ### Return Value
@@ -60,7 +59,7 @@ Recognizes passports with the ability to specify [`PassportRecognitionSettings`]
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [PassportRecognitionSettings](../../passportrecognitionsettings)
 * class [AsposeOcr](../../asposeocr)

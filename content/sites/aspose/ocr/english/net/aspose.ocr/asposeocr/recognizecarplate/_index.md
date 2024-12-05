@@ -11,12 +11,12 @@ url: /net/aspose.ocr/asposeocr/recognizecarplate/
 Recognizes text on car plate.
 
 ```csharp
-public List<RecognitionResult> RecognizeCarPlate(OcrInput input)
+public OcrOutput RecognizeCarPlate(OcrInput images)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
@@ -28,7 +28,7 @@ Recognizes car plates with the ability to specify [`CarPlateRecognitionSettings`
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
@@ -41,13 +41,12 @@ Recognizes car plates with the ability to specify [`CarPlateRecognitionSettings`
 Recognizes text on car plate.
 
 ```csharp
-public List<RecognitionResult> RecognizeCarPlate(OcrInput input, 
-    CarPlateRecognitionSettings settings)
+public OcrOutput RecognizeCarPlate(OcrInput images, CarPlateRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | CarPlateRecognitionSettings | Recognition settings [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). |
 
 ### Return Value
@@ -60,7 +59,7 @@ Recognizes car plates with the ability to specify [`CarPlateRecognitionSettings`
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [CarPlateRecognitionSettings](../../carplaterecognitionsettings)
 * class [AsposeOcr](../../asposeocr)
