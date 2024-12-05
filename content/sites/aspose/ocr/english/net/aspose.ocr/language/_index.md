@@ -172,6 +172,7 @@ public enum Language
 | Indic | `151` | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
 | Devanagari | `152` | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
 | Chi | `153` | Chinese alphabet |
+| Mon | `154` | Mongolian alphabet |
 
 ### See Also
 

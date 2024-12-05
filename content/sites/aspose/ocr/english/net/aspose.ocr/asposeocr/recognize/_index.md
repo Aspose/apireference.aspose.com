@@ -11,7 +11,7 @@ url: /net/aspose.ocr/asposeocr/recognize/
 Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ```csharp
-public List<RecognitionResult> Recognize(OcrInput images)
+public OcrOutput Recognize(OcrInput images)
 ```
 
 | Parameter | Type | Description |
@@ -24,7 +24,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
@@ -37,7 +37,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ```csharp
-public List<RecognitionResult> Recognize(OcrInput images, RecognitionSettings settings, 
+public OcrOutput Recognize(OcrInput images, RecognitionSettings settings, 
     CancellationToken cancellationToken)
 ```
 
@@ -53,7 +53,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [RecognitionSettings](../../recognitionsettings)
 * class [AsposeOcr](../../asposeocr)
@@ -67,7 +67,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ```csharp
-public List<RecognitionResult> Recognize(OcrInput images, RecognitionSettings settings)
+public OcrOutput Recognize(OcrInput images, RecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
@@ -81,7 +81,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ### See Also
 
-* class [RecognitionResult](../../recognitionresult)
+* class [OcrOutput](../../ocroutput)
 * class [OcrInput](../../ocrinput)
 * class [RecognitionSettings](../../recognitionsettings)
 * class [AsposeOcr](../../asposeocr)
