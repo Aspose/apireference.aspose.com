@@ -3,7 +3,7 @@ title: Orientations
 second_title: Aspose.OMR for Java API Reference
 description: Possible question orientation
 type: docs
-weight: 27
+weight: 26
 url: /java/com.aspose.omr/orientations/
 ---
 
@@ -25,41 +25,41 @@ Possible question orientation
 
 | Method | Description |
 | --- | --- |
-| [Clone()](#Clone--) |  |
-| [CloneTo(T arg0)](#CloneTo-T-) |  |
-| [CloneTo(System.Enum arg0)](#CloneTo-com.aspose.ms.System.Enum-) |  |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [format(System.Type arg0, Object arg1, String arg2)](#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-) |  |
-| [format(Class<?> arg0, long arg1, String arg2)](#format-java.lang.Class----long-java.lang.String-) |  |
-| [getClass()](#getClass--) |  |
-| [getName(System.Type arg0, Object arg1)](#getName-com.aspose.ms.System.Type-java.lang.Object-) |  |
-| [getName(Class<?> arg0, long arg1)](#getName-java.lang.Class----long-) |  |
-| [getNames(System.Type arg0)](#getNames-com.aspose.ms.System.Type-) |  |
-| [getNames(Class<?> arg0)](#getNames-java.lang.Class----) |  |
-| [getUnderlyingType(System.Type arg0)](#getUnderlyingType-com.aspose.ms.System.Type-) |  |
-| [getUnderlyingType(Class<?> arg0)](#getUnderlyingType-java.lang.Class----) |  |
-| [getValue(Class<?> arg0, String arg1)](#getValue-java.lang.Class----java.lang.String-) |  |
-| [getValues(System.Type arg0)](#getValues-com.aspose.ms.System.Type-) |  |
-| [get_Caption()](#get-Caption--) |  |
-| [get_Value()](#get-Value--) |  |
-| [hashCode()](#hashCode--) |  |
-| [isDefined(System.Type arg0, Object arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.Object-) |  |
-| [isDefined(System.Type arg0, String arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.String-) |  |
-| [isDefined(System.Type arg0, long arg1)](#isDefined-com.aspose.ms.System.Type-long-) |  |
-| [isDefined(Class<?> arg0, long arg1)](#isDefined-java.lang.Class----long-) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [parse(System.Type arg0, String arg1)](#parse-com.aspose.ms.System.Type-java.lang.String-) |  |
-| [parse(System.Type arg0, String arg1, Boolean arg2)](#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-) |  |
-| [parse(Class<?> arg0, String arg1)](#parse-java.lang.Class----java.lang.String-) |  |
-| [parse(Class<?> arg0, String arg1, Boolean arg2)](#parse-java.lang.Class----java.lang.String-java.lang.Boolean-) |  |
-| [register(System.Enum.AbstractEnum arg0)](#register-com.aspose.ms.System.Enum.AbstractEnum-) |  |
-| [toObject(System.Type arg0, Object arg1)](#toObject-com.aspose.ms.System.Type-java.lang.Object-) |  |
-| [toString()](#toString--) |  |
-| [toString(Class<?> arg0, long arg1)](#toString-java.lang.Class----long-) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [Clone()](#Clone) |  |
+| [CloneTo(T arg0)](#CloneTo-T) |  |
+| [CloneTo(System.Enum arg0)](#CloneTo-com.aspose.ms.System.Enum) |  |
+| [equals(Object arg0)](#equals-java.lang.Object) |  |
+| [format(System.Type arg0, Object arg1, String arg2)](#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String) |  |
+| [format(Class<?> arg0, long arg1, String arg2)](#format-java.lang.Class----long-java.lang.String) |  |
+| [getClass()](#getClass) |  |
+| [getName(System.Type arg0, Object arg1)](#getName-com.aspose.ms.System.Type-java.lang.Object) |  |
+| [getName(Class<?> arg0, long arg1)](#getName-java.lang.Class----long) |  |
+| [getNames(System.Type arg0)](#getNames-com.aspose.ms.System.Type) |  |
+| [getNames(Class<?> arg0)](#getNames-java.lang.Class) |  |
+| [getUnderlyingType(System.Type arg0)](#getUnderlyingType-com.aspose.ms.System.Type) |  |
+| [getUnderlyingType(Class<?> arg0)](#getUnderlyingType-java.lang.Class) |  |
+| [getValue(Class<?> arg0, String arg1)](#getValue-java.lang.Class----java.lang.String) |  |
+| [getValues(System.Type arg0)](#getValues-com.aspose.ms.System.Type) |  |
+| [get_Caption()](#get-Caption) |  |
+| [get_Value()](#get-Value) |  |
+| [hashCode()](#hashCode) |  |
+| [isDefined(System.Type arg0, Object arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.Object) |  |
+| [isDefined(System.Type arg0, String arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.String) |  |
+| [isDefined(System.Type arg0, long arg1)](#isDefined-com.aspose.ms.System.Type-long) |  |
+| [isDefined(Class<?> arg0, long arg1)](#isDefined-java.lang.Class----long) |  |
+| [notify()](#notify) |  |
+| [notifyAll()](#notifyAll) |  |
+| [parse(System.Type arg0, String arg1)](#parse-com.aspose.ms.System.Type-java.lang.String) |  |
+| [parse(System.Type arg0, String arg1, Boolean arg2)](#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean) |  |
+| [parse(Class<?> arg0, String arg1)](#parse-java.lang.Class----java.lang.String) |  |
+| [parse(Class<?> arg0, String arg1, Boolean arg2)](#parse-java.lang.Class----java.lang.String-java.lang.Boolean) |  |
+| [register(System.Enum.AbstractEnum arg0)](#register-com.aspose.ms.System.Enum.AbstractEnum) |  |
+| [toObject(System.Type arg0, Object arg1)](#toObject-com.aspose.ms.System.Type-java.lang.Object) |  |
+| [toString()](#toString) |  |
+| [toString(Class<?> arg0, long arg1)](#toString-java.lang.Class----long) |  |
+| [wait()](#wait) |  |
+| [wait(long arg0)](#wait-long) |  |
+| [wait(long arg0, int arg1)](#wait-long-int) |  |
 ### EnumSeparatorCharArray {#EnumSeparatorCharArray}
 ```
 public static final char[] EnumSeparatorCharArray
@@ -82,7 +82,7 @@ public static final int Vertical
 
 Vertical orientation
 
-### Clone() {#Clone--}
+### Clone() {#Clone}
 ```
 public System.Enum Clone()
 ```
@@ -92,7 +92,7 @@ public System.Enum Clone()
 
 **Returns:**
 com.aspose.ms.System.Enum
-### CloneTo(T arg0) {#CloneTo-T-}
+### CloneTo(T arg0) {#CloneTo-T}
 ```
 public abstract void CloneTo(T arg0)
 ```
@@ -105,7 +105,7 @@ public abstract void CloneTo(T arg0)
 | --- | --- | --- |
 | arg0 | T |  |
 
-### CloneTo(System.Enum arg0) {#CloneTo-com.aspose.ms.System.Enum-}
+### CloneTo(System.Enum arg0) {#CloneTo-com.aspose.ms.System.Enum}
 ```
 public void CloneTo(System.Enum arg0)
 ```
@@ -118,7 +118,7 @@ public void CloneTo(System.Enum arg0)
 | --- | --- | --- |
 | arg0 | com.aspose.ms.System.Enum |  |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### equals(Object arg0) {#equals-java.lang.Object}
 ```
 public boolean equals(Object arg0)
 ```
@@ -133,7 +133,7 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### format(System.Type arg0, Object arg1, String arg2) {#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-}
+### format(System.Type arg0, Object arg1, String arg2) {#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String}
 ```
 public static String format(System.Type arg0, Object arg1, String arg2)
 ```
@@ -150,7 +150,7 @@ public static String format(System.Type arg0, Object arg1, String arg2)
 
 **Returns:**
 java.lang.String
-### format(Class<?> arg0, long arg1, String arg2) {#format-java.lang.Class----long-java.lang.String-}
+### format(Class<?> arg0, long arg1, String arg2) {#format-java.lang.Class----long-java.lang.String}
 ```
 public static String format(Class<?> arg0, long arg1, String arg2)
 ```
@@ -167,7 +167,7 @@ public static String format(Class<?> arg0, long arg1, String arg2)
 
 **Returns:**
 java.lang.String
-### getClass() {#getClass--}
+### getClass() {#getClass}
 ```
 public final native Class<?> getClass()
 ```
@@ -177,7 +177,7 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getName(System.Type arg0, Object arg1) {#getName-com.aspose.ms.System.Type-java.lang.Object-}
+### getName(System.Type arg0, Object arg1) {#getName-com.aspose.ms.System.Type-java.lang.Object}
 ```
 public static String getName(System.Type arg0, Object arg1)
 ```
@@ -193,7 +193,7 @@ public static String getName(System.Type arg0, Object arg1)
 
 **Returns:**
 java.lang.String
-### getName(Class<?> arg0, long arg1) {#getName-java.lang.Class----long-}
+### getName(Class<?> arg0, long arg1) {#getName-java.lang.Class----long}
 ```
 public static String getName(Class<?> arg0, long arg1)
 ```
@@ -209,7 +209,7 @@ public static String getName(Class<?> arg0, long arg1)
 
 **Returns:**
 java.lang.String
-### getNames(System.Type arg0) {#getNames-com.aspose.ms.System.Type-}
+### getNames(System.Type arg0) {#getNames-com.aspose.ms.System.Type}
 ```
 public static String[] getNames(System.Type arg0)
 ```
@@ -224,7 +224,7 @@ public static String[] getNames(System.Type arg0)
 
 **Returns:**
 java.lang.String[]
-### getNames(Class<?> arg0) {#getNames-java.lang.Class----}
+### getNames(Class<?> arg0) {#getNames-java.lang.Class}
 ```
 public static Collection<String> getNames(Class<?> arg0)
 ```
@@ -239,7 +239,7 @@ public static Collection<String> getNames(Class<?> arg0)
 
 **Returns:**
 java.util.Collection<java.lang.String>
-### getUnderlyingType(System.Type arg0) {#getUnderlyingType-com.aspose.ms.System.Type-}
+### getUnderlyingType(System.Type arg0) {#getUnderlyingType-com.aspose.ms.System.Type}
 ```
 public static System.Type getUnderlyingType(System.Type arg0)
 ```
@@ -254,7 +254,7 @@ public static System.Type getUnderlyingType(System.Type arg0)
 
 **Returns:**
 com.aspose.ms.System.Type
-### getUnderlyingType(Class<?> arg0) {#getUnderlyingType-java.lang.Class----}
+### getUnderlyingType(Class<?> arg0) {#getUnderlyingType-java.lang.Class}
 ```
 public static Class<? extends Number> getUnderlyingType(Class<?> arg0)
 ```
@@ -269,7 +269,7 @@ public static Class<? extends Number> getUnderlyingType(Class<?> arg0)
 
 **Returns:**
 java.lang.Class<? extends java.lang.Number>
-### getValue(Class<?> arg0, String arg1) {#getValue-java.lang.Class----java.lang.String-}
+### getValue(Class<?> arg0, String arg1) {#getValue-java.lang.Class----java.lang.String}
 ```
 public static long getValue(Class<?> arg0, String arg1)
 ```
@@ -285,7 +285,7 @@ public static long getValue(Class<?> arg0, String arg1)
 
 **Returns:**
 long
-### getValues(System.Type arg0) {#getValues-com.aspose.ms.System.Type-}
+### getValues(System.Type arg0) {#getValues-com.aspose.ms.System.Type}
 ```
 public static System.Array getValues(System.Type arg0)
 ```
@@ -300,7 +300,7 @@ public static System.Array getValues(System.Type arg0)
 
 **Returns:**
 com.aspose.ms.System.Array
-### get_Caption() {#get-Caption--}
+### get_Caption() {#get-Caption}
 ```
 public String get_Caption()
 ```
@@ -310,7 +310,7 @@ public String get_Caption()
 
 **Returns:**
 java.lang.String
-### get_Value() {#get-Value--}
+### get_Value() {#get-Value}
 ```
 public long get_Value()
 ```
@@ -320,7 +320,7 @@ public long get_Value()
 
 **Returns:**
 long
-### hashCode() {#hashCode--}
+### hashCode() {#hashCode}
 ```
 public native int hashCode()
 ```
@@ -330,7 +330,7 @@ public native int hashCode()
 
 **Returns:**
 int
-### isDefined(System.Type arg0, Object arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.Object-}
+### isDefined(System.Type arg0, Object arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.Object}
 ```
 public static boolean isDefined(System.Type arg0, Object arg1)
 ```
@@ -346,7 +346,7 @@ public static boolean isDefined(System.Type arg0, Object arg1)
 
 **Returns:**
 boolean
-### isDefined(System.Type arg0, String arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.String-}
+### isDefined(System.Type arg0, String arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.String}
 ```
 public static boolean isDefined(System.Type arg0, String arg1)
 ```
@@ -362,7 +362,7 @@ public static boolean isDefined(System.Type arg0, String arg1)
 
 **Returns:**
 boolean
-### isDefined(System.Type arg0, long arg1) {#isDefined-com.aspose.ms.System.Type-long-}
+### isDefined(System.Type arg0, long arg1) {#isDefined-com.aspose.ms.System.Type-long}
 ```
 public static boolean isDefined(System.Type arg0, long arg1)
 ```
@@ -378,7 +378,7 @@ public static boolean isDefined(System.Type arg0, long arg1)
 
 **Returns:**
 boolean
-### isDefined(Class<?> arg0, long arg1) {#isDefined-java.lang.Class----long-}
+### isDefined(Class<?> arg0, long arg1) {#isDefined-java.lang.Class----long}
 ```
 public static boolean isDefined(Class<?> arg0, long arg1)
 ```
@@ -394,7 +394,7 @@ public static boolean isDefined(Class<?> arg0, long arg1)
 
 **Returns:**
 boolean
-### notify() {#notify--}
+### notify() {#notify}
 ```
 public final native void notify()
 ```
@@ -402,7 +402,7 @@ public final native void notify()
 
 
 
-### notifyAll() {#notifyAll--}
+### notifyAll() {#notifyAll}
 ```
 public final native void notifyAll()
 ```
@@ -410,7 +410,7 @@ public final native void notifyAll()
 
 
 
-### parse(System.Type arg0, String arg1) {#parse-com.aspose.ms.System.Type-java.lang.String-}
+### parse(System.Type arg0, String arg1) {#parse-com.aspose.ms.System.Type-java.lang.String}
 ```
 public static long parse(System.Type arg0, String arg1)
 ```
@@ -426,7 +426,7 @@ public static long parse(System.Type arg0, String arg1)
 
 **Returns:**
 long
-### parse(System.Type arg0, String arg1, Boolean arg2) {#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-}
+### parse(System.Type arg0, String arg1, Boolean arg2) {#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean}
 ```
 public static long parse(System.Type arg0, String arg1, Boolean arg2)
 ```
@@ -443,7 +443,7 @@ public static long parse(System.Type arg0, String arg1, Boolean arg2)
 
 **Returns:**
 long
-### parse(Class<?> arg0, String arg1) {#parse-java.lang.Class----java.lang.String-}
+### parse(Class<?> arg0, String arg1) {#parse-java.lang.Class----java.lang.String}
 ```
 public static long parse(Class<?> arg0, String arg1)
 ```
@@ -459,7 +459,7 @@ public static long parse(Class<?> arg0, String arg1)
 
 **Returns:**
 long
-### parse(Class<?> arg0, String arg1, Boolean arg2) {#parse-java.lang.Class----java.lang.String-java.lang.Boolean-}
+### parse(Class<?> arg0, String arg1, Boolean arg2) {#parse-java.lang.Class----java.lang.String-java.lang.Boolean}
 ```
 public static long parse(Class<?> arg0, String arg1, Boolean arg2)
 ```
@@ -476,7 +476,7 @@ public static long parse(Class<?> arg0, String arg1, Boolean arg2)
 
 **Returns:**
 long
-### register(System.Enum.AbstractEnum arg0) {#register-com.aspose.ms.System.Enum.AbstractEnum-}
+### register(System.Enum.AbstractEnum arg0) {#register-com.aspose.ms.System.Enum.AbstractEnum}
 ```
 public static void register(System.Enum.AbstractEnum arg0)
 ```
@@ -489,7 +489,7 @@ public static void register(System.Enum.AbstractEnum arg0)
 | --- | --- | --- |
 | arg0 | com.aspose.ms.System.Enum.AbstractEnum |  |
 
-### toObject(System.Type arg0, Object arg1) {#toObject-com.aspose.ms.System.Type-java.lang.Object-}
+### toObject(System.Type arg0, Object arg1) {#toObject-com.aspose.ms.System.Type-java.lang.Object}
 ```
 public static Object toObject(System.Type arg0, Object arg1)
 ```
@@ -505,7 +505,7 @@ public static Object toObject(System.Type arg0, Object arg1)
 
 **Returns:**
 java.lang.Object
-### toString() {#toString--}
+### toString() {#toString}
 ```
 public String toString()
 ```
@@ -515,7 +515,7 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### toString(Class<?> arg0, long arg1) {#toString-java.lang.Class----long-}
+### toString(Class<?> arg0, long arg1) {#toString-java.lang.Class----long}
 ```
 public static String toString(Class<?> arg0, long arg1)
 ```
@@ -531,7 +531,7 @@ public static String toString(Class<?> arg0, long arg1)
 
 **Returns:**
 java.lang.String
-### wait() {#wait--}
+### wait() {#wait}
 ```
 public final void wait()
 ```
@@ -539,7 +539,7 @@ public final void wait()
 
 
 
-### wait(long arg0) {#wait-long-}
+### wait(long arg0) {#wait-long}
 ```
 public final native void wait(long arg0)
 ```
@@ -552,7 +552,7 @@ public final native void wait(long arg0)
 | --- | --- | --- |
 | arg0 | long |  |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### wait(long arg0, int arg1) {#wait-long-int}
 ```
 public final void wait(long arg0, int arg1)
 ```

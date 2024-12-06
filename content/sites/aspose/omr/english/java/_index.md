@@ -10,4 +10,4 @@ is_root: true
 ## Packages
 | Package | Description |
 | --- | --- |
-| [com.aspose.omr](./com.aspose.omr) | The  **com.aspose.omr** package provides classes for creating and recognizing omr forms. |
+| [com.aspose.omr](./com.aspose.omr/) | The  **com.aspose.omr** package provides classes for creating and recognizing omr forms. |

@@ -3,7 +3,7 @@ title: OmrTemplate
 second_title: Aspose.OMR for Java API Reference
 description: Represents omr template
 type: docs
-weight: 26
+weight: 25
 url: /java/com.aspose.omr/omrtemplate/
 ---
 
@@ -18,7 +18,7 @@ Represents omr template
 
 | Constructor | Description |
 | --- | --- |
-| [OmrTemplate()](#OmrTemplate--) | Initializes a new instance of the [OmrTemplate](../../com.aspose.omr/omrtemplate) class |
+| [OmrTemplate()](#OmrTemplate) | Initializes a new instance of the [OmrTemplate](../../com.aspose.omr/omrtemplate/) class |
 ## Fields
 
 | Field | Description |
@@ -28,33 +28,33 @@ Represents omr template
 
 | Method | Description |
 | --- | --- |
-| [addPage()](#addPage--) | Adds page to template |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getFinalizationComplete()](#getFinalizationComplete--) |  |
-| [getName()](#getName--) | Gets or sets template name |
-| [getPages()](#getPages--) | Gets list of pages in template |
-| [getTemplateId()](#getTemplateId--) |  |
-| [hashCode()](#hashCode--) |  |
-| [isGenerated()](#isGenerated--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setFinalizationComplete(boolean value)](#setFinalizationComplete-boolean-) |  |
-| [setGenerated(boolean value)](#setGenerated-boolean-) |  |
-| [setName(String value)](#setName-java.lang.String-) | Gets or sets template name |
-| [setPages(System.Collections.Generic.List<OmrPage> value)](#setPages-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrPage--) | Sets list of pages in template |
-| [setTemplateId(String value)](#setTemplateId-java.lang.String-) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### OmrTemplate() {#OmrTemplate--}
+| [addPage()](#addPage) | Adds page to template |
+| [equals(Object arg0)](#equals-java.lang.Object) |  |
+| [getClass()](#getClass) |  |
+| [getFinalizationComplete()](#getFinalizationComplete) |  |
+| [getName()](#getName) | Gets or sets template name |
+| [getPages()](#getPages) | Gets list of pages in template |
+| [getTemplateId()](#getTemplateId) |  |
+| [hashCode()](#hashCode) |  |
+| [isGenerated()](#isGenerated) |  |
+| [notify()](#notify) |  |
+| [notifyAll()](#notifyAll) |  |
+| [setFinalizationComplete(boolean value)](#setFinalizationComplete-boolean) |  |
+| [setGenerated(boolean value)](#setGenerated-boolean) |  |
+| [setName(String value)](#setName-java.lang.String) | Gets or sets template name |
+| [setPages(System.Collections.Generic.List<OmrPage> value)](#setPages-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrPage) | Sets list of pages in template |
+| [setTemplateId(String value)](#setTemplateId-java.lang.String) |  |
+| [toString()](#toString) |  |
+| [wait()](#wait) |  |
+| [wait(long arg0)](#wait-long) |  |
+| [wait(long arg0, int arg1)](#wait-long-int) |  |
+### OmrTemplate() {#OmrTemplate}
 ```
 public OmrTemplate()
 ```
 
 
-Initializes a new instance of the [OmrTemplate](../../com.aspose.omr/omrtemplate) class
+Initializes a new instance of the [OmrTemplate](../../com.aspose.omr/omrtemplate/) class
 
 ### Version {#Version}
 ```
@@ -64,7 +64,7 @@ public final String Version
 
 Gets or sets template markup version
 
-### addPage() {#addPage--}
+### addPage() {#addPage}
 ```
 public final OmrPage addPage()
 ```
@@ -73,8 +73,8 @@ public final OmrPage addPage()
 Adds page to template
 
 **Returns:**
-[OmrPage](../../com.aspose.omr/omrpage) - Created page
-### equals(Object arg0) {#equals-java.lang.Object-}
+[OmrPage](../../com.aspose.omr/omrpage/) - Created page
+### equals(Object arg0) {#equals-java.lang.Object}
 ```
 public boolean equals(Object arg0)
 ```
@@ -89,7 +89,7 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getClass() {#getClass--}
+### getClass() {#getClass}
 ```
 public final native Class<?> getClass()
 ```
@@ -99,7 +99,7 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getFinalizationComplete() {#getFinalizationComplete--}
+### getFinalizationComplete() {#getFinalizationComplete}
 ```
 public final boolean getFinalizationComplete()
 ```
@@ -109,7 +109,7 @@ public final boolean getFinalizationComplete()
 
 **Returns:**
 boolean
-### getName() {#getName--}
+### getName() {#getName}
 ```
 public final String getName()
 ```
@@ -119,7 +119,7 @@ Gets or sets template name
 
 **Returns:**
 java.lang.String - template name
-### getPages() {#getPages--}
+### getPages() {#getPages}
 ```
 public final System.Collections.Generic.List<OmrPage> getPages()
 ```
@@ -129,7 +129,7 @@ Gets list of pages in template
 
 **Returns:**
 com.aspose.ms.System.Collections.Generic.List<com.aspose.omr.OmrPage> - list of pages in template
-### getTemplateId() {#getTemplateId--}
+### getTemplateId() {#getTemplateId}
 ```
 public final String getTemplateId()
 ```
@@ -139,7 +139,7 @@ public final String getTemplateId()
 
 **Returns:**
 java.lang.String
-### hashCode() {#hashCode--}
+### hashCode() {#hashCode}
 ```
 public native int hashCode()
 ```
@@ -149,7 +149,7 @@ public native int hashCode()
 
 **Returns:**
 int
-### isGenerated() {#isGenerated--}
+### isGenerated() {#isGenerated}
 ```
 public final boolean isGenerated()
 ```
@@ -159,7 +159,7 @@ public final boolean isGenerated()
 
 **Returns:**
 boolean
-### notify() {#notify--}
+### notify() {#notify}
 ```
 public final native void notify()
 ```
@@ -167,7 +167,7 @@ public final native void notify()
 
 
 
-### notifyAll() {#notifyAll--}
+### notifyAll() {#notifyAll}
 ```
 public final native void notifyAll()
 ```
@@ -175,7 +175,7 @@ public final native void notifyAll()
 
 
 
-### setFinalizationComplete(boolean value) {#setFinalizationComplete-boolean-}
+### setFinalizationComplete(boolean value) {#setFinalizationComplete-boolean}
 ```
 public final void setFinalizationComplete(boolean value)
 ```
@@ -188,7 +188,7 @@ public final void setFinalizationComplete(boolean value)
 | --- | --- | --- |
 | value | boolean |  |
 
-### setGenerated(boolean value) {#setGenerated-boolean-}
+### setGenerated(boolean value) {#setGenerated-boolean}
 ```
 public final void setGenerated(boolean value)
 ```
@@ -201,7 +201,7 @@ public final void setGenerated(boolean value)
 | --- | --- | --- |
 | value | boolean |  |
 
-### setName(String value) {#setName-java.lang.String-}
+### setName(String value) {#setName-java.lang.String}
 ```
 public final void setName(String value)
 ```
@@ -214,7 +214,7 @@ Gets or sets template name
 | --- | --- | --- |
 | value | java.lang.String | template name |
 
-### setPages(System.Collections.Generic.List<OmrPage> value) {#setPages-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrPage--}
+### setPages(System.Collections.Generic.List<OmrPage> value) {#setPages-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrPage}
 ```
 public final void setPages(System.Collections.Generic.List<OmrPage> value)
 ```
@@ -227,7 +227,7 @@ Sets list of pages in template
 | --- | --- | --- |
 | value | com.aspose.ms.System.Collections.Generic.List<com.aspose.omr.OmrPage> | list of pages in template |
 
-### setTemplateId(String value) {#setTemplateId-java.lang.String-}
+### setTemplateId(String value) {#setTemplateId-java.lang.String}
 ```
 public final void setTemplateId(String value)
 ```
@@ -240,7 +240,7 @@ public final void setTemplateId(String value)
 | --- | --- | --- |
 | value | java.lang.String |  |
 
-### toString() {#toString--}
+### toString() {#toString}
 ```
 public String toString()
 ```
@@ -250,7 +250,7 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### wait() {#wait--}
+### wait() {#wait}
 ```
 public final void wait()
 ```
@@ -258,7 +258,7 @@ public final void wait()
 
 
 
-### wait(long arg0) {#wait-long-}
+### wait(long arg0) {#wait-long}
 ```
 public final native void wait(long arg0)
 ```
@@ -271,7 +271,7 @@ public final native void wait(long arg0)
 | --- | --- | --- |
 | arg0 | long |  |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### wait(long arg0, int arg1) {#wait-long-int}
 ```
 public final void wait(long arg0, int arg1)
 ```
