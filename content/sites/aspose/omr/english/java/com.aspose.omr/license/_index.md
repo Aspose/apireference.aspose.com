@@ -1,9 +1,9 @@
 ---
 title: License
 second_title: Aspose.OMR for Java API Reference
-description: Provides methods to license the component.
+description: Provides methods to license the component
 type: docs
-weight: 19
+weight: 18
 url: /java/com.aspose.omr/license/
 ---
 
@@ -23,23 +23,23 @@ license.setLicense("MyLicense.lic");
 
 | Constructor | Description |
 | --- | --- |
-| [License()](#License--) | Initializes a new instance of this class. |
+| [License()](#License) | Initializes a new instance of this class. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setLicense(InputStream stream)](#setLicense-java.io.InputStream-) | Licenses the component. |
-| [setLicense(String licenseName)](#setLicense-java.lang.String-) | Licenses the component. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### License() {#License--}
+| [equals(Object arg0)](#equals-java.lang.Object) |  |
+| [getClass()](#getClass) |  |
+| [hashCode()](#hashCode) |  |
+| [notify()](#notify) |  |
+| [notifyAll()](#notifyAll) |  |
+| [setLicense(InputStream stream)](#setLicense-java.io.InputStream) | Licenses the component. |
+| [setLicense(String licenseName)](#setLicense-java.lang.String) | Licenses the component. |
+| [toString()](#toString) |  |
+| [wait()](#wait) |  |
+| [wait(long arg0)](#wait-long) |  |
+| [wait(long arg0, int arg1)](#wait-long-int) |  |
+### License() {#License}
 ```
 public License()
 ```
@@ -52,7 +52,7 @@ In this example, an attempt will be made to find a license file named MyLicense.
 License license = new License();
 license.setLicense("MyLicense.lic");
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### equals(Object arg0) {#equals-java.lang.Object}
 ```
 public boolean equals(Object arg0)
 ```
@@ -67,7 +67,7 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getClass() {#getClass--}
+### getClass() {#getClass}
 ```
 public final native Class<?> getClass()
 ```
@@ -77,7 +77,7 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### hashCode() {#hashCode--}
+### hashCode() {#hashCode}
 ```
 public native int hashCode()
 ```
@@ -87,7 +87,7 @@ public native int hashCode()
 
 **Returns:**
 int
-### notify() {#notify--}
+### notify() {#notify}
 ```
 public final native void notify()
 ```
@@ -95,7 +95,7 @@ public final native void notify()
 
 
 
-### notifyAll() {#notifyAll--}
+### notifyAll() {#notifyAll}
 ```
 public final native void notifyAll()
 ```
@@ -103,7 +103,7 @@ public final native void notifyAll()
 
 
 
-### setLicense(InputStream stream) {#setLicense-java.io.InputStream-}
+### setLicense(InputStream stream) {#setLicense-java.io.InputStream}
 ```
 public void setLicense(InputStream stream)
 ```
@@ -123,7 +123,7 @@ license.setLicense(myStream);
 | --- | --- | --- |
 | stream | java.io.InputStream | license Stream |
 
-### setLicense(String licenseName) {#setLicense-java.lang.String-}
+### setLicense(String licenseName) {#setLicense-java.lang.String}
 ```
 public void setLicense(String licenseName)
 ```
@@ -147,7 +147,7 @@ license.setLicense("MyLicense.lic");
 | --- | --- | --- |
 | licenseName | java.lang.String | Can be a full or short file name or name of an embedded resource Use an empty string to switch to evaluation mode |
 
-### toString() {#toString--}
+### toString() {#toString}
 ```
 public String toString()
 ```
@@ -157,7 +157,7 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### wait() {#wait--}
+### wait() {#wait}
 ```
 public final void wait()
 ```
@@ -165,7 +165,7 @@ public final void wait()
 
 
 
-### wait(long arg0) {#wait-long-}
+### wait(long arg0) {#wait-long}
 ```
 public final native void wait(long arg0)
 ```
@@ -178,7 +178,7 @@ public final native void wait(long arg0)
 | --- | --- | --- |
 | arg0 | long |  |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### wait(long arg0, int arg1) {#wait-long-int}
 ```
 public final void wait(long arg0, int arg1)
 ```

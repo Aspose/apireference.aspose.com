@@ -1,9 +1,9 @@
 ---
 title: RecognitionResult
 second_title: Aspose.OMR for Java API Reference
-description: The result of the image recognition.
+description: The result of the image recognition
 type: docs
-weight: 28
+weight: 27
 url: /java/com.aspose.omr/recognitionresult/
 ---
 
@@ -18,24 +18,24 @@ The result of the image recognition. Contains all OMR elements with detailed rec
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getCsv()](#getCsv--) | Form CSV string with recognition results |
-| [getImagePath()](#getImagePath--) | Gets or sets the path to the processed image |
-| [getJson()](#getJson--) | Form JSON string with recognition results |
-| [getOmrElements()](#getOmrElements--) | Gets or sets the list of OMR elements on page |
-| [getTemplateName()](#getTemplateName--) | Gets or sets the OMR template name |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setImagePath(String value)](#setImagePath-java.lang.String-) | Gets or sets the path to the processed image |
-| [setOmrElements(List<IOmrElement> value)](#setOmrElements-java.util.List-com.aspose.omr.IOmrElement--) | Gets or sets the list of OMR elements on page |
-| [setTemplateName(String value)](#setTemplateName-java.lang.String-) | Gets or sets the OMR template name |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### equals(Object arg0) {#equals-java.lang.Object-}
+| [equals(Object arg0)](#equals-java.lang.Object) |  |
+| [getClass()](#getClass) |  |
+| [getCsv()](#getCsv) | Form CSV string with recognition results |
+| [getImagePath()](#getImagePath) | Gets or sets the path to the processed image |
+| [getJson()](#getJson) | Form JSON string with recognition results |
+| [getOmrElements()](#getOmrElements) | Gets or sets the list of OMR elements on page |
+| [getTemplateName()](#getTemplateName) | Gets or sets the OMR template name |
+| [hashCode()](#hashCode) |  |
+| [notify()](#notify) |  |
+| [notifyAll()](#notifyAll) |  |
+| [setImagePath(String value)](#setImagePath-java.lang.String) | Gets or sets the path to the processed image |
+| [setOmrElements(List<IOmrElement> value)](#setOmrElements-java.util.List-com.aspose.omr.IOmrElement) | Gets or sets the list of OMR elements on page |
+| [setTemplateName(String value)](#setTemplateName-java.lang.String) | Gets or sets the OMR template name |
+| [toString()](#toString) |  |
+| [wait()](#wait) |  |
+| [wait(long arg0)](#wait-long) |  |
+| [wait(long arg0, int arg1)](#wait-long-int) |  |
+### equals(Object arg0) {#equals-java.lang.Object}
 ```
 public boolean equals(Object arg0)
 ```
@@ -50,7 +50,7 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getClass() {#getClass--}
+### getClass() {#getClass}
 ```
 public final native Class<?> getClass()
 ```
@@ -60,7 +60,7 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getCsv() {#getCsv--}
+### getCsv() {#getCsv}
 ```
 public final String getCsv()
 ```
@@ -70,7 +70,7 @@ Form CSV string with recognition results
 
 **Returns:**
 java.lang.String - Recognition results as CSV string
-### getImagePath() {#getImagePath--}
+### getImagePath() {#getImagePath}
 ```
 public final String getImagePath()
 ```
@@ -80,7 +80,7 @@ Gets or sets the path to the processed image
 
 **Returns:**
 java.lang.String - path to the processed image
-### getJson() {#getJson--}
+### getJson() {#getJson}
 ```
 public final String getJson()
 ```
@@ -90,7 +90,7 @@ Form JSON string with recognition results
 
 **Returns:**
 java.lang.String - Recognition results as JSON string
-### getOmrElements() {#getOmrElements--}
+### getOmrElements() {#getOmrElements}
 ```
 public final List<IOmrElement> getOmrElements()
 ```
@@ -100,7 +100,7 @@ Gets or sets the list of OMR elements on page
 
 **Returns:**
 java.util.List<com.aspose.omr.IOmrElement>
-### getTemplateName() {#getTemplateName--}
+### getTemplateName() {#getTemplateName}
 ```
 public final String getTemplateName()
 ```
@@ -110,7 +110,7 @@ Gets or sets the OMR template name
 
 **Returns:**
 java.lang.String - OMR template name
-### hashCode() {#hashCode--}
+### hashCode() {#hashCode}
 ```
 public native int hashCode()
 ```
@@ -120,7 +120,7 @@ public native int hashCode()
 
 **Returns:**
 int
-### notify() {#notify--}
+### notify() {#notify}
 ```
 public final native void notify()
 ```
@@ -128,7 +128,7 @@ public final native void notify()
 
 
 
-### notifyAll() {#notifyAll--}
+### notifyAll() {#notifyAll}
 ```
 public final native void notifyAll()
 ```
@@ -136,7 +136,7 @@ public final native void notifyAll()
 
 
 
-### setImagePath(String value) {#setImagePath-java.lang.String-}
+### setImagePath(String value) {#setImagePath-java.lang.String}
 ```
 public final void setImagePath(String value)
 ```
@@ -149,7 +149,7 @@ Gets or sets the path to the processed image
 | --- | --- | --- |
 | value | java.lang.String | path to the processed image |
 
-### setOmrElements(List<IOmrElement> value) {#setOmrElements-java.util.List-com.aspose.omr.IOmrElement--}
+### setOmrElements(List<IOmrElement> value) {#setOmrElements-java.util.List-com.aspose.omr.IOmrElement}
 ```
 public final void setOmrElements(List<IOmrElement> value)
 ```
@@ -162,7 +162,7 @@ Gets or sets the list of OMR elements on page
 | --- | --- | --- |
 | value | java.util.List<com.aspose.omr.IOmrElement> |  |
 
-### setTemplateName(String value) {#setTemplateName-java.lang.String-}
+### setTemplateName(String value) {#setTemplateName-java.lang.String}
 ```
 public final void setTemplateName(String value)
 ```
@@ -175,7 +175,7 @@ Gets or sets the OMR template name
 | --- | --- | --- |
 | value | java.lang.String | OMR template name |
 
-### toString() {#toString--}
+### toString() {#toString}
 ```
 public String toString()
 ```
@@ -185,7 +185,7 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### wait() {#wait--}
+### wait() {#wait}
 ```
 public final void wait()
 ```
@@ -193,7 +193,7 @@ public final void wait()
 
 
 
-### wait(long arg0) {#wait-long-}
+### wait(long arg0) {#wait-long}
 ```
 public final native void wait(long arg0)
 ```
@@ -206,7 +206,7 @@ public final native void wait(long arg0)
 | --- | --- | --- |
 | arg0 | long |  |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### wait(long arg0, int arg1) {#wait-long-int}
 ```
 public final void wait(long arg0, int arg1)
 ```

@@ -163,23 +163,23 @@ Color used in template generation
 
 | Method | Description |
 | --- | --- |
-| [<T>valueOf(Class<T> arg0, String arg1)](#-T-valueOf-java.lang.Class-T--java.lang.String-) |  |
-| [ToSystem(DrawingColor color)](#ToSystem-com.aspose.omr.DrawingColor-) |  |
-| [compareTo(E arg0)](#compareTo-E-) |  |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getDeclaringClass()](#getDeclaringClass--) |  |
-| [hashCode()](#hashCode--) |  |
-| [name()](#name--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [ordinal()](#ordinal--) |  |
-| [toString()](#toString--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [values()](#values--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [<T>valueOf(Class<T> arg0, String arg1)](#-T-valueOf-java.lang.Class-T--java.lang.String) |  |
+| [ToSystem(DrawingColor color)](#ToSystem-com.aspose.omr.DrawingColor) |  |
+| [compareTo(E arg0)](#compareTo-E) |  |
+| [equals(Object arg0)](#equals-java.lang.Object) |  |
+| [getClass()](#getClass) |  |
+| [getDeclaringClass()](#getDeclaringClass) |  |
+| [hashCode()](#hashCode) |  |
+| [name()](#name) |  |
+| [notify()](#notify) |  |
+| [notifyAll()](#notifyAll) |  |
+| [ordinal()](#ordinal) |  |
+| [toString()](#toString) |  |
+| [valueOf(String name)](#valueOf-java.lang.String) |  |
+| [values()](#values) |  |
+| [wait()](#wait) |  |
+| [wait(long arg0)](#wait-long) |  |
+| [wait(long arg0, int arg1)](#wait-long-int) |  |
 ### AliceBlue {#AliceBlue}
 ```
 public static final DrawingColor AliceBlue
@@ -1308,7 +1308,7 @@ public static final DrawingColor undefined
 
 Undefined color. Default value will be used.
 
-### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
+### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String}
 ```
 public static T <T>valueOf(Class<T> arg0, String arg1)
 ```
@@ -1324,7 +1324,7 @@ public static T <T>valueOf(Class<T> arg0, String arg1)
 
 **Returns:**
 T
-### ToSystem(DrawingColor color) {#ToSystem-com.aspose.omr.DrawingColor-}
+### ToSystem(DrawingColor color) {#ToSystem-com.aspose.omr.DrawingColor}
 ```
 public static System.Drawing.Color ToSystem(DrawingColor color)
 ```
@@ -1335,11 +1335,11 @@ public static System.Drawing.Color ToSystem(DrawingColor color)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | [DrawingColor](../../com.aspose.omr/drawingcolor) |  |
+| color | [DrawingColor](../../com.aspose.omr/drawingcolor/) |  |
 
 **Returns:**
 com.aspose.ms.System.Drawing.Color
-### compareTo(E arg0) {#compareTo-E-}
+### compareTo(E arg0) {#compareTo-E}
 ```
 public final int compareTo(E arg0)
 ```
@@ -1354,7 +1354,7 @@ public final int compareTo(E arg0)
 
 **Returns:**
 int
-### equals(Object arg0) {#equals-java.lang.Object-}
+### equals(Object arg0) {#equals-java.lang.Object}
 ```
 public final boolean equals(Object arg0)
 ```
@@ -1369,7 +1369,7 @@ public final boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getClass() {#getClass--}
+### getClass() {#getClass}
 ```
 public final native Class<?> getClass()
 ```
@@ -1379,7 +1379,7 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getDeclaringClass() {#getDeclaringClass--}
+### getDeclaringClass() {#getDeclaringClass}
 ```
 public final Class<E> getDeclaringClass()
 ```
@@ -1389,7 +1389,7 @@ public final Class<E> getDeclaringClass()
 
 **Returns:**
 java.lang.Class<E>
-### hashCode() {#hashCode--}
+### hashCode() {#hashCode}
 ```
 public final int hashCode()
 ```
@@ -1399,7 +1399,7 @@ public final int hashCode()
 
 **Returns:**
 int
-### name() {#name--}
+### name() {#name}
 ```
 public final String name()
 ```
@@ -1409,7 +1409,7 @@ public final String name()
 
 **Returns:**
 java.lang.String
-### notify() {#notify--}
+### notify() {#notify}
 ```
 public final native void notify()
 ```
@@ -1417,7 +1417,7 @@ public final native void notify()
 
 
 
-### notifyAll() {#notifyAll--}
+### notifyAll() {#notifyAll}
 ```
 public final native void notifyAll()
 ```
@@ -1425,7 +1425,7 @@ public final native void notifyAll()
 
 
 
-### ordinal() {#ordinal--}
+### ordinal() {#ordinal}
 ```
 public final int ordinal()
 ```
@@ -1435,7 +1435,7 @@ public final int ordinal()
 
 **Returns:**
 int
-### toString() {#toString--}
+### toString() {#toString}
 ```
 public String toString()
 ```
@@ -1445,7 +1445,7 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### valueOf(String name) {#valueOf-java.lang.String-}
+### valueOf(String name) {#valueOf-java.lang.String}
 ```
 public static DrawingColor valueOf(String name)
 ```
@@ -1459,8 +1459,8 @@ public static DrawingColor valueOf(String name)
 | name | java.lang.String |  |
 
 **Returns:**
-[DrawingColor](../../com.aspose.omr/drawingcolor)
-### values() {#values--}
+[DrawingColor](../../com.aspose.omr/drawingcolor/)
+### values() {#values}
 ```
 public static DrawingColor[] values()
 ```
@@ -1470,7 +1470,7 @@ public static DrawingColor[] values()
 
 **Returns:**
 com.aspose.omr.DrawingColor[]
-### wait() {#wait--}
+### wait() {#wait}
 ```
 public final void wait()
 ```
@@ -1478,7 +1478,7 @@ public final void wait()
 
 
 
-### wait(long arg0) {#wait-long-}
+### wait(long arg0) {#wait-long}
 ```
 public final native void wait(long arg0)
 ```
@@ -1491,7 +1491,7 @@ public final native void wait(long arg0)
 | --- | --- | --- |
 | arg0 | long |  |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### wait(long arg0, int arg1) {#wait-long-int}
 ```
 public final void wait(long arg0, int arg1)
 ```
