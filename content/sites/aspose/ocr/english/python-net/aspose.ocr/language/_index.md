@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /python-net/aspose.ocr/language/
 ---
 
@@ -40,7 +40,7 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |SLK|Slovak alphabet|
 |SLV|Slovene alphabet|
 |SWE|Swedish alphabet|
-|CHI|Chinese alphabet|
+|CHINESE||
 |BEL|Belorussian alphabet|
 |BUL|Bulgarian alphabet|
 |KAZ|Kazakh alphabet|
@@ -159,8 +159,16 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |PES|Persian (Farsi) alphabet|
 |URD|Urdu alphabet|
 |UIG|Uyghur alphabet|
-|KOR|Korean alphabet|
-|JPN|Japanese alphabet|
+|KOR||
+|JPN||
+|TAM||
+|TEL||
+|KAN||
+|EUROPEAN||
+|INDIC||
+|DEVANAGARI||
+|CHI|Chinese alphabet|
+|MON||
 
 ### See Also
 
