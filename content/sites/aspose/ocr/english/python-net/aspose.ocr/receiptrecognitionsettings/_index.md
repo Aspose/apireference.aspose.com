@@ -3,7 +3,7 @@ title: ReceiptRecognitionSettings
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /python-net/aspose.ocr/receiptrecognitionsettings/
 ---
 

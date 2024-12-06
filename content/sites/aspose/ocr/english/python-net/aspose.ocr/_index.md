@@ -28,6 +28,7 @@ Contains tools for image recognition, skew correction, text areas detection and 
 |[Logging](/ocr/python-net/aspose.ocr/logging/)|Class to create log configurations.|
 |[Metered](/ocr/python-net/aspose.ocr/metered/)|Provides methods to set metered key.|
 |[OcrInput](/ocr/python-net/aspose.ocr/ocrinput/)|Container to collect all images / documents for preprocessing / recognition.|
+|[OcrOutput](/ocr/python-net/aspose.ocr/ocroutput/)||
 |[PassportRecognitionSettings](/ocr/python-net/aspose.ocr/passportrecognitionsettings/)|Settings for the passport recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[ReceiptRecognitionSettings](/ocr/python-net/aspose.ocr/receiptrecognitionsettings/)|Settings for the receipt recognition.<br/>            Contains elements that allow customizing the recognition process.|
 |[RecognitionResult](/ocr/python-net/aspose.ocr/recognitionresult/)|The results of the image recognition.<br/>            Contains elements with recognition information and methods for result export.|
