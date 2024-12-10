@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 40
+weight: 42
 url: /java/com.aspose.ocr/language/
 ---
 
@@ -38,18 +38,21 @@ public enum Language extends Enum<Language>
 | [Ces](#Ces) | Czech alphabet |
 | [Che](#Che) | Chechen alphabet |
 | [Chi](#Chi) | Chinese alphabet |
+| [Chinese](#Chinese) | Universal recognition of Chinese-based languages, including mixed Chinese-English texts |
 | [Cmn](#Cmn) | Mandarin�(Chinese) alphabet |
 | [Cpx](#Cpx) | Pu-Xian alphabet |
 | [Cyrillic](#Cyrillic) | Multi-language (cyrillic alphabet) support |
 | [Cze](#Cze) | Czech alphabet |
 | [Dan](#Dan) | Danish alphabet |
 | [Deu](#Deu) | German alphabet |
+| [Devanagari](#Devanagari) | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
 | [Dhd](#Dhd) | Dhundari alphabet |
 | [Diq](#Diq) | Dimli alphabet |
 | [Doc](#Doc) | Dong alphabet |
 | [Dum](#Dum) | Dutch alphabet |
 | [Eng](#Eng) | English alphabet |
 | [Est](#Est) | Estonian alphabet |
+| [European](#European) | Experimental. |
 | [ExtLatin](#ExtLatin) | Multi-language (latin alphabet + diacritic) support |
 | [Fin](#Fin) | Finnish alphabet |
 | [Fra](#Fra) | French alphabet |
@@ -71,8 +74,10 @@ public enum Language extends Enum<Language>
 | [Hun](#Hun) | Hungarian�(Magyar) alphabet |
 | [Ilo](#Ilo) | Ilocano alphabet |
 | [Ind](#Ind) | Indonesian alphabet |
+| [Indic](#Indic) | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
 | [Ita](#Ita) | Italian alphabet |
 | [Jpn](#Jpn) | Japanese alphabet |
+| [Kan](#Kan) | Kannada alphabet |
 | [Kaz](#Kaz) | Kazakh alphabet |
 | [Kbd](#Kbd) | Kabardian alphabet |
 | [Kfy](#Kfy) | Kumauni alphabet |
@@ -97,6 +102,7 @@ public enum Language extends Enum<Language>
 | [Min](#Min) | Minangkabau alphabet |
 | [Mly](#Mly) | Malay�(Melayu) alphabet |
 | [Mnp](#Mnp) | Min Bei alphabet |
+| [Mon](#Mon) | Mongolian alphabet |
 | [Mtq](#Mtq) | Muong alphabet |
 | [Mtr](#Mtr) | Mewari alphabet |
 | [Mui](#Mui) | Musi alphabet |
@@ -140,6 +146,8 @@ public enum Language extends Enum<Language>
 | [Sun](#Sun) | Sundanese�(Sunda) alphabet |
 | [Swe](#Swe) | Swedish alphabet |
 | [Swh](#Swh) | Swahili alphabet |
+| [Tam](#Tam) | Tamil alphabet |
+| [Tel](#Tel) | Telugu alphabet |
 | [Tgl](#Tgl) | Tagalog�(Pilipino) alphabet |
 | [Toi](#Toi) | Tonga alphabet |
 | [Tsn](#Tsn) | Tswana alphabet |
@@ -163,6 +171,7 @@ public enum Language extends Enum<Language>
 | [Yor](#Yor) | Yoruba alphabet |
 | [Yue](#Yue) | Cantonese alphabet |
 | [Zul](#Zul) | Zulu alphabet |
+
 ### Afr {#Afr}
 ```
 public static final Language Afr
@@ -339,6 +348,14 @@ public static final Language Chi
 
 Chinese alphabet
 
+### Chinese {#Chinese}
+```
+public static final Language Chinese
+```
+
+
+Universal recognition of Chinese-based languages, including mixed Chinese-English texts
+
 ### Cmn {#Cmn}
 ```
 public static final Language Cmn
@@ -387,6 +404,14 @@ public static final Language Deu
 
 German alphabet
 
+### Devanagari {#Devanagari}
+```
+public static final Language Devanagari
+```
+
+
+Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters
+
 ### Dhd {#Dhd}
 ```
 public static final Language Dhd
@@ -434,6 +459,14 @@ public static final Language Est
 
 
 Estonian alphabet
+
+### European {#European}
+```
+public static final Language European
+```
+
+
+Experimental. Recognition of mixed Cyrillic/English texts
 
 ### ExtLatin {#ExtLatin}
 ```
@@ -603,6 +636,14 @@ public static final Language Ind
 
 Indonesian alphabet
 
+### Indic {#Indic}
+```
+public static final Language Indic
+```
+
+
+Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters
+
 ### Ita {#Ita}
 ```
 public static final Language Ita
@@ -618,6 +659,14 @@ public static final Language Jpn
 
 
 Japanese alphabet
+
+### Kan {#Kan}
+```
+public static final Language Kan
+```
+
+
+Kannada alphabet
 
 ### Kaz {#Kaz}
 ```
@@ -810,6 +859,14 @@ public static final Language Mnp
 
 
 Min Bei alphabet
+
+### Mon {#Mon}
+```
+public static final Language Mon
+```
+
+
+Mongolian alphabet
 
 ### Mtq {#Mtq}
 ```
@@ -1154,6 +1211,22 @@ public static final Language Swh
 
 
 Swahili alphabet
+
+### Tam {#Tam}
+```
+public static final Language Tam
+```
+
+
+Tamil alphabet
+
+### Tel {#Tel}
+```
+public static final Language Tel
+```
+
+
+Telugu alphabet
 
 ### Tgl {#Tgl}
 ```

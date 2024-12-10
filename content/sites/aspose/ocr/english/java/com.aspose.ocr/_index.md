@@ -26,6 +26,7 @@ url: /java/com.aspose.ocr/
 | [License](../com.aspose.ocr/license/) | Provides methods to license the component. |
 | [Logging](../com.aspose.ocr/logging/) |  |
 | [OcrInput](../com.aspose.ocr/ocrinput/) | Main class for recognize text from images. |
+| [OcrOutput](../com.aspose.ocr/ocroutput/) |  |
 | [PassportRecognitionSettings](../com.aspose.ocr/passportrecognitionsettings/) | Settings for the Passport recognition Contains elements that allow customizing the recognition process |
 | [PreprocessingFilter](../com.aspose.ocr/preprocessingfilter/) | Base class for image processing commands. |
 | [ReceiptRecognitionSettings](../com.aspose.ocr/receiptrecognitionsettings/) | Settings for the receipt recognition Contains elements that allow customizing the recognition process |

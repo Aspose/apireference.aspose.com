@@ -58,7 +58,6 @@ Main class for recognize text from images.
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage) | Allows to get multipage document from list of RecognitionResult objects with spell-check correction. |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String) | Allows to get multipage document from list of RecognitionResult objects. |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, String embeddedFontPath, PdfOptimizationMode optimizePdf)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--java.lang.String-com.aspose.ocr.PdfOptimizationMode) | Allows to get multipage document from list of RecognitionResult objects. |
-
 ### AsposeOCR() {#AsposeOCR}
 ```
 public AsposeOCR()
@@ -336,7 +335,7 @@ Compare the texts on the two images and return a number representing how similar
 float - 0 means that the texts are completely different; 1 means the texts are identical.
 ### Recognize(OcrInput input) {#Recognize-com.aspose.ocr.OcrInput}
 ```
-public ArrayList<RecognitionResult> Recognize(OcrInput input)
+public OcrOutput Recognize(OcrInput input)
 ```
 
 
@@ -348,10 +347,10 @@ Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | [OcrInput](../../com.aspose.ocr/ocrinput/). instance. |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### Recognize(OcrInput input, RecognitionSettings settings) {#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings}
 ```
-public ArrayList<RecognitionResult> Recognize(OcrInput input, RecognitionSettings settings)
+public OcrOutput Recognize(OcrInput input, RecognitionSettings settings)
 ```
 
 
@@ -364,10 +363,10 @@ Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF
 | settings | [RecognitionSettings](../../com.aspose.ocr/recognitionsettings/) | [RecognitionSettings](../../com.aspose.ocr/recognitionsettings/). |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings) {#RecognizeCarPlate-com.aspose.ocr.OcrInput-com.aspose.ocr.CarPlateRecognitionSettings}
 ```
-public ArrayList<RecognitionResult> RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings)
+public OcrOutput RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings)
 ```
 
 
@@ -380,7 +379,7 @@ Recognizes car plate with the ability to specify Supports GIF, PNG, JPEG, WBMP, 
 | settings | [CarPlateRecognitionSettings](../../com.aspose.ocr/carplaterecognitionsettings/) | [CarPlateRecognitionSettings](../../com.aspose.ocr/carplaterecognitionsettings/). |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### RecognizeCharacters(OcrInput input) {#RecognizeCharacters-com.aspose.ocr.OcrInput}
 ```
 public ArrayList<CharacterRecognitionResult> RecognizeCharacters(OcrInput input)
@@ -430,7 +429,7 @@ Recognizes text on good quality image. Doesn't use automatic image skew correcti
 java.util.ArrayList<java.lang.String> - ArrayList with recognized text.
 ### RecognizeHandwrittenText(OcrInput input) {#RecognizeHandwrittenText-com.aspose.ocr.OcrInput}
 ```
-public ArrayList<RecognitionResult> RecognizeHandwrittenText(OcrInput input)
+public OcrOutput RecognizeHandwrittenText(OcrInput input)
 ```
 
 
@@ -442,10 +441,10 @@ Recognizes handwritten text on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | [OcrInput](../../com.aspose.ocr/ocrinput/). The container with sources.. |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings) {#RecognizeIDCard-com.aspose.ocr.OcrInput-com.aspose.ocr.IDCardRecognitionSettings}
 ```
-public ArrayList<RecognitionResult> RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)
+public OcrOutput RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)
 ```
 
 
@@ -458,10 +457,10 @@ Recognizes ID card with the ability to specify Supports GIF, PNG, JPEG, WBMP, TI
 | settings | [IDCardRecognitionSettings](../../com.aspose.ocr/idcardrecognitionsettings/) | [IDCardRecognitionSettings](../../com.aspose.ocr/idcardrecognitionsettings/). |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings) {#RecognizeInvoice-com.aspose.ocr.OcrInput-com.aspose.ocr.InvoiceRecognitionSettings}
 ```
-public ArrayList<RecognitionResult> RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings)
+public OcrOutput RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings)
 ```
 
 
@@ -474,10 +473,10 @@ Recognizes invoice with the ability to specify Supports GIF, PNG, JPEG, WBMP, TI
 | settings | [InvoiceRecognitionSettings](../../com.aspose.ocr/invoicerecognitionsettings/) | [InvoiceRecognitionSettings](../../com.aspose.ocr/invoicerecognitionsettings/). |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### RecognizePassport(OcrInput input, PassportRecognitionSettings settings) {#RecognizePassport-com.aspose.ocr.OcrInput-com.aspose.ocr.PassportRecognitionSettings}
 ```
-public ArrayList<RecognitionResult> RecognizePassport(OcrInput input, PassportRecognitionSettings settings)
+public OcrOutput RecognizePassport(OcrInput input, PassportRecognitionSettings settings)
 ```
 
 
@@ -490,10 +489,10 @@ Recognizes passport with the ability to specify. Supports GIF, PNG, JPEG, WBMP, 
 | settings | [PassportRecognitionSettings](../../com.aspose.ocr/passportrecognitionsettings/) | [PassportRecognitionSettings](../../com.aspose.ocr/passportrecognitionsettings/). |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings) {#RecognizeReceipt-com.aspose.ocr.OcrInput-com.aspose.ocr.ReceiptRecognitionSettings}
 ```
-public ArrayList<RecognitionResult> RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings)
+public OcrOutput RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings)
 ```
 
 
@@ -506,10 +505,10 @@ Recognizes receipts with the ability to specify Supports GIF, PNG, JPEG, WBMP, T
 | settings | [ReceiptRecognitionSettings](../../com.aspose.ocr/receiptrecognitionsettings/) | [ReceiptRecognitionSettings](../../com.aspose.ocr/receiptrecognitionsettings/). |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### RecognizeStreetPhoto(OcrInput input) {#RecognizeStreetPhoto-com.aspose.ocr.OcrInput}
 ```
-public ArrayList<RecognitionResult> RecognizeStreetPhoto(OcrInput input)
+public OcrOutput RecognizeStreetPhoto(OcrInput input)
 ```
 
 
@@ -521,7 +520,7 @@ Recognizes text on street photos. Extract text from street photos, traffic camer
 | input | [OcrInput](../../com.aspose.ocr/ocrinput/) | [OcrInput](../../com.aspose.ocr/ocrinput/). The container with sources.. |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
+[OcrOutput](../../com.aspose.ocr/ocroutput/) - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult/)
 ### SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results) {#SaveMultipageDocument-java.io.OutputStream-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult}
 ```
 public static void SaveMultipageDocument(OutputStream stream, Format saveFormat, ArrayList<RecognitionResult> results)
