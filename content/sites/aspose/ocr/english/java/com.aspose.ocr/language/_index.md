@@ -102,7 +102,7 @@ public enum Language extends Enum<Language>
 | [Min](#Min) | Minangkabau alphabet |
 | [Mly](#Mly) | Malay�(Melayu) alphabet |
 | [Mnp](#Mnp) | Min Bei alphabet |
-| [Mon](#Mon) | Mongolian alphabet |
+| [Mon](#Mon) | Mongolean alphabet |
 | [Mtq](#Mtq) | Muong alphabet |
 | [Mtr](#Mtr) | Mewari alphabet |
 | [Mui](#Mui) | Musi alphabet |
@@ -866,7 +866,7 @@ public static final Language Mon
 ```
 
 
-Mongolian alphabet
+Mongolean alphabet
 
 ### Mtq {#Mtq}
 ```
