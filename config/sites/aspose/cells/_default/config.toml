@@ -33,436 +33,437 @@ vi = "aspose-vi"
 zh-hant = "aspose-zht"
 
 defaultContentLang = 'en'
-[languages.en]
-    contentDir = 'content/sites/aspose/cells/english'
-    languageName = 'English'
-	languageCode = "en"
-    flag = "flag-us"
-    weight = 10
-    [languages.en.menu]
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for .NET"
-		  url = "./net/"
-		  weight = 10
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for Java"
-		  url = "/java/"
-		  weight = 20
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for C++"
-		  url = "/cpp/"
-		  weight = 30
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for Node.js via Java"
-		  url = "/nodejs/"
-		  weight = 40
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for PHP via Java"
-		  url = "/php/"
-		  weight = 50
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for Python via Java"
-		  url = "/python-java/"
-		  weight = 60
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for Node.js via C++"
-		  url = "/nodejs-cpp/"
-		  weight = 70
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for Python via .NET"
-		  url = "/python-net/"
-		  weight = 80
-    	[[languages.en.menu.main]]
-     	  name = "Aspose.Cells for Go via C++"
-		  url = "/go-cpp/"
-		  weight = 80
-	[languages.ru]
-    contentDir = 'content/sites/aspose/cells/russian'
-    languageName = 'Русский'
-    languageCode = "ru"
-    flag = "flag-ru"
-    weight = 20
-    [languages.ru.menu]
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для Java"
-          url = "../java/"
-          weight = 20
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для Node.js через Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для PHP через Java"
-          url = "../php/"
-          weight = 50
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для Python через Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для Node.js через C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для Python через .NET"
-          url = "../python-net/ru/"
-          weight = 80
-        [[languages.ru.menu.main]]
-          name = "Aspose.Cells для Go через C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.zh]
-    contentDir = 'content/sites/aspose/cells/chinese'
-    languageName = '中文'
-    languageCode = "zh"
-    flag = "flag-cn"
-    weight = 30
-    [languages.zh.menu]
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for Java"
-          url = "../java/"
-          weight = 20
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for Node.js via Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for PHP via Java"
-          url = "../php/"
-          weight = 50
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for Python via Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for Node.js via C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for Python via .NET"
-          url = "../python-net/zh/"
-          weight = 80
-        [[languages.zh.menu.main]]
-          name = "Aspose.Cells for Go via C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.ar]
-    contentDir = 'content/sites/aspose/cells/arabic'
-    languageName = 'العربية'
-    languageCode = "ar"
-    flag = "flag-sa"
-    weight = 40
-    [languages.ar.menu]
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ Java"
-          url = "../java/"
-          weight = 20
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ Node.js عبر Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ PHP عبر Java"
-          url = "../php/"
-          weight = 50
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ Python عبر Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ Node.js عبر C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ Python عبر .NET"
-          url = "../python-net/ar/"
-          weight = 80
-        [[languages.ar.menu.main]]
-          name = "Aspose.Cells لـ Go عبر C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.fr]
-    contentDir = 'content/sites/aspose/cells/french'
-    languageName = 'Français'
-    languageCode = "fr"
-    flag = "flag-fr"
-    weight = 50
-    [languages.fr.menu]
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour Java"
-          url = "../java/"
-          weight = 20
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour Node.js via Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour PHP via Java"
-          url = "../php/"
-          weight = 50
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour Python via Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour Node.js via C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour Python via .NET"
-          url = "../python-net/fr/"
-          weight = 80
-        [[languages.fr.menu.main]]
-          name = "Aspose.Cells pour Go via C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.de]
-    contentDir = 'content/sites/aspose/cells/german'
-    languageName = 'Deutsch'
-    languageCode = "de"
-    flag = "flag-de"
-    weight = 70
-    [languages.de.menu]
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für Java"
-          url = "../java/"
-          weight = 20
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für Node.js über Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für PHP über Java"
-          url = "../php/"
-          weight = 50
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für Python über Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für Node.js über C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für Python über .NET"
-          url = "../python-net/de/"
-          weight = 80
-        [[languages.de.menu.main]]
-          name = "Aspose.Cells für Go über C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.it]
-    contentDir = 'content/sites/aspose/cells/italian'
-    languageName = 'Italiano'
-    languageCode = "it"
-    flag = "flag-it"
-    weight = 80
-    [languages.it.menu]
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per Java"
-          url = "../java/"
-          weight = 20
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per Node.js tramite Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per PHP tramite Java"
-          url = "../php/"
-          weight = 50
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per Python tramite Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per Node.js tramite C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per Python tramite .NET"
-          url = "../python-net/it/"
-          weight = 80
-        [[languages.it.menu.main]]
-          name = "Aspose.Cells per Go tramite C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.es]
-    contentDir = 'content/sites/aspose/cells/spanish'
-    languageName = 'Español'
-    languageCode = "es"
-    flag = "flag-es"
-    weight = 90
-    [languages.es.menu]
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para Java"
-          url = "../java/"
-          weight = 20
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para Node.js mediante Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para PHP mediante Java"
-          url = "../php/"
-          weight = 50
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para Python mediante Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para Node.js mediante C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para Python mediante .NET"
-          url = "../python-net/es/"
-          weight = 80
-        [[languages.es.menu.main]]
-          name = "Aspose.Cells para Go mediante C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.sv]
-    contentDir = 'content/sites/aspose/cells/swedish'
-    languageName = 'Svenska'
-    languageCode = "sv"
-    flag = "flag-se"
-    weight = 100
-    [languages.sv.menu]
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för Java"
-          url = "../java/"
-          weight = 20
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för Node.js via Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för PHP via Java"
-          url = "../php/"
-          weight = 50
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för Python via Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för Node.js via C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för Python via .NET"
-          url = "../python-net/sv/"
-          weight = 80
-        [[languages.sv.menu.main]]
-          name = "Aspose.Cells för Go via C++"
-          url = "../go-cpp/"
-          weight = 90
-	[languages.tr]
-    contentDir = 'content/sites/aspose/cells/turkish'
-    languageName = 'Türkçe'
-    languageCode = "tr"
-    flag = "flag-tr"
-    weight = 110
-    [languages.tr.menu]
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için .NET"
-          url = "./net/"
-          weight = 10
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için Java"
-          url = "../java/"
-          weight = 20
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için C++"
-          url = "../cpp/"
-          weight = 30
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için Node.js üzerinden Java"
-          url = "../nodejs/"
-          weight = 40
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için PHP üzerinden Java"
-          url = "../php/"
-          weight = 50
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için Python üzerinden Java"
-          url = "../python-java/"
-          weight = 60
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için Node.js üzerinden C++"
-          url = "../nodejs-cpp/"
-          weight = 70
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için Python üzerinden .NET"
-          url = "../python-net/tr/"
-          weight = 80
-        [[languages.tr.menu.main]]
-          name = "Aspose.Cells için Go üzerinden C++"
-          url = "../go-cpp/"
-          weight = 90
+[languages]
+	[languages.en]
+	    contentDir = 'content/sites/aspose/cells/english'
+	    languageName = 'English'
+		languageCode = "en"
+	    flag = "flag-us"
+	    weight = 10
+	    [languages.en.menu]
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for .NET"
+			  url = "./net/"
+			  weight = 10
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for Java"
+			  url = "/java/"
+			  weight = 20
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for C++"
+			  url = "/cpp/"
+			  weight = 30
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for Node.js via Java"
+			  url = "/nodejs/"
+			  weight = 40
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for PHP via Java"
+			  url = "/php/"
+			  weight = 50
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for Python via Java"
+			  url = "/python-java/"
+			  weight = 60
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for Node.js via C++"
+			  url = "/nodejs-cpp/"
+			  weight = 70
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for Python via .NET"
+			  url = "/python-net/"
+			  weight = 80
+	    	[[languages.en.menu.main]]
+	     	  name = "Aspose.Cells for Go via C++"
+			  url = "/go-cpp/"
+			  weight = 80
+		[languages.ru]
+	    contentDir = 'content/sites/aspose/cells/russian'
+	    languageName = 'Русский'
+	    languageCode = "ru"
+	    flag = "flag-ru"
+	    weight = 20
+	    [languages.ru.menu]
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для Node.js через Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для PHP через Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для Python через Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для Node.js через C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для Python через .NET"
+	          url = "../python-net/ru/"
+	          weight = 80
+	        [[languages.ru.menu.main]]
+	          name = "Aspose.Cells для Go через C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.zh]
+	    contentDir = 'content/sites/aspose/cells/chinese'
+	    languageName = '中文'
+	    languageCode = "zh"
+	    flag = "flag-cn"
+	    weight = 30
+	    [languages.zh.menu]
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for Node.js via Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for PHP via Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for Python via Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for Node.js via C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for Python via .NET"
+	          url = "../python-net/zh/"
+	          weight = 80
+	        [[languages.zh.menu.main]]
+	          name = "Aspose.Cells for Go via C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.ar]
+	    contentDir = 'content/sites/aspose/cells/arabic'
+	    languageName = 'العربية'
+	    languageCode = "ar"
+	    flag = "flag-sa"
+	    weight = 40
+	    [languages.ar.menu]
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ Node.js عبر Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ PHP عبر Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ Python عبر Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ Node.js عبر C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ Python عبر .NET"
+	          url = "../python-net/ar/"
+	          weight = 80
+	        [[languages.ar.menu.main]]
+	          name = "Aspose.Cells لـ Go عبر C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.fr]
+	    contentDir = 'content/sites/aspose/cells/french'
+	    languageName = 'Français'
+	    languageCode = "fr"
+	    flag = "flag-fr"
+	    weight = 50
+	    [languages.fr.menu]
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour Node.js via Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour PHP via Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour Python via Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour Node.js via C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour Python via .NET"
+	          url = "../python-net/fr/"
+	          weight = 80
+	        [[languages.fr.menu.main]]
+	          name = "Aspose.Cells pour Go via C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.de]
+	    contentDir = 'content/sites/aspose/cells/german'
+	    languageName = 'Deutsch'
+	    languageCode = "de"
+	    flag = "flag-de"
+	    weight = 70
+	    [languages.de.menu]
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für Node.js über Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für PHP über Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für Python über Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für Node.js über C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für Python über .NET"
+	          url = "../python-net/de/"
+	          weight = 80
+	        [[languages.de.menu.main]]
+	          name = "Aspose.Cells für Go über C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.it]
+	    contentDir = 'content/sites/aspose/cells/italian'
+	    languageName = 'Italiano'
+	    languageCode = "it"
+	    flag = "flag-it"
+	    weight = 80
+	    [languages.it.menu]
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per Node.js tramite Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per PHP tramite Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per Python tramite Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per Node.js tramite C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per Python tramite .NET"
+	          url = "../python-net/it/"
+	          weight = 80
+	        [[languages.it.menu.main]]
+	          name = "Aspose.Cells per Go tramite C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.es]
+	    contentDir = 'content/sites/aspose/cells/spanish'
+	    languageName = 'Español'
+	    languageCode = "es"
+	    flag = "flag-es"
+	    weight = 90
+	    [languages.es.menu]
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para Node.js mediante Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para PHP mediante Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para Python mediante Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para Node.js mediante C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para Python mediante .NET"
+	          url = "../python-net/es/"
+	          weight = 80
+	        [[languages.es.menu.main]]
+	          name = "Aspose.Cells para Go mediante C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.sv]
+	    contentDir = 'content/sites/aspose/cells/swedish'
+	    languageName = 'Svenska'
+	    languageCode = "sv"
+	    flag = "flag-se"
+	    weight = 100
+	    [languages.sv.menu]
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för Node.js via Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för PHP via Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för Python via Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för Node.js via C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för Python via .NET"
+	          url = "../python-net/sv/"
+	          weight = 80
+	        [[languages.sv.menu.main]]
+	          name = "Aspose.Cells för Go via C++"
+	          url = "../go-cpp/"
+	          weight = 90
+		[languages.tr]
+	    contentDir = 'content/sites/aspose/cells/turkish'
+	    languageName = 'Türkçe'
+	    languageCode = "tr"
+	    flag = "flag-tr"
+	    weight = 110
+	    [languages.tr.menu]
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için .NET"
+	          url = "./net/"
+	          weight = 10
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için Java"
+	          url = "../java/"
+	          weight = 20
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için C++"
+	          url = "../cpp/"
+	          weight = 30
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için Node.js üzerinden Java"
+	          url = "../nodejs/"
+	          weight = 40
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için PHP üzerinden Java"
+	          url = "../php/"
+	          weight = 50
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için Python üzerinden Java"
+	          url = "../python-java/"
+	          weight = 60
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için Node.js üzerinden C++"
+	          url = "../nodejs-cpp/"
+	          weight = 70
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için Python üzerinden .NET"
+	          url = "../python-net/tr/"
+	          weight = 80
+	        [[languages.tr.menu.main]]
+	          name = "Aspose.Cells için Go üzerinden C++"
+	          url = "../go-cpp/"
+	          weight = 90
 
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
