@@ -34,7 +34,7 @@ zh-hant = "aspose-zht"
 
 defaultContentLang = 'en'
 [languages.en]
-    contentDir = 'content/sites/aspose/imaging/cells'
+    contentDir = 'content/sites/aspose/cells/english'
     languageName = 'English'
 	languageCode = "en"
     flag = "flag-us"
@@ -77,7 +77,7 @@ defaultContentLang = 'en'
 		  url = "/go-cpp/"
 		  weight = 80
 	[languages.ru]
-    contentDir = 'content/sites/aspose/imaging/cells/russian'
+    contentDir = 'content/sites/aspose/cells/russian'
     languageName = 'Русский'
     languageCode = "ru"
     flag = "flag-ru"
@@ -120,7 +120,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.zh]
-    contentDir = 'content/sites/aspose/imaging/cells/chinese'
+    contentDir = 'content/sites/aspose/cells/chinese'
     languageName = '中文'
     languageCode = "zh"
     flag = "flag-cn"
@@ -163,7 +163,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.ar]
-    contentDir = 'content/sites/aspose/imaging/cells/arabic'
+    contentDir = 'content/sites/aspose/cells/arabic'
     languageName = 'العربية'
     languageCode = "ar"
     flag = "flag-sa"
@@ -206,7 +206,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.fr]
-    contentDir = 'content/sites/aspose/imaging/cells/french'
+    contentDir = 'content/sites/aspose/cells/french'
     languageName = 'Français'
     languageCode = "fr"
     flag = "flag-fr"
@@ -249,7 +249,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.de]
-    contentDir = 'content/sites/aspose/imaging/cells/german'
+    contentDir = 'content/sites/aspose/cells/german'
     languageName = 'Deutsch'
     languageCode = "de"
     flag = "flag-de"
@@ -292,7 +292,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.it]
-    contentDir = 'content/sites/aspose/imaging/cells/italian'
+    contentDir = 'content/sites/aspose/cells/italian'
     languageName = 'Italiano'
     languageCode = "it"
     flag = "flag-it"
@@ -335,7 +335,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.es]
-    contentDir = 'content/sites/aspose/imaging/cells/spanish'
+    contentDir = 'content/sites/aspose/cells/spanish'
     languageName = 'Español'
     languageCode = "es"
     flag = "flag-es"
@@ -378,7 +378,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.sv]
-    contentDir = 'content/sites/aspose/imaging/cells/swedish'
+    contentDir = 'content/sites/aspose/cells/swedish'
     languageName = 'Svenska'
     languageCode = "sv"
     flag = "flag-se"
@@ -421,7 +421,7 @@ defaultContentLang = 'en'
           url = "../go-cpp/"
           weight = 90
 	[languages.tr]
-    contentDir = 'content/sites/aspose/imaging/cells/turkish'
+    contentDir = 'content/sites/aspose/cells/turkish'
     languageName = 'Türkçe'
     languageCode = "tr"
     flag = "flag-tr"
