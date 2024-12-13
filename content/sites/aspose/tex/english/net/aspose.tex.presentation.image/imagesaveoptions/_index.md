@@ -3,7 +3,7 @@ title: Class ImageSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Image.ImageSaveOptions class. Basic class representing options of saving to raster images
 type: docs
-weight: 640
+weight: 620
 url: /net/aspose.tex.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class

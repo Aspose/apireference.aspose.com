@@ -3,7 +3,7 @@ title: XpsDevice.PageCount
 second_title: Aspose.TeX for .NET API Reference
 description: XpsDevice property. Gets the number of pages
 type: docs
-weight: 60
+weight: 20
 url: /net/aspose.tex.presentation.xps/xpsdevice/pagecount/
 ---
 ## XpsDevice.PageCount property

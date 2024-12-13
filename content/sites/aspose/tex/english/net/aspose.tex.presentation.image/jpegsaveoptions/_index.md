@@ -3,7 +3,7 @@ title: Class JpegSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Image.JpegSaveOptions class. Class representing options of saving to JPEG images
 type: docs
-weight: 650
+weight: 630
 url: /net/aspose.tex.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

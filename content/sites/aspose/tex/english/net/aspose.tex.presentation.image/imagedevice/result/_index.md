@@ -3,7 +3,7 @@ title: ImageDevice.Result
 second_title: Aspose.TeX for .NET API Reference
 description: ImageDevice property. Returns the resulting images byte arrays. The first dimension is for inner documents and the second one is for pages within inner documents
 type: docs
-weight: 70
+weight: 30
 url: /net/aspose.tex.presentation.image/imagedevice/result/
 ---
 ## ImageDevice.Result property

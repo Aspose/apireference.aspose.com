@@ -3,7 +3,7 @@ title: Enum PdfTextCompression
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Pdf.PdfTextCompression enum. Specifies a type of compression applied to all contents in the PDF file except images
 type: docs
-weight: 740
+weight: 720
 url: /net/aspose.tex.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration

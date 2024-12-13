@@ -3,7 +3,7 @@ title: SvgDevice.PageCount
 second_title: Aspose.TeX for .NET API Reference
 description: SvgDevice property. Gets the number of pages
 type: docs
-weight: 60
+weight: 20
 url: /net/aspose.tex.presentation.svg/svgdevice/pagecount/
 ---
 ## SvgDevice.PageCount property

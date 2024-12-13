@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Pdf.PdfSaveOptions class. Class representing options of saving to PDF
 type: docs
-weight: 730
+weight: 710
 url: /net/aspose.tex.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
