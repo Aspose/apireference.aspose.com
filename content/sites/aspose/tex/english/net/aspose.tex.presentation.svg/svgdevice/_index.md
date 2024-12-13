@@ -3,7 +3,7 @@ title: Class SvgDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Svg.SvgDevice class. Implements the interface for outputting text and graphic content to PDF document
 type: docs
-weight: 760
+weight: 740
 url: /net/aspose.tex.presentation.svg/svgdevice/
 ---
 ## SvgDevice class
@@ -11,7 +11,7 @@ url: /net/aspose.tex.presentation.svg/svgdevice/
 Implements the interface for outputting text and graphic content to PDF document.
 
 ```csharp
-public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
+public class SvgDevice : Device
 ```
 
 ## Constructors
@@ -24,41 +24,19 @@ public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
 
 | Name | Description |
 | --- | --- |
-| override [DestinationName](../../aspose.tex.presentation.svg/svgdevice/destinationname/) { get; } | Gets destination name: output file name or device description. |
-| override [Fill](../../aspose.tex.presentation.svg/svgdevice/fill/) { get; set; } | Gets/sets the current fill. |
-| override [FillOpacity](../../aspose.tex.presentation.svg/svgdevice/fillopacity/) { get; set; } | Gets/sets the current fill opacity. |
-| override [IsReady](../../aspose.tex.presentation.svg/svgdevice/isready/) { get; } | Shows if device is ready for output. |
 | override [PageCount](../../aspose.tex.presentation.svg/svgdevice/pagecount/) { get; } | Gets the number of pages. |
-| override [Stroke](../../aspose.tex.presentation.svg/svgdevice/stroke/) { get; set; } | Gets/sets the current stroke. |
-| override [StrokeOpacity](../../aspose.tex.presentation.svg/svgdevice/strokeopacity/) { get; set; } | Gets/sets the current stroke opacity. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [AddBookmark](../../aspose.tex.presentation.svg/svgdevice/addbookmark/)(string, PointF) | Adds the bookmark identified by the name. |
-| override [AddHyperlink](../../aspose.tex.presentation.svg/svgdevice/addhyperlink/)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
-| override [Create](../../aspose.tex.presentation.svg/svgdevice/create/)() | Creates a copy of this device. |
-| override [Dispose](../../aspose.tex.presentation.svg/svgdevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
-| override [DrawPath](../../aspose.tex.presentation.svg/svgdevice/drawpath/)(GraphicsPath) | Draws a path. |
-| override [DrawString](../../aspose.tex.presentation.svg/svgdevice/drawstring/)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
-| override [EndDocument](../../aspose.tex.presentation.svg/svgdevice/enddocument/)() | Finalizes the whole document. |
 | [EndFragment](../../aspose.tex.presentation.svg/svgdevice/endfragment/)() | Ends a fragment to rasterize. |
-| override [EndPage](../../aspose.tex.presentation.svg/svgdevice/endpage/)() | Finalizes a page. |
-| override [FillPath](../../aspose.tex.presentation.svg/svgdevice/fillpath/)(GraphicsPath) | Fill a path. |
-| override [Initialize](../../aspose.tex.presentation.svg/svgdevice/initialize/)() | Initializes the device. |
-| override [SetClip](../../aspose.tex.presentation.svg/svgdevice/setclip/)(GraphicsPath) | Sets the current clip path. |
-| override [SetTransform](../../aspose.tex.presentation.svg/svgdevice/settransform/)(Matrix) | Sets the current coordinate space transformation. |
-| override [ShowImage](../../aspose.tex.presentation.svg/svgdevice/showimage/)(PointF, SizeF, byte[]) | Shows a raster image. |
-| override [StartDocument](../../aspose.tex.presentation.svg/svgdevice/startdocument/)() | Starts the whole document. |
 | [StartFragment](../../aspose.tex.presentation.svg/svgdevice/startfragment/)() | Starts a fragment to rasterize. |
-| override [StartPage](../../aspose.tex.presentation.svg/svgdevice/startpage/)(float, float) | Starts a new page. |
 
 ### See Also
 
 * class [Device](../../aspose.tex.presentation/device/)
-* interface [IFragmentRasterizer](../../aspose.tex.presentation/ifragmentrasterizer/)
-* interface [IInteractiveDevice](../../aspose.tex.presentation/iinteractivedevice/)
 * namespace [Aspose.TeX.Presentation.Svg](../../aspose.tex.presentation.svg/)
 * assembly [Aspose.TeX](../../)
 

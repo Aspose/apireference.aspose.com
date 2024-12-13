@@ -3,7 +3,7 @@ title: Enum TiffCompression
 second_title: Aspose.TeX for .NET API Reference
 description: Aspose.TeX.Presentation.Image.TiffCompression enum. Enumerates TIFF compression schemes
 type: docs
-weight: 670
+weight: 650
 url: /net/aspose.tex.presentation.image/tiffcompression/
 ---
 ## TiffCompression enumeration
