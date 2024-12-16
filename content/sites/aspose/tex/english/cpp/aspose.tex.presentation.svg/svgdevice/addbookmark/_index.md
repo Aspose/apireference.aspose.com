@@ -22,9 +22,6 @@ void Aspose::TeX::Presentation::Svg::SvgDevice::AddBookmark(System::String name,
 | name | System::String | The name. |
 | position | System::Drawing::PointF | The position. |
 
-## Deprecated
-This method has been deprecated starting from version 24.7 and will be hidden in version 24.10. False 
-
 ## See Also
 
 * Class [String](../../../system/string/)
