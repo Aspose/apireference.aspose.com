@@ -4,7 +4,7 @@ linktitle: get_PageCount
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Presentation::Svg::SvgDevice::get_PageCount method. Gets the number of pages in C++.'
 type: docs
-weight: 1600
+weight: 400
 url: /cpp/aspose.tex.presentation.svg/svgdevice/get_pagecount/
 ---
 ## SvgDevice::get_PageCount method
