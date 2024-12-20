@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_beige/
 Gets a system-defined color that has an ARGB value of #FFF5F5DC.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Beige()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Beige()
 ```
 
 

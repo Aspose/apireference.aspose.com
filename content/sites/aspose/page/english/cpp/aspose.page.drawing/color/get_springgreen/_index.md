@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_springgreen/
 Gets a system-defined color that has an ARGB value of #FF00FF7F.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_SpringGreen()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_SpringGreen()
 ```
 
 

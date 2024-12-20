@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_peru/
 Gets a system-defined color that has an ARGB value of #FFCD853F.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Peru()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Peru()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_silver/
 Gets a system-defined color that has an ARGB value of #FFC0C0C0.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Silver()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Silver()
 ```
 
 

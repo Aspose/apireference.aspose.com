@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_oldlace/
 Gets a system-defined color that has an ARGB value of #FFFDF5E6.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_OldLace()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_OldLace()
 ```
 
 

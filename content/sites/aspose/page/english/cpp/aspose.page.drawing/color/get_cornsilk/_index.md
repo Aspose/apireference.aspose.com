@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_cornsilk/
 Gets a system-defined color that has an ARGB value of #FFFFF8DC.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Cornsilk()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Cornsilk()
 ```
 
 

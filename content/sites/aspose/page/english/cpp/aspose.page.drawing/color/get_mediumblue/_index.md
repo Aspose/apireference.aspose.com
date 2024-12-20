@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_mediumblue/
 Gets a system-defined color that has an ARGB value of #FF0000CD.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_MediumBlue()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_MediumBlue()
 ```
 
 

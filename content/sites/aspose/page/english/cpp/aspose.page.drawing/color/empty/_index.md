@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/empty/
 Represents a color that is null.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::Empty
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::Empty
 ```
 
 ## See Also

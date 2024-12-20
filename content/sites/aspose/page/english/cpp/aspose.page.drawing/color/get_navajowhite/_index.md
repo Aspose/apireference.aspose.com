@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_navajowhite/
 Gets a system-defined color that has an ARGB value of #FFFFDEAD.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_NavajoWhite()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_NavajoWhite()
 ```
 
 

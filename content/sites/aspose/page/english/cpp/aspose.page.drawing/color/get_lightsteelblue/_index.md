@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightsteelblue/
 Gets a system-defined color that has an ARGB value of #FFB0C4DE.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightSteelBlue()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightSteelBlue()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_darkslateblue/
 Gets a system-defined color that has an ARGB value of #FF483D8B.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_DarkSlateBlue()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_DarkSlateBlue()
 ```
 
 

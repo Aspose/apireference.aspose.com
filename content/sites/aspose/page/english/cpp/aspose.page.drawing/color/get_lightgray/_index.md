@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightgray/
 Gets a system-defined color that has an ARGB value of #FFD3D3D3.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightGray()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightGray()
 ```
 
 

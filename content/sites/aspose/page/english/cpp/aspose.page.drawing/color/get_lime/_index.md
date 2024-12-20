@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lime/
 Gets a system-defined color that has an ARGB value of #FF00FF00.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Lime()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Lime()
 ```
 
 

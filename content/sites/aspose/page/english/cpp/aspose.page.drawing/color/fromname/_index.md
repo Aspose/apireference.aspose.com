@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/fromname/
 Creates a [T:Aspose::Page::Drawing::Color](../) structure from the specified name of a predefined color.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::FromName(System::String name)
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::FromName(System::String name)
 ```
 
 

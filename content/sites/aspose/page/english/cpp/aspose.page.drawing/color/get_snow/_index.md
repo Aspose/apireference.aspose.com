@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_snow/
 Gets a system-defined color that has an ARGB value of #FFFFFAFA.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Snow()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Snow()
 ```
 
 

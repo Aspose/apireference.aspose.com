@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_orangered/
 Gets a system-defined color that has an ARGB value of #FFFF4500.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_OrangeRed()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_OrangeRed()
 ```
 
 

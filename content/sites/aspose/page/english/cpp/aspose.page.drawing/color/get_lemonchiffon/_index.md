@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lemonchiffon/
 Gets a system-defined color that has an ARGB value of #FFFFFACD.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LemonChiffon()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LemonChiffon()
 ```
 
 

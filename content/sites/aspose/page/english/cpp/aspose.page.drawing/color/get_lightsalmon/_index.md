@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightsalmon/
 Gets a system-defined color that has an ARGB value of #FFFFA07A.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightSalmon()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightSalmon()
 ```
 
 

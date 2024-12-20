@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_antiquewhite/
 Gets a system-defined color that has an ARGB value of #FFFAEBD7.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_AntiqueWhite()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_AntiqueWhite()
 ```
 
 

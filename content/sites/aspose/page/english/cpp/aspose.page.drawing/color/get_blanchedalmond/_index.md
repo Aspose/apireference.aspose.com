@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_blanchedalmond/
 Gets a system-defined color that has an ARGB value of #FFFFEBCD.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_BlanchedAlmond()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_BlanchedAlmond()
 ```
 
 

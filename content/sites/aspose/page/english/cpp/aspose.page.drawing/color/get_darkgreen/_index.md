@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_darkgreen/
 Gets a system-defined color that has an ARGB value of #FF006400.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_DarkGreen()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_DarkGreen()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_sandybrown/
 Gets a system-defined color that has an ARGB value of #FFF4A460.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_SandyBrown()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_SandyBrown()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_deepskyblue/
 Gets a system-defined color that has an ARGB value of #FF00BFFF.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_DeepSkyBlue()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_DeepSkyBlue()
 ```
 
 

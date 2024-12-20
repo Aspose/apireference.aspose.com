@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_peachpuff/
 Gets a system-defined color that has an ARGB value of #FFFFDAB9.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_PeachPuff()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_PeachPuff()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightyellow/
 Gets a system-defined color that has an ARGB value of #FFFFFFE0.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightYellow()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightYellow()
 ```
 
 

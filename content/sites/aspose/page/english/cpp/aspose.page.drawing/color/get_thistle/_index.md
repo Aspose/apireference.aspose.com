@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_thistle/
 Gets a system-defined color that has an ARGB value of #FFD8BFD8.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Thistle()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Thistle()
 ```
 
 

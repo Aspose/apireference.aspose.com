@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_moccasin/
 Gets a system-defined color that has an ARGB value of #FFFFE4B5.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Moccasin()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Moccasin()
 ```
 
 

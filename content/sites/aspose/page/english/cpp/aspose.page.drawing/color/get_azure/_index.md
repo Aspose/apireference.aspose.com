@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_azure/
 Gets a system-defined color that has an ARGB value of #FFF0FFFF.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Azure()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Azure()
 ```
 
 

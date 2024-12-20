@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_paleturquoise/
 Gets a system-defined color that has an ARGB value of #FFAFEEEE.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_PaleTurquoise()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_PaleTurquoise()
 ```
 
 

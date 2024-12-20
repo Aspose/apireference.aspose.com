@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightskyblue/
 Gets a system-defined color that has an ARGB value of #FF87CEFA.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightSkyBlue()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightSkyBlue()
 ```
 
 

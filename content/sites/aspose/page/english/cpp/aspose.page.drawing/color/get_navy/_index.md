@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_navy/
 Gets a system-defined color that has an ARGB value of #FF000080.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Navy()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Navy()
 ```
 
 

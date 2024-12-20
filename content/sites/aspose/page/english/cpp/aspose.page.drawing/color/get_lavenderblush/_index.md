@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lavenderblush/
 Gets a system-defined color that has an ARGB value of #FFFFF0F5.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LavenderBlush()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LavenderBlush()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_maroon/
 Gets a system-defined color that has an ARGB value of #FF800000.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Maroon()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Maroon()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_aliceblue/
 Gets a system-defined color that has an ARGB value of #FFF0F8FF.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_AliceBlue()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_AliceBlue()
 ```
 
 

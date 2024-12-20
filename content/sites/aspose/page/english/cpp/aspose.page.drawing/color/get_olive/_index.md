@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_olive/
 Gets a system-defined color that has an ARGB value of #FF808000.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Olive()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Olive()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_mistyrose/
 Gets a system-defined color that has an ARGB value of #FFFFE4E1.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_MistyRose()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_MistyRose()
 ```
 
 

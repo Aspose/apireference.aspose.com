@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_darksalmon/
 Gets a system-defined color that has an ARGB value of #FFE9967A.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_DarkSalmon()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_DarkSalmon()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_linen/
 Gets a system-defined color that has an ARGB value of #FFFAF0E6.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Linen()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Linen()
 ```
 
 

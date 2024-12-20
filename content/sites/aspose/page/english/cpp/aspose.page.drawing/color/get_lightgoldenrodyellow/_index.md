@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightgoldenrodyellow/
 Gets a system-defined color that has an ARGB value of #FFFAFAD2.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightGoldenrodYellow()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightGoldenrodYellow()
 ```
 
 

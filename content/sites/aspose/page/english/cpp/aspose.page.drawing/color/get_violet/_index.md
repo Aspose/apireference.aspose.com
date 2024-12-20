@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_violet/
 Gets a system-defined color that has an ARGB value of #FFEE82EE.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Violet()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Violet()
 ```
 
 

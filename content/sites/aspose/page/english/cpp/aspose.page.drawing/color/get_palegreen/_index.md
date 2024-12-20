@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_palegreen/
 Gets a system-defined color that has an ARGB value of #FF98FB98.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_PaleGreen()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_PaleGreen()
 ```
 
 

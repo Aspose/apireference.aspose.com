@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightslategray/
 Gets a system-defined color that has an ARGB value of #FF778899.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightSlateGray()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightSlateGray()
 ```
 
 
