@@ -4,7 +4,7 @@ linktitle: XpsFileResource
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsFileResource class. Class incapsulating common features of all file resources in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class

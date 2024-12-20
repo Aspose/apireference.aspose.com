@@ -4,7 +4,7 @@ linktitle: PageICMRenderingIntent
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageICMRenderingIntent class. Describes the rendering intent as defined by the ICC v2 Specification. This value should be ignored if an image or graphical element has an embedded profile that specifies the Rendering intent.  in C++.'
 type: docs
-weight: 9900
+weight: 9800
 url: /cpp/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

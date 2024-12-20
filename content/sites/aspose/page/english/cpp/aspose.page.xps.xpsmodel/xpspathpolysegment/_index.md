@@ -4,7 +4,7 @@ linktitle: XpsPathPolySegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathPolySegment class. Class incapsulating common features of PolyLineSegment, PolyBézierSegment and PolyQuadraticBézierSegment elements in C++.'
 type: docs
-weight: 3400
+weight: 3300
 url: /cpp/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class

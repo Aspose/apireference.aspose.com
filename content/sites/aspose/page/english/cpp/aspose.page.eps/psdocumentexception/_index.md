@@ -4,7 +4,7 @@ linktitle: PsDocumentException
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::EPS::PsDocumentException typedef in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/aspose.page.eps/psdocumentexception/
 ---
 ## PsDocumentException typedef

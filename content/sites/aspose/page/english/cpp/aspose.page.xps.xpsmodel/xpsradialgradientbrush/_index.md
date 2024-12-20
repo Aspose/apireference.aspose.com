@@ -4,7 +4,7 @@ linktitle: XpsRadialGradientBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsRadialGradientBrush class. Class incapsulating RadialGradientBrush property element features. This element is used to specify a radial gradient brush in C++.'
 type: docs
-weight: 4000
+weight: 3900
 url: /cpp/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

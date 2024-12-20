@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_tomato/
 Gets a system-defined color that has an ARGB value of #FFFF6347.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Tomato()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Tomato()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: XpsContentElement
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsContentElement class. Incapsulates features of XPS content elements: Canvas, Path and Glyphs in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class

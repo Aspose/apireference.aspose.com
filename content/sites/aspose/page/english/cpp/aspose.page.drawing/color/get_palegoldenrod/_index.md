@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_palegoldenrod/
 Gets a system-defined color that has an ARGB value of #FFEEE8AA.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_PaleGoldenrod()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_PaleGoldenrod()
 ```
 
 

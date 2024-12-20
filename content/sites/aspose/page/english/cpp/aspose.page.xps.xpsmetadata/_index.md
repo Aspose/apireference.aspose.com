@@ -2,13 +2,13 @@
 title: Aspose::Page::XPS::XpsMetadata namespace
 linktitle: Aspose::Page::XPS::XpsMetadata
 second_title: Aspose.Page for C++
-description: 'How to use Aspose::Page::XPS::XpsMetadata namespace in C++.'
+description: 'Aspose::Page::XPS::XpsMetadata namespace. The Aspose.Page.Xps.XpsMetadata namespace provides classes that describe metadata of XPS document in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.page.xps.xpsmetadata/
 ---
 
-
+The **Aspose.Page.Xps.XpsMetadata** namespace provides classes that describe metadata of [XPS](../aspose.page.xps/) document.
 
 ## Classes
 
@@ -88,7 +88,6 @@ url: /cpp/aspose.page.xps.xpsmetadata/
 | [JobStapleAllDocuments](./jobstaplealldocuments/) | Describes the stapling characteristics of the output. All documents in the job are stapled together. The [JobStapleAllDocuments](./jobstaplealldocuments/) and [DocumentStaple](./documentstaple/) keywords are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. [https://docs.microsoft.com/en-us/windows/win32/printdocs/jobstaplealldocuments](https://docs.microsoft.com/en-us/windows/win32/printdocs/jobstaplealldocuments). |
 | [JobURI](./joburi/) | Specifies a uniform resource identifier (URI) for the document. [https://docs.microsoft.com/en-us/windows/win32/printdocs/joburi](https://docs.microsoft.com/en-us/windows/win32/printdocs/joburi). |
 | [NameProperty](./nameproperty/) | The base class for [JobName](./jobname/) and [DocumentName](./documentname/) properties classes. |
-| [NamespaceDoc](./namespacedoc/) | The **Aspose.Page.Xps.XpsMetadata** namespace provides classes that describe metadata of [XPS](../aspose.page.xps/) document. |
 | [NUp](./nup/) | The base class for [JobNUpAllDocumentsContiguously](./jobnupalldocumentscontiguously/) and [DocumentNUp](./documentnup/) features classes. |
 | [Option](./option/) | The class that implements a common [PrintTicket](./printticket/)**[Option](./option/)**. The base class for all schema-defined options. An [Option](./option/) element contains all of the [Property](./property/) and [ScoredProperty](./scoredproperty/) elements associated with this option. [https://docs.microsoft.com/en-us/windows/win32/printdocs/option](https://docs.microsoft.com/en-us/windows/win32/printdocs/option). |
 | [OutputBin](./outputbin/) | The base class for [JobOutputBin](./joboutputbin/), [DocumentOutputBin](./documentoutputbin/) and [PageOutputBin](./pageoutputbin/) features classes. |

@@ -4,7 +4,7 @@ linktitle: PageDestinationColorProfileEmbedded
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageDestinationColorProfileEmbedded class. Specifies the embedded destination color profile.  in C++.'
 type: docs
-weight: 9300
+weight: 9200
 url: /cpp/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/
 ---
 ## PageDestinationColorProfileEmbedded class

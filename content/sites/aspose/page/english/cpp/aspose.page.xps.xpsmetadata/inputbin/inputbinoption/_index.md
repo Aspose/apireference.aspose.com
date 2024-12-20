@@ -28,8 +28,8 @@ class InputBinOption : public Aspose::Page::XPS::XpsMetadata::Option,
 
 | Field | Description |
 | --- | --- |
-| static [AutoSelect](./autoselect/) | [Device](../../../aspose.page/device/) will automatically choose best option based on configuration. |
-| static [AutoSheetFeeder](./autosheetfeeder/) | [Device](../../../aspose.page/device/) Input tray for Inkjet Printers. |
+| static [AutoSelect](./autoselect/) | Device will automatically choose best option based on configuration. |
+| static [AutoSheetFeeder](./autosheetfeeder/) | Device Input tray for Inkjet Printers. |
 | static [Cassette](./cassette/) | Specifies the feed bin is a cassette. |
 | static [Manual](./manual/) | Specifies the default manual feed bin. |
 | static [Tractor](./tractor/) | Specifies the feed bin is a tractor. |

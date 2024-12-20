@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_tan/
 Gets a system-defined color that has an ARGB value of #FFD2B48C.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Tan()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Tan()
 ```
 
 

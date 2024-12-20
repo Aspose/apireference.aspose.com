@@ -4,7 +4,7 @@ linktitle: XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPolyQuadraticBezierSegment class. Class incapsulating PolyQuadraticBezierSegment element features. This element describes a set of quadratic Bézier curves from the previous point in the path figure through a set of vertices, using specified control points in C++.'
 type: docs
-weight: 3800
+weight: 3700
 url: /cpp/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

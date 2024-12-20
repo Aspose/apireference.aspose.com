@@ -4,7 +4,7 @@ linktitle: PageOutputColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageOutputColor class. Describes the characteristics of the color settings for the output.  in C++.'
 type: docs
-weight: 11600
+weight: 11500
 url: /cpp/aspose.page.xps.xpsmetadata/pageoutputcolor/
 ---
 ## PageOutputColor class

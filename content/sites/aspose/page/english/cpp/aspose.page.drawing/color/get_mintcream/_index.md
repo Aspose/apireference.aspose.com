@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_mintcream/
 Gets a system-defined color that has an ARGB value of #FFF5FFFA.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_MintCream()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_MintCream()
 ```
 
 

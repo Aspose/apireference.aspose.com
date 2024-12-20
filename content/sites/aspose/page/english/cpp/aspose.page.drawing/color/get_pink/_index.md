@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_pink/
 Gets a system-defined color that has an ARGB value of #FFFFC0CB.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Pink()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Pink()
 ```
 
 

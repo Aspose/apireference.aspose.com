@@ -4,7 +4,7 @@ linktitle: XmpFieldType
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::XMP::XmpFieldType enum. This enum represents types of a XMP field in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.page.eps.xmp/xmpfieldtype/
 ---
 ## XmpFieldType enum

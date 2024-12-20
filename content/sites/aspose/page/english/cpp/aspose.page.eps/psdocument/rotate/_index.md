@@ -4,7 +4,7 @@ linktitle: Rotate
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::Rotate method. Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix) in C++.'
 type: docs
-weight: 4000
+weight: 3900
 url: /cpp/aspose.page.eps/psdocument/rotate/
 ---
 ## PsDocument::Rotate(float) method

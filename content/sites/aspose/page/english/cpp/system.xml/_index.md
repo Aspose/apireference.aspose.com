@@ -4,7 +4,7 @@ linktitle: System::Xml
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml namespace in C++.'
 type: docs
-weight: 7400
+weight: 7300
 url: /cpp/system.xml/
 ---
 

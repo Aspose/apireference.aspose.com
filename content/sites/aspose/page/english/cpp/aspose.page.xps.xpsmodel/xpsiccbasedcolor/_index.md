@@ -4,7 +4,7 @@ linktitle: XpsIccBasedColor
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsIccBasedColor class. Incapsulates ICC based color in C++.'
 type: docs
-weight: 2200
+weight: 2100
 url: /cpp/aspose.page.xps.xpsmodel/xpsiccbasedcolor/
 ---
 ## XpsIccBasedColor class

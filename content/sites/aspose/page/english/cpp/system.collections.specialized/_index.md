@@ -4,7 +4,7 @@ linktitle: System::Collections::Specialized
 second_title: Aspose.Page for C++
 description: 'How to use System::Collections::Specialized namespace in C++.'
 type: docs
-weight: 2700
+weight: 2600
 url: /cpp/system.collections.specialized/
 ---
 

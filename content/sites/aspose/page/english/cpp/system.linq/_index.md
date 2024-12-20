@@ -4,7 +4,7 @@ linktitle: System::Linq
 second_title: Aspose.Page for C++
 description: 'How to use System::Linq namespace in C++.'
 type: docs
-weight: 4200
+weight: 4100
 url: /cpp/system.linq/
 ---
 
@@ -16,3 +16,4 @@ url: /cpp/system.linq/
 | --- | --- |
 | [Enumerable](./enumerable/) | Provides static LINQ methods. |
 | [IGrouping](./igrouping/) |  |
+| [IOrderedEnumerable](./iorderedenumerable/) | Represents a sorted sequence. |

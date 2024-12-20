@@ -4,7 +4,7 @@ linktitle: XpsPolyBezierSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPolyBezierSegment class. Class incapsulating PolyBezierSegment element features. This element describes a set of cubic Bézier curves in C++.'
 type: docs
-weight: 3600
+weight: 3500
 url: /cpp/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

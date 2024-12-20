@@ -4,7 +4,7 @@ linktitle: PageScaling
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageScaling class. Describes the scaling characteristics of the output.  in C++.'
 type: docs
-weight: 12200
+weight: 12100
 url: /cpp/aspose.page.xps.xpsmetadata/pagescaling/
 ---
 ## PageScaling class

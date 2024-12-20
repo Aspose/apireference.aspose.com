@@ -10,7 +10,7 @@ url: /cpp/aspose.page/externalfontcache/
 ## ExternalFontCache class
 
 
-Use this class to obtain font encapsulation in a form that is accepted by [Device](../device/).
+Use this class to obtain font encapsulation in a form that is accepted by [Device](../).
 
 ```cpp
 class ExternalFontCache : public System::Object

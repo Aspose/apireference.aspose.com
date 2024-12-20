@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lavender/
 Gets a system-defined color that has an ARGB value of #FFE6E6FA.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Lavender()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Lavender()
 ```
 
 

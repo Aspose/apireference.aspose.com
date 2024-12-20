@@ -4,7 +4,7 @@ linktitle: PageMediaType
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaType class. Describes the MediaType options and the characteristics of each option.  in C++.'
 type: docs
-weight: 11100
+weight: 11000
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediatype/
 ---
 ## PageMediaType class

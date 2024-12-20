@@ -2,13 +2,13 @@
 title: Aspose::Page::EPS::Device namespace
 linktitle: Aspose::Page::EPS::Device
 second_title: Aspose.Page for C++
-description: 'How to use Aspose::Page::EPS::Device namespace in C++.'
+description: 'Aspose::Page::EPS::Device namespace. The Aspose.Page.EPS.Device namespace provides classes of possible devices and save options that can be used while converting PS/EPS to other formats in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.page.eps.device/
 ---
 
-
+The **[Aspose.Page.EPS.Device](./)** namespace provides classes of possible devices and save options that can be used while converting PS/EPS to other formats.
 
 ## Classes
 

@@ -4,7 +4,7 @@ linktitle: FontConstants
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::FontConstants class. This class defines a set of constants for saving fonts in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.eps/fontconstants/
 ---
 ## FontConstants class

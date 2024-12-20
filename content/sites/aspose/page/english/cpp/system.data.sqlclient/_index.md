@@ -4,7 +4,7 @@ linktitle: System::Data::SqlClient
 second_title: Aspose.Page for C++
 description: 'How to use System::Data::SqlClient namespace in C++.'
 type: docs
-weight: 3200
+weight: 3100
 url: /cpp/system.data.sqlclient/
 ---
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_royalblue/
 Gets a system-defined color that has an ARGB value of #FF4169E1.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_RoyalBlue()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_RoyalBlue()
 ```
 
 

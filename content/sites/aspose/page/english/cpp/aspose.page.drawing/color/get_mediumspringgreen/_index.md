@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_mediumspringgreen/
 Gets a system-defined color that has an ARGB value of #FF00FA9A.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_MediumSpringGreen()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_MediumSpringGreen()
 ```
 
 

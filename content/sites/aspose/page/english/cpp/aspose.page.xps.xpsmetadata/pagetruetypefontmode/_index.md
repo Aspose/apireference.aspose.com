@@ -4,7 +4,7 @@ linktitle: PageTrueTypeFontMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageTrueTypeFontMode class. Describes the method of TrueType font handling to be used.  in C++.'
 type: docs
-weight: 13100
+weight: 13000
 url: /cpp/aspose.page.xps.xpsmetadata/pagetruetypefontmode/
 ---
 ## PageTrueTypeFontMode class

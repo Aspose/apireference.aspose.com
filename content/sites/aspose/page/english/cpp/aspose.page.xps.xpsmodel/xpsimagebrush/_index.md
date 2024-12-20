@@ -4,7 +4,7 @@ linktitle: XpsImageBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsImageBrush class. Class incapsulating ImageBrush property element features. This element is used to fill a region with an image in C++.'
 type: docs
-weight: 2500
+weight: 2400
 url: /cpp/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

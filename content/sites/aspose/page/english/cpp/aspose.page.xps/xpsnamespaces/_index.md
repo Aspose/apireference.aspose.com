@@ -4,7 +4,7 @@ linktitle: XpsNamespaces
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsNamespaces class. Class contains the namespaces used in XPS packages and XPS Documents in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.page.xps/xpsnamespaces/
 ---
 ## XpsNamespaces class

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_indianred/
 Gets a system-defined color that has an ARGB value of #FFCD5C5C.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_IndianRed()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_IndianRed()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: PageImageableSize
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageImageableSize class. Describes the imaged canvas for layout and rendering. This will be reported based on PageMediaSize and PageOrientation.  in C++.'
 type: docs
-weight: 10000
+weight: 9900
 url: /cpp/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

@@ -4,7 +4,7 @@ linktitle: XpsPackageWideContentTypes
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsPackageWideContentTypes class. Class contains the list of Package-wide content types in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.page.xps/xpspackagewidecontenttypes/
 ---
 ## XpsPackageWideContentTypes class

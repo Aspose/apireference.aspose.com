@@ -4,7 +4,7 @@ linktitle: TextRenderingMode
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::TextRenderingMode enum. This enum contains possible values for text rendering mode in C++.'
 type: docs
-weight: 2100
+weight: 2000
 url: /cpp/aspose.page/textrenderingmode/
 ---
 ## TextRenderingMode enum

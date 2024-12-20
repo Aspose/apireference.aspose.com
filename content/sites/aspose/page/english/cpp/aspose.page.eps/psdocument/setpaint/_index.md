@@ -4,7 +4,7 @@ linktitle: SetPaint
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsDocument::SetPaint method. Sets paint in current graphics state in C++.'
 type: docs
-weight: 4800
+weight: 4700
 url: /cpp/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument::SetPaint method

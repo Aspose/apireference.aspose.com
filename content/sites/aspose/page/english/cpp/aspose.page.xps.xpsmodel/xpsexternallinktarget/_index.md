@@ -4,7 +4,7 @@ linktitle: XpsExternalLinkTarget
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsExternalLinkTarget class. Class incapsulating the external hyperlink target in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class

@@ -4,7 +4,7 @@ linktitle: IsSubclassOf
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::IsSubclassOf method. Determines whether the type represented by the current object is a subclass of the specified class in C++.'
 type: docs
-weight: 4300
+weight: 4600
 url: /cpp/system/typeinfo/issubclassof/
 ---
 ## TypeInfo::IsSubclassOf method

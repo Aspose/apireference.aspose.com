@@ -4,7 +4,7 @@ linktitle: KVPairIterator
 second_title: Aspose.Page for C++
 description: 'System::Collections::Generic::KVPairIterator class. Adapting iterator, wraps std::pair into KVPair expected from Dictionary in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/system.collections.generic/kvpairiterator/
 ---
 ## KVPairIterator class

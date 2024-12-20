@@ -4,7 +4,7 @@ linktitle: XpsPolyLineSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPolyLineSegment class. Class incapsulating PolyLineSegment element features. This element describes a polygonal drawing containing an arbitrary number of individual vertices in C++.'
 type: docs
-weight: 3700
+weight: 3600
 url: /cpp/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

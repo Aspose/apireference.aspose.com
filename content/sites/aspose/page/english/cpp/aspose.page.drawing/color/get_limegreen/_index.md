@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_limegreen/
 Gets a system-defined color that has an ARGB value of #FF32CD32.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LimeGreen()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LimeGreen()
 ```
 
 

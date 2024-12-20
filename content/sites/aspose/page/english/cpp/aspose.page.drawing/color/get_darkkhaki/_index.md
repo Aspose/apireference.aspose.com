@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_darkkhaki/
 Gets a system-defined color that has an ARGB value of #FFBDB76B.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_DarkKhaki()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_DarkKhaki()
 ```
 
 

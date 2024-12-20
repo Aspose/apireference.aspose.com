@@ -4,7 +4,7 @@ linktitle: BoxedValue
 second_title: Aspose.Page for C++
 description: 'System::TypeInfo::BoxedValue struct. TypeInfo structure for BoxedValue class in C++.'
 type: docs
-weight: 5300
+weight: 5700
 url: /cpp/system/typeinfo/boxedvalue/
 ---
 ## BoxedValue struct

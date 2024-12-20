@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_palevioletred/
 Gets a system-defined color that has an ARGB value of #FFDB7093.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_PaleVioletRed()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_PaleVioletRed()
 ```
 
 

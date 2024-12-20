@@ -4,7 +4,7 @@ linktitle: ParameterInit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::ParameterInit class. The class that implements a common PrintTicket parameter initializer. The base class for all schema-defined parameter initializers. Defines a value for an instance of a ParameterDef element. A ParameterInit element is the target of the reference made by a ParameterRef element.  in C++.'
 type: docs
-weight: 14000
+weight: 13900
 url: /cpp/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

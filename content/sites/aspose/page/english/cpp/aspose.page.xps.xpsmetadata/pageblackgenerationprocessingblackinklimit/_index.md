@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingBlackInkLimit
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingBlackInkLimit class. Application content labeled with the specified named color MUST appear on all color separations.  in C++.'
 type: docs
-weight: 8000
+weight: 7900
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

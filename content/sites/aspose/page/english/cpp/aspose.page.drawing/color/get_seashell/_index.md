@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_seashell/
 Gets a system-defined color that has an ARGB value of #FFFFF5EE.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_SeaShell()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_SeaShell()
 ```
 
 

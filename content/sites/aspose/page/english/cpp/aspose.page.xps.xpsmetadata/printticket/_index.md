@@ -4,7 +4,7 @@ linktitle: PrintTicket
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PrintTicket class. The class that implements a common PrintTicket of any scope. The base class for job-, document- and page-level print tickets. A PrintTicket element is the root element of the PrintTicket document. A PrintTicket element contains all job formatting information required to output a job.  in C++.'
 type: docs
-weight: 14200
+weight: 14100
 url: /cpp/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

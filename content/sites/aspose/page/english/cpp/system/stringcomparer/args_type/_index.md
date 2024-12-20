@@ -13,7 +13,7 @@ url: /cpp/system/stringcomparer/args_type/
 RTTI information.
 
 ```cpp
-const String& System::StringComparer::args_type
+String System::StringComparer::args_type
 ```
 
 ## Remarks

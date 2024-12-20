@@ -4,7 +4,7 @@ linktitle: PageMirrorImage
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMirrorImage class. Describes the mirroring setting of the output.  in C++.'
 type: docs
-weight: 11200
+weight: 11100
 url: /cpp/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

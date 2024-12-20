@@ -4,7 +4,7 @@ linktitle: PageSourceColorProfileURI
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageSourceColorProfileURI class. Specifies the source for color profile in C++.'
 type: docs
-weight: 13000
+weight: 12900
 url: /cpp/aspose.page.xps.xpsmetadata/pagesourcecolorprofileuri/
 ---
 ## PageSourceColorProfileURI class

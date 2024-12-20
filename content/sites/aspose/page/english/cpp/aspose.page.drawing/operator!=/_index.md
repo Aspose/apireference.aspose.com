@@ -4,16 +4,16 @@ linktitle: operator!=
 second_title: Aspose.Page for C++
 description: 'How to use operator!= method of  class in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page.drawing/operator!=/
 ---
-## Aspose::Page::Drawing::operator!=(const Color\&, const Color\&) method
+## Aspose::Page::Drawing::operator!=(const Aspose::Page::Drawing::Color\&, const Aspose::Page::Drawing::Color\&) method
 
 
 
 
 ```cpp
-bool Aspose::Page::Drawing::operator!=(const Color &left, const Color &right)
+bool Aspose::Page::Drawing::operator!=(const Aspose::Page::Drawing::Color &left, const Aspose::Page::Drawing::Color &right)
 ```
 
 ## See Also
@@ -21,13 +21,13 @@ bool Aspose::Page::Drawing::operator!=(const Color &left, const Color &right)
 * Class [Color](../color/)
 * Namespace [Aspose::Page::Drawing](../)
 * Library [Aspose.Page for C++](../../)
-## Aspose::Page::Drawing::operator!=(const Size\&, const Size\&) method
+## Aspose::Page::Drawing::operator!=(const Aspose::Page::Drawing::Size\&, const Aspose::Page::Drawing::Size\&) method
 
 
 
 
 ```cpp
-bool Aspose::Page::Drawing::operator!=(const Size &sz1, const Size &sz2)
+bool Aspose::Page::Drawing::operator!=(const Aspose::Page::Drawing::Size &sz1, const Aspose::Page::Drawing::Size &sz2)
 ```
 
 ## See Also

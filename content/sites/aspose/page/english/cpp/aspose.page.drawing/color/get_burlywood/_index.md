@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_burlywood/
 Gets a system-defined color that has an ARGB value of #FFDEB887.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_BurlyWood()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_BurlyWood()
 ```
 
 

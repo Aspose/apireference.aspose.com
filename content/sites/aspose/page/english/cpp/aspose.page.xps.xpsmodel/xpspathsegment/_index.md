@@ -4,7 +4,7 @@ linktitle: XpsPathSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathSegment class. Class incapsulating common features of all path segment elements in C++.'
 type: docs
-weight: 3500
+weight: 3400
 url: /cpp/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

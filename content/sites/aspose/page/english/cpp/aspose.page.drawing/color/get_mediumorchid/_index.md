@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_mediumorchid/
 Gets a system-defined color that has an ARGB value of #FFBA55D3.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_MediumOrchid()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_MediumOrchid()
 ```
 
 

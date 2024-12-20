@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_gainsboro/
 Gets a system-defined color that has an ARGB value of #FFDCDCDC.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Gainsboro()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Gainsboro()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: URIProperty
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::URIProperty class. The base class for JobURI and DocumentURI properties classes in C++.'
 type: docs
-weight: 15200
+weight: 15100
 url: /cpp/aspose.page.xps.xpsmetadata/uriproperty/
 ---
 ## URIProperty class

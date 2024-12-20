@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_transparent/
 Gets a system-defined color.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Transparent()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Transparent()
 ```
 
 

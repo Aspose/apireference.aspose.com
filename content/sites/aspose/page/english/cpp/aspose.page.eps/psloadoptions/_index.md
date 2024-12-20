@@ -4,7 +4,7 @@ linktitle: PsLoadOptions
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EPS::PsLoadOptions class. PS document loading options in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.page.eps/psloadoptions/
 ---
 ## PsLoadOptions class

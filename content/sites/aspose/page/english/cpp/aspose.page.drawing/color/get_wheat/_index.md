@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_wheat/
 Gets a system-defined color that has an ARGB value of #FFF5DEB3.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Wheat()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Wheat()
 ```
 
 

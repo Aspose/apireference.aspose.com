@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightpink/
 Gets a system-defined color that has an ARGB value of #FFFFB6C1.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightPink()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightPink()
 ```
 
 

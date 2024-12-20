@@ -4,7 +4,7 @@ linktitle: EditionType
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::EditionType enum. Specifies the edition type of the license in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.page/editiontype/
 ---
 ## EditionType enum

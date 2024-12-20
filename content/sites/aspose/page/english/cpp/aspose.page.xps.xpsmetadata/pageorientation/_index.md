@@ -4,7 +4,7 @@ linktitle: PageOrientation
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageOrientation class. Describes the orientation of the physical media sheet.  in C++.'
 type: docs
-weight: 11400
+weight: 11300
 url: /cpp/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

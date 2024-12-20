@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_turquoise/
 Gets a system-defined color that has an ARGB value of #FF40E0D0.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Turquoise()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Turquoise()
 ```
 
 

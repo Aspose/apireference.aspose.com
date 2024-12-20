@@ -4,7 +4,7 @@ linktitle: XpsArray
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArray class. Class incapsulating common XPS model array object features in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.page.xps.xpsmodel/xpsarray/
 ---
 ## XpsArray class

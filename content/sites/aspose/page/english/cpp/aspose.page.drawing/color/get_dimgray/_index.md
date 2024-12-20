@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_dimgray/
 Gets a system-defined color that has an ARGB value of #FF696969.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_DimGray()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_DimGray()
 ```
 
 

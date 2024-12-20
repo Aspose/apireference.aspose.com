@@ -4,7 +4,7 @@ linktitle: RollCut
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::RollCut class. The base class for JobRollCutAtEndOfJob and DocumentRollCut features classes in C++.'
 type: docs
-weight: 14600
+weight: 14500
 url: /cpp/aspose.page.xps.xpsmetadata/rollcut/
 ---
 ## RollCut class

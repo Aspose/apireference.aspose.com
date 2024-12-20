@@ -4,7 +4,7 @@ linktitle: XpsPathGeometry
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsPathGeometry class. Class incapsulating PathGeometry property element features. This element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element in C++.'
 type: docs
-weight: 3300
+weight: 3200
 url: /cpp/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class

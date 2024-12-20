@@ -4,7 +4,7 @@ linktitle: Value
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::Value class. The base class that incapsulates a Property or a ScoredProperty value in a PrintTicket document. A Value element associates a literal with a type.  in C++.'
 type: docs
-weight: 15300
+weight: 15200
 url: /cpp/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

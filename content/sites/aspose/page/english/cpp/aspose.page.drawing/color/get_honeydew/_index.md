@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_honeydew/
 Gets a system-defined color that has an ARGB value of #FFF0FFF0.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Honeydew()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Honeydew()
 ```
 
 

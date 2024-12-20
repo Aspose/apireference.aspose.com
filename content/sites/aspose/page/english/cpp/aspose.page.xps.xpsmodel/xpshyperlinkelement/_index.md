@@ -4,7 +4,7 @@ linktitle: XpsHyperlinkElement
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsHyperlinkElement class. Incapsulates common features of XPS elements that can be a hyperlink in C++.'
 type: docs
-weight: 2000
+weight: 1900
 url: /cpp/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

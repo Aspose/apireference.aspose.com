@@ -4,7 +4,7 @@ linktitle: System::Xml::Resolvers
 second_title: Aspose.Page for C++
 description: 'How to use System::Xml::Resolvers namespace in C++.'
 type: docs
-weight: 7500
+weight: 7400
 url: /cpp/system.xml.resolvers/
 ---
 

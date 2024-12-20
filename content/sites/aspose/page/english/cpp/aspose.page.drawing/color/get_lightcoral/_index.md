@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_lightcoral/
 Gets a system-defined color that has an ARGB value of #FFF08080.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_LightCoral()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_LightCoral()
 ```
 
 

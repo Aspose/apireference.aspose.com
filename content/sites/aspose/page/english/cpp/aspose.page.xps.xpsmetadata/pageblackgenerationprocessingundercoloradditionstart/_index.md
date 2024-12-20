@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingUnderColorAdditionStart
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingUnderColorAdditionStart class. Describes the shadow level below which UCA will be applied.  in C++.'
 type: docs
-weight: 8600
+weight: 8500
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionstart/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionStart class

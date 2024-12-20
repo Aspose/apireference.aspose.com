@@ -4,7 +4,7 @@ linktitle: XpsLinearGradientBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsLinearGradientBrush class. Class incapsulating LinearGradientBrush property element features. This element is used to specify a linear gradient brush along a vector in C++.'
 type: docs
-weight: 2600
+weight: 2500
 url: /cpp/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

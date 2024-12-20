@@ -4,7 +4,7 @@ linktitle: XpsDocumentRelationshipTypes
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocumentRelationshipTypes class. Class contains the list of XPSDocument relationship types in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.page.xps/xpsdocumentrelationshiptypes/
 ---
 ## XpsDocumentRelationshipTypes class

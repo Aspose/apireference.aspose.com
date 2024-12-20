@@ -10,7 +10,7 @@ url: /cpp/aspose.page.xps/xpsdocument/mergetopdf/
 ## XpsDocument::MergeToPdf(System::ArrayPtr\<System::String\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) method
 
 
-Merging [XPS](../../) documents to PDF using the [Device](../../../aspose.page/device/) instance.
+Merging [XPS](../../) documents to PDF using the [Device](../) instance.
 
 ```cpp
 void Aspose::Page::XPS::XpsDocument::MergeToPdf(System::ArrayPtr<System::String> filesForMerge, System::SharedPtr<System::IO::Stream> pdfStream, System::SharedPtr<Presentation::Pdf::PdfSaveOptions> options)
@@ -36,7 +36,7 @@ void Aspose::Page::XPS::XpsDocument::MergeToPdf(System::ArrayPtr<System::String>
 ## XpsDocument::MergeToPdf(System::ArrayPtr\<System::String\>, System::String, System::SharedPtr\<Presentation::Pdf::PdfSaveOptions\>) method
 
 
-Merging [XPS](../../) documents to PDF using the [Device](../../../aspose.page/device/) instance.
+Merging [XPS](../../) documents to PDF using the [Device](../) instance.
 
 ```cpp
 void Aspose::Page::XPS::XpsDocument::MergeToPdf(System::ArrayPtr<System::String> filesForMerge, System::String outPdfFilePath, System::SharedPtr<Presentation::Pdf::PdfSaveOptions> options)

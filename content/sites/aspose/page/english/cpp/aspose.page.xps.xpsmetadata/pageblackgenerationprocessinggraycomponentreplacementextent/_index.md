@@ -4,7 +4,7 @@ linktitle: PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageBlackGenerationProcessingGrayComponentReplacementExtent class. Describes the extented beyond neutrals (into chromatic colors) that GCR applies. 0% = Uniform component replacement, 100% = Gray component replacement.  in C++.'
 type: docs
-weight: 8100
+weight: 8000
 url: /cpp/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

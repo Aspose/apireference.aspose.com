@@ -2,20 +2,19 @@
 title: Aspose::Page::XPS::XpsModel namespace
 linktitle: Aspose::Page::XPS::XpsModel
 second_title: Aspose.Page for C++
-description: 'How to use Aspose::Page::XPS::XpsModel namespace in C++.'
+description: 'Aspose::Page::XPS::XpsModel namespace. The Aspose.Page.Xps.XpsModel namespace provides classes that describe elements of XPS document in C++.'
 type: docs
-weight: 2000
+weight: 1900
 url: /cpp/aspose.page.xps.xpsmodel/
 ---
 
-
+The **Aspose.Page.Xps.XpsModel** namespace provides classes that describe elements of [XPS](../aspose.page.xps/) document.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
 | [ITransformableProperty](./itransformableproperty/) |  |
-| [NamespaceDoc](./namespacedoc/) | The **Aspose.Page.Xps.XpsModel** namespace provides classes that describe elements of [XPS](../aspose.page.xps/) document. |
 | [XpsArcSegment](./xpsarcsegment/) | Class incapsulating ArcSegment element features. This element describes an elliptical arc. |
 | [XpsArray](./xpsarray/) | Class incapsulating common [XPS](../aspose.page.xps/) model array object features. |
 | [XpsBrush](./xpsbrush/) | Class incapsulating common features of all brush elements. |

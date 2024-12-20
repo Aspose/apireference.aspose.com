@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_chartreuse/
 Gets a system-defined color that has an ARGB value of #FF7FFF00.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Chartreuse()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Chartreuse()
 ```
 
 

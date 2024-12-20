@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.Page for C++
 description: 'How to use operator== method of  class in C++.'
 type: docs
-weight: 5800
+weight: 5700
 url: /cpp/aspose.page.xps.xpsmodel/operator==/
 ---
 ## Aspose::Page::XPS::XpsModel::operator== method

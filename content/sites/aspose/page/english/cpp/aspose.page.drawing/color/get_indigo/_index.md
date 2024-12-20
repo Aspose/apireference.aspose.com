@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_indigo/
 Gets a system-defined color that has an ARGB value of #FF4B0082.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Indigo()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Indigo()
 ```
 
 

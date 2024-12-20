@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_papayawhip/
 Gets a system-defined color that has an ARGB value of #FFFFEFD5.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_PapayaWhip()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_PapayaWhip()
 ```
 
 

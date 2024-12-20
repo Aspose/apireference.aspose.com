@@ -4,7 +4,7 @@ linktitle: PageForceFrontSide
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageForceFrontSide class. Forces the output to appear on the front of a media sheet. Relevant to media sheets with different surfaces on each side. In cases where this feature interferes with processing options (such as DocumentDuplex), PageForceFrontSide takes precedence for the specific page to which the feature applies in C++.'
 type: docs
-weight: 9800
+weight: 9700
 url: /cpp/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

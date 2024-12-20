@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_mediumpurple/
 Gets a system-defined color that has an ARGB value of #FF9370DB.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_MediumPurple()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_MediumPurple()
 ```
 
 

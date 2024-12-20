@@ -4,7 +4,7 @@ linktitle: PageOutputBin
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageOutputBin class. Describes the full list of supported bins for the device. Allows specification of output bin on a per page basis. The JobOutputBin, DocumentOutputBin and PageOutputBin keywords are mutually exclusive only one should be specified in a PrintTicket or Print Capabilities document.  in C++.'
 type: docs
-weight: 11500
+weight: 11400
 url: /cpp/aspose.page.xps.xpsmetadata/pageoutputbin/
 ---
 ## PageOutputBin class

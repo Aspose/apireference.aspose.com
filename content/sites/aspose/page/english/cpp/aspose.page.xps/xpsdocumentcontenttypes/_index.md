@@ -4,7 +4,7 @@ linktitle: XpsDocumentContentTypes
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsDocumentContentTypes class. Class contains the list of XPSDocument content types in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.page.xps/xpsdocumentcontenttypes/
 ---
 ## XpsDocumentContentTypes class

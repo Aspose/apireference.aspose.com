@@ -4,7 +4,7 @@ linktitle: XpsGlyphsClusterMap
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::XpsModel::XpsGlyphsClusterMap class in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphsclustermap/
 ---
 ## XpsGlyphsClusterMap class

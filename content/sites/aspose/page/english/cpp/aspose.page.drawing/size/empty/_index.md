@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/size/empty/
 Gets a [T:Aspose::Page::Drawing::Size](../) structure that has a [P:Aspose::Page::Drawing::Size::Height](../) and [P:Aspose::Page::Drawing::Size::Width](../) value of 0.
 
 ```cpp
-static Size Aspose::Page::Drawing::Size::Empty
+static Aspose::Page::Drawing::Size Aspose::Page::Drawing::Size::Empty
 ```
 
 

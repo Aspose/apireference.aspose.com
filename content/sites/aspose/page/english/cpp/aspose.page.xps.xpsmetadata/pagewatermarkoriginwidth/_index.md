@@ -4,7 +4,7 @@ linktitle: PageWatermarkOriginWidth
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageWatermarkOriginWidth class. Specifies the origin of a watermark relative to the origin of the PageImageableSize.  in C++.'
 type: docs
-weight: 13400
+weight: 13300
 url: /cpp/aspose.page.xps.xpsmetadata/pagewatermarkoriginwidth/
 ---
 ## PageWatermarkOriginWidth class

@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_sienna/
 Gets a system-defined color that has an ARGB value of #FFA0522D.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Sienna()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Sienna()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: XpsGradientBrush
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsGradientBrush class. Class incapsulating common features of LinerGradientBrush and RadialGradientBrush elements in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.page.xps.xpsmodel/xpsgradientbrush/
 ---
 ## XpsGradientBrush class

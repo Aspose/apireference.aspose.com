@@ -4,7 +4,7 @@ linktitle: XpsStyleSimulations
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsStyleSimulations enum. Valid values of Glyphs element''s StyleSimulations property in C++.'
 type: docs
-weight: 5400
+weight: 5300
 url: /cpp/aspose.page.xps.xpsmodel/xpsstylesimulations/
 ---
 ## XpsStyleSimulations enum

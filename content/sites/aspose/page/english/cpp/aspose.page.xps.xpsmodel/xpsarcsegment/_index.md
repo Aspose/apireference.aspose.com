@@ -4,7 +4,7 @@ linktitle: XpsArcSegment
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsModel::XpsArcSegment class. Class incapsulating ArcSegment element features. This element describes an elliptical arc in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

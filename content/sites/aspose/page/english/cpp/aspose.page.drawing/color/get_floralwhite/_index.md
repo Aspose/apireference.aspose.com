@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_floralwhite/
 Gets a system-defined color that has an ARGB value of #FFFFFAF0.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_FloralWhite()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_FloralWhite()
 ```
 
 

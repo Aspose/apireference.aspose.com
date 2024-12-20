@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_goldenrod/
 Gets a system-defined color that has an ARGB value of #FFDAA520.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Goldenrod()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Goldenrod()
 ```
 
 

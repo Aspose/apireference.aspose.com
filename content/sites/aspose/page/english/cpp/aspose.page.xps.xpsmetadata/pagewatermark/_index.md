@@ -4,7 +4,7 @@ linktitle: PageWatermark
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageWatermark class. Describes the watermark setting of the output and the watermark characteristics. Watermarks apply to the logical page, not the physical page. For example, if DocumentDuplex is enabled, a watermark will appear on each NUp page on each sheet. If DocumentDuplex, PagesPerSheet=2, then each sheet will have 2 watermarks.  in C++.'
 type: docs
-weight: 13200
+weight: 13100
 url: /cpp/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

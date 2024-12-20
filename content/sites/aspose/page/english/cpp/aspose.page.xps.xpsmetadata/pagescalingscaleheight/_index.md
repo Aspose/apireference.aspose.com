@@ -4,7 +4,7 @@ linktitle: PageScalingScaleHeight
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageScalingScaleHeight class. Specifies the scaling factor in the ImageableSizeHeight direction for custom scaling.  in C++.'
 type: docs
-weight: 12600
+weight: 12500
 url: /cpp/aspose.page.xps.xpsmetadata/pagescalingscaleheight/
 ---
 ## PageScalingScaleHeight class

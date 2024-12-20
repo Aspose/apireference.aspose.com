@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.page.drawing/color/fromargb/
 ---
-## Color::FromArgb(int32_t, Color) method
+## Color::FromArgb(int32_t, Aspose::Page::Drawing::Color) method
 
 
 Creates a [T:Aspose::Page::Drawing::Color](../) structure from the specified [T:Aspose::Page::Drawing::Color](../) structure, but with the new specified alpha value. Although this method allows a 32-bit value to be passed for the alpha value, the value is limited to 8 bits.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::FromArgb(int32_t alpha, Color baseColor)
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::FromArgb(int32_t alpha, Aspose::Page::Drawing::Color baseColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | alpha | int32_t | The alpha value for the new [T:Aspose::Page::Drawing::Color](../). Valid values are 0 through 255. |
-| baseColor | Color | The [T:Aspose::Page::Drawing::Color](../) from which to create the new [T:Aspose::Page::Drawing::Color](../). |
+| baseColor | Aspose::Page::Drawing::Color | The [T:Aspose::Page::Drawing::Color](../) from which to create the new [T:Aspose::Page::Drawing::Color](../). |
 
 ### ReturnValue
 
@@ -38,7 +38,7 @@ The [T:Aspose::Page::Drawing::Color](../) that this method creates.
 Creates a [T:Aspose::Page::Drawing::Color](../) structure from the four ARGB component (alpha, red, green, and blue) values. Although this method allows a 32-bit value to be passed for each component, the value of each component is limited to 8 bits.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::FromArgb(int32_t alpha, int32_t red, int32_t green, int32_t blue)
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::FromArgb(int32_t alpha, int32_t red, int32_t green, int32_t blue)
 ```
 
 
@@ -65,7 +65,7 @@ The [T:Aspose::Page::Drawing::Color](../) that this method creates.
 Creates a [T:Aspose::Page::Drawing::Color](../) structure from a 32-bit ARGB value.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::FromArgb(int32_t argb)
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::FromArgb(int32_t argb)
 ```
 
 
@@ -89,7 +89,7 @@ The [T:Aspose::Page::Drawing::Color](../) structure that this method creates.
 Creates a [T:Aspose::Page::Drawing::Color](../) structure from the specified 8-bit color values (red, green, and blue). The alpha value is implicitly 255 (fully opaque). Although this method allows a 32-bit value to be passed for each color component, the value of each component is limited to 8 bits.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::FromArgb(int32_t red, int32_t green, int32_t blue)
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::FromArgb(int32_t red, int32_t green, int32_t blue)
 ```
 
 

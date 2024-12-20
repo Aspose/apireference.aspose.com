@@ -4,7 +4,7 @@ linktitle: PageMediaSizePSHeightOffset
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageMediaSizePSHeightOffset class. Specifies the offset, parallel to the feed-orientation direction.  in C++.'
 type: docs
-weight: 10700
+weight: 10600
 url: /cpp/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

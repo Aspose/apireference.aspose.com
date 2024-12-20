@@ -4,7 +4,7 @@ linktitle: PageResolution
 second_title: Aspose.Page for C++
 description: 'Aspose::Page::XPS::XpsMetadata::PageResolution class. Defines the page resolution of printed output as either a qualitative value or as dots per inch, or both.  in C++.'
 type: docs
-weight: 12100
+weight: 12000
 url: /cpp/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

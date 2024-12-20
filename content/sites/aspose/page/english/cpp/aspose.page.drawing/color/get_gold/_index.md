@@ -13,7 +13,7 @@ url: /cpp/aspose.page.drawing/color/get_gold/
 Gets a system-defined color that has an ARGB value of #FFFFD700.
 
 ```cpp
-static Color Aspose::Page::Drawing::Color::get_Gold()
+static Aspose::Page::Drawing::Color Aspose::Page::Drawing::Color::get_Gold()
 ```
 
 

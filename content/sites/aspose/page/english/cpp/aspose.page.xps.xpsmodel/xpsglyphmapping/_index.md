@@ -4,7 +4,7 @@ linktitle: XpsGlyphMapping
 second_title: Aspose.Page for C++
 description: 'How to use Aspose::Page::XPS::XpsModel::XpsGlyphMapping class in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/aspose.page.xps.xpsmodel/xpsglyphmapping/
 ---
 ## XpsGlyphMapping class
