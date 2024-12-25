@@ -39,11 +39,11 @@ public class HIBCLICPrimaryDataCodetext : HIBCLICComplexCodetext
 
 ## Examples
 
-This sample shows how to encode and decode HIBC LIC using HIBCLICPrimaryDataCodetext.
+This sample shows how to encode and decode HIBC LIC using HIBCLICPrimaryCodetext.
 
 ```csharp
 [C#]
-HIBCLICPrimaryDataCodetext complexCodetext  = new HIBCLICPrimaryDataCodetext();
+HIBCLICPrimaryCodetext complexCodetext  = new HIBCLICPrimaryCodetext();
 complexCodetext.BarcodeType = EncodeTypes.HIBCQRLIC;
 complexCodetext.Data = new PrimaryData();
 complexCodetext.Data.ProductOrCatalogNumber = "12345";
@@ -56,7 +56,7 @@ using (ComplexBarcodeGenerator generator = new ComplexBarcodeGenerator(complexCo
     {
         reader.ReadBarCodes();
         string codetext = reader.FoundBarCodes[0].CodeText;
-        HIBCLICPrimaryDataCodetext result = (HIBCLICPrimaryDataCodetext)ComplexCodetextReader.TryDecodeHIBCLIC(codetext);
+        HIBCLICPrimaryCodetext result = (HIBCLICPrimaryCodetext)ComplexCodetextReader.TryDecodeHIBCLIC(codetext);
         Console.WriteLine("Product or catalog number: " + result.Data.ProductOrCatalogNumber);
         Console.WriteLine("Labeler identification code: " + result.Data.LabelerIdentificationCode);
         Console.WriteLine("Unit of measure ID: " + result.Data.UnitOfMeasureID);
