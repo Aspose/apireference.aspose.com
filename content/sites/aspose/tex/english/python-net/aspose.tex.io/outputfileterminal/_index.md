@@ -3,7 +3,7 @@ title: OutputFileTerminal class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 140
 url: /python-net/aspose.tex.io/outputfileterminal/
 ---
 
@@ -21,12 +21,7 @@ The OutputFileTerminal type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-| `file_name` | Gets/sets the file name. |
 | `writer` | Gets the writer for the output terminal. |
-## Methods
-| Name | Description |
-| :- | :- |
-| `write_file()` | Finalizes the log, e.g., writes it to file. |
 
 ### See Also
 

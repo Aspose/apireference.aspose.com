@@ -3,7 +3,7 @@ title: NamedStream class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /python-net/aspose.tex.io/namedstream/
 ---
 

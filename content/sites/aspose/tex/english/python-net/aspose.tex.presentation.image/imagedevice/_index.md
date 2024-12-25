@@ -23,30 +23,7 @@ The ImageDevice type exposes the following members:
 | Name | Description |
 | :- | :- |
 | `page_count` | Gets the number of pages. |
-| `is_ready` | Shows if device is ready for output. |
-| `destination_name` | Gets destination name: output file name or device description. |
-| `stroke` | Gets/sets the current stroke. |
-| `fill` | Gets/sets the current fill. |
-| `stroke_opacity` | Gets/sets the current stroke opacity. |
-| `fill_opacity` | Gets/sets the current fill opacity. |
 | `result` | Returns the resulting images byte arrays.<br/>            The first dimension is for inner documents<br/>            and the second one is for pages within inner documents. |
-## Methods
-| Name | Description |
-| :- | :- |
-| `initialize()` | Initializes the device. |
-| `create()` | Creates a copy of this device. |
-| `dispose()` | Disposes this device instance. Finalizes this device instance graphics state,<br/>            i.e. switches composing context to the level higher then this device's graphics state. |
-| `start_document()` | Starts the whole document. |
-| `end_document()` | Finalizes the whole document. |
-| `start_page(width, height)` | Starts a new page. |
-| `end_page()` | Finalizes a page. |
-| `add_hyperlink(active_rect, border, target_uri)` | Set the hyperlink with a URI as its target. |
-| `set_transform(matrix)` | Sets the current coordinate space transformation. |
-| `set_clip(path)` | Sets the current clip path. |
-| `draw_string(str, origin_x, origin_y, char_infos)` | Draws a text string. |
-| `draw_path(path)` | Draws a path. |
-| `fill_path(path)` | Fill a path. |
-| `show_image(origin, size, image_data)` | Shows a raster image. |
 
 ### See Also
 

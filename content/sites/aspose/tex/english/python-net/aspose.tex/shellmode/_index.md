@@ -3,7 +3,7 @@ title: ShellMode enumeration
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 810
 url: /python-net/aspose.tex/shellmode/
 ---
 

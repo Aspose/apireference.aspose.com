@@ -9,7 +9,7 @@ url: /python-net/aspose.tex.commandline/base64exec/
 
 ## Base64Exec class
 
-An implementation of `Base64` command emulation.
+An implementation of
 
 **Inheritance:** `Base64Exec` → [`Executable`](/tex/python-net/aspose.tex.commandline/executable)
 

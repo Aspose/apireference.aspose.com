@@ -14,7 +14,6 @@ Provides classes for I/O that TeX engine performs.
 | Class | Description |
 | :- | :- |
 | [`IFileCollector`](/tex/python-net/aspose.tex.io/ifilecollector/) | Defines methods for selecting collections of files. |
-| [`IFileTerminal`](/tex/python-net/aspose.tex.io/ifileterminal/) | Interface of terminals which actually are files. |
 | [`IInputTerminal`](/tex/python-net/aspose.tex.io/iinputterminal/) | Interface for abstract input terminal. |
 | [`IInputWorkingDirectory`](/tex/python-net/aspose.tex.io/iinputworkingdirectory/) | Interface of generalized input working directory. |
 | [`IOutputTerminal`](/tex/python-net/aspose.tex.io/ioutputterminal/) | Interface for abstract output terminal. |

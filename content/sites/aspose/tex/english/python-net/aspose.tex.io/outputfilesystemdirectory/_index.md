@@ -3,7 +3,7 @@ title: OutputFileSystemDirectory class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /python-net/aspose.tex.io/outputfilesystemdirectory/
 ---
 

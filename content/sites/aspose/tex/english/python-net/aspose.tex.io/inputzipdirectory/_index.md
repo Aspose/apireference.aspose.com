@@ -3,7 +3,7 @@ title: InputZipDirectory class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 90
 url: /python-net/aspose.tex.io/inputzipdirectory/
 ---
 

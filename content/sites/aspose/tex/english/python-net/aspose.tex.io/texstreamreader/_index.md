@@ -3,7 +3,7 @@ title: TeXStreamReader class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 170
 url: /python-net/aspose.tex.io/texstreamreader/
 ---
 

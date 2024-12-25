@@ -3,7 +3,7 @@ title: OutputConsoleTerminal class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /python-net/aspose.tex.io/outputconsoleterminal/
 ---
 

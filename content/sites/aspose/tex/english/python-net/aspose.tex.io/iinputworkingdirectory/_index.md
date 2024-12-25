@@ -3,7 +3,7 @@ title: IInputWorkingDirectory class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /python-net/aspose.tex.io/iinputworkingdirectory/
 ---
 

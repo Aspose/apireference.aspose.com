@@ -3,7 +3,7 @@ title: Interaction enumeration
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 830
+weight: 800
 url: /python-net/aspose.tex/interaction/
 ---
 

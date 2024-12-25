@@ -3,7 +3,7 @@ title: TeXStreamWriter class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 190
+weight: 180
 url: /python-net/aspose.tex.io/texstreamwriter/
 ---
 

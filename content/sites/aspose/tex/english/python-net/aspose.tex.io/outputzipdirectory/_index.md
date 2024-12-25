@@ -3,7 +3,7 @@ title: OutputZipDirectory class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 160
 url: /python-net/aspose.tex.io/outputzipdirectory/
 ---
 

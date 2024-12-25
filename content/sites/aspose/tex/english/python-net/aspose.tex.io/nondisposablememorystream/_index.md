@@ -3,7 +3,7 @@ title: NondisposableMemoryStream class
 second_title: Aspose.TeX for Python via .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 110
 url: /python-net/aspose.tex.io/nondisposablememorystream/
 ---
 
