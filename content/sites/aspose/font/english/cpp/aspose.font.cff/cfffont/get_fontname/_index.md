@@ -2,7 +2,7 @@
 title: Aspose::Font::Cff::CffFont::get_FontName method
 linktitle: get_FontName
 second_title: Aspose.Font for C++
-description: 'Aspose::Font::Cff::CffFont::get_FontName method. Gets Font face name. The Font face name setter is not implemented yet in C++.'
+description: 'Aspose::Font::Cff::CffFont::get_FontName method. Gets Font face name in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.font.cff/cfffont/get_fontname/
@@ -10,7 +10,7 @@ url: /cpp/aspose.font.cff/cfffont/get_fontname/
 ## CffFont::get_FontName method
 
 
-Gets [Font](../../../aspose.font/font/) face name. The [Font](../../../aspose.font/font/) face name setter is not implemented yet.
+Gets [Font](../../../aspose.font/font/) face name.
 
 ```cpp
 System::String Aspose::Font::Cff::CffFont::get_FontName() override

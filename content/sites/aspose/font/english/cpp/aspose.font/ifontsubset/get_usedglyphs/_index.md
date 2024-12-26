@@ -4,7 +4,7 @@ linktitle: get_UsedGlyphs
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontSubset::get_UsedGlyphs method. Gets list of used glyph ids in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font/ifontsubset/get_usedglyphs/
 ---
 ## IFontSubset::get_UsedGlyphs method
