@@ -18,7 +18,7 @@ public MetricList HMetrics { get; }
 
 * class [MetricList](../../ttfhmtxtable.metriclist/)
 * class [TtfHmtxTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfhmtxtable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

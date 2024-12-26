@@ -21,7 +21,7 @@ Array with language identifiers or empty array if no strings are present
 ### See Also
 
 * class [MultiLanguageString](../)
-* namespace [Aspose.Font](../../multilanguagestring/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

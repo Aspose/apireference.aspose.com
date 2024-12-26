@@ -21,7 +21,7 @@ public GlyphStringId(string value)
 ### See Also
 
 * class [GlyphStringId](../)
-* namespace [Aspose.Font.Glyphs](../../glyphstringid/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

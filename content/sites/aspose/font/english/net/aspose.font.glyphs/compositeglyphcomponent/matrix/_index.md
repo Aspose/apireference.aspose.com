@@ -18,7 +18,7 @@ public TransformationMatrix Matrix { get; }
 
 * class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
 * class [CompositeGlyphComponent](../)
-* namespace [Aspose.Font.Glyphs](../../compositeglyphcomponent/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -26,7 +26,7 @@ Glyph identifier related to unicode passed.
 
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [CffEncoding](../)
-* namespace [Aspose.Font.Cff](../../cffencoding/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -17,7 +17,7 @@ public MultiLanguageString()
 ### See Also
 
 * class [MultiLanguageString](../)
-* namespace [Aspose.Font](../../multilanguagestring/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

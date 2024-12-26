@@ -23,7 +23,7 @@ public void RenderGlyph(IFont font, uint glyphIndex)
 
 * interface [IFont](../../../aspose.font/ifont/)
 * interface [IGlyphRenderer](../)
-* namespace [Aspose.Font.Renderers](../../iglyphrenderer/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -47,7 +47,7 @@ public void RenderGlyph(IFont font, uint glyphIndex, TransformationMatrix glyphP
 * interface [IFont](../../../aspose.font/ifont/)
 * class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
 * interface [IGlyphRenderer](../)
-* namespace [Aspose.Font.Renderers](../../iglyphrenderer/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -70,7 +70,7 @@ public void RenderGlyph(IFont font, GlyphId glyphId)
 * interface [IFont](../../../aspose.font/ifont/)
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * interface [IGlyphRenderer](../)
-* namespace [Aspose.Font.Renderers](../../iglyphrenderer/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -95,7 +95,7 @@ public void RenderGlyph(IFont font, GlyphId glyphId, TransformationMatrix glyphP
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
 * interface [IGlyphRenderer](../)
-* namespace [Aspose.Font.Renderers](../../iglyphrenderer/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -123,7 +123,7 @@ public void RenderGlyph(IFont font, GlyphId glyphId, Glyph glyph,
 * class [Glyph](../../../aspose.font.glyphs/glyph/)
 * class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
 * interface [IGlyphRenderer](../)
-* namespace [Aspose.Font.Renderers](../../iglyphrenderer/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 

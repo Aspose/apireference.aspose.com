@@ -18,7 +18,7 @@ public override IFontEncoding Encoding { get; }
 
 * interface [IFontEncoding](../../../aspose.font/ifontencoding/)
 * class [CffFont](../)
-* namespace [Aspose.Font.Cff](../../cfffont/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

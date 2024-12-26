@@ -25,7 +25,7 @@ Glyph index. When no PostScript name information is provided for the glyphs in t
 ### See Also
 
 * class [TtfPostTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfposttable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

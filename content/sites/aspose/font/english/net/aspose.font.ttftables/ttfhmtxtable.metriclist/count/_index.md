@@ -17,7 +17,7 @@ public int Count { get; }
 ### See Also
 
 * class [MetricList](../)
-* namespace [Aspose.Font.TtfTables](../../ttfhmtxtable.metriclist/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

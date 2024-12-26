@@ -17,7 +17,7 @@ public abstract string FontName { get; set; }
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

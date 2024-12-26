@@ -30,7 +30,7 @@ Note: TTF Font type is now supported only.
 
 * enum [FontType](../../fonttype/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

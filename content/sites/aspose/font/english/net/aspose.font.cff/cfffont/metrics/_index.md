@@ -18,7 +18,7 @@ public override IFontMetrics Metrics { get; }
 
 * interface [IFontMetrics](../../../aspose.font/ifontmetrics/)
 * class [CffFont](../)
-* namespace [Aspose.Font.Cff](../../cfffont/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

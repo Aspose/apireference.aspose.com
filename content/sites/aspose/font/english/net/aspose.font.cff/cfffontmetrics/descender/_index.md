@@ -17,7 +17,7 @@ public override double Descender { get; }
 ### See Also
 
 * class [CffFontMetrics](../)
-* namespace [Aspose.Font.Cff](../../cfffontmetrics/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

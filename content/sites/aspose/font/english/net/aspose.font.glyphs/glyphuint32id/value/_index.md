@@ -17,7 +17,7 @@ public uint Value { get; set; }
 ### See Also
 
 * class [GlyphUInt32Id](../)
-* namespace [Aspose.Font.Glyphs](../../glyphuint32id/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

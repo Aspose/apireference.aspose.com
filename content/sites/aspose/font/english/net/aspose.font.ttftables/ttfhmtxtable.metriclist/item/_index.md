@@ -26,7 +26,7 @@ Metrics record.
 
 * struct [LongHorMetric](../../ttfhmtxtable.longhormetric/)
 * class [MetricList](../)
-* namespace [Aspose.Font.TtfTables](../../ttfhmtxtable.metriclist/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

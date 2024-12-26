@@ -25,7 +25,7 @@ Typographic ascender value.
 ### See Also
 
 * class [FontMetrics](../)
-* namespace [Aspose.Font](../../fontmetrics/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

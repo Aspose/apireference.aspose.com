@@ -17,7 +17,7 @@ public static FontEnvironment Current { get; }
 ### See Also
 
 * class [FontEnvironment](../)
-* namespace [Aspose.Font](../../fontenvironment/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

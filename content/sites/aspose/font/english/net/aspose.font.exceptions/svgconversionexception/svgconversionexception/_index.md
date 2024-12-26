@@ -17,7 +17,7 @@ public SvgConversionException()
 ### See Also
 
 * class [SvgConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../svgconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public SvgConversionException(string message)
 ### See Also
 
 * class [SvgConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../svgconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public SvgConversionException(string message, Exception innerException)
 ### See Also
 
 * class [SvgConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../svgconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public SvgConversionException(SerializationInfo info, StreamingContext context)
 ### See Also
 
 * class [SvgConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../svgconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 

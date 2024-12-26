@@ -26,7 +26,7 @@ public TtcFontFileDefinition(int fontIndex, string fileExtension, StreamSource s
 
 * class [StreamSource](../../../aspose.font.sources/streamsource/)
 * class [TtcFontFileDefinition](../)
-* namespace [Aspose.Font.Ttf](../../ttcfontfiledefinition/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

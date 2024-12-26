@@ -17,7 +17,7 @@ public short XMax { get; }
 ### See Also
 
 * class [TtfHeadTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfheadtable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

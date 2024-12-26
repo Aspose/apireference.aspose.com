@@ -22,7 +22,7 @@ public void Add(GlyphId glyphId)
 
 * class [GlyphId](../../glyphid/)
 * class [GlyphIdList](../)
-* namespace [Aspose.Font.Glyphs](../../glyphidlist/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

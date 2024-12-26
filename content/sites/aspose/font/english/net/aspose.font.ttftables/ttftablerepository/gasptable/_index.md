@@ -18,7 +18,7 @@ public TtfGaspTable GaspTable { get; }
 
 * class [TtfGaspTable](../../ttfgasptable/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

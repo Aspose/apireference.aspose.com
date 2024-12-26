@@ -27,7 +27,7 @@ Font loaded.
 * class [Font](../../font/)
 * class [FontDefinition](../../../aspose.font.sources/fontdefinition/)
 * class [FontFactory](../)
-* namespace [Aspose.Font](../../fontfactory/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -55,7 +55,7 @@ Font loaded.
 * enum [FontType](../../fonttype/)
 * class [StreamSource](../../../aspose.font.sources/streamsource/)
 * class [FontFactory](../)
-* namespace [Aspose.Font](../../fontfactory/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -82,7 +82,7 @@ Font loaded.
 * class [Font](../../font/)
 * enum [FontType](../../fonttype/)
 * class [FontFactory](../)
-* namespace [Aspose.Font](../../fontfactory/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -109,7 +109,7 @@ Font loaded.
 * class [Font](../../font/)
 * enum [FontType](../../fonttype/)
 * class [FontFactory](../)
-* namespace [Aspose.Font](../../fontfactory/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

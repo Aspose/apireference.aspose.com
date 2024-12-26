@@ -22,7 +22,7 @@ name to code map object
 
 * class [NameToCodeMap](../../nametocodemap/)
 * interface [ISupportsNameAddressing](../)
-* namespace [Aspose.Font](../../isupportsnameaddressing/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -18,7 +18,7 @@ public FontFileDefinition[] FileDefinitions { get; }
 
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

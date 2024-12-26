@@ -18,7 +18,7 @@ public StreamSource CffSource { get; }
 
 * class [StreamSource](../../../aspose.font.sources/streamsource/)
 * class [TtfCffTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfcfftable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -21,7 +21,7 @@ public int this[string name] { get; }
 ### See Also
 
 * class [NameToCodeMap](../)
-* namespace [Aspose.Font](../../nametocodemap/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

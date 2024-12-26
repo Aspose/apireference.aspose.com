@@ -17,7 +17,7 @@ public ushort DesignAxisCount { get; }
 ### See Also
 
 * class [TtfStatTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

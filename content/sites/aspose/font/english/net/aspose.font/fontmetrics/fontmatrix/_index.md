@@ -18,7 +18,7 @@ public virtual TransformationMatrix FontMatrix { get; }
 
 * class [TransformationMatrix](../../transformationmatrix/)
 * class [FontMetrics](../)
-* namespace [Aspose.Font](../../fontmetrics/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

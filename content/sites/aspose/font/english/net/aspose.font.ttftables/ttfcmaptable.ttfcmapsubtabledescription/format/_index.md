@@ -17,7 +17,7 @@ public ushort Format { get; }
 ### See Also
 
 * class [TtfCMapSubtableDescription](../)
-* namespace [Aspose.Font.TtfTables](../../ttfcmaptable.ttfcmapsubtabledescription/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

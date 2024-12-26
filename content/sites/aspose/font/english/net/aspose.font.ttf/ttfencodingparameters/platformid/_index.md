@@ -17,7 +17,7 @@ public ushort PlatformId { get; set; }
 ### See Also
 
 * class [TtfEncodingParameters](../)
-* namespace [Aspose.Font.Ttf](../../ttfencodingparameters/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

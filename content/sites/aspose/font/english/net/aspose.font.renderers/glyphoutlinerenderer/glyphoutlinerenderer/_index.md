@@ -22,7 +22,7 @@ public GlyphOutlineRenderer(IGlyphOutlinePainter painter)
 
 * interface [IGlyphOutlinePainter](../../../aspose.font.rendering/iglyphoutlinepainter/)
 * class [GlyphOutlineRenderer](../)
-* namespace [Aspose.Font.Renderers](../../glyphoutlinerenderer/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 

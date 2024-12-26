@@ -18,7 +18,7 @@ public override FontStyle FontStyle { get; }
 
 * enum [FontStyle](../../../aspose.font/fontstyle/)
 * class [CffFont](../)
-* namespace [Aspose.Font.Cff](../../cfffont/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

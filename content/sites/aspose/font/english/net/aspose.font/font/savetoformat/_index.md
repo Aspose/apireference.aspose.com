@@ -23,7 +23,7 @@ public void SaveToFormat(Stream stream, FontSavingFormats outFormat)
 
 * enum [FontSavingFormats](../../fontsavingformats/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

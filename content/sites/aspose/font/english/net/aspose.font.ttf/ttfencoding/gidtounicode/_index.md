@@ -26,7 +26,7 @@ Unicode value related to glyph id passed.
 
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [TtfEncoding](../)
-* namespace [Aspose.Font.Ttf](../../ttfencoding/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

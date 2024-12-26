@@ -18,7 +18,7 @@ public override IFontEncoding Encoding { get; }
 
 * interface [IFontEncoding](../../../aspose.font/ifontencoding/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

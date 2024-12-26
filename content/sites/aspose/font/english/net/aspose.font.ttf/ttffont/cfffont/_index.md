@@ -18,7 +18,7 @@ public virtual Font CffFont { get; }
 
 * class [Font](../../../aspose.font/font/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

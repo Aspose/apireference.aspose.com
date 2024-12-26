@@ -17,7 +17,7 @@ public virtual string PostscriptName { get; }
 ### See Also
 
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

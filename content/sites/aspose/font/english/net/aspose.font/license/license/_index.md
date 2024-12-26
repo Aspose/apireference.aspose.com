@@ -17,7 +17,7 @@ public License()
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.Font](../../license/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

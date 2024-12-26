@@ -27,7 +27,7 @@ FontDefinition.
 
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -54,7 +54,7 @@ FontDefinition.
 * class [StreamSource](../../streamsource/)
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

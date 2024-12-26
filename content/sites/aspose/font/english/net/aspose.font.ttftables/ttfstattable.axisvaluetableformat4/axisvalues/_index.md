@@ -18,7 +18,7 @@ public AxisValue[] AxisValues { get; }
 
 * class [AxisValue](../../ttfstattable.axisvalue/)
 * class [AxisValueTableFormat4](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvaluetableformat4/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

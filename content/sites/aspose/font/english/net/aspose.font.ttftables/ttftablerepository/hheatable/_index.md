@@ -18,7 +18,7 @@ public TtfHheaTable HheaTable { get; }
 
 * class [TtfHheaTable](../../ttfhheatable/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

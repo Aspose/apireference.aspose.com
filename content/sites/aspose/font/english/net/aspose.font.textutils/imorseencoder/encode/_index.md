@@ -30,7 +30,7 @@ Encoded text, ie "... --- ..." for the input text "SOS"
 
 * enum [MorseAlphabets](../../morsealphabets/)
 * interface [IMorseEncoder](../)
-* namespace [Aspose.Font.TextUtils](../../imorseencoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -56,7 +56,7 @@ Encoded text, ie "... --- ..." for the input text "SOS"
 ### See Also
 
 * interface [IMorseEncoder](../)
-* namespace [Aspose.Font.TextUtils](../../imorseencoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 

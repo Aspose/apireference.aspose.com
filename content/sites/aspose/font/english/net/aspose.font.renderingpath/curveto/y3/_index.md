@@ -17,7 +17,7 @@ public double Y3 { get; }
 ### See Also
 
 * class [CurveTo](../)
-* namespace [Aspose.Font.RenderingPath](../../curveto/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

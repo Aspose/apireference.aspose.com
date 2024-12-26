@@ -25,7 +25,7 @@ public FontDefinition(FontType fontType, string fileExtension, StreamSource stre
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [StreamSource](../../streamsource/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -48,7 +48,7 @@ public FontDefinition(FontType fontType, StreamSource streamSource)
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [StreamSource](../../streamsource/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -74,7 +74,7 @@ public FontDefinition(string fontName, FontType fontType, string fileExtension,
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [StreamSource](../../streamsource/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -97,7 +97,7 @@ public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -121,7 +121,7 @@ public FontDefinition(string fontName, FontType fontType, FontFileDefinition fil
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -147,7 +147,7 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -170,7 +170,7 @@ public FontDefinition(FontType fontType, FontFileDefinition[] fileDefinitions)
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -196,7 +196,7 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -223,7 +223,7 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -250,7 +250,7 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontFileDefinition](../../fontfiledefinition/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

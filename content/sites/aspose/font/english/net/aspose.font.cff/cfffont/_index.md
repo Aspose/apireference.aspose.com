@@ -21,7 +21,7 @@ public class CffFont : Font
 | override [Encoding](../../aspose.font.cff/cfffont/encoding/) { get; } | Gets Font encoding. |
 | override [FontDefinition](../../aspose.font.cff/cfffont/fontdefinition/) { get; } | Gets Font definition. |
 | override [FontFamily](../../aspose.font.cff/cfffont/fontfamily/) { get; set; } | Gets Font family. The Font family setter is not implemented yet. |
-| override [FontName](../../aspose.font.cff/cfffont/fontname/) { get; set; } | Gets Font face name. The Font face name setter is not implemented yet. |
+| override [FontName](../../aspose.font.cff/cfffont/fontname/) { get; set; } | Gets or sets Font face name. |
 | override [FontNames](../../aspose.font.cff/cfffont/fontnames/) { get; } | Get Font names. |
 | [FontSaver](../../aspose.font/font/fontsaver/) { get; } | Gets Font save functionality. |
 | override [FontStyle](../../aspose.font.cff/cfffont/fontstyle/) { get; } | Gets Font style. This is a value computed and represented in generalized type. |
@@ -32,7 +32,7 @@ public class CffFont : Font
 | override [Metrics](../../aspose.font.cff/cfffont/metrics/) { get; } | Gets Font metrics. |
 | override [NumGlyphs](../../aspose.font.cff/cfffont/numglyphs/) { get; } | Gets number of glyphs in the Font. |
 | override [PostscriptNames](../../aspose.font.cff/cfffont/postscriptnames/) { get; } | Gets postscript Font names. |
-| override [Style](../../aspose.font.cff/cfffont/style/) { get; set; } | Gets Font style. This is a raw string value provided by Font file. The Style setter is not implemented yet. |
+| override [Style](../../aspose.font.cff/cfffont/style/) { get; set; } | Gets or sets Font style. This is a raw string value provided by Font file. |
 
 ## Methods
 

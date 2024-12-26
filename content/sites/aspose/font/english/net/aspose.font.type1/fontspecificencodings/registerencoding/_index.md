@@ -22,7 +22,7 @@ public void RegisterEncoding(string fontName, string[] encoding)
 ### See Also
 
 * class [FontSpecificEncodings](../)
-* namespace [Aspose.Font.Type1](../../fontspecificencodings/)
+* namespace [Aspose.Font.Type1](../../../aspose.font.type1/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -33,7 +33,7 @@ Glyphs(glyphId) related to encoded text, ie "... --- ..." for the input text "SO
 * interface [IFont](../../../aspose.font/ifont/)
 * enum [MorseAlphabets](../../morsealphabets/)
 * interface [IFontMorseEncoder](../)
-* namespace [Aspose.Font.TextUtils](../../ifontmorseencoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -63,7 +63,7 @@ Glyphs(glyphId) related to encoded text, ie "... --- ..." for the input text "SO
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * interface [IFont](../../../aspose.font/ifont/)
 * interface [IFontMorseEncoder](../)
-* namespace [Aspose.Font.TextUtils](../../ifontmorseencoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -100,7 +100,7 @@ Text, encoded by Morse code, in PNG-format as stream of bytes
 * enum [LineSpacingType](../../../aspose.font.renderers/renderingutils.linespacingtype/)
 * enum [MorseAlphabets](../../morsealphabets/)
 * interface [IFontMorseEncoder](../)
-* namespace [Aspose.Font.TextUtils](../../ifontmorseencoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -134,7 +134,7 @@ Text, encoded by Morse code, in PNG-format as stream of bytes
 * interface [IFont](../../../aspose.font/ifont/)
 * enum [LineSpacingType](../../../aspose.font.renderers/renderingutils.linespacingtype/)
 * interface [IFontMorseEncoder](../)
-* namespace [Aspose.Font.TextUtils](../../ifontmorseencoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 

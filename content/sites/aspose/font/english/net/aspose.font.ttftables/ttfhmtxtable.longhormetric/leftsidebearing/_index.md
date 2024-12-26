@@ -17,7 +17,7 @@ public short LeftSideBearing { get; }
 ### See Also
 
 * struct [LongHorMetric](../)
-* namespace [Aspose.Font.TtfTables](../../ttfhmtxtable.longhormetric/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

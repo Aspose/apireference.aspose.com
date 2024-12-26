@@ -18,7 +18,7 @@ public override FontType FontType { get; }
 
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

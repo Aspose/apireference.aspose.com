@@ -17,7 +17,7 @@ public short[] LeftSidebearings { get; }
 ### See Also
 
 * class [TtfHmtxTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfhmtxtable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

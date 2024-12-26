@@ -17,7 +17,7 @@ public ushort RangeMaxPPEM { get; }
 ### See Also
 
 * struct [GaspRange](../)
-* namespace [Aspose.Font.TtfTables](../../ttfgasptable.gasprange/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

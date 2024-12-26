@@ -28,7 +28,7 @@ Image in PNG format as stream of bytes
 
 * class [Font](../../../aspose.font/font/)
 * class [RenderingUtils](../)
-* namespace [Aspose.Font.Renderers](../../renderingutils/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -60,7 +60,7 @@ Image in PNG format as stream of bytes
 * class [Font](../../../aspose.font/font/)
 * enum [LineSpacingType](../../renderingutils.linespacingtype/)
 * class [RenderingUtils](../)
-* namespace [Aspose.Font.Renderers](../../renderingutils/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -88,7 +88,7 @@ Image in PNG format as stream of bytes
 * class [Font](../../../aspose.font/font/)
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [RenderingUtils](../)
-* namespace [Aspose.Font.Renderers](../../renderingutils/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -121,7 +121,7 @@ Image in PNG format as stream of bytes
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * enum [LineSpacingType](../../renderingutils.linespacingtype/)
 * class [RenderingUtils](../)
-* namespace [Aspose.Font.Renderers](../../renderingutils/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 

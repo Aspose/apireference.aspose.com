@@ -26,7 +26,7 @@ Glyph width.
 
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [CffFontMetrics](../)
-* namespace [Aspose.Font.Cff](../../cfffontmetrics/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

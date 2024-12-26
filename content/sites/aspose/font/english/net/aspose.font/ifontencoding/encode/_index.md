@@ -22,7 +22,7 @@ public void Encode(uint gid, uint charCode)
 ### See Also
 
 * interface [IFontEncoding](../)
-* namespace [Aspose.Font](../../ifontencoding/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

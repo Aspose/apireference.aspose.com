@@ -17,7 +17,7 @@ public LicenseRestrictionException()
 ### See Also
 
 * class [LicenseRestrictionException](../)
-* namespace [Aspose.Font.Exceptions](../../licenserestrictionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public LicenseRestrictionException(string message)
 ### See Also
 
 * class [LicenseRestrictionException](../)
-* namespace [Aspose.Font.Exceptions](../../licenserestrictionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public LicenseRestrictionException(string message, Exception innerException)
 ### See Also
 
 * class [LicenseRestrictionException](../)
-* namespace [Aspose.Font.Exceptions](../../licenserestrictionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public LicenseRestrictionException(SerializationInfo info, StreamingContext cont
 ### See Also
 
 * class [LicenseRestrictionException](../)
-* namespace [Aspose.Font.Exceptions](../../licenserestrictionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 

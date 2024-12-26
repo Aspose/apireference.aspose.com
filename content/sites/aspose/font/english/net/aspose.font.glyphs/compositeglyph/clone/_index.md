@@ -21,7 +21,7 @@ Copy of Glyph.
 ### See Also
 
 * class [CompositeGlyph](../)
-* namespace [Aspose.Font.Glyphs](../../compositeglyph/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

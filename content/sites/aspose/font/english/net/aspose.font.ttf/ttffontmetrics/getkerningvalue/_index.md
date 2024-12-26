@@ -27,7 +27,7 @@ Kerning value.
 
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [TtfFontMetrics](../)
-* namespace [Aspose.Font.Ttf](../../ttffontmetrics/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

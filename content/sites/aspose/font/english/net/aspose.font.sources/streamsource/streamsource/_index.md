@@ -17,7 +17,7 @@ public StreamSource()
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.Font.Sources](../../streamsource/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

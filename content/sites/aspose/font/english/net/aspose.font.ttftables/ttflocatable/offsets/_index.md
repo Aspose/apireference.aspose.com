@@ -18,7 +18,7 @@ public virtual OffsetsList Offsets { get; }
 
 * class [OffsetsList](../../ttflocatable.offsetslist/)
 * class [TtfLocaTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttflocatable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

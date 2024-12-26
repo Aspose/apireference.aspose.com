@@ -17,7 +17,7 @@ public CffParsingException()
 ### See Also
 
 * class [CffParsingException](../)
-* namespace [Aspose.Font.CffExceptions](../../cffparsingexception/)
+* namespace [Aspose.Font.CffExceptions](../../../aspose.font.cffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public CffParsingException(string message)
 ### See Also
 
 * class [CffParsingException](../)
-* namespace [Aspose.Font.CffExceptions](../../cffparsingexception/)
+* namespace [Aspose.Font.CffExceptions](../../../aspose.font.cffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public CffParsingException(string message, Exception innerException)
 ### See Also
 
 * class [CffParsingException](../)
-* namespace [Aspose.Font.CffExceptions](../../cffparsingexception/)
+* namespace [Aspose.Font.CffExceptions](../../../aspose.font.cffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public CffParsingException(SerializationInfo info, StreamingContext context)
 ### See Also
 
 * class [CffParsingException](../)
-* namespace [Aspose.Font.CffExceptions](../../cffparsingexception/)
+* namespace [Aspose.Font.CffExceptions](../../../aspose.font.cffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 

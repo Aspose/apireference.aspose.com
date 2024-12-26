@@ -22,7 +22,7 @@ public void Encode(uint gid, uint charCode)
 ### See Also
 
 * class [TtfEncoding](../)
-* namespace [Aspose.Font.Ttf](../../ttfencoding/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

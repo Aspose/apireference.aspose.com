@@ -18,7 +18,7 @@ public Glyph Glyph { get; }
 
 * class [Glyph](../../glyph/)
 * class [CompositeGlyphComponent](../)
-* namespace [Aspose.Font.Glyphs](../../compositeglyphcomponent/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

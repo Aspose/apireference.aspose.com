@@ -17,7 +17,7 @@ public ushort AxisIndex { get; }
 ### See Also
 
 * class [AxisValueTableFormat3](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvaluetableformat3/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

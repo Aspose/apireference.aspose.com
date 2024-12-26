@@ -22,7 +22,7 @@ public void LineTo(LineTo lineTo)
 
 * class [LineTo](../../../aspose.font.renderingpath/lineto/)
 * interface [IGlyphOutlinePainter](../)
-* namespace [Aspose.Font.Rendering](../../iglyphoutlinepainter/)
+* namespace [Aspose.Font.Rendering](../../../aspose.font.rendering/)
 * assembly [Aspose.Font](../../../)
 
 

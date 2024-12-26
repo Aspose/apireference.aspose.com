@@ -18,7 +18,7 @@ public FontSpecificEncodings FontSpecificEncodings { get; }
 
 * class [FontSpecificEncodings](../../../aspose.font.type1/fontspecificencodings/)
 * class [FontEnvironment](../)
-* namespace [Aspose.Font](../../fontenvironment/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

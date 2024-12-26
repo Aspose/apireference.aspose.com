@@ -28,7 +28,7 @@ public static IFontCharactersMerger GetFontCharactersMerger(TtfFont font1, TtfFo
 * interface [IFontCharactersMerger](../../ifontcharactersmerger/)
 * class [TtfFont](../../../aspose.font.ttf/ttffont/)
 * class [HelpersFactory](../)
-* namespace [Aspose.Font.TtfHelpers](../../helpersfactory/)
+* namespace [Aspose.Font.TtfHelpers](../../../aspose.font.ttfhelpers/)
 * assembly [Aspose.Font](../../../)
 
 

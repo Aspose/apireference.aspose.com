@@ -29,7 +29,7 @@ public void RenderIndependentGlyphPath(IFont font, GlyphId glyphId, Glyph glyph,
 * class [Glyph](../../../aspose.font.glyphs/glyph/)
 * class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
 * class [GlyphRendererBase](../)
-* namespace [Aspose.Font.Renderers](../../glyphrendererbase/)
+* namespace [Aspose.Font.Renderers](../../../aspose.font.renderers/)
 * assembly [Aspose.Font](../../../)
 
 

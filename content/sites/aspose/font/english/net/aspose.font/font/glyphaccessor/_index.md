@@ -18,7 +18,7 @@ public IGlyphAccessor GlyphAccessor { get; }
 
 * interface [IGlyphAccessor](../../../aspose.font.glyphs/iglyphaccessor/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

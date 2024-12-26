@@ -27,7 +27,7 @@ Name.
 * class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
 * enum [NameId](../../ttfnametable.nameid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -55,7 +55,7 @@ Name.
 * enum [NameId](../../ttfnametable.nameid/)
 * enum [PlatformId](../../ttfnametable.platformid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -85,7 +85,7 @@ Name.
 * enum [NameId](../../ttfnametable.nameid/)
 * enum [PlatformId](../../ttfnametable.platformid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

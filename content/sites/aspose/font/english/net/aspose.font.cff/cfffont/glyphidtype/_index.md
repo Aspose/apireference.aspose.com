@@ -18,7 +18,7 @@ public override GlyphIdType GlyphIdType { get; }
 
 * enum [GlyphIdType](../../../aspose.font.glyphs/glyphidtype/)
 * class [CffFont](../)
-* namespace [Aspose.Font.Cff](../../cfffont/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

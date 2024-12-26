@@ -26,7 +26,7 @@ GlyphId array.
 
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

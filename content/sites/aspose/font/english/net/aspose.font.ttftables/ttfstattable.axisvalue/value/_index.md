@@ -17,7 +17,7 @@ public float Value { get; }
 ### See Also
 
 * class [AxisValue](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvalue/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -17,7 +17,7 @@ public FontNotSupportedOperationException()
 ### See Also
 
 * class [FontNotSupportedOperationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontnotsupportedoperationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public FontNotSupportedOperationException(string message)
 ### See Also
 
 * class [FontNotSupportedOperationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontnotsupportedoperationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public FontNotSupportedOperationException(string message, Exception innerExcepti
 ### See Also
 
 * class [FontNotSupportedOperationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontnotsupportedoperationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public FontNotSupportedOperationException(SerializationInfo info, StreamingConte
 ### See Also
 
 * class [FontNotSupportedOperationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontnotsupportedoperationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 

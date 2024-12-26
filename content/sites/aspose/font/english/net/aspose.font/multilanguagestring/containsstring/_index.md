@@ -25,7 +25,7 @@ True if the string is present inside all the language strings.
 ### See Also
 
 * class [MultiLanguageString](../)
-* namespace [Aspose.Font](../../multilanguagestring/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

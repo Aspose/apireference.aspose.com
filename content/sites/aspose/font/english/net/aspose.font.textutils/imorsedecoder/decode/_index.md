@@ -30,7 +30,7 @@ Decoded text
 
 * enum [MorseAlphabets](../../morsealphabets/)
 * interface [IMorseDecoder](../)
-* namespace [Aspose.Font.TextUtils](../../imorsedecoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 

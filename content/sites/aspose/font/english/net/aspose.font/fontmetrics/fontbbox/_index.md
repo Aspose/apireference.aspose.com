@@ -18,7 +18,7 @@ public virtual FontBBox FontBBox { get; }
 
 * class [FontBBox](../../fontbbox/)
 * class [FontMetrics](../)
-* namespace [Aspose.Font](../../fontmetrics/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

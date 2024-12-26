@@ -18,7 +18,7 @@ public FontBBox GlyphBBox { get; }
 
 * class [FontBBox](../../../aspose.font/fontbbox/)
 * class [Glyph](../)
-* namespace [Aspose.Font.Glyphs](../../glyph/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -18,7 +18,7 @@ public virtual SegmentPath Path { get; }
 
 * class [SegmentPath](../../../aspose.font.renderingpath/segmentpath/)
 * class [Glyph](../)
-* namespace [Aspose.Font.Glyphs](../../glyph/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

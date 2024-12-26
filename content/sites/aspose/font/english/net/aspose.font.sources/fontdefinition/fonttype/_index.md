@@ -18,7 +18,7 @@ public FontType FontType { get; }
 
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

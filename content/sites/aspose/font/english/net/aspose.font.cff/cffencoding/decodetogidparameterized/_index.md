@@ -28,7 +28,7 @@ Glyph identifier related to charCode passed.
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * interface [IEncodingParameters](../../../aspose.font/iencodingparameters/)
 * class [CffEncoding](../)
-* namespace [Aspose.Font.Cff](../../cffencoding/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

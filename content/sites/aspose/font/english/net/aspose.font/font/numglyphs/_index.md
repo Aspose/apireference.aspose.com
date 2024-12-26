@@ -17,7 +17,7 @@ public abstract int NumGlyphs { get; }
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

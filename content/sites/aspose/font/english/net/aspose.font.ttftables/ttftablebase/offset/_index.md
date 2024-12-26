@@ -17,7 +17,7 @@ public uint Offset { get; }
 ### See Also
 
 * class [TtfTableBase](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablebase/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

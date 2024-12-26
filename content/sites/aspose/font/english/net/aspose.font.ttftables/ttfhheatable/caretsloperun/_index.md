@@ -21,7 +21,7 @@ The caret slop run.
 ### See Also
 
 * class [TtfHheaTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfhheatable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -17,7 +17,7 @@ public byte[] Program { get; }
 ### See Also
 
 * class [TtfPrepTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfpreptable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

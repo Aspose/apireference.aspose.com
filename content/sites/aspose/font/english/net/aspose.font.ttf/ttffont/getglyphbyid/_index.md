@@ -27,7 +27,7 @@ Glyph.
 * class [Glyph](../../../aspose.font.glyphs/glyph/)
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -52,7 +52,7 @@ Glyph.
 
 * class [Glyph](../../../aspose.font.glyphs/glyph/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -77,7 +77,7 @@ Glyph.
 
 * class [Glyph](../../../aspose.font.glyphs/glyph/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

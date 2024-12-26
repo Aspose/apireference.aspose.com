@@ -21,7 +21,7 @@ consumption quantity
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.Font](../../metered/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -18,7 +18,7 @@ public virtual TtfTableRepository TtfTables { get; }
 
 * class [TtfTableRepository](../../../aspose.font.ttftables/ttftablerepository/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

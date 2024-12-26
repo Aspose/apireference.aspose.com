@@ -25,7 +25,7 @@ Line gap value.
 ### See Also
 
 * interface [IFontMetrics](../)
-* namespace [Aspose.Font](../../ifontmetrics/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

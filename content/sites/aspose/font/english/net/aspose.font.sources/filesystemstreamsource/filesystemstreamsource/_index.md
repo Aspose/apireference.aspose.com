@@ -21,7 +21,7 @@ public FileSystemStreamSource(string fileName)
 ### See Also
 
 * class [FileSystemStreamSource](../)
-* namespace [Aspose.Font.Sources](../../filesystemstreamsource/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -27,7 +27,7 @@ Array of [`NameRecord`](../../ttfnametable.namerecord/) structures
 * class [NameRecord](../../ttfnametable.namerecord/)
 * enum [NameId](../../ttfnametable.nameid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -17,7 +17,7 @@ public bool IsEditableEmbedding { get; }
 ### See Also
 
 * class [LicenseFlags](../)
-* namespace [Aspose.Font.Ttf](../../licenseflags/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

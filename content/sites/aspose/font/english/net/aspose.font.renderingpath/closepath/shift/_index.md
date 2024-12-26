@@ -22,7 +22,7 @@ public void Shift(double dx, double dy)
 ### See Also
 
 * class [ClosePath](../)
-* namespace [Aspose.Font.RenderingPath](../../closepath/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

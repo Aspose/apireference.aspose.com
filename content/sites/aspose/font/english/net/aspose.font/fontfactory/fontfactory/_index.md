@@ -17,7 +17,7 @@ public FontFactory()
 ### See Also
 
 * class [FontFactory](../)
-* namespace [Aspose.Font](../../fontfactory/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

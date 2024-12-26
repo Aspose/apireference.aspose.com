@@ -25,7 +25,7 @@ Glyph name. When no PostScript name information is provided for the glyphs in th
 ### See Also
 
 * class [TtfPostTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfposttable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

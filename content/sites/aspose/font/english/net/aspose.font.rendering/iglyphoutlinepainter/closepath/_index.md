@@ -17,7 +17,7 @@ public void ClosePath()
 ### See Also
 
 * interface [IGlyphOutlinePainter](../)
-* namespace [Aspose.Font.Rendering](../../iglyphoutlinepainter/)
+* namespace [Aspose.Font.Rendering](../../../aspose.font.rendering/)
 * assembly [Aspose.Font](../../../)
 
 

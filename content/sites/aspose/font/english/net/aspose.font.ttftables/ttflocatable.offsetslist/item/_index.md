@@ -21,7 +21,7 @@ public uint this[int index] { get; }
 ### See Also
 
 * class [OffsetsList](../)
-* namespace [Aspose.Font.TtfTables](../../ttflocatable.offsetslist/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

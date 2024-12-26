@@ -21,7 +21,7 @@ A new object that is a copy of this instance.
 ### See Also
 
 * class [LineTo](../)
-* namespace [Aspose.Font.RenderingPath](../../lineto/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -22,7 +22,7 @@ public IMorseDecoder GetMorseDecoder()
 
 * interface [IMorseDecoder](../../../aspose.font.textutils/imorsedecoder/)
 * class [TextUtilsFactory](../)
-* namespace [Aspose.Font.Factories](../../textutilsfactory/)
+* namespace [Aspose.Font.Factories](../../../aspose.font.factories/)
 * assembly [Aspose.Font](../../../)
 
 

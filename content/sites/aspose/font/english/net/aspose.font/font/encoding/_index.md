@@ -18,7 +18,7 @@ public abstract IFontEncoding Encoding { get; }
 
 * interface [IFontEncoding](../../ifontencoding/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

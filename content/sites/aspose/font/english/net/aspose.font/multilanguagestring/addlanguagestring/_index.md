@@ -22,7 +22,7 @@ public void AddLanguageString(string str, int languageId)
 ### See Also
 
 * class [MultiLanguageString](../)
-* namespace [Aspose.Font](../../multilanguagestring/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

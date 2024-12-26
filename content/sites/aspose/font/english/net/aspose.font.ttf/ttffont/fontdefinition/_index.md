@@ -18,7 +18,7 @@ public override FontDefinition FontDefinition { get; }
 
 * class [FontDefinition](../../../aspose.font.sources/fontdefinition/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

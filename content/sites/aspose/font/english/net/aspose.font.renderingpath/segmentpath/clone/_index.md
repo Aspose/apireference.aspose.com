@@ -21,7 +21,7 @@ Copy of path.
 ### See Also
 
 * class [SegmentPath](../)
-* namespace [Aspose.Font.RenderingPath](../../segmentpath/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

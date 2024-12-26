@@ -17,7 +17,7 @@ public static string Version { get; }
 ### See Also
 
 * class [BuildVersionInfo](../)
-* namespace [Aspose.Font](../../buildversioninfo/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

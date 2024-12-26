@@ -17,7 +17,7 @@ public EncodingException()
 ### See Also
 
 * class [EncodingException](../)
-* namespace [Aspose.Font.Exceptions](../../encodingexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public EncodingException(string message)
 ### See Also
 
 * class [EncodingException](../)
-* namespace [Aspose.Font.Exceptions](../../encodingexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public EncodingException(string message, Exception innerException)
 ### See Also
 
 * class [EncodingException](../)
-* namespace [Aspose.Font.Exceptions](../../encodingexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public EncodingException(SerializationInfo info, StreamingContext context)
 ### See Also
 
 * class [EncodingException](../)
-* namespace [Aspose.Font.Exceptions](../../encodingexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -22,7 +22,7 @@ public FontFileDefinition(StreamSource streamSource)
 
 * class [StreamSource](../../streamsource/)
 * class [FontFileDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontfiledefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -44,7 +44,7 @@ public FontFileDefinition(string fileExtension, StreamSource streamSource)
 
 * class [StreamSource](../../streamsource/)
 * class [FontFileDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontfiledefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -67,7 +67,7 @@ public FontFileDefinition(string fileExtension, StreamSource streamSource, long 
 
 * class [StreamSource](../../streamsource/)
 * class [FontFileDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontfiledefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -87,7 +87,7 @@ public FontFileDefinition(FileInfo fontFile)
 ### See Also
 
 * class [FontFileDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontfiledefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

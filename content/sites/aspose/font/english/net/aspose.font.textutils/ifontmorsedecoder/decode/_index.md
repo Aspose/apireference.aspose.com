@@ -34,7 +34,7 @@ Glyphs (glyph identifiers) related to decoded text
 * interface [IFont](../../../aspose.font/ifont/)
 * enum [MorseAlphabets](../../morsealphabets/)
 * interface [IFontMorseDecoder](../)
-* namespace [Aspose.Font.TextUtils](../../ifontmorsedecoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -72,7 +72,7 @@ Decoded text in PNG-format as stream of bytes
 * enum [LineSpacingType](../../../aspose.font.renderers/renderingutils.linespacingtype/)
 * enum [MorseAlphabets](../../morsealphabets/)
 * interface [IFontMorseDecoder](../)
-* namespace [Aspose.Font.TextUtils](../../ifontmorsedecoder/)
+* namespace [Aspose.Font.TextUtils](../../../aspose.font.textutils/)
 * assembly [Aspose.Font](../../../)
 
 
