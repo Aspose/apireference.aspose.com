@@ -4,7 +4,7 @@ linktitle: AxisValueTableFormat3
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableFormat3::AxisValueTableFormat3 constructor. Constructor in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetableformat3/axisvaluetableformat3/
 ---
 ## AxisValueTableFormat3::AxisValueTableFormat3 constructor

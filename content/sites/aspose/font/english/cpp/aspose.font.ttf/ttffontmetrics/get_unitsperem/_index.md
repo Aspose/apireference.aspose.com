@@ -4,7 +4,7 @@ linktitle: get_UnitsPerEM
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFontMetrics::get_UnitsPerEM method. Gets UnitsPerEM value in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/aspose.font.ttf/ttffontmetrics/get_unitsperem/
 ---
 ## TtfFontMetrics::get_UnitsPerEM method

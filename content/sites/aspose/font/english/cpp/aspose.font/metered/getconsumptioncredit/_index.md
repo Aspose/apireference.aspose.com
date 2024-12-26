@@ -4,7 +4,7 @@ linktitle: GetConsumptionCredit
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Metered::GetConsumptionCredit method. Gets consumption credit in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font/metered/getconsumptioncredit/
 ---
 ## Metered::GetConsumptionCredit method

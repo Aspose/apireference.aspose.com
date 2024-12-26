@@ -4,7 +4,7 @@ linktitle: Convert
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::Convert method. Converts the Font into another format in C++.'
 type: docs
-weight: 1700
+weight: 100
 url: /cpp/aspose.font/ifont/convert/
 ---
 ## IFont::Convert method

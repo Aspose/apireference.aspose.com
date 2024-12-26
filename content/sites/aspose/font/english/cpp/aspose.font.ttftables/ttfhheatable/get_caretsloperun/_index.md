@@ -4,7 +4,7 @@ linktitle: get_CaretSlopeRun
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHheaTable::get_CaretSlopeRun method. Gets caret slop run in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/aspose.font.ttftables/ttfhheatable/get_caretsloperun/
 ---
 ## TtfHheaTable::get_CaretSlopeRun method

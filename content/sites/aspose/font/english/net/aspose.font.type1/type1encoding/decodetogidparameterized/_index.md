@@ -28,7 +28,7 @@ Not supported for Type1 Font type.
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * interface [IEncodingParameters](../../../aspose.font/iencodingparameters/)
 * class [Type1Encoding](../)
-* namespace [Aspose.Font.Type1](../../type1encoding/)
+* namespace [Aspose.Font.Type1](../../../aspose.font.type1/)
 * assembly [Aspose.Font](../../../)
 
 

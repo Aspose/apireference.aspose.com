@@ -18,7 +18,7 @@ public Version16Dot16 Version { get; }
 
 * class [Version16Dot16](../../../aspose.font.ttfcommon/version16dot16/)
 * class [TtfVheaTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfvheatable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

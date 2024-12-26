@@ -26,7 +26,7 @@ comparison result
 ### See Also
 
 * class [MultiLanguageString](../)
-* namespace [Aspose.Font](../../multilanguagestring/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -51,7 +51,7 @@ comparison result
 ### See Also
 
 * class [MultiLanguageString](../)
-* namespace [Aspose.Font](../../multilanguagestring/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

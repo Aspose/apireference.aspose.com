@@ -4,7 +4,7 @@ linktitle: get_MinBottomSideBearing
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfVheaTable::get_MinBottomSideBearing method. Gets MinBottomSideBearing. The minimum bottom sidebearing measurement found in the font, in FUnits in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.font.ttftables/ttfvheatable/get_minbottomsidebearing/
 ---
 ## TtfVheaTable::get_MinBottomSideBearing method

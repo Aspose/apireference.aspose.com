@@ -4,7 +4,7 @@ linktitle: GetElementType
 second_title: Aspose.Font for C++
 description: 'System::TypeInfo::GetElementType method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 2700
+weight: 3200
 url: /cpp/system/typeinfo/getelementtype/
 ---
 ## TypeInfo::GetElementType method

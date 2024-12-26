@@ -4,7 +4,7 @@ linktitle: GetAndResetCredit
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredCountService::GetAndResetCredit method. Get and Reset customer consumption credit in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.font/meteredcountservice/getandresetcredit/
 ---
 ## MeteredCountService::GetAndResetCredit method

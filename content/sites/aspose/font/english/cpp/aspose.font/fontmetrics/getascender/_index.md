@@ -4,7 +4,7 @@ linktitle: GetAscender
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontMetrics::GetAscender method. Returns ascender for specific Font size in C++.'
 type: docs
-weight: 1600
+weight: 1100
 url: /cpp/aspose.font/fontmetrics/getascender/
 ---
 ## FontMetrics::GetAscender method

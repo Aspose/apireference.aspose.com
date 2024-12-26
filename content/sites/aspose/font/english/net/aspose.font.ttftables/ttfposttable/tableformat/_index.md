@@ -18,7 +18,7 @@ public Version16Dot16 TableFormat { get; }
 
 * class [Version16Dot16](../../../aspose.font.ttfcommon/version16dot16/)
 * class [TtfPostTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfposttable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

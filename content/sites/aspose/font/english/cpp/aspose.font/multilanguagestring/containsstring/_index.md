@@ -4,7 +4,7 @@ linktitle: ContainsString
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::ContainsString method. Returns true if the string is present inside all the language strings in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font/multilanguagestring/containsstring/
 ---
 ## MultiLanguageString::ContainsString method

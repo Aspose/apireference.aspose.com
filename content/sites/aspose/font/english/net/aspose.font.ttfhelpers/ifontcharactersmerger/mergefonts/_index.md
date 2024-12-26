@@ -29,7 +29,7 @@ Merged font
 * class [TtfFont](../../../aspose.font.ttf/ttffont/)
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * interface [IFontCharactersMerger](../)
-* namespace [Aspose.Font.TtfHelpers](../../ifontcharactersmerger/)
+* namespace [Aspose.Font.TtfHelpers](../../../aspose.font.ttfhelpers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -60,7 +60,7 @@ Merged font
 
 * class [TtfFont](../../../aspose.font.ttf/ttffont/)
 * interface [IFontCharactersMerger](../)
-* namespace [Aspose.Font.TtfHelpers](../../ifontcharactersmerger/)
+* namespace [Aspose.Font.TtfHelpers](../../../aspose.font.ttfhelpers/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -89,7 +89,7 @@ Merged font
 * class [TtfFont](../../../aspose.font.ttf/ttffont/)
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * interface [IFontCharactersMerger](../)
-* namespace [Aspose.Font.TtfHelpers](../../ifontcharactersmerger/)
+* namespace [Aspose.Font.TtfHelpers](../../../aspose.font.ttfhelpers/)
 * assembly [Aspose.Font](../../../)
 
 

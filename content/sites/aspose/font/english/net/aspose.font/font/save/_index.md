@@ -25,7 +25,7 @@ Note: following Font types are supported for saving: New TTF Fonts; TTF Font sub
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -49,7 +49,7 @@ Note: following Font types are supported for saving: New TTF Fonts; TTF Font sub
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

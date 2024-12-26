@@ -17,7 +17,7 @@ public int Count { get; }
 ### See Also
 
 * class [OffsetsList](../)
-* namespace [Aspose.Font.TtfTables](../../ttflocatable.offsetslist/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

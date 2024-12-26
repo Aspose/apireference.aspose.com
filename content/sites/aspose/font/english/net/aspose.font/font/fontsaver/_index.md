@@ -18,7 +18,7 @@ public IFontSaver FontSaver { get; }
 
 * interface [IFontSaver](../../ifontsaver/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

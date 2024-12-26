@@ -4,7 +4,7 @@ linktitle: HashSet
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::HashSet class. Forward declaration of HashSet class in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.collections.generic/hashset/
 ---
 ## HashSet class
@@ -28,9 +28,9 @@ template<typename T>class HashSet : public System::Collections::Generic::BaseSet
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) | Self type. |
 | [BaseType](./basetype/) | Base type. |
 | [ThisPtr](./thisptr/) | Pointer type. |
+| [ThisType](./thistype/) | Self type. |
 ## Remarks
 
 

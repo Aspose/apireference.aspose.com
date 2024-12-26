@@ -22,7 +22,7 @@ All font definitions from TTC Font source.
 
 * class [FontDefinition](../../../aspose.font.sources/fontdefinition/)
 * class [TtcFontSource](../)
-* namespace [Aspose.Font.Ttf](../../ttcfontsource/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: get_Format
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableBase::get_Format method. Gets format identifier (version number) in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetablebase/get_format/
 ---
 ## AxisValueTableBase::get_Format method

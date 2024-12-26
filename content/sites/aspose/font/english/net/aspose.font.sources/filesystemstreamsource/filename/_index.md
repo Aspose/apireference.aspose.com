@@ -17,7 +17,7 @@ public string FileName { get; set; }
 ### See Also
 
 * class [FileSystemStreamSource](../)
-* namespace [Aspose.Font.Sources](../../filesystemstreamsource/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

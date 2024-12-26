@@ -4,7 +4,7 @@ linktitle: SortedSet
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::SortedSet class. Forward declaration of SortedSet class in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/system.collections.generic/sortedset/
 ---
 ## SortedSet class
@@ -28,9 +28,9 @@ template<typename T>class SortedSet : public System::Collections::Generic::BaseS
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) | Self type. |
 | [BaseType](./basetype/) | Vase type. |
 | [ThisPtr](./thisptr/) | Pointer type. |
+| [ThisType](./thistype/) | Self type. |
 ## Remarks
 
 

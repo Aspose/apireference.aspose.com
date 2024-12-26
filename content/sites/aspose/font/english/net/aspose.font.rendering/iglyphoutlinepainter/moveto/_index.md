@@ -22,7 +22,7 @@ public void MoveTo(MoveTo moveTo)
 
 * class [MoveTo](../../../aspose.font.renderingpath/moveto/)
 * interface [IGlyphOutlinePainter](../)
-* namespace [Aspose.Font.Rendering](../../iglyphoutlinepainter/)
+* namespace [Aspose.Font.Rendering](../../../aspose.font.rendering/)
 * assembly [Aspose.Font](../../../)
 
 

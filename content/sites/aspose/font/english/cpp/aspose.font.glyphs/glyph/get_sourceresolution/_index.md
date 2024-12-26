@@ -4,7 +4,7 @@ linktitle: get_SourceResolution
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::Glyph::get_SourceResolution method. Gets resolution of the source command set in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.font.glyphs/glyph/get_sourceresolution/
 ---
 ## Glyph::get_SourceResolution method

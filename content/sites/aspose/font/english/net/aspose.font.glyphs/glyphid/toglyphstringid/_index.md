@@ -22,7 +22,7 @@ null
 
 * class [GlyphStringId](../../glyphstringid/)
 * class [GlyphId](../)
-* namespace [Aspose.Font.Glyphs](../../glyphid/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

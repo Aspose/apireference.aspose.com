@@ -4,7 +4,7 @@ linktitle: GetAllNameRecords
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::GetAllNameRecords method. Returns all NameRecord structures from table in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/aspose.font.ttftables/ttfnametable/getallnamerecords/
 ---
 ## TtfNameTable::GetAllNameRecords method

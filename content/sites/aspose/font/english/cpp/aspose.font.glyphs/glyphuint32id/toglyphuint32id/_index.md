@@ -4,7 +4,7 @@ linktitle: ToGlyphUInt32Id
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphUInt32Id::ToGlyphUInt32Id method. Cast GlyphId to GlyphUInt32Id in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.font.glyphs/glyphuint32id/toglyphuint32id/
 ---
 ## GlyphUInt32Id::ToGlyphUInt32Id method

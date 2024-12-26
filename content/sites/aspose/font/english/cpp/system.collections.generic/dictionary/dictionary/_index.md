@@ -41,25 +41,6 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(const map_t &
 * Class [Dictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Font for C++](../../../)
-## Dictionary::Dictionary(int) constructor
-
-
-Overload which corresponds to creating pre-allocated dictionary; does no allocation, actually.
-
-```cpp
-System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(int capacity)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| capacity | int | Capacity to allocate; ignored. |
-
-## See Also
-
-* Class [Dictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Font for C++](../../../)
 ## Dictionary::Dictionary(const SharedPtr\<IDictionary\<TKey, TValue\>\>\&) constructor
 
 
@@ -94,7 +75,7 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(const SharedP
 | Parameter | Type | Description |
 | --- | --- | --- |
 | src | const SharedPtr\<IDictionary\<TKey, TValue\>\>\& | Source dictionary. |
-| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | Comparer object to use. |
+| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | [Comparer](../../comparer/) object to use. |
 
 ## See Also
 
@@ -116,12 +97,31 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(const SharedP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEqualityComparer](../../iequalitycomparer/)
+* Class [Dictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)
+## Dictionary::Dictionary(int) constructor
+
+
+Overload which corresponds to creating pre-allocated dictionary; does no allocation, actually.
+
+```cpp
+System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(int capacity)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| capacity | int | Capacity to allocate; ignored. |
+
+## See Also
+
 * Class [Dictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Font for C++](../../../)
@@ -138,7 +138,7 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(int capacity,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | capacity | int | [Dictionary](../) capacity after creation; ignored. |
-| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 

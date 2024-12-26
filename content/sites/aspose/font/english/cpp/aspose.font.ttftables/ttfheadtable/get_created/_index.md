@@ -4,7 +4,7 @@ linktitle: get_Created
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_Created method. Gets longDateTime created international date in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_created/
 ---
 ## TtfHeadTable::get_Created method

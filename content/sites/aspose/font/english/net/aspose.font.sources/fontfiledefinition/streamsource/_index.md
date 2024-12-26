@@ -18,7 +18,7 @@ public StreamSource StreamSource { get; }
 
 * class [StreamSource](../../streamsource/)
 * class [FontFileDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontfiledefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

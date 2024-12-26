@@ -17,7 +17,7 @@ public short TopSideBearing { get; }
 ### See Also
 
 * struct [LongVerMetric](../)
-* namespace [Aspose.Font.TtfTables](../../ttfvmtxtable.longvermetric/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

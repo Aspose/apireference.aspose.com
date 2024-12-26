@@ -4,7 +4,7 @@ linktitle: GetGlyphWidth
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontMetrics::GetGlyphWidth method. Returns glyph width. May be overridden by specific font encoding inheritors in C++.'
 type: docs
-weight: 2100
+weight: 1400
 url: /cpp/aspose.font/fontmetrics/getglyphwidth/
 ---
 ## FontMetrics::GetGlyphWidth method

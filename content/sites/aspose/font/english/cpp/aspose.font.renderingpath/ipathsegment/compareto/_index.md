@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Font for C++
 description: 'How to use CompareTo method of Aspose::Font::RenderingPath::IPathSegment class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font.renderingpath/ipathsegment/compareto/
 ---
 ## IPathSegment::CompareTo method

@@ -4,7 +4,7 @@ linktitle: Aspose::Font::TtfHelpers
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::TtfHelpers namespace in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.font.ttfhelpers/
 ---
 

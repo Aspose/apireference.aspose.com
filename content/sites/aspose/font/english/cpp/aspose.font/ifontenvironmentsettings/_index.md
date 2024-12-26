@@ -4,7 +4,7 @@ linktitle: IFontEnvironmentSettings
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontEnvironmentSettings class. Represents functionality related to settings which are common for all the Fonts, created by Aspose.Font library at current session in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.font/ifontenvironmentsettings/
 ---
 ## IFontEnvironmentSettings class

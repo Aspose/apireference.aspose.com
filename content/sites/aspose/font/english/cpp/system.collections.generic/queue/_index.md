@@ -4,7 +4,7 @@ linktitle: Queue
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::Queue class. Queue class forward declaration in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/system.collections.generic/queue/
 ---
 ## Queue class
@@ -47,10 +47,10 @@ template<typename T>class Queue : public System::Collections::Generic::IEnumerab
 
 | Typedef | Description |
 | --- | --- |
-| [ValueType](./valuetype/) | This type. |
-| [queue_t](./queue_t/) | RTTI information. |
 | [IEnumerablePtr](./ienumerableptr/) | Container of same type elements. |
 | [IEnumeratorPtr](./ienumeratorptr/) | [Enumerator](./enumerator/) type. |
+| [queue_t](./queue_t/) | RTTI information. |
+| [ValueType](./valuetype/) | This type. |
 ## Remarks
 
 

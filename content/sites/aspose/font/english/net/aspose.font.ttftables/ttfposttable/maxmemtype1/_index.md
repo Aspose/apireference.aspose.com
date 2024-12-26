@@ -17,7 +17,7 @@ public uint MaxMemType1 { get; }
 ### See Also
 
 * class [TtfPostTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfposttable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

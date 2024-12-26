@@ -4,7 +4,7 @@ linktitle: get_XMin
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontBBox::get_XMin method. Gets XMin value in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font/fontbbox/get_xmin/
 ---
 ## FontBBox::get_XMin method

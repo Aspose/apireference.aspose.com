@@ -21,7 +21,7 @@ public double this[int index] { get; }
 ### See Also
 
 * class [TransformationMatrix](../)
-* namespace [Aspose.Font](../../transformationmatrix/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

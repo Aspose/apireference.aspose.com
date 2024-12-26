@@ -18,7 +18,7 @@ public Version16Dot16 TableVersion { get; }
 
 * class [Version16Dot16](../../../aspose.font.ttfcommon/version16dot16/)
 * class [TtfMaxpTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfmaxptable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

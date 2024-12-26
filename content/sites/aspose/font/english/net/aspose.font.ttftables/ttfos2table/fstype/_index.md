@@ -21,7 +21,7 @@ Indicates font embedding licensing rights for the Font.
 ### See Also
 
 * class [TtfOs2Table](../)
-* namespace [Aspose.Font.TtfTables](../../ttfos2table/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

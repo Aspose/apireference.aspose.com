@@ -18,7 +18,7 @@ public virtual MultiLanguageString FontNames { get; }
 
 * class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
 * class [FontDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontdefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

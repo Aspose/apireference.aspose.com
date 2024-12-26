@@ -4,7 +4,7 @@ linktitle: get_A
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::get_A method. Gets A transformation matrix value in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font/transformationmatrix/get_a/
 ---
 ## TransformationMatrix::get_A method

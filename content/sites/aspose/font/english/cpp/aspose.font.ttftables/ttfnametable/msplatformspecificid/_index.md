@@ -4,7 +4,7 @@ linktitle: MSPlatformSpecificId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::MSPlatformSpecificId enum. Represents Microsoft platform PlatformSpecificId enumeration in C++.'
 type: docs
-weight: 1700
+weight: 1500
 url: /cpp/aspose.font.ttftables/ttfnametable/msplatformspecificid/
 ---
 ## MSPlatformSpecificId enum

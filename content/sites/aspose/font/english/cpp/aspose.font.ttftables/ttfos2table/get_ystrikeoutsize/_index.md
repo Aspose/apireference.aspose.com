@@ -4,7 +4,7 @@ linktitle: get_YStrikeoutSize
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_YStrikeoutSize method. Gets YStrikeoutSize value in C++.'
 type: docs
-weight: 1600
+weight: 2900
 url: /cpp/aspose.font.ttftables/ttfos2table/get_ystrikeoutsize/
 ---
 ## TtfOs2Table::get_YStrikeoutSize method

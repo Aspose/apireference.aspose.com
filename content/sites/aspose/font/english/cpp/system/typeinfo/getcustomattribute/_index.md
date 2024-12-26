@@ -4,7 +4,7 @@ linktitle: GetCustomAttribute
 second_title: Aspose.Font for C++
 description: 'System::TypeInfo::GetCustomAttribute method. Searches for the custom attribute applied having the specified type and applied to the type reprsented by the current object in C++.'
 type: docs
-weight: 4200
+weight: 3000
 url: /cpp/system/typeinfo/getcustomattribute/
 ---
 ## TypeInfo::GetCustomAttribute method

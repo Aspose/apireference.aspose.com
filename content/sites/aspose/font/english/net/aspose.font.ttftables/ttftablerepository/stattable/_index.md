@@ -18,7 +18,7 @@ public TtfStatTable StatTable { get; }
 
 * class [TtfStatTable](../../ttfstattable/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

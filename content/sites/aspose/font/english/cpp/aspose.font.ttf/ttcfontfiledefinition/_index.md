@@ -4,7 +4,7 @@ linktitle: TtcFontFileDefinition
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtcFontFileDefinition class. Represents file definition for TTC Font in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.font.ttf/ttcfontfiledefinition/
 ---
 ## TtcFontFileDefinition class

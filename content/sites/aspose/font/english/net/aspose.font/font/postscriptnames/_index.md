@@ -18,7 +18,7 @@ public abstract MultiLanguageString PostscriptNames { get; }
 
 * class [MultiLanguageString](../../multilanguagestring/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

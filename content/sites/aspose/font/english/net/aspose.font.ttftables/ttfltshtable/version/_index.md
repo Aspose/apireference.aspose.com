@@ -17,7 +17,7 @@ public ushort Version { get; }
 ### See Also
 
 * class [TtfLtshTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfltshtable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

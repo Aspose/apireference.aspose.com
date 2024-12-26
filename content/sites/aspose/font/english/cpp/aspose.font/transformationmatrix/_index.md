@@ -4,7 +4,7 @@ linktitle: TransformationMatrix
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix class. Represents 3x3 transformation matrix | A B 0 | | C D 0 | | TX TY 1 | in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/aspose.font/transformationmatrix/
 ---
 ## TransformationMatrix class

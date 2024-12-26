@@ -4,7 +4,7 @@ linktitle: IFontSubset
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontSubset class. Represents font subset interface in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.font/ifontsubset/
 ---
 ## IFontSubset class

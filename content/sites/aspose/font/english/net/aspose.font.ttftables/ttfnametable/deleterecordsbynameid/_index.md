@@ -22,7 +22,7 @@ public void DeleteRecordsByNameId(NameId nameId)
 
 * enum [NameId](../../ttfnametable.nameid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

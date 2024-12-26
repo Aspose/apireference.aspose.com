@@ -18,7 +18,7 @@ public override MultiLanguageString FontNames { get; }
 
 * class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -25,7 +25,7 @@ Name from string INDEX if found.
 ### See Also
 
 * class [CffEncoding](../)
-* namespace [Aspose.Font.Cff](../../cffencoding/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: get_ValueNameId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableBase::get_ValueNameId method. Gets the name ID for entries in the ''name'' table that provide a display string for this attribute value in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetablebase/get_valuenameid/
 ---
 ## AxisValueTableBase::get_ValueNameId method

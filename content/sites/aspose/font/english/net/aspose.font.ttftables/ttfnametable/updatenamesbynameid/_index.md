@@ -23,7 +23,7 @@ public void UpdateNamesByNameId(NameId nameId, string newName)
 
 * enum [NameId](../../ttfnametable.nameid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: get_OriginalFont
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontSubset::get_OriginalFont method. Gets original font of the Font subset in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font/ifontsubset/get_originalfont/
 ---
 ## IFontSubset::get_OriginalFont method

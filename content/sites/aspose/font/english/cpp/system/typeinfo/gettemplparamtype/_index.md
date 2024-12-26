@@ -4,7 +4,7 @@ linktitle: GetTemplParamType
 second_title: Aspose.Font for C++
 description: 'System::TypeInfo::GetTemplParamType method. Gets template parameter type descritor in C++.'
 type: docs
-weight: 4700
+weight: 4100
 url: /cpp/system/typeinfo/gettemplparamtype/
 ---
 ## TypeInfo::GetTemplParamType method

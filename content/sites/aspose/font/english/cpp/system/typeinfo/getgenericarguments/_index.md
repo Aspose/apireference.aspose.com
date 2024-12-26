@@ -4,7 +4,7 @@ linktitle: GetGenericArguments
 second_title: Aspose.Font for C++
 description: 'System::TypeInfo::GetGenericArguments method. Gets an array of the generic type arguments for this type in C++.'
 type: docs
-weight: 2500
+weight: 3500
 url: /cpp/system/typeinfo/getgenericarguments/
 ---
 ## TypeInfo::GetGenericArguments method

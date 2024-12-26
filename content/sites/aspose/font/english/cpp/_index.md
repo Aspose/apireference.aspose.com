@@ -27,7 +27,6 @@ is_root: true
 | [Aspose::Font::Sources](./aspose.font.sources/) |  |
 | [Aspose::Font::TextUtils](./aspose.font.textutils/) |  |
 | [Aspose::Font::Ttf](./aspose.font.ttf/) |  |
-| [Aspose::Font::Ttf::Utils](./aspose.font.ttf.utils/) |  |
 | [Aspose::Font::TtfCMapFormats](./aspose.font.ttfcmapformats/) |  |
 | [Aspose::Font::TtfCommon](./aspose.font.ttfcommon/) |  |
 | [Aspose::Font::TtfHelpers](./aspose.font.ttfhelpers/) |  |

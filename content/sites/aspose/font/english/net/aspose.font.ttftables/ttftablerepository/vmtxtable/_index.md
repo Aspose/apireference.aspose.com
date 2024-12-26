@@ -18,7 +18,7 @@ public TtfVmtxTable VmtxTable { get; }
 
 * class [TtfVmtxTable](../../ttfvmtxtable/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: DecodeToGid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontEncoding::DecodeToGid method. Decodes a character code and returns glyph id. Glyph id is a unique number for a glyph, which is font type dependent. For example: Type1''s id is a glyph name, instance of (GlyphStringId) class. TTF''s id is an int index, instance of (GlyphUInt32Id) class. Note: character code is not necessary a unicode. Character code is a char index in Font encoding "table" in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font/ifontencoding/decodetogid/
 ---
 ## IFontEncoding::DecodeToGid method

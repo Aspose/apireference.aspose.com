@@ -17,7 +17,7 @@ public double X { get; }
 ### See Also
 
 * class [LineTo](../)
-* namespace [Aspose.Font.RenderingPath](../../lineto/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

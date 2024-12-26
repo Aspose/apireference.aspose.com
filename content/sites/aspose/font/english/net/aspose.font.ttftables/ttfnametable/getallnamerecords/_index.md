@@ -22,7 +22,7 @@ Array of [`NameRecord`](../../ttfnametable.namerecord/) structures
 
 * class [NameRecord](../../ttfnametable.namerecord/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

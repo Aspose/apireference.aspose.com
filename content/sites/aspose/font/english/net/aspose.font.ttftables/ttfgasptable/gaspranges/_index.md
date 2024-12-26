@@ -18,7 +18,7 @@ public List<GaspRange> GaspRanges { get; }
 
 * struct [GaspRange](../../ttfgasptable.gasprange/)
 * class [TtfGaspTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfgasptable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

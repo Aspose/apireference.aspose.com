@@ -17,7 +17,7 @@ public static string Tag { get; }
 ### See Also
 
 * class [TtfHheaTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfhheatable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

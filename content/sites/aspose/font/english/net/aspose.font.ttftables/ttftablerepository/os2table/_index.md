@@ -18,7 +18,7 @@ public TtfOs2Table Os2Table { get; }
 
 * class [TtfOs2Table](../../ttfos2table/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -28,7 +28,7 @@ public void AddMultiLanguageNames(MultiLanguageString mlNames, PlatformId platfo
 * enum [PlatformId](../../ttfnametable.platformid/)
 * enum [NameId](../../ttfnametable.nameid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

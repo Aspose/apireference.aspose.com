@@ -4,7 +4,7 @@ linktitle: get_IsFixedPitch
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfPostTable::get_IsFixedPitch method. Gets uint32 isFixedPitch. 0 if the font is proportionally spaced, non-zero if the font is not proportionally spaced (i.e. monospaced) in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfposttable/get_isfixedpitch/
 ---
 ## TtfPostTable::get_IsFixedPitch method

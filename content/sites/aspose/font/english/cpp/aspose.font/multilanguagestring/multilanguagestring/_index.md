@@ -4,7 +4,7 @@ linktitle: MultiLanguageString
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::MultiLanguageString constructor. Creates empty multi language string in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font/multilanguagestring/multilanguagestring/
 ---
 ## MultiLanguageString::MultiLanguageString constructor

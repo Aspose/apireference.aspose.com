@@ -4,7 +4,7 @@ linktitle: set_Ascender
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::set_Ascender method. Gets ascender value of the Font in font units in C++.'
 type: docs
-weight: 700
+weight: 2000
 url: /cpp/aspose.font/ifontmetrics/set_ascender/
 ---
 ## IFontMetrics::set_Ascender method

@@ -4,7 +4,7 @@ linktitle: get_XAvgCharWidth
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_XAvgCharWidth method. Gets the Average Character Width parameter in C++.'
 type: docs
-weight: 400
+weight: 2700
 url: /cpp/aspose.font.ttftables/ttfos2table/get_xavgcharwidth/
 ---
 ## TtfOs2Table::get_XAvgCharWidth method

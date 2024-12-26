@@ -4,7 +4,7 @@ linktitle: AddName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::AddName method. Adds entry into the table. String data category to add is specified by name  parameter in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfnametable/addname/
 ---
 ## TtfNameTable::AddName method

@@ -4,7 +4,7 @@ linktitle: get_Metrics
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::get_Metrics method. Gets Font metrics in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.font/ifont/get_metrics/
 ---
 ## IFont::get_Metrics method

@@ -25,7 +25,7 @@ glyph index
 ### See Also
 
 * class [TtfCMapFormatBaseTable](../)
-* namespace [Aspose.Font.TtfCMapFormats](../../ttfcmapformatbasetable/)
+* namespace [Aspose.Font.TtfCMapFormats](../../../aspose.font.ttfcmapformats/)
 * assembly [Aspose.Font](../../../)
 
 

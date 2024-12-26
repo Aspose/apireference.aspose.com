@@ -4,7 +4,7 @@ linktitle: GetAllStrings
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MultiLanguageString::GetAllStrings method. Returns all strings of all languages in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.font/multilanguagestring/getallstrings/
 ---
 ## MultiLanguageString::GetAllStrings method

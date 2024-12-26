@@ -4,7 +4,7 @@ linktitle: get_GaspTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_GaspTable method. Gets gasp table in C++.'
 type: docs
-weight: 1800
+weight: 500
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_gasptable/
 ---
 ## TtfTableRepository::get_GaspTable method

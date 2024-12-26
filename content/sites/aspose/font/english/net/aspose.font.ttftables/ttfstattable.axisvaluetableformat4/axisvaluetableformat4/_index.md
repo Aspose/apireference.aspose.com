@@ -24,7 +24,7 @@ public AxisValueTableFormat4(ushort flags, ushort valueNameId, AxisValue[] axisV
 
 * class [AxisValue](../../ttfstattable.axisvalue/)
 * class [AxisValueTableFormat4](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvaluetableformat4/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

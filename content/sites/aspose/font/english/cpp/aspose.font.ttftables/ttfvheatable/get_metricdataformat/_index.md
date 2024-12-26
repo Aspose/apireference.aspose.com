@@ -4,7 +4,7 @@ linktitle: get_MetricDataFormat
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfVheaTable::get_MetricDataFormat method. Gets MetricDataFormat in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/aspose.font.ttftables/ttfvheatable/get_metricdataformat/
 ---
 ## TtfVheaTable::get_MetricDataFormat method

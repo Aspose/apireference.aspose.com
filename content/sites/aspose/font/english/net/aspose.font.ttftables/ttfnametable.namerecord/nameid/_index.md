@@ -17,7 +17,7 @@ public ushort NameId { get; }
 ### See Also
 
 * class [NameRecord](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable.namerecord/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

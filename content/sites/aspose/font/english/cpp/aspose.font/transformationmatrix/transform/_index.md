@@ -4,7 +4,7 @@ linktitle: Transform
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::Transform method. Transforms x and y with the transformation matrix: x1 = A*x + C*y + TX; y1 = B*x + D*y + TY in C++.'
 type: docs
-weight: 1400
+weight: 1800
 url: /cpp/aspose.font/transformationmatrix/transform/
 ---
 ## TransformationMatrix::Transform method

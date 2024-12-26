@@ -4,7 +4,7 @@ linktitle: get_Instance
 second_title: Aspose.Font for C++
 description: 'How to use get_Instance method of Aspose::Font::MeteredBillingService class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font/meteredbillingservice/get_instance/
 ---
 ## MeteredBillingService::get_Instance method

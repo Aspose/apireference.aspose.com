@@ -21,6 +21,26 @@ System::Collections::Generic::SortedList<TKey, TValue>::SortedList()
 * Class [SortedList](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Font for C++](../../../)
+## SortedList::SortedList(const map_t\&) constructor
+
+
+Copy constructor.
+
+```cpp
+System::Collections::Generic::SortedList<TKey, TValue>::SortedList(const map_t &map)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| map | const map_t\& | Map tp copy data from. |
+
+## See Also
+
+* Typedef [map_t](../map_t/)
+* Class [SortedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Font for C++](../../../)
 ## SortedList::SortedList(const SharedPtr\<IComparer\<TKey\>\>\&) constructor
 
 
@@ -33,7 +53,7 @@ System::Collections::Generic::SortedList<TKey, TValue>::SortedList(const SharedP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| comparer | const SharedPtr\<IComparer\<TKey\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IComparer\<TKey\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 
@@ -60,26 +80,6 @@ System::Collections::Generic::SortedList<TKey, TValue>::SortedList(const SharedP
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDictionary](../../idictionary/)
-* Class [SortedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Font for C++](../../../)
-## SortedList::SortedList(const map_t\&) constructor
-
-
-Copy constructor.
-
-```cpp
-System::Collections::Generic::SortedList<TKey, TValue>::SortedList(const map_t &map)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| map | const map_t\& | Map tp copy data from. |
-
-## See Also
-
-* Typedef [map_t](../map_t/)
 * Class [SortedList](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Font for C++](../../../)

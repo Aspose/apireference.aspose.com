@@ -4,7 +4,7 @@ linktitle: get_PlatformSpecificId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::NameRecord::get_PlatformSpecificId method. Platform-specific encoding identifier in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.font.ttftables/ttfnametable/namerecord/get_platformspecificid/
 ---
 ## NameRecord::get_PlatformSpecificId method

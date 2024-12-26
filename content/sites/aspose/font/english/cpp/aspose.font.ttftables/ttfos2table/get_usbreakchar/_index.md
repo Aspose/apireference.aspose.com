@@ -4,7 +4,7 @@ linktitle: get_USBreakChar
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_USBreakChar method. Gets USBreakChar value in C++.'
 type: docs
-weight: 3400
+weight: 1500
 url: /cpp/aspose.font.ttftables/ttfos2table/get_usbreakchar/
 ---
 ## TtfOs2Table::get_USBreakChar method

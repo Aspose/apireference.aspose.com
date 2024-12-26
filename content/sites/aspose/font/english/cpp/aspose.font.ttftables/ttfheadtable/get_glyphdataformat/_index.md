@@ -4,7 +4,7 @@ linktitle: get_GlyphDataFormat
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_GlyphDataFormat method. Gets int16 glyphDataFormat 0 for current format in C++.'
 type: docs
-weight: 1800
+weight: 700
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_glyphdataformat/
 ---
 ## TtfHeadTable::get_GlyphDataFormat method

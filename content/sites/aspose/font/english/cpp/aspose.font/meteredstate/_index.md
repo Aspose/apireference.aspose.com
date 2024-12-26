@@ -4,7 +4,7 @@ linktitle: MeteredState
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredState enum. Represents possible metered states in C++.'
 type: docs
-weight: 3200
+weight: 3600
 url: /cpp/aspose.font/meteredstate/
 ---
 ## MeteredState enum

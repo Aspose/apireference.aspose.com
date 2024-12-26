@@ -22,7 +22,7 @@ Type1, TrueType etc
 
 * enum [FontType](../../fonttype/)
 * interface [IFont](../)
-* namespace [Aspose.Font](../../ifont/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: TtfEncodingParameters
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfEncodingParameters::TtfEncodingParameters constructor. Initializes new instance of TtfEncodingParameters class. Takes Platform Id, Platform-specific encoding id as parameters. These parameters used to request special CMap subtable from main font CMap table, see table ''CMap'', ''name'' in OpenType Font File specification in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.font.ttf/ttfencodingparameters/ttfencodingparameters/
 ---
 ## TtfEncodingParameters::TtfEncodingParameters constructor

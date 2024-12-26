@@ -4,7 +4,7 @@ linktitle: get_HheaTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_HheaTable method. Gets hhea table in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_hheatable/
 ---
 ## TtfTableRepository::get_HheaTable method

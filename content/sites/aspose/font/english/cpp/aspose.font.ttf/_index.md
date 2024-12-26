@@ -15,7 +15,6 @@ url: /cpp/aspose.font.ttf/
 | Class | Description |
 | --- | --- |
 | [LicenseFlags](./licenseflags/) | Represents a helper wrapper for an embedding flags from 'OS/2' table (field fsType). |
-| [PCLFontDefinition](./pclfontdefinition/) | [Font](../aspose.font/font/) file set definition. |
 | [TtcFontFileDefinition](./ttcfontfiledefinition/) | Represents file definition for TTC [Font](../aspose.font/font/). |
 | [TtcFontSource](./ttcfontsource/) | Represents TTC [Font](../aspose.font/font/) source. |
 | [TtfEncoding](./ttfencoding/) | Represents TTF [Font](../aspose.font/font/) encoding. |

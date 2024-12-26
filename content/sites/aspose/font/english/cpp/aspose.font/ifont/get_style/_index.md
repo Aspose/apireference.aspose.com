@@ -4,7 +4,7 @@ linktitle: get_Style
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::get_Style method. Gets or Sets Font style. This is a raw string value provided by Font file in C++.'
 type: docs
-weight: 200
+weight: 1400
 url: /cpp/aspose.font/ifont/get_style/
 ---
 ## IFont::get_Style method

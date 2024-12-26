@@ -4,7 +4,7 @@ linktitle: get_MaxInstructionDefs
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfMaxpTable::get_MaxInstructionDefs method. Gets uint16 maxInstructionDefs number of IDEFs in C++.'
 type: docs
-weight: 1300
+weight: 800
 url: /cpp/aspose.font.ttftables/ttfmaxptable/get_maxinstructiondefs/
 ---
 ## TtfMaxpTable::get_MaxInstructionDefs method

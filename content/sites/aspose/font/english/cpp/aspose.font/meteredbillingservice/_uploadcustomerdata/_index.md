@@ -4,7 +4,7 @@ linktitle: _UploadCustomerData
 second_title: Aspose.Font for C++
 description: 'How to use _UploadCustomerData method of Aspose::Font::MeteredBillingService class in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/aspose.font/meteredbillingservice/_uploadcustomerdata/
 ---
 ## MeteredBillingService::_UploadCustomerData method

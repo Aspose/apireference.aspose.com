@@ -4,7 +4,7 @@ linktitle: AddAxisValueTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AddAxisValueTable method. Adds an Axis Value Table structure to the table in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfstattable/addaxisvaluetable/
 ---
 ## TtfStatTable::AddAxisValueTable method

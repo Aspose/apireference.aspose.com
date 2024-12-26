@@ -4,7 +4,7 @@ linktitle: get_NumGlyphs
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::get_NumGlyphs method. Gets number of glyphs in the Font in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.font/ifont/get_numglyphs/
 ---
 ## IFont::get_NumGlyphs method

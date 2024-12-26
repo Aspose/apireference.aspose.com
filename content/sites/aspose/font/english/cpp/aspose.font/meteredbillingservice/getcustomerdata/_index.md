@@ -4,7 +4,7 @@ linktitle: GetCustomerData
 second_title: Aspose.Font for C++
 description: 'How to use GetCustomerData method of Aspose::Font::MeteredBillingService class in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.font/meteredbillingservice/getcustomerdata/
 ---
 ## MeteredBillingService::GetCustomerData method

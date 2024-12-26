@@ -4,7 +4,7 @@ linktitle: get_FontSaver
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont::get_FontSaver method. Gets Font save functionality in C++.'
 type: docs
-weight: 1600
+weight: 700
 url: /cpp/aspose.font/ifont/get_fontsaver/
 ---
 ## IFont::get_FontSaver method

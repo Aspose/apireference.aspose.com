@@ -17,7 +17,7 @@ public override double Descender { get; set; }
 ### See Also
 
 * class [TtfFontMetrics](../)
-* namespace [Aspose.Font.Ttf](../../ttffontmetrics/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

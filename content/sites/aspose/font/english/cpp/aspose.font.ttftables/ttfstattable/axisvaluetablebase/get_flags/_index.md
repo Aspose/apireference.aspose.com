@@ -4,7 +4,7 @@ linktitle: get_Flags
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableBase::get_Flags method. Gets axis value table flags field in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetablebase/get_flags/
 ---
 ## AxisValueTableBase::get_Flags method

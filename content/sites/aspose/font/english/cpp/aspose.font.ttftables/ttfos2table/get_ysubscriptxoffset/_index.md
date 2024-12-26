@@ -4,7 +4,7 @@ linktitle: get_YSubscriptXOffset
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_YSubscriptXOffset method. Gets YSubscriptXOffset value in C++.'
 type: docs
-weight: 1000
+weight: 3000
 url: /cpp/aspose.font.ttftables/ttfos2table/get_ysubscriptxoffset/
 ---
 ## TtfOs2Table::get_YSubscriptXOffset method

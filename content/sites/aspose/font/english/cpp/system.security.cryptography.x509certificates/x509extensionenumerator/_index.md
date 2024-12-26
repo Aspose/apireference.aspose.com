@@ -25,8 +25,8 @@ class X509ExtensionEnumerator : public System::Collections::Generic::SimpleEnume
 
 | Typedef | Description |
 | --- | --- |
-| [ThisType](./thistype/) | This type. |
 | [BaseType](./basetype/) | Parent type. |
+| [ThisType](./thistype/) | This type. |
 ## See Also
 
 * Class [SimpleEnumerator](../../system.collections.generic/simpleenumerator/)

@@ -4,7 +4,7 @@ linktitle: GetSidName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffEncoding::GetSidName method. Gets name for the SID specified in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.font.cff/cffencoding/getsidname/
 ---
 ## CffEncoding::GetSidName method

@@ -4,7 +4,7 @@ linktitle: set_D
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::set_D method. Sets D transformation matrix value in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/aspose.font/transformationmatrix/set_d/
 ---
 ## TransformationMatrix::set_D method

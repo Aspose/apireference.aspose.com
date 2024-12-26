@@ -4,7 +4,7 @@ linktitle: PlatformId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::PlatformId enum. Represents PlatformId enumeration in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/aspose.font.ttftables/ttfnametable/platformid/
 ---
 ## PlatformId enum

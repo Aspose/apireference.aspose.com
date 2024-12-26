@@ -4,7 +4,7 @@ linktitle: set_TypoAscender
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFontMetrics::set_TypoAscender method. Gets TypoAscender value in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/aspose.font.ttf/ttffontmetrics/set_typoascender/
 ---
 ## TtfFontMetrics::set_TypoAscender method

@@ -4,7 +4,7 @@ linktitle: set_B
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::set_B method. Sets B transformation matrix value in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/aspose.font/transformationmatrix/set_b/
 ---
 ## TransformationMatrix::set_B method

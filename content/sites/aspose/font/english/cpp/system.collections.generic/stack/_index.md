@@ -4,7 +4,7 @@ linktitle: Stack
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::Stack class. Stack class forward declaration in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/system.collections.generic/stack/
 ---
 ## Stack class
@@ -49,10 +49,10 @@ template<typename T>class Stack : public System::Collections::Generic::IEnumerab
 
 | Typedef | Description |
 | --- | --- |
-| [ValueType](./valuetype/) | Value type. |
-| [stack_t](./stack_t/) | RTTI information. |
 | [IEnumerablePtr](./ienumerableptr/) | Collection containing elements of same type. |
 | [IEnumeratorPtr](./ienumeratorptr/) | [Enumerator](./enumerator/) type. |
+| [stack_t](./stack_t/) | RTTI information. |
+| [ValueType](./valuetype/) | Value type. |
 ## Remarks
 
 

@@ -4,7 +4,7 @@ linktitle: LinkedList
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::LinkedList class. LinkedList forward declaration in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system.collections.generic/linkedlist/
 ---
 ## LinkedList class
@@ -73,11 +73,11 @@ template<typename T>class LinkedList : public virtual System::Object,
 
 | Typedef | Description |
 | --- | --- |
-| [list_t](./list_t/) | Underlying data type. |
-| [iterator](./iterator/) | Iterator type. |
 | [const_iterator](./const_iterator/) | Const iterator type. |
-| [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
 | [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
+| [iterator](./iterator/) | Iterator type. |
+| [list_t](./list_t/) | Underlying data type. |
+| [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
 ## Remarks
 
 

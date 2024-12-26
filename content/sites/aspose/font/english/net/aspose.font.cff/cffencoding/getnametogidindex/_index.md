@@ -22,7 +22,7 @@ Name to character code encoding map.
 
 * class [NameToCodeMap](../../../aspose.font/nametocodemap/)
 * class [CffEncoding](../)
-* namespace [Aspose.Font.Cff](../../cffencoding/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

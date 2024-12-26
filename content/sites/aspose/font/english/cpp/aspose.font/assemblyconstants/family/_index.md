@@ -4,7 +4,7 @@ linktitle: Family
 second_title: Aspose.Font for C++
 description: 'How to use Family field of Aspose::Font::AssemblyConstants class in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.font/assemblyconstants/family/
 ---
 ## Family field

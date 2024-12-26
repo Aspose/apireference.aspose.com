@@ -4,7 +4,7 @@ linktitle: TtcFontSource
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtcFontSource class. Represents TTC Font source in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font.ttf/ttcfontsource/
 ---
 ## TtcFontSource class

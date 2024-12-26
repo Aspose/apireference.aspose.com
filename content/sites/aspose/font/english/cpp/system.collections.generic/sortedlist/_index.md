@@ -4,7 +4,7 @@ linktitle: SortedList
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::SortedList class. Sorted list wrapping FlatMap structure. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/system.collections.generic/sortedlist/
 ---
 ## SortedList class
@@ -52,18 +52,18 @@ template<typename TKey,typename TValue>class SortedList : public System::Collect
 
 | Typedef | Description |
 | --- | --- |
-| [KeyCollection](./keycollection/) | Key collection type. |
-| [ValueCollection](./valuecollection/) | Value collection type. |
-| [map_t](./map_t/) | Underlying data type. |
-| [this_t](./this_t/) | This type. |
-| [Ptr](./ptr/) | Pointer type. |
-| [KVPair](./kvpair/) | Key value pair type. |
+| [const_iterator](./const_iterator/) | Const iterator type. |
+| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
 | [IEnumerablePtr](./ienumerableptr/) | Collection of same pairs type. |
 | [IEnumeratorPtr](./ienumeratorptr/) | [Enumerator](./enumerator/) type. |
 | [iterator](./iterator/) | Iterator type. |
-| [const_iterator](./const_iterator/) | Const iterator type. |
+| [KeyCollection](./keycollection/) | Key collection type. |
+| [KVPair](./kvpair/) | Key value pair type. |
+| [map_t](./map_t/) | Underlying data type. |
+| [Ptr](./ptr/) | Pointer type. |
 | [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
-| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
+| [this_t](./this_t/) | This type. |
+| [ValueCollection](./valuecollection/) | Value collection type. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: Shift
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::MoveTo::Shift method. Performs shift by x and y coordinates in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.font.renderingpath/moveto/shift/
 ---
 ## MoveTo::Shift method

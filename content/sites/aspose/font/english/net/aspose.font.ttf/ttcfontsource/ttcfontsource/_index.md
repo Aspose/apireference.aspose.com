@@ -22,7 +22,7 @@ public TtcFontSource(StreamSource source)
 
 * class [StreamSource](../../../aspose.font.sources/streamsource/)
 * class [TtcFontSource](../)
-* namespace [Aspose.Font.Ttf](../../ttcfontsource/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -42,7 +42,7 @@ public TtcFontSource(string filePath)
 ### See Also
 
 * class [TtcFontSource](../)
-* namespace [Aspose.Font.Ttf](../../ttcfontsource/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

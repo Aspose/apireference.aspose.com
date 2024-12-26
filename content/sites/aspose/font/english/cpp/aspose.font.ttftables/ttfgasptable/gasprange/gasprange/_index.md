@@ -4,7 +4,7 @@ linktitle: GaspRange
 second_title: Aspose.Font for C++
 description: 'How to use GaspRange constructor of Aspose::Font::TtfTables::TtfGaspTable::GaspRange class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfgasptable/gasprange/gasprange/
 ---
 ## GaspRange::GaspRange constructor

@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphUInt32Id::set_Value method. Sets int value of the ID in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.font.glyphs/glyphuint32id/set_value/
 ---
 ## GlyphUInt32Id::set_Value method

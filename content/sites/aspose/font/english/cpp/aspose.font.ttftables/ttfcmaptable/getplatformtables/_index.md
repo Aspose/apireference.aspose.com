@@ -4,7 +4,7 @@ linktitle: GetPlatformTables
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfCMapTable::GetPlatformTables method. Returns CMap subtables for planformId and platformSpecificId in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfcmaptable/getplatformtables/
 ---
 ## TtfCMapTable::GetPlatformTables method

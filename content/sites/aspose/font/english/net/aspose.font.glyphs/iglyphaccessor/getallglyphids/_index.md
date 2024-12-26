@@ -22,7 +22,7 @@ Glyph identifiers.
 
 * class [GlyphId](../../glyphid/)
 * interface [IGlyphAccessor](../)
-* namespace [Aspose.Font.Glyphs](../../iglyphaccessor/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: ClearAxisRecords
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::ClearAxisRecords method. Removes all axis records from the table in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfstattable/clearaxisrecords/
 ---
 ## TtfStatTable::ClearAxisRecords method

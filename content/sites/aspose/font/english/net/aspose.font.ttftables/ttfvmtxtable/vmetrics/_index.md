@@ -18,7 +18,7 @@ public LongVerMetric[] VMetrics { get; }
 
 * struct [LongVerMetric](../../ttfvmtxtable.longvermetric/)
 * class [TtfVmtxTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfvmtxtable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

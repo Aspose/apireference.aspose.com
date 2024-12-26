@@ -4,7 +4,7 @@ linktitle: get_MinRightSideBearing
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHheaTable::get_MinRightSideBearing method. Gets the MinRightSideBearing value in C++.'
 type: docs
-weight: 500
+weight: 1100
 url: /cpp/aspose.font.ttftables/ttfhheatable/get_minrightsidebearing/
 ---
 ## TtfHheaTable::get_MinRightSideBearing method

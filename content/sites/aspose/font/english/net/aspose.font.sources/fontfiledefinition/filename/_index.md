@@ -17,7 +17,7 @@ public string FileName { get; }
 ### See Also
 
 * class [FontFileDefinition](../)
-* namespace [Aspose.Font.Sources](../../fontfiledefinition/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

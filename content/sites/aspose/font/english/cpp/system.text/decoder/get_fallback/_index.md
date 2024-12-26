@@ -4,7 +4,7 @@ linktitle: get_Fallback
 second_title: Aspose.Font for C++
 description: 'System::Text::Decoder::get_Fallback method. Gets error handling fallback in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.text/decoder/get_fallback/
 ---
 ## Decoder::get_Fallback method

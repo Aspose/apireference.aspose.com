@@ -38,7 +38,6 @@ class CffFont : public Aspose::Font::Font
 | [GetGlyphById](./getglyphbyid/)(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) override | Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. CFF [Font](../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class. |
 | [GetGlyphById](./getglyphbyid/)(System::String) | Returns glyph by glyph name. |
 | [GetGlyphById](./getglyphbyid/)(uint32_t) | Returns glyph by glyph id. |
-| [GetGlyphIndexByGlyphName](./getglyphindexbyglyphname/)(System::String) | Converts string id to int id. |
 | [set_FontFamily](./set_fontfamily/)(System::String) override | Gets [Font](../../aspose.font/font/) family. The [Font](../../aspose.font/font/) family setter is not implemented yet. |
 | [set_FontName](./set_fontname/)(System::String) override | Gets [Font](../../aspose.font/font/) face name. The [Font](../../aspose.font/font/) face name setter is not implemented yet. |
 | [set_Style](./set_style/)(System::String) override | Gets [Font](../../aspose.font/font/) style. This is a raw string value provided by [Font](../../aspose.font/font/) file. The Style setter is not implemented yet. |

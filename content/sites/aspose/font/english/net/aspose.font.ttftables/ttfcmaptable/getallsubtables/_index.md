@@ -22,7 +22,7 @@ array of [`TtfCMapSubtableDescription`](../../ttfcmaptable.ttfcmapsubtabledescri
 
 * class [TtfCMapSubtableDescription](../../ttfcmaptable.ttfcmapsubtabledescription/)
 * class [TtfCMapTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfcmaptable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

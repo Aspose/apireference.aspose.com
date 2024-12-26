@@ -4,7 +4,7 @@ linktitle: get_FontType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFont::get_FontType method. Gets Font type. Returns FontType.TTF value in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/aspose.font.ttf/ttffont/get_fonttype/
 ---
 ## TtfFont::get_FontType method

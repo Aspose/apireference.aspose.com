@@ -4,7 +4,7 @@ linktitle: MeteredBillingService
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredBillingService class. This internal class is used to handle customer''s matered state in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.font/meteredbillingservice/
 ---
 ## MeteredBillingService class

@@ -4,7 +4,7 @@ linktitle: get_MaxFunctionDefs
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfMaxpTable::get_MaxFunctionDefs method. Gets uint16 maxFunctionDefs number of FDEFs in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/aspose.font.ttftables/ttfmaxptable/get_maxfunctiondefs/
 ---
 ## TtfMaxpTable::get_MaxFunctionDefs method

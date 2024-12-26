@@ -17,7 +17,7 @@ public override double TypoLineGap { get; }
 ### See Also
 
 * class [TtfFontMetrics](../)
-* namespace [Aspose.Font.Ttf](../../ttffontmetrics/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

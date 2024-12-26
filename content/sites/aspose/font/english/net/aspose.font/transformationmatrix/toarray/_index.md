@@ -21,7 +21,7 @@ TransformationMatrix in array form.
 ### See Also
 
 * class [TransformationMatrix](../)
-* namespace [Aspose.Font](../../transformationmatrix/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

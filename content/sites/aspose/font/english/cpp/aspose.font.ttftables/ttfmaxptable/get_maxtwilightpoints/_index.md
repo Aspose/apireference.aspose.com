@@ -4,7 +4,7 @@ linktitle: get_MaxTwilightPoints
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfMaxpTable::get_MaxTwilightPoints method. Gets uint16 maxTwilightPoints points used in Twilight Zone (Z0) in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/aspose.font.ttftables/ttfmaxptable/get_maxtwilightpoints/
 ---
 ## TtfMaxpTable::get_MaxTwilightPoints method

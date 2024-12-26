@@ -4,7 +4,7 @@ linktitle: get_CMapTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_CMapTable method. Gets CMap table in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_cmaptable/
 ---
 ## TtfTableRepository::get_CMapTable method

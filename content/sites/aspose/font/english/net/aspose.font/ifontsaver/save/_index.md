@@ -21,7 +21,7 @@ public void Save(Stream stream)
 ### See Also
 
 * interface [IFontSaver](../)
-* namespace [Aspose.Font](../../ifontsaver/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -41,7 +41,7 @@ public void Save(string fileName)
 ### See Also
 
 * interface [IFontSaver](../)
-* namespace [Aspose.Font](../../ifontsaver/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

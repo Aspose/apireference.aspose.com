@@ -4,7 +4,7 @@ linktitle: get_UnitsPerEM
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Type1::Type1FontMetrics::get_UnitsPerEM method. Gets underline UnitsPerEM value in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/aspose.font.type1/type1fontmetrics/get_unitsperem/
 ---
 ## Type1FontMetrics::get_UnitsPerEM method

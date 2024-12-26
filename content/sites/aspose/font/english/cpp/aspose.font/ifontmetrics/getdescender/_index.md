@@ -4,7 +4,7 @@ linktitle: GetDescender
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::GetDescender method. Returns descender for specific Font size in C++.'
 type: docs
-weight: 2000
+weight: 1200
 url: /cpp/aspose.font/ifontmetrics/getdescender/
 ---
 ## IFontMetrics::GetDescender method

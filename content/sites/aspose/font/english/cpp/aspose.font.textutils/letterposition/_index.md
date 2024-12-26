@@ -4,7 +4,7 @@ linktitle: LetterPosition
 second_title: Aspose.Font for C++
 description: 'How to use Aspose::Font::TextUtils::LetterPosition enum in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.font.textutils/letterposition/
 ---
 ## LetterPosition enum

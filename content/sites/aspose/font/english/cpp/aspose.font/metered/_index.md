@@ -4,7 +4,7 @@ linktitle: Metered
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Metered class. Provides methods to set metered key in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/aspose.font/metered/
 ---
 ## Metered class

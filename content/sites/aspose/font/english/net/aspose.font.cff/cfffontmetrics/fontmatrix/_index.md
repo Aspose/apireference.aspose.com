@@ -18,7 +18,7 @@ public override TransformationMatrix FontMatrix { get; }
 
 * class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
 * class [CffFontMetrics](../)
-* namespace [Aspose.Font.Cff](../../cfffontmetrics/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

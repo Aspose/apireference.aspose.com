@@ -4,7 +4,7 @@ linktitle: TtfFont
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFont class. Represents TrueType Font (TTF) in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.font.ttf/ttffont/
 ---
 ## TtfFont class

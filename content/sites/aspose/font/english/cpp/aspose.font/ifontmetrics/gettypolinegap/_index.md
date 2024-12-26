@@ -4,7 +4,7 @@ linktitle: GetTypoLineGap
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::GetTypoLineGap method. Returns line gap for specific Font size in C++.'
 type: docs
-weight: 2300
+weight: 1800
 url: /cpp/aspose.font/ifontmetrics/gettypolinegap/
 ---
 ## IFontMetrics::GetTypoLineGap method

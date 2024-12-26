@@ -28,7 +28,7 @@ Empty collection componentsToPopulate should be passed that will contain glyph c
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -54,7 +54,7 @@ Empty collection componentsToPopulate should be passed that will contain glyph c
 
 * class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -80,7 +80,7 @@ Empty collection componentsToPopulate should be passed that will contain glyph c
 
 * class [GlyphIdList](../../../aspose.font.glyphs/glyphidlist/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

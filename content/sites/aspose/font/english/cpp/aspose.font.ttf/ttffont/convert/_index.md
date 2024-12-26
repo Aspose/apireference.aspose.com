@@ -4,7 +4,7 @@ linktitle: Convert
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFont::Convert method. Converts the Font into another format in C++.'
 type: docs
-weight: 2300
+weight: 100
 url: /cpp/aspose.font.ttf/ttffont/convert/
 ---
 ## TtfFont::Convert(Aspose::Font::FontType) method

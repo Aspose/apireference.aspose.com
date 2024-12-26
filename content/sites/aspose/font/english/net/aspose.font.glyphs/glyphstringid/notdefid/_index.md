@@ -17,7 +17,7 @@ public static GlyphStringId NotDefId { get; }
 ### See Also
 
 * class [GlyphStringId](../)
-* namespace [Aspose.Font.Glyphs](../../glyphstringid/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

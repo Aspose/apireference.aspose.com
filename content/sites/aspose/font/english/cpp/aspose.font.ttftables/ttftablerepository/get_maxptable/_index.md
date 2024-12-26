@@ -4,7 +4,7 @@ linktitle: get_MaxpTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_MaxpTable method. Gets maxp table in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_maxptable/
 ---
 ## TtfTableRepository::get_MaxpTable method

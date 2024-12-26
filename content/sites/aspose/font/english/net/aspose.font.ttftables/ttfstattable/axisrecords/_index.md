@@ -18,7 +18,7 @@ public AxisRecord[] AxisRecords { get; }
 
 * class [AxisRecord](../../ttfstattable.axisrecord/)
 * class [TtfStatTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

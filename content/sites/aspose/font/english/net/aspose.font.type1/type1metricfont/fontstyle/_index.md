@@ -18,7 +18,7 @@ public override FontStyle FontStyle { get; }
 
 * enum [FontStyle](../../../aspose.font/fontstyle/)
 * class [Type1MetricFont](../)
-* namespace [Aspose.Font.Type1](../../type1metricfont/)
+* namespace [Aspose.Font.Type1](../../../aspose.font.type1/)
 * assembly [Aspose.Font](../../../)
 
 

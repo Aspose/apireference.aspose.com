@@ -4,7 +4,7 @@ linktitle: IncreaseCredit
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredCountService::IncreaseCredit method. Increase customer consumption credit, and try to upload in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/aspose.font/meteredcountservice/increasecredit/
 ---
 ## MeteredCountService::IncreaseCredit(int64_t) method

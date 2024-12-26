@@ -4,7 +4,7 @@ linktitle: GetGlyphIndex
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfCMapFormats::TtfCMapFormat2Table::GetGlyphIndex method. Gets a glyph index for a given character code in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.ttfcmapformats/ttfcmapformat2table/getglyphindex/
 ---
 ## TtfCMapFormat2Table::GetGlyphIndex method

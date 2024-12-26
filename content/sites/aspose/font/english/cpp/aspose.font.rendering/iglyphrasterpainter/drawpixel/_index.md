@@ -4,7 +4,7 @@ linktitle: DrawPixel
 second_title: Aspose.Font for C++
 description: 'How to use DrawPixel method of Aspose::Font::Rendering::IGlyphRasterPainter class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font.rendering/iglyphrasterpainter/drawpixel/
 ---
 ## IGlyphRasterPainter::DrawPixel method

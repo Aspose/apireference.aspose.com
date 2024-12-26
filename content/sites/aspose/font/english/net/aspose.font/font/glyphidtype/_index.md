@@ -18,7 +18,7 @@ public abstract GlyphIdType GlyphIdType { get; }
 
 * enum [GlyphIdType](../../../aspose.font.glyphs/glyphidtype/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

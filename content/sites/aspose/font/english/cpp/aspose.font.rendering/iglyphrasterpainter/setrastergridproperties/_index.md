@@ -4,7 +4,7 @@ linktitle: SetRasterGridProperties
 second_title: Aspose.Font for C++
 description: 'How to use SetRasterGridProperties method of Aspose::Font::Rendering::IGlyphRasterPainter class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.rendering/iglyphrasterpainter/setrastergridproperties/
 ---
 ## IGlyphRasterPainter::SetRasterGridProperties method

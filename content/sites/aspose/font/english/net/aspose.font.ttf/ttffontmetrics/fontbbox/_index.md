@@ -18,7 +18,7 @@ public override FontBBox FontBBox { get; }
 
 * class [FontBBox](../../../aspose.font/fontbbox/)
 * class [TtfFontMetrics](../)
-* namespace [Aspose.Font.Ttf](../../ttffontmetrics/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: get_StatTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_StatTable method. Gets STAT table in C++.'
 type: docs
-weight: 1900
+weight: 1700
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_stattable/
 ---
 ## TtfTableRepository::get_StatTable method

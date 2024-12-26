@@ -4,7 +4,7 @@ linktitle: SortedDictionary
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::SortedDictionary class. Sorted dictionary type forward declaration in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/system.collections.generic/sorteddictionary/
 ---
 ## SortedDictionary class
@@ -45,18 +45,18 @@ template<typename TKey,typename TValue>class SortedDictionary : public System::C
 
 | Typedef | Description |
 | --- | --- |
-| [KeyCollection](./keycollection/) | Key collection type. |
-| [ValueCollection](./valuecollection/) | Value collection type. |
-| [map_t](./map_t/) | Underlying data type. |
-| [this_t](./this_t/) | Self type. |
-| [Ptr](./ptr/) | Pointer type. |
-| [KVPair](./kvpair/) | Key-value pair type. |
+| [const_iterator](./const_iterator/) | Const iterator type. |
+| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
 | [IEnumerablePtr](./ienumerableptr/) | Collection of same elements. |
 | [IEnumeratorPtr](./ienumeratorptr/) | [Enumerator](./enumerator/) type. |
 | [iterator](./iterator/) | Iterator type. |
-| [const_iterator](./const_iterator/) | Const iterator type. |
+| [KeyCollection](./keycollection/) | Key collection type. |
+| [KVPair](./kvpair/) | Key-value pair type. |
+| [map_t](./map_t/) | Underlying data type. |
+| [Ptr](./ptr/) | Pointer type. |
 | [reverse_iterator](./reverse_iterator/) | Reverse iterator type. |
-| [const_reverse_iterator](./const_reverse_iterator/) | Const reverse iterator type. |
+| [this_t](./this_t/) | Self type. |
+| [ValueCollection](./valuecollection/) | Value collection type. |
 ## Remarks
 
 

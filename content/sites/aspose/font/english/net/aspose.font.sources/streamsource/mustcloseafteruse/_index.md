@@ -21,7 +21,7 @@ True if the stream source wants the stream to be closed after use, otherwise fal
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.Font.Sources](../../streamsource/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

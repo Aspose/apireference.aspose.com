@@ -22,7 +22,7 @@ public void Encode(uint gid, uint charCode)
 ### See Also
 
 * class [CffEncoding](../)
-* namespace [Aspose.Font.Cff](../../cffencoding/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

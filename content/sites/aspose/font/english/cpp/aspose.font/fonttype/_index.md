@@ -4,7 +4,7 @@ linktitle: FontType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontType enum. Specifies Font type in C++.'
 type: docs
-weight: 3500
+weight: 3400
 url: /cpp/aspose.font/fonttype/
 ---
 ## FontType enum

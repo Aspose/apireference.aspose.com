@@ -24,7 +24,7 @@ public AxisValueTableFormat1(ushort flags, ushort valueNameId, ushort axisIndex,
 ### See Also
 
 * class [AxisValueTableFormat1](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvaluetableformat1/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

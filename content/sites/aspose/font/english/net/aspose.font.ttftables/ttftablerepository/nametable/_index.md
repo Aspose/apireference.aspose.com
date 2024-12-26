@@ -18,7 +18,7 @@ public TtfNameTable NameTable { get; }
 
 * class [TtfNameTable](../../ttfnametable/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

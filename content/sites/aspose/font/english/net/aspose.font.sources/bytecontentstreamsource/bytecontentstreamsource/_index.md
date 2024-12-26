@@ -21,7 +21,7 @@ public ByteContentStreamSource(byte[] fileContent)
 ### See Also
 
 * class [ByteContentStreamSource](../)
-* namespace [Aspose.Font.Sources](../../bytecontentstreamsource/)
+* namespace [Aspose.Font.Sources](../../../aspose.font.sources/)
 * assembly [Aspose.Font](../../../)
 
 

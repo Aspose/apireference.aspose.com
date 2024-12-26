@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Font for C++
 description: 'How to use CompareTo method of Aspose::Font::RenderingPath::LineTo class in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.font.renderingpath/lineto/compareto/
 ---
 ## LineTo::CompareTo method

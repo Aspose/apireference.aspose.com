@@ -4,7 +4,7 @@ linktitle: NamesCount
 second_title: Aspose.Font for C++
 description: 'How to use NamesCount method of Aspose::Font::IUnicodeList class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font/iunicodelist/namescount/
 ---
 ## IUnicodeList::NamesCount method

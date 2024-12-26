@@ -4,7 +4,7 @@ linktitle: get_ValueName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::AxisValueTableBase::get_ValueName method. Gets the name from the ''name'' table that provide a display string for this attribute value in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfstattable/axisvaluetablebase/get_valuename/
 ---
 ## AxisValueTableBase::get_ValueName method

@@ -22,7 +22,7 @@ Copy of the segment object.
 
 * interface [IPathSegment](../../ipathsegment/)
 * class [LineTo](../)
-* namespace [Aspose.Font.RenderingPath](../../lineto/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

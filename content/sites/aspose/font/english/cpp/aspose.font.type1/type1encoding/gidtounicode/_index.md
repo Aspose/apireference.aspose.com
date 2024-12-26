@@ -4,7 +4,7 @@ linktitle: GidToUnicode
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Type1::Type1Encoding::GidToUnicode method. Decodes Gid to Unicode. Glyph id is a unique number for a glyph, which is font type dependent. For example: Type1''s id is a glyph name, instance of (GlyphStringId) class. TTF''s id is an int index, instance of (GlyphUInt32Id) class in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.font.type1/type1encoding/gidtounicode/
 ---
 ## Type1Encoding::GidToUnicode method

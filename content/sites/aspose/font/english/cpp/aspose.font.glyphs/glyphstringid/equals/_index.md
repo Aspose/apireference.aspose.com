@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Glyphs::GlyphStringId::Equals method. Returns true if string IDs are equal in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font.glyphs/glyphstringid/equals/
 ---
 ## GlyphStringId::Equals method

@@ -17,7 +17,7 @@ public Version16Dot16()
 ### See Also
 
 * class [Version16Dot16](../)
-* namespace [Aspose.Font.TtfCommon](../../version16dot16/)
+* namespace [Aspose.Font.TtfCommon](../../../aspose.font.ttfcommon/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Version16Dot16(ushort majorNumber, ushort minorNumber)
 ### See Also
 
 * class [Version16Dot16](../)
-* namespace [Aspose.Font.TtfCommon](../../version16dot16/)
+* namespace [Aspose.Font.TtfCommon](../../../aspose.font.ttfcommon/)
 * assembly [Aspose.Font](../../../)
 
 

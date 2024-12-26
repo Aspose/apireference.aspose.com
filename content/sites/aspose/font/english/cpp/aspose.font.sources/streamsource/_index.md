@@ -22,7 +22,6 @@ class StreamSource : public System::Object
 | --- | --- |
 | virtual [Clone](./clone/)() | Clones the stream source object. |
 | [get_Offset](./get_offset/)() const | Gets offset inside the source. |
-| virtual [get_StreamLength](./get_streamlength/)() | Returns stream length. |
 | virtual [GetFontStream](./getfontstream/)() | Returns [Font](../../aspose.font/font/) stream. |
 | virtual [MustCloseAfterUse](./mustcloseafteruse/)() | The inheritors may prevent stream from closing. Returns true if the stream source wants the stream to be closed after use. Otherwise returns false. |
 | [set_Offset](./set_offset/)(int64_t) | Sets offset inside the source. |

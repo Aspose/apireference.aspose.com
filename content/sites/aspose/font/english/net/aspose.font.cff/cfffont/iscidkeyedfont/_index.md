@@ -17,7 +17,7 @@ public bool IsCidKeyedFont { get; }
 ### See Also
 
 * class [CffFont](../)
-* namespace [Aspose.Font.Cff](../../cfffont/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

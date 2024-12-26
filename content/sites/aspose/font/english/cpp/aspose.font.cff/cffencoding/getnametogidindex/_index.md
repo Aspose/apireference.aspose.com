@@ -4,7 +4,7 @@ linktitle: GetNameToGidIndex
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffEncoding::GetNameToGidIndex method. Returns name to character code encoding map. Note: Character code is not a unicode. Character code is a char index in Font encoding "table" in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.font.cff/cffencoding/getnametogidindex/
 ---
 ## CffEncoding::GetNameToGidIndex method

@@ -17,7 +17,7 @@ public FontConversionException()
 ### See Also
 
 * class [FontConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../fontconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public FontConversionException(string message)
 ### See Also
 
 * class [FontConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../fontconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public FontConversionException(string message, Exception innerException)
 ### See Also
 
 * class [FontConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../fontconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public FontConversionException(SerializationInfo info, StreamingContext context)
 ### See Also
 
 * class [FontConversionException](../)
-* namespace [Aspose.Font.Exceptions](../../fontconversionexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 

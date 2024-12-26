@@ -22,7 +22,7 @@ public void CurveTo(CurveTo curveTo)
 
 * class [CurveTo](../../../aspose.font.renderingpath/curveto/)
 * interface [IGlyphOutlinePainter](../)
-* namespace [Aspose.Font.Rendering](../../iglyphoutlinepainter/)
+* namespace [Aspose.Font.Rendering](../../../aspose.font.rendering/)
 * assembly [Aspose.Font](../../../)
 
 

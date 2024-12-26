@@ -4,7 +4,7 @@ linktitle: IFont
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFont class. Declares common functionality for all font formats. Implemented by Font classes in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.font/ifont/
 ---
 ## IFont class

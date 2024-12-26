@@ -4,7 +4,7 @@ linktitle: get_CvtTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_CvtTable method. Gets cvt table in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_cvttable/
 ---
 ## TtfTableRepository::get_CvtTable method

@@ -4,7 +4,7 @@ linktitle: MSLanguageId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::MSLanguageId enum. Microsoft platform language id enumeration in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/aspose.font.ttftables/ttfnametable/mslanguageid/
 ---
 ## MSLanguageId enum

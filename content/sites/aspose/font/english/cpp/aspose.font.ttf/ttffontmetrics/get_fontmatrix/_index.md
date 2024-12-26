@@ -4,7 +4,7 @@ linktitle: get_FontMatrix
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFontMetrics::get_FontMatrix method. Gets FontBBox value in C++.'
 type: docs
-weight: 1200
+weight: 400
 url: /cpp/aspose.font.ttf/ttffontmetrics/get_fontmatrix/
 ---
 ## TtfFontMetrics::get_FontMatrix method

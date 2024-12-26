@@ -17,7 +17,7 @@ public short[] ControlValues { get; }
 ### See Also
 
 * class [TtfCvtTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfcvttable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

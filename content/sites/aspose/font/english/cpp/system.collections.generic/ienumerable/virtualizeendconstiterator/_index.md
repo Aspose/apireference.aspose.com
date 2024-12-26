@@ -4,7 +4,7 @@ linktitle: virtualizeEndConstIterator
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::IEnumerable::virtualizeEndConstIterator method. Gets the implementation of end const iterator for the current container in C++.'
 type: docs
-weight: 2900
+weight: 3400
 url: /cpp/system.collections.generic/ienumerable/virtualizeendconstiterator/
 ---
 ## IEnumerable::virtualizeEndConstIterator method

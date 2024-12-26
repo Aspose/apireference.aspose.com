@@ -21,7 +21,7 @@ All codes from current CMap's subtable.
 ### See Also
 
 * class [TtfCMapFormat6Table](../)
-* namespace [Aspose.Font.TtfCMapFormats](../../ttfcmapformat6table/)
+* namespace [Aspose.Font.TtfCMapFormats](../../../aspose.font.ttfcmapformats/)
 * assembly [Aspose.Font](../../../)
 
 

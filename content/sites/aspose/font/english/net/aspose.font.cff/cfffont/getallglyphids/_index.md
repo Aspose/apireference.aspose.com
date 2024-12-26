@@ -22,7 +22,7 @@ All glyph identifiers, available in the Font.
 
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [CffFont](../)
-* namespace [Aspose.Font.Cff](../../cfffont/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

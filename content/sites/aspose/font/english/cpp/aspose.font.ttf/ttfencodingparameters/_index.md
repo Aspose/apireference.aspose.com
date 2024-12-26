@@ -4,7 +4,7 @@ linktitle: TtfEncodingParameters
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfEncodingParameters class. Represents TTF encoding parameters in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.font.ttf/ttfencodingparameters/
 ---
 ## TtfEncodingParameters class

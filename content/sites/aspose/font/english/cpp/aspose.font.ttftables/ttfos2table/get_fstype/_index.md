@@ -4,7 +4,7 @@ linktitle: get_FSType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfOs2Table::get_FSType method. Gets FSType value in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfos2table/get_fstype/
 ---
 ## TtfOs2Table::get_FSType method

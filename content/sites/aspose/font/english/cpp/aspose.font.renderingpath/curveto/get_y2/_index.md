@@ -4,7 +4,7 @@ linktitle: get_Y2
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::RenderingPath::CurveTo::get_Y2 method. Gets coordinate y2 in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.font.renderingpath/curveto/get_y2/
 ---
 ## CurveTo::get_Y2 method

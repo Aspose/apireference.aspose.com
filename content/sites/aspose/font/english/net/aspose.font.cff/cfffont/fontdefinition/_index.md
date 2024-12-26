@@ -18,7 +18,7 @@ public override FontDefinition FontDefinition { get; }
 
 * class [FontDefinition](../../../aspose.font.sources/fontdefinition/)
 * class [CffFont](../)
-* namespace [Aspose.Font.Cff](../../cfffont/)
+* namespace [Aspose.Font.Cff](../../../aspose.font.cff/)
 * assembly [Aspose.Font](../../../)
 
 

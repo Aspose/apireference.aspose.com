@@ -4,7 +4,7 @@ linktitle: DecodeToGid
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Cff::CffEncoding::DecodeToGid method. Gets Gid for charCode passed. This method designed for a CFF CIDFonts, where charCode must be a valid CID value. Glyph id is a unique number for a glyph, which is font type dependent. CFF Font glyph id can be instance of (GlyphStringId) class or (GlyphUInt32Id) class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font.cff/cffencoding/decodetogid/
 ---
 ## CffEncoding::DecodeToGid method

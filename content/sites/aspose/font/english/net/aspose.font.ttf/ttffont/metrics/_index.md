@@ -18,7 +18,7 @@ public override IFontMetrics Metrics { get; }
 
 * interface [IFontMetrics](../../../aspose.font/ifontmetrics/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

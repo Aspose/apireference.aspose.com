@@ -4,7 +4,7 @@ linktitle: get_FontIndex
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtcFontFileDefinition::get_FontIndex method. Gets Font index inside TTC Font in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.font.ttf/ttcfontfiledefinition/get_fontindex/
 ---
 ## TtcFontFileDefinition::get_FontIndex method

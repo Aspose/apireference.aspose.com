@@ -4,7 +4,7 @@ linktitle: set_TypoDescender
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontMetrics::set_TypoDescender method. Gets typographic descender value of the Font in Font units in C++.'
 type: docs
-weight: 1300
+weight: 2300
 url: /cpp/aspose.font/ifontmetrics/set_typodescender/
 ---
 ## IFontMetrics::set_TypoDescender method

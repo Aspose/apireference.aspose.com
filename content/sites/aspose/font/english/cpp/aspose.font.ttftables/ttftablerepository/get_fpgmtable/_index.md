@@ -4,7 +4,7 @@ linktitle: get_FpgmTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_FpgmTable method. Gets fpgm table in C++.'
 type: docs
-weight: 1200
+weight: 400
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_fpgmtable/
 ---
 ## TtfTableRepository::get_FpgmTable method

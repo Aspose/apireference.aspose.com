@@ -28,7 +28,7 @@ public void AddName(NameId nameId, PlatformId platformId, int platformSpecificId
 * enum [NameId](../../ttfnametable.nameid/)
 * enum [PlatformId](../../ttfnametable.platformid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

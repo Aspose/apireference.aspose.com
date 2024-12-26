@@ -18,7 +18,7 @@ public TtfCMapTable CMapTable { get; }
 
 * class [TtfCMapTable](../../ttfcmaptable/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

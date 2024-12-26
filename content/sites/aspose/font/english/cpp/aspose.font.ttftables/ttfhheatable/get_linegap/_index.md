@@ -4,7 +4,7 @@ linktitle: get_LineGap
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHheaTable::get_LineGap method. Gets the lineGap in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.font.ttftables/ttfhheatable/get_linegap/
 ---
 ## TtfHheaTable::get_LineGap method

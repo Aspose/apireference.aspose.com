@@ -4,7 +4,7 @@ linktitle: get_PostscriptName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::FontDefinition::get_PostscriptName method. Gets postscript Font name in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.font.sources/fontdefinition/get_postscriptname/
 ---
 ## FontDefinition::get_PostscriptName method

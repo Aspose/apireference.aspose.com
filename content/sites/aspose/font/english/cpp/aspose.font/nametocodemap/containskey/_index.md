@@ -4,7 +4,7 @@ linktitle: ContainsKey
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::NameToCodeMap::ContainsKey method. Returns true in case the key is already in the map in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font/nametocodemap/containskey/
 ---
 ## NameToCodeMap::ContainsKey method

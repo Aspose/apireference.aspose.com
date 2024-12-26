@@ -4,7 +4,7 @@ linktitle: get_PlatformSpecificId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfCMapTable::TtfCMapSubtableDescription::get_PlatformSpecificId method. Gets platform-specific encoding id in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfcmaptable/ttfcmapsubtabledescription/get_platformspecificid/
 ---
 ## TtfCMapSubtableDescription::get_PlatformSpecificId method

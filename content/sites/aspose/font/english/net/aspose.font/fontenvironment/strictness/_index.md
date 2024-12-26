@@ -18,7 +18,7 @@ public ParsingStrictness Strictness { get; set; }
 
 * enum [ParsingStrictness](../../fontenvironment.parsingstrictness/)
 * class [FontEnvironment](../)
-* namespace [Aspose.Font](../../fontenvironment/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

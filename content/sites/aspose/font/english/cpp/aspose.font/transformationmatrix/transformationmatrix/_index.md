@@ -4,7 +4,7 @@ linktitle: TransformationMatrix
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::TransformationMatrix constructor. Creates standard 1 to 1 transformation matrix: [ A B C D TX TY ] = [ 1, 0, 0, 1, 0, 0] in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.font/transformationmatrix/transformationmatrix/
 ---
 ## TransformationMatrix::TransformationMatrix() constructor

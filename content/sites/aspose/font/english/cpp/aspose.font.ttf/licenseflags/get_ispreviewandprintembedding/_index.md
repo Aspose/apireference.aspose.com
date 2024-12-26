@@ -4,7 +4,7 @@ linktitle: get_IsPreviewAndPrintEmbedding
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::LicenseFlags::get_IsPreviewAndPrintEmbedding method. Detects whether fsType permits Preview and Print embedding in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.font.ttf/licenseflags/get_ispreviewandprintembedding/
 ---
 ## LicenseFlags::get_IsPreviewAndPrintEmbedding method

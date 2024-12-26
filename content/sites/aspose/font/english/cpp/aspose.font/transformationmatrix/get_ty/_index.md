@@ -4,7 +4,7 @@ linktitle: get_TY
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::get_TY method. Gets TY transformation matrix value in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/aspose.font/transformationmatrix/get_ty/
 ---
 ## TransformationMatrix::get_TY method

@@ -4,7 +4,7 @@ linktitle: MacPlatformSpecificId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::MacPlatformSpecificId enum. Represents Macintosh platform PlatformSpecificId enumeration in C++.'
 type: docs
-weight: 1500
+weight: 1300
 url: /cpp/aspose.font.ttftables/ttfnametable/macplatformspecificid/
 ---
 ## MacPlatformSpecificId enum

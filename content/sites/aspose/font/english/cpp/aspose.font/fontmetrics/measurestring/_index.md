@@ -4,7 +4,7 @@ linktitle: MeasureString
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontMetrics::MeasureString method. Measures string and returns string width in C++.'
 type: docs
-weight: 2400
+weight: 1900
 url: /cpp/aspose.font/fontmetrics/measurestring/
 ---
 ## FontMetrics::MeasureString method

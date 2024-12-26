@@ -4,7 +4,7 @@ linktitle: CodesCount
 second_title: Aspose.Font for C++
 description: 'How to use CodesCount method of Aspose::Font::IUnicodeList class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font/iunicodelist/codescount/
 ---
 ## IUnicodeList::CodesCount method

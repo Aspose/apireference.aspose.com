@@ -4,7 +4,7 @@ linktitle: IFontRendering
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::IFontRendering class. Represents a Font in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.font/ifontrendering/
 ---
 ## IFontRendering class

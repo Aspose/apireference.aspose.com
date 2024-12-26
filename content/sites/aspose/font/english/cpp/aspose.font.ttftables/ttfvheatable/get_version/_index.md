@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfVheaTable::get_Version method. Gets Version number of the vertical header table in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/aspose.font.ttftables/ttfvheatable/get_version/
 ---
 ## TtfVheaTable::get_Version method

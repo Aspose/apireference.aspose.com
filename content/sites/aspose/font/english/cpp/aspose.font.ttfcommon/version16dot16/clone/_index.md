@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfCommon::Version16Dot16::Clone method. Create a copy of Version16Dot16 object in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.font.ttfcommon/version16dot16/clone/
 ---
 ## Version16Dot16::Clone method

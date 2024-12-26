@@ -2,11 +2,37 @@
 title: Aspose::Font::Type1::Type1Font::GetGlyphById method
 linktitle: GetGlyphById
 second_title: Aspose.Font for C++
-description: 'Aspose::Font::Type1::Type1Font::GetGlyphById method. Returns glyph by glyph id in C++.'
+description: 'Aspose::Font::Type1::Type1Font::GetGlyphById method. Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. Type1Font glyph id can be instance of (GlyphStringId) class or (GlyphUInt32Id) class in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/aspose.font.type1/type1font/getglyphbyid/
 ---
+## Type1Font::GetGlyphById(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) method
+
+
+Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. [Type1](../../)[Font](../../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class.
+
+```cpp
+System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> id) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| id | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph id. |
+
+### ReturnValue
+
+Glyph.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Glyph](../../../aspose.font.glyphs/glyph/)
+* Class [GlyphId](../../../aspose.font.glyphs/glyphid/)
+* Class [Type1Font](../)
+* Namespace [Aspose::Font::Type1](../../)
+* Library [Aspose.Font for C++](../../../)
 ## Type1Font::GetGlyphById(System::String) method
 
 
@@ -55,32 +81,6 @@ Glyph.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Glyph](../../../aspose.font.glyphs/glyph/)
-* Class [Type1Font](../)
-* Namespace [Aspose::Font::Type1](../../)
-* Library [Aspose.Font for C++](../../../)
-## Type1Font::GetGlyphById(System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\>) method
-
-
-Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. [Type1](../../)[Font](../../../aspose.font/font/) glyph id can be instance of ([GlyphStringId](../)) class or ([GlyphUInt32Id](../)) class.
-
-```cpp
-System::SharedPtr<Aspose::Font::Glyphs::Glyph> Aspose::Font::Type1::Type1Font::GetGlyphById(System::SharedPtr<Aspose::Font::Glyphs::GlyphId> id) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| id | System::SharedPtr\<Aspose::Font::Glyphs::GlyphId\> | Glyph id. |
-
-### ReturnValue
-
-Glyph.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Glyph](../../../aspose.font.glyphs/glyph/)
-* Class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * Class [Type1Font](../)
 * Namespace [Aspose::Font::Type1](../../)
 * Library [Aspose.Font for C++](../../../)

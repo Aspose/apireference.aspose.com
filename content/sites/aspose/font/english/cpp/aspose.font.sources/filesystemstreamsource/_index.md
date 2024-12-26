@@ -23,7 +23,6 @@ class FileSystemStreamSource : public Aspose::Font::Sources::StreamSource
 | [Clone](./clone/)() override | Clones the [FileSystemStreamSource](./) object. |
 | [FileSystemStreamSource](./filesystemstreamsource/)(System::String) | Initializes new [FileSystemStreamSource](./) object. |
 | [get_FileName](./get_filename/)() const | Gets file name. |
-| [get_StreamLength](./get_streamlength/)() override | Returns stream length. |
 | [GetFontStream](./getfontstream/)() override | Returns font file stream. Don't forget to close the stream after use. |
 | [set_FileName](./set_filename/)(System::String) | Sets file name. |
 ## See Also

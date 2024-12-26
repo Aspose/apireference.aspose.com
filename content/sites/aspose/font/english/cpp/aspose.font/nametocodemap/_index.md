@@ -4,7 +4,7 @@ linktitle: NameToCodeMap
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::NameToCodeMap class. Represents name to code map in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.font/nametocodemap/
 ---
 ## NameToCodeMap class

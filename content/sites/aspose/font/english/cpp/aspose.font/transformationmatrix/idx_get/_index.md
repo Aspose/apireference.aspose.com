@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::idx_get method. Provides access to underlying array in C++.'
 type: docs
-weight: 2000
+weight: 800
 url: /cpp/aspose.font/transformationmatrix/idx_get/
 ---
 ## TransformationMatrix::idx_get method

@@ -4,7 +4,7 @@ linktitle: get_CffTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_CffTable method. Gets cff table in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_cfftable/
 ---
 ## TtfTableRepository::get_CffTable method

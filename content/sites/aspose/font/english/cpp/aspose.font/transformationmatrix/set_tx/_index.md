@@ -4,7 +4,7 @@ linktitle: set_TX
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::set_TX method. Sets TX transformation matrix value in C++.'
 type: docs
-weight: 1000
+weight: 1500
 url: /cpp/aspose.font/transformationmatrix/set_tx/
 ---
 ## TransformationMatrix::set_TX method

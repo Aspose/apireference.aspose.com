@@ -24,7 +24,7 @@ public void UnScale(double x1, double y1, out double x, out double y)
 ### See Also
 
 * class [TransformationMatrix](../)
-* namespace [Aspose.Font](../../transformationmatrix/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

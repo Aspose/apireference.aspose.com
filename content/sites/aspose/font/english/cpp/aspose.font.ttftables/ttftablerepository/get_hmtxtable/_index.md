@@ -4,7 +4,7 @@ linktitle: get_HmtxTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_HmtxTable method. Gets hmtx table in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_hmtxtable/
 ---
 ## TtfTableRepository::get_HmtxTable method

@@ -17,7 +17,7 @@ public long FontIndex { get; }
 ### See Also
 
 * class [TtcFontFileDefinition](../)
-* namespace [Aspose.Font.Ttf](../../ttcfontfiledefinition/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

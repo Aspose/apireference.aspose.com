@@ -23,13 +23,13 @@ class TtfNameTable : public Aspose::Font::TtfTables::TtfTableBase
 
 | Enum | Description |
 | --- | --- |
-| [NameId](./nameid/) | Represents NameId. |
-| [PlatformId](./platformid/) | Represents PlatformId enumeration. |
-| [UnicodePlatformSpecificId](./unicodeplatformspecificid/) | Represents unicode platform-specific enumeration. |
+| [MacLanguageId](./maclanguageid/) | Macintosh platform language id enumeration. |
 | [MacPlatformSpecificId](./macplatformspecificid/) | Represents Macintosh platform PlatformSpecificId enumeration. |
 | [MSLanguageId](./mslanguageid/) | Microsoft platform language id enumeration. |
 | [MSPlatformSpecificId](./msplatformspecificid/) | Represents Microsoft platform PlatformSpecificId enumeration. |
-| [MacLanguageId](./maclanguageid/) | Macintosh platform language id enumeration. |
+| [NameId](./nameid/) | Represents NameId. |
+| [PlatformId](./platformid/) | Represents PlatformId enumeration. |
+| [UnicodePlatformSpecificId](./unicodeplatformspecificid/) | Represents unicode platform-specific enumeration. |
 ## Methods
 
 | Method | Description |

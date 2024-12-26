@@ -4,7 +4,7 @@ linktitle: get_CheckSumAdjustment
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_CheckSumAdjustment method. Gets uint32 checkSumAdjustment. To compute: set it to 0, calculate the checksum for the ''head'' table and put it in the table directory, sum the entire font as uint32, then store B1B0AFBA - sum. The checksum for the ''head'' table will not be wrong. That is OK in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_checksumadjustment/
 ---
 ## TtfHeadTable::get_CheckSumAdjustment method

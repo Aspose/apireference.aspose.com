@@ -45,7 +45,7 @@ Tries to find the license in the following locations:
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.Font](../../license/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -69,7 +69,7 @@ Use this method to load a license from a stream.
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.Font](../../license/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: FileSystemStreamSource
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::FileSystemStreamSource::FileSystemStreamSource constructor. Initializes new FileSystemStreamSource object in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.font.sources/filesystemstreamsource/filesystemstreamsource/
 ---
 ## FileSystemStreamSource::FileSystemStreamSource constructor

@@ -4,7 +4,7 @@ linktitle: get_MaxComponentDepth
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfMaxpTable::get_MaxComponentDepth method. Gets uint16 maxComponentDepth levels of recursion, set to 0 if font has only simple glyphs in C++.'
 type: docs
-weight: 1700
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfmaxptable/get_maxcomponentdepth/
 ---
 ## TtfMaxpTable::get_MaxComponentDepth method

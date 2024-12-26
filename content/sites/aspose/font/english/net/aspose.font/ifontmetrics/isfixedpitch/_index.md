@@ -17,7 +17,7 @@ public bool IsFixedPitch { get; }
 ### See Also
 
 * interface [IFontMetrics](../)
-* namespace [Aspose.Font](../../ifontmetrics/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

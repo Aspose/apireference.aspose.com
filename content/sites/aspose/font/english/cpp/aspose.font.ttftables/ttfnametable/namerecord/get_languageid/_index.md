@@ -4,7 +4,7 @@ linktitle: get_LanguageId
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfNameTable::NameRecord::get_LanguageId method. Language identifier in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.font.ttftables/ttfnametable/namerecord/get_languageid/
 ---
 ## NameRecord::get_LanguageId method

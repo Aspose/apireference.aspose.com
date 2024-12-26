@@ -18,7 +18,7 @@ public IFontMetrics Metrics { get; }
 
 * interface [IFontMetrics](../../ifontmetrics/)
 * interface [IFont](../)
-* namespace [Aspose.Font](../../ifont/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -22,7 +22,7 @@ public AxisValue(ushort axisIndex, float value)
 ### See Also
 
 * class [AxisValue](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvalue/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

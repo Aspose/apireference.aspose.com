@@ -17,7 +17,7 @@ public float Version { get; }
 ### See Also
 
 * class [TtfMaxpTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfmaxptable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: LongHorMetric
 second_title: Aspose.Font for C++
 description: 'How to use LongHorMetric constructor of Aspose::Font::TtfTables::TtfHmtxTable::LongHorMetric class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfhmtxtable/longhormetric/longhormetric/
 ---
 ## LongHorMetric::LongHorMetric constructor

@@ -4,7 +4,7 @@ linktitle: GetGlyphById
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Font::GetGlyphById method. Returns glyph by glyph id. Glyph id is a unique number for a glyph, which is font type dependent. GlyphId - derived object. For example: Type1''s id is a glyph name, instance of (GlyphStringId) class. TTF''s id is an int index, instance of (GlyphUInt32Id) class in C++.'
 type: docs
-weight: 2200
+weight: 1700
 url: /cpp/aspose.font/font/getglyphbyid/
 ---
 ## Font::GetGlyphById method

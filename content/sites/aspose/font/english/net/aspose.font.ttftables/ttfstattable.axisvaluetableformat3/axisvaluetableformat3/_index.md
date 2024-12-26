@@ -26,7 +26,7 @@ public AxisValueTableFormat3(ushort flags, ushort valueNameId, ushort axisIndex,
 ### See Also
 
 * class [AxisValueTableFormat3](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvaluetableformat3/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

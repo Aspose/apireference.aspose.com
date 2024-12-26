@@ -4,7 +4,7 @@ linktitle: GetGlyphName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfPostTable::GetGlyphName method. Gets glyph name by glyph index in C++.'
 type: docs
-weight: 1300
+weight: 1500
 url: /cpp/aspose.font.ttftables/ttfposttable/getglyphname/
 ---
 ## TtfPostTable::GetGlyphName method

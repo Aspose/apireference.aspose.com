@@ -4,7 +4,7 @@ linktitle: NameRecord
 second_title: Aspose.Font for C++
 description: 'How to use NameRecord constructor of Aspose::Font::TtfTables::TtfNameTable::NameRecord class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.font.ttftables/ttfnametable/namerecord/namerecord/
 ---
 ## NameRecord::NameRecord constructor

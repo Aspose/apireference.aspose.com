@@ -4,7 +4,7 @@ linktitle: get_NameTable
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfTableRepository::get_NameTable method. Gets name table in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/aspose.font.ttftables/ttftablerepository/get_nametable/
 ---
 ## TtfTableRepository::get_NameTable method

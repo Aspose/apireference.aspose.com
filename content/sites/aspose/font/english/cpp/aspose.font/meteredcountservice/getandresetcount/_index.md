@@ -4,7 +4,7 @@ linktitle: GetAndResetCount
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::MeteredCountService::GetAndResetCount method. Gets and Resets customer consumption file size in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.font/meteredcountservice/getandresetcount/
 ---
 ## MeteredCountService::GetAndResetCount method

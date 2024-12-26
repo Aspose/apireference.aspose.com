@@ -22,7 +22,7 @@ public void Transform(TransformationMatrix matrix)
 
 * class [TransformationMatrix](../../../aspose.font/transformationmatrix/)
 * class [LineTo](../)
-* namespace [Aspose.Font.RenderingPath](../../lineto/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

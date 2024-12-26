@@ -25,7 +25,7 @@ public void DeleteRecords(PlatformId platformId, ushort platformSpecificId, Name
 * enum [PlatformId](../../ttfnametable.platformid/)
 * enum [NameId](../../ttfnametable.nameid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -47,7 +47,7 @@ public void DeleteRecords(PlatformId platformId, ushort platformSpecificId)
 
 * enum [PlatformId](../../ttfnametable.platformid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -73,7 +73,7 @@ public void DeleteRecords(PlatformId platformId, ushort platformSpecificId, Name
 * enum [PlatformId](../../ttfnametable.platformid/)
 * enum [NameId](../../ttfnametable.nameid/)
 * class [TtfNameTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfnametable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -18,7 +18,7 @@ public CompositeGlyphComponentList Components { get; }
 
 * class [CompositeGlyphComponentList](../../compositeglyphcomponentlist/)
 * class [CompositeGlyph](../)
-* namespace [Aspose.Font.Glyphs](../../compositeglyph/)
+* namespace [Aspose.Font.Glyphs](../../../aspose.font.glyphs/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: ClearAxisValueTables
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfStatTable::ClearAxisValueTables method. Removes all axis value tables from the table in C++.'
 type: docs
-weight: 1000
+weight: 500
 url: /cpp/aspose.font.ttftables/ttfstattable/clearaxisvaluetables/
 ---
 ## TtfStatTable::ClearAxisValueTables method

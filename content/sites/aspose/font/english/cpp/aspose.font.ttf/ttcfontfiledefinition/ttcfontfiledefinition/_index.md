@@ -4,7 +4,7 @@ linktitle: TtcFontFileDefinition
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtcFontFileDefinition::TtcFontFileDefinition constructor. Creates a file definition using file content only in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.font.ttf/ttcfontfiledefinition/ttcfontfiledefinition/
 ---
 ## TtcFontFileDefinition::TtcFontFileDefinition constructor

@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.Font for C++
 description: 'How to use operator!= method of  class in C++.'
 type: docs
-weight: 2300
+weight: 2200
 url: /cpp/aspose.font.ttftables/operator!=/
 ---
 ## Aspose::Font::TtfTables::operator!= method

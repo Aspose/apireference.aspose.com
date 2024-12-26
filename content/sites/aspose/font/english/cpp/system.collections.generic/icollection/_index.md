@@ -4,7 +4,7 @@ linktitle: ICollection
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::ICollection class. Interface of collection of elements. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.collections.generic/icollection/
 ---
 ## ICollection class
@@ -38,8 +38,8 @@ template<typename T>class ICollection : public virtual System::Collections::Gene
 
 | Typedef | Description |
 | --- | --- |
-| [ValueType](./valuetype/) | RTTI information. |
 | [ThisType](./thistype/) | Collection type name. |
+| [ValueType](./valuetype/) | RTTI information. |
 
 ## See Also
 

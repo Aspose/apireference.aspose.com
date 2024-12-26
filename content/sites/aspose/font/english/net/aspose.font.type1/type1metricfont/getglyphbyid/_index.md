@@ -26,7 +26,7 @@ Glyph.
 
 * class [Glyph](../../../aspose.font.glyphs/glyph/)
 * class [Type1MetricFont](../)
-* namespace [Aspose.Font.Type1](../../type1metricfont/)
+* namespace [Aspose.Font.Type1](../../../aspose.font.type1/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -52,7 +52,7 @@ Glyph.
 * class [Glyph](../../../aspose.font.glyphs/glyph/)
 * class [GlyphId](../../../aspose.font.glyphs/glyphid/)
 * class [Type1MetricFont](../)
-* namespace [Aspose.Font.Type1](../../type1metricfont/)
+* namespace [Aspose.Font.Type1](../../../aspose.font.type1/)
 * assembly [Aspose.Font](../../../)
 
 

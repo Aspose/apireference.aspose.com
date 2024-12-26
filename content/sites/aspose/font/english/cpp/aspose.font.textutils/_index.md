@@ -23,5 +23,5 @@ url: /cpp/aspose.font.textutils/
 
 | Enum | Description |
 | --- | --- |
-| [MorseAlphabets](./morsealphabets/) | Represents set of alphabets supported for Morse code. |
 | [LetterPosition](./letterposition/) |  |
+| [MorseAlphabets](./morsealphabets/) | Represents set of alphabets supported for Morse code. |

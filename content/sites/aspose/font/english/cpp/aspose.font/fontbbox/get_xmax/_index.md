@@ -4,7 +4,7 @@ linktitle: get_XMax
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontBBox::get_XMax method. Gets XMax value in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.font/fontbbox/get_xmax/
 ---
 ## FontBBox::get_XMax method

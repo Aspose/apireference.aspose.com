@@ -4,7 +4,7 @@ linktitle: TtfEncoding
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfEncoding class. Represents TTF Font encoding in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.font.ttf/ttfencoding/
 ---
 ## TtfEncoding class

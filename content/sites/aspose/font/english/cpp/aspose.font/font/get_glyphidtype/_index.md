@@ -4,7 +4,7 @@ linktitle: get_GlyphIdType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Font::get_GlyphIdType method. Glyph id type specification. For consumers who needs to know the ''bytes[]'' real type in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/aspose.font/font/get_glyphidtype/
 ---
 ## Font::get_GlyphIdType method

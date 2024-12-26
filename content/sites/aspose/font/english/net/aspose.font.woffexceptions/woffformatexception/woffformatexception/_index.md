@@ -17,7 +17,7 @@ public WoffFormatException()
 ### See Also
 
 * class [WoffFormatException](../)
-* namespace [Aspose.Font.WoffExceptions](../../woffformatexception/)
+* namespace [Aspose.Font.WoffExceptions](../../../aspose.font.woffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public WoffFormatException(string message)
 ### See Also
 
 * class [WoffFormatException](../)
-* namespace [Aspose.Font.WoffExceptions](../../woffformatexception/)
+* namespace [Aspose.Font.WoffExceptions](../../../aspose.font.woffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public WoffFormatException(string message, Exception innerException)
 ### See Also
 
 * class [WoffFormatException](../)
-* namespace [Aspose.Font.WoffExceptions](../../woffformatexception/)
+* namespace [Aspose.Font.WoffExceptions](../../../aspose.font.woffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public WoffFormatException(SerializationInfo info, StreamingContext context)
 ### See Also
 
 * class [WoffFormatException](../)
-* namespace [Aspose.Font.WoffExceptions](../../woffformatexception/)
+* namespace [Aspose.Font.WoffExceptions](../../../aspose.font.woffexceptions/)
 * assembly [Aspose.Font](../../../)
 
 

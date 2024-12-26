@@ -4,7 +4,7 @@ linktitle: get_Flags
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfHeadTable::get_Flags method. Gets uint16 flags in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.font.ttftables/ttfheadtable/get_flags/
 ---
 ## TtfHeadTable::get_Flags method

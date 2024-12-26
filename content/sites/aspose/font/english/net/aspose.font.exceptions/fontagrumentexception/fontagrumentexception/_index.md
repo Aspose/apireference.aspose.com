@@ -17,7 +17,7 @@ public FontAgrumentException()
 ### See Also
 
 * class [FontAgrumentException](../)
-* namespace [Aspose.Font.Exceptions](../../fontagrumentexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public FontAgrumentException(string message)
 ### See Also
 
 * class [FontAgrumentException](../)
-* namespace [Aspose.Font.Exceptions](../../fontagrumentexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public FontAgrumentException(string message, Exception innerException)
 ### See Also
 
 * class [FontAgrumentException](../)
-* namespace [Aspose.Font.Exceptions](../../fontagrumentexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public FontAgrumentException(SerializationInfo info, StreamingContext context)
 ### See Also
 
 * class [FontAgrumentException](../)
-* namespace [Aspose.Font.Exceptions](../../fontagrumentexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 

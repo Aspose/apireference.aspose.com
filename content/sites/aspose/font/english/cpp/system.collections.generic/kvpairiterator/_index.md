@@ -4,7 +4,7 @@ linktitle: KVPairIterator
 second_title: Aspose.Font for C++
 description: 'System::Collections::Generic::KVPairIterator class. Adapting iterator, wraps std::pair into KVPair expected from Dictionary in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/system.collections.generic/kvpairiterator/
 ---
 ## KVPairIterator class
@@ -35,11 +35,11 @@ template<typename KVPair,typename Container>class KVPairIterator
 
 | Typedef | Description |
 | --- | --- |
-| [iterator_category](./iterator_category/) |  |
-| [value_type](./value_type/) |  |
 | [difference_type](./difference_type/) |  |
+| [iterator_category](./iterator_category/) |  |
 | [pointer](./pointer/) |  |
 | [reference](./reference/) |  |
+| [value_type](./value_type/) |  |
 
 ## See Also
 

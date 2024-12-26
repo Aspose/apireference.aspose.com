@@ -4,7 +4,7 @@ linktitle: get_TypoLineGap
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Ttf::TtfFontMetrics::get_TypoLineGap method. Gets TypoLineGap value in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.font.ttf/ttffontmetrics/get_typolinegap/
 ---
 ## TtfFontMetrics::get_TypoLineGap method

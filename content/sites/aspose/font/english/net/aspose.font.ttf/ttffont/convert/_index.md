@@ -31,7 +31,7 @@ Note: TTF Font type is now supported only.
 * class [Font](../../../aspose.font/font/)
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -62,7 +62,7 @@ Note: TTF Font type is now supported only.
 * class [Font](../../../aspose.font/font/)
 * enum [FontType](../../../aspose.font/fonttype/)
 * class [TtfFont](../)
-* namespace [Aspose.Font.Ttf](../../ttffont/)
+* namespace [Aspose.Font.Ttf](../../../aspose.font.ttf/)
 * assembly [Aspose.Font](../../../)
 
 

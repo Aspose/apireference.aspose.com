@@ -4,7 +4,7 @@ linktitle: FontFactory
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontFactory class. Contains functionality for opening fonts of different types and other methods for creating various objects in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.font/fontfactory/
 ---
 ## FontFactory class

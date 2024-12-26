@@ -17,7 +17,7 @@ public byte[] RawBytes { get; }
 ### See Also
 
 * class [Version16Dot16](../)
-* namespace [Aspose.Font.TtfCommon](../../version16dot16/)
+* namespace [Aspose.Font.TtfCommon](../../../aspose.font.ttfcommon/)
 * assembly [Aspose.Font](../../../)
 
 

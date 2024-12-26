@@ -18,7 +18,7 @@ public TtfCffTable CffTable { get; }
 
 * class [TtfCffTable](../../ttfcfftable/)
 * class [TtfTableRepository](../)
-* namespace [Aspose.Font.TtfTables](../../ttftablerepository/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

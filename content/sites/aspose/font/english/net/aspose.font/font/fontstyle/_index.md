@@ -18,7 +18,7 @@ public abstract FontStyle FontStyle { get; }
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namespace [Aspose.Font](../../font/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

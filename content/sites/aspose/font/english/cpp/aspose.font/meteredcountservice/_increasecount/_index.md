@@ -4,7 +4,7 @@ linktitle: _IncreaseCount
 second_title: Aspose.Font for C++
 description: 'How to use _IncreaseCount method of Aspose::Font::MeteredCountService class in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.font/meteredcountservice/_increasecount/
 ---
 ## MeteredCountService::_IncreaseCount method

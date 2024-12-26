@@ -17,7 +17,7 @@ public double XMax { get; }
 ### See Also
 
 * class [FontBBox](../)
-* namespace [Aspose.Font](../../fontbbox/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

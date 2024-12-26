@@ -17,7 +17,7 @@ public ushort Format { get; }
 ### See Also
 
 * class [AxisValueTableBase](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisvaluetablebase/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

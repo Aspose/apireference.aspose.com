@@ -17,7 +17,7 @@ public double X { get; }
 ### See Also
 
 * class [ClosePath](../)
-* namespace [Aspose.Font.RenderingPath](../../closepath/)
+* namespace [Aspose.Font.RenderingPath](../../../aspose.font.renderingpath/)
 * assembly [Aspose.Font](../../../)
 
 

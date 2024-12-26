@@ -4,7 +4,7 @@ linktitle: get_TX
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TransformationMatrix::get_TX method. Gets TX transformation matrix value in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.font/transformationmatrix/get_tx/
 ---
 ## TransformationMatrix::get_TX method

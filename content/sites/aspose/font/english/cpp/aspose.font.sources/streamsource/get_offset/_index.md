@@ -4,7 +4,7 @@ linktitle: get_Offset
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::Sources::StreamSource::get_Offset method. Gets offset inside the source in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.font.sources/streamsource/get_offset/
 ---
 ## StreamSource::get_Offset method

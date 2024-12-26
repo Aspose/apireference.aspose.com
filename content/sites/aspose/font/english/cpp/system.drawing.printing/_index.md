@@ -4,7 +4,7 @@ linktitle: System::Drawing::Printing
 second_title: Aspose.Font for C++
 description: 'How to use System::Drawing::Printing namespace in C++.'
 type: docs
-weight: 3700
+weight: 3600
 url: /cpp/system.drawing.printing/
 ---
 
@@ -36,5 +36,5 @@ url: /cpp/system.drawing.printing/
 
 | Typedef | Description |
 | --- | --- |
-| [PrintPageEventHandler](./printpageeventhandler/) | A type of a function that handles PrintPage event. |
 | [PrintEventHandler](./printeventhandler/) | A type of a function object that handles BeginPrint and EndPrint events. |
+| [PrintPageEventHandler](./printpageeventhandler/) | A type of a function that handles PrintPage event. |

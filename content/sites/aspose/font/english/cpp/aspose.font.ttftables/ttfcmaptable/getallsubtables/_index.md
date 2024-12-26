@@ -4,7 +4,7 @@ linktitle: GetAllSubtables
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfCMapTable::GetAllSubtables method. Returns all the subtables from CMap table in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.font.ttftables/ttfcmaptable/getallsubtables/
 ---
 ## TtfCMapTable::GetAllSubtables method

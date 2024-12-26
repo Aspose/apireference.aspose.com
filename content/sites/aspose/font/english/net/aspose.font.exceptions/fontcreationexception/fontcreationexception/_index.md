@@ -17,7 +17,7 @@ public FontCreationException()
 ### See Also
 
 * class [FontCreationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontcreationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -37,7 +37,7 @@ public FontCreationException(string message)
 ### See Also
 
 * class [FontCreationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontcreationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -58,7 +58,7 @@ public FontCreationException(string message, Exception innerException)
 ### See Also
 
 * class [FontCreationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontcreationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -79,7 +79,7 @@ public FontCreationException(SerializationInfo info, StreamingContext context)
 ### See Also
 
 * class [FontCreationException](../)
-* namespace [Aspose.Font.Exceptions](../../fontcreationexception/)
+* namespace [Aspose.Font.Exceptions](../../../aspose.font.exceptions/)
 * assembly [Aspose.Font](../../../)
 
 

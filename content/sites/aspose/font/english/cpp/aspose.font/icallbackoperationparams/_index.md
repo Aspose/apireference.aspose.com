@@ -4,7 +4,7 @@ linktitle: ICallbackOperationParams
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::ICallbackOperationParams class. Designed to hold different parameters for scenarios when ICallbackStartEndOperations interface is used in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.font/icallbackoperationparams/
 ---
 ## ICallbackOperationParams class

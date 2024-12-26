@@ -17,7 +17,7 @@ public string Tag { get; }
 ### See Also
 
 * class [AxisRecord](../)
-* namespace [Aspose.Font.TtfTables](../../ttfstattable.axisrecord/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

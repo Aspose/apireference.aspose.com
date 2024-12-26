@@ -24,7 +24,7 @@ public void Transform(double x, double y, out double x1, out double y1)
 ### See Also
 
 * class [TransformationMatrix](../)
-* namespace [Aspose.Font](../../transformationmatrix/)
+* namespace [Aspose.Font](../../../aspose.font/)
 * assembly [Aspose.Font](../../../)
 
 

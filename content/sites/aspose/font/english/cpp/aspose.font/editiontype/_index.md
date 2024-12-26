@@ -4,7 +4,7 @@ linktitle: EditionType
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::EditionType enum. Specifies the edition type of the license in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.font/editiontype/
 ---
 ## EditionType enum

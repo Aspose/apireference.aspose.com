@@ -17,7 +17,7 @@ public short LineGap { get; }
 ### See Also
 
 * class [TtfVheaTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfvheatable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 

@@ -4,7 +4,7 @@ linktitle: GetAllGlyphIndexesForGlyphName
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::TtfTables::TtfPostTable::GetAllGlyphIndexesForGlyphName method. Gets array of glyphs indexes by glyph name in C++.'
 type: docs
-weight: 1500
+weight: 1300
 url: /cpp/aspose.font.ttftables/ttfposttable/getallglyphindexesforglyphname/
 ---
 ## TtfPostTable::GetAllGlyphIndexesForGlyphName method

@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Font for C++
 description: 'How to use CompareTo method of Aspose::Font::Glyphs::GlyphUInt32Id class in C++.'
 type: docs
-weight: 800
+weight: 300
 url: /cpp/aspose.font.glyphs/glyphuint32id/compareto/
 ---
 ## GlyphUInt32Id::CompareTo method

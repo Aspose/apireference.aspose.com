@@ -4,7 +4,7 @@ linktitle: FontSavingFormats
 second_title: Aspose.Font for C++
 description: 'Aspose::Font::FontSavingFormats enum. Specifies Font type in C++.'
 type: docs
-weight: 3300
+weight: 3200
 url: /cpp/aspose.font/fontsavingformats/
 ---
 ## FontSavingFormats enum

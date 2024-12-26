@@ -27,7 +27,7 @@ CMap subtables.
 
 * class [TtfCMapFormatBaseTable](../../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/)
 * class [TtfCMapTable](../)
-* namespace [Aspose.Font.TtfTables](../../ttfcmaptable/)
+* namespace [Aspose.Font.TtfTables](../../../aspose.font.ttftables/)
 * assembly [Aspose.Font](../../../)
 
 
