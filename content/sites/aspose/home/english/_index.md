@@ -33,6 +33,7 @@ Create, edit or convert PDF documents in your application. Includes individual p
 {{< blocks/product-item title="JavaScript via C++" href="/pdf/javascript-cpp/" class="btn-nodejs" >}}
 {{< blocks/product-item title="Python" href="/pdf/python-net/" class="btn-python" >}}
 {{< blocks/product-item title="Node.JS via C++" href="/pdf/nodejs-cpp/" class="btn-nodejs" >}}
+{{< blocks/product-item title=".NET AI Feature" href="/pdf/net/aspose.pdf.ai/" class="btn-net" >}}
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.Cells**" href="cells" >}}
@@ -50,6 +51,7 @@ Create, edit or convert Excel spreadsheets in your application. Includes individ
 {{< blocks/product-item title="Python via .NET" href="/cells/python-net/" class="btn-python" >}}
 {{< blocks/product-item title="Node.JS via C++" href="/cells/nodejs-cpp/" class="btn-nodejs" >}}
 {{< blocks/product-item title="Go via C++" href="/cells/go-cpp/" class="btn-c" >}}
+{{< blocks/product-item title=".NET AI Feature" href="/cells/net/aspose.cells.ai/" class="btn-net" >}}
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.Email**" href="email" >}}
