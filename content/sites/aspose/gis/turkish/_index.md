@@ -19,3 +19,4 @@ Aspose.GIS for .NET, .NET geliştiricilerinin çeşitli dosya formatlarında dep
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Aspose.GIS for .NET API Referansı](/gis/tr/net/)
+- [Aspose.GIS for .NET API Eğitimleri](/tutorials/gis/tr/net/)

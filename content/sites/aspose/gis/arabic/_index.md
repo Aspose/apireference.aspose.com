@@ -19,3 +19,4 @@ url: /ar/
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.GIS لمرجع .NET API](/gis/ar/net/)
+- [Aspose.GIS لبرامج .NET API التعليمية](/tutorials/gis/ar/net/)

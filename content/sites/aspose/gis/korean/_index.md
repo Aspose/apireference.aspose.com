@@ -19,3 +19,4 @@ Aspose.GIS for .NET은 .NET 개발자가 다양한 파일 형식으로 저장된
 
 다음은 몇 가지 유용한 리소스에 대한 링크입니다.
 - [.NET API 참조를 위한 Aspose.GIS](/gis/ko/net/)
+- [.NET API 튜토리얼용 Aspose.GIS](/tutorials/gis/ko/net/)

@@ -19,3 +19,4 @@ Aspose.GIS para .NET está diseñado específicamente para facilitar a los desar
 
 Estos son enlaces a algunos recursos útiles:
 - [Referencia de API de Aspose.GIS para .NET](/gis/es/net/)
+- [Tutoriales de API de Aspose.GIS para .NET](/tutorials/gis/es/net/)
