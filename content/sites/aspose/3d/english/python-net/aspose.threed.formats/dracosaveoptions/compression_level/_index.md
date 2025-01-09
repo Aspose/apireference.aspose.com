@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.formats/dracosaveoptions/compression_level/
+url: /aspose.threed.formats/dracosaveoptions/compression_level/
 is_root: false
 ---
 

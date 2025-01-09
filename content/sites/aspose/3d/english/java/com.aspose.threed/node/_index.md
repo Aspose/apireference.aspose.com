@@ -3,7 +3,7 @@ title: Node
 second_title: Aspose.3D for Java API Reference
 description: Represents an element in the scene graph.
 type: docs
-weight: 101
+weight: 102
 url: /java/com.aspose.threed/node/
 ---
 
@@ -46,7 +46,7 @@ Represents an element in the scene graph. A scene graph is a tree of Node object
 | [getEntity()](#getEntity--) | Gets the first entity attached to this node, if sets, will clear other entities. |
 | [getExcluded()](#getExcluded--) | Gets whether to exclude this node and all child nodes/entities during exporting. |
 | [getGlobalTransform()](#getGlobalTransform--) | Gets the global transform. |
-| [getMaterial()](#getMaterial--) | Gets the first material associated with this node, if sets, will clear other materials **Example:** |
+| [getMaterial()](#getMaterial--) | Gets the first material associated with this node, if sets, will clear other materials |
 | [getMaterials()](#getMaterials--) | Gets the materials associated with this node. |
 | [getMetaDatas()](#getMetaDatas--) | Gets the meta data defined in this node. |
 | [getName()](#getName--) | Gets the name. |
@@ -55,7 +55,7 @@ Represents an element in the scene graph. A scene graph is a tree of Node object
 | [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
 | [getScene()](#getScene--) | Gets the scene that this object belongs to |
 | [getTransform()](#getTransform--) | Gets the local transform. |
-| [getVisible()](#getVisible--) | Gets to show the node **Example:** The following code shows how to create a invisible node |
+| [getVisible()](#getVisible--) | Gets to show the node |
 | [hashCode()](#hashCode--) |  |
 | [merge(Node node)](#merge-com.aspose.threed.Node-) | Detach everything under the node and attach them to current node. |
 | [notify()](#notify--) |  |
@@ -329,7 +329,7 @@ public AssetInfo getAssetInfo()
 Per-node asset info
 
 **Returns:**
-[AssetInfo](../../com.aspose.threed/assetinfo)
+[AssetInfo](../../com.aspose.threed/assetinfo) - Per-node asset info
 ### getBoundingBox() {#getBoundingBox--}
 ```
 public BoundingBox getBoundingBox()
@@ -339,7 +339,7 @@ public BoundingBox getBoundingBox()
 Calculate the bounding box of the node
 
 **Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
+[BoundingBox](../../com.aspose.threed/boundingbox) - The bounding box of current node
 ### getChild(int index) {#getChild-int-}
 ```
 public Node getChild(int index)
@@ -388,7 +388,10 @@ public List<Node> getChildNodes()
 ```
 
 
-Gets the children nodes. **Example:** The following code shows how to enumerate child node of root node
+Gets the children nodes.
+
+**Returns:**
+java.util.List<com.aspose.threed.Node> - the children nodes. **Example:** The following code shows how to enumerate child node of root node
 
 ```
 Scene scene = Scene.fromFile("test.fbx");
@@ -397,9 +400,6 @@ Scene scene = Scene.fromFile("test.fbx");
          //do your business
      }
 ```
-
-**Returns:**
-java.util.List<com.aspose.threed.Node>
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -419,14 +419,17 @@ public List<Entity> getEntities()
 Gets all node entities.
 
 **Returns:**
-java.util.List<com.aspose.threed.Entity>
+java.util.List<com.aspose.threed.Entity> - all node entities.
 ### getEntity() {#getEntity--}
 ```
 public Entity getEntity()
 ```
 
 
-Gets the first entity attached to this node, if sets, will clear other entities. **Example:** The following code shows how to create a new child node under root node
+Gets the first entity attached to this node, if sets, will clear other entities.
+
+**Returns:**
+[Entity](../../com.aspose.threed/entity) - the first entity attached to this node, if sets, will clear other entities. **Example:** The following code shows how to create a new child node under root node
 
 ```
 Scene scene = new Scene();
@@ -434,16 +437,16 @@ Scene scene = new Scene();
      node.setEntity(new Box());
      scene.save("output.fbx");
 ```
-
-**Returns:**
-[Entity](../../com.aspose.threed/entity)
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
 ```
 
 
-Gets whether to exclude this node and all child nodes/entities during exporting. **Example:** The following code shows how to exclude specified node from exporting
+Gets whether to exclude this node and all child nodes/entities during exporting.
+
+**Returns:**
+boolean - whether to exclude this node and all child nodes/entities during exporting. **Example:** The following code shows how to exclude specified node from exporting
 
 ```
 Scene scene = new Scene();
@@ -451,16 +454,16 @@ Scene scene = new Scene();
      scene.getRootNode().createChildNode("not excluded", new Box());
      scene.save("output.usdz");
 ```
-
-**Returns:**
-boolean
 ### getGlobalTransform() {#getGlobalTransform--}
 ```
 public GlobalTransform getGlobalTransform()
 ```
 
 
-Gets the global transform. **Example:** The following code shows how to read node's global transform
+Gets the global transform.
+
+**Returns:**
+[GlobalTransform](../../com.aspose.threed/globaltransform) - the global transform. **Example:** The following code shows how to read node's global transform
 
 ```
 Scene scene = new Scene();
@@ -470,25 +473,22 @@ Scene scene = new Scene();
      var global = boxNode.getGlobalTransform();
      System.out.printf("The box's position in world coordinate is %s", global.getTranslation());
 ```
-
-**Returns:**
-[GlobalTransform](../../com.aspose.threed/globaltransform)
 ### getMaterial() {#getMaterial--}
 ```
 public Material getMaterial()
 ```
 
 
-Gets the first material associated with this node, if sets, will clear other materials **Example:**
+Gets the first material associated with this node, if sets, will clear other materials
+
+**Returns:**
+[Material](../../com.aspose.threed/material) - the first material associated with this node, if sets, will clear other materials **Example:**
 
 ```
 Scene scene = new Scene();
      var node = scene.getRootNode().createChildNode(new Box());
      node.setMaterial(new LambertMaterial());
 ```
-
-**Returns:**
-[Material](../../com.aspose.threed/material)
 ### getMaterials() {#getMaterials--}
 ```
 public List<Material> getMaterials()
@@ -498,7 +498,7 @@ public List<Material> getMaterials()
 Gets the materials associated with this node.
 
 **Returns:**
-java.util.List<com.aspose.threed.Material>
+java.util.List<com.aspose.threed.Material> - the materials associated with this node.
 ### getMetaDatas() {#getMetaDatas--}
 ```
 public List<CustomObject> getMetaDatas()
@@ -508,7 +508,7 @@ public List<CustomObject> getMetaDatas()
 Gets the meta data defined in this node.
 
 **Returns:**
-java.util.List<com.aspose.threed.CustomObject>
+java.util.List<com.aspose.threed.CustomObject> - the meta data defined in this node.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -518,7 +518,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -528,7 +528,7 @@ public Node getParentNode()
 Gets the parent node.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the parent node.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -538,7 +538,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -563,14 +563,17 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getTransform() {#getTransform--}
 ```
 public Transform getTransform()
 ```
 
 
-Gets the local transform. **Example:** The following code shows how to change the transform of the node:
+Gets the local transform.
+
+**Returns:**
+[Transform](../../com.aspose.threed/transform) - the local transform. **Example:** The following code shows how to change the transform of the node:
 
 ```
 Scene scene = new Scene();
@@ -578,16 +581,16 @@ Scene scene = new Scene();
      //place the box at (10, 0, 0)
      boxNode.getTransform().setTranslation(new Vector3(10, 0, 0));
 ```
-
-**Returns:**
-[Transform](../../com.aspose.threed/transform)
 ### getVisible() {#getVisible--}
 ```
 public boolean getVisible()
 ```
 
 
-Gets to show the node **Example:** The following code shows how to create a invisible node
+Gets to show the node
+
+**Returns:**
+boolean - to show the node **Example:** The following code shows how to create a invisible node
 
 ```
 Scene scene = new Scene();
@@ -595,9 +598,6 @@ Scene scene = new Scene();
      node.setVisible(false);
      scene.save("output.fbx");
 ```
-
-**Returns:**
-boolean
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -670,10 +670,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### selectObjects(String path) {#selectObjects-java.lang.String-}
 ```
 public ArrayList<Object> selectObjects(String path)
@@ -685,10 +685,10 @@ Select multiple objects under current node using XPath-like query syntax.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | java.lang.String |  |
+| path | java.lang.String | The XPath-like query |
 
 **Returns:**
-java.util.ArrayList<java.lang.Object>
+java.util.ArrayList<java.lang.Object> - Multiple object matches the XPath-like query.
 ### selectSingleObject(String path) {#selectSingleObject-java.lang.String-}
 ```
 public Object selectSingleObject(String path)
@@ -700,10 +700,10 @@ Select single object under current node using XPath-like query syntax.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | java.lang.String |  |
+| path | java.lang.String | The XPath-like query |
 
 **Returns:**
-java.lang.Object
+java.lang.Object - Object located by the XPath-like query.
 ### setAssetInfo(AssetInfo value) {#setAssetInfo-com.aspose.threed.AssetInfo-}
 ```
 public void setAssetInfo(AssetInfo value)

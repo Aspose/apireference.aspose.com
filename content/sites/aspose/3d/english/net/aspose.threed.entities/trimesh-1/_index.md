@@ -3,7 +3,7 @@ title: Class TriMeshT
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.TriMesh1T class. Generic version of TriMesh for users staticdefined vertex type
 type: docs
-weight: 2390
+weight: 770
 url: /net/aspose.threed.entities/trimesh-1/
 ---
 ## TriMesh&lt;T&gt; class

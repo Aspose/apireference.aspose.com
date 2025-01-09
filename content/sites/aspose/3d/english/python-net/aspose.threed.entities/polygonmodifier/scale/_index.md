@@ -3,8 +3,8 @@ title: scale method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 60
-url: /python-net/aspose.threed.entities/polygonmodifier/scale/
+weight: 70
+url: /aspose.threed.entities/polygonmodifier/scale/
 is_root: false
 ---
 
@@ -25,6 +25,24 @@ def scale(self, scene, scale):
 | scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to scale |
 | scale | aspose.threed.utilities.Vector3 | The scale factor |
 
+### Example 
+
+
+The following code shows how to scale all geometries in scene by 10 times.
+		
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import PolygonModifier
+from aspose.threed.utilities import Vector3
+
+# Load a test file for scaling
+scene = Scene.from_file("input.fbx")
+# scale all geometries 10 times.
+PolygonModifier.scale(scene, Vector3(10, 10, 10))
+scene.save("test.obj")
+
+```
+
 
 ## scale {#aspose.threed.Node-aspose.threed.utilities.Vector3}
 
@@ -42,6 +60,24 @@ def scale(self, node, scale):
 | :- | :- | :- |
 | node | [`Node`](/3d/python-net/aspose.threed/node) | The node to scale |
 | scale | aspose.threed.utilities.Vector3 | The scale factor |
+
+### Example 
+
+
+The following code shows how to scale all geometries in scene by 10 times.
+		 
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import PolygonModifier
+from aspose.threed.utilities import Vector3
+
+# Load a test file for scaling
+scene = Scene.from_file("input.fbx")
+# scale all geometries 10 times.
+PolygonModifier.scale(scene.root_node, Vector3(10, 10, 10))
+scene.save("test.obj")
+
+```
 
 
 

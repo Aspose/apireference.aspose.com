@@ -3,7 +3,7 @@ title: PushConstant
 second_title: Aspose.3D for Java API Reference
 description: A utility to provide data to shader through push constant.
 type: docs
-weight: 131
+weight: 132
 url: /java/com.aspose.threed/pushconstant/
 ---
 

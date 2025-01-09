@@ -3,7 +3,7 @@ title: PbrSpecularMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for physically based rendering based on diffuse color/specular/glossiness
 type: docs
-weight: 112
+weight: 113
 url: /java/com.aspose.threed/pbrspecularmaterial/
 ---
 
@@ -176,7 +176,7 @@ public Vector3 getDiffuse()
 Gets the diffuse color of the material, default value is (1, 1, 1)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the diffuse color of the material, default value is (1, 1, 1)
 ### getDiffuseTexture() {#getDiffuseTexture--}
 ```
 public TextureBase getDiffuseTexture()
@@ -186,7 +186,7 @@ public TextureBase getDiffuseTexture()
 Gets the texture for diffuse
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for diffuse
 ### getEmissiveColor() {#getEmissiveColor--}
 ```
 public Vector3 getEmissiveColor()
@@ -196,7 +196,7 @@ public Vector3 getEmissiveColor()
 Gets the emissive color, default value is (0, 0, 0)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the emissive color, default value is (0, 0, 0)
 ### getEmissiveTexture() {#getEmissiveTexture--}
 ```
 public TextureBase getEmissiveTexture()
@@ -206,7 +206,7 @@ public TextureBase getEmissiveTexture()
 Gets the texture for emissive
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for emissive
 ### getGlossinessFactor() {#getGlossinessFactor--}
 ```
 public double getGlossinessFactor()
@@ -216,7 +216,7 @@ public double getGlossinessFactor()
 Gets the glossiness(smoothness) of the material, 1 means perfectly smooth and 0 means perfectly rough, default value is 1, range is [0, 1]
 
 **Returns:**
-double
+double - the glossiness(smoothness) of the material, 1 means perfectly smooth and 0 means perfectly rough, default value is 1, range is [0, 1]
 ### getName() {#getName--}
 ```
 public String getName()
@@ -226,7 +226,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getNormalTexture() {#getNormalTexture--}
 ```
 public TextureBase getNormalTexture()
@@ -236,7 +236,7 @@ public TextureBase getNormalTexture()
 Gets the texture of normal mapping
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture of normal mapping
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -246,7 +246,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -271,7 +271,7 @@ public Vector3 getSpecular()
 Gets the specular color of the material, default value is (1, 1, 1).
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the specular color of the material, default value is (1, 1, 1).
 ### getSpecularGlossinessTexture() {#getSpecularGlossinessTexture--}
 ```
 public TextureBase getSpecularGlossinessTexture()
@@ -281,7 +281,7 @@ public TextureBase getSpecularGlossinessTexture()
 Gets the texture for specular color, channel RGB stores the specular color and channel A stores the glossiness.
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for specular color, channel RGB stores the specular color and channel A stores the glossiness.
 ### getTexture(String slotName) {#getTexture-java.lang.String-}
 ```
 public TextureBase getTexture(String slotName)
@@ -314,7 +314,7 @@ public double getTransparency()
 Gets the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 
 **Returns:**
-double
+double - the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -377,10 +377,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setDiffuse(Vector3 value) {#setDiffuse-com.aspose.threed.Vector3-}
 ```
 public void setDiffuse(Vector3 value)

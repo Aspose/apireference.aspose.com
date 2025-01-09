@@ -3,7 +3,7 @@ title: Enum WrapMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.WrapMode enum. Textures wrap mode
 type: docs
-weight: 390
+weight: 2540
 url: /net/aspose.threed.shading/wrapmode/
 ---
 ## WrapMode enumeration

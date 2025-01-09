@@ -3,7 +3,7 @@ title: FileFormat.FBX7300Binary
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. Binary FBX file format with 7.3.0 version
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.threed/fileformat/fbx7300binary/
 ---
 ## FileFormat.FBX7300Binary field

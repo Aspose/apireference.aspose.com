@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/boundingbox/
+url: /aspose.threed.utilities/boundingbox/
 is_root: false
 ---
 
@@ -27,13 +27,13 @@ The BoundingBox type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [null](/3d/python-net/aspose.threed.utilities/boundingbox/null) | The null bounding box |
+| [infinite](/3d/python-net/aspose.threed.utilities/boundingbox/infinite) | The infinite bounding box |
 | [extent](/3d/python-net/aspose.threed.utilities/boundingbox/extent) | Gets the extent of the bounding box. |
 | [minimum](/3d/python-net/aspose.threed.utilities/boundingbox/minimum) | The minimum corner of the bounding box |
 | [maximum](/3d/python-net/aspose.threed.utilities/boundingbox/maximum) | The maximum corner of the bounding box |
 | [size](/3d/python-net/aspose.threed.utilities/boundingbox/size) | The size of the bounding box |
 | [center](/3d/python-net/aspose.threed.utilities/boundingbox/center) | The center of the bounding box. |
-| [NULL](/3d/python-net/aspose.threed.utilities/boundingbox/null) | The null bounding box |
-| [INFINITE](/3d/python-net/aspose.threed.utilities/boundingbox/infinite) | The infinite bounding box |
 
 
 ### Methods
@@ -49,6 +49,20 @@ The BoundingBox type exposes the following members:
 | [contains](/3d/python-net/aspose.threed.utilities/boundingbox/contains/#aspose.threed.utilities.Vector3) | Check if the point p is inside the bounding box |
 
 
+
+### Example 
+
+
+The following code shows how to get a bounding box from an Entity instance.
+
+```python
+from aspose.threed.entities import Sphere
+
+sphere = Sphere()
+boundingBox = sphere.get_bounding_box()
+print("Bounding box = "  + str(boundingBox))
+
+```
 
 ### See Also
 * module [`aspose.threed.utilities`](..)

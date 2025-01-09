@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /python-net/aspose.threed.render/renderervariablemanager/world_time/
+url: /aspose.threed.render/renderervariablemanager/world_time/
 is_root: false
 ---
 

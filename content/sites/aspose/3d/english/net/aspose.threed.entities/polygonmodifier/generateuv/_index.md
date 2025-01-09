@@ -3,7 +3,7 @@ title: PolygonModifier.GenerateUV
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Generate UV data from the given input mesh and specified normal data
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.threed.entities/polygonmodifier/generateuv/
 ---
 ## GenerateUV(Mesh, VertexElementNormal) {#generateuv_1}
@@ -57,5 +57,6 @@ Generated UV data
 * class [PolygonModifier](../)
 * namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
 * assembly [Aspose.3D](../../../)
+* [Tutorial - Generate UV data for mesh](https://products.aspose.com/3d/tutorial/generate-uv-data/)
 
 

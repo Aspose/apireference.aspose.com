@@ -3,7 +3,7 @@ title: VertexField
 second_title: Aspose.3D for Java API Reference
 description: Vertexs field memory layout description.
 type: docs
-weight: 213
+weight: 214
 url: /java/com.aspose.threed/vertexfield/
 ---
 
@@ -76,7 +76,7 @@ public String getAlias()
 Field's alias.
 
 **Returns:**
-java.lang.String
+java.lang.String - Field's alias.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -96,7 +96,7 @@ public int getDataType()
 Data type of this field.
 
 **Returns:**
-int
+int - Data type of this field.
 ### getIndex() {#getIndex--}
 ```
 public int getIndex()
@@ -106,7 +106,7 @@ public int getIndex()
 Index of this field in the vertex's layout with same semantic.
 
 **Returns:**
-int
+int - Index of this field in the vertex's layout with same semantic.
 ### getOffset() {#getOffset--}
 ```
 public int getOffset()
@@ -116,7 +116,7 @@ public int getOffset()
 The offset in bytes of this field.
 
 **Returns:**
-int
+int - The offset in bytes of this field.
 ### getSemantic() {#getSemantic--}
 ```
 public VertexFieldSemantic getSemantic()
@@ -126,7 +126,7 @@ public VertexFieldSemantic getSemantic()
 The usage semantic of this field.
 
 **Returns:**
-[VertexFieldSemantic](../../com.aspose.threed/vertexfieldsemantic)
+[VertexFieldSemantic](../../com.aspose.threed/vertexfieldsemantic) - The usage semantic of this field.
 ### getSize() {#getSize--}
 ```
 public int getSize()
@@ -136,7 +136,7 @@ public int getSize()
 The size in bytes of this field
 
 **Returns:**
-int
+int - The size in bytes of this field
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

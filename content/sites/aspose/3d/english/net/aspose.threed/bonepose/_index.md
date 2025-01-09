@@ -3,7 +3,7 @@ title: Class BonePose
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.BonePose class. The BonePose contains the transformation matrix for a bone node
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.threed/bonepose/
 ---
 ## BonePose class

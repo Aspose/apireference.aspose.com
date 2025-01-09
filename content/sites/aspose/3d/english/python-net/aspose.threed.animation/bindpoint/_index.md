@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.animation/bindpoint/
+url: /aspose.threed.animation/bindpoint/
 is_root: false
 ---
 
@@ -48,7 +48,6 @@ The BindPoint type exposes the following members:
 | [set_property](/3d/python-net/aspose.threed.animation/bindpoint/set_property/#str-any) | Sets the value of specified property |
 | [find_property](/3d/python-net/aspose.threed.animation/bindpoint/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_keyframe_sequence](/3d/python-net/aspose.threed.animation/bindpoint/get_keyframe_sequence/#str) | Gets the first keyframe sequence in specified channel |
-| [get_keyframe_sequences](/3d/python-net/aspose.threed.animation/bindpoint/get_keyframe_sequences/#str) | Gets all keyframe sequences in specified channel |
 | [create_keyframe_sequence](/3d/python-net/aspose.threed.animation/bindpoint/create_keyframe_sequence/#str) | Creates a new curve and connects it to the first channel of the curve mapping |
 | [bind_keyframe_sequence](/3d/python-net/aspose.threed.animation/bindpoint/bind_keyframe_sequence/#str-aspose.threed.animation.KeyframeSequence) | Bind the keyframe sequence to specified channel |
 | [get_channel](/3d/python-net/aspose.threed.animation/bindpoint/get_channel/#str) | Gets channel by given name |

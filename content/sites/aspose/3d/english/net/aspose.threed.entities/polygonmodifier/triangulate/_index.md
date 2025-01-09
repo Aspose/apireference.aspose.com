@@ -3,7 +3,7 @@ title: PolygonModifier.Triangulate
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Convert all polygonbased meshes into full triangle mesh
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.threed.entities/polygonmodifier/triangulate/
 ---
 ## Triangulate(Scene) {#triangulate_5}

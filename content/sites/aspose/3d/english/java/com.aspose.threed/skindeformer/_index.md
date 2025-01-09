@@ -3,7 +3,7 @@ title: SkinDeformer
 second_title: Aspose.3D for Java API Reference
 description: A skin deformer contains multiple bones to work each bone blends a part of the geometry by control points weights.
 type: docs
-weight: 163
+weight: 164
 url: /java/com.aspose.threed/skindeformer/
 ---
 
@@ -103,7 +103,7 @@ public List<Bone> getBones()
 Gets all bones that the skin deformer contains
 
 **Returns:**
-java.util.List<com.aspose.threed.Bone>
+java.util.List<com.aspose.threed.Bone> - all bones that the skin deformer contains
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -123,7 +123,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getOwner() {#getOwner--}
 ```
 public Geometry getOwner()
@@ -133,7 +133,7 @@ public Geometry getOwner()
 Gets the geometry which owns this deformer
 
 **Returns:**
-[Geometry](../../com.aspose.threed/geometry)
+[Geometry](../../com.aspose.threed/geometry) - the geometry which owns this deformer
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -143,7 +143,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -211,10 +211,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setName(String value) {#setName-java.lang.String-}
 ```
 public void setName(String value)

@@ -18,6 +18,16 @@ public static FileSystem CreateLocalFileSystem(string directory)
 | --- | --- | --- |
 | directory | String | The directory in your physical file system as the virtual root directory. |
 
+### Return Value
+
+A new instance of file system to provide local file access
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| FileNotFoundException | Thrown when directory cannot be found. |
+
 ### Examples
 
 The following code shows how to import file, and provide dependent files in a given directory

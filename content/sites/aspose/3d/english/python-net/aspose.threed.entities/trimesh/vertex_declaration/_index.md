@@ -3,8 +3,8 @@ title: vertex_declaration property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 370
-url: /python-net/aspose.threed.entities/trimesh/vertex_declaration/
+weight: 380
+url: /aspose.threed.entities/trimesh/vertex_declaration/
 is_root: false
 ---
 

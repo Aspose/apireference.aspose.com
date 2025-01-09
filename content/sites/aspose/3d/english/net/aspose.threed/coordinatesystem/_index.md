@@ -3,7 +3,7 @@ title: Enum CoordinateSystem
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.CoordinateSystem enum. The left handed or right handed coordinate system
 type: docs
-weight: 130
+weight: 170
 url: /net/aspose.threed/coordinatesystem/
 ---
 ## CoordinateSystem enumeration

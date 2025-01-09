@@ -3,7 +3,7 @@ title: KeyframeSequence
 second_title: Aspose.3D for Java API Reference
 description: The sequence of key-frames it describes the transformation of a sampled value over time.
 type: docs
-weight: 83
+weight: 84
 url: /java/com.aspose.threed/keyframesequence/
 ---
 
@@ -141,7 +141,7 @@ public BindPoint getBindPoint()
 Gets the property bind point which owns this curve
 
 **Returns:**
-[BindPoint](../../com.aspose.threed/bindpoint)
+[BindPoint](../../com.aspose.threed/bindpoint) - the property bind point which owns this curve
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -161,7 +161,7 @@ public List<KeyFrame> getKeyFrames()
 Gets the key frames of this curve.
 
 **Returns:**
-java.util.List<com.aspose.threed.KeyFrame>
+java.util.List<com.aspose.threed.KeyFrame> - the key frames of this curve.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -171,7 +171,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getPostBehavior() {#getPostBehavior--}
 ```
 public Extrapolation getPostBehavior()
@@ -181,7 +181,7 @@ public Extrapolation getPostBehavior()
 Gets the post behavior indicates what the sampled value should be after the last key frame.
 
 **Returns:**
-[Extrapolation](../../com.aspose.threed/extrapolation)
+[Extrapolation](../../com.aspose.threed/extrapolation) - the post behavior indicates what the sampled value should be after the last key frame.
 ### getPreBehavior() {#getPreBehavior--}
 ```
 public Extrapolation getPreBehavior()
@@ -191,7 +191,7 @@ public Extrapolation getPreBehavior()
 Gets the pre behavior indicates what the sampled value should be before the first key.
 
 **Returns:**
-[Extrapolation](../../com.aspose.threed/extrapolation)
+[Extrapolation](../../com.aspose.threed/extrapolation) - the pre behavior indicates what the sampled value should be before the first key.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -201,7 +201,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -279,10 +279,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### reset() {#reset--}
 ```
 public void reset()

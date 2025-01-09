@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /python-net/aspose.threed/fileformattype/
+url: /aspose.threed/fileformattype/
 is_root: false
 ---
 
@@ -21,6 +21,7 @@ The FileFormatType type exposes the following members:
 | :- | :- |
 | [extension](/3d/python-net/aspose.threed/fileformattype/extension) | The extension name of this file format, started with . |
 | [MAYA](/3d/python-net/aspose.threed/fileformattype/maya) | Autodesk Maya format type |
+| [BLENDER](/3d/python-net/aspose.threed/fileformattype/blender) | Blender format type |
 | [FBX](/3d/python-net/aspose.threed/fileformattype/fbx) | FBX file format type |
 | [STL](/3d/python-net/aspose.threed/fileformattype/stl) | STL file format type |
 | [WAVEFRONT_OBJ](/3d/python-net/aspose.threed/fileformattype/wavefront_obj) | Wavefront OBJ format type |

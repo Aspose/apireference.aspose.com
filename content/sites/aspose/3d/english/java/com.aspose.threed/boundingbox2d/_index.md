@@ -142,7 +142,7 @@ public BoundingBoxExtent getExtent()
 Gets the extent of the bounding box.
 
 **Returns:**
-[BoundingBoxExtent](../../com.aspose.threed/boundingboxextent)
+[BoundingBoxExtent](../../com.aspose.threed/boundingboxextent) - the extent of the bounding box.
 ### getMaximum() {#getMaximum--}
 ```
 public Vector2 getMaximum()
@@ -152,7 +152,7 @@ public Vector2 getMaximum()
 The maximum corner of the bounding box
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - The maximum corner of the bounding box
 ### getMinimum() {#getMinimum--}
 ```
 public Vector2 getMinimum()
@@ -162,7 +162,7 @@ public Vector2 getMinimum()
 The minimum corner of the bounding box
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - The minimum corner of the bounding box
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -184,7 +184,7 @@ Merges the new box into the current bounding box.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bb | [BoundingBox2D](../../com.aspose.threed/boundingbox2d) |  |
+| bb | [BoundingBox2D](../../com.aspose.threed/boundingbox2d) | The bounding box to merge |
 
 ### merge(Vector2 pt) {#merge-com.aspose.threed.Vector2-}
 ```
@@ -197,7 +197,7 @@ Merges the new box into the current bounding box.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pt | [Vector2](../../com.aspose.threed/vector2) |  |
+| pt | [Vector2](../../com.aspose.threed/vector2) | The point to merge |
 
 ### notify() {#notify--}
 ```

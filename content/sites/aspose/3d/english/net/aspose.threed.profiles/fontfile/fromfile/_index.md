@@ -22,6 +22,12 @@ public static FontFile FromFile(string fileName)
 
 FontFile instance
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed to read from file. |
+
 ### Examples
 
 The following code shows how to create a 3D mesh from text using specified font file.

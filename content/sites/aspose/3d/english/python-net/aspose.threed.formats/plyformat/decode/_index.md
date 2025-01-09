@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/plyformat/decode/
+url: /aspose.threed.formats/plyformat/decode/
 is_root: false
 ---
 
@@ -29,6 +29,23 @@ def decode(self, file_name):
 | :- | :- | :- |
 | file_name | str | The input stream |
 
+### Example 
+
+
+The following code shows how to decode a mesh from a PLY file:
+		
+```python
+from aspose import pycore
+from aspose.threed import FileFormat
+from aspose.threed.entities import Mesh, Sphere
+
+# Generate a test file for decoding
+FileFormat.PLY.encode(Sphere(), "sphere.ply")
+# Decode the file
+mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
+
+```
+
 
 ## decode {#io.RawIOBase}
 
@@ -50,6 +67,23 @@ def decode(self, stream):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The input stream |
+
+### Example 
+
+
+The following code shows how to decode a mesh from a PLY file:
+		
+```python
+from aspose import pycore
+from aspose.threed import FileFormat
+from aspose.threed.entities import Mesh, Sphere
+
+# Generate a test file for decoding
+FileFormat.PLY.encode(Sphere(), "sphere.ply")
+# Decode the file
+mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
+
+```
 
 
 ## decode {#str-aspose.threed.formats.PlyLoadOptions}
@@ -74,6 +108,23 @@ def decode(self, file_name, opt):
 | file_name | str | The input stream |
 | opt | [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) | The load option of PLY format |
 
+### Example 
+
+
+The following code shows how to decode a mesh from a PLY file:
+		
+```python
+from aspose import pycore
+from aspose.threed import FileFormat
+from aspose.threed.entities import Mesh, Sphere
+
+# Generate a test file for decoding
+FileFormat.PLY.encode(Sphere(), "sphere.ply")
+# Decode the file
+mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
+
+```
+
 
 ## decode {#io.RawIOBase-aspose.threed.formats.PlyLoadOptions}
 
@@ -96,6 +147,23 @@ def decode(self, stream, opt):
 | :- | :- | :- |
 | stream | io.RawIOBase | The input stream |
 | opt | [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) | The load option of PLY format |
+
+### Example 
+
+
+The following code shows how to decode a mesh from a PLY file:
+		
+```python
+from aspose import pycore
+from aspose.threed import FileFormat
+from aspose.threed.entities import Mesh, Sphere
+
+# Generate a test file for decoding
+FileFormat.PLY.encode(Sphere(), "sphere.ply")
+# Decode the file
+mesh = pycore.cast(Mesh, FileFormat.PLY.decode("sphere.ply"))
+
+```
 
 
 

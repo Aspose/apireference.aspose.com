@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/boundingbox/__init__/
+url: /aspose.threed.utilities/boundingbox/__init__/
 is_root: false
 ---
 
@@ -39,6 +39,21 @@ def __init__(self, minimum, maximum):
 | minimum | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The minimum corner |
 | maximum | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The maximum corner |
 
+### Example 
+
+
+The following code shows how to construct a bounding box from minimum and maximum corners.
+
+```python
+from aspose.threed.utilities import BoundingBox, Vector3
+
+minimum = Vector3(0, 0, 0)
+maximum = Vector3(10, 10, 10)
+boundingBox = BoundingBox(minimum, maximum)
+print("Bounding box = "  + str(boundingBox))
+
+```
+
 
 ## __init__ {#float-float-float-float-float-float}
 
@@ -54,12 +69,25 @@ def __init__(self, min_x, min_y, min_z, max_x, max_y, max_z):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| min_x | float |  |
-| min_y | float |  |
-| min_z | float |  |
-| max_x | float |  |
-| max_y | float |  |
-| max_z | float |  |
+| min_x | float | The minimum corner's X |
+| min_y | float | The minimum corner's Y |
+| min_z | float | The minimum corner's Z |
+| max_x | float | The maximum corner's X |
+| max_y | float | The maximum corner's Y |
+| max_z | float | The maximum corner's Z |
+
+### Example 
+
+
+The following code shows how to construct a bounding box from minimum and maximum corners.
+
+```python
+from aspose.threed.utilities import BoundingBox
+
+boundingBox = BoundingBox(0, 0, 0, 10, 10, 10)
+print("Bounding box = "  + str(boundingBox))
+
+```
 
 
 

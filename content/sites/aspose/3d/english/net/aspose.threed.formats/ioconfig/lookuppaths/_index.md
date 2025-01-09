@@ -14,6 +14,18 @@ Some files like OBJ depends on external file, the lookup paths will allows Aspos
 public List<string> LookupPaths { get; set; }
 ```
 
+### Examples
+
+The following code shows how to manually specify the look up textures, so the importer can find
+
+```csharp
+var opt = new ObjLoadOptions();
+//Specify the lookup paths, so the textures can be located.
+opt.LookupPaths.Add("textures");
+var scene = Scene.FromFile("input.obj", opt);
+scene.Save("output.glb");
+```
+
 ### See Also
 
 * class [IOConfig](../)

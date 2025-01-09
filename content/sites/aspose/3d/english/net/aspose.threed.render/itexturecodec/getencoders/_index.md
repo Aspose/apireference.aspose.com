@@ -14,6 +14,10 @@ Gets supported texture encoders.
 public ITextureEncoder[] GetEncoders()
 ```
 
+### Return Value
+
+An array of supported texture encoders
+
 ### See Also
 
 * interface [ITextureEncoder](../../itextureencoder/)

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/fmatrix4/__init__/
+url: /aspose.threed.utilities/fmatrix4/__init__/
 is_root: false
 ---
 
@@ -36,7 +36,7 @@ def __init__(self, mat):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mat | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) |  |
+| mat | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) | The [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) instance. |
 
 
 ## __init__ {#aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4-aspose.threed.utilities.FVector4}
@@ -73,22 +73,22 @@ def __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m00 | float |  |
-| m01 | float |  |
-| m02 | float |  |
-| m03 | float |  |
-| m10 | float |  |
-| m11 | float |  |
-| m12 | float |  |
-| m13 | float |  |
-| m20 | float |  |
-| m21 | float |  |
-| m22 | float |  |
-| m23 | float |  |
-| m30 | float |  |
-| m31 | float |  |
-| m32 | float |  |
-| m33 | float |  |
+| m00 | float | The m[0, 0] |
+| m01 | float | The m[0, 1] |
+| m02 | float | The m[0, 2] |
+| m03 | float | The m[0, 3] |
+| m10 | float | The m[1, 0] |
+| m11 | float | The m[1, 1] |
+| m12 | float | The m[1, 2] |
+| m13 | float | The m[1, 3] |
+| m20 | float | The m[2, 0] |
+| m21 | float | The m[2, 1] |
+| m22 | float | The m[2, 2] |
+| m23 | float | The m[2, 3] |
+| m30 | float | The m[3, 0] |
+| m31 | float | The m[3, 1] |
+| m32 | float | The m[3, 2] |
+| m33 | float | The m[3, 3] |
 
 
 

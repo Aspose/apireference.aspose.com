@@ -3,7 +3,7 @@ title: Class GLSLSource
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.GLSLSource class. The source code of shaders in GLSL
 type: docs
-weight: 920
+weight: 1910
 url: /net/aspose.threed.render/glslsource/
 ---
 ## GLSLSource class

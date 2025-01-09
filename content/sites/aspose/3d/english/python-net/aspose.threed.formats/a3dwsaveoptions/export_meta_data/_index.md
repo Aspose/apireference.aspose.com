@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/a3dwsaveoptions/export_meta_data/
+url: /aspose.threed.formats/a3dwsaveoptions/export_meta_data/
 is_root: false
 ---
 

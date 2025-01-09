@@ -3,7 +3,7 @@ title: Class VertexElementNormal
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementNormal class. Defines normal vectors for specified components
 type: docs
-weight: 2570
+weight: 860
 url: /net/aspose.threed.entities/vertexelementnormal/
 ---
 ## VertexElementNormal class

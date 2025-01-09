@@ -31,7 +31,7 @@ public abstract VertexDeclaration getVertexDeclaration()
 Gets the vertex declaration
 
 **Returns:**
-[VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
+[VertexDeclaration](../../com.aspose.threed/vertexdeclaration) - the vertex declaration
 ### loadData(TriMesh mesh) {#loadData-com.aspose.threed.TriMesh-}
 ```
 public abstract void loadData(TriMesh mesh)

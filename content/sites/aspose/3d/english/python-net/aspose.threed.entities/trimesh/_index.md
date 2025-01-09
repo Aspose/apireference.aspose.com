@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 380
-url: /python-net/aspose.threed.entities/trimesh/
+url: /aspose.threed.entities/trimesh/
 is_root: false
 ---
 
@@ -70,6 +70,7 @@ The TriMesh type exposes the following members:
 | [vertices_to_array](/3d/python-net/aspose.threed.entities/trimesh/vertices_to_array/#) | Convert the vertices data to byte array |
 | [from_raw_data](/3d/python-net/aspose.threed.entities/trimesh/from_raw_data/#aspose.threed.utilities.VertexDeclaration-bytes-list-bool) | Create TriMesh from raw data |
 | [load_vertices_from_bytes](/3d/python-net/aspose.threed.entities/trimesh/load_vertices_from_bytes/#bytes) | Load vertices from bytes, the length of bytes must be an integer multiple of vertex size. |
+| [add_triangle](/3d/python-net/aspose.threed.entities/trimesh/add_triangle/#int-int-int) | Add a new triangle |
 | [read_vector4](/3d/python-net/aspose.threed.entities/trimesh/read_vector4/#int-aspose.threed.utilities.VertexField) | Read the vector4 field |
 | [read_f_vector4](/3d/python-net/aspose.threed.entities/trimesh/read_f_vector4/#int-aspose.threed.utilities.VertexField) | Read the vector4 field |
 | [read_vector3](/3d/python-net/aspose.threed.entities/trimesh/read_vector3/#int-aspose.threed.utilities.VertexField) | Read the vector3 field |

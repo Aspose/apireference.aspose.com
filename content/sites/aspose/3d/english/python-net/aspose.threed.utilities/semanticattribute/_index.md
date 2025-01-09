@@ -3,8 +3,8 @@ title: SemanticAttribute class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /python-net/aspose.threed.utilities/semanticattribute/
+weight: 150
+url: /aspose.threed.utilities/semanticattribute/
 is_root: false
 ---
 

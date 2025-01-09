@@ -3,7 +3,7 @@ title: Class Circle
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Circle class. A Circle curve consists of a set of points in the edge of the circle shape
 type: docs
-weight: 1940
+weight: 290
 url: /net/aspose.threed.entities/circle/
 ---
 ## Circle class

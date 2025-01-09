@@ -3,8 +3,8 @@ title: copy_from method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /python-net/aspose.threed.entities/trimesh/copy_from/
+weight: 40
+url: /aspose.threed.entities/trimesh/copy_from/
 is_root: false
 ---
 

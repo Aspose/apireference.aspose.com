@@ -95,7 +95,7 @@ public String getComputeShader()
 Gets the source code of the compute shader.
 
 **Returns:**
-java.lang.String
+java.lang.String - the source code of the compute shader.
 ### getFragmentShader() {#getFragmentShader--}
 ```
 public String getFragmentShader()
@@ -105,7 +105,7 @@ public String getFragmentShader()
 Gets the source code of the fragment shader.
 
 **Returns:**
-java.lang.String
+java.lang.String - the source code of the fragment shader.
 ### getGeometryShader() {#getGeometryShader--}
 ```
 public String getGeometryShader()
@@ -115,7 +115,7 @@ public String getGeometryShader()
 Gets the source code of the geometry shader.
 
 **Returns:**
-java.lang.String
+java.lang.String - the source code of the geometry shader.
 ### getVertexShader() {#getVertexShader--}
 ```
 public String getVertexShader()
@@ -125,7 +125,7 @@ public String getVertexShader()
 Gets the source code of the vertex shader
 
 **Returns:**
-java.lang.String
+java.lang.String - the source code of the vertex shader
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

@@ -4,14 +4,14 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /python-net/aspose.threed.entities/nurbscurve/
+url: /aspose.threed.entities/nurbscurve/
 is_root: false
 ---
 
 ## NurbsCurve class
 
 [NURBS curve](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) is a curve represented by NURBS(Non-uniform rational basis spline),
-A NURBS curve is defined by its [`NurbsCurve.order`](/3d/python-net/aspose.threed.entities/nurbscurve#order), a set of weighted [`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points) and a [`NurbsCurve.KnotVectors`](/3d/python-net/aspose.threed.entities/nurbscurve)
+A NURBS curve is defined by its [`NurbsCurve.order`](/3d/python-net/aspose.threed.entities/nurbscurve#order), a set of weighted [`Geometry.ControlPoints`](/3d/python-net/aspose.threed.entities/geometry) and a [`NurbsCurve.KnotVectors`](/3d/python-net/aspose.threed.entities/nurbscurve)
 The w component in control point is used as control point's weight, whatever it is a [`CurveDimension.TWO_DIMENSIONAL`](/3d/python-net/aspose.threed.entities/curvedimension#TWO_DIMENSIONAL) or [`CurveDimension.THREE_DIMENSIONAL`](/3d/python-net/aspose.threed.entities/curvedimension#THREE_DIMENSIONAL)
 
 

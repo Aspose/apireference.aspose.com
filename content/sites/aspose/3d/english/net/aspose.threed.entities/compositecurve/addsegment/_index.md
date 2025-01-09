@@ -1,14 +1,14 @@
 ---
 title: CompositeCurve.AddSegment
 second_title: Aspose.3D for .NET API Reference
-description: CompositeCurve method. The
+description: CompositeCurve method. Add a new segment to current curve
 type: docs
 weight: 30
 url: /net/aspose.threed.entities/compositecurve/addsegment/
 ---
 ## CompositeCurve.AddSegment method
 
-The
+Add a new segment to current curve.
 
 ```csharp
 public void AddSegment(Curve curve, bool sameDirection = true)
@@ -16,8 +16,8 @@ public void AddSegment(Curve curve, bool sameDirection = true)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| curve | Curve |  |
-| sameDirection | Boolean |  |
+| curve | Curve | The curve to add |
+| sameDirection | Boolean | Same direction with current curve. |
 
 ### See Also
 

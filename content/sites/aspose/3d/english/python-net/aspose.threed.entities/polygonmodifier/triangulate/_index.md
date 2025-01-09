@@ -3,8 +3,8 @@ title: triangulate method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 80
-url: /python-net/aspose.threed.entities/polygonmodifier/triangulate/
+weight: 90
+url: /aspose.threed.entities/polygonmodifier/triangulate/
 is_root: false
 ---
 
@@ -23,6 +23,23 @@ def triangulate(self, scene):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to process |
+
+### Example 
+
+
+The following code shows how to merge all objects from a scene into a single mesh.
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Cylinder, PolygonModifier
+
+mesh = Cylinder().to_mesh()
+# Triangulate this quadrangle-based mesh to triangle-based
+mesh = PolygonModifier.triangulate(mesh)
+scene = Scene(mesh)
+scene.save("test.obj")
+
+```
 
 
 ## triangulate {#aspose.threed.entities.Mesh}
@@ -45,6 +62,23 @@ def triangulate(self, mesh):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
+
+### Example 
+
+
+The following code shows how to merge all objects from a scene into a single mesh.
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Cylinder, PolygonModifier
+
+mesh = Cylinder().to_mesh()
+# Triangulate this quadrangle-based mesh to triangle-based
+mesh = PolygonModifier.triangulate(mesh)
+scene = Scene(mesh)
+scene.save("test.obj")
+
+```
 
 
 ## triangulate {#list}

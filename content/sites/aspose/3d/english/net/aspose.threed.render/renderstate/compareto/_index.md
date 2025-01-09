@@ -16,7 +16,7 @@ public int CompareTo(RenderState other)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | RenderState |  |
+| other | RenderState | Another render state to compare |
 
 ### See Also
 

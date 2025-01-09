@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/fvector4/__init__/
+url: /aspose.threed.utilities/fvector4/__init__/
 is_root: false
 ---
 
@@ -88,9 +88,9 @@ def __init__(self, x, y, z):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | float |  |
-| y | float |  |
-| z | float |  |
+| x | float | X component |
+| y | float | Y component |
+| z | float | Z component |
 
 
 ## __init__ {#float-float-float-float}
@@ -107,10 +107,10 @@ def __init__(self, x, y, z, w):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | float |  |
-| y | float |  |
-| z | float |  |
-| w | float |  |
+| x | float | X component |
+| y | float | Y component |
+| z | float | Z component |
+| w | float | W component |
 
 
 

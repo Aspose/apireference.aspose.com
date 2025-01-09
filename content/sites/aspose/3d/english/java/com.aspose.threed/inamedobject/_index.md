@@ -25,4 +25,4 @@ public abstract String getName()
 Gets the name of the object
 
 **Returns:**
-java.lang.String
+java.lang.String - the name of the object

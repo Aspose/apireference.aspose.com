@@ -3,7 +3,7 @@ title: Class Bone
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Deformers.Bone class. A bone defines the subset of the geometrys control point and defined blend weight for each control point. The Bone object cannot be used directly a SkinDeformer instance is used to deform the geometry and SkinDeformer comes with a set of bones each bone linked to a node. NOTE A control point of a geometry can be bounded to more than one Bones
 type: docs
-weight: 2660
+weight: 190
 url: /net/aspose.threed.deformers/bone/
 ---
 ## Bone class

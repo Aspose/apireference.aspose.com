@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.formats/dracoformat/encode/
+url: /aspose.threed.formats/dracoformat/encode/
 is_root: false
 ---
 
@@ -48,6 +48,12 @@ def encode(self, entity, stream, options):
 | entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
 | stream | io.RawIOBase | The stream that encoded data will be written to |
 | options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed to read from stream |
+
+
 
 
 ## encode {#aspose.threed.Entity-str-aspose.threed.formats.DracoSaveOptions}
@@ -67,6 +73,12 @@ def encode(self, entity, file_name, options):
 | entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
 | file_name | str | The file name to be written |
 | options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed to read from file |
+
+
 
 
 

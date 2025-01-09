@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /python-net/aspose.threed.entities/polygonmodifier/
+url: /aspose.threed.entities/polygonmodifier/
 is_root: false
 ---
 
@@ -37,6 +37,7 @@ The PolygonModifier type exposes the following members:
 | [split_mesh](/3d/python-net/aspose.threed.entities/polygonmodifier/split_mesh/#aspose.threed.entities.Mesh-aspose.threed.entities.SplitMeshPolicy) | Split mesh into sub-meshes by [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial).<br/>Each sub-mesh will use only one material.<br/>The original mesh will not get changed. |
 | [build_tangent_binormal](/3d/python-net/aspose.threed.entities/polygonmodifier/build_tangent_binormal/#aspose.threed.Scene) | This will create tangent and binormal on all meshes of the scene<br/>Normal is required, if normal is not existing on the mesh, it will also create the normal data from position.<br/>UV is also required, the mesh will be ignored if no UV is defined. |
 | [build_tangent_binormal](/3d/python-net/aspose.threed.entities/polygonmodifier/build_tangent_binormal/#aspose.threed.entities.Mesh) | This will create tangent and binormal on the mesh<br/>Normal is required, if normal is not existing on the mesh, it will also create the normal data from position.<br/>UV is also required, an exception will be raised if no UV found. |
+| [apply_transform](/3d/python-net/aspose.threed.entities/polygonmodifier/apply_transform/#aspose.threed.Node-aspose.threed.utilities.Matrix4) | Apply transform matrix on control points of all geometries |
 | [generate_normal](/3d/python-net/aspose.threed.entities/polygonmodifier/generate_normal/#aspose.threed.entities.Mesh) | Generate normal data from Mesh definition |
 
 

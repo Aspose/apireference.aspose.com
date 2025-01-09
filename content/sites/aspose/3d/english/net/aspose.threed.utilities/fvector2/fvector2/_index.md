@@ -14,6 +14,11 @@ Initializes a new instance of the [`FVector2`](../).
 public FVector2(float x, float y)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Single | X component of the vector |
+| y | Single | Y component of the vector |
+
 ### See Also
 
 * struct [FVector2](../)
@@ -29,6 +34,10 @@ Initializes a new instance of the [`FVector2`](../).
 ```csharp
 public FVector2(Vector2 vec)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vec | Vector2 | Vector2 in double type |
 
 ### See Also
 

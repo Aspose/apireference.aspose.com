@@ -3,7 +3,7 @@ title: Class IOConfig
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.IOConfig class. IO config for serialization/deserialization. User can specify detailed configurations like dependency lookup path Or formatrelated configs here
 type: docs
-weight: 1690
+weight: 1210
 url: /net/aspose.threed.formats/ioconfig/
 ---
 ## IOConfig class

@@ -3,8 +3,8 @@ title: STL_BINARY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 480
-url: /python-net/aspose.threed.formats/pdfformat/stl_binary/
+weight: 490
+url: /aspose.threed.formats/pdfformat/stl_binary/
 is_root: false
 ---
 

@@ -40,4 +40,4 @@ public abstract String getFileExtension()
 File extension name(without dot) of the this encoder
 
 **Returns:**
-java.lang.String
+java.lang.String - File extension name(without dot) of the this encoder

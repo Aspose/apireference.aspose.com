@@ -3,7 +3,7 @@ title: Class Profile
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.Profile class. 2D Profile in xy plane
 type: docs
-weight: 1140
+weight: 1690
 url: /net/aspose.threed.profiles/profile/
 ---
 ## Profile class

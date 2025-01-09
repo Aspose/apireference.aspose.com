@@ -3,7 +3,7 @@ title: Enum BoneLinkMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Deformers.BoneLinkMode enum. A bones link mode refers to the way in which a bone is connected or linked to its parent bone within a hierarchical structure
 type: docs
-weight: 2650
+weight: 200
 url: /net/aspose.threed.deformers/bonelinkmode/
 ---
 ## BoneLinkMode enumeration

@@ -3,7 +3,7 @@ title: Class PdfFormat
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.PdfFormat class. Adobes Portable Document Format
 type: docs
-weight: 1740
+weight: 1290
 url: /net/aspose.threed.formats/pdfformat/
 ---
 ## PdfFormat class

@@ -3,8 +3,8 @@ title: TransformBuilder class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /python-net/aspose.threed.utilities/transformbuilder/
+weight: 160
+url: /aspose.threed.utilities/transformbuilder/
 is_root: false
 ---
 

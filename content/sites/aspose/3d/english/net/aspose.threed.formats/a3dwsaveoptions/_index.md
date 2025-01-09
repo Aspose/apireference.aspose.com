@@ -3,7 +3,7 @@ title: Class A3dwSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.A3dwSaveOptions class. Save options for A3DW format
 type: docs
-weight: 1510
+weight: 1050
 url: /net/aspose.threed.formats/a3dwsaveoptions/
 ---
 ## A3dwSaveOptions class

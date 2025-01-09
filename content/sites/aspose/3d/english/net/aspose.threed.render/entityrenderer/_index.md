@@ -3,7 +3,7 @@ title: Class EntityRenderer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.EntityRenderer class. Subclass this to implement rendering for different kind of entities
 type: docs
-weight: 510
+weight: 1870
 url: /net/aspose.threed.render/entityrenderer/
 ---
 ## EntityRenderer class

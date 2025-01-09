@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 530
-url: /python-net/aspose.threed.entities/vertexelementuserdata/
+url: /aspose.threed.entities/vertexelementuserdata/
 is_root: false
 ---
 
@@ -35,7 +35,6 @@ The VertexElementUserData type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementuserdata/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementuserdata/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementuserdata/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementuserdata/indices) | Gets the indices data |
 | [data](/3d/python-net/aspose.threed.entities/vertexelementuserdata/data) | The user data attached in this element |
 
 

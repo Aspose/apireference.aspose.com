@@ -3,8 +3,8 @@ title: split_mesh method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
-url: /python-net/aspose.threed.entities/polygonmodifier/split_mesh/
+weight: 80
+url: /aspose.threed.entities/polygonmodifier/split_mesh/
 is_root: false
 ---
 
@@ -18,7 +18,7 @@ The original mesh will not get changed.
 ### Returns 
 
 
-
+New splitted meshes
 
 
 ```python

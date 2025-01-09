@@ -20,5 +20,6 @@ public MaterialConverter MaterialConverter { get; set; }
 * class [UsdSaveOptions](../)
 * namespace [Aspose.ThreeD.Formats](../../../aspose.threed.formats/)
 * assembly [Aspose.3D](../../../)
+* [Tutorial - Custom material converter to convert Phong material to PBR material](https://products.aspose.com/3d/tutorial/use-phong-material-to-pbr-material/)
 
 

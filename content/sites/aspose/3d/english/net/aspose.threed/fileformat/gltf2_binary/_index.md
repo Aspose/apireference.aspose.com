@@ -3,7 +3,7 @@ title: FileFormat.GLTF2_Binary
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. Khronos Groups glTF version 2.0
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.threed/fileformat/gltf2_binary/
 ---
 ## FileFormat.GLTF2_Binary field

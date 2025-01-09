@@ -3,7 +3,7 @@ title: Class SkinDeformer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Deformers.SkinDeformer class. A skin deformer contains multiple bones to work each bone blends a part of the geometry by control points weights
 type: docs
-weight: 2700
+weight: 240
 url: /net/aspose.threed.deformers/skindeformer/
 ---
 ## SkinDeformer class

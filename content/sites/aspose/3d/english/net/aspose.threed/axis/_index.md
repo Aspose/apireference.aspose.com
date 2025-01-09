@@ -3,7 +3,7 @@ title: Enum Axis
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Axis enum. The coordinate axis
 type: docs
-weight: 120
+weight: 140
 url: /net/aspose.threed/axis/
 ---
 ## Axis enumeration

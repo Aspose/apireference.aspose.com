@@ -3,7 +3,7 @@ title: FileFormat.DXF
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. AutoCAD DXF
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.threed/fileformat/dxf/
 ---
 ## FileFormat.DXF field

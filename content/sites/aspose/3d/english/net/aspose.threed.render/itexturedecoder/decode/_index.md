@@ -27,7 +27,7 @@ Decoded texture data or null if not supported.
 
 | exception | condition |
 | --- | --- |
-| IOException |  |
+| IOException | Thrown when failed to read data from stream |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class Html5SaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.Html5SaveOptions class. Save options for HTML5
 type: docs
-weight: 1670
+weight: 1200
 url: /net/aspose.threed.formats/html5saveoptions/
 ---
 ## Html5SaveOptions class

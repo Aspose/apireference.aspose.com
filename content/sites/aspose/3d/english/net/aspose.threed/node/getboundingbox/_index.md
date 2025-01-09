@@ -14,6 +14,10 @@ Calculate the bounding box of the node
 public BoundingBox GetBoundingBox()
 ```
 
+### Return Value
+
+The bounding box of current node
+
 ### See Also
 
 * struct [BoundingBox](../../../aspose.threed.utilities/boundingbox/)

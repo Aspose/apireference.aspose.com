@@ -3,7 +3,7 @@ title: RectangularTorus
 second_title: Aspose.3D for Java API Reference
 description: Parameterized rectangular torus.
 type: docs
-weight: 136
+weight: 137
 url: /java/com.aspose.threed/rectangulartorus/
 ---
 
@@ -126,7 +126,7 @@ public double getAngleStart()
 The start angle of the arc, measured in radian. Default value is 0
 
 **Returns:**
-double
+double - The start angle of the arc, measured in radian. Default value is 0
 ### getArc() {#getArc--}
 ```
 public double getArc()
@@ -136,14 +136,17 @@ public double getArc()
 The total angle of the arc, measured in radian. Default value is PI
 
 **Returns:**
-double
+double - The total angle of the arc, measured in radian. Default value is PI
 ### getBoundingBox() {#getBoundingBox--}
 ```
 public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -151,9 +154,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getCastShadows() {#getCastShadows--}
 ```
 public boolean getCastShadows()
@@ -163,7 +163,7 @@ public boolean getCastShadows()
 Gets whether this geometry can cast shadow
 
 **Returns:**
-boolean
+boolean - whether this geometry can cast shadow
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -183,7 +183,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -193,7 +193,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getHeight() {#getHeight--}
 ```
 public double getHeight()
@@ -203,7 +203,7 @@ public double getHeight()
 The height of the rectangular torus. Default value is 20
 
 **Returns:**
-double
+double - The height of the rectangular torus. Default value is 20
 ### getInnerRadius() {#getInnerRadius--}
 ```
 public double getInnerRadius()
@@ -213,7 +213,7 @@ public double getInnerRadius()
 The inner radius of the rectangular torus Default value is 17
 
 **Returns:**
-double
+double - The inner radius of the rectangular torus Default value is 17
 ### getName() {#getName--}
 ```
 public String getName()
@@ -223,7 +223,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getOuterRadius() {#getOuterRadius--}
 ```
 public double getOuterRadius()
@@ -233,7 +233,7 @@ public double getOuterRadius()
 The outer radius of the rectangular torus Default value is 20
 
 **Returns:**
-double
+double - The outer radius of the rectangular torus Default value is 20
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -243,7 +243,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -253,7 +253,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -263,7 +263,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -288,7 +288,7 @@ public int getRadialSegments()
 The radial segments, default value is 10
 
 **Returns:**
-int
+int - The radial segments, default value is 10
 ### getReceiveShadows() {#getReceiveShadows--}
 ```
 public boolean getReceiveShadows()
@@ -298,7 +298,7 @@ public boolean getReceiveShadows()
 Gets whether this geometry can receive shadow.
 
 **Returns:**
-boolean
+boolean - whether this geometry can receive shadow.
 ### getScene() {#getScene--}
 ```
 public Scene getScene()
@@ -308,7 +308,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -361,10 +361,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAngleStart(double value) {#setAngleStart-double-}
 ```
 public void setAngleStart(double value)

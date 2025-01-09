@@ -3,8 +3,8 @@ title: RvmFormat class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 230
-url: /python-net/aspose.threed.formats/rvmformat/
+weight: 260
+url: /aspose.threed.formats/rvmformat/
 is_root: false
 ---
 
@@ -58,6 +58,7 @@ The RvmFormat type exposes the following members:
 | [GLTF_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | [GLTF2_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | [PDF](/3d/python-net/aspose.threed.formats/rvmformat/pdf) | Adobe's Portable Document Format |
+| [BLENDER](/3d/python-net/aspose.threed.formats/rvmformat/blender) | Blender's 3D file format |
 | [DXF](/3d/python-net/aspose.threed.formats/rvmformat/dxf) | AutoCAD DXF |
 | [PLY](/3d/python-net/aspose.threed.formats/rvmformat/ply) | Polygon File Format or Stanford Triangle Format |
 | [X_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/x_binary) | DirectX X File in binary format |

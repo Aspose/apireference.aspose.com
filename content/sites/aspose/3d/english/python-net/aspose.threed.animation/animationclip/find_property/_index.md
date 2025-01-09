@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed.animation/animationclip/find_property/
+url: /aspose.threed.animation/animationclip/find_property/
 is_root: false
 ---
 

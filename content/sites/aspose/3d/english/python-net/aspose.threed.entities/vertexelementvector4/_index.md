@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 540
-url: /python-net/aspose.threed.entities/vertexelementvector4/
+url: /aspose.threed.entities/vertexelementvector4/
 is_root: false
 ---
 
@@ -28,8 +28,6 @@ The VertexElementVector4 type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementvector4/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementvector4/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementvector4/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementvector4/indices) | Gets the indices data |
-| [data](/3d/python-net/aspose.threed.entities/vertexelementvector4/data) | Gets the vertex data |
 
 
 ### Methods

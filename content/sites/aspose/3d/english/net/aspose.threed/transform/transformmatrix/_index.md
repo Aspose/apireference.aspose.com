@@ -16,7 +16,7 @@ public Matrix4 TransformMatrix { get; set; }
 
 ### Remarks
 
-Assign on this will reset the [`Translation`](../translation/), Scale and [`Rotation`](../rotation/), the [`GeometricRotation`](../geometricrotation/), [`GeometricScaling`](../geometricscaling/) and [`GeometricTranslation`](../geometrictranslation/) will not be affected.
+Assign on this will reset the [`Translation`](../translation/), [`Scaling`](../scaling/) and [`Rotation`](../rotation/), the [`GeometricRotation`](../geometricrotation/), [`GeometricScaling`](../geometricscaling/) and [`GeometricTranslation`](../geometrictranslation/) will not be affected.
 
 ### Examples
 

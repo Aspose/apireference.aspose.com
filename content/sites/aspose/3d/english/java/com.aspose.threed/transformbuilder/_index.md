@@ -3,7 +3,7 @@ title: TransformBuilder
 second_title: Aspose.3D for Java API Reference
 description: The  is used to build transform matrix by a chain of transformations.
 type: docs
-weight: 178
+weight: 179
 url: /java/com.aspose.threed/transformbuilder/
 ---
 
@@ -161,7 +161,7 @@ public ComposeOrder getComposeOrder()
 Gets the chain compose order.
 
 **Returns:**
-[ComposeOrder](../../com.aspose.threed/composeorder)
+[ComposeOrder](../../com.aspose.threed/composeorder) - the chain compose order.
 ### getMatrix() {#getMatrix--}
 ```
 public Matrix4 getMatrix()
@@ -171,7 +171,7 @@ public Matrix4 getMatrix()
 Gets the current matrix value
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
+[Matrix4](../../com.aspose.threed/matrix4) - the current matrix value
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

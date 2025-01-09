@@ -3,7 +3,7 @@ title: Class Scene
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Scene class. A scene is a toplevel object that contains the nodes geometries materials textures animation poses subscenes and etc. Scene can have subscenes acts as multipledocument support in files like collada/blender/fbx Node hierarchy can be accessed through RootNodeLibrary is used to keep a reference of unattached objects during serializationlike meta data or custom objects so it can be used as a library
 type: docs
-weight: 260
+weight: 2400
 url: /net/aspose.threed/scene/
 ---
 ## Scene class
@@ -79,6 +79,12 @@ public class Scene : SceneObject
 | [Save](../../aspose.threed/scene/save/#save_6)(string, FileFormat, CancellationToken) | Saves the scene to specified path using specified file format. |
 | [Save](../../aspose.threed/scene/save/#save_8)(string, SaveOptions, CancellationToken) | Saves the scene to specified path using specified file format. |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../a3dobject/).) |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [Version](../../aspose.threed/scene/version/) | Gets the current release version |
 
 ### See Also
 

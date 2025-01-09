@@ -3,8 +3,8 @@ title: deformers property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /python-net/aspose.threed.entities/mesh/deformers/
+weight: 210
+url: /aspose.threed.entities/mesh/deformers/
 is_root: false
 ---
 

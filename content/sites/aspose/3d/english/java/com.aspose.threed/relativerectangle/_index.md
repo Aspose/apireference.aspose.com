@@ -3,7 +3,7 @@ title: RelativeRectangle
 second_title: Aspose.3D for Java API Reference
 description: Relative rectangle  The formula between relative component to absolute value is  Scale  Reference Width  offset  So if we want it to represent an absolute value leave all scale fields zero and use offset fields instead.
 type: docs
-weight: 137
+weight: 138
 url: /java/com.aspose.threed/relativerectangle/
 ---
 
@@ -153,7 +153,7 @@ public int getOffsetHeight()
 Gets the offset for height
 
 **Returns:**
-int
+int - the offset for height
 ### getOffsetWidth() {#getOffsetWidth--}
 ```
 public int getOffsetWidth()
@@ -163,7 +163,7 @@ public int getOffsetWidth()
 Gets the offset for width
 
 **Returns:**
-int
+int - the offset for width
 ### getOffsetX() {#getOffsetX--}
 ```
 public int getOffsetX()
@@ -173,7 +173,7 @@ public int getOffsetX()
 Gets the offset for coordinate X
 
 **Returns:**
-int
+int - the offset for coordinate X
 ### getOffsetY() {#getOffsetY--}
 ```
 public int getOffsetY()
@@ -183,7 +183,7 @@ public int getOffsetY()
 Gets the offset for coordinate Y
 
 **Returns:**
-int
+int - the offset for coordinate Y
 ### getScaleHeight() {#getScaleHeight--}
 ```
 public float getScaleHeight()
@@ -193,7 +193,7 @@ public float getScaleHeight()
 Relative height
 
 **Returns:**
-float
+float - Relative height
 ### getScaleWidth() {#getScaleWidth--}
 ```
 public float getScaleWidth()
@@ -203,7 +203,7 @@ public float getScaleWidth()
 Relative width
 
 **Returns:**
-float
+float - Relative width
 ### getScaleX() {#getScaleX--}
 ```
 public float getScaleX()
@@ -213,7 +213,7 @@ public float getScaleX()
 Relative coordinate X
 
 **Returns:**
-float
+float - Relative coordinate X
 ### getScaleY() {#getScaleY--}
 ```
 public float getScaleY()
@@ -223,7 +223,7 @@ public float getScaleY()
 Relative coordinate Y
 
 **Returns:**
-float
+float - Relative coordinate Y
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

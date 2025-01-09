@@ -3,7 +3,7 @@ title: Delegate NodeVisitor
 second_title: Aspose.3D for .NET API Reference
 description: A callback to travel through the whole node hierarchy
 type: docs
-weight: 220
+weight: 1540
 url: /net/aspose.threed/nodevisitor/
 ---
 ## NodeVisitor delegate

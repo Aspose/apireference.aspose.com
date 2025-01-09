@@ -3,7 +3,7 @@ title: RevolvedAreaSolid
 second_title: Aspose.3D for Java API Reference
 description: This class represents a solid model by revolving a cross section provided by a profile about an axis.
 type: docs
-weight: 145
+weight: 146
 url: /java/com.aspose.threed/revolvedareasolid/
 ---
 
@@ -16,7 +16,25 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public class RevolvedAreaSolid extends Entity implements IMeshConvertible
 ```
 
-This class represents a solid model by revolving a cross section provided by a profile about an axis.
+This class represents a solid model by revolving a cross section provided by a profile about an axis. **Example:** The following code shows how to use RevolvedAreaSolid to revolve a shape into a solid model.
+
+```
+//Create a new 3D scene
+         Scene scene = new Scene();
+ 
+         // Initialize the base profile to be extruded
+         var profile = new RectangleShape();
+         profile.setRoundingRadius(0.3);
+ 
+         var revolved = new RevolvedAreaSolid();
+         revolved.setShape(profile);
+         revolved.setOrigin(new Vector3(1, 0, 0));
+         revolved.setAngleStart(0);
+         revolved.setAngleEnd(Math.PI);
+         scene.getRootNode().createChildNode(revolved);
+ 
+         scene.save("revolved.obj");
+```
 ## Constructors
 
 | Constructor | Description |
@@ -107,7 +125,7 @@ public double getAngleEnd()
 Gets the ending angle of the revolving procedure, measured in radian, default value is pi.
 
 **Returns:**
-double
+double - the ending angle of the revolving procedure, measured in radian, default value is pi.
 ### getAngleStart() {#getAngleStart--}
 ```
 public double getAngleStart()
@@ -117,7 +135,7 @@ public double getAngleStart()
 Gets the starting angle of the revolving procedure, measured in radian, default value is 0.
 
 **Returns:**
-double
+double - the starting angle of the revolving procedure, measured in radian, default value is 0.
 ### getAxis() {#getAxis--}
 ```
 public Vector3 getAxis()
@@ -127,14 +145,17 @@ public Vector3 getAxis()
 Gets the axis direction, default value is (0, 1, 0).
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the axis direction, default value is (0, 1, 0).
 ### getBoundingBox() {#getBoundingBox--}
 ```
 public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -142,9 +163,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -164,7 +182,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -174,7 +192,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -184,7 +202,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getOrigin() {#getOrigin--}
 ```
 public Vector3 getOrigin()
@@ -194,7 +212,7 @@ public Vector3 getOrigin()
 Gets the origin point of the revolving, default value is (0, 0, 0).
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the origin point of the revolving, default value is (0, 0, 0).
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -204,7 +222,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -214,7 +232,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -224,7 +242,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -249,7 +267,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getShape() {#getShape--}
 ```
 public Profile getShape()
@@ -259,7 +277,7 @@ public Profile getShape()
 Gets the base profile used to revolve.
 
 **Returns:**
-[Profile](../../com.aspose.threed/profile)
+[Profile](../../com.aspose.threed/profile) - the base profile used to revolve.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -312,10 +330,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAngleEnd(double value) {#setAngleEnd-double-}
 ```
 public void setAngleEnd(double value)

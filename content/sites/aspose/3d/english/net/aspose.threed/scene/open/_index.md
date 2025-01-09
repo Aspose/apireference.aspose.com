@@ -20,6 +20,13 @@ public void Open(Stream stream, FileFormat format, CancellationToken cancellatio
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to open a scene from stream
@@ -54,6 +61,13 @@ public void Open(Stream stream, LoadOptions options, CancellationToken cancellat
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
 ### Examples
 
@@ -90,6 +104,13 @@ public void Open(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to open a scene from stream
@@ -122,6 +143,13 @@ public void Open(Stream stream, CancellationToken cancellationToken)
 | --- | --- | --- |
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
 ### Examples
 
@@ -158,6 +186,13 @@ public void Open(string fileName, FileFormat format, CancellationToken cancellat
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to open a scene from file name with a cancellation token
@@ -190,6 +225,13 @@ public void Open(string fileName, LoadOptions options)
 | --- | --- | --- |
 | fileName | String | File name. |
 | options | LoadOptions | More detailed configuration to open the stream. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
 ### Examples
 
@@ -225,6 +267,13 @@ public void Open(string fileName, LoadOptions options, CancellationToken cancell
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to open a scene from file name with extra load options and cancellation token
@@ -258,6 +307,13 @@ public void Open(string fileName)
 | --- | --- | --- |
 | fileName | String | File name. |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to open a scene from file name
@@ -287,6 +343,13 @@ public void Open(string fileName, CancellationToken cancellationToken)
 | --- | --- | --- |
 | fileName | String | File name. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
 ### Examples
 

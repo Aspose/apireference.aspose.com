@@ -3,7 +3,7 @@ title: Class VertexElementPolygonGroup
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementPolygonGroup class. Defines polygon group for specified components to group related polygons together
 type: docs
-weight: 2590
+weight: 870
 url: /net/aspose.threed.entities/vertexelementpolygongroup/
 ---
 ## VertexElementPolygonGroup class

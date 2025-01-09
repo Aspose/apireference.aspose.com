@@ -20,6 +20,12 @@ public void Encode(Entity entity, Stream stream, DracoSaveOptions options = null
 | stream | Stream | The stream that encoded data will be written to |
 | options | DracoSaveOptions | Extra options for encoding the point cloud |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed to read from stream |
+
 ### Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
@@ -55,6 +61,12 @@ public void Encode(Entity entity, string fileName, DracoSaveOptions options = nu
 | entity | Entity | The entity to be encoded |
 | fileName | String | The file name to be written |
 | options | DracoSaveOptions | Extra options for encoding the point cloud |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed to read from file |
 
 ### Examples
 

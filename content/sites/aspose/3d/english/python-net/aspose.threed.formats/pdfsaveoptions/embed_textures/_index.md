@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.formats/pdfsaveoptions/embed_textures/
+url: /aspose.threed.formats/pdfsaveoptions/embed_textures/
 is_root: false
 ---
 

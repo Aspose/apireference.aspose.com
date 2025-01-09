@@ -3,7 +3,7 @@ title: Class CShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.CShape class. IFC compatible Cshape profile that defined by parameters. The center position of the profile is in the center of the bounding box
 type: docs
-weight: 1060
+weight: 1580
 url: /net/aspose.threed.profiles/cshape/
 ---
 ## CShape class

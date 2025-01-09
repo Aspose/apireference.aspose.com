@@ -3,7 +3,7 @@ title: Class KeyframeSequence
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.KeyframeSequence class. The sequence of keyframes it describes the transformation of a sampled value over time
 type: docs
-weight: 2810
+weight: 100
 url: /net/aspose.threed.animation/keyframesequence/
 ---
 ## KeyframeSequence class

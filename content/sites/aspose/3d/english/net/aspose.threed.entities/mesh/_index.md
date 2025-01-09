@@ -3,7 +3,7 @@ title: Class Mesh
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Mesh class. A mesh is made of many nsided polygons
 type: docs
-weight: 2100
+weight: 480
 url: /net/aspose.threed.entities/mesh/
 ---
 ## Mesh class
@@ -67,7 +67,8 @@ public class Mesh : Geometry, IEnumerable<int[]>, IMeshConvertible
 | [GetPolygonSize](../../aspose.threed.entities/mesh/getpolygonsize/)(int) | Gets the vertex count of the specified polygon. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty/)(string) | Get the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
 | [GetVertexElementOfUV](../../aspose.threed.entities/geometry/getvertexelementofuv/)(TextureMapping) | Gets a [`VertexElementUV`](../vertexelementuv/) instance with given texture mapping type(Inherited from [`Geometry`](../geometry/).) |
-| [Optimize](../../aspose.threed.entities/mesh/optimize/)(bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [Optimize](../../aspose.threed.entities/mesh/optimize/#optimize)(bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [Optimize](../../aspose.threed.entities/mesh/optimize/#optimize_1)(bool, float, float, float) | Optimize the mesh's memory usage by eliminating duplicated control points |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(Property) | Removes a dynamic property.(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty/)(string) | Remove the specified property identified by name(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty/)(string, object) | Sets the value of specified property(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |

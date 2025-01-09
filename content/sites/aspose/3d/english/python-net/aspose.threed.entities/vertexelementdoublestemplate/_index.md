@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 420
-url: /python-net/aspose.threed.entities/vertexelementdoublestemplate/
+url: /aspose.threed.entities/vertexelementdoublestemplate/
 is_root: false
 ---
 
@@ -28,7 +28,6 @@ The VertexElementDoublesTemplate type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/indices) | Gets the indices data |
 
 
 ### Methods

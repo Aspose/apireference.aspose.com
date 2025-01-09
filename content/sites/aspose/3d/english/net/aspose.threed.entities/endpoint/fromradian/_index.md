@@ -16,7 +16,11 @@ public static EndPoint FromRadian(double degree)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| degree | Double |  |
+| degree | Double | The value in radian |
+
+### Return Value
+
+An end point constructed from radian
 
 ### See Also
 

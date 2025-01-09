@@ -41,7 +41,11 @@ public bool RemoveProperty(string property)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | String |  |
+| property | String | Which property to remove |
+
+### Return Value
+
+true if the property is successfully removed
 
 ### See Also
 

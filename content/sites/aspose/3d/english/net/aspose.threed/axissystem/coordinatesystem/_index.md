@@ -3,7 +3,7 @@ title: AxisSystem.CoordinateSystem
 second_title: Aspose.3D for .NET API Reference
 description: AxisSystem property. Gets the coordinate system of this axis system
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.threed/axissystem/coordinatesystem/
 ---
 ## AxisSystem.CoordinateSystem property

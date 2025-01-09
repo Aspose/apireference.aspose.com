@@ -3,8 +3,8 @@ title: MathUtils class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 110
-url: /python-net/aspose.threed.utilities/mathutils/
+weight: 90
+url: /aspose.threed.utilities/mathutils/
 is_root: false
 ---
 

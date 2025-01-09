@@ -3,8 +3,8 @@ title: PlyFormat class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 200
-url: /python-net/aspose.threed.formats/plyformat/
+weight: 230
+url: /aspose.threed.formats/plyformat/
 is_root: false
 ---
 
@@ -58,6 +58,7 @@ The PlyFormat type exposes the following members:
 | [GLTF_BINARY](/3d/python-net/aspose.threed.formats/plyformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | [GLTF2_BINARY](/3d/python-net/aspose.threed.formats/plyformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | [PDF](/3d/python-net/aspose.threed.formats/plyformat/pdf) | Adobe's Portable Document Format |
+| [BLENDER](/3d/python-net/aspose.threed.formats/plyformat/blender) | Blender's 3D file format |
 | [DXF](/3d/python-net/aspose.threed.formats/plyformat/dxf) | AutoCAD DXF |
 | [PLY](/3d/python-net/aspose.threed.formats/plyformat/ply) | Polygon File Format or Stanford Triangle Format |
 | [X_BINARY](/3d/python-net/aspose.threed.formats/plyformat/x_binary) | DirectX X File in binary format |
@@ -101,6 +102,21 @@ The PlyFormat type exposes the following members:
 | [create_save_options](/3d/python-net/aspose.threed.formats/plyformat/create_save_options/#) | Create a default save options for this file format |
 
 
+
+### Example 
+
+
+The following code shows how to encode a mesh into PLY file:
+		
+```python
+from aspose.threed import FileFormat
+from aspose.threed.entities import Sphere
+
+mesh = Sphere().to_mesh()
+# encode mesh into PLY format
+FileFormat.PLY.encode(mesh, "sphere.ply")
+
+```
 
 ### See Also
 * module [`aspose.threed.formats`](..)

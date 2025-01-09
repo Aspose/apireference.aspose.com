@@ -3,7 +3,7 @@ title: PolygonModifier.Scale
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Scale all geometriesScale the control points not the transformation matrix in this scene
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.threed.entities/polygonmodifier/scale/
 ---
 ## Scale(Scene, Vector3) {#scale}

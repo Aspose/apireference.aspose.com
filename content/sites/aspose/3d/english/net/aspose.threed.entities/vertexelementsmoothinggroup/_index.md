@@ -3,7 +3,7 @@ title: Class VertexElementSmoothingGroup
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementSmoothingGroup class. A smoothing group is a group of polygons in a polygon mesh which should appear to form a smooth surface. Some early 3d modeling software like 3D studio max for DOS used smoothing group to void storing normal vector for each mesh vertex
 type: docs
-weight: 2600
+weight: 880
 url: /net/aspose.threed.entities/vertexelementsmoothinggroup/
 ---
 ## VertexElementSmoothingGroup class

@@ -3,7 +3,7 @@ title: Enum VertexFieldSemantic
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.VertexFieldSemantic enum. The semantic of the vertex field
 type: docs
-weight: 1490
+weight: 2840
 url: /net/aspose.threed.utilities/vertexfieldsemantic/
 ---
 ## VertexFieldSemantic enumeration

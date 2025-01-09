@@ -3,7 +3,7 @@ title: PixelMapping
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 117
+weight: 118
 url: /java/com.aspose.threed/pixelmapping/
 ---
 
@@ -75,7 +75,7 @@ public byte[] getData()
 The mapped bytes of pixels.
 
 **Returns:**
-byte[]
+byte[] - The mapped bytes of pixels.
 ### getHeight() {#getHeight--}
 ```
 public int getHeight()
@@ -85,7 +85,7 @@ public int getHeight()
 Rows of the pixels
 
 **Returns:**
-int
+int - Rows of the pixels
 ### getStride() {#getStride--}
 ```
 public int getStride()
@@ -95,7 +95,7 @@ public int getStride()
 Bytes of pixels in a row.
 
 **Returns:**
-int
+int - Bytes of pixels in a row.
 ### getWidth() {#getWidth--}
 ```
 public int getWidth()
@@ -105,7 +105,7 @@ public int getWidth()
 Columns of the pixels
 
 **Returns:**
-int
+int - Columns of the pixels
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

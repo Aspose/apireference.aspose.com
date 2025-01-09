@@ -65,7 +65,7 @@ public int getRepeatCount()
 Gets and sets the repeat times of the extrapolation pattern.
 
 **Returns:**
-int
+int - and sets the repeat times of the extrapolation pattern.
 ### getType() {#getType--}
 ```
 public ExtrapolationType getType()
@@ -75,7 +75,7 @@ public ExtrapolationType getType()
 Gets and sets the sampling pattern of extrapolation
 
 **Returns:**
-[ExtrapolationType](../../com.aspose.threed/extrapolationtype)
+[ExtrapolationType](../../com.aspose.threed/extrapolationtype) - and sets the sampling pattern of extrapolation
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

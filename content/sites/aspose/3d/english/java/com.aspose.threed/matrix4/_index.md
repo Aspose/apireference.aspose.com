@@ -402,7 +402,7 @@ public double getDeterminant()
 Gets the determinant of the matrix.
 
 **Returns:**
-double
+double - the determinant of the matrix.
 ### getIdentity() {#getIdentity--}
 ```
 public static Matrix4 getIdentity()
@@ -412,7 +412,7 @@ public static Matrix4 getIdentity()
 Gets the identity matrix.
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
+[Matrix4](../../com.aspose.threed/matrix4) - the identity matrix.
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()

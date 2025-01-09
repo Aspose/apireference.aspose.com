@@ -3,7 +3,7 @@ title: Class PdfLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.PdfLoadOptions class. Options for PDF loading
 type: docs
-weight: 1750
+weight: 1310
 url: /net/aspose.threed.formats/pdfloadoptions/
 ---
 ## PdfLoadOptions class

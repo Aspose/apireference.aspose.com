@@ -3,7 +3,7 @@ title: FileFormat.FBX7600ASCII
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. ASCII FBX file format with 7.6.0 version
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.threed/fileformat/fbx7600ascii/
 ---
 ## FileFormat.FBX7600ASCII field

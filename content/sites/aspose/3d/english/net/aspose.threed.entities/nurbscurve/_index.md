@@ -3,7 +3,7 @@ title: Class NurbsCurve
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.NurbsCurve class. NURBS curve is a curve represented by NURBSNonuniform rational basis spline A NURBS curve is defined by its Order a set of weighted ControlPoints and a KnotVectors The w component in control point is used as control points weight whatever it is a TwoDimensional or ThreeDimensional
 type: docs
-weight: 2150
+weight: 490
 url: /net/aspose.threed.entities/nurbscurve/
 ---
 ## NurbsCurve class

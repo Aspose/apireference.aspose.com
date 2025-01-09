@@ -3,7 +3,7 @@ title: Class VertexElementWeight
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementWeight class. Defines blend weight for specified components
 type: docs
-weight: 2640
+weight: 990
 url: /net/aspose.threed.entities/vertexelementweight/
 ---
 ## VertexElementWeight class

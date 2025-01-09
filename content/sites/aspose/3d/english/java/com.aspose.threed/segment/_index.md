@@ -76,7 +76,7 @@ public Curve getCurve()
 The curve used in the segment
 
 **Returns:**
-[Curve](../../com.aspose.threed/curve)
+[Curve](../../com.aspose.threed/curve) - The curve used in the segment
 ### getSameDirection() {#getSameDirection--}
 ```
 public boolean getSameDirection()
@@ -86,7 +86,7 @@ public boolean getSameDirection()
 Use the same direction of the original curve, or use reversed direction
 
 **Returns:**
-boolean
+boolean - Use the same direction of the original curve, or use reversed direction
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

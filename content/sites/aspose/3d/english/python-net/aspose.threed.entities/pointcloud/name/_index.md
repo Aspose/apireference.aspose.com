@@ -3,8 +3,8 @@ title: name property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /python-net/aspose.threed.entities/pointcloud/name/
+weight: 180
+url: /aspose.threed.entities/pointcloud/name/
 is_root: false
 ---
 

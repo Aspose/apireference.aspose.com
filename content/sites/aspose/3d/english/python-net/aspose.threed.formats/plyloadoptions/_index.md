@@ -3,8 +3,8 @@ title: PlyLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /python-net/aspose.threed.formats/plyloadoptions/
+weight: 240
+url: /aspose.threed.formats/plyloadoptions/
 is_root: false
 ---
 

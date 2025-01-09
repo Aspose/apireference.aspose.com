@@ -3,7 +3,7 @@ title: Interface IBuffer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IBuffer interface. The base interface of all managed buffers used in rendering
 type: docs
-weight: 430
+weight: 1920
 url: /net/aspose.threed.render/ibuffer/
 ---
 ## IBuffer interface

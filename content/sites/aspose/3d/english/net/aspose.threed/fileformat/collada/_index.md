@@ -3,7 +3,7 @@ title: FileFormat.Collada
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. Collada file format
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.threed/fileformat/collada/
 ---
 ## FileFormat.Collada field

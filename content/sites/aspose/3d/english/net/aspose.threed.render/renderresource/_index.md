@@ -3,7 +3,7 @@ title: Class RenderResource
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.RenderResource class. The abstract class of all render resources All render resources will be disposed when the renderer is released. Classes like Mesh/Texture will have a corresponding RenderResource
 type: docs
-weight: 770
+weight: 2210
 url: /net/aspose.threed.render/renderresource/
 ---
 ## RenderResource class

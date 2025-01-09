@@ -3,7 +3,7 @@ title: Class MorphTargetChannel
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Deformers.MorphTargetChannel class. A MorphTargetChannel is used by MorphTargetDeformer to organize the target geometries. Some file formats like FBX support multiple channels in parallel
 type: docs
-weight: 2680
+weight: 220
 url: /net/aspose.threed.deformers/morphtargetchannel/
 ---
 ## MorphTargetChannel class

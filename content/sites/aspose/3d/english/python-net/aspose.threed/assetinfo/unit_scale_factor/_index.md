@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /python-net/aspose.threed/assetinfo/unit_scale_factor/
+url: /aspose.threed/assetinfo/unit_scale_factor/
 is_root: false
 ---
 

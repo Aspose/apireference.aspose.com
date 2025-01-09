@@ -3,7 +3,7 @@ title: Class TriMesh
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.TriMesh class. A TriMesh contains raw data that can be used by GPU directly. This class is a utility to help to construct a mesh that only contains pervertex data
 type: docs
-weight: 2380
+weight: 760
 url: /net/aspose.threed.entities/trimesh/
 ---
 ## TriMesh class

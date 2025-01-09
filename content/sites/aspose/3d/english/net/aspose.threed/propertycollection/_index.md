@@ -3,7 +3,7 @@ title: Class PropertyCollection
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.PropertyCollection class. The collection of properties
 type: docs
-weight: 50
+weight: 1770
 url: /net/aspose.threed/propertycollection/
 ---
 ## PropertyCollection class
@@ -36,5 +36,6 @@ public class PropertyCollection : IEnumerable<Property>
 * class [Property](../property/)
 * namespace [Aspose.ThreeD](../../aspose.threed/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Use custom properties](https://products.aspose.com/3d/tutorial/use-attribute-collections/)
 
 

@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.3D for Java API Reference
 description: A polyline is a path defined by a set of points with  and connected by   which means it can also be a set of connected line segments.
 type: docs
-weight: 88
+weight: 89
 url: /java/com.aspose.threed/line/
 ---
 
@@ -129,7 +129,10 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -137,9 +140,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -159,7 +159,7 @@ public Vector3 getColor()
 Gets the color of the line, default value is white(1, 1, 1)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the color of the line, default value is white(1, 1, 1)
 ### getControlPoints() {#getControlPoints--}
 ```
 public List<Vector4> getControlPoints()
@@ -169,7 +169,7 @@ public List<Vector4> getControlPoints()
 Gets all control points
 
 **Returns:**
-java.util.List<com.aspose.threed.Vector4>
+java.util.List<com.aspose.threed.Vector4> - all control points
 ### getEntityRendererKey() {#getEntityRendererKey--}
 ```
 public EntityRendererKey getEntityRendererKey()
@@ -189,7 +189,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -199,7 +199,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -209,7 +209,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -219,7 +219,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -229,7 +229,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -254,7 +254,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getSegments() {#getSegments--}
 ```
 public List<int[]> getSegments()
@@ -264,7 +264,7 @@ public List<int[]> getSegments()
 Gets the segments of the line
 
 **Returns:**
-java.util.List<int[]>
+java.util.List<int[]> - the segments of the line
 ### getVisible() {#getVisible--}
 ```
 public boolean getVisible()
@@ -274,7 +274,7 @@ public boolean getVisible()
 Gets if the geometry is visible
 
 **Returns:**
-boolean
+boolean - if the geometry is visible
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -335,10 +335,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setColor(Vector3 value) {#setColor-com.aspose.threed.Vector3-}
 ```
 public void setColor(Vector3 value)

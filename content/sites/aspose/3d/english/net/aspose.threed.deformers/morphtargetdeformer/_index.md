@@ -3,7 +3,7 @@ title: Class MorphTargetDeformer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Deformers.MorphTargetDeformer class. MorphTargetDeformer provides pervertex animation. MorphTargetDeformer organize all targets via MorphTargetChannel each channel can organize multiple targets. A common use of morph target deformer is to apply facial expression to a character. More details can be found at https//en.wikipedia.org/wiki/Morph_target_animation
 type: docs
-weight: 2690
+weight: 230
 url: /net/aspose.threed.deformers/morphtargetdeformer/
 ---
 ## MorphTargetDeformer class

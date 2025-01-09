@@ -16,7 +16,7 @@ public EndPoint(Vector3 point)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| point | Vector3 |  |
+| point | Vector3 | Point to construct |
 
 ### See Also
 
@@ -37,7 +37,7 @@ public EndPoint(double v)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| v | Double |  |
+| v | Double | The real number parameter for constructing an end point |
 
 ### See Also
 

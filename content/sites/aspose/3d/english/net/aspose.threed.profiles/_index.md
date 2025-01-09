@@ -13,6 +13,7 @@ All 2D profile classes are defined in this namespace.
 | Class | Description |
 | --- | --- |
 | [ArbitraryProfile](./arbitraryprofile/) | This class allows you to construct a 2D profile directly from arbitrary curve. |
+| [CenterLineProfile](./centerlineprofile/) | IFC compatible center line profile |
 | [CircleShape](./circleshape/) | IFC compatible circle profile, which can be used to construct a mesh through [`LinearExtrusion`](../aspose.threed.entities/linearextrusion/) |
 | [CShape](./cshape/) | IFC compatible C-shape profile that defined by parameters. The center position of the profile is in the center of the bounding box. |
 | [EllipseShape](./ellipseshape/) | IFC compatible ellipse shape that defined by parameters. The center position of the profile is in the center of the bounding box. |

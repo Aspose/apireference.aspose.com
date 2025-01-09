@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /python-net/aspose.threed/node/select_single_object/
+url: /aspose.threed/node/select_single_object/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Select single object under current node using XPath-like query syntax.
 ### Returns 
 
 
-
+Object located by the XPath-like query.
 
 
 ```python
@@ -27,7 +27,7 @@ def select_single_object(self, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path | str |  |
+| path | str | The XPath-like query |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

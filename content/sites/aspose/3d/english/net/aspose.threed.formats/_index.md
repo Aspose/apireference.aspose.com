@@ -26,8 +26,11 @@ IO related customization are defined in this namespace.
 | [GltfSaveOptions](./gltfsaveoptions/) | Save options for glTF format. |
 | [Html5SaveOptions](./html5saveoptions/) | Save options for HTML5 |
 | [IOConfig](./ioconfig/) | IO config for serialization/deserialization. User can specify detailed configurations like dependency look-up path Or format-related configs here |
+| [JtLoadOptions](./jtloadoptions/) | Load options for Siemens JT |
 | [LoadOptions](./loadoptions/) | The base class to configure options in file loading for different types |
 | [MaterialConverter](./materialconverter/) | Custom converter to convert the geometry's original material to GLTF's PBR material. |
+| [Microsoft3MFFormat](./microsoft3mfformat/) | File format instance for Microsoft 3MF with 3MF related utilities. |
+| [Microsoft3MFSaveOptions](./microsoft3mfsaveoptions/) | Save options for Microsoft 3MF file. |
 | [ObjLoadOptions](./objloadoptions/) | Load options for wavefront obj |
 | [ObjSaveOptions](./objsaveoptions/) | Save options for wavefront obj file |
 | [PdfFormat](./pdfformat/) | Adobe's Portable Document Format |

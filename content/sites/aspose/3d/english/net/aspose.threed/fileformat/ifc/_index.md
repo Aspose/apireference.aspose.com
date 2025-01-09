@@ -3,7 +3,7 @@ title: FileFormat.IFC
 second_title: Aspose.3D for .NET API Reference
 description: FileFormat field. ISO 167391 Industry Foundation Classes data model
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.threed/fileformat/ifc/
 ---
 ## FileFormat.IFC field

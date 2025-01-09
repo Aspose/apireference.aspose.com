@@ -3,7 +3,7 @@ title: Class SceneObject
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.SceneObject class. The root class of objects that will be stored inside a scene
 type: docs
-weight: 210
+weight: 2410
 url: /net/aspose.threed/sceneobject/
 ---
 ## SceneObject class

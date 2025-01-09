@@ -3,8 +3,8 @@ title: RvmLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /python-net/aspose.threed.formats/rvmloadoptions/
+weight: 270
+url: /aspose.threed.formats/rvmloadoptions/
 is_root: false
 ---
 

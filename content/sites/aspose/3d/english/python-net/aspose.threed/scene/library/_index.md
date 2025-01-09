@@ -3,8 +3,8 @@ title: library property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /python-net/aspose.threed/scene/library/
+weight: 180
+url: /aspose.threed/scene/library/
 is_root: false
 ---
 

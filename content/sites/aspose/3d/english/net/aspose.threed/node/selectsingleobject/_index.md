@@ -16,7 +16,11 @@ public object SelectSingleObject(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | String |  |
+| path | String | The XPath-like query |
+
+### Return Value
+
+Object located by the XPath-like query.
 
 ### Exceptions
 

@@ -3,8 +3,8 @@ title: FBX7600_BINARY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /python-net/aspose.threed/fileformat/fbx7600_binary/
+weight: 260
+url: /aspose.threed/fileformat/fbx7600_binary/
 is_root: false
 ---
 

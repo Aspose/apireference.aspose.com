@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 550
-url: /python-net/aspose.threed.entities/vertexelementvertexcolor/
+url: /aspose.threed.entities/vertexelementvertexcolor/
 is_root: false
 ---
 
@@ -35,8 +35,6 @@ The VertexElementVertexColor type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/indices) | Gets the indices data |
-| [data](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/data) | Gets the vertex data |
 
 
 ### Methods

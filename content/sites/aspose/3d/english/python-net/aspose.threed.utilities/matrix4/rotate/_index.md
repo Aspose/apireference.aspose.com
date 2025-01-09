@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.utilities/matrix4/rotate/
+url: /aspose.threed.utilities/matrix4/rotate/
 is_root: false
 ---
 
@@ -28,21 +28,6 @@ def rotate(self, q):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | q | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Rotation quaternion |
-
-### Example 
-
-
-The following code shows how to create a matrix for rotate operation.
-
-```python
-from aspose.threed.utilities import Matrix4, Quaternion, Vector3
-import math
-
-t = Matrix4.rotate(Quaternion.from_angle_axis(math.pi, Vector3.Y_AXIS))
-pos = Vector3(1, 1, 10)
-print(f"Transformed: {t * pos}")
-
-```
 
 
 ## rotate {#float-aspose.threed.utilities.Vector3}

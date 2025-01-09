@@ -14,6 +14,10 @@ Create a dummy file system, read/write operations are dummy operations.
 public static FileSystem CreateDummyFileSystem()
 ```
 
+### Return Value
+
+A dummy file system
+
 ### Examples
 
 The following code shows how to export file to memory, and ignore all dependent file generation.

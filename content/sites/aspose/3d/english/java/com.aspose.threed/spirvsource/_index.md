@@ -3,7 +3,7 @@ title: SPIRVSource
 second_title: Aspose.3D for Java API Reference
 description: The compiled shader in SPIR-V format.
 type: docs
-weight: 149
+weight: 150
 url: /java/com.aspose.threed/spirvsource/
 ---
 
@@ -84,7 +84,7 @@ public byte[] getComputeShader()
 Gets the source code of the compute shader.
 
 **Returns:**
-byte[]
+byte[] - the source code of the compute shader.
 ### getFragmentShader() {#getFragmentShader--}
 ```
 public byte[] getFragmentShader()
@@ -94,7 +94,7 @@ public byte[] getFragmentShader()
 Gets the source code of the fragment shader.
 
 **Returns:**
-byte[]
+byte[] - the source code of the fragment shader.
 ### getGeometryShader() {#getGeometryShader--}
 ```
 public byte[] getGeometryShader()
@@ -104,7 +104,7 @@ public byte[] getGeometryShader()
 Gets the source code of the geometry shader.
 
 **Returns:**
-byte[]
+byte[] - the source code of the geometry shader.
 ### getMaximumDescriptorSets() {#getMaximumDescriptorSets--}
 ```
 public int getMaximumDescriptorSets()
@@ -114,7 +114,7 @@ public int getMaximumDescriptorSets()
 Maximum descriptor sets, default value is 10
 
 **Returns:**
-int
+int - Maximum descriptor sets, default value is 10
 ### getVertexShader() {#getVertexShader--}
 ```
 public byte[] getVertexShader()
@@ -124,7 +124,7 @@ public byte[] getVertexShader()
 Gets the source code of the vertex shader
 
 **Returns:**
-byte[]
+byte[] - the source code of the vertex shader
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

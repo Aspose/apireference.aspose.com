@@ -3,7 +3,7 @@ title: Struct BoundingBox
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.BoundingBox struct. The axisaligned bounding box
 type: docs
-weight: 1260
+weight: 2570
 url: /net/aspose.threed.utilities/boundingbox/
 ---
 ## BoundingBox structure
@@ -38,7 +38,8 @@ public struct BoundingBox
 | Name | Description |
 | --- | --- |
 | static [FromGeometry](../../aspose.threed.utilities/boundingbox/fromgeometry/)(Geometry) | Construct a bounding box from given geometry |
-| [Contains](../../aspose.threed.utilities/boundingbox/contains/)(Vector3) | Check if the point p is inside the bounding box |
+| [Contains](../../aspose.threed.utilities/boundingbox/contains/#contains)(BoundingBox) | The bounding box to check if it's inside current bounding box. |
+| [Contains](../../aspose.threed.utilities/boundingbox/contains/#contains_1)(Vector3) | Check if the point p is inside the bounding box |
 | override [Equals](../../aspose.threed.utilities/boundingbox/equals/)(object) | Determines if two objects are equal |
 | override [GetHashCode](../../aspose.threed.utilities/boundingbox/gethashcode/)() | Returns the hash code for this instance |
 | [Merge](../../aspose.threed.utilities/boundingbox/merge/#merge)(BoundingBox) | Merges the new box into the current bounding box. |

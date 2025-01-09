@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed/axissystem/
+url: /aspose.threed/axissystem/
 is_root: false
 ---
 
@@ -33,6 +33,15 @@ The AxisSystem type exposes the following members:
 | [front](/3d/python-net/aspose.threed/axissystem/front) | Gets the front vector of this axis system |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [transform_to](/3d/python-net/aspose.threed/axissystem/transform_to/#aspose.threed.AxisSystem) | Create a matrix used to convert from current axis system to target axis system. |
+| [from_asset_info](/3d/python-net/aspose.threed/axissystem/from_asset_info/#aspose.threed.AssetInfo) | Create [`AxisSystem`](/3d/python-net/aspose.threed/axissystem) from [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) |
+
+
 
 ### See Also
 * module [`aspose.threed`](..)
+* class [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)
+* class [`AxisSystem`](/3d/python-net/aspose.threed/axissystem)

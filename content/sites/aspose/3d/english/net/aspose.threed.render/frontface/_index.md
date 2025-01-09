@@ -3,7 +3,7 @@ title: Enum FrontFace
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.FrontFace enum. Define front and backfacing polygons
 type: docs
-weight: 810
+weight: 1900
 url: /net/aspose.threed.render/frontface/
 ---
 ## FrontFace enumeration

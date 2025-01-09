@@ -3,7 +3,7 @@ title: PolygonModifier.MergeMesh
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Convert a whole scene to a single transformed mesh Vertex elements like normal/texture coordinates are not supported yet
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.threed.entities/polygonmodifier/mergemesh/
 ---
 ## MergeMesh(Scene) {#mergemesh_1}

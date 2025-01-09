@@ -66,10 +66,10 @@ Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4).
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | float |  |
-| y | float |  |
-| z | float |  |
-| w | float |  |
+| x | float | X component |
+| y | float | Y component |
+| z | float | Z component |
+| w | float | W component |
 
 ### FVector4(float x, float y, float z) {#FVector4-float-float-float-}
 ```
@@ -82,9 +82,9 @@ Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4).
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | float |  |
-| y | float |  |
-| z | float |  |
+| x | float | X component |
+| y | float | Y component |
+| z | float | Z component |
 
 ### FVector4(Color color) {#FVector4-java.awt.Color-}
 ```
@@ -323,7 +323,7 @@ public String toString()
 Returns a string that represents the [FVector4](../../com.aspose.threed/fvector4)
 
 **Returns:**
-java.lang.String
+java.lang.String - The string representation of current vector.
 ### wait() {#wait--}
 ```
 public final void wait()

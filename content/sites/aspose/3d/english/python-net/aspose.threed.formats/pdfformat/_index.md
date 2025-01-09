@@ -3,8 +3,8 @@ title: PdfFormat class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /python-net/aspose.threed.formats/pdfformat/
+weight: 200
+url: /aspose.threed.formats/pdfformat/
 is_root: false
 ---
 
@@ -58,6 +58,7 @@ The PdfFormat type exposes the following members:
 | [GLTF_BINARY](/3d/python-net/aspose.threed.formats/pdfformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | [GLTF2_BINARY](/3d/python-net/aspose.threed.formats/pdfformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | [PDF](/3d/python-net/aspose.threed.formats/pdfformat/pdf) | Adobe's Portable Document Format |
+| [BLENDER](/3d/python-net/aspose.threed.formats/pdfformat/blender) | Blender's 3D file format |
 | [DXF](/3d/python-net/aspose.threed.formats/pdfformat/dxf) | AutoCAD DXF |
 | [PLY](/3d/python-net/aspose.threed.formats/pdfformat/ply) | Polygon File Format or Stanford Triangle Format |
 | [X_BINARY](/3d/python-net/aspose.threed.formats/pdfformat/x_binary) | DirectX X File in binary format |
@@ -98,6 +99,20 @@ The PdfFormat type exposes the following members:
 | [create_save_options](/3d/python-net/aspose.threed.formats/pdfformat/create_save_options/#) | Create a default save options for this file format |
 
 
+
+### Example 
+
+
+The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format.
+		
+```python
+from aspose.threed import FileFormat
+
+scenes = FileFormat.PDF.extract_scene("input.pdf")
+for i in range(len(scenes)):
+    scenes[i].save(f"output-{i}.obj")
+
+```
 
 ### See Also
 * module [`aspose.threed.formats`](..)

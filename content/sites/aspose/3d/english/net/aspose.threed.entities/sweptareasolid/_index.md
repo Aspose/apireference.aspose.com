@@ -3,7 +3,7 @@ title: Class SweptAreaSolid
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.SweptAreaSolid class. A SweptAreaSolid constructs a geometry by sweeping a profile along a directrix
 type: docs
-weight: 2370
+weight: 720
 url: /net/aspose.threed.entities/sweptareasolid/
 ---
 ## SweptAreaSolid class

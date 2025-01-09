@@ -3,7 +3,7 @@ title: Class A3DObject
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.A3DObject class. The base class of all Aspose.ThreeD objects all sub classes will support dynamic properties
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.threed/a3dobject/
 ---
 ## A3DObject class

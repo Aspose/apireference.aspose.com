@@ -3,7 +3,7 @@ title: Class StlSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.StlSaveOptions class. Save options for STL
 type: docs
-weight: 1830
+weight: 1420
 url: /net/aspose.threed.formats/stlsaveoptions/
 ---
 ## StlSaveOptions class

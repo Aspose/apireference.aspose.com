@@ -19,6 +19,13 @@ public void Save(Stream stream, FileFormat format)
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | format | FileFormat | Format. |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
 ### Examples
 
 The following code shows how to save scene
@@ -54,6 +61,13 @@ public void Save(Stream stream, FileFormat format, CancellationToken cancellatio
 | format | FileFormat | Format. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
 ### Examples
 
 The following code shows how to save scene
@@ -88,6 +102,13 @@ public void Save(Stream stream, SaveOptions options)
 | --- | --- | --- |
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | options | SaveOptions | More detailed configuration to save the stream. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
 ### Examples
 
@@ -126,6 +147,13 @@ public void Save(Stream stream, SaveOptions options, CancellationToken cancellat
 | options | SaveOptions | More detailed configuration to save the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
 ### Examples
 
 The following code shows how to save scene
@@ -162,6 +190,13 @@ public void Save(string fileName)
 | --- | --- | --- |
 | fileName | String | File name. |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
 ### Examples
 
 The following code shows how to save scene
@@ -191,6 +226,13 @@ public void Save(string fileName, FileFormat format)
 | --- | --- | --- |
 | fileName | String | File name. |
 | format | FileFormat | Format. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
 ### Examples
 
@@ -224,6 +266,13 @@ public void Save(string fileName, FileFormat format, CancellationToken cancellat
 | format | FileFormat | Format. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
+
 ### Examples
 
 The following code shows how to save scene
@@ -255,6 +304,13 @@ public void Save(string fileName, SaveOptions options)
 | --- | --- | --- |
 | fileName | String | File name. |
 | options | SaveOptions | More detailed configuration to save the stream. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
 ### Examples
 
@@ -289,6 +345,13 @@ public void Save(string fileName, SaveOptions options, CancellationToken cancell
 | fileName | String | File name. |
 | options | SaveOptions | More detailed configuration to save the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the save task |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ExportException](../../exportexception/) | Thrown when failed to export the scene to specified 3D format |
 
 ### Examples
 

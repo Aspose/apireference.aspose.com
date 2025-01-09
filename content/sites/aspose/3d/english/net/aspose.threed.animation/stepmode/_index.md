@@ -3,7 +3,7 @@ title: Enum StepMode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.StepMode enum. Interpolation step mode
 type: docs
-weight: 2750
+weight: 110
 url: /net/aspose.threed.animation/stepmode/
 ---
 ## StepMode enumeration

@@ -3,8 +3,8 @@ title: DXF property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /python-net/aspose.threed.formats/dracoformat/dxf/
+weight: 160
+url: /aspose.threed.formats/dracoformat/dxf/
 is_root: false
 ---
 

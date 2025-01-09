@@ -3,8 +3,8 @@ title: write_vertices_to method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /python-net/aspose.threed.entities/trimesh/write_vertices_to/
+weight: 270
+url: /aspose.threed.entities/trimesh/write_vertices_to/
 is_root: false
 ---
 

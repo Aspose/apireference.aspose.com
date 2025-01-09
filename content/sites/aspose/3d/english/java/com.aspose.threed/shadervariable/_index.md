@@ -3,7 +3,7 @@ title: ShaderVariable
 second_title: Aspose.3D for Java API Reference
 description: Shader variable
 type: docs
-weight: 160
+weight: 161
 url: /java/com.aspose.threed/shadervariable/
 ---
 
@@ -95,7 +95,7 @@ public String getName()
 Gets the name of this variable
 
 **Returns:**
-java.lang.String
+java.lang.String - the name of this variable
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

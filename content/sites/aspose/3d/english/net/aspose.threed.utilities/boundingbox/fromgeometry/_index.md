@@ -16,7 +16,11 @@ public static BoundingBox FromGeometry(Geometry geometry)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| geometry | Geometry |  |
+| geometry | Geometry | The geometry to calculate bounding box |
+
+### Return Value
+
+The bounding box of given geometry
 
 ### Examples
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.render/renderfactory/create_uniform_buffer/
+url: /aspose.threed.render/renderfactory/create_uniform_buffer/
 is_root: false
 ---
 

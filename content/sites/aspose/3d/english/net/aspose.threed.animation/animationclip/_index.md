@@ -3,7 +3,7 @@ title: Class AnimationClip
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.AnimationClip class. The Animation clip is a collection of animations. The scene can have one or more animation clips
 type: docs
-weight: 2720
+weight: 30
 url: /net/aspose.threed.animation/animationclip/
 ---
 ## AnimationClip class

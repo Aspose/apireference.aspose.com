@@ -3,7 +3,7 @@ title: Class RvmFormat
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.RvmFormat class. The RVM Format
 type: docs
-weight: 1530
+weight: 1370
 url: /net/aspose.threed.formats/rvmformat/
 ---
 ## RvmFormat class

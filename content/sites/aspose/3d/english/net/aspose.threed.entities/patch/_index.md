@@ -3,7 +3,7 @@ title: Class Patch
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Patch class. A Patch is a parametric modeling surface similar to NurbsSurface its also defined by two PatchDirection the U and V. But difference between Patch and NurbsSurface is that the PatchDirection curve can be one of Bezier QuadraticBezier BasisSpline CardinalSpline and Linear
 type: docs
-weight: 2180
+weight: 530
 url: /net/aspose.threed.entities/patch/
 ---
 ## Patch class

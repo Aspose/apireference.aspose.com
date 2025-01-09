@@ -3,7 +3,7 @@ title: RenderParameters
 second_title: Aspose.3D for Java API Reference
 description: Describe the parameters of the render target
 type: docs
-weight: 139
+weight: 140
 url: /java/com.aspose.threed/renderparameters/
 ---
 
@@ -155,7 +155,7 @@ public int getColorBits()
 Gets how many bits will be used by color buffer.
 
 **Returns:**
-int
+int - how many bits will be used by color buffer.
 ### getDepthBits() {#getDepthBits--}
 ```
 public int getDepthBits()
@@ -165,7 +165,7 @@ public int getDepthBits()
 Gets how many bits will be used by depth buffer.
 
 **Returns:**
-int
+int - how many bits will be used by depth buffer.
 ### getDoubleBuffering() {#getDoubleBuffering--}
 ```
 public boolean getDoubleBuffering()
@@ -175,7 +175,7 @@ public boolean getDoubleBuffering()
 Gets whether double buffer is used.
 
 **Returns:**
-boolean
+boolean - whether double buffer is used.
 ### getStencilBits() {#getStencilBits--}
 ```
 public int getStencilBits()
@@ -185,7 +185,7 @@ public int getStencilBits()
 Gets how many bits will be used in stencil buffer.
 
 **Returns:**
-int
+int - how many bits will be used in stencil buffer.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

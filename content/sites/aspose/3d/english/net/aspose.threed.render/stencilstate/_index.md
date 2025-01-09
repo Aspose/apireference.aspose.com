@@ -3,7 +3,7 @@ title: Class StencilState
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.StencilState class. Stencil states per face
 type: docs
-weight: 850
+weight: 2340
 url: /net/aspose.threed.render/stencilstate/
 ---
 ## StencilState class

@@ -3,8 +3,8 @@ title: visible property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 360
-url: /python-net/aspose.threed.entities/mesh/visible/
+weight: 320
+url: /aspose.threed.entities/mesh/visible/
 is_root: false
 ---
 

@@ -3,7 +3,7 @@ title: Class PlyFormat
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.PlyFormat class. The PLY format
 type: docs
-weight: 1790
+weight: 1340
 url: /net/aspose.threed.formats/plyformat/
 ---
 ## PlyFormat class

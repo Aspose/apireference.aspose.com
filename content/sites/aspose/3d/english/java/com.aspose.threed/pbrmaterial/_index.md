@@ -3,7 +3,7 @@ title: PbrMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for physically based rendering based on albedo color/metallic/roughness
 type: docs
-weight: 111
+weight: 112
 url: /java/com.aspose.threed/pbrmaterial/
 ---
 
@@ -202,7 +202,7 @@ public Vector3 getAlbedo()
 Gets the base color of the material
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the base color of the material
 ### getAlbedoTexture() {#getAlbedoTexture--}
 ```
 public TextureBase getAlbedoTexture()
@@ -212,7 +212,7 @@ public TextureBase getAlbedoTexture()
 Gets the texture for albedo
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for albedo
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -232,7 +232,7 @@ public Vector3 getEmissiveColor()
 Gets the emissive color
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the emissive color
 ### getEmissiveTexture() {#getEmissiveTexture--}
 ```
 public TextureBase getEmissiveTexture()
@@ -242,7 +242,7 @@ public TextureBase getEmissiveTexture()
 Gets the texture for emissive
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for emissive
 ### getMetallicFactor() {#getMetallicFactor--}
 ```
 public double getMetallicFactor()
@@ -252,7 +252,7 @@ public double getMetallicFactor()
 Gets the metalness of the material, value of 1 means the material is a metal and value of 0 means the material is a dielectric.
 
 **Returns:**
-double
+double - the metalness of the material, value of 1 means the material is a metal and value of 0 means the material is a dielectric.
 ### getMetallicRoughness() {#getMetallicRoughness--}
 ```
 public TextureBase getMetallicRoughness()
@@ -262,7 +262,7 @@ public TextureBase getMetallicRoughness()
 Gets the texture for metallic(in R channel) and roughness(in G channel)
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for metallic(in R channel) and roughness(in G channel)
 ### getName() {#getName--}
 ```
 public String getName()
@@ -272,7 +272,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getNormalTexture() {#getNormalTexture--}
 ```
 public TextureBase getNormalTexture()
@@ -282,7 +282,7 @@ public TextureBase getNormalTexture()
 Gets the texture of normal mapping
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture of normal mapping
 ### getOcclusionFactor() {#getOcclusionFactor--}
 ```
 public double getOcclusionFactor()
@@ -292,7 +292,7 @@ public double getOcclusionFactor()
 Gets the factor of ambient occlusion
 
 **Returns:**
-double
+double - the factor of ambient occlusion
 ### getOcclusionTexture() {#getOcclusionTexture--}
 ```
 public TextureBase getOcclusionTexture()
@@ -302,7 +302,7 @@ public TextureBase getOcclusionTexture()
 Gets the texture for ambient occlusion
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for ambient occlusion
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -312,7 +312,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -337,7 +337,7 @@ public double getRoughnessFactor()
 Gets the roughness of the material, value of 1 means the material is completely rough and value of 0 means the material is completely smooth
 
 **Returns:**
-double
+double - the roughness of the material, value of 1 means the material is completely rough and value of 0 means the material is completely smooth
 ### getSpecularTexture() {#getSpecularTexture--}
 ```
 public TextureBase getSpecularTexture()
@@ -347,7 +347,7 @@ public TextureBase getSpecularTexture()
 Gets the texture for specular color
 
 **Returns:**
-[TextureBase](../../com.aspose.threed/texturebase)
+[TextureBase](../../com.aspose.threed/texturebase) - the texture for specular color
 ### getTexture(String slotName) {#getTexture-java.lang.String-}
 ```
 public TextureBase getTexture(String slotName)
@@ -380,7 +380,7 @@ public double getTransparency()
 Gets the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 
 **Returns:**
-double
+double - the transparency factor. The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent) Any invalid factor value will be clamped.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -443,10 +443,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAlbedo(Vector3 value) {#setAlbedo-com.aspose.threed.Vector3-}
 ```
 public void setAlbedo(Vector3 value)

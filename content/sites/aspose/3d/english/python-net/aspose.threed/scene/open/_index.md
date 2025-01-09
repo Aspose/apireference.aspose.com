@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed/scene/open/
+url: /aspose.threed/scene/open/
 is_root: false
 ---
 
@@ -23,6 +23,13 @@ def open(self, stream):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ImportException`](/3d/python-net/aspose.threed/importexception) | Thrown when input is not a valid 3D format |
+
+
 
 ### Example 
 
@@ -54,6 +61,13 @@ def open(self, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | File name. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ImportException`](/3d/python-net/aspose.threed/importexception) | Thrown when input is not a valid 3D format |
+
+
 
 ### Example 
 
@@ -85,6 +99,13 @@ def open(self, file_name, options):
 | :- | :- | :- |
 | file_name | str | File name. |
 | options | aspose.threed.formats.LoadOptions | More detailed configuration to open the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ImportException`](/3d/python-net/aspose.threed/importexception) | Thrown when input is not a valid 3D format |
+
+
 
 ### Example 
 
@@ -106,4 +127,5 @@ scene.open("input.fbx", opts)
 
 ### See Also
 * module [`aspose.threed`](../../)
+* class [`ImportException`](/3d/python-net/aspose.threed/importexception)
 * class [`Scene`](/3d/python-net/aspose.threed/scene)

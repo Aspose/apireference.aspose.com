@@ -3,7 +3,7 @@ title: Class Torus
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Torus class. Parameterized torus
 type: docs
-weight: 2320
+weight: 740
 url: /net/aspose.threed.entities/torus/
 ---
 ## Torus class
@@ -59,5 +59,6 @@ public class Torus : Primitive
 * class [Primitive](../primitive/)
 * namespace [Aspose.ThreeD.Entities](../../aspose.threed.entities/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Create a torus](https://products.aspose.com/3d/tutorial/convert-torus-primitive-mesh/)
 
 

@@ -3,7 +3,7 @@ title: Class TShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.TShape class. IFC compatible Tshape defined by parameters
 type: docs
-weight: 1190
+weight: 1710
 url: /net/aspose.threed.profiles/tshape/
 ---
 ## TShape class

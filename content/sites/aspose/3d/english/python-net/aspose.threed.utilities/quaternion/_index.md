@@ -3,8 +3,8 @@ title: Quaternion class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /python-net/aspose.threed.utilities/quaternion/
+weight: 120
+url: /aspose.threed.utilities/quaternion/
 is_root: false
 ---
 
@@ -28,6 +28,10 @@ The Quaternion type exposes the following members:
 | :- | :- |
 | [length](/3d/python-net/aspose.threed.utilities/quaternion/length) | Gets the length of the quaternion |
 | [IDENTITY](/3d/python-net/aspose.threed.utilities/quaternion/identity) | The Identity quaternion. |
+| [w](/3d/python-net/aspose.threed.utilities/quaternion/w) | The w component. |
+| [x](/3d/python-net/aspose.threed.utilities/quaternion/x) | The x component. |
+| [y](/3d/python-net/aspose.threed.utilities/quaternion/y) | The y component. |
+| [z](/3d/python-net/aspose.threed.utilities/quaternion/z) | The z component. |
 
 
 ### Methods
@@ -46,6 +50,7 @@ The Quaternion type exposes the following members:
 | [from_rotation](/3d/python-net/aspose.threed.utilities/quaternion/from_rotation/#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3) | Creates a quaternion that rotate from original to destination direction |
 | [to_matrix](/3d/python-net/aspose.threed.utilities/quaternion/to_matrix/#) | Convert the rotation presented by quaternion to transform matrix. |
 | [interpolate](/3d/python-net/aspose.threed.utilities/quaternion/interpolate/#float-aspose.threed.utilities.Quaternion-aspose.threed.utilities.Quaternion) | Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to. |
+| [slerp](/3d/python-net/aspose.threed.utilities/quaternion/slerp/#float-aspose.threed.utilities.Quaternion-aspose.threed.utilities.Quaternion) | Perform spherical linear interpolation between two values |
 
 
 

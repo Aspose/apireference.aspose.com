@@ -22,6 +22,12 @@ public Geometry Decode(string fileName)
 
 A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../aspose.threed.entities/pointcloud/) instance depends on the file content
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed to read from file |
+
 ### Examples
 
 The following code shows how to encode and decode a Mesh to/from byte array:
@@ -58,6 +64,12 @@ public Geometry Decode(byte[] data)
 ### Return Value
 
 A [`Mesh`](../../../aspose.threed.entities/mesh/) or [`PointCloud`](../../../aspose.threed.entities/pointcloud/) instance depends on the content
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [ImportException](../../../aspose.threed/importexception/) | Thrown when data is malformed. |
 
 ### Examples
 

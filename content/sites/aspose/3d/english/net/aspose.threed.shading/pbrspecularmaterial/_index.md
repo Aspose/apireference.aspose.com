@@ -3,7 +3,7 @@ title: Class PbrSpecularMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.PbrSpecularMaterial class. Material for physically based rendering based on diffuse color/specular/glossiness
 type: docs
-weight: 340
+weight: 2460
 url: /net/aspose.threed.shading/pbrspecularmaterial/
 ---
 ## PbrSpecularMaterial class

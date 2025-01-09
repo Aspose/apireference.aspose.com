@@ -3,8 +3,8 @@ title: value_type property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 120
-url: /python-net/aspose.threed/property/value_type/
+weight: 90
+url: /aspose.threed/property/value_type/
 is_root: false
 ---
 

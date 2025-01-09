@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.entities/endpoint/as_value/
+url: /aspose.threed.entities/endpoint/as_value/
 is_root: false
 ---
 

@@ -3,7 +3,7 @@ title: Class VertexElementVisibility
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementVisibility class. Defines if specified components is visible
 type: docs
-weight: 2510
+weight: 980
 url: /net/aspose.threed.entities/vertexelementvisibility/
 ---
 ## VertexElementVisibility class

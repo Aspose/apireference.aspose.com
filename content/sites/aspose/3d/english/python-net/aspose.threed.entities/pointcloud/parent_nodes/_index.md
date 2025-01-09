@@ -3,8 +3,8 @@ title: parent_nodes property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 210
-url: /python-net/aspose.threed.entities/pointcloud/parent_nodes/
+weight: 200
+url: /aspose.threed.entities/pointcloud/parent_nodes/
 is_root: false
 ---
 

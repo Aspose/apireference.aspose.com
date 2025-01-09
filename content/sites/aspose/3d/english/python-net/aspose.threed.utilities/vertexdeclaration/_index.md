@@ -3,8 +3,8 @@ title: VertexDeclaration class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 240
-url: /python-net/aspose.threed.utilities/vertexdeclaration/
+weight: 210
+url: /aspose.threed.utilities/vertexdeclaration/
 is_root: false
 ---
 

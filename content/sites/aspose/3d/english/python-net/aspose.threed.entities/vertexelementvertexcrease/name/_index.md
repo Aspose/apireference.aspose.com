@@ -3,8 +3,8 @@ title: name property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /python-net/aspose.threed.entities/vertexelementvertexcrease/name/
+weight: 80
+url: /aspose.threed.entities/vertexelementvertexcrease/name/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.shading/material/get_texture/
+url: /aspose.threed.shading/material/get_texture/
 is_root: false
 ---
 

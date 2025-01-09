@@ -3,7 +3,7 @@ title: Class SPIRVSource
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.SPIRVSource class. The compiled shader in SPIRV format
 type: docs
-weight: 930
+weight: 2260
 url: /net/aspose.threed.render/spirvsource/
 ---
 ## SPIRVSource class

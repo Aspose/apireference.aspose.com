@@ -3,8 +3,8 @@ title: U3dLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 290
-url: /python-net/aspose.threed.formats/u3dloadoptions/
+weight: 320
+url: /aspose.threed.formats/u3dloadoptions/
 is_root: false
 ---
 

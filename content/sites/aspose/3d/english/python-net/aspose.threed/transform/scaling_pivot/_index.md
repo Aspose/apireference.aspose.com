@@ -3,8 +3,8 @@ title: scaling_pivot property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /python-net/aspose.threed/transform/scaling_pivot/
+weight: 290
+url: /aspose.threed/transform/scaling_pivot/
 is_root: false
 ---
 

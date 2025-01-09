@@ -3,8 +3,8 @@ title: read_file method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 20
-url: /python-net/aspose.threed.utilities/filesystem/read_file/
+weight: 50
+url: /aspose.threed.utilities/filesystem/read_file/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Create a stream for reading dependencies.
 ### Returns 
 
 
-
+Stream for reading the file.
 
 
 ```python
@@ -27,8 +27,14 @@ def read_file(self, file_name, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str |  |
-| options | aspose.threed.formats.IOConfig |  |
+| file_name | str | File's name to open for reading |
+| options | aspose.threed.formats.IOConfig | Save or load options |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | The implementation throws this exception when failed to open the file for reading. |
+
+
 
 
 

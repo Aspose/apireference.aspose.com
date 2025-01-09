@@ -3,7 +3,7 @@ title: Enum GltfEmbeddedImageFormat
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.GltfEmbeddedImageFormat enum. How glTF exporter will embed the textures during the exporting
 type: docs
-weight: 1640
+weight: 1170
 url: /net/aspose.threed.formats/gltfembeddedimageformat/
 ---
 ## GltfEmbeddedImageFormat enumeration

@@ -16,8 +16,8 @@ public abstract Stream ReadFile(string fileName, IOConfig options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String |  |
-| options | IOConfig |  |
+| fileName | String | File's name to open for reading |
+| options | IOConfig | Save or load options |
 
 ### Return Value
 
@@ -27,7 +27,7 @@ Stream for reading the file.
 
 | exception | condition |
 | --- | --- |
-| FileNotFoundException | The implementation throws this exception when failed to open the file for reading. |
+| IOException | The implementation throws this exception when failed to open the file for reading. |
 
 ### See Also
 

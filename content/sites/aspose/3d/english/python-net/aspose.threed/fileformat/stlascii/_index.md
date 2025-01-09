@@ -3,8 +3,8 @@ title: STLASCII property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 450
-url: /python-net/aspose.threed/fileformat/stlascii/
+weight: 460
+url: /aspose.threed/fileformat/stlascii/
 is_root: false
 ---
 

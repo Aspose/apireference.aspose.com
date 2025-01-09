@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /python-net/aspose.threed.entities/mesh/
+url: /aspose.threed.entities/mesh/
 is_root: false
 ---
 
@@ -45,11 +45,9 @@ The Mesh type exposes the following members:
 | [parent_node](/3d/python-net/aspose.threed.entities/mesh/parent_node) | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
 | [visible](/3d/python-net/aspose.threed.entities/mesh/visible) | Gets or sets if the geometry is visible |
 | [deformers](/3d/python-net/aspose.threed.entities/mesh/deformers) | Gets all deformers associated with this geometry. |
-| [control_points](/3d/python-net/aspose.threed.entities/mesh/control_points) | Gets all control points |
 | [cast_shadows](/3d/python-net/aspose.threed.entities/mesh/cast_shadows) | Gets or sets whether this geometry can cast shadow |
 | [receive_shadows](/3d/python-net/aspose.threed.entities/mesh/receive_shadows) | Gets or sets whether this geometry can receive shadow. |
 | [vertex_elements](/3d/python-net/aspose.threed.entities/mesh/vertex_elements) | Gets all vertex elements |
-| [edges](/3d/python-net/aspose.threed.entities/mesh/edges) | Gets edges of the Mesh.  Edge is optional in mesh, so it can be empty. |
 | [polygon_count](/3d/python-net/aspose.threed.entities/mesh/polygon_count) | Gets the count of polygons |
 | [polygons](/3d/python-net/aspose.threed.entities/mesh/polygons) | Gets the polygons definition of the mesh |
 
@@ -67,6 +65,8 @@ The Mesh type exposes the following members:
 | [create_polygon](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#list) | Creates a new polygon with all vertices defined in `indices`.<br/>To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder). |
 | [create_polygon](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int-int) | Create a polygon with 4 vertices(quad) |
 | [create_polygon](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int) | Create a polygon with 3 vertices(triangle) |
+| [optimize](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [optimize](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool-float-float-float) | Optimize the mesh's memory usage by eliminating duplicated control points |
 | [get_property](/3d/python-net/aspose.threed.entities/mesh/get_property/#str) | Get the value of specified property |
 | [set_property](/3d/python-net/aspose.threed.entities/mesh/set_property/#str-any) | Sets the value of specified property |
 | [find_property](/3d/python-net/aspose.threed.entities/mesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
@@ -78,10 +78,7 @@ The Mesh type exposes the following members:
 | [get_polygon_size](/3d/python-net/aspose.threed.entities/mesh/get_polygon_size/#int) | Gets the vertex count of the specified polygon. |
 | [to_mesh](/3d/python-net/aspose.threed.entities/mesh/to_mesh/#) | Gets the Mesh instance from current entity. |
 | [do_boolean](/3d/python-net/aspose.threed.entities/mesh/do_boolean/#aspose.threed.entities.BooleanOperation-aspose.threed.entities.Mesh-Nullable<Aspose.ThreeD.Utilities.Matrix4>-aspose.threed.entities.Mesh-Nullable<Aspose.ThreeD.Utilities.Matrix4>) |  |
-| [union](/3d/python-net/aspose.threed.entities/mesh/union/#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh) | Calculate the union of two meshes |
-| [difference](/3d/python-net/aspose.threed.entities/mesh/difference/#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh) | Calculate the difference of two meshes |
-| [intersect](/3d/python-net/aspose.threed.entities/mesh/intersect/#aspose.threed.entities.Mesh-aspose.threed.entities.Mesh) | Calculate the intersection of two meshes |
-| [optimize](/3d/python-net/aspose.threed.entities/mesh/optimize/#bool) | Optimize the mesh's memory usage by eliminating duplicated control points |
+| [triangulate](/3d/python-net/aspose.threed.entities/mesh/triangulate/#) | Return triangulated mesh |
 
 
 

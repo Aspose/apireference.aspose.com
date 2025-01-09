@@ -18,6 +18,10 @@ public AnimationClip CreateAnimationClip(string name)
 | --- | --- | --- |
 | name | String | Animation clip's name |
 
+### Return Value
+
+A new animation clip instance with given name
+
 ### See Also
 
 * class [AnimationClip](../../../aspose.threed.animation/animationclip/)

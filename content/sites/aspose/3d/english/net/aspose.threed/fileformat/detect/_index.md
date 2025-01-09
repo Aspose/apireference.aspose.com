@@ -16,8 +16,18 @@ public static FileFormat Detect(Stream stream, string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream |  |
-| fileName | String |  |
+| stream | Stream | Stream containing data to detect |
+| fileName | String | Original file name of the data, used as hint. |
+
+### Return Value
+
+The [`FileFormat`](../) instance of the detected type or null if failed.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Exception thrown when failed to read data. |
 
 ### Examples
 
@@ -45,7 +55,17 @@ public static FileFormat Detect(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String |  |
+| fileName | String | Path to the file to detect file format. |
+
+### Return Value
+
+The [`FileFormat`](../) instance of the detected type or null if failed.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Exception thrown when failed to read data. |
 
 ### Examples
 

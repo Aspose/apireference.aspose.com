@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /python-net/aspose.threed/node/select_objects/
+url: /aspose.threed/node/select_objects/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Select multiple objects under current node using XPath-like query syntax.
 ### Returns 
 
 
-
+Multiple object matches the XPath-like query.
 
 
 ```python
@@ -27,7 +27,7 @@ def select_objects(self, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path | str |  |
+| path | str | The XPath-like query |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed/transform/set_geometric_rotation/
+url: /aspose.threed/transform/set_geometric_rotation/
 is_root: false
 ---
 

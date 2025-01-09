@@ -3,7 +3,7 @@ title: Enum DrawOperation
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.DrawOperation enum. The primitive types to render
 type: docs
-weight: 470
+weight: 1850
 url: /net/aspose.threed.render/drawoperation/
 ---
 ## DrawOperation enumeration

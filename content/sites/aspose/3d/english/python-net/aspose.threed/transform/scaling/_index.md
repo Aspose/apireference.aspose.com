@@ -3,8 +3,8 @@ title: scaling property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /python-net/aspose.threed/transform/scaling/
+weight: 270
+url: /aspose.threed/transform/scaling/
 is_root: false
 ---
 

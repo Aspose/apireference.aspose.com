@@ -16,7 +16,7 @@ public static FileFormat GetFormatByExtension(string extensionName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extensionName | String |  |
+| extensionName | String | The extension name started with '.' to query. |
 
 ### Return Value
 

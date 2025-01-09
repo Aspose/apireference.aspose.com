@@ -3,7 +3,7 @@ title: LinearExtrusion
 second_title: Aspose.3D for Java API Reference
 description: Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension.
 type: docs
-weight: 89
+weight: 90
 url: /java/com.aspose.threed/linearextrusion/
 ---
 
@@ -16,7 +16,39 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public class LinearExtrusion extends Entity implements IMeshConvertible
 ```
 
-Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension.
+Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension. **Example:** The following code shows how to use LinearExtrusion to extrude a shape into a solid model.
+
+```
+//Create a new 3D scene
+ 		Scene scene = new Scene();
+ 
+ 		// Initialize the base profile to be extruded
+ 		var profile = new RectangleShape();
+ 		profile.setRoundingRadius(0.3);
+ 
+ 		// Create left node
+ 		var left = scene.getRootNode().createChildNode();
+ 		left.createChildNode(new Box(0.01, 3, 3));
+ 
+ 		// Create right node
+ 		var right = scene.getRootNode().createChildNode();
+ 		right.createChildNode(new Box(0.01, 3, 3));
+ 		right.getTransform().setTranslation(new Vector3(5, 0, 0));
+ 
+ 		//Perform linear extrusion on left node using center and slices property
+ 		var l = new LinearExtrusion(profile, 10);
+ 		l.setCenter(false);
+ 		l.setSlices(3);
+ 		l.setTwist(20);
+ 		left.createChildNode(l);
+ 
+ 		// Perform linear extrusion on left node using center and slices property
+ 		var r = new LinearExtrusion(profile, 10);
+ 		r.setCenter(true);
+ 		r.setSlices(3);
+ 		r.setTwist(90);
+ 		right.createChildNode(r);
+```
 ## Constructors
 
 | Constructor | Description |
@@ -125,7 +157,10 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -133,9 +168,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getCenter() {#getCenter--}
 ```
 public boolean getCenter()
@@ -145,7 +177,7 @@ public boolean getCenter()
 If this value is false, the linear extrusion Z range is from 0 to height, otherwise the range is from -height/2 to height/2.
 
 **Returns:**
-boolean
+boolean - If this value is false, the linear extrusion Z range is from 0 to height, otherwise the range is from -height/2 to height/2.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -165,7 +197,7 @@ public Vector3 getDirection()
 The direction of extrusion, default value is (0, 0, 1)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - The direction of extrusion, default value is (0, 0, 1)
 ### getEntityRendererKey() {#getEntityRendererKey--}
 ```
 public EntityRendererKey getEntityRendererKey()
@@ -175,7 +207,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -185,7 +217,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getHeight() {#getHeight--}
 ```
 public double getHeight()
@@ -195,7 +227,7 @@ public double getHeight()
 The height of the extruded geometry, default value is 1.0
 
 **Returns:**
-double
+double - The height of the extruded geometry, default value is 1.0
 ### getName() {#getName--}
 ```
 public String getName()
@@ -205,7 +237,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -215,7 +247,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -225,7 +257,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -235,7 +267,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -260,7 +292,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getShape() {#getShape--}
 ```
 public Profile getShape()
@@ -270,7 +302,7 @@ public Profile getShape()
 The base shape to be extruded.
 
 **Returns:**
-[Profile](../../com.aspose.threed/profile)
+[Profile](../../com.aspose.threed/profile) - The base shape to be extruded.
 ### getSlices() {#getSlices--}
 ```
 public int getSlices()
@@ -280,7 +312,7 @@ public int getSlices()
 The slices of the twisted extruded geometry, default value is 1.
 
 **Returns:**
-int
+int - The slices of the twisted extruded geometry, default value is 1.
 ### getTwist() {#getTwist--}
 ```
 public double getTwist()
@@ -290,7 +322,7 @@ public double getTwist()
 The number of degrees of through which the shape is extruded.
 
 **Returns:**
-double
+double - The number of degrees of through which the shape is extruded.
 ### getTwistOffset() {#getTwistOffset--}
 ```
 public Vector3 getTwistOffset()
@@ -300,7 +332,7 @@ public Vector3 getTwistOffset()
 The offset that used in twisting, default value is (0, 0, 0).
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - The offset that used in twisting, default value is (0, 0, 0).
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -353,10 +385,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setCenter(boolean value) {#setCenter-boolean-}
 ```
 public void setCenter(boolean value)

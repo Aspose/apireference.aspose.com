@@ -3,8 +3,8 @@ title: read_float method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /python-net/aspose.threed.entities/trimesh/read_float/
+weight: 180
+url: /aspose.threed.entities/trimesh/read_float/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Read the float field
 ### Returns 
 
 
-
+Float value of specified vertex's field
 
 
 ```python

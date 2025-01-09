@@ -3,8 +3,8 @@ title: scene property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /python-net/aspose.threed.entities/trimesh/scene/
+weight: 360
+url: /aspose.threed.entities/trimesh/scene/
 is_root: false
 ---
 

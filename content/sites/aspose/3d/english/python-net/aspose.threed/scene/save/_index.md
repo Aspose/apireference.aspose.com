@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /python-net/aspose.threed/scene/save/
+url: /aspose.threed/scene/save/
 is_root: false
 ---
 
@@ -23,6 +23,13 @@ def save(self, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | File name. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -54,6 +61,13 @@ def save(self, stream, format):
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -87,6 +101,13 @@ def save(self, stream, options):
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -123,6 +144,13 @@ def save(self, file_name, format):
 | :- | :- | :- |
 | file_name | str | File name. |
 | format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -154,6 +182,13 @@ def save(self, file_name, options):
 | :- | :- | :- |
 | file_name | str | File name. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Thrown when failed at reading input |
+| [`ExportException`](/3d/python-net/aspose.threed/exportexception) | Thrown when failed to export the scene to specified 3D format |
+
+
 
 ### Example 
 
@@ -175,4 +210,5 @@ scene.save("output.usdz", opts)
 
 ### See Also
 * module [`aspose.threed`](../../)
+* class [`ExportException`](/3d/python-net/aspose.threed/exportexception)
 * class [`Scene`](/3d/python-net/aspose.threed/scene)

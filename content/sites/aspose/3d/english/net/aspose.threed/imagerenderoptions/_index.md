@@ -3,7 +3,7 @@ title: Class ImageRenderOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.ImageRenderOptions class. Options for Render and Render
 type: docs
-weight: 270
+weight: 1490
 url: /net/aspose.threed/imagerenderoptions/
 ---
 ## ImageRenderOptions class

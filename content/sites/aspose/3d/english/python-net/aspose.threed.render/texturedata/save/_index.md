@@ -3,8 +3,8 @@ title: save method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /python-net/aspose.threed.render/texturedata/save/
+weight: 80
+url: /aspose.threed.render/texturedata/save/
 is_root: false
 ---
 

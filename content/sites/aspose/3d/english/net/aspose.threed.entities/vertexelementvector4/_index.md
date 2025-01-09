@@ -3,7 +3,7 @@ title: Class VertexElementVector4
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementVector4 class. A helper class for defining concrete VertexElement implementations
 type: docs
-weight: 2460
+weight: 950
 url: /net/aspose.threed.entities/vertexelementvector4/
 ---
 ## VertexElementVector4 class

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.utilities/watermark/decode_watermark/
+url: /aspose.threed.utilities/watermark/decode_watermark/
 is_root: false
 ---
 
@@ -28,7 +28,11 @@ def decode_watermark(self, input):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | input | aspose.threed.entities.Mesh | The mesh to extract watermark |
-### Exceptions
+### Remarks
+
+Both [`Watermark.encode_watermark`](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark) and [`Watermark.decode_watermark`](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark) will perform license check
+Trial usage will throw exception, you can use [`TrialException.suppress_trial_exception`](/3d/python-net/aspose.threed/trialexception#suppress_trial_exception) to suppress the exception, but it will not lift the restriction here.
+A valid license is required to use these features without any restrictions.### Exceptions
 | Exception | Description |
 | :- | :- |
 | UnauthorizedAccessException | The mesh is protected by password, and provided password is incorrect. |

@@ -3,8 +3,8 @@ title: version property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 650
-url: /python-net/aspose.threed.formats/pdfformat/version/
+weight: 660
+url: /aspose.threed.formats/pdfformat/version/
 is_root: false
 ---
 

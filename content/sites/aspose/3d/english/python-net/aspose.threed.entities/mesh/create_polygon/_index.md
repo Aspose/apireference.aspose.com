@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /python-net/aspose.threed.entities/mesh/create_polygon/
+url: /aspose.threed.entities/mesh/create_polygon/
 is_root: false
 ---
 
@@ -29,7 +29,9 @@ def create_polygon(self, indices):
 
 
 ```python
+from aspose.threed.entities import Mesh
 
+mesh = Mesh()
 indices = [0, 1, 2]
 mesh.create_polygon(indices)
 
@@ -58,8 +60,12 @@ def create_polygon(self, indices, offset, length):
 ### Example 
 
 
-```python
+The following code shows how to create a new polygon with control point's indices.
 
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
 indices = [0, 1, 2]
 mesh.create_polygon(indices)
 
@@ -84,6 +90,19 @@ def create_polygon(self, v1, v2, v3):
 | v2 | int | Index of the second vertex |
 | v3 | int | Index of the third vertex |
 
+### Example 
+
+
+The following code shows how to create a new polygon with control point's indices.
+
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
+mesh.create_polygon(0, 1, 2)
+
+```
+
 
 ## create_polygon {#int-int-int-int}
 
@@ -103,6 +122,19 @@ def create_polygon(self, v1, v2, v3, v4):
 | v2 | int | Index of the second vertex |
 | v3 | int | Index of the third vertex |
 | v4 | int | Index of the fourth vertex |
+
+### Example 
+
+
+The following code shows how to create a new polygon with control point's indices.
+
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
+mesh.create_polygon(0, 1, 2, 3)
+
+```
 
 
 

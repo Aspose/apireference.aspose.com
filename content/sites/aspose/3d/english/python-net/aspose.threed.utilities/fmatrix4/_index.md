@@ -3,8 +3,8 @@ title: FMatrix4 class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 40
-url: /python-net/aspose.threed.utilities/fmatrix4/
+weight: 30
+url: /aspose.threed.utilities/fmatrix4/
 is_root: false
 ---
 
@@ -28,6 +28,7 @@ The FMatrix4 type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [identity](/3d/python-net/aspose.threed.utilities/fmatrix4/identity) | The identity matrix |
 | [m00](/3d/python-net/aspose.threed.utilities/fmatrix4/m00) | The m00. |
 | [m01](/3d/python-net/aspose.threed.utilities/fmatrix4/m01) | The m01. |
 | [m02](/3d/python-net/aspose.threed.utilities/fmatrix4/m02) | The m02. |
@@ -44,7 +45,6 @@ The FMatrix4 type exposes the following members:
 | [m31](/3d/python-net/aspose.threed.utilities/fmatrix4/m31) | The m31. |
 | [m32](/3d/python-net/aspose.threed.utilities/fmatrix4/m32) | The m32. |
 | [m33](/3d/python-net/aspose.threed.utilities/fmatrix4/m33) | The m33. |
-| [IDENTITY](/3d/python-net/aspose.threed.utilities/fmatrix4/identity) | The identity matrix |
 
 
 ### Methods

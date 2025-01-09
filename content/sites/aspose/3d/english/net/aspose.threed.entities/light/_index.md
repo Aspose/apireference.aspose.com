@@ -3,7 +3,7 @@ title: Class Light
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Light class. The light illuminates the scene
 type: docs
-weight: 2070
+weight: 430
 url: /net/aspose.threed.entities/light/
 ---
 ## Light class
@@ -72,5 +72,6 @@ public class Light : Frustum
 * class [Frustum](../frustum/)
 * namespace [Aspose.ThreeD.Entities](../../aspose.threed.entities/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Illuminate a box in a scene](https://products.aspose.com/3d/tutorial/lighten-box-scene/)
 
 

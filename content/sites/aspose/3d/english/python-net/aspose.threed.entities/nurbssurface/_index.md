@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /python-net/aspose.threed.entities/nurbssurface/
+url: /aspose.threed.entities/nurbssurface/
 is_root: false
 ---
 
@@ -44,7 +44,6 @@ The NurbsSurface type exposes the following members:
 | [parent_node](/3d/python-net/aspose.threed.entities/nurbssurface/parent_node) | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
 | [visible](/3d/python-net/aspose.threed.entities/nurbssurface/visible) | Gets or sets if the geometry is visible |
 | [deformers](/3d/python-net/aspose.threed.entities/nurbssurface/deformers) | Gets all deformers associated with this geometry. |
-| [control_points](/3d/python-net/aspose.threed.entities/nurbssurface/control_points) | Gets all control points |
 | [cast_shadows](/3d/python-net/aspose.threed.entities/nurbssurface/cast_shadows) | Gets or sets whether this geometry can cast shadow |
 | [receive_shadows](/3d/python-net/aspose.threed.entities/nurbssurface/receive_shadows) | Gets or sets whether this geometry can receive shadow. |
 | [vertex_elements](/3d/python-net/aspose.threed.entities/nurbssurface/vertex_elements) | Gets all vertex elements |

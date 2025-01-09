@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.utilities/transformbuilder/rotate_euler_radian/
+url: /aspose.threed.utilities/transformbuilder/rotate_euler_radian/
 is_root: false
 ---
 

@@ -3,14 +3,14 @@ title: Property
 second_title: Aspose.3D for Java API Reference
 description: Class to hold user-defined properties.
 type: docs
-weight: 129
+weight: 130
 url: /java/com.aspose.threed/property/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobject)
+java.lang.Object
 ```
-public abstract class Property extends A3DObject
+public abstract class Property
 ```
 
 Class to hold user-defined properties.
@@ -19,22 +19,17 @@ Class to hold user-defined properties.
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [getBindPoint(AnimationNode anim, boolean create)](#getBindPoint-com.aspose.threed.AnimationNode-boolean-) | Gets the property bind point on specified animation instance. |
 | [getClass()](#getClass--) |  |
+| [getExtra(String name)](#getExtra-java.lang.String-) | Gets extra data of the property associated by name. |
 | [getKeyframeSequence(AnimationNode anim, boolean create)](#getKeyframeSequence-com.aspose.threed.AnimationNode-boolean-) | Gets the keyframe sequence on specified animation instance. |
-| [getName()](#getName--) | Gets the name. |
-| [getProperties()](#getProperties--) | Gets the collection of all properties. |
-| [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
+| [getName()](#getName--) | Gets the name of the property |
 | [getValue()](#getValue--) | Gets the value. |
 | [getValueType()](#getValueType--) | Gets the type of the property value. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
-| [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
-| [setName(String value)](#setName-java.lang.String-) | Gets the name of the property |
-| [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
+| [setExtra(String name, Object value)](#setExtra-java.lang.String-java.lang.Object-) | Sets extra data of the property associated by name. |
 | [setValue(Object value)](#setValue-java.lang.Object-) | Sets the value. |
 | [toString()](#toString--) | Returns a string that represents the current [Property](../../com.aspose.threed/property). |
 | [wait()](#wait--) |  |
@@ -55,21 +50,6 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### findProperty(String propertyName) {#findProperty-java.lang.String-}
-```
-public Property findProperty(String propertyName)
-```
-
-
-Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| propertyName | java.lang.String | Property name. |
-
-**Returns:**
-[Property](../../com.aspose.threed/property) - The property.
 ### getBindPoint(AnimationNode anim, boolean create) {#getBindPoint-com.aspose.threed.AnimationNode-boolean-}
 ```
 public BindPoint getBindPoint(AnimationNode anim, boolean create)
@@ -96,6 +76,21 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getExtra(String name) {#getExtra-java.lang.String-}
+```
+public Object getExtra(String name)
+```
+
+
+Gets extra data of the property associated by name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | The name of the property's extra data |
+
+**Returns:**
+java.lang.Object - The extra data associated by name
 ### getKeyframeSequence(AnimationNode anim, boolean create) {#getKeyframeSequence-com.aspose.threed.AnimationNode-boolean-}
 ```
 public KeyframeSequence getKeyframeSequence(AnimationNode anim, boolean create)
@@ -118,35 +113,10 @@ public String getName()
 ```
 
 
-Gets the name.
+Gets the name of the property
 
 **Returns:**
-java.lang.String
-### getProperties() {#getProperties--}
-```
-public PropertyCollection getProperties()
-```
-
-
-Gets the collection of all properties.
-
-**Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
-### getProperty(String property) {#getProperty-java.lang.String-}
-```
-public Object getProperty(String property)
-```
-
-
-Get the value of specified property
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| property | java.lang.String | Property name |
-
-**Returns:**
-java.lang.Object - The value of the found property
+java.lang.String - the name of the property
 ### getValue() {#getValue--}
 ```
 public abstract Object getValue()
@@ -156,7 +126,7 @@ public abstract Object getValue()
 Gets the value.
 
 **Returns:**
-java.lang.Object
+java.lang.Object - the value.
 ### getValueType() {#getValueType--}
 ```
 public abstract Class<?> getValueType()
@@ -166,7 +136,7 @@ public abstract Class<?> getValueType()
 Gets the type of the property value.
 
 **Returns:**
-java.lang.Class<?>
+java.lang.Class<?> - the type of the property value.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -193,62 +163,19 @@ public final native void notifyAll()
 
 
 
-### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
+### setExtra(String name, Object value) {#setExtra-java.lang.String-java.lang.Object-}
 ```
-public boolean removeProperty(Property property)
+public void setExtra(String name, Object value)
 ```
 
 
-Removes a dynamic property.
+Sets extra data of the property associated by name.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | [Property](../../com.aspose.threed/property) | Which property to remove |
-
-**Returns:**
-boolean - true if the property is successfully removed
-### removeProperty(String property) {#removeProperty-java.lang.String-}
-```
-public boolean removeProperty(String property)
-```
-
-
-Remove the specified property identified by name
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| property | java.lang.String |  |
-
-**Returns:**
-boolean
-### setName(String value) {#setName-java.lang.String-}
-```
-public void setName(String value)
-```
-
-
-Gets the name of the property
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | New value |
-
-### setProperty(String property, Object value) {#setProperty-java.lang.String-java.lang.Object-}
-```
-public void setProperty(String property, Object value)
-```
-
-
-Sets the value of specified property
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| property | java.lang.String | Property name |
-| value | java.lang.Object | The value of the property |
+| name | java.lang.String | The name of the property's extra data |
+| value | java.lang.Object | The value of the property's extra data |
 
 ### setValue(Object value) {#setValue-java.lang.Object-}
 ```

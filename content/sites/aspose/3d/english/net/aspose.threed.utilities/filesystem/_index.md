@@ -3,7 +3,7 @@ title: Class FileSystem
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.FileSystem class. File system encapsulation. Aspose.3D will use this to read/write dependencies
 type: docs
-weight: 1230
+weight: 2650
 url: /net/aspose.threed.utilities/filesystem/
 ---
 ## FileSystem class

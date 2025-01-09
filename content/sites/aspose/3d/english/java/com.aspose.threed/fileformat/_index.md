@@ -21,6 +21,7 @@ File format definition
 | [AMF](#AMF) | Additive manufacturing file format |
 | [ASE](#ASE) | 3D Studio Max's ASCII Scene Exporter format. |
 | [ASPOSE3D_WEB](#ASPOSE3D-WEB) | Aspose.3D Web format. |
+| [BLENDER](#BLENDER) | Blender's 3D file format |
 | [COLLADA](#COLLADA) | Collada file format |
 | [DISCREET3DS](#DISCREET3DS) | 3D Studio's file format |
 | [DRACO](#DRACO) | Google Draco Mesh |
@@ -80,7 +81,7 @@ File format definition
 | [getCanExport()](#getCanExport--) | Gets whether Aspose.3D supports export scene to current file format. |
 | [getCanImport()](#getCanImport--) | Gets whether Aspose.3D supports import scene from current file format. |
 | [getClass()](#getClass--) |  |
-| [getContentType()](#getContentType--) | Gets file format content type **Example:** |
+| [getContentType()](#getContentType--) | Gets file format content type |
 | [getExtension()](#getExtension--) | Gets the extension name of this type. |
 | [getExtensions()](#getExtensions--) | Gets the extension names of this type. |
 | [getFileFormatType()](#getFileFormatType--) | Gets file format type |
@@ -116,6 +117,14 @@ public static final FileFormat ASPOSE3D_WEB
 
 
 Aspose.3D Web format.
+
+### BLENDER {#BLENDER}
+```
+public static final FileFormat BLENDER
+```
+
+
+Blender's 3D file format
 
 ### COLLADA {#COLLADA}
 ```
@@ -327,7 +336,7 @@ Autodesk Maya in Binary format
 
 ### MICROSOFT3MF {#MICROSOFT3MF}
 ```
-public static final FileFormat MICROSOFT3MF
+public static final Microsoft3MFFormat MICROSOFT3MF
 ```
 
 
@@ -502,7 +511,7 @@ public LoadOptions createLoadOptions()
 Create a default load options for this file format
 
 **Returns:**
-[LoadOptions](../../com.aspose.threed/loadoptions)
+[LoadOptions](../../com.aspose.threed/loadoptions) - A default load option for current format
 ### createSaveOptions() {#createSaveOptions--}
 ```
 public SaveOptions createSaveOptions()
@@ -512,7 +521,7 @@ public SaveOptions createSaveOptions()
 Create a default save options for this file format
 
 **Returns:**
-[SaveOptions](../../com.aspose.threed/saveoptions)
+[SaveOptions](../../com.aspose.threed/saveoptions) - A default save option for current format
 ### detect(Stream stream, String fileName) {#detect-com.aspose.csporter.helpers.Stream-java.lang.String-}
 ```
 public static FileFormat detect(Stream stream, String fileName)
@@ -524,17 +533,11 @@ Detect the file format from data stream, file name is optional for guessing type
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.csporter.helpers.Stream |  |
-| fileName | java.lang.String | **Example:**
-
-```
-byte[] bytes = new byte[100];//take the bytes from your source
-     var fmt = FileFormat.detect(new MemoryStream(bytes), "input-file");
-     System.out.printf("Input data format: %s", fmt);
-``` |
+| stream | com.aspose.csporter.helpers.Stream | Stream containing data to detect |
+| fileName | java.lang.String | Original file name of the data, used as hint. |
 
 **Returns:**
-[FileFormat](../../com.aspose.threed/fileformat)
+[FileFormat](../../com.aspose.threed/fileformat) - The [FileFormat](../../com.aspose.threed/fileformat) instance of the detected type or null if failed.
 ### detect(String fileName) {#detect-java.lang.String-}
 ```
 public static FileFormat detect(String fileName)
@@ -546,15 +549,10 @@ Detect the file format from file name, file must be readable so Aspose.3D can de
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String | **Example:**
-
-```
-var fmt = FileFormat.detect("input.fbx");
-     System.out.printf("Input file format: %s", fmt);
-``` |
+| fileName | java.lang.String | Path to the file to detect file format. |
 
 **Returns:**
-[FileFormat](../../com.aspose.threed/fileformat)
+[FileFormat](../../com.aspose.threed/fileformat) - The [FileFormat](../../com.aspose.threed/fileformat) instance of the detected type or null if failed.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -576,7 +574,10 @@ public boolean getCanExport()
 ```
 
 
-Gets whether Aspose.3D supports export scene to current file format. **Example:** The following code shows how to check if exporting to specified format is supported.
+Gets whether Aspose.3D supports export scene to current file format.
+
+**Returns:**
+boolean - whether Aspose.3D supports export scene to current file format. **Example:** The following code shows how to check if exporting to specified format is supported.
 
 ```
 var outputFormat = ".glb";
@@ -584,16 +585,16 @@ var outputFormat = ".glb";
      if (format.getCanExport())
          System.out.printf("Can export to %s", outputFormat);
 ```
-
-**Returns:**
-boolean
 ### getCanImport() {#getCanImport--}
 ```
 public boolean getCanImport()
 ```
 
 
-Gets whether Aspose.3D supports import scene from current file format. **Example:** The following code shows how to check if importing from specified format is supported.
+Gets whether Aspose.3D supports import scene from current file format.
+
+**Returns:**
+boolean - whether Aspose.3D supports import scene from current file format. **Example:** The following code shows how to check if importing from specified format is supported.
 
 ```
 var outputFormat = ".glb";
@@ -601,9 +602,6 @@ var outputFormat = ".glb";
      if (format.getCanImport())
          System.out.printf("Can import from %s", outputFormat);
 ```
-
-**Returns:**
-boolean
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -620,7 +618,10 @@ public FileContentType getContentType()
 ```
 
 
-Gets file format content type **Example:**
+Gets file format content type
+
+**Returns:**
+[FileContentType](../../com.aspose.threed/filecontenttype) - file format content type **Example:**
 
 ```
 var format = FileFormat.MAYA_BINARY;
@@ -629,24 +630,21 @@ var format = FileFormat.MAYA_BINARY;
      else
          System.out.printf("%s is text-based format", format);
 ```
-
-**Returns:**
-[FileContentType](../../com.aspose.threed/filecontenttype)
 ### getExtension() {#getExtension--}
 ```
 public String getExtension()
 ```
 
 
-Gets the extension name of this type. **Example:**
+Gets the extension name of this type.
+
+**Returns:**
+java.lang.String - the extension name of this type. **Example:**
 
 ```
 var format = FileFormat.MAYA_BINARY;
      System.out.printf("Extension of %s is %s", format, format.getExtension());
 ```
-
-**Returns:**
-java.lang.String
 ### getExtensions() {#getExtensions--}
 ```
 public String[] getExtensions()
@@ -656,7 +654,7 @@ public String[] getExtensions()
 Gets the extension names of this type.
 
 **Returns:**
-java.lang.String[]
+java.lang.String[] - the extension names of this type.
 ### getFileFormatType() {#getFileFormatType--}
 ```
 public FileFormatType getFileFormatType()
@@ -666,7 +664,7 @@ public FileFormatType getFileFormatType()
 Gets file format type
 
 **Returns:**
-[FileFormatType](../../com.aspose.threed/fileformattype)
+[FileFormatType](../../com.aspose.threed/fileformattype) - file format type
 ### getFormatByExtension(String extensionName) {#getFormatByExtension-java.lang.String-}
 ```
 public static FileFormat getFormatByExtension(String extensionName)
@@ -678,7 +676,7 @@ Gets the preferred file format from the file extension name The extension name s
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extensionName | java.lang.String |  |
+| extensionName | java.lang.String | The extension name started with '.' to query. |
 
 **Returns:**
 [FileFormat](../../com.aspose.threed/fileformat) - Instance of [FileFormat](../../com.aspose.threed/fileformat), otherwise null returned. **Example:** The following code shows how to save scene to memory using specified format
@@ -688,9 +686,7 @@ Scene scene = new Scene(new Box());
      var outputFormat = ".glb";
      var format = FileFormat.getFormatByExtension(outputFormat);
      var output = new ByteArrayOutputStream();
-     try(var stream = Stream.wrap(output)) {
-         scene.save(stream);
-     }
+     scene.save(output);
 ```
 ### getVersion() {#getVersion--}
 ```
@@ -701,7 +697,7 @@ public Version getVersion()
 Gets file format version
 
 **Returns:**
-com.aspose.csporter.helpers.Version
+com.aspose.csporter.helpers.Version - file format version
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

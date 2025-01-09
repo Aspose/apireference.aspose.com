@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.render/driverexception/
+url: /aspose.threed.render/driverexception/
 is_root: false
 ---
 

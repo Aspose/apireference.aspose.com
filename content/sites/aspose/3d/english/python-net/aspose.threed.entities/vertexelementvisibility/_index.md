@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 570
-url: /python-net/aspose.threed.entities/vertexelementvisibility/
+url: /aspose.threed.entities/vertexelementvisibility/
 is_root: false
 ---
 
@@ -34,7 +34,6 @@ The VertexElementVisibility type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementvisibility/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementvisibility/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementvisibility/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementvisibility/indices) | Gets the indices data |
 
 
 ### Methods

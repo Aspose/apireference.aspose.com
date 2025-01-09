@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.render/stencilstate/depth_fail_action/
+url: /aspose.threed.render/stencilstate/depth_fail_action/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.threed/scene/create_animation_clip/
+url: /aspose.threed/scene/create_animation_clip/
 is_root: false
 ---
 
@@ -17,7 +17,7 @@ The first [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip
 ### Returns 
 
 
-
+A new animation clip instance with given name
 
 
 ```python

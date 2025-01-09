@@ -3,7 +3,7 @@ title: PolygonModifier.SplitMesh
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Split mesh into submeshes by VertexElementMaterial. Each submesh will use only one material. Perform mesh splitting on a node
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.threed.entities/polygonmodifier/splitmesh/
 ---
 ## SplitMesh(Node, SplitMeshPolicy, bool, bool) {#splitmesh_1}

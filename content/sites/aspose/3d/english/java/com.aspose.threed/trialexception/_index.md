@@ -3,7 +3,7 @@ title: TrialException
 second_title: Aspose.3D for Java API Reference
 description: This is raised in Scene.Open/Scene.Save when no licenses are applied.
 type: docs
-weight: 182
+weight: 183
 url: /java/com.aspose.threed/trialexception/
 ---
 
@@ -165,7 +165,7 @@ public static boolean getSuppressTrialException()
 Sets this to true to suppress trial exception for unlicensed usage, but the restrictions will not be lifted. In order to lift the restrictions, please use a proper license. And sets this to true also means you're aware of the unlicensed restrictions.
 
 **Returns:**
-boolean
+boolean - Sets this to true to suppress trial exception for unlicensed usage, but the restrictions will not be lifted. In order to lift the restrictions, please use a proper license. And sets this to true also means you're aware of the unlicensed restrictions.
 ### getSuppressed() {#getSuppressed--}
 ```
 public final synchronized Throwable[] getSuppressed()

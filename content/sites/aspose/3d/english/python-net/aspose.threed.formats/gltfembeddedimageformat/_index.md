@@ -3,8 +3,8 @@ title: GltfEmbeddedImageFormat enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 350
-url: /python-net/aspose.threed.formats/gltfembeddedimageformat/
+weight: 380
+url: /aspose.threed.formats/gltfembeddedimageformat/
 is_root: false
 ---
 

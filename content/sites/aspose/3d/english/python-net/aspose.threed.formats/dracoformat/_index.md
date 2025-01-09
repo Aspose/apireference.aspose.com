@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.threed.formats/dracoformat/
+url: /aspose.threed.formats/dracoformat/
 is_root: false
 ---
 
@@ -58,6 +58,7 @@ The DracoFormat type exposes the following members:
 | [GLTF_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | [GLTF2_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | [PDF](/3d/python-net/aspose.threed.formats/dracoformat/pdf) | Adobe's Portable Document Format |
+| [BLENDER](/3d/python-net/aspose.threed.formats/dracoformat/blender) | Blender's 3D file format |
 | [DXF](/3d/python-net/aspose.threed.formats/dracoformat/dxf) | AutoCAD DXF |
 | [PLY](/3d/python-net/aspose.threed.formats/dracoformat/ply) | Polygon File Format or Stanford Triangle Format |
 | [X_BINARY](/3d/python-net/aspose.threed.formats/dracoformat/x_binary) | DirectX X File in binary format |

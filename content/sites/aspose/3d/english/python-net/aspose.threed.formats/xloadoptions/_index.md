@@ -3,8 +3,8 @@ title: XLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /python-net/aspose.threed.formats/xloadoptions/
+weight: 350
+url: /aspose.threed.formats/xloadoptions/
 is_root: false
 ---
 

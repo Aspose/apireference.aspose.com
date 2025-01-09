@@ -3,7 +3,7 @@ title: Enum PatchDirectionType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.PatchDirectionType enum. Patch directions types
 type: docs
-weight: 2190
+weight: 550
 url: /net/aspose.threed.entities/patchdirectiontype/
 ---
 ## PatchDirectionType enumeration

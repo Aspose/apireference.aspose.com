@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.threed/fileformat/
+url: /aspose.threed/fileformat/
 is_root: false
 ---
 
@@ -53,6 +53,7 @@ The FileFormat type exposes the following members:
 | [GLTF_BINARY](/3d/python-net/aspose.threed/fileformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | [GLTF2_BINARY](/3d/python-net/aspose.threed/fileformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | [PDF](/3d/python-net/aspose.threed/fileformat/pdf) | Adobe's Portable Document Format |
+| [BLENDER](/3d/python-net/aspose.threed/fileformat/blender) | Blender's 3D file format |
 | [DXF](/3d/python-net/aspose.threed/fileformat/dxf) | AutoCAD DXF |
 | [PLY](/3d/python-net/aspose.threed/fileformat/ply) | Polygon File Format or Stanford Triangle Format |
 | [X_BINARY](/3d/python-net/aspose.threed/fileformat/x_binary) | DirectX X File in binary format |

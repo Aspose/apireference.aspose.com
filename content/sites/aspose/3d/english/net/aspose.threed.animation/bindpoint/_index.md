@@ -3,7 +3,7 @@ title: Class BindPoint
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.BindPoint class. A BindPoint is usually created on an objects property some property types contains multiple component fieldslike a Vector3 field BindPoint will generate channel for each component field and connects the field to one or more keyframe sequence instances through the channels
 type: docs
-weight: 2780
+weight: 50
 url: /net/aspose.threed.animation/bindpoint/
 ---
 ## BindPoint class

@@ -3,7 +3,7 @@ title: Class TextureCodec
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.TextureCodec class. Class to manage encoders and decoders for textures
 type: docs
-weight: 970
+weight: 2350
 url: /net/aspose.threed.render/texturecodec/
 ---
 ## TextureCodec class

@@ -3,7 +3,7 @@ title: Class CompositeCurve
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.CompositeCurve class. A CompositeCurve is consisting of several curve segments
 type: docs
-weight: 1950
+weight: 300
 url: /net/aspose.threed.entities/compositecurve/
 ---
 ## CompositeCurve class
@@ -37,7 +37,7 @@ public class CompositeCurve : Curve
 
 | Name | Description |
 | --- | --- |
-| [AddSegment](../../aspose.threed.entities/compositecurve/addsegment/)(Curve, bool) | The |
+| [AddSegment](../../aspose.threed.entities/compositecurve/addsegment/)(Curve, bool) | Add a new segment to current curve. |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
 | [GetBoundingBox](../../aspose.threed/entity/getboundingbox/)() | Gets the bounding box of current entity in its object space coordinate system.(Inherited from [`Entity`](../../aspose.threed/entity/).) |
 | override [GetEntityRendererKey](../../aspose.threed.entities/curve/getentityrendererkey/)() | Gets the key of the entity renderer registered in the renderer(Inherited from [`Curve`](../curve/).) |

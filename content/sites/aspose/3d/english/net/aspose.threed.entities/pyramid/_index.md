@@ -3,7 +3,7 @@ title: Class Pyramid
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Pyramid class. Parameterized pyramid
 type: docs
-weight: 2290
+weight: 620
 url: /net/aspose.threed.entities/pyramid/
 ---
 ## Pyramid class

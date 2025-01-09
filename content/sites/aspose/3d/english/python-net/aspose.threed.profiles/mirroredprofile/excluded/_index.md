@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /python-net/aspose.threed.profiles/mirroredprofile/excluded/
+url: /aspose.threed.profiles/mirroredprofile/excluded/
 is_root: false
 ---
 

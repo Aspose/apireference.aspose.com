@@ -3,7 +3,7 @@ title: Class PbrMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.PbrMaterial class. Material for physically based rendering based on albedo color/metallic/roughness
 type: docs
-weight: 330
+weight: 2450
 url: /net/aspose.threed.shading/pbrmaterial/
 ---
 ## PbrMaterial class
@@ -60,5 +60,6 @@ public class PbrMaterial : Material
 * class [Material](../material/)
 * namespace [Aspose.ThreeD.Shading](../../aspose.threed.shading/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Create a sphere with a PBR-based material](https://products.aspose.com/3d/tutorial/create-sphere-material/)
 
 

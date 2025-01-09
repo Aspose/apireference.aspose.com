@@ -3,8 +3,8 @@ title: DracoCompressionLevel enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 340
-url: /python-net/aspose.threed.formats/dracocompressionlevel/
+weight: 370
+url: /aspose.threed.formats/dracocompressionlevel/
 is_root: false
 ---
 

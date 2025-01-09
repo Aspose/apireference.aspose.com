@@ -24,12 +24,13 @@ url: /java/com.aspose.threed/
 | [BindPoint](../com.aspose.threed/bindpoint) | A [BindPoint](../com.aspose.threed/bindpoint) is usually created on an object's property, some property types contains multiple component fields(like a Vector3 field), [BindPoint](../com.aspose.threed/bindpoint) will generate channel for each component field and connects the field to one or more keyframe sequence instance(s) through the channels. |
 | [Bone](../com.aspose.threed/bone) | A bone defines the subset of the geometry's control point, and defined blend weight for each control point. |
 | [BonePose](../com.aspose.threed/bonepose) | The [BonePose](../com.aspose.threed/bonepose) contains the transformation matrix for a bone node |
-| [BoundingBox](../com.aspose.threed/boundingbox) | The axis-aligned bounding box |
+| [BoundingBox](../com.aspose.threed/boundingbox) | The axis-aligned bounding box **Example:** The following code shows how to get a bounding box from an Entity instance. |
 | [BoundingBox2D](../com.aspose.threed/boundingbox2d) | The axis-aligned bounding box for [Vector2](../com.aspose.threed/vector2) |
 | [Box](../com.aspose.threed/box) | Box. |
 | [CShape](../com.aspose.threed/cshape) | IFC compatible C-shape profile that defined by parameters. |
 | [Camera](../com.aspose.threed/camera) | The camera describes the eye point of the viewer looking at the scene. |
 | [Cancellation](../com.aspose.threed/cancellation) | This class allows you to manually abort a load/save task. |
+| [CenterLineProfile](../com.aspose.threed/centerlineprofile) | IFC compatible center line profile |
 | [Circle](../com.aspose.threed/circle) | A [Circle](../com.aspose.threed/circle) curve consists of a set of points in the edge of the circle shape. |
 | [CircleShape](../com.aspose.threed/circleshape) | IFC compatible circle profile, which can be used to construct a mesh through [LinearExtrusion](../com.aspose.threed/linearextrusion) |
 | [ColladaSaveOptions](../com.aspose.threed/colladasaveoptions) | Save options for collada |
@@ -46,10 +47,9 @@ url: /java/com.aspose.threed/
 | [Discreet3dsLoadOptions](../com.aspose.threed/discreet3dsloadoptions) | Load options for 3DS file. |
 | [Discreet3dsSaveOptions](../com.aspose.threed/discreet3dssaveoptions) | Save options for 3DS file. |
 | [Dish](../com.aspose.threed/dish) | Parameterized dish. |
-| [DracoFormat](../com.aspose.threed/dracoformat) | Google Draco format |
+| [DracoFormat](../com.aspose.threed/dracoformat) | Google Draco format **Example:** The following code shows how to encode and decode a Mesh to/from byte array: |
 | [DracoSaveOptions](../com.aspose.threed/dracosaveoptions) | Save options for Google draco files |
 | [DriverException](../com.aspose.threed/driverexception) | The exception raised by internal rendering drivers. |
-| [DummyFileSystem](../com.aspose.threed/dummyfilesystem) | Read/write operations are dummy operations. |
 | [Ellipse](../com.aspose.threed/ellipse) | An [Ellipse](../com.aspose.threed/ellipse) defines a set of points that form the shape of ellipse. |
 | [EllipseShape](../com.aspose.threed/ellipseshape) | IFC compatible ellipse shape that defined by parameters. |
 | [EndPoint](../com.aspose.threed/endpoint) | The end point to trim the curve, can be a parameter value or a Cartesian point. |
@@ -85,6 +85,7 @@ url: /java/com.aspose.threed/
 | [ImportException](../com.aspose.threed/importexception) | Exception when Aspose.3D failed to open the specified source |
 | [InitializationException](../com.aspose.threed/initializationexception) | Exceptions in render pipeline initialization |
 | [JavaXImageCodec](../com.aspose.threed/javaximagecodec) |  |
+| [JtLoadOptions](../com.aspose.threed/jtloadoptions) | Load options for Siemens JT |
 | [KeyFrame](../com.aspose.threed/keyframe) | A key frame is mainly defined by a time and a value, for some interpolation types, tangent/tension/bias/continuity is also used by calculating the final sampled value. |
 | [KeyframeSequence](../com.aspose.threed/keyframesequence) | The sequence of key-frames, it describes the transformation of a sampled value over time. |
 | [LShape](../com.aspose.threed/lshape) | IFC compatible L-shape profile that defined by parameters. |
@@ -94,13 +95,13 @@ url: /java/com.aspose.threed/
 | [Line](../com.aspose.threed/line) | A polyline is a path defined by a set of points with [Geometry.\#getControlPoints](../com.aspose.threed/geometry\#getControlPoints), and connected by [Line.\#getSegments](../com.aspose.threed/line\#getSegments), which means it can also be a set of connected line segments. |
 | [LinearExtrusion](../com.aspose.threed/linearextrusion) | Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension. |
 | [LoadOptions](../com.aspose.threed/loadoptions) | The base class to configure options in file loading for different types |
-| [LocalFileSystem](../com.aspose.threed/localfilesystem) | The [LocalFileSystem](../com.aspose.threed/localfilesystem) will maps the read/write operations to local directory. |
 | [Material](../com.aspose.threed/material) | Material defines the parameters necessary for visual appearance of geometry. |
 | [MathUtils](../com.aspose.threed/mathutils) | A set of useful mathematical utilities. |
 | [Matrix4](../com.aspose.threed/matrix4) | 4x4 matrix implementation. |
-| [MemoryFileSystem](../com.aspose.threed/memoryfilesystem) | The [MemoryFileSystem](../com.aspose.threed/memoryfilesystem) will maps the read/write operations to memory. |
 | [Mesh](../com.aspose.threed/mesh) | A mesh is made of many n-sided polygons. |
 | [Metered](../com.aspose.threed/metered) | Provides methods to set metered key. |
+| [Microsoft3MFFormat](../com.aspose.threed/microsoft3mfformat) | File format instance for Microsoft 3MF with 3MF related utilities. |
+| [Microsoft3MFSaveOptions](../com.aspose.threed/microsoft3mfsaveoptions) | Save options for Microsoft 3MF file. |
 | [MirroredProfile](../com.aspose.threed/mirroredprofile) | IFC compatible mirror profile. |
 | [MorphTargetChannel](../com.aspose.threed/morphtargetchannel) | A MorphTargetChannel is used by [MorphTargetDeformer](../com.aspose.threed/morphtargetdeformer) to organize the target geometries. |
 | [MorphTargetDeformer](../com.aspose.threed/morphtargetdeformer) | MorphTargetDeformer provides per-vertex animation. |
@@ -116,7 +117,7 @@ url: /java/com.aspose.threed/
 | [PatchDirection](../com.aspose.threed/patchdirection) | Patch's U and V direction. |
 | [PbrMaterial](../com.aspose.threed/pbrmaterial) | Material for physically based rendering based on albedo color/metallic/roughness |
 | [PbrSpecularMaterial](../com.aspose.threed/pbrspecularmaterial) | Material for physically based rendering based on diffuse color/specular/glossiness |
-| [PdfFormat](../com.aspose.threed/pdfformat) | Adobe's Portable Document Format |
+| [PdfFormat](../com.aspose.threed/pdfformat) | Adobe's Portable Document Format **Example:** The following code shows how to extract all supported 3D scenes from a 3D PDF file, and write them to obj format. |
 | [PdfLoadOptions](../com.aspose.threed/pdfloadoptions) | Options for PDF loading |
 | [PdfSaveOptions](../com.aspose.threed/pdfsaveoptions) | The save options in PDF exporting. |
 | [PhongMaterial](../com.aspose.threed/phongmaterial) | Material for blinn-phong shading model. |
@@ -224,13 +225,12 @@ url: /java/com.aspose.threed/
 | [WindowHandle](../com.aspose.threed/windowhandle) | Encapsulated window handle for different platforms. |
 | [XLoadOptions](../com.aspose.threed/xloadoptions) | The Load options for DirectX X files. |
 | [ZShape](../com.aspose.threed/zshape) | IFC compatible Z-shape profile defined by parameters. |
-| [ZipArchiveFileSystem](../com.aspose.threed/ziparchivefilesystem) | File system to provide to the read-only access to speicified zip file or zip stream. |
 
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [FileSystemFactory](../com.aspose.threed/filesystemfactory) | [SaveOptions](../com.aspose.threed/saveoptions) and [LoadOptions](../com.aspose.threed/loadoptions) will create a [LocalFileSystem](../com.aspose.threed/localfilesystem) for default. |
+| [FileSystemFactory](../com.aspose.threed/filesystemfactory) | [SaveOptions](../com.aspose.threed/saveoptions) and [LoadOptions](../com.aspose.threed/loadoptions) will create a com.aspose.threed.LocalFileSystem for default. |
 | [IBuffer](../com.aspose.threed/ibuffer) | The base interface of all managed buffers used in rendering |
 | [ICommandList](../com.aspose.threed/icommandlist) | Encodes a sequence of commands which will be sent to GPU to render. |
 | [IDescriptorSet](../com.aspose.threed/idescriptorset) | The descriptor sets describes different resources that can be used to bind to the render pipeline like buffers, textures |

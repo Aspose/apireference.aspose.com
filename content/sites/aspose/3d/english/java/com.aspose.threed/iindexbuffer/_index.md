@@ -32,7 +32,7 @@ public abstract int getCount()
 Gets the number of index in this buffer.
 
 **Returns:**
-int
+int - the number of index in this buffer.
 ### getIndexDataType() {#getIndexDataType--}
 ```
 public abstract IndexDataType getIndexDataType()
@@ -42,7 +42,7 @@ public abstract IndexDataType getIndexDataType()
 Gets the data type of each element.
 
 **Returns:**
-[IndexDataType](../../com.aspose.threed/indexdatatype)
+[IndexDataType](../../com.aspose.threed/indexdatatype) - the data type of each element.
 ### loadData(TriMesh mesh) {#loadData-com.aspose.threed.TriMesh-}
 ```
 public abstract void loadData(TriMesh mesh)

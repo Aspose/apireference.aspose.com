@@ -3,7 +3,7 @@ title: Class MirroredProfile
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.MirroredProfile class. IFC compatible mirror profile. This profile defines a new profile by mirroring the base profile about the y axis
 type: docs
-weight: 1130
+weight: 1670
 url: /net/aspose.threed.profiles/mirroredprofile/
 ---
 ## MirroredProfile class

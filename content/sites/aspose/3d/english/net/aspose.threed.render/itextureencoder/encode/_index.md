@@ -23,7 +23,7 @@ public void Encode(TextureData texture, Stream stream)
 
 | exception | condition |
 | --- | --- |
-| IOException |  |
+| IOException | Thrown when failed to write encoded texture to stream |
 
 ### See Also
 

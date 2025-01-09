@@ -3,7 +3,7 @@ title: Class Box
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Box class. Box
 type: docs
-weight: 2240
+weight: 270
 url: /net/aspose.threed.entities/box/
 ---
 ## Box class

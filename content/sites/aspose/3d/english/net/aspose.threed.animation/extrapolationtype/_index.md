@@ -3,7 +3,7 @@ title: Enum ExtrapolationType
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.ExtrapolationType enum. Extrapolation type
 type: docs
-weight: 2760
+weight: 70
 url: /net/aspose.threed.animation/extrapolationtype/
 ---
 ## ExtrapolationType enumeration

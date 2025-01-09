@@ -3,7 +3,7 @@ title: Class AxisSystem
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.AxisSystem class. Axis system is an combination of coordinate system up vector and front vector
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.threed/axissystem/
 ---
 ## AxisSystem class
@@ -30,6 +30,13 @@ public class AxisSystem
 | [CoordinateSystem](../../aspose.threed/axissystem/coordinatesystem/) { get; } | Gets the coordinate system of this axis system. |
 | [Front](../../aspose.threed/axissystem/front/) { get; } | Gets the front vector of this axis system |
 | [Up](../../aspose.threed/axissystem/up/) { get; } | Gets the up vector of this axis system. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| static [FromAssetInfo](../../aspose.threed/axissystem/fromassetinfo/)(AssetInfo) | Create `AxisSystem` from [`AssetInfo`](../assetinfo/) |
+| [TransformTo](../../aspose.threed/axissystem/transformto/)(AxisSystem) | Create a matrix used to convert from current axis system to target axis system. |
 
 ### See Also
 

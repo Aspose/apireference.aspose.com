@@ -3,8 +3,8 @@ title: FVector2 class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 50
-url: /python-net/aspose.threed.utilities/fvector2/
+weight: 40
+url: /aspose.threed.utilities/fvector2/
 is_root: false
 ---
 
@@ -22,6 +22,13 @@ The FVector2 type exposes the following members:
 | [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
 | [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#aspose.threed.utilities.Vector2) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
 | [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) | Constructs a new instance of FVector2 |
+
+
+### Properties
+| Property | Description |
+| :- | :- |
+| [x](/3d/python-net/aspose.threed.utilities/fvector2/x) | The x component. |
+| [y](/3d/python-net/aspose.threed.utilities/fvector2/y) | The y component. |
 
 
 ### Methods

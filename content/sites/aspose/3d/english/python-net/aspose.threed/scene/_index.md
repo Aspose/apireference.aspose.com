@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /python-net/aspose.threed/scene/
+url: /aspose.threed/scene/
 is_root: false
 ---
 
@@ -30,7 +30,6 @@ The Scene type exposes the following members:
 | [__init__](/3d/python-net/aspose.threed/scene/__init__/#) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class. |
 | [__init__](/3d/python-net/aspose.threed/scene/__init__/#aspose.threed.Entity) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node. |
 | [__init__](/3d/python-net/aspose.threed/scene/__init__/#aspose.threed.Scene-str) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene. |
-| [__init__](/3d/python-net/aspose.threed/scene/__init__/#str) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class and open the file immediately.<br/>This is an obsoleted constructor, please use [`Scene.from_file`](/3d/python-net/aspose.threed/scene/from_file). |
 
 
 ### Properties
@@ -46,6 +45,7 @@ The Scene type exposes the following members:
 | [asset_info](/3d/python-net/aspose.threed/scene/asset_info) | Gets or sets the top-level asset information |
 | [poses](/3d/python-net/aspose.threed/scene/poses) | Gets all [`Pose`](/3d/python-net/aspose.threed/pose) used in this scene. |
 | [root_node](/3d/python-net/aspose.threed/scene/root_node) | Gets the root node of the scene. |
+| [VERSION](/3d/python-net/aspose.threed/scene/version) | Gets the current release version |
 
 
 ### Methods

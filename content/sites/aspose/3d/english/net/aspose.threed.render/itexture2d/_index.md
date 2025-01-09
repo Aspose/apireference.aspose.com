@@ -3,7 +3,7 @@ title: Interface ITexture2D
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ITexture2D interface. 2D texture
 type: docs
-weight: 650
+weight: 2020
 url: /net/aspose.threed.render/itexture2d/
 ---
 ## ITexture2D interface

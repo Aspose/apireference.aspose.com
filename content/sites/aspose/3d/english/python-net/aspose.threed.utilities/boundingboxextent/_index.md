@@ -3,8 +3,8 @@ title: BoundingBoxExtent enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /python-net/aspose.threed.utilities/boundingboxextent/
+weight: 240
+url: /aspose.threed.utilities/boundingboxextent/
 is_root: false
 ---
 

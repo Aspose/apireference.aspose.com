@@ -3,7 +3,7 @@ title: Class TextureBase
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.TextureBase class. Base class for all concrete textures. Texture defines the look and feel of a geometry surface
 type: docs
-weight: 420
+weight: 2510
 url: /net/aspose.threed.shading/texturebase/
 ---
 ## TextureBase class

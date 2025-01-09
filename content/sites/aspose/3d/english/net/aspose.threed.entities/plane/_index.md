@@ -3,7 +3,7 @@ title: Class Plane
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Plane class. Parameterized plane
 type: docs
-weight: 2270
+weight: 560
 url: /net/aspose.threed.entities/plane/
 ---
 ## Plane class
@@ -58,5 +58,6 @@ public class Plane : Primitive
 * class [Primitive](../primitive/)
 * namespace [Aspose.ThreeD.Entities](../../aspose.threed.entities/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Create a plane](https://products.aspose.com/3d/tutorial/change-direction-plane/)
 
 

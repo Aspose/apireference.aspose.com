@@ -3,8 +3,8 @@ title: optimize method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /python-net/aspose.threed.entities/mesh/optimize/
+weight: 140
+url: /aspose.threed.entities/mesh/optimize/
 is_root: false
 ---
 
@@ -43,6 +43,31 @@ mesh = Sphere().to_mesh()
 optimized = mesh.optimize(True)
 
 ```
+
+
+## optimize {#bool-float-float-float}
+
+Optimize the mesh's memory usage by eliminating duplicated control points
+
+
+### Returns 
+
+
+New mesh instance with compact memory usage
+
+
+```python
+def optimize(self, vertex_elements, tolerance_control_point, tolerance_normal, tolerance_uv):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| vertex_elements | bool | Optimize duplicated vertex element data |
+| tolerance_control_point | float | The tolerance for control point, default value is 1e-9 |
+| tolerance_normal | float | The tolerance for normal/tangent/binormal default value is 1e-9 |
+| tolerance_uv | float | The tolerance for uv, default value is 1e-9 |
 
 
 

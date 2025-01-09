@@ -3,8 +3,8 @@ title: remove_property method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 170
-url: /python-net/aspose.threed.entities/mesh/remove_property/
+weight: 150
+url: /aspose.threed.entities/mesh/remove_property/
 is_root: false
 ---
 
@@ -38,7 +38,7 @@ Remove the specified property identified by name
 ### Returns 
 
 
-
+true if the property is successfully removed
 
 
 ```python
@@ -49,7 +49,7 @@ def remove_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | str |  |
+| property | str | Which property to remove |
 
 
 

@@ -3,8 +3,8 @@ title: StlSaveOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 280
-url: /python-net/aspose.threed.formats/stlsaveoptions/
+weight: 310
+url: /aspose.threed.formats/stlsaveoptions/
 is_root: false
 ---
 

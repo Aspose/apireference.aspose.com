@@ -32,7 +32,7 @@ public CircleShape(double radius)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| radius | Double |  |
+| radius | Double | Radius of the circle |
 
 ### See Also
 

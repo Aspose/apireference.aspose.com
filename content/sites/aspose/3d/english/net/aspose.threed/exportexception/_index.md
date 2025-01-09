@@ -3,7 +3,7 @@ title: Class ExportException
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.ExportException class. Exceptions when Aspose.3D failed to export the scene to file
 type: docs
-weight: 70
+weight: 1010
 url: /net/aspose.threed/exportexception/
 ---
 ## ExportException class

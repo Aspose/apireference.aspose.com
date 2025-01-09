@@ -3,7 +3,7 @@ title: Class VertexElementSpecular
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementSpecular class. Defines specular color for specified components
 type: docs
-weight: 2630
+weight: 890
 url: /net/aspose.threed.entities/vertexelementspecular/
 ---
 ## VertexElementSpecular class

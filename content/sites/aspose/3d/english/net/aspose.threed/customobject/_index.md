@@ -3,7 +3,7 @@ title: Class CustomObject
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.CustomObject class. Meta data or custom objects used in 3D files are managed by this class. All custom properties are saved as dynamic properties
 type: docs
-weight: 160
+weight: 180
 url: /net/aspose.threed/customobject/
 ---
 ## CustomObject class

@@ -29,7 +29,7 @@ public abstract int getSize()
 Size of this buffer in bytes
 
 **Returns:**
-int
+int - Size of this buffer in bytes
 ### loadData(byte[] data) {#loadData-byte---}
 ```
 public abstract void loadData(byte[] data)

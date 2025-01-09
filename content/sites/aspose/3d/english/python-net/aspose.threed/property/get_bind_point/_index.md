@@ -3,8 +3,8 @@ title: get_bind_point method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 30
-url: /python-net/aspose.threed/property/get_bind_point/
+weight: 20
+url: /aspose.threed/property/get_bind_point/
 is_root: false
 ---
 

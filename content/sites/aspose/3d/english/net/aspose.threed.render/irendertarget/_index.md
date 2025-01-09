@@ -3,7 +3,7 @@ title: Interface IRenderTarget
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.IRenderTarget interface. The base interface of render target
 type: docs
-weight: 560
+weight: 1980
 url: /net/aspose.threed.render/irendertarget/
 ---
 ## IRenderTarget interface

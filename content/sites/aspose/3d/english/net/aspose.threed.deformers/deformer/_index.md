@@ -3,7 +3,7 @@ title: Class Deformer
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Deformers.Deformer class. Base class for SkinDeformer and MorphTargetDeformer
 type: docs
-weight: 2670
+weight: 210
 url: /net/aspose.threed.deformers/deformer/
 ---
 ## Deformer class

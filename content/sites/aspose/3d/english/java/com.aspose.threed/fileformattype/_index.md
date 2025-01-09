@@ -21,6 +21,7 @@ File format type
 | [AMF](#AMF) | Additive manufacturing file format |
 | [ASE](#ASE) | 3D Studio Max's ASCII Scene Exporter format. |
 | [ASPOSE3D_WEB](#ASPOSE3D-WEB) | Aspose.3D Web format. |
+| [BLENDER](#BLENDER) | Blender format type |
 | [COLLADA](#COLLADA) | Khronos Group's Collada file format. |
 | [DISCREET3DS](#DISCREET3DS) | Discreet 3D Studio's file format |
 | [DRACO](#DRACO) | Google Draco Mesh |
@@ -81,6 +82,14 @@ public static final FileFormatType ASPOSE3D_WEB
 
 
 Aspose.3D Web format.
+
+### BLENDER {#BLENDER}
+```
+public static final FileFormatType BLENDER
+```
+
+
+Blender format type
 
 ### COLLADA {#COLLADA}
 ```
@@ -300,7 +309,7 @@ public String getExtension()
 The extension name of this file format, started with .
 
 **Returns:**
-java.lang.String
+java.lang.String - The extension name of this file format, started with .
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

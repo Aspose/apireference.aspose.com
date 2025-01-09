@@ -3,7 +3,7 @@ title: Class PointCloud
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.PointCloud class. The point cloud contains no topology information but only the control points and the vertex elements
 type: docs
-weight: 2210
+weight: 570
 url: /net/aspose.threed.entities/pointcloud/
 ---
 ## PointCloud class

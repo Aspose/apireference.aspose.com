@@ -3,8 +3,8 @@ title: excluded property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 260
-url: /python-net/aspose.threed.entities/mesh/excluded/
+weight: 220
+url: /aspose.threed.entities/mesh/excluded/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.profiles/circleshape/__init__/
+url: /aspose.threed.profiles/circleshape/__init__/
 is_root: false
 ---
 
@@ -36,7 +36,7 @@ def __init__(self, radius):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| radius | float |  |
+| radius | float | Radius of the circle |
 
 
 

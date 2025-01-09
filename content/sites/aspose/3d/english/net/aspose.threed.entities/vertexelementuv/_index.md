@@ -3,7 +3,7 @@ title: Class VertexElementUV
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementUV class. Defines the UV coordinates for specified components. A geometry can have multiple VertexElementUV elements and each one have different TextureMappings
 type: docs
-weight: 2550
+weight: 930
 url: /net/aspose.threed.entities/vertexelementuv/
 ---
 ## VertexElementUV class

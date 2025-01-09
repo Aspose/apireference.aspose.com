@@ -3,8 +3,8 @@ title: FBX6100ASCII property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 160
-url: /python-net/aspose.threed.formats/pdfformat/fbx6100ascii/
+weight: 170
+url: /aspose.threed.formats/pdfformat/fbx6100ascii/
 is_root: false
 ---
 

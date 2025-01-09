@@ -3,8 +3,8 @@ title: write_32b_indices_to method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 250
-url: /python-net/aspose.threed.entities/trimesh/write_32b_indices_to/
+weight: 260
+url: /aspose.threed.entities/trimesh/write_32b_indices_to/
 is_root: false
 ---
 

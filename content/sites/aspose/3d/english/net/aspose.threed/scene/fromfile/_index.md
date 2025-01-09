@@ -21,6 +21,13 @@ public static Scene FromFile(string fileName, FileFormat format,
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to create a scene from a file
@@ -54,6 +61,13 @@ public static Scene FromFile(string fileName, LoadOptions options,
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to create a scene from a file
@@ -86,6 +100,13 @@ public static Scene FromFile(string fileName)
 | --- | --- | --- |
 | fileName | String | File name. |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
+
 ### Examples
 
 The following code shows how to create a scene from a file
@@ -114,6 +135,13 @@ public static Scene FromFile(string fileName, CancellationToken cancellationToke
 | --- | --- | --- |
 | fileName | String | File name. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed at reading input |
+| [ImportException](../../importexception/) | Thrown when input is not a valid 3D format |
 
 ### Examples
 

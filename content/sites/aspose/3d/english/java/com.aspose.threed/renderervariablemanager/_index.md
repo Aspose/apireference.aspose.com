@@ -3,7 +3,7 @@ title: RendererVariableManager
 second_title: Aspose.3D for Java API Reference
 description: This class manages variables used in rendering
 type: docs
-weight: 144
+weight: 145
 url: /java/com.aspose.threed/renderervariablemanager/
 ---
 
@@ -75,7 +75,7 @@ public FVector3 getCameraPosition()
 Camera's position in world coordinate system
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - Camera's position in world coordinate system
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -95,7 +95,7 @@ public float getDepthBias()
 Depth bias for shadow mapping, default value is 0.001
 
 **Returns:**
-float
+float - Depth bias for shadow mapping, default value is 0.001
 ### getMatrixLightSpace() {#getMatrixLightSpace--}
 ```
 public FMatrix4 getMatrixLightSpace()
@@ -105,7 +105,7 @@ public FMatrix4 getMatrixLightSpace()
 Matrix for light space transformation
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Matrix for light space transformation
 ### getMatrixProjection() {#getMatrixProjection--}
 ```
 public FMatrix4 getMatrixProjection()
@@ -115,7 +115,7 @@ public FMatrix4 getMatrixProjection()
 Matrix for projection transformation
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Matrix for projection transformation
 ### getMatrixView() {#getMatrixView--}
 ```
 public FMatrix4 getMatrixView()
@@ -125,7 +125,7 @@ public FMatrix4 getMatrixView()
 Matrix for view transformation
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Matrix for view transformation
 ### getMatrixViewProjection() {#getMatrixViewProjection--}
 ```
 public FMatrix4 getMatrixViewProjection()
@@ -135,7 +135,7 @@ public FMatrix4 getMatrixViewProjection()
 Matrix for view and projection transformation.
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Matrix for view and projection transformation.
 ### getMatrixWorld() {#getMatrixWorld--}
 ```
 public FMatrix4 getMatrixWorld()
@@ -145,7 +145,7 @@ public FMatrix4 getMatrixWorld()
 Matrix for world transformation
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Matrix for world transformation
 ### getMatrixWorldNormal() {#getMatrixWorldNormal--}
 ```
 public FMatrix4 getMatrixWorldNormal()
@@ -155,7 +155,7 @@ public FMatrix4 getMatrixWorldNormal()
 Matrix for converting normal from object to world space.
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Matrix for converting normal from object to world space.
 ### getMatrixWorldViewProjection() {#getMatrixWorldViewProjection--}
 ```
 public FMatrix4 getMatrixWorldViewProjection()
@@ -165,7 +165,7 @@ public FMatrix4 getMatrixWorldViewProjection()
 Matrix for world view and projection transformation
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Matrix for world view and projection transformation
 ### getShadowCaster() {#getShadowCaster--}
 ```
 public FVector3 getShadowCaster()
@@ -175,7 +175,7 @@ public FVector3 getShadowCaster()
 Position of shadow caster in world coordinate system
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - Position of shadow caster in world coordinate system
 ### getShadowmap() {#getShadowmap--}
 ```
 public ITextureUnit getShadowmap()
@@ -185,7 +185,7 @@ public ITextureUnit getShadowmap()
 The depth texture used for shadow mapping
 
 **Returns:**
-[ITextureUnit](../../com.aspose.threed/itextureunit)
+[ITextureUnit](../../com.aspose.threed/itextureunit) - The depth texture used for shadow mapping
 ### getViewportSize() {#getViewportSize--}
 ```
 public FVector2 getViewportSize()
@@ -195,7 +195,7 @@ public FVector2 getViewportSize()
 Size of viewport, measured in pixel
 
 **Returns:**
-[FVector2](../../com.aspose.threed/fvector2)
+[FVector2](../../com.aspose.threed/fvector2) - Size of viewport, measured in pixel
 ### getWorldAmbient() {#getWorldAmbient--}
 ```
 public FVector3 getWorldAmbient()
@@ -205,7 +205,7 @@ public FVector3 getWorldAmbient()
 Ambient color defined in viewport.
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - Ambient color defined in viewport.
 ### getWorldTime() {#getWorldTime--}
 ```
 public float getWorldTime()
@@ -215,7 +215,7 @@ public float getWorldTime()
 Time in seconds
 
 **Returns:**
-float
+float - Time in seconds
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

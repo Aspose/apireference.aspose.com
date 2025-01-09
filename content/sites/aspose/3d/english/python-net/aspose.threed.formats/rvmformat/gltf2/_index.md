@@ -3,8 +3,8 @@ title: GLTF2 property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 300
-url: /python-net/aspose.threed.formats/rvmformat/gltf2/
+weight: 310
+url: /aspose.threed.formats/rvmformat/gltf2/
 is_root: false
 ---
 

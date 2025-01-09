@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 480
-url: /python-net/aspose.threed.entities/vertexelementpolygongroup/
+url: /aspose.threed.entities/vertexelementpolygongroup/
 is_root: false
 ---
 
@@ -35,8 +35,6 @@ The VertexElementPolygonGroup type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/indices) | Gets the indices data |
-| [data](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/data) | Gets the vertex data |
 
 
 ### Methods

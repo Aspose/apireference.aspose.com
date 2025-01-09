@@ -3,7 +3,7 @@ title: Class Primitive
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.Primitive class. Base class for all primitives
 type: docs
-weight: 2280
+weight: 600
 url: /net/aspose.threed.entities/primitive/
 ---
 ## Primitive class

@@ -32,7 +32,7 @@ public ArbitraryProfile(Curve curve)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| curve | Curve |  |
+| curve | Curve | Initial curve of the profile |
 
 ### See Also
 

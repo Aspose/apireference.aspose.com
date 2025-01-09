@@ -3,8 +3,8 @@ title: FBX7300ASCII property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 190
-url: /python-net/aspose.threed.formats/rvmformat/fbx7300ascii/
+weight: 200
+url: /aspose.threed.formats/rvmformat/fbx7300ascii/
 is_root: false
 ---
 

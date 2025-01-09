@@ -3,7 +3,7 @@ title: Class RenderFactory
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.RenderFactory class. RenderFactory creates all resources that represented in rendering pipeline
 type: docs
-weight: 550
+weight: 2180
 url: /net/aspose.threed.render/renderfactory/
 ---
 ## RenderFactory class

@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed.formats/plysaveoptions/face_property/
+url: /aspose.threed.formats/plysaveoptions/face_property/
 is_root: false
 ---
 

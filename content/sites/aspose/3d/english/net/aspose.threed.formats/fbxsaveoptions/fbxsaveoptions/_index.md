@@ -16,7 +16,7 @@ public FbxSaveOptions(FileFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | FileFormat |  |
+| format | FileFormat | Instance of [`FileFormat`](../../../aspose.threed/fileformat/), it should be a valid FBX format. |
 
 ### See Also
 
@@ -37,7 +37,7 @@ public FbxSaveOptions(FileContentType contentType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| contentType | FileContentType |  |
+| contentType | FileContentType | Binary or ASCII |
 
 ### See Also
 

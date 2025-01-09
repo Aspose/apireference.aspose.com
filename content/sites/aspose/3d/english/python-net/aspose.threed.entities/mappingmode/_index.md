@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 630
-url: /python-net/aspose.threed.entities/mappingmode/
+url: /aspose.threed.entities/mappingmode/
 is_root: false
 ---
 

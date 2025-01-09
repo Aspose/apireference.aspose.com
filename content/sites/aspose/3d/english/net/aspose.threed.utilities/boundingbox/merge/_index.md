@@ -110,7 +110,7 @@ public void Merge(BoundingBox bb)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bb | BoundingBox |  |
+| bb | BoundingBox | The bounding box to merge |
 
 ### See Also
 

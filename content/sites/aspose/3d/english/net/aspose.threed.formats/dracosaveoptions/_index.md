@@ -3,7 +3,7 @@ title: Class DracoSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.DracoSaveOptions class. Save options for Google draco files
 type: docs
-weight: 1600
+weight: 1130
 url: /net/aspose.threed.formats/dracosaveoptions/
 ---
 ## DracoSaveOptions class

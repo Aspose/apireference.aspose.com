@@ -3,8 +3,8 @@ title: ObjLoadOptions class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
-url: /python-net/aspose.threed.formats/objloadoptions/
+weight: 180
+url: /aspose.threed.formats/objloadoptions/
 is_root: false
 ---
 

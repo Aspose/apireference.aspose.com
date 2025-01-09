@@ -3,7 +3,7 @@ title: Class TransformBuilder
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.TransformBuilder class. The TransformBuilder is used to build transform matrix by a chain of transformations
 type: docs
-weight: 1370
+weight: 2760
 url: /net/aspose.threed.utilities/transformbuilder/
 ---
 ## TransformBuilder class

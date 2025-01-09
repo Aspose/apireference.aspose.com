@@ -16,7 +16,11 @@ public static EndPoint FromDegree(double degree)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| degree | Double |  |
+| degree | Double | The value in degree |
+
+### Return Value
+
+An end point constructed from degree
 
 ### See Also
 

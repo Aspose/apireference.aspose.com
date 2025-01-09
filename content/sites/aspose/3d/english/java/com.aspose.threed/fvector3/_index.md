@@ -29,7 +29,6 @@ A float vector with three components.
 
 | Field | Description |
 | --- | --- |
-| [UNIT_SCALE](#UNIT-SCALE) | The unit scale vector with all components are all 1 |
 | [x](#x) | The x component. |
 | [y](#y) | The y component. |
 | [z](#z) | The y component. |
@@ -68,9 +67,9 @@ Initializes a new instance of the [FVector3](../../com.aspose.threed/fvector3).
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | float |  |
-| y | float |  |
-| z | float |  |
+| x | float | X component of the vector |
+| y | float | Y component of the vector |
+| z | float | Z component of the vector |
 
 ### FVector3(Vector3 vec) {#FVector3-com.aspose.threed.Vector3-}
 ```
@@ -83,7 +82,7 @@ Initializes a new instance of the [FVector3](../../com.aspose.threed/fvector3).
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vec | [Vector3](../../com.aspose.threed/vector3) |  |
+| vec | [Vector3](../../com.aspose.threed/vector3) | Vector3 in double type |
 
 ### FVector3(Vector4 vec) {#FVector3-com.aspose.threed.Vector4-}
 ```
@@ -96,21 +95,13 @@ Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4).
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vec | [Vector4](../../com.aspose.threed/vector4) |  |
+| vec | [Vector4](../../com.aspose.threed/vector4) | Vector4 in double type |
 
 ### FVector3() {#FVector3--}
 ```
 public FVector3()
 ```
 
-
-### UNIT_SCALE {#UNIT-SCALE}
-```
-public static final FVector3 UNIT_SCALE
-```
-
-
-The unit scale vector with all components are all 1
 
 ### x {#x}
 ```
@@ -147,8 +138,8 @@ public static FVector3 add(FVector3 a, FVector3 b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector3](../../com.aspose.threed/fvector3) |  |
-| b | [FVector3](../../com.aspose.threed/fvector3) |  |
+| a | [FVector3](../../com.aspose.threed/fvector3) | First vector |
+| b | [FVector3](../../com.aspose.threed/fvector3) | Second vector |
 
 **Returns:**
 [FVector3](../../com.aspose.threed/fvector3)
@@ -186,7 +177,7 @@ Explicit conversion operator to cast FVector3 to Vector3
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| v | [FVector3](../../com.aspose.threed/fvector3) |  |
+| v | [FVector3](../../com.aspose.threed/fvector3) | Vector3 in float type |
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
@@ -239,7 +230,7 @@ public static FVector3 getOne()
 The unit scale vector with all components are all 1
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - The unit scale vector with all components are all 1
 ### getZero() {#getZero--}
 ```
 public static FVector3 getZero()
@@ -249,7 +240,7 @@ public static FVector3 getZero()
 The Zero vector.
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - The Zero vector.
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -271,11 +262,11 @@ public static FVector3 mul(FVector3 a, float b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector3](../../com.aspose.threed/fvector3) |  |
-| b | float |  |
+| a | [FVector3](../../com.aspose.threed/fvector3) | First vector |
+| b | float | Second vector |
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - The product of two vectors
 ### negative(FVector3 a) {#negative-com.aspose.threed.FVector3-}
 ```
 public static FVector3 negative(FVector3 a)
@@ -287,10 +278,10 @@ public static FVector3 negative(FVector3 a)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector3](../../com.aspose.threed/fvector3) |  |
+| a | [FVector3](../../com.aspose.threed/fvector3) | Input vector |
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - The negative vector
 ### normalize() {#normalize--}
 ```
 public FVector3 normalize()
@@ -328,11 +319,11 @@ public static FVector3 sub(FVector3 a, FVector3 b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector3](../../com.aspose.threed/fvector3) |  |
-| b | [FVector3](../../com.aspose.threed/fvector3) |  |
+| a | [FVector3](../../com.aspose.threed/fvector3) | First vector |
+| b | [FVector3](../../com.aspose.threed/fvector3) | Second vector |
 
 **Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
+[FVector3](../../com.aspose.threed/fvector3) - The difference of two vectors
 ### toString() {#toString--}
 ```
 public String toString()
@@ -342,7 +333,7 @@ public String toString()
 Returns a string that represents the [FVector3](../../com.aspose.threed/fvector3)
 
 **Returns:**
-java.lang.String
+java.lang.String - String representation of this vector.
 ### wait() {#wait--}
 ```
 public final void wait()

@@ -3,7 +3,7 @@ title: Class FileFormat
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.FileFormat class. File format definition
 type: docs
-weight: 200
+weight: 1030
 url: /net/aspose.threed/fileformat/
 ---
 ## FileFormat class
@@ -44,6 +44,7 @@ public class FileFormat
 | static readonly [AMF](../../aspose.threed/fileformat/amf/) | Additive manufacturing file format |
 | static readonly [ASE](../../aspose.threed/fileformat/ase/) | 3D Studio Max's ASCII Scene Exporter format. |
 | static readonly [Aspose3DWeb](../../aspose.threed/fileformat/aspose3dweb/) | Aspose.3D Web format. |
+| static readonly [Blender](../../aspose.threed/fileformat/blender/) | Blender's 3D file format |
 | static readonly [Collada](../../aspose.threed/fileformat/collada/) | Collada file format |
 | static readonly [Discreet3DS](../../aspose.threed/fileformat/discreet3ds/) | 3D Studio's file format |
 | static readonly [DXF](../../aspose.threed/fileformat/dxf/) | AutoCAD DXF |
@@ -69,7 +70,6 @@ public class FileFormat
 | static readonly [IFC](../../aspose.threed/fileformat/ifc/) | ISO 16739-1 Industry Foundation Classes data model. |
 | static readonly [MayaASCII](../../aspose.threed/fileformat/mayaascii/) | Autodesk Maya in ASCII format |
 | static readonly [MayaBinary](../../aspose.threed/fileformat/mayabinary/) | Autodesk Maya in Binary format |
-| static readonly [Microsoft3MF](../../aspose.threed/fileformat/microsoft3mf/) | Microsoft 3D Manufacturing Format |
 | static readonly [Pcd](../../aspose.threed/fileformat/pcd/) | PCL Point Cloud Data file in ASCII mode |
 | static readonly [PcdBinary](../../aspose.threed/fileformat/pcdbinary/) | PCL Point Cloud Data file in Binary mode |
 | static readonly [SiemensJT8](../../aspose.threed/fileformat/siemensjt8/) | Siemens JT File Version 8 |
@@ -87,6 +87,7 @@ public class FileFormat
 | static readonly [Xyz](../../aspose.threed/fileformat/xyz/) | Xyz point cloud file |
 | static readonly [Zip](../../aspose.threed/fileformat/zip/) | Zip archive that contains other 3d file format. |
 | static readonly [Draco](../../aspose.threed/fileformat/draco/) | Google Draco Mesh |
+| static readonly [Microsoft3MF](../../aspose.threed/fileformat/microsoft3mf/) | Microsoft 3D Manufacturing Format |
 | static readonly [PDF](../../aspose.threed/fileformat/pdf/) | Adobe's Portable Document Format |
 | static readonly [PLY](../../aspose.threed/fileformat/ply/) | Polygon File Format or Stanford Triangle Format |
 | static readonly [RvmBinary](../../aspose.threed/fileformat/rvmbinary/) | AVEVA Plant Design Management System Model in binary format |

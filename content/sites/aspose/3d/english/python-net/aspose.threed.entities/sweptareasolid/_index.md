@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 350
-url: /python-net/aspose.threed.entities/sweptareasolid/
+url: /aspose.threed.entities/sweptareasolid/
 is_root: false
 ---
 
@@ -57,6 +57,30 @@ The SweptAreaSolid type exposes the following members:
 | [to_mesh](/3d/python-net/aspose.threed.entities/sweptareasolid/to_mesh/#) | Convert current object to mesh |
 
 
+
+### Example 
+
+
+The following code shows how to modeling an solid entity by sweeping a C-shape on a circle
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Circle, EndPoint, SweptAreaSolid
+from aspose.threed.profiles import CShape
+
+directrix = Circle(20)
+shape = CShape()
+solid = SweptAreaSolid()
+solid.shape = shape
+solid.directrix = directrix
+solid.start_point = EndPoint.from_degree(0)
+solid.end_point = EndPoint.from_degree(130)
+swept = solid
+scene = Scene()
+scene.root_node.create_child_node(swept)
+scene.save("swept.obj")
+
+```
 
 ### See Also
 * module [`aspose.threed.entities`](..)

@@ -3,7 +3,7 @@ title: Class Pose
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Pose class. The pose is used to store transformation matrix when the geometry is skinned. The pose is a set of BonePose each BonePose saves the concrete transformation information of the bone node
 type: docs
-weight: 250
+weight: 1550
 url: /net/aspose.threed/pose/
 ---
 ## Pose class

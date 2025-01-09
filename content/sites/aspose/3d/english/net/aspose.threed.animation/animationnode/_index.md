@@ -3,7 +3,7 @@ title: Class AnimationNode
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Animation.AnimationNode class. Aspose.3Ds supports animation hierarchy each animation can be composed by several animations and animations keyframe definition. AnimationNode defines the transformation of a property value over time for example animation node can be used to control a nodes transformation or other A3DObject objects numerical properties
 type: docs
-weight: 2770
+weight: 40
 url: /net/aspose.threed.animation/animationnode/
 ---
 ## AnimationNode class
@@ -35,7 +35,7 @@ public class AnimationNode : A3DObject
 | Name | Description |
 | --- | --- |
 | [CreateBindPoint](../../aspose.threed.animation/animationnode/createbindpoint/)(A3DObject, string) | Creates a BindPoint based on the property data type. |
-| [FindBindPoint](../../aspose.threed.animation/animationnode/findbindpoint/#findbindpoint)(A3DObject, string) | Finds the bind point by target and name. |
+| [FindBindPoint](../../aspose.threed.animation/animationnode/findbindpoint/)(A3DObject, string) | Finds the bind point by target and name. |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty/)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)(Inherited from [`A3DObject`](../../aspose.threed/a3dobject/).) |
 | [GetBindPoint](../../aspose.threed.animation/animationnode/getbindpoint/)(A3DObject, string, bool) | Gets the animation bind point on given property. |
 | [GetKeyframeSequence](../../aspose.threed.animation/animationnode/getkeyframesequence/#getkeyframesequence)(A3DObject, string, bool) | Gets the keyframe sequence on given property. |

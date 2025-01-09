@@ -3,7 +3,7 @@ title: Struct CubeFaceDataT
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.CubeFaceData1T struct. Data for each face of the cube map texture
 type: docs
-weight: 600
+weight: 1820
 url: /net/aspose.threed.render/cubefacedata-1/
 ---
 ## CubeFaceData&lt;T&gt; structure

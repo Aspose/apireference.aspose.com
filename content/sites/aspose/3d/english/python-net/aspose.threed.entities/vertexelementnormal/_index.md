@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 470
-url: /python-net/aspose.threed.entities/vertexelementnormal/
+url: /aspose.threed.entities/vertexelementnormal/
 is_root: false
 ---
 
@@ -35,8 +35,6 @@ The VertexElementNormal type exposes the following members:
 | [name](/3d/python-net/aspose.threed.entities/vertexelementnormal/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementnormal/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementnormal/reference_mode) | Gets or sets how the element is referenced. |
-| [indices](/3d/python-net/aspose.threed.entities/vertexelementnormal/indices) | Gets the indices data |
-| [data](/3d/python-net/aspose.threed.entities/vertexelementnormal/data) | Gets the vertex data |
 
 
 ### Methods

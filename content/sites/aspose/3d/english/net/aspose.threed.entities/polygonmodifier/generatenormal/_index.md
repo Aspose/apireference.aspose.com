@@ -3,7 +3,7 @@ title: PolygonModifier.GenerateNormal
 second_title: Aspose.3D for .NET API Reference
 description: PolygonModifier method. Generate normal data from Mesh definition
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.threed.entities/polygonmodifier/generatenormal/
 ---
 ## PolygonModifier.GenerateNormal method

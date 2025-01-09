@@ -14,6 +14,13 @@ Initializes a new instance of the [`FVector4`](../).
 public FVector4(float x, float y, float z, float w)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Single | X component |
+| y | Single | Y component |
+| z | Single | Z component |
+| w | Single | W component |
+
 ### See Also
 
 * struct [FVector4](../)
@@ -29,6 +36,12 @@ Initializes a new instance of the [`FVector4`](../).
 ```csharp
 public FVector4(float x, float y, float z)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Single | X component |
+| y | Single | Y component |
+| z | Single | Z component |
 
 ### See Also
 

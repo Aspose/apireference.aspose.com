@@ -3,7 +3,7 @@ title: Class Material
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.Material class. Material defines the parameters necessary for visual appearance of geometry. Aspose.3D provides shading model for LambertMaterial PhongMaterial and ShaderMaterial
 type: docs
-weight: 320
+weight: 2440
 url: /net/aspose.threed.shading/material/
 ---
 ## Material class

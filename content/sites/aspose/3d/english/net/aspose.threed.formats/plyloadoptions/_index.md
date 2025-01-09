@@ -3,7 +3,7 @@ title: Class PlyLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.PlyLoadOptions class. Load options for PLY files
 type: docs
-weight: 1800
+weight: 1350
 url: /net/aspose.threed.formats/plyloadoptions/
 ---
 ## PlyLoadOptions class

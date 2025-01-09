@@ -3,7 +3,7 @@ title: NurbsCurve
 second_title: Aspose.3D for Java API Reference
 description: NURBS curve is a curve represented by NURBSNon-uniform rational basis spline  A NURBS curve is defined by its  a set of weighted  and a  The w component in control point is used as control points weight whatever it is a  or
 type: docs
-weight: 102
+weight: 103
 url: /java/com.aspose.threed/nurbscurve/
 ---
 
@@ -165,7 +165,10 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -173,9 +176,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -195,7 +195,7 @@ public Vector3 getColor()
 Gets the color of the line, default value is white(1, 1, 1)
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the color of the line, default value is white(1, 1, 1)
 ### getControlPoints() {#getControlPoints--}
 ```
 public List<Vector4> getControlPoints()
@@ -205,7 +205,7 @@ public List<Vector4> getControlPoints()
 Gets all control points
 
 **Returns:**
-java.util.List<com.aspose.threed.Vector4>
+java.util.List<com.aspose.threed.Vector4> - all control points
 ### getCurveType() {#getCurveType--}
 ```
 public NurbsType getCurveType()
@@ -215,17 +215,17 @@ public NurbsType getCurveType()
 Gets the type of the curve.
 
 **Returns:**
-[NurbsType](../../com.aspose.threed/nurbstype)
+[NurbsType](../../com.aspose.threed/nurbstype) - the type of the curve.
 ### getDimension() {#getDimension--}
 ```
 public CurveDimension getDimension()
 ```
 
 
-Gets the curve's dimension. **Remarks:** For a [CurveDimension.TWO\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) curve, the z component in control point is unused.
+Gets the curve's dimension.
 
 **Returns:**
-[CurveDimension](../../com.aspose.threed/curvedimension)
+[CurveDimension](../../com.aspose.threed/curvedimension) - the curve's dimension. **Remarks:** For a [CurveDimension.TWO\_DIMENSIONAL](../../com.aspose.threed/curvedimension\#TWO-DIMENSIONAL) curve, the z component in control point is unused.
 ### getEntityRendererKey() {#getEntityRendererKey--}
 ```
 public EntityRendererKey getEntityRendererKey()
@@ -245,7 +245,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getKnotVectors() {#getKnotVectors--}
 ```
 public List<Double> getKnotVectors()
@@ -255,7 +255,7 @@ public List<Double> getKnotVectors()
 Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve.
 
 **Returns:**
-java.util.List<java.lang.Double>
+java.util.List<java.lang.Double> - the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve.
 ### getMultiplicity() {#getMultiplicity--}
 ```
 public List<Integer> getMultiplicity()
@@ -265,7 +265,7 @@ public List<Integer> getMultiplicity()
 Gets the multiplicity.
 
 **Returns:**
-java.util.List<java.lang.Integer>
+java.util.List<java.lang.Integer> - the multiplicity.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -275,7 +275,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getOrder() {#getOrder--}
 ```
 public int getOrder()
@@ -285,7 +285,7 @@ public int getOrder()
 Gets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve.
 
 **Returns:**
-int
+int - the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -295,7 +295,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -305,7 +305,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -315,7 +315,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -340,7 +340,7 @@ public boolean getRational()
 Gets whether it is rational, this value indicates whether this [NurbsCurve](../../com.aspose.threed/nurbscurve) is rational spline or non-rational spline. Non-rational B-spline is a special case of rational B-splines.
 
 **Returns:**
-boolean
+boolean - whether it is rational, this value indicates whether this [NurbsCurve](../../com.aspose.threed/nurbscurve) is rational spline or non-rational spline. Non-rational B-spline is a special case of rational B-splines.
 ### getScene() {#getScene--}
 ```
 public Scene getScene()
@@ -350,7 +350,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -403,10 +403,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setColor(Vector3 value) {#setColor-com.aspose.threed.Vector3-}
 ```
 public void setColor(Vector3 value)

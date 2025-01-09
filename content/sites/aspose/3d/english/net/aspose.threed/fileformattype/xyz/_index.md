@@ -3,7 +3,7 @@ title: FileFormatType.Xyz
 second_title: Aspose.3D for .NET API Reference
 description: FileFormatType field. Xyz point cloud file
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.threed/fileformattype/xyz/
 ---
 ## FileFormatType.Xyz field

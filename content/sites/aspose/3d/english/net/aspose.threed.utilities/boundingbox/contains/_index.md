@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /net/aspose.threed.utilities/boundingbox/contains/
 ---
-## BoundingBox.Contains method
+## Contains(Vector3) {#contains_1}
 
 Check if the point p is inside the bounding box
 
@@ -35,6 +35,26 @@ Console.WriteLine("Bounding box overlaps = " + boundingBox.Contains(pt));
 ### See Also
 
 * struct [Vector3](../../vector3/)
+* struct [BoundingBox](../)
+* namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Contains(BoundingBox) {#contains}
+
+The bounding box to check if it's inside current bounding box.
+
+```csharp
+public bool Contains(BoundingBox bbox)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bbox | BoundingBox |  |
+
+### See Also
+
 * struct [BoundingBox](../)
 * namespace [Aspose.ThreeD.Utilities](../../../aspose.threed.utilities/)
 * assembly [Aspose.3D](../../../)

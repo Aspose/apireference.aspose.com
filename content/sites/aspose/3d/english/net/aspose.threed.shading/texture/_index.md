@@ -3,7 +3,7 @@ title: Class Texture
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.Texture class. This class defines the texture from an external file
 type: docs
-weight: 380
+weight: 2500
 url: /net/aspose.threed.shading/texture/
 ---
 ## Texture class

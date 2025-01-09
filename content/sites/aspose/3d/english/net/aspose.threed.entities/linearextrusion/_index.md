@@ -3,7 +3,7 @@ title: Class LinearExtrusion
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.LinearExtrusion class. Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension
 type: docs
-weight: 2080
+weight: 460
 url: /net/aspose.threed.entities/linearextrusion/
 ---
 ## LinearExtrusion class
@@ -96,5 +96,7 @@ scene
 * namespace [Aspose.ThreeD.Entities](../../aspose.threed.entities/)
 * assembly [Aspose.3D](../../)
 * [Tutorial - Perform linear extrusion on rectangular shape](https://products.aspose.com/3d/tutorial/perform-linear-extrusion-box/)
+* [Tutorial - Create 3D text mesh from font file](https://products.aspose.com/3d/tutorial/create-3d-text-mesh)
+* [Tutorial - Create a twisted linear extrusion](https://products.aspose.com/3d/tutorial/perform-linear-extrusion-twist-offset/)
 
 

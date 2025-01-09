@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /python-net/aspose.threed.shading/texture/mip_filter/
+url: /aspose.threed.shading/texture/mip_filter/
 is_root: false
 ---
 

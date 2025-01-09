@@ -3,7 +3,7 @@ title: Class VertexElementMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entities.VertexElementMaterial class. Defines material index for specified components. A node can have multiple materials the VertexElementMaterial is used to render different part of the geometry in different materials
 type: docs
-weight: 2610
+weight: 850
 url: /net/aspose.threed.entities/vertexelementmaterial/
 ---
 ## VertexElementMaterial class

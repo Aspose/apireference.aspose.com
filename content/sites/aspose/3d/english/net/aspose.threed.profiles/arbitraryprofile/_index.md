@@ -3,7 +3,7 @@ title: Class ArbitraryProfile
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.ArbitraryProfile class. This class allows you to construct a 2D profile directly from arbitrary curve
 type: docs
-weight: 1040
+weight: 1570
 url: /net/aspose.threed.profiles/arbitraryprofile/
 ---
 ## ArbitraryProfile class

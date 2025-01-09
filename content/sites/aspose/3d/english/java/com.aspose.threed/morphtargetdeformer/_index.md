@@ -3,7 +3,7 @@ title: MorphTargetDeformer
 second_title: Aspose.3D for Java API Reference
 description: MorphTargetDeformer provides per-vertex animation.
 type: docs
-weight: 100
+weight: 101
 url: /java/com.aspose.threed/morphtargetdeformer/
 ---
 
@@ -120,7 +120,7 @@ public List<MorphTargetChannel> getChannels()
 Gets all channels contained in this deformer
 
 **Returns:**
-java.util.List<com.aspose.threed.MorphTargetChannel>
+java.util.List<com.aspose.threed.MorphTargetChannel> - all channels contained in this deformer
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -140,7 +140,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getOwner() {#getOwner--}
 ```
 public Geometry getOwner()
@@ -150,7 +150,7 @@ public Geometry getOwner()
 Gets the geometry which owns this deformer
 
 **Returns:**
-[Geometry](../../com.aspose.threed/geometry)
+[Geometry](../../com.aspose.threed/geometry) - the geometry which owns this deformer
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -160,7 +160,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -228,10 +228,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### set(Shape target, double value) {#set-com.aspose.threed.Shape-double-}
 ```
 public void set(Shape target, double value)

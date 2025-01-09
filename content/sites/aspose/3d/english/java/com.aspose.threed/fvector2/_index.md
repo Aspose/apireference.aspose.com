@@ -63,8 +63,8 @@ Initializes a new instance of the [FVector2](../../com.aspose.threed/fvector2).
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | float |  |
-| y | float |  |
+| x | float | X component of the vector |
+| y | float | Y component of the vector |
 
 ### FVector2(Vector2 vec) {#FVector2-com.aspose.threed.Vector2-}
 ```
@@ -77,7 +77,7 @@ Initializes a new instance of the [FVector2](../../com.aspose.threed/fvector2).
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vec | [Vector2](../../com.aspose.threed/vector2) |  |
+| vec | [Vector2](../../com.aspose.threed/vector2) | Vector2 in double type |
 
 ### FVector2() {#FVector2--}
 ```
@@ -112,11 +112,11 @@ public static FVector2 add(FVector2 a, FVector2 b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector2](../../com.aspose.threed/fvector2) |  |
-| b | [FVector2](../../com.aspose.threed/fvector2) |  |
+| a | [FVector2](../../com.aspose.threed/fvector2) | First vector |
+| b | [FVector2](../../com.aspose.threed/fvector2) | Second vector |
 
 **Returns:**
-[FVector2](../../com.aspose.threed/fvector2)
+[FVector2](../../com.aspose.threed/fvector2) - The sum of two vectors.
 ### clone() {#clone--}
 ```
 public FVector2 clone()
@@ -151,7 +151,7 @@ Explicit conversion operator to cast FVector2 to Vector2
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| v | [FVector2](../../com.aspose.threed/fvector2) |  |
+| v | [FVector2](../../com.aspose.threed/fvector2) | Vector 2 in float type. |
 
 **Returns:**
 [Vector2](../../com.aspose.threed/vector2)
@@ -169,7 +169,7 @@ Check if two vectors are equal
 | rhs | [FVector2](../../com.aspose.threed/fvector2) |  |
 
 **Returns:**
-boolean
+boolean - True if all components are equal.
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -184,7 +184,7 @@ Check if two vectors are equal
 | obj | java.lang.Object |  |
 
 **Returns:**
-boolean
+boolean - True if input is a vector and all components are equal.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -204,7 +204,7 @@ public int hashCode()
 Gets the hash code of this instance
 
 **Returns:**
-int
+int - The hash code of the vector.
 ### mul(FVector2 a, float b) {#mul-com.aspose.threed.FVector2-float-}
 ```
 public static FVector2 mul(FVector2 a, float b)
@@ -216,11 +216,11 @@ public static FVector2 mul(FVector2 a, float b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector2](../../com.aspose.threed/fvector2) |  |
-| b | float |  |
+| a | [FVector2](../../com.aspose.threed/fvector2) | First vector |
+| b | float | Second vector |
 
 **Returns:**
-[FVector2](../../com.aspose.threed/fvector2)
+[FVector2](../../com.aspose.threed/fvector2) - The product of two vectors.
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -248,11 +248,11 @@ public static boolean op_eq(FVector2 a, FVector2 b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector2](../../com.aspose.threed/fvector2) |  |
-| b | [FVector2](../../com.aspose.threed/fvector2) |  |
+| a | [FVector2](../../com.aspose.threed/fvector2) | First vector |
+| b | [FVector2](../../com.aspose.threed/fvector2) | Second vector |
 
 **Returns:**
-boolean
+boolean - True if all components are equal.
 ### op_ne(FVector2 a, FVector2 b) {#op-ne-com.aspose.threed.FVector2-com.aspose.threed.FVector2-}
 ```
 public static boolean op_ne(FVector2 a, FVector2 b)
@@ -264,11 +264,11 @@ public static boolean op_ne(FVector2 a, FVector2 b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector2](../../com.aspose.threed/fvector2) |  |
-| b | [FVector2](../../com.aspose.threed/fvector2) |  |
+| a | [FVector2](../../com.aspose.threed/fvector2) | First vector |
+| b | [FVector2](../../com.aspose.threed/fvector2) | Second vector |
 
 **Returns:**
-boolean
+boolean - True if any component is different.
 ### sub(FVector2 a, FVector2 b) {#sub-com.aspose.threed.FVector2-com.aspose.threed.FVector2-}
 ```
 public static FVector2 sub(FVector2 a, FVector2 b)
@@ -280,11 +280,11 @@ public static FVector2 sub(FVector2 a, FVector2 b)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | [FVector2](../../com.aspose.threed/fvector2) |  |
-| b | [FVector2](../../com.aspose.threed/fvector2) |  |
+| a | [FVector2](../../com.aspose.threed/fvector2) | First vector |
+| b | [FVector2](../../com.aspose.threed/fvector2) | Second vector |
 
 **Returns:**
-[FVector2](../../com.aspose.threed/fvector2)
+[FVector2](../../com.aspose.threed/fvector2) - The difference of two vectors.
 ### toString() {#toString--}
 ```
 public String toString()
@@ -294,7 +294,7 @@ public String toString()
 Returns a string that represents the [FVector2](../../com.aspose.threed/fvector2)
 
 **Returns:**
-java.lang.String
+java.lang.String - String representation of current vector.
 ### wait() {#wait--}
 ```
 public final void wait()

@@ -14,6 +14,21 @@ Create a file system to provide to the read-only access to speicified zip file o
 public static FileSystem CreateZipFileSystem(Stream stream, string baseDir = "/")
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream to access the zip file |
+| baseDir | String | The base directory inside the zip file. |
+
+### Return Value
+
+A zip file system
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed to read from stream. |
+
 ### Remarks
 
 This is a read-only file system, so no write operations are supported.
@@ -47,6 +62,20 @@ File system to provide to the read-only access to speicified zip file or zip str
 ```csharp
 public static FileSystem CreateZipFileSystem(string fileName)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | File name to the zip file. |
+
+### Return Value
+
+A zip file system
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IOException | Thrown when failed to read from stream. |
 
 ### Examples
 

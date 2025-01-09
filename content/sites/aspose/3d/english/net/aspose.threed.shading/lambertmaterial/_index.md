@@ -3,7 +3,7 @@ title: Class LambertMaterial
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.LambertMaterial class. Material for lambert shading model
 type: docs
-weight: 300
+weight: 2430
 url: /net/aspose.threed.shading/lambertmaterial/
 ---
 ## LambertMaterial class
@@ -52,5 +52,6 @@ public class LambertMaterial : Material
 * class [Material](../material/)
 * namespace [Aspose.ThreeD.Shading](../../aspose.threed.shading/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Create a torus with Lambert material](https://products.aspose.com/3d/tutorial/set-up-mesh-geometry-data/)
 
 

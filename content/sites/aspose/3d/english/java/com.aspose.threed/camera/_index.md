@@ -178,7 +178,7 @@ public ApertureMode getApertureMode()
 Gets the camera's aperture mode
 
 **Returns:**
-[ApertureMode](../../com.aspose.threed/aperturemode)
+[ApertureMode](../../com.aspose.threed/aperturemode) - the camera's aperture mode
 ### getAspect() {#getAspect--}
 ```
 public double getAspect()
@@ -188,7 +188,7 @@ public double getAspect()
 Gets the aspect ratio of the frustum
 
 **Returns:**
-double
+double - the aspect ratio of the frustum
 ### getAspectRatio() {#getAspectRatio--}
 ```
 public double getAspectRatio()
@@ -198,14 +198,17 @@ public double getAspectRatio()
 Gets the view plane aspect ratio.
 
 **Returns:**
-double
+double - the view plane aspect ratio.
 ### getBoundingBox() {#getBoundingBox--}
 ```
 public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -213,9 +216,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -235,7 +235,7 @@ public Vector3 getDirection()
 Gets the direction that the camera is looking at. Changes on this property will also affects the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) and [getTarget](../../com.aspose.threed/frustum\#getTarget).
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the direction that the camera is looking at. Changes on this property will also affects the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) and [getTarget](../../com.aspose.threed/frustum\#getTarget).
 ### getEntityRendererKey() {#getEntityRendererKey--}
 ```
 public EntityRendererKey getEntityRendererKey()
@@ -245,7 +245,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -255,7 +255,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getFarPlane() {#getFarPlane--}
 ```
 public double getFarPlane()
@@ -265,7 +265,7 @@ public double getFarPlane()
 Gets the frustum's far plane distance.
 
 **Returns:**
-double
+double - the frustum's far plane distance.
 ### getFieldOfView() {#getFieldOfView--}
 ```
 public double getFieldOfView()
@@ -275,7 +275,7 @@ public double getFieldOfView()
 Gets the camera's field of view in degrees, this property is used only when ApertureMode is [ApertureMode.HORIZONTAL](../../com.aspose.threed/aperturemode\#HORIZONTAL) or [ApertureMode.VERTICAL](../../com.aspose.threed/aperturemode\#VERTICAL)
 
 **Returns:**
-double
+double - the camera's field of view in degrees, this property is used only when ApertureMode is [ApertureMode.HORIZONTAL](../../com.aspose.threed/aperturemode\#HORIZONTAL) or [ApertureMode.VERTICAL](../../com.aspose.threed/aperturemode\#VERTICAL)
 ### getFieldOfViewX() {#getFieldOfViewX--}
 ```
 public double getFieldOfViewX()
@@ -285,7 +285,7 @@ public double getFieldOfViewX()
 Gets the camera's horizontal field of view in degrees, this property is used only when ApertureMode is [ApertureMode.HORIZ\_AND\_VERT](../../com.aspose.threed/aperturemode\#HORIZ-AND-VERT)
 
 **Returns:**
-double
+double - the camera's horizontal field of view in degrees, this property is used only when ApertureMode is [ApertureMode.HORIZ\_AND\_VERT](../../com.aspose.threed/aperturemode\#HORIZ-AND-VERT)
 ### getFieldOfViewY() {#getFieldOfViewY--}
 ```
 public double getFieldOfViewY()
@@ -295,7 +295,7 @@ public double getFieldOfViewY()
 Gets the camera's vertical field of view in degrees, this property is used only when ApertureMode is [ApertureMode.HORIZ\_AND\_VERT](../../com.aspose.threed/aperturemode\#HORIZ-AND-VERT)
 
 **Returns:**
-double
+double - the camera's vertical field of view in degrees, this property is used only when ApertureMode is [ApertureMode.HORIZ\_AND\_VERT](../../com.aspose.threed/aperturemode\#HORIZ-AND-VERT)
 ### getHeight() {#getHeight--}
 ```
 public double getHeight()
@@ -305,7 +305,7 @@ public double getHeight()
 Gets the view plane's height measured in inches
 
 **Returns:**
-double
+double - the view plane's height measured in inches
 ### getLookAt() {#getLookAt--}
 ```
 public Vector3 getLookAt()
@@ -315,7 +315,7 @@ public Vector3 getLookAt()
 Gets the the interested position that the camera is looking at.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the the interested position that the camera is looking at.
 ### getMagnification() {#getMagnification--}
 ```
 public Vector2 getMagnification()
@@ -325,7 +325,7 @@ public Vector2 getMagnification()
 Gets the magnification used in orthographic camera
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - the magnification used in orthographic camera
 ### getName() {#getName--}
 ```
 public String getName()
@@ -335,7 +335,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getNearPlane() {#getNearPlane--}
 ```
 public double getNearPlane()
@@ -345,7 +345,7 @@ public double getNearPlane()
 Gets the frustum's near plane distance.
 
 **Returns:**
-double
+double - the frustum's near plane distance.
 ### getOrthoHeight() {#getOrthoHeight--}
 ```
 public double getOrthoHeight()
@@ -355,7 +355,7 @@ public double getOrthoHeight()
 Gets the height when frustum in orthographic projection.
 
 **Returns:**
-double
+double - the height when frustum in orthographic projection.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -365,7 +365,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -375,7 +375,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProjectionType() {#getProjectionType--}
 ```
 public ProjectionType getProjectionType()
@@ -385,7 +385,7 @@ public ProjectionType getProjectionType()
 Gets the camera's projection type. By default the perspective projection is used.
 
 **Returns:**
-[ProjectionType](../../com.aspose.threed/projectiontype)
+[ProjectionType](../../com.aspose.threed/projectiontype) - the camera's projection type. By default the perspective projection is used.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -395,7 +395,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -420,7 +420,7 @@ public RotationMode getRotationMode()
 Gets the frustum's orientation mode This property only works when the [getTarget](../../com.aspose.threed/frustum\#getTarget) is null. If the value is [RotationMode.FIXED\_TARGET](../../com.aspose.threed/rotationmode\#FIXED-TARGET), the direction is always calculated by the property [getLookAt](../../com.aspose.threed/frustum\#getLookAt) Otherwise the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) is always calculated by the [getDirection](../../com.aspose.threed/frustum\#getDirection)
 
 **Returns:**
-[RotationMode](../../com.aspose.threed/rotationmode)
+[RotationMode](../../com.aspose.threed/rotationmode) - the frustum's orientation mode This property only works when the [getTarget](../../com.aspose.threed/frustum\#getTarget) is null. If the value is [RotationMode.FIXED\_TARGET](../../com.aspose.threed/rotationmode\#FIXED-TARGET), the direction is always calculated by the property [getLookAt](../../com.aspose.threed/frustum\#getLookAt) Otherwise the [getLookAt](../../com.aspose.threed/frustum\#getLookAt) is always calculated by the [getDirection](../../com.aspose.threed/frustum\#getDirection)
 ### getScene() {#getScene--}
 ```
 public Scene getScene()
@@ -430,7 +430,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getTarget() {#getTarget--}
 ```
 public Node getTarget()
@@ -440,7 +440,7 @@ public Node getTarget()
 Gets the target that the camera is looking at. If the user supports this property, it should be prior to [getLookAt](../../com.aspose.threed/frustum\#getLookAt) property.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the target that the camera is looking at. If the user supports this property, it should be prior to [getLookAt](../../com.aspose.threed/frustum\#getLookAt) property.
 ### getUp() {#getUp--}
 ```
 public Vector3 getUp()
@@ -450,7 +450,7 @@ public Vector3 getUp()
 Gets the up direction of the camera
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - the up direction of the camera
 ### getWidth() {#getWidth--}
 ```
 public double getWidth()
@@ -460,7 +460,7 @@ public double getWidth()
 Gets the view plane's width measured in inches
 
 **Returns:**
-double
+double - the view plane's width measured in inches
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -526,10 +526,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setApertureMode(ApertureMode value) {#setApertureMode-com.aspose.threed.ApertureMode-}
 ```
 public void setApertureMode(ApertureMode value)

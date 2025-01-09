@@ -3,7 +3,7 @@ title: Class HShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.HShape class. The HShape provides the defining parameters of an H or I shape
 type: docs
-weight: 1110
+weight: 1630
 url: /net/aspose.threed.profiles/hshape/
 ---
 ## HShape class

@@ -3,7 +3,7 @@ title: Class PlySaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.PlySaveOptions class. Save options for exporting scene as PLY file
 type: docs
-weight: 1810
+weight: 1360
 url: /net/aspose.threed.formats/plysaveoptions/
 ---
 ## PlySaveOptions class

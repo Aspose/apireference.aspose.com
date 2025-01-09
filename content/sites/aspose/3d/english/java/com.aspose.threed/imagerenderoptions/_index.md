@@ -93,7 +93,7 @@ public ArrayList<String> getAssetDirectories()
 Directories that stored external assets(like textures)
 
 **Returns:**
-java.util.ArrayList<java.lang.String>
+java.util.ArrayList<java.lang.String> - Directories that stored external assets(like textures)
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
 public Vector3 getBackgroundColor()
@@ -103,7 +103,7 @@ public Vector3 getBackgroundColor()
 The background color of the render result.
 
 **Returns:**
-[Vector3](../../com.aspose.threed/vector3)
+[Vector3](../../com.aspose.threed/vector3) - The background color of the render result.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -123,7 +123,7 @@ public boolean getEnableShadows()
 Gets whether to render shadows.
 
 **Returns:**
-boolean
+boolean - whether to render shadows.
 ### getName() {#getName--}
 ```
 public String getName()
@@ -133,7 +133,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -143,7 +143,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -211,10 +211,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setAssetDirectories(ArrayList<String> value) {#setAssetDirectories-java.util.ArrayList-java.lang.String--}
 ```
 public void setAssetDirectories(ArrayList<String> value)

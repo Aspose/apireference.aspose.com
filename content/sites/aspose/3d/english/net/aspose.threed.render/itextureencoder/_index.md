@@ -3,7 +3,7 @@ title: Interface ITextureEncoder
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Render.ITextureEncoder interface. External texture encoder should implement this interface for encoding
 type: docs
-weight: 990
+weight: 2060
 url: /net/aspose.threed.render/itextureencoder/
 ---
 ## ITextureEncoder interface

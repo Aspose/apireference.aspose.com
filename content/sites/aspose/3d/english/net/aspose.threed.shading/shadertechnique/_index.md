@@ -3,7 +3,7 @@ title: Class ShaderTechnique
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Shading.ShaderTechnique class. A shader technique represents a concrete rendering implementation
 type: docs
-weight: 370
+weight: 2490
 url: /net/aspose.threed.shading/shadertechnique/
 ---
 ## ShaderTechnique class

@@ -3,8 +3,8 @@ title: read_vector2 method
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 180
-url: /python-net/aspose.threed.entities/trimesh/read_vector2/
+weight: 190
+url: /aspose.threed.entities/trimesh/read_vector2/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Read the vector2 field
 ### Returns 
 
 
-
+Vector2 of specified vertex's field
 
 
 ```python

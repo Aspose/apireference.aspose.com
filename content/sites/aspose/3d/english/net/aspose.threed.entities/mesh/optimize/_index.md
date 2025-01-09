@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /net/aspose.threed.entities/mesh/optimize/
 ---
-## Mesh.Optimize method
+## Optimize(bool) {#optimize}
 
 Optimize the mesh's memory usage by eliminating duplicated control points
 
@@ -38,5 +38,35 @@ var optimized = mesh.Optimize(true);
 * class [Mesh](../)
 * namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
 * assembly [Aspose.3D](../../../)
+* [Tutorial - Deduplicate mesh data](https://products.aspose.com/3d/tutorial/deduplicate-mesh-data/)
+
+---
+
+## Optimize(bool, float, float, float) {#optimize_1}
+
+Optimize the mesh's memory usage by eliminating duplicated control points
+
+```csharp
+public Mesh Optimize(bool vertexElements, float toleranceControlPoint = 1E-09, 
+    float toleranceNormal = 1E-09, float toleranceUV = 1E-09)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vertexElements | Boolean | Optimize duplicated vertex element data |
+| toleranceControlPoint | Single | The tolerance for control point, default value is 1e-9 |
+| toleranceNormal | Single | The tolerance for normal/tangent/binormal default value is 1e-9 |
+| toleranceUV | Single | The tolerance for uv, default value is 1e-9 |
+
+### Return Value
+
+New mesh instance with compact memory usage
+
+### See Also
+
+* class [Mesh](../)
+* namespace [Aspose.ThreeD.Entities](../../../aspose.threed.entities/)
+* assembly [Aspose.3D](../../../)
+* [Tutorial - deduplicate mesh data](https://products.aspose.com/3d/tutorial/deduplicate-mesh-data)
 
 

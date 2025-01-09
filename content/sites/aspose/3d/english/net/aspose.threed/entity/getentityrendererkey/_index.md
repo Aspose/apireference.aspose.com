@@ -14,6 +14,10 @@ Gets the key of the entity renderer registered in the renderer
 public virtual EntityRendererKey GetEntityRendererKey()
 ```
 
+### Return Value
+
+the key of the entity renderer registered in the renderer
+
 ### See Also
 
 * class [EntityRendererKey](../../../aspose.threed.render/entityrendererkey/)

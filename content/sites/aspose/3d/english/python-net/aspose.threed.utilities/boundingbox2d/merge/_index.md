@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /python-net/aspose.threed.utilities/boundingbox2d/merge/
+url: /aspose.threed.utilities/boundingbox2d/merge/
 is_root: false
 ---
 
@@ -22,7 +22,7 @@ def merge(self, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) |  |
+| pt | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | The point to merge |
 
 
 ## merge {#aspose.threed.utilities.BoundingBox2D}
@@ -39,7 +39,7 @@ def merge(self, bb):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| bb | [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d) |  |
+| bb | [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d) | The bounding box to merge |
 
 
 

@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.PdfSaveOptions class. The save options in PDF exporting
 type: docs
-weight: 1780
+weight: 1330
 url: /net/aspose.threed.formats/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -43,5 +43,6 @@ public class PdfSaveOptions : SaveOptions
 * class [SaveOptions](../saveoptions/)
 * namespace [Aspose.ThreeD.Formats](../../aspose.threed.formats/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Customize 3D PDF's render mode](https://products.aspose.com/3d/tutorial/set-rendering-mode-geometry/)
 
 

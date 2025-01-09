@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /python-net/aspose.threed.entities/patch/
+url: /aspose.threed.entities/patch/
 is_root: false
 ---
 
@@ -46,7 +46,6 @@ The Patch type exposes the following members:
 | [parent_node](/3d/python-net/aspose.threed.entities/patch/parent_node) | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
 | [visible](/3d/python-net/aspose.threed.entities/patch/visible) | Gets or sets if the geometry is visible |
 | [deformers](/3d/python-net/aspose.threed.entities/patch/deformers) | Gets all deformers associated with this geometry. |
-| [control_points](/3d/python-net/aspose.threed.entities/patch/control_points) | Gets all control points |
 | [cast_shadows](/3d/python-net/aspose.threed.entities/patch/cast_shadows) | Gets or sets whether this geometry can cast shadow |
 | [receive_shadows](/3d/python-net/aspose.threed.entities/patch/receive_shadows) | Gets or sets whether this geometry can receive shadow. |
 | [vertex_elements](/3d/python-net/aspose.threed.entities/patch/vertex_elements) | Gets all vertex elements |

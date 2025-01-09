@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.entities/compositecurve/
+url: /aspose.threed.entities/compositecurve/
 is_root: false
 ---
 
@@ -53,7 +53,7 @@ The CompositeCurve type exposes the following members:
 | [find_property](/3d/python-net/aspose.threed.entities/compositecurve/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box](/3d/python-net/aspose.threed.entities/compositecurve/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/compositecurve/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [add_segment](/3d/python-net/aspose.threed.entities/compositecurve/add_segment/#aspose.threed.entities.Curve-bool) | The |
+| [add_segment](/3d/python-net/aspose.threed.entities/compositecurve/add_segment/#aspose.threed.entities.Curve-bool) | Add a new segment to current curve. |
 
 
 

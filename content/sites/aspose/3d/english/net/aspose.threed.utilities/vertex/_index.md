@@ -3,7 +3,7 @@ title: Class Vertex
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.Vertex class. Vertex reference used to access the raw vertex in TriMesh
 type: docs
-weight: 1450
+weight: 2800
 url: /net/aspose.threed.utilities/vertex/
 ---
 ## Vertex class

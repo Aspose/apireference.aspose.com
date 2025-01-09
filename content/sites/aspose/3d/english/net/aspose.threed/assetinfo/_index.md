@@ -3,7 +3,7 @@ title: Class AssetInfo
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.AssetInfo class. Information of asset. Asset information can be attached to a Scene. Child Scene can have its own AssetInfo to override parents definition
 type: docs
-weight: 110
+weight: 130
 url: /net/aspose.threed/assetinfo/
 ---
 ## AssetInfo class

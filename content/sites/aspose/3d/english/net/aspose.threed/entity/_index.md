@@ -3,7 +3,7 @@ title: Class Entity
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Entity class. The base class of all entities. Entity represents a concrete object that attached under a node like Light/Geometry
 type: docs
-weight: 170
+weight: 1000
 url: /net/aspose.threed/entity/
 ---
 ## Entity class

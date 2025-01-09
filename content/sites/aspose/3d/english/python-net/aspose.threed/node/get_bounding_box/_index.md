@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /python-net/aspose.threed/node/get_bounding_box/
+url: /aspose.threed/node/get_bounding_box/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Calculate the bounding box of the node
 ### Returns 
 
 
-
+The bounding box of current node
 
 
 ```python

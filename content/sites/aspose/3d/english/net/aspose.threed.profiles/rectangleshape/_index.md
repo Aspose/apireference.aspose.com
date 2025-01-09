@@ -3,7 +3,7 @@ title: Class RectangleShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.RectangleShape class. IFC compatible rectangular shape with rounding corners
 type: docs
-weight: 1160
+weight: 1700
 url: /net/aspose.threed.profiles/rectangleshape/
 ---
 ## RectangleShape class
@@ -52,5 +52,6 @@ public class RectangleShape : ParameterizedProfile
 * class [ParameterizedProfile](../parameterizedprofile/)
 * namespace [Aspose.ThreeD.Profiles](../../aspose.threed.profiles/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Create a twisted linear extrusion](https://products.aspose.com/3d/tutorial/perform-linear-extrusion-twist-offset/)
 
 

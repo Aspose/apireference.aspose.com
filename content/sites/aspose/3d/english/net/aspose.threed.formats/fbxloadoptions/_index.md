@@ -3,7 +3,7 @@ title: Class FbxLoadOptions
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Formats.FbxLoadOptions class. Load options for Fbx format
 type: docs
-weight: 1610
+weight: 1140
 url: /net/aspose.threed.formats/fbxloadoptions/
 ---
 ## FbxLoadOptions class
@@ -25,6 +25,7 @@ public class FbxLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
+| [CompatibleMode](../../aspose.threed.formats/fbxloadoptions/compatiblemode/) { get; set; } | Gets or sets whether to enable compatible mode. Compatible mode will try to support non-standard FBX definitions like PBR materials exported by Blender. Default value is false. |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding/) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.(Inherited from [`IOConfig`](../ioconfig/).) |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat/) { get; } | Gets the file format that specified in current Save/Load option.(Inherited from [`IOConfig`](../ioconfig/).) |
 | [FileName](../../aspose.threed.formats/ioconfig/filename/) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.(Inherited from [`IOConfig`](../ioconfig/).) |

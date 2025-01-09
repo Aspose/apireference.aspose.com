@@ -16,7 +16,11 @@ public List<object> SelectObjects(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | String |  |
+| path | String | The XPath-like query |
+
+### Return Value
+
+Multiple object matches the XPath-like query.
 
 ### Exceptions
 

@@ -3,7 +3,7 @@ title: TriMesh
 second_title: Aspose.3D for Java API Reference
 description: A TriMesh contains raw data that can be used by GPU directly.
 type: docs
-weight: 181
+weight: 182
 url: /java/com.aspose.threed/trimesh/
 ---
 
@@ -16,7 +16,24 @@ java.lang.Iterable
 public class TriMesh extends Entity implements Iterable<Vertex>
 ```
 
-A TriMesh contains raw data that can be used by GPU directly. This class is a utility to help to construct a mesh that only contains per-vertex data.
+A TriMesh contains raw data that can be used by GPU directly. This class is a utility to help to construct a mesh that only contains per-vertex data. **Example:** The following code shows how to create a TriMesh with custom memory layout, and export it to file.
+
+```
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+              VertexDeclaration vd = new VertexDeclaration();
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.NORMAL);
+              vd.addField(VertexFieldDataType.F_VECTOR2, VertexFieldSemantic.UV);
+              //convert a mesh to tri-mesh using specified memory layout
+              var mesh = (new Sphere()).toMesh();
+              var triMesh = TriMesh.fromMesh(vd, mesh);
+              //save it to a stream, 115 vertices * 32bytes per vertex
+              try(var s = new FileOutputStream("output.bin")) {
+                  triMesh.writeVerticesTo(s);
+                  //save indices as ushort to stream, 504 indices * 2 bytes per index
+                  triMesh.write16bIndicesTo(s);
+              }
+```
 ## Constructors
 
 | Constructor | Description |
@@ -205,19 +222,23 @@ Create a TriMesh from given mesh object, the vertex declaration are based on the
 | mesh | [Mesh](../../com.aspose.threed/mesh) |  |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh) **Example:**
+[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh) **Example:** The following code shows how to create a TriMesh with custom memory layout, and export it to file.
 
 ```
-//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
-      var mesh = (new Sphere()).toMesh();
-      var triMesh = TriMesh.fromMesh(mesh);
-      //save it to a stream, 115 vertices * 32bytes per vertex
-      var stream = new ByteArrayOutputStream();
-      try(var s = Stream.wrap(stream)) {
-          triMesh.writeVerticesTo(s);
-          //save indices as ushort to stream, 504 indices * 2 bytes per index
-          triMesh.write16bIndicesTo(s);
-      }
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+              VertexDeclaration vd = new VertexDeclaration();
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.NORMAL);
+              vd.addField(VertexFieldDataType.F_VECTOR2, VertexFieldSemantic.UV);
+              //convert a mesh to tri-mesh using specified memory layout
+              var mesh = (new Sphere()).toMesh();
+              var triMesh = TriMesh.fromMesh(vd, mesh);
+              //save it to a stream, 115 vertices * 32bytes per vertex
+              try(var s = new FileOutputStream("output.bin")) {
+                  triMesh.writeVerticesTo(s);
+                  //save indices as ushort to stream, 504 indices * 2 bytes per index
+                  triMesh.write16bIndicesTo(s);
+              }
 ```
 ### fromMesh(Mesh mesh, boolean useFloat) {#fromMesh-com.aspose.threed.Mesh-boolean-}
 ```
@@ -234,19 +255,23 @@ Create a TriMesh from given mesh object, the vertex declaration are based on the
 | useFloat | boolean | Use float type instead of double type for each vertex element component. |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh) **Example:**
+[TriMesh](../../com.aspose.threed/trimesh) - The [TriMesh](../../com.aspose.threed/trimesh) generated from given [Mesh](../../com.aspose.threed/mesh) **Example:** The following code shows how to create a TriMesh with custom memory layout, and export it to file.
 
 ```
-//convert a mesh to TriMesh, the layout is automatically inferred from input mesh
-      var mesh = (new Sphere()).toMesh();
-      var triMesh = TriMesh.fromMesh(mesh);
-      //save it to a stream, 115 vertices * 32bytes per vertex
-      var stream = new ByteArrayOutputStream();
-      try(var s = Stream.wrap(stream)) {
-          triMesh.writeVerticesTo(s);
-          //save indices as ushort to stream, 504 indices * 2 bytes per index
-          triMesh.write16bIndicesTo(s);
-      }
+//Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
+              VertexDeclaration vd = new VertexDeclaration();
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.NORMAL);
+              vd.addField(VertexFieldDataType.F_VECTOR2, VertexFieldSemantic.UV);
+              //convert a mesh to tri-mesh using specified memory layout
+              var mesh = (new Sphere()).toMesh();
+              var triMesh = TriMesh.fromMesh(vd, mesh);
+              //save it to a stream, 115 vertices * 32bytes per vertex
+              try(var s = new FileOutputStream("output.bin")) {
+                  triMesh.writeVerticesTo(s);
+                  //save indices as ushort to stream, 504 indices * 2 bytes per index
+                  triMesh.write16bIndicesTo(s);
+              }
 ```
 ### fromMesh(VertexDeclaration declaration, Mesh mesh) {#fromMesh-com.aspose.threed.VertexDeclaration-com.aspose.threed.Mesh-}
 ```
@@ -263,24 +288,23 @@ Create a TriMesh from given mesh object with given vertex layout.
 | mesh | [Mesh](../../com.aspose.threed/mesh) | Source mesh |
 
 **Returns:**
-[TriMesh](../../com.aspose.threed/trimesh) - Instance of TriMesh converted from input mesh with specified vertex's memory layout **Example:**
+[TriMesh](../../com.aspose.threed/trimesh) - Instance of TriMesh converted from input mesh with specified vertex's memory layout **Example:** The following code shows how to create a TriMesh with custom memory layout, and export it to file.
 
 ```
 //Define a vertex declaration as {FVector3 Position; FVector3 Normal; FVector2 UV}
-      VertexDeclaration vd = new VertexDeclaration();
-      vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
-      vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.NORMAL);
-      vd.addField(VertexFieldDataType.F_VECTOR2, VertexFieldSemantic.UV);
-      //convert a mesh to tri-mesh using specified memory layout
-      var mesh = (new Sphere()).toMesh();
-      var triMesh = TriMesh.fromMesh(vd, mesh);
-      //save it to a stream, 115 vertices * 32bytes per vertex
-      var stream = new ByteArrayOutputStream();
-      try(var s = Stream.wrap(stream)) {
-          triMesh.writeVerticesTo(s);
-          //save indices as ushort to stream, 504 indices * 2 bytes per index
-          triMesh.write16bIndicesTo(s);
-      }
+              VertexDeclaration vd = new VertexDeclaration();
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.POSITION);
+              vd.addField(VertexFieldDataType.F_VECTOR3, VertexFieldSemantic.NORMAL);
+              vd.addField(VertexFieldDataType.F_VECTOR2, VertexFieldSemantic.UV);
+              //convert a mesh to tri-mesh using specified memory layout
+              var mesh = (new Sphere()).toMesh();
+              var triMesh = TriMesh.fromMesh(vd, mesh);
+              //save it to a stream, 115 vertices * 32bytes per vertex
+              try(var s = new FileOutputStream("output.bin")) {
+                  triMesh.writeVerticesTo(s);
+                  //save indices as ushort to stream, 504 indices * 2 bytes per index
+                  triMesh.write16bIndicesTo(s);
+              }
 ```
 ### fromRawData(VertexDeclaration vd, byte[] vertices, int[] indices, boolean generateVertexMapping) {#fromRawData-com.aspose.threed.VertexDeclaration-byte---int---boolean-}
 ```
@@ -311,7 +335,7 @@ var indices = new int[] { 0,  1,  2 };
       0, 0, 0, 0,
       0, 0, 0, 63,
       0, 0, 0, 63,
-      0, 0, 0, 0,
+      0, 0, 0, 0The string representation,
       0, 0, 0, 63
   };
   VertexDeclaration vd = new VertexDeclaration();
@@ -324,7 +348,10 @@ public BoundingBox getBoundingBox()
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox) - the bounding box of current entity in its object space coordinate system. **Example:** The following code shows how to calculate the bounding box of a shape
 
 ```
 Entity entity = new Sphere();
@@ -332,9 +359,6 @@ Entity entity = new Sphere();
      var bbox = entity.getBoundingBox();
      System.out.printf("The bounding box of the entity is %s ~ %s", bbox.getMinimum(), bbox.getMaximum());
 ```
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
 ### getCapacity() {#getCapacity--}
 ```
 public int getCapacity()
@@ -344,7 +368,7 @@ public int getCapacity()
 The capacity of pre-allocated vertices.
 
 **Returns:**
-int
+int - The capacity of pre-allocated vertices.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -364,7 +388,7 @@ public EntityRendererKey getEntityRendererKey()
 Gets the key of the entity renderer registered in the renderer
 
 **Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey) - the key of the entity renderer registered in the renderer
 ### getExcluded() {#getExcluded--}
 ```
 public boolean getExcluded()
@@ -374,7 +398,7 @@ public boolean getExcluded()
 Gets whether to exclude this entity during exporting.
 
 **Returns:**
-boolean
+boolean - whether to exclude this entity during exporting.
 ### getIndicesCount() {#getIndicesCount--}
 ```
 public int getIndicesCount()
@@ -384,7 +408,7 @@ public int getIndicesCount()
 The count of indices in this [TriMesh](../../com.aspose.threed/trimesh)
 
 **Returns:**
-int
+int - The count of indices in this [TriMesh](../../com.aspose.threed/trimesh)
 ### getIntIndices() {#getIntIndices--}
 ```
 public int[] getIntIndices()
@@ -404,7 +428,7 @@ public String getName()
 Gets the name.
 
 **Returns:**
-java.lang.String
+java.lang.String - the name.
 ### getParentNode() {#getParentNode--}
 ```
 public Node getParentNode()
@@ -414,7 +438,7 @@ public Node getParentNode()
 Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 
 **Returns:**
-[Node](../../com.aspose.threed/node)
+[Node](../../com.aspose.threed/node) - the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -424,7 +448,7 @@ public ArrayList<Node> getParentNodes()
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 
 **Returns:**
-java.util.ArrayList<com.aspose.threed.Node>
+java.util.ArrayList<com.aspose.threed.Node> - all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
 ### getProperties() {#getProperties--}
 ```
 public PropertyCollection getProperties()
@@ -434,7 +458,7 @@ public PropertyCollection getProperties()
 Gets the collection of all properties.
 
 **Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+[PropertyCollection](../../com.aspose.threed/propertycollection) - the collection of all properties.
 ### getProperty(String property) {#getProperty-java.lang.String-}
 ```
 public Object getProperty(String property)
@@ -459,7 +483,7 @@ public Scene getScene()
 Gets the scene that this object belongs to
 
 **Returns:**
-[Scene](../../com.aspose.threed/scene)
+[Scene](../../com.aspose.threed/scene) - the scene that this object belongs to
 ### getShortIndices() {#getShortIndices--}
 ```
 public short[] getShortIndices()
@@ -479,7 +503,7 @@ public int getUnmergedVerticesCount()
 The count of unmerged vertices that passed in by [beginVertex](../../com.aspose.threed/trimesh\#beginVertex) and [endVertex](../../com.aspose.threed/trimesh\#endVertex).
 
 **Returns:**
-int
+int - The count of unmerged vertices that passed in by [beginVertex](../../com.aspose.threed/trimesh\#beginVertex) and [endVertex](../../com.aspose.threed/trimesh\#endVertex).
 ### getVertexDeclaration() {#getVertexDeclaration--}
 ```
 public VertexDeclaration getVertexDeclaration()
@@ -489,7 +513,7 @@ public VertexDeclaration getVertexDeclaration()
 The vertex layout of the [TriMesh](../../com.aspose.threed/trimesh).
 
 **Returns:**
-[VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
+[VertexDeclaration](../../com.aspose.threed/vertexdeclaration) - The vertex layout of the [TriMesh](../../com.aspose.threed/trimesh).
 ### getVerticesCount() {#getVerticesCount--}
 ```
 public int getVerticesCount()
@@ -499,7 +523,7 @@ public int getVerticesCount()
 The count of vertices in this [TriMesh](../../com.aspose.threed/trimesh)
 
 **Returns:**
-int
+int - The count of vertices in this [TriMesh](../../com.aspose.threed/trimesh)
 ### getVerticesSizeInBytes() {#getVerticesSizeInBytes--}
 ```
 public int getVerticesSizeInBytes()
@@ -509,7 +533,7 @@ public int getVerticesSizeInBytes()
 The total size of all vertices in bytes
 
 **Returns:**
-int
+int - The total size of all vertices in bytes
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -600,7 +624,7 @@ Read the double field
 | field | [VertexField](../../com.aspose.threed/vertexfield) | The field with a float/double compatible data type |
 
 **Returns:**
-double
+double - Double value of specified vertex's field
 ### readFVector2(int idx, VertexField field) {#readFVector2-int-com.aspose.threed.VertexField-}
 ```
 public FVector2 readFVector2(int idx, VertexField field)
@@ -616,7 +640,7 @@ Read the vector2 field
 | field | [VertexField](../../com.aspose.threed/vertexfield) | The field with a Vector2/FVector2 data type |
 
 **Returns:**
-[FVector2](../../com.aspose.threed/fvector2)
+[FVector2](../../com.aspose.threed/fvector2) - FVector2 of specified vertex's field
 ### readFVector3(int idx, VertexField field) {#readFVector3-int-com.aspose.threed.VertexField-}
 ```
 public FVector3 readFVector3(int idx, VertexField field)
@@ -664,7 +688,7 @@ Read the float field
 | field | [VertexField](../../com.aspose.threed/vertexfield) | The field with a float/double compatible data type |
 
 **Returns:**
-float
+float - Float value of specified vertex's field
 ### readVector2(int idx, VertexField field) {#readVector2-int-com.aspose.threed.VertexField-}
 ```
 public Vector2 readVector2(int idx, VertexField field)
@@ -680,7 +704,7 @@ Read the vector2 field
 | field | [VertexField](../../com.aspose.threed/vertexfield) | The field with a Vector2/FVector2 data type |
 
 **Returns:**
-[Vector2](../../com.aspose.threed/vector2)
+[Vector2](../../com.aspose.threed/vector2) - Vector2 of specified vertex's field
 ### readVector3(int idx, VertexField field) {#readVector3-int-com.aspose.threed.VertexField-}
 ```
 public Vector3 readVector3(int idx, VertexField field)
@@ -739,10 +763,10 @@ Remove the specified property identified by name
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String |  |
+| property | java.lang.String | Which property to remove |
 
 **Returns:**
-boolean
+boolean - true if the property is successfully removed
 ### setExcluded(boolean value) {#setExcluded-boolean-}
 ```
 public void setExcluded(boolean value)
@@ -805,7 +829,7 @@ public String toString()
 Gets the string representation of [TriMesh](../../com.aspose.threed/trimesh)
 
 **Returns:**
-java.lang.String
+java.lang.String - The string representation
 ### verticesToArray() {#verticesToArray--}
 ```
 public byte[] verticesToArray()

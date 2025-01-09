@@ -3,7 +3,7 @@ title: Struct BoundingBox2D
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Utilities.BoundingBox2D struct. The axisaligned bounding box for Vector2
 type: docs
-weight: 1270
+weight: 2580
 url: /net/aspose.threed.utilities/boundingbox2d/
 ---
 ## BoundingBox2D structure

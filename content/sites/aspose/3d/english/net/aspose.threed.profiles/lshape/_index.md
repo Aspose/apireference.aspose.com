@@ -3,7 +3,7 @@ title: Class LShape
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Profiles.LShape class. IFC compatible Lshape profile that defined by parameters
 type: docs
-weight: 1120
+weight: 1660
 url: /net/aspose.threed.profiles/lshape/
 ---
 ## LShape class

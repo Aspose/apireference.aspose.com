@@ -47,6 +47,15 @@ Initialize a finite bounding box with given minimum and maximum corner
 public BoundingBox(double minX, double minY, double minZ, double maxX, double maxY, double maxZ)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| minX | Double | The minimum corner's X |
+| minY | Double | The minimum corner's Y |
+| minZ | Double | The minimum corner's Z |
+| maxX | Double | The maximum corner's X |
+| maxY | Double | The maximum corner's Y |
+| maxZ | Double | The maximum corner's Z |
+
 ### Examples
 
 The following code shows how to construct a bounding box from minimum and maximum corners.

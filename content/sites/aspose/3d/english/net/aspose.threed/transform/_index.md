@@ -3,7 +3,7 @@ title: Class Transform
 second_title: Aspose.3D for .NET API Reference
 description: Aspose.ThreeD.Transform class. A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost This is used by local transform
 type: docs
-weight: 280
+weight: 2550
 url: /net/aspose.threed/transform/
 ---
 ## Transform class
@@ -70,5 +70,7 @@ boxNode.Transform.Translation = new Vector3(10, 0, 0);
 * class [A3DObject](../a3dobject/)
 * namespace [Aspose.ThreeD](../../aspose.threed/)
 * assembly [Aspose.3D](../../)
+* [Tutorial - Transform scene geometries](https://products.aspose.com/3d/tutorial/transform-scene-geometries/)
+* [Tutorial - Rotate geometry in a scene](https://products.aspose.com/3d/tutorial/rotate-geometry-scene/)
 
 

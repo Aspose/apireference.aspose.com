@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed.utilities/fvector2/__init__/
+url: /aspose.threed.utilities/fvector2/__init__/
 is_root: false
 ---
 
@@ -36,7 +36,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) |  |
+| vec | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | Vector2 in double type |
 
 
 ## __init__ {#float-float}
@@ -53,8 +53,8 @@ def __init__(self, x, y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | float |  |
-| y | float |  |
+| x | float | X component of the vector |
+| y | float | Y component of the vector |
 
 
 

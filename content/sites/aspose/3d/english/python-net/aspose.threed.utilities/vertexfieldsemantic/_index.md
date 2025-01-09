@@ -3,8 +3,8 @@ title: VertexFieldSemantic enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 320
-url: /python-net/aspose.threed.utilities/vertexfieldsemantic/
+weight: 280
+url: /aspose.threed.utilities/vertexfieldsemantic/
 is_root: false
 ---
 

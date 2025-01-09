@@ -3,8 +3,8 @@ title: X_BINARY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /python-net/aspose.threed/fileformat/x_binary/
+weight: 550
+url: /aspose.threed/fileformat/x_binary/
 is_root: false
 ---
 

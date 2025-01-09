@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /python-net/aspose.threed.formats/pdfformat/detect/
+url: /aspose.threed.formats/pdfformat/detect/
 is_root: false
 ---
 
@@ -16,7 +16,7 @@ Detect the file format from file name, file must be readable so Aspose.3D can de
 ### Returns 
 
 
-
+The [`FileFormat`](/3d/python-net/aspose.threed/fileformat) instance of the detected type or null if failed.
 
 
 ```python
@@ -27,7 +27,13 @@ def detect(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str |  |
+| file_name | str | Path to the file to detect file format. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Exception thrown when failed to read data. |
+
+
 
 ### Example 
 
@@ -49,7 +55,7 @@ Detect the file format from data stream, file name is optional for guessing type
 ### Returns 
 
 
-
+The [`FileFormat`](/3d/python-net/aspose.threed/fileformat) instance of the detected type or null if failed.
 
 
 ```python
@@ -60,8 +66,14 @@ def detect(self, stream, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | io.RawIOBase |  |
-| file_name | str |  |
+| stream | io.RawIOBase | Stream containing data to detect |
+| file_name | str | Original file name of the data, used as hint. |
+### Exceptions
+| Exception | Description |
+| :- | :- |
+| IOException | Exception thrown when failed to read data. |
+
+
 
 ### Example 
 
@@ -81,4 +93,5 @@ print(f"Input data format: {fmt}")
 
 ### See Also
 * module [`aspose.threed.formats`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 * class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

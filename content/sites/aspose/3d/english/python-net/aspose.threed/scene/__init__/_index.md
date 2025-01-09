@@ -4,7 +4,7 @@ second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.threed/scene/__init__/
+url: /aspose.threed/scene/__init__/
 is_root: false
 ---
 
@@ -50,24 +50,6 @@ from aspose.threed.entities import Box
 scene = Scene(Box())
 
 ```
-
-
-## __init__ {#str}
-
-Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class and open the file immediately.
-This is an obsoleted constructor, please use [`Scene.from_file`](/3d/python-net/aspose.threed/scene/from_file).
-
-
-
-```python
-def __init__(self, file_name):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| file_name | str | File's name to open. |
 
 
 ## __init__ {#aspose.threed.Scene-str}

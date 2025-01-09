@@ -16,7 +16,11 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | Object |  |
+| obj | Object | The object to compare |
+
+### Return Value
+
+true if two objects are equal
 
 ### See Also
 

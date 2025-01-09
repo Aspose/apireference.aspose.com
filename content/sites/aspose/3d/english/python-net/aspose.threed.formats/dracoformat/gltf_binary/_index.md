@@ -3,8 +3,8 @@ title: GLTF_BINARY property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /python-net/aspose.threed.formats/dracoformat/gltf_binary/
+weight: 340
+url: /aspose.threed.formats/dracoformat/gltf_binary/
 is_root: false
 ---
 

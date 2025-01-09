@@ -29,11 +29,11 @@ Scene scene = new Scene();
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getEulerAngles()](#getEulerAngles--) | Gets the rotation represented in Euler angles, measured in degree **Example:** |
+| [getEulerAngles()](#getEulerAngles--) | Gets the rotation represented in Euler angles, measured in degree |
 | [getRotation()](#getRotation--) | Gets the rotation represented in quaternion. |
-| [getScale()](#getScale--) | Gets the scale **Example:** |
+| [getScale()](#getScale--) | Gets the scale |
 | [getTransformMatrix()](#getTransformMatrix--) | Gets the transform matrix. |
-| [getTranslation()](#getTranslation--) | Gets the translation **Example:** |
+| [getTranslation()](#getTranslation--) | Gets the translation |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -72,80 +72,80 @@ public Vector3 getEulerAngles()
 ```
 
 
-Gets the rotation represented in Euler angles, measured in degree **Example:**
+Gets the rotation represented in Euler angles, measured in degree
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the rotation represented in Euler angles, measured in degree **Example:**
 
 ```
 Scene scene = Scene.fromFile("test.fbx");
      var tr = scene.getRootNode().getGlobalTransform();
      System.out.printf("EulerAngles = %s", tr.getEulerAngles());
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getRotation() {#getRotation--}
 ```
 public Quaternion getRotation()
 ```
 
 
-Gets the rotation represented in quaternion. **Example:**
+Gets the rotation represented in quaternion.
+
+**Returns:**
+[Quaternion](../../com.aspose.threed/quaternion) - the rotation represented in quaternion. **Example:**
 
 ```
 Scene scene = Scene.fromFile("test.fbx");
      var tr = scene.getRootNode().getGlobalTransform();
      System.out.printf("Rotation = %s", tr.getRotation());
 ```
-
-**Returns:**
-[Quaternion](../../com.aspose.threed/quaternion)
 ### getScale() {#getScale--}
 ```
 public Vector3 getScale()
 ```
 
 
-Gets the scale **Example:**
+Gets the scale
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the scale **Example:**
 
 ```
 Scene scene = Scene.fromFile("test.fbx");
      var tr = scene.getRootNode().getGlobalTransform();
      System.out.printf("Scale = %s", tr.getScale());
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### getTransformMatrix() {#getTransformMatrix--}
 ```
 public Matrix4 getTransformMatrix()
 ```
 
 
-Gets the transform matrix. **Example:**
+Gets the transform matrix.
+
+**Returns:**
+[Matrix4](../../com.aspose.threed/matrix4) - the transform matrix. **Example:**
 
 ```
 Scene scene = Scene.fromFile("test.fbx");
      var tr = scene.getRootNode().getGlobalTransform();
      System.out.printf("Matrix = %s", tr.getTransformMatrix());
 ```
-
-**Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
 ### getTranslation() {#getTranslation--}
 ```
 public Vector3 getTranslation()
 ```
 
 
-Gets the translation **Example:**
+Gets the translation
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - the translation **Example:**
 
 ```
 Scene scene = Scene.fromFile("test.fbx");
      var tr = scene.getRootNode().getGlobalTransform();
      System.out.printf("Translation = %s", tr.getTranslation());
 ```
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

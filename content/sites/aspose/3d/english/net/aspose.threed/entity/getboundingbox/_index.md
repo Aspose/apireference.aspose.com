@@ -14,6 +14,10 @@ Gets the bounding box of current entity in its object space coordinate system.
 public BoundingBox GetBoundingBox()
 ```
 
+### Return Value
+
+the bounding box of current entity in its object space coordinate system.
+
 ### Examples
 
 The following code shows how to calculate the bounding box of a shape

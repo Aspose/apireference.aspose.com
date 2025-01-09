@@ -3,7 +3,7 @@ title: PatchDirection
 second_title: Aspose.3D for Java API Reference
 description: Patchs U and V direction.
 type: docs
-weight: 110
+weight: 111
 url: /java/com.aspose.threed/patchdirection/
 ---
 
@@ -80,7 +80,7 @@ public boolean getClosed()
 Gets a value indicating whether this [PatchDirection](../../com.aspose.threed/patchdirection) is a closed curve.
 
 **Returns:**
-boolean
+boolean - a value indicating whether this [PatchDirection](../../com.aspose.threed/patchdirection) is a closed curve.
 ### getControlPoints() {#getControlPoints--}
 ```
 public int getControlPoints()
@@ -90,7 +90,7 @@ public int getControlPoints()
 Gets the count of control points in current direction.
 
 **Returns:**
-int
+int - the count of control points in current direction.
 ### getDivisions() {#getDivisions--}
 ```
 public int getDivisions()
@@ -100,7 +100,7 @@ public int getDivisions()
 Gets the number of divisions between adjacent control points.
 
 **Returns:**
-int
+int - the number of divisions between adjacent control points.
 ### getType() {#getType--}
 ```
 public PatchDirectionType getType()
@@ -110,7 +110,7 @@ public PatchDirectionType getType()
 Gets the patch's type.
 
 **Returns:**
-[PatchDirectionType](../../com.aspose.threed/patchdirectiontype)
+[PatchDirectionType](../../com.aspose.threed/patchdirectiontype) - the patch's type.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

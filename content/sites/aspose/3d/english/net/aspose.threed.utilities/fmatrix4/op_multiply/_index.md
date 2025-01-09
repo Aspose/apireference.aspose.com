@@ -16,8 +16,12 @@ public static FMatrix4 operator *(FMatrix4 left, FMatrix4 right)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | FMatrix4 |  |
-| right | FMatrix4 |  |
+| left | FMatrix4 | The left matrix to concatenate |
+| right | FMatrix4 | The right matrix to concatenate |
+
+### Return Value
+
+The concatenated matrix.
 
 ### See Also
 

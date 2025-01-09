@@ -3,8 +3,8 @@ title: IFC property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 330
-url: /python-net/aspose.threed/fileformat/ifc/
+weight: 340
+url: /aspose.threed/fileformat/ifc/
 is_root: false
 ---
 
