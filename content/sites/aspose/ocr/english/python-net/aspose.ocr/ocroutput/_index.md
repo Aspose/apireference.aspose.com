@@ -12,7 +12,12 @@ url: /python-net/aspose.ocr/ocroutput/
 
 
 The OcrOutput type exposes the following members:
-
+## Constructors
+| Name | Description |
+| :- | :- |
+|OcrOutput()|Initializes a new instance of the OcrOutput class|
+|OcrOutput(collection, input)|Initializes a new instance of the OcrOutput class|
+|OcrOutput(capacity)|Initializes a new instance of the OcrOutput class|
 ## Methods
 | Name | Description |
 | :- | :- |
