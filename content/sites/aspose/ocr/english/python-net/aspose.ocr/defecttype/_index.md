@@ -3,7 +3,7 @@ title: DefectType
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /python-net/aspose.ocr/defecttype/
 ---
 

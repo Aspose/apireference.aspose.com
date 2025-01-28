@@ -24,9 +24,7 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |FRA|French alphabet|
 |ITA|Italian alphabet|
 |CES|Czech alphabet|
-|CZE|Czech alphabet|
 |DAN|Danish alphabet|
-|DUM|Dutch alphabet|
 |NLD|Dutch alphabet|
 |EST|Estonian alphabet|
 |FIN|Finnish alphabet|
@@ -34,7 +32,6 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |LIT|Lithuanian alphabet|
 |NOR|Norwegian alphabet|
 |POL|Polish alphabet|
-|RUM|Romanian alphabet|
 |RON|Romanian alphabet|
 |HBS|Serbo-Croatian alphabet|
 |SLK|Slovak alphabet|
@@ -153,8 +150,6 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |MTR|Mewari alphabet|
 |KBD|Kabardian alphabet|
 |RUF|Luguru alphabet|
-|SRP_HRV|Serbo-Croatian alphabet|
-|NONE|Multi-language (latin alphabet + diacritic) support|
 |ARA|Arabic alphabet|
 |PES|Persian (Farsi) alphabet|
 |URD|Urdu alphabet|
@@ -167,7 +162,6 @@ Languages used for OCR.<br/>            ISO 939-3 Code.
 |EUROPEAN||
 |INDIC||
 |DEVANAGARI||
-|CHI|Chinese alphabet|
 |MON||
 
 ### See Also

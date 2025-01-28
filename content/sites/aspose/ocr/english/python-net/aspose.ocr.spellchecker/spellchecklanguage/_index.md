@@ -20,15 +20,15 @@ Languages used for SpellCheck (existing dictionaries).
 |FRA|French dictionary|
 |ITA|Italian dictionary|
 |POR|Portuguese dictionary|
-|CZE|Czech dictionary|
+|CES||
 |DAN|Danish dictionary|
-|DUM|Dutch dictionary|
+|NLD||
 |EST|Estonian dictionary|
 |FIN|Finnish dictionary|
 |LAV|Latvian dictionary|
 |LIT|Lithuanian dictionary|
 |POL|Polish dictionary|
-|RUM|Romanian dictionary|
+|RON||
 |SLK|Slovak dictionary|
 |SLV|Slovene dictionary|
 |SWE|Swedish dictionary|

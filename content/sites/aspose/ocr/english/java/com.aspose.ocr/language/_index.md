@@ -37,19 +37,16 @@ public enum Language extends Enum<Language>
 | [Ceb](#Ceb) | Cebuano alphabet |
 | [Ces](#Ces) | Czech alphabet |
 | [Che](#Che) | Chechen alphabet |
-| [Chi](#Chi) | Chinese alphabet |
 | [Chinese](#Chinese) | Universal recognition of Chinese-based languages, including mixed Chinese-English texts |
 | [Cmn](#Cmn) | Mandarin�(Chinese) alphabet |
 | [Cpx](#Cpx) | Pu-Xian alphabet |
 | [Cyrillic](#Cyrillic) | Multi-language (cyrillic alphabet) support |
-| [Cze](#Cze) | Czech alphabet |
 | [Dan](#Dan) | Danish alphabet |
 | [Deu](#Deu) | German alphabet |
 | [Devanagari](#Devanagari) | Universal recognition of Indic languages based on Devanagari script, including texts with mixed English characters |
 | [Dhd](#Dhd) | Dhundari alphabet |
 | [Diq](#Diq) | Dimli alphabet |
 | [Doc](#Doc) | Dong alphabet |
-| [Dum](#Dum) | Dutch alphabet |
 | [Eng](#Eng) | English alphabet |
 | [Est](#Est) | Estonian alphabet |
 | [European](#European) | Experimental. |
@@ -102,7 +99,7 @@ public enum Language extends Enum<Language>
 | [Min](#Min) | Minangkabau alphabet |
 | [Mly](#Mly) | Malay�(Melayu) alphabet |
 | [Mnp](#Mnp) | Min Bei alphabet |
-| [Mon](#Mon) | Mongolian alphabet |
+| [Mon](#Mon) | Mongolean alphabet |
 | [Mtq](#Mtq) | Muong alphabet |
 | [Mtr](#Mtr) | Mewari alphabet |
 | [Mui](#Mui) | Musi alphabet |
@@ -112,7 +109,6 @@ public enum Language extends Enum<Language>
 | [Nds](#Nds) | Low German alphabet |
 | [Nep](#Nep) | Nepali alphabet |
 | [Nld](#Nld) | Dutch alphabet |
-| [None](#None) | Multi-language (latin alphabet + diacritic) support |
 | [Nor](#Nor) | Norwegian alphabet |
 | [Nso](#Nso) | Sotho�(Northern) alphabet |
 | [Nya](#Nya) | Chichewa�(Chewa, Nyanja) alphabet |
@@ -128,7 +124,6 @@ public enum Language extends Enum<Language>
 | [Rjb](#Rjb) | Rajbanshi alphabet |
 | [Ron](#Ron) | Romanian alphabet |
 | [Ruf](#Ruf) | Luguru alphabet |
-| [Rum](#Rum) | Romanian alphabet |
 | [Rus](#Rus) | Russian alphabet |
 | [Rwr](#Rwr) | Marwari alphabet |
 | [Sas](#Sas) | Sasak alphabet |
@@ -139,7 +134,6 @@ public enum Language extends Enum<Language>
 | [Sot](#Sot) | Sotho�(Southern) alphabet |
 | [Spa](#Spa) | Spanish alphabet |
 | [Srp](#Srp) | Serbian alphabet |
-| [Srp_hrv](#Srp-hrv) | Serbo-Croatian alphabet |
 | [Srr](#Srr) | Serer-Sine alphabet |
 | [Ssw](#Ssw) | Swati�(Swazi) alphabet |
 | [Suk](#Suk) | Sukuma alphabet |
@@ -340,14 +334,6 @@ public static final Language Che
 
 Chechen alphabet
 
-### Chi {#Chi}
-```
-public static final Language Chi
-```
-
-
-Chinese alphabet
-
 ### Chinese {#Chinese}
 ```
 public static final Language Chinese
@@ -379,14 +365,6 @@ public static final Language Cyrillic
 
 
 Multi-language (cyrillic alphabet) support
-
-### Cze {#Cze}
-```
-public static final Language Cze
-```
-
-
-Czech alphabet
 
 ### Dan {#Dan}
 ```
@@ -435,14 +413,6 @@ public static final Language Doc
 
 
 Dong alphabet
-
-### Dum {#Dum}
-```
-public static final Language Dum
-```
-
-
-Dutch alphabet
 
 ### Eng {#Eng}
 ```
@@ -866,7 +836,7 @@ public static final Language Mon
 ```
 
 
-Mongolian alphabet
+Mongolean alphabet
 
 ### Mtq {#Mtq}
 ```
@@ -939,14 +909,6 @@ public static final Language Nld
 
 
 Dutch alphabet
-
-### None {#None}
-```
-public static final Language None
-```
-
-
-Multi-language (latin alphabet + diacritic) support
 
 ### Nor {#Nor}
 ```
@@ -1068,14 +1030,6 @@ public static final Language Ruf
 
 Luguru alphabet
 
-### Rum {#Rum}
-```
-public static final Language Rum
-```
-
-
-Romanian alphabet
-
 ### Rus {#Rus}
 ```
 public static final Language Rus
@@ -1155,14 +1109,6 @@ public static final Language Srp
 
 
 Serbian alphabet
-
-### Srp_hrv {#Srp-hrv}
-```
-public static final Language Srp_hrv
-```
-
-
-Serbo-Croatian alphabet
 
 ### Srr {#Srr}
 ```

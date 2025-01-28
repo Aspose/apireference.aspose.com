@@ -3,7 +3,7 @@ title: Country
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /python-net/aspose.ocr/country/
 ---
 
@@ -14,7 +14,6 @@ For better passport recognition point the passport country.
 ## Members
 | Member name | Description |
 | :- | :- |
-|UNIVERSAL|Do not parse the recognized text.|
 |USA|Extract key details from US passport image.|
 |MADAGASCAR|Extract key details from Malagasy passport image.|
 |NONE|Do not parse the recognized text.|
