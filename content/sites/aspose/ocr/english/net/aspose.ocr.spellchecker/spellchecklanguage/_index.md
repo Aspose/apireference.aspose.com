@@ -3,7 +3,7 @@ title: SpellCheckLanguage
 second_title: Aspose.OCR for .NET API Reference
 description: Languages used for SpellCheck existing dictionaries.
 type: docs
-weight: 400
+weight: 390
 url: /net/aspose.ocr.spellchecker/spellchecklanguage/
 ---
 ## SpellCheckLanguage enumeration
@@ -24,15 +24,15 @@ public enum SpellCheckLanguage
 | Fra | `3` | French dictionary |
 | Ita | `4` | Italian dictionary |
 | Por | `5` | Portuguese dictionary |
-| Cze | `6` | Czech dictionary |
+| Ces | `6` | Czech dictionary |
 | Dan | `7` | Danish dictionary |
-| Dum | `8` | Dutch dictionary |
+| Nld | `8` | Dutch dictionary |
 | Est | `9` | Estonian dictionary |
 | Fin | `10` | Finnish dictionary |
 | Lav | `11` | Latvian dictionary |
 | Lit | `12` | Lithuanian dictionary |
 | Pol | `13` | Polish dictionary |
-| Rum | `14` | Romanian dictionary |
+| Ron | `14` | Romanian dictionary |
 | Slk | `15` | Slovak dictionary |
 | Slv | `16` | Slovene dictionary |
 | Swe | `17` | Swedish dictionary |

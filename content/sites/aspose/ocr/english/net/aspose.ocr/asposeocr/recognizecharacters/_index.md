@@ -38,7 +38,7 @@ Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, fol
 
 ```csharp
 public List<CharacterRecognitionResult> RecognizeCharacters(OcrInput images, 
-    DetectAreasMode detectAreasMode = DetectAreasMode.PHOTO, Language language = Language.ExtLatin)
+    DetectAreasMode detectAreasMode = DetectAreasMode.UNIVERSAL, Language language = Language.Latin)
 ```
 
 | Parameter | Type | Description |

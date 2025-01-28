@@ -25,6 +25,12 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
+the component jar file:
+
+```csharp
+License license = new License();
+license.setLicense("MyLicense.lic");
+```
 
 ### See Also
 

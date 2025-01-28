@@ -18,16 +18,11 @@ public enum DetectAreasMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NONE | `7` | Doesn't detect paragraphs. Better for a simple one-column document without pictures. |
-| DOCUMENT | `8` | Detects paragraphs uses NN model for documents. Better for multicolumn document, document with pictures or with other not text objects. |
-| PHOTO | `9` | Detects paragraphs uses NN model for photos. Better for image with a lot of pictures and other not text objects. |
-| COMBINE | `3` | Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs. Better for images with complex structure. |
-| TABLE | `4` | Detects tabular structures in the image and extracts text from individual cells. Recommended for scanned spreadsheets, reports, and other table-based documents. |
-| CURVED_TEXT | `5` | Automatically straightens curved lines of text in the image, improving recognition accuracy and allowing more text to be recovered and extracted. Requires significant processing power and RAM. |
-| TEXT_IN_WILD | `6` | A super-powerful neural network specialized in extracting words from low-quality images such as street photos, license plates, passport photos, meter photos, and photos with noisy backgrounds. |
 | LEAN | `0` | Prioritizes speed and reduces resource consumption by omitting support for complex layouts. Suitable only for simple images with a few lines of text without illustrations or formatting. |
 | MULTICOLUMN | `1` | Detects large blocks of text formatted in columns. The best choice for multi-column layouts such as book pages, articles, or contracts. |
 | UNIVERSAL | `2` | Detects all blocks of text in the image, including sparse and irregular text on photos. A versatile option for most images, except for tables and multi-column layouts. |
+| TABLE | `4` | Detects tabular structures in the image and extracts text from individual cells. Recommended for scanned spreadsheets, reports, and other table-based documents. |
+| CURVED_TEXT | `5` | Automatically straightens curved lines of text in the image, improving recognition accuracy and allowing more text to be recovered and extracted. Requires significant processing power and RAM. |
 
 ### Remarks
 

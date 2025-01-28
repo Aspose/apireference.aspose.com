@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.OCR for .NET API Reference
 description: For recognition result saving
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.ocr/saveformat/
 ---
 ## SaveFormat enumeration
@@ -28,6 +28,7 @@ public enum SaveFormat
 | EPUB | `7` | Saves the document as an EPUB file. |
 | RTF | `8` | Saves the document as an rtf file. |
 | PdfNoImg | `9` | Saves the document as a Searchable PDF (Adobe Portable Document) Document without image. |
+| HOCR | `10` | Saves the document as a hOCR (.html) file. |
 
 ### See Also
 
