@@ -11,7 +11,7 @@ url: /net/aspose.ocr/baserecognitionsettings/baserecognitionsettings/
 Initializes a new instance of the [`RecognitionSettings`](../../recognitionsettings) class with full set of properties.
 
 ```csharp
-public BaseRecognitionSettings(Language language = Language.ExtLatin)
+public BaseRecognitionSettings(Language language = Language.Latin)
 ```
 
 | Parameter | Type | Description |
