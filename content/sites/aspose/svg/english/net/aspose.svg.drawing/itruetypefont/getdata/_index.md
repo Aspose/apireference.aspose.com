@@ -3,7 +3,7 @@ title: ITrueTypeFont.GetData
 second_title: Aspose.SVG for .NET API Reference
 description: ITrueTypeFont method. Opens the stream with the font data. The caller is responsible for disposing the stream
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.svg.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method

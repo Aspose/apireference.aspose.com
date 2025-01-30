@@ -11,7 +11,7 @@ url: /net/aspose.svg.builder/svgbuilderextensions/additive/
 Sets the 'additive' attribute, specifying how the values of the animation are added to the base value.
 
 ```csharp
-public static TBuilder Additive<TBuilder>(this TBuilder builder,    value)
+public static TBuilder Additive<TBuilder>(this TBuilder builder, Additive value)
     where TBuilder : ISVGElementBuilder, IAnimationAdditionAttributeSetter
 ```
 

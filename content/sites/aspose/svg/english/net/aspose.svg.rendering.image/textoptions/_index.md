@@ -18,7 +18,7 @@ public class TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint/) { get; set; } | Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault. |
+| [UseHinting](../../aspose.svg.rendering.image/textoptions/usehinting/) { get; set; } |  |
 
 ### See Also
 

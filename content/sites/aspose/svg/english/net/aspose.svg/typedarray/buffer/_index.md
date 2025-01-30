@@ -11,7 +11,7 @@ url: /net/aspose.svg/typedarray/buffer/
 Gets the ArrayBuffer referenced by this instance.
 
 ```csharp
-public    Buffer { get; }
+public ArrayBuffer Buffer { get; }
 ```
 
 ### Property Value

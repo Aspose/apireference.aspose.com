@@ -11,7 +11,7 @@ url: /net/aspose.svg.builder/svgbuilderextensions/accumulate/
 Sets the 'accumulate' attribute, specifying how repeated animations build upon each other.
 
 ```csharp
-public static TBuilder Accumulate<TBuilder>(this TBuilder builder,    value)
+public static TBuilder Accumulate<TBuilder>(this TBuilder builder, Accumulate value)
     where TBuilder : ISVGElementBuilder, IAnimationAdditionAttributeSetter
 ```
 

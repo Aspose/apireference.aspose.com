@@ -3,7 +3,7 @@ title: IInterpolationColor Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IInterpolationColor interface. Desclares methods for getting interpolation color
 type: docs
-weight: 2160
+weight: 2150
 url: /net/aspose.svg.drawing/iinterpolationcolor/
 ---
 ## IInterpolationColor interface

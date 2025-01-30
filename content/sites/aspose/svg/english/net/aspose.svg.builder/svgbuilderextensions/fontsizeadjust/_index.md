@@ -35,10 +35,12 @@ The builder instance for chaining.
 
 ---
 
-## FontSizeAdjust&lt;TBuilder&gt;(this TBuilder,   ) {#fontsizeadjust}
+## FontSizeAdjust&lt;TBuilder&gt;(this TBuilder, AdjustSize) {#fontsizeadjust}
+
+Sets the 'font-size-adjust' attribute for an SVG element using a predefined adjust size value.
 
 ```csharp
-public static TBuilder FontSizeAdjust<TBuilder>(this TBuilder builder,    value)
+public static TBuilder FontSizeAdjust<TBuilder>(this TBuilder builder, AdjustSize value)
     where TBuilder : IAttributeSetter, IPresentationAttributeSetter
 ```
 

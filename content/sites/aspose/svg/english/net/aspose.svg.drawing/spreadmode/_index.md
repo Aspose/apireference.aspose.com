@@ -3,7 +3,7 @@ title: SpreadMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.SpreadMode enum. Specifies how a texture or gradient is tiled when it is smaller than the area being filled
 type: docs
-weight: 2240
+weight: 2230
 url: /net/aspose.svg.drawing/spreadmode/
 ---
 ## SpreadMode enumeration
