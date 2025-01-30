@@ -3,7 +3,7 @@ title: FillRule Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.FillRule enum. Specifies the rule to determine what parts of a shape are inside or outside in SVG graphics
 type: docs
-weight: 270
+weight: 240
 url: /net/aspose.svg.builder/fillrule/
 ---
 ## FillRule enumeration

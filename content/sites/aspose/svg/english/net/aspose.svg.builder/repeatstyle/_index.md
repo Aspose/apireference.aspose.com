@@ -3,7 +3,7 @@ title: RepeatStyle Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.RepeatStyle enum. Specifies the repeat style for background images or patterns in SVG
 type: docs
-weight: 1030
+weight: 480
 url: /net/aspose.svg.builder/repeatstyle/
 ---
 ## RepeatStyle enumeration

@@ -3,7 +3,7 @@ title: StitchTiles Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.StitchTiles enum. Specifies the stitching options for the feTurbulence filter primitive
 type: docs
-weight: 1750
+weight: 540
 url: /net/aspose.svg.builder/stitchtiles/
 ---
 ## StitchTiles enumeration

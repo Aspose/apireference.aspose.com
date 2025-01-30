@@ -3,7 +3,7 @@ title: VerticalEdge Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.VerticalEdge enum. Specifies the vertical edge reference for positioning in SVG
 type: docs
-weight: 1920
+weight: 690
 url: /net/aspose.svg.builder/verticaledge/
 ---
 ## VerticalEdge enumeration

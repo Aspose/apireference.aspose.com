@@ -3,7 +3,7 @@ title: IFilterPrimitiveContentBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IFilterPrimitiveContentBuilder interface. Interface for building content within filter primitives
 type: docs
-weight: 550
+weight: 1220
 url: /net/aspose.svg.builder/ifilterprimitivecontentbuilder/
 ---
 ## IFilterPrimitiveContentBuilder interface

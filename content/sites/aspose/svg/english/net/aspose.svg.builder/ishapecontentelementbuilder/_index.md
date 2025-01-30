@@ -3,7 +3,7 @@ title: IShapeContentElementBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IShapeContentElementBuilder interface. Interface for building content within shape elements
 type: docs
-weight: 700
+weight: 1360
 url: /net/aspose.svg.builder/ishapecontentelementbuilder/
 ---
 ## IShapeContentElementBuilder interface

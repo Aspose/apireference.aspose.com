@@ -3,7 +3,7 @@ title: IUserAgentService Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Services.IUserAgentService interface. An interface that is described a user agent environment
 type: docs
-weight: 6140
+weight: 2730
 url: /net/aspose.svg.services/iuseragentservice/
 ---
 ## IUserAgentService interface
@@ -22,6 +22,7 @@ public interface IUserAgentService
 | [CSSEngineMode](../../aspose.svg.services/iuseragentservice/cssenginemode/) { get; set; } | Gets or sets mode in which CSS engine works. |
 | [FontsSettings](../../aspose.svg.services/iuseragentservice/fontssettings/) { get; } | Gets a !:Html.FontsSettings object which is used for configuration of fonts handling. |
 | [Language](../../aspose.svg.services/iuseragentservice/language/) { get; set; } | The [`Language`](./language/) specifies the primary language for the element's contents and for any of the element's attributes that contain text. Its value must be a valid BCP 47 () language tag, or the empty string. Setting the attribute to the empty string indicates that the primary language is unknown. |
+| [ShowImagePlaceholders](../../aspose.svg.services/iuseragentservice/showimageplaceholders/) { get; set; } | Images can have fallback content: content that should be used when an external resource cannot be used (for example, because it is in an unsupported format). The property [`ShowImagePlaceholders`](./showimageplaceholders/) specifies whether to display the fallback image (default is true) |
 | [UserStyleSheet](../../aspose.svg.services/iuseragentservice/userstylesheet/) { get; set; } | Allows to specify style information for a particular document |
 
 ### See Also

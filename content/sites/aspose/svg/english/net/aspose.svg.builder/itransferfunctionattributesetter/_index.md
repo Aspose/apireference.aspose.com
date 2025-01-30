@@ -3,7 +3,7 @@ title: ITransferFunctionAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ITransferFunctionAttributeSetter interface. Interface for setting transfer function attributes
 type: docs
-weight: 750
+weight: 1420
 url: /net/aspose.svg.builder/itransferfunctionattributesetter/
 ---
 ## ITransferFunctionAttributeSetter interface

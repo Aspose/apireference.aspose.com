@@ -3,7 +3,7 @@ title: SVGLineElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGLineElementBuilder class. Builder class for constructing an SVG line element which is used to draw straight lines within SVG graphics. This class enables the building of content within the line element and provides methods to set various attributes specific to the line element in SVG
 type: docs
-weight: 1480
+weight: 1770
 url: /net/aspose.svg.builder/svglineelementbuilder/
 ---
 ## SVGLineElementBuilder class

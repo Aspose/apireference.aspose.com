@@ -3,7 +3,7 @@ title: EdgeMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.EdgeMode enum. Specifies the edge mode for the feConvolveMatrix filter primitive in SVG
 type: docs
-weight: 260
+weight: 230
 url: /net/aspose.svg.builder/edgemode/
 ---
 ## EdgeMode enumeration

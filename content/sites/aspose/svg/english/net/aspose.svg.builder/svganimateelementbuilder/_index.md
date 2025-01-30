@@ -3,7 +3,7 @@ title: SVGAnimateElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGAnimateElementBuilder class. Builder class for constructing an SVG animate element which is used for creating animations within SVG graphics. It enables the building of content within the animate element and provides methods to set various attributes specific to the animate element in SVG
 type: docs
-weight: 1080
+weight: 1640
 url: /net/aspose.svg.builder/svganimateelementbuilder/
 ---
 ## SVGAnimateElementBuilder class

@@ -3,7 +3,7 @@ title: Comment Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Comment class. Inherits from CharacterData and represents the content of a comment i.e. all the characters between the starting 
 type: docs
-weight: 2530
+weight: 3520
 url: /net/aspose.svg.dom/comment/
 ---
 ## Comment class

@@ -3,7 +3,7 @@ title: SVGTitleElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGTitleElementBuilder class. Builder class for creating an SVGTitleElement which is used to define the title of an SVG document or a part thereof
 type: docs
-weight: 1690
+weight: 1960
 url: /net/aspose.svg.builder/svgtitleelementbuilder/
 ---
 ## SVGTitleElementBuilder class

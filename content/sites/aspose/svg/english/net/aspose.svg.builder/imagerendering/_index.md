@@ -3,7 +3,7 @@ title: ImageRendering Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ImageRendering enum. Specifies how an image should be rendered in SVG
 type: docs
-weight: 830
+weight: 330
 url: /net/aspose.svg.builder/imagerendering/
 ---
 ## ImageRendering enumeration

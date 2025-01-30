@@ -3,7 +3,7 @@ title: TransformationType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TransformationType enum. Specifies the type of transformation applied to an SVG element
 type: docs
-weight: 1890
+weight: 660
 url: /net/aspose.svg.builder/transformationtype/
 ---
 ## TransformationType enumeration

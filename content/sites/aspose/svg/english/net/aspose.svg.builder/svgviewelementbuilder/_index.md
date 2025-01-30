@@ -3,7 +3,7 @@ title: SVGViewElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGViewElementBuilder class. Builder class for creating an SVGViewElement which defines a view within an SVG document
 type: docs
-weight: 1710
+weight: 1990
 url: /net/aspose.svg.builder/svgviewelementbuilder/
 ---
 ## SVGViewElementBuilder class

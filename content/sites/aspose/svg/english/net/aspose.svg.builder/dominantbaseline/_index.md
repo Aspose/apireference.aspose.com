@@ -3,7 +3,7 @@ title: DominantBaseline Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.DominantBaseline enum. Specifies the dominant baseline used for aligning text
 type: docs
-weight: 240
+weight: 210
 url: /net/aspose.svg.builder/dominantbaseline/
 ---
 ## DominantBaseline enumeration

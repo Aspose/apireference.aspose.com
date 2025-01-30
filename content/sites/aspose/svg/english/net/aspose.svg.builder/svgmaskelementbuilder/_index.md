@@ -3,7 +3,7 @@ title: SVGMaskElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGMaskElementBuilder class. Builder class for constructing an SVG mask element which is used to define an alpha mask for compositing the current object into the background. This class enables the building of content within the mask element and provides methods to set various attributes specific to the mask element in SVG
 type: docs
-weight: 1510
+weight: 1790
 url: /net/aspose.svg.builder/svgmaskelementbuilder/
 ---
 ## SVGMaskElementBuilder class

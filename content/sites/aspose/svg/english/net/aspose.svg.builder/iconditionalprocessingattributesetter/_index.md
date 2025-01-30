@@ -3,7 +3,7 @@ title: IConditionalProcessingAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IConditionalProcessingAttributeSetter interface. Interface for setting conditional processing attributes
 type: docs
-weight: 490
+weight: 1160
 url: /net/aspose.svg.builder/iconditionalprocessingattributesetter/
 ---
 ## IConditionalProcessingAttributeSetter interface

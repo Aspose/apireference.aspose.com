@@ -11,11 +11,12 @@ url: /net/aspose.svg.rendering/icanvascontext/fontstyle/
 Gets or sets the font style.
 
 ```csharp
-public FontStyle FontStyle { get; set; }
+public WebFontStyle FontStyle { get; set; }
 ```
 
 ### See Also
 
+* enum [WebFontStyle](../../../aspose.svg.drawing/webfontstyle/)
 * interface [ICanvasContext](../)
 * namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

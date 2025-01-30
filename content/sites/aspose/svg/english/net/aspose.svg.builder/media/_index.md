@@ -3,7 +3,7 @@ title: Media Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Media enum. Specifies the media-related timing conditions for SVG animations
 type: docs
-weight: 910
+weight: 400
 url: /net/aspose.svg.builder/media/
 ---
 ## Media enumeration

@@ -3,7 +3,7 @@ title: Orient Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Orient enum. Specifies the orientation of the marker relative to the shape it is attached to
 type: docs
-weight: 950
+weight: 420
 url: /net/aspose.svg.builder/orient/
 ---
 ## Orient enumeration

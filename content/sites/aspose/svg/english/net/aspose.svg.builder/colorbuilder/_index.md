@@ -3,7 +3,7 @@ title: ColorBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ColorBuilder class. A builder class for constructing color values in various formats. This class provides methods to set color values and build them into string representations that can be used in styling contexts such as CSS or SVG attributes
 type: docs
-weight: 130
+weight: 1530
 url: /net/aspose.svg.builder/colorbuilder/
 ---
 ## ColorBuilder class

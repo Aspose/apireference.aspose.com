@@ -3,7 +3,7 @@ title: IAnimationElementBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IAnimationElementBuilder interface. Interface for building animation elements
 type: docs
-weight: 380
+weight: 1050
 url: /net/aspose.svg.builder/ianimationelementbuilder/
 ---
 ## IAnimationElementBuilder interface

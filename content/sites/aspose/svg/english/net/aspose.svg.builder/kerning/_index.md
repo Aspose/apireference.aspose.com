@@ -3,7 +3,7 @@ title: Kerning Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Kerning enum. Specifies the kerning behavior for text in SVG
 type: docs
-weight: 850
+weight: 350
 url: /net/aspose.svg.builder/kerning/
 ---
 ## Kerning enumeration

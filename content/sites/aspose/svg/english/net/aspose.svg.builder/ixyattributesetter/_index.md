@@ -3,7 +3,7 @@ title: IXYAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IXYAttributeSetter interface. Interface for setting x and y attributes
 type: docs
-weight: 810
+weight: 1480
 url: /net/aspose.svg.builder/ixyattributesetter/
 ---
 ## IXYAttributeSetter interface

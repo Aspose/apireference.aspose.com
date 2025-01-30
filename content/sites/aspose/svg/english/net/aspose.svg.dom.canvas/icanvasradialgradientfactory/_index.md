@@ -3,7 +3,7 @@ title: ICanvasRadialGradientFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Canvas.ICanvasRadialGradientFactory interface. Represents a factory for creating radial gradients to be used with the HTML canvas rendering context
 type: docs
-weight: 2490
+weight: 2040
 url: /net/aspose.svg.dom.canvas/icanvasradialgradientfactory/
 ---
 ## ICanvasRadialGradientFactory interface

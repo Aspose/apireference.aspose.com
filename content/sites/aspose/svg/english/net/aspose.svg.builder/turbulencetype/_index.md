@@ -3,7 +3,7 @@ title: TurbulenceType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TurbulenceType enum. Specifies the type of turbulence effect for the feTurbulence SVG filter
 type: docs
-weight: 1900
+weight: 670
 url: /net/aspose.svg.builder/turbulencetype/
 ---
 ## TurbulenceType enumeration

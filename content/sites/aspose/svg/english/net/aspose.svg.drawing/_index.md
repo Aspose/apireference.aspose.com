@@ -31,7 +31,6 @@ The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify 
 
 | Interface | Description |
 | --- | --- |
-| [IBitmap](./ibitmap/) | Represents a bitmap image. |
 | [IBrush](./ibrush/) | Declares method for getting of brush type. |
 | [ICodec](./icodec/) | Represents a codec for decoding images. |
 | [IColorComponents](./icolorcomponents/) | Declares method and properties for processing color components. |
@@ -56,5 +55,6 @@ The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify 
 | [SpreadMode](./spreadmode/) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
 | [StrokeLineCap](./strokelinecap/) | Specifies the line cap used in rendering SVG and HTML. |
 | [StrokeLineJoin](./strokelinejoin/) | Specifies the line join style used in rendering SVG and HTML. |
+| [WebFontStyle](./webfontstyle/) |  |
 | [WebImageFormat](./webimageformat/) | Specifies the supported image formats. |
 | [WebMatrixOrder](./webmatrixorder/) | Specifies the order in which matrix transformations are applied. |

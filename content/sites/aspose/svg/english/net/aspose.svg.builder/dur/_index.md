@@ -3,7 +3,7 @@ title: Dur Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Dur enum. Specifies the duration of an animation in SVG
 type: docs
-weight: 250
+weight: 220
 url: /net/aspose.svg.builder/dur/
 ---
 ## Dur enumeration

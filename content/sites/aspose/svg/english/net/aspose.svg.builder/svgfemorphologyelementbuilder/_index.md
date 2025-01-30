@@ -3,7 +3,7 @@ title: SVGFEMorphologyElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEMorphologyElementBuilder class. Builder class for creating SVG feMorphology elements which are used to apply morphological operations like dilation or erosion on an input image
 type: docs
-weight: 1370
+weight: 960
 url: /net/aspose.svg.builder/svgfemorphologyelementbuilder/
 ---
 ## SVGFEMorphologyElementBuilder class

@@ -3,7 +3,7 @@ title: BaseLineShift Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.BaseLineShift enum. Specifies the vertical position of an element relative to its baseline in SVG
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.svg.builder/baselineshift/
 ---
 ## BaseLineShift enumeration

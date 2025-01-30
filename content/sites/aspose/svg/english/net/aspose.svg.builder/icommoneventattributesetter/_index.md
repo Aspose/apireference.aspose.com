@@ -3,7 +3,7 @@ title: ICommonEventAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ICommonEventAttributeSetter interface. Interface for setting common event attributes
 type: docs
-weight: 460
+weight: 1130
 url: /net/aspose.svg.builder/icommoneventattributesetter/
 ---
 ## ICommonEventAttributeSetter interface

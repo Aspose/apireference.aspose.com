@@ -3,7 +3,7 @@ title: Cursor Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Cursor enum. Defines cursor types for SVG elements allowing customization of the cursor appearance when hovering over these elements
 type: docs
-weight: 210
+weight: 180
 url: /net/aspose.svg.builder/cursor/
 ---
 ## Cursor enumeration

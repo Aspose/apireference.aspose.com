@@ -3,7 +3,7 @@ title: ICodec Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.ICodec interface. Represents a codec for decoding images
 type: docs
-weight: 3560
+weight: 2120
 url: /net/aspose.svg.drawing/icodec/
 ---
 ## ICodec interface

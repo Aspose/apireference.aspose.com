@@ -3,7 +3,7 @@ title: IFilterPrimitiveAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IFilterPrimitiveAttributeSetter interface. Interface for setting attributes specific to filter primitives
 type: docs
-weight: 540
+weight: 1210
 url: /net/aspose.svg.builder/ifilterprimitiveattributesetter/
 ---
 ## IFilterPrimitiveAttributeSetter interface

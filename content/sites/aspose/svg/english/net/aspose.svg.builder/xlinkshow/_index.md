@@ -3,7 +3,7 @@ title: XLinkShow Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.XLinkShow enum. Specifies the behavior when an SVG link is triggered
 type: docs
-weight: 1970
+weight: 740
 url: /net/aspose.svg.builder/xlinkshow/
 ---
 ## XLinkShow enumeration

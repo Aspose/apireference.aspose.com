@@ -3,7 +3,7 @@ title: Content Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.Content class. Represents a base class for an HTTP entity body and content headers
 type: docs
-weight: 4430
+weight: 2840
 url: /net/aspose.svg.net/content/
 ---
 ## Content class

@@ -3,7 +3,7 @@ title: CoordinateUnits Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.CoordinateUnits enum. Specifies the coordinate system units for various SVG elements such as masks paint servers and filters
 type: docs
-weight: 200
+weight: 170
 url: /net/aspose.svg.builder/coordinateunits/
 ---
 ## CoordinateUnits enumeration

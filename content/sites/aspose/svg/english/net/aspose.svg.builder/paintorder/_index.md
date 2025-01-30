@@ -3,7 +3,7 @@ title: PaintOrder Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.PaintOrder enum. Specifies the order in which fill stroke and markers are applied to SVG elements
 type: docs
-weight: 990
+weight: 450
 url: /net/aspose.svg.builder/paintorder/
 ---
 ## PaintOrder enumeration

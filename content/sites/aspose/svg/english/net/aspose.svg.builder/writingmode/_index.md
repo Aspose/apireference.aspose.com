@@ -3,7 +3,7 @@ title: WritingMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.WritingMode enum. Specifies the writing mode direction of text flow in SVG
 type: docs
-weight: 1960
+weight: 730
 url: /net/aspose.svg.builder/writingmode/
 ---
 ## WritingMode enumeration

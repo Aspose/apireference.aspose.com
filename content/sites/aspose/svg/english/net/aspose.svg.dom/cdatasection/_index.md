@@ -3,7 +3,7 @@ title: CDATASection Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.CDATASection class. CDATA sections are used to escape blocks of text containing characters that would otherwise be regarded as markup
 type: docs
-weight: 2440
+weight: 3500
 url: /net/aspose.svg.dom/cdatasection/
 ---
 ## CDATASection class

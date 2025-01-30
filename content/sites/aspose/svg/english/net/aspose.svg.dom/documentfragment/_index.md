@@ -3,7 +3,7 @@ title: DocumentFragment Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.DocumentFragment class. DocumentFragment is a lightweight or minimal Document object. It is very common to want to be able to extract a portion of a documents tree or to create a new fragment of a document
 type: docs
-weight: 2910
+weight: 3540
 url: /net/aspose.svg.dom/documentfragment/
 ---
 ## DocumentFragment class

@@ -3,7 +3,7 @@ title: TransformBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TransformBuilder class. Builder class for creating SVG transform attribute strings
 type: docs
-weight: 1880
+weight: 1610
 url: /net/aspose.svg.builder/transformbuilder/
 ---
 ## TransformBuilder class

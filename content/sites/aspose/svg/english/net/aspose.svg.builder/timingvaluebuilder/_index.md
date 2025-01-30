@@ -3,7 +3,7 @@ title: TimingValueBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TimingValueBuilder class. Builds a timing value used for specifying animation or transition timings
 type: docs
-weight: 1870
+weight: 1600
 url: /net/aspose.svg.builder/timingvaluebuilder/
 ---
 ## TimingValueBuilder class

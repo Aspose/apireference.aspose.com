@@ -3,7 +3,7 @@ title: ResourceHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.ResourceHandlers.ResourceHandler class. This class is responsible for handling resources. It provides methods that allow you to control what will be done with the Resource as well as what reference will be written to the parent Resource
 type: docs
-weight: 6000
+weight: 2820
 url: /net/aspose.svg.saving.resourcehandlers/resourcehandler/
 ---
 ## ResourceHandler class

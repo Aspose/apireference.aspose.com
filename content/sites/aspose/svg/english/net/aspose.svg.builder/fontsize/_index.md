@@ -3,7 +3,7 @@ title: FontSize Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.FontSize enum. Specifies predefined font sizes for SVG text elements
 type: docs
-weight: 300
+weight: 260
 url: /net/aspose.svg.builder/fontsize/
 ---
 ## FontSize enumeration

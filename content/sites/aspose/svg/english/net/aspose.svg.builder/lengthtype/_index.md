@@ -3,7 +3,7 @@ title: LengthType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.LengthType enum. Specifies the units of measurement for lengths in SVG
 type: docs
-weight: 870
+weight: 370
 url: /net/aspose.svg.builder/lengthtype/
 ---
 ## LengthType enumeration

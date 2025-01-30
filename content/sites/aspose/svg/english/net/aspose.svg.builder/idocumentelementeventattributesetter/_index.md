@@ -3,7 +3,7 @@ title: IDocumentElementEventAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.IDocumentElementEventAttributeSetter interface. Interface for setting document element event attributes
 type: docs
-weight: 520
+weight: 1190
 url: /net/aspose.svg.builder/idocumentelementeventattributesetter/
 ---
 ## IDocumentElementEventAttributeSetter interface

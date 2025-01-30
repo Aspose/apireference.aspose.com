@@ -3,7 +3,7 @@ title: PointerEvents Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.PointerEvents enum. Specifies how pointer events are handled by graphical elements in SVG
 type: docs
-weight: 1010
+weight: 460
 url: /net/aspose.svg.builder/pointerevents/
 ---
 ## PointerEvents enumeration

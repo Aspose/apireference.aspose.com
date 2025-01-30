@@ -3,7 +3,7 @@ title: SVGFEMergeNodeElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEMergeNodeElementBuilder class. Builder class for creating SVG feMergeNode elements which define the input layers to be used within an feMerge filter
 type: docs
-weight: 1360
+weight: 950
 url: /net/aspose.svg.builder/svgfemergenodeelementbuilder/
 ---
 ## SVGFEMergeNodeElementBuilder class

@@ -3,7 +3,7 @@ title: FilterInput Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.FilterInput enum. Specifies predefined input images for an SVG filter
 type: docs
-weight: 280
+weight: 250
 url: /net/aspose.svg.builder/filterinput/
 ---
 ## FilterInput enumeration

@@ -3,7 +3,7 @@ title: SVGFEDropShadowElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEDropShadowElementBuilder class. Builder class for creating SVG feDropShadow elements used within SVG filters to apply a drop shadow effect
 type: docs
-weight: 1270
+weight: 860
 url: /net/aspose.svg.builder/svgfedropshadowelementbuilder/
 ---
 ## SVGFEDropShadowElementBuilder class

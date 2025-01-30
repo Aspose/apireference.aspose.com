@@ -3,7 +3,7 @@ title: TextPathSpacing Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TextPathSpacing enum. Specifies the spacing strategy for text along a path
 type: docs
-weight: 1850
+weight: 640
 url: /net/aspose.svg.builder/textpathspacing/
 ---
 ## TextPathSpacing enumeration

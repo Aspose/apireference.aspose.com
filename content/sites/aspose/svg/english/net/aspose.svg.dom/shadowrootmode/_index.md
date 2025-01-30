@@ -3,7 +3,7 @@ title: ShadowRootMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.ShadowRootMode enum. Modes in which ShadowRoot can operate
 type: docs
-weight: 3280
+weight: 3750
 url: /net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration

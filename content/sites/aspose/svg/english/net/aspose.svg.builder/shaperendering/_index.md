@@ -3,7 +3,7 @@ title: ShapeRendering Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ShapeRendering enum. Specifies the shape rendering mode for SVG elements
 type: docs
-weight: 1720
+weight: 510
 url: /net/aspose.svg.builder/shaperendering/
 ---
 ## ShapeRendering enumeration

@@ -3,7 +3,7 @@ title: SVGPointList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGPointList class. This interface defines a list of SVGPoint objects
 type: docs
-weight: 2270
+weight: 6060
 url: /net/aspose.svg.datatypes/svgpointlist/
 ---
 ## SVGPointList class

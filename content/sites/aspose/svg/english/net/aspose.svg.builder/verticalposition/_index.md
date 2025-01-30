@@ -3,7 +3,7 @@ title: VerticalPosition Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.VerticalPosition enum. Specifies the vertical position of an element or a component in SVG
 type: docs
-weight: 1930
+weight: 700
 url: /net/aspose.svg.builder/verticalposition/
 ---
 ## VerticalPosition enumeration

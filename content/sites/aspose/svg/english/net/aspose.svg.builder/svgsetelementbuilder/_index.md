@@ -3,7 +3,7 @@ title: SVGSetElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGSetElementBuilder class. Builder class for constructing an SVG set element. The set element is used to define a simple animation where a single attribute value changes over a period of time. This class provides methods to set various attributes specific to the set element such as the target attribute and the value to set
 type: docs
-weight: 1610
+weight: 1880
 url: /net/aspose.svg.builder/svgsetelementbuilder/
 ---
 ## SVGSetElementBuilder class

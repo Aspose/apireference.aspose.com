@@ -3,7 +3,7 @@ title: EntityReference Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.EntityReference class. EntityReference nodes may be used to represent an entity reference in the tree
 type: docs
-weight: 2950
+weight: 3600
 url: /net/aspose.svg.dom/entityreference/
 ---
 ## EntityReference class

@@ -3,7 +3,7 @@ title: NodeList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Collections.NodeList class. The NodeList provides the abstraction of an ordered collection of nodes without defining or constraining how this collection is implemented
 type: docs
-weight: 2030
+weight: 3480
 url: /net/aspose.svg.collections/nodelist/
 ---
 ## NodeList class

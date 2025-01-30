@@ -3,7 +3,7 @@ title: ColorMatrixOperation Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ColorMatrixOperation enum. Specifies the type of operation to be applied in a color matrix filter
 type: docs
-weight: 150
+weight: 120
 url: /net/aspose.svg.builder/colormatrixoperation/
 ---
 ## ColorMatrixOperation enumeration

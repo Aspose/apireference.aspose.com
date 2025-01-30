@@ -3,7 +3,7 @@ title: SVGFEFloodElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEFloodElementBuilder class. Builder class for creating SVG feFlood elements used within SVG filters to create a flood of color
 type: docs
-weight: 1280
+weight: 870
 url: /net/aspose.svg.builder/svgfefloodelementbuilder/
 ---
 ## SVGFEFloodElementBuilder class

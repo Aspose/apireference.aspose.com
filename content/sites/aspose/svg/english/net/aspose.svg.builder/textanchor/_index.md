@@ -3,7 +3,7 @@ title: TextAnchor Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.TextAnchor enum. Specifies how text is horizontally aligned relative to a given point
 type: docs
-weight: 1800
+weight: 590
 url: /net/aspose.svg.builder/textanchor/
 ---
 ## TextAnchor enumeration

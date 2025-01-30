@@ -3,7 +3,7 @@ title: SpreadMethod Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SpreadMethod enum. Specifies how the colors in a gradient are spread beyond its bounds
 type: docs
-weight: 1740
+weight: 530
 url: /net/aspose.svg.builder/spreadmethod/
 ---
 ## SpreadMethod enumeration

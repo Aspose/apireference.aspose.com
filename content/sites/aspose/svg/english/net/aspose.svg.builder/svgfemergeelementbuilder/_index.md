@@ -3,7 +3,7 @@ title: SVGFEMergeElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEMergeElementBuilder class. Builder class for creating SVG feMerge elements which are used to composite together images or parts of images
 type: docs
-weight: 1350
+weight: 940
 url: /net/aspose.svg.builder/svgfemergeelementbuilder/
 ---
 ## SVGFEMergeElementBuilder class

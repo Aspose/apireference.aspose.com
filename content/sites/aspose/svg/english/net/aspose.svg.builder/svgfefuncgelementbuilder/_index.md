@@ -3,7 +3,7 @@ title: SVGFEFuncGElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEFuncGElementBuilder class. Builder class for creating SVG feFuncG elements which define the alpha component transfer function
 type: docs
-weight: 1310
+weight: 900
 url: /net/aspose.svg.builder/svgfefuncgelementbuilder/
 ---
 ## SVGFEFuncGElementBuilder class

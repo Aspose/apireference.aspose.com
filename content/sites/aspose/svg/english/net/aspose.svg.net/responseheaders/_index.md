@@ -3,7 +3,7 @@ title: ResponseHeaders Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.ResponseHeaders class. Contains protocol headers associated with a response
 type: docs
-weight: 4630
+weight: 2970
 url: /net/aspose.svg.net/responseheaders/
 ---
 ## ResponseHeaders class

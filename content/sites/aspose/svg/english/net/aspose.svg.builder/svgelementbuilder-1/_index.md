@@ -3,7 +3,7 @@ title: SVGElementBuilderT Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGElementBuilder1T class. Represents a base class for building SVG elements of type T
 type: docs
-weight: 1160
+weight: 1710
 url: /net/aspose.svg.builder/svgelementbuilder-1/
 ---
 ## SVGElementBuilder&lt;T&gt; class

@@ -3,7 +3,7 @@ title: ITextContentPositioningAttributeSetter Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ITextContentPositioningAttributeSetter interface. Interface for setting text content positioning attributes
 type: docs
-weight: 730
+weight: 1400
 url: /net/aspose.svg.builder/itextcontentpositioningattributesetter/
 ---
 ## ITextContentPositioningAttributeSetter interface

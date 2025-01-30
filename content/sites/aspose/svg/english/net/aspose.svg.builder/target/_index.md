@@ -3,7 +3,7 @@ title: Target Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.Target enum. Specifies the browsing context for where to display the linked URL
 type: docs
-weight: 1790
+weight: 580
 url: /net/aspose.svg.builder/target/
 ---
 ## Target enumeration

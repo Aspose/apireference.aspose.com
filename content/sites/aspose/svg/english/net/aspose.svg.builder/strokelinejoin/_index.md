@@ -3,7 +3,7 @@ title: StrokeLineJoin Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.StrokeLineJoin enum. Specifies the shape to be used at the corners of paths or basic shapes when they are stroked
 type: docs
-weight: 1780
+weight: 570
 url: /net/aspose.svg.builder/strokelinejoin/
 ---
 ## StrokeLineJoin enumeration

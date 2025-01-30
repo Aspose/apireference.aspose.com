@@ -3,7 +3,7 @@ title: QualifiedName Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.QualifiedName class. Represents an HTML qualified name
 type: docs
-weight: 3260
+weight: 3730
 url: /net/aspose.svg.dom/qualifiedname/
 ---
 ## QualifiedName class

@@ -3,7 +3,7 @@ title: SVGFEOffsetElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGFEOffsetElementBuilder class. Builder class for creating SVG feOffset elements which are used to apply an offset effect to an input image
 type: docs
-weight: 1380
+weight: 970
 url: /net/aspose.svg.builder/svgfeoffsetelementbuilder/
 ---
 ## SVGFEOffsetElementBuilder class

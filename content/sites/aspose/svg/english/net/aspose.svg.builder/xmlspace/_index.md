@@ -3,7 +3,7 @@ title: XmlSpace Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.XmlSpace enum. Specifies how white space inside elements is handled in XML documents
 type: docs
-weight: 1980
+weight: 750
 url: /net/aspose.svg.builder/xmlspace/
 ---
 ## XmlSpace enumeration

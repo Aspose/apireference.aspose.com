@@ -3,7 +3,7 @@ title: SVGSaveFormat Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.SVGSaveFormat enum. Specifies format in which document is saved
 type: docs
-weight: 6050
+weight: 5340
 url: /net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
@@ -19,6 +19,7 @@ public enum SVGSaveFormat
 | Name | Value | Description |
 | --- | --- | --- |
 | SVG | `0` | Document will be saved as SVG. |
+| SVGZ | `1` | Document will be saved as SVGZ. |
 
 ### See Also
 

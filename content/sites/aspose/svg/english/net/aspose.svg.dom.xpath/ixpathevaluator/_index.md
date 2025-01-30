@@ -3,7 +3,7 @@ title: IXPathEvaluator Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.XPath.IXPathEvaluator interface. The evaluation of XPath expressions is provided by IXPathEvaluator
 type: docs
-weight: 3400
+weight: 3780
 url: /net/aspose.svg.dom.xpath/ixpathevaluator/
 ---
 ## IXPathEvaluator interface

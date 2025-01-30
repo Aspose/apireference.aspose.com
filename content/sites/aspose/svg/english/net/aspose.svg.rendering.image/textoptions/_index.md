@@ -3,7 +3,7 @@ title: TextOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Image.TextOptions class. Represents text rendering options for ImageDevice
 type: docs
-weight: 5190
+weight: 4580
 url: /net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
@@ -18,7 +18,7 @@ public class TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint/) { get; set; } | Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault. |
+| [UseHinting](../../aspose.svg.rendering.image/textoptions/usehinting/) { get; set; } |  |
 
 ### See Also
 

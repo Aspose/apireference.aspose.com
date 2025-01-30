@@ -3,7 +3,7 @@ title: SVGSVGElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGSVGElementBuilder class. Builder class for creating an SVGSVGElement the root element of an SVG document
 type: docs
-weight: 1590
+weight: 1910
 url: /net/aspose.svg.builder/svgsvgelementbuilder/
 ---
 ## SVGSVGElementBuilder class

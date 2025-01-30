@@ -3,7 +3,7 @@ title: ColorRendering Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ColorRendering enum. Specifies the color rendering mode for an SVG element
 type: docs
-weight: 160
+weight: 130
 url: /net/aspose.svg.builder/colorrendering/
 ---
 ## ColorRendering enumeration

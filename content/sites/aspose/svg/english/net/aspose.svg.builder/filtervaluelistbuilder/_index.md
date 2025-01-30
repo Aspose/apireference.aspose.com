@@ -3,7 +3,7 @@ title: FilterValueListBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.FilterValueListBuilder class. A builder class for creating a list of filter functions for SVG elements
 type: docs
-weight: 290
+weight: 1540
 url: /net/aspose.svg.builder/filtervaluelistbuilder/
 ---
 ## FilterValueListBuilder class

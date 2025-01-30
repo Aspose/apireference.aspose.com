@@ -3,7 +3,7 @@ title: SVGUseElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGUseElementBuilder class. Builder class for creating an SVGUseElement which is used to reuse an existing SVG element by referencing it
 type: docs
-weight: 1700
+weight: 1980
 url: /net/aspose.svg.builder/svguseelementbuilder/
 ---
 ## SVGUseElementBuilder class

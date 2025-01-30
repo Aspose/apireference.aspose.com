@@ -3,7 +3,7 @@ title: SVGForeignObjectElementBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGForeignObjectElementBuilder class. Builder class for constructing an SVG foreignObject element which allows for inclusion of external content in an SVG document. This element can contain various types of content such as HTML and XHTML enabling more complex graphical representations within SVG
 type: docs
-weight: 1450
+weight: 1730
 url: /net/aspose.svg.builder/svgforeignobjectelementbuilder/
 ---
 ## SVGForeignObjectElementBuilder class

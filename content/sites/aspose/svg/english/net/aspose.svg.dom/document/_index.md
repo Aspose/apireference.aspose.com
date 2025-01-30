@@ -3,7 +3,7 @@ title: Document Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Document class. The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data
 type: docs
-weight: 2900
+weight: 3530
 url: /net/aspose.svg.dom/document/
 ---
 ## Document class

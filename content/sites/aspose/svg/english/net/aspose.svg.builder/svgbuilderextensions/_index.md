@@ -3,7 +3,7 @@ title: SVGBuilderExtensions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.SVGBuilderExtensions class. Provides extension methods for building and configuring SVG Scalable Vector Graphics elements. This class contains a collection of static methods that extend various builder interfaces allowing for fluent and convenient construction of SVG elements and their attributes
 type: docs
-weight: 1110
+weight: 1500
 url: /net/aspose.svg.builder/svgbuilderextensions/
 ---
 ## SVGBuilderExtensions class
@@ -58,7 +58,7 @@ public static class SVGBuilderExtensions
 
 | Name | Description |
 | --- | --- |
-| static [Accumulate&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/accumulate/)(this TBuilder,   ) |  |
+| static [Accumulate&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/accumulate/)(this TBuilder, Accumulate) | Sets the 'accumulate' attribute, specifying how repeated animations build upon each other. |
 | static [AddA&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/adda/)(this TBuilder, Action&lt;SVGAElementBuilder&gt;) | Adds an 'a' (hyperlink) element configuration to the builder. |
 | static [AddAnimate&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addanimate/)(this TBuilder, Action&lt;SVGAnimateElementBuilder&gt;) | Adds an 'animate' element configuration to the builder. |
 | static [AddAnimateMotion&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addanimatemotion/)(this TBuilder, Action&lt;SVGAnimateMotionElementBuilder&gt;) | Adds an 'animateMotion' element configuration to the builder. |
@@ -115,7 +115,7 @@ public static class SVGBuilderExtensions
 | static [AddG&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addg/)(this TBuilder, Action&lt;SVGGElementBuilder&gt;) | Adds a 'g' (group) element configuration to the builder. |
 | static [AddImage&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addimage/#addimage)(this TBuilder, Action&lt;SVGImageElementBuilder&gt;) | Adds an 'image' element configuration to the builder. |
 | static [AddImage&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addimage/#addimage_1)(this TBuilder, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, string, Action&lt;SVGImageElementBuilder&gt;) | Adds an 'image' element to the SVG builder, embedding an external image into the SVG document. |
-| static [Additive&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/additive/)(this TBuilder,   ) |  |
+| static [Additive&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/additive/)(this TBuilder, Additive) | Sets the 'additive' attribute, specifying how the values of the animation are added to the base value. |
 | static [AddLine&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addline/#addline_1)(this TBuilder, Action&lt;SVGLineElementBuilder&gt;) | Adds a 'line' element configuration to the builder. |
 | static [AddLine&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addline/#addline)(this TBuilder, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGLineElementBuilder&gt;) | Adds a 'line' element with specified start and end points, and styles to the SVG builder. |
 | static [AddLinearGradient&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/addlineargradient/#addlineargradient_1)(this TBuilder, Action&lt;SVGLinearGradientElementBuilder&gt;) | Adds a 'linearGradient' element configuration to the builder. |
@@ -194,7 +194,7 @@ public static class SVGBuilderExtensions
 | static [FontKerning&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontkerning/#fontkerning_1)(this TBuilder, double, LengthType) | Sets the 'font-kerning' attribute for an SVG element using a numeric value and a specific length type. |
 | static [FontSize&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontsize/#fontsize)(this TBuilder, FontSize) | Sets the 'font-size' attribute for an SVG element using a predefined font size value. |
 | static [FontSize&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontsize/#fontsize_1)(this TBuilder, double, LengthType) | Sets the 'font-size' attribute for an SVG element using a numeric value and a specific length type. |
-| static [FontSizeAdjust&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontsizeadjust/#fontsizeadjust)(this TBuilder,   ) |  |
+| static [FontSizeAdjust&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontsizeadjust/#fontsizeadjust)(this TBuilder, AdjustSize) | Sets the 'font-size-adjust' attribute for an SVG element using a predefined adjust size value. |
 | static [FontSizeAdjust&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontsizeadjust/#fontsizeadjust_1)(this TBuilder, double) | Sets the 'font-size-adjust' attribute for an SVG element. |
 | static [FontStretch&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontstretch/)(this TBuilder, FontStretch) | Sets the 'font-stretch' attribute for an SVG element using a predefined font stretch value. |
 | static [FontStyle&lt;TBuilder&gt;](../../aspose.svg.builder/svgbuilderextensions/fontstyle/)(this TBuilder, FontStyle) | Sets the 'font-style' attribute for an SVG element using a predefined font style value. |

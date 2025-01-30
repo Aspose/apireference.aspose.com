@@ -3,7 +3,7 @@ title: FontStyle Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.FontStyle enum. Specifies the different styles of fonts for SVG text elements
 type: docs
-weight: 320
+weight: 280
 url: /net/aspose.svg.builder/fontstyle/
 ---
 ## FontStyle enumeration

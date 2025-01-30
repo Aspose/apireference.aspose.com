@@ -3,7 +3,7 @@ title: ClipRule Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Builder.ClipRule enum. Defines the rule to determine how to clip paths in SVG graphics
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.svg.builder/cliprule/
 ---
 ## ClipRule enumeration
