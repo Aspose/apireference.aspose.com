@@ -12,6 +12,7 @@ is_root: false
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in 
 to adjacent folder, whose name will be constructed as: output_file_name + "_files".
+If the specified `url` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
 
 
@@ -120,6 +121,7 @@ def save(self, resource_handler, save_format):
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in 
 to adjacent folder, whose name will be constructed as: output_file_name + "_files".
+If the specified `path` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
 
 
@@ -188,6 +190,7 @@ def save(self, url, save_format):
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in 
 to adjacent folder, whose name will be constructed as: output_file_name + "_files".
+If the specified `url` ends with ".svgz", the document will be saved as a compressed SVGZ file.
 
 
 
@@ -209,8 +212,66 @@ def save(self, url, save_options):
 
 
 
+## save {#str-aspose.svg.saving.SVGSaveFormat-aspose.svg.saving.SVGSaveOptions}
+
+Saves the document content and associated resources to the specified file path.
+
+
+
+```python
+def save(self, path, save_format, save_options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| path | str | The file path where the document will be saved. |
+| save_format | aspose.svg.saving.SVGSaveFormat | The format in which the document should be saved. |
+| save_options | aspose.svg.saving.SVGSaveOptions | Options specifying additional parameters for saving, such as vectorization preferences. |
+
+
+## save {#aspose.svg.saving.resourcehandlers.ResourceHandler-aspose.svg.saving.SVGSaveFormat-aspose.svg.saving.SVGSaveOptions}
+
+Saves the document content and associated resources using the specified [`ResourceHandler`](/svg/python-net/aspose.svg.saving.resourcehandlers/resourcehandler).
+
+
+
+```python
+def save(self, resource_handler, save_format, save_options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| resource_handler | aspose.svg.saving.resourcehandlers.ResourceHandler | The resource handler to manage document resources, such as file system or memory-based storage. |
+| save_format | aspose.svg.saving.SVGSaveFormat | The format in which the document should be saved. |
+| save_options | aspose.svg.saving.SVGSaveOptions | Options that specify additional saving parameters, such as vectorization preferences. |
+
+
+## save {#aspose.svg.Url-aspose.svg.saving.SVGSaveFormat-aspose.svg.saving.SVGSaveOptions}
+
+Saves the document content and associated resources to the specified [`Url`](/svg/python-net/aspose.svg/url).
+
+
+
+```python
+def save(self, url, save_format, save_options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| url | [`Url`](/svg/python-net/aspose.svg/url) | The target [`Url`](/svg/python-net/aspose.svg/url) where the document will be saved. |
+| save_format | aspose.svg.saving.SVGSaveFormat | The format in which the document should be saved. |
+| save_options | aspose.svg.saving.SVGSaveOptions | Options specifying additional parameters for saving, such as vectorization preferences. |
+
+
 
 ### See Also
 * module [`aspose.svg`](../../)
 * class [`ResourceHandler`](/svg/python-net/aspose.svg.saving.resourcehandlers/resourcehandler)
 * class [`SVGDocument`](/svg/python-net/aspose.svg/svgdocument)
+* class [`Url`](/svg/python-net/aspose.svg/url)

@@ -20,6 +20,7 @@ The SVGSaveFormat type exposes the following members:
 | Field | Description |
 | :- | :- |
 | SVG | Document will be saved as SVG. |
+| SVGZ | Document will be saved as SVGZ. |
 
 
 
