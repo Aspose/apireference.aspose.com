@@ -3,7 +3,7 @@ title: Format
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 37
+weight: 39
 url: /java/com.aspose.ocr/format/
 ---
 
@@ -26,6 +26,7 @@ public enum Format extends Enum<Format>
 | [Text](#Text) | Saves the result in the plain text format. |
 | [Xlsx](#Xlsx) | Saves the result as an Excel ( 2007 and later) workbook Document. |
 | [Xml](#Xml) | Saves the result as an XML Document. |
+| [hOcr](#hOcr) | Saves the document as a hOCR (.html) file. |
 
 ### Docx {#Docx}
 ```
@@ -107,4 +108,11 @@ public static final Format Xml
 
 Saves the result as an XML Document.
 
+### hOcr {#hOcr}
+```
+public static final Format hOcr
+```
+
+
+Saves the document as a hOCR (.html) file.
 
