@@ -3,7 +3,7 @@ title: InputEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.InputEvent class. Input events are sent as notifications whenever the DOM is being updated
 type: docs
-weight: 4060
+weight: 4080
 url: /net/aspose.svg.dom.events/inputevent/
 ---
 ## InputEvent class

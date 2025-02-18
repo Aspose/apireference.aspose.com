@@ -3,7 +3,7 @@ title: TypedArrayT Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.TypedArray1T class. TypedArray objects present an array-like view of an underlying binary data buffer
 type: docs
-weight: 2610
+weight: 2630
 url: /net/aspose.svg/typedarray-1/
 ---
 ## TypedArray&lt;T&gt; class

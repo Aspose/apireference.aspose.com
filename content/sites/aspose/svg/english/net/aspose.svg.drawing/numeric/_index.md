@@ -3,7 +3,7 @@ title: Numeric Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Numeric class. Provides the base class for numeric types
 type: docs
-weight: 3370
+weight: 3390
 url: /net/aspose.svg.drawing/numeric/
 ---
 ## Numeric class

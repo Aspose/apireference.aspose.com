@@ -3,7 +3,7 @@ title: CSSEngineMode Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.CSSEngineMode enum. Specifies CSSEngine mode
 type: docs
-weight: 4110
+weight: 4130
 url: /net/aspose.svg.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration

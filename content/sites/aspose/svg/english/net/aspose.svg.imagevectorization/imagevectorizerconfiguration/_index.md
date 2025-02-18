@@ -3,7 +3,7 @@ title: ImageVectorizerConfiguration Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.ImageVectorizerConfiguration class. The ImageVectorizerConfiguration class defines a configuration of image vectorization methods and options. The configuration is used to initialize an ImageVectorizer and provides the configuration options for vectorizing images
 type: docs
-weight: 6200
+weight: 6220
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration class

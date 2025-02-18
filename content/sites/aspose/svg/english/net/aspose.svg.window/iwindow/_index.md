@@ -3,7 +3,7 @@ title: IWindow Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Window.IWindow interface. The window object represents a window containing a DOM document
 type: docs
-weight: 2650
+weight: 2670
 url: /net/aspose.svg.window/iwindow/
 ---
 ## IWindow interface

@@ -3,7 +3,7 @@ title: PdfEncryptionInfo Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionInfo class. Contains details for a pdf encryption
 type: docs
-weight: 4650
+weight: 4670
 url: /net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo class

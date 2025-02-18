@@ -3,7 +3,7 @@ title: IDrawingFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IDrawingFactory interface. Represents a factory for creating drawing-related objects
 type: docs
-weight: 2130
+weight: 2140
 url: /net/aspose.svg.drawing/idrawingfactory/
 ---
 ## IDrawingFactory interface

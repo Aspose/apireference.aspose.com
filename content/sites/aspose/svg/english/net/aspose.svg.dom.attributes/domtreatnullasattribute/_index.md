@@ -3,7 +3,7 @@ title: DOMTreatNullAsAttribute Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attributes.DOMTreatNullAsAttribute class. Indicates that null of the member value will be treated as specified value
 type: docs
-weight: 4310
+weight: 4330
 url: /net/aspose.svg.dom.attributes/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute class
