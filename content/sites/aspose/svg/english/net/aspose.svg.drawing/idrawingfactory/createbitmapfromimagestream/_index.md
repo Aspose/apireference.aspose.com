@@ -20,10 +20,11 @@ public IBitmap CreateBitmapFromImageStream(Stream imageStream)
 
 ### Return Value
 
-The created IBitmap.
+The created [`IBitmap`](../../ibitmap/).
 
 ### See Also
 
+* interface [IBitmap](../../ibitmap/)
 * interface [IDrawingFactory](../)
 * namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

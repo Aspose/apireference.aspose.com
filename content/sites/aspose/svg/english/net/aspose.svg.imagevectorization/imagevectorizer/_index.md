@@ -3,7 +3,7 @@ title: ImageVectorizer Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.ImageVectorizer class. This ImageVectorizer class vectorizes raster images like PNG JPG GIF BMP and etc... and returns SVGDocument. Under vectorization we mean the process of reducing bitmaps to geometric shapes made up from path elements and stored as SVG
 type: docs
-weight: 6190
+weight: 6210
 url: /net/aspose.svg.imagevectorization/imagevectorizer/
 ---
 ## ImageVectorizer class

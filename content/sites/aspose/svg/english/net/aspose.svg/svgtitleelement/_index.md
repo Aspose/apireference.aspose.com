@@ -3,7 +3,7 @@ title: SVGTitleElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGTitleElement class. The SVGTitleElement interface corresponds to the title element
 type: docs
-weight: 5250
+weight: 5270
 url: /net/aspose.svg/svgtitleelement/
 ---
 ## SVGTitleElement class

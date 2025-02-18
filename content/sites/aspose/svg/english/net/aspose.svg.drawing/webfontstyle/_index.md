@@ -1,12 +1,14 @@
 ---
 title: WebFontStyle Enum
 second_title: Aspose.SVG for .NET API Reference
-description: Aspose.Svg.Drawing.WebFontStyle enum. 
+description: Aspose.Svg.Drawing.WebFontStyle enum. Specifies the formatting applied to the text
 type: docs
-weight: 2260
+weight: 2270
 url: /net/aspose.svg.drawing/webfontstyle/
 ---
 ## WebFontStyle enumeration
+
+Specifies the formatting applied to the text.
 
 ```csharp
 [Flags]
@@ -17,9 +19,9 @@ public enum WebFontStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Regular | `0` |  |
-| Bold | `1` |  |
-| Italic | `2` |  |
+| Regular | `0` | Regular text. |
+| Bold | `1` | Bold text. |
+| Italic | `2` | Italic text. |
 
 ### See Also
 

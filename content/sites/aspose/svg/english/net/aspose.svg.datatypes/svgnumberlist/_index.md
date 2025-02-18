@@ -3,7 +3,7 @@ title: SVGNumberList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGNumberList class. This interface defines a list of SVGNumber objects
 type: docs
-weight: 6040
+weight: 6060
 url: /net/aspose.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class

@@ -3,7 +3,7 @@ title: GraphicContext Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.GraphicContext class. Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 3170
+weight: 3190
 url: /net/aspose.svg.rendering/graphiccontext/
 ---
 ## GraphicContext class

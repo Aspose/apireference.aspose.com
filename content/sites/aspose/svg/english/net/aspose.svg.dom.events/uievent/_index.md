@@ -3,7 +3,7 @@ title: UIEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.UIEvent class. The UIEvent interface provides specific contextual information associated with User Interface events
 type: docs
-weight: 4090
+weight: 4110
 url: /net/aspose.svg.dom.events/uievent/
 ---
 ## UIEvent class

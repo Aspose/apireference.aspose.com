@@ -3,7 +3,7 @@ title: ITransformableBrush Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.ITransformableBrush interface. Desclares methods for getting transformation matrix and wrap mode
 type: docs
-weight: 2210
+weight: 2220
 url: /net/aspose.svg.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface

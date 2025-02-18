@@ -3,7 +3,7 @@ title: MediaQueryList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Window.MediaQueryList class. A MediaQueryList object stores information on a media query applied to a document with support for both immediate and event-driven matching against the state of the document. See CSSOM View Module specification https//www.w3.org/TR/cssom-view/the-mediaquerylist-interface
 type: docs
-weight: 2690
+weight: 2710
 url: /net/aspose.svg.window/mediaquerylist/
 ---
 ## MediaQueryList class

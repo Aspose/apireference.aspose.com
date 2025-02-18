@@ -3,7 +3,7 @@ title: ImageRenderingOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Image.ImageRenderingOptions class. Represents rendering options for ImageDevice. This options is used to specify output image format compression resolution etc
 type: docs
-weight: 4570
+weight: 4590
 url: /net/aspose.svg.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class
@@ -32,7 +32,7 @@ public class ImageRenderingOptions : RenderingOptions
 | override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 | [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Gets a page setup object is used for configuration output page-set. |
 | [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Gets a [`TextOptions`](../textoptions/) object which is used for configuration of text rendering. |
-| [UseAntialiasing](../../aspose.svg.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } |  |
+| [UseAntialiasing](../../aspose.svg.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } | Specifies whether to use antialiasing. By default, antialiasing is enabled. |
 | override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ### See Also
