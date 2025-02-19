@@ -3,7 +3,7 @@ title: WebMatrixOrder enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /python-net/aspose.svg.drawing/webmatrixorder/
 is_root: false
 ---

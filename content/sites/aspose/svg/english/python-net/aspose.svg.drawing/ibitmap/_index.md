@@ -36,7 +36,7 @@ The IBitmap type exposes the following members:
 | [apply_opacity](/svg/python-net/aspose.svg.drawing/ibitmap/apply_opacity/#float) | Applies the specified opacity to the bitmap image. |
 | [draw_bitmap](/svg/python-net/aspose.svg.drawing/ibitmap/draw_bitmap/#aspose.pydrawing.Rectangle-aspose.pydrawing.Rectangle-aspose.svg.drawing.IBitmap) | Draws the specified source rectangle of the given bitmap onto the specified destination rectangle of the current bitmap. |
 | [fill_rectangle](/svg/python-net/aspose.svg.drawing/ibitmap/fill_rectangle/#aspose.pydrawing.Rectangle-aspose.svg.drawing.IBrush) | Fills the specified rectangle with the specified brush. |
-| [rotate_flip](/svg/python-net/aspose.svg.drawing/ibitmap/rotate_flip/#aspose.pydrawing.RotateFlipType) | Rotates and flips the bitmap image according to the specified rotation and flip type. |
+| [rotate_flip](/svg/python-net/aspose.svg.drawing/ibitmap/rotate_flip/#aspose.svg.drawing.WebRotateFlipType) | Rotates and flips the bitmap image according to the specified rotation and flip type. |
 | [get_pixels_map](/svg/python-net/aspose.svg.drawing/ibitmap/get_pixels_map/#bool-bool) | Retrieves the pixel map representation of the bitmap image, optionally converting to monochrome and allowing transparency color conversion. |
 
 

@@ -39,7 +39,7 @@ The ImageRenderingOptions type exposes the following members:
 | [format](/svg/python-net/aspose.svg.rendering.image/imagerenderingoptions/format) | Sets or gets [`ImageFormat`](/svg/python-net/aspose.svg.rendering.image/imageformat). By default this property is [`ImageFormat.PNG`](/svg/python-net/aspose.svg.rendering.image/imageformat#PNG). |
 | [compression](/svg/python-net/aspose.svg.rendering.image/imagerenderingoptions/compression) | Sets or gets Tagged Image File Format (TIFF) [`Compression`](/svg/python-net/aspose.svg.rendering.image/compression). By default this property is [`Compression.LZW`](/svg/python-net/aspose.svg.rendering.image/compression#LZW). |
 | [text](/svg/python-net/aspose.svg.rendering.image/imagerenderingoptions/text) | Gets a [`TextOptions`](/svg/python-net/aspose.svg.rendering.image/textoptions) object which is used for configuration of text rendering. |
-| [smoothing_mode](/svg/python-net/aspose.svg.rendering.image/imagerenderingoptions/smoothing_mode) | Gets or sets the rendering quality for this Graphics. |
+| [use_antialiasing](/svg/python-net/aspose.svg.rendering.image/imagerenderingoptions/use_antialiasing) | Specifies whether to use antialiasing. By default, antialiasing is enabled. |
 
 
 

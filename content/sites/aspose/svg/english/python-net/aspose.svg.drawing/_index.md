@@ -56,7 +56,9 @@ drawing attribute objects like brushes, colors and fonts.
 | [`SpreadMode`](/svg/python-net/aspose.svg.drawing/spreadmode) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
 | [`StrokeLineCap`](/svg/python-net/aspose.svg.drawing/strokelinecap) | Specifies the line cap used in rendering SVG and HTML. |
 | [`StrokeLineJoin`](/svg/python-net/aspose.svg.drawing/strokelinejoin) | Specifies the line join style used in rendering SVG and HTML. |
+| [`WebFontStyle`](/svg/python-net/aspose.svg.drawing/webfontstyle) | Specifies the formatting applied to the text. |
 | [`WebImageFormat`](/svg/python-net/aspose.svg.drawing/webimageformat) | Specifies the supported image formats. |
 | [`WebMatrixOrder`](/svg/python-net/aspose.svg.drawing/webmatrixorder) | Specifies the order in which matrix transformations are applied. |
+| [`WebRotateFlipType`](/svg/python-net/aspose.svg.drawing/webrotatefliptype) | Specifies the rotation and flip operation to apply to an image. |
 
 

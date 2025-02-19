@@ -25,3 +25,4 @@ def font_style(self, value):
 ### See Also
 * module [`aspose.svg.rendering`](../../)
 * class [`GraphicContext`](/svg/python-net/aspose.svg.rendering/graphiccontext)
+* class [`WebFontStyle`](/svg/python-net/aspose.svg.drawing/webfontstyle)

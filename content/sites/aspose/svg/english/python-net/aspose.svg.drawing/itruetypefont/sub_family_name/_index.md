@@ -3,7 +3,7 @@ title: sub_family_name property
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 90
 url: /python-net/aspose.svg.drawing/itruetypefont/sub_family_name/
 is_root: false
 ---

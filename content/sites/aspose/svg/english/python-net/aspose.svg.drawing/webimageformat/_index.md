@@ -3,7 +3,7 @@ title: WebImageFormat enumeration
 second_title: Aspose.SVG for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /python-net/aspose.svg.drawing/webimageformat/
 is_root: false
 ---
