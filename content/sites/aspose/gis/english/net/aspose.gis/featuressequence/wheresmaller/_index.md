@@ -3,7 +3,7 @@ title: FeaturesSequence.WhereSmaller
 second_title: Aspose.GIS for .NET API Reference
 description: FeaturesSequence method. Selects features with attribute value smaller than the provided value
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.gis/featuressequence/wheresmaller/
 ---
 ## FeaturesSequence.WhereSmaller&lt;T&gt; method

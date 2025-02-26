@@ -14,6 +14,10 @@ Gets the exterior ring.
 public ICurve ExteriorRing { get; }
 ```
 
+### Return Value
+
+The exterior ring.
+
 ### Property Value
 
 The exterior ring.

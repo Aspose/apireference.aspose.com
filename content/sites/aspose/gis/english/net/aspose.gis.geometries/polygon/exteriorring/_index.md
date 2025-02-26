@@ -14,9 +14,13 @@ Gets the exterior ring.
 public ILinearRing ExteriorRing { get; set; }
 ```
 
+### Return Value
+
+The exterior ring. It returns [`ILinearRing`](../../ilinearring/)
+
 ### Property Value
 
-The exterior ring.
+The exterior ring. It returns [`ILinearRing`](../../ilinearring/)
 
 ### Exceptions
 

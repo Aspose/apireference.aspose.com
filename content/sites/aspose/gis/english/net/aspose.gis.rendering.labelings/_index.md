@@ -3,7 +3,7 @@ title: Aspose.Gis.Rendering.Labelings
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Labelings namespace provides classes for configuring vector features labeling
 type: docs
-weight: 380
+weight: 720
 url: /net/aspose.gis.rendering.labelings/
 ---
 `Aspose.Gis.Rendering.Labelings` namespace provides classes for configuring vector features labeling.

@@ -3,7 +3,7 @@ title: Aspose.Gis.Rendering.Sld
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Sld namespace provides classes for configuring SLD import
 type: docs
-weight: 390
+weight: 730
 url: /net/aspose.gis.rendering.sld/
 ---
 `Aspose.Gis.Rendering.Sld` namespace provides classes for configuring SLD import.

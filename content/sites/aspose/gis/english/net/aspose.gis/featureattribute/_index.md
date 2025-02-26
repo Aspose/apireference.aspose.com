@@ -3,7 +3,7 @@ title: Class FeatureAttribute
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.FeatureAttribute class. An attribute of a Feature
 type: docs
-weight: 140
+weight: 1630
 url: /net/aspose.gis/featureattribute/
 ---
 ## FeatureAttribute class

@@ -3,7 +3,7 @@ title: FileGdbDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
 description: FileGdbDriver method. Opens a layer for reading
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/openlayer/
 ---
 ## OpenLayer(string, FileGdbOptions) {#openlayer_5}

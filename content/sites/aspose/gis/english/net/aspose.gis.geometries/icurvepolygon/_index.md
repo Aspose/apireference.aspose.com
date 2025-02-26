@@ -3,7 +3,7 @@ title: Interface ICurvePolygon
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.ICurvePolygon interface. A planar surface defined by 1 exterior boundary and 0 or more interior boundaries
 type: docs
-weight: 1090
+weight: 2770
 url: /net/aspose.gis.geometries/icurvepolygon/
 ---
 ## ICurvePolygon interface

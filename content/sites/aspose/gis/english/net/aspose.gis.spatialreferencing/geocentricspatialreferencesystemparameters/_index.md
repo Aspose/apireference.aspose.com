@@ -3,7 +3,7 @@ title: Class GeocentricSpatialReferenceSystemParameters
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.GeocentricSpatialReferenceSystemParameters class. Parameters to create geocentric SRS. Parameters have reasonable defaults so you will have to assign only some of them. If you assign null to any parameter a default value will be used
 type: docs
-weight: 2210
+weight: 4550
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/
 ---
 ## GeocentricSpatialReferenceSystemParameters class

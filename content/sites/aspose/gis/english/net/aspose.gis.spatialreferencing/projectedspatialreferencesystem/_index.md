@@ -3,7 +3,7 @@ title: Class ProjectedSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystem class. Projected SRS is a result of application a projection to geographic SRS. A projected SRS can be two dimensional or three dimensional. If projected SRS is three dimensional then it is actually a compound SRS of two dimensional projected SRS and one dimensional vertical SRS
 type: docs
-weight: 2330
+weight: 4670
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/
 ---
 ## ProjectedSpatialReferenceSystem class

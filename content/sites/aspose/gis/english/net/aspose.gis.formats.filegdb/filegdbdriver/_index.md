@@ -3,7 +3,7 @@ title: Class FileGdbDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.FileGdb.FileGdbDriver class. A driver for the ESRI File Geodatabase format
 type: docs
-weight: 260
+weight: 1850
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/
 ---
 ## FileGdbDriver class
@@ -44,7 +44,7 @@ public sealed class FileGdbDriver : FileDriver
 | [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer/#createlayer_3)(AbstractPath, FileGdbOptions, SpatialReferenceSystem) | Creates a layer and opens it for appending. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions, SpatialReferenceSystem) | Creates the layer and opens it for appending. |
 | [CreateLayer](../../aspose.gis.formats.filegdb/filegdbdriver/createlayer/#createlayer_9)(string, FileGdbOptions, SpatialReferenceSystem) | Creates a layer and opens it for appending. |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | Opens a layer for editing. |
+| override [EditLayer](../../aspose.gis.formats.filegdb/filegdbdriver/editlayer/#editlayer)(AbstractPath, DriverOptions) | Opens a layer for editing. |
 | [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | Opens a layer for editing. |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | Opens the dataset. |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string) | Opens the dataset. |

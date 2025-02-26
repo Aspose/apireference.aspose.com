@@ -3,7 +3,7 @@ title: MapRasterOptions.PixelPerColumn
 second_title: Aspose.GIS for .NET API Reference
 description: MapRasterOptions property. Width of the raster in pixels
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.gis.geotools.layersmap/maprasteroptions/pixelpercolumn/
 ---
 ## MapRasterOptions.PixelPerColumn property

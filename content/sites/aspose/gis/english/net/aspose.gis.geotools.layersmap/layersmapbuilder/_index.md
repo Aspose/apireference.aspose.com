@@ -3,7 +3,7 @@ title: Class LayersMapBuilder
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools.LayersMap.LayersMapBuilder class. Contains a method for creating maps and all the functions it depends on
 type: docs
-weight: 830
+weight: 2500
 url: /net/aspose.gis.geotools.layersmap/layersmapbuilder/
 ---
 ## LayersMapBuilder class

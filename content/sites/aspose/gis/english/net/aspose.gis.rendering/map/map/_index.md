@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.gis.rendering/map/map/
 ---
-## Map constructor
+## Map(Measurement, Measurement) {#constructor_1}
 
 Creates new instance of the `Map` class.
 
@@ -29,6 +29,22 @@ public Map(Measurement width, Measurement height)
 ### See Also
 
 * struct [Measurement](../../measurement/)
+* class [Map](../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## Map() {#constructor}
+
+Creates new instance of the `Map` class.
+
+```csharp
+public Map()
+```
+
+### See Also
+
 * class [Map](../)
 * namespace [Aspose.Gis.Rendering](../../map/)
 * assembly [Aspose.GIS](../../../)

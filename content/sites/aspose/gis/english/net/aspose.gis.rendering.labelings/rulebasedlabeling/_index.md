@@ -3,7 +3,7 @@ title: Class RuleBasedLabeling
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Labelings.RuleBasedLabeling class. Applies a labeling to feature according to userdefined rules
 type: docs
-weight: 1800
+weight: 4140
 url: /net/aspose.gis.rendering.labelings/rulebasedlabeling/
 ---
 ## RuleBasedLabeling class

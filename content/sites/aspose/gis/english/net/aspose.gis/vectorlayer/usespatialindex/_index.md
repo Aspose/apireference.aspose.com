@@ -3,7 +3,7 @@ title: VectorLayer.UseSpatialIndex
 second_title: Aspose.GIS for .NET API Reference
 description: VectorLayer method. Loads spatial index to speed up filtering by attributes value in filter methods like WhereIntersects and NearestTo. If index does not exist creates it first. Use forceRebuild to force index recreation
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.gis/vectorlayer/usespatialindex/
 ---
 ## UseSpatialIndex(string, bool) {#usespatialindex_1}

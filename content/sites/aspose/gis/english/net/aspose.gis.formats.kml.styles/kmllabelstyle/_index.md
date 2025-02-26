@@ -3,7 +3,7 @@ title: Class KmlLabelStyle
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlLabelStyle class. Specifies how the label is drawn in the geographic view
 type: docs
-weight: 550
+weight: 2170
 url: /net/aspose.gis.formats.kml.styles/kmllabelstyle/
 ---
 ## KmlLabelStyle class

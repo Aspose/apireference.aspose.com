@@ -3,7 +3,7 @@ title: Class BmpRenderer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Formats.Bmp.BmpRenderer class. A Renderer that renders Map into BMP file
 type: docs
-weight: 1670
+weight: 4010
 url: /net/aspose.gis.rendering.formats.bmp/bmprenderer/
 ---
 ## BmpRenderer class

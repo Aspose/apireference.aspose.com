@@ -3,7 +3,7 @@ title: Class PostGisOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.PostGis.PostGisOptions class. Driverspecific options for PostGis format. At the moment the driver provides no customizable options
 type: docs
-weight: 670
+weight: 2300
 url: /net/aspose.gis.formats.postgis/postgisoptions/
 ---
 ## PostGisOptions class

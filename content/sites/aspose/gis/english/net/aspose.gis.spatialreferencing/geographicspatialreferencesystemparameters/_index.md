@@ -3,7 +3,7 @@ title: Class GeographicSpatialReferenceSystemParameters
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.GeographicSpatialReferenceSystemParameters class. Parameters to create geographic SRS. Parameters have reasonable defaults so you will have to assign only some of them. If you assign null to any parameter a default value will be used
 type: docs
-weight: 2250
+weight: 4590
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/
 ---
 ## GeographicSpatialReferenceSystemParameters class

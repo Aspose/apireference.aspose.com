@@ -1,14 +1,14 @@
 ---
 title: Interface IPolygon
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.IPolygon interface. A ICurvePolygon whose boundaries are defined by linear rings
+description: Aspose.Gis.Geometries.IPolygon interface. A IPolygon whose boundaries are defined by linear rings
 type: docs
-weight: 1200
+weight: 2880
 url: /net/aspose.gis.geometries/ipolygon/
 ---
 ## IPolygon interface
 
-A [`ICurvePolygon`](../icurvepolygon/) whose boundaries are defined by linear rings.
+A `IPolygon` whose boundaries are defined by linear rings.
 
 ```csharp
 public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>

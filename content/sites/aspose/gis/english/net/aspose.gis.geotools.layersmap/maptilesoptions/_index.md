@@ -3,7 +3,7 @@ title: Class MapTilesOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools.LayersMap.MapTilesOptions class. Tiles options for creating maps using LayersMapBuilder
 type: docs
-weight: 870
+weight: 2550
 url: /net/aspose.gis.geotools.layersmap/maptilesoptions/
 ---
 ## MapTilesOptions class

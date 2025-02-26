@@ -3,7 +3,7 @@ title: Interface IFeatureStyle
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.IFeatureStyle interface. The interface root class of the feature styles hierarchy
 type: docs
-weight: 1360
+weight: 3040
 url: /net/aspose.gis/ifeaturestyle/
 ---
 ## IFeatureStyle interface

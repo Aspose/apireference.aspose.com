@@ -3,7 +3,7 @@ title: Class VectorMapLayer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.VectorMapLayer class. A layer inside Map that represents a vector layer data
 type: docs
-weight: 2110
+weight: 4450
 url: /net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
@@ -20,10 +20,11 @@ public class VectorMapLayer : MapLayer
 | --- | --- |
 | [VectorMapLayer](vectormaplayer/#constructor)(FeaturesSequence) | Creates new instance with default symbolizer. |
 | [VectorMapLayer](vectormaplayer/#constructor_1)(FeaturesSequence, VectorSymbolizer) | Creates new instance with default symbolizer. |
-| [VectorMapLayer](vectormaplayer/#constructor_5)(VectorLayer, bool) | Creates new instance with default symbolizer. |
-| [VectorMapLayer](vectormaplayer/#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Creates new instance with default symbolizer. |
-| [VectorMapLayer](vectormaplayer/#constructor_4)(VectorLayer, VectorSymbolizer, bool) | Creates new instance. |
-| [VectorMapLayer](vectormaplayer/#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | Creates new instance. |
+| [VectorMapLayer](vectormaplayer/#constructor_6)(VectorLayer, bool) | Creates new instance with default symbolizer. |
+| [VectorMapLayer](vectormaplayer/#constructor_5)(VectorLayer, VectorSymbolizer, bool) | Creates new instance. |
+| [VectorMapLayer](vectormaplayer/#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling, SpatialReferenceSystem) | Creates new instance with default symbolizer. |
+| [VectorMapLayer](vectormaplayer/#constructor_4)(VectorLayer, VectorSymbolizer, Labeling, bool) | Creates new instance. |
+| [VectorMapLayer](vectormaplayer/#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, SpatialReferenceSystem, bool) | Creates new instance. |
 
 ## Properties
 

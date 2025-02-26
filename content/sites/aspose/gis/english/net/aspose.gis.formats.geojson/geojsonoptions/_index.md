@@ -3,7 +3,7 @@ title: Class GeoJsonOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.GeoJson.GeoJsonOptions class. Driverspecific options for GeoJSON format
 type: docs
-weight: 310
+weight: 1900
 url: /net/aspose.gis.formats.geojson/geojsonoptions/
 ---
 ## GeoJsonOptions class

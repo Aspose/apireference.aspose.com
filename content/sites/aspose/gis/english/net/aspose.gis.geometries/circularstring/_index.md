@@ -3,7 +3,7 @@ title: Class CircularString
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.CircularString class. A multivertex curve with circular interpolation between points
 type: docs
-weight: 980
+weight: 2660
 url: /net/aspose.gis.geometries/circularstring/
 ---
 ## CircularString class
@@ -94,7 +94,7 @@ public class CircularString : Curve, ICircularString
 | [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. (2 methods) |
 | [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. (2 methods) |
 | override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | Returns a string that represents the current object. |
-| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)() | Translates this geometry to Svg representation. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)(Extent) | Translates this geometry to Svg representation. |
 | [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | Determines if this geometry and a specified geometry touch. |
 | [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | Unites this geometry and a specified geometry. |
 | [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | Determines whether this geometry is within a specified extent. |

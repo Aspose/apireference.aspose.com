@@ -1,14 +1,14 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.ProjectedSpatialReferenceSystemParameters
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters constructor. The default constructor
+description: ProjectedSpatialReferenceSystemParameters constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters constructor
 
-The default constructor.
+Creates new instance.
 
 ```csharp
 public ProjectedSpatialReferenceSystemParameters()

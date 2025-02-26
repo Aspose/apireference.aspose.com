@@ -3,7 +3,7 @@ title: Enum SpatialReferenceSystemType
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.SpatialReferenceSystemType enum. Represents type of spatial reference system
 type: docs
-weight: 2380
+weight: 4720
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystemtype/
 ---
 ## SpatialReferenceSystemType enumeration

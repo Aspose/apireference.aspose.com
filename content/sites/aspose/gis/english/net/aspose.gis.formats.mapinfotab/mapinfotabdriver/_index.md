@@ -3,7 +3,7 @@ title: Class MapInfoTabDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.MapInfoTab.MapInfoTabDriver class. A driver for the MapInfo Tab format
 type: docs
-weight: 620
+weight: 2240
 url: /net/aspose.gis.formats.mapinfotab/mapinfotabdriver/
 ---
 ## MapInfoTabDriver class

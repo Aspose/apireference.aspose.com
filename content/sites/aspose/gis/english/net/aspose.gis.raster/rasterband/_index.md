@@ -3,7 +3,7 @@ title: Class RasterBand
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Raster.RasterBand class. Contains data about a raster Band
 type: docs
-weight: 1460
+weight: 3800
 url: /net/aspose.gis.raster/rasterband/
 ---
 ## RasterBand class

@@ -43,7 +43,33 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ---
 
-## CreateLayer(SpatialReferenceSystem) {#createlayer_5}
+## CreateLayer(FeaturesSequence) {#createlayer_5}
+
+Creates a layer from features sequence and opens it for adding new features.
+
+```csharp
+public VectorLayer CreateLayer(FeaturesSequence featuresSequence)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| featuresSequence | FeaturesSequence | Features sequence. |
+
+### Return Value
+
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### See Also
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [InMemoryDriver](../)
+* namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## CreateLayer(SpatialReferenceSystem) {#createlayer_6}
 
 Creates a layer and opens it for adding new features.
 

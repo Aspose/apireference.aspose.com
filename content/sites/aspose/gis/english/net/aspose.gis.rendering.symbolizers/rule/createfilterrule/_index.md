@@ -21,7 +21,7 @@ public static Rule CreateFilterRule(Func<Feature, bool> filter, VectorSymbolizer
 
 ### Return Value
 
-New Rule object.
+The New Rule object.
 
 ### Exceptions
 

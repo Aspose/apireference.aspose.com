@@ -14,6 +14,10 @@ Gets the exterior ring.
 public ILinearRing ExteriorRing { get; }
 ```
 
+### Return Value
+
+The exterior ring.
+
 ### Property Value
 
 The exterior ring.

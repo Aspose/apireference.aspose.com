@@ -3,7 +3,7 @@ title: Class Extent
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Extent class. A twodimensional spatial bounding box
 type: docs
-weight: 120
+weight: 1610
 url: /net/aspose.gis/extent/
 ---
 ## Extent class

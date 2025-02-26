@@ -3,7 +3,7 @@ title: Class GeoJsonSeqOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.GeoJsonSeq.GeoJsonSeqOptions class. Driverspecific options for GeoJsonSeq
 type: docs
-weight: 330
+weight: 1920
 url: /net/aspose.gis.formats.geojsonseq/geojsonseqoptions/
 ---
 ## GeoJsonSeqOptions class

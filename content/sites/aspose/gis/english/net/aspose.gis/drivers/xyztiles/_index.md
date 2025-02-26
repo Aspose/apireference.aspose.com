@@ -3,7 +3,7 @@ title: Drivers.XyzTiles
 second_title: Aspose.GIS for .NET API Reference
 description: Drivers property. A driver for the tiled web map like OpenStreetMaps Google Maps etc
 type: docs
-weight: 200
+weight: 260
 url: /net/aspose.gis/drivers/xyztiles/
 ---
 ## Drivers.XyzTiles property

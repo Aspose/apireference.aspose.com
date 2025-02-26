@@ -3,7 +3,7 @@ title: Class ConversionOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.ConversionOptions class. Options for converting data between formats
 type: docs
-weight: 50
+weight: 1400
 url: /net/aspose.gis/conversionoptions/
 ---
 ## ConversionOptions class

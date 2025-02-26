@@ -3,7 +3,7 @@ title: Class SldImportOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Sld.SldImportOptions class. Options for the import of Styled Layer Descriptor file Sld
 type: docs
-weight: 1900
+weight: 4240
 url: /net/aspose.gis.rendering.sld/sldimportoptions/
 ---
 ## SldImportOptions class

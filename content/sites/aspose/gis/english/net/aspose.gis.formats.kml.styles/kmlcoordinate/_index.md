@@ -3,7 +3,7 @@ title: Class KmlCoordinate
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlCoordinate class. Specifies an image coordinate system
 type: docs
-weight: 470
+weight: 2090
 url: /net/aspose.gis.formats.kml.styles/kmlcoordinate/
 ---
 ## KmlCoordinate class

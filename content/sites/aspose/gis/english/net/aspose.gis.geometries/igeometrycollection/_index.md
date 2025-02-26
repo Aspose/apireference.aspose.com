@@ -3,7 +3,7 @@ title: Interface IGeometryCollection
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.IGeometryCollection interface. A IGeometryCollection is a IGeometry that is a collection of one or more geometries
 type: docs
-weight: 1110
+weight: 2790
 url: /net/aspose.gis.geometries/igeometrycollection/
 ---
 ## IGeometryCollection interface

@@ -32,6 +32,7 @@ url: /net/aspose.gis/
 | [GisException](./gisexception/) | The exception that is thrown when an error occurs during GIS data processing. |
 | [License](./license/) | Provides methods to license the component. |
 | [Metered](./metered/) | Provides methods to set metered key. |
+| [MultiStreamPath](./multistreampath/) | This class works with formats which contains several files. |
 | [NumericFormat](./numericformat/) | [`NumericFormat`](../aspose.gis/numericformat/) are used to format common numeric types in text. |
 | [PrecisionModel](./precisionmodel/) | [`PrecisionModel`](../aspose.gis/precisionmodel/) specifies a number of significant digits in a coordinate. |
 | [RasterDriver](./rasterdriver/) | A driver for a specific raster based format. |

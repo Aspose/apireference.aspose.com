@@ -3,7 +3,7 @@ title: Class Dataset
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Dataset class. A dataset is the collection of VectorLayer instances
 type: docs
-weight: 80
+weight: 1430
 url: /net/aspose.gis/dataset/
 ---
 ## Dataset class
@@ -43,11 +43,14 @@ public abstract class Dataset : IDisposable
 | virtual [CreateLayer](../../aspose.gis/dataset/createlayer/#createlayer_3)(string, DriverOptions, SpatialReferenceSystem) | Creates a new vector layer with specified name and opens it for appending. |
 | [Dispose](../../aspose.gis/dataset/dispose/)() | Releases the resources used by the `Dataset`. |
 | abstract [EditLayer](../../aspose.gis/dataset/editlayer/)(string, DriverOptions, SpatialReferenceSystem) | Opens the layer with specified name for editing. |
+| abstract [EditLayerAt](../../aspose.gis/dataset/editlayerat/)(int, DriverOptions, SpatialReferenceSystem) | Opens the layer with specified name for editing. |
 | abstract [GetLayerName](../../aspose.gis/dataset/getlayername/)(int) | Gets the name of the layer at specified index. |
+| virtual [HasLayerWithName](../../aspose.gis/dataset/haslayerwithname/)(string) | Check has current dataset a layer with specific name |
 | abstract [OpenLayer](../../aspose.gis/dataset/openlayer/)(string, DriverOptions) | Opens the layer with specified name for reading. |
 | abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat/)(int, DriverOptions) | Opens the layer at specified index for reading. |
 | virtual [RemoveLayer](../../aspose.gis/dataset/removelayer/)(string) | Removes the vector layer with specified name. |
 | virtual [RemoveLayerAt](../../aspose.gis/dataset/removelayerat/)(int) | Removes the vector layer at specified index. |
+| virtual [RenameLayer](../../aspose.gis/dataset/renamelayer/)(string, string) | Rename layer in dataset |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class Unit
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.Unit class. Represent measurement unit
 type: docs
-weight: 2400
+weight: 4740
 url: /net/aspose.gis.spatialreferencing/unit/
 ---
 ## Unit class

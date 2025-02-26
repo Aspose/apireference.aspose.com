@@ -3,7 +3,7 @@ title: Enum KmlItemIconStates
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlItemIconStates enum. Specifies the current state of a kmlNetworkLink or kmlFolder
 type: docs
-weight: 530
+weight: 2150
 url: /net/aspose.gis.formats.kml.styles/kmlitemiconstates/
 ---
 ## KmlItemIconStates enumeration

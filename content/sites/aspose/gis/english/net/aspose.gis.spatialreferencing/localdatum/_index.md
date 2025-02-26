@@ -3,7 +3,7 @@ title: Class LocalDatum
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.LocalDatum class. Indicates method used for measurements in local spatial reference system
 type: docs
-weight: 2280
+weight: 4620
 url: /net/aspose.gis.spatialreferencing/localdatum/
 ---
 ## LocalDatum class

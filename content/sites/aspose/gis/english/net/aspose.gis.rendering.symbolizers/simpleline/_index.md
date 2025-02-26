@@ -3,7 +3,7 @@ title: Class SimpleLine
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.SimpleLine class. Simple line symbolizer
 type: docs
-weight: 2060
+weight: 4400
 url: /net/aspose.gis.rendering.symbolizers/simpleline/
 ---
 ## SimpleLine class

@@ -3,7 +3,7 @@ title: Struct Measurement
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Measurement struct. A number that indicates a render measurement
 type: docs
-weight: 1850
+weight: 4190
 url: /net/aspose.gis.rendering/measurement/
 ---
 ## Measurement structure

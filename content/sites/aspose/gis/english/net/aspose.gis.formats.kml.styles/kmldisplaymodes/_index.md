@@ -3,7 +3,7 @@ title: Enum KmlDisplayModes
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlDisplayModes enum. Controls whether the element is displayed or hidden
 type: docs
-weight: 480
+weight: 2100
 url: /net/aspose.gis.formats.kml.styles/kmldisplaymodes/
 ---
 ## KmlDisplayModes enumeration

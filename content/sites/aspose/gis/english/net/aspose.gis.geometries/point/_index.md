@@ -3,7 +3,7 @@ title: Class Point
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.Point class. A Point represents a single location in coordinate space
 type: docs
-weight: 1290
+weight: 2970
 url: /net/aspose.gis.geometries/point/
 ---
 ## Point class
@@ -89,7 +89,7 @@ public class Point : Geometry, IPoint
 | [ToLinearGeometry](../../aspose.gis.geometries/geometry/tolineargeometry/)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. |
 | [ToLinearGeometry](../../aspose.gis.geometries/geometry/tolineargeometry/)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. |
 | override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | Returns a string that represents the current object. |
-| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)() | Translates this geometry to Svg representation. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)(Extent) | Translates this geometry to Svg representation. |
 | [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | Determines if this geometry and a specified geometry touch. |
 | [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | Unites this geometry and a specified geometry. |
 | [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | Determines whether this geometry is within a specified extent. |

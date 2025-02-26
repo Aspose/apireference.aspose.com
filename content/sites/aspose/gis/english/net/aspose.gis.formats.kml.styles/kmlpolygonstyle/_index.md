@@ -3,7 +3,7 @@ title: Class KmlPolygonStyle
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.Kml.Styles.KmlPolygonStyle class. Specifies the drawing style for a Polygon including a Polygon and the extruded portion of a kmlPolygon or LineString
 type: docs
-weight: 580
+weight: 2200
 url: /net/aspose.gis.formats.kml.styles/kmlpolygonstyle/
 ---
 ## KmlPolygonStyle class

@@ -3,7 +3,7 @@ title: Class CompoundSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.CompoundSpatialReferenceSystem class. Compound SRS unites two underlying SRS none of which can be compound
 type: docs
-weight: 2170
+weight: 4510
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/
 ---
 ## CompoundSpatialReferenceSystem class

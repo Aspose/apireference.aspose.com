@@ -3,7 +3,7 @@ title: Class GeometryCollection
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.GeometryCollection class. A GeometryCollection is a Geometry that is a collection of one or more geometries
 type: docs
-weight: 1030
+weight: 2710
 url: /net/aspose.gis.geometries/geometrycollection/
 ---
 ## GeometryCollection class
@@ -88,7 +88,7 @@ public class GeometryCollection : Geometry, IGeometryCollection
 | [ToLinearGeometry](../../aspose.gis.geometries/geometrycollection/tolineargeometry/#tolineargeometry_2)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. (2 methods) |
 | [ToLinearGeometry](../../aspose.gis.geometries/geometrycollection/tolineargeometry/#tolineargeometry_3)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. (2 methods) |
 | override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | Returns a string that represents the current object. |
-| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)() | Translates this geometry to Svg representation. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)(Extent) | Translates this geometry to Svg representation. |
 | [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | Determines if this geometry and a specified geometry touch. |
 | [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | Unites this geometry and a specified geometry. |
 | [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | Determines whether this geometry is within a specified extent. |

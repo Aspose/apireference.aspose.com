@@ -3,7 +3,7 @@ title: Class WebTiles
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Raster.Web.WebTiles class. Provides access to web tiles
 type: docs
-weight: 1550
+weight: 3890
 url: /net/aspose.gis.raster.web/webtiles/
 ---
 ## WebTiles class

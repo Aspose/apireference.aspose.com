@@ -3,7 +3,7 @@ title: Class RasterLayer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Raster.RasterLayer class. Represents a raster layer
 type: docs
-weight: 1490
+weight: 3830
 url: /net/aspose.gis.raster/rasterlayer/
 ---
 ## RasterLayer class

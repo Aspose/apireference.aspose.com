@@ -3,7 +3,7 @@ title: Class SingleBandColor
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Colorizers.SingleBandColor class. Single band colorizer specifies a gray component for a raster
 type: docs
-weight: 1650
+weight: 3990
 url: /net/aspose.gis.rendering.colorizers/singlebandcolor/
 ---
 ## SingleBandColor class
@@ -18,7 +18,7 @@ public class SingleBandColor : RasterColorizer
 
 | Name | Description |
 | --- | --- |
-| [SingleBandColor](singlebandcolor/)() | The default constructor. |
+| [SingleBandColor](singlebandcolor/)() | Initializes a new instance of the `SingleBandColor` class. |
 
 ## Properties
 

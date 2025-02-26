@@ -16,7 +16,7 @@ public FileGdbCoordinatePrecisionGrid CoordinatePrecisionGrid { get; set; }
 
 ## Remarks
 
-This is a creation option and it does not affect reading. The coordinate precision grid defines the valid domain and resolution of coordinates in FileGDB. When this property is set to `null` default values are used. Refer to [`FileGdbCoordinatePrecisionGrid`](../../filegdbcoordinateprecisiongrid/) documentation for more details on coordinate precision grids.
+This is a creation option and it does not affect reading and editing. The coordinate precision grid defines the valid domain and resolution of coordinates in FileGDB. When this property is set to `null` default values are used. Refer to [`FileGdbCoordinatePrecisionGrid`](../../filegdbcoordinateprecisiongrid/) documentation for more details on coordinate precision grids.
 
 ### See Also
 

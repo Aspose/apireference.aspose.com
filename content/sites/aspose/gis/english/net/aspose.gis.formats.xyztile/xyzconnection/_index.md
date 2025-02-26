@@ -3,7 +3,7 @@ title: Class XyzConnection
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.XyzTile.XyzConnection class. A connection for the XyzTiles format
 type: docs
-weight: 750
+weight: 2400
 url: /net/aspose.gis.formats.xyztile/xyzconnection/
 ---
 ## XyzConnection class

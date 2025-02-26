@@ -3,7 +3,7 @@ title: Interface IMultiPolygon
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.IMultiPolygon interface. A IMultiPolygon is a onedimensional IGeometryCollection whose elements are IPolygons
 type: docs
-weight: 1170
+weight: 2850
 url: /net/aspose.gis.geometries/imultipolygon/
 ---
 ## IMultiPolygon interface

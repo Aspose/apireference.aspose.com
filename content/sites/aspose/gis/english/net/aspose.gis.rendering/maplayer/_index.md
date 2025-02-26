@@ -3,7 +3,7 @@ title: Class MapLayer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.MapLayer class. A MapLayeris a base class for layers inside the Map
 type: docs
-weight: 1840
+weight: 4180
 url: /net/aspose.gis.rendering/maplayer/
 ---
 ## MapLayer class

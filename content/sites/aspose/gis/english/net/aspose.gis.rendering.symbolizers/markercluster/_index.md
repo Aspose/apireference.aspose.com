@@ -3,7 +3,7 @@ title: Class MarkerCluster
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Symbolizers.MarkerCluster class. Marker cluster symbolizer
 type: docs
-weight: 1950
+weight: 4290
 url: /net/aspose.gis.rendering.symbolizers/markercluster/
 ---
 ## MarkerCluster class

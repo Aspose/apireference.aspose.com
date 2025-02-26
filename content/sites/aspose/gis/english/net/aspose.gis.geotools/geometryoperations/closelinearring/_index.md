@@ -3,7 +3,7 @@ title: GeometryOperations.CloseLinearRing
 second_title: Aspose.GIS for .NET API Reference
 description: GeometryOperations method. Closes geometric segments in rings if it needs
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.gis.geotools/geometryoperations/closelinearring/
 ---
 ## GeometryOperations.CloseLinearRing method

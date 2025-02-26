@@ -3,7 +3,7 @@ title: Class PrecisionModel
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.PrecisionModel class. PrecisionModel specifies a number of significant digits in a coordinate
 type: docs
-weight: 1410
+weight: 3700
 url: /net/aspose.gis/precisionmodel/
 ---
 ## PrecisionModel class

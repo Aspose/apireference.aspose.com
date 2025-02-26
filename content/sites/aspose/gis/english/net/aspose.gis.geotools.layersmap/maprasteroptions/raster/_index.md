@@ -3,7 +3,7 @@ title: MapRasterOptions.Raster
 second_title: Aspose.GIS for .NET API Reference
 description: MapRasterOptions property. Raster layer
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.gis.geotools.layersmap/maprasteroptions/raster/
 ---
 ## MapRasterOptions.Raster property

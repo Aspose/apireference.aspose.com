@@ -3,7 +3,7 @@ title: Enum WkbVariant
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Geometries.WkbVariant enum. The variant of WellKnown Binary
 type: docs
-weight: 1320
+weight: 3000
 url: /net/aspose.gis.geometries/wkbvariant/
 ---
 ## WkbVariant enumeration

@@ -3,7 +3,7 @@ title: Class BandColor
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Colorizers.BandColor class. Associates band values and a color component for specified band index. There are band values between min and max will be interpolated linearly
 type: docs
-weight: 1610
+weight: 3950
 url: /net/aspose.gis.rendering.colorizers/bandcolor/
 ---
 ## BandColor class
@@ -18,7 +18,7 @@ public class BandColor
 
 | Name | Description |
 | --- | --- |
-| [BandColor](bandcolor/)() | The default constructor. |
+| [BandColor](bandcolor/)() | Initializes a new instance of the `BandColor` class. |
 
 ## Properties
 

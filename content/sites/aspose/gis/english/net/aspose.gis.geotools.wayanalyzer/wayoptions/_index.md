@@ -3,7 +3,7 @@ title: Class WayOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools.WayAnalyzer.WayOptions class. Options to find a way on the map
 type: docs
-weight: 970
+weight: 2650
 url: /net/aspose.gis.geotools.wayanalyzer/wayoptions/
 ---
 ## WayOptions class

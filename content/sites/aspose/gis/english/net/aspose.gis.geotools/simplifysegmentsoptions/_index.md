@@ -3,7 +3,7 @@ title: Class SimplifySegmentsOptions
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools.SimplifySegmentsOptions class. Options for SimplifySegments
 type: docs
-weight: 940
+weight: 2620
 url: /net/aspose.gis.geotools/simplifysegmentsoptions/
 ---
 ## SimplifySegmentsOptions class

@@ -3,7 +3,7 @@ title: Enum AxisDirection
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.SpatialReferencing.AxisDirection enum. Axis direction defines direction at which axis is pointing
 type: docs
-weight: 2150
+weight: 4490
 url: /net/aspose.gis.spatialreferencing/axisdirection/
 ---
 ## AxisDirection enumeration

@@ -3,7 +3,7 @@ title: Class PngRenderer
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Formats.Png.PngRenderer class. A Renderer that renders Map into PNG file
 type: docs
-weight: 1690
+weight: 4030
 url: /net/aspose.gis.rendering.formats.png/pngrenderer/
 ---
 ## PngRenderer class

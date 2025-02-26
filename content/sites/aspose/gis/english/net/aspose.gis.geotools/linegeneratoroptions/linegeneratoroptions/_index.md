@@ -1,14 +1,14 @@
 ---
 title: LineGeneratorOptions.LineGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: LineGeneratorOptions constructor. The default constructor
+description: LineGeneratorOptions constructor. Create an instance with init fields by default
 type: docs
 weight: 10
 url: /net/aspose.gis.geotools/linegeneratoroptions/linegeneratoroptions/
 ---
 ## LineGeneratorOptions constructor
 
-The default constructor.
+Create an instance with init fields by default.
 
 ```csharp
 public LineGeneratorOptions()

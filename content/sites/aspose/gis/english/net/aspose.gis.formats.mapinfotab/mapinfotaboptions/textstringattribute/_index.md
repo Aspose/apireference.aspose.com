@@ -3,7 +3,7 @@ title: MapInfoTabOptions.TextStringAttribute
 second_title: Aspose.GIS for .NET API Reference
 description: MapInfoTabOptions property. Specifies name of the attribute that represents text of Text graphical object
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.gis.formats.mapinfotab/mapinfotaboptions/textstringattribute/
 ---
 ## MapInfoTabOptions.TextStringAttribute property

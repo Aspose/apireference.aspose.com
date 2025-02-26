@@ -3,7 +3,7 @@ title: VectorLayer.JoinByGeometry
 second_title: Aspose.GIS for .NET API Reference
 description: VectorLayer method. Joins a layer to the current layer by geometry
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.gis/vectorlayer/joinbygeometry/
 ---
 ## VectorLayer.JoinByGeometry method

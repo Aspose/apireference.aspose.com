@@ -3,7 +3,7 @@ title: Enum StrokeStyle
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.StrokeStyle enum. Specifies a stroke style
 type: docs
-weight: 1910
+weight: 4250
 url: /net/aspose.gis.rendering/strokestyle/
 ---
 ## StrokeStyle enumeration

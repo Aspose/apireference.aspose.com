@@ -3,7 +3,7 @@ title: Enum MultipartMode
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Rendering.Labelings.MultipartMode enum. Specifies how labels are rendered for features that contain multipart geometries
 type: docs
-weight: 1770
+weight: 4110
 url: /net/aspose.gis.rendering.labelings/multipartmode/
 ---
 ## MultipartMode enumeration

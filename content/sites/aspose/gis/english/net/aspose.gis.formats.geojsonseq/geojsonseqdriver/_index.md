@@ -3,7 +3,7 @@ title: Class GeoJsonSeqDriver
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.Formats.GeoJsonSeq.GeoJsonSeqDriver class. A driver for the GeoJSON Seq format
 type: docs
-weight: 320
+weight: 1910
 url: /net/aspose.gis.formats.geojsonseq/geojsonseqdriver/
 ---
 ## GeoJsonSeqDriver class

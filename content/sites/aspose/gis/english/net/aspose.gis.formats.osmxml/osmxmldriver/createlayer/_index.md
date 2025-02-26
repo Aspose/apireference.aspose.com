@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.gis.formats.osmxml/osmxmldriver/createlayer/
 ---
-## CreateLayer(string, OsmXmlOptions) {#createlayer_7}
+## CreateLayer(string, OsmXmlOptions) {#createlayer_8}
 
 Creates a layer and opens it for adding new features.
 
@@ -76,7 +76,7 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ---
 
-## CreateLayer(string, OsmXmlOptions, SpatialReferenceSystem) {#createlayer_8}
+## CreateLayer(string, OsmXmlOptions, SpatialReferenceSystem) {#createlayer_9}
 
 Creates a layer and opens it for adding new features.
 
@@ -105,6 +105,44 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 ### See Also
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [OsmXmlOptions](../../osmxmloptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [OsmXmlDriver](../)
+* namespace [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## CreateLayer(AbstractPath, OsmXmlOptions, SpatialReferenceSystem) {#createlayer_3}
+
+Creates a layer and opens it for adding new features.
+
+```csharp
+public VectorLayer CreateLayer(AbstractPath path, OsmXmlOptions options, 
+    SpatialReferenceSystem spatialReferenceSystem)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | AbstractPath | Path to the file. |
+| options | OsmXmlOptions | Driver-specific options. |
+| spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system. |
+
+### Return Value
+
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| InvalidOperationException | The layer already exists. |
+| NotSupportedException | Spatial reference system is not supported by the driver. |
+
+### See Also
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [OsmXmlOptions](../../osmxmloptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [OsmXmlDriver](../)

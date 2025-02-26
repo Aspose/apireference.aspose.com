@@ -1,14 +1,14 @@
 ---
 title: MultiBandColor.MultiBandColor
 second_title: Aspose.GIS for .NET API Reference
-description: MultiBandColor constructor. The default constructor
+description: MultiBandColor constructor. Initializes a new instance of the MultiBandColor class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.colorizers/multibandcolor/multibandcolor/
 ---
 ## MultiBandColor constructor
 
-The default constructor.
+Initializes a new instance of the [`MultiBandColor`](../) class.
 
 ```csharp
 public MultiBandColor()
