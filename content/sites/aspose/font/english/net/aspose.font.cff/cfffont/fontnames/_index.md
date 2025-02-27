@@ -3,7 +3,7 @@ title: CffFont.FontNames
 second_title: Aspose.Font for .NET API Reference
 description: CffFont property. Get Font names
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.font.cff/cfffont/fontnames/
 ---
 ## CffFont.FontNames property

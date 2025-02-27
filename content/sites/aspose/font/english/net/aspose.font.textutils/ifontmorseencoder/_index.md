@@ -3,7 +3,7 @@ title: Interface IFontMorseEncoder
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TextUtils.IFontMorseEncoder interface. Declares functionality to encode text by Morse code and get result as font glyphs
 type: docs
-weight: 670
+weight: 730
 url: /net/aspose.font.textutils/ifontmorseencoder/
 ---
 ## IFontMorseEncoder interface

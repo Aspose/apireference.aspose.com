@@ -3,7 +3,7 @@ title: Class TtfHmtxTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfHmtxTable class. Represents hmtx table of the TTF Font file
 type: docs
-weight: 1010
+weight: 1070
 url: /net/aspose.font.ttftables/ttfhmtxtable/
 ---
 ## TtfHmtxTable class

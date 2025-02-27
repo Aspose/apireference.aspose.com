@@ -15,5 +15,6 @@ The **Aspose.Font.Cff** namespace provides classes describing objects related to
 | [CffEncoding](./cffencoding/) | Represents CFF Font encoding. |
 | [CffFont](./cfffont/) | Represents Compact Font Format (CFF). |
 | [CffFontMetrics](./cfffontmetrics/) | Represents CFF Font metrics. |
+| [CffFontsSettings](./cfffontssettings/) | Provides settings common to CFF fonts. |
 
 

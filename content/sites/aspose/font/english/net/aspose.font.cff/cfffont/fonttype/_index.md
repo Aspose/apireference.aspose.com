@@ -3,7 +3,7 @@ title: CffFont.FontType
 second_title: Aspose.Font for .NET API Reference
 description: CffFont property. Gets Font type. Returns FontType.CFF value
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.font.cff/cfffont/fonttype/
 ---
 ## CffFont.FontType property

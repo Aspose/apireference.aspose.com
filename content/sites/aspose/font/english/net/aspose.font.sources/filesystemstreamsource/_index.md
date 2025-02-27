@@ -3,7 +3,7 @@ title: Class FileSystemStreamSource
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Sources.FileSystemStreamSource class. Represents a stream source based on file system
 type: docs
-weight: 620
+weight: 680
 url: /net/aspose.font.sources/filesystemstreamsource/
 ---
 ## FileSystemStreamSource class

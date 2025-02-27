@@ -3,7 +3,7 @@ title: Aspose.Font.TtfHelpers
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.TtfHelpers namespace provides classes and interfaces for work with expanded functionality on TTF font objects
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.font.ttfhelpers/
 ---
 The **Aspose.Font.TtfHelpers** namespace provides classes and interfaces for work with expanded functionality on TTF font objects

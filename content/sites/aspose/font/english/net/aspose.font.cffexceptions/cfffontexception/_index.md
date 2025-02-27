@@ -3,7 +3,7 @@ title: Class CffFontException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.CffExceptions.CffFontException class. Represents common processing related exception for fonts of CFF format
 type: docs
-weight: 50
+weight: 110
 url: /net/aspose.font.cffexceptions/cfffontexception/
 ---
 ## CffFontException class
