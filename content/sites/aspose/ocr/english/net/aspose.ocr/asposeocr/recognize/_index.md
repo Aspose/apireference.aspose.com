@@ -3,7 +3,7 @@ title: Recognize
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on images / documents. Supports GIF PNG JPEG BMP TIFF JFIF stream directory arrays archives.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/asposeocr/recognize/
 ---
 ## Recognize(OcrInput) {#recognize}
