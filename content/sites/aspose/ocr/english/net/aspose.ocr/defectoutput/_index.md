@@ -3,7 +3,7 @@ title: DefectOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Areas containing defects identified in the image.
 type: docs
-weight: 280
+weight: 320
 url: /net/aspose.ocr/defectoutput/
 ---
 ## DefectOutput class

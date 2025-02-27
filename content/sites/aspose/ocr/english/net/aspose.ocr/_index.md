@@ -1,12 +1,12 @@
 ---
 title: Aspose.OCR
 second_title: Aspose.OCR for .NET API Reference
-description: The Aspose.OCR contains tools for image recognition skew correction text areas detection and spell check.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.ocr/
 ---
-The **Aspose.OCR** contains tools for image recognition, skew correction, text areas detection and spell check.
+
 
 ## Classes
 
@@ -23,12 +23,14 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [ImageData](./imagedata) | Information about processed / recognized image. |
 | [ImageProcessing](./imageprocessing) | Helper class for Aspose OCR library. Allows to preprocess and save images. |
 | [InvoiceRecognitionSettings](./invoicerecognitionsettings) | Settings for the invoice recognition. Contains elements that allow customizing the recognition process. |
+| [LanguageDetectionOutput](./languagedetectionoutput) | Languages detected in the image text. |
 | [License](./license) | Provides methods to license the component. |
 | [Logging](./logging) | Class to create log configurations. |
 | [Metered](./metered) | Provides methods to set metered key. |
 | [OcrInput](./ocrinput) | Container to collect all images / documents for preprocessing / recognition. |
 | [OcrOutput](./ocroutput) | A container class to store and manage the results of OCR operations. |
 | [OcrRecognizeEventHandler](./ocrrecognizeeventhandler) | A delegate to track the progress of multi-page image recognition. |
+| [OnnxRuntimeSessionOptions](./onnxruntimesessionoptions) | Configuration options for creating ONNX InferenceSession. We recommend keeping the optimized defaults unless you are absolutely certain about the modifications. For technical details, refer to ONNX Runtime documentation. |
 | [PassportRecognitionSettings](./passportrecognitionsettings) | Settings for the passport recognition. Contains elements that allow customizing the recognition process. |
 | [ReceiptRecognitionSettings](./receiptrecognitionsettings) | Settings for the receipt recognition. Contains elements that allow customizing the recognition process. |
 | [RecognitionResult](./recognitionresult) | The results of the image recognition. Contains elements with recognition information and methods for result export. |
@@ -45,6 +47,8 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [Country](./country) | For better passport recognition point the passport country. |
 | [DefectType](./defecttype) | The types of image defects. |
 | [DetectAreasMode](./detectareasmode) | Determines the type of neural network used for areas detection. |
+| [ExecutionModeOnnx](./executionmodeonnx) | Controls whether you want to execute operators in the graph one-by-one or in concurrently. |
+| [GraphOptimizationLevelOnnx](./graphoptimizationlevelonnx) | Graph optimization level to use with SessionOptions. For technical details, refer to ONNX Runtime documentation. |
 | [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
 | [Language](./language) | Languages used for OCR. ISO 939-3 Code. |
 | [LoggingLevel](./logginglevel) | Defines the type of logs to display. |

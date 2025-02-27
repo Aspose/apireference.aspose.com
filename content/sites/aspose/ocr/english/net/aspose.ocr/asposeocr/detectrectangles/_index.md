@@ -3,7 +3,7 @@ title: DetectRectangles
 second_title: Aspose.OCR for .NET API Reference
 description: Detects text areas on images. Supports GIF PNG JPEG BMP TIFF JFIF stream folder arrays archives.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.ocr/asposeocr/detectrectangles/
 ---
 ## DetectRectangles(OcrInput) {#detectrectangles}
