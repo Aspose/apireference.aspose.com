@@ -3,7 +3,7 @@ title: Class SvgConversionException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.SvgConversionException class. Represents Font conversion exception for SVG format. The exception can be thrown in case of errors during font conversion process
 type: docs
-weight: 150
+weight: 210
 url: /net/aspose.font.exceptions/svgconversionexception/
 ---
 ## SvgConversionException class

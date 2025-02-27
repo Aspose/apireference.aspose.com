@@ -3,7 +3,7 @@ title: Aspose.Font.Exceptions
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.Exceptions namespace provides classes describing exceptions used in Aspose.Font
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.font.exceptions/
 ---
 The **Aspose.Font.Exceptions** namespace provides classes describing exceptions used in Aspose.Font.

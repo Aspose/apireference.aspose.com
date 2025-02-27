@@ -3,7 +3,7 @@ title: Class TransformationMatrix
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TransformationMatrix class. Represents 3x3 transformation matrix  A B 0   C D 0   TX TY 1 . Transforms coordinates in the following way x1  Ax  Cy  TX y1  Bx  Dy  TY
 type: docs
-weight: 710
+weight: 770
 url: /net/aspose.font/transformationmatrix/
 ---
 ## TransformationMatrix class
@@ -19,7 +19,8 @@ public class TransformationMatrix : ICloneable
 | Name | Description |
 | --- | --- |
 | [TransformationMatrix](transformationmatrix/#constructor)() | Creates standard 1 to 1 transformation matrix: [ A B C D TX TY ] = [ 1, 0, 0, 1, 0, 0]. |
-| [TransformationMatrix](transformationmatrix/#constructor_1)(double[]) | Accepts a transformation matrix with following array representation: [ A B C D TX TY ]. |
+| [TransformationMatrix](transformationmatrix/#constructor_2)(double[]) | Accepts a transformation matrix with following array representation: [ A B C D TX TY ]. |
+| [TransformationMatrix](transformationmatrix/#constructor_1)(double, double, double, double, double, double) | Creates transformation matrix [ A B C D TX TY ] |
 
 ## Properties
 

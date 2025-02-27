@@ -3,7 +3,7 @@ title: CffFont.FontDefinition
 second_title: Aspose.Font for .NET API Reference
 description: CffFont property. Gets Font definition
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.font.cff/cfffont/fontdefinition/
 ---
 ## CffFont.FontDefinition property

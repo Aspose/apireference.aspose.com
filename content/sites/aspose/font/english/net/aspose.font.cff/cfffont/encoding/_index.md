@@ -3,7 +3,7 @@ title: CffFont.Encoding
 second_title: Aspose.Font for .NET API Reference
 description: CffFont property. Gets Font encoding
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.font.cff/cfffont/encoding/
 ---
 ## CffFont.Encoding property

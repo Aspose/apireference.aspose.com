@@ -3,7 +3,7 @@ title: Aspose.Font.TtfCMapFormats
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.TtfCMapFormats namespace provides classes for work with different formats of CMap subtables
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.font.ttfcmapformats/
 ---
 The **Aspose.Font.TtfCMapFormats** namespace provides classes for work with different formats of CMap subtables.

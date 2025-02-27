@@ -3,7 +3,7 @@ title: Enum FontEnvironment.ParsingStrictness
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.FontEnvironmentParsingStrictness enum. Parsing strictness types
 type: docs
-weight: 200
+weight: 260
 url: /net/aspose.font/fontenvironment.parsingstrictness/
 ---
 ## FontEnvironment.ParsingStrictness enumeration

@@ -3,7 +3,7 @@ title: Class TtfOs2Table
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfOs2Table class. Represents OS/2 table of the TTF Font file
 type: docs
-weight: 1170
+weight: 1230
 url: /net/aspose.font.ttftables/ttfos2table/
 ---
 ## TtfOs2Table class

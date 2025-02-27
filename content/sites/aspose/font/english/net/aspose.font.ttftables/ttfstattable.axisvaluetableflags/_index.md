@@ -3,7 +3,7 @@ title: Enum TtfStatTable.AxisValueTableFlags
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfStatTableAxisValueTableFlags enum. Specifies axis value table flags
 type: docs
-weight: 1240
+weight: 1300
 url: /net/aspose.font.ttftables/ttfstattable.axisvaluetableflags/
 ---
 ## TtfStatTable.AxisValueTableFlags enumeration

@@ -3,7 +3,7 @@ title: Class TtfCMapTable.TtfCMapSubtableDescription
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfCMapTableTtfCMapSubtableDescription class. Provides brief information about CMap subtable
 type: docs
-weight: 910
+weight: 970
 url: /net/aspose.font.ttftables/ttfcmaptable.ttfcmapsubtabledescription/
 ---
 ## TtfCMapTable.TtfCMapSubtableDescription class

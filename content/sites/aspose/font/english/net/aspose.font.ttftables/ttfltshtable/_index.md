@@ -3,7 +3,7 @@ title: Class TtfLtshTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfLtshTable class. Represents Linear Threshold table of the TTF Font file
 type: docs
-weight: 1060
+weight: 1120
 url: /net/aspose.font.ttftables/ttfltshtable/
 ---
 ## TtfLtshTable class

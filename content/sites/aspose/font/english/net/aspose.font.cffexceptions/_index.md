@@ -3,7 +3,7 @@ title: Aspose.Font.CffExceptions
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.CffExceptions namespace provides classes describing exceptions related to Compact Font Format
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.font.cffexceptions/
 ---
 The **Aspose.Font.CffExceptions** namespace provides classes describing exceptions related to Compact Font Format.

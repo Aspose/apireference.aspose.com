@@ -3,7 +3,7 @@ title: Class IncorrectFontDataException
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Exceptions.IncorrectFontDataException class. Represents exceptions for cases when some values of Font object are invalid
 type: docs
-weight: 130
+weight: 190
 url: /net/aspose.font.exceptions/incorrectfontdataexception/
 ---
 ## IncorrectFontDataException class

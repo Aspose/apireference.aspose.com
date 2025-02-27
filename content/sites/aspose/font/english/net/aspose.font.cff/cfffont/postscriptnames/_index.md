@@ -3,7 +3,7 @@ title: CffFont.PostscriptNames
 second_title: Aspose.Font for .NET API Reference
 description: CffFont property. Gets postscript Font names
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.font.cff/cfffont/postscriptnames/
 ---
 ## CffFont.PostscriptNames property

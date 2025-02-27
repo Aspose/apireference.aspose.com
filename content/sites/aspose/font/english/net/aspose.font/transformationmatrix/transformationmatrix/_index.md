@@ -22,7 +22,7 @@ public TransformationMatrix()
 
 ---
 
-## TransformationMatrix(double[]) {#constructor_1}
+## TransformationMatrix(double[]) {#constructor_2}
 
 Accepts a transformation matrix with following array representation: [ A B C D TX TY ].
 
@@ -33,6 +33,31 @@ public TransformationMatrix(double[] matrixArray)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | matrixArray | Double[] | Array with transformation matrix values, must have 6 elements. |
+
+### See Also
+
+* class [TransformationMatrix](../)
+* namespace [Aspose.Font](../../../aspose.font/)
+* assembly [Aspose.Font](../../../)
+
+---
+
+## TransformationMatrix(double, double, double, double, double, double) {#constructor_1}
+
+Creates transformation matrix [ A B C D TX TY ]
+
+```csharp
+public TransformationMatrix(double a, double b, double c, double d, double tx, double ty)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | Double | A. |
+| b | Double | B. |
+| c | Double | C. |
+| d | Double | D. |
+| tx | Double | TX. |
+| ty | Double | TY. |
 
 ### See Also
 
