@@ -3,7 +3,7 @@ title: BatchTemplateProcessor
 second_title: Aspose.OMR for .NET API Reference
 description: A tool for recognizing scans with a specific recognition pattern
 type: docs
-weight: 890
+weight: 940
 url: /net/aspose.omr.batchprocessings/batchtemplateprocessor/
 ---
 ## BatchTemplateProcessor class

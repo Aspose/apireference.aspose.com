@@ -3,7 +3,7 @@ title: Aspose.OMR.Generation.Config.Elements
 second_title: Aspose.OMR for .NET API Reference
 description: The Aspose.OMR.Generation.Config.Elements contains all tempalte elements required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation.config.elements/
 ---
 The **Aspose.OMR.Generation.Config.Elements** contains all tempalte elements required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/
@@ -14,6 +14,7 @@ The **Aspose.OMR.Generation.Config.Elements** contains all tempalte elements req
 | --- | --- |
 | [AnswerSheetConfig](./answersheetconfig) | Represents AnswerSheet element. It allows adding choice boxes grouped in columns and rows. Use the answer sheet if you want to fit a lot of questions on a page since they are located close to each other. |
 | [BarcodeConfig](./barcodeconfig) | Barcode element. Can be used to encode value. Positioned on page using coordinates in pixels. |
+| [ChoiceBoxAnswerConfig](./choiceboxanswerconfig) | One of possible answers. Question is set using - of [`ChoiceBoxConfig`](../aspose.omr.generation.config.elements/choiceboxconfig) |
 | [ChoiceBoxConfig](./choiceboxconfig) | The choice box is a basic element that represents a single question with set amount of answers. |
 | [CompositeGridConfig](./compositegridconfig) | Grid element. Produce array of bubbles. Each filled bubble represent one symbol in composite value All marked symbols will be concatenated into single value |
 | [ContentConfig](./contentconfig) | Represent content element. Can be used as child element in the table. |

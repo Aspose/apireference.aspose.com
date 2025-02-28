@@ -3,7 +3,7 @@ title: PaperSize
 second_title: Aspose.OMR for .NET API Reference
 description: The paper size
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.omr.generation/papersize/
 ---
 ## PaperSize enumeration

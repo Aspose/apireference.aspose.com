@@ -3,7 +3,7 @@ title: DataRecord
 second_title: Aspose.OMR for .NET API Reference
 description: Represent data for single instance of the form
 type: docs
-weight: 900
+weight: 950
 url: /net/aspose.omr.batchprocessings/datarecord/
 ---
 ## DataRecord class

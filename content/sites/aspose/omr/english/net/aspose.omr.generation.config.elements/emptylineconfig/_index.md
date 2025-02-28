@@ -3,7 +3,7 @@ title: EmptyLineConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Empty element. Can be used as vertical margin. Skipped height can be set via property.
 type: docs
-weight: 580
+weight: 600
 url: /net/aspose.omr.generation.config.elements/emptylineconfig/
 ---
 ## EmptyLineConfig class

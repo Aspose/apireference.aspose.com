@@ -3,7 +3,7 @@ title: GlobalPageSettings
 second_title: Aspose.OMR for .NET API Reference
 description: The global settings applicable to all page elements.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.omr.generation/globalpagesettings/
 ---
 ## GlobalPageSettings class
@@ -24,14 +24,15 @@ public class GlobalPageSettings
 
 | Name | Description |
 | --- | --- |
-| [BatchBarcode](../../aspose.omr.generation/globalpagesettings/batchbarcode) | Configuration for batch barcode, placed on each form. Used only in batch processings via [`BatchOmrEngine`](../../aspose.omr.batchprocessings/batchomrengine) |
+| [BatchBarcode](../../aspose.omr.generation/globalpagesettings/batchbarcode) | Configuration for batch barcode, placed on each form. Used only in batch processing via [`BatchOmrEngine`](../../aspose.omr.batchprocessings/batchomrengine) |
 | [BubbleColor](../../aspose.omr.generation/globalpagesettings/bubblecolor) | Color of the bubbles |
 | [BubbleSize](../../aspose.omr.generation/globalpagesettings/bubblesize) | The size of the bubbles |
 | [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily) | The font family of the text |
 | [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | The size of the text font |
 | [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | The style of the text |
 | [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | Full paths to the images used in generation |
-| [LongWordHandling](../../aspose.omr.generation/globalpagesettings/longwordhandling) | Describes behaviour for all cases of a single word dimensions overflowing parent. |
+| [LongWordHandling](../../aspose.omr.generation/globalpagesettings/longwordhandling) | Describes behavior for all cases of a single word dimensions overflowing parent. |
+| [Multiselect](../../aspose.omr.generation/globalpagesettings/multiselect) | Sets default behavior for all elements that supports multiple selection of answers Can be overridden by a specific element property, usually "multiselect" By default is set to true true - allow more than one answer per questionfalse - forbid more than one answer per question. Exact behavior specified in [`Recognize`](../../aspose.omr.api/templateprocessor/recognize) |
 | [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | Orientation of the page |
 | [Overflow](../../aspose.omr.generation/globalpagesettings/overflow) | Set overflow action for each element on this page. OverflowAction control parent-child relations when child element size overflows allocated parent element size. |
 | [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | Left margin of the page on pixels |

@@ -1,26 +1,16 @@
 ---
 title: GetCorrectionControl
 second_title: Aspose.OMR for .NET API Reference
-description: Creates the CorrectionControlaspose.omr.correctionui/correctioncontrol instance that allows working with OMR API using GUI. Takes TemplateProcessoraspose.omr.api/templateprocessor as a parameter and only works with images created using specified template
+description: 
 type: docs
 weight: 40
 url: /net/aspose.omr.api/omrengine/getcorrectioncontrol/
 ---
 ## OmrEngine.GetCorrectionControl method
 
-Creates the [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) instance that allows working with OMR API using GUI. Takes [`TemplateProcessor`](../../templateprocessor) as a parameter and only works with images created using specified template
-
 ```csharp
 public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| processor | TemplateProcessor | The template processor |
-
-### Return Value
-
-The [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) instance
 
 ### See Also
 

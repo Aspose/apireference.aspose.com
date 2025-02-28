@@ -3,7 +3,7 @@ title: TableConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Table element.
 type: docs
-weight: 660
+weight: 680
 url: /net/aspose.omr.generation.config.elements.table/tableconfig/
 ---
 ## TableConfig class

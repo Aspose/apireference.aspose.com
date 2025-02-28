@@ -3,7 +3,7 @@ title: ConfigType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of Omr Element
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.omr.generation.config.enums/configtype/
 ---
 ## ConfigType enumeration
@@ -53,7 +53,7 @@ public enum ConfigType
 | CheckBox | `206` | [`CheckBoxConfig`](../../aspose.omr.generation.config.elements.parents/checkboxconfig) |
 | TableContent | `207` | [`TableContentConfig`](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig) |
 | CompositeGrid | `208` | [`CompositeGridConfig`](../../aspose.omr.generation.config.elements/compositegridconfig) |
-| ChoiceBoxAnswer | `209` | ChoiceBoxAnswerConfig |
+| ChoiceBoxAnswer | `209` | [`ChoiceBoxAnswerConfig`](../../aspose.omr.generation.config.elements/choiceboxanswerconfig) |
 | PositionedBlock | `210` | [`PositionedBlockConfig`](../../aspose.omr.generation.config.elements.parents/positionedblockconfig) |
 
 ### See Also

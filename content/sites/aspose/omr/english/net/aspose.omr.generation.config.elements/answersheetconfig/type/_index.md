@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.OMR for .NET API Reference
 description: Type of omr element. Required field for JSON serialization.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/type/
 ---
 ## AnswerSheetConfig.Type property

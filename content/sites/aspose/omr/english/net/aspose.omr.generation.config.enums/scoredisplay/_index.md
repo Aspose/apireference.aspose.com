@@ -3,7 +3,7 @@ title: ScoreDisplay
 second_title: Aspose.OMR for .NET API Reference
 description: Control displaying of score value.
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.omr.generation.config.enums/scoredisplay/
 ---
 ## ScoreDisplay enumeration

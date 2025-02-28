@@ -3,7 +3,7 @@ title: CustomRowConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Description of CustomRow. Used with CustomAnswerSheetConfig./customanswersheetconfig
 type: docs
-weight: 840
+weight: 860
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customrowconfig/
 ---
 ## CustomRowConfig class

@@ -3,7 +3,7 @@ title: AnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents AnswerSheet element. It allows adding choice boxes grouped in columns and rows. Use the answer sheet if you want to fit a lot of questions on a page since they are located close to each other.
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/
 ---
 ## AnswerSheetConfig class
@@ -30,6 +30,7 @@ public class AnswerSheetConfig : BaseConfig
 | [Column](../../aspose.omr.generation.config.elements/answersheetconfig/column) { get; set; } | Indicates in which column to draw sheet |
 | [ColumnsCount](../../aspose.omr.generation.config.elements/answersheetconfig/columnscount) { get; set; } | Sets the number of columns to be drawn. |
 | [ElementsCount](../../aspose.omr.generation.config.elements/answersheetconfig/elementscount) { get; set; } | Determines the total number of questions in the answer sheet. |
+| [Multiselect](../../aspose.omr.generation.config.elements/answersheetconfig/multiselect) { get; set; } | Allow to select multiple answers per question Overrides default settings in [`Multiselect`](../../aspose.omr.generation/globalpagesettings/multiselect) |
 | override [Name](../../aspose.omr.generation.config.elements/answersheetconfig/name) { get; set; } | Name of answer sheet |
 | [StartId](../../aspose.omr.generation.config.elements/answersheetconfig/startid) { get; set; } | The starting index of the questions numbering |
 | override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |

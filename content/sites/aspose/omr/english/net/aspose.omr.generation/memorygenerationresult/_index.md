@@ -3,7 +3,7 @@ title: MemoryGenerationResult
 second_title: Aspose.OMR for .NET API Reference
 description: GenerationResult./generationresult wrapper. Allows to save result as MemoryStream
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.omr.generation/memorygenerationresult/
 ---
 ## MemoryGenerationResult class

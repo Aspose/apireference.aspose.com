@@ -3,7 +3,7 @@ title: ChoiceBoxConfig
 second_title: Aspose.OMR for .NET API Reference
 description: The choice box is a basic element that represents a single question with set amount of answers.
 type: docs
-weight: 540
+weight: 560
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/
 ---
 ## ChoiceBoxConfig class
@@ -24,12 +24,13 @@ public class ChoiceBoxConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](../../aspose.omr.generation.config.elements/choiceboxconfig/children) { get; set; } | Child omr elements. ChoiceBoxAnswerConfig |
+| override [Children](../../aspose.omr.generation.config.elements/choiceboxconfig/children) { get; set; } | Child omr elements. [`ChoiceBoxAnswerConfig`](../choiceboxanswerconfig) |
 | [Color](../../aspose.omr.generation.config.elements/choiceboxconfig/color) { get; set; } | The color of the text |
 | [DisplayQuestionNumber](../../aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber) { get; set; } | Should we display number of this question. By default - true |
 | [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements/choiceboxconfig/fontstyle) { get; set; } | The style of the text |
+| [Multiselect](../../aspose.omr.generation.config.elements/choiceboxconfig/multiselect) { get; set; } | Allow to select multiple answers per question Overrides default settings in [`Multiselect`](../../aspose.omr.generation/globalpagesettings/multiselect) |
 | override [Name](../../aspose.omr.generation.config.elements/choiceboxconfig/name) { get; set; } | name of Choice box. For display value [`QuestionText`](./questiontext) |
 | [QuestionText](../../aspose.omr.generation.config.elements/choiceboxconfig/questiontext) { get; set; } | Gets or sets question text for ChoiceBox element |
 | [TextAlignment](../../aspose.omr.generation.config.elements/choiceboxconfig/textalignment) { get; set; } | Text alignment, indicating where text should be drawn on page |
