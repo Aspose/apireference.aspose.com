@@ -3,7 +3,7 @@ title: ReferencePoints
 second_title: Aspose.OMR for .NET API Reference
 description: Set if preferences for Reference Points and its markers
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.omr.generation/globalpagesettings/referencepoints/
 ---
 ## GlobalPageSettings.ReferencePoints field

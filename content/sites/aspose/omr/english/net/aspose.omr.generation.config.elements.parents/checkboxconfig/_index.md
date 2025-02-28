@@ -3,7 +3,7 @@ title: CheckBoxConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents CheckBox element.
 type: docs
-weight: 760
+weight: 780
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/
 ---
 ## CheckBoxConfig class
@@ -31,6 +31,7 @@ public class CheckBoxConfig : ParentConfig
 | [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle) { get; set; } | The style of the text |
 | [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename) { get; set; } | Control display of CheckBox name in template |
+| [Multiselect](../../aspose.omr.generation.config.elements.parents/checkboxconfig/multiselect) { get; set; } | Allow to select multiple answers per question Overrides default settings in [`Multiselect`](../../aspose.omr.generation/globalpagesettings/multiselect) |
 | override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name) { get; set; } | name of Check box. by default displayed before first check box. Can be hidden by [`HideName`](./hidename) |
 | [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation) { get; set; } | Control position of child elements. Currently support only horizontal. |
 | [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold) { get; set; } | Custom recognition marker. By default set to 3%. Check box will be considered marked if 3% of it's region is filled. Can be customized to any other threshold. Does not affect global threshold |

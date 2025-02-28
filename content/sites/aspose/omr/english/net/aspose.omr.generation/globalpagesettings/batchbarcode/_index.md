@@ -1,14 +1,14 @@
 ---
 title: BatchBarcode
 second_title: Aspose.OMR for .NET API Reference
-description: Configuration for batch barcode placed on each form. Used only in batch processings via BatchOmrEngineaspose.omr.batchprocessings/batchomrengine
+description: Configuration for batch barcode placed on each form. Used only in batch processing via BatchOmrEngineaspose.omr.batchprocessings/batchomrengine
 type: docs
 weight: 20
 url: /net/aspose.omr.generation/globalpagesettings/batchbarcode/
 ---
 ## GlobalPageSettings.BatchBarcode field
 
-Configuration for batch barcode, placed on each form. Used only in batch processings via [`BatchOmrEngine`](../../../aspose.omr.batchprocessings/batchomrengine)
+Configuration for batch barcode, placed on each form. Used only in batch processing via [`BatchOmrEngine`](../../../aspose.omr.batchprocessings/batchomrengine)
 
 ```csharp
 public BarcodeConfig BatchBarcode;

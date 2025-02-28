@@ -3,7 +3,7 @@ title: OmrEngine
 second_title: Aspose.OMR for .NET API Reference
 description: The OMR engine. Handles the creation of the template and image processing classes and GUI components.
 type: docs
-weight: 940
+weight: 990
 url: /net/aspose.omr.api/omrengine/
 ---
 ## OmrEngine class
@@ -29,9 +29,9 @@ public class OmrEngine
 | [Generate](../../aspose.omr.api/omrengine/generate#generate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Creates a [`GenerationResult`](../../aspose.omr.generation/generationresult) which contains template (.omr) and template image based on markup content |
 | [Generate](../../aspose.omr.api/omrengine/generate#generate_1)(Stream, GlobalPageSettings, ImageCollection, Encoding) | Creates a [`GenerationResult`](../../aspose.omr.generation/generationresult) which contains template (.omr) and template image based on markup stream |
 | [Generate](../../aspose.omr.api/omrengine/generate#generate_2)(string, GlobalPageSettings, string[], Encoding) | Creates a [`GenerationResult`](../../aspose.omr.generation/generationresult) which contains template (.omr) and template image based on markup content stored by specified path |
-| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Creates the [`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) instance that allows working with OMR API using GUI. Takes [`TemplateProcessor`](../templateprocessor) as a parameter and only works with images created using specified template |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) |  |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string, FormValidationLogic) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding, FormValidationLogic) | Creates the [`TemplateProcessor`](../templateprocessor) instance that allows working with specified template. |
 
 ### Examples
 

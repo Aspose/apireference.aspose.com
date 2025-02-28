@@ -1,14 +1,14 @@
 ---
 title: Children
 second_title: Aspose.OMR for .NET API Reference
-description: Child omr elements. ChoiceBoxAnswerConfig
+description: Child omr elements. ChoiceBoxAnswerConfigaspose.omr.generation.config.elements/choiceboxanswerconfig
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/children/
 ---
 ## ChoiceBoxConfig.Children property
 
-Child omr elements. ChoiceBoxAnswerConfig
+Child omr elements. [`ChoiceBoxAnswerConfig`](../../choiceboxanswerconfig)
 
 ```csharp
 public override List<BaseConfig> Children { get; set; }

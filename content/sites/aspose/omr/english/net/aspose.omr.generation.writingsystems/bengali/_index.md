@@ -3,7 +3,7 @@ title: Bengali
 second_title: Aspose.OMR for .NET API Reference
 description: Bengali Culture preset. RightToLeft and ১২৩
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.omr.generation.writingsystems/bengali/
 ---
 ## Bengali class

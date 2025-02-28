@@ -1,22 +1,16 @@
 ---
 title: LoadAndDisplayImage
 second_title: Aspose.OMR for .NET API Reference
-description: Load and display the image for the recognition
+description: 
 type: docs
 weight: 40
 url: /net/aspose.omr.correctionui/correctioncontrol/loadanddisplayimage/
 ---
 ## CorrectionControl.LoadAndDisplayImage method
 
-Load and display the image for the recognition
-
 ```csharp
 public void LoadAndDisplayImage(string imagePath)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imagePath | String | Path to the filled image to recognize |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: DataSet
 second_title: Aspose.OMR for .NET API Reference
 description: Collection of fields for each of the template instances. Used for batch Generation and batch Recognition BatchOmrEngine./batchomrengine
 type: docs
-weight: 910
+weight: 960
 url: /net/aspose.omr.batchprocessings/dataset/
 ---
 ## DataSet class

@@ -3,7 +3,7 @@ title: Aspose.OMR.Model
 second_title: Aspose.OMR for .NET API Reference
 description: The Aspose.OMR.Model contains recognition results result and OMR elements description.
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.omr.model/
 ---
 The **Aspose.OMR.Model** contains recognition results result and OMR elements description.

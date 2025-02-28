@@ -3,7 +3,7 @@ title: BaseOffset
 second_title: Aspose.OMR for .NET API Reference
 description: Basic contract used for setting offset in different measurements
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.omr.generation/baseoffset/
 ---
 ## BaseOffset class

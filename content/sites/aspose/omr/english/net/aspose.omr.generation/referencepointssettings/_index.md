@@ -3,7 +3,7 @@ title: ReferencePointsSettings
 second_title: Aspose.OMR for .NET API Reference
 description: Settings descibing behaviour for Reference Point of the template e.g. Black squares at the corners and rotation marker black rectangle between.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.omr.generation/referencepointssettings/
 ---
 ## ReferencePointsSettings class

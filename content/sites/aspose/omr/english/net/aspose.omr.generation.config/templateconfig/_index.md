@@ -3,7 +3,7 @@ title: TemplateConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Root element that contains all other omr elements
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.omr.generation.config/templateconfig/
 ---
 ## TemplateConfig class

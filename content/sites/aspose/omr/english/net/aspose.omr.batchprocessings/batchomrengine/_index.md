@@ -3,7 +3,7 @@ title: BatchOmrEngine
 second_title: Aspose.OMR for .NET API Reference
 description: Main aggregator for a batch processing
 type: docs
-weight: 870
+weight: 920
 url: /net/aspose.omr.batchprocessings/batchomrengine/
 ---
 ## BatchOmrEngine class
