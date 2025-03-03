@@ -48,10 +48,10 @@ The AsposeOcr type exposes the following members:
 |save_multipage_document(stream, save_format, results, apply_spelling_correction, language, dictionary_path, embedded_font_path)|  |
 |save_multipage_document(stream, save_format, results, apply_spelling_correction, language, dictionary_path, embedded_font_path, optimize_pdf)|  |
 |recognize_fast(images)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
-|recognize_street_photo(input)|Recognizes text on street photos.|
 |recognize_handwritten_text(images)|Recognizes handwritten text on images.|
 |calculate_skew(images)|Calculates the skew angles of an images.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.|
 |detect_defects(images, defect_type)|Automatically find problematic areas of an image that can significantly impact the accuracy of OCR.<br/>            Supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images provided as a file, stream, or pixel array. Supports bulk recognition.|
+|detect_languages(images)|  |
 |image_has_text(full_path, text, settings, ignore_case, auto_skew)|Check if the image contains the provided text fragment.|
 |compare_image_texts(full_path1, full_path2, settings, ignore_case)|Check if two images contain the same text.|
 |image_text_diff(full_path1, full_path2, settings, ignore_case, auto_skew)|Compare the texts on the two images and return a number representing how similar they are (0 to 1).|

@@ -24,6 +24,7 @@ Contains tools for image recognition, skew correction, text areas detection and 
 |[ImageData](/ocr/python-net/aspose.ocr/imagedata/)|Information about processed / recognized image.|
 |[ImageProcessing](/ocr/python-net/aspose.ocr/imageprocessing/)|Helper class for Aspose OCR library. Allows to preprocess and save images.|
 |[InvoiceRecognitionSettings](/ocr/python-net/aspose.ocr/invoicerecognitionsettings/)|Settings for the invoice recognition.<br/>            Contains elements that allow customizing the recognition process.|
+|[LanguageDetectionOutput](/ocr/python-net/aspose.ocr/languagedetectionoutput/)||
 |[License](/ocr/python-net/aspose.ocr/license/)|Provides methods to license the component.|
 |[Logging](/ocr/python-net/aspose.ocr/logging/)|Class to create log configurations.|
 |[Metered](/ocr/python-net/aspose.ocr/metered/)|Provides methods to set metered key.|
